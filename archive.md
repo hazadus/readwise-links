@@ -1,0 +1,638 @@
+# Архивные ссылки
+
+- [How projects fail at large tech companies](https://seangoedecke.com/how-projects-fail/) 👤 seangoedecke.com
+- [I don't care about your magic prompts](https://seangoedecke.com/magic-prompts/) 👤 seangoedecke.com
+- [Getting things "done" in large tech companies](https://seangoedecke.com/getting-things-done/) 👤 seangoedecke.com
+- [Страх и ненависть в офисе](https://www.kommersant.ru/doc/7690760?from=glavnoe_3#id2795835) 👤 Ольга Шкуренко
+- [What's up Python? Python in hardware, lock file support and a new type checker](https://www.bitecode.dev/p/whats-up-python-python-in-hardware) 👤 Bite Code!
+- [The valley of engineering despair](https://seangoedecke.com/the-valley-of-engineering-despair/) 👤 seangoedecke.com
+- [Обзор ремастера TES Oblivion - Маловато будет I Битый Пиксель](https://www.youtube.com/watch?v=Qdlt-WiK24Y) 👤 Битый Пиксель
+- [Обзор ремастера TES Oblivion - Маловато будет I Битый Пиксель](https://www.youtube.com/watch?v=Qdlt-WiK24Y) 👤 Битый Пиксель
+- [sycophancy is the first LLM “dark pattern”.](https://seangoedecke.com/ai-sycophancy/) 👤 seangoedecke.com
+- [The OpenAI house style is exhausting](https://seangoedecke.com/chatgpt-house-style/) 👤 seangoedecke.com
+- [Senior engineers should make side bets](https://seangoedecke.com/side-bets/) 👤 seangoedecke.com
+- [Мыс Дежнёва – здесь начинается день](https://gelio.livejournal.com/253583.html) 👤 livejournal.com
+- [The Good, the Bad, and the Ugly: My Experience with React](https://smsk.dev/2025/04/24/the-good-the-bad-and-the-ugly-my-experience-with-react/) 👤 smsk.dev
+- [The Hidden Cost of AI Coding](https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/) 👤 Terrible Software
+- [Working Through the Fear of Being Seen](https://ashley.dev/posts/fear-of-being-seen/) 👤 Ashley Willis
+- [A trick to feel less like cheating when you use LLMs](https://simonwillison.net/2025/Apr/23/cheating/#atom-everything) 👤 Simon Willison
+- [The next big thing in Python](https://www.bitecode.dev/p/the-next-big-thing-in-python) 👤 Bite Code!
+- [library-mcp: working with Markdown knowledge bases](https://lethain.com/library-mcp/) 👤 lethain.com
+- [When you should lie to the language model](https://seangoedecke.com/lying-to-llms/) 👤 seangoedecke.com
+- [The Best Programmers I Know](https://endler.dev/2025/best-programmers/) 👤 Matthias Endler
+- [15 Reasons I Love Go](https://appliedgo.net/why-go/) 👤 Applied Go
+- [Is using AI wrong? A review of six popular anti-AI arguments](https://seangoedecke.com/is-ai-wrong/) 👤 seangoedecke.com
+- [An LLM Codegen Hero's Journey](https://harper.blog/2025/04/17/an-llm-codegen-heros-journey/) 👤 Harper Reed <harper@modest.com>
+- [Guiding an LLM for Robust Java ByteBuffer Code](https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html) 👤 Unmesh Joshi
+- [The promise of Rust](https://fasterthanli.me/articles/the-promise-of-rust) 👤 Amos Wenger
+- [Reproducing Hacker News writing style fingerprinting](http://antirez.com/news/150) 👤 antirez.com
+- [The new Cookie Store API](https://fotis.xyz/posts/the-new-cookie-store-api/) 👤 Fotis Papadogeorgopoulos
+- [A practical guide to coding securely with LLMs](https://seangoedecke.com/ai-security/) 👤 seangoedecke.com
+- [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/?from=newsletter) 👤 Josh W. Comeau
+- [AI-generated tools can make programming more fun](https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger) 👤 geoffreylitt.com
+- [Why is lmarena.ai dominated by slop?](https://seangoedecke.com/lmsys-slop/) 👤 seangoedecke.com
+- [Designing software that could possibly work](https://seangoedecke.com/planning-software/) 👤 seangoedecke.com
+- [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs) 👤 geoffreylitt.com
+- [I dream about AI subagents; they whisper to me while I'm asleep](https://ghuntley.com/subagents/) 👤 Geoffrey Huntley
+- [Wicked features](https://seangoedecke.com/wicked-features/) 👤 seangoedecke.com
+- [Software engineering under the spotlight](https://seangoedecke.com/the-spotlight/) 👤 seangoedecke.com
+- [Мониторинг и Логи ПРОДАКШЕН уровня — Grafana + Loki + Prometheus + Promtail](https://youtube.com/watch?v=2JIyHNskK-c&si=J5StLqxMICnYNDrD) 👤 Артём Шумейко
+- [That health is mental](https://fasterthanli.me/articles/that-health-is-mental) 👤 Amos Wenger
+- [Simplify sharing with built-in APIs and progressive enhancement](https://piccalil.li/blog/simplify-sharing-with-built-in-apis-and-progressive-enhancement/) 👤 Piccalilli
+- [Real-world uses of TypeScript’s utility types](https://piccalil.li/blog/real-world-uses-of-typescripts-utility-types/) 👤 Piccalilli
+- [Making AI Actually Work on Your Team](https://terriblesoftware.org/2025/04/07/making-ai-actually-work-on-your-team/) 👤 Terrible Software
+- [if you aren't redlining the LLM, you aren't headlining](https://ghuntley.com/redlining/) 👤 Geoffrey Huntley
+- [Go With The Vibe • The Applied Go Weekly Newsletter 2025-04-06](https://newsletter.appliedgo.net/archive/2025-04-06-go-with-the-vibe/) 👤 The Applied Go Weekly Newsletter
+- [The blissful zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project) 👤 Josh Collinsworth
+- [Простой баг, ChatGPT и 50 минут боли: как ИИ программистов заменял](https://www.youtube.com/watch?v=DvAaql-nZ50&feature=youtu.be) 👤 Диджитализируй!
+- [What to Do](https://paulgraham.com/do.html) 👤 Paul Graham
+- [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) 👤 anthropic.com
+- [A Model Context Protocol Server (MCP) for Microsoft Paint](https://ghuntley.com/mcp/) 👤 Geoffrey Huntley
+- [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) 👤 Sandi Metz
+- [What is a Hash Function?](mailto:reader-forwarded-email/2c418e1c4a0b529d4b2e9b740edf8650) 👤 Jon Calhoun
+- [If I were starting out now…](mailto:reader-forwarded-email/6d4ddc884782c6b8591c5ef795ba7f17) 👤 Carlton Gibson
+- [What's up python? Less perf, no sugar and more bugs](https://www.bitecode.dev/p/whats-up-python-less-perf-no-sugar) 👤 Bite Code!
+- [🍑Obsidian / Dataview / JS — базы данных и произвольная визуализация в заметках](https://www.youtube.com/watch?v=F2tkYxKa7aY) 👤 Диджитализируй!
+- [Vibe Management](https://yieldcode.blog/post/vibe-management/) 👤 Dmitry Kudryavtsev
+- [Don’t Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/) 👤 Joel Spolsky
+- [Your Strengths Are Your Weaknesses](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/) 👤 Terrible Software
+- [#003 - To the galaxies beyond](https://buttondown.com/juhis/archive/003-to-the-galaxies-beyond/) 👤 From Juhis with Love
+- [I'm Leaving Sentry](http://lucumr.pocoo.org/2025/3/31/leaving) 👤 Armin Ronacher's Thoughts and Writings
+- [Stop Digging](https://ezyang.github.io/ai-blindspots/stop-digging/) 👤 AI Blindspots
+- [The future of AI is Ruby on Rails](https://www.seangoedecke.com/ai-and-ruby/) 👤 seangoedecke.com
+- [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns) 👤 Ethan McCue
+- [A Deep Dive Into MCP and the Future of AI Tooling](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/) 👤 Yoko Li
+- [Learn Zod So You Can Trust Your Data and Your Types](https://didoesdigital.com/blog/zod-overview/) 👤 Diana MacDonald
+- [Using the built-in thesaurus on the Mac](https://leancrew.com/all-this/2025/03/using-the-built-in-thesaurus-on-the-mac/) 👤 Dr. Drang
+- [Incomplete JSON Pretty Printer](https://simonwillison.net/2025/Mar/28/incomplete-json-pretty-printer/#atom-everything) 👤 Simon Willison
+- [AI Brainrot means developer opportunity](https://softwaredoug.com/blog/2025/03/28/ai-brainrot-opportunity) 👤 Doug Turnbull
+- [Tactical work in the age of layoffs](https://seangoedecke.com/tactical-work-in-the-age-of-layoffs/) 👤 seangoedecke.com
+- [Terminology 5: Rebuilt and Better than Ever](https://www.macstories.net/reviews/terminology-5-rebuilt-and-better-than-ever/) 👤 John Voorhees
+- [How to prompt engineer](https://smsk.dev/2025/03/13/how-to-prompt-engineer/) 👤 devsimsek
+- [SQL placeholders and Python](https://leancrew.com/all-this/2025/03/sql-placeholders-and-python/) 👤 Dr. Drang
+- [Why GitHub Actually Won](https://blog.gitbutler.com/why-github-actually-won/) 👤 Scott Chacon
+- [How I’ve run major projects](https://www.benkuhn.net/pjm/) 👤 benkuhn.net
+- [SQL help from ChatGPT](https://leancrew.com/all-this/2025/03/sql-help-from-chatgpt/) 👤 Dr. Drang
+- [AI is useless, but it's our bets bet for the future](http://antirez.com/news/148) 👤 antirez.com
+- [Beware tech career advice from old heads](https://jacobian.org/2025/mar/13/beware-advice-from-old-heads/) 👤 jacobian.org
+- [How do AIs code as well as they do?](https://davestewart.co.uk/blog/how-ai-writes-code/) 👤 Dave Stewart
+- [Why Writing Quality Tests Matters More Than Ever](https://alexbunardzic.substack.com/p/why-writing-quality-tests-matters) 👤 Alex Bunardzic
+- [Not all AI-assisted programming is vibe coding, but vibe coding rocks](https://simonwillison.net/2025/Mar/19/vibe-coding/#atom-everything) 👤 Simon Willison
+- [Enshittification as a matter of taste](https://daverupert.com/2025/03/enshittification-has-a-flavor/) 👤 Dave Rupert
+- [Stop Using and Recommending React](https://blog.lusito.info/stop-using-and-recommending-react.html) 👤 Santo Pfingsten
+- [Обязательная игра 2025 года - Обзор Split Fiction I Битый Пиксель](https://www.youtube.com/watch?v=nJg2TaVZHqM) 👤 Битый Пиксель
+- [Rust vs. Go: A Tale of Two Systems Languages](https://smsk.dev/2025/03/16/rust-vs-go-a-tale-of-two-systems-languages/) 👤 devsimsek
+- [A forty-year career.](https://lethain.com/forty-year-career/) 👤 lethain.com
+- [Tales with claude code: how to make it behave?¶](http://antocuni.eu/2025/03/16/tales-with-claude-code-how-to-make-it-behave/) 👤 antocuni.eu
+- [Our own agents with their own tools.](https://lethain.com/our-own-agents-our-own-tools/) 👤 lethain.com
+- [Now you don’t even need code to be a programmer. But you do still need expertise](https://simonwillison.net/2025/Mar/16/john-naughton/#atom-everything) 👤 Simon Willison
+- [Big LLMs weights are a piece of history](http://antirez.com/news/147) 👤 antirez.com
+- [The good times in tech are over](https://seangoedecke.com/good-times-are-over/) 👤 seangoedecke.com
+- [Career advice in 2025.](https://lethain.com/career-advice-2025/) 👤 lethain.com
+- [Refactoring to understand and "vibe coding"](https://seangoedecke.com/vibe-coding/) 👤 seangoedecke.com
+- [Font Ligatures for your Code Editor and Terminal](https://blog.miguelgrinberg.com/post/font-ligatures-for-your-code-editor-and-terminal) 👤 Miguel Grinberg
+- [The work is never just “the work”](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/) 👤 Dave Stewart
+- [Hallucinations in code are the least dangerous form of LLM mistakes](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/#qa) 👤 Simon Willison
+- [Why Your ‘Harmonious’ Team Is Actually Failing](mailto:reader-forwarded-email/b3abb396bef695affb07363111412026) 👤 Terrible Software
+- [Обзор Monster Hunter Wilds](https://www.youtube.com/watch?v=nh7EtaNI_R0) 👤 StopGame
+- [Here’s how I use LLMs to help me write code](https://simonwillison.net/2025/Mar/11/using-llms-for-code/#atom-everything) 👤 Simon Willison
+- [Обзор Monster Hunter Wilds. Идеальный набор для первой охоты](https://www.mirf.ru/games/monster-hunter-wilds-obzor) 👤 mirf.ru
+- [When worse is better](https://www.bitecode.dev/p/when-worse-is-better) 👤 Bite Code!
+- [Working with systemd timers](https://yieldcode.blog/post/working-with-systemd-timers/) 👤 Dmitry Kudryavtsev
+- [What's next after the AI bubble bursts?](https://seangoedecke.com/after-the-ai-bubble/) 👤 seangoedecke.com
+- [Model Context Protocol explained as simply as possible](https://seangoedecke.com/model-context-protocol/) 👤 seangoedecke.com
+- [What We Mean by Software Design](https://third-bit.com/2025/03/08/what-we-mean-by-software-design/) 👤 third-bit.com
+- [No More Client Tracking Thanks To GoAccess](https://brainbaking.com/post/2025/03/no-more-client-tracking-thanks-to-goaccess/) 👤 Brain Baking
+- [Great software design looks underwhelming](https://seangoedecke.com/great-software-design/) 👤 seangoedecke.com
+- [Наклейки на ноутах](https://grishaev.me/stickers/) 👤 grishaev.me
+- [Именованные операторы](https://grishaev.me/operator-names/) 👤 grishaev.me
+- [Новый макбук](https://grishaev.me/new-mac/) 👤 grishaev.me
+- [Bathroom model](https://grishaev.me/hashtable-bathroom/) 👤 grishaev.me
+- [О еврочновниках](https://grishaev.me/euro-officials/) 👤 grishaev.me
+- [Аналоговое образование](https://grishaev.me/analog-school/) 👤 grishaev.me
+- [How to (and how not to) design REST APIs · stickfigure/blog Wiki · GitHub](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs) 👤 https://github.com/stickfigure/
+- [Document Your Nuxt Endpoints With OpenAPI and Visualize With Swagger or Scalar](https://mokkapps.de/blog/document-your-nuxt-endpoints-with-open-api-and-visualize-with-swagger-or-scalar) 👤 Michael Hoffmann
+- [Why Can't Programmers.. Program?](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html) 👤 Jeff Atwood
+- [Что такое Disruptor?](https://grishaev.me/what-is-disruptor/) 👤 grishaev.me
+- [Корпоративные обновления](https://grishaev.me/corp-update/) 👤 grishaev.me
+- [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) 👤 kalzumeus.com
+- [Starting a series of videos on a topic I promised to never talk about again](https://buttondown.com/hynek/archive/starting-a-series-of-videos-on-a-topic-i-promised/) 👤 Hynek Did Something
+- [Core Nuxt Features for Fast, Scalable, and SEO-Optimized Web Apps](https://www.monterail.com/blog/core-nuxt-features-for-web-apps) 👤 monterail.com
+- [The only way to know for sure... is to build a prototype](https://daverupert.com/2025/03/the-only-way-to-know-for-sure-is-to-build-a-prototype/) 👤 Dave Rupert
+- [What's up Python? Better packaging and better debugging](https://www.bitecode.dev/p/whats-up-python-better-packaging) 👤 Bite Code!
+- [Value over replacement in software engineering](https://seangoedecke.com/value-over-replacement/) 👤 seangoedecke.com
+- [Refactoring won't save you from a layoff](https://seangoedecke.com/where-the-money-comes-from/) 👤 seangoedecke.com
+- [Thoughts on Vibe Coding](https://wsvincent.com/vibe-coding/) 👤 Will Vincent
+- [A Review of The Quick Python Book, Fourth Edition](https://blog.miguelgrinberg.com/post/a-review-of-the-quick-python-book-fourth-edition) 👤 Miguel Grinberg
+- [What Does a Developer Advocate Do?](https://wsvincent.com/what-does-a-developer-advocate-do/) 👤 Will Vincent
+- [You Should Compile Your Own Philosophy](https://brainbaking.com/post/2025/01/you-should-compile-your-own-philosophy/) 👤 Brain Baking
+- [Impostor Syndrome](https://www.noidea.dog/impostor) 👤 No Idea Blog
+- [Обзор Dawnfolk. Маленький шедевр с инди-сцены](https://www.mirf.ru/games/dawnfolk-obzor) 👤 mirf.ru
+- [Paths through the space of all possible solutions](https://seangoedecke.com/solution-space/) 👤 seangoedecke.com
+- [Explaining it helps you learn it](https://hamatti.org/posts/explaining-it-helps-you-learn-it/) 👤 Juha-Matti Santala
+- [Hyperspace: Quickly Recover Mac Storage Without Deleting Files](https://www.macstories.net/reviews/hyperspace-quickly-recover-mac-storage-without-deleting-files/) 👤 John Voorhees
+- [My 2025 uv-based Python Project Layout for Production Apps](https://www.youtube.com/watch?v=mFyE9xgeKcA) 👤 Hynek Schlawack
+- [A million little secrets](mailto:reader-forwarded-email/89c286991759938134a025a8f21e324f) 👤 Josh Comeau
+- [Advice for prompting reasoning models](https://seangoedecke.com/prompting-reasoning-models/) 👤 seangoedecke.com
+- [Howto: Humble command-line assistant](https://antonz.org/howto/) 👤 Anton Zhiyanov
+- [Why weak managers are a problem](https://seangoedecke.com/weak-managers/) 👤 seangoedecke.com
+- [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/) 👤 Harper Reed <harper@modest.com>
+- [Обзор Kingdom Come: Deliverance II](https://www.youtube.com/watch?v=zuZmAGiI9z8) 👤 StopGame
+- [Development Philosophy](https://develop.sentry.dev/getting-started/philosophy/) 👤 sentry.dev
+- [The Hardest Problem](https://benv.ca/blog/posts/the-hardest-problem) 👤 benv.ca
+- [Using LLMs effectively isn't about prompting](https://seangoedecke.com/beyond-prompting/) 👤 seangoedecke.com
+- [Slashing my ".bashrc" in half](https://www.bitecode.dev/p/slashing-my-bashrc-in-half) 👤 Bite Code!
+- [Ugly Code and Dumb Things](http://lucumr.pocoo.org/2025/2/20/ugly-code) 👤 Armin Ronacher's Thoughts and Writings
+- [Alpine.js Crash Course #8 - Loops](https://www.youtube.com/watch?v=OftSKFk0_Bc) 👤 Net Ninja
+- [Поиграл в Elden Ring Nightreign - издевательство над фанатами I Битый Пиксель](https://www.youtube.com/watch?v=WtPpZ9QlKRI) 👤 Битый Пиксель
+- [Обзор Sid Meier's Civilization VII](https://www.youtube.com/watch?v=H3Xln2_0abQ) 👤 StopGame
+- [Alpine.js Crash Course #7 - Using x-if](https://www.youtube.com/watch?v=4MiNCCWw0ZI) 👤 Net Ninja
+- [Using AI in open source](https://roe.dev/blog/using-ai-in-open-source/) 👤 Daniel Roe
+- [The End of Programming as We Know It](https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/) 👤 Tim O’Reilly
+- [Alpine.js Crash Course #6 - Form Reset & Validation](https://www.youtube.com/watch?v=TQmqeVRboCE) 👤 Net Ninja
+- [How to create software quality.](https://lethain.com/quality/) 👤 lethain.com
+- [Exploring Generative AI](https://martinfowler.com/articles/exploring-gen-ai.html#memo-12) 👤 Birgitta Böckeler
+- [A Simple Note-Taking System for Managers](https://terriblesoftware.org/2025/02/17/a-simple-note-taking-system-for-managers/) 👤 Terrible Software
+- [Обзор Kingdom Come Deliverance 2 - шедевральная RPG с душой I Битый Пиксель](https://www.youtube.com/watch?v=yWLar2JrHfY) 👤 Битый Пиксель
+- [An "oh fuck" moment in time](https://ghuntley.com/oh-fuck/) 👤 Geoffrey Huntley
+- [The future belongs to idea guys who can just do things](https://ghuntley.com/dothings/) 👤 Geoffrey Huntley
+- [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should?r=28tjlb&amp%3Butm_campaign=post&amp%3Butm_medium=web&triedRedirect=true) 👤 Bite Code!
+- [To avoid being replaced by LLMs, do what they can't](https://seangoedecke.com/what-llms-cant-do/) 👤 seangoedecke.com
+- [Lessons on thinking from large language models](https://seangoedecke.com/learning-from-how-llms-think/) 👤 seangoedecke.com
+- [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) 👤 Joel Spolsky
+- [The Death of the Junior Developer](https://sourcegraph.com/blog/the-death-of-the-junior-developer) 👤 Steve Yegge
+- [The 6 Mistakes You’re Going to Make as a New Manager](https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager/) 👤 Terrible Software
+- [Management Is Lonely — And What to Do About It](https://terriblesoftware.org/2024/12/06/management-is-lonely-and-what-to-do-about-it/) 👤 Terrible Software
+- [We’ve Been Here Before](https://terriblesoftware.org/2024/12/14/weve-been-here-before/) 👤 Terrible Software
+- [The 7 Most Influential Papers in Computer Science History](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/) 👤 Terrible Software
+- [The RISE of the Junior Developer](https://terriblesoftware.org/2025/02/10/the-rise-of-the-junior-developer/) 👤 Terrible Software
+- [When Doing Nothing is the Best Management Strategy](https://terriblesoftware.org/2024/12/11/when-doing-nothing-is-the-best-management-strategy/) 👤 Terrible Software
+- [The One Good Reason to Become a Manager (and All the Bad Ones)](https://terriblesoftware.org/2024/12/05/the-one-good-reason-to-become-a-manager-and-all-the-bad-ones/) 👤 Terrible Software
+- [Effective Team Engagement Strategies for New Managers](https://terriblesoftware.org/2025/01/03/effective-team-engagement-strategies-for-new-managers/) 👤 Terrible Software
+- [Know your “One Job”, continued](https://charity.wtf/2021/03/09/know-your-one-job-continued/) 👤 charity.wtf
+- [Alpine.js Crash Course #5 - Show & Hide Password](https://www.youtube.com/watch?v=2dzctlfLe1Q) 👤 Net Ninja
+- [Burnout ≠ Working Too Much](https://terriblesoftware.org/2024/12/20/burnout-%E2%89%A0-working-too-much/) 👤 Terrible Software
+- [Alpine.js Crash Course #3 - Attribute Binding](https://www.youtube.com/watch?v=ZlHr3TltNB0) 👤 Net Ninja
+- [Know your “One Job” and do it first](https://charity.wtf/2021/03/07/know-your-one-job-and-do-it-first/) 👤 mipsytipsy
+- [Alpine.js Crash Course #2 - Models & Forms](https://www.youtube.com/watch?v=a-hDbPEVogA) 👤 Net Ninja
+- [Alpine.js Crash Course #1 - Alpine Basics](https://www.youtube.com/watch?v=a3Cso8JDUys) 👤 Net Ninja
+- [Engineers who won’t commit force bad decisions](https://seangoedecke.com/taking-a-position/) 👤 seangoedecke.com
+- [Смерть полезного контента](https://maximilyahov.ru/blog/all/useful-dead/) 👤 maximilyahov.ru
+- [Слово, которое выдаёт п...бола](http://maximilyahov.ru/blog/all/nado/) 👤 maximilyahov.ru
+- [We are destroying software](https://antirez.com/news/145) 👤 antirez.com
+- [Seeking Purity](http://lucumr.pocoo.org/2025/2/8/seeking-purity) 👤 Armin Ronacher's Thoughts and Writings
+- [Twenty Years of Glasses](https://brainbaking.com/post/2025/02/twenty-years-of-glasses/) 👤 Brain Baking
+- [Good engineers are right, a lot](https://seangoedecke.com/being-right-a-lot/) 👤 seangoedecke.com
+- [Просто берите Postgres](https://grishaev.me/just-use-postgres/) 👤 grishaev.me
+- [Слишком длинный текст о себе](https://www.maximilyahov.ru/blog/all/too-long-bro/) 👤 maximilyahov.ru
+- [Пропаганда: «А сам»](https://maximilyahov.ru/blog/all/up-yours/) 👤 maximilyahov.ru
+- [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/using-github/github-flow) 👤 GitHub Docs
+- [Alpine.js makes client side interactivity stupidly simple](https://www.youtube.com/watch?v=vLB7r8neQvE) 👤 Dreams of Code
+- [How to set up Decky Loader on Steam Deck / SteamOS for easy plugins](https://www.gamingonlinux.com/guides/view/how-to-set-up-decky-loader-on-steam-deck-steamos-for-easy-plugins) 👤 Liam Dawe
+- [How I use LLMs as a staff engineer](https://seangoedecke.com/how-i-use-llms/) 👤 seangoedecke.com
+- [Fat Rand: How Many Lines Do You Need To Generate A Random Number?](http://lucumr.pocoo.org/2025/2/4/fat-rand) 👤 Armin Ronacher's Thoughts and Writings
+- [The Anbernic RG35XXSP | A Review](https://wavelengths.online/posts/the-anbernic-rg35xxsp-a-review) 👤 Wavelengths
+- [How to be a -10x Engineer](https://taylor.town/-10x) 👤 Taylor Troesh
+- [3 Ways A Website Project Falls Apart](https://ohdoylerules.com/web/3-ways-a-website-project-falls-apart/) 👤 James Doyle
+- [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/) 👤 Armin Ronacher's Thoughts and Writings
+- [The Attention Crisis Is Just a Distraction | The New Yorker](https://www.newyorker.com/magazine/2025/01/27/the-sirens-call-chris-hayes-book-review) 👤 Daniel Immerwahr
+- [#001 - A musical prelude to a new year](mailto:reader-forwarded-email/d12cf6aa2e0719b9d6172fca2687b42c) 👤 Juha-Matti Santala
+- [A small note-taking change](https://leancrew.com/all-this/2025/02/a-small-note-taking-change/) 👤 Dr. Drang
+- [Favourites of January 2025](https://brainbaking.com/post/2025/02/january-2025/) 👤 Brain Baking
+- [Поиграл в Kingdom Come Deliverance 2 - после 60 часов. Средневековая GTA возвращается. Игра года?](https://www.youtube.com/watch?v=T8lZXsCqbkQ) 👤 Антон Логвинов
+- [You Can Stream PS5 Games to Your Steam Deck with This Handy App](https://www.howtogeek.com/you-can-stream-ps5-games-to-your-steam-deck-with-this-handy-app/) 👤 Zachary Cimaglio
+- [Are DeepSeek's new models really that fast and cheap?](https://seangoedecke.com/is-deepseek-fast/) 👤 seangoedecke.com
+- [Why I still like Sublime Text in 2025](https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/) 👤 James Doyle
+- [How I Use AI: Meet My Promptly Hired Model Intern](https://lucumr.pocoo.org/2025/1/30/how-i-ai/) 👤 Armin Ronacher's Thoughts and Writings
+- [🤖 My big list of AI/LLM tools, notes, and how I'm using them](https://micro.webology.dev/2025/01/29/my-big-list-of-aillm/) 👤 webology.dev
+- [2024 In Books](https://brainbaking.com/post/2025/01/2024-in-books/) 👤 Brain Baking
+- [Why AI labs offer so many different models](https://seangoedecke.com/ai-lab-structure/) 👤 seangoedecke.com
+- [Writing a tech blog people want to read](https://www.seangoedecke.com/on-writing/) 👤 seangoedecke.com
+- [Ratchet effects determine engineer reputation at large companies](https://www.seangoedecke.com/ratchet-effects/) 👤 seangoedecke.com
+- [How I got promoted to staff engineer twice](https://www.seangoedecke.com/staff-engineer-promotions/) 👤 seangoedecke.com
+- [Why some engineers get trusted with high-impact work](https://www.seangoedecke.com/point-person/) 👤 seangoedecke.com
+- [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/) 👤 seangoedecke.com
+- [I don't know how to build software and you don't either](https://www.seangoedecke.com/confidence/) 👤 seangoedecke.com
+- [How LLMs work](https://www.seangoedecke.com/how-llms-work/) 👤 seangoedecke.com
+- [Acing the coding challenge](https://www.seangoedecke.com/acing-the-coding-challenge/) 👤 seangoedecke.com
+- [Acing the design interview](https://www.seangoedecke.com/acing-the-design-interview/) 👤 seangoedecke.com
+- [Blockchain explained simply](https://www.seangoedecke.com/blockchain-explained-simply/) 👤 seangoedecke.com
+- [Building multiplayer games with socket.io and HTML5 Canvas](https://www.seangoedecke.com/socket-io-game/) 👤 seangoedecke.com
+- [Keep incidents boring](https://www.seangoedecke.com/boring-incidents/) 👤 seangoedecke.com
+- [Blockchain for beginners](https://www.seangoedecke.com/blockchain-for-beginners/) 👤 seangoedecke.com
+- [Learning incident response with problem sets](https://www.seangoedecke.com/incident-problem-sets/) 👤 seangoedecke.com
+- [Writing good technical explanations](https://www.seangoedecke.com/why-use-x/) 👤 seangoedecke.com
+- [Avoiding worry driven development](https://www.seangoedecke.com/worry-driven-development/) 👤 Sean Goedecke
+- [Being Glue](https://www.noidea.dog/glue) 👤 No Idea Blog
+- [I could do that in a weekend!](https://danluu.com/sounds-easy/) 👤 danluu.com
+- [Как правильно делать тестовые задания на Python (flask, fastapi)](https://habr.com/ru/articles/877180/) 👤 Хабр
+- [How to give pushback to leadership](https://leaddev.com/communication/how-give-pushback-leadership) 👤 anastasija
+- [Is it cynical to do what your manager wants?](https://www.seangoedecke.com/cynicism) 👤 seangoedecke.com
+- [Glue work considered harmful](https://www.seangoedecke.com/glue-work-considered-harmful) 👤 seangoedecke.com
+- [Life Lessons from the First Half-Century of My Career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/) 👤 David A. Patterson
+- [SOLID и контекст](https://grishaev.me/solid-context/) 👤 grishaev.me
+- [SOLID и другие аббревиатуры](https://grishaev.me/solid-abbrev/) 👤 grishaev.me
+- [Human Connection](https://third-bit.com/2025/01/26/human-connection/) 👤 third-bit.com
+- [Playing politics is how senior engineers protect their team](https://seangoedecke.com/politics-is-your-responsibility/) 👤 seangoedecke.com
+- [Working fast and slow](https://www.seangoedecke.com/working-fast-and-slow/) 👤 seangoedecke.com
+- [The Fuck](https://grishaev.me/the-fuck/) 👤 grishaev.me
+- [Постгрес и отчеты](https://grishaev.me/postgres-csv/) 👤 grishaev.me
+- [Код на русском](https://grishaev.me/lol-1c/) 👤 grishaev.me
+- [Дети в телефонах](https://grishaev.me/grumping/) 👤 grishaev.me
+- [Получить деньги](https://grishaev.me/get-money/) 👤 grishaev.me
+- [Why are big tech companies so slow?](https://www.seangoedecke.com/difficulty-in-big-tech/) 👤 seangoedecke.com
+- [Invariant (mathematics) - Wikipedia](https://en.m.wikipedia.org/wiki/Invariant_(mathematics)#Invariants_in_computer_science) 👤 wikipedia.org
+- [Darkest Dungeon без боли: 100 страниц боевого опыта](https://steamcommunity.com/sharedfiles/filedetails/?id=1231015168) 👤 steamcommunity.com
+- [Эвристический алгоритм — Википедия](https://ru.m.wikipedia.org/wiki/%D0%AD%D0%B2%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC) 👤 wikipedia.org
+- [Книга "Цель"](https://grishaev.me/goal-book/) 👤 grishaev.me
+- [The Darkest Dungeon](https://grishaev.me/the-darkest-dungeon/) 👤 grishaev.me
+- [Как читать книги для самообразования](https://readwise.io/reader/document_raw_content/262840656) 👤 Поварнин С.И.
+- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем фронтенд](https://habr.com/ru/companies/amvera/articles/874970/) 👤 Хабр
+- [Пишем морской бой на VueJS и Python](https://habr.com/ru/articles/874188/) 👤 Хабр
+- [Error Handling No-Goes In Go](https://brainbaking.com/post/2024/03/error-handling-no-goes-in-go/) 👤 Brain Baking
+- [What can strong engineers do that weak engineers can't?](https://www.seangoedecke.com/weak-engineers) 👤 seangoedecke.com
+- [Everyone's Favorite Route • The Applied Go Weekly Newsletter 2025-01-19](https://newsletter.appliedgo.net/archive/2025-01-19-everyones-favorite-route/) 👤 The Applied Go Weekly Newsletter
+- [Protecting your time from predators in large tech companies](https://seangoedecke.com/predators/) 👤 seangoedecke.com
+- [Thinking clearly about software](https://seangoedecke.com/thinking-clearly/) 👤 seangoedecke.com
+- [Giving pushback to leadership](https://seangoedecke.com/pushback/) 👤 seangoedecke.com
+- [Crushing JIRA tickets is a party trick, not a path to impact](https://www.seangoedecke.com/party-tricks/) 👤 seangoedecke.com
+- [Мы не пьем, а лечимся](https://hij.ru/read/29545/) 👤 hij.ru
+- [Big Things Will Happen • The Applied Go Weekly Newsletter 2025-01-12](https://newsletter.appliedgo.net/archive/big-things-will-happen/) 👤 The Applied Go Weekly Newsletter
+- [Django vs. FastAPI, An Honest Comparison](https://www.david-dahan.com/blog/comparing-fastapi-and-django?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_267) 👤 david-dahan.com
+- [How to easily track engineering metrics](https://victoronsoftware.com/posts/track-engineering-metrics/) 👤 Victor Lyuboslavsky
+- [К слову об именах переменных в Go](https://habr.com/ru/articles/872940/) 👤 Хабр
+- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем бэкенд](https://habr.com/ru/companies/amvera/articles/873108/) 👤 Хабр
+- [Why goals fail](https://thesweetsetup.com/why-do-goals-fail/) 👤 Shawn Blanc
+- [Let's Go](https://readwise.io/reader/document_raw_content/258496378) 👤 Alex Edwards
+- [Division of Labor](https://third-bit.com/2025/01/08/division-of-labor/) 👤 third-bit.com
+- [Forming Teams](https://third-bit.com/2025/01/07/forming-teams/) 👤 third-bit.com
+- [Why Go Should Sometimes Be a No-Go](https://brainbaking.com/post/2024/12/why-go-should-sometimes-be-a-no-go/) 👤 Brain Baking
+- [Managing Conflict](https://third-bit.com/2025/01/09/conflict/) 👤 third-bit.com
+- [3 Hours or Nothing](https://www.workingtheorys.com/p/3-hours?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-05-unfamiliar) 👤 Anu
+- [Air Time](https://third-bit.com/2025/01/05/air-time/) 👤 third-bit.com
+- [Unfamiliar • The Applied Go Weekly Newsletter 2025-01-05](https://newsletter.appliedgo.net/archive/2025-01-05-unfamiliar/) 👤 The Applied Go Weekly Newsletter
+- [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-05-unfamiliar) 👤 seangoedecke.com
+- [Tips and Resources for Learning Go in 2025](mailto:reader-forwarded-email/96015a8074c06c43675c70eaab7a79ee) 👤 Jon Calhoun
+- [Preferring throwaway code over design docs](https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs) 👤 Doug Turnbull
+- [Meetings](https://third-bit.com/2025/01/04/meetings/) 👤 third-bit.com
+- [Garden of Learning](https://notes.hamatti.org/) 👤 hamatti.org
+- [Микросервисы в представлении среднего разработчика, и как всё на самом деле](https://habr.com/ru/articles/825532/) 👤 Хабр
+- [Time Management](https://third-bit.com/2025/01/03/time-management/) 👤 third-bit.com
+- [A Year In Review: Flask in 2024](https://blog.miguelgrinberg.com/post/a-year-in-review-flask-in-2024) 👤 Miguel Grinberg
+- [Crunch Mode](https://third-bit.com/2025/01/02/crunch-mode/) 👤 third-bit.com
+- [Code Review - Recheck the basics](https://www.better-simple.com/code-review/recheck-the-basics#are-the-migrations-schema-changes-condensed) 👤 https://www.better-simple.com/portfolio/
+- [2024 - My year in review](https://www.better-simple.com/personal/2024/12/30/my-year-in-review/) 👤 https://www.better-simple.com/portfolio/
+- [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects) 👤 Mitchell Hashimoto
+- [Любимые игры 2024 года I Битый Пиксель](https://www.youtube.com/watch?v=kg7OhpzZGI4) 👤 Битый Пиксель
+- [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/) 👤 Igor's Techno Club
+- [Base64](https://developer.mozilla.org/en-US/docs/Glossary/Base64) 👤 MDN Web Docs
+- [Go Composition does not compose well with Implicit Interfaces](https://clace.io/blog/go-composition/) 👤 Internal Tools Deployment Platform | Clace
+- [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) 👤 stuffwithstuff.com
+- [Essential tools for Go developers](https://jarosz.dev/code/essential-tools-for-go-developers/?utm_source=christophberger&utm_medium=email&utm_campaign=dont-mess-with-that-property) 👤 Jakub Jarosz
+- [Organizing Your Go Code: Tips for Beginners](https://jarosz.dev/code/organizing-your-golang-code-tips-for-beginners/?utm_source=christophberger&utm_medium=email&utm_campaign=time-is-skipping) 👤 Jakub Jarosz
+- [UV with GitHub Actions to run an RSS to README project](https://simonwillison.net/2024/Oct/5/uv-with-github-actions-to-run-an-rss-to-readme-project/) 👤 Simon Willison
+- [My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/) 👤 simonwillison.net
+- [An Intro to pre-commit](mailto:reader-forwarded-email/fe4de44fcd16eabffb337613b053e3fb) 👤 Mike Driscoll from The Python Papers
+- [Анджей Сапковский «Перекрёсток ворона». Какой получилась книга о юности Геральта](https://www.mirf.ru/book/andjei-sapkovskii-perekrestok-vorona) 👤 mirf.ru
+- [Things I love about Golang - by Thane Thomson
+Things I love about Golang](https://hatwd.com/p/things-i-love-about-golang) 👤 Thane Thomson
+- [Time is skipping • The Applied Go Weekly Newsletter 2024-12-15](https://newsletter.appliedgo.net/archive/time-is-skipping/) 👤 The Applied Go Weekly Newsletter
+- [FastAPI + Redis + Celery: Создание системы временного хранения файлов с автоудалением и удобным веб-интерфейсом](https://habr.com/ru/companies/amvera/articles/866200/) 👤 Хабр
+- [Conventions in Go (a refresher)](https://appliedgo.net/spotlight/conventions-in-go/) 👤 Applied Go
+- [RTFM • The Applied Go Weekly Newsletter 2024-12-08](https://newsletter.appliedgo.net/archive/rtfm/?utm_source=appliedgo-mastodon) 👤 The Applied Go Weekly Newsletter
+- [Enhancing Go performance: Profiling applications with flamegraphs](https://blog.alexoglou.com/posts/profiling-golang/) 👤 Costa Alexoglou
+- [Ghost Engineers](https://yieldcode.blog/post/ghost-engineers/) 👤 Dmitry Kudryavtsev
+- [Getting the path to the note I have open in Obsidian](https://alexwlchan.net/2023/obsidian-open-note/) 👤 alexwlchan.net
+- [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/) 👤 catb.org
+- [Using shot-scraper with GitHub Actions¶](https://shot-scraper.datasette.io/en/stable/github-actions.html) 👤 datasette.io
+- [Instantly create a GitHub repository to take screenshots of a web page](https://simonwillison.net/2022/Mar/14/shot-scraper-template/) 👤 Simon Willison
+- [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/) 👤 Simon Willison
+- [Continuous refresh, or: how to keep your API client authorized](https://appliedgo.net/refresh/) 👤 Applied Go
+- [Taking regular screenshots of my website](https://alexwlchan.net/2024/scheduled-screenshots/) 👤 alexwlchan.net
+- [Dec 8 Suite smells: undertesting and overtesting](https://bitfieldconsulting.com/posts/undertesting-overtesting) 👤 John Arundel
+- [Golang HTTP Handler With Gzip](https://clavinjune.dev/en/blogs/golang-http-handler-with-gzip/) 👤 Clavin June
+- [Jan 14 A career ending mistake](https://bitfieldconsulting.com/posts/career/) 👤 John Arundel
+- [Three is a pattern](https://hamatti.org/posts/three-is-a-pattern/) 👤 Juha-Matti Santala
+- [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/) 👤 morling.dev
+- [Pydantic 2: Полное руководство для Python-разработчиков — от основ до продвинутых техник](https://habr.com/ru/companies/amvera/articles/851642/) 👤 Хабр
+- [(3) Асинхронный SQLAlchemy 2: улучшение кода, методы обновления и удаления данных](https://habr.com/ru/companies/amvera/articles/855740/) 👤 Хабр
+- [(2) Асинхронный SQLAlchemy 2: пошаговый гайд по управлению сессиями, добавлению и извлечению данных с Pydantic](https://habr.com/ru/companies/amvera/articles/850470/) 👤 Хабр
+- [(1) Асинхронный SQLAlchemy 2: простой пошаговый гайд по настройке, моделям, связям и миграциям с использованием Alembic](https://habr.com/ru/companies/amvera/articles/849836/) 👤 Хабр
+- [Создание блога на FastAPI с нуля: JWT, Markdown и современный веб-дизайн](https://habr.com/ru/companies/amvera/articles/863130/) 👤 Хабр
+- [How to Perform Code Reviews in Tech – The Painless Way](https://www.freecodecamp.org/news/how-to-perform-code-reviews-in-tech-the-painless-way/) 👤 freeCodeCamp.org
+- [Tech on the Toilet: Driving Software Excellence, One Bathroom Break at a Time](http://testing.googleblog.com/2024/12/tech-on-toilet-driving-software.html) 👤 Google Testing Blog
+- [НЕ обзор Stalker 2 - Глюкоборец I Битый Пиксель](https://www.youtube.com/watch?v=5gwyXzl5Hmo) 👤 Битый Пиксель
+- [If Not React, Then What?](https://infrequently.org/2024/11/if-not-react-then-what/) 👤 Infrequently Noted
+- [Experience Report: It Will Never Work in Theory](https://csdl-downloads.ieeecomputer.org/mags/so/2024/03/10424425.pdf?Expires=1733118435&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL21hZ3Mvc28vMjAyNC8wMy8xMDQyNDQyNS5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzMxMTg0MzV9fX1dfQ__&Signature=hIeSYvq9AUdErd8MhRR~k7X--fUxim3S-e28iieKpIy~S4bZyX1xV5~-C7NZksqjw417RlR5JmTdbdW1f2ATA8ynZzI0JW~TY5FqRJOoe0QgS0R8ygm33L1CNRQa14Wz5xYuUc2cMICx2nQ~FzkD-q2GZ9jYI6cmmIBFlf4U5ld142cqbhGMuWvFu2Hlj01wFjeaIAs09mC28bOsDrlJ7kRD7UuEnu09wDSglLmfHM516g8xOIT9nf6qWYgPI~PkxpzwlPROcjlWIJZm2eLM4PyR27sjfs1iOfssdslm1zpKAv9Von3z4HszERXxCsfaUz81XqXwhQQwU8S5z0N3RQ__&Key-Pair-Id=K12PMWTCQBDMDT) 👤 csdl-downloads.ieeecomputer.org
+- [Scheduling Tasks and Threads](https://browser.engineering/scheduling.html) 👤 Web Browser Engineering
+- [Animating and Compositing](https://browser.engineering/animations.html) 👤 Web Browser Engineering
+- [Making Content Accessible](https://browser.engineering/accessibility.html) 👤 Web Browser Engineering
+- [Supporting Embedded Content](https://browser.engineering/embeds.html) 👤 Web Browser Engineering
+- [Reusing Previous Computations](https://browser.engineering/invalidation.html) 👤 Web Browser Engineering
+- [How to be a great manager](https://yieldcode.blog/post/how-to-be-a-great-manager/) 👤 Dmitry Kudryavtsev
+- [I Give the Worst Writing Advice in the World](https://www.honest-broker.com/p/i-give-the-worst-writing-advice-in) 👤 Ted Gioia
+- [10 things you (probably) don't know about Go](http://nf.wh3rd.net/10things/#1) 👤 Grouped globals
+- [Попробовали 8 затягивающих игр [Рефанд?!]](https://www.youtube.com/watch?v=7cTTU3A0Wlc) 👤 StopGame
+- [How to Manage Database Timeouts and Cancellations in Go](https://www.alexedwards.net/blog/how-to-manage-database-timeouts-and-cancellations-in-go) 👤 Alex Edwards
+- [Understanding Mutexes](https://www.alexedwards.net/blog/understanding-mutexes) 👤 Alex Edwards
+- [Go's database/sql](http://jmoiron.net/blog/gos-database-sql/) 👤 jmoiron.net
+- [Managing connections](https://go.dev/doc/database/manage-connections) 👤 go.dev
+- [Накрутка опыта = ❤️ и другие советы начинающим программистам!](https://www.youtube.com/watch?v=OCMXwib9BuQ) 👤 Диджитализируй!
+- [Tips for Writing Clean Go Code](mailto:reader-forwarded-email/28928d08da4f365a1654306e1c4351cd) 👤 Jon Calhoun
+- [Chapter 11 - Building a Second Brain](https://readwise.io/reader/document_raw_content/2217137)
+- [Atomic Habits: Tiny Changes, Remarkable Results](private://read/01jd26n73z9d88wgkcm81ndn08) 👤 James Clear
+- [Tips for Aspiring Developers](mailto:reader-forwarded-email/4859958c4499504221a151af2d988582) 👤 Jon Calhoun
+- [Обзор Metaphor: ReFantazio. Мы не до конца вникли в эту метафору](https://www.mirf.ru/games/metaphor-refantazio-obzor) 👤 mirf.ru
+- [Writing a blog on the internet](https://sethmlarson.dev/writing-for-the-internet) 👤 Seth Larson
+- [Astro - The Ultimate Web Framework [Deep Dive]](https://youtube.com/watch?v=XRe560_vVF0&si=OMkijVnWPzS8jq01) 👤 Code to the Moon
+- [Software Estimation Is Hard. Do It Anyway.](https://jacobian.org/2021/may/20/estimation/) 👤 jacobian.org
+- [The Leitner Box—How to Remember Anything Forever](https://ncase.me/remember/) 👤 ncase.me
+- [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) 👤 wikipedia.org
+- [Nuxt 3.14](https://nuxt.com/blog/v3-14) 👤 Nuxt
+- [Examples of the builder pattern in Go](mailto:reader-forwarded-email/5c73c25b512ab7d708b69915f72d718d) 👤 Jon Calhoun
+- [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) 👤 seangoedecke.com
+- [Python News Roundup: November 2024](https://realpython.com/python-news-november-2024/) 👤 Philipp Acsany
+- [Как создать хронологию проекта, выполнив 7 простых действий](https://asana.com/ru/resources/create-project-management-timeline-template) 👤 Asana
+- [8 steps to write an effective project status report](http://asana.com/resources/how-project-status-reports) 👤 Asana
+- [How To Be A Good Team Lead:11+ Best Skills, Tips & Responsibilities](https://hrone.cloud/blog/good-team-lead-skills-tips-responsibilities/) 👤 Sonia Mahajan
+- [10 things great team leaders do](https://asana.com/ru/resources/team-lead) 👤 Asana
+- [What tasks does the team lead help to solve in the IT project?](https://www.simbirsoft.com/en/blog/the-role-of-the-team-lead-in-managing-the-it-team/) 👤 SimbirSoft
+- [On Personal Relations As A Manager](https://feval.ca/posts/personal-relations/) 👤 feval.ca
+- [Deep Habits: The Importance of Planning Every Minute of Your Work Day](https://calnewport.com/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/) 👤 Study Hacks
+- [Mirthwood: Обзор симулятора жизни в страдающем Средневековье](https://stopgame.ru/show/141179/mirthwood_review_simulyatora_zhizni_v_stradayuschem_srednevekove) 👤 StopGame.ru — всё про видеоигры
+- [Pick Up What They Put Down](https://www.swyx.io/puwtpd/) 👤 swyx.io
+- [Why You Should Consider a Getaway House for Your Next Personal Retreat](https://www.youtube.com/watch?v=2xssjV--qYQ) 👤 Mike Schmitz
+- [Кто такой Project manager? | Между заказчиком и разработчиком | Немчинский](https://youtube.com/watch?v=yk9RCGW-FOk&si=NhfpK631qzbh8rIu) 👤 Sergey Nemchinskiy
+- [Обзор PS5 Pro — внезапно ДА](https://youtube.com/watch?v=iukGRjG4Vug&si=hNCWpAFh-MjmHXvb) 👤 Rozetked
+- [Getting Started with Nuxt Image](https://masteringnuxt.com/blog/getting-started-with-nuxt-image?friend=MOKKAPPS) 👤 masteringnuxt.com
+- [Build a real life Terminal User Interface ( TUI ) Application in Golang](https://www.youtube.com/watch?v=aiWOTYiIzyE) 👤 Bek Brace
+- [Обзор "Dragon Age: На страже Завесы". Хорошая игра, плохая Dragon Age](https://www.mirf.ru/games/dragon-age-veilguard-obzor) 👤 Дочь Латентных Геймеров. Но & В Отличие От Них & Не Скрываю Своих Отношений С Видеоиграми.
+- [Legacy is where companies go to die](https://yieldcode.blog/post/legacy-is-where-companies-go-to-die/) 👤 Dmitry Kudryavtsev
+- [The childlike and the childish](https://joshcollinsworth.com/blog/childlike-and-childish) 👤 Josh Collinsworth
+- [Why DX doesn't matter](https://yieldcode.blog/post/why-dx-doesnt-matter/) 👤 Dmitry Kudryavtsev
+- [Notion’s Massive Updates](https://thesweetsetup.com/notions-latest-updates/) 👤 Chloe Roberts
+- [Shipping Go: Develop, deliver, discuss, design, and go again](https://readwise.io/reader/document_raw_content/235355838) 👤 Joel Holmes
+- [How Mike Does Mutli-Scale Planning in Obsidian](https://thesweetsetup.com/how-mike-does-mutli-scale-planning-in-obsidian/) 👤 Mike Schmitz
+- [Building a Second Brain](private://read/01jc0ghvtcbj9g0vhkpv4s12w4) 👤 Tiago Forte
+- [Working with Errors in Go 1.13](https://go.dev/blog/go1.13-errors) 👤 go.dev
+- [Error handling in Go](mailto:reader-forwarded-email/a4bc403b0943bd3635a9b641e17d7450) 👤 Jon Calhoun
+- [Introduction to gRPC in Go](mailto:reader-forwarded-email/209fa8d8e65c6774b959dc7556e9b07e) 👤 Jon Calhoun
+- [Getting Started with Omnivore - Omnivore Blog
+Getting Started with Omnivore](https://blog.omnivore.app/p/getting-started-with-omnivore) 👤 Omnivore
+- [The Secret Power of ‘Read It Later’ Apps](https://fortelabs.co/blog/the-secret-power-of-read-it-later-apps) 👤 Tiago Forte
+- [Organize your Omnivore library with labels - Omnivore Blog
+Organize your Omnivore library with labels](https://blog.omnivore.app/p/organize-your-omnivore-library-with) 👤 Omnivore
+- [Книга "Мониторинг PostgreSQL"](https://postgrespro.ru/education/books/monitoring) 👤 postgrespro.ru
+- [2023 Gems of the year winners - Obsidian](https://obsidian.md/blog/2023-goty-winners/) 👤 obsidian.md
+- [Fluid Hover Cards with Tailwind CSS Tutorial | Epic Web Dev](https://www.epicweb.dev/tutorials/fluid-hover-cards-with-tailwind-css) 👤 epicweb.dev
+- [Mastering the reading to knowledge pipeline with Omnivore](https://blog.omnivore.app/p/mastering-the-reading-to-knowledge) 👤 Omnivore
+- [How to Create HTML Accordion Elements With and Without JavaScript](https://www.freecodecamp.org/news/create-html-accordions-with-and-without-javascript/) 👤 Eamonn Cottrell
+- [The ultimate deployment guide - Falco](https://falco.oluwatobi.dev/guides/deployment.html) 👤 falco.oluwatobi.dev
+- [Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/) 👤 Itamar Turner-Trauring
+- [13 tips and techniques for modern Flask apps](https://pgjones.dev/blog/modern-flask-2023/) 👤 pgjones.dev
+- [Concatenating text](https://johan.hal.se/wrote/2024/01/24/concatenating-text/) 👤 johan.hal.se
+- [“You can’t do that because I hate you.” | Ben Visness](https://bvisness.me/you-cant/) 👤 Ben Visness
+- [Analyzing "Sorting a million 32-bit integers in 2MB of RAM using Python"](https://www.bitecode.dev/p/analyzing-sorting-a-million-32-bit) 👤 Bite Code!
+- [Примеры тестовых сценариев Postman](https://infostart.ru/1c/articles/1545930/) 👤 Александр Маликов
+- [Palworld: купить? Пропустить? Скачать бесплатно? Наш обзор | Видеоигры | Мир фантастики и фэнтези](https://www.mirf.ru/games/videogames/palworld-kupit-ne-nado-propustit-nash-obzor/) 👤 Данил Ряснянский
+- [Visual Studio Code Extensions to Boost Your Productivity in 2024](https://www.freecodecamp.org/news/best-vscode-extensions/) 👤 Natalie Pina
+- [How to Do a Personal Retreat in Obsidian – The Sweet Setup](https://thesweetsetup.com/how-to-do-a-personal-retreat-in-obsidian/) 👤 Mike Schmitz
+- [Культура брожения — Авторевю](https://autoreview.ru/articles/reyting-test/kul-tura-brozheniya) 👤 Сергей Знаемский
+- [Blog — Sindre Sorhus](https://sindresorhus.com/blog) 👤 Sindre Sorhus
+- [In-Store Session: Ben Kaczor - Inverted Audio](https://inverted-audio.com/in-store-session-ben-kaczor/) 👤 Inverted Audio
+- [Kena: Bridge of Spirits: Обзор | StopGame](https://stopgame.ru/show/122488/kena_bridge_of_spirits_review) 👤 Кирилл Волошин
+- [How to stay junior forever - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/how-to-stay-junior-forever/) 👤 Dmitry Kudryavtsev
+- [The Art of DJing: CCL · Feature ⟋ RA](https://ra.co/features/4303) 👤 Andrew Ryce
+- [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/index.html) 👤 34.4 Authoritative Servers
+- [Beej's Guides](https://beej.us/guide/) 👤 beej.us
+- [What's up Python ? Python, the video game, pyodide on the rise, numpy breaks...](https://www.bitecode.dev/p/whats-up-python-python-the-video) 👤 Bite Code!
+- [Why engineers should focus on writing - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/why-engineers-should-write/) 👤 Dmitry Kudryavtsev
+- [marshmallow vs. pydantic - Python's 2 best libraries for data serialization and validation](https://www.augmentedmind.de/2020/10/25/marshmallow-vs-pydantic-python/) 👤 Denis 2022-04-01 at 2:26 AM
+- [Нормализация отношений. Шесть нормальных форм / Хабр](https://habr.com/ru/articles/254773/) 👤 Сивков Сергей
+- [Welcome to Flask-RESTX’s documentation! — Flask-RESTX 1.1.1.dev documentation](https://flask-restx.readthedocs.io/en/latest/) 👤 flask-restx.readthedocs.io
+- [Pt.1 - How to design a RESTful API architecture from a human-language spec – O’Reilly](https://www.oreilly.com/content/how-to-design-a-restful-api-architecture-from-a-human-language-spec/) 👤 Filipe Ximenes, Flávio Juvenal
+- [Build APIs You Won't Hate](https://apisyouwonthate.com/books/build-apis-you-wont-hate/) 👤 Phil Sturgeon
+- [Navigating the API Landscape: Top Books for 2023](https://blog.treblle.com/top-api-books-2023/) 👤 Jeff Nabors
+- [Mike's Idea System 2.0 – The Sweet Setup](https://thesweetsetup.com/mikes-idea-system-2-0/) 👤 Mike Schmitz
+- [Single and Double Underscores in Python Names – Real Python](https://realpython.com/python-double-underscore/) 👤 Real Python
+- [The beautiful theory of TDD and the reality check of practice](https://www.bitecode.dev/p/the-beautiful-theory-of-tdd-and-the) 👤 Bite Code!
+- [Глава Московского района: «Все хотят самую лучшую школу и самый лучший садик — во дворе своего дома»](https://nevnews.ru/2024/01/30/glava-moskovskogo-raiona-vse-khotyat-samuyu-luchshuyu-shkolu-i-samii-luchshii-sadik--vo-dvore-svoego-doma) 👤 nevnews.ru
+- [Nuxt 3.10 · Nuxt Blog](https://nuxt.com/blog/v3-10?campaign=131&source=weeklyVueNews) 👤 nuxt.com
+- [Deciphering Glyph :: Let Me Tell You A Secret](https://blog.glyph.im/2024/02/let-me-tell-you-a-secret.html) 👤 Glyph Lefkowitz
+- [Pt.2 - How a RESTful API server reacts to requests – O’Reilly](https://www.oreilly.com/content/how-a-restful-api-server-reacts-to-requests/) 👤 Filipe Ximenes, Flávio Juvenal
+- [Pt.3 - How a RESTful API represents resources – O’Reilly](https://www.oreilly.com/content/how-a-restful-api-represents-resources/) 👤 Filipe Ximenes, Flávio Juvenal
+- [Django REST Framework and Vue versus Django and HTMX | TestDriven.io](https://testdriven.io/blog/drf-vue-vs-django-htmx/) 👤 Špela Giacomelli (aka GirlLovesToCode)
+- [Why I write](https://www.sheenaoc.com/articles/2024-02-06-why-i-write) 👤 sheenaoc.com
+- [Django SQLite Benchmark](https://blog.pecar.me/django-sqlite-benchmark) 👤 Anže
+- [Millennia: Превью новой глобальной стратегии | StopGame](https://stopgame.ru/show/137517/millennia_preview_novoy_globalnoy_strategii) 👤 Александр Бурсов
+- [Logseq vs Obsidian - which PKM tool should you use?](https://www.logseqmastery.com/blog/logseq-vs-obsidian) 👤 Dario da Silva
+- [Learn In Public](https://www.swyx.io/learn-in-public) 👤 swyx.io
+- [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/) 👤 joshwcomeau.com
+- [11 Obsidian Tips for Newcomers: Improve Your Note-Taking - Face Dragons](https://facedragons.com/productivity/obsidian-tips/) 👤 Gregory J. Gaynor
+- [Why I Stopped Making Obsidian Videos - Monthly Favorites](https://fromsergio.substack.com/p/why-i-stopped-making-obsidian-videos) 👤 Monthly Favorites
+- [Unexpected glass ceilings for junior developers](https://www.sheenaoc.com/articles/2024-02-07-glass-ceilings) 👤 sheenaoc.com
+- [Writing a REST API in Rust](https://www.shuttle.rs/blog/2024/01/31/write-a-rest-api-rust) 👤 shuttle.rs
+- [Weeks of your life](https://www.petemillspaugh.com/weeks-of-your-life) 👤 petemillspaugh.com
+- [A unified theory of fucks | A Working Library](https://aworkinglibrary.com/writing/unified-theory-of------) 👤 Mandy Brown
+- [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024 | SleepEasy Website Monitor](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/) 👤 Tyler Young @TylerAYoung @tylerayoung@fosstodon.org
+- [Is Good Code Impossible? | Rapture In Venice, LLC](http://raptureinvenice.com/is-good-code-impossible/) 👤 John Blanco
+- [Tim Ferriss on tolerable mediocrity, false idols, diversifying your identity, and the advice he gives startups – Signal v. Noise](https://signalvnoise.com/posts/2734-tim-ferriss-on-tolerable-mediocrity-false-idols-diversifying-your-identity-and-the-advice-he-gives-startups) 👤 signalvnoise.com
+- [How to overcome the illusion of learning - Psychology Compass](https://psychologycompass.com/blog/how-to-overcome-the-illusion-of-learning/) 👤 rokham
+- [Jeff Triplett's Micro.blog - The Power of Semi-Automation: Why Less Can Be More](https://micro.webology.dev/2024/02/07/the-power-of.html) 👤 Jeff Triplett
+- [Tracking Engineering Time - Jacob Kaplan-Moss](https://jacobian.org/2024/feb/7/tracking-engineering-time/) 👤 jacobian.org
+- [Managing Technical Debt - Jacob Kaplan-Moss](https://jacobian.org/2023/dec/20/tech-debt/) 👤 jacobian.org
+- [My Software Estimation Technique - Jacob Kaplan-Moss](https://jacobian.org/2021/may/25/my-estimation-technique/) 👤 jacobian.org
+- [Soft skills: 18 самых востребованных навыков в 2023 году — Виктория Самарская на vc.ru](https://vc.ru/u/1938804-viktoriya-samarskaya/750429-soft-skills-18-samyh-vostrebovannyh-navykov-v-2023-godu?ysclid=lsjxtj3iyy27767096) 👤 Виктория Самарская
+- [10 книг, которые помогут прокачать навыки общения - Лайфхакер](https://lifehacker.ru/communication-books/?ysclid=lsk086j64a535914150) 👤 Лера Мерзлякова
+- [Обзор Rogue Trader: Безумный и неидеальный Империум | Видеоигры | Мир фантастики и фэнтези](https://www.mirf.ru/games/videogames/obzor-rogue-trader-bezumnyj-i-neidealnyj-imperium/) 👤 Леонид Мойжес
+- [Making Use of Code Coverage | Epic Web Dev](https://www.epicweb.dev/making-use-of-code-coverage) 👤 Artem Zakharchenko
+- [How to Build a Custom HTML5 Video Player Using TailwindCSS and JavaScript](https://www.freecodecamp.org/news/build-a-custom-video-player-using-javascript-and-tailwind-css/) 👤 Franklin Okolie
+- [I worry our Copilot is leaving some passengers behind - Josh Collinsworth blog](https://joshcollinsworth.com/blog/copilot) 👤 joshcollinsworth.com
+- [The fediverse, explained: Mastodon, Threads, and the open future of social networking - The Verge](https://www.theverge.com/24063290/fediverse-explained-activitypub-social-media-open-protocol) 👤 theverge.com
+- [How to Get Started with Golang – a Developer Roadmap](https://www.freecodecamp.org/news/golang-developer-roadmap/) 👤 Shubham Chadokar
+- [Backend Developer Roadmap: What is Backend Development?](https://roadmap.sh/backend) 👤 Kamran Ahmed
+- [Learn to become a modern Python developer](https://roadmap.sh/python) 👤 Kamran Ahmed
+- [The True Purpose of Testing | Epic Web Dev](https://www.epicweb.dev/the-true-purpose-of-testing) 👤 Artem Zakharchenko
+- [Common Testing Mistakes](https://kentcdodds.com/blog/common-testing-mistakes) 👤 kentcdodds.com
+- [Testing Implementation Details](https://kentcdodds.com/blog/testing-implementation-details) 👤 kentcdodds.com
+- [Dark Souls III: Прохождение | StopGame - P.1](https://stopgame.ru/show/82650/dark_souls_iii_prohozhdenie) 👤 Игорь Патрин
+- [Everything You Need To Know About Sorcery In Dark Souls 3](https://www.thegamer.com/dark-souls-3-sorcery-attuning-unlocking-equipment-guide/) 👤 Gavin Looker
+- [Dark Souls 3: A Complete Guide To Pyromancy](https://www.thegamer.com/dark-souls-3-pyromancy-in-depth-guide/) 👤 Charles Burgar
+- [What’s running in production? Making your Docker images identifiable](https://pythonspeed.com/articles/identifying-images/) 👤 Itamar Turner-Trauring
+- [How To Respec Your Character In Dark Souls 3](https://www.thegamer.com/dark-souls-3-how-to-respec-your-character/) 👤 Charles Burgar
+- [Tailwind marketing and misinformation engine](https://nuejs.org/blog/tailwind-misinformation-engine/) 👤 Tero Piirainen @tipiirai
+- [Django: Join the community on Mastodon - Adam Johnson](https://adamj.eu/tech/2024/02/10/django-join-community-mastodon/) 👤 adamj.eu
+- [Unexpected python traps for beginners - Bite code!](https://www.bitecode.dev/p/unexpected-python-traps-for-beginners) 👤 Bite Code!
+- [The AI bullshit singularity | Successful Software](https://successfulsoftware.net/2024/02/18/the-ai-bullshit-singularity/) 👤 Andy Brice
+- [2023 Annual Rust Survey Results | Rust Blog](https://blog.rust-lang.org/2024/02/19/2023-Rust-Annual-Survey-2023-results.html) 👤 Feb. 19, 2024 · The Rust Survey Team
+- [Пишем свой веб-сервер на Python: протокол HTTP](https://iximiuz.com/ru/posts/writing-python-web-server-part-3/) 👤 Ivan Velichko
+- [Пишем свой веб-сервер на Python](https://iximiuz.com/ru/series/writing-python-web-server-ru/) 👤 Ivan Velichko
+- [My Diverse Hiring Playbook - Jacob Kaplan-Moss](https://jacobian.org/2024/jan/4/diverse-hiring-playbook/) 👤 jacobian.org
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/split-wide/) 👤 beej.us
+- [Dark Souls III: Прохождение | StopGame - P.2](https://stopgame.ru/show/82650/dark_souls_iii_prohozhdenie/p2) 👤 Игорь Патрин
+- [Dark Souls 3: The 15 Best Pyromancy Spells (& How To Unlock Them)](https://www.thegamer.com/dark-souls-3-best-pyromancy-spells-how-unlock/) 👤 Charles Burgar
+- [Dark Souls 3: Every Pyromancy Explained In-Depth](https://www.thegamer.com/dark-souls-3-every-pyromancy-explained/) 👤 Charles Burgar
+- [Capturing Only Unhandled Exceptions with Sentry in Python | jkfran](https://jkfran.com/capturing-unhandled-exceptions-sentry-python/) 👤 jkfran
+- [Last Epoch: Обзор новой «убийцы Diablo» | StopGame](https://stopgame.ru/show/137672/last_epoch_review_novoy_ubiycy_diablo) 👤 Кирилл Волошин
+- [Web Development Is Getting Too Complex, And It May Be Our Fault — Smashing Magazine](https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/?campaign=134&source=weeklyVueNews) 👤 About The Author
+- [Periodic Face-to-Face](https://martinfowler.com/bliki/PeriodicFaceToFace.html) 👤 Martin Fowler
+- [Заимствования в русском языке — Википедия](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B8%D0%BC%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B2_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5) 👤 Contributors to Wikimedia projects
+- [Некоторые антипаттерны проектирования в Django / Хабр](https://habr.com/ru/companies/otus/articles/796735/) 👤 artem
+- [Solium Infernum (2024): Обзор адской «Цивилизации» | StopGame](https://stopgame.ru/show/137689/solium_infernum_2024_review_adskoy_civilizacii) 👤 Джуби
+- [Best Journaling App for iPhone, iPad, and Mac — The Sweet Setup](https://thesweetsetup.com/apps/the-very-best-journaling-logging-app/) 👤 Shawn Blanc
+- [The Fastest Way to Save RSS Articles to A Read-Later App - MacStories](https://www.macstories.net/news/the-fastest-way-to-save-rss-articles-to-a-read-later-app/) 👤 John Voorhees
+- [Command Line Interface (CLI)](https://dayoneapp.com/guides/tips-and-tutorials/command-line-interface-cli/) 👤 Day One App Support
+- [A toy DNS resolver](https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/) 👤 Julia Evans
+- [Redis and Python: 20% of effort, 80% of effects](https://www.bitecode.dev/p/redis-and-python-20-of-effort-80) 👤 Bite Code!
+- [What if you don’t use Homebrew?](https://noumenal.es/posts/what-if-you-dont-use-homebrew/wrL/) 👤 noumenal.es
+- [How to fix snapd process consuming lot of data and CPU](https://apttutorials.com/2021/10/27/how-to-fix-snapd-process-consuming-lot-of-data-and-cpu/) 👤 cr692579
+- [Составляем DNS-запрос вручную / Хабр](https://habr.com/ru/articles/346098/) 👤 Анатолий Ализар
+- [Lab 8: Network Socket Programming (Intermediate) — ECS Networking](https://ecs-network.serv.pacific.edu/ecpe-170/lab/lab-network-inter) 👤 ecs-network.serv.pacific.edu
+- [Let’s hand write DNS messages | James Routley](https://web.archive.org/web/20180919041301/https://routley.io/tech/2017/12/28/hand-writing-dns-messages.html) 👤 james_routley
+- [Suddenly, I Understand Software](https://johnwhiles.com/posts/programming-as-theory) 👤 johnwhiles.com
+- [The Thaumaturge: Обзор RPG от создателей «Ведьмака» | StopGame](https://stopgame.ru/show/137721/the_thaumaturge_review_rpg_ot_sozdateley_vedmaka) 👤 Катерина Краснопольская
+- [Lenovo Legion Go review: the Swiss Army knife of handhelds - The Verge](https://www.theverge.com/24088011/lenovo-legion-go-review) 👤 Sean Hollister
+- [Working with Binary Data in Python | DevDungeon](https://www.devdungeon.com/content/working-binary-data-python) 👤 devdungeon.com
+- [5 Ways to Show Up Everyday (March Focus Digest) – The Sweet Setup](https://thesweetsetup.com/5-ways-to-show-up-everyday-march-focus-digest/) 👤 Shawn Blanc
+- [How much effort is it to create software? - Bite code!](https://www.bitecode.dev/p/how-much-effort-is-it-to-create-software) 👤 Bite Code!
+- [Как научиться программировать бесплатно: топ-15 книг по программированию на Python для детей — Школа программирования Пиксель на DTF](https://dtf.ru/u/367155-shkola-programmirovaniya-piksel/1640002-kak-nauchitsya-programmirovat-besplatno-top-15-knig-po-programmirovaniyu-na-python-dlya-detei) 👤 Школа программирования Пиксель
+- [ien137](https://www.rfc-editor.org/ien/ien137.txt) 👤 rfc-editor.org
+- [The Protégé effect](https://www.sheenaoc.com/articles/2024-03-04-protege-effect) 👤 sheenaoc.com
+- [Breaking Down Tasks - Jacob Kaplan-Moss](https://jacobian.org/2024/mar/11/breaking-down-tasks/) 👤 jacobian.org
+- [How to Run GitHub Actions Locally Using the act CLI Tool](https://www.freecodecamp.org/news/how-to-run-github-actions-locally/) 👤 Rajdeep Singh
+- [Best NAS for Mac | Macworld](https://www.macworld.com/article/668856/best-nas-pcs-drives-for-mac.html) 👤 Cliff Joseph
+- [The Evolution of Shiki v1.0 · Nuxt Blog](https://nuxt.com/blog/shiki-v1) 👤 nuxt.com
+- [So you've been reorg'd... - Jacob Kaplan-Moss](https://jacobian.org/2024/mar/12/reorg/) 👤 jacobian.org
+- [Jeff Triplett's Micro.blog - On environment variables and dotenv files](https://micro.webology.dev/2024/03/13/on-environment-variables.html) 👤 Jeff Triplett
+- [Что работодатели ждут от джуниоров-разработчиков в 2024 году — Карьера на vc.ru](https://vc.ru/hr/1062216-chto-rabotodateli-zhdut-ot-dzhuniorov-razrabotchikov-v-2024-godu) 👤 Яндекс Практикум
+- [Что должно быть в портфолио джуна-разработчика: мнение руководителей / Хабр](https://habr.com/ru/companies/yandex_praktikum/articles/791670/) 👤 Ира Ко
+- [The Curse of the Senior Software Engineer - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/the-curse-of-the-senior-engineer/) 👤 Dmitry Kudryavtsev
+- [There is no EU cookie banner law - Bite code!](https://www.bitecode.dev/p/there-is-no-eu-cookie-banner-law) 👤 Bite Code!
+- [Что джуну без опыта показать на собеседовании: вклад в open source или пет-проекты / Хабр](https://habr.com/ru/companies/yandex_praktikum/articles/725694/) 👤 Артур
+- [Mental Health in Open Source](https://antfu.me/posts/mental-health-oss) 👤 Anthony Fu
+- [Make your terminal nice | David Lord](https://davidism.com/starship-and-fish/) 👤 davidism.com
+- [ActivityPub [Book]](https://www.oreilly.com/library/view/activitypub/9781098162733/) 👤 Evan Prodromou
+- [Cover Animal For ActivityPub Book – Evan Prodromou's Blog](https://evanp.me/2024/03/15/cover-animal-for-activitypub-book/) 👤 Evan Prodromou
+- [Maintaining Balance for Open Source Maintainers | Open Source Guides](https://opensource.guide/maintaining-balance-for-open-source-maintainers/) 👤 opensource.guide
+- [About Yak Shaving](https://antfu.me/posts/about-yak-shaving) 👤 Anthony Fu
+- [How to Contribute to Open Source | Open Source Guides](https://opensource.guide/how-to-contribute/) 👤 opensource.guide
+- [The Dark Side of Open Source - kettanaito.com](https://kettanaito.com/blog/the-dark-side-of-open-source) 👤 kettanaito.com
+- [Last Week in Fediverse – ep 60 – The Fediverse Report](https://fediversereport.com/last-week-in-fediverse-ep-60/) 👤 Laurens Hof
+- [I made a YouTube video!](https://blog.pecar.me/rpi-django-youtube) 👤 Anže
+- [Knowing How You Work Best is a Cheat Code for Better Productivity – The Sweet Setup](https://thesweetsetup.com/knowing-how-you-work-best-is-a-cheat-code-for-better-productivity/) 👤 Josh Ginter
+- [Псков 2024: что посмотреть за 1 день самостоятельно](https://journal.tinkoff.ru/pskov-one-day/) 👤 Мария Рудницкая
+- [Достопримечательности Пскова в 2024 году: список из 10 мест, c фото и картой](https://journal.tinkoff.ru/list/dostoprimechatelnosti-pskov/) 👤 Мария Рудницкая
+- [GitHub - williln/til: Today I Learned](https://github.com/williln/til?tab=readme-ov-file) 👤 williln
+- [Стоит ли идти в IT и становиться программистом: как пройти путь от джуна до сеньора / Skillbox Media](https://skillbox.ru/media/code/vladimir-shvets-put-k-uspekhu-eto-chereda-beskonechnykh-oshibok/) 👤 Константин Зотов
+- [10 reasons I stick to Django rather than FastAPI](https://www.david-dahan.com/blog/10-reasons-i-stick-to-django) 👤 david-dahan.com
+- [Why I'm Not Writing a Productivity Series - Jacob Kaplan-Moss](https://jacobian.org/2024/apr/4/not-writing-about-productivity/) 👤 jacobian.org
+- [xz backdoor - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/xz-backdoor/) 👤 Dmitry Kudryavtsev
+- [(2) FastAPI with Async SQLAlchemy, SQLModel, and Alembic | TestDriven.io](https://testdriven.io/blog/fastapi-sqlmodel/) 👤 Michael Herman
+- [Effective Go Recipes: Fast Solutions to Common Tasks by Miki Tebeka](https://pragprog.com/titles/mtgo/effective-go-recipes/) 👤 Miki Tebeka
+- [PostgreSQL: что это за СУБД, основы и преимущества](https://blog.skillfactory.ru/glossary/postgresql/) 👤 blog.skillfactory.ru
+- [Что ждут от junior-специалистов работодатели в 2024 году](https://blog.skillfactory.ru/chto-zhdut-ot-dzhunov-rabotodateli/) 👤 blog.skillfactory.ru
+- [Random Data API | Effortless Random Data at Your Fingertips](https://random-data-api.com) 👤 random-data-api.com
+- [Run PostgreSQL and PGAdmin using docker compose | by Vishal Sharma | Medium](https://medium.com/@vishal.sharma./run-postgresql-and-pgadmin-using-docker-compose-34120618bcf9) 👤 Vishal Sharma
+- [Веб-безопасность 200 / Хабр](https://habr.com/ru/companies/oleg-bunin/articles/570032/) 👤 Глеб Михеев
+- [Исчерпывающий путеводитель по тегу iframe / Хабр](https://habr.com/ru/articles/488516/) 👤 Зирка Андрей
+- [3. Growth mindset](https://www.sheenaoc.com/articles/2024-04-16-framework-03-growth-mindset) 👤 sheenaoc.com
+- [Python Friday #223: Better Pydantic Models for FastAPI - Improve & Repeat](https://improveandrepeat.com/2024/04/python-friday-223-better-pydantic-models-for-fastapi/) 👤 Johnny Graber
+- [Where’s that log file? Debugging failed Docker builds](https://pythonspeed.com/articles/debugging-docker-build/) 👤 Itamar Turner-Trauring
+- [From Concept To Live In Two Weeks With Django · Matt Layman](https://www.mattlayman.com/blog/2020/concept-to-live-with-django/) 👤 mattlayman.com
+- [The PKM Stack: A Simple Framework for Making More of Your Notes & Ideas – The Sweet Setup](https://thesweetsetup.com/the-pkm-stack/) 👤 Mike Schmitz
+- [A Roundup of the Best Obsidian Plugin in 2024 – The Sweet Setup](https://thesweetsetup.com/a-roundup-of-the-best-obsidian-plugin-in-2024/) 👤 Mike Schmitz
+- [The Ultimate Guide to Time Blocking – The Sweet Setup](https://thesweetsetup.com/the-ultimate-guide-to-time-blocking/) 👤 Mike Schmitz
+- [Creating Blocks of Time for the Important Things — The Focus Course](https://thefocuscourse.com/blocks-of-time-for-the-important-things/) 👤 Shawn Blanc
+- [Банановые шкурки на интервью Python-разработчика / Хабр](https://habr.com/ru/companies/yandex_praktikum/articles/805665/) 👤 Евгений Бартенев
+- [Improve your tests in Django with fakes and factories](https://www.hacksoft.io/blog/improve-your-tests-django-fakes-and-factories) 👤 hacksoft.io
+- [Building Reusable Components in Django | TestDriven.io](https://testdriven.io/blog/django-reusable-components/) 👤 Michael Yin
+- [Praciano – FastAPI and async SQLAlchemy 2.0 with pytest done right](https://praciano.com.br/fastapi-and-async-sqlalchemy-20-with-pytest-done-right.html) 👤 Guilherme Caminha
+- [Пишем Инстаграм бота на Python для раскрутки профиля. - UPROGER | Программирование](https://uproger.com/pishem-instagram-bota-na-python-dlya-raskrutki-profilya/) 👤 Имя *
+- [Django: Introducing django-harlequin, a launcher for Terminal-based SQL IDE Harlequin - Adam Johnson](https://adamj.eu/tech/2024/05/07/django-harlequin/) 👤 adamj.eu
+- [Содержание туториала - VKBottle](https://vkbottle.readthedocs.io/ru/latest/tutorial/) 👤 VKBottle
+- [Timeblocking in Obsidian – The Sweet Setup](https://thesweetsetup.com/timeblocking-in-obsidian/) 👤 Mike Schmitz
+- [Banishers: Ghosts of New Eden: Обзор новой игры авторов Life is Strange | StopGame](https://stopgame.ru/show/137577/banishers_ghosts_of_new_eden_review_novoy_igry_avtorov_life_is_strange) 👤 Кирилл Волошин
+- [Фоновые асинхронные задачи в FastAPI и их мониторинг / Хабр](https://habr.com/ru/companies/kts/articles/816757/) 👤 Иван Пакеев
+- [Testing with Python (part 7): ...until you make it](https://www.bitecode.dev/p/testing-with-python-part-7-until) 👤 Bite Code!
+- [Testing with Python (part 6): Fake it... - Bite code!](https://www.bitecode.dev/p/testing-with-python-part-6-fake-it) 👤 Bite Code!
+- [Happiness is a good PYTHONSTARTUP script - Bite code!](https://www.bitecode.dev/p/happiness-is-a-good-pythonstartup) 👤 Bite Code!
+- ["Technical" skills](https://sashalaundy.com/writing/technical-skills/) 👤 Sasha
+- [Список литературы для самообучения разработчика программного обеспечения — System Architecture](https://dckms.github.io/system-architecture/emacsway/it/self-education/self-education-for-software-engineer.html) 👤 dckms.github.io
+- [Психологическое значение планирования — System Architecture](https://dckms.github.io/system-architecture/emacsway/soft-skills/planning-in-psychology.html) 👤 dckms.github.io
+- [Programming stuff: Я выгорел?](http://sergeyteplyakov.blogspot.com/2019/02/blog-post.html?m=1) 👤 sergeyteplyakov.blogspot.com
+- [Programming stuff: Главный навык программиста](http://sergeyteplyakov.blogspot.com/2019/12/blog-post.html?m=1) 👤 sergeyteplyakov.blogspot.com
+- [Locality of Behaviour • Buttondown](https://buttondown.email/carlton/archive/locality-of-behaviour/) 👤 buttondown.email
+- [Google Testing Blog: Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html) 👤 testing.googleblog.com
+- [Django Service Layers: Beyond Fat Models vs. Enterprise Patterns](https://simoncrowe.hashnode.dev/django-service-layers-beyond-fat-models-vs-enterprise-patterns) 👤 Simon Crowe
+- [All I Need to Know About Engineering Leadership I Learned From Leave No Trace - Jacob Kaplan-Moss](https://jacobian.org/2024/jul/12/lnt-for-engineering-leadership/) 👤 jacobian.org
+- [Системное мышление - Large Scale Scrum (LeSS)](https://less.works/ru/less/principles/systems-thinking.html) 👤 less.works
+- [Programming stuff: О пользе ведения блога](https://sergeyteplyakov.blogspot.com/2019/03/blog-post.html?m=1) 👤 sergeyteplyakov.blogspot.com
+- [Programming stuff: О мотивации](https://sergeyteplyakov.blogspot.com/2018/08/blog-post.html?m=1) 👤 sergeyteplyakov.blogspot.com
+- [Programming stuff: Эффект плато](https://sergeyteplyakov.blogspot.com/2018/07/blog-post.html?m=1) 👤 sergeyteplyakov.blogspot.com
+- [Programming stuff: О книге Джона Сонмеза “The Complete Software Developer’s Career Guide”](https://sergeyteplyakov.blogspot.com/2017/08/about-complete-software-developers.html?m=1) 👤 sergeyteplyakov.blogspot.com
+- [Programming stuff: О “вреде” книг: напутствие любому программисту](https://sergeyteplyakov.blogspot.com/2017/02/reading-books-considered-harmful.html?m=1) 👤 sergeyteplyakov.blogspot.com
+- [Programming stuff: Памятка ынтырпрайз кодера](https://sergeyteplyakov.blogspot.com/2016/11/memo-for-enterprise-dev.html?m=1) 👤 sergeyteplyakov.blogspot.com
+- [You are an imposter - Bite code!](https://www.bitecode.dev/p/you-are-an-imposter) 👤 Bite Code!
+- [Архитектурные шаблоны вторичны](https://iximiuz.com/ru/posts/patterns-vs-principles/) 👤 Ivan Velichko
+- [Уменьшаем неопределенность в проектной деятельности: эволюционная модель команды проекта / Хабр](https://habr.com/ru/companies/cloud_ru/articles/831012/) 👤 Александр Жульков
+- [Go structs are copied on assignment (and other things about Go I'd missed)](https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/) 👤 Julia Evans
+- [Does this scale down? 📉 · Henrik Jernevad](https://henko.net/blog/does-this-scale-down/) 👤 Henrik Jernevad
+- [Переход в айти](https://grishaev.me/enter-it/) 👤 grishaev.me
+- [10 Project Ideas To Learn Golang In 2024](https://golang.withcodeexample.com/blog/golang-project-ideas/) 👤 With Code Example
+- [Сначала скажите нет](https://grishaev.me/2015/09/15/1/) 👤 grishaev.me
+- [Типы — Введение в программирование на Go](http://golang-book.ru/chapter-03-types.html) 👤 golang-book.ru
+- [How to Host Your Own Personal Retreat – The Sweet Setup](https://thesweetsetup.com/how-to-host-your-own-personal-retreat/) 👤 Mike Schmitz
+- [Common Go Mistakes - 100 Go Mistakes and How to Avoid Them](https://100go.co) 👤 100go.co
+- [How to Send and Parse JSON Data in Golang – Data Encoding and Decoding Explained With Examples](https://www.freecodecamp.org/news/encoding-and-decoding-data-in-golang/) 👤 Destiny Erhabor
+- [Your new developer feels like a fraud. It’s your onboarding process.](https://getunblocked.com/blog/no-imposter-onboarding/) 👤 getunblocked.com
+- [Text Manipulation Kung Fu for the Aspiring Black Belt](https://zed.dev/blog/text-manipulation) 👤 zed.dev
+- [Обзор всех техник, приёмов и инструментов планирования своих дел, которые пригодятся любому разработчику — Код](https://thecode.media/obzor-vsekh-tekhnik-priyomov-i-instrumentov-planirovaniya-svoikh-del-kotorye-prigodyatsya-lyubomu-razrabotchiku/) 👤 Михаил Полянин
+- [The Grug Brained Developer](https://grugbrain.dev) 👤 grugbrain.dev
+- [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/) 👤 Hynek Schlawack
+- [How to Implement Server-Sent Events in Go](https://www.freecodecamp.org/news/how-to-implement-server-sent-events-in-go/) 👤 Alex Pliutau
+- [Structured Logging with slog in Go](https://gustavocd.dev/posts/structured-logging-with-slog-in-go/) 👤 Gustavo Castillo
+- [Working From Home: Separating Your Personal and Work Life - Calhoun.io](https://www.calhoun.io/wfh-separating-your-personal-and-work-life/) 👤 Jon Calhoun
+- [Testing is Not for Beginners - Calhoun.io](https://www.calhoun.io/testing-is-not-for-beginners/) 👤 Jon Calhoun
+- [Quick tip: Implementing an in-memory cache in Go – Alex Edwards](https://www.alexedwards.net/blog/implementing-an-in-memory-cache-in-go) 👤 Alex Edwards
+- [My first experience as a Tech Lead](https://dev.to/sampseiol1/my-first-experience-as-a-tech-lead-5g28) 👤 DEV Community
+- [Effective Changelogs | xavd.id](https://xavd.id/blog/post/effective-changelogs/) 👤 xavd.id
+- [12 Languages in 12 Months | xavd.id](https://xavd.id/blog/post/12-languages-in-12-months/) 👤 xavd.id
+- [One year of Rust in production - Dmitry Kudryavtsev](https://yieldcode.blog/post/one-year-of-rust-in-production/) 👤 Dmitry Kudryavtsev
+- [The Framework 13 after months of use - Bite code!](https://www.bitecode.dev/p/the-framework-13-after-months-of) 👤 Bite Code!
+- [The complete guide to OpenTelemetry in Golang.](https://www.komu.engineer/blogs/11/opentelemetry-and-go) 👤 komu.engineer
+- [How I write HTTP services in Go after 13 years | Grafana Labs](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/) 👤 Mat Ryer
+- [How to Work with SQL Databases in Go – Different Approaches and Examples](https://www.freecodecamp.org/news/how-to-work-with-sql-databases-in-go/) 👤 Alex Pliutau
+- [Sqlc: 2024 check in — brandur.org](https://brandur.org/fragments/sqlc-2024) 👤 brandur.org
+- [Warhammer 40,000: Rogue Trader - Void Shadows: Обзор огромного корабля фон Валанциус | Дешёвые экскурсии по пустотному кораблю (безопасность не гарантирована) | StopGame](https://stopgame.ru/show/140611/warhammer_40_000_rogue_trader_void_shadows_review_ogromnogo_korablya_fon_valancius) 👤 Джуби
+- [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang) 👤 Amos Wenger
+- [Visualising Data with Grafana Loki From Scratch](https://jonathanmh.com/p/visualising-data-with-grafana-loki-from-scratch/) 👤 jonathanmh.com
+- [How to send Logs to Loki using Fluent Bit](https://chronosphere.io/learn/fluent-bit-loki/) 👤 Sudhanshu Prajapati
+- [GopherSnippets - Go code snippets](https://gophersnippets.com) 👤 gophersnippets.com
+- [I Like Makefiles](https://switowski.com/blog/i-like-makefiles/) 👤 Sebastian Witowski
+- [Monolith First](https://martinfowler.com/bliki/MonolithFirst.html) 👤 Martin Fowler
+- [Microservice Premium](https://martinfowler.com/bliki/MicroservicePremium.html) 👤 Martin Fowler
+- [Yagni](https://martinfowler.com/bliki/Yagni.html) 👤 Martin Fowler
+- [Microservice Prerequisites](https://martinfowler.com/bliki/MicroservicePrerequisites.html) 👤 Martin Fowler
+- [The Ultimate Guide to Error Handling in Python - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python) 👤 Miguel Grinberg
+- [Введение в Ethereum | ethereum.org](https://ethereum.org/ru/developers/docs/intro-to-ethereum/) 👤 ethereum.org
+- [Boring Web Development · Jens Oliver Meiert](https://meiert.com/en/blog/boring-web-development/) 👤 meiert.com
+- [Robert Haas: Is pg_dump a Backup Tool?](http://rhaas.blogspot.com/2024/10/is-pgdump-backup-tool.html) 👤 rhaas.blogspot.com
+- [Notes are a tool for … : Juha-Matti Santala](https://hamatti.org/posts/notes-are-a-tool-for/) 👤 Juha-Matti Santala
+- [Lab Notebooks | Sam Bleckley](https://sambleckley.com/writing/lab-notebooks.html) 👤 Sam Bleckley
+- [Use A Work Journal To Recover Focus Faster And Clarify Your Thoughts](https://fev.al/posts/work-journal/) 👤 fev.al
+- [Using a work journal to create design case studies - Tanner Christensen's notes](https://www.tannerchristensen.com/notes/using-a-work-journal-to-create-design-case-studies) 👤 Noted
+- [Writing is thinking - Fran's Realm](https://iamfran.com/notes/2023/12/writing-is-thinking) 👤 iamfran.com
+- [Two months with Obsidian : Juha-Matti Santala](https://hamatti.org/posts/two-months-with-obsidian/) 👤 Juha-Matti Santala
+- [Обзор Diplomacy is Not an Option. Действительно сложная RTS | Игры | Мир фантастики и фэнтези](https://www.mirf.ru/games/diplomacy-is-not-an-option-obzor) 👤 Даниил Кортез
+- [Mike's Obsidian Task Management Dashboard Workflow – The Sweet Setup](https://thesweetsetup.com/mikes-obsidian-task-management-dashboard-workflow/) 👤 Mike Schmitz
+- [Obsidian and GTD - Obsidian Rocks](https://obsidian.rocks/obsidian-and-gtd/) 👤 Tim Miller
+- [Building a Second Brain and GTD - Obsidian Rocks](https://obsidian.rocks/building-a-second-brain-and-gtd/) 👤 Tim Miller
+- [The PARA Method: The Simple System for Organizing Your Digital Life in Seconds](https://fortelabs.com/blog/para/) 👤 Tiago Forte
+- [How to Manage Tasks in Obsidian-The Complete Guide - Obsidian Rocks](https://obsidian.rocks/how-to-manage-tasks-in-obsidian/) 👤 Tim Miller
+- [How to Take Book Notes in Obsidian - Obsidian Rocks](https://obsidian.rocks/how-to-take-book-notes-in-obsidian/) 👤 Tim Miller
+- [Тайм-блокинг: полное руководство по более сосредоточенной работе](https://todoist.com/ru/productivity-methods/time-blocking) 👤 Laura Scroggs
+- [What's up Python? 3.13 is out, t-strings look awesome, dep groups come in handy...](https://www.bitecode.dev/p/whats-up-python-313-is-out-t-strings) 👤 Bite Code!
+- [Python 3.13, what didn't make the headlines - Bite code!](https://www.bitecode.dev/p/python-313-what-didnt-make-the-headlines) 👤 Bite Code!
+- [Embrace Serendipity: Discovering Old Notes in Obsidian - Obsidian Rocks](https://obsidian.rocks/embrace-serendipity-discovering-old-notes-in-obsidian/) 👤 Tim Miller
+- [Reader: Frequently Asked Questions](https://blog.readwise.io/p/f8c0f71c-fe5f-4025-af57-f9f65c53fed7/) 👤 Daniel Doyon
+- [Getting Started with Reader](https://blog.readwise.io/p/bf87944f-b0fe-4f08-a461-f75ab8aded6a/) 👤 Daniel Doyon
