@@ -1,0 +1,770 @@
+# Новые ссылки
+
+- Всего ссылок: 761
+
+## Ссылки
+
+- [Notes](https://notes.jim-nielsen.com/) 👤 jim-nielsen.com
+- ["..."](https://readwise.io/reader_api) 👤 readwise.io
+- [The Height EnigmaUnraveling the mystery of percentage-based heights in CSS](https://www.joshwcomeau.com/css/height-enigma/) 👤 Josh W. Comeau
+- [FastAPI + Keycloak: Простая и безопасная авторизация в веб-приложении на примере реального проекта](https://habr.com/ru/companies/amvera/articles/907990/) 👤 Habr
+- [Tupper's Formula • The Applied Go Weekly Newsletter 2025-05-11](https://newsletter.appliedgo.net/archive/2025-05-11-tuppers-formula/) 👤 The Applied Go Weekly Newsletter
+- [Customize chat responses in VS Code](https://code.visualstudio.com/docs/copilot/copilot-customization#_instruction-files) 👤 Microsoft
+- [How to Use Loguru for Simpler Python Logging](https://realpython.com/python-loguru/) 👤 Abdelhadi Dyouri
+- [Using the Python subprocess Module](https://realpython.com/courses/python-subprocess-module/) 👤 Real Python
+- [Flattening Rust's Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/) 👤 Corrode Rust Consulting 🔖 #rust
+- [Have Another Cup Of Tea • The Applied Go Weekly Newsletter 2025-05-04](https://newsletter.appliedgo.net/archive/2025-05-04-have-another-cup-of-tea/) 👤 The Applied Go Weekly Newsletter 🔖 #go
+- [Generating a Dynamic Sitemap in Nuxt 3](https://masteringnuxt.com/blog/generating-a-dynamic-sitemap-in-nuxt-3?friend=MOKKAPPS) 👤 masteringnuxt.com
+- [Handling File Uploads in Nuxt with useStorage](https://vueschool.io/articles/vuejs-tutorials/handling-file-uploads-in-nuxt-with-usestorage/?friend=MOKKAPPS) 👤 vueschool.io
+- [Bitfield Consulting](https://bitfieldconsulting.com/posts/getting-nothing-done) 👤 bitfieldconsulting.com
+- [/usr/bin/just do it](https://frankwiles.com/posts/just-do-it/) 👤 frankwiles.com 🔖 #cli, #try
+- [Nuxt 3.17](https://nuxt.com/blog/v3-17) 👤 Nuxt
+- [The Attack You Invited • The Applied Go Weekly Newsletter 2025-04-27](https://newsletter.appliedgo.net/archive/2025-04-27-the-attack-you-invited/) 👤 The Applied Go Weekly Newsletter
+- [Stop overbuilding evals](https://softwaredoug.com/blog/2025/04/26/stop-overbuilding-evals) 👤 Doug Turnbull
+- [The Anarchy: The Relentless Rise of the East India Company](https://seangoedecke.com/the-anarchy/) 👤 seangoedecke.com
+- [Using Go's select Statement](mailto:reader-forwarded-email/f80d0306e4e3b5b38d5eafcb49124e4a) 👤 Jon Calhoun
+- [Личный ИИ-ассистент на ваших данных. Часть 2: Веб-интерфейс, авторизация и стриминг ответов от ИИ](https://habr.com/ru/companies/amvera/articles/902868) 👤 Habr
+- [So, I Wrote a Book](https://www.thecoder.cafe/p/100-go-mistakes) 👤 Teiva Harsanyi
+- [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/) 👤 mcyoung.xyz 🔖 #go
+- [AI assisted search-based research actually works now](https://simonwillison.net/2025/Apr/21/ai-assisted-search/#atom-everything) 👤 Simon Willison
+- [Write, Build, Love, Repeat • The Applied Go Weekly Newsleetter 2025-04-20](https://newsletter.appliedgo.net/archive/2025-04-20-write-build-love-repeat/) 👤 The Applied Go Weekly Newsletter
+- [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices) 👤 anthropic.com
+- [gRPC API Gateway: Bridging the Gap Between REST and gRPC](https://zuplo.com/blog/2025/04/09/grpc-api-gateway) 👤 Peyman Motrtazavi 🔖 #grpc
+- [Все места охоты на монстров в Final Fantasy XVI](https://www.goha.ru/vse-mesta-ohoty-na-monstrov-v-final-fantasy-xvi-40mBD0) 👤 Zan
+- [Signals and Go's Context Type](mailto:reader-forwarded-email/8a53651a467aab634454cd535a35fa34) 👤 Jon Calhoun 🔖 #go
+- [Super Mario Bros. Wonder: Pipe Dreams Do Come True](https://jefklakscodex.com/games/switch/super-mario-bros-wonder/) 👤 Brain Baking
+- [Inscryption: Card Game Inception](https://jefklakscodex.com/games/switch/inscryption/) 👤 Brain Baking
+- [Проксирование из коробки: сравнительный анализ HAProxy, Envoy, Nginx, Caddy и Traefik](https://habr.com/ru/articles/900438/) 👤 Habr
+- [Don't Run In Circles • The Applied Go Weekly Newsletter 2025-04-13](https://newsletter.appliedgo.net/archive/2025-04-13-dont-run-in-circles/) 👤 The Applied Go Weekly Newsletter
+- [A Year of Rust in ClickHouse](https://clickhouse.com/blog/rust) 👤 ClickHouse 🔖 #rust
+- [An Animated Introduction to Clojure – Learn Clojure Programming Basics](https://www.freecodecamp.org/news/learn-clojure-programming-basics/) 👤 freeCodeCamp.org 🔖 #clojure
+- [Extracting Composables for Code Organization ​](https://vuejs.org/guide/reusability/composables.html) 👤 vuejs.org 🔖 #vue, #nuxt
+- [Good practices and Design Patterns for Vue Composables](https://dev.to/jacobandrewsky/good-practices-and-design-patterns-for-vue-composables-24lk) 👤 dev.to 🔖 #vue, #nuxt
+- [Stalker есть чему поучиться - ОБЗОР Atomfall I Битый Пиксель](https://youtube.com/watch?v=iuDYa6PDocM&si=Sz94s62KNMm_ovFz) 👤 Битый Пиксель
+- [23 June 1912 – 7 June 1954](https://samwho.dev/turing-machines/) 👤 samwho.dev
+- [“Founder Mode” and the Art of Mythmaking](https://charity.wtf/2024/12/17/founder-mode-and-the-art-of-mythmaking/) 👤 mipsytipsy
+- [Building a Real-time Dashboard with Flask and Svelte](https://testdriven.io/blog/flask-svelte/) 👤 Amir Tadrisi 🔖 #sse, #flask, #svelte
+- [Using Signals with Go](mailto:reader-forwarded-email/f654bbad4e95a79752b617c2863f14ae) 👤 Jon Calhoun 🔖 #go
+- [Two Years Building Workbrew, a Remote-First Enterprise Homebrew Startup](https://mikemcquaid.com/two-years-building-workbrew-a-remote-first-enterprise-homebrew-startup/) 👤 Mike McQuaid
+- [More devops than I bargained for](https://fasterthanli.me/articles/more-devops-than-i-bargained-for) 👤 Amos Wenger
+- [The Essential Functions of Zod Validation Pipelines](https://didoesdigital.com/blog/zod-essential-functions/) 👤 Diana MacDonald 🔖 #zod
+- [Things I enjoyed in 2024](https://joshcollinsworth.com/blog/enjoyed-in-2024) 👤 Josh Collinsworth
+- [Nuxt Server Components vs. Lazy Hydration](https://www.youtube.com/watch?v=Jijoc0RH_tA) 👤 Alexander Lichter
+- [Synonyms via JSON](https://leancrew.com/all-this/2025/04/synonyms-via-json/) 👤 Dr. Drang
+- [The Eval has landed 🦅](https://pydantic.dev/articles/q1-2025-summary) 👤 pydantic.dev
+- [Beating the Averages](https://paulgraham.com/avg.html) 👤 Paul Graham
+- [Contemplating on templates • The Applied Go Weekly Newsletter 2025-03-30](https://newsletter.appliedgo.net/archive/2025-03-30-contemplating-on-templates/) 👤 The Applied Go Weekly Newsletter
+- [Impromptu disaster recovery](https://fasterthanli.me/articles/impromptu-disaster-recovery) 👤 Amos Wenger
+- [Building a Real-time Dashboard with FastAPI and Svelte](https://testdriven.io/blog/fastapi-svelte/) 👤 Amir Tadrisi 🔖 #sse, #fastapi
+- [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 2 — VueJS3 + Centrifugo с монетизацией приложения](https://habr.com/ru/companies/amvera/articles/893250/) 👤 Хабр
+- [Bitfield Consulting](https://bitfieldconsulting.com/posts/things-fall-apart) 👤 Bitfield Consulting 🔖 #rust
+- [PgBouncer is useful, important, and fraught with peril](https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html) 👤 JP Camara 🔖 #postgresql
+- [What are the options? • The Applied Go Weekly Newsletter 2025-03-23](https://newsletter.appliedgo.net/archive/2025-03-23-what-are-the-options/) 👤 The Applied Go Weekly Newsletter 🔖 #go
+- [Getting a grip on Nuxt's auto-import functionality](https://davestewart.co.uk/blog/nuxt-auto-import/) 👤 Dave Stewart 🔖 #nuxt
+- [Modular site architecture with Nuxt layers](https://davestewart.co.uk/blog/nuxt-layers/) 👤 Dave Stewart 🔖 #nuxt
+- [25 Finder tips & tactics to speed up your workflow](https://davestewart.co.uk/blog/mac-finder-tips/) 👤 Dave Stewart
+- [Modulations - Cinema for the Ear | Documentary](https://youtube.com/watch?v=icpDt6aQDww&si=4tunaAiywa3VYR5X) 👤 Cultures of Resistance Films
+- [estimation.md · GitHub](https://gist.github.com/davestewart/643ffc55aa7c173618d2707b776a1443) 👤 262588213843476
+- [Benchmarking: What You Can't Miss in Go 1.24](https://jarosz.dev/code/benchmarking-what-you-cannot-miss-in-go-1.24/) 👤 Jakub Jarosz 🔖 #go
+- [«Скрипты и алгоритмы успеха» Радислава Гандапаса — читаем, размышляем, обсуждаем](https://www.youtube.com/watch?v=fzNnzDDfBSc) 👤 Диджитализируй!
+- [Web Components Vs. Framework Components: What’s The Difference?](https://www.smashingmagazine.com/2025/03/web-components-vs-framework-components/) 👤 Gabriel Shoyombo
+- [Планировщик Go — самый подробный гайд простым языком](https://habr.com/ru/articles/891426/) 👤 Хабр
+- [x-h3-session](https://h3.unjs.io/examples/handle-session) 👤 unjs.io
+- [django-vite - integrate Vite with Django | TailwindCSS v4 setup](https://www.youtube.com/watch?v=wgN04Byqi9c) 👤 BugBytes
+- [Optimizations, Small And Big • The Applied Go Weekly Newsletter 2025-03-16](https://newsletter.appliedgo.net/archive/2025-03-16-optimizations-small-and-big/) 👤 The Applied Go Weekly Newsletter
+- [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 1 — Бэкенд на FastAPI, Aiogram, Redis и Centrifugo](https://habr.com/ru/companies/amvera/articles/890976/) 👤 Хабр
+- [PKM Summit 2025 Notes](https://brainbaking.com/post/2025/03/pkm-summit-2025/) 👤 Brain Baking
+- [Django Query Optimization - Defer, Only, and Exclude](https://testdriven.io/blog/django-query-optimization/) 👤 testdriven.io 🔖 #django
+- [Открытие года - поиграл в Clair Obscur: Expedition 33 I Битый Пиксель](https://www.youtube.com/watch?v=7Wyl_pTfA3w) 👤 Битый Пиксель
+- [Building a Secure Session Manager in Go](https://themsaid.com/building-secure-session-manager-in-go) 👤 themsaid.com 🔖 #go
+- [Воркшоп: проектирование структуры БД](https://www.youtube.com/watch?v=4rdSbMbacC4) 👤 Диджитализируй!
+- [FullStack Machine Learning App: FastAPI | Pandas | Numpy | Streamlit | SqlAlchemy | SQLite](https://www.youtube.com/watch?v=xj7nmKIlJSM) 👤 Bek Brace
+- [When to Use $fetch, useFetch, or useAsyncData in Nuxt: A Comprehensive Guide](https://masteringnuxt.com/blog/when-to-use-fetch-usefetch-or-useasyncdata-in-nuxt-a-comprehensive-guide?friend=MOKKAPPS) 👤 masteringnuxt.com 🔖 #nuxt
+- [Postgres as a search engine](https://anyblockers.com/posts/postgres-as-a-search-engine) 👤 anyblockers.com 🔖 #postgresql
+- [Rewritten in Rust: Modern Alternatives of Command-Line Tools](https://zaiste.net/posts/shell-commands-rust/) 👤 zaiste.net
+- [Looking at RSS User-Agents](https://www.jefftk.com/p/looking-at-rss-user-agents) 👤 Jeff Kaufman
+- [A Million Little Secrets](https://www.joshwcomeau.com/blog/whimsical-animations/?from=newsletter) 👤 Josh W. Comeau
+- [And "Suddenly", Everything Was Faster • The Applied Go Weekly Newsletter 2025-03-09](https://newsletter.appliedgo.net/archive/2025-03-09-and-suddenly-everything-was-faster/) 👤 The Applied Go Weekly Newsletter
+- [How to manage tool dependencies in Go 1.24+](https://www.alexedwards.net/blog/how-to-manage-tool-dependencies-in-go-1.24-plus) 👤 Alex Edwards 🔖 #go
+- [How to Deploy Selectively to Production](https://www.caktusgroup.com/blog/2025/03/04/how-deploy-selectively-production/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_275) 👤 Tobias McNulty 🔖 #git
+- [monolith](https://simonwillison.net/2025/Mar/6/monolith/#atom-everything) 👤 Simon Willison
+- [Rust Learning Resources 2025](https://corrode.dev/blog/rust-learning-resources-2025/) 👤 Corrode Rust Consulting 🔖 #rust
+- [From unique to cleanups and weak: new low-level tools for efficiency](https://go.dev/blog/cleanups-and-weak) 👤 Michael Knyszek 🔖 #go
+- [Fun With Scrapy Link Validation on CI](https://www.mattlayman.com/blog/2024/fun-scrapy-validation-ci/) 👤 Matt Layman
+- [Lua Log #1: Event Loop Adventures](https://www.mattlayman.com/blog/2022/lua-log-event-loop-adventures/) 👤 Matt Layman
+- [Python Structural Pattern Matching - Intro with Examples](https://www.youtube.com/watch?v=wFpTTFI3DIg) 👤 BugBytes
+- [Пересел с Макоси на виндовый ноут Osio](https://www.youtube.com/watch?v=6XICvwrYC1A) 👤 Виктор Фарафонтов
+- [[1hr Talk] Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=QSFf6hCBWOd5YRwE) 👤 Andrej Karpathy
+- [The Tiny Tyrants of Technology • The Applied Go Weekly Newsletter 2025-03-02](https://newsletter.appliedgo.net/archive/2025-03-02-the-tiny-tyrants-of-technology/) 👤 The Applied Go Weekly Newsletter
+- [🔮 Mental Health Prediction Machine Learning Project: FastAPI + Streamlit + Pandas + SQLAlchemy](https://www.youtube.com/watch?v=lLapCy4dTHA) 👤 Bek Brace
+- [Async, Sync, in Between](https://antfu.me/posts/async-sync-in-between) 👤 Anthony Fu
+- [Как на самом деле устроен Планировщик в Go? Детальный разбор простым языком](https://youtu.be/kedW1xO3Zbo) 👤 Николай Тузов — Golang
+- [Please confirm that you and not a robot are sending requests](https://yandex.cloud/ru/blog/posts/2025/02/virtual-machine-basics) 👤 yandex.cloud
+- [Tips to debug hanging Go programs](https://michael.stapelberg.ch/posts/2025-02-27-debug-hanging-go-programs/) 👤 Michael Stapelberg 🔖 #go
+- [Bitfield Consulting](https://bitfieldconsulting.com/posts/writing-terrible-code) 👤 Bitfield Consulting 🔖 #rust
+- [Centrifugo v6 + FastAPI + Python: разрабатываем веб-опросник с обновлениями в реальном времени](https://habr.com/ru/companies/amvera/articles/885714/) 👤 Хабр 🔖 #try, #fastapi
+- [From Go With Love • The Applied Go Weekly Newsletter 2025-02-23](https://newsletter.appliedgo.net/archive/2025-02-23-from-go-with-love/) 👤 The Applied Go Weekly Newsletter
+- [Вебсокеты на FastAPI: Реализация простого чата с комнатами за 20 минут](https://habr.com/ru/companies/amvera/articles/884816/) 👤 Хабр 🔖 #try, #fastapi, #websocket
+- [🔥 (#205) Flatten Nuxt Content Routes, Mock Any Import, and more](mailto:reader-forwarded-email/2484f0a7fdf5aa504203887bab2d5cb3) 👤 Michael Thiessen 🔖 #nuxt
+- [Zig & Go Interoperation](https://findev.datainquiry.dev/zig-and-go-interoperation) 👤 Jaime Lopez 🔖 #go
+- [You Cannot Simply Kill A Goroutine • The Applied Go Weekly Newsletter 2025-02-16](https://newsletter.appliedgo.net/archive/you-cannot-simply-kill-a-goroutine/) 👤 The Applied Go Weekly Newsletter 🔖 #go
+- [Run LLMs on macOS using llm-mlx and Apple’s MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/#atom-everything) 👤 Simon Willison 🔖 #llm
+- [How Protobuf Works—The Art of Data Encoding](https://victoriametrics.com/blog/go-protobuf/) 👤 Phuong Le 🔖 #go
+- [How to add a directory to your PATH](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/) 👤 Julia Evans
+- [Extensible Wasm Applications with Go](https://go.dev/blog/wasmexport) 👤 go.dev 🔖 #go
+- [Go 1.24's omitzero is another one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/02/12/go-omitzero-124/) 👤 Jamie Tanna | Software Engineer 🔖 #go
+- [C++, Go, and Rust gaining popularity – Tiobe](https://www.infoworld.com/article/3821294/c-go-and-rust-gaining-popularity-tiobe.html?utm_medium=erik.in&utm_source=mastodon) 👤 Matthew Tyson
+- [GoTH Stack - Go, HTMX and Templ for interactive apps!](https://www.youtube.com/watch?v=mzR0BcKg2cI) 👤 BugBytes 🔖 #go, #htmx
+- [The Most Admired Web Framework](https://www.youtube.com/watch?v=RNMwz5n1M80) 👤 Code to the Moon 🔖 #elixir
+- [If You Can Name It, You Can Tame It • The Applied Go Weekly Newsletter 2025-02-09](https://newsletter.appliedgo.net/archive/if-you-can-name-it-you-can-tame-it/) 👤 The Applied Go Weekly Newsletter 🔖 #go
+- [DevOps with Dhawos](https://dhawos.dev/site/en/articles/bluesky-custom-feeds) 👤 dhawos.dev 🔖 #go, #bluesky
+- [How to Set Up Documentation as Code with Docusaurus and GitHub Actions](https://www.freecodecamp.org/news/set-up-docs-as-code-with-docusaurus-and-github-actions/) 👤 freeCodeCamp.org
+- [Let's compile Python 1.0](https://www.bitecode.dev/p/lets-compile-python-10?r=28tjlb&amp%3Butm_campaign=post&amp%3Butm_medium=web&triedRedirect=true) 👤 Bite Code!
+- [JSON - The Fine Print: Part 2 - Emitting JSON](https://www.ardanlabs.com/blog/2024/10/json-the-fine-print-part-2.html) 👤 ardanlabs.com 🔖 #go
+- [About](https://pushpin.org/docs/about/#introduction) 👤 Pushpin 🔖 #try, #django
+- [botsin.space postmortem](https://muffinlabs.com/posts/2024/12/21/12-21-botsin-space-post-mortem/) 👤 Colin Mitchell
+- [Managing Django’s Queue](mailto:reader-forwarded-email/051d7aaae45030a5b764f15779659a7d) 👤 Carlton Gibson 🔖 #django
+- [Error ? • The Applied Go Weekly Newsletter 2025-02-02](https://newsletter.appliedgo.net/archive/error/) 👤 The Applied Go Weekly Newsletter 🔖 #go
+- [Bitfield Consulting](https://bitfieldconsulting.com/posts/slow-flaky-failing) 👤 Bitfield Consulting 🔖 #go, #testing
+- [Reading postmortems](https://danluu.com/postmortem-lessons/) 👤 danluu.com
+- [Literature review on the benefits of static types](https://danluu.com/empirical-pl/) 👤 danluu.com
+- [FastAPI + SQLAlchemy: Шаблон приложения с JWT-аутентификацией](https://www.youtube.com/watch?v=ZSqhCyotcnw) 👤 Легкий путь в Python 🔖 #fastapi
+- [P2P на Go: библиотека libp2p](https://habr.com/ru/companies/otus/articles/876996/) 👤 Хабр 🔖 #go
+- [Go 1.24's go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/) 👤 Jamie Tanna | Software Engineer 🔖 #go
+- [Dynamic Forms with Flask](https://blog.miguelgrinberg.com/post/dynamic-forms-with-flask) 👤 Miguel Grinberg 🔖 #flask
+- [Nuxt Tip: Managing Page Load States With useLoadingIndicator](https://mokkapps.de/vue-tips/managing-page-load-states-in-nuxt-with-use-loading-indicator) 👤 Michael Hoffmann 🔖 #nuxt
+- [Jan 10 Go’s best-kept secret: executable examples](https://bitfieldconsulting.com/posts/examples) 👤 John Arundel 🔖 #go
+- [Django Islands: Part 1](https://blopker.com/writing/07-django-islands-part-1/) 👤 blopker.com 🔖 #django
+- [Почему все в восторге от Path of Exile 2](https://www.youtube.com/watch?v=zv1xb6a1uo0) 👤 StopGame
+- [Container Queries Unleashed](https://www.joshwcomeau.com/css/container-queries-unleashed/?from=newsletter) 👤 Josh W. Comeau 🔖 #css
+- [A Weak Connection Is Still A Connection • The Applied Go Weekly Newsletter 2025-01-26](https://newsletter.appliedgo.net/archive/2025-01-26-a-weak-connection-is-still-a-connection/) 👤 The Applied Go Weekly Newsletter 🔖 #go
+- [Advent of Code 2024 with Elixir - Part 2: The Better](https://simoncrowe.hashnode.dev/advent-of-code-2024-with-elixir-part-2-the-better) 👤 Simon Crowe 🔖 #elixir
+- [Rust vs Zig Showdown (HTMX Webapp)](https://www.youtube.com/watch?v=hWaaG9sN_Z8) 👤 Code to the Moon 🔖 #rust
+- [Design Patterns in Golang: A Comprehensive Guide](https://dev.to/coolwednesday/design-patterns-in-golang-a-comprehensive-guide-560i) 👤 DEV Community 🔖 #go
+- [Pytest is fast](https://blog.ploeh.dk/2024/12/30/pytest-is-fast/) 👤 Mark Seemann
+- [The Creative Programmer](private://read/01jj68ssvdy8mxzpk3agzk3tmc) 👤 Wouter Groeneveld
+- [Exploring Error Handling Patterns in Go](https://8thlight.com/insights/exploring-error-handling-patterns-in-go) 👤 8th Light 🔖 #go
+- [Classic Design Patterns: Where Are They Now - Brandon Rhodes - code::dive 2022](https://youtube.com/watch?v=pGq7Cr2ekVM&si=ARRcbfsR-N_w9nD2) 👤 code::dive conference
+- [You don’t need orm in Go](https://medium.com/@enverbisevac/you-dont-need-orm-in-go-9216fb74cdfd) 👤 Enver Bisevac 🔖 #go
+- [Writing & Testing a Paginated API Iterator in Go](https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-19-everyones-favorite-route) 👤 thibaut-rousseau.com 🔖 #go
+- [From net/rpc to gRPC in Go Applications](https://victoriametrics.com/blog/go-net-rpc/index.html) 👤 Phuong Le 🔖 #go
+- [How HTTP/2 Works and How to Enable It in Go](https://victoriametrics.com/blog/go-http2/?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-19-everyones-favorite-route) 👤 VictoriaMetrics 🔖 #go
+- [10 years of functional options and key lessons Learned along the way](https://www.bytesizego.com/blog/10-years-functional-options-golang?utm_source=christophberger&utm_medium=email&utm_campaign=big-things-will-happen) 👤 bytesizego.com 🔖 #go
+- [Clean Architecture: A Practical Example of Dependency Inversion in Go using Plugins](https://cekrem.github.io/posts/clean-architecture-and-plugins-in-go/?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-12-big-things-will-happen) 👤 Christian Ekrem 🔖 #go
+- [How to Use the Mermaid JavaScript Library to Create Flowcharts](https://www.freecodecamp.org/news/use-mermaid-javascript-library-to-create-flowcharts/) 👤 freeCodeCamp.org
+- [How to Make Flowcharts with Mermaid and Bring Joy to your Coding](https://www.freecodecamp.org/news/how-to-make-flowcharts-with-mermaid/) 👤 freeCodeCamp.org
+- [Build a Database in 3000 Lines with 0 Dependencies](https://build-your-own.org/blog/20251015_db_in_3000/) 👤 James Smith 🔖 #diy
+- [Как Duolingo перезапустил рост](https://gopractice.ru/stories/duolingo-growth-story/?ysclid=m60t38ft4z493684561) 👤 Редакция GoPractice
+- [Как поймать и обезвредить проблемные запросы в PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/872574/) 👤 Хабр 🔖 #postgresql
+- [Go 1.24: Interactive tour](https://antonz.org/go-1-24/) 👤 Anton Zhiyanov 🔖 #go
+- [Write Your Own json.Unmarshal](https://stuff.narf.zone/posts/unmarshal/?utm_source=christophberger&utm_medium=email&utm_campaign=big-things-will-happen) 👤 narf.zone 🔖 #go
+- [Leveraging Go generics for input validation](https://ffss.dev/articles/generic-validation) 👤 ffss.dev 🔖 #go
+- [Совершенный код](https://readwise.io/reader/document_raw_content/164004200) 👤 Стив Макконелл 🔖 #book
+- [Using Free Let's Encrypt SSL Certificates in 2025](https://blog.miguelgrinberg.com/post/using-free-let-s-encrypt-ssl-certificates-in-2025) 👤 Miguel Grinberg
+- [How to override methods in Go](https://victoronsoftware.com/posts/method-overriding-in-go/) 👤 Victor Lyuboslavsky 🔖 #go
+- [Table of Contents](https://almanac.httparchive.org/en/2024/table-of-contents) 👤 HTTP Archive
+- [Be aware of the Makefile effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect) 👤 yossarian.net
+- [What's involved in getting a "modern" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/) 👤 Julia Evans
+- [The Complete Guide to Learning Go](https://www.calhoun.io/guide-to-go) 👤 Jon Calhoun 🔖 #go, #outline
+- [Learning Go in 2024; From Beginner to Senior](https://www.bytesizego.com/blog/learning-golang-2024) 👤 Matt Boyle 🔖 #go, #outline
+- [Effective Go](https://go.dev/doc/effective_go) 👤 go.dev 🔖 #go
+- [Show Django flash messages as toasts with Htmx](https://joshkaramuth.com/blog/django-messages-toast-htmx/) 👤 joshkaramuth.com 🔖 #htmx, #django
+- [Go is a Well-Designed Language, Actually](https://mattjhall.co.uk/posts/go-is-well-designed-actually.html) 👤 mattjhall.co.uk 🔖 #go
+- [Database optimization isn't always obvious](https://kenwhitesell.github.io/2025/01/01/Database-optimization-is-not-alway-obvious.html) 👤 Ken Whitesell
+- [100 Go Mistakes and How to Avoid Them](https://readwise.io/reader/document_raw_content/8740249) 👤 Teiva Harsanyi 🔖 #go, #book
+- [Программируй на Haskell](https://readwise.io/reader/document_raw_content/257815814) 👤 Уилл Курт 🔖 #book, #haskell
+- [Programming Elixir 1.6](https://readwise.io/reader/document_raw_content/28841812) 👤 Dave Thomas 🔖 #book, #elixir
+- [Elixir in Action, Third Edition](https://readwise.io/reader/document_raw_content/202067289) 👤 Sasa Juric 🔖 #book, #elixir
+- [Гид по Computer Science](https://readwise.io/reader/document_raw_content/257815230) 👤 Вильям Спрингер 🔖 #book
+- [Keep Going: Chapter 1](private://read/01jh0f4vvm28xm7zzfvca7pz9d) 👤 Austin Kleon
+- [Nuxt Tip: Parallel Fetch Requests](https://mokkapps.de/vue-tips/nuxt-parallel-fetch-requests) 👤 Michael Hoffmann 🔖 #nuxt
+- [Dev контейнеры и с чем их едят](https://habr.com/ru/articles/814071/) 👤 Хабр
+- [Server-Sent Events vs WebSockets – How to Choose a Real-Time Data Exchange Protocol](https://www.freecodecamp.org/news/server-sent-events-vs-websockets/) 👤 freeCodeCamp.org 🔖 #sse, #websocket
+- [Jan 3 The magic function](https://bitfieldconsulting.com/posts/magic-function) 👤 John Arundel 🔖 #rust
+- [Как сделать оплату в Telegram боте-магазине на вебхуках](https://habr.com/ru/companies/amvera/articles/870414/) 👤 Хабр 🔖 #python
+- [Оптимизация запросов в DjangoORM: когда и как использовать Raw SQL](https://habr.com/ru/articles/871638/) 👤 Хабр 🔖 #django
+- [Git: undo a pull](https://adamj.eu/tech/2024/12/31/git-undo-pull-reflog/) 👤 adamj.eu 🔖 #git
+- [Путешествие в golang regexp](https://tproger.ru/articles/puteshestvie-v-golang-regexp) 👤 Маргарита Гавриленко 🔖 #go
+- [What's up Python: MOAR uv, flask-like Django, debugging live processes...
+What's up Python: MOAR uv, flask-like Django, debugging live processes...](https://www.bitecode.dev/p/whats-up-python-moar-uv-flask-like) 👤 Bite Code! 🔖 #python
+- [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for) 👤 Amos Wenger 🔖 #http
+- [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) 👤 Amos Wenger 🔖 #rust
+- [GopherCon AU 2024](https://dave.cheney.net/talks/gopherconau-2024.pdf) 👤 dave.cheney.net 🔖 #go
+- [Technology Radar](https://www.thoughtworks.com/radar) 👤 Thoughtworks
+- [Cognitive load is what matters](https://minds.md/zakirullin/cognitive) 👤 minds.md
+- [Антипаттерны Go: чего нельзя делать и почему](https://habr.com/ru/companies/beget/articles/870138/) 👤 Хабр 🔖 #go, #outline
+- [How to stop macOS Sequoia from resizing windows to fill your screen](https://www.macworld.com/article/2548439/how-to-stop-macos-sequoia-from-resizing-windows-to-fill-your-screen.html) 👤 Glenn Fleishman
+- [Open WebUI](https://simonwillison.net/2024/Dec/27/open-webui/#atom-everything) 👤 Simon Willison 🔖 #llm
+- [My little games workshop](https://daverupert.com/2024/12/my-little-games-workshop/) 👤 Dave Rupert
+- [Вы кто такие, я вас не знаю, или Как мы делаем JWT-аутентификацию](https://habr.com/ru/companies/doubletapp/articles/764424/) 👤 Хабр
+- [Advent of Code 2024 with Elixir - Part 1: The Good-ish, the Ugly and the Bad](https://simoncrowe.hashnode.dev/advent-of-code-2024-with-elixir-part-1-the-good-ish-the-ugly-and-the-bad) 👤 Simon Crowe 🔖 #elixir
+- [Как использовать TDD, жить с vim в Java и Go и почему тебе нужна сплит-клавиатура](https://www.youtube.com/watch?v=8NdaPHWSRk4) 👤 Диджитализируй!
+- [Redis Queue and Cron in Go](https://fajar.labkita.my.id/posts/redis-queue-and-cron-in-go) 👤 labkita.my.id 🔖 #go, #redis
+- [Telegram-бот-магазин на Python: пошаговый гайд с оплатой, каталогом и админкой (Aiogram 3 + SQLAlchemy 2)](https://habr.com/ru/companies/amvera/articles/869136/) 👤 Хабр 🔖 #aiogram, #sqlalchemy
+- [An imperative programmer tries to learn Haskell
+An imperative programmer tries to learn Haskell](https://hatwd.com/p/an-imperative-programmer-tries-to) 👤 Thane Thomson 🔖 #haskell
+- [How to live on 24 hours a day – by Arnold Bennett](https://olivernguyen.io/w/live.24h/) 👤 olivernguyen.io
+- [Building a Database from Scratch in Go (part 01) - File Manager](https://www.youtube.com/watch?utm_source=christophberger&utm_medium=email&utm_campaign=dont-mess-with-that-property&v=kj4ABYRI_NA&feature=youtu.be) 👤 Inel Pandzic
+- [Contextual Logging in Go with Slog](https://betterstack.com/community/guides/logging/golang-contextual-logging/?utm_source=christophberger&utm_medium=email&utm_campaign=dont-mess-with-that-property) 👤 Percy Bolmér 🔖 #go
+- [Don't sleep on inline interfaces](https://fmt.errorf.com/posts/go-ducks/?utm_source=christophberger&utm_medium=email&utm_campaign=dont-mess-with-that-property) 👤 errorf.com 🔖 #go
+- [Things You Never Wanted To Know About Go Interfaces](https://mcyoung.xyz/2024/12/12/go-abi/?utm_source=christophberger&utm_medium=email&utm_campaign=time-is-skipping) 👤 mcyoung.xyz 🔖 #go
+- [](https://www.myhatchpad.com/insight/mocking-techniques-for-go/?utm_source=christophberger&utm_medium=email&utm_campaign=time-is-skipping)
+- [Errors, Errors Everywhere: How We Centralized and Structured Error Handling](https://olivernguyen.io/w/namespace.error?utm_source=christophberger&utm_medium=email&utm_campaign=time-is-skipping) 👤 olivernguyen.io 🔖 #go
+- [From net/rpc to gRPC in Go Applications](https://victoriametrics.com/blog/go-net-rpc/) 👤 VictoriaMetrics 🔖 #go, #grpc
+- [Fullstack App with FastAPI and HTMX | Full Tutorial](https://www.youtube.com/watch?v=sT3WSkMyCXA) 👤 Bek Brace 🔖 #try, #htmx, #fastapi
+- [Building A Simple Filesystem Backed Cache With Golang](https://mzfit.app/blog/2024/12/07/building_a_filesystem_backed_cache_with_golang/) 👤 MzFit 🔖 #go
+- [Practical Go Basics - Standard Library Interfaces](https://tomjowitt.com/posts/go-standard-library-interfaces/) 👤 tomjowitt.com 🔖 #go
+- [The new maps and slices packages in Go 1.23: tour and examples](https://www.dolthub.com/blog/2024-12-20-collection-functions-in-go-1-23/) 👤 Zach Musgrave 🔖 #go
+- [Function types and single-method interfaces in Go](https://rednafi.com/go/func_types_and_smis/) 👤 Redowan Delowar 🔖 #go
+- [I'm a programmer and I'm stupid](https://antonz.org/stupid/) 👤 Anton Zhiyanov 🔖 #inspiration
+- [Implementing WebSocket Communication and Heartbeat Mechanism with GoFrame: A Hands-on Guide](https://dev.to/jones_charles_ad50858dbc0/implementing-websocket-communication-and-heartbeat-mechanism-with-goframe-a-hands-on-guide-44df) 👤 DEV Community 🔖 #go, #websocket
+- [Gist of Go: Concurrency](https://antonz.org/go-concurrency/) 👤 Anton Zhiyanov 🔖 #go, #concurrency
+- [Curl by example: Interactive guide](https://antonz.org/curl-by-example/) 👤 Anton Zhiyanov
+- [Grep by example: Interactive guide](https://antonz.org/grep-by-example/) 👤 Anton Zhiyanov
+- [Try X in Y minutes](https://antonz.org/try-x-in-y-minutes/) 👤 Anton Zhiyanov
+- [Gist of Go: Pipelines](https://antonz.org/go-concurrency/pipelines/) 👤 Anton Zhiyanov 🔖 #go, #concurrency
+- [Gist of Go: Goroutines](https://antonz.org/go-concurrency/goroutines/) 👤 Anton Zhiyanov 🔖 #go, #concurrency
+- [Complete Guide: How to Upgrade to Nuxt 4](https://masteringnuxt.com/blog/complete-guide-how-to-upgrade-to-nuxt-4?friend=MOKKAPPS) 👤 masteringnuxt.com 🔖 #nuxt
+- [Is AI progress slowing down?](https://simonwillison.net/2024/Dec/19/is-ai-progress-slowing-down/#atom-everything) 👤 Simon Willison
+- [q and qv zsh functions for asking questions of websites and YouTube videos with LLM](https://simonwillison.net/2024/Dec/19/q-and-qv-zsh-functions/#atom-everything) 👤 Simon Willison
+- [Обзор Indiana Jones and the Great Circle](https://www.youtube.com/watch?v=6Xzr06VhALY) 👤 StopGame
+- [Видео с митапа о Postgres](https://grishaev.me/pg-meetup-video/) 👤 grishaev.me
+- [🍉Полный гайд настройки Windows + WSL для разработчика](https://www.youtube.com/watch?v=EH3yeiZ5JRo) 👤 Диджитализируй!
+- [How to Write User Stories for Beginners: Agile in Practice](https://www.freecodecamp.org/news/how-to-write-user-stories-for-beginners/) 👤 freeCodeCamp.org 🔖 #agile
+- [Gist of Go: Channels](https://antonz.org/go-concurrency/channels/) 👤 Anton Zhiyanov 🔖 #go
+- [Building a distributed log using S3 (under 150 lines of Go)](https://avi.im/blag/2024/s3-log/) 👤 avi.im 🔖 #go
+- [Caching in Go - Part 1 - A Basic Implementation](https://mzungudev.com/posts/go-cache/) 👤 MzunguDev 🔖 #go
+- [Why Clean Architecture and Over-Engineered Layering Don’t Belong in GoLang](https://www.reddit.com/r/golang/comments/1h7jajk/why_clean_architecture_and_overengineered/) 👤 Superb-Key-6581 🔖 #go
+- [Weak Pointers in Go: Why They Matter Now](https://victoriametrics.com/blog/go-weak-pointer/) 👤 Phuong Le 🔖 #go
+- [Building Simple Real-Time System Monitor using Go, HTMX, and Web Socket](https://dev.to/didikz/building-simple-real-time-system-monitor-using-go-htmx-and-web-socket-50pg) 👤 DEV Community 🔖 #go, #try, #htmx, #websocket
+- [Make resilient Go net/http servers using timeouts, deadlines and context cancellation](https://ieftimov.com/posts/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/) 👤 Ilija Eftimov 🔖 #go
+- [UV tricks - Bite code!
+UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 🔖 #uv
+- [How to make your RSS feed pretty](https://cassidoo.co/post/prettify-rss/) 👤 cassidoo.co
+- [Building a High-Performance Full-Text Search Engine in Go](https://medium.com/@ravikishan63392/building-a-high-performance-full-text-search-engine-in-go-f2e4ec63e643) 👤 Ravikishan 🔖 #go, #try
+- [UV and Ruff: Next-gen Python Tooling](https://www.youtube.com/watch?v=ifj-izwXKRA) 👤 Matt Layman 🔖 #uv
+- [Elasticsearch Course for Beginners](https://www.youtube.com/watch?v=a4HBKEda_F8) 👤 freeCodeCamp.org
+- [Mocking Techniques for Go](https://www.myhatchpad.com/insight/mocking-techniques-for-go/) 👤 Hatchpad 🔖 #go, #testing
+- ["Rules" that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/) 👤 Julia Evans
+- [Goto Fail, Heartbleed, and Unit Testing Culture](https://martinfowler.com/articles/testing-culture.html) 👤 Mike Bland
+- [Navigating Loops in Go: The Role of Labeled continue Statements](https://blog.alexoglou.com/posts/continue-golang/) 👤 Costa Alexoglou 🔖 #go
+- [Go slices are not dynamic arrays](https://appliedgo.net/slices/) 👤 Happy coding! 🔖 #go
+- [A DIY Dashboard with Grafana](https://appliedgo.net/diydashboard/) 👤 Applied Go 🔖 #go, #grafana, #observability
+- [Futures in Go, no package required](https://appliedgo.net/futures/) 👤 Applied Go 🔖 #go, #concurrency
+- [Streamlit](https://year-in-sports.streamlit.app/) 👤 year-in-sports.streamlit.app
+- [Lazy self-installing Python scripts with uv](https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/) 👤 Trey Hunner 🔖 #uv, #python
+- [Awful ways to create Pipelines with Go](https://www.poxate.com/blog/awful-ways-to-create-pipelines-with-go/) 👤 poxate 🔖 #go
+- [Writing down (and searching through) every UUID](https://eieio.games/blog/writing-down-every-uuid/) 👤 nolen royalty
+- [uv: An In-Depth Guide to Python's Fast and Ambitious New Package Manager](https://www.saaspegasus.com/guides/uv-deep-dive/) 👤 SaaS Pegasus 🔖 #uv, #python
+- [34 ИНТЕРЕСНЫХ инди-игр 2024 I Битый Пиксель](https://www.youtube.com/watch?v=OW22UW1rzS0) 👤 Битый Пиксель
+- [Migration Guide](https://docs.pydantic.dev/2.0/migration/#changes-to-pydanticbasemodel) 👤 pydantic.dev 🔖 #pydantic
+- [Migrating from Java to Rust](https://corrode.dev/migration-guides/java-to-rust/) 👤 Corrode Rust Consulting 🔖 #rust
+- [An A-Z Index of Apple macOS (bash) commands](https://ss64.com/mac/) 👤 ss64.com
+- [Avoid Counting in Django Pagination](https://testdriven.io/blog/django-avoid-counting/) 👤 testdriven.io 🔖 #django
+- [Mastering Go Memory Optimization: 20 Expert Techniques for Efficient Applications](https://dev.to/aaravjoshi/mastering-go-memory-optimization-20-expert-techniques-for-efficient-applications-4bjc) 👤 DEV Community 🔖 #go
+- [Yandex DataLens Festival 2024. Собираем отчёт в новом конструкторе](https://www.youtube.com/watch?v=vWFMwrxK7nQ) 👤 Yandex Cloud
+- [Yandex DataLens: демо от подключения до дашборда](https://www.youtube.com/watch?v=gjrqHJGPxnQ) 👤 Yandex Cloud
+- [Как встроить DataLens в свой сайт с помощью secure embedding](https://www.youtube.com/watch?v=1tjbzpe24P4) 👤 Yandex Cloud
+- [Разворачиваем DataLens Open Source](https://www.youtube.com/watch?v=e-jnJTokyek) 👤 Yandex Cloud
+- [Property Testing: Beyond Matching Input-Output Pairs](https://appliedgo.net/spotlight/property-testing/) 👤 Applied Go 🔖 #go, #testing
+- [Implement Unit Test for CLI Apps using Golang and Cobra](https://clavinjune.dev/en/blogs/implement-unit-test-for-cli-apps-using-golang-and-cobra/) 👤 Clavin June 🔖 #go, #testing
+- [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/) 👤 Dane Hillard 🔖 #pytest, #python, #testing
+- [11.2. Index Types](https://www.postgresql.org/docs/current/indexes-types.html) 👤 PostgreSQL Documentation 🔖 #outline, #postgresql
+- [11.1. Introduction #](https://www.postgresql.org/docs/current/indexes-intro.html) 👤 PostgreSQL Documentation 🔖 #postgresql
+- [Django: launch pdb when a given SQL query runs](https://adamj.eu/tech/2024/12/05/django-sql-breakpoint/) 👤 Adam Johnson 🔖 #django, #postgresql
+- [Introducing Nuxt Icon v1](https://nuxt.com/blog/nuxt-icon-v1-0) 👤 Nuxt 🔖 #nuxt
+- [When to Use useState in Nuxt](https://mokkapps.de/blog/when-to-use-use-state-in-nuxt) 👤 mokkapps.de 🔖 #nuxt
+- [Django: fix a view using a debugger with breakpoint()](https://adamj.eu/tech/2024/11/26/django-fix-view-using-pdb/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_261) 👤 adamj.eu 🔖 #django
+- [The Practical Guide to Scaling Django](https://slimsaas.com/blog/django-scaling-performance/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_261) 👤 Startup Kit 🔖 #django
+- [Peopleware: Productive Projects and Teams, Third Edition](private://read/01jeayy7m4187c7he20ye40bq0) 👤 Tom DeMarco
+- [Generics in Go](https://bitfieldconsulting.com/posts/generics) 👤 Bitfield Consulting 🔖 #go
+- [База по оптимизации PostgreSQL: схема, индексы, чтение EXPLAIN, методы доступа и соединения, тюнинг](https://www.youtube.com/watch?v=gA3A_epB3So) 👤 Диджитализируй! 🔖 #postgresql
+- [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/) 👤 jse.li 🔖 #go, #diy
+- [§Note-writing systems](https://notes.andymatuschak.org/%C2%A7Note-writing_systems) 👤 Andyʼs working notes
+- [Красные флаги на собеседовании на программиста | Программист читает Reddit](https://youtube.com/watch?v=ijd5KAqaUqY&si=QHF2nqjpfW1OWZ5r) 👤 Sergey Nemchinskiy
+- [Обзор S.T.A.L.K.E.R. 2: Heart of Chornobyl](https://www.youtube.com/watch?v=g2OFElCGalY) 👤 StopGame
+- [Making Software](https://www.oreilly.com/library/view/making-software/9780596808310/) 👤 Andy Oram
+- [Another Static Site Generator for Lessons](https://third-bit.com/2024/11/30/another-ssg-for-lessons/) 👤 third-bit.com
+- [Persona 5 Royal guide: All classroom answers](https://www.polygon.com/persona-5-royal-guide-walkthrough/2020/3/31/21192788/questions-answers-quizzes-exams-midterm-final-classroom) 👤 Ryan Gilliam
+- [Why pipes sometimes get "stuck": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/) 👤 Julia Evans
+- [Ep. 1: Enhancing Your Go Projects with Generative AI: Exploring LLMs](https://www.ardanlabs.com/blog/2024/06/ep1-enhancing-your-go-projects-with-generative-ai-exploring-llms.html) 👤 ardanlabs.com
+- [Continuous Integration and Deployment for Python With GitHub Actions](https://realpython.com/github-actions-python/) 👤 Ricky White 🔖 #devops, #github
+- [Effective Go Recipes](https://readwise.io/reader/document_raw_content/241135476) 👤 Miki Tebeka; 🔖 #go, #book
+- [Detecting Race Conditions With Go](http://www.goinggo.net/2013/09/detecting-race-conditions-with-go.html) 👤 ardanlabs.com 🔖 #go
+- [Channels in Go](http://golangtutorials.blogspot.co.uk/2011/06/channels-in-go.html) 👤 golangtutorials.blogspot.com 🔖 #go
+- [PWA and Django #3: Online and offline resources in a PWA](https://andresalvareziglesias.substack.com/p/pwa-and-django-3-online-and-offline?r=1ymfiv&utm_campaign=post&utm_medium=web&triedRedirect=true) 👤 Andrés Álvarez Iglesias 🔖 #django
+- [Managing Dependencies With Python Poetry](https://realpython.com/courses/managing-dependencies-with-poetry/) 👤 Real Python 🔖 #python
+- [Samuel Colvin on LogFire, mixing Python with Rust & being pydantic about types](https://www.bitecode.dev/p/samuel-colvin-on-logfire-mixing-python) 👤 Bite Code!
+- [redis_1](http://openmymind.net/redis.pdf) 🔖 #redis
+- [Как попасть в IT — проблемы стажеров и как их решать  | GoGetPodcast №12](https://www.youtube.com/watch?si=NTmMrh8ZGYYGhKty&v=YrZLNvl6xc0&feature=youtu.be) 👤 Николай Тузов — Golang
+- [A New Player's Primer to Balatro](https://steamcommunity.com/sharedfiles/filedetails/?id=3166946815) 👤 steamcommunity.com
+- [FREE coding exercises for budding gophers](https://gophercises.com/) 👤 Jon Calhoun
+- [Unfinished Projects](https://third-bit.com/2024/11/24/unfinished-projects/) 👤 third-bit.com
+- [Working with Redis in Go](https://www.alexedwards.net/blog/working-with-redis) 👤 Alex Edwards 🔖 #go, #redis
+- [Configuring sql.DB for Better Performance](https://www.alexedwards.net/blog/configuring-sqldb) 👤 Alex Edwards 🔖 #db, #go
+- [How to use the http.ResponseController type](https://www.alexedwards.net/blog/how-to-use-the-http-responsecontroller-type) 👤 Alex Edwards 🔖 #go
+- [I18n in Go: Managing Translations](https://www.alexedwards.net/blog/i18n-managing-translations) 👤 Alex Edwards 🔖 #go
+- [A Complete Guide to Working With Cookies in Go](https://www.alexedwards.net/blog/working-with-cookies-in-go) 👤 Alex Edwards 🔖 #go
+- [Using PostgreSQL JSONB with Go](https://www.alexedwards.net/blog/using-postgresql-jsonb) 👤 Alex Edwards 🔖 #db, #go, #postgresql
+- [The Science of the Big Bang Theory](private://read/01jddehrpj1rycvqa9zspgrp9p) 👤 Mark Brake
+- [Science of TV’s the Big Bang Theory, The](private://read/01jddehfjpq5k22sdjv0ekvk1q) 👤 Zobel Dave
+- [The Big Bang Theory](private://read/01jddeh4sd4h85jrrkm2bkzv3c) 👤 Jessica Radloff
+- [The Big Bang Theory - Wikipedia](https://en.wikipedia.org/wiki/The_Big_Bang_Theory) 👤 wikipedia.org
+- [Learning Go](http://library.hazadus.ru/media/books/Jon_Bodner_-_Learning_Go__An_Idiomatic_Approach_to_Real-World_Go_Programming-OReilly_2021.pdf) 👤 Bodner, Jon;  🔖 #go, #book
+- [О переменных среды](https://grishaev.me/env-trap/) 👤 grishaev.me
+- [Лучший язык](https://grishaev.me/best-lang/) 👤 grishaev.me
+- [Исправь это в своём резюме и тебя наймут!](https://www.youtube.com/watch?v=wtNGICJgqi0) 👤 Програмысли
+- [Streaming Video with Golang Fiber: A Practical Tutorial](https://pcpratheesh.medium.com/streaming-video-with-golang-fiber-a-practical-tutorial-a2170584ae9f) 👤 PRATHEESH PC 🔖 #go, #try
+- [Creating a Go-based video streaming platform](https://reintech.io/blog/creating-a-go-based-video-streaming-platform) 👤 Arthur C. Codex 🔖 #go, #try
+- [Git: count commits with rev-list](https://adamj.eu/tech/2024/11/20/git-count-commits-rev-list/) 👤 Adam Johnson 🔖 #git
+- [ExpvarMon — консольный мониторинг сервисов на Go](https://habr.com/ru/articles/257593/) 👤 Хабр 🔖 #go
+- [Bitfield Consulting](https://bitfieldconsulting.com/posts/rust-and-go) 👤 Bitfield Consulting
+- [How to Implement Event-Driven Data Processing with Traefik, Kafka, and Docker](https://www.freecodecamp.org/news/how-to-implement-event-driven-data-processing/) 👤 freecodecamp.org
+- [Как проверить аккаунт Инстаграм* на ботов](https://livedune.com/ru/blog/proverka_insta-blogerov_na_nakrutki#rec373018188) 👤 livedune.com
+- [Understanding Allocations in Go](https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d) 👤 James Kirk 🔖 #go
+- [Is Python Really That Slow?](https://blog.miguelgrinberg.com/post/is-python-really-that-slow) 👤 Miguel Grinberg 🔖 #python
+- [Importing a frontend Javascript library without a build system](https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/) 👤 Julia Evans 🔖 #javascript
+- [Boost Your Django DX updated again](https://adamj.eu/tech/2024/11/18/byddx-updated-again/) 👤 Adam Johnson
+- [Примеры языков: C, Pascal, COBOL, ALGOL, BASIC, Fortran.](https://practicum.yandex.ru/blog/paradigmy-programmirovaniya/) 👤 Парадигмы программирования: что это, какие виды бывают, примеры использования  
+- [What Is YearCompass?](https://yearcompass.com/) 👤 yearcompass.com
+- [Exploring JavaScript Symbols](https://www.trevorlasn.com/blog/symbols-in-javascript) 👤 Exploring JavaScript Symbols 🔖 #javascript
+- [Rewriting fanmade AI From Golang to Remix](https://youtube.com/live/hMUg-WUrRgE?si=Xz1PIzijSlwl9vL8) 👤 Anthony GG
+- [20 лет «Героям Меча и Магии 3». Чем живёт культовая игра сегодня](https://www.mirf.ru/videogames/20-let-geroyam-mecha-i-magii-3-chem-zhivyot-kultovaya-igra-segodnya) 👤 mirf.ru
+- [Planescape: Torment. История создания великой игры](https://www.mirf.ru/videogames/planescape-torment-istoriya-sozdaniya) 👤 mirf.ru
+- [Обзор Dragon Age: The Veilguard](https://www.youtube.com/watch?v=KD0Csm8qhwU) 👤 StopGame
+- [What if AI eventually makes programmers smarter, not dumber?](https://www.bitecode.dev/p/what-if-ai-eventually-make-programmers) 👤 Bite Code!
+- [Go Database Migrations with Goose and PostgreSQL](https://www.youtube.com/watch?v=fA8QK69zwlw) 👤 BugBytes
+- [Никита Соболев: CPython Core Developer. Новые языки программирования, опенсорс, Python, инструменты](https://youtube.com/watch?v=DS7Hhg5ebf0&si=_VXAqe9s91V1sR7g) 👤 Диджитализируй!
+- [RSS is (not) dead (yet) (NED #3)](https://audmcname.com/comics/rss-is-not-dead-yet/) 👤 audmcname.com
+- [The TTY demystified](https://www.linusakesson.net/programming/tty/) 👤 linusakesson.net
+- [My 2024 thoughts on the state of social media](https://martinfowler.com/articles/2024-social-media.html) 👤 Martin Fowler
+- [Controlling When Components are Loaded in Nuxt](https://masteringnuxt.com/blog/controlling-when-components-are-loaded-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(&utm_medium=email&utm_source=convertkit#191)%20Nested%20ref%20properties,%20mock%20API%20routes,%20and%20more%20-%2015628767) 👤 masteringnuxt.com 🔖 #nuxt
+- [What Are Python Wheels and Why Should You Care?](https://realpython.com/python-wheels/) 👤 Brad Solomon
+- [The 4-Hour Workweek: Escape 9–5, Live Anywhere, and Join the New Rich - Expanded and Updated](private://read/01jckkk63f4zwzs647jzrjktsb) 👤 Timothy Ferriss
+- [Phoenix LiveView for web developers who don't know Elixir.](https://youtube.com/watch?v=U_Pe8Ru06fM&si=7fEmpzFHkkXXvyy2) 👤 knowthen 🔖 #elixir
+- [Functional Programming with Elixir – Full Course](https://youtube.com/watch?v=IiIgm_yaoOA&si=yBeVYXse7XlEAkod) 👤 freeCodeCamp.org 🔖 #elixir
+- [How to Build a Dropbox-like Distributed File Storage System Using MinIO and gRPC](https://www.freecodecamp.org/news/how-to-build-a-dropbox-like-distributed-file-storage-system-using-minio-and-grpc/) 👤 freeCodeCamp.org
+- [On the Importance of Hard Work](https://beej.us/blog/data/noises-in-the-distance/) 👤 beej.us
+- [Beej's guide to killing dragons](https://beej.us/moria/dragonslayer.html) 👤 beej.us
+- [Tips and Tricks](https://beej.us/guide/bgp/) 👤 beej.us
+- [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/) 👤 beej.us
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/) 👤 beej.us
+- [Beej's Guide to Unix Interprocess Communication](https://beej.us/guide/bgipc/) 👤 beej.us
+- [How to Build a Second Brain – Part 2](https://illustrated.dev/secondbrain2) 👤 illustrated.dev
+- [Bitfield Consulting](https://bitfieldconsulting.com/posts/tao-of-go) 👤 Bitfield Consulting 🔖 #go
+- [Код. Тайный язык информатики](private://read/01jcbv20dveewq9fmgyq6145zm) 👤 Чарльз Петцольд
+- [Потерял работу, завалил 10 собесов, но выжил — история мидл разработчика | GoGetPodcast №13](https://www.youtube.com/watch?v=0GnTXKF1X-8) 👤 Николай Тузов — Golang
+- [New microblog with TILs](https://jvns.ca/blog/2024/11/09/new-microblog/) 👤 Julia Evans
+- [How to Use WebCurate to Discover Helpful Developer Tools](https://www.freecodecamp.org/news/how-to-use-webcurate-to-discover-helpful-developer-tools/) 👤 David Jaja
+- [How to Fuzz Test Golang HTTP Services](https://www.freecodecamp.org/news/how-to-fuzz-test-golang-http-services/) 👤 freeCodeCamp.org 🔖 #go, #testing
+- [Journaling Workflow for Appending to Daily Notes with QuickAdd (VIDEO)](https://thesweetsetup.com/journaling-workflow-for-appending-to-daily-notes-with-quickadd-video/) 👤 Mike Schmitz
+- [Deep Work](private://read/01jc0gfq12a0849rk3x2q2h5dg) 👤 Cal Newport
+- [Parsing Custom Markdown with Go](mailto:reader-forwarded-email/5797974aa263466e38a8af5c8cd6636d) 👤 Jon Calhoun
+- [Improving the main function](mailto:reader-forwarded-email/9c543cfbabd494a29de9eb2384ac5f82) 👤 Jon Calhoun
+- [Testing API libraries in Go](mailto:reader-forwarded-email/99564c967e771eacae74b0d4ee726eff) 👤 Jon Calhoun
+- [Storing information in its highest form](https://enterprisecraftsmanship.com/posts/storing-information-in-its-highest-form/) 👤 Vladimir Khorikov
+- [The Little Book on REST Services](https://readwise.io/reader/document_raw_content/234768051) 👤 Kenneth Lange 🔖 #rest
+- [JavaScript | 2022 | The Web Almanac by HTTP Archive](https://almanac.httparchive.org/en/2022/javascript) 👤 Jeremy Wagner 🔖 #web, #long read, #javascript
+- [Performance Analysis of Python's `dict()` and `{}` - MadeByMe](https://madebyme.today/blog/python-dict-vs-curly-brackets/) 👤 Kamil Rusin 🔖 #python
+- [The history of a Django application · eigenwijsje](https://eigenwijsje.dev/blog/the-history-of-a-django-application/) 👤 Ernesto Rico Schmidt 🔖 #django
+- [Python Debugging Handbook – How to Debug Your Python Code](https://www.freecodecamp.org/news/python-debugging-handbook/) 👤 Samyak Jain 🔖 #python, #debugging
+- [The Flask Mega-Tutorial, Part I: Hello, World! - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) 👤 Miguel Grinberg 🔖 #flask, #tutorial
+- [Python Exceptions: An Introduction – Real Python](https://realpython.com/python-exceptions/) 👤 Real Python 🔖 #python
+- [Python's Format Mini-Language for Tidy Strings – Real Python](https://realpython.com/python-format-mini-language/) 👤 Real Python 🔖 #python
+- [Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) 👤 vinaysahni.com 🔖 #api, #rest
+- [Spec-Driven Development for Building APIs with Longevity](https://www.nginx.com/blog/building-api-for-longevity-spec-driven-development/) 👤 Web Team 🔖 #api, #rest
+- [Python Hashes and Equality](https://hynek.me/articles/hashes-and-equality/) 👤 Hynek Schlawack 🔖 #python
+- [Layers, Onions, Ports, Adapters: it's all the same](https://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/) 👤 Mark Seemann
+- [Microservices](https://martinfowler.com/articles/microservices.html) 👤 James Lewis
+- [Full Stack Components | Epic Web Dev](https://www.epicweb.dev/full-stack-components) 👤 Kent C. Dodds
+- [Jeff Triplett's Micro.blog - How to test with Django and pytest fixtures](https://micro.webology.dev/2024/02/05/how-to-test.html) 👤 Jeff Triplett 🔖 #django, #pytest, #testing
+- [How to Favicon in 2024: Six files that fit most needs—Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs) 👤 Andrey Sitnik
+- [Infinite Craft](https://neal.fun/infinite-craft/) 👤 neal.fun
+- [Faster Docker builds with pipenv, poetry, or pip-tools](https://pythonspeed.com/articles/pipenv-docker/) 👤 Itamar Turner-Trauring
+- [Three pytest Features You Will Love | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2024/02/pytest-features/) 👤 Helen Scott 🔖 #pytest, #python, #testing
+- [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/?from=newsletter) 👤 joshwcomeau.com
+- [The Art of Production: Octave One · Feature ⟋ RA](https://ra.co/features/4162) 👤 Tajh Morris
+- [CLI tools you won't be able to live without 🔧](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6) 👤 DEV Community 🔖 #cli, #try
+- [Python Design Patterns](https://python-patterns.guide) 👤 python-patterns.guide 🔖 #python
+- [JavaScript Bloat in 2024 @ tonsky.me](https://tonsky.me/blog/js-bloat/) 👤 Nikita Prokopov
+- [Rendering emails with Svelte - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/rendering-emails-with-svelte/) 👤 Dmitry Kudryavtsev
+- [Untangling the Tale of Ada Lovelace—Stephen Wolfram Writings](https://writings.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/) 👤 writings.stephenwolfram.com
+- [Jeff Triplett's Micro.blog - Things I do every time I start a Django project](https://micro.webology.dev/2024/02/26/things-i-do.html) 👤 Jeff Triplett
+- [Regular Expressions (RegEx) in JavaScript – A Handbook for Beginners](https://www.freecodecamp.org/news/regex-in-javascript/) 👤 Samyak Jain
+- [The art of DJing: Andy C · Feature ⟋ RA](https://ra.co/features/3218) 👤 Dave Herringbone
+- [Пишем свой веб-сервер на Python: процессы, потоки и асинхронный I/O](https://iximiuz.com/ru/posts/writing-python-web-server-part-2/) 👤 Ivan Velichko 🔖 #diy, #http
+- [Let’s Build A Simple Interpreter. Part 1. - Ruslan's Blog](https://ruslanspivak.com/lsbasi-part1/) 👤 Ruslan Spivak 🔖 #diy
+- [Django REST Framework: Pros and Cons | TestDriven.io](https://testdriven.io/blog/drf-pros-cons/) 👤 Nik Tomazic
+- [The Syslog Handbook – How to Collect and Redirect Logs to a Remote Server](https://www.freecodecamp.org/news/what-is-syslog-handbook/) 👤 Serhii Orlivskyi
+- [How to Build a Camera App on the Web – No Plugins Required](https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/) 👤 Favour C. Felix
+- [Основы технологий баз данных](https://postgrespro.ru/education/books/dbtech) 👤 postgrespro.ru
+- [DNS for Rocket Scientists - Contents](https://www.zytrax.com/books/dns/) 👤 zytrax.com
+- [The Middle Passage: A Jungian Field Guide to Finding Meaning and Transformation in Midlife – The Marginalian](https://www.themarginalian.org/2024/03/03/the-middle-passage-john-hollis/) 👤 Maria Popova
+- [</> htmx ~ Examples ~ Keyboard Shortcuts](https://htmx.org/examples/keyboard-shortcuts/) 👤 htmx.org
+- [Bitwise Operators in Python – Real Python](https://realpython.com/python-bitwise-operators/) 👤 Real Python
+- [Deploying Django Apps in Kubernetes | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2024/03/deploying-django-apps-in-kubernetes/) 👤 Mukul Mantosh
+- [Part 2: Parse the response](https://implement-dns.wizardzines.com/book/part_2.html) 👤 implement-dns.wizardzines.com
+- [Implement DNS in a weekend](https://implement-dns.wizardzines.com) 👤 implement-dns.wizardzines.com
+- [The multiple meanings of "nameserver" and "DNS resolver"](https://jvns.ca/blog/2022/02/14/some-dns-terminology/) 👤 Julia Evans 🔖 #dns
+- [Structlog With Django Is Awesome! - loop0](https://loop0.sh/posts/structlog-with-django-is-awesome/) 👤 https://github.com/loop0
+- [Let’s Build A Web Server. Part 1. - Ruslan's Blog](https://ruslanspivak.com/lsbaws-part1/) 👤 Ruslan Spivak 🔖 #diy
+- [Let’s Build A Web Server. Part 2. - Ruslan's Blog | WSGI Server](https://ruslanspivak.com/lsbaws-part2/) 👤 Ruslan Spivak 🔖 #diy
+- [Let’s Build A Simple Interpreter. Part 2. - Ruslan's Blog](https://ruslanspivak.com/lsbasi-part2/) 👤 Ruslan Spivak 🔖 #diy
+- [Jade Rubick - Velocity role 1 - the Subtractionist](https://www.rubick.com/velocity-role-subtractionist/) 👤 rubick.com
+- [Let’s Build A Simple Interpreter. Part 3. - Ruslan's Blog](https://ruslanspivak.com/lsbasi-part3/) 👤 Ruslan Spivak 🔖 #diy
+- [Let’s Build A Web Server. Part 3. - Ruslan's Blog | Multiprocess](https://ruslanspivak.com/lsbaws-part3/) 👤 Ruslan Spivak 🔖 #diy
+- [Image Processing With the Python Pillow Library – Real Python](https://realpython.com/image-processing-with-the-python-pillow-library/) 👤 Real Python
+- [Go ahead and block AI web crawlers // Cory Dransfeldt](https://coryd.dev/posts/2024/go-ahead-and-block-ai-web-crawlers/) 👤 Cory Dransfeldt
+- [Sending Emails With Python – Real Python](https://realpython.com/python-send-email/) 👤 Real Python 🔖 #python
+- [Hands-on Rust: Effective Learning through 2D Game Development and Play by Herbert Wolverson](https://pragprog.com/titles/hwrust/hands-on-rust/) 👤 Herbert Wolverson
+- [Rust Brain Teasers: Exercise Your Mind by Herbert Wolverson](https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/) 👤 Herbert Wolverson
+- [Create a Table of Contents With Active States in Nuxt 3 | Michael Hoffmann - Senior Frontend Developer (Freelancer)](https://mokkapps.de/blog/create-a-table-of-contents-with-active-states-in-nuxt-3) 👤 mokkapps.de
+- [Lies, damn lies, and feedback on Arch Linux - Bite code!](https://www.bitecode.dev/p/lies-damn-lies-and-feedback-on-arch) 👤 Bite Code!
+- [Django: Write-up on optimizing the system check framework - Adam Johnson](https://adamj.eu/tech/2024/03/23/django-optimizing-system-checks/) 👤 adamj.eu
+- [The Fediverse is Already Dead | Nora Codes](https://nora.codes/post/the-fediverse-is-already-dead/) 👤 Leonora Tindall
+- [Testing with Python (part 1): the basics - Bite code!](https://www.bitecode.dev/p/testing-with-python-part-1-the-basics) 👤 Bite Code!
+- [How to stop a Python thread cleanly | Alexandra Zaharia](https://alexandra-zaharia.github.io/posts/how-to-stop-a-python-thread-cleanly/) 👤 Alexandra Zaharia
+- [Rust on Exercism](https://exercism.org/tracks/rust) 👤 exercism.org
+- [Go on Exercism](https://exercism.org/tracks/go) 👤 exercism.org
+- [rust-lang/rustlings: :crab: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings) 👤 github.com
+- [Django ORM Cheatsheet: Mastering Database Operations in Django](https://djangocentral.com/django-orm-cheatsheet/) 👤 djangocentral.com 🔖 #django
+- [How to Use Subquery() in Django With Practical Examples](https://djangocentral.com/how-to-use-subquery-in-django/) 👤 djangocentral.com 🔖 #django
+- [Edit card in HeadlessUI and InertiaJS modal - Trello Kanban - Trello kanboard](https://tallpad.com/series/trello-kanboard/lessons/edit-card-in-headlessui-and-inertiajs-modal-trello-kanban) 👤 tallpad.com
+- [Deploying Nuxt Static Site to Github Pages with GitHub Actions - Don Lalicon](https://donlalicon.dev/articles/nuxt-static-github-pages-action) 👤 donlalicon.dev 🔖 #nuxt, #devops, #github
+- [WireGuard на своем сервере: подробная инструкция](https://timeweb.cloud/tutorials/network-security/wireguard-na-svoem-servere) 👤 timeweb.cloud
+- [The Art of DJing: Ellen Allien · Feature ⟋ RA](https://ra.co/features/4305) 👤 Andrew Ryce
+- [Django Streaming HTTP Responses](https://blog.pecar.me/django-streaming-responses) 👤 Anže
+- [The Django admin is a CMS - Matthias Kestenholz](https://406.ch/writing/the-django-admin-is-a-cms/) 👤 406.ch
+- [Using breakpoints to explore your code](https://www.mostlypython.com/using-breakpoints-to-explore-your-code/) 👤 Eric Matthes
+- [Every dunder method in Python - Python Morsels](https://www.pythonmorsels.com/every-dunder-method/) 👤 Trey Hunner
+- [Monitoring web hosts | Artur Akmalov](https://akmalov.com/blog/monitoring-web-hosts) 👤 akmalov.com
+- [Мониторинг микросервисов Flask с помощью Prometheus / Хабр](https://habr.com/ru/articles/518122/) 👤 Максим
+- [Введение в асинхронный JavaScript - Изучение веб-разработки | MDN](https://developer.mozilla.org/ru/docs/Learn/JavaScript/Asynchronous/Introducing.) 👤 developer.mozilla.org
+- [inspect — Inspect live objects — Python 3.12.2 documentation](https://docs.python.org/3/library/inspect.html) 👤 docs.python.org
+- [Стажёр-разработчик (бэкенд-разработка)](https://yandex.ru/yaintern/int_01) 👤 yandex.ru
+- [Creating a Reading List with Eleventy and Omnivore - ttntm.me](https://ttntm.me/blog/creating-a-reading-list-with-eleventy-and-omnivore/) 👤 ttntm
+- [Can gRPC replace REST and WebSockets for Web Application Communication? | gRPC](https://grpc.io/blog/postman-grpcweb/) 👤 Ian Douglas (Sr Developer Advocate, Postman) | Monday, 🔖 #grpc
+- [Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html) 👤 twobithistory.org
+- [The Big Ball of Mud and Other Architectural Disasters](https://blog.codinghorror.com/the-big-ball-of-mud-and-other-architectural-disasters/) 👤 Jeff Atwood
+- [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/) 👤 Itamar Turner-Trauring
+- [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) 👤 Julia Evans 🔖 #inspiration, #productivity
+- [Dependency Management With Python Poetry – Real Python](https://realpython.com/dependency-management-python-poetry/) 👤 Real Python
+- [Clean Architectures in Python - Introduction](https://www.thedigitalcatbooks.com/pycabook-introduction/) 👤 thedigitalcatbooks.com
+- [OAuth 2 Simplified • Aaron Parecki](https://aaronparecki.com/oauth-2-simplified/) 👤 Authorization
+- [Demystifying OAuth Flows | Frontegg](https://frontegg.com/blog/oauth-flows) 👤 Aviad Mizrachi
+- [Nuxt's Server-Only Components should be on your radar | Vue Mastery](https://www.vuemastery.com/blog/nuxts-server-only-components-should-be-on-your-radar/) 👤 Andy Li
+- [Effortless Forms w/ FormKit | Vue Mastery](https://www.vuemastery.com/blog/effortless-forms-w-formkit/) 👤 Timi Omoyeni
+- [Testing with Python (part 2): moving to pytest](https://www.bitecode.dev/p/testing-with-python-part-2-moving) 👤 Bite Code! 🔖 #pytest, #testing
+- [Understanding the Python Mock Object Library – Real Python](https://realpython.com/python-mock-library/) 👤 Real Python
+- [pgmock — pgmock 1.3.7 documentation](https://pgmock.readthedocs.io/en/latest/) 👤 pgmock.readthedocs.io
+- [Repository Pattern](https://www.cosmicpython.com/book/chapter_02_repository.html) 👤 cosmicpython.com
+- [The Ultimate FastAPI Tutorial Part 13 - Using Docker to Deploy Your App](https://christophergs.com/tutorials/ultimate-fastapi-tutorial-pt-13-docker-deploy/) 👤 ChristopherGS
+- [Monitoring your FastAPI application with OpenTelemetry | SigNoz](https://signoz.io/blog/opentelemetry-fastapi/) 👤 Ankit Anand
+- [mjhea0/awesome-fastapi: A curated list of awesome things related to FastAPI](https://github.com/mjhea0/awesome-fastapi) 👤 github.com
+- [(1) Developing and Testing an Asynchronous API with FastAPI and Pytest | TestDriven.io](https://testdriven.io/blog/fastapi-crud/) 👤 Michael Herman 🔖 #pytest, #fastapi
+- [Dockerizing FastAPI with Postgres, Uvicorn, and Traefik | TestDriven.io](https://testdriven.io/blog/fastapi-docker-traefik/) 👤 Amal Shaji
+- [Introduction to ASGI: Emergence of an Async Python Web Ecosystem - Florimond Manca](https://florimond.dev/en/posts/2019/08/introduction-to-asgi-async-python-web) 👤 Florimond Manca
+- [Securing FastAPI with JWT Token-based Authentication | TestDriven.io](https://testdriven.io/blog/fastapi-jwt-auth/) 👤 Abdulazeez Abdulazeez Adeshina
+- [Handling Database Migrations with Alembic | TestDriven.io](https://testdriven.io/blog/alembic-database-migrations/) 👤 Paul Esch-Laurent
+- [French competitiveness in IT - Bite code!](https://www.bitecode.dev/p/french-competitiveness-in-it) 👤 Bite Code!
+- [Code in Context: How AI Can Help Improve Our Documentation - The New Stack](https://thenewstack.io/code-in-context-how-ai-can-help-improve-our-documentation/) 👤 Jon Udell
+- [Pydantic: Simplifying Data Validation in Python – Real Python](https://realpython.com/python-pydantic/) 👤 Real Python
+- [FastAPI Project Setup: The Ultimate Guide with Async Postgres, SQLModel, Pytest, & Docker | by Lawson Taylor | Medium](https://medium.com/@lawsontaylor/the-ultimate-fastapi-project-setup-fastapi-async-postgres-sqlmodel-pytest-and-docker-ed0c6afea11b) 👤 Lawson Taylor 🔖 #fastapi
+- [Top 8 PostgreSQL Extensions](https://www.timescale.com/blog/top-8-postgresql-extensions/) 👤 Avthar Sewrathan
+- [Building an ultimate writing machine from Sublime Text @ tonsky.me](https://tonsky.me/blog/sublime-writer/) 👤 Nikita Prokopov
+- [So your teacher wants you to do open source | David Lord](https://davidism.com/school-assignment-open-source/) 👤 davidism.com
+- [How to optimize PostgreSQL queries from Django using pgMustard - Adam Johnson](https://adamj.eu/tech/2022/06/21/optimize-postgresql-queries-from-django-using-pgmustard/) 👤 adamj.eu
+- [Handling Big Data with Django and AgGrid](https://circumeo.io/blog/entry/handling-big-data-with-django-and-aggrid/) 👤 circumeo.io
+- [503 days working full-time on FOSS: lessons learned | mathspp](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) 👤 Rodrigo Girão Serrão
+- [XSS prevention for Flask | Semgrep](https://semgrep.dev/docs/cheat-sheets/flask-xss/) 👤 semgrep.dev
+- [Про токены, JSON Web Tokens (JWT), аутентификацию и авторизацию. Token-Based Authentication](https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc) 👤 gist.github.com
+- [Styling an Django RSS Feed](https://hyteck.de/post/django-rss/) 👤 Julian-Samuel Gebühr
+- [Hardest Problem in Computer Science: Centering Things @ tonsky.me](https://tonsky.me/blog/centering/) 👤 Nikita Prokopov
+- [Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8) 👤 Cal Paterson
+- [4 Proven Ways To Define Pytest PythonPath and Avoid Module Import Errors | Pytest With Eric](https://pytest-with-eric.com/introduction/pytest-pythonpath/) 👤 pytest-with-eric.com
+- [Build a Blog Using Django, GraphQL, and Vue – Real Python](https://realpython.com/python-django-blog/) 👤 Real Python
+- [Write Pythonic and Clean Code With namedtuple – Real Python](https://realpython.com/python-namedtuple/) 👤 Real Python
+- [Рабочий процесс Gitflow Workflow | Atlassian Git Tutorial](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow) 👤 Atlassian
+- [Магистральная разработка | Atlassian](https://www.atlassian.com/ru/continuous-delivery/continuous-integration/trunk-based-development) 👤 Atlassian
+- [Testing with Python (part 3): pytest setup - Bite code!](https://www.bitecode.dev/p/testing-with-python-part-3-pytest) 👤 Bite Code! 🔖 #pytest, #python, #testing
+- [Implementing FastAPI Services – Abstraction and Separation of Concerns | Camillo Visini](https://camillovisini.com/coding/abstracting-fastapi-services) 👤 camillovisini.com 🔖 #fastapi
+- [Fast API — Repository Pattern and Service Layer](https://readmedium.com/fast-api-repository-pattern-and-service-layer-dad43354f07a) 👤 readmedium.com 🔖 #fastapi
+- [UUIDs Are Bad for DB Index performance - Solved](https://www.toomanyafterthoughts.com/uuids-are-bad-for-database-index-performance-uuid7/) 👤 toomanyafterthoughts.com
+- [Unexpected downsides of UUID keys in PostgreSQL | CYBERTEC PostgreSQL | Services & Support](https://www.cybertec-postgresql.com/en/unexpected-downsides-of-uuid-keys-in-postgresql/) 👤 Ants Aasma
+- [Intro to PDB, the Python Debugger - Bite code!](https://www.bitecode.dev/p/intro-to-pdb-the-python-debugger) 👤 Bite Code!
+- [Getting Started - structlog 24.1.0 documentation](https://www.structlog.org/en/stable/getting-started.html) 👤 structlog.org
+- [A Comprehensive Guide to Python Logging with Structlog | Better Stack Community](https://betterstack.com/community/guides/logging/structlog/) 👤 Stanley Ulili
+- [Testing with Python (part 4): why and what to test?](https://www.bitecode.dev/p/testing-with-python-part-4-why-and) 👤 Bite Code! 🔖 #testing
+- [Logging Best Practices - structlog 24.1.0 documentation](https://www.structlog.org/en/stable/logging-best-practices.html) 👤 structlog.org
+- [TDD: For Those Who Don't Know How to Design Software - The Code Whisperer](https://blog.thecodewhisperer.com/permalink/tdd-for-those-who-dont-know-how-to-design-software) 👤 J. B. Rainsberger
+- [Syntax Error](https://www.syntaxerror.tech) 👤 syntaxerror.tech
+- [An Intro to Logging with Loguru - by Mike Driscoll](https://www.pythonpapers.com/p/an-intro-to-logging-with-loguru?isFreemail=true&post_id=144504313&publication_id=1267207&r=2bvz41&triedRedirect=true) 👤 Mike Driscoll
+- [Why your team might be holding you back - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/your-team-might-be-holding-you-back/) 👤 Dmitry Kudryavtsev
+- [How LLMs Work, Explained Without Math - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math) 👤 Miguel Grinberg 🔖 #llm
+- [Structured logging using structlog and FastAPI | Angelos Panagiotopoulos](https://www.angelospanag.me/blog/structured-logging-using-structlog-and-fastapi) 👤 Angelos Panagiotopoulos
+- [Light speed with Python and JS - Bite code!](https://www.bitecode.dev/p/light-speed-with-python-and-js) 👤 Bite Code!
+- [Patterns and Practices for using SQLAlchemy 2.0 with FastAPI](https://chaoticengineer.hashnode.dev/fastapi-sqlalchemy) 👤 Piotr Tobiasz
+- [An Intro to Logging with Python and Loguru - Mouse Vs Python](https://www.blog.pythonlibrary.org/2024/05/15/an-intro-to-logging-with-python-and-loguru/) 👤 Mike
+- [Thinking in Iterators | corrode Rust Consulting](https://corrode.dev/blog/iterators/) 👤 Corrode Rust Consulting
+- [How To Manage Temporary Files with Pytest tmp_path | Pytest With Eric](https://pytest-with-eric.com/pytest-best-practices/pytest-tmp-path/) 👤 pytest-with-eric.com
+- [Python: Mock an inner import - Adam Johnson](https://adamj.eu/tech/2024/05/17/python-mock-inner-import/) 👤 adamj.eu
+- [The Worst Website In The Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/) 👤 Mathew Duggan
+- [Django from first principles, part 5](https://www.mostlypython.com/django-from-first-principles-part-5/) 👤 Eric Matthes
+- [Python: Show all subclasses of a class - Adam Johnson](https://adamj.eu/tech/2024/05/10/python-all-subclasses/) 👤 adamj.eu
+- [How I organize `staticfiles` in my Django projects | joshthomas.dev](https://joshthomas.dev/blog/2024/how-i-organize-staticfiles-in-my-django-projects/) 👤 Josh Thomas
+- [Jeff Triplett's Micro.blog - 🐳 GitHub Actions Cleaning up old Docker container images](https://micro.webology.dev/2024/04/23/github-actions-cleaning.html) 👤 Jeff Triplett
+- [Sending email in Django using GMail - Software Crafts](https://softwarecrafts.co.uk/100-words/day-76) 👤 softwarecrafts.co.uk
+- [Test-Driving HTML Templates](https://martinfowler.com/articles/tdd-html-templates.html) 👤 Matteo Vaccari
+- [The right way to use a ManyToManyField in Django](https://www.sankalpjonna.com/learn-django/the-right-way-to-use-a-manytomanyfield-in-django) 👤 sankalpjonna.com
+- [The Python calendar Module: Create Calendars With Python – Real Python](https://realpython.com/python-calendar-module/) 👤 Real Python
+- [Testing with Python (part 5): the different types of tests](https://www.bitecode.dev/p/testing-with-python-part-5-the-different) 👤 Bite Code!
+- [DjangoTricks: Generating Fake Django Model Instances with Factory Boy](https://djangotricks.blogspot.com/2024/05/generating-fake-django-model-instances-with-factory-boy.html) 👤 djangotricks.blogspot.com
+- [Integrate Telegram With Your Django Site Using django-allauth - Konsente Blog](https://blog.konsente.com/post/integrate-telegram-with-your-django-site-using-django-allauth/) 👤 Konsente LLC
+- [Чему меня научил «Монти Пайтон»](https://disgustingmen.com/zhizn/monty-python-for-life/) 👤 Владимир Бровин
+- [Django Technical Interview Questions](https://learndjango.com/tutorials/django-technical-interview-questions) 👤 Learn Django 🔖 #django
+- [Connection refused? Docker networking and how it impacts your image](https://pythonspeed.com/articles/docker-connection-refused/) 👤 Itamar Turner-Trauring
+- [Rapidly creating smoke tests for Django views](https://daniel.feldroy.com/posts/2024-05-rapidly-creating-smoke-tests-for-django-views) 👤 daniel.feldroy.com
+- [The simplest way to add polling to Django with HTMX 🗳️](https://www.photondesigner.com/articles/polling-htmx?ref=yt) 👤 photondesigner.com
+- [Customizing the Django Admin | TestDriven.io](https://testdriven.io/blog/customize-django-admin/) 👤 Nik Tomazic
+- [Build secrets in Docker and Compose v1, the secure way](https://pythonspeed.com/articles/build-secrets-docker-compose/) 👤 Itamar Turner-Trauring
+- [One way to fix Python circular imports | Ned Batchelder](https://nedbatchelder.com/blog/202405/one_way_to_fix_python_circular_imports.html) 👤 nedbatchelder.com
+- [Django Async Task Queue with Postgres (no Kafka, Rabbit MQ, Celery, or Redis)](https://simplecto.com/djang-async-task-postgres-not-kafka-celery-redis/) 👤 Sam Texas
+- [Как создать волшебника в Django: многошаговые формы / Хабр](https://habr.com/ru/companies/otus/articles/818117/) 👤 artem
+- [Python Friday #229: OAuth2 and JWT to Protect a FastAPI Application - Improve & Repeat](https://improveandrepeat.com/2024/05/python-friday-229-oauth2-and-jwt-to-protect-a-fastapi-application/) 👤 Johnny Graber
+- [Путеводитель по базам данных](https://postgrespro.ru/education/books/dbguide) 👤 postgrespro.ru
+- [Микроразметка ​Open Graph: что это и как настроить – PR-CY Блог](https://pr-cy.ru/news/p/5407-open-graph-chto-eto-i-pochemu-kazhdyy-dolzhen-nastroit) 👤 Автор: Елена
+- [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/) 👤 joshwcomeau.com
+- [Approximate Counting in Django and Postgres | TestDriven.io](https://testdriven.io/blog/django-approximate-counting/) 👤 Nik Tomazic
+- [Микроразметка сайта, настройка, проверка, плагины и генераторы](https://www.uplab.ru/blog/the-data-markup-for-yandex-and-google-how-to-configure-and-test/) 👤 Алексей Семёнов редактор Авторы
+- [Python's many command-line utilities - Python Morsels](https://www.pythonmorsels.com/cli-tools/) 👤 Trey Hunner
+- [How to cut a person out of a picture using python | by Vitaliy Hramchenko | Medium](https://v-hramchenko.medium.com/how-to-cut-out-a-person-in-an-image-with-open-source-projects-e5e7f8798d5c) 👤 Vitaliy Hramchenko
+- [Telegram Mini Apps](https://core.telegram.org/bots/webapps) 👤 core.telegram.org
+- [Level up your Tailwind game | oh-no.ooo](https://www.oh-no.ooo/articles/level-up-your-tailwind-game) 👤 Lucia Nazzaro
+- [How do you program for 8h in a row? - Bite code!](https://www.bitecode.dev/p/how-do-you-program-for-8h-in-a-row) 👤 Bite Code!
+- [The Documentation Tradeoff - by Kent Beck](https://tidyfirst.substack.com/p/the-documentation-tradeoff) 👤 Kent Beck
+- [How to Publish a Python Package to PyPI - by Mike Driscoll](https://www.pythonpapers.com/p/how-to-publish-a-python-package-to?isFreemail=true&post_id=145745203&publication_id=1267207&r=2bvz41&triedRedirect=true) 👤 Mike Driscoll
+- [Building on solid ground: reproducible Docker builds for Python](https://pythonspeed.com/articles/reproducible-docker-builds-python/) 👤 Itamar Turner-Trauring
+- [DjangoBook.com](https://djangobook.com) 👤 djangobook.com
+- [File Uploads with Django & DRF](https://django.wtf/blog/file-uploads-with-django-drf/) 👤 Dani Hodovic
+- [Optimizing Test Execution: Running live_server Tests Last with Pytest ⚡ | TimOnWeb](https://timonweb.com/django/optimizing-test-execution-running-live_server-tests-last-with-pytest/) 👤 Tim Kamanin
+- [Optimal SQLite settings for Django – Giovanni Collazo](https://gcollazo.com/optimal-sqlite-settings-for-django/) 👤 gcollazo.com
+- [12 Design Patterns in Vue | Michael Thiessen](https://michaelnthiessen.com/12-design-patterns-vue?campaign=150&source=weeklyVueNews) 👤 michaelnthiessen.com
+- [Conquering Complexity: Building a Scalable Single File Component (SFC) Architecture in Vue.js](https://www.blogs.shitalmainali.com.np/conquering-complexity-building-a-scalable-single-file-component-sfc-architecture-in-vuejs?campaign=150&source=weeklyVueNews) 👤 Shital Mainali
+- [A virtual DOM in 200 lines of JavaScript – Marcelo Lazaroni – Developing for the Interwebs](https://lazamar.github.io/virtual-dom/?campaign=150&source=weeklyVueNews) 👤 Marcelo Lazaroni 🔖 #diy
+- [Mary Rose Cook](https://maryrosecook.com) 👤 maryrosecook.com
+- [Gitlet](http://gitlet.maryrosecook.com) 👤 gitlet.maryrosecook.com 🔖 #diy
+- [The Third Bit · The Third Bit](https://third-bit.com) 👤 third-bit.com
+- [Software Design by Example](https://third-bit.com/sdxpy/) 👤 third-bit.com
+- [JavaScript Standard Style](https://standardjs.com) 👤 standardjs.com
+- [JavaScript Promises - Understand JavaScript Promises by Building a Simple Promise Example | by Trey Huffine | Level Up Coding](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720?gi=0b9fa7ff57a8) 👤 Trey Huffine
+- [Home - Django API Domains](https://phalt.github.io/django-api-domains/) 👤 phalt.github.io
+- [Tips for improving your CV - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/tips-for-improving-your-cv/) 👤 Dmitry Kudryavtsev
+- [Более 100 Вопросов с собеседований Python / Хабр](https://habr.com/ru/articles/823202/) 👤 Overtaken
+- [The Fuzzing Book](https://www.fuzzingbook.org) 👤 About the Authors¶
+- [Let's build a browser engine! Part 1: Getting started](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) 👤 Matt Brubeck 🔖 #diy
+- [Web Browser Engineering](https://browser.engineering) 👤 Pavel Panchekha & Chris Harrelson 🔖 #diy, #python
+- [How Does a Database Work? | Let’s Build a Simple Database](https://cstack.github.io/db_tutorial/) 👤 cstack.github.io 🔖 #diy
+- [Let's Dev: A Package Manager | Yarn Blog](https://classic.yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/) 👤 classic.yarnpkg.com 🔖 #diy
+- [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html) 👤 viewsourcecode.org 🔖 #diy
+- [How to build a text editor with Python and curses](https://wasimlorgat.com/posts/editor) 👤 Wasim Lorgat 🔖 #diy
+- [Crafting Interpreters](https://craftinginterpreters.com) 👤 craftinginterpreters.com 🔖 #diy
+- [Django: Test for pending migrations - Adam Johnson](https://adamj.eu/tech/2024/06/23/django-test-pending-migrations/) 👤 adamj.eu 🔖 #try, #django, #testing
+- [Unit Testing in Nuxt](https://masteringnuxt.com/blog/unit-testing-in-nuxt) 👤 masteringnuxt.com
+- [Jeff Triplett's Micro.blog](https://micro.webology.dev/2024/06/28/a-just-recipe.html) 👤 micro.webology.dev
+- [Jeff Triplett's Micro.blog](https://micro.webology.dev/2024/06/29/using-just-and.html) 👤 micro.webology.dev
+- [How Postgres is Misused and Abused in the Wild](https://karenjex.blogspot.com/2024/07/how-postgres-is-misused-and-abused.html?m=1) 👤 Karen Jex
+- [Безопасность в Django: защита от распространенных угроз веб-приложений / Хабр](https://habr.com/ru/companies/vk/articles/823740/) 👤 Петров Алексей
+- [Data Fetching Patterns in Single-Page Applications](https://martinfowler.com/articles/data-fetch-spa.html?campaign=152&source=weeklyVueNews) 👤 Juntao QIU | 邱俊涛
+- [Nested Subquerys in Django - Software Crafts](https://softwarecrafts.co.uk/100-words/day-119) 👤 softwarecrafts.co.uk
+- [Django Testing Toolbox · Matt Layman](https://www.mattlayman.com/blog/2020/django-testing-toolbox/) 👤 mattlayman.com
+- [Django Testing Toolbox · Matt Layman](https://www.mattlayman.com/blog/2020/django-testing-toolbox) 👤 mattlayman.com
+- [Jeff Triplett's Micro.blog](https://micro.webology.dev/2024/07/06/django-extensions-is.html) 👤 micro.webology.dev
+- [Programming WebRTC: Build Real-Time Streaming Applications for the Web by Karl Stolley](https://pragprog.com/titles/ksrtc/programming-webrtc/) 👤 Karl Stolley
+- [</> htmx ~ Locality of Behaviour (LoB)](https://htmx.org/essays/locality-of-behaviour/) 👤 htmx.org
+- [Unit of Work Pattern](https://www.cosmicpython.com/book/chapter_06_uow.html) 👤 cosmicpython.com
+- [Where to Put Business Logic Django? | Sunscrapers](https://sunscrapers.com/blog/where-to-put-business-logic-django/) 👤 Michał Nakoneczny
+- [Using HTMX with FastAPI | TestDriven.io](https://testdriven.io/blog/fastapi-htmx/) 👤 Paul Esch-Laurent
+- [Dockerizing a Nuxt App: A Comprehensive Guide | Michael Hoffmann](https://mokkapps.de/blog/dockerizing-a-nuxt-app) 👤 mokkapps.de
+- [Sensible defaults | Thoughtworks](https://www.thoughtworks.com/insights/topic/sensible-defaults) 👤 thoughtworks.com
+- [Surprises with Rust's `as` (and Python division) | Anna Hope](https://annahope.me/blog/rust-as/) 👤 Anna Hope
+- [Software Testing Anti-patterns · Codepipes Blog](https://blog.codepipes.com/testing/software-testing-antipatterns.html) 👤 blog.codepipes.com
+- [What is React? | Epic React by Kent C. Dodds](https://www.epicreact.dev/what-is-react?ck_subscriber_id=2517260312) 👤 Kent C. Dodds
+- [The best Docker base image for your Python application (May 2024)](https://pythonspeed.com/articles/base-image-python-docker-images/) 👤 Itamar Turner-Trauring
+- [ArjanCodes | Python Doc Generation Made Easy With PDoc](https://arjancodes.com/blog/generate-python-docs-instantly-with-pdoc/) 👤 ArjanCodes
+- [Getting 100% code coverage doesn't eliminate bugs · Codepipes Blog](https://blog.codepipes.com/testing/code-coverage.html) 👤 blog.codepipes.com
+- [Keeping things in sync: derive vs test - lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/keeping-things-in-sync-derive-vs-test/) 👤 Luke Plant
+- [Use Vue with Django (including Auth) in 15 mins 🍒](https://www.photondesigner.com/articles/vue-auth) 👤 photondesigner.com
+- [django-slick-reporting.com](https://django-slick-reporting.com) 👤 django-slick-reporting.com
+- [Integrating HeadlessUI and TailwindCSS with Nuxt.js: A Comprehensive Guide](https://masteringnuxt.com/blog/integrating-headlessui-and-tailwindcss-with-nuxtjs-a-comprehensive-guide?campaign=154&friend=MOKKAPPS&source=weeklyVueNews) 👤 masteringnuxt.com
+- [How to Integrate Shadcn with Nuxt.js](https://masteringnuxt.com/blog/how-to-integrate-shadcn-with-nuxtjs?campaign=154&friend=MOKKAPPs&source=weeklyVueNews) 👤 masteringnuxt.com
+- [Upgrading to Nuxt 4 | Vue Mastery](https://www.vuemastery.com/blog/upgrading-to-nuxt-4/) 👤 Andy Li
+- [Minimalist Nuxt Authentication | Vue Mastery](https://www.vuemastery.com/blog/minimalist-nuxt-authentication/) 👤 Timi Omoyeni
+- [Start with the Interface (and don't gold plate!) | Michael Thiessen](https://michaelnthiessen.com/start-with-the-interface?ck_subscriber_id=2108193410) 👤 michaelnthiessen.com
+- [I messed up my codebase (and the lessons I learned) | Michael Thiessen](https://michaelnthiessen.com/messed-up-my-codebase?ck_subscriber_id=2108193410) 👤 michaelnthiessen.com
+- [Дёшево, сердито и не жмёт: как работает запуск контейнеров в Yandex Serverless Containers / Хабр](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/759524/) 👤 Daniil Pivovarov
+- [Let's blame the dev who pressed "Deploy" - Dmitry Kudryavtsev](https://yieldcode.blog/post/lets-blame-the-dev-who-pressed-deploy/) 👤 Dmitry Kudryavtsev
+- [Getting features into Django - Jacob Kaplan-Moss](https://jacobian.org/2013/may/23/getting-features-into-django/) 👤 jacobian.org
+- [Как задеплоить своего телеграм-бота (почти) бесплатно — Quickguide в облачный Serverless / Хабр](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/735988/) 👤 abrekhov
+- [Buying products for your job: estimating value, convincing your boss](https://pythonspeed.com/articles/programmers-buying-guide/) 👤 Itamar Turner-Trauring
+- [Build your own SQLite, Part 1: Listing tables](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables) 👤 Geoffrey Copin 🔖 #diy
+- [Testing with Python (part 8): purity test - Bite code!](https://www.bitecode.dev/p/testing-with-python-part-8-purity) 👤 Bite Code!
+- [Контейнеры, контейнеры, контейнеры!](https://iximiuz.com/ru/posts/containers-everywhere/) 👤 Ivan Velichko
+- [Monolith -> Services: Theory & Practice | by Kent Beck | Medium](https://medium.com/@kentbeck_7670/monolith-services-theory-practice-617e4546a879) 👤 Kent Beck
+- [Reducing downtime in Django with django-safemigrate · Better Simple](https://www.better-simple.com/django/2024/07/22/django-safemigrate/) 👤 better-simple.com
+- [Create Beautiful PDFs with HTML, CSS, and Markdown | Michael Thiessen](https://michaelnthiessen.com/create-beautiful-pdfs-with-html-css-and-markdown?ck_subscriber_id=2108193410) 👤 michaelnthiessen.com 🔖 #nuxt
+- [Prisma with Nuxt 3](https://masteringnuxt.com/blog/getting-data-with-prisma?ck_subscriber_id=2108193410) 👤 masteringnuxt.com 🔖 #db, #nuxt
+- [How to Write an Installable Django App – Real Python](https://realpython.com/installable-django-app/) 👤 Real Python 🔖 #django
+- [How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/) 👤 Bhupesh Varshney
+- [Slim(toolkit) playground | iximiuz Labs](https://labs.iximiuz.com/playgrounds/slimtoolkit) 👤 labs.iximiuz.com 🔖 #docker
+- [TIL: 8 versions of UUID and when to use them | nicole@web](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/) 👤 ntietz.com
+- [Testing with Python (part 9): the extra mile](https://www.bitecode.dev/p/testing-with-python-part-9-the-extra) 👤 Bite Code! 🔖 #pytest
+- [How To Mock In Pytest? (A Comprehensive Guide) | Pytest with Eric](https://pytest-with-eric.com/mocking/pytest-mocking/) 👤 pytest-with-eric.com 🔖 #pytest
+- [Алгоритмы — самый провальный этап собеседований / Хабр](https://habr.com/ru/articles/833908/) 👤 Задорожный Семён
+- [Networked Thought](https://jzhao.xyz/posts/networked-thought) 👤 jzhao.xyz
+- [How Postgres stores data on disk – this one's a page turner | drew's dev blog](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/) 👤 drew.silcock.dev
+- [Bookshelf](https://grishaev.me/bookshelf/) 👤 grishaev.me
+- [Почему в переписке нельзя использовать «Доброго времени суток»?](https://bureau.ru/soviet/20180923/) 👤 Людмила Сарычева
+- [The Third Bit · Tutorials I Would Like to Attend](https://third-bit.com/2024/08/12/tutorials-i-would-like-to-attend/) 👤 third-bit.com
+- [restic · Backups done right!](https://restic.net) 👤 restic.net
+- [Python Friday #239: Asynchronous Tests With Pytest - Improve & Repeat](https://improveandrepeat.com/2024/08/python-friday-239-asynchronous-tests-with-pytest/) 👤 Johnny Graber 🔖 #pytest
+- [Rust vs C++: A Real-World Perspective | corrode Rust Consulting](https://corrode.dev/blog/cpp-rust-interop/) 👤 Corrode Rust Consulting 🔖 #rust
+- [Django: create sub-commands within a management command - Adam Johnson](https://adamj.eu/tech/2024/08/14/django-management-command-sub-commands/) 👤 adamj.eu 🔖 #django
+- [How to level up your Git game with GitHub CLI - The GitHub Blog](https://github.blog/developer-skills/github/how-to-level-up-your-git-game-with-github-cli/) 👤 Michelle Duke
+- [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) 👤 Mike Caulfield
+- [Combine iterables with zip : Juha-Matti Santala](https://hamatti.org/posts/combine-iterables-with-zip/) 👤 Juha-Matti Santala 🔖 #python
+- [Python Friday #240: Asynchronous SQLAlchemy With FastAPI - Improve & Repeat](https://improveandrepeat.com/2024/08/python-friday-240-asynchronous-sqlalchemy-with-fastapi/) 👤 Johnny Graber 🔖 #pytest, #fastapi, #sqlalchemy
+- [Creating rows for django-tables2 with HTMX · Better Simple](https://www.better-simple.com/django/2024/08/17/django-tables-htmx-create-table-view/) 👤 better-simple.com
+- [Finite State Machine Meaning, Working, and Examples | Spiceworks - Spiceworks](https://www.spiceworks.com/tech/tech-general/articles/what-is-fsm/) 👤 Vijay Kanade
+- [Okay, I really like WezTerm | Alex Plescan](https://alexplescan.com/posts/2024/08/10/wezterm/) 👤 Alex Plescan
+- [The Zettelkasten Method — LessWrong](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1) 👤 abramdemski
+- [GitHub - MaggieAppleton/digital-gardeners: Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs](https://github.com/MaggieAppleton/digital-gardeners) 👤 MaggieAppleton
+- [Analyze Memory Leaks in Your Nuxt App | Michael Hoffmann](https://mokkapps.de/blog/analyze-memory-leaks-in-your-nuxt-app) 👤 mokkapps.de 🔖 #nuxt
+- [Рассказ о Емаксе](https://grishaev.me/emacs-story/) 👤 grishaev.me
+- [Limiting Content Types in a Django Model | TestDriven.io](https://testdriven.io/blog/django-limiting-content-types/) 👤 Nik Tomazic 🔖 #django
+- [Exploring JS: JavaScript books for programmers](https://exploringjs.com) 👤 exploringjs.com 🔖 #javascript, #typescript
+- [What's the deal with setuptools, setup.py, pyproject.toml and wheels?](https://www.bitecode.dev/p/whats-the-deal-with-setuptools-setuppy) 👤 Bite Code! 🔖 #python
+- [Vector embeddings made simple with the Elasticsearch-DSL client for Python — Search Labs](https://www.elastic.co/search-labs/blog/elasticsearch-dsl-python-vectors) 👤 Miguel Grinberg 🔖 #python, #fastapi
+- [Patterns for Memory Efficient DOM Manipulation with Modern Vanilla JavaScript – Frontend Masters Boost](https://frontendmasters.com/blog/patterns-for-memory-efficient-dom-manipulation/) 👤 Marc Grabanski Frontend Masters 🔖 #javascript
+- [Combining Rails Hotwire with Django to Ship your SaaS Faster](https://saashammer.com/hotwire-django/) 👤 Michael Yin 🔖 #django
+- [uv](https://docs.astral.sh/uv/) 👤 charliermarsh 🔖 #python, #devtools
+- [Deep dive in CORS: History, how it works, and best practices · Ilija Eftimov 👨‍🚀](https://ieftimov.com/posts/deep-dive-cors-history-how-it-works-best-practices/) 👤 Ilija Eftimov
+- [Asynchronous Tasks with FastAPI and Celery | TestDriven.io](https://testdriven.io/blog/fastapi-and-celery/) 👤 Michael Herman 🔖 #try, #celery, #fastapi
+- [Style guideline for Go packages · rakyll.org](https://rakyll.org/style-packages/) 👤 rakyll.org
+- [Exploring the fmt Package in Go: Formatting and Printing Made Easy - Golangly](https://golangly.com/index.php/2023/09/16/exploring-the-fmt-package-in-go/) 👤 Ashish Singh
+- [Cryptography in Go today - LogRocket Blog](https://blog.logrocket.com/cryptography-in-go-today/) 👤 Yusuff Faruq
+- [Learn Golang encryption and decryption - LogRocket Blog](https://blog.logrocket.com/learn-golang-encryption-decryption/) 👤 Precious Luke
+- [Charlie Marsh on Astral, UV and the Python packaging ecosystem](https://www.bitecode.dev/p/charlie-marsh-on-astral-uv-and-the) 👤 Bite Code!
+- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html) 👤 Dave Cheney 🔖 #go
+- [Introducing Nuxt Scripts · Nuxt Blog](https://nuxt.com/blog/nuxt-scripts) 👤 nuxt.com 🔖 #nuxt
+- [Django UserProfile Model | LearnDjango.com](https://learndjango.com/tutorials/django-userprofile-model) 👤 Learn Django 🔖 #django
+- [uv: Unified Python packaging](https://simonwillison.net/2024/Aug/20/uv-unified-python-packaging/) 👤 Simon Willison 🔖 #python
+- [How to Conditionally Run Code Only on the Server or Only on the Client in a Nuxt App](https://masteringnuxt.com/blog/how-to-conditionally-run-code-only-on-the-server-or-only-on-the-client-in-a-nuxt-app?friend=MOKKAPPS) 👤 masteringnuxt.com 🔖 #nuxt
+- [Django Best Practices: Models | LearnDjango.com](https://learndjango.com/tutorials/django-best-practices-models) 👤 Learn Django 🔖 #django
+- [Web Scraping With Scrapy and MongoDB – Real Python](https://realpython.com/web-scraping-with-scrapy-and-mongodb/) 👤 Real Python 🔖 #python, #mongodb
+- [Cryptography in Go: AES explained — Bitfield Consulting](https://bitfieldconsulting.com/posts/cryptography-aes-internals) 👤 John Arundel
+- [uv, Docker, and the Return to Normalcy • Buttondown](https://buttondown.com/hynek/archive/uv-docker-and-the-return-to-normalcy/) 👤 buttondown.com
+- [В поиске оптимального подхода к миграциям в Go / Хабр](https://habr.com/ru/articles/780280/) 👤 Nina Pakshina 🔖 #db, #go
+- [Implementing JWT Authentication in Golang REST API - Detailed Guide - codewithmukesh](https://codewithmukesh.com/blog/jwt-authentication-in-golang/) 👤 Mukesh Murugan 🔖 #db, #go, #rest, #tutorial
+- [How to Terminate Go Programs Elegantly – A Guide to Graceful Shutdowns](https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/) 👤 Alex Pliutau
+- [How to Create Database Migrations in Go Using Docker and Postgres](https://www.freecodecamp.org/news/how-to-create-database-migrations-in-go/) 👤 Okure U. Edet 🔖 #db, #go
+- [How to Build a Real-Time Chat App With Go, Fiber and HTMX](https://www.freecodecamp.org/news/real-time-chat-with-go-fiber-htmx/) 👤 Akinwumi Iyanuoluwa Ayomiposi 🔖 #go, #try, #htmx, #tutorial
+- [X-Forwarded-For :: TheOrangeOne](https://theorangeone.net/posts/x-forwarded-for/) 👤 TheOrangeOne
+- [UV with Django](https://blog.pecar.me/uv-with-django) 👤 Anže 🔖 #uv, #django
+- [How To Run A Single Test In Pytest (Using CLI And Markers) | Pytest with Eric](https://pytest-with-eric.com/introduction/pytest-run-single-test/) 👤 pytest-with-eric.com 🔖 #pytest
+- [GoMock vs. Testify: Mocking frameworks for Go](https://www.codecentric.de/wissens-hub/blog/gomock-vs-testify) 👤 Sergey Grebenshchikov 🔖 #go, #testing
+- [Evolving Django’s auth.User • Buttondown](https://buttondown.com/carlton/archive/evolving-djangos-authuser/) 👤 The Stack Report 🔖 #django
+- [Why I Still Use Python Virtual Environments in Docker](https://hynek.me/articles/docker-virtualenv/) 👤 Hynek Schlawack 🔖 #docker, #python
+- [Git: avoid reset --hard, use reset --keep instead - Adam Johnson](https://adamj.eu/tech/2024/09/02/git-avoid-reset-hard-use-keep/) 👤 adamj.eu
+- [Django Redirects App Tutorial | LearnDjango.com](https://learndjango.com/tutorials/django-redirects-app-tutorial) 👤 Learn Django 🔖 #django
+- [Git: generate statistics with shortlog - Adam Johnson](https://adamj.eu/tech/2024/09/03/git-quick-stats-shortlog/) 👤 adamj.eu 🔖 #git
+- [Don't Unwrap Options: There Are Better Ways | corrode Rust Consulting](https://corrode.dev/blog/rust-option-handling-best-practices/) 👤 Corrode Rust Consulting 🔖 #rust
+- [Connecting to a PostgreSQL database with Go's database/sql package - Calhoun.io](https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/) 👤 Jon Calhoun 🔖 #postgresql
+- [Inserting records into a PostgreSQL database with Go's database/sql package - Calhoun.io](https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/) 👤 Jon Calhoun 🔖 #go, #postgresql
+- [Updating and deleting PostgreSQL records using Go's sql package - Calhoun.io](https://www.calhoun.io/updating-and-deleting-postgresql-records-using-gos-sql-package/) 👤 Jon Calhoun 🔖 #go, #postgresql
+- [Querying for a single record using Go's database/sql package - Calhoun.io](https://www.calhoun.io/querying-for-a-single-record-using-gos-database-sql-package/) 👤 Jon Calhoun 🔖 #go, #postgresql
+- [Querying for multiple records with Go's sql package - Calhoun.io](https://www.calhoun.io/querying-for-multiple-records-with-gos-sql-package/) 👤 Jon Calhoun 🔖 #go, #postgresql
+- [Subtle issues with ORMs and how to avoid them - Calhoun.io](https://www.calhoun.io/subtle-issues-with-orms-and-how-to-avoid-them/) 👤 Jon Calhoun 🔖 #db, #go
+- [Structuring Web Applications in Go - Calhoun.io](https://www.calhoun.io/structuring-web-applications-in-go/) 👤 Jon Calhoun 🔖 #go
+- [Django: build a Microsoft Teams bot - Adam Johnson](https://adamj.eu/tech/2024/09/04/django-microsoft-teams-bot/) 👤 adamj.eu
+- [Cycle Time](https://martinfowler.com/bliki/CycleTime.html) 👤 Martin Fowler
+- [Собеседование по System Design: как запроектировать и не потеряться / Хабр](https://habr.com/ru/companies/yandex_praktikum/articles/834230/) 👤 Дмитрий
+- [Собеседование Python-разработчика: чего ждать и как подготовиться / Хабр](https://habr.com/ru/companies/yandex_praktikum/articles/828928/) 👤 Антон
+- [Why Cant We Settle on a Single Application Structure in Go - Calhoun.io](https://www.calhoun.io/why-cant-we-settle-on-a-single-application-structure-in-go/) 👤 Jon Calhoun 🔖 #go
+- [Flat Application Structure in Go - Calhoun.io](https://www.calhoun.io/flat-application-structure/) 👤 Jon Calhoun
+- [The Third Bit · How I Explain Code](https://third-bit.com/2024/09/06/how-i-explain-code/) 👤 third-bit.com
+- [Python Friday #243: Rate Limit in FastAPI - Improve & Repeat](https://improveandrepeat.com/2024/09/python-friday-243-rate-limit-in-fastapi/) 👤 Johnny Graber 🔖 #fastapi
+- [User Authentication in Go APIs: JWT, Password Hashing, and MySQL](https://dev.to/the-arcade-01/user-authentication-in-go-jwt-password-hashing-and-mysql-2n8o) 👤 DEV Community 🔖 #go, #chi, #tutorial
+- [Python Testing Part 1: isolating external calls and minimising mocks](https://simoncrowe.hashnode.dev/python-testing-part-1-isolating-external-calls-and-minimising-mocks) 👤 Simon Crowe 🔖 #python, #testing
+- [Django: hoist repeated decorator definitions - Adam Johnson](https://adamj.eu/tech/2024/09/08/django-repeated-decorators/) 👤 adamj.eu 🔖 #django
+- [The ‘fat service’ pattern for Go web applications – Alex Edwards](https://www.alexedwards.net/blog/the-fat-service-pattern) 👤 Alex Edwards 🔖 #go
+- [Layered architecture implementation in Golang | by Sergey Shershnev | Medium](https://medium.com/@shershnev/layered-architecture-implementation-in-golang-6318a72c1e10) 👤 Sergey Shershnev 🔖 #go
+- [Quick tip: A time-saving Makefile for your Go projects – Alex Edwards](https://www.alexedwards.net/blog/a-time-saving-makefile-for-your-go-projects) 👤 Alex Edwards 🔖 #go
+- [Что такое Mini App: архитектура, возможности и примеры](https://timeweb.cloud/blog/chto-takoe-mini-app?m-message-click-id=02ca6ead-146b-45bf-b6cf-1c5e069c0ab5&m-message-key-id=-6592143948200804352) 👤 Вадим Андоськин Технический писатель 🔖 #telegram
+- [The Undeniable Utility Of CSS <code>:has</code> • Josh W. Comeau](https://www.joshwcomeau.com/css/has/?from=newsletter) 👤 Josh W. Comeau 🔖 #css
+- [Build 3D Scenes Declaratively with TresJS using Vue - AlvaroSabu](https://alvarosaburido.dev/blog/build-3d-scenes-declaratively-with-tresjs-using-vue?ck_subscriber_id=2108193410) 👤 alvarosaburido.dev 🔖 #vue
+- [How to use go run to manage tool dependencies – Alex Edwards](https://www.alexedwards.net/blog/using-go-run-to-manage-tool-dependencies) 👤 Alex Edwards 🔖 #go
+- [How to tune PostgreSQL for memory | EDB](https://www.enterprisedb.com/postgres-tutorials/how-tune-postgresql-memory) 👤 Tushar Ahuja 🔖 #postgresql
+- [Building a VS Code Extension Using Vue.js](https://www.codemag.com/article/2107071?ck_subscriber_id=2108193410) 👤 CODE Magazine, EPS Software Corp., <a href="/People/Bio/Bilal.Haidar">Bilal Haidar</a> 🔖 #vue
+- [How Statically and Dynamically Linked Go Binaries Work](https://www.freecodecamp.org/news/golang-statically-and-dynamically-linked-go-binaries/) 👤 Alex Pliutau 🔖 #go
+- [Timing Details With cURL – Joseph Scott](https://blog.josephscott.org/2011/10/14/timing-details-with-curl/) 👤 blog.josephscott.org
+- [Go Validator v10. Validation? Easy Peasy! | by Renaldi | Tunaiku Tech | Medium](https://medium.com/tunaiku-tech/go-validator-v10-c7a4f1be37df) 👤 Renaldi
+- [Putting Text on an Image with Golang](https://josemyduarte.github.io/2021-02-28-quotes-on-images-with-go/) 👤 Josemy Duarte 🔖 #go
+- [Programatically generate gorgeous social media images in Go by Mat Ryer - PACE.](https://pace.dev/blog/2020/03/02/dynamically-generate-social-images-in-golang-by-mat-ryer.html) 👤 Mat Ryer 🔖 #go
+- [6 Tips for Using Strings in Go - Calhoun.io](https://www.calhoun.io/6-tips-for-using-strings-in-go/) 👤 Jon Calhoun 🔖 #go
+- [Подготовка к интервью](https://grishaev.me/no-faang-2/) 👤 grishaev.me 🔖 #career, #interview, #inspiration
+- [FAANG не предлагать](https://grishaev.me/no-faang/) 👤 grishaev.me 🔖 #career, #interview, #inspiration
+- [Let’s build and optimize a Rust extension for Python](https://pythonspeed.com/articles/intro-rust-python-extensions/) 👤 Itamar Turner-Trauring
+- [What's in an (Alias) Name? - The Go Programming Language](https://go.dev/blog/alias-names) 👤 Robert Griesemer 17 September 2024 🔖 #go
+- [Legacy Modernization meets GenAI](https://martinfowler.com/articles/legacy-modernization-gen-ai.html) 👤 Alessio Ferri
+- [Towncrier 24.8.0 documentation](https://towncrier.readthedocs.io/en/stable/) 👤 towncrier.readthedocs.io
+- [Подготовка Django приложения для локальной разработки и деплоя / Хабр](https://habr.com/ru/articles/844280/) 👤 famer 🔖 #django
+- [Perfect Project Management with Linear | xavd.id](https://xavd.id/blog/post/perfect-project-management-with-linear/) 👤 xavd.id
+- [RESTful API Documentation with Go and chi docgen Package | newline](https://www.newline.co/@kchan/restful-api-documentation-with-go-and-chi-docgen-package--ac031097) 👤 Stefan Wüthrich2 years ago 🔖 #go
+- [Custom command-line flags with flag.Func – Alex Edwards](https://www.alexedwards.net/blog/custom-command-line-flags) 👤 Alex Edwards 🔖 #go
+- [Python Testing Part 2: Dependency Inversion with Service Functions](https://simoncrowe.hashnode.dev/python-testing-part-2-dependency-inversion-with-service-functions) 👤 Simon Crowe 🔖 #python, #testing
+- [How I Built My Blog • Josh W. Comeau](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/) 👤 Josh W. Comeau
+- [How to Parse JSON That Varies Between an Array or a Single Item With Go - Calhoun.io](https://www.calhoun.io/how-to-parse-json-that-varies-between-an-array-or-a-single-item-with-go/) 👤 Jon Calhoun 🔖 #go
+- [What is Entity Relationship Diagram (ERD)?](https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/) 👤 visual-paradigm.com 🔖 #db
+- [Learn Go with Tests | Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests) 👤 quii.gitbook.io 🔖 #go, #tdd, #testing
+- [Go by Example](https://gobyexample.com) 👤 gobyexample.com 🔖 #go
+- [A curated list of awesome Go frameworks, libraries and software - Awesome Go / Golang](https://awesome-go.com) 👤 awesome-go.com 🔖 #go
+- [Python 3.13: Cool New Features for You to Try – Real Python](https://realpython.com/python313-new-features/) 👤 Geir Arne Hjelle 🔖 #python
+- [Overview - Forever Notes](https://www.myforevernotes.com/articles/overview) 👤 myforevernotes.com
+- [Using a possibility tree for fast string parsing · Raygun Blog](https://raygun.com/blog/possibility-tree-fast-string-parsing/) 👤 Jason Fauchelle |
+- [Exercism](https://exercism.org) 👤 exercism.org
+- [Tracing or Preventing HTTP Redirects in Golang](https://jonathanmh.com/p/tracing-preventing-http-redirects-golang/) 👤 jonathanmh.com 🔖 #go
+- [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/) 👤 Julia Evans
+- [An Introduction to Templates in Go - Calhoun.io](https://www.calhoun.io/intro-to-templates/) 👤 Jon Calhoun 🔖 #go
+- [Telegram Web App, FastAPI и вебхуки в одном приложении: Создаем Telegram-бот с веб-интерфейсом для приема заявок / Хабр](https://habr.com/ru/companies/amvera/articles/848644/) 👤 Алексей Яковенко 🔖 #try
+- [Programming is fun — Bitfield Consulting](https://bitfieldconsulting.com/posts/programming-is-fun) 👤 John Arundel
+- [GitHub - MariaLetta/free-gophers-pack: ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.](https://github.com/MariaLetta/free-gophers-pack) 👤 MariaLetta
+- [PostgreSQL: Documentation: 17: 3.5. Window Functions](https://www.postgresql.org/docs/17/tutorial-window.html) 👤 postgresql.org 🔖 #db, #postgresql
+- [Python Friday #248: MkDocs for a Blog - Improve & Repeat](https://improveandrepeat.com/2024/10/python-friday-248-mkdocs-for-a-blog/) 👤 Johnny Graber
+- [Conventional Comments](https://conventionalcomments.org) 👤 Paul Slaughter
+- [Rendering Dynamic Markdown in Nuxt 3+ | Michael Hoffmann](https://mokkapps.de/blog/rendering-dynamic-markdown-in-nuxt-3) 👤 mokkapps.de 🔖 #nuxt, #markdown
+- [How Video Editors Implement Timeline Filmstrips Using FFmpeg and JavaScript | by Aditya Krishnan | Better Programming](https://betterprogramming.pub/how-video-editors-implement-timeline-filmstrips-using-ffmpeg-and-javascript-a4683ddaeb3c) 👤 Aditya Krishnan
+- [Google Testing Blog: SMURF: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html?m=1) 👤 testing.googleblog.com 🔖 #testing
+- [Trigger recursion in PostgreSQL and how to deal with it | CYBERTEC PostgreSQL | Services & Support](https://www.cybertec-postgresql.com/en/dealing-with-trigger-recursion-in-postgresql/) 👤 Laurenz Albe 🔖 #postgresql
+- [Сервис для обхода блокировки OpenAI API в России или ваш первый API / Хабр](https://habr.com/ru/articles/850620/) 👤 Соловьянов Михаил
+- [Tutorials | Mermaid](https://mermaid.js.org/ecosystem/tutorials.html) 👤 mermaid.js.org
+- [How to Self-host a Container Registry](https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/) 👤 Alex Pliutau 🔖 #docker
+- [How I take work notes as a developer : Juha-Matti Santala](https://hamatti.org/posts/how-i-take-work-notes-as-a-developer/) 👤 Juha-Matti Santala 🔖 #pkm, #inspiration
+- [How Does BlueSky Work?](https://steveklabnik.com/writing/how-does-bluesky-work/) 👤 steveklabnik.com
+- [Микросервисы](https://grishaev.me/microservices/) 👤 grishaev.me 🔖 #microservices
+- [A Taxonomy of HTTP APIs](https://simoncrowe.hashnode.dev/a-taxonomy-of-http-apis) 👤 Simon Crowe 🔖 #rest
+- [Python 3.13: What's New | TestDriven.io](https://testdriven.io/blog/python313/) 👤 Jan Giacomelli 🔖 #python
+- [Механическая работа](https://grishaev.me/mech-work/) 👤 grishaev.me
+- [Testing API Libraries - Calhoun.io](https://www.calhoun.io/testing-api-libraries/) 👤 Jon Calhoun 🔖 #go, #testing
+- [Email newsletter issue • Josh W. Comeau](https://www.joshwcomeau.com/email/2024-10-22-css-survey/) 👤 Josh W. Comeau 🔖 #css
+- [The Ultimate Guide to Cookies In Nuxt 3](https://masteringnuxt.com/blog/the-ultimate-guide-to-cookies-in-nuxt-3?friend=MOKKAPPS) 👤 masteringnuxt.com 🔖 #nuxt
+- [How to search for strings in Git commit additions or deletions | Stefan Judis Web Development](https://www.stefanjudis.com/today-i-learned/how-to-search-for-strings-in-git-commit-additions-or-deletions/) 👤 Stefan Judis 🔖 #git
+- [Nuxt Tip: Fetch Data on the Server Before App Start | Michael Hoffmann](https://mokkapps.de/vue-tips/nuxt-fetch-data-on-the-server-before-app-start) 👤 mokkapps.de 🔖 #nuxt
+- [I built a custom RSS hydrator for better GitHub and Youtube feeds : Juha-Matti Santala](https://hamatti.org/posts/i-built-custom-rss-hydrator-for-better-github-and-youtube-feeds/) 👤 Juha-Matti Santala
+- [Этот странный культ, часть 2: зарубежные хиты эпохи VHS](https://disgustingmen.com/kino/vhs-cult-movie-2/) 👤 Дмитрий Соколов
+- [Suite smells: testing legacy code — Bitfield Consulting](https://bitfieldconsulting.com/posts/testing-legacy-code) 👤 John Arundel 🔖 #go, #testing
+- [Mastering Prose Components in Nuxt Content](https://masteringnuxt.com/blog/mastering-prose-components-in-nuxt-content?ck_subscriber_id=2108193410) 👤 masteringnuxt.com 🔖 #nuxt
+- [How to Use Error Handling to Create Rock Solid Nuxt Apps](https://masteringnuxt.com/blog/how-to-use-error-handling-to-create-rock-solid-apps?ck_subscriber_id=2108193410) 👤 masteringnuxt.com 🔖 #nuxt
+- [Generic types in Go — Bitfield Consulting](https://bitfieldconsulting.com/posts/generic-types) 👤 John Arundel 🔖 #go
+- [Constraints in Go — Bitfield Consulting](https://bitfieldconsulting.com/posts/constraints) 👤 John Arundel 🔖 #go
+- [ASCII control characters in my terminal](https://jvns.ca/blog/2024/10/31/ascii-control-characters/) 👤 Julia Evans
+- [A Friendly Introduction to Container Queries • Josh W. Comeau](https://www.joshwcomeau.com/css/container-queries-introduction/?from=newsletter) 👤 Josh W. Comeau 🔖 #css
