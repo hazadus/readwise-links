@@ -10,6 +10,8 @@ from pydantic import BaseModel, field_validator
 
 
 class ReadwiseDocument(BaseModel):
+    """Схема данных для документа Readwise."""
+
     id: str
     url: str
     source_url: str
@@ -19,7 +21,7 @@ class ReadwiseDocument(BaseModel):
     # One of: article, email, rss, highlight, note, pdf, epub, tweet, video:
     category: str
     location: str  # One of: new, later, shortlist, archive, feed
-    tags: dict = {}
+    tags: dict | None = None
     site_name: str | None = None
     word_count: int | None
     created_at: datetime
@@ -47,6 +49,8 @@ class ReadwiseDocument(BaseModel):
 
 
 class ReadwiseDocumentList(BaseModel):
+    """Схема данных для списка документов Readwise."""
+
     count: int
     nextPageCursor: str | None = None
     results: list[ReadwiseDocument]

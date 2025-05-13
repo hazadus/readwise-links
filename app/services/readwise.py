@@ -1,3 +1,7 @@
+"""
+Содержит функции для работы с API Readwise.
+"""
+
 from time import sleep
 
 import requests
@@ -11,7 +15,14 @@ def fetch_reader_document_list_api(
     updated_after=None,
     location=None,
 ) -> list[ReadwiseDocument]:
-    print(f"Fetching document list from {location}...")
+    """
+    Получает список документов из API Readwise.
+
+    :param token: API ключ для авторизации в Readwise
+    :param updated_after: Дата обновления документа в формате YYYY-MM-DD
+    :param location: Локация документа (new, later, shortlist, archive)
+    :return: Список документов
+    """
     full_data: list[ReadwiseDocument] = []
     next_page_cursor = None
 
@@ -26,7 +37,7 @@ def fetch_reader_document_list_api(
         if location:
             params["location"] = location
 
-        print("Making export api request with params " + str(params) + "...")
+        print("Делаю запрос к API с параметрами " + str(params) + "...")
 
         response = requests.get(
             url="https://readwise.io/api/v3/list/",
@@ -40,7 +51,7 @@ def fetch_reader_document_list_api(
             full_data.extend(res.results)
             got = len(full_data)
             total = response.json().get("count")
-            print(f"Got {got} links, {total} more to go")
+            print(f"Получено ссылок: {got} шт., осталось: {total} шт.")
         except KeyError:
             print("Error: " + str(response.json()))
             break
