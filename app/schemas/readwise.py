@@ -24,17 +24,17 @@ class ReadwiseDocument(BaseModel):
     tags: dict | None = None
     site_name: str | None = None
     word_count: int | None
-    created_at: datetime
-    updated_at: datetime
     notes: str | None = ""
-    published_date: str | None = None  # Format is YYYY-MM-DD
     summary: str | None = None
     image_url: str | None = None
     parent_id: str | None = None
     reading_progress: float = 0.0
+    published_date: str | None = None  # Format is YYYY-MM-DD
+    created_at: datetime
+    updated_at: datetime
+    saved_at: datetime
     first_opened_at: datetime | None = None
     last_opened_at: datetime | None = None
-    saved_at: datetime
     last_moved_at: datetime | None = None
 
     @field_validator("published_date", mode="before")

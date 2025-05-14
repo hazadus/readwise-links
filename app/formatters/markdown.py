@@ -39,6 +39,19 @@ def create_markdown_report(
             tags = [f"#{tag}" for tag in doc.tags]
             tags_text = " 🔖 " + ", ".join(tags)
 
-        report += f"- [{doc.title}]({doc.source_url}){author}{tags_text}\n"
+        word_count = ""
+        if doc.word_count:
+            word_count = f" 💬 {doc.word_count}"
+
+        notes = ""
+        if doc.notes:
+            notes = f"\n    > {doc.notes}\n"
+
+        saved_at = doc.saved_at.strftime(" 🗓️ %Y-%m-%d")
+
+        report += (
+            f"- [{doc.title}]({doc.source_url}){author}{word_count}{tags_text}{saved_at}\n"
+            f"{notes}"
+        )
 
     return report
