@@ -1,0 +1,20 @@
+# Ссылки
+
+- Всего ссылок: 7
+
+## Ссылки
+
+- [Slim(toolkit) playground | iximiuz Labs](https://labs.iximiuz.com/playgrounds/slimtoolkit) 👤 labs.iximiuz.com 💬 22 🔖 #docker 🗓️ 2024-08-05
+    > **Резюме:** Don't change anything in your container image and minify it by up to 30x making it secure, too! Starts instantly. No paywall.
+- [Why I Still Use Python Virtual Environments in Docker](https://hynek.me/articles/docker-virtualenv/) 👤 Hynek Schlawack 💬 1286 🔖 #docker, #python 🗓️ 2024-09-03
+    > **Резюме:** The author argues for using Python virtual environments in Docker containers because they provide predictability and consistency, making deployments easier to manage. Virtual environments create a well-defined structure for Python applications, which simplifies communication among teams. Despite popular trends favoring simpler setups, the author believes maintaining virtual environments adds value and reduces complexity in the long run.
+- [How to Self-host a Container Registry](https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/) 👤 Alex Pliutau 💬 1487 🔖 #docker 🗓️ 2024-10-16
+    > **Резюме:** A container registry is a storage system for managing container images, allowing developers to push and pull images as needed. Self-hosting a container registry gives you more control over configuration and security, which can be important in regulated industries. This article provides a step-by-step tutorial on how to set up your own registry using Docker and NGINX.
+- [Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/) 👤 Itamar Turner-Trauring 💬 910 🔖 #devops, #docker, #gunicorn 🗓️ 2024-01-26
+    > **Резюме:** This article explains how to properly configure Gunicorn for use in Docker containers, addressing common issues like worker heartbeats and logging. It recommends using an in-memory filesystem for temporary files and starting multiple workers to handle requests efficiently. Additionally, it emphasizes the importance of customizing configurations for container environments instead of relying on traditional setups.
+- [Run PostgreSQL and PGAdmin using docker compose | by Vishal Sharma | Medium](https://medium.com/@vishal.sharma./run-postgresql-and-pgadmin-using-docker-compose-34120618bcf9) 👤 Vishal Sharma 💬 241 🔖 #docker, #postgresql 🗓️ 2024-04-15
+    > **Резюме:** Running PostgreSQL on native operating systems can be complicated due to the different installation procedures for each OS. To simplify the process, Docker can be used to deploy PostgreSQL and PGAdmin on the local environment. By creating a docker-compose.yml file with the necessary configurations, users can easily set up PostgreSQL and PGAdmin containers. After running the command to start the containers in detached mode, users can access PGAdmin through their browser and connect to the PostgreSQL database using the provided credentials.
+- [Where’s that log file? Debugging failed Docker builds](https://pythonspeed.com/articles/debugging-docker-build/) 👤 Itamar Turner-Trauring 💬 459 🔖 #docker 🗓️ 2024-04-22
+    > **Резюме:** Your Docker build just failed, and the reason is buried a log file—which is somewhere inside the build process. How do you read that log file?
+- [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/) 👤 Hynek Schlawack 💬 1201 🔖 #uv, #docker, #python 🗓️ 2024-08-29
+    > **Резюме:** The article discusses how to create production-ready Python Docker containers using the uv tool, emphasizing efficient Docker workflows with multi-stage builds and careful dependency management. It highlights the benefits of using virtual environments within containers and provides detailed instructions on setting up a web application container. The author also shares insights on local development and the importance of properly packaging Python applications.
