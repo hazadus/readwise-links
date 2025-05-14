@@ -9,12 +9,14 @@ def create_markdown_report(
     *,
     documents: list[ReadwiseDocument],
     location: str | None = None,
+    add_summary: bool = False,
 ) -> str:
     """
     Создает отчет в формате Markdown из списка документов.
 
     :param documents: Список документов
     :param location: Локация документа (new, later, shortlist, archive)
+    :param add_summary: Добавлять ли summary в отчет
     :return: Отчет в формате Markdown
     """
     titles = {
@@ -45,13 +47,18 @@ def create_markdown_report(
 
         notes = ""
         if doc.notes:
-            notes = f"\n    > {doc.notes}\n"
+            notes = f"    > **Заметка:** {doc.notes}\n"
+
+        summary = ""
+        if add_summary and doc.summary:
+            summary = f"    > **Резюме:** {doc.summary}\n"
 
         saved_at = doc.saved_at.strftime(" 🗓️ %Y-%m-%d")
 
         report += (
             f"- [{doc.title}]({doc.source_url}){author}{word_count}{tags_text}{saved_at}\n"
             f"{notes}"
+            f"{summary}"
         )
 
     return report

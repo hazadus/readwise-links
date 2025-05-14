@@ -47,6 +47,8 @@ def create_reports(
         report = create_markdown_report(
             documents=documents,
             location=location,
+            # Добавляем summary только для 'later' - материалов, отобранных к прочтению
+            add_summary=True if location == "later" else False,
         )
 
         filename = f"{location}.md"
