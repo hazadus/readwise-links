@@ -1,10 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 634
+- Всего ссылок: 639
 
 ## Ссылки
 
 - [How to make a Link Aggregator in Obsidian](https://daverupert.com/2025/05/obsidian-link-aggregator/) 👤 Dave Rupert 🔖 #inspiration
+- [Why can't language models come up with new ideas?](https://seangoedecke.com/why-cant-ais-have-new-ideas/) 👤 seangoedecke.com 🔖 #llm
+- [The importance of character in software engineering](https://seangoedecke.com/character-in-software-engineering/) 👤 seangoedecke.com 🔖 #career, #development, #soft skills, #communication
+- [Basic Claude Code](https://harper.blog/2025/05/08/basic-claude-code/) 👤 Harper Reed <harper@modest.com> 🔖 #llm, #development, #inspiration
 - [How projects fail at large tech companies](https://seangoedecke.com/how-projects-fail/) 👤 seangoedecke.com
 - [I don't care about your magic prompts](https://seangoedecke.com/magic-prompts/) 👤 seangoedecke.com 🔖 #llm
 - [Getting things "done" in large tech companies](https://seangoedecke.com/getting-things-done/) 👤 seangoedecke.com 🔖 #career, #development
@@ -14,11 +17,13 @@
 - [Обзор ремастера TES Oblivion - Маловато будет I Битый Пиксель](https://www.youtube.com/watch?v=Qdlt-WiK24Y) 👤 Битый Пиксель
 - [Обзор ремастера TES Oblivion - Маловато будет I Битый Пиксель](https://www.youtube.com/watch?v=Qdlt-WiK24Y) 👤 Битый Пиксель
 - [sycophancy is the first LLM “dark pattern”.](https://seangoedecke.com/ai-sycophancy/) 👤 seangoedecke.com 🔖 #llm
+- [Debugging, emotional resilience, and mental models](https://seangoedecke.com/debugging/) 👤 seangoedecke.com 🔖 #development
 - [The OpenAI house style is exhausting](https://seangoedecke.com/chatgpt-house-style/) 👤 seangoedecke.com 🔖 #llm
 - [Senior engineers should make side bets](https://seangoedecke.com/side-bets/) 👤 seangoedecke.com 🔖 #career
 - [Мыс Дежнёва – здесь начинается день](https://gelio.livejournal.com/253583.html) 👤 livejournal.com
 - [The Good, the Bad, and the Ugly: My Experience with React](https://smsk.dev/2025/04/24/the-good-the-bad-and-the-ugly-my-experience-with-react/) 👤 smsk.dev
 - [The Hidden Cost of AI Coding](https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/) 👤 Terrible Software 🔖 #llm
+- [Agile умер: из-за своего сострадания к product- и project-менеджерам (с) Фридрих Ницше](https://habr.com/ru/companies/kaiten/articles/876582/) 👤 Хабр 🔖 #agile, #management
 - [Working Through the Fear of Being Seen](https://ashley.dev/posts/fear-of-being-seen/) 👤 Ashley Willis 🔖 #writing, #inspiration
 - [A trick to feel less like cheating when you use LLMs](https://simonwillison.net/2025/Apr/23/cheating/#atom-everything) 👤 Simon Willison 🔖 #llm
 - [The next big thing in Python](https://www.bitecode.dev/p/the-next-big-thing-in-python) 👤 Bite Code! 🔖 #python

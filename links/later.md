@@ -1,16 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 46
+- Всего ссылок: 41
 
 ## Ссылки
 
 - [Creating a static website for all my bookmarks](https://alexwlchan.net/2025/bookmarks-static-site/?utm_source=mastodon) 👤 alexwlchan.net
 - [Domain-Driven Design: зачем он нужен аналитику и как его применять на практике](https://habr.com/ru/articles/908782/) 👤 Habr
 - [Горький урок ABBYY: как лингвисты проиграли последнюю битву за NLP](https://sysblok.ru/blog/gorkij-urok-abbyy-kak-lingvisty-proigrali-poslednjuju-bitvu-za-nlp/) 👤 Даниил Скоринкин
-- [Why can't language models come up with new ideas?](https://seangoedecke.com/why-cant-ais-have-new-ideas/) 👤 seangoedecke.com
-- [The importance of character in software engineering](https://seangoedecke.com/character-in-software-engineering/) 👤 seangoedecke.com
-- [Microservices Are a Tax Your Startup Probably Can’t Afford](https://nexo.sh/posts/microservices-for-startups/) 👤 Oleg Pustovit
-- [Basic Claude Code](https://harper.blog/2025/05/08/basic-claude-code/) 👤 Harper Reed <harper@modest.com>
+- [Microservices Are a Tax Your Startup Probably Can’t Afford](https://nexo.sh/posts/microservices-for-startups/) 👤 Oleg Pustovit 🔖 #microservices
 - [JavaScript, what is this?](https://piccalil.li/blog/javascript-what-is-this/?ref=main-rss-feed) 👤 Mat “Wilto” Marquis
 - [Recursive Types in TypeScript: A Brief Exploration](https://www.freecodecamp.org/news/recursive-types-in-typescript-a-brief-exploration/) 👤 freeCodeCamp.org
 - [How to Build Your Own Local AI: Create Free RAG and AI Agents with Qwen 3 and Ollama](https://www.freecodecamp.org/news/build-a-local-ai/) 👤 freeCodeCamp.org
@@ -18,9 +15,7 @@
 - [Ты решаешь LeetCode неправильно. Как пройти любое собеседование в BigTech?](https://habr.com/ru/articles/906642/) 👤 Habr
 - [JavaScript, when is this?](https://piccalil.li/blog/javascript-when-is-this/?ref=main-rss-feed) 👤 Piccalilli
 - [Please Start from Textbook](https://blog.ungra.dev/please-start-from-textbook) 👤 OddPen
-- [Debugging, emotional resilience, and mental models](https://seangoedecke.com/debugging/) 👤 seangoedecke.com
 - [Advanced TypeScript manipulation features for the real world](https://piccalil.li/blog/advanced-typescript-manipulation-features-for-the-real-world/?ref=main-rss-feed) 👤 Piccalilli
-- [Agile умер: из-за своего сострадания к product- и project-менеджерам (с) Фридрих Ницше](https://habr.com/ru/companies/kaiten/articles/876582/) 👤 Хабр
 - [10 Things Software Developers Should Learn about Learning](https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/) 👤 R. Colin Johnson
 - [How to Build an Agent](https://ampcode.com/how-to-build-an-agent) 👤 ampcode.com
 - [Codifying a ChatGPT workflow into a malleable GUI](https://www.geoffreylitt.com/2023/07/25/building-personal-tools-on-the-fly-with-llms) 👤 geoffreylitt.com
