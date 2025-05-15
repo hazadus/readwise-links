@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 62
+- Всего ссылок: 64
 
 ## Ссылки
 
@@ -20,8 +20,13 @@
     > **Резюме:** The author, Juha-Matti Santala, discusses his note-taking system as a developer, which includes five types of notes: daily notes, meeting notes, running notes, topical notes, and a brag document. Each type serves a specific purpose, like tracking daily activities, documenting meetings, and reflecting on successes. This system helps him think clearly, learn, and improve productivity in his work.
 - [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](private://read/01jg1e2q7yj2698nhna2kjbce4) 👤 Ahrens, Sönke 💬 56056 🔖 #pkm, #basb, #outline, #learning, #inspiration 🗓️ 2024-12-26
     > **Резюме:** The book "How to Take Smart Notes" by Sönke Ahrens emphasizes the importance of effective note-taking for improving writing, learning, and thinking. By using a slip-box system, individuals can organize their ideas and connect them, enhancing their understanding and creativity. This method promotes active engagement with material and transforms notes into a valuable resource for future writing.
+- [Creating a static website for all my bookmarks](https://alexwlchan.net/2025/bookmarks-static-site/?utm_source=mastodon) 👤 alexwlchan.net 💬 1554 🔖 #inspiration 🗓️ 2025-05-13
+    > **Резюме:** The author created a local static website to manage their bookmarks after moving away from Pinboard. This process took hundreds of hours and allowed them to save articles, fanfiction, and other links along with personal notes. Over the next few weeks, they will share more about how they built the site and what they learned from their bookmark collection.
 - [How to make a Link Aggregator in Obsidian](https://daverupert.com/2025/05/obsidian-link-aggregator/) 👤 Dave Rupert 💬 913 🔖 #inspiration 🗓️ 2025-05-13
     > **Резюме:** The author shares their experience transitioning from Notion to Obsidian and how they created an automated Link Aggregator for better link management. They recommend using the Obsidian Web Clipper to easily capture links and add tags, while also suggesting the importance of writing brief summaries for each link. Finally, they utilize the Dataview plugin to generate a list of recently added links for easy sharing in blog posts or newsletters.
+- [Microservices Are a Tax Your Startup Probably Can’t Afford](https://nexo.sh/posts/microservices-for-startups/) 👤 Oleg Pustovit 💬 3501 🔖 #inspiration, #architecture, #microservices 🗓️ 2025-05-10
+    > **Заметка:** Автор убедительно описывает случаи, когда стоит использовать микросервисы, а когда лучше от них отказаться. 
+    > **Резюме:** Microservices can complicate early-stage startups, slowing down productivity and making it harder to deliver value. A simpler monolithic architecture often allows teams to focus on essential features without unnecessary complexity. Microservices should only be adopted when a startup has grown and requires the scalability they offer, not as a default choice.
 - [Basic Claude Code](https://harper.blog/2025/05/08/basic-claude-code/) 👤 Harper Reed <harper@modest.com> 💬 1490 🔖 #llm, #development, #inspiration 🗓️ 2025-05-10
     > **Резюме:** The author discusses the benefits of using Claude Code for coding workflows, highlighting its power and effectiveness. They emphasize the importance of practices like test-driven development and linting to improve code quality. The author also shares their team's positive experiences and encourages readers to share their own workflows.
 - [Working Through the Fear of Being Seen](https://ashley.dev/posts/fear-of-being-seen/) 👤 Ashley Willis 💬 812 🔖 #writing, #inspiration 🗓️ 2025-04-23

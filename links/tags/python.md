@@ -1,9 +1,10 @@
 # Ссылки
 
-- Всего ссылок: 49
+- Всего ссылок: 50
 
 ## Ссылки
 
+- [Вопросы с собеседований на Python Developer](https://easyoffer.ru/rating/python_developer) 👤 easyoffer.ru 💬 17 🔖 #python, #interview 🗓️ 2025-05-14
 - [Как сделать оплату в Telegram боте-магазине на вебхуках](https://habr.com/ru/companies/amvera/articles/870414/) 👤 Хабр 💬 6393 🔖 #python 🗓️ 2025-01-05
     > **Резюме:** The article explains how to set up payment integration in a Telegram bot using webhooks instead of standard tools. It emphasizes the importance of having a secure web server with HTTPS to process payments safely and efficiently. Finally, it highlights the flexibility of this approach for integrating various payment systems within the bot.
 - [What's up Python: MOAR uv, flask-like Django, debugging live processes...

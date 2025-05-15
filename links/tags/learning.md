@@ -1,11 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 13
 
 ## Ссылки
 
 - [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](private://read/01jg1e2q7yj2698nhna2kjbce4) 👤 Ahrens, Sönke 💬 56056 🔖 #pkm, #basb, #outline, #learning, #inspiration 🗓️ 2024-12-26
     > **Резюме:** The book "How to Take Smart Notes" by Sönke Ahrens emphasizes the importance of effective note-taking for improving writing, learning, and thinking. By using a slip-box system, individuals can organize their ideas and connect them, enhancing their understanding and creativity. This method promotes active engagement with material and transforms notes into a valuable resource for future writing.
+- [Ты решаешь LeetCode неправильно. Как пройти любое собеседование в BigTech?](https://habr.com/ru/articles/906642/) 👤 Habr 💬 1401 🔖 #go, #career, #learning, #interview 🗓️ 2025-05-04
+    > **Резюме:** The article offers a method for preparing for technical interviews in major tech companies, focusing on understanding the types of interviews and tailoring your resume to the specific role. It emphasizes the importance of practicing common problem-solving patterns and being familiar with relevant technologies, especially for Go developers. The author encourages candidates to engage in mock interviews and utilize resources like LeetCode to build confidence and improve their skills.
+- [10 Things Software Developers Should Learn about Learning](https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/) 👤 R. Colin Johnson 💬 5608 🔖 #learning 🗓️ 2025-04-17
+    > **Резюме:** Software developers need to continuously learn throughout their careers, mastering new programming languages and frameworks. Understanding how humans learn can enhance learning efficiency, and expertise can impact problem-solving abilities. Memory plays a crucial role in learning, with long-term and working memory affecting performance. Experts differ from beginners in how they approach problem-solving, with experts benefiting from pattern recognition and abstract thinking. The document also emphasizes the importance of spacing out learning sessions, the limitations of problem-solving as a generic skill, and the significance of practice in mastering programming.
 - [A forty-year career.](https://lethain.com/forty-year-career/) 👤 lethain.com 💬 2514 🔖 #career, #learning 🗓️ 2025-03-17
     > **Резюме:** The author reflects on their long career in technology, highlighting the importance of pacing, building relationships, and creating prestige over time. They emphasize that a successful forty-year career involves managing burnout and focusing on growth rather than just financial success. Ultimately, the journey becomes easier as skills and connections compound over the decades.
 - [Writing good technical explanations](https://www.seangoedecke.com/why-use-x/) 👤 seangoedecke.com 💬 654 🔖 #writing, #learning 🗓️ 2025-01-28

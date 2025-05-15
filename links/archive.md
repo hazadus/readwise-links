@@ -1,16 +1,20 @@
 # Архивные ссылки
 
-- Всего ссылок: 639
+- Всего ссылок: 645
 
 ## Ссылки
 
+- [Creating a static website for all my bookmarks](https://alexwlchan.net/2025/bookmarks-static-site/?utm_source=mastodon) 👤 alexwlchan.net 💬 1554 🔖 #inspiration 🗓️ 2025-05-13
 - [How to make a Link Aggregator in Obsidian](https://daverupert.com/2025/05/obsidian-link-aggregator/) 👤 Dave Rupert 💬 913 🔖 #inspiration 🗓️ 2025-05-13
 - [Why can't language models come up with new ideas?](https://seangoedecke.com/why-cant-ais-have-new-ideas/) 👤 seangoedecke.com 💬 1192 🔖 #llm 🗓️ 2025-05-12
 - [The importance of character in software engineering](https://seangoedecke.com/character-in-software-engineering/) 👤 seangoedecke.com 💬 1052 🔖 #career, #development, #soft skills, #communication 🗓️ 2025-05-10
+- [Microservices Are a Tax Your Startup Probably Can’t Afford](https://nexo.sh/posts/microservices-for-startups/) 👤 Oleg Pustovit 💬 3501 🔖 #inspiration, #architecture, #microservices 🗓️ 2025-05-10
+    > **Заметка:** Автор убедительно описывает случаи, когда стоит использовать микросервисы, а когда лучше от них отказаться. 
 - [Basic Claude Code](https://harper.blog/2025/05/08/basic-claude-code/) 👤 Harper Reed <harper@modest.com> 💬 1490 🔖 #llm, #development, #inspiration 🗓️ 2025-05-10
 - [How projects fail at large tech companies](https://seangoedecke.com/how-projects-fail/) 👤 seangoedecke.com 💬 1643 🗓️ 2025-05-10
 - [I don't care about your magic prompts](https://seangoedecke.com/magic-prompts/) 👤 seangoedecke.com 💬 761 🔖 #llm 🗓️ 2025-05-07
 - [Getting things "done" in large tech companies](https://seangoedecke.com/getting-things-done/) 👤 seangoedecke.com 💬 693 🔖 #career, #development 🗓️ 2025-05-07
+- [Ты решаешь LeetCode неправильно. Как пройти любое собеседование в BigTech?](https://habr.com/ru/articles/906642/) 👤 Habr 💬 1401 🔖 #go, #career, #learning, #interview 🗓️ 2025-05-04
 - [Страх и ненависть в офисе](https://www.kommersant.ru/doc/7690760?from=glavnoe_3#id2795835) 👤 Ольга Шкуренко 💬 1562 🗓️ 2025-05-03
 - [What's up Python? Python in hardware, lock file support and a new type checker](https://www.bitecode.dev/p/whats-up-python-python-in-hardware) 👤 Bite Code! 💬 724 🗓️ 2025-05-03
 - [The valley of engineering despair](https://seangoedecke.com/the-valley-of-engineering-despair/) 👤 seangoedecke.com 💬 593 🔖 #development 🗓️ 2025-04-30
@@ -34,6 +38,7 @@
 - [Is using AI wrong? A review of six popular anti-AI arguments](https://seangoedecke.com/is-ai-wrong/) 👤 seangoedecke.com 💬 2871 🔖 #llm 🗓️ 2025-04-20
 - [An LLM Codegen Hero's Journey](https://harper.blog/2025/04/17/an-llm-codegen-heros-journey/) 👤 Harper Reed <harper@modest.com> 💬 1922 🔖 #llm 🗓️ 2025-04-18
 - [Guiding an LLM for Robust Java ByteBuffer Code](https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html) 👤 Unmesh Joshi 💬 1435 🔖 #llm 🗓️ 2025-04-18
+- [10 Things Software Developers Should Learn about Learning](https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/) 👤 R. Colin Johnson 💬 5608 🔖 #learning 🗓️ 2025-04-17
 - [The promise of Rust](https://fasterthanli.me/articles/the-promise-of-rust) 👤 Amos Wenger 💬 1154 🔖 #rust 🗓️ 2025-04-17
 - [Reproducing Hacker News writing style fingerprinting](http://antirez.com/news/150) 👤 antirez.com 💬 1678 🗓️ 2025-04-17
 - [The new Cookie Store API](https://fotis.xyz/posts/the-new-cookie-store-api/) 👤 Fotis Papadogeorgopoulos 💬 1925 🗓️ 2025-04-16
@@ -115,6 +120,7 @@
 - [What We Mean by Software Design](https://third-bit.com/2025/03/08/what-we-mean-by-software-design/) 👤 third-bit.com 💬 411 🗓️ 2025-03-09
 - [No More Client Tracking Thanks To GoAccess](https://brainbaking.com/post/2025/03/no-more-client-tracking-thanks-to-goaccess/) 👤 Brain Baking 💬 767 🗓️ 2025-03-08
 - [Great software design looks underwhelming](https://seangoedecke.com/great-software-design/) 👤 seangoedecke.com 💬 1295 🔖 #development, #inspiration, #softwaredesign 🗓️ 2025-03-08
+- [Собеседование. Вопросы для подготовки](https://grishaev.me/interview/) 👤 grishaev.me 💬 4751 🔖 #career, #interview 🗓️ 2025-03-07
 - [Наклейки на ноутах](https://grishaev.me/stickers/) 👤 grishaev.me 💬 238 🗓️ 2025-03-07
 - [Именованные операторы](https://grishaev.me/operator-names/) 👤 grishaev.me 💬 169 🗓️ 2025-03-07
 - [Новый макбук](https://grishaev.me/new-mac/) 👤 grishaev.me 💬 844 🗓️ 2025-03-07
@@ -123,6 +129,7 @@
 - [Аналоговое образование](https://grishaev.me/analog-school/) 👤 grishaev.me 💬 566 🗓️ 2025-03-07
 - [How to (and how not to) design REST APIs · stickfigure/blog Wiki · GitHub](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs) 👤 https://github.com/stickfigure/ 💬 3323 🔖 #rest 🗓️ 2025-03-05
 - [Document Your Nuxt Endpoints With OpenAPI and Visualize With Swagger or Scalar](https://mokkapps.de/blog/document-your-nuxt-endpoints-with-open-api-and-visualize-with-swagger-or-scalar) 👤 Michael Hoffmann 💬 326 🔖 #nuxt 🗓️ 2025-03-05
+- [Finding Great Developers](http://www.joelonsoftware.com/articles/FindingGreatDevelopers.html) 👤 Joel Spolsky 💬 4149 🗓️ 2025-03-05
 - [Why Can't Programmers.. Program?](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html) 👤 Jeff Atwood 💬 789 🔖 #career 🗓️ 2025-03-05
 - [Что такое Disruptor?](https://grishaev.me/what-is-disruptor/) 👤 grishaev.me 💬 123 🗓️ 2025-03-05
 - [Корпоративные обновления](https://grishaev.me/corp-update/) 👤 grishaev.me 💬 326 🗓️ 2025-03-05

@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 764
+- Всего ссылок: 766
 
 ## Ссылки
 
+- [Вопросы с собеседований на Python Developer](https://easyoffer.ru/rating/python_developer) 👤 easyoffer.ru 💬 17 🔖 #python, #interview 🗓️ 2025-05-14
+- [Открытое собеседование на Junior Go разработчика](https://m.youtube.com/watch?v=MmIdk_0HhVI) 👤 Эйч Навыки — менторская программа 🔖 #go, #career, #interview 🗓️ 2025-05-14
 - [What does vibe coding mean?](https://www.merriam-webster.com/slang/vibe-coding) 👤 merriam-webster.com 💬 330 🗓️ 2025-05-14
 - [How I create static websites for tiny archives](https://alexwlchan.net/2025/mildly-dynamic-websites/) 👤 alexwlchan.net 💬 5181 🔖 #inspiration 🗓️ 2025-05-14
 - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/) 👤 alexwlchan.net 💬 1629 🔖 #inspiration 🗓️ 2025-05-14
@@ -701,7 +703,7 @@ UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 
 - [Django: build a Microsoft Teams bot - Adam Johnson](https://adamj.eu/tech/2024/09/04/django-microsoft-teams-bot/) 👤 adamj.eu 💬 1468 🗓️ 2024-09-05
 - [Cycle Time](https://martinfowler.com/bliki/CycleTime.html) 👤 Martin Fowler 💬 810 🗓️ 2024-09-05
 - [Собеседование по System Design: как запроектировать и не потеряться / Хабр](https://habr.com/ru/companies/yandex_praktikum/articles/834230/) 👤 Дмитрий 💬 1939 🗓️ 2024-09-05
-- [Собеседование Python-разработчика: чего ждать и как подготовиться / Хабр](https://habr.com/ru/companies/yandex_praktikum/articles/828928/) 👤 Антон 💬 1791 🗓️ 2024-09-05
+- [Собеседование Python-разработчика: чего ждать и как подготовиться / Хабр](https://habr.com/ru/companies/yandex_praktikum/articles/828928/) 👤 Антон 💬 1791 🔖 #career, #interview 🗓️ 2024-09-05
 - [Why Cant We Settle on a Single Application Structure in Go - Calhoun.io](https://www.calhoun.io/why-cant-we-settle-on-a-single-application-structure-in-go/) 👤 Jon Calhoun 💬 2155 🔖 #go 🗓️ 2024-09-05
 - [Flat Application Structure in Go - Calhoun.io](https://www.calhoun.io/flat-application-structure/) 👤 Jon Calhoun 💬 1943 🗓️ 2024-09-05
 - [The Third Bit · How I Explain Code](https://third-bit.com/2024/09/06/how-i-explain-code/) 👤 third-bit.com 💬 779 🗓️ 2024-09-06
