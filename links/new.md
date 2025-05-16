@@ -1,16 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 766
+- Всего ссылок: 760
 
 ## Ссылки
 
-- [Вопросы с собеседований на Python Developer](https://easyoffer.ru/rating/python_developer) 👤 easyoffer.ru 💬 17 🔖 #python, #interview 🗓️ 2025-05-14
-- [Открытое собеседование на Junior Go разработчика](https://m.youtube.com/watch?v=MmIdk_0HhVI) 👤 Эйч Навыки — менторская программа 🔖 #go, #career, #interview 🗓️ 2025-05-14
-- [What does vibe coding mean?](https://www.merriam-webster.com/slang/vibe-coding) 👤 merriam-webster.com 💬 330 🗓️ 2025-05-14
-- [How I create static websites for tiny archives](https://alexwlchan.net/2025/mildly-dynamic-websites/) 👤 alexwlchan.net 💬 5181 🔖 #inspiration 🗓️ 2025-05-14
-- [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/) 👤 alexwlchan.net 💬 1629 🔖 #inspiration 🗓️ 2025-05-14
+- [Vite Crash Course – Frontend Build Tool](https://www.youtube.com/watch?v=do62-z3z6FM) 👤 freeCodeCamp.org 🗓️ 2025-05-15
 - [Notes](https://notes.jim-nielsen.com/) 👤 jim-nielsen.com 💬 122696 🗓️ 2025-05-13
-- ["..."](https://readwise.io/reader_api) 👤 readwise.io 💬 1547 🗓️ 2025-05-13
 - [The Height EnigmaUnraveling the mystery of percentage-based heights in CSS](https://www.joshwcomeau.com/css/height-enigma/) 👤 Josh W. Comeau 💬 3403 🗓️ 2025-05-13
 - [FastAPI + Keycloak: Простая и безопасная авторизация в веб-приложении на примере реального проекта](https://habr.com/ru/companies/amvera/articles/907990/) 👤 Habr 💬 6602 🗓️ 2025-05-12
 - [Tupper's Formula • The Applied Go Weekly Newsletter 2025-05-11](https://newsletter.appliedgo.net/archive/2025-05-11-tuppers-formula/) 👤 The Applied Go Weekly Newsletter 💬 2098 🗓️ 2025-05-12
@@ -233,7 +228,6 @@ An imperative programmer tries to learn Haskell](https://hatwd.com/p/an-imperati
 - [Implementing WebSocket Communication and Heartbeat Mechanism with GoFrame: A Hands-on Guide](https://dev.to/jones_charles_ad50858dbc0/implementing-websocket-communication-and-heartbeat-mechanism-with-goframe-a-hands-on-guide-44df) 👤 DEV Community 💬 716 🔖 #go, #websocket 🗓️ 2024-12-22
 - [Gist of Go: Concurrency](https://antonz.org/go-concurrency/) 👤 Anton Zhiyanov 💬 365 🔖 #go, #concurrency 🗓️ 2024-12-22
 - [Curl by example: Interactive guide](https://antonz.org/curl-by-example/) 👤 Anton Zhiyanov 💬 3331 🗓️ 2024-12-22
-- [Grep by example: Interactive guide](https://antonz.org/grep-by-example/) 👤 Anton Zhiyanov 💬 1837 🗓️ 2025-05-03
 - [Try X in Y minutes](https://antonz.org/try-x-in-y-minutes/) 👤 Anton Zhiyanov 💬 277 🗓️ 2024-12-22
 - [Gist of Go: Pipelines](https://antonz.org/go-concurrency/pipelines/) 👤 Anton Zhiyanov 💬 3159 🔖 #go, #concurrency 🗓️ 2024-12-22
 - [Gist of Go: Goroutines](https://antonz.org/go-concurrency/goroutines/) 👤 Anton Zhiyanov 💬 3703 🔖 #go, #concurrency 🗓️ 2024-12-22

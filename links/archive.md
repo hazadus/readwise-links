@@ -1,9 +1,18 @@
 # Архивные ссылки
 
-- Всего ссылок: 645
+- Всего ссылок: 654
 
 ## Ссылки
 
+- [What is Testcontainers, and why should you use it?](https://testcontainers.com/guides/introducing-testcontainers/) 👤 Testcontainers 💬 860 🔖 #docker, #testing 🗓️ 2025-05-15
+- [Getting started with Testcontainers for Python](https://testcontainers.com/guides/getting-started-with-testcontainers-for-python/) 👤 Testcontainers 💬 1181 🔖 #docker, #python, #testing 🗓️ 2025-05-15
+- [Am I online?](https://antonz.org/is-online/) 👤 Anton Zhiyanov 💬 532 🗓️ 2025-05-15
+- [They expect us to keep changing](https://benv.ca/blog/posts/they-expect-us-to-keep-changing) 👤 benv.ca 💬 1358 🔖 #llm, #learning 🗓️ 2025-05-15
+    > **Заметка:** Размышления на тему изменений в разработке, связанных с появлением LLM. Вывод - изменения всегда были и будут, это не последнее. Нужно адаптироваться. 
+- [Вопросы с собеседований на Python Developer](https://easyoffer.ru/rating/python_developer) 👤 easyoffer.ru 💬 17 🔖 #python, #interview 🗓️ 2025-05-14
+- [Открытое собеседование на Junior Go разработчика](https://m.youtube.com/watch?v=MmIdk_0HhVI) 👤 Эйч Навыки — менторская программа 🔖 #go, #career, #interview 🗓️ 2025-05-14
+- [What does vibe coding mean?](https://www.merriam-webster.com/slang/vibe-coding) 👤 merriam-webster.com 💬 330 🔖 #llm 🗓️ 2025-05-14
+- [How I create static websites for tiny archives](https://alexwlchan.net/2025/mildly-dynamic-websites/) 👤 alexwlchan.net 💬 5181 🔖 #inspiration 🗓️ 2025-05-14
 - [Creating a static website for all my bookmarks](https://alexwlchan.net/2025/bookmarks-static-site/?utm_source=mastodon) 👤 alexwlchan.net 💬 1554 🔖 #inspiration 🗓️ 2025-05-13
 - [How to make a Link Aggregator in Obsidian](https://daverupert.com/2025/05/obsidian-link-aggregator/) 👤 Dave Rupert 💬 913 🔖 #inspiration 🗓️ 2025-05-13
 - [Why can't language models come up with new ideas?](https://seangoedecke.com/why-cant-ais-have-new-ideas/) 👤 seangoedecke.com 💬 1192 🔖 #llm 🗓️ 2025-05-12
@@ -20,6 +29,7 @@
 - [The valley of engineering despair](https://seangoedecke.com/the-valley-of-engineering-despair/) 👤 seangoedecke.com 💬 593 🔖 #development 🗓️ 2025-04-30
 - [Обзор ремастера TES Oblivion - Маловато будет I Битый Пиксель](https://www.youtube.com/watch?v=Qdlt-WiK24Y) 👤 Битый Пиксель 🗓️ 2025-04-30
 - [Обзор ремастера TES Oblivion - Маловато будет I Битый Пиксель](https://www.youtube.com/watch?v=Qdlt-WiK24Y) 👤 Битый Пиксель 🗓️ 2025-04-30
+- [Please Start from Textbook](https://blog.ungra.dev/please-start-from-textbook) 👤 OddPen 💬 1440 🗓️ 2025-04-30
 - [sycophancy is the first LLM “dark pattern”.](https://seangoedecke.com/ai-sycophancy/) 👤 seangoedecke.com 💬 1287 🔖 #llm 🗓️ 2025-04-28
 - [Debugging, emotional resilience, and mental models](https://seangoedecke.com/debugging/) 👤 seangoedecke.com 💬 2616 🔖 #development 🗓️ 2025-04-27
 - [The OpenAI house style is exhausting](https://seangoedecke.com/chatgpt-house-style/) 👤 seangoedecke.com 💬 916 🔖 #llm 🗓️ 2025-04-28

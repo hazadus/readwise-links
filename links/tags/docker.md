@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 9
 
 ## Ссылки
 
@@ -10,6 +10,10 @@
     > **Резюме:** The author argues for using Python virtual environments in Docker containers because they provide predictability and consistency, making deployments easier to manage. Virtual environments create a well-defined structure for Python applications, which simplifies communication among teams. Despite popular trends favoring simpler setups, the author believes maintaining virtual environments adds value and reduces complexity in the long run.
 - [How to Self-host a Container Registry](https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/) 👤 Alex Pliutau 💬 1487 🔖 #docker 🗓️ 2024-10-16
     > **Резюме:** A container registry is a storage system for managing container images, allowing developers to push and pull images as needed. Self-hosting a container registry gives you more control over configuration and security, which can be important in regulated industries. This article provides a step-by-step tutorial on how to set up your own registry using Docker and NGINX.
+- [What is Testcontainers, and why should you use it?](https://testcontainers.com/guides/introducing-testcontainers/) 👤 Testcontainers 💬 860 🔖 #docker, #testing 🗓️ 2025-05-15
+    > **Резюме:** Testcontainers is a testing library that simplifies integration testing by allowing developers to use real services in Docker containers instead of mocks or in-memory databases. It helps avoid issues like data conflicts and the need for pre-provisioned infrastructure, enabling faster and more reliable testing. With Testcontainers, you can run integration tests seamlessly alongside unit tests in various programming languages.
+- [Getting started with Testcontainers for Python](https://testcontainers.com/guides/getting-started-with-testcontainers-for-python/) 👤 Testcontainers 💬 1181 🔖 #docker, #python, #testing 🗓️ 2025-05-15
+    > **Резюме:** Testcontainers is an open-source framework that allows developers to easily create and manage temporary Docker containers for testing applications, such as using a PostgreSQL database. By integrating Testcontainers with Python, developers can run tests against a real database instead of using mocks, ensuring more reliable results. This guide walks through creating a Python application, setting up a PostgreSQL database, and writing tests using Testcontainers.
 - [Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/) 👤 Itamar Turner-Trauring 💬 910 🔖 #devops, #docker, #gunicorn 🗓️ 2024-01-26
     > **Резюме:** This article explains how to properly configure Gunicorn for use in Docker containers, addressing common issues like worker heartbeats and logging. It recommends using an in-memory filesystem for temporary files and starting multiple workers to handle requests efficiently. Additionally, it emphasizes the importance of customizing configurations for container environments instead of relying on traditional setups.
 - [Run PostgreSQL and PGAdmin using docker compose | by Vishal Sharma | Medium](https://medium.com/@vishal.sharma./run-postgresql-and-pgadmin-using-docker-compose-34120618bcf9) 👤 Vishal Sharma 💬 241 🔖 #docker, #postgresql 🗓️ 2024-04-15

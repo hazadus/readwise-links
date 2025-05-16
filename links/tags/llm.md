@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 66
+- Всего ссылок: 68
 
 ## Ссылки
 
@@ -12,6 +12,11 @@
     > **Резюме:** Large Language Models (LLMs) work by predicting the next token in a sequence of text based on training data. They convert text into tokens, which are basic units of meaning, and generate sentences by repeatedly predicting and adding the next token. The process involves sophisticated calculations that help the model understand patterns in language, resulting in coherent and contextually relevant text.
 - [My Thoughts on the Future of "AI"](https://nicholas.carlini.com/writing/2025/thoughts-on-future-ai.html) 👤 Nicholas Carlini 💬 7085 🔖 #llm 🗓️ 2025-03-19
     > **Резюме:** Nicholas Carlini believes that language models will continue to improve over the next few years, potentially becoming integrated into many products. Despite their growth, he acknowledges that these models may face fundamental limits in their capabilities. He emphasizes the unpredictability of future advancements in AI and the importance of managing expectations.
+- [They expect us to keep changing](https://benv.ca/blog/posts/they-expect-us-to-keep-changing) 👤 benv.ca 💬 1358 🔖 #llm, #learning 🗓️ 2025-05-15
+    > **Заметка:** Размышления на тему изменений в разработке, связанных с появлением LLM. Вывод - изменения всегда были и будут, это не последнее. Нужно адаптироваться. 
+    > **Резюме:** Software engineers are feeling anxious as AI rapidly changes the development landscape, forcing many to learn new skills. This change is not new; developers have faced similar challenges before and must adapt to stay relevant. The author reflects on a past encounter with a worried programmer, highlighting that change and anxiety are part of the tech industry’s history.
+- [What does vibe coding mean?](https://www.merriam-webster.com/slang/vibe-coding) 👤 merriam-webster.com 💬 330 🔖 #llm 🗓️ 2025-05-14
+    > **Резюме:** Vibe coding is a new way of creating code by simply telling an AI what you want, without needing to understand the underlying code. This method may lead to bugs and glitches, which some users accept, especially for personal projects. The term was popularized in early 2025 by Andrej Karpathy and may evolve in meaning as it becomes more widely used.
 - [Why can't language models come up with new ideas?](https://seangoedecke.com/why-cant-ais-have-new-ideas/) 👤 seangoedecke.com 💬 1192 🔖 #llm 🗓️ 2025-05-12
     > **Резюме:** Language models struggle to generate new ideas because they rely on existing training data, similar to how humans combine past experiences to create novel concepts. While there are instances where language models produce new suggestions, these often lack the depth and innovation seen in human creativity. Improving their ability to generate meaningful ideas may require better engineering and scaffolding techniques.
 - [Basic Claude Code](https://harper.blog/2025/05/08/basic-claude-code/) 👤 Harper Reed <harper@modest.com> 💬 1490 🔖 #llm, #development, #inspiration 🗓️ 2025-05-10

@@ -1,10 +1,9 @@
 # Ссылки
 
-- Всего ссылок: 50
+- Всего ссылок: 51
 
 ## Ссылки
 
-- [Вопросы с собеседований на Python Developer](https://easyoffer.ru/rating/python_developer) 👤 easyoffer.ru 💬 17 🔖 #python, #interview 🗓️ 2025-05-14
 - [Как сделать оплату в Telegram боте-магазине на вебхуках](https://habr.com/ru/companies/amvera/articles/870414/) 👤 Хабр 💬 6393 🔖 #python 🗓️ 2025-01-05
     > **Резюме:** The article explains how to set up payment integration in a Telegram bot using webhooks instead of standard tools. It emphasizes the importance of having a secure web server with HTTPS to process payments safely and efficiently. Finally, it highlights the flexibility of this approach for integrating various payment systems within the bot.
 - [What's up Python: MOAR uv, flask-like Django, debugging live processes...
@@ -62,6 +61,9 @@ What's up Python: MOAR uv, flask-like Django, debugging live processes...](https
     > **Резюме:** Python 3.13 introduces several exciting features, including an improved interactive interpreter and clearer error messages. It also aims to enhance performance with a free-threaded version and an experimental Just-In-Time (JIT) compiler. Upgrading to Python 3.13 is encouraged to explore these new improvements.
 - [Python 3.13: What's New | TestDriven.io](https://testdriven.io/blog/python313/) 👤 Jan Giacomelli 💬 1093 🔖 #python 🗓️ 2024-10-23
     > **Резюме:** Python 3.13 was released on October 7, 2024, and includes many improvements like better error messages and a new typing.ReadOnly feature. The interactive interpreter now allows easier multiline editing and history preservation, while the Global Interpreter Lock (GIL) can be disabled for better thread performance. Overall, these updates make coding in Python easier and more efficient.
+- [Getting started with Testcontainers for Python](https://testcontainers.com/guides/getting-started-with-testcontainers-for-python/) 👤 Testcontainers 💬 1181 🔖 #docker, #python, #testing 🗓️ 2025-05-15
+    > **Резюме:** Testcontainers is an open-source framework that allows developers to easily create and manage temporary Docker containers for testing applications, such as using a PostgreSQL database. By integrating Testcontainers with Python, developers can run tests against a real database instead of using mocks, ensuring more reliable results. This guide walks through creating a Python application, setting up a PostgreSQL database, and writing tests using Testcontainers.
+- [Вопросы с собеседований на Python Developer](https://easyoffer.ru/rating/python_developer) 👤 easyoffer.ru 💬 17 🔖 #python, #interview 🗓️ 2025-05-14
 - [The next big thing in Python](https://www.bitecode.dev/p/the-next-big-thing-in-python) 👤 Bite Code! 💬 2183 🔖 #python 🗓️ 2025-04-23
     > **Резюме:** Python remains relevant in 2025 due to its steady evolution and strong community support, despite challenges from other languages. It is unlikely to become a major player in client-side web development or the video game industry, as those areas are dominated by languages like JavaScript and Lua. However, Python has potential for growth in mobile development and could benefit from advancements in performance and usability.
 - [What's up python? Less perf, no sugar and more bugs](https://www.bitecode.dev/p/whats-up-python-less-perf-no-sugar) 👤 Bite Code! 💬 1282 🔖 #python 🗓️ 2025-04-02

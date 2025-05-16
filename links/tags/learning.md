@@ -1,11 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 14
 
 ## Ссылки
 
 - [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](private://read/01jg1e2q7yj2698nhna2kjbce4) 👤 Ahrens, Sönke 💬 56056 🔖 #pkm, #basb, #outline, #learning, #inspiration 🗓️ 2024-12-26
     > **Резюме:** The book "How to Take Smart Notes" by Sönke Ahrens emphasizes the importance of effective note-taking for improving writing, learning, and thinking. By using a slip-box system, individuals can organize their ideas and connect them, enhancing their understanding and creativity. This method promotes active engagement with material and transforms notes into a valuable resource for future writing.
+- [They expect us to keep changing](https://benv.ca/blog/posts/they-expect-us-to-keep-changing) 👤 benv.ca 💬 1358 🔖 #llm, #learning 🗓️ 2025-05-15
+    > **Заметка:** Размышления на тему изменений в разработке, связанных с появлением LLM. Вывод - изменения всегда были и будут, это не последнее. Нужно адаптироваться. 
+    > **Резюме:** Software engineers are feeling anxious as AI rapidly changes the development landscape, forcing many to learn new skills. This change is not new; developers have faced similar challenges before and must adapt to stay relevant. The author reflects on a past encounter with a worried programmer, highlighting that change and anxiety are part of the tech industry’s history.
 - [Ты решаешь LeetCode неправильно. Как пройти любое собеседование в BigTech?](https://habr.com/ru/articles/906642/) 👤 Habr 💬 1401 🔖 #go, #career, #learning, #interview 🗓️ 2025-05-04
     > **Резюме:** The article offers a method for preparing for technical interviews in major tech companies, focusing on understanding the types of interviews and tailoring your resume to the specific role. It emphasizes the importance of practicing common problem-solving patterns and being familiar with relevant technologies, especially for Go developers. The author encourages candidates to engage in mock interviews and utilize resources like LeetCode to build confidence and improve their skills.
 - [10 Things Software Developers Should Learn about Learning](https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/) 👤 R. Colin Johnson 💬 5608 🔖 #learning 🗓️ 2025-04-17

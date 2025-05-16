@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 29
+- Всего ссылок: 31
 
 ## Ссылки
 
@@ -43,6 +43,10 @@ Django Model + pytest Fixture This part is a mouthful, but I prefer to use the M
     > **Резюме:** The text discusses testing API libraries and highlights the importance of using integration tests when working with APIs. It suggests starting with integration tests to ensure code works with the real API and emphasizes using convention over configuration for setting up local test servers. Additionally, it mentions the value of writing unit tests for complex encoding and decoding scenarios in API libraries.
 - [Suite smells: testing legacy code — Bitfield Consulting](https://bitfieldconsulting.com/posts/testing-legacy-code) 👤 John Arundel 💬 37 🔖 #go, #testing 🗓️ 2024-11-04
     > **Резюме:** The article discusses the challenges of testing legacy code in software development. It emphasizes the importance of understanding existing codebases to improve them. The author also offers resources for learning Go and Rust.
+- [What is Testcontainers, and why should you use it?](https://testcontainers.com/guides/introducing-testcontainers/) 👤 Testcontainers 💬 860 🔖 #docker, #testing 🗓️ 2025-05-15
+    > **Резюме:** Testcontainers is a testing library that simplifies integration testing by allowing developers to use real services in Docker containers instead of mocks or in-memory databases. It helps avoid issues like data conflicts and the need for pre-provisioned infrastructure, enabling faster and more reliable testing. With Testcontainers, you can run integration tests seamlessly alongside unit tests in various programming languages.
+- [Getting started with Testcontainers for Python](https://testcontainers.com/guides/getting-started-with-testcontainers-for-python/) 👤 Testcontainers 💬 1181 🔖 #docker, #python, #testing 🗓️ 2025-05-15
+    > **Резюме:** Testcontainers is an open-source framework that allows developers to easily create and manage temporary Docker containers for testing applications, such as using a PostgreSQL database. By integrating Testcontainers with Python, developers can run tests against a real database instead of using mocks, ensuring more reliable results. This guide walks through creating a Python application, setting up a PostgreSQL database, and writing tests using Testcontainers.
 - [Why Writing Quality Tests Matters More Than Ever](https://alexbunardzic.substack.com/p/why-writing-quality-tests-matters) 👤 Alex Bunardzic 💬 1542 🔖 #llm, #testing 🗓️ 2025-03-20
     > **Резюме:** Writing quality tests is essential for software development as it ensures code correctness and maintainability. Test Driven Development (TDD) allows developers to refactor code confidently without risking existing functionality. Although using AI to generate code might seem appealing, the lack of maintainability in the produced code raises concerns about future human oversight.
 - [Dec 8 Suite smells: undertesting and overtesting](https://bitfieldconsulting.com/posts/undertesting-overtesting) 👤 John Arundel 💬 2165 🔖 #go, #outline, #testing 🗓️ 2024-12-08
