@@ -1,9 +1,13 @@
 # Новые ссылки
 
-- Всего ссылок: 760
+- Всего ссылок: 764
 
 ## Ссылки
 
+- [Сериалы и фильмы Кураж-Бамбей](https://telegra.ph/Serialy-i-filmy-Kurazh-Bambej-05-16) 👤 @kurajbambey 💬 374 🗓️ 2025-05-16
+- [Centralize HTTP Error Handling in Go](https://www.alexisbouchez.com/blog/http-error-handling-in-go) 👤 alexisbouchez.com 💬 448 🔖 #go 🗓️ 2025-05-16
+- [Circuit Breaker in Go apps](https://mfbmina.dev/en/posts/golang-circuit-breaker/) 👤 Matheus Mina 💬 680 🔖 #go 🗓️ 2025-05-16
+- [Exploring the Rate package and the Token Bucket algorithm](https://mfbmina.dev/en/posts/golang-rate-token-bucket/) 👤 Matheus Mina 💬 778 🔖 #go 🗓️ 2025-05-16
 - [Vite Crash Course – Frontend Build Tool](https://www.youtube.com/watch?v=do62-z3z6FM) 👤 freeCodeCamp.org 🗓️ 2025-05-15
 - [Notes](https://notes.jim-nielsen.com/) 👤 jim-nielsen.com 💬 122696 🗓️ 2025-05-13
 - [The Height EnigmaUnraveling the mystery of percentage-based heights in CSS](https://www.joshwcomeau.com/css/height-enigma/) 👤 Josh W. Comeau 💬 3403 🗓️ 2025-05-13

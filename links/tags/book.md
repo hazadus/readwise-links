@@ -4,6 +4,8 @@
 
 ## Ссылки
 
+- [SQLAlchemy 2 In Practice](https://readwise.io/reader/document_raw_content/260221801) 👤 Miguel Grinberg 💬 45640 🔖 #book, #sqlalchemy 🗓️ 2025-01-15
+    > **Резюме:** In SQLAlchemy, database tables are represented as Python classes with a common parent class called the declarative base class. This allows for easy configuration of primary keys and relationships between tables, simplifying database operations. SQLAlchemy also provides functions for querying and managing relationships, enabling developers to easily navigate and manipulate data.
 - [Совершенный код](https://readwise.io/reader/document_raw_content/164004200) 👤 Стив Макконелл 💬 264868 🔖 #book 🗓️ 2025-01-15
     > **Резюме:** This text contains the title "stiv_makkonnell_sovershennyj_kod" by the author library-it.com on the domain library-it.com.
 - [100 Go Mistakes and How to Avoid Them](https://readwise.io/reader/document_raw_content/8740249) 👤 Teiva Harsanyi 💬 109078 🔖 #go, #book 🗓️ 2025-01-08
@@ -18,8 +20,6 @@
 - [Effective Go Recipes](https://readwise.io/reader/document_raw_content/241135476) 👤 Miki Tebeka; 💬 49579 🔖 #go, #book 🗓️ 2024-11-27
     > **Резюме:** "Effective Go Recipes" by Miki Tebeka is a practical guide for both new and experienced Go developers, offering solutions to common programming tasks. The book emphasizes using idiomatic Go practices, such as the importance of I/O interfaces and concurrency with goroutines and channels. It includes 25 short programs designed to challenge readers and improve their understanding of Go, making it a valuable resource for anyone working with the language.
 - [Learning Go](http://library.hazadus.ru/media/books/Jon_Bodner_-_Learning_Go__An_Idiomatic_Approach_to_Real-World_Go_Programming-OReilly_2021.pdf) 👤 Bodner, Jon;  💬 103495 🔖 #go, #book 🗓️ 2024-02-19
-- [SQLAlchemy 2 In Practice](https://readwise.io/reader/document_raw_content/260221801) 👤 Miguel Grinberg 💬 45640 🔖 #book, #sqlalchemy 🗓️ 2025-01-15
-    > **Резюме:** In SQLAlchemy, database tables are represented as Python classes with a common parent class called the declarative base class. This allows for easy configuration of primary keys and relationships between tables, simplifying database operations. SQLAlchemy also provides functions for querying and managing relationships, enabling developers to easily navigate and manipulate data.
 - [Как читать книги для самообразования](https://readwise.io/reader/document_raw_content/262840656) 👤 Поварнин С.И. 💬 14256 🔖 #book, #outline, #reading, #learning, #inspiration 🗓️ 2025-01-22
     > **Резюме:** Reading books can be harmful if done poorly, leading to physical and mental issues. It is important to analyze a book on your own before considering outside reviews to foster independent thinking. Using the table of contents effectively can enhance understanding, and engaging with critiques afterward deepens comprehension and critical skills.
 - [Let's Go](https://readwise.io/reader/document_raw_content/258496378) 👤 Alex Edwards 💬 63139 🔖 #go, #book 🗓️ 2025-01-10

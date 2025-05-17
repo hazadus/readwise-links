@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 654
+- Всего ссылок: 655
 
 ## Ссылки
 
@@ -13,6 +13,7 @@
 - [Открытое собеседование на Junior Go разработчика](https://m.youtube.com/watch?v=MmIdk_0HhVI) 👤 Эйч Навыки — менторская программа 🔖 #go, #career, #interview 🗓️ 2025-05-14
 - [What does vibe coding mean?](https://www.merriam-webster.com/slang/vibe-coding) 👤 merriam-webster.com 💬 330 🔖 #llm 🗓️ 2025-05-14
 - [How I create static websites for tiny archives](https://alexwlchan.net/2025/mildly-dynamic-websites/) 👤 alexwlchan.net 💬 5181 🔖 #inspiration 🗓️ 2025-05-14
+- [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/) 👤 alexwlchan.net 💬 1629 🔖 #inspiration 🗓️ 2025-05-14
 - [Creating a static website for all my bookmarks](https://alexwlchan.net/2025/bookmarks-static-site/?utm_source=mastodon) 👤 alexwlchan.net 💬 1554 🔖 #inspiration 🗓️ 2025-05-13
 - [How to make a Link Aggregator in Obsidian](https://daverupert.com/2025/05/obsidian-link-aggregator/) 👤 Dave Rupert 💬 913 🔖 #inspiration 🗓️ 2025-05-13
 - [Why can't language models come up with new ideas?](https://seangoedecke.com/why-cant-ais-have-new-ideas/) 👤 seangoedecke.com 💬 1192 🔖 #llm 🗓️ 2025-05-12

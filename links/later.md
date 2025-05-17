@@ -4,8 +4,8 @@
 
 ## Ссылки
 
-- [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/) 👤 alexwlchan.net 💬 1629 🔖 #inspiration 🗓️ 2025-05-14
-    > **Резюме:** The author is using static websites to organize and browse their digital archives, making it easier to find and access files they care about. Each collection is turned into a simple website with custom designs and metadata, allowing for flexible tagging and search. This method has helped the author reduce clutter and focus on saving only meaningful items.
+- [Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/#atom-everything) 👤 Simon Willison 💬 2330 🔖 #llm 🗓️ 2025-05-16
+    > **Резюме:** Simon Willison held a three-hour workshop at PyCon US on building software using Large Language Models (LLMs). The workshop covered topics like setting up LLMs, prompting techniques, and creating a text to SQL tool. Participants learned about the economic value of structured data extraction and the importance of tool usage and security in LLM applications.
 - [Domain-Driven Design: зачем он нужен аналитику и как его применять на практике](https://habr.com/ru/articles/908782/) 👤 Habr 💬 1798 🗓️ 2025-05-13
     > **Резюме:** Domain-Driven Design (DDD) is valuable for analysts, product managers, and developers, helping bridge the gap between business and code. It promotes a shared vocabulary, reducing misunderstandings and improving communication among team members. Analysts play a crucial role in creating this common language, ensuring clarity in requirements and enhancing collaboration throughout the project.
 - [Горький урок ABBYY: как лингвисты проиграли последнюю битву за NLP](https://sysblok.ru/blog/gorkij-urok-abbyy-kak-lingvisty-proigrali-poslednjuju-bitvu-za-nlp/) 👤 Даниил Скоринкин 💬 4611 🗓️ 2025-05-12

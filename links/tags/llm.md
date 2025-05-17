@@ -1,17 +1,19 @@
 # Ссылки
 
-- Всего ссылок: 68
+- Всего ссылок: 69
 
 ## Ссылки
 
+- [Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/#atom-everything) 👤 Simon Willison 💬 2330 🔖 #llm 🗓️ 2025-05-16
+    > **Резюме:** Simon Willison held a three-hour workshop at PyCon US on building software using Large Language Models (LLMs). The workshop covered topics like setting up LLMs, prompting techniques, and creating a text to SQL tool. Participants learned about the economic value of structured data extraction and the importance of tool usage and security in LLM applications.
+- [My Thoughts on the Future of "AI"](https://nicholas.carlini.com/writing/2025/thoughts-on-future-ai.html) 👤 Nicholas Carlini 💬 7085 🔖 #llm 🗓️ 2025-03-19
+    > **Резюме:** Nicholas Carlini believes that language models will continue to improve over the next few years, potentially becoming integrated into many products. Despite their growth, he acknowledges that these models may face fundamental limits in their capabilities. He emphasizes the unpredictability of future advancements in AI and the importance of managing expectations.
 - [Run LLMs on macOS using llm-mlx and Apple’s MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/#atom-everything) 👤 Simon Willison 💬 1292 🔖 #llm 🗓️ 2025-02-16
     > **Резюме:** llm-mlx is a brand new plugin for my LLM Python Library and CLI utility which builds on top of Apple’s excellent MLX array framework library and mlx-lm package. If you’re …
 - [Open WebUI](https://simonwillison.net/2024/Dec/27/open-webui/#atom-everything) 👤 Simon Willison 💬 284 🔖 #llm 🗓️ 2024-12-27
     > **Резюме:** Open WebUI is an open-source interface for accessing language models, which surprised the author with its seamless setup and integration with existing models. It allows users to add documentation for context and ask specific questions, providing detailed answers. The tool also supports API models and has features like logging interactions and extensive documentation.
 - [How LLMs Work, Explained Without Math - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math) 👤 Miguel Grinberg 💬 3826 🔖 #llm 🗓️ 2024-05-14
     > **Резюме:** Large Language Models (LLMs) work by predicting the next token in a sequence of text based on training data. They convert text into tokens, which are basic units of meaning, and generate sentences by repeatedly predicting and adding the next token. The process involves sophisticated calculations that help the model understand patterns in language, resulting in coherent and contextually relevant text.
-- [My Thoughts on the Future of "AI"](https://nicholas.carlini.com/writing/2025/thoughts-on-future-ai.html) 👤 Nicholas Carlini 💬 7085 🔖 #llm 🗓️ 2025-03-19
-    > **Резюме:** Nicholas Carlini believes that language models will continue to improve over the next few years, potentially becoming integrated into many products. Despite their growth, he acknowledges that these models may face fundamental limits in their capabilities. He emphasizes the unpredictability of future advancements in AI and the importance of managing expectations.
 - [They expect us to keep changing](https://benv.ca/blog/posts/they-expect-us-to-keep-changing) 👤 benv.ca 💬 1358 🔖 #llm, #learning 🗓️ 2025-05-15
     > **Заметка:** Размышления на тему изменений в разработке, связанных с появлением LLM. Вывод - изменения всегда были и будут, это не последнее. Нужно адаптироваться. 
     > **Резюме:** Software engineers are feeling anxious as AI rapidly changes the development landscape, forcing many to learn new skills. This change is not new; developers have faced similar challenges before and must adapt to stay relevant. The author reflects on a past encounter with a worried programmer, highlighting that change and anxiety are part of the tech industry’s history.

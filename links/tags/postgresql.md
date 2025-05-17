@@ -4,6 +4,8 @@
 
 ## Ссылки
 
+- [PostgreSQL: как связь 1 к 1 ускоряет базу данных? Разбираемся во внутренней работе СУБД](https://www.youtube.com/watch?v=Pk125DazUyI) 👤 Диджитализируй! 🔖 #postgresql 🗓️ 2024-11-05
+    > **Резюме:** Связь один к одному в базах данных PostgreSQL помогает оптимизировать работу с данными. Это позволяет разделять часто и редко используемые данные, улучшая производительность системы. Используйте эту связь, чтобы сделать свои базы данных более эффективными.
 - [PgBouncer is useful, important, and fraught with peril](https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html) 👤 JP Camara 💬 8311 🔖 #postgresql 🗓️ 2025-03-23
     > **Резюме:** PgBouncer is a lightweight connection pooler for PostgreSQL that helps manage database connections efficiently. However, using PgBouncer in transaction mode can lead to issues, as certain Postgres features may not work properly, potentially causing downtime. It's important to understand these limitations and consider alternatives when scaling your database connections.
 - [Postgres as a search engine](https://anyblockers.com/posts/postgres-as-a-search-engine) 👤 anyblockers.com 💬 2707 🔖 #postgresql 🗓️ 2025-03-10
@@ -36,8 +38,6 @@
     > **Резюме:** 3.5.&nbsp;Window Functions # A window function performs a calculation across a set of table rows that are somehow related to …
 - [Trigger recursion in PostgreSQL and how to deal with it | CYBERTEC PostgreSQL | Services & Support](https://www.cybertec-postgresql.com/en/dealing-with-trigger-recursion-in-postgresql/) 👤 Laurenz Albe 💬 952 🔖 #postgresql 🗓️ 2024-10-16
     > **Резюме:** This article describes the problem of endless trigger recursion in PostgreSQL and shows how to deal with it and get good performance.
-- [PostgreSQL: как связь 1 к 1 ускоряет базу данных? Разбираемся во внутренней работе СУБД](https://www.youtube.com/watch?v=Pk125DazUyI) 👤 Диджитализируй! 🔖 #postgresql 🗓️ 2024-11-05
-    > **Резюме:** Связь один к одному в базах данных PostgreSQL помогает оптимизировать работу с данными. Это позволяет разделять часто и редко используемые данные, улучшая производительность системы. Используйте эту связь, чтобы сделать свои базы данных более эффективными.
 - [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns) 👤 Ethan McCue 💬 1367 🔖 #sql, #postgresql 🗓️ 2025-03-30
     > **Резюме:** The article shares helpful PostgreSQL practices that can improve database management and usability. Key recommendations include using UUIDs for primary keys, adding created_at and updated_at timestamps, and employing soft deletes instead of permanent deletions. The author emphasizes naming conventions and the importance of schemas to maintain organization in larger applications.
 - [Просто берите Postgres](https://grishaev.me/just-use-postgres/) 👤 grishaev.me 💬 2190 🔖 #db, #postgresql 🗓️ 2025-02-06
