@@ -2,6 +2,8 @@
   "extends": "@vue/tsconfig/tsconfig.dom.json",
   "compilerOptions": {
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
 
     /* Linting */
     "strict": true,
@@ -14,5 +16,6 @@
   "paths": {
     "@/*": ["src/*"]
   },
+  "typeRoots": ["./types"],
   "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue"]
 }
