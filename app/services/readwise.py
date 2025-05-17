@@ -13,7 +13,9 @@ def fetch_reader_document_list_api(
     *,
     token: str,
     updated_after=None,
-    location=None,
+    location: str | None = None,
+    category: str | None = None,
+    with_html_content: bool = False,
 ) -> list[ReadwiseDocument]:
     """
     Получает список документов из API Readwise.
@@ -28,16 +30,21 @@ def fetch_reader_document_list_api(
 
     urllib3.disable_warnings()
 
+    params = {}
+    if updated_after:
+        params["updatedAfter"] = updated_after
+    if location:
+        params["location"] = location
+    if category:
+        params["category"] = category
+    if with_html_content:
+        params["withHtmlContent"] = "true"
+
     while True:
-        params = {}
         if next_page_cursor:
             params["pageCursor"] = next_page_cursor
-        if updated_after:
-            params["updatedAfter"] = updated_after
-        if location:
-            params["location"] = location
 
-        print("Делаю запрос к API с параметрами " + str(params) + "...")
+        print("    ⏳ Делаю запрос к API с параметрами " + str(params) + "...")
 
         response = requests.get(
             url="https://readwise.io/api/v3/list/",
@@ -51,7 +58,7 @@ def fetch_reader_document_list_api(
             full_data.extend(res.results)
             got = len(full_data)
             total = response.json().get("count")
-            print(f"Получено ссылок: {got} шт., осталось: {total} шт.")
+            print(f"    📥 Получено документов: {got} шт., осталось: {total} шт.")
         except KeyError:
             print("Error: " + str(response.json()))
             break

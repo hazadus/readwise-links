@@ -14,13 +14,13 @@ class ReadwiseDocument(BaseModel):
 
     id: str
     url: str
-    source_url: str
-    title: str
+    source_url: str | None = None
+    title: str | None = None
     author: str | None = None
     source: str | None = None
     # One of: article, email, rss, highlight, note, pdf, epub, tweet, video:
     category: str
-    location: str  # One of: new, later, shortlist, archive, feed
+    location: str | None = None  # One of: new, later, shortlist, archive, feed
     tags: dict | None = None
     site_name: str | None = None
     word_count: int | None
@@ -29,7 +29,9 @@ class ReadwiseDocument(BaseModel):
     image_url: str | None = None
     parent_id: str | None = None
     reading_progress: float = 0.0
-    published_date: str | None = None  # Format is YYYY-MM-DD
+    content: str | None = None  # для заметок, highlights
+    html_content: str | None = None
+    published_date: str | None = None
     created_at: datetime
     updated_at: datetime
     saved_at: datetime
