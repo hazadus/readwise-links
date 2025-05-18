@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 36
+- Всего ссылок: 38
 
 ## Ссылки
 
+- [How To Launch Big Complex Projects](https://www.smashingmagazine.com/2025/05/how-launch-big-complex-projects/) 👤 https://www.smashingmagazine.com/author/vitaly-friedman/ 💬 1991 🗓️ 2025-05-17
+    > **Резюме:** Launching complex projects often leads to delays and budget overruns, with only 0.5% finishing on time and within budget. To improve success rates, thorough planning and risk management are crucial, including techniques like Reference-Class Forecasting and Event Storming. Focus on understanding user experiences, engage stakeholders early, and always keep the end goal in mind to navigate potential challenges effectively.
+- [How to Add Blazing Fast Search to Your Django Site with Meilisearch](https://www.revsys.com/tidbits/how-to-add-blazing-fast-search-to-your-django-site-with-meilisearch/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_282) 👤 Lacey 💬 5155 🔖 #django 🗓️ 2025-05-17
+    > **Резюме:** Meilisearch offers a fast and easy-to-use search solution for Django sites, allowing for customizable indexing and search schemas. It simplifies the process of setting up and maintaining search functionality compared to other options like Elasticsearch. By indexing specific fields from Django models, Meilisearch enables quick and efficient search results tailored to user needs.
 - [Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/#atom-everything) 👤 Simon Willison 💬 2330 🔖 #llm 🗓️ 2025-05-16
     > **Резюме:** Simon Willison held a three-hour workshop at PyCon US on building software using Large Language Models (LLMs). The workshop covered topics like setting up LLMs, prompting techniques, and creating a text to SQL tool. Participants learned about the economic value of structured data extraction and the importance of tool usage and security in LLM applications.
 - [Domain-Driven Design: зачем он нужен аналитику и как его применять на практике](https://habr.com/ru/articles/908782/) 👤 Habr 💬 1798 🗓️ 2025-05-13
