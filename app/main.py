@@ -17,6 +17,9 @@ shortlist, archive) и для каждого тега (в поддиректор
 
 import argparse
 
+from schemas.readwise import ReadwiseDocument
+from services.readwise import fetch_reader_document_list_api
+
 from reports import create_dumps, create_reports, dump_docs_with_notes_and_highlights
 
 
@@ -37,16 +40,22 @@ def main():
     )
     args = parser.parse_args()
 
-    dump_docs_with_notes_and_highlights(
+    # Получаем полный список документов из API Readwise
+    all_docs: list[ReadwiseDocument] = fetch_reader_document_list_api(
         token=args.api_key,
+    )
+
+    # Сохраняем дампы и отчеты
+    dump_docs_with_notes_and_highlights(
+        all_docs=all_docs,
         dir="./web/src/assets",
     )
     create_dumps(
-        token=args.api_key,
+        all_docs=all_docs,
         dir=args.dir,
     )
     create_reports(
-        token=args.api_key,
+        all_docs=all_docs,
         dir=args.dir,
     )
 

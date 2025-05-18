@@ -31,6 +31,7 @@ declare interface Note {
   last_opened_at: string | null;
   last_moved_at: string;
   highlights?: Note[];
+  notes_attached?: Note[];
 }
 
 declare module "@/assets/articles.json" {

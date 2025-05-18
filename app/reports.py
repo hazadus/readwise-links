@@ -6,12 +6,11 @@ from typing import Any
 from formatters.json import create_json_dump
 from formatters.markdown import create_markdown_report
 from schemas.readwise import ReadwiseDocument
-from services.readwise import fetch_reader_document_list_api
 
 
 def create_reports(
     *,
-    token: str,
+    all_docs: list[ReadwiseDocument],
     dir: str,
 ):
     """
@@ -19,7 +18,7 @@ def create_reports(
     Сохраняет отчеты в указанной директории в файлы с именами,
     соответствующими location документа.
 
-    :param token: API ключ для авторизации в Readwise
+    :param all_docs: Список всех документов Readwise
     :param dir: Директория для сохранения отчетов
     :return: None
     """
@@ -29,16 +28,12 @@ def create_reports(
         "archive",
         "shortlist",
     ]
-    all_documents: list[ReadwiseDocument] = []
-
     # Создаем отчеты для каждого location
     for location in locations:
         print(f"🚀 Создаю отчет для '{location}'...")
-        documents: list[ReadwiseDocument] = fetch_reader_document_list_api(
-            token=token,
-            location=location,
-        )
-        all_documents.extend(documents)
+        documents: list[ReadwiseDocument] = [
+            doc for doc in all_docs if doc.location == location
+        ]
 
         report = create_markdown_report(
             documents=documents,
@@ -56,11 +51,11 @@ def create_reports(
         print(f"✅ Отчет '{location}' сохранен в '{filepath}'")
 
     # Создаем отчеты для тегов
-    all_tags = get_tags(documents=all_documents)
+    all_tags = get_tags(documents=all_docs)
     for tag in all_tags:
         print(f"📌 Тег: {tag}")
         tagged_documents = get_documents_by_tag(
-            documents=all_documents,
+            documents=all_docs,
             tag=tag,
         )
         report = create_markdown_report(
@@ -78,7 +73,7 @@ def create_reports(
 
 def create_dumps(
     *,
-    token: str,
+    all_docs: list[ReadwiseDocument],
     dir: str,
 ):
     """
@@ -86,7 +81,7 @@ def create_dumps(
     Сохраняет дампы в указанной директории в файлы с именами,
     соответствующими category документа.
 
-    :param token: API ключ для авторизации в Readwise
+    :param all_docs: Список всех документов Readwise
     :param dir: Директория для сохранения дампов
     :return: None
     """
@@ -97,10 +92,7 @@ def create_dumps(
 
     for cat in categories:
         print(f"🚀 Создаю JSON-дамп для '{cat}'...")
-        highlights = fetch_reader_document_list_api(
-            token=token,
-            category=cat,
-        )
+        highlights = [doc for doc in all_docs if doc.category == cat]
         filepath = Path(dir) / f"{cat}.json"
         filepath.parent.mkdir(parents=True, exist_ok=True)
         save_as_json(
@@ -112,19 +104,18 @@ def create_dumps(
 
 def dump_docs_with_notes_and_highlights(
     *,
-    token: str,
+    all_docs: list[ReadwiseDocument],
     dir: str,
 ):
     """
     Создает дамп документов с заметками и highlights в формате JSON.
     Сохраняет дамп в указанной директории в файл articles.json.
 
-    :param token: API ключ для авторизации в Readwise
+    :param all_docs: Список всех документов Readwise
     :param dir: Директория для сохранения дампа
     :return: None
     """
     print("🚀 Качаю все документы...")
-    all_docs = fetch_reader_document_list_api(token=token)
 
     print("🚀 Делаю мапу...")
     hashmap = {}
@@ -132,29 +123,45 @@ def dump_docs_with_notes_and_highlights(
         hashmap[doc.id] = doc.model_dump()
 
     print("🚀 Добавляем заметки и highlights к документам...")
+    # Сначала добавим заметки к highlight'ам
     for doc in all_docs:
-        if doc.category in ["note", "highlight"]:
+        if doc.category == "note":
             if doc.parent_id not in hashmap.keys():
                 print(f"    Нет дока с id={doc.parent_id}")
+                print(f"        Заметка: {doc.id=} {doc.content}")
                 continue
 
-            cat = doc.category + "s"
-            if not hashmap[doc.parent_id].get(cat, None):
-                hashmap[doc.parent_id][cat] = [doc.model_dump()]
+            if not hashmap[doc.parent_id].get("notes_attached", None):
+                hashmap[doc.parent_id]["notes_attached"] = [doc.model_dump()]
             else:
-                hashmap[doc.parent_id][cat].append(doc.model_dump())
+                hashmap[doc.parent_id]["notes_attached"].append(doc.model_dump())
+            print(
+                f"        ✅ Заметка: '{doc.content}' к '{hashmap[doc.parent_id]["content"]}'"
+            )
+    # Теперь добавим highlights к документам: берем их из хашмапы, потому что там
+    # highlights уже должны быть с заметками к ним
+    for doc_id in hashmap.keys():
+        doc = hashmap[doc_id]
+        if doc["category"] == "highlight":
+            if doc["parent_id"] not in hashmap.keys():
+                print(f"    Нет дока с id={doc["parent_id"]}")
+                print(f"        Highlight: {doc["id"]=} {doc["content"]}")
+                continue
 
-    # Оставляем только документы, у которых нет родителя но есть
-    # заметки или highlights
+            if not hashmap[doc["parent_id"]].get("highlights", None):
+                hashmap[doc["parent_id"]]["highlights"] = [doc]
+            else:
+                hashmap[doc["parent_id"]]["highlights"].append(doc)
+
+    # Оставляем только документы, у которых нет родителя но есть highlights
     root_docs = []
     for doc_id in hashmap.keys():
         doc = hashmap[doc_id]
         has_no_parent = doc["parent_id"] is None
-        has_notes = doc.get("notes", []) and len(doc.get("notes", [])) > 0
         has_highlights = (
             doc.get("highlights", []) and len(doc.get("highlights", [])) > 0
         )
-        if has_no_parent and (has_notes or has_highlights):
+        if has_no_parent and has_highlights:
             root_docs.append(doc)
 
     # Делаем дамп полученных доков в файл JSON
