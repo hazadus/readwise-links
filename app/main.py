@@ -6,7 +6,10 @@
 - отчеты в формате Markdown. Отчёты создаются для каждой локации (new, later,
 shortlist, archive) и для каждого тега (в поддиректории "tags" заданной для
 отчетов директории).
-- дампы заметок и highlights в JSON-файлах.
+- дампы всех заметок и выделений в формате JSON, сохраняется в отдельных файлах
+в указанной директории.
+- дамп статей у которых есть заметки и выделения в формате JSON, сохраняется в
+"./web/src/assets/articles.json" для использования во фронтовом приложении.
 
 Пример использования:
     uv run ./app/main.py --api-key your_api_key --dir ./reports
@@ -14,7 +17,7 @@ shortlist, archive) и для каждого тега (в поддиректор
 
 import argparse
 
-from reports import create_dumps, create_reports
+from reports import create_dumps, create_reports, dump_docs_with_notes_and_highlights
 
 
 def main():
@@ -34,6 +37,10 @@ def main():
     )
     args = parser.parse_args()
 
+    dump_docs_with_notes_and_highlights(
+        token=args.api_key,
+        dir="./web/src/assets",
+    )
     create_dumps(
         token=args.api_key,
         dir=args.dir,

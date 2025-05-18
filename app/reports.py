@@ -1,4 +1,7 @@
+import json
+from datetime import datetime
 from pathlib import Path
+from typing import Any
 
 from formatters.json import create_json_dump
 from formatters.markdown import create_markdown_report
@@ -99,11 +102,81 @@ def create_dumps(
             category=cat,
         )
         filepath = Path(dir) / f"{cat}.json"
+        filepath.parent.mkdir(parents=True, exist_ok=True)
         save_as_json(
             documents=highlights,
             filepath=filepath,
         )
         print(f"✅ JSON для '{cat}' сохранен в '{filepath}'")
+
+
+def dump_docs_with_notes_and_highlights(
+    *,
+    token: str,
+    dir: str,
+):
+    """
+    Создает дамп документов с заметками и highlights в формате JSON.
+    Сохраняет дамп в указанной директории в файл articles.json.
+
+    :param token: API ключ для авторизации в Readwise
+    :param dir: Директория для сохранения дампа
+    :return: None
+    """
+    print("🚀 Качаю все документы...")
+    all_docs = fetch_reader_document_list_api(token=token)
+
+    print("🚀 Делаю мапу...")
+    hashmap = {}
+    for doc in all_docs:
+        hashmap[doc.id] = doc.model_dump()
+
+    print("🚀 Добавляем заметки и highlights к документам...")
+    for doc in all_docs:
+        if doc.category in ["note", "highlight"]:
+            if doc.parent_id not in hashmap.keys():
+                print(f"    Нет дока с id={doc.parent_id}")
+                continue
+
+            cat = doc.category + "s"
+            if not hashmap[doc.parent_id].get(cat, None):
+                hashmap[doc.parent_id][cat] = [doc.model_dump()]
+            else:
+                hashmap[doc.parent_id][cat].append(doc.model_dump())
+
+    # Оставляем только документы, у которых нет родителя но есть
+    # заметки или highlights
+    root_docs = []
+    for doc_id in hashmap.keys():
+        doc = hashmap[doc_id]
+        has_no_parent = doc["parent_id"] is None
+        has_notes = doc.get("notes", []) and len(doc.get("notes", [])) > 0
+        has_highlights = (
+            doc.get("highlights", []) and len(doc.get("highlights", [])) > 0
+        )
+        if has_no_parent and (has_notes or has_highlights):
+            root_docs.append(doc)
+
+    # Делаем дамп полученных доков в файл JSON
+    def datetime_serializer(obj: Any) -> str:
+        """Преобразует datetime объекты в ISO формат."""
+        if isinstance(obj, datetime):
+            return obj.isoformat()
+        raise TypeError(f"Тип {type(obj)} не сериализуем")
+
+    res = json.dumps(
+        root_docs,
+        ensure_ascii=False,
+        indent=4,
+        default=datetime_serializer,
+    )
+
+    filepath = Path(dir) / "articles.json"
+    filepath.parent.mkdir(parents=True, exist_ok=True)
+    with open(filepath, "w") as f:
+        f.write(res)
+
+    print(f"✅ Сохранено {len(root_docs)} док. в '{filepath}'")
 
 
 def get_tags(
