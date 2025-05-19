@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 69
+- Всего ссылок: 70
 
 ## Ссылки
 
@@ -14,6 +14,8 @@
     > **Резюме:** Open WebUI is an open-source interface for accessing language models, which surprised the author with its seamless setup and integration with existing models. It allows users to add documentation for context and ask specific questions, providing detailed answers. The tool also supports API models and has features like logging interactions and extensive documentation.
 - [How LLMs Work, Explained Without Math - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math) 👤 Miguel Grinberg 💬 3826 🔖 #llm 🗓️ 2024-05-14
     > **Резюме:** Large Language Models (LLMs) work by predicting the next token in a sequence of text based on training data. They convert text into tokens, which are basic units of meaning, and generate sentences by repeatedly predicting and adding the next token. The process involves sophisticated calculations that help the model understand patterns in language, resulting in coherent and contextually relevant text.
+- [For many, patience is the killer LLM feature](https://seangoedecke.com/patience-too-cheap-to-meter/) 👤 seangoedecke.com 💬 800 🔖 #llm 🗓️ 2025-05-18
+    > **Резюме:** Many people prefer using ChatGPT because it offers superhuman patience and is always available for support. This makes it useful for tasks like therapy, where users can seek advice without fear of judgment. While language models may not replace professional therapists, their constant availability and understanding nature provide significant value to users.
 - [They expect us to keep changing](https://benv.ca/blog/posts/they-expect-us-to-keep-changing) 👤 benv.ca 💬 1358 🔖 #llm, #learning 🗓️ 2025-05-15
     > **Заметка:** Размышления на тему изменений в разработке, связанных с появлением LLM. Вывод - изменения всегда были и будут, это не последнее. Нужно адаптироваться. 
     > **Резюме:** Software engineers are feeling anxious as AI rapidly changes the development landscape, forcing many to learn new skills. This change is not new; developers have faced similar challenges before and must adapt to stay relevant. The author reflects on a past encounter with a worried programmer, highlighting that change and anxiety are part of the tech industry’s history.

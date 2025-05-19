@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 38
+- Всего ссылок: 40
 
 ## Ссылки
 
+- [Why strong engineers are rarely blocked](https://seangoedecke.com/becoming-unblockable/) 👤 seangoedecke.com 💬 1657 🗓️ 2025-05-18
+    > **Резюме:** Strong engineers face fewer blocks in their work by using strategies like managing multiple tasks and anticipating potential obstacles. They also know when to ask for help from their management to overcome external blockers. By prioritizing tasks and avoiding unnecessary political fights, they can maintain productivity and keep projects moving forward.
+- [Django Security Best Practices: A Comprehensive Guide for Software Engineers](https://corgea.com/Learn/django-security-best-practices-a-comprehensive-guid-for-software-engineers?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_285) 👤 corgea.com 💬 1030 🔖 #django 🗓️ 2025-05-17
+    > **Резюме:** Corgea is an AI-powered security platform that automatically finds, triages, and fixes insecure code. Sign up today for free to try Corgea. 
 - [How To Launch Big Complex Projects](https://www.smashingmagazine.com/2025/05/how-launch-big-complex-projects/) 👤 https://www.smashingmagazine.com/author/vitaly-friedman/ 💬 1991 🗓️ 2025-05-17
     > **Резюме:** Launching complex projects often leads to delays and budget overruns, with only 0.5% finishing on time and within budget. To improve success rates, thorough planning and risk management are crucial, including techniques like Reference-Class Forecasting and Event Storming. Focus on understanding user experiences, engage stakeholders early, and always keep the end goal in mind to navigate potential challenges effectively.
 - [How to Add Blazing Fast Search to Your Django Site with Meilisearch](https://www.revsys.com/tidbits/how-to-add-blazing-fast-search-to-your-django-site-with-meilisearch/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_282) 👤 Lacey 💬 5155 🔖 #django 🗓️ 2025-05-17

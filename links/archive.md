@@ -1,9 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 655
+- Всего ссылок: 660
 
 ## Ссылки
 
+- [C++ to Rust Cheat-Sheet](https://corrode.dev/learn/migration-guides/cpp-to-rust/) 👤 Corrode Rust Consulting 💬 869 🔖 #rust 🗓️ 2025-05-18
+- [Notifications about (almost) anything with ntfy.sh](https://hamatti.org/posts/notifications-about-almost-anything-with-ntfy-sh/) 👤 Juha-Matti Santala 💬 684 🗓️ 2025-05-18
+- [For many, patience is the killer LLM feature](https://seangoedecke.com/patience-too-cheap-to-meter/) 👤 seangoedecke.com 💬 800 🔖 #llm 🗓️ 2025-05-18
+- [Practical advice for engineers in these troubled times](https://seangoedecke.com/in-these-troubled-times/) 👤 seangoedecke.com 💬 1033 🔖 #career 🗓️ 2025-05-18
+- [Manage For Success, Not Comfort](https://terriblesoftware.org/2025/05/16/manage-for-success-not-comfort/) 👤 Terrible Software 💬 580 🔖 #management 🗓️ 2025-05-18
 - [What is Testcontainers, and why should you use it?](https://testcontainers.com/guides/introducing-testcontainers/) 👤 Testcontainers 💬 860 🔖 #docker, #testing 🗓️ 2025-05-15
 - [Getting started with Testcontainers for Python](https://testcontainers.com/guides/getting-started-with-testcontainers-for-python/) 👤 Testcontainers 💬 1181 🔖 #docker, #python, #testing 🗓️ 2025-05-15
 - [Am I online?](https://antonz.org/is-online/) 👤 Anton Zhiyanov 💬 532 🗓️ 2025-05-15

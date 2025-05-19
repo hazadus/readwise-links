@@ -4,12 +4,12 @@
 
 ## Ссылки
 
+- [Django Security Best Practices: A Comprehensive Guide for Software Engineers](https://corgea.com/Learn/django-security-best-practices-a-comprehensive-guid-for-software-engineers?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_285) 👤 corgea.com 💬 1030 🔖 #django 🗓️ 2025-05-17
+    > **Резюме:** Corgea is an AI-powered security platform that automatically finds, triages, and fixes insecure code. Sign up today for free to try Corgea. 
 - [How to Add Blazing Fast Search to Your Django Site with Meilisearch](https://www.revsys.com/tidbits/how-to-add-blazing-fast-search-to-your-django-site-with-meilisearch/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_282) 👤 Lacey 💬 5155 🔖 #django 🗓️ 2025-05-17
     > **Резюме:** Meilisearch offers a fast and easy-to-use search solution for Django sites, allowing for customizable indexing and search schemas. It simplifies the process of setting up and maintaining search functionality compared to other options like Elasticsearch. By indexing specific fields from Django models, Meilisearch enables quick and efficient search results tailored to user needs.
 - [Running Background Tasks from Django Admin with Celery](https://testdriven.io/blog/django-admin-celery/) 👤 Nik Tomazic 💬 2182 🔖 #celery, #django 🗓️ 2025-04-10
     > **Резюме:** This tutorial teaches how to use Celery with Django to run background tasks efficiently. You will learn to set up Celery, create custom tasks, and trigger them from Django views and the admin interface. By the end, you'll be able to monitor task statuses directly in Django admin.
-- [Django Security Best Practices: A Comprehensive Guide for Software Engineers](https://corgea.com/Learn/django-security-best-practices-a-comprehensive-guid-for-software-engineers?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_285) 👤 corgea.com 💬 1030 🔖 #django 🗓️ 2025-05-17
-    > **Резюме:** Corgea is an AI-powered security platform that automatically finds, triages, and fixes insecure code. Sign up today for free to try Corgea. 
 - [Django Query Optimization - Defer, Only, and Exclude](https://testdriven.io/blog/django-query-optimization/) 👤 testdriven.io 💬 1383 🔖 #django 🗓️ 2025-03-15
     > **Резюме:** This article explains how to optimize Django database queries using the defer(), only(), and exclude() methods to improve performance by fetching less data. It highlights the importance of minimizing data retrieval for faster web applications and provides examples using a real estate web app. The article also warns against potential pitfalls of using these methods incorrectly, which can lead to additional queries and decreased performance.
 - [About](https://pushpin.org/docs/about/#introduction) 👤 Pushpin 💬 1551 🔖 #try, #django 🗓️ 2025-02-04

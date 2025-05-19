@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 26
+- Всего ссылок: 27
 
 ## Ссылки
 
+- [Manage For Success, Not Comfort](https://terriblesoftware.org/2025/05/16/manage-for-success-not-comfort/) 👤 Terrible Software 💬 580 🔖 #management 🗓️ 2025-05-18
+    > **Резюме:** New managers often mistakenly think their main job is to make their team happy, but true management is about building effective teams that deliver results. Discomfort and challenges are essential for growth, and focusing solely on happiness can lead to poor performance. Ultimately, successful teams find satisfaction through meaningful accomplishments, not just comfort.
 - [Agile умер: из-за своего сострадания к product- и project-менеджерам (с) Фридрих Ницше](https://habr.com/ru/companies/kaiten/articles/876582/) 👤 Хабр 💬 1927 🔖 #agile, #management 🗓️ 2025-04-24
     > **Резюме:** Agile methodology often leads to chaos because many companies mimic its rituals without understanding its core principles. True Agile requires experience, responsibility, and a focus on results, rather than just following processes. Without proper training and documentation, Agile can become a superficial practice that fails to deliver value.
 - [Making AI Actually Work on Your Team](https://terriblesoftware.org/2025/04/07/making-ai-actually-work-on-your-team/) 👤 Terrible Software 💬 897 🔖 #llm, #management, #development 🗓️ 2025-04-08
