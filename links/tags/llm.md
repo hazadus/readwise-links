@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 70
+- Всего ссылок: 72
 
 ## Ссылки
 
+- [Diffusion models explained simply](https://seangoedecke.com/diffusion-models-explained/) 👤 seangoedecke.com 💬 1775 🔖 #llm 🗓️ 2025-05-19
+    > **Резюме:** Diffusion models generate images by starting with pure noise and gradually removing it based on the input caption. They differ from transformer models by working with images directly rather than sequences of tokens, allowing for flexibility in image quality and structure. While image and video diffusion models are well-developed, text-based diffusion models face unique challenges in adding and removing noise.
 - [Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/#atom-everything) 👤 Simon Willison 💬 2330 🔖 #llm 🗓️ 2025-05-16
     > **Резюме:** Simon Willison held a three-hour workshop at PyCon US on building software using Large Language Models (LLMs). The workshop covered topics like setting up LLMs, prompting techniques, and creating a text to SQL tool. Participants learned about the economic value of structured data extraction and the importance of tool usage and security in LLM applications.
 - [My Thoughts on the Future of "AI"](https://nicholas.carlini.com/writing/2025/thoughts-on-future-ai.html) 👤 Nicholas Carlini 💬 7085 🔖 #llm 🗓️ 2025-03-19
@@ -14,6 +16,9 @@
     > **Резюме:** Open WebUI is an open-source interface for accessing language models, which surprised the author with its seamless setup and integration with existing models. It allows users to add documentation for context and ask specific questions, providing detailed answers. The tool also supports API models and has features like logging interactions and extensive documentation.
 - [How LLMs Work, Explained Without Math - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math) 👤 Miguel Grinberg 💬 3826 🔖 #llm 🗓️ 2024-05-14
     > **Резюме:** Large Language Models (LLMs) work by predicting the next token in a sequence of text based on training data. They convert text into tokens, which are basic units of meaning, and generate sentences by repeatedly predicting and adding the next token. The process involves sophisticated calculations that help the model understand patterns in language, resulting in coherent and contextually relevant text.
+- [ИИ-агенты — вот что действительно изменит разработку. Пишем ИИ-агент на Python, LangChain и GigaChat](https://youtube.com/watch?v=KFgwXXWT7sQ&si=9c1fWb9ps_90PRff) 👤 Диджитализируй! 🔖 #llm, #inspiration 🗓️ 2025-05-19
+    > **Заметка:** Интересный и вдохновляющий пример реализации простого агента для решения практической задачи.
+    > **Резюме:** ИИ-агенты могут значительно изменить процесс разработки, предоставляя новые возможности для автоматизации задач. В видео рассматривается создание ИИ-агента на Python с использованием LangChain и GigaChat для генерации документов. Это облегчает работу, позволяя извлекать и обрабатывать данные из различных источников.
 - [For many, patience is the killer LLM feature](https://seangoedecke.com/patience-too-cheap-to-meter/) 👤 seangoedecke.com 💬 800 🔖 #llm 🗓️ 2025-05-18
     > **Резюме:** Many people prefer using ChatGPT because it offers superhuman patience and is always available for support. This makes it useful for tasks like therapy, where users can seek advice without fear of judgment. While language models may not replace professional therapists, their constant availability and understanding nature provide significant value to users.
 - [They expect us to keep changing](https://benv.ca/blog/posts/they-expect-us-to-keep-changing) 👤 benv.ca 💬 1358 🔖 #llm, #learning 🗓️ 2025-05-15

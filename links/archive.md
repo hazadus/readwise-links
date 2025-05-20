@@ -1,9 +1,12 @@
 # Архивные ссылки
 
-- Всего ссылок: 660
+- Всего ссылок: 662
 
 ## Ссылки
 
+- [ИИ-агенты — вот что действительно изменит разработку. Пишем ИИ-агент на Python, LangChain и GigaChat](https://youtube.com/watch?v=KFgwXXWT7sQ&si=9c1fWb9ps_90PRff) 👤 Диджитализируй! 🔖 #llm, #inspiration 🗓️ 2025-05-19
+    > **Заметка:** Интересный и вдохновляющий пример реализации простого агента для решения практической задачи.
+- [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/?utm_source=rss) 👤 alexwlchan.net 💬 3770 🔖 #inspiration 🗓️ 2025-05-19
 - [C++ to Rust Cheat-Sheet](https://corrode.dev/learn/migration-guides/cpp-to-rust/) 👤 Corrode Rust Consulting 💬 869 🔖 #rust 🗓️ 2025-05-18
 - [Notifications about (almost) anything with ntfy.sh](https://hamatti.org/posts/notifications-about-almost-anything-with-ntfy-sh/) 👤 Juha-Matti Santala 💬 684 🗓️ 2025-05-18
 - [For many, patience is the killer LLM feature](https://seangoedecke.com/patience-too-cheap-to-meter/) 👤 seangoedecke.com 💬 800 🔖 #llm 🗓️ 2025-05-18
