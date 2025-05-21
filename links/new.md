@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 770
+- Всего ссылок: 771
 
 ## Ссылки
 
+- [Python: a quick cProfile recipe with pstats](https://adamj.eu/tech/2025/05/20/python-quick-cprofile-recipe-pstats/) 👤 Adam Johnson 💬 1277 🔖 #python 🗓️ 2025-05-20
 - [Building charts in Vue with D3](https://dev.to/jacobandrewsky/building-charts-in-vue-with-d3-38gl) 👤 dev.to 💬 736 🔖 #vue 🗓️ 2025-05-19
 - [«Ведьмак 3: Дикая Охота»: как 10 лет назад в мучениях рождалась наша любимая игра](https://www.mirf.ru/games/vedmak-3-dikaya-ohota-istoriya-sozdaniya) 👤 mirf.ru 💬 1793 🗓️ 2025-05-19
 - [A Picture Is Worth More Than 20 Lines Of Code • The Applied Go Weekly Newsletter 2025-05-18](https://newsletter.appliedgo.net/archive/2025-05-18-a-picture-is-worth-more-than-20-lines-of-code/) 👤 The Applied Go Weekly Newsletter 💬 1822 🔖 #go 🗓️ 2025-05-19
