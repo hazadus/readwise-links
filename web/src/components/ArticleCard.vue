@@ -21,34 +21,55 @@ const formatDate = (date: string) => {
 
 <template>
   <div class="p-2 my-2 border rounded-lg overflow-hidden">
-    <!-- Заголовок и автор -->
-    <div class="flex items-center flex-wrap">
-      <a
-        v-if="note.source_url"
-        :href="note.source_url"
-        class="text-xl mr-4 p-2 text-blue-800 hover:underline break-words overflow-hidden"
-        target="_blank"
-        >{{ note.title }}</a
-      >
-      <a
-        v-else
-        :href="note.url"
-        class="text-xl mr-4 p-2 text-blue-800 hover:underline break-words overflow-hidden"
-        target="_blank"
-        >{{ note.title }}</a
-      >
-      <span class="text-gray-500 break-words">👤 {{ note.author }}</span>
-    </div>
-    <!-- Тэги -->
-    <div class="flex p-2 flex-wrap">
+    <!-- Основной контейнер с контентом и изображением -->
+    <div class="flex flex-wrap mb-1">
+      <!-- Левая колонка с заголовком, автором и тегами -->
+      <div class="flex-1 min-w-0 mr-2">
+        <!-- Заголовок и автор -->
+        <div class="flex items-center flex-wrap">
+          <a
+            v-if="note.source_url"
+            :href="note.source_url"
+            class="text-xl mr-4 p-2 text-blue-800 hover:underline break-words overflow-hidden"
+            target="_blank"
+            >{{ note.title }}</a
+          >
+          <a
+            v-else
+            :href="note.url"
+            class="text-xl mr-4 p-2 text-blue-800 hover:underline break-words overflow-hidden"
+            target="_blank"
+            >{{ note.title }}</a
+          >
+          <span class="text-gray-500 break-words ml-2 md:ml-0">👤 {{ note.author }}</span>
+        </div>
+        <!-- Тэги -->
+        <div class="flex p-2 flex-wrap">
+          <div
+            v-for="tag in note.tags"
+            :key="`tag-id-${tag?.name}-${tag?.created}`"
+            class="bg-gray-200 text-gray-700 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded mb-1"
+          >
+            {{ tag?.name }}
+          </div>
+        </div>
+      </div>
+
+      <!-- Изображение справа -->
       <div
-        v-for="tag in note.tags"
-        :key="`tag-id-${tag?.name}-${tag?.created}`"
-        class="bg-gray-200 text-gray-700 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded mb-1"
+        v-if="note.image_url"
+        class="flex-shrink-0 w-32 h-auto mr-2 self-start"
+        style="aspect-ratio: 3/2"
       >
-        {{ tag?.name }}
+        <img
+          :src="note.image_url"
+          alt="Article thumbnail"
+          class="w-full h-full object-cover rounded"
+        />
       </div>
     </div>
+
+    <!-- Остальной контент -->
     <!-- Заметка к посту -->
     <p
       v-if="note.notes"
