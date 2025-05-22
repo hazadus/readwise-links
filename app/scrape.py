@@ -16,8 +16,14 @@ ARCHIVE_DIR = "./scratch/archive"
 
 async def main():
     print("Scraping data...")
+
+    # TODO: загрузить список ссылок из файла "../web/src/assets/articles.json"
+
     url = "https://simonwillison.net/2025/May/21/chatgpt-new-memory/#atom-everything"
     page_id = "willison_post"
+
+    # TODO: проверять, что страница не была загружена ранее - по имени директории
+    # TODO: использовать asyncio.gather для параллельной загрузки
 
     await scrape_page(
         url=url,
@@ -36,27 +42,35 @@ async def scrape_page(
     if data is None:
         logger.error(f"Failed to download {url}")
         return
-    html = data.decode()
+    html = data.decode(encoding="utf-8")
 
     # Вытащить из страницы ссылки на изображения, JS, CSS
-    all_links = get_all_links_from_html(
+    links_map = get_all_links_from_html(
         url=url,
         html=html,
     )
 
     # Загрузить изображения, JS, CSS по ссылкам и сохранить в файлы в указанную директорию
+    all_links = list(links_map.values())
     names = await download_links(
         links=all_links,
         output_dir=output_dir,
     )
 
-    # TODO: заменить ссылки в HTML на локальные
+    # Заменить ссылки в HTML на локальные
+    for link in links_map.keys():
+        # Получаем имя файла, cначала получая абсолютную ссылку через исходную (из HTML)
+        absolute_link = links_map[link]
+        filename = names.get(absolute_link)
+        # Заменяем исходные ссылки в HTML на локальные имена файлов
+        html = html.replace(link, filename)
 
-    # TODO: сохранить изменённый HTML в файл
-
-    # Сохраняем страницу в файл
+    # Cохранить изменённый HTML в файл
     filepath = Path(output_dir) / "index.html"
-    await save_to_file(filepath=filepath, content=data)
+    await save_to_file(
+        filepath=filepath,
+        content=html.encode(encoding="utf-8"),
+    )
     logger.info(f"Saved {filepath}")
 
 
@@ -64,7 +78,7 @@ def get_all_links_from_html(
     *,
     url: str,
     html: str,
-) -> list[str]:
+) -> dict[str, str]:
     css_links = get_rel_links_from_html(
         html=html,
         rel_type="stylesheet",
@@ -79,11 +93,11 @@ def get_all_links_from_html(
     )
 
     # Формируем абсолютные ссылки
-    all_links = [
-        urljoin(url, link) if not link.startswith("http") else link
-        for link in css_links + img_links + js_links
-    ]
-    return all_links
+    # Ссылка из файла : полная ссылка
+    links_map = {}
+    for link in css_links + img_links + js_links:
+        links_map[link] = urljoin(url, link) if not link.startswith("http") else link
+    return links_map
 
 
 async def download_links(
@@ -91,7 +105,7 @@ async def download_links(
     links: list[str],
     output_dir: str,
 ) -> dict[str, str]:
-    links_to_names = {}
+    links_to_filenames = {}
     # TODO: использовать asyncio.gather для параллельной загрузки
     for link in links:
         filename = create_filename(url=link)
@@ -101,16 +115,16 @@ async def download_links(
         if data is None:
             logger.error(f"Failed to download {link}")
             # В случае ошибки, оставляем оригинальную ссылку
-            links_to_names[link] = link
+            links_to_filenames[link] = link
             continue
         await save_to_file(
             filepath=filepath,
             content=data,
         )
         # Сохраняем имя файла в словаре для замены в HTML
-        links_to_names[link] = filename
+        links_to_filenames[link] = filename
         logger.info(f"Saved {filepath}")
-    return links_to_names
+    return links_to_filenames
 
 
 def get_rel_links_from_html(

@@ -59,3 +59,4 @@ Reader объединяет в себе приложения нескольки�
 - [Получить API key](https://readwise.io/access_token)
 - [HTTPX](https://www.python-httpx.org/async/)
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [urllib.parse.urljoin](https://docs.python.org/3/library/urllib.parse.html#urllib.parse.urljoin)
