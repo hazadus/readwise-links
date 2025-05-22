@@ -56,12 +56,14 @@ const formatDate = (date: string) => {
         <!-- Превью изображения поста -->
         <div
           v-if="note.image_url"
-          class="ml-4 flex-shrink-0 w-24 h-auto rounded-md overflow-hidden border border-gray-200"
+          class="ml-4 flex-shrink-0 w-24 overflow-hidden border border-gray-200 rounded-md"
+          style="aspect-ratio: 3/2"
         >
           <img
             :src="note.image_url"
             alt="Article thumbnail"
             class="w-full h-full object-cover"
+            loading="lazy"
           />
         </div>
       </div>
