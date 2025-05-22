@@ -4,7 +4,9 @@ interface Tag {
   created: number;
 }
 
-declare interface Note {
+// В API Readwise Reader всё является документом: пост, highlight,
+// заметка к highlight, и имеет одинаковую структуру.
+declare interface ReadwiseDocument {
   id: string;
   url: string;
   source_url: string | null;
@@ -30,11 +32,15 @@ declare interface Note {
   first_opened_at: string | null;
   last_opened_at: string | null;
   last_moved_at: string;
-  highlights?: Note[];
-  notes_attached?: Note[];
+  // Эти два поля мы добавляем в своём Python-скрипте:
+  highlights?: ReadwiseDocument[];
+  notes_attached?: ReadwiseDocument[];
 }
 
+// Определяем тип для поста (ссылки на статьи и книги) в Readwise Reader
+type Article = ReadwiseDocument;
+
 declare module "@/assets/articles.json" {
-  const notes: Note[];
-  export default notes;
+  const articles: Article[];
+  export default articles;
 }

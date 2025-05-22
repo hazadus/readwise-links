@@ -1,10 +1,10 @@
 <script setup lang="ts">
 /**
- * Компонент для отображения карточки документа Readwise (поста с заметками к нему)
+ * Компонент для отображения карточки документа Readwise Reader (ссылки на пост, книгу с заметками к ней)
  */
 defineProps({
-  note: {
-    type: Object as () => Note,
+  article: {
+    type: Object as () => Article,
     required: true,
   },
 });
@@ -26,18 +26,18 @@ const formatDate = (date: string) => {
       <div class="flex flex-wrap items-start justify-between">
         <div class="flex-1 min-w-0">
           <a
-            v-if="note.source_url"
-            :href="note.source_url"
+            v-if="article.source_url"
+            :href="article.source_url"
             class="text-lg font-semibold text-blue-600 hover:text-blue-800 hover:underline break-words"
             target="_blank"
-            >{{ note.title }}</a
+            >{{ article.title }}</a
           >
           <a
             v-else
-            :href="note.url"
+            :href="article.url"
             class="text-lg font-semibold text-blue-600 hover:text-blue-800 hover:underline break-words"
             target="_blank"
-            >{{ note.title }}</a
+            >{{ article.title }}</a
           >
           <div class="mt-1 flex items-center text-sm text-gray-600">
             <svg
@@ -49,18 +49,18 @@ const formatDate = (date: string) => {
                 d="M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16zm.847-8.145a2.502 2.502 0 1 0-1.645 0C5.686 8.15 4.5 9.5 4.5 11c0 .5.5 1 1 1h5c.5 0 1-.5 1-1 0-1.5-1.186-2.85-2.653-3.145zM8 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"
               ></path>
             </svg>
-            <span>{{ note.author }}</span>
+            <span>{{ article.author }}</span>
           </div>
         </div>
 
         <!-- Превью изображения поста -->
         <div
-          v-if="note.image_url"
+          v-if="article.image_url"
           class="ml-4 flex-shrink-0 w-24 overflow-hidden border border-gray-200 rounded-md"
           style="aspect-ratio: 3/2"
         >
           <img
-            :src="note.image_url"
+            :src="article.image_url"
             alt="Превью"
             class="w-full h-full object-cover"
             loading="lazy"
@@ -73,11 +73,11 @@ const formatDate = (date: string) => {
     <div class="px-4 py-3">
       <!-- Тэги -->
       <div
-        v-if="note.tags"
+        v-if="article.tags"
         class="flex flex-wrap gap-1 mb-3"
       >
         <span
-          v-for="tag in note.tags"
+          v-for="tag in article.tags"
           :key="`tag-id-${tag?.name}-${tag?.created}`"
           class="inline-flex items-center rounded-full bg-blue-100 px-2.5 py-0.5 text-xs font-medium text-blue-700"
         >
@@ -87,7 +87,7 @@ const formatDate = (date: string) => {
 
       <!-- Заметка пользователя к посту -->
       <div
-        v-if="note.notes"
+        v-if="article.notes"
         class="mb-3 rounded-md bg-yellow-50 border border-yellow-200 px-3 py-2"
       >
         <div class="flex">
@@ -100,25 +100,25 @@ const formatDate = (date: string) => {
               d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25Zm1.75-.25a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-8.5a.25.25 0 0 0-.25-.25ZM3.5 6.25a.75.75 0 0 1 .75-.75h7a.75.75 0 0 1 0 1.5h-7a.75.75 0 0 1-.75-.75Zm.75 2.25h4a.75.75 0 0 1 0 1.5h-4a.75.75 0 0 1 0-1.5Z"
             ></path>
           </svg>
-          <div class="text-sm text-gray-700">{{ note.notes }}</div>
+          <div class="text-sm text-gray-700">{{ article.notes }}</div>
         </div>
       </div>
 
       <!-- Summary -->
       <div
-        v-if="note.summary"
+        v-if="article.summary"
         class="mb-3 rounded-md bg-gray-50 border border-gray-200 px-3 py-2 text-sm text-gray-700"
       >
-        {{ note.summary }}
+        {{ article.summary }}
       </div>
 
       <!-- Highlights -->
       <div
-        v-if="note.highlights && note.highlights.length"
+        v-if="article.highlights && article.highlights.length"
         class="space-y-2"
       >
         <div
-          v-for="hl in note.highlights"
+          v-for="hl in article.highlights"
           :key="`hl-id-${hl.id}`"
           class="border-l-4 border-green-300 bg-green-50 pl-3 py-2 pr-2 text-sm text-gray-700"
         >
@@ -163,7 +163,7 @@ const formatDate = (date: string) => {
               d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"
             ></path>
           </svg>
-          <span>Moved: {{ formatDate(note.last_moved_at) }}</span>
+          <span>Moved: {{ formatDate(article.last_moved_at) }}</span>
         </div>
         <div class="flex items-center">
           <svg
@@ -175,10 +175,10 @@ const formatDate = (date: string) => {
               d="M2 2h4.5a.5.5 0 0 1 0 1H2a.5.5 0 0 1 0-1Zm0 11h12a.5.5 0 0 1 0 1H2a.5.5 0 0 1 0-1Zm0-2.25h12a.5.5 0 0 1 0 1H2a.5.5 0 0 1 0-1ZM2.5 8c0-.28.22-.5.5-.5h11a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5ZM2 5h4.5a.5.5 0 0 1 0 1H2a.5.5 0 0 1 0-1Z"
             ></path>
           </svg>
-          <span>Saved: {{ formatDate(note.saved_at) }}</span>
+          <span>Saved: {{ formatDate(article.saved_at) }}</span>
         </div>
         <div
-          v-if="note.published_date"
+          v-if="article.published_date"
           class="flex items-center"
         >
           <svg
@@ -190,10 +190,10 @@ const formatDate = (date: string) => {
               d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"
             ></path>
           </svg>
-          <span>Published: {{ formatDate(note.published_date) }}</span>
+          <span>Published: {{ formatDate(article.published_date) }}</span>
         </div>
         <div
-          v-if="note.word_count"
+          v-if="article.word_count"
           class="flex items-center"
         >
           <svg
@@ -205,7 +205,7 @@ const formatDate = (date: string) => {
               d="M0 1.75A1.75 1.75 0 0 1 1.75 0h12.5A1.75 1.75 0 0 1 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM1.75 1.5a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25ZM3 5.75A.75.75 0 0 1 3.75 5h8.5a.75.75 0 0 1 0 1.5h-8.5A.75.75 0 0 1 3 5.75Zm0 4a.75.75 0 0 1 .75-.75h8.5a.75.75 0 0 1 0 1.5h-8.5A.75.75 0 0 1 3 9.75ZM3.75 3h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Z"
             ></path>
           </svg>
-          <span>{{ note.word_count }} words</span>
+          <span>{{ article.word_count }} words</span>
         </div>
       </div>
     </div>

@@ -4,14 +4,14 @@
  */
 import { useDebounceFn } from "@vueuse/core";
 import { computed, ref } from "vue";
-import noteData from "../assets/articles.json";
+import articlesData from "../assets/articles.json";
 import ArticleCard from "../components/ArticleCard.vue";
 
-const data: Note[] = noteData as Note[];
+const data: Article[] = articlesData as Article[];
 
-const newNotes = computed(() => data.filter((note) => note.location === "new"));
-const archivedNotes = computed(() => data.filter((note) => note.location === "archive"));
-const laterNotes = computed(() => data.filter((note) => note.location === "later"));
+const newArticles = computed(() => data.filter((article) => article.location === "new"));
+const archivedArticles = computed(() => data.filter((article) => article.location === "archive"));
+const laterArticles = computed(() => data.filter((article) => article.location === "later"));
 
 const filter = ref<string>("all");
 const searchQuery = ref<string>("");
@@ -31,42 +31,42 @@ const handleSearchInput = (event: Event) => {
   updateDebouncedSearch(value);
 };
 
-const filteredNotes = computed(() => {
+const filteredArticles = computed(() => {
   let result = data;
 
   // Применение основных фильтров (new, later, archive)
   if (filter.value === "later") {
-    result = laterNotes.value;
+    result = laterArticles.value;
   } else if (filter.value === "archive") {
-    result = archivedNotes.value;
+    result = archivedArticles.value;
   } else if (filter.value === "new") {
-    result = newNotes.value;
+    result = newArticles.value;
   }
 
   // Фильтр по наличию заметок
   if (hasNotes.value) {
-    result = result.filter((note) => note.notes && note.notes.trim() !== "");
+    result = result.filter((article) => article.notes && article.notes.trim() !== "");
   }
 
   // Фильтр по наличию highlights
   if (hasHighlights.value) {
-    result = result.filter((note) => note.highlights && note.highlights.length > 0);
+    result = result.filter((article) => article.highlights && article.highlights.length > 0);
   }
 
-  // Поиск по тексту (используем debouncedSearchQuery вместо searchQuery)
+  // Поиск по тексту
   if (debouncedSearchQuery.value.trim() !== "") {
     const query = debouncedSearchQuery.value.toLowerCase();
-    result = result.filter((note) => {
+    result = result.filter((article) => {
       // Поиск в заголовке
-      const titleMatch = note.title && note.title.toLowerCase().includes(query);
+      const titleMatch = article.title && article.title.toLowerCase().includes(query);
       // Поиск в summary
-      const summaryMatch = note.summary && note.summary.toLowerCase().includes(query);
+      const summaryMatch = article.summary && article.summary.toLowerCase().includes(query);
       // Поиск в заметках
-      const notesMatch = note.notes && note.notes.toLowerCase().includes(query);
+      const notesMatch = article.notes && article.notes.toLowerCase().includes(query);
       // Поиск в highlights
       const highlightsMatch =
-        note.highlights &&
-        note.highlights.some(
+        article.highlights &&
+        article.highlights.some(
           (h) =>
             (h.notes && h.notes.toLowerCase().includes(query)) ||
             (h.content && h.content.toLowerCase().includes(query)),
@@ -76,7 +76,7 @@ const filteredNotes = computed(() => {
     });
   }
 
-  // Сортировка заметок по last_moved_at по убыванию (от новых к старым)
+  // Сортировка постов по last_moved_at по убыванию (от новых к старым)
   return result.sort((a, b) => {
     const dateA = new Date(a.last_moved_at);
     const dateB = new Date(b.last_moved_at);
@@ -114,7 +114,7 @@ const filteredNotes = computed(() => {
       >
         New
         <span class="ml-2 bg-gray-100 text-gray-700 px-2 py-0.5 rounded-full text-xs">{{
-          newNotes.length
+          newArticles.length
         }}</span>
       </button>
       <button
@@ -128,7 +128,7 @@ const filteredNotes = computed(() => {
       >
         Later
         <span class="ml-2 bg-gray-100 text-gray-700 px-2 py-0.5 rounded-full text-xs">{{
-          laterNotes.length
+          laterArticles.length
         }}</span>
       </button>
       <button
@@ -142,7 +142,7 @@ const filteredNotes = computed(() => {
       >
         Archive
         <span class="ml-2 bg-gray-100 text-gray-700 px-2 py-0.5 rounded-full text-xs">{{
-          archivedNotes.length
+          archivedArticles.length
         }}</span>
       </button>
     </nav>
@@ -209,10 +209,8 @@ const filteredNotes = computed(() => {
   </div>
 
   <ArticleCard
-    v-for="note in filteredNotes"
-    :note="note"
-    :key="`note-id-${note.id}`"
+    v-for="article in filteredArticles"
+    :article="article"
+    :key="`article-id-${article.id}`"
   />
 </template>
-
-<style scoped></style>
