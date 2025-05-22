@@ -61,7 +61,7 @@ const formatDate = (date: string) => {
         >
           <img
             :src="note.image_url"
-            alt="Article thumbnail"
+            alt="Превью"
             class="w-full h-full object-cover"
             loading="lazy"
           />

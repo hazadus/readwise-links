@@ -76,7 +76,12 @@ const filteredNotes = computed(() => {
     });
   }
 
-  return result;
+  // Сортировка заметок по last_moved_at по убыванию (от новых к старым)
+  return result.sort((a, b) => {
+    const dateA = new Date(a.last_moved_at);
+    const dateB = new Date(b.last_moved_at);
+    return dateB.getTime() - dateA.getTime(); // По убыванию (новые в начале)
+  });
 });
 </script>
 
