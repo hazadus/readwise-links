@@ -2,6 +2,18 @@
 /**
  * Страница с информацией о проекте.
  */
+
+// Получаем время сборки приложения
+const buildTime = new Date(import.meta.env.BUILD_TIME);
+
+// Форматируем дату и время для отображения
+const formattedBuildTime = buildTime.toLocaleString("ru-RU", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+  hour: "2-digit",
+  minute: "2-digit",
+});
 </script>
 
 <template>
@@ -92,7 +104,7 @@
 
       <!-- Footer -->
       <div class="bg-gray-50 px-6 py-4 sm:px-10 border-t border-gray-200">
-        <p class="text-sm text-gray-500">
+        <p class="text-sm text-gray-500 mb-1">
           Проект с открытым исходным кодом. Более подробная информация доступна в
           <a
             href="https://github.com/hazadus/readwise-links"
@@ -101,6 +113,7 @@
             >GitHub репозитории</a
           >.
         </p>
+        <p class="text-xs text-gray-400">Последнее обновление: {{ formattedBuildTime }}</p>
       </div>
     </div>
   </div>

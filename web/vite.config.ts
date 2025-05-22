@@ -22,4 +22,8 @@ export default defineConfig({
   // Для корректной работы с GitHub Pages
   // Reference: https://vitejs.dev/guide/static-deploy.html#github-pages
   base: "/readwise-links/",
+  define: {
+    // Добавляем время сборки как глобальную переменную
+    "import.meta.env.BUILD_TIME": JSON.stringify(new Date().toISOString()),
+  },
 });
