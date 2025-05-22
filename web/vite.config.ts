@@ -19,4 +19,6 @@ export default defineConfig({
       external: ["@/assets/note.json"],
     },
   },
+  // Reference: https://vitejs.dev/guide/static-deploy.html#github-pages
+  base: "/readwise-links/",
 });
