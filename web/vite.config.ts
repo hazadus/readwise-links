@@ -19,6 +19,7 @@ export default defineConfig({
       external: ["@/assets/note.json"],
     },
   },
+  // Для корректной работы с GitHub Pages
   // Reference: https://vitejs.dev/guide/static-deploy.html#github-pages
   base: "/readwise-links/",
 });

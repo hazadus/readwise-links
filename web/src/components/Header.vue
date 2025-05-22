@@ -1,3 +1,9 @@
+<script setup lang="ts">
+/**
+ * Компонент заголовка страниц приложения.
+ */
+</script>
+
 <template>
   <header class="px-4 py-3 bg-gray-800 text-white shadow-md">
     <div class="container mx-auto flex flex-col md:flex-row md:items-center md:justify-between">
@@ -37,6 +43,15 @@
               >Архив заметок</router-link
             >
           </li>
+          <li class="flex items-center">
+            <router-link
+              to="/about"
+              class="px-3 py-1 rounded-md hover:bg-gray-700 transition-colors flex items-center"
+              active-class="bg-gray-700 font-medium"
+              exact
+              >Что это?</router-link
+            >
+          </li>
           <li>
             <a
               href="https://github.com/hazadus/readwise-links"
@@ -61,5 +76,3 @@
     </div>
   </header>
 </template>
-
-<script setup lang="ts"></script>
