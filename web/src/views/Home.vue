@@ -2,6 +2,7 @@
 /**
  * Страница для просмотра архива ссылок.
  */
+import { useDebounceFn } from "@vueuse/core";
 import { computed, ref } from "vue";
 import noteData from "../assets/articles.json";
 import ArticleCard from "../components/ArticleCard.vue";
@@ -14,8 +15,21 @@ const laterNotes = computed(() => data.filter((note) => note.location === "later
 
 const filter = ref<string>("all");
 const searchQuery = ref<string>("");
+const debouncedSearchQuery = ref<string>("");
 const hasNotes = ref<boolean>(false);
 const hasHighlights = ref<boolean>(false);
+
+// Применяем debounce к функции обновления debouncedSearchQuery
+const updateDebouncedSearch = useDebounceFn((value: string) => {
+  debouncedSearchQuery.value = value;
+}, 300);
+
+// Следим за изменениями в searchQuery и обновляем debouncedSearchQuery с задержкой
+const handleSearchInput = (event: Event) => {
+  const value = (event.target as HTMLInputElement).value;
+  searchQuery.value = value;
+  updateDebouncedSearch(value);
+};
 
 const filteredNotes = computed(() => {
   let result = data;
@@ -39,9 +53,9 @@ const filteredNotes = computed(() => {
     result = result.filter((note) => note.highlights && note.highlights.length > 0);
   }
 
-  // Поиск по тексту
-  if (searchQuery.value.trim() !== "") {
-    const query = searchQuery.value.toLowerCase();
+  // Поиск по тексту (используем debouncedSearchQuery вместо searchQuery)
+  if (debouncedSearchQuery.value.trim() !== "") {
+    const query = debouncedSearchQuery.value.toLowerCase();
     result = result.filter((note) => {
       // Поиск в заголовке
       const titleMatch = note.title && note.title.toLowerCase().includes(query);
@@ -157,7 +171,11 @@ const filteredNotes = computed(() => {
             type="search"
             class="w-full p-2 pl-10 text-sm text-gray-900 border border-gray-300 rounded-md bg-white focus:ring-2 focus:ring-blue-100 focus:border-blue-500 focus:outline-none"
             placeholder="Поиск по тексту..."
-            @keyup.esc="searchQuery = ''"
+            @input="handleSearchInput"
+            @keyup.esc="
+              searchQuery = '';
+              debouncedSearchQuery = '';
+            "
           />
         </div>
       </div>
