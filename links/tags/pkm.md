@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 18
 
 ## Ссылки
 
@@ -8,6 +8,12 @@
     > **Резюме:** The book "How to Take Smart Notes" by Sönke Ahrens emphasizes the importance of effective note-taking for improving writing, learning, and thinking. By using a slip-box system, individuals can organize their ideas and connect them, enhancing their understanding and creativity. This method promotes active engagement with material and transforms notes into a valuable resource for future writing.
 - [How I take work notes as a developer : Juha-Matti Santala](https://hamatti.org/posts/how-i-take-work-notes-as-a-developer/) 👤 Juha-Matti Santala 💬 1767 🔖 #pkm, #inspiration 🗓️ 2024-10-17
     > **Резюме:** The author, Juha-Matti Santala, discusses his note-taking system as a developer, which includes five types of notes: daily notes, meeting notes, running notes, topical notes, and a brag document. Each type serves a specific purpose, like tracking daily activities, documenting meetings, and reflecting on successes. This system helps him think clearly, learn, and improve productivity in his work.
+- [My Notion Blogging Kanban](https://daverupert.com/2021/09/my-notion-blogging-kanban/) 👤 daverupert.com 💬 954 🔖 #pkm, #writing 🗓️ 2025-05-21
+    > **Резюме:** The author struggled with managing over eighty incomplete blog post drafts and found it overwhelming. They created a Notion-based Kanban system to organize their ideas by status and tags, making it easier to track progress. This new workflow helps them stay prepared and organized, even if it doesn't make them a daily blogger.
+- [Obsidian Miscellany](https://tylersticka.com/journal/obsidian-miscellany/) 👤 Tyler Sticka 💬 936 🔖 #pkm 🗓️ 2025-05-21
+    > **Резюме:** The author, Tyler Sticka, has tried various note-taking apps over the years and currently prefers Obsidian for its cross-platform compatibility and Markdown file support. He enjoys customizing his setup with themes, plugins, and templates to enhance his note-taking experience. Although he has some wishes for future features, he finds Obsidian effective for his needs.
+- [Moving from Notion to Obsidian](https://daverupert.com/2025/05/notion-to-obsidian/) 👤 Dave Rupert 💬 2100 🔖 #pkm, #obsidian 🗓️ 2025-05-21
+    > **Резюме:** The author switched from Notion to Obsidian after seven years, finding Obsidian's customization options and community appealing. They appreciate the plugins that enhance their workflow and help organize their projects. However, they find Obsidian's editor a bit finicky compared to Notion.
 - [A Simple Note-Taking System for Managers](https://terriblesoftware.org/2025/02/17/a-simple-note-taking-system-for-managers/) 👤 Terrible Software 💬 376 🔖 #pkm, #management 🗓️ 2025-02-18
     > **Резюме:** The note-taking system helps managers track both positive and negative feedback easily. It involves two steps: gathering quick notes and processing them by urgency for discussions or performance check-ins. The key philosophy is to take notes, but not too many, and focus on mostly positive feedback.
 - [Building a Second Brain](private://read/01jc0ghvtcbj9g0vhkpv4s12w4) 👤 Tiago Forte 💬 70233 🔖 #pkm, #basb, #para, #outline, #inspiration, #productivity 🗓️ 2024-11-06

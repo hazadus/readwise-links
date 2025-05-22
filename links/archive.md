@@ -1,15 +1,21 @@
 # Архивные ссылки
 
-- Всего ссылок: 662
+- Всего ссылок: 668
 
 ## Ссылки
 
-- [ИИ-агенты — вот что действительно изменит разработку. Пишем ИИ-агент на Python, LangChain и GigaChat](https://youtube.com/watch?v=KFgwXXWT7sQ&si=9c1fWb9ps_90PRff) 👤 Диджитализируй! 🔖 #llm, #inspiration 🗓️ 2025-05-19
+- [Agile as Trauma](https://doriantaylor.com/agile-as-trauma) 👤 Dorian Taylor 💬 2781 🔖 #agile, #development 🗓️ 2025-05-21
+- [My Notion Blogging Kanban](https://daverupert.com/2021/09/my-notion-blogging-kanban/) 👤 daverupert.com 💬 954 🔖 #pkm, #writing 🗓️ 2025-05-21
+- [Obsidian Miscellany](https://tylersticka.com/journal/obsidian-miscellany/) 👤 Tyler Sticka 💬 936 🔖 #pkm 🗓️ 2025-05-21
+- [Practical AI techniques for daily engineering work](https://seangoedecke.com/practical-ai-techniques/) 👤 seangoedecke.com 💬 1120 🔖 #llm 🗓️ 2025-05-21
+- [Moving from Notion to Obsidian](https://daverupert.com/2025/05/notion-to-obsidian/) 👤 Dave Rupert 💬 2100 🔖 #pkm, #obsidian 🗓️ 2025-05-21
+- [ИИ-агенты — вот что действительно изменит разработку. Пишем ИИ-агент на Python, LangChain и GigaChat](https://youtube.com/watch?v=KFgwXXWT7sQ&si=9c1fWb9ps_90PRff) 👤 Диджитализируй! 🔖 #llm, #langchain, #inspiration 🗓️ 2025-05-19
     > **Заметка:** Интересный и вдохновляющий пример реализации простого агента для решения практической задачи.
 - [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/?utm_source=rss) 👤 alexwlchan.net 💬 3770 🔖 #inspiration 🗓️ 2025-05-19
 - [C++ to Rust Cheat-Sheet](https://corrode.dev/learn/migration-guides/cpp-to-rust/) 👤 Corrode Rust Consulting 💬 869 🔖 #rust 🗓️ 2025-05-18
 - [Notifications about (almost) anything with ntfy.sh](https://hamatti.org/posts/notifications-about-almost-anything-with-ntfy-sh/) 👤 Juha-Matti Santala 💬 684 🗓️ 2025-05-18
 - [For many, patience is the killer LLM feature](https://seangoedecke.com/patience-too-cheap-to-meter/) 👤 seangoedecke.com 💬 800 🔖 #llm 🗓️ 2025-05-18
+- [Why strong engineers are rarely blocked](https://seangoedecke.com/becoming-unblockable/) 👤 seangoedecke.com 💬 1657 🔖 #career, #development, #time management 🗓️ 2025-05-18
 - [Practical advice for engineers in these troubled times](https://seangoedecke.com/in-these-troubled-times/) 👤 seangoedecke.com 💬 1033 🔖 #career 🗓️ 2025-05-18
 - [Manage For Success, Not Comfort](https://terriblesoftware.org/2025/05/16/manage-for-success-not-comfort/) 👤 Terrible Software 💬 580 🔖 #management 🗓️ 2025-05-18
 - [What is Testcontainers, and why should you use it?](https://testcontainers.com/guides/introducing-testcontainers/) 👤 Testcontainers 💬 860 🔖 #docker, #testing 🗓️ 2025-05-15

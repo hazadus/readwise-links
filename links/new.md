@@ -1,9 +1,14 @@
 # Новые ссылки
 
-- Всего ссылок: 771
+- Всего ссылок: 776
 
 ## Ссылки
 
+- [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp) 👤 Henrik Kniberg 💬 4268 🗓️ 2025-05-21
+- [After months of coding with LLMs, I'm going back to using my brain](https://albertofortin.com/writing/coding-with-ai) 👤 Alberto 💬 1793 🔖 #llm 🗓️ 2025-05-21
+- [First Steps With LangChain](https://realpython.com/courses/first-steps-langchain/) 👤 Real Python 💬 129 🔖 #llm, #python, #langchain 🗓️ 2025-05-21
+- [LangGraph Complete Course for Beginners – Complex AI Agents](https://www.youtube.com/watch?v=jGg_1h0qzaM) 👤 freeCodeCamp.org 🔖 #llm, #langgraph 🗓️ 2025-05-21
+- [Threat Modeling Guide for Software Teams](https://martinfowler.com/articles/agile-threat-modelling.html) 👤 Jim Gumbley 💬 4981 🗓️ 2025-05-21
 - [Python: a quick cProfile recipe with pstats](https://adamj.eu/tech/2025/05/20/python-quick-cprofile-recipe-pstats/) 👤 Adam Johnson 💬 1277 🔖 #python 🗓️ 2025-05-20
 - [Building charts in Vue with D3](https://dev.to/jacobandrewsky/building-charts-in-vue-with-d3-38gl) 👤 dev.to 💬 736 🔖 #vue 🗓️ 2025-05-19
 - [«Ведьмак 3: Дикая Охота»: как 10 лет назад в мучениях рождалась наша любимая игра](https://www.mirf.ru/games/vedmak-3-dikaya-ohota-istoriya-sozdaniya) 👤 mirf.ru 💬 1793 🗓️ 2025-05-19

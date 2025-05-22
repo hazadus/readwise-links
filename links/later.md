@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 42
+- Всего ссылок: 41
 
 ## Ссылки
 
@@ -8,8 +8,6 @@
     > **Резюме:** The author created a script to create Safari webarchives from the command line. The script uses WKWebView and handles error checking for loading web pages. It can be customized with command-line arguments and is available on GitHub.
 - [Diffusion models explained simply](https://seangoedecke.com/diffusion-models-explained/) 👤 seangoedecke.com 💬 1775 🔖 #llm 🗓️ 2025-05-19
     > **Резюме:** Diffusion models generate images by starting with pure noise and gradually removing it based on the input caption. They differ from transformer models by working with images directly rather than sequences of tokens, allowing for flexibility in image quality and structure. While image and video diffusion models are well-developed, text-based diffusion models face unique challenges in adding and removing noise.
-- [Why strong engineers are rarely blocked](https://seangoedecke.com/becoming-unblockable/) 👤 seangoedecke.com 💬 1657 🗓️ 2025-05-18
-    > **Резюме:** Strong engineers face fewer blocks in their work by using strategies like managing multiple tasks and anticipating potential obstacles. They also know when to ask for help from their management to overcome external blockers. By prioritizing tasks and avoiding unnecessary political fights, they can maintain productivity and keep projects moving forward.
 - [Django Security Best Practices: A Comprehensive Guide for Software Engineers](https://corgea.com/Learn/django-security-best-practices-a-comprehensive-guid-for-software-engineers?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_285) 👤 corgea.com 💬 1030 🔖 #django 🗓️ 2025-05-17
     > **Резюме:** Corgea is an AI-powered security platform that automatically finds, triages, and fixes insecure code. Sign up today for free to try Corgea. 
 - [How To Launch Big Complex Projects](https://www.smashingmagazine.com/2025/05/how-launch-big-complex-projects/) 👤 https://www.smashingmagazine.com/author/vitaly-friedman/ 💬 1991 🗓️ 2025-05-17
