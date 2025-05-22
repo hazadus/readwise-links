@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [🔥uv — швейцарский нож Python-разработчика](https://youtu.be/0Osso8mLL-A) 👤 Диджитализируй! 🔖 #uv 🗓️ 2025-03-17
+    > **Резюме:** uv is a powerful package manager for Python developers that simplifies working with different Python versions and dependencies. It allows you to manage project environments without manually creating virtual environments. This tool is highly recommended for efficient dependency management in Python projects.
 - [My 2025 uv-based Python Project Layout for Production Apps](https://www.youtube.com/watch?v=mFyE9xgeKcA) 👤 Hynek Schlawack 🔖 #uv 🗓️ 2025-02-25
     > **Резюме:** The author discusses improvements in Python packaging and project setup in 2025, highlighting how these changes make deploying applications easier, especially with Docker containers. He emphasizes the importance of proper project structure and packaging to streamline development and deployment. The tutorial guides readers through creating a production-ready Python application step by step.
 - [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should?r=28tjlb&amp%3Butm_campaign=post&amp%3Butm_medium=web&triedRedirect=true) 👤 Bite Code! 💬 4384 🔖 #uv 🗓️ 2025-02-15

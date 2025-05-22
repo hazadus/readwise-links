@@ -4,17 +4,18 @@
 
 ## Ссылки
 
+- [Всё ещё ЛУЧШИЙ ШУТЕР? Обзор Doom: The Dark Ages I Битый Пиксель](https://www.youtube.com/watch?v=NJ_drb3o3wY) 👤 Битый Пиксель 🔖 #game 🗓️ 2025-05-22
 - [I really don’t like ChatGPT’s new memory feature](https://simonwillison.net/2025/May/21/chatgpt-new-memory/#atom-everything) 👤 Simon Willison 💬 2161 🔖 #llm 🗓️ 2025-05-22
 - [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp) 👤 Henrik Kniberg 💬 4268 🗓️ 2025-05-21
 - [After months of coding with LLMs, I'm going back to using my brain](https://albertofortin.com/writing/coding-with-ai) 👤 Alberto 💬 1793 🔖 #llm 🗓️ 2025-05-21
 - [First Steps With LangChain](https://realpython.com/courses/first-steps-langchain/) 👤 Real Python 💬 129 🔖 #llm, #python, #langchain 🗓️ 2025-05-21
-- [LangGraph Complete Course for Beginners – Complex AI Agents](https://www.youtube.com/watch?v=jGg_1h0qzaM) 👤 freeCodeCamp.org 🔖 #llm, #langgraph 🗓️ 2025-05-21
+- [LangGraph Complete Course for Beginners – Complex AI Agents](https://www.youtube.com/watch?v=jGg_1h0qzaM) 👤 freeCodeCamp.org 🔖 #llm, #agents, #langgraph 🗓️ 2025-05-21
 - [Threat Modeling Guide for Software Teams](https://martinfowler.com/articles/agile-threat-modelling.html) 👤 Jim Gumbley 💬 4981 🗓️ 2025-05-21
 - [Python: a quick cProfile recipe with pstats](https://adamj.eu/tech/2025/05/20/python-quick-cprofile-recipe-pstats/) 👤 Adam Johnson 💬 1277 🔖 #python 🗓️ 2025-05-20
 - [Building charts in Vue with D3](https://dev.to/jacobandrewsky/building-charts-in-vue-with-d3-38gl) 👤 dev.to 💬 736 🔖 #vue 🗓️ 2025-05-19
-- [«Ведьмак 3: Дикая Охота»: как 10 лет назад в мучениях рождалась наша любимая игра](https://www.mirf.ru/games/vedmak-3-dikaya-ohota-istoriya-sozdaniya) 👤 mirf.ru 💬 1793 🗓️ 2025-05-19
+- [«Ведьмак 3: Дикая Охота»: как 10 лет назад в мучениях рождалась наша любимая игра](https://www.mirf.ru/games/vedmak-3-dikaya-ohota-istoriya-sozdaniya) 👤 mirf.ru 💬 1793 🔖 #game 🗓️ 2025-05-19
 - [A Picture Is Worth More Than 20 Lines Of Code • The Applied Go Weekly Newsletter 2025-05-18](https://newsletter.appliedgo.net/archive/2025-05-18-a-picture-is-worth-more-than-20-lines-of-code/) 👤 The Applied Go Weekly Newsletter 💬 1822 🔖 #go 🗓️ 2025-05-19
-- [Functional options vs the builder pattern in Go](mailto:reader-forwarded-email/c93fae0180bb3e04c99f8e4bcdc39cb9) 👤 Jon Calhoun 💬 1548 🗓️ 2025-05-17
+- [Functional options vs the builder pattern in Go](mailto:reader-forwarded-email/c93fae0180bb3e04c99f8e4bcdc39cb9) 👤 Jon Calhoun 💬 1548 🔖 #go 🗓️ 2025-05-17
 - [21 Nuxt Tips You Need to Know](https://michaelnthiessen.com/21-nuxt-tips-you-need-to-know?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%94%A5+(216)+Component+design+patterns,+Nuxt%27s+new+data+layer,+and+more+-+17527805) 👤 michaelnthiessen.com 💬 3314 🔖 #nuxt 🗓️ 2025-05-17
 - [Compressing Images With Vite and Vsharp](https://masteringnuxt.com/blog/compressing-images-with-vite-and-vsharp?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(&utm_medium=email&utm_source=convertkit#214)%20Component%20Metadata,%20Smooth%20Dragging,%20and%20Conditionally%20Rendering%20Slots%20-%2017366125) 👤 masteringnuxt.com 💬 522 🔖 #nuxt, #vite 🗓️ 2025-05-17
 - [Сериалы и фильмы Кураж-Бамбей](https://telegra.ph/Serialy-i-filmy-Kurazh-Bambej-05-16) 👤 @kurajbambey 💬 374 🗓️ 2025-05-16
@@ -24,14 +25,14 @@
 - [Vite Crash Course – Frontend Build Tool](https://www.youtube.com/watch?v=do62-z3z6FM) 👤 freeCodeCamp.org 🗓️ 2025-05-15
 - [Notes](https://notes.jim-nielsen.com/) 👤 jim-nielsen.com 💬 122696 🗓️ 2025-05-13
 - [The Height EnigmaUnraveling the mystery of percentage-based heights in CSS](https://www.joshwcomeau.com/css/height-enigma/) 👤 Josh W. Comeau 💬 3403 🗓️ 2025-05-13
-- [FastAPI + Keycloak: Простая и безопасная авторизация в веб-приложении на примере реального проекта](https://habr.com/ru/companies/amvera/articles/907990/) 👤 Habr 💬 6602 🗓️ 2025-05-12
+- [FastAPI + Keycloak: Простая и безопасная авторизация в веб-приложении на примере реального проекта](https://habr.com/ru/companies/amvera/articles/907990/) 👤 Habr 💬 6602 🔖 #fastapi 🗓️ 2025-05-12
 - [Tupper's Formula • The Applied Go Weekly Newsletter 2025-05-11](https://newsletter.appliedgo.net/archive/2025-05-11-tuppers-formula/) 👤 The Applied Go Weekly Newsletter 💬 2098 🗓️ 2025-05-12
 - [Customize chat responses in VS Code](https://code.visualstudio.com/docs/copilot/copilot-customization#_instruction-files) 👤 Microsoft 💬 2753 🗓️ 2025-05-11
-- [How to Use Loguru for Simpler Python Logging](https://realpython.com/python-loguru/) 👤 Abdelhadi Dyouri 💬 7197 🗓️ 2025-05-10
+- [How to Use Loguru for Simpler Python Logging](https://realpython.com/python-loguru/) 👤 Abdelhadi Dyouri 💬 7197 🔖 #python 🗓️ 2025-05-10
 - [Using the Python subprocess Module](https://realpython.com/courses/python-subprocess-module/) 👤 Real Python 💬 192 🗓️ 2025-05-08
 - [Flattening Rust's Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/) 👤 Corrode Rust Consulting 💬 3042 🔖 #rust 🗓️ 2025-05-05
 - [Have Another Cup Of Tea • The Applied Go Weekly Newsletter 2025-05-04](https://newsletter.appliedgo.net/archive/2025-05-04-have-another-cup-of-tea/) 👤 The Applied Go Weekly Newsletter 💬 1732 🔖 #go 🗓️ 2025-05-04
-- [Generating a Dynamic Sitemap in Nuxt 3](https://masteringnuxt.com/blog/generating-a-dynamic-sitemap-in-nuxt-3?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 897 🗓️ 2025-04-30
+- [Generating a Dynamic Sitemap in Nuxt 3](https://masteringnuxt.com/blog/generating-a-dynamic-sitemap-in-nuxt-3?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 897 🔖 #nuxt 🗓️ 2025-04-30
 - [Handling File Uploads in Nuxt with useStorage](https://vueschool.io/articles/vuejs-tutorials/handling-file-uploads-in-nuxt-with-usestorage/?friend=MOKKAPPS) 👤 vueschool.io 💬 942 🗓️ 2025-04-30
 - [Bitfield Consulting](https://bitfieldconsulting.com/posts/getting-nothing-done) 👤 bitfieldconsulting.com 💬 37 🗓️ 2025-04-29
 - [/usr/bin/just do it](https://frankwiles.com/posts/just-do-it/) 👤 frankwiles.com 💬 1129 🔖 #cli, #try 🗓️ 2025-04-28
@@ -40,24 +41,23 @@
 - [Stop overbuilding evals](https://softwaredoug.com/blog/2025/04/26/stop-overbuilding-evals) 👤 Doug Turnbull 💬 788 🗓️ 2025-04-27
 - [The Anarchy: The Relentless Rise of the East India Company](https://seangoedecke.com/the-anarchy/) 👤 seangoedecke.com 💬 1963 🗓️ 2025-04-27
 - [Using Go's select Statement](mailto:reader-forwarded-email/f80d0306e4e3b5b38d5eafcb49124e4a) 👤 Jon Calhoun 💬 466 🗓️ 2025-04-23
-- [Личный ИИ-ассистент на ваших данных. Часть 2: Веб-интерфейс, авторизация и стриминг ответов от ИИ](https://habr.com/ru/companies/amvera/articles/902868) 👤 Habr 💬 4926 🗓️ 2025-04-22
+- [Личный ИИ-ассистент на ваших данных. Часть 2: Веб-интерфейс, авторизация и стриминг ответов от ИИ](https://habr.com/ru/companies/amvera/articles/902868) 👤 Habr 💬 4926 🔖 #llm, #try 🗓️ 2025-04-22
 - [So, I Wrote a Book](https://www.thecoder.cafe/p/100-go-mistakes) 👤 Teiva Harsanyi 💬 6233 🗓️ 2025-04-22
 - [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/) 👤 mcyoung.xyz 💬 5845 🔖 #go 🗓️ 2025-04-22
-- [AI assisted search-based research actually works now](https://simonwillison.net/2025/Apr/21/ai-assisted-search/#atom-everything) 👤 Simon Willison 💬 1139 🗓️ 2025-04-22
 - [Write, Build, Love, Repeat • The Applied Go Weekly Newsleetter 2025-04-20](https://newsletter.appliedgo.net/archive/2025-04-20-write-build-love-repeat/) 👤 The Applied Go Weekly Newsletter 💬 1500 🗓️ 2025-04-20
 - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices) 👤 anthropic.com 💬 4193 🗓️ 2025-04-20
 - [gRPC API Gateway: Bridging the Gap Between REST and gRPC](https://zuplo.com/blog/2025/04/09/grpc-api-gateway) 👤 Peyman Motrtazavi 💬 2001 🔖 #grpc 🗓️ 2025-04-18
-- [Все места охоты на монстров в Final Fantasy XVI](https://www.goha.ru/vse-mesta-ohoty-na-monstrov-v-final-fantasy-xvi-40mBD0) 👤 Zan 💬 281 🗓️ 2025-04-15
+- [Все места охоты на монстров в Final Fantasy XVI](https://www.goha.ru/vse-mesta-ohoty-na-monstrov-v-final-fantasy-xvi-40mBD0) 👤 Zan 💬 281 🔖 #game 🗓️ 2025-04-15
 - [Signals and Go's Context Type](mailto:reader-forwarded-email/8a53651a467aab634454cd535a35fa34) 👤 Jon Calhoun 💬 1009 🔖 #go 🗓️ 2025-04-15
 - [Super Mario Bros. Wonder: Pipe Dreams Do Come True](https://jefklakscodex.com/games/switch/super-mario-bros-wonder/) 👤 Brain Baking 💬 1167 🗓️ 2025-04-14
-- [Inscryption: Card Game Inception](https://jefklakscodex.com/games/switch/inscryption/) 👤 Brain Baking 💬 959 🗓️ 2025-04-14
+- [Inscryption: Card Game Inception](https://jefklakscodex.com/games/switch/inscryption/) 👤 Brain Baking 💬 959 🔖 #game 🗓️ 2025-04-14
 - [Проксирование из коробки: сравнительный анализ HAProxy, Envoy, Nginx, Caddy и Traefik](https://habr.com/ru/articles/900438/) 👤 Habr 💬 3008 🗓️ 2025-04-14
 - [Don't Run In Circles • The Applied Go Weekly Newsletter 2025-04-13](https://newsletter.appliedgo.net/archive/2025-04-13-dont-run-in-circles/) 👤 The Applied Go Weekly Newsletter 💬 2123 🗓️ 2025-04-13
 - [A Year of Rust in ClickHouse](https://clickhouse.com/blog/rust) 👤 ClickHouse 💬 2800 🔖 #rust 🗓️ 2025-04-13
 - [An Animated Introduction to Clojure – Learn Clojure Programming Basics](https://www.freecodecamp.org/news/learn-clojure-programming-basics/) 👤 freeCodeCamp.org 💬 2456 🔖 #clojure 🗓️ 2025-04-10
 - [Extracting Composables for Code Organization ​](https://vuejs.org/guide/reusability/composables.html) 👤 vuejs.org 💬 2447 🔖 #vue, #nuxt 🗓️ 2025-04-09
 - [Good practices and Design Patterns for Vue Composables](https://dev.to/jacobandrewsky/good-practices-and-design-patterns-for-vue-composables-24lk) 👤 dev.to 💬 1140 🔖 #vue, #nuxt 🗓️ 2025-04-09
-- [Stalker есть чему поучиться - ОБЗОР Atomfall I Битый Пиксель](https://youtube.com/watch?v=iuDYa6PDocM&si=Sz94s62KNMm_ovFz) 👤 Битый Пиксель 🗓️ 2025-04-09
+- [Stalker есть чему поучиться - ОБЗОР Atomfall I Битый Пиксель](https://youtube.com/watch?v=iuDYa6PDocM&si=Sz94s62KNMm_ovFz) 👤 Битый Пиксель 🔖 #game 🗓️ 2025-04-09
 - [23 June 1912 – 7 June 1954](https://samwho.dev/turing-machines/) 👤 samwho.dev 💬 2646 🗓️ 2025-04-09
 - [“Founder Mode” and the Art of Mythmaking](https://charity.wtf/2024/12/17/founder-mode-and-the-art-of-mythmaking/) 👤 mipsytipsy 💬 7163 🗓️ 2025-04-09
 - [Building a Real-time Dashboard with Flask and Svelte](https://testdriven.io/blog/flask-svelte/) 👤 Amir Tadrisi 💬 2931 🔖 #sse, #flask, #svelte 🗓️ 2025-04-08

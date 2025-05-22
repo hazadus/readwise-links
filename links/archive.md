@@ -9,7 +9,7 @@
 - [Obsidian Miscellany](https://tylersticka.com/journal/obsidian-miscellany/) 👤 Tyler Sticka 💬 936 🔖 #pkm 🗓️ 2025-05-21
 - [Practical AI techniques for daily engineering work](https://seangoedecke.com/practical-ai-techniques/) 👤 seangoedecke.com 💬 1120 🔖 #llm 🗓️ 2025-05-21
 - [Moving from Notion to Obsidian](https://daverupert.com/2025/05/notion-to-obsidian/) 👤 Dave Rupert 💬 2100 🔖 #pkm, #obsidian 🗓️ 2025-05-21
-- [ИИ-агенты — вот что действительно изменит разработку. Пишем ИИ-агент на Python, LangChain и GigaChat](https://youtube.com/watch?v=KFgwXXWT7sQ&si=9c1fWb9ps_90PRff) 👤 Диджитализируй! 🔖 #llm, #langchain, #inspiration 🗓️ 2025-05-19
+- [ИИ-агенты — вот что действительно изменит разработку. Пишем ИИ-агент на Python, LangChain и GigaChat](https://youtube.com/watch?v=KFgwXXWT7sQ&si=9c1fWb9ps_90PRff) 👤 Диджитализируй! 🔖 #llm, #agents, #langchain, #inspiration 🗓️ 2025-05-19
     > **Заметка:** Интересный и вдохновляющий пример реализации простого агента для решения практической задачи.
 - [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/?utm_source=rss) 👤 alexwlchan.net 💬 3770 🔖 #inspiration 🗓️ 2025-05-19
 - [C++ to Rust Cheat-Sheet](https://corrode.dev/learn/migration-guides/cpp-to-rust/) 👤 Corrode Rust Consulting 💬 869 🔖 #rust 🗓️ 2025-05-18

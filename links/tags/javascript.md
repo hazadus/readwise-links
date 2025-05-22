@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 8
 
 ## Ссылки
 
+- [JavaScript, what is this?](https://piccalil.li/blog/javascript-what-is-this/?ref=main-rss-feed) 👤 Mat “Wilto” Marquis 💬 3410 🔖 #javascript 🗓️ 2025-05-10
+    > **Резюме:** In JavaScript, the keyword "this" refers to the object that is currently executing the function, which is often the global object (window) unless specified otherwise. In strict mode, "this" can be undefined, making the behavior more predictable. Arrow functions have a different behavior, as "this" refers to the surrounding lexical context instead of the function's execution context.
+- [JavaScript, when is this?](https://piccalil.li/blog/javascript-when-is-this/?ref=main-rss-feed) 👤 Piccalilli 💬 1770 🔖 #javascript 🗓️ 2025-05-02
+    > **Резюме:** In JavaScript, the value of "this" depends on how a function is called, not how it is written. When a function is executed, JavaScript creates an execution context that determines the value of "this" based on the calling context. Understanding JavaScript's execution model is key to grasping how "this" works in different situations.
 - [Simplify sharing with built-in APIs and progressive enhancement](https://piccalil.li/blog/simplify-sharing-with-built-in-apis-and-progressive-enhancement/) 👤 Piccalilli 💬 2840 🔖 #javascript 🗓️ 2025-04-09
     > **Резюме:** The article discusses creating a custom HTML element, `<share-actions>`, for sharing URLs with built-in support for the Web Share and Clipboard APIs. It explains how to conditionally render buttons based on browser support and provides user feedback through alert elements. This approach ensures that only functional buttons are displayed, enhancing user experience without cluttering the interface.
 - [Importing a frontend Javascript library without a build system](https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/) 👤 Julia Evans 💬 2139 🔖 #javascript 🗓️ 2024-11-19

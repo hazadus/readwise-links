@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 31
+- Всего ссылок: 32
 
 ## Ссылки
 
@@ -8,6 +8,8 @@
     > **Резюме:** I spent weeks scouring the Nuxt docs to uncover hidden gems — features you didn’t know it had, and ones that are simply easy to forget about.
 - [Compressing Images With Vite and Vsharp](https://masteringnuxt.com/blog/compressing-images-with-vite-and-vsharp?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(&utm_medium=email&utm_source=convertkit#214)%20Component%20Metadata,%20Smooth%20Dragging,%20and%20Conditionally%20Rendering%20Slots%20-%2017366125) 👤 masteringnuxt.com 💬 522 🔖 #nuxt, #vite 🗓️ 2025-05-17
     > **Резюме:** This article explains how to speed up web pages in Nuxt by compressing images. It demonstrates how to use the Vite plugin vsharp to automatically optimize images during the build process. By following simple steps, you can ensure your images are smaller and improve page load times.
+- [Generating a Dynamic Sitemap in Nuxt 3](https://masteringnuxt.com/blog/generating-a-dynamic-sitemap-in-nuxt-3?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 897 🔖 #nuxt 🗓️ 2025-04-30
+    > **Резюме:** This article explains how to create a dynamic sitemap for a Nuxt 3 project, which is important for improving SEO. It covers setting up server routes, discovering pages automatically, and adding URLs while excluding certain paths. By using these techniques, you can build a comprehensive sitemap that helps search engines index your site effectively.
 - [Extracting Composables for Code Organization ​](https://vuejs.org/guide/reusability/composables.html) 👤 vuejs.org 💬 2447 🔖 #vue, #nuxt 🗓️ 2025-04-09
     > **Резюме:** Vue.js - The Progressive JavaScript Framework
 - [Good practices and Design Patterns for Vue Composables](https://dev.to/jacobandrewsky/good-practices-and-design-patterns-for-vue-composables-24lk) 👤 dev.to 💬 1140 🔖 #vue, #nuxt 🗓️ 2025-04-09

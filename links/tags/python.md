@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 53
+- Всего ссылок: 54
 
 ## Ссылки
 
@@ -11,6 +11,8 @@
 - [Getting started with Testcontainers for Python](https://testcontainers.com/guides/getting-started-with-testcontainers-for-python/) 👤 Testcontainers 💬 1181 🔖 #docker, #python, #testing 🗓️ 2025-05-15
     > **Резюме:** Testcontainers is an open-source framework that allows developers to easily create and manage temporary Docker containers for testing applications, such as using a PostgreSQL database. By integrating Testcontainers with Python, developers can run tests against a real database instead of using mocks, ensuring more reliable results. This guide walks through creating a Python application, setting up a PostgreSQL database, and writing tests using Testcontainers.
 - [Вопросы с собеседований на Python Developer](https://easyoffer.ru/rating/python_developer) 👤 easyoffer.ru 💬 17 🔖 #python, #interview 🗓️ 2025-05-14
+- [How to Use Loguru for Simpler Python Logging](https://realpython.com/python-loguru/) 👤 Abdelhadi Dyouri 💬 7197 🔖 #python 🗓️ 2025-05-10
+    > **Резюме:** Loguru is a Python library that simplifies logging by providing a ready-to-use interface, unlike the built-in logging module. It supports structured logging, offers various log levels, and allows for easy customization of log formats and file management. With Loguru, you can start logging immediately and efficiently handle errors with detailed information.
 - [The next big thing in Python](https://www.bitecode.dev/p/the-next-big-thing-in-python) 👤 Bite Code! 💬 2183 🔖 #python 🗓️ 2025-04-23
     > **Резюме:** Python remains relevant in 2025 due to its steady evolution and strong community support, despite challenges from other languages. It is unlikely to become a major player in client-side web development or the video game industry, as those areas are dominated by languages like JavaScript and Lua. However, Python has potential for growth in mobile development and could benefit from advancements in performance and usability.
 - [What's up python? Less perf, no sugar and more bugs](https://www.bitecode.dev/p/whats-up-python-less-perf-no-sugar) 👤 Bite Code! 💬 1282 🔖 #python 🗓️ 2025-04-02

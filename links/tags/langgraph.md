@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [LangGraph Complete Course for Beginners – Complex AI Agents](https://www.youtube.com/watch?v=jGg_1h0qzaM) 👤 freeCodeCamp.org 🔖 #llm, #langgraph 🗓️ 2025-05-21
+- [LangGraph Complete Course for Beginners – Complex AI Agents](https://www.youtube.com/watch?v=jGg_1h0qzaM) 👤 freeCodeCamp.org 🔖 #llm, #agents, #langgraph 🗓️ 2025-05-21
     > **Резюме:** Welcome to this video course on LangGraph, the powerful Python library for building advanced conversational AI workflows. In this course, Vaibhav Mehra will teach you how to design, implement, and manage complex dialogue systems using a graph-based approach. By the end, you'll be equipped to build robust, scalable conversational applications that leverage the full potential of large language models.
 
 Code: https://github.com/Vaibhav807/LangGraph-Course

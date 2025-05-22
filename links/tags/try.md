@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 26
+- Всего ссылок: 27
 
 ## Ссылки
 
 - [/usr/bin/just do it](https://frankwiles.com/posts/just-do-it/) 👤 frankwiles.com 💬 1129 🔖 #cli, #try 🗓️ 2025-04-28
     > **Резюме:** just is a better way of documenting project specific commands than using a Makefile or a folder full of scripts. It is easy to get started with, powerful for the long haul, and written in Rust.
+- [Личный ИИ-ассистент на ваших данных. Часть 2: Веб-интерфейс, авторизация и стриминг ответов от ИИ](https://habr.com/ru/companies/amvera/articles/902868) 👤 Habr 💬 4926 🔖 #llm, #try 🗓️ 2025-04-22
+    > **Резюме:** The article continues exploring the development of a personal AI assistant using your own data. It covers topics like user authorization, API logic, and integrating neural networks. The project aims to be transparent and simple, making it easy for users to understand and build upon.
 - [Centrifugo v6 + FastAPI + Python: разрабатываем веб-опросник с обновлениями в реальном времени](https://habr.com/ru/companies/amvera/articles/885714/) 👤 Хабр 💬 5239 🔖 #try, #fastapi 🗓️ 2025-02-27
     > **Резюме:** The article explains how to create a real-time web survey application using Centrifugo and FastAPI. It covers both theoretical concepts and practical implementation, including generating JWT tokens and connecting to Centrifugo. The project allows users to see responses update dynamically without needing to refresh the page.
 - [Вебсокеты на FastAPI: Реализация простого чата с комнатами за 20 минут](https://habr.com/ru/companies/amvera/articles/884816/) 👤 Хабр 💬 3630 🔖 #try, #fastapi, #websocket 🗓️ 2025-02-24

@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 187
+- Всего ссылок: 188
 
 ## Ссылки
 
 - [A Picture Is Worth More Than 20 Lines Of Code • The Applied Go Weekly Newsletter 2025-05-18](https://newsletter.appliedgo.net/archive/2025-05-18-a-picture-is-worth-more-than-20-lines-of-code/) 👤 The Applied Go Weekly Newsletter 💬 1822 🔖 #go 🗓️ 2025-05-19
     > **Резюме:** The newsletter discusses how to display images in the Go Playground, highlighting that it can render images by using base64 encoding. It shares code examples to create and scale a Tupper's formula image, demonstrating a more visual approach than ASCII art. Additionally, the newsletter features articles, podcasts, and tools related to Go programming.
+- [Functional options vs the builder pattern in Go](mailto:reader-forwarded-email/c93fae0180bb3e04c99f8e4bcdc39cb9) 👤 Jon Calhoun 💬 1548 🔖 #go 🗓️ 2025-05-17
+    > **Резюме:** This text compares the builder pattern and functional options in Go programming. Functional options use functions to set configuration values, making error handling cleaner and reducing the chance of ignoring errors. While functional options can improve certain libraries, they may also be less beginner-friendly and harder to navigate in documentation.
 - [Centralize HTTP Error Handling in Go](https://www.alexisbouchez.com/blog/http-error-handling-in-go) 👤 alexisbouchez.com 💬 448 🔖 #go 🗓️ 2025-05-16
     > **Резюме:** This article explains how to centralize HTTP error handling in Go to reduce repetitive code in handlers. By returning errors instead of handling them directly, developers can create cleaner and more maintainable code. The author provides a structured pattern that includes defining custom HTTP errors and using a handler wrapper for efficient error management.
 - [Circuit Breaker in Go apps](https://mfbmina.dev/en/posts/golang-circuit-breaker/) 👤 Matheus Mina 💬 680 🔖 #go 🗓️ 2025-05-16
