@@ -2,6 +2,8 @@
 /**
  * Компонент для отображения карточки документа Readwise Reader (ссылки на пост, книгу с заметками к ней)
  */
+import Tag from "./Tag.vue";
+
 defineProps({
   article: {
     type: Object as () => Article,
@@ -76,13 +78,11 @@ const formatDate = (date: string) => {
         v-if="article.tags"
         class="flex flex-wrap gap-1 mb-3"
       >
-        <span
+        <Tag
           v-for="tag in article.tags"
+          :name="tag?.name || 'Неизвестно'"
           :key="`tag-id-${tag?.name}-${tag?.created}`"
-          class="inline-flex items-center rounded-full bg-blue-100 px-2.5 py-0.5 text-xs font-medium text-blue-700"
-        >
-          {{ tag?.name }}
-        </span>
+        />
       </div>
 
       <!-- Заметка пользователя к посту -->
