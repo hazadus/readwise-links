@@ -12,7 +12,8 @@ defineProps({
 
 <template>
   <span
-    class="inline-flex items-center rounded-full bg-blue-100 px-2.5 py-0.5 text-xs font-medium text-blue-700"
+    class="inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium bg-blue-100 text-blue-700"
+    @click="$emit('click')"
   >
     {{ name }}
   </span>

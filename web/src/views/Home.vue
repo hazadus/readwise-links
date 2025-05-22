@@ -6,6 +6,7 @@ import { useDebounceFn } from "@vueuse/core";
 import { computed, ref } from "vue";
 import articlesData from "../assets/articles.json";
 import ArticleCard from "../components/ArticleCard.vue";
+import TagFilter from "../components/TagFilter.vue";
 
 const data: Article[] = articlesData as Article[];
 
@@ -18,6 +19,7 @@ const searchQuery = ref<string>("");
 const debouncedSearchQuery = ref<string>("");
 const hasNotes = ref<boolean>(false);
 const hasHighlights = ref<boolean>(false);
+const selectedTags = ref<string[]>([]);
 
 // Применяем debounce к функции обновления debouncedSearchQuery
 const updateDebouncedSearch = useDebounceFn((value: string) => {
@@ -53,6 +55,21 @@ const filteredArticles = computed(() => {
     result = result.filter((article) => article.highlights && article.highlights.length > 0);
   }
 
+  // Фильтр по выбранным тегам
+  if (selectedTags.value.length > 0) {
+    result = result.filter((article) => {
+      if (!article.tags) return false;
+
+      // Получаем все имена тегов статьи
+      const articleTagNames = Object.values(article.tags)
+        .filter((tag) => tag) // Фильтрация null/undefined значений
+        .map((tag) => tag!.name);
+
+      // Проверяем, содержит ли статья все выбранные теги
+      return selectedTags.value.every((tag) => articleTagNames.includes(tag));
+    });
+  }
+
   // Поиск по тексту
   if (debouncedSearchQuery.value.trim() !== "") {
     const query = debouncedSearchQuery.value.toLowerCase();
@@ -83,6 +100,27 @@ const filteredArticles = computed(() => {
     return dateB.getTime() - dateA.getTime(); // По убыванию (новые в начале)
   });
 });
+
+// Получаем уникальные теги из отфильтрованных документов
+const availableTags = computed(() =>
+  filteredArticles.value.reduce((acc: string[], article) => {
+    if (article.tags) {
+      // Получаем массив ключей
+      const tagKeys = Object.keys(article.tags);
+
+      // Перебираем ключи
+      tagKeys.forEach((key) => {
+        const tag = article.tags![key];
+        if (tag) {
+          if (!acc.includes(tag.name)) {
+            acc.push(tag.name);
+          }
+        }
+      });
+    }
+    return acc;
+  }, []),
+);
 </script>
 
 <template>
@@ -207,6 +245,12 @@ const filteredArticles = computed(() => {
       </div>
     </div>
   </div>
+
+  <!-- Компонент фильтра по тегам -->
+  <TagFilter
+    :available-tags="availableTags"
+    v-model="selectedTags"
+  />
 
   <ArticleCard
     v-for="article in filteredArticles"
