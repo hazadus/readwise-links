@@ -6,10 +6,9 @@
 - отчеты в формате Markdown. Отчёты создаются для каждой локации (new, later,
 shortlist, archive) и для каждого тега (в поддиректории "tags" заданной для
 отчетов директории).
-- дампы всех заметок и выделений в формате JSON, сохраняется в отдельных файлах
-в указанной директории.
-- дамп статей у которых есть заметки и выделения в формате JSON, сохраняется в
-"./web/src/assets/articles.json" для использования во фронтовом приложении.
+- дамп всех ссылок с добавлением highlights и заметок к ним в формате JSON,
+сохраняется в "./web/src/assets/articles.json" для использования во фронтовом
+приложении.
 
 Пример использования:
     uv run ./app/main.py --api-key your_api_key --dir ./reports
@@ -20,7 +19,7 @@ import argparse
 from schemas.readwise import ReadwiseDocument
 from services.readwise import fetch_reader_document_list_api
 
-from reports import create_dumps, create_reports, dump_docs_with_notes_and_highlights
+from reports import create_reports, dump_docs_to_json
 
 
 def main():
@@ -45,14 +44,10 @@ def main():
         token=args.api_key,
     )
 
-    # Сохраняем дампы и отчеты
-    dump_docs_with_notes_and_highlights(
+    # Сохраняем дамп и отчеты
+    dump_docs_to_json(
         all_docs=all_docs,
         dir="./web/src/assets",
-    )
-    create_dumps(
-        all_docs=all_docs,
-        dir=args.dir,
     )
     create_reports(
         all_docs=all_docs,

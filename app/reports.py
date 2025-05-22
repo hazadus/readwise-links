@@ -1,3 +1,5 @@
+"""Создание отчетов и дампов документов Readwise в формате JSON и Markdown."""
+
 import json
 from datetime import datetime
 from pathlib import Path
@@ -71,52 +73,19 @@ def create_reports(
         print(f"✅ Отчет для тега '{tag}' сохранен в '{filepath}'")
 
 
-def create_dumps(
+def dump_docs_to_json(
     *,
     all_docs: list[ReadwiseDocument],
     dir: str,
 ):
     """
-    Создает дампы в формате JSON для категорий note, highlight документа.
-    Сохраняет дампы в указанной директории в файлы с именами,
-    соответствующими category документа.
-
-    :param all_docs: Список всех документов Readwise
-    :param dir: Директория для сохранения дампов
-    :return: None
-    """
-    categories = [
-        "note",
-        "highlight",
-    ]
-
-    for cat in categories:
-        print(f"🚀 Создаю JSON-дамп для '{cat}'...")
-        highlights = [doc for doc in all_docs if doc.category == cat]
-        filepath = Path(dir) / f"{cat}.json"
-        filepath.parent.mkdir(parents=True, exist_ok=True)
-        save_as_json(
-            documents=highlights,
-            filepath=filepath,
-        )
-        print(f"✅ JSON для '{cat}' сохранен в '{filepath}'")
-
-
-def dump_docs_with_notes_and_highlights(
-    *,
-    all_docs: list[ReadwiseDocument],
-    dir: str,
-):
-    """
-    Создает дамп документов с заметками и highlights в формате JSON.
-    Сохраняет дамп в указанной директории в файл articles.json.
+    Создает дамп документов в формате JSON в указанной директории
+    в файл articles.json.
 
     :param all_docs: Список всех документов Readwise
     :param dir: Директория для сохранения дампа
     :return: None
     """
-    print("🚀 Качаю все документы...")
-
     print("🚀 Делаю мапу...")
     hashmap = {}
     for doc in all_docs:
@@ -153,15 +122,12 @@ def dump_docs_with_notes_and_highlights(
             else:
                 hashmap[doc["parent_id"]]["highlights"].append(doc)
 
-    # Оставляем только документы, у которых нет родителя но есть highlights
+    # Оставляем только документы, у которых нет родителя
     root_docs = []
     for doc_id in hashmap.keys():
         doc = hashmap[doc_id]
         has_no_parent = doc["parent_id"] is None
-        has_highlights = (
-            doc.get("highlights", []) and len(doc.get("highlights", [])) > 0
-        )
-        if has_no_parent and has_highlights:
+        if has_no_parent:
             root_docs.append(doc)
 
     # Делаем дамп полученных доков в файл JSON
