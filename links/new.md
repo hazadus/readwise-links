@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 776
+- Всего ссылок: 777
 
 ## Ссылки
 
+- [I really don’t like ChatGPT’s new memory feature](https://simonwillison.net/2025/May/21/chatgpt-new-memory/#atom-everything) 👤 Simon Willison 💬 2161 🔖 #llm 🗓️ 2025-05-22
 - [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp) 👤 Henrik Kniberg 💬 4268 🗓️ 2025-05-21
 - [After months of coding with LLMs, I'm going back to using my brain](https://albertofortin.com/writing/coding-with-ai) 👤 Alberto 💬 1793 🔖 #llm 🗓️ 2025-05-21
 - [First Steps With LangChain](https://realpython.com/courses/first-steps-langchain/) 👤 Real Python 💬 129 🔖 #llm, #python, #langchain 🗓️ 2025-05-21

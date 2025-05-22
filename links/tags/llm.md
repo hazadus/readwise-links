@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 76
+- Всего ссылок: 77
 
 ## Ссылки
 
+- [I really don’t like ChatGPT’s new memory feature](https://simonwillison.net/2025/May/21/chatgpt-new-memory/#atom-everything) 👤 Simon Willison 💬 2161 🔖 #llm 🗓️ 2025-05-22
+    > **Резюме:** The author expresses frustration with ChatGPT's new memory feature, which allows the AI to reference past conversations for personalized responses. They highlight concerns about losing control over what information is remembered and the potential impact on future interactions. The author wishes for a more customizable memory option that allows users to manage which past chats are considered in ongoing conversations.
 - [Practical AI techniques for daily engineering work](https://seangoedecke.com/practical-ai-techniques/) 👤 seangoedecke.com 💬 1120 🔖 #llm 🗓️ 2025-05-21
     > **Резюме:** The author shares practical AI techniques for experienced software engineers, focusing on how to use AI for second opinions and quick debugging scripts. By leveraging AI's strengths, engineers can simplify complex code or generate short programs to automate debugging tasks. Additional tips include using AI to find evidence for arguments and to help with unfamiliar technical tasks, but these are secondary to the main techniques.
 - [After months of coding with LLMs, I'm going back to using my brain](https://albertofortin.com/writing/coding-with-ai) 👤 Alberto 💬 1793 🔖 #llm 🗓️ 2025-05-21
