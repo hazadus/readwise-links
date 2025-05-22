@@ -150,7 +150,7 @@ const formatDate = (date: string) => {
       </div>
     </div>
 
-    <!-- Футер с датами -->
+    <!-- Футер с датами и количеством слов -->
     <div class="border-t border-gray-200 bg-gray-50 px-4 py-2">
       <div class="flex flex-wrap gap-x-4 gap-y-1 text-xs text-gray-600">
         <div class="flex items-center">
@@ -191,6 +191,21 @@ const formatDate = (date: string) => {
             ></path>
           </svg>
           <span>Published: {{ formatDate(note.published_date) }}</span>
+        </div>
+        <div
+          v-if="note.word_count"
+          class="flex items-center"
+        >
+          <svg
+            class="h-3.5 w-3.5 mr-1"
+            viewBox="0 0 16 16"
+            fill="currentColor"
+          >
+            <path
+              d="M0 1.75A1.75 1.75 0 0 1 1.75 0h12.5A1.75 1.75 0 0 1 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM1.75 1.5a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25ZM3 5.75A.75.75 0 0 1 3.75 5h8.5a.75.75 0 0 1 0 1.5h-8.5A.75.75 0 0 1 3 5.75Zm0 4a.75.75 0 0 1 .75-.75h8.5a.75.75 0 0 1 0 1.5h-8.5A.75.75 0 0 1 3 9.75ZM3.75 3h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Z"
+            ></path>
+          </svg>
+          <span>{{ note.word_count }} words</span>
         </div>
       </div>
     </div>
