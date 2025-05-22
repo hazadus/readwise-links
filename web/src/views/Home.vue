@@ -1,4 +1,7 @@
 <script setup lang="ts">
+/**
+ * Страница для просмотра архива ссылок.
+ */
 import { computed, ref } from "vue";
 import noteData from "../assets/articles.json";
 import ArticleCard from "../components/ArticleCard.vue";
@@ -10,16 +13,56 @@ const archivedNotes = computed(() => data.filter((note) => note.location === "ar
 const laterNotes = computed(() => data.filter((note) => note.location === "later"));
 
 const filter = ref<string>("all");
+const searchQuery = ref<string>("");
+const hasNotes = ref<boolean>(false);
+const hasHighlights = ref<boolean>(false);
 
 const filteredNotes = computed(() => {
+  let result = data;
+
+  // Применение основных фильтров (new, later, archive)
   if (filter.value === "later") {
-    return laterNotes.value;
+    result = laterNotes.value;
   } else if (filter.value === "archive") {
-    return archivedNotes.value;
+    result = archivedNotes.value;
   } else if (filter.value === "new") {
-    return newNotes.value;
+    result = newNotes.value;
   }
-  return data;
+
+  // Фильтр по наличию заметок
+  if (hasNotes.value) {
+    result = result.filter((note) => note.notes && note.notes.trim() !== "");
+  }
+
+  // Фильтр по наличию highlights
+  if (hasHighlights.value) {
+    result = result.filter((note) => note.highlights && note.highlights.length > 0);
+  }
+
+  // Поиск по тексту
+  if (searchQuery.value.trim() !== "") {
+    const query = searchQuery.value.toLowerCase();
+    result = result.filter((note) => {
+      // Поиск в заголовке
+      const titleMatch = note.title && note.title.toLowerCase().includes(query);
+      // Поиск в summary
+      const summaryMatch = note.summary && note.summary.toLowerCase().includes(query);
+      // Поиск в заметках
+      const notesMatch = note.notes && note.notes.toLowerCase().includes(query);
+      // Поиск в highlights
+      const highlightsMatch =
+        note.highlights &&
+        note.highlights.some(
+          (h) =>
+            (h.notes && h.notes.toLowerCase().includes(query)) ||
+            (h.content && h.content.toLowerCase().includes(query)),
+        );
+
+      return titleMatch || summaryMatch || notesMatch || highlightsMatch;
+    });
+  }
+
+  return result;
 });
 </script>
 
@@ -84,6 +127,62 @@ const filteredNotes = computed(() => {
         }}</span>
       </button>
     </nav>
+  </div>
+
+  <!-- Фильтры и поиск -->
+  <div class="border border-gray-200 rounded-md mb-4 p-4 bg-gray-50">
+    <div class="flex flex-col md:flex-row gap-3">
+      <!-- Поиск -->
+      <div class="w-full md:w-1/2">
+        <div class="relative">
+          <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
+            <svg
+              class="w-4 h-4 text-gray-500"
+              aria-hidden="true"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 20 20"
+            >
+              <path
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z"
+              />
+            </svg>
+          </div>
+          <input
+            v-model="searchQuery"
+            type="search"
+            class="w-full p-2 pl-10 text-sm text-gray-900 border border-gray-300 rounded-md bg-white focus:ring-2 focus:ring-blue-100 focus:border-blue-500 focus:outline-none"
+            placeholder="Поиск по тексту..."
+            @keyup.esc="searchQuery = ''"
+          />
+        </div>
+      </div>
+
+      <!-- Фильтры -->
+      <div class="flex items-center gap-3">
+        <label class="inline-flex items-center cursor-pointer">
+          <input
+            v-model="hasNotes"
+            type="checkbox"
+            class="w-4 h-4 text-blue-600 rounded focus:ring-blue-500 cursor-pointer"
+          />
+          <span class="ml-2 text-sm text-gray-700">Есть заметка</span>
+        </label>
+
+        <label class="inline-flex items-center cursor-pointer">
+          <input
+            v-model="hasHighlights"
+            type="checkbox"
+            class="w-4 h-4 text-blue-600 rounded focus:ring-blue-500 cursor-pointer"
+          />
+          <span class="ml-2 text-sm text-gray-700">Есть highlights</span>
+        </label>
+      </div>
+    </div>
   </div>
 
   <ArticleCard
