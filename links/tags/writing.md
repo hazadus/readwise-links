@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [My Notion Blogging Kanban](https://daverupert.com/2021/09/my-notion-blogging-kanban/) 👤 daverupert.com 💬 954 🔖 #pkm, #writing 🗓️ 2025-05-21
+    > **Резюме:** The author struggled with managing over eighty incomplete blog post drafts and found it overwhelming. They created a Notion-based Kanban system to organize their ideas by status and tags, making it easier to track progress. This new workflow helps them stay prepared and organized, even if it doesn't make them a daily blogger.
 - [Working Through the Fear of Being Seen](https://ashley.dev/posts/fear-of-being-seen/) 👤 Ashley Willis 💬 812 🔖 #writing, #inspiration 🗓️ 2025-04-23
     > **Резюме:** Ashley Willis shares her struggle with the fear of sharing her writing and ideas in the tech world. Despite feeling hesitant and pressured, she wants to reconnect with her passion for creating. She reminds others that it's okay to be imperfect and that taking up space with their thoughts is important.
 - [Writing a tech blog people want to read](https://www.seangoedecke.com/on-writing/) 👤 seangoedecke.com 💬 1369 🔖 #writing 🗓️ 2025-01-28

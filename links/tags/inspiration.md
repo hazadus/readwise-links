@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 64
+- Всего ссылок: 66
 
 ## Ссылки
 
@@ -16,6 +16,11 @@
     > **Резюме:** Не понимаю, почему люди так стремятся FAANG. В последнее время пена пошла черезкрай: каждую неделю появляются статьи на тему “Как за полгода я устроился вусл...
 - [How I take work notes as a developer : Juha-Matti Santala](https://hamatti.org/posts/how-i-take-work-notes-as-a-developer/) 👤 Juha-Matti Santala 💬 1767 🔖 #pkm, #inspiration 🗓️ 2024-10-17
     > **Резюме:** The author, Juha-Matti Santala, discusses his note-taking system as a developer, which includes five types of notes: daily notes, meeting notes, running notes, topical notes, and a brag document. Each type serves a specific purpose, like tracking daily activities, documenting meetings, and reflecting on successes. This system helps him think clearly, learn, and improve productivity in his work.
+- [ИИ-агенты — вот что действительно изменит разработку. Пишем ИИ-агент на Python, LangChain и GigaChat](https://youtube.com/watch?v=KFgwXXWT7sQ&si=9c1fWb9ps_90PRff) 👤 Диджитализируй! 🔖 #llm, #langchain, #inspiration 🗓️ 2025-05-19
+    > **Заметка:** Интересный и вдохновляющий пример реализации простого агента для решения практической задачи.
+    > **Резюме:** ИИ-агенты могут значительно изменить процесс разработки, предоставляя новые возможности для автоматизации задач. В видео рассматривается создание ИИ-агента на Python с использованием LangChain и GigaChat для генерации документов. Это облегчает работу, позволяя извлекать и обрабатывать данные из различных источников.
+- [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/?utm_source=rss) 👤 alexwlchan.net 💬 3770 🔖 #inspiration 🗓️ 2025-05-19
+    > **Резюме:** The author creates a personal web archive by manually bookmarking and saving over 2000 web pages, ensuring each page is a complete and high-quality copy. This process allows him to preserve resources that might go offline or change, unlike automated tools that can often miss important content. By building the archive slowly and carefully, he gains confidence in the reliability of his saved pages.
 - [How I create static websites for tiny archives](https://alexwlchan.net/2025/mildly-dynamic-websites/) 👤 alexwlchan.net 💬 5181 🔖 #inspiration 🗓️ 2025-05-14
     > **Резюме:** The author explains how to create static websites for small archives using HTML and JavaScript. They emphasize starting with a simple HTML page and gradually adding features like filtering, sorting, and pagination. The process involves using metadata in JSON and writing functions to render content dynamically, making it easy to manage and update the site.
 - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/) 👤 alexwlchan.net 💬 1629 🔖 #inspiration 🗓️ 2025-05-14

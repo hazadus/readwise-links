@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [Moving from Notion to Obsidian](https://daverupert.com/2025/05/notion-to-obsidian/) 👤 Dave Rupert 💬 2100 🔖 #pkm, #obsidian 🗓️ 2025-05-21
+    > **Резюме:** The author switched from Notion to Obsidian after seven years, finding Obsidian's customization options and community appealing. They appreciate the plugins that enhance their workflow and help organize their projects. However, they find Obsidian's editor a bit finicky compared to Notion.
 - [🍑Obsidian / Dataview / JS — базы данных и произвольная визуализация в заметках](https://www.youtube.com/watch?v=F2tkYxKa7aY) 👤 Диджитализируй! 🔖 #obsidian 🗓️ 2025-04-02
     > **Резюме:** The video teaches how to use Obsidian for creating and visualizing notes with data management features. It emphasizes the ease of organizing notes with metadata and sorting options while encouraging viewers to focus on the practical use of the tool. Overall, the message is to enjoy taking notes without getting overwhelmed by complex plugins and settings.
 - [Getting the path to the note I have open in Obsidian](https://alexwlchan.net/2023/obsidian-open-note/) 👤 alexwlchan.net 💬 908 🔖 #try, #outline, #obsidian 🗓️ 2024-12-10

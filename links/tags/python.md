@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 51
+- Всего ссылок: 53
 
 ## Ссылки
 
+- [First Steps With LangChain](https://realpython.com/courses/first-steps-langchain/) 👤 Real Python 💬 129 🔖 #llm, #python, #langchain 🗓️ 2025-05-21
+    > **Резюме:** This course teaches you how to use LangChain to build applications powered by large language models (LLMs). You'll learn to create reusable prompts, extend chains, and debug your applications. The course includes videos, transcripts, resources, and a certificate of completion.
+- [Python: a quick cProfile recipe with pstats](https://adamj.eu/tech/2025/05/20/python-quick-cprofile-recipe-pstats/) 👤 Adam Johnson 💬 1277 🔖 #python 🗓️ 2025-05-20
+    > **Резюме:** Python has two built-in profilers, cProfile and profile, with cProfile being faster and more reliable. You can save profiling data from cProfile to a file and analyze it using the pstats module for more flexibility. The article provides a step-by-step recipe on how to profile a Python script, view the results, and optimize code performance.
 - [Как сделать оплату в Telegram боте-магазине на вебхуках](https://habr.com/ru/companies/amvera/articles/870414/) 👤 Хабр 💬 6393 🔖 #python 🗓️ 2025-01-05
     > **Резюме:** The article explains how to set up payment integration in a Telegram bot using webhooks instead of standard tools. It emphasizes the importance of having a secure web server with HTTPS to process payments safely and efficiently. Finally, it highlights the flexibility of this approach for integrating various payment systems within the bot.
 - [What's up Python: MOAR uv, flask-like Django, debugging live processes...

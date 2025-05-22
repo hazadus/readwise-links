@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 19
 
 ## Ссылки
 
@@ -26,6 +26,8 @@
     > **Резюме:** Choosing between Rust and C++ involves practical considerations beyond theoretical debates. Rust simplifies code development and refactoring, allowing developers to focus on higher-level tasks and complete code reviews more efficiently. Despite its benefits, Rust has a steeper learning curve and a less mature ecosystem compared to C++, but it can be integrated into existing C++ projects gradually.
 - [Don't Unwrap Options: There Are Better Ways | corrode Rust Consulting](https://corrode.dev/blog/rust-option-handling-best-practices/) 👤 Corrode Rust Consulting 💬 1639 🔖 #rust 🗓️ 2024-09-04
     > **Резюме:** The article discusses safer alternatives to using `unwrap()` when handling the `None` variant of `Option` in Rust. It highlights the new `let-else` syntax as the best approach for returning errors, as it is clear and easy for beginners to understand. Overall, the author encourages avoiding `unwrap()` to create more robust and maintainable code.
+- [C++ to Rust Cheat-Sheet](https://corrode.dev/learn/migration-guides/cpp-to-rust/) 👤 Corrode Rust Consulting 💬 869 🔖 #rust 🗓️ 2025-05-18
+    > **Резюме:** The "C++ to Rust Cheat-Sheet" by Matthias Endler helps C++ developers quickly compare syntax and constructs with Rust. It includes examples for various programming features like variable declarations and function implementations. This guide is a useful reference for those transitioning from C++ to Rust.
 - [The promise of Rust](https://fasterthanli.me/articles/the-promise-of-rust) 👤 Amos Wenger 💬 1154 🔖 #rust 🗓️ 2025-04-17
     > **Резюме:** Rust's unique features can be intimidating but also offer valuable lessons in memory management. It requires explicit actions, like cloning or borrowing, to handle data safely, which differs from many other programming languages. This focus on memory safety and performance is what makes Rust stand out from languages like JavaScript and Go.
 - [Rust vs. Go: A Tale of Two Systems Languages](https://smsk.dev/2025/03/16/rust-vs-go-a-tale-of-two-systems-languages/) 👤 devsimsek 💬 638 🔖 #go, #rust 🗓️ 2025-03-17

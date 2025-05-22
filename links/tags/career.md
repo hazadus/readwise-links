@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 35
+- Всего ссылок: 37
 
 ## Ссылки
 
@@ -10,6 +10,10 @@
     > **Резюме:** Прочитал серию постов о том, как готовиться к интервью в большиефирмы. Алгоритмы, литкод и вот это все. Специальные ресурсы, блоги, менторы. Адочитав, подума...
 - [FAANG не предлагать](https://grishaev.me/no-faang/) 👤 grishaev.me 💬 527 🔖 #career, #interview, #inspiration 🗓️ 2024-09-18
     > **Резюме:** Не понимаю, почему люди так стремятся FAANG. В последнее время пена пошла черезкрай: каждую неделю появляются статьи на тему “Как за полгода я устроился вусл...
+- [Why strong engineers are rarely blocked](https://seangoedecke.com/becoming-unblockable/) 👤 seangoedecke.com 💬 1657 🔖 #career, #development, #time management 🗓️ 2025-05-18
+    > **Резюме:** Strong engineers face fewer blocks in their work by using strategies like managing multiple tasks and anticipating potential obstacles. They also know when to ask for help from their management to overcome external blockers. By prioritizing tasks and avoiding unnecessary political fights, they can maintain productivity and keep projects moving forward.
+- [Practical advice for engineers in these troubled times](https://seangoedecke.com/in-these-troubled-times/) 👤 seangoedecke.com 💬 1033 🔖 #career 🗓️ 2025-05-18
+    > **Резюме:** The tech job market has changed significantly since 2023, making it harder for software engineers to find security in their roles. Layoffs are now common, and engineers must focus on delivering visible, valuable work tied to company profits. To stay employable, engineers should improve their skills and prioritize projects that contribute to the company's success.
 - [Открытое собеседование на Junior Go разработчика](https://m.youtube.com/watch?v=MmIdk_0HhVI) 👤 Эйч Навыки — менторская программа 🔖 #go, #career, #interview 🗓️ 2025-05-14
     > **Резюме:** Эйч Навыки проводит открытое собеседование для Junior Go разработчиков. Участники смогут поработать с ментором и прокачать свои навыки через МОК интервью. Чтобы участвовать, нужно заполнить форму и записаться на собеседование с хорошей скидкой.
 - [The importance of character in software engineering](https://seangoedecke.com/character-in-software-engineering/) 👤 seangoedecke.com 💬 1052 🔖 #career, #development, #soft skills, #communication 🗓️ 2025-05-10
