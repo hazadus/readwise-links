@@ -16,10 +16,9 @@ shortlist, archive) и для каждого тега (в поддиректор
 
 import argparse
 
+from reports import create_reports, dump_docs_to_json
 from schemas.readwise import ReadwiseDocument
 from services.readwise import fetch_reader_document_list_api
-
-from reports import create_reports, dump_docs_to_json
 
 
 def main():

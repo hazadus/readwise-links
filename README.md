@@ -57,3 +57,4 @@ Reader объединяет в себе приложения нескольки�
 
 - [Readwise Reader API](https://readwise.io/reader_api)
 - [Получить API key](https://readwise.io/access_token)
+- [HTTPX](https://www.python-httpx.org/async/)

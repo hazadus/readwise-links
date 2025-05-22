@@ -5,6 +5,8 @@ description = "Утилита для архивации ссылок из Readwi
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "aiofiles>=24.1.0",
+    "httpx>=0.28.1",
     "pydantic>=2.11.4",
     "requests>=2.32.3",
 ]
