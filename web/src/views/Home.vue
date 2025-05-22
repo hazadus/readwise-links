@@ -7,7 +7,7 @@ import { computed, ref } from "vue";
 import noteData from "../assets/articles.json";
 import ArticleCard from "../components/ArticleCard.vue";
 
-const data: Note[] = noteData;
+const data: Note[] = noteData as Note[];
 
 const newNotes = computed(() => data.filter((note) => note.location === "new"));
 const archivedNotes = computed(() => data.filter((note) => note.location === "archive"));
