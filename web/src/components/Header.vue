@@ -27,7 +27,7 @@
           to="/"
           class="text-xl font-semibold hover:text-blue-300"
         >
-          Readwise Links
+          Архив Readwise
         </router-link>
       </div>
 
@@ -40,7 +40,7 @@
               class="px-3 py-1 rounded-md hover:bg-gray-700 transition-colors flex items-center"
               active-class="bg-gray-700 font-medium"
               exact
-              >Архив заметок</router-link
+              >Архив ссылок</router-link
             >
           </li>
           <li class="flex items-center">
