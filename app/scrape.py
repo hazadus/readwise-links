@@ -30,14 +30,19 @@ from logger import setup_logging
 from schemas.readwise import EnrichedReadwiseDocument
 
 logger = logging.getLogger(__name__)
-request_semaphore = Semaphore(10)  # Ограничиваем количество одновременных запросов
+request_semaphore = Semaphore(20)  # Ограничиваем количество одновременных запросов
+file_semaphore = Semaphore(8)  # Ограничиваем кол-во одновременных файловых операций
+
+MAX_CACHE_SIZE = 1000 * 1024 * 1024  # 1000MB
 download_cache: dict[str, bytes] = {}  # URL -> content
+current_cache_size = 0
+cache_size_lock = Lock()
 
 # Для просты хардкодим параметры, не выделяя их в аргументы или конфиг.
 # Они не будут меняться, а если будут, то не критично.
 ARCHIVE_DIR = "./scratch/archive"
-MAX_DOWNLOAD_WORKERS = 5
-MAX_SCRAPE_WORKERS = 5
+MAX_SCRAPE_WORKERS = 8  # По количеству ядер в M1
+MAX_DOWNLOAD_WORKERS = 16  # x2 от количества ядер
 HTTPX_TIMEOUT = 10  # секунд
 STOP_TOKEN = object()  # Уникальный объект как сигнал остановки рабочим
 
@@ -61,16 +66,17 @@ async def main():
         if doc.source_url is not None
         and doc.category == "article"
         and doc.id is not None
-        and not os.path.exists(Path(ARCHIVE_DIR) / doc.id)
+        and not os.path.exists(Path(ARCHIVE_DIR) / doc.id / "index.html")
     ]
     print(f"В очереди {scrape_queue.qsize()} ссылок для обработки")
 
     # Используем единый HTTP клиент для всех запросов
-    async with httpx.AsyncClient(
-        timeout=HTTPX_TIMEOUT,
-        follow_redirects=True,
-    ) as client:
-        try:
+    scrapers = []
+    try:
+        async with httpx.AsyncClient(
+            timeout=HTTPX_TIMEOUT,
+            follow_redirects=True,
+        ) as client:
             scrapers = [
                 asyncio.create_task(
                     scrape_worker(
@@ -90,16 +96,21 @@ async def main():
 
             start = perf_counter()
             await scrape_queue.join()
-            for task in scrapers:
-                task.cancel()
-            await asyncio.gather(*scrapers, return_exceptions=True)
             elapsed_time = perf_counter() - start
             print(f"🎉 Загрузка завершена за {elapsed_time:.2f} сек.")
-        except Exception as e:
-            logger.error(f"Произошла ошибка: {e}")
-            for task in scrapers:
-                if not task.done():
-                    task.cancel()
+    except KeyboardInterrupt:
+        print("\n⚠️ Прерывание работы по Ctrl+C")
+    except Exception as e:
+        logger.error(f"Произошла ошибка: {e}")
+    finally:
+        # Убедимся, что все задачи отменены корректно
+        for task in scrapers:
+            if not task.done():
+                task.cancel()
+
+        if scrapers:
+            # Собираем возможные исключения из отмененных задач
+            await asyncio.gather(*scrapers, return_exceptions=True)
 
 
 async def scrape_worker(
@@ -121,80 +132,87 @@ async def scrape_worker(
     """
     while True:
         doc = await scrape_queue.get()
-        if doc is STOP_TOKEN:
-            scrape_queue.task_done()
-            break
-
-        url = doc.source_url
-
-        logger.info(f"Worker S-{worker_id} | Скачиваю {url}")
-        data = await download_url_cached(
-            url=url,
-            client=client,
-        )
-        if data is None:
-            logger.error(f"Worker S-{worker_id} | ❌ Не смог скачать {url}")
-            # Отметить задачу как выполненную
-            scrape_queue.task_done()
-            continue
-
-        # Пробуем декодировать контент с помощью нескольких кодировок
-        # Если не получится, то просто пропускаем страницу
-        html = None
-        encodings_to_try = ["utf-8", "latin-1", "windows-1252", "iso-8859-1"]
-
-        for encoding in encodings_to_try:
-            try:
-                html = data.decode(encoding=encoding)
-                logger.debug(
-                    f"Worker S-{worker_id} | Успешно декодировал {url} как {encoding}"
-                )
+        try:
+            if doc is STOP_TOKEN:
                 break
-            except UnicodeDecodeError:
+
+            url = doc.source_url
+
+            logger.info(
+                f"Worker S-{worker_id} | Осталось: {scrape_queue.qsize()} | 🚀 Скачиваю {url}"
+            )
+            data = await download_url_cached(
+                url=url,
+                client=client,
+            )
+            if data is None:
+                logger.error(f"Worker S-{worker_id} | ❌ Не смог скачать {url}")
                 continue
 
-        if html is None:
-            logger.error(
-                f"Worker S-{worker_id} | ❌ Не смог декодировать {url} с помощью "
-                f"{', '.join(encodings_to_try)}"
+            # Пробуем декодировать контент с помощью нескольких кодировок
+            # Если не получится, то просто пропускаем страницу
+            html = None
+            encodings_to_try = ["utf-8", "latin-1", "windows-1252", "iso-8859-1"]
+
+            for encoding in encodings_to_try:
+                try:
+                    html = data.decode(encoding=encoding)
+                    logger.debug(
+                        f"Worker S-{worker_id} | Успешно декодировал {url} как {encoding}"
+                    )
+                    break
+                except UnicodeDecodeError:
+                    continue
+
+            if html is None:
+                logger.error(
+                    f"Worker S-{worker_id} | ❌ Не смог декодировать {url} с помощью "
+                    f"{', '.join(encodings_to_try)}"
+                )
+                continue
+
+            # Вытащить из страницы ссылки на изображения, JS, CSS
+            links_map = get_all_links_from_html(
+                url=url,
+                html=html,
             )
+
+            # Загрузить изображения, JS, CSS по ссылкам и сохранить в файлы в поддиректорию в
+            # указанной директории
+            doc_output_dir = Path(output_dir) / doc.id
+            all_links = list(links_map.values())
+            names = await download_links(
+                links=all_links,
+                output_dir=doc_output_dir,
+                client=client,
+            )
+
+            # Заменить ссылки в HTML на локальные
+            for link in links_map.keys():
+                # Получаем имя файла, cначала получая абсолютную ссылку через исходную (из HTML)
+                absolute_link = links_map[link]
+                filename = names.get(absolute_link)
+                # Заменяем исходные ссылки в HTML на локальные имена файлов, если файл скачан
+                if filename is not None:
+                    html = html.replace(link, filename)
+                else:
+                    # Если файл не скачан, то оставляем оригинальную ссылку в абсолютном виде
+                    html = html.replace(link, absolute_link)
+
+            # Cохранить изменённый HTML в файл
+            filepath = Path(doc_output_dir) / "index.html"
+            await save_to_file(
+                filepath=filepath,
+                content=html.encode(encoding="utf-8"),
+            )
+            logger.info(f"Worker S-{worker_id} | 📥 Сохранён {filepath}")
+        except Exception as e:
+            logger.error(
+                f"Worker S-{worker_id} | ❌ Ошибка при обработке {doc.source_url}: {e}"
+            )
+        finally:
+            # Всегда отмечаем задачу как выполненную, даже при ошибке
             scrape_queue.task_done()
-            continue
-
-        # Вытащить из страницы ссылки на изображения, JS, CSS
-        links_map = get_all_links_from_html(
-            url=url,
-            html=html,
-        )
-
-        # Загрузить изображения, JS, CSS по ссылкам и сохранить в файлы в поддиректорию в
-        # указанной директории
-        doc_output_dir = Path(output_dir) / doc.id
-        all_links = list(links_map.values())
-        names = await download_links(
-            links=all_links,
-            output_dir=doc_output_dir,
-            client=client,
-        )
-
-        # Заменить ссылки в HTML на локальные
-        for link in links_map.keys():
-            # Получаем имя файла, cначала получая абсолютную ссылку через исходную (из HTML)
-            absolute_link = links_map[link]
-            filename = names.get(absolute_link)
-            # Заменяем исходные ссылки в HTML на локальные имена файлов
-            html = html.replace(link, filename)
-
-        # Cохранить изменённый HTML в файл
-        filepath = Path(doc_output_dir) / "index.html"
-        await save_to_file(
-            filepath=filepath,
-            content=html.encode(encoding="utf-8"),
-        )
-        logger.info(f"Worker S-{worker_id} | 📥 Сохранён {filepath}")
-
-        # Отметить задачу как выполненную
-        scrape_queue.task_done()
 
 
 async def download_links(
@@ -277,39 +295,46 @@ async def download_worker(
     """
     while True:
         link = await download_queue.get()
-        if link is STOP_TOKEN:
-            download_queue.task_done()
-            break
+        try:
+            if link is STOP_TOKEN:
+                break
 
-        filename = create_filename(url=link)
-        filepath = Path(output_dir) / filename
+            filename = create_filename(url=link)
+            filepath = Path(output_dir) / filename
 
-        logger.info(f"Worker D-{worker_id} | Скачиваю {link} to {filepath}")
-        data = await download_url_cached(
-            url=link,
-            client=client,
-        )
-        if data is None:
-            logger.error(f"Worker D-{worker_id} | Не смог скачать {link}")
-            # В случае ошибки, оставляем оригинальную ссылку
+            logger.info(f"Worker D-{worker_id} | Скачиваю {link} to {filepath}")
+            data = await download_url_cached(
+                url=link,
+                client=client,
+            )
+            if data is None:
+                logger.error(f"Worker D-{worker_id} | Не смог скачать {link}")
+                # В случае ошибки, оставляем оригинальную ссылку
+                async with download_lock:
+                    links_to_filenames[link] = link
+                continue
+
+            await save_to_file(
+                filepath=filepath,
+                content=data,
+            )
+            logger.debug(f"Worker D-{worker_id} | 💾 Сохранён {filepath}")
+
+            # Сохраняем соответствие между ссылкой и именем файла
             async with download_lock:
-                links_to_filenames[link] = link
-            # Отметить задачу как выполненную
+                links_to_filenames[link] = filename
+
+        except Exception as e:
+            logger.error(f"Worker D-{worker_id} | ❌ Ошибка при обработке {link}: {e}")
+            # В случае исключения, тоже оставляем оригинальную ссылку
+            try:
+                async with download_lock:
+                    links_to_filenames[link] = link
+            except Exception:
+                pass
+        finally:
+            # Всегда отмечаем задачу как выполненную, даже при ошибке
             download_queue.task_done()
-            continue
-
-        await save_to_file(
-            filepath=filepath,
-            content=data,
-        )
-
-        # Сохраняем соответствие между ссылкой и именем файла
-        async with download_lock:
-            links_to_filenames[link] = filename
-        logger.info(f"Worker D-{worker_id} | Сохранён {filepath}")
-
-        # Отметить задачу как выполненную
-        download_queue.task_done()
 
 
 def get_all_links_from_html(
@@ -318,27 +343,35 @@ def get_all_links_from_html(
     html: str,
 ) -> dict[str, str]:
     """
-    Извлекает ссылки на CSS, JS и изображения из HTML.
+    Извлекает все ссылки на изображения, JS и CSS из HTML-кода страницы.
 
     :param url: URL страницы
     :param html: HTML-код страницы
-    :return: Словарь с соответствием между ссылками и полными ссылками
+    :return: Словарь с соответствием между ссылками и их абсолютными URL
     """
-    css_links = get_rel_links_from_html(
-        html=html,
-        rel_type="stylesheet",
-    )
+    soup = BeautifulSoup(html, "html.parser")
 
-    img_links = get_img_links_from_html(
-        html=html,
-    )
+    # Извлекаем все типы ссылок, используя один экземпляр BeautifulSoup
+    css_links = [
+        link.get("href")
+        for link in soup.find_all(name="link", attrs={"rel": "stylesheet"})
+        if link.get("href")
+    ]
 
-    js_links = get_js_links_from_html(
-        html=html,
-    )
+    img_links = [
+        img.get("src")
+        for img in soup.find_all(name="img")
+        if img.get("src") and not img.get("src").startswith("data:")
+    ]
 
-    # Формируем абсолютные ссылки
-    # Ссылка из файла : полная ссылка
+    js_links = [
+        script.get("src")
+        for script in soup.find_all(name="script")
+        if script.get("src")
+    ]
+
+    # Формируем абсолютные ссылки в формате
+    # ключ - ссылка из HTML, значение - абсолютная ссылка для скачивания
     links_map = {}
     for link in css_links + img_links + js_links:
         links_map[link] = (
@@ -347,67 +380,6 @@ def get_all_links_from_html(
             else link
         )
     return links_map
-
-
-def get_rel_links_from_html(
-    *,
-    html: str,
-    rel_type: str = "stylesheet",
-) -> list[str]:
-    """
-    Извлекает ссылки на CSS файлы из HTML.
-
-    :param html: HTML-код страницы
-    :param rel_type: Тип ссылки (по умолчанию "stylesheet")
-    :return: Список ссылок на CSS файлы. Ссылки как есть в коде, без обработки
-    """
-
-    soup = BeautifulSoup(html, "html.parser")
-    links = []
-    for link in soup.find_all(name="link", attrs={"rel": rel_type}):
-        href = link.get("href")
-        if href:
-            links.append(href)
-    return links
-
-
-def get_img_links_from_html(
-    *,
-    html: str,
-) -> list[str]:
-    """
-    Извлекает ссылки на изображения из HTML.
-
-    :param html: HTML-код страницы
-    :return: Список ссылок на изображения. Ссылки как есть в коде, без обработки
-    """
-    soup = BeautifulSoup(html, "html.parser")
-    links = []
-    for img in soup.find_all(name="img"):
-        src = img.get("src")
-        if src:
-            if not src.startswith("data:"):
-                links.append(src)
-    return links
-
-
-def get_js_links_from_html(
-    *,
-    html: str,
-) -> list[str]:
-    """
-    Извлекает ссылки на JS файлы из HTML.
-
-    :param html: HTML-код страницы
-    :return: Список ссылок на JS файлы. Ссылки как есть в коде, без обработки
-    """
-    soup = BeautifulSoup(html, "html.parser")
-    links = []
-    for script in soup.find_all(name="script"):
-        src = script.get("src")
-        if src:
-            links.append(src)
-    return links
 
 
 def create_filename(
@@ -440,19 +412,30 @@ async def download_url_cached(
 
     :param url: URL для загрузки
     :param client: HTTP клиент для загрузки
-    :return: Кортеж (контент в байтах, имя файла) или (None, None) в случае ошибки
+    :return: Контент в байтах или None в случае ошибки
     """
+    global current_cache_size
+
     if url in download_cache.keys():
-        logger.debug(f"🔄 Используем кеш для {url}")
+        logger.info(
+            f"🔄 Используем кеш для {url} (размер кэша: {current_cache_size} байт)"
+        )
         return download_cache[url]
 
     result = await download_url(
         url=url,
         client=client,
     )
-    if result is not None:
-        logger.debug(f"🔄 Сохраняем кеш для {url}")
-        download_cache[url] = result
+
+    # Проверяем, переполнится ли кеш при добавлении нового элемента
+    async with cache_size_lock:
+        if current_cache_size + len(result) <= MAX_CACHE_SIZE:
+            logger.debug(f"🔄 Сохраняем кеш для {url}")
+            download_cache[url] = result
+            current_cache_size += len(result)
+        else:
+            logger.debug("❌ Кеш переполнен, больше не сохраняем")
+
     return result
 
 
@@ -469,26 +452,25 @@ async def download_url(
     :return: Контент в байтах или None в случае ошибки
     """
     async with request_semaphore:
-        async with httpx.AsyncClient() as client:
-            try:
-                response = await client.get(
-                    url=url,
-                    timeout=HTTPX_TIMEOUT,
-                    # Обязательно следуем за редиректами
-                    follow_redirects=True,
-                )
-            except httpx.ConnectTimeout as e:
-                logger.error(f"❌ Таймаут соединения с {url}: {e}")
-                return None
-            except httpx.RequestError as e:
-                logger.error(f"❌ Ошибка запроса к {url}: {e}")
-                return None
+        try:
+            response = await client.get(
+                url=url,
+                timeout=HTTPX_TIMEOUT,
+                # Обязательно следуем за редиректами
+                follow_redirects=True,
+            )
+        except httpx.ConnectTimeout as e:
+            logger.error(f"❌ Таймаут соединения с {url}: {e}")
+            return None
+        except httpx.RequestError as e:
+            logger.error(f"❌ Ошибка запроса к {url}: {e}")
+            return None
 
-            if response.status_code == 200:
-                return response.content
-            else:
-                logger.warning(f"❌ Не смог скачать {url}: {response.status_code}")
-                return None
+        if response.status_code == 200:
+            return response.content
+        else:
+            logger.warning(f"❌ Не смог скачать {url}: {response.status_code}")
+            return None
 
 
 async def save_to_file(
@@ -503,8 +485,9 @@ async def save_to_file(
     :param content: Контент для сохранения
     """
     filepath.parent.mkdir(parents=True, exist_ok=True)
-    async with aiofiles.open(filepath, "wb") as f:
-        await f.write(content)
+    async with file_semaphore:
+        async with aiofiles.open(filepath, "wb") as f:
+            await f.write(content)
 
 
 def load_articles_from_file(
