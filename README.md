@@ -55,6 +55,8 @@ Reader объединяет в себе приложения нескольки�
 - Затем изменяет в HTML ссылки на сохранённые файлы на локальные и сохраняет изменённый
   HTML в файл index.html.
 
+- Создаёт оглавление страниц в архиве, генерируя страницу по шаблону [index.html](./app/templates/index.html).
+
 При тестах архив в 1503 ссылки скрипт обработал за 21 минуту. Сохранил на диске 35008 файлов общим объёмом 3,71 Гб.
 
 ## Ссылки
@@ -73,3 +75,5 @@ Reader объединяет в себе приложения нескольки�
 - [HTTPX](https://www.python-httpx.org/async/)
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [urllib.parse.urljoin](https://docs.python.org/3/library/urllib.parse.html#urllib.parse.urljoin)
+- [Jinja2](https://jinja.palletsprojects.com/en/stable/)
+  - [Статья на Real Python](https://realpython.com/primer-on-jinja-templating/)
