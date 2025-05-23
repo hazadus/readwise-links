@@ -1,5 +1,6 @@
 import asyncio
 import logging
+from asyncio import Lock, Queue
 from pathlib import Path
 from urllib.parse import urljoin
 from uuid import uuid4
@@ -12,6 +13,7 @@ from logger import setup_logging
 logger = logging.getLogger(__name__)
 
 ARCHIVE_DIR = "./scratch/archive"
+MAX_DOWNLOAD_WORKERS = 5
 
 
 async def main():
@@ -105,26 +107,70 @@ async def download_links(
     links: list[str],
     output_dir: str,
 ) -> dict[str, str]:
+    # Заполняем очередь ссылками для загрузки
+    download_queue = Queue()
+    [download_queue.put_nowait(link) for link in links]
+
+    # Словар для хранения соответствия между ссылками и именами локальных файлов
     links_to_filenames = {}
-    # TODO: использовать asyncio.gather для параллельной загрузки
-    for link in links:
+    download_lock = Lock()
+
+    # Использовать asyncio.gather для параллельной загрузки
+    downloaders = [
+        asyncio.create_task(
+            download_worker(
+                worker_id=worker_id,
+                download_queue=download_queue,
+                download_lock=download_lock,
+                output_dir=output_dir,
+                links_to_filenames=links_to_filenames,
+            )
+        )
+        for worker_id in range(MAX_DOWNLOAD_WORKERS)
+    ]
+
+    await asyncio.gather(
+        download_queue.join(),
+        *downloaders,
+    )
+
+    return links_to_filenames
+
+
+async def download_worker(
+    *,
+    worker_id: int,
+    download_queue: Queue,
+    download_lock: Lock,
+    output_dir: str,
+    links_to_filenames: dict[str, str],
+) -> None:
+    while not download_queue.empty():
+        link = download_queue.get_nowait()
         filename = create_filename(url=link)
         filepath = Path(output_dir) / filename
-        logger.info(f"Downloading {link} to {filepath}")
+
+        logger.info(f"Worker {worker_id} | Downloading {link} to {filepath}")
         data = await download_url(url=link)
         if data is None:
-            logger.error(f"Failed to download {link}")
+            logger.error(f"Worker {worker_id} | Failed to download {link}")
             # В случае ошибки, оставляем оригинальную ссылку
-            links_to_filenames[link] = link
+            async with download_lock:
+                links_to_filenames[link] = link
             continue
+
         await save_to_file(
             filepath=filepath,
             content=data,
         )
-        # Сохраняем имя файла в словаре для замены в HTML
-        links_to_filenames[link] = filename
-        logger.info(f"Saved {filepath}")
-    return links_to_filenames
+
+        # Сохраняем соответствие между ссылкой и именем файла
+        async with download_lock:
+            links_to_filenames[link] = filename
+        logger.info(f"Worker {worker_id} | Saved {filepath}")
+
+        # Отметить задачу как выполненную
+        download_queue.task_done()
 
 
 def get_rel_links_from_html(
