@@ -31,6 +31,7 @@ from schemas.readwise import EnrichedReadwiseDocument
 
 logger = logging.getLogger(__name__)
 request_semaphore = Semaphore(10)  # Ограничиваем количество одновременных запросов
+download_cache: dict[str, bytes] = {}  # URL -> content
 
 ARCHIVE_DIR = "./scratch/archive"
 MAX_DOWNLOAD_WORKERS = 5
@@ -112,7 +113,7 @@ async def scrape_worker(
         url = doc.source_url
 
         logger.info(f"Worker S-{worker_id} | Скачиваю {url}")
-        data = await download_url(
+        data = await download_url_cached(
             url=url,
             client=client,
         )
@@ -256,7 +257,7 @@ async def download_worker(
         filepath = Path(output_dir) / filename
 
         logger.info(f"Worker D-{worker_id} | Скачиваю {link} to {filepath}")
-        data = await download_url(
+        data = await download_url_cached(
             url=link,
             client=client,
         )
@@ -396,6 +397,34 @@ def create_filename(
         extension = path.split(".")[-1]
         return f"{uuid4()}.{extension}"
     return f"{uuid4()}"
+
+
+async def download_url_cached(
+    *,
+    url: str,
+    client: httpx.AsyncClient,
+) -> bytes | None:
+    """
+    Загружает контент по указанному URL с использованием кеша.
+    Кэширование важно, так как в архива много страниц с одних и тех же сайтов,
+    использующих одинаковые ресурсы.
+
+    :param url: URL для загрузки
+    :param client: HTTP клиент для загрузки
+    :return: Кортеж (контент в байтах, имя файла) или (None, None) в случае ошибки
+    """
+    if url in download_cache.keys():
+        logger.debug(f"🔄 Используем кеш для {url}")
+        return download_cache[url]
+
+    result = await download_url(
+        url=url,
+        client=client,
+    )
+    if result is not None:
+        logger.debug(f"🔄 Сохраняем кеш для {url}")
+        download_cache[url] = result
+    return result
 
 
 async def download_url(
