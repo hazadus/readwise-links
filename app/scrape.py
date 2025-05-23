@@ -24,6 +24,7 @@ import json
 import logging
 import os
 from asyncio import Lock, Queue, Semaphore
+from datetime import datetime
 from pathlib import Path
 from time import perf_counter
 from urllib.parse import urljoin, urlparse
@@ -32,9 +33,9 @@ from uuid import uuid4
 import aiofiles
 import httpx
 from bs4 import BeautifulSoup
+from jinja2 import Environment, FileSystemLoader
 from logger import setup_logging
 from schemas.readwise import EnrichedReadwiseDocument
-from jinja2 import Environment, FileSystemLoader
 
 # Для просты хардкодим параметры, не выделяя их в аргументы или конфиг.
 # Они не будут меняться, а если будут, то не критично.
@@ -558,6 +559,7 @@ def create_archive_index(
 
     content = template.render(
         articles=articles,
+        now=datetime.now(),
     )
 
     with open(Path(output_dir) / "index.html", "w", encoding="utf-8") as f:
