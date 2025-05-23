@@ -25,14 +25,77 @@
               target="_blank"
               >{{ article.title }}</a
             >
+            {% if article.author %}
+            <div class="mt-1 flex items-center text-sm text-gray-600">
+              <svg
+                class="h-4 w-4 mr-1"
+                viewBox="0 0 16 16"
+                fill="currentColor"
+              >
+                <path
+                  d="M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16zm.847-8.145a2.502 2.502 0 1 0-1.645 0C5.686 8.15 4.5 9.5 4.5 11c0 .5.5 1 1 1h5c.5 0 1-.5 1-1 0-1.5-1.186-2.85-2.653-3.145zM8 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"
+                ></path>
+              </svg>
+              <span>{{ article.author }}</span>
+            </div>
+            {% endif %}
           </div>
 
           <!-- Контент -->
           <div class="px-4 py-3">
+            <!-- Заметка пользователя к посту -->
+            {% if article.notes %}
+            <div class="mb-3 rounded-md bg-yellow-50 border border-yellow-200 px-3 py-2">
+              <div class="flex">
+                <svg
+                  class="h-5 w-5 text-yellow-700 mt-0.5 mr-2 flex-shrink-0"
+                  viewBox="0 0 16 16"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25Zm1.75-.25a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-8.5a.25.25 0 0 0-.25-.25ZM3.5 6.25a.75.75 0 0 1 .75-.75h7a.75.75 0 0 1 0 1.5h-7a.75.75 0 0 1-.75-.75Zm.75 2.25h4a.75.75 0 0 1 0 1.5h-4a.75.75 0 0 1 0-1.5Z"
+                  ></path>
+                </svg>
+                <div class="text-sm text-gray-700">{{ article.notes }}</div>
+              </div>
+            </div>
+            {% endif %}
+
             <!-- Summary -->
             {% if article.summary %}
             <div class="mb-3 rounded-md bg-gray-50 border border-gray-200 px-3 py-2 text-sm text-gray-700">
               {{ article.summary }}
+            </div>
+            {% endif %}
+
+            <!-- Highlights -->
+            {% if article.highlights and article.highlights|length > 0 %}
+            <div class="space-y-2">
+              {% for hl in article.highlights %}
+              <div class="border-l-4 border-green-300 bg-green-50 pl-3 py-2 pr-2 text-sm text-gray-700">
+                {{ hl.content }}
+
+                <!-- Заметки к highlight -->
+                {% if hl.notes_attached %}
+                <div class="mt-2 pl-3 border-l-2 border-gray-300">
+                  {% for hlNote in hl.notes_attached %}
+                  <div class="text-xs italic text-gray-600">
+                    <svg
+                      class="inline-block h-3 w-3 mr-1"
+                      viewBox="0 0 16 16"
+                      fill="currentColor"
+                    >
+                      <path
+                        d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25Zm1.75-.25a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-8.5a.25.25 0 0 0-.25-.25ZM3.5 6.25a.75.75 0 0 1 .75-.75h7a.75.75 0 0 1 0 1.5h-7a.75.75 0 0 1-.75-.75Zm.75 2.25h4a.75.75 0 0 1 0 1.5h-4a.75.75 0 0 1 0-1.5Z"
+                      ></path>
+                    </svg>
+                    {{ hlNote.content }}
+                  </div>
+                  {% endfor %}
+                </div>
+                {% endif %}
+              </div>
+              {% endfor %}
             </div>
             {% endif %}
           </div>
