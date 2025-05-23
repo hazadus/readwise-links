@@ -82,8 +82,8 @@ async def main():
         scrape_queue.join(),
         *scrapers,
     )
-    end = start - perf_counter()
-    print(f"🎉 Загрузка завершена за {end:.2f} сек.")
+    elapsed_time = perf_counter() - start
+    print(f"🎉 Загрузка завершена за {elapsed_time:.2f} сек.")
 
 
 async def scrape_worker(
@@ -101,6 +101,8 @@ async def scrape_worker(
     :param scrape_queue: Очередь ссылок для загрузки
     :param output_dir: Директория для сохранения поддиректорий с загруженными файлами
     """
+    # В очередь ничего не будет добавлено, поэтому используем while
+    # и проверяем, что очередь не пуста
     while not scrape_queue.empty():
         # Загружаем страницу
         doc: EnrichedReadwiseDocument = scrape_queue.get_nowait()
@@ -114,7 +116,28 @@ async def scrape_worker(
             scrape_queue.task_done()
             continue
 
-        html = data.decode(encoding="utf-8")
+        # Пробуем декодировать контент с помощью нескольких кодировок
+        # Если не получится, то просто пропускаем страницу
+        html = None
+        encodings_to_try = ["utf-8", "latin-1", "windows-1252", "iso-8859-1"]
+
+        for encoding in encodings_to_try:
+            try:
+                html = data.decode(encoding=encoding)
+                logger.debug(
+                    f"Worker S-{worker_id} | Успешно декодировал {url} как {encoding}"
+                )
+                break
+            except UnicodeDecodeError:
+                continue
+
+        if html is None:
+            logger.error(
+                f"Worker S-{worker_id} | ❌ Не смог декодировать {url} с помощью "
+                f"{', '.join(encodings_to_try)}"
+            )
+            scrape_queue.task_done()
+            continue
 
         # Вытащить из страницы ссылки на изображения, JS, CSS
         links_map = get_all_links_from_html(
@@ -213,6 +236,8 @@ async def download_worker(
     :param output_dir: Директория для сохранения файлов
     :param links_to_filenames: Словарь для хранения соответствия между ссылками и именами файлов
     """
+    # В очередь ничего не будет добавлено, поэтому используем while
+    # и проверяем, что очередь не пуста
     while not download_queue.empty():
         link = download_queue.get_nowait()
         filename = create_filename(url=link)
@@ -272,7 +297,11 @@ def get_all_links_from_html(
     # Ссылка из файла : полная ссылка
     links_map = {}
     for link in css_links + img_links + js_links:
-        links_map[link] = urljoin(url, link) if not link.startswith("http") else link
+        links_map[link] = (
+            urljoin(url, link)
+            if not (link.startswith("http") or link.startswith("//"))
+            else link
+        )
     return links_map
 
 
@@ -313,7 +342,8 @@ def get_img_links_from_html(
     for img in soup.find_all(name="img"):
         src = img.get("src")
         if src:
-            links.append(src)
+            if not src.startswith("data:"):
+                links.append(src)
     return links
 
 
@@ -346,18 +376,11 @@ def create_filename(
     :param url: URL для создания имени файла
     :return: Имя файла
     """
-    # Извлекаем имя файла из URL (убираем параметры запроса и якоря)
     path = urlparse(url).path
-    # Извлекаем расширение файла из path
-    if not "." in path:
-        # Если в URL нет точки, то не можем определить расширение
-        extension = ""
-    else:
+    if "." in path:
         extension = path.split(".")[-1]
-
-    if not extension:
-        extension = ""
-    return f"{uuid4()}.{extension}" if extension != "" else f"{uuid4()}"
+        return f"{uuid4()}.{extension}"
+    return f"{uuid4()}"
 
 
 async def download_url(
@@ -370,11 +393,6 @@ async def download_url(
     :param url: URL для загрузки
     :return: Контент в байтах или None в случае ошибки
     """
-    if url.startswith("data:"):
-        # Игнорируем ссылки data: возвращаем саму ссылку, так как она сама
-        # содержит контент и не требует загрузки
-        return url.encode(encoding="utf-8")
-
     async with httpx.AsyncClient() as client:
         try:
             response = await client.get(
