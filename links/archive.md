@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 668
+- Всего ссылок: 673
 
 ## Ссылки
 
@@ -9,6 +9,8 @@
 - [Obsidian Miscellany](https://tylersticka.com/journal/obsidian-miscellany/) 👤 Tyler Sticka 💬 936 🔖 #pkm 🗓️ 2025-05-21
 - [Practical AI techniques for daily engineering work](https://seangoedecke.com/practical-ai-techniques/) 👤 seangoedecke.com 💬 1120 🔖 #llm 🗓️ 2025-05-21
 - [Moving from Notion to Obsidian](https://daverupert.com/2025/05/notion-to-obsidian/) 👤 Dave Rupert 💬 2100 🔖 #pkm, #obsidian 🗓️ 2025-05-21
+- [After months of coding with LLMs, I'm going back to using my brain](https://albertofortin.com/writing/coding-with-ai) 👤 Alberto 💬 1793 🔖 #llm 🗓️ 2025-05-21
+    > **Заметка:** Мужик разочаровался в LLM при попытке реализации масштабного проекта на новом языке и с незнакомой технологией. Не удивительно: неверный подход, плюс сразу два незнакомых элемента - при этом основных - в проекте. Так лучше точно не делать. 
 - [ИИ-агенты — вот что действительно изменит разработку. Пишем ИИ-агент на Python, LangChain и GigaChat](https://youtube.com/watch?v=KFgwXXWT7sQ&si=9c1fWb9ps_90PRff) 👤 Диджитализируй! 🔖 #llm, #agents, #langchain, #inspiration 🗓️ 2025-05-19
     > **Заметка:** Интересный и вдохновляющий пример реализации простого агента для решения практической задачи.
 - [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/?utm_source=rss) 👤 alexwlchan.net 💬 3770 🔖 #inspiration 🗓️ 2025-05-19
@@ -29,12 +31,15 @@
 - [How I create static websites for tiny archives](https://alexwlchan.net/2025/mildly-dynamic-websites/) 👤 alexwlchan.net 💬 5181 🔖 #inspiration 🗓️ 2025-05-14
 - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/) 👤 alexwlchan.net 💬 1629 🔖 #inspiration 🗓️ 2025-05-14
 - [Creating a static website for all my bookmarks](https://alexwlchan.net/2025/bookmarks-static-site/?utm_source=mastodon) 👤 alexwlchan.net 💬 1554 🔖 #inspiration 🗓️ 2025-05-13
+- [Domain-Driven Design: зачем он нужен аналитику и как его применять на практике](https://habr.com/ru/articles/908782/) 👤 Habr 💬 1798 🔖 #ddd 🗓️ 2025-05-13
 - [How to make a Link Aggregator in Obsidian](https://daverupert.com/2025/05/obsidian-link-aggregator/) 👤 Dave Rupert 💬 913 🔖 #inspiration 🗓️ 2025-05-13
 - [Why can't language models come up with new ideas?](https://seangoedecke.com/why-cant-ais-have-new-ideas/) 👤 seangoedecke.com 💬 1192 🔖 #llm 🗓️ 2025-05-12
 - [The importance of character in software engineering](https://seangoedecke.com/character-in-software-engineering/) 👤 seangoedecke.com 💬 1052 🔖 #career, #development, #soft skills, #communication 🗓️ 2025-05-10
 - [Microservices Are a Tax Your Startup Probably Can’t Afford](https://nexo.sh/posts/microservices-for-startups/) 👤 Oleg Pustovit 💬 3501 🔖 #inspiration, #architecture, #microservices 🗓️ 2025-05-10
     > **Заметка:** Автор убедительно описывает случаи, когда стоит использовать микросервисы, а когда лучше от них отказаться. 
 - [Basic Claude Code](https://harper.blog/2025/05/08/basic-claude-code/) 👤 Harper Reed <harper@modest.com> 💬 1490 🔖 #llm, #development, #inspiration 🗓️ 2025-05-10
+- [Recursive Types in TypeScript: A Brief Exploration](https://www.freecodecamp.org/news/recursive-types-in-typescript-a-brief-exploration/) 👤 freeCodeCamp.org 💬 1774 🔖 #typescript 🗓️ 2025-05-10
+    > **Заметка:** Интересный пример с DeepPartial.
 - [How projects fail at large tech companies](https://seangoedecke.com/how-projects-fail/) 👤 seangoedecke.com 💬 1643 🗓️ 2025-05-10
 - [I don't care about your magic prompts](https://seangoedecke.com/magic-prompts/) 👤 seangoedecke.com 💬 761 🔖 #llm 🗓️ 2025-05-07
 - [Getting things "done" in large tech companies](https://seangoedecke.com/getting-things-done/) 👤 seangoedecke.com 💬 693 🔖 #career, #development 🗓️ 2025-05-07
@@ -51,12 +56,16 @@
 - [Senior engineers should make side bets](https://seangoedecke.com/side-bets/) 👤 seangoedecke.com 💬 833 🔖 #career 🗓️ 2025-04-27
 - [Мыс Дежнёва – здесь начинается день](https://gelio.livejournal.com/253583.html) 👤 livejournal.com 💬 1154 🗓️ 2025-04-24
 - [The Good, the Bad, and the Ugly: My Experience with React](https://smsk.dev/2025/04/24/the-good-the-bad-and-the-ugly-my-experience-with-react/) 👤 smsk.dev 💬 989 🗓️ 2025-04-24
+- [Advanced TypeScript manipulation features for the real world](https://piccalil.li/blog/advanced-typescript-manipulation-features-for-the-real-world/?ref=main-rss-feed) 👤 Piccalilli 💬 2139 🔖 #typescript 🗓️ 2025-04-24
+    > **Заметка:** Хорошие примеры практического применения продвинутых возможностей системы типов в TS.
 - [The Hidden Cost of AI Coding](https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/) 👤 Terrible Software 💬 778 🔖 #llm 🗓️ 2025-04-24
 - [Agile умер: из-за своего сострадания к product- и project-менеджерам (с) Фридрих Ницше](https://habr.com/ru/companies/kaiten/articles/876582/) 👤 Хабр 💬 1927 🔖 #agile, #management 🗓️ 2025-04-24
 - [Working Through the Fear of Being Seen](https://ashley.dev/posts/fear-of-being-seen/) 👤 Ashley Willis 💬 812 🔖 #writing, #inspiration 🗓️ 2025-04-23
 - [A trick to feel less like cheating when you use LLMs](https://simonwillison.net/2025/Apr/23/cheating/#atom-everything) 👤 Simon Willison 💬 232 🔖 #llm 🗓️ 2025-04-23
 - [The next big thing in Python](https://www.bitecode.dev/p/the-next-big-thing-in-python) 👤 Bite Code! 💬 2183 🔖 #python 🗓️ 2025-04-23
 - [library-mcp: working with Markdown knowledge bases](https://lethain.com/library-mcp/) 👤 lethain.com 💬 438 🗓️ 2025-04-23
+- [AI assisted search-based research actually works now](https://simonwillison.net/2025/Apr/21/ai-assisted-search/#atom-everything) 👤 Simon Willison 💬 1139 🔖 #llm 🗓️ 2025-04-22
+    > **Заметка:** Саймон рапортует, что некоторые модели уже достигли такой кондиции, что могут успешно искать материалы в сети и за ними не нужно очень тщательно проверять результаты. 
 - [When you should lie to the language model](https://seangoedecke.com/lying-to-llms/) 👤 seangoedecke.com 💬 495 🔖 #llm 🗓️ 2025-04-21
 - [The Best Programmers I Know](https://endler.dev/2025/best-programmers/) 👤 Matthias Endler 💬 2034 🔖 #development, #inspiration 🗓️ 2025-04-20
 - [15 Reasons I Love Go](https://appliedgo.net/why-go/) 👤 Applied Go 💬 1671 🔖 #go 🗓️ 2025-04-20
