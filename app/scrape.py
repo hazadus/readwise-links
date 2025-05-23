@@ -1,3 +1,18 @@
+"""
+Скрипт для загрузки статей и их ресурсов из архива Readwise Reader.
+
+- Загружает статьи из файла articles.json, формирует очередь ссылок для обработки
+и запускает асинхронные задачи для загрузки страниц и их ресурсов.
+
+- После загрузки страницы, извлекает ссылки на изображения, JS и CSS, загружает их и
+сохраняет в файлы в поддиректории в указанной директории.
+
+- Затем изменяет в HTML ссылки на сохранённые файлы на локальные и сохраняет изменённый
+HTML в файл index.html.
+
+Использует асинхронные задачи для параллельной загрузки страниц и их ресурсов.
+"""
+
 import asyncio
 import json
 import logging
@@ -23,6 +38,11 @@ HTTPX_TIMEOUT = 10  # секунд
 
 
 async def main():
+    """
+    Основная функция для запуска скрипта. Загружает статьи из файла
+    articles.json, формирует очередь ссылок для обработки и запускает
+    асинхронные задачи для загрузки страниц и их ресурсов.
+    """
     # Загрузим список ссылок из файла "./web/src/assets/articles.json"
     articles = load_articles_from_file(
         filepath=Path("./web/src/assets/articles.json"),
@@ -72,6 +92,15 @@ async def scrape_worker(
     scrape_queue: Queue,
     output_dir: str,
 ):
+    """
+    Рабочий для загрузки страниц. После загрузки страницы, извлекает ссылки на
+    изображения, JS и CSS, загружает их и сохраняет в файлы в поддиректории
+    в указанной директории. Затем сохраняет изменённый HTML в файл.
+
+    :param worker_id: ID рабочего
+    :param scrape_queue: Очередь ссылок для загрузки
+    :param output_dir: Директория для сохранения поддиректорий с загруженными файлами
+    """
     while not scrape_queue.empty():
         # Загружаем страницу
         doc: EnrichedReadwiseDocument = scrape_queue.get_nowait()
@@ -122,37 +151,18 @@ async def scrape_worker(
         scrape_queue.task_done()
 
 
-def get_all_links_from_html(
-    *,
-    url: str,
-    html: str,
-) -> dict[str, str]:
-    css_links = get_rel_links_from_html(
-        html=html,
-        rel_type="stylesheet",
-    )
-
-    img_links = get_img_links_from_html(
-        html=html,
-    )
-
-    js_links = get_js_links_from_html(
-        html=html,
-    )
-
-    # Формируем абсолютные ссылки
-    # Ссылка из файла : полная ссылка
-    links_map = {}
-    for link in css_links + img_links + js_links:
-        links_map[link] = urljoin(url, link) if not link.startswith("http") else link
-    return links_map
-
-
 async def download_links(
     *,
     links: list[str],
     output_dir: str,
 ) -> dict[str, str]:
+    """
+    Загружает файлы по указанным ссылкам и сохраняет их в указанной директории.
+
+    :param links: Список ссылок для загрузки
+    :param output_dir: Директория для сохранения файлов
+    :return: Словарь с соответствием между ссылками и именами локальных файлов
+    """
     # Заполняем очередь ссылками для загрузки
     download_queue = Queue()
     [download_queue.put_nowait(link) for link in links]
@@ -192,6 +202,17 @@ async def download_worker(
     output_dir: str,
     links_to_filenames: dict[str, str],
 ) -> None:
+    """
+    Рабочий для загрузки файлов. После загрузки файла, сохраняет его в указанной
+    директории и обновляет словарь links_to_filenames с соответствием между
+    ссылкой и именем файла.
+
+    :param worker_id: ID рабочего
+    :param download_queue: Очередь ссылок для загрузки
+    :param download_lock: Блокировка для синхронизации доступа к словарю
+    :param output_dir: Директория для сохранения файлов
+    :param links_to_filenames: Словарь для хранения соответствия между ссылками и именами файлов
+    """
     while not download_queue.empty():
         link = download_queue.get_nowait()
         filename = create_filename(url=link)
@@ -222,11 +243,52 @@ async def download_worker(
         download_queue.task_done()
 
 
+def get_all_links_from_html(
+    *,
+    url: str,
+    html: str,
+) -> dict[str, str]:
+    """
+    Извлекает ссылки на CSS, JS и изображения из HTML.
+
+    :param url: URL страницы
+    :param html: HTML-код страницы
+    :return: Словарь с соответствием между ссылками и полными ссылками
+    """
+    css_links = get_rel_links_from_html(
+        html=html,
+        rel_type="stylesheet",
+    )
+
+    img_links = get_img_links_from_html(
+        html=html,
+    )
+
+    js_links = get_js_links_from_html(
+        html=html,
+    )
+
+    # Формируем абсолютные ссылки
+    # Ссылка из файла : полная ссылка
+    links_map = {}
+    for link in css_links + img_links + js_links:
+        links_map[link] = urljoin(url, link) if not link.startswith("http") else link
+    return links_map
+
+
 def get_rel_links_from_html(
     *,
     html: str,
     rel_type: str = "stylesheet",
 ) -> list[str]:
+    """
+    Извлекает ссылки на CSS файлы из HTML.
+
+    :param html: HTML-код страницы
+    :param rel_type: Тип ссылки (по умолчанию "stylesheet")
+    :return: Список ссылок на CSS файлы. Ссылки как есть в коде, без обработки
+    """
+
     soup = BeautifulSoup(html, "html.parser")
     links = []
     for link in soup.find_all(name="link", attrs={"rel": rel_type}):
@@ -240,6 +302,12 @@ def get_img_links_from_html(
     *,
     html: str,
 ) -> list[str]:
+    """
+    Извлекает ссылки на изображения из HTML.
+
+    :param html: HTML-код страницы
+    :return: Список ссылок на изображения. Ссылки как есть в коде, без обработки
+    """
     soup = BeautifulSoup(html, "html.parser")
     links = []
     for img in soup.find_all(name="img"):
@@ -253,6 +321,12 @@ def get_js_links_from_html(
     *,
     html: str,
 ) -> list[str]:
+    """
+    Извлекает ссылки на JS файлы из HTML.
+
+    :param html: HTML-код страницы
+    :return: Список ссылок на JS файлы. Ссылки как есть в коде, без обработки
+    """
     soup = BeautifulSoup(html, "html.parser")
     links = []
     for script in soup.find_all(name="script"):
@@ -266,6 +340,12 @@ def create_filename(
     *,
     url: str,
 ) -> str:
+    """
+    Создаёт уникальное имя файла на основе URL.
+
+    :param url: URL для создания имени файла
+    :return: Имя файла
+    """
     # Извлекаем имя файла из URL (убираем параметры запроса и якоря)
     path = urlparse(url).path
     # Извлекаем расширение файла из path
@@ -284,6 +364,17 @@ async def download_url(
     *,
     url: str,
 ) -> bytes | None:
+    """
+    Загружает контент по указанному URL.
+
+    :param url: URL для загрузки
+    :return: Контент в байтах или None в случае ошибки
+    """
+    if url.startswith("data:"):
+        # Игнорируем ссылки data: возвращаем саму ссылку, так как она сама
+        # содержит контент и не требует загрузки
+        return url.encode(encoding="utf-8")
+
     async with httpx.AsyncClient() as client:
         try:
             response = await client.get(
@@ -311,6 +402,12 @@ async def save_to_file(
     filepath: Path,
     content: bytes,
 ) -> None:
+    """
+    Сохраняет контент в файл.
+
+    :param filepath: Путь к файлу
+    :param content: Контент для сохранения
+    """
     filepath.parent.mkdir(parents=True, exist_ok=True)
     async with aiofiles.open(filepath, "wb") as f:
         await f.write(content)
@@ -322,6 +419,9 @@ def load_articles_from_file(
 ) -> list[EnrichedReadwiseDocument]:
     """
     Загружает статьи из файла articles.json.
+
+    :param filepath: Путь к файлу articles.json
+    :return: Список статей
     """
     if not filepath.exists():
         logger.error(f"❌ Файл {filepath} не существует")
