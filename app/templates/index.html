@@ -148,7 +148,7 @@
             {% endif %}
           </div>
 
-          <!-- Футер с датами и количеством слов -->
+          <!-- Футер с датами и количеством слов, а также ссылкой на директорию с файлами страницы -->
           {% if article.saved_at or article.published_date %}
           <div class="border-t border-gray-200 bg-gray-50 px-4 py-2">
             <div class="flex flex-wrap gap-x-4 gap-y-1 text-xs text-gray-600">
@@ -192,6 +192,24 @@
                 <span>{{ article.word_count }} слов</span>
               </div>
               {% endif %}
+              <div class="flex items-center text-xs text-gray-500">
+                <a
+                  href="{{ article.id }}/"
+                  class="inline-flex items-center hover:text-blue-600 transition-colors"
+                  title="Открыть папку со страницей"
+                >
+                  <svg
+                    class="h-3.5 w-3.5 mr-1"
+                    viewBox="0 0 16 16"
+                    fill="currentColor"
+                  >
+                    <path
+                      d="M1.75 1A1.75 1.75 0 0 0 0 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0 0 16 13.25v-8.5A1.75 1.75 0 0 0 14.25 3H7.5a.25.25 0 0 1-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75Z"
+                    />
+                  </svg>
+                  <span>Файлы страницы</span>
+                </a>
+              </div>
             </div>
           </div>
           {% endif %}
