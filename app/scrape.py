@@ -11,6 +11,9 @@
 HTML в файл index.html.
 
 Использует асинхронные задачи для параллельной загрузки страниц и их ресурсов.
+
+Пример использования (из корневой директории проекта):
+    uv run ./app/scrape.py
 """
 
 import asyncio
@@ -29,22 +32,21 @@ from bs4 import BeautifulSoup
 from logger import setup_logging
 from schemas.readwise import EnrichedReadwiseDocument
 
-logger = logging.getLogger(__name__)
-request_semaphore = Semaphore(20)  # Ограничиваем количество одновременных запросов
-file_semaphore = Semaphore(8)  # Ограничиваем кол-во одновременных файловых операций
-
-MAX_CACHE_SIZE = 1000 * 1024 * 1024  # 1000MB
-download_cache: dict[str, bytes] = {}  # URL -> content
-current_cache_size = 0
-cache_size_lock = Lock()
-
 # Для просты хардкодим параметры, не выделяя их в аргументы или конфиг.
 # Они не будут меняться, а если будут, то не критично.
 ARCHIVE_DIR = "./scratch/archive"
+MAX_CACHE_SIZE = 1000 * 1024 * 1024  # 1000MB
 MAX_SCRAPE_WORKERS = 8  # По количеству ядер в M1
 MAX_DOWNLOAD_WORKERS = 16  # x2 от количества ядер
 HTTPX_TIMEOUT = 10  # секунд
 STOP_TOKEN = object()  # Уникальный объект как сигнал остановки рабочим
+
+logger = logging.getLogger(__name__)
+request_semaphore = Semaphore(20)  # Ограничиваем количество одновременных запросов
+file_semaphore = Semaphore(8)  # Ограничиваем кол-во одновременных файловых операций
+download_cache: dict[str, bytes] = {}  # URL -> content
+current_cache_size = 0
+cache_size_lock = Lock()
 
 
 async def main():
@@ -53,8 +55,6 @@ async def main():
         filepath=Path("./web/src/assets/articles.json"),
     )
     print(f"Загружено {len(articles)} постов")
-
-    # Сформируем список ссылок для обработки
 
     # Наполняем очередь ссылками для обработки и загрузки
     # проверяем, что страница не была загружена ранее - по имени директории
