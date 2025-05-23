@@ -17,7 +17,7 @@ import asyncio
 import json
 import logging
 import os
-from asyncio import Lock, Queue
+from asyncio import Lock, Queue, Semaphore
 from pathlib import Path
 from time import perf_counter
 from urllib.parse import urljoin, urlparse
@@ -30,6 +30,7 @@ from logger import setup_logging
 from schemas.readwise import EnrichedReadwiseDocument
 
 logger = logging.getLogger(__name__)
+request_semaphore = Semaphore(10)  # Ограничиваем количество одновременных запросов
 
 ARCHIVE_DIR = "./scratch/archive"
 MAX_DOWNLOAD_WORKERS = 5
@@ -38,11 +39,6 @@ HTTPX_TIMEOUT = 10  # секунд
 
 
 async def main():
-    """
-    Основная функция для запуска скрипта. Загружает статьи из файла
-    articles.json, формирует очередь ссылок для обработки и запускает
-    асинхронные задачи для загрузки страниц и их ресурсов.
-    """
     # Загрузим список ссылок из файла "./web/src/assets/articles.json"
     articles = load_articles_from_file(
         filepath=Path("./web/src/assets/articles.json"),
@@ -65,25 +61,30 @@ async def main():
     ]
     print(f"В очереди {scrape_queue.qsize()} ссылок для обработки")
 
-    # Использовать asyncio.gather для параллельной загрузки
-    scrapers = [
-        asyncio.create_task(
-            scrape_worker(
-                worker_id=worker_id,
-                scrape_queue=scrape_queue,
-                output_dir=ARCHIVE_DIR,
+    # Используем единый HTTP клиент для всех запросов
+    async with httpx.AsyncClient(
+        timeout=HTTPX_TIMEOUT,
+        follow_redirects=True,
+    ) as client:
+        scrapers = [
+            asyncio.create_task(
+                scrape_worker(
+                    worker_id=worker_id,
+                    scrape_queue=scrape_queue,
+                    output_dir=ARCHIVE_DIR,
+                    client=client,
+                )
             )
-        )
-        for worker_id in range(MAX_SCRAPE_WORKERS)
-    ]
+            for worker_id in range(MAX_SCRAPE_WORKERS)
+        ]
 
-    start = perf_counter()
-    await asyncio.gather(
-        scrape_queue.join(),
-        *scrapers,
-    )
-    elapsed_time = perf_counter() - start
-    print(f"🎉 Загрузка завершена за {elapsed_time:.2f} сек.")
+        start = perf_counter()
+        await asyncio.gather(
+            scrape_queue.join(),
+            *scrapers,
+        )
+        elapsed_time = perf_counter() - start
+        print(f"🎉 Загрузка завершена за {elapsed_time:.2f} сек.")
 
 
 async def scrape_worker(
@@ -91,6 +92,7 @@ async def scrape_worker(
     worker_id: int,
     scrape_queue: Queue,
     output_dir: str,
+    client: httpx.AsyncClient,
 ):
     """
     Рабочий для загрузки страниц. После загрузки страницы, извлекает ссылки на
@@ -100,6 +102,7 @@ async def scrape_worker(
     :param worker_id: ID рабочего
     :param scrape_queue: Очередь ссылок для загрузки
     :param output_dir: Директория для сохранения поддиректорий с загруженными файлами
+    :param client: HTTP клиент для загрузки страниц
     """
     # В очередь ничего не будет добавлено, поэтому используем while
     # и проверяем, что очередь не пуста
@@ -109,7 +112,10 @@ async def scrape_worker(
         url = doc.source_url
 
         logger.info(f"Worker S-{worker_id} | Скачиваю {url}")
-        data = await download_url(url=url)
+        data = await download_url(
+            url=url,
+            client=client,
+        )
         if data is None:
             logger.error(f"Worker S-{worker_id} | ❌ Не смог скачать {url}")
             # Отметить задачу как выполненную
@@ -152,6 +158,7 @@ async def scrape_worker(
         names = await download_links(
             links=all_links,
             output_dir=doc_output_dir,
+            client=client,
         )
 
         # Заменить ссылки в HTML на локальные
@@ -178,12 +185,14 @@ async def download_links(
     *,
     links: list[str],
     output_dir: str,
+    client: httpx.AsyncClient,
 ) -> dict[str, str]:
     """
     Загружает файлы по указанным ссылкам и сохраняет их в указанной директории.
 
     :param links: Список ссылок для загрузки
     :param output_dir: Директория для сохранения файлов
+    :param client: HTTP клиент для загрузки файлов
     :return: Словарь с соответствием между ссылками и именами локальных файлов
     """
     # Заполняем очередь ссылками для загрузки
@@ -203,6 +212,7 @@ async def download_links(
                 download_lock=download_lock,
                 output_dir=output_dir,
                 links_to_filenames=links_to_filenames,
+                client=client,
             )
         )
         for worker_id in range(MAX_DOWNLOAD_WORKERS)
@@ -224,6 +234,7 @@ async def download_worker(
     download_lock: Lock,
     output_dir: str,
     links_to_filenames: dict[str, str],
+    client: httpx.AsyncClient,
 ) -> None:
     """
     Рабочий для загрузки файлов. После загрузки файла, сохраняет его в указанной
@@ -235,6 +246,7 @@ async def download_worker(
     :param download_lock: Блокировка для синхронизации доступа к словарю
     :param output_dir: Директория для сохранения файлов
     :param links_to_filenames: Словарь для хранения соответствия между ссылками и именами файлов
+    :param client: HTTP клиент для загрузки файлов
     """
     # В очередь ничего не будет добавлено, поэтому используем while
     # и проверяем, что очередь не пуста
@@ -244,7 +256,10 @@ async def download_worker(
         filepath = Path(output_dir) / filename
 
         logger.info(f"Worker D-{worker_id} | Скачиваю {link} to {filepath}")
-        data = await download_url(url=link)
+        data = await download_url(
+            url=link,
+            client=client,
+        )
         if data is None:
             logger.error(f"Worker D-{worker_id} | Не смог скачать {link}")
             # В случае ошибки, оставляем оригинальную ссылку
@@ -386,33 +401,36 @@ def create_filename(
 async def download_url(
     *,
     url: str,
+    client: httpx.AsyncClient,
 ) -> bytes | None:
     """
     Загружает контент по указанному URL.
 
     :param url: URL для загрузки
+    :param client: HTTP клиент для загрузки
     :return: Контент в байтах или None в случае ошибки
     """
-    async with httpx.AsyncClient() as client:
-        try:
-            response = await client.get(
-                url=url,
-                timeout=HTTPX_TIMEOUT,
-                # Обязательно следуем за редиректами
-                follow_redirects=True,
-            )
-        except httpx.ConnectTimeout as e:
-            logger.error(f"❌ Таймаут соединения с {url}: {e}")
-            return None
-        except httpx.RequestError as e:
-            logger.error(f"❌ Ошибка запроса к {url}: {e}")
-            return None
+    async with request_semaphore:
+        async with httpx.AsyncClient() as client:
+            try:
+                response = await client.get(
+                    url=url,
+                    timeout=HTTPX_TIMEOUT,
+                    # Обязательно следуем за редиректами
+                    follow_redirects=True,
+                )
+            except httpx.ConnectTimeout as e:
+                logger.error(f"❌ Таймаут соединения с {url}: {e}")
+                return None
+            except httpx.RequestError as e:
+                logger.error(f"❌ Ошибка запроса к {url}: {e}")
+                return None
 
-        if response.status_code == 200:
-            return response.content
-        else:
-            logger.warning(f"❌ Не смог скачать {url}: {response.status_code}")
-            return None
+            if response.status_code == 200:
+                return response.content
+            else:
+                logger.warning(f"❌ Не смог скачать {url}: {response.status_code}")
+                return None
 
 
 async def save_to_file(
