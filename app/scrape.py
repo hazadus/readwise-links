@@ -33,10 +33,13 @@ logger = logging.getLogger(__name__)
 request_semaphore = Semaphore(10)  # Ограничиваем количество одновременных запросов
 download_cache: dict[str, bytes] = {}  # URL -> content
 
+# Для просты хардкодим параметры, не выделяя их в аргументы или конфиг.
+# Они не будут меняться, а если будут, то не критично.
 ARCHIVE_DIR = "./scratch/archive"
 MAX_DOWNLOAD_WORKERS = 5
 MAX_SCRAPE_WORKERS = 5
 HTTPX_TIMEOUT = 10  # секунд
+STOP_TOKEN = object()  # Уникальный объект как сигнал остановки рабочим
 
 
 async def main():
@@ -67,25 +70,36 @@ async def main():
         timeout=HTTPX_TIMEOUT,
         follow_redirects=True,
     ) as client:
-        scrapers = [
-            asyncio.create_task(
-                scrape_worker(
-                    worker_id=worker_id,
-                    scrape_queue=scrape_queue,
-                    output_dir=ARCHIVE_DIR,
-                    client=client,
+        try:
+            scrapers = [
+                asyncio.create_task(
+                    scrape_worker(
+                        worker_id=worker_id,
+                        scrape_queue=scrape_queue,
+                        output_dir=ARCHIVE_DIR,
+                        client=client,
+                    )
                 )
-            )
-            for worker_id in range(MAX_SCRAPE_WORKERS)
-        ]
+                for worker_id in range(MAX_SCRAPE_WORKERS)
+            ]
 
-        start = perf_counter()
-        await asyncio.gather(
-            scrape_queue.join(),
-            *scrapers,
-        )
-        elapsed_time = perf_counter() - start
-        print(f"🎉 Загрузка завершена за {elapsed_time:.2f} сек.")
+            # Добавляем STOP_TOKEN для каждого воркера для исключения
+            # блокировок при завершении
+            for _ in range(MAX_SCRAPE_WORKERS):
+                scrape_queue.put_nowait(STOP_TOKEN)
+
+            start = perf_counter()
+            await scrape_queue.join()
+            for task in scrapers:
+                task.cancel()
+            await asyncio.gather(*scrapers, return_exceptions=True)
+            elapsed_time = perf_counter() - start
+            print(f"🎉 Загрузка завершена за {elapsed_time:.2f} сек.")
+        except Exception as e:
+            logger.error(f"Произошла ошибка: {e}")
+            for task in scrapers:
+                if not task.done():
+                    task.cancel()
 
 
 async def scrape_worker(
@@ -105,11 +119,12 @@ async def scrape_worker(
     :param output_dir: Директория для сохранения поддиректорий с загруженными файлами
     :param client: HTTP клиент для загрузки страниц
     """
-    # В очередь ничего не будет добавлено, поэтому используем while
-    # и проверяем, что очередь не пуста
-    while not scrape_queue.empty():
-        # Загружаем страницу
-        doc: EnrichedReadwiseDocument = scrape_queue.get_nowait()
+    while True:
+        doc = await scrape_queue.get()
+        if doc is STOP_TOKEN:
+            scrape_queue.task_done()
+            break
+
         url = doc.source_url
 
         logger.info(f"Worker S-{worker_id} | Скачиваю {url}")
@@ -200,30 +215,41 @@ async def download_links(
     download_queue = Queue()
     [download_queue.put_nowait(link) for link in links]
 
+    # Добавляем STOP_TOKEN для каждого воркера для исключения
+    # блокировок при завершении
+    for _ in range(MAX_DOWNLOAD_WORKERS):
+        download_queue.put_nowait(STOP_TOKEN)
+
     # Словарь для хранения соответствия между ссылками и именами локальных файлов
     links_to_filenames = {}
     download_lock = Lock()
 
     # Использовать asyncio.gather для параллельной загрузки
-    downloaders = [
-        asyncio.create_task(
-            download_worker(
-                worker_id=worker_id,
-                download_queue=download_queue,
-                download_lock=download_lock,
-                output_dir=output_dir,
-                links_to_filenames=links_to_filenames,
-                client=client,
+    try:
+        downloaders = [
+            asyncio.create_task(
+                download_worker(
+                    worker_id=worker_id,
+                    download_queue=download_queue,
+                    download_lock=download_lock,
+                    output_dir=output_dir,
+                    links_to_filenames=links_to_filenames,
+                    client=client,
+                )
             )
-        )
-        for worker_id in range(MAX_DOWNLOAD_WORKERS)
-    ]
+            for worker_id in range(MAX_DOWNLOAD_WORKERS)
+        ]
 
-    # Обрабатываем всю очередь воркерами
-    await asyncio.gather(
-        download_queue.join(),
-        *downloaders,
-    )
+        # Обрабатываем всю очередь воркерами
+        await download_queue.join()
+        for task in downloaders:
+            task.cancel()
+        await asyncio.gather(*downloaders, return_exceptions=True)
+    except Exception as e:
+        logger.error(f"Произошла ошибка: {e}")
+        for task in downloaders:
+            if not task.done():
+                task.cancel()
 
     return links_to_filenames
 
@@ -249,10 +275,12 @@ async def download_worker(
     :param links_to_filenames: Словарь для хранения соответствия между ссылками и именами файлов
     :param client: HTTP клиент для загрузки файлов
     """
-    # В очередь ничего не будет добавлено, поэтому используем while
-    # и проверяем, что очередь не пуста
-    while not download_queue.empty():
-        link = download_queue.get_nowait()
+    while True:
+        link = await download_queue.get()
+        if link is STOP_TOKEN:
+            download_queue.task_done()
+            break
+
         filename = create_filename(url=link)
         filepath = Path(output_dir) / filename
 
@@ -387,7 +415,8 @@ def create_filename(
     url: str,
 ) -> str:
     """
-    Создаёт уникальное имя файла на основе URL.
+    Создаёт уникальное имя файла на основе URL. Исходное имя файла нас
+    не интересует, поэтому новое имя будет сгенерировано случайно.
 
     :param url: URL для создания имени файла
     :return: Имя файла
