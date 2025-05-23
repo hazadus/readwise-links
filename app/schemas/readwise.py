@@ -56,3 +56,13 @@ class ReadwiseDocumentList(BaseModel):
     count: int
     nextPageCursor: str | None = None
     results: list[ReadwiseDocument]
+
+
+class EnrichedReadwiseDocument(ReadwiseDocument):
+    """
+    Схема данных для обогащенного документа Readwise.
+    В таком виде мы сохраняем в articles.json для фронта и скрапера.
+    """
+
+    highlights: list["EnrichedReadwiseDocument"] | None = None
+    notes_attached: list["EnrichedReadwiseDocument"] | None = None
