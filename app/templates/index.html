@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <title>Архив страниц из Readwise Reader</title>
+  </head>
+
+  <body class="bg-gray-50 min-h-screen p-4 md:p-8">
+    <div class="max-w-4xl mx-auto">
+      <h2 class="text-2xl font-bold text-gray-800 mb-6">Архив страниц из Readwise Reader</h2>
+      <div class="flex flex-wrap gap-x-5 gap-y-2 text-sm text-gray-500 mb-6">
+        <p class="flex items-center">
+          <svg
+            class="h-4 w-4 mr-1"
+            viewBox="0 0 16 16"
+            fill="currentColor"
+          >
+            <path
+              d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"
+            ></path>
+          </svg>
+          <span>Сгенерировано: {{ now.strftime("%d.%m.%Y, %H:%M") }}</span>
+        </p>
+        <p class="flex items-center">
+          <svg
+            class="h-4 w-4 mr-1"
+            viewBox="0 0 16 16"
+            fill="currentColor"
+          >
+            <path
+              d="M0 1.75A1.75 1.75 0 0 1 1.75 0h12.5A1.75 1.75 0 0 1 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM1.75 1.5a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25ZM3 5.75A.75.75 0 0 1 3.75 5h8.5a.75.75 0 0 1 0 1.5h-8.5A.75.75 0 0 1 3 5.75Zm0 4a.75.75 0 0 1 .75-.75h8.5a.75.75 0 0 1 0 1.5h-8.5A.75.75 0 0 1 3 9.75ZM3.75 3h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Z"
+            ></path>
+          </svg>
+          <span>Страниц в архиве: {{ articles|length }}</span>
+        </p>
+      </div>
+
+      <div class="space-y-4">
+        {% for article in articles %}
+        <div class="rounded-md border border-gray-200 bg-white shadow-sm overflow-hidden">
+          <!-- Хэдер с заголовком -->
+          <div class="border-b border-gray-200 bg-gray-50 px-4 py-3">
+            <a
+              href="{{ article.id }}/index.html"
+              class="text-lg font-semibold text-blue-600 hover:text-blue-800 hover:underline break-words"
+              target="_blank"
+              >{{ article.title }}</a
+            >
+            {% if article.author %}
+            <div class="mt-1 flex items-center text-sm text-gray-600">
+              <svg
+                class="h-4 w-4 mr-1"
+                viewBox="0 0 16 16"
+                fill="currentColor"
+              >
+                <path
+                  d="M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16zm.847-8.145a2.502 2.502 0 1 0-1.645 0C5.686 8.15 4.5 9.5 4.5 11c0 .5.5 1 1 1h5c.5 0 1-.5 1-1 0-1.5-1.186-2.85-2.653-3.145zM8 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"
+                ></path>
+              </svg>
+              <span>{{ article.author }}</span>
+            </div>
+            {% endif %}
+          </div>
+
+          <!-- Контент -->
+          <div class="px-4 py-3">
+            <!-- Тэги -->
+            {% if article.tags and article.tags|length > 0 %}
+            <div class="flex flex-wrap gap-1 mb-3">
+              {% for tag in article.tags %}
+              <span
+                class="inline-flex items-center px-2 py-1 rounded-md text-xs font-medium bg-blue-100 text-blue-800"
+              >
+                <svg
+                  class="h-3 w-3 mr-1"
+                  viewBox="0 0 16 16"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.75 1.75 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"
+                  ></path>
+                </svg>
+                #{{ tag }}
+              </span>
+              {% endfor %}
+            </div>
+            {% endif %}
+
+            <!-- Заметка пользователя к посту -->
+            {% if article.notes %}
+            <div class="mb-3 rounded-md bg-yellow-50 border border-yellow-200 px-3 py-2">
+              <div class="flex">
+                <svg
+                  class="h-5 w-5 text-yellow-700 mt-0.5 mr-2 flex-shrink-0"
+                  viewBox="0 0 16 16"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25Zm1.75-.25a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-8.5a.25.25 0 0 0-.25-.25ZM3.5 6.25a.75.75 0 0 1 .75-.75h7a.75.75 0 0 1 0 1.5h-7a.75.75 0 0 1-.75-.75Zm.75 2.25h4a.75.75 0 0 1 0 1.5h-4a.75.75 0 0 1 0-1.5Z"
+                  ></path>
+                </svg>
+                <div class="text-sm text-gray-700">{{ article.notes }}</div>
+              </div>
+            </div>
+            {% endif %}
+
+            <!-- Summary -->
+            {% if article.summary %}
+            <div class="mb-3 rounded-md bg-gray-50 border border-gray-200 px-3 py-2 text-sm text-gray-700">
+              {{ article.summary }}
+            </div>
+            {% endif %}
+
+            <!-- Highlights -->
+            {% if article.highlights and article.highlights|length > 0 %}
+            <div class="space-y-2">
+              {% for hl in article.highlights %}
+              <div class="border-l-4 border-green-300 bg-green-50 pl-3 py-2 pr-2 text-sm text-gray-700">
+                {{ hl.content }}
+
+                <!-- Заметки к highlight -->
+                {% if hl.notes_attached %}
+                <div class="mt-2 pl-3 border-l-2 border-gray-300">
+                  {% for hlNote in hl.notes_attached %}
+                  <div class="text-xs italic text-gray-600">
+                    <svg
+                      class="inline-block h-3 w-3 mr-1"
+                      viewBox="0 0 16 16"
+                      fill="currentColor"
+                    >
+                      <path
+                        d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25Zm1.75-.25a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-8.5a.25.25 0 0 0-.25-.25ZM3.5 6.25a.75.75 0 0 1 .75-.75h7a.75.75 0 0 1 0 1.5h-7a.75.75 0 0 1-.75-.75Zm.75 2.25h4a.75.75 0 0 1 0 1.5h-4a.75.75 0 0 1 0-1.5Z"
+                      ></path>
+                    </svg>
+                    {{ hlNote.content }}
+                  </div>
+                  {% endfor %}
+                </div>
+                {% endif %}
+              </div>
+              {% endfor %}
+            </div>
+            {% endif %}
+          </div>
+
+          <!-- Футер с датами и количеством слов, а также ссылкой на директорию с файлами страницы -->
+          {% if article.saved_at or article.published_date %}
+          <div class="border-t border-gray-200 bg-gray-50 px-4 py-2">
+            <div class="flex flex-wrap gap-x-4 gap-y-1 text-xs text-gray-600">
+              {% if article.saved_at %}
+              <div class="flex items-center">
+                <svg
+                  class="h-3.5 w-3.5 mr-1"
+                  viewBox="0 0 16 16"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"
+                  ></path>
+                </svg>
+                <span>Сохранено: {{ article.saved_at.strftime("%Y-%m-%d") }}</span>
+              </div>
+              {% endif %} {% if article.published_date %}
+              <div class="flex items-center">
+                <svg
+                  class="h-3.5 w-3.5 mr-1"
+                  viewBox="0 0 16 16"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"
+                  ></path>
+                </svg>
+                <span>Опубликовано: {{ article.published_date }}</span>
+              </div>
+              {% endif %} {% if article.word_count %}
+              <div class="flex items-center">
+                <svg
+                  class="h-3.5 w-3.5 mr-1"
+                  viewBox="0 0 16 16"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M0 1.75A1.75 1.75 0 0 1 1.75 0h12.5A1.75 1.75 0 0 1 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM1.75 1.5a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25ZM3 5.75A.75.75 0 0 1 3.75 5h8.5a.75.75 0 0 1 0 1.5h-8.5A.75.75 0 0 1 3 5.75Zm0 4a.75.75 0 0 1 .75-.75h8.5a.75.75 0 0 1 0 1.5h-8.5A.75.75 0 0 1 3 9.75ZM3.75 3h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Z"
+                  ></path>
+                </svg>
+                <span>{{ article.word_count }} слов</span>
+              </div>
+              {% endif %}
+              <div class="flex items-center text-xs text-gray-500">
+                <a
+                  href="{{ article.id }}/"
+                  class="inline-flex items-center hover:text-blue-600 transition-colors"
+                  title="Открыть папку со страницей"
+                >
+                  <svg
+                    class="h-3.5 w-3.5 mr-1"
+                    viewBox="0 0 16 16"
+                    fill="currentColor"
+                  >
+                    <path
+                      d="M1.75 1A1.75 1.75 0 0 0 0 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0 0 16 13.25v-8.5A1.75 1.75 0 0 0 14.25 3H7.5a.25.25 0 0 1-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75Z"
+                    />
+                  </svg>
+                  <span>Файлы страницы</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </body>
+</html>

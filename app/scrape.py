@@ -10,7 +10,10 @@
 - Затем изменяет в HTML ссылки на сохранённые файлы на локальные и сохраняет изменённый
 HTML в файл index.html.
 
-Использует асинхронные задачи для параллельной загрузки страниц и их ресурсов.
+- Создаёт оглавление страниц в архиве, генерируя страницу по шаблону index.html.
+
+Использует асинхронные задачи для параллельной загрузки страниц и их ресурсов. Использует
+кеширование для ускорения загрузки страниц, которые уже были загружены ранее.
 
 Пример использования (из корневой директории проекта):
     uv run ./app/scrape.py
@@ -21,6 +24,7 @@ import json
 import logging
 import os
 from asyncio import Lock, Queue, Semaphore
+from datetime import datetime
 from pathlib import Path
 from time import perf_counter
 from urllib.parse import urljoin, urlparse
@@ -29,12 +33,14 @@ from uuid import uuid4
 import aiofiles
 import httpx
 from bs4 import BeautifulSoup
+from jinja2 import Environment, FileSystemLoader
 from logger import setup_logging
 from schemas.readwise import EnrichedReadwiseDocument
 
 # Для просты хардкодим параметры, не выделяя их в аргументы или конфиг.
 # Они не будут меняться, а если будут, то не критично.
 ARCHIVE_DIR = "./scratch/archive"
+TEMPLATE_DIR = "./app/templates"
 MAX_CACHE_SIZE = 1000 * 1024 * 1024  # 1000MB
 MAX_SCRAPE_WORKERS = 8  # По количеству ядер в M1
 MAX_DOWNLOAD_WORKERS = 16  # x2 от количества ядер
@@ -111,6 +117,12 @@ async def main():
         if scrapers:
             # Собираем возможные исключения из отмененных задач
             await asyncio.gather(*scrapers, return_exceptions=True)
+
+    # Создаём оглавление страниц в архиве
+    create_archive_index(
+        articles=articles,
+        output_dir=ARCHIVE_DIR,
+    )
 
 
 async def scrape_worker(
@@ -511,6 +523,49 @@ def load_articles_from_file(
     parsed_data = json.loads(data)
     articles = [EnrichedReadwiseDocument.model_validate(doc) for doc in parsed_data]
     return articles
+
+
+def create_archive_index(
+    *,
+    articles: list[EnrichedReadwiseDocument],
+    output_dir: str,
+) -> None:
+    """
+    Создаёт оглавление страниц в архиве.
+
+    :param articles: Список постов
+    :param output_dir: Директория для сохранения индекса
+    """
+    # Оставляем только статьи, файлы которых были загружены
+    articles = [
+        doc
+        for doc in articles
+        if os.path.exists(Path(output_dir) / doc.id / "index.html")
+    ]
+
+    # Сортируем статьи по дате сохранения
+    articles = sorted(
+        articles,
+        key=lambda doc: doc.saved_at,
+        reverse=True,
+    )
+
+    # Генерируем страницу по шаблону
+    env = Environment(
+        loader=FileSystemLoader(TEMPLATE_DIR),
+        autoescape=True,
+    )
+    template = env.get_template("index.html")
+
+    content = template.render(
+        articles=articles,
+        now=datetime.now(),
+    )
+
+    with open(Path(output_dir) / "index.html", "w", encoding="utf-8") as f:
+        f.write(content)
+
+    logger.info(f"✅  Создан индекс статей в {output_dir} ({len(articles)} статей)")
 
 
 if __name__ == "__main__":
