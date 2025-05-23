@@ -429,10 +429,11 @@ async def download_url_cached(
 
     # Проверяем, переполнится ли кеш при добавлении нового элемента
     async with cache_size_lock:
-        if current_cache_size + len(result) <= MAX_CACHE_SIZE:
+        size = len(result) if result is not None else 0
+        if current_cache_size + size <= MAX_CACHE_SIZE:
             logger.debug(f"🔄 Сохраняем кеш для {url}")
             download_cache[url] = result
-            current_cache_size += len(result)
+            current_cache_size += size
         else:
             logger.debug("❌ Кеш переполнен, больше не сохраняем")
 
