@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [You can style alt text like any other text](https://piccalil.li/blog/you-can-style-alt-text-like-any-other-text/?ref=main-rss-feed) 👤 Andy Bell 💬 672 🔖 #css 🗓️ 2025-05-23
+    > **Резюме:** You can style alt text using CSS to improve the experience when images fail to load. By applying specific styles to the `<img>` elements, the alt text can look better and be more user-friendly. This approach not only enhances visual appeal but also ensures that the layout remains balanced and accessible.
 - [Container Queries Unleashed](https://www.joshwcomeau.com/css/container-queries-unleashed/?from=newsletter) 👤 Josh W. Comeau 💬 1069 🔖 #css 🗓️ 2025-01-28
     > **Резюме:** Container queries are a powerful tool for creating flexible and responsive user interfaces that adapt based on the size of their containers rather than the viewport. This allows for more precise control over layouts, making it easier to design complex UIs without relying on arbitrary breakpoints. As developers explore container queries, they can unlock new possibilities for dynamic and layered designs in web applications.
 - [Fluid Hover Cards with Tailwind CSS Tutorial | Epic Web Dev](https://www.epicweb.dev/tutorials/fluid-hover-cards-with-tailwind-css) 👤 epicweb.dev 💬 3 🔖 #css, #tailwind, #tutorial 🗓️ 2024-01-26

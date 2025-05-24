@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 83
+- Всего ссылок: 84
 
 ## Ссылки
 
+- [Strengths and limitations of diffusion language models](https://seangoedecke.com/limitations-of-text-diffusion-models/) 👤 seangoedecke.com 💬 1334 🔖 #llm 🗓️ 2025-05-23
+    > **Резюме:** Diffusion models generate text much faster than traditional autoregressive models because they create multiple tokens at once instead of one-by-one. While they excel in speed for longer outputs, they may struggle with reasoning tasks compared to autoregressive models. Additionally, diffusion models can use transformer technology, but their overall behavior differs significantly from autoregressive models.
 - [I really don’t like ChatGPT’s new memory feature](https://simonwillison.net/2025/May/21/chatgpt-new-memory/#atom-everything) 👤 Simon Willison 💬 2161 🔖 #llm 🗓️ 2025-05-22
     > **Резюме:** The author expresses frustration with ChatGPT's new memory feature, which allows the AI to reference past conversations for personalized responses. They highlight concerns about losing control over what information is remembered and the potential impact on future interactions. The author wishes for a more customizable memory option that allows users to manage which past chats are considered in ongoing conversations.
 - [Practical AI techniques for daily engineering work](https://seangoedecke.com/practical-ai-techniques/) 👤 seangoedecke.com 💬 1120 🔖 #llm 🗓️ 2025-05-21

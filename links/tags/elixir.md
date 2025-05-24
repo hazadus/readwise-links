@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [An Animated Introduction to Elixir](https://www.freecodecamp.org/news/an-animated-introduction-to-elixir/) 👤 Mark Mahoney 💬 685 🔖 #elixir 🗓️ 2025-05-23
+    > **Резюме:** Elixir is a functional programming language that simplifies building scalable and maintainable applications using the Erlang VM. It offers features like immutability, first-class functions, and a powerful concurrency model, making it easier to write clean and efficient code. An interactive tutorial called "An Animated Introduction to Elixir" helps beginners learn the language through step-by-step code playbacks.
 - [The Most Admired Web Framework](https://www.youtube.com/watch?v=RNMwz5n1M80) 👤 Code to the Moon 🔖 #elixir 🗓️ 2025-02-12
     > **Резюме:** The author discusses their favorite web framework, Phoenix Live View, highlighting its ability to create interactive web applications with real-time updates. They explain how it uses websockets to stream changes to all users without needing to refresh the entire page. The author believes Phoenix is well-suited for applications requiring state management across multiple users.
 - [Advent of Code 2024 with Elixir - Part 2: The Better](https://simoncrowe.hashnode.dev/advent-of-code-2024-with-elixir-part-2-the-better) 👤 Simon Crowe 💬 623 🔖 #elixir 🗓️ 2025-01-27
