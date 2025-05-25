@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 188
+- Всего ссылок: 189
 
 ## Ссылки
 
+- [http.DefaultTransport](https://antonz.org/default-transport/) 👤 Anton Zhiyanov 💬 804 🔖 #go 🗓️ 2025-05-24
+    > **Резюме:** The article discusses the Go programming language's `http.DefaultTransport`, which is a variable representing the default HTTP transport settings. It highlights the unusual choice of declaring it as a `RoundTripper` interface instead of a specific `*Transport` type, leading to complications when modifying transport options. The author suggests that a more straightforward approach would be to create a function that returns a specific transport type, but notes that the Go team is unlikely to implement this change.
 - [A Picture Is Worth More Than 20 Lines Of Code • The Applied Go Weekly Newsletter 2025-05-18](https://newsletter.appliedgo.net/archive/2025-05-18-a-picture-is-worth-more-than-20-lines-of-code/) 👤 The Applied Go Weekly Newsletter 💬 1822 🔖 #go 🗓️ 2025-05-19
     > **Резюме:** The newsletter discusses how to display images in the Go Playground, highlighting that it can render images by using base64 encoding. It shares code examples to create and scale a Tupper's formula image, demonstrating a more visual approach than ASCII art. Additionally, the newsletter features articles, podcasts, and tools related to Go programming.
 - [Functional options vs the builder pattern in Go](mailto:reader-forwarded-email/c93fae0180bb3e04c99f8e4bcdc39cb9) 👤 Jon Calhoun 💬 1548 🔖 #go 🗓️ 2025-05-17

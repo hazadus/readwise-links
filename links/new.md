@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 778
+- Всего ссылок: 780
 
 ## Ссылки
 
+- [http.DefaultTransport](https://antonz.org/default-transport/) 👤 Anton Zhiyanov 💬 804 🔖 #go 🗓️ 2025-05-24
+- [Stuff I learned at Carta.](https://lethain.com/stuff-learned-at-carta/) 👤 lethain.com 💬 1059 🗓️ 2025-05-24
 - [An Animated Introduction to Elixir](https://www.freecodecamp.org/news/an-animated-introduction-to-elixir/) 👤 Mark Mahoney 💬 685 🔖 #elixir 🗓️ 2025-05-23
 - [You can style alt text like any other text](https://piccalil.li/blog/you-can-style-alt-text-like-any-other-text/?ref=main-rss-feed) 👤 Andy Bell 💬 672 🔖 #css 🗓️ 2025-05-23
 - [Into the Restless Ruins: Обзор чудесного роуглайка с интересной идеей](https://stopgame.ru/show/147371/into_the_restless_ruins_review_chudesnogo_rouglayka_s_interesnoy_ideey) 👤 Алексей Лихачев 💬 1329 🔖 #game 🗓️ 2025-05-23
