@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 23
+- Всего ссылок: 24
 
 ## Ссылки
 
@@ -14,14 +14,14 @@
     > **Резюме:** The article explains how to create a simple real-time chat service using WebSockets and FastAPI. It covers the basics of WebSockets, how to set up the server-side connections, and the necessary JavaScript for client-side functionality. The author emphasizes that while backend implementation is straightforward, frontend development can be more challenging.
 - [FastAPI + SQLAlchemy: Шаблон приложения с JWT-аутентификацией](https://www.youtube.com/watch?v=ZSqhCyotcnw) 👤 Легкий путь в Python 🔖 #fastapi 🗓️ 2025-01-30
     > **Резюме:** The project demonstrates how to quickly develop an application using FastAPI and SQLAlchemy with JWT authentication. It includes instructions on cloning the template and working with database models. The author shares insights and code examples to aid developers in implementing this setup effectively.
-- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем фронтенд](https://habr.com/ru/companies/amvera/articles/874970/) 👤 Хабр 💬 7979 🔖 #try, #vue, #fastapi, #telegram 🗓️ 2025-01-21
+- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем фронтенд](https://habr.com/ru/companies/amvera/articles/874970/) 👤 Хабр 💬 7979 🔖 #try, #vue, #fastapi, #miniapp, #telegram 🗓️ 2025-01-21
     > **Резюме:** The article discusses creating a Telegram bot using FastAPI and Vue.js 3, focusing on frontend development. It highlights the importance of setting up a structured project with components and routers for better code reusability and navigation. The guide also covers preparing user interfaces for booking appointments with doctors within the application.
 - [Пишем морской бой на VueJS и Python](https://habr.com/ru/articles/874188/) 👤 Хабр 💬 4960 🔖 #vue, #fastapi, #websocket 🗓️ 2025-01-20
     > **Резюме:** The article explains how to create the popular game "Battleship" using VueJS and Python. Players must enter a nickname and complete a simple captcha before arranging their ships on the grid. The game continues until one player sinks all of the opponent's ships, and players can restart by refreshing the page.
 - [Django vs. FastAPI, An Honest Comparison](https://www.david-dahan.com/blog/comparing-fastapi-and-django?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_267) 👤 david-dahan.com 💬 2841 🔖 #django, #fastapi 🗓️ 2025-01-13
     > **Заметка:** Хорошее сравнение двух фреймворков. Анализ целесообразности их применения в разных ситуациях.
     > **Резюме:** Django is a full-stack framework that provides many built-in features, making it beginner-friendly but sometimes rigid. FastAPI focuses on building APIs and requires more choices and configurations, which can be challenging for beginners. Both frameworks have their strengths and weaknesses, so choosing the right one depends on your specific project needs.
-- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем бэкенд](https://habr.com/ru/companies/amvera/articles/873108/) 👤 Хабр 💬 8066 🔖 #try, #fastapi, #telegram 🗓️ 2025-01-13
+- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем бэкенд](https://habr.com/ru/companies/amvera/articles/873108/) 👤 Хабр 💬 8066 🔖 #try, #fastapi, #miniapp, #telegram 🗓️ 2025-01-13
     > **Резюме:** Автор статьи описывает создание телеграм-бота с помощью FastAPI и Vue.js 3 для записи на прием к врачам и автоматических уведомлений. Он делится шагами по разработке бэкенда и подготовки базы данных, упрощая процесс для читателей. Также предлагается возможность задать вопросы и получить дополнительный контент через сообщество в Telegram.
 - [Fullstack App with FastAPI and HTMX | Full Tutorial](https://www.youtube.com/watch?v=sT3WSkMyCXA) 👤 Bek Brace 🔖 #try, #htmx, #fastapi 🗓️ 2024-12-24
     > **Резюме:** This tutorial teaches you how to create a fullstack to-do application using FastAPI and HTMX. You will learn to set up API endpoints for adding, updating, and displaying to-do items without reloading the page. The tutorial guides you through coding the necessary HTML and backend logic to manage your to-do list effectively.
@@ -52,3 +52,5 @@
     > **Резюме:** This tutorial teaches you how to set up and use Celery with FastAPI to manage long-running tasks. You'll learn to integrate Celery, configure it with Redis, and test tasks using unit and integration tests. By the end, you'll understand when to use Celery over BackgroundTasks for CPU-intensive processes and task management.
 - [Python Friday #243: Rate Limit in FastAPI - Improve & Repeat](https://improveandrepeat.com/2024/09/python-friday-243-rate-limit-in-fastapi/) 👤 Johnny Graber 💬 657 🔖 #fastapi 🗓️ 2024-09-07
     > **Резюме:** None
+- [Telegram Web App, FastAPI и вебхуки в одном приложении: Создаем Telegram-бот с веб-интерфейсом для приема заявок / Хабр](https://habr.com/ru/companies/amvera/articles/848644/) 👤 Алексей Яковенко 💬 9729 🔖 #try, #fastapi, #miniapp 🗓️ 2024-10-08
+    > **Резюме:** The article explains how to create a Telegram bot with a web interface using FastAPI and webhooks. It emphasizes that the setup is quick and cost-effective, charging only for active applications. The project involves organizing data structures for requests, services, and masters, making it easy to manage and display information.

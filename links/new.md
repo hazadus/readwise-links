@@ -1,9 +1,16 @@
 # Новые ссылки
 
-- Всего ссылок: 780
+- Всего ссылок: 787
 
 ## Ссылки
 
+- [Remote Single-file Python Scripts with uv](https://joshcannon.me/2025/04/24/remote-single-file-scripts.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_286) 👤 Josh Cannon 💬 353 🔖 #uv, #python 🗓️ 2025-05-25
+- [Thoughts on thinking](https://dcurt.is/thinking) 👤 Dustin Curtis on Svbtle 💬 613 🗓️ 2025-05-25
+- [Staying with Fosstodon](https://leancrew.com/all-this/2025/05/staying-with-fosstodon/) 👤 Dr. Drang 💬 495 🗓️ 2025-05-25
+- [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/#atom-everything) 👤 Simon Willison 💬 5319 🔖 #llm 🗓️ 2025-05-25
+- [In defense of shallow technical knowledge](https://seangoedecke.com/shallow-technical-knowledge/) 👤 seangoedecke.com 💬 1806 🗓️ 2025-05-25
+- [How does ChatGPT work? What is AI, really?](https://seangoedecke.com/what-is-chatgpt/) 👤 seangoedecke.com 💬 1653 🔖 #llm 🗓️ 2025-05-25
+- [Rendering Mechanism](https://vuejs.org/guide/extras/rendering-mechanism#:~:text=The%20main%20benefit%20of%20virtual%20DOM%20is,the%20direct%20DOM%20manipulation%20to%20the%20renderer.) 👤 vuejs.org 💬 1600 🔖 #vue 🗓️ 2025-05-25
 - [http.DefaultTransport](https://antonz.org/default-transport/) 👤 Anton Zhiyanov 💬 804 🔖 #go 🗓️ 2025-05-24
 - [Stuff I learned at Carta.](https://lethain.com/stuff-learned-at-carta/) 👤 lethain.com 💬 1059 🗓️ 2025-05-24
 - [An Animated Introduction to Elixir](https://www.freecodecamp.org/news/an-animated-introduction-to-elixir/) 👤 Mark Mahoney 💬 685 🔖 #elixir 🗓️ 2025-05-23
@@ -764,7 +771,7 @@ UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 
 - [Tracing or Preventing HTTP Redirects in Golang](https://jonathanmh.com/p/tracing-preventing-http-redirects-golang/) 👤 jonathanmh.com 💬 775 🔖 #go 🗓️ 2024-10-05
 - [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/) 👤 Julia Evans 💬 2160 🗓️ 2024-10-06
 - [An Introduction to Templates in Go - Calhoun.io](https://www.calhoun.io/intro-to-templates/) 👤 Jon Calhoun 💬 465 🔖 #go 🗓️ 2024-10-08
-- [Telegram Web App, FastAPI и вебхуки в одном приложении: Создаем Telegram-бот с веб-интерфейсом для приема заявок / Хабр](https://habr.com/ru/companies/amvera/articles/848644/) 👤 Алексей Яковенко 💬 9729 🔖 #try 🗓️ 2024-10-08
+- [Telegram Web App, FastAPI и вебхуки в одном приложении: Создаем Telegram-бот с веб-интерфейсом для приема заявок / Хабр](https://habr.com/ru/companies/amvera/articles/848644/) 👤 Алексей Яковенко 💬 9729 🔖 #try, #fastapi, #miniapp 🗓️ 2024-10-08
 - [Programming is fun — Bitfield Consulting](https://bitfieldconsulting.com/posts/programming-is-fun) 👤 John Arundel 💬 3059 🗓️ 2024-10-09
 - [GitHub - MariaLetta/free-gophers-pack: ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.](https://github.com/MariaLetta/free-gophers-pack) 👤 MariaLetta 💬 251 🗓️ 2024-10-09
 - [PostgreSQL: Documentation: 17: 3.5. Window Functions](https://www.postgresql.org/docs/17/tutorial-window.html) 👤 postgresql.org 💬 1223 🔖 #db, #postgresql 🗓️ 2024-10-12

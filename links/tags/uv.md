@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [Remote Single-file Python Scripts with uv](https://joshcannon.me/2025/04/24/remote-single-file-scripts.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_286) 👤 Josh Cannon 💬 353 🔖 #uv, #python 🗓️ 2025-05-25
+    > **Резюме:** The article explains how to run remote single-file Python scripts easily using the tool "uv." It handles Python installation, supports scripts from URLs, and can manage dependencies automatically. This allows users to share and execute scripts without worrying about configuration or version issues.
 - [🔥uv — швейцарский нож Python-разработчика](https://youtu.be/0Osso8mLL-A) 👤 Диджитализируй! 🔖 #uv 🗓️ 2025-03-17
     > **Резюме:** uv is a powerful package manager for Python developers that simplifies working with different Python versions and dependencies. It allows you to manage project environments without manually creating virtual environments. This tool is highly recommended for efficient dependency management in Python projects.
 - [My 2025 uv-based Python Project Layout for Production Apps](https://www.youtube.com/watch?v=mFyE9xgeKcA) 👤 Hynek Schlawack 🔖 #uv 🗓️ 2025-02-25

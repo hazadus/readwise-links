@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 84
+- Всего ссылок: 86
 
 ## Ссылки
 
+- [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/#atom-everything) 👤 Simon Willison 💬 5319 🔖 #llm 🗓️ 2025-05-25
+    > **Резюме:** Anthropic has shared guidelines for their AI assistant, Claude 4, to ensure accurate and helpful responses. Claude is designed to avoid giving incorrect information, refuse requests for harmful content, and engage in conversations with clear and concise explanations. The system prompts also encourage Claude to respect copyright and adapt its response style based on user preferences.
+- [How does ChatGPT work? What is AI, really?](https://seangoedecke.com/what-is-chatgpt/) 👤 seangoedecke.com 💬 1653 🔖 #llm 🗓️ 2025-05-25
+    > **Резюме:** ChatGPT works by predicting the next word in a sentence based on previous words, using a model trained on millions of sentences. While it can provide accurate information, it may also generate incorrect details, known as "hallucinations." Despite these limitations, its ability to predict words helps it understand concepts about the world.
 - [Strengths and limitations of diffusion language models](https://seangoedecke.com/limitations-of-text-diffusion-models/) 👤 seangoedecke.com 💬 1334 🔖 #llm 🗓️ 2025-05-23
     > **Резюме:** Diffusion models generate text much faster than traditional autoregressive models because they create multiple tokens at once instead of one-by-one. While they excel in speed for longer outputs, they may struggle with reasoning tasks compared to autoregressive models. Additionally, diffusion models can use transformer technology, but their overall behavior differs significantly from autoregressive models.
 - [I really don’t like ChatGPT’s new memory feature](https://simonwillison.net/2025/May/21/chatgpt-new-memory/#atom-everything) 👤 Simon Willison 💬 2161 🔖 #llm 🗓️ 2025-05-22

@@ -309,7 +309,7 @@
 - [Книга "Цель"](https://grishaev.me/goal-book/) 👤 grishaev.me 💬 1234 🗓️ 2025-01-22
 - [The Darkest Dungeon](https://grishaev.me/the-darkest-dungeon/) 👤 grishaev.me 💬 2409 🗓️ 2025-01-22
 - [Как читать книги для самообразования](https://readwise.io/reader/document_raw_content/262840656) 👤 Поварнин С.И. 💬 14256 🔖 #book, #outline, #reading, #learning, #inspiration 🗓️ 2025-01-22
-- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем фронтенд](https://habr.com/ru/companies/amvera/articles/874970/) 👤 Хабр 💬 7979 🔖 #try, #vue, #fastapi, #telegram 🗓️ 2025-01-21
+- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем фронтенд](https://habr.com/ru/companies/amvera/articles/874970/) 👤 Хабр 💬 7979 🔖 #try, #vue, #fastapi, #miniapp, #telegram 🗓️ 2025-01-21
 - [Пишем морской бой на VueJS и Python](https://habr.com/ru/articles/874188/) 👤 Хабр 💬 4960 🔖 #vue, #fastapi, #websocket 🗓️ 2025-01-20
 - [Error Handling No-Goes In Go](https://brainbaking.com/post/2024/03/error-handling-no-goes-in-go/) 👤 Brain Baking 💬 878 🔖 #go, #rust 🗓️ 2025-01-20
     > **Заметка:** Автор в очередной раз критикует паттерны обработки ошибок в Go, и хвалит оные в Rust.
@@ -326,7 +326,7 @@
     > **Заметка:** Хорошее сравнение двух фреймворков. Анализ целесообразности их применения в разных ситуациях.
 - [How to easily track engineering metrics](https://victoronsoftware.com/posts/track-engineering-metrics/) 👤 Victor Lyuboslavsky 💬 943 🔖 #go, #github 🗓️ 2025-01-13
 - [К слову об именах переменных в Go](https://habr.com/ru/articles/872940/) 👤 Хабр 💬 932 🔖 #go 🗓️ 2025-01-13
-- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем бэкенд](https://habr.com/ru/companies/amvera/articles/873108/) 👤 Хабр 💬 8066 🔖 #try, #fastapi, #telegram 🗓️ 2025-01-13
+- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем бэкенд](https://habr.com/ru/companies/amvera/articles/873108/) 👤 Хабр 💬 8066 🔖 #try, #fastapi, #miniapp, #telegram 🗓️ 2025-01-13
 - [Why goals fail](https://thesweetsetup.com/why-do-goals-fail/) 👤 Shawn Blanc 💬 673 🗓️ 2025-01-11
 - [Let's Go](https://readwise.io/reader/document_raw_content/258496378) 👤 Alex Edwards 💬 63139 🔖 #go, #book 🗓️ 2025-01-10
 - [Division of Labor](https://third-bit.com/2025/01/08/division-of-labor/) 👤 third-bit.com 💬 846 🔖 #leaddev, #management 🗓️ 2025-01-10
