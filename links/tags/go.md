@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 189
+- Всего ссылок: 190
 
 ## Ссылки
 
+- [Go, Browser—You Have To Talk! • The Applied Go Weekly Newsletter 2025-05-25](https://newsletter.appliedgo.net/archive/2025-05-25-go-browser-you-have-to-talk/) 👤 The Applied Go Weekly Newsletter 💬 1879 🔖 #go 🗓️ 2025-05-26
+    > **Резюме:** The newsletter discusses how to add a web UI to Go applications, exploring a method that uses WebAssembly to run Go code in the browser. It provides a step-by-step guide for creating a simple web app that interacts with the browser's DOM by reading input and displaying output. Additionally, it highlights the importance of using the correct JavaScript support file and compiling the Go code into a WebAssembly module.
 - [http.DefaultTransport](https://antonz.org/default-transport/) 👤 Anton Zhiyanov 💬 804 🔖 #go 🗓️ 2025-05-24
     > **Резюме:** The article discusses the Go programming language's `http.DefaultTransport`, which is a variable representing the default HTTP transport settings. It highlights the unusual choice of declaring it as a `RoundTripper` interface instead of a specific `*Transport` type, leading to complications when modifying transport options. The author suggests that a more straightforward approach would be to create a function that returns a specific transport type, but notes that the Go team is unlikely to implement this change.
 - [A Picture Is Worth More Than 20 Lines Of Code • The Applied Go Weekly Newsletter 2025-05-18](https://newsletter.appliedgo.net/archive/2025-05-18-a-picture-is-worth-more-than-20-lines-of-code/) 👤 The Applied Go Weekly Newsletter 💬 1822 🔖 #go 🗓️ 2025-05-19

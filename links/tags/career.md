@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 37
+- Всего ссылок: 38
 
 ## Ссылки
 
+- [In defense of shallow technical knowledge](https://seangoedecke.com/shallow-technical-knowledge/) 👤 seangoedecke.com 💬 1806 🔖 #career, #learning 🗓️ 2025-05-25
+    > **Резюме:** Having a shallow understanding of technologies, like AI and database indexes, can help engineers make better decisions without needing to know every detail. This basic knowledge allows for useful insights and intuitions that improve engineering work. It's beneficial to aim for broad knowledge rather than deep expertise in just one area.
 - [Why strong engineers are rarely blocked](https://seangoedecke.com/becoming-unblockable/) 👤 seangoedecke.com 💬 1657 🔖 #career, #development, #time management 🗓️ 2025-05-18
     > **Резюме:** Strong engineers face fewer blocks in their work by using strategies like managing multiple tasks and anticipating potential obstacles. They also know when to ask for help from their management to overcome external blockers. By prioritizing tasks and avoiding unnecessary political fights, they can maintain productivity and keep projects moving forward.
 - [Practical advice for engineers in these troubled times](https://seangoedecke.com/in-these-troubled-times/) 👤 seangoedecke.com 💬 1033 🔖 #career 🗓️ 2025-05-18

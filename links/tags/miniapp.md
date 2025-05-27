@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 2 — VueJS3 + Centrifugo с монетизацией приложения](https://habr.com/ru/companies/amvera/articles/893250/) 👤 Хабр 💬 6857 🔖 #miniapp 🗓️ 2025-03-25
+    > **Резюме:** In this article, the author discusses adding a user interface to an anonymous chat app in Telegram using VueJS and Centrifugo. The app will be monetized through advertisements, and the functionality is designed to ensure messages appear instantly for users. The project is now ready for deployment and can generate income.
+- [Centrifugo v6 + FastAPI + Python: разрабатываем веб-опросник с обновлениями в реальном времени](https://habr.com/ru/companies/amvera/articles/885714/) 👤 Хабр 💬 5239 🔖 #try, #fastapi, #miniapp 🗓️ 2025-02-27
+    > **Резюме:** The article explains how to create a real-time web survey application using Centrifugo and FastAPI. It covers both theoretical concepts and practical implementation, including generating JWT tokens and connecting to Centrifugo. The project allows users to see responses update dynamically without needing to refresh the page.
 - [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем фронтенд](https://habr.com/ru/companies/amvera/articles/874970/) 👤 Хабр 💬 7979 🔖 #try, #vue, #fastapi, #miniapp, #telegram 🗓️ 2025-01-21
     > **Резюме:** The article discusses creating a Telegram bot using FastAPI and Vue.js 3, focusing on frontend development. It highlights the importance of setting up a structured project with components and routers for better code reusability and navigation. The guide also covers preparing user interfaces for booking appointments with doctors within the application.
 - [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем бэкенд](https://habr.com/ru/companies/amvera/articles/873108/) 👤 Хабр 💬 8066 🔖 #try, #fastapi, #miniapp, #telegram 🗓️ 2025-01-13

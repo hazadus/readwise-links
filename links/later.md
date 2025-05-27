@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 39
+- Всего ссылок: 41
 
 ## Ссылки
 
@@ -18,6 +18,8 @@
     > **Резюме:** Meilisearch offers a fast and easy-to-use search solution for Django sites, allowing for customizable indexing and search schemas. It simplifies the process of setting up and maintaining search functionality compared to other options like Elasticsearch. By indexing specific fields from Django models, Meilisearch enables quick and efficient search results tailored to user needs.
 - [Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/#atom-everything) 👤 Simon Willison 💬 2330 🔖 #llm 🗓️ 2025-05-16
     > **Резюме:** Simon Willison held a three-hour workshop at PyCon US on building software using Large Language Models (LLMs). The workshop covered topics like setting up LLMs, prompting techniques, and creating a text to SQL tool. Participants learned about the economic value of structured data extraction and the importance of tool usage and security in LLM applications.
+- [FastAPI + Keycloak: Простая и безопасная авторизация в веб-приложении на примере реального проекта](https://habr.com/ru/companies/amvera/articles/907990/) 👤 Habr 💬 6602 🔖 #fastapi 🗓️ 2025-05-12
+    > **Резюме:** This article explains how to implement a secure authorization system in a web application using Keycloak and FastAPI. Keycloak simplifies user management and offers a reliable login mechanism. The guide covers installation, integration, and deploying the project in the cloud.
 - [Горький урок ABBYY: как лингвисты проиграли последнюю битву за NLP](https://sysblok.ru/blog/gorkij-urok-abbyy-kak-lingvisty-proigrali-poslednjuju-bitvu-za-nlp/) 👤 Даниил Скоринкин 💬 4611 🗓️ 2025-05-12
     > **Резюме:** The article discusses the decline of ABBYY, a once-successful Russian IT company, and the lessons learned from its failed attempts at machine translation. Despite having strong linguistic expertise, ABBYY's ambitious projects struggled due to the complexities of language and the lack of sufficient data and resources. Ultimately, the company's focus shifted towards information retrieval, but it lost its innovative edge in the process.
 - [JavaScript, what is this?](https://piccalil.li/blog/javascript-what-is-this/?ref=main-rss-feed) 👤 Mat “Wilto” Marquis 💬 3410 🔖 #javascript 🗓️ 2025-05-10
@@ -64,6 +66,8 @@
     > **Резюме:** The OWASP Top 10 is a valuable resource for web developers to identify and prevent common security vulnerabilities in full-stack applications. The article explores various vulnerabilities, such as security misconfigurations and insecure designs, and emphasizes the importance of understanding and addressing these issues. By applying the OWASP guidelines, developers can significantly enhance the security of their applications and protect against potential attacks.
 - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/) 👤 GitButler 💬 3188 🔖 #git 🗓️ 2025-02-25
     > **Резюме:** The author shares lesser-known Git configuration settings that core Git developers recommend for better performance. These settings include adjusting default branch names, improving diff algorithms, and enhancing push and fetch behavior. By enabling these options, users can streamline their Git experience and make it more efficient.
+- [Вебсокеты на FastAPI: Реализация простого чата с комнатами за 20 минут](https://habr.com/ru/companies/amvera/articles/884816/) 👤 Хабр 💬 3630 🔖 #try, #fastapi, #websocket 🗓️ 2025-02-24
+    > **Резюме:** The article explains how to create a simple real-time chat service using WebSockets and FastAPI. It covers the basics of WebSockets, how to set up the server-side connections, and the necessary JavaScript for client-side functionality. The author emphasizes that while backend implementation is straightforward, frontend development can be more challenging.
 - [Как собрать своё портфолио для резюме начинающему программисту](https://www.youtube.com/watch?v=r7I0ZXPVCVw) 👤 Диджитализируй! 🗓️ 2025-02-17
     > **Резюме:** Начинающим программистам важно создать качественное портфолио, чтобы продемонстрировать свои навыки и проекты. Рекомендуется публиковать приложения и использовать GitHub для демонстрации кода. Не забывайте уделять внимание оформлению и описанию своих проектов, чтобы привлечь внимание работодателей.
 - [OpenTelemetry: A Guide to Observability with Go](https://www.lucavall.in/blog/opentelemetry-a-guide-to-observability-with-go) 👤 Luca Cavallin 💬 3203 🔖 #go, #observability 🗓️ 2025-02-10

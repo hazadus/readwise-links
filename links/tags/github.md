@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [GitHub Issues search now supports nested queries and boolean operators: Here’s how we (re)built it](https://simonwillison.net/2025/May/26/github-issues-search/#atom-everything) 👤 Simon Willison 💬 149 🔖 #github 🗓️ 2025-05-26
+    > **Резюме:** GitHub Issues now allows users to perform complex searches using nested queries and boolean operators. This upgrade enables more detailed searches, such as combining different issue types and states. The team carefully tested the new feature to ensure it performs well under heavy usage.
+- [GitHub issues for notes](https://simonwillison.net/2025/May/26/notes/#atom-everything) 👤 Simon Willison 💬 192 🔖 #github 🗓️ 2025-05-26
+    > **Резюме:** GitHub issues can serve as a powerful notebook, offering free and unlimited notes with Markdown support. It allows for easy linking between issues and has excellent search capabilities across repositories. However, it lacks offline synchronization, which limits its use on mobile devices.
 - [Why GitHub Actually Won](https://blog.gitbutler.com/why-github-actually-won/) 👤 Scott Chacon 💬 4079 🔖 #git, #github 🗓️ 2025-03-23
     > **Резюме:** GitHub became dominant because it launched at the right time when open-source tools were gaining popularity. The founders had a good sense of design and community, which helped attract early adopters, especially from the Ruby community. As Git grew in use, GitHub's appealing platform made it the go-to choice for code hosting, easily outpacing competitors.
 - [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/using-github/github-flow) 👤 GitHub Docs 💬 1069 🔖 #git, #github 🗓️ 2025-02-05

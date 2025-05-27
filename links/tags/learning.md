@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [In defense of shallow technical knowledge](https://seangoedecke.com/shallow-technical-knowledge/) 👤 seangoedecke.com 💬 1806 🔖 #career, #learning 🗓️ 2025-05-25
+    > **Резюме:** Having a shallow understanding of technologies, like AI and database indexes, can help engineers make better decisions without needing to know every detail. This basic knowledge allows for useful insights and intuitions that improve engineering work. It's beneficial to aim for broad knowledge rather than deep expertise in just one area.
 - [They expect us to keep changing](https://benv.ca/blog/posts/they-expect-us-to-keep-changing) 👤 benv.ca 💬 1358 🔖 #llm, #learning 🗓️ 2025-05-15
     > **Заметка:** Размышления на тему изменений в разработке, связанных с появлением LLM. Вывод - изменения всегда были и будут, это не последнее. Нужно адаптироваться. 
     > **Резюме:** Software engineers are feeling anxious as AI rapidly changes the development landscape, forcing many to learn new skills. This change is not new; developers have faced similar challenges before and must adapt to stay relevant. The author reflects on a past encounter with a worried programmer, highlighting that change and anxiety are part of the tech industry’s history.

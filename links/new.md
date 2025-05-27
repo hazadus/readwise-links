@@ -1,14 +1,20 @@
 # Новые ссылки
 
-- Всего ссылок: 787
+- Всего ссылок: 791
 
 ## Ссылки
 
+- [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/?utm_source=rss) 👤 alexwlchan.net 💬 3756 🗓️ 2025-05-26
+- [Model Context Protocol - Explained! (with Python example)](https://www.youtube.com/watch?v=JF14z6XO4Ho) 👤 BugBytes 🔖 #mcp 🗓️ 2025-05-26
+- [Go, Browser—You Have To Talk! • The Applied Go Weekly Newsletter 2025-05-25](https://newsletter.appliedgo.net/archive/2025-05-25-go-browser-you-have-to-talk/) 👤 The Applied Go Weekly Newsletter 💬 1879 🔖 #go 🗓️ 2025-05-26
+- [Software Engineering Job Titles](https://brainbaking.com/post/2025/05/software-engineering-job-titles/) 👤 Brain Baking 💬 915 🗓️ 2025-05-26
+- [GitHub Issues search now supports nested queries and boolean operators: Here’s how we (re)built it](https://simonwillison.net/2025/May/26/github-issues-search/#atom-everything) 👤 Simon Willison 💬 149 🔖 #github 🗓️ 2025-05-26
+- [GitHub issues for notes](https://simonwillison.net/2025/May/26/notes/#atom-everything) 👤 Simon Willison 💬 192 🔖 #github 🗓️ 2025-05-26
 - [Remote Single-file Python Scripts with uv](https://joshcannon.me/2025/04/24/remote-single-file-scripts.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_286) 👤 Josh Cannon 💬 353 🔖 #uv, #python 🗓️ 2025-05-25
 - [Thoughts on thinking](https://dcurt.is/thinking) 👤 Dustin Curtis on Svbtle 💬 613 🗓️ 2025-05-25
 - [Staying with Fosstodon](https://leancrew.com/all-this/2025/05/staying-with-fosstodon/) 👤 Dr. Drang 💬 495 🗓️ 2025-05-25
 - [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/#atom-everything) 👤 Simon Willison 💬 5319 🔖 #llm 🗓️ 2025-05-25
-- [In defense of shallow technical knowledge](https://seangoedecke.com/shallow-technical-knowledge/) 👤 seangoedecke.com 💬 1806 🗓️ 2025-05-25
+- [In defense of shallow technical knowledge](https://seangoedecke.com/shallow-technical-knowledge/) 👤 seangoedecke.com 💬 1806 🔖 #career, #learning 🗓️ 2025-05-25
 - [How does ChatGPT work? What is AI, really?](https://seangoedecke.com/what-is-chatgpt/) 👤 seangoedecke.com 💬 1653 🔖 #llm 🗓️ 2025-05-25
 - [Rendering Mechanism](https://vuejs.org/guide/extras/rendering-mechanism#:~:text=The%20main%20benefit%20of%20virtual%20DOM%20is,the%20direct%20DOM%20manipulation%20to%20the%20renderer.) 👤 vuejs.org 💬 1600 🔖 #vue 🗓️ 2025-05-25
 - [http.DefaultTransport](https://antonz.org/default-transport/) 👤 Anton Zhiyanov 💬 804 🔖 #go 🗓️ 2025-05-24
@@ -35,7 +41,6 @@
 - [Vite Crash Course – Frontend Build Tool](https://www.youtube.com/watch?v=do62-z3z6FM) 👤 freeCodeCamp.org 🗓️ 2025-05-15
 - [Notes](https://notes.jim-nielsen.com/) 👤 jim-nielsen.com 💬 122696 🗓️ 2025-05-13
 - [The Height EnigmaUnraveling the mystery of percentage-based heights in CSS](https://www.joshwcomeau.com/css/height-enigma/) 👤 Josh W. Comeau 💬 3403 🗓️ 2025-05-13
-- [FastAPI + Keycloak: Простая и безопасная авторизация в веб-приложении на примере реального проекта](https://habr.com/ru/companies/amvera/articles/907990/) 👤 Habr 💬 6602 🔖 #fastapi 🗓️ 2025-05-12
 - [Tupper's Formula • The Applied Go Weekly Newsletter 2025-05-11](https://newsletter.appliedgo.net/archive/2025-05-11-tuppers-formula/) 👤 The Applied Go Weekly Newsletter 💬 2098 🗓️ 2025-05-12
 - [Customize chat responses in VS Code](https://code.visualstudio.com/docs/copilot/copilot-customization#_instruction-files) 👤 Microsoft 💬 2753 🗓️ 2025-05-11
 - [How to Use Loguru for Simpler Python Logging](https://realpython.com/python-loguru/) 👤 Abdelhadi Dyouri 💬 7197 🔖 #python 🗓️ 2025-05-10
@@ -84,7 +89,7 @@
 - [Contemplating on templates • The Applied Go Weekly Newsletter 2025-03-30](https://newsletter.appliedgo.net/archive/2025-03-30-contemplating-on-templates/) 👤 The Applied Go Weekly Newsletter 💬 2019 🗓️ 2025-03-30
 - [Impromptu disaster recovery](https://fasterthanli.me/articles/impromptu-disaster-recovery) 👤 Amos Wenger 💬 9214 🗓️ 2025-03-29
 - [Building a Real-time Dashboard with FastAPI and Svelte](https://testdriven.io/blog/fastapi-svelte/) 👤 Amir Tadrisi 💬 2608 🔖 #sse, #fastapi 🗓️ 2025-03-27
-- [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 2 — VueJS3 + Centrifugo с монетизацией приложения](https://habr.com/ru/companies/amvera/articles/893250/) 👤 Хабр 💬 6857 🗓️ 2025-03-25
+- [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 2 — VueJS3 + Centrifugo с монетизацией приложения](https://habr.com/ru/companies/amvera/articles/893250/) 👤 Хабр 💬 6857 🔖 #miniapp 🗓️ 2025-03-25
 - [Bitfield Consulting](https://bitfieldconsulting.com/posts/things-fall-apart) 👤 Bitfield Consulting 💬 45 🔖 #rust 🗓️ 2025-03-24
 - [PgBouncer is useful, important, and fraught with peril](https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html) 👤 JP Camara 💬 8311 🔖 #postgresql 🗓️ 2025-03-23
 - [What are the options? • The Applied Go Weekly Newsletter 2025-03-23](https://newsletter.appliedgo.net/archive/2025-03-23-what-are-the-options/) 👤 The Applied Go Weekly Newsletter 💬 2128 🔖 #go 🗓️ 2025-03-23
@@ -130,9 +135,8 @@
 - [Please confirm that you and not a robot are sending requests](https://yandex.cloud/ru/blog/posts/2025/02/virtual-machine-basics) 👤 yandex.cloud 💬 28 🗓️ 2025-02-28
 - [Tips to debug hanging Go programs](https://michael.stapelberg.ch/posts/2025-02-27-debug-hanging-go-programs/) 👤 Michael Stapelberg 💬 1952 🔖 #go 🗓️ 2025-02-27
 - [Bitfield Consulting](https://bitfieldconsulting.com/posts/writing-terrible-code) 👤 Bitfield Consulting 💬 13 🔖 #rust 🗓️ 2025-02-27
-- [Centrifugo v6 + FastAPI + Python: разрабатываем веб-опросник с обновлениями в реальном времени](https://habr.com/ru/companies/amvera/articles/885714/) 👤 Хабр 💬 5239 🔖 #try, #fastapi 🗓️ 2025-02-27
+- [Centrifugo v6 + FastAPI + Python: разрабатываем веб-опросник с обновлениями в реальном времени](https://habr.com/ru/companies/amvera/articles/885714/) 👤 Хабр 💬 5239 🔖 #try, #fastapi, #miniapp 🗓️ 2025-02-27
 - [From Go With Love • The Applied Go Weekly Newsletter 2025-02-23](https://newsletter.appliedgo.net/archive/2025-02-23-from-go-with-love/) 👤 The Applied Go Weekly Newsletter 💬 2021 🗓️ 2025-02-24
-- [Вебсокеты на FastAPI: Реализация простого чата с комнатами за 20 минут](https://habr.com/ru/companies/amvera/articles/884816/) 👤 Хабр 💬 3630 🔖 #try, #fastapi, #websocket 🗓️ 2025-02-24
 - [🔥 (#205) Flatten Nuxt Content Routes, Mock Any Import, and more](mailto:reader-forwarded-email/2484f0a7fdf5aa504203887bab2d5cb3) 👤 Michael Thiessen 💬 1234 🔖 #nuxt 🗓️ 2025-02-19
 - [Zig & Go Interoperation](https://findev.datainquiry.dev/zig-and-go-interoperation) 👤 Jaime Lopez 💬 607 🔖 #go 🗓️ 2025-02-18
 - [You Cannot Simply Kill A Goroutine • The Applied Go Weekly Newsletter 2025-02-16](https://newsletter.appliedgo.net/archive/you-cannot-simply-kill-a-goroutine/) 👤 The Applied Go Weekly Newsletter 💬 1790 🔖 #go 🗓️ 2025-02-17
