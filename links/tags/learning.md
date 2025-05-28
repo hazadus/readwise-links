@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [Thoughts on thinking](https://dcurt.is/thinking) 👤 Dustin Curtis on Svbtle 💬 613 🔖 #llm, #learning 🗓️ 2025-05-25
+    > **Заметка:** Автор удручён тем, что LLM отнимает у него необходимость глубоко размышлять, тем самым развивая своё мышление. «Всё равно ИИ сделает это быстрее и лучше».  Спорная точка зрения. 
+    > **Резюме:** The author feels stuck and believes that their creative efforts are overshadowed by AI's ability to produce better ideas quickly. They reflect on how using AI has diminished their own thinking and intellectual growth, despite having access to more information than ever. Ultimately, they feel that relying on AI is more like sedation than real mental exercise, even as they continue to share their thoughts.
 - [In defense of shallow technical knowledge](https://seangoedecke.com/shallow-technical-knowledge/) 👤 seangoedecke.com 💬 1806 🔖 #career, #learning 🗓️ 2025-05-25
     > **Резюме:** Having a shallow understanding of technologies, like AI and database indexes, can help engineers make better decisions without needing to know every detail. This basic knowledge allows for useful insights and intuitions that improve engineering work. It's beneficial to aim for broad knowledge rather than deep expertise in just one area.
 - [They expect us to keep changing](https://benv.ca/blog/posts/they-expect-us-to-keep-changing) 👤 benv.ca 💬 1358 🔖 #llm, #learning 🗓️ 2025-05-15

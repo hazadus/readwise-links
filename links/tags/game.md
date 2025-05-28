@@ -1,11 +1,9 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 11
 
 ## Ссылки
 
-- [Into the Restless Ruins: Обзор чудесного роуглайка с интересной идеей](https://stopgame.ru/show/147371/into_the_restless_ruins_review_chudesnogo_rouglayka_s_interesnoy_ideey) 👤 Алексей Лихачев 💬 1329 🔖 #game 🗓️ 2025-05-23
-    > **Резюме:** Into the Restless Ruins is a roguelike game where players build a map by strategically placing rooms while fighting against dark creatures. The game features Scottish legends and requires players to collect seals to access the boss areas, with a day-night cycle affecting gameplay. While it has numerous mechanics and a unique building concept, its automatic combat system and simplistic pixel art may not appeal to everyone.
 - [Всё ещё ЛУЧШИЙ ШУТЕР? Обзор Doom: The Dark Ages I Битый Пиксель](https://www.youtube.com/watch?v=NJ_drb3o3wY) 👤 Битый Пиксель 🔖 #game 🗓️ 2025-05-22
     > **Резюме:** Doom: The Dark Ages offers an intense shooter experience with improved graphics and gameplay mechanics. The game features a new storyline that differs from previous installments, allowing for more freedom in weapon choices and tactics. While it has its flaws, it remains a captivating choice for fans of the genre.
 - [«Ведьмак 3: Дикая Охота»: как 10 лет назад в мучениях рождалась наша любимая игра](https://www.mirf.ru/games/vedmak-3-dikaya-ohota-istoriya-sozdaniya) 👤 mirf.ru 💬 1793 🔖 #game 🗓️ 2025-05-19

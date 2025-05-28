@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 8
 
 ## Ссылки
 
+- [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/?utm_source=rss) 👤 alexwlchan.net 💬 3756 🔖 #css, #html 🗓️ 2025-05-26
+    > **Заметка:** Автор, конечно, маньяк - столько документов сохранил вручную😰
+    > **Резюме:** The author learned about web design by reading two thousand web pages, discovering interesting HTML tags and clever CSS techniques. They found useful elements like <aside> and <mark>, which helped improve their understanding of how to structure content. The article also discusses modern practices like using <link rel="preload> for faster resource loading and the diminishing use of old techniques like conditional comments.
 - [You can style alt text like any other text](https://piccalil.li/blog/you-can-style-alt-text-like-any-other-text/?ref=main-rss-feed) 👤 Andy Bell 💬 672 🔖 #css 🗓️ 2025-05-23
     > **Резюме:** You can style alt text using CSS to improve the experience when images fail to load. By applying specific styles to the `<img>` elements, the alt text can look better and be more user-friendly. This approach not only enhances visual appeal but also ensures that the layout remains balanced and accessible.
 - [Container Queries Unleashed](https://www.joshwcomeau.com/css/container-queries-unleashed/?from=newsletter) 👤 Josh W. Comeau 💬 1069 🔖 #css 🗓️ 2025-01-28

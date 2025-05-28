@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 24
+- Всего ссылок: 25
 
 ## Ссылки
 
@@ -8,6 +8,8 @@
     > **Резюме:** This article explains how to implement a secure authorization system in a web application using Keycloak and FastAPI. Keycloak simplifies user management and offers a reliable login mechanism. The guide covers installation, integration, and deploying the project in the cloud.
 - [Building a Real-time Dashboard with FastAPI and Svelte](https://testdriven.io/blog/fastapi-svelte/) 👤 Amir Tadrisi 💬 2608 🔖 #sse, #fastapi 🗓️ 2025-03-27
     > **Резюме:** Learn how to build a real-time analytics dashboard using FastAPI and Svelte with server-sent events.
+- [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 1 — Бэкенд на FastAPI, Aiogram, Redis и Centrifugo](https://habr.com/ru/companies/amvera/articles/890976/) 👤 Хабр 💬 10630 🔖 #fastapi, #miniapp 🗓️ 2025-03-25
+    > **Резюме:** The article explains how to create an anonymous chat in Telegram using a bot with a MiniApp interface and various technologies like FastAPI and Redis. It covers project setup, database creation, and bot functionality, including message handling and user interactions. The author encourages feedback to support future articles and project development.
 - [Centrifugo v6 + FastAPI + Python: разрабатываем веб-опросник с обновлениями в реальном времени](https://habr.com/ru/companies/amvera/articles/885714/) 👤 Хабр 💬 5239 🔖 #try, #fastapi, #miniapp 🗓️ 2025-02-27
     > **Резюме:** The article explains how to create a real-time web survey application using Centrifugo and FastAPI. It covers both theoretical concepts and practical implementation, including generating JWT tokens and connecting to Centrifugo. The project allows users to see responses update dynamically without needing to refresh the page.
 - [Вебсокеты на FastAPI: Реализация простого чата с комнатами за 20 минут](https://habr.com/ru/companies/amvera/articles/884816/) 👤 Хабр 💬 3630 🔖 #try, #fastapi, #websocket 🗓️ 2025-02-24

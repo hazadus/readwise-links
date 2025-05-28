@@ -1,9 +1,16 @@
 # Архивные ссылки
 
-- Всего ссылок: 674
+- Всего ссылок: 678
 
 ## Ссылки
 
+- [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/?utm_source=rss) 👤 alexwlchan.net 💬 3756 🔖 #css, #html 🗓️ 2025-05-26
+    > **Заметка:** Автор, конечно, маньяк - столько документов сохранил вручную😰
+- [Thoughts on thinking](https://dcurt.is/thinking) 👤 Dustin Curtis on Svbtle 💬 613 🔖 #llm, #learning 🗓️ 2025-05-25
+    > **Заметка:** Автор удручён тем, что LLM отнимает у него необходимость глубоко размышлять, тем самым развивая своё мышление. «Всё равно ИИ сделает это быстрее и лучше».  Спорная точка зрения. 
+- [In defense of shallow technical knowledge](https://seangoedecke.com/shallow-technical-knowledge/) 👤 seangoedecke.com 💬 1806 🔖 #career, #learning 🗓️ 2025-05-25
+- [How does ChatGPT work? What is AI, really?](https://seangoedecke.com/what-is-chatgpt/) 👤 seangoedecke.com 💬 1653 🔖 #llm 🗓️ 2025-05-25
+    > **Заметка:** Хорошее описание принципов работы языковых моделей «для обычных людей», без технического бэкграунда. 
 - [I really don’t like ChatGPT’s new memory feature](https://simonwillison.net/2025/May/21/chatgpt-new-memory/#atom-everything) 👤 Simon Willison 💬 2161 🔖 #llm 🗓️ 2025-05-22
 - [Agile as Trauma](https://doriantaylor.com/agile-as-trauma) 👤 Dorian Taylor 💬 2781 🔖 #agile, #development 🗓️ 2025-05-21
 - [My Notion Blogging Kanban](https://daverupert.com/2021/09/my-notion-blogging-kanban/) 👤 daverupert.com 💬 954 🔖 #pkm, #writing 🗓️ 2025-05-21

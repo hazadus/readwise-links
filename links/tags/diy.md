@@ -41,7 +41,7 @@
 - [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html) 👤 viewsourcecode.org 💬 204 🔖 #diy 🗓️ 2024-06-21
     > **Резюме:** The text editor is antirez’s kilo, with some changes.
 - [How to build a text editor with Python and curses](https://wasimlorgat.com/posts/editor) 👤 Wasim Lorgat 💬 3445 🔖 #diy 🗓️ 2024-06-21
-    > **Резюме:** Work through a series of fifteen incremental coding problems ending with a minimal command line text editor.
+    > **Резюме:** This text explains how to build a text editor using Python and the curses library. It covers essential features like creating a window, moving the cursor, editing the text buffer, and scrolling. The tutorial provides step-by-step code examples for implementing these functionalities.
 - [Crafting Interpreters](https://craftinginterpreters.com) 👤 craftinginterpreters.com 💬 327 🔖 #diy 🗓️ 2024-06-21
     > **Резюме:** The book "Crafting Interpreters" teaches you how to create your own programming language with detailed explanations on parsing, semantics, and implementation. It covers essential concepts like bytecode representation and garbage collection in an engaging and hands-on way. The book is available in various formats and is authored by Robert Nystrom, who has a background in game development and currently works on the Dart language at Google.
 - [Build your own SQLite, Part 1: Listing tables](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables) 👤 Geoffrey Copin 💬 2701 🔖 #diy 🗓️ 2024-07-26

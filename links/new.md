@@ -1,27 +1,22 @@
 # Новые ссылки
 
-- Всего ссылок: 791
+- Всего ссылок: 786
 
 ## Ссылки
 
-- [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/?utm_source=rss) 👤 alexwlchan.net 💬 3756 🗓️ 2025-05-26
 - [Model Context Protocol - Explained! (with Python example)](https://www.youtube.com/watch?v=JF14z6XO4Ho) 👤 BugBytes 🔖 #mcp 🗓️ 2025-05-26
 - [Go, Browser—You Have To Talk! • The Applied Go Weekly Newsletter 2025-05-25](https://newsletter.appliedgo.net/archive/2025-05-25-go-browser-you-have-to-talk/) 👤 The Applied Go Weekly Newsletter 💬 1879 🔖 #go 🗓️ 2025-05-26
 - [Software Engineering Job Titles](https://brainbaking.com/post/2025/05/software-engineering-job-titles/) 👤 Brain Baking 💬 915 🗓️ 2025-05-26
 - [GitHub Issues search now supports nested queries and boolean operators: Here’s how we (re)built it](https://simonwillison.net/2025/May/26/github-issues-search/#atom-everything) 👤 Simon Willison 💬 149 🔖 #github 🗓️ 2025-05-26
 - [GitHub issues for notes](https://simonwillison.net/2025/May/26/notes/#atom-everything) 👤 Simon Willison 💬 192 🔖 #github 🗓️ 2025-05-26
 - [Remote Single-file Python Scripts with uv](https://joshcannon.me/2025/04/24/remote-single-file-scripts.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_286) 👤 Josh Cannon 💬 353 🔖 #uv, #python 🗓️ 2025-05-25
-- [Thoughts on thinking](https://dcurt.is/thinking) 👤 Dustin Curtis on Svbtle 💬 613 🗓️ 2025-05-25
 - [Staying with Fosstodon](https://leancrew.com/all-this/2025/05/staying-with-fosstodon/) 👤 Dr. Drang 💬 495 🗓️ 2025-05-25
 - [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/#atom-everything) 👤 Simon Willison 💬 5319 🔖 #llm 🗓️ 2025-05-25
-- [In defense of shallow technical knowledge](https://seangoedecke.com/shallow-technical-knowledge/) 👤 seangoedecke.com 💬 1806 🔖 #career, #learning 🗓️ 2025-05-25
-- [How does ChatGPT work? What is AI, really?](https://seangoedecke.com/what-is-chatgpt/) 👤 seangoedecke.com 💬 1653 🔖 #llm 🗓️ 2025-05-25
 - [Rendering Mechanism](https://vuejs.org/guide/extras/rendering-mechanism#:~:text=The%20main%20benefit%20of%20virtual%20DOM%20is,the%20direct%20DOM%20manipulation%20to%20the%20renderer.) 👤 vuejs.org 💬 1600 🔖 #vue 🗓️ 2025-05-25
 - [http.DefaultTransport](https://antonz.org/default-transport/) 👤 Anton Zhiyanov 💬 804 🔖 #go 🗓️ 2025-05-24
 - [Stuff I learned at Carta.](https://lethain.com/stuff-learned-at-carta/) 👤 lethain.com 💬 1059 🗓️ 2025-05-24
 - [An Animated Introduction to Elixir](https://www.freecodecamp.org/news/an-animated-introduction-to-elixir/) 👤 Mark Mahoney 💬 685 🔖 #elixir 🗓️ 2025-05-23
 - [You can style alt text like any other text](https://piccalil.li/blog/you-can-style-alt-text-like-any-other-text/?ref=main-rss-feed) 👤 Andy Bell 💬 672 🔖 #css 🗓️ 2025-05-23
-- [Into the Restless Ruins: Обзор чудесного роуглайка с интересной идеей](https://stopgame.ru/show/147371/into_the_restless_ruins_review_chudesnogo_rouglayka_s_interesnoy_ideey) 👤 Алексей Лихачев 💬 1329 🔖 #game 🗓️ 2025-05-23
 - [Всё ещё ЛУЧШИЙ ШУТЕР? Обзор Doom: The Dark Ages I Битый Пиксель](https://www.youtube.com/watch?v=NJ_drb3o3wY) 👤 Битый Пиксель 🔖 #game 🗓️ 2025-05-22
 - [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp) 👤 Henrik Kniberg 💬 4268 🗓️ 2025-05-21
 - [First Steps With LangChain](https://realpython.com/courses/first-steps-langchain/) 👤 Real Python 💬 129 🔖 #llm, #python, #langchain 🗓️ 2025-05-21
@@ -105,7 +100,7 @@
 - [x-h3-session](https://h3.unjs.io/examples/handle-session) 👤 unjs.io 💬 578 🗓️ 2025-03-17
 - [django-vite - integrate Vite with Django | TailwindCSS v4 setup](https://www.youtube.com/watch?v=wgN04Byqi9c) 👤 BugBytes 🗓️ 2025-03-17
 - [Optimizations, Small And Big • The Applied Go Weekly Newsletter 2025-03-16](https://newsletter.appliedgo.net/archive/2025-03-16-optimizations-small-and-big/) 👤 The Applied Go Weekly Newsletter 💬 1631 🗓️ 2025-03-17
-- [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 1 — Бэкенд на FastAPI, Aiogram, Redis и Centrifugo](https://habr.com/ru/companies/amvera/articles/890976/) 👤 Хабр 💬 10630 🗓️ 2025-03-25
+- [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 1 — Бэкенд на FastAPI, Aiogram, Redis и Centrifugo](https://habr.com/ru/companies/amvera/articles/890976/) 👤 Хабр 💬 10630 🔖 #fastapi, #miniapp 🗓️ 2025-03-25
 - [PKM Summit 2025 Notes](https://brainbaking.com/post/2025/03/pkm-summit-2025/) 👤 Brain Baking 💬 1310 🗓️ 2025-03-15
 - [Django Query Optimization - Defer, Only, and Exclude](https://testdriven.io/blog/django-query-optimization/) 👤 testdriven.io 💬 1383 🔖 #django 🗓️ 2025-03-15
 - [Открытие года - поиграл в Clair Obscur: Expedition 33 I Битый Пиксель](https://www.youtube.com/watch?v=7Wyl_pTfA3w) 👤 Битый Пиксель 🗓️ 2025-03-15
