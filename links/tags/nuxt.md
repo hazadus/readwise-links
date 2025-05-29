@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 32
+- Всего ссылок: 35
 
 ## Ссылки
 
@@ -10,10 +10,39 @@
     > **Резюме:** This article explains how to speed up web pages in Nuxt by compressing images. It demonstrates how to use the Vite plugin vsharp to automatically optimize images during the build process. By following simple steps, you can ensure your images are smaller and improve page load times.
 - [Generating a Dynamic Sitemap in Nuxt 3](https://masteringnuxt.com/blog/generating-a-dynamic-sitemap-in-nuxt-3?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 897 🔖 #nuxt 🗓️ 2025-04-30
     > **Резюме:** This article explains how to create a dynamic sitemap for a Nuxt 3 project, which is important for improving SEO. It covers setting up server routes, discovering pages automatically, and adding URLs while excluding certain paths. By using these techniques, you can build a comprehensive sitemap that helps search engines index your site effectively.
+- [Handling File Uploads in Nuxt with useStorage](https://vueschool.io/articles/vuejs-tutorials/handling-file-uploads-in-nuxt-with-usestorage/?friend=MOKKAPPS) 👤 vueschool.io 💬 942 🔖 #nuxt 🗓️ 2025-04-30
+    > **Резюме:** The useStorage function in Nuxt simplifies secure file uploads and supports various storage providers. This guide explains how to create a complete file upload system, including validating file size and type, storing files, and serving them through a server route. By following these steps, you can implement robust file upload functionality in your Nuxt applications.
+- [Nuxt 3.17](https://nuxt.com/blog/v3-17) 👤 Nuxt 💬 691 🔖 #nuxt 🗓️ 2025-04-28
+    > **Резюме:** Nuxt 3.17 is out - bringing a major reworking of the async data layer, a new built-in component, better warnings, and performance improvements!
 - [Extracting Composables for Code Organization ​](https://vuejs.org/guide/reusability/composables.html) 👤 vuejs.org 💬 2447 🔖 #vue, #nuxt 🗓️ 2025-04-09
     > **Резюме:** Vue.js - The Progressive JavaScript Framework
 - [Good practices and Design Patterns for Vue Composables](https://dev.to/jacobandrewsky/good-practices-and-design-patterns-for-vue-composables-24lk) 👤 dev.to 💬 1140 🔖 #vue, #nuxt 🗓️ 2025-04-09
     > **Резюме:** I recently had a great discussion with my team at Vue Storefront about patterns for writing Vue...
+- [Nuxt Server Components vs. Lazy Hydration](https://www.youtube.com/watch?v=Jijoc0RH_tA) 👤 Alexander Lichter 🔖 #nuxt 🗓️ 2025-04-04
+    > **Резюме:** We all want less JavaScript and better performance. Both, Nuxt Server Components *and* Lazy Hydration can help with that in different ways. In this video, you learn how both work and what the differences are, plus when to use either!
+
+---
+Links and Resources
+
+🔗 Nuxt Islands component https://github.com/nuxt/nuxt/blob/main/packages/nuxt/src/app/components/nuxt-island.ts
+🔗 Island Architecture https://www.patterns.dev/vanilla/islands-architecture
+📺 Lazy Hydration in Nuxt https://www.youtube.com/watch?v=hibbpTe661U
+📺 Event Fetch https://www.youtube.com/watch?v=7vfwYaHtv3U
+
+---
+Chaptermarks
+
+00:00 Intro & Overview
+00:47 What is Lazy Hydration?
+03:24 What are Server Components?
+04:45 How do Server Components work under the hood
+08:39 Difference between the two
+13:55 When to use which?
+15:15 Wrapping up
+
+---
+
+Links marked with * are affiliate links. I get a small commission when you register for the service or buy the product through my link. This helps me keeping the channel running. I only include affiliate links for services or product mentioned that we use ourselves or have good experience with.
 - [Getting a grip on Nuxt's auto-import functionality](https://davestewart.co.uk/blog/nuxt-auto-import/) 👤 Dave Stewart 💬 2706 🔖 #nuxt 🗓️ 2025-03-22
     > **Резюме:** Nuxt 3's auto-import feature simplifies dependency management by automatically importing components and code without manual intervention. However, it can lead to confusion due to naming conventions and folder structure, especially in larger projects. Developers can customize or disable auto-importing to better suit their project needs.
 - [Modular site architecture with Nuxt layers](https://davestewart.co.uk/blog/nuxt-layers/) 👤 Dave Stewart 💬 3604 🔖 #nuxt 🗓️ 2025-03-22

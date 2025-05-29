@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [Шпаргалка по VueUse: когда использовать какую функцию](https://hazadus.ru/blog/vueuse-cheat-sheet) 👤 hazadus.ru 💬 1754 🔖 #vue 🗓️ 2025-05-28
+    > **Резюме:** The document provides a summary of key functions in VueUse. It explains when to use each function effectively. This helps developers choose the right tools for their projects.
 - [Rendering Mechanism](https://vuejs.org/guide/extras/rendering-mechanism#:~:text=The%20main%20benefit%20of%20virtual%20DOM%20is,the%20direct%20DOM%20manipulation%20to%20the%20renderer.) 👤 vuejs.org 💬 1600 🔖 #vue 🗓️ 2025-05-25
     > **Резюме:** Vue.js - The Progressive JavaScript Framework
 - [Building charts in Vue with D3](https://dev.to/jacobandrewsky/building-charts-in-vue-with-d3-38gl) 👤 dev.to 💬 736 🔖 #vue 🗓️ 2025-05-19

@@ -5,6 +5,7 @@
 ## Ссылки
 
 - [Remote Single-file Python Scripts with uv](https://joshcannon.me/2025/04/24/remote-single-file-scripts.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_286) 👤 Josh Cannon 💬 353 🔖 #uv, #python 🗓️ 2025-05-25
+    > **Заметка:** Интересный способ запускать скрипты прямо из репо. 
     > **Резюме:** The article explains how to run remote single-file Python scripts easily using the tool "uv." It handles Python installation, supports scripts from URLs, and can manage dependencies automatically. This allows users to share and execute scripts without worrying about configuration or version issues.
 - [First Steps With LangChain](https://realpython.com/courses/first-steps-langchain/) 👤 Real Python 💬 129 🔖 #llm, #python, #langchain 🗓️ 2025-05-21
     > **Резюме:** This course teaches you how to use LangChain to build applications powered by large language models (LLMs). You'll learn to create reusable prompts, extend chains, and debug your applications. The course includes videos, transcripts, resources, and a certificate of completion.

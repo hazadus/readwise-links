@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [Say Your Writing](https://martinfowler.com/bliki/SayYourWriting.html) 👤 Martin Fowler 💬 320 🔖 #writing 🗓️ 2025-05-28
+    > **Резюме:** Martin Fowler shares a helpful writing tip: read your draft out loud to catch awkward phrases and improve its flow. He believes that writing should have a conversational tone, making it more engaging for readers. Fowler warns against bland corporate and academic prose, which can make writing feel lifeless.
 - [My Notion Blogging Kanban](https://daverupert.com/2021/09/my-notion-blogging-kanban/) 👤 daverupert.com 💬 954 🔖 #pkm, #writing 🗓️ 2025-05-21
     > **Резюме:** The author struggled with managing over eighty incomplete blog post drafts and found it overwhelming. They created a Notion-based Kanban system to organize their ideas by status and tags, making it easier to track progress. This new workflow helps them stay prepared and organized, even if it doesn't make them a daily blogger.
 - [Working Through the Fear of Being Seen](https://ashley.dev/posts/fear-of-being-seen/) 👤 Ashley Willis 💬 812 🔖 #writing, #inspiration 🗓️ 2025-04-23

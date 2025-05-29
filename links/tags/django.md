@@ -4,7 +4,8 @@
 
 ## Ссылки
 
-- [Django Security Best Practices: A Comprehensive Guide for Software Engineers](https://corgea.com/Learn/django-security-best-practices-a-comprehensive-guid-for-software-engineers?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_285) 👤 corgea.com 💬 1030 🔖 #django 🗓️ 2025-05-17
+- [Django Security Best Practices: A Comprehensive Guide for Software Engineers](https://corgea.com/Learn/django-security-best-practices-a-comprehensive-guid-for-software-engineers?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_285) 👤 corgea.com 💬 1030 🔖 #django, #security 🗓️ 2025-05-17
+    > **Заметка:** Неплохой чек-лист по обеспечению безопасности Django
     > **Резюме:** Corgea is an AI-powered security platform that automatically finds, triages, and fixes insecure code. Sign up today for free to try Corgea. 
 - [How to Add Blazing Fast Search to Your Django Site with Meilisearch](https://www.revsys.com/tidbits/how-to-add-blazing-fast-search-to-your-django-site-with-meilisearch/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_282) 👤 Lacey 💬 5155 🔖 #django 🗓️ 2025-05-17
     > **Резюме:** Meilisearch offers a fast and easy-to-use search solution for Django sites, allowing for customizable indexing and search schemas. It simplifies the process of setting up and maintaining search functionality compared to other options like Elasticsearch. By indexing specific fields from Django models, Meilisearch enables quick and efficient search results tailored to user needs.

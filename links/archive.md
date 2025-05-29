@@ -1,16 +1,23 @@
 # Архивные ссылки
 
-- Всего ссылок: 678
+- Всего ссылок: 685
 
 ## Ссылки
 
 - [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/?utm_source=rss) 👤 alexwlchan.net 💬 3756 🔖 #css, #html 🗓️ 2025-05-26
     > **Заметка:** Автор, конечно, маньяк - столько документов сохранил вручную😰
+- [Software Engineering Job Titles](https://brainbaking.com/post/2025/05/software-engineering-job-titles/) 👤 Brain Baking 💬 915 🗓️ 2025-05-26
+- [GitHub Issues search now supports nested queries and boolean operators: Here’s how we (re)built it](https://simonwillison.net/2025/May/26/github-issues-search/#atom-everything) 👤 Simon Willison 💬 149 🔖 #github 🗓️ 2025-05-26
+- [GitHub issues for notes](https://simonwillison.net/2025/May/26/notes/#atom-everything) 👤 Simon Willison 💬 192 🔖 #github 🗓️ 2025-05-26
+    > **Заметка:** Согласен, система Issues супер удобная. Тоже постоянно ей пользуюсь. 
+- [Remote Single-file Python Scripts with uv](https://joshcannon.me/2025/04/24/remote-single-file-scripts.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_286) 👤 Josh Cannon 💬 353 🔖 #uv, #python 🗓️ 2025-05-25
+    > **Заметка:** Интересный способ запускать скрипты прямо из репо. 
 - [Thoughts on thinking](https://dcurt.is/thinking) 👤 Dustin Curtis on Svbtle 💬 613 🔖 #llm, #learning 🗓️ 2025-05-25
     > **Заметка:** Автор удручён тем, что LLM отнимает у него необходимость глубоко размышлять, тем самым развивая своё мышление. «Всё равно ИИ сделает это быстрее и лучше».  Спорная точка зрения. 
 - [In defense of shallow technical knowledge](https://seangoedecke.com/shallow-technical-knowledge/) 👤 seangoedecke.com 💬 1806 🔖 #career, #learning 🗓️ 2025-05-25
 - [How does ChatGPT work? What is AI, really?](https://seangoedecke.com/what-is-chatgpt/) 👤 seangoedecke.com 💬 1653 🔖 #llm 🗓️ 2025-05-25
     > **Заметка:** Хорошее описание принципов работы языковых моделей «для обычных людей», без технического бэкграунда. 
+- [Stuff I learned at Carta.](https://lethain.com/stuff-learned-at-carta/) 👤 lethain.com 💬 1059 🗓️ 2025-05-24
 - [I really don’t like ChatGPT’s new memory feature](https://simonwillison.net/2025/May/21/chatgpt-new-memory/#atom-everything) 👤 Simon Willison 💬 2161 🔖 #llm 🗓️ 2025-05-22
 - [Agile as Trauma](https://doriantaylor.com/agile-as-trauma) 👤 Dorian Taylor 💬 2781 🔖 #agile, #development 🗓️ 2025-05-21
 - [My Notion Blogging Kanban](https://daverupert.com/2021/09/my-notion-blogging-kanban/) 👤 daverupert.com 💬 954 🔖 #pkm, #writing 🗓️ 2025-05-21
@@ -22,12 +29,16 @@
 - [ИИ-агенты — вот что действительно изменит разработку. Пишем ИИ-агент на Python, LangChain и GigaChat](https://youtube.com/watch?v=KFgwXXWT7sQ&si=9c1fWb9ps_90PRff) 👤 Диджитализируй! 🔖 #llm, #agents, #langchain, #inspiration 🗓️ 2025-05-19
     > **Заметка:** Интересный и вдохновляющий пример реализации простого агента для решения практической задачи.
 - [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/?utm_source=rss) 👤 alexwlchan.net 💬 3770 🔖 #inspiration 🗓️ 2025-05-19
+- [Diffusion models explained simply](https://seangoedecke.com/diffusion-models-explained/) 👤 seangoedecke.com 💬 1775 🔖 #llm 🗓️ 2025-05-19
+    > **Заметка:** «Простое» объяснение всё равно не очень понятное😁
 - [C++ to Rust Cheat-Sheet](https://corrode.dev/learn/migration-guides/cpp-to-rust/) 👤 Corrode Rust Consulting 💬 869 🔖 #rust 🗓️ 2025-05-18
 - [Notifications about (almost) anything with ntfy.sh](https://hamatti.org/posts/notifications-about-almost-anything-with-ntfy-sh/) 👤 Juha-Matti Santala 💬 684 🗓️ 2025-05-18
 - [For many, patience is the killer LLM feature](https://seangoedecke.com/patience-too-cheap-to-meter/) 👤 seangoedecke.com 💬 800 🔖 #llm 🗓️ 2025-05-18
 - [Why strong engineers are rarely blocked](https://seangoedecke.com/becoming-unblockable/) 👤 seangoedecke.com 💬 1657 🔖 #career, #development, #time management 🗓️ 2025-05-18
 - [Practical advice for engineers in these troubled times](https://seangoedecke.com/in-these-troubled-times/) 👤 seangoedecke.com 💬 1033 🔖 #career 🗓️ 2025-05-18
 - [Manage For Success, Not Comfort](https://terriblesoftware.org/2025/05/16/manage-for-success-not-comfort/) 👤 Terrible Software 💬 580 🔖 #management 🗓️ 2025-05-18
+- [Django Security Best Practices: A Comprehensive Guide for Software Engineers](https://corgea.com/Learn/django-security-best-practices-a-comprehensive-guid-for-software-engineers?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_285) 👤 corgea.com 💬 1030 🔖 #django, #security 🗓️ 2025-05-17
+    > **Заметка:** Неплохой чек-лист по обеспечению безопасности Django
 - [What is Testcontainers, and why should you use it?](https://testcontainers.com/guides/introducing-testcontainers/) 👤 Testcontainers 💬 860 🔖 #docker, #testing 🗓️ 2025-05-15
 - [Getting started with Testcontainers for Python](https://testcontainers.com/guides/getting-started-with-testcontainers-for-python/) 👤 Testcontainers 💬 1181 🔖 #docker, #python, #testing 🗓️ 2025-05-15
 - [Am I online?](https://antonz.org/is-online/) 👤 Anton Zhiyanov 💬 532 🗓️ 2025-05-15
