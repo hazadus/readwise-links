@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 38
+- Всего ссылок: 39
 
 ## Ссылки
 
+- [Как говорить о деньгах на собеседовании](https://kinzhal.media/money-sobes/) 👤 Анна Чуловская 💬 1497 🔖 #career 🗓️ 2025-05-28
+    > **Резюме:** На собеседовании важно уверенно говорить о зарплате и подготовиться заранее. Определите свою минимальную, желаемую и идеальную зарплату, а также учитывайте другие преимущества, которые может предложить компания. Проявляйте инициативу в обсуждении денег и не бойтесь задавать вопросы рекрутеру.
 - [In defense of shallow technical knowledge](https://seangoedecke.com/shallow-technical-knowledge/) 👤 seangoedecke.com 💬 1806 🔖 #career, #learning 🗓️ 2025-05-25
     > **Резюме:** Having a shallow understanding of technologies, like AI and database indexes, can help engineers make better decisions without needing to know every detail. This basic knowledge allows for useful insights and intuitions that improve engineering work. It's beneficial to aim for broad knowledge rather than deep expertise in just one area.
 - [Why strong engineers are rarely blocked](https://seangoedecke.com/becoming-unblockable/) 👤 seangoedecke.com 💬 1657 🔖 #career, #development, #time management 🗓️ 2025-05-18

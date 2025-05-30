@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 685
+- Всего ссылок: 688
 
 ## Ссылки
 
+- [AI-assisted development needs automated tests](https://simonwillison.net/2025/May/28/automated-tests/#atom-everything) 👤 Simon Willison 💬 193 🔖 #llm 🗓️ 2025-05-29
+- [Шпаргалка по VueUse: когда использовать какую функцию](https://hazadus.ru/blog/vueuse-cheat-sheet) 👤 hazadus.ru 💬 1754 🔖 #vue 🗓️ 2025-05-28
 - [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/?utm_source=rss) 👤 alexwlchan.net 💬 3756 🔖 #css, #html 🗓️ 2025-05-26
     > **Заметка:** Автор, конечно, маньяк - столько документов сохранил вручную😰
 - [Software Engineering Job Titles](https://brainbaking.com/post/2025/05/software-engineering-job-titles/) 👤 Brain Baking 💬 915 🗓️ 2025-05-26
@@ -18,6 +20,7 @@
 - [How does ChatGPT work? What is AI, really?](https://seangoedecke.com/what-is-chatgpt/) 👤 seangoedecke.com 💬 1653 🔖 #llm 🗓️ 2025-05-25
     > **Заметка:** Хорошее описание принципов работы языковых моделей «для обычных людей», без технического бэкграунда. 
 - [Stuff I learned at Carta.](https://lethain.com/stuff-learned-at-carta/) 👤 lethain.com 💬 1059 🗓️ 2025-05-24
+- [Strengths and limitations of diffusion language models](https://seangoedecke.com/limitations-of-text-diffusion-models/) 👤 seangoedecke.com 💬 1334 🔖 #llm 🗓️ 2025-05-23
 - [I really don’t like ChatGPT’s new memory feature](https://simonwillison.net/2025/May/21/chatgpt-new-memory/#atom-everything) 👤 Simon Willison 💬 2161 🔖 #llm 🗓️ 2025-05-22
 - [Agile as Trauma](https://doriantaylor.com/agile-as-trauma) 👤 Dorian Taylor 💬 2781 🔖 #agile, #development 🗓️ 2025-05-21
 - [My Notion Blogging Kanban](https://daverupert.com/2021/09/my-notion-blogging-kanban/) 👤 daverupert.com 💬 954 🔖 #pkm, #writing 🗓️ 2025-05-21

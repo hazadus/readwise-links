@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 66
+- Всего ссылок: 67
 
 ## Ссылки
 
+- [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) 👤 Simon Willison 💬 1979 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
+    > **Резюме:** The Perfect Commit is a software development approach that includes a single implementation change, tests, updated documentation, and a link to an issue thread for context. This method helps maintain a clear and manageable commit history, making it easier to review and revert changes if necessary. Simon Willison emphasizes that while not every commit needs to be perfect, aiming for this structure generally enhances productivity and clarity in code development.
 - [ИИ-агенты — вот что действительно изменит разработку. Пишем ИИ-агент на Python, LangChain и GigaChat](https://youtube.com/watch?v=KFgwXXWT7sQ&si=9c1fWb9ps_90PRff) 👤 Диджитализируй! 🔖 #llm, #agents, #langchain, #inspiration 🗓️ 2025-05-19
     > **Заметка:** Интересный и вдохновляющий пример реализации простого агента для решения практической задачи.
     > **Резюме:** ИИ-агенты могут значительно изменить процесс разработки, предоставляя новые возможности для автоматизации задач. В видео рассматривается создание ИИ-агента на Python с использованием LangChain и GigaChat для генерации документов. Это облегчает работу, позволяя извлекать и обрабатывать данные из различных источников.

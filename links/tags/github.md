@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) 👤 Simon Willison 💬 1979 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
+    > **Резюме:** The Perfect Commit is a software development approach that includes a single implementation change, tests, updated documentation, and a link to an issue thread for context. This method helps maintain a clear and manageable commit history, making it easier to review and revert changes if necessary. Simon Willison emphasizes that while not every commit needs to be perfect, aiming for this structure generally enhances productivity and clarity in code development.
 - [GitHub Issues search now supports nested queries and boolean operators: Here’s how we (re)built it](https://simonwillison.net/2025/May/26/github-issues-search/#atom-everything) 👤 Simon Willison 💬 149 🔖 #github 🗓️ 2025-05-26
     > **Резюме:** GitHub Issues now allows users to perform complex searches using nested queries and boolean operators. This upgrade enables more detailed searches, such as combining different issue types and states. The team carefully tested the new feature to ensure it performs well under heavy usage.
 - [GitHub issues for notes](https://simonwillison.net/2025/May/26/notes/#atom-everything) 👤 Simon Willison 💬 192 🔖 #github 🗓️ 2025-05-26

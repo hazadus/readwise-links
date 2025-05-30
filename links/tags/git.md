@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) 👤 Simon Willison 💬 1979 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
+    > **Резюме:** The Perfect Commit is a software development approach that includes a single implementation change, tests, updated documentation, and a link to an issue thread for context. This method helps maintain a clear and manageable commit history, making it easier to review and revert changes if necessary. Simon Willison emphasizes that while not every commit needs to be perfect, aiming for this structure generally enhances productivity and clarity in code development.
 - [Why GitHub Actually Won](https://blog.gitbutler.com/why-github-actually-won/) 👤 Scott Chacon 💬 4079 🔖 #git, #github 🗓️ 2025-03-23
     > **Резюме:** GitHub became dominant because it launched at the right time when open-source tools were gaining popularity. The founders had a good sense of design and community, which helped attract early adopters, especially from the Ruby community. As Git grew in use, GitHub's appealing platform made it the go-to choice for code hosting, easily outpacing competitors.
 - [How to Deploy Selectively to Production](https://www.caktusgroup.com/blog/2025/03/04/how-deploy-selectively-production/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_275) 👤 Tobias McNulty 💬 495 🔖 #git 🗓️ 2025-03-08

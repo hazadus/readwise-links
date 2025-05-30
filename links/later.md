@@ -1,17 +1,27 @@
 # Отложенные ссылки
 
-- Всего ссылок: 43
+- Всего ссылок: 48
 
 ## Ссылки
 
+- [Duplication Is Not the Enemy](https://terriblesoftware.org/2025/05/28/duplication-is-not-the-enemy/) 👤 Terrible Software 💬 971 🗓️ 2025-05-28
+    > **Резюме:** The author argues that duplication in code isn't always bad and can be preferable to premature abstraction. When developers try to eliminate duplication too early, they may create complex functions that become hard to manage as requirements change. It's better to wait until a clear pattern emerges before abstracting code, as this leads to simpler and more effective solutions.
+- [Say Your Writing](https://martinfowler.com/bliki/SayYourWriting.html) 👤 Martin Fowler 💬 320 🔖 #writing 🗓️ 2025-05-28
+    > **Резюме:** Martin Fowler shares a helpful writing tip: read your draft out loud to catch awkward phrases and improve its flow. He believes that writing should have a conversational tone, making it more engaging for readers. Fowler warns against bland corporate and academic prose, which can make writing feel lifeless.
+- [Как говорить о деньгах на собеседовании](https://kinzhal.media/money-sobes/) 👤 Анна Чуловская 💬 1497 🔖 #career 🗓️ 2025-05-28
+    > **Резюме:** На собеседовании важно уверенно говорить о зарплате и подготовиться заранее. Определите свою минимальную, желаемую и идеальную зарплату, а также учитывайте другие преимущества, которые может предложить компания. Проявляйте инициативу в обсуждении денег и не бойтесь задавать вопросы рекрутеру.
+- [Вместо встречи: три инструмента, которыми можно заменить некоторые созвоны](https://kinzhal.media/ne-vstrechai/) 👤 Максим Ильяхов 💬 685 🗓️ 2025-05-28
+    > **Резюме:** Вместо встреч можно использовать три инструмента: видео-презентации, скринкасты и опросы. Видео позволяет удобно и быстро донести информацию, а скринкасты дают возможность записывать экран с гибкостью. Опросы помогают принимать коллективные решения без необходимости собирать всех на звонок.
+- [Вашу продуктивность убивает многозадачность. У нас есть доказательства](https://kinzhal.media/productivity-multitasking/) 👤 Максим Ильяхов 💬 1043 🗓️ 2025-05-28
+    > **Резюме:** Многозадачность снижает продуктивность, так как требует постоянного переключения между задачами и приводит к управленческой суете. Чтобы работать эффективнее, нужно уменьшить количество параллельных задач и отвлечений. Важно планировать работу так, чтобы не начинать дела, которые могут быть приостановлены, и сосредотачиваться на завершении текущих задач.
+- [Ваш главный инструмент для переговоров и встреч](https://kinzhal.media/negotiation-tool/) 👤 Максим Ильяхов 💬 956 🗓️ 2025-05-28
+    > **Резюме:** Для успешных переговоров используйте простой инструмент: бумажный блокнот и ручку. Это поможет снизить стресс, улучшить внимание и избежать недопонимания. Записывая информацию, вы будете лучше понимать собеседника и сможете эффективно структурировать разговор.
 - [Model Context Protocol - Explained! (with Python example)](https://www.youtube.com/watch?v=JF14z6XO4Ho) 👤 BugBytes 🔖 #mcp 🗓️ 2025-05-26
     > **Резюме:** The video explains how to use the Model Context Protocol (MCP) with a Python example to set up a server and connect to a database. It demonstrates creating tools and resources for managing user data through commands in a virtual environment. The tutorial emphasizes the importance of exposing resources to the client using the MCP protocol.
 - [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/#atom-everything) 👤 Simon Willison 💬 5319 🔖 #llm 🗓️ 2025-05-25
     > **Резюме:** Anthropic has shared guidelines for their AI assistant, Claude 4, to ensure accurate and helpful responses. Claude is designed to avoid giving incorrect information, refuse requests for harmful content, and engage in conversations with clear and concise explanations. The system prompts also encourage Claude to respect copyright and adapt its response style based on user preferences.
 - [Rendering Mechanism](https://vuejs.org/guide/extras/rendering-mechanism#:~:text=The%20main%20benefit%20of%20virtual%20DOM%20is,the%20direct%20DOM%20manipulation%20to%20the%20renderer.) 👤 vuejs.org 💬 1600 🔖 #vue 🗓️ 2025-05-25
     > **Резюме:** Vue.js - The Progressive JavaScript Framework
-- [Strengths and limitations of diffusion language models](https://seangoedecke.com/limitations-of-text-diffusion-models/) 👤 seangoedecke.com 💬 1334 🔖 #llm 🗓️ 2025-05-23
-    > **Резюме:** Diffusion models generate text much faster than traditional autoregressive models because they create multiple tokens at once instead of one-by-one. While they excel in speed for longer outputs, they may struggle with reasoning tasks compared to autoregressive models. Additionally, diffusion models can use transformer technology, but their overall behavior differs significantly from autoregressive models.
 - [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp) 👤 Henrik Kniberg 💬 4268 🗓️ 2025-05-21
     > **Резюме:** The document delves into the concept of Minimum Viable Product (MVP) and the preference for an approach called Earliest Testable/Usable/Lovable. It contrasts the traditional Big Bang delivery method with iterative, incremental development approaches like Agile, emphasizing the importance of real user feedback. Through examples like Spotify and Minecraft, it illustrates the benefits of putting a basic, testable version of a product in users' hands early on to gather feedback, make improvements, and avoid costly failures. The document stresses the value of learning from real user interactions and adjusting the product accordingly, highlighting successful projects like a police car software system and Lego's product testing with children.
 - [Creating a Safari webarchive from the command line](https://alexwlchan.net/2024/creating-a-safari-webarchive/) 👤 alexwlchan.net 💬 2012 🗓️ 2025-05-19

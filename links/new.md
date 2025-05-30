@@ -1,17 +1,14 @@
 # Новые ссылки
 
-- Всего ссылок: 783
+- Всего ссылок: 780
 
 ## Ссылки
 
-- [Duplication Is Not the Enemy](https://terriblesoftware.org/2025/05/28/duplication-is-not-the-enemy/) 👤 Terrible Software 💬 971 🗓️ 2025-05-28
-- [Say Your Writing](https://martinfowler.com/bliki/SayYourWriting.html) 👤 Martin Fowler 💬 320 🔖 #writing 🗓️ 2025-05-28
+- [Human coders are still better than LLMs](http://antirez.com/news/153) 👤 antirez.com 💬 1243 🔖 #llm 🗓️ 2025-05-29
+- [How to cheat at unit tests with pytest and Black](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/) 👤 Simon Willison 💬 860 🗓️ 2025-05-29
+- [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/) 👤 Simon Willison 💬 2852 🗓️ 2025-05-29
+- [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) 👤 Simon Willison 💬 1979 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
 - [«Одни из нас», 2-й сезон: как расстроить всех и не порадовать никого](https://www.mirf.ru/serial/odni-iz-nas-2-sezon-serial) 👤 mirf.ru 💬 1040 🔖 #game 🗓️ 2025-05-28
-- [Шпаргалка по VueUse: когда использовать какую функцию](https://hazadus.ru/blog/vueuse-cheat-sheet) 👤 hazadus.ru 💬 1754 🔖 #vue 🗓️ 2025-05-28
-- [Как говорить о деньгах на собеседовании](https://kinzhal.media/money-sobes/) 👤 Анна Чуловская 💬 1497 🗓️ 2025-05-28
-- [Вместо встречи: три инструмента, которыми можно заменить некоторые созвоны](https://kinzhal.media/ne-vstrechai/) 👤 Максим Ильяхов 💬 685 🗓️ 2025-05-28
-- [Вашу продуктивность убивает многозадачность. У нас есть доказательства](https://kinzhal.media/productivity-multitasking/) 👤 Максим Ильяхов 💬 1043 🗓️ 2025-05-28
-- [Ваш главный инструмент для переговоров и встреч](https://kinzhal.media/negotiation-tool/) 👤 Максим Ильяхов 💬 956 🗓️ 2025-05-28
 - [Go, Browser—You Have To Talk! • The Applied Go Weekly Newsletter 2025-05-25](https://newsletter.appliedgo.net/archive/2025-05-25-go-browser-you-have-to-talk/) 👤 The Applied Go Weekly Newsletter 💬 1879 🔖 #go 🗓️ 2025-05-26
 - [http.DefaultTransport](https://antonz.org/default-transport/) 👤 Anton Zhiyanov 💬 804 🔖 #go 🗓️ 2025-05-24
 - [An Animated Introduction to Elixir](https://www.freecodecamp.org/news/an-animated-introduction-to-elixir/) 👤 Mark Mahoney 💬 685 🔖 #elixir 🗓️ 2025-05-23
