@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [Writing better release notes](https://simonwillison.net/2022/Jan/31/release-notes/) 👤 Simon Willison 💬 863 🔖 #github 🗓️ 2025-05-30
+    > **Резюме:** Release notes are crucial for open source projects, as they inform users about updates and changes. They should include the release date, be easy to link to, highlight key features, and credit contributors. Using platforms like GitHub can streamline the release process and enhance the presentation of release notes.
+- [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/) 👤 Simon Willison 💬 2852 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
+    > **Резюме:** The key to increasing productivity on personal projects is to maintain comprehensive documentation and automated tests. Issue driven development, using GitHub issues as temporary documentation, can help manage multiple projects efficiently. Sharing your project work through documentation and release notes is crucial for project completion and accountability.
 - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) 👤 Simon Willison 💬 1979 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
     > **Резюме:** The Perfect Commit is a software development approach that includes a single implementation change, tests, updated documentation, and a link to an issue thread for context. This method helps maintain a clear and manageable commit history, making it easier to review and revert changes if necessary. Simon Willison emphasizes that while not every commit needs to be perfect, aiming for this structure generally enhances productivity and clarity in code development.
 - [GitHub Issues search now supports nested queries and boolean operators: Here’s how we (re)built it](https://simonwillison.net/2025/May/26/github-issues-search/#atom-everything) 👤 Simon Willison 💬 149 🔖 #github 🗓️ 2025-05-26

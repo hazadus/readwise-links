@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 31
+- Всего ссылок: 32
 
 ## Ссылки
 
+- [🔍🏃 С Vitest ваше тестирование в Vite станет легким и эффективным](https://proglib.io/p/s-vitest-vashe-testirovanie-stanet-legkim-i-effektivnym-v-vite-2024-09-23) 👤 Библиотека программиста 💬 2391 🔖 #vite, #vitest, #testing 🗓️ 2025-05-30
+    > **Резюме:** Vitest makes testing in Vite easy and efficient for developers. It allows for seamless integration of tests during the application build process, helping to catch issues before deployment. This tool simplifies testing, making it accessible for both beginners and experienced developers.
 - [What is Testcontainers, and why should you use it?](https://testcontainers.com/guides/introducing-testcontainers/) 👤 Testcontainers 💬 860 🔖 #docker, #testing 🗓️ 2025-05-15
     > **Резюме:** Testcontainers is a testing library that simplifies integration testing by allowing developers to use real services in Docker containers instead of mocks or in-memory databases. It helps avoid issues like data conflicts and the need for pre-provisioned infrastructure, enabling faster and more reliable testing. With Testcontainers, you can run integration tests seamlessly alongside unit tests in various programming languages.
 - [Getting started with Testcontainers for Python](https://testcontainers.com/guides/getting-started-with-testcontainers-for-python/) 👤 Testcontainers 💬 1181 🔖 #docker, #python, #testing 🗓️ 2025-05-15

@@ -4,10 +4,10 @@
 
 ## Ссылки
 
-- [Human coders are still better than LLMs](http://antirez.com/news/153) 👤 antirez.com 💬 1243 🔖 #llm 🗓️ 2025-05-29
-- [How to cheat at unit tests with pytest and Black](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/) 👤 Simon Willison 💬 860 🗓️ 2025-05-29
-- [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/) 👤 Simon Willison 💬 2852 🗓️ 2025-05-29
-- [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) 👤 Simon Willison 💬 1979 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
+- [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) 👤 Nathaniel J. Smith 💬 6018 🗓️ 2025-05-30
+- [It's not your codebase](https://seangoedecke.com/not-your-codebase/) 👤 seangoedecke.com 💬 1087 🗓️ 2025-05-30
+- [Заговор разработчиков против корпораций](https://habr.com/ru/articles/874610/) 👤 arturdumchev 💬 3529 🗓️ 2025-05-30
+- [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/) 👤 Хабр 💬 3281 🗓️ 2025-05-30
 - [«Одни из нас», 2-й сезон: как расстроить всех и не порадовать никого](https://www.mirf.ru/serial/odni-iz-nas-2-sezon-serial) 👤 mirf.ru 💬 1040 🔖 #game 🗓️ 2025-05-28
 - [Go, Browser—You Have To Talk! • The Applied Go Weekly Newsletter 2025-05-25](https://newsletter.appliedgo.net/archive/2025-05-25-go-browser-you-have-to-talk/) 👤 The Applied Go Weekly Newsletter 💬 1879 🔖 #go 🗓️ 2025-05-26
 - [http.DefaultTransport](https://antonz.org/default-transport/) 👤 Anton Zhiyanov 💬 804 🔖 #go 🗓️ 2025-05-24

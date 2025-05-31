@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 27
+- Всего ссылок: 28
 
 ## Ссылки
 
+- [Every Single Thing I Use Raycast For](https://www.youtube.com/watch?v=kHxgxgNHQR4) 👤 FromSergio 🔖 #try 🗓️ 2025-05-30
+    > **Резюме:** Raycast is a powerful Spotlight replacement that helps manage schedules, control smart home devices, and access various apps quickly. It offers many extensions and features, like a calculator and screenshot search, making tasks easier and faster. Raycast is regularly updated, making it a great tool for Mac users looking to streamline their workflow.
 - [/usr/bin/just do it](https://frankwiles.com/posts/just-do-it/) 👤 frankwiles.com 💬 1129 🔖 #cli, #try 🗓️ 2025-04-28
     > **Резюме:** just is a better way of documenting project specific commands than using a Makefile or a folder full of scripts. It is easy to get started with, powerful for the long haul, and written in Rust.
 - [Личный ИИ-ассистент на ваших данных. Часть 2: Веб-интерфейс, авторизация и стриминг ответов от ИИ](https://habr.com/ru/companies/amvera/articles/902868) 👤 Habr 💬 4926 🔖 #llm, #try 🗓️ 2025-04-22

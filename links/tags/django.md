@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 43
+- Всего ссылок: 44
 
 ## Ссылки
 
+- [How to cheat at unit tests with pytest and Black](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/) 👤 Simon Willison 💬 860 🔖 #django, #pytest 🗓️ 2025-05-29
+    > **Резюме:** The author discusses using pytest and Black to efficiently write unit tests for a Django project focused on permissions in Datasette Cloud. They prefer to prototype solutions first and then create tests based on the implemented code, which speeds up the process. This method has resulted in a robust test suite and has been successfully applied to their software projects.
 - [Django Security Best Practices: A Comprehensive Guide for Software Engineers](https://corgea.com/Learn/django-security-best-practices-a-comprehensive-guid-for-software-engineers?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_285) 👤 corgea.com 💬 1030 🔖 #django, #security 🗓️ 2025-05-17
     > **Заметка:** Неплохой чек-лист по обеспечению безопасности Django
     > **Резюме:** Corgea is an AI-powered security platform that automatically finds, triages, and fixes insecure code. Sign up today for free to try Corgea. 

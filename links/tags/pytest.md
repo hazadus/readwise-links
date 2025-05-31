@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [How to cheat at unit tests with pytest and Black](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/) 👤 Simon Willison 💬 860 🔖 #django, #pytest 🗓️ 2025-05-29
+    > **Резюме:** The author discusses using pytest and Black to efficiently write unit tests for a Django project focused on permissions in Datasette Cloud. They prefer to prototype solutions first and then create tests based on the implemented code, which speeds up the process. This method has resulted in a robust test suite and has been successfully applied to their software projects.
 - [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/) 👤 Dane Hillard 💬 5149 🔖 #pytest, #python, #testing 🗓️ 2024-12-09
     > **Резюме:** This tutorial teaches you how to effectively use pytest for testing your Python code. It covers features like fixtures for managing test state, marks for categorizing tests, and parametrization to reduce code duplication. Pytest simplifies testing with clear output and a flexible plugin system, making it a powerful tool for both new projects and existing unittest suites.
 - [Jeff Triplett's Micro.blog - How to test with Django and pytest fixtures](https://micro.webology.dev/2024/02/05/how-to-test.html) 👤 Jeff Triplett 💬 351 🔖 #django, #pytest, #testing 🗓️ 2024-02-08

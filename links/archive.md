@@ -1,9 +1,16 @@
 # Архивные ссылки
 
-- Всего ссылок: 688
+- Всего ссылок: 695
 
 ## Ссылки
 
+- [Every Single Thing I Use Raycast For](https://www.youtube.com/watch?v=kHxgxgNHQR4) 👤 FromSergio 🔖 #try 🗓️ 2025-05-30
+- [Writing better release notes](https://simonwillison.net/2022/Jan/31/release-notes/) 👤 Simon Willison 💬 863 🔖 #github 🗓️ 2025-05-30
+- [🔍🏃 С Vitest ваше тестирование в Vite станет легким и эффективным](https://proglib.io/p/s-vitest-vashe-testirovanie-stanet-legkim-i-effektivnym-v-vite-2024-09-23) 👤 Библиотека программиста 💬 2391 🔖 #vite, #vitest, #testing 🗓️ 2025-05-30
+- [Human coders are still better than LLMs](http://antirez.com/news/153) 👤 antirez.com 💬 1243 🔖 #llm 🗓️ 2025-05-29
+- [How to cheat at unit tests with pytest and Black](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/) 👤 Simon Willison 💬 860 🔖 #django, #pytest 🗓️ 2025-05-29
+- [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/) 👤 Simon Willison 💬 2852 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
+- [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) 👤 Simon Willison 💬 1979 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
 - [AI-assisted development needs automated tests](https://simonwillison.net/2025/May/28/automated-tests/#atom-everything) 👤 Simon Willison 💬 193 🔖 #llm 🗓️ 2025-05-29
 - [Шпаргалка по VueUse: когда использовать какую функцию](https://hazadus.ru/blog/vueuse-cheat-sheet) 👤 hazadus.ru 💬 1754 🔖 #vue 🗓️ 2025-05-28
 - [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/?utm_source=rss) 👤 alexwlchan.net 💬 3756 🔖 #css, #html 🗓️ 2025-05-26

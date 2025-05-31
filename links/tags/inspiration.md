@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 67
+- Всего ссылок: 68
 
 ## Ссылки
 
+- [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/) 👤 Simon Willison 💬 2852 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
+    > **Резюме:** The key to increasing productivity on personal projects is to maintain comprehensive documentation and automated tests. Issue driven development, using GitHub issues as temporary documentation, can help manage multiple projects efficiently. Sharing your project work through documentation and release notes is crucial for project completion and accountability.
 - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) 👤 Simon Willison 💬 1979 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
     > **Резюме:** The Perfect Commit is a software development approach that includes a single implementation change, tests, updated documentation, and a link to an issue thread for context. This method helps maintain a clear and manageable commit history, making it easier to review and revert changes if necessary. Simon Willison emphasizes that while not every commit needs to be perfect, aiming for this structure generally enhances productivity and clarity in code development.
 - [ИИ-агенты — вот что действительно изменит разработку. Пишем ИИ-агент на Python, LangChain и GigaChat](https://youtube.com/watch?v=KFgwXXWT7sQ&si=9c1fWb9ps_90PRff) 👤 Диджитализируй! 🔖 #llm, #agents, #langchain, #inspiration 🗓️ 2025-05-19
