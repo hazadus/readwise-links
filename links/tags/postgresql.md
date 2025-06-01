@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 24
+- Всего ссылок: 25
 
 ## Ссылки
 
+- [PostgreSQL как эффективная база для документных данных](https://youtube.com/watch?v=l8__4kI4zgU&si=FWi3JO7IruJno-N8) 👤 Health Samurai Team 🔖 #postgresql 🗓️ 2025-05-31
+    > **Резюме:** PostgreSQL is an effective database for storing document data, allowing for efficient querying and indexing. It supports JSONB for handling complex documents and provides various operators for accessing specific fields. The system can handle large datasets and offers the flexibility to adapt as data grows, making it a robust choice for developers.
 - [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns) 👤 Ethan McCue 💬 1367 🔖 #sql, #postgresql 🗓️ 2025-03-30
     > **Резюме:** The article shares helpful PostgreSQL practices that can improve database management and usability. Key recommendations include using UUIDs for primary keys, adding created_at and updated_at timestamps, and employing soft deletes instead of permanent deletions. The author emphasizes naming conventions and the importance of schemas to maintain organization in larger applications.
 - [PgBouncer is useful, important, and fraught with peril](https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html) 👤 JP Camara 💬 8311 🔖 #postgresql 🗓️ 2025-03-23
