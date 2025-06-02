@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [Create a React + Flask Project in 2025](https://blog.miguelgrinberg.com/post/create-a-react-flask-project-in-2025) 👤 Miguel Grinberg 💬 2191 🔖 #vite, #flask, #react 🗓️ 2025-06-01
+    > **Резюме:** Miguel Grinberg's article explains how to create a React and Flask project using Vite instead of create-react-app. It provides step-by-step instructions for setting up the React front end and Flask back end, including commands for installing dependencies. The guide aims to help developers build a modern application template that can be used for years to come.
 - [Building a Real-time Dashboard with Flask and Svelte](https://testdriven.io/blog/flask-svelte/) 👤 Amir Tadrisi 💬 2931 🔖 #sse, #flask, #svelte 🗓️ 2025-04-08
     > **Резюме:** Learn how to build a real-time analytics dashboard using Flask and Svelte with server-sent events.
 - [Dynamic Forms with Flask](https://blog.miguelgrinberg.com/post/dynamic-forms-with-flask) 👤 Miguel Grinberg 💬 2923 🔖 #flask 🗓️ 2025-01-30

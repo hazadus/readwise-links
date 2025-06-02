@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 89
+- Всего ссылок: 91
 
 ## Ссылки
 
+- [Why DeepSeek is cheap at scale but expensive to run locally](https://seangoedecke.com/inference-batching-and-deepseek/) 👤 seangoedecke.com 💬 2183 🔖 #llm 🗓️ 2025-06-01
+    > **Резюме:** DeepSeek is cheap to run at scale because it uses batching to process many user requests simultaneously, which improves GPU efficiency. However, this batching increases latency since users may have to wait for enough requests to fill a batch before processing begins. Models like DeepSeek-V3 require high batch sizes to keep all parts of the system active and efficient, leading to a tradeoff between higher throughput and longer wait times for users.
+- [A quote from Steve Krouse](https://simonwillison.net/2025/May/31/steve-krouse/#atom-everything) 👤 Simon Willison 💬 214 🔖 #fun, #llm 🗓️ 2025-06-01
+    > **Резюме:** Steve Krouse describes "hype coding" as focusing too much on the latest technology trends and neglecting what can be done today. This approach encourages users to let AI handle coding while avoiding critical thinking and learning. People often misinterpret "hype coding," missing the irony in ignoring details.
 - [Human coders are still better than LLMs](http://antirez.com/news/153) 👤 antirez.com 💬 1243 🔖 #llm 🗓️ 2025-05-29
     > **Резюме:** The author argues that human coders are still superior to AI language models (LLMs) in solving complex problems. While LLMs can suggest ideas, they often lack the creative thinking necessary for innovative solutions. The author shares a coding challenge where their own inventive approach outperformed the AI's suggestions, highlighting the unique capabilities of human intelligence.
 - [AI-assisted development needs automated tests](https://simonwillison.net/2025/May/28/automated-tests/#atom-everything) 👤 Simon Willison 💬 193 🔖 #llm 🗓️ 2025-05-29

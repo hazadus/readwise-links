@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 2
+- Всего ссылок: 3
 
 ## Ссылки
 
+- [A quote from Steve Krouse](https://simonwillison.net/2025/May/31/steve-krouse/#atom-everything) 👤 Simon Willison 💬 214 🔖 #fun, #llm 🗓️ 2025-06-01
+    > **Резюме:** Steve Krouse describes "hype coding" as focusing too much on the latest technology trends and neglecting what can be done today. This approach encourages users to let AI handle coding while avoiding critical thinking and learning. People often misinterpret "hype coding," missing the irony in ignoring details.
 - [Vibe Management](https://yieldcode.blog/post/vibe-management/) 👤 Dmitry Kudryavtsev 💬 1112 🔖 #fun, #llm 🗓️ 2025-04-02
     > **Резюме:** Vibe Management is a new concept that suggests using AI tools like ChatGPT to replace middle and upper management roles. This approach allows everyone in the tech industry to enjoy a more relaxed work environment while still being productive. The author predicts that within a few years, most management positions will be obsolete as everyone learns to "vibe" through their work.
 - [SOLID и другие аббревиатуры](https://grishaev.me/solid-abbrev/) 👤 grishaev.me 💬 247 🔖 #fun, #principles 🗓️ 2025-01-28

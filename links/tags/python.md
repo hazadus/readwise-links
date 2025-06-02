@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 55
+- Всего ссылок: 56
 
 ## Ссылки
 
+- [What's up Python? Faster CPython cancelled, a new installer and yet another type checker](https://www.bitecode.dev/p/whats-up-python-faster-cpython-cancelled) 👤 Bite Code 💬 733 🔖 #python 🗓️ 2025-06-01
+    > **Резюме:** Microsoft has canceled the Faster CPython project, disappointing many who hoped for improved Python performance. A new installer called PyFuze aims to make Python tools more portable across different operating systems. Additionally, a new type checker named Ty has been released, promising much faster performance than existing options, but it is still in development and may have bugs.
 - [Remote Single-file Python Scripts with uv](https://joshcannon.me/2025/04/24/remote-single-file-scripts.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_286) 👤 Josh Cannon 💬 353 🔖 #uv, #python 🗓️ 2025-05-25
     > **Заметка:** Интересный способ запускать скрипты прямо из репо. 
     > **Резюме:** The article explains how to run remote single-file Python scripts easily using the tool "uv." It handles Python installation, supports scripts from URLs, and can manage dependencies automatically. This allows users to share and execute scripts without worrying about configuration or version issues.
