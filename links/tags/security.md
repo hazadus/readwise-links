@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 4
 
 ## Ссылки
 
+- [kdevtmpfsi using the entire CPU](https://stackoverflow.com/questions/60151640/kdevtmpfsi-using-the-entire-cpu?roistat_visit=2575899) 👤 stackoverflow.com 💬 297 🔖 #security 🗓️ 2025-06-03
+    > **Резюме:** The user faced a problem with the kdevtmpfsi process using too much CPU, which they traced back to opened incoming connections as a postgres user. They created a bash script to kill the process and scheduled it to run every minute using a cron job. While this solution is not ideal, it helps manage the issue temporarily.
 - [Django Security Best Practices: A Comprehensive Guide for Software Engineers](https://corgea.com/Learn/django-security-best-practices-a-comprehensive-guid-for-software-engineers?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_285) 👤 corgea.com 💬 1030 🔖 #django, #security 🗓️ 2025-05-17
     > **Заметка:** Неплохой чек-лист по обеспечению безопасности Django
     > **Резюме:** Corgea is an AI-powered security platform that automatically finds, triages, and fixes insecure code. Sign up today for free to try Corgea. 

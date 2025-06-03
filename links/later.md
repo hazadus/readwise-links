@@ -1,27 +1,21 @@
 # Отложенные ссылки
 
-- Всего ссылок: 51
+- Всего ссылок: 48
 
 ## Ссылки
 
+- [✋ The 17 biggest mental traps costing software engineers time and growth](https://strategizeyourcareer.com/p/the-17-biggest-mental-traps-costing-software-engineers-time-and-growth) 👤 Fran Soto 💬 1927 🗓️ 2025-06-02
+    > **Резюме:** Software engineers often face hidden mental traps that hinder their decision-making and growth. The article identifies 17 cognitive biases and logical fallacies that lead to poor estimates, flawed judgments, and resistance to change. By recognizing and addressing these biases, engineers can improve their work and collaboration within teams.
 - [Why DeepSeek is cheap at scale but expensive to run locally](https://seangoedecke.com/inference-batching-and-deepseek/) 👤 seangoedecke.com 💬 2183 🔖 #llm 🗓️ 2025-06-01
     > **Резюме:** DeepSeek is cheap to run at scale because it uses batching to process many user requests simultaneously, which improves GPU efficiency. However, this batching increases latency since users may have to wait for enough requests to fill a batch before processing begins. Models like DeepSeek-V3 require high batch sizes to keep all parts of the system active and efficient, leading to a tradeoff between higher throughput and longer wait times for users.
-- [What's up Python? Faster CPython cancelled, a new installer and yet another type checker](https://www.bitecode.dev/p/whats-up-python-faster-cpython-cancelled) 👤 Bite Code 💬 733 🔖 #python 🗓️ 2025-06-01
-    > **Резюме:** Microsoft has canceled the Faster CPython project, disappointing many who hoped for improved Python performance. A new installer called PyFuze aims to make Python tools more portable across different operating systems. Additionally, a new type checker named Ty has been released, promising much faster performance than existing options, but it is still in development and may have bugs.
 - [PostgreSQL как эффективная база для документных данных](https://youtube.com/watch?v=l8__4kI4zgU&si=FWi3JO7IruJno-N8) 👤 Health Samurai Team 🔖 #postgresql 🗓️ 2025-05-31
     > **Резюме:** PostgreSQL is an effective database for storing document data, allowing for efficient querying and indexing. It supports JSONB for handling complex documents and provides various operators for accessing specific fields. The system can handle large datasets and offers the flexibility to adapt as data grows, making it a robust choice for developers.
-- [It's not your codebase](https://seangoedecke.com/not-your-codebase/) 👤 seangoedecke.com 💬 1087 🗓️ 2025-05-30
-    > **Резюме:** Engineers often feel a strong ownership over their code, but it's important to remember that the codebase belongs to the company. While engineers should communicate risks, they must ultimately let managers make decisions about the code. Embracing this perspective can improve collaboration and align efforts with the company's goals.
 - [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/) 👤 Хабр 💬 3281 🗓️ 2025-05-30
     > **Резюме:** The article discusses how developers sometimes undermine corporations by spreading destructive ideas within their codebases. It highlights the importance of quick feedback in development and how certain practices, like using monorepositories, can slow down productivity. The author warns against the risks of architectural sabotage and advocates for a more organized approach to coding.
-- [Duplication Is Not the Enemy](https://terriblesoftware.org/2025/05/28/duplication-is-not-the-enemy/) 👤 Terrible Software 💬 971 🗓️ 2025-05-28
-    > **Резюме:** The author argues that duplication in code isn't always bad and can be preferable to premature abstraction. When developers try to eliminate duplication too early, they may create complex functions that become hard to manage as requirements change. It's better to wait until a clear pattern emerges before abstracting code, as this leads to simpler and more effective solutions.
 - [Как говорить о деньгах на собеседовании](https://kinzhal.media/money-sobes/) 👤 Анна Чуловская 💬 1497 🔖 #career 🗓️ 2025-05-28
     > **Резюме:** На собеседовании важно уверенно говорить о зарплате и подготовиться заранее. Определите свою минимальную, желаемую и идеальную зарплату, а также учитывайте другие преимущества, которые может предложить компания. Проявляйте инициативу в обсуждении денег и не бойтесь задавать вопросы рекрутеру.
 - [Вашу продуктивность убивает многозадачность. У нас есть доказательства](https://kinzhal.media/productivity-multitasking/) 👤 Максим Ильяхов 💬 1043 🗓️ 2025-05-28
     > **Резюме:** Многозадачность снижает продуктивность, так как требует постоянного переключения между задачами и приводит к управленческой суете. Чтобы работать эффективнее, нужно уменьшить количество параллельных задач и отвлечений. Важно планировать работу так, чтобы не начинать дела, которые могут быть приостановлены, и сосредотачиваться на завершении текущих задач.
-- [Ваш главный инструмент для переговоров и встреч](https://kinzhal.media/negotiation-tool/) 👤 Максим Ильяхов 💬 956 🗓️ 2025-05-28
-    > **Резюме:** Для успешных переговоров используйте простой инструмент: бумажный блокнот и ручку. Это поможет снизить стресс, улучшить внимание и избежать недопонимания. Записывая информацию, вы будете лучше понимать собеседника и сможете эффективно структурировать разговор.
 - [Model Context Protocol - Explained! (with Python example)](https://www.youtube.com/watch?v=JF14z6XO4Ho) 👤 BugBytes 🔖 #mcp 🗓️ 2025-05-26
     > **Резюме:** The video explains how to use the Model Context Protocol (MCP) with a Python example to set up a server and connect to a database. It demonstrates creating tools and resources for managing user data through commands in a virtual environment. The tutorial emphasizes the importance of exposing resources to the client using the MCP protocol.
 - [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/#atom-everything) 👤 Simon Willison 💬 5319 🔖 #llm 🗓️ 2025-05-25

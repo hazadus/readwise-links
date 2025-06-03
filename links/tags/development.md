@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 48
+- Всего ссылок: 50
 
 ## Ссылки
 
+- [It's not your codebase](https://seangoedecke.com/not-your-codebase/) 👤 seangoedecke.com 💬 1087 🔖 #development 🗓️ 2025-05-30
+    > **Резюме:** Engineers often feel a strong ownership over their code, but it's important to remember that the codebase belongs to the company. While engineers should communicate risks, they must ultimately let managers make decisions about the code. Embracing this perspective can improve collaboration and align efforts with the company's goals.
+- [Duplication Is Not the Enemy](https://terriblesoftware.org/2025/05/28/duplication-is-not-the-enemy/) 👤 Terrible Software 💬 971 🔖 #principles, #development 🗓️ 2025-05-28
+    > **Заметка:** Правильно пишет про преждевременное применение DRY. Не первый раз встречаю эти идеи, в целом согласен. 
+    > **Резюме:** The author argues that duplication in code isn't always bad and can be preferable to premature abstraction. When developers try to eliminate duplication too early, they may create complex functions that become hard to manage as requirements change. It's better to wait until a clear pattern emerges before abstracting code, as this leads to simpler and more effective solutions.
 - [Agile as Trauma](https://doriantaylor.com/agile-as-trauma) 👤 Dorian Taylor 💬 2781 🔖 #agile, #development 🗓️ 2025-05-21
     > **Резюме:** The Agile Manifesto emerged as a response to poor management in software development. While Agile introduced new techniques, it is still vulnerable to the same management issues it was created to address. Many Agile concepts existed long before the Manifesto, highlighting that better software development practices have been around for decades.
 - [Why strong engineers are rarely blocked](https://seangoedecke.com/becoming-unblockable/) 👤 seangoedecke.com 💬 1657 🔖 #career, #development, #time management 🗓️ 2025-05-18

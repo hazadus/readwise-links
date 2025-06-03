@@ -1,12 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 700
+- Всего ссылок: 704
 
 ## Ссылки
 
 - [Сетевой этикет: что это и как его соблюдать](https://kinzhal.media/setevoj-etiket/) 👤 kinzhal.media 💬 1641 🔖 #meetings 🗓️ 2025-06-01
+- [What's up Python? Faster CPython cancelled, a new installer and yet another type checker](https://www.bitecode.dev/p/whats-up-python-faster-cpython-cancelled) 👤 Bite Code 💬 733 🔖 #python 🗓️ 2025-06-01
 - [A quote from Steve Krouse](https://simonwillison.net/2025/May/31/steve-krouse/#atom-everything) 👤 Simon Willison 💬 214 🔖 #fun, #llm 🗓️ 2025-06-01
 - [Every Single Thing I Use Raycast For](https://www.youtube.com/watch?v=kHxgxgNHQR4) 👤 FromSergio 🔖 #try 🗓️ 2025-05-30
+- [It's not your codebase](https://seangoedecke.com/not-your-codebase/) 👤 seangoedecke.com 💬 1087 🔖 #development 🗓️ 2025-05-30
 - [Заговор разработчиков против корпораций](https://habr.com/ru/articles/874610/) 👤 arturdumchev 💬 3529 🗓️ 2025-05-30
 - [Writing better release notes](https://simonwillison.net/2022/Jan/31/release-notes/) 👤 Simon Willison 💬 863 🔖 #github 🗓️ 2025-05-30
 - [🔍🏃 С Vitest ваше тестирование в Vite станет легким и эффективным](https://proglib.io/p/s-vitest-vashe-testirovanie-stanet-legkim-i-effektivnym-v-vite-2024-09-23) 👤 Библиотека программиста 💬 2391 🔖 #vite, #vitest, #testing 🗓️ 2025-05-30
@@ -15,9 +17,12 @@
 - [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/) 👤 Simon Willison 💬 2852 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
 - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) 👤 Simon Willison 💬 1979 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
 - [AI-assisted development needs automated tests](https://simonwillison.net/2025/May/28/automated-tests/#atom-everything) 👤 Simon Willison 💬 193 🔖 #llm 🗓️ 2025-05-29
+- [Duplication Is Not the Enemy](https://terriblesoftware.org/2025/05/28/duplication-is-not-the-enemy/) 👤 Terrible Software 💬 971 🔖 #principles, #development 🗓️ 2025-05-28
+    > **Заметка:** Правильно пишет про преждевременное применение DRY. Не первый раз встречаю эти идеи, в целом согласен. 
 - [Say Your Writing](https://martinfowler.com/bliki/SayYourWriting.html) 👤 Martin Fowler 💬 320 🔖 #writing 🗓️ 2025-05-28
 - [Шпаргалка по VueUse: когда использовать какую функцию](https://hazadus.ru/blog/vueuse-cheat-sheet) 👤 hazadus.ru 💬 1754 🔖 #vue 🗓️ 2025-05-28
 - [Вместо встречи: три инструмента, которыми можно заменить некоторые созвоны](https://kinzhal.media/ne-vstrechai/) 👤 Максим Ильяхов 💬 685 🔖 #meetings 🗓️ 2025-05-28
+- [Ваш главный инструмент для переговоров и встреч](https://kinzhal.media/negotiation-tool/) 👤 Максим Ильяхов 💬 956 🔖 #meetings, #soft skills 🗓️ 2025-05-28
 - [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/?utm_source=rss) 👤 alexwlchan.net 💬 3756 🔖 #css, #html 🗓️ 2025-05-26
     > **Заметка:** Автор, конечно, маньяк - столько документов сохранил вручную😰
 - [Software Engineering Job Titles](https://brainbaking.com/post/2025/05/software-engineering-job-titles/) 👤 Brain Baking 💬 915 🗓️ 2025-05-26

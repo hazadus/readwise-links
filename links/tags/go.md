@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 194
+- Всего ссылок: 195
 
 ## Ссылки
 
+- [Stop Splitting Atoms • The Applied Go Weekly Newsletter 2025-06-01](https://newsletter.appliedgo.net/archive/2025-06-01-stop-splitting-atoms/) 👤 The Applied Go Weekly Newsletter 💬 1635 🔖 #go 🗓️ 2025-06-02
+    > **Резюме:** This week's newsletter discusses the sync/atomic package in Go and why it's sometimes necessary despite warnings to use more ergonomic alternatives. It highlights the advantages of atomic types, which help prevent data race conditions by restricting how counters can be incremented. Additionally, the newsletter features articles on flaky tests, dependency injection, and event-driven architectures.
 - [Go, Browser—You Have To Talk! • The Applied Go Weekly Newsletter 2025-05-25](https://newsletter.appliedgo.net/archive/2025-05-25-go-browser-you-have-to-talk/) 👤 The Applied Go Weekly Newsletter 💬 1879 🔖 #go 🗓️ 2025-05-26
     > **Резюме:** The newsletter discusses how to add a web UI to Go applications, exploring a method that uses WebAssembly to run Go code in the browser. It provides a step-by-step guide for creating a simple web app that interacts with the browser's DOM by reading input and displaying output. Additionally, it highlights the importance of using the correct JavaScript support file and compiling the Go code into a WebAssembly module.
 - [http.DefaultTransport](https://antonz.org/default-transport/) 👤 Anton Zhiyanov 💬 804 🔖 #go 🗓️ 2025-05-24

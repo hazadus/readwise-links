@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 8
 
 ## Ссылки
 
+- [Ваш главный инструмент для переговоров и встреч](https://kinzhal.media/negotiation-tool/) 👤 Максим Ильяхов 💬 956 🔖 #meetings, #soft skills 🗓️ 2025-05-28
+    > **Резюме:** Для успешных переговоров используйте простой инструмент: бумажный блокнот и ручку. Это поможет снизить стресс, улучшить внимание и избежать недопонимания. Записывая информацию, вы будете лучше понимать собеседника и сможете эффективно структурировать разговор.
 - [The importance of character in software engineering](https://seangoedecke.com/character-in-software-engineering/) 👤 seangoedecke.com 💬 1052 🔖 #career, #development, #soft skills, #communication 🗓️ 2025-05-10
     > **Резюме:** Character is crucial for success in software engineering, yet it is often overlooked in favor of technical skills. Good character traits, like emotional regulation and humility, help engineers handle crises and work effectively with others. Developing these personal qualities can make a software engineer much more effective than just focusing on technical knowledge.
 - [Tracking Engineering Time - Jacob Kaplan-Moss](https://jacobian.org/2024/feb/7/tracking-engineering-time/) 👤 jacobian.org 💬 1924 🔖 #soft skills, #time management 🗓️ 2024-02-13

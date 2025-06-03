@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 778
+- Всего ссылок: 780
 
 ## Ссылки
 
+- [kdevtmpfsi using the entire CPU](https://stackoverflow.com/questions/60151640/kdevtmpfsi-using-the-entire-cpu?roistat_visit=2575899) 👤 stackoverflow.com 💬 297 🔖 #security 🗓️ 2025-06-03
+- [Stop Splitting Atoms • The Applied Go Weekly Newsletter 2025-06-01](https://newsletter.appliedgo.net/archive/2025-06-01-stop-splitting-atoms/) 👤 The Applied Go Weekly Newsletter 💬 1635 🔖 #go 🗓️ 2025-06-02
 - [Create a React + Flask Project in 2025](https://blog.miguelgrinberg.com/post/create-a-react-flask-project-in-2025) 👤 Miguel Grinberg 💬 2191 🔖 #vite, #flask, #react 🗓️ 2025-06-01
 - [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) 👤 Nathaniel J. Smith 💬 6018 🗓️ 2025-05-30
 - [«Одни из нас», 2-й сезон: как расстроить всех и не порадовать никого](https://www.mirf.ru/serial/odni-iz-nas-2-sezon-serial) 👤 mirf.ru 💬 1040 🔖 #game 🗓️ 2025-05-28
@@ -565,7 +567,7 @@ UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 
 - [Микроразметка сайта, настройка, проверка, плагины и генераторы](https://www.uplab.ru/blog/the-data-markup-for-yandex-and-google-how-to-configure-and-test/) 👤 Алексей Семёнов редактор Авторы 💬 1272 🗓️ 2024-06-04
 - [Python's many command-line utilities - Python Morsels](https://www.pythonmorsels.com/cli-tools/) 👤 Trey Hunner 💬 3575 🗓️ 2024-06-04
 - [How to cut a person out of a picture using python | by Vitaliy Hramchenko | Medium](https://v-hramchenko.medium.com/how-to-cut-out-a-person-in-an-image-with-open-source-projects-e5e7f8798d5c) 👤 Vitaliy Hramchenko 💬 744 🗓️ 2024-06-10
-- [Telegram Mini Apps](https://core.telegram.org/bots/webapps) 👤 core.telegram.org 💬 4825 🗓️ 2024-06-11
+- [Telegram Mini Apps](https://core.telegram.org/bots/webapps) 👤 core.telegram.org 💬 4825 🔖 #miniapp 🗓️ 2025-06-02
 - [Level up your Tailwind game | oh-no.ooo](https://www.oh-no.ooo/articles/level-up-your-tailwind-game) 👤 Lucia Nazzaro 💬 3491 🗓️ 2024-06-11
 - [How do you program for 8h in a row? - Bite code!](https://www.bitecode.dev/p/how-do-you-program-for-8h-in-a-row) 👤 Bite Code! 💬 1757 🗓️ 2024-06-11
 - [The Documentation Tradeoff - by Kent Beck](https://tidyfirst.substack.com/p/the-documentation-tradeoff) 👤 Kent Beck 💬 872 🗓️ 2024-06-13
