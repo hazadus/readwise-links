@@ -1,9 +1,16 @@
 # Архивные ссылки
 
-- Всего ссылок: 704
+- Всего ссылок: 713
 
 ## Ссылки
 
+- [5 мелочей в переписке, за которые вас хочется неистово обнять](https://kinzhal.media/5-small-things/) 👤 Кинжал 💬 404 🔖 #soft skills, #communication 🗓️ 2025-06-03
+- [Продаёте себя на собеседовании? Не надо](https://kinzhal.media/ne-prodal/) 👤 Кинжал 💬 488 🔖 #career 🗓️ 2025-06-03
+- [Как грамотно написать сопроводительное письмо при отклике на вакансию](https://kinzhal.media/soprovodeal/) 👤 Кинжал 💬 1015 🔖 #career 🗓️ 2025-06-03
+- [Как выделяться на рынке, когда вокруг так много крутых специалистов?](https://kinzhal.media/ask-smm-spec/) 👤 Максим Ильяхов 💬 638 🔖 #career 🗓️ 2025-06-03
+- [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/) 👤 Thomas Ptacek 💬 2733 🔖 #llm, #inspiration 🗓️ 2025-06-03
+- [claude-trace](https://simonwillison.net/2025/Jun/2/claude-trace/#atom-everything) 👤 Simon Willison 💬 573 🔖 #llm 🗓️ 2025-06-03
+- [Web Weekly #159](https://www.stefanjudis.com/blog/web-weekly-159/) 👤 stefanjudis.com 💬 1500 🔖 #web 🗓️ 2025-06-03
 - [Сетевой этикет: что это и как его соблюдать](https://kinzhal.media/setevoj-etiket/) 👤 kinzhal.media 💬 1641 🔖 #meetings 🗓️ 2025-06-01
 - [What's up Python? Faster CPython cancelled, a new installer and yet another type checker](https://www.bitecode.dev/p/whats-up-python-faster-cpython-cancelled) 👤 Bite Code 💬 733 🔖 #python 🗓️ 2025-06-01
 - [A quote from Steve Krouse](https://simonwillison.net/2025/May/31/steve-krouse/#atom-everything) 👤 Simon Willison 💬 214 🔖 #fun, #llm 🗓️ 2025-06-01
@@ -21,7 +28,10 @@
     > **Заметка:** Правильно пишет про преждевременное применение DRY. Не первый раз встречаю эти идеи, в целом согласен. 
 - [Say Your Writing](https://martinfowler.com/bliki/SayYourWriting.html) 👤 Martin Fowler 💬 320 🔖 #writing 🗓️ 2025-05-28
 - [Шпаргалка по VueUse: когда использовать какую функцию](https://hazadus.ru/blog/vueuse-cheat-sheet) 👤 hazadus.ru 💬 1754 🔖 #vue 🗓️ 2025-05-28
+- [Как говорить о деньгах на собеседовании](https://kinzhal.media/money-sobes/) 👤 Анна Чуловская 💬 1497 🔖 #career 🗓️ 2025-05-28
 - [Вместо встречи: три инструмента, которыми можно заменить некоторые созвоны](https://kinzhal.media/ne-vstrechai/) 👤 Максим Ильяхов 💬 685 🔖 #meetings 🗓️ 2025-05-28
+- [Вашу продуктивность убивает многозадачность. У нас есть доказательства](https://kinzhal.media/productivity-multitasking/) 👤 Максим Ильяхов 💬 1043 🔖 #time management 🗓️ 2025-05-28
+    > **Заметка:** Надо было тут ещё про таймбоксинг написать
 - [Ваш главный инструмент для переговоров и встреч](https://kinzhal.media/negotiation-tool/) 👤 Максим Ильяхов 💬 956 🔖 #meetings, #soft skills 🗓️ 2025-05-28
 - [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/?utm_source=rss) 👤 alexwlchan.net 💬 3756 🔖 #css, #html 🗓️ 2025-05-26
     > **Заметка:** Автор, конечно, маньяк - столько документов сохранил вручную😰

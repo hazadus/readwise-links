@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [Вашу продуктивность убивает многозадачность. У нас есть доказательства](https://kinzhal.media/productivity-multitasking/) 👤 Максим Ильяхов 💬 1043 🔖 #time management 🗓️ 2025-05-28
+    > **Заметка:** Надо было тут ещё про таймбоксинг написать
+    > **Резюме:** Многозадачность снижает продуктивность, так как требует постоянного переключения между задачами и приводит к управленческой суете. Чтобы работать эффективнее, нужно уменьшить количество параллельных задач и отвлечений. Важно планировать работу так, чтобы не начинать дела, которые могут быть приостановлены, и сосредотачиваться на завершении текущих задач.
 - [Why strong engineers are rarely blocked](https://seangoedecke.com/becoming-unblockable/) 👤 seangoedecke.com 💬 1657 🔖 #career, #development, #time management 🗓️ 2025-05-18
     > **Резюме:** Strong engineers face fewer blocks in their work by using strategies like managing multiple tasks and anticipating potential obstacles. They also know when to ask for help from their management to overcome external blockers. By prioritizing tasks and avoiding unnecessary political fights, they can maintain productivity and keep projects moving forward.
 - [Working fast and slow](https://www.seangoedecke.com/working-fast-and-slow/) 👤 seangoedecke.com 💬 790 🔖 #outline, #development, #time management 🗓️ 2025-01-27

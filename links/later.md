@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 48
+- Всего ссылок: 46
 
 ## Ссылки
 
@@ -12,10 +12,6 @@
     > **Резюме:** PostgreSQL is an effective database for storing document data, allowing for efficient querying and indexing. It supports JSONB for handling complex documents and provides various operators for accessing specific fields. The system can handle large datasets and offers the flexibility to adapt as data grows, making it a robust choice for developers.
 - [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/) 👤 Хабр 💬 3281 🗓️ 2025-05-30
     > **Резюме:** The article discusses how developers sometimes undermine corporations by spreading destructive ideas within their codebases. It highlights the importance of quick feedback in development and how certain practices, like using monorepositories, can slow down productivity. The author warns against the risks of architectural sabotage and advocates for a more organized approach to coding.
-- [Как говорить о деньгах на собеседовании](https://kinzhal.media/money-sobes/) 👤 Анна Чуловская 💬 1497 🔖 #career 🗓️ 2025-05-28
-    > **Резюме:** На собеседовании важно уверенно говорить о зарплате и подготовиться заранее. Определите свою минимальную, желаемую и идеальную зарплату, а также учитывайте другие преимущества, которые может предложить компания. Проявляйте инициативу в обсуждении денег и не бойтесь задавать вопросы рекрутеру.
-- [Вашу продуктивность убивает многозадачность. У нас есть доказательства](https://kinzhal.media/productivity-multitasking/) 👤 Максим Ильяхов 💬 1043 🗓️ 2025-05-28
-    > **Резюме:** Многозадачность снижает продуктивность, так как требует постоянного переключения между задачами и приводит к управленческой суете. Чтобы работать эффективнее, нужно уменьшить количество параллельных задач и отвлечений. Важно планировать работу так, чтобы не начинать дела, которые могут быть приостановлены, и сосредотачиваться на завершении текущих задач.
 - [Model Context Protocol - Explained! (with Python example)](https://www.youtube.com/watch?v=JF14z6XO4Ho) 👤 BugBytes 🔖 #mcp 🗓️ 2025-05-26
     > **Резюме:** The video explains how to use the Model Context Protocol (MCP) with a Python example to set up a server and connect to a database. It demonstrates creating tools and resources for managing user data through commands in a virtual environment. The tutorial emphasizes the importance of exposing resources to the client using the MCP protocol.
 - [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/#atom-everything) 👤 Simon Willison 💬 5319 🔖 #llm 🗓️ 2025-05-25

@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 780
+- Всего ссылок: 782
 
 ## Ссылки
 
+- [New Programming Jargon](https://blog.codinghorror.com/new-programming-jargon/) 👤 Jeff Atwood 💬 2082 🗓️ 2025-06-03
+- [The Front-End Monitoring Handbook: Track Performance, Errors, and User Behavior](https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/) 👤 freeCodeCamp.org 💬 5785 🗓️ 2025-06-03
 - [kdevtmpfsi using the entire CPU](https://stackoverflow.com/questions/60151640/kdevtmpfsi-using-the-entire-cpu?roistat_visit=2575899) 👤 stackoverflow.com 💬 297 🔖 #security 🗓️ 2025-06-03
 - [Stop Splitting Atoms • The Applied Go Weekly Newsletter 2025-06-01](https://newsletter.appliedgo.net/archive/2025-06-01-stop-splitting-atoms/) 👤 The Applied Go Weekly Newsletter 💬 1635 🔖 #go 🗓️ 2025-06-02
 - [Create a React + Flask Project in 2025](https://blog.miguelgrinberg.com/post/create-a-react-flask-project-in-2025) 👤 Miguel Grinberg 💬 2191 🔖 #vite, #flask, #react 🗓️ 2025-06-01

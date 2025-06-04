@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 68
+- Всего ссылок: 69
 
 ## Ссылки
 
+- [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/) 👤 Thomas Ptacek 💬 2733 🔖 #llm, #inspiration 🗓️ 2025-06-03
+    > **Резюме:** The author argues that LLMs (large language models) can significantly assist software developers by handling tedious coding tasks, allowing them to focus on more important work. Despite skepticism about LLM-generated code quality, the author believes that these tools can enhance productivity and reduce the need for repetitive tasks. Ultimately, while LLMs may not replace all developers, they can streamline the coding process and improve efficiency.
 - [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/) 👤 Simon Willison 💬 2852 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
     > **Резюме:** The key to increasing productivity on personal projects is to maintain comprehensive documentation and automated tests. Issue driven development, using GitHub issues as temporary documentation, can help manage multiple projects efficiently. Sharing your project work through documentation and release notes is crucial for project completion and accountability.
 - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) 👤 Simon Willison 💬 1979 🔖 #git, #github, #inspiration 🗓️ 2025-05-29

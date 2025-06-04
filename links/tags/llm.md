@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 91
+- Всего ссылок: 93
 
 ## Ссылки
 
+- [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/) 👤 Thomas Ptacek 💬 2733 🔖 #llm, #inspiration 🗓️ 2025-06-03
+    > **Резюме:** The author argues that LLMs (large language models) can significantly assist software developers by handling tedious coding tasks, allowing them to focus on more important work. Despite skepticism about LLM-generated code quality, the author believes that these tools can enhance productivity and reduce the need for repetitive tasks. Ultimately, while LLMs may not replace all developers, they can streamline the coding process and improve efficiency.
+- [claude-trace](https://simonwillison.net/2025/Jun/2/claude-trace/#atom-everything) 👤 Simon Willison 💬 573 🔖 #llm 🗓️ 2025-06-03
+    > **Резюме:** Simon Willison discusses a tool called claude-trace that allows users to inspect how the Claude Code CLI app works by logging request and response data. This tool can be run easily using npx and provides a user-friendly HTML interface for reviewing the logs. The article highlights the use of an "agent" tool within Claude Code, which helps perform searches more efficiently but operates with specific limitations.
 - [Why DeepSeek is cheap at scale but expensive to run locally](https://seangoedecke.com/inference-batching-and-deepseek/) 👤 seangoedecke.com 💬 2183 🔖 #llm 🗓️ 2025-06-01
     > **Резюме:** DeepSeek is cheap to run at scale because it uses batching to process many user requests simultaneously, which improves GPU efficiency. However, this batching increases latency since users may have to wait for enough requests to fill a batch before processing begins. Models like DeepSeek-V3 require high batch sizes to keep all parts of the system active and efficient, leading to a tradeoff between higher throughput and longer wait times for users.
 - [A quote from Steve Krouse](https://simonwillison.net/2025/May/31/steve-krouse/#atom-everything) 👤 Simon Willison 💬 214 🔖 #fun, #llm 🗓️ 2025-06-01
