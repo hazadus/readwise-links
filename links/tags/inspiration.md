@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 70
+- Всего ссылок: 71
 
 ## Ссылки
 
+- [deliberate intentional practice](https://ghuntley.com/play/) 👤 Geoffrey Huntley 💬 839 🔖 #llm, #inspiration 🗓️ 2025-06-04
+    > **Резюме:** Many people say AI doesn't work for them, often because they're only using it in complicated, outdated codebases. However, those who engage in deliberate practice with AI, like experimenting and playing with it, often discover its potential and beauty. The challenges some companies face with AI should not discourage individuals from exploring and improving their skills in this rapidly evolving field.
 - [AI Changes Everything](http://lucumr.pocoo.org/2025/6/4/changes) 👤 Armin Ronacher's Thoughts and Writings 💬 1097 🔖 #llm, #inspiration 🗓️ 2025-06-04
     > **Резюме:** Armin Ronacher shares how AI has transformed his work, allowing him to delegate tasks and gain more free time. He believes we are at the beginning of a significant shift in how we live and work, comparable to past technological revolutions. Despite some skepticism in the tech community, he encourages a positive outlook on AI's potential to enhance creativity and innovation.
 - [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/) 👤 Thomas Ptacek 💬 2733 🔖 #llm, #inspiration 🗓️ 2025-06-03

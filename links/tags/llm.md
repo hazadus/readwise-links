@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 97
+- Всего ссылок: 98
 
 ## Ссылки
 
 - [LLMs are mirrors of operator skill](https://ghuntley.com/mirrors/) 👤 Geoffrey Huntley 💬 1471 🔖 #llm 🗓️ 2025-06-04
     > **Резюме:** The rise of AI has changed how we evaluate software engineering skills, making it crucial to identify truly skilled operators. Traditional interviewing methods are flawed, as candidates can easily cheat using AI tools. Companies should adapt their interview processes to observe how candidates interact with AI, rather than banning its use outright.
+- [deliberate intentional practice](https://ghuntley.com/play/) 👤 Geoffrey Huntley 💬 839 🔖 #llm, #inspiration 🗓️ 2025-06-04
+    > **Резюме:** Many people say AI doesn't work for them, often because they're only using it in complicated, outdated codebases. However, those who engage in deliberate practice with AI, like experimenting and playing with it, often discover its potential and beauty. The challenges some companies face with AI should not discourage individuals from exploring and improving their skills in this rapidly evolving field.
 - [AI Changes Everything](http://lucumr.pocoo.org/2025/6/4/changes) 👤 Armin Ronacher's Thoughts and Writings 💬 1097 🔖 #llm, #inspiration 🗓️ 2025-06-04
     > **Резюме:** Armin Ronacher shares how AI has transformed his work, allowing him to delegate tasks and gain more free time. He believes we are at the beginning of a significant shift in how we live and work, comparable to past technological revolutions. Despite some skepticism in the tech community, he encourages a positive outlook on AI's potential to enhance creativity and innovation.
 - [Run Your Own AI](https://anthonylewis.com/2025/06/01/run-your-own-ai/) 👤 anthonylewis.com 💬 567 🔖 #llm 🗓️ 2025-06-04
@@ -166,7 +168,7 @@ Read hundreds of articles on programming: https://freecodecamp.org/news
     > **Резюме:** AI is transforming software engineering teams, and leaders must embrace it to guide their teams effectively. It's important for managers to experiment with AI tools themselves and create a culture of exploration within their teams. While there are challenges and concerns about job security, adapting to AI can enhance productivity and ensure long-term success.
 - [if you aren't redlining the LLM, you aren't headlining](https://ghuntley.com/redlining/) 👤 Geoffrey Huntley 💬 541 🔖 #llm 🗓️ 2025-04-07
     > **Резюме:** The author compares audio signal clipping in DJing to limitations in large language models (LLMs), noting that each LLM has a unique context window for optimal performance. Businesses need to budget significantly for LLM usage to stay competitive, as these tools can double engineers' productivity. Without adequate funding for these resources, companies risk falling behind their competitors.
-- [Личный ИИ-ассистент на ваших данных. Часть 1: Векторная база ChromaDB + DeepSeek | GPT](https://habr.com/ru/companies/amvera/articles/897830/) 👤 Habr 💬 6257 🔖 #llm 🗓️ 2025-04-06
+- [Личный ИИ-ассистент на ваших данных. Часть 1: Векторная база ChromaDB + DeepSeek | GPT](https://habr.com/ru/companies/amvera/articles/897830/) 👤 yakvenalex 💬 6285 🔖 #llm 🗓️ 2025-04-06
     > **Резюме:** В статье обсуждается, как интегрировать векторные базы данных, такие как ChromaDB, с нейросетями для эффективного поиска информации. Основное внимание уделяется документам и метаданным, которые помогают улучшить семантический поиск товаров в интернет-магазинах. Автор предлагает создать простой поисковик, преобразующий запросы пользователей в векторное представление для получения релевантных результатов.
 - [Простой баг, ChatGPT и 50 минут боли: как ИИ программистов заменял](https://www.youtube.com/watch?v=DvAaql-nZ50&feature=youtu.be) 👤 Диджитализируй! 🔖 #llm 🗓️ 2025-04-06
     > **Резюме:** The author discusses the challenges of using AI tools, like ChatGPT, for programming tasks, highlighting issues with code copying and error handling. Despite the potential of AI to assist, it often struggles with specific technical problems, leading to frustration. The article emphasizes that while AI can enhance skills, it is not a perfect solution and can sometimes provide misleading advice.

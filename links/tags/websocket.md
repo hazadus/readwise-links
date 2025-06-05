@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [Вебсокеты на FastAPI: Реализация простого чата с комнатами за 20 минут](https://habr.com/ru/companies/amvera/articles/884816/) 👤 Хабр 💬 3630 🔖 #try, #fastapi, #websocket 🗓️ 2025-02-24
+- [Вебсокеты на FastAPI: Реализация простого чата с комнатами за 20 минут](https://habr.com/ru/companies/amvera/articles/884816/) 👤 yakvenalex 💬 3644 🔖 #try, #fastapi, #websocket 🗓️ 2025-02-24
     > **Резюме:** The article explains how to create a simple real-time chat service using WebSockets and FastAPI. It covers the basics of WebSockets, how to set up the server-side connections, and the necessary JavaScript for client-side functionality. The author emphasizes that while backend implementation is straightforward, frontend development can be more challenging.
 - [Building multiplayer games with socket.io and HTML5 Canvas](https://www.seangoedecke.com/socket-io-game/) 👤 seangoedecke.com 💬 1880 🔖 #websocket 🗓️ 2025-01-28
     > **Резюме:** The author shares their journey of building a multiplayer Snake game using socket.io and HTML5 Canvas, starting from simple concepts to more complex mechanics. They faced challenges with lag and synchronization between the client and server, learning the importance of game design choices to manage these issues. Ultimately, they created a playable game by implementing slow acceleration mechanics and providing instant feedback to players.

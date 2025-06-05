@@ -83,7 +83,7 @@
 - [Contemplating on templates • The Applied Go Weekly Newsletter 2025-03-30](https://newsletter.appliedgo.net/archive/2025-03-30-contemplating-on-templates/) 👤 The Applied Go Weekly Newsletter 💬 2019 🔖 #go 🗓️ 2025-03-30
 - [Impromptu disaster recovery](https://fasterthanli.me/articles/impromptu-disaster-recovery) 👤 Amos Wenger 💬 9214 🗓️ 2025-03-29
 - [Building a Real-time Dashboard with FastAPI and Svelte](https://testdriven.io/blog/fastapi-svelte/) 👤 Amir Tadrisi 💬 2608 🔖 #sse, #fastapi 🗓️ 2025-03-27
-- [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 2 — VueJS3 + Centrifugo с монетизацией приложения](https://habr.com/ru/companies/amvera/articles/893250/) 👤 Хабр 💬 6857 🔖 #miniapp 🗓️ 2025-03-25
+- [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 2 — VueJS3 + Centrifugo с монетизацией приложения](https://habr.com/ru/companies/amvera/articles/893250/) 👤 yakvenalex 💬 6864 🔖 #miniapp 🗓️ 2025-03-25
 - [Bitfield Consulting](https://bitfieldconsulting.com/posts/things-fall-apart) 👤 Bitfield Consulting 💬 45 🔖 #rust 🗓️ 2025-03-24
 - [PgBouncer is useful, important, and fraught with peril](https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html) 👤 JP Camara 💬 8311 🔖 #postgresql 🗓️ 2025-03-23
 - [What are the options? • The Applied Go Weekly Newsletter 2025-03-23](https://newsletter.appliedgo.net/archive/2025-03-23-what-are-the-options/) 👤 The Applied Go Weekly Newsletter 💬 2128 🔖 #go 🗓️ 2025-03-23
@@ -95,11 +95,11 @@
 - [Benchmarking: What You Can't Miss in Go 1.24](https://jarosz.dev/code/benchmarking-what-you-cannot-miss-in-go-1.24/) 👤 Jakub Jarosz 💬 872 🔖 #go 🗓️ 2025-03-21
 - [«Скрипты и алгоритмы успеха» Радислава Гандапаса — читаем, размышляем, обсуждаем](https://www.youtube.com/watch?v=fzNnzDDfBSc) 👤 Диджитализируй! 🗓️ 2025-03-20
 - [Web Components Vs. Framework Components: What’s The Difference?](https://www.smashingmagazine.com/2025/03/web-components-vs-framework-components/) 👤 Gabriel Shoyombo 💬 1975 🗓️ 2025-03-18
-- [Планировщик Go — самый подробный гайд простым языком](https://habr.com/ru/articles/891426/) 👤 Хабр 💬 6732 🗓️ 2025-03-18
+- [Планировщик Go — самый подробный гайд простым языком](https://habr.com/ru/articles/891426/) 👤 JustSkiv 💬 7178 🗓️ 2025-03-18
 - [x-h3-session](https://h3.unjs.io/examples/handle-session) 👤 unjs.io 💬 578 🗓️ 2025-03-17
 - [django-vite - integrate Vite with Django | TailwindCSS v4 setup](https://www.youtube.com/watch?v=wgN04Byqi9c) 👤 BugBytes 🗓️ 2025-03-17
 - [Optimizations, Small And Big • The Applied Go Weekly Newsletter 2025-03-16](https://newsletter.appliedgo.net/archive/2025-03-16-optimizations-small-and-big/) 👤 The Applied Go Weekly Newsletter 💬 1631 🗓️ 2025-03-17
-- [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 1 — Бэкенд на FastAPI, Aiogram, Redis и Centrifugo](https://habr.com/ru/companies/amvera/articles/890976/) 👤 Хабр 💬 10630 🔖 #fastapi, #miniapp 🗓️ 2025-03-25
+- [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 1 — Бэкенд на FastAPI, Aiogram, Redis и Centrifugo](https://habr.com/ru/companies/amvera/articles/890976/) 👤 yakvenalex 💬 10630 🔖 #fastapi, #miniapp 🗓️ 2025-03-25
 - [PKM Summit 2025 Notes](https://brainbaking.com/post/2025/03/pkm-summit-2025/) 👤 Brain Baking 💬 1310 🗓️ 2025-03-15
 - [Django Query Optimization - Defer, Only, and Exclude](https://testdriven.io/blog/django-query-optimization/) 👤 testdriven.io 💬 1383 🔖 #django 🗓️ 2025-03-15
 - [Открытие года - поиграл в Clair Obscur: Expedition 33 I Битый Пиксель](https://www.youtube.com/watch?v=7Wyl_pTfA3w) 👤 Битый Пиксель 🗓️ 2025-03-15
@@ -129,7 +129,7 @@
 - [Please confirm that you and not a robot are sending requests](https://yandex.cloud/ru/blog/posts/2025/02/virtual-machine-basics) 👤 yandex.cloud 💬 28 🗓️ 2025-02-28
 - [Tips to debug hanging Go programs](https://michael.stapelberg.ch/posts/2025-02-27-debug-hanging-go-programs/) 👤 Michael Stapelberg 💬 1952 🔖 #go 🗓️ 2025-02-27
 - [Bitfield Consulting](https://bitfieldconsulting.com/posts/writing-terrible-code) 👤 Bitfield Consulting 💬 13 🔖 #rust 🗓️ 2025-02-27
-- [Centrifugo v6 + FastAPI + Python: разрабатываем веб-опросник с обновлениями в реальном времени](https://habr.com/ru/companies/amvera/articles/885714/) 👤 Хабр 💬 5239 🔖 #try, #fastapi, #miniapp 🗓️ 2025-02-27
+- [Centrifugo v6 + FastAPI + Python: разрабатываем веб-опросник с обновлениями в реальном времени](https://habr.com/ru/companies/amvera/articles/885714/) 👤 yakvenalex 💬 5295 🔖 #try, #fastapi, #miniapp 🗓️ 2025-02-27
 - [From Go With Love • The Applied Go Weekly Newsletter 2025-02-23](https://newsletter.appliedgo.net/archive/2025-02-23-from-go-with-love/) 👤 The Applied Go Weekly Newsletter 💬 2021 🗓️ 2025-02-24
 - [🔥 (#205) Flatten Nuxt Content Routes, Mock Any Import, and more](mailto:reader-forwarded-email/2484f0a7fdf5aa504203887bab2d5cb3) 👤 Michael Thiessen 💬 1234 🔖 #nuxt 🗓️ 2025-02-19
 - [Zig & Go Interoperation](https://findev.datainquiry.dev/zig-and-go-interoperation) 👤 Jaime Lopez 💬 607 🔖 #go 🗓️ 2025-02-18

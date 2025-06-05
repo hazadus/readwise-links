@@ -1,11 +1,9 @@
 # Отложенные ссылки
 
-- Всего ссылок: 48
+- Всего ссылок: 47
 
 ## Ссылки
 
-- [deliberate intentional practice](https://ghuntley.com/play/) 👤 Geoffrey Huntley 💬 839 🗓️ 2025-06-04
-    > **Резюме:** Many people say AI doesn't work for them, often because they're only using it in complicated, outdated codebases. However, those who engage in deliberate practice with AI, like experimenting and playing with it, often discover its potential and beauty. The challenges some companies face with AI should not discourage individuals from exploring and improving their skills in this rapidly evolving field.
 - [This is perhaps my favorite thing I've built that uses A.I.](https://www.youtube.com/watch?v=d05vNPmIIqc) 👤 Dreams of Code 🔖 #mcp 🗓️ 2025-06-04
     > **Резюме:** The author built a feature on their website that generates formatted blog posts from video transcripts using AI. This process allows them to refine the content and improve the quality quickly, turning hours of work into just minutes. Now, their blog has well-structured posts to accompany their videos, enhancing the overall content experience.
 - [✋ The 17 biggest mental traps costing software engineers time and growth](https://strategizeyourcareer.com/p/the-17-biggest-mental-traps-costing-software-engineers-time-and-growth) 👤 Fran Soto 💬 1927 🗓️ 2025-06-02
@@ -56,7 +54,7 @@
     > **Резюме:** Django 5.2 was released last Wednesday, another exciting step forward for our favourite web framework. It comes with a composite of new features, contributed to by many, some of which I am happy to have helped with. Below is my pick of highlights from the release notes.
 - [Owning my own data, part 1: Integrating a self-hosted calendar solution](https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/) 👤 The Personal Blog of Emily Gorcenski 💬 3061 🗓️ 2025-04-06
     > **Резюме:** Emily Gorcenski is creating a self-hosted calendar system to gain better control over her scheduling. She plans to use Baïkal, a lightweight server, to integrate various data sources and share events with her work calendar. This system aims to simplify data entry and improve visibility for her coworkers without relying on mainstream calendar platforms.
-- [Личный ИИ-ассистент на ваших данных. Часть 1: Векторная база ChromaDB + DeepSeek | GPT](https://habr.com/ru/companies/amvera/articles/897830/) 👤 Habr 💬 6257 🔖 #llm 🗓️ 2025-04-06
+- [Личный ИИ-ассистент на ваших данных. Часть 1: Векторная база ChromaDB + DeepSeek | GPT](https://habr.com/ru/companies/amvera/articles/897830/) 👤 yakvenalex 💬 6285 🔖 #llm 🗓️ 2025-04-06
     > **Резюме:** В статье обсуждается, как интегрировать векторные базы данных, такие как ChromaDB, с нейросетями для эффективного поиска информации. Основное внимание уделяется документам и метаданным, которые помогают улучшить семантический поиск товаров в интернет-магазинах. Автор предлагает создать простой поисковик, преобразующий запросы пользователей в векторное представление для получения релевантных результатов.
 - [Celebrating 50 years of Microsoft | Bill Gates](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code) 👤 Bill Gates 💬 5503 🗓️ 2025-04-04
     > **Резюме:** Bill Gates reflects on the 50th anniversary of Microsoft, starting with the creation of Altair BASIC in 1975. He shares his pride in how this early code led to a revolution in computing and the company's immense success. Gates also acknowledges the influential teachers who helped shape his journey into the world of technology.
@@ -80,7 +78,7 @@
     > **Резюме:** The OWASP Top 10 is a valuable resource for web developers to identify and prevent common security vulnerabilities in full-stack applications. The article explores various vulnerabilities, such as security misconfigurations and insecure designs, and emphasizes the importance of understanding and addressing these issues. By applying the OWASP guidelines, developers can significantly enhance the security of their applications and protect against potential attacks.
 - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/) 👤 GitButler 💬 3188 🔖 #git 🗓️ 2025-02-25
     > **Резюме:** The author shares lesser-known Git configuration settings that core Git developers recommend for better performance. These settings include adjusting default branch names, improving diff algorithms, and enhancing push and fetch behavior. By enabling these options, users can streamline their Git experience and make it more efficient.
-- [Вебсокеты на FastAPI: Реализация простого чата с комнатами за 20 минут](https://habr.com/ru/companies/amvera/articles/884816/) 👤 Хабр 💬 3630 🔖 #try, #fastapi, #websocket 🗓️ 2025-02-24
+- [Вебсокеты на FastAPI: Реализация простого чата с комнатами за 20 минут](https://habr.com/ru/companies/amvera/articles/884816/) 👤 yakvenalex 💬 3644 🔖 #try, #fastapi, #websocket 🗓️ 2025-02-24
     > **Резюме:** The article explains how to create a simple real-time chat service using WebSockets and FastAPI. It covers the basics of WebSockets, how to set up the server-side connections, and the necessary JavaScript for client-side functionality. The author emphasizes that while backend implementation is straightforward, frontend development can be more challenging.
 - [Как собрать своё портфолио для резюме начинающему программисту](https://www.youtube.com/watch?v=r7I0ZXPVCVw) 👤 Диджитализируй! 🗓️ 2025-02-17
     > **Резюме:** Начинающим программистам важно создать качественное портфолио, чтобы продемонстрировать свои навыки и проекты. Рекомендуется публиковать приложения и использовать GitHub для демонстрации кода. Не забывайте уделять внимание оформлению и описанию своих проектов, чтобы привлечь внимание работодателей.

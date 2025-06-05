@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 717
+- Всего ссылок: 718
 
 ## Ссылки
 
+- [deliberate intentional practice](https://ghuntley.com/play/) 👤 Geoffrey Huntley 💬 839 🔖 #llm, #inspiration 🗓️ 2025-06-04
 - [AI Changes Everything](http://lucumr.pocoo.org/2025/6/4/changes) 👤 Armin Ronacher's Thoughts and Writings 💬 1097 🔖 #llm, #inspiration 🗓️ 2025-06-04
 - [Run Your Own AI](https://anthonylewis.com/2025/06/01/run-your-own-ai/) 👤 anthonylewis.com 💬 567 🔖 #llm 🗓️ 2025-06-04
 - [John Henry and the large language model](https://seangoedecke.com/john-henry-and-the-llm/) 👤 seangoedecke.com 💬 586 🔖 #llm 🗓️ 2025-06-04
