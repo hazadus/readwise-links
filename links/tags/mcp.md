@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 4
 
 ## Ссылки
 
+- [This is perhaps my favorite thing I've built that uses A.I.](https://www.youtube.com/watch?v=d05vNPmIIqc) 👤 Dreams of Code 🔖 #mcp 🗓️ 2025-06-04
+    > **Резюме:** The author built a feature on their website that generates formatted blog posts from video transcripts using AI. This process allows them to refine the content and improve the quality quickly, turning hours of work into just minutes. Now, their blog has well-structured posts to accompany their videos, enhancing the overall content experience.
 - [Model Context Protocol - Explained! (with Python example)](https://www.youtube.com/watch?v=JF14z6XO4Ho) 👤 BugBytes 🔖 #mcp 🗓️ 2025-05-26
     > **Резюме:** The video explains how to use the Model Context Protocol (MCP) with a Python example to set up a server and connect to a database. It demonstrates creating tools and resources for managing user data through commands in a virtual environment. The tutorial emphasizes the importance of exposing resources to the client using the MCP protocol.
 - [A Model Context Protocol Server (MCP) for Microsoft Paint](https://ghuntley.com/mcp/) 👤 Geoffrey Huntley 💬 1480 🔖 #llm, #mcp 🗓️ 2025-04-04

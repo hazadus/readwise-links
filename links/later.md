@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 46
+- Всего ссылок: 48
 
 ## Ссылки
 
+- [deliberate intentional practice](https://ghuntley.com/play/) 👤 Geoffrey Huntley 💬 839 🗓️ 2025-06-04
+    > **Резюме:** Many people say AI doesn't work for them, often because they're only using it in complicated, outdated codebases. However, those who engage in deliberate practice with AI, like experimenting and playing with it, often discover its potential and beauty. The challenges some companies face with AI should not discourage individuals from exploring and improving their skills in this rapidly evolving field.
+- [This is perhaps my favorite thing I've built that uses A.I.](https://www.youtube.com/watch?v=d05vNPmIIqc) 👤 Dreams of Code 🔖 #mcp 🗓️ 2025-06-04
+    > **Резюме:** The author built a feature on their website that generates formatted blog posts from video transcripts using AI. This process allows them to refine the content and improve the quality quickly, turning hours of work into just minutes. Now, their blog has well-structured posts to accompany their videos, enhancing the overall content experience.
 - [✋ The 17 biggest mental traps costing software engineers time and growth](https://strategizeyourcareer.com/p/the-17-biggest-mental-traps-costing-software-engineers-time-and-growth) 👤 Fran Soto 💬 1927 🗓️ 2025-06-02
     > **Резюме:** Software engineers often face hidden mental traps that hinder their decision-making and growth. The article identifies 17 cognitive biases and logical fallacies that lead to poor estimates, flawed judgments, and resistance to change. By recognizing and addressing these biases, engineers can improve their work and collaboration within teams.
 - [Why DeepSeek is cheap at scale but expensive to run locally](https://seangoedecke.com/inference-batching-and-deepseek/) 👤 seangoedecke.com 💬 2183 🔖 #llm 🗓️ 2025-06-01
@@ -28,7 +32,7 @@
     > **Резюме:** Meilisearch offers a fast and easy-to-use search solution for Django sites, allowing for customizable indexing and search schemas. It simplifies the process of setting up and maintaining search functionality compared to other options like Elasticsearch. By indexing specific fields from Django models, Meilisearch enables quick and efficient search results tailored to user needs.
 - [Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/#atom-everything) 👤 Simon Willison 💬 2330 🔖 #llm 🗓️ 2025-05-16
     > **Резюме:** Simon Willison held a three-hour workshop at PyCon US on building software using Large Language Models (LLMs). The workshop covered topics like setting up LLMs, prompting techniques, and creating a text to SQL tool. Participants learned about the economic value of structured data extraction and the importance of tool usage and security in LLM applications.
-- [FastAPI + Keycloak: Простая и безопасная авторизация в веб-приложении на примере реального проекта](https://habr.com/ru/companies/amvera/articles/907990/) 👤 Habr 💬 6602 🔖 #fastapi 🗓️ 2025-05-12
+- [FastAPI + Keycloak: Простая и безопасная авторизация в веб-приложении на примере реального проекта](https://habr.com/ru/companies/amvera/articles/907990/) 👤 yakvenalex 💬 6616 🔖 #fastapi 🗓️ 2025-05-12
     > **Резюме:** This article explains how to implement a secure authorization system in a web application using Keycloak and FastAPI. Keycloak simplifies user management and offers a reliable login mechanism. The guide covers installation, integration, and deploying the project in the cloud.
 - [Горький урок ABBYY: как лингвисты проиграли последнюю битву за NLP](https://sysblok.ru/blog/gorkij-urok-abbyy-kak-lingvisty-proigrali-poslednjuju-bitvu-za-nlp/) 👤 Даниил Скоринкин 💬 4611 🗓️ 2025-05-12
     > **Резюме:** The article discusses the decline of ABBYY, a once-successful Russian IT company, and the lessons learned from its failed attempts at machine translation. Despite having strong linguistic expertise, ABBYY's ambitious projects struggled due to the complexities of language and the lack of sufficient data and resources. Ultimately, the company's focus shifted towards information retrieval, but it lost its innovative edge in the process.

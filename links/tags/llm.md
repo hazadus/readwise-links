@@ -1,9 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 93
+- Всего ссылок: 97
 
 ## Ссылки
 
+- [LLMs are mirrors of operator skill](https://ghuntley.com/mirrors/) 👤 Geoffrey Huntley 💬 1471 🔖 #llm 🗓️ 2025-06-04
+    > **Резюме:** The rise of AI has changed how we evaluate software engineering skills, making it crucial to identify truly skilled operators. Traditional interviewing methods are flawed, as candidates can easily cheat using AI tools. Companies should adapt their interview processes to observe how candidates interact with AI, rather than banning its use outright.
+- [AI Changes Everything](http://lucumr.pocoo.org/2025/6/4/changes) 👤 Armin Ronacher's Thoughts and Writings 💬 1097 🔖 #llm, #inspiration 🗓️ 2025-06-04
+    > **Резюме:** Armin Ronacher shares how AI has transformed his work, allowing him to delegate tasks and gain more free time. He believes we are at the beginning of a significant shift in how we live and work, comparable to past technological revolutions. Despite some skepticism in the tech community, he encourages a positive outlook on AI's potential to enhance creativity and innovation.
+- [Run Your Own AI](https://anthonylewis.com/2025/06/01/run-your-own-ai/) 👤 anthonylewis.com 💬 567 🔖 #llm 🗓️ 2025-06-04
+    > **Резюме:** Large Language Models (LLMs) are becoming popular in various careers, and the author shares steps to run one locally on a Mac. The process involves installing tools like uv and llm, downloading a model, and then testing it out by chatting with it. Users can experiment with different models and explore more resources for learning about AI.
+- [John Henry and the large language model](https://seangoedecke.com/john-henry-and-the-llm/) 👤 seangoedecke.com 💬 586 🔖 #llm 🗓️ 2025-06-04
+    > **Резюме:** The story of John Henry highlights the struggle between skilled workers and machines, as he worked hard to prove he could outdo a steam drill but ultimately died from exhaustion. This reflects a current challenge in software engineering, where some believe they can write better code than large language models (LLMs), despite the growing capabilities of automation. As technology advances, it's important for programmers to adapt and consider their unique contributions beyond just coding skills.
 - [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/) 👤 Thomas Ptacek 💬 2733 🔖 #llm, #inspiration 🗓️ 2025-06-03
     > **Резюме:** The author argues that LLMs (large language models) can significantly assist software developers by handling tedious coding tasks, allowing them to focus on more important work. Despite skepticism about LLM-generated code quality, the author believes that these tools can enhance productivity and reduce the need for repetitive tasks. Ultimately, while LLMs may not replace all developers, they can streamline the coding process and improve efficiency.
 - [claude-trace](https://simonwillison.net/2025/Jun/2/claude-trace/#atom-everything) 👤 Simon Willison 💬 573 🔖 #llm 🗓️ 2025-06-03
@@ -125,7 +133,7 @@ Read hundreds of articles on programming: https://freecodecamp.org/news
     > **Резюме:** The author expresses concern that using AI in software development may reduce the joy and fulfillment that comes from coding. While AI can boost productivity, it risks making developers feel detached from their work, as they may rely on prompts instead of engaging deeply with the coding process. The author suggests that preserving moments of hands-on coding could help maintain happiness in the craft.
 - [A trick to feel less like cheating when you use LLMs](https://simonwillison.net/2025/Apr/23/cheating/#atom-everything) 👤 Simon Willison 💬 232 🔖 #llm 🗓️ 2025-04-23
     > **Резюме:** Using LLMs can feel like cheating, but there are ways to make it feel more acceptable. One effective method is to provide more text than the LLM produces, such as using your own notes or previous projects. Ultimately, it's important to feel proud of the final result and ensure it reflects your own voice and credibility.
-- [Личный ИИ-ассистент на ваших данных. Часть 2: Веб-интерфейс, авторизация и стриминг ответов от ИИ](https://habr.com/ru/companies/amvera/articles/902868) 👤 Habr 💬 4926 🔖 #llm, #try 🗓️ 2025-04-22
+- [Личный ИИ-ассистент на ваших данных. Часть 2: Веб-интерфейс, авторизация и стриминг ответов от ИИ](https://habr.com/ru/companies/amvera/articles/902868) 👤 yakvenalex 💬 4941 🔖 #llm, #try 🗓️ 2025-04-22
     > **Резюме:** The article continues exploring the development of a personal AI assistant using your own data. It covers topics like user authorization, API logic, and integrating neural networks. The project aims to be transparent and simple, making it easy for users to understand and build upon.
 - [AI assisted search-based research actually works now](https://simonwillison.net/2025/Apr/21/ai-assisted-search/#atom-everything) 👤 Simon Willison 💬 1139 🔖 #llm 🗓️ 2025-04-22
     > **Заметка:** Саймон рапортует, что некоторые модели уже достигли такой кондиции, что могут успешно искать материалы в сети и за ними не нужно очень тщательно проверять результаты. 
@@ -225,7 +233,7 @@ Read hundreds of articles on programming: https://freecodecamp.org/news
     > **Резюме:** During Christmas break, the author reflected on their software development process while learning new programming languages. They experienced a surprising breakthrough using software assistants, which helped them create a functional Haskell library from scratch. The author believes that engineers who don’t embrace these tools may struggle in the evolving tech landscape.
 - [The future belongs to idea guys who can just do things](https://ghuntley.com/dothings/) 👤 Geoffrey Huntley 💬 1239 🔖 #llm 🗓️ 2025-02-16
     > **Резюме:** The future of software development is shifting towards AI, making traditional coding less relevant. Companies need to adapt by upskilling employees and embracing new tools. Ideas are becoming more valuable than execution, as individuals can now leverage AI to rapidly bring concepts to market.
-- [Run LLMs on macOS using llm-mlx and Apple’s MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/#atom-everything) 👤 Simon Willison 💬 1292 🔖 #llm 🗓️ 2025-02-16
+- [Run LLMs on macOS using llm-mlx and Apple’s MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/#atom-everything) 👤 Simon Willison 💬 1292 🔖 #llm 🗓️ 2025-06-04
     > **Резюме:** llm-mlx is a brand new plugin for my LLM Python Library and CLI utility which builds on top of Apple’s excellent MLX array framework library and mlx-lm package. If you’re …
 - [To avoid being replaced by LLMs, do what they can't](https://seangoedecke.com/what-llms-cant-do/) 👤 seangoedecke.com 💬 919 🔖 #llm, #outline 🗓️ 2025-02-15
     > **Заметка:** LLM vs Dev

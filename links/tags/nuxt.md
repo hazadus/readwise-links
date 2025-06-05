@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 35
+- Всего ссылок: 36
 
 ## Ссылки
 
+- [Implementing Edge-Side Rendering (ESR) in Nuxt 3+ for Enhanced Performance](https://mokkapps.de/blog/implementing-esr-nuxt) 👤 Michael Hoffmann 💬 1473 🔖 #nuxt 🗓️ 2025-06-04
+    > **Резюме:** Edge-Side Rendering (ESR) in Nuxt 3+ improves web performance by rendering content closer to users, reducing latency and load times. It allows applications to scale better by distributing the rendering workload across multiple edge servers. Using platforms like Cloudflare, Vercel, and Netlify, developers can easily implement ESR for faster and more responsive applications.
 - [21 Nuxt Tips You Need to Know](https://michaelnthiessen.com/21-nuxt-tips-you-need-to-know?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%94%A5+(216)+Component+design+patterns,+Nuxt%27s+new+data+layer,+and+more+-+17527805) 👤 michaelnthiessen.com 💬 3314 🔖 #nuxt 🗓️ 2025-05-17
     > **Резюме:** I spent weeks scouring the Nuxt docs to uncover hidden gems — features you didn’t know it had, and ones that are simply easy to forget about.
 - [Compressing Images With Vite and Vsharp](https://masteringnuxt.com/blog/compressing-images-with-vite-and-vsharp?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(&utm_medium=email&utm_source=convertkit#214)%20Component%20Metadata,%20Smooth%20Dragging,%20and%20Conditionally%20Rendering%20Slots%20-%2017366125) 👤 masteringnuxt.com 💬 522 🔖 #nuxt, #vite 🗓️ 2025-05-17

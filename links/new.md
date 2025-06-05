@@ -1,9 +1,12 @@
 # Новые ссылки
 
-- Всего ссылок: 782
+- Всего ссылок: 784
 
 ## Ссылки
 
+- [LLMs are mirrors of operator skill](https://ghuntley.com/mirrors/) 👤 Geoffrey Huntley 💬 1471 🔖 #llm 🗓️ 2025-06-04
+- [Careless People by Sarah Wynn-Williams - Book Review](https://wsvincent.com/careless-people-book-review/) 👤 Will Vincent 💬 1011 🗓️ 2025-06-04
+- [Implementing Edge-Side Rendering (ESR) in Nuxt 3+ for Enhanced Performance](https://mokkapps.de/blog/implementing-esr-nuxt) 👤 Michael Hoffmann 💬 1473 🔖 #nuxt 🗓️ 2025-06-04
 - [New Programming Jargon](https://blog.codinghorror.com/new-programming-jargon/) 👤 Jeff Atwood 💬 2082 🗓️ 2025-06-03
 - [The Front-End Monitoring Handbook: Track Performance, Errors, and User Behavior](https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/) 👤 freeCodeCamp.org 💬 5785 🗓️ 2025-06-03
 - [kdevtmpfsi using the entire CPU](https://stackoverflow.com/questions/60151640/kdevtmpfsi-using-the-entire-cpu?roistat_visit=2575899) 👤 stackoverflow.com 💬 297 🔖 #security 🗓️ 2025-06-03
@@ -47,7 +50,7 @@
 - [Stop overbuilding evals](https://softwaredoug.com/blog/2025/04/26/stop-overbuilding-evals) 👤 Doug Turnbull 💬 788 🗓️ 2025-04-27
 - [The Anarchy: The Relentless Rise of the East India Company](https://seangoedecke.com/the-anarchy/) 👤 seangoedecke.com 💬 1963 🗓️ 2025-04-27
 - [Using Go's select Statement](mailto:reader-forwarded-email/f80d0306e4e3b5b38d5eafcb49124e4a) 👤 Jon Calhoun 💬 466 🗓️ 2025-04-23
-- [Личный ИИ-ассистент на ваших данных. Часть 2: Веб-интерфейс, авторизация и стриминг ответов от ИИ](https://habr.com/ru/companies/amvera/articles/902868) 👤 Habr 💬 4926 🔖 #llm, #try 🗓️ 2025-04-22
+- [Личный ИИ-ассистент на ваших данных. Часть 2: Веб-интерфейс, авторизация и стриминг ответов от ИИ](https://habr.com/ru/companies/amvera/articles/902868) 👤 yakvenalex 💬 4941 🔖 #llm, #try 🗓️ 2025-04-22
 - [So, I Wrote a Book](https://www.thecoder.cafe/p/100-go-mistakes) 👤 Teiva Harsanyi 💬 6233 🔖 #go 🗓️ 2025-04-22
 - [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/) 👤 mcyoung.xyz 💬 5845 🔖 #go 🗓️ 2025-04-22
 - [Write, Build, Love, Repeat • The Applied Go Weekly Newsleetter 2025-04-20](https://newsletter.appliedgo.net/archive/2025-04-20-write-build-love-repeat/) 👤 The Applied Go Weekly Newsletter 💬 1500 🔖 #go 🗓️ 2025-04-20
@@ -57,7 +60,7 @@
 - [Signals and Go's Context Type](mailto:reader-forwarded-email/8a53651a467aab634454cd535a35fa34) 👤 Jon Calhoun 💬 1009 🔖 #go 🗓️ 2025-04-15
 - [Super Mario Bros. Wonder: Pipe Dreams Do Come True](https://jefklakscodex.com/games/switch/super-mario-bros-wonder/) 👤 Brain Baking 💬 1167 🔖 #game 🗓️ 2025-04-14
 - [Inscryption: Card Game Inception](https://jefklakscodex.com/games/switch/inscryption/) 👤 Brain Baking 💬 959 🔖 #game 🗓️ 2025-04-14
-- [Проксирование из коробки: сравнительный анализ HAProxy, Envoy, Nginx, Caddy и Traefik](https://habr.com/ru/articles/900438/) 👤 Habr 💬 3008 🗓️ 2025-04-14
+- [Проксирование из коробки: сравнительный анализ HAProxy, Envoy, Nginx, Caddy и Traefik](https://habr.com/ru/articles/900438/) 👤 stas_dubich 💬 3009 🗓️ 2025-04-14
 - [Don't Run In Circles • The Applied Go Weekly Newsletter 2025-04-13](https://newsletter.appliedgo.net/archive/2025-04-13-dont-run-in-circles/) 👤 The Applied Go Weekly Newsletter 💬 2123 🔖 #go 🗓️ 2025-04-13
 - [A Year of Rust in ClickHouse](https://clickhouse.com/blog/rust) 👤 ClickHouse 💬 2800 🔖 #rust 🗓️ 2025-04-13
 - [An Animated Introduction to Clojure – Learn Clojure Programming Basics](https://www.freecodecamp.org/news/learn-clojure-programming-basics/) 👤 freeCodeCamp.org 💬 2456 🔖 #clojure 🗓️ 2025-04-10
@@ -131,7 +134,6 @@
 - [🔥 (#205) Flatten Nuxt Content Routes, Mock Any Import, and more](mailto:reader-forwarded-email/2484f0a7fdf5aa504203887bab2d5cb3) 👤 Michael Thiessen 💬 1234 🔖 #nuxt 🗓️ 2025-02-19
 - [Zig & Go Interoperation](https://findev.datainquiry.dev/zig-and-go-interoperation) 👤 Jaime Lopez 💬 607 🔖 #go 🗓️ 2025-02-18
 - [You Cannot Simply Kill A Goroutine • The Applied Go Weekly Newsletter 2025-02-16](https://newsletter.appliedgo.net/archive/you-cannot-simply-kill-a-goroutine/) 👤 The Applied Go Weekly Newsletter 💬 1790 🔖 #go 🗓️ 2025-02-17
-- [Run LLMs on macOS using llm-mlx and Apple’s MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/#atom-everything) 👤 Simon Willison 💬 1292 🔖 #llm 🗓️ 2025-02-16
 - [How Protobuf Works—The Art of Data Encoding](https://victoriametrics.com/blog/go-protobuf/) 👤 Phuong Le 💬 2618 🔖 #go 🗓️ 2025-02-14
 - [How to add a directory to your PATH](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/) 👤 Julia Evans 💬 1597 🗓️ 2025-02-14
 - [Extensible Wasm Applications with Go](https://go.dev/blog/wasmexport) 👤 go.dev 💬 908 🔖 #go 🗓️ 2025-02-14

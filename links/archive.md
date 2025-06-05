@@ -1,9 +1,12 @@
 # Архивные ссылки
 
-- Всего ссылок: 713
+- Всего ссылок: 717
 
 ## Ссылки
 
+- [AI Changes Everything](http://lucumr.pocoo.org/2025/6/4/changes) 👤 Armin Ronacher's Thoughts and Writings 💬 1097 🔖 #llm, #inspiration 🗓️ 2025-06-04
+- [Run Your Own AI](https://anthonylewis.com/2025/06/01/run-your-own-ai/) 👤 anthonylewis.com 💬 567 🔖 #llm 🗓️ 2025-06-04
+- [John Henry and the large language model](https://seangoedecke.com/john-henry-and-the-llm/) 👤 seangoedecke.com 💬 586 🔖 #llm 🗓️ 2025-06-04
 - [5 мелочей в переписке, за которые вас хочется неистово обнять](https://kinzhal.media/5-small-things/) 👤 Кинжал 💬 404 🔖 #soft skills, #communication 🗓️ 2025-06-03
 - [Продаёте себя на собеседовании? Не надо](https://kinzhal.media/ne-prodal/) 👤 Кинжал 💬 488 🔖 #career 🗓️ 2025-06-03
 - [Как грамотно написать сопроводительное письмо при отклике на вакансию](https://kinzhal.media/soprovodeal/) 👤 Кинжал 💬 1015 🔖 #career 🗓️ 2025-06-03
@@ -80,7 +83,7 @@
 - [How I create static websites for tiny archives](https://alexwlchan.net/2025/mildly-dynamic-websites/) 👤 alexwlchan.net 💬 5181 🔖 #inspiration 🗓️ 2025-05-14
 - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/) 👤 alexwlchan.net 💬 1629 🔖 #inspiration 🗓️ 2025-05-14
 - [Creating a static website for all my bookmarks](https://alexwlchan.net/2025/bookmarks-static-site/?utm_source=mastodon) 👤 alexwlchan.net 💬 1554 🔖 #inspiration 🗓️ 2025-05-13
-- [Domain-Driven Design: зачем он нужен аналитику и как его применять на практике](https://habr.com/ru/articles/908782/) 👤 Habr 💬 1798 🔖 #ddd 🗓️ 2025-05-13
+- [Domain-Driven Design: зачем он нужен аналитику и как его применять на практике](https://habr.com/ru/articles/908782/) 👤 innokentyBo 💬 1807 🔖 #ddd 🗓️ 2025-05-13
 - [How to make a Link Aggregator in Obsidian](https://daverupert.com/2025/05/obsidian-link-aggregator/) 👤 Dave Rupert 💬 913 🔖 #inspiration 🗓️ 2025-05-13
 - [Why can't language models come up with new ideas?](https://seangoedecke.com/why-cant-ais-have-new-ideas/) 👤 seangoedecke.com 💬 1192 🔖 #llm 🗓️ 2025-05-12
 - [The importance of character in software engineering](https://seangoedecke.com/character-in-software-engineering/) 👤 seangoedecke.com 💬 1052 🔖 #career, #development, #soft skills, #communication 🗓️ 2025-05-10
@@ -92,7 +95,7 @@
 - [How projects fail at large tech companies](https://seangoedecke.com/how-projects-fail/) 👤 seangoedecke.com 💬 1643 🗓️ 2025-05-10
 - [I don't care about your magic prompts](https://seangoedecke.com/magic-prompts/) 👤 seangoedecke.com 💬 761 🔖 #llm 🗓️ 2025-05-07
 - [Getting things "done" in large tech companies](https://seangoedecke.com/getting-things-done/) 👤 seangoedecke.com 💬 693 🔖 #career, #development 🗓️ 2025-05-07
-- [Ты решаешь LeetCode неправильно. Как пройти любое собеседование в BigTech?](https://habr.com/ru/articles/906642/) 👤 Habr 💬 1401 🔖 #go, #career, #learning, #interview 🗓️ 2025-05-04
+- [Ты решаешь LeetCode неправильно. Как пройти любое собеседование в BigTech?](https://habr.com/ru/articles/906642/) 👤 BincomAD 💬 1405 🔖 #go, #career, #learning, #interview 🗓️ 2025-05-04
 - [Страх и ненависть в офисе](https://www.kommersant.ru/doc/7690760?from=glavnoe_3#id2795835) 👤 Ольга Шкуренко 💬 1562 🗓️ 2025-05-03
 - [What's up Python? Python in hardware, lock file support and a new type checker](https://www.bitecode.dev/p/whats-up-python-python-in-hardware) 👤 Bite Code! 💬 724 🗓️ 2025-05-03
 - [The valley of engineering despair](https://seangoedecke.com/the-valley-of-engineering-despair/) 👤 seangoedecke.com 💬 593 🔖 #development 🗓️ 2025-04-30
@@ -259,6 +262,7 @@
 - [Обзор Kingdom Come Deliverance 2 - шедевральная RPG с душой I Битый Пиксель](https://www.youtube.com/watch?v=yWLar2JrHfY) 👤 Битый Пиксель 🗓️ 2025-02-17
 - [An "oh fuck" moment in time](https://ghuntley.com/oh-fuck/) 👤 Geoffrey Huntley 💬 321 🔖 #llm 🗓️ 2025-02-16
 - [The future belongs to idea guys who can just do things](https://ghuntley.com/dothings/) 👤 Geoffrey Huntley 💬 1239 🔖 #llm 🗓️ 2025-02-16
+- [Run LLMs on macOS using llm-mlx and Apple’s MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/#atom-everything) 👤 Simon Willison 💬 1292 🔖 #llm 🗓️ 2025-06-04
 - [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should?r=28tjlb&amp%3Butm_campaign=post&amp%3Butm_medium=web&triedRedirect=true) 👤 Bite Code! 💬 4384 🔖 #uv 🗓️ 2025-02-15
 - [To avoid being replaced by LLMs, do what they can't](https://seangoedecke.com/what-llms-cant-do/) 👤 seangoedecke.com 💬 919 🔖 #llm, #outline 🗓️ 2025-02-15
     > **Заметка:** LLM vs Dev

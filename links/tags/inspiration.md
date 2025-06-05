@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 69
+- Всего ссылок: 70
 
 ## Ссылки
 
+- [AI Changes Everything](http://lucumr.pocoo.org/2025/6/4/changes) 👤 Armin Ronacher's Thoughts and Writings 💬 1097 🔖 #llm, #inspiration 🗓️ 2025-06-04
+    > **Резюме:** Armin Ronacher shares how AI has transformed his work, allowing him to delegate tasks and gain more free time. He believes we are at the beginning of a significant shift in how we live and work, comparable to past technological revolutions. Despite some skepticism in the tech community, he encourages a positive outlook on AI's potential to enhance creativity and innovation.
 - [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/) 👤 Thomas Ptacek 💬 2733 🔖 #llm, #inspiration 🗓️ 2025-06-03
     > **Резюме:** The author argues that LLMs (large language models) can significantly assist software developers by handling tedious coding tasks, allowing them to focus on more important work. Despite skepticism about LLM-generated code quality, the author believes that these tools can enhance productivity and reduce the need for repetitive tasks. Ultimately, while LLMs may not replace all developers, they can streamline the coding process and improve efficiency.
 - [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/) 👤 Simon Willison 💬 2852 🔖 #git, #github, #inspiration 🗓️ 2025-05-29

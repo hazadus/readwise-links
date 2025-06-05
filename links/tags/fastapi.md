@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [FastAPI + Keycloak: Простая и безопасная авторизация в веб-приложении на примере реального проекта](https://habr.com/ru/companies/amvera/articles/907990/) 👤 Habr 💬 6602 🔖 #fastapi 🗓️ 2025-05-12
+- [FastAPI + Keycloak: Простая и безопасная авторизация в веб-приложении на примере реального проекта](https://habr.com/ru/companies/amvera/articles/907990/) 👤 yakvenalex 💬 6616 🔖 #fastapi 🗓️ 2025-05-12
     > **Резюме:** This article explains how to implement a secure authorization system in a web application using Keycloak and FastAPI. Keycloak simplifies user management and offers a reliable login mechanism. The guide covers installation, integration, and deploying the project in the cloud.
 - [Building a Real-time Dashboard with FastAPI and Svelte](https://testdriven.io/blog/fastapi-svelte/) 👤 Amir Tadrisi 💬 2608 🔖 #sse, #fastapi 🗓️ 2025-03-27
     > **Резюме:** Learn how to build a real-time analytics dashboard using FastAPI and Svelte with server-sent events.
