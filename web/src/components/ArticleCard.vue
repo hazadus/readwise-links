@@ -11,6 +11,16 @@ defineProps({
   },
 });
 
+// Определяем событие для клика по тегу
+const emit = defineEmits<{
+  tagClick: [tagName: string];
+}>();
+
+// Обработчик клика по тегу
+const handleTagClick = (tagName: string) => {
+  emit("tagClick", tagName);
+};
+
 const formatDate = (date: string) => {
   const d = new Date(date);
   return d.toLocaleDateString("ru-RU", {
@@ -82,6 +92,8 @@ const formatDate = (date: string) => {
           v-for="tag in article.tags"
           :name="tag?.name || 'Неизвестно'"
           :key="`tag-id-${tag?.name}-${tag?.created}`"
+          class="cursor-pointer hover:bg-blue-200"
+          @click="tag?.name && handleTagClick(tag.name)"
         />
       </div>
 

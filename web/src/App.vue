@@ -1,11 +1,11 @@
 <script setup lang="ts">
-import Header from './components/Header.vue';
+import Header from "./components/Header.vue";
 </script>
 
 <template>
   <div id="app">
     <Header />
-    <main class="p-4">
+    <main class="container mx-auto py-4">
       <router-view />
     </main>
   </div>
