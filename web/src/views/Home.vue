@@ -121,6 +121,13 @@ const availableTags = computed(() =>
     return acc;
   }, []),
 );
+
+// Обработчик клика по тегу в карточке статьи
+const handleTagClick = (tagName: string) => {
+  if (!selectedTags.value.includes(tagName)) {
+    selectedTags.value = [...selectedTags.value, tagName];
+  }
+};
 </script>
 
 <template>
@@ -256,5 +263,6 @@ const availableTags = computed(() =>
     v-for="article in filteredArticles"
     :article="article"
     :key="`article-id-${article.id}`"
+    @tag-click="handleTagClick"
   />
 </template>
