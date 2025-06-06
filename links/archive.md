@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 718
+- Всего ссылок: 720
 
 ## Ссылки
 
+- [Rules](https://docs.cursor.com/context/rules) 👤 Cursor 💬 665 🔖 #cursor 🗓️ 2025-06-05
+- [LLMs are mirrors of operator skill](https://ghuntley.com/mirrors/) 👤 Geoffrey Huntley 💬 1471 🔖 #llm, #interview, #inspiration 🗓️ 2025-06-04
 - [deliberate intentional practice](https://ghuntley.com/play/) 👤 Geoffrey Huntley 💬 839 🔖 #llm, #inspiration 🗓️ 2025-06-04
 - [AI Changes Everything](http://lucumr.pocoo.org/2025/6/4/changes) 👤 Armin Ronacher's Thoughts and Writings 💬 1097 🔖 #llm, #inspiration 🗓️ 2025-06-04
 - [Run Your Own AI](https://anthonylewis.com/2025/06/01/run-your-own-ai/) 👤 anthonylewis.com 💬 567 🔖 #llm 🗓️ 2025-06-04
@@ -112,7 +114,7 @@
 - [Advanced TypeScript manipulation features for the real world](https://piccalil.li/blog/advanced-typescript-manipulation-features-for-the-real-world/?ref=main-rss-feed) 👤 Piccalilli 💬 2139 🔖 #typescript 🗓️ 2025-04-24
     > **Заметка:** Хорошие примеры практического применения продвинутых возможностей системы типов в TS.
 - [The Hidden Cost of AI Coding](https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/) 👤 Terrible Software 💬 778 🔖 #llm 🗓️ 2025-04-24
-- [Agile умер: из-за своего сострадания к product- и project-менеджерам (с) Фридрих Ницше](https://habr.com/ru/companies/kaiten/articles/876582/) 👤 Хабр 💬 1927 🔖 #agile, #management 🗓️ 2025-04-24
+- [Agile умер: из-за своего сострадания к product- и project-менеджерам (с) Фридрих Ницше](https://habr.com/ru/companies/kaiten/articles/876582/) 👤 DavidAsatryan 💬 1927 🔖 #agile, #management 🗓️ 2025-04-24
 - [Working Through the Fear of Being Seen](https://ashley.dev/posts/fear-of-being-seen/) 👤 Ashley Willis 💬 812 🔖 #writing, #inspiration 🗓️ 2025-04-23
 - [A trick to feel less like cheating when you use LLMs](https://simonwillison.net/2025/Apr/23/cheating/#atom-everything) 👤 Simon Willison 💬 232 🔖 #llm 🗓️ 2025-04-23
 - [The next big thing in Python](https://www.bitecode.dev/p/the-next-big-thing-in-python) 👤 Bite Code! 💬 2183 🔖 #python 🗓️ 2025-04-23
@@ -336,7 +338,7 @@
 - [Avoiding worry driven development](https://www.seangoedecke.com/worry-driven-development/) 👤 Sean Goedecke 💬 912 🗓️ 2025-01-28
 - [Being Glue](https://www.noidea.dog/glue) 👤 No Idea Blog 💬 4713 🔖 #leaddev, #management, #development 🗓️ 2025-01-28
 - [I could do that in a weekend!](https://danluu.com/sounds-easy/) 👤 danluu.com 💬 2097 🗓️ 2025-01-28
-- [Как правильно делать тестовые задания на Python (flask, fastapi)](https://habr.com/ru/articles/877180/) 👤 Хабр 💬 1465 🗓️ 2025-01-28
+- [Как правильно делать тестовые задания на Python (flask, fastapi)](https://habr.com/ru/articles/877180/) 👤 alexgreendev 💬 2285 🗓️ 2025-01-28
 - [How to give pushback to leadership](https://leaddev.com/communication/how-give-pushback-leadership) 👤 anastasija 💬 1344 🔖 #leaddev, #outline 🗓️ 2025-01-28
     > **Заметка:** Простые и дельные рекомендации - как говорить "нет" руководству.
 - [Is it cynical to do what your manager wants?](https://www.seangoedecke.com/cynicism) 👤 seangoedecke.com 💬 507 🗓️ 2025-01-28
@@ -362,8 +364,8 @@
 - [Книга "Цель"](https://grishaev.me/goal-book/) 👤 grishaev.me 💬 1234 🗓️ 2025-01-22
 - [The Darkest Dungeon](https://grishaev.me/the-darkest-dungeon/) 👤 grishaev.me 💬 2409 🗓️ 2025-01-22
 - [Как читать книги для самообразования](https://readwise.io/reader/document_raw_content/262840656) 👤 Поварнин С.И. 💬 14256 🔖 #book, #outline, #reading, #learning, #inspiration 🗓️ 2025-01-22
-- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем фронтенд](https://habr.com/ru/companies/amvera/articles/874970/) 👤 Хабр 💬 7979 🔖 #try, #vue, #fastapi, #miniapp, #telegram 🗓️ 2025-01-21
-- [Пишем морской бой на VueJS и Python](https://habr.com/ru/articles/874188/) 👤 Хабр 💬 4960 🔖 #vue, #fastapi, #websocket 🗓️ 2025-01-20
+- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем фронтенд](https://habr.com/ru/companies/amvera/articles/874970/) 👤 yakvenalex 💬 7955 🔖 #try, #vue, #fastapi, #miniapp, #telegram 🗓️ 2025-01-21
+- [Пишем морской бой на VueJS и Python](https://habr.com/ru/articles/874188/) 👤 Green21 💬 5065 🔖 #vue, #fastapi, #websocket 🗓️ 2025-01-20
 - [Error Handling No-Goes In Go](https://brainbaking.com/post/2024/03/error-handling-no-goes-in-go/) 👤 Brain Baking 💬 878 🔖 #go, #rust 🗓️ 2025-01-20
     > **Заметка:** Автор в очередной раз критикует паттерны обработки ошибок в Go, и хвалит оные в Rust.
 - [What can strong engineers do that weak engineers can't?](https://www.seangoedecke.com/weak-engineers) 👤 seangoedecke.com 💬 1634 🔖 #development 🗓️ 2025-01-20
@@ -378,8 +380,8 @@
 - [Django vs. FastAPI, An Honest Comparison](https://www.david-dahan.com/blog/comparing-fastapi-and-django?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_267) 👤 david-dahan.com 💬 2841 🔖 #django, #fastapi 🗓️ 2025-01-13
     > **Заметка:** Хорошее сравнение двух фреймворков. Анализ целесообразности их применения в разных ситуациях.
 - [How to easily track engineering metrics](https://victoronsoftware.com/posts/track-engineering-metrics/) 👤 Victor Lyuboslavsky 💬 943 🔖 #go, #github 🗓️ 2025-01-13
-- [К слову об именах переменных в Go](https://habr.com/ru/articles/872940/) 👤 Хабр 💬 932 🔖 #go 🗓️ 2025-01-13
-- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем бэкенд](https://habr.com/ru/companies/amvera/articles/873108/) 👤 Хабр 💬 8066 🔖 #try, #fastapi, #miniapp, #telegram 🗓️ 2025-01-13
+- [К слову об именах переменных в Go](https://habr.com/ru/articles/872940/) 👤 sl4mmer 💬 932 🔖 #go 🗓️ 2025-01-13
+- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем бэкенд](https://habr.com/ru/companies/amvera/articles/873108/) 👤 yakvenalex 💬 8065 🔖 #try, #fastapi, #miniapp, #telegram 🗓️ 2025-01-13
 - [Why goals fail](https://thesweetsetup.com/why-do-goals-fail/) 👤 Shawn Blanc 💬 673 🗓️ 2025-01-11
 - [Let's Go](https://readwise.io/reader/document_raw_content/258496378) 👤 Alex Edwards 💬 63139 🔖 #go, #book 🗓️ 2025-01-10
 - [Division of Labor](https://third-bit.com/2025/01/08/division-of-labor/) 👤 third-bit.com 💬 846 🔖 #leaddev, #management 🗓️ 2025-01-10
@@ -397,7 +399,7 @@
 - [Meetings](https://third-bit.com/2025/01/04/meetings/) 👤 third-bit.com 💬 983 🔖 #management 🗓️ 2025-01-07
     > **Заметка:** Дельные советы по эффективному проведению собраний.
 - [Garden of Learning](https://notes.hamatti.org/) 👤 hamatti.org 💬 480 🗓️ 2025-01-07
-- [Микросервисы в представлении среднего разработчика, и как всё на самом деле](https://habr.com/ru/articles/825532/) 👤 Хабр 💬 3133 🔖 #outline, #microservices 🗓️ 2025-01-07
+- [Микросервисы в представлении среднего разработчика, и как всё на самом деле](https://habr.com/ru/articles/825532/) 👤 Captain_Jack 💬 3156 🔖 #outline, #microservices 🗓️ 2025-01-07
 - [Time Management](https://third-bit.com/2025/01/03/time-management/) 👤 third-bit.com 💬 572 🔖 #time management 🗓️ 2025-01-06
 - [A Year In Review: Flask in 2024](https://blog.miguelgrinberg.com/post/a-year-in-review-flask-in-2024) 👤 Miguel Grinberg 💬 1556 🔖 #flask 🗓️ 2025-01-06
 - [Crunch Mode](https://third-bit.com/2025/01/02/crunch-mode/) 👤 third-bit.com 💬 991 🔖 #outline 🗓️ 2025-01-06
@@ -422,7 +424,7 @@
 Things I love about Golang](https://hatwd.com/p/things-i-love-about-golang) 👤 Thane Thomson 💬 284 🔖 #go 🗓️ 2024-12-17
     > **Заметка:** Согласен с положительными чертами.
 - [Time is skipping • The Applied Go Weekly Newsletter 2024-12-15](https://newsletter.appliedgo.net/archive/time-is-skipping/) 👤 The Applied Go Weekly Newsletter 💬 1989 🗓️ 2024-12-17
-- [FastAPI + Redis + Celery: Создание системы временного хранения файлов с автоудалением и удобным веб-интерфейсом](https://habr.com/ru/companies/amvera/articles/866200/) 👤 Хабр 💬 9450 🔖 #try, #celery, #python, #fastapi 🗓️ 2024-12-16
+- [FastAPI + Redis + Celery: Создание системы временного хранения файлов с автоудалением и удобным веб-интерфейсом](https://habr.com/ru/companies/amvera/articles/866200/) 👤 yakvenalex 💬 9460 🔖 #try, #celery, #python, #fastapi 🗓️ 2024-12-16
 - [Conventions in Go (a refresher)](https://appliedgo.net/spotlight/conventions-in-go/) 👤 Applied Go 💬 675 🔖 #go 🗓️ 2024-12-12
 - [RTFM • The Applied Go Weekly Newsletter 2024-12-08](https://newsletter.appliedgo.net/archive/rtfm/?utm_source=appliedgo-mastodon) 👤 The Applied Go Weekly Newsletter 💬 2290 🔖 #go 🗓️ 2024-12-11
 - [Enhancing Go performance: Profiling applications with flamegraphs](https://blog.alexoglou.com/posts/profiling-golang/) 👤 Costa Alexoglou 💬 823 🔖 #go, #try 🗓️ 2024-12-11
@@ -444,7 +446,7 @@ Things I love about Golang](https://hatwd.com/p/things-i-love-about-golang) 👤
 - [(3) Асинхронный SQLAlchemy 2: улучшение кода, методы обновления и удаления данных](https://habr.com/ru/companies/amvera/articles/855740/) 👤 Хабр 💬 3902 🔖 #sqlalchemy 🗓️ 2024-12-04
 - [(2) Асинхронный SQLAlchemy 2: пошаговый гайд по управлению сессиями, добавлению и извлечению данных с Pydantic](https://habr.com/ru/companies/amvera/articles/850470/) 👤 Хабр 💬 7296 🔖 #pydantic, #sqlalchemy 🗓️ 2024-12-04
 - [(1) Асинхронный SQLAlchemy 2: простой пошаговый гайд по настройке, моделям, связям и миграциям с использованием Alembic](https://habr.com/ru/companies/amvera/articles/849836/) 👤 Хабр 💬 6639 🔖 #alembic, #sqlalchemy 🗓️ 2024-12-04
-- [Создание блога на FastAPI с нуля: JWT, Markdown и современный веб-дизайн](https://habr.com/ru/companies/amvera/articles/863130/) 👤 Хабр 💬 7963 🔖 #fastapi, #sqlalchemy 🗓️ 2024-12-04
+- [Создание блога на FastAPI с нуля: JWT, Markdown и современный веб-дизайн](https://habr.com/ru/companies/amvera/articles/863130/) 👤 yakvenalex 💬 7989 🔖 #fastapi, #sqlalchemy 🗓️ 2024-12-04
     > **Заметка:** Есть интересные моменты по созданию many-to-many связей.
 - [How to Perform Code Reviews in Tech – The Painless Way](https://www.freecodecamp.org/news/how-to-perform-code-reviews-in-tech-the-painless-way/) 👤 freeCodeCamp.org 💬 2311 🗓️ 2024-12-04
 - [Tech on the Toilet: Driving Software Excellence, One Bathroom Break at a Time](http://testing.googleblog.com/2024/12/tech-on-toilet-driving-software.html) 👤 Google Testing Blog 💬 12 🗓️ 2024-12-04

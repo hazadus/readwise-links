@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [AI Killed The Tech Interview. Now What?](https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/?ref=ghuntley.com) 👤 Kane Narraway 💬 1241 🔖 #llm, #interview 🗓️ 2025-06-05
+    > **Резюме:** The tech interview process is disliked by everyone involved, and AI advancements are changing how candidates are evaluated. Traditional coding interviews may become less effective as AI tools can easily answer many technical questions. Companies need to adapt their interview methods to assess candidates' ability to work with AI, rather than just their coding skills.
+- [LLMs are mirrors of operator skill](https://ghuntley.com/mirrors/) 👤 Geoffrey Huntley 💬 1471 🔖 #llm, #interview, #inspiration 🗓️ 2025-06-04
+    > **Резюме:** The rise of AI has changed how we evaluate software engineering skills, making it crucial to identify truly skilled operators. Traditional interviewing methods are flawed, as candidates can easily cheat using AI tools. Companies should adapt their interview processes to observe how candidates interact with AI, rather than banning its use outright.
 - [Вопросы с собеседований на Python Developer](https://easyoffer.ru/rating/python_developer) 👤 easyoffer.ru 💬 17 🔖 #python, #interview 🗓️ 2025-05-14
 - [Открытое собеседование на Junior Go разработчика](https://m.youtube.com/watch?v=MmIdk_0HhVI) 👤 Эйч Навыки — менторская программа 🔖 #go, #career, #interview 🗓️ 2025-05-14
     > **Резюме:** Эйч Навыки проводит открытое собеседование для Junior Go разработчиков. Участники смогут поработать с ментором и прокачать свои навыки через МОК интервью. Чтобы участвовать, нужно заполнить форму и записаться на собеседование с хорошей скидкой.

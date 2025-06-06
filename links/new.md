@@ -1,10 +1,17 @@
 # Новые ссылки
 
-- Всего ссылок: 784
+- Всего ссылок: 792
 
 ## Ссылки
 
-- [LLMs are mirrors of operator skill](https://ghuntley.com/mirrors/) 👤 Geoffrey Huntley 💬 1471 🔖 #llm 🗓️ 2025-06-04
+- [Become an AI-augmented engineer](https://maryrosecook.com/blog/post/become-an-ai-augmented-engineer) 👤 maryrosecook.com 💬 665 🔖 #llm 🗓️ 2025-06-05
+- [Amp is now available. Here's how I use it.](https://ampcode.com/how-i-use-amp) 👤 ampcode.com 💬 2685 🔖 #llm, #inspiration 🗓️ 2025-06-05
+- [Processing large JSON files in Python without running out of memory](https://pythonspeed.com/articles/json-memory-streaming/) 👤 Itamar Turner-Trauring 💬 1177 🔖 #json, #python 🗓️ 2025-06-05
+- [Diving deeper into Go interfaces](mailto:reader-forwarded-email/bab01159971b964066ed80018454278a) 👤 Jon Calhoun 💬 1721 🔖 #go 🗓️ 2025-06-05
+- [LazyVim for Ambitious Developers](https://lazyvim-ambitious-devs.phillips.codes/course/chapter-1/) 👤 lazyvim-ambitious-devs.phillips.codes 💬 3330 🔖 #vim, #book 🗓️ 2025-06-05
+- [Parsing XML Comments with Python](mailto:reader-forwarded-email/ee5fc09dca9b9b4f91b3b2c885c1fccb) 👤 Mike Driscoll from The Python Papers 💬 350 🔖 #xml, #python 🗓️ 2025-06-05
+- [autoregressive queens of failure](https://ghuntley.com/gutter/) 👤 Geoffrey Huntley 💬 552 🔖 #llm 🗓️ 2025-06-05
+- [AI Killed The Tech Interview. Now What?](https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/?ref=ghuntley.com) 👤 Kane Narraway 💬 1241 🔖 #llm, #interview 🗓️ 2025-06-05
 - [Careless People by Sarah Wynn-Williams - Book Review](https://wsvincent.com/careless-people-book-review/) 👤 Will Vincent 💬 1011 🗓️ 2025-06-04
 - [Implementing Edge-Side Rendering (ESR) in Nuxt 3+ for Enhanced Performance](https://mokkapps.de/blog/implementing-esr-nuxt) 👤 Michael Hoffmann 💬 1473 🔖 #nuxt 🗓️ 2025-06-04
 - [New Programming Jargon](https://blog.codinghorror.com/new-programming-jargon/) 👤 Jeff Atwood 💬 2082 🗓️ 2025-06-03
@@ -56,6 +63,7 @@
 - [Write, Build, Love, Repeat • The Applied Go Weekly Newsleetter 2025-04-20](https://newsletter.appliedgo.net/archive/2025-04-20-write-build-love-repeat/) 👤 The Applied Go Weekly Newsletter 💬 1500 🔖 #go 🗓️ 2025-04-20
 - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices) 👤 anthropic.com 💬 4193 🗓️ 2025-04-20
 - [gRPC API Gateway: Bridging the Gap Between REST and gRPC](https://zuplo.com/blog/2025/04/09/grpc-api-gateway) 👤 Peyman Motrtazavi 💬 2001 🔖 #grpc 🗓️ 2025-04-18
+- [How to Build an Agent](https://ampcode.com/how-to-build-an-agent) 👤 ampcode.com 💬 5486 🔖 #go, #llm, #agents 🗓️ 2025-06-05
 - [Все места охоты на монстров в Final Fantasy XVI](https://www.goha.ru/vse-mesta-ohoty-na-monstrov-v-final-fantasy-xvi-40mBD0) 👤 Zan 💬 281 🔖 #game 🗓️ 2025-04-15
 - [Signals and Go's Context Type](mailto:reader-forwarded-email/8a53651a467aab634454cd535a35fa34) 👤 Jon Calhoun 💬 1009 🔖 #go 🗓️ 2025-04-15
 - [Super Mario Bros. Wonder: Pipe Dreams Do Come True](https://jefklakscodex.com/games/switch/super-mario-bros-wonder/) 👤 Brain Baking 💬 1167 🔖 #game 🗓️ 2025-04-14
@@ -155,7 +163,7 @@
 - [Reading postmortems](https://danluu.com/postmortem-lessons/) 👤 danluu.com 💬 2388 🗓️ 2025-01-30
 - [Literature review on the benefits of static types](https://danluu.com/empirical-pl/) 👤 danluu.com 💬 8807 🗓️ 2025-01-30
 - [FastAPI + SQLAlchemy: Шаблон приложения с JWT-аутентификацией](https://www.youtube.com/watch?v=ZSqhCyotcnw) 👤 Легкий путь в Python 🔖 #fastapi 🗓️ 2025-01-30
-- [P2P на Go: библиотека libp2p](https://habr.com/ru/companies/otus/articles/876996/) 👤 Хабр 💬 1159 🔖 #go 🗓️ 2025-01-30
+- [P2P на Go: библиотека libp2p](https://habr.com/ru/companies/otus/articles/876996/) 👤 badcasedaily1 💬 1159 🔖 #go 🗓️ 2025-01-30
 - [Go 1.24's go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/) 👤 Jamie Tanna | Software Engineer 💬 1560 🔖 #go 🗓️ 2025-01-30
 - [Dynamic Forms with Flask](https://blog.miguelgrinberg.com/post/dynamic-forms-with-flask) 👤 Miguel Grinberg 💬 2923 🔖 #flask 🗓️ 2025-01-30
 - [Nuxt Tip: Managing Page Load States With useLoadingIndicator](https://mokkapps.de/vue-tips/managing-page-load-states-in-nuxt-with-use-loading-indicator) 👤 Michael Hoffmann 💬 279 🔖 #nuxt 🗓️ 2025-01-30
@@ -186,7 +194,7 @@ https://fosstodon.org/@adamchainz/113863413612434249
 - [How to Make Flowcharts with Mermaid and Bring Joy to your Coding](https://www.freecodecamp.org/news/how-to-make-flowcharts-with-mermaid/) 👤 freeCodeCamp.org 💬 6506 🗓️ 2025-01-20
 - [Build a Database in 3000 Lines with 0 Dependencies](https://build-your-own.org/blog/20251015_db_in_3000/) 👤 James Smith 💬 1185 🔖 #diy 🗓️ 2025-01-18
 - [Как Duolingo перезапустил рост](https://gopractice.ru/stories/duolingo-growth-story/?ysclid=m60t38ft4z493684561) 👤 Редакция GoPractice 💬 3357 🗓️ 2025-01-17
-- [Как поймать и обезвредить проблемные запросы в PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/872574/) 👤 Хабр 💬 1938 🔖 #postgresql 🗓️ 2025-01-16
+- [Как поймать и обезвредить проблемные запросы в PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/872574/) 👤 sokolcati 💬 1968 🔖 #postgresql 🗓️ 2025-01-16
 - [Go 1.24: Interactive tour](https://antonz.org/go-1-24/) 👤 Anton Zhiyanov 💬 5387 🔖 #go 🗓️ 2025-02-13
 - [Write Your Own json.Unmarshal](https://stuff.narf.zone/posts/unmarshal/?utm_source=christophberger&utm_medium=email&utm_campaign=big-things-will-happen) 👤 narf.zone 💬 4211 🔖 #go 🗓️ 2025-01-15
 - [Leveraging Go generics for input validation](https://ffss.dev/articles/generic-validation) 👤 ffss.dev 💬 1194 🔖 #go 🗓️ 2025-01-15
@@ -210,11 +218,11 @@ https://fosstodon.org/@adamchainz/113863413612434249
 - [Гид по Computer Science](https://readwise.io/reader/document_raw_content/257815230) 👤 Вильям Спрингер 💬 43672 🔖 #book 🗓️ 2025-01-08
 - [Keep Going: Chapter 1](private://read/01jh0f4vvm28xm7zzfvca7pz9d) 👤 Austin Kleon 💬 3273 🗓️ 2025-01-07
 - [Nuxt Tip: Parallel Fetch Requests](https://mokkapps.de/vue-tips/nuxt-parallel-fetch-requests) 👤 Michael Hoffmann 💬 302 🔖 #nuxt 🗓️ 2025-01-07
-- [Dev контейнеры и с чем их едят](https://habr.com/ru/articles/814071/) 👤 Хабр 💬 1787 🗓️ 2025-01-07
+- [Dev контейнеры и с чем их едят](https://habr.com/ru/articles/814071/) 👤 TourmalineCore 💬 1830 🗓️ 2025-01-07
 - [Server-Sent Events vs WebSockets – How to Choose a Real-Time Data Exchange Protocol](https://www.freecodecamp.org/news/server-sent-events-vs-websockets/) 👤 freeCodeCamp.org 💬 5470 🔖 #sse, #websocket 🗓️ 2025-01-06
 - [Jan 3 The magic function](https://bitfieldconsulting.com/posts/magic-function) 👤 John Arundel 💬 1307 🔖 #rust 🗓️ 2025-01-05
-- [Как сделать оплату в Telegram боте-магазине на вебхуках](https://habr.com/ru/companies/amvera/articles/870414/) 👤 Хабр 💬 6393 🔖 #python 🗓️ 2025-01-05
-- [Оптимизация запросов в DjangoORM: когда и как использовать Raw SQL](https://habr.com/ru/articles/871638/) 👤 Хабр 💬 1559 🔖 #django 🗓️ 2025-01-04
+- [Как сделать оплату в Telegram боте-магазине на вебхуках](https://habr.com/ru/companies/amvera/articles/870414/) 👤 yakvenalex 💬 6350 🔖 #python 🗓️ 2025-01-05
+- [Оптимизация запросов в DjangoORM: когда и как использовать Raw SQL](https://habr.com/ru/articles/871638/) 👤 SweetKitt 💬 1571 🔖 #django 🗓️ 2025-01-04
 - [Git: undo a pull](https://adamj.eu/tech/2024/12/31/git-undo-pull-reflog/) 👤 adamj.eu 💬 351 🔖 #git 🗓️ 2025-01-01
 - [Путешествие в golang regexp](https://tproger.ru/articles/puteshestvie-v-golang-regexp) 👤 Маргарита Гавриленко 💬 1459 🔖 #go 🗓️ 2024-12-30
 - [What's up Python: MOAR uv, flask-like Django, debugging live processes...
@@ -224,15 +232,15 @@ What's up Python: MOAR uv, flask-like Django, debugging live processes...](https
 - [GopherCon AU 2024](https://dave.cheney.net/talks/gopherconau-2024.pdf) 👤 dave.cheney.net 💬 1395 🔖 #go 🗓️ 2024-12-27
 - [Technology Radar](https://www.thoughtworks.com/radar) 👤 Thoughtworks 💬 623 🗓️ 2024-12-27
 - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive) 👤 minds.md 💬 4183 🗓️ 2024-12-27
-- [Антипаттерны Go: чего нельзя делать и почему](https://habr.com/ru/companies/beget/articles/870138/) 👤 Хабр 💬 1994 🔖 #go, #outline 🗓️ 2024-12-27
+- [Антипаттерны Go: чего нельзя делать и почему](https://habr.com/ru/companies/beget/articles/870138/) 👤 morett1m 💬 1995 🔖 #go, #outline 🗓️ 2024-12-27
 - [How to stop macOS Sequoia from resizing windows to fill your screen](https://www.macworld.com/article/2548439/how-to-stop-macos-sequoia-from-resizing-windows-to-fill-your-screen.html) 👤 Glenn Fleishman 💬 452 🗓️ 2024-12-27
 - [Open WebUI](https://simonwillison.net/2024/Dec/27/open-webui/#atom-everything) 👤 Simon Willison 💬 284 🔖 #llm 🗓️ 2024-12-27
 - [My little games workshop](https://daverupert.com/2024/12/my-little-games-workshop/) 👤 Dave Rupert 💬 1920 🗓️ 2024-12-27
-- [Вы кто такие, я вас не знаю, или Как мы делаем JWT-аутентификацию](https://habr.com/ru/companies/doubletapp/articles/764424/) 👤 Хабр 💬 2349 🗓️ 2024-12-26
+- [Вы кто такие, я вас не знаю, или Как мы делаем JWT-аутентификацию](https://habr.com/ru/companies/doubletapp/articles/764424/) 👤 BeFunny 💬 2361 🗓️ 2024-12-26
 - [Advent of Code 2024 with Elixir - Part 1: The Good-ish, the Ugly and the Bad](https://simoncrowe.hashnode.dev/advent-of-code-2024-with-elixir-part-1-the-good-ish-the-ugly-and-the-bad) 👤 Simon Crowe 💬 1203 🔖 #elixir 🗓️ 2024-12-26
 - [Как использовать TDD, жить с vim в Java и Go и почему тебе нужна сплит-клавиатура](https://www.youtube.com/watch?v=8NdaPHWSRk4) 👤 Диджитализируй! 🗓️ 2024-12-26
 - [Redis Queue and Cron in Go](https://fajar.labkita.my.id/posts/redis-queue-and-cron-in-go) 👤 labkita.my.id 💬 731 🔖 #go, #redis 🗓️ 2025-03-31
-- [Telegram-бот-магазин на Python: пошаговый гайд с оплатой, каталогом и админкой (Aiogram 3 + SQLAlchemy 2)](https://habr.com/ru/companies/amvera/articles/869136/) 👤 Хабр 💬 9644 🔖 #aiogram, #sqlalchemy 🗓️ 2024-12-25
+- [Telegram-бот-магазин на Python: пошаговый гайд с оплатой, каталогом и админкой (Aiogram 3 + SQLAlchemy 2)](https://habr.com/ru/companies/amvera/articles/869136/) 👤 yakvenalex 💬 9632 🔖 #aiogram, #sqlalchemy 🗓️ 2024-12-25
 - [An imperative programmer tries to learn Haskell
 An imperative programmer tries to learn Haskell](https://hatwd.com/p/an-imperative-programmer-tries-to) 👤 Thane Thomson 💬 1722 🔖 #haskell 🗓️ 2024-12-25
 - [How to live on 24 hours a day – by Arnold Bennett](https://olivernguyen.io/w/live.24h/) 👤 olivernguyen.io 💬 1197 🗓️ 2024-12-24

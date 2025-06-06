@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 195
+- Всего ссылок: 197
 
 ## Ссылки
 
+- [Diving deeper into Go interfaces](mailto:reader-forwarded-email/bab01159971b964066ed80018454278a) 👤 Jon Calhoun 💬 1721 🔖 #go 🗓️ 2025-06-05
+    > **Резюме:** This week, the author discusses tips for effectively using interfaces in Go, emphasizing the importance of keeping them simple and naming them based on their functionality. He also explains how to combine interfaces to add more features and the flexibility offered by Go's structural typing, which allows for easier code implementation. Overall, the article encourages careful consideration of when to use interfaces to enhance code clarity and maintainability.
 - [Stop Splitting Atoms • The Applied Go Weekly Newsletter 2025-06-01](https://newsletter.appliedgo.net/archive/2025-06-01-stop-splitting-atoms/) 👤 The Applied Go Weekly Newsletter 💬 1635 🔖 #go 🗓️ 2025-06-02
     > **Резюме:** This week's newsletter discusses the sync/atomic package in Go and why it's sometimes necessary despite warnings to use more ergonomic alternatives. It highlights the advantages of atomic types, which help prevent data race conditions by restricting how counters can be incremented. Additionally, the newsletter features articles on flaky tests, dependency injection, and event-driven architectures.
 - [Go, Browser—You Have To Talk! • The Applied Go Weekly Newsletter 2025-05-25](https://newsletter.appliedgo.net/archive/2025-05-25-go-browser-you-have-to-talk/) 👤 The Applied Go Weekly Newsletter 💬 1879 🔖 #go 🗓️ 2025-05-26
@@ -34,6 +36,8 @@
     > **Резюме:** Go is a simple and fast programming language that makes coding easier with features like built-in garbage collection and strong concurrency support. Its robust standard library and effective toolchain enhance productivity by simplifying development tasks. With a focus on backward compatibility and security, Go is a great choice for both new and experienced developers.
 - [Write, Build, Love, Repeat • The Applied Go Weekly Newsleetter 2025-04-20](https://newsletter.appliedgo.net/archive/2025-04-20-write-build-love-repeat/) 👤 The Applied Go Weekly Newsletter 💬 1500 🔖 #go 🗓️ 2025-04-20
     > **Резюме:** This week's Applied Go Newsletter explores the author's journey with programming languages, highlighting their love for Go due to its unique qualities. It features articles on Go's contexts, concurrency, and performance, along with resources to enhance coding skills. The newsletter also includes podcasts and projects that showcase the versatility and power of Go.
+- [How to Build an Agent](https://ampcode.com/how-to-build-an-agent) 👤 ampcode.com 💬 5486 🔖 #go, #llm, #agents 🗓️ 2025-06-05
+    > **Резюме:** This text explains how to create a simple command-line chatbot that interacts with an AI named Claude using Go code. The chatbot can read files and list directory contents, responding to user prompts. Additionally, it can be expanded to include more tools, such as the ability to edit files.
 - [Signals and Go's Context Type](mailto:reader-forwarded-email/8a53651a467aab634454cd535a35fa34) 👤 Jon Calhoun 💬 1009 🔖 #go 🗓️ 2025-04-15
     > **Резюме:** Jon Calhoun is offering a 40% discount on his Go courses starting tomorrow. This email discusses the NotifyContext function in Go, which simplifies handling signals using the context object. It emphasizes the importance of calling the stop function after receiving a signal to ensure proper program termination.
 - [Don't Run In Circles • The Applied Go Weekly Newsletter 2025-04-13](https://newsletter.appliedgo.net/archive/2025-04-13-dont-run-in-circles/) 👤 The Applied Go Weekly Newsletter 💬 2123 🔖 #go 🗓️ 2025-04-13
@@ -87,7 +91,7 @@ This was a quick problem to solve, but in the process, I realized that I should 
     > **Резюме:** Go's error handling has faced criticism for being verbose, as it requires many "if err != nil" checks that disrupt the code's flow. A new proposal aims to simplify this with a syntax using a question mark, which could reduce boilerplate code in error handling. While some developers welcome this change, there are concerns about ensuring that errors still carry meaningful context as they propagate through the code.
 - [Bitfield Consulting](https://bitfieldconsulting.com/posts/slow-flaky-failing) 👤 Bitfield Consulting 💬 44 🔖 #go, #testing 🗓️ 2025-02-01
     > **Резюме:** Bitfield Consulting offers friendly mentoring for Go and Rust programming languages. You can join their Code Club to receive free learning resources and special offers. Unsubscribing from the mailing list is easy at any time.
-- [P2P на Go: библиотека libp2p](https://habr.com/ru/companies/otus/articles/876996/) 👤 Хабр 💬 1159 🔖 #go 🗓️ 2025-01-30
+- [P2P на Go: библиотека libp2p](https://habr.com/ru/companies/otus/articles/876996/) 👤 badcasedaily1 💬 1159 🔖 #go 🗓️ 2025-01-30
     > **Резюме:** Libp2p is a modular library in Go for building P2P networks, originally developed from the IPFS project. It allows complete control over P2P communications and supports features like NAT traversal and file sharing through a PubSub system. Nodes can connect, share files, and communicate directly using streams, making it suitable for decentralized applications like blockchains and messengers.
 - [Go 1.24's go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/) 👤 Jamie Tanna | Software Engineer 💬 1560 🔖 #go 🗓️ 2025-01-30
     > **Резюме:** Go 1.24 introduces the `go tool`, which simplifies managing dependencies in Go projects. This new feature allows for better caching and reduces unnecessary dependency bloat. Overall, it enhances performance and makes the development process more efficient.
@@ -128,7 +132,7 @@ This was a quick problem to solve, but in the process, I realized that I should 
     > **Резюме:** Method overriding in Go allows a composed struct to redefine a method from an embedded struct, enabling different behaviors. Go uses structs and interfaces instead of traditional classes to achieve similar functionality found in object-oriented programming. This approach allows for polymorphism, where the same method can act differently based on the struct type.
 - [How to easily track engineering metrics](https://victoronsoftware.com/posts/track-engineering-metrics/) 👤 Victor Lyuboslavsky 💬 943 🔖 #go, #github 🗓️ 2025-01-13
     > **Резюме:** How to automate tracking of engineering metrics and display them in Google office suite
-- [К слову об именах переменных в Go](https://habr.com/ru/articles/872940/) 👤 Хабр 💬 932 🔖 #go 🗓️ 2025-01-13
+- [К слову об именах переменных в Go](https://habr.com/ru/articles/872940/) 👤 sl4mmer 💬 932 🔖 #go 🗓️ 2025-01-13
     > **Резюме:** Статья обсуждает важность использования коротких имен переменных в языке Go для повышения читаемости кода. Короткие имена помогают избежать визуального шума, особенно в небольших функциях, где смысл переменной ясен из контекста. Однако, если переменные используются в более широком контексте, лучше выбирать более описательные имена для ясности.
 - [Let's Go](https://readwise.io/reader/document_raw_content/258496378) 👤 Alex Edwards 💬 63139 🔖 #go, #book 🗓️ 2025-01-10
 - [The Complete Guide to Learning Go](https://www.calhoun.io/guide-to-go) 👤 Jon Calhoun 💬 4673 🔖 #go, #outline 🗓️ 2025-01-10
@@ -151,7 +155,7 @@ This was a quick problem to solve, but in the process, I realized that I should 
     > **Резюме:** В статье обсуждаются регулярные выражения в языке Golang и их применение для обработки текста. Приводятся примеры простых совпадений, якорей границ и повторений, а также использование квадратных скобок для перечисления символов. Также рассматриваются группы и подгруппы, которые помогают в анализе и парсинге данных.
 - [GopherCon AU 2024](https://dave.cheney.net/talks/gopherconau-2024.pdf) 👤 dave.cheney.net 💬 1395 🔖 #go 🗓️ 2024-12-27
     > **Резюме:** GopherCon AU 2024 focuses on writing clear and maintainable code in Go. It emphasizes best practices like reducing conditionals, using meaningful names, and structuring code for better readability. The goal is to encourage developers to write code they can be proud of.
-- [Антипаттерны Go: чего нельзя делать и почему](https://habr.com/ru/companies/beget/articles/870138/) 👤 Хабр 💬 1994 🔖 #go, #outline 🗓️ 2024-12-27
+- [Антипаттерны Go: чего нельзя делать и почему](https://habr.com/ru/companies/beget/articles/870138/) 👤 morett1m 💬 1995 🔖 #go, #outline 🗓️ 2024-12-27
     > **Резюме:** В Go легко допустить ошибки, которые могут привести к дедлокам и неработоспособному коду, особенно при работе с горутинами и каналами. Важно правильно синхронизировать горутины и обрабатывать ошибки, чтобы избежать неожиданных сбоев. Также следует быть осторожным с глобальными переменными и слайсами, чтобы предотвратить гонки данных и путаницу в коде.
 - [Redis Queue and Cron in Go](https://fajar.labkita.my.id/posts/redis-queue-and-cron-in-go) 👤 labkita.my.id 💬 731 🔖 #go, #redis 🗓️ 2025-03-31
     > **Резюме:** This tutorial shows how to use Redis with Go to create a task queue and schedule tasks. It provides step-by-step instructions for setting up a cron scheduler and managing tasks using the Asynq package. Users can enqueue tasks via HTTP endpoints and monitor their execution in the terminal.

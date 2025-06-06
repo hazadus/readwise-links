@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 56
+- Всего ссылок: 58
 
 ## Ссылки
 
+- [Processing large JSON files in Python without running out of memory](https://pythonspeed.com/articles/json-memory-streaming/) 👤 Itamar Turner-Trauring 💬 1177 🔖 #json, #python 🗓️ 2025-06-05
+    > **Резюме:** Processing large JSON files in Python can lead to high memory usage, causing slow performance or crashes. A better approach is to use streaming or chunked processing, which allows you to read and process data one piece at a time without loading the entire file into memory. Libraries like ijson can help with this method, making it more efficient and faster.
+- [Parsing XML Comments with Python](mailto:reader-forwarded-email/ee5fc09dca9b9b4f91b3b2c885c1fccb) 👤 Mike Driscoll from The Python Papers 💬 350 🔖 #xml, #python 🗓️ 2025-06-05
+    > **Резюме:** Mike Driscoll's article explains how to uncomment lines in an XML file using Python's xml module. He emphasizes the need for a custom parser to extract comments and turn them into regular XML elements. The article also highlights alternative XML libraries like lxml for those who work with XML.
 - [What's up Python? Faster CPython cancelled, a new installer and yet another type checker](https://www.bitecode.dev/p/whats-up-python-faster-cpython-cancelled) 👤 Bite Code 💬 733 🔖 #python 🗓️ 2025-06-01
     > **Резюме:** Microsoft has canceled the Faster CPython project, disappointing many who hoped for improved Python performance. A new installer called PyFuze aims to make Python tools more portable across different operating systems. Additionally, a new type checker named Ty has been released, promising much faster performance than existing options, but it is still in development and may have bugs.
 - [Remote Single-file Python Scripts with uv](https://joshcannon.me/2025/04/24/remote-single-file-scripts.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_286) 👤 Josh Cannon 💬 353 🔖 #uv, #python 🗓️ 2025-05-25
@@ -24,12 +28,12 @@
     > **Резюме:** Python's proposal for shorthand syntax in keyword arguments has been rejected, leaving developers with repetitive argument calls. The performance improvements in Python 3.14 were not as significant as expected, and issues with Setuptools deprecation are causing problems for some projects. However, a new official lock file format for Python is ready, and Dependabot now supports the uv library, providing some positive updates.
 - [What's up Python? Better packaging and better debugging](https://www.bitecode.dev/p/whats-up-python-better-packaging) 👤 Bite Code! 💬 1227 🔖 #python 🗓️ 2025-03-03
     > **Резюме:** PEP 771 introduces default extra dependencies for Python packages, making it easier for users to install essential features without confusion. PEP 772 proposes a new Python Packaging Council to oversee packaging standards and improve coordination in the Python ecosystem. Additionally, debugging in VSCode is now simpler with the new debugpy command, enhancing the experience for many developers.
-- [Как сделать оплату в Telegram боте-магазине на вебхуках](https://habr.com/ru/companies/amvera/articles/870414/) 👤 Хабр 💬 6393 🔖 #python 🗓️ 2025-01-05
+- [Как сделать оплату в Telegram боте-магазине на вебхуках](https://habr.com/ru/companies/amvera/articles/870414/) 👤 yakvenalex 💬 6350 🔖 #python 🗓️ 2025-01-05
     > **Резюме:** The article explains how to set up payment integration in a Telegram bot using webhooks instead of standard tools. It emphasizes the importance of having a secure web server with HTTPS to process payments safely and efficiently. Finally, it highlights the flexibility of this approach for integrating various payment systems within the bot.
 - [What's up Python: MOAR uv, flask-like Django, debugging live processes...
 What's up Python: MOAR uv, flask-like Django, debugging live processes...](https://www.bitecode.dev/p/whats-up-python-moar-uv-flask-like) 👤 Bite Code! 💬 1253 🔖 #python 🗓️ 2024-12-29
     > **Резюме:** Astral continues to enhance Python tools by taking stewardship of projects like python-build-standalone and adding new features to uv. PEP 768 aims to create a safe way to debug live Python programs, making the process more efficient. The Django community is modernizing the framework with a new command system and projects like nanodjango, allowing for simpler, single-file applications.
-- [FastAPI + Redis + Celery: Создание системы временного хранения файлов с автоудалением и удобным веб-интерфейсом](https://habr.com/ru/companies/amvera/articles/866200/) 👤 Хабр 💬 9450 🔖 #try, #celery, #python, #fastapi 🗓️ 2024-12-16
+- [FastAPI + Redis + Celery: Создание системы временного хранения файлов с автоудалением и удобным веб-интерфейсом](https://habr.com/ru/companies/amvera/articles/866200/) 👤 yakvenalex 💬 9460 🔖 #try, #celery, #python, #fastapi 🗓️ 2024-12-16
     > **Резюме:** The article discusses how to create a file storage system using FastAPI, Redis, and Celery, focusing on features like auto-deletion and a user-friendly web interface. It explains the benefits of using Celery for handling tasks asynchronously and prioritizing them efficiently. The author aims to demystify working with non-relational databases and message brokers, encouraging readers to gain confidence in these technologies.
 - [Lazy self-installing Python scripts with uv](https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/) 👤 Trey Hunner 💬 1181 🔖 #uv, #python 🗓️ 2024-12-11
     > **Резюме:** Trey Hunner discusses how he uses the tool "uv" to simplify the process of running Python scripts with dependencies. Instead of creating virtual environments or packages for each script, uv automatically manages dependencies when the script runs. This allows for easier execution of scripts without the hassle of manual setup.

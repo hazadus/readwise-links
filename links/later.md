@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 47
+- Всего ссылок: 46
 
 ## Ссылки
 
@@ -12,7 +12,7 @@
     > **Резюме:** DeepSeek is cheap to run at scale because it uses batching to process many user requests simultaneously, which improves GPU efficiency. However, this batching increases latency since users may have to wait for enough requests to fill a batch before processing begins. Models like DeepSeek-V3 require high batch sizes to keep all parts of the system active and efficient, leading to a tradeoff between higher throughput and longer wait times for users.
 - [PostgreSQL как эффективная база для документных данных](https://youtube.com/watch?v=l8__4kI4zgU&si=FWi3JO7IruJno-N8) 👤 Health Samurai Team 🔖 #postgresql 🗓️ 2025-05-31
     > **Резюме:** PostgreSQL is an effective database for storing document data, allowing for efficient querying and indexing. It supports JSONB for handling complex documents and provides various operators for accessing specific fields. The system can handle large datasets and offers the flexibility to adapt as data grows, making it a robust choice for developers.
-- [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/) 👤 Хабр 💬 3281 🗓️ 2025-05-30
+- [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/) 👤 arturdumchev 💬 3317 🗓️ 2025-05-30
     > **Резюме:** The article discusses how developers sometimes undermine corporations by spreading destructive ideas within their codebases. It highlights the importance of quick feedback in development and how certain practices, like using monorepositories, can slow down productivity. The author warns against the risks of architectural sabotage and advocates for a more organized approach to coding.
 - [Model Context Protocol - Explained! (with Python example)](https://www.youtube.com/watch?v=JF14z6XO4Ho) 👤 BugBytes 🔖 #mcp 🗓️ 2025-05-26
     > **Резюме:** The video explains how to use the Model Context Protocol (MCP) with a Python example to set up a server and connect to a database. It demonstrates creating tools and resources for managing user data through commands in a virtual environment. The tutorial emphasizes the importance of exposing resources to the client using the MCP protocol.
@@ -42,8 +42,6 @@
     > **Резюме:** Nuxt 3.17 introduces significant improvements in data fetching, including reactive keys and shared refs for better performance and memory efficiency. It also features deduped watch calls and granular caching options, allowing for more flexible data management. Additionally, developers can easily switch from the Options API to the Composition API using reactive structures, simplifying the process of code refactoring.
 - [JavaScript, when is this?](https://piccalil.li/blog/javascript-when-is-this/?ref=main-rss-feed) 👤 Piccalilli 💬 1770 🔖 #javascript 🗓️ 2025-05-02
     > **Резюме:** In JavaScript, the value of "this" depends on how a function is called, not how it is written. When a function is executed, JavaScript creates an execution context that determines the value of "this" based on the calling context. Understanding JavaScript's execution model is key to grasping how "this" works in different situations.
-- [How to Build an Agent](https://ampcode.com/how-to-build-an-agent) 👤 ampcode.com 💬 5486 🔖 #agents 🗓️ 2025-04-16
-    > **Резюме:** This text explains how to create a simple command-line chatbot that interacts with an AI named Claude using Go code. The chatbot can read files and list directory contents, responding to user prompts. Additionally, it can be expanded to include more tools, such as the ability to edit files.
 - [Codifying a ChatGPT workflow into a malleable GUI](https://www.geoffreylitt.com/2023/07/25/building-personal-tools-on-the-fly-with-llms) 👤 geoffreylitt.com 💬 3905 🔖 #llm 🗓️ 2025-04-14
     > **Резюме:** In this post, the author discusses their experience of codifying a ChatGPT workflow into a malleable GUI. They describe how they used GPT-4 to code an app that helps them draft text messages in English and translate them to Japanese, with additional features such as adjusting formality and getting detailed explanations. The author highlights the benefits of using a GUI over raw ChatGPT, including a prescriptive workflow, direct manipulation affordances, and easier sharing of the tool. They also discuss the iterative process of editing the tool on the fly and the joy of having a personalized GUI that can be easily modified. The author concludes by reflecting on the value of affordances and the potential for LLMs to support non-programmers in building custom GUIs.
 - [Malleable software in the age of LLMs](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming) 👤 geoffreylitt.com 💬 4790 🔖 #llm 🗓️ 2025-04-14

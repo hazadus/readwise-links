@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 24
+- Всего ссылок: 25
 
 ## Ссылки
 
+- [LazyVim for Ambitious Developers](https://lazyvim-ambitious-devs.phillips.codes/course/chapter-1/) 👤 lazyvim-ambitious-devs.phillips.codes 💬 3330 🔖 #vim, #book 🗓️ 2025-06-05
+    > **Резюме:** LazyVim is a user-friendly configuration for Neovim that simplifies the setup process and enhances the editing experience. Unlike standard Neovim, which can feel outdated, LazyVim comes with a curated set of modern plugins and configurations. It aims to make coding more efficient while allowing easy customization for developers.
 - [Как читать книги для самообразования](https://readwise.io/reader/document_raw_content/262840656) 👤 Поварнин С.И. 💬 14256 🔖 #book, #outline, #reading, #learning, #inspiration 🗓️ 2025-01-22
     > **Резюме:** Reading books can be harmful if done poorly, leading to physical and mental issues. It is important to analyze a book on your own before considering outside reviews to foster independent thinking. Using the table of contents effectively can enhance understanding, and engaging with critiques afterward deepens comprehension and critical skills.
 - [Совершенный код](https://readwise.io/reader/document_raw_content/164004200) 👤 Стив Макконелл 💬 264868 🔖 #book 🗓️ 2025-01-15

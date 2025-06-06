@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 71
+- Всего ссылок: 73
 
 ## Ссылки
 
+- [Amp is now available. Here's how I use it.](https://ampcode.com/how-i-use-amp) 👤 ampcode.com 💬 2685 🔖 #llm, #inspiration 🗓️ 2025-06-05
+    > **Резюме:** The author shares their experience using an AI agent in VS Code to assist with coding tasks, such as adding features and reviewing code. They emphasize that while the agent can help streamline the coding process, developers still need to provide guidance and context for it to work effectively. Overall, using the agent has changed their approach to programming, making it feel both strange and exciting.
+- [LLMs are mirrors of operator skill](https://ghuntley.com/mirrors/) 👤 Geoffrey Huntley 💬 1471 🔖 #llm, #interview, #inspiration 🗓️ 2025-06-04
+    > **Резюме:** The rise of AI has changed how we evaluate software engineering skills, making it crucial to identify truly skilled operators. Traditional interviewing methods are flawed, as candidates can easily cheat using AI tools. Companies should adapt their interview processes to observe how candidates interact with AI, rather than banning its use outright.
 - [deliberate intentional practice](https://ghuntley.com/play/) 👤 Geoffrey Huntley 💬 839 🔖 #llm, #inspiration 🗓️ 2025-06-04
     > **Резюме:** Many people say AI doesn't work for them, often because they're only using it in complicated, outdated codebases. However, those who engage in deliberate practice with AI, like experimenting and playing with it, often discover its potential and beauty. The challenges some companies face with AI should not discourage individuals from exploring and improving their skills in this rapidly evolving field.
 - [AI Changes Everything](http://lucumr.pocoo.org/2025/6/4/changes) 👤 Armin Ronacher's Thoughts and Writings 💬 1097 🔖 #llm, #inspiration 🗓️ 2025-06-04

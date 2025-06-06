@@ -1,10 +1,18 @@
 # Ссылки
 
-- Всего ссылок: 98
+- Всего ссылок: 103
 
 ## Ссылки
 
-- [LLMs are mirrors of operator skill](https://ghuntley.com/mirrors/) 👤 Geoffrey Huntley 💬 1471 🔖 #llm 🗓️ 2025-06-04
+- [Become an AI-augmented engineer](https://maryrosecook.com/blog/post/become-an-ai-augmented-engineer) 👤 maryrosecook.com 💬 665 🔖 #llm 🗓️ 2025-06-05
+    > **Резюме:** Using AI can significantly boost your productivity as a programmer. It feels more collaborative and helps you get faster results, like having a partner to brainstorm with. Overall, programming with AI allows you to make bigger strides and feel more confident in your work.
+- [Amp is now available. Here's how I use it.](https://ampcode.com/how-i-use-amp) 👤 ampcode.com 💬 2685 🔖 #llm, #inspiration 🗓️ 2025-06-05
+    > **Резюме:** The author shares their experience using an AI agent in VS Code to assist with coding tasks, such as adding features and reviewing code. They emphasize that while the agent can help streamline the coding process, developers still need to provide guidance and context for it to work effectively. Overall, using the agent has changed their approach to programming, making it feel both strange and exciting.
+- [autoregressive queens of failure](https://ghuntley.com/gutter/) 👤 Geoffrey Huntley 💬 552 🔖 #llm 🗓️ 2025-06-05
+    > **Резюме:** Autoregressive AI coding assistants can struggle when the context becomes too complicated, leading to incorrect suggestions. This happens because they remember too much unrelated information in their context window, causing confusion. To improve outcomes, it's best to use a new context window for each separate task.
+- [AI Killed The Tech Interview. Now What?](https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/?ref=ghuntley.com) 👤 Kane Narraway 💬 1241 🔖 #llm, #interview 🗓️ 2025-06-05
+    > **Резюме:** The tech interview process is disliked by everyone involved, and AI advancements are changing how candidates are evaluated. Traditional coding interviews may become less effective as AI tools can easily answer many technical questions. Companies need to adapt their interview methods to assess candidates' ability to work with AI, rather than just their coding skills.
+- [LLMs are mirrors of operator skill](https://ghuntley.com/mirrors/) 👤 Geoffrey Huntley 💬 1471 🔖 #llm, #interview, #inspiration 🗓️ 2025-06-04
     > **Резюме:** The rise of AI has changed how we evaluate software engineering skills, making it crucial to identify truly skilled operators. Traditional interviewing methods are flawed, as candidates can easily cheat using AI tools. Companies should adapt their interview processes to observe how candidates interact with AI, rather than banning its use outright.
 - [deliberate intentional practice](https://ghuntley.com/play/) 👤 Geoffrey Huntley 💬 839 🔖 #llm, #inspiration 🗓️ 2025-06-04
     > **Резюме:** Many people say AI doesn't work for them, often because they're only using it in complicated, outdated codebases. However, those who engage in deliberate practice with AI, like experimenting and playing with it, often discover its potential and beauty. The challenges some companies face with AI should not discourage individuals from exploring and improving their skills in this rapidly evolving field.
@@ -148,6 +156,8 @@ Read hundreds of articles on programming: https://freecodecamp.org/news
     > **Резюме:** The author shares their journey in learning to use AI tools for coding, emphasizing the importance of starting with simple AI-assisted autocompletion before progressing to more complex coding agents. They outline a series of steps that help developers gradually adopt these technologies, leading to increased productivity and a shift in how coding is approached. Ultimately, the author reflects on how this new method allows for more leisure time, even as it raises concerns about the future of software jobs.
 - [Guiding an LLM for Robust Java ByteBuffer Code](https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html) 👤 Unmesh Joshi 💬 1435 🔖 #llm 🗓️ 2025-04-18
     > **Резюме:** This article discusses how an expert developer can guide a large language model (LLM) to generate safe and robust Java ByteBuffer code. By focusing on avoiding side effects and promoting good software design, the developer refines the LLM's initial code into a more reliable structure. The case study illustrates the importance of human oversight in ensuring code quality and maintainability.
+- [How to Build an Agent](https://ampcode.com/how-to-build-an-agent) 👤 ampcode.com 💬 5486 🔖 #go, #llm, #agents 🗓️ 2025-06-05
+    > **Резюме:** This text explains how to create a simple command-line chatbot that interacts with an AI named Claude using Go code. The chatbot can read files and list directory contents, responding to user prompts. Additionally, it can be expanded to include more tools, such as the ability to edit files.
 - [A practical guide to coding securely with LLMs](https://seangoedecke.com/ai-security/) 👤 seangoedecke.com 💬 1871 🔖 #llm 🗓️ 2025-04-15
     > **Резюме:** LLMs can act unpredictably and sometimes maliciously, so their output should be treated like untrusted user input. Prompt injection is a significant risk that cannot be fully eliminated, and LLM tools must have strict access control similar to user-facing APIs. Developers should be cautious when using third-party code or their own models, as these can introduce security vulnerabilities and potential denial-of-service attacks.
 - [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/?from=newsletter) 👤 Josh W. Comeau 💬 2508 🔖 #llm, #career 🗓️ 2025-04-15
