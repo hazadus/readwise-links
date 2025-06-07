@@ -26,7 +26,7 @@ Django Model + pytest Fixture This part is a mouthful, but I prefer to use the M
 - [How To Mock In Pytest? (A Comprehensive Guide) | Pytest with Eric](https://pytest-with-eric.com/mocking/pytest-mocking/) 👤 pytest-with-eric.com 💬 2392 🔖 #pytest 🗓️ 2024-08-07
     > **Резюме:** This guide explains how to use mocking in Pytest to isolate tests from external dependencies. It covers setting up a project structure, using the pytest-mock plugin, and provides examples of mocking functions, methods, and classes. Mocking helps ensure tests run smoothly without relying on external services or changing file systems.
 - [Python Friday #239: Asynchronous Tests With Pytest - Improve & Repeat](https://improveandrepeat.com/2024/08/python-friday-239-asynchronous-tests-with-pytest/) 👤 Johnny Graber 💬 443 🔖 #pytest 🗓️ 2024-08-13
-    > **Резюме:** None
+    > **Резюме:** The author discusses how to test asynchronous methods using pytest, highlighting that pytest does not natively support asynchronous functions. To make it work, you need to install a plugin like pytest-asyncio and use specific decorators for your test functions and fixtures. The article aims to help readers overcome the initial challenges of testing asynchronous code in Python.
 - [Python Friday #240: Asynchronous SQLAlchemy With FastAPI - Improve & Repeat](https://improveandrepeat.com/2024/08/python-friday-240-asynchronous-sqlalchemy-with-fastapi/) 👤 Johnny Graber 💬 1550 🔖 #pytest, #fastapi, #sqlalchemy 🗓️ 2024-08-17
     > **Резюме:** None
 - [How To Run A Single Test In Pytest (Using CLI And Markers) | Pytest with Eric](https://pytest-with-eric.com/introduction/pytest-run-single-test/) 👤 pytest-with-eric.com 💬 1333 🔖 #pytest 🗓️ 2024-08-31

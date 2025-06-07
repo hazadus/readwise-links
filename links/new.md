@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 792
+- Всего ссылок: 794
 
 ## Ссылки
 
+- [stores high CPU usage?](https://setapp.com/how-to/mds-stores-high-cpu-usage) 👤 Natalie Polishchuk 💬 1700 🗓️ 2025-06-06
+- [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles) 👤 Atlassian 💬 710 🔖 #git 🗓️ 2025-06-06
 - [Become an AI-augmented engineer](https://maryrosecook.com/blog/post/become-an-ai-augmented-engineer) 👤 maryrosecook.com 💬 665 🔖 #llm 🗓️ 2025-06-05
 - [Amp is now available. Here's how I use it.](https://ampcode.com/how-i-use-amp) 👤 ampcode.com 💬 2685 🔖 #llm, #inspiration 🗓️ 2025-06-05
 - [Processing large JSON files in Python without running out of memory](https://pythonspeed.com/articles/json-memory-streaming/) 👤 Itamar Turner-Trauring 💬 1177 🔖 #json, #python 🗓️ 2025-06-05

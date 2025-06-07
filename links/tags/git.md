@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles) 👤 Atlassian 💬 710 🔖 #git 🗓️ 2025-06-06
+    > **Резюме:** This tutorial explains a simple way to store dotfiles using a Git bare repository. It involves creating an alias that allows you to manage your configuration files without interfering with other Git repositories. By following the steps provided, you can easily version and replicate your configurations across different systems.
 - [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/) 👤 Simon Willison 💬 2852 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
     > **Резюме:** The key to increasing productivity on personal projects is to maintain comprehensive documentation and automated tests. Issue driven development, using GitHub issues as temporary documentation, can help manage multiple projects efficiently. Sharing your project work through documentation and release notes is crucial for project completion and accountability.
 - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) 👤 Simon Willison 💬 1979 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
