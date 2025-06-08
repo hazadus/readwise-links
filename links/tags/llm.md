@@ -1,9 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 103
+- Всего ссылок: 107
 
 ## Ссылки
 
+- [AI-free writing](https://antonz.org/ai-free/) 👤 Anton Zhiyanov 💬 187 🔖 #llm, #writing 🗓️ 2025-06-07
+    > **Резюме:** The author, Anton Zhiyanov, chooses to write without AI-generated content, preferring to create everything by hand. He uses AI for other tasks like coding but believes writing should be a personal effort. Zhiyanov hopes that readers will still appreciate AI-free writing in the future.
+- [AI interpretability is further along than I thought](https://seangoedecke.com/ai-interpretability/) 👤 seangoedecke.com 💬 1916 🔖 #llm 🗓️ 2025-06-07
+    > **Резюме:** AI models are often seen as "black boxes," but recent research shows we can understand their inner workings better than expected. By identifying features and how they connect, we can gain insights into how these models think and make decisions. This understanding can improve the safety and capability of AI systems, helping us guide their responses more effectively.
+- [I dream of roombas - thousands of automated AI robots that autonomously maintain codebases](https://ghuntley.com/ktlo/) 👤 Geoffrey Huntley 💬 1335 🔖 #llm 🗓️ 2025-06-07
+    > **Резюме:** Geoffrey Huntley envisions a future where automated AI robots manage software codebases, reducing low-value tasks for engineers. He highlights recent advancements in context management through subagents, which streamline workflows and minimize errors. While full automation of software development isn't here yet, he believes it is getting closer as technology evolves.
+- [The last year six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/#atom-everything) 👤 Simon Willison 💬 3304 🔖 #llm 🗓️ 2025-06-07
+    > **Резюме:** In the past six months, many significant AI language models have been released, with over 30 worth noting. The key challenge remains evaluating these models to determine which perform best. Notable releases include Meta's Llama 3.3, OpenAI's GPT 4.1, and Google's Gemini models, with various models showing different strengths in tasks like generating images of pelicans on bicycles.
 - [Become an AI-augmented engineer](https://maryrosecook.com/blog/post/become-an-ai-augmented-engineer) 👤 maryrosecook.com 💬 665 🔖 #llm 🗓️ 2025-06-05
     > **Резюме:** Using AI can significantly boost your productivity as a programmer. It feels more collaborative and helps you get faster results, like having a partner to brainstorm with. Overall, programming with AI allows you to make bigger strides and feel more confident in your work.
 - [Amp is now available. Here's how I use it.](https://ampcode.com/how-i-use-amp) 👤 ampcode.com 💬 2685 🔖 #llm, #inspiration 🗓️ 2025-06-05

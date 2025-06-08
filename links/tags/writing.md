@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [AI-free writing](https://antonz.org/ai-free/) 👤 Anton Zhiyanov 💬 187 🔖 #llm, #writing 🗓️ 2025-06-07
+    > **Резюме:** The author, Anton Zhiyanov, chooses to write without AI-generated content, preferring to create everything by hand. He uses AI for other tasks like coding but believes writing should be a personal effort. Zhiyanov hopes that readers will still appreciate AI-free writing in the future.
 - [Say Your Writing](https://martinfowler.com/bliki/SayYourWriting.html) 👤 Martin Fowler 💬 320 🔖 #writing 🗓️ 2025-05-28
     > **Резюме:** Martin Fowler shares a helpful writing tip: read your draft out loud to catch awkward phrases and improve its flow. He believes that writing should have a conversational tone, making it more engaging for readers. Fowler warns against bland corporate and academic prose, which can make writing feel lifeless.
 - [My Notion Blogging Kanban](https://daverupert.com/2021/09/my-notion-blogging-kanban/) 👤 daverupert.com 💬 954 🔖 #pkm, #writing 🗓️ 2025-05-21

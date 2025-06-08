@@ -1,9 +1,14 @@
 # Новые ссылки
 
-- Всего ссылок: 794
+- Всего ссылок: 799
 
 ## Ссылки
 
+- [AI-free writing](https://antonz.org/ai-free/) 👤 Anton Zhiyanov 💬 187 🔖 #llm, #writing 🗓️ 2025-06-07
+- [AI interpretability is further along than I thought](https://seangoedecke.com/ai-interpretability/) 👤 seangoedecke.com 💬 1916 🔖 #llm 🗓️ 2025-06-07
+- [I dream of roombas - thousands of automated AI robots that autonomously maintain codebases](https://ghuntley.com/ktlo/) 👤 Geoffrey Huntley 💬 1335 🔖 #llm 🗓️ 2025-06-07
+- [Arguing point-by-point considered harmful](https://seangoedecke.com/point-by-point-considered-harmful/) 👤 seangoedecke.com 💬 1845 🗓️ 2025-06-07
+- [The last year six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/#atom-everything) 👤 Simon Willison 💬 3304 🔖 #llm 🗓️ 2025-06-07
 - [stores high CPU usage?](https://setapp.com/how-to/mds-stores-high-cpu-usage) 👤 Natalie Polishchuk 💬 1700 🗓️ 2025-06-06
 - [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles) 👤 Atlassian 💬 710 🔖 #git 🗓️ 2025-06-06
 - [Become an AI-augmented engineer](https://maryrosecook.com/blog/post/become-an-ai-augmented-engineer) 👤 maryrosecook.com 💬 665 🔖 #llm 🗓️ 2025-06-05
