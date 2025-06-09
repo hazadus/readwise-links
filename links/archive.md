@@ -1,10 +1,17 @@
 # Архивные ссылки
 
-- Всего ссылок: 720
+- Всего ссылок: 727
 
 ## Ссылки
 
+- [Вложенность в перечислениях](http://maximilyahov.ru/blog/all/embedded-lists/) 👤 maximilyahov.ru 💬 117 🔖 #writing 🗓️ 2025-06-08
+- [The 2025 State of My Jamstack](https://brainbaking.com/post/2025/06/the-2025-state-of-my-jamstack/) 👤 Brain Baking 💬 967 🗓️ 2025-06-08
+- [I dream of roombas - thousands of automated AI robots that autonomously maintain codebases](https://ghuntley.com/ktlo/) 👤 Geoffrey Huntley 💬 1335 🔖 #llm 🗓️ 2025-06-07
+- [Become an AI-augmented engineer](https://maryrosecook.com/blog/post/become-an-ai-augmented-engineer) 👤 maryrosecook.com 💬 665 🔖 #llm 🗓️ 2025-06-05
+    > **Заметка:** Матёрая кодерша советует юзать LLM
 - [Rules](https://docs.cursor.com/context/rules) 👤 Cursor 💬 665 🔖 #cursor 🗓️ 2025-06-05
+- [autoregressive queens of failure](https://ghuntley.com/gutter/) 👤 Geoffrey Huntley 💬 552 🔖 #llm 🗓️ 2025-06-05
+- [AI Killed The Tech Interview. Now What?](https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/?ref=ghuntley.com) 👤 Kane Narraway 💬 1241 🔖 #llm, #interview 🗓️ 2025-06-05
 - [LLMs are mirrors of operator skill](https://ghuntley.com/mirrors/) 👤 Geoffrey Huntley 💬 1471 🔖 #llm, #interview, #inspiration 🗓️ 2025-06-04
 - [deliberate intentional practice](https://ghuntley.com/play/) 👤 Geoffrey Huntley 💬 839 🔖 #llm, #inspiration 🗓️ 2025-06-04
 - [AI Changes Everything](http://lucumr.pocoo.org/2025/6/4/changes) 👤 Armin Ronacher's Thoughts and Writings 💬 1097 🔖 #llm, #inspiration 🗓️ 2025-06-04
@@ -17,6 +24,7 @@
 - [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/) 👤 Thomas Ptacek 💬 2733 🔖 #llm, #inspiration 🗓️ 2025-06-03
 - [claude-trace](https://simonwillison.net/2025/Jun/2/claude-trace/#atom-everything) 👤 Simon Willison 💬 573 🔖 #llm 🗓️ 2025-06-03
 - [Web Weekly #159](https://www.stefanjudis.com/blog/web-weekly-159/) 👤 stefanjudis.com 💬 1500 🔖 #web 🗓️ 2025-06-03
+- [kdevtmpfsi using the entire CPU](https://stackoverflow.com/questions/60151640/kdevtmpfsi-using-the-entire-cpu?roistat_visit=2575899) 👤 stackoverflow.com 💬 297 🔖 #security 🗓️ 2025-06-03
 - [Сетевой этикет: что это и как его соблюдать](https://kinzhal.media/setevoj-etiket/) 👤 kinzhal.media 💬 1641 🔖 #meetings 🗓️ 2025-06-01
 - [What's up Python? Faster CPython cancelled, a new installer and yet another type checker](https://www.bitecode.dev/p/whats-up-python-faster-cpython-cancelled) 👤 Bite Code 💬 733 🔖 #python 🗓️ 2025-06-01
 - [A quote from Steve Krouse](https://simonwillison.net/2025/May/31/steve-krouse/#atom-everything) 👤 Simon Willison 💬 214 🔖 #fun, #llm 🗓️ 2025-06-01

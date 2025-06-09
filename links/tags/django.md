@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 44
+- Всего ссылок: 45
 
 ## Ссылки
 
+- [Optimizing Django Docker Builds with Astral’s `uv`](https://rob.cogit8.org/posts/optimizing-django-docker-builds-with-astrals-uv/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_288) 👤 Rob Hudson 💬 1417 🔖 #uv, #django, #docker 🗓️ 2025-06-08
+    > **Резюме:** Astral’s `uv` improves Django Docker builds by speeding up dependency resolution and installation. It simplifies dependency management and enhances security by enforcing strict version control and verification. The article provides a detailed guide on setting up `uv` in Docker for efficient and reproducible builds.
 - [How to cheat at unit tests with pytest and Black](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/) 👤 Simon Willison 💬 860 🔖 #django, #pytest 🗓️ 2025-05-29
     > **Резюме:** The author discusses using pytest and Black to efficiently write unit tests for a Django project focused on permissions in Datasette Cloud. They prefer to prototype solutions first and then create tests based on the implemented code, which speeds up the process. This method has resulted in a robust test suite and has been successfully applied to their software projects.
 - [Django Security Best Practices: A Comprehensive Guide for Software Engineers](https://corgea.com/Learn/django-security-best-practices-a-comprehensive-guid-for-software-engineers?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_285) 👤 corgea.com 💬 1030 🔖 #django, #security 🗓️ 2025-05-17

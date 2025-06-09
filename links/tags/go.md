@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 197
+- Всего ссылок: 199
 
 ## Ссылки
 
+- [Gist of Go: Data races](https://antonz.org/go-concurrency/data-races/) 👤 Anton Zhiyanov 💬 2501 🔖 #go 🗓️ 2025-06-08
+    > **Резюме:** Data races occur when multiple goroutines access the same variable simultaneously, with at least one of them modifying it. To prevent data races, Go provides mutexes and channels, which ensure safe access to shared data. Using these tools allows goroutines to work concurrently without corrupting the data they share.
+- [Own Your Errors! • The Applied Go Weekly Newsletter 2025-06-08](https://newsletter.appliedgo.net/archive/2025-06-08-own-your-errors/) 👤 The Applied Go Weekly Newsletter 💬 2259 🔖 #go 🗓️ 2025-06-08
+    > **Резюме:** Go's error handling will stay as it is, despite ongoing debates about making it less verbose. This decision brings clarity for the future and reduces clutter in GitHub issues. Understanding that errors are just values and can be customized will help developers work effectively with Go's error handling.
 - [Diving deeper into Go interfaces](mailto:reader-forwarded-email/bab01159971b964066ed80018454278a) 👤 Jon Calhoun 💬 1721 🔖 #go 🗓️ 2025-06-05
     > **Резюме:** This week, the author discusses tips for effectively using interfaces in Go, emphasizing the importance of keeping them simple and naming them based on their functionality. He also explains how to combine interfaces to add more features and the flexibility offered by Go's structural typing, which allows for easier code implementation. Overall, the article encourages careful consideration of when to use interfaces to enhance code clarity and maintainability.
 - [Stop Splitting Atoms • The Applied Go Weekly Newsletter 2025-06-01](https://newsletter.appliedgo.net/archive/2025-06-01-stop-splitting-atoms/) 👤 The Applied Go Weekly Newsletter 💬 1635 🔖 #go 🗓️ 2025-06-02

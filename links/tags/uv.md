@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [Optimizing Django Docker Builds with Astral’s `uv`](https://rob.cogit8.org/posts/optimizing-django-docker-builds-with-astrals-uv/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_288) 👤 Rob Hudson 💬 1417 🔖 #uv, #django, #docker 🗓️ 2025-06-08
+    > **Резюме:** Astral’s `uv` improves Django Docker builds by speeding up dependency resolution and installation. It simplifies dependency management and enhances security by enforcing strict version control and verification. The article provides a detailed guide on setting up `uv` in Docker for efficient and reproducible builds.
 - [Remote Single-file Python Scripts with uv](https://joshcannon.me/2025/04/24/remote-single-file-scripts.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_286) 👤 Josh Cannon 💬 353 🔖 #uv, #python 🗓️ 2025-05-25
     > **Заметка:** Интересный способ запускать скрипты прямо из репо. 
     > **Резюме:** The article explains how to run remote single-file Python scripts easily using the tool "uv." It handles Python installation, supports scripts from URLs, and can manage dependencies automatically. This allows users to share and execute scripts without worrying about configuration or version issues.

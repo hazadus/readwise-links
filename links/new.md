@@ -1,29 +1,18 @@
 # Новые ссылки
 
-- Всего ссылок: 799
+- Всего ссылок: 787
 
 ## Ссылки
 
-- [AI-free writing](https://antonz.org/ai-free/) 👤 Anton Zhiyanov 💬 187 🔖 #llm, #writing 🗓️ 2025-06-07
-- [AI interpretability is further along than I thought](https://seangoedecke.com/ai-interpretability/) 👤 seangoedecke.com 💬 1916 🔖 #llm 🗓️ 2025-06-07
-- [I dream of roombas - thousands of automated AI robots that autonomously maintain codebases](https://ghuntley.com/ktlo/) 👤 Geoffrey Huntley 💬 1335 🔖 #llm 🗓️ 2025-06-07
-- [Arguing point-by-point considered harmful](https://seangoedecke.com/point-by-point-considered-harmful/) 👤 seangoedecke.com 💬 1845 🗓️ 2025-06-07
-- [The last year six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/#atom-everything) 👤 Simon Willison 💬 3304 🔖 #llm 🗓️ 2025-06-07
-- [stores high CPU usage?](https://setapp.com/how-to/mds-stores-high-cpu-usage) 👤 Natalie Polishchuk 💬 1700 🗓️ 2025-06-06
-- [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles) 👤 Atlassian 💬 710 🔖 #git 🗓️ 2025-06-06
-- [Become an AI-augmented engineer](https://maryrosecook.com/blog/post/become-an-ai-augmented-engineer) 👤 maryrosecook.com 💬 665 🔖 #llm 🗓️ 2025-06-05
-- [Amp is now available. Here's how I use it.](https://ampcode.com/how-i-use-amp) 👤 ampcode.com 💬 2685 🔖 #llm, #inspiration 🗓️ 2025-06-05
+- [Optimizing Django Docker Builds with Astral’s `uv`](https://rob.cogit8.org/posts/optimizing-django-docker-builds-with-astrals-uv/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_288) 👤 Rob Hudson 💬 1417 🔖 #uv, #django, #docker 🗓️ 2025-06-08
+- [Gist of Go: Data races](https://antonz.org/go-concurrency/data-races/) 👤 Anton Zhiyanov 💬 2501 🔖 #go 🗓️ 2025-06-08
+- [the printer that transcends dimensions and corrupts reality](https://ghuntley.com/ideas/) 👤 Geoffrey Huntley 💬 3045 🗓️ 2025-06-08
+- [Own Your Errors! • The Applied Go Weekly Newsletter 2025-06-08](https://newsletter.appliedgo.net/archive/2025-06-08-own-your-errors/) 👤 The Applied Go Weekly Newsletter 💬 2259 🔖 #go 🗓️ 2025-06-08
 - [Processing large JSON files in Python without running out of memory](https://pythonspeed.com/articles/json-memory-streaming/) 👤 Itamar Turner-Trauring 💬 1177 🔖 #json, #python 🗓️ 2025-06-05
 - [Diving deeper into Go interfaces](mailto:reader-forwarded-email/bab01159971b964066ed80018454278a) 👤 Jon Calhoun 💬 1721 🔖 #go 🗓️ 2025-06-05
-- [LazyVim for Ambitious Developers](https://lazyvim-ambitious-devs.phillips.codes/course/chapter-1/) 👤 lazyvim-ambitious-devs.phillips.codes 💬 3330 🔖 #vim, #book 🗓️ 2025-06-05
 - [Parsing XML Comments with Python](mailto:reader-forwarded-email/ee5fc09dca9b9b4f91b3b2c885c1fccb) 👤 Mike Driscoll from The Python Papers 💬 350 🔖 #xml, #python 🗓️ 2025-06-05
-- [autoregressive queens of failure](https://ghuntley.com/gutter/) 👤 Geoffrey Huntley 💬 552 🔖 #llm 🗓️ 2025-06-05
-- [AI Killed The Tech Interview. Now What?](https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/?ref=ghuntley.com) 👤 Kane Narraway 💬 1241 🔖 #llm, #interview 🗓️ 2025-06-05
-- [Careless People by Sarah Wynn-Williams - Book Review](https://wsvincent.com/careless-people-book-review/) 👤 Will Vincent 💬 1011 🗓️ 2025-06-04
 - [Implementing Edge-Side Rendering (ESR) in Nuxt 3+ for Enhanced Performance](https://mokkapps.de/blog/implementing-esr-nuxt) 👤 Michael Hoffmann 💬 1473 🔖 #nuxt 🗓️ 2025-06-04
-- [New Programming Jargon](https://blog.codinghorror.com/new-programming-jargon/) 👤 Jeff Atwood 💬 2082 🗓️ 2025-06-03
 - [The Front-End Monitoring Handbook: Track Performance, Errors, and User Behavior](https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/) 👤 freeCodeCamp.org 💬 5785 🗓️ 2025-06-03
-- [kdevtmpfsi using the entire CPU](https://stackoverflow.com/questions/60151640/kdevtmpfsi-using-the-entire-cpu?roistat_visit=2575899) 👤 stackoverflow.com 💬 297 🔖 #security 🗓️ 2025-06-03
 - [Stop Splitting Atoms • The Applied Go Weekly Newsletter 2025-06-01](https://newsletter.appliedgo.net/archive/2025-06-01-stop-splitting-atoms/) 👤 The Applied Go Weekly Newsletter 💬 1635 🔖 #go 🗓️ 2025-06-02
 - [Create a React + Flask Project in 2025](https://blog.miguelgrinberg.com/post/create-a-react-flask-project-in-2025) 👤 Miguel Grinberg 💬 2191 🔖 #vite, #flask, #react 🗓️ 2025-06-01
 - [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) 👤 Nathaniel J. Smith 💬 6018 🗓️ 2025-05-30
@@ -70,7 +59,6 @@
 - [Write, Build, Love, Repeat • The Applied Go Weekly Newsleetter 2025-04-20](https://newsletter.appliedgo.net/archive/2025-04-20-write-build-love-repeat/) 👤 The Applied Go Weekly Newsletter 💬 1500 🔖 #go 🗓️ 2025-04-20
 - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices) 👤 anthropic.com 💬 4193 🗓️ 2025-04-20
 - [gRPC API Gateway: Bridging the Gap Between REST and gRPC](https://zuplo.com/blog/2025/04/09/grpc-api-gateway) 👤 Peyman Motrtazavi 💬 2001 🔖 #grpc 🗓️ 2025-04-18
-- [How to Build an Agent](https://ampcode.com/how-to-build-an-agent) 👤 ampcode.com 💬 5486 🔖 #go, #llm, #agents 🗓️ 2025-06-05
 - [Все места охоты на монстров в Final Fantasy XVI](https://www.goha.ru/vse-mesta-ohoty-na-monstrov-v-final-fantasy-xvi-40mBD0) 👤 Zan 💬 281 🔖 #game 🗓️ 2025-04-15
 - [Signals and Go's Context Type](mailto:reader-forwarded-email/8a53651a467aab634454cd535a35fa34) 👤 Jon Calhoun 💬 1009 🔖 #go 🗓️ 2025-04-15
 - [Super Mario Bros. Wonder: Pipe Dreams Do Come True](https://jefklakscodex.com/games/switch/super-mario-bros-wonder/) 👤 Brain Baking 💬 1167 🔖 #game 🗓️ 2025-04-14

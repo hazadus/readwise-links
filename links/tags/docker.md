@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [Optimizing Django Docker Builds with Astral’s `uv`](https://rob.cogit8.org/posts/optimizing-django-docker-builds-with-astrals-uv/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_288) 👤 Rob Hudson 💬 1417 🔖 #uv, #django, #docker 🗓️ 2025-06-08
+    > **Резюме:** Astral’s `uv` improves Django Docker builds by speeding up dependency resolution and installation. It simplifies dependency management and enhances security by enforcing strict version control and verification. The article provides a detailed guide on setting up `uv` in Docker for efficient and reproducible builds.
 - [What is Testcontainers, and why should you use it?](https://testcontainers.com/guides/introducing-testcontainers/) 👤 Testcontainers 💬 860 🔖 #docker, #testing 🗓️ 2025-05-15
     > **Резюме:** Testcontainers is a testing library that simplifies integration testing by allowing developers to use real services in Docker containers instead of mocks or in-memory databases. It helps avoid issues like data conflicts and the need for pre-provisioned infrastructure, enabling faster and more reliable testing. With Testcontainers, you can run integration tests seamlessly alongside unit tests in various programming languages.
 - [Getting started with Testcontainers for Python](https://testcontainers.com/guides/getting-started-with-testcontainers-for-python/) 👤 Testcontainers 💬 1181 🔖 #docker, #python, #testing 🗓️ 2025-05-15
