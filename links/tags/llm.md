@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 106
+- Всего ссылок: 107
 
 ## Ссылки
 
+- [The illusion of "The Illusion of Thinking"](https://seangoedecke.com/illusion-of-thinking/) 👤 seangoedecke.com 💬 1836 🔖 #llm 🗓️ 2025-06-08
+    > **Резюме:** Apple's paper, "The Illusion of Thinking," argues that reasoning models struggle with complex tasks and often give up when faced with higher difficulties. The author believes that puzzles like the Tower of Hanoi are not effective for testing reasoning abilities and questions the conclusions drawn from the paper. Overall, the critique suggests that reasoning models can still reason but may not perform well in scenarios that require extensive algorithmic steps.
 - [AI interpretability is further along than I thought](https://seangoedecke.com/ai-interpretability/) 👤 seangoedecke.com 💬 1916 🔖 #llm 🗓️ 2025-06-07
     > **Резюме:** AI models are often seen as "black boxes," but recent research shows we can understand their inner workings better than expected. By identifying features and how they connect, we can gain insights into how these models think and make decisions. This understanding can improve the safety and capability of AI systems, helping us guide their responses more effectively.
 - [I dream of roombas - thousands of automated AI robots that autonomously maintain codebases](https://ghuntley.com/ktlo/) 👤 Geoffrey Huntley 💬 1335 🔖 #llm 🗓️ 2025-06-07

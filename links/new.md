@@ -4,6 +4,7 @@
 
 ## Ссылки
 
+- [Build a Finance Tracker web app in Python using Dash framework [Flask / Plotly / React.js] #python](https://www.youtube.com/watch?v=HyfgJo6Qb64) 👤 BekBrace 🔖 #flask, #react 🗓️ 2025-06-09
 - [Optimizing Django Docker Builds with Astral’s `uv`](https://rob.cogit8.org/posts/optimizing-django-docker-builds-with-astrals-uv/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_288) 👤 Rob Hudson 💬 1417 🔖 #uv, #django, #docker 🗓️ 2025-06-08
 - [Gist of Go: Data races](https://antonz.org/go-concurrency/data-races/) 👤 Anton Zhiyanov 💬 2501 🔖 #go 🗓️ 2025-06-08
 - [the printer that transcends dimensions and corrupts reality](https://ghuntley.com/ideas/) 👤 Geoffrey Huntley 💬 3045 🗓️ 2025-06-08
@@ -96,7 +97,6 @@
 - [Modulations - Cinema for the Ear | Documentary](https://youtube.com/watch?v=icpDt6aQDww&si=4tunaAiywa3VYR5X) 👤 Cultures of Resistance Films 🗓️ 2025-03-22
 - [estimation.md · GitHub](https://gist.github.com/davestewart/643ffc55aa7c173618d2707b776a1443) 👤 262588213843476 💬 1415 🗓️ 2025-03-21
 - [Benchmarking: What You Can't Miss in Go 1.24](https://jarosz.dev/code/benchmarking-what-you-cannot-miss-in-go-1.24/) 👤 Jakub Jarosz 💬 872 🔖 #go 🗓️ 2025-03-21
-- [«Скрипты и алгоритмы успеха» Радислава Гандапаса — читаем, размышляем, обсуждаем](https://www.youtube.com/watch?v=fzNnzDDfBSc) 👤 Диджитализируй! 🗓️ 2025-03-20
 - [Web Components Vs. Framework Components: What’s The Difference?](https://www.smashingmagazine.com/2025/03/web-components-vs-framework-components/) 👤 Gabriel Shoyombo 💬 1975 🗓️ 2025-03-18
 - [Планировщик Go — самый подробный гайд простым языком](https://habr.com/ru/articles/891426/) 👤 JustSkiv 💬 7178 🗓️ 2025-03-18
 - [x-h3-session](https://h3.unjs.io/examples/handle-session) 👤 unjs.io 💬 578 🗓️ 2025-03-17

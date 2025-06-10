@@ -1,12 +1,15 @@
 # Архивные ссылки
 
-- Всего ссылок: 727
+- Всего ссылок: 736
 
 ## Ссылки
 
 - [Вложенность в перечислениях](http://maximilyahov.ru/blog/all/embedded-lists/) 👤 maximilyahov.ru 💬 117 🔖 #writing 🗓️ 2025-06-08
 - [The 2025 State of My Jamstack](https://brainbaking.com/post/2025/06/the-2025-state-of-my-jamstack/) 👤 Brain Baking 💬 967 🗓️ 2025-06-08
+- [The illusion of "The Illusion of Thinking"](https://seangoedecke.com/illusion-of-thinking/) 👤 seangoedecke.com 💬 1836 🔖 #llm 🗓️ 2025-06-08
+- [AI interpretability is further along than I thought](https://seangoedecke.com/ai-interpretability/) 👤 seangoedecke.com 💬 1916 🔖 #llm 🗓️ 2025-06-07
 - [I dream of roombas - thousands of automated AI robots that autonomously maintain codebases](https://ghuntley.com/ktlo/) 👤 Geoffrey Huntley 💬 1335 🔖 #llm 🗓️ 2025-06-07
+- [Arguing point-by-point considered harmful](https://seangoedecke.com/point-by-point-considered-harmful/) 👤 seangoedecke.com 💬 1845 🔖 #soft skills, #communication 🗓️ 2025-06-07
 - [Become an AI-augmented engineer](https://maryrosecook.com/blog/post/become-an-ai-augmented-engineer) 👤 maryrosecook.com 💬 665 🔖 #llm 🗓️ 2025-06-05
     > **Заметка:** Матёрая кодерша советует юзать LLM
 - [Rules](https://docs.cursor.com/context/rules) 👤 Cursor 💬 665 🔖 #cursor 🗓️ 2025-06-05
@@ -17,6 +20,7 @@
 - [AI Changes Everything](http://lucumr.pocoo.org/2025/6/4/changes) 👤 Armin Ronacher's Thoughts and Writings 💬 1097 🔖 #llm, #inspiration 🗓️ 2025-06-04
 - [Run Your Own AI](https://anthonylewis.com/2025/06/01/run-your-own-ai/) 👤 anthonylewis.com 💬 567 🔖 #llm 🗓️ 2025-06-04
 - [John Henry and the large language model](https://seangoedecke.com/john-henry-and-the-llm/) 👤 seangoedecke.com 💬 586 🔖 #llm 🗓️ 2025-06-04
+- [New Programming Jargon](https://blog.codinghorror.com/new-programming-jargon/) 👤 Jeff Atwood 💬 2082 🔖 #fun 🗓️ 2025-06-03
 - [5 мелочей в переписке, за которые вас хочется неистово обнять](https://kinzhal.media/5-small-things/) 👤 Кинжал 💬 404 🔖 #soft skills, #communication 🗓️ 2025-06-03
 - [Продаёте себя на собеседовании? Не надо](https://kinzhal.media/ne-prodal/) 👤 Кинжал 💬 488 🔖 #career 🗓️ 2025-06-03
 - [Как грамотно написать сопроводительное письмо при отклике на вакансию](https://kinzhal.media/soprovodeal/) 👤 Кинжал 💬 1015 🔖 #career 🗓️ 2025-06-03
@@ -25,6 +29,7 @@
 - [claude-trace](https://simonwillison.net/2025/Jun/2/claude-trace/#atom-everything) 👤 Simon Willison 💬 573 🔖 #llm 🗓️ 2025-06-03
 - [Web Weekly #159](https://www.stefanjudis.com/blog/web-weekly-159/) 👤 stefanjudis.com 💬 1500 🔖 #web 🗓️ 2025-06-03
 - [kdevtmpfsi using the entire CPU](https://stackoverflow.com/questions/60151640/kdevtmpfsi-using-the-entire-cpu?roistat_visit=2575899) 👤 stackoverflow.com 💬 297 🔖 #security 🗓️ 2025-06-03
+- [✋ The 17 biggest mental traps costing software engineers time and growth](https://strategizeyourcareer.com/p/the-17-biggest-mental-traps-costing-software-engineers-time-and-growth) 👤 Fran Soto 💬 1927 🔖 #soft skills 🗓️ 2025-06-02
 - [Сетевой этикет: что это и как его соблюдать](https://kinzhal.media/setevoj-etiket/) 👤 kinzhal.media 💬 1641 🔖 #meetings 🗓️ 2025-06-01
 - [What's up Python? Faster CPython cancelled, a new installer and yet another type checker](https://www.bitecode.dev/p/whats-up-python-faster-cpython-cancelled) 👤 Bite Code 💬 733 🔖 #python 🗓️ 2025-06-01
 - [A quote from Steve Krouse](https://simonwillison.net/2025/May/31/steve-krouse/#atom-everything) 👤 Simon Willison 💬 214 🔖 #fun, #llm 🗓️ 2025-06-01
@@ -72,6 +77,7 @@
     > **Заметка:** Мужик разочаровался в LLM при попытке реализации масштабного проекта на новом языке и с незнакомой технологией. Не удивительно: неверный подход, плюс сразу два незнакомых элемента - при этом основных - в проекте. Так лучше точно не делать. 
 - [ИИ-агенты — вот что действительно изменит разработку. Пишем ИИ-агент на Python, LangChain и GigaChat](https://youtube.com/watch?v=KFgwXXWT7sQ&si=9c1fWb9ps_90PRff) 👤 Диджитализируй! 🔖 #llm, #agents, #langchain, #inspiration 🗓️ 2025-05-19
     > **Заметка:** Интересный и вдохновляющий пример реализации простого агента для решения практической задачи.
+- [Creating a Safari webarchive from the command line](https://alexwlchan.net/2024/creating-a-safari-webarchive/) 👤 alexwlchan.net 💬 2012 🔖 #try, #swift, #inspiration 🗓️ 2025-05-19
 - [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/?utm_source=rss) 👤 alexwlchan.net 💬 3770 🔖 #inspiration 🗓️ 2025-05-19
 - [Diffusion models explained simply](https://seangoedecke.com/diffusion-models-explained/) 👤 seangoedecke.com 💬 1775 🔖 #llm 🗓️ 2025-05-19
     > **Заметка:** «Простое» объяснение всё равно не очень понятное😁
@@ -83,6 +89,8 @@
 - [Manage For Success, Not Comfort](https://terriblesoftware.org/2025/05/16/manage-for-success-not-comfort/) 👤 Terrible Software 💬 580 🔖 #management 🗓️ 2025-05-18
 - [Django Security Best Practices: A Comprehensive Guide for Software Engineers](https://corgea.com/Learn/django-security-best-practices-a-comprehensive-guid-for-software-engineers?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_285) 👤 corgea.com 💬 1030 🔖 #django, #security 🗓️ 2025-05-17
     > **Заметка:** Неплохой чек-лист по обеспечению безопасности Django
+- [How To Launch Big Complex Projects](https://www.smashingmagazine.com/2025/05/how-launch-big-complex-projects/) 👤 Vitaly Friedman 💬 1915 🔖 #management, #development 🗓️ 2025-05-17
+    > **Заметка:** Почитать книгу, должна быть любопытной
 - [What is Testcontainers, and why should you use it?](https://testcontainers.com/guides/introducing-testcontainers/) 👤 Testcontainers 💬 860 🔖 #docker, #testing 🗓️ 2025-05-15
 - [Getting started with Testcontainers for Python](https://testcontainers.com/guides/getting-started-with-testcontainers-for-python/) 👤 Testcontainers 💬 1181 🔖 #docker, #python, #testing 🗓️ 2025-05-15
 - [Am I online?](https://antonz.org/is-online/) 👤 Anton Zhiyanov 💬 532 🗓️ 2025-05-15
@@ -149,6 +157,7 @@
 - [Wicked features](https://seangoedecke.com/wicked-features/) 👤 seangoedecke.com 💬 1022 🔖 #development 🗓️ 2025-04-13
 - [Software engineering under the spotlight](https://seangoedecke.com/the-spotlight/) 👤 seangoedecke.com 💬 1011 🔖 #career 🗓️ 2025-04-13
 - [Мониторинг и Логи ПРОДАКШЕН уровня — Grafana + Loki + Prometheus + Promtail](https://youtube.com/watch?v=2JIyHNskK-c&si=J5StLqxMICnYNDrD) 👤 Артём Шумейко 🔖 #loki, #grafana, #promtail, #prometheus, #observability 🗓️ 2025-04-11
+- [Running Background Tasks from Django Admin with Celery](https://testdriven.io/blog/django-admin-celery/) 👤 Nik Tomazic 💬 2182 🔖 #celery, #django 🗓️ 2025-04-10
 - [That health is mental](https://fasterthanli.me/articles/that-health-is-mental) 👤 Amos Wenger 💬 2017 🗓️ 2025-04-10
 - [Simplify sharing with built-in APIs and progressive enhancement](https://piccalil.li/blog/simplify-sharing-with-built-in-apis-and-progressive-enhancement/) 👤 Piccalilli 💬 2840 🔖 #javascript 🗓️ 2025-04-09
 - [Real-world uses of TypeScript’s utility types](https://piccalil.li/blog/real-world-uses-of-typescripts-utility-types/) 👤 Piccalilli 💬 1525 🔖 #typescript 🗓️ 2025-04-08
@@ -189,6 +198,7 @@
 - [AI is useless, but it's our bets bet for the future](http://antirez.com/news/148) 👤 antirez.com 💬 627 🔖 #llm 🗓️ 2025-03-23
 - [Beware tech career advice from old heads](https://jacobian.org/2025/mar/13/beware-advice-from-old-heads/) 👤 jacobian.org 💬 370 🔖 #career 🗓️ 2025-03-23
 - [How do AIs code as well as they do?](https://davestewart.co.uk/blog/how-ai-writes-code/) 👤 Dave Stewart 💬 2408 🔖 #llm 🗓️ 2025-03-22
+- [«Скрипты и алгоритмы успеха» Радислава Гандапаса — читаем, размышляем, обсуждаем](https://www.youtube.com/watch?v=fzNnzDDfBSc) 👤 Диджитализируй! 🗓️ 2025-03-20
 - [Why Writing Quality Tests Matters More Than Ever](https://alexbunardzic.substack.com/p/why-writing-quality-tests-matters) 👤 Alex Bunardzic 💬 1542 🔖 #llm, #testing 🗓️ 2025-03-20
 - [Not all AI-assisted programming is vibe coding, but vibe coding rocks](https://simonwillison.net/2025/Mar/19/vibe-coding/#atom-everything) 👤 Simon Willison 💬 1436 🗓️ 2025-03-19
 - [Enshittification as a matter of taste](https://daverupert.com/2025/03/enshittification-has-a-flavor/) 👤 Dave Rupert 💬 385 🗓️ 2025-03-19

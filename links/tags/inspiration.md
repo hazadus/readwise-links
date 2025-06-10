@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 73
+- Всего ссылок: 74
 
 ## Ссылки
 
@@ -21,6 +21,8 @@
 - [ИИ-агенты — вот что действительно изменит разработку. Пишем ИИ-агент на Python, LangChain и GigaChat](https://youtube.com/watch?v=KFgwXXWT7sQ&si=9c1fWb9ps_90PRff) 👤 Диджитализируй! 🔖 #llm, #agents, #langchain, #inspiration 🗓️ 2025-05-19
     > **Заметка:** Интересный и вдохновляющий пример реализации простого агента для решения практической задачи.
     > **Резюме:** ИИ-агенты могут значительно изменить процесс разработки, предоставляя новые возможности для автоматизации задач. В видео рассматривается создание ИИ-агента на Python с использованием LangChain и GigaChat для генерации документов. Это облегчает работу, позволяя извлекать и обрабатывать данные из различных источников.
+- [Creating a Safari webarchive from the command line](https://alexwlchan.net/2024/creating-a-safari-webarchive/) 👤 alexwlchan.net 💬 2012 🔖 #try, #swift, #inspiration 🗓️ 2025-05-19
+    > **Резюме:** The author created a script to create Safari webarchives from the command line. The script uses WKWebView and handles error checking for loading web pages. It can be customized with command-line arguments and is available on GitHub.
 - [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/?utm_source=rss) 👤 alexwlchan.net 💬 3770 🔖 #inspiration 🗓️ 2025-05-19
     > **Резюме:** The author creates a personal web archive by manually bookmarking and saving over 2000 web pages, ensuring each page is a complete and high-quality copy. This process allows him to preserve resources that might go offline or change, unlike automated tools that can often miss important content. By building the archive slowly and carefully, he gains confidence in the reliability of his saved pages.
 - [How I create static websites for tiny archives](https://alexwlchan.net/2025/mildly-dynamic-websites/) 👤 alexwlchan.net 💬 5181 🔖 #inspiration 🗓️ 2025-05-14

@@ -1,11 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 27
+- Всего ссылок: 28
 
 ## Ссылки
 
 - [Manage For Success, Not Comfort](https://terriblesoftware.org/2025/05/16/manage-for-success-not-comfort/) 👤 Terrible Software 💬 580 🔖 #management 🗓️ 2025-05-18
     > **Резюме:** New managers often mistakenly think their main job is to make their team happy, but true management is about building effective teams that deliver results. Discomfort and challenges are essential for growth, and focusing solely on happiness can lead to poor performance. Ultimately, successful teams find satisfaction through meaningful accomplishments, not just comfort.
+- [How To Launch Big Complex Projects](https://www.smashingmagazine.com/2025/05/how-launch-big-complex-projects/) 👤 Vitaly Friedman 💬 1915 🔖 #management, #development 🗓️ 2025-05-17
+    > **Заметка:** Почитать книгу, должна быть любопытной
+    > **Резюме:** Launching complex projects often leads to delays and budget overruns, with only 0.5% finishing on time and within budget. To improve success rates, thorough planning and risk management are crucial, including techniques like Reference-Class Forecasting and Event Storming. Focus on understanding user experiences, engage stakeholders early, and always keep the end goal in mind to navigate potential challenges effectively.
 - [Agile умер: из-за своего сострадания к product- и project-менеджерам (с) Фридрих Ницше](https://habr.com/ru/companies/kaiten/articles/876582/) 👤 DavidAsatryan 💬 1927 🔖 #agile, #management 🗓️ 2025-04-24
     > **Резюме:** Agile methodology often leads to chaos because many companies mimic its rituals without understanding its core principles. True Agile requires experience, responsibility, and a focus on results, rather than just following processes. Without proper training and documentation, Agile can become a superficial practice that fails to deliver value.
 - [Making AI Actually Work on Your Team](https://terriblesoftware.org/2025/04/07/making-ai-actually-work-on-your-team/) 👤 Terrible Software 💬 897 🔖 #llm, #management, #development 🗓️ 2025-04-08

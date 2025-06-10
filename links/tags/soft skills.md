@@ -1,11 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [Arguing point-by-point considered harmful](https://seangoedecke.com/point-by-point-considered-harmful/) 👤 seangoedecke.com 💬 1845 🔖 #soft skills, #communication 🗓️ 2025-06-07
+    > **Резюме:** Engineers often argue point-by-point, but this approach can lead to unproductive debates without reaching a decision. Instead of addressing every individual concern, it's better to focus on the main reasons for your position and encourage a discussion about the core issues. Limiting the number of points made can help keep conversations constructive and prevent them from devolving into technical minutiae.
 - [5 мелочей в переписке, за которые вас хочется неистово обнять](https://kinzhal.media/5-small-things/) 👤 Кинжал 💬 404 🔖 #soft skills, #communication 🗓️ 2025-06-03
     > **Резюме:** Статья "5 мелочей в переписке, за которые вас хочется неистово обнять" поднимает важные аспекты этикета в электронных переписках. Одним из ключевых моментов является учёт контекста, такой как время отправки письма или задержка в ответе, чтобы проявить адекватность и внимание к собеседнику. Также подчёркивается важность полного подтверждения договорённостей и удобного формата информационного обмена. Все эти мелочи суммируются в призыве к более внимательному и заботливому общению в цифровой среде.
+- [✋ The 17 biggest mental traps costing software engineers time and growth](https://strategizeyourcareer.com/p/the-17-biggest-mental-traps-costing-software-engineers-time-and-growth) 👤 Fran Soto 💬 1927 🔖 #soft skills 🗓️ 2025-06-02
+    > **Резюме:** Software engineers often face hidden mental traps that hinder their decision-making and growth. The article identifies 17 cognitive biases and logical fallacies that lead to poor estimates, flawed judgments, and resistance to change. By recognizing and addressing these biases, engineers can improve their work and collaboration within teams.
 - [Ваш главный инструмент для переговоров и встреч](https://kinzhal.media/negotiation-tool/) 👤 Максим Ильяхов 💬 956 🔖 #meetings, #soft skills 🗓️ 2025-05-28
     > **Резюме:** Для успешных переговоров используйте простой инструмент: бумажный блокнот и ручку. Это поможет снизить стресс, улучшить внимание и избежать недопонимания. Записывая информацию, вы будете лучше понимать собеседника и сможете эффективно структурировать разговор.
 - [The importance of character in software engineering](https://seangoedecke.com/character-in-software-engineering/) 👤 seangoedecke.com 💬 1052 🔖 #career, #development, #soft skills, #communication 🗓️ 2025-05-10

@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 50
+- Всего ссылок: 51
 
 ## Ссылки
 
@@ -13,6 +13,9 @@
     > **Резюме:** The Agile Manifesto emerged as a response to poor management in software development. While Agile introduced new techniques, it is still vulnerable to the same management issues it was created to address. Many Agile concepts existed long before the Manifesto, highlighting that better software development practices have been around for decades.
 - [Why strong engineers are rarely blocked](https://seangoedecke.com/becoming-unblockable/) 👤 seangoedecke.com 💬 1657 🔖 #career, #development, #time management 🗓️ 2025-05-18
     > **Резюме:** Strong engineers face fewer blocks in their work by using strategies like managing multiple tasks and anticipating potential obstacles. They also know when to ask for help from their management to overcome external blockers. By prioritizing tasks and avoiding unnecessary political fights, they can maintain productivity and keep projects moving forward.
+- [How To Launch Big Complex Projects](https://www.smashingmagazine.com/2025/05/how-launch-big-complex-projects/) 👤 Vitaly Friedman 💬 1915 🔖 #management, #development 🗓️ 2025-05-17
+    > **Заметка:** Почитать книгу, должна быть любопытной
+    > **Резюме:** Launching complex projects often leads to delays and budget overruns, with only 0.5% finishing on time and within budget. To improve success rates, thorough planning and risk management are crucial, including techniques like Reference-Class Forecasting and Event Storming. Focus on understanding user experiences, engage stakeholders early, and always keep the end goal in mind to navigate potential challenges effectively.
 - [The importance of character in software engineering](https://seangoedecke.com/character-in-software-engineering/) 👤 seangoedecke.com 💬 1052 🔖 #career, #development, #soft skills, #communication 🗓️ 2025-05-10
     > **Резюме:** Character is crucial for success in software engineering, yet it is often overlooked in favor of technical skills. Good character traits, like emotional regulation and humility, help engineers handle crises and work effectively with others. Developing these personal qualities can make a software engineer much more effective than just focusing on technical knowledge.
 - [Basic Claude Code](https://harper.blog/2025/05/08/basic-claude-code/) 👤 Harper Reed <harper@modest.com> 💬 1490 🔖 #llm, #development, #inspiration 🗓️ 2025-05-10

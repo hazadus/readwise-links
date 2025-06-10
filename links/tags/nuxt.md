@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 36
+- Всего ссылок: 37
 
 ## Ссылки
 
@@ -10,6 +10,8 @@
     > **Резюме:** I spent weeks scouring the Nuxt docs to uncover hidden gems — features you didn’t know it had, and ones that are simply easy to forget about.
 - [Compressing Images With Vite and Vsharp](https://masteringnuxt.com/blog/compressing-images-with-vite-and-vsharp?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(&utm_medium=email&utm_source=convertkit#214)%20Component%20Metadata,%20Smooth%20Dragging,%20and%20Conditionally%20Rendering%20Slots%20-%2017366125) 👤 masteringnuxt.com 💬 522 🔖 #nuxt, #vite 🗓️ 2025-05-17
     > **Резюме:** This article explains how to speed up web pages in Nuxt by compressing images. It demonstrates how to use the Vite plugin vsharp to automatically optimize images during the build process. By following simple steps, you can ensure your images are smaller and improve page load times.
+- [🔥 (215) Nuxt data fetching re-written: reactive keys, shared refs, and more](mailto:reader-forwarded-email/5624ceac0b93e90686a4b6c7eea5719d) 👤 Michael Thiessen 💬 1602 🔖 #nuxt 🗓️ 2025-05-04
+    > **Резюме:** Nuxt 3.17 introduces significant improvements in data fetching, including reactive keys and shared refs for better performance and memory efficiency. It also features deduped watch calls and granular caching options, allowing for more flexible data management. Additionally, developers can easily switch from the Options API to the Composition API using reactive structures, simplifying the process of code refactoring.
 - [Generating a Dynamic Sitemap in Nuxt 3](https://masteringnuxt.com/blog/generating-a-dynamic-sitemap-in-nuxt-3?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 897 🔖 #nuxt 🗓️ 2025-04-30
     > **Резюме:** This article explains how to create a dynamic sitemap for a Nuxt 3 project, which is important for improving SEO. It covers setting up server routes, discovering pages automatically, and adding URLs while excluding certain paths. By using these techniques, you can build a comprehensive sitemap that helps search engines index your site effectively.
 - [Handling File Uploads in Nuxt with useStorage](https://vueschool.io/articles/vuejs-tutorials/handling-file-uploads-in-nuxt-with-usestorage/?friend=MOKKAPPS) 👤 vueschool.io 💬 942 🔖 #nuxt 🗓️ 2025-04-30
