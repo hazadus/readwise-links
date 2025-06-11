@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 736
+- Всего ссылок: 737
 
 ## Ссылки
 
@@ -31,6 +31,7 @@
 - [kdevtmpfsi using the entire CPU](https://stackoverflow.com/questions/60151640/kdevtmpfsi-using-the-entire-cpu?roistat_visit=2575899) 👤 stackoverflow.com 💬 297 🔖 #security 🗓️ 2025-06-03
 - [✋ The 17 biggest mental traps costing software engineers time and growth](https://strategizeyourcareer.com/p/the-17-biggest-mental-traps-costing-software-engineers-time-and-growth) 👤 Fran Soto 💬 1927 🔖 #soft skills 🗓️ 2025-06-02
 - [Сетевой этикет: что это и как его соблюдать](https://kinzhal.media/setevoj-etiket/) 👤 kinzhal.media 💬 1641 🔖 #meetings 🗓️ 2025-06-01
+- [Why DeepSeek is cheap at scale but expensive to run locally](https://seangoedecke.com/inference-batching-and-deepseek/) 👤 seangoedecke.com 💬 2183 🔖 #llm 🗓️ 2025-06-01
 - [What's up Python? Faster CPython cancelled, a new installer and yet another type checker](https://www.bitecode.dev/p/whats-up-python-faster-cpython-cancelled) 👤 Bite Code 💬 733 🔖 #python 🗓️ 2025-06-01
 - [A quote from Steve Krouse](https://simonwillison.net/2025/May/31/steve-krouse/#atom-everything) 👤 Simon Willison 💬 214 🔖 #fun, #llm 🗓️ 2025-06-01
 - [Every Single Thing I Use Raycast For](https://www.youtube.com/watch?v=kHxgxgNHQR4) 👤 FromSergio 🔖 #try 🗓️ 2025-05-30

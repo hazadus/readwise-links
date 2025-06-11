@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 47
+- Всего ссылок: 46
 
 ## Ссылки
 
@@ -14,8 +14,6 @@
     > **Резюме:** LazyVim is a user-friendly configuration for Neovim that simplifies the setup process and enhances the editing experience. Unlike standard Neovim, which can feel outdated, LazyVim comes with a curated set of modern plugins and configurations. It aims to make coding more efficient while allowing easy customization for developers.
 - [This is perhaps my favorite thing I've built that uses A.I.](https://www.youtube.com/watch?v=d05vNPmIIqc) 👤 Dreams of Code 🔖 #mcp 🗓️ 2025-06-04
     > **Резюме:** The author built a feature on their website that generates formatted blog posts from video transcripts using AI. This process allows them to refine the content and improve the quality quickly, turning hours of work into just minutes. Now, their blog has well-structured posts to accompany their videos, enhancing the overall content experience.
-- [Why DeepSeek is cheap at scale but expensive to run locally](https://seangoedecke.com/inference-batching-and-deepseek/) 👤 seangoedecke.com 💬 2183 🔖 #llm 🗓️ 2025-06-01
-    > **Резюме:** DeepSeek is cheap to run at scale because it uses batching to process many user requests simultaneously, which improves GPU efficiency. However, this batching increases latency since users may have to wait for enough requests to fill a batch before processing begins. Models like DeepSeek-V3 require high batch sizes to keep all parts of the system active and efficient, leading to a tradeoff between higher throughput and longer wait times for users.
 - [PostgreSQL как эффективная база для документных данных](https://youtube.com/watch?v=l8__4kI4zgU&si=FWi3JO7IruJno-N8) 👤 Health Samurai Team 🔖 #postgresql 🗓️ 2025-05-31
     > **Резюме:** PostgreSQL is an effective database for storing document data, allowing for efficient querying and indexing. It supports JSONB for handling complex documents and provides various operators for accessing specific fields. The system can handle large datasets and offers the flexibility to adapt as data grows, making it a robust choice for developers.
 - [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/) 👤 arturdumchev 💬 3317 🗓️ 2025-05-30

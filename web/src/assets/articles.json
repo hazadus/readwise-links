@@ -3036,7 +3036,7 @@
         "author": "seangoedecke.com",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "llm": {
                 "name": "LLM",
@@ -3050,16 +3050,16 @@
         "summary": "DeepSeek is cheap to run at scale because it uses batching to process many user requests simultaneously, which improves GPU efficiency. However, this batching increases latency since users may have to wait for enough requests to fill a batch before processing begins. Models like DeepSeek-V3 require high batch sizes to keep all parts of the system active and efficient, leading to a tradeoff between higher throughput and longer wait times for users.",
         "image_url": null,
         "parent_id": null,
-        "reading_progress": 0.09684719699642615,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2025-06-01",
         "created_at": "2025-06-01T10:24:05.805855+00:00",
-        "updated_at": "2025-06-09T16:25:48.374021+00:00",
+        "updated_at": "2025-06-10T08:44:04.297724+00:00",
         "saved_at": "2025-06-01T10:24:05.787000+00:00",
         "first_opened_at": "2025-06-09T16:24:17.496000+00:00",
-        "last_opened_at": "2025-06-09T16:24:17.496000+00:00",
-        "last_moved_at": "2025-06-01T10:26:31.937000+00:00"
+        "last_opened_at": "2025-06-10T08:42:49.890000+00:00",
+        "last_moved_at": "2025-06-10T08:44:03.610000+00:00"
     },
     {
         "id": "01jwnfb1j2xwm197tvx02g1hrz",
