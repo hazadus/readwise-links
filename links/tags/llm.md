@@ -1,9 +1,19 @@
 # Ссылки
 
-- Всего ссылок: 107
+- Всего ссылок: 112
 
 ## Ссылки
 
+- [Tiny Models, Local Throttles: Exploring My Local AI Dev Setup](https://blog.nilenso.com/blog/2025/05/06/local-llm-setup/) 👤 Nilenso 💬 1589 🔖 #llm 🗓️ 2025-06-11
+    > **Резюме:** The author explores using small, open-source language models on their Macbook for improved daily workflows. They provide a practical guide on integrating local models with tools like Ollama, emphasizing benefits such as privacy and control. The post encourages experimentation with different models to enhance coding and productivity.
+- [Experimenting with Self-Hosted LLMs for Text-to-SQL](https://blog.nilenso.com/blog/2025/05/27/experimenting-with-self-hosted-llms-for-text-to-sql/) 👤 Nilenso 💬 561 🔖 #llm 🗓️ 2025-06-11
+    > **Резюме:** The author experimented with self-hosted LLMs for Text-to-SQL tasks, finding that local models can achieve good accuracy for easy and moderate queries. They utilized a GPU and tools like Ollama to streamline testing and discovered that quantization significantly affects performance and speed. While local LLMs are effective, they still lag behind frontier models, prompting plans for improvements and smarter workflows.
+- [AI-assisted coding for teams that can't get away with vibes](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/) 👤 Nilenso 💬 2128 🔖 #llm, #inspiration 🗓️ 2025-06-11
+    > **Резюме:** AI can greatly enhance the coding process for skilled engineering teams, but it requires careful usage to avoid poor results. Strong software fundamentals and clear communication are essential for maximizing AI's potential in coding. By integrating AI tools effectively, teams can improve their productivity and the quality of their products.
+- [GenAI Criticism and Moral Quandaries](http://lucumr.pocoo.org/2025/6/10/genai-criticism) 👤 Armin Ronacher's Thoughts and Writings 💬 1680 🔖 #llm 🗓️ 2025-06-11
+    > **Резюме:** Armin Ronacher discusses differing perspectives on AI, focusing on its utility for generating text and code. While he finds AI tools to be beneficial and widely adopted, Glyph expresses concerns about negative experiences and forced usage in workplaces. Ronacher believes AI can enhance learning and programming, suggesting that a positive outlook on its future can reduce stress about its rapid advancement.
+- [The first big AI disaster is yet to happen](https://seangoedecke.com/the-first-big-ai-disaster/) 👤 seangoedecke.com 💬 1159 🔖 #llm 🗓️ 2025-06-11
+    > **Резюме:** The first major disaster involving AI language models has not yet occurred, but it could happen through AI agents making harmful decisions without human oversight. Past examples show how automation and AI have already contributed to tragedies, such as public policy failures and user suicides linked to chatbots. As AI technology advances, the potential for serious incidents, including harmful actions by misaligned AI, increases.
 - [The illusion of "The Illusion of Thinking"](https://seangoedecke.com/illusion-of-thinking/) 👤 seangoedecke.com 💬 1836 🔖 #llm 🗓️ 2025-06-08
     > **Резюме:** Apple's paper, "The Illusion of Thinking," argues that reasoning models struggle with complex tasks and often give up when faced with higher difficulties. The author believes that puzzles like the Tower of Hanoi are not effective for testing reasoning abilities and questions the conclusions drawn from the paper. Overall, the critique suggests that reasoning models can still reason but may not perform well in scenarios that require extensive algorithmic steps.
 - [AI interpretability is further along than I thought](https://seangoedecke.com/ai-interpretability/) 👤 seangoedecke.com 💬 1916 🔖 #llm 🗓️ 2025-06-07

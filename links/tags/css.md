@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [Partial Keyframes](https://www.joshwcomeau.com/animation/partial-keyframes/) 👤 Josh W. Comeau 💬 1697 🔖 #css 🗓️ 2025-06-11
+    > **Резюме:** You can create CSS keyframe animations without always defining a starting point, allowing the animation to inherit the element's current state. This technique makes animations more dynamic and flexible, particularly useful for elements with varying opacity. Additionally, you can use CSS variables within keyframe animations to control properties like movement, enhancing their versatility.
 - [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/?utm_source=rss) 👤 alexwlchan.net 💬 3756 🔖 #css, #html 🗓️ 2025-05-26
     > **Заметка:** Автор, конечно, маньяк - столько документов сохранил вручную😰
     > **Резюме:** The author learned about web design by reading two thousand web pages, discovering interesting HTML tags and clever CSS techniques. They found useful elements like <aside> and <mark>, which helped improve their understanding of how to structure content. The article also discusses modern practices like using <link rel="preload> for faster resource loading and the diminishing use of old techniques like conditional comments.

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 74
+- Всего ссылок: 75
 
 ## Ссылки
 
+- [AI-assisted coding for teams that can't get away with vibes](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/) 👤 Nilenso 💬 2128 🔖 #llm, #inspiration 🗓️ 2025-06-11
+    > **Резюме:** AI can greatly enhance the coding process for skilled engineering teams, but it requires careful usage to avoid poor results. Strong software fundamentals and clear communication are essential for maximizing AI's potential in coding. By integrating AI tools effectively, teams can improve their productivity and the quality of their products.
 - [Amp is now available. Here's how I use it.](https://ampcode.com/how-i-use-amp) 👤 ampcode.com 💬 2685 🔖 #llm, #inspiration 🗓️ 2025-06-05
     > **Резюме:** The author shares their experience using an AI agent in VS Code to assist with coding tasks, such as adding features and reviewing code. They emphasize that while the agent can help streamline the coding process, developers still need to provide guidance and context for it to work effectively. Overall, using the agent has changed their approach to programming, making it feel both strange and exciting.
 - [LLMs are mirrors of operator skill](https://ghuntley.com/mirrors/) 👤 Geoffrey Huntley 💬 1471 🔖 #llm, #interview, #inspiration 🗓️ 2025-06-04

@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 737
+- Всего ссылок: 738
 
 ## Ссылки
 
+- [AI-assisted coding for teams that can't get away with vibes](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/) 👤 Nilenso 💬 2128 🔖 #llm, #inspiration 🗓️ 2025-06-11
 - [Вложенность в перечислениях](http://maximilyahov.ru/blog/all/embedded-lists/) 👤 maximilyahov.ru 💬 117 🔖 #writing 🗓️ 2025-06-08
 - [The 2025 State of My Jamstack](https://brainbaking.com/post/2025/06/the-2025-state-of-my-jamstack/) 👤 Brain Baking 💬 967 🗓️ 2025-06-08
 - [The illusion of "The Illusion of Thinking"](https://seangoedecke.com/illusion-of-thinking/) 👤 seangoedecke.com 💬 1836 🔖 #llm 🗓️ 2025-06-08
