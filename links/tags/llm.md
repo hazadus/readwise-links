@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 112
+- Всего ссылок: 113
 
 ## Ссылки
 
+- [Agentic Coding Recommendations](http://lucumr.pocoo.org/2025/6/12/agentic-coding) 👤 Armin Ronacher's Thoughts and Writings 💬 2596 🔖 #llm 🗓️ 2025-06-12
+    > **Резюме:** Armin Ronacher discusses the rise of agentic coding, emphasizing the importance of using simple and efficient tools for AI agents. He recommends using Go for backend projects due to its straightforward nature, which benefits agent performance. Ultimately, the goal is to improve coding productivity while maintaining high-quality and maintainable code.
 - [Tiny Models, Local Throttles: Exploring My Local AI Dev Setup](https://blog.nilenso.com/blog/2025/05/06/local-llm-setup/) 👤 Nilenso 💬 1589 🔖 #llm 🗓️ 2025-06-11
     > **Резюме:** The author explores using small, open-source language models on their Macbook for improved daily workflows. They provide a practical guide on integrating local models with tools like Ollama, emphasizing benefits such as privacy and control. The post encourages experimentation with different models to enhance coding and productivity.
 - [Experimenting with Self-Hosted LLMs for Text-to-SQL](https://blog.nilenso.com/blog/2025/05/27/experimenting-with-self-hosted-llms-for-text-to-sql/) 👤 Nilenso 💬 561 🔖 #llm 🗓️ 2025-06-11
