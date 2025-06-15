@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 46
+- Всего ссылок: 45
 
 ## Ссылки
 
@@ -8,8 +8,6 @@
     > **Резюме:** In the past six months, many significant AI language models have been released, with over 30 worth noting. The key challenge remains evaluating these models to determine which perform best. Notable releases include Meta's Llama 3.3, OpenAI's GPT 4.1, and Google's Gemini models, with various models showing different strengths in tasks like generating images of pelicans on bicycles.
 - [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles) 👤 Atlassian 💬 710 🔖 #git, #try 🗓️ 2025-06-06
     > **Резюме:** This tutorial explains a simple way to store dotfiles using a Git bare repository. It involves creating an alias that allows you to manage your configuration files without interfering with other Git repositories. By following the steps provided, you can easily version and replicate your configurations across different systems.
-- [Amp is now available. Here's how I use it.](https://ampcode.com/how-i-use-amp) 👤 ampcode.com 💬 2685 🔖 #llm, #inspiration 🗓️ 2025-06-05
-    > **Резюме:** The author shares their experience using an AI agent in VS Code to assist with coding tasks, such as adding features and reviewing code. They emphasize that while the agent can help streamline the coding process, developers still need to provide guidance and context for it to work effectively. Overall, using the agent has changed their approach to programming, making it feel both strange and exciting.
 - [LazyVim for Ambitious Developers](https://lazyvim-ambitious-devs.phillips.codes/course/chapter-1/) 👤 lazyvim-ambitious-devs.phillips.codes 💬 3330 🔖 #vim, #book 🗓️ 2025-06-05
     > **Резюме:** LazyVim is a user-friendly configuration for Neovim that simplifies the setup process and enhances the editing experience. Unlike standard Neovim, which can feel outdated, LazyVim comes with a curated set of modern plugins and configurations. It aims to make coding more efficient while allowing easy customization for developers.
 - [This is perhaps my favorite thing I've built that uses A.I.](https://www.youtube.com/watch?v=d05vNPmIIqc) 👤 Dreams of Code 🔖 #mcp 🗓️ 2025-06-04

@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 30
+- Всего ссылок: 31
 
 ## Ссылки
 
 - [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles) 👤 Atlassian 💬 710 🔖 #git, #try 🗓️ 2025-06-06
     > **Резюме:** This tutorial explains a simple way to store dotfiles using a Git bare repository. It involves creating an alias that allows you to manage your configuration files without interfering with other Git repositories. By following the steps provided, you can easily version and replicate your configurations across different systems.
+- [Amp is now available. Here's how I use it.](https://ampcode.com/how-i-use-amp) 👤 ampcode.com 💬 2685 🔖 #llm, #try, #inspiration 🗓️ 2025-06-05
+    > **Резюме:** The author shares their experience using an AI agent in VS Code to assist with coding tasks, such as adding features and reviewing code. They emphasize that while the agent can help streamline the coding process, developers still need to provide guidance and context for it to work effectively. Overall, using the agent has changed their approach to programming, making it feel both strange and exciting.
 - [Every Single Thing I Use Raycast For](https://www.youtube.com/watch?v=kHxgxgNHQR4) 👤 FromSergio 🔖 #try 🗓️ 2025-05-30
     > **Резюме:** Raycast is a powerful Spotlight replacement that helps manage schedules, control smart home devices, and access various apps quickly. It offers many extensions and features, like a calculator and screenshot search, making tasks easier and faster. Raycast is regularly updated, making it a great tool for Mac users looking to streamline their workflow.
 - [Creating a Safari webarchive from the command line](https://alexwlchan.net/2024/creating-a-safari-webarchive/) 👤 alexwlchan.net 💬 2012 🔖 #try, #swift, #inspiration 🗓️ 2025-05-19

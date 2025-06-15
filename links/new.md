@@ -1,9 +1,16 @@
 # Новые ссылки
 
-- Всего ссылок: 799
+- Всего ссылок: 805
 
 ## Ссылки
 
+- [Автоматическая верстка макетов из Figma в Cursor AI с помощью MCP сервера](https://www.youtube.com/watch?v=4_pd7HxgXyg) 👤 ВебКадеми | Юрий Ключевский 🗓️ 2025-06-14
+- [Supercharging Playwright testing with MCP in VSCode + CopilotSupercharging Playwright testing with MCP in VSCode + CopilotSupercharging Playwright testing with MCP in VSCode + Copilot](https://nearform.com/digital-community/supercharging-playwright-testing/) 👤 nearform.com 💬 1191 🗓️ 2025-06-14
+- [More readable happy paths](mailto:reader-forwarded-email/0cd4821f359f3bf43bd7ed8eae3d8a2c) 👤 Jon Calhoun 💬 1827 🗓️ 2025-06-14
+- [the z80 technique reveals the source code for Atlassian's 'rovo' AI assistant](https://ghuntley.com/atlassian-rovo-source-code/) 👤 Geoffrey Huntley 💬 1122 🗓️ 2025-06-14
+- [How to run a task on a schedule on macOS](https://alexwlchan.net/til/2025/macos-launchagent-examples/?utm_source=rss) 👤 alexwlchan.net 💬 351 🗓️ 2025-06-14
+- [Good Engineer/Bad Engineer](https://terriblesoftware.org/2025/06/13/good-engineer-bad-engineer/) 👤 Terrible Software 💬 524 🗓️ 2025-06-14
+- [Get a string representation of a Python traceback with traceback.format_exc()](https://alexwlchan.net/til/2025/get-python-traceback-as-string/?utm_source=rss) 👤 alexwlchan.net 💬 111 🔖 #python 🗓️ 2025-06-14
 - [Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/) 👤 inkandswitch.com 💬 9109 🗓️ 2025-06-12
 - [Creating a macOS App](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app/) 👤 Apple Developer Documentation 💬 1021 🗓️ 2025-06-11
 - [Recreating the bird animation from Swift.org](https://alexwlchan.net/2025/swift-bird-animation/?utm_source=rss) 👤 alexwlchan.net 💬 2741 🗓️ 2025-06-11
@@ -15,7 +22,6 @@
 - [devsimsek's Blog](https://smsk.dev/2025/06/10/am-i-the-only-one-who-isnt-satisfied-with-apples-wwdc-2025/) 👤 smsk.dev 💬 689 🗓️ 2025-06-11
 - [Partial Keyframes](https://www.joshwcomeau.com/animation/partial-keyframes/) 👤 Josh W. Comeau 💬 1697 🔖 #css 🗓️ 2025-06-11
 - [Using `make` to compile C programs (for non-C-programmers)](https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/) 👤 Julia Evans 💬 1739 🗓️ 2025-06-11
-- [GenAI Criticism and Moral Quandaries](http://lucumr.pocoo.org/2025/6/10/genai-criticism) 👤 Armin Ronacher's Thoughts and Writings 💬 1680 🔖 #llm 🗓️ 2025-06-11
 - [Build a Finance Tracker web app in Python using Dash framework [Flask / Plotly / React.js] #python](https://www.youtube.com/watch?v=HyfgJo6Qb64) 👤 BekBrace 🔖 #flask, #react 🗓️ 2025-06-09
 - [Optimizing Django Docker Builds with Astral’s `uv`](https://rob.cogit8.org/posts/optimizing-django-docker-builds-with-astrals-uv/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_288) 👤 Rob Hudson 💬 1417 🔖 #uv, #django, #docker 🗓️ 2025-06-08
 - [Gist of Go: Data races](https://antonz.org/go-concurrency/data-races/) 👤 Anton Zhiyanov 💬 2501 🔖 #go 🗓️ 2025-06-08

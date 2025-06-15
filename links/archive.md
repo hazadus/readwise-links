@@ -1,11 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 740
+- Всего ссылок: 744
 
 ## Ссылки
 
+- [How Vue Composables Work – Explained with Code Examples](https://www.freecodecamp.org/news/how-vue-composables-work/) 👤 freeCodeCamp.org 💬 1767 🔖 #vue 🗓️ 2025-06-14
+- [Say "but yes", not "yes but"](https://seangoedecke.com/but-yes-not-yes-but/) 👤 seangoedecke.com 💬 537 🔖 #soft skills, #communication 🗓️ 2025-06-14
 - [Agentic Coding Recommendations](http://lucumr.pocoo.org/2025/6/12/agentic-coding) 👤 Armin Ronacher's Thoughts and Writings 💬 2596 🔖 #llm 🗓️ 2025-06-12
 - [AI-assisted coding for teams that can't get away with vibes](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/) 👤 Nilenso 💬 2128 🔖 #llm, #inspiration 🗓️ 2025-06-11
+- [GenAI Criticism and Moral Quandaries](http://lucumr.pocoo.org/2025/6/10/genai-criticism) 👤 Armin Ronacher's Thoughts and Writings 💬 1680 🔖 #llm 🗓️ 2025-06-11
 - [The first big AI disaster is yet to happen](https://seangoedecke.com/the-first-big-ai-disaster/) 👤 seangoedecke.com 💬 1159 🔖 #llm 🗓️ 2025-06-11
 - [Вложенность в перечислениях](http://maximilyahov.ru/blog/all/embedded-lists/) 👤 maximilyahov.ru 💬 117 🔖 #writing 🗓️ 2025-06-08
 - [The 2025 State of My Jamstack](https://brainbaking.com/post/2025/06/the-2025-state-of-my-jamstack/) 👤 Brain Baking 💬 967 🗓️ 2025-06-08
@@ -15,6 +18,7 @@
 - [Arguing point-by-point considered harmful](https://seangoedecke.com/point-by-point-considered-harmful/) 👤 seangoedecke.com 💬 1845 🔖 #soft skills, #communication 🗓️ 2025-06-07
 - [Become an AI-augmented engineer](https://maryrosecook.com/blog/post/become-an-ai-augmented-engineer) 👤 maryrosecook.com 💬 665 🔖 #llm 🗓️ 2025-06-05
     > **Заметка:** Матёрая кодерша советует юзать LLM
+- [Amp is now available. Here's how I use it.](https://ampcode.com/how-i-use-amp) 👤 ampcode.com 💬 2685 🔖 #llm, #try, #inspiration 🗓️ 2025-06-05
 - [Rules](https://docs.cursor.com/context/rules) 👤 Cursor 💬 665 🔖 #cursor 🗓️ 2025-06-05
 - [autoregressive queens of failure](https://ghuntley.com/gutter/) 👤 Geoffrey Huntley 💬 552 🔖 #llm 🗓️ 2025-06-05
 - [AI Killed The Tech Interview. Now What?](https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/?ref=ghuntley.com) 👤 Kane Narraway 💬 1241 🔖 #llm, #interview 🗓️ 2025-06-05

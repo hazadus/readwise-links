@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [Say "but yes", not "yes but"](https://seangoedecke.com/but-yes-not-yes-but/) 👤 seangoedecke.com 💬 537 🔖 #soft skills, #communication 🗓️ 2025-06-14
+    > **Резюме:** Instead of saying "yes, but," try saying "but yes" when agreeing with someone. This small change in phrasing can create a more positive tone and improve your communication. Ending on a positive note helps foster a better atmosphere, especially in collaborative environments like software projects.
 - [Arguing point-by-point considered harmful](https://seangoedecke.com/point-by-point-considered-harmful/) 👤 seangoedecke.com 💬 1845 🔖 #soft skills, #communication 🗓️ 2025-06-07
     > **Резюме:** Engineers often argue point-by-point, but this approach can lead to unproductive debates without reaching a decision. Instead of addressing every individual concern, it's better to focus on the main reasons for your position and encourage a discussion about the core issues. Limiting the number of points made can help keep conversations constructive and prevent them from devolving into technical minutiae.
 - [5 мелочей в переписке, за которые вас хочется неистово обнять](https://kinzhal.media/5-small-things/) 👤 Кинжал 💬 404 🔖 #soft skills, #communication 🗓️ 2025-06-03

@@ -27,7 +27,7 @@
 - [Become an AI-augmented engineer](https://maryrosecook.com/blog/post/become-an-ai-augmented-engineer) 👤 maryrosecook.com 💬 665 🔖 #llm 🗓️ 2025-06-05
     > **Заметка:** Матёрая кодерша советует юзать LLM
     > **Резюме:** Using AI can significantly boost your productivity as a programmer. It feels more collaborative and helps you get faster results, like having a partner to brainstorm with. Overall, programming with AI allows you to make bigger strides and feel more confident in your work.
-- [Amp is now available. Here's how I use it.](https://ampcode.com/how-i-use-amp) 👤 ampcode.com 💬 2685 🔖 #llm, #inspiration 🗓️ 2025-06-05
+- [Amp is now available. Here's how I use it.](https://ampcode.com/how-i-use-amp) 👤 ampcode.com 💬 2685 🔖 #llm, #try, #inspiration 🗓️ 2025-06-05
     > **Резюме:** The author shares their experience using an AI agent in VS Code to assist with coding tasks, such as adding features and reviewing code. They emphasize that while the agent can help streamline the coding process, developers still need to provide guidance and context for it to work effectively. Overall, using the agent has changed their approach to programming, making it feel both strange and exciting.
 - [autoregressive queens of failure](https://ghuntley.com/gutter/) 👤 Geoffrey Huntley 💬 552 🔖 #llm 🗓️ 2025-06-05
     > **Резюме:** Autoregressive AI coding assistants can struggle when the context becomes too complicated, leading to incorrect suggestions. This happens because they remember too much unrelated information in their context window, causing confusion. To improve outcomes, it's best to use a new context window for each separate task.

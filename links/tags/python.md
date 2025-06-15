@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 58
+- Всего ссылок: 59
 
 ## Ссылки
 
+- [Get a string representation of a Python traceback with traceback.format_exc()](https://alexwlchan.net/til/2025/get-python-traceback-as-string/?utm_source=rss) 👤 alexwlchan.net 💬 111 🔖 #python 🗓️ 2025-06-14
+    > **Резюме:** You can use `traceback.format_exc()` in Python to get a string of the error traceback when an exception occurs. This string includes helpful details about the error, making it easier to understand what went wrong. It's especially useful for recording errors in databases, so you can easily track failures in data pipelines without searching through logs.
 - [Processing large JSON files in Python without running out of memory](https://pythonspeed.com/articles/json-memory-streaming/) 👤 Itamar Turner-Trauring 💬 1177 🔖 #json, #python 🗓️ 2025-06-05
     > **Резюме:** Processing large JSON files in Python can lead to high memory usage, causing slow performance or crashes. A better approach is to use streaming or chunked processing, which allows you to read and process data one piece at a time without loading the entire file into memory. Libraries like ijson can help with this method, making it more efficient and faster.
 - [Parsing XML Comments with Python](mailto:reader-forwarded-email/ee5fc09dca9b9b4f91b3b2c885c1fccb) 👤 Mike Driscoll from The Python Papers 💬 350 🔖 #xml, #python 🗓️ 2025-06-05

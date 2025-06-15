@@ -30,7 +30,7 @@
     > **Заметка:** Хорошее сравнение двух фреймворков. Анализ целесообразности их применения в разных ситуациях.
     > **Резюме:** Django is a full-stack framework that provides many built-in features, making it beginner-friendly but sometimes rigid. FastAPI focuses on building APIs and requires more choices and configurations, which can be challenging for beginners. Both frameworks have their strengths and weaknesses, so choosing the right one depends on your specific project needs.
 - [Show Django flash messages as toasts with Htmx](https://joshkaramuth.com/blog/django-messages-toast-htmx/) 👤 joshkaramuth.com 💬 866 🔖 #htmx, #django 🗓️ 2025-01-09
-    > **Резюме:** Learn how to display Django messages as user friendly toasts with Htmx
+    > **Резюме:** This guide explains how to display Django messages as user-friendly toast notifications using Htmx. It shows how to set up a template and middleware to render and fetch messages dynamically. Additionally, it provides instructions for customizing the appearance of toasts based on message severity.
 - [Оптимизация запросов в DjangoORM: когда и как использовать Raw SQL](https://habr.com/ru/articles/871638/) 👤 SweetKitt 💬 1571 🔖 #django 🗓️ 2025-01-04
     > **Резюме:** В Django можно использовать сырые SQL-запросы для оптимизации производительности, особенно когда встроенные функции ORM не справляются. Однако это может усложнить отладку, повысить риск SQL-инъекций и отойти от принципов ORM. Использование raw SQL следует применять с осторожностью и только в необходимых случаях.
 - [Avoid Counting in Django Pagination](https://testdriven.io/blog/django-avoid-counting/) 👤 testdriven.io 💬 924 🔖 #django 🗓️ 2024-12-09
