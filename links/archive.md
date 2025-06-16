@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 744
+- Всего ссылок: 745
 
 ## Ссылки
 
+- [Why Generative AI Coding Tools and Agents Do Not Work For Me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me) 👤 Miguel Grinberg 💬 1467 🔖 #llm 🗓️ 2025-06-15
 - [How Vue Composables Work – Explained with Code Examples](https://www.freecodecamp.org/news/how-vue-composables-work/) 👤 freeCodeCamp.org 💬 1767 🔖 #vue 🗓️ 2025-06-14
 - [Say "but yes", not "yes but"](https://seangoedecke.com/but-yes-not-yes-but/) 👤 seangoedecke.com 💬 537 🔖 #soft skills, #communication 🗓️ 2025-06-14
 - [Agentic Coding Recommendations](http://lucumr.pocoo.org/2025/6/12/agentic-coding) 👤 Armin Ronacher's Thoughts and Writings 💬 2596 🔖 #llm 🗓️ 2025-06-12

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [Автоматическая верстка макетов из Figma в Cursor AI с помощью MCP сервера](https://www.youtube.com/watch?v=4_pd7HxgXyg) 👤 ВебКадеми | Юрий Ключевский 🔖 #llm, #mcp 🗓️ 2025-06-14
+    > **Резюме:** В видео Юрий Ключевский показывает, как настроить Figma для автоматической верстки макетов с помощью MCP сервера и Cursor AI. Он объясняет, как создать токен доступа и подключить сервер для работы с графикой и макетами. Также он делится советами по устранению проблем, связанных с загрузкой изображений и настройкой путей для файлов.
 - [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/) 👤 Nilenso 💬 1239 🔖 #mcp 🗓️ 2025-06-11
     > **Резюме:** The Model Context Protocol (MCP) simplifies integration for AI applications by connecting them to various data sources without needing platform-specific code. It allows AI clients to access tools and resources from MCP servers, making data easier to use and understand. While MCP can streamline development, it doesn’t necessarily enhance AI intelligence or product quality on its own.
 - [This is perhaps my favorite thing I've built that uses A.I.](https://www.youtube.com/watch?v=d05vNPmIIqc) 👤 Dreams of Code 🔖 #mcp 🗓️ 2025-06-04

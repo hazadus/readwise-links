@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 113
+- Всего ссылок: 116
 
 ## Ссылки
 
+- [Anthropic: How we built our multi-agent research system](https://simonwillison.net/2025/Jun/14/multi-agent-research-system/#atom-everything) 👤 Simon Willison 💬 1075 🔖 #llm 🗓️ 2025-06-15
+    > **Резюме:** Anthropic's article explains how they built a multi-agent research system, which uses multiple agents to work on tasks simultaneously, improving efficiency and performance. Their system allows subagents to operate in parallel, significantly speeding up research while managing large amounts of information. Despite higher token usage, this approach excels for complex tasks where quick, comprehensive results are valuable.
+- [Why Generative AI Coding Tools and Agents Do Not Work For Me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me) 👤 Miguel Grinberg 💬 1467 🔖 #llm 🗓️ 2025-06-15
+    > **Резюме:** Miguel Grinberg shares his thoughts on why generative AI coding tools don't work for him. He finds that reviewing AI-generated code takes as much time as writing his own, making it not a time-saver. He values quality and responsibility over speed, believing that AI tools compromise these standards.
+- [Автоматическая верстка макетов из Figma в Cursor AI с помощью MCP сервера](https://www.youtube.com/watch?v=4_pd7HxgXyg) 👤 ВебКадеми | Юрий Ключевский 🔖 #llm, #mcp 🗓️ 2025-06-14
+    > **Резюме:** В видео Юрий Ключевский показывает, как настроить Figma для автоматической верстки макетов с помощью MCP сервера и Cursor AI. Он объясняет, как создать токен доступа и подключить сервер для работы с графикой и макетами. Также он делится советами по устранению проблем, связанных с загрузкой изображений и настройкой путей для файлов.
 - [Agentic Coding Recommendations](http://lucumr.pocoo.org/2025/6/12/agentic-coding) 👤 Armin Ronacher's Thoughts and Writings 💬 2596 🔖 #llm 🗓️ 2025-06-12
     > **Резюме:** Armin Ronacher discusses the rise of agentic coding, emphasizing the importance of using simple and efficient tools for AI agents. He recommends using Go for backend projects due to its straightforward nature, which benefits agent performance. Ultimately, the goal is to improve coding productivity while maintaining high-quality and maintainable code.
 - [Tiny Models, Local Throttles: Exploring My Local AI Dev Setup](https://blog.nilenso.com/blog/2025/05/06/local-llm-setup/) 👤 Nilenso 💬 1589 🔖 #llm 🗓️ 2025-06-11

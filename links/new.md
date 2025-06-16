@@ -1,10 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 805
+- Всего ссылок: 806
 
 ## Ссылки
 
-- [Автоматическая верстка макетов из Figma в Cursor AI с помощью MCP сервера](https://www.youtube.com/watch?v=4_pd7HxgXyg) 👤 ВебКадеми | Юрий Ключевский 🗓️ 2025-06-14
+- [Anthropic: How we built our multi-agent research system](https://simonwillison.net/2025/Jun/14/multi-agent-research-system/#atom-everything) 👤 Simon Willison 💬 1075 🔖 #llm 🗓️ 2025-06-15
+- [Автоматическая верстка макетов из Figma в Cursor AI с помощью MCP сервера](https://www.youtube.com/watch?v=4_pd7HxgXyg) 👤 ВебКадеми | Юрий Ключевский 🔖 #llm, #mcp 🗓️ 2025-06-14
 - [Supercharging Playwright testing with MCP in VSCode + CopilotSupercharging Playwright testing with MCP in VSCode + CopilotSupercharging Playwright testing with MCP in VSCode + Copilot](https://nearform.com/digital-community/supercharging-playwright-testing/) 👤 nearform.com 💬 1191 🗓️ 2025-06-14
 - [More readable happy paths](mailto:reader-forwarded-email/0cd4821f359f3bf43bd7ed8eae3d8a2c) 👤 Jon Calhoun 💬 1827 🗓️ 2025-06-14
 - [the z80 technique reveals the source code for Atlassian's 'rovo' AI assistant](https://ghuntley.com/atlassian-rovo-source-code/) 👤 Geoffrey Huntley 💬 1122 🗓️ 2025-06-14
