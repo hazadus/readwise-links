@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 51
+- Всего ссылок: 52
 
 ## Ссылки
 
+- [Good Engineer/Bad Engineer](https://terriblesoftware.org/2025/06/13/good-engineer-bad-engineer/) 👤 Terrible Software 💬 524 🔖 #career, #development, #inspiration, #soft skills 🗓️ 2025-06-14
+    > **Резюме:** Good engineers focus on delivering value and solving problems, while bad engineers get lost in complexity and personal achievements. They prioritize collaboration and learning over isolated perfectionism, and they know when to say no to maintain focus. Ultimately, effectiveness comes from making progress, not from striving for perfection.
 - [It's not your codebase](https://seangoedecke.com/not-your-codebase/) 👤 seangoedecke.com 💬 1087 🔖 #development 🗓️ 2025-05-30
     > **Резюме:** Engineers often feel a strong ownership over their code, but it's important to remember that the codebase belongs to the company. While engineers should communicate risks, they must ultimately let managers make decisions about the code. Embracing this perspective can improve collaboration and align efforts with the company's goals.
 - [Duplication Is Not the Enemy](https://terriblesoftware.org/2025/05/28/duplication-is-not-the-enemy/) 👤 Terrible Software 💬 971 🔖 #principles, #development 🗓️ 2025-05-28

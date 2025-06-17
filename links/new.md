@@ -1,28 +1,18 @@
 # Новые ссылки
 
-- Всего ссылок: 806
+- Всего ссылок: 798
 
 ## Ссылки
 
-- [Anthropic: How we built our multi-agent research system](https://simonwillison.net/2025/Jun/14/multi-agent-research-system/#atom-everything) 👤 Simon Willison 💬 1075 🔖 #llm 🗓️ 2025-06-15
-- [Автоматическая верстка макетов из Figma в Cursor AI с помощью MCP сервера](https://www.youtube.com/watch?v=4_pd7HxgXyg) 👤 ВебКадеми | Юрий Ключевский 🔖 #llm, #mcp 🗓️ 2025-06-14
+- [Inside The Bubble • The Applied Go Weekly Newsletter 2025-06-15](https://newsletter.appliedgo.net/archive/2025-06-15-inside-the-bubble/) 👤 The Applied Go Weekly Newsletter 💬 2190 🔖 #go 🗓️ 2025-06-16
+- [Gist of Go: Race conditions](https://antonz.org/go-concurrency/race-conditions/) 👤 Anton Zhiyanov 💬 4381 🔖 #go 🗓️ 2025-06-16
+- [Writing Load Balancer From Scratch In 250 Line of Code](https://beyondthesyntax.substack.com/p/writing-load-balancer-from-scratch) 👤 Sushant Dhiman 💬 1745 🔖 #go, #diy 🗓️ 2025-06-16
 - [Supercharging Playwright testing with MCP in VSCode + CopilotSupercharging Playwright testing with MCP in VSCode + CopilotSupercharging Playwright testing with MCP in VSCode + Copilot](https://nearform.com/digital-community/supercharging-playwright-testing/) 👤 nearform.com 💬 1191 🗓️ 2025-06-14
 - [More readable happy paths](mailto:reader-forwarded-email/0cd4821f359f3bf43bd7ed8eae3d8a2c) 👤 Jon Calhoun 💬 1827 🗓️ 2025-06-14
 - [the z80 technique reveals the source code for Atlassian's 'rovo' AI assistant](https://ghuntley.com/atlassian-rovo-source-code/) 👤 Geoffrey Huntley 💬 1122 🗓️ 2025-06-14
-- [How to run a task on a schedule on macOS](https://alexwlchan.net/til/2025/macos-launchagent-examples/?utm_source=rss) 👤 alexwlchan.net 💬 351 🗓️ 2025-06-14
-- [Good Engineer/Bad Engineer](https://terriblesoftware.org/2025/06/13/good-engineer-bad-engineer/) 👤 Terrible Software 💬 524 🗓️ 2025-06-14
-- [Get a string representation of a Python traceback with traceback.format_exc()](https://alexwlchan.net/til/2025/get-python-traceback-as-string/?utm_source=rss) 👤 alexwlchan.net 💬 111 🔖 #python 🗓️ 2025-06-14
 - [Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/) 👤 inkandswitch.com 💬 9109 🗓️ 2025-06-12
-- [Creating a macOS App](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app/) 👤 Apple Developer Documentation 💬 1021 🗓️ 2025-06-11
 - [Recreating the bird animation from Swift.org](https://alexwlchan.net/2025/swift-bird-animation/?utm_source=rss) 👤 alexwlchan.net 💬 2741 🗓️ 2025-06-11
-- [Thoughts on tldraw computer](https://blog.nilenso.com/blog/2024/12/30/thought-on-tldraw-computer/) 👤 blog.nilenso.com 💬 372 🗓️ 2025-06-11
-- [My GenAI workflow for building a voice assistant](https://blog.nilenso.com/blog/2025/01/30/my-genai-workflow-for-building-a-voice-assistant/) 👤 blog.nilenso.com 💬 877 🗓️ 2025-06-11
-- [Tiny Models, Local Throttles: Exploring My Local AI Dev Setup](https://blog.nilenso.com/blog/2025/05/06/local-llm-setup/) 👤 Nilenso 💬 1589 🔖 #llm 🗓️ 2025-06-11
-- [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/) 👤 Nilenso 💬 1239 🔖 #mcp 🗓️ 2025-06-11
-- [Experimenting with Self-Hosted LLMs for Text-to-SQL](https://blog.nilenso.com/blog/2025/05/27/experimenting-with-self-hosted-llms-for-text-to-sql/) 👤 Nilenso 💬 561 🔖 #llm 🗓️ 2025-06-11
-- [devsimsek's Blog](https://smsk.dev/2025/06/10/am-i-the-only-one-who-isnt-satisfied-with-apples-wwdc-2025/) 👤 smsk.dev 💬 689 🗓️ 2025-06-11
 - [Partial Keyframes](https://www.joshwcomeau.com/animation/partial-keyframes/) 👤 Josh W. Comeau 💬 1697 🔖 #css 🗓️ 2025-06-11
-- [Using `make` to compile C programs (for non-C-programmers)](https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/) 👤 Julia Evans 💬 1739 🗓️ 2025-06-11
 - [Build a Finance Tracker web app in Python using Dash framework [Flask / Plotly / React.js] #python](https://www.youtube.com/watch?v=HyfgJo6Qb64) 👤 BekBrace 🔖 #flask, #react 🗓️ 2025-06-09
 - [Optimizing Django Docker Builds with Astral’s `uv`](https://rob.cogit8.org/posts/optimizing-django-docker-builds-with-astrals-uv/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_288) 👤 Rob Hudson 💬 1417 🔖 #uv, #django, #docker 🗓️ 2025-06-08
 - [Gist of Go: Data races](https://antonz.org/go-concurrency/data-races/) 👤 Anton Zhiyanov 💬 2501 🔖 #go 🗓️ 2025-06-08
@@ -136,6 +126,7 @@
 - [And "Suddenly", Everything Was Faster • The Applied Go Weekly Newsletter 2025-03-09](https://newsletter.appliedgo.net/archive/2025-03-09-and-suddenly-everything-was-faster/) 👤 The Applied Go Weekly Newsletter 💬 2153 🗓️ 2025-03-09
 - [How to manage tool dependencies in Go 1.24+](https://www.alexedwards.net/blog/how-to-manage-tool-dependencies-in-go-1.24-plus) 👤 Alex Edwards 💬 1224 🔖 #go 🗓️ 2025-03-08
 - [How to Deploy Selectively to Production](https://www.caktusgroup.com/blog/2025/03/04/how-deploy-selectively-production/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_275) 👤 Tobias McNulty 💬 495 🔖 #git 🗓️ 2025-03-08
+- [The Repository pattern: a painless way to simplify your Go service logic](https://threedots.tech/post/repository-pattern-in-go/) 👤 Robert Laszczak 💬 4186 🔖 #go 🗓️ 2025-03-07
 - [monolith](https://simonwillison.net/2025/Mar/6/monolith/#atom-everything) 👤 Simon Willison 💬 148 🗓️ 2025-03-07
 - [Rust Learning Resources 2025](https://corrode.dev/blog/rust-learning-resources-2025/) 👤 Corrode Rust Consulting 💬 970 🔖 #rust 🗓️ 2025-03-07
 - [From unique to cleanups and weak: new low-level tools for efficiency](https://go.dev/blog/cleanups-and-weak) 👤 Michael Knyszek 💬 2286 🔖 #go 🗓️ 2025-03-07
@@ -163,6 +154,7 @@
 - [C++, Go, and Rust gaining popularity – Tiobe](https://www.infoworld.com/article/3821294/c-go-and-rust-gaining-popularity-tiobe.html?utm_medium=erik.in&utm_source=mastodon) 👤 Matthew Tyson 💬 421 🗓️ 2025-02-13
 - [GoTH Stack - Go, HTMX and Templ for interactive apps!](https://www.youtube.com/watch?v=mzR0BcKg2cI) 👤 BugBytes 🔖 #go, #htmx 🗓️ 2025-02-13
 - [The Most Admired Web Framework](https://www.youtube.com/watch?v=RNMwz5n1M80) 👤 Code to the Moon 🔖 #elixir 🗓️ 2025-02-12
+- [OpenTelemetry: A Guide to Observability with Go](https://www.lucavall.in/blog/opentelemetry-a-guide-to-observability-with-go) 👤 Luca Cavallin 💬 3203 🔖 #go, #observability 🗓️ 2025-02-10
 - [If You Can Name It, You Can Tame It • The Applied Go Weekly Newsletter 2025-02-09](https://newsletter.appliedgo.net/archive/if-you-can-name-it-you-can-tame-it/) 👤 The Applied Go Weekly Newsletter 💬 2142 🔖 #go 🗓️ 2025-02-10
 - [DevOps with Dhawos](https://dhawos.dev/site/en/articles/bluesky-custom-feeds) 👤 dhawos.dev 💬 3448 🔖 #go, #bluesky 🗓️ 2025-02-09
 - [How to Set Up Documentation as Code with Docusaurus and GitHub Actions](https://www.freecodecamp.org/news/set-up-docs-as-code-with-docusaurus-and-github-actions/) 👤 freeCodeCamp.org 💬 2140 🗓️ 2025-02-06
@@ -190,7 +182,7 @@
 - [Rust vs Zig Showdown (HTMX Webapp)](https://www.youtube.com/watch?v=hWaaG9sN_Z8) 👤 Code to the Moon 🔖 #rust 🗓️ 2025-01-26
 - [Design Patterns in Golang: A Comprehensive Guide](https://dev.to/coolwednesday/design-patterns-in-golang-a-comprehensive-guide-560i) 👤 DEV Community 💬 961 🔖 #go 🗓️ 2025-01-23
 - [Pytest is fast](https://blog.ploeh.dk/2024/12/30/pytest-is-fast/) 👤 Mark Seemann 💬 2420 🗓️ 2025-01-22
-- [The Creative Programmer](private://read/01jj68ssvdy8mxzpk3agzk3tmc) 👤 Wouter Groeneveld 💬 89688 🗓️ 2025-01-22
+- [The Creative Programmer](private://read/01jj68ssvdy8mxzpk3agzk3tmc) 👤 Wouter Groeneveld 💬 101467 🗓️ 2025-01-22
 - [Exploring Error Handling Patterns in Go](https://8thlight.com/insights/exploring-error-handling-patterns-in-go) 👤 8th Light 💬 2228 🔖 #go 🗓️ 2025-01-22
 - [Classic Design Patterns: Where Are They Now - Brandon Rhodes - code::dive 2022](https://youtube.com/watch?v=pGq7Cr2ekVM&si=ARRcbfsR-N_w9nD2) 👤 code::dive conference 🗓️ 2025-01-21
     > **Заметка:** Recommended by Adam Johnson
@@ -329,7 +321,7 @@ UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 
 - [When to Use useState in Nuxt](https://mokkapps.de/blog/when-to-use-use-state-in-nuxt) 👤 mokkapps.de 💬 449 🔖 #nuxt 🗓️ 2024-12-06
 - [Django: fix a view using a debugger with breakpoint()](https://adamj.eu/tech/2024/11/26/django-fix-view-using-pdb/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_261) 👤 adamj.eu 💬 684 🔖 #django 🗓️ 2024-12-05
 - [The Practical Guide to Scaling Django](https://slimsaas.com/blog/django-scaling-performance/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_261) 👤 Startup Kit 💬 583 🔖 #django 🗓️ 2024-12-05
-- [Peopleware: Productive Projects and Teams, Third Edition](private://read/01jeayy7m4187c7he20ye40bq0) 👤 Tom DeMarco 💬 74365 🗓️ 2024-12-05
+- [Peopleware: Productive Projects and Teams, Third Edition](private://read/01jeayy7m4187c7he20ye40bq0) 👤 Tom DeMarco 💬 80023 🗓️ 2024-12-05
     > **Заметка:** Рекомендовано автором книги "Мама, я тимлид".
 - [Generics in Go](https://bitfieldconsulting.com/posts/generics) 👤 Bitfield Consulting 💬 45 🔖 #go 🗓️ 2024-12-04
 - [База по оптимизации PostgreSQL: схема, индексы, чтение EXPLAIN, методы доступа и соединения, тюнинг](https://www.youtube.com/watch?v=gA3A_epB3So) 👤 Диджитализируй! 🔖 #postgresql 🗓️ 2024-12-04
@@ -360,9 +352,9 @@ UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 
 - [I18n in Go: Managing Translations](https://www.alexedwards.net/blog/i18n-managing-translations) 👤 Alex Edwards 💬 5780 🔖 #go 🗓️ 2024-11-24
 - [A Complete Guide to Working With Cookies in Go](https://www.alexedwards.net/blog/working-with-cookies-in-go) 👤 Alex Edwards 💬 4215 🔖 #go 🗓️ 2024-11-24
 - [Using PostgreSQL JSONB with Go](https://www.alexedwards.net/blog/using-postgresql-jsonb) 👤 Alex Edwards 💬 1234 🔖 #db, #go, #postgresql 🗓️ 2024-11-24
-- [The Science of the Big Bang Theory](private://read/01jddehrpj1rycvqa9zspgrp9p) 👤 Mark Brake 💬 60568 🗓️ 2024-11-23
-- [Science of TV’s the Big Bang Theory, The](private://read/01jddehfjpq5k22sdjv0ekvk1q) 👤 Zobel Dave 💬 94676 🗓️ 2024-11-23
-- [The Big Bang Theory](private://read/01jddeh4sd4h85jrrkm2bkzv3c) 👤 Jessica Radloff 💬 186948 🗓️ 2024-11-23
+- [The Science of the Big Bang Theory](private://read/01jddehrpj1rycvqa9zspgrp9p) 👤 Mark Brake 💬 67840 🗓️ 2024-11-23
+- [Science of TV’s the Big Bang Theory, The](private://read/01jddehfjpq5k22sdjv0ekvk1q) 👤 Zobel Dave 💬 98348 🗓️ 2024-11-23
+- [The Big Bang Theory](private://read/01jddeh4sd4h85jrrkm2bkzv3c) 👤 Jessica Radloff 💬 220073 🗓️ 2024-11-23
 - [The Big Bang Theory - Wikipedia](https://en.wikipedia.org/wiki/The_Big_Bang_Theory) 👤 wikipedia.org 💬 15571 🗓️ 2024-11-23
 - [Learning Go](http://library.hazadus.ru/media/books/Jon_Bodner_-_Learning_Go__An_Idiomatic_Approach_to_Real-World_Go_Programming-OReilly_2021.pdf) 👤 Bodner, Jon;  💬 103495 🔖 #go, #book 🗓️ 2024-02-19
 - [О переменных среды](https://grishaev.me/env-trap/) 👤 grishaev.me 💬 439 🗓️ 2024-11-22
@@ -394,7 +386,7 @@ UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 
 - [My 2024 thoughts on the state of social media](https://martinfowler.com/articles/2024-social-media.html) 👤 Martin Fowler 💬 1625 🗓️ 2024-11-14
 - [Controlling When Components are Loaded in Nuxt](https://masteringnuxt.com/blog/controlling-when-components-are-loaded-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(&utm_medium=email&utm_source=convertkit#191)%20Nested%20ref%20properties,%20mock%20API%20routes,%20and%20more%20-%2015628767) 👤 masteringnuxt.com 💬 800 🔖 #nuxt 🗓️ 2024-11-14
 - [What Are Python Wheels and Why Should You Care?](https://realpython.com/python-wheels/) 👤 Brad Solomon 💬 7110 🗓️ 2024-11-14
-- [The 4-Hour Workweek: Escape 9–5, Live Anywhere, and Join the New Rich - Expanded and Updated](private://read/01jckkk63f4zwzs647jzrjktsb) 👤 Timothy Ferriss 💬 106230 🗓️ 2024-11-13
+- [The 4-Hour Workweek: Escape 9–5, Live Anywhere, and Join the New Rich - Expanded and Updated](private://read/01jckkk63f4zwzs647jzrjktsb) 👤 Timothy Ferriss 💬 208003 🗓️ 2024-11-13
 - [Phoenix LiveView for web developers who don't know Elixir.](https://youtube.com/watch?v=U_Pe8Ru06fM&si=7fEmpzFHkkXXvyy2) 👤 knowthen 🔖 #elixir 🗓️ 2024-11-13
 - [Functional Programming with Elixir – Full Course](https://youtube.com/watch?v=IiIgm_yaoOA&si=yBeVYXse7XlEAkod) 👤 freeCodeCamp.org 🔖 #elixir 🗓️ 2024-11-13
 - [How to Build a Dropbox-like Distributed File Storage System Using MinIO and gRPC](https://www.freecodecamp.org/news/how-to-build-a-dropbox-like-distributed-file-storage-system-using-minio-and-grpc/) 👤 freeCodeCamp.org 💬 1077 🗓️ 2024-11-13
@@ -407,13 +399,13 @@ UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 
 - [Beej's Guide to Unix Interprocess Communication](https://beej.us/guide/bgipc/) 👤 beej.us 💬 82 🗓️ 2024-11-13
 - [How to Build a Second Brain – Part 2](https://illustrated.dev/secondbrain2) 👤 illustrated.dev 💬 178 🗓️ 2024-11-11
 - [Bitfield Consulting](https://bitfieldconsulting.com/posts/tao-of-go) 👤 Bitfield Consulting 💬 8 🔖 #go 🗓️ 2024-11-10
-- [Код. Тайный язык информатики](private://read/01jcbv20dveewq9fmgyq6145zm) 👤 Чарльз Петцольд 💬 95302 🗓️ 2024-11-10
+- [Код. Тайный язык информатики](private://read/01jcbv20dveewq9fmgyq6145zm) 👤 Чарльз Петцольд 💬 187643 🗓️ 2024-11-10
 - [Потерял работу, завалил 10 собесов, но выжил — история мидл разработчика | GoGetPodcast №13](https://www.youtube.com/watch?v=0GnTXKF1X-8) 👤 Николай Тузов — Golang 🗓️ 2024-11-10
 - [New microblog with TILs](https://jvns.ca/blog/2024/11/09/new-microblog/) 👤 Julia Evans 💬 508 🗓️ 2024-11-10
 - [How to Use WebCurate to Discover Helpful Developer Tools](https://www.freecodecamp.org/news/how-to-use-webcurate-to-discover-helpful-developer-tools/) 👤 David Jaja 💬 1398 🗓️ 2024-11-10
 - [How to Fuzz Test Golang HTTP Services](https://www.freecodecamp.org/news/how-to-fuzz-test-golang-http-services/) 👤 freeCodeCamp.org 💬 1547 🔖 #go, #testing 🗓️ 2024-11-07
 - [Journaling Workflow for Appending to Daily Notes with QuickAdd (VIDEO)](https://thesweetsetup.com/journaling-workflow-for-appending-to-daily-notes-with-quickadd-video/) 👤 Mike Schmitz 💬 731 🗓️ 2024-11-06
-- [Deep Work](private://read/01jc0gfq12a0849rk3x2q2h5dg) 👤 Cal Newport 💬 73426 🗓️ 2024-11-06
+- [Deep Work](private://read/01jc0gfq12a0849rk3x2q2h5dg) 👤 Cal Newport 💬 79811 🗓️ 2024-11-06
 - [Parsing Custom Markdown with Go](mailto:reader-forwarded-email/5797974aa263466e38a8af5c8cd6636d) 👤 Jon Calhoun 💬 293 🗓️ 2024-11-06
 - [Improving the main function](mailto:reader-forwarded-email/9c543cfbabd494a29de9eb2384ac5f82) 👤 Jon Calhoun 💬 548 🗓️ 2024-11-06
 - [Testing API libraries in Go](mailto:reader-forwarded-email/99564c967e771eacae74b0d4ee726eff) 👤 Jon Calhoun 💬 509 🗓️ 2024-11-05

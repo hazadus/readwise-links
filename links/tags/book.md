@@ -27,7 +27,7 @@
 - [Effective Go Recipes](https://readwise.io/reader/document_raw_content/241135476) 👤 Miki Tebeka; 💬 49579 🔖 #go, #book 🗓️ 2024-11-27
     > **Резюме:** "Effective Go Recipes" by Miki Tebeka is a practical guide for both new and experienced Go developers, offering solutions to common programming tasks. The book emphasizes using idiomatic Go practices, such as the importance of I/O interfaces and concurrency with goroutines and channels. It includes 25 short programs designed to challenge readers and improve their understanding of Go, making it a valuable resource for anyone working with the language.
 - [Learning Go](http://library.hazadus.ru/media/books/Jon_Bodner_-_Learning_Go__An_Idiomatic_Approach_to_Real-World_Go_Programming-OReilly_2021.pdf) 👤 Bodner, Jon;  💬 103495 🔖 #go, #book 🗓️ 2024-02-19
-- [Atomic Habits: Tiny Changes, Remarkable Results](private://read/01jd26n73z9d88wgkcm81ndn08) 👤 James Clear 💬 78972 🔖 #book, #outline, #productivity 🗓️ 2024-11-19
+- [Atomic Habits: Tiny Changes, Remarkable Results](private://read/01jd26n73z9d88wgkcm81ndn08) 👤 James Clear 💬 86898 🔖 #book, #outline, #productivity 🗓️ 2024-11-19
     > **Резюме:** "Atomic Habits" by James Clear offers a practical guide for building lasting habits. It explains how small changes can lead to significant improvements over time. The book provides tools to make habits obvious, attractive, easy, and satisfying for better self-improvement.
 - [Книга "Мониторинг PostgreSQL"](https://postgrespro.ru/education/books/monitoring) 👤 postgrespro.ru 💬 165 🔖 #book, #postgresql 🗓️ 2024-01-25
     > **Резюме:** Postgres Professional - российская компания, разработчик систем управления базами данных

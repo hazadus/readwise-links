@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 21
+- Всего ссылок: 23
 
 ## Ссылки
 
+- [Writing Load Balancer From Scratch In 250 Line of Code](https://beyondthesyntax.substack.com/p/writing-load-balancer-from-scratch) 👤 Sushant Dhiman 💬 1745 🔖 #go, #diy 🗓️ 2025-06-16
+    > **Резюме:** This post explains how to build a simple load balancer in 250 lines of code. A load balancer evenly distributes incoming requests across multiple server instances to improve performance and reliability. The author focuses on implementing the Round Robin strategy, where requests are sent to servers in a circular order, and plans to cover health checking in a future post.
+- [How to Build an Agent](https://ampcode.com/how-to-build-an-agent) 👤 ampcode.com 💬 5486 🔖 #go, #diy, #llm, #agents 🗓️ 2025-06-05
+    > **Резюме:** This text explains how to create a simple command-line chatbot that interacts with an AI named Claude using Go code. The chatbot can read files and list directory contents, responding to user prompts. Additionally, it can be expanded to include more tools, such as the ability to edit files.
 - [Build a Database in 3000 Lines with 0 Dependencies](https://build-your-own.org/blog/20251015_db_in_3000/) 👤 James Smith 💬 1185 🔖 #diy 🗓️ 2025-01-18
     > **Резюме:** James Smith explains how to build a simple database in 3000 lines of code with no dependencies, focusing on core concepts like power-loss atomicity and data structures. He emphasizes that by breaking down complex systems into manageable parts, programmers can learn essential ideas without getting overwhelmed. The process is detailed in his book, which is available online for free, encouraging others to try building their own databases.
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/) 👤 jse.li 💬 3750 🔖 #go, #diy 🗓️ 2024-12-04

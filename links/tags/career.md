@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 42
+- Всего ссылок: 43
 
 ## Ссылки
 
+- [Good Engineer/Bad Engineer](https://terriblesoftware.org/2025/06/13/good-engineer-bad-engineer/) 👤 Terrible Software 💬 524 🔖 #career, #development, #inspiration, #soft skills 🗓️ 2025-06-14
+    > **Резюме:** Good engineers focus on delivering value and solving problems, while bad engineers get lost in complexity and personal achievements. They prioritize collaboration and learning over isolated perfectionism, and they know when to say no to maintain focus. Ultimately, effectiveness comes from making progress, not from striving for perfection.
 - [Продаёте себя на собеседовании? Не надо](https://kinzhal.media/ne-prodal/) 👤 Кинжал 💬 488 🔖 #career 🗓️ 2025-06-03
     > **Резюме:** Ибрагим пытается произвести впечатление на работодателя, преувеличивая свои достижения в резюме. Однако такая "продажа себя" приводит к тому, что он оказывается не готов к реальным задачам на работе. Вместо этого лучше сосредоточиться на том, что нужно работодателю и как можно помочь в решении его задач.
 - [Как грамотно написать сопроводительное письмо при отклике на вакансию](https://kinzhal.media/soprovodeal/) 👤 Кинжал 💬 1015 🔖 #career 🗓️ 2025-06-03

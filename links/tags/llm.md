@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 116
+- Всего ссылок: 117
 
 ## Ссылки
 
@@ -12,7 +12,9 @@
     > **Резюме:** В видео Юрий Ключевский показывает, как настроить Figma для автоматической верстки макетов с помощью MCP сервера и Cursor AI. Он объясняет, как создать токен доступа и подключить сервер для работы с графикой и макетами. Также он делится советами по устранению проблем, связанных с загрузкой изображений и настройкой путей для файлов.
 - [Agentic Coding Recommendations](http://lucumr.pocoo.org/2025/6/12/agentic-coding) 👤 Armin Ronacher's Thoughts and Writings 💬 2596 🔖 #llm 🗓️ 2025-06-12
     > **Резюме:** Armin Ronacher discusses the rise of agentic coding, emphasizing the importance of using simple and efficient tools for AI agents. He recommends using Go for backend projects due to its straightforward nature, which benefits agent performance. Ultimately, the goal is to improve coding productivity while maintaining high-quality and maintainable code.
-- [Tiny Models, Local Throttles: Exploring My Local AI Dev Setup](https://blog.nilenso.com/blog/2025/05/06/local-llm-setup/) 👤 Nilenso 💬 1589 🔖 #llm 🗓️ 2025-06-11
+- [My GenAI workflow for building a voice assistant](https://blog.nilenso.com/blog/2025/01/30/my-genai-workflow-for-building-a-voice-assistant/) 👤 blog.nilenso.com 💬 877 🔖 #llm 🗓️ 2025-06-11
+    > **Резюме:** The author shares their experience building a Flutter app for a ChatGPT-driven voice assistant while learning app development with GenAI tools. They emphasize the importance of understanding basic concepts, setting up a project structure, and following best practices to make coding easier. The article offers tips for debugging and tracking progress using Git throughout the development process.
+- [Tiny Models, Local Throttles: Exploring My Local AI Dev Setup](https://blog.nilenso.com/blog/2025/05/06/local-llm-setup/) 👤 Nilenso 💬 1589 🔖 #llm, #inspiration 🗓️ 2025-06-11
     > **Резюме:** The author explores using small, open-source language models on their Macbook for improved daily workflows. They provide a practical guide on integrating local models with tools like Ollama, emphasizing benefits such as privacy and control. The post encourages experimentation with different models to enhance coding and productivity.
 - [Experimenting with Self-Hosted LLMs for Text-to-SQL](https://blog.nilenso.com/blog/2025/05/27/experimenting-with-self-hosted-llms-for-text-to-sql/) 👤 Nilenso 💬 561 🔖 #llm 🗓️ 2025-06-11
     > **Резюме:** The author experimented with self-hosted LLMs for Text-to-SQL tasks, finding that local models can achieve good accuracy for easy and moderate queries. They utilized a GPU and tools like Ollama to streamline testing and discovered that quantization significantly affects performance and speed. While local LLMs are effective, they still lag behind frontier models, prompting plans for improvements and smarter workflows.
@@ -183,7 +185,7 @@ Read hundreds of articles on programming: https://freecodecamp.org/news
     > **Резюме:** The author shares their journey in learning to use AI tools for coding, emphasizing the importance of starting with simple AI-assisted autocompletion before progressing to more complex coding agents. They outline a series of steps that help developers gradually adopt these technologies, leading to increased productivity and a shift in how coding is approached. Ultimately, the author reflects on how this new method allows for more leisure time, even as it raises concerns about the future of software jobs.
 - [Guiding an LLM for Robust Java ByteBuffer Code](https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html) 👤 Unmesh Joshi 💬 1435 🔖 #llm 🗓️ 2025-04-18
     > **Резюме:** This article discusses how an expert developer can guide a large language model (LLM) to generate safe and robust Java ByteBuffer code. By focusing on avoiding side effects and promoting good software design, the developer refines the LLM's initial code into a more reliable structure. The case study illustrates the importance of human oversight in ensuring code quality and maintainability.
-- [How to Build an Agent](https://ampcode.com/how-to-build-an-agent) 👤 ampcode.com 💬 5486 🔖 #go, #llm, #agents 🗓️ 2025-06-05
+- [How to Build an Agent](https://ampcode.com/how-to-build-an-agent) 👤 ampcode.com 💬 5486 🔖 #go, #diy, #llm, #agents 🗓️ 2025-06-05
     > **Резюме:** This text explains how to create a simple command-line chatbot that interacts with an AI named Claude using Go code. The chatbot can read files and list directory contents, responding to user prompts. Additionally, it can be expanded to include more tools, such as the ability to edit files.
 - [A practical guide to coding securely with LLMs](https://seangoedecke.com/ai-security/) 👤 seangoedecke.com 💬 1871 🔖 #llm 🗓️ 2025-04-15
     > **Резюме:** LLMs can act unpredictably and sometimes maliciously, so their output should be treated like untrusted user input. Prompt injection is a significant risk that cannot be fully eliminated, and LLM tools must have strict access control similar to user-facing APIs. Developers should be cautious when using third-party code or their own models, as these can introduce security vulnerabilities and potential denial-of-service attacks.

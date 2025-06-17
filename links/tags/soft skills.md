@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [Good Engineer/Bad Engineer](https://terriblesoftware.org/2025/06/13/good-engineer-bad-engineer/) 👤 Terrible Software 💬 524 🔖 #career, #development, #inspiration, #soft skills 🗓️ 2025-06-14
+    > **Резюме:** Good engineers focus on delivering value and solving problems, while bad engineers get lost in complexity and personal achievements. They prioritize collaboration and learning over isolated perfectionism, and they know when to say no to maintain focus. Ultimately, effectiveness comes from making progress, not from striving for perfection.
 - [Say "but yes", not "yes but"](https://seangoedecke.com/but-yes-not-yes-but/) 👤 seangoedecke.com 💬 537 🔖 #soft skills, #communication 🗓️ 2025-06-14
     > **Резюме:** Instead of saying "yes, but," try saying "but yes" when agreeing with someone. This small change in phrasing can create a more positive tone and improve your communication. Ending on a positive note helps foster a better atmosphere, especially in collaborative environments like software projects.
 - [Arguing point-by-point considered harmful](https://seangoedecke.com/point-by-point-considered-harmful/) 👤 seangoedecke.com 💬 1845 🔖 #soft skills, #communication 🗓️ 2025-06-07

@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 199
+- Всего ссылок: 202
 
 ## Ссылки
 
+- [Inside The Bubble • The Applied Go Weekly Newsletter 2025-06-15](https://newsletter.appliedgo.net/archive/2025-06-15-inside-the-bubble/) 👤 The Applied Go Weekly Newsletter 💬 2190 🔖 #go 🗓️ 2025-06-16
+    > **Резюме:** The newsletter discusses the new synctest package in Go 1.25, which simplifies testing asynchronous behavior in Go programs. It features a "bubble" environment that allows tests to run much faster and more reliably by controlling the timing of goroutines. Additionally, the newsletter highlights recent Go releases and offers various Go projects and libraries for developers.
+- [Gist of Go: Race conditions](https://antonz.org/go-concurrency/race-conditions/) 👤 Anton Zhiyanov 💬 4381 🔖 #go 🗓️ 2025-06-16
+    > **Резюме:** This chapter discusses race conditions in Go and how to manage them using mutexes and atomic operations. It explains how to ensure that account updates are safe when multiple goroutines access shared data. The author also introduces the concept of avoiding shared state altogether to enhance concurrency safety.
+- [Writing Load Balancer From Scratch In 250 Line of Code](https://beyondthesyntax.substack.com/p/writing-load-balancer-from-scratch) 👤 Sushant Dhiman 💬 1745 🔖 #go, #diy 🗓️ 2025-06-16
+    > **Резюме:** This post explains how to build a simple load balancer in 250 lines of code. A load balancer evenly distributes incoming requests across multiple server instances to improve performance and reliability. The author focuses on implementing the Round Robin strategy, where requests are sent to servers in a circular order, and plans to cover health checking in a future post.
 - [Gist of Go: Data races](https://antonz.org/go-concurrency/data-races/) 👤 Anton Zhiyanov 💬 2501 🔖 #go 🗓️ 2025-06-08
     > **Резюме:** Data races occur when multiple goroutines access the same variable simultaneously, with at least one of them modifying it. To prevent data races, Go provides mutexes and channels, which ensure safe access to shared data. Using these tools allows goroutines to work concurrently without corrupting the data they share.
 - [Own Your Errors! • The Applied Go Weekly Newsletter 2025-06-08](https://newsletter.appliedgo.net/archive/2025-06-08-own-your-errors/) 👤 The Applied Go Weekly Newsletter 💬 2259 🔖 #go 🗓️ 2025-06-08
@@ -40,7 +46,7 @@
     > **Резюме:** Go is a simple and fast programming language that makes coding easier with features like built-in garbage collection and strong concurrency support. Its robust standard library and effective toolchain enhance productivity by simplifying development tasks. With a focus on backward compatibility and security, Go is a great choice for both new and experienced developers.
 - [Write, Build, Love, Repeat • The Applied Go Weekly Newsleetter 2025-04-20](https://newsletter.appliedgo.net/archive/2025-04-20-write-build-love-repeat/) 👤 The Applied Go Weekly Newsletter 💬 1500 🔖 #go 🗓️ 2025-04-20
     > **Резюме:** This week's Applied Go Newsletter explores the author's journey with programming languages, highlighting their love for Go due to its unique qualities. It features articles on Go's contexts, concurrency, and performance, along with resources to enhance coding skills. The newsletter also includes podcasts and projects that showcase the versatility and power of Go.
-- [How to Build an Agent](https://ampcode.com/how-to-build-an-agent) 👤 ampcode.com 💬 5486 🔖 #go, #llm, #agents 🗓️ 2025-06-05
+- [How to Build an Agent](https://ampcode.com/how-to-build-an-agent) 👤 ampcode.com 💬 5486 🔖 #go, #diy, #llm, #agents 🗓️ 2025-06-05
     > **Резюме:** This text explains how to create a simple command-line chatbot that interacts with an AI named Claude using Go code. The chatbot can read files and list directory contents, responding to user prompts. Additionally, it can be expanded to include more tools, such as the ability to edit files.
 - [Signals and Go's Context Type](mailto:reader-forwarded-email/8a53651a467aab634454cd535a35fa34) 👤 Jon Calhoun 💬 1009 🔖 #go 🗓️ 2025-04-15
     > **Резюме:** Jon Calhoun is offering a 40% discount on his Go courses starting tomorrow. This email discusses the NotifyContext function in Go, which simplifies handling signals using the context object. It emphasizes the importance of calling the stop function after receiving a signal to ensure proper program termination.

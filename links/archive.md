@@ -1,14 +1,25 @@
 # Архивные ссылки
 
-- Всего ссылок: 745
+- Всего ссылок: 758
 
 ## Ссылки
 
+- [Anthropic: How we built our multi-agent research system](https://simonwillison.net/2025/Jun/14/multi-agent-research-system/#atom-everything) 👤 Simon Willison 💬 1075 🔖 #llm 🗓️ 2025-06-15
 - [Why Generative AI Coding Tools and Agents Do Not Work For Me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me) 👤 Miguel Grinberg 💬 1467 🔖 #llm 🗓️ 2025-06-15
+- [Автоматическая верстка макетов из Figma в Cursor AI с помощью MCP сервера](https://www.youtube.com/watch?v=4_pd7HxgXyg) 👤 ВебКадеми | Юрий Ключевский 🔖 #llm, #mcp 🗓️ 2025-06-14
 - [How Vue Composables Work – Explained with Code Examples](https://www.freecodecamp.org/news/how-vue-composables-work/) 👤 freeCodeCamp.org 💬 1767 🔖 #vue 🗓️ 2025-06-14
+- [How to run a task on a schedule on macOS](https://alexwlchan.net/til/2025/macos-launchagent-examples/?utm_source=rss) 👤 alexwlchan.net 💬 351 🗓️ 2025-06-14
+- [Good Engineer/Bad Engineer](https://terriblesoftware.org/2025/06/13/good-engineer-bad-engineer/) 👤 Terrible Software 💬 524 🔖 #career, #development, #inspiration, #soft skills 🗓️ 2025-06-14
+- [Get a string representation of a Python traceback with traceback.format_exc()](https://alexwlchan.net/til/2025/get-python-traceback-as-string/?utm_source=rss) 👤 alexwlchan.net 💬 111 🔖 #python 🗓️ 2025-06-14
 - [Say "but yes", not "yes but"](https://seangoedecke.com/but-yes-not-yes-but/) 👤 seangoedecke.com 💬 537 🔖 #soft skills, #communication 🗓️ 2025-06-14
 - [Agentic Coding Recommendations](http://lucumr.pocoo.org/2025/6/12/agentic-coding) 👤 Armin Ronacher's Thoughts and Writings 💬 2596 🔖 #llm 🗓️ 2025-06-12
+- [Thoughts on tldraw computer](https://blog.nilenso.com/blog/2024/12/30/thought-on-tldraw-computer/) 👤 blog.nilenso.com 💬 372 🗓️ 2025-06-11
+- [My GenAI workflow for building a voice assistant](https://blog.nilenso.com/blog/2025/01/30/my-genai-workflow-for-building-a-voice-assistant/) 👤 blog.nilenso.com 💬 877 🔖 #llm 🗓️ 2025-06-11
+- [Tiny Models, Local Throttles: Exploring My Local AI Dev Setup](https://blog.nilenso.com/blog/2025/05/06/local-llm-setup/) 👤 Nilenso 💬 1589 🔖 #llm, #inspiration 🗓️ 2025-06-11
+- [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/) 👤 Nilenso 💬 1239 🔖 #mcp 🗓️ 2025-06-11
+- [Experimenting with Self-Hosted LLMs for Text-to-SQL](https://blog.nilenso.com/blog/2025/05/27/experimenting-with-self-hosted-llms-for-text-to-sql/) 👤 Nilenso 💬 561 🔖 #llm 🗓️ 2025-06-11
 - [AI-assisted coding for teams that can't get away with vibes](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/) 👤 Nilenso 💬 2128 🔖 #llm, #inspiration 🗓️ 2025-06-11
+- [devsimsek's Blog](https://smsk.dev/2025/06/10/am-i-the-only-one-who-isnt-satisfied-with-apples-wwdc-2025/) 👤 smsk.dev 💬 689 🗓️ 2025-06-11
 - [GenAI Criticism and Moral Quandaries](http://lucumr.pocoo.org/2025/6/10/genai-criticism) 👤 Armin Ronacher's Thoughts and Writings 💬 1680 🔖 #llm 🗓️ 2025-06-11
 - [The first big AI disaster is yet to happen](https://seangoedecke.com/the-first-big-ai-disaster/) 👤 seangoedecke.com 💬 1159 🔖 #llm 🗓️ 2025-06-11
 - [Вложенность в перечислениях](http://maximilyahov.ru/blog/all/embedded-lists/) 👤 maximilyahov.ru 💬 117 🔖 #writing 🗓️ 2025-06-08
@@ -155,6 +166,7 @@
 - [10 Things Software Developers Should Learn about Learning](https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/) 👤 R. Colin Johnson 💬 5608 🔖 #learning 🗓️ 2025-04-17
 - [The promise of Rust](https://fasterthanli.me/articles/the-promise-of-rust) 👤 Amos Wenger 💬 1154 🔖 #rust 🗓️ 2025-04-17
 - [Reproducing Hacker News writing style fingerprinting](http://antirez.com/news/150) 👤 antirez.com 💬 1678 🗓️ 2025-04-17
+- [How to Build an Agent](https://ampcode.com/how-to-build-an-agent) 👤 ampcode.com 💬 5486 🔖 #go, #diy, #llm, #agents 🗓️ 2025-06-05
 - [The new Cookie Store API](https://fotis.xyz/posts/the-new-cookie-store-api/) 👤 Fotis Papadogeorgopoulos 💬 1925 🗓️ 2025-04-16
 - [A practical guide to coding securely with LLMs](https://seangoedecke.com/ai-security/) 👤 seangoedecke.com 💬 1871 🔖 #llm 🗓️ 2025-04-15
 - [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/?from=newsletter) 👤 Josh W. Comeau 💬 2508 🔖 #llm, #career 🗓️ 2025-04-15
@@ -184,6 +196,7 @@
 - [What's up python? Less perf, no sugar and more bugs](https://www.bitecode.dev/p/whats-up-python-less-perf-no-sugar) 👤 Bite Code! 💬 1282 🔖 #python 🗓️ 2025-04-02
 - [🍑Obsidian / Dataview / JS — базы данных и произвольная визуализация в заметках](https://www.youtube.com/watch?v=F2tkYxKa7aY) 👤 Диджитализируй! 🔖 #obsidian 🗓️ 2025-04-02
 - [Vibe Management](https://yieldcode.blog/post/vibe-management/) 👤 Dmitry Kudryavtsev 💬 1112 🔖 #fun, #llm 🗓️ 2025-04-02
+- [How to Build a Team of AI Agents for Your Website for Free Using Agno and Groq](https://www.freecodecamp.org/news/build-a-team-of-ai-agents-for-your-website-for-free/) 👤 freeCodeCamp.org 💬 10950 🔖 #agents 🗓️ 2025-04-01
 - [Don’t Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/) 👤 Joel Spolsky 💬 1017 🗓️ 2025-04-01
 - [Your Strengths Are Your Weaknesses](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/) 👤 Terrible Software 💬 562 🔖 #management 🗓️ 2025-03-31
 - [#003 - To the galaxies beyond](https://buttondown.com/juhis/archive/003-to-the-galaxies-beyond/) 👤 From Juhis with Love 💬 1158 🗓️ 2025-03-31
@@ -496,7 +509,7 @@ Things I love about Golang](https://hatwd.com/p/things-i-love-about-golang) 👤
 - [Накрутка опыта = ❤️ и другие советы начинающим программистам!](https://www.youtube.com/watch?v=OCMXwib9BuQ) 👤 Диджитализируй! 🗓️ 2024-11-21
 - [Tips for Writing Clean Go Code](mailto:reader-forwarded-email/28928d08da4f365a1654306e1c4351cd) 👤 Jon Calhoun 💬 937 🔖 #go 🗓️ 2024-11-21
 - [Chapter 11 - Building a Second Brain](https://readwise.io/reader/document_raw_content/2217137) 💬 2498 🔖 #basb, #productivity 🗓️ 2024-11-21
-- [Atomic Habits: Tiny Changes, Remarkable Results](private://read/01jd26n73z9d88wgkcm81ndn08) 👤 James Clear 💬 78972 🔖 #book, #outline, #productivity 🗓️ 2024-11-19
+- [Atomic Habits: Tiny Changes, Remarkable Results](private://read/01jd26n73z9d88wgkcm81ndn08) 👤 James Clear 💬 86898 🔖 #book, #outline, #productivity 🗓️ 2024-11-19
 - [Tips for Aspiring Developers](mailto:reader-forwarded-email/4859958c4499504221a151af2d988582) 👤 Jon Calhoun 💬 2683 🔖 #learning 🗓️ 2024-11-19
 - [Обзор Metaphor: ReFantazio. Мы не до конца вникли в эту метафору](https://www.mirf.ru/games/metaphor-refantazio-obzor) 👤 mirf.ru 💬 1343 🗓️ 2024-11-15
 - [Writing a blog on the internet](https://sethmlarson.dev/writing-for-the-internet) 👤 Seth Larson 💬 957 🔖 #writing, #inspiration 🗓️ 2024-11-14
@@ -532,7 +545,7 @@ Things I love about Golang](https://hatwd.com/p/things-i-love-about-golang) 👤
 - [Notion’s Massive Updates](https://thesweetsetup.com/notions-latest-updates/) 👤 Chloe Roberts 💬 1990 🗓️ 2024-11-07
 - [Shipping Go: Develop, deliver, discuss, design, and go again](https://readwise.io/reader/document_raw_content/235355838) 👤 Joel Holmes 💬 70124 🔖 #go, #devops 🗓️ 2024-11-06
 - [How Mike Does Mutli-Scale Planning in Obsidian](https://thesweetsetup.com/how-mike-does-mutli-scale-planning-in-obsidian/) 👤 Mike Schmitz 💬 1919 🔖 #obsidian, #inspiration, #productivity 🗓️ 2024-11-06
-- [Building a Second Brain](private://read/01jc0ghvtcbj9g0vhkpv4s12w4) 👤 Tiago Forte 💬 70233 🔖 #pkm, #basb, #para, #outline, #inspiration, #productivity 🗓️ 2024-11-06
+- [Building a Second Brain](private://read/01jc0ghvtcbj9g0vhkpv4s12w4) 👤 Tiago Forte 💬 79958 🔖 #pkm, #basb, #para, #outline, #inspiration, #productivity 🗓️ 2024-11-06
 - [Working with Errors in Go 1.13](https://go.dev/blog/go1.13-errors) 👤 go.dev 💬 2123 🔖 #go, #errorhandling 🗓️ 2024-11-05
 - [Error handling in Go](mailto:reader-forwarded-email/a4bc403b0943bd3635a9b641e17d7450) 👤 Jon Calhoun 💬 1282 🔖 #go, #errorhandling 🗓️ 2024-11-05
 - [Introduction to gRPC in Go](mailto:reader-forwarded-email/209fa8d8e65c6774b959dc7556e9b07e) 👤 Jon Calhoun 💬 1882 🔖 #go, #grpc 🗓️ 2024-11-05
