@@ -29,6 +29,21 @@ const formatDate = (date: string) => {
     day: "2-digit",
   });
 };
+
+/**
+ * Возвращает отсортированный список выделенных фрагментов (highlights) по дате создания
+ * от старых к новым.
+ *
+ * @param highlights Список выделенных фрагментов (highlights) из статьи
+ * @returns Отсортированный список выделенных фрагментов по дате создания (от старых к новым)
+ */
+const sortHighlights = (highlights: ReadwiseDocument[]) => {
+  return [...highlights].sort((a, b) => {
+    const dateA = new Date(a.created_at);
+    const dateB = new Date(b.created_at);
+    return dateA.getTime() - dateB.getTime(); // asc order
+  });
+};
 </script>
 
 <template>
@@ -130,7 +145,7 @@ const formatDate = (date: string) => {
         class="space-y-2"
       >
         <div
-          v-for="hl in article.highlights"
+          v-for="hl in sortHighlights(article.highlights)"
           :key="`hl-id-${hl.id}`"
           class="border-l-4 border-green-300 bg-green-50 pl-3 py-2 pr-2 text-sm text-gray-700"
         >
