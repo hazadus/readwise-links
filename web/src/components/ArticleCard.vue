@@ -2,9 +2,11 @@
 /**
  * Компонент для отображения карточки документа Readwise Reader (ссылки на пост, книгу с заметками к ней)
  */
+import { ref } from "vue";
+import { copyToClipboard, generateArticleMarkdown } from "../utils/markdown";
 import Tag from "./Tag.vue";
 
-defineProps({
+const props = defineProps({
   article: {
     type: Object as () => Article,
     required: true,
@@ -16,9 +18,26 @@ const emit = defineEmits<{
   tagClick: [tagName: string];
 }>();
 
+// Состояние для уведомления о копировании
+const copySuccess = ref(false);
+
 // Обработчик клика по тегу
 const handleTagClick = (tagName: string) => {
   emit("tagClick", tagName);
+};
+
+// Обработчик копирования в Markdown
+const handleCopyMarkdown = async () => {
+  const markdownText = generateArticleMarkdown(props.article);
+  const success = await copyToClipboard(markdownText);
+
+  if (success) {
+    copySuccess.value = true;
+    // Убираем уведомление через 2 секунды
+    setTimeout(() => {
+      copySuccess.value = false;
+    }, 2000);
+  }
 };
 
 const formatDate = (date: string) => {
@@ -27,6 +46,21 @@ const formatDate = (date: string) => {
     year: "numeric",
     month: "2-digit",
     day: "2-digit",
+  });
+};
+
+/**
+ * Возвращает отсортированный список выделенных фрагментов (highlights) по дате создания
+ * от старых к новым.
+ *
+ * @param highlights Список выделенных фрагментов (highlights) из статьи
+ * @returns Отсортированный список выделенных фрагментов по дате создания (от старых к новым)
+ */
+const sortHighlights = (highlights: ReadwiseDocument[]) => {
+  return [...highlights].sort((a, b) => {
+    const dateA = new Date(a.created_at);
+    const dateB = new Date(b.created_at);
+    return dateA.getTime() - dateB.getTime(); // asc order
   });
 };
 </script>
@@ -65,18 +99,53 @@ const formatDate = (date: string) => {
           </div>
         </div>
 
-        <!-- Превью изображения поста -->
-        <div
-          v-if="article.image_url"
-          class="ml-4 flex-shrink-0 w-24 overflow-hidden border border-gray-200 rounded-md"
-          style="aspect-ratio: 3/2"
-        >
-          <img
-            :src="article.image_url"
-            alt="Превью"
-            class="w-full h-full object-cover"
-            loading="lazy"
-          />
+        <div class="flex items-center gap-2 ml-4 flex-shrink-0">
+          <!-- Кнопка копирования в Markdown -->
+          <button
+            @click="handleCopyMarkdown"
+            class="relative inline-flex items-center px-3 py-1.5 text-xs font-medium rounded-md border border-gray-300 bg-white text-gray-700 hover:bg-gray-50 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-1 transition-colors"
+            :class="{ 'bg-green-50 border-green-300 text-green-700': copySuccess }"
+            title="Копировать в формате Markdown"
+          >
+            <svg
+              v-if="!copySuccess"
+              class="h-4 w-4 mr-1"
+              viewBox="0 0 16 16"
+              fill="currentColor"
+            >
+              <path
+                d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"
+              ></path>
+              <path
+                d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"
+              ></path>
+            </svg>
+            <svg
+              v-else
+              class="h-4 w-4 mr-1"
+              viewBox="0 0 16 16"
+              fill="currentColor"
+            >
+              <path
+                d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"
+              ></path>
+            </svg>
+            {{ copySuccess ? "Скопировано!" : "MD" }}
+          </button>
+
+          <!-- Превью изображения поста -->
+          <div
+            v-if="article.image_url"
+            class="w-24 overflow-hidden border border-gray-200 rounded-md"
+            style="aspect-ratio: 3/2"
+          >
+            <img
+              :src="article.image_url"
+              alt="Превью"
+              class="w-full h-full object-cover"
+              loading="lazy"
+            />
+          </div>
         </div>
       </div>
     </div>
@@ -130,7 +199,7 @@ const formatDate = (date: string) => {
         class="space-y-2"
       >
         <div
-          v-for="hl in article.highlights"
+          v-for="hl in sortHighlights(article.highlights)"
           :key="`hl-id-${hl.id}`"
           class="border-l-4 border-green-300 bg-green-50 pl-3 py-2 pr-2 text-sm text-gray-700"
         >
