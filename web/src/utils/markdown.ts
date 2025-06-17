@@ -82,7 +82,7 @@ export function generateArticleMarkdown(article: Article): string {
       return dateA.getTime() - dateB.getTime();
     });
 
-    sortedHighlights.forEach((highlight, index) => {
+    sortedHighlights.forEach((highlight, _index) => {
       markdown += `> ${highlight.content}\n\n`;
 
       // Комментарии к выделению
