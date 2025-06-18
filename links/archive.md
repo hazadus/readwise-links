@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 758
+- Всего ссылок: 760
 
 ## Ссылки
 
@@ -82,6 +82,7 @@
     > **Заметка:** Интересный способ запускать скрипты прямо из репо. 
 - [Thoughts on thinking](https://dcurt.is/thinking) 👤 Dustin Curtis on Svbtle 💬 613 🔖 #llm, #learning 🗓️ 2025-05-25
     > **Заметка:** Автор удручён тем, что LLM отнимает у него необходимость глубоко размышлять, тем самым развивая своё мышление. «Всё равно ИИ сделает это быстрее и лучше».  Спорная точка зрения. 
+- [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/#atom-everything) 👤 Simon Willison 💬 5319 🔖 #llm 🗓️ 2025-05-25
 - [In defense of shallow technical knowledge](https://seangoedecke.com/shallow-technical-knowledge/) 👤 seangoedecke.com 💬 1806 🔖 #career, #learning 🗓️ 2025-05-25
 - [How does ChatGPT work? What is AI, really?](https://seangoedecke.com/what-is-chatgpt/) 👤 seangoedecke.com 💬 1653 🔖 #llm 🗓️ 2025-05-25
     > **Заметка:** Хорошее описание принципов работы языковых моделей «для обычных людей», без технического бэкграунда. 
@@ -183,6 +184,7 @@
 - [Simplify sharing with built-in APIs and progressive enhancement](https://piccalil.li/blog/simplify-sharing-with-built-in-apis-and-progressive-enhancement/) 👤 Piccalilli 💬 2840 🔖 #javascript 🗓️ 2025-04-09
 - [Real-world uses of TypeScript’s utility types](https://piccalil.li/blog/real-world-uses-of-typescripts-utility-types/) 👤 Piccalilli 💬 1525 🔖 #typescript 🗓️ 2025-04-08
 - [Making AI Actually Work on Your Team](https://terriblesoftware.org/2025/04/07/making-ai-actually-work-on-your-team/) 👤 Terrible Software 💬 897 🔖 #llm, #management, #development 🗓️ 2025-04-08
+- [Django: what’s new in 5.2](https://adamj.eu/tech/2025/04/07/django-whats-new-5.2/) 👤 Adam Johnson 💬 4408 🔖 #django 🗓️ 2025-04-07
 - [if you aren't redlining the LLM, you aren't headlining](https://ghuntley.com/redlining/) 👤 Geoffrey Huntley 💬 541 🔖 #llm 🗓️ 2025-04-07
 - [Go With The Vibe • The Applied Go Weekly Newsletter 2025-04-06](https://newsletter.appliedgo.net/archive/2025-04-06-go-with-the-vibe/) 👤 The Applied Go Weekly Newsletter 💬 1944 🔖 #go 🗓️ 2025-04-07
 - [The blissful zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project) 👤 Josh Collinsworth 💬 1168 🔖 #development, #inspiration 🗓️ 2025-04-06
