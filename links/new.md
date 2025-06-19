@@ -1,9 +1,23 @@
 # Новые ссылки
 
-- Всего ссылок: 798
+- Всего ссылок: 811
 
 ## Ссылки
 
+- [🏁🐘Winning Race Conditions With PostgreSQL](https://dev.to/mistval/winning-race-conditions-with-postgresql-54gn) 👤 dev.to 💬 2497 🔖 #postgresql 🗓️ 2025-06-18
+- [Preventing Postgres SQL Race Conditions with SELECT FOR UPDATE](https://on-systems.tech/blog/128-preventing-read-committed-sql-concurrency-errors/) 👤 Danny Mican 💬 783 🔖 #postgresql 🗓️ 2025-06-18
+- [Mind Management, Not Time Management](private://read/01jy2bx4yjy7cc3fb6cs5zy8ma) 👤 David Kadavy 💬 69903 🗓️ 2025-06-18
+- [Smart People Don't Chase Goals; They Create Limits](https://www.joanwestenberg.com/p/smart-people-don-t-chase-goals-they-create-limits) 👤 Westenberg. 💬 1521 🗓️ 2025-06-18
+- [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain) 👤 Joan Westenberg 💬 1429 🗓️ 2025-06-18
+- [The Cult of Hard Mode](https://www.joanwestenberg.com/p/the-cult-of-hard-mode-why-simplicity-offends-tech-elites) 👤 Westenberg. 💬 1362 🗓️ 2025-06-18
+- [Expert Generalists](https://martinfowler.com/articles/expert-generalist.html) 👤 Martin Fowler 💬 1604 🗓️ 2025-06-18
+- [VibeTunnel: Turn Any Browser into Your Mac's Terminal](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal) 👤 Peter Steinberger 💬 2999 🗓️ 2025-06-18
+- [Von Express zu Go – mein Weg zu minimalistischen HTTP‑APIs](https://trakora.de/blog/weg-zu-minimalistischen-http-apis) 👤 trakora.de 💬 640 🔖 #go, #try 🗓️ 2025-06-18
+    > **Заметка:** Пост к репо: https://github.com/trakora/production-go-api-template
+- [Оптимизация Запросов В Postgresql](https://readwise.io/reader/document_raw_content/33757448) 👤 Домбровская Г, Новиков Б, Бейликова А 💬 61368 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
+- [Postgresql. Профессиональный SQL](https://readwise.io/reader/document_raw_content/324141976) 👤 Евгений Моргунов 💬 98953 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
+- [Postgresql Основы Языка SQL](https://readwise.io/reader/document_raw_content/20530573) 👤 Е. П. Моргунов 💬 66946 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
+- [Обзор Nintendo Switch 2](https://www.youtube.com/watch?v=ycOTD0H-xag) 👤 StopGame 🗓️ 2025-06-18
 - [Inside The Bubble • The Applied Go Weekly Newsletter 2025-06-15](https://newsletter.appliedgo.net/archive/2025-06-15-inside-the-bubble/) 👤 The Applied Go Weekly Newsletter 💬 2190 🔖 #go 🗓️ 2025-06-16
 - [Gist of Go: Race conditions](https://antonz.org/go-concurrency/race-conditions/) 👤 Anton Zhiyanov 💬 4381 🔖 #go 🗓️ 2025-06-16
 - [Writing Load Balancer From Scratch In 250 Line of Code](https://beyondthesyntax.substack.com/p/writing-load-balancer-from-scratch) 👤 Sushant Dhiman 💬 1745 🔖 #go, #diy 🗓️ 2025-06-16

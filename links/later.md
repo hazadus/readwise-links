@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 40
+- Всего ссылок: 39
 
 ## Ссылки
 
@@ -76,8 +76,6 @@
     > **Резюме:** Intent and State are two crucial components in software development that should be separated from the start. By splitting Intent from State, developers can create more practical schemas and data structures that align with the user's needs. This approach allows for easier manipulation of data, precise merging behavior, and the ability to handle conflicts. It also enables the creation of an undo/redo system and simplifies the process of working with changes and conflicts. Ultimately, separating Intent from State leads to a more efficient and flexible codebase.
 - [Best Network Technologies](https://nyadgar.com/posts/best-network-technologies/) 👤 Noam Yadgar 💬 3402 🗓️ 2025-01-20
     > **Резюме:** The article discusses various network technologies and software design patterns for communication, focusing on TCP/IP as the backbone of the internet. It highlights protocols like REST, GraphQL, and WebSocket for application-level communication, as well as the role of message brokers in managing connections between microservices. The author emphasizes the importance of choosing the right protocol based on specific use cases and requirements.
-- [SQLAlchemy 2 In Practice](https://readwise.io/reader/document_raw_content/260221801) 👤 Miguel Grinberg 💬 45640 🔖 #book, #sqlalchemy 🗓️ 2025-01-15
-    > **Резюме:** In SQLAlchemy, database tables are represented as Python classes with a common parent class called the declarative base class. This allows for easy configuration of primary keys and relationships between tables, simplifying database operations. SQLAlchemy also provides functions for querying and managing relationships, enabling developers to easily navigate and manipulate data.
 - [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](private://read/01jg1e2q7yj2698nhna2kjbce4) 👤 Ahrens, Sönke 💬 56774 🔖 #pkm, #basb, #outline, #learning, #inspiration 🗓️ 2024-12-26
     > **Резюме:** The book "How to Take Smart Notes" by Sönke Ahrens emphasizes the importance of effective note-taking for improving writing, learning, and thinking. By using a slip-box system, individuals can organize their ideas and connect them, enhancing their understanding and creativity. This method promotes active engagement with material and transforms notes into a valuable resource for future writing.
 - [Grep by example: Interactive guide](https://antonz.org/grep-by-example/) 👤 Anton Zhiyanov 💬 1837 🗓️ 2025-05-03

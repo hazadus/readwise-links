@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 202
+- Всего ссылок: 203
 
 ## Ссылки
 
+- [Von Express zu Go – mein Weg zu minimalistischen HTTP‑APIs](https://trakora.de/blog/weg-zu-minimalistischen-http-apis) 👤 trakora.de 💬 640 🔖 #go, #try 🗓️ 2025-06-18
+    > **Заметка:** Пост к репо: https://github.com/trakora/production-go-api-template
+    > **Резюме:** Markus transitioned from using Express in JavaScript to developing minimalist HTTP APIs in Go, aiming for better understanding and control over his code. He initially avoided external libraries, focusing on Go's standard library, which helped him learn the language deeply and create a structured API template. This approach allowed him to maintain a robust codebase with fewer dependencies and less frequent updates.
 - [Inside The Bubble • The Applied Go Weekly Newsletter 2025-06-15](https://newsletter.appliedgo.net/archive/2025-06-15-inside-the-bubble/) 👤 The Applied Go Weekly Newsletter 💬 2190 🔖 #go 🗓️ 2025-06-16
     > **Резюме:** The newsletter discusses the new synctest package in Go 1.25, which simplifies testing asynchronous behavior in Go programs. It features a "bubble" environment that allows tests to run much faster and more reliably by controlling the timing of goroutines. Additionally, the newsletter highlights recent Go releases and offers various Go projects and libraries for developers.
 - [Gist of Go: Race conditions](https://antonz.org/go-concurrency/race-conditions/) 👤 Anton Zhiyanov 💬 4381 🔖 #go 🗓️ 2025-06-16

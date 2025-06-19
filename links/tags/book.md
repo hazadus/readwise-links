@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 25
+- Всего ссылок: 28
 
 ## Ссылки
 
+- [Оптимизация Запросов В Postgresql](https://readwise.io/reader/document_raw_content/33757448) 👤 Домбровская Г, Новиков Б, Бейликова А 💬 61368 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
+- [Postgresql. Профессиональный SQL](https://readwise.io/reader/document_raw_content/324141976) 👤 Евгений Моргунов 💬 98953 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
+    > **Резюме:** The text discusses using statistical functions in PostgreSQL to analyze flight delays and ticket sales for an airline. It emphasizes the importance of accurate data and decision-making methods, such as the Pareto principle, in understanding financial patterns. Additionally, it covers optimizing query performance by accurately estimating the number of rows returned by functions in the database.
+- [Postgresql Основы Языка SQL](https://readwise.io/reader/document_raw_content/20530573) 👤 Е. П. Моргунов 💬 66946 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
+    > **Резюме:** The text discusses various aspects of working with a database using PostgreSQL. It covers topics such as coordinating the creation of educational materials, accessing databases through applications, transactions in databases, handling null values in databases, creating views and indexes for performance optimization, executing queries, working with multiple tables, creating materialized views, transaction isolation levels, locking mechanisms, and improving performance through denormalization. It emphasizes the importance of understanding these concepts for efficient database management and query execution in PostgreSQL.
 - [LazyVim for Ambitious Developers](https://lazyvim-ambitious-devs.phillips.codes/course/chapter-1/) 👤 lazyvim-ambitious-devs.phillips.codes 💬 3330 🔖 #vim, #book 🗓️ 2025-06-05
     > **Резюме:** LazyVim is a user-friendly configuration for Neovim that simplifies the setup process and enhances the editing experience. Unlike standard Neovim, which can feel outdated, LazyVim comes with a curated set of modern plugins and configurations. It aims to make coding more efficient while allowing easy customization for developers.
 - [Как читать книги для самообразования](https://readwise.io/reader/document_raw_content/262840656) 👤 Поварнин С.И. 💬 14256 🔖 #book, #outline, #reading, #learning, #inspiration 🗓️ 2025-01-22

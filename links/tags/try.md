@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 31
+- Всего ссылок: 32
 
 ## Ссылки
 
+- [Von Express zu Go – mein Weg zu minimalistischen HTTP‑APIs](https://trakora.de/blog/weg-zu-minimalistischen-http-apis) 👤 trakora.de 💬 640 🔖 #go, #try 🗓️ 2025-06-18
+    > **Заметка:** Пост к репо: https://github.com/trakora/production-go-api-template
+    > **Резюме:** Markus transitioned from using Express in JavaScript to developing minimalist HTTP APIs in Go, aiming for better understanding and control over his code. He initially avoided external libraries, focusing on Go's standard library, which helped him learn the language deeply and create a structured API template. This approach allowed him to maintain a robust codebase with fewer dependencies and less frequent updates.
 - [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles) 👤 Atlassian 💬 710 🔖 #git, #try 🗓️ 2025-06-06
     > **Резюме:** This tutorial explains a simple way to store dotfiles using a Git bare repository. It involves creating an alias that allows you to manage your configuration files without interfering with other Git repositories. By following the steps provided, you can easily version and replicate your configurations across different systems.
 - [Amp is now available. Here's how I use it.](https://ampcode.com/how-i-use-amp) 👤 ampcode.com 💬 2685 🔖 #llm, #try, #inspiration 🗓️ 2025-06-05

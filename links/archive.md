@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 760
+- Всего ссылок: 762
 
 ## Ссылки
 
+- [We Can Just Measure Things](http://lucumr.pocoo.org/2025/6/17/measuring) 👤 Armin Ronacher's Thoughts and Writings 💬 1130 🔖 #llm 🗓️ 2025-06-18
 - [Anthropic: How we built our multi-agent research system](https://simonwillison.net/2025/Jun/14/multi-agent-research-system/#atom-everything) 👤 Simon Willison 💬 1075 🔖 #llm 🗓️ 2025-06-15
 - [Why Generative AI Coding Tools and Agents Do Not Work For Me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me) 👤 Miguel Grinberg 💬 1467 🔖 #llm 🗓️ 2025-06-15
 - [Автоматическая верстка макетов из Figma в Cursor AI с помощью MCP сервера](https://www.youtube.com/watch?v=4_pd7HxgXyg) 👤 ВебКадеми | Юрий Ключевский 🔖 #llm, #mcp 🗓️ 2025-06-14
@@ -419,6 +420,7 @@
 - [Мы не пьем, а лечимся](https://hij.ru/read/29545/) 👤 hij.ru 💬 2816 🗓️ 2025-01-15
     > **Заметка:** Пост рекомендован Антоном Мельниковым.
 - [Big Things Will Happen • The Applied Go Weekly Newsletter 2025-01-12](https://newsletter.appliedgo.net/archive/big-things-will-happen/) 👤 The Applied Go Weekly Newsletter 💬 1929 🗓️ 2025-01-15
+- [SQLAlchemy 2 In Practice](https://readwise.io/reader/document_raw_content/260221801) 👤 Miguel Grinberg 💬 45640 🔖 #book, #sqlalchemy 🗓️ 2025-01-15
 - [Django vs. FastAPI, An Honest Comparison](https://www.david-dahan.com/blog/comparing-fastapi-and-django?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_267) 👤 david-dahan.com 💬 2841 🔖 #django, #fastapi 🗓️ 2025-01-13
     > **Заметка:** Хорошее сравнение двух фреймворков. Анализ целесообразности их применения в разных ситуациях.
 - [How to easily track engineering metrics](https://victoronsoftware.com/posts/track-engineering-metrics/) 👤 Victor Lyuboslavsky 💬 943 🔖 #go, #github 🗓️ 2025-01-13

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 117
+- Всего ссылок: 118
 
 ## Ссылки
 
+- [We Can Just Measure Things](http://lucumr.pocoo.org/2025/6/17/measuring) 👤 Armin Ronacher's Thoughts and Writings 💬 1130 🔖 #llm 🗓️ 2025-06-18
+    > **Резюме:** Armin Ronacher reflects on a recent project where he and friends experimented with programming agents. He emphasizes the importance of measuring code quality and project health using these agents, as they can provide objective feedback without the emotional bias of human developers. Ronacher argues that better tools, documentation, and ecosystem stability benefit both agents and human programmers alike.
 - [Anthropic: How we built our multi-agent research system](https://simonwillison.net/2025/Jun/14/multi-agent-research-system/#atom-everything) 👤 Simon Willison 💬 1075 🔖 #llm 🗓️ 2025-06-15
     > **Резюме:** Anthropic's article explains how they built a multi-agent research system, which uses multiple agents to work on tasks simultaneously, improving efficiency and performance. Their system allows subagents to operate in parallel, significantly speeding up research while managing large amounts of information. Despite higher token usage, this approach excels for complex tasks where quick, comprehensive results are valuable.
 - [Why Generative AI Coding Tools and Agents Do Not Work For Me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me) 👤 Miguel Grinberg 💬 1467 🔖 #llm 🗓️ 2025-06-15
