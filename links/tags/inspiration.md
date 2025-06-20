@@ -1,9 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 77
+- Всего ссылок: 80
 
 ## Ссылки
 
+- [Smart People Don't Chase Goals; They Create Limits](https://www.joanwestenberg.com/p/smart-people-don-t-chase-goals-they-create-limits) 👤 Westenberg. 💬 1521 🔖 #inspiration 🗓️ 2025-06-18
+    > **Резюме:** The article argues that creating limits or constraints is more effective than chasing specific goals, as constraints guide creativity and decision-making. It suggests that many successful people focus on what they won't compromise rather than what they want to achieve. By doing this, they find clearer paths in ambiguous situations and maintain alignment with their true values.
+- [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain) 👤 Joan Westenberg 💬 1429 🔖 #pkm, #obsidian, #inspiration 🗓️ 2025-06-18
+    > **Заметка:** Радикальный взгляд на PKM. Много интересных мыслей. 
+    > **Резюме:** Joan Westenberg deleted her extensive collection of notes and ideas, finding relief in the silence that followed. She realized that her "second brain" had become a burden, complicating her thoughts instead of helping them. Now, she aims to simplify her approach to knowledge, focusing on living her ideas rather than just storing them.
+- [The Cult of Hard Mode](https://www.joanwestenberg.com/p/the-cult-of-hard-mode-why-simplicity-offends-tech-elites) 👤 Westenberg. 💬 1362 🔖 #inspiration 🗓️ 2025-06-18
+    > **Заметка:** Сильный пост о недооцененности простых решений в tech-сфере. 
+    > **Резюме:** Many founders complicate their workflows with elaborate tools to signal status and intelligence, often losing simplicity and effectiveness. This culture values complexity over clarity, leading to a belief that harder systems are inherently better. Embracing simple tools can promote productivity and clarity, allowing people to focus on solving problems rather than impressing others.
 - [Good Engineer/Bad Engineer](https://terriblesoftware.org/2025/06/13/good-engineer-bad-engineer/) 👤 Terrible Software 💬 524 🔖 #career, #development, #inspiration, #soft skills 🗓️ 2025-06-14
     > **Резюме:** Good engineers focus on delivering value and solving problems, while bad engineers get lost in complexity and personal achievements. They prioritize collaboration and learning over isolated perfectionism, and they know when to say no to maintain focus. Ultimately, effectiveness comes from making progress, not from striving for perfection.
 - [Tiny Models, Local Throttles: Exploring My Local AI Dev Setup](https://blog.nilenso.com/blog/2025/05/06/local-llm-setup/) 👤 Nilenso 💬 1589 🔖 #llm, #inspiration 🗓️ 2025-06-11

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 19
 
 ## Ссылки
 
+- [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain) 👤 Joan Westenberg 💬 1429 🔖 #pkm, #obsidian, #inspiration 🗓️ 2025-06-18
+    > **Заметка:** Радикальный взгляд на PKM. Много интересных мыслей. 
+    > **Резюме:** Joan Westenberg deleted her extensive collection of notes and ideas, finding relief in the silence that followed. She realized that her "second brain" had become a burden, complicating her thoughts instead of helping them. Now, she aims to simplify her approach to knowledge, focusing on living her ideas rather than just storing them.
 - [My Notion Blogging Kanban](https://daverupert.com/2021/09/my-notion-blogging-kanban/) 👤 daverupert.com 💬 954 🔖 #pkm, #writing 🗓️ 2025-05-21
     > **Резюме:** The author struggled with managing over eighty incomplete blog post drafts and found it overwhelming. They created a Notion-based Kanban system to organize their ideas by status and tags, making it easier to track progress. This new workflow helps them stay prepared and organized, even if it doesn't make them a daily blogger.
 - [Obsidian Miscellany](https://tylersticka.com/journal/obsidian-miscellany/) 👤 Tyler Sticka 💬 936 🔖 #pkm 🗓️ 2025-05-21

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 52
+- Всего ссылок: 53
 
 ## Ссылки
 
+- [Every service should have a killswitch](https://seangoedecke.com/killswitches/) 👤 seangoedecke.com 💬 718 🔖 #development 🗓️ 2025-06-19
+    > **Заметка:** Хороший совет по встраиванию "выключателя" в необязательные фичи, которые могут упасть.
+    > **Резюме:** Every automated service should have a killswitch to quickly stop it if something goes wrong. This helps fix bugs fast and prevents overloaded systems from crashing. A simple killswitch, like a feature flag, can save time and reduce risks during incidents.
 - [Good Engineer/Bad Engineer](https://terriblesoftware.org/2025/06/13/good-engineer-bad-engineer/) 👤 Terrible Software 💬 524 🔖 #career, #development, #inspiration, #soft skills 🗓️ 2025-06-14
     > **Резюме:** Good engineers focus on delivering value and solving problems, while bad engineers get lost in complexity and personal achievements. They prioritize collaboration and learning over isolated perfectionism, and they know when to say no to maintain focus. Ultimately, effectiveness comes from making progress, not from striving for perfection.
 - [It's not your codebase](https://seangoedecke.com/not-your-codebase/) 👤 seangoedecke.com 💬 1087 🔖 #development 🗓️ 2025-05-30

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain) 👤 Joan Westenberg 💬 1429 🔖 #pkm, #obsidian, #inspiration 🗓️ 2025-06-18
+    > **Заметка:** Радикальный взгляд на PKM. Много интересных мыслей. 
+    > **Резюме:** Joan Westenberg deleted her extensive collection of notes and ideas, finding relief in the silence that followed. She realized that her "second brain" had become a burden, complicating her thoughts instead of helping them. Now, she aims to simplify her approach to knowledge, focusing on living her ideas rather than just storing them.
 - [Moving from Notion to Obsidian](https://daverupert.com/2025/05/notion-to-obsidian/) 👤 Dave Rupert 💬 2100 🔖 #pkm, #obsidian 🗓️ 2025-05-21
     > **Резюме:** The author switched from Notion to Obsidian after seven years, finding Obsidian's customization options and community appealing. They appreciate the plugins that enhance their workflow and help organize their projects. However, they find Obsidian's editor a bit finicky compared to Notion.
 - [🍑Obsidian / Dataview / JS — базы данных и произвольная визуализация в заметках](https://www.youtube.com/watch?v=F2tkYxKa7aY) 👤 Диджитализируй! 🔖 #obsidian 🗓️ 2025-04-02

@@ -1,16 +1,14 @@
 # Новые ссылки
 
-- Всего ссылок: 811
+- Всего ссылок: 809
 
 ## Ссылки
 
-- [🏁🐘Winning Race Conditions With PostgreSQL](https://dev.to/mistval/winning-race-conditions-with-postgresql-54gn) 👤 dev.to 💬 2497 🔖 #postgresql 🗓️ 2025-06-18
-- [Preventing Postgres SQL Race Conditions with SELECT FOR UPDATE](https://on-systems.tech/blog/128-preventing-read-committed-sql-concurrency-errors/) 👤 Danny Mican 💬 783 🔖 #postgresql 🗓️ 2025-06-18
+- [How Convenience Kills Curiosity](https://www.joanwestenberg.com/p/how-convenience-kills-curiosity) 👤 Joan Westenberg 💬 517 🗓️ 2025-06-19
+- [A World Without Touch Is a World Without Trust](https://www.joanwestenberg.com/p/a-world-without-touch-is-a-world-without-trust) 👤 Westenberg. 💬 1651 🗓️ 2025-06-19
+- [Why I Gave Up My Smartwatch](https://www.joanwestenberg.com/p/why-i-gave-up-my-smartwatch) 👤 Mitchell Hollander 💬 974 🗓️ 2025-06-19
 - [Mind Management, Not Time Management](private://read/01jy2bx4yjy7cc3fb6cs5zy8ma) 👤 David Kadavy 💬 69903 🗓️ 2025-06-18
-- [Smart People Don't Chase Goals; They Create Limits](https://www.joanwestenberg.com/p/smart-people-don-t-chase-goals-they-create-limits) 👤 Westenberg. 💬 1521 🗓️ 2025-06-18
-- [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain) 👤 Joan Westenberg 💬 1429 🗓️ 2025-06-18
-- [The Cult of Hard Mode](https://www.joanwestenberg.com/p/the-cult-of-hard-mode-why-simplicity-offends-tech-elites) 👤 Westenberg. 💬 1362 🗓️ 2025-06-18
-- [Expert Generalists](https://martinfowler.com/articles/expert-generalist.html) 👤 Martin Fowler 💬 1604 🗓️ 2025-06-18
+- [Smart People Don't Chase Goals; They Create Limits](https://www.joanwestenberg.com/p/smart-people-don-t-chase-goals-they-create-limits) 👤 Westenberg. 💬 1521 🔖 #inspiration 🗓️ 2025-06-18
 - [VibeTunnel: Turn Any Browser into Your Mac's Terminal](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal) 👤 Peter Steinberger 💬 2999 🗓️ 2025-06-18
 - [Von Express zu Go – mein Weg zu minimalistischen HTTP‑APIs](https://trakora.de/blog/weg-zu-minimalistischen-http-apis) 👤 trakora.de 💬 640 🔖 #go, #try 🗓️ 2025-06-18
     > **Заметка:** Пост к репо: https://github.com/trakora/production-go-api-template

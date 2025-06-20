@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 118
+- Всего ссылок: 120
 
 ## Ссылки
 
+- [Is this your brain on ChatGPT?](https://seangoedecke.com/your-brain-on-chatgpt/) 👤 seangoedecke.com 💬 1455 🔖 #llm 🗓️ 2025-06-19
+    > **Резюме:** A study tested brain activity while people wrote essays using no help, Google, or ChatGPT. The group using ChatGPT showed less brain activity, but this might not mean their brains are weaker. The author thinks using AI tools can free the brain to focus on harder problems, not harm it.
+- [Coding agents require skilled operators](https://simonwillison.net/2025/Jun/18/coding-agents/#atom-everything) 👤 Simon Willison 💬 197 🔖 #llm 🗓️ 2025-06-19
+    > **Резюме:** Coding agents currently need skilled human programmers to be effective. These agents can write and test code, but they often fail to solve problems without guidance. The human expert reviews the agent's work and helps refine it to achieve better results.
 - [We Can Just Measure Things](http://lucumr.pocoo.org/2025/6/17/measuring) 👤 Armin Ronacher's Thoughts and Writings 💬 1130 🔖 #llm 🗓️ 2025-06-18
     > **Резюме:** Armin Ronacher reflects on a recent project where he and friends experimented with programming agents. He emphasizes the importance of measuring code quality and project health using these agents, as they can provide objective feedback without the emotional bias of human developers. Ronacher argues that better tools, documentation, and ecosystem stability benefit both agents and human programmers alike.
 - [Anthropic: How we built our multi-agent research system](https://simonwillison.net/2025/Jun/14/multi-agent-research-system/#atom-everything) 👤 Simon Willison 💬 1075 🔖 #llm 🗓️ 2025-06-15

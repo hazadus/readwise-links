@@ -1,12 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 30
+- Всего ссылок: 31
 
 ## Ссылки
 
+- [PostgreSQL anti-patterns: read-modify-write cycles](https://www.2ndquadrant.com/en/blog/postgresql-anti-patterns-read-modify-write-cycles/) 👤 craig.ringer 💬 1422 🔖 #postgresql 🗓️ 2025-06-19
+    > **Заметка:** Хорошие краткие примеры
+    > **Резюме:** The article discusses a common SQL coding mistake called the read-modify-write cycle, which can lead to errors when multiple sessions update the same data simultaneously. It highlights various solutions to this issue, such as using row-level locking, SERIALIZABLE transactions, and optimistic concurrency control. The author emphasizes the importance of addressing concurrency issues instead of assuming the database will handle them automatically.
 - [🏁🐘Winning Race Conditions With PostgreSQL](https://dev.to/mistval/winning-race-conditions-with-postgresql-54gn) 👤 dev.to 💬 2497 🔖 #postgresql 🗓️ 2025-06-18
+    > **Заметка:** Хороший пример с partial index.  В целом отличный пост!
     > **Резюме:** PostgreSQL provides tools to manage race conditions and enforce uniqueness constraints, such as preventing duplicate email entries. By using UNIQUE indexes and partial indexes, developers can limit users to specific numbers of highlighted posts within a certain time frame. Additionally, features like transactions and advisory locks can help manage more complex constraints, ensuring that users follow the rules when submitting posts.
 - [Preventing Postgres SQL Race Conditions with SELECT FOR UPDATE](https://on-systems.tech/blog/128-preventing-read-committed-sql-concurrency-errors/) 👤 Danny Mican 💬 783 🔖 #postgresql 🗓️ 2025-06-18
+    > **Заметка:** Доступное объяснение причин возникновения race conditions.
     > **Резюме:** Postgres can experience logical race conditions with its default READ COMMITTED isolation level, especially during read-modify-write operations. To prevent these issues, the SELECT FOR UPDATE command can be used to lock rows and ensure that only one transaction modifies a resource at a time. While this approach guarantees correctness, it may lead to performance slowdowns in systems with many concurrent requests.
 - [Оптимизация Запросов В Postgresql](https://readwise.io/reader/document_raw_content/33757448) 👤 Домбровская Г, Новиков Б, Бейликова А 💬 61368 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
 - [Postgresql. Профессиональный SQL](https://readwise.io/reader/document_raw_content/324141976) 👤 Евгений Моргунов 💬 98953 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
