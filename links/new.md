@@ -4,11 +4,11 @@
 
 ## Ссылки
 
+- [12 Favorite Problems](https://www.nathancashion.com/blog/2022/9/12-favorite-problems) 👤 Nathan Cashion 💬 510 🗓️ 2025-06-20
+- [Eliminating dead code in Go projects](https://mfbmina.dev/en/posts/golang-deadcode/) 👤 Matheus Mina 💬 467 🔖 #go 🗓️ 2025-06-20
 - [How Convenience Kills Curiosity](https://www.joanwestenberg.com/p/how-convenience-kills-curiosity) 👤 Joan Westenberg 💬 517 🗓️ 2025-06-19
 - [A World Without Touch Is a World Without Trust](https://www.joanwestenberg.com/p/a-world-without-touch-is-a-world-without-trust) 👤 Westenberg. 💬 1651 🗓️ 2025-06-19
-- [Why I Gave Up My Smartwatch](https://www.joanwestenberg.com/p/why-i-gave-up-my-smartwatch) 👤 Mitchell Hollander 💬 974 🗓️ 2025-06-19
 - [Mind Management, Not Time Management](private://read/01jy2bx4yjy7cc3fb6cs5zy8ma) 👤 David Kadavy 💬 69903 🗓️ 2025-06-18
-- [Smart People Don't Chase Goals; They Create Limits](https://www.joanwestenberg.com/p/smart-people-don-t-chase-goals-they-create-limits) 👤 Westenberg. 💬 1521 🔖 #inspiration 🗓️ 2025-06-18
 - [VibeTunnel: Turn Any Browser into Your Mac's Terminal](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal) 👤 Peter Steinberger 💬 2999 🗓️ 2025-06-18
 - [Von Express zu Go – mein Weg zu minimalistischen HTTP‑APIs](https://trakora.de/blog/weg-zu-minimalistischen-http-apis) 👤 trakora.de 💬 640 🔖 #go, #try 🗓️ 2025-06-18
     > **Заметка:** Пост к репо: https://github.com/trakora/production-go-api-template

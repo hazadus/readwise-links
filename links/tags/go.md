@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 203
+- Всего ссылок: 204
 
 ## Ссылки
 
+- [Eliminating dead code in Go projects](https://mfbmina.dev/en/posts/golang-deadcode/) 👤 Matheus Mina 💬 467 🔖 #go 🗓️ 2025-06-20
+    > **Резюме:** Dead code is unused code that can cause problems like security risks and clutter. The Go tool "deadcode" helps find these unused functions and packages in a project. Running this tool keeps your code clean and efficient after changes or refactoring.
 - [Von Express zu Go – mein Weg zu minimalistischen HTTP‑APIs](https://trakora.de/blog/weg-zu-minimalistischen-http-apis) 👤 trakora.de 💬 640 🔖 #go, #try 🗓️ 2025-06-18
     > **Заметка:** Пост к репо: https://github.com/trakora/production-go-api-template
     > **Резюме:** Markus transitioned from using Express in JavaScript to developing minimalist HTTP APIs in Go, aiming for better understanding and control over his code. He initially avoided external libraries, focusing on Go's standard library, which helped him learn the language deeply and create a structured API template. This approach allowed him to maintain a robust codebase with fewer dependencies and less frequent updates.

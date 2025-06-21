@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 120
+- Всего ссылок: 121
 
 ## Ссылки
 
+- [What's going to happen to junior engineers?](https://seangoedecke.com/juniors-and-ai/) 👤 seangoedecke.com 💬 1132 🔖 #llm 🗓️ 2025-06-20
+    > **Резюме:** Tech companies are hiring fewer junior engineers because AI can do many tasks they used to do. Juniors struggle to add value because AI works better with experienced engineers who know when to guide it. This trend risks the future growth of senior engineers, which could hurt the industry long-term.
 - [Is this your brain on ChatGPT?](https://seangoedecke.com/your-brain-on-chatgpt/) 👤 seangoedecke.com 💬 1455 🔖 #llm 🗓️ 2025-06-19
     > **Резюме:** A study tested brain activity while people wrote essays using no help, Google, or ChatGPT. The group using ChatGPT showed less brain activity, but this might not mean their brains are weaker. The author thinks using AI tools can free the brain to focus on harder problems, not harm it.
 - [Coding agents require skilled operators](https://simonwillison.net/2025/Jun/18/coding-agents/#atom-everything) 👤 Simon Willison 💬 197 🔖 #llm 🗓️ 2025-06-19

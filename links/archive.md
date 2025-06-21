@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 771
+- Всего ссылок: 774
 
 ## Ссылки
 
+- [What's going to happen to junior engineers?](https://seangoedecke.com/juniors-and-ai/) 👤 seangoedecke.com 💬 1132 🔖 #llm 🗓️ 2025-06-20
+- [Why I Gave Up My Smartwatch](https://www.joanwestenberg.com/p/why-i-gave-up-my-smartwatch) 👤 Mitchell Hollander 💬 974 🗓️ 2025-06-19
 - [PostgreSQL anti-patterns: read-modify-write cycles](https://www.2ndquadrant.com/en/blog/postgresql-anti-patterns-read-modify-write-cycles/) 👤 craig.ringer 💬 1422 🔖 #postgresql 🗓️ 2025-06-19
     > **Заметка:** Хорошие краткие примеры
 - [Is this your brain on ChatGPT?](https://seangoedecke.com/your-brain-on-chatgpt/) 👤 seangoedecke.com 💬 1455 🔖 #llm 🗓️ 2025-06-19
@@ -14,11 +16,12 @@
     > **Заметка:** Хороший пример с partial index.  В целом отличный пост!
 - [Preventing Postgres SQL Race Conditions with SELECT FOR UPDATE](https://on-systems.tech/blog/128-preventing-read-committed-sql-concurrency-errors/) 👤 Danny Mican 💬 783 🔖 #postgresql 🗓️ 2025-06-18
     > **Заметка:** Доступное объяснение причин возникновения race conditions.
+- [Smart People Don't Chase Goals; They Create Limits](https://www.joanwestenberg.com/p/smart-people-don-t-chase-goals-they-create-limits) 👤 Westenberg. 💬 1521 🔖 #inspiration 🗓️ 2025-06-18
 - [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain) 👤 Joan Westenberg 💬 1429 🔖 #pkm, #obsidian, #inspiration 🗓️ 2025-06-18
     > **Заметка:** Радикальный взгляд на PKM. Много интересных мыслей. 
 - [The Cult of Hard Mode](https://www.joanwestenberg.com/p/the-cult-of-hard-mode-why-simplicity-offends-tech-elites) 👤 Westenberg. 💬 1362 🔖 #inspiration 🗓️ 2025-06-18
     > **Заметка:** Сильный пост о недооцененности простых решений в tech-сфере. 
-- [Expert Generalists](https://martinfowler.com/articles/expert-generalist.html) 👤 Martin Fowler 💬 1604 🔖 #career 🗓️ 2025-06-18
+- [Expert Generalists](https://martinfowler.com/articles/expert-generalist.html) 👤 Martin Fowler 💬 1604 🔖 #career 🗓️ 2025-06-20
 - [We Can Just Measure Things](http://lucumr.pocoo.org/2025/6/17/measuring) 👤 Armin Ronacher's Thoughts and Writings 💬 1130 🔖 #llm 🗓️ 2025-06-18
 - [Anthropic: How we built our multi-agent research system](https://simonwillison.net/2025/Jun/14/multi-agent-research-system/#atom-everything) 👤 Simon Willison 💬 1075 🔖 #llm 🗓️ 2025-06-15
 - [Why Generative AI Coding Tools and Agents Do Not Work For Me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me) 👤 Miguel Grinberg 💬 1467 🔖 #llm 🗓️ 2025-06-15
