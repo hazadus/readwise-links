@@ -1,5 +1,38 @@
 [
     {
+        "id": "01jy8pv8j2d88n50ec2rjykkc6",
+        "url": "https://read.readwise.io/read/01jy8pv8j2d88n50ec2rjykkc6",
+        "source_url": "https://www.youtube.com/watch?v=TTtQxUprbDY",
+        "title": "MCP Core Concepts - Resources, Tools, Prompts & Transports!",
+        "author": "BugBytes",
+        "source": "Reader Share Sheet iOS",
+        "category": "video",
+        "location": "new",
+        "tags": {
+            "mcp": {
+                "name": "MCP",
+                "type": "manual",
+                "created": 1750491580925
+            }
+        },
+        "site_name": "YouTube",
+        "word_count": null,
+        "notes": "",
+        "summary": "MCP is a protocol that helps apps share useful data and tools with AI models safely and easily. It uses resources to provide data, tools to perform actions, and prompts to guide AI interactions. Communication between parts happens through transports that manage messages between clients and servers.",
+        "image_url": "https://i.ytimg.com/vi/TTtQxUprbDY/maxresdefault.jpg",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-06-20",
+        "created_at": "2025-06-21T07:39:30.783575+00:00",
+        "updated_at": "2025-06-21T07:39:45.802507+00:00",
+        "saved_at": "2025-06-21T07:39:30.754000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-06-21T07:39:30.754000+00:00"
+    },
+    {
         "id": "01jy6h0qby2xe5cq9f6rzm4sfa",
         "url": "https://read.readwise.io/read/01jy6h0qby2xe5cq9f6rzm4sfa",
         "source_url": "https://seangoedecke.com/juniors-and-ai/",

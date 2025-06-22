@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [MCP Core Concepts - Resources, Tools, Prompts & Transports!](https://www.youtube.com/watch?v=TTtQxUprbDY) 👤 BugBytes 🔖 #mcp 🗓️ 2025-06-21
+    > **Резюме:** MCP is a protocol that helps apps share useful data and tools with AI models safely and easily. It uses resources to provide data, tools to perform actions, and prompts to guide AI interactions. Communication between parts happens through transports that manage messages between clients and servers.
 - [Автоматическая верстка макетов из Figma в Cursor AI с помощью MCP сервера](https://www.youtube.com/watch?v=4_pd7HxgXyg) 👤 ВебКадеми | Юрий Ключевский 🔖 #llm, #mcp 🗓️ 2025-06-14
     > **Резюме:** В видео Юрий Ключевский показывает, как настроить Figma для автоматической верстки макетов с помощью MCP сервера и Cursor AI. Он объясняет, как создать токен доступа и подключить сервер для работы с графикой и макетами. Также он делится советами по устранению проблем, связанных с загрузкой изображений и настройкой путей для файлов.
 - [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/) 👤 Nilenso 💬 1239 🔖 #mcp 🗓️ 2025-06-11

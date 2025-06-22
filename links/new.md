@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 809
+- Всего ссылок: 810
 
 ## Ссылки
 
+- [MCP Core Concepts - Resources, Tools, Prompts & Transports!](https://www.youtube.com/watch?v=TTtQxUprbDY) 👤 BugBytes 🔖 #mcp 🗓️ 2025-06-21
 - [12 Favorite Problems](https://www.nathancashion.com/blog/2022/9/12-favorite-problems) 👤 Nathan Cashion 💬 510 🗓️ 2025-06-20
 - [Eliminating dead code in Go projects](https://mfbmina.dev/en/posts/golang-deadcode/) 👤 Matheus Mina 💬 467 🔖 #go 🗓️ 2025-06-20
 - [How Convenience Kills Curiosity](https://www.joanwestenberg.com/p/how-convenience-kills-curiosity) 👤 Joan Westenberg 💬 517 🗓️ 2025-06-19
