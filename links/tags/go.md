@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 204
+- Всего ссылок: 205
 
 ## Ссылки
 
+- [Go Before You Wait • The Applied Go Weekly Newsletter 2025-06-22](https://newsletter.appliedgo.net/archive/2025-06-22-go-before-you-wait/) 👤 The Applied Go Weekly Newsletter 💬 1531 🔖 #go 🗓️ 2025-06-22
+    > **Резюме:** Go 1.25 introduces a new WaitGroup.Go() method that simplifies goroutine management by handling Add and Done calls automatically. This small change makes concurrent programming easier and less error-prone. The newsletter also shares useful articles, tools, and projects to help Go developers improve their skills.
 - [Eliminating dead code in Go projects](https://mfbmina.dev/en/posts/golang-deadcode/) 👤 Matheus Mina 💬 467 🔖 #go 🗓️ 2025-06-20
     > **Резюме:** Dead code is unused code that can cause problems like security risks and clutter. The Go tool "deadcode" helps find these unused functions and packages in a project. Running this tool keeps your code clean and efficient after changes or refactoring.
 - [Von Express zu Go – mein Weg zu minimalistischen HTTP‑APIs](https://trakora.de/blog/weg-zu-minimalistischen-http-apis) 👤 trakora.de 💬 640 🔖 #go, #try 🗓️ 2025-06-18
