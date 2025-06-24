@@ -1,13 +1,17 @@
 # Новые ссылки
 
-- Всего ссылок: 814
+- Всего ссылок: 817
 
 ## Ссылки
 
+- [Repeat Yourself](https://endler.dev/2025/repeat-yourself/) 👤 Matthias Endler 💬 1624 🗓️ 2025-06-24
+- [Concurrency Patterns in Go: sync.WaitGroup](mailto:reader-forwarded-email/6c2a36dd60dd3d5d1669ba8a7eaa0bf6) 👤 Jon Calhoun 💬 963 🗓️ 2025-06-23
+- [Cognitive Offshoring and the Decline of Personal Thought](https://www.joanwestenberg.com/p/cognitive-offshoring-and-the-decline-of-personal-thought-26c6d43ac5089a9a) 👤 Joan Westenberg 💬 1238 🗓️ 2025-06-23
 - [Go Before You Wait • The Applied Go Weekly Newsletter 2025-06-22](https://newsletter.appliedgo.net/archive/2025-06-22-go-before-you-wait/) 👤 The Applied Go Weekly Newsletter 💬 1531 🔖 #go 🗓️ 2025-06-22
 - [Pure and impure engineering](https://seangoedecke.com/pure-and-impure-engineering/) 👤 seangoedecke.com 💬 2264 🗓️ 2025-06-22
 - [My First Open Source AI Generated Library](http://lucumr.pocoo.org/2025/6/21/my-first-ai-library) 👤 Armin Ronacher's Thoughts and Writings 💬 755 🗓️ 2025-06-22
-- [Everything I know about good system design](https://seangoedecke.com/good-system-design/) 👤 seangoedecke.com 💬 3948 🗓️ 2025-06-22
+- [Everything I know about good system design](https://seangoedecke.com/good-system-design/) 👤 seangoedecke.com 💬 3948 🔖 #development, #softwaredesign 🗓️ 2025-06-22
+    > **Заметка:** Всё по делу пишет. Никаких открытий, но рекомендации хорошие. 
 - [MCP Core Concepts - Resources, Tools, Prompts & Transports!](https://www.youtube.com/watch?v=TTtQxUprbDY) 👤 BugBytes 🔖 #mcp 🗓️ 2025-06-21
 - [12 Favorite Problems](https://www.nathancashion.com/blog/2022/9/12-favorite-problems) 👤 Nathan Cashion 💬 510 🗓️ 2025-06-20
 - [Eliminating dead code in Go projects](https://mfbmina.dev/en/posts/golang-deadcode/) 👤 Matheus Mina 💬 467 🔖 #go 🗓️ 2025-06-20

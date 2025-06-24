@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 53
+- Всего ссылок: 54
 
 ## Ссылки
 
+- [Everything I know about good system design](https://seangoedecke.com/good-system-design/) 👤 seangoedecke.com 💬 3948 🔖 #development, #softwaredesign 🗓️ 2025-06-22
+    > **Заметка:** Всё по делу пишет. Никаких открытий, но рекомендации хорошие. 
+    > **Резюме:** Good system design means minimizing stateful parts because they can cause problems. Databases are often slow, so use indexes wisely and send read queries to replicas to avoid overload. Use caching carefully and choose pushing or pulling data methods based on how often data changes and how many clients need it.
 - [Every service should have a killswitch](https://seangoedecke.com/killswitches/) 👤 seangoedecke.com 💬 718 🔖 #development 🗓️ 2025-06-19
     > **Заметка:** Хороший совет по встраиванию "выключателя" в необязательные фичи, которые могут упасть.
     > **Резюме:** Every automated service should have a killswitch to quickly stop it if something goes wrong. This helps fix bugs fast and prevents overloaded systems from crashing. A simple killswitch, like a feature flag, can save time and reduce risks during incidents.
