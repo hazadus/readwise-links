@@ -1,15 +1,35 @@
 # Ссылки
 
-- Всего ссылок: 121
+- Всего ссылок: 124
 
 ## Ссылки
 
+- [Cognitive Offshoring and the Decline of Personal Thought](https://www.joanwestenberg.com/p/cognitive-offshoring-and-the-decline-of-personal-thought-26c6d43ac5089a9a) 👤 Joan Westenberg 💬 1238 🔖 #llm, #learning 🗓️ 2025-06-23
+    > **Заметка:** Автор утверждает, что поверхностное потребление информации без глубоких размышлений не приносит реальных знаний, а лишь создает их видимость.
+
+---
+
+Майкл Поланьи (1891 – 1976) — венгерско-британский учёный-полимат: начинал как физико-химик мирового уровня, а затем стал влиятельным философом науки.  
+
+Что о нём важно знать в контексте статьи:
+
+- Учёный-практик. До ухода в философию он внёс крупный вклад в физическую химию — исследования адсорбции, химической кинетики, строения полимеров.  
+- Философ «личного знания». В книге «Personal Knowledge» (1958) и эссе «The Tacit Dimension» (1966) Поланьи показал, что значительная часть того, что мы «знаем», не может быть полностью сформулирована словами или алгоритмами. Его ключевая фраза: «Мы знаем больше, чем можем сказать».  
+- Концепция «tacit knowledge» (неявного знания). Он объяснял, что подлинное мастерство включает телесные ощущения, интуицию, многократную практику и личное обживание темы — то, что невозможно передать простым перечнем фактов.  
+- Критика «объективизма». Поланьи считал, что попытка свести познание к чистым, безличным фактам обедняет науку; любое открытие содержит элемент личного участия, веры и творчества исследователя.
+
+Джоан Вестенберг ссылается на Поланьи именно как на автора идеи о неявном знании, чтобы подчеркнуть: поверхностное «офшоринг» мышления к алгоритмам и сводкам лишает нас того глубинного, личного аспекта понимания, о котором говорил Поланьи.
+    > **Резюме:** We rely more on AI tools that give quick answers, but this weakens our own thinking and memory. Offloading thought to machines makes knowledge shallow and disconnected from personal understanding. To keep wisdom, we must slow down, question, and think deeply ourselves.
+- [Pure and impure engineering](https://seangoedecke.com/pure-and-impure-engineering/) 👤 seangoedecke.com 💬 2264 🔖 #llm, #development 🗓️ 2025-06-22
+    > **Резюме:** There are two kinds of software engineering: pure engineering focuses on perfect technical solutions, while impure engineering solves real-world problems efficiently. Large tech companies need mostly impure engineering because it handles complex, practical challenges and teamwork. Both types are hard and valuable, but they require different skills and ways of thinking.
 - [What's going to happen to junior engineers?](https://seangoedecke.com/juniors-and-ai/) 👤 seangoedecke.com 💬 1132 🔖 #llm 🗓️ 2025-06-20
     > **Резюме:** Tech companies are hiring fewer junior engineers because AI can do many tasks they used to do. Juniors struggle to add value because AI works better with experienced engineers who know when to guide it. This trend risks the future growth of senior engineers, which could hurt the industry long-term.
 - [Is this your brain on ChatGPT?](https://seangoedecke.com/your-brain-on-chatgpt/) 👤 seangoedecke.com 💬 1455 🔖 #llm 🗓️ 2025-06-19
     > **Резюме:** A study tested brain activity while people wrote essays using no help, Google, or ChatGPT. The group using ChatGPT showed less brain activity, but this might not mean their brains are weaker. The author thinks using AI tools can free the brain to focus on harder problems, not harm it.
 - [Coding agents require skilled operators](https://simonwillison.net/2025/Jun/18/coding-agents/#atom-everything) 👤 Simon Willison 💬 197 🔖 #llm 🗓️ 2025-06-19
     > **Резюме:** Coding agents currently need skilled human programmers to be effective. These agents can write and test code, but they often fail to solve problems without guidance. The human expert reviews the agent's work and helps refine it to achieve better results.
+- [VibeTunnel: Turn Any Browser into Your Mac's Terminal](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal) 👤 Peter Steinberger 💬 2999 🔖 #llm 🗓️ 2025-06-18
+    > **Резюме:** VibeTunnel is a browser-based terminal controller developed in a day, allowing users to control their Mac's terminal remotely. The team used various technologies, including Xterm.js and Rust, to create a functional and efficient terminal emulator. Their collaboration and the use of AI tools like Claude Code significantly sped up the development process.
 - [We Can Just Measure Things](http://lucumr.pocoo.org/2025/6/17/measuring) 👤 Armin Ronacher's Thoughts and Writings 💬 1130 🔖 #llm 🗓️ 2025-06-18
     > **Резюме:** Armin Ronacher reflects on a recent project where he and friends experimented with programming agents. He emphasizes the importance of measuring code quality and project health using these agents, as they can provide objective feedback without the emotional bias of human developers. Ronacher argues that better tools, documentation, and ecosystem stability benefit both agents and human programmers alike.
 - [Anthropic: How we built our multi-agent research system](https://simonwillison.net/2025/Jun/14/multi-agent-research-system/#atom-everything) 👤 Simon Willison 💬 1075 🔖 #llm 🗓️ 2025-06-15
@@ -168,7 +188,7 @@ Read hundreds of articles on programming: https://freecodecamp.org/news
     > **Резюме:** Language models struggle to generate new ideas because they rely on existing training data, similar to how humans combine past experiences to create novel concepts. While there are instances where language models produce new suggestions, these often lack the depth and innovation seen in human creativity. Improving their ability to generate meaningful ideas may require better engineering and scaffolding techniques.
 - [Basic Claude Code](https://harper.blog/2025/05/08/basic-claude-code/) 👤 Harper Reed <harper@modest.com> 💬 1490 🔖 #llm, #development, #inspiration 🗓️ 2025-05-10
     > **Резюме:** The author discusses the benefits of using Claude Code for coding workflows, highlighting its power and effectiveness. They emphasize the importance of practices like test-driven development and linting to improve code quality. The author also shares their team's positive experiences and encourages readers to share their own workflows.
-- [How to Build Your Own Local AI: Create Free RAG and AI Agents with Qwen 3 and Ollama](https://www.freecodecamp.org/news/build-a-local-ai/) 👤 freeCodeCamp.org 💬 4576 🔖 #llm, #agents 🗓️ 2025-05-08
+- [How to Build Your Own Local AI: Create Free RAG and AI Agents with Qwen 3 and Ollama](https://www.freecodecamp.org/news/build-a-local-ai/) 👤 freeCodeCamp.org 💬 4576 🔖 #llm, #try, #agents 🗓️ 2025-05-08
     > **Резюме:** The article explains how to build a local AI using Qwen 3, an open-source language model from Alibaba, and the Ollama tool, which simplifies running these models. It provides a step-by-step guide for setting up a local AI environment, creating a Retrieval-Augmented Generation (RAG) system, and developing basic AI agents. By following this tutorial, users can leverage powerful AI tools on their own hardware for free.
 - [I don't care about your magic prompts](https://seangoedecke.com/magic-prompts/) 👤 seangoedecke.com 💬 761 🔖 #llm 🗓️ 2025-05-07
     > **Резюме:** Many tech influencers promote "magic prompts" that claim to unlock superhuman abilities with language models, but this approach is misleading. Instead of focusing on perfect prompts, it's more important to understand what language models can do and how to provide them with the right context for effective use. Building skills in using AI involves experimenting with different tasks and learning from the model's strengths and weaknesses, rather than relying on a library of prompts.
@@ -215,7 +235,7 @@ Read hundreds of articles on programming: https://freecodecamp.org/news
     > **Резюме:** AI is transforming software engineering teams, and leaders must embrace it to guide their teams effectively. It's important for managers to experiment with AI tools themselves and create a culture of exploration within their teams. While there are challenges and concerns about job security, adapting to AI can enhance productivity and ensure long-term success.
 - [if you aren't redlining the LLM, you aren't headlining](https://ghuntley.com/redlining/) 👤 Geoffrey Huntley 💬 541 🔖 #llm 🗓️ 2025-04-07
     > **Резюме:** The author compares audio signal clipping in DJing to limitations in large language models (LLMs), noting that each LLM has a unique context window for optimal performance. Businesses need to budget significantly for LLM usage to stay competitive, as these tools can double engineers' productivity. Without adequate funding for these resources, companies risk falling behind their competitors.
-- [Личный ИИ-ассистент на ваших данных. Часть 1: Векторная база ChromaDB + DeepSeek | GPT](https://habr.com/ru/companies/amvera/articles/897830/) 👤 yakvenalex 💬 6285 🔖 #llm 🗓️ 2025-04-06
+- [Личный ИИ-ассистент на ваших данных. Часть 1: Векторная база ChromaDB + DeepSeek | GPT](https://habr.com/ru/companies/amvera/articles/897830/) 👤 yakvenalex 💬 6285 🔖 #llm, #try 🗓️ 2025-04-06
     > **Резюме:** В статье обсуждается, как интегрировать векторные базы данных, такие как ChromaDB, с нейросетями для эффективного поиска информации. Основное внимание уделяется документам и метаданным, которые помогают улучшить семантический поиск товаров в интернет-магазинах. Автор предлагает создать простой поисковик, преобразующий запросы пользователей в векторное представление для получения релевантных результатов.
 - [Простой баг, ChatGPT и 50 минут боли: как ИИ программистов заменял](https://www.youtube.com/watch?v=DvAaql-nZ50&feature=youtu.be) 👤 Диджитализируй! 🔖 #llm 🗓️ 2025-04-06
     > **Резюме:** The author discusses the challenges of using AI tools, like ChatGPT, for programming tasks, highlighting issues with code copying and error handling. Despite the potential of AI to assist, it often struggles with specific technical problems, leading to frustration. The article emphasizes that while AI can enhance skills, it is not a perfect solution and can sometimes provide misleading advice.

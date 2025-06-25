@@ -1,9 +1,27 @@
 # Ссылки
 
-- Всего ссылок: 16
+- Всего ссылок: 18
 
 ## Ссылки
 
+- [Cognitive Offshoring and the Decline of Personal Thought](https://www.joanwestenberg.com/p/cognitive-offshoring-and-the-decline-of-personal-thought-26c6d43ac5089a9a) 👤 Joan Westenberg 💬 1238 🔖 #llm, #learning 🗓️ 2025-06-23
+    > **Заметка:** Автор утверждает, что поверхностное потребление информации без глубоких размышлений не приносит реальных знаний, а лишь создает их видимость.
+
+---
+
+Майкл Поланьи (1891 – 1976) — венгерско-британский учёный-полимат: начинал как физико-химик мирового уровня, а затем стал влиятельным философом науки.  
+
+Что о нём важно знать в контексте статьи:
+
+- Учёный-практик. До ухода в философию он внёс крупный вклад в физическую химию — исследования адсорбции, химической кинетики, строения полимеров.  
+- Философ «личного знания». В книге «Personal Knowledge» (1958) и эссе «The Tacit Dimension» (1966) Поланьи показал, что значительная часть того, что мы «знаем», не может быть полностью сформулирована словами или алгоритмами. Его ключевая фраза: «Мы знаем больше, чем можем сказать».  
+- Концепция «tacit knowledge» (неявного знания). Он объяснял, что подлинное мастерство включает телесные ощущения, интуицию, многократную практику и личное обживание темы — то, что невозможно передать простым перечнем фактов.  
+- Критика «объективизма». Поланьи считал, что попытка свести познание к чистым, безличным фактам обедняет науку; любое открытие содержит элемент личного участия, веры и творчества исследователя.
+
+Джоан Вестенберг ссылается на Поланьи именно как на автора идеи о неявном знании, чтобы подчеркнуть: поверхностное «офшоринг» мышления к алгоритмам и сводкам лишает нас того глубинного, личного аспекта понимания, о котором говорил Поланьи.
+    > **Резюме:** We rely more on AI tools that give quick answers, but this weakens our own thinking and memory. Offloading thought to machines makes knowledge shallow and disconnected from personal understanding. To keep wisdom, we must slow down, question, and think deeply ourselves.
+- [How Convenience Kills Curiosity](https://www.joanwestenberg.com/p/how-convenience-kills-curiosity) 👤 Joan Westenberg 💬 517 🔖 #learning 🗓️ 2025-06-19
+    > **Резюме:** Convenience in technology has made finding information too easy, which reduces our curiosity and desire to explore. Instead of discovering new ideas, we often just have our preferences confirmed. To nurture curiosity, we need tools that encourage exploration and thoughtful engagement with knowledge.
 - [Thoughts on thinking](https://dcurt.is/thinking) 👤 Dustin Curtis on Svbtle 💬 613 🔖 #llm, #learning 🗓️ 2025-05-25
     > **Заметка:** Автор удручён тем, что LLM отнимает у него необходимость глубоко размышлять, тем самым развивая своё мышление. «Всё равно ИИ сделает это быстрее и лучше».  Спорная точка зрения. 
     > **Резюме:** The author feels stuck and believes that their creative efforts are overshadowed by AI's ability to produce better ideas quickly. They reflect on how using AI has diminished their own thinking and intellectual growth, despite having access to more information than ever. Ultimately, they feel that relying on AI is more like sedation than real mental exercise, even as they continue to share their thoughts.

@@ -1,10 +1,35 @@
 # Архивные ссылки
 
-- Всего ссылок: 774
+- Всего ссылок: 790
 
 ## Ссылки
 
+- [Richard Feynman’s Letter on What Problems to Solve](https://fs.blog/richard-feynman-what-problems-to-solve/) 👤 Farnam Street 💬 693 🗓️ 2025-06-24
+    > **Заметка:** 12 problems
+- [Repeat Yourself](https://endler.dev/2025/repeat-yourself/) 👤 Matthias Endler 💬 1624 🔖 #principles, #development 🗓️ 2025-06-24
+    > **Заметка:** Далеко не первый пост по поводу противоречивости принципа DRY. Очередное подтверждение этой идеи.
+- [Cognitive Offshoring and the Decline of Personal Thought](https://www.joanwestenberg.com/p/cognitive-offshoring-and-the-decline-of-personal-thought-26c6d43ac5089a9a) 👤 Joan Westenberg 💬 1238 🔖 #llm, #learning 🗓️ 2025-06-23
+    > **Заметка:** Автор утверждает, что поверхностное потребление информации без глубоких размышлений не приносит реальных знаний, а лишь создает их видимость.
+
+---
+
+Майкл Поланьи (1891 – 1976) — венгерско-британский учёный-полимат: начинал как физико-химик мирового уровня, а затем стал влиятельным философом науки.  
+
+Что о нём важно знать в контексте статьи:
+
+- Учёный-практик. До ухода в философию он внёс крупный вклад в физическую химию — исследования адсорбции, химической кинетики, строения полимеров.  
+- Философ «личного знания». В книге «Personal Knowledge» (1958) и эссе «The Tacit Dimension» (1966) Поланьи показал, что значительная часть того, что мы «знаем», не может быть полностью сформулирована словами или алгоритмами. Его ключевая фраза: «Мы знаем больше, чем можем сказать».  
+- Концепция «tacit knowledge» (неявного знания). Он объяснял, что подлинное мастерство включает телесные ощущения, интуицию, многократную практику и личное обживание темы — то, что невозможно передать простым перечнем фактов.  
+- Критика «объективизма». Поланьи считал, что попытка свести познание к чистым, безличным фактам обедняет науку; любое открытие содержит элемент личного участия, веры и творчества исследователя.
+
+Джоан Вестенберг ссылается на Поланьи именно как на автора идеи о неявном знании, чтобы подчеркнуть: поверхностное «офшоринг» мышления к алгоритмам и сводкам лишает нас того глубинного, личного аспекта понимания, о котором говорил Поланьи.
+- [Pure and impure engineering](https://seangoedecke.com/pure-and-impure-engineering/) 👤 seangoedecke.com 💬 2264 🔖 #llm, #development 🗓️ 2025-06-22
+- [Everything I know about good system design](https://seangoedecke.com/good-system-design/) 👤 seangoedecke.com 💬 3948 🔖 #development, #softwaredesign 🗓️ 2025-06-22
+    > **Заметка:** Всё по делу пишет. Никаких открытий, но рекомендации хорошие. 
 - [What's going to happen to junior engineers?](https://seangoedecke.com/juniors-and-ai/) 👤 seangoedecke.com 💬 1132 🔖 #llm 🗓️ 2025-06-20
+- [12 Favorite Problems](https://www.nathancashion.com/blog/2022/9/12-favorite-problems) 👤 Nathan Cashion 💬 510 🗓️ 2025-06-20
+- [Eliminating dead code in Go projects](https://mfbmina.dev/en/posts/golang-deadcode/) 👤 Matheus Mina 💬 467 🔖 #go 🗓️ 2025-06-20
+- [How Convenience Kills Curiosity](https://www.joanwestenberg.com/p/how-convenience-kills-curiosity) 👤 Joan Westenberg 💬 517 🔖 #learning 🗓️ 2025-06-19
 - [Why I Gave Up My Smartwatch](https://www.joanwestenberg.com/p/why-i-gave-up-my-smartwatch) 👤 Mitchell Hollander 💬 974 🗓️ 2025-06-19
 - [PostgreSQL anti-patterns: read-modify-write cycles](https://www.2ndquadrant.com/en/blog/postgresql-anti-patterns-read-modify-write-cycles/) 👤 craig.ringer 💬 1422 🔖 #postgresql 🗓️ 2025-06-19
     > **Заметка:** Хорошие краткие примеры
@@ -22,6 +47,10 @@
 - [The Cult of Hard Mode](https://www.joanwestenberg.com/p/the-cult-of-hard-mode-why-simplicity-offends-tech-elites) 👤 Westenberg. 💬 1362 🔖 #inspiration 🗓️ 2025-06-18
     > **Заметка:** Сильный пост о недооцененности простых решений в tech-сфере. 
 - [Expert Generalists](https://martinfowler.com/articles/expert-generalist.html) 👤 Martin Fowler 💬 1604 🔖 #career 🗓️ 2025-06-20
+- [VibeTunnel: Turn Any Browser into Your Mac's Terminal](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal) 👤 Peter Steinberger 💬 2999 🔖 #llm 🗓️ 2025-06-18
+- [Оптимизация Запросов В Postgresql](https://readwise.io/reader/document_raw_content/33757448) 👤 Домбровская Г, Новиков Б, Бейликова А 💬 61368 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
+- [Postgresql. Профессиональный SQL](https://readwise.io/reader/document_raw_content/324141976) 👤 Евгений Моргунов 💬 98953 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
+- [Postgresql Основы Языка SQL](https://readwise.io/reader/document_raw_content/20530573) 👤 Е. П. Моргунов 💬 66946 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
 - [We Can Just Measure Things](http://lucumr.pocoo.org/2025/6/17/measuring) 👤 Armin Ronacher's Thoughts and Writings 💬 1130 🔖 #llm 🗓️ 2025-06-18
 - [Anthropic: How we built our multi-agent research system](https://simonwillison.net/2025/Jun/14/multi-agent-research-system/#atom-everything) 👤 Simon Willison 💬 1075 🔖 #llm 🗓️ 2025-06-15
 - [Why Generative AI Coding Tools and Agents Do Not Work For Me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me) 👤 Miguel Grinberg 💬 1467 🔖 #llm 🗓️ 2025-06-15
@@ -144,6 +173,7 @@
 - [Creating a static website for all my bookmarks](https://alexwlchan.net/2025/bookmarks-static-site/?utm_source=mastodon) 👤 alexwlchan.net 💬 1554 🔖 #inspiration 🗓️ 2025-05-13
 - [Domain-Driven Design: зачем он нужен аналитику и как его применять на практике](https://habr.com/ru/articles/908782/) 👤 innokentyBo 💬 1807 🔖 #ddd 🗓️ 2025-05-13
 - [How to make a Link Aggregator in Obsidian](https://daverupert.com/2025/05/obsidian-link-aggregator/) 👤 Dave Rupert 💬 913 🔖 #inspiration 🗓️ 2025-05-13
+- [FastAPI + Keycloak: Простая и безопасная авторизация в веб-приложении на примере реального проекта](https://habr.com/ru/companies/amvera/articles/907990/) 👤 yakvenalex 💬 6616 🔖 #try, #fastapi 🗓️ 2025-05-12
 - [Why can't language models come up with new ideas?](https://seangoedecke.com/why-cant-ais-have-new-ideas/) 👤 seangoedecke.com 💬 1192 🔖 #llm 🗓️ 2025-05-12
 - [The importance of character in software engineering](https://seangoedecke.com/character-in-software-engineering/) 👤 seangoedecke.com 💬 1052 🔖 #career, #development, #soft skills, #communication 🗓️ 2025-05-10
 - [Microservices Are a Tax Your Startup Probably Can’t Afford](https://nexo.sh/posts/microservices-for-startups/) 👤 Oleg Pustovit 💬 3501 🔖 #inspiration, #architecture, #microservices 🗓️ 2025-05-10
@@ -152,6 +182,7 @@
 - [Recursive Types in TypeScript: A Brief Exploration](https://www.freecodecamp.org/news/recursive-types-in-typescript-a-brief-exploration/) 👤 freeCodeCamp.org 💬 1774 🔖 #typescript 🗓️ 2025-05-10
     > **Заметка:** Интересный пример с DeepPartial.
 - [How projects fail at large tech companies](https://seangoedecke.com/how-projects-fail/) 👤 seangoedecke.com 💬 1643 🗓️ 2025-05-10
+- [How to Build Your Own Local AI: Create Free RAG and AI Agents with Qwen 3 and Ollama](https://www.freecodecamp.org/news/build-a-local-ai/) 👤 freeCodeCamp.org 💬 4576 🔖 #llm, #try, #agents 🗓️ 2025-05-08
 - [I don't care about your magic prompts](https://seangoedecke.com/magic-prompts/) 👤 seangoedecke.com 💬 761 🔖 #llm 🗓️ 2025-05-07
 - [Getting things "done" in large tech companies](https://seangoedecke.com/getting-things-done/) 👤 seangoedecke.com 💬 693 🔖 #career, #development 🗓️ 2025-05-07
 - [Ты решаешь LeetCode неправильно. Как пройти любое собеседование в BigTech?](https://habr.com/ru/articles/906642/) 👤 BincomAD 💬 1405 🔖 #go, #career, #learning, #interview 🗓️ 2025-05-04
@@ -207,6 +238,7 @@
 - [if you aren't redlining the LLM, you aren't headlining](https://ghuntley.com/redlining/) 👤 Geoffrey Huntley 💬 541 🔖 #llm 🗓️ 2025-04-07
 - [Go With The Vibe • The Applied Go Weekly Newsletter 2025-04-06](https://newsletter.appliedgo.net/archive/2025-04-06-go-with-the-vibe/) 👤 The Applied Go Weekly Newsletter 💬 1944 🔖 #go 🗓️ 2025-04-07
 - [The blissful zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project) 👤 Josh Collinsworth 💬 1168 🔖 #development, #inspiration 🗓️ 2025-04-06
+- [Личный ИИ-ассистент на ваших данных. Часть 1: Векторная база ChromaDB + DeepSeek | GPT](https://habr.com/ru/companies/amvera/articles/897830/) 👤 yakvenalex 💬 6285 🔖 #llm, #try 🗓️ 2025-04-06
 - [Простой баг, ChatGPT и 50 минут боли: как ИИ программистов заменял](https://www.youtube.com/watch?v=DvAaql-nZ50&feature=youtu.be) 👤 Диджитализируй! 🔖 #llm 🗓️ 2025-04-06
 - [What to Do](https://paulgraham.com/do.html) 👤 Paul Graham 💬 1588 🗓️ 2025-04-06
 - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) 👤 anthropic.com 💬 2919 🔖 #llm 🗓️ 2025-04-06
@@ -304,6 +336,7 @@
 - [Advice for prompting reasoning models](https://seangoedecke.com/prompting-reasoning-models/) 👤 seangoedecke.com 💬 538 🔖 #llm 🗓️ 2025-02-24
 - [Howto: Humble command-line assistant](https://antonz.org/howto/) 👤 Anton Zhiyanov 💬 690 🔖 #go, #llm 🗓️ 2025-02-24
 - [Why weak managers are a problem](https://seangoedecke.com/weak-managers/) 👤 seangoedecke.com 💬 1272 🔖 #management 🗓️ 2025-02-24
+- [Вебсокеты на FastAPI: Реализация простого чата с комнатами за 20 минут](https://habr.com/ru/companies/amvera/articles/884816/) 👤 yakvenalex 💬 3644 🔖 #try, #fastapi, #websocket 🗓️ 2025-02-24
 - [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/) 👤 Harper Reed <harper@modest.com> 💬 2995 🔖 #llm, #development, #inspiration 🗓️ 2025-02-22
 - [Обзор Kingdom Come: Deliverance II](https://www.youtube.com/watch?v=zuZmAGiI9z8) 👤 StopGame 🗓️ 2025-02-21
 - [Development Philosophy](https://develop.sentry.dev/getting-started/philosophy/) 👤 sentry.dev 💬 1598 🔖 #development 🗓️ 2025-02-21

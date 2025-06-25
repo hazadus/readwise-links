@@ -1,29 +1,14 @@
 # Новые ссылки
 
-- Всего ссылок: 817
+- Всего ссылок: 802
 
 ## Ссылки
 
-- [Repeat Yourself](https://endler.dev/2025/repeat-yourself/) 👤 Matthias Endler 💬 1624 🗓️ 2025-06-24
 - [Concurrency Patterns in Go: sync.WaitGroup](mailto:reader-forwarded-email/6c2a36dd60dd3d5d1669ba8a7eaa0bf6) 👤 Jon Calhoun 💬 963 🗓️ 2025-06-23
-- [Cognitive Offshoring and the Decline of Personal Thought](https://www.joanwestenberg.com/p/cognitive-offshoring-and-the-decline-of-personal-thought-26c6d43ac5089a9a) 👤 Joan Westenberg 💬 1238 🗓️ 2025-06-23
 - [Go Before You Wait • The Applied Go Weekly Newsletter 2025-06-22](https://newsletter.appliedgo.net/archive/2025-06-22-go-before-you-wait/) 👤 The Applied Go Weekly Newsletter 💬 1531 🔖 #go 🗓️ 2025-06-22
-- [Pure and impure engineering](https://seangoedecke.com/pure-and-impure-engineering/) 👤 seangoedecke.com 💬 2264 🗓️ 2025-06-22
-- [My First Open Source AI Generated Library](http://lucumr.pocoo.org/2025/6/21/my-first-ai-library) 👤 Armin Ronacher's Thoughts and Writings 💬 755 🗓️ 2025-06-22
-- [Everything I know about good system design](https://seangoedecke.com/good-system-design/) 👤 seangoedecke.com 💬 3948 🔖 #development, #softwaredesign 🗓️ 2025-06-22
-    > **Заметка:** Всё по делу пишет. Никаких открытий, но рекомендации хорошие. 
 - [MCP Core Concepts - Resources, Tools, Prompts & Transports!](https://www.youtube.com/watch?v=TTtQxUprbDY) 👤 BugBytes 🔖 #mcp 🗓️ 2025-06-21
-- [12 Favorite Problems](https://www.nathancashion.com/blog/2022/9/12-favorite-problems) 👤 Nathan Cashion 💬 510 🗓️ 2025-06-20
-- [Eliminating dead code in Go projects](https://mfbmina.dev/en/posts/golang-deadcode/) 👤 Matheus Mina 💬 467 🔖 #go 🗓️ 2025-06-20
-- [How Convenience Kills Curiosity](https://www.joanwestenberg.com/p/how-convenience-kills-curiosity) 👤 Joan Westenberg 💬 517 🗓️ 2025-06-19
-- [A World Without Touch Is a World Without Trust](https://www.joanwestenberg.com/p/a-world-without-touch-is-a-world-without-trust) 👤 Westenberg. 💬 1651 🗓️ 2025-06-19
-- [Mind Management, Not Time Management](private://read/01jy2bx4yjy7cc3fb6cs5zy8ma) 👤 David Kadavy 💬 69903 🗓️ 2025-06-18
-- [VibeTunnel: Turn Any Browser into Your Mac's Terminal](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal) 👤 Peter Steinberger 💬 2999 🗓️ 2025-06-18
 - [Von Express zu Go – mein Weg zu minimalistischen HTTP‑APIs](https://trakora.de/blog/weg-zu-minimalistischen-http-apis) 👤 trakora.de 💬 640 🔖 #go, #try 🗓️ 2025-06-18
     > **Заметка:** Пост к репо: https://github.com/trakora/production-go-api-template
-- [Оптимизация Запросов В Postgresql](https://readwise.io/reader/document_raw_content/33757448) 👤 Домбровская Г, Новиков Б, Бейликова А 💬 61368 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
-- [Postgresql. Профессиональный SQL](https://readwise.io/reader/document_raw_content/324141976) 👤 Евгений Моргунов 💬 98953 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
-- [Postgresql Основы Языка SQL](https://readwise.io/reader/document_raw_content/20530573) 👤 Е. П. Моргунов 💬 66946 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
 - [Обзор Nintendo Switch 2](https://www.youtube.com/watch?v=ycOTD0H-xag) 👤 StopGame 🗓️ 2025-06-18
 - [Inside The Bubble • The Applied Go Weekly Newsletter 2025-06-15](https://newsletter.appliedgo.net/archive/2025-06-15-inside-the-bubble/) 👤 The Applied Go Weekly Newsletter 💬 2190 🔖 #go 🗓️ 2025-06-16
 - [Gist of Go: Race conditions](https://antonz.org/go-concurrency/race-conditions/) 👤 Anton Zhiyanov 💬 4381 🔖 #go 🗓️ 2025-06-16
@@ -37,7 +22,6 @@
 - [Build a Finance Tracker web app in Python using Dash framework [Flask / Plotly / React.js] #python](https://www.youtube.com/watch?v=HyfgJo6Qb64) 👤 BekBrace 🔖 #flask, #react 🗓️ 2025-06-09
 - [Optimizing Django Docker Builds with Astral’s `uv`](https://rob.cogit8.org/posts/optimizing-django-docker-builds-with-astrals-uv/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_288) 👤 Rob Hudson 💬 1417 🔖 #uv, #django, #docker 🗓️ 2025-06-08
 - [Gist of Go: Data races](https://antonz.org/go-concurrency/data-races/) 👤 Anton Zhiyanov 💬 2501 🔖 #go 🗓️ 2025-06-08
-- [the printer that transcends dimensions and corrupts reality](https://ghuntley.com/ideas/) 👤 Geoffrey Huntley 💬 3045 🗓️ 2025-06-08
 - [Own Your Errors! • The Applied Go Weekly Newsletter 2025-06-08](https://newsletter.appliedgo.net/archive/2025-06-08-own-your-errors/) 👤 The Applied Go Weekly Newsletter 💬 2259 🔖 #go 🗓️ 2025-06-08
 - [Processing large JSON files in Python without running out of memory](https://pythonspeed.com/articles/json-memory-streaming/) 👤 Itamar Turner-Trauring 💬 1177 🔖 #json, #python 🗓️ 2025-06-05
 - [Diving deeper into Go interfaces](mailto:reader-forwarded-email/bab01159971b964066ed80018454278a) 👤 Jon Calhoun 💬 1721 🔖 #go 🗓️ 2025-06-05

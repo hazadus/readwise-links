@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 54
+- Всего ссылок: 56
 
 ## Ссылки
 
+- [Repeat Yourself](https://endler.dev/2025/repeat-yourself/) 👤 Matthias Endler 💬 1624 🔖 #principles, #development 🗓️ 2025-06-24
+    > **Заметка:** Далеко не первый пост по поводу противоречивости принципа DRY. Очередное подтверждение этой идеи.
+    > **Резюме:** The author argues that repeating code can help maintain momentum and discover better abstractions later. Prematurely avoiding duplication often leads to complex, hard-to-maintain code. It’s better to copy code first and refactor only when the right abstraction is clear.
+- [Pure and impure engineering](https://seangoedecke.com/pure-and-impure-engineering/) 👤 seangoedecke.com 💬 2264 🔖 #llm, #development 🗓️ 2025-06-22
+    > **Резюме:** There are two kinds of software engineering: pure engineering focuses on perfect technical solutions, while impure engineering solves real-world problems efficiently. Large tech companies need mostly impure engineering because it handles complex, practical challenges and teamwork. Both types are hard and valuable, but they require different skills and ways of thinking.
 - [Everything I know about good system design](https://seangoedecke.com/good-system-design/) 👤 seangoedecke.com 💬 3948 🔖 #development, #softwaredesign 🗓️ 2025-06-22
     > **Заметка:** Всё по делу пишет. Никаких открытий, но рекомендации хорошие. 
     > **Резюме:** Good system design means minimizing stateful parts because they can cause problems. Databases are often slow, so use indexes wisely and send read queries to replicas to avoid overload. Use caching carefully and choose pushing or pulling data methods based on how often data changes and how many clients need it.

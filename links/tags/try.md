@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 32
+- Всего ссылок: 35
 
 ## Ссылки
 
@@ -15,10 +15,16 @@
     > **Резюме:** Raycast is a powerful Spotlight replacement that helps manage schedules, control smart home devices, and access various apps quickly. It offers many extensions and features, like a calculator and screenshot search, making tasks easier and faster. Raycast is regularly updated, making it a great tool for Mac users looking to streamline their workflow.
 - [Creating a Safari webarchive from the command line](https://alexwlchan.net/2024/creating-a-safari-webarchive/) 👤 alexwlchan.net 💬 2012 🔖 #try, #swift, #inspiration 🗓️ 2025-05-19
     > **Резюме:** The author created a script to create Safari webarchives from the command line. The script uses WKWebView and handles error checking for loading web pages. It can be customized with command-line arguments and is available on GitHub.
+- [FastAPI + Keycloak: Простая и безопасная авторизация в веб-приложении на примере реального проекта](https://habr.com/ru/companies/amvera/articles/907990/) 👤 yakvenalex 💬 6616 🔖 #try, #fastapi 🗓️ 2025-05-12
+    > **Резюме:** This article explains how to implement a secure authorization system in a web application using Keycloak and FastAPI. Keycloak simplifies user management and offers a reliable login mechanism. The guide covers installation, integration, and deploying the project in the cloud.
+- [How to Build Your Own Local AI: Create Free RAG and AI Agents with Qwen 3 and Ollama](https://www.freecodecamp.org/news/build-a-local-ai/) 👤 freeCodeCamp.org 💬 4576 🔖 #llm, #try, #agents 🗓️ 2025-05-08
+    > **Резюме:** The article explains how to build a local AI using Qwen 3, an open-source language model from Alibaba, and the Ollama tool, which simplifies running these models. It provides a step-by-step guide for setting up a local AI environment, creating a Retrieval-Augmented Generation (RAG) system, and developing basic AI agents. By following this tutorial, users can leverage powerful AI tools on their own hardware for free.
 - [/usr/bin/just do it](https://frankwiles.com/posts/just-do-it/) 👤 frankwiles.com 💬 1129 🔖 #cli, #try 🗓️ 2025-04-28
     > **Резюме:** just is a better way of documenting project specific commands than using a Makefile or a folder full of scripts. It is easy to get started with, powerful for the long haul, and written in Rust.
 - [Личный ИИ-ассистент на ваших данных. Часть 2: Веб-интерфейс, авторизация и стриминг ответов от ИИ](https://habr.com/ru/companies/amvera/articles/902868) 👤 yakvenalex 💬 4941 🔖 #llm, #try 🗓️ 2025-04-22
     > **Резюме:** The article continues exploring the development of a personal AI assistant using your own data. It covers topics like user authorization, API logic, and integrating neural networks. The project aims to be transparent and simple, making it easy for users to understand and build upon.
+- [Личный ИИ-ассистент на ваших данных. Часть 1: Векторная база ChromaDB + DeepSeek | GPT](https://habr.com/ru/companies/amvera/articles/897830/) 👤 yakvenalex 💬 6285 🔖 #llm, #try 🗓️ 2025-04-06
+    > **Резюме:** В статье обсуждается, как интегрировать векторные базы данных, такие как ChromaDB, с нейросетями для эффективного поиска информации. Основное внимание уделяется документам и метаданным, которые помогают улучшить семантический поиск товаров в интернет-магазинах. Автор предлагает создать простой поисковик, преобразующий запросы пользователей в векторное представление для получения релевантных результатов.
 - [Centrifugo v6 + FastAPI + Python: разрабатываем веб-опросник с обновлениями в реальном времени](https://habr.com/ru/companies/amvera/articles/885714/) 👤 yakvenalex 💬 5295 🔖 #try, #fastapi, #miniapp 🗓️ 2025-02-27
     > **Резюме:** The article explains how to create a real-time web survey application using Centrifugo and FastAPI. It covers both theoretical concepts and practical implementation, including generating JWT tokens and connecting to Centrifugo. The project allows users to see responses update dynamically without needing to refresh the page.
 - [Вебсокеты на FastAPI: Реализация простого чата с комнатами за 20 минут](https://habr.com/ru/companies/amvera/articles/884816/) 👤 yakvenalex 💬 3644 🔖 #try, #fastapi, #websocket 🗓️ 2025-02-24
