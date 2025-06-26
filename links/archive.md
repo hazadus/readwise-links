@@ -4,6 +4,7 @@
 
 ## Ссылки
 
+- [AI coding agents are already commoditized](https://seangoedecke.com/ai-agents-are-commoditized/) 👤 seangoedecke.com 💬 777 🔖 #llm 🗓️ 2025-06-25
 - [Richard Feynman’s Letter on What Problems to Solve](https://fs.blog/richard-feynman-what-problems-to-solve/) 👤 Farnam Street 💬 693 🗓️ 2025-06-24
     > **Заметка:** 12 problems
 - [Repeat Yourself](https://endler.dev/2025/repeat-yourself/) 👤 Matthias Endler 💬 1624 🔖 #principles, #development 🗓️ 2025-06-24
@@ -46,7 +47,6 @@
     > **Заметка:** Радикальный взгляд на PKM. Много интересных мыслей. 
 - [The Cult of Hard Mode](https://www.joanwestenberg.com/p/the-cult-of-hard-mode-why-simplicity-offends-tech-elites) 👤 Westenberg. 💬 1362 🔖 #inspiration 🗓️ 2025-06-18
     > **Заметка:** Сильный пост о недооцененности простых решений в tech-сфере. 
-- [Expert Generalists](https://martinfowler.com/articles/expert-generalist.html) 👤 Martin Fowler 💬 1604 🔖 #career 🗓️ 2025-06-20
 - [VibeTunnel: Turn Any Browser into Your Mac's Terminal](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal) 👤 Peter Steinberger 💬 2999 🔖 #llm 🗓️ 2025-06-18
 - [Оптимизация Запросов В Postgresql](https://readwise.io/reader/document_raw_content/33757448) 👤 Домбровская Г, Новиков Б, Бейликова А 💬 61368 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
 - [Postgresql. Профессиональный SQL](https://readwise.io/reader/document_raw_content/324141976) 👤 Евгений Моргунов 💬 98953 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18

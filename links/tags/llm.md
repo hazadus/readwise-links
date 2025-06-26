@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 124
+- Всего ссылок: 126
 
 ## Ссылки
 
+- [AI coding agents are already commoditized](https://seangoedecke.com/ai-agents-are-commoditized/) 👤 seangoedecke.com 💬 777 🔖 #llm 🗓️ 2025-06-25
+    > **Резюме:** AI coding agents are now easy to build because models like Claude Sonnet 3.7 are smart and persistent. The basic agent setup of reading and writing files works well, making these tools widely accessible and often free. This means selling better AI coding agents is hard unless you offer unique features or better models.
+- [LLMs bring new nature of abstraction](https://martinfowler.com/articles/2025-nature-abstraction.html) 👤 24 Jun 2025 💬 640 🔖 #llm 🗓️ 2025-06-25
+    > **Резюме:** Large language models (LLMs) will change software development as much as the shift from assembler to high-level languages did. Unlike past tools, LLMs introduce non-determinism, meaning the same input can produce different results each time. This new kind of abstraction will force programmers to rethink how they write and manage code.
 - [Cognitive Offshoring and the Decline of Personal Thought](https://www.joanwestenberg.com/p/cognitive-offshoring-and-the-decline-of-personal-thought-26c6d43ac5089a9a) 👤 Joan Westenberg 💬 1238 🔖 #llm, #learning 🗓️ 2025-06-23
     > **Заметка:** Автор утверждает, что поверхностное потребление информации без глубоких размышлений не приносит реальных знаний, а лишь создает их видимость.
 
