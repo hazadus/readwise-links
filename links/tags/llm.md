@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 126
+- Всего ссылок: 128
 
 ## Ссылки
 
+- [AI coding tools are perhaps our new terminal emulators](https://ghuntley.com/vt100/) 👤 Geoffrey Huntley 💬 815 🔖 #llm 🗓️ 2025-06-26
+    > **Резюме:** AI coding tools are changing how engineers work by automating tasks through simple prompts instead of manual terminal commands. These tools act like smart terminal emulators that can run complex activities and create scripts quickly. This shift means software engineering is evolving, making prompting more important than traditional command-line skills.
+- [Gemini CLI](https://simonwillison.net/2025/Jun/25/gemini-cli/#atom-everything) 👤 Simon Willison 💬 679 🔖 #llm, #gemini 🗓️ 2025-06-26
+    > **Резюме:** Gemini CLI is a new open-source terminal tool that uses AI to read, write, and run commands for you. It supports many useful functions like editing files and web searching, and offers a large free usage tier. The tool is designed with clear guidelines and prefers popular technologies like React and Python.
 - [AI coding agents are already commoditized](https://seangoedecke.com/ai-agents-are-commoditized/) 👤 seangoedecke.com 💬 777 🔖 #llm 🗓️ 2025-06-25
     > **Резюме:** AI coding agents are now easy to build because models like Claude Sonnet 3.7 are smart and persistent. The basic agent setup of reading and writing files works well, making these tools widely accessible and often free. This means selling better AI coding agents is hard unless you offer unique features or better models.
 - [LLMs bring new nature of abstraction](https://martinfowler.com/articles/2025-nature-abstraction.html) 👤 24 Jun 2025 💬 640 🔖 #llm 🗓️ 2025-06-25

@@ -1,16 +1,15 @@
 # Новые ссылки
 
-- Всего ссылок: 806
+- Всего ссылок: 805
 
 ## Ссылки
 
+- [Warp Drive](https://docs.warp.dev/knowledge-and-collaboration/warp-drive) 👤 warp.dev 💬 732 🗓️ 2025-06-26
+- [How to use the Readwise MCP](https://docs.readwise.io/readwise/guides/mcp) 👤 Readwise 💬 569 🗓️ 2025-06-26
 - [Учимся мыслить правильно в эпоху ИИ. Как и зачем изучать формальную логику](https://youtube.com/watch?v=sab7WQI8FQc&si=e4RmOEh7ngrsLNEg) 👤 Диджитализируй! 🗓️ 2025-06-25
-- [LLMs bring new nature of abstraction](https://martinfowler.com/articles/2025-nature-abstraction.html) 👤 24 Jun 2025 💬 640 🔖 #llm 🗓️ 2025-06-25
-- [Why Engineers Hate Their Managers (And What to Do About It)](https://terriblesoftware.org/2025/06/24/why-engineers-hate-their-managers-and-what-to-do-about-it/) 👤 Terrible Software 💬 1163 🗓️ 2025-06-25
 - [Concurrency Patterns in Go: sync.WaitGroup](mailto:reader-forwarded-email/6c2a36dd60dd3d5d1669ba8a7eaa0bf6) 👤 Jon Calhoun 💬 963 🗓️ 2025-06-23
 - [Go Before You Wait • The Applied Go Weekly Newsletter 2025-06-22](https://newsletter.appliedgo.net/archive/2025-06-22-go-before-you-wait/) 👤 The Applied Go Weekly Newsletter 💬 1531 🔖 #go 🗓️ 2025-06-22
 - [MCP Core Concepts - Resources, Tools, Prompts & Transports!](https://www.youtube.com/watch?v=TTtQxUprbDY) 👤 BugBytes 🔖 #mcp 🗓️ 2025-06-21
-- [Expert Generalists](https://martinfowler.com/articles/expert-generalist.html) 👤 Martin Fowler 💬 1604 🔖 #career 🗓️ 2025-06-25
 - [Von Express zu Go – mein Weg zu minimalistischen HTTP‑APIs](https://trakora.de/blog/weg-zu-minimalistischen-http-apis) 👤 trakora.de 💬 640 🔖 #go, #try 🗓️ 2025-06-18
     > **Заметка:** Пост к репо: https://github.com/trakora/production-go-api-template
 - [Обзор Nintendo Switch 2](https://www.youtube.com/watch?v=ycOTD0H-xag) 👤 StopGame 🗓️ 2025-06-18

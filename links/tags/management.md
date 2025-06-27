@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 28
+- Всего ссылок: 29
 
 ## Ссылки
 
+- [Why Engineers Hate Their Managers (And What to Do About It)](https://terriblesoftware.org/2025/06/24/why-engineers-hate-their-managers-and-what-to-do-about-it/) 👤 Terrible Software 💬 1163 🔖 #management 🗓️ 2025-06-25
+    > **Резюме:** Engineers often dislike their managers because bad management wastes their focus and misunderstands technical work. Many managers struggle too, facing pressure and challenges that lead to mistakes and frustration. Good managers protect engineers' time, trust their skills, give credit, and communicate clearly to build respect and success.
 - [Manage For Success, Not Comfort](https://terriblesoftware.org/2025/05/16/manage-for-success-not-comfort/) 👤 Terrible Software 💬 580 🔖 #management 🗓️ 2025-05-18
     > **Резюме:** New managers often mistakenly think their main job is to make their team happy, but true management is about building effective teams that deliver results. Discomfort and challenges are essential for growth, and focusing solely on happiness can lead to poor performance. Ultimately, successful teams find satisfaction through meaningful accomplishments, not just comfort.
 - [How To Launch Big Complex Projects](https://www.smashingmagazine.com/2025/05/how-launch-big-complex-projects/) 👤 Vitaly Friedman 💬 1915 🔖 #management, #development 🗓️ 2025-05-17

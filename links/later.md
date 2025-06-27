@@ -4,8 +4,8 @@
 
 ## Ссылки
 
-- [A World Without Touch Is a World Without Trust](https://www.joanwestenberg.com/p/a-world-without-touch-is-a-world-without-trust) 👤 Westenberg. 💬 1651 🗓️ 2025-06-19
-    > **Резюме:** Touch is essential for building trust and emotional connections, yet society has increasingly moved toward touch deprivation. This absence of physical contact can lead to negative health effects and emotional struggles. To foster stronger relationships, we must consciously reintroduce touch into our daily lives.
+- [How to Build a Custom MCP Server with TypeScript – A Handbook for Developers](https://www.freecodecamp.org/news/how-to-build-a-custom-mcp-server-with-typescript-a-handbook-for-developers/) 👤 sumit.analyzen 💬 6832 🔖 #mcp, #try 🗓️ 2025-06-26
+    > **Резюме:** MCP (Model Context Protocol) allows developers to connect their code and data to AI applications like Claude and Cursor in a structured way. By building an MCP server, developers can provide real-time context, enabling AI to fetch relevant information and respond accurately. This setup is essential for applications that require up-to-date data, such as chatbots and dashboards.
 - [Mind Management, Not Time Management](private://read/01jy2bx4yjy7cc3fb6cs5zy8ma) 👤 David Kadavy 💬 69903 🗓️ 2025-06-18
     > **Резюме:** David Kadavy emphasizes the importance of managing mental states over time when working on creative projects. He identifies seven mental states and encourages finding a "Creative Sweet Spot" for when to generate ideas. By experimenting with focused time, especially in the morning, you can enhance creativity and productivity.
 - [Writing Toy Software Is A Joy](https://www.jsbarretto.com/blog/software-is-joy/) 👤 Joshua Barretto 💬 1966 🗓️ 2025-06-16
