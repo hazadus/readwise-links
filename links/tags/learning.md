@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 19
 
 ## Ссылки
 
+- [No Time To Learn (Web) Framework X](https://brainbaking.com/post/2025/06/no-time-to-learn-web-framework-x/) 👤 Brain Baking 💬 1037 🔖 #learning 🗓️ 2025-06-27
+    > **Резюме:** Keith Cirkel questions if learning web frameworks like React is worth the time, given their frequent changes and limited transferability. Instead, he suggests focusing on fundamental, transferable skills like JavaScript, specs, and open source contributions. React remains popular because it is stable, widely used, and has a large community, but many frameworks become obsolete quickly.
 - [Cognitive Offshoring and the Decline of Personal Thought](https://www.joanwestenberg.com/p/cognitive-offshoring-and-the-decline-of-personal-thought-26c6d43ac5089a9a) 👤 Joan Westenberg 💬 1238 🔖 #llm, #learning 🗓️ 2025-06-23
     > **Заметка:** Автор утверждает, что поверхностное потребление информации без глубоких размышлений не приносит реальных знаний, а лишь создает их видимость.
 

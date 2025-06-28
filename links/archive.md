@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 796
+- Всего ссылок: 798
 
 ## Ссылки
 
+- [No Time To Learn (Web) Framework X](https://brainbaking.com/post/2025/06/no-time-to-learn-web-framework-x/) 👤 Brain Baking 💬 1037 🔖 #learning 🗓️ 2025-06-27
+- [I don't care if my manager writes code](https://seangoedecke.com/technical-engineering-managers/) 👤 seangoedecke.com 💬 1246 🔖 #management 🗓️ 2025-06-27
 - [AI coding tools are perhaps our new terminal emulators](https://ghuntley.com/vt100/) 👤 Geoffrey Huntley 💬 815 🔖 #llm 🗓️ 2025-06-26
 - [Gemini CLI](https://simonwillison.net/2025/Jun/25/gemini-cli/#atom-everything) 👤 Simon Willison 💬 679 🔖 #llm, #gemini 🗓️ 2025-06-26
 - [AI coding agents are already commoditized](https://seangoedecke.com/ai-agents-are-commoditized/) 👤 seangoedecke.com 💬 777 🔖 #llm 🗓️ 2025-06-25

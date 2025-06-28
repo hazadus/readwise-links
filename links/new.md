@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 805
+- Всего ссылок: 806
 
 ## Ссылки
 
+- [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/) 👤 Jake Lazaroff 💬 1696 🗓️ 2025-06-27
 - [Warp Drive](https://docs.warp.dev/knowledge-and-collaboration/warp-drive) 👤 warp.dev 💬 732 🗓️ 2025-06-26
 - [How to use the Readwise MCP](https://docs.readwise.io/readwise/guides/mcp) 👤 Readwise 💬 569 🗓️ 2025-06-26
 - [Учимся мыслить правильно в эпоху ИИ. Как и зачем изучать формальную логику](https://youtube.com/watch?v=sab7WQI8FQc&si=e4RmOEh7ngrsLNEg) 👤 Диджитализируй! 🗓️ 2025-06-25

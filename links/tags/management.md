@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 29
+- Всего ссылок: 30
 
 ## Ссылки
 
+- [I don't care if my manager writes code](https://seangoedecke.com/technical-engineering-managers/) 👤 seangoedecke.com 💬 1246 🔖 #management 🗓️ 2025-06-27
+    > **Резюме:** Engineering managers have many important tasks that require full attention, so they should not be expected to write code regularly. Writing code is hard and needs focus, which conflicts with management duties. When managers do coding poorly, it can harm team dynamics and careers because of their power in the company.
 - [Why Engineers Hate Their Managers (And What to Do About It)](https://terriblesoftware.org/2025/06/24/why-engineers-hate-their-managers-and-what-to-do-about-it/) 👤 Terrible Software 💬 1163 🔖 #management 🗓️ 2025-06-25
     > **Резюме:** Engineers often dislike their managers because bad management wastes their focus and misunderstands technical work. Many managers struggle too, facing pressure and challenges that lead to mistakes and frustration. Good managers protect engineers' time, trust their skills, give credit, and communicate clearly to build respect and success.
 - [Manage For Success, Not Comfort](https://terriblesoftware.org/2025/05/16/manage-for-success-not-comfort/) 👤 Terrible Software 💬 580 🔖 #management 🗓️ 2025-05-18
