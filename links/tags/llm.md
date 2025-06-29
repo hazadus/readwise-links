@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 128
+- Всего ссылок: 129
 
 ## Ссылки
 
+- [Continuous AI](https://simonwillison.net/2025/Jun/27/continuous-ai/#atom-everything) 👤 Simon Willison 💬 255 🔖 #llm, #inspiration 🗓️ 2025-06-28
+    > **Резюме:** Continuous AI is a new term from GitHub Next that means using AI to help software teams work better together. It is like Continuous Integration but for AI tools and automation in collaboration. People can use AI, like large language models, to improve tasks such as checking if documentation needs updates.
 - [AI coding tools are perhaps our new terminal emulators](https://ghuntley.com/vt100/) 👤 Geoffrey Huntley 💬 815 🔖 #llm 🗓️ 2025-06-26
     > **Резюме:** AI coding tools are changing how engineers work by automating tasks through simple prompts instead of manual terminal commands. These tools act like smart terminal emulators that can run complex activities and create scripts quickly. This shift means software engineering is evolving, making prompting more important than traditional command-line skills.
 - [Gemini CLI](https://simonwillison.net/2025/Jun/25/gemini-cli/#atom-everything) 👤 Simon Willison 💬 679 🔖 #llm, #gemini 🗓️ 2025-06-26

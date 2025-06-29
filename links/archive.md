@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 798
+- Всего ссылок: 799
 
 ## Ссылки
 
+- [Continuous AI](https://simonwillison.net/2025/Jun/27/continuous-ai/#atom-everything) 👤 Simon Willison 💬 255 🔖 #llm, #inspiration 🗓️ 2025-06-28
 - [No Time To Learn (Web) Framework X](https://brainbaking.com/post/2025/06/no-time-to-learn-web-framework-x/) 👤 Brain Baking 💬 1037 🔖 #learning 🗓️ 2025-06-27
 - [I don't care if my manager writes code](https://seangoedecke.com/technical-engineering-managers/) 👤 seangoedecke.com 💬 1246 🔖 #management 🗓️ 2025-06-27
 - [AI coding tools are perhaps our new terminal emulators](https://ghuntley.com/vt100/) 👤 Geoffrey Huntley 💬 815 🔖 #llm 🗓️ 2025-06-26

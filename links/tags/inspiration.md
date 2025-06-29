@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 80
+- Всего ссылок: 81
 
 ## Ссылки
 
+- [Continuous AI](https://simonwillison.net/2025/Jun/27/continuous-ai/#atom-everything) 👤 Simon Willison 💬 255 🔖 #llm, #inspiration 🗓️ 2025-06-28
+    > **Резюме:** Continuous AI is a new term from GitHub Next that means using AI to help software teams work better together. It is like Continuous Integration but for AI tools and automation in collaboration. People can use AI, like large language models, to improve tasks such as checking if documentation needs updates.
 - [Smart People Don't Chase Goals; They Create Limits](https://www.joanwestenberg.com/p/smart-people-don-t-chase-goals-they-create-limits) 👤 Westenberg. 💬 1521 🔖 #inspiration 🗓️ 2025-06-18
     > **Резюме:** The article argues that creating limits or constraints is more effective than chasing specific goals, as constraints guide creativity and decision-making. It suggests that many successful people focus on what they won't compromise rather than what they want to achieve. By doing this, they find clearer paths in ambiguous situations and maintain alignment with their true values.
 - [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain) 👤 Joan Westenberg 💬 1429 🔖 #pkm, #obsidian, #inspiration 🗓️ 2025-06-18
