@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 205
+- Всего ссылок: 206
 
 ## Ссылки
 
+- [Know Your (CPU) Limits! • The Applied Go Weekly Newsletter 2025-06-29](https://newsletter.appliedgo.net/archive/2025-06-29-know-your-cpu-limits/) 👤 The Applied Go Weekly Newsletter 💬 1568 🔖 #go 🗓️ 2025-06-29
+    > **Резюме:** Go 1.25 improves how Go programs detect CPU limits inside containers, making apps aware of actual CPU resources. This change helps prevent poor performance caused by apps overestimating available CPUs. The update also lets Go adjust CPU usage dynamically as container limits change.
 - [Go Before You Wait • The Applied Go Weekly Newsletter 2025-06-22](https://newsletter.appliedgo.net/archive/2025-06-22-go-before-you-wait/) 👤 The Applied Go Weekly Newsletter 💬 1531 🔖 #go 🗓️ 2025-06-22
     > **Резюме:** Go 1.25 introduces a new WaitGroup.Go() method that simplifies goroutine management by handling Add and Done calls automatically. This small change makes concurrent programming easier and less error-prone. The newsletter also shares useful articles, tools, and projects to help Go developers improve their skills.
 - [Eliminating dead code in Go projects](https://mfbmina.dev/en/posts/golang-deadcode/) 👤 Matheus Mina 💬 467 🔖 #go 🗓️ 2025-06-20

@@ -1,5 +1,38 @@
 [
     {
+        "id": "01jyy5b3x5q8t2nt8xam9bbqgh",
+        "url": "https://read.readwise.io/read/01jyy5b3x5q8t2nt8xam9bbqgh",
+        "source_url": "https://newsletter.appliedgo.net/archive/2025-06-29-know-your-cpu-limits/",
+        "title": "Know Your (CPU) Limits! • The Applied Go Weekly Newsletter 2025-06-29",
+        "author": "The Applied Go Weekly Newsletter",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "go": {
+                "name": "Go",
+                "type": "manual",
+                "created": 1751211417543
+            }
+        },
+        "site_name": "appliedgo.net",
+        "word_count": 1568,
+        "notes": "",
+        "summary": "Go 1.25 improves how Go programs detect CPU limits inside containers, making apps aware of actual CPU resources. This change helps prevent poor performance caused by apps overestimating available CPUs. The update also lets Go adjust CPU usage dynamically as container limits change.",
+        "image_url": "https://assets.buttondown.email/images/782cbbef-9e0c-4e04-b630-ec7e7604a64d.png?w=960&fit=max",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-06-29",
+        "created_at": "2025-06-29T15:36:53.435272+00:00",
+        "updated_at": "2025-06-29T15:36:57.548098+00:00",
+        "saved_at": "2025-06-29T15:36:53.413000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-06-29T15:36:53.413000+00:00"
+    },
+    {
         "id": "01jytvp9szw14nfm8z8jg8rnrn",
         "url": "https://read.readwise.io/read/01jytvp9szw14nfm8z8jg8rnrn",
         "source_url": "https://simonwillison.net/2025/Jun/27/continuous-ai/#atom-everything",
