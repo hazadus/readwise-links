@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 807
+- Всего ссылок: 809
 
 ## Ссылки
 
+- [Developing a Real-time Dashboard with FastAPI, MongoDB, and WebSockets](https://testdriven.io/blog/fastapi-mongo-websockets/) 👤 testdriven.io 💬 2484 🔖 #fastapi, #websocket 🗓️ 2025-06-30
+- [Agentic Coding: The Future of Software Development with Agents](https://m.youtube.com/watch?v=nfOVgz_omlU) 👤 Armin Ronacher 🗓️ 2025-06-30
 - [Know Your (CPU) Limits! • The Applied Go Weekly Newsletter 2025-06-29](https://newsletter.appliedgo.net/archive/2025-06-29-know-your-cpu-limits/) 👤 The Applied Go Weekly Newsletter 💬 1568 🔖 #go 🗓️ 2025-06-29
 - [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/) 👤 Jake Lazaroff 💬 1696 🗓️ 2025-06-27
 - [Warp Drive](https://docs.warp.dev/knowledge-and-collaboration/warp-drive) 👤 warp.dev 💬 732 🗓️ 2025-06-26

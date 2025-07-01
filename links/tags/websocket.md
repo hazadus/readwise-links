@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [Developing a Real-time Dashboard with FastAPI, MongoDB, and WebSockets](https://testdriven.io/blog/fastapi-mongo-websockets/) 👤 testdriven.io 💬 2484 🔖 #fastapi, #websocket 🗓️ 2025-06-30
+    > **Резюме:** This tutorial shows how to build a real-time order dashboard using FastAPI, MongoDB, and WebSockets. It uses MongoDB Change Streams to send live updates from the backend to the frontend. The dashboard updates automatically when orders are created, changed, or deleted.
 - [Вебсокеты на FastAPI: Реализация простого чата с комнатами за 20 минут](https://habr.com/ru/companies/amvera/articles/884816/) 👤 yakvenalex 💬 3644 🔖 #try, #fastapi, #websocket 🗓️ 2025-02-24
     > **Резюме:** The article explains how to create a simple real-time chat service using WebSockets and FastAPI. It covers the basics of WebSockets, how to set up the server-side connections, and the necessary JavaScript for client-side functionality. The author emphasizes that while backend implementation is straightforward, frontend development can be more challenging.
 - [Building multiplayer games with socket.io and HTML5 Canvas](https://www.seangoedecke.com/socket-io-game/) 👤 seangoedecke.com 💬 1880 🔖 #websocket 🗓️ 2025-01-28
