@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 129
+- Всего ссылок: 130
 
 ## Ссылки
 
+- [Agentic Coding: The Future of Software Development with Agents](https://m.youtube.com/watch?v=nfOVgz_omlU) 👤 Armin Ronacher 🔖 #llm 🗓️ 2025-06-30
+    > **Резюме:** Agentic coding uses intelligent tools to help with programming tasks. These tools can understand and interact with code, making development faster and easier. However, users must guide them carefully to avoid mistakes and get the best results.
 - [Continuous AI](https://simonwillison.net/2025/Jun/27/continuous-ai/#atom-everything) 👤 Simon Willison 💬 255 🔖 #llm, #inspiration 🗓️ 2025-06-28
     > **Резюме:** Continuous AI is a new term from GitHub Next that means using AI to help software teams work better together. It is like Continuous Integration but for AI tools and automation in collaboration. People can use AI, like large language models, to improve tasks such as checking if documentation needs updates.
 - [AI coding tools are perhaps our new terminal emulators](https://ghuntley.com/vt100/) 👤 Geoffrey Huntley 💬 815 🔖 #llm 🗓️ 2025-06-26

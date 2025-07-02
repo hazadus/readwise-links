@@ -1,13 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [Заговор разработчиков против корпораций: работа с командой](https://habr.com/ru/articles/908374/) 👤 arturdumchev 💬 2057 🔖 #fun 🗓️ 2025-07-01
+    > **Резюме:** Автор обсуждает, как собеседования и корпоративная культура в IT иногда не отражают реальных навыков разработчиков. Он критикует традиционные методы работы, такие как SCRUM, за их неэффективность и навязывание формальностей. В статье поднимается вопрос о том, как анархия в технической среде влияет на выбор и работу специалистов.
 - [New Programming Jargon](https://blog.codinghorror.com/new-programming-jargon/) 👤 Jeff Atwood 💬 2082 🔖 #fun 🗓️ 2025-06-03
     > **Резюме:** The blog post discusses how Stack Overflow has become stricter over time, focusing on the importance of learning rather than entertainment. It highlights a previous question about new programming jargon that was eventually deleted because it did not serve the community’s educational mission. The author shares a list of 30 new programming terms that have gained popularity among programmers, emphasizing their cultural significance.
 - [A quote from Steve Krouse](https://simonwillison.net/2025/May/31/steve-krouse/#atom-everything) 👤 Simon Willison 💬 214 🔖 #fun, #llm 🗓️ 2025-06-01
     > **Резюме:** Steve Krouse describes "hype coding" as focusing too much on the latest technology trends and neglecting what can be done today. This approach encourages users to let AI handle coding while avoiding critical thinking and learning. People often misinterpret "hype coding," missing the irony in ignoring details.
+- [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/) 👤 arturdumchev 💬 3317 🔖 #fun, #principles, #architecture 🗓️ 2025-05-30
+    > **Резюме:** The article discusses how developers sometimes undermine corporations by spreading destructive ideas within their codebases. It highlights the importance of quick feedback in development and how certain practices, like using monorepositories, can slow down productivity. The author warns against the risks of architectural sabotage and advocates for a more organized approach to coding.
 - [Vibe Management](https://yieldcode.blog/post/vibe-management/) 👤 Dmitry Kudryavtsev 💬 1112 🔖 #fun, #llm 🗓️ 2025-04-02
     > **Резюме:** Vibe Management is a new concept that suggests using AI tools like ChatGPT to replace middle and upper management roles. This approach allows everyone in the tech industry to enjoy a more relaxed work environment while still being productive. The author predicts that within a few years, most management positions will be obsolete as everyone learns to "vibe" through their work.
 - [SOLID и другие аббревиатуры](https://grishaev.me/solid-abbrev/) 👤 grishaev.me 💬 247 🔖 #fun, #principles 🗓️ 2025-01-28

@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 799
+- Всего ссылок: 802
 
 ## Ссылки
 
+- [Перестаньте молиться на принципы S.O.L.I.D](https://habr.com/ru/articles/874584/) 👤 varanio 💬 1291 🔖 #principles 🗓️ 2025-07-01
+- [Заговор разработчиков против корпораций: работа с командой](https://habr.com/ru/articles/908374/) 👤 arturdumchev 💬 2057 🔖 #fun 🗓️ 2025-07-01
 - [Continuous AI](https://simonwillison.net/2025/Jun/27/continuous-ai/#atom-everything) 👤 Simon Willison 💬 255 🔖 #llm, #inspiration 🗓️ 2025-06-28
 - [No Time To Learn (Web) Framework X](https://brainbaking.com/post/2025/06/no-time-to-learn-web-framework-x/) 👤 Brain Baking 💬 1037 🔖 #learning 🗓️ 2025-06-27
 - [I don't care if my manager writes code](https://seangoedecke.com/technical-engineering-managers/) 👤 seangoedecke.com 💬 1246 🔖 #management 🗓️ 2025-06-27
@@ -113,6 +115,7 @@
 - [Every Single Thing I Use Raycast For](https://www.youtube.com/watch?v=kHxgxgNHQR4) 👤 FromSergio 🔖 #try 🗓️ 2025-05-30
 - [It's not your codebase](https://seangoedecke.com/not-your-codebase/) 👤 seangoedecke.com 💬 1087 🔖 #development 🗓️ 2025-05-30
 - [Заговор разработчиков против корпораций](https://habr.com/ru/articles/874610/) 👤 arturdumchev 💬 3529 🗓️ 2025-05-30
+- [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/) 👤 arturdumchev 💬 3317 🔖 #fun, #principles, #architecture 🗓️ 2025-05-30
 - [Writing better release notes](https://simonwillison.net/2022/Jan/31/release-notes/) 👤 Simon Willison 💬 863 🔖 #github 🗓️ 2025-05-30
 - [🔍🏃 С Vitest ваше тестирование в Vite станет легким и эффективным](https://proglib.io/p/s-vitest-vashe-testirovanie-stanet-legkim-i-effektivnym-v-vite-2024-09-23) 👤 Библиотека программиста 💬 2391 🔖 #vite, #vitest, #testing 🗓️ 2025-05-30
 - [Human coders are still better than LLMs](http://antirez.com/news/153) 👤 antirez.com 💬 1243 🔖 #llm 🗓️ 2025-05-29

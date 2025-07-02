@@ -1,12 +1,16 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [Перестаньте молиться на принципы S.O.L.I.D](https://habr.com/ru/articles/874584/) 👤 varanio 💬 1291 🔖 #principles 🗓️ 2025-07-01
+    > **Резюме:** Автор статьи критикует слепое следование принципам SOLID в разработке программного обеспечения, утверждая, что они часто неправильно интерпретируются и могут усложнять код. Он подчеркивает важность контекста и предлагает рассматривать эти принципы как полезные инструменты, а не как строгие правила. Основная цель разработки — создание понятного и поддерживаемого кода, что иногда требует отхода от традиционных принципов.
 - [Repeat Yourself](https://endler.dev/2025/repeat-yourself/) 👤 Matthias Endler 💬 1624 🔖 #principles, #development 🗓️ 2025-06-24
     > **Заметка:** Далеко не первый пост по поводу противоречивости принципа DRY. Очередное подтверждение этой идеи.
     > **Резюме:** The author argues that repeating code can help maintain momentum and discover better abstractions later. Prematurely avoiding duplication often leads to complex, hard-to-maintain code. It’s better to copy code first and refactor only when the right abstraction is clear.
+- [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/) 👤 arturdumchev 💬 3317 🔖 #fun, #principles, #architecture 🗓️ 2025-05-30
+    > **Резюме:** The article discusses how developers sometimes undermine corporations by spreading destructive ideas within their codebases. It highlights the importance of quick feedback in development and how certain practices, like using monorepositories, can slow down productivity. The author warns against the risks of architectural sabotage and advocates for a more organized approach to coding.
 - [Duplication Is Not the Enemy](https://terriblesoftware.org/2025/05/28/duplication-is-not-the-enemy/) 👤 Terrible Software 💬 971 🔖 #principles, #development 🗓️ 2025-05-28
     > **Заметка:** Правильно пишет про преждевременное применение DRY. Не первый раз встречаю эти идеи, в целом согласен. 
     > **Резюме:** The author argues that duplication in code isn't always bad and can be preferable to premature abstraction. When developers try to eliminate duplication too early, they may create complex functions that become hard to manage as requirements change. It's better to wait until a clear pattern emerges before abstracting code, as this leads to simpler and more effective solutions.

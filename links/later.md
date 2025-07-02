@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 36
+- Всего ссылок: 35
 
 ## Ссылки
 
@@ -22,8 +22,6 @@
     > **Резюме:** The author built a feature on their website that generates formatted blog posts from video transcripts using AI. This process allows them to refine the content and improve the quality quickly, turning hours of work into just minutes. Now, their blog has well-structured posts to accompany their videos, enhancing the overall content experience.
 - [PostgreSQL как эффективная база для документных данных](https://youtube.com/watch?v=l8__4kI4zgU&si=FWi3JO7IruJno-N8) 👤 Health Samurai Team 🔖 #postgresql 🗓️ 2025-05-31
     > **Резюме:** PostgreSQL is an effective database for storing document data, allowing for efficient querying and indexing. It supports JSONB for handling complex documents and provides various operators for accessing specific fields. The system can handle large datasets and offers the flexibility to adapt as data grows, making it a robust choice for developers.
-- [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/) 👤 arturdumchev 💬 3317 🗓️ 2025-05-30
-    > **Резюме:** The article discusses how developers sometimes undermine corporations by spreading destructive ideas within their codebases. It highlights the importance of quick feedback in development and how certain practices, like using monorepositories, can slow down productivity. The author warns against the risks of architectural sabotage and advocates for a more organized approach to coding.
 - [Model Context Protocol - Explained! (with Python example)](https://www.youtube.com/watch?v=JF14z6XO4Ho) 👤 BugBytes 🔖 #mcp 🗓️ 2025-05-26
     > **Резюме:** The video explains how to use the Model Context Protocol (MCP) with a Python example to set up a server and connect to a database. It demonstrates creating tools and resources for managing user data through commands in a virtual environment. The tutorial emphasizes the importance of exposing resources to the client using the MCP protocol.
 - [Rendering Mechanism](https://vuejs.org/guide/extras/rendering-mechanism#:~:text=The%20main%20benefit%20of%20virtual%20DOM%20is,the%20direct%20DOM%20manipulation%20to%20the%20renderer.) 👤 vuejs.org 💬 1600 🔖 #vue 🗓️ 2025-05-25
