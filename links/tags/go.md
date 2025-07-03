@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 206
+- Всего ссылок: 207
 
 ## Ссылки
 
+- [Gist of Go: Semaphores](https://antonz.org/go-concurrency/semaphores/) 👤 Anton Zhiyanov 💬 2380 🔖 #go 🗓️ 2025-07-02
+    > **Резюме:** Mutexes let only one goroutine run at a time, but semaphores allow multiple goroutines with a limit. Rendezvous and barriers help goroutines wait for each other to stay in sync. These tools help manage concurrency in Go programs safely and efficiently.
 - [Know Your (CPU) Limits! • The Applied Go Weekly Newsletter 2025-06-29](https://newsletter.appliedgo.net/archive/2025-06-29-know-your-cpu-limits/) 👤 The Applied Go Weekly Newsletter 💬 1568 🔖 #go 🗓️ 2025-06-29
     > **Резюме:** Go 1.25 improves how Go programs detect CPU limits inside containers, making apps aware of actual CPU resources. This change helps prevent poor performance caused by apps overestimating available CPUs. The update also lets Go adjust CPU usage dynamically as container limits change.
 - [Go Before You Wait • The Applied Go Weekly Newsletter 2025-06-22](https://newsletter.appliedgo.net/archive/2025-06-22-go-before-you-wait/) 👤 The Applied Go Weekly Newsletter 💬 1531 🔖 #go 🗓️ 2025-06-22

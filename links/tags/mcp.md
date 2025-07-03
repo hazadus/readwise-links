@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [Using Playwright MCP with Claude Code | Simon Willison’s TILs](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code) 👤 simonwillison.net 💬 295 🔖 #llm, #mcp 🗓️ 2025-07-02
+    > **Резюме:** Simon Willison explains how to use Microsoft’s Playwright MCP server with Claude Code to control a visible Chrome browser. By running a simple command before starting Claude, you can open and interact with websites using Playwright commands. This setup makes browser automation easy, with persistent sessions and many available tools.
 - [How to Build a Custom MCP Server with TypeScript – A Handbook for Developers](https://www.freecodecamp.org/news/how-to-build-a-custom-mcp-server-with-typescript-a-handbook-for-developers/) 👤 sumit.analyzen 💬 6832 🔖 #mcp, #try 🗓️ 2025-06-26
     > **Резюме:** MCP (Model Context Protocol) allows developers to connect their code and data to AI applications like Claude and Cursor in a structured way. By building an MCP server, developers can provide real-time context, enabling AI to fetch relevant information and respond accurately. This setup is essential for applications that require up-to-date data, such as chatbots and dashboards.
 - [MCP Core Concepts - Resources, Tools, Prompts & Transports!](https://www.youtube.com/watch?v=TTtQxUprbDY) 👤 BugBytes 🔖 #mcp 🗓️ 2025-06-21

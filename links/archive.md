@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 802
+- Всего ссылок: 803
 
 ## Ссылки
 
+- [Using Playwright MCP with Claude Code | Simon Willison’s TILs](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code) 👤 simonwillison.net 💬 295 🔖 #llm, #mcp 🗓️ 2025-07-02
 - [Перестаньте молиться на принципы S.O.L.I.D](https://habr.com/ru/articles/874584/) 👤 varanio 💬 1291 🔖 #principles 🗓️ 2025-07-01
 - [Заговор разработчиков против корпораций: работа с командой](https://habr.com/ru/articles/908374/) 👤 arturdumchev 💬 2057 🔖 #fun 🗓️ 2025-07-01
 - [Continuous AI](https://simonwillison.net/2025/Jun/27/continuous-ai/#atom-everything) 👤 Simon Willison 💬 255 🔖 #llm, #inspiration 🗓️ 2025-06-28
@@ -112,7 +113,7 @@
 - [Why DeepSeek is cheap at scale but expensive to run locally](https://seangoedecke.com/inference-batching-and-deepseek/) 👤 seangoedecke.com 💬 2183 🔖 #llm 🗓️ 2025-06-01
 - [What's up Python? Faster CPython cancelled, a new installer and yet another type checker](https://www.bitecode.dev/p/whats-up-python-faster-cpython-cancelled) 👤 Bite Code 💬 733 🔖 #python 🗓️ 2025-06-01
 - [A quote from Steve Krouse](https://simonwillison.net/2025/May/31/steve-krouse/#atom-everything) 👤 Simon Willison 💬 214 🔖 #fun, #llm 🗓️ 2025-06-01
-- [Every Single Thing I Use Raycast For](https://www.youtube.com/watch?v=kHxgxgNHQR4) 👤 FromSergio 🔖 #try 🗓️ 2025-05-30
+- [It’s Annoying How Good Raycast is](https://www.youtube.com/watch?v=kHxgxgNHQR4) 👤 FromSergio 🔖 #try 🗓️ 2025-05-30
 - [It's not your codebase](https://seangoedecke.com/not-your-codebase/) 👤 seangoedecke.com 💬 1087 🔖 #development 🗓️ 2025-05-30
 - [Заговор разработчиков против корпораций](https://habr.com/ru/articles/874610/) 👤 arturdumchev 💬 3529 🗓️ 2025-05-30
 - [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/) 👤 arturdumchev 💬 3317 🔖 #fun, #principles, #architecture 🗓️ 2025-05-30

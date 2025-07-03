@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 130
+- Всего ссылок: 131
 
 ## Ссылки
 
+- [Using Playwright MCP with Claude Code | Simon Willison’s TILs](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code) 👤 simonwillison.net 💬 295 🔖 #llm, #mcp 🗓️ 2025-07-02
+    > **Резюме:** Simon Willison explains how to use Microsoft’s Playwright MCP server with Claude Code to control a visible Chrome browser. By running a simple command before starting Claude, you can open and interact with websites using Playwright commands. This setup makes browser automation easy, with persistent sessions and many available tools.
 - [Agentic Coding: The Future of Software Development with Agents](https://m.youtube.com/watch?v=nfOVgz_omlU) 👤 Armin Ronacher 🔖 #llm 🗓️ 2025-06-30
     > **Резюме:** Agentic coding uses intelligent tools to help with programming tasks. These tools can understand and interact with code, making development faster and easier. However, users must guide them carefully to avoid mistakes and get the best results.
 - [Continuous AI](https://simonwillison.net/2025/Jun/27/continuous-ai/#atom-everything) 👤 Simon Willison 💬 255 🔖 #llm, #inspiration 🗓️ 2025-06-28

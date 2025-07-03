@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [Warhammer 40,000: Rogue Trader - Lex Imperialis: Обзор посредственного дополнения для хорошей игры](https://stopgame.ru/show/149127/warhammer_40_000_rogue_trader_lex_imperialis_review_posredstvennogo_dopolneniya_dlya_horoshey_igry) 👤 Джуби 💬 947 🔖 #game 🗓️ 2025-07-01
+- [Gist of Go: Semaphores](https://antonz.org/go-concurrency/semaphores/) 👤 Anton Zhiyanov 💬 2380 🔖 #go 🗓️ 2025-07-02
 - [Finding Purpose Through Exhaustion: Why I Keep Writing (and Coding)](https://smsk.dev/2025/07/01/finding-purpose-through-exhaustion-why-i-keep-writing-and-coding/) 👤 devsimsek 💬 666 🗓️ 2025-07-01
 - [Developing a Real-time Dashboard with FastAPI, MongoDB, and WebSockets](https://testdriven.io/blog/fastapi-mongo-websockets/) 👤 testdriven.io 💬 2484 🔖 #fastapi, #websocket 🗓️ 2025-06-30
 - [Agentic Coding: The Future of Software Development with Agents](https://m.youtube.com/watch?v=nfOVgz_omlU) 👤 Armin Ronacher 🔖 #llm 🗓️ 2025-06-30
