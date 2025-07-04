@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 44
+- Всего ссылок: 45
 
 ## Ссылки
 
+- [What happens when engineers work more than one job](https://seangoedecke.com/overemployment/) 👤 seangoedecke.com 💬 890 🔖 #career 🗓️ 2025-07-03
+    > **Резюме:** Some engineers work multiple remote jobs at once by managing time and tasks carefully. This is possible because tech work can be done asynchronously and productivity is hard to measure. However, juggling many jobs limits deep thinking and can harm overall job quality.
 - [Expert Generalists](https://martinfowler.com/articles/expert-generalist.html) 👤 Martin Fowler 💬 1604 🔖 #career 🗓️ 2025-06-25
     > **Резюме:** Expert Generalists in software development possess key traits like curiosity, collaborativeness, and customer focus. They eagerly explore new technologies and work well with specialists to enhance their understanding. This approach helps them prioritize tools and solutions that effectively meet customer needs.
 - [Good Engineer/Bad Engineer](https://terriblesoftware.org/2025/06/13/good-engineer-bad-engineer/) 👤 Terrible Software 💬 524 🔖 #career, #development, #inspiration, #soft skills 🗓️ 2025-06-14

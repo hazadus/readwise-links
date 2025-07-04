@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 131
+- Всего ссылок: 132
 
 ## Ссылки
 
+- [Claude Sonnet is a small-brained mechanical squirrel of <T>](https://ghuntley.com/cars/) 👤 Geoffrey Huntley 💬 1044 🔖 #llm 🗓️ 2025-07-03
+    > **Резюме:** Different large language models (LLMs) have unique strengths and are suited for different tasks, like cars designed for various purposes. Some LLMs, like Gemini, are great for summarizing, while others, like Claude Sonnet, are better at running many small tasks quickly. Choosing the right LLM means understanding its behavior, not just looking at size or cost.
 - [Using Playwright MCP with Claude Code | Simon Willison’s TILs](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code) 👤 simonwillison.net 💬 295 🔖 #llm, #mcp 🗓️ 2025-07-02
     > **Резюме:** Simon Willison explains how to use Microsoft’s Playwright MCP server with Claude Code to control a visible Chrome browser. By running a simple command before starting Claude, you can open and interact with websites using Playwright commands. This setup makes browser automation easy, with persistent sessions and many available tools.
 - [Agentic Coding: The Future of Software Development with Agents](https://m.youtube.com/watch?v=nfOVgz_omlU) 👤 Armin Ronacher 🔖 #llm 🗓️ 2025-06-30

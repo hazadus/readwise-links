@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [More Features of Vue's VS Code Extension](https://www.youtube.com/watch?v=RcPcO4_Ct_U) 👤 Alexander Lichter 🔖 #vue 🗓️ 2025-07-03
+    > **Резюме:** The Vue VS Code extension helps you add components easily and shows helpful hints about missing properties. It also supports reactive props and auto-adds ".value" for refs, saving time. Premium features include visualizing reactivity, focus mode, and highlighting template changes to improve coding clarity.
 - [How Vue Composables Work – Explained with Code Examples](https://www.freecodecamp.org/news/how-vue-composables-work/) 👤 freeCodeCamp.org 💬 1767 🔖 #vue 🗓️ 2025-06-14
     > **Резюме:** Vue composables are tools that allow developers to reuse stateful logic across different components in a Vue application. They help manage logic that changes over time, making code easier to maintain. By extracting this logic into composables, developers can keep their applications organized while ensuring each component has its own state.
 - [Шпаргалка по VueUse: когда использовать какую функцию](https://hazadus.ru/blog/vueuse-cheat-sheet) 👤 hazadus.ru 💬 1754 🔖 #vue 🗓️ 2025-05-28
