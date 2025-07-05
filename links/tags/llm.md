@@ -1,14 +1,16 @@
 # Ссылки
 
-- Всего ссылок: 132
+- Всего ссылок: 133
 
 ## Ссылки
 
+- [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/) 👤 Armin Ronacher's Thoughts and Writings 💬 2144 🔖 #llm, #mcp 🗓️ 2025-07-03
+    > **Резюме:** The author argues that current Multi-Component Pipelines (MCP) are hard to use because they rely too much on inference and are not easily composable. Writing code is better since it can be reviewed, tested, and run many times without extra inference. Using LLMs to generate code, then checking that code, is a more reliable and scalable way to automate tasks.
 - [Claude Sonnet is a small-brained mechanical squirrel of <T>](https://ghuntley.com/cars/) 👤 Geoffrey Huntley 💬 1044 🔖 #llm 🗓️ 2025-07-03
     > **Резюме:** Different large language models (LLMs) have unique strengths and are suited for different tasks, like cars designed for various purposes. Some LLMs, like Gemini, are great for summarizing, while others, like Claude Sonnet, are better at running many small tasks quickly. Choosing the right LLM means understanding its behavior, not just looking at size or cost.
 - [Using Playwright MCP with Claude Code | Simon Willison’s TILs](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code) 👤 simonwillison.net 💬 295 🔖 #llm, #mcp 🗓️ 2025-07-02
     > **Резюме:** Simon Willison explains how to use Microsoft’s Playwright MCP server with Claude Code to control a visible Chrome browser. By running a simple command before starting Claude, you can open and interact with websites using Playwright commands. This setup makes browser automation easy, with persistent sessions and many available tools.
-- [Agentic Coding: The Future of Software Development with Agents](https://m.youtube.com/watch?v=nfOVgz_omlU) 👤 Armin Ronacher 🔖 #llm 🗓️ 2025-06-30
+- [Agentic Coding: The Future of Software Development with Agents](https://m.youtube.com/watch?v=nfOVgz_omlU) 👤 Armin Ronacher 🔖 #llm, #inspiration 🗓️ 2025-06-30
     > **Резюме:** Agentic coding uses intelligent tools to help with programming tasks. These tools can understand and interact with code, making development faster and easier. However, users must guide them carefully to avoid mistakes and get the best results.
 - [Continuous AI](https://simonwillison.net/2025/Jun/27/continuous-ai/#atom-everything) 👤 Simon Willison 💬 255 🔖 #llm, #inspiration 🗓️ 2025-06-28
     > **Резюме:** Continuous AI is a new term from GitHub Next that means using AI to help software teams work better together. It is like Continuous Integration but for AI tools and automation in collaboration. People can use AI, like large language models, to improve tasks such as checking if documentation needs updates.

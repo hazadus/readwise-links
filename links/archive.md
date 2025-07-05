@@ -1,13 +1,16 @@
 # Архивные ссылки
 
-- Всего ссылок: 804
+- Всего ссылок: 807
 
 ## Ссылки
 
+- [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/) 👤 Armin Ronacher's Thoughts and Writings 💬 2144 🔖 #llm, #mcp 🗓️ 2025-07-03
 - [What happens when engineers work more than one job](https://seangoedecke.com/overemployment/) 👤 seangoedecke.com 💬 890 🔖 #career 🗓️ 2025-07-03
+- [Claude Sonnet is a small-brained mechanical squirrel of <T>](https://ghuntley.com/cars/) 👤 Geoffrey Huntley 💬 1044 🔖 #llm 🗓️ 2025-07-03
 - [Using Playwright MCP with Claude Code | Simon Willison’s TILs](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code) 👤 simonwillison.net 💬 295 🔖 #llm, #mcp 🗓️ 2025-07-02
 - [Перестаньте молиться на принципы S.O.L.I.D](https://habr.com/ru/articles/874584/) 👤 varanio 💬 1291 🔖 #principles 🗓️ 2025-07-01
 - [Заговор разработчиков против корпораций: работа с командой](https://habr.com/ru/articles/908374/) 👤 arturdumchev 💬 2057 🔖 #fun 🗓️ 2025-07-01
+- [Agentic Coding: The Future of Software Development with Agents](https://m.youtube.com/watch?v=nfOVgz_omlU) 👤 Armin Ronacher 🔖 #llm, #inspiration 🗓️ 2025-06-30
 - [Continuous AI](https://simonwillison.net/2025/Jun/27/continuous-ai/#atom-everything) 👤 Simon Willison 💬 255 🔖 #llm, #inspiration 🗓️ 2025-06-28
 - [No Time To Learn (Web) Framework X](https://brainbaking.com/post/2025/06/no-time-to-learn-web-framework-x/) 👤 Brain Baking 💬 1037 🔖 #learning 🗓️ 2025-06-27
 - [I don't care if my manager writes code](https://seangoedecke.com/technical-engineering-managers/) 👤 seangoedecke.com 💬 1246 🔖 #management 🗓️ 2025-06-27

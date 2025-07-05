@@ -1,17 +1,18 @@
 # Новые ссылки
 
-- Всего ссылок: 815
+- Всего ссылок: 808
 
 ## Ссылки
 
+- [Concurrency Patterns in Go: errgroup](mailto:reader-forwarded-email/e17e336182935f8e158a227da7b09694) 👤 Jon Calhoun 💬 751 🗓️ 2025-07-04
+- [The Unbearable Lightness of Cringe](mailto:reader-forwarded-email/a6dac3498a092d9e0831a96c395f8972) 👤 Joan Westenberg 💬 1115 🗓️ 2025-07-04
+- [Connect to the MCP Server](https://logfire.pydantic.dev/docs/how-to-guides/mcp-server/) 👤 pydantic.dev 💬 400 🗓️ 2025-07-04
+- [[BadComedian] - ПОСМОТРЕЛ ВСЕ СКАЗКИ (Волшебник изумрудного города, Бременские, Летучий корабль итд)](https://www.youtube.com/watch?v=vO3Wpq7wrLI) 👤 BadComedian 🗓️ 2025-07-04
 - [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/#tools-vs-identity) 👤 Adam Gordon Bell 💬 8453 🗓️ 2025-07-03
-- [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/) 👤 Armin Ronacher's Thoughts and Writings 💬 2144 🗓️ 2025-07-03
-- [Claude Sonnet is a small-brained mechanical squirrel of <T>](https://ghuntley.com/cars/) 👤 Geoffrey Huntley 💬 1044 🔖 #llm 🗓️ 2025-07-03
 - [More Features of Vue's VS Code Extension](https://www.youtube.com/watch?v=RcPcO4_Ct_U) 👤 Alexander Lichter 🔖 #vue 🗓️ 2025-07-03
 - [Gist of Go: Semaphores](https://antonz.org/go-concurrency/semaphores/) 👤 Anton Zhiyanov 💬 2380 🔖 #go 🗓️ 2025-07-02
 - [Finding Purpose Through Exhaustion: Why I Keep Writing (and Coding)](https://smsk.dev/2025/07/01/finding-purpose-through-exhaustion-why-i-keep-writing-and-coding/) 👤 devsimsek 💬 666 🗓️ 2025-07-01
 - [Developing a Real-time Dashboard with FastAPI, MongoDB, and WebSockets](https://testdriven.io/blog/fastapi-mongo-websockets/) 👤 testdriven.io 💬 2484 🔖 #fastapi, #websocket 🗓️ 2025-06-30
-- [Agentic Coding: The Future of Software Development with Agents](https://m.youtube.com/watch?v=nfOVgz_omlU) 👤 Armin Ronacher 🔖 #llm 🗓️ 2025-06-30
 - [Know Your (CPU) Limits! • The Applied Go Weekly Newsletter 2025-06-29](https://newsletter.appliedgo.net/archive/2025-06-29-know-your-cpu-limits/) 👤 The Applied Go Weekly Newsletter 💬 1568 🔖 #go 🗓️ 2025-06-29
 - [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/) 👤 Jake Lazaroff 💬 1696 🗓️ 2025-06-27
 - [Warp Drive](https://docs.warp.dev/knowledge-and-collaboration/warp-drive) 👤 warp.dev 💬 732 🗓️ 2025-06-26
@@ -97,7 +98,6 @@
 - [An Animated Introduction to Clojure – Learn Clojure Programming Basics](https://www.freecodecamp.org/news/learn-clojure-programming-basics/) 👤 freeCodeCamp.org 💬 2456 🔖 #clojure 🗓️ 2025-04-10
 - [Extracting Composables for Code Organization ​](https://vuejs.org/guide/reusability/composables.html) 👤 vuejs.org 💬 2447 🔖 #vue, #nuxt 🗓️ 2025-04-09
 - [Good practices and Design Patterns for Vue Composables](https://dev.to/jacobandrewsky/good-practices-and-design-patterns-for-vue-composables-24lk) 👤 dev.to 💬 1140 🔖 #vue, #nuxt 🗓️ 2025-04-09
-- [Stalker есть чему поучиться - ОБЗОР Atomfall I Битый Пиксель](https://youtube.com/watch?v=iuDYa6PDocM&si=Sz94s62KNMm_ovFz) 👤 Битый Пиксель 🔖 #game 🗓️ 2025-04-09
 - [23 June 1912 – 7 June 1954](https://samwho.dev/turing-machines/) 👤 samwho.dev 💬 2646 🗓️ 2025-04-09
 - [“Founder Mode” and the Art of Mythmaking](https://charity.wtf/2024/12/17/founder-mode-and-the-art-of-mythmaking/) 👤 mipsytipsy 💬 7163 🗓️ 2025-04-09
 - [Building a Real-time Dashboard with Flask and Svelte](https://testdriven.io/blog/flask-svelte/) 👤 Amir Tadrisi 💬 2931 🔖 #sse, #flask, #svelte 🗓️ 2025-04-08
@@ -132,7 +132,6 @@
 - [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 1 — Бэкенд на FastAPI, Aiogram, Redis и Centrifugo](https://habr.com/ru/companies/amvera/articles/890976/) 👤 yakvenalex 💬 10630 🔖 #fastapi, #miniapp 🗓️ 2025-03-25
 - [PKM Summit 2025 Notes](https://brainbaking.com/post/2025/03/pkm-summit-2025/) 👤 Brain Baking 💬 1310 🗓️ 2025-03-15
 - [Django Query Optimization - Defer, Only, and Exclude](https://testdriven.io/blog/django-query-optimization/) 👤 testdriven.io 💬 1383 🔖 #django 🗓️ 2025-03-15
-- [Открытие года - поиграл в Clair Obscur: Expedition 33 I Битый Пиксель](https://www.youtube.com/watch?v=7Wyl_pTfA3w) 👤 Битый Пиксель 🗓️ 2025-03-15
 - [Building a Secure Session Manager in Go](https://themsaid.com/building-secure-session-manager-in-go) 👤 themsaid.com 💬 3295 🔖 #go 🗓️ 2025-03-13
 - [Воркшоп: проектирование структуры БД](https://www.youtube.com/watch?v=4rdSbMbacC4) 👤 Диджитализируй! 🗓️ 2025-03-12
 - [FullStack Machine Learning App: FastAPI | Pandas | Numpy | Streamlit | SqlAlchemy | SQLite](https://www.youtube.com/watch?v=xj7nmKIlJSM) 👤 Bek Brace 🗓️ 2025-03-12
@@ -290,7 +289,6 @@ An imperative programmer tries to learn Haskell](https://hatwd.com/p/an-imperati
 - [Complete Guide: How to Upgrade to Nuxt 4](https://masteringnuxt.com/blog/complete-guide-how-to-upgrade-to-nuxt-4?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 4247 🔖 #nuxt 🗓️ 2024-12-21
 - [Is AI progress slowing down?](https://simonwillison.net/2024/Dec/19/is-ai-progress-slowing-down/#atom-everything) 👤 Simon Willison 💬 555 🗓️ 2024-12-20
 - [q and qv zsh functions for asking questions of websites and YouTube videos with LLM](https://simonwillison.net/2024/Dec/19/q-and-qv-zsh-functions/#atom-everything) 👤 Simon Willison 💬 349 🗓️ 2024-12-20
-- [Обзор Indiana Jones and the Great Circle](https://www.youtube.com/watch?v=6Xzr06VhALY) 👤 StopGame 🗓️ 2024-12-20
 - [Видео с митапа о Postgres](https://grishaev.me/pg-meetup-video/) 👤 grishaev.me 💬 32 🗓️ 2024-12-19
 - [🍉Полный гайд настройки Windows + WSL для разработчика](https://www.youtube.com/watch?v=EH3yeiZ5JRo) 👤 Диджитализируй! 🗓️ 2024-12-19
 - [How to Write User Stories for Beginners: Agile in Practice](https://www.freecodecamp.org/news/how-to-write-user-stories-for-beginners/) 👤 freeCodeCamp.org 💬 2369 🔖 #agile 🗓️ 2024-12-17
@@ -346,7 +344,6 @@ UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/) 👤 jse.li 💬 3750 🔖 #go, #diy 🗓️ 2024-12-04
 - [§Note-writing systems](https://notes.andymatuschak.org/%C2%A7Note-writing_systems) 👤 Andyʼs working notes 💬 50 🗓️ 2024-12-03
 - [Красные флаги на собеседовании на программиста | Программист читает Reddit](https://youtube.com/watch?v=ijd5KAqaUqY&si=QHF2nqjpfW1OWZ5r) 👤 Sergey Nemchinskiy 🗓️ 2024-12-02
-- [Обзор S.T.A.L.K.E.R. 2: Heart of Chornobyl](https://www.youtube.com/watch?v=g2OFElCGalY) 👤 StopGame 🗓️ 2024-12-02
 - [Making Software](https://www.oreilly.com/library/view/making-software/9780596808310/) 👤 Andy Oram 💬 184 🗓️ 2024-12-02
 - [Another Static Site Generator for Lessons](https://third-bit.com/2024/11/30/another-ssg-for-lessons/) 👤 third-bit.com 💬 609 🗓️ 2024-12-02
 - [Persona 5 Royal guide: All classroom answers](https://www.polygon.com/persona-5-royal-guide-walkthrough/2020/3/31/21192788/questions-answers-quizzes-exams-midterm-final-classroom) 👤 Ryan Gilliam 💬 2033 🗓️ 2024-12-01
@@ -360,7 +357,6 @@ UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 
 - [Managing Dependencies With Python Poetry](https://realpython.com/courses/managing-dependencies-with-poetry/) 👤 Real Python 💬 146 🔖 #python 🗓️ 2024-11-27
 - [Samuel Colvin on LogFire, mixing Python with Rust & being pydantic about types](https://www.bitecode.dev/p/samuel-colvin-on-logfire-mixing-python) 👤 Bite Code! 💬 132 🗓️ 2024-11-26
 - [redis_1](http://openmymind.net/redis.pdf) 💬 9818 🔖 #redis 🗓️ 2024-11-26
-- [Как попасть в IT — проблемы стажеров и как их решать  | GoGetPodcast №12](https://www.youtube.com/watch?si=NTmMrh8ZGYYGhKty&v=YrZLNvl6xc0&feature=youtu.be) 👤 Николай Тузов — Golang 🗓️ 2024-11-26
 - [A New Player's Primer to Balatro](https://steamcommunity.com/sharedfiles/filedetails/?id=3166946815) 👤 steamcommunity.com 💬 9207 🗓️ 2024-11-25
 - [FREE coding exercises for budding gophers](https://gophercises.com/) 👤 Jon Calhoun 💬 378 🗓️ 2024-11-25
 - [Unfinished Projects](https://third-bit.com/2024/11/24/unfinished-projects/) 👤 third-bit.com 💬 341 🗓️ 2024-11-25
@@ -395,10 +391,8 @@ UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 
 - [Rewriting fanmade AI From Golang to Remix](https://youtube.com/live/hMUg-WUrRgE?si=Xz1PIzijSlwl9vL8) 👤 Anthony GG 🗓️ 2024-11-16
 - [20 лет «Героям Меча и Магии 3». Чем живёт культовая игра сегодня](https://www.mirf.ru/videogames/20-let-geroyam-mecha-i-magii-3-chem-zhivyot-kultovaya-igra-segodnya) 👤 mirf.ru 💬 4754 🗓️ 2024-11-16
 - [Planescape: Torment. История создания великой игры](https://www.mirf.ru/videogames/planescape-torment-istoriya-sozdaniya) 👤 mirf.ru 💬 4502 🗓️ 2024-11-16
-- [Обзор Dragon Age: The Veilguard](https://www.youtube.com/watch?v=KD0Csm8qhwU) 👤 StopGame 🗓️ 2024-11-16
 - [What if AI eventually makes programmers smarter, not dumber?](https://www.bitecode.dev/p/what-if-ai-eventually-make-programmers) 👤 Bite Code! 💬 1413 🗓️ 2024-11-16
 - [Go Database Migrations with Goose and PostgreSQL](https://www.youtube.com/watch?v=fA8QK69zwlw) 👤 BugBytes 🗓️ 2024-11-16
-- [Никита Соболев: CPython Core Developer. Новые языки программирования, опенсорс, Python, инструменты](https://youtube.com/watch?v=DS7Hhg5ebf0&si=_VXAqe9s91V1sR7g) 👤 Диджитализируй! 🗓️ 2024-11-15
 - [RSS is (not) dead (yet) (NED #3)](https://audmcname.com/comics/rss-is-not-dead-yet/) 👤 audmcname.com 💬 32 🗓️ 2024-11-14
 - [The TTY demystified](https://www.linusakesson.net/programming/tty/) 👤 linusakesson.net 💬 16779 🗓️ 2024-11-14
 - [My 2024 thoughts on the state of social media](https://martinfowler.com/articles/2024-social-media.html) 👤 Martin Fowler 💬 1625 🗓️ 2024-11-14
@@ -418,7 +412,6 @@ UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 
 - [How to Build a Second Brain – Part 2](https://illustrated.dev/secondbrain2) 👤 illustrated.dev 💬 178 🗓️ 2024-11-11
 - [Bitfield Consulting](https://bitfieldconsulting.com/posts/tao-of-go) 👤 Bitfield Consulting 💬 8 🔖 #go 🗓️ 2024-11-10
 - [Код. Тайный язык информатики](private://read/01jcbv20dveewq9fmgyq6145zm) 👤 Чарльз Петцольд 💬 187643 🗓️ 2024-11-10
-- [Потерял работу, завалил 10 собесов, но выжил — история мидл разработчика | GoGetPodcast №13](https://www.youtube.com/watch?v=0GnTXKF1X-8) 👤 Николай Тузов — Golang 🗓️ 2024-11-10
 - [New microblog with TILs](https://jvns.ca/blog/2024/11/09/new-microblog/) 👤 Julia Evans 💬 508 🗓️ 2024-11-10
 - [How to Use WebCurate to Discover Helpful Developer Tools](https://www.freecodecamp.org/news/how-to-use-webcurate-to-discover-helpful-developer-tools/) 👤 David Jaja 💬 1398 🗓️ 2024-11-10
 - [How to Fuzz Test Golang HTTP Services](https://www.freecodecamp.org/news/how-to-fuzz-test-golang-http-services/) 👤 freeCodeCamp.org 💬 1547 🔖 #go, #testing 🗓️ 2024-11-07

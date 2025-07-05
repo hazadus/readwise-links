@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/) 👤 Armin Ronacher's Thoughts and Writings 💬 2144 🔖 #llm, #mcp 🗓️ 2025-07-03
+    > **Резюме:** The author argues that current Multi-Component Pipelines (MCP) are hard to use because they rely too much on inference and are not easily composable. Writing code is better since it can be reviewed, tested, and run many times without extra inference. Using LLMs to generate code, then checking that code, is a more reliable and scalable way to automate tasks.
 - [Using Playwright MCP with Claude Code | Simon Willison’s TILs](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code) 👤 simonwillison.net 💬 295 🔖 #llm, #mcp 🗓️ 2025-07-02
     > **Резюме:** Simon Willison explains how to use Microsoft’s Playwright MCP server with Claude Code to control a visible Chrome browser. By running a simple command before starting Claude, you can open and interact with websites using Playwright commands. This setup makes browser automation easy, with persistent sessions and many available tools.
 - [How to Build a Custom MCP Server with TypeScript – A Handbook for Developers](https://www.freecodecamp.org/news/how-to-build-a-custom-mcp-server-with-typescript-a-handbook-for-developers/) 👤 sumit.analyzen 💬 6832 🔖 #mcp, #try 🗓️ 2025-06-26

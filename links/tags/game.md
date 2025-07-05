@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 12
 
 ## Ссылки
 
@@ -16,8 +16,6 @@
     > **Резюме:** Super Mario Bros. Wonder is a fresh 2D Mario game that introduces unique mechanics and vibrant worlds after 17 years. Players explore the Flower Kingdom, encountering new enemies and power-ups that change gameplay dramatically. The game is praised for its creativity, stunning animation, and engaging music, making it a standout title in 2023.
 - [Inscryption: Card Game Inception](https://jefklakscodex.com/games/switch/inscryption/) 👤 Brain Baking 💬 959 🔖 #game 🗓️ 2025-04-14
     > **Резюме:** Inscryption is a unique card game that blends various gameplay styles and surprises players with its layers of meaning. As you navigate a creepy atmosphere, you find yourself trapped in a game that constantly evolves and breaks the fourth wall. The experience is not just about card battles but also about uncovering secrets and enjoying a rich narrative.
-- [Stalker есть чему поучиться - ОБЗОР Atomfall I Битый Пиксель](https://youtube.com/watch?v=iuDYa6PDocM&si=Sz94s62KNMm_ovFz) 👤 Битый Пиксель 🔖 #game 🗓️ 2025-04-09
-    > **Резюме:** Atomfall is a budget-friendly game set in a post-apocalyptic world that offers players choices and consequences. Players navigate through challenges, interact with various characters, and make decisions that affect the storyline. The gameplay combines action and resource management, creating a unique experience despite its simplicity.
 - [Dark Souls III: Прохождение | StopGame - P.1](https://stopgame.ru/show/82650/dark_souls_iii_prohozhdenie) 👤 Игорь Патрин 💬 2933 🔖 #game, #darksouls3, #walkthrough 🗓️ 2024-02-15
     > **Резюме:** ПРОХОЖДЕНИЕ ИГРЫ DARK SOULS 3    В начале игры вам предстоит создать своего собственного персонажа. Введите имя, выберите пол, возраст, класс и так д…
 - [Everything You Need To Know About Sorcery In Dark Souls 3](https://www.thegamer.com/dark-souls-3-sorcery-attuning-unlocking-equipment-guide/) 👤 Gavin Looker 🔖 #game, #darksouls3 🗓️ 2024-02-15
