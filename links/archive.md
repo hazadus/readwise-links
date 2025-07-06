@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 807
+- Всего ссылок: 808
 
 ## Ссылки
 
+- [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
 - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/) 👤 Armin Ronacher's Thoughts and Writings 💬 2144 🔖 #llm, #mcp 🗓️ 2025-07-03
 - [What happens when engineers work more than one job](https://seangoedecke.com/overemployment/) 👤 seangoedecke.com 💬 890 🔖 #career 🗓️ 2025-07-03
 - [Claude Sonnet is a small-brained mechanical squirrel of <T>](https://ghuntley.com/cars/) 👤 Geoffrey Huntley 💬 1044 🔖 #llm 🗓️ 2025-07-03

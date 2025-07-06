@@ -1,9 +1,14 @@
 # Новые ссылки
 
-- Всего ссылок: 808
+- Всего ссылок: 813
 
 ## Ссылки
 
+- [How to become passionate about delivering shareholder value](https://seangoedecke.com/shareholder-value/) 👤 seangoedecke.com 💬 1366 🗓️ 2025-07-05
+- [Cursor: Clarifying Our Pricing](https://simonwillison.net/2025/Jul/5/cursor-clarifying-our-pricing/#atom-everything) 👤 Simon Willison 💬 438 🗓️ 2025-07-05
+- [The Overlooked Tools Simple Command-Line Utilities That Every Developer Should Know](https://smsk.dev/2025/07/04/the-overlooked-tools-simple-command-line-utilities-that-every-developer-should-know/) 👤 devsimsek 💬 668 🗓️ 2025-07-05
+- [Identify, solve, verify](https://simonwillison.net/2025/Jul/4/identify-solve-verify/#atom-everything) 👤 Simon Willison 💬 178 🔖 #llm 🗓️ 2025-07-05
+- [How to Become a Time Billionaire](https://www.joanwestenberg.com/p/how-to-become-a-time-billionaire-d50677ce6215ea8a) 👤 Joan Westenberg 💬 1726 🗓️ 2025-07-05
 - [Concurrency Patterns in Go: errgroup](mailto:reader-forwarded-email/e17e336182935f8e158a227da7b09694) 👤 Jon Calhoun 💬 751 🗓️ 2025-07-04
 - [The Unbearable Lightness of Cringe](mailto:reader-forwarded-email/a6dac3498a092d9e0831a96c395f8972) 👤 Joan Westenberg 💬 1115 🗓️ 2025-07-04
 - [Connect to the MCP Server](https://logfire.pydantic.dev/docs/how-to-guides/mcp-server/) 👤 pydantic.dev 💬 400 🗓️ 2025-07-04

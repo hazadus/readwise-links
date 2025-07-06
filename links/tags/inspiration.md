@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 82
+- Всего ссылок: 83
 
 ## Ссылки
 
+- [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
+    > **Резюме:** Building small AI tools can save developers time on repetitive tasks like writing reports or summarizing updates. These tools are simple to create and help teams work more efficiently, even if they aren’t big money-makers. Over time, more engineers will build such AI helpers, making many common jobs easier and faster.
 - [Agentic Coding: The Future of Software Development with Agents](https://m.youtube.com/watch?v=nfOVgz_omlU) 👤 Armin Ronacher 🔖 #llm, #inspiration 🗓️ 2025-06-30
     > **Резюме:** Agentic coding uses intelligent tools to help with programming tasks. These tools can understand and interact with code, making development faster and easier. However, users must guide them carefully to avoid mistakes and get the best results.
 - [Continuous AI](https://simonwillison.net/2025/Jun/27/continuous-ai/#atom-everything) 👤 Simon Willison 💬 255 🔖 #llm, #inspiration 🗓️ 2025-06-28

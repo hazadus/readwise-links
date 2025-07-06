@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 16
+- Всего ссылок: 17
 
 ## Ссылки
 
+- [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
+    > **Резюме:** Building small AI tools can save developers time on repetitive tasks like writing reports or summarizing updates. These tools are simple to create and help teams work more efficiently, even if they aren’t big money-makers. Over time, more engineers will build such AI helpers, making many common jobs easier and faster.
 - [Writing better release notes](https://simonwillison.net/2022/Jan/31/release-notes/) 👤 Simon Willison 💬 863 🔖 #github 🗓️ 2025-05-30
     > **Резюме:** Release notes are crucial for open source projects, as they inform users about updates and changes. They should include the release date, be easy to link to, highlight key features, and credit contributors. Using platforms like GitHub can streamline the release process and enhance the presentation of release notes.
 - [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/) 👤 Simon Willison 💬 2852 🔖 #git, #github, #inspiration 🗓️ 2025-05-29

@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 133
+- Всего ссылок: 135
 
 ## Ссылки
 
+- [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
+    > **Резюме:** Building small AI tools can save developers time on repetitive tasks like writing reports or summarizing updates. These tools are simple to create and help teams work more efficiently, even if they aren’t big money-makers. Over time, more engineers will build such AI helpers, making many common jobs easier and faster.
+- [Identify, solve, verify](https://simonwillison.net/2025/Jul/4/identify-solve-verify/#atom-everything) 👤 Simon Willison 💬 178 🔖 #llm 🗓️ 2025-07-05
+    > **Резюме:** Using LLMs helps me see that my job is more than just writing code. I identify problems, solve them, and check the solutions work. Even advanced LLMs need humans to guide and verify their work.
 - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/) 👤 Armin Ronacher's Thoughts and Writings 💬 2144 🔖 #llm, #mcp 🗓️ 2025-07-03
     > **Резюме:** The author argues that current Multi-Component Pipelines (MCP) are hard to use because they rely too much on inference and are not easily composable. Writing code is better since it can be reviewed, tested, and run many times without extra inference. Using LLMs to generate code, then checking that code, is a more reliable and scalable way to automate tasks.
 - [Claude Sonnet is a small-brained mechanical squirrel of <T>](https://ghuntley.com/cars/) 👤 Geoffrey Huntley 💬 1044 🔖 #llm 🗓️ 2025-07-03
