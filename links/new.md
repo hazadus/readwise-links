@@ -1,10 +1,9 @@
 # Новые ссылки
 
-- Всего ссылок: 813
+- Всего ссылок: 812
 
 ## Ссылки
 
-- [How to become passionate about delivering shareholder value](https://seangoedecke.com/shareholder-value/) 👤 seangoedecke.com 💬 1366 🗓️ 2025-07-05
 - [Cursor: Clarifying Our Pricing](https://simonwillison.net/2025/Jul/5/cursor-clarifying-our-pricing/#atom-everything) 👤 Simon Willison 💬 438 🗓️ 2025-07-05
 - [The Overlooked Tools Simple Command-Line Utilities That Every Developer Should Know](https://smsk.dev/2025/07/04/the-overlooked-tools-simple-command-line-utilities-that-every-developer-should-know/) 👤 devsimsek 💬 668 🗓️ 2025-07-05
 - [Identify, solve, verify](https://simonwillison.net/2025/Jul/4/identify-solve-verify/#atom-everything) 👤 Simon Willison 💬 178 🔖 #llm 🗓️ 2025-07-05

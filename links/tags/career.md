@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 45
+- Всего ссылок: 46
 
 ## Ссылки
 
+- [How to become passionate about delivering shareholder value](https://seangoedecke.com/shareholder-value/) 👤 seangoedecke.com 💬 1366 🔖 #career 🗓️ 2025-07-05
+    > **Резюме:** The author believes engineers should care about delivering shareholder value because it connects their work to the company's success. Creating shareholder value is challenging but rewarding and helps engineers feel more satisfied at work. Focusing on value makes software design meaningful and aligns engineers with company goals.
 - [What happens when engineers work more than one job](https://seangoedecke.com/overemployment/) 👤 seangoedecke.com 💬 890 🔖 #career 🗓️ 2025-07-03
     > **Резюме:** Some engineers work multiple remote jobs at once by managing time and tasks carefully. This is possible because tech work can be done asynchronously and productivity is hard to measure. However, juggling many jobs limits deep thinking and can harm overall job quality.
 - [Expert Generalists](https://martinfowler.com/articles/expert-generalist.html) 👤 Martin Fowler 💬 1604 🔖 #career 🗓️ 2025-06-25
