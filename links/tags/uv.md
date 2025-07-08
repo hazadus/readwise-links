@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [What's up Python? Mypy gets better, uv faster, FastApi easier, Emscripten formal...er](https://www.bitecode.dev/p/whats-up-python-mypy-gets-better) 👤 Bite Code! 💬 1296 🔖 #uv, #mypy, #python, #fastapi 🗓️ 2025-07-07
+    > **Резюме:** Python's Emscripten support is now formalized, making it easier to run Python in web browsers. Mypy 1.16 improves type checking, fixing common annoyances and adding flexible variable redefinition. The uv tool adds a fast build backend, and FastAPI's creator launches a company to simplify app deployment.
+- [uv: Making Python Local Workflows FAST and BORING in 2025](https://www.youtube.com/watch?v=TiBIjouDGuI) 👤 Hynek Schlawack 🔖 #uv 🗓️ 2025-07-07
+    > **Резюме:** UV is a new Python tool that makes running local workflows faster and simpler. It improves packaging, virtual environments, and command running with helpful features like uv run and uv sync. This project aims to modernize Python development and make everyday tasks easier for developers.
 - [Optimizing Django Docker Builds with Astral’s `uv`](https://rob.cogit8.org/posts/optimizing-django-docker-builds-with-astrals-uv/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_288) 👤 Rob Hudson 💬 1417 🔖 #uv, #django, #docker 🗓️ 2025-06-08
     > **Резюме:** Astral’s `uv` improves Django Docker builds by speeding up dependency resolution and installation. It simplifies dependency management and enhances security by enforcing strict version control and verification. The article provides a detailed guide on setting up `uv` in Docker for efficient and reproducible builds.
 - [Remote Single-file Python Scripts with uv](https://joshcannon.me/2025/04/24/remote-single-file-scripts.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_286) 👤 Josh Cannon 💬 353 🔖 #uv, #python 🗓️ 2025-05-25

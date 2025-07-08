@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 809
+- Всего ссылок: 810
 
 ## Ссылки
 
+- [What's up Python? Mypy gets better, uv faster, FastApi easier, Emscripten formal...er](https://www.bitecode.dev/p/whats-up-python-mypy-gets-better) 👤 Bite Code! 💬 1296 🔖 #uv, #mypy, #python, #fastapi 🗓️ 2025-07-07
 - [How to become passionate about delivering shareholder value](https://seangoedecke.com/shareholder-value/) 👤 seangoedecke.com 💬 1366 🔖 #career 🗓️ 2025-07-05
 - [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
 - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/) 👤 Armin Ronacher's Thoughts and Writings 💬 2144 🔖 #llm, #mcp 🗓️ 2025-07-03

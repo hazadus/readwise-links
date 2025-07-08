@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 135
+- Всего ссылок: 136
 
 ## Ссылки
 
+- [I Shipped a macOS App Built Entirely by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code) 👤 indragie.com 💬 3462 🔖 #llm 🗓️ 2025-07-07
+    > **Резюме:** The author built a Mac app mostly using Claude Code, an AI coding assistant that writes and tests code. Claude Code works well with SwiftUI but needs clear specs and feedback to improve its output. This tool shows how AI could change software development in the future.
 - [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
     > **Резюме:** Building small AI tools can save developers time on repetitive tasks like writing reports or summarizing updates. These tools are simple to create and help teams work more efficiently, even if they aren’t big money-makers. Over time, more engineers will build such AI helpers, making many common jobs easier and faster.
 - [Identify, solve, verify](https://simonwillison.net/2025/Jul/4/identify-solve-verify/#atom-everything) 👤 Simon Willison 💬 178 🔖 #llm 🗓️ 2025-07-05

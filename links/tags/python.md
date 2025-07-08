@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 59
+- Всего ссылок: 60
 
 ## Ссылки
 
+- [What's up Python? Mypy gets better, uv faster, FastApi easier, Emscripten formal...er](https://www.bitecode.dev/p/whats-up-python-mypy-gets-better) 👤 Bite Code! 💬 1296 🔖 #uv, #mypy, #python, #fastapi 🗓️ 2025-07-07
+    > **Резюме:** Python's Emscripten support is now formalized, making it easier to run Python in web browsers. Mypy 1.16 improves type checking, fixing common annoyances and adding flexible variable redefinition. The uv tool adds a fast build backend, and FastAPI's creator launches a company to simplify app deployment.
 - [Get a string representation of a Python traceback with traceback.format_exc()](https://alexwlchan.net/til/2025/get-python-traceback-as-string/?utm_source=rss) 👤 alexwlchan.net 💬 111 🔖 #python 🗓️ 2025-06-14
     > **Резюме:** You can use `traceback.format_exc()` in Python to get a string of the error traceback when an exception occurs. This string includes helpful details about the error, making it easier to understand what went wrong. It's especially useful for recording errors in databases, so you can easily track failures in data pipelines without searching through logs.
 - [Processing large JSON files in Python without running out of memory](https://pythonspeed.com/articles/json-memory-streaming/) 👤 Itamar Turner-Trauring 💬 1177 🔖 #json, #python 🗓️ 2025-06-05

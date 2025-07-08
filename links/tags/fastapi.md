@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 26
+- Всего ссылок: 27
 
 ## Ссылки
 
+- [What's up Python? Mypy gets better, uv faster, FastApi easier, Emscripten formal...er](https://www.bitecode.dev/p/whats-up-python-mypy-gets-better) 👤 Bite Code! 💬 1296 🔖 #uv, #mypy, #python, #fastapi 🗓️ 2025-07-07
+    > **Резюме:** Python's Emscripten support is now formalized, making it easier to run Python in web browsers. Mypy 1.16 improves type checking, fixing common annoyances and adding flexible variable redefinition. The uv tool adds a fast build backend, and FastAPI's creator launches a company to simplify app deployment.
 - [Developing a Real-time Dashboard with FastAPI, MongoDB, and WebSockets](https://testdriven.io/blog/fastapi-mongo-websockets/) 👤 testdriven.io 💬 2484 🔖 #fastapi, #websocket 🗓️ 2025-06-30
     > **Резюме:** This tutorial shows how to build a real-time order dashboard using FastAPI, MongoDB, and WebSockets. It uses MongoDB Change Streams to send live updates from the backend to the frontend. The dashboard updates automatically when orders are created, changed, or deleted.
 - [FastAPI + Keycloak: Простая и безопасная авторизация в веб-приложении на примере реального проекта](https://habr.com/ru/companies/amvera/articles/907990/) 👤 yakvenalex 💬 6616 🔖 #try, #fastapi 🗓️ 2025-05-12

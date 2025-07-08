@@ -1,9 +1,14 @@
 # Новые ссылки
 
-- Всего ссылок: 812
+- Всего ссылок: 817
 
 ## Ссылки
 
+- [uv: Making Python Local Workflows FAST and BORING in 2025](https://www.youtube.com/watch?v=TiBIjouDGuI) 👤 Hynek Schlawack 🔖 #uv 🗓️ 2025-07-07
+- [I Spent 90 Days Rebuilding My Brain. Here's What I Learned.](https://www.joanwestenberg.com/p/i-spent-90-days-rebuilding-my-brain-here-s-what-i-learned-b7844d4127c5d542) 👤 Joan Westenberg 💬 2613 🗓️ 2025-07-07
+- [I Shipped a macOS App Built Entirely by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code) 👤 indragie.com 💬 3462 🔖 #llm 🗓️ 2025-07-07
+- [(Don't) Leave No Trace • The Applied Go Weekly Newsletter 2025-07-06](https://newsletter.appliedgo.net/archive/2025-07-06-dont-leave-no-trace/) 👤 appliedgo.net 💬 1746 🔖 #go 🗓️ 2025-07-07
+- [Эволюция рабочего места одного программиста](https://habr.com/ru/articles/870944/) 👤 arturdumchev 💬 1834 🔖 #health 🗓️ 2025-07-07
 - [Cursor: Clarifying Our Pricing](https://simonwillison.net/2025/Jul/5/cursor-clarifying-our-pricing/#atom-everything) 👤 Simon Willison 💬 438 🗓️ 2025-07-05
 - [The Overlooked Tools Simple Command-Line Utilities That Every Developer Should Know](https://smsk.dev/2025/07/04/the-overlooked-tools-simple-command-line-utilities-that-every-developer-should-know/) 👤 devsimsek 💬 668 🗓️ 2025-07-05
 - [Identify, solve, verify](https://simonwillison.net/2025/Jul/4/identify-solve-verify/#atom-everything) 👤 Simon Willison 💬 178 🔖 #llm 🗓️ 2025-07-05
