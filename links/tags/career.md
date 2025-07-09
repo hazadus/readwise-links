@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 46
+- Всего ссылок: 47
 
 ## Ссылки
 
+- [The more senior engineers get, the more results matter](https://seangoedecke.com/being-accountable-for-results/) 👤 seangoedecke.com 💬 651 🔖 #career 🗓️ 2025-07-08
+    > **Резюме:** As engineers get more senior, they are expected to deliver successful results, not just effort. Staff engineers must handle more responsibility and be accountable for project outcomes, even if some failures are outside their control. This shift towards result-driven work is similar to the expectations placed on managers and executives.
 - [How to become passionate about delivering shareholder value](https://seangoedecke.com/shareholder-value/) 👤 seangoedecke.com 💬 1366 🔖 #career 🗓️ 2025-07-05
     > **Резюме:** The author believes engineers should care about delivering shareholder value because it connects their work to the company's success. Creating shareholder value is challenging but rewarding and helps engineers feel more satisfied at work. Focusing on value makes software design meaningful and aligns engineers with company goals.
 - [What happens when engineers work more than one job](https://seangoedecke.com/overemployment/) 👤 seangoedecke.com 💬 890 🔖 #career 🗓️ 2025-07-03

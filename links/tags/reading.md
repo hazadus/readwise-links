@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [I Spent 90 Days Rebuilding My Brain. Here's What I Learned.](https://www.joanwestenberg.com/p/i-spent-90-days-rebuilding-my-brain-here-s-what-i-learned-b7844d4127c5d542) 👤 Joan Westenberg 💬 2613 🔖 #reading, #learning 🗓️ 2025-07-07
+    > **Резюме:** The author spent 90 days practicing deep thinking by reading, writing by hand, and avoiding distractions like phones and AI tools. This helped her regain focus, understand complex ideas, and discover her own original thoughts. She encourages others to try this to improve attention and creativity in a distracted world.
 - [Как читать книги для самообразования](https://readwise.io/reader/document_raw_content/262840656) 👤 Поварнин С.И. 💬 14256 🔖 #book, #outline, #reading, #learning, #inspiration 🗓️ 2025-01-22
     > **Резюме:** Reading books can be harmful if done poorly, leading to physical and mental issues. It is important to analyze a book on your own before considering outside reviews to foster independent thinking. Using the table of contents effectively can enhance understanding, and engaging with critiques afterward deepens comprehension and critical skills.
 - [I Give the Worst Writing Advice in the World](https://www.honest-broker.com/p/i-give-the-worst-writing-advice-in) 👤 Ted Gioia 💬 1652 🔖 #reading 🗓️ 2024-11-28
