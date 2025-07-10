@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 20
+- Всего ссылок: 21
 
 ## Ссылки
 
+- [How I use LLMs to learn new subjects](https://seangoedecke.com/learning-from-llms/) 👤 seangoedecke.com 💬 1923 🔖 #llm, #learning 🗓️ 2025-07-08
+    > **Резюме:** Using large language models (LLMs) is a great way to learn new subjects by asking many follow-up questions like you would with a knowledgeable friend. While LLMs can sometimes make up facts, you can avoid mistakes by focusing on well-known topics and ignoring uncertain details. LLMs work best for learning basics and exploring new areas, but they are less helpful for very deep or niche knowledge.
 - [I Spent 90 Days Rebuilding My Brain. Here's What I Learned.](https://www.joanwestenberg.com/p/i-spent-90-days-rebuilding-my-brain-here-s-what-i-learned-b7844d4127c5d542) 👤 Joan Westenberg 💬 2613 🔖 #reading, #learning 🗓️ 2025-07-07
     > **Резюме:** The author spent 90 days practicing deep thinking by reading, writing by hand, and avoiding distractions like phones and AI tools. This helped her regain focus, understand complex ideas, and discover her own original thoughts. She encourages others to try this to improve attention and creativity in a distracted world.
 - [No Time To Learn (Web) Framework X](https://brainbaking.com/post/2025/06/no-time-to-learn-web-framework-x/) 👤 Brain Baking 💬 1037 🔖 #learning 🗓️ 2025-06-27

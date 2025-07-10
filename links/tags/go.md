@@ -1,15 +1,19 @@
 # Ссылки
 
-- Всего ссылок: 208
+- Всего ссылок: 211
 
 ## Ссылки
 
 - [(Don't) Leave No Trace • The Applied Go Weekly Newsletter 2025-07-06](https://newsletter.appliedgo.net/archive/2025-07-06-dont-leave-no-trace/) 👤 appliedgo.net 💬 1746 🔖 #go 🗓️ 2025-07-07
     > **Резюме:** Go 1.25 introduces FlightRecorder, a new tool that records recent trace data in a sliding window to capture meaningful events without filling disk space. It lets developers start, stop, and save trace snapshots programmatically or on events like signals. This feature helps analyze application behavior efficiently by focusing only on important moments.
+- [Concurrency Patterns in Go: errgroup](mailto:reader-forwarded-email/e17e336182935f8e158a227da7b09694) 👤 Jon Calhoun 💬 751 🔖 #go 🗓️ 2025-07-04
+    > **Резюме:** The email explains how to use Go's errgroup package to run multiple goroutines and handle errors easily. It highlights a common closure bug and shows how errgroup manages goroutines without needing "go" statements. It also clarifies that errgroup is part of Go's external "/x/" packages, which are tested but separate from the standard library.
 - [Gist of Go: Semaphores](https://antonz.org/go-concurrency/semaphores/) 👤 Anton Zhiyanov 💬 2380 🔖 #go 🗓️ 2025-07-02
     > **Резюме:** Mutexes let only one goroutine run at a time, but semaphores allow multiple goroutines with a limit. Rendezvous and barriers help goroutines wait for each other to stay in sync. These tools help manage concurrency in Go programs safely and efficiently.
 - [Know Your (CPU) Limits! • The Applied Go Weekly Newsletter 2025-06-29](https://newsletter.appliedgo.net/archive/2025-06-29-know-your-cpu-limits/) 👤 The Applied Go Weekly Newsletter 💬 1568 🔖 #go 🗓️ 2025-06-29
     > **Резюме:** Go 1.25 improves how Go programs detect CPU limits inside containers, making apps aware of actual CPU resources. This change helps prevent poor performance caused by apps overestimating available CPUs. The update also lets Go adjust CPU usage dynamically as container limits change.
+- [Concurrency Patterns in Go: sync.WaitGroup](mailto:reader-forwarded-email/6c2a36dd60dd3d5d1669ba8a7eaa0bf6) 👤 Jon Calhoun 💬 963 🔖 #go 🗓️ 2025-06-23
+    > **Резюме:** When running concurrent tasks in Go, the program may finish before all tasks complete. The sync.WaitGroup helps by waiting for all goroutines to finish before moving on. It is simple to use and clear when you only need to wait, not collect results.
 - [Go Before You Wait • The Applied Go Weekly Newsletter 2025-06-22](https://newsletter.appliedgo.net/archive/2025-06-22-go-before-you-wait/) 👤 The Applied Go Weekly Newsletter 💬 1531 🔖 #go 🗓️ 2025-06-22
     > **Резюме:** Go 1.25 introduces a new WaitGroup.Go() method that simplifies goroutine management by handling Add and Done calls automatically. This small change makes concurrent programming easier and less error-prone. The newsletter also shares useful articles, tools, and projects to help Go developers improve their skills.
 - [Eliminating dead code in Go projects](https://mfbmina.dev/en/posts/golang-deadcode/) 👤 Matheus Mina 💬 467 🔖 #go 🗓️ 2025-06-20
@@ -23,6 +27,8 @@
     > **Резюме:** This chapter discusses race conditions in Go and how to manage them using mutexes and atomic operations. It explains how to ensure that account updates are safe when multiple goroutines access shared data. The author also introduces the concept of avoiding shared state altogether to enhance concurrency safety.
 - [Writing Load Balancer From Scratch In 250 Line of Code](https://beyondthesyntax.substack.com/p/writing-load-balancer-from-scratch) 👤 Sushant Dhiman 💬 1745 🔖 #go, #diy 🗓️ 2025-06-16
     > **Резюме:** This post explains how to build a simple load balancer in 250 lines of code. A load balancer evenly distributes incoming requests across multiple server instances to improve performance and reliability. The author focuses on implementing the Round Robin strategy, where requests are sent to servers in a circular order, and plans to cover health checking in a future post.
+- [More readable happy paths](mailto:reader-forwarded-email/0cd4821f359f3bf43bd7ed8eae3d8a2c) 👤 Jon Calhoun 💬 1827 🔖 #go 🗓️ 2025-06-14
+    > **Резюме:** Jon Calhoun explains that the "happy path" in coding refers to the paths that execute successfully without errors. He suggests that aligning the happy path to the left edge of the code can enhance readability and make it easier to follow. By handling errors immediately rather than nesting them, developers can create clearer and more maintainable code.
 - [Gist of Go: Data races](https://antonz.org/go-concurrency/data-races/) 👤 Anton Zhiyanov 💬 2501 🔖 #go 🗓️ 2025-06-08
     > **Резюме:** Data races occur when multiple goroutines access the same variable simultaneously, with at least one of them modifying it. To prevent data races, Go provides mutexes and channels, which ensure safe access to shared data. Using these tools allows goroutines to work concurrently without corrupting the data they share.
 - [Own Your Errors! • The Applied Go Weekly Newsletter 2025-06-08](https://newsletter.appliedgo.net/archive/2025-06-08-own-your-errors/) 👤 The Applied Go Weekly Newsletter 💬 2259 🔖 #go 🗓️ 2025-06-08

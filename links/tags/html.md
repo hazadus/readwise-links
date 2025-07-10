@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 2
+- Всего ссылок: 3
 
 ## Ссылки
 
+- [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/) 👤 Jake Lazaroff 💬 1696 🔖 #html 🗓️ 2025-06-27
+    > **Резюме:** Web components are a stable, future-proof way to build reusable HTML elements without relying on dependencies like JavaScript frameworks. They allow for easy content portability, as all code is self-contained in a single file. By using web standards, developers can ensure their work remains accessible for years to come.
 - [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/?utm_source=rss) 👤 alexwlchan.net 💬 3756 🔖 #css, #html 🗓️ 2025-05-26
     > **Заметка:** Автор, конечно, маньяк - столько документов сохранил вручную😰
     > **Резюме:** The author learned about web design by reading two thousand web pages, discovering interesting HTML tags and clever CSS techniques. They found useful elements like <aside> and <mark>, which helped improve their understanding of how to structure content. The article also discusses modern practices like using <link rel="preload> for faster resource loading and the diminishing use of old techniques like conditional comments.

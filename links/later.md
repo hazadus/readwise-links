@@ -1,9 +1,23 @@
 # Отложенные ссылки
 
-- Всего ссылок: 35
+- Всего ссылок: 42
 
 ## Ссылки
 
+- [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/) 👤 jakelazaroff.com 💬 2530 🗓️ 2025-07-09
+    > **Резюме:** Waypoint is a local-first web app designed for trip planning that allows users to quickly jot down notes and visualize routes on a map. It uses a rich text editor and stores data on the client's device, making it easy to organize and share travel plans. Built with existing technologies like SvelteKit and Yjs, Waypoint emphasizes offline functionality and real-time collaboration.
+- [I Shipped a macOS App Built Entirely by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code) 👤 indragie.com 💬 3462 🔖 #llm 🗓️ 2025-07-07
+    > **Резюме:** The author built a Mac app mostly using Claude Code, an AI coding assistant that writes and tests code. Claude Code works well with SwiftUI but needs clear specs and feedback to improve its output. This tool shows how AI could change software development in the future.
+- [The Overlooked Tools Simple Command-Line Utilities That Every Developer Should Know](https://smsk.dev/2025/07/04/the-overlooked-tools-simple-command-line-utilities-that-every-developer-should-know/) 👤 devsimsek 💬 668 🗓️ 2025-07-05
+    > **Резюме:** This article highlights simple command-line tools that boost developer productivity. It introduces useful utilities like Eza, TLDR, Neovim, jq, and more. These tools make working in the terminal faster, clearer, and more enjoyable.
+- [How to Become a Time Billionaire](https://www.joanwestenberg.com/p/how-to-become-a-time-billionaire-d50677ce6215ea8a) 👤 Joan Westenberg 💬 1726 🗓️ 2025-07-05
+    > **Резюме:** Time is our most valuable and non-renewable asset, yet we often give it away without realizing its true cost. To become a "time billionaire," we must protect our hours by saying no to distractions and reclaim control over how we spend our time. True wealth comes from owning your schedule, focusing deeply, and creating space for what truly matters.
+- [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/#tools-vs-identity) 👤 Adam Gordon Bell 💬 8453 🗓️ 2025-07-03
+    > **Резюме:** The author loves coding and building projects, even as AI tools get better at writing code. Using AI as a partner can make coding more fun and help tackle bigger projects. Learning to work with these tools is a valuable skill that can keep the joy of programming alive.
+- [More Features of Vue's VS Code Extension](https://www.youtube.com/watch?v=RcPcO4_Ct_U) 👤 Alexander Lichter 🔖 #vue 🗓️ 2025-07-03
+    > **Резюме:** The Vue VS Code extension helps you add components easily and shows helpful hints about missing properties. It also supports reactive props and auto-adds ".value" for refs, saving time. Premium features include visualizing reactivity, focus mode, and highlighting template changes to improve coding clarity.
+- [Finding Purpose Through Exhaustion: Why I Keep Writing (and Coding)](https://smsk.dev/2025/07/01/finding-purpose-through-exhaustion-why-i-keep-writing-and-coding/) 👤 devsimsek 💬 666 🗓️ 2025-07-01
+    > **Резюме:** The author feels very tired but keeps writing and coding because stopping feels worse. Writing helps them process stress and stay connected to their passion. They encourage others to find small reasons to keep going during hard times.
 - [How to Build a Custom MCP Server with TypeScript – A Handbook for Developers](https://www.freecodecamp.org/news/how-to-build-a-custom-mcp-server-with-typescript-a-handbook-for-developers/) 👤 sumit.analyzen 💬 6832 🔖 #mcp, #try 🗓️ 2025-06-26
     > **Резюме:** MCP (Model Context Protocol) allows developers to connect their code and data to AI applications like Claude and Cursor in a structured way. By building an MCP server, developers can provide real-time context, enabling AI to fetch relevant information and respond accurately. This setup is essential for applications that require up-to-date data, such as chatbots and dashboards.
 - [Mind Management, Not Time Management](private://read/01jy2bx4yjy7cc3fb6cs5zy8ma) 👤 David Kadavy 💬 69903 🗓️ 2025-06-18

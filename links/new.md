@@ -1,33 +1,22 @@
 # Новые ссылки
 
-- Всего ссылок: 817
+- Всего ссылок: 804
 
 ## Ссылки
 
-- [How I use LLMs to learn new subjects](https://seangoedecke.com/learning-from-llms/) 👤 seangoedecke.com 💬 1923 🔖 #llm 🗓️ 2025-07-08
-- [Why a Maximum Viable Promise Beats an MVP](https://www.joanwestenberg.com/p/why-a-maximum-viable-promise-beats-an-mvp) 👤 Joan Westenberg 💬 1575 🗓️ 2025-07-08
+- [Concurrency Patterns in Go: Collecting Ordered Results](mailto:reader-forwarded-email/45e569d87e61df96dbcc83bdec2b50b1) 👤 Jon Calhoun 💬 925 🗓️ 2025-07-09
+- [Git Notes: git's coolest, most unloved feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/) 👤 Tyler Cipriani 💬 717 🔖 #git 🗓️ 2025-07-09
 - [uv: Making Python Local Workflows FAST and BORING in 2025](https://www.youtube.com/watch?v=TiBIjouDGuI) 👤 Hynek Schlawack 🔖 #uv 🗓️ 2025-07-07
-- [I Shipped a macOS App Built Entirely by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code) 👤 indragie.com 💬 3462 🔖 #llm 🗓️ 2025-07-07
 - [(Don't) Leave No Trace • The Applied Go Weekly Newsletter 2025-07-06](https://newsletter.appliedgo.net/archive/2025-07-06-dont-leave-no-trace/) 👤 appliedgo.net 💬 1746 🔖 #go 🗓️ 2025-07-07
-- [Cursor: Clarifying Our Pricing](https://simonwillison.net/2025/Jul/5/cursor-clarifying-our-pricing/#atom-everything) 👤 Simon Willison 💬 438 🗓️ 2025-07-05
-- [The Overlooked Tools Simple Command-Line Utilities That Every Developer Should Know](https://smsk.dev/2025/07/04/the-overlooked-tools-simple-command-line-utilities-that-every-developer-should-know/) 👤 devsimsek 💬 668 🗓️ 2025-07-05
-- [Identify, solve, verify](https://simonwillison.net/2025/Jul/4/identify-solve-verify/#atom-everything) 👤 Simon Willison 💬 178 🔖 #llm 🗓️ 2025-07-05
-- [How to Become a Time Billionaire](https://www.joanwestenberg.com/p/how-to-become-a-time-billionaire-d50677ce6215ea8a) 👤 Joan Westenberg 💬 1726 🗓️ 2025-07-05
-- [Concurrency Patterns in Go: errgroup](mailto:reader-forwarded-email/e17e336182935f8e158a227da7b09694) 👤 Jon Calhoun 💬 751 🗓️ 2025-07-04
-- [The Unbearable Lightness of Cringe](mailto:reader-forwarded-email/a6dac3498a092d9e0831a96c395f8972) 👤 Joan Westenberg 💬 1115 🗓️ 2025-07-04
-- [Connect to the MCP Server](https://logfire.pydantic.dev/docs/how-to-guides/mcp-server/) 👤 pydantic.dev 💬 400 🗓️ 2025-07-04
+- [Concurrency Patterns in Go: errgroup](mailto:reader-forwarded-email/e17e336182935f8e158a227da7b09694) 👤 Jon Calhoun 💬 751 🔖 #go 🗓️ 2025-07-04
+- [Connect to the MCP Server](https://logfire.pydantic.dev/docs/how-to-guides/mcp-server/) 👤 pydantic.dev 💬 400 🔖 #mcp 🗓️ 2025-07-04
 - [[BadComedian] - ПОСМОТРЕЛ ВСЕ СКАЗКИ (Волшебник изумрудного города, Бременские, Летучий корабль итд)](https://www.youtube.com/watch?v=vO3Wpq7wrLI) 👤 BadComedian 🗓️ 2025-07-04
-- [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/#tools-vs-identity) 👤 Adam Gordon Bell 💬 8453 🗓️ 2025-07-03
-- [More Features of Vue's VS Code Extension](https://www.youtube.com/watch?v=RcPcO4_Ct_U) 👤 Alexander Lichter 🔖 #vue 🗓️ 2025-07-03
 - [Gist of Go: Semaphores](https://antonz.org/go-concurrency/semaphores/) 👤 Anton Zhiyanov 💬 2380 🔖 #go 🗓️ 2025-07-02
-- [Finding Purpose Through Exhaustion: Why I Keep Writing (and Coding)](https://smsk.dev/2025/07/01/finding-purpose-through-exhaustion-why-i-keep-writing-and-coding/) 👤 devsimsek 💬 666 🗓️ 2025-07-01
 - [Developing a Real-time Dashboard with FastAPI, MongoDB, and WebSockets](https://testdriven.io/blog/fastapi-mongo-websockets/) 👤 testdriven.io 💬 2484 🔖 #fastapi, #websocket 🗓️ 2025-06-30
 - [Know Your (CPU) Limits! • The Applied Go Weekly Newsletter 2025-06-29](https://newsletter.appliedgo.net/archive/2025-06-29-know-your-cpu-limits/) 👤 The Applied Go Weekly Newsletter 💬 1568 🔖 #go 🗓️ 2025-06-29
-- [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/) 👤 Jake Lazaroff 💬 1696 🗓️ 2025-06-27
-- [Warp Drive](https://docs.warp.dev/knowledge-and-collaboration/warp-drive) 👤 warp.dev 💬 732 🗓️ 2025-06-26
-- [How to use the Readwise MCP](https://docs.readwise.io/readwise/guides/mcp) 👤 Readwise 💬 569 🗓️ 2025-06-26
+- [How to use the Readwise MCP](https://docs.readwise.io/readwise/guides/mcp) 👤 Readwise 💬 569 🔖 #mcp 🗓️ 2025-06-26
 - [Учимся мыслить правильно в эпоху ИИ. Как и зачем изучать формальную логику](https://youtube.com/watch?v=sab7WQI8FQc&si=e4RmOEh7ngrsLNEg) 👤 Диджитализируй! 🗓️ 2025-06-25
-- [Concurrency Patterns in Go: sync.WaitGroup](mailto:reader-forwarded-email/6c2a36dd60dd3d5d1669ba8a7eaa0bf6) 👤 Jon Calhoun 💬 963 🗓️ 2025-06-23
+- [Concurrency Patterns in Go: sync.WaitGroup](mailto:reader-forwarded-email/6c2a36dd60dd3d5d1669ba8a7eaa0bf6) 👤 Jon Calhoun 💬 963 🔖 #go 🗓️ 2025-06-23
 - [Go Before You Wait • The Applied Go Weekly Newsletter 2025-06-22](https://newsletter.appliedgo.net/archive/2025-06-22-go-before-you-wait/) 👤 The Applied Go Weekly Newsletter 💬 1531 🔖 #go 🗓️ 2025-06-22
 - [MCP Core Concepts - Resources, Tools, Prompts & Transports!](https://www.youtube.com/watch?v=TTtQxUprbDY) 👤 BugBytes 🔖 #mcp 🗓️ 2025-06-21
 - [Von Express zu Go – mein Weg zu minimalistischen HTTP‑APIs](https://trakora.de/blog/weg-zu-minimalistischen-http-apis) 👤 trakora.de 💬 640 🔖 #go, #try 🗓️ 2025-06-18
@@ -36,9 +25,7 @@
 - [Inside The Bubble • The Applied Go Weekly Newsletter 2025-06-15](https://newsletter.appliedgo.net/archive/2025-06-15-inside-the-bubble/) 👤 The Applied Go Weekly Newsletter 💬 2190 🔖 #go 🗓️ 2025-06-16
 - [Gist of Go: Race conditions](https://antonz.org/go-concurrency/race-conditions/) 👤 Anton Zhiyanov 💬 4381 🔖 #go 🗓️ 2025-06-16
 - [Writing Load Balancer From Scratch In 250 Line of Code](https://beyondthesyntax.substack.com/p/writing-load-balancer-from-scratch) 👤 Sushant Dhiman 💬 1745 🔖 #go, #diy 🗓️ 2025-06-16
-- [Supercharging Playwright testing with MCP in VSCode + CopilotSupercharging Playwright testing with MCP in VSCode + CopilotSupercharging Playwright testing with MCP in VSCode + Copilot](https://nearform.com/digital-community/supercharging-playwright-testing/) 👤 nearform.com 💬 1191 🗓️ 2025-06-14
-- [More readable happy paths](mailto:reader-forwarded-email/0cd4821f359f3bf43bd7ed8eae3d8a2c) 👤 Jon Calhoun 💬 1827 🗓️ 2025-06-14
-- [the z80 technique reveals the source code for Atlassian's 'rovo' AI assistant](https://ghuntley.com/atlassian-rovo-source-code/) 👤 Geoffrey Huntley 💬 1122 🗓️ 2025-06-14
+- [More readable happy paths](mailto:reader-forwarded-email/0cd4821f359f3bf43bd7ed8eae3d8a2c) 👤 Jon Calhoun 💬 1827 🔖 #go 🗓️ 2025-06-14
 - [Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/) 👤 inkandswitch.com 💬 9109 🗓️ 2025-06-12
 - [Recreating the bird animation from Swift.org](https://alexwlchan.net/2025/swift-bird-animation/?utm_source=rss) 👤 alexwlchan.net 💬 2741 🗓️ 2025-06-11
 - [Partial Keyframes](https://www.joshwcomeau.com/animation/partial-keyframes/) 👤 Josh W. Comeau 💬 1697 🔖 #css 🗓️ 2025-06-11

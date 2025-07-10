@@ -1,13 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [Connect to the MCP Server](https://logfire.pydantic.dev/docs/how-to-guides/mcp-server/) 👤 pydantic.dev 💬 400 🔖 #mcp 🗓️ 2025-07-04
+    > **Резюме:** The MCP server lets you access and query your application's telemetry data using OpenTelemetry and Logfire. You need a read token to run the server from the command line and can configure it with tools like Cursor, Claude Desktop, or Cline. The server offers four main tools to find exceptions, run custom queries, and get schema information.
 - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/) 👤 Armin Ronacher's Thoughts and Writings 💬 2144 🔖 #llm, #mcp 🗓️ 2025-07-03
     > **Резюме:** The author argues that current Multi-Component Pipelines (MCP) are hard to use because they rely too much on inference and are not easily composable. Writing code is better since it can be reviewed, tested, and run many times without extra inference. Using LLMs to generate code, then checking that code, is a more reliable and scalable way to automate tasks.
 - [Using Playwright MCP with Claude Code | Simon Willison’s TILs](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code) 👤 simonwillison.net 💬 295 🔖 #llm, #mcp 🗓️ 2025-07-02
     > **Резюме:** Simon Willison explains how to use Microsoft’s Playwright MCP server with Claude Code to control a visible Chrome browser. By running a simple command before starting Claude, you can open and interact with websites using Playwright commands. This setup makes browser automation easy, with persistent sessions and many available tools.
+- [How to use the Readwise MCP](https://docs.readwise.io/readwise/guides/mcp) 👤 Readwise 💬 569 🔖 #mcp 🗓️ 2025-06-26
+    > **Резюме:** The Readwise Model Context Protocol (MCP) helps connect your Readwise highlights to chat applications like Claude. To set it up, you need to configure the Claude Desktop app and ensure Node is installed on your computer. Once set up, you can chat with your Readwise highlights directly in Claude.
 - [How to Build a Custom MCP Server with TypeScript – A Handbook for Developers](https://www.freecodecamp.org/news/how-to-build-a-custom-mcp-server-with-typescript-a-handbook-for-developers/) 👤 sumit.analyzen 💬 6832 🔖 #mcp, #try 🗓️ 2025-06-26
     > **Резюме:** MCP (Model Context Protocol) allows developers to connect their code and data to AI applications like Claude and Cursor in a structured way. By building an MCP server, developers can provide real-time context, enabling AI to fetch relevant information and respond accurately. This setup is essential for applications that require up-to-date data, such as chatbots and dashboards.
 - [MCP Core Concepts - Resources, Tools, Prompts & Transports!](https://www.youtube.com/watch?v=TTtQxUprbDY) 👤 BugBytes 🔖 #mcp 🗓️ 2025-06-21
