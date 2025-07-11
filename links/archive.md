@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 818
+- Всего ссылок: 819
 
 ## Ссылки
 
+- [Mecha-Hitler, Grok, and why it's so hard to give LLMs the right personality](https://seangoedecke.com/ai-personality-space/) 👤 seangoedecke.com 💬 1243 🔖 #llm 🗓️ 2025-07-10
 - [The more senior engineers get, the more results matter](https://seangoedecke.com/being-accountable-for-results/) 👤 seangoedecke.com 💬 651 🔖 #career 🗓️ 2025-07-08
 - [How I use LLMs to learn new subjects](https://seangoedecke.com/learning-from-llms/) 👤 seangoedecke.com 💬 1923 🔖 #llm, #learning 🗓️ 2025-07-08
 - [Why a Maximum Viable Promise Beats an MVP](https://www.joanwestenberg.com/p/why-a-maximum-viable-promise-beats-an-mvp) 👤 Joan Westenberg 💬 1575 🗓️ 2025-07-08

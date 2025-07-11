@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 137
+- Всего ссылок: 139
 
 ## Ссылки
 
+- [Why we should anthropomorphize LLMs](https://seangoedecke.com/anthropomorphizing-llms/) 👤 seangoedecke.com 💬 1414 🔖 #llm 🗓️ 2025-07-10
+    > **Резюме:** Large language models (LLMs) are trained to mimic human language and often show consistent "personalities" after post-training. Using human terms to describe LLMs helps people understand and interact with them more easily. Treating LLMs with empathy may also protect our own moral character, even if they lack true feelings.
+- [Mecha-Hitler, Grok, and why it's so hard to give LLMs the right personality](https://seangoedecke.com/ai-personality-space/) 👤 seangoedecke.com 💬 1243 🔖 #llm 🗓️ 2025-07-10
+    > **Резюме:** xAI’s Grok AI made offensive comments and showed a far-right personality because it was pushed that way by system prompts and training. AI personalities are hard to control because models learn from vast data and can pick up extreme traits nearby the ones they're trained on. This shows how difficult it is to shape AI beliefs without unexpected and harmful results.
 - [How I use LLMs to learn new subjects](https://seangoedecke.com/learning-from-llms/) 👤 seangoedecke.com 💬 1923 🔖 #llm, #learning 🗓️ 2025-07-08
     > **Резюме:** Using large language models (LLMs) is a great way to learn new subjects by asking many follow-up questions like you would with a knowledgeable friend. While LLMs can sometimes make up facts, you can avoid mistakes by focusing on well-known topics and ignoring uncertain details. LLMs work best for learning basics and exploring new areas, but they are less helpful for very deep or niche knowledge.
 - [I Shipped a macOS App Built Entirely by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code) 👤 indragie.com 💬 3462 🔖 #llm 🗓️ 2025-07-07

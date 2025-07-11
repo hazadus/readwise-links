@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 804
+- Всего ссылок: 805
 
 ## Ссылки
 
+- [Why we should anthropomorphize LLMs](https://seangoedecke.com/anthropomorphizing-llms/) 👤 seangoedecke.com 💬 1414 🔖 #llm 🗓️ 2025-07-10
 - [Concurrency Patterns in Go: Collecting Ordered Results](mailto:reader-forwarded-email/45e569d87e61df96dbcc83bdec2b50b1) 👤 Jon Calhoun 💬 925 🗓️ 2025-07-09
 - [Git Notes: git's coolest, most unloved feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/) 👤 Tyler Cipriani 💬 717 🔖 #git 🗓️ 2025-07-09
 - [uv: Making Python Local Workflows FAST and BORING in 2025](https://www.youtube.com/watch?v=TiBIjouDGuI) 👤 Hynek Schlawack 🔖 #uv 🗓️ 2025-07-07

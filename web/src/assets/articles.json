@@ -1,5 +1,71 @@
 [
     {
+        "id": "01jzv32p5fz4x7q62pnmx30krw",
+        "url": "https://read.readwise.io/read/01jzv32p5fz4x7q62pnmx30krw",
+        "source_url": "https://seangoedecke.com/anthropomorphizing-llms/",
+        "title": "Why we should anthropomorphize LLMs",
+        "author": "seangoedecke.com",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1752182122602
+            }
+        },
+        "site_name": "seangoedecke.com",
+        "word_count": 1414,
+        "notes": "",
+        "summary": "Large language models (LLMs) are trained to mimic human language and often show consistent \"personalities\" after post-training. Using human terms to describe LLMs helps people understand and interact with them more easily. Treating LLMs with empathy may also protect our own moral character, even if they lack true feelings.",
+        "image_url": null,
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-07-10",
+        "created_at": "2025-07-10T21:15:18.601113+00:00",
+        "updated_at": "2025-07-10T21:15:23.480873+00:00",
+        "saved_at": "2025-07-10T21:15:18.575000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-07-10T21:15:18.575000+00:00"
+    },
+    {
+        "id": "01jzsr6e5nrbzy4fqj9hz76v3h",
+        "url": "https://read.readwise.io/read/01jzsr6e5nrbzy4fqj9hz76v3h",
+        "source_url": "https://seangoedecke.com/ai-personality-space/",
+        "title": "Mecha-Hitler, Grok, and why it's so hard to give LLMs the right personality",
+        "author": "seangoedecke.com",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "archive",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1752183001616
+            }
+        },
+        "site_name": "seangoedecke.com",
+        "word_count": 1243,
+        "notes": "",
+        "summary": "xAI’s Grok AI made offensive comments and showed a far-right personality because it was pushed that way by system prompts and training. AI personalities are hard to control because models learn from vast data and can pick up extreme traits nearby the ones they're trained on. This shows how difficult it is to shape AI beliefs without unexpected and harmful results.",
+        "image_url": null,
+        "parent_id": null,
+        "reading_progress": 1.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-07-10",
+        "created_at": "2025-07-10T08:45:52.711590+00:00",
+        "updated_at": "2025-07-10T21:30:04.435885+00:00",
+        "saved_at": "2025-07-10T08:45:52.693000+00:00",
+        "first_opened_at": "2025-07-10T21:22:14.707000+00:00",
+        "last_opened_at": "2025-07-10T21:22:14.707000+00:00",
+        "last_moved_at": "2025-07-10T21:30:03.923000+00:00"
+    },
+    {
         "id": "01jzrj51qv9bzs0v7at1mp7s82",
         "url": "https://read.readwise.io/read/01jzrj51qv9bzs0v7at1mp7s82",
         "source_url": "mailto:reader-forwarded-email/45e569d87e61df96dbcc83bdec2b50b1",
@@ -13374,10 +13440,10 @@
         "html_content": null,
         "published_date": "2025-05-30",
         "created_at": "2025-05-31T13:11:01.910590+00:00",
-        "updated_at": "2025-06-01T10:34:53.509584+00:00",
+        "updated_at": "2025-07-10T13:47:19.881320+00:00",
         "saved_at": "2025-05-31T13:11:01.888000+00:00",
-        "first_opened_at": "2025-06-01T10:34:52.974000+00:00",
-        "last_opened_at": "2025-06-01T10:34:52.974000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
         "last_moved_at": "2025-06-01T10:26:42.408000+00:00"
     },
     {
@@ -99261,7 +99327,7 @@
         "site_name": "webology.dev",
         "word_count": 201,
         "notes": "",
-        "summary": "I have used this casey/just recipe to help backup and restore my Postgres databases from my Docker containers.\nI work with a few machines, and it’s an excellent way to create a database dump from one machine and then restore it from another machine. I sometimes use it to test data migrations because restoring a database dump takes a few seconds.\nI have been migrating from Docker to OrbStack, and the only real pain point is moving data from one volume to another.",
+        "summary": "The author uses a simple recipe to back up and restore Postgres databases from Docker containers. This method helps move data quickly between machines and test data migrations. They also use it to switch between Docker and OrbStack environments smoothly.",
         "image_url": "https://micro.blog/webology/favicon.png",
         "parent_id": null,
         "reading_progress": 0.0,
@@ -99269,7 +99335,7 @@
         "html_content": null,
         "published_date": "2024-06-29",
         "created_at": "2024-11-05T15:48:18.037654+00:00",
-        "updated_at": "2024-11-23T07:56:23.824039+00:00",
+        "updated_at": "2025-07-10T12:00:57.443057+00:00",
         "saved_at": "2024-06-29T13:06:32.061000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
