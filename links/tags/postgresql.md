@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 31
+- Всего ссылок: 32
 
 ## Ссылки
 
+- [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale) 👤 recall.ai 💬 1809 🔖 #postgresql 🗓️ 2025-07-11
+    > **Резюме:** Postgres LISTEN/NOTIFY causes a global lock during transaction commits, which blocks other transactions. This lock creates serious performance problems under heavy write loads. Removing or avoiding NOTIFY helped the database run smoothly again.
 - [PostgreSQL anti-patterns: read-modify-write cycles](https://www.2ndquadrant.com/en/blog/postgresql-anti-patterns-read-modify-write-cycles/) 👤 craig.ringer 💬 1422 🔖 #postgresql 🗓️ 2025-06-19
     > **Заметка:** Хорошие краткие примеры
     > **Резюме:** The article discusses a common SQL coding mistake called the read-modify-write cycle, which can lead to errors when multiple sessions update the same data simultaneously. It highlights various solutions to this issue, such as using row-level locking, SERIALIZABLE transactions, and optimistic concurrency control. The author emphasizes the importance of addressing concurrency issues instead of assuming the database will handle them automatically.

@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 805
+- Всего ссылок: 807
 
 ## Ссылки
 
+- [Death Stranding 2: Кодзиме пора потрогать траву](https://disgustingmen.com/games/death-stranding-2-on-the-beach-review/) 👤 Денис Майоров 💬 1805 🗓️ 2025-07-11
+- [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale) 👤 recall.ai 💬 1809 🔖 #postgresql 🗓️ 2025-07-11
 - [Why we should anthropomorphize LLMs](https://seangoedecke.com/anthropomorphizing-llms/) 👤 seangoedecke.com 💬 1414 🔖 #llm 🗓️ 2025-07-10
 - [Concurrency Patterns in Go: Collecting Ordered Results](mailto:reader-forwarded-email/45e569d87e61df96dbcc83bdec2b50b1) 👤 Jon Calhoun 💬 925 🗓️ 2025-07-09
 - [Git Notes: git's coolest, most unloved feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/) 👤 Tyler Cipriani 💬 717 🔖 #git 🗓️ 2025-07-09
