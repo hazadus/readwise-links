@@ -11,7 +11,7 @@
 - [Building a Real-time Dashboard with Flask and Svelte](https://testdriven.io/blog/flask-svelte/) 👤 Amir Tadrisi 💬 2931 🔖 #sse, #flask, #svelte 🗓️ 2025-04-08
     > **Резюме:** Learn how to build a real-time analytics dashboard using Flask and Svelte with server-sent events.
 - [Dynamic Forms with Flask](https://blog.miguelgrinberg.com/post/dynamic-forms-with-flask) 👤 Miguel Grinberg 💬 2923 🔖 #flask 🗓️ 2025-01-30
-    > **Резюме:** A common need in web applications is to create a form that allows the user to enter a list of items, with the number of items not known in advance. This is a pattern often used when entering user…
+    > **Резюме:** This article explains how to create dynamic forms in Flask where users can add multiple phone numbers. It shows two methods: a basic approach using plain Flask and a more advanced way using Flask-WTF for better validation and features. The Flask-WTF method handles dynamic fields smoothly and adds security like CSRF protection.
 - [A Year In Review: Flask in 2024](https://blog.miguelgrinberg.com/post/a-year-in-review-flask-in-2024) 👤 Miguel Grinberg 💬 1556 🔖 #flask 🗓️ 2025-01-06
     > **Резюме:** In 2024, the Flask framework had a quiet year with only one minor release and a slowdown in development activity. New features included partitioned cookies and secret key rotation, while breaking changes were notably absent. Looking ahead, Flask may face changes in its context management, which could impact compatibility with existing extensions.
 - [13 tips and techniques for modern Flask apps](https://pgjones.dev/blog/modern-flask-2023/) 👤 pgjones.dev 💬 1364 🔖 #flask 🗓️ 2024-01-26
