@@ -1,9 +1,44 @@
 # Ссылки
 
-- Всего ссылок: 37
+- Всего ссылок: 38
 
 ## Ссылки
 
+- [Vercel BUYING NuxtLabs - What it means for you!](https://www.youtube.com/watch?v=NiQB7QPJAiM) 👤 Alexander Lichter 🔖 #vue, #nuxt 🗓️ 2025-07-13
+    > **Резюме:** This week's acquisition of NuxtLabs was a suprise for most of us - but what does it mean for Nuxt as a framework, for the community and for YOU?!
+
+Disclaimer: This video shares my own opinion and not the official stance of VoidZero nor the Nuxt core team as a whole.
+
+---
+Links and Resources
+
+🔗 NuxtLabs announcement 
+🎙 Full @DejaVueFm episode with Daniel and Sébastien https://www.youtube.com/watch?v=xHbjFW9EJ-8
+🔗 Nuxt Governance document https://github.com/nuxt/governance
+🔗 Nitro Governance document https://github.com/nitrojs/governance/blob/main/README.md
+🔗 Daniel's Reddit AMA https://www.reddit.com/r/vuejs/comments/1lvdkwr/i_lead_the_nuxt_core_team_ama/
+
+---
+Chaptermarks
+00:00 Intro
+00:21 What happened?
+01:17 Am I part of Vercel now?
+01:29 Did I know about the acquisition?
+01:57 NuxtLabs IS NOT Nuxt
+02:45 What does it mean for NuxtLabs?
+03:20 What will happen with the products of NuxtLabs?
+05:06 What does it mean for Nuxt as a framework?
+10:08 Consequences for Nitro and UnJS
+11:26 What changes for Vue?
+12:09 What is in for Vercel?
+13:35 Who are the "winners" of this acquisition?
+14:10 And who are the "losers"?
+15:16 Addressing Worries
+16:42 Wrapping Up
+
+---
+
+Links marked with * are affiliate links. I get a small commission when you register for the service or buy the product through my link. This helps me keeping the channel running. I only include affiliate links for services or product mentioned that we use ourselves or have good experience with.
 - [Implementing Edge-Side Rendering (ESR) in Nuxt 3+ for Enhanced Performance](https://mokkapps.de/blog/implementing-esr-nuxt) 👤 Michael Hoffmann 💬 1473 🔖 #nuxt 🗓️ 2025-06-04
     > **Резюме:** Edge-Side Rendering (ESR) in Nuxt 3+ improves web performance by rendering content closer to users, reducing latency and load times. It allows applications to scale better by distributing the rendering workload across multiple edge servers. Using platforms like Cloudflare, Vercel, and Netlify, developers can easily implement ESR for faster and more responsive applications.
 - [21 Nuxt Tips You Need to Know](https://michaelnthiessen.com/21-nuxt-tips-you-need-to-know?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%94%A5+(216)+Component+design+patterns,+Nuxt%27s+new+data+layer,+and+more+-+17527805) 👤 michaelnthiessen.com 💬 3314 🔖 #nuxt 🗓️ 2025-05-17

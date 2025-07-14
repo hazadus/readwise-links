@@ -1,9 +1,44 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [Vercel BUYING NuxtLabs - What it means for you!](https://www.youtube.com/watch?v=NiQB7QPJAiM) 👤 Alexander Lichter 🔖 #vue, #nuxt 🗓️ 2025-07-13
+    > **Резюме:** This week's acquisition of NuxtLabs was a suprise for most of us - but what does it mean for Nuxt as a framework, for the community and for YOU?!
+
+Disclaimer: This video shares my own opinion and not the official stance of VoidZero nor the Nuxt core team as a whole.
+
+---
+Links and Resources
+
+🔗 NuxtLabs announcement 
+🎙 Full @DejaVueFm episode with Daniel and Sébastien https://www.youtube.com/watch?v=xHbjFW9EJ-8
+🔗 Nuxt Governance document https://github.com/nuxt/governance
+🔗 Nitro Governance document https://github.com/nitrojs/governance/blob/main/README.md
+🔗 Daniel's Reddit AMA https://www.reddit.com/r/vuejs/comments/1lvdkwr/i_lead_the_nuxt_core_team_ama/
+
+---
+Chaptermarks
+00:00 Intro
+00:21 What happened?
+01:17 Am I part of Vercel now?
+01:29 Did I know about the acquisition?
+01:57 NuxtLabs IS NOT Nuxt
+02:45 What does it mean for NuxtLabs?
+03:20 What will happen with the products of NuxtLabs?
+05:06 What does it mean for Nuxt as a framework?
+10:08 Consequences for Nitro and UnJS
+11:26 What changes for Vue?
+12:09 What is in for Vercel?
+13:35 Who are the "winners" of this acquisition?
+14:10 And who are the "losers"?
+15:16 Addressing Worries
+16:42 Wrapping Up
+
+---
+
+Links marked with * are affiliate links. I get a small commission when you register for the service or buy the product through my link. This helps me keeping the channel running. I only include affiliate links for services or product mentioned that we use ourselves or have good experience with.
 - [More Features of Vue's VS Code Extension](https://www.youtube.com/watch?v=RcPcO4_Ct_U) 👤 Alexander Lichter 🔖 #vue 🗓️ 2025-07-03
     > **Резюме:** The Vue VS Code extension helps you add components easily and shows helpful hints about missing properties. It also supports reactive props and auto-adds ".value" for refs, saving time. Premium features include visualizing reactivity, focus mode, and highlighting template changes to improve coding clarity.
 - [How Vue Composables Work – Explained with Code Examples](https://www.freecodecamp.org/news/how-vue-composables-work/) 👤 freeCodeCamp.org 💬 1767 🔖 #vue 🗓️ 2025-06-14

@@ -1,9 +1,13 @@
 # Новые ссылки
 
-- Всего ссылок: 807
+- Всего ссылок: 811
 
 ## Ссылки
 
+- [Vercel BUYING NuxtLabs - What it means for you!](https://www.youtube.com/watch?v=NiQB7QPJAiM) 👤 Alexander Lichter 🔖 #vue, #nuxt 🗓️ 2025-07-13
+- [Don't Mess With My Site! • The Applied Go Weekly Newsletter 2025-07-13](https://newsletter.appliedgo.net/archive/2025-07-13-dont-mess-with-my-site/) 👤 appliedgo.net 💬 1289 🗓️ 2025-07-13
+- [being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form) 👤 Maalvika 💬 2656 🗓️ 2025-07-13
+- [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck) 👤 Pedro Tavares 💬 462 🗓️ 2025-07-13
 - [Death Stranding 2: Кодзиме пора потрогать траву](https://disgustingmen.com/games/death-stranding-2-on-the-beach-review/) 👤 Денис Майоров 💬 1805 🗓️ 2025-07-11
 - [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale) 👤 recall.ai 💬 1809 🔖 #postgresql 🗓️ 2025-07-11
 - [Why we should anthropomorphize LLMs](https://seangoedecke.com/anthropomorphizing-llms/) 👤 seangoedecke.com 💬 1414 🔖 #llm 🗓️ 2025-07-10
