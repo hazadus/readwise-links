@@ -1,9 +1,21 @@
 # Архивные ссылки
 
-- Всего ссылок: 819
+- Всего ссылок: 824
 
 ## Ссылки
 
+- [LLMs, Vibe-Coding, and Where I Draw the Line](https://ordep.dev/posts/llms) 👤 Pedro Tavares 💬 605 🔖 #llm 🗓️ 2025-07-14
+- [Ralph Wiggum as a "software engineer"](https://ghuntley.com/ralph/) 👤 Geoffrey Huntley 💬 4133 🔖 #llm 🗓️ 2025-07-14
+    > **Заметка:** Ralph Wiggum — это имя наивного, постоянно ошибающегося мальчика из «Симпсонов». Автор нарочно «нанял» именно его в роли «инженера», чтобы подчеркнуть характер своей техники:
+
+- Как и мультяшный Ральф, LLM-агент внутри простого Bash-цикла «делает глупости» — генерирует код с дефектами.  
+- Но если терпеливо ставить «таблички» (т. е. добавлять уточняющие промпты, корректировать план и т. д.), он учится и постепенно приходит к правильному результату.  
+- Поэтому «Ralph» в статье — не человек, а способ автоматизированной разработки: бесконечный while-loop, который кормит модель промптомы, анализирует результат и запускает следующий виток.
+
+То есть это одновременно поп-культурная шутка (отсылка к герою «Симпсонов») и название описываемого автором метода работы с LLM.
+- [Building a RTS where you issue orders to AI agents](https://seangoedecke.com/wargame-agents/) 👤 seangoedecke.com 💬 1231 🔖 #llm 🗓️ 2025-07-14
+- [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck) 👤 Pedro Tavares 💬 462 🔖 #llm 🗓️ 2025-07-13
+- [Why we should anthropomorphize LLMs](https://seangoedecke.com/anthropomorphizing-llms/) 👤 seangoedecke.com 💬 1414 🔖 #llm 🗓️ 2025-07-10
 - [Mecha-Hitler, Grok, and why it's so hard to give LLMs the right personality](https://seangoedecke.com/ai-personality-space/) 👤 seangoedecke.com 💬 1243 🔖 #llm 🗓️ 2025-07-10
 - [The more senior engineers get, the more results matter](https://seangoedecke.com/being-accountable-for-results/) 👤 seangoedecke.com 💬 651 🔖 #career 🗓️ 2025-07-08
 - [How I use LLMs to learn new subjects](https://seangoedecke.com/learning-from-llms/) 👤 seangoedecke.com 💬 1923 🔖 #llm, #learning 🗓️ 2025-07-08
@@ -11,7 +23,7 @@
 - [What's up Python? Mypy gets better, uv faster, FastApi easier, Emscripten formal...er](https://www.bitecode.dev/p/whats-up-python-mypy-gets-better) 👤 Bite Code! 💬 1296 🔖 #uv, #mypy, #python, #fastapi 🗓️ 2025-07-07
 - [I Spent 90 Days Rebuilding My Brain. Here's What I Learned.](https://www.joanwestenberg.com/p/i-spent-90-days-rebuilding-my-brain-here-s-what-i-learned-b7844d4127c5d542) 👤 Joan Westenberg 💬 2613 🔖 #reading, #learning 🗓️ 2025-07-07
 - [Эволюция рабочего места одного программиста](https://habr.com/ru/articles/870944/) 👤 arturdumchev 💬 1834 🔖 #health 🗓️ 2025-07-07
-- [How to become passionate about delivering shareholder value](https://seangoedecke.com/shareholder-value/) 👤 seangoedecke.com 💬 1366 🔖 #career 🗓️ 2025-07-05
+- [How to become passionate about delivering shareholder value](https://seangoedecke.com/shareholder-value/) 👤 seangoedecke.com 💬 1435 🔖 #career 🗓️ 2025-07-05
 - [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
 - [Identify, solve, verify](https://simonwillison.net/2025/Jul/4/identify-solve-verify/#atom-everything) 👤 Simon Willison 💬 178 🔖 #llm 🗓️ 2025-07-05
 - [The Unbearable Lightness of Cringe](mailto:reader-forwarded-email/a6dac3498a092d9e0831a96c395f8972) 👤 Joan Westenberg 💬 1115 🗓️ 2025-07-04
@@ -89,13 +101,13 @@
 - [Get a string representation of a Python traceback with traceback.format_exc()](https://alexwlchan.net/til/2025/get-python-traceback-as-string/?utm_source=rss) 👤 alexwlchan.net 💬 111 🔖 #python 🗓️ 2025-06-14
 - [Say "but yes", not "yes but"](https://seangoedecke.com/but-yes-not-yes-but/) 👤 seangoedecke.com 💬 537 🔖 #soft skills, #communication 🗓️ 2025-06-14
 - [Agentic Coding Recommendations](http://lucumr.pocoo.org/2025/6/12/agentic-coding) 👤 Armin Ronacher's Thoughts and Writings 💬 2596 🔖 #llm 🗓️ 2025-06-12
-- [Thoughts on tldraw computer](https://blog.nilenso.com/blog/2024/12/30/thought-on-tldraw-computer/) 👤 blog.nilenso.com 💬 372 🗓️ 2025-06-11
-- [My GenAI workflow for building a voice assistant](https://blog.nilenso.com/blog/2025/01/30/my-genai-workflow-for-building-a-voice-assistant/) 👤 blog.nilenso.com 💬 877 🔖 #llm 🗓️ 2025-06-11
+- [Thoughts on tldraw computer](https://blog.nilenso.com/blog/2024/12/30/thought-on-tldraw-computer/) 👤 Nilenso 💬 423 🗓️ 2025-06-11
+- [My GenAI workflow for building a voice assistant](https://blog.nilenso.com/blog/2025/01/30/my-genai-workflow-for-building-a-voice-assistant/) 👤 Nilenso 💬 877 🔖 #llm 🗓️ 2025-06-11
 - [Tiny Models, Local Throttles: Exploring My Local AI Dev Setup](https://blog.nilenso.com/blog/2025/05/06/local-llm-setup/) 👤 Nilenso 💬 1589 🔖 #llm, #inspiration 🗓️ 2025-06-11
 - [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/) 👤 Nilenso 💬 1239 🔖 #mcp 🗓️ 2025-06-11
 - [Experimenting with Self-Hosted LLMs for Text-to-SQL](https://blog.nilenso.com/blog/2025/05/27/experimenting-with-self-hosted-llms-for-text-to-sql/) 👤 Nilenso 💬 561 🔖 #llm 🗓️ 2025-06-11
 - [AI-assisted coding for teams that can't get away with vibes](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/) 👤 Nilenso 💬 2128 🔖 #llm, #inspiration 🗓️ 2025-06-11
-- [devsimsek's Blog](https://smsk.dev/2025/06/10/am-i-the-only-one-who-isnt-satisfied-with-apples-wwdc-2025/) 👤 smsk.dev 💬 689 🗓️ 2025-06-11
+- [Am I the Only One Who Isn’t Satisfied with Apple’s WWDC 2025?](https://smsk.dev/2025/06/10/am-i-the-only-one-who-isnt-satisfied-with-apples-wwdc-2025/) 👤 devsimsek 💬 573 🗓️ 2025-06-11
 - [GenAI Criticism and Moral Quandaries](http://lucumr.pocoo.org/2025/6/10/genai-criticism) 👤 Armin Ronacher's Thoughts and Writings 💬 1680 🔖 #llm 🗓️ 2025-06-11
 - [The first big AI disaster is yet to happen](https://seangoedecke.com/the-first-big-ai-disaster/) 👤 seangoedecke.com 💬 1159 🔖 #llm 🗓️ 2025-06-11
 - [Вложенность в перечислениях](http://maximilyahov.ru/blog/all/embedded-lists/) 👤 maximilyahov.ru 💬 117 🔖 #writing 🗓️ 2025-06-08

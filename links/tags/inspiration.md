@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 83
+- Всего ссылок: 84
 
 ## Ссылки
 
+- [What Doesn’t Change](https://terriblesoftware.org/2025/07/14/what-doesnt-change/) 👤 Terrible Software 💬 514 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-14
+    > **Резюме:** Technology changes fast, but core ideas like algorithms and networks stay the same. Knowing these fundamentals helps you use AI and new tools better. Focus on learning the basics deeply to understand and adapt to any future technology.
 - [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
     > **Резюме:** Building small AI tools can save developers time on repetitive tasks like writing reports or summarizing updates. These tools are simple to create and help teams work more efficiently, even if they aren’t big money-makers. Over time, more engineers will build such AI helpers, making many common jobs easier and faster.
 - [Agentic Coding: The Future of Software Development with Agents](https://m.youtube.com/watch?v=nfOVgz_omlU) 👤 Armin Ronacher 🔖 #llm, #inspiration 🗓️ 2025-06-30

@@ -1,9 +1,26 @@
 # Ссылки
 
-- Всего ссылок: 139
+- Всего ссылок: 144
 
 ## Ссылки
 
+- [What Doesn’t Change](https://terriblesoftware.org/2025/07/14/what-doesnt-change/) 👤 Terrible Software 💬 514 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-14
+    > **Резюме:** Technology changes fast, but core ideas like algorithms and networks stay the same. Knowing these fundamentals helps you use AI and new tools better. Focus on learning the basics deeply to understand and adapt to any future technology.
+- [LLMs, Vibe-Coding, and Where I Draw the Line](https://ordep.dev/posts/llms) 👤 Pedro Tavares 💬 605 🔖 #llm 🗓️ 2025-07-14
+    > **Резюме:** Pedro Tavares discusses his experience with large language models (LLMs) and emphasizes that while they are useful for tasks like summarizing and debugging, he does not trust them to write production code. He believes that LLMs should be used as tools for learning and support, not as replacements for programmers. Ultimately, he values understanding and maintaining his own code over relying on AI-generated solutions.
+- [Ralph Wiggum as a "software engineer"](https://ghuntley.com/ralph/) 👤 Geoffrey Huntley 💬 4133 🔖 #llm 🗓️ 2025-07-14
+    > **Заметка:** Ralph Wiggum — это имя наивного, постоянно ошибающегося мальчика из «Симпсонов». Автор нарочно «нанял» именно его в роли «инженера», чтобы подчеркнуть характер своей техники:
+
+- Как и мультяшный Ральф, LLM-агент внутри простого Bash-цикла «делает глупости» — генерирует код с дефектами.  
+- Но если терпеливо ставить «таблички» (т. е. добавлять уточняющие промпты, корректировать план и т. д.), он учится и постепенно приходит к правильному результату.  
+- Поэтому «Ralph» в статье — не человек, а способ автоматизированной разработки: бесконечный while-loop, который кормит модель промптомы, анализирует результат и запускает следующий виток.
+
+То есть это одновременно поп-культурная шутка (отсылка к герою «Симпсонов») и название описываемого автором метода работы с LLM.
+    > **Резюме:** Ralph is an autonomous AI that builds software by working in loops and focusing on one task at a time. It relies on a detailed plan called fix_plan.md and learns from its mistakes through repeated cycles. Although Ralph can create new code, users must have patience and trust in its gradual improvement process.
+- [Building a RTS where you issue orders to AI agents](https://seangoedecke.com/wargame-agents/) 👤 seangoedecke.com 💬 1231 🔖 #llm 🗓️ 2025-07-14
+    > **Резюме:** The author built a strategy game where players give text orders to AI-controlled units instead of direct control. They found it works best to let AI make high-level decisions while simpler code handles detailed actions. The game was fun and showed promise for new kinds of RTS games with AI agents.
+- [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck) 👤 Pedro Tavares 💬 462 🔖 #llm 🗓️ 2025-07-13
+    > **Резюме:** Writing code is faster than ever thanks to LLMs, but understanding and reviewing that code remains hard. The real bottleneck is teamwork, communication, and ensuring code quality. Faster coding tools don’t remove the need for careful thought and collaboration.
 - [Why we should anthropomorphize LLMs](https://seangoedecke.com/anthropomorphizing-llms/) 👤 seangoedecke.com 💬 1414 🔖 #llm 🗓️ 2025-07-10
     > **Резюме:** Large language models (LLMs) are trained to mimic human language and often show consistent "personalities" after post-training. Using human terms to describe LLMs helps people understand and interact with them more easily. Treating LLMs with empathy may also protect our own moral character, even if they lack true feelings.
 - [Mecha-Hitler, Grok, and why it's so hard to give LLMs the right personality](https://seangoedecke.com/ai-personality-space/) 👤 seangoedecke.com 💬 1243 🔖 #llm 🗓️ 2025-07-10
@@ -70,7 +87,7 @@
     > **Резюме:** В видео Юрий Ключевский показывает, как настроить Figma для автоматической верстки макетов с помощью MCP сервера и Cursor AI. Он объясняет, как создать токен доступа и подключить сервер для работы с графикой и макетами. Также он делится советами по устранению проблем, связанных с загрузкой изображений и настройкой путей для файлов.
 - [Agentic Coding Recommendations](http://lucumr.pocoo.org/2025/6/12/agentic-coding) 👤 Armin Ronacher's Thoughts and Writings 💬 2596 🔖 #llm 🗓️ 2025-06-12
     > **Резюме:** Armin Ronacher discusses the rise of agentic coding, emphasizing the importance of using simple and efficient tools for AI agents. He recommends using Go for backend projects due to its straightforward nature, which benefits agent performance. Ultimately, the goal is to improve coding productivity while maintaining high-quality and maintainable code.
-- [My GenAI workflow for building a voice assistant](https://blog.nilenso.com/blog/2025/01/30/my-genai-workflow-for-building-a-voice-assistant/) 👤 blog.nilenso.com 💬 877 🔖 #llm 🗓️ 2025-06-11
+- [My GenAI workflow for building a voice assistant](https://blog.nilenso.com/blog/2025/01/30/my-genai-workflow-for-building-a-voice-assistant/) 👤 Nilenso 💬 877 🔖 #llm 🗓️ 2025-06-11
     > **Резюме:** The author shares their experience building a Flutter app for a ChatGPT-driven voice assistant while learning app development with GenAI tools. They emphasize the importance of understanding basic concepts, setting up a project structure, and following best practices to make coding easier. The article offers tips for debugging and tracking progress using Git throughout the development process.
 - [Tiny Models, Local Throttles: Exploring My Local AI Dev Setup](https://blog.nilenso.com/blog/2025/05/06/local-llm-setup/) 👤 Nilenso 💬 1589 🔖 #llm, #inspiration 🗓️ 2025-06-11
     > **Резюме:** The author explores using small, open-source language models on their Macbook for improved daily workflows. They provide a practical guide on integrating local models with tools like Ollama, emphasizing benefits such as privacy and control. The post encourages experimentation with different models to enhance coding and productivity.

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 21
+- Всего ссылок: 22
 
 ## Ссылки
 
+- [What Doesn’t Change](https://terriblesoftware.org/2025/07/14/what-doesnt-change/) 👤 Terrible Software 💬 514 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-14
+    > **Резюме:** Technology changes fast, but core ideas like algorithms and networks stay the same. Knowing these fundamentals helps you use AI and new tools better. Focus on learning the basics deeply to understand and adapt to any future technology.
 - [How I use LLMs to learn new subjects](https://seangoedecke.com/learning-from-llms/) 👤 seangoedecke.com 💬 1923 🔖 #llm, #learning 🗓️ 2025-07-08
     > **Резюме:** Using large language models (LLMs) is a great way to learn new subjects by asking many follow-up questions like you would with a knowledgeable friend. While LLMs can sometimes make up facts, you can avoid mistakes by focusing on well-known topics and ignoring uncertain details. LLMs work best for learning basics and exploring new areas, but they are less helpful for very deep or niche knowledge.
 - [I Spent 90 Days Rebuilding My Brain. Here's What I Learned.](https://www.joanwestenberg.com/p/i-spent-90-days-rebuilding-my-brain-here-s-what-i-learned-b7844d4127c5d542) 👤 Joan Westenberg 💬 2613 🔖 #reading, #learning 🗓️ 2025-07-07
