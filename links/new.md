@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 811
+- Всего ссылок: 812
 
 ## Ссылки
 
+- [Let's Write a JSON Parser From Scratch](https://beyondthesyntax.substack.com/p/lets-write-a-json-parser-from-scratch) 👤 Sushant Dhiman 💬 1013 🔖 #diy 🗓️ 2025-07-15
 - [What Doesn’t Change](https://terriblesoftware.org/2025/07/14/what-doesnt-change/) 👤 Terrible Software 💬 514 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-14
 - [How to Make People Give a Damn](https://www.joanwestenberg.com/p/how-to-make-people-give-a-damn-92e3af37926932ef) 👤 Joan Westenberg 💬 1700 🗓️ 2025-07-14
 - [Vercel BUYING NuxtLabs - What it means for you!](https://www.youtube.com/watch?v=NiQB7QPJAiM) 👤 Alexander Lichter 🔖 #vue, #nuxt 🗓️ 2025-07-13

@@ -1,5 +1,38 @@
 [
     {
+        "id": "01k067grxww05hgrtnwg2th1km",
+        "url": "https://read.readwise.io/read/01k067grxww05hgrtnwg2th1km",
+        "source_url": "https://beyondthesyntax.substack.com/p/lets-write-a-json-parser-from-scratch",
+        "title": "Let's Write a JSON Parser From Scratch",
+        "author": "Sushant Dhiman",
+        "source": "Reader add from import URL",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "diy": {
+                "name": "DIY",
+                "type": "manual",
+                "created": 1752555884838
+            }
+        },
+        "site_name": "substack.com",
+        "word_count": 1013,
+        "notes": "",
+        "summary": "The author shares their experience of creating a JSON parser from scratch, starting with a tokenizer that breaks down JSON strings into tokens. They explain the process of parsing, which involves converting these tokens into an abstract syntax tree. The article aims to help readers understand JSON parsing in a simplified manner.",
+        "image_url": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc1e0bfd-36b5-4dc8-a131-3af489f44757_1280x720.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-05-31",
+        "created_at": "2025-07-15T05:04:33.320613+00:00",
+        "updated_at": "2025-07-15T05:04:44.941291+00:00",
+        "saved_at": "2025-07-15T05:04:33.212000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-07-15T05:04:33.212000+00:00"
+    },
+    {
         "id": "01k04fvvdwa20133812e7afnpf",
         "url": "https://read.readwise.io/read/01k04fvvdwa20133812e7afnpf",
         "source_url": "https://terriblesoftware.org/2025/07/14/what-doesnt-change/",
@@ -19898,10 +19931,10 @@
         "html_content": null,
         "published_date": "2025-04-21",
         "created_at": "2025-05-17T08:58:37.878683+00:00",
-        "updated_at": "2025-05-17T08:58:52.309659+00:00",
+        "updated_at": "2025-07-15T13:51:43.491526+00:00",
         "saved_at": "2025-05-17T08:58:37.159000+00:00",
-        "first_opened_at": "2025-05-17T08:58:37.159000+00:00",
-        "last_opened_at": "2025-05-17T08:58:37.159000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
         "last_moved_at": "2025-05-17T08:58:41.366000+00:00"
     },
     {
