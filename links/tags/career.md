@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 47
+- Всего ссылок: 48
 
 ## Ссылки
 
+- [Why Cringe Tolerance Separates Builders from Non-Builders](https://www.joanwestenberg.com/p/why-cringe-tolerance-separates-builders-from-non-builders-590c09e6f3021d4f) 👤 Joan Westenberg 💬 938 🔖 #career, #learning 🗓️ 2025-07-16
+    > **Резюме:** Building things requires the courage to share imperfect work and endure embarrassment. People who wait for perfection often never start or improve. Embracing early mistakes leads to growth, feedback, and eventual success.
 - [The more senior engineers get, the more results matter](https://seangoedecke.com/being-accountable-for-results/) 👤 seangoedecke.com 💬 651 🔖 #career 🗓️ 2025-07-08
     > **Резюме:** As engineers get more senior, they are expected to deliver successful results, not just effort. Staff engineers must handle more responsibility and be accountable for project outcomes, even if some failures are outside their control. This shift towards result-driven work is similar to the expectations placed on managers and executives.
 - [How to become passionate about delivering shareholder value](https://seangoedecke.com/shareholder-value/) 👤 seangoedecke.com 💬 1435 🔖 #career 🗓️ 2025-07-05

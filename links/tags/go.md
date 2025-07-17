@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 211
+- Всего ссылок: 212
 
 ## Ссылки
 
+- [You don't need testify/assert](https://antonz.org/do-not-testify/) 👤 Anton Zhiyanov 💬 1706 🔖 #go, #testing 🗓️ 2025-07-16
+    > **Резюме:** The author shows how to write simple custom assertion helpers to replace testify/assert in Go tests. These helpers cover equality, error checking, and boolean conditions with minimal code. This approach keeps tests clean without relying on many assertion functions.
 - [(Don't) Leave No Trace • The Applied Go Weekly Newsletter 2025-07-06](https://newsletter.appliedgo.net/archive/2025-07-06-dont-leave-no-trace/) 👤 appliedgo.net 💬 1746 🔖 #go 🗓️ 2025-07-07
     > **Резюме:** Go 1.25 introduces FlightRecorder, a new tool that records recent trace data in a sliding window to capture meaningful events without filling disk space. It lets developers start, stop, and save trace snapshots programmatically or on events like signals. This feature helps analyze application behavior efficiently by focusing only on important moments.
 - [Concurrency Patterns in Go: errgroup](mailto:reader-forwarded-email/e17e336182935f8e158a227da7b09694) 👤 Jon Calhoun 💬 751 🔖 #go 🗓️ 2025-07-04

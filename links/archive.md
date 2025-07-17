@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 824
+- Всего ссылок: 826
 
 ## Ссылки
 
+- [Why Cringe Tolerance Separates Builders from Non-Builders](https://www.joanwestenberg.com/p/why-cringe-tolerance-separates-builders-from-non-builders-590c09e6f3021d4f) 👤 Joan Westenberg 💬 938 🔖 #career, #learning 🗓️ 2025-07-16
+- [What Doesn’t Change](https://terriblesoftware.org/2025/07/14/what-doesnt-change/) 👤 Terrible Software 💬 514 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-14
 - [LLMs, Vibe-Coding, and Where I Draw the Line](https://ordep.dev/posts/llms) 👤 Pedro Tavares 💬 605 🔖 #llm 🗓️ 2025-07-14
 - [Ralph Wiggum as a "software engineer"](https://ghuntley.com/ralph/) 👤 Geoffrey Huntley 💬 4133 🔖 #llm 🗓️ 2025-07-14
     > **Заметка:** Ralph Wiggum — это имя наивного, постоянно ошибающегося мальчика из «Симпсонов». Автор нарочно «нанял» именно его в роли «инженера», чтобы подчеркнуть характер своей техники:

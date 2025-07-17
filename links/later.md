@@ -1,9 +1,17 @@
 # Отложенные ссылки
 
-- Всего ссылок: 42
+- Всего ссылок: 45
 
 ## Ссылки
 
+- [Let's Write a JSON Parser From Scratch](https://beyondthesyntax.substack.com/p/lets-write-a-json-parser-from-scratch) 👤 Sushant Dhiman 💬 1013 🔖 #diy 🗓️ 2025-07-15
+    > **Резюме:** The author shares their experience of creating a JSON parser from scratch, starting with a tokenizer that breaks down JSON strings into tokens. They explain the process of parsing, which involves converting these tokens into an abstract syntax tree. The article aims to help readers understand JSON parsing in a simplified manner.
+- [How to Make People Give a Damn](https://www.joanwestenberg.com/p/how-to-make-people-give-a-damn-92e3af37926932ef) 👤 Joan Westenberg 💬 1700 🗓️ 2025-07-14
+    > **Резюме:** Joan Westenberg believes making people care starts with honesty and urgency, not tricks or viral tactics. True connection comes from risk, sincerity, and caring deeply about something that matters. She aims to build a space for real ideas and meaningful conversations beyond shallow attention.
+- [being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form) 👤 Maalvika 💬 2656 🗓️ 2025-07-13
+    > **Резюме:** Being too ambitious makes us avoid doing because we fear failure and want everything perfect from the start. True creativity grows by making many imperfect attempts and learning from them. Success comes from showing up and improving steadily, not from imagining flawless results.
+- [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale) 👤 recall.ai 💬 1809 🔖 #postgresql 🗓️ 2025-07-11
+    > **Резюме:** Postgres LISTEN/NOTIFY causes a global lock during transaction commits, which blocks other transactions. This lock creates serious performance problems under heavy write loads. Removing or avoiding NOTIFY helped the database run smoothly again.
 - [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/) 👤 jakelazaroff.com 💬 2530 🗓️ 2025-07-09
     > **Резюме:** Waypoint is a local-first web app designed for trip planning that allows users to quickly jot down notes and visualize routes on a map. It uses a rich text editor and stores data on the client's device, making it easy to organize and share travel plans. Built with existing technologies like SvelteKit and Yjs, Waypoint emphasizes offline functionality and real-time collaboration.
 - [I Shipped a macOS App Built Entirely by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code) 👤 indragie.com 💬 3462 🔖 #llm 🗓️ 2025-07-07
@@ -16,8 +24,6 @@
     > **Резюме:** The author loves coding and building projects, even as AI tools get better at writing code. Using AI as a partner can make coding more fun and help tackle bigger projects. Learning to work with these tools is a valuable skill that can keep the joy of programming alive.
 - [More Features of Vue's VS Code Extension](https://www.youtube.com/watch?v=RcPcO4_Ct_U) 👤 Alexander Lichter 🔖 #vue 🗓️ 2025-07-03
     > **Резюме:** The Vue VS Code extension helps you add components easily and shows helpful hints about missing properties. It also supports reactive props and auto-adds ".value" for refs, saving time. Premium features include visualizing reactivity, focus mode, and highlighting template changes to improve coding clarity.
-- [Finding Purpose Through Exhaustion: Why I Keep Writing (and Coding)](https://smsk.dev/2025/07/01/finding-purpose-through-exhaustion-why-i-keep-writing-and-coding/) 👤 devsimsek 💬 666 🗓️ 2025-07-01
-    > **Резюме:** The author feels very tired but keeps writing and coding because stopping feels worse. Writing helps them process stress and stay connected to their passion. They encourage others to find small reasons to keep going during hard times.
 - [How to Build a Custom MCP Server with TypeScript – A Handbook for Developers](https://www.freecodecamp.org/news/how-to-build-a-custom-mcp-server-with-typescript-a-handbook-for-developers/) 👤 sumit.analyzen 💬 6832 🔖 #mcp, #try 🗓️ 2025-06-26
     > **Резюме:** MCP (Model Context Protocol) allows developers to connect their code and data to AI applications like Claude and Cursor in a structured way. By building an MCP server, developers can provide real-time context, enabling AI to fetch relevant information and respond accurately. This setup is essential for applications that require up-to-date data, such as chatbots and dashboards.
 - [Mind Management, Not Time Management](private://read/01jy2bx4yjy7cc3fb6cs5zy8ma) 👤 David Kadavy 💬 69903 🗓️ 2025-06-18
