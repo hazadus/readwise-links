@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 144
+- Всего ссылок: 145
 
 ## Ссылки
 
+- [Using personal instructions in GitHub Copilot Chat](https://cassidoo.co/post/gh-copilot-instructions/) 👤 cassidoo.co 💬 255 🔖 #llm 🗓️ 2025-07-18
+    > **Резюме:** GitHub Copilot Chat lets you add personal instructions to customize how it responds. The author uses friendly, clear prompts to get helpful programming answers with code samples. You can add your own instructions by visiting github.com/copilot and using the menu.
 - [What Doesn’t Change](https://terriblesoftware.org/2025/07/14/what-doesnt-change/) 👤 Terrible Software 💬 514 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-14
     > **Резюме:** Technology changes fast, but core ideas like algorithms and networks stay the same. Knowing these fundamentals helps you use AI and new tools better. Focus on learning the basics deeply to understand and adapt to any future technology.
 - [LLMs, Vibe-Coding, and Where I Draw the Line](https://ordep.dev/posts/llms) 👤 Pedro Tavares 💬 605 🔖 #llm 🗓️ 2025-07-14

@@ -1,9 +1,14 @@
 # Новые ссылки
 
-- Всего ссылок: 808
+- Всего ссылок: 813
 
 ## Ссылки
 
+- [Why Most Feedback Shouldn’t Exist](https://terriblesoftware.org/2025/07/18/why-most-feedback-shouldnt-exist/) 👤 Terrible Software 💬 488 🗓️ 2025-07-18
+- [Scraping and vibe coding a schedule app for Open Sauce 2025 entirely on my phone](https://simonwillison.net/2025/Jul/17/vibe-scraping/#atom-everything) 👤 Simon Willison 💬 1789 🗓️ 2025-07-18
+- [Using personal instructions in GitHub Copilot Chat](https://cassidoo.co/post/gh-copilot-instructions/) 👤 cassidoo.co 💬 255 🔖 #llm 🗓️ 2025-07-18
+- [Vercel Acquires NuxtLabs: What This Means for the Future of Nuxt](https://mokkapps.de/blog/vercel-acquires-nuxtlabs) 👤 Michael Hoffmann 💬 1237 🔖 #nuxt 🗓️ 2025-07-18
+- [Developing a Real-time Dashboard with FastAPI, Postgres, and WebSockets](https://testdriven.io/blog/fastapi-postgres-websockets/) 👤 testdriven.io 💬 3838 🔖 #fastapi, #websocket, #postgresql 🗓️ 2025-07-18
 - [You don't need testify/assert](https://antonz.org/do-not-testify/) 👤 Anton Zhiyanov 💬 1706 🔖 #go, #testing 🗓️ 2025-07-16
 - [Vercel BUYING NuxtLabs - What it means for you!](https://www.youtube.com/watch?v=NiQB7QPJAiM) 👤 Alexander Lichter 🔖 #vue, #nuxt 🗓️ 2025-07-13
 - [Don't Mess With My Site! • The Applied Go Weekly Newsletter 2025-07-13](https://newsletter.appliedgo.net/archive/2025-07-13-dont-mess-with-my-site/) 👤 appliedgo.net 💬 1289 🗓️ 2025-07-13

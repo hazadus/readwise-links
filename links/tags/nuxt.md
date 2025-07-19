@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 38
+- Всего ссылок: 39
 
 ## Ссылки
 
+- [Vercel Acquires NuxtLabs: What This Means for the Future of Nuxt](https://mokkapps.de/blog/vercel-acquires-nuxtlabs) 👤 Michael Hoffmann 💬 1237 🔖 #nuxt 🗓️ 2025-07-18
+    > **Резюме:** Vercel has acquired NuxtLabs, which will help make the Nuxt framework better and faster. Many Nuxt tools will become free and open-source, giving developers more freedom and control. The community is hopeful, but wants to keep Nuxt independent and flexible under Vercel’s support.
 - [Vercel BUYING NuxtLabs - What it means for you!](https://www.youtube.com/watch?v=NiQB7QPJAiM) 👤 Alexander Lichter 🔖 #vue, #nuxt 🗓️ 2025-07-13
     > **Резюме:** This week's acquisition of NuxtLabs was a suprise for most of us - but what does it mean for Nuxt as a framework, for the community and for YOU?!
 

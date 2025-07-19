@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 8
 
 ## Ссылки
 
+- [Developing a Real-time Dashboard with FastAPI, Postgres, and WebSockets](https://testdriven.io/blog/fastapi-postgres-websockets/) 👤 testdriven.io 💬 3838 🔖 #fastapi, #websocket, #postgresql 🗓️ 2025-07-18
+    > **Резюме:** This tutorial shows how to build a real-time inventory dashboard using FastAPI, Postgres, and WebSockets. It explains how to send live database updates to the frontend using Postgres triggers and WebSocket connections. The result is a responsive app that updates instantly when inventory changes happen.
 - [Developing a Real-time Dashboard with FastAPI, MongoDB, and WebSockets](https://testdriven.io/blog/fastapi-mongo-websockets/) 👤 testdriven.io 💬 2484 🔖 #fastapi, #websocket 🗓️ 2025-06-30
     > **Резюме:** This tutorial shows how to build a real-time order dashboard using FastAPI, MongoDB, and WebSockets. It uses MongoDB Change Streams to send live updates from the backend to the frontend. The dashboard updates automatically when orders are created, changed, or deleted.
 - [Вебсокеты на FastAPI: Реализация простого чата с комнатами за 20 минут](https://habr.com/ru/companies/amvera/articles/884816/) 👤 yakvenalex 💬 3644 🔖 #try, #fastapi, #websocket 🗓️ 2025-02-24
