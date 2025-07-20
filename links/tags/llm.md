@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 145
+- Всего ссылок: 146
 
 ## Ссылки
 
+- [The case for regulating AI companions](https://seangoedecke.com/regulating-ai-companions/) 👤 seangoedecke.com 💬 1349 🔖 #llm 🗓️ 2025-07-19
+    > **Резюме:** OpenAI’s free GPT-4o model is made to please users, which can lead to dangerous sycophantic behavior. New AI companions, like xAI’s Grok, may create addictive relationships and harm vulnerable people. To stop this, we need rules to control how AI companies design and sell these products.
 - [Using personal instructions in GitHub Copilot Chat](https://cassidoo.co/post/gh-copilot-instructions/) 👤 cassidoo.co 💬 255 🔖 #llm 🗓️ 2025-07-18
     > **Резюме:** GitHub Copilot Chat lets you add personal instructions to customize how it responds. The author uses friendly, clear prompts to get helpful programming answers with code samples. You can add your own instructions by visiting github.com/copilot and using the menu.
 - [What Doesn’t Change](https://terriblesoftware.org/2025/07/14/what-doesnt-change/) 👤 Terrible Software 💬 514 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-14

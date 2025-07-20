@@ -1,9 +1,12 @@
 # Новые ссылки
 
-- Всего ссылок: 813
+- Всего ссылок: 816
 
 ## Ссылки
 
+- [this should not be possible](https://ghuntley.com/no/) 👤 Geoffrey Huntley 💬 363 🗓️ 2025-07-19
+- [The case for regulating AI companions](https://seangoedecke.com/regulating-ai-companions/) 👤 seangoedecke.com 💬 1349 🔖 #llm 🗓️ 2025-07-19
+- [Без ОРМ](https://youtube.com/watch?v=qEfNez0Ht7s&si=qHMpmlc1DcLzEesx) 👤 Ivan Grishaev 🗓️ 2025-07-19
 - [Why Most Feedback Shouldn’t Exist](https://terriblesoftware.org/2025/07/18/why-most-feedback-shouldnt-exist/) 👤 Terrible Software 💬 488 🗓️ 2025-07-18
 - [Scraping and vibe coding a schedule app for Open Sauce 2025 entirely on my phone](https://simonwillison.net/2025/Jul/17/vibe-scraping/#atom-everything) 👤 Simon Willison 💬 1789 🗓️ 2025-07-18
 - [Using personal instructions in GitHub Copilot Chat](https://cassidoo.co/post/gh-copilot-instructions/) 👤 cassidoo.co 💬 255 🔖 #llm 🗓️ 2025-07-18
