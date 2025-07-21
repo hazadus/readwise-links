@@ -1,9 +1,20 @@
 # Новые ссылки
 
-- Всего ссылок: 816
+- Всего ссылок: 827
 
 ## Ссылки
 
+- [NIH Is Far Cheaper Than The Wrong Dependency](https://lewiscampbell.tech/blog/250718.html?utm_source=substack&utm_medium=email) 👤 lewiscampbell.tech 💬 433 🗓️ 2025-07-20
+- [Anthropic tightens usage limits for Claude Code — without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/?utm_source=substack&utm_medium=email) 👤 Russell Brandom 💬 1419 🗓️ 2025-07-20
+- [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm 🗓️ 2025-07-20
+- [How I Use Claude Code to Ship Like a Team of Five](https://every.to/source-code/how-i-use-claude-code-to-ship-like-a-team-of-five?utm_source=substack&utm_medium=email) 👤 Kieran Klaassen 💬 3400 🔖 #llm 🗓️ 2025-07-20
+- [MacPaint Art From The Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html) 👤 https://decryption.net.au 💬 266 🗓️ 2025-07-20
+- [Useful Not True](private://read/01k0mry4zm9x1znxwz7rxpgn33) 👤 Derek Sivers 💬 22661 🗓️ 2025-07-20
+- [Reflections on OpenAI](https://calv.info/openai-reflections) 👤 calv.info 💬 3855 🗓️ 2025-07-20
+- [Coding with LLMs in the summer of 2025 (an update)](http://antirez.com/news/154) 👤 antirez.com 💬 1292 🔖 #llm 🗓️ 2025-07-20
+- [Welcoming The Next Generation of Programmers](https://lucumr.pocoo.org/2025/7/20/the-next-generation/) 👤 Armin Ronacher 💬 757 🗓️ 2025-07-20
+- [New And Improved Formula! • The Applied Go Weekly Newsletter 2025-07-20](https://newsletter.appliedgo.net/archive/2025-07-20-jsonv2-new-and-improved-formula/) 👤 The Applied Go Weekly Newsletter 💬 1836 🔖 #go 🗓️ 2025-07-20
+- [Moving from an orchestration-heavy to leadership-heavy management role.](https://lethain.com/orchestration-heavy-leadership-heavy/) 👤 lethain.com 💬 1250 🗓️ 2025-07-20
 - [this should not be possible](https://ghuntley.com/no/) 👤 Geoffrey Huntley 💬 363 🗓️ 2025-07-19
 - [The case for regulating AI companions](https://seangoedecke.com/regulating-ai-companions/) 👤 seangoedecke.com 💬 1349 🔖 #llm 🗓️ 2025-07-19
 - [Без ОРМ](https://youtube.com/watch?v=qEfNez0Ht7s&si=qHMpmlc1DcLzEesx) 👤 Ivan Grishaev 🗓️ 2025-07-19
@@ -247,7 +258,7 @@ https://fosstodon.org/@adamchainz/113863413612434249
 - [Programming Elixir 1.6](https://readwise.io/reader/document_raw_content/28841812) 👤 Dave Thomas 💬 85727 🔖 #book, #elixir 🗓️ 2025-01-08
 - [Elixir in Action, Third Edition](https://readwise.io/reader/document_raw_content/202067289) 👤 Sasa Juric 💬 116155 🔖 #book, #elixir 🗓️ 2025-01-08
 - [Гид по Computer Science](https://readwise.io/reader/document_raw_content/257815230) 👤 Вильям Спрингер 💬 43672 🔖 #book 🗓️ 2025-01-08
-- [Keep Going: Chapter 1](private://read/01jh0f4vvm28xm7zzfvca7pz9d) 👤 Austin Kleon 💬 3273 🗓️ 2025-01-07
+- [Keep Going: Chapter 1](private://read/01jh0f4vvm28xm7zzfvca7pz9d) 👤 Austin Kleon 💬 3342 🗓️ 2025-01-07
 - [Nuxt Tip: Parallel Fetch Requests](https://mokkapps.de/vue-tips/nuxt-parallel-fetch-requests) 👤 Michael Hoffmann 💬 302 🔖 #nuxt 🗓️ 2025-01-07
 - [Dev контейнеры и с чем их едят](https://habr.com/ru/articles/814071/) 👤 TourmalineCore 💬 1830 🗓️ 2025-01-07
 - [Server-Sent Events vs WebSockets – How to Choose a Real-Time Data Exchange Protocol](https://www.freecodecamp.org/news/server-sent-events-vs-websockets/) 👤 freeCodeCamp.org 💬 5470 🔖 #sse, #websocket 🗓️ 2025-01-06

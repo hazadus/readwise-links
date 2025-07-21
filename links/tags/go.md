@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 212
+- Всего ссылок: 213
 
 ## Ссылки
 
+- [New And Improved Formula! • The Applied Go Weekly Newsletter 2025-07-20](https://newsletter.appliedgo.net/archive/2025-07-20-jsonv2-new-and-improved-formula/) 👤 The Applied Go Weekly Newsletter 💬 1836 🔖 #go 🗓️ 2025-07-20
+    > **Резюме:** Go 1.25 introduces a new experimental json/v2 package with stricter rules and better handling of JSON data. The update aims to fix problems from the old json package by adding clearer defaults and new functions. Developers can migrate gradually using legacy options to keep their code working smoothly.
 - [You don't need testify/assert](https://antonz.org/do-not-testify/) 👤 Anton Zhiyanov 💬 1706 🔖 #go, #testing 🗓️ 2025-07-16
     > **Резюме:** The author shows how to write simple custom assertion helpers to replace testify/assert in Go tests. These helpers cover equality, error checking, and boolean conditions with minimal code. This approach keeps tests clean without relying on many assertion functions.
 - [(Don't) Leave No Trace • The Applied Go Weekly Newsletter 2025-07-06](https://newsletter.appliedgo.net/archive/2025-07-06-dont-leave-no-trace/) 👤 appliedgo.net 💬 1746 🔖 #go 🗓️ 2025-07-07
