@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 30
+- Всего ссылок: 31
 
 ## Ссылки
 
+- [Why Most Feedback Shouldn’t Exist](https://terriblesoftware.org/2025/07/18/why-most-feedback-shouldnt-exist/) 👤 Terrible Software 💬 488 🔖 #management 🗓️ 2025-07-18
+    > **Резюме:** Only give feedback when someone's actions harm work or the team. Personal preferences or discomfort with differences are not reasons for feedback. Focus on impact, not forcing everyone to act the same.
 - [I don't care if my manager writes code](https://seangoedecke.com/technical-engineering-managers/) 👤 seangoedecke.com 💬 1246 🔖 #management 🗓️ 2025-06-27
     > **Резюме:** Engineering managers have many important tasks that require full attention, so they should not be expected to write code regularly. Writing code is hard and needs focus, which conflicts with management duties. When managers do coding poorly, it can harm team dynamics and careers because of their power in the company.
 - [Why Engineers Hate Their Managers (And What to Do About It)](https://terriblesoftware.org/2025/06/24/why-engineers-hate-their-managers-and-what-to-do-about-it/) 👤 Terrible Software 💬 1163 🔖 #management 🗓️ 2025-06-25

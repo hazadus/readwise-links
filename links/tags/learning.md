@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 23
+- Всего ссылок: 24
 
 ## Ссылки
 
@@ -12,6 +12,8 @@
     > **Резюме:** Using large language models (LLMs) is a great way to learn new subjects by asking many follow-up questions like you would with a knowledgeable friend. While LLMs can sometimes make up facts, you can avoid mistakes by focusing on well-known topics and ignoring uncertain details. LLMs work best for learning basics and exploring new areas, but they are less helpful for very deep or niche knowledge.
 - [I Spent 90 Days Rebuilding My Brain. Here's What I Learned.](https://www.joanwestenberg.com/p/i-spent-90-days-rebuilding-my-brain-here-s-what-i-learned-b7844d4127c5d542) 👤 Joan Westenberg 💬 2613 🔖 #reading, #learning 🗓️ 2025-07-07
     > **Резюме:** The author spent 90 days practicing deep thinking by reading, writing by hand, and avoiding distractions like phones and AI tools. This helped her regain focus, understand complex ideas, and discover her own original thoughts. She encourages others to try this to improve attention and creativity in a distracted world.
+- [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/#tools-vs-identity) 👤 Adam Gordon Bell 💬 8453 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-03
+    > **Резюме:** The author loves coding and building projects, even as AI tools get better at writing code. Using AI as a partner can make coding more fun and help tackle bigger projects. Learning to work with these tools is a valuable skill that can keep the joy of programming alive.
 - [No Time To Learn (Web) Framework X](https://brainbaking.com/post/2025/06/no-time-to-learn-web-framework-x/) 👤 Brain Baking 💬 1037 🔖 #learning 🗓️ 2025-06-27
     > **Резюме:** Keith Cirkel questions if learning web frameworks like React is worth the time, given their frequent changes and limited transferability. Instead, he suggests focusing on fundamental, transferable skills like JavaScript, specs, and open source contributions. React remains popular because it is stable, widely used, and has a large community, but many frameworks become obsolete quickly.
 - [Cognitive Offshoring and the Decline of Personal Thought](https://www.joanwestenberg.com/p/cognitive-offshoring-and-the-decline-of-personal-thought-26c6d43ac5089a9a) 👤 Joan Westenberg 💬 1238 🔖 #llm, #learning 🗓️ 2025-06-23

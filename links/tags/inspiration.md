@@ -1,13 +1,18 @@
 # Ссылки
 
-- Всего ссылок: 84
+- Всего ссылок: 86
 
 ## Ссылки
 
+- [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration 🗓️ 2025-07-20
+    > **Заметка:** Отличная подборка источников. На некоторые был подписан. На несколько подписался. 
+    > **Резюме:** Generative AI is evolving fast but often misunderstood, causing mistakes and risks. To stay informed, follow official AI labs and trusted experts who share clear, accurate insights. Using curated sources like Twitter feeds and newsletters makes learning about AI easier and more enjoyable.
 - [What Doesn’t Change](https://terriblesoftware.org/2025/07/14/what-doesnt-change/) 👤 Terrible Software 💬 514 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-14
     > **Резюме:** Technology changes fast, but core ideas like algorithms and networks stay the same. Knowing these fundamentals helps you use AI and new tools better. Focus on learning the basics deeply to understand and adapt to any future technology.
 - [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
     > **Резюме:** Building small AI tools can save developers time on repetitive tasks like writing reports or summarizing updates. These tools are simple to create and help teams work more efficiently, even if they aren’t big money-makers. Over time, more engineers will build such AI helpers, making many common jobs easier and faster.
+- [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/#tools-vs-identity) 👤 Adam Gordon Bell 💬 8453 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-03
+    > **Резюме:** The author loves coding and building projects, even as AI tools get better at writing code. Using AI as a partner can make coding more fun and help tackle bigger projects. Learning to work with these tools is a valuable skill that can keep the joy of programming alive.
 - [Agentic Coding: The Future of Software Development with Agents](https://m.youtube.com/watch?v=nfOVgz_omlU) 👤 Armin Ronacher 🔖 #llm, #inspiration 🗓️ 2025-06-30
     > **Резюме:** Agentic coding uses intelligent tools to help with programming tasks. These tools can understand and interact with code, making development faster and easier. However, users must guide them carefully to avoid mistakes and get the best results.
 - [Continuous AI](https://simonwillison.net/2025/Jun/27/continuous-ai/#atom-everything) 👤 Simon Willison 💬 255 🔖 #llm, #inspiration 🗓️ 2025-06-28

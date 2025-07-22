@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [The Business Case for Vanilla JS](https://lewiscampbell.tech/blog/250430.html) 👤 lewiscampbell.tech 💬 742 🔖 #javascript 🗓️ 2025-07-21
+    > **Резюме:** The author prefers using Vanilla JS over modern frameworks like React for web development because it is simpler and easier to maintain. They found that browser APIs are stable and well-documented, making development straightforward without complex tools. The author argues that frameworks add unnecessary complexity and that directly scripting the web platform is a more practical choice.
 - [JavaScript, what is this?](https://piccalil.li/blog/javascript-what-is-this/?ref=main-rss-feed) 👤 Mat “Wilto” Marquis 💬 3410 🔖 #javascript 🗓️ 2025-05-10
     > **Резюме:** In JavaScript, the keyword "this" refers to the object that is currently executing the function, which is often the global object (window) unless specified otherwise. In strict mode, "this" can be undefined, making the behavior more predictable. Arrow functions have a different behavior, as "this" refers to the surrounding lexical context instead of the function's execution context.
 - [JavaScript, when is this?](https://piccalil.li/blog/javascript-when-is-this/?ref=main-rss-feed) 👤 Piccalilli 💬 1770 🔖 #javascript 🗓️ 2025-05-02

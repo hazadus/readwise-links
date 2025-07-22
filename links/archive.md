@@ -1,9 +1,16 @@
 # Архивные ссылки
 
-- Всего ссылок: 826
+- Всего ссылок: 834
 
 ## Ссылки
 
+- [NIH Is Far Cheaper Than The Wrong Dependency](https://lewiscampbell.tech/blog/250718.html?utm_source=substack&utm_medium=email) 👤 lewiscampbell.tech 💬 433 🗓️ 2025-07-20
+- [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration 🗓️ 2025-07-20
+    > **Заметка:** Отличная подборка источников. На некоторые был подписан. На несколько подписался. 
+- [Coding with LLMs in the summer of 2025 (an update)](http://antirez.com/news/154) 👤 antirez.com 💬 1292 🔖 #llm 🗓️ 2025-07-20
+- [Welcoming The Next Generation of Programmers](https://lucumr.pocoo.org/2025/7/20/the-next-generation/) 👤 Armin Ronacher 💬 757 🔖 #llm, #python 🗓️ 2025-07-20
+- [Без ОРМ](https://youtube.com/watch?v=qEfNez0Ht7s&si=qHMpmlc1DcLzEesx) 👤 Ivan Grishaev 🗓️ 2025-07-19
+- [Why Most Feedback Shouldn’t Exist](https://terriblesoftware.org/2025/07/18/why-most-feedback-shouldnt-exist/) 👤 Terrible Software 💬 488 🔖 #management 🗓️ 2025-07-18
 - [Why Cringe Tolerance Separates Builders from Non-Builders](https://www.joanwestenberg.com/p/why-cringe-tolerance-separates-builders-from-non-builders-590c09e6f3021d4f) 👤 Joan Westenberg 💬 938 🔖 #career, #learning 🗓️ 2025-07-16
 - [What Doesn’t Change](https://terriblesoftware.org/2025/07/14/what-doesnt-change/) 👤 Terrible Software 💬 514 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-14
 - [LLMs, Vibe-Coding, and Where I Draw the Line](https://ordep.dev/posts/llms) 👤 Pedro Tavares 💬 605 🔖 #llm 🗓️ 2025-07-14
@@ -19,6 +26,7 @@
 - [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck) 👤 Pedro Tavares 💬 462 🔖 #llm 🗓️ 2025-07-13
 - [Why we should anthropomorphize LLMs](https://seangoedecke.com/anthropomorphizing-llms/) 👤 seangoedecke.com 💬 1414 🔖 #llm 🗓️ 2025-07-10
 - [Mecha-Hitler, Grok, and why it's so hard to give LLMs the right personality](https://seangoedecke.com/ai-personality-space/) 👤 seangoedecke.com 💬 1243 🔖 #llm 🗓️ 2025-07-10
+- [Git Notes: git's coolest, most unloved feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/) 👤 Tyler Cipriani 💬 717 🔖 #git 🗓️ 2025-07-09
 - [The more senior engineers get, the more results matter](https://seangoedecke.com/being-accountable-for-results/) 👤 seangoedecke.com 💬 651 🔖 #career 🗓️ 2025-07-08
 - [How I use LLMs to learn new subjects](https://seangoedecke.com/learning-from-llms/) 👤 seangoedecke.com 💬 1923 🔖 #llm, #learning 🗓️ 2025-07-08
 - [Why a Maximum Viable Promise Beats an MVP](https://www.joanwestenberg.com/p/why-a-maximum-viable-promise-beats-an-mvp) 👤 Joan Westenberg 💬 1575 🗓️ 2025-07-08
@@ -29,6 +37,7 @@
 - [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
 - [Identify, solve, verify](https://simonwillison.net/2025/Jul/4/identify-solve-verify/#atom-everything) 👤 Simon Willison 💬 178 🔖 #llm 🗓️ 2025-07-05
 - [The Unbearable Lightness of Cringe](mailto:reader-forwarded-email/a6dac3498a092d9e0831a96c395f8972) 👤 Joan Westenberg 💬 1115 🗓️ 2025-07-04
+- [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/#tools-vs-identity) 👤 Adam Gordon Bell 💬 8453 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-03
 - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/) 👤 Armin Ronacher's Thoughts and Writings 💬 2144 🔖 #llm, #mcp 🗓️ 2025-07-03
 - [What happens when engineers work more than one job](https://seangoedecke.com/overemployment/) 👤 seangoedecke.com 💬 890 🔖 #career 🗓️ 2025-07-03
 - [Claude Sonnet is a small-brained mechanical squirrel of <T>](https://ghuntley.com/cars/) 👤 Geoffrey Huntley 💬 1044 🔖 #llm 🗓️ 2025-07-03

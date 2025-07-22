@@ -1,34 +1,21 @@
 # Новые ссылки
 
-- Всего ссылок: 827
+- Всего ссылок: 814
 
 ## Ссылки
 
-- [NIH Is Far Cheaper Than The Wrong Dependency](https://lewiscampbell.tech/blog/250718.html?utm_source=substack&utm_medium=email) 👤 lewiscampbell.tech 💬 433 🗓️ 2025-07-20
-- [Anthropic tightens usage limits for Claude Code — without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/?utm_source=substack&utm_medium=email) 👤 Russell Brandom 💬 1419 🗓️ 2025-07-20
-- [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm 🗓️ 2025-07-20
-- [How I Use Claude Code to Ship Like a Team of Five](https://every.to/source-code/how-i-use-claude-code-to-ship-like-a-team-of-five?utm_source=substack&utm_medium=email) 👤 Kieran Klaassen 💬 3400 🔖 #llm 🗓️ 2025-07-20
-- [MacPaint Art From The Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html) 👤 https://decryption.net.au 💬 266 🗓️ 2025-07-20
+- [The Business Case for Vanilla JS](https://lewiscampbell.tech/blog/250430.html) 👤 lewiscampbell.tech 💬 742 🔖 #javascript 🗓️ 2025-07-21
+- [AI Phobia Is Just Fear That ‘Easier’ Equals ‘Cheating’](mailto:reader-forwarded-email/512362633ed328adeb7f2aafbe74f4bc) 👤 Every 💬 1942 🗓️ 2025-07-21
+- [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/?from=newsletter) 👤 Josh W. Comeau 💬 3091 🗓️ 2025-07-21
+- [Gist of Go: Signaling](https://antonz.org/go-concurrency/signaling/) 👤 Anton Zhiyanov 💬 3912 🔖 #go 🗓️ 2025-07-21
 - [Useful Not True](private://read/01k0mry4zm9x1znxwz7rxpgn33) 👤 Derek Sivers 💬 22661 🗓️ 2025-07-20
-- [Reflections on OpenAI](https://calv.info/openai-reflections) 👤 calv.info 💬 3855 🗓️ 2025-07-20
-- [Coding with LLMs in the summer of 2025 (an update)](http://antirez.com/news/154) 👤 antirez.com 💬 1292 🔖 #llm 🗓️ 2025-07-20
-- [Welcoming The Next Generation of Programmers](https://lucumr.pocoo.org/2025/7/20/the-next-generation/) 👤 Armin Ronacher 💬 757 🗓️ 2025-07-20
 - [New And Improved Formula! • The Applied Go Weekly Newsletter 2025-07-20](https://newsletter.appliedgo.net/archive/2025-07-20-jsonv2-new-and-improved-formula/) 👤 The Applied Go Weekly Newsletter 💬 1836 🔖 #go 🗓️ 2025-07-20
-- [Moving from an orchestration-heavy to leadership-heavy management role.](https://lethain.com/orchestration-heavy-leadership-heavy/) 👤 lethain.com 💬 1250 🗓️ 2025-07-20
-- [this should not be possible](https://ghuntley.com/no/) 👤 Geoffrey Huntley 💬 363 🗓️ 2025-07-19
-- [The case for regulating AI companions](https://seangoedecke.com/regulating-ai-companions/) 👤 seangoedecke.com 💬 1349 🔖 #llm 🗓️ 2025-07-19
-- [Без ОРМ](https://youtube.com/watch?v=qEfNez0Ht7s&si=qHMpmlc1DcLzEesx) 👤 Ivan Grishaev 🗓️ 2025-07-19
-- [Why Most Feedback Shouldn’t Exist](https://terriblesoftware.org/2025/07/18/why-most-feedback-shouldnt-exist/) 👤 Terrible Software 💬 488 🗓️ 2025-07-18
-- [Scraping and vibe coding a schedule app for Open Sauce 2025 entirely on my phone](https://simonwillison.net/2025/Jul/17/vibe-scraping/#atom-everything) 👤 Simon Willison 💬 1789 🗓️ 2025-07-18
-- [Using personal instructions in GitHub Copilot Chat](https://cassidoo.co/post/gh-copilot-instructions/) 👤 cassidoo.co 💬 255 🔖 #llm 🗓️ 2025-07-18
-- [Vercel Acquires NuxtLabs: What This Means for the Future of Nuxt](https://mokkapps.de/blog/vercel-acquires-nuxtlabs) 👤 Michael Hoffmann 💬 1237 🔖 #nuxt 🗓️ 2025-07-18
-- [Developing a Real-time Dashboard with FastAPI, Postgres, and WebSockets](https://testdriven.io/blog/fastapi-postgres-websockets/) 👤 testdriven.io 💬 3838 🔖 #fastapi, #websocket, #postgresql 🗓️ 2025-07-18
+- [Developing a Real-time Dashboard with FastAPI, Postgres, and WebSockets](https://testdriven.io/blog/fastapi-postgres-websockets/) 👤 testdriven.io 💬 3838 🔖 #try, #fastapi, #websocket, #postgresql 🗓️ 2025-07-18
 - [You don't need testify/assert](https://antonz.org/do-not-testify/) 👤 Anton Zhiyanov 💬 1706 🔖 #go, #testing 🗓️ 2025-07-16
 - [Vercel BUYING NuxtLabs - What it means for you!](https://www.youtube.com/watch?v=NiQB7QPJAiM) 👤 Alexander Lichter 🔖 #vue, #nuxt 🗓️ 2025-07-13
 - [Don't Mess With My Site! • The Applied Go Weekly Newsletter 2025-07-13](https://newsletter.appliedgo.net/archive/2025-07-13-dont-mess-with-my-site/) 👤 appliedgo.net 💬 1289 🗓️ 2025-07-13
 - [Death Stranding 2: Кодзиме пора потрогать траву](https://disgustingmen.com/games/death-stranding-2-on-the-beach-review/) 👤 Денис Майоров 💬 1805 🗓️ 2025-07-11
 - [Concurrency Patterns in Go: Collecting Ordered Results](mailto:reader-forwarded-email/45e569d87e61df96dbcc83bdec2b50b1) 👤 Jon Calhoun 💬 925 🗓️ 2025-07-09
-- [Git Notes: git's coolest, most unloved feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/) 👤 Tyler Cipriani 💬 717 🔖 #git 🗓️ 2025-07-09
 - [uv: Making Python Local Workflows FAST and BORING in 2025](https://www.youtube.com/watch?v=TiBIjouDGuI) 👤 Hynek Schlawack 🔖 #uv 🗓️ 2025-07-07
 - [(Don't) Leave No Trace • The Applied Go Weekly Newsletter 2025-07-06](https://newsletter.appliedgo.net/archive/2025-07-06-dont-leave-no-trace/) 👤 appliedgo.net 💬 1746 🔖 #go 🗓️ 2025-07-07
 - [Concurrency Patterns in Go: errgroup](mailto:reader-forwarded-email/e17e336182935f8e158a227da7b09694) 👤 Jon Calhoun 💬 751 🔖 #go 🗓️ 2025-07-04

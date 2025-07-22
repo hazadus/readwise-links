@@ -1,13 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 213
+- Всего ссылок: 215
 
 ## Ссылки
 
+- [Gist of Go: Signaling](https://antonz.org/go-concurrency/signaling/) 👤 Anton Zhiyanov 💬 3912 🔖 #go 🗓️ 2025-07-21
+    > **Резюме:** The text explains how to use Go's sync.Cond to signal between goroutines safely using a mutex. It shows one-time and broadcast signaling to notify waiting goroutines when shared data changes. The examples demonstrate coordinating goroutines to generate and check random numbers without race conditions.
 - [New And Improved Formula! • The Applied Go Weekly Newsletter 2025-07-20](https://newsletter.appliedgo.net/archive/2025-07-20-jsonv2-new-and-improved-formula/) 👤 The Applied Go Weekly Newsletter 💬 1836 🔖 #go 🗓️ 2025-07-20
     > **Резюме:** Go 1.25 introduces a new experimental json/v2 package with stricter rules and better handling of JSON data. The update aims to fix problems from the old json package by adding clearer defaults and new functions. Developers can migrate gradually using legacy options to keep their code working smoothly.
 - [You don't need testify/assert](https://antonz.org/do-not-testify/) 👤 Anton Zhiyanov 💬 1706 🔖 #go, #testing 🗓️ 2025-07-16
     > **Резюме:** The author shows how to write simple custom assertion helpers to replace testify/assert in Go tests. These helpers cover equality, error checking, and boolean conditions with minimal code. This approach keeps tests clean without relying on many assertion functions.
+- [Let's Write a JSON Parser From Scratch](https://beyondthesyntax.substack.com/p/lets-write-a-json-parser-from-scratch) 👤 Sushant Dhiman 💬 1013 🔖 #go, #diy 🗓️ 2025-07-15
+    > **Резюме:** The author shares their experience of creating a JSON parser from scratch, starting with a tokenizer that breaks down JSON strings into tokens. They explain the process of parsing, which involves converting these tokens into an abstract syntax tree. The article aims to help readers understand JSON parsing in a simplified manner.
 - [(Don't) Leave No Trace • The Applied Go Weekly Newsletter 2025-07-06](https://newsletter.appliedgo.net/archive/2025-07-06-dont-leave-no-trace/) 👤 appliedgo.net 💬 1746 🔖 #go 🗓️ 2025-07-07
     > **Резюме:** Go 1.25 introduces FlightRecorder, a new tool that records recent trace data in a sliding window to capture meaningful events without filling disk space. It lets developers start, stop, and save trace snapshots programmatically or on events like signals. This feature helps analyze application behavior efficiently by focusing only on important moments.
 - [Concurrency Patterns in Go: errgroup](mailto:reader-forwarded-email/e17e336182935f8e158a227da7b09694) 👤 Jon Calhoun 💬 751 🔖 #go 🗓️ 2025-07-04

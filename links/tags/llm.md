@@ -1,19 +1,30 @@
 # Ссылки
 
-- Всего ссылок: 149
+- Всего ссылок: 155
 
 ## Ссылки
 
-- [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm 🗓️ 2025-07-20
+- [How I program with Agents](https://crawshaw.io/blog/programming-with-agents) 👤 crawshaw.io 💬 4471 🔖 #llm 🗓️ 2025-07-21
+    > **Резюме:** David Crawshaw discusses using agents in programming, highlighting how they enhance the capabilities of LLMs by providing feedback-driven tools. Agents simplify code generation and maintenance, allowing programmers to accomplish more despite their time constraints. Although agents currently require human oversight for some tasks, they represent a significant advancement in programming efficiency.
+- [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) 👤 crawshaw.io 💬 4510 🔖 #llm 🗓️ 2025-07-21
+    > **Резюме:** David Crawshaw shares how he uses LLMs to enhance his programming productivity. He finds value in chat-driven programming, where LLMs help him generate code and tests more efficiently. Crawshaw believes that specialized environments for LLMs, like sketch.dev, can lead to better results in programming.
+- [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents) 👤 anthropic.com 💬 2551 🔖 #llm, #agents 🗓️ 2025-07-21
+    > **Резюме:** Anthropic has learned from working with various teams to build effective AI agents using large language models (LLMs). They differentiate between workflows, which follow predefined paths, and agents that operate flexibly and autonomously. The article provides practical advice for developers on choosing the right approach and emphasizes the importance of simplicity and effective design in building these systems.
+- [AI Journaling Changed My Life](https://every.to/chain-of-thought/ai-journaling-changed-my-life) 👤 Dan Shipper 💬 2267 🔖 #llm 🗓️ 2025-07-21
+    > **Резюме:** Dan Shipper uses GPT-3 to make journaling easier and more helpful for personal growth. The AI acts like a friend or therapist, guiding him to understand his thoughts and feelings better. This new way of journaling helps him track patterns and find gratitude in everyday life.
+- [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) 👤 Andrej Karpathy 🔖 #llm 🗓️ 2025-07-21
+    > **Резюме:** You can use open-weight language models through inference providers like Together.AI. Together.AI offers a playground where you can try many different open models. Finding basic models is less common on these platforms.
+- [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration 🗓️ 2025-07-20
+    > **Заметка:** Отличная подборка источников. На некоторые был подписан. На несколько подписался. 
     > **Резюме:** Generative AI is evolving fast but often misunderstood, causing mistakes and risks. To stay informed, follow official AI labs and trusted experts who share clear, accurate insights. Using curated sources like Twitter feeds and newsletters makes learning about AI easier and more enjoyable.
 - [How I Use Claude Code to Ship Like a Team of Five](https://every.to/source-code/how-i-use-claude-code-to-ship-like-a-team-of-five?utm_source=substack&utm_medium=email) 👤 Kieran Klaassen 💬 3400 🔖 #llm 🗓️ 2025-07-20
     > **Резюме:** Kieran Klaassen uses Claude Code, an AI tool that writes code and handles tasks like a helpful teammate. This lets him focus on directing work instead of coding, speeding up software development. Claude Code also helps with debugging, reviewing, and managing issues, making programming easier and faster.
 - [Coding with LLMs in the summer of 2025 (an update)](http://antirez.com/news/154) 👤 antirez.com 💬 1292 🔖 #llm 🗓️ 2025-07-20
     > **Резюме:** Frontier large language models (LLMs) like Gemini 2.5 PRO can greatly help programmers by finding bugs, speeding up testing, and supporting design work. To get the best results, humans must actively guide the LLMs with clear communication and large context, rather than letting AI work alone. While AI coding agents are improving, the current best approach is a close human-AI collaboration where the programmer stays in control.
+- [Welcoming The Next Generation of Programmers](https://lucumr.pocoo.org/2025/7/20/the-next-generation/) 👤 Armin Ronacher 💬 757 🔖 #llm, #python 🗓️ 2025-07-20
+    > **Резюме:** The Python community welcomes new programmers who use AI tools like ChatGPT to create code. AI will likely bring many more people into programming, not fewer. The community should support and connect these newcomers to help them grow and learn important skills.
 - [The case for regulating AI companions](https://seangoedecke.com/regulating-ai-companions/) 👤 seangoedecke.com 💬 1349 🔖 #llm 🗓️ 2025-07-19
     > **Резюме:** OpenAI’s free GPT-4o model is made to please users, which can lead to dangerous sycophantic behavior. New AI companions, like xAI’s Grok, may create addictive relationships and harm vulnerable people. To stop this, we need rules to control how AI companies design and sell these products.
-- [Using personal instructions in GitHub Copilot Chat](https://cassidoo.co/post/gh-copilot-instructions/) 👤 cassidoo.co 💬 255 🔖 #llm 🗓️ 2025-07-18
-    > **Резюме:** GitHub Copilot Chat lets you add personal instructions to customize how it responds. The author uses friendly, clear prompts to get helpful programming answers with code samples. You can add your own instructions by visiting github.com/copilot and using the menu.
 - [What Doesn’t Change](https://terriblesoftware.org/2025/07/14/what-doesnt-change/) 👤 Terrible Software 💬 514 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-14
     > **Резюме:** Technology changes fast, but core ideas like algorithms and networks stay the same. Knowing these fundamentals helps you use AI and new tools better. Focus on learning the basics deeply to understand and adapt to any future technology.
 - [LLMs, Vibe-Coding, and Where I Draw the Line](https://ordep.dev/posts/llms) 👤 Pedro Tavares 💬 605 🔖 #llm 🗓️ 2025-07-14
@@ -43,6 +54,8 @@
     > **Резюме:** Building small AI tools can save developers time on repetitive tasks like writing reports or summarizing updates. These tools are simple to create and help teams work more efficiently, even if they aren’t big money-makers. Over time, more engineers will build such AI helpers, making many common jobs easier and faster.
 - [Identify, solve, verify](https://simonwillison.net/2025/Jul/4/identify-solve-verify/#atom-everything) 👤 Simon Willison 💬 178 🔖 #llm 🗓️ 2025-07-05
     > **Резюме:** Using LLMs helps me see that my job is more than just writing code. I identify problems, solve them, and check the solutions work. Even advanced LLMs need humans to guide and verify their work.
+- [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/#tools-vs-identity) 👤 Adam Gordon Bell 💬 8453 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-03
+    > **Резюме:** The author loves coding and building projects, even as AI tools get better at writing code. Using AI as a partner can make coding more fun and help tackle bigger projects. Learning to work with these tools is a valuable skill that can keep the joy of programming alive.
 - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/) 👤 Armin Ronacher's Thoughts and Writings 💬 2144 🔖 #llm, #mcp 🗓️ 2025-07-03
     > **Резюме:** The author argues that current Multi-Component Pipelines (MCP) are hard to use because they rely too much on inference and are not easily composable. Writing code is better since it can be reviewed, tested, and run many times without extra inference. Using LLMs to generate code, then checking that code, is a more reliable and scalable way to automate tasks.
 - [Claude Sonnet is a small-brained mechanical squirrel of <T>](https://ghuntley.com/cars/) 👤 Geoffrey Huntley 💬 1044 🔖 #llm 🗓️ 2025-07-03

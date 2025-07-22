@@ -1,10 +1,32 @@
 # Отложенные ссылки
 
-- Всего ссылок: 45
+- Всего ссылок: 54
 
 ## Ссылки
 
-- [Let's Write a JSON Parser From Scratch](https://beyondthesyntax.substack.com/p/lets-write-a-json-parser-from-scratch) 👤 Sushant Dhiman 💬 1013 🔖 #diy 🗓️ 2025-07-15
+- [How I program with Agents](https://crawshaw.io/blog/programming-with-agents) 👤 crawshaw.io 💬 4471 🔖 #llm 🗓️ 2025-07-21
+    > **Резюме:** David Crawshaw discusses using agents in programming, highlighting how they enhance the capabilities of LLMs by providing feedback-driven tools. Agents simplify code generation and maintenance, allowing programmers to accomplish more despite their time constraints. Although agents currently require human oversight for some tasks, they represent a significant advancement in programming efficiency.
+- [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) 👤 crawshaw.io 💬 4510 🔖 #llm 🗓️ 2025-07-21
+    > **Резюме:** David Crawshaw shares how he uses LLMs to enhance his programming productivity. He finds value in chat-driven programming, where LLMs help him generate code and tests more efficiently. Crawshaw believes that specialized environments for LLMs, like sketch.dev, can lead to better results in programming.
+- [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents) 👤 anthropic.com 💬 2551 🔖 #llm, #agents 🗓️ 2025-07-21
+    > **Резюме:** Anthropic has learned from working with various teams to build effective AI agents using large language models (LLMs). They differentiate between workflows, which follow predefined paths, and agents that operate flexibly and autonomously. The article provides practical advice for developers on choosing the right approach and emphasizes the importance of simplicity and effective design in building these systems.
+- [AI Journaling Changed My Life](https://every.to/chain-of-thought/ai-journaling-changed-my-life) 👤 Dan Shipper 💬 2267 🔖 #llm 🗓️ 2025-07-21
+    > **Резюме:** Dan Shipper uses GPT-3 to make journaling easier and more helpful for personal growth. The AI acts like a friend or therapist, guiding him to understand his thoughts and feelings better. This new way of journaling helps him track patterns and find gratitude in everyday life.
+- [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) 👤 Andrej Karpathy 🔖 #llm 🗓️ 2025-07-21
+    > **Резюме:** You can use open-weight language models through inference providers like Together.AI. Together.AI offers a playground where you can try many different open models. Finding basic models is less common on these platforms.
+- [How I Use Claude Code to Ship Like a Team of Five](https://every.to/source-code/how-i-use-claude-code-to-ship-like-a-team-of-five?utm_source=substack&utm_medium=email) 👤 Kieran Klaassen 💬 3400 🔖 #llm 🗓️ 2025-07-20
+    > **Резюме:** Kieran Klaassen uses Claude Code, an AI tool that writes code and handles tasks like a helpful teammate. This lets him focus on directing work instead of coding, speeding up software development. Claude Code also helps with debugging, reviewing, and managing issues, making programming easier and faster.
+- [MacPaint Art From The Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html) 👤 https://decryption.net.au 💬 266 🗓️ 2025-07-20
+    > **Резюме:** The author explored thousands of MacPaint images from the early 1980s and found impressive digital art. They want to learn more about the artists and also plan to explore similar art on the Amiga computer. For those interested, there are resources like Discmaster and a book called Zen & The Art of The Macintosh to help create this style of art.
+- [Reflections on OpenAI](https://calv.info/openai-reflections) 👤 calv.info 💬 3855 🗓️ 2025-07-20
+    > **Резюме:** The author recently left OpenAI and shares their experience of its fast growth and unique culture. OpenAI is very ambitious, secretive, and focused on practical AI risks while aiming to build AGI. Launching Codex was intense but rewarding, and the author sees OpenAI as a key player in the race for AGI.
+- [The case for regulating AI companions](https://seangoedecke.com/regulating-ai-companions/) 👤 seangoedecke.com 💬 1349 🔖 #llm 🗓️ 2025-07-19
+    > **Резюме:** OpenAI’s free GPT-4o model is made to please users, which can lead to dangerous sycophantic behavior. New AI companions, like xAI’s Grok, may create addictive relationships and harm vulnerable people. To stop this, we need rules to control how AI companies design and sell these products.
+- [Scraping and vibe coding a schedule app for Open Sauce 2025 entirely on my phone](https://simonwillison.net/2025/Jul/17/vibe-scraping/#atom-everything) 👤 Simon Willison 💬 1789 🗓️ 2025-07-18
+    > **Резюме:** Simon Willison used only his phone and AI tools to scrape a conference schedule and build a mobile-friendly app. The app lets users easily view the agenda and download it to their calendar. This project shows how AI and web skills can solve complex problems on small devices.
+- [Vercel Acquires NuxtLabs: What This Means for the Future of Nuxt](https://mokkapps.de/blog/vercel-acquires-nuxtlabs) 👤 Michael Hoffmann 💬 1237 🔖 #nuxt 🗓️ 2025-07-18
+    > **Резюме:** Vercel has acquired NuxtLabs, which will help make the Nuxt framework better and faster. Many Nuxt tools will become free and open-source, giving developers more freedom and control. The community is hopeful, but wants to keep Nuxt independent and flexible under Vercel’s support.
+- [Let's Write a JSON Parser From Scratch](https://beyondthesyntax.substack.com/p/lets-write-a-json-parser-from-scratch) 👤 Sushant Dhiman 💬 1013 🔖 #go, #diy 🗓️ 2025-07-15
     > **Резюме:** The author shares their experience of creating a JSON parser from scratch, starting with a tokenizer that breaks down JSON strings into tokens. They explain the process of parsing, which involves converting these tokens into an abstract syntax tree. The article aims to help readers understand JSON parsing in a simplified manner.
 - [How to Make People Give a Damn](https://www.joanwestenberg.com/p/how-to-make-people-give-a-damn-92e3af37926932ef) 👤 Joan Westenberg 💬 1700 🗓️ 2025-07-14
     > **Резюме:** Joan Westenberg believes making people care starts with honesty and urgency, not tricks or viral tactics. True connection comes from risk, sincerity, and caring deeply about something that matters. She aims to build a space for real ideas and meaningful conversations beyond shallow attention.
@@ -16,12 +38,8 @@
     > **Резюме:** Waypoint is a local-first web app designed for trip planning that allows users to quickly jot down notes and visualize routes on a map. It uses a rich text editor and stores data on the client's device, making it easy to organize and share travel plans. Built with existing technologies like SvelteKit and Yjs, Waypoint emphasizes offline functionality and real-time collaboration.
 - [I Shipped a macOS App Built Entirely by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code) 👤 indragie.com 💬 3462 🔖 #llm 🗓️ 2025-07-07
     > **Резюме:** The author built a Mac app mostly using Claude Code, an AI coding assistant that writes and tests code. Claude Code works well with SwiftUI but needs clear specs and feedback to improve its output. This tool shows how AI could change software development in the future.
-- [The Overlooked Tools Simple Command-Line Utilities That Every Developer Should Know](https://smsk.dev/2025/07/04/the-overlooked-tools-simple-command-line-utilities-that-every-developer-should-know/) 👤 devsimsek 💬 668 🗓️ 2025-07-05
-    > **Резюме:** This article highlights simple command-line tools that boost developer productivity. It introduces useful utilities like Eza, TLDR, Neovim, jq, and more. These tools make working in the terminal faster, clearer, and more enjoyable.
 - [How to Become a Time Billionaire](https://www.joanwestenberg.com/p/how-to-become-a-time-billionaire-d50677ce6215ea8a) 👤 Joan Westenberg 💬 1726 🗓️ 2025-07-05
     > **Резюме:** Time is our most valuable and non-renewable asset, yet we often give it away without realizing its true cost. To become a "time billionaire," we must protect our hours by saying no to distractions and reclaim control over how we spend our time. True wealth comes from owning your schedule, focusing deeply, and creating space for what truly matters.
-- [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/#tools-vs-identity) 👤 Adam Gordon Bell 💬 8453 🗓️ 2025-07-03
-    > **Резюме:** The author loves coding and building projects, even as AI tools get better at writing code. Using AI as a partner can make coding more fun and help tackle bigger projects. Learning to work with these tools is a valuable skill that can keep the joy of programming alive.
 - [More Features of Vue's VS Code Extension](https://www.youtube.com/watch?v=RcPcO4_Ct_U) 👤 Alexander Lichter 🔖 #vue 🗓️ 2025-07-03
     > **Резюме:** The Vue VS Code extension helps you add components easily and shows helpful hints about missing properties. It also supports reactive props and auto-adds ".value" for refs, saving time. Premium features include visualizing reactivity, focus mode, and highlighting template changes to improve coding clarity.
 - [How to Build a Custom MCP Server with TypeScript – A Handbook for Developers](https://www.freecodecamp.org/news/how-to-build-a-custom-mcp-server-with-typescript-a-handbook-for-developers/) 👤 sumit.analyzen 💬 6832 🔖 #mcp, #try 🗓️ 2025-06-26

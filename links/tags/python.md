@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 60
+- Всего ссылок: 61
 
 ## Ссылки
 
+- [Welcoming The Next Generation of Programmers](https://lucumr.pocoo.org/2025/7/20/the-next-generation/) 👤 Armin Ronacher 💬 757 🔖 #llm, #python 🗓️ 2025-07-20
+    > **Резюме:** The Python community welcomes new programmers who use AI tools like ChatGPT to create code. AI will likely bring many more people into programming, not fewer. The community should support and connect these newcomers to help them grow and learn important skills.
 - [What's up Python? Mypy gets better, uv faster, FastApi easier, Emscripten formal...er](https://www.bitecode.dev/p/whats-up-python-mypy-gets-better) 👤 Bite Code! 💬 1296 🔖 #uv, #mypy, #python, #fastapi 🗓️ 2025-07-07
     > **Резюме:** Python's Emscripten support is now formalized, making it easier to run Python in web browsers. Mypy 1.16 improves type checking, fixing common annoyances and adding flexible variable redefinition. The uv tool adds a fast build backend, and FastAPI's creator launches a company to simplify app deployment.
 - [Get a string representation of a Python traceback with traceback.format_exc()](https://alexwlchan.net/til/2025/get-python-traceback-as-string/?utm_source=rss) 👤 alexwlchan.net 💬 111 🔖 #python 🗓️ 2025-06-14
