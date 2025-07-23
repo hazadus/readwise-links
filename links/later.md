@@ -1,17 +1,29 @@
 # Отложенные ссылки
 
-- Всего ссылок: 54
+- Всего ссылок: 60
 
 ## Ссылки
 
+- [Opinion | I Teach Creative Writing. This Is What A.I. Is Doing to Students. - The New York Times](https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html?unlocked_article_code=1.YE8.FbMs.W6XRxpJ6UEyg&smid=url-share) 👤 Meghan O’Rourke 💬 3608 🔖 #llm 🗓️ 2025-07-22
+    > **Резюме:** A.I., like ChatGPT, helps students write quickly but can weaken their thinking and creativity. Many teachers worry it makes writing less personal and less rewarding. We need clear rules to balance A.I.'s help with the true learning of writing.
+- [A real-world AI coding case sample](https://blog.korny.info/2025/07/18/a-real-world-ai-coding-case-sample) 👤 Korny Sietsma 💬 2008 🔖 #llm 🗓️ 2025-07-22
+    > **Резюме:** The author used AI (Claude) to help add event messaging when a business-contact relationship changed in an ASP.Net app. Claude made good initial code but needed human guidance to fix details and improve logic. Together, they wrote tests and fixed errors, showing AI can assist coding but not fully replace developers yet.
+- [Clowns to the left of me …](https://blog.korny.info/2025/07/19/clowns-to-the-left-of-me) 👤 Korny Sietsma 💬 1597 🔖 #llm 🗓️ 2025-07-22
+    > **Резюме:** The author feels caught between extreme hype and strong criticism about AI coding tools. They find these tools useful but recognize they need careful use and learning. They warn about the broader risks and challenges behind AI technology.
+- [Как научить нейросеть работать руками: создание полноценного ИИ-агента с MCP и LangGraph за час](https://habr.com/ru/companies/amvera/articles/929568/) 👤 yakvenalex 💬 4800 🔖 #llm, #try, #agents, #langchain, #langgraph 🗓️ 2025-07-22
+    > **Резюме:** Статья рассказывает, как создать полезного ИИ-агента с помощью LangGraph и MCP. Эти инструменты помогают автоматизировать задачи и улучшить опыт пользователей. Для начала нужно понять базовые понятия и освоить простые примеры кода.
+- [The Business Case for Vanilla JS](https://lewiscampbell.tech/blog/250430.html) 👤 lewiscampbell.tech 💬 742 🔖 #javascript 🗓️ 2025-07-21
+    > **Резюме:** The author prefers using Vanilla JS over modern frameworks like React for web development because it is simpler and easier to maintain. They found that browser APIs are stable and well-documented, making development straightforward without complex tools. The author argues that frameworks add unnecessary complexity and that directly scripting the web platform is a more practical choice.
+- [AI Phobia Is Just Fear That ‘Easier’ Equals ‘Cheating’](mailto:reader-forwarded-email/512362633ed328adeb7f2aafbe74f4bc) 👤 Every 💬 1942 🗓️ 2025-07-21
+    > **Резюме:** Many companies ban AI because they believe easy work is cheating. This shows how much we value struggle over results in work culture. AI can free us by shifting focus to meaningful effort, not just visible effort.
+- [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/?from=newsletter) 👤 Josh W. Comeau 💬 3091 🗓️ 2025-07-21
+    > **Резюме:** SVG is a special image format that uses shapes like circles and lines written in code. It can be styled and animated using CSS and JavaScript, making it very powerful. SVG images stay sharp no matter how much you zoom in, which is great for web design.
 - [How I program with Agents](https://crawshaw.io/blog/programming-with-agents) 👤 crawshaw.io 💬 4471 🔖 #llm 🗓️ 2025-07-21
     > **Резюме:** David Crawshaw discusses using agents in programming, highlighting how they enhance the capabilities of LLMs by providing feedback-driven tools. Agents simplify code generation and maintenance, allowing programmers to accomplish more despite their time constraints. Although agents currently require human oversight for some tasks, they represent a significant advancement in programming efficiency.
 - [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) 👤 crawshaw.io 💬 4510 🔖 #llm 🗓️ 2025-07-21
     > **Резюме:** David Crawshaw shares how he uses LLMs to enhance his programming productivity. He finds value in chat-driven programming, where LLMs help him generate code and tests more efficiently. Crawshaw believes that specialized environments for LLMs, like sketch.dev, can lead to better results in programming.
 - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents) 👤 anthropic.com 💬 2551 🔖 #llm, #agents 🗓️ 2025-07-21
     > **Резюме:** Anthropic has learned from working with various teams to build effective AI agents using large language models (LLMs). They differentiate between workflows, which follow predefined paths, and agents that operate flexibly and autonomously. The article provides practical advice for developers on choosing the right approach and emphasizes the importance of simplicity and effective design in building these systems.
-- [AI Journaling Changed My Life](https://every.to/chain-of-thought/ai-journaling-changed-my-life) 👤 Dan Shipper 💬 2267 🔖 #llm 🗓️ 2025-07-21
-    > **Резюме:** Dan Shipper uses GPT-3 to make journaling easier and more helpful for personal growth. The AI acts like a friend or therapist, guiding him to understand his thoughts and feelings better. This new way of journaling helps him track patterns and find gratitude in everyday life.
 - [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) 👤 Andrej Karpathy 🔖 #llm 🗓️ 2025-07-21
     > **Резюме:** You can use open-weight language models through inference providers like Together.AI. Together.AI offers a playground where you can try many different open models. Finding basic models is less common on these platforms.
 - [How I Use Claude Code to Ship Like a Team of Five](https://every.to/source-code/how-i-use-claude-code-to-ship-like-a-team-of-five?utm_source=substack&utm_medium=email) 👤 Kieran Klaassen 💬 3400 🔖 #llm 🗓️ 2025-07-20

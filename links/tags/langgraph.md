@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 1
+- Всего ссылок: 2
 
 ## Ссылки
 
+- [Как научить нейросеть работать руками: создание полноценного ИИ-агента с MCP и LangGraph за час](https://habr.com/ru/companies/amvera/articles/929568/) 👤 yakvenalex 💬 4800 🔖 #llm, #try, #agents, #langchain, #langgraph 🗓️ 2025-07-22
+    > **Резюме:** Статья рассказывает, как создать полезного ИИ-агента с помощью LangGraph и MCP. Эти инструменты помогают автоматизировать задачи и улучшить опыт пользователей. Для начала нужно понять базовые понятия и освоить простые примеры кода.
 - [LangGraph Complete Course for Beginners – Complex AI Agents](https://www.youtube.com/watch?v=jGg_1h0qzaM) 👤 freeCodeCamp.org 🔖 #llm, #agents, #langgraph 🗓️ 2025-05-21
     > **Резюме:** Welcome to this video course on LangGraph, the powerful Python library for building advanced conversational AI workflows. In this course, Vaibhav Mehra will teach you how to design, implement, and manage complex dialogue systems using a graph-based approach. By the end, you'll be equipped to build robust, scalable conversational applications that leverage the full potential of large language models.
 

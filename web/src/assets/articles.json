@@ -1,5 +1,184 @@
 [
     {
+        "id": "01k0s379gcqdry0pfmkvqxxex3",
+        "url": "https://read.readwise.io/read/01k0s379gcqdry0pfmkvqxxex3",
+        "source_url": "https://simonwillison.net/2025/Jul/22/textual-v4/#atom-everything",
+        "title": "Textual v4.0.0: The Streaming Release",
+        "author": "Simon Willison",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {},
+        "site_name": "simonwillison.net",
+        "word_count": 125,
+        "notes": "",
+        "summary": "Textual v4.0.0 is a new version of a Python tool for building command-line apps. Its main feature is streaming Markdown support, which works well with AI models that generate Markdown. The author made a script that uses this feature to interact with language models in real time.",
+        "image_url": null,
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-07-22",
+        "created_at": "2025-07-22T12:55:02.558539+00:00",
+        "updated_at": "2025-07-22T12:55:03.396598+00:00",
+        "saved_at": "2025-07-22T12:55:02.412000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-07-22T12:55:02.412000+00:00"
+    },
+    {
+        "id": "01k0rp3efh5p29xbmappe4tjpz",
+        "url": "https://read.readwise.io/read/01k0rp3efh5p29xbmappe4tjpz",
+        "source_url": "https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html?unlocked_article_code=1.YE8.FbMs.W6XRxpJ6UEyg&smid=url-share",
+        "title": "Opinion | I Teach Creative Writing. This Is What A.I. Is Doing to Students. - The New York Times",
+        "author": "Meghan O’Rourke",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "later",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1753175149036
+            }
+        },
+        "site_name": "New York Times",
+        "word_count": 3608,
+        "notes": "",
+        "summary": "A.I., like ChatGPT, helps students write quickly but can weaken their thinking and creativity. Many teachers worry it makes writing less personal and less rewarding. We need clear rules to balance A.I.'s help with the true learning of writing.",
+        "image_url": "https://static01.nyt.com/images/2025/07/18/opinion/18ORourke/18ORourke-facebookJumbo.jpg",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-07-18",
+        "created_at": "2025-07-22T09:05:45.289736+00:00",
+        "updated_at": "2025-07-22T11:08:56.500007+00:00",
+        "saved_at": "2025-07-22T09:05:44.943000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-07-22T11:08:55.776000+00:00"
+    },
+    {
+        "id": "01k0rp1qta7x2ybn7zpyc9nkzb",
+        "url": "https://read.readwise.io/read/01k0rp1qta7x2ybn7zpyc9nkzb",
+        "source_url": "https://blog.korny.info/2025/07/18/a-real-world-ai-coding-case-sample",
+        "title": "A real-world AI coding case sample",
+        "author": "Korny Sietsma",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "later",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1753175092608
+            }
+        },
+        "site_name": "Korny's Blog",
+        "word_count": 2008,
+        "notes": "",
+        "summary": "The author used AI (Claude) to help add event messaging when a business-contact relationship changed in an ASP.Net app. Claude made good initial code but needed human guidance to fix details and improve logic. Together, they wrote tests and fixed errors, showing AI can assist coding but not fully replace developers yet.",
+        "image_url": null,
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-07-18",
+        "created_at": "2025-07-22T09:04:48.981365+00:00",
+        "updated_at": "2025-07-22T11:08:50.205677+00:00",
+        "saved_at": "2025-07-22T09:04:48.970000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-07-22T11:08:49.826000+00:00"
+    },
+    {
+        "id": "01k0rp11xk2k298rcv00b9dwz6",
+        "url": "https://read.readwise.io/read/01k0rp11xk2k298rcv00b9dwz6",
+        "source_url": "https://blog.korny.info/2025/07/19/clowns-to-the-left-of-me",
+        "title": "Clowns to the left of me …",
+        "author": "Korny Sietsma",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "later",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1753175072282
+            }
+        },
+        "site_name": "Korny's Blog",
+        "word_count": 1597,
+        "notes": "",
+        "summary": "The author feels caught between extreme hype and strong criticism about AI coding tools. They find these tools useful but recognize they need careful use and learning. They warn about the broader risks and challenges behind AI technology.",
+        "image_url": null,
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-07-19",
+        "created_at": "2025-07-22T09:04:26.623734+00:00",
+        "updated_at": "2025-07-22T11:08:51.464906+00:00",
+        "saved_at": "2025-07-22T09:04:26.547000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-07-22T11:08:51.360000+00:00"
+    },
+    {
+        "id": "01k0rankxx7qgr65ckd9a97pjr",
+        "url": "https://read.readwise.io/read/01k0rankxx7qgr65ckd9a97pjr",
+        "source_url": "https://habr.com/ru/companies/amvera/articles/929568/",
+        "title": "Как научить нейросеть работать руками: создание полноценного ИИ-агента с MCP и LangGraph за час",
+        "author": "yakvenalex",
+        "source": "Reader add from import URL",
+        "category": "article",
+        "location": "later",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1753163170712
+            },
+            "try": {
+                "name": "Try",
+                "type": "manual",
+                "created": 1753163190334
+            },
+            "agents": {
+                "name": "Agents",
+                "type": "manual",
+                "created": 1753163177402
+            },
+            "langchain": {
+                "name": "LangChain",
+                "type": "manual",
+                "created": 1753163182164
+            },
+            "langgraph": {
+                "name": "LangGraph",
+                "type": "manual",
+                "created": 1753163185423
+            }
+        },
+        "site_name": "Хабр",
+        "word_count": 4800,
+        "notes": "",
+        "summary": "Статья рассказывает, как создать полезного ИИ-агента с помощью LangGraph и MCP. Эти инструменты помогают автоматизировать задачи и улучшить опыт пользователей. Для начала нужно понять базовые понятия и освоить простые примеры кода.",
+        "image_url": "https://habrastorage.org/getpro/habr/upload_files/e50/f5f/72d/e50f5f72dd832e00580fc5ccb5e6ebe9.jpg",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-07-22",
+        "created_at": "2025-07-22T05:45:57.928587+00:00",
+        "updated_at": "2025-07-22T11:08:37.476161+00:00",
+        "saved_at": "2025-07-22T05:45:57.437000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-07-22T11:08:37.386000+00:00"
+    },
+    {
         "id": "01k0q8r4b7abgn1trwwh8pgjjg",
         "url": "https://read.readwise.io/read/01k0q8r4b7abgn1trwwh8pgjjg",
         "source_url": "https://lewiscampbell.tech/blog/250430.html",
@@ -7,7 +186,7 @@
         "author": "lewiscampbell.tech",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "javascript": {
                 "name": "JavaScript",
@@ -26,11 +205,11 @@
         "html_content": null,
         "published_date": null,
         "created_at": "2025-07-21T19:53:08.218489+00:00",
-        "updated_at": "2025-07-21T19:53:17.450242+00:00",
+        "updated_at": "2025-07-22T11:08:35.280449+00:00",
         "saved_at": "2025-07-21T19:53:08.199000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-07-21T19:53:08.199000+00:00"
+        "last_moved_at": "2025-07-22T11:08:35.065000+00:00"
     },
     {
         "id": "01k0q7q6rsr8vy3a0a5kwwmk6x",
@@ -40,7 +219,7 @@
         "author": "Every",
         "source": null,
         "category": "email",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "every.to",
         "word_count": 1942,
@@ -53,11 +232,11 @@
         "html_content": null,
         "published_date": "2025-07-21",
         "created_at": "2025-07-21T19:35:09.421541+00:00",
-        "updated_at": "2025-07-21T19:35:13.396906+00:00",
+        "updated_at": "2025-07-22T11:08:32.996981+00:00",
         "saved_at": "2025-07-21T19:35:09.337000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-07-21T19:35:09.337000+00:00"
+        "last_moved_at": "2025-07-22T11:08:32.715000+00:00"
     },
     {
         "id": "01k0q7k2k291yw2tt3mkesgpx8",
@@ -67,7 +246,7 @@
         "author": "Josh W. Comeau",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "joshwcomeau.com",
         "word_count": 3091,
@@ -80,11 +259,11 @@
         "html_content": null,
         "published_date": "2025-07-21",
         "created_at": "2025-07-21T19:32:54.015843+00:00",
-        "updated_at": "2025-07-21T19:33:43.364796+00:00",
+        "updated_at": "2025-07-22T11:08:25.932866+00:00",
         "saved_at": "2025-07-21T19:32:53.986000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-07-21T19:32:53.986000+00:00"
+        "last_moved_at": "2025-07-22T11:08:25.568000+00:00"
     },
     {
         "id": "01k0p56bpak7kvtq6m6nn70g7m",
@@ -189,39 +368,6 @@
         "first_opened_at": null,
         "last_opened_at": null,
         "last_moved_at": "2025-07-21T09:45:01.949000+00:00"
-    },
-    {
-        "id": "01k0p0x48042dcx0jnevk7agzc",
-        "url": "https://read.readwise.io/read/01k0p0x48042dcx0jnevk7agzc",
-        "source_url": "https://every.to/chain-of-thought/ai-journaling-changed-my-life",
-        "title": "AI Journaling Changed My Life",
-        "author": "Dan Shipper",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {
-            "llm": {
-                "name": "LLM",
-                "type": "manual",
-                "created": 1753098304631
-            }
-        },
-        "site_name": "every.to",
-        "word_count": 2267,
-        "notes": "",
-        "summary": "Dan Shipper uses GPT-3 to make journaling easier and more helpful for personal growth. The AI acts like a friend or therapist, guiding him to understand his thoughts and feelings better. This new way of journaling helps him track patterns and find gratitude in everyday life.",
-        "image_url": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/social_media_image/3217/full_page_cover_Cover_Imagewe_Frame.png",
-        "parent_id": null,
-        "reading_progress": 0.5609360210543132,
-        "content": null,
-        "html_content": null,
-        "published_date": "2024-09-09",
-        "created_at": "2025-07-21T08:16:55.217764+00:00",
-        "updated_at": "2025-07-21T12:46:56.314708+00:00",
-        "saved_at": "2025-07-21T08:16:48.896000+00:00",
-        "first_opened_at": "2025-07-21T11:44:58.250000+00:00",
-        "last_opened_at": "2025-07-21T11:44:58.369000+00:00",
-        "last_moved_at": "2025-07-21T09:44:57.724000+00:00"
     },
     {
         "id": "01k0p04qds3k7b6mxrrfggvpt2",
