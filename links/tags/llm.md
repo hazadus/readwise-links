@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 158
+- Всего ссылок: 159
 
 ## Ссылки
 
@@ -31,6 +31,8 @@
     > **Резюме:** The Python community welcomes new programmers who use AI tools like ChatGPT to create code. AI will likely bring many more people into programming, not fewer. The community should support and connect these newcomers to help them grow and learn important skills.
 - [The case for regulating AI companions](https://seangoedecke.com/regulating-ai-companions/) 👤 seangoedecke.com 💬 1349 🔖 #llm 🗓️ 2025-07-19
     > **Резюме:** OpenAI’s free GPT-4o model is made to please users, which can lead to dangerous sycophantic behavior. New AI companions, like xAI’s Grok, may create addictive relationships and harm vulnerable people. To stop this, we need rules to control how AI companies design and sell these products.
+- [Scraping and vibe coding a schedule app for Open Sauce 2025 entirely on my phone](https://simonwillison.net/2025/Jul/17/vibe-scraping/#atom-everything) 👤 Simon Willison 💬 1789 🔖 #llm 🗓️ 2025-07-18
+    > **Резюме:** Simon Willison used only his phone and AI tools to scrape a conference schedule and build a mobile-friendly app. The app lets users easily view the agenda and download it to their calendar. This project shows how AI and web skills can solve complex problems on small devices.
 - [What Doesn’t Change](https://terriblesoftware.org/2025/07/14/what-doesnt-change/) 👤 Terrible Software 💬 514 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-14
     > **Резюме:** Technology changes fast, but core ideas like algorithms and networks stay the same. Knowing these fundamentals helps you use AI and new tools better. Focus on learning the basics deeply to understand and adapt to any future technology.
 - [LLMs, Vibe-Coding, and Where I Draw the Line](https://ordep.dev/posts/llms) 👤 Pedro Tavares 💬 605 🔖 #llm 🗓️ 2025-07-14

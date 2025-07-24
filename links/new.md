@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 812
+- Всего ссылок: 813
 
 ## Ссылки
 
+- [What "Parse, don't validate" means in Python?](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) 👤 Bite Code! 💬 2381 🗓️ 2025-07-23
 - [Textual v4.0.0: The Streaming Release](https://simonwillison.net/2025/Jul/22/textual-v4/#atom-everything) 👤 Simon Willison 💬 125 🗓️ 2025-07-22
 - [Gist of Go: Signaling](https://antonz.org/go-concurrency/signaling/) 👤 Anton Zhiyanov 💬 3912 🔖 #go 🗓️ 2025-07-21
 - [Useful Not True](private://read/01k0mry4zm9x1znxwz7rxpgn33) 👤 Derek Sivers 💬 22661 🗓️ 2025-07-20

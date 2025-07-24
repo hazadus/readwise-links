@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 60
+- Всего ссылок: 56
 
 ## Ссылки
 
@@ -12,8 +12,6 @@
     > **Резюме:** The author feels caught between extreme hype and strong criticism about AI coding tools. They find these tools useful but recognize they need careful use and learning. They warn about the broader risks and challenges behind AI technology.
 - [Как научить нейросеть работать руками: создание полноценного ИИ-агента с MCP и LangGraph за час](https://habr.com/ru/companies/amvera/articles/929568/) 👤 yakvenalex 💬 4800 🔖 #llm, #try, #agents, #langchain, #langgraph 🗓️ 2025-07-22
     > **Резюме:** Статья рассказывает, как создать полезного ИИ-агента с помощью LangGraph и MCP. Эти инструменты помогают автоматизировать задачи и улучшить опыт пользователей. Для начала нужно понять базовые понятия и освоить простые примеры кода.
-- [The Business Case for Vanilla JS](https://lewiscampbell.tech/blog/250430.html) 👤 lewiscampbell.tech 💬 742 🔖 #javascript 🗓️ 2025-07-21
-    > **Резюме:** The author prefers using Vanilla JS over modern frameworks like React for web development because it is simpler and easier to maintain. They found that browser APIs are stable and well-documented, making development straightforward without complex tools. The author argues that frameworks add unnecessary complexity and that directly scripting the web platform is a more practical choice.
 - [AI Phobia Is Just Fear That ‘Easier’ Equals ‘Cheating’](mailto:reader-forwarded-email/512362633ed328adeb7f2aafbe74f4bc) 👤 Every 💬 1942 🗓️ 2025-07-21
     > **Резюме:** Many companies ban AI because they believe easy work is cheating. This shows how much we value struggle over results in work culture. AI can free us by shifting focus to meaningful effort, not just visible effort.
 - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/?from=newsletter) 👤 Josh W. Comeau 💬 3091 🗓️ 2025-07-21
@@ -32,12 +30,6 @@
     > **Резюме:** The author explored thousands of MacPaint images from the early 1980s and found impressive digital art. They want to learn more about the artists and also plan to explore similar art on the Amiga computer. For those interested, there are resources like Discmaster and a book called Zen & The Art of The Macintosh to help create this style of art.
 - [Reflections on OpenAI](https://calv.info/openai-reflections) 👤 calv.info 💬 3855 🗓️ 2025-07-20
     > **Резюме:** The author recently left OpenAI and shares their experience of its fast growth and unique culture. OpenAI is very ambitious, secretive, and focused on practical AI risks while aiming to build AGI. Launching Codex was intense but rewarding, and the author sees OpenAI as a key player in the race for AGI.
-- [The case for regulating AI companions](https://seangoedecke.com/regulating-ai-companions/) 👤 seangoedecke.com 💬 1349 🔖 #llm 🗓️ 2025-07-19
-    > **Резюме:** OpenAI’s free GPT-4o model is made to please users, which can lead to dangerous sycophantic behavior. New AI companions, like xAI’s Grok, may create addictive relationships and harm vulnerable people. To stop this, we need rules to control how AI companies design and sell these products.
-- [Scraping and vibe coding a schedule app for Open Sauce 2025 entirely on my phone](https://simonwillison.net/2025/Jul/17/vibe-scraping/#atom-everything) 👤 Simon Willison 💬 1789 🗓️ 2025-07-18
-    > **Резюме:** Simon Willison used only his phone and AI tools to scrape a conference schedule and build a mobile-friendly app. The app lets users easily view the agenda and download it to their calendar. This project shows how AI and web skills can solve complex problems on small devices.
-- [Vercel Acquires NuxtLabs: What This Means for the Future of Nuxt](https://mokkapps.de/blog/vercel-acquires-nuxtlabs) 👤 Michael Hoffmann 💬 1237 🔖 #nuxt 🗓️ 2025-07-18
-    > **Резюме:** Vercel has acquired NuxtLabs, which will help make the Nuxt framework better and faster. Many Nuxt tools will become free and open-source, giving developers more freedom and control. The community is hopeful, but wants to keep Nuxt independent and flexible under Vercel’s support.
 - [Let's Write a JSON Parser From Scratch](https://beyondthesyntax.substack.com/p/lets-write-a-json-parser-from-scratch) 👤 Sushant Dhiman 💬 1013 🔖 #go, #diy 🗓️ 2025-07-15
     > **Резюме:** The author shares their experience of creating a JSON parser from scratch, starting with a tokenizer that breaks down JSON strings into tokens. They explain the process of parsing, which involves converting these tokens into an abstract syntax tree. The article aims to help readers understand JSON parsing in a simplified manner.
 - [How to Make People Give a Damn](https://www.joanwestenberg.com/p/how-to-make-people-give-a-damn-92e3af37926932ef) 👤 Joan Westenberg 💬 1700 🗓️ 2025-07-14
