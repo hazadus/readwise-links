@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 838
+- Всего ссылок: 843
 
 ## Ссылки
 
@@ -123,6 +123,7 @@
 - [Experimenting with Self-Hosted LLMs for Text-to-SQL](https://blog.nilenso.com/blog/2025/05/27/experimenting-with-self-hosted-llms-for-text-to-sql/) 👤 Nilenso 💬 561 🔖 #llm 🗓️ 2025-06-11
 - [AI-assisted coding for teams that can't get away with vibes](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/) 👤 Nilenso 💬 2128 🔖 #llm, #inspiration 🗓️ 2025-06-11
 - [Am I the Only One Who Isn’t Satisfied with Apple’s WWDC 2025?](https://smsk.dev/2025/06/10/am-i-the-only-one-who-isnt-satisfied-with-apples-wwdc-2025/) 👤 devsimsek 💬 573 🗓️ 2025-06-11
+- [Using `make` to compile C programs (for non-C-programmers)](https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/) 👤 Julia Evans 💬 1739 🔖 #clang 🗓️ 2025-06-11
 - [GenAI Criticism and Moral Quandaries](http://lucumr.pocoo.org/2025/6/10/genai-criticism) 👤 Armin Ronacher's Thoughts and Writings 💬 1680 🔖 #llm 🗓️ 2025-06-11
 - [The first big AI disaster is yet to happen](https://seangoedecke.com/the-first-big-ai-disaster/) 👤 seangoedecke.com 💬 1159 🔖 #llm 🗓️ 2025-06-11
 - [Вложенность в перечислениях](http://maximilyahov.ru/blog/all/embedded-lists/) 👤 maximilyahov.ru 💬 117 🔖 #writing 🗓️ 2025-06-08
@@ -190,6 +191,7 @@
 - [In defense of shallow technical knowledge](https://seangoedecke.com/shallow-technical-knowledge/) 👤 seangoedecke.com 💬 1806 🔖 #career, #learning 🗓️ 2025-05-25
 - [How does ChatGPT work? What is AI, really?](https://seangoedecke.com/what-is-chatgpt/) 👤 seangoedecke.com 💬 1653 🔖 #llm 🗓️ 2025-05-25
     > **Заметка:** Хорошее описание принципов работы языковых моделей «для обычных людей», без технического бэкграунда. 
+- [Rendering Mechanism](https://vuejs.org/guide/extras/rendering-mechanism#:~:text=The%20main%20benefit%20of%20virtual%20DOM%20is,the%20direct%20DOM%20manipulation%20to%20the%20renderer.) 👤 vuejs.org 💬 1600 🔖 #vue 🗓️ 2025-05-25
 - [Stuff I learned at Carta.](https://lethain.com/stuff-learned-at-carta/) 👤 lethain.com 💬 1059 🗓️ 2025-05-24
 - [Strengths and limitations of diffusion language models](https://seangoedecke.com/limitations-of-text-diffusion-models/) 👤 seangoedecke.com 💬 1334 🔖 #llm 🗓️ 2025-05-23
 - [I really don’t like ChatGPT’s new memory feature](https://simonwillison.net/2025/May/21/chatgpt-new-memory/#atom-everything) 👤 Simon Willison 💬 2161 🔖 #llm 🗓️ 2025-05-22
@@ -382,8 +384,10 @@
 - [A Review of The Quick Python Book, Fourth Edition](https://blog.miguelgrinberg.com/post/a-review-of-the-quick-python-book-fourth-edition) 👤 Miguel Grinberg 💬 1098 🗓️ 2025-02-28
 - [What Does a Developer Advocate Do?](https://wsvincent.com/what-does-a-developer-advocate-do/) 👤 Will Vincent 💬 1704 🗓️ 2025-02-27
 - [You Should Compile Your Own Philosophy](https://brainbaking.com/post/2025/01/you-should-compile-your-own-philosophy/) 👤 Brain Baking 💬 1197 🗓️ 2025-02-27
+- [Continuous](https://noidea.dog/continuous) 👤 No Idea Blog 💬 8401 🗓️ 2025-02-27
 - [Impostor Syndrome](https://www.noidea.dog/impostor) 👤 No Idea Blog 💬 2068 🗓️ 2025-02-27
 - [Обзор Dawnfolk. Маленький шедевр с инди-сцены](https://www.mirf.ru/games/dawnfolk-obzor) 👤 mirf.ru 💬 942 🗓️ 2025-02-27
+- [How OWASP Helps You Secure Your Full-Stack Web Applications](https://www.smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/) 👤 Eric Burel 💬 2862 🔖 #security 🗓️ 2025-02-26
 - [Paths through the space of all possible solutions](https://seangoedecke.com/solution-space/) 👤 seangoedecke.com 💬 615 🔖 #development 🗓️ 2025-02-26
 - [Explaining it helps you learn it](https://hamatti.org/posts/explaining-it-helps-you-learn-it/) 👤 Juha-Matti Santala 💬 788 🗓️ 2025-02-26
 - [Hyperspace: Quickly Recover Mac Storage Without Deleting Files](https://www.macstories.net/reviews/hyperspace-quickly-recover-mac-storage-without-deleting-files/) 👤 John Voorhees 💬 437 🗓️ 2025-02-26
@@ -453,6 +457,7 @@
 - [How to set up Decky Loader on Steam Deck / SteamOS for easy plugins](https://www.gamingonlinux.com/guides/view/how-to-set-up-decky-loader-on-steam-deck-steamos-for-easy-plugins) 👤 Liam Dawe 💬 791 🗓️ 2025-02-05
 - [How I use LLMs as a staff engineer](https://seangoedecke.com/how-i-use-llms/) 👤 seangoedecke.com 💬 1103 🔖 #llm 🗓️ 2025-02-05
 - [Fat Rand: How Many Lines Do You Need To Generate A Random Number?](http://lucumr.pocoo.org/2025/2/4/fat-rand) 👤 Armin Ronacher's Thoughts and Writings 💬 1268 🔖 #rust 🗓️ 2025-02-05
+- [I is for Intent](https://acko.net/blog/i-is-for-intent/) 👤 Steven Wittens 💬 5520 🗓️ 2025-02-04
 - [The Anbernic RG35XXSP | A Review](https://wavelengths.online/posts/the-anbernic-rg35xxsp-a-review) 👤 Wavelengths 💬 2655 🗓️ 2025-02-04
 - [How to be a -10x Engineer](https://taylor.town/-10x) 👤 Taylor Troesh 💬 567 🗓️ 2025-02-04
 - [3 Ways A Website Project Falls Apart](https://ohdoylerules.com/web/3-ways-a-website-project-falls-apart/) 👤 James Doyle 💬 1762 🔖 #leaddev, #outline, #development 🗓️ 2025-02-04

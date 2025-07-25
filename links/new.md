@@ -1,9 +1,13 @@
 # Новые ссылки
 
-- Всего ссылок: 813
+- Всего ссылок: 817
 
 ## Ссылки
 
+- [Leprechauns, Root Causes, And Other Fairy Tales](https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/) 👤 tomdalling.com 💬 1149 🗓️ 2025-07-24
+- [Do not yell at the language model](https://seangoedecke.com/do-not-yell-at-the-language-model/) 👤 seangoedecke.com 💬 657 🗓️ 2025-07-24
+- [Announcing Toad - a universal UI for agentic coding in the terminal](https://willmcgugan.github.io/announcing-toad/) 👤 Will McGugan 💬 1607 🗓️ 2025-07-24
+- [Getting Real](http://gettingreal.37signals.com/) 👤 basecamp.com 💬 426 🗓️ 2025-07-24
 - [What "Parse, don't validate" means in Python?](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) 👤 Bite Code! 💬 2381 🗓️ 2025-07-23
 - [Textual v4.0.0: The Streaming Release](https://simonwillison.net/2025/Jul/22/textual-v4/#atom-everything) 👤 Simon Willison 💬 125 🗓️ 2025-07-22
 - [Gist of Go: Signaling](https://antonz.org/go-concurrency/signaling/) 👤 Anton Zhiyanov 💬 3912 🔖 #go 🗓️ 2025-07-21
