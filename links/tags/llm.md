@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 159
+- Всего ссылок: 160
 
 ## Ссылки
 
+- [Do not yell at the language model](https://seangoedecke.com/do-not-yell-at-the-language-model/) 👤 seangoedecke.com 💬 657 🔖 #llm 🗓️ 2025-07-24
+    > **Резюме:** When an AI coding assistant makes mistakes, do not force it to admit them or apologize. This can make the AI more likely to make further errors because it shifts its "persona" toward being less competent. Instead, correct the mistake calmly and move on or restart the conversation if needed.
 - [Opinion | I Teach Creative Writing. This Is What A.I. Is Doing to Students. - The New York Times](https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html?unlocked_article_code=1.YE8.FbMs.W6XRxpJ6UEyg&smid=url-share) 👤 Meghan O’Rourke 💬 3608 🔖 #llm 🗓️ 2025-07-22
     > **Резюме:** A.I., like ChatGPT, helps students write quickly but can weaken their thinking and creativity. Many teachers worry it makes writing less personal and less rewarding. We need clear rules to balance A.I.'s help with the true learning of writing.
 - [A real-world AI coding case sample](https://blog.korny.info/2025/07/18/a-real-world-ai-coding-case-sample) 👤 Korny Sietsma 💬 2008 🔖 #llm 🗓️ 2025-07-22

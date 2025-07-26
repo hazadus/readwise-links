@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 45
+- Всего ссылок: 46
 
 ## Ссылки
 
@@ -17,6 +17,8 @@
     > **Резюме:** This tutorial teaches how to use Celery with Django to run background tasks efficiently. You will learn to set up Celery, create custom tasks, and trigger them from Django views and the admin interface. By the end, you'll be able to monitor task statuses directly in Django admin.
 - [Django: what’s new in 5.2](https://adamj.eu/tech/2025/04/07/django-whats-new-5.2/) 👤 Adam Johnson 💬 4408 🔖 #django 🗓️ 2025-04-07
     > **Резюме:** Django 5.2 was released last Wednesday, another exciting step forward for our favourite web framework. It comes with a composite of new features, contributed to by many, some of which I am happy to have helped with. Below is my pick of highlights from the release notes.
+- [Troubleshooting is a Lifestyle 😎](https://jacklinke.com/troubleshooting-is-a-lifestyle) 👤 Jack Linke 💬 3585 🔖 #django 🗓️ 2025-03-21
+    > **Резюме:** Troubleshooting is a vital skill that involves identifying and solving problems systematically. It requires persistence and curiosity, and can be applied in various fields, from programming to medicine. Practicing troubleshooting techniques and using the right tools can enhance your ability to resolve issues effectively.
 - [Django Query Optimization - Defer, Only, and Exclude](https://testdriven.io/blog/django-query-optimization/) 👤 testdriven.io 💬 1383 🔖 #django 🗓️ 2025-03-15
     > **Резюме:** This article explains how to optimize Django database queries using the defer(), only(), and exclude() methods to improve performance by fetching less data. It highlights the importance of minimizing data retrieval for faster web applications and provides examples using a real estate web app. The article also warns against potential pitfalls of using these methods incorrectly, which can lead to additional queries and decreased performance.
 - [About](https://pushpin.org/docs/about/#introduction) 👤 Pushpin 💬 1551 🔖 #try, #django 🗓️ 2025-02-04

@@ -1,9 +1,12 @@
 # Архивные ссылки
 
-- Всего ссылок: 843
+- Всего ссылок: 847
 
 ## Ссылки
 
+- [Shipping projects at Big Tech with Sean Goedecke](https://www.youtube.com/watch?v=IekJKQ-AvkM&t=1s&pp=ygUNc2VhbiBnb2VkZWNrZQ%3D%3D) 👤 The Pragmatic Engineer 🗓️ 2025-07-25
+- [What kind of work do I want?](https://seangoedecke.com/my-engineering-values-2025/) 👤 seangoedecke.com 💬 1050 🔖 #inspiration 🗓️ 2025-07-25
+- [Do not yell at the language model](https://seangoedecke.com/do-not-yell-at-the-language-model/) 👤 seangoedecke.com 💬 657 🔖 #llm 🗓️ 2025-07-24
 - [The Business Case for Vanilla JS](https://lewiscampbell.tech/blog/250430.html) 👤 lewiscampbell.tech 💬 742 🔖 #javascript 🗓️ 2025-07-21
 - [NIH Is Far Cheaper Than The Wrong Dependency](https://lewiscampbell.tech/blog/250718.html?utm_source=substack&utm_medium=email) 👤 lewiscampbell.tech 💬 433 🗓️ 2025-07-20
 - [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration 🗓️ 2025-07-20
@@ -373,6 +376,8 @@
 - [Why Can't Programmers.. Program?](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html) 👤 Jeff Atwood 💬 789 🔖 #career 🗓️ 2025-03-05
 - [Что такое Disruptor?](https://grishaev.me/what-is-disruptor/) 👤 grishaev.me 💬 123 🗓️ 2025-03-05
 - [Корпоративные обновления](https://grishaev.me/corp-update/) 👤 grishaev.me 💬 326 🗓️ 2025-03-05
+- [Running A Software Business On 5 Hours A Week](https://www.kalzumeus.com/2010/03/20/running-a-software-business-on-5-hours-a-week/) 👤 kalzumeus.com 💬 5455 🔖 #career 🗓️ 2025-03-05
+    > **Заметка:** Интереснейший рассказ об опыте ведения личного мини-бизнеса в сфере разработки.
 - [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) 👤 kalzumeus.com 💬 5650 🔖 #career, #inspiration 🗓️ 2025-03-04
 - [Starting a series of videos on a topic I promised to never talk about again](https://buttondown.com/hynek/archive/starting-a-series-of-videos-on-a-topic-i-promised/) 👤 Hynek Did Something 💬 683 🗓️ 2025-03-04
 - [Core Nuxt Features for Fast, Scalable, and SEO-Optimized Web Apps](https://www.monterail.com/blog/core-nuxt-features-for-web-apps) 👤 monterail.com 💬 2545 🔖 #nuxt 🗓️ 2025-03-03

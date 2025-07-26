@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 48
+- Всего ссылок: 49
 
 ## Ссылки
 
@@ -60,6 +60,9 @@
     > **Резюме:** The text discusses various programming concepts, including string operations, data structures like lists, dictionaries, and sets, and the use of decorators in Python. It emphasizes the importance of understanding how different types of data interact, such as how to manage threads and recursion effectively. Additionally, it highlights security measures in web development, particularly regarding form submissions and cookie handling.
 - [Why Can't Programmers.. Program?](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html) 👤 Jeff Atwood 💬 789 🔖 #career 🗓️ 2025-03-05
     > **Резюме:** The document highlights the shocking reality that a vast majority of applicants for programming jobs lack basic coding skills, struggling even with simple tasks like the FizzBuzz question. Various industry professionals express concern over the lack of programming abilities among many applicants, including those with advanced degrees in computer science. To address this issue, some companies implement coding tests as part of their hiring process to ensure they interview programmers who can actually write code effectively. The document emphasizes the importance of basic programming skills and the need for thorough screening to identify competent programmers during the hiring process.
+- [Running A Software Business On 5 Hours A Week](https://www.kalzumeus.com/2010/03/20/running-a-software-business-on-5-hours-a-week/) 👤 kalzumeus.com 💬 5455 🔖 #career 🗓️ 2025-03-05
+    > **Заметка:** Интереснейший рассказ об опыте ведения личного мини-бизнеса в сфере разработки.
+    > **Резюме:** The author shares how they successfully run a software business while working only five hours a week, highlighting the importance of managing time efficiently. They emphasize building time-saving assets and processes instead of committing to demanding schedules or customer deadlines. The key takeaway is to focus on creating lasting systems that enhance productivity and avoid distractions from a day job.
 - [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) 👤 kalzumeus.com 💬 5650 🔖 #career, #inspiration 🗓️ 2025-03-04
     > **Резюме:** Most programming jobs focus on creating software that solves business problems, often in boring ways. Instead of calling yourself a programmer, emphasize how you help businesses increase revenue or reduce costs. Strong communication and negotiation skills are crucial for showcasing your value in the workplace.
 - [Refactoring won't save you from a layoff](https://seangoedecke.com/where-the-money-comes-from/) 👤 seangoedecke.com 💬 1615 🔖 #career 🗓️ 2025-03-03

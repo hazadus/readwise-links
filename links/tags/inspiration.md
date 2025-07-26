@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 86
+- Всего ссылок: 87
 
 ## Ссылки
 
+- [What kind of work do I want?](https://seangoedecke.com/my-engineering-values-2025/) 👤 seangoedecke.com 💬 1050 🔖 #inspiration 🗓️ 2025-07-25
+    > **Резюме:** The author wants to work remotely on important projects that company leaders care about, avoiding low-priority legacy maintenance. They value a healthy, diverse culture and prefer low-process management that trusts their work. Since 2021, they have grown more flexible but still avoid unethical tech like gambling or proof-of-work blockchain.
 - [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration 🗓️ 2025-07-20
     > **Заметка:** Отличная подборка источников. На некоторые был подписан. На несколько подписался. 
     > **Резюме:** Generative AI is evolving fast but often misunderstood, causing mistakes and risks. To stay informed, follow official AI labs and trusted experts who share clear, accurate insights. Using curated sources like Twitter feeds and newsletters makes learning about AI easier and more enjoyable.

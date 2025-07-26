@@ -1,9 +1,21 @@
 # Отложенные ссылки
 
-- Всего ссылок: 51
+- Всего ссылок: 55
 
 ## Ссылки
 
+- [Using GitHub Spark to reverse engineer GitHub Spark](https://simonwillison.net/2025/Jul/24/github-spark/#atom-everything) 👤 Simon Willison 💬 3185 🗓️ 2025-07-25
+    > **Резюме:** GitHub Spark is a tool that builds web apps from prompts and lets users edit, save, and deploy them easily. Simon Willison used Spark to create documentation explaining how Spark works inside. He found the system prompt detailed and praised Spark’s design, but wants more features like access for unauthenticated users.
+- [Leprechauns, Root Causes, And Other Fairy Tales](https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/) 👤 tomdalling.com 💬 1149 🗓️ 2025-07-24
+    > **Резюме:** Complex systems always have problems because they are very complicated, and fixing one issue often adds more complexity. Looking for a single "root cause" of failures is wrong because accidents happen from many small issues combined. Instead of blaming one cause, we should understand that failures come from multiple factors working together.
+- [Announcing Toad - a universal UI for agentic coding in the terminal](https://willmcgugan.github.io/announcing-toad/) 👤 Will McGugan 💬 1607 🗓️ 2025-07-24
+    > **Резюме:** Will McGugan created Toad, a smooth and user-friendly terminal UI for AI coding agents that fixes common issues like flicker and poor text selection. Toad separates the front-end UI from the back-end AI logic, allowing flexibility in programming languages and better performance. Though still in early development, Toad will be open source and aims to improve terminal-based AI coding experiences for everyone.
+- [Getting Real](http://gettingreal.37signals.com/) 👤 basecamp.com 💬 426 🗓️ 2025-07-24
+    > **Резюме:** "Getting Real" by 37signals is a valuable resource for anyone creating a web app, offering simple insights and unique ideas. It focuses on practical approaches to software design rather than technical details. Readers from various backgrounds, including entrepreneurs and designers, will find inspiration in its unconventional wisdom.
+- [What "Parse, don't validate" means in Python?](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) 👤 Bite Code! 💬 2381 🗓️ 2025-07-23
+    > **Резюме:** "Parse, don't validate" means you should convert input into the right type with understanding, not just check if it looks correct. In Python, parsing includes validation because it tries to make data meaningful and trustworthy for the rest of the code. How much you parse depends on your needs, but parsing helps catch errors early and creates clear, reliable code.
+- [Textual v4.0.0: The Streaming Release](https://simonwillison.net/2025/Jul/22/textual-v4/#atom-everything) 👤 Simon Willison 💬 125 🗓️ 2025-07-22
+    > **Резюме:** Textual v4.0.0 is a new version of a Python tool for building command-line apps. Its main feature is streaming Markdown support, which works well with AI models that generate Markdown. The author made a script that uses this feature to interact with language models in real time.
 - [Opinion | I Teach Creative Writing. This Is What A.I. Is Doing to Students. - The New York Times](https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html?unlocked_article_code=1.YE8.FbMs.W6XRxpJ6UEyg&smid=url-share) 👤 Meghan O’Rourke 💬 3608 🔖 #llm 🗓️ 2025-07-22
     > **Резюме:** A.I., like ChatGPT, helps students write quickly but can weaken their thinking and creativity. Many teachers worry it makes writing less personal and less rewarding. We need clear rules to balance A.I.'s help with the true learning of writing.
 - [A real-world AI coding case sample](https://blog.korny.info/2025/07/18/a-real-world-ai-coding-case-sample) 👤 Korny Sietsma 💬 2008 🔖 #llm 🗓️ 2025-07-22
@@ -12,8 +24,6 @@
     > **Резюме:** The author feels caught between extreme hype and strong criticism about AI coding tools. They find these tools useful but recognize they need careful use and learning. They warn about the broader risks and challenges behind AI technology.
 - [Как научить нейросеть работать руками: создание полноценного ИИ-агента с MCP и LangGraph за час](https://habr.com/ru/companies/amvera/articles/929568/) 👤 yakvenalex 💬 4800 🔖 #llm, #try, #agents, #langchain, #langgraph 🗓️ 2025-07-22
     > **Резюме:** Статья рассказывает, как создать полезного ИИ-агента с помощью LangGraph и MCP. Эти инструменты помогают автоматизировать задачи и улучшить опыт пользователей. Для начала нужно понять базовые понятия и освоить простые примеры кода.
-- [AI Phobia Is Just Fear That ‘Easier’ Equals ‘Cheating’](mailto:reader-forwarded-email/512362633ed328adeb7f2aafbe74f4bc) 👤 Every 💬 1942 🗓️ 2025-07-21
-    > **Резюме:** Many companies ban AI because they believe easy work is cheating. This shows how much we value struggle over results in work culture. AI can free us by shifting focus to meaningful effort, not just visible effort.
 - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/?from=newsletter) 👤 Josh W. Comeau 💬 3091 🗓️ 2025-07-21
     > **Резюме:** SVG is a special image format that uses shapes like circles and lines written in code. It can be styled and animated using CSS and JavaScript, making it very powerful. SVG images stay sharp no matter how much you zoom in, which is great for web design.
 - [How I program with Agents](https://crawshaw.io/blog/programming-with-agents) 👤 crawshaw.io 💬 4471 🔖 #llm 🗓️ 2025-07-21
@@ -88,14 +98,12 @@
     > **Резюме:** Bill Gates reflects on the 50th anniversary of Microsoft, starting with the creation of Altair BASIC in 1975. He shares his pride in how this early code led to a revolution in computing and the company's immense success. Gates also acknowledges the influential teachers who helped shape his journey into the world of technology.
 - [Introducing DuckDB](https://realpython.com/python-duckdb/) 👤 Ian Eyre 💬 6289 🗓️ 2025-03-28
     > **Резюме:** DuckDB is a powerful database that allows you to handle large datasets in Python using SQL and a Python API. You can create a DuckDB database by importing data from files like CSV and Parquet, and then query it using standard SQL syntax or an object-oriented approach. It seamlessly integrates with Python, making it a great tool for data analysis.
-- [Troubleshooting is a Lifestyle 😎](https://jacklinke.com/troubleshooting-is-a-lifestyle) 👤 Jack Linke 💬 3585 🗓️ 2025-03-21
+- [Troubleshooting is a Lifestyle 😎](https://jacklinke.com/troubleshooting-is-a-lifestyle) 👤 Jack Linke 💬 3585 🔖 #django 🗓️ 2025-03-21
     > **Резюме:** Troubleshooting is a vital skill that involves identifying and solving problems systematically. It requires persistence and curiosity, and can be applied in various fields, from programming to medicine. Practicing troubleshooting techniques and using the right tools can enhance your ability to resolve issues effectively.
 - [My Thoughts on the Future of "AI"](https://nicholas.carlini.com/writing/2025/thoughts-on-future-ai.html) 👤 Nicholas Carlini 💬 7085 🔖 #llm 🗓️ 2025-03-19
     > **Резюме:** Nicholas Carlini believes that language models will continue to improve over the next few years, potentially becoming integrated into many products. Despite their growth, he acknowledges that these models may face fundamental limits in their capabilities. He emphasizes the unpredictability of future advancements in AI and the importance of managing expectations.
 - [🔥uv — швейцарский нож Python-разработчика](https://youtu.be/0Osso8mLL-A) 👤 Диджитализируй! 🔖 #uv 🗓️ 2025-03-17
     > **Резюме:** uv is a powerful package manager for Python developers that simplifies working with different Python versions and dependencies. It allows you to manage project environments without manually creating virtual environments. This tool is highly recommended for efficient dependency management in Python projects.
-- [Running A Software Business On 5 Hours A Week](https://www.kalzumeus.com/2010/03/20/running-a-software-business-on-5-hours-a-week/) 👤 kalzumeus.com 💬 5455 🗓️ 2025-03-05
-    > **Резюме:** The author shares how they successfully run a software business while working only five hours a week, highlighting the importance of managing time efficiently. They emphasize building time-saving assets and processes instead of committing to demanding schedules or customer deadlines. The key takeaway is to focus on creating lasting systems that enhance productivity and avoid distractions from a day job.
 - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/) 👤 GitButler 💬 3188 🔖 #git 🗓️ 2025-02-25
     > **Резюме:** The author shares lesser-known Git configuration settings that core Git developers recommend for better performance. These settings include adjusting default branch names, improving diff algorithms, and enhancing push and fetch behavior. By enabling these options, users can streamline their Git experience and make it more efficient.
 - [Best Network Technologies](https://nyadgar.com/posts/best-network-technologies/) 👤 Noam Yadgar 💬 3402 🗓️ 2025-01-20

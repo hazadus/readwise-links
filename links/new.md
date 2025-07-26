@@ -1,15 +1,14 @@
 # Новые ссылки
 
-- Всего ссылок: 817
+- Всего ссылок: 816
 
 ## Ссылки
 
-- [Leprechauns, Root Causes, And Other Fairy Tales](https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/) 👤 tomdalling.com 💬 1149 🗓️ 2025-07-24
-- [Do not yell at the language model](https://seangoedecke.com/do-not-yell-at-the-language-model/) 👤 seangoedecke.com 💬 657 🗓️ 2025-07-24
-- [Announcing Toad - a universal UI for agentic coding in the terminal](https://willmcgugan.github.io/announcing-toad/) 👤 Will McGugan 💬 1607 🗓️ 2025-07-24
-- [Getting Real](http://gettingreal.37signals.com/) 👤 basecamp.com 💬 426 🗓️ 2025-07-24
-- [What "Parse, don't validate" means in Python?](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) 👤 Bite Code! 💬 2381 🗓️ 2025-07-23
-- [Textual v4.0.0: The Streaming Release](https://simonwillison.net/2025/Jul/22/textual-v4/#atom-everything) 👤 Simon Willison 💬 125 🗓️ 2025-07-22
+- [Nuxt 4 - An overview!](https://www.youtube.com/watch?v=rCT54d8sMWk) 👤 Alexander Lichter 🔖 #nuxt 🗓️ 2025-07-25
+- [The Algorithmic Personality](https://www.joanwestenberg.com/p/the-algorithmic-personality-7213e6f0cace96c5) 👤 Joan Westenberg 💬 136 🗓️ 2025-07-25
+- [AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)](https://www.youtube.com/watch?v=uRuLgar5XZw) 👤 The Pragmatic Engineer 🗓️ 2025-07-25
+- [TDD, AI agents and coding with Kent Beck](https://www.youtube.com/watch?v=aSXaxOdVtAQ) 👤 The Pragmatic Engineer 🗓️ 2025-07-25
+- [Обзор Donkey Kong Bananza - БЕЗУМНОЕ РАЗДОЛБАЙСТВО I Битый Пиксель](https://www.youtube.com/watch?v=TSemikWI1A4) 👤 Битый Пиксель 🗓️ 2025-07-25
 - [Gist of Go: Signaling](https://antonz.org/go-concurrency/signaling/) 👤 Anton Zhiyanov 💬 3912 🔖 #go 🗓️ 2025-07-21
 - [Useful Not True](private://read/01k0mry4zm9x1znxwz7rxpgn33) 👤 Derek Sivers 💬 22661 🗓️ 2025-07-20
 - [New And Improved Formula! • The Applied Go Weekly Newsletter 2025-07-20](https://newsletter.appliedgo.net/archive/2025-07-20-jsonv2-new-and-improved-formula/) 👤 The Applied Go Weekly Newsletter 💬 1836 🔖 #go 🗓️ 2025-07-20

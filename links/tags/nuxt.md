@@ -1,9 +1,39 @@
 # Ссылки
 
-- Всего ссылок: 39
+- Всего ссылок: 40
 
 ## Ссылки
 
+- [Nuxt 4 - An overview!](https://www.youtube.com/watch?v=rCT54d8sMWk) 👤 Alexander Lichter 🔖 #nuxt 🗓️ 2025-07-25
+    > **Резюме:** Nuxt 4 is out! Another major release after Nuxt 3 was released 2 years and 8 months ago. Let's have a look at all the features and changes
+
+---
+Links and Resources
+
+📺 TWO Major Nuxt Versions https://www.youtube.com/watch?v=TAoTh4DqH6A
+📺 New Directory Structure https://www.youtube.com/watch?v=KnCNOp5Pbfs
+📺 Shared Folder https://www.youtube.com/watch?v=_m5ct5e8nVo
+🔗 Announcement post https://nuxt.com/blog/v4
+
+---
+Chaptermarks
+
+00:00 Intro and Prelude
+01:10 New features of Nuxt 4
+02:16 The new CLI
+04:19 New Directory Structure
+07:17 Better tsconfig
+08:40 Further changes
+09:00 Upgrading from Nuxt 2 😅
+09:43 Upgrading from Nuxt 3
+10:17 Taking a look at breaking changes
+15:53 Nuxt 5?
+16:16 More upcoming features
+17:46 Wrapping up
+
+---
+
+Links marked with * are affiliate links. I get a small commission when you register for the service or buy the product through my link. This helps me keeping the channel running. I only include affiliate links for services or product mentioned that we use ourselves or have good experience with.
 - [Vercel Acquires NuxtLabs: What This Means for the Future of Nuxt](https://mokkapps.de/blog/vercel-acquires-nuxtlabs) 👤 Michael Hoffmann 💬 1237 🔖 #nuxt 🗓️ 2025-07-18
     > **Резюме:** Vercel has acquired NuxtLabs, which will help make the Nuxt framework better and faster. Many Nuxt tools will become free and open-source, giving developers more freedom and control. The community is hopeful, but wants to keep Nuxt independent and flexible under Vercel’s support.
 - [Vercel BUYING NuxtLabs - What it means for you!](https://www.youtube.com/watch?v=NiQB7QPJAiM) 👤 Alexander Lichter 🔖 #vue, #nuxt 🗓️ 2025-07-13
