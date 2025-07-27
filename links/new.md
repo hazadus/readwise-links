@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 816
+- Всего ссылок: 817
 
 ## Ссылки
 
+- [How I do it](https://daniel.haxx.se/blog/2025/07/13/how-i-do-it/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_295) 👤 Daniel Stenberg 💬 1807 🗓️ 2025-07-26
 - [Nuxt 4 - An overview!](https://www.youtube.com/watch?v=rCT54d8sMWk) 👤 Alexander Lichter 🔖 #nuxt 🗓️ 2025-07-25
 - [The Algorithmic Personality](https://www.joanwestenberg.com/p/the-algorithmic-personality-7213e6f0cace96c5) 👤 Joan Westenberg 💬 136 🗓️ 2025-07-25
 - [AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)](https://www.youtube.com/watch?v=uRuLgar5XZw) 👤 The Pragmatic Engineer 🗓️ 2025-07-25
