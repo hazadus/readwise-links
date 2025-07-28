@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 847
+- Всего ссылок: 848
 
 ## Ссылки
 
@@ -221,6 +221,7 @@
     > **Заметка:** Неплохой чек-лист по обеспечению безопасности Django
 - [How To Launch Big Complex Projects](https://www.smashingmagazine.com/2025/05/how-launch-big-complex-projects/) 👤 Vitaly Friedman 💬 1915 🔖 #management, #development 🗓️ 2025-05-17
     > **Заметка:** Почитать книгу, должна быть любопытной
+- [Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/#atom-everything) 👤 Simon Willison 💬 2330 🔖 #llm 🗓️ 2025-05-16
 - [What is Testcontainers, and why should you use it?](https://testcontainers.com/guides/introducing-testcontainers/) 👤 Testcontainers 💬 860 🔖 #docker, #testing 🗓️ 2025-05-15
 - [Getting started with Testcontainers for Python](https://testcontainers.com/guides/getting-started-with-testcontainers-for-python/) 👤 Testcontainers 💬 1181 🔖 #docker, #python, #testing 🗓️ 2025-05-15
 - [Am I online?](https://antonz.org/is-online/) 👤 Anton Zhiyanov 💬 532 🗓️ 2025-05-15

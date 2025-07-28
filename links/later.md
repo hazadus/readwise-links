@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 55
+- Всего ссылок: 54
 
 ## Ссылки
 
@@ -78,8 +78,6 @@
     > **Резюме:** The document delves into the concept of Minimum Viable Product (MVP) and the preference for an approach called Earliest Testable/Usable/Lovable. It contrasts the traditional Big Bang delivery method with iterative, incremental development approaches like Agile, emphasizing the importance of real user feedback. Through examples like Spotify and Minecraft, it illustrates the benefits of putting a basic, testable version of a product in users' hands early on to gather feedback, make improvements, and avoid costly failures. The document stresses the value of learning from real user interactions and adjusting the product accordingly, highlighting successful projects like a police car software system and Lego's product testing with children.
 - [How to Add Blazing Fast Search to Your Django Site with Meilisearch](https://www.revsys.com/tidbits/how-to-add-blazing-fast-search-to-your-django-site-with-meilisearch/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_282) 👤 Lacey 💬 5155 🔖 #django 🗓️ 2025-05-17
     > **Резюме:** Meilisearch offers a fast and easy-to-use search solution for Django sites, allowing for customizable indexing and search schemas. It simplifies the process of setting up and maintaining search functionality compared to other options like Elasticsearch. By indexing specific fields from Django models, Meilisearch enables quick and efficient search results tailored to user needs.
-- [Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/#atom-everything) 👤 Simon Willison 💬 2330 🔖 #llm 🗓️ 2025-05-16
-    > **Резюме:** Simon Willison held a three-hour workshop at PyCon US on building software using Large Language Models (LLMs). The workshop covered topics like setting up LLMs, prompting techniques, and creating a text to SQL tool. Participants learned about the economic value of structured data extraction and the importance of tool usage and security in LLM applications.
 - [Горький урок ABBYY: как лингвисты проиграли последнюю битву за NLP](https://sysblok.ru/blog/gorkij-urok-abbyy-kak-lingvisty-proigrali-poslednjuju-bitvu-za-nlp/) 👤 Даниил Скоринкин 💬 4611 🗓️ 2025-05-12
     > **Резюме:** The article discusses the decline of ABBYY, a once-successful Russian IT company, and the lessons learned from its failed attempts at machine translation. Despite having strong linguistic expertise, ABBYY's ambitious projects struggled due to the complexities of language and the lack of sufficient data and resources. Ultimately, the company's focus shifted towards information retrieval, but it lost its innovative edge in the process.
 - [JavaScript, what is this?](https://piccalil.li/blog/javascript-what-is-this/?ref=main-rss-feed) 👤 Mat “Wilto” Marquis 💬 3410 🔖 #javascript 🗓️ 2025-05-10

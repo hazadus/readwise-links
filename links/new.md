@@ -1,9 +1,14 @@
 # Новые ссылки
 
-- Всего ссылок: 817
+- Всего ссылок: 822
 
 ## Ссылки
 
+- [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/) 👤 Simon Willison 💬 4839 🗓️ 2025-07-27
+- [Prompting with LLM](https://building-with-llms-pycon-2025.readthedocs.io/en/latest/prompting.html) 👤 building-with-llms-pycon-2025.readthedocs.io 💬 975 🔖 #llm, #try 🗓️ 2025-07-27
+- [Tokens: The New Oil](https://tidyfirst.substack.com/p/tokens-the-new-oil?utm_source=substack&utm_medium=email) 👤 Kent Beck 💬 1239 🗓️ 2025-07-27
+- [Почему кошки мурлычут? Теоретические основы и неразгаданная тайна кошачьего урчания](https://www.mirf.ru/science/pochemu-koshki-murlychut) 👤 mirf.ru 💬 1777 🗓️ 2025-07-27
+- [From Async/Await to Virtual Threads](https://lucumr.pocoo.org/2025/7/26/virtual-threads/) 👤 Armin Ronacher 💬 1974 🗓️ 2025-07-27
 - [How I do it](https://daniel.haxx.se/blog/2025/07/13/how-i-do-it/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_295) 👤 Daniel Stenberg 💬 1807 🗓️ 2025-07-26
 - [Nuxt 4 - An overview!](https://www.youtube.com/watch?v=rCT54d8sMWk) 👤 Alexander Lichter 🔖 #nuxt 🗓️ 2025-07-25
 - [The Algorithmic Personality](https://www.joanwestenberg.com/p/the-algorithmic-personality-7213e6f0cace96c5) 👤 Joan Westenberg 💬 136 🗓️ 2025-07-25

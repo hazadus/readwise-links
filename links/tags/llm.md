@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 160
+- Всего ссылок: 161
 
 ## Ссылки
 
+- [Prompting with LLM](https://building-with-llms-pycon-2025.readthedocs.io/en/latest/prompting.html) 👤 building-with-llms-pycon-2025.readthedocs.io 💬 975 🔖 #llm, #try 🗓️ 2025-07-27
+    > **Резюме:** The text explains how to use the LLM command-line interface, starting with setting a default model and running prompts. It discusses features like logging conversations and using different models, as well as enhancing prompts with fragments and system prompts. Additionally, it highlights the ability to attach images and utilize plugins for advanced functionality.
 - [Do not yell at the language model](https://seangoedecke.com/do-not-yell-at-the-language-model/) 👤 seangoedecke.com 💬 657 🔖 #llm 🗓️ 2025-07-24
     > **Резюме:** When an AI coding assistant makes mistakes, do not force it to admit them or apologize. This can make the AI more likely to make further errors because it shifts its "persona" toward being less competent. Instead, correct the mistake calmly and move on or restart the conversation if needed.
 - [Opinion | I Teach Creative Writing. This Is What A.I. Is Doing to Students. - The New York Times](https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html?unlocked_article_code=1.YE8.FbMs.W6XRxpJ6UEyg&smid=url-share) 👤 Meghan O’Rourke 💬 3608 🔖 #llm 🗓️ 2025-07-22

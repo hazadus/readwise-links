@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 38
+- Всего ссылок: 39
 
 ## Ссылки
 
+- [Prompting with LLM](https://building-with-llms-pycon-2025.readthedocs.io/en/latest/prompting.html) 👤 building-with-llms-pycon-2025.readthedocs.io 💬 975 🔖 #llm, #try 🗓️ 2025-07-27
+    > **Резюме:** The text explains how to use the LLM command-line interface, starting with setting a default model and running prompts. It discusses features like logging conversations and using different models, as well as enhancing prompts with fragments and system prompts. Additionally, it highlights the ability to attach images and utilize plugins for advanced functionality.
 - [Как научить нейросеть работать руками: создание полноценного ИИ-агента с MCP и LangGraph за час](https://habr.com/ru/companies/amvera/articles/929568/) 👤 yakvenalex 💬 4800 🔖 #llm, #try, #agents, #langchain, #langgraph 🗓️ 2025-07-22
     > **Резюме:** Статья рассказывает, как создать полезного ИИ-агента с помощью LangGraph и MCP. Эти инструменты помогают автоматизировать задачи и улучшить опыт пользователей. Для начала нужно понять базовые понятия и освоить простые примеры кода.
 - [Developing a Real-time Dashboard with FastAPI, Postgres, and WebSockets](https://testdriven.io/blog/fastapi-postgres-websockets/) 👤 testdriven.io 💬 3838 🔖 #try, #fastapi, #websocket, #postgresql 🗓️ 2025-07-18
