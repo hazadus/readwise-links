@@ -1,11 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 24
+- Всего ссылок: 25
 
 ## Ссылки
 
 - [Let's Write a JSON Parser From Scratch](https://beyondthesyntax.substack.com/p/lets-write-a-json-parser-from-scratch) 👤 Sushant Dhiman 💬 1013 🔖 #go, #diy 🗓️ 2025-07-15
     > **Резюме:** The author shares their experience of creating a JSON parser from scratch, starting with a tokenizer that breaks down JSON strings into tokens. They explain the process of parsing, which involves converting these tokens into an abstract syntax tree. The article aims to help readers understand JSON parsing in a simplified manner.
+- [Writing Toy Software Is A Joy](https://www.jsbarretto.com/blog/software-is-joy/) 👤 Joshua Barretto 💬 1966 🔖 #diy 🗓️ 2025-06-16
+    > **Заметка:** Идеи DIY-программ для саморазвития как программиста.
+    > **Резюме:** Creating toy software projects is a fun way to learn about programming and software development. It helps developers rediscover their passion and gain valuable insights that can benefit their professional work. Building your own tools and applications fosters creativity and understanding of the constraints of software.
 - [Writing Load Balancer From Scratch In 250 Line of Code](https://beyondthesyntax.substack.com/p/writing-load-balancer-from-scratch) 👤 Sushant Dhiman 💬 1745 🔖 #go, #diy 🗓️ 2025-06-16
     > **Резюме:** This post explains how to build a simple load balancer in 250 lines of code. A load balancer evenly distributes incoming requests across multiple server instances to improve performance and reliability. The author focuses on implementing the Round Robin strategy, where requests are sent to servers in a circular order, and plans to cover health checking in a future post.
 - [How to Build an Agent](https://ampcode.com/how-to-build-an-agent) 👤 ampcode.com 💬 5486 🔖 #go, #diy, #llm, #agents 🗓️ 2025-06-05

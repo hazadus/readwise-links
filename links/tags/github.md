@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 17
+- Всего ссылок: 18
 
 ## Ссылки
 
+- [Using GitHub Spark to reverse engineer GitHub Spark](https://simonwillison.net/2025/Jul/24/github-spark/#atom-everything) 👤 Simon Willison 💬 3185 🔖 #llm, #github 🗓️ 2025-07-25
+    > **Резюме:** GitHub Spark is a tool that builds web apps from prompts and lets users edit, save, and deploy them easily. Simon Willison used Spark to create documentation explaining how Spark works inside. He found the system prompt detailed and praised Spark’s design, but wants more features like access for unauthenticated users.
 - [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
     > **Резюме:** Building small AI tools can save developers time on repetitive tasks like writing reports or summarizing updates. These tools are simple to create and help teams work more efficiently, even if they aren’t big money-makers. Over time, more engineers will build such AI helpers, making many common jobs easier and faster.
 - [Writing better release notes](https://simonwillison.net/2022/Jan/31/release-notes/) 👤 Simon Willison 💬 863 🔖 #github 🗓️ 2025-05-30

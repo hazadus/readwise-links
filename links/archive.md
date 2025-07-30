@@ -1,12 +1,17 @@
 # Архивные ссылки
 
-- Всего ссылок: 848
+- Всего ссылок: 860
 
 ## Ссылки
 
+- [Writing is thinking](https://www.nature.com/articles/s44222-025-00323-4#Bib1) 👤 Nature 💬 704 🔖 #llm, #writing 🗓️ 2025-07-28
+- [Can small AI models think as well as large ones?](https://seangoedecke.com/cognitive-core/) 👤 seangoedecke.com 💬 1482 🔖 #llm 🗓️ 2025-07-28
+- [How I do it](https://daniel.haxx.se/blog/2025/07/13/how-i-do-it/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_295) 👤 Daniel Stenberg 💬 1807 🔖 #inspiration 🗓️ 2025-07-26
 - [Shipping projects at Big Tech with Sean Goedecke](https://www.youtube.com/watch?v=IekJKQ-AvkM&t=1s&pp=ygUNc2VhbiBnb2VkZWNrZQ%3D%3D) 👤 The Pragmatic Engineer 🗓️ 2025-07-25
 - [What kind of work do I want?](https://seangoedecke.com/my-engineering-values-2025/) 👤 seangoedecke.com 💬 1050 🔖 #inspiration 🗓️ 2025-07-25
+- [Using GitHub Spark to reverse engineer GitHub Spark](https://simonwillison.net/2025/Jul/24/github-spark/#atom-everything) 👤 Simon Willison 💬 3185 🔖 #llm, #github 🗓️ 2025-07-25
 - [Do not yell at the language model](https://seangoedecke.com/do-not-yell-at-the-language-model/) 👤 seangoedecke.com 💬 657 🔖 #llm 🗓️ 2025-07-24
+- [Как научить нейросеть работать руками: создание полноценного ИИ-агента с MCP и LangGraph за час](https://habr.com/ru/companies/amvera/articles/929568/) 👤 yakvenalex 💬 4800 🔖 #llm, #try, #agents, #langchain, #langgraph 🗓️ 2025-07-22
 - [The Business Case for Vanilla JS](https://lewiscampbell.tech/blog/250430.html) 👤 lewiscampbell.tech 💬 742 🔖 #javascript 🗓️ 2025-07-21
 - [NIH Is Far Cheaper Than The Wrong Dependency](https://lewiscampbell.tech/blog/250718.html?utm_source=substack&utm_medium=email) 👤 lewiscampbell.tech 💬 433 🗓️ 2025-07-20
 - [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration 🗓️ 2025-07-20
@@ -58,6 +63,7 @@
 - [I don't care if my manager writes code](https://seangoedecke.com/technical-engineering-managers/) 👤 seangoedecke.com 💬 1246 🔖 #management 🗓️ 2025-06-27
 - [AI coding tools are perhaps our new terminal emulators](https://ghuntley.com/vt100/) 👤 Geoffrey Huntley 💬 815 🔖 #llm 🗓️ 2025-06-26
 - [Gemini CLI](https://simonwillison.net/2025/Jun/25/gemini-cli/#atom-everything) 👤 Simon Willison 💬 679 🔖 #llm, #gemini 🗓️ 2025-06-26
+- [How to Build a Custom MCP Server with TypeScript – A Handbook for Developers](https://www.freecodecamp.org/news/how-to-build-a-custom-mcp-server-with-typescript-a-handbook-for-developers/) 👤 sumit.analyzen 💬 6832 🔖 #mcp, #try 🗓️ 2025-06-26
 - [AI coding agents are already commoditized](https://seangoedecke.com/ai-agents-are-commoditized/) 👤 seangoedecke.com 💬 777 🔖 #llm 🗓️ 2025-06-25
 - [LLMs bring new nature of abstraction](https://martinfowler.com/articles/2025-nature-abstraction.html) 👤 24 Jun 2025 💬 640 🔖 #llm 🗓️ 2025-06-25
 - [Why Engineers Hate Their Managers (And What to Do About It)](https://terriblesoftware.org/2025/06/24/why-engineers-hate-their-managers-and-what-to-do-about-it/) 👤 Terrible Software 💬 1163 🔖 #management 🗓️ 2025-06-25
@@ -110,6 +116,8 @@
 - [Postgresql. Профессиональный SQL](https://readwise.io/reader/document_raw_content/324141976) 👤 Евгений Моргунов 💬 98953 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
 - [Postgresql Основы Языка SQL](https://readwise.io/reader/document_raw_content/20530573) 👤 Е. П. Моргунов 💬 66946 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
 - [We Can Just Measure Things](http://lucumr.pocoo.org/2025/6/17/measuring) 👤 Armin Ronacher's Thoughts and Writings 💬 1130 🔖 #llm 🗓️ 2025-06-18
+- [Writing Toy Software Is A Joy](https://www.jsbarretto.com/blog/software-is-joy/) 👤 Joshua Barretto 💬 1966 🔖 #diy 🗓️ 2025-06-16
+    > **Заметка:** Идеи DIY-программ для саморазвития как программиста.
 - [Anthropic: How we built our multi-agent research system](https://simonwillison.net/2025/Jun/14/multi-agent-research-system/#atom-everything) 👤 Simon Willison 💬 1075 🔖 #llm 🗓️ 2025-06-15
 - [Why Generative AI Coding Tools and Agents Do Not Work For Me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me) 👤 Miguel Grinberg 💬 1467 🔖 #llm 🗓️ 2025-06-15
 - [Автоматическая верстка макетов из Figma в Cursor AI с помощью MCP сервера](https://www.youtube.com/watch?v=4_pd7HxgXyg) 👤 ВебКадеми | Юрий Ключевский 🔖 #llm, #mcp 🗓️ 2025-06-14
@@ -135,9 +143,11 @@
 - [AI interpretability is further along than I thought](https://seangoedecke.com/ai-interpretability/) 👤 seangoedecke.com 💬 1916 🔖 #llm 🗓️ 2025-06-07
 - [I dream of roombas - thousands of automated AI robots that autonomously maintain codebases](https://ghuntley.com/ktlo/) 👤 Geoffrey Huntley 💬 1335 🔖 #llm 🗓️ 2025-06-07
 - [Arguing point-by-point considered harmful](https://seangoedecke.com/point-by-point-considered-harmful/) 👤 seangoedecke.com 💬 1845 🔖 #soft skills, #communication 🗓️ 2025-06-07
+- [The last year six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/#atom-everything) 👤 Simon Willison 💬 3304 🔖 #llm 🗓️ 2025-06-07
 - [Become an AI-augmented engineer](https://maryrosecook.com/blog/post/become-an-ai-augmented-engineer) 👤 maryrosecook.com 💬 665 🔖 #llm 🗓️ 2025-06-05
     > **Заметка:** Матёрая кодерша советует юзать LLM
 - [Amp is now available. Here's how I use it.](https://ampcode.com/how-i-use-amp) 👤 ampcode.com 💬 2685 🔖 #llm, #try, #inspiration 🗓️ 2025-06-05
+- [LazyVim for Ambitious Developers](https://lazyvim-ambitious-devs.phillips.codes/course/chapter-1/) 👤 lazyvim-ambitious-devs.phillips.codes 💬 3330 🔖 #vim, #book 🗓️ 2025-06-05
 - [Rules](https://docs.cursor.com/context/rules) 👤 Cursor 💬 665 🔖 #cursor 🗓️ 2025-06-05
 - [autoregressive queens of failure](https://ghuntley.com/gutter/) 👤 Geoffrey Huntley 💬 552 🔖 #llm 🗓️ 2025-06-05
 - [AI Killed The Tech Interview. Now What?](https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/?ref=ghuntley.com) 👤 Kane Narraway 💬 1241 🔖 #llm, #interview 🗓️ 2025-06-05
@@ -182,6 +192,7 @@
 - [Ваш главный инструмент для переговоров и встреч](https://kinzhal.media/negotiation-tool/) 👤 Максим Ильяхов 💬 956 🔖 #meetings, #soft skills 🗓️ 2025-05-28
 - [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/?utm_source=rss) 👤 alexwlchan.net 💬 3756 🔖 #css, #html 🗓️ 2025-05-26
     > **Заметка:** Автор, конечно, маньяк - столько документов сохранил вручную😰
+- [Model Context Protocol - Explained! (with Python example)](https://www.youtube.com/watch?v=JF14z6XO4Ho) 👤 BugBytes 🔖 #mcp 🗓️ 2025-05-26
 - [Software Engineering Job Titles](https://brainbaking.com/post/2025/05/software-engineering-job-titles/) 👤 Brain Baking 💬 915 🗓️ 2025-05-26
 - [GitHub Issues search now supports nested queries and boolean operators: Here’s how we (re)built it](https://simonwillison.net/2025/May/26/github-issues-search/#atom-everything) 👤 Simon Willison 💬 149 🔖 #github 🗓️ 2025-05-26
 - [GitHub issues for notes](https://simonwillison.net/2025/May/26/notes/#atom-everything) 👤 Simon Willison 💬 192 🔖 #github 🗓️ 2025-05-26
@@ -198,6 +209,8 @@
 - [Stuff I learned at Carta.](https://lethain.com/stuff-learned-at-carta/) 👤 lethain.com 💬 1059 🗓️ 2025-05-24
 - [Strengths and limitations of diffusion language models](https://seangoedecke.com/limitations-of-text-diffusion-models/) 👤 seangoedecke.com 💬 1334 🔖 #llm 🗓️ 2025-05-23
 - [I really don’t like ChatGPT’s new memory feature](https://simonwillison.net/2025/May/21/chatgpt-new-memory/#atom-everything) 👤 Simon Willison 💬 2161 🔖 #llm 🗓️ 2025-05-22
+- [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp) 👤 Henrik Kniberg 💬 4268 🔖 #agile 🗓️ 2025-05-21
+    > **Заметка:** Хорошее объяснение, зачем нужен MVP и зачем выкатывать продукт пользователям как можно раньше.
 - [Agile as Trauma](https://doriantaylor.com/agile-as-trauma) 👤 Dorian Taylor 💬 2781 🔖 #agile, #development 🗓️ 2025-05-21
 - [My Notion Blogging Kanban](https://daverupert.com/2021/09/my-notion-blogging-kanban/) 👤 daverupert.com 💬 954 🔖 #pkm, #writing 🗓️ 2025-05-21
 - [Obsidian Miscellany](https://tylersticka.com/journal/obsidian-miscellany/) 👤 Tyler Sticka 💬 936 🔖 #pkm 🗓️ 2025-05-21
@@ -335,6 +348,7 @@
 - [AI is useless, but it's our bets bet for the future](http://antirez.com/news/148) 👤 antirez.com 💬 627 🔖 #llm 🗓️ 2025-03-23
 - [Beware tech career advice from old heads](https://jacobian.org/2025/mar/13/beware-advice-from-old-heads/) 👤 jacobian.org 💬 370 🔖 #career 🗓️ 2025-03-23
 - [How do AIs code as well as they do?](https://davestewart.co.uk/blog/how-ai-writes-code/) 👤 Dave Stewart 💬 2408 🔖 #llm 🗓️ 2025-03-22
+- [Troubleshooting is a Lifestyle 😎](https://jacklinke.com/troubleshooting-is-a-lifestyle) 👤 Jack Linke 💬 3585 🔖 #django 🗓️ 2025-03-21
 - [«Скрипты и алгоритмы успеха» Радислава Гандапаса — читаем, размышляем, обсуждаем](https://www.youtube.com/watch?v=fzNnzDDfBSc) 👤 Диджитализируй! 🗓️ 2025-03-20
 - [Why Writing Quality Tests Matters More Than Ever](https://alexbunardzic.substack.com/p/why-writing-quality-tests-matters) 👤 Alex Bunardzic 💬 1542 🔖 #llm, #testing 🗓️ 2025-03-20
 - [Not all AI-assisted programming is vibe coding, but vibe coding rocks](https://simonwillison.net/2025/Mar/19/vibe-coding/#atom-everything) 👤 Simon Willison 💬 1436 🗓️ 2025-03-19

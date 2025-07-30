@@ -1,11 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 161
+- Всего ссылок: 164
 
 ## Ссылки
 
+- [Writing is thinking](https://www.nature.com/articles/s44222-025-00323-4#Bib1) 👤 Nature 💬 704 🔖 #llm, #writing 🗓️ 2025-07-28
+    > **Резюме:** Writing helps scientists organize their ideas and think clearly about their research. Large-language models (LLMs) can assist with writing but cannot replace the deep thinking involved in creating scientific work. Relying fully on LLMs may reduce scientists’ ability to reflect and tell their research story well.
+- [Can small AI models think as well as large ones?](https://seangoedecke.com/cognitive-core/) 👤 seangoedecke.com 💬 1482 🔖 #llm 🗓️ 2025-07-28
+    > **Резюме:** Small AI models can perform nearly as well as large ones if trained carefully, making them efficient and practical for many tasks. These tiny models lack vast fact knowledge but can use tools like internet search to compensate. While promising, it’s unclear if small models can match large ones in deep reasoning because reasoning may depend on having broad knowledge.
 - [Prompting with LLM](https://building-with-llms-pycon-2025.readthedocs.io/en/latest/prompting.html) 👤 building-with-llms-pycon-2025.readthedocs.io 💬 975 🔖 #llm, #try 🗓️ 2025-07-27
     > **Резюме:** The text explains how to use the LLM command-line interface, starting with setting a default model and running prompts. It discusses features like logging conversations and using different models, as well as enhancing prompts with fragments and system prompts. Additionally, it highlights the ability to attach images and utilize plugins for advanced functionality.
+- [Using GitHub Spark to reverse engineer GitHub Spark](https://simonwillison.net/2025/Jul/24/github-spark/#atom-everything) 👤 Simon Willison 💬 3185 🔖 #llm, #github 🗓️ 2025-07-25
+    > **Резюме:** GitHub Spark is a tool that builds web apps from prompts and lets users edit, save, and deploy them easily. Simon Willison used Spark to create documentation explaining how Spark works inside. He found the system prompt detailed and praised Spark’s design, but wants more features like access for unauthenticated users.
 - [Do not yell at the language model](https://seangoedecke.com/do-not-yell-at-the-language-model/) 👤 seangoedecke.com 💬 657 🔖 #llm 🗓️ 2025-07-24
     > **Резюме:** When an AI coding assistant makes mistakes, do not force it to admit them or apologize. This can make the AI more likely to make further errors because it shifts its "persona" toward being less competent. Instead, correct the mistake calmly and move on or restart the conversation if needed.
 - [Opinion | I Teach Creative Writing. This Is What A.I. Is Doing to Students. - The New York Times](https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html?unlocked_article_code=1.YE8.FbMs.W6XRxpJ6UEyg&smid=url-share) 👤 Meghan O’Rourke 💬 3608 🔖 #llm 🗓️ 2025-07-22

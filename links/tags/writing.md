@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [Writing is thinking](https://www.nature.com/articles/s44222-025-00323-4#Bib1) 👤 Nature 💬 704 🔖 #llm, #writing 🗓️ 2025-07-28
+    > **Резюме:** Writing helps scientists organize their ideas and think clearly about their research. Large-language models (LLMs) can assist with writing but cannot replace the deep thinking involved in creating scientific work. Relying fully on LLMs may reduce scientists’ ability to reflect and tell their research story well.
 - [Вложенность в перечислениях](http://maximilyahov.ru/blog/all/embedded-lists/) 👤 maximilyahov.ru 💬 117 🔖 #writing 🗓️ 2025-06-08
     > **Резюме:** The text discusses the importance of clarity in writing, especially regarding the use of conjunctions. It advises avoiding the placement of two identical conjunctions that serve different purposes, as this can make sentences hard to read. Instead, it suggests restructuring sentences for better readability while maintaining the intended meaning.
 - [Say Your Writing](https://martinfowler.com/bliki/SayYourWriting.html) 👤 Martin Fowler 💬 320 🔖 #writing 🗓️ 2025-05-28
