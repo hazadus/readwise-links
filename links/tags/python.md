@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 61
+- Всего ссылок: 62
 
 ## Ссылки
 
+- [Better alternative to shell scripts with Python, uv and pytest](https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/) 👤 Juha-Matti Santala 💬 1312 🔖 #uv, #python 🗓️ 2025-07-30
+    > **Резюме:** Python with the tool uv offers a better way to write small scripts instead of using shell scripts. It handles dependencies easily and supports inline metadata for cleaner scripts. Adding tests with pytest and managing scripts with simple commands makes scripting safer and more efficient.
 - [Welcoming The Next Generation of Programmers](https://lucumr.pocoo.org/2025/7/20/the-next-generation/) 👤 Armin Ronacher 💬 757 🔖 #llm, #python 🗓️ 2025-07-20
     > **Резюме:** The Python community welcomes new programmers who use AI tools like ChatGPT to create code. AI will likely bring many more people into programming, not fewer. The community should support and connect these newcomers to help them grow and learn important skills.
 - [What's up Python? Mypy gets better, uv faster, FastApi easier, Emscripten formal...er](https://www.bitecode.dev/p/whats-up-python-mypy-gets-better) 👤 Bite Code! 💬 1296 🔖 #uv, #mypy, #python, #fastapi 🗓️ 2025-07-07

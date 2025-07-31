@@ -1,18 +1,20 @@
 # Новые ссылки
 
-- Всего ссылок: 822
+- Всего ссылок: 824
 
 ## Ссылки
 
+- [Better alternative to shell scripts with Python, uv and pytest](https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/) 👤 Juha-Matti Santala 💬 1312 🔖 #uv, #python 🗓️ 2025-07-30
+- [Гайд по кастомизации vscode: тайлы и менеджеры горячих клавиш](https://www.youtube.com/watch?v=frZkPK_1Ui4) 👤 Никита Соболев 🗓️ 2025-07-30
+- [The Atrocity Archives](private://read/01k1d3zamj69t631a9zk0vc29p) 👤 Charles Stross 💬 112070 🗓️ 2025-07-30
+- [The refusal problem in large language models](https://seangoedecke.com/the-refusal-problem/) 👤 seangoedecke.com 💬 888 🔖 #llm 🗓️ 2025-07-30
 - [Making sure you're not a bot!](https://blog.jsbarretto.com/post/static-site-generator) 👤 jsbarretto.com 💬 194 🗓️ 2025-07-29
 - [Как создать MCP-сервер и научить ИИ работать с любым кодом и инструментами через LangGraph](https://habr.com/ru/companies/amvera/articles/931874/) 👤 yakvenalex 💬 7645 🗓️ 2025-07-29
 - [Обзор RoboCop: Rogue City - Unfinished Business - Отдых от душнины типа Call Of Duty I Битый Пиксель](https://www.youtube.com/watch?v=KJ89Pq9SHd8) 👤 Битый Пиксель 🗓️ 2025-07-28
-- [Let's Ask An LLM • The Applied Go Weekly Newsletter 2025-07-27](https://newsletter.appliedgo.net/archive/2025-07-27-lets-ask-an-llm/) 👤 The Applied Go Weekly Newsletter 💬 1565 🔖 #go 🗓️ 2025-07-28
 - [Prompting with LLM](https://building-with-llms-pycon-2025.readthedocs.io/en/latest/prompting.html) 👤 building-with-llms-pycon-2025.readthedocs.io 💬 975 🔖 #llm, #try 🗓️ 2025-07-27
 - [Почему кошки мурлычут? Теоретические основы и неразгаданная тайна кошачьего урчания](https://www.mirf.ru/science/pochemu-koshki-murlychut) 👤 mirf.ru 💬 1777 🗓️ 2025-07-27
 - [From Async/Await to Virtual Threads](https://lucumr.pocoo.org/2025/7/26/virtual-threads/) 👤 Armin Ronacher 💬 1974 🗓️ 2025-07-27
 - [Nuxt 4 - An overview!](https://www.youtube.com/watch?v=rCT54d8sMWk) 👤 Alexander Lichter 🔖 #nuxt 🗓️ 2025-07-25
-- [AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)](https://www.youtube.com/watch?v=uRuLgar5XZw) 👤 The Pragmatic Engineer 🗓️ 2025-07-25
 - [TDD, AI agents and coding with Kent Beck](https://www.youtube.com/watch?v=aSXaxOdVtAQ) 👤 The Pragmatic Engineer 🗓️ 2025-07-25
 - [Обзор Donkey Kong Bananza - БЕЗУМНОЕ РАЗДОЛБАЙСТВО I Битый Пиксель](https://www.youtube.com/watch?v=TSemikWI1A4) 👤 Битый Пиксель 🗓️ 2025-07-25
 - [Gist of Go: Signaling](https://antonz.org/go-concurrency/signaling/) 👤 Anton Zhiyanov 💬 3912 🔖 #go 🗓️ 2025-07-21

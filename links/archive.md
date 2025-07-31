@@ -1,12 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 860
+- Всего ссылок: 862
 
 ## Ссылки
 
 - [Writing is thinking](https://www.nature.com/articles/s44222-025-00323-4#Bib1) 👤 Nature 💬 704 🔖 #llm, #writing 🗓️ 2025-07-28
+- [Let's Ask An LLM • The Applied Go Weekly Newsletter 2025-07-27](https://newsletter.appliedgo.net/archive/2025-07-27-lets-ask-an-llm/) 👤 The Applied Go Weekly Newsletter 💬 1565 🔖 #go, #llm 🗓️ 2025-07-28
 - [Can small AI models think as well as large ones?](https://seangoedecke.com/cognitive-core/) 👤 seangoedecke.com 💬 1482 🔖 #llm 🗓️ 2025-07-28
 - [How I do it](https://daniel.haxx.se/blog/2025/07/13/how-i-do-it/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_295) 👤 Daniel Stenberg 💬 1807 🔖 #inspiration 🗓️ 2025-07-26
+- [AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)](https://www.youtube.com/watch?v=uRuLgar5XZw) 👤 The Pragmatic Engineer 🗓️ 2025-07-25
 - [Shipping projects at Big Tech with Sean Goedecke](https://www.youtube.com/watch?v=IekJKQ-AvkM&t=1s&pp=ygUNc2VhbiBnb2VkZWNrZQ%3D%3D) 👤 The Pragmatic Engineer 🗓️ 2025-07-25
 - [What kind of work do I want?](https://seangoedecke.com/my-engineering-values-2025/) 👤 seangoedecke.com 💬 1050 🔖 #inspiration 🗓️ 2025-07-25
 - [Using GitHub Spark to reverse engineer GitHub Spark](https://simonwillison.net/2025/Jul/24/github-spark/#atom-everything) 👤 Simon Willison 💬 3185 🔖 #llm, #github 🗓️ 2025-07-25

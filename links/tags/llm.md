@@ -1,11 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 164
+- Всего ссылок: 166
 
 ## Ссылки
 
+- [The refusal problem in large language models](https://seangoedecke.com/the-refusal-problem/) 👤 seangoedecke.com 💬 888 🔖 #llm 🗓️ 2025-07-30
+    > **Резюме:** Large language models sometimes refuse to do long, repetitive tasks because they are trained to act like humans who might not want to do boring work. This "refusal problem" happens more from roleplaying and training biases than from technical limits. Experts expect it to be fixed soon as models improve and need to handle more coding and boilerplate tasks.
 - [Writing is thinking](https://www.nature.com/articles/s44222-025-00323-4#Bib1) 👤 Nature 💬 704 🔖 #llm, #writing 🗓️ 2025-07-28
     > **Резюме:** Writing helps scientists organize their ideas and think clearly about their research. Large-language models (LLMs) can assist with writing but cannot replace the deep thinking involved in creating scientific work. Relying fully on LLMs may reduce scientists’ ability to reflect and tell their research story well.
+- [Let's Ask An LLM • The Applied Go Weekly Newsletter 2025-07-27](https://newsletter.appliedgo.net/archive/2025-07-27-lets-ask-an-llm/) 👤 The Applied Go Weekly Newsletter 💬 1565 🔖 #go, #llm 🗓️ 2025-07-28
+    > **Резюме:** This newsletter shows how easy it is to call large language models (LLMs) like OpenAI's from Go code using simple HTTP requests. It explains how LLMs can turn natural language into SQL queries for apps, making fuzzy inputs easy to handle. The author encourages using AI pragmatically to solve tasks that need understanding beyond simple algorithms.
 - [Can small AI models think as well as large ones?](https://seangoedecke.com/cognitive-core/) 👤 seangoedecke.com 💬 1482 🔖 #llm 🗓️ 2025-07-28
     > **Резюме:** Small AI models can perform nearly as well as large ones if trained carefully, making them efficient and practical for many tasks. These tiny models lack vast fact knowledge but can use tools like internet search to compensate. While promising, it’s unclear if small models can match large ones in deep reasoning because reasoning may depend on having broad knowledge.
 - [Prompting with LLM](https://building-with-llms-pycon-2025.readthedocs.io/en/latest/prompting.html) 👤 building-with-llms-pycon-2025.readthedocs.io 💬 975 🔖 #llm, #try 🗓️ 2025-07-27
