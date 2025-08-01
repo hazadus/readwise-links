@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)](https://www.youtube.com/watch?v=uRuLgar5XZw) 👤 The Pragmatic Engineer 🔖 #llm, #toot, #interview, #inspiration 🗓️ 2025-07-25
+    > **Заметка:** Отличное интервью с Саймоном. Одно удовольствие наблюдать, как энергично он рассказывает о своем опыте взаимодействия с LLM.
+    > **Резюме:** Simon Willison discusses practical AI tools for software engineers in a straightforward way. He focuses on their real benefits without exaggerating their capabilities. The conversation aims to help engineers understand how to effectively use these tools.
+- [Shipping projects at Big Tech with Sean Goedecke](https://www.youtube.com/watch?v=IekJKQ-AvkM&t=1s&pp=ygUNc2VhbiBnb2VkZWNrZQ%3D%3D) 👤 The Pragmatic Engineer 🔖 #interview 🗓️ 2025-07-25
+    > **Резюме:** Shipping projects at big tech requires strong technical skills and good coordination with many teams. Success depends on quickly delivering valuable work that meets company goals. Engineers must balance their craft with teamwork to navigate complex projects and drive impact.
 - [AI Killed The Tech Interview. Now What?](https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/?ref=ghuntley.com) 👤 Kane Narraway 💬 1241 🔖 #llm, #interview 🗓️ 2025-06-05
     > **Резюме:** The tech interview process is disliked by everyone involved, and AI advancements are changing how candidates are evaluated. Traditional coding interviews may become less effective as AI tools can easily answer many technical questions. Companies need to adapt their interview methods to assess candidates' ability to work with AI, rather than just their coding skills.
 - [LLMs are mirrors of operator skill](https://ghuntley.com/mirrors/) 👤 Geoffrey Huntley 💬 1471 🔖 #llm, #interview, #inspiration 🗓️ 2025-06-04

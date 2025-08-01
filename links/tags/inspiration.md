@@ -1,11 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 88
+- Всего ссылок: 89
 
 ## Ссылки
 
 - [How I do it](https://daniel.haxx.se/blog/2025/07/13/how-i-do-it/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_295) 👤 Daniel Stenberg 💬 1807 🔖 #inspiration 🗓️ 2025-07-26
     > **Резюме:** Daniel Stenberg leads the curl project with strong commitment, working long hours because he loves it. He values independence, quality, and community in open source development. His motivation comes from serving users and improving curl continuously with his dedicated team.
+- [AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)](https://www.youtube.com/watch?v=uRuLgar5XZw) 👤 The Pragmatic Engineer 🔖 #llm, #toot, #interview, #inspiration 🗓️ 2025-07-25
+    > **Заметка:** Отличное интервью с Саймоном. Одно удовольствие наблюдать, как энергично он рассказывает о своем опыте взаимодействия с LLM.
+    > **Резюме:** Simon Willison discusses practical AI tools for software engineers in a straightforward way. He focuses on their real benefits without exaggerating their capabilities. The conversation aims to help engineers understand how to effectively use these tools.
 - [What kind of work do I want?](https://seangoedecke.com/my-engineering-values-2025/) 👤 seangoedecke.com 💬 1050 🔖 #inspiration 🗓️ 2025-07-25
     > **Резюме:** The author wants to work remotely on important projects that company leaders care about, avoiding low-priority legacy maintenance. They value a healthy, diverse culture and prefer low-process management that trusts their work. Since 2021, they have grown more flexible but still avoid unethical tech like gambling or proof-of-work blockchain.
 - [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration 🗓️ 2025-07-20

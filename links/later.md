@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 47
+- Всего ссылок: 46
 
 ## Ссылки
 
@@ -10,8 +10,6 @@
     > **Резюме:** Success in AI means your token use can quickly outpace limits, causing urgent problems. To survive, you must rapidly increase token supply or reduce demand, even if it means cutting features or users. Focus on survival now; perfect solutions come later when growth stabilizes.
 - [Leprechauns, Root Causes, And Other Fairy Tales](https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/) 👤 tomdalling.com 💬 1149 🗓️ 2025-07-24
     > **Резюме:** Complex systems always have problems because they are very complicated, and fixing one issue often adds more complexity. Looking for a single "root cause" of failures is wrong because accidents happen from many small issues combined. Instead of blaming one cause, we should understand that failures come from multiple factors working together.
-- [Announcing Toad - a universal UI for agentic coding in the terminal](https://willmcgugan.github.io/announcing-toad/) 👤 Will McGugan 💬 1607 🗓️ 2025-07-24
-    > **Резюме:** Will McGugan created Toad, a smooth and user-friendly terminal UI for AI coding agents that fixes common issues like flicker and poor text selection. Toad separates the front-end UI from the back-end AI logic, allowing flexibility in programming languages and better performance. Though still in early development, Toad will be open source and aims to improve terminal-based AI coding experiences for everyone.
 - [Getting Real](http://gettingreal.37signals.com/) 👤 basecamp.com 💬 426 🗓️ 2025-07-24
     > **Резюме:** "Getting Real" by 37signals is a valuable resource for anyone creating a web app, offering simple insights and unique ideas. It focuses on practical approaches to software design rather than technical details. Readers from various backgrounds, including entrepreneurs and designers, will find inspiration in its unconventional wisdom.
 - [What "Parse, don't validate" means in Python?](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) 👤 Bite Code! 💬 2381 🗓️ 2025-07-23

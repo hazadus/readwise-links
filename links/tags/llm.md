@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 166
+- Всего ссылок: 168
 
 ## Ссылки
 
+- [Vibe code is legacy code](https://blog.val.town/vibe-code) 👤 Wed 💬 889 🔖 #llm, #toot 🗓️ 2025-07-31
+    > **Заметка:** Интересная аналогия с легаси, и очень прикольная - с кредиткой.
+    > **Резюме:** Vibe coding means using AI to write code quickly without fully understanding it. This works well for small or throwaway projects but creates hard-to-fix legacy code for serious apps. To build lasting software, humans must carefully learn and manage the code, not just rely on AI.
 - [The refusal problem in large language models](https://seangoedecke.com/the-refusal-problem/) 👤 seangoedecke.com 💬 888 🔖 #llm 🗓️ 2025-07-30
     > **Резюме:** Large language models sometimes refuse to do long, repetitive tasks because they are trained to act like humans who might not want to do boring work. This "refusal problem" happens more from roleplaying and training biases than from technical limits. Experts expect it to be fixed soon as models improve and need to handle more coding and boilerplate tasks.
 - [Writing is thinking](https://www.nature.com/articles/s44222-025-00323-4#Bib1) 👤 Nature 💬 704 🔖 #llm, #writing 🗓️ 2025-07-28
@@ -14,6 +17,9 @@
     > **Резюме:** Small AI models can perform nearly as well as large ones if trained carefully, making them efficient and practical for many tasks. These tiny models lack vast fact knowledge but can use tools like internet search to compensate. While promising, it’s unclear if small models can match large ones in deep reasoning because reasoning may depend on having broad knowledge.
 - [Prompting with LLM](https://building-with-llms-pycon-2025.readthedocs.io/en/latest/prompting.html) 👤 building-with-llms-pycon-2025.readthedocs.io 💬 975 🔖 #llm, #try 🗓️ 2025-07-27
     > **Резюме:** The text explains how to use the LLM command-line interface, starting with setting a default model and running prompts. It discusses features like logging conversations and using different models, as well as enhancing prompts with fragments and system prompts. Additionally, it highlights the ability to attach images and utilize plugins for advanced functionality.
+- [AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)](https://www.youtube.com/watch?v=uRuLgar5XZw) 👤 The Pragmatic Engineer 🔖 #llm, #toot, #interview, #inspiration 🗓️ 2025-07-25
+    > **Заметка:** Отличное интервью с Саймоном. Одно удовольствие наблюдать, как энергично он рассказывает о своем опыте взаимодействия с LLM.
+    > **Резюме:** Simon Willison discusses practical AI tools for software engineers in a straightforward way. He focuses on their real benefits without exaggerating their capabilities. The conversation aims to help engineers understand how to effectively use these tools.
 - [Using GitHub Spark to reverse engineer GitHub Spark](https://simonwillison.net/2025/Jul/24/github-spark/#atom-everything) 👤 Simon Willison 💬 3185 🔖 #llm, #github 🗓️ 2025-07-25
     > **Резюме:** GitHub Spark is a tool that builds web apps from prompts and lets users edit, save, and deploy them easily. Simon Willison used Spark to create documentation explaining how Spark works inside. He found the system prompt detailed and praised Spark’s design, but wants more features like access for unauthenticated users.
 - [Do not yell at the language model](https://seangoedecke.com/do-not-yell-at-the-language-model/) 👤 seangoedecke.com 💬 657 🔖 #llm 🗓️ 2025-07-24
