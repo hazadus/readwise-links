@@ -1,5 +1,32 @@
 [
     {
+        "id": "01k1j2z91wkkmqy7hnbcggfvv2",
+        "url": "https://read.readwise.io/read/01k1j2z91wkkmqy7hnbcggfvv2",
+        "source_url": "https://blog.miguelgrinberg.com/post/benchmarking-micropython",
+        "title": "Benchmarking MicroPython",
+        "author": "Miguel Grinberg",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {},
+        "site_name": "miguelgrinberg.com",
+        "word_count": 2096,
+        "notes": "",
+        "summary": "MicroPython runs much slower on microcontrollers than on laptops or Raspberry Pi computers. Different microcontrollers perform differently depending on the task, so speed varies. Despite being slow, microcontrollers are still very useful for many projects.",
+        "image_url": "https://blog.miguelgrinberg.com/static/cards/benchmarking-micropython.jpg",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-07-31",
+        "created_at": "2025-08-01T05:51:40.628580+00:00",
+        "updated_at": "2025-08-01T05:51:40.769835+00:00",
+        "saved_at": "2025-08-01T05:51:40.604000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-01T05:51:40.604000+00:00"
+    },
+    {
         "id": "01k1fgaykmec4gy4d402zfepds",
         "url": "https://read.readwise.io/read/01k1fgaykmec4gy4d402zfepds",
         "source_url": "https://blog.val.town/vibe-code",
@@ -247,7 +274,7 @@
         "author": "seangoedecke.com",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "archive",
         "tags": {
             "llm": {
                 "name": "LLM",
@@ -261,16 +288,16 @@
         "summary": "Large language models sometimes refuse to do long, repetitive tasks because they are trained to act like humans who might not want to do boring work. This \"refusal problem\" happens more from roleplaying and training biases than from technical limits. Experts expect it to be fixed soon as models improve and need to handle more coding and boilerplate tasks.",
         "image_url": null,
         "parent_id": null,
-        "reading_progress": 0.5918096585883602,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2025-07-29",
         "created_at": "2025-07-30T04:45:44.987840+00:00",
-        "updated_at": "2025-07-31T06:56:11.676868+00:00",
+        "updated_at": "2025-08-01T08:17:01.115335+00:00",
         "saved_at": "2025-07-30T04:45:44.965000+00:00",
         "first_opened_at": "2025-07-30T10:34:27.688000+00:00",
-        "last_opened_at": "2025-07-31T06:56:09.415000+00:00",
-        "last_moved_at": "2025-07-30T04:45:44.965000+00:00"
+        "last_opened_at": "2025-08-01T08:13:17.138000+00:00",
+        "last_moved_at": "2025-08-01T08:17:00.521000+00:00"
     },
     {
         "id": "01k1axtwher47wfb1q07aq6z55",

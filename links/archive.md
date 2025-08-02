@@ -1,11 +1,12 @@
 # Архивные ссылки
 
-- Всего ссылок: 864
+- Всего ссылок: 865
 
 ## Ссылки
 
 - [Vibe code is legacy code](https://blog.val.town/vibe-code) 👤 Wed 💬 889 🔖 #llm, #toot 🗓️ 2025-07-31
     > **Заметка:** Интересная аналогия с легаси, и очень прикольная - с кредиткой.
+- [The refusal problem in large language models](https://seangoedecke.com/the-refusal-problem/) 👤 seangoedecke.com 💬 888 🔖 #llm 🗓️ 2025-07-30
 - [Writing is thinking](https://www.nature.com/articles/s44222-025-00323-4#Bib1) 👤 Nature 💬 704 🔖 #llm, #writing 🗓️ 2025-07-28
 - [Let's Ask An LLM • The Applied Go Weekly Newsletter 2025-07-27](https://newsletter.appliedgo.net/archive/2025-07-27-lets-ask-an-llm/) 👤 The Applied Go Weekly Newsletter 💬 1565 🔖 #go, #llm 🗓️ 2025-07-28
 - [Can small AI models think as well as large ones?](https://seangoedecke.com/cognitive-core/) 👤 seangoedecke.com 💬 1482 🔖 #llm 🗓️ 2025-07-28

@@ -4,10 +4,10 @@
 
 ## Ссылки
 
+- [Benchmarking MicroPython](https://blog.miguelgrinberg.com/post/benchmarking-micropython) 👤 Miguel Grinberg 💬 2096 🗓️ 2025-08-01
 - [Better alternative to shell scripts with Python, uv and pytest](https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/) 👤 Juha-Matti Santala 💬 1312 🔖 #uv, #python 🗓️ 2025-07-30
 - [Гайд по кастомизации vscode: тайлы и менеджеры горячих клавиш](https://www.youtube.com/watch?v=frZkPK_1Ui4) 👤 Никита Соболев 🗓️ 2025-07-30
 - [The Atrocity Archives](private://read/01k1d3zamj69t631a9zk0vc29p) 👤 Charles Stross 💬 112070 🗓️ 2025-07-30
-- [The refusal problem in large language models](https://seangoedecke.com/the-refusal-problem/) 👤 seangoedecke.com 💬 888 🔖 #llm 🗓️ 2025-07-30
 - [Making sure you're not a bot!](https://blog.jsbarretto.com/post/static-site-generator) 👤 jsbarretto.com 💬 194 🗓️ 2025-07-29
 - [Как создать MCP-сервер и научить ИИ работать с любым кодом и инструментами через LangGraph](https://habr.com/ru/companies/amvera/articles/931874/) 👤 yakvenalex 💬 7645 🗓️ 2025-07-29
 - [Обзор RoboCop: Rogue City - Unfinished Business - Отдых от душнины типа Call Of Duty I Битый Пиксель](https://www.youtube.com/watch?v=KJ89Pq9SHd8) 👤 Битый Пиксель 🗓️ 2025-07-28
