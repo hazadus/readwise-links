@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 824
+- Всего ссылок: 826
 
 ## Ссылки
 
+- [](about:blank) 🗓️ 2025-08-02
+- [From trying to impress engineers to trying to impress managers](https://seangoedecke.com/impressing-people/) 👤 seangoedecke.com 💬 1335 🗓️ 2025-08-02
 - [Benchmarking MicroPython](https://blog.miguelgrinberg.com/post/benchmarking-micropython) 👤 Miguel Grinberg 💬 2096 🗓️ 2025-08-01
 - [Better alternative to shell scripts with Python, uv and pytest](https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/) 👤 Juha-Matti Santala 💬 1312 🔖 #uv, #python 🗓️ 2025-07-30
 - [Гайд по кастомизации vscode: тайлы и менеджеры горячих клавиш](https://www.youtube.com/watch?v=frZkPK_1Ui4) 👤 Никита Соболев 🗓️ 2025-07-30
@@ -775,7 +777,7 @@ UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 
 - [Quick tip: A time-saving Makefile for your Go projects – Alex Edwards](https://www.alexedwards.net/blog/a-time-saving-makefile-for-your-go-projects) 👤 Alex Edwards 💬 1040 🔖 #go 🗓️ 2024-09-10
 - [Что такое Mini App: архитектура, возможности и примеры](https://timeweb.cloud/blog/chto-takoe-mini-app?m-message-click-id=02ca6ead-146b-45bf-b6cf-1c5e069c0ab5&m-message-key-id=-6592143948200804352) 👤 Вадим Андоськин Технический писатель 💬 1147 🔖 #telegram 🗓️ 2024-09-10
 - [The Undeniable Utility Of CSS <code>:has</code> • Josh W. Comeau](https://www.joshwcomeau.com/css/has/?from=newsletter) 👤 Josh W. Comeau 💬 3992 🔖 #css 🗓️ 2024-09-10
-- [Build 3D Scenes Declaratively with TresJS using Vue - AlvaroSabu](https://alvarosaburido.dev/blog/build-3d-scenes-declaratively-with-tresjs-using-vue?ck_subscriber_id=2108193410) 👤 alvarosaburido.dev 💬 1119 🔖 #vue 🗓️ 2024-09-10
+- [Build 3D Scenes Declaratively with TresJS using Vue - AlvaroSabu](https://alvarosaburido.dev/blog/build-3d-scenes-declaratively-with-tresjs-using-vue?ck_subscriber_id=2108193410) 👤 alvarosaburido.dev 💬 1119 🔖 #vue 🗓️ 2025-08-02
 - [How to use go run to manage tool dependencies – Alex Edwards](https://www.alexedwards.net/blog/using-go-run-to-manage-tool-dependencies) 👤 Alex Edwards 💬 1132 🔖 #go 🗓️ 2024-09-11
 - [How to tune PostgreSQL for memory | EDB](https://www.enterprisedb.com/postgres-tutorials/how-tune-postgresql-memory) 👤 Tushar Ahuja 💬 434 🔖 #postgresql 🗓️ 2024-09-11
 - [Building a VS Code Extension Using Vue.js](https://www.codemag.com/article/2107071?ck_subscriber_id=2108193410) 👤 CODE Magazine, EPS Software Corp., <a href="/People/Bio/Bilal.Haidar">Bilal Haidar</a> 💬 6594 🔖 #vue 🗓️ 2024-09-11

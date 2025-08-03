@@ -1,5 +1,59 @@
 [
     {
+        "id": "01k1nzpygjdbpbsfdgj1s7f8wb",
+        "url": "https://read.readwise.io/read/01k1nzpygjdbpbsfdgj1s7f8wb",
+        "source_url": "about:blank",
+        "title": "",
+        "author": "",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": null,
+        "site_name": null,
+        "word_count": null,
+        "notes": "",
+        "summary": null,
+        "image_url": null,
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": null,
+        "created_at": "2025-08-02T18:11:39.720622+00:00",
+        "updated_at": "2025-08-02T18:12:11.032741+00:00",
+        "saved_at": "2025-08-02T18:12:11.003000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-02T18:12:11.003000+00:00"
+    },
+    {
+        "id": "01k1nzn6ysnwnm72jajdp750m4",
+        "url": "https://read.readwise.io/read/01k1nzn6ysnwnm72jajdp750m4",
+        "source_url": "https://seangoedecke.com/impressing-people/",
+        "title": "From trying to impress engineers to trying to impress managers",
+        "author": "seangoedecke.com",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {},
+        "site_name": "seangoedecke.com",
+        "word_count": 1335,
+        "notes": "",
+        "summary": "Early in a tech career, engineers want to impress senior engineers by solving hard problems. As they grow, they must impress managers and product managers, who value speed and delivery more than deep technical skill. This shift can feel unsatisfying, and engineers handle it by adapting, opting out, or finding personal meaning beyond others’ approval.",
+        "image_url": null,
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-08-01",
+        "created_at": "2025-08-02T18:10:42.798054+00:00",
+        "updated_at": "2025-08-02T18:10:42.922651+00:00",
+        "saved_at": "2025-08-02T18:10:42.777000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-02T18:10:42.777000+00:00"
+    },
+    {
         "id": "01k1j2z91wkkmqy7hnbcggfvv2",
         "url": "https://read.readwise.io/read/01k1j2z91wkkmqy7hnbcggfvv2",
         "source_url": "https://blog.miguelgrinberg.com/post/benchmarking-micropython",
@@ -111080,7 +111134,7 @@
             "vue": {
                 "name": "Vue",
                 "type": "manual",
-                "created": 1725980684837
+                "created": 1754167810948
             }
         },
         "site_name": "AlvaroSabu",
@@ -111094,11 +111148,11 @@
         "html_content": null,
         "published_date": "2024-06-01",
         "created_at": "2024-11-05T15:48:10.604877+00:00",
-        "updated_at": "2025-01-26T11:59:17.400108+00:00",
-        "saved_at": "2024-09-10T15:04:36.458000+00:00",
+        "updated_at": "2025-08-02T20:50:10.955823+00:00",
+        "saved_at": "2025-08-02T20:49:50.796000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2024-09-10T15:04:44.837000+00:00"
+        "last_moved_at": "2025-08-02T20:49:50.796000+00:00"
     },
     {
         "id": "01jbyg656evhyfrs666xqqtvjq",
