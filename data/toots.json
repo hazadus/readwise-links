@@ -1,7 +1,8 @@
 {
     "tooted_doc_ids": [
         "01k1fgaykmec4gy4d402zfepds",
-        "01k10nxc0n273vs5yr52513y6k"
+        "01k10nxc0n273vs5yr52513y6k",
+        "01k1ddxewqhxcs47rafsc51dx4"
     ],
     "toots": [
         {
@@ -15,6 +16,12 @@
             "document_title": "AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)",
             "source_url": "https://www.youtube.com/watch?v=uRuLgar5XZw",
             "toot_url": "https://fosstodon.org/@hazadus/114969466903953522"
+        },
+        {
+            "document_id": "01k1ddxewqhxcs47rafsc51dx4",
+            "document_title": "Better alternative to shell scripts with Python, uv and pytest",
+            "source_url": "https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/",
+            "toot_url": "https://fosstodon.org/@hazadus/114969518296614582"
         }
     ]
 }
