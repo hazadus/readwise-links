@@ -1,8 +1,13 @@
 """
 Скрипт для публикации документов из Readwise в виде туитов.
 
-Получает список документов из JSON файла, фильтрует их по тегу "toot",
-формирует сообщения для туитов и сохраняет информацию о туитах в JSON файл.
+- Получает список документов из JSON файла
+- Фильтрует их по тегу "toot"
+- Проверяет, были ли они уже туитнуты
+- Публикует новые документы в Mastodon
+- Сохраняет информацию о туитах в JSON файл
+
+Для работы требуется файл "toot_usercred.secret" в корне проекта с токеном доступа к Mastodon.
 
 Пример использования:
     uv run ./app/toot.py
@@ -11,6 +16,7 @@
 import json
 import os
 
+from integrations.mastodon import publish_message
 from pydantic import BaseModel
 from schemas.readwise import ReadwiseDocument
 
@@ -175,11 +181,10 @@ def toot_new_docs(
         if doc.id in toot_data.tooted_doc_ids:
             continue
 
-        # TODO: публиковать по факту
         message = compose_message(doc=doc)
-        print(message)
-
-        toot_url = f"https://toot.example.com/{doc.id}"
+        toot_url = publish_message(message=message)
+        if not toot_url:
+            continue
 
         new_ids.append(doc.id)
         new_toots.append(
