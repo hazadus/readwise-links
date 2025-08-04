@@ -1,0 +1,20 @@
+{
+    "tooted_doc_ids": [
+        "01k1fgaykmec4gy4d402zfepds",
+        "01k10nxc0n273vs5yr52513y6k"
+    ],
+    "toots": [
+        {
+            "document_id": "01k1fgaykmec4gy4d402zfepds",
+            "document_title": "Vibe code is legacy code",
+            "source_url": "https://blog.val.town/vibe-code",
+            "toot_url": "https://fosstodon.org/@hazadus/114969466836536946"
+        },
+        {
+            "document_id": "01k10nxc0n273vs5yr52513y6k",
+            "document_title": "AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)",
+            "source_url": "https://www.youtube.com/watch?v=uRuLgar5XZw",
+            "toot_url": "https://fosstodon.org/@hazadus/114969466903953522"
+        }
+    ]
+}
