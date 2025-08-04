@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [Better alternative to shell scripts with Python, uv and pytest](https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/) 👤 Juha-Matti Santala 💬 1312 🔖 #uv, #try, #toot, #pytest, #python 🗓️ 2025-07-30
+    > **Заметка:** Отличная шпаргалка о запуске самодостаточных Python-скриптов, ещё и возможность встраивания тестов описана
+    > **Резюме:** Python with the tool uv offers a better way to write small scripts instead of using shell scripts. It handles dependencies easily and supports inline metadata for cleaner scripts. Adding tests with pytest and managing scripts with simple commands makes scripting safer and more efficient.
 - [How to cheat at unit tests with pytest and Black](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/) 👤 Simon Willison 💬 860 🔖 #django, #pytest 🗓️ 2025-05-29
     > **Резюме:** The author discusses using pytest and Black to efficiently write unit tests for a Django project focused on permissions in Datasette Cloud. They prefer to prototype solutions first and then create tests based on the implemented code, which speeds up the process. This method has resulted in a robust test suite and has been successfully applied to their software projects.
 - [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/) 👤 Dane Hillard 💬 5149 🔖 #pytest, #python, #testing 🗓️ 2024-12-09

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 49
+- Всего ссылок: 50
 
 ## Ссылки
 
+- [From trying to impress engineers to trying to impress managers](https://seangoedecke.com/impressing-people/) 👤 seangoedecke.com 💬 1335 🔖 #career 🗓️ 2025-08-02
+    > **Резюме:** Early in a tech career, engineers want to impress senior engineers by solving hard problems. As they grow, they must impress managers and product managers, who value speed and delivery more than deep technical skill. This shift can feel unsatisfying, and engineers handle it by adapting, opting out, or finding personal meaning beyond others’ approval.
 - [Why Cringe Tolerance Separates Builders from Non-Builders](https://www.joanwestenberg.com/p/why-cringe-tolerance-separates-builders-from-non-builders-590c09e6f3021d4f) 👤 Joan Westenberg 💬 938 🔖 #career, #learning 🗓️ 2025-07-16
     > **Резюме:** Building things requires the courage to share imperfect work and endure embarrassment. People who wait for perfection often never start or improve. Embracing early mistakes leads to growth, feedback, and eventual success.
 - [The more senior engineers get, the more results matter](https://seangoedecke.com/being-accountable-for-results/) 👤 seangoedecke.com 💬 651 🔖 #career 🗓️ 2025-07-08

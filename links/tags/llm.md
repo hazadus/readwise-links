@@ -1,9 +1,22 @@
 # Ссылки
 
-- Всего ссылок: 168
+- Всего ссылок: 173
 
 ## Ссылки
 
+- [Why I'm Betting Against AI Agents in 2025 (Despite Building Them)](https://utkarshkanwat.com/writing/betting-against-agents/) 👤 Utkarsh Kanwat 💬 1714 🔖 #llm 🗓️ 2025-08-03
+    > **Заметка:** From Iximiuz Newsletter
+    > **Резюме:** The author has built many AI agent systems and sees big challenges in making them fully autonomous and reliable at scale. High error rates, costly context handling, and complex tool design limit their effectiveness. Success comes from clear boundaries, human control, and smart engineering—not from hype about fully autonomous agents.
+- [Using AI Without Leaving the Terminal: A Guide to llm](https://kashw1n.com/blog/llm-cli/) 👤 kashw1n.com 💬 1184 🔖 #llm 🗓️ 2025-08-03
+    > **Заметка:** Хорошая шпаргалка по утилите Саймона
+    > **Резюме:** llm is a command-line tool that lets you use many AI models directly in the terminal. It saves conversations automatically and works well with files, pipes, and plugins. This tool helps developers work faster by combining AI with their normal coding workflow.
+- [6 Weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/?utm_source=substack&utm_medium=email) 👤 Puzzmo Blog 💬 4611 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-03
+    > **Резюме:** Claude Code has greatly improved how I write and maintain code by letting me create complex projects quickly. In six weeks, I completed many big tasks alone while still doing my regular work. This tool feels like a patient programming partner that helps me build and test code faster than ever before.
+- [Agentic Coding Things That Didn’t Work](https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/?utm_source=substack&utm_medium=email) 👤 Armin Ronacher 💬 1848 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-03
+    > **Резюме:** The author tried many agentic coding tools but found most automation did not improve their workflow and was often abandoned. They rely mostly on talking to the machine and simple copy-pasting rather than complex commands or hooks. Automation can reduce mental engagement, so they recommend careful use and constant evaluation to avoid errors.
+- [Claude Code is a Slot Machine](https://rgoldfinger.com/blog/2025-07-26-claude-code-is-a-slot-machine/?utm_source=substack&utm_medium=email) 👤 rgoldfinger.com 💬 414 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-03
+    > **Заметка:** Остроумная аналогия Клода и "однорукого бандита" 🤔
+    > **Резюме:** The author loves creating software because it feels fun and satisfying. AI coding tools change this by making the process slower and full of waiting, like a slot machine game. The real skill is knowing when to dive deep or move on while using AI to help build complex ideas.
 - [Vibe code is legacy code](https://blog.val.town/vibe-code) 👤 Wed 💬 889 🔖 #llm, #toot 🗓️ 2025-07-31
     > **Заметка:** Интересная аналогия с легаси, и очень прикольная - с кредиткой.
     > **Резюме:** Vibe coding means using AI to write code quickly without fully understanding it. This works well for small or throwaway projects but creates hard-to-fix legacy code for serious apps. To build lasting software, humans must carefully learn and manage the code, not just rely on AI.
@@ -40,10 +53,10 @@
     > **Резюме:** Anthropic has learned from working with various teams to build effective AI agents using large language models (LLMs). They differentiate between workflows, which follow predefined paths, and agents that operate flexibly and autonomously. The article provides practical advice for developers on choosing the right approach and emphasizes the importance of simplicity and effective design in building these systems.
 - [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) 👤 Andrej Karpathy 🔖 #llm 🗓️ 2025-07-21
     > **Резюме:** You can use open-weight language models through inference providers like Together.AI. Together.AI offers a playground where you can try many different open models. Finding basic models is less common on these platforms.
-- [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration 🗓️ 2025-07-20
+- [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration, #joyandcuriosity 🗓️ 2025-07-20
     > **Заметка:** Отличная подборка источников. На некоторые был подписан. На несколько подписался. 
     > **Резюме:** Generative AI is evolving fast but often misunderstood, causing mistakes and risks. To stay informed, follow official AI labs and trusted experts who share clear, accurate insights. Using curated sources like Twitter feeds and newsletters makes learning about AI easier and more enjoyable.
-- [How I Use Claude Code to Ship Like a Team of Five](https://every.to/source-code/how-i-use-claude-code-to-ship-like-a-team-of-five?utm_source=substack&utm_medium=email) 👤 Kieran Klaassen 💬 3400 🔖 #llm 🗓️ 2025-07-20
+- [How I Use Claude Code to Ship Like a Team of Five](https://every.to/source-code/how-i-use-claude-code-to-ship-like-a-team-of-five?utm_source=substack&utm_medium=email) 👤 Kieran Klaassen 💬 3400 🔖 #llm, #joyandcuriosity 🗓️ 2025-07-20
     > **Резюме:** Kieran Klaassen uses Claude Code, an AI tool that writes code and handles tasks like a helpful teammate. This lets him focus on directing work instead of coding, speeding up software development. Claude Code also helps with debugging, reviewing, and managing issues, making programming easier and faster.
 - [Coding with LLMs in the summer of 2025 (an update)](http://antirez.com/news/154) 👤 antirez.com 💬 1292 🔖 #llm 🗓️ 2025-07-20
     > **Резюме:** Frontier large language models (LLMs) like Gemini 2.5 PRO can greatly help programmers by finding bugs, speeding up testing, and supporting design work. To get the best results, humans must actively guide the LLMs with clear communication and large context, rather than letting AI work alone. While AI coding agents are improving, the current best approach is a close human-AI collaboration where the programmer stays in control.

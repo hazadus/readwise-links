@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [How to Become a Time Billionaire](https://www.joanwestenberg.com/p/how-to-become-a-time-billionaire-d50677ce6215ea8a) 👤 Joan Westenberg 💬 1726 🔖 #time management 🗓️ 2025-07-05
+    > **Резюме:** Time is our most valuable and non-renewable asset, yet we often give it away without realizing its true cost. To become a "time billionaire," we must protect our hours by saying no to distractions and reclaim control over how we spend our time. True wealth comes from owning your schedule, focusing deeply, and creating space for what truly matters.
 - [Вашу продуктивность убивает многозадачность. У нас есть доказательства](https://kinzhal.media/productivity-multitasking/) 👤 Максим Ильяхов 💬 1043 🔖 #time management 🗓️ 2025-05-28
     > **Заметка:** Надо было тут ещё про таймбоксинг написать
     > **Резюме:** Многозадачность снижает продуктивность, так как требует постоянного переключения между задачами и приводит к управленческой суете. Чтобы работать эффективнее, нужно уменьшить количество параллельных задач и отвлечений. Важно планировать работу так, чтобы не начинать дела, которые могут быть приостановлены, и сосредотачиваться на завершении текущих задач.

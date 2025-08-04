@@ -1,11 +1,18 @@
 # Архивные ссылки
 
-- Всего ссылок: 865
+- Всего ссылок: 872
 
 ## Ссылки
 
+- [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds) 👤 geoffreylitt.com 💬 765 🗓️ 2025-08-03
+- [Agentic Coding Things That Didn’t Work](https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/?utm_source=substack&utm_medium=email) 👤 Armin Ronacher 💬 1848 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-03
+- [Claude Code is a Slot Machine](https://rgoldfinger.com/blog/2025-07-26-claude-code-is-a-slot-machine/?utm_source=substack&utm_medium=email) 👤 rgoldfinger.com 💬 414 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-03
+    > **Заметка:** Остроумная аналогия Клода и "однорукого бандита" 🤔
+- [From trying to impress engineers to trying to impress managers](https://seangoedecke.com/impressing-people/) 👤 seangoedecke.com 💬 1335 🔖 #career 🗓️ 2025-08-02
 - [Vibe code is legacy code](https://blog.val.town/vibe-code) 👤 Wed 💬 889 🔖 #llm, #toot 🗓️ 2025-07-31
     > **Заметка:** Интересная аналогия с легаси, и очень прикольная - с кредиткой.
+- [Better alternative to shell scripts with Python, uv and pytest](https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/) 👤 Juha-Matti Santala 💬 1312 🔖 #uv, #try, #toot, #pytest, #python 🗓️ 2025-07-30
+    > **Заметка:** Отличная шпаргалка о запуске самодостаточных Python-скриптов, ещё и возможность встраивания тестов описана
 - [The refusal problem in large language models](https://seangoedecke.com/the-refusal-problem/) 👤 seangoedecke.com 💬 888 🔖 #llm 🗓️ 2025-07-30
 - [Writing is thinking](https://www.nature.com/articles/s44222-025-00323-4#Bib1) 👤 Nature 💬 704 🔖 #llm, #writing 🗓️ 2025-07-28
 - [Let's Ask An LLM • The Applied Go Weekly Newsletter 2025-07-27](https://newsletter.appliedgo.net/archive/2025-07-27-lets-ask-an-llm/) 👤 The Applied Go Weekly Newsletter 💬 1565 🔖 #go, #llm 🗓️ 2025-07-28
@@ -21,7 +28,7 @@
 - [Как научить нейросеть работать руками: создание полноценного ИИ-агента с MCP и LangGraph за час](https://habr.com/ru/companies/amvera/articles/929568/) 👤 yakvenalex 💬 4800 🔖 #llm, #try, #agents, #langchain, #langgraph 🗓️ 2025-07-22
 - [The Business Case for Vanilla JS](https://lewiscampbell.tech/blog/250430.html) 👤 lewiscampbell.tech 💬 742 🔖 #javascript 🗓️ 2025-07-21
 - [NIH Is Far Cheaper Than The Wrong Dependency](https://lewiscampbell.tech/blog/250718.html?utm_source=substack&utm_medium=email) 👤 lewiscampbell.tech 💬 433 🗓️ 2025-07-20
-- [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration 🗓️ 2025-07-20
+- [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration, #joyandcuriosity 🗓️ 2025-07-20
     > **Заметка:** Отличная подборка источников. На некоторые был подписан. На несколько подписался. 
 - [Coding with LLMs in the summer of 2025 (an update)](http://antirez.com/news/154) 👤 antirez.com 💬 1292 🔖 #llm 🗓️ 2025-07-20
 - [Welcoming The Next Generation of Programmers](https://lucumr.pocoo.org/2025/7/20/the-next-generation/) 👤 Armin Ronacher 💬 757 🔖 #llm, #python 🗓️ 2025-07-20
@@ -55,6 +62,7 @@
 - [How to become passionate about delivering shareholder value](https://seangoedecke.com/shareholder-value/) 👤 seangoedecke.com 💬 1435 🔖 #career 🗓️ 2025-07-05
 - [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
 - [Identify, solve, verify](https://simonwillison.net/2025/Jul/4/identify-solve-verify/#atom-everything) 👤 Simon Willison 💬 178 🔖 #llm 🗓️ 2025-07-05
+- [How to Become a Time Billionaire](https://www.joanwestenberg.com/p/how-to-become-a-time-billionaire-d50677ce6215ea8a) 👤 Joan Westenberg 💬 1726 🔖 #time management 🗓️ 2025-07-05
 - [The Unbearable Lightness of Cringe](mailto:reader-forwarded-email/a6dac3498a092d9e0831a96c395f8972) 👤 Joan Westenberg 💬 1115 🗓️ 2025-07-04
 - [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/#tools-vs-identity) 👤 Adam Gordon Bell 💬 8453 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-03
 - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/) 👤 Armin Ronacher's Thoughts and Writings 💬 2144 🔖 #llm, #mcp 🗓️ 2025-07-03
@@ -256,6 +264,7 @@
 - [Domain-Driven Design: зачем он нужен аналитику и как его применять на практике](https://habr.com/ru/articles/908782/) 👤 innokentyBo 💬 1807 🔖 #ddd 🗓️ 2025-05-13
 - [How to make a Link Aggregator in Obsidian](https://daverupert.com/2025/05/obsidian-link-aggregator/) 👤 Dave Rupert 💬 913 🔖 #inspiration 🗓️ 2025-05-13
 - [FastAPI + Keycloak: Простая и безопасная авторизация в веб-приложении на примере реального проекта](https://habr.com/ru/companies/amvera/articles/907990/) 👤 yakvenalex 💬 6616 🔖 #try, #fastapi 🗓️ 2025-05-12
+- [Горький урок ABBYY: как лингвисты проиграли последнюю битву за NLP](https://sysblok.ru/blog/gorkij-urok-abbyy-kak-lingvisty-proigrali-poslednjuju-bitvu-za-nlp/) 👤 Даниил Скоринкин 💬 4611 🗓️ 2025-05-12
 - [Why can't language models come up with new ideas?](https://seangoedecke.com/why-cant-ais-have-new-ideas/) 👤 seangoedecke.com 💬 1192 🔖 #llm 🗓️ 2025-05-12
 - [The importance of character in software engineering](https://seangoedecke.com/character-in-software-engineering/) 👤 seangoedecke.com 💬 1052 🔖 #career, #development, #soft skills, #communication 🗓️ 2025-05-10
 - [Microservices Are a Tax Your Startup Probably Can’t Afford](https://nexo.sh/posts/microservices-for-startups/) 👤 Oleg Pustovit 💬 3501 🔖 #inspiration, #architecture, #microservices 🗓️ 2025-05-10

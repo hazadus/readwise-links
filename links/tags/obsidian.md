@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 16
+- Всего ссылок: 17
 
 ## Ссылки
 
+- [Self-host Obsidian using Docker and Access it Via Web Browser](https://linuxhandbook.com/obsidian-docker-self-host/?ref=Obsidian+Rocks+Newsletter) 👤 Linux Handbook 💬 1042 🔖 #try, #obsidian 🗓️ 2025-08-03
+    > **Резюме:** You can self-host Obsidian using Docker to access your notes via a web browser without needing desktop or mobile apps. This setup keeps all your data local and lets you avoid paid syncing services. It is easy to deploy and works well for people who want full control over their note-taking.
 - [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain) 👤 Joan Westenberg 💬 1429 🔖 #pkm, #obsidian, #inspiration 🗓️ 2025-06-18
     > **Заметка:** Радикальный взгляд на PKM. Много интересных мыслей. 
     > **Резюме:** Joan Westenberg deleted her extensive collection of notes and ideas, finding relief in the silence that followed. She realized that her "second brain" had become a burden, complicating her thoughts instead of helping them. Now, she aims to simplify her approach to knowledge, focusing on living her ideas rather than just storing them.

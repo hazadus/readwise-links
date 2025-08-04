@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 39
+- Всего ссылок: 41
 
 ## Ссылки
 
+- [Self-host Obsidian using Docker and Access it Via Web Browser](https://linuxhandbook.com/obsidian-docker-self-host/?ref=Obsidian+Rocks+Newsletter) 👤 Linux Handbook 💬 1042 🔖 #try, #obsidian 🗓️ 2025-08-03
+    > **Резюме:** You can self-host Obsidian using Docker to access your notes via a web browser without needing desktop or mobile apps. This setup keeps all your data local and lets you avoid paid syncing services. It is easy to deploy and works well for people who want full control over their note-taking.
+- [Better alternative to shell scripts with Python, uv and pytest](https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/) 👤 Juha-Matti Santala 💬 1312 🔖 #uv, #try, #toot, #pytest, #python 🗓️ 2025-07-30
+    > **Заметка:** Отличная шпаргалка о запуске самодостаточных Python-скриптов, ещё и возможность встраивания тестов описана
+    > **Резюме:** Python with the tool uv offers a better way to write small scripts instead of using shell scripts. It handles dependencies easily and supports inline metadata for cleaner scripts. Adding tests with pytest and managing scripts with simple commands makes scripting safer and more efficient.
 - [Prompting with LLM](https://building-with-llms-pycon-2025.readthedocs.io/en/latest/prompting.html) 👤 building-with-llms-pycon-2025.readthedocs.io 💬 975 🔖 #llm, #try 🗓️ 2025-07-27
     > **Резюме:** The text explains how to use the LLM command-line interface, starting with setting a default model and running prompts. It discusses features like logging conversations and using different models, as well as enhancing prompts with fragments and system prompts. Additionally, it highlights the ability to attach images and utilize plugins for advanced functionality.
 - [Как научить нейросеть работать руками: создание полноценного ИИ-агента с MCP и LangGraph за час](https://habr.com/ru/companies/amvera/articles/929568/) 👤 yakvenalex 💬 4800 🔖 #llm, #try, #agents, #langchain, #langgraph 🗓️ 2025-07-22
