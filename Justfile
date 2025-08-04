@@ -8,3 +8,7 @@ format:
 # Запустить скрапер
 scrape:
     uv run ./app/scrape.py
+
+# Сгенерировать сообщение коммита (см. https://github.com/hazadus/gh-commitmsg)
+commitmsg:
+    gh commitmsg --language russian --examples
