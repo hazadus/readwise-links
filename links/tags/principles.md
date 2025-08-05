@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 8
 
 ## Ссылки
 
+- [What "Parse, don't validate" means in Python?](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) 👤 Bite Code! 💬 2381 🔖 #python, #principles 🗓️ 2025-07-23
+    > **Резюме:** "Parse, don't validate" means you should convert input into the right type with understanding, not just check if it looks correct. In Python, parsing includes validation because it tries to make data meaningful and trustworthy for the rest of the code. How much you parse depends on your needs, but parsing helps catch errors early and creates clear, reliable code.
 - [Перестаньте молиться на принципы S.O.L.I.D](https://habr.com/ru/articles/874584/) 👤 varanio 💬 1291 🔖 #principles 🗓️ 2025-07-01
     > **Резюме:** Автор статьи критикует слепое следование принципам SOLID в разработке программного обеспечения, утверждая, что они часто неправильно интерпретируются и могут усложнять код. Он подчеркивает важность контекста и предлагает рассматривать эти принципы как полезные инструменты, а не как строгие правила. Основная цель разработки — создание понятного и поддерживаемого кода, что иногда требует отхода от традиционных принципов.
 - [Repeat Yourself](https://endler.dev/2025/repeat-yourself/) 👤 Matthias Endler 💬 1624 🔖 #principles, #development 🗓️ 2025-06-24

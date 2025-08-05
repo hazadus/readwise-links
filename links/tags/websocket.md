@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
@@ -14,6 +14,9 @@
     > **Резюме:** The author shares their journey of building a multiplayer Snake game using socket.io and HTML5 Canvas, starting from simple concepts to more complex mechanics. They faced challenges with lag and synchronization between the client and server, learning the importance of game design choices to manage these issues. Ultimately, they created a playable game by implementing slow acceleration mechanics and providing instant feedback to players.
 - [Пишем морской бой на VueJS и Python](https://habr.com/ru/articles/874188/) 👤 Green21 💬 5065 🔖 #vue, #fastapi, #websocket 🗓️ 2025-01-20
     > **Резюме:** The article explains how to create the popular game "Battleship" using VueJS and Python. Players must enter a nickname and complete a simple captcha before arranging their ships on the grid. The game continues until one player sinks all of the opponent's ships, and players can restart by refreshing the page.
+- [Best Network Technologies](https://nyadgar.com/posts/best-network-technologies/) 👤 Noam Yadgar 💬 3402 🔖 #api, #grpc, #network, #interview, #websocket 🗓️ 2025-01-20
+    > **Заметка:** Хороший краткий обзор протоколов, работающих на основе TCP/IP. Рассмотрены "за" и "против" при их выборе.
+    > **Резюме:** The article discusses various network technologies and software design patterns for communication, focusing on TCP/IP as the backbone of the internet. It highlights protocols like REST, GraphQL, and WebSocket for application-level communication, as well as the role of message brokers in managing connections between microservices. The author emphasizes the importance of choosing the right protocol based on specific use cases and requirements.
 - [Server-Sent Events vs WebSockets – How to Choose a Real-Time Data Exchange Protocol](https://www.freecodecamp.org/news/server-sent-events-vs-websockets/) 👤 freeCodeCamp.org 💬 5470 🔖 #sse, #websocket 🗓️ 2025-01-06
     > **Резюме:** This article explains the differences between WebSockets and Server-Sent Events (SSE), two protocols for real-time data exchange in web applications. WebSockets allow two-way communication for instant data transfer, making them ideal for chat apps and online games. In contrast, SSE provides one-way communication from the server to the client, which is useful for streaming updates like stock prices.
 - [Implementing WebSocket Communication and Heartbeat Mechanism with GoFrame: A Hands-on Guide](https://dev.to/jones_charles_ad50858dbc0/implementing-websocket-communication-and-heartbeat-mechanism-with-goframe-a-hands-on-guide-44df) 👤 DEV Community 💬 716 🔖 #go, #websocket 🗓️ 2024-12-22

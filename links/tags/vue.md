@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [12 Design Patterns in Vue](https://michaelnthiessen.com/12-design-patterns-vue) 👤 michaelnthiessen.com 💬 1662 🔖 #vue 🗓️ 2025-08-04
+    > **Резюме:** The article discusses 12 design patterns specifically for Vue, highlighting their importance in writing maintainable code. It introduces concepts like Thin Composables, Humble Components, and the Strategy Pattern, showing how to simplify and organize Vue applications. For more detailed examples and additional patterns, readers can explore further resources provided in the article.
 - [Vercel BUYING NuxtLabs - What it means for you!](https://www.youtube.com/watch?v=NiQB7QPJAiM) 👤 Alexander Lichter 🔖 #vue, #nuxt 🗓️ 2025-07-13
     > **Резюме:** This week's acquisition of NuxtLabs was a suprise for most of us - but what does it mean for Nuxt as a framework, for the community and for YOU?!
 

@@ -1,11 +1,17 @@
 # Новые ссылки
 
-- Всего ссылок: 820
+- Всего ссылок: 827
 
 ## Ссылки
 
-- [Using AI Without Leaving the Terminal: A Guide to llm](https://kashw1n.com/blog/llm-cli/) 👤 kashw1n.com 💬 1184 🔖 #llm 🗓️ 2025-08-03
-    > **Заметка:** Хорошая шпаргалка по утилите Саймона
+- [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/) 👤 Jake Lazaroff 💬 4002 🔖 #diy 🗓️ 2025-08-04
+- [12 Design Patterns in Vue](https://michaelnthiessen.com/12-design-patterns-vue) 👤 michaelnthiessen.com 💬 1662 🔖 #vue 🗓️ 2025-08-04
+- [linuxserver/obsidian¶](https://docs.linuxserver.io/images/docker-obsidian/) 👤 LinuxServer.io 💬 1521 🔖 #obsidian, #selfhost 🗓️ 2025-08-04
+- [Гайд по кастомизации vscode: горячие клавиши вместо глобальных менюшек](https://www.youtube.com/watch?v=wxbifNb1Q1o) 👤 Никита Соболев 🗓️ 2025-08-04
+- [Создание умных AI-агентов: полный курс по LangGraph от А до Я. Часть 1. Архитектура: графы, узлы и состояния](https://habr.com/ru/companies/amvera/articles/933460/) 👤 yakvenalex 💬 5040 🗓️ 2025-08-04
+- [Find new blogs to follow from this year’s Blaugust participants](https://hamatti.org/posts/find-new-blogs-to-follow-from-this-years-blaugust-participants/) 👤 Juha-Matti Santala 💬 409 🗓️ 2025-08-04
+- [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) 👤 Redowan Delowar 💬 1179 🔖 #go 🗓️ 2025-08-04
+- [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) 👤 Software Engineering & Personal Thoughts 💬 1511 🗓️ 2025-08-04
 - [The Atrocity Archives](private://read/01k1d3zamj69t631a9zk0vc29p) 👤 Charles Stross 💬 112070 🗓️ 2025-07-30
 - [Как создать MCP-сервер и научить ИИ работать с любым кодом и инструментами через LangGraph](https://habr.com/ru/companies/amvera/articles/931874/) 👤 yakvenalex 💬 7645 🗓️ 2025-07-29
 - [Обзор RoboCop: Rogue City - Unfinished Business - Отдых от душнины типа Call Of Duty I Битый Пиксель](https://www.youtube.com/watch?v=KJ89Pq9SHd8) 👤 Битый Пиксель 🗓️ 2025-07-28

@@ -1,12 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 62
+- Всего ссылок: 63
 
 ## Ссылки
 
 - [Better alternative to shell scripts with Python, uv and pytest](https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/) 👤 Juha-Matti Santala 💬 1312 🔖 #uv, #try, #toot, #pytest, #python 🗓️ 2025-07-30
     > **Заметка:** Отличная шпаргалка о запуске самодостаточных Python-скриптов, ещё и возможность встраивания тестов описана
     > **Резюме:** Python with the tool uv offers a better way to write small scripts instead of using shell scripts. It handles dependencies easily and supports inline metadata for cleaner scripts. Adding tests with pytest and managing scripts with simple commands makes scripting safer and more efficient.
+- [What "Parse, don't validate" means in Python?](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) 👤 Bite Code! 💬 2381 🔖 #python, #principles 🗓️ 2025-07-23
+    > **Резюме:** "Parse, don't validate" means you should convert input into the right type with understanding, not just check if it looks correct. In Python, parsing includes validation because it tries to make data meaningful and trustworthy for the rest of the code. How much you parse depends on your needs, but parsing helps catch errors early and creates clear, reliable code.
 - [Welcoming The Next Generation of Programmers](https://lucumr.pocoo.org/2025/7/20/the-next-generation/) 👤 Armin Ronacher 💬 757 🔖 #llm, #python 🗓️ 2025-07-20
     > **Резюме:** The Python community welcomes new programmers who use AI tools like ChatGPT to create code. AI will likely bring many more people into programming, not fewer. The community should support and connect these newcomers to help them grow and learn important skills.
 - [What's up Python? Mypy gets better, uv faster, FastApi easier, Emscripten formal...er](https://www.bitecode.dev/p/whats-up-python-mypy-gets-better) 👤 Bite Code! 💬 1296 🔖 #uv, #mypy, #python, #fastapi 🗓️ 2025-07-07

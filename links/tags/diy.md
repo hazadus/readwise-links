@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 25
+- Всего ссылок: 26
 
 ## Ссылки
 
+- [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/) 👤 Jake Lazaroff 💬 4002 🔖 #diy 🗓️ 2025-08-04
+    > **Резюме:** The document explains how to build a collaborative pixel art editor using CRDTs, focusing on creating a PixelEditor class to handle interactions with the canvas. The class helps manage drawing colors, handling events on the canvas, setting pixels, and drawing lines between coordinates. By using CRDTs, the editor can merge states between different instances, enabling synchronized editing on multiple canvases. The detailed breakdown covers setting up the editor, managing colors, handling events, drawing pixels, and implementing line drawing for a smooth user experience.
 - [Let's Write a JSON Parser From Scratch](https://beyondthesyntax.substack.com/p/lets-write-a-json-parser-from-scratch) 👤 Sushant Dhiman 💬 1013 🔖 #go, #diy 🗓️ 2025-07-15
     > **Резюме:** The author shares their experience of creating a JSON parser from scratch, starting with a tokenizer that breaks down JSON strings into tokens. They explain the process of parsing, which involves converting these tokens into an abstract syntax tree. The article aims to help readers understand JSON parsing in a simplified manner.
 - [Writing Toy Software Is A Joy](https://www.jsbarretto.com/blog/software-is-joy/) 👤 Joshua Barretto 💬 1966 🔖 #diy 🗓️ 2025-06-16

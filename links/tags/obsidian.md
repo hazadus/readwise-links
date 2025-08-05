@@ -1,10 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 17
+- Всего ссылок: 18
 
 ## Ссылки
 
-- [Self-host Obsidian using Docker and Access it Via Web Browser](https://linuxhandbook.com/obsidian-docker-self-host/?ref=Obsidian+Rocks+Newsletter) 👤 Linux Handbook 💬 1042 🔖 #try, #obsidian 🗓️ 2025-08-03
+- [linuxserver/obsidian¶](https://docs.linuxserver.io/images/docker-obsidian/) 👤 LinuxServer.io 💬 1521 🔖 #obsidian, #selfhost 🗓️ 2025-08-04
+    > **Резюме:** Obsidian is a note-taking app that runs in a Docker container with support for multiple platforms and GPU acceleration. The container requires HTTPS for full functionality and can be secured with basic auth or a reverse proxy. Users can customize settings with environment variables, install apps persistently, and update containers by recreating them.
+- [Self-host Obsidian using Docker and Access it Via Web Browser](https://linuxhandbook.com/obsidian-docker-self-host/?ref=Obsidian+Rocks+Newsletter) 👤 Linux Handbook 💬 1042 🔖 #try, #obsidian, #selfhost 🗓️ 2025-08-03
     > **Резюме:** You can self-host Obsidian using Docker to access your notes via a web browser without needing desktop or mobile apps. This setup keeps all your data local and lets you avoid paid syncing services. It is easy to deploy and works well for people who want full control over their note-taking.
 - [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain) 👤 Joan Westenberg 💬 1429 🔖 #pkm, #obsidian, #inspiration 🗓️ 2025-06-18
     > **Заметка:** Радикальный взгляд на PKM. Много интересных мыслей. 

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 8
 
 ## Ссылки
 
+- [Best Network Technologies](https://nyadgar.com/posts/best-network-technologies/) 👤 Noam Yadgar 💬 3402 🔖 #api, #grpc, #network, #interview, #websocket 🗓️ 2025-01-20
+    > **Заметка:** Хороший краткий обзор протоколов, работающих на основе TCP/IP. Рассмотрены "за" и "против" при их выборе.
+    > **Резюме:** The article discusses various network technologies and software design patterns for communication, focusing on TCP/IP as the backbone of the internet. It highlights protocols like REST, GraphQL, and WebSocket for application-level communication, as well as the role of message brokers in managing connections between microservices. The author emphasizes the importance of choosing the right protocol based on specific use cases and requirements.
 - [Pt.1 - How to design a RESTful API architecture from a human-language spec – O’Reilly](https://www.oreilly.com/content/how-to-design-a-restful-api-architecture-from-a-human-language-spec/) 👤 Filipe Ximenes, Flávio Juvenal 💬 3974 🔖 #api, #rest 🗓️ 2024-01-31
     > **Резюме:** A process to build RESTful APIs that solve users’ needs with simplicity, reliability, and performance.
 - [Build APIs You Won't Hate](https://apisyouwonthate.com/books/build-apis-you-wont-hate/) 👤 Phil Sturgeon 💬 378 🔖 #api, #book 🗓️ 2024-01-31

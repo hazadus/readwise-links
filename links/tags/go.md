@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 216
+- Всего ссылок: 217
 
 ## Ссылки
 
+- [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) 👤 Redowan Delowar 💬 1179 🔖 #go 🗓️ 2025-08-04
+    > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
 - [Let's Ask An LLM • The Applied Go Weekly Newsletter 2025-07-27](https://newsletter.appliedgo.net/archive/2025-07-27-lets-ask-an-llm/) 👤 The Applied Go Weekly Newsletter 💬 1565 🔖 #go, #llm 🗓️ 2025-07-28
     > **Резюме:** This newsletter shows how easy it is to call large language models (LLMs) like OpenAI's from Go code using simple HTTP requests. It explains how LLMs can turn natural language into SQL queries for apps, making fuzzy inputs easy to handle. The author encourages using AI pragmatically to solve tasks that need understanding beyond simple algorithms.
 - [Gist of Go: Signaling](https://antonz.org/go-concurrency/signaling/) 👤 Anton Zhiyanov 💬 3912 🔖 #go 🗓️ 2025-07-21

@@ -1,11 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
 - [gRPC API Gateway: Bridging the Gap Between REST and gRPC](https://zuplo.com/blog/2025/04/09/grpc-api-gateway) 👤 Peyman Motrtazavi 💬 2001 🔖 #grpc 🗓️ 2025-04-18
     > **Резюме:** gRPC API Gateway helps connect gRPC services with REST APIs, making it easier for external clients to access high-performance gRPC features. It offers flexible configuration and extensive documentation while enhancing error handling and streaming support. Future improvements include dynamic proxy capabilities and support for multiple programming languages.
+- [Best Network Technologies](https://nyadgar.com/posts/best-network-technologies/) 👤 Noam Yadgar 💬 3402 🔖 #api, #grpc, #network, #interview, #websocket 🗓️ 2025-01-20
+    > **Заметка:** Хороший краткий обзор протоколов, работающих на основе TCP/IP. Рассмотрены "за" и "против" при их выборе.
+    > **Резюме:** The article discusses various network technologies and software design patterns for communication, focusing on TCP/IP as the backbone of the internet. It highlights protocols like REST, GraphQL, and WebSocket for application-level communication, as well as the role of message brokers in managing connections between microservices. The author emphasizes the importance of choosing the right protocol based on specific use cases and requirements.
 - [From net/rpc to gRPC in Go Applications](https://victoriametrics.com/blog/go-net-rpc/) 👤 VictoriaMetrics 💬 20 🔖 #go, #grpc 🗓️ 2024-12-24
     > **Резюме:** The net/rpc package in Go demonstrates basic RPC concepts by establishing TCP connections between clients and servers, using sequence numbers to match requests with responses, and supporting both gob (Go-specific) and JSON codecs for data serialization. While net/rpc is simpler and limited to Go services by default, gRPC offers advanced features like HTTP/2 streaming, cross-language support, and better performance
 - [Introduction to gRPC in Go](mailto:reader-forwarded-email/209fa8d8e65c6774b959dc7556e9b07e) 👤 Jon Calhoun 💬 1882 🔖 #go, #grpc 🗓️ 2024-11-05

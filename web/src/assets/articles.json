@@ -1,5 +1,250 @@
 [
     {
+        "id": "01k1thav2k5ht7py6yebaafhfk",
+        "url": "https://read.readwise.io/read/01k1thav2k5ht7py6yebaafhfk",
+        "source_url": "https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/",
+        "title": "Building a Collaborative Pixel Art Editor with CRDTs",
+        "author": "Jake Lazaroff",
+        "source": "Reader add from import URL",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "diy": {
+                "name": "DIY",
+                "type": "manual",
+                "created": 1754311004285
+            }
+        },
+        "site_name": "jakelazaroff.com",
+        "word_count": 4002,
+        "notes": "",
+        "summary": "The document explains how to build a collaborative pixel art editor using CRDTs, focusing on creating a PixelEditor class to handle interactions with the canvas. The class helps manage drawing colors, handling events on the canvas, setting pixels, and drawing lines between coordinates. By using CRDTs, the editor can merge states between different instances, enabling synchronized editing on multiple canvases. The detailed breakdown covers setting up the editor, managing colors, handling events, drawing pixels, and implementing line drawing for a smooth user experience.",
+        "image_url": "https://jakelazaroff.com/og/building-a-collaborative-pixel-art-editor-with-crdts.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2023-10-10",
+        "created_at": "2025-08-04T12:36:35.381542+00:00",
+        "updated_at": "2025-08-04T12:36:44.253849+00:00",
+        "saved_at": "2025-08-04T12:36:35.027000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-04T12:36:35.027000+00:00"
+    },
+    {
+        "id": "01k1tfb42qag0rtdvet4q12xj3",
+        "url": "https://read.readwise.io/read/01k1tfb42qag0rtdvet4q12xj3",
+        "source_url": "https://michaelnthiessen.com/12-design-patterns-vue",
+        "title": "12 Design Patterns in Vue",
+        "author": "michaelnthiessen.com",
+        "source": "Reader add from import URL",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "vue": {
+                "name": "Vue",
+                "type": "manual",
+                "created": 1754308917624
+            }
+        },
+        "site_name": "michaelnthiessen.com",
+        "word_count": 1662,
+        "notes": "",
+        "summary": "The article discusses 12 design patterns specifically for Vue, highlighting their importance in writing maintainable code. It introduces concepts like Thin Composables, Humble Components, and the Strategy Pattern, showing how to simplify and organize Vue applications. For more detailed examples and additional patterns, readers can explore further resources provided in the article.",
+        "image_url": "",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2024-06-03",
+        "created_at": "2025-08-04T12:01:47.255829+00:00",
+        "updated_at": "2025-08-04T12:01:57.702601+00:00",
+        "saved_at": "2025-08-04T12:01:47.095000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-04T12:01:47.095000+00:00"
+    },
+    {
+        "id": "01k1teex796b9zqds7g73szg58",
+        "url": "https://read.readwise.io/read/01k1teex796b9zqds7g73szg58",
+        "source_url": "https://docs.linuxserver.io/images/docker-obsidian/",
+        "title": "linuxserver/obsidian¶",
+        "author": "LinuxServer.io",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "obsidian": {
+                "name": "Obsidian",
+                "type": "manual",
+                "created": 1754308926727
+            },
+            "selfhost": {
+                "name": "SelfHost",
+                "type": "manual",
+                "created": 1754308924152
+            }
+        },
+        "site_name": "linuxserver.io",
+        "word_count": 1521,
+        "notes": "",
+        "summary": "Obsidian is a note-taking app that runs in a Docker container with support for multiple platforms and GPU acceleration. The container requires HTTPS for full functionality and can be secured with basic auth or a reverse proxy. Users can customize settings with environment variables, install apps persistently, and update containers by recreating them.",
+        "image_url": "",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-07-25",
+        "created_at": "2025-08-04T11:46:24.001497+00:00",
+        "updated_at": "2025-08-04T12:02:06.692833+00:00",
+        "saved_at": "2025-08-04T11:46:22.568000+00:00",
+        "first_opened_at": "2025-08-04T11:46:22.568000+00:00",
+        "last_opened_at": "2025-08-04T11:46:22.568000+00:00",
+        "last_moved_at": "2025-08-04T11:46:22.568000+00:00"
+    },
+    {
+        "id": "01k1tbvsb2vr93vf3gpbqmcp12",
+        "url": "https://read.readwise.io/read/01k1tbvsb2vr93vf3gpbqmcp12",
+        "source_url": "https://www.youtube.com/watch?v=wxbifNb1Q1o",
+        "title": "Гайд по кастомизации vscode: горячие клавиши вместо глобальных менюшек",
+        "author": "Никита Соболев",
+        "source": "Reader add from import URL",
+        "category": "video",
+        "location": "new",
+        "tags": {},
+        "site_name": "YouTube",
+        "word_count": null,
+        "notes": "",
+        "summary": "Никита Соболев показывает, как настроить горячие клавиши в VSCode для удобной и минималистичной работы. Он советует убрать лишние панели и использовать шорткаты для быстрого доступа к нужным функциям. В итоге рабочее пространство становится проще и эффективнее для программирования.",
+        "image_url": "https://i.ytimg.com/vi/wxbifNb1Q1o/maxresdefault.jpg",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-08-04",
+        "created_at": "2025-08-04T11:00:58.912758+00:00",
+        "updated_at": "2025-08-04T11:04:20.212648+00:00",
+        "saved_at": "2025-08-04T11:00:58.850000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-04T11:00:58.850000+00:00"
+    },
+    {
+        "id": "01k1swtazh3p5q1ea6cqkmtqag",
+        "url": "https://read.readwise.io/read/01k1swtazh3p5q1ea6cqkmtqag",
+        "source_url": "https://habr.com/ru/companies/amvera/articles/933460/",
+        "title": "Создание умных AI-агентов: полный курс по LangGraph от А до Я. Часть 1. Архитектура: графы, узлы и состояния",
+        "author": "yakvenalex",
+        "source": "Reader add from import URL",
+        "category": "article",
+        "location": "new",
+        "tags": {},
+        "site_name": "Хабр",
+        "word_count": 5040,
+        "notes": "",
+        "summary": "LangGraph помогает создавать умных AI-агентов с помощью графов, узлов и состояний. Каждый узел выполняет задачу и меняет состояние, а рёбра показывают порядок действий. В следующей части курса покажут, как связать графы с нейросетями для создания настоящего AI-агента.",
+        "image_url": "https://habrastorage.org/getpro/habr/upload_files/309/37b/5c7/30937b5c70f8fb2139971ee089d8ceca.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-08-04",
+        "created_at": "2025-08-04T06:38:02.964062+00:00",
+        "updated_at": "2025-08-04T06:38:06.540974+00:00",
+        "saved_at": "2025-08-04T06:38:02.737000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-04T06:38:02.737000+00:00"
+    },
+    {
+        "id": "01k1sv7p12f53qrs81cgwn0skm",
+        "url": "https://read.readwise.io/read/01k1sv7p12f53qrs81cgwn0skm",
+        "source_url": "https://hamatti.org/posts/find-new-blogs-to-follow-from-this-years-blaugust-participants/",
+        "title": "Find new blogs to follow from this year’s Blaugust participants",
+        "author": "Juha-Matti Santala",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {},
+        "site_name": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+        "word_count": 409,
+        "notes": "",
+        "summary": "Blaugust is a fun event with over 100 bloggers sharing new content this year. You can find many new blogs to follow by downloading a shared list of RSS feeds or checking a compiled list online. The author highlights a few favorite blogs, including digital gardens, Python developers, and gaming writers.",
+        "image_url": "https://hamatti.org/assets/img/posts/find-new-blogs-to-follow-from-this-years-blaugust-participants/find-new-blogs-to-follow-from-this-years-blaugust-participants-cover.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-08-03",
+        "created_at": "2025-08-04T06:10:22.907583+00:00",
+        "updated_at": "2025-08-04T06:10:28.942772+00:00",
+        "saved_at": "2025-08-04T06:10:22.882000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-04T06:10:22.882000+00:00"
+    },
+    {
+        "id": "01k1sv73j1ksk35k38e375h0b7",
+        "url": "https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7",
+        "source_url": "http://rednafi.com/go/gateway_pattern/",
+        "title": "Gateway pattern to invoke external dependencies",
+        "author": "Redowan Delowar",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "go": {
+                "name": "Go",
+                "type": "manual",
+                "created": 1754287807841
+            }
+        },
+        "site_name": "Redowan's Reflections",
+        "word_count": 1179,
+        "notes": "",
+        "summary": "The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.",
+        "image_url": "https://blob.rednafi.com/static/images/home/cover.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-08-03",
+        "created_at": "2025-08-04T06:10:03.993765+00:00",
+        "updated_at": "2025-08-04T06:10:07.847643+00:00",
+        "saved_at": "2025-08-04T06:10:03.969000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-04T06:10:03.969000+00:00"
+    },
+    {
+        "id": "01k1sq2twnr81ds7s9twvd6kx2",
+        "url": "https://read.readwise.io/read/01k1sq2twnr81ds7s9twvd6kx2",
+        "source_url": "https://getpid.dev/blog/tls-certificates/",
+        "title": "Issuing TLS Certificates in Go",
+        "author": "Software Engineering & Personal Thoughts",
+        "source": "Reader add from import URL",
+        "category": "article",
+        "location": "new",
+        "tags": {},
+        "site_name": "Software Engineering & Personal Thoughts",
+        "word_count": 1511,
+        "notes": "",
+        "summary": "This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.",
+        "image_url": "https://getpid.dev/images/certificates.svg",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-08-01",
+        "created_at": "2025-08-04T04:57:49.757159+00:00",
+        "updated_at": "2025-08-04T04:57:52.421564+00:00",
+        "saved_at": "2025-08-04T04:57:49.717000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-04T04:57:49.717000+00:00"
+    },
+    {
         "id": "01k1ry71gy1gja3yz7p56xhdv5",
         "url": "https://read.readwise.io/read/01k1ry71gy1gja3yz7p56xhdv5",
         "source_url": "https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds",
@@ -67,17 +312,27 @@
         "author": "kashw1n.com",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "archive",
         "tags": {
+            "cli": {
+                "name": "CLI",
+                "type": "manual",
+                "created": 1754305405904
+            },
             "llm": {
                 "name": "LLM",
                 "type": "manual",
                 "created": 1754255961166
+            },
+            "toot": {
+                "name": "Toot",
+                "type": "manual",
+                "created": 1754305411727
             }
         },
         "site_name": "kashw1n.com",
         "word_count": 1184,
-        "notes": "Хорошая шпаргалка по утилите Саймона",
+        "notes": "Хорошая шпаргалка по утилите llm Саймона с дельными сценариями использования.",
         "summary": "llm is a command-line tool that lets you use many AI models directly in the terminal. It saves conversations automatically and works well with files, pipes, and plugins. This tool helps developers work faster by combining AI with their normal coding workflow.",
         "image_url": null,
         "parent_id": null,
@@ -86,11 +341,11 @@
         "html_content": null,
         "published_date": null,
         "created_at": "2025-08-03T21:19:16.439713+00:00",
-        "updated_at": "2025-08-03T21:29:27.826281+00:00",
+        "updated_at": "2025-08-04T11:05:57.219909+00:00",
         "saved_at": "2025-08-03T21:19:16.418000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-08-03T21:19:16.418000+00:00"
+        "last_moved_at": "2025-08-04T11:05:57.236000+00:00"
     },
     {
         "id": "01k1qzf9mgyn4ww1edqs02wy8r",
@@ -100,7 +355,7 @@
         "author": "Linux Handbook",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "try": {
                 "name": "Try",
@@ -111,6 +366,11 @@
                 "name": "Obsidian",
                 "type": "manual",
                 "created": 1754225183287
+            },
+            "selfhost": {
+                "name": "SelfHost",
+                "type": "manual",
+                "created": 1754308010799
             }
         },
         "site_name": "Linux Handbook",
@@ -124,11 +384,11 @@
         "html_content": null,
         "published_date": "2025-06-13",
         "created_at": "2025-08-03T12:45:57.804439+00:00",
-        "updated_at": "2025-08-03T21:28:46.925453+00:00",
+        "updated_at": "2025-08-04T12:08:36.580720+00:00",
         "saved_at": "2025-08-03T12:45:57.776000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-08-03T21:28:46.228000+00:00"
+        "last_moved_at": "2025-08-04T12:08:36.454000+00:00"
     },
     {
         "id": "01k1qgpbp7gwn71rtqmwmtbbqz",
@@ -1884,51 +2144,91 @@
         "author": "Bite Code!",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "python": {
+                "name": "Python",
+                "type": "manual",
+                "created": 1754311696570
+            },
+            "principles": {
+                "name": "Principles",
+                "type": "manual",
+                "created": 1754311692572
+            }
+        },
         "site_name": "bitecode.dev",
         "word_count": 2381,
         "notes": "",
         "summary": "\"Parse, don't validate\" means you should convert input into the right type with understanding, not just check if it looks correct. In Python, parsing includes validation because it tries to make data meaningful and trustworthy for the rest of the code. How much you parse depends on your needs, but parsing helps catch errors early and creates clear, reliable code.",
         "image_url": "https://substackcdn.com/image/fetch/$s_!NgLK!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7b8d7ed-cf32-4904-a88b-596be5fafcfe_1536x1024.png",
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2025-07-23",
         "created_at": "2025-07-23T11:44:35.574343+00:00",
-        "updated_at": "2025-07-25T05:23:38.126283+00:00",
+        "updated_at": "2025-08-04T12:56:10.476081+00:00",
         "saved_at": "2025-07-23T11:44:35.556000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-07-25T05:23:38.187000+00:00"
-    },
-    {
-        "id": "01k0s379gcqdry0pfmkvqxxex3",
-        "url": "https://read.readwise.io/read/01k0s379gcqdry0pfmkvqxxex3",
-        "source_url": "https://simonwillison.net/2025/Jul/22/textual-v4/#atom-everything",
-        "title": "Textual v4.0.0: The Streaming Release",
-        "author": "Simon Willison",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "simonwillison.net",
-        "word_count": 125,
-        "notes": "",
-        "summary": "Textual v4.0.0 is a new version of a Python tool for building command-line apps. Its main feature is streaming Markdown support, which works well with AI models that generate Markdown. The author made a script that uses this feature to interact with language models in real time.",
-        "image_url": null,
-        "parent_id": null,
-        "reading_progress": 1.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-07-22",
-        "created_at": "2025-07-22T12:55:02.558539+00:00",
-        "updated_at": "2025-07-31T07:06:34.079789+00:00",
-        "saved_at": "2025-07-22T12:55:02.412000+00:00",
-        "first_opened_at": "2025-07-31T07:05:39.833000+00:00",
-        "last_opened_at": "2025-07-31T07:05:39.927000+00:00",
-        "last_moved_at": "2025-07-25T05:23:34.167000+00:00"
+        "first_opened_at": "2025-08-04T12:44:20.655000+00:00",
+        "last_opened_at": "2025-08-04T12:44:20.782000+00:00",
+        "last_moved_at": "2025-08-04T12:56:10.486000+00:00",
+        "highlights": [
+            {
+                "id": "01k1tje9xxmhtz15ktvmbyzxy2",
+                "url": "https://read.readwise.io/read/01k1tje9xxmhtz15ktvmbyzxy2",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-web-app",
+                "category": "highlight",
+                "location": null,
+                "tags": {},
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01k0vhk0q4htxcma5taqe5rvc7",
+                "reading_progress": 0.0,
+                "content": "The third tip is, if you need full throttle parsing and validation, Pydantic is your best friend.",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2025-08-04T12:55:57.254394+00:00",
+                "updated_at": "2025-08-04T12:55:57.254410+00:00",
+                "saved_at": "2025-08-04T12:55:57.117000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2025-08-04T12:55:57.117000+00:00"
+            },
+            {
+                "id": "01k1thzn7yynrtnph94kcn8vqv",
+                "url": "https://read.readwise.io/read/01k1thzn7yynrtnph94kcn8vqv",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-web-app",
+                "category": "highlight",
+                "location": null,
+                "tags": {},
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01k0vhk0q4htxcma5taqe5rvc7",
+                "reading_progress": 0.0,
+                "content": "When you get input, extract meaning from it to turn it into a proper type.",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2025-08-04T12:47:57.413331+00:00",
+                "updated_at": "2025-08-04T12:47:57.413342+00:00",
+                "saved_at": "2025-08-04T12:47:57.182000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2025-08-04T12:47:57.182000+00:00"
+            }
+        ]
     },
     {
         "id": "01k0rp3efh5p29xbmappe4tjpz",
@@ -3238,7 +3538,7 @@
         "author": "Sushant Dhiman",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "go": {
                 "name": "Go",
@@ -3262,11 +3562,11 @@
         "html_content": null,
         "published_date": "2025-05-31",
         "created_at": "2025-07-15T05:04:33.320613+00:00",
-        "updated_at": "2025-07-21T20:22:49.054644+00:00",
+        "updated_at": "2025-08-04T12:04:41.749457+00:00",
         "saved_at": "2025-07-15T05:04:33.212000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-07-16T12:34:51.552000+00:00"
+        "first_opened_at": "2025-08-04T12:04:39.490000+00:00",
+        "last_opened_at": "2025-08-04T12:04:39.490000+00:00",
+        "last_moved_at": "2025-08-04T12:04:41.735000+00:00"
     },
     {
         "id": "01k04fvvdwa20133812e7afnpf",
@@ -4059,7 +4359,7 @@
         "author": "jakelazaroff.com",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {},
         "site_name": "jakelazaroff.com",
         "word_count": 2530,
@@ -4067,16 +4367,16 @@
         "summary": "Waypoint is a local-first web app designed for trip planning that allows users to quickly jot down notes and visualize routes on a map. It uses a rich text editor and stores data on the client's device, making it easy to organize and share travel plans. Built with existing technologies like SvelteKit and Yjs, Waypoint emphasizes offline functionality and real-time collaboration.",
         "image_url": "https://jakelazaroff.com/og/a-local-first-case-study.png",
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 0.5837860198540802,
         "content": null,
         "html_content": null,
         "published_date": "2024-10-01",
         "created_at": "2025-07-09T07:06:09.784629+00:00",
-        "updated_at": "2025-07-09T07:07:48.253605+00:00",
+        "updated_at": "2025-08-04T12:36:31.844687+00:00",
         "saved_at": "2025-07-09T07:06:09.743000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-07-09T07:07:48.212000+00:00"
+        "first_opened_at": "2025-08-04T12:31:03.381000+00:00",
+        "last_opened_at": "2025-08-04T12:31:03.511000+00:00",
+        "last_moved_at": "2025-08-04T12:36:31.641000+00:00"
     },
     {
         "id": "01jznm34k1vggyw7d3cyd2x83d",
@@ -4527,7 +4827,7 @@
         "author": "indragie.com",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "llm": {
                 "name": "LLM",
@@ -4541,16 +4841,72 @@
         "summary": "The author built a Mac app mostly using Claude Code, an AI coding assistant that writes and tests code. Claude Code works well with SwiftUI but needs clear specs and feedback to improve its output. This tool shows how AI could change software development in the future.",
         "image_url": "https://indragie.com/og?title=I%20Shipped%20a%20macOS%20App%20Built%20Entirely%20by%20Claude%20Code&type=blog&date=2025-07-01&author=Indragie%20Karunaratne",
         "parent_id": null,
-        "reading_progress": 0.4859650941619785,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2025-07-01",
         "created_at": "2025-07-07T19:48:30.496253+00:00",
-        "updated_at": "2025-08-03T22:10:22.380038+00:00",
+        "updated_at": "2025-08-04T20:01:55.389399+00:00",
         "saved_at": "2025-07-07T19:48:30.172000+00:00",
         "first_opened_at": "2025-08-03T22:10:01.492000+00:00",
-        "last_opened_at": "2025-08-03T22:10:19.660000+00:00",
-        "last_moved_at": "2025-07-09T06:06:52.572000+00:00"
+        "last_opened_at": "2025-08-04T20:01:05.399000+00:00",
+        "last_moved_at": "2025-08-04T12:30:52.134000+00:00",
+        "highlights": [
+            {
+                "id": "01k1tgs882mnx3npdjq0gxc2k7",
+                "url": "https://read.readwise.io/read/01k1tgs882mnx3npdjq0gxc2k7",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-web-app",
+                "category": "highlight",
+                "location": null,
+                "tags": {},
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01jzk6xjtyrfqm0ky6q06mgnn2",
+                "reading_progress": 0.0,
+                "content": "It's like I found an extra 5 hours every day, and all it cost me was $200 a month.",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2025-08-04T12:26:59.295898+00:00",
+                "updated_at": "2025-08-04T12:26:59.295913+00:00",
+                "saved_at": "2025-08-04T12:26:58.690000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2025-08-04T12:26:58.690000+00:00"
+            },
+            {
+                "id": "01k1tgbb5p0z2qxmrgaajan6a1",
+                "url": "https://read.readwise.io/read/01k1tgbb5p0z2qxmrgaajan6a1",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-web-app",
+                "category": "highlight",
+                "location": null,
+                "tags": {},
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01jzk6xjtyrfqm0ky6q06mgnn2",
+                "reading_progress": 0.0,
+                "content": "Claude will then use the Search and Read tools to find and read the source files, and use the Fetch tool to download the Markdown file from GitHub. Asking it to summarize forces it to think through what it understood from the sources, and having that summary in context improves performance on subsequent tasks.",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2025-08-04T12:19:23.168915+00:00",
+                "updated_at": "2025-08-04T12:19:23.168943+00:00",
+                "saved_at": "2025-08-04T12:19:22.934000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2025-08-04T12:19:22.934000+00:00"
+            }
+        ]
     },
     {
         "id": "01jzk6rm10nysht4sx2jbwv8sx",
@@ -5919,7 +6275,7 @@
         "author": "Alexander Lichter",
         "source": "Reader Share Sheet iOS",
         "category": "video",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "vue": {
                 "name": "Vue",
@@ -5938,11 +6294,11 @@
         "html_content": null,
         "published_date": "2025-07-02",
         "created_at": "2025-07-03T07:34:24.714209+00:00",
-        "updated_at": "2025-07-09T06:06:06.420594+00:00",
+        "updated_at": "2025-08-04T12:04:14.814325+00:00",
         "saved_at": "2025-07-03T07:34:24.686000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-07-09T06:06:06.361000+00:00"
+        "first_opened_at": "2025-08-04T12:04:12.249000+00:00",
+        "last_opened_at": "2025-08-04T12:04:12.249000+00:00",
+        "last_moved_at": "2025-08-04T12:04:14.592000+00:00"
     },
     {
         "id": "01jz4rvmzgjw7dv8pzkzvr3k4t",
@@ -16474,7 +16830,7 @@
         "author": "Dreams of Code",
         "source": "Reader Share Sheet iOS",
         "category": "video",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "mcp": {
                 "name": "MCP",
@@ -16493,11 +16849,11 @@
         "html_content": null,
         "published_date": "2025-06-03",
         "created_at": "2025-06-04T05:14:23.301576+00:00",
-        "updated_at": "2025-06-04T10:54:53.353539+00:00",
+        "updated_at": "2025-08-04T12:03:59.652788+00:00",
         "saved_at": "2025-06-04T05:14:23.277000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-06-04T10:54:52.929000+00:00"
+        "first_opened_at": "2025-08-04T12:03:55.482000+00:00",
+        "last_opened_at": "2025-08-04T12:03:55.482000+00:00",
+        "last_moved_at": "2025-08-04T12:03:59.701000+00:00"
     },
     {
         "id": "01jwwhyw93qpqjvdmm4dbj3djd",
@@ -23898,12 +24254,17 @@
         "author": "Lacey",
         "source": "Readwise web highlighter",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "django": {
                 "name": "Django",
                 "type": "manual",
                 "created": 1747472325960
+            },
+            "meilisearch": {
+                "name": "Meilisearch",
+                "type": "manual",
+                "created": 1754307551524
             }
         },
         "site_name": "REVSYS",
@@ -23917,11 +24278,11 @@
         "html_content": null,
         "published_date": "2025-04-21",
         "created_at": "2025-05-17T08:58:37.878683+00:00",
-        "updated_at": "2025-07-15T13:51:43.491526+00:00",
+        "updated_at": "2025-08-04T11:39:21.392227+00:00",
         "saved_at": "2025-05-17T08:58:37.159000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-05-17T08:58:41.366000+00:00"
+        "first_opened_at": "2025-08-04T11:39:17.213000+00:00",
+        "last_opened_at": "2025-08-04T11:39:17.213000+00:00",
+        "last_moved_at": "2025-08-04T11:39:21.269000+00:00"
     },
     {
         "id": "01jveq6s0g80781xjwjws701hv",
@@ -25996,7 +26357,7 @@
         "author": "Michael Thiessen",
         "source": null,
         "category": "email",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "nuxt": {
                 "name": "Nuxt",
@@ -26010,16 +26371,16 @@
         "summary": "Nuxt 3.17 introduces significant improvements in data fetching, including reactive keys and shared refs for better performance and memory efficiency. It also features deduped watch calls and granular caching options, allowing for more flexible data management. Additionally, developers can easily switch from the Options API to the Composition API using reactive structures, simplifying the process of code refactoring.",
         "image_url": null,
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2025-04-30",
         "created_at": "2025-05-04T19:55:45.780283+00:00",
-        "updated_at": "2025-06-09T13:56:32.053991+00:00",
+        "updated_at": "2025-08-04T12:01:43.842444+00:00",
         "saved_at": "2025-05-04T19:55:45.726000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-05-04T20:48:16.925000+00:00"
+        "first_opened_at": "2025-08-04T12:00:20.426000+00:00",
+        "last_opened_at": "2025-08-04T12:00:20.549000+00:00",
+        "last_moved_at": "2025-08-04T12:01:43.556000+00:00"
     },
     {
         "id": "01jtecm9s15ejwx5da0576wp87",
@@ -28968,7 +29329,7 @@
         "author": "geoffreylitt.com",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "llm": {
                 "name": "LLM",
@@ -28978,7 +29339,7 @@
         },
         "site_name": "geoffreylitt.com",
         "word_count": 3905,
-        "notes": "",
+        "notes": "Описанный в посте опыт демонстрирует потенциальные выгоды от сочетания возможностей современных LLM с потребностью в небольших, специфичных и полезных программах, создаваемых именно тогда, когда возникает потребность.",
         "summary": "In this post, the author discusses their experience of codifying a ChatGPT workflow into a malleable GUI. They describe how they used GPT-4 to code an app that helps them draft text messages in English and translate them to Japanese, with additional features such as adjusting formality and getting detailed explanations. The author highlights the benefits of using a GUI over raw ChatGPT, including a prescriptive workflow, direct manipulation affordances, and easier sharing of the tool. They also discuss the iterative process of editing the tool on the fly and the joy of having a personalized GUI that can be easily modified. The author concludes by reflecting on the value of affordances and the potential for LLMs to support non-programmers in building custom GUIs.",
         "image_url": "https://geoffreylitt.com/images/article_images/texting-app-teaser.png",
         "parent_id": null,
@@ -28987,11 +29348,11 @@
         "html_content": null,
         "published_date": "2023-07-23",
         "created_at": "2025-04-14T12:20:18.006643+00:00",
-        "updated_at": "2025-05-22T08:21:12.110439+00:00",
+        "updated_at": "2025-08-04T11:15:01.596458+00:00",
         "saved_at": "2025-04-14T12:20:17.779000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-04-15T05:45:17.845000+00:00"
+        "first_opened_at": "2025-08-04T11:12:07.995000+00:00",
+        "last_opened_at": "2025-08-04T11:12:07.995000+00:00",
+        "last_moved_at": "2025-08-04T11:12:10.940000+00:00"
     },
     {
         "id": "01jrsx3nkj56s46wvx7kt8f7bj",
@@ -29001,7 +29362,7 @@
         "author": "geoffreylitt.com",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "llm": {
                 "name": "LLM",
@@ -29020,11 +29381,11 @@
         "html_content": null,
         "published_date": "2023-03-18",
         "created_at": "2025-04-14T10:21:52.801219+00:00",
-        "updated_at": "2025-05-22T08:21:44.811631+00:00",
+        "updated_at": "2025-08-04T11:14:58.306225+00:00",
         "saved_at": "2025-04-14T10:21:52.114000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-04-15T05:45:20.264000+00:00"
+        "first_opened_at": "2025-08-04T11:11:09.675000+00:00",
+        "last_opened_at": "2025-08-04T11:11:09.675000+00:00",
+        "last_moved_at": "2025-08-04T11:11:12.178000+00:00"
     },
     {
         "id": "01jrsx1wk075k53bzc5dytcmph",
@@ -30695,8 +31056,14 @@
         "author": "The Personal Blog of Emily Gorcenski",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "selfhost": {
+                "name": "SelfHost",
+                "type": "manual",
+                "created": 1754308753271
+            }
+        },
         "site_name": "EmilyGorcenski.com",
         "word_count": 3061,
         "notes": "",
@@ -30708,11 +31075,11 @@
         "html_content": null,
         "published_date": "2025-04-05",
         "created_at": "2025-04-06T19:52:29.874999+00:00",
-        "updated_at": "2025-04-06T20:37:28.252364+00:00",
+        "updated_at": "2025-08-04T11:59:44.318132+00:00",
         "saved_at": "2025-04-06T19:52:29.859000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-04-06T20:37:27.797000+00:00"
+        "first_opened_at": "2025-08-04T11:59:40.527000+00:00",
+        "last_opened_at": "2025-08-04T11:59:40.527000+00:00",
+        "last_moved_at": "2025-08-04T11:59:44.164000+00:00"
     },
     {
         "id": "01jr6a8cts9ere3kwq127v24wb",
@@ -32123,8 +32490,14 @@
         "author": "Ian Eyre",
         "source": "Reader add from clipboard",
         "category": "article",
-        "location": "later",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "duckdb": {
+                "name": "DuckDB",
+                "type": "manual",
+                "created": 1754308360923
+            }
+        },
         "site_name": "realpython.com",
         "word_count": 6289,
         "notes": "",
@@ -32136,11 +32509,11 @@
         "html_content": null,
         "published_date": "2025-03-26",
         "created_at": "2025-03-28T06:48:00.629286+00:00",
-        "updated_at": "2025-03-30T20:03:00.725451+00:00",
+        "updated_at": "2025-08-04T11:52:49.237143+00:00",
         "saved_at": "2025-03-28T06:48:00.609000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-03-30T20:03:00.258000+00:00"
+        "first_opened_at": "2025-08-04T11:52:46.044000+00:00",
+        "last_opened_at": "2025-08-04T11:52:46.044000+00:00",
+        "last_moved_at": "2025-08-04T11:52:49.128000+00:00"
     },
     {
         "id": "01jqdr3e2ydaze8yed3egne9f0",
@@ -33584,7 +33957,7 @@
         "author": "Nicholas Carlini",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "llm": {
                 "name": "LLM",
@@ -33603,11 +33976,11 @@
         "html_content": null,
         "published_date": "2025-03-13",
         "created_at": "2025-03-19T05:53:16.010867+00:00",
-        "updated_at": "2025-03-19T16:48:18.592080+00:00",
+        "updated_at": "2025-08-04T11:57:06.033699+00:00",
         "saved_at": "2025-03-19T05:53:15.974000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-03-19T16:48:18.126000+00:00"
+        "first_opened_at": "2025-08-04T11:56:51.710000+00:00",
+        "last_opened_at": "2025-08-04T11:56:51.710000+00:00",
+        "last_moved_at": "2025-08-04T11:57:05.934000+00:00"
     },
     {
         "id": "01jpnfjx613p1p6475k2awmy20",
@@ -53515,11 +53888,37 @@
         "author": "Noam Yadgar",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "api": {
+                "name": "API",
+                "type": "manual",
+                "created": 1754308219872
+            },
+            "grpc": {
+                "name": "gRPC",
+                "type": "manual",
+                "created": 1754308196537
+            },
+            "network": {
+                "name": "Network",
+                "type": "manual",
+                "created": 1754308170577
+            },
+            "interview": {
+                "name": "Interview",
+                "type": "manual",
+                "created": 1754308176736
+            },
+            "websocket": {
+                "name": "WebSocket",
+                "type": "manual",
+                "created": 1754308189984
+            }
+        },
         "site_name": "nyadgar.com",
         "word_count": 3402,
-        "notes": "",
+        "notes": "Хороший краткий обзор протоколов, работающих на основе TCP/IP. Рассмотрены \"за\" и \"против\" при их выборе.",
         "summary": "The article discusses various network technologies and software design patterns for communication, focusing on TCP/IP as the backbone of the internet. It highlights protocols like REST, GraphQL, and WebSocket for application-level communication, as well as the role of message brokers in managing connections between microservices. The author emphasizes the importance of choosing the right protocol based on specific use cases and requirements.",
         "image_url": null,
         "parent_id": null,
@@ -53528,11 +53927,11 @@
         "html_content": null,
         "published_date": "2023-07-13",
         "created_at": "2025-01-20T20:53:22.737592+00:00",
-        "updated_at": "2025-01-21T10:12:29.426271+00:00",
+        "updated_at": "2025-08-04T11:51:47.493103+00:00",
         "saved_at": "2025-01-20T20:53:22.727000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-01-21T10:12:29.251000+00:00"
+        "first_opened_at": "2025-08-04T11:50:44.602000+00:00",
+        "last_opened_at": "2025-08-04T11:50:44.602000+00:00",
+        "last_moved_at": "2025-08-04T11:51:47.391000+00:00"
     },
     {
         "id": "01jj2qf9m8zkmqje134cc97fa6",

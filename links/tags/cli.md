@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [Using AI Without Leaving the Terminal: A Guide to llm](https://kashw1n.com/blog/llm-cli/) 👤 kashw1n.com 💬 1184 🔖 #cli, #llm, #toot 🗓️ 2025-08-03
+    > **Заметка:** Хорошая шпаргалка по утилите llm Саймона с дельными сценариями использования.
+    > **Резюме:** llm is a command-line tool that lets you use many AI models directly in the terminal. It saves conversations automatically and works well with files, pipes, and plugins. This tool helps developers work faster by combining AI with their normal coding workflow.
 - [/usr/bin/just do it](https://frankwiles.com/posts/just-do-it/) 👤 frankwiles.com 💬 1129 🔖 #cli, #try 🗓️ 2025-04-28
     > **Резюме:** just is a better way of documenting project specific commands than using a Makefile or a folder full of scripts. It is easy to get started with, powerful for the long haul, and written in Rust.
 - [CLI tools you won't be able to live without 🔧](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6) 👤 DEV Community 💬 4102 🔖 #cli, #try 🗓️ 2024-02-18

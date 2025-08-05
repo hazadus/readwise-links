@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [Self-host Obsidian using Docker and Access it Via Web Browser](https://linuxhandbook.com/obsidian-docker-self-host/?ref=Obsidian+Rocks+Newsletter) 👤 Linux Handbook 💬 1042 🔖 #try, #obsidian 🗓️ 2025-08-03
+- [Self-host Obsidian using Docker and Access it Via Web Browser](https://linuxhandbook.com/obsidian-docker-self-host/?ref=Obsidian+Rocks+Newsletter) 👤 Linux Handbook 💬 1042 🔖 #try, #obsidian, #selfhost 🗓️ 2025-08-03
     > **Резюме:** You can self-host Obsidian using Docker to access your notes via a web browser without needing desktop or mobile apps. This setup keeps all your data local and lets you avoid paid syncing services. It is easy to deploy and works well for people who want full control over their note-taking.
 - [Better alternative to shell scripts with Python, uv and pytest](https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/) 👤 Juha-Matti Santala 💬 1312 🔖 #uv, #try, #toot, #pytest, #python 🗓️ 2025-07-30
     > **Заметка:** Отличная шпаргалка о запуске самодостаточных Python-скриптов, ещё и возможность встраивания тестов описана

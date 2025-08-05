@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 15
 
 ## Ссылки
 
@@ -22,6 +22,9 @@
     > **Резюме:** The text discusses various programming concepts, including string operations, data structures like lists, dictionaries, and sets, and the use of decorators in Python. It emphasizes the importance of understanding how different types of data interact, such as how to manage threads and recursion effectively. Additionally, it highlights security measures in web development, particularly regarding form submissions and cookie handling.
 - [Acing the design interview](https://www.seangoedecke.com/acing-the-design-interview/) 👤 seangoedecke.com 💬 2601 🔖 #outline, #interview, #development 🗓️ 2025-01-28
     > **Резюме:** In a design interview, focus on brainstorming system entities and their relationships rather than jumping to technical details. Be prepared to discuss trade-offs in your design choices and adapt based on the interviewers' guidance. Asking questions about operational constraints and the tech stack can help shape a more effective design.
+- [Best Network Technologies](https://nyadgar.com/posts/best-network-technologies/) 👤 Noam Yadgar 💬 3402 🔖 #api, #grpc, #network, #interview, #websocket 🗓️ 2025-01-20
+    > **Заметка:** Хороший краткий обзор протоколов, работающих на основе TCP/IP. Рассмотрены "за" и "против" при их выборе.
+    > **Резюме:** The article discusses various network technologies and software design patterns for communication, focusing on TCP/IP as the backbone of the internet. It highlights protocols like REST, GraphQL, and WebSocket for application-level communication, as well as the role of message brokers in managing connections between microservices. The author emphasizes the importance of choosing the right protocol based on specific use cases and requirements.
 - [The Art of DJing: CCL · Feature ⟋ RA](https://ra.co/features/4303) 👤 Andrew Ryce 💬 5786 🔖 #dj, #music, #interview 🗓️ 2024-01-31
     > **Резюме:** CCL, a DJ known for their unconventional methods, discusses their approach to DJing in an interview. They focus on texture and mood rather than genre or BPM, and aim to create an emotional response through their sets. They use techniques such as tempo changes and mixing beatless tracks to create unique narratives and storytelling experiences. CCL also discusses the importance of knowing tracks well and being able to connect with the music they play. They use a pedal to help string tracks together and create seamless transitions. Overall, CCL's DJing style is experimental and focused on creating immersive and evocative experiences for the listener.
 - [Банановые шкурки на интервью Python-разработчика / Хабр](https://habr.com/ru/companies/yandex_praktikum/articles/805665/) 👤 Евгений Бартенев 💬 3263 🔖 #python, #interview 🗓️ 2024-04-28

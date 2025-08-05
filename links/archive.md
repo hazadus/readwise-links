@@ -1,10 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 872
+- Всего ссылок: 888
 
 ## Ссылки
 
 - [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds) 👤 geoffreylitt.com 💬 765 🗓️ 2025-08-03
+- [Using AI Without Leaving the Terminal: A Guide to llm](https://kashw1n.com/blog/llm-cli/) 👤 kashw1n.com 💬 1184 🔖 #cli, #llm, #toot 🗓️ 2025-08-03
+    > **Заметка:** Хорошая шпаргалка по утилите llm Саймона с дельными сценариями использования.
+- [Self-host Obsidian using Docker and Access it Via Web Browser](https://linuxhandbook.com/obsidian-docker-self-host/?ref=Obsidian+Rocks+Newsletter) 👤 Linux Handbook 💬 1042 🔖 #try, #obsidian, #selfhost 🗓️ 2025-08-03
 - [Agentic Coding Things That Didn’t Work](https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/?utm_source=substack&utm_medium=email) 👤 Armin Ronacher 💬 1848 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-03
 - [Claude Code is a Slot Machine](https://rgoldfinger.com/blog/2025-07-26-claude-code-is-a-slot-machine/?utm_source=substack&utm_medium=email) 👤 rgoldfinger.com 💬 414 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-03
     > **Заметка:** Остроумная аналогия Клода и "однорукого бандита" 🤔
@@ -25,6 +28,7 @@
 - [Using GitHub Spark to reverse engineer GitHub Spark](https://simonwillison.net/2025/Jul/24/github-spark/#atom-everything) 👤 Simon Willison 💬 3185 🔖 #llm, #github 🗓️ 2025-07-25
 - [Do not yell at the language model](https://seangoedecke.com/do-not-yell-at-the-language-model/) 👤 seangoedecke.com 💬 657 🔖 #llm 🗓️ 2025-07-24
 - [Announcing Toad - a universal UI for agentic coding in the terminal](https://willmcgugan.github.io/announcing-toad/) 👤 Will McGugan 💬 1607 🗓️ 2025-07-24
+- [What "Parse, don't validate" means in Python?](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) 👤 Bite Code! 💬 2381 🔖 #python, #principles 🗓️ 2025-07-23
 - [Как научить нейросеть работать руками: создание полноценного ИИ-агента с MCP и LangGraph за час](https://habr.com/ru/companies/amvera/articles/929568/) 👤 yakvenalex 💬 4800 🔖 #llm, #try, #agents, #langchain, #langgraph 🗓️ 2025-07-22
 - [The Business Case for Vanilla JS](https://lewiscampbell.tech/blog/250430.html) 👤 lewiscampbell.tech 💬 742 🔖 #javascript 🗓️ 2025-07-21
 - [NIH Is Far Cheaper Than The Wrong Dependency](https://lewiscampbell.tech/blog/250718.html?utm_source=substack&utm_medium=email) 👤 lewiscampbell.tech 💬 433 🗓️ 2025-07-20
@@ -38,6 +42,7 @@
 - [Scraping and vibe coding a schedule app for Open Sauce 2025 entirely on my phone](https://simonwillison.net/2025/Jul/17/vibe-scraping/#atom-everything) 👤 Simon Willison 💬 1789 🔖 #llm 🗓️ 2025-07-18
 - [Vercel Acquires NuxtLabs: What This Means for the Future of Nuxt](https://mokkapps.de/blog/vercel-acquires-nuxtlabs) 👤 Michael Hoffmann 💬 1237 🔖 #nuxt 🗓️ 2025-07-18
 - [Why Cringe Tolerance Separates Builders from Non-Builders](https://www.joanwestenberg.com/p/why-cringe-tolerance-separates-builders-from-non-builders-590c09e6f3021d4f) 👤 Joan Westenberg 💬 938 🔖 #career, #learning 🗓️ 2025-07-16
+- [Let's Write a JSON Parser From Scratch](https://beyondthesyntax.substack.com/p/lets-write-a-json-parser-from-scratch) 👤 Sushant Dhiman 💬 1013 🔖 #go, #diy 🗓️ 2025-07-15
 - [What Doesn’t Change](https://terriblesoftware.org/2025/07/14/what-doesnt-change/) 👤 Terrible Software 💬 514 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-14
 - [LLMs, Vibe-Coding, and Where I Draw the Line](https://ordep.dev/posts/llms) 👤 Pedro Tavares 💬 605 🔖 #llm 🗓️ 2025-07-14
 - [Ralph Wiggum as a "software engineer"](https://ghuntley.com/ralph/) 👤 Geoffrey Huntley 💬 4133 🔖 #llm 🗓️ 2025-07-14
@@ -53,11 +58,13 @@
 - [Why we should anthropomorphize LLMs](https://seangoedecke.com/anthropomorphizing-llms/) 👤 seangoedecke.com 💬 1414 🔖 #llm 🗓️ 2025-07-10
 - [Mecha-Hitler, Grok, and why it's so hard to give LLMs the right personality](https://seangoedecke.com/ai-personality-space/) 👤 seangoedecke.com 💬 1243 🔖 #llm 🗓️ 2025-07-10
 - [Git Notes: git's coolest, most unloved feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/) 👤 Tyler Cipriani 💬 717 🔖 #git 🗓️ 2025-07-09
+- [A Local-First Case Study](https://jakelazaroff.com/words/a-local-first-case-study/) 👤 jakelazaroff.com 💬 2530 🗓️ 2025-07-09
 - [The more senior engineers get, the more results matter](https://seangoedecke.com/being-accountable-for-results/) 👤 seangoedecke.com 💬 651 🔖 #career 🗓️ 2025-07-08
 - [How I use LLMs to learn new subjects](https://seangoedecke.com/learning-from-llms/) 👤 seangoedecke.com 💬 1923 🔖 #llm, #learning 🗓️ 2025-07-08
 - [Why a Maximum Viable Promise Beats an MVP](https://www.joanwestenberg.com/p/why-a-maximum-viable-promise-beats-an-mvp) 👤 Joan Westenberg 💬 1575 🗓️ 2025-07-08
 - [What's up Python? Mypy gets better, uv faster, FastApi easier, Emscripten formal...er](https://www.bitecode.dev/p/whats-up-python-mypy-gets-better) 👤 Bite Code! 💬 1296 🔖 #uv, #mypy, #python, #fastapi 🗓️ 2025-07-07
 - [I Spent 90 Days Rebuilding My Brain. Here's What I Learned.](https://www.joanwestenberg.com/p/i-spent-90-days-rebuilding-my-brain-here-s-what-i-learned-b7844d4127c5d542) 👤 Joan Westenberg 💬 2613 🔖 #reading, #learning 🗓️ 2025-07-07
+- [I Shipped a macOS App Built Entirely by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code) 👤 indragie.com 💬 3462 🔖 #llm 🗓️ 2025-07-07
 - [Эволюция рабочего места одного программиста](https://habr.com/ru/articles/870944/) 👤 arturdumchev 💬 1834 🔖 #health 🗓️ 2025-07-07
 - [How to become passionate about delivering shareholder value](https://seangoedecke.com/shareholder-value/) 👤 seangoedecke.com 💬 1435 🔖 #career 🗓️ 2025-07-05
 - [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
@@ -68,6 +75,7 @@
 - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/) 👤 Armin Ronacher's Thoughts and Writings 💬 2144 🔖 #llm, #mcp 🗓️ 2025-07-03
 - [What happens when engineers work more than one job](https://seangoedecke.com/overemployment/) 👤 seangoedecke.com 💬 890 🔖 #career 🗓️ 2025-07-03
 - [Claude Sonnet is a small-brained mechanical squirrel of <T>](https://ghuntley.com/cars/) 👤 Geoffrey Huntley 💬 1044 🔖 #llm 🗓️ 2025-07-03
+- [More Features of Vue's VS Code Extension](https://www.youtube.com/watch?v=RcPcO4_Ct_U) 👤 Alexander Lichter 🔖 #vue 🗓️ 2025-07-03
 - [Using Playwright MCP with Claude Code | Simon Willison’s TILs](https://til.simonwillison.net/claude-code/playwright-mcp-claude-code) 👤 simonwillison.net 💬 295 🔖 #llm, #mcp 🗓️ 2025-07-02
 - [Перестаньте молиться на принципы S.O.L.I.D](https://habr.com/ru/articles/874584/) 👤 varanio 💬 1291 🔖 #principles 🗓️ 2025-07-01
 - [Заговор разработчиков против корпораций: работа с командой](https://habr.com/ru/articles/908374/) 👤 arturdumchev 💬 2057 🔖 #fun 🗓️ 2025-07-01
@@ -170,6 +178,7 @@
 - [deliberate intentional practice](https://ghuntley.com/play/) 👤 Geoffrey Huntley 💬 839 🔖 #llm, #inspiration 🗓️ 2025-06-04
 - [AI Changes Everything](http://lucumr.pocoo.org/2025/6/4/changes) 👤 Armin Ronacher's Thoughts and Writings 💬 1097 🔖 #llm, #inspiration 🗓️ 2025-06-04
 - [Run Your Own AI](https://anthonylewis.com/2025/06/01/run-your-own-ai/) 👤 anthonylewis.com 💬 567 🔖 #llm 🗓️ 2025-06-04
+- [This is perhaps my favorite thing I've built that uses A.I.](https://www.youtube.com/watch?v=d05vNPmIIqc) 👤 Dreams of Code 🔖 #mcp 🗓️ 2025-06-04
 - [John Henry and the large language model](https://seangoedecke.com/john-henry-and-the-llm/) 👤 seangoedecke.com 💬 586 🔖 #llm 🗓️ 2025-06-04
 - [New Programming Jargon](https://blog.codinghorror.com/new-programming-jargon/) 👤 Jeff Atwood 💬 2082 🔖 #fun 🗓️ 2025-06-03
 - [5 мелочей в переписке, за которые вас хочется неистово обнять](https://kinzhal.media/5-small-things/) 👤 Кинжал 💬 404 🔖 #soft skills, #communication 🗓️ 2025-06-03
@@ -249,6 +258,7 @@
     > **Заметка:** Неплохой чек-лист по обеспечению безопасности Django
 - [How To Launch Big Complex Projects](https://www.smashingmagazine.com/2025/05/how-launch-big-complex-projects/) 👤 Vitaly Friedman 💬 1915 🔖 #management, #development 🗓️ 2025-05-17
     > **Заметка:** Почитать книгу, должна быть любопытной
+- [How to Add Blazing Fast Search to Your Django Site with Meilisearch](https://www.revsys.com/tidbits/how-to-add-blazing-fast-search-to-your-django-site-with-meilisearch/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_282) 👤 Lacey 💬 5155 🔖 #django, #meilisearch 🗓️ 2025-05-17
 - [Building software on top of Large Language Models](https://simonwillison.net/2025/May/15/building-on-llms/#atom-everything) 👤 Simon Willison 💬 2330 🔖 #llm 🗓️ 2025-05-16
 - [What is Testcontainers, and why should you use it?](https://testcontainers.com/guides/introducing-testcontainers/) 👤 Testcontainers 💬 860 🔖 #docker, #testing 🗓️ 2025-05-15
 - [Getting started with Testcontainers for Python](https://testcontainers.com/guides/getting-started-with-testcontainers-for-python/) 👤 Testcontainers 💬 1181 🔖 #docker, #python, #testing 🗓️ 2025-05-15
@@ -276,6 +286,7 @@
 - [How to Build Your Own Local AI: Create Free RAG and AI Agents with Qwen 3 and Ollama](https://www.freecodecamp.org/news/build-a-local-ai/) 👤 freeCodeCamp.org 💬 4576 🔖 #llm, #try, #agents 🗓️ 2025-05-08
 - [I don't care about your magic prompts](https://seangoedecke.com/magic-prompts/) 👤 seangoedecke.com 💬 761 🔖 #llm 🗓️ 2025-05-07
 - [Getting things "done" in large tech companies](https://seangoedecke.com/getting-things-done/) 👤 seangoedecke.com 💬 693 🔖 #career, #development 🗓️ 2025-05-07
+- [🔥 (215) Nuxt data fetching re-written: reactive keys, shared refs, and more](mailto:reader-forwarded-email/5624ceac0b93e90686a4b6c7eea5719d) 👤 Michael Thiessen 💬 1602 🔖 #nuxt 🗓️ 2025-05-04
 - [Ты решаешь LeetCode неправильно. Как пройти любое собеседование в BigTech?](https://habr.com/ru/articles/906642/) 👤 BincomAD 💬 1405 🔖 #go, #career, #learning, #interview 🗓️ 2025-05-04
 - [Страх и ненависть в офисе](https://www.kommersant.ru/doc/7690760?from=glavnoe_3#id2795835) 👤 Ольга Шкуренко 💬 1562 🗓️ 2025-05-03
 - [What's up Python? Python in hardware, lock file support and a new type checker](https://www.bitecode.dev/p/whats-up-python-python-in-hardware) 👤 Bite Code! 💬 724 🗓️ 2025-05-03
@@ -312,6 +323,9 @@
 - [The new Cookie Store API](https://fotis.xyz/posts/the-new-cookie-store-api/) 👤 Fotis Papadogeorgopoulos 💬 1925 🗓️ 2025-04-16
 - [A practical guide to coding securely with LLMs](https://seangoedecke.com/ai-security/) 👤 seangoedecke.com 💬 1871 🔖 #llm 🗓️ 2025-04-15
 - [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/?from=newsletter) 👤 Josh W. Comeau 💬 2508 🔖 #llm, #career 🗓️ 2025-04-15
+- [Codifying a ChatGPT workflow into a malleable GUI](https://www.geoffreylitt.com/2023/07/25/building-personal-tools-on-the-fly-with-llms) 👤 geoffreylitt.com 💬 3905 🔖 #llm 🗓️ 2025-04-14
+    > **Заметка:** Описанный в посте опыт демонстрирует потенциальные выгоды от сочетания возможностей современных LLM с потребностью в небольших, специфичных и полезных программах, создаваемых именно тогда, когда возникает потребность.
+- [Malleable software in the age of LLMs](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming) 👤 geoffreylitt.com 💬 4790 🔖 #llm 🗓️ 2025-04-14
 - [AI-generated tools can make programming more fun](https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger) 👤 geoffreylitt.com 💬 1188 🔖 #llm, #inspiration 🗓️ 2025-04-14
 - [Why is lmarena.ai dominated by slop?](https://seangoedecke.com/lmsys-slop/) 👤 seangoedecke.com 💬 1290 🔖 #llm 🗓️ 2025-04-14
 - [Designing software that could possibly work](https://seangoedecke.com/planning-software/) 👤 seangoedecke.com 💬 1590 🔖 #development 🗓️ 2025-04-14
@@ -329,6 +343,7 @@
 - [if you aren't redlining the LLM, you aren't headlining](https://ghuntley.com/redlining/) 👤 Geoffrey Huntley 💬 541 🔖 #llm 🗓️ 2025-04-07
 - [Go With The Vibe • The Applied Go Weekly Newsletter 2025-04-06](https://newsletter.appliedgo.net/archive/2025-04-06-go-with-the-vibe/) 👤 The Applied Go Weekly Newsletter 💬 1944 🔖 #go 🗓️ 2025-04-07
 - [The blissful zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project) 👤 Josh Collinsworth 💬 1168 🔖 #development, #inspiration 🗓️ 2025-04-06
+- [Owning my own data, part 1: Integrating a self-hosted calendar solution](https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/) 👤 The Personal Blog of Emily Gorcenski 💬 3061 🔖 #selfhost 🗓️ 2025-04-06
 - [Личный ИИ-ассистент на ваших данных. Часть 1: Векторная база ChromaDB + DeepSeek | GPT](https://habr.com/ru/companies/amvera/articles/897830/) 👤 yakvenalex 💬 6285 🔖 #llm, #try 🗓️ 2025-04-06
 - [Простой баг, ChatGPT и 50 минут боли: как ИИ программистов заменял](https://www.youtube.com/watch?v=DvAaql-nZ50&feature=youtu.be) 👤 Диджитализируй! 🔖 #llm 🗓️ 2025-04-06
 - [What to Do](https://paulgraham.com/do.html) 👤 Paul Graham 💬 1588 🗓️ 2025-04-06
@@ -355,6 +370,7 @@
 - [Incomplete JSON Pretty Printer](https://simonwillison.net/2025/Mar/28/incomplete-json-pretty-printer/#atom-everything) 👤 Simon Willison 💬 114 🔖 #llm 🗓️ 2025-03-29
 - [AI Brainrot means developer opportunity](https://softwaredoug.com/blog/2025/03/28/ai-brainrot-opportunity) 👤 Doug Turnbull 💬 615 🔖 #llm 🗓️ 2025-03-29
 - [Tactical work in the age of layoffs](https://seangoedecke.com/tactical-work-in-the-age-of-layoffs/) 👤 seangoedecke.com 💬 902 🔖 #career 🗓️ 2025-03-29
+- [Introducing DuckDB](https://realpython.com/python-duckdb/) 👤 Ian Eyre 💬 6289 🔖 #duckdb 🗓️ 2025-03-28
 - [Terminology 5: Rebuilt and Better than Ever](https://www.macstories.net/reviews/terminology-5-rebuilt-and-better-than-ever/) 👤 John Voorhees 💬 972 🗓️ 2025-03-25
 - [How to prompt engineer](https://smsk.dev/2025/03/13/how-to-prompt-engineer/) 👤 devsimsek 💬 907 🔖 #llm 🗓️ 2025-03-25
 - [SQL placeholders and Python](https://leancrew.com/all-this/2025/03/sql-placeholders-and-python/) 👤 Dr. Drang 💬 1055 🗓️ 2025-03-24
@@ -370,6 +386,7 @@
 - [Not all AI-assisted programming is vibe coding, but vibe coding rocks](https://simonwillison.net/2025/Mar/19/vibe-coding/#atom-everything) 👤 Simon Willison 💬 1436 🗓️ 2025-03-19
 - [Enshittification as a matter of taste](https://daverupert.com/2025/03/enshittification-has-a-flavor/) 👤 Dave Rupert 💬 385 🗓️ 2025-03-19
 - [Stop Using and Recommending React](https://blog.lusito.info/stop-using-and-recommending-react.html) 👤 Santo Pfingsten 💬 2545 🗓️ 2025-03-19
+- [My Thoughts on the Future of "AI"](https://nicholas.carlini.com/writing/2025/thoughts-on-future-ai.html) 👤 Nicholas Carlini 💬 7085 🔖 #llm 🗓️ 2025-03-19
 - [Обязательная игра 2025 года - Обзор Split Fiction I Битый Пиксель](https://www.youtube.com/watch?v=nJg2TaVZHqM) 👤 Битый Пиксель 🗓️ 2025-03-18
 - [Rust vs. Go: A Tale of Two Systems Languages](https://smsk.dev/2025/03/16/rust-vs-go-a-tale-of-two-systems-languages/) 👤 devsimsek 💬 638 🔖 #go, #rust 🗓️ 2025-03-17
 - [A forty-year career.](https://lethain.com/forty-year-career/) 👤 lethain.com 💬 2514 🔖 #career, #learning 🗓️ 2025-03-17
@@ -559,6 +576,8 @@
 - [Пишем морской бой на VueJS и Python](https://habr.com/ru/articles/874188/) 👤 Green21 💬 5065 🔖 #vue, #fastapi, #websocket 🗓️ 2025-01-20
 - [Error Handling No-Goes In Go](https://brainbaking.com/post/2024/03/error-handling-no-goes-in-go/) 👤 Brain Baking 💬 878 🔖 #go, #rust 🗓️ 2025-01-20
     > **Заметка:** Автор в очередной раз критикует паттерны обработки ошибок в Go, и хвалит оные в Rust.
+- [Best Network Technologies](https://nyadgar.com/posts/best-network-technologies/) 👤 Noam Yadgar 💬 3402 🔖 #api, #grpc, #network, #interview, #websocket 🗓️ 2025-01-20
+    > **Заметка:** Хороший краткий обзор протоколов, работающих на основе TCP/IP. Рассмотрены "за" и "против" при их выборе.
 - [What can strong engineers do that weak engineers can't?](https://www.seangoedecke.com/weak-engineers) 👤 seangoedecke.com 💬 1634 🔖 #development 🗓️ 2025-01-20
 - [Everyone's Favorite Route • The Applied Go Weekly Newsletter 2025-01-19](https://newsletter.appliedgo.net/archive/2025-01-19-everyones-favorite-route/) 👤 The Applied Go Weekly Newsletter 💬 1604 🔖 #go 🗓️ 2025-01-20
 - [Protecting your time from predators in large tech companies](https://seangoedecke.com/predators/) 👤 seangoedecke.com 💬 1287 🔖 #management, #development, #time management 🗓️ 2025-01-20
