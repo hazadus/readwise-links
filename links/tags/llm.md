@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 173
+- Всего ссылок: 175
 
 ## Ссылки
 
+- [Vibe Check: OpenAI Drops Two New Open-weight Models](mailto:reader-forwarded-email/9d190a564b17ad14bc61fb2bc078856c) 👤 Every 💬 1053 🔖 #llm, #try 🗓️ 2025-08-05
+    > **Резюме:** OpenAI released two new open-weight models that you can run on your own devices without internet. The smaller 20b model works on a MacBook, and the larger 120b model runs on a single GPU in a private cloud. These models use the same API as OpenAI’s cloud models, making it easy to switch between local and cloud use.
+- [Unnamed video](https://www.youtube.com/watch?v=Rpg9TQtqqhE) 👤 Unknown 🔖 #llm, #pydantic 🗓️ 2025-08-05
+    > **Резюме:** Access blocked by YouTube
 - [Why I'm Betting Against AI Agents in 2025 (Despite Building Them)](https://utkarshkanwat.com/writing/betting-against-agents/) 👤 Utkarsh Kanwat 💬 1714 🔖 #llm 🗓️ 2025-08-03
     > **Заметка:** From Iximiuz Newsletter
     > **Резюме:** The author has built many AI agent systems and sees big challenges in making them fully autonomous and reliable at scale. High error rates, costly context handling, and complex tool design limit their effectiveness. Success comes from clear boundaries, human control, and smart engineering—not from hype about fully autonomous agents.

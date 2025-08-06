@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 34
+- Всего ссылок: 32
 
 ## Ссылки
 
@@ -45,10 +45,6 @@
     > **Резюме:** The author explored thousands of MacPaint images from the early 1980s and found impressive digital art. They want to learn more about the artists and also plan to explore similar art on the Amiga computer. For those interested, there are resources like Discmaster and a book called Zen & The Art of The Macintosh to help create this style of art.
 - [Reflections on OpenAI](https://calv.info/openai-reflections) 👤 calv.info 💬 3855 🗓️ 2025-07-20
     > **Резюме:** The author recently left OpenAI and shares their experience of its fast growth and unique culture. OpenAI is very ambitious, secretive, and focused on practical AI risks while aiming to build AGI. Launching Codex was intense but rewarding, and the author sees OpenAI as a key player in the race for AGI.
-- [How to Make People Give a Damn](https://www.joanwestenberg.com/p/how-to-make-people-give-a-damn-92e3af37926932ef) 👤 Joan Westenberg 💬 1700 🗓️ 2025-07-14
-    > **Резюме:** Joan Westenberg believes making people care starts with honesty and urgency, not tricks or viral tactics. True connection comes from risk, sincerity, and caring deeply about something that matters. She aims to build a space for real ideas and meaningful conversations beyond shallow attention.
-- [being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form) 👤 Maalvika 💬 2656 🗓️ 2025-07-13
-    > **Резюме:** Being too ambitious makes us avoid doing because we fear failure and want everything perfect from the start. True creativity grows by making many imperfect attempts and learning from them. Success comes from showing up and improving steadily, not from imagining flawless results.
 - [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale) 👤 recall.ai 💬 1809 🔖 #postgresql 🗓️ 2025-07-11
     > **Резюме:** Postgres LISTEN/NOTIFY causes a global lock during transaction commits, which blocks other transactions. This lock creates serious performance problems under heavy write loads. Removing or avoiding NOTIFY helped the database run smoothly again.
 - [Mind Management, Not Time Management](private://read/01jy2bx4yjy7cc3fb6cs5zy8ma) 👤 David Kadavy 💬 72204 🗓️ 2025-06-18

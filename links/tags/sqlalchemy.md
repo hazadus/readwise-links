@@ -20,4 +20,4 @@
 - [(2) FastAPI with Async SQLAlchemy, SQLModel, and Alembic | TestDriven.io](https://testdriven.io/blog/fastapi-sqlmodel/) 👤 Michael Herman 💬 1685 🔖 #python, #alembic, #fastapi, #sqlmodel, #sqlalchemy 🗓️ 2024-04-09
     > **Резюме:** This tutorial explains how to use FastAPI with Async SQLAlchemy, SQLModel, and Alembic for working with databases asynchronously. It covers setting up SQLAlchemy models, configuring database migrations with Alembic, and updating route handlers for async execution. The tutorial aims to help you work with databases efficiently using FastAPI in a Python project.
 - [Python Friday #240: Asynchronous SQLAlchemy With FastAPI - Improve & Repeat](https://improveandrepeat.com/2024/08/python-friday-240-asynchronous-sqlalchemy-with-fastapi/) 👤 Johnny Graber 💬 1550 🔖 #pytest, #fastapi, #sqlalchemy 🗓️ 2024-08-17
-    > **Резюме:** None
+    > **Резюме:** This post shows how to change a to-do app to use asynchronous SQLAlchemy with FastAPI. It explains updating tests, database code, and API endpoints to use async and await. After these changes, the app runs asynchronously and all tests pass.

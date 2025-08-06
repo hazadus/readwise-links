@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 41
+- Всего ссылок: 42
 
 ## Ссылки
 
+- [Vibe Check: OpenAI Drops Two New Open-weight Models](mailto:reader-forwarded-email/9d190a564b17ad14bc61fb2bc078856c) 👤 Every 💬 1053 🔖 #llm, #try 🗓️ 2025-08-05
+    > **Резюме:** OpenAI released two new open-weight models that you can run on your own devices without internet. The smaller 20b model works on a MacBook, and the larger 120b model runs on a single GPU in a private cloud. These models use the same API as OpenAI’s cloud models, making it easy to switch between local and cloud use.
 - [Self-host Obsidian using Docker and Access it Via Web Browser](https://linuxhandbook.com/obsidian-docker-self-host/?ref=Obsidian+Rocks+Newsletter) 👤 Linux Handbook 💬 1042 🔖 #try, #obsidian, #selfhost 🗓️ 2025-08-03
     > **Резюме:** You can self-host Obsidian using Docker to access your notes via a web browser without needing desktop or mobile apps. This setup keeps all your data local and lets you avoid paid syncing services. It is easy to deploy and works well for people who want full control over their note-taking.
 - [Better alternative to shell scripts with Python, uv and pytest](https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/) 👤 Juha-Matti Santala 💬 1312 🔖 #uv, #try, #toot, #pytest, #python 🗓️ 2025-07-30

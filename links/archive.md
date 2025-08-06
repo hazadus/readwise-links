@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 888
+- Всего ссылок: 890
 
 ## Ссылки
 
@@ -54,6 +54,8 @@
 
 То есть это одновременно поп-культурная шутка (отсылка к герою «Симпсонов») и название описываемого автором метода работы с LLM.
 - [Building a RTS where you issue orders to AI agents](https://seangoedecke.com/wargame-agents/) 👤 seangoedecke.com 💬 1231 🔖 #llm 🗓️ 2025-07-14
+- [How to Make People Give a Damn](https://www.joanwestenberg.com/p/how-to-make-people-give-a-damn-92e3af37926932ef) 👤 Joan Westenberg 💬 1700 🗓️ 2025-07-14
+- [being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form) 👤 Maalvika 💬 2656 🗓️ 2025-07-13
 - [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck) 👤 Pedro Tavares 💬 462 🔖 #llm 🗓️ 2025-07-13
 - [Why we should anthropomorphize LLMs](https://seangoedecke.com/anthropomorphizing-llms/) 👤 seangoedecke.com 💬 1414 🔖 #llm 🗓️ 2025-07-10
 - [Mecha-Hitler, Grok, and why it's so hard to give LLMs the right personality](https://seangoedecke.com/ai-personality-space/) 👤 seangoedecke.com 💬 1243 🔖 #llm 🗓️ 2025-07-10

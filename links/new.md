@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 827
+- Всего ссылок: 829
 
 ## Ссылки
 
+- [Vibe Check: OpenAI Drops Two New Open-weight Models](mailto:reader-forwarded-email/9d190a564b17ad14bc61fb2bc078856c) 👤 Every 💬 1053 🔖 #llm, #try 🗓️ 2025-08-05
+- [Unnamed video](https://www.youtube.com/watch?v=Rpg9TQtqqhE) 👤 Unknown 🔖 #llm, #pydantic 🗓️ 2025-08-05
 - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/) 👤 Jake Lazaroff 💬 4002 🔖 #diy 🗓️ 2025-08-04
 - [12 Design Patterns in Vue](https://michaelnthiessen.com/12-design-patterns-vue) 👤 michaelnthiessen.com 💬 1662 🔖 #vue 🗓️ 2025-08-04
 - [linuxserver/obsidian¶](https://docs.linuxserver.io/images/docker-obsidian/) 👤 LinuxServer.io 💬 1521 🔖 #obsidian, #selfhost 🗓️ 2025-08-04
