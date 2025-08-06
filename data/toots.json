@@ -2,7 +2,8 @@
     "tooted_doc_ids": [
         "01k1fgaykmec4gy4d402zfepds",
         "01k10nxc0n273vs5yr52513y6k",
-        "01k1ddxewqhxcs47rafsc51dx4"
+        "01k1ddxewqhxcs47rafsc51dx4",
+        "01k1rwv6e2a00ngzby8tmks8f4"
     ],
     "toots": [
         {
@@ -22,6 +23,12 @@
             "document_title": "Better alternative to shell scripts with Python, uv and pytest",
             "source_url": "https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/",
             "toot_url": "https://fosstodon.org/@hazadus/114969518296614582"
+        },
+        {
+            "document_id": "01k1rwv6e2a00ngzby8tmks8f4",
+            "document_title": "Using AI Without Leaving the Terminal: A Guide to llm",
+            "source_url": "https://kashw1n.com/blog/llm-cli/",
+            "toot_url": "https://fosstodon.org/@hazadus/114981782224235397"
         }
     ]
 }
