@@ -1,11 +1,9 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 4
 
 ## Ссылки
 
-- [Unnamed video](https://www.youtube.com/watch?v=Rpg9TQtqqhE) 👤 Unknown 🔖 #llm, #pydantic 🗓️ 2025-08-05
-    > **Резюме:** Access blocked by YouTube
 - [Migration Guide](https://docs.pydantic.dev/2.0/migration/#changes-to-pydanticbasemodel) 👤 pydantic.dev 💬 4217 🔖 #pydantic 🗓️ 2024-12-10
     > **Резюме:** Pydantic V2 introduces significant changes, including renamed methods and the removal of some built-in data-loading functions. The handling of dataclasses and validation has also been updated, with new features like the TypeAdapter class for easier validation and JSON schema generation. Additionally, there are changes to how custom types and JSON schemas are defined and generated, improving flexibility and performance.
 - [Pydantic 2: Полное руководство для Python-разработчиков — от основ до продвинутых техник](https://habr.com/ru/companies/amvera/articles/851642/) 👤 Хабр 💬 5390 🔖 #pydantic 🗓️ 2024-12-04

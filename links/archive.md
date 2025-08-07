@@ -1,9 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 890
+- Всего ссылок: 893
 
 ## Ссылки
 
+- [How To Review Code](https://endler.dev/2025/how-to-review-code/) 👤 Matthias Endler 💬 2062 🔖 #codereview 🗓️ 2025-08-06
+- [AI interpretability has the same problems as philosophy of mind](https://seangoedecke.com/philosophy-and-ai-interpretability/) 👤 seangoedecke.com 💬 1719 🔖 #llm 🗓️ 2025-08-06
+- [OpenAI’s new open weight (Apache 2) models are really good](https://simonwillison.net/2025/Aug/5/gpt-oss/#atom-everything) 👤 Simon Willison 💬 1992 🔖 #llm, #try, #toot, #selfhost 🗓️ 2025-08-06
+    > **Заметка:** Попробовал gpt-oss:20b на своем скромном MB Air M1 16 Gb - работает, но оооочень медленно! На более современной  системе должно летать.
 - [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds) 👤 geoffreylitt.com 💬 765 🗓️ 2025-08-03
 - [Using AI Without Leaving the Terminal: A Guide to llm](https://kashw1n.com/blog/llm-cli/) 👤 kashw1n.com 💬 1184 🔖 #cli, #llm, #toot 🗓️ 2025-08-03
     > **Заметка:** Хорошая шпаргалка по утилите llm Саймона с дельными сценариями использования.

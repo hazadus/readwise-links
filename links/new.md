@@ -1,11 +1,17 @@
 # Новые ссылки
 
-- Всего ссылок: 829
+- Всего ссылок: 834
 
 ## Ссылки
 
-- [Vibe Check: OpenAI Drops Two New Open-weight Models](mailto:reader-forwarded-email/9d190a564b17ad14bc61fb2bc078856c) 👤 Every 💬 1053 🔖 #llm, #try 🗓️ 2025-08-05
-- [Unnamed video](https://www.youtube.com/watch?v=Rpg9TQtqqhE) 👤 Unknown 🔖 #llm, #pydantic 🗓️ 2025-08-05
+- [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/) 👤 Benjamin Sandofsky 💬 8956 🗓️ 2025-08-06
+- [Contra Ptacek's Terrible Article On AI](https://ludic.mataroa.blog/blog/contra-ptaceks-terrible-article-on-ai/) 👤 mataroa.blog 💬 4874 🗓️ 2025-08-06
+- [Developers, Reinvented](https://ashtom.github.io/developers-reinvented?utm_source=tldrwebdev) 👤 ashtom.github.io 💬 2002 🗓️ 2025-08-06
+    > **Заметка:** GitHub CEO
+- [Read That F*cking Code!](https://etsd.tech/posts/rtfc/?utm_source=tldrwebdev) 👤 Elie Teyssedou 💬 1426 🗓️ 2025-08-06
+- [Onboarding for coding agents](https://www.fuzzycomputer.com/posts/onboarding?utm_source=tldrwebdev) 👤 fuzzycomputer.com 💬 1171 🗓️ 2025-08-06
+- [Let's Write React Hooks From Scratch](https://playfulprogramming.com/posts/react-write-hooks-from-scratch?utm_source=tldrwebdev) 👤 Corbin Crutchley 💬 566 🗓️ 2025-08-06
+- [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/) 👤 colton.dev 💬 3767 🔖 #llm 🗓️ 2025-08-06
 - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/) 👤 Jake Lazaroff 💬 4002 🔖 #diy 🗓️ 2025-08-04
 - [12 Design Patterns in Vue](https://michaelnthiessen.com/12-design-patterns-vue) 👤 michaelnthiessen.com 💬 1662 🔖 #vue 🗓️ 2025-08-04
 - [linuxserver/obsidian¶](https://docs.linuxserver.io/images/docker-obsidian/) 👤 LinuxServer.io 💬 1521 🔖 #obsidian, #selfhost 🗓️ 2025-08-04

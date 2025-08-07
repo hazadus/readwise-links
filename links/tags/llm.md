@@ -1,13 +1,16 @@
 # Ссылки
 
-- Всего ссылок: 175
+- Всего ссылок: 176
 
 ## Ссылки
 
-- [Vibe Check: OpenAI Drops Two New Open-weight Models](mailto:reader-forwarded-email/9d190a564b17ad14bc61fb2bc078856c) 👤 Every 💬 1053 🔖 #llm, #try 🗓️ 2025-08-05
-    > **Резюме:** OpenAI released two new open-weight models that you can run on your own devices without internet. The smaller 20b model works on a MacBook, and the larger 120b model runs on a single GPU in a private cloud. These models use the same API as OpenAI’s cloud models, making it easy to switch between local and cloud use.
-- [Unnamed video](https://www.youtube.com/watch?v=Rpg9TQtqqhE) 👤 Unknown 🔖 #llm, #pydantic 🗓️ 2025-08-05
-    > **Резюме:** Access blocked by YouTube
+- [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/) 👤 colton.dev 💬 3767 🔖 #llm 🗓️ 2025-08-06
+    > **Резюме:** AI does not make engineers ten times more productive overall. It helps with small tasks but struggles with big projects and context. True productivity comes from preventing unnecessary work, not just faster coding.
+- [AI interpretability has the same problems as philosophy of mind](https://seangoedecke.com/philosophy-and-ai-interpretability/) 👤 seangoedecke.com 💬 1719 🔖 #llm 🗓️ 2025-08-06
+    > **Резюме:** AI interpretability uses probes to find patterns in language models, but these patterns may not mean the model truly "understands" concepts. This problem is similar to philosophy of mind, where it's unclear if beliefs are real or just useful tools for explaining behavior. Despite this, using human-like ideas about AI minds helps us better understand and work with them.
+- [OpenAI’s new open weight (Apache 2) models are really good](https://simonwillison.net/2025/Aug/5/gpt-oss/#atom-everything) 👤 Simon Willison 💬 1992 🔖 #llm, #try, #toot, #selfhost 🗓️ 2025-08-06
+    > **Заметка:** Попробовал gpt-oss:20b на своем скромном MB Air M1 16 Gb - работает, но оооочень медленно! На более современной  системе должно летать.
+    > **Резюме:** OpenAI has released new open weight models that perform very well on reasoning benchmarks. These models run efficiently on common hardware and compete with top proprietary and Chinese open models. They also introduce a new prompt format called OpenAI Harmony to improve tool calling and response handling.
 - [Why I'm Betting Against AI Agents in 2025 (Despite Building Them)](https://utkarshkanwat.com/writing/betting-against-agents/) 👤 Utkarsh Kanwat 💬 1714 🔖 #llm 🗓️ 2025-08-03
     > **Заметка:** From Iximiuz Newsletter
     > **Резюме:** The author has built many AI agent systems and sees big challenges in making them fully autonomous and reliable at scale. High error rates, costly context handling, and complex tool design limit their effectiveness. Success comes from clear boundaries, human control, and smart engineering—not from hype about fully autonomous agents.
