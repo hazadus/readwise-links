@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/) 👤 colton.dev 💬 3767 🔖 #llm, #toot, #programming 🗓️ 2025-08-06
+    > **Заметка:** Детальный разбор вопроса и масса интереснейших ссылок внутри. Аналогия с винилом мне очень близка 😇
+    > **Резюме:** AI does not make engineers ten times more productive overall. It helps with small tasks but struggles with big projects and context. True productivity comes from preventing unnecessary work, not just faster coding.
 - [OpenAI’s new open weight (Apache 2) models are really good](https://simonwillison.net/2025/Aug/5/gpt-oss/#atom-everything) 👤 Simon Willison 💬 1992 🔖 #llm, #try, #toot, #selfhost 🗓️ 2025-08-06
     > **Заметка:** Попробовал gpt-oss:20b на своем скромном MB Air M1 16 Gb - работает, но оооочень медленно! На более современной  системе должно летать.
     > **Резюме:** OpenAI has released new open weight models that perform very well on reasoning benchmarks. These models run efficiently on common hardware and compete with top proprietary and Chinese open models. They also introduce a new prompt format called OpenAI Harmony to improve tool calling and response handling.

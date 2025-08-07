@@ -1,10 +1,18 @@
 # Ссылки
 
-- Всего ссылок: 176
+- Всего ссылок: 179
 
 ## Ссылки
 
-- [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/) 👤 colton.dev 💬 3767 🔖 #llm 🗓️ 2025-08-06
+- [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/#atom-everything) 👤 Simon Willison 💬 1864 🔖 #llm 🗓️ 2025-08-07
+    > **Заметка:** Обзор выпущенного сегодня GPT-5 от Саймона, на основе двухнедельного опыта использования.
+    > **Резюме:** GPT-5 is a powerful new model family that uses smart routing to handle different tasks and levels of reasoning. It improves safety, reduces errors, and focuses on writing, coding, and health use cases. However, its API does not show visible thinking steps, unlike the ChatGPT interface.
+- [GPT-5: It Just Does Stuff](https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff) 👤 Ethan Mollick 💬 1859 🔖 #llm 🗓️ 2025-08-07
+    > **Резюме:** GPT-5 is a powerful AI that automatically chooses the best way to solve problems and often does more than asked. It helps users by suggesting next steps and creating complex work with little guidance. This makes using AI easier and more impressive than before.
+- [OpenAI's new open-source model is basically Phi-5](https://seangoedecke.com/gpt-oss-is-phi-5/) 👤 seangoedecke.com 💬 837 🔖 #llm 🗓️ 2025-08-07
+    > **Резюме:** OpenAI released new open-source models that perform well on tests but struggle with real-world tasks. These models were likely trained on synthetic data to ensure safety and control. This approach helps prevent harmful behavior but may limit the models' usefulness outside benchmarks.
+- [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/) 👤 colton.dev 💬 3767 🔖 #llm, #toot, #programming 🗓️ 2025-08-06
+    > **Заметка:** Детальный разбор вопроса и масса интереснейших ссылок внутри. Аналогия с винилом мне очень близка 😇
     > **Резюме:** AI does not make engineers ten times more productive overall. It helps with small tasks but struggles with big projects and context. True productivity comes from preventing unnecessary work, not just faster coding.
 - [AI interpretability has the same problems as philosophy of mind](https://seangoedecke.com/philosophy-and-ai-interpretability/) 👤 seangoedecke.com 💬 1719 🔖 #llm 🗓️ 2025-08-06
     > **Резюме:** AI interpretability uses probes to find patterns in language models, but these patterns may not mean the model truly "understands" concepts. This problem is similar to philosophy of mind, where it's unclear if beliefs are real or just useful tools for explaining behavior. Despite this, using human-like ideas about AI minds helps us better understand and work with them.

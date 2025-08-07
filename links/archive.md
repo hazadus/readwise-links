@@ -1,9 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 893
+- Всего ссылок: 895
 
 ## Ссылки
 
+- [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/#atom-everything) 👤 Simon Willison 💬 1864 🔖 #llm 🗓️ 2025-08-07
+    > **Заметка:** Обзор выпущенного сегодня GPT-5 от Саймона, на основе двухнедельного опыта использования.
+- [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/) 👤 colton.dev 💬 3767 🔖 #llm, #toot, #programming 🗓️ 2025-08-06
+    > **Заметка:** Детальный разбор вопроса и масса интереснейших ссылок внутри. Аналогия с винилом мне очень близка 😇
 - [How To Review Code](https://endler.dev/2025/how-to-review-code/) 👤 Matthias Endler 💬 2062 🔖 #codereview 🗓️ 2025-08-06
 - [AI interpretability has the same problems as philosophy of mind](https://seangoedecke.com/philosophy-and-ai-interpretability/) 👤 seangoedecke.com 💬 1719 🔖 #llm 🗓️ 2025-08-06
 - [OpenAI’s new open weight (Apache 2) models are really good](https://simonwillison.net/2025/Aug/5/gpt-oss/#atom-everything) 👤 Simon Willison 💬 1992 🔖 #llm, #try, #toot, #selfhost 🗓️ 2025-08-06
