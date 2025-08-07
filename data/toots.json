@@ -4,7 +4,8 @@
         "01k10nxc0n273vs5yr52513y6k",
         "01k1ddxewqhxcs47rafsc51dx4",
         "01k1rwv6e2a00ngzby8tmks8f4",
-        "01k1yvpvs26ynrsfkp55z0wgje"
+        "01k1yvpvs26ynrsfkp55z0wgje",
+        "01k1yvxc3ew4ak8ss5d6z6wfxa"
     ],
     "toots": [
         {
@@ -36,6 +37,12 @@
             "document_title": "OpenAI’s new open weight (Apache 2) models are really good",
             "source_url": "https://simonwillison.net/2025/Aug/5/gpt-oss/#atom-everything",
             "toot_url": "https://fosstodon.org/@hazadus/114989425920884009"
+        },
+        {
+            "document_id": "01k1yvxc3ew4ak8ss5d6z6wfxa",
+            "document_title": "No, AI is not Making Engineers 10x as Productive",
+            "source_url": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
+            "toot_url": "https://fosstodon.org/@hazadus/114989452214074757"
         }
     ]
 }
