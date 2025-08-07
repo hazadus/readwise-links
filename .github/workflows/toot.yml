@@ -1,0 +1,48 @@
+name: Публикация туитов
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 7 * * *" # At 07:00 UTC every day
+
+permissions:
+  contents: write
+
+jobs:
+  publish-toots:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install uv
+        run: |
+          curl -LsSf https://astral.sh/uv/install.sh | sh
+          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+
+      - name: Install dependencies
+        run: |
+          uv sync --all-groups --link-mode=copy;
+
+      - name: Save Mastodon credentials
+        run: |
+          echo "${{ secrets.TOOT_USERCRED_SECRET }}" > toot_usercred.secret
+
+      - name: Run toot script
+        run: |
+          uv run ./app/toot.py
+
+      - name: Commit and push
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add ./data/toots.json
+          timestamp=$(date -u)
+          git commit -m "Новые туиты от ${timestamp}" || exit 0
+          git pull --rebase
+          git push
