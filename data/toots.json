@@ -3,7 +3,8 @@
         "01k1fgaykmec4gy4d402zfepds",
         "01k10nxc0n273vs5yr52513y6k",
         "01k1ddxewqhxcs47rafsc51dx4",
-        "01k1rwv6e2a00ngzby8tmks8f4"
+        "01k1rwv6e2a00ngzby8tmks8f4",
+        "01k1yvpvs26ynrsfkp55z0wgje"
     ],
     "toots": [
         {
@@ -29,6 +30,12 @@
             "document_title": "Using AI Without Leaving the Terminal: A Guide to llm",
             "source_url": "https://kashw1n.com/blog/llm-cli/",
             "toot_url": "https://fosstodon.org/@hazadus/114981782224235397"
+        },
+        {
+            "document_id": "01k1yvpvs26ynrsfkp55z0wgje",
+            "document_title": "OpenAI’s new open weight (Apache 2) models are really good",
+            "source_url": "https://simonwillison.net/2025/Aug/5/gpt-oss/#atom-everything",
+            "toot_url": "https://fosstodon.org/@hazadus/114989425920884009"
         }
     ]
 }
