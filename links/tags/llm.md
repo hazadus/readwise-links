@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 179
+- Всего ссылок: 182
 
 ## Ссылки
 
@@ -9,8 +9,17 @@
     > **Резюме:** GPT-5 is a powerful new model family that uses smart routing to handle different tasks and levels of reasoning. It improves safety, reduces errors, and focuses on writing, coding, and health use cases. However, its API does not show visible thinking steps, unlike the ChatGPT interface.
 - [GPT-5: It Just Does Stuff](https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff) 👤 Ethan Mollick 💬 1859 🔖 #llm 🗓️ 2025-08-07
     > **Резюме:** GPT-5 is a powerful AI that automatically chooses the best way to solve problems and often does more than asked. It helps users by suggesting next steps and creating complex work with little guidance. This makes using AI easier and more impressive than before.
-- [OpenAI's new open-source model is basically Phi-5](https://seangoedecke.com/gpt-oss-is-phi-5/) 👤 seangoedecke.com 💬 837 🔖 #llm 🗓️ 2025-08-07
+- [OpenAI's new open-source model is basically Phi-5](https://seangoedecke.com/gpt-oss-is-phi-5/) 👤 seangoedecke.com 💬 837 🔖 #llm, #toot 🗓️ 2025-08-07
+    > **Заметка:** Шон не в восторге от новых OSS моделей OpenAI
     > **Резюме:** OpenAI released new open-source models that perform well on tests but struggle with real-world tasks. These models were likely trained on synthetic data to ensure safety and control. This approach helps prevent harmful behavior but may limit the models' usefulness outside benchmarks.
+- [Developers, not operators](https://victorwynne.com/developers-not-operators/?utm_source=tldrwebdev) 👤 Victor Wynne 💬 1356 🔖 #llm, #toot, #github, #programming 🗓️ 2025-08-07
+    > **Заметка:** Чувак аккуратно разобрал навязчивые идеи в посте главы ГитХабa, молодец. 
+    > **Резюме:** Developers should have the freedom to choose their own tools and ways of working, including whether or not to use AI. AI can help, but it doesn’t replace the deep thinking and craftsmanship behind good software. The future of software needs many kinds of developers, not just one AI-driven path.
+- [Contra Ptacek's Terrible Article On AI](https://ludic.mataroa.blog/blog/contra-ptaceks-terrible-article-on-ai/) 👤 mataroa.blog 💬 4874 🔖 #llm, #programming 🗓️ 2025-08-06
+    > **Резюме:** The author criticizes Thomas Ptacek's article on AI for poor reasoning and overhyping the technology. They argue that many programmers use AI cautiously and that executives often push AI for the wrong reasons. The author warns that blindly following AI trends can cause real harm and distract from important work.
+- [Developers, Reinvented](https://ashtom.github.io/developers-reinvented?utm_source=tldrwebdev) 👤 ashtom.github.io 💬 2002 🔖 #llm, #toot, #github, #programming 🗓️ 2025-08-06
+    > **Заметка:** GitHub CEO про разработку с AI. Дельные мысли есть, но нет души в посте - как будто подчиненные за него писали 😂 И слишком обобщает. Как будто его Stage 4 - единственно верный путь. 
+    > **Резюме:** AI is changing how developers work by shifting their role from coding to managing and verifying AI tools. Developers grow through stages, from skepticism to collaborating closely with AI to build complex software. This change calls for new skills like AI fluency, strong problem framing, and system thinking, reshaping education and jobs in software development.
 - [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/) 👤 colton.dev 💬 3767 🔖 #llm, #toot, #programming 🗓️ 2025-08-06
     > **Заметка:** Детальный разбор вопроса и масса интереснейших ссылок внутри. Аналогия с винилом мне очень близка 😇
     > **Резюме:** AI does not make engineers ten times more productive overall. It helps with small tasks but struggles with big projects and context. True productivity comes from preventing unnecessary work, not just faster coding.

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 50
+- Всего ссылок: 51
 
 ## Ссылки
 
+- [Ludic's Guide To Getting Software Engineering Jobs](https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/) 👤 mataroa.blog 💬 8531 🔖 #career 🗓️ 2025-08-07
+    > **Резюме:** Getting software engineering jobs often means starting with many mediocre, short-term roles. Success comes from quickly applying, not stressing about perfect fits, and being open to day-rate contracts. Building connections and being clear about your needs helps find better, well-paid jobs later.
 - [From trying to impress engineers to trying to impress managers](https://seangoedecke.com/impressing-people/) 👤 seangoedecke.com 💬 1335 🔖 #career 🗓️ 2025-08-02
     > **Резюме:** Early in a tech career, engineers want to impress senior engineers by solving hard problems. As they grow, they must impress managers and product managers, who value speed and delivery more than deep technical skill. This shift can feel unsatisfying, and engineers handle it by adapting, opting out, or finding personal meaning beyond others’ approval.
 - [Why Cringe Tolerance Separates Builders from Non-Builders](https://www.joanwestenberg.com/p/why-cringe-tolerance-separates-builders-from-non-builders-590c09e6f3021d4f) 👤 Joan Westenberg 💬 938 🔖 #career, #learning 🗓️ 2025-07-16

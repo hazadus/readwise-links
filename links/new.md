@@ -1,20 +1,17 @@
 # Новые ссылки
 
-- Всего ссылок: 840
+- Всего ссылок: 838
 
 ## Ссылки
 
+- [Ludic's Guide To Getting Software Engineering Jobs](https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/) 👤 mataroa.blog 💬 8531 🔖 #career 🗓️ 2025-08-07
+- [Trusting your own judgement on ‘AI’ is a huge risk](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/) 👤 baldurbjarnason.com 💬 3600 🗓️ 2025-08-07
 - [Tailwind is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/) 👤 colton.dev 💬 2793 🗓️ 2025-08-07
-- [GPT-5: It Just Does Stuff](https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff) 👤 Ethan Mollick 💬 1859 🔖 #llm 🗓️ 2025-08-07
 - [Что там у «Рика и Морти» в 8-м сезоне? Риковое поле экспериментов](https://www.mirf.ru/serial/rik-i-morti-8-sezon) 👤 mirf.ru 💬 921 🗓️ 2025-08-07
-- [OpenAI's new open-source model is basically Phi-5](https://seangoedecke.com/gpt-oss-is-phi-5/) 👤 seangoedecke.com 💬 837 🔖 #llm 🗓️ 2025-08-07
 - [All the concerns that make you a boring developer](https://daverupert.com/2025/08/got-99-engineering-problems-but-a-grift-aint-one/) 👤 Dave Rupert 💬 739 🗓️ 2025-08-07
 - [Why Building Billing Systems is So Painful](https://www.dmitry.ie/2024/why-building-billing-systems-is-so-painful?utm_source=tldrwebdev) 👤 dmitry.ie 💬 1859 🗓️ 2025-08-07
-- [Developers, not operators](https://victorwynne.com/developers-not-operators/?utm_source=tldrwebdev) 👤 Victor Wynne 💬 1356 🗓️ 2025-08-07
 - [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/) 👤 Benjamin Sandofsky 💬 8956 🗓️ 2025-08-06
-- [Contra Ptacek's Terrible Article On AI](https://ludic.mataroa.blog/blog/contra-ptaceks-terrible-article-on-ai/) 👤 mataroa.blog 💬 4874 🗓️ 2025-08-06
-- [Developers, Reinvented](https://ashtom.github.io/developers-reinvented?utm_source=tldrwebdev) 👤 ashtom.github.io 💬 2002 🗓️ 2025-08-06
-    > **Заметка:** GitHub CEO
+- [Contra Ptacek's Terrible Article On AI](https://ludic.mataroa.blog/blog/contra-ptaceks-terrible-article-on-ai/) 👤 mataroa.blog 💬 4874 🔖 #llm, #programming 🗓️ 2025-08-06
 - [Read That F*cking Code!](https://etsd.tech/posts/rtfc/?utm_source=tldrwebdev) 👤 Elie Teyssedou 💬 1426 🗓️ 2025-08-06
 - [Onboarding for coding agents](https://www.fuzzycomputer.com/posts/onboarding?utm_source=tldrwebdev) 👤 fuzzycomputer.com 💬 1171 🗓️ 2025-08-06
 - [Let's Write React Hooks From Scratch](https://playfulprogramming.com/posts/react-write-hooks-from-scratch?utm_source=tldrwebdev) 👤 Corbin Crutchley 💬 566 🗓️ 2025-08-06

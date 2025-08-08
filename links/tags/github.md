@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 20
 
 ## Ссылки
 
+- [Developers, not operators](https://victorwynne.com/developers-not-operators/?utm_source=tldrwebdev) 👤 Victor Wynne 💬 1356 🔖 #llm, #toot, #github, #programming 🗓️ 2025-08-07
+    > **Заметка:** Чувак аккуратно разобрал навязчивые идеи в посте главы ГитХабa, молодец. 
+    > **Резюме:** Developers should have the freedom to choose their own tools and ways of working, including whether or not to use AI. AI can help, but it doesn’t replace the deep thinking and craftsmanship behind good software. The future of software needs many kinds of developers, not just one AI-driven path.
+- [Developers, Reinvented](https://ashtom.github.io/developers-reinvented?utm_source=tldrwebdev) 👤 ashtom.github.io 💬 2002 🔖 #llm, #toot, #github, #programming 🗓️ 2025-08-06
+    > **Заметка:** GitHub CEO про разработку с AI. Дельные мысли есть, но нет души в посте - как будто подчиненные за него писали 😂 И слишком обобщает. Как будто его Stage 4 - единственно верный путь. 
+    > **Резюме:** AI is changing how developers work by shifting their role from coding to managing and verifying AI tools. Developers grow through stages, from skepticism to collaborating closely with AI to build complex software. This change calls for new skills like AI fluency, strong problem framing, and system thinking, reshaping education and jobs in software development.
 - [Using GitHub Spark to reverse engineer GitHub Spark](https://simonwillison.net/2025/Jul/24/github-spark/#atom-everything) 👤 Simon Willison 💬 3185 🔖 #llm, #github 🗓️ 2025-07-25
     > **Резюме:** GitHub Spark is a tool that builds web apps from prompts and lets users edit, save, and deploy them easily. Simon Willison used Spark to create documentation explaining how Spark works inside. He found the system prompt detailed and praised Spark’s design, but wants more features like access for unauthenticated users.
 - [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05

@@ -1,11 +1,18 @@
 # Архивные ссылки
 
-- Всего ссылок: 895
+- Всего ссылок: 899
 
 ## Ссылки
 
 - [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/#atom-everything) 👤 Simon Willison 💬 1864 🔖 #llm 🗓️ 2025-08-07
     > **Заметка:** Обзор выпущенного сегодня GPT-5 от Саймона, на основе двухнедельного опыта использования.
+- [GPT-5: It Just Does Stuff](https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff) 👤 Ethan Mollick 💬 1859 🔖 #llm 🗓️ 2025-08-07
+- [OpenAI's new open-source model is basically Phi-5](https://seangoedecke.com/gpt-oss-is-phi-5/) 👤 seangoedecke.com 💬 837 🔖 #llm, #toot 🗓️ 2025-08-07
+    > **Заметка:** Шон не в восторге от новых OSS моделей OpenAI
+- [Developers, not operators](https://victorwynne.com/developers-not-operators/?utm_source=tldrwebdev) 👤 Victor Wynne 💬 1356 🔖 #llm, #toot, #github, #programming 🗓️ 2025-08-07
+    > **Заметка:** Чувак аккуратно разобрал навязчивые идеи в посте главы ГитХабa, молодец. 
+- [Developers, Reinvented](https://ashtom.github.io/developers-reinvented?utm_source=tldrwebdev) 👤 ashtom.github.io 💬 2002 🔖 #llm, #toot, #github, #programming 🗓️ 2025-08-06
+    > **Заметка:** GitHub CEO про разработку с AI. Дельные мысли есть, но нет души в посте - как будто подчиненные за него писали 😂 И слишком обобщает. Как будто его Stage 4 - единственно верный путь. 
 - [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/) 👤 colton.dev 💬 3767 🔖 #llm, #toot, #programming 🗓️ 2025-08-06
     > **Заметка:** Детальный разбор вопроса и масса интереснейших ссылок внутри. Аналогия с винилом мне очень близка 😇
 - [How To Review Code](https://endler.dev/2025/how-to-review-code/) 👤 Matthias Endler 💬 2062 🔖 #codereview 🗓️ 2025-08-06
