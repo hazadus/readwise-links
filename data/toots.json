@@ -5,7 +5,10 @@
         "01k1ddxewqhxcs47rafsc51dx4",
         "01k1rwv6e2a00ngzby8tmks8f4",
         "01k1yvpvs26ynrsfkp55z0wgje",
-        "01k1yvxc3ew4ak8ss5d6z6wfxa"
+        "01k1yvxc3ew4ak8ss5d6z6wfxa",
+        "01k230k4yava88n75fz6a9a9gw",
+        "01k22zp4s9q4h82kqa3vddqgwn",
+        "01k20kekwky29vkjj14wzrzbv5"
     ],
     "toots": [
         {
@@ -43,6 +46,24 @@
             "document_title": "No, AI is not Making Engineers 10x as Productive",
             "source_url": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
             "toot_url": "https://fosstodon.org/@hazadus/114989452214074757"
+        },
+        {
+            "document_id": "01k230k4yava88n75fz6a9a9gw",
+            "document_title": "OpenAI's new open-source model is basically Phi-5",
+            "source_url": "https://seangoedecke.com/gpt-oss-is-phi-5/",
+            "toot_url": "https://fosstodon.org/@hazadus/114991912475897813"
+        },
+        {
+            "document_id": "01k22zp4s9q4h82kqa3vddqgwn",
+            "document_title": "Developers, not operators",
+            "source_url": "https://victorwynne.com/developers-not-operators/?utm_source=tldrwebdev",
+            "toot_url": "https://fosstodon.org/@hazadus/114991912499413803"
+        },
+        {
+            "document_id": "01k20kekwky29vkjj14wzrzbv5",
+            "document_title": "Developers, Reinvented",
+            "source_url": "https://ashtom.github.io/developers-reinvented?utm_source=tldrwebdev",
+            "toot_url": "https://fosstodon.org/@hazadus/114991912534410351"
         }
     ]
 }
