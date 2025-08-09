@@ -8,7 +8,8 @@
         "01k1yvxc3ew4ak8ss5d6z6wfxa",
         "01k230k4yava88n75fz6a9a9gw",
         "01k22zp4s9q4h82kqa3vddqgwn",
-        "01k20kekwky29vkjj14wzrzbv5"
+        "01k20kekwky29vkjj14wzrzbv5",
+        "01k1tfb42qag0rtdvet4q12xj3"
     ],
     "toots": [
         {
@@ -64,6 +65,12 @@
             "document_title": "Developers, Reinvented",
             "source_url": "https://ashtom.github.io/developers-reinvented?utm_source=tldrwebdev",
             "toot_url": "https://fosstodon.org/@hazadus/114991912534410351"
+        },
+        {
+            "document_id": "01k1tfb42qag0rtdvet4q12xj3",
+            "document_title": "12 Design Patterns in Vue",
+            "source_url": "https://michaelnthiessen.com/12-design-patterns-vue",
+            "toot_url": "https://fosstodon.org/@hazadus/114997546597688332"
         }
     ]
 }
