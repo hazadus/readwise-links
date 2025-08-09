@@ -1,9 +1,13 @@
 # Новые ссылки
 
-- Всего ссылок: 838
+- Всего ссылок: 839
 
 ## Ссылки
 
+- [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/) 👤 August 8 💬 1561 🗓️ 2025-08-08
+- [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/?utm_source=tldrwebdev) 👤 natalie.sh 💬 1228 🔖 #bluesky 🗓️ 2025-08-08
+- [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/?utm_source=tldrwebdev) 👤 Jerop Kipruto 💬 638 🔖 #cli, #llm, #try 🗓️ 2025-08-08
+- [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/) 👤 James Bennett 💬 3225 🗓️ 2025-08-08
 - [Ludic's Guide To Getting Software Engineering Jobs](https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/) 👤 mataroa.blog 💬 8531 🔖 #career 🗓️ 2025-08-07
 - [Trusting your own judgement on ‘AI’ is a huge risk](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/) 👤 baldurbjarnason.com 💬 3600 🗓️ 2025-08-07
 - [Tailwind is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/) 👤 colton.dev 💬 2793 🗓️ 2025-08-07
@@ -11,12 +15,9 @@
 - [All the concerns that make you a boring developer](https://daverupert.com/2025/08/got-99-engineering-problems-but-a-grift-aint-one/) 👤 Dave Rupert 💬 739 🗓️ 2025-08-07
 - [Why Building Billing Systems is So Painful](https://www.dmitry.ie/2024/why-building-billing-systems-is-so-painful?utm_source=tldrwebdev) 👤 dmitry.ie 💬 1859 🗓️ 2025-08-07
 - [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/) 👤 Benjamin Sandofsky 💬 8956 🗓️ 2025-08-06
-- [Contra Ptacek's Terrible Article On AI](https://ludic.mataroa.blog/blog/contra-ptaceks-terrible-article-on-ai/) 👤 mataroa.blog 💬 4874 🔖 #llm, #programming 🗓️ 2025-08-06
-- [Read That F*cking Code!](https://etsd.tech/posts/rtfc/?utm_source=tldrwebdev) 👤 Elie Teyssedou 💬 1426 🗓️ 2025-08-06
 - [Onboarding for coding agents](https://www.fuzzycomputer.com/posts/onboarding?utm_source=tldrwebdev) 👤 fuzzycomputer.com 💬 1171 🗓️ 2025-08-06
 - [Let's Write React Hooks From Scratch](https://playfulprogramming.com/posts/react-write-hooks-from-scratch?utm_source=tldrwebdev) 👤 Corbin Crutchley 💬 566 🗓️ 2025-08-06
 - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/) 👤 Jake Lazaroff 💬 4002 🔖 #diy 🗓️ 2025-08-04
-- [12 Design Patterns in Vue](https://michaelnthiessen.com/12-design-patterns-vue) 👤 michaelnthiessen.com 💬 1662 🔖 #vue 🗓️ 2025-08-04
 - [linuxserver/obsidian¶](https://docs.linuxserver.io/images/docker-obsidian/) 👤 LinuxServer.io 💬 1521 🔖 #obsidian, #selfhost 🗓️ 2025-08-04
 - [Гайд по кастомизации vscode: горячие клавиши вместо глобальных менюшек](https://www.youtube.com/watch?v=wxbifNb1Q1o) 👤 Никита Соболев 🗓️ 2025-08-04
 - [Создание умных AI-агентов: полный курс по LangGraph от А до Я. Часть 1. Архитектура: графы, узлы и состояния](https://habr.com/ru/companies/amvera/articles/933460/) 👤 yakvenalex 💬 5040 🗓️ 2025-08-04

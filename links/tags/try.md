@@ -1,12 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 42
+- Всего ссылок: 44
 
 ## Ссылки
 
+- [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/?utm_source=tldrwebdev) 👤 Jerop Kipruto 💬 638 🔖 #cli, #llm, #try 🗓️ 2025-08-08
+    > **Резюме:** Gemini CLI GitHub Actions is a free AI tool that helps teams automate coding tasks like issue triage and pull request reviews. It works in the background on GitHub and can be controlled by simple commands. The tool is secure, customizable, and available now in beta for developers worldwide.
 - [OpenAI’s new open weight (Apache 2) models are really good](https://simonwillison.net/2025/Aug/5/gpt-oss/#atom-everything) 👤 Simon Willison 💬 1992 🔖 #llm, #try, #toot, #selfhost 🗓️ 2025-08-06
     > **Заметка:** Попробовал gpt-oss:20b на своем скромном MB Air M1 16 Gb - работает, но оооочень медленно! На более современной  системе должно летать.
     > **Резюме:** OpenAI has released new open weight models that perform very well on reasoning benchmarks. These models run efficiently on common hardware and compete with top proprietary and Chinese open models. They also introduce a new prompt format called OpenAI Harmony to improve tool calling and response handling.
+- [12 Design Patterns in Vue](https://michaelnthiessen.com/12-design-patterns-vue) 👤 michaelnthiessen.com 💬 1662 🔖 #try, #vue, #nuxt, #toot, #webdev, #patterns, #programming 🗓️ 2025-08-04
+    > **Заметка:** Краткая и ёмкая подборка паттернов разработки с Vue от Майкла. Очень качественный материал!
+    > **Резюме:** The article discusses 12 design patterns specifically for Vue, highlighting their importance in writing maintainable code. It introduces concepts like Thin Composables, Humble Components, and the Strategy Pattern, showing how to simplify and organize Vue applications. For more detailed examples and additional patterns, readers can explore further resources provided in the article.
 - [Self-host Obsidian using Docker and Access it Via Web Browser](https://linuxhandbook.com/obsidian-docker-self-host/?ref=Obsidian+Rocks+Newsletter) 👤 Linux Handbook 💬 1042 🔖 #try, #obsidian, #selfhost 🗓️ 2025-08-03
     > **Резюме:** You can self-host Obsidian using Docker to access your notes via a web browser without needing desktop or mobile apps. This setup keeps all your data local and lets you avoid paid syncing services. It is easy to deploy and works well for people who want full control over their note-taking.
 - [Better alternative to shell scripts with Python, uv and pytest](https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/) 👤 Juha-Matti Santala 💬 1312 🔖 #uv, #try, #toot, #pytest, #python 🗓️ 2025-07-30

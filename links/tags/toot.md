@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
@@ -19,6 +19,9 @@
 - [OpenAI’s new open weight (Apache 2) models are really good](https://simonwillison.net/2025/Aug/5/gpt-oss/#atom-everything) 👤 Simon Willison 💬 1992 🔖 #llm, #try, #toot, #selfhost 🗓️ 2025-08-06
     > **Заметка:** Попробовал gpt-oss:20b на своем скромном MB Air M1 16 Gb - работает, но оооочень медленно! На более современной  системе должно летать.
     > **Резюме:** OpenAI has released new open weight models that perform very well on reasoning benchmarks. These models run efficiently on common hardware and compete with top proprietary and Chinese open models. They also introduce a new prompt format called OpenAI Harmony to improve tool calling and response handling.
+- [12 Design Patterns in Vue](https://michaelnthiessen.com/12-design-patterns-vue) 👤 michaelnthiessen.com 💬 1662 🔖 #try, #vue, #nuxt, #toot, #webdev, #patterns, #programming 🗓️ 2025-08-04
+    > **Заметка:** Краткая и ёмкая подборка паттернов разработки с Vue от Майкла. Очень качественный материал!
+    > **Резюме:** The article discusses 12 design patterns specifically for Vue, highlighting their importance in writing maintainable code. It introduces concepts like Thin Composables, Humble Components, and the Strategy Pattern, showing how to simplify and organize Vue applications. For more detailed examples and additional patterns, readers can explore further resources provided in the article.
 - [Using AI Without Leaving the Terminal: A Guide to llm](https://kashw1n.com/blog/llm-cli/) 👤 kashw1n.com 💬 1184 🔖 #cli, #llm, #toot 🗓️ 2025-08-03
     > **Заметка:** Хорошая шпаргалка по утилите llm Саймона с дельными сценариями использования.
     > **Резюме:** llm is a command-line tool that lets you use many AI models directly in the terminal. It saves conversations automatically and works well with files, pipes, and plugins. This tool helps developers work faster by combining AI with their normal coding workflow.

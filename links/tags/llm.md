@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 182
+- Всего ссылок: 184
 
 ## Ссылки
 
+- [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/?utm_source=tldrwebdev) 👤 Jerop Kipruto 💬 638 🔖 #cli, #llm, #try 🗓️ 2025-08-08
+    > **Резюме:** Gemini CLI GitHub Actions is a free AI tool that helps teams automate coding tasks like issue triage and pull request reviews. It works in the background on GitHub and can be controlled by simple commands. The tool is secure, customizable, and available now in beta for developers worldwide.
 - [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/#atom-everything) 👤 Simon Willison 💬 1864 🔖 #llm 🗓️ 2025-08-07
     > **Заметка:** Обзор выпущенного сегодня GPT-5 от Саймона, на основе двухнедельного опыта использования.
     > **Резюме:** GPT-5 is a powerful new model family that uses smart routing to handle different tasks and levels of reasoning. It improves safety, reduces errors, and focuses on writing, coding, and health use cases. However, its API does not show visible thinking steps, unlike the ChatGPT interface.
@@ -15,11 +17,13 @@
 - [Developers, not operators](https://victorwynne.com/developers-not-operators/?utm_source=tldrwebdev) 👤 Victor Wynne 💬 1356 🔖 #llm, #toot, #github, #programming 🗓️ 2025-08-07
     > **Заметка:** Чувак аккуратно разобрал навязчивые идеи в посте главы ГитХабa, молодец. 
     > **Резюме:** Developers should have the freedom to choose their own tools and ways of working, including whether or not to use AI. AI can help, but it doesn’t replace the deep thinking and craftsmanship behind good software. The future of software needs many kinds of developers, not just one AI-driven path.
-- [Contra Ptacek's Terrible Article On AI](https://ludic.mataroa.blog/blog/contra-ptaceks-terrible-article-on-ai/) 👤 mataroa.blog 💬 4874 🔖 #llm, #programming 🗓️ 2025-08-06
+- [Contra Ptacek's Terrible Article On AI](https://ludic.mataroa.blog/blog/contra-ptaceks-terrible-article-on-ai/) 👤 mataroa.blog 💬 4874 🔖 #llm 🗓️ 2025-08-06
     > **Резюме:** The author criticizes Thomas Ptacek's article on AI for poor reasoning and overhyping the technology. They argue that many programmers use AI cautiously and that executives often push AI for the wrong reasons. The author warns that blindly following AI trends can cause real harm and distract from important work.
 - [Developers, Reinvented](https://ashtom.github.io/developers-reinvented?utm_source=tldrwebdev) 👤 ashtom.github.io 💬 2002 🔖 #llm, #toot, #github, #programming 🗓️ 2025-08-06
     > **Заметка:** GitHub CEO про разработку с AI. Дельные мысли есть, но нет души в посте - как будто подчиненные за него писали 😂 И слишком обобщает. Как будто его Stage 4 - единственно верный путь. 
     > **Резюме:** AI is changing how developers work by shifting their role from coding to managing and verifying AI tools. Developers grow through stages, from skepticism to collaborating closely with AI to build complex software. This change calls for new skills like AI fluency, strong problem framing, and system thinking, reshaping education and jobs in software development.
+- [Read That F*cking Code!](https://etsd.tech/posts/rtfc/?utm_source=tldrwebdev) 👤 Elie Teyssedou 💬 1426 🔖 #llm 🗓️ 2025-08-06
+    > **Резюме:** AI coding tools help write code faster, but you must always read and review the code yourself. Skipping this step can cause bad architecture, lost knowledge, and security risks. Treat AI like a junior developer who needs your guidance and careful oversight.
 - [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/) 👤 colton.dev 💬 3767 🔖 #llm, #toot, #programming 🗓️ 2025-08-06
     > **Заметка:** Детальный разбор вопроса и масса интереснейших ссылок внутри. Аналогия с винилом мне очень близка 😇
     > **Резюме:** AI does not make engineers ten times more productive overall. It helps with small tasks but struggles with big projects and context. True productivity comes from preventing unnecessary work, not just faster coding.
