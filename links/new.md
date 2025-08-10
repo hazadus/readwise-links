@@ -1,29 +1,15 @@
 # Новые ссылки
 
-- Всего ссылок: 839
+- Всего ссылок: 825
 
 ## Ссылки
 
-- [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/) 👤 August 8 💬 1561 🗓️ 2025-08-08
-- [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/?utm_source=tldrwebdev) 👤 natalie.sh 💬 1228 🔖 #bluesky 🗓️ 2025-08-08
-- [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/?utm_source=tldrwebdev) 👤 Jerop Kipruto 💬 638 🔖 #cli, #llm, #try 🗓️ 2025-08-08
-- [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/) 👤 James Bennett 💬 3225 🗓️ 2025-08-08
-- [Ludic's Guide To Getting Software Engineering Jobs](https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/) 👤 mataroa.blog 💬 8531 🔖 #career 🗓️ 2025-08-07
-- [Trusting your own judgement on ‘AI’ is a huge risk](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/) 👤 baldurbjarnason.com 💬 3600 🗓️ 2025-08-07
-- [Tailwind is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/) 👤 colton.dev 💬 2793 🗓️ 2025-08-07
 - [Что там у «Рика и Морти» в 8-м сезоне? Риковое поле экспериментов](https://www.mirf.ru/serial/rik-i-morti-8-sezon) 👤 mirf.ru 💬 921 🗓️ 2025-08-07
-- [All the concerns that make you a boring developer](https://daverupert.com/2025/08/got-99-engineering-problems-but-a-grift-aint-one/) 👤 Dave Rupert 💬 739 🗓️ 2025-08-07
-- [Why Building Billing Systems is So Painful](https://www.dmitry.ie/2024/why-building-billing-systems-is-so-painful?utm_source=tldrwebdev) 👤 dmitry.ie 💬 1859 🗓️ 2025-08-07
 - [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/) 👤 Benjamin Sandofsky 💬 8956 🗓️ 2025-08-06
-- [Onboarding for coding agents](https://www.fuzzycomputer.com/posts/onboarding?utm_source=tldrwebdev) 👤 fuzzycomputer.com 💬 1171 🗓️ 2025-08-06
-- [Let's Write React Hooks From Scratch](https://playfulprogramming.com/posts/react-write-hooks-from-scratch?utm_source=tldrwebdev) 👤 Corbin Crutchley 💬 566 🗓️ 2025-08-06
 - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/) 👤 Jake Lazaroff 💬 4002 🔖 #diy 🗓️ 2025-08-04
 - [linuxserver/obsidian¶](https://docs.linuxserver.io/images/docker-obsidian/) 👤 LinuxServer.io 💬 1521 🔖 #obsidian, #selfhost 🗓️ 2025-08-04
 - [Гайд по кастомизации vscode: горячие клавиши вместо глобальных менюшек](https://www.youtube.com/watch?v=wxbifNb1Q1o) 👤 Никита Соболев 🗓️ 2025-08-04
 - [Создание умных AI-агентов: полный курс по LangGraph от А до Я. Часть 1. Архитектура: графы, узлы и состояния](https://habr.com/ru/companies/amvera/articles/933460/) 👤 yakvenalex 💬 5040 🗓️ 2025-08-04
-- [Find new blogs to follow from this year’s Blaugust participants](https://hamatti.org/posts/find-new-blogs-to-follow-from-this-years-blaugust-participants/) 👤 Juha-Matti Santala 💬 409 🗓️ 2025-08-04
-- [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) 👤 Redowan Delowar 💬 1179 🔖 #go 🗓️ 2025-08-04
-- [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) 👤 Software Engineering & Personal Thoughts 💬 1511 🗓️ 2025-08-04
 - [The Atrocity Archives](private://read/01k1d3zamj69t631a9zk0vc29p) 👤 Charles Stross 💬 112070 🗓️ 2025-07-30
 - [Как создать MCP-сервер и научить ИИ работать с любым кодом и инструментами через LangGraph](https://habr.com/ru/companies/amvera/articles/931874/) 👤 yakvenalex 💬 7645 🗓️ 2025-07-29
 - [Обзор RoboCop: Rogue City - Unfinished Business - Отдых от душнины типа Call Of Duty I Битый Пиксель](https://www.youtube.com/watch?v=KJ89Pq9SHd8) 👤 Битый Пиксель 🗓️ 2025-07-28
@@ -242,7 +228,7 @@ https://fosstodon.org/@adamchainz/113863413612434249
     > **Заметка:** Рассмотреть при изучении итераторов.
 - [From net/rpc to gRPC in Go Applications](https://victoriametrics.com/blog/go-net-rpc/index.html) 👤 Phuong Le 💬 1936 🔖 #go 🗓️ 2025-01-20
 - [How HTTP/2 Works and How to Enable It in Go](https://victoriametrics.com/blog/go-http2/?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-19-everyones-favorite-route) 👤 VictoriaMetrics 💬 20 🔖 #go 🗓️ 2025-01-20
-- [10 years of functional options and key lessons Learned along the way](https://www.bytesizego.com/blog/10-years-functional-options-golang?utm_source=christophberger&utm_medium=email&utm_campaign=big-things-will-happen) 👤 bytesizego.com 💬 2801 🔖 #go 🗓️ 2025-01-20
+- [10 years of functional options and key lessons Learned along the way](https://www.bytesizego.com/blog/10-years-functional-options-golang?utm_source=christophberger&utm_medium=email&utm_campaign=big-things-will-happen) 👤 bytesizego.com 💬 2801 🔖 #go, #patterns 🗓️ 2025-08-09
 - [Clean Architecture: A Practical Example of Dependency Inversion in Go using Plugins](https://cekrem.github.io/posts/clean-architecture-and-plugins-in-go/?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-12-big-things-will-happen) 👤 Christian Ekrem 💬 1069 🔖 #go 🗓️ 2025-01-20
 - [How to Use the Mermaid JavaScript Library to Create Flowcharts](https://www.freecodecamp.org/news/use-mermaid-javascript-library-to-create-flowcharts/) 👤 freeCodeCamp.org 💬 6198 🗓️ 2025-01-20
 - [How to Make Flowcharts with Mermaid and Bring Joy to your Coding](https://www.freecodecamp.org/news/how-to-make-flowcharts-with-mermaid/) 👤 freeCodeCamp.org 💬 6506 🗓️ 2025-01-20

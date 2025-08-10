@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/) 👤 August 8 💬 1561 🔖 #http, #toot, #network, #programming 🗓️ 2025-08-08
+    > **Заметка:** Мейнтейнер curl рассказывет о трудностях реализации HTTP
+    > **Резюме:** HTTP looks simple but is actually very complex, especially when fully implemented. The protocol has many tricky details, extra features, and evolving standards that make it hard to get right. Over time, HTTP has grown more complicated and will likely become even more so in the future.
 - [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for) 👤 Amos Wenger 💬 17233 🔖 #http 🗓️ 2024-12-28
     > **Резюме:** HTTP requests are sent over TCP connections, allowing multiple requests on the same connection in HTTP/1.1. Servers often respond with error codes like 431 or 400 if they receive problematic requests. HTTP/2 improves error handling by allowing servers to send errors separately from the main response.
 - [Пишем свой веб-сервер на Python: протокол HTTP](https://iximiuz.com/ru/posts/writing-python-web-server-part-3/) 👤 Ivan Velichko 💬 3836 🔖 #diy, #http 🗓️ 2024-02-20

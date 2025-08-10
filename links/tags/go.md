@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 217
+- Всего ссылок: 218
 
 ## Ссылки
 
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) 👤 Redowan Delowar 💬 1179 🔖 #go 🗓️ 2025-08-04
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
+- [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) 👤 Software Engineering & Personal Thoughts 💬 1511 🔖 #go 🗓️ 2025-08-04
+    > **Резюме:** This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.
 - [Let's Ask An LLM • The Applied Go Weekly Newsletter 2025-07-27](https://newsletter.appliedgo.net/archive/2025-07-27-lets-ask-an-llm/) 👤 The Applied Go Weekly Newsletter 💬 1565 🔖 #go, #llm 🗓️ 2025-07-28
     > **Резюме:** This newsletter shows how easy it is to call large language models (LLMs) like OpenAI's from Go code using simple HTTP requests. It explains how LLMs can turn natural language into SQL queries for apps, making fuzzy inputs easy to handle. The author encourages using AI pragmatically to solve tasks that need understanding beyond simple algorithms.
 - [Gist of Go: Signaling](https://antonz.org/go-concurrency/signaling/) 👤 Anton Zhiyanov 💬 3912 🔖 #go 🗓️ 2025-07-21
@@ -157,7 +159,7 @@ This was a quick problem to solve, but in the process, I realized that I should 
     > **Резюме:** gRPC is a fast and efficient way for services to communicate, using Protobuf files to define how they interact. The Go net/rpc package is a simple introduction to Remote Procedure Calls (RPC), allowing basic service connections through TCP. While net/rpc is stable, gRPC offers better performance and is actively developed for more complex applications.
 - [How HTTP/2 Works and How to Enable It in Go](https://victoriametrics.com/blog/go-http2/?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-19-everyones-favorite-route) 👤 VictoriaMetrics 💬 20 🔖 #go 🗓️ 2025-01-20
     > **Резюме:** HTTP/2 solves head-of-line blocking at the application layer by multiplexing multiple streams over a single TCP connection. While HTTP/1.1 requires requests to be processed sequentially, HTTP/2 allows parallel processing through independent streams, each with its own ID. The Go standard library supports HTTP/2 out of the box when using HTTPS, and with some configuration, it can work over plain HTTP too
-- [10 years of functional options and key lessons Learned along the way](https://www.bytesizego.com/blog/10-years-functional-options-golang?utm_source=christophberger&utm_medium=email&utm_campaign=big-things-will-happen) 👤 bytesizego.com 💬 2801 🔖 #go 🗓️ 2025-01-20
+- [10 years of functional options and key lessons Learned along the way](https://www.bytesizego.com/blog/10-years-functional-options-golang?utm_source=christophberger&utm_medium=email&utm_campaign=big-things-will-happen) 👤 bytesizego.com 💬 2801 🔖 #go, #patterns 🗓️ 2025-08-09
     > **Резюме:** Functional options are a useful pattern in Golang that allows you to customize struct configurations easily while providing sensible defaults. They enable flexible API design by accepting multiple options that can override defaults without relying on the order of arguments. Implementing validation for these options helps prevent errors and ensures predictable behavior in your application.
 - [Clean Architecture: A Practical Example of Dependency Inversion in Go using Plugins](https://cekrem.github.io/posts/clean-architecture-and-plugins-in-go/?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-12-big-things-will-happen) 👤 Christian Ekrem 💬 1069 🔖 #go 🗓️ 2025-01-20
     > **Резюме:** The article discusses the Dependency Inversion Principle (DIP) in the context of Go's plugin system, highlighting its importance in software architecture. It illustrates how using plugins allows for better modularity and maintainability by depending on abstractions rather than concrete implementations. By applying these principles, developers can create flexible and robust systems that are easy to extend without complicating the core application.

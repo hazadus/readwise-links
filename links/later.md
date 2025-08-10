@@ -1,9 +1,35 @@
 # Отложенные ссылки
 
-- Всего ссылок: 32
+- Всего ссылок: 45
 
 ## Ссылки
 
+- [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/?utm_source=tldrwebdev) 👤 natalie.sh 💬 1228 🔖 #bluesky 🗓️ 2025-08-08
+    > **Резюме:** The author built a comment system for their blog using Bluesky, a decentralized social platform, to avoid slow or complicated traditional comment tools. This system lets people use their real Bluesky profiles to post rich comments with images and links, making conversations more natural and social-media-like. It works smoothly without the author needing to manage servers, and it connects blog discussions with broader social conversations.
+- [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/?utm_source=tldrwebdev) 👤 Jerop Kipruto 💬 638 🔖 #cli, #llm, #try 🗓️ 2025-08-08
+    > **Резюме:** Gemini CLI GitHub Actions is a free AI tool that helps teams automate coding tasks like issue triage and pull request reviews. It works in the background on GitHub and can be controlled by simple commands. The tool is secure, customizable, and available now in beta for developers worldwide.
+- [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/) 👤 James Bennett 💬 3225 🗓️ 2025-08-08
+    > **Резюме:** Litestar is a flexible Python web framework that supports async programming and easy route grouping. It works well with SQLAlchemy and allows different schema types, not just Pydantic. Litestar feels lightweight but offers powerful tools for building database-backed web apps.
+- [Ludic's Guide To Getting Software Engineering Jobs](https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/) 👤 mataroa.blog 💬 8531 🔖 #career 🗓️ 2025-08-07
+    > **Резюме:** Getting software engineering jobs often means starting with many mediocre, short-term roles. Success comes from quickly applying, not stressing about perfect fits, and being open to day-rate contracts. Building connections and being clear about your needs helps find better, well-paid jobs later.
+- [Trusting your own judgement on ‘AI’ is a huge risk](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/) 👤 baldurbjarnason.com 💬 3600 🗓️ 2025-08-07
+    > **Резюме:** Trusting your own judgement about AI is risky because cognitive biases can trick even smart people. Self-experimentation with AI tools often leads to false beliefs and poor decisions. It is safer to wait for careful, impartial research before accepting claims about AI.
+- [Tailwind is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/) 👤 colton.dev 💬 2793 🗓️ 2025-08-07
+    > **Резюме:** Tailwind combines many existing CSS problems and makes them worse by forcing inline styles with duplicated class names. It does not reduce developer effort or improve tooling, but it helps enforce consistent design through a central config file. Despite its flaws, Tailwind is popular because it offers a ready-made system for standardizing styles in modern web projects.
+- [All the concerns that make you a boring developer](https://daverupert.com/2025/08/got-99-engineering-problems-but-a-grift-aint-one/) 👤 Dave Rupert 💬 739 🗓️ 2025-08-07
+    > **Резюме:** Developers must consider many concerns like security, performance, accessibility, and scalability. These worries can make programming less fun but lead to better software. A good developer balances caution with the ability to say "yes" when possible.
+- [Why Building Billing Systems is So Painful](https://www.dmitry.ie/2024/why-building-billing-systems-is-so-painful?utm_source=tldrwebdev) 👤 dmitry.ie 💬 1859 🗓️ 2025-08-07
+    > **Резюме:** Billing systems are very complex because they must handle many pricing models, currencies, taxes, and real-time usage tracking. They serve many customers inside a company, like finance, sales, and product teams, each with different needs. Building billing right is hard but important, as it is a critical part of business infrastructure that drives growth and success.
+- [Onboarding for coding agents](https://www.fuzzycomputer.com/posts/onboarding?utm_source=tldrwebdev) 👤 fuzzycomputer.com 💬 1171 🗓️ 2025-08-06
+    > **Резюме:** The author experiments with coding agents and finds it best to put project context in READMEs instead of tool-specific files. They use "Quality Gates" with tools like type checkers and tests to ensure AI writes good code. This approach helps AI work like a teammate by learning context and fixing errors in a loop until the code passes all checks.
+- [Let's Write React Hooks From Scratch](https://playfulprogramming.com/posts/react-write-hooks-from-scratch?utm_source=tldrwebdev) 👤 Corbin Crutchley 💬 566 🗓️ 2025-08-06
+    > **Резюме:** React Hooks store state using a linked list inside the virtual DOM nodes. This design explains why hooks must be called in the same order every time. Understanding this helps developers see how React manages component state efficiently.
+- [Find new blogs to follow from this year’s Blaugust participants](https://hamatti.org/posts/find-new-blogs-to-follow-from-this-years-blaugust-participants/) 👤 Juha-Matti Santala 💬 409 🗓️ 2025-08-04
+    > **Резюме:** Blaugust is a fun event with over 100 bloggers sharing new content this year. You can find many new blogs to follow by downloading a shared list of RSS feeds or checking a compiled list online. The author highlights a few favorite blogs, including digital gardens, Python developers, and gaming writers.
+- [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) 👤 Redowan Delowar 💬 1179 🔖 #go 🗓️ 2025-08-04
+    > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
+- [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) 👤 Software Engineering & Personal Thoughts 💬 1511 🔖 #go 🗓️ 2025-08-04
+    > **Резюме:** This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.
 - [Why I'm Betting Against AI Agents in 2025 (Despite Building Them)](https://utkarshkanwat.com/writing/betting-against-agents/) 👤 Utkarsh Kanwat 💬 1714 🔖 #llm 🗓️ 2025-08-03
     > **Заметка:** From Iximiuz Newsletter
     > **Резюме:** The author has built many AI agent systems and sees big challenges in making them fully autonomous and reliable at scale. High error rates, costly context handling, and complex tool design limit their effectiveness. Success comes from clear boundaries, human control, and smart engineering—not from hype about fully autonomous agents.

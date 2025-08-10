@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [Bulletproof Watchers in Vue](https://michaelnthiessen.com/bulletproof-watchers-in-vue?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=Bulletproof+Watchers+in+Vue+(no+more+leaks+or+duplicate+effects)+-+18562994) 👤 michaelnthiessen.com 💬 1040 🔖 #vue, #nuxt, #toot, #webdev, #programming 🗓️ 2025-08-09
+    > **Заметка:** Дельные советы от Майкла по работе с watch()
+    > **Резюме:** Vue watchers can leak memory by creating overlapping effects like timers or API calls when reactive data changes quickly. Using the onCleanup function lets you cancel old effects before new ones start, preventing leaks and bugs. Vue 3.5 added onWatcherCleanup to manage multiple cleanups easily, making watchers more reliable and your app faster.
+- [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/) 👤 August 8 💬 1561 🔖 #http, #toot, #network, #programming 🗓️ 2025-08-08
+    > **Заметка:** Мейнтейнер curl рассказывет о трудностях реализации HTTP
+    > **Резюме:** HTTP looks simple but is actually very complex, especially when fully implemented. The protocol has many tricky details, extra features, and evolving standards that make it hard to get right. Over time, HTTP has grown more complicated and will likely become even more so in the future.
 - [OpenAI's new open-source model is basically Phi-5](https://seangoedecke.com/gpt-oss-is-phi-5/) 👤 seangoedecke.com 💬 837 🔖 #llm, #toot 🗓️ 2025-08-07
     > **Заметка:** Шон не в восторге от новых OSS моделей OpenAI
     > **Резюме:** OpenAI released new open-source models that perform well on tests but struggle with real-world tasks. These models were likely trained on synthetic data to ensure safety and control. This approach helps prevent harmful behavior but may limit the models' usefulness outside benchmarks.

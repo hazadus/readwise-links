@@ -1,5 +1,91 @@
 [
     {
+        "id": "01k28bfdga0x7dj6zzy4c86jkc",
+        "url": "https://read.readwise.io/read/01k28bfdga0x7dj6zzy4c86jkc",
+        "source_url": "https://hamatti.org/posts/wallabag-i-choose-you/",
+        "title": "wallabag, I choose you!",
+        "author": "Juha-Matti Santala",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "archive",
+        "tags": {
+            "selfhost": {
+                "name": "SelfHost",
+                "type": "manual",
+                "created": 1754776503310
+            }
+        },
+        "site_name": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+        "word_count": 798,
+        "notes": "",
+        "summary": "The author chose wallabag as a replacement for Pocket after its shutdown because it meets all his needs. Wallabag is focused, easy to use, has good mobile apps, and syncs articles for offline reading. He appreciates that it has no unnecessary features and works well without changing his workflow.",
+        "image_url": "https://hamatti.org/assets/img/posts/wallabag-i-choose-you/wallabag-i-choose-you-cover.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-08-09",
+        "created_at": "2025-08-09T21:23:35.590498+00:00",
+        "updated_at": "2025-08-09T21:55:07.879205+00:00",
+        "saved_at": "2025-08-09T21:23:35.562000+00:00",
+        "first_opened_at": "2025-08-09T21:48:12.962000+00:00",
+        "last_opened_at": "2025-08-09T21:48:12.962000+00:00",
+        "last_moved_at": "2025-08-09T21:55:06.547000+00:00"
+    },
+    {
+        "id": "01k28ay2zd7c9kcpzvvfz88jzv",
+        "url": "https://read.readwise.io/read/01k28ay2zd7c9kcpzvvfz88jzv",
+        "source_url": "https://michaelnthiessen.com/bulletproof-watchers-in-vue?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=Bulletproof+Watchers+in+Vue+(no+more+leaks+or+duplicate+effects)+-+18562994",
+        "title": "Bulletproof Watchers in Vue",
+        "author": "michaelnthiessen.com",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "archive",
+        "tags": {
+            "vue": {
+                "name": "Vue",
+                "type": "manual",
+                "created": 1754774061834
+            },
+            "nuxt": {
+                "name": "Nuxt",
+                "type": "manual",
+                "created": 1754774061834
+            },
+            "toot": {
+                "name": "Toot",
+                "type": "manual",
+                "created": 1754781995000
+            },
+            "webdev": {
+                "name": "WebDev",
+                "type": "manual",
+                "created": 1754781989459
+            },
+            "programming": {
+                "name": "Programming",
+                "type": "manual",
+                "created": 1754781982860
+            }
+        },
+        "site_name": "michaelnthiessen.com",
+        "word_count": 1040,
+        "notes": "Дельные советы от Майкла по работе с watch()",
+        "summary": "Vue watchers can leak memory by creating overlapping effects like timers or API calls when reactive data changes quickly. Using the onCleanup function lets you cancel old effects before new ones start, preventing leaks and bugs. Vue 3.5 added onWatcherCleanup to manage multiple cleanups easily, making watchers more reliable and your app faster.",
+        "image_url": null,
+        "parent_id": null,
+        "reading_progress": 1.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-08-07",
+        "created_at": "2025-08-09T21:14:07.754469+00:00",
+        "updated_at": "2025-08-09T23:27:37.645470+00:00",
+        "saved_at": "2025-08-09T21:14:07.724000+00:00",
+        "first_opened_at": "2025-08-09T21:55:42.358000+00:00",
+        "last_opened_at": "2025-08-09T21:55:42.358000+00:00",
+        "last_moved_at": "2025-08-09T23:27:36.586000+00:00"
+    },
+    {
         "id": "01k258310nhrbaah4hmv625swh",
         "url": "https://read.readwise.io/read/01k258310nhrbaah4hmv625swh",
         "source_url": "https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/",
@@ -7,24 +93,45 @@
         "author": "August 8",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "http": {
+                "name": "HTTP",
+                "type": "manual",
+                "created": 1754775682402
+            },
+            "toot": {
+                "name": "Toot",
+                "type": "manual",
+                "created": 1754775694679
+            },
+            "network": {
+                "name": "Network",
+                "type": "manual",
+                "created": 1754775685486
+            },
+            "programming": {
+                "name": "Programming",
+                "type": "manual",
+                "created": 1754775691251
+            }
+        },
         "site_name": "haxx.se",
         "word_count": 1561,
-        "notes": "",
+        "notes": "Мейнтейнер curl рассказывет о трудностях реализации HTTP",
         "summary": "HTTP looks simple but is actually very complex, especially when fully implemented. The protocol has many tricky details, extra features, and evolving standards that make it hard to get right. Over time, HTTP has grown more complicated and will likely become even more so in the future.",
         "image_url": "https://daniel.haxx.se/blog/wp-content/uploads/2025/06/IETF-Badge-HTTP.png",
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2025-08-08",
         "created_at": "2025-08-08T16:26:40.560024+00:00",
-        "updated_at": "2025-08-08T16:26:40.685485+00:00",
+        "updated_at": "2025-08-09T21:48:07.787004+00:00",
         "saved_at": "2025-08-08T16:26:40.531000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-08-08T16:26:40.531000+00:00"
+        "first_opened_at": "2025-08-09T21:38:26.599000+00:00",
+        "last_opened_at": "2025-08-09T21:38:26.599000+00:00",
+        "last_moved_at": "2025-08-09T21:48:06.454000+00:00"
     },
     {
         "id": "01k24vdqhec3mq2qrs36j97kw2",
@@ -34,7 +141,7 @@
         "author": "natalie.sh",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "bluesky": {
                 "name": "Bluesky",
@@ -53,11 +160,11 @@
         "html_content": null,
         "published_date": "2025-08-07",
         "created_at": "2025-08-08T12:45:19.819890+00:00",
-        "updated_at": "2025-08-08T12:45:28.449625+00:00",
+        "updated_at": "2025-08-09T21:37:35.036750+00:00",
         "saved_at": "2025-08-08T12:45:19.791000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-08-08T12:45:19.791000+00:00"
+        "last_moved_at": "2025-08-09T21:37:34.409000+00:00"
     },
     {
         "id": "01k24v7qn7194qgpn9zybjwpqs",
@@ -67,7 +174,7 @@
         "author": "Jerop Kipruto",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "cli": {
                 "name": "CLI",
@@ -96,11 +203,11 @@
         "html_content": null,
         "published_date": "2025-08-06",
         "created_at": "2025-08-08T12:42:03.346284+00:00",
-        "updated_at": "2025-08-08T12:42:21.366584+00:00",
+        "updated_at": "2025-08-09T21:37:31.020671+00:00",
         "saved_at": "2025-08-08T12:42:03.302000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-08-08T12:42:03.302000+00:00"
+        "last_moved_at": "2025-08-09T21:37:30.329000+00:00"
     },
     {
         "id": "01k242hs67n1rde8sftqy8tyrs",
@@ -110,7 +217,7 @@
         "author": "James Bennett",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "b-list.org",
         "word_count": 3225,
@@ -123,11 +230,11 @@
         "html_content": null,
         "published_date": "2025-08-06",
         "created_at": "2025-08-08T05:30:38.054611+00:00",
-        "updated_at": "2025-08-08T05:30:38.747562+00:00",
+        "updated_at": "2025-08-09T23:28:13.795324+00:00",
         "saved_at": "2025-08-08T05:30:38.151000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-08-08T05:30:38.151000+00:00"
+        "first_opened_at": "2025-08-09T23:28:07.321000+00:00",
+        "last_opened_at": "2025-08-09T23:28:07.321000+00:00",
+        "last_moved_at": "2025-08-09T21:37:22.024000+00:00"
     },
     {
         "id": "01k23ajkcnmj09vt7fb4v49crs",
@@ -137,7 +244,7 @@
         "author": "mataroa.blog",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "career": {
                 "name": "Career",
@@ -156,11 +263,11 @@
         "html_content": null,
         "published_date": "2025-02-28",
         "created_at": "2025-08-07T22:31:39.217288+00:00",
-        "updated_at": "2025-08-07T22:31:49.559174+00:00",
+        "updated_at": "2025-08-09T21:37:20.068842+00:00",
         "saved_at": "2025-08-07T22:31:39.157000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-08-07T22:31:39.157000+00:00"
+        "last_moved_at": "2025-08-09T21:37:19.451000+00:00"
     },
     {
         "id": "01k239vnfd9s39723mh37nx6tp",
@@ -170,7 +277,7 @@
         "author": "baldurbjarnason.com",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "baldurbjarnason.com",
         "word_count": 3600,
@@ -183,11 +290,11 @@
         "html_content": null,
         "published_date": "2025-06-09",
         "created_at": "2025-08-07T22:19:07.685179+00:00",
-        "updated_at": "2025-08-07T22:19:07.834003+00:00",
+        "updated_at": "2025-08-09T21:37:16.527685+00:00",
         "saved_at": "2025-08-07T22:19:07.629000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-08-07T22:19:07.629000+00:00"
+        "last_moved_at": "2025-08-09T21:37:15.863000+00:00"
     },
     {
         "id": "01k232vrbrsy5n4q6j9twfhrpm",
@@ -197,7 +304,7 @@
         "author": "colton.dev",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "Colton Voege",
         "word_count": 2793,
@@ -205,16 +312,16 @@
         "summary": "Tailwind combines many existing CSS problems and makes them worse by forcing inline styles with duplicated class names. It does not reduce developer effort or improve tooling, but it helps enforce consistent design through a central config file. Despite its flaws, Tailwind is popular because it offers a ready-made system for standardizing styles in modern web projects.",
         "image_url": "https://colton.dev/apple-touch-icon.png",
         "parent_id": null,
-        "reading_progress": 0.05388710234189059,
+        "reading_progress": 0.05515888156101815,
         "content": null,
         "html_content": null,
         "published_date": "2025-07-21",
         "created_at": "2025-08-07T20:16:50.588578+00:00",
-        "updated_at": "2025-08-08T20:56:31.870241+00:00",
+        "updated_at": "2025-08-09T21:37:13.271916+00:00",
         "saved_at": "2025-08-07T20:16:50.552000+00:00",
         "first_opened_at": "2025-08-08T20:28:40.877000+00:00",
         "last_opened_at": "2025-08-08T20:28:40.877000+00:00",
-        "last_moved_at": "2025-08-07T20:16:50.552000+00:00"
+        "last_moved_at": "2025-08-09T21:37:12.577000+00:00"
     },
     {
         "id": "01k230xge8gdf5hj7c2nj7gfqz",
@@ -496,7 +603,7 @@
         "author": "Dave Rupert",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "daverupert.com",
         "word_count": 739,
@@ -509,11 +616,11 @@
         "html_content": null,
         "published_date": "2025-08-06",
         "created_at": "2025-08-07T19:33:26.189085+00:00",
-        "updated_at": "2025-08-07T19:33:26.302275+00:00",
+        "updated_at": "2025-08-09T21:37:02.694287+00:00",
         "saved_at": "2025-08-07T19:33:26.173000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-08-07T19:33:26.173000+00:00"
+        "last_moved_at": "2025-08-09T21:37:02.032000+00:00"
     },
     {
         "id": "01k22zypvgeybfq488nz9q1vk0",
@@ -523,7 +630,7 @@
         "author": "dmitry.ie",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "dmitry.ie",
         "word_count": 1859,
@@ -536,11 +643,11 @@
         "html_content": null,
         "published_date": "2024-08-19",
         "created_at": "2025-08-07T19:26:01.608776+00:00",
-        "updated_at": "2025-08-07T20:17:40.493003+00:00",
+        "updated_at": "2025-08-09T21:36:59.267759+00:00",
         "saved_at": "2025-08-07T19:26:01.584000+00:00",
         "first_opened_at": "2025-08-07T20:17:37.459000+00:00",
         "last_opened_at": "2025-08-07T20:17:37.459000+00:00",
-        "last_moved_at": "2025-08-07T19:26:01.584000+00:00"
+        "last_moved_at": "2025-08-09T21:36:58.587000+00:00"
     },
     {
         "id": "01k22zp4s9q4h82kqa3vddqgwn",
@@ -1231,7 +1338,7 @@
         "author": "fuzzycomputer.com",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "fuzzycomputer.com",
         "word_count": 1171,
@@ -1244,11 +1351,11 @@
         "html_content": null,
         "published_date": "2025-07-29",
         "created_at": "2025-08-06T20:23:02.374643+00:00",
-        "updated_at": "2025-08-06T20:23:02.530972+00:00",
+        "updated_at": "2025-08-09T21:36:45.686518+00:00",
         "saved_at": "2025-08-06T20:23:02.353000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-08-06T20:23:02.353000+00:00"
+        "last_moved_at": "2025-08-09T21:36:44.998000+00:00"
     },
     {
         "id": "01k20gq91c5x58m63f9x4twztf",
@@ -1258,7 +1365,7 @@
         "author": "Corbin Crutchley",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "Playful Programming",
         "word_count": 566,
@@ -1271,11 +1378,11 @@
         "html_content": null,
         "published_date": "2025-07-29",
         "created_at": "2025-08-06T20:21:20.583696+00:00",
-        "updated_at": "2025-08-06T20:21:20.782935+00:00",
+        "updated_at": "2025-08-09T21:36:42.422866+00:00",
         "saved_at": "2025-08-06T20:21:20.556000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-08-06T20:21:20.556000+00:00"
+        "last_moved_at": "2025-08-09T21:36:41.798000+00:00"
     },
     {
         "id": "01k1yvxc3ew4ak8ss5d6z6wfxa",
@@ -1958,7 +2065,7 @@
         "author": "Juha-Matti Santala",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
         "word_count": 409,
@@ -1971,11 +2078,11 @@
         "html_content": null,
         "published_date": "2025-08-03",
         "created_at": "2025-08-04T06:10:22.907583+00:00",
-        "updated_at": "2025-08-04T06:10:28.942772+00:00",
+        "updated_at": "2025-08-09T21:36:23.377083+00:00",
         "saved_at": "2025-08-04T06:10:22.882000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-08-04T06:10:22.882000+00:00"
+        "last_moved_at": "2025-08-09T21:36:22.745000+00:00"
     },
     {
         "id": "01k1sv73j1ksk35k38e375h0b7",
@@ -1985,7 +2092,7 @@
         "author": "Redowan Delowar",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "go": {
                 "name": "Go",
@@ -2004,11 +2111,11 @@
         "html_content": null,
         "published_date": "2025-08-03",
         "created_at": "2025-08-04T06:10:03.993765+00:00",
-        "updated_at": "2025-08-04T06:10:07.847643+00:00",
+        "updated_at": "2025-08-09T21:36:16.320388+00:00",
         "saved_at": "2025-08-04T06:10:03.969000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-08-04T06:10:03.969000+00:00"
+        "last_moved_at": "2025-08-09T21:36:15.725000+00:00"
     },
     {
         "id": "01k1sq2twnr81ds7s9twvd6kx2",
@@ -2018,8 +2125,14 @@
         "author": "Software Engineering & Personal Thoughts",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "new",
-        "tags": {},
+        "location": "later",
+        "tags": {
+            "go": {
+                "name": "Go",
+                "type": "manual",
+                "created": 1754775350832
+            }
+        },
         "site_name": "Software Engineering & Personal Thoughts",
         "word_count": 1511,
         "notes": "",
@@ -2031,11 +2144,11 @@
         "html_content": null,
         "published_date": "2025-08-01",
         "created_at": "2025-08-04T04:57:49.757159+00:00",
-        "updated_at": "2025-08-08T16:33:40.806784+00:00",
+        "updated_at": "2025-08-09T21:36:01.564439+00:00",
         "saved_at": "2025-08-04T04:57:49.717000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-08-04T04:57:49.717000+00:00"
+        "last_moved_at": "2025-08-09T21:36:00.745000+00:00"
     },
     {
         "id": "01k1ry71gy1gja3yz7p56xhdv5",
@@ -56027,7 +56140,12 @@
             "go": {
                 "name": "Go",
                 "type": "manual",
-                "created": 1737405642699
+                "created": 1754775107345
+            },
+            "patterns": {
+                "name": "Patterns",
+                "type": "manual",
+                "created": 1754775479106
             }
         },
         "site_name": "ByteSizeGo",
@@ -56041,11 +56159,11 @@
         "html_content": null,
         "published_date": "2025-01-06",
         "created_at": "2025-01-20T20:40:38.180584+00:00",
-        "updated_at": "2025-03-10T05:15:05.922354+00:00",
-        "saved_at": "2025-01-20T20:40:38.164000+00:00",
+        "updated_at": "2025-08-09T21:38:01.287941+00:00",
+        "saved_at": "2025-08-09T21:31:39.731000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-03-10T05:15:05.738000+00:00"
+        "last_moved_at": "2025-08-09T21:31:39.731000+00:00"
     },
     {
         "id": "01jj2q1w1wadnqw62v1244er6j",
