@@ -15,6 +15,7 @@
 
 import json
 import os
+from urllib.parse import urlparse, urlunparse
 
 from integrations.mastodon import publish_message
 from pydantic import BaseModel
@@ -112,7 +113,21 @@ def compose_message(
         str: Сформированное сообщение.
     """
     tags = [f"#{tag}" for tag in doc.tags.keys() if tag != "toot"]
-    return f"{doc.notes}\n\n{doc.source_url}\n\n{', '.join(tags)}"
+
+    # Убираем query-часть из URL
+    parsed_url = urlparse(doc.source_url)
+    clean_url = urlunparse(
+        (
+            parsed_url.scheme,
+            parsed_url.netloc,
+            parsed_url.path,
+            parsed_url.params,
+            "",  # query - убираем
+            parsed_url.fragment,
+        )
+    )
+
+    return f"{doc.notes}\n\n{clean_url}\n\n{', '.join(tags)}"
 
 
 def load_toots(
