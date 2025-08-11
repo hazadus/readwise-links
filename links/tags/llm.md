@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 184
+- Всего ссылок: 185
 
 ## Ссылки
 
+- [There's Beauty in AI](https://registerspill.thorstenball.com/p/theres-beauty-in-ai) 👤 Thorsten Ball 💬 2010 🔖 #llm 🗓️ 2025-08-10
+    > **Резюме:** The author shares how their view of AI changed from fear to fascination through hands-on experience. They see AI not as a magic oracle but as a helpful tool that eases programming tasks. Now, they use AI thoughtfully, like casting carefully chosen words into a vast model to get useful code.
 - [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/?utm_source=tldrwebdev) 👤 Jerop Kipruto 💬 638 🔖 #cli, #llm, #try 🗓️ 2025-08-08
     > **Резюме:** Gemini CLI GitHub Actions is a free AI tool that helps teams automate coding tasks like issue triage and pull request reviews. It works in the background on GitHub and can be controlled by simple commands. The tool is secure, customizable, and available now in beta for developers worldwide.
 - [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/#atom-everything) 👤 Simon Willison 💬 1864 🔖 #llm 🗓️ 2025-08-07

@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
@@ -10,6 +10,9 @@
 - [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/) 👤 August 8 💬 1561 🔖 #http, #toot, #network, #programming 🗓️ 2025-08-08
     > **Заметка:** Мейнтейнер curl рассказывет о трудностях реализации HTTP
     > **Резюме:** HTTP looks simple but is actually very complex, especially when fully implemented. The protocol has many tricky details, extra features, and evolving standards that make it hard to get right. Over time, HTTP has grown more complicated and will likely become even more so in the future.
+- [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/) 👤 James Bennett 💬 3225 🔖 #try, #toot, #python, #webdev, #litestar, #programming 🗓️ 2025-08-08
+    > **Заметка:** Глубокий обзор фреймворка Litestar от разработчика Django. Аж захотелось тоже попробовать!
+    > **Резюме:** Litestar is a flexible Python web framework that supports async programming and easy route grouping. It works well with SQLAlchemy and allows different schema types, not just Pydantic. Litestar feels lightweight but offers powerful tools for building database-backed web apps.
 - [Developers, not operators](https://victorwynne.com/developers-not-operators/?utm_source=tldrwebdev) 👤 Victor Wynne 💬 1356 🔖 #llm, #toot, #github, #programming 🗓️ 2025-08-07
     > **Заметка:** Чувак аккуратно разобрал навязчивые идеи в посте главы ГитХабa, молодец. 
     > **Резюме:** Developers should have the freedom to choose their own tools and ways of working, including whether or not to use AI. AI can help, but it doesn’t replace the deep thinking and craftsmanship behind good software. The future of software needs many kinds of developers, not just one AI-driven path.

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 33
+- Всего ссылок: 34
 
 ## Ссылки
 
+- [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #postgresql 🗓️ 2025-08-10
+    > **Заметка:** From Thorsten Ball interview
+    > **Резюме:** This article explains how to use ephemeral PostgreSQL instances for automated testing in Go, which can reduce resource usage and speed up test times. By starting a single PostgreSQL instance for all tests instead of multiple instances, developers can improve efficiency and maintainability. Additionally, optimizing the Go test caching behavior can further decrease test runtime significantly.
 - [Developing a Real-time Dashboard with FastAPI, Postgres, and WebSockets](https://testdriven.io/blog/fastapi-postgres-websockets/) 👤 testdriven.io 💬 3838 🔖 #try, #fastapi, #websocket, #postgresql 🗓️ 2025-07-18
     > **Резюме:** This tutorial shows how to build a real-time inventory dashboard using FastAPI, Postgres, and WebSockets. It explains how to send live database updates to the frontend using Postgres triggers and WebSocket connections. The result is a responsive app that updates instantly when inventory changes happen.
 - [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale) 👤 recall.ai 💬 1809 🔖 #postgresql 🗓️ 2025-07-11

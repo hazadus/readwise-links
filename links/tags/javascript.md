@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [Let's Write React Hooks From Scratch](https://playfulprogramming.com/posts/react-write-hooks-from-scratch?utm_source=tldrwebdev) 👤 Corbin Crutchley 💬 566 🔖 #diy, #javascript 🗓️ 2025-08-06
+    > **Резюме:** React Hooks store state using a linked list inside the virtual DOM nodes. This design explains why hooks must be called in the same order every time. Understanding this helps developers see how React manages component state efficiently.
 - [The Business Case for Vanilla JS](https://lewiscampbell.tech/blog/250430.html) 👤 lewiscampbell.tech 💬 742 🔖 #javascript 🗓️ 2025-07-21
     > **Резюме:** The author prefers using Vanilla JS over modern frameworks like React for web development because it is simpler and easier to maintain. They found that browser APIs are stable and well-documented, making development straightforward without complex tools. The author argues that frameworks add unnecessary complexity and that directly scripting the web platform is a more practical choice.
 - [JavaScript, what is this?](https://piccalil.li/blog/javascript-what-is-this/?ref=main-rss-feed) 👤 Mat “Wilto” Marquis 💬 3410 🔖 #javascript 🗓️ 2025-05-10

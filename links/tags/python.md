@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 63
+- Всего ссылок: 64
 
 ## Ссылки
 
+- [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/) 👤 James Bennett 💬 3225 🔖 #try, #toot, #python, #webdev, #litestar, #programming 🗓️ 2025-08-08
+    > **Заметка:** Глубокий обзор фреймворка Litestar от разработчика Django. Аж захотелось тоже попробовать!
+    > **Резюме:** Litestar is a flexible Python web framework that supports async programming and easy route grouping. It works well with SQLAlchemy and allows different schema types, not just Pydantic. Litestar feels lightweight but offers powerful tools for building database-backed web apps.
 - [Better alternative to shell scripts with Python, uv and pytest](https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/) 👤 Juha-Matti Santala 💬 1312 🔖 #uv, #try, #toot, #pytest, #python 🗓️ 2025-07-30
     > **Заметка:** Отличная шпаргалка о запуске самодостаточных Python-скриптов, ещё и возможность встраивания тестов описана
     > **Резюме:** Python with the tool uv offers a better way to write small scripts instead of using shell scripts. It handles dependencies easily and supports inline metadata for cleaner scripts. Adding tests with pytest and managing scripts with simple commands makes scripting safer and more efficient.

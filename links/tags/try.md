@@ -1,11 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 44
+- Всего ссылок: 46
 
 ## Ссылки
 
+- [RSS Server Side Reader Jun 26, 2025](https://matklad.github.io/2025/06/26/rssssr.html) 👤 matklad.github.io 💬 797 🔖 #rss, #try 🗓️ 2025-08-10
+    > **Заметка:** From Thorsten Ball Interview
+    > **Резюме:** The author built a simple RSS reader that only shows recent posts without storing read status or full content. It runs on the server side to avoid browser restrictions and updates automatically every night. This approach helps the author track favorite blogs easily and share the list publicly.
 - [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/?utm_source=tldrwebdev) 👤 Jerop Kipruto 💬 638 🔖 #cli, #llm, #try 🗓️ 2025-08-08
     > **Резюме:** Gemini CLI GitHub Actions is a free AI tool that helps teams automate coding tasks like issue triage and pull request reviews. It works in the background on GitHub and can be controlled by simple commands. The tool is secure, customizable, and available now in beta for developers worldwide.
+- [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/) 👤 James Bennett 💬 3225 🔖 #try, #toot, #python, #webdev, #litestar, #programming 🗓️ 2025-08-08
+    > **Заметка:** Глубокий обзор фреймворка Litestar от разработчика Django. Аж захотелось тоже попробовать!
+    > **Резюме:** Litestar is a flexible Python web framework that supports async programming and easy route grouping. It works well with SQLAlchemy and allows different schema types, not just Pydantic. Litestar feels lightweight but offers powerful tools for building database-backed web apps.
 - [OpenAI’s new open weight (Apache 2) models are really good](https://simonwillison.net/2025/Aug/5/gpt-oss/#atom-everything) 👤 Simon Willison 💬 1992 🔖 #llm, #try, #toot, #selfhost 🗓️ 2025-08-06
     > **Заметка:** Попробовал gpt-oss:20b на своем скромном MB Air M1 16 Gb - работает, но оооочень медленно! На более современной  системе должно летать.
     > **Резюме:** OpenAI has released new open weight models that perform very well on reasoning benchmarks. These models run efficiently on common hardware and compete with top proprietary and Chinese open models. They also introduce a new prompt format called OpenAI Harmony to improve tool calling and response handling.

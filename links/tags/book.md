@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 28
+- Всего ссылок: 29
 
 ## Ссылки
 
+- [Getting Real](http://gettingreal.37signals.com/) 👤 basecamp.com 💬 426 🔖 #book 🗓️ 2025-07-24
+    > **Резюме:** "Getting Real" by 37signals is a valuable resource for anyone creating a web app, offering simple insights and unique ideas. It focuses on practical approaches to software design rather than technical details. Readers from various backgrounds, including entrepreneurs and designers, will find inspiration in its unconventional wisdom.
 - [Оптимизация Запросов В Postgresql](https://readwise.io/reader/document_raw_content/33757448) 👤 Домбровская Г, Новиков Б, Бейликова А 💬 61368 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
 - [Postgresql. Профессиональный SQL](https://readwise.io/reader/document_raw_content/324141976) 👤 Евгений Моргунов 💬 98953 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
     > **Резюме:** The text discusses using statistical functions in PostgreSQL to analyze flight delays and ticket sales for an airline. It emphasizes the importance of accurate data and decision-making methods, such as the Pareto principle, in understanding financial patterns. Additionally, it covers optimizing query performance by accurately estimating the number of rows returned by functions in the database.

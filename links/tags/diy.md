@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 26
+- Всего ссылок: 27
 
 ## Ссылки
 
+- [Let's Write React Hooks From Scratch](https://playfulprogramming.com/posts/react-write-hooks-from-scratch?utm_source=tldrwebdev) 👤 Corbin Crutchley 💬 566 🔖 #diy, #javascript 🗓️ 2025-08-06
+    > **Резюме:** React Hooks store state using a linked list inside the virtual DOM nodes. This design explains why hooks must be called in the same order every time. Understanding this helps developers see how React manages component state efficiently.
 - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/) 👤 Jake Lazaroff 💬 4002 🔖 #diy 🗓️ 2025-08-04
     > **Резюме:** The document explains how to build a collaborative pixel art editor using CRDTs, focusing on creating a PixelEditor class to handle interactions with the canvas. The class helps manage drawing colors, handling events on the canvas, setting pixels, and drawing lines between coordinates. By using CRDTs, the editor can merge states between different instances, enabling synchronized editing on multiple canvases. The detailed breakdown covers setting up the editor, managing colors, handling events, drawing pixels, and implementing line drawing for a smooth user experience.
 - [Let's Write a JSON Parser From Scratch](https://beyondthesyntax.substack.com/p/lets-write-a-json-parser-from-scratch) 👤 Sushant Dhiman 💬 1013 🔖 #go, #diy 🗓️ 2025-07-15

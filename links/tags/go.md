@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 218
+- Всего ссылок: 219
 
 ## Ссылки
 
+- [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #postgresql 🗓️ 2025-08-10
+    > **Заметка:** From Thorsten Ball interview
+    > **Резюме:** This article explains how to use ephemeral PostgreSQL instances for automated testing in Go, which can reduce resource usage and speed up test times. By starting a single PostgreSQL instance for all tests instead of multiple instances, developers can improve efficiency and maintainability. Additionally, optimizing the Go test caching behavior can further decrease test runtime significantly.
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) 👤 Redowan Delowar 💬 1179 🔖 #go 🗓️ 2025-08-04
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
 - [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) 👤 Software Engineering & Personal Thoughts 💬 1511 🔖 #go 🗓️ 2025-08-04

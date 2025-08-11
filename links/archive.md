@@ -1,14 +1,18 @@
 # Архивные ссылки
 
-- Всего ссылок: 905
+- Всего ссылок: 909
 
 ## Ссылки
 
+- [RSS Server Side Reader Jun 26, 2025](https://matklad.github.io/2025/06/26/rssssr.html) 👤 matklad.github.io 💬 797 🔖 #rss, #try 🗓️ 2025-08-10
+    > **Заметка:** From Thorsten Ball Interview
 - [wallabag, I choose you!](https://hamatti.org/posts/wallabag-i-choose-you/) 👤 Juha-Matti Santala 💬 798 🔖 #selfhost 🗓️ 2025-08-09
 - [Bulletproof Watchers in Vue](https://michaelnthiessen.com/bulletproof-watchers-in-vue?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=Bulletproof+Watchers+in+Vue+(no+more+leaks+or+duplicate+effects)+-+18562994) 👤 michaelnthiessen.com 💬 1040 🔖 #vue, #nuxt, #toot, #webdev, #programming 🗓️ 2025-08-09
     > **Заметка:** Дельные советы от Майкла по работе с watch()
 - [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/) 👤 August 8 💬 1561 🔖 #http, #toot, #network, #programming 🗓️ 2025-08-08
     > **Заметка:** Мейнтейнер curl рассказывет о трудностях реализации HTTP
+- [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/) 👤 James Bennett 💬 3225 🔖 #try, #toot, #python, #webdev, #litestar, #programming 🗓️ 2025-08-08
+    > **Заметка:** Глубокий обзор фреймворка Litestar от разработчика Django. Аж захотелось тоже попробовать!
 - [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/#atom-everything) 👤 Simon Willison 💬 1864 🔖 #llm 🗓️ 2025-08-07
     > **Заметка:** Обзор выпущенного сегодня GPT-5 от Саймона, на основе двухнедельного опыта использования.
 - [GPT-5: It Just Does Stuff](https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff) 👤 Ethan Mollick 💬 1859 🔖 #llm 🗓️ 2025-08-07
@@ -20,6 +24,7 @@
 - [Developers, Reinvented](https://ashtom.github.io/developers-reinvented?utm_source=tldrwebdev) 👤 ashtom.github.io 💬 2002 🔖 #llm, #toot, #github, #programming 🗓️ 2025-08-06
     > **Заметка:** GitHub CEO про разработку с AI. Дельные мысли есть, но нет души в посте - как будто подчиненные за него писали 😂 И слишком обобщает. Как будто его Stage 4 - единственно верный путь. 
 - [Read That F*cking Code!](https://etsd.tech/posts/rtfc/?utm_source=tldrwebdev) 👤 Elie Teyssedou 💬 1426 🔖 #llm 🗓️ 2025-08-06
+- [Let's Write React Hooks From Scratch](https://playfulprogramming.com/posts/react-write-hooks-from-scratch?utm_source=tldrwebdev) 👤 Corbin Crutchley 💬 566 🔖 #diy, #javascript 🗓️ 2025-08-06
 - [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/) 👤 colton.dev 💬 3767 🔖 #llm, #toot, #programming 🗓️ 2025-08-06
     > **Заметка:** Детальный разбор вопроса и масса интереснейших ссылок внутри. Аналогия с винилом мне очень близка 😇
 - [How To Review Code](https://endler.dev/2025/how-to-review-code/) 👤 Matthias Endler 💬 2062 🔖 #codereview 🗓️ 2025-08-06
@@ -28,6 +33,7 @@
     > **Заметка:** Попробовал gpt-oss:20b на своем скромном MB Air M1 16 Gb - работает, но оооочень медленно! На более современной  системе должно летать.
 - [12 Design Patterns in Vue](https://michaelnthiessen.com/12-design-patterns-vue) 👤 michaelnthiessen.com 💬 1662 🔖 #try, #vue, #nuxt, #toot, #webdev, #patterns, #programming 🗓️ 2025-08-04
     > **Заметка:** Краткая и ёмкая подборка паттернов разработки с Vue от Майкла. Очень качественный материал!
+- [Find new blogs to follow from this year’s Blaugust participants](https://hamatti.org/posts/find-new-blogs-to-follow-from-this-years-blaugust-participants/) 👤 Juha-Matti Santala 💬 409 🗓️ 2025-08-04
 - [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds) 👤 geoffreylitt.com 💬 765 🗓️ 2025-08-03
 - [Using AI Without Leaving the Terminal: A Guide to llm](https://kashw1n.com/blog/llm-cli/) 👤 kashw1n.com 💬 1184 🔖 #cli, #llm, #toot 🗓️ 2025-08-03
     > **Заметка:** Хорошая шпаргалка по утилите llm Саймона с дельными сценариями использования.

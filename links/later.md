@@ -1,15 +1,17 @@
 # Отложенные ссылки
 
-- Всего ссылок: 45
+- Всего ссылок: 44
 
 ## Ссылки
 
+- [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html?utm_source=substack&utm_medium=email) 👤 a1k0n.net 💬 2469 🔖 #joyandcuriosity 🗓️ 2025-08-10
+    > **Резюме:** The code draws a spinning 3D donut using ASCII characters by projecting 3D points onto a 2D screen with math involving rotations and perspective. It calculates the brightness of each point based on lighting and chooses characters to show shading. This creates a cool visual effect of a rotating donut made from simple text symbols.
+- [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email) 👤 Cynthia Dunlop 💬 1523 🔖 #joyandcuriosity 🗓️ 2025-08-10
+    > **Резюме:** Thorsten Ball started blogging to share his programming journey and skills. He finds writing helps him think clearly and connect with others. His advice: write honestly, keep it simple, and don’t wait for perfection.
 - [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/?utm_source=tldrwebdev) 👤 natalie.sh 💬 1228 🔖 #bluesky 🗓️ 2025-08-08
     > **Резюме:** The author built a comment system for their blog using Bluesky, a decentralized social platform, to avoid slow or complicated traditional comment tools. This system lets people use their real Bluesky profiles to post rich comments with images and links, making conversations more natural and social-media-like. It works smoothly without the author needing to manage servers, and it connects blog discussions with broader social conversations.
 - [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/?utm_source=tldrwebdev) 👤 Jerop Kipruto 💬 638 🔖 #cli, #llm, #try 🗓️ 2025-08-08
     > **Резюме:** Gemini CLI GitHub Actions is a free AI tool that helps teams automate coding tasks like issue triage and pull request reviews. It works in the background on GitHub and can be controlled by simple commands. The tool is secure, customizable, and available now in beta for developers worldwide.
-- [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/) 👤 James Bennett 💬 3225 🗓️ 2025-08-08
-    > **Резюме:** Litestar is a flexible Python web framework that supports async programming and easy route grouping. It works well with SQLAlchemy and allows different schema types, not just Pydantic. Litestar feels lightweight but offers powerful tools for building database-backed web apps.
 - [Ludic's Guide To Getting Software Engineering Jobs](https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/) 👤 mataroa.blog 💬 8531 🔖 #career 🗓️ 2025-08-07
     > **Резюме:** Getting software engineering jobs often means starting with many mediocre, short-term roles. Success comes from quickly applying, not stressing about perfect fits, and being open to day-rate contracts. Building connections and being clear about your needs helps find better, well-paid jobs later.
 - [Trusting your own judgement on ‘AI’ is a huge risk](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/) 👤 baldurbjarnason.com 💬 3600 🗓️ 2025-08-07
@@ -22,10 +24,6 @@
     > **Резюме:** Billing systems are very complex because they must handle many pricing models, currencies, taxes, and real-time usage tracking. They serve many customers inside a company, like finance, sales, and product teams, each with different needs. Building billing right is hard but important, as it is a critical part of business infrastructure that drives growth and success.
 - [Onboarding for coding agents](https://www.fuzzycomputer.com/posts/onboarding?utm_source=tldrwebdev) 👤 fuzzycomputer.com 💬 1171 🗓️ 2025-08-06
     > **Резюме:** The author experiments with coding agents and finds it best to put project context in READMEs instead of tool-specific files. They use "Quality Gates" with tools like type checkers and tests to ensure AI writes good code. This approach helps AI work like a teammate by learning context and fixing errors in a loop until the code passes all checks.
-- [Let's Write React Hooks From Scratch](https://playfulprogramming.com/posts/react-write-hooks-from-scratch?utm_source=tldrwebdev) 👤 Corbin Crutchley 💬 566 🗓️ 2025-08-06
-    > **Резюме:** React Hooks store state using a linked list inside the virtual DOM nodes. This design explains why hooks must be called in the same order every time. Understanding this helps developers see how React manages component state efficiently.
-- [Find new blogs to follow from this year’s Blaugust participants](https://hamatti.org/posts/find-new-blogs-to-follow-from-this-years-blaugust-participants/) 👤 Juha-Matti Santala 💬 409 🗓️ 2025-08-04
-    > **Резюме:** Blaugust is a fun event with over 100 bloggers sharing new content this year. You can find many new blogs to follow by downloading a shared list of RSS feeds or checking a compiled list online. The author highlights a few favorite blogs, including digital gardens, Python developers, and gaming writers.
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) 👤 Redowan Delowar 💬 1179 🔖 #go 🗓️ 2025-08-04
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
 - [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) 👤 Software Engineering & Personal Thoughts 💬 1511 🔖 #go 🗓️ 2025-08-04
@@ -47,7 +45,7 @@
     > **Резюме:** The article discusses how virtual threads could simplify Python concurrency by replacing complex async/await patterns with a clearer thread-based model. It highlights the benefits of structured concurrency and how virtual threads can improve cancellation and error handling. The author suggests this approach could make concurrent programming easier by moving complexity into the runtime instead of the user’s code.
 - [Leprechauns, Root Causes, And Other Fairy Tales](https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/) 👤 tomdalling.com 💬 1149 🗓️ 2025-07-24
     > **Резюме:** Complex systems always have problems because they are very complicated, and fixing one issue often adds more complexity. Looking for a single "root cause" of failures is wrong because accidents happen from many small issues combined. Instead of blaming one cause, we should understand that failures come from multiple factors working together.
-- [Getting Real](http://gettingreal.37signals.com/) 👤 basecamp.com 💬 426 🗓️ 2025-07-24
+- [Getting Real](http://gettingreal.37signals.com/) 👤 basecamp.com 💬 426 🔖 #book 🗓️ 2025-07-24
     > **Резюме:** "Getting Real" by 37signals is a valuable resource for anyone creating a web app, offering simple insights and unique ideas. It focuses on practical approaches to software design rather than technical details. Readers from various backgrounds, including entrepreneurs and designers, will find inspiration in its unconventional wisdom.
 - [Opinion | I Teach Creative Writing. This Is What A.I. Is Doing to Students. - The New York Times](https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html?unlocked_article_code=1.YE8.FbMs.W6XRxpJ6UEyg&smid=url-share) 👤 Meghan O’Rourke 💬 3608 🔖 #llm 🗓️ 2025-07-22
     > **Резюме:** A.I., like ChatGPT, helps students write quickly but can weaken their thinking and creativity. Many teachers worry it makes writing less personal and less rewarding. We need clear rules to balance A.I.'s help with the true learning of writing.
