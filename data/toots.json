@@ -11,7 +11,8 @@
         "01k20kekwky29vkjj14wzrzbv5",
         "01k1tfb42qag0rtdvet4q12xj3",
         "01k28ay2zd7c9kcpzvvfz88jzv",
-        "01k258310nhrbaah4hmv625swh"
+        "01k258310nhrbaah4hmv625swh",
+        "01k242hs67n1rde8sftqy8tyrs"
     ],
     "toots": [
         {
@@ -85,6 +86,12 @@
             "document_title": "HTTP is not simple",
             "source_url": "https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/",
             "toot_url": "https://fosstodon.org/@hazadus/115003178529516166"
+        },
+        {
+            "document_id": "01k242hs67n1rde8sftqy8tyrs",
+            "document_title": "Litestar is worth a look",
+            "source_url": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
+            "toot_url": "https://fosstodon.org/@hazadus/115008897811404007"
         }
     ]
 }
