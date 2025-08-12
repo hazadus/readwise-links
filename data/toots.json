@@ -12,7 +12,9 @@
         "01k1tfb42qag0rtdvet4q12xj3",
         "01k28ay2zd7c9kcpzvvfz88jzv",
         "01k258310nhrbaah4hmv625swh",
-        "01k242hs67n1rde8sftqy8tyrs"
+        "01k242hs67n1rde8sftqy8tyrs",
+        "01k2atwsem2my4th09kc93tt45",
+        "01k2asaks1yknpxk6zdwkav5bk"
     ],
     "toots": [
         {
@@ -92,6 +94,18 @@
             "document_title": "Litestar is worth a look",
             "source_url": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
             "toot_url": "https://fosstodon.org/@hazadus/115008897811404007"
+        },
+        {
+            "document_id": "01k2atwsem2my4th09kc93tt45",
+            "document_title": "There's Beauty in AI",
+            "source_url": "https://registerspill.thorstenball.com/p/theres-beauty-in-ai",
+            "toot_url": "https://fosstodon.org/@hazadus/115014542160998926"
+        },
+        {
+            "document_id": "01k2asaks1yknpxk6zdwkav5bk",
+            "document_title": "Thorsten Ball on Technical Blogging",
+            "source_url": "https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email",
+            "toot_url": "https://fosstodon.org/@hazadus/115014542200238353"
         }
     ]
 }
