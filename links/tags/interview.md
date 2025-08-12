@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email) 👤 Cynthia Dunlop 💬 1523 🔖 #toot, #interview, #programming, #joyandcuriosity 🗓️ 2025-08-10
+    > **Заметка:** Интервью с Торстеном о его блоге - заслуживает внимания, как и сам блог.
+    > **Резюме:** Thorsten Ball started blogging to share his programming journey and skills. He finds writing helps him think clearly and connect with others. His advice: write honestly, keep it simple, and don’t wait for perfection.
 - [AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)](https://www.youtube.com/watch?v=uRuLgar5XZw) 👤 The Pragmatic Engineer 🔖 #llm, #toot, #interview, #inspiration 🗓️ 2025-07-25
     > **Заметка:** Отличное интервью с Саймоном. Одно удовольствие наблюдать, как энергично он рассказывает о своем опыте взаимодействия с LLM.
     > **Резюме:** Simon Willison discusses practical AI tools for software engineers in a straightforward way. He focuses on their real benefits without exaggerating their capabilities. The conversation aims to help engineers understand how to effectively use these tools.

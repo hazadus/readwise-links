@@ -1,17 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 831
+- Всего ссылок: 826
 
 ## Ссылки
 
-- [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #postgresql 🗓️ 2025-08-10
-    > **Заметка:** From Thorsten Ball interview
-- [There's Beauty in AI](https://registerspill.thorstenball.com/p/theres-beauty-in-ai) 👤 Thorsten Ball 💬 2010 🔖 #llm 🗓️ 2025-08-10
-- [Skin-Shedding Code](https://registerspill.thorstenball.com/p/skin-shedding-code) 👤 Thorsten Ball 💬 727 🗓️ 2025-08-10
-- [How can you not be romantic about programming?](https://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/) 👤 thorstenball.com 💬 651 🗓️ 2025-08-10
-- [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) 👤 thorstenball.com 💬 2988 🗓️ 2025-08-10
-- [Artificial Unintelligence](https://vhbelvadi.com/artificial-unintelligence) 👤 V.H. Belvadi 💬 2319 🗓️ 2025-08-10
-    > **Заметка:** Блог рекомендован Юхой
+- [How I use Tailscale](https://chameth.com/how-i-use-tailscale/?utm_source=tldrwebdev) 👤 chameth.com 💬 2064 🗓️ 2025-08-11
 - [Что там у «Рика и Морти» в 8-м сезоне? Риковое поле экспериментов](https://www.mirf.ru/serial/rik-i-morti-8-sezon) 👤 mirf.ru 💬 921 🗓️ 2025-08-07
 - [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/) 👤 Benjamin Sandofsky 💬 8956 🗓️ 2025-08-06
 - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/) 👤 Jake Lazaroff 💬 4002 🔖 #diy 🗓️ 2025-08-04

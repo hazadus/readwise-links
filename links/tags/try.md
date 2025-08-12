@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 46
+- Всего ссылок: 48
 
 ## Ссылки
 
+- [Qwen3-4B-Thinking: “This is art—pelicans don’t ride bikes!”](https://simonwillison.net/2025/Aug/10/qwen3-4b/#atom-everything) 👤 Simon Willison 💬 755 🔖 #llm, #try, #selfhost 🗓️ 2025-08-11
+    > **Резюме:** Qwen3-4B-Thinking is a small but smart AI model that questions impossible requests like drawing a pelican riding a bike. It runs well on a MacBook and can summarize long texts, but it is slower than hosted models. Despite limitations, it shows promise for useful tasks with personality and creativity.
+- [Looking up posts in the Bluesky API](https://alexwlchan.net/til/2025/bluesky-post-info/?ref=rss) 👤 alexwlchan.net 💬 291 🔖 #try, #bluesky 🗓️ 2025-08-11
+    > **Резюме:** To get post information from the Bluesky API, install the atproto package and log in with your full username and password. Then, use the get_post_thread method with the post's at:// URI to retrieve data. Finally, inspect the JSON response to extract details like author, date, and text.
 - [RSS Server Side Reader Jun 26, 2025](https://matklad.github.io/2025/06/26/rssssr.html) 👤 matklad.github.io 💬 797 🔖 #rss, #try 🗓️ 2025-08-10
     > **Заметка:** From Thorsten Ball Interview
     > **Резюме:** The author built a simple RSS reader that only shows recent posts without storing read status or full content. It runs on the server side to avoid browser restrictions and updates automatically every night. This approach helps the author track favorite blogs easily and share the list publicly.

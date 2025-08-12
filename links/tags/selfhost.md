@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [Qwen3-4B-Thinking: “This is art—pelicans don’t ride bikes!”](https://simonwillison.net/2025/Aug/10/qwen3-4b/#atom-everything) 👤 Simon Willison 💬 755 🔖 #llm, #try, #selfhost 🗓️ 2025-08-11
+    > **Резюме:** Qwen3-4B-Thinking is a small but smart AI model that questions impossible requests like drawing a pelican riding a bike. It runs well on a MacBook and can summarize long texts, but it is slower than hosted models. Despite limitations, it shows promise for useful tasks with personality and creativity.
 - [wallabag, I choose you!](https://hamatti.org/posts/wallabag-i-choose-you/) 👤 Juha-Matti Santala 💬 798 🔖 #selfhost 🗓️ 2025-08-09
     > **Резюме:** The author chose wallabag as a replacement for Pocket after its shutdown because it meets all his needs. Wallabag is focused, easy to use, has good mobile apps, and syncs articles for offline reading. He appreciates that it has no unnecessary features and works well without changing his workflow.
 - [OpenAI’s new open weight (Apache 2) models are really good](https://simonwillison.net/2025/Aug/5/gpt-oss/#atom-everything) 👤 Simon Willison 💬 1992 🔖 #llm, #try, #toot, #selfhost 🗓️ 2025-08-06

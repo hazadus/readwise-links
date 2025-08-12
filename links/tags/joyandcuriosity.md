@@ -6,7 +6,8 @@
 
 - [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html?utm_source=substack&utm_medium=email) 👤 a1k0n.net 💬 2469 🔖 #joyandcuriosity 🗓️ 2025-08-10
     > **Резюме:** The code draws a spinning 3D donut using ASCII characters by projecting 3D points onto a 2D screen with math involving rotations and perspective. It calculates the brightness of each point based on lighting and chooses characters to show shading. This creates a cool visual effect of a rotating donut made from simple text symbols.
-- [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email) 👤 Cynthia Dunlop 💬 1523 🔖 #joyandcuriosity 🗓️ 2025-08-10
+- [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email) 👤 Cynthia Dunlop 💬 1523 🔖 #toot, #interview, #programming, #joyandcuriosity 🗓️ 2025-08-10
+    > **Заметка:** Интервью с Торстеном о его блоге - заслуживает внимания, как и сам блог.
     > **Резюме:** Thorsten Ball started blogging to share his programming journey and skills. He finds writing helps him think clearly and connect with others. His advice: write honestly, keep it simple, and don’t wait for perfection.
 - [6 Weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/?utm_source=substack&utm_medium=email) 👤 Puzzmo Blog 💬 4611 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-03
     > **Резюме:** Claude Code has greatly improved how I write and maintain code by letting me create complex projects quickly. In six weeks, I completed many big tasks alone while still doing my regular work. This tool feels like a patient programming partner that helps me build and test code faster than ever before.

@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [There's Beauty in AI](https://registerspill.thorstenball.com/p/theres-beauty-in-ai) 👤 Thorsten Ball 💬 2010 🔖 #llm, #toot, #programming 🗓️ 2025-08-10
+    > **Заметка:** Торстен о том, как после двух лет отвращения его мнение об LLM радикально изменилось. Кстати, в интервью он упоминал, что это был самый трудный пост для него за всё время ведения блога. 
+    > **Резюме:** The author shares how their view of AI changed from fear to fascination through hands-on experience. They see AI not as a magic oracle but as a helpful tool that eases programming tasks. Now, they use AI thoughtfully, like casting carefully chosen words into a vast model to get useful code.
+- [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email) 👤 Cynthia Dunlop 💬 1523 🔖 #toot, #interview, #programming, #joyandcuriosity 🗓️ 2025-08-10
+    > **Заметка:** Интервью с Торстеном о его блоге - заслуживает внимания, как и сам блог.
+    > **Резюме:** Thorsten Ball started blogging to share his programming journey and skills. He finds writing helps him think clearly and connect with others. His advice: write honestly, keep it simple, and don’t wait for perfection.
 - [Bulletproof Watchers in Vue](https://michaelnthiessen.com/bulletproof-watchers-in-vue?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=Bulletproof+Watchers+in+Vue+(no+more+leaks+or+duplicate+effects)+-+18562994) 👤 michaelnthiessen.com 💬 1040 🔖 #vue, #nuxt, #toot, #webdev, #programming 🗓️ 2025-08-09
     > **Заметка:** Дельные советы от Майкла по работе с watch()
     > **Резюме:** Vue watchers can leak memory by creating overlapping effects like timers or API calls when reactive data changes quickly. Using the onCleanup function lets you cancel old effects before new ones start, preventing leaks and bugs. Vue 3.5 added onWatcherCleanup to manage multiple cleanups easily, making watchers more reliable and your app faster.

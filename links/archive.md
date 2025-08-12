@@ -1,11 +1,19 @@
 # Архивные ссылки
 
-- Всего ссылок: 909
+- Всего ссылок: 915
 
 ## Ссылки
 
+- [No, typing can be the bottleneck](https://thorstenball.com/blog/2020/09/01/typing-can-be-the-bottleneck/) 👤 thorstenball.com 💬 603 🗓️ 2025-08-11
+- [Qwen3-4B-Thinking: “This is art—pelicans don’t ride bikes!”](https://simonwillison.net/2025/Aug/10/qwen3-4b/#atom-everything) 👤 Simon Willison 💬 755 🔖 #llm, #try, #selfhost 🗓️ 2025-08-11
 - [RSS Server Side Reader Jun 26, 2025](https://matklad.github.io/2025/06/26/rssssr.html) 👤 matklad.github.io 💬 797 🔖 #rss, #try 🗓️ 2025-08-10
     > **Заметка:** From Thorsten Ball Interview
+- [There's Beauty in AI](https://registerspill.thorstenball.com/p/theres-beauty-in-ai) 👤 Thorsten Ball 💬 2010 🔖 #llm, #toot, #programming 🗓️ 2025-08-10
+    > **Заметка:** Торстен о том, как после двух лет отвращения его мнение об LLM радикально изменилось. Кстати, в интервью он упоминал, что это был самый трудный пост для него за всё время ведения блога. 
+- [How can you not be romantic about programming?](https://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/) 👤 thorstenball.com 💬 651 🔖 #programming 🗓️ 2025-08-10
+- [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) 👤 thorstenball.com 💬 2988 🔖 #development, #inspiration, #programming 🗓️ 2025-08-10
+- [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email) 👤 Cynthia Dunlop 💬 1523 🔖 #toot, #interview, #programming, #joyandcuriosity 🗓️ 2025-08-10
+    > **Заметка:** Интервью с Торстеном о его блоге - заслуживает внимания, как и сам блог.
 - [wallabag, I choose you!](https://hamatti.org/posts/wallabag-i-choose-you/) 👤 Juha-Matti Santala 💬 798 🔖 #selfhost 🗓️ 2025-08-09
 - [Bulletproof Watchers in Vue](https://michaelnthiessen.com/bulletproof-watchers-in-vue?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=Bulletproof+Watchers+in+Vue+(no+more+leaks+or+duplicate+effects)+-+18562994) 👤 michaelnthiessen.com 💬 1040 🔖 #vue, #nuxt, #toot, #webdev, #programming 🗓️ 2025-08-09
     > **Заметка:** Дельные советы от Майкла по работе с watch()

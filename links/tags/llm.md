@@ -1,10 +1,16 @@
 # Ссылки
 
-- Всего ссылок: 185
+- Всего ссылок: 187
 
 ## Ссылки
 
-- [There's Beauty in AI](https://registerspill.thorstenball.com/p/theres-beauty-in-ai) 👤 Thorsten Ball 💬 2010 🔖 #llm 🗓️ 2025-08-10
+- [LLMs are strangely-shaped tools](https://near.blog/llms-are-strangely-shaped-tools/) 👤 near.blog 💬 496 🔖 #llm 🗓️ 2025-08-11
+    > **Заметка:** From Thorsten Balls's AI post
+    > **Резюме:** Large language models (LLMs) are unusual tools because they were not designed for a specific purpose but evolved through training. This makes building reliable AI products difficult, as many common approaches have flaws like poor memory and hallucinations. Progress is slow, and most AI products copy existing ideas instead of exploring new possibilities due to the strange nature of LLMs.
+- [Qwen3-4B-Thinking: “This is art—pelicans don’t ride bikes!”](https://simonwillison.net/2025/Aug/10/qwen3-4b/#atom-everything) 👤 Simon Willison 💬 755 🔖 #llm, #try, #selfhost 🗓️ 2025-08-11
+    > **Резюме:** Qwen3-4B-Thinking is a small but smart AI model that questions impossible requests like drawing a pelican riding a bike. It runs well on a MacBook and can summarize long texts, but it is slower than hosted models. Despite limitations, it shows promise for useful tasks with personality and creativity.
+- [There's Beauty in AI](https://registerspill.thorstenball.com/p/theres-beauty-in-ai) 👤 Thorsten Ball 💬 2010 🔖 #llm, #toot, #programming 🗓️ 2025-08-10
+    > **Заметка:** Торстен о том, как после двух лет отвращения его мнение об LLM радикально изменилось. Кстати, в интервью он упоминал, что это был самый трудный пост для него за всё время ведения блога. 
     > **Резюме:** The author shares how their view of AI changed from fear to fascination through hands-on experience. They see AI not as a magic oracle but as a helpful tool that eases programming tasks. Now, they use AI thoughtfully, like casting carefully chosen words into a vast model to get useful code.
 - [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/?utm_source=tldrwebdev) 👤 Jerop Kipruto 💬 638 🔖 #cli, #llm, #try 🗓️ 2025-08-08
     > **Резюме:** Gemini CLI GitHub Actions is a free AI tool that helps teams automate coding tasks like issue triage and pull request reviews. It works in the background on GitHub and can be controlled by simple commands. The tool is secure, customizable, and available now in beta for developers worldwide.

@@ -1,9 +1,19 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [There's Beauty in AI](https://registerspill.thorstenball.com/p/theres-beauty-in-ai) 👤 Thorsten Ball 💬 2010 🔖 #llm, #toot, #programming 🗓️ 2025-08-10
+    > **Заметка:** Торстен о том, как после двух лет отвращения его мнение об LLM радикально изменилось. Кстати, в интервью он упоминал, что это был самый трудный пост для него за всё время ведения блога. 
+    > **Резюме:** The author shares how their view of AI changed from fear to fascination through hands-on experience. They see AI not as a magic oracle but as a helpful tool that eases programming tasks. Now, they use AI thoughtfully, like casting carefully chosen words into a vast model to get useful code.
+- [How can you not be romantic about programming?](https://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/) 👤 thorstenball.com 💬 651 🔖 #programming 🗓️ 2025-08-10
+    > **Резюме:** The author draws parallels between the romance people feel for baseball and the emotions involved in programming. Despite the seemingly dry nature of writing computer instructions, programmers infuse code with emotion, describing it in terms like neat, beautiful, or even like a poem. The narrative delves into the intricate world of programming, highlighting the magic and complexity of lines of code that have been crafted by individuals across time and space, holding together a vast digital landscape where creativity, talent, and intelligence converge. The author's reflection on the awe-inspiring scale and fragility of programming leads to a sense of wonder and appreciation for the magic woven into the intricate tapestry of code.
+- [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) 👤 thorstenball.com 💬 2988 🔖 #development, #inspiration, #programming 🗓️ 2025-08-10
+    > **Резюме:** The author reflects on 10 years of programming, emphasizing fearlessness and the importance of practical, maintainable code. They value working with others, understanding the full technology stack, and focusing on meaningful progress over perfection. Despite challenges, their love for programming remains strong.
+- [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email) 👤 Cynthia Dunlop 💬 1523 🔖 #toot, #interview, #programming, #joyandcuriosity 🗓️ 2025-08-10
+    > **Заметка:** Интервью с Торстеном о его блоге - заслуживает внимания, как и сам блог.
+    > **Резюме:** Thorsten Ball started blogging to share his programming journey and skills. He finds writing helps him think clearly and connect with others. His advice: write honestly, keep it simple, and don’t wait for perfection.
 - [Bulletproof Watchers in Vue](https://michaelnthiessen.com/bulletproof-watchers-in-vue?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=Bulletproof+Watchers+in+Vue+(no+more+leaks+or+duplicate+effects)+-+18562994) 👤 michaelnthiessen.com 💬 1040 🔖 #vue, #nuxt, #toot, #webdev, #programming 🗓️ 2025-08-09
     > **Заметка:** Дельные советы от Майкла по работе с watch()
     > **Резюме:** Vue watchers can leak memory by creating overlapping effects like timers or API calls when reactive data changes quickly. Using the onCleanup function lets you cancel old effects before new ones start, preventing leaks and bugs. Vue 3.5 added onWatcherCleanup to manage multiple cleanups easily, making watchers more reliable and your app faster.

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 56
+- Всего ссылок: 57
 
 ## Ссылки
 
+- [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) 👤 thorstenball.com 💬 2988 🔖 #development, #inspiration, #programming 🗓️ 2025-08-10
+    > **Резюме:** The author reflects on 10 years of programming, emphasizing fearlessness and the importance of practical, maintainable code. They value working with others, understanding the full technology stack, and focusing on meaningful progress over perfection. Despite challenges, their love for programming remains strong.
 - [Repeat Yourself](https://endler.dev/2025/repeat-yourself/) 👤 Matthias Endler 💬 1624 🔖 #principles, #development 🗓️ 2025-06-24
     > **Заметка:** Далеко не первый пост по поводу противоречивости принципа DRY. Очередное подтверждение этой идеи.
     > **Резюме:** The author argues that repeating code can help maintain momentum and discover better abstractions later. Prematurely avoiding duplication often leads to complex, hard-to-maintain code. It’s better to copy code first and refactor only when the right abstraction is clear.
