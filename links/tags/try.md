@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 48
+- Всего ссылок: 49
 
 ## Ссылки
 
@@ -11,6 +11,8 @@
 - [RSS Server Side Reader Jun 26, 2025](https://matklad.github.io/2025/06/26/rssssr.html) 👤 matklad.github.io 💬 797 🔖 #rss, #try 🗓️ 2025-08-10
     > **Заметка:** From Thorsten Ball Interview
     > **Резюме:** The author built a simple RSS reader that only shows recent posts without storing read status or full content. It runs on the server side to avoid browser restrictions and updates automatically every night. This approach helps the author track favorite blogs easily and share the list publicly.
+- [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/?utm_source=tldrwebdev) 👤 natalie.sh 💬 1228 🔖 #try, #bluesky 🗓️ 2025-08-08
+    > **Резюме:** The author built a comment system for their blog using Bluesky, a decentralized social platform, to avoid slow or complicated traditional comment tools. This system lets people use their real Bluesky profiles to post rich comments with images and links, making conversations more natural and social-media-like. It works smoothly without the author needing to manage servers, and it connects blog discussions with broader social conversations.
 - [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/?utm_source=tldrwebdev) 👤 Jerop Kipruto 💬 638 🔖 #cli, #llm, #try 🗓️ 2025-08-08
     > **Резюме:** Gemini CLI GitHub Actions is a free AI tool that helps teams automate coding tasks like issue triage and pull request reviews. It works in the background on GitHub and can be controlled by simple commands. The tool is secure, customizable, and available now in beta for developers worldwide.
 - [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/) 👤 James Bennett 💬 3225 🔖 #try, #toot, #python, #webdev, #litestar, #programming 🗓️ 2025-08-08

@@ -1,28 +1,24 @@
 # Отложенные ссылки
 
-- Всего ссылок: 48
+- Всего ссылок: 43
 
 ## Ссылки
 
+- [How I use Tailscale](https://chameth.com/how-i-use-tailscale/?utm_source=tldrwebdev) 👤 chameth.com 💬 2064 🗓️ 2025-08-11
+    > **Резюме:** Tailscale is a simple tool that connects your devices securely, even when they are on different networks. It makes logging in and accessing services easy without using passwords or public keys. You can control who accesses what with tags and rules, making your network safer and more organized.
 - [LLMs are strangely-shaped tools](https://near.blog/llms-are-strangely-shaped-tools/) 👤 near.blog 💬 496 🔖 #llm 🗓️ 2025-08-11
     > **Заметка:** From Thorsten Balls's AI post
     > **Резюме:** Large language models (LLMs) are unusual tools because they were not designed for a specific purpose but evolved through training. This makes building reliable AI products difficult, as many common approaches have flaws like poor memory and hallucinations. Progress is slow, and most AI products copy existing ideas instead of exploring new possibilities due to the strange nature of LLMs.
-- [Looking up posts in the Bluesky API](https://alexwlchan.net/til/2025/bluesky-post-info/?ref=rss) 👤 alexwlchan.net 💬 291 🔖 #try, #bluesky 🗓️ 2025-08-11
-    > **Резюме:** To get post information from the Bluesky API, install the atproto package and log in with your full username and password. Then, use the get_post_thread method with the post's at:// URI to retrieve data. Finally, inspect the JSON response to extract details like author, date, and text.
 - [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #postgresql 🗓️ 2025-08-10
     > **Заметка:** From Thorsten Ball interview
     > **Резюме:** This article explains how to use ephemeral PostgreSQL instances for automated testing in Go, which can reduce resource usage and speed up test times. By starting a single PostgreSQL instance for all tests instead of multiple instances, developers can improve efficiency and maintainability. Additionally, optimizing the Go test caching behavior can further decrease test runtime significantly.
-- [Skin-Shedding Code](https://registerspill.thorstenball.com/p/skin-shedding-code) 👤 Thorsten Ball 💬 727 🗓️ 2025-08-10
-    > **Резюме:** Shredding means completely rewriting code by taking it apart and rebuilding it better. At Zed, the team often shreds code to keep the codebase fresh and healthy. This practice helps remove old problems and improves the software regularly.
 - [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html?utm_source=substack&utm_medium=email) 👤 a1k0n.net 💬 2469 🔖 #joyandcuriosity 🗓️ 2025-08-10
     > **Резюме:** The code draws a spinning 3D donut using ASCII characters by projecting 3D points onto a 2D screen with math involving rotations and perspective. It calculates the brightness of each point based on lighting and chooses characters to show shading. This creates a cool visual effect of a rotating donut made from simple text symbols.
 - [Artificial Unintelligence](https://vhbelvadi.com/artificial-unintelligence) 👤 V.H. Belvadi 💬 2319 🗓️ 2025-08-10
     > **Заметка:** Блог рекомендован Юхой
     > **Резюме:** Artificial Intelligence can process large amounts of information but cannot truly understand or think like humans. Using AI to take notes can harm comprehension because note-taking is about making personal connections and understanding, not just copying or summarizing. Relying on AI for notes makes you passive and stops you from learning deeply or thinking creatively.
-- [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/?utm_source=tldrwebdev) 👤 natalie.sh 💬 1228 🔖 #bluesky 🗓️ 2025-08-08
+- [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/?utm_source=tldrwebdev) 👤 natalie.sh 💬 1228 🔖 #try, #bluesky 🗓️ 2025-08-08
     > **Резюме:** The author built a comment system for their blog using Bluesky, a decentralized social platform, to avoid slow or complicated traditional comment tools. This system lets people use their real Bluesky profiles to post rich comments with images and links, making conversations more natural and social-media-like. It works smoothly without the author needing to manage servers, and it connects blog discussions with broader social conversations.
-- [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/?utm_source=tldrwebdev) 👤 Jerop Kipruto 💬 638 🔖 #cli, #llm, #try 🗓️ 2025-08-08
-    > **Резюме:** Gemini CLI GitHub Actions is a free AI tool that helps teams automate coding tasks like issue triage and pull request reviews. It works in the background on GitHub and can be controlled by simple commands. The tool is secure, customizable, and available now in beta for developers worldwide.
 - [Ludic's Guide To Getting Software Engineering Jobs](https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/) 👤 mataroa.blog 💬 8531 🔖 #career 🗓️ 2025-08-07
     > **Резюме:** Getting software engineering jobs often means starting with many mediocre, short-term roles. Success comes from quickly applying, not stressing about perfect fits, and being open to day-rate contracts. Building connections and being clear about your needs helps find better, well-paid jobs later.
 - [Trusting your own judgement on ‘AI’ is a huge risk](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/) 👤 baldurbjarnason.com 💬 3600 🗓️ 2025-08-07
@@ -74,14 +70,8 @@
     > **Резюме:** Anthropic has learned from working with various teams to build effective AI agents using large language models (LLMs). They differentiate between workflows, which follow predefined paths, and agents that operate flexibly and autonomously. The article provides practical advice for developers on choosing the right approach and emphasizes the importance of simplicity and effective design in building these systems.
 - [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) 👤 Andrej Karpathy 🔖 #llm 🗓️ 2025-07-21
     > **Резюме:** You can use open-weight language models through inference providers like Together.AI. Together.AI offers a playground where you can try many different open models. Finding basic models is less common on these platforms.
-- [How I Use Claude Code to Ship Like a Team of Five](https://every.to/source-code/how-i-use-claude-code-to-ship-like-a-team-of-five?utm_source=substack&utm_medium=email) 👤 Kieran Klaassen 💬 3400 🔖 #llm, #joyandcuriosity 🗓️ 2025-07-20
-    > **Резюме:** Kieran Klaassen uses Claude Code, an AI tool that writes code and handles tasks like a helpful teammate. This lets him focus on directing work instead of coding, speeding up software development. Claude Code also helps with debugging, reviewing, and managing issues, making programming easier and faster.
 - [MacPaint Art From The Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html) 👤 https://decryption.net.au 💬 266 🔖 #joyandcuriosity 🗓️ 2025-07-20
     > **Резюме:** The author explored thousands of MacPaint images from the early 1980s and found impressive digital art. They want to learn more about the artists and also plan to explore similar art on the Amiga computer. For those interested, there are resources like Discmaster and a book called Zen & The Art of The Macintosh to help create this style of art.
-- [Reflections on OpenAI](https://calv.info/openai-reflections) 👤 calv.info 💬 3855 🗓️ 2025-07-20
-    > **Резюме:** The author recently left OpenAI and shares their experience of its fast growth and unique culture. OpenAI is very ambitious, secretive, and focused on practical AI risks while aiming to build AGI. Launching Codex was intense but rewarding, and the author sees OpenAI as a key player in the race for AGI.
-- [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale) 👤 recall.ai 💬 1809 🔖 #postgresql 🗓️ 2025-07-11
-    > **Резюме:** Postgres LISTEN/NOTIFY causes a global lock during transaction commits, which blocks other transactions. This lock creates serious performance problems under heavy write loads. Removing or avoiding NOTIFY helped the database run smoothly again.
 - [Mind Management, Not Time Management](private://read/01jy2bx4yjy7cc3fb6cs5zy8ma) 👤 David Kadavy 💬 72204 🗓️ 2025-06-18
     > **Резюме:** David Kadavy emphasizes the importance of managing mental states over time when working on creative projects. He identifies seven mental states and encourages finding a "Creative Sweet Spot" for when to generate ideas. By experimenting with focused time, especially in the morning, you can enhance creativity and productivity.
 - [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles) 👤 Atlassian 💬 710 🔖 #git, #try 🗓️ 2025-06-06

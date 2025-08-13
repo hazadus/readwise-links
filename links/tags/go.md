@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 219
+- Всего ссылок: 220
 
 ## Ссылки
 
+- [Blue Gopher Meets Stochastic Parrot • The Applied Go Weekly Newsletter 2025-08-10](https://newsletter.appliedgo.net/archive/2025-08-10-blue-gopher-meets-stochastic-parrot/) 👤 The Applied Go Weekly Newsletter 💬 1872 🔖 #go 🗓️ 2025-08-12
+    > **Резюме:** Go programming language is becoming popular for building AI tools and apps because it works well with large language models (LLMs). There are many Go libraries and applications like LangChainGo, MCP Go SDK, Ollama, and LocalAI that help developers use AI easily. These tools make AI development simpler and let Go programmers create powerful AI-driven software.
 - [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #postgresql 🗓️ 2025-08-10
     > **Заметка:** From Thorsten Ball interview
     > **Резюме:** This article explains how to use ephemeral PostgreSQL instances for automated testing in Go, which can reduce resource usage and speed up test times. By starting a single PostgreSQL instance for all tests instead of multiple instances, developers can improve efficiency and maintainability. Additionally, optimizing the Go test caching behavior can further decrease test runtime significantly.

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 20
+- Всего ссылок: 21
 
 ## Ссылки
 
+- [GitHub just got less independent at Microsoft after CEO resignation | The Verge](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition?utm_source=tldrwebdev) 👤 Tom Warren 💬 675 🔖 #toot, #github, #programming 🗓️ 2025-08-12
+    > **Заметка:** CEO GitHub всё!
+    > **Резюме:** GitHub will be part of Microsoft’s AI engineering team
 - [Developers, not operators](https://victorwynne.com/developers-not-operators/?utm_source=tldrwebdev) 👤 Victor Wynne 💬 1356 🔖 #llm, #toot, #github, #programming 🗓️ 2025-08-07
     > **Заметка:** Чувак аккуратно разобрал навязчивые идеи в посте главы ГитХабa, молодец. 
     > **Резюме:** Developers should have the freedom to choose their own tools and ways of working, including whether or not to use AI. AI can help, but it doesn’t replace the deep thinking and craftsmanship behind good software. The future of software needs many kinds of developers, not just one AI-driven path.

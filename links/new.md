@@ -1,10 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 826
+- Всего ссылок: 827
 
 ## Ссылки
 
-- [How I use Tailscale](https://chameth.com/how-i-use-tailscale/?utm_source=tldrwebdev) 👤 chameth.com 💬 2064 🗓️ 2025-08-11
+- [In Praise of Containers; there's no place like $HOME](https://sketch.dev/blog/in-praise-of-containers) 👤 Philip Zeyliger 💬 978 🗓️ 2025-08-12
+- [Blue Gopher Meets Stochastic Parrot • The Applied Go Weekly Newsletter 2025-08-10](https://newsletter.appliedgo.net/archive/2025-08-10-blue-gopher-meets-stochastic-parrot/) 👤 The Applied Go Weekly Newsletter 💬 1872 🔖 #go 🗓️ 2025-08-12
 - [Что там у «Рика и Морти» в 8-м сезоне? Риковое поле экспериментов](https://www.mirf.ru/serial/rik-i-morti-8-sezon) 👤 mirf.ru 💬 921 🗓️ 2025-08-07
 - [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/) 👤 Benjamin Sandofsky 💬 8956 🗓️ 2025-08-06
 - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/) 👤 Jake Lazaroff 💬 4002 🔖 #diy 🗓️ 2025-08-04

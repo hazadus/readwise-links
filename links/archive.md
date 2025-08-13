@@ -1,15 +1,19 @@
 # Архивные ссылки
 
-- Всего ссылок: 915
+- Всего ссылок: 922
 
 ## Ссылки
 
+- [GitHub just got less independent at Microsoft after CEO resignation | The Verge](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition?utm_source=tldrwebdev) 👤 Tom Warren 💬 675 🔖 #toot, #github, #programming 🗓️ 2025-08-12
+    > **Заметка:** CEO GitHub всё!
 - [No, typing can be the bottleneck](https://thorstenball.com/blog/2020/09/01/typing-can-be-the-bottleneck/) 👤 thorstenball.com 💬 603 🗓️ 2025-08-11
 - [Qwen3-4B-Thinking: “This is art—pelicans don’t ride bikes!”](https://simonwillison.net/2025/Aug/10/qwen3-4b/#atom-everything) 👤 Simon Willison 💬 755 🔖 #llm, #try, #selfhost 🗓️ 2025-08-11
+- [Looking up posts in the Bluesky API](https://alexwlchan.net/til/2025/bluesky-post-info/?ref=rss) 👤 alexwlchan.net 💬 291 🔖 #try, #bluesky 🗓️ 2025-08-11
 - [RSS Server Side Reader Jun 26, 2025](https://matklad.github.io/2025/06/26/rssssr.html) 👤 matklad.github.io 💬 797 🔖 #rss, #try 🗓️ 2025-08-10
     > **Заметка:** From Thorsten Ball Interview
 - [There's Beauty in AI](https://registerspill.thorstenball.com/p/theres-beauty-in-ai) 👤 Thorsten Ball 💬 2010 🔖 #llm, #toot, #programming 🗓️ 2025-08-10
     > **Заметка:** Торстен о том, как после двух лет отвращения его мнение об LLM радикально изменилось. Кстати, в интервью он упоминал, что это был самый трудный пост для него за всё время ведения блога. 
+- [Skin-Shedding Code](https://registerspill.thorstenball.com/p/skin-shedding-code) 👤 Thorsten Ball 💬 727 🗓️ 2025-08-10
 - [How can you not be romantic about programming?](https://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/) 👤 thorstenball.com 💬 651 🔖 #programming 🗓️ 2025-08-10
 - [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) 👤 thorstenball.com 💬 2988 🔖 #development, #inspiration, #programming 🗓️ 2025-08-10
 - [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email) 👤 Cynthia Dunlop 💬 1523 🔖 #toot, #interview, #programming, #joyandcuriosity 🗓️ 2025-08-10
@@ -19,6 +23,7 @@
     > **Заметка:** Дельные советы от Майкла по работе с watch()
 - [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/) 👤 August 8 💬 1561 🔖 #http, #toot, #network, #programming 🗓️ 2025-08-08
     > **Заметка:** Мейнтейнер curl рассказывет о трудностях реализации HTTP
+- [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/?utm_source=tldrwebdev) 👤 Jerop Kipruto 💬 638 🔖 #cli, #llm, #try 🗓️ 2025-08-08
 - [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/) 👤 James Bennett 💬 3225 🔖 #try, #toot, #python, #webdev, #litestar, #programming 🗓️ 2025-08-08
     > **Заметка:** Глубокий обзор фреймворка Litestar от разработчика Django. Аж захотелось тоже попробовать!
 - [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/#atom-everything) 👤 Simon Willison 💬 1864 🔖 #llm 🗓️ 2025-08-07
@@ -72,6 +77,8 @@
 - [NIH Is Far Cheaper Than The Wrong Dependency](https://lewiscampbell.tech/blog/250718.html?utm_source=substack&utm_medium=email) 👤 lewiscampbell.tech 💬 433 🗓️ 2025-07-20
 - [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration, #joyandcuriosity 🗓️ 2025-07-20
     > **Заметка:** Отличная подборка источников. На некоторые был подписан. На несколько подписался. 
+- [How I Use Claude Code to Ship Like a Team of Five](https://every.to/source-code/how-i-use-claude-code-to-ship-like-a-team-of-five?utm_source=substack&utm_medium=email) 👤 Kieran Klaassen 💬 3400 🔖 #llm, #inspiration, #joyandcuriosity 🗓️ 2025-07-20
+- [Reflections on OpenAI](https://calv.info/openai-reflections) 👤 calv.info 💬 3855 🗓️ 2025-07-20
 - [Coding with LLMs in the summer of 2025 (an update)](http://antirez.com/news/154) 👤 antirez.com 💬 1292 🔖 #llm 🗓️ 2025-07-20
 - [Welcoming The Next Generation of Programmers](https://lucumr.pocoo.org/2025/7/20/the-next-generation/) 👤 Armin Ronacher 💬 757 🔖 #llm, #python 🗓️ 2025-07-20
 - [The case for regulating AI companions](https://seangoedecke.com/regulating-ai-companions/) 👤 seangoedecke.com 💬 1349 🔖 #llm 🗓️ 2025-07-19
@@ -95,6 +102,7 @@
 - [How to Make People Give a Damn](https://www.joanwestenberg.com/p/how-to-make-people-give-a-damn-92e3af37926932ef) 👤 Joan Westenberg 💬 1700 🗓️ 2025-07-14
 - [being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form) 👤 Maalvika 💬 2656 🗓️ 2025-07-13
 - [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck) 👤 Pedro Tavares 💬 462 🔖 #llm 🗓️ 2025-07-13
+- [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale) 👤 recall.ai 💬 1809 🔖 #postgresql 🗓️ 2025-07-11
 - [Why we should anthropomorphize LLMs](https://seangoedecke.com/anthropomorphizing-llms/) 👤 seangoedecke.com 💬 1414 🔖 #llm 🗓️ 2025-07-10
 - [Mecha-Hitler, Grok, and why it's so hard to give LLMs the right personality](https://seangoedecke.com/ai-personality-space/) 👤 seangoedecke.com 💬 1243 🔖 #llm 🗓️ 2025-07-10
 - [Git Notes: git's coolest, most unloved feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/) 👤 Tyler Cipriani 💬 717 🔖 #git 🗓️ 2025-07-09

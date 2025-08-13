@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [GitHub just got less independent at Microsoft after CEO resignation | The Verge](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition?utm_source=tldrwebdev) 👤 Tom Warren 💬 675 🔖 #toot, #github, #programming 🗓️ 2025-08-12
+    > **Заметка:** CEO GitHub всё!
+    > **Резюме:** GitHub will be part of Microsoft’s AI engineering team
 - [There's Beauty in AI](https://registerspill.thorstenball.com/p/theres-beauty-in-ai) 👤 Thorsten Ball 💬 2010 🔖 #llm, #toot, #programming 🗓️ 2025-08-10
     > **Заметка:** Торстен о том, как после двух лет отвращения его мнение об LLM радикально изменилось. Кстати, в интервью он упоминал, что это был самый трудный пост для него за всё время ведения блога. 
     > **Резюме:** The author shares how their view of AI changed from fear to fascination through hands-on experience. They see AI not as a magic oracle but as a helpful tool that eases programming tasks. Now, they use AI thoughtfully, like casting carefully chosen words into a vast model to get useful code.

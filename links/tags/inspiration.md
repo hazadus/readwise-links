@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 90
+- Всего ссылок: 91
 
 ## Ссылки
 
@@ -16,6 +16,8 @@
 - [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration, #joyandcuriosity 🗓️ 2025-07-20
     > **Заметка:** Отличная подборка источников. На некоторые был подписан. На несколько подписался. 
     > **Резюме:** Generative AI is evolving fast but often misunderstood, causing mistakes and risks. To stay informed, follow official AI labs and trusted experts who share clear, accurate insights. Using curated sources like Twitter feeds and newsletters makes learning about AI easier and more enjoyable.
+- [How I Use Claude Code to Ship Like a Team of Five](https://every.to/source-code/how-i-use-claude-code-to-ship-like-a-team-of-five?utm_source=substack&utm_medium=email) 👤 Kieran Klaassen 💬 3400 🔖 #llm, #inspiration, #joyandcuriosity 🗓️ 2025-07-20
+    > **Резюме:** Kieran Klaassen uses Claude Code, an AI tool that writes code and handles tasks like a helpful teammate. This lets him focus on directing work instead of coding, speeding up software development. Claude Code also helps with debugging, reviewing, and managing issues, making programming easier and faster.
 - [What Doesn’t Change](https://terriblesoftware.org/2025/07/14/what-doesnt-change/) 👤 Terrible Software 💬 514 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-14
     > **Резюме:** Technology changes fast, but core ideas like algorithms and networks stay the same. Knowing these fundamentals helps you use AI and new tools better. Focus on learning the basics deeply to understand and adapt to any future technology.
 - [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
