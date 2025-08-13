@@ -14,7 +14,8 @@
         "01k258310nhrbaah4hmv625swh",
         "01k242hs67n1rde8sftqy8tyrs",
         "01k2atwsem2my4th09kc93tt45",
-        "01k2asaks1yknpxk6zdwkav5bk"
+        "01k2asaks1yknpxk6zdwkav5bk",
+        "01k2fz8qsfdxenzz7mq44jcayz"
     ],
     "toots": [
         {
@@ -106,6 +107,12 @@
             "document_title": "Thorsten Ball on Technical Blogging",
             "source_url": "https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email",
             "toot_url": "https://fosstodon.org/@hazadus/115014542200238353"
+        },
+        {
+            "document_id": "01k2fz8qsfdxenzz7mq44jcayz",
+            "document_title": "GitHub just got less independent at Microsoft after CEO resignation | The Verge",
+            "source_url": "https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition?utm_source=tldrwebdev",
+            "toot_url": "https://fosstodon.org/@hazadus/115020206800746121"
         }
     ]
 }
