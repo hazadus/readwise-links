@@ -1,0 +1,118 @@
+{
+    "skeeted_doc_ids": [
+        "01k2fz8qsfdxenzz7mq44jcayz",
+        "01k2atwsem2my4th09kc93tt45",
+        "01k2asaks1yknpxk6zdwkav5bk",
+        "01k28ay2zd7c9kcpzvvfz88jzv",
+        "01k258310nhrbaah4hmv625swh",
+        "01k242hs67n1rde8sftqy8tyrs",
+        "01k230k4yava88n75fz6a9a9gw",
+        "01k22zp4s9q4h82kqa3vddqgwn",
+        "01k20kekwky29vkjj14wzrzbv5",
+        "01k1yvxc3ew4ak8ss5d6z6wfxa",
+        "01k1yvpvs26ynrsfkp55z0wgje",
+        "01k1tfb42qag0rtdvet4q12xj3",
+        "01k1rwv6e2a00ngzby8tmks8f4",
+        "01k1fgaykmec4gy4d402zfepds",
+        "01k1ddxewqhxcs47rafsc51dx4",
+        "01k10nxc0n273vs5yr52513y6k"
+    ],
+    "skeets": [
+        {
+            "document_id": "01k2fz8qsfdxenzz7mq44jcayz",
+            "document_title": "GitHub just got less independent at Microsoft after CEO resignation | The Verge",
+            "source_url": "https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition?utm_source=tldrwebdev",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbseft2dd2u"
+        },
+        {
+            "document_id": "01k2atwsem2my4th09kc93tt45",
+            "document_title": "There's Beauty in AI",
+            "source_url": "https://registerspill.thorstenball.com/p/theres-beauty-in-ai",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbsfl2uyt27"
+        },
+        {
+            "document_id": "01k2asaks1yknpxk6zdwkav5bk",
+            "document_title": "Thorsten Ball on Technical Blogging",
+            "source_url": "https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbsfmswx22w"
+        },
+        {
+            "document_id": "01k28ay2zd7c9kcpzvvfz88jzv",
+            "document_title": "Bulletproof Watchers in Vue",
+            "source_url": "https://michaelnthiessen.com/bulletproof-watchers-in-vue?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=Bulletproof+Watchers+in+Vue+(no+more+leaks+or+duplicate+effects)+-+18562994",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbsfomvgs26"
+        },
+        {
+            "document_id": "01k258310nhrbaah4hmv625swh",
+            "document_title": "HTTP is not simple",
+            "source_url": "https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbsfqgp2d2u"
+        },
+        {
+            "document_id": "01k242hs67n1rde8sftqy8tyrs",
+            "document_title": "Litestar is worth a look",
+            "source_url": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbsfs6xtc2j"
+        },
+        {
+            "document_id": "01k230k4yava88n75fz6a9a9gw",
+            "document_title": "OpenAI's new open-source model is basically Phi-5",
+            "source_url": "https://seangoedecke.com/gpt-oss-is-phi-5/",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbsftuugs26"
+        },
+        {
+            "document_id": "01k22zp4s9q4h82kqa3vddqgwn",
+            "document_title": "Developers, not operators",
+            "source_url": "https://victorwynne.com/developers-not-operators/?utm_source=tldrwebdev",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbsfvkztl2r"
+        },
+        {
+            "document_id": "01k20kekwky29vkjj14wzrzbv5",
+            "document_title": "Developers, Reinvented",
+            "source_url": "https://ashtom.github.io/developers-reinvented?utm_source=tldrwebdev",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbsfxdbnd2u"
+        },
+        {
+            "document_id": "01k1yvxc3ew4ak8ss5d6z6wfxa",
+            "document_title": "No, AI is not Making Engineers 10x as Productive",
+            "source_url": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbsfyzqsk26"
+        },
+        {
+            "document_id": "01k1yvpvs26ynrsfkp55z0wgje",
+            "document_title": "OpenAI’s new open weight (Apache 2) models are really good",
+            "source_url": "https://simonwillison.net/2025/Aug/5/gpt-oss/#atom-everything",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbsg2p5s22w"
+        },
+        {
+            "document_id": "01k1tfb42qag0rtdvet4q12xj3",
+            "document_title": "12 Design Patterns in Vue",
+            "source_url": "https://michaelnthiessen.com/12-design-patterns-vue",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbsg4gefg2z"
+        },
+        {
+            "document_id": "01k1rwv6e2a00ngzby8tmks8f4",
+            "document_title": "Using AI Without Leaving the Terminal: A Guide to llm",
+            "source_url": "https://kashw1n.com/blog/llm-cli/",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbsg67apc26"
+        },
+        {
+            "document_id": "01k1fgaykmec4gy4d402zfepds",
+            "document_title": "Vibe code is legacy code",
+            "source_url": "https://blog.val.town/vibe-code",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbsg7v6c32r"
+        },
+        {
+            "document_id": "01k1ddxewqhxcs47rafsc51dx4",
+            "document_title": "Better alternative to shell scripts with Python, uv and pytest",
+            "source_url": "https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbsgbxakd2p"
+        },
+        {
+            "document_id": "01k10nxc0n273vs5yr52513y6k",
+            "document_title": "AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)",
+            "source_url": "https://www.youtube.com/watch?v=uRuLgar5XZw",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbsgdphew2z"
+        }
+    ]
+}
