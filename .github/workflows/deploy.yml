@@ -1,4 +1,4 @@
-name: Деплой на GitHub Pages
+name: 🚀 Деплой на GitHub Pages
 
 on:
   workflow_run:

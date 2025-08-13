@@ -1,9 +1,9 @@
-name: Публикация туитов
+name: 🐘 Публикация туитов
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 7 * * *" # At 07:00 UTC every day
+    - cron: "0 7 * * *" # В 07:00 UTC каждый день
 
 permissions:
   contents: write
