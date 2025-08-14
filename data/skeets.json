@@ -15,7 +15,8 @@
         "01k1rwv6e2a00ngzby8tmks8f4",
         "01k1fgaykmec4gy4d402zfepds",
         "01k1ddxewqhxcs47rafsc51dx4",
-        "01k10nxc0n273vs5yr52513y6k"
+        "01k10nxc0n273vs5yr52513y6k",
+        "01k2hhzq0sf51478p8f1f8by9j"
     ],
     "skeets": [
         {
@@ -113,6 +114,12 @@
             "document_title": "AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)",
             "source_url": "https://www.youtube.com/watch?v=uRuLgar5XZw",
             "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwbsgdphew2z"
+        },
+        {
+            "document_id": "01k2hhzq0sf51478p8f1f8by9j",
+            "document_title": "simonw/codespaces-llm",
+            "source_url": "https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwdrylnbru2t"
         }
     ]
 }
