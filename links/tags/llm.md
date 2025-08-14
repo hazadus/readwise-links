@@ -1,9 +1,22 @@
 # Ссылки
 
-- Всего ссылок: 187
+- Всего ссылок: 193
 
 ## Ссылки
 
+- [Configuring GitHub Codespaces using devcontainers | Simon Willison’s TILs](https://til.simonwillison.net/github/codespaces-devcontainers) 👤 simonwillison.net 💬 619 🔖 #llm, #github, #codespaces, #devcontainer 🗓️ 2025-08-13
+    > **Резюме:** GitHub Codespaces lets you create full development environments in your browser quickly and easily. You can customize these environments using a devcontainer configuration file to include tools like Python, Node.js, and VS Code extensions. This setup helps run workshops smoothly and gives free access to advanced AI models through GitHub tokens.
+- [AI is different](http://antirez.com/news/155) 👤 antirez.com 💬 454 🔖 #llm 🗓️ 2025-08-13
+    > **Резюме:** AI is advancing quickly and can do many tasks humans used to do, like understanding language and finding code bugs. The future of AI is uncertain, but it could change the economy and how people work in big ways. This change might be very different from past technology shifts and could lead to a new economic system.
+- [The famous "bottomless pit" AI greentext is fake](https://seangoedecke.com/bottomless-pit/) 👤 seangoedecke.com 💬 585 🔖 #llm 🗓️ 2025-08-13
+    > **Резюме:** The famous "bottomless pit" AI joke was mostly written by a human, not the AI. GPT-3 just filled in blanks from a prompt, it didn't create the humor. AI models have never been truly funny, and humor hasn't been a focus in their training.
+- [simonw/codespaces-llm](https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything) 👤 Simon Willison 💬 213 🔖 #llm, #try, #toot, #github, #codespaces, #devcontainer 🗓️ 2025-08-13
+    > **Заметка:** Любопытный подгон от Саймона: codespace с предустановленной его тулзой llm, работающей через бесплатные GitHub Models
+    > **Резюме:** GitHub Codespaces includes a GITHUB_TOKEN that lets you access many LLM models for free. Simon Willison made a tool that sets up these models automatically in Codespaces. You can start a ready-to-use LLM environment with one easy link.
+- [Is chain-of-thought AI reasoning a mirage?](https://seangoedecke.com/real-reasoning/) 👤 seangoedecke.com 💬 1504 🔖 #llm 🗓️ 2025-08-13
+    > **Резюме:** The paper argues that AI chain-of-thought reasoning is often just copying patterns from training data and fails with new or changed tasks. The author disagrees, saying real reasoning involves language and flexibility, which small toy models can't show. They also note humans reason imperfectly too, so calling AI reasoning a "mirage" is an unfair comparison.
+- [In Praise of Containers; there's no place like $HOME](https://sketch.dev/blog/in-praise-of-containers) 👤 Philip Zeyliger 💬 978 🔖 #llm, #try 🗓️ 2025-08-12
+    > **Резюме:** The author discusses the pros and cons of using containers versus local machines for coding with agents. Containers offer isolation, easy parallel work, and consistent environments, while local setups feel more familiar and convenient for small tasks. The author uses both approaches depending on the situation and invites readers to share their preferences.
 - [LLMs are strangely-shaped tools](https://near.blog/llms-are-strangely-shaped-tools/) 👤 near.blog 💬 496 🔖 #llm 🗓️ 2025-08-11
     > **Заметка:** From Thorsten Balls's AI post
     > **Резюме:** Large language models (LLMs) are unusual tools because they were not designed for a specific purpose but evolved through training. This makes building reliable AI products difficult, as many common approaches have flaws like poor memory and hallucinations. Progress is slow, and most AI products copy existing ideas instead of exploring new possibilities due to the strange nature of LLMs.

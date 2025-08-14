@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 43
+- Всего ссылок: 44
 
 ## Ссылки
 
+- [Just a nice shell script - Bite code!](https://www.bitecode.dev/p/just-a-nice-shell-script) 👤 Bite Code! 🗓️ 2025-08-13
+    > **Резюме:** Which you could use to install just. Just saying.
+- [In Praise of Containers; there's no place like $HOME](https://sketch.dev/blog/in-praise-of-containers) 👤 Philip Zeyliger 💬 978 🔖 #llm, #try 🗓️ 2025-08-12
+    > **Резюме:** The author discusses the pros and cons of using containers versus local machines for coding with agents. Containers offer isolation, easy parallel work, and consistent environments, while local setups feel more familiar and convenient for small tasks. The author uses both approaches depending on the situation and invites readers to share their preferences.
 - [How I use Tailscale](https://chameth.com/how-i-use-tailscale/?utm_source=tldrwebdev) 👤 chameth.com 💬 2064 🗓️ 2025-08-11
     > **Резюме:** Tailscale is a simple tool that connects your devices securely, even when they are on different networks. It makes logging in and accessing services easy without using passwords or public keys. You can control who accesses what with tags and rules, making your network safer and more organized.
 - [LLMs are strangely-shaped tools](https://near.blog/llms-are-strangely-shaped-tools/) 👤 near.blog 💬 496 🔖 #llm 🗓️ 2025-08-11
@@ -64,8 +68,6 @@
     > **Резюме:** SVG is a special image format that uses shapes like circles and lines written in code. It can be styled and animated using CSS and JavaScript, making it very powerful. SVG images stay sharp no matter how much you zoom in, which is great for web design.
 - [How I program with Agents](https://crawshaw.io/blog/programming-with-agents) 👤 crawshaw.io 💬 4471 🔖 #llm 🗓️ 2025-07-21
     > **Резюме:** David Crawshaw discusses using agents in programming, highlighting how they enhance the capabilities of LLMs by providing feedback-driven tools. Agents simplify code generation and maintenance, allowing programmers to accomplish more despite their time constraints. Although agents currently require human oversight for some tasks, they represent a significant advancement in programming efficiency.
-- [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) 👤 crawshaw.io 💬 4510 🔖 #llm 🗓️ 2025-07-21
-    > **Резюме:** David Crawshaw shares how he uses LLMs to enhance his programming productivity. He finds value in chat-driven programming, where LLMs help him generate code and tests more efficiently. Crawshaw believes that specialized environments for LLMs, like sketch.dev, can lead to better results in programming.
 - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents) 👤 anthropic.com 💬 2551 🔖 #llm, #agents 🗓️ 2025-07-21
     > **Резюме:** Anthropic has learned from working with various teams to build effective AI agents using large language models (LLMs). They differentiate between workflows, which follow predefined paths, and agents that operate flexibly and autonomously. The article provides practical advice for developers on choosing the right approach and emphasizes the importance of simplicity and effective design in building these systems.
 - [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) 👤 Andrej Karpathy 🔖 #llm 🗓️ 2025-07-21

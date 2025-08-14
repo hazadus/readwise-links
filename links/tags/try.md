@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 49
+- Всего ссылок: 51
 
 ## Ссылки
 
+- [simonw/codespaces-llm](https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything) 👤 Simon Willison 💬 213 🔖 #llm, #try, #toot, #github, #codespaces, #devcontainer 🗓️ 2025-08-13
+    > **Заметка:** Любопытный подгон от Саймона: codespace с предустановленной его тулзой llm, работающей через бесплатные GitHub Models
+    > **Резюме:** GitHub Codespaces includes a GITHUB_TOKEN that lets you access many LLM models for free. Simon Willison made a tool that sets up these models automatically in Codespaces. You can start a ready-to-use LLM environment with one easy link.
+- [In Praise of Containers; there's no place like $HOME](https://sketch.dev/blog/in-praise-of-containers) 👤 Philip Zeyliger 💬 978 🔖 #llm, #try 🗓️ 2025-08-12
+    > **Резюме:** The author discusses the pros and cons of using containers versus local machines for coding with agents. Containers offer isolation, easy parallel work, and consistent environments, while local setups feel more familiar and convenient for small tasks. The author uses both approaches depending on the situation and invites readers to share their preferences.
 - [Qwen3-4B-Thinking: “This is art—pelicans don’t ride bikes!”](https://simonwillison.net/2025/Aug/10/qwen3-4b/#atom-everything) 👤 Simon Willison 💬 755 🔖 #llm, #try, #selfhost 🗓️ 2025-08-11
     > **Резюме:** Qwen3-4B-Thinking is a small but smart AI model that questions impossible requests like drawing a pelican riding a bike. It runs well on a MacBook and can summarize long texts, but it is slower than hosted models. Despite limitations, it shows promise for useful tasks with personality and creativity.
 - [Looking up posts in the Bluesky API](https://alexwlchan.net/til/2025/bluesky-post-info/?ref=rss) 👤 alexwlchan.net 💬 291 🔖 #try, #bluesky 🗓️ 2025-08-11
