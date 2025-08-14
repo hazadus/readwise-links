@@ -15,7 +15,8 @@
         "01k242hs67n1rde8sftqy8tyrs",
         "01k2atwsem2my4th09kc93tt45",
         "01k2asaks1yknpxk6zdwkav5bk",
-        "01k2fz8qsfdxenzz7mq44jcayz"
+        "01k2fz8qsfdxenzz7mq44jcayz",
+        "01k2hhzq0sf51478p8f1f8by9j"
     ],
     "toots": [
         {
@@ -113,6 +114,12 @@
             "document_title": "GitHub just got less independent at Microsoft after CEO resignation | The Verge",
             "source_url": "https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition?utm_source=tldrwebdev",
             "toot_url": "https://fosstodon.org/@hazadus/115020206800746121"
+        },
+        {
+            "document_id": "01k2hhzq0sf51478p8f1f8by9j",
+            "document_title": "simonw/codespaces-llm",
+            "source_url": "https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything",
+            "toot_url": "https://fosstodon.org/@hazadus/115025869403797168"
         }
     ]
 }
