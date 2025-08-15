@@ -1,17 +1,18 @@
 # Новые ссылки
 
-- Всего ссылок: 833
+- Всего ссылок: 835
 
 ## Ссылки
 
+- [Nuxt Tip: Accessing Pinia Store in Production Build](https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build) 👤 Michael Hoffmann 💬 86 🔖 #nuxt, #pinia 🗓️ 2025-08-14
+- [Another article about centering in CSS](https://piccalil.li/blog/another-article-about-centering-in-css/?ref=main-rss-feed) 👤 Piccalilli 💬 1236 🔖 #css 🗓️ 2025-08-14
+- [Mac toolbar widgets with xbar and rust](https://blog.korny.info/2025/01/18/toolbar-widgets-with-xbar-and-rust) 👤 Korny Sietsma 💬 779 🗓️ 2025-08-14
 - [Programming Without Being Obsessed With Programming](https://prog21.dadgum.com/195.html) 👤 dadgum.com 💬 446 🗓️ 2025-08-13
 - [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) 👤 dadgum.com 💬 467 🗓️ 2025-08-13
 - [Do You Really Want to be Doing This When You're 50?](https://prog21.dadgum.com/154.html) 👤 prog21.dadgum.com 💬 495 🗓️ 2025-08-13
 - [Building a web search engine from scratch in two months with 3 billion neural embeddings](https://blog.wilsonl.in/search-engine/?utm_source=tldrwebdev) 👤 Wilson Lin 💬 8008 🗓️ 2025-08-13
 - [What are Effect Scopes in Vue?](https://michaelnthiessen.com/what-are-effect-scopes-in-vue?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(230)+What+are+Effect+Scopes+in+Vue?+-+18611005&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1063 🔖 #vue, #nuxt 🗓️ 2025-08-13
 - [AI’s Security Crisis: Why Your Assistant Might Betray You](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/ai-s-security-crisis-why-your-assistant-might-betray-you/) 👤 Last Week in AWS 💬 14730 🗓️ 2025-08-13
-- [simonw/codespaces-llm](https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything) 👤 Simon Willison 💬 213 🔖 #llm, #try, #toot, #github, #codespaces, #devcontainer 🗓️ 2025-08-13
-    > **Заметка:** Любопытный подгон от Саймона: codespace с предустановленной его тулзой llm, работающей через бесплатные GitHub Models
 - [Blue Gopher Meets Stochastic Parrot • The Applied Go Weekly Newsletter 2025-08-10](https://newsletter.appliedgo.net/archive/2025-08-10-blue-gopher-meets-stochastic-parrot/) 👤 The Applied Go Weekly Newsletter 💬 1872 🔖 #go 🗓️ 2025-08-12
 - [Что там у «Рика и Морти» в 8-м сезоне? Риковое поле экспериментов](https://www.mirf.ru/serial/rik-i-morti-8-sezon) 👤 mirf.ru 💬 921 🗓️ 2025-08-07
 - [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/) 👤 Benjamin Sandofsky 💬 8956 🗓️ 2025-08-06

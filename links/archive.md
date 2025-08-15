@@ -1,12 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 927
+- Всего ссылок: 932
 
 ## Ссылки
 
 - [Configuring GitHub Codespaces using devcontainers | Simon Willison’s TILs](https://til.simonwillison.net/github/codespaces-devcontainers) 👤 simonwillison.net 💬 619 🔖 #llm, #github, #codespaces, #devcontainer 🗓️ 2025-08-13
 - [AI is different](http://antirez.com/news/155) 👤 antirez.com 💬 454 🔖 #llm 🗓️ 2025-08-13
 - [The famous "bottomless pit" AI greentext is fake](https://seangoedecke.com/bottomless-pit/) 👤 seangoedecke.com 💬 585 🔖 #llm 🗓️ 2025-08-13
+- [simonw/codespaces-llm](https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything) 👤 Simon Willison 💬 213 🔖 #llm, #try, #toot, #github, #codespaces, #devcontainer 🗓️ 2025-08-13
+    > **Заметка:** Любопытный подгон от Саймона: codespace с предустановленной его тулзой llm, работающей через бесплатные GitHub Models
 - [Is chain-of-thought AI reasoning a mirage?](https://seangoedecke.com/real-reasoning/) 👤 seangoedecke.com 💬 1504 🔖 #llm 🗓️ 2025-08-13
 - [GitHub just got less independent at Microsoft after CEO resignation | The Verge](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition?utm_source=tldrwebdev) 👤 Tom Warren 💬 675 🔖 #toot, #github, #programming 🗓️ 2025-08-12
     > **Заметка:** CEO GitHub всё!
@@ -76,8 +78,12 @@
 - [Do not yell at the language model](https://seangoedecke.com/do-not-yell-at-the-language-model/) 👤 seangoedecke.com 💬 657 🔖 #llm 🗓️ 2025-07-24
 - [Announcing Toad - a universal UI for agentic coding in the terminal](https://willmcgugan.github.io/announcing-toad/) 👤 Will McGugan 💬 1607 🗓️ 2025-07-24
 - [What "Parse, don't validate" means in Python?](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) 👤 Bite Code! 💬 2381 🔖 #python, #principles 🗓️ 2025-07-23
+- [Opinion | I Teach Creative Writing. This Is What A.I. Is Doing to Students. - The New York Times](https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html?unlocked_article_code=1.YE8.FbMs.W6XRxpJ6UEyg&smid=url-share) 👤 Meghan O’Rourke 💬 3608 🔖 #llm, #writing 🗓️ 2025-07-22
+- [A real-world AI coding case sample](https://blog.korny.info/2025/07/18/a-real-world-ai-coding-case-sample) 👤 Korny Sietsma 💬 2008 🔖 #llm 🗓️ 2025-07-22
+- [Clowns to the left of me …](https://blog.korny.info/2025/07/19/clowns-to-the-left-of-me) 👤 Korny Sietsma 💬 1597 🔖 #llm 🗓️ 2025-07-22
 - [Как научить нейросеть работать руками: создание полноценного ИИ-агента с MCP и LangGraph за час](https://habr.com/ru/companies/amvera/articles/929568/) 👤 yakvenalex 💬 4800 🔖 #llm, #try, #agents, #langchain, #langgraph 🗓️ 2025-07-22
 - [The Business Case for Vanilla JS](https://lewiscampbell.tech/blog/250430.html) 👤 lewiscampbell.tech 💬 742 🔖 #javascript 🗓️ 2025-07-21
+- [How I program with Agents](https://crawshaw.io/blog/programming-with-agents) 👤 crawshaw.io 💬 4471 🔖 #llm 🗓️ 2025-07-21
 - [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) 👤 crawshaw.io 💬 4510 🔖 #llm 🗓️ 2025-07-21
 - [NIH Is Far Cheaper Than The Wrong Dependency](https://lewiscampbell.tech/blog/250718.html?utm_source=substack&utm_medium=email) 👤 lewiscampbell.tech 💬 433 🗓️ 2025-07-20
 - [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration, #joyandcuriosity 🗓️ 2025-07-20

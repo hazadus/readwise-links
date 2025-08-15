@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [Another article about centering in CSS](https://piccalil.li/blog/another-article-about-centering-in-css/?ref=main-rss-feed) 👤 Piccalilli 💬 1236 🔖 #css 🗓️ 2025-08-14
+    > **Резюме:** Centering in CSS is easier than ever with many options like grid and flexbox, but choosing one clear method is key. Using parent-based layouts with grid or flexbox is better than mixing child and parent alignment. Avoid positioning for centering unless you fully control the parent, and focus on simple, consistent principles for your team.
 - [Partial Keyframes](https://www.joshwcomeau.com/animation/partial-keyframes/) 👤 Josh W. Comeau 💬 1697 🔖 #css 🗓️ 2025-06-11
     > **Резюме:** You can create CSS keyframe animations without always defining a starting point, allowing the animation to inherit the element's current state. This technique makes animations more dynamic and flexible, particularly useful for elements with varying opacity. Additionally, you can use CSS variables within keyframe animations to control properties like movement, enhancing their versatility.
 - [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/?utm_source=rss) 👤 alexwlchan.net 💬 3756 🔖 #css, #html 🗓️ 2025-05-26

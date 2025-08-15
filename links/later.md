@@ -1,12 +1,12 @@
 # Отложенные ссылки
 
-- Всего ссылок: 44
+- Всего ссылок: 40
 
 ## Ссылки
 
 - [Just a nice shell script - Bite code!](https://www.bitecode.dev/p/just-a-nice-shell-script) 👤 Bite Code! 🗓️ 2025-08-13
     > **Резюме:** Which you could use to install just. Just saying.
-- [In Praise of Containers; there's no place like $HOME](https://sketch.dev/blog/in-praise-of-containers) 👤 Philip Zeyliger 💬 978 🔖 #llm, #try 🗓️ 2025-08-12
+- [In Praise of Containers; there's no place like $HOME](https://sketch.dev/blog/in-praise-of-containers) 👤 Philip Zeyliger 💬 978 🔖 #llm 🗓️ 2025-08-12
     > **Резюме:** The author discusses the pros and cons of using containers versus local machines for coding with agents. Containers offer isolation, easy parallel work, and consistent environments, while local setups feel more familiar and convenient for small tasks. The author uses both approaches depending on the situation and invites readers to share their preferences.
 - [How I use Tailscale](https://chameth.com/how-i-use-tailscale/?utm_source=tldrwebdev) 👤 chameth.com 💬 2064 🗓️ 2025-08-11
     > **Резюме:** Tailscale is a simple tool that connects your devices securely, even when they are on different networks. It makes logging in and accessing services easy without using passwords or public keys. You can control who accesses what with tags and rules, making your network safer and more organized.
@@ -58,16 +58,8 @@
     > **Резюме:** Complex systems always have problems because they are very complicated, and fixing one issue often adds more complexity. Looking for a single "root cause" of failures is wrong because accidents happen from many small issues combined. Instead of blaming one cause, we should understand that failures come from multiple factors working together.
 - [Getting Real](http://gettingreal.37signals.com/) 👤 basecamp.com 💬 426 🔖 #book 🗓️ 2025-07-24
     > **Резюме:** "Getting Real" by 37signals is a valuable resource for anyone creating a web app, offering simple insights and unique ideas. It focuses on practical approaches to software design rather than technical details. Readers from various backgrounds, including entrepreneurs and designers, will find inspiration in its unconventional wisdom.
-- [Opinion | I Teach Creative Writing. This Is What A.I. Is Doing to Students. - The New York Times](https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html?unlocked_article_code=1.YE8.FbMs.W6XRxpJ6UEyg&smid=url-share) 👤 Meghan O’Rourke 💬 3608 🔖 #llm 🗓️ 2025-07-22
-    > **Резюме:** A.I., like ChatGPT, helps students write quickly but can weaken their thinking and creativity. Many teachers worry it makes writing less personal and less rewarding. We need clear rules to balance A.I.'s help with the true learning of writing.
-- [A real-world AI coding case sample](https://blog.korny.info/2025/07/18/a-real-world-ai-coding-case-sample) 👤 Korny Sietsma 💬 2008 🔖 #llm 🗓️ 2025-07-22
-    > **Резюме:** The author used AI (Claude) to help add event messaging when a business-contact relationship changed in an ASP.Net app. Claude made good initial code but needed human guidance to fix details and improve logic. Together, they wrote tests and fixed errors, showing AI can assist coding but not fully replace developers yet.
-- [Clowns to the left of me …](https://blog.korny.info/2025/07/19/clowns-to-the-left-of-me) 👤 Korny Sietsma 💬 1597 🔖 #llm 🗓️ 2025-07-22
-    > **Резюме:** The author feels caught between extreme hype and strong criticism about AI coding tools. They find these tools useful but recognize they need careful use and learning. They warn about the broader risks and challenges behind AI technology.
 - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/?from=newsletter) 👤 Josh W. Comeau 💬 3091 🗓️ 2025-07-21
     > **Резюме:** SVG is a special image format that uses shapes like circles and lines written in code. It can be styled and animated using CSS and JavaScript, making it very powerful. SVG images stay sharp no matter how much you zoom in, which is great for web design.
-- [How I program with Agents](https://crawshaw.io/blog/programming-with-agents) 👤 crawshaw.io 💬 4471 🔖 #llm 🗓️ 2025-07-21
-    > **Резюме:** David Crawshaw discusses using agents in programming, highlighting how they enhance the capabilities of LLMs by providing feedback-driven tools. Agents simplify code generation and maintenance, allowing programmers to accomplish more despite their time constraints. Although agents currently require human oversight for some tasks, they represent a significant advancement in programming efficiency.
 - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents) 👤 anthropic.com 💬 2551 🔖 #llm, #agents 🗓️ 2025-07-21
     > **Резюме:** Anthropic has learned from working with various teams to build effective AI agents using large language models (LLMs). They differentiate between workflows, which follow predefined paths, and agents that operate flexibly and autonomously. The article provides practical advice for developers on choosing the right approach and emphasizes the importance of simplicity and effective design in building these systems.
 - [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) 👤 Andrej Karpathy 🔖 #llm 🗓️ 2025-07-21

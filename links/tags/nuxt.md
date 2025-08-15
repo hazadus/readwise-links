@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 43
+- Всего ссылок: 44
 
 ## Ссылки
 
+- [Nuxt Tip: Accessing Pinia Store in Production Build](https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build) 👤 Michael Hoffmann 💬 86 🔖 #nuxt, #pinia 🗓️ 2025-08-14
+    > **Резюме:** In local development, you can easily debug your Pinia store with Nuxt Devtools. In production builds, accessing the Pinia store requires a different command in the browser console. Follow the author on BlueSky or subscribe to the newsletter for more Vue and Nuxt tips.
 - [What are Effect Scopes in Vue?](https://michaelnthiessen.com/what-are-effect-scopes-in-vue?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(230)+What+are+Effect+Scopes+in+Vue?+-+18611005&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1063 🔖 #vue, #nuxt 🗓️ 2025-08-13
     > **Резюме:** Effect scopes in Vue group related reactive effects so they can be stopped and cleaned up easily. This helps prevent memory leaks and bugs by controlling how long effects live. They are used inside components and also for advanced patterns like shared composables.
 - [Bulletproof Watchers in Vue](https://michaelnthiessen.com/bulletproof-watchers-in-vue?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=Bulletproof+Watchers+in+Vue+(no+more+leaks+or+duplicate+effects)+-+18562994) 👤 michaelnthiessen.com 💬 1040 🔖 #vue, #nuxt, #toot, #webdev, #programming 🗓️ 2025-08-09
