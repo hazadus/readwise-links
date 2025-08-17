@@ -1,10 +1,12 @@
 # Архивные ссылки
 
-- Всего ссылок: 932
+- Всего ссылок: 934
 
 ## Ссылки
 
+- [Why LLMs Can't Really Build Software](https://zed.dev/blog/why-llms-cant-build-software?utm_source=tldrwebdev) 👤 Conrad Irwin 💬 742 🔖 #llm 🗓️ 2025-08-16
 - [Configuring GitHub Codespaces using devcontainers | Simon Willison’s TILs](https://til.simonwillison.net/github/codespaces-devcontainers) 👤 simonwillison.net 💬 619 🔖 #llm, #github, #codespaces, #devcontainer 🗓️ 2025-08-13
+- [Do You Really Want to be Doing This When You're 50?](https://prog21.dadgum.com/154.html) 👤 prog21.dadgum.com 💬 495 🔖 #career 🗓️ 2025-08-13
 - [AI is different](http://antirez.com/news/155) 👤 antirez.com 💬 454 🔖 #llm 🗓️ 2025-08-13
 - [The famous "bottomless pit" AI greentext is fake](https://seangoedecke.com/bottomless-pit/) 👤 seangoedecke.com 💬 585 🔖 #llm 🗓️ 2025-08-13
 - [simonw/codespaces-llm](https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything) 👤 Simon Willison 💬 213 🔖 #llm, #try, #toot, #github, #codespaces, #devcontainer 🗓️ 2025-08-13

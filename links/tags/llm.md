@@ -1,9 +1,19 @@
 # Ссылки
 
-- Всего ссылок: 193
+- Всего ссылок: 196
 
 ## Ссылки
 
+- [Why LLMs Can't Really Build Software](https://zed.dev/blog/why-llms-cant-build-software?utm_source=tldrwebdev) 👤 Conrad Irwin 💬 742 🔖 #llm 🗓️ 2025-08-16
+    > **Резюме:** Good engineers build and update clear mental models as they write and test code.  
+LLMs can generate code and docs but cannot hold or update those models, so they get confused by missing context, recency bias, and hallucinations.  
+Humans must stay in the driver's seat; LLMs are useful tools, not replacements.
+- [How LLMs See the World](https://blog.bytebytego.com/p/how-llms-see-the-world?utm_source=tldrwebdev) 👤 ByteByteGo 💬 1974 🔖 #llm 🗓️ 2025-08-16
+    > **Резюме:** Tokens are the basic units LLMs use to read and write text. Tokenization splits text into characters, subwords, words, or symbols and controls length, cost, and performance. Poor tokenization hurts math, code, and non‑English text, so understanding it improves prompts and cost estimates.
+- [The Futzing Fraction](https://blog.glyph.im/2025/08/futzing-fraction.html) 👤 Glyph Lefkowitz 💬 5498 🔖 #llm 🗓️ 2025-08-16
+    > **Резюме:** AI can save time when it is correct, but it wastes time when it is wrong.  
+The Futzing Fraction measures whether using the AI yields net time saved or net time wasted by counting prompts, checks, inference cost, and error propagation.  
+Even with optimistic numbers, retries and propagated mistakes can push the fraction above 1, making AI a net loss and harming human skills.
 - [Configuring GitHub Codespaces using devcontainers | Simon Willison’s TILs](https://til.simonwillison.net/github/codespaces-devcontainers) 👤 simonwillison.net 💬 619 🔖 #llm, #github, #codespaces, #devcontainer 🗓️ 2025-08-13
     > **Резюме:** GitHub Codespaces lets you create full development environments in your browser quickly and easily. You can customize these environments using a devcontainer configuration file to include tools like Python, Node.js, and VS Code extensions. This setup helps run workshops smoothly and gives free access to advanced AI models through GitHub tokens.
 - [AI is different](http://antirez.com/news/155) 👤 antirez.com 💬 454 🔖 #llm 🗓️ 2025-08-13

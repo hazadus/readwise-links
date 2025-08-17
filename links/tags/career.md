@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 51
+- Всего ссылок: 52
 
 ## Ссылки
 
+- [Do You Really Want to be Doing This When You're 50?](https://prog21.dadgum.com/154.html) 👤 prog21.dadgum.com 💬 495 🔖 #career 🗓️ 2025-08-13
+    > **Резюме:** The author reflects on the frustrations of programming as one gets older, highlighting the challenges of constantly evolving technologies and the pressure to keep up with them. While still enjoying building things on a smaller scale, the author acknowledges that large-scale, high-stress coding may be better suited for younger individuals.
 - [Ludic's Guide To Getting Software Engineering Jobs](https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/) 👤 mataroa.blog 💬 8531 🔖 #career 🗓️ 2025-08-07
     > **Резюме:** Getting software engineering jobs often means starting with many mediocre, short-term roles. Success comes from quickly applying, not stressing about perfect fits, and being open to day-rate contracts. Building connections and being clear about your needs helps find better, well-paid jobs later.
 - [From trying to impress engineers to trying to impress managers](https://seangoedecke.com/impressing-people/) 👤 seangoedecke.com 💬 1335 🔖 #career 🗓️ 2025-08-02

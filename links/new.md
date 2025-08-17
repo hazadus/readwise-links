@@ -1,15 +1,18 @@
 # Новые ссылки
 
-- Всего ссылок: 835
+- Всего ссылок: 838
 
 ## Ссылки
 
+- [How LLMs See the World](https://blog.bytebytego.com/p/how-llms-see-the-world?utm_source=tldrwebdev) 👤 ByteByteGo 💬 1974 🔖 #llm 🗓️ 2025-08-16
+- [Why I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html?utm_source=tldrwebdev) 👤 xvw, Xavier Van de Woestyne 💬 11234 🗓️ 2025-08-16
+- [The Futzing Fraction](https://blog.glyph.im/2025/08/futzing-fraction.html) 👤 Glyph Lefkowitz 💬 5498 🔖 #llm 🗓️ 2025-08-16
+- [car brands running curl](https://daniel.haxx.se/blog/2025/08/15/car-brands-running-curl/) 👤 Daniel Stenberg 💬 660 🗓️ 2025-08-16
 - [Nuxt Tip: Accessing Pinia Store in Production Build](https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build) 👤 Michael Hoffmann 💬 86 🔖 #nuxt, #pinia 🗓️ 2025-08-14
 - [Another article about centering in CSS](https://piccalil.li/blog/another-article-about-centering-in-css/?ref=main-rss-feed) 👤 Piccalilli 💬 1236 🔖 #css 🗓️ 2025-08-14
 - [Mac toolbar widgets with xbar and rust](https://blog.korny.info/2025/01/18/toolbar-widgets-with-xbar-and-rust) 👤 Korny Sietsma 💬 779 🗓️ 2025-08-14
 - [Programming Without Being Obsessed With Programming](https://prog21.dadgum.com/195.html) 👤 dadgum.com 💬 446 🗓️ 2025-08-13
 - [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) 👤 dadgum.com 💬 467 🗓️ 2025-08-13
-- [Do You Really Want to be Doing This When You're 50?](https://prog21.dadgum.com/154.html) 👤 prog21.dadgum.com 💬 495 🗓️ 2025-08-13
 - [Building a web search engine from scratch in two months with 3 billion neural embeddings](https://blog.wilsonl.in/search-engine/?utm_source=tldrwebdev) 👤 Wilson Lin 💬 8008 🗓️ 2025-08-13
 - [What are Effect Scopes in Vue?](https://michaelnthiessen.com/what-are-effect-scopes-in-vue?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(230)+What+are+Effect+Scopes+in+Vue?+-+18611005&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1063 🔖 #vue, #nuxt 🗓️ 2025-08-13
 - [AI’s Security Crisis: Why Your Assistant Might Betray You](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/ai-s-security-crisis-why-your-assistant-might-betray-you/) 👤 Last Week in AWS 💬 14730 🗓️ 2025-08-13
