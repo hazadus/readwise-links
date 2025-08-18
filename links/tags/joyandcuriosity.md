@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [A culture of experimentation](https://matthewmanela.com/blog/a-culture-of-experimentation/?utm_source=substack&utm_medium=email) 👤 Matthew Manela 💬 1052 🔖 #joyandcuriosity 🗓️ 2025-08-17
+    > **Резюме:** Teams often settle into routines that feel fine but block improvement. Like simulated annealing, use big experiments to break free and small tweaks to refine. Make changes time‑boxed, team‑owned, and repeat them to steadily get better.
+- [vibe coding is the fast fashion industry of software engineering](https://pdelboca.me/writings/2025/08/01/vibe-coding-fast-fashion.html?utm_source=substack&utm_medium=email) 👤 pdelboca.me 💬 824 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-17
+    > **Резюме:** AI tools make coding faster but often produce low-quality, short-lived software. This flood of cheap code can create maintenance problems and security risks, like data leaks. Without clear quality standards, the software industry may face a messy, polluted future.
 - [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html?utm_source=substack&utm_medium=email) 👤 a1k0n.net 💬 2469 🔖 #joyandcuriosity 🗓️ 2025-08-10
     > **Резюме:** The code draws a spinning 3D donut using ASCII characters by projecting 3D points onto a 2D screen with math involving rotations and perspective. It calculates the brightness of each point based on lighting and chooses characters to show shading. This creates a cool visual effect of a rotating donut made from simple text symbols.
 - [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email) 👤 Cynthia Dunlop 💬 1523 🔖 #toot, #interview, #programming, #joyandcuriosity 🗓️ 2025-08-10

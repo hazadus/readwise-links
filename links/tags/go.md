@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 220
+- Всего ссылок: 221
 
 ## Ссылки
 
+- [Commit Messages That Write Themselves](https://newsletter.appliedgo.net/archive/2025-08-17-commit-messages-that-write-themselves/) 👤 The Applied Go Weekly Newsletter 💬 1485 🔖 #go, #git 🗓️ 2025-08-17
+    > **Резюме:** A small Go tool reads your staged git diff and uses an LLM to generate Conventional Commit messages.  
+It uses LangChainGo so you can swap providers, asks the model for JSON output, and caps diffs to save tokens.  
+This issue wraps up the Go & AI mini‑series and asks readers to take a short feedback survey.
 - [Blue Gopher Meets Stochastic Parrot • The Applied Go Weekly Newsletter 2025-08-10](https://newsletter.appliedgo.net/archive/2025-08-10-blue-gopher-meets-stochastic-parrot/) 👤 The Applied Go Weekly Newsletter 💬 1872 🔖 #go 🗓️ 2025-08-12
     > **Резюме:** Go programming language is becoming popular for building AI tools and apps because it works well with large language models (LLMs). There are many Go libraries and applications like LangChainGo, MCP Go SDK, Ollama, and LocalAI that help developers use AI easily. These tools make AI development simpler and let Go programmers create powerful AI-driven software.
 - [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #postgresql 🗓️ 2025-08-10

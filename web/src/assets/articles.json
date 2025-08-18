@@ -1,5 +1,114 @@
 [
     {
+        "id": "01k2x15nzyw9q6t20dxy644pdf",
+        "url": "https://read.readwise.io/read/01k2x15nzyw9q6t20dxy644pdf",
+        "source_url": "https://matthewmanela.com/blog/a-culture-of-experimentation/?utm_source=substack&utm_medium=email",
+        "title": "A culture of experimentation",
+        "author": "Matthew Manela",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
+                "type": "manual",
+                "created": 1755468464216
+            }
+        },
+        "site_name": "Matthew Manela",
+        "word_count": 1052,
+        "notes": "",
+        "summary": "Teams often settle into routines that feel fine but block improvement. Like simulated annealing, use big experiments to break free and small tweaks to refine. Make changes time‑boxed, team‑owned, and repeat them to steadily get better.",
+        "image_url": "https://matthewmanela.com/wp-content/uploads/2022/11/image.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2023-02-19",
+        "created_at": "2025-08-17T22:07:33.912832+00:00",
+        "updated_at": "2025-08-17T22:07:44.220962+00:00",
+        "saved_at": "2025-08-17T22:07:33.886000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-17T22:07:33.886000+00:00"
+    },
+    {
+        "id": "01k2x13bqygp0brymaj1ja33vp",
+        "url": "https://read.readwise.io/read/01k2x13bqygp0brymaj1ja33vp",
+        "source_url": "https://pdelboca.me/writings/2025/08/01/vibe-coding-fast-fashion.html?utm_source=substack&utm_medium=email",
+        "title": "vibe coding is the fast fashion industry of software engineering",
+        "author": "pdelboca.me",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1755468391269
+            },
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
+                "type": "manual",
+                "created": 1755468391269
+            }
+        },
+        "site_name": "pdelboca.me",
+        "word_count": 824,
+        "notes": "",
+        "summary": "AI tools make coding faster but often produce low-quality, short-lived software. This flood of cheap code can create maintenance problems and security risks, like data leaks. Without clear quality standards, the software industry may face a messy, polluted future.",
+        "image_url": null,
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-08-01",
+        "created_at": "2025-08-17T22:06:17.889729+00:00",
+        "updated_at": "2025-08-17T22:06:31.275942+00:00",
+        "saved_at": "2025-08-17T22:06:17.854000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-17T22:06:17.854000+00:00"
+    },
+    {
+        "id": "01k2vv390agkvfk8hzhqry951v",
+        "url": "https://read.readwise.io/read/01k2vv390agkvfk8hzhqry951v",
+        "source_url": "https://newsletter.appliedgo.net/archive/2025-08-17-commit-messages-that-write-themselves/",
+        "title": "Commit Messages That Write Themselves",
+        "author": "The Applied Go Weekly Newsletter",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "go": {
+                "name": "Go",
+                "type": "manual",
+                "created": 1755428537973
+            },
+            "git": {
+                "name": "git",
+                "type": "manual",
+                "created": 1755428537973
+            }
+        },
+        "site_name": "appliedgo.net",
+        "word_count": 1485,
+        "notes": "",
+        "summary": "A small Go tool reads your staged git diff and uses an LLM to generate Conventional Commit messages.  \nIt uses LangChainGo so you can swap providers, asks the model for JSON output, and caps diffs to save tokens.  \nThis issue wraps up the Go & AI mini‑series and asks readers to take a short feedback survey.",
+        "image_url": "https://assets.buttondown.email/images/813c447f-e0f5-46e0-b734-e81cd0d57d8e.png?w=960&fit=max",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-08-17",
+        "created_at": "2025-08-17T11:02:09.183706+00:00",
+        "updated_at": "2025-08-17T11:02:17.978707+00:00",
+        "saved_at": "2025-08-17T11:02:09.162000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-17T11:02:09.162000+00:00"
+    },
+    {
         "id": "01k2t923tc8v689bwhb8n85yps",
         "url": "https://read.readwise.io/read/01k2t923tc8v689bwhb8n85yps",
         "source_url": "https://zed.dev/blog/why-llms-cant-build-software?utm_source=tldrwebdev",
@@ -2417,10 +2526,10 @@
         "html_content": null,
         "published_date": "2025-07-21",
         "created_at": "2025-08-07T20:16:50.588578+00:00",
-        "updated_at": "2025-08-11T07:32:13.485104+00:00",
+        "updated_at": "2025-08-17T14:02:04.848862+00:00",
         "saved_at": "2025-08-07T20:16:50.552000+00:00",
-        "first_opened_at": "2025-08-08T20:28:40.877000+00:00",
-        "last_opened_at": "2025-08-11T07:32:08.520000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
         "last_moved_at": "2025-08-09T21:37:12.577000+00:00"
     },
     {

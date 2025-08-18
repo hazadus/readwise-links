@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 196
+- Всего ссылок: 197
 
 ## Ссылки
 
+- [vibe coding is the fast fashion industry of software engineering](https://pdelboca.me/writings/2025/08/01/vibe-coding-fast-fashion.html?utm_source=substack&utm_medium=email) 👤 pdelboca.me 💬 824 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-17
+    > **Резюме:** AI tools make coding faster but often produce low-quality, short-lived software. This flood of cheap code can create maintenance problems and security risks, like data leaks. Without clear quality standards, the software industry may face a messy, polluted future.
 - [Why LLMs Can't Really Build Software](https://zed.dev/blog/why-llms-cant-build-software?utm_source=tldrwebdev) 👤 Conrad Irwin 💬 742 🔖 #llm 🗓️ 2025-08-16
     > **Резюме:** Good engineers build and update clear mental models as they write and test code.  
 LLMs can generate code and docs but cannot hold or update those models, so they get confused by missing context, recency bias, and hallucinations.  
