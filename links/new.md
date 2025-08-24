@@ -1,9 +1,20 @@
 # Новые ссылки
 
-- Всего ссылок: 841
+- Всего ссылок: 852
 
 ## Ссылки
 
+- [The kids are alright](https://www.bitecode.dev/p/the-kids-are-alright) 👤 Bite Code! 💬 1829 🗓️ 2025-08-23
+- [Don't feed me AI slop](https://seangoedecke.com/dont-feed-me-slop/) 👤 seangoedecke.com 💬 2055 🗓️ 2025-08-23
+- [too many model context protocol servers and LLM allocations on the dance floor](https://ghuntley.com/allocations/) 👤 Geoffrey Huntley 💬 2498 🗓️ 2025-08-23
+- [The Management Skill Nobody Talks About](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/) 👤 Terrible Software 💬 724 🗓️ 2025-08-23
+- [AI Flat Spin](https://wsvincent.com/ai-flatspin/) 👤 William Vincent 💬 286 🗓️ 2025-08-23
+- [what is the point of libraries now that you can just generate them?](https://ghuntley.com/libraries/) 👤 Geoffrey Huntley 💬 1049 🗓️ 2025-08-23
+- [Фильмы по Стивену Кингу, которые не стоит пропускать](https://www.mirf.ru/kino/stiven-king-films-to-watch) 👤 mirf.ru 💬 1646 🗓️ 2025-08-23
+- [Good agents are good researchers](https://softwaredoug.com/blog/2025/08/19/researching-with-agents) 👤 Doug Turnbull 💬 1493 🗓️ 2025-08-23
+- [Instructor and Pydantic - Structured LLM outputs for easy data extraction!](https://www.youtube.com/watch?v=3xUW1Do9zOs) 👤 BugBytes 🗓️ 2025-08-23
+- [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/) 👤 Armin Ronacher 💬 3530 🗓️ 2025-08-23
+- [AI slop attacks on the curl project](https://daniel.haxx.se/blog/2025/08/18/ai-slop-attacks-on-the-curl-project/) 👤 Daniel Stenberg 💬 55 🗓️ 2025-08-23
 - [A culture of experimentation](https://matthewmanela.com/blog/a-culture-of-experimentation/?utm_source=substack&utm_medium=email) 👤 Matthew Manela 💬 1052 🔖 #joyandcuriosity 🗓️ 2025-08-17
 - [vibe coding is the fast fashion industry of software engineering](https://pdelboca.me/writings/2025/08/01/vibe-coding-fast-fashion.html?utm_source=substack&utm_medium=email) 👤 pdelboca.me 💬 824 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-17
 - [Commit Messages That Write Themselves](https://newsletter.appliedgo.net/archive/2025-08-17-commit-messages-that-write-themselves/) 👤 The Applied Go Weekly Newsletter 💬 1485 🔖 #go, #git 🗓️ 2025-08-17
