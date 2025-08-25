@@ -1,11 +1,27 @@
 # Новые ссылки
 
-- Всего ссылок: 852
+- Всего ссылок: 863
 
 ## Ссылки
 
+- [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/?utm_source=substack&utm_medium=email) 👤 matklad 💬 928 🔖 #codereview, #joyandcuriosity 🗓️ 2025-08-24
+- [Moving Objects in 3D Space](https://visualrambling.space/moving-objects-in-3d/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 829 🔖 #joyandcuriosity 🗓️ 2025-08-24
+- [Building AI Products In The Probabilistic Era](https://giansegato.com/essays/probabilistic-era?utm_source=substack&utm_medium=email) 👤 giansegato.com 💬 4463 🔖 #joyandcuriosity 🗓️ 2025-08-24
+- [The Nature of Software Development](https://pragprog.com/titles/rjnsd/the-nature-of-software-development/?utm_source=substack&utm_medium=email) 👤 Ron Jeffries 💬 1076 🔖 #joyandcuriosity 🗓️ 2025-08-24
+    > **Заметка:** 51
+- [Stepping Stones not Milestones](https://medium.com/@jamesacowling/stepping-stones-not-milestones-e6be0073563f) 👤 James Cowling 💬 2038 🔖 #joyandcuriosity 🗓️ 2025-08-24
+- [You should add debug views to your DB](https://chrispenner.ca/posts/views-for-debugging?utm_source=tldrwebdev) 👤 Chris Penner 💬 728 🗓️ 2025-08-24
+- [The Difference Between a Post Flush Watcher and nextTick in Vue](https://michaelnthiessen.com/the-difference-between-a-post-flush-watcher-and-nexttick?ck_subscriber_id=2108193410&utm_campaign=The+Difference+Between+a+Post+Flush+Watcher+and+nextTick+in+Vue+-+18711361&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1110 🗓️ 2025-08-24
+- [Getting Started with Obsidian Bases](https://obsidian.rocks/getting-started-with-obsidian-bases/?ref=Obsidian+Rocks+Newsletter) 👤 Tim Miller 💬 1699 🗓️ 2025-08-24
+- [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/?utm_source=tldrwebdev) 👤 Kuba Suder 💬 8494 🗓️ 2025-08-24
+- [What Learning React Won't Teach You: Image Formats](https://idiallo.com/blog/react-and-image-format?utm_source=tldrwebdev) 👤 Ibrahim Diallo 💬 1241 🗓️ 2025-08-24
+- [Why Semantic Layers Matter — and How to Build One with DuckDB](https://motherduck.com/blog/semantic-layer-duckdb-tutorial/?utm_source=tldrwebdev) 👤 MotherDuck 💬 4235 🗓️ 2025-08-24
+- [What could have been.](https://coppolaemilio.com/entries/what-could-have-been/?utm_source=tldrwebdev) 👤 Emi's Blog 💬 841 🗓️ 2025-08-24
+- [An Interactive Guide to SVG Paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/?from=newsletter) 👤 Josh W. Comeau 💬 3508 🗓️ 2025-08-24
+- [My AI Had Already Fixed the Code Before I Saw It](mailto:reader-forwarded-email/ad2b90fe856ee487d1eee89442319202) 👤 Every 💬 2253 🗓️ 2025-08-24
+- [GPT-5: Overdue, overhyped and underwhelming. And that’s not the worst of it.](https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming) 👤 Gary Marcus 💬 2405 🗓️ 2025-08-24
+- [The AI Co-Pilot: A Realistic Guide for Developers](https://smsk.dev/2025/08/23/the-ai-co-pilot-a-realistic-guide-for-developers/) 👤 devsimsek 💬 1117 🗓️ 2025-08-24
 - [The kids are alright](https://www.bitecode.dev/p/the-kids-are-alright) 👤 Bite Code! 💬 1829 🗓️ 2025-08-23
-- [Don't feed me AI slop](https://seangoedecke.com/dont-feed-me-slop/) 👤 seangoedecke.com 💬 2055 🗓️ 2025-08-23
 - [too many model context protocol servers and LLM allocations on the dance floor](https://ghuntley.com/allocations/) 👤 Geoffrey Huntley 💬 2498 🗓️ 2025-08-23
 - [The Management Skill Nobody Talks About](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/) 👤 Terrible Software 💬 724 🗓️ 2025-08-23
 - [AI Flat Spin](https://wsvincent.com/ai-flatspin/) 👤 William Vincent 💬 286 🗓️ 2025-08-23
@@ -13,15 +29,11 @@
 - [Фильмы по Стивену Кингу, которые не стоит пропускать](https://www.mirf.ru/kino/stiven-king-films-to-watch) 👤 mirf.ru 💬 1646 🗓️ 2025-08-23
 - [Good agents are good researchers](https://softwaredoug.com/blog/2025/08/19/researching-with-agents) 👤 Doug Turnbull 💬 1493 🗓️ 2025-08-23
 - [Instructor and Pydantic - Structured LLM outputs for easy data extraction!](https://www.youtube.com/watch?v=3xUW1Do9zOs) 👤 BugBytes 🗓️ 2025-08-23
-- [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/) 👤 Armin Ronacher 💬 3530 🗓️ 2025-08-23
-- [AI slop attacks on the curl project](https://daniel.haxx.se/blog/2025/08/18/ai-slop-attacks-on-the-curl-project/) 👤 Daniel Stenberg 💬 55 🗓️ 2025-08-23
 - [A culture of experimentation](https://matthewmanela.com/blog/a-culture-of-experimentation/?utm_source=substack&utm_medium=email) 👤 Matthew Manela 💬 1052 🔖 #joyandcuriosity 🗓️ 2025-08-17
-- [vibe coding is the fast fashion industry of software engineering](https://pdelboca.me/writings/2025/08/01/vibe-coding-fast-fashion.html?utm_source=substack&utm_medium=email) 👤 pdelboca.me 💬 824 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-17
 - [Commit Messages That Write Themselves](https://newsletter.appliedgo.net/archive/2025-08-17-commit-messages-that-write-themselves/) 👤 The Applied Go Weekly Newsletter 💬 1485 🔖 #go, #git 🗓️ 2025-08-17
 - [How LLMs See the World](https://blog.bytebytego.com/p/how-llms-see-the-world?utm_source=tldrwebdev) 👤 ByteByteGo 💬 1974 🔖 #llm 🗓️ 2025-08-16
 - [Why I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html?utm_source=tldrwebdev) 👤 xvw, Xavier Van de Woestyne 💬 11234 🗓️ 2025-08-16
 - [The Futzing Fraction](https://blog.glyph.im/2025/08/futzing-fraction.html) 👤 Glyph Lefkowitz 💬 5498 🔖 #llm 🗓️ 2025-08-16
-- [car brands running curl](https://daniel.haxx.se/blog/2025/08/15/car-brands-running-curl/) 👤 Daniel Stenberg 💬 660 🗓️ 2025-08-16
 - [Nuxt Tip: Accessing Pinia Store in Production Build](https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build) 👤 Michael Hoffmann 💬 86 🔖 #nuxt, #pinia 🗓️ 2025-08-14
 - [Another article about centering in CSS](https://piccalil.li/blog/another-article-about-centering-in-css/?ref=main-rss-feed) 👤 Piccalilli 💬 1236 🔖 #css 🗓️ 2025-08-14
 - [Mac toolbar widgets with xbar and rust](https://blog.korny.info/2025/01/18/toolbar-widgets-with-xbar-and-rust) 👤 Korny Sietsma 💬 779 🗓️ 2025-08-14
@@ -46,7 +58,7 @@
 - [TDD, AI agents and coding with Kent Beck](https://www.youtube.com/watch?v=aSXaxOdVtAQ) 👤 The Pragmatic Engineer 🗓️ 2025-07-25
 - [Обзор Donkey Kong Bananza - БЕЗУМНОЕ РАЗДОЛБАЙСТВО I Битый Пиксель](https://www.youtube.com/watch?v=TSemikWI1A4) 👤 Битый Пиксель 🗓️ 2025-07-25
 - [Gist of Go: Signaling](https://antonz.org/go-concurrency/signaling/) 👤 Anton Zhiyanov 💬 3912 🔖 #go 🗓️ 2025-07-21
-- [Useful Not True](private://read/01k0mry4zm9x1znxwz7rxpgn33) 👤 Derek Sivers 💬 22661 🗓️ 2025-07-20
+- [Useful Not True](private://read/01k0k6235k7ss56jx05sjmrryr) 👤 Derek Sivers 💬 22661 🗓️ 2025-07-20
 - [New And Improved Formula! • The Applied Go Weekly Newsletter 2025-07-20](https://newsletter.appliedgo.net/archive/2025-07-20-jsonv2-new-and-improved-formula/) 👤 The Applied Go Weekly Newsletter 💬 1836 🔖 #go 🗓️ 2025-07-20
 - [Developing a Real-time Dashboard with FastAPI, Postgres, and WebSockets](https://testdriven.io/blog/fastapi-postgres-websockets/) 👤 testdriven.io 💬 3838 🔖 #try, #fastapi, #websocket, #postgresql 🗓️ 2025-07-18
 - [You don't need testify/assert](https://antonz.org/do-not-testify/) 👤 Anton Zhiyanov 💬 1706 🔖 #go, #testing 🗓️ 2025-07-16

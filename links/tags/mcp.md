@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/) 👤 Armin Ronacher 💬 3530 🔖 #llm, #mcp 🗓️ 2025-08-23
+    > **Резюме:** Instead of many tiny MCP tools, expose one tool that accepts code — a stateful Python interpreter using pexpect.  
+The MCP can drive interactive programs, fix mistakes, and dump the session as a reusable Python script.  
+This simplifies automation and tooling, while shifting trust to executing code on the MCP.
 - [Connect to the MCP Server](https://logfire.pydantic.dev/docs/how-to-guides/mcp-server/) 👤 pydantic.dev 💬 400 🔖 #mcp 🗓️ 2025-07-04
     > **Резюме:** The MCP server lets you access and query your application's telemetry data using OpenTelemetry and Logfire. You need a read token to run the server from the command line and can configure it with tools like Cursor, Claude Desktop, or Cline. The server offers four main tools to find exceptions, run custom queries, and get schema information.
 - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/) 👤 Armin Ronacher's Thoughts and Writings 💬 2144 🔖 #llm, #mcp 🗓️ 2025-07-03

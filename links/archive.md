@@ -1,10 +1,15 @@
 # Архивные ссылки
 
-- Всего ссылок: 934
+- Всего ссылок: 939
 
 ## Ссылки
 
+- [Don't feed me AI slop](https://seangoedecke.com/dont-feed-me-slop/) 👤 seangoedecke.com 💬 2055 🔖 #llm, #writing 🗓️ 2025-08-23
+- [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/) 👤 Armin Ronacher 💬 3530 🔖 #llm, #mcp 🗓️ 2025-08-23
+- [AI slop attacks on the curl project](https://daniel.haxx.se/blog/2025/08/18/ai-slop-attacks-on-the-curl-project/) 👤 Daniel Stenberg 💬 55 🗓️ 2025-08-23
+- [vibe coding is the fast fashion industry of software engineering](https://pdelboca.me/writings/2025/08/01/vibe-coding-fast-fashion.html?utm_source=substack&utm_medium=email) 👤 pdelboca.me 💬 824 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-17
 - [Why LLMs Can't Really Build Software](https://zed.dev/blog/why-llms-cant-build-software?utm_source=tldrwebdev) 👤 Conrad Irwin 💬 742 🔖 #llm 🗓️ 2025-08-16
+- [car brands running curl](https://daniel.haxx.se/blog/2025/08/15/car-brands-running-curl/) 👤 Daniel Stenberg 💬 660 🗓️ 2025-08-16
 - [Configuring GitHub Codespaces using devcontainers | Simon Willison’s TILs](https://til.simonwillison.net/github/codespaces-devcontainers) 👤 simonwillison.net 💬 619 🔖 #llm, #github, #codespaces, #devcontainer 🗓️ 2025-08-13
 - [Do You Really Want to be Doing This When You're 50?](https://prog21.dadgum.com/154.html) 👤 prog21.dadgum.com 💬 495 🔖 #career 🗓️ 2025-08-13
 - [AI is different](http://antirez.com/news/155) 👤 antirez.com 💬 454 🔖 #llm 🗓️ 2025-08-13

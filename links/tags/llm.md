@@ -1,9 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 197
+- Всего ссылок: 199
 
 ## Ссылки
 
+- [Don't feed me AI slop](https://seangoedecke.com/dont-feed-me-slop/) 👤 seangoedecke.com 💬 2055 🔖 #llm, #writing 🗓️ 2025-08-23
+    > **Резюме:** Social norms are forming around when to show AI-generated content.  
+Only share AI output that is content-dense and as concise as a competent human’s.  
+Translations and tight technical facts are fine, but avoid vague, repetitive “AI slop.”
+- [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/) 👤 Armin Ronacher 💬 3530 🔖 #llm, #mcp 🗓️ 2025-08-23
+    > **Резюме:** Instead of many tiny MCP tools, expose one tool that accepts code — a stateful Python interpreter using pexpect.  
+The MCP can drive interactive programs, fix mistakes, and dump the session as a reusable Python script.  
+This simplifies automation and tooling, while shifting trust to executing code on the MCP.
 - [vibe coding is the fast fashion industry of software engineering](https://pdelboca.me/writings/2025/08/01/vibe-coding-fast-fashion.html?utm_source=substack&utm_medium=email) 👤 pdelboca.me 💬 824 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-17
     > **Резюме:** AI tools make coding faster but often produce low-quality, short-lived software. This flood of cheap code can create maintenance problems and security risks, like data leaks. Without clear quality standards, the software industry may face a messy, polluted future.
 - [Why LLMs Can't Really Build Software](https://zed.dev/blog/why-llms-cant-build-software?utm_source=tldrwebdev) 👤 Conrad Irwin 💬 742 🔖 #llm 🗓️ 2025-08-16

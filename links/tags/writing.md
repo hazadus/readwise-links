@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [Don't feed me AI slop](https://seangoedecke.com/dont-feed-me-slop/) 👤 seangoedecke.com 💬 2055 🔖 #llm, #writing 🗓️ 2025-08-23
+    > **Резюме:** Social norms are forming around when to show AI-generated content.  
+Only share AI output that is content-dense and as concise as a competent human’s.  
+Translations and tight technical facts are fine, but avoid vague, repetitive “AI slop.”
 - [Writing is thinking](https://www.nature.com/articles/s44222-025-00323-4#Bib1) 👤 Nature 💬 704 🔖 #llm, #writing 🗓️ 2025-07-28
     > **Резюме:** Writing helps scientists organize their ideas and think clearly about their research. Large-language models (LLMs) can assist with writing but cannot replace the deep thinking involved in creating scientific work. Relying fully on LLMs may reduce scientists’ ability to reflect and tell their research story well.
 - [Opinion | I Teach Creative Writing. This Is What A.I. Is Doing to Students. - The New York Times](https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html?unlocked_article_code=1.YE8.FbMs.W6XRxpJ6UEyg&smid=url-share) 👤 Meghan O’Rourke 💬 3608 🔖 #llm, #writing 🗓️ 2025-07-22

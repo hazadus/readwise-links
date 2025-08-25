@@ -1,9 +1,26 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/?utm_source=substack&utm_medium=email) 👤 matklad 💬 928 🔖 #codereview, #joyandcuriosity 🗓️ 2025-08-24
+    > **Резюме:** The author tried a new way to do code reviews by storing comments as commits in git, but it was too complicated to work well. Current web-based tools cause delays and limit local code exploration. For now, they returned to web reviews, hoping better solutions will come.
+- [Moving Objects in 3D Space](https://visualrambling.space/moving-objects-in-3d/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 829 🔖 #joyandcuriosity 🗓️ 2025-08-24
+    > **Резюме:** Objects in 3D are placed by x, y, z coordinates.  
+If x, y, z are functions of time, the object follows paths like circles, spirals, or a spherical helix.  
+Parametric equations let you create and visualize any motion.
+- [Building AI Products In The Probabilistic Era](https://giansegato.com/essays/probabilistic-era?utm_source=substack&utm_medium=email) 👤 giansegato.com 💬 4463 🔖 #joyandcuriosity 🗓️ 2025-08-24
+    > **Резюме:** AI is probabilistic, not deterministic, and often behaves in unexpected ways.  
+Product teams must use continuous data, test real user trajectories, and accept some unpredictability instead of trying to fully control models.  
+Organizations that think empirically and in probabilities will win the next era.
+- [The Nature of Software Development](https://pragprog.com/titles/rjnsd/the-nature-of-software-development/?utm_source=substack&utm_medium=email) 👤 Ron Jeffries 💬 1076 🔖 #joyandcuriosity 🗓️ 2025-08-24
+    > **Заметка:** 51
+    > **Резюме:** The Nature of Software Development by Ron Jeffries emphasizes the importance of delivering value through simple, incremental improvements in software projects. The book outlines seven core ideas to guide effective development, including focusing on features and building quality continuously. It encourages readers to explore and understand the software development process rather than following strict instructions.
+- [Stepping Stones not Milestones](https://medium.com/@jamesacowling/stepping-stones-not-milestones-e6be0073563f) 👤 James Cowling 💬 2038 🔖 #joyandcuriosity 🗓️ 2025-08-24
+    > **Резюме:** Break big engineering projects into stepping stones, not arbitrary milestones.  
+Each stepping stone should deliver real value, reveal unknown unknowns, and stay inside the project's strategy.  
+Keep stepping stones simple and extensible so you can learn, adapt, or stop without wasting effort.
 - [A culture of experimentation](https://matthewmanela.com/blog/a-culture-of-experimentation/?utm_source=substack&utm_medium=email) 👤 Matthew Manela 💬 1052 🔖 #joyandcuriosity 🗓️ 2025-08-17
     > **Резюме:** Teams often settle into routines that feel fine but block improvement. Like simulated annealing, use big experiments to break free and small tweaks to refine. Make changes time‑boxed, team‑owned, and repeat them to steadily get better.
 - [vibe coding is the fast fashion industry of software engineering](https://pdelboca.me/writings/2025/08/01/vibe-coding-fast-fashion.html?utm_source=substack&utm_medium=email) 👤 pdelboca.me 💬 824 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-17
