@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [The Problem with GitHub Commit Statuses](https://joshcannon.me/2025/08/24/github-commit-status.html) 👤 Josh Cannon 💬 616 🔖 #git, #github 🗓️ 2025-08-25
+    > **Резюме:** GitHub lets you block PR merges using commit statuses, and anyone can post arbitrary statuses via the API. Required checks must come from a specific app, but spoofable or non-required statuses still appear and confuse users. Because statuses are keyed by context and commit SHA, renaming contexts or reusing a SHA can break or wrongly allow merges.
+- [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/?utm_source=substack&utm_medium=email) 👤 matklad 💬 928 🔖 #git, #github, #codereview, #joyandcuriosity 🗓️ 2025-08-24
+    > **Резюме:** The author tried a new way to do code reviews by storing comments as commits in git, but it was too complicated to work well. Current web-based tools cause delays and limit local code exploration. For now, they returned to web reviews, hoping better solutions will come.
 - [Commit Messages That Write Themselves](https://newsletter.appliedgo.net/archive/2025-08-17-commit-messages-that-write-themselves/) 👤 The Applied Go Weekly Newsletter 💬 1485 🔖 #go, #git 🗓️ 2025-08-17
     > **Резюме:** A small Go tool reads your staged git diff and uses an LLM to generate Conventional Commit messages.  
 It uses LangChainGo so you can swap providers, asks the model for JSON output, and caps diffs to save tokens.  

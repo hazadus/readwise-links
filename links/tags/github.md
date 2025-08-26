@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 23
+- Всего ссылок: 25
 
 ## Ссылки
 
+- [The Problem with GitHub Commit Statuses](https://joshcannon.me/2025/08/24/github-commit-status.html) 👤 Josh Cannon 💬 616 🔖 #git, #github 🗓️ 2025-08-25
+    > **Резюме:** GitHub lets you block PR merges using commit statuses, and anyone can post arbitrary statuses via the API. Required checks must come from a specific app, but spoofable or non-required statuses still appear and confuse users. Because statuses are keyed by context and commit SHA, renaming contexts or reusing a SHA can break or wrongly allow merges.
+- [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/?utm_source=substack&utm_medium=email) 👤 matklad 💬 928 🔖 #git, #github, #codereview, #joyandcuriosity 🗓️ 2025-08-24
+    > **Резюме:** The author tried a new way to do code reviews by storing comments as commits in git, but it was too complicated to work well. Current web-based tools cause delays and limit local code exploration. For now, they returned to web reviews, hoping better solutions will come.
 - [Configuring GitHub Codespaces using devcontainers | Simon Willison’s TILs](https://til.simonwillison.net/github/codespaces-devcontainers) 👤 simonwillison.net 💬 619 🔖 #llm, #github, #codespaces, #devcontainer 🗓️ 2025-08-13
     > **Резюме:** GitHub Codespaces lets you create full development environments in your browser quickly and easily. You can customize these environments using a devcontainer configuration file to include tools like Python, Node.js, and VS Code extensions. This setup helps run workshops smoothly and gives free access to advanced AI models through GitHub tokens.
 - [simonw/codespaces-llm](https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything) 👤 Simon Willison 💬 213 🔖 #llm, #try, #toot, #github, #codespaces, #devcontainer 🗓️ 2025-08-13

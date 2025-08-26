@@ -1,9 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 939
+- Всего ссылок: 943
 
 ## Ссылки
 
+- [I have found the joy of clipboard managers](https://hamatti.org/posts/i-have-found-the-joy-of-clipboard-managers/) 👤 Juha-Matti Santala 💬 569 🗓️ 2025-08-25
+- [The Problem with GitHub Commit Statuses](https://joshcannon.me/2025/08/24/github-commit-status.html) 👤 Josh Cannon 💬 616 🔖 #git, #github 🗓️ 2025-08-25
+- [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/?utm_source=substack&utm_medium=email) 👤 matklad 💬 928 🔖 #git, #github, #codereview, #joyandcuriosity 🗓️ 2025-08-24
+- [Getting Started with Obsidian Bases](https://obsidian.rocks/getting-started-with-obsidian-bases/?ref=Obsidian+Rocks+Newsletter) 👤 Tim Miller 💬 1699 🔖 #obsidian 🗓️ 2025-08-24
 - [Don't feed me AI slop](https://seangoedecke.com/dont-feed-me-slop/) 👤 seangoedecke.com 💬 2055 🔖 #llm, #writing 🗓️ 2025-08-23
 - [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/) 👤 Armin Ronacher 💬 3530 🔖 #llm, #mcp 🗓️ 2025-08-23
 - [AI slop attacks on the curl project](https://daniel.haxx.se/blog/2025/08/18/ai-slop-attacks-on-the-curl-project/) 👤 Daniel Stenberg 💬 55 🗓️ 2025-08-23

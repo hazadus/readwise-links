@@ -1,10 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 863
+- Всего ссылок: 862
 
 ## Ссылки
 
-- [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/?utm_source=substack&utm_medium=email) 👤 matklad 💬 928 🔖 #codereview, #joyandcuriosity 🗓️ 2025-08-24
+- [Everything I know about good API design](https://seangoedecke.com/good-api-design/) 👤 seangoedecke.com 💬 3865 🗓️ 2025-08-25
 - [Moving Objects in 3D Space](https://visualrambling.space/moving-objects-in-3d/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 829 🔖 #joyandcuriosity 🗓️ 2025-08-24
 - [Building AI Products In The Probabilistic Era](https://giansegato.com/essays/probabilistic-era?utm_source=substack&utm_medium=email) 👤 giansegato.com 💬 4463 🔖 #joyandcuriosity 🗓️ 2025-08-24
 - [The Nature of Software Development](https://pragprog.com/titles/rjnsd/the-nature-of-software-development/?utm_source=substack&utm_medium=email) 👤 Ron Jeffries 💬 1076 🔖 #joyandcuriosity 🗓️ 2025-08-24
@@ -12,7 +12,6 @@
 - [Stepping Stones not Milestones](https://medium.com/@jamesacowling/stepping-stones-not-milestones-e6be0073563f) 👤 James Cowling 💬 2038 🔖 #joyandcuriosity 🗓️ 2025-08-24
 - [You should add debug views to your DB](https://chrispenner.ca/posts/views-for-debugging?utm_source=tldrwebdev) 👤 Chris Penner 💬 728 🗓️ 2025-08-24
 - [The Difference Between a Post Flush Watcher and nextTick in Vue](https://michaelnthiessen.com/the-difference-between-a-post-flush-watcher-and-nexttick?ck_subscriber_id=2108193410&utm_campaign=The+Difference+Between+a+Post+Flush+Watcher+and+nextTick+in+Vue+-+18711361&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1110 🗓️ 2025-08-24
-- [Getting Started with Obsidian Bases](https://obsidian.rocks/getting-started-with-obsidian-bases/?ref=Obsidian+Rocks+Newsletter) 👤 Tim Miller 💬 1699 🗓️ 2025-08-24
 - [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/?utm_source=tldrwebdev) 👤 Kuba Suder 💬 8494 🗓️ 2025-08-24
 - [What Learning React Won't Teach You: Image Formats](https://idiallo.com/blog/react-and-image-format?utm_source=tldrwebdev) 👤 Ibrahim Diallo 💬 1241 🗓️ 2025-08-24
 - [Why Semantic Layers Matter — and How to Build One with DuckDB](https://motherduck.com/blog/semantic-layer-duckdb-tutorial/?utm_source=tldrwebdev) 👤 MotherDuck 💬 4235 🗓️ 2025-08-24

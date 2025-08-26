@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 19
 
 ## Ссылки
 
+- [Getting Started with Obsidian Bases](https://obsidian.rocks/getting-started-with-obsidian-bases/?ref=Obsidian+Rocks+Newsletter) 👤 Tim Miller 💬 1699 🔖 #obsidian 🗓️ 2025-08-24
+    > **Резюме:** Obsidian Bases turns your notes into interactive filtered databases without programming.  
+Enable the plugin, create a base, then add filters, properties, and views.  
+Bases are reusable and embeddable for trackers like writing, books, projects, and read‑later lists.
 - [linuxserver/obsidian¶](https://docs.linuxserver.io/images/docker-obsidian/) 👤 LinuxServer.io 💬 1521 🔖 #obsidian, #selfhost 🗓️ 2025-08-04
     > **Резюме:** Obsidian is a note-taking app that runs in a Docker container with support for multiple platforms and GPU acceleration. The container requires HTTPS for full functionality and can be secured with basic auth or a reverse proxy. Users can customize settings with environment variables, install apps persistently, and update containers by recreating them.
 - [Self-host Obsidian using Docker and Access it Via Web Browser](https://linuxhandbook.com/obsidian-docker-self-host/?ref=Obsidian+Rocks+Newsletter) 👤 Linux Handbook 💬 1042 🔖 #try, #obsidian, #selfhost 🗓️ 2025-08-03

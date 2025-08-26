@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/?utm_source=substack&utm_medium=email) 👤 matklad 💬 928 🔖 #codereview, #joyandcuriosity 🗓️ 2025-08-24
+- [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/?utm_source=substack&utm_medium=email) 👤 matklad 💬 928 🔖 #git, #github, #codereview, #joyandcuriosity 🗓️ 2025-08-24
     > **Резюме:** The author tried a new way to do code reviews by storing comments as commits in git, but it was too complicated to work well. Current web-based tools cause delays and limit local code exploration. For now, they returned to web reviews, hoping better solutions will come.
 - [Moving Objects in 3D Space](https://visualrambling.space/moving-objects-in-3d/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 829 🔖 #joyandcuriosity 🗓️ 2025-08-24
     > **Резюме:** Objects in 3D are placed by x, y, z coordinates.  
