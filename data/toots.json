@@ -16,7 +16,8 @@
         "01k2atwsem2my4th09kc93tt45",
         "01k2asaks1yknpxk6zdwkav5bk",
         "01k2fz8qsfdxenzz7mq44jcayz",
-        "01k2hhzq0sf51478p8f1f8by9j"
+        "01k2hhzq0sf51478p8f1f8by9j",
+        "01k3genw3a1e4am8884cgxtjgk"
     ],
     "toots": [
         {
@@ -120,6 +121,12 @@
             "document_title": "simonw/codespaces-llm",
             "source_url": "https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything",
             "toot_url": "https://fosstodon.org/@hazadus/115025869403797168"
+        },
+        {
+            "document_id": "01k3genw3a1e4am8884cgxtjgk",
+            "document_title": "Everything I know about good API design",
+            "source_url": "https://seangoedecke.com/good-api-design/",
+            "toot_url": "https://fosstodon.org/@hazadus/115099438058733675"
         }
     ]
 }
