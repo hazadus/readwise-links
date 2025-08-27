@@ -2,7 +2,7 @@ name: 🚀 Деплой на GitHub Pages
 
 on:
   workflow_run:
-    workflows: ["Архивировать ссылки"]
+    workflows: ["🗄️ Архивировать ссылки"]
     types:
       - completed
   workflow_dispatch:
