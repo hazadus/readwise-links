@@ -16,7 +16,8 @@
         "01k1fgaykmec4gy4d402zfepds",
         "01k1ddxewqhxcs47rafsc51dx4",
         "01k10nxc0n273vs5yr52513y6k",
-        "01k2hhzq0sf51478p8f1f8by9j"
+        "01k2hhzq0sf51478p8f1f8by9j",
+        "01k3genw3a1e4am8884cgxtjgk"
     ],
     "skeets": [
         {
@@ -120,6 +121,12 @@
             "document_title": "simonw/codespaces-llm",
             "source_url": "https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything",
             "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lwdrylnbru2t"
+        },
+        {
+            "document_id": "01k3genw3a1e4am8884cgxtjgk",
+            "document_title": "Everything I know about good API design",
+            "source_url": "https://seangoedecke.com/good-api-design/",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lxehv4c74j2s"
         }
     ]
 }
