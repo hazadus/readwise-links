@@ -1,13 +1,19 @@
 # Ссылки
 
-- Всего ссылок: 199
+- Всего ссылок: 201
 
 ## Ссылки
 
+- [What could have been.](https://coppolaemilio.com/entries/what-could-have-been/?utm_source=tldrwebdev) 👤 Emi's Blog 💬 841 🔖 #llm 🗓️ 2025-08-24
+    > **Резюме:** The tech industry spends too much time and money chasing AI hype instead of fixing and improving existing software. Many AI features add little value and make software worse, while real problems remain unsolved. Even if the AI craze ends, the lost years and missed opportunities cannot be regained.
 - [Don't feed me AI slop](https://seangoedecke.com/dont-feed-me-slop/) 👤 seangoedecke.com 💬 2055 🔖 #llm, #writing 🗓️ 2025-08-23
     > **Резюме:** Social norms are forming around when to show AI-generated content.  
 Only share AI output that is content-dense and as concise as a competent human’s.  
 Translations and tight technical facts are fine, but avoid vague, repetitive “AI slop.”
+- [AI Flat Spin](https://wsvincent.com/ai-flatspin/) 👤 William Vincent 💬 286 🔖 #llm 🗓️ 2025-08-23
+    > **Резюме:** Using AI tools can feel like a thrilling, high-speed flight.  
+They can also suddenly hallucinate or get confused and wreck your code.  
+That mix of excitement and dread feels like a pilot’s flat spin.
 - [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/) 👤 Armin Ronacher 💬 3530 🔖 #llm, #mcp 🗓️ 2025-08-23
     > **Резюме:** Instead of many tiny MCP tools, expose one tool that accepts code — a stateful Python interpreter using pexpect.  
 The MCP can drive interactive programs, fix mistakes, and dump the session as a reusable Python script.  

@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 17
+- Всего ссылок: 18
 
 ## Ссылки
 
+- [Everything I know about good API design](https://seangoedecke.com/good-api-design/) 👤 seangoedecke.com 💬 3865 🔖 #api, #toot, #webdev, #programming 🗓️ 2025-08-25
+    > **Заметка:** Советы по разработке публичных API от Шона. Рекомендую почитать все его посты, очень глубокий материал!
+    > **Резюме:** Good APIs are boring, simple, and familiar so developers can use them without thinking.  
+API maintainers must avoid breaking changes because they hurt users.  
+Make adoption easy with simple auth and use versioning only as a last resort.
 - [simonw/codespaces-llm](https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything) 👤 Simon Willison 💬 213 🔖 #llm, #try, #toot, #github, #codespaces, #devcontainer 🗓️ 2025-08-13
     > **Заметка:** Любопытный подгон от Саймона: codespace с предустановленной его тулзой llm, работающей через бесплатные GitHub Models
     > **Резюме:** GitHub Codespaces includes a GITHUB_TOKEN that lets you access many LLM models for free. Simon Willison made a tool that sets up these models automatically in Codespaces. You can start a ready-to-use LLM environment with one easy link.

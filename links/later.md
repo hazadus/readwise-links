@@ -1,9 +1,73 @@
 # Отложенные ссылки
 
-- Всего ссылок: 40
+- Всего ссылок: 64
 
 ## Ссылки
 
+- [Building AI Products In The Probabilistic Era](https://giansegato.com/essays/probabilistic-era?utm_source=substack&utm_medium=email) 👤 giansegato.com 💬 4463 🔖 #joyandcuriosity 🗓️ 2025-08-24
+    > **Резюме:** AI is probabilistic, not deterministic, and often behaves in unexpected ways.  
+Product teams must use continuous data, test real user trajectories, and accept some unpredictability instead of trying to fully control models.  
+Organizations that think empirically and in probabilities will win the next era.
+- [Stepping Stones not Milestones](https://medium.com/@jamesacowling/stepping-stones-not-milestones-e6be0073563f) 👤 James Cowling 💬 2038 🔖 #joyandcuriosity 🗓️ 2025-08-24
+    > **Резюме:** Break big engineering projects into stepping stones, not arbitrary milestones.  
+Each stepping stone should deliver real value, reveal unknown unknowns, and stay inside the project's strategy.  
+Keep stepping stones simple and extensible so you can learn, adapt, or stop without wasting effort.
+- [The Difference Between a Post Flush Watcher and nextTick in Vue](https://michaelnthiessen.com/the-difference-between-a-post-flush-watcher-and-nexttick?ck_subscriber_id=2108193410&utm_campaign=The+Difference+Between+a+Post+Flush+Watcher+and+nextTick+in+Vue+-+18711361&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1110 🗓️ 2025-08-24
+    > **Резюме:** A post-flush watcher and nextTick both wait until after the DOM updates. The only difference is timing: nextTick runs one microtask later and therefore runs after post-flush watchers. In practice this rarely matters unless you need a strict execution order.
+- [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/?utm_source=tldrwebdev) 👤 Kuba Suder 💬 8494 🗓️ 2025-08-24
+    > **Резюме:** Bluesky is built on the AT Protocol, which defines how data and social features work together. It uses specific lexicons for different functions, allowing both Bluesky and third-party apps to share data on the same network. Bluesky also offers custom feeds and a public API that lets users and developers create and use various social tools easily.
+- [What Learning React Won't Teach You: Image Formats](https://idiallo.com/blog/react-and-image-format?utm_source=tldrwebdev) 👤 Ibrahim Diallo 💬 1241 🗓️ 2025-08-24
+    > **Резюме:** Image format choices have a huge impact on site speed and bandwidth. Use JPEG for photos, PNG for simple graphics and transparency, and SVG for scalable icons and logos. React guides often skip this, so developers unknowingly bloat apps and hurt user experience.
+- [My AI Had Already Fixed the Code Before I Saw It](mailto:reader-forwarded-email/ad2b90fe856ee487d1eee89442319202) 👤 Every 💬 2253 🗓️ 2025-08-24
+    > **Резюме:** Compounding engineering builds systems that learn from every bug, pull request, and code review so fixes become permanent.  
+The team uses Claude to write tests, iterate prompts, and store workflows in CLAUDE.md so the AI keeps improving automatically.  
+This turns one-off fixes into lasting automation that makes future work faster and safer.
+- [GPT-5: Overdue, overhyped and underwhelming. And that’s not the worst of it.](https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming) 👤 Gary Marcus 💬 2405 🗓️ 2025-08-24
+    > **Резюме:** GPT-5 was released with high expectations but disappointed many users and showed few improvements over earlier models. New research confirms that large language models like GPT-5 still struggle to generalize and reason beyond their training data. This suggests that simply making models bigger won’t bring us true artificial general intelligence (AGI).
+- [The kids are alright](https://www.bitecode.dev/p/the-kids-are-alright) 👤 Bite Code! 💬 1829 🗓️ 2025-08-23
+    > **Резюме:** New programmers make messy mistakes — we all did. AI speeds things up and amplifies both creativity and errors. Don't blame; welcome them and build stronger safety nets.
+- [too many model context protocol servers and LLM allocations on the dance floor](https://ghuntley.com/allocations/) 👤 Geoffrey Huntley 💬 2498 🗓️ 2025-08-23
+    > **Резюме:** Too many MCP servers and tools eat the LLM context window and reduce usable tokens.  
+This causes poorer outputs, unexpected behavior, and conflicts between tool prompts.  
+Only load a few provider‑tuned tools and enable or disable MCPs by workflow to preserve context and security.
+- [what is the point of libraries now that you can just generate them?](https://ghuntley.com/libraries/) 👤 Geoffrey Huntley 💬 1049 🗓️ 2025-08-23
+    > **Резюме:** Open source often depends on unpaid maintainers and lacks sustainable funding. AI lets teams auto-generate their own libraries instead of using third-party packages. That can shrink supply-chain risk and maintainer burnout, though open source will still matter.
+- [Good agents are good researchers](https://softwaredoug.com/blog/2025/08/19/researching-with-agents) 👤 Doug Turnbull 💬 1493 🗓️ 2025-08-23
+    > **Резюме:** Agents don't reason — they do research and rely on good search.  
+They often try to please, causing confirmation bias, poor source judgment, and rabbit holes.  
+Humans must steer, double-check evidence, and correct agents because agents will update without ego.
+- [Instructor and Pydantic - Structured LLM outputs for easy data extraction!](https://www.youtube.com/watch?v=3xUW1Do9zOs) 👤 BugBytes 🗓️ 2025-08-23
+    > **Резюме:** Instructor and Pydantic turn LLM text into structured data.  
+Read a PDF, extract its text, and send it to the model.  
+The model returns validated invoice fields you can use in apps.
+- [A culture of experimentation](https://matthewmanela.com/blog/a-culture-of-experimentation/?utm_source=substack&utm_medium=email) 👤 Matthew Manela 💬 1052 🔖 #joyandcuriosity 🗓️ 2025-08-17
+    > **Резюме:** Teams often settle into routines that feel fine but block improvement. Like simulated annealing, use big experiments to break free and small tweaks to refine. Make changes time‑boxed, team‑owned, and repeat them to steadily get better.
+- [Commit Messages That Write Themselves](https://newsletter.appliedgo.net/archive/2025-08-17-commit-messages-that-write-themselves/) 👤 The Applied Go Weekly Newsletter 💬 1485 🔖 #go, #git 🗓️ 2025-08-17
+    > **Резюме:** A small Go tool reads your staged git diff and uses an LLM to generate Conventional Commit messages.  
+It uses LangChainGo so you can swap providers, asks the model for JSON output, and caps diffs to save tokens.  
+This issue wraps up the Go & AI mini‑series and asks readers to take a short feedback survey.
+- [How LLMs See the World](https://blog.bytebytego.com/p/how-llms-see-the-world?utm_source=tldrwebdev) 👤 ByteByteGo 💬 1974 🔖 #llm 🗓️ 2025-08-16
+    > **Резюме:** Tokens are the basic units LLMs use to read and write text. Tokenization splits text into characters, subwords, words, or symbols and controls length, cost, and performance. Poor tokenization hurts math, code, and non‑English text, so understanding it improves prompts and cost estimates.
+- [Why I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html?utm_source=tldrwebdev) 👤 xvw, Xavier Van de Woestyne 💬 11234 🗓️ 2025-08-16
+    > **Резюме:** OCaml is a versatile and evolving programming language that combines strong static typing with multiple programming paradigms. It has a rich ecosystem, good tooling, and can compile to various targets like JavaScript and WebAssembly. The supportive community and practical features make OCaml a great choice for both learning and professional development.
+- [The Futzing Fraction](https://blog.glyph.im/2025/08/futzing-fraction.html) 👤 Glyph Lefkowitz 💬 5498 🔖 #llm 🗓️ 2025-08-16
+    > **Резюме:** AI can save time when it is correct, but it wastes time when it is wrong.  
+The Futzing Fraction measures whether using the AI yields net time saved or net time wasted by counting prompts, checks, inference cost, and error propagation.  
+Even with optimistic numbers, retries and propagated mistakes can push the fraction above 1, making AI a net loss and harming human skills.
+- [Another article about centering in CSS](https://piccalil.li/blog/another-article-about-centering-in-css/?ref=main-rss-feed) 👤 Piccalilli 💬 1236 🔖 #css 🗓️ 2025-08-14
+    > **Резюме:** Centering in CSS is easier than ever with many options like grid and flexbox, but choosing one clear method is key. Using parent-based layouts with grid or flexbox is better than mixing child and parent alignment. Avoid positioning for centering unless you fully control the parent, and focus on simple, consistent principles for your team.
+- [Mac toolbar widgets with xbar and rust](https://blog.korny.info/2025/01/18/toolbar-widgets-with-xbar-and-rust) 👤 Korny Sietsma 💬 779 🗓️ 2025-08-14
+    > **Резюме:** XBar is a simple Mac tool that shows small widgets on the toolbar using scripts. The author explains how to write plugins in Rust using rust-script, which compiles and runs Rust code like a script. They also share examples, including a clock widget and a music player controller.
+- [Programming Without Being Obsessed With Programming](https://prog21.dadgum.com/195.html) 👤 dadgum.com 💬 446 🗓️ 2025-08-13
+    > **Резюме:** The article discusses the author's perspective on programming without becoming overly consumed by technical details. The author emphasizes the importance of implementing ideas and maintaining a balance between coding and creative thinking. Simplifying languages, tools, and coding practices is key to avoiding obsession with programming.
+- [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) 👤 dadgum.com 💬 467 🗓️ 2025-08-13
+    > **Резюме:** Technical interviews often focus on complex algorithms, but most programming doesn't require this skill. The key to successful coding is organizing and managing complexity rather than mastering tricky data structures. Many programmers are self-taught and focus on practical problem-solving rather than theoretical knowledge.
+- [Building a web search engine from scratch in two months with 3 billion neural embeddings](https://blog.wilsonl.in/search-engine/?utm_source=tldrwebdev) 👤 Wilson Lin 💬 8008 🗓️ 2025-08-13
+    > **Резюме:** The author built a powerful web search engine using 3 billion neural embeddings in just two months. It can understand complex queries and delivers fast, accurate results by using advanced indexing and embedding techniques. This project shows that neural embeddings can greatly improve search quality compared to traditional methods.
+- [What are Effect Scopes in Vue?](https://michaelnthiessen.com/what-are-effect-scopes-in-vue?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(230)+What+are+Effect+Scopes+in+Vue?+-+18611005&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1063 🔖 #vue, #nuxt 🗓️ 2025-08-13
+    > **Резюме:** Effect scopes in Vue group related reactive effects so they can be stopped and cleaned up easily. This helps prevent memory leaks and bugs by controlling how long effects live. They are used inside components and also for advanced patterns like shared composables.
+- [AI’s Security Crisis: Why Your Assistant Might Betray You](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/ai-s-security-crisis-why-your-assistant-might-betray-you/) 👤 Last Week in AWS 💬 14730 🗓️ 2025-08-13
+    > **Резюме:** AI tools have great potential but come with serious security risks, including possible major breaches soon. Experts like Simon emphasize that human skills and careful coding remain important despite AI advances. Open source AI helps many fields, but challenges like bias, hallucinations, and environmental impact need attention.
 - [Just a nice shell script - Bite code!](https://www.bitecode.dev/p/just-a-nice-shell-script) 👤 Bite Code! 🗓️ 2025-08-13
     > **Резюме:** Which you could use to install just. Just saying.
 - [In Praise of Containers; there's no place like $HOME](https://sketch.dev/blog/in-praise-of-containers) 👤 Philip Zeyliger 💬 978 🔖 #llm 🗓️ 2025-08-12

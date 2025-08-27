@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [Everything I know about good API design](https://seangoedecke.com/good-api-design/) 👤 seangoedecke.com 💬 3865 🔖 #api, #toot, #webdev, #programming 🗓️ 2025-08-25
+    > **Заметка:** Советы по разработке публичных API от Шона. Рекомендую почитать все его посты, очень глубокий материал!
+    > **Резюме:** Good APIs are boring, simple, and familiar so developers can use them without thinking.  
+API maintainers must avoid breaking changes because they hurt users.  
+Make adoption easy with simple auth and use versioning only as a last resort.
 - [GitHub just got less independent at Microsoft after CEO resignation | The Verge](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition?utm_source=tldrwebdev) 👤 Tom Warren 💬 675 🔖 #toot, #github, #programming 🗓️ 2025-08-12
     > **Заметка:** CEO GitHub всё!
     > **Резюме:** GitHub will be part of Microsoft’s AI engineering team

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 17
+- Всего ссылок: 18
 
 ## Ссылки
 
+- [You should add debug views to your DB](https://chrispenner.ca/posts/views-for-debugging?utm_source=tldrwebdev) 👤 Chris Penner 💬 728 🔖 #db, #sql 🗓️ 2025-08-24
+    > **Резюме:** Debugging often means repeating complex joins and getting ID-heavy rows. Add a debug view that pre-joins tables and exposes readable fields like project and branch names. Views save time, are easy to change, and work well for one-off queries despite minor index tradeoffs.
 - [Просто берите Postgres](https://grishaev.me/just-use-postgres/) 👤 grishaev.me 💬 2190 🔖 #db, #postgresql 🗓️ 2025-02-06
     > **Резюме:** Автор делится своим опытом работы с Postgres, подчеркивая его простоту установки и мощные функции для работы с данными. Он отмечает, что хранение данных влияет на разработку и удобство работы с ними. Postgres предлагает отличные возможности для аналитики и обработки больших объемов данных, что делает его идеальным выбором для множества проектов.
 - [Постгрес и отчеты](https://grishaev.me/postgres-csv/) 👤 grishaev.me 💬 413 🔖 #db, #postgresql 🗓️ 2025-01-27

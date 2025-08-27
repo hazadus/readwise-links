@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 31
+- Всего ссылок: 32
 
 ## Ссылки
 
+- [The Management Skill Nobody Talks About](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/) 👤 Terrible Software 💬 724 🔖 #management 🗓️ 2025-08-23
+    > **Резюме:** You will make mistakes as a manager. Own them: apologize specifically and change your behavior to rebuild trust. Repairing mistakes lets you lead with more confidence, not a license to be careless.
 - [Why Most Feedback Shouldn’t Exist](https://terriblesoftware.org/2025/07/18/why-most-feedback-shouldnt-exist/) 👤 Terrible Software 💬 488 🔖 #management 🗓️ 2025-07-18
     > **Резюме:** Only give feedback when someone's actions harm work or the team. Personal preferences or discomfort with differences are not reasons for feedback. Focus on impact, not forcing everyone to act the same.
 - [I don't care if my manager writes code](https://seangoedecke.com/technical-engineering-managers/) 👤 seangoedecke.com 💬 1246 🔖 #management 🗓️ 2025-06-27
