@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 32
+- Всего ссылок: 33
 
 ## Ссылки
 
+- [Stepping Stones not Milestones](https://medium.com/@jamesacowling/stepping-stones-not-milestones-e6be0073563f) 👤 James Cowling 💬 2038 🔖 #management, #development, #joyandcuriosity 🗓️ 2025-08-24
+    > **Резюме:** Break big engineering projects into stepping stones, not arbitrary milestones.  
+Each stepping stone should deliver real value, reveal unknown unknowns, and stay inside the project's strategy.  
+Keep stepping stones simple and extensible so you can learn, adapt, or stop without wasting effort.
 - [The Management Skill Nobody Talks About](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/) 👤 Terrible Software 💬 724 🔖 #management 🗓️ 2025-08-23
     > **Резюме:** You will make mistakes as a manager. Own them: apologize specifically and change your behavior to rebuild trust. Repairing mistakes lets you lead with more confidence, not a license to be careless.
 - [Why Most Feedback Shouldn’t Exist](https://terriblesoftware.org/2025/07/18/why-most-feedback-shouldnt-exist/) 👤 Terrible Software 💬 488 🔖 #management 🗓️ 2025-07-18

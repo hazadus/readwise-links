@@ -1,9 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 57
+- Всего ссылок: 60
 
 ## Ссылки
 
+- [Finding the low-hanging fruit in tech companies](https://seangoedecke.com/low-hanging-fruit/) 👤 seangoedecke.com 💬 1455 🔖 #development 🗓️ 2025-08-26
+    > **Резюме:** Spend time on tasks that give the most value for the least effort. Use profiling and p95/p99 metrics to find the biggest bottlenecks. Target older, messy, or less-visible code and second-tier features for easy high-impact fixes.
+- [Stepping Stones not Milestones](https://medium.com/@jamesacowling/stepping-stones-not-milestones-e6be0073563f) 👤 James Cowling 💬 2038 🔖 #management, #development, #joyandcuriosity 🗓️ 2025-08-24
+    > **Резюме:** Break big engineering projects into stepping stones, not arbitrary milestones.  
+Each stepping stone should deliver real value, reveal unknown unknowns, and stay inside the project's strategy.  
+Keep stepping stones simple and extensible so you can learn, adapt, or stop without wasting effort.
+- [A culture of experimentation](https://matthewmanela.com/blog/a-culture-of-experimentation/?utm_source=substack&utm_medium=email) 👤 Matthew Manela 💬 1052 🔖 #leaddev, #development, #joyandcuriosity 🗓️ 2025-08-17
+    > **Резюме:** Teams often settle into routines that feel fine but block improvement. Like simulated annealing, use big experiments to break free and small tweaks to refine. Make changes time‑boxed, team‑owned, and repeat them to steadily get better.
 - [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) 👤 thorstenball.com 💬 2988 🔖 #development, #inspiration, #programming 🗓️ 2025-08-10
     > **Резюме:** The author reflects on 10 years of programming, emphasizing fearlessness and the importance of practical, maintainable code. They value working with others, understanding the full technology stack, and focusing on meaningful progress over perfection. Despite challenges, their love for programming remains strong.
 - [Repeat Yourself](https://endler.dev/2025/repeat-yourself/) 👤 Matthias Endler 💬 1624 🔖 #principles, #development 🗓️ 2025-06-24

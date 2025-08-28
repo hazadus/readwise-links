@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 17
+- Всего ссылок: 18
 
 ## Ссылки
 
+- [A culture of experimentation](https://matthewmanela.com/blog/a-culture-of-experimentation/?utm_source=substack&utm_medium=email) 👤 Matthew Manela 💬 1052 🔖 #leaddev, #development, #joyandcuriosity 🗓️ 2025-08-17
+    > **Резюме:** Teams often settle into routines that feel fine but block improvement. Like simulated annealing, use big experiments to break free and small tweaks to refine. Make changes time‑boxed, team‑owned, and repeat them to steadily get better.
 - [When Doing Nothing is the Best Management Strategy](https://terriblesoftware.org/2024/12/11/when-doing-nothing-is-the-best-management-strategy/) 👤 Terrible Software 💬 890 🔖 #leaddev, #management 🗓️ 2025-02-14
     > **Резюме:** In management, doing nothing can sometimes be the best strategy. Overreacting or intervening too much can create new problems and undermine team confidence. Balancing action and inaction is key to effective leadership.
 - [Effective Team Engagement Strategies for New Managers](https://terriblesoftware.org/2025/01/03/effective-team-engagement-strategies-for-new-managers/) 👤 Terrible Software 💬 930 🔖 #leaddev, #management 🗓️ 2025-02-14

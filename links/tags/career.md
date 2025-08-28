@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 52
+- Всего ссылок: 53
 
 ## Ссылки
 
+- [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) 👤 dadgum.com 💬 467 🔖 #career, #programming 🗓️ 2025-08-13
+    > **Резюме:** Technical interviews often focus on complex algorithms, but most programming doesn't require this skill. The key to successful coding is organizing and managing complexity rather than mastering tricky data structures. Many programmers are self-taught and focus on practical problem-solving rather than theoretical knowledge.
 - [Do You Really Want to be Doing This When You're 50?](https://prog21.dadgum.com/154.html) 👤 prog21.dadgum.com 💬 495 🔖 #career 🗓️ 2025-08-13
     > **Резюме:** The author reflects on the frustrations of programming as one gets older, highlighting the challenges of constantly evolving technologies and the pressure to keep up with them. While still enjoying building things on a smaller scale, the author acknowledges that large-scale, high-stress coding may be better suited for younger individuals.
 - [Ludic's Guide To Getting Software Engineering Jobs](https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/) 👤 mataroa.blog 💬 8531 🔖 #career 🗓️ 2025-08-07

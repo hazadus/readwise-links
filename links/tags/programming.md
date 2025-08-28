@@ -1,14 +1,20 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [Hopefully More Controversial Programming Opinions](https://prog21.dadgum.com/149.html) 👤 dadgum.com 💬 370 🔖 #programming 🗓️ 2025-08-27
+    > **Резюме:** The author shares controversial opinions about programming, arguing that computer science should only be a minor and that new programmers should first learn problem-solving basics. They believe complex compiler optimizations are often not worth the risks and that superficial code aesthetics don’t matter if the code works. The author also suggests that a software engineering mindset can hinder creativity and innovation.
 - [Everything I know about good API design](https://seangoedecke.com/good-api-design/) 👤 seangoedecke.com 💬 3865 🔖 #api, #toot, #webdev, #programming 🗓️ 2025-08-25
     > **Заметка:** Советы по разработке публичных API от Шона. Рекомендую почитать все его посты, очень глубокий материал!
     > **Резюме:** Good APIs are boring, simple, and familiar so developers can use them without thinking.  
 API maintainers must avoid breaking changes because they hurt users.  
 Make adoption easy with simple auth and use versioning only as a last resort.
+- [Programming Without Being Obsessed With Programming](https://prog21.dadgum.com/195.html) 👤 dadgum.com 💬 446 🔖 #programming 🗓️ 2025-08-13
+    > **Резюме:** The article discusses the author's perspective on programming without becoming overly consumed by technical details. The author emphasizes the importance of implementing ideas and maintaining a balance between coding and creative thinking. Simplifying languages, tools, and coding practices is key to avoiding obsession with programming.
+- [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) 👤 dadgum.com 💬 467 🔖 #career, #programming 🗓️ 2025-08-13
+    > **Резюме:** Technical interviews often focus on complex algorithms, but most programming doesn't require this skill. The key to successful coding is organizing and managing complexity rather than mastering tricky data structures. Many programmers are self-taught and focus on practical problem-solving rather than theoretical knowledge.
 - [GitHub just got less independent at Microsoft after CEO resignation | The Verge](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition?utm_source=tldrwebdev) 👤 Tom Warren 💬 675 🔖 #toot, #github, #programming 🗓️ 2025-08-12
     > **Заметка:** CEO GitHub всё!
     > **Резюме:** GitHub will be part of Microsoft’s AI engineering team

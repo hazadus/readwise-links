@@ -1,17 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 64
+- Всего ссылок: 56
 
 ## Ссылки
 
+- [The Coding Agent Metagame](https://calv.info/coding-agent-metagame) 👤 calv.info 💬 1817 🔖 #llm 🗓️ 2025-08-27
+    > **Резюме:** Claude Code is a fun and lightweight coding tool that feels like a game and helps developers enjoy programming more. It lets users customize how they work with AI, improving both productivity and trust in the tool. The key to its success is the ability to tweak the "product harness," making coding feel like a flow state and a creative metagame.
 - [Building AI Products In The Probabilistic Era](https://giansegato.com/essays/probabilistic-era?utm_source=substack&utm_medium=email) 👤 giansegato.com 💬 4463 🔖 #joyandcuriosity 🗓️ 2025-08-24
     > **Резюме:** AI is probabilistic, not deterministic, and often behaves in unexpected ways.  
 Product teams must use continuous data, test real user trajectories, and accept some unpredictability instead of trying to fully control models.  
 Organizations that think empirically and in probabilities will win the next era.
-- [Stepping Stones not Milestones](https://medium.com/@jamesacowling/stepping-stones-not-milestones-e6be0073563f) 👤 James Cowling 💬 2038 🔖 #joyandcuriosity 🗓️ 2025-08-24
-    > **Резюме:** Break big engineering projects into stepping stones, not arbitrary milestones.  
-Each stepping stone should deliver real value, reveal unknown unknowns, and stay inside the project's strategy.  
-Keep stepping stones simple and extensible so you can learn, adapt, or stop without wasting effort.
 - [The Difference Between a Post Flush Watcher and nextTick in Vue](https://michaelnthiessen.com/the-difference-between-a-post-flush-watcher-and-nexttick?ck_subscriber_id=2108193410&utm_campaign=The+Difference+Between+a+Post+Flush+Watcher+and+nextTick+in+Vue+-+18711361&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1110 🗓️ 2025-08-24
     > **Резюме:** A post-flush watcher and nextTick both wait until after the DOM updates. The only difference is timing: nextTick runs one microtask later and therefore runs after post-flush watchers. In practice this rarely matters unless you need a strict execution order.
 - [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/?utm_source=tldrwebdev) 👤 Kuba Suder 💬 8494 🗓️ 2025-08-24
@@ -30,8 +28,6 @@ This turns one-off fixes into lasting automation that makes future work faster a
     > **Резюме:** Too many MCP servers and tools eat the LLM context window and reduce usable tokens.  
 This causes poorer outputs, unexpected behavior, and conflicts between tool prompts.  
 Only load a few provider‑tuned tools and enable or disable MCPs by workflow to preserve context and security.
-- [what is the point of libraries now that you can just generate them?](https://ghuntley.com/libraries/) 👤 Geoffrey Huntley 💬 1049 🗓️ 2025-08-23
-    > **Резюме:** Open source often depends on unpaid maintainers and lacks sustainable funding. AI lets teams auto-generate their own libraries instead of using third-party packages. That can shrink supply-chain risk and maintainer burnout, though open source will still matter.
 - [Good agents are good researchers](https://softwaredoug.com/blog/2025/08/19/researching-with-agents) 👤 Doug Turnbull 💬 1493 🗓️ 2025-08-23
     > **Резюме:** Agents don't reason — they do research and rely on good search.  
 They often try to please, causing confirmation bias, poor source judgment, and rabbit holes.  
@@ -40,8 +36,6 @@ Humans must steer, double-check evidence, and correct agents because agents will
     > **Резюме:** Instructor and Pydantic turn LLM text into structured data.  
 Read a PDF, extract its text, and send it to the model.  
 The model returns validated invoice fields you can use in apps.
-- [A culture of experimentation](https://matthewmanela.com/blog/a-culture-of-experimentation/?utm_source=substack&utm_medium=email) 👤 Matthew Manela 💬 1052 🔖 #joyandcuriosity 🗓️ 2025-08-17
-    > **Резюме:** Teams often settle into routines that feel fine but block improvement. Like simulated annealing, use big experiments to break free and small tweaks to refine. Make changes time‑boxed, team‑owned, and repeat them to steadily get better.
 - [Commit Messages That Write Themselves](https://newsletter.appliedgo.net/archive/2025-08-17-commit-messages-that-write-themselves/) 👤 The Applied Go Weekly Newsletter 💬 1485 🔖 #go, #git 🗓️ 2025-08-17
     > **Резюме:** A small Go tool reads your staged git diff and uses an LLM to generate Conventional Commit messages.  
 It uses LangChainGo so you can swap providers, asks the model for JSON output, and caps diffs to save tokens.  
@@ -58,25 +52,16 @@ Even with optimistic numbers, retries and propagated mistakes can push the fract
     > **Резюме:** Centering in CSS is easier than ever with many options like grid and flexbox, but choosing one clear method is key. Using parent-based layouts with grid or flexbox is better than mixing child and parent alignment. Avoid positioning for centering unless you fully control the parent, and focus on simple, consistent principles for your team.
 - [Mac toolbar widgets with xbar and rust](https://blog.korny.info/2025/01/18/toolbar-widgets-with-xbar-and-rust) 👤 Korny Sietsma 💬 779 🗓️ 2025-08-14
     > **Резюме:** XBar is a simple Mac tool that shows small widgets on the toolbar using scripts. The author explains how to write plugins in Rust using rust-script, which compiles and runs Rust code like a script. They also share examples, including a clock widget and a music player controller.
-- [Programming Without Being Obsessed With Programming](https://prog21.dadgum.com/195.html) 👤 dadgum.com 💬 446 🗓️ 2025-08-13
-    > **Резюме:** The article discusses the author's perspective on programming without becoming overly consumed by technical details. The author emphasizes the importance of implementing ideas and maintaining a balance between coding and creative thinking. Simplifying languages, tools, and coding practices is key to avoiding obsession with programming.
-- [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) 👤 dadgum.com 💬 467 🗓️ 2025-08-13
-    > **Резюме:** Technical interviews often focus on complex algorithms, but most programming doesn't require this skill. The key to successful coding is organizing and managing complexity rather than mastering tricky data structures. Many programmers are self-taught and focus on practical problem-solving rather than theoretical knowledge.
 - [Building a web search engine from scratch in two months with 3 billion neural embeddings](https://blog.wilsonl.in/search-engine/?utm_source=tldrwebdev) 👤 Wilson Lin 💬 8008 🗓️ 2025-08-13
     > **Резюме:** The author built a powerful web search engine using 3 billion neural embeddings in just two months. It can understand complex queries and delivers fast, accurate results by using advanced indexing and embedding techniques. This project shows that neural embeddings can greatly improve search quality compared to traditional methods.
 - [What are Effect Scopes in Vue?](https://michaelnthiessen.com/what-are-effect-scopes-in-vue?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(230)+What+are+Effect+Scopes+in+Vue?+-+18611005&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1063 🔖 #vue, #nuxt 🗓️ 2025-08-13
     > **Резюме:** Effect scopes in Vue group related reactive effects so they can be stopped and cleaned up easily. This helps prevent memory leaks and bugs by controlling how long effects live. They are used inside components and also for advanced patterns like shared composables.
 - [AI’s Security Crisis: Why Your Assistant Might Betray You](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/ai-s-security-crisis-why-your-assistant-might-betray-you/) 👤 Last Week in AWS 💬 14730 🗓️ 2025-08-13
     > **Резюме:** AI tools have great potential but come with serious security risks, including possible major breaches soon. Experts like Simon emphasize that human skills and careful coding remain important despite AI advances. Open source AI helps many fields, but challenges like bias, hallucinations, and environmental impact need attention.
-- [Just a nice shell script - Bite code!](https://www.bitecode.dev/p/just-a-nice-shell-script) 👤 Bite Code! 🗓️ 2025-08-13
-    > **Резюме:** Which you could use to install just. Just saying.
 - [In Praise of Containers; there's no place like $HOME](https://sketch.dev/blog/in-praise-of-containers) 👤 Philip Zeyliger 💬 978 🔖 #llm 🗓️ 2025-08-12
     > **Резюме:** The author discusses the pros and cons of using containers versus local machines for coding with agents. Containers offer isolation, easy parallel work, and consistent environments, while local setups feel more familiar and convenient for small tasks. The author uses both approaches depending on the situation and invites readers to share their preferences.
 - [How I use Tailscale](https://chameth.com/how-i-use-tailscale/?utm_source=tldrwebdev) 👤 chameth.com 💬 2064 🗓️ 2025-08-11
     > **Резюме:** Tailscale is a simple tool that connects your devices securely, even when they are on different networks. It makes logging in and accessing services easy without using passwords or public keys. You can control who accesses what with tags and rules, making your network safer and more organized.
-- [LLMs are strangely-shaped tools](https://near.blog/llms-are-strangely-shaped-tools/) 👤 near.blog 💬 496 🔖 #llm 🗓️ 2025-08-11
-    > **Заметка:** From Thorsten Balls's AI post
-    > **Резюме:** Large language models (LLMs) are unusual tools because they were not designed for a specific purpose but evolved through training. This makes building reliable AI products difficult, as many common approaches have flaws like poor memory and hallucinations. Progress is slow, and most AI products copy existing ideas instead of exploring new possibilities due to the strange nature of LLMs.
 - [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #postgresql 🗓️ 2025-08-10
     > **Заметка:** From Thorsten Ball interview
     > **Резюме:** This article explains how to use ephemeral PostgreSQL instances for automated testing in Go, which can reduce resource usage and speed up test times. By starting a single PostgreSQL instance for all tests instead of multiple instances, developers can improve efficiency and maintainability. Additionally, optimizing the Go test caching behavior can further decrease test runtime significantly.
@@ -93,8 +78,6 @@ Even with optimistic numbers, retries and propagated mistakes can push the fract
     > **Резюме:** Trusting your own judgement about AI is risky because cognitive biases can trick even smart people. Self-experimentation with AI tools often leads to false beliefs and poor decisions. It is safer to wait for careful, impartial research before accepting claims about AI.
 - [Tailwind is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/) 👤 colton.dev 💬 2793 🗓️ 2025-08-07
     > **Резюме:** Tailwind combines many existing CSS problems and makes them worse by forcing inline styles with duplicated class names. It does not reduce developer effort or improve tooling, but it helps enforce consistent design through a central config file. Despite its flaws, Tailwind is popular because it offers a ready-made system for standardizing styles in modern web projects.
-- [All the concerns that make you a boring developer](https://daverupert.com/2025/08/got-99-engineering-problems-but-a-grift-aint-one/) 👤 Dave Rupert 💬 739 🗓️ 2025-08-07
-    > **Резюме:** Developers must consider many concerns like security, performance, accessibility, and scalability. These worries can make programming less fun but lead to better software. A good developer balances caution with the ability to say "yes" when possible.
 - [Why Building Billing Systems is So Painful](https://www.dmitry.ie/2024/why-building-billing-systems-is-so-painful?utm_source=tldrwebdev) 👤 dmitry.ie 💬 1859 🗓️ 2025-08-07
     > **Резюме:** Billing systems are very complex because they must handle many pricing models, currencies, taxes, and real-time usage tracking. They serve many customers inside a company, like finance, sales, and product teams, each with different needs. Building billing right is hard but important, as it is a critical part of business infrastructure that drives growth and success.
 - [Onboarding for coding agents](https://www.fuzzycomputer.com/posts/onboarding?utm_source=tldrwebdev) 👤 fuzzycomputer.com 💬 1171 🗓️ 2025-08-06
@@ -118,8 +101,6 @@ Even with optimistic numbers, retries and propagated mistakes can push the fract
     > **Резюме:** Success in AI means your token use can quickly outpace limits, causing urgent problems. To survive, you must rapidly increase token supply or reduce demand, even if it means cutting features or users. Focus on survival now; perfect solutions come later when growth stabilizes.
 - [From Async/Await to Virtual Threads](https://lucumr.pocoo.org/2025/7/26/virtual-threads/) 👤 Armin Ronacher 💬 1974 🗓️ 2025-07-27
     > **Резюме:** The article discusses how virtual threads could simplify Python concurrency by replacing complex async/await patterns with a clearer thread-based model. It highlights the benefits of structured concurrency and how virtual threads can improve cancellation and error handling. The author suggests this approach could make concurrent programming easier by moving complexity into the runtime instead of the user’s code.
-- [Leprechauns, Root Causes, And Other Fairy Tales](https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/) 👤 tomdalling.com 💬 1149 🗓️ 2025-07-24
-    > **Резюме:** Complex systems always have problems because they are very complicated, and fixing one issue often adds more complexity. Looking for a single "root cause" of failures is wrong because accidents happen from many small issues combined. Instead of blaming one cause, we should understand that failures come from multiple factors working together.
 - [Getting Real](http://gettingreal.37signals.com/) 👤 basecamp.com 💬 426 🔖 #book 🗓️ 2025-07-24
     > **Резюме:** "Getting Real" by 37signals is a valuable resource for anyone creating a web app, offering simple insights and unique ideas. It focuses on practical approaches to software design rather than technical details. Readers from various backgrounds, including entrepreneurs and designers, will find inspiration in its unconventional wisdom.
 - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/?from=newsletter) 👤 Josh W. Comeau 💬 3091 🗓️ 2025-07-21

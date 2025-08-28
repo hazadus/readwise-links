@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 201
+- Всего ссылок: 204
 
 ## Ссылки
 
+- [Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html) 👤 Ben O'Mahony 💬 2899 🔖 #llm, #agents 🗓️ 2025-08-27
+    > **Резюме:** They built a CLI coding agent using Pydantic‑AI and MCP that reads code, runs tests, and edits files. MCP servers add sandboxed Python, code reasoning, and file/terminal tools so the model can act. The result is faster, context‑aware development that works best when tailored to your codebase.
+- [The Coding Agent Metagame](https://calv.info/coding-agent-metagame) 👤 calv.info 💬 1817 🔖 #llm 🗓️ 2025-08-27
+    > **Резюме:** Claude Code is a fun and lightweight coding tool that feels like a game and helps developers enjoy programming more. It lets users customize how they work with AI, improving both productivity and trust in the tool. The key to its success is the ability to tweak the "product harness," making coding feel like a flow state and a creative metagame.
 - [What could have been.](https://coppolaemilio.com/entries/what-could-have-been/?utm_source=tldrwebdev) 👤 Emi's Blog 💬 841 🔖 #llm 🗓️ 2025-08-24
     > **Резюме:** The tech industry spends too much time and money chasing AI hype instead of fixing and improving existing software. Many AI features add little value and make software worse, while real problems remain unsolved. Even if the AI craze ends, the lost years and missed opportunities cannot be regained.
 - [Don't feed me AI slop](https://seangoedecke.com/dont-feed-me-slop/) 👤 seangoedecke.com 💬 2055 🔖 #llm, #writing 🗓️ 2025-08-23
@@ -14,6 +18,8 @@ Translations and tight technical facts are fine, but avoid vague, repetitive “
     > **Резюме:** Using AI tools can feel like a thrilling, high-speed flight.  
 They can also suddenly hallucinate or get confused and wreck your code.  
 That mix of excitement and dread feels like a pilot’s flat spin.
+- [what is the point of libraries now that you can just generate them?](https://ghuntley.com/libraries/) 👤 Geoffrey Huntley 💬 1049 🔖 #llm 🗓️ 2025-08-23
+    > **Резюме:** Open source often depends on unpaid maintainers and lacks sustainable funding. AI lets teams auto-generate their own libraries instead of using third-party packages. That can shrink supply-chain risk and maintainer burnout, though open source will still matter.
 - [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/) 👤 Armin Ronacher 💬 3530 🔖 #llm, #mcp 🗓️ 2025-08-23
     > **Резюме:** Instead of many tiny MCP tools, expose one tool that accepts code — a stateful Python interpreter using pexpect.  
 The MCP can drive interactive programs, fix mistakes, and dump the session as a reusable Python script.  

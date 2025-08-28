@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 91
+- Всего ссылок: 92
 
 ## Ссылки
 
+- [Quick Motivation – A Mac App](https://matthewmanela.com/blog/quick-motivation-a-mac-app/) 👤 Matthew Manela 💬 762 🔖 #macos, #swift, #inspiration 🗓️ 2025-08-27
+    > **Резюме:** The author used sticky notes to interrupt anxiety. He built Quick Motivation, a Mac menu bar app that shows customizable, pinnable messages. Building it taught him Swift, forced fixes for menu bar occlusion and popovers, and the app is on the Mac App Store and GitHub.
 - [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) 👤 thorstenball.com 💬 2988 🔖 #development, #inspiration, #programming 🗓️ 2025-08-10
     > **Резюме:** The author reflects on 10 years of programming, emphasizing fearlessness and the importance of practical, maintainable code. They value working with others, understanding the full technology stack, and focusing on meaningful progress over perfection. Despite challenges, their love for programming remains strong.
 - [How I do it](https://daniel.haxx.se/blog/2025/07/13/how-i-do-it/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_295) 👤 Daniel Stenberg 💬 1807 🔖 #inspiration 🗓️ 2025-07-26
