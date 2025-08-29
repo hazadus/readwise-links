@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [JavaScript Tutorial with Three.js – 5 Projects for Beginners](https://www.youtube.com/watch?v=tPkJLnDqAKk) 👤 freeCodeCamp.org 🔖 #try, #three.js, #javascript 🗓️ 2025-08-28
+    > **Резюме:** A freeCodeCamp YouTube tutorial teaches JavaScript with Three.js using five beginner projects.  
+It walks through scenes, meshes, textures, lights, and effects.  
+The video shows live coding, tweaks, and debugging to build interactive 3D scenes.
 - [Let's Write React Hooks From Scratch](https://playfulprogramming.com/posts/react-write-hooks-from-scratch?utm_source=tldrwebdev) 👤 Corbin Crutchley 💬 566 🔖 #diy, #javascript 🗓️ 2025-08-06
     > **Резюме:** React Hooks store state using a linked list inside the virtual DOM nodes. This design explains why hooks must be called in the same order every time. Understanding this helps developers see how React manages component state efficiently.
 - [The Business Case for Vanilla JS](https://lewiscampbell.tech/blog/250430.html) 👤 lewiscampbell.tech 💬 742 🔖 #javascript 🗓️ 2025-07-21

@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 964
+- Всего ссылок: 966
 
 ## Ссылки
 
+- [Turning Claude Code Into My Best Design Partner](https://betweentheprompts.com/design-partner/?utm_source=tldrwebdev) 👤 Between the Prompts 💬 1118 🔖 #llm 🗓️ 2025-08-27
+- [Bring Your Own Agent to Zed — Featuring Gemini CLI](https://zed.dev/blog/bring-your-own-agent-to-zed) 👤 Nathan Sobo 💬 796 🔖 #llm, #zed, #gemini 🗓️ 2025-08-27
 - [Quick Motivation – A Mac App](https://matthewmanela.com/blog/quick-motivation-a-mac-app/) 👤 Matthew Manela 💬 762 🔖 #macos, #swift, #inspiration 🗓️ 2025-08-27
 - [Hopefully More Controversial Programming Opinions](https://prog21.dadgum.com/149.html) 👤 dadgum.com 💬 370 🔖 #programming 🗓️ 2025-08-27
 - [Finding the low-hanging fruit in tech companies](https://seangoedecke.com/low-hanging-fruit/) 👤 seangoedecke.com 💬 1455 🔖 #development 🗓️ 2025-08-26

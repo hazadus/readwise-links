@@ -1,11 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 204
+- Всего ссылок: 206
 
 ## Ссылки
 
+- [Turning Claude Code Into My Best Design Partner](https://betweentheprompts.com/design-partner/?utm_source=tldrwebdev) 👤 Between the Prompts 💬 1118 🔖 #llm 🗓️ 2025-08-27
+    > **Резюме:** I used to prompt Claude Code directly, but conversations became the only source of truth and it often forgot or contradicted earlier instructions. Now I ask it to write and maintain a living plan document, update it with each commit, and use that plan as the sole context. The plan turns Claude Code into a collaborative design partner and makes development clearer and more reliable.
 - [Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html) 👤 Ben O'Mahony 💬 2899 🔖 #llm, #agents 🗓️ 2025-08-27
     > **Резюме:** They built a CLI coding agent using Pydantic‑AI and MCP that reads code, runs tests, and edits files. MCP servers add sandboxed Python, code reasoning, and file/terminal tools so the model can act. The result is faster, context‑aware development that works best when tailored to your codebase.
+- [Bring Your Own Agent to Zed — Featuring Gemini CLI](https://zed.dev/blog/bring-your-own-agent-to-zed) 👤 Nathan Sobo 💬 796 🔖 #llm, #zed, #gemini 🗓️ 2025-08-27
+    > **Резюме:** Zed now lets you run third-party agents inside the editor via a new Agent Client Protocol (ACP). Gemini CLI is the first reference implementation and shows editor features like live edit previews and multi-buffer reviews. ACP is open-source, keeps your code local, and aims to let many agents and editors interoperate.
 - [The Coding Agent Metagame](https://calv.info/coding-agent-metagame) 👤 calv.info 💬 1817 🔖 #llm 🗓️ 2025-08-27
     > **Резюме:** Claude Code is a fun and lightweight coding tool that feels like a game and helps developers enjoy programming more. It lets users customize how they work with AI, improving both productivity and trust in the tool. The key to its success is the ability to tweak the "product harness," making coding feel like a flow state and a creative metagame.
 - [What could have been.](https://coppolaemilio.com/entries/what-could-have-been/?utm_source=tldrwebdev) 👤 Emi's Blog 💬 841 🔖 #llm 🗓️ 2025-08-24

@@ -1,13 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 835
+- Всего ссылок: 833
 
 ## Ссылки
 
-- [Turning Claude Code Into My Best Design Partner](https://betweentheprompts.com/design-partner/?utm_source=tldrwebdev) 👤 Between the Prompts 💬 1118 🗓️ 2025-08-27
-- [Wicked Python trickery - dynamically patch a Python function's source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/?utm_source=tldrwebdev) 👤 Eric J. Ma 💬 2315 🔖 #python 🗓️ 2025-08-27
-- [Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html) 👤 Ben O'Mahony 💬 2899 🔖 #llm, #agents 🗓️ 2025-08-27
-- [Bring Your Own Agent to Zed — Featuring Gemini CLI](https://zed.dev/blog/bring-your-own-agent-to-zed) 👤 Nathan Sobo 💬 796 🗓️ 2025-08-27
+- [Python: The Documentary | An origin story](https://youtube.com/watch?v=GfH4QL4VqJ0&si=W-p_AVfiGeQIwieQ) 👤 CultRepo (formerly Honeypot) 🗓️ 2025-08-28
+- [JavaScript Tutorial with Three.js – 5 Projects for Beginners](https://www.youtube.com/watch?v=tPkJLnDqAKk) 👤 freeCodeCamp.org 🔖 #try, #three.js, #javascript 🗓️ 2025-08-28
 - [Гайд по кастомизации vscode: удобная навигация вместо вкладок](https://www.youtube.com/watch?v=reT_wnDSaX4) 👤 Никита Соболев 🗓️ 2025-08-26
 - [The Nature Of Software Development](https://readwise.io/reader/document_raw_content/282158585) 👤 Ron Jeffries, Michael Swaine 💬 24194 🔖 #book, #joyandcuriosity 🗓️ 2025-08-26
 - [Moving Objects in 3D Space](https://visualrambling.space/moving-objects-in-3d/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 829 🔖 #joyandcuriosity 🗓️ 2025-08-24
