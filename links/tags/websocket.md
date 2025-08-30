@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [Developing a Real-time Dashboard with Flask, Postgres, and Socket.IO](https://testdriven.io/blog/flask-postgres-socketio/) 👤 testdriven.io 💬 4439 🔖 #flask, #websocket 🗓️ 2025-08-29
+    > **Резюме:** This tutorial shows how to build a real-time inventory dashboard using Flask, Postgres, and Socket.IO. It teaches you to stream live data updates from the database to the web frontend using triggers and WebSockets. The result is a responsive app that updates instantly when inventory changes.
 - [Developing a Real-time Dashboard with FastAPI, Postgres, and WebSockets](https://testdriven.io/blog/fastapi-postgres-websockets/) 👤 testdriven.io 💬 3838 🔖 #try, #fastapi, #websocket, #postgresql 🗓️ 2025-07-18
     > **Резюме:** This tutorial shows how to build a real-time inventory dashboard using FastAPI, Postgres, and WebSockets. It explains how to send live database updates to the frontend using Postgres triggers and WebSocket connections. The result is a responsive app that updates instantly when inventory changes happen.
 - [Developing a Real-time Dashboard with FastAPI, MongoDB, and WebSockets](https://testdriven.io/blog/fastapi-mongo-websockets/) 👤 testdriven.io 💬 2484 🔖 #fastapi, #websocket 🗓️ 2025-06-30

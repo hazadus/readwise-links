@@ -1,9 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 966
+- Всего ссылок: 969
 
 ## Ссылки
 
+- [Some thoughts on LLMs and Software Development](https://martinfowler.com/articles/202508-ai-thoughts.html) 👤 28 Aug 2025 💬 1004 🔖 #llm, #toot, #programming 🗓️ 2025-08-29
+    > **Заметка:** Спокойные и взвешенные размышления Мартина о настоящем и будущем применения LLM в разработке.
+- [How to Succeed as a Human in an AI World](https://wsvincent.com/how-to-succeed-with-ai/) 👤 William Vincent 💬 1051 🔖 #llm 🗓️ 2025-08-29
+- [Do the simplest thing that could possibly work](https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/) 👤 seangoedecke.com 💬 1720 🔖 #toot, #development, #programming, #microservices, #softwaredesign 🗓️ 2025-08-29
+    > **Заметка:** Шон на примерах рассказывает о важности простоты дизайна ПО.
 - [Turning Claude Code Into My Best Design Partner](https://betweentheprompts.com/design-partner/?utm_source=tldrwebdev) 👤 Between the Prompts 💬 1118 🔖 #llm 🗓️ 2025-08-27
 - [Bring Your Own Agent to Zed — Featuring Gemini CLI](https://zed.dev/blog/bring-your-own-agent-to-zed) 👤 Nathan Sobo 💬 796 🔖 #llm, #zed, #gemini 🗓️ 2025-08-27
 - [Quick Motivation – A Mac App](https://matthewmanela.com/blog/quick-motivation-a-mac-app/) 👤 Matthew Manela 💬 762 🔖 #macos, #swift, #inspiration 🗓️ 2025-08-27

@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 60
+- Всего ссылок: 61
 
 ## Ссылки
 
+- [Do the simplest thing that could possibly work](https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/) 👤 seangoedecke.com 💬 1720 🔖 #toot, #development, #programming, #microservices, #softwaredesign 🗓️ 2025-08-29
+    > **Заметка:** Шон на примерах рассказывает о важности простоты дизайна ПО.
+    > **Резюме:** Build the simplest thing that could possibly work and only add complexity when real requirements force it.  
+Simple means fewer moving parts and less coupling, so the system is easier to understand and maintain.  
+Avoid premature scaling and over‑engineering, but think hard to find genuinely simple solutions.
 - [Finding the low-hanging fruit in tech companies](https://seangoedecke.com/low-hanging-fruit/) 👤 seangoedecke.com 💬 1455 🔖 #development 🗓️ 2025-08-26
     > **Резюме:** Spend time on tasks that give the most value for the least effort. Use profiling and p95/p99 metrics to find the biggest bottlenecks. Target older, messy, or less-visible code and second-tier features for easy high-impact fixes.
 - [Stepping Stones not Milestones](https://medium.com/@jamesacowling/stepping-stones-not-milestones-e6be0073563f) 👤 James Cowling 💬 2038 🔖 #management, #development, #joyandcuriosity 🗓️ 2025-08-24

@@ -1,10 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 833
+- Всего ссылок: 834
 
 ## Ссылки
 
-- [Python: The Documentary | An origin story](https://youtube.com/watch?v=GfH4QL4VqJ0&si=W-p_AVfiGeQIwieQ) 👤 CultRepo (formerly Honeypot) 🗓️ 2025-08-28
+- [Handle With Care • The Applied Go Weekly Newsletter 2025-08-24](https://newsletter.appliedgo.net/archive/2025-08-24-handle-with-care-llm-security/) 👤 The Applied Go Weekly Newsletter 💬 2128 🗓️ 2025-08-29
+- [Developing a Real-time Dashboard with Flask, Postgres, and Socket.IO](https://testdriven.io/blog/flask-postgres-socketio/) 👤 testdriven.io 💬 4439 🔖 #flask, #websocket 🗓️ 2025-08-29
 - [JavaScript Tutorial with Three.js – 5 Projects for Beginners](https://www.youtube.com/watch?v=tPkJLnDqAKk) 👤 freeCodeCamp.org 🔖 #try, #three.js, #javascript 🗓️ 2025-08-28
 - [Гайд по кастомизации vscode: удобная навигация вместо вкладок](https://www.youtube.com/watch?v=reT_wnDSaX4) 👤 Никита Соболев 🗓️ 2025-08-26
 - [The Nature Of Software Development](https://readwise.io/reader/document_raw_content/282158585) 👤 Ron Jeffries, Michael Swaine 💬 24194 🔖 #book, #joyandcuriosity 🗓️ 2025-08-26

@@ -1,9 +1,16 @@
 # Ссылки
 
-- Всего ссылок: 206
+- Всего ссылок: 208
 
 ## Ссылки
 
+- [Some thoughts on LLMs and Software Development](https://martinfowler.com/articles/202508-ai-thoughts.html) 👤 28 Aug 2025 💬 1004 🔖 #llm, #toot, #programming 🗓️ 2025-08-29
+    > **Заметка:** Спокойные и взвешенные размышления Мартина о настоящем и будущем применения LLM в разработке.
+    > **Резюме:** Large language models (LLMs) are changing software development but their best use and future impact are still unclear. People should experiment with LLMs and learn from different ways of using them. However, LLMs can be unreliable and create new security risks that need careful attention.
+- [How to Succeed as a Human in an AI World](https://wsvincent.com/how-to-succeed-with-ai/) 👤 William Vincent 💬 1051 🔖 #llm 🗓️ 2025-08-29
+    > **Резюме:** AI is rapidly matching human skills, even creativity.  
+Humans win by caring for others, creating value, and thinking for themselves.  
+If we fail at education and governance, AI will enable cheating and worsen inequality.
 - [Turning Claude Code Into My Best Design Partner](https://betweentheprompts.com/design-partner/?utm_source=tldrwebdev) 👤 Between the Prompts 💬 1118 🔖 #llm 🗓️ 2025-08-27
     > **Резюме:** I used to prompt Claude Code directly, but conversations became the only source of truth and it often forgot or contradicted earlier instructions. Now I ask it to write and maintain a living plan document, update it with each commit, and use that plan as the sole context. The plan turns Claude Code into a collaborative design partner and makes development clearer and more reliable.
 - [Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html) 👤 Ben O'Mahony 💬 2899 🔖 #llm, #agents 🗓️ 2025-08-27

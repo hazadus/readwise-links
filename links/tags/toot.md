@@ -1,9 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 20
 
 ## Ссылки
 
+- [Some thoughts on LLMs and Software Development](https://martinfowler.com/articles/202508-ai-thoughts.html) 👤 28 Aug 2025 💬 1004 🔖 #llm, #toot, #programming 🗓️ 2025-08-29
+    > **Заметка:** Спокойные и взвешенные размышления Мартина о настоящем и будущем применения LLM в разработке.
+    > **Резюме:** Large language models (LLMs) are changing software development but their best use and future impact are still unclear. People should experiment with LLMs and learn from different ways of using them. However, LLMs can be unreliable and create new security risks that need careful attention.
+- [Do the simplest thing that could possibly work](https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/) 👤 seangoedecke.com 💬 1720 🔖 #toot, #development, #programming, #microservices, #softwaredesign 🗓️ 2025-08-29
+    > **Заметка:** Шон на примерах рассказывает о важности простоты дизайна ПО.
+    > **Резюме:** Build the simplest thing that could possibly work and only add complexity when real requirements force it.  
+Simple means fewer moving parts and less coupling, so the system is easier to understand and maintain.  
+Avoid premature scaling and over‑engineering, but think hard to find genuinely simple solutions.
 - [Everything I know about good API design](https://seangoedecke.com/good-api-design/) 👤 seangoedecke.com 💬 3865 🔖 #api, #toot, #webdev, #programming 🗓️ 2025-08-25
     > **Заметка:** Советы по разработке публичных API от Шона. Рекомендую почитать все его посты, очень глубокий материал!
     > **Резюме:** Good APIs are boring, simple, and familiar so developers can use them without thinking.  

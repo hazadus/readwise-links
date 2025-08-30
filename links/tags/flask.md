@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [Developing a Real-time Dashboard with Flask, Postgres, and Socket.IO](https://testdriven.io/blog/flask-postgres-socketio/) 👤 testdriven.io 💬 4439 🔖 #flask, #websocket 🗓️ 2025-08-29
+    > **Резюме:** This tutorial shows how to build a real-time inventory dashboard using Flask, Postgres, and Socket.IO. It teaches you to stream live data updates from the database to the web frontend using triggers and WebSockets. The result is a responsive app that updates instantly when inventory changes.
 - [Build a Finance Tracker web app in Python using Dash framework [Flask / Plotly / React.js] #python](https://www.youtube.com/watch?v=HyfgJo6Qb64) 👤 BekBrace 🔖 #flask, #react 🗓️ 2025-06-09
     > **Резюме:** The video tutorial shows how to build a finance tracker web app using Python with the Dash framework. It covers importing necessary components and creating input fields for transactions. The app will allow users to track amounts and categories of their finances.
 - [Create a React + Flask Project in 2025](https://blog.miguelgrinberg.com/post/create-a-react-flask-project-in-2025) 👤 Miguel Grinberg 💬 2191 🔖 #vite, #flask, #react 🗓️ 2025-06-01

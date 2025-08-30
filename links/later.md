@@ -1,9 +1,17 @@
 # Отложенные ссылки
 
-- Всего ссылок: 58
+- Всего ссылок: 60
 
 ## Ссылки
 
+- [Mass Intelligence](https://www.oneusefulthing.org/p/mass-intelligence) 👤 Ethan Mollick 💬 1935 🗓️ 2025-08-29
+    > **Резюме:** Powerful AI is getting cheap and easy, so a billion people can use it.  
+Better model routing and huge efficiency gains let free users reach top AIs.  
+This “Mass Intelligence” will reshape institutions and bring major risks and benefits.
+- [Python: The Documentary | An origin story](https://youtube.com/watch?v=GfH4QL4VqJ0&si=W-p_AVfiGeQIwieQ) 👤 CultRepo (formerly Honeypot) 🗓️ 2025-08-28
+    > **Резюме:** Python began as Guido van Rossum's small project.  
+A supportive community and conferences helped it grow into a major tool for science and data.  
+The hard move from Python 2 to 3 proved the community's strength and spread Python further.
 - [Wicked Python trickery - dynamically patch a Python function's source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/?utm_source=tldrwebdev) 👤 Eric J. Ma 💬 2315 🔖 #python 🗓️ 2025-08-27
     > **Резюме:** This blog explains how to change a Python function's code while the program runs using compile and exec. The author built ToolBot, which can create and run new functions that use current variables. This method is powerful but has security risks and should be used carefully.
 - [Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html) 👤 Ben O'Mahony 💬 2899 🔖 #llm, #agents 🗓️ 2025-08-27
