@@ -17,7 +17,9 @@
         "01k1ddxewqhxcs47rafsc51dx4",
         "01k10nxc0n273vs5yr52513y6k",
         "01k2hhzq0sf51478p8f1f8by9j",
-        "01k3genw3a1e4am8884cgxtjgk"
+        "01k3genw3a1e4am8884cgxtjgk",
+        "01k3t1vjxsa5jy2z0ptq11sxz2",
+        "01k3t1pdk26gsb3n8abvrcsnpm"
     ],
     "skeets": [
         {
@@ -127,6 +129,18 @@
             "document_title": "Everything I know about good API design",
             "source_url": "https://seangoedecke.com/good-api-design/",
             "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lxehv4c74j2s"
+        },
+        {
+            "document_id": "01k3t1vjxsa5jy2z0ptq11sxz2",
+            "document_title": "Some thoughts on LLMs and Software Development",
+            "source_url": "https://martinfowler.com/articles/202508-ai-thoughts.html",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lxlz6ptopu2x"
+        },
+        {
+            "document_id": "01k3t1pdk26gsb3n8abvrcsnpm",
+            "document_title": "Do the simplest thing that could possibly work",
+            "source_url": "https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lxlz6qlz4q2u"
         }
     ]
 }
