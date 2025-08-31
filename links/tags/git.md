@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 16
+- Всего ссылок: 17
 
 ## Ссылки
 
+- [Git: count files in a repository](https://adamj.eu/tech/2025/08/29/git-count-files/) 👤 adamj.eu 💬 340 🔖 #git 🗓️ 2025-08-30
+    > **Резюме:** Count committed files with Git so you ignore generated or downloaded files.  
+Run: git ls-files -z | tr -d -c '\0' | wc -c — null bytes prevent errors from filenames with newlines.  
+Use git ls-files '<pattern>' | wc -l to count types or git ls-files ':!<pattern>' to exclude files.
 - [The Problem with GitHub Commit Statuses](https://joshcannon.me/2025/08/24/github-commit-status.html) 👤 Josh Cannon 💬 616 🔖 #git, #github 🗓️ 2025-08-25
     > **Резюме:** GitHub lets you block PR merges using commit statuses, and anyone can post arbitrary statuses via the API. Required checks must come from a specific app, but spoofable or non-required statuses still appear and confuse users. Because statuses are keyed by context and commit SHA, renaming contexts or reusing a SHA can break or wrongly allow merges.
 - [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/?utm_source=substack&utm_medium=email) 👤 matklad 💬 928 🔖 #git, #github, #codereview, #joyandcuriosity 🗓️ 2025-08-24

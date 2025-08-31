@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 208
+- Всего ссылок: 211
 
 ## Ссылки
 
+- [Mass Intelligence](https://www.oneusefulthing.org/p/mass-intelligence) 👤 Ethan Mollick 💬 1935 🔖 #llm 🗓️ 2025-08-29
+    > **Резюме:** Powerful AI is getting cheap and easy, so a billion people can use it.  
+Better model routing and huge efficiency gains let free users reach top AIs.  
+This “Mass Intelligence” will reshape institutions and bring major risks and benefits.
 - [Some thoughts on LLMs and Software Development](https://martinfowler.com/articles/202508-ai-thoughts.html) 👤 28 Aug 2025 💬 1004 🔖 #llm, #toot, #programming 🗓️ 2025-08-29
     > **Заметка:** Спокойные и взвешенные размышления Мартина о настоящем и будущем применения LLM в разработке.
     > **Резюме:** Large language models (LLMs) are changing software development but their best use and future impact are still unclear. People should experiment with LLMs and learn from different ways of using them. However, LLMs can be unreliable and create new security risks that need careful attention.
@@ -21,6 +25,8 @@ If we fail at education and governance, AI will enable cheating and worsen inequ
     > **Резюме:** Claude Code is a fun and lightweight coding tool that feels like a game and helps developers enjoy programming more. It lets users customize how they work with AI, improving both productivity and trust in the tool. The key to its success is the ability to tweak the "product harness," making coding feel like a flow state and a creative metagame.
 - [What could have been.](https://coppolaemilio.com/entries/what-could-have-been/?utm_source=tldrwebdev) 👤 Emi's Blog 💬 841 🔖 #llm 🗓️ 2025-08-24
     > **Резюме:** The tech industry spends too much time and money chasing AI hype instead of fixing and improving existing software. Many AI features add little value and make software worse, while real problems remain unsolved. Even if the AI craze ends, the lost years and missed opportunities cannot be regained.
+- [The kids are alright](https://www.bitecode.dev/p/the-kids-are-alright) 👤 Bite Code! 💬 1829 🔖 #llm 🗓️ 2025-08-23
+    > **Резюме:** New programmers make messy mistakes — we all did. AI speeds things up and amplifies both creativity and errors. Don't blame; welcome them and build stronger safety nets.
 - [Don't feed me AI slop](https://seangoedecke.com/dont-feed-me-slop/) 👤 seangoedecke.com 💬 2055 🔖 #llm, #writing 🗓️ 2025-08-23
     > **Резюме:** Social norms are forming around when to show AI-generated content.  
 Only share AI output that is content-dense and as concise as a competent human’s.  
@@ -68,6 +74,9 @@ Even with optimistic numbers, retries and propagated mistakes can push the fract
 - [There's Beauty in AI](https://registerspill.thorstenball.com/p/theres-beauty-in-ai) 👤 Thorsten Ball 💬 2010 🔖 #llm, #toot, #programming 🗓️ 2025-08-10
     > **Заметка:** Торстен о том, как после двух лет отвращения его мнение об LLM радикально изменилось. Кстати, в интервью он упоминал, что это был самый трудный пост для него за всё время ведения блога. 
     > **Резюме:** The author shares how their view of AI changed from fear to fascination through hands-on experience. They see AI not as a magic oracle but as a helpful tool that eases programming tasks. Now, they use AI thoughtfully, like casting carefully chosen words into a vast model to get useful code.
+- [Artificial Unintelligence](https://vhbelvadi.com/artificial-unintelligence) 👤 V.H. Belvadi 💬 2319 🔖 #llm, #writing 🗓️ 2025-08-10
+    > **Заметка:** Блог рекомендован Юхой
+    > **Резюме:** Artificial Intelligence can process large amounts of information but cannot truly understand or think like humans. Using AI to take notes can harm comprehension because note-taking is about making personal connections and understanding, not just copying or summarizing. Relying on AI for notes makes you passive and stops you from learning deeply or thinking creatively.
 - [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/?utm_source=tldrwebdev) 👤 Jerop Kipruto 💬 638 🔖 #cli, #llm, #try 🗓️ 2025-08-08
     > **Резюме:** Gemini CLI GitHub Actions is a free AI tool that helps teams automate coding tasks like issue triage and pull request reviews. It works in the background on GitHub and can be controlled by simple commands. The tool is secure, customizable, and available now in beta for developers worldwide.
 - [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/#atom-everything) 👤 Simon Willison 💬 1864 🔖 #llm 🗓️ 2025-08-07

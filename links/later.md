@@ -1,13 +1,9 @@
 # Отложенные ссылки
 
-- Всего ссылок: 60
+- Всего ссылок: 57
 
 ## Ссылки
 
-- [Mass Intelligence](https://www.oneusefulthing.org/p/mass-intelligence) 👤 Ethan Mollick 💬 1935 🗓️ 2025-08-29
-    > **Резюме:** Powerful AI is getting cheap and easy, so a billion people can use it.  
-Better model routing and huge efficiency gains let free users reach top AIs.  
-This “Mass Intelligence” will reshape institutions and bring major risks and benefits.
 - [Python: The Documentary | An origin story](https://youtube.com/watch?v=GfH4QL4VqJ0&si=W-p_AVfiGeQIwieQ) 👤 CultRepo (formerly Honeypot) 🗓️ 2025-08-28
     > **Резюме:** Python began as Guido van Rossum's small project.  
 A supportive community and conferences helped it grow into a major tool for science and data.  
@@ -34,8 +30,6 @@ The team uses Claude to write tests, iterate prompts, and store workflows in CLA
 This turns one-off fixes into lasting automation that makes future work faster and safer.
 - [GPT-5: Overdue, overhyped and underwhelming. And that’s not the worst of it.](https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming) 👤 Gary Marcus 💬 2405 🗓️ 2025-08-24
     > **Резюме:** GPT-5 was released with high expectations but disappointed many users and showed few improvements over earlier models. New research confirms that large language models like GPT-5 still struggle to generalize and reason beyond their training data. This suggests that simply making models bigger won’t bring us true artificial general intelligence (AGI).
-- [The kids are alright](https://www.bitecode.dev/p/the-kids-are-alright) 👤 Bite Code! 💬 1829 🗓️ 2025-08-23
-    > **Резюме:** New programmers make messy mistakes — we all did. AI speeds things up and amplifies both creativity and errors. Don't blame; welcome them and build stronger safety nets.
 - [too many model context protocol servers and LLM allocations on the dance floor](https://ghuntley.com/allocations/) 👤 Geoffrey Huntley 💬 2498 🗓️ 2025-08-23
     > **Резюме:** Too many MCP servers and tools eat the LLM context window and reduce usable tokens.  
 This causes poorer outputs, unexpected behavior, and conflicts between tool prompts.  
@@ -79,9 +73,6 @@ Even with optimistic numbers, retries and propagated mistakes can push the fract
     > **Резюме:** This article explains how to use ephemeral PostgreSQL instances for automated testing in Go, which can reduce resource usage and speed up test times. By starting a single PostgreSQL instance for all tests instead of multiple instances, developers can improve efficiency and maintainability. Additionally, optimizing the Go test caching behavior can further decrease test runtime significantly.
 - [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html?utm_source=substack&utm_medium=email) 👤 a1k0n.net 💬 2469 🔖 #joyandcuriosity 🗓️ 2025-08-10
     > **Резюме:** The code draws a spinning 3D donut using ASCII characters by projecting 3D points onto a 2D screen with math involving rotations and perspective. It calculates the brightness of each point based on lighting and chooses characters to show shading. This creates a cool visual effect of a rotating donut made from simple text symbols.
-- [Artificial Unintelligence](https://vhbelvadi.com/artificial-unintelligence) 👤 V.H. Belvadi 💬 2319 🗓️ 2025-08-10
-    > **Заметка:** Блог рекомендован Юхой
-    > **Резюме:** Artificial Intelligence can process large amounts of information but cannot truly understand or think like humans. Using AI to take notes can harm comprehension because note-taking is about making personal connections and understanding, not just copying or summarizing. Relying on AI for notes makes you passive and stops you from learning deeply or thinking creatively.
 - [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/?utm_source=tldrwebdev) 👤 natalie.sh 💬 1228 🔖 #try, #bluesky 🗓️ 2025-08-08
     > **Резюме:** The author built a comment system for their blog using Bluesky, a decentralized social platform, to avoid slow or complicated traditional comment tools. This system lets people use their real Bluesky profiles to post rich comments with images and links, making conversations more natural and social-media-like. It works smoothly without the author needing to manage servers, and it connects blog discussions with broader social conversations.
 - [Ludic's Guide To Getting Software Engineering Jobs](https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/) 👤 mataroa.blog 💬 8531 🔖 #career 🗓️ 2025-08-07

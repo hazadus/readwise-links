@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 969
+- Всего ссылок: 972
 
 ## Ссылки
 
+- [Mass Intelligence](https://www.oneusefulthing.org/p/mass-intelligence) 👤 Ethan Mollick 💬 1935 🔖 #llm 🗓️ 2025-08-29
 - [Some thoughts on LLMs and Software Development](https://martinfowler.com/articles/202508-ai-thoughts.html) 👤 28 Aug 2025 💬 1004 🔖 #llm, #toot, #programming 🗓️ 2025-08-29
     > **Заметка:** Спокойные и взвешенные размышления Мартина о настоящем и будущем применения LLM в разработке.
 - [How to Succeed as a Human in an AI World](https://wsvincent.com/how-to-succeed-with-ai/) 👤 William Vincent 💬 1051 🔖 #llm 🗓️ 2025-08-29
@@ -26,6 +27,7 @@
 - [Getting Started with Obsidian Bases](https://obsidian.rocks/getting-started-with-obsidian-bases/?ref=Obsidian+Rocks+Newsletter) 👤 Tim Miller 💬 1699 🔖 #obsidian 🗓️ 2025-08-24
 - [What could have been.](https://coppolaemilio.com/entries/what-could-have-been/?utm_source=tldrwebdev) 👤 Emi's Blog 💬 841 🔖 #llm 🗓️ 2025-08-24
 - [The AI Co-Pilot: A Realistic Guide for Developers](https://smsk.dev/2025/08/23/the-ai-co-pilot-a-realistic-guide-for-developers/) 👤 devsimsek 💬 1117 🗓️ 2025-08-24
+- [The kids are alright](https://www.bitecode.dev/p/the-kids-are-alright) 👤 Bite Code! 💬 1829 🔖 #llm 🗓️ 2025-08-23
 - [Don't feed me AI slop](https://seangoedecke.com/dont-feed-me-slop/) 👤 seangoedecke.com 💬 2055 🔖 #llm, #writing 🗓️ 2025-08-23
 - [The Management Skill Nobody Talks About](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/) 👤 Terrible Software 💬 724 🔖 #management 🗓️ 2025-08-23
 - [AI Flat Spin](https://wsvincent.com/ai-flatspin/) 👤 William Vincent 💬 286 🔖 #llm 🗓️ 2025-08-23
@@ -63,6 +65,8 @@
 - [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) 👤 thorstenball.com 💬 2988 🔖 #development, #inspiration, #programming 🗓️ 2025-08-10
 - [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email) 👤 Cynthia Dunlop 💬 1523 🔖 #toot, #interview, #programming, #joyandcuriosity 🗓️ 2025-08-10
     > **Заметка:** Интервью с Торстеном о его блоге - заслуживает внимания, как и сам блог.
+- [Artificial Unintelligence](https://vhbelvadi.com/artificial-unintelligence) 👤 V.H. Belvadi 💬 2319 🔖 #llm, #writing 🗓️ 2025-08-10
+    > **Заметка:** Блог рекомендован Юхой
 - [wallabag, I choose you!](https://hamatti.org/posts/wallabag-i-choose-you/) 👤 Juha-Matti Santala 💬 798 🔖 #selfhost 🗓️ 2025-08-09
 - [Bulletproof Watchers in Vue](https://michaelnthiessen.com/bulletproof-watchers-in-vue?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=Bulletproof+Watchers+in+Vue+(no+more+leaks+or+duplicate+effects)+-+18562994) 👤 michaelnthiessen.com 💬 1040 🔖 #vue, #nuxt, #toot, #webdev, #programming 🗓️ 2025-08-09
     > **Заметка:** Дельные советы от Майкла по работе с watch()

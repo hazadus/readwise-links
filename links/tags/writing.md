@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 15
 
 ## Ссылки
 
@@ -8,6 +8,9 @@
     > **Резюме:** Social norms are forming around when to show AI-generated content.  
 Only share AI output that is content-dense and as concise as a competent human’s.  
 Translations and tight technical facts are fine, but avoid vague, repetitive “AI slop.”
+- [Artificial Unintelligence](https://vhbelvadi.com/artificial-unintelligence) 👤 V.H. Belvadi 💬 2319 🔖 #llm, #writing 🗓️ 2025-08-10
+    > **Заметка:** Блог рекомендован Юхой
+    > **Резюме:** Artificial Intelligence can process large amounts of information but cannot truly understand or think like humans. Using AI to take notes can harm comprehension because note-taking is about making personal connections and understanding, not just copying or summarizing. Relying on AI for notes makes you passive and stops you from learning deeply or thinking creatively.
 - [Writing is thinking](https://www.nature.com/articles/s44222-025-00323-4#Bib1) 👤 Nature 💬 704 🔖 #llm, #writing 🗓️ 2025-07-28
     > **Резюме:** Writing helps scientists organize their ideas and think clearly about their research. Large-language models (LLMs) can assist with writing but cannot replace the deep thinking involved in creating scientific work. Relying fully on LLMs may reduce scientists’ ability to reflect and tell their research story well.
 - [Opinion | I Teach Creative Writing. This Is What A.I. Is Doing to Students. - The New York Times](https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html?unlocked_article_code=1.YE8.FbMs.W6XRxpJ6UEyg&smid=url-share) 👤 Meghan O’Rourke 💬 3608 🔖 #llm, #writing 🗓️ 2025-07-22

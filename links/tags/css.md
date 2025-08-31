@@ -1,9 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [Rolling the Dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/?utm_source=tldrwebdev) 👤 Jen Simmons 💬 1846 🔖 #css 🗓️ 2025-08-30
+    > **Резюме:** CSS now has a random() function to create random values for position, size, color, and rotation.  
+The article demos star fields, random rectangles, and rotated image stacks.  
+You can share randomness per-property, per-element, or globally with idents or element-shared, and try it in Safari Technology Preview.
+- [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/) 👤 lyra's epic blog 💬 1071 🔖 #css 🗓️ 2025-08-30
+    > **Резюме:** Modern JavaScript frameworks add huge bloat and slow sites.  
+Plain HTML and new CSS features like nesting and color functions can do a lot of the same work.  
+The author wants to show these alternatives so you can choose when JavaScript is truly needed.
 - [Another article about centering in CSS](https://piccalil.li/blog/another-article-about-centering-in-css/?ref=main-rss-feed) 👤 Piccalilli 💬 1236 🔖 #css 🗓️ 2025-08-14
     > **Резюме:** Centering in CSS is easier than ever with many options like grid and flexbox, but choosing one clear method is key. Using parent-based layouts with grid or flexbox is better than mixing child and parent alignment. Avoid positioning for centering unless you fully control the parent, and focus on simple, consistent principles for your team.
 - [Partial Keyframes](https://www.joshwcomeau.com/animation/partial-keyframes/) 👤 Josh W. Comeau 💬 1697 🔖 #css 🗓️ 2025-06-11
