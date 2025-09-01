@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 972
+- Всего ссылок: 973
 
 ## Ссылки
 
+- [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html) 👤 Oskar Wickström 💬 925 🔖 #vim, #joyandcuriosity 🗓️ 2025-08-31
 - [Mass Intelligence](https://www.oneusefulthing.org/p/mass-intelligence) 👤 Ethan Mollick 💬 1935 🔖 #llm 🗓️ 2025-08-29
 - [Some thoughts on LLMs and Software Development](https://martinfowler.com/articles/202508-ai-thoughts.html) 👤 28 Aug 2025 💬 1004 🔖 #llm, #toot, #programming 🗓️ 2025-08-29
     > **Заметка:** Спокойные и взвешенные размышления Мартина о настоящем и будущем применения LLM в разработке.

@@ -1,9 +1,13 @@
 # Новые ссылки
 
-- Всего ссылок: 838
+- Всего ссылок: 842
 
 ## Ссылки
 
+- [Fuck Everything, We're Doing Five Blades](https://theonion.com/fuck-everything-were-doing-five-blades-1819584036/?utm_source=substack&utm_medium=email) 👤 The Onion Staff 💬 787 🔖 #joyandcuriosity 🗓️ 2025-08-31
+- [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/?utm_source=substack&utm_medium=email) 👤 cedardb.com 💬 2009 🔖 #joyandcuriosity 🗓️ 2025-08-31
+- [The McPhee method](https://jsomers.net/blog/the-mcphee-method?utm_source=substack&utm_medium=email) 👤 James Somers 💬 4008 🔖 #joyandcuriosity 🗓️ 2025-08-31
+- [The Friendship That Made Google Huge | The New Yorker](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge?utm_source=substack&utm_medium=email) 👤 James Somers 💬 6675 🔖 #joyandcuriosity 🗓️ 2025-08-31
 - [Rolling the Dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/?utm_source=tldrwebdev) 👤 Jen Simmons 💬 1846 🔖 #css 🗓️ 2025-08-30
 - [A career comes to a close](https://kenwhitesell.github.io/2025/08/27/A-career-comes-to-a-close.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_300) 👤 Ken Whitesell 💬 1776 🗓️ 2025-08-30
 - [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/) 👤 lyra's epic blog 💬 1071 🔖 #css 🗓️ 2025-08-30

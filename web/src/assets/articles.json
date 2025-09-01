@@ -1,5 +1,175 @@
 [
     {
+        "id": "01k40znm3sha8dz7gcmg1hdzkk",
+        "url": "https://read.readwise.io/read/01k40znm3sha8dz7gcmg1hdzkk",
+        "source_url": "https://theonion.com/fuck-everything-were-doing-five-blades-1819584036/?utm_source=substack&utm_medium=email",
+        "title": "Fuck Everything, We're Doing Five Blades",
+        "author": "The Onion Staff",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
+                "type": "manual",
+                "created": 1756674848775
+            }
+        },
+        "site_name": "The Onion",
+        "word_count": 787,
+        "notes": "",
+        "summary": "They lost the blade race and decided to go to five blades.  \nThe boss orders wild engineering, extra aloe strips, and loud ads.  \nThey plan to shove five blades onto the market with big swagger.",
+        "image_url": "https://theonion.com/wp-content/uploads/2004/02/tf0yiwo24smhiaz9ws5o.jpg?w=1024",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2004-02-18",
+        "created_at": "2025-08-31T21:13:58.694251+00:00",
+        "updated_at": "2025-08-31T21:14:10.646501+00:00",
+        "saved_at": "2025-08-31T21:13:58.649000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-31T21:13:58.649000+00:00"
+    },
+    {
+        "id": "01k40m21dnxqcfwapgck0zh6vv",
+        "url": "https://read.readwise.io/read/01k40m21dnxqcfwapgck0zh6vv",
+        "source_url": "https://cedardb.com/blog/german_strings/?utm_source=substack&utm_medium=email",
+        "title": "Why German Strings are Everywhere",
+        "author": "cedardb.com",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
+                "type": "manual",
+                "created": 1756675382434
+            }
+        },
+        "site_name": "CedarDB - The All-In-One-Database",
+        "word_count": 2009,
+        "notes": "",
+        "summary": "German Strings use a single 128-bit layout to represent any string.  \nStrings of 12 or fewer characters are stored inline; longer strings store a length, a pointer, and a four-character prefix for fast checks.  \nThey are immutable and support persistent, transient, and temporary storage classes to cut copies and speed reads, but appending is costly and lifetimes must be managed.",
+        "image_url": "https://cedardb.com/img/opengraph.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2024-07-16",
+        "created_at": "2025-08-31T17:51:02.616769+00:00",
+        "updated_at": "2025-08-31T21:23:04.686492+00:00",
+        "saved_at": "2025-08-31T17:51:02.581000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-31T17:51:02.581000+00:00"
+    },
+    {
+        "id": "01k40e301dyvv7r3v0er3e6w3z",
+        "url": "https://read.readwise.io/read/01k40e301dyvv7r3v0er3e6w3z",
+        "source_url": "https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html",
+        "title": "A Flexible Minimalist Neovim for 2024",
+        "author": "Oskar Wickström",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "archive",
+        "tags": {
+            "vim": {
+                "name": "vim",
+                "type": "manual",
+                "created": 1756656423393
+            },
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
+                "type": "manual",
+                "created": 1756656423393
+            }
+        },
+        "site_name": "wickstrom.tech",
+        "word_count": 925,
+        "notes": "",
+        "summary": "The author returned to Neovim to create a personalized, minimalist text editor with minimal plugins. They configured it using Nix for easy management and focused on speed and simplicity. The final setup is fast, understandable, and tailored to their specific editing needs.",
+        "image_url": null,
+        "parent_id": null,
+        "reading_progress": 1.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2024-08-12",
+        "created_at": "2025-08-31T16:06:42.497423+00:00",
+        "updated_at": "2025-08-31T21:37:53.959371+00:00",
+        "saved_at": "2025-08-31T16:06:42.477000+00:00",
+        "first_opened_at": "2025-08-31T21:31:18.345000+00:00",
+        "last_opened_at": "2025-08-31T21:31:18.345000+00:00",
+        "last_moved_at": "2025-08-31T21:37:52.636000+00:00"
+    },
+    {
+        "id": "01k40dpc0erme0afj1wjgzhh7v",
+        "url": "https://read.readwise.io/read/01k40dpc0erme0afj1wjgzhh7v",
+        "source_url": "https://jsomers.net/blog/the-mcphee-method?utm_source=substack&utm_medium=email",
+        "title": "The McPhee method",
+        "author": "James Somers",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
+                "type": "manual",
+                "created": 1756655997379
+            }
+        },
+        "site_name": "jsomers.net",
+        "word_count": 4008,
+        "notes": "",
+        "summary": "McPhee gathers all his reporting up front: notes, transcripts, and excerpts. He then labels, sorts, and arranges those notes into a clear structure before he writes. With the structure set, he drafts quickly and then revises and fact-checks.",
+        "image_url": null,
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-08-16",
+        "created_at": "2025-08-31T15:59:48.880885+00:00",
+        "updated_at": "2025-08-31T16:00:08.462315+00:00",
+        "saved_at": "2025-08-31T15:59:48.751000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-31T15:59:48.751000+00:00"
+    },
+    {
+        "id": "01k40dkgzvakb0zy0qksvn6rxf",
+        "url": "https://read.readwise.io/read/01k40dkgzvakb0zy0qksvn6rxf",
+        "source_url": "https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge?utm_source=substack&utm_medium=email",
+        "title": "The Friendship That Made Google Huge | The New Yorker",
+        "author": "James Somers",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
+                "type": "manual",
+                "created": 1756655903619
+            }
+        },
+        "site_name": "The New Yorker",
+        "word_count": 6675,
+        "notes": "",
+        "summary": "Jeff Dean and Sanjay Ghemawat wrote core software that changed Google and the Internet.  \nSide-by-side they built MapReduce to speed search and later created TensorFlow for AI.  \nTheir friendship and complementary skills let other engineers build huge distributed systems and AI.",
+        "image_url": "https://media.newyorker.com/photos/5c0040d75cc0c92d353cfc9c/16:9/w_1280,c_limit/181210_r33377.jpg",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2018-12-03",
+        "created_at": "2025-08-31T15:58:15.667478+00:00",
+        "updated_at": "2025-08-31T15:58:58.701280+00:00",
+        "saved_at": "2025-08-31T15:58:15.547000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-08-31T15:58:15.547000+00:00"
+    },
+    {
         "id": "01k3yexg740ezqkefw1c97f40z",
         "url": "https://read.readwise.io/read/01k3yexg740ezqkefw1c97f40z",
         "source_url": "https://webkit.org/blog/17285/rolling-the-dice-with-css-random/?utm_source=tldrwebdev",

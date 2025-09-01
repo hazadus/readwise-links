@@ -1,9 +1,25 @@
 # Ссылки
 
-- Всего ссылок: 17
+- Всего ссылок: 22
 
 ## Ссылки
 
+- [Fuck Everything, We're Doing Five Blades](https://theonion.com/fuck-everything-were-doing-five-blades-1819584036/?utm_source=substack&utm_medium=email) 👤 The Onion Staff 💬 787 🔖 #joyandcuriosity 🗓️ 2025-08-31
+    > **Резюме:** They lost the blade race and decided to go to five blades.  
+The boss orders wild engineering, extra aloe strips, and loud ads.  
+They plan to shove five blades onto the market with big swagger.
+- [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/?utm_source=substack&utm_medium=email) 👤 cedardb.com 💬 2009 🔖 #joyandcuriosity 🗓️ 2025-08-31
+    > **Резюме:** German Strings use a single 128-bit layout to represent any string.  
+Strings of 12 or fewer characters are stored inline; longer strings store a length, a pointer, and a four-character prefix for fast checks.  
+They are immutable and support persistent, transient, and temporary storage classes to cut copies and speed reads, but appending is costly and lifetimes must be managed.
+- [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html) 👤 Oskar Wickström 💬 925 🔖 #vim, #joyandcuriosity 🗓️ 2025-08-31
+    > **Резюме:** The author returned to Neovim to create a personalized, minimalist text editor with minimal plugins. They configured it using Nix for easy management and focused on speed and simplicity. The final setup is fast, understandable, and tailored to their specific editing needs.
+- [The McPhee method](https://jsomers.net/blog/the-mcphee-method?utm_source=substack&utm_medium=email) 👤 James Somers 💬 4008 🔖 #joyandcuriosity 🗓️ 2025-08-31
+    > **Резюме:** McPhee gathers all his reporting up front: notes, transcripts, and excerpts. He then labels, sorts, and arranges those notes into a clear structure before he writes. With the structure set, he drafts quickly and then revises and fact-checks.
+- [The Friendship That Made Google Huge | The New Yorker](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge?utm_source=substack&utm_medium=email) 👤 James Somers 💬 6675 🔖 #joyandcuriosity 🗓️ 2025-08-31
+    > **Резюме:** Jeff Dean and Sanjay Ghemawat wrote core software that changed Google and the Internet.  
+Side-by-side they built MapReduce to speed search and later created TensorFlow for AI.  
+Their friendship and complementary skills let other engineers build huge distributed systems and AI.
 - [The Nature Of Software Development](https://readwise.io/reader/document_raw_content/282158585) 👤 Ron Jeffries, Michael Swaine 💬 24194 🔖 #book, #joyandcuriosity 🗓️ 2025-08-26
     > **Резюме:** Software development is done feature by feature, allowing for early delivery of value. Teams discuss and prioritize high-value features to ensure effective use of time and resources. This iterative approach leads to continuous improvement and a better final product.
 - [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/?utm_source=substack&utm_medium=email) 👤 matklad 💬 928 🔖 #git, #github, #codereview, #joyandcuriosity 🗓️ 2025-08-24
