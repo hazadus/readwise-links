@@ -19,7 +19,8 @@
         "01k2hhzq0sf51478p8f1f8by9j",
         "01k3genw3a1e4am8884cgxtjgk",
         "01k3t1vjxsa5jy2z0ptq11sxz2",
-        "01k3t1pdk26gsb3n8abvrcsnpm"
+        "01k3t1pdk26gsb3n8abvrcsnpm",
+        "01k3yevcmqw75y13p9e3ybfbch"
     ],
     "skeets": [
         {
@@ -141,6 +142,12 @@
             "document_title": "Do the simplest thing that could possibly work",
             "source_url": "https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/",
             "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lxlz6qlz4q2u"
+        },
+        {
+            "document_id": "01k3yevcmqw75y13p9e3ybfbch",
+            "document_title": "A career comes to a close",
+            "source_url": "https://kenwhitesell.github.io/2025/08/27/A-career-comes-to-a-close.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_300",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lxtkpm33sy2o"
         }
     ]
 }
