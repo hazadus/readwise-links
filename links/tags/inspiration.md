@@ -189,7 +189,9 @@
 - [Подготовка к интервью](https://grishaev.me/no-faang-2/) 👤 grishaev.me 💬 414 🔖 #career, #interview, #inspiration 🗓️ 2024-09-18
     > **Резюме:** Прочитал серию постов о том, как готовиться к интервью в большиефирмы. Алгоритмы, литкод и вот это все. Специальные ресурсы, блоги, менторы. Адочитав, подума...
 - [FAANG не предлагать](https://grishaev.me/no-faang/) 👤 grishaev.me 💬 527 🔖 #career, #interview, #inspiration 🗓️ 2024-09-18
-    > **Резюме:** Не понимаю, почему люди так стремятся FAANG. В последнее время пена пошла черезкрай: каждую неделю появляются статьи на тему “Как за полгода я устроился вусл...
+    > **Резюме:** Не понимаю ажиотажа вокруг FAANG: подготовка к ним превратилась в культ алгоритмов.  
+Это оторвано от реальной работы — важнее доводить задачи до конца и нормально общаться.  
+FAANG — просто большие машины для зарабатывания денег с сомнительной этикой и зарплатной зависимостью.
 - [12 Languages in 12 Months | xavd.id](https://xavd.id/blog/post/12-languages-in-12-months/) 👤 xavd.id 💬 3159 🔖 #elixir, #haskell, #inspiration 🗓️ 2024-09-18
     > **Резюме:** The document "12 Languages in 12 Months" describes the author's experience of learning 12 different programming languages over the course of a year. Each month had a different theme, such as functional programming or object-oriented programming, and the author shared their thoughts and experiences with each language. They discussed the challenges, benefits, and their overall impressions of each language, highlighting the aspects they enjoyed and those they found less appealing. The author also mentioned developing a Universal Test Runner and incorporating it into the Exercism CLI. Overall, they found the language tour to be a valuable learning experience that expanded their horizons.
 - [How I take work notes as a developer : Juha-Matti Santala](https://hamatti.org/posts/how-i-take-work-notes-as-a-developer/) 👤 Juha-Matti Santala 💬 1767 🔖 #pkm, #inspiration 🗓️ 2024-10-17

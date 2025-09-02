@@ -1,9 +1,41 @@
 # Отложенные ссылки
 
-- Всего ссылок: 57
+- Всего ссылок: 66
 
 ## Ссылки
 
+- [The Ordinary Sacred](https://www.joanwestenberg.com/p/the-ordinary-sacred) 👤 Joan Westenberg 💬 5188 🗓️ 2025-09-01
+    > **Резюме:** We live in a world where everything is a performance, making us feel exhausted and unhappy. The Ordinary Sacred teaches us to stop curating life for others and find joy in simple, unfiltered moments. True living means being present, ordinary, and free from constant judgment or spectacle.
+- [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html) 👤 matklad.github.io 💬 1470 🔖 #llm 🗓️ 2025-09-01
+    > **Резюме:** Alex built terminal-editor, a VS Code extension that runs a shell inside an editable buffer using LLMs.  
+His workflow: write plan.md, convert it to a mutable spec.md, and use fast end-to-end tests so the LLM can iterate reliably.  
+LLMs lower the cost of building tools but still need good testing and design for long-term maintenance.
+- [Fuck Everything, We're Doing Five Blades](https://theonion.com/fuck-everything-were-doing-five-blades-1819584036/?utm_source=substack&utm_medium=email) 👤 The Onion Staff 💬 787 🔖 #joyandcuriosity 🗓️ 2025-08-31
+    > **Резюме:** They lost the blade race and decided to go to five blades.  
+The boss orders wild engineering, extra aloe strips, and loud ads.  
+They plan to shove five blades onto the market with big swagger.
+- [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/?utm_source=substack&utm_medium=email) 👤 cedardb.com 💬 2009 🔖 #joyandcuriosity 🗓️ 2025-08-31
+    > **Резюме:** German Strings use a single 128-bit layout to represent any string.  
+Strings of 12 or fewer characters are stored inline; longer strings store a length, a pointer, and a four-character prefix for fast checks.  
+They are immutable and support persistent, transient, and temporary storage classes to cut copies and speed reads, but appending is costly and lifetimes must be managed.
+- [The McPhee method](https://jsomers.net/blog/the-mcphee-method?utm_source=substack&utm_medium=email) 👤 James Somers 💬 4008 🔖 #joyandcuriosity 🗓️ 2025-08-31
+    > **Резюме:** McPhee gathers all his reporting up front: notes, transcripts, and excerpts. He then labels, sorts, and arranges those notes into a clear structure before he writes. With the structure set, he drafts quickly and then revises and fact-checks.
+- [The Friendship That Made Google Huge | The New Yorker](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge?utm_source=substack&utm_medium=email) 👤 James Somers 💬 6675 🔖 #joyandcuriosity 🗓️ 2025-08-31
+    > **Резюме:** Jeff Dean and Sanjay Ghemawat wrote core software that changed Google and the Internet.  
+Side-by-side they built MapReduce to speed search and later created TensorFlow for AI.  
+Their friendship and complementary skills let other engineers build huge distributed systems and AI.
+- [Rolling the Dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/?utm_source=tldrwebdev) 👤 Jen Simmons 💬 1846 🔖 #css 🗓️ 2025-08-30
+    > **Резюме:** CSS now has a random() function to create random values for position, size, color, and rotation.  
+The article demos star fields, random rectangles, and rotated image stacks.  
+You can share randomness per-property, per-element, or globally with idents or element-shared, and try it in Safari Technology Preview.
+- [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/) 👤 lyra's epic blog 💬 1071 🔖 #css 🗓️ 2025-08-30
+    > **Резюме:** Modern JavaScript frameworks add huge bloat and slow sites.  
+Plain HTML and new CSS features like nesting and color functions can do a lot of the same work.  
+The author wants to show these alternatives so you can choose when JavaScript is truly needed.
+- [Git: count files in a repository](https://adamj.eu/tech/2025/08/29/git-count-files/) 👤 adamj.eu 💬 340 🔖 #git 🗓️ 2025-08-30
+    > **Резюме:** Count committed files with Git so you ignore generated or downloaded files.  
+Run: git ls-files -z | tr -d -c '\0' | wc -c — null bytes prevent errors from filenames with newlines.  
+Use git ls-files '<pattern>' | wc -l to count types or git ls-files ':!<pattern>' to exclude files.
 - [Python: The Documentary | An origin story](https://youtube.com/watch?v=GfH4QL4VqJ0&si=W-p_AVfiGeQIwieQ) 👤 CultRepo (formerly Honeypot) 🗓️ 2025-08-28
     > **Резюме:** Python began as Guido van Rossum's small project.  
 A supportive community and conferences helped it grow into a major tool for science and data.  

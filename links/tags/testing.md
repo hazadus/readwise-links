@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 33
+- Всего ссылок: 34
 
 ## Ссылки
 
+- [You should delete tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/?utm_source=tldrwebdev) 👤 André Arko 💬 833 🔖 #testing 🗓️ 2025-09-01
+    > **Резюме:** Tests exist to give developers confidence.  
+Delete tests that reduce confidence — flaky, slow, brittle, or testing the wrong behavior.  
+Replace them with small, reliable tests that match current behavior.
 - [You don't need testify/assert](https://antonz.org/do-not-testify/) 👤 Anton Zhiyanov 💬 1706 🔖 #go, #testing 🗓️ 2025-07-16
     > **Резюме:** The author shows how to write simple custom assertion helpers to replace testify/assert in Go tests. These helpers cover equality, error checking, and boolean conditions with minimal code. This approach keeps tests clean without relying on many assertion functions.
 - [🔍🏃 С Vitest ваше тестирование в Vite станет легким и эффективным](https://proglib.io/p/s-vitest-vashe-testirovanie-stanet-legkim-i-effektivnym-v-vite-2024-09-23) 👤 Библиотека программиста 💬 2391 🔖 #vite, #vitest, #testing 🗓️ 2025-05-30

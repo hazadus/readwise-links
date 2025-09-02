@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 19
 
 ## Ссылки
 
+- [A career comes to a close](https://kenwhitesell.github.io/2025/08/27/A-career-comes-to-a-close.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_300) 👤 Ken Whitesell 💬 1776 🔖 #toot, #programming 🗓️ 2025-08-30
+    > **Заметка:** Разработчик подводит итоги, завершая 47-летнюю карьеру. Впечатляюще.
+    > **Резюме:** He retired after a 47-year career in computing.  
+His work centered on moving bits across many systems, languages, and communication technologies.  
+He found it rewarding, valued his colleagues’ teaching, and plans to keep programming as a hobby.
 - [Some thoughts on LLMs and Software Development](https://martinfowler.com/articles/202508-ai-thoughts.html) 👤 28 Aug 2025 💬 1004 🔖 #llm, #toot, #programming 🗓️ 2025-08-29
     > **Заметка:** Спокойные и взвешенные размышления Мартина о настоящем и будущем применения LLM в разработке.
     > **Резюме:** Large language models (LLMs) are changing software development but their best use and future impact are still unclear. People should experiment with LLMs and learn from different ways of using them. However, LLMs can be unreliable and create new security risks that need careful attention.

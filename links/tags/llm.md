@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 211
+- Всего ссылок: 212
 
 ## Ссылки
 
+- [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html) 👤 matklad.github.io 💬 1470 🔖 #llm 🗓️ 2025-09-01
+    > **Резюме:** Alex built terminal-editor, a VS Code extension that runs a shell inside an editable buffer using LLMs.  
+His workflow: write plan.md, convert it to a mutable spec.md, and use fast end-to-end tests so the LLM can iterate reliably.  
+LLMs lower the cost of building tools but still need good testing and design for long-term maintenance.
 - [Mass Intelligence](https://www.oneusefulthing.org/p/mass-intelligence) 👤 Ethan Mollick 💬 1935 🔖 #llm 🗓️ 2025-08-29
     > **Резюме:** Powerful AI is getting cheap and easy, so a billion people can use it.  
 Better model routing and huge efficiency gains let free users reach top AIs.  
