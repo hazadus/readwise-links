@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 66
+- Всего ссылок: 65
 
 ## Ссылки
 
@@ -44,8 +44,6 @@ The hard move from Python 2 to 3 proved the community's strength and spread Pyth
     > **Резюме:** This blog explains how to change a Python function's code while the program runs using compile and exec. The author built ToolBot, which can create and run new functions that use current variables. This method is powerful but has security risks and should be used carefully.
 - [Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html) 👤 Ben O'Mahony 💬 2899 🔖 #llm, #agents 🗓️ 2025-08-27
     > **Резюме:** They built a CLI coding agent using Pydantic‑AI and MCP that reads code, runs tests, and edits files. MCP servers add sandboxed Python, code reasoning, and file/terminal tools so the model can act. The result is faster, context‑aware development that works best when tailored to your codebase.
-- [The Coding Agent Metagame](https://calv.info/coding-agent-metagame) 👤 calv.info 💬 1817 🔖 #llm 🗓️ 2025-08-27
-    > **Резюме:** Claude Code is a fun and lightweight coding tool that feels like a game and helps developers enjoy programming more. It lets users customize how they work with AI, improving both productivity and trust in the tool. The key to its success is the ability to tweak the "product harness," making coding feel like a flow state and a creative metagame.
 - [Building AI Products In The Probabilistic Era](https://giansegato.com/essays/probabilistic-era?utm_source=substack&utm_medium=email) 👤 giansegato.com 💬 4463 🔖 #joyandcuriosity 🗓️ 2025-08-24
     > **Резюме:** AI is probabilistic, not deterministic, and often behaves in unexpected ways.  
 Product teams must use continuous data, test real user trajectories, and accept some unpredictability instead of trying to fully control models.  

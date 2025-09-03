@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 974
+- Всего ссылок: 976
 
 ## Ссылки
 
+- [The Rogue Prince of Persia: Обзор рогалика с лучшим паркуром](https://stopgame.ru/show/151608/the_rogue_prince_of_persia_review_rogalika_s_luchshim_parkurom) 👤 Алексей Лихачев 💬 1701 🗓️ 2025-09-02
 - [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html) 👤 Oskar Wickström 💬 925 🔖 #vim, #joyandcuriosity 🗓️ 2025-08-31
 - [A career comes to a close](https://kenwhitesell.github.io/2025/08/27/A-career-comes-to-a-close.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_300) 👤 Ken Whitesell 💬 1776 🔖 #toot, #programming 🗓️ 2025-08-30
     > **Заметка:** Разработчик подводит итоги, завершая 47-летнюю карьеру. Впечатляюще.
@@ -17,6 +18,7 @@
 - [Bring Your Own Agent to Zed — Featuring Gemini CLI](https://zed.dev/blog/bring-your-own-agent-to-zed) 👤 Nathan Sobo 💬 796 🔖 #llm, #zed, #gemini 🗓️ 2025-08-27
 - [Quick Motivation – A Mac App](https://matthewmanela.com/blog/quick-motivation-a-mac-app/) 👤 Matthew Manela 💬 762 🔖 #macos, #swift, #inspiration 🗓️ 2025-08-27
 - [Hopefully More Controversial Programming Opinions](https://prog21.dadgum.com/149.html) 👤 dadgum.com 💬 370 🔖 #programming 🗓️ 2025-08-27
+- [The Coding Agent Metagame](https://calv.info/coding-agent-metagame) 👤 calv.info 💬 1817 🔖 #llm 🗓️ 2025-08-27
 - [Finding the low-hanging fruit in tech companies](https://seangoedecke.com/low-hanging-fruit/) 👤 seangoedecke.com 💬 1455 🔖 #development 🗓️ 2025-08-26
 - [Everything I know about good API design](https://seangoedecke.com/good-api-design/) 👤 seangoedecke.com 💬 3865 🔖 #api, #toot, #webdev, #programming 🗓️ 2025-08-25
     > **Заметка:** Советы по разработке публичных API от Шона. Рекомендую почитать все его посты, очень глубокий материал!
