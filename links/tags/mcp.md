@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [too many model context protocol servers and LLM allocations on the dance floor](https://ghuntley.com/allocations/) 👤 Geoffrey Huntley 💬 2498 🔖 #llm, #mcp 🗓️ 2025-08-23
+    > **Резюме:** Too many MCP servers and tools eat the LLM context window and reduce usable tokens.  
+This causes poorer outputs, unexpected behavior, and conflicts between tool prompts.  
+Only load a few provider‑tuned tools and enable or disable MCPs by workflow to preserve context and security.
 - [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/) 👤 Armin Ronacher 💬 3530 🔖 #llm, #mcp 🗓️ 2025-08-23
     > **Резюме:** Instead of many tiny MCP tools, expose one tool that accepts code — a stateful Python interpreter using pexpect.  
 The MCP can drive interactive programs, fix mistakes, and dump the session as a reusable Python script.  

@@ -1,19 +1,33 @@
 # Отложенные ссылки
 
-- Всего ссылок: 65
+- Всего ссылок: 64
 
 ## Ссылки
 
+- [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp) 👤 Morgan Krey 💬 1200 🗓️ 2025-09-03
+    > **Резюме:** Zed now runs Claude Code in public beta using a new open standard called the Agent Client Protocol (ACP).  
+Claude Code works natively in Zed with real-time multi-file edits, syntax highlighting, and granular accept/reject for code hunks.  
+The Claude Code adapter is open source so other ACP-compatible editors like Neovim can use it.
+- [Seeing like a software company](https://seangoedecke.com/seeing-like-a-software-company/) 👤 seangoedecke.com 💬 3485 🗓️ 2025-09-03
+    > **Резюме:** Large software companies build processes to make work legible.  
+Legibility helps planning, coordination, and making deals but slows delivery.  
+They need both legible systems and space for informal, fast engineer-driven work.
+- [Rich Pixels](https://simonwillison.net/2025/Sep/2/rich-pixels/#atom-everything) 👤 Simon Willison 💬 124 🗓️ 2025-09-02
+    > **Резюме:** Rich Pixels is a Python library that shows images in the terminal using colored blocks. It uses Unicode characters to display two pixels with different colors in one block. A script called show_image.py resizes and shows images in the terminal using this library.
+- [Passkeys and Modern Authentication](https://lucumr.pocoo.org/2025/9/2/passkeys/) 👤 Armin Ronacher 💬 1184 🗓️ 2025-09-02
+    > **Резюме:** Passkeys are replacing passwords and can improve security for most people.  
+But attestation, non-exportable keys, and auto-enrollment can enable ecosystem lock-in.  
+That risks losing account access, reducing user control, and hurting families and developers.
+- [Looking forward to Django 6.0](mailto:reader-forwarded-email/d63966dbff39ea2b976500388197636b) 👤 Carlton Gibson 💬 1849 🗓️ 2025-09-01
+    > **Резюме:** Django 6.0 is nearing alpha with a feature freeze on September 17.  
+Key changes include Python 3.12 as the minimum, built-in Content Security Policy, django.tasks, and template-partials.  
+GSoC students and community projects helped develop and polish these features.
 - [The Ordinary Sacred](https://www.joanwestenberg.com/p/the-ordinary-sacred) 👤 Joan Westenberg 💬 5188 🗓️ 2025-09-01
     > **Резюме:** We live in a world where everything is a performance, making us feel exhausted and unhappy. The Ordinary Sacred teaches us to stop curating life for others and find joy in simple, unfiltered moments. True living means being present, ordinary, and free from constant judgment or spectacle.
 - [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html) 👤 matklad.github.io 💬 1470 🔖 #llm 🗓️ 2025-09-01
     > **Резюме:** Alex built terminal-editor, a VS Code extension that runs a shell inside an editable buffer using LLMs.  
 His workflow: write plan.md, convert it to a mutable spec.md, and use fast end-to-end tests so the LLM can iterate reliably.  
 LLMs lower the cost of building tools but still need good testing and design for long-term maintenance.
-- [Fuck Everything, We're Doing Five Blades](https://theonion.com/fuck-everything-were-doing-five-blades-1819584036/?utm_source=substack&utm_medium=email) 👤 The Onion Staff 💬 787 🔖 #joyandcuriosity 🗓️ 2025-08-31
-    > **Резюме:** They lost the blade race and decided to go to five blades.  
-The boss orders wild engineering, extra aloe strips, and loud ads.  
-They plan to shove five blades onto the market with big swagger.
 - [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/?utm_source=substack&utm_medium=email) 👤 cedardb.com 💬 2009 🔖 #joyandcuriosity 🗓️ 2025-08-31
     > **Резюме:** German Strings use a single 128-bit layout to represent any string.  
 Strings of 12 or fewer characters are stored inline; longer strings store a length, a pointer, and a four-character prefix for fast checks.  
@@ -58,16 +72,6 @@ Organizations that think empirically and in probabilities will win the next era.
     > **Резюме:** Compounding engineering builds systems that learn from every bug, pull request, and code review so fixes become permanent.  
 The team uses Claude to write tests, iterate prompts, and store workflows in CLAUDE.md so the AI keeps improving automatically.  
 This turns one-off fixes into lasting automation that makes future work faster and safer.
-- [GPT-5: Overdue, overhyped and underwhelming. And that’s not the worst of it.](https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming) 👤 Gary Marcus 💬 2405 🗓️ 2025-08-24
-    > **Резюме:** GPT-5 was released with high expectations but disappointed many users and showed few improvements over earlier models. New research confirms that large language models like GPT-5 still struggle to generalize and reason beyond their training data. This suggests that simply making models bigger won’t bring us true artificial general intelligence (AGI).
-- [too many model context protocol servers and LLM allocations on the dance floor](https://ghuntley.com/allocations/) 👤 Geoffrey Huntley 💬 2498 🗓️ 2025-08-23
-    > **Резюме:** Too many MCP servers and tools eat the LLM context window and reduce usable tokens.  
-This causes poorer outputs, unexpected behavior, and conflicts between tool prompts.  
-Only load a few provider‑tuned tools and enable or disable MCPs by workflow to preserve context and security.
-- [Good agents are good researchers](https://softwaredoug.com/blog/2025/08/19/researching-with-agents) 👤 Doug Turnbull 💬 1493 🗓️ 2025-08-23
-    > **Резюме:** Agents don't reason — they do research and rely on good search.  
-They often try to please, causing confirmation bias, poor source judgment, and rabbit holes.  
-Humans must steer, double-check evidence, and correct agents because agents will update without ego.
 - [Instructor and Pydantic - Structured LLM outputs for easy data extraction!](https://www.youtube.com/watch?v=3xUW1Do9zOs) 👤 BugBytes 🗓️ 2025-08-23
     > **Резюме:** Instructor and Pydantic turn LLM text into structured data.  
 Read a PDF, extract its text, and send it to the model.  
@@ -96,8 +100,6 @@ Even with optimistic numbers, retries and propagated mistakes can push the fract
     > **Резюме:** AI tools have great potential but come with serious security risks, including possible major breaches soon. Experts like Simon emphasize that human skills and careful coding remain important despite AI advances. Open source AI helps many fields, but challenges like bias, hallucinations, and environmental impact need attention.
 - [In Praise of Containers; there's no place like $HOME](https://sketch.dev/blog/in-praise-of-containers) 👤 Philip Zeyliger 💬 978 🔖 #llm 🗓️ 2025-08-12
     > **Резюме:** The author discusses the pros and cons of using containers versus local machines for coding with agents. Containers offer isolation, easy parallel work, and consistent environments, while local setups feel more familiar and convenient for small tasks. The author uses both approaches depending on the situation and invites readers to share their preferences.
-- [How I use Tailscale](https://chameth.com/how-i-use-tailscale/?utm_source=tldrwebdev) 👤 chameth.com 💬 2064 🗓️ 2025-08-11
-    > **Резюме:** Tailscale is a simple tool that connects your devices securely, even when they are on different networks. It makes logging in and accessing services easy without using passwords or public keys. You can control who accesses what with tags and rules, making your network safer and more organized.
 - [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #postgresql 🗓️ 2025-08-10
     > **Заметка:** From Thorsten Ball interview
     > **Резюме:** This article explains how to use ephemeral PostgreSQL instances for automated testing in Go, which can reduce resource usage and speed up test times. By starting a single PostgreSQL instance for all tests instead of multiple instances, developers can improve efficiency and maintainability. Additionally, optimizing the Go test caching behavior can further decrease test runtime significantly.
@@ -113,8 +115,6 @@ Even with optimistic numbers, retries and propagated mistakes can push the fract
     > **Резюме:** Tailwind combines many existing CSS problems and makes them worse by forcing inline styles with duplicated class names. It does not reduce developer effort or improve tooling, but it helps enforce consistent design through a central config file. Despite its flaws, Tailwind is popular because it offers a ready-made system for standardizing styles in modern web projects.
 - [Why Building Billing Systems is So Painful](https://www.dmitry.ie/2024/why-building-billing-systems-is-so-painful?utm_source=tldrwebdev) 👤 dmitry.ie 💬 1859 🗓️ 2025-08-07
     > **Резюме:** Billing systems are very complex because they must handle many pricing models, currencies, taxes, and real-time usage tracking. They serve many customers inside a company, like finance, sales, and product teams, each with different needs. Building billing right is hard but important, as it is a critical part of business infrastructure that drives growth and success.
-- [Onboarding for coding agents](https://www.fuzzycomputer.com/posts/onboarding?utm_source=tldrwebdev) 👤 fuzzycomputer.com 💬 1171 🗓️ 2025-08-06
-    > **Резюме:** The author experiments with coding agents and finds it best to put project context in READMEs instead of tool-specific files. They use "Quality Gates" with tools like type checkers and tests to ensure AI writes good code. This approach helps AI work like a teammate by learning context and fixing errors in a loop until the code passes all checks.
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) 👤 Redowan Delowar 💬 1179 🔖 #go 🗓️ 2025-08-04
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
 - [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) 👤 Software Engineering & Personal Thoughts 💬 1511 🔖 #go 🗓️ 2025-08-04

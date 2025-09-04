@@ -1,15 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 842
+- Всего ссылок: 838
 
 ## Ссылки
 
-- [anti-patterns and patterns for achieving secure generation of code via AI](https://ghuntley.com/secure-codegen/) 👤 Geoffrey Huntley 💬 1483 🗓️ 2025-09-02
-- [Rich Pixels](https://simonwillison.net/2025/Sep/2/rich-pixels/#atom-everything) 👤 Simon Willison 💬 124 🗓️ 2025-09-02
-- [Passkeys and Modern Authentication](https://lucumr.pocoo.org/2025/9/2/passkeys/) 👤 Armin Ronacher 💬 1184 🗓️ 2025-09-02
+- [Profiles in Visual Studio Code](https://code.visualstudio.com/docs/configure/profiles) 👤 Microsoft 💬 2964 🗓️ 2025-09-03
 - [How to Back up Your GitHub Repositories](https://improveandrepeat.com/2025/09/how-to-back-up-your-github-repositories/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 616 🔖 #git, #try, #github 🗓️ 2025-09-02
-- [Looking forward to Django 6.0](mailto:reader-forwarded-email/d63966dbff39ea2b976500388197636b) 👤 Carlton Gibson 💬 1849 🗓️ 2025-09-01
-- [You should delete tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/?utm_source=tldrwebdev) 👤 André Arko 💬 833 🔖 #testing 🗓️ 2025-09-01
 - [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) 👤 wikipedia.org 💬 12771 🗓️ 2025-09-01
 - [So you don't like Go? • The Applied Go Weekly Newsletter 2025-08-31](https://newsletter.appliedgo.net/archive/2025-08-31-so-you-dont-like-go/) 👤 The Applied Go Weekly Newsletter 💬 1435 🗓️ 2025-09-01
 - [Handle With Care • The Applied Go Weekly Newsletter 2025-08-24](https://newsletter.appliedgo.net/archive/2025-08-24-handle-with-care-llm-security/) 👤 The Applied Go Weekly Newsletter 💬 2128 🗓️ 2025-08-29

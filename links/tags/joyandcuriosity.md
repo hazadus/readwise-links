@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [Fuck Everything, We're Doing Five Blades](https://theonion.com/fuck-everything-were-doing-five-blades-1819584036/?utm_source=substack&utm_medium=email) 👤 The Onion Staff 💬 787 🔖 #joyandcuriosity 🗓️ 2025-08-31
+- [Fuck Everything, We're Doing Five Blades](https://theonion.com/fuck-everything-were-doing-five-blades-1819584036/?utm_source=substack&utm_medium=email) 👤 The Onion Staff 💬 787 🔖 #fun, #joyandcuriosity 🗓️ 2025-08-31
     > **Резюме:** They lost the blade race and decided to go to five blades.  
 The boss orders wild engineering, extra aloe strips, and loud ads.  
 They plan to shove five blades onto the market with big swagger.

@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [Fuck Everything, We're Doing Five Blades](https://theonion.com/fuck-everything-were-doing-five-blades-1819584036/?utm_source=substack&utm_medium=email) 👤 The Onion Staff 💬 787 🔖 #fun, #joyandcuriosity 🗓️ 2025-08-31
+    > **Резюме:** They lost the blade race and decided to go to five blades.  
+The boss orders wild engineering, extra aloe strips, and loud ads.  
+They plan to shove five blades onto the market with big swagger.
 - [Заговор разработчиков против корпораций: работа с командой](https://habr.com/ru/articles/908374/) 👤 arturdumchev 💬 2057 🔖 #fun 🗓️ 2025-07-01
     > **Резюме:** Автор обсуждает, как собеседования и корпоративная культура в IT иногда не отражают реальных навыков разработчиков. Он критикует традиционные методы работы, такие как SCRUM, за их неэффективность и навязывание формальностей. В статье поднимается вопрос о том, как анархия в технической среде влияет на выбор и работу специалистов.
 - [New Programming Jargon](https://blog.codinghorror.com/new-programming-jargon/) 👤 Jeff Atwood 💬 2082 🔖 #fun 🗓️ 2025-06-03

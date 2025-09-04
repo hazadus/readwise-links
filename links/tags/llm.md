@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 212
+- Всего ссылок: 218
 
 ## Ссылки
 
+- [On Coding with Claude](https://blog.puzzmo.com/posts/2025/06/07/orta-on-claude/) 👤 Puzzmo Blog 💬 3674 🔖 #llm 🗓️ 2025-09-03
+    > **Резюме:** The author reflects on their experience using coding tools like GitHub Copilot and Claude Code, appreciating how these tools enhance their programming workflow. They find that using Claude Code allows for more mental space to focus on code quality and testing, likening it to pair programming. Overall, they see these AI tools as valuable additions to their coding practices rather than replacements for traditional programming.
+- [anti-patterns and patterns for achieving secure generation of code via AI](https://ghuntley.com/secure-codegen/) 👤 Geoffrey Huntley 💬 1483 🔖 #llm, #security 🗓️ 2025-09-02
+    > **Резюме:** Cursor rules and MCP prompts are non-deterministic and cannot guarantee secure code.  
+Hook your existing security scanners into the build/CI so every agent run must pass deterministic checks.  
+That forces agents to iterate until scans pass and makes security a practice, not an LLM trick.
 - [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html) 👤 matklad.github.io 💬 1470 🔖 #llm 🗓️ 2025-09-01
     > **Резюме:** Alex built terminal-editor, a VS Code extension that runs a shell inside an editable buffer using LLMs.  
 His workflow: write plan.md, convert it to a mutable spec.md, and use fast end-to-end tests so the LLM can iterate reliably.  
@@ -29,18 +35,28 @@ If we fail at education and governance, AI will enable cheating and worsen inequ
     > **Резюме:** Claude Code is a fun and lightweight coding tool that feels like a game and helps developers enjoy programming more. It lets users customize how they work with AI, improving both productivity and trust in the tool. The key to its success is the ability to tweak the "product harness," making coding feel like a flow state and a creative metagame.
 - [What could have been.](https://coppolaemilio.com/entries/what-could-have-been/?utm_source=tldrwebdev) 👤 Emi's Blog 💬 841 🔖 #llm 🗓️ 2025-08-24
     > **Резюме:** The tech industry spends too much time and money chasing AI hype instead of fixing and improving existing software. Many AI features add little value and make software worse, while real problems remain unsolved. Even if the AI craze ends, the lost years and missed opportunities cannot be regained.
+- [GPT-5: Overdue, overhyped and underwhelming. And that’s not the worst of it.](https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming) 👤 Gary Marcus 💬 2405 🔖 #llm 🗓️ 2025-08-24
+    > **Резюме:** GPT-5 was released with high expectations but disappointed many users and showed few improvements over earlier models. New research confirms that large language models like GPT-5 still struggle to generalize and reason beyond their training data. This suggests that simply making models bigger won’t bring us true artificial general intelligence (AGI).
 - [The kids are alright](https://www.bitecode.dev/p/the-kids-are-alright) 👤 Bite Code! 💬 1829 🔖 #llm 🗓️ 2025-08-23
     > **Резюме:** New programmers make messy mistakes — we all did. AI speeds things up and amplifies both creativity and errors. Don't blame; welcome them and build stronger safety nets.
 - [Don't feed me AI slop](https://seangoedecke.com/dont-feed-me-slop/) 👤 seangoedecke.com 💬 2055 🔖 #llm, #writing 🗓️ 2025-08-23
     > **Резюме:** Social norms are forming around when to show AI-generated content.  
 Only share AI output that is content-dense and as concise as a competent human’s.  
 Translations and tight technical facts are fine, but avoid vague, repetitive “AI slop.”
+- [too many model context protocol servers and LLM allocations on the dance floor](https://ghuntley.com/allocations/) 👤 Geoffrey Huntley 💬 2498 🔖 #llm, #mcp 🗓️ 2025-08-23
+    > **Резюме:** Too many MCP servers and tools eat the LLM context window and reduce usable tokens.  
+This causes poorer outputs, unexpected behavior, and conflicts between tool prompts.  
+Only load a few provider‑tuned tools and enable or disable MCPs by workflow to preserve context and security.
 - [AI Flat Spin](https://wsvincent.com/ai-flatspin/) 👤 William Vincent 💬 286 🔖 #llm 🗓️ 2025-08-23
     > **Резюме:** Using AI tools can feel like a thrilling, high-speed flight.  
 They can also suddenly hallucinate or get confused and wreck your code.  
 That mix of excitement and dread feels like a pilot’s flat spin.
 - [what is the point of libraries now that you can just generate them?](https://ghuntley.com/libraries/) 👤 Geoffrey Huntley 💬 1049 🔖 #llm 🗓️ 2025-08-23
     > **Резюме:** Open source often depends on unpaid maintainers and lacks sustainable funding. AI lets teams auto-generate their own libraries instead of using third-party packages. That can shrink supply-chain risk and maintainer burnout, though open source will still matter.
+- [Good agents are good researchers](https://softwaredoug.com/blog/2025/08/19/researching-with-agents) 👤 Doug Turnbull 💬 1493 🔖 #llm 🗓️ 2025-08-23
+    > **Резюме:** Agents don't reason — they do research and rely on good search.  
+They often try to please, causing confirmation bias, poor source judgment, and rabbit holes.  
+Humans must steer, double-check evidence, and correct agents because agents will update without ego.
 - [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/) 👤 Armin Ronacher 💬 3530 🔖 #llm, #mcp 🗓️ 2025-08-23
     > **Резюме:** Instead of many tiny MCP tools, expose one tool that accepts code — a stateful Python interpreter using pexpect.  
 The MCP can drive interactive programs, fix mistakes, and dump the session as a reusable Python script.  
@@ -101,6 +117,8 @@ Even with optimistic numbers, retries and propagated mistakes can push the fract
     > **Резюме:** AI is changing how developers work by shifting their role from coding to managing and verifying AI tools. Developers grow through stages, from skepticism to collaborating closely with AI to build complex software. This change calls for new skills like AI fluency, strong problem framing, and system thinking, reshaping education and jobs in software development.
 - [Read That F*cking Code!](https://etsd.tech/posts/rtfc/?utm_source=tldrwebdev) 👤 Elie Teyssedou 💬 1426 🔖 #llm 🗓️ 2025-08-06
     > **Резюме:** AI coding tools help write code faster, but you must always read and review the code yourself. Skipping this step can cause bad architecture, lost knowledge, and security risks. Treat AI like a junior developer who needs your guidance and careful oversight.
+- [Onboarding for coding agents](https://www.fuzzycomputer.com/posts/onboarding?utm_source=tldrwebdev) 👤 fuzzycomputer.com 💬 1171 🔖 #llm 🗓️ 2025-08-06
+    > **Резюме:** The author experiments with coding agents and finds it best to put project context in READMEs instead of tool-specific files. They use "Quality Gates" with tools like type checkers and tests to ensure AI writes good code. This approach helps AI work like a teammate by learning context and fixing errors in a loop until the code passes all checks.
 - [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/) 👤 colton.dev 💬 3767 🔖 #llm, #toot, #programming 🗓️ 2025-08-06
     > **Заметка:** Детальный разбор вопроса и масса интереснейших ссылок внутри. Аналогия с винилом мне очень близка 😇
     > **Резюме:** AI does not make engineers ten times more productive overall. It helps with small tasks but struggles with big projects and context. True productivity comes from preventing unnecessary work, not just faster coding.

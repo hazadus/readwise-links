@@ -1,10 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 976
+- Всего ссылок: 984
 
 ## Ссылки
 
+- [On Coding with Claude](https://blog.puzzmo.com/posts/2025/06/07/orta-on-claude/) 👤 Puzzmo Blog 💬 3674 🔖 #llm 🗓️ 2025-09-03
+- [anti-patterns and patterns for achieving secure generation of code via AI](https://ghuntley.com/secure-codegen/) 👤 Geoffrey Huntley 💬 1483 🔖 #llm, #security 🗓️ 2025-09-02
 - [The Rogue Prince of Persia: Обзор рогалика с лучшим паркуром](https://stopgame.ru/show/151608/the_rogue_prince_of_persia_review_rogalika_s_luchshim_parkurom) 👤 Алексей Лихачев 💬 1701 🗓️ 2025-09-02
+- [You should delete tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/?utm_source=tldrwebdev) 👤 André Arko 💬 833 🔖 #testing 🗓️ 2025-09-01
+- [Fuck Everything, We're Doing Five Blades](https://theonion.com/fuck-everything-were-doing-five-blades-1819584036/?utm_source=substack&utm_medium=email) 👤 The Onion Staff 💬 787 🔖 #fun, #joyandcuriosity 🗓️ 2025-08-31
 - [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html) 👤 Oskar Wickström 💬 925 🔖 #vim, #joyandcuriosity 🗓️ 2025-08-31
 - [A career comes to a close](https://kenwhitesell.github.io/2025/08/27/A-career-comes-to-a-close.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_300) 👤 Ken Whitesell 💬 1776 🔖 #toot, #programming 🗓️ 2025-08-30
     > **Заметка:** Разработчик подводит итоги, завершая 47-летнюю карьеру. Впечатляюще.
@@ -31,13 +35,16 @@
 - [You should add debug views to your DB](https://chrispenner.ca/posts/views-for-debugging?utm_source=tldrwebdev) 👤 Chris Penner 💬 728 🔖 #db, #sql 🗓️ 2025-08-24
 - [Getting Started with Obsidian Bases](https://obsidian.rocks/getting-started-with-obsidian-bases/?ref=Obsidian+Rocks+Newsletter) 👤 Tim Miller 💬 1699 🔖 #obsidian 🗓️ 2025-08-24
 - [What could have been.](https://coppolaemilio.com/entries/what-could-have-been/?utm_source=tldrwebdev) 👤 Emi's Blog 💬 841 🔖 #llm 🗓️ 2025-08-24
+- [GPT-5: Overdue, overhyped and underwhelming. And that’s not the worst of it.](https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming) 👤 Gary Marcus 💬 2405 🔖 #llm 🗓️ 2025-08-24
 - [The AI Co-Pilot: A Realistic Guide for Developers](https://smsk.dev/2025/08/23/the-ai-co-pilot-a-realistic-guide-for-developers/) 👤 devsimsek 💬 1117 🗓️ 2025-08-24
 - [The kids are alright](https://www.bitecode.dev/p/the-kids-are-alright) 👤 Bite Code! 💬 1829 🔖 #llm 🗓️ 2025-08-23
 - [Don't feed me AI slop](https://seangoedecke.com/dont-feed-me-slop/) 👤 seangoedecke.com 💬 2055 🔖 #llm, #writing 🗓️ 2025-08-23
+- [too many model context protocol servers and LLM allocations on the dance floor](https://ghuntley.com/allocations/) 👤 Geoffrey Huntley 💬 2498 🔖 #llm, #mcp 🗓️ 2025-08-23
 - [The Management Skill Nobody Talks About](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/) 👤 Terrible Software 💬 724 🔖 #management 🗓️ 2025-08-23
 - [AI Flat Spin](https://wsvincent.com/ai-flatspin/) 👤 William Vincent 💬 286 🔖 #llm 🗓️ 2025-08-23
 - [what is the point of libraries now that you can just generate them?](https://ghuntley.com/libraries/) 👤 Geoffrey Huntley 💬 1049 🔖 #llm 🗓️ 2025-08-23
 - [Фильмы по Стивену Кингу, которые не стоит пропускать](https://www.mirf.ru/kino/stiven-king-films-to-watch) 👤 mirf.ru 💬 1646 🗓️ 2025-08-23
+- [Good agents are good researchers](https://softwaredoug.com/blog/2025/08/19/researching-with-agents) 👤 Doug Turnbull 💬 1493 🔖 #llm 🗓️ 2025-08-23
 - [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/) 👤 Armin Ronacher 💬 3530 🔖 #llm, #mcp 🗓️ 2025-08-23
 - [AI slop attacks on the curl project](https://daniel.haxx.se/blog/2025/08/18/ai-slop-attacks-on-the-curl-project/) 👤 Daniel Stenberg 💬 55 🗓️ 2025-08-23
 - [A culture of experimentation](https://matthewmanela.com/blog/a-culture-of-experimentation/?utm_source=substack&utm_medium=email) 👤 Matthew Manela 💬 1052 🔖 #leaddev, #development, #joyandcuriosity 🗓️ 2025-08-17
@@ -92,6 +99,7 @@
 - [Developers, Reinvented](https://ashtom.github.io/developers-reinvented?utm_source=tldrwebdev) 👤 ashtom.github.io 💬 2002 🔖 #llm, #toot, #github, #programming 🗓️ 2025-08-06
     > **Заметка:** GitHub CEO про разработку с AI. Дельные мысли есть, но нет души в посте - как будто подчиненные за него писали 😂 И слишком обобщает. Как будто его Stage 4 - единственно верный путь. 
 - [Read That F*cking Code!](https://etsd.tech/posts/rtfc/?utm_source=tldrwebdev) 👤 Elie Teyssedou 💬 1426 🔖 #llm 🗓️ 2025-08-06
+- [Onboarding for coding agents](https://www.fuzzycomputer.com/posts/onboarding?utm_source=tldrwebdev) 👤 fuzzycomputer.com 💬 1171 🔖 #llm 🗓️ 2025-08-06
 - [Let's Write React Hooks From Scratch](https://playfulprogramming.com/posts/react-write-hooks-from-scratch?utm_source=tldrwebdev) 👤 Corbin Crutchley 💬 566 🔖 #diy, #javascript 🗓️ 2025-08-06
 - [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/) 👤 colton.dev 💬 3767 🔖 #llm, #toot, #programming 🗓️ 2025-08-06
     > **Заметка:** Детальный разбор вопроса и масса интереснейших ссылок внутри. Аналогия с винилом мне очень близка 😇
