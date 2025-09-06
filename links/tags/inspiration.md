@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 92
+- Всего ссылок: 93
 
 ## Ссылки
 
+- [Highlighted tools](https://simonwillison.net/2025/Sep/4/highlighted-tools/#atom-everything) 👤 Simon Willison 💬 743 🔖 #llm, #toot, #inspiration, #programming 🗓️ 2025-09-05
+    > **Заметка:** Саймон рассказывает о своих многочисленных кастомных инструментах. Вдохновляющий материал!
+    > **Резюме:** Simon Willison shares a big collection of small web tools built with vibe coding and AI help. He highlights useful ones like in-browser OCR, an annotated presentation creator, image crop/resize tools, Jina Reader, and an LLM pricing calculator. He used OpenAI Codex to add JavaScript that auto-expands a tool’s development history from the URL.
 - [Quick Motivation – A Mac App](https://matthewmanela.com/blog/quick-motivation-a-mac-app/) 👤 Matthew Manela 💬 762 🔖 #macos, #swift, #inspiration 🗓️ 2025-08-27
     > **Резюме:** The author used sticky notes to interrupt anxiety. He built Quick Motivation, a Mac menu bar app that shows customizable, pinnable messages. Building it taught him Swift, forced fixes for menu bar occlusion and popovers, and the app is on the Mac App Store and GitHub.
 - [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) 👤 thorstenball.com 💬 2988 🔖 #development, #inspiration, #programming 🗓️ 2025-08-10

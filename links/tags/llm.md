@@ -1,9 +1,20 @@
 # Ссылки
 
-- Всего ссылок: 218
+- Всего ссылок: 221
 
 ## Ссылки
 
+- [Highlighted tools](https://simonwillison.net/2025/Sep/4/highlighted-tools/#atom-everything) 👤 Simon Willison 💬 743 🔖 #llm, #toot, #inspiration, #programming 🗓️ 2025-09-05
+    > **Заметка:** Саймон рассказывает о своих многочисленных кастомных инструментах. Вдохновляющий материал!
+    > **Резюме:** Simon Willison shares a big collection of small web tools built with vibe coding and AI help. He highlights useful ones like in-browser OCR, an annotated presentation creator, image crop/resize tools, Jina Reader, and an LLM pricing calculator. He used OpenAI Codex to add JavaScript that auto-expands a tool’s development history from the URL.
+- [Beyond Vibe Coding](https://simonwillison.net/2025/Sep/4/beyond-vibe-coding/#atom-everything) 👤 Simon Willison 💬 275 🔖 #llm 🗓️ 2025-09-05
+    > **Резюме:** Simon Willison said he was too harsh calling out misuse of "vibe coding."  
+Addy Osmani renamed his book "Beyond Vibe Coding" and shifted its focus.  
+The book urges combining vibe creativity with engineering rigor for AI-assisted development and ships Sept 23.
+- [Experience with LLM](https://ronjeffries.com/articles/-w025/y/w/) 👤 ronjeffries.com 💬 1529 🔖 #llm 🗓️ 2025-09-05
+    > **Резюме:** LLMs are owned by huge companies, cost jobs, waste resources, and can be dangerous.  
+They can spit out code fast but often hide understanding and subtle bugs.  
+I rederived the circle math, fixed a tricky sign error, and learned that doing the work made me a better, safer developer than the LLM.
 - [On Coding with Claude](https://blog.puzzmo.com/posts/2025/06/07/orta-on-claude/) 👤 Puzzmo Blog 💬 3674 🔖 #llm 🗓️ 2025-09-03
     > **Резюме:** The author reflects on their experience using coding tools like GitHub Copilot and Claude Code, appreciating how these tools enhance their programming workflow. They find that using Claude Code allows for more mental space to focus on code quality and testing, likening it to pair programming. Overall, they see these AI tools as valuable additions to their coding practices rather than replacements for traditional programming.
 - [anti-patterns and patterns for achieving secure generation of code via AI](https://ghuntley.com/secure-codegen/) 👤 Geoffrey Huntley 💬 1483 🔖 #llm, #security 🗓️ 2025-09-02

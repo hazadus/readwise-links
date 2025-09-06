@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 838
+- Всего ссылок: 840
 
 ## Ссылки
 
+- [Vibe coding is not the same as AI-Assisted engineering.](https://addyo.substack.com/p/vibe-coding-is-not-the-same-as-ai) 👤 Addy Osmani 💬 5554 🗓️ 2025-09-05
+- [Look Out For Bugs](https://matklad.github.io/2025/09/04/look-for-bugs.html) 👤 matklad.github.io 💬 782 🗓️ 2025-09-05
 - [Profiles in Visual Studio Code](https://code.visualstudio.com/docs/configure/profiles) 👤 Microsoft 💬 2964 🗓️ 2025-09-03
 - [How to Back up Your GitHub Repositories](https://improveandrepeat.com/2025/09/how-to-back-up-your-github-repositories/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 616 🔖 #git, #try, #github 🗓️ 2025-09-02
 - [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) 👤 wikipedia.org 💬 12771 🗓️ 2025-09-01
