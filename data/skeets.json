@@ -20,7 +20,8 @@
         "01k3genw3a1e4am8884cgxtjgk",
         "01k3t1vjxsa5jy2z0ptq11sxz2",
         "01k3t1pdk26gsb3n8abvrcsnpm",
-        "01k3yevcmqw75y13p9e3ybfbch"
+        "01k3yevcmqw75y13p9e3ybfbch",
+        "01k4cb1faxh3wvqsj2h9jjcevb"
     ],
     "skeets": [
         {
@@ -148,6 +149,12 @@
             "document_title": "A career comes to a close",
             "source_url": "https://kenwhitesell.github.io/2025/08/27/A-career-comes-to-a-close.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_300",
             "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lxtkpm33sy2o"
+        },
+        {
+            "document_id": "01k4cb1faxh3wvqsj2h9jjcevb",
+            "document_title": "Highlighted tools",
+            "source_url": "https://simonwillison.net/2025/Sep/4/highlighted-tools/#atom-everything",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3ly5mi4ad2q24"
         }
     ]
 }
