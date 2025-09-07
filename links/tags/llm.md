@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 221
+- Всего ссылок: 222
 
 ## Ссылки
 
+- [LLM as Pair?](https://ronjeffries.com/articles/-w025/y/v/) 👤 ronjeffries.com 💬 1517 🔖 #llm 🗓️ 2025-09-06
+    > **Резюме:** LLMs can work like pair programmers: helpful, patient, and idea-sparking.  
+They can make work easier or more enjoyable and sometimes boost productivity.  
+But the author warns they cause systemic harms—environmental damage, job loss, extractive capitalism, and reduced learning—so he refuses to use them though he understands others might.
 - [Highlighted tools](https://simonwillison.net/2025/Sep/4/highlighted-tools/#atom-everything) 👤 Simon Willison 💬 743 🔖 #llm, #toot, #inspiration, #programming 🗓️ 2025-09-05
     > **Заметка:** Саймон рассказывает о своих многочисленных кастомных инструментах. Вдохновляющий материал!
     > **Резюме:** Simon Willison shares a big collection of small web tools built with vibe coding and AI help. He highlights useful ones like in-browser OCR, an annotated presentation creator, image crop/resize tools, Jina Reader, and an LLM pricing calculator. He used OpenAI Codex to add JavaScript that auto-expands a tool’s development history from the URL.

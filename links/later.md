@@ -1,13 +1,9 @@
 # Отложенные ссылки
 
-- Всего ссылок: 64
+- Всего ссылок: 63
 
 ## Ссылки
 
-- [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp) 👤 Morgan Krey 💬 1200 🗓️ 2025-09-03
-    > **Резюме:** Zed now runs Claude Code in public beta using a new open standard called the Agent Client Protocol (ACP).  
-Claude Code works natively in Zed with real-time multi-file edits, syntax highlighting, and granular accept/reject for code hunks.  
-The Claude Code adapter is open source so other ACP-compatible editors like Neovim can use it.
 - [Seeing like a software company](https://seangoedecke.com/seeing-like-a-software-company/) 👤 seangoedecke.com 💬 3485 🗓️ 2025-09-03
     > **Резюме:** Large software companies build processes to make work legible.  
 Legibility helps planning, coordination, and making deals but slows delivery.  

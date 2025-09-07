@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 65
+- Всего ссылок: 66
 
 ## Ссылки
 
+- [What's up Python? Astral never stops, JetBrains gives us insights](https://www.bitecode.dev/p/whats-up-python-astral-never-stops) 👤 Bite Code 💬 2457 🔖 #python 🗓️ 2025-09-06
+    > **Резюме:** Astral launched pyx and made uv a general Python installer that can shadow the user’s system Python.  
+The JetBrains survey shows Python is still the top choice for teaching and for data, web, and ML work, with FastAPI, pandas, scikit-learn, VSCode and PyCharm leading.  
+Other news: PyPI tightened security, Google sunset pytype, and macOS Intel Python support was downgraded.
 - [Wicked Python trickery - dynamically patch a Python function's source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/?utm_source=tldrwebdev) 👤 Eric J. Ma 💬 2315 🔖 #python 🗓️ 2025-08-27
     > **Резюме:** This blog explains how to change a Python function's code while the program runs using compile and exec. The author built ToolBot, which can create and run new functions that use current variables. This method is powerful but has security risks and should be used carefully.
 - [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/) 👤 James Bennett 💬 3225 🔖 #try, #toot, #python, #webdev, #litestar, #programming 🗓️ 2025-08-08

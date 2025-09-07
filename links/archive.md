@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 987
+- Всего ссылок: 988
 
 ## Ссылки
 
@@ -8,6 +8,7 @@
     > **Заметка:** Саймон рассказывает о своих многочисленных кастомных инструментах. Вдохновляющий материал!
 - [Beyond Vibe Coding](https://simonwillison.net/2025/Sep/4/beyond-vibe-coding/#atom-everything) 👤 Simon Willison 💬 275 🔖 #llm 🗓️ 2025-09-05
 - [Experience with LLM](https://ronjeffries.com/articles/-w025/y/w/) 👤 ronjeffries.com 💬 1529 🔖 #llm 🗓️ 2025-09-05
+- [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp) 👤 Morgan Krey 💬 1200 🔖 #zed 🗓️ 2025-09-03
 - [On Coding with Claude](https://blog.puzzmo.com/posts/2025/06/07/orta-on-claude/) 👤 Puzzmo Blog 💬 3674 🔖 #llm 🗓️ 2025-09-03
 - [anti-patterns and patterns for achieving secure generation of code via AI](https://ghuntley.com/secure-codegen/) 👤 Geoffrey Huntley 💬 1483 🔖 #llm, #security 🗓️ 2025-09-02
 - [The Rogue Prince of Persia: Обзор рогалика с лучшим паркуром](https://stopgame.ru/show/151608/the_rogue_prince_of_persia_review_rogalika_s_luchshim_parkurom) 👤 Алексей Лихачев 💬 1701 🗓️ 2025-09-02
