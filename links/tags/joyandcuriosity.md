@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 22
+- Всего ссылок: 23
 
 ## Ссылки
 
+- [You can try to like stuff](https://dynomight.net/liking/?utm_source=substack&utm_medium=email) 👤 DYNOMIGHT 💬 1099 🔖 #joyandcuriosity 🗓️ 2025-09-07
+    > **Резюме:** Try liking things you don’t like to learn about yourself.  
+Telling yourself little stories or reframing can make many dislikes enjoyable.  
+But some dislikes run deep in identity or social pressure and are hard to change.
 - [Fuck Everything, We're Doing Five Blades](https://theonion.com/fuck-everything-were-doing-five-blades-1819584036/?utm_source=substack&utm_medium=email) 👤 The Onion Staff 💬 787 🔖 #fun, #joyandcuriosity 🗓️ 2025-08-31
     > **Резюме:** They lost the blade race and decided to go to five blades.  
 The boss orders wild engineering, extra aloe strips, and loud ads.  
@@ -48,7 +52,8 @@ Keep stepping stones simple and extensible so you can learn, adapt, or stop with
 - [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email) 👤 Cynthia Dunlop 💬 1523 🔖 #toot, #interview, #programming, #joyandcuriosity 🗓️ 2025-08-10
     > **Заметка:** Интервью с Торстеном о его блоге - заслуживает внимания, как и сам блог.
     > **Резюме:** Thorsten Ball started blogging to share his programming journey and skills. He finds writing helps him think clearly and connect with others. His advice: write honestly, keep it simple, and don’t wait for perfection.
-- [6 Weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/?utm_source=substack&utm_medium=email) 👤 Puzzmo Blog 💬 4611 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-03
+- [6 Weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/?utm_source=substack&utm_medium=email) 👤 Puzzmo Blog 💬 4611 🔖 #llm, #electron, #inspiration, #joyandcuriosity 🗓️ 2025-08-03
+    > **Заметка:** Этот пост вдохновил меня освоить электрон. 
     > **Резюме:** Claude Code has greatly improved how I write and maintain code by letting me create complex projects quickly. In six weeks, I completed many big tasks alone while still doing my regular work. This tool feels like a patient programming partner that helps me build and test code faster than ever before.
 - [Agentic Coding Things That Didn’t Work](https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/?utm_source=substack&utm_medium=email) 👤 Armin Ronacher 💬 1848 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-03
     > **Резюме:** The author tried many agentic coding tools but found most automation did not improve their workflow and was often abandoned. They rely mostly on talking to the machine and simple copy-pasting rather than complex commands or hooks. Automation can reduce mental engagement, so they recommend careful use and constant evaluation to avoid errors.

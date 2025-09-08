@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 93
+- Всего ссылок: 94
 
 ## Ссылки
 
@@ -11,6 +11,9 @@
     > **Резюме:** The author used sticky notes to interrupt anxiety. He built Quick Motivation, a Mac menu bar app that shows customizable, pinnable messages. Building it taught him Swift, forced fixes for menu bar occlusion and popovers, and the app is on the Mac App Store and GitHub.
 - [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) 👤 thorstenball.com 💬 2988 🔖 #development, #inspiration, #programming 🗓️ 2025-08-10
     > **Резюме:** The author reflects on 10 years of programming, emphasizing fearlessness and the importance of practical, maintainable code. They value working with others, understanding the full technology stack, and focusing on meaningful progress over perfection. Despite challenges, their love for programming remains strong.
+- [6 Weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/?utm_source=substack&utm_medium=email) 👤 Puzzmo Blog 💬 4611 🔖 #llm, #electron, #inspiration, #joyandcuriosity 🗓️ 2025-08-03
+    > **Заметка:** Этот пост вдохновил меня освоить электрон. 
+    > **Резюме:** Claude Code has greatly improved how I write and maintain code by letting me create complex projects quickly. In six weeks, I completed many big tasks alone while still doing my regular work. This tool feels like a patient programming partner that helps me build and test code faster than ever before.
 - [How I do it](https://daniel.haxx.se/blog/2025/07/13/how-i-do-it/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_295) 👤 Daniel Stenberg 💬 1807 🔖 #inspiration 🗓️ 2025-07-26
     > **Резюме:** Daniel Stenberg leads the curl project with strong commitment, working long hours because he loves it. He values independence, quality, and community in open source development. His motivation comes from serving users and improving curl continuously with his dedicated team.
 - [AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)](https://www.youtube.com/watch?v=uRuLgar5XZw) 👤 The Pragmatic Engineer 🔖 #llm, #toot, #interview, #inspiration 🗓️ 2025-07-25

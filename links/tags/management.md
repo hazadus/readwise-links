@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 33
+- Всего ссылок: 34
 
 ## Ссылки
 
+- [Seeing like a software company](https://seangoedecke.com/seeing-like-a-software-company/) 👤 seangoedecke.com 💬 3485 🔖 #leaddev, #estimation, #management, #development 🗓️ 2025-09-03
+    > **Резюме:** Large software companies build processes to make work legible.  
+Legibility helps planning, coordination, and making deals but slows delivery.  
+They need both legible systems and space for informal, fast engineer-driven work.
 - [Stepping Stones not Milestones](https://medium.com/@jamesacowling/stepping-stones-not-milestones-e6be0073563f) 👤 James Cowling 💬 2038 🔖 #management, #development, #joyandcuriosity 🗓️ 2025-08-24
     > **Резюме:** Break big engineering projects into stepping stones, not arbitrary milestones.  
 Each stepping stone should deliver real value, reveal unknown unknowns, and stay inside the project's strategy.  

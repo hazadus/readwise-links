@@ -1,13 +1,9 @@
 # Новые ссылки
 
-- Всего ссылок: 842
+- Всего ссылок: 837
 
 ## Ссылки
 
-- [What's up Python? Astral never stops, JetBrains gives us insights](https://www.bitecode.dev/p/whats-up-python-astral-never-stops) 👤 Bite Code 💬 2457 🔖 #python 🗓️ 2025-09-06
-- [LLM as Pair?](https://ronjeffries.com/articles/-w025/y/v/) 👤 ronjeffries.com 💬 1517 🔖 #llm 🗓️ 2025-09-06
-- [Vibe coding is not the same as AI-Assisted engineering.](https://addyo.substack.com/p/vibe-coding-is-not-the-same-as-ai) 👤 Addy Osmani 💬 5554 🗓️ 2025-09-05
-- [Look Out For Bugs](https://matklad.github.io/2025/09/04/look-for-bugs.html) 👤 matklad.github.io 💬 782 🗓️ 2025-09-05
 - [Profiles in Visual Studio Code](https://code.visualstudio.com/docs/configure/profiles) 👤 Microsoft 💬 2964 🗓️ 2025-09-03
 - [How to Back up Your GitHub Repositories](https://improveandrepeat.com/2025/09/how-to-back-up-your-github-repositories/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 616 🔖 #git, #try, #github 🗓️ 2025-09-02
 - [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) 👤 wikipedia.org 💬 12771 🗓️ 2025-09-01
@@ -625,7 +621,6 @@ UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 
 - [Python Friday #229: OAuth2 and JWT to Protect a FastAPI Application - Improve & Repeat](https://improveandrepeat.com/2024/05/python-friday-229-oauth2-and-jwt-to-protect-a-fastapi-application/) 👤 Johnny Graber 💬 1188 🗓️ 2024-06-03
 - [Путеводитель по базам данных](https://postgrespro.ru/education/books/dbguide) 👤 postgrespro.ru 💬 206 🗓️ 2024-06-03
 - [Микроразметка ​Open Graph: что это и как настроить – PR-CY Блог](https://pr-cy.ru/news/p/5407-open-graph-chto-eto-i-pochemu-kazhdyy-dolzhen-nastroit) 👤 Автор: Елена 💬 1265 🗓️ 2024-06-03
-- [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/) 👤 joshwcomeau.com 💬 3746 🗓️ 2025-09-06
 - [Approximate Counting in Django and Postgres | TestDriven.io](https://testdriven.io/blog/django-approximate-counting/) 👤 Nik Tomazic 💬 1264 🗓️ 2024-06-04
 - [Микроразметка сайта, настройка, проверка, плагины и генераторы](https://www.uplab.ru/blog/the-data-markup-for-yandex-and-google-how-to-configure-and-test/) 👤 Алексей Семёнов редактор Авторы 💬 1272 🗓️ 2024-06-04
 - [Python's many command-line utilities - Python Morsels](https://www.pythonmorsels.com/cli-tools/) 👤 Trey Hunner 💬 3575 🗓️ 2024-06-04

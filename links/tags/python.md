@@ -128,7 +128,9 @@ What's up Python: MOAR uv, flask-like Django, debugging live processes...](https
 - [Why I Still Use Python Virtual Environments in Docker](https://hynek.me/articles/docker-virtualenv/) 👤 Hynek Schlawack 💬 1286 🔖 #docker, #python 🗓️ 2024-09-03
     > **Резюме:** The author argues for using Python virtual environments in Docker containers because they provide predictability and consistency, making deployments easier to manage. Virtual environments create a well-defined structure for Python applications, which simplifies communication among teams. Despite popular trends favoring simpler setups, the author believes maintaining virtual environments adds value and reduces complexity in the long run.
 - [Python Testing Part 1: isolating external calls and minimising mocks](https://simoncrowe.hashnode.dev/python-testing-part-1-isolating-external-calls-and-minimising-mocks) 👤 Simon Crowe 💬 1323 🔖 #python, #testing 🗓️ 2024-09-08
-    > **Резюме:** Mocks are a necessary evil in Python testing. If overused, they essentially become "change detectors", meaning that every time you refactor the implementation of your code, you must update the mocks too. Ideally, your tests should verify what your co...
+    > **Резюме:** Mock only where you must: isolate external calls.  
+Put I/O at the program edge and test business logic directly.  
+This keeps tests fast, simple, and resilient to refactors.
 - [Python Testing Part 2: Dependency Inversion with Service Functions](https://simoncrowe.hashnode.dev/python-testing-part-2-dependency-inversion-with-service-functions) 👤 Simon Crowe 💬 907 🔖 #python, #testing 🗓️ 2024-09-23
     > **Резюме:** This article discusses using dependency inversion in Python testing to avoid excessive mocking in I/O operations. It emphasizes that service functions should use lightweight implementations of interfaces instead of mocks for better clarity and simplicity. The author shares insights on testing techniques and the benefits of keeping functions pure and focused.
 - [Python 3.13: Cool New Features for You to Try – Real Python](https://realpython.com/python313-new-features/) 👤 Geir Arne Hjelle 💬 6741 🔖 #python 🗓️ 2024-10-02

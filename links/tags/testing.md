@@ -64,7 +64,9 @@ Django Model + pytest Fixture This part is a mouthful, but I prefer to use the M
 - [Testing is Not for Beginners - Calhoun.io](https://www.calhoun.io/testing-is-not-for-beginners/) 👤 Jon Calhoun 💬 1742 🔖 #go, #testing 🗓️ 2024-09-04
     > **Резюме:** Everyone keeps saying you should be testing, but are they right? In this article we discuss the downsides to trying to learn testing too early and how it can negatively affect your ability to learn to code.
 - [Python Testing Part 1: isolating external calls and minimising mocks](https://simoncrowe.hashnode.dev/python-testing-part-1-isolating-external-calls-and-minimising-mocks) 👤 Simon Crowe 💬 1323 🔖 #python, #testing 🗓️ 2024-09-08
-    > **Резюме:** Mocks are a necessary evil in Python testing. If overused, they essentially become "change detectors", meaning that every time you refactor the implementation of your code, you must update the mocks too. Ideally, your tests should verify what your co...
+    > **Резюме:** Mock only where you must: isolate external calls.  
+Put I/O at the program edge and test business logic directly.  
+This keeps tests fast, simple, and resilient to refactors.
 - [Python Testing Part 2: Dependency Inversion with Service Functions](https://simoncrowe.hashnode.dev/python-testing-part-2-dependency-inversion-with-service-functions) 👤 Simon Crowe 💬 907 🔖 #python, #testing 🗓️ 2024-09-23
     > **Резюме:** This article discusses using dependency inversion in Python testing to avoid excessive mocking in I/O operations. It emphasizes that service functions should use lightweight implementations of interfaces instead of mocks for better clarity and simplicity. The author shares insights on testing techniques and the benefits of keeping functions pure and focused.
 - [Learn Go with Tests | Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests) 👤 quii.gitbook.io 💬 125 🔖 #go, #tdd, #testing 🗓️ 2024-09-30

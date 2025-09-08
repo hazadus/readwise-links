@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 61
+- Всего ссылок: 62
 
 ## Ссылки
 
+- [Seeing like a software company](https://seangoedecke.com/seeing-like-a-software-company/) 👤 seangoedecke.com 💬 3485 🔖 #leaddev, #estimation, #management, #development 🗓️ 2025-09-03
+    > **Резюме:** Large software companies build processes to make work legible.  
+Legibility helps planning, coordination, and making deals but slows delivery.  
+They need both legible systems and space for informal, fast engineer-driven work.
 - [Do the simplest thing that could possibly work](https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/) 👤 seangoedecke.com 💬 1720 🔖 #toot, #development, #programming, #microservices, #softwaredesign 🗓️ 2025-08-29
     > **Заметка:** Шон на примерах рассказывает о важности простоты дизайна ПО.
     > **Резюме:** Build the simplest thing that could possibly work and only add complexity when real requirements force it.  

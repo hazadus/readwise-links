@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 19
 
 ## Ссылки
 
+- [Seeing like a software company](https://seangoedecke.com/seeing-like-a-software-company/) 👤 seangoedecke.com 💬 3485 🔖 #leaddev, #estimation, #management, #development 🗓️ 2025-09-03
+    > **Резюме:** Large software companies build processes to make work legible.  
+Legibility helps planning, coordination, and making deals but slows delivery.  
+They need both legible systems and space for informal, fast engineer-driven work.
 - [A culture of experimentation](https://matthewmanela.com/blog/a-culture-of-experimentation/?utm_source=substack&utm_medium=email) 👤 Matthew Manela 💬 1052 🔖 #leaddev, #development, #joyandcuriosity 🗓️ 2025-08-17
     > **Резюме:** Teams often settle into routines that feel fine but block improvement. Like simulated annealing, use big experiments to break free and small tweaks to refine. Make changes time‑boxed, team‑owned, and repeat them to steadily get better.
 - [When Doing Nothing is the Best Management Strategy](https://terriblesoftware.org/2024/12/11/when-doing-nothing-is-the-best-management-strategy/) 👤 Terrible Software 💬 890 🔖 #leaddev, #management 🗓️ 2025-02-14

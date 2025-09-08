@@ -1,13 +1,27 @@
 # Отложенные ссылки
 
-- Всего ссылок: 63
+- Всего ссылок: 65
 
 ## Ссылки
 
-- [Seeing like a software company](https://seangoedecke.com/seeing-like-a-software-company/) 👤 seangoedecke.com 💬 3485 🗓️ 2025-09-03
-    > **Резюме:** Large software companies build processes to make work legible.  
-Legibility helps planning, coordination, and making deals but slows delivery.  
-They need both legible systems and space for informal, fast engineer-driven work.
+- [You can try to like stuff](https://dynomight.net/liking/?utm_source=substack&utm_medium=email) 👤 DYNOMIGHT 💬 1099 🔖 #joyandcuriosity 🗓️ 2025-09-07
+    > **Резюме:** Try liking things you don’t like to learn about yourself.  
+Telling yourself little stories or reframing can make many dislikes enjoyable.  
+But some dislikes run deep in identity or social pressure and are hard to change.
+- [What's up Python? Astral never stops, JetBrains gives us insights](https://www.bitecode.dev/p/whats-up-python-astral-never-stops) 👤 Bite Code 💬 2457 🔖 #python 🗓️ 2025-09-06
+    > **Резюме:** Astral launched pyx and made uv a general Python installer that can shadow the user’s system Python.  
+The JetBrains survey shows Python is still the top choice for teaching and for data, web, and ML work, with FastAPI, pandas, scikit-learn, VSCode and PyCharm leading.  
+Other news: PyPI tightened security, Google sunset pytype, and macOS Intel Python support was downgraded.
+- [LLM as Pair?](https://ronjeffries.com/articles/-w025/y/v/) 👤 ronjeffries.com 💬 1517 🔖 #llm 🗓️ 2025-09-06
+    > **Резюме:** LLMs can work like pair programmers: helpful, patient, and idea-sparking.  
+They can make work easier or more enjoyable and sometimes boost productivity.  
+But the author warns they cause systemic harms—environmental damage, job loss, extractive capitalism, and reduced learning—so he refuses to use them though he understands others might.
+- [Vibe coding is not the same as AI-Assisted engineering.](https://addyo.substack.com/p/vibe-coding-is-not-the-same-as-ai) 👤 Addy Osmani 💬 5554 🗓️ 2025-09-05
+    > **Резюме:** Vibe coding is free-flow prompting that lets AI write code with little planning.  
+It can speed prototypes but often creates hidden security, reliability, and maintenance risks in production.  
+AI-assisted engineering uses structured specs, testing, and review so teams keep AI productivity without the risks.
+- [Look Out For Bugs](https://matklad.github.io/2025/09/04/look-for-bugs.html) 👤 matklad.github.io 💬 782 🗓️ 2025-09-05
+    > **Резюме:** You can find many real bugs just by carefully reading code. Build a mental model by following control flow and tracking key state. Make time for slow, system-wide reading to prevent subtle errors.
 - [Rich Pixels](https://simonwillison.net/2025/Sep/2/rich-pixels/#atom-everything) 👤 Simon Willison 💬 124 🗓️ 2025-09-02
     > **Резюме:** Rich Pixels is a Python library that shows images in the terminal using colored blocks. It uses Unicode characters to display two pixels with different colors in one block. A script called show_image.py resizes and shows images in the terminal using this library.
 - [Passkeys and Modern Authentication](https://lucumr.pocoo.org/2025/9/2/passkeys/) 👤 Armin Ronacher 💬 1184 🗓️ 2025-09-02
@@ -115,27 +129,21 @@ Even with optimistic numbers, retries and propagated mistakes can push the fract
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
 - [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) 👤 Software Engineering & Personal Thoughts 💬 1511 🔖 #go 🗓️ 2025-08-04
     > **Резюме:** This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.
-- [Why I'm Betting Against AI Agents in 2025 (Despite Building Them)](https://utkarshkanwat.com/writing/betting-against-agents/) 👤 Utkarsh Kanwat 💬 1714 🔖 #llm 🗓️ 2025-08-03
+- [Why I'm Betting Against AI Agents in 2025 (Despite Building Them)](https://utkarshkanwat.com/writing/betting-against-agents/) 👤 Utkarsh Kanwat 💬 1714 🔖 #llm, #agents 🗓️ 2025-08-03
     > **Заметка:** From Iximiuz Newsletter
     > **Резюме:** The author has built many AI agent systems and sees big challenges in making them fully autonomous and reliable at scale. High error rates, costly context handling, and complex tool design limit their effectiveness. Success comes from clear boundaries, human control, and smart engineering—not from hype about fully autonomous agents.
-- [6 Weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/?utm_source=substack&utm_medium=email) 👤 Puzzmo Blog 💬 4611 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-03
-    > **Резюме:** Claude Code has greatly improved how I write and maintain code by letting me create complex projects quickly. In six weeks, I completed many big tasks alone while still doing my regular work. This tool feels like a patient programming partner that helps me build and test code faster than ever before.
 - [Benchmarking MicroPython](https://blog.miguelgrinberg.com/post/benchmarking-micropython) 👤 Miguel Grinberg 💬 2096 🗓️ 2025-08-01
     > **Резюме:** MicroPython runs much slower on microcontrollers than on laptops or Raspberry Pi computers. Different microcontrollers perform differently depending on the task, so speed varies. Despite being slow, microcontrollers are still very useful for many projects.
 - [Гайд по кастомизации vscode: тайлы и менеджеры горячих клавиш](https://www.youtube.com/watch?v=frZkPK_1Ui4) 👤 Никита Соболев 🗓️ 2025-07-30
     > **Резюме:** Автор показывает, как настроить VSCode для удобной и быстрой работы с помощью тайлинговых менеджеров и горячих клавиш. Это помогает легко переключаться между приложениями и улучшает продуктивность. В следующих видео он расскажет, как минимизировать лишние элементы и сделать интерфейс проще.
 - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/) 👤 Simon Willison 💬 4839 🗓️ 2025-07-27
     > **Резюме:** Embeddings turn content like text or images into numbers that capture their meaning. They help computers find and compare similar information quickly. This technology powers tools like search engines and question-answering systems.
-- [Tokens: The New Oil](https://tidyfirst.substack.com/p/tokens-the-new-oil?utm_source=substack&utm_medium=email) 👤 Kent Beck 💬 1239 🔖 #joyandcuriosity 🗓️ 2025-07-27
-    > **Резюме:** Success in AI means your token use can quickly outpace limits, causing urgent problems. To survive, you must rapidly increase token supply or reduce demand, even if it means cutting features or users. Focus on survival now; perfect solutions come later when growth stabilizes.
 - [From Async/Await to Virtual Threads](https://lucumr.pocoo.org/2025/7/26/virtual-threads/) 👤 Armin Ronacher 💬 1974 🗓️ 2025-07-27
     > **Резюме:** The article discusses how virtual threads could simplify Python concurrency by replacing complex async/await patterns with a clearer thread-based model. It highlights the benefits of structured concurrency and how virtual threads can improve cancellation and error handling. The author suggests this approach could make concurrent programming easier by moving complexity into the runtime instead of the user’s code.
 - [Getting Real](http://gettingreal.37signals.com/) 👤 basecamp.com 💬 426 🔖 #book 🗓️ 2025-07-24
     > **Резюме:** "Getting Real" by 37signals is a valuable resource for anyone creating a web app, offering simple insights and unique ideas. It focuses on practical approaches to software design rather than technical details. Readers from various backgrounds, including entrepreneurs and designers, will find inspiration in its unconventional wisdom.
 - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/?from=newsletter) 👤 Josh W. Comeau 💬 3091 🗓️ 2025-07-21
     > **Резюме:** SVG is a special image format that uses shapes like circles and lines written in code. It can be styled and animated using CSS and JavaScript, making it very powerful. SVG images stay sharp no matter how much you zoom in, which is great for web design.
-- [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents) 👤 anthropic.com 💬 2551 🔖 #llm, #agents 🗓️ 2025-07-21
-    > **Резюме:** Anthropic has learned from working with various teams to build effective AI agents using large language models (LLMs). They differentiate between workflows, which follow predefined paths, and agents that operate flexibly and autonomously. The article provides practical advice for developers on choosing the right approach and emphasizes the importance of simplicity and effective design in building these systems.
 - [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) 👤 Andrej Karpathy 🔖 #llm 🗓️ 2025-07-21
     > **Резюме:** You can use open-weight language models through inference providers like Together.AI. Together.AI offers a playground where you can try many different open models. Finding basic models is less common on these platforms.
 - [MacPaint Art From The Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html) 👤 https://decryption.net.au 💬 266 🔖 #joyandcuriosity 🗓️ 2025-07-20
@@ -162,3 +170,5 @@ Even with optimistic numbers, retries and propagated mistakes can push the fract
     > **Резюме:** The interactive guide to using grep explains how to search for text patterns efficiently. It covers basics like searching for patterns in files, using regular expressions for advanced searches, and searching for fixed strings. The guide also delves into handling multiple patterns, recursive searches, and various output options like counting matches, limiting results, and displaying only relevant parts of the output. Additionally, it provides insights on using grep options to ignore case sensitivity, invert matches, and customize output formats for different search scenarios.
 - [PostgreSQL: как связь 1 к 1 ускоряет базу данных? Разбираемся во внутренней работе СУБД](https://www.youtube.com/watch?v=Pk125DazUyI) 👤 Диджитализируй! 🔖 #postgresql 🗓️ 2024-11-05
     > **Резюме:** Связь один к одному в базах данных PostgreSQL помогает оптимизировать работу с данными. Это позволяет разделять часто и редко используемые данные, улучшая производительность системы. Используйте эту связь, чтобы сделать свои базы данных более эффективными.
+- [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/) 👤 joshwcomeau.com 💬 3746 🗓️ 2025-09-06
+    > **Резюме:** The text discusses the importance of understanding Promises in JavaScript for modern web development. Promises allow for asynchronous operations and help avoid callback nesting. Modern JavaScript features like async/await simplify handling asynchronous tasks.
