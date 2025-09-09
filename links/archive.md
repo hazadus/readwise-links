@@ -1,20 +1,27 @@
 # Архивные ссылки
 
-- Всего ссылок: 993
+- Всего ссылок: 1005
 
 ## Ссылки
 
+- ['Make invalid states representable' considered harmful](https://seangoedecke.com/invalid-states/) 👤 seangoedecke.com 💬 2050 🔖 #softwaredesign 🗓️ 2025-09-08
+- [You can try to like stuff](https://dynomight.net/liking/?utm_source=substack&utm_medium=email) 👤 DYNOMIGHT 💬 1099 🔖 #joyandcuriosity 🗓️ 2025-09-07
 - [MacBook Lid Angle Sensor: Python Implementation Analysis](https://claude.ai/public/artifacts/6c92203e-9768-4ffa-ae0a-9c4307b94c5e) 👤 Claude 💬 1123 🔖 #claude 🗓️ 2025-09-07
+- [What's up Python? Astral never stops, JetBrains gives us insights](https://www.bitecode.dev/p/whats-up-python-astral-never-stops) 👤 Bite Code 💬 2457 🔖 #python 🗓️ 2025-09-06
+- [LLM as Pair?](https://ronjeffries.com/articles/-w025/y/v/) 👤 ronjeffries.com 💬 1517 🔖 #llm 🗓️ 2025-09-06
 - [Highlighted tools](https://simonwillison.net/2025/Sep/4/highlighted-tools/#atom-everything) 👤 Simon Willison 💬 743 🔖 #llm, #toot, #inspiration, #programming 🗓️ 2025-09-05
     > **Заметка:** Саймон рассказывает о своих многочисленных кастомных инструментах. Вдохновляющий материал!
 - [Beyond Vibe Coding](https://simonwillison.net/2025/Sep/4/beyond-vibe-coding/#atom-everything) 👤 Simon Willison 💬 275 🔖 #llm 🗓️ 2025-09-05
 - [Experience with LLM](https://ronjeffries.com/articles/-w025/y/w/) 👤 ronjeffries.com 💬 1529 🔖 #llm 🗓️ 2025-09-05
+- [Look Out For Bugs](https://matklad.github.io/2025/09/04/look-for-bugs.html) 👤 matklad.github.io 💬 782 🔖 #programming 🗓️ 2025-09-05
 - [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp) 👤 Morgan Krey 💬 1200 🔖 #zed 🗓️ 2025-09-03
 - [On Coding with Claude](https://blog.puzzmo.com/posts/2025/06/07/orta-on-claude/) 👤 Puzzmo Blog 💬 3674 🔖 #llm 🗓️ 2025-09-03
 - [Seeing like a software company](https://seangoedecke.com/seeing-like-a-software-company/) 👤 seangoedecke.com 💬 3485 🔖 #leaddev, #estimation, #management, #development 🗓️ 2025-09-03
 - [anti-patterns and patterns for achieving secure generation of code via AI](https://ghuntley.com/secure-codegen/) 👤 Geoffrey Huntley 💬 1483 🔖 #llm, #security 🗓️ 2025-09-02
 - [The Rogue Prince of Persia: Обзор рогалика с лучшим паркуром](https://stopgame.ru/show/151608/the_rogue_prince_of_persia_review_rogalika_s_luchshim_parkurom) 👤 Алексей Лихачев 💬 1701 🗓️ 2025-09-02
+- [Looking forward to Django 6.0](mailto:reader-forwarded-email/d63966dbff39ea2b976500388197636b) 👤 Carlton Gibson 💬 1849 🔖 #csp, #django 🗓️ 2025-09-01
 - [You should delete tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/?utm_source=tldrwebdev) 👤 André Arko 💬 833 🔖 #testing 🗓️ 2025-09-01
+- [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html) 👤 matklad.github.io 💬 1470 🔖 #llm, #testing 🗓️ 2025-09-01
 - [Fuck Everything, We're Doing Five Blades](https://theonion.com/fuck-everything-were-doing-five-blades-1819584036/?utm_source=substack&utm_medium=email) 👤 The Onion Staff 💬 787 🔖 #fun, #joyandcuriosity 🗓️ 2025-08-31
 - [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html) 👤 Oskar Wickström 💬 925 🔖 #vim, #joyandcuriosity 🗓️ 2025-08-31
 - [A career comes to a close](https://kenwhitesell.github.io/2025/08/27/A-career-comes-to-a-close.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_300) 👤 Ken Whitesell 💬 1776 🔖 #toot, #programming 🗓️ 2025-08-30
@@ -62,6 +69,7 @@
 - [Programming Without Being Obsessed With Programming](https://prog21.dadgum.com/195.html) 👤 dadgum.com 💬 446 🔖 #programming 🗓️ 2025-08-13
 - [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) 👤 dadgum.com 💬 467 🔖 #career, #programming 🗓️ 2025-08-13
 - [Do You Really Want to be Doing This When You're 50?](https://prog21.dadgum.com/154.html) 👤 prog21.dadgum.com 💬 495 🔖 #career 🗓️ 2025-08-13
+- [AI’s Security Crisis: Why Your Assistant Might Betray You](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/ai-s-security-crisis-why-your-assistant-might-betray-you/) 👤 Last Week in AWS 💬 14730 🔖 #llm, #security 🗓️ 2025-08-13
 - [AI is different](http://antirez.com/news/155) 👤 antirez.com 💬 454 🔖 #llm 🗓️ 2025-08-13
 - [The famous "bottomless pit" AI greentext is fake](https://seangoedecke.com/bottomless-pit/) 👤 seangoedecke.com 💬 585 🔖 #llm 🗓️ 2025-08-13
 - [simonw/codespaces-llm](https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything) 👤 Simon Willison 💬 213 🔖 #llm, #try, #toot, #github, #codespaces, #devcontainer 🗓️ 2025-08-13
@@ -70,6 +78,7 @@
 - [Just a nice shell script - Bite code!](https://www.bitecode.dev/p/just-a-nice-shell-script) 👤 Bite Code! 🔖 #bash 🗓️ 2025-08-13
 - [GitHub just got less independent at Microsoft after CEO resignation | The Verge](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition?utm_source=tldrwebdev) 👤 Tom Warren 💬 675 🔖 #toot, #github, #programming 🗓️ 2025-08-12
     > **Заметка:** CEO GitHub всё!
+- [In Praise of Containers; there's no place like $HOME](https://sketch.dev/blog/in-praise-of-containers) 👤 Philip Zeyliger 💬 978 🔖 #llm 🗓️ 2025-08-12
 - [No, typing can be the bottleneck](https://thorstenball.com/blog/2020/09/01/typing-can-be-the-bottleneck/) 👤 thorstenball.com 💬 603 🗓️ 2025-08-11
 - [LLMs are strangely-shaped tools](https://near.blog/llms-are-strangely-shaped-tools/) 👤 near.blog 💬 496 🔖 #llm 🗓️ 2025-08-11
     > **Заметка:** From Thorsten Balls's AI post
@@ -91,9 +100,11 @@
     > **Заметка:** Дельные советы от Майкла по работе с watch()
 - [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/) 👤 August 8 💬 1561 🔖 #http, #toot, #network, #programming 🗓️ 2025-08-08
     > **Заметка:** Мейнтейнер curl рассказывет о трудностях реализации HTTP
+- [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/?utm_source=tldrwebdev) 👤 natalie.sh 💬 1228 🔖 #try, #bluesky 🗓️ 2025-08-08
 - [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/?utm_source=tldrwebdev) 👤 Jerop Kipruto 💬 638 🔖 #cli, #llm, #try 🗓️ 2025-08-08
 - [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/) 👤 James Bennett 💬 3225 🔖 #try, #toot, #python, #webdev, #litestar, #programming 🗓️ 2025-08-08
     > **Заметка:** Глубокий обзор фреймворка Litestar от разработчика Django. Аж захотелось тоже попробовать!
+- [Tailwind is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/) 👤 colton.dev 💬 2793 🔖 #css, #tailwind 🗓️ 2025-08-07
 - [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/#atom-everything) 👤 Simon Willison 💬 1864 🔖 #llm 🗓️ 2025-08-07
     > **Заметка:** Обзор выпущенного сегодня GPT-5 от Саймона, на основе двухнедельного опыта использования.
 - [GPT-5: It Just Does Stuff](https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff) 👤 Ethan Mollick 💬 1859 🔖 #llm 🗓️ 2025-08-07
@@ -119,6 +130,8 @@
 - [linuxserver/obsidian¶](https://docs.linuxserver.io/images/docker-obsidian/) 👤 LinuxServer.io 💬 1521 🔖 #obsidian, #selfhost 🗓️ 2025-08-04
 - [Find new blogs to follow from this year’s Blaugust participants](https://hamatti.org/posts/find-new-blogs-to-follow-from-this-years-blaugust-participants/) 👤 Juha-Matti Santala 💬 409 🗓️ 2025-08-04
 - [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds) 👤 geoffreylitt.com 💬 765 🗓️ 2025-08-03
+- [Why I'm Betting Against AI Agents in 2025 (Despite Building Them)](https://utkarshkanwat.com/writing/betting-against-agents/) 👤 Utkarsh Kanwat 💬 1714 🔖 #llm, #agents 🗓️ 2025-08-03
+    > **Заметка:** From Iximiuz Newsletter
 - [Using AI Without Leaving the Terminal: A Guide to llm](https://kashw1n.com/blog/llm-cli/) 👤 kashw1n.com 💬 1184 🔖 #cli, #llm, #toot 🗓️ 2025-08-03
     > **Заметка:** Хорошая шпаргалка по утилите llm Саймона с дельными сценариями использования.
 - [Self-host Obsidian using Docker and Access it Via Web Browser](https://linuxhandbook.com/obsidian-docker-self-host/?ref=Obsidian+Rocks+Newsletter) 👤 Linux Handbook 💬 1042 🔖 #try, #obsidian, #selfhost 🗓️ 2025-08-03

@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 34
+- Всего ссылок: 36
 
 ## Ссылки
 
@@ -8,6 +8,13 @@
     > **Резюме:** Tests exist to give developers confidence.  
 Delete tests that reduce confidence — flaky, slow, brittle, or testing the wrong behavior.  
 Replace them with small, reliable tests that match current behavior.
+- [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html) 👤 matklad.github.io 💬 1470 🔖 #llm, #testing 🗓️ 2025-09-01
+    > **Резюме:** Alex built terminal-editor, a VS Code extension that runs a shell inside an editable buffer using LLMs.  
+His workflow: write plan.md, convert it to a mutable spec.md, and use fast end-to-end tests so the LLM can iterate reliably.  
+LLMs lower the cost of building tools but still need good testing and design for long-term maintenance.
+- [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #testing, #postgresql 🗓️ 2025-08-10
+    > **Заметка:** From Thorsten Ball interview
+    > **Резюме:** This article explains how to use ephemeral PostgreSQL instances for automated testing in Go, which can reduce resource usage and speed up test times. By starting a single PostgreSQL instance for all tests instead of multiple instances, developers can improve efficiency and maintainability. Additionally, optimizing the Go test caching behavior can further decrease test runtime significantly.
 - [You don't need testify/assert](https://antonz.org/do-not-testify/) 👤 Anton Zhiyanov 💬 1706 🔖 #go, #testing 🗓️ 2025-07-16
     > **Резюме:** The author shows how to write simple custom assertion helpers to replace testify/assert in Go tests. These helpers cover equality, error checking, and boolean conditions with minimal code. This approach keeps tests clean without relying on many assertion functions.
 - [🔍🏃 С Vitest ваше тестирование в Vite станет легким и эффективным](https://proglib.io/p/s-vitest-vashe-testirovanie-stanet-legkim-i-effektivnym-v-vite-2024-09-23) 👤 Библиотека программиста 💬 2391 🔖 #vite, #vitest, #testing 🗓️ 2025-05-30

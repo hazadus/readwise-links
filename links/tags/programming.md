@@ -1,12 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 20
+- Всего ссылок: 21
 
 ## Ссылки
 
 - [Highlighted tools](https://simonwillison.net/2025/Sep/4/highlighted-tools/#atom-everything) 👤 Simon Willison 💬 743 🔖 #llm, #toot, #inspiration, #programming 🗓️ 2025-09-05
     > **Заметка:** Саймон рассказывает о своих многочисленных кастомных инструментах. Вдохновляющий материал!
     > **Резюме:** Simon Willison shares a big collection of small web tools built with vibe coding and AI help. He highlights useful ones like in-browser OCR, an annotated presentation creator, image crop/resize tools, Jina Reader, and an LLM pricing calculator. He used OpenAI Codex to add JavaScript that auto-expands a tool’s development history from the URL.
+- [Look Out For Bugs](https://matklad.github.io/2025/09/04/look-for-bugs.html) 👤 matklad.github.io 💬 782 🔖 #programming 🗓️ 2025-09-05
+    > **Резюме:** You can find many real bugs just by carefully reading code. Build a mental model by following control flow and tracking key state. Make time for slow, system-wide reading to prevent subtle errors.
 - [A career comes to a close](https://kenwhitesell.github.io/2025/08/27/A-career-comes-to-a-close.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_300) 👤 Ken Whitesell 💬 1776 🔖 #toot, #programming 🗓️ 2025-08-30
     > **Заметка:** Разработчик подводит итоги, завершая 47-летнюю карьеру. Впечатляюще.
     > **Резюме:** He retired after a 47-year career in computing.  

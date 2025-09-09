@@ -1,43 +1,23 @@
 # Отложенные ссылки
 
-- Всего ссылок: 65
+- Всего ссылок: 55
 
 ## Ссылки
 
-- [You can try to like stuff](https://dynomight.net/liking/?utm_source=substack&utm_medium=email) 👤 DYNOMIGHT 💬 1099 🔖 #joyandcuriosity 🗓️ 2025-09-07
-    > **Резюме:** Try liking things you don’t like to learn about yourself.  
-Telling yourself little stories or reframing can make many dislikes enjoyable.  
-But some dislikes run deep in identity or social pressure and are hard to change.
-- [What's up Python? Astral never stops, JetBrains gives us insights](https://www.bitecode.dev/p/whats-up-python-astral-never-stops) 👤 Bite Code 💬 2457 🔖 #python 🗓️ 2025-09-06
-    > **Резюме:** Astral launched pyx and made uv a general Python installer that can shadow the user’s system Python.  
-The JetBrains survey shows Python is still the top choice for teaching and for data, web, and ML work, with FastAPI, pandas, scikit-learn, VSCode and PyCharm leading.  
-Other news: PyPI tightened security, Google sunset pytype, and macOS Intel Python support was downgraded.
-- [LLM as Pair?](https://ronjeffries.com/articles/-w025/y/v/) 👤 ronjeffries.com 💬 1517 🔖 #llm 🗓️ 2025-09-06
-    > **Резюме:** LLMs can work like pair programmers: helpful, patient, and idea-sparking.  
-They can make work easier or more enjoyable and sometimes boost productivity.  
-But the author warns they cause systemic harms—environmental damage, job loss, extractive capitalism, and reduced learning—so he refuses to use them though he understands others might.
+- [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html) 👤 matklad.github.io 💬 4435 🗓️ 2025-09-08
+    > **Резюме:** Testing helps keep software working when making changes. Good tests focus on features, not code details, and should be easy to update. Slow or flaky tests make refactoring hard, so testing speed and reliability matter a lot.
 - [Vibe coding is not the same as AI-Assisted engineering.](https://addyo.substack.com/p/vibe-coding-is-not-the-same-as-ai) 👤 Addy Osmani 💬 5554 🗓️ 2025-09-05
     > **Резюме:** Vibe coding is free-flow prompting that lets AI write code with little planning.  
 It can speed prototypes but often creates hidden security, reliability, and maintenance risks in production.  
 AI-assisted engineering uses structured specs, testing, and review so teams keep AI productivity without the risks.
-- [Look Out For Bugs](https://matklad.github.io/2025/09/04/look-for-bugs.html) 👤 matklad.github.io 💬 782 🗓️ 2025-09-05
-    > **Резюме:** You can find many real bugs just by carefully reading code. Build a mental model by following control flow and tracking key state. Make time for slow, system-wide reading to prevent subtle errors.
 - [Rich Pixels](https://simonwillison.net/2025/Sep/2/rich-pixels/#atom-everything) 👤 Simon Willison 💬 124 🗓️ 2025-09-02
     > **Резюме:** Rich Pixels is a Python library that shows images in the terminal using colored blocks. It uses Unicode characters to display two pixels with different colors in one block. A script called show_image.py resizes and shows images in the terminal using this library.
 - [Passkeys and Modern Authentication](https://lucumr.pocoo.org/2025/9/2/passkeys/) 👤 Armin Ronacher 💬 1184 🗓️ 2025-09-02
     > **Резюме:** Passkeys are replacing passwords and can improve security for most people.  
 But attestation, non-exportable keys, and auto-enrollment can enable ecosystem lock-in.  
 That risks losing account access, reducing user control, and hurting families and developers.
-- [Looking forward to Django 6.0](mailto:reader-forwarded-email/d63966dbff39ea2b976500388197636b) 👤 Carlton Gibson 💬 1849 🗓️ 2025-09-01
-    > **Резюме:** Django 6.0 is nearing alpha with a feature freeze on September 17.  
-Key changes include Python 3.12 as the minimum, built-in Content Security Policy, django.tasks, and template-partials.  
-GSoC students and community projects helped develop and polish these features.
 - [The Ordinary Sacred](https://www.joanwestenberg.com/p/the-ordinary-sacred) 👤 Joan Westenberg 💬 5188 🗓️ 2025-09-01
     > **Резюме:** We live in a world where everything is a performance, making us feel exhausted and unhappy. The Ordinary Sacred teaches us to stop curating life for others and find joy in simple, unfiltered moments. True living means being present, ordinary, and free from constant judgment or spectacle.
-- [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html) 👤 matklad.github.io 💬 1470 🔖 #llm 🗓️ 2025-09-01
-    > **Резюме:** Alex built terminal-editor, a VS Code extension that runs a shell inside an editable buffer using LLMs.  
-His workflow: write plan.md, convert it to a mutable spec.md, and use fast end-to-end tests so the LLM can iterate reliably.  
-LLMs lower the cost of building tools but still need good testing and design for long-term maintenance.
 - [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/?utm_source=substack&utm_medium=email) 👤 cedardb.com 💬 2009 🔖 #joyandcuriosity 🗓️ 2025-08-31
     > **Резюме:** German Strings use a single 128-bit layout to represent any string.  
 Strings of 12 or fewer characters are stored inline; longer strings store a length, a pointer, and a four-character prefix for fast checks.  
@@ -100,38 +80,27 @@ The Futzing Fraction measures whether using the AI yields net time saved or net 
 Even with optimistic numbers, retries and propagated mistakes can push the fraction above 1, making AI a net loss and harming human skills.
 - [Another article about centering in CSS](https://piccalil.li/blog/another-article-about-centering-in-css/?ref=main-rss-feed) 👤 Piccalilli 💬 1236 🔖 #css 🗓️ 2025-08-14
     > **Резюме:** Centering in CSS is easier than ever with many options like grid and flexbox, but choosing one clear method is key. Using parent-based layouts with grid or flexbox is better than mixing child and parent alignment. Avoid positioning for centering unless you fully control the parent, and focus on simple, consistent principles for your team.
-- [Mac toolbar widgets with xbar and rust](https://blog.korny.info/2025/01/18/toolbar-widgets-with-xbar-and-rust) 👤 Korny Sietsma 💬 779 🗓️ 2025-08-14
+- [Mac toolbar widgets with xbar and rust](https://blog.korny.info/2025/01/18/toolbar-widgets-with-xbar-and-rust) 👤 Korny Sietsma 💬 779 🔖 #rust 🗓️ 2025-08-14
     > **Резюме:** XBar is a simple Mac tool that shows small widgets on the toolbar using scripts. The author explains how to write plugins in Rust using rust-script, which compiles and runs Rust code like a script. They also share examples, including a clock widget and a music player controller.
 - [Building a web search engine from scratch in two months with 3 billion neural embeddings](https://blog.wilsonl.in/search-engine/?utm_source=tldrwebdev) 👤 Wilson Lin 💬 8008 🗓️ 2025-08-13
     > **Резюме:** The author built a powerful web search engine using 3 billion neural embeddings in just two months. It can understand complex queries and delivers fast, accurate results by using advanced indexing and embedding techniques. This project shows that neural embeddings can greatly improve search quality compared to traditional methods.
 - [What are Effect Scopes in Vue?](https://michaelnthiessen.com/what-are-effect-scopes-in-vue?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(230)+What+are+Effect+Scopes+in+Vue?+-+18611005&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1063 🔖 #vue, #nuxt 🗓️ 2025-08-13
     > **Резюме:** Effect scopes in Vue group related reactive effects so they can be stopped and cleaned up easily. This helps prevent memory leaks and bugs by controlling how long effects live. They are used inside components and also for advanced patterns like shared composables.
-- [AI’s Security Crisis: Why Your Assistant Might Betray You](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/ai-s-security-crisis-why-your-assistant-might-betray-you/) 👤 Last Week in AWS 💬 14730 🗓️ 2025-08-13
-    > **Резюме:** AI tools have great potential but come with serious security risks, including possible major breaches soon. Experts like Simon emphasize that human skills and careful coding remain important despite AI advances. Open source AI helps many fields, but challenges like bias, hallucinations, and environmental impact need attention.
-- [In Praise of Containers; there's no place like $HOME](https://sketch.dev/blog/in-praise-of-containers) 👤 Philip Zeyliger 💬 978 🔖 #llm 🗓️ 2025-08-12
-    > **Резюме:** The author discusses the pros and cons of using containers versus local machines for coding with agents. Containers offer isolation, easy parallel work, and consistent environments, while local setups feel more familiar and convenient for small tasks. The author uses both approaches depending on the situation and invites readers to share their preferences.
-- [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #postgresql 🗓️ 2025-08-10
+- [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #testing, #postgresql 🗓️ 2025-08-10
     > **Заметка:** From Thorsten Ball interview
     > **Резюме:** This article explains how to use ephemeral PostgreSQL instances for automated testing in Go, which can reduce resource usage and speed up test times. By starting a single PostgreSQL instance for all tests instead of multiple instances, developers can improve efficiency and maintainability. Additionally, optimizing the Go test caching behavior can further decrease test runtime significantly.
 - [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html?utm_source=substack&utm_medium=email) 👤 a1k0n.net 💬 2469 🔖 #joyandcuriosity 🗓️ 2025-08-10
     > **Резюме:** The code draws a spinning 3D donut using ASCII characters by projecting 3D points onto a 2D screen with math involving rotations and perspective. It calculates the brightness of each point based on lighting and chooses characters to show shading. This creates a cool visual effect of a rotating donut made from simple text symbols.
-- [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/?utm_source=tldrwebdev) 👤 natalie.sh 💬 1228 🔖 #try, #bluesky 🗓️ 2025-08-08
-    > **Резюме:** The author built a comment system for their blog using Bluesky, a decentralized social platform, to avoid slow or complicated traditional comment tools. This system lets people use their real Bluesky profiles to post rich comments with images and links, making conversations more natural and social-media-like. It works smoothly without the author needing to manage servers, and it connects blog discussions with broader social conversations.
 - [Ludic's Guide To Getting Software Engineering Jobs](https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/) 👤 mataroa.blog 💬 8531 🔖 #career 🗓️ 2025-08-07
     > **Резюме:** Getting software engineering jobs often means starting with many mediocre, short-term roles. Success comes from quickly applying, not stressing about perfect fits, and being open to day-rate contracts. Building connections and being clear about your needs helps find better, well-paid jobs later.
-- [Trusting your own judgement on ‘AI’ is a huge risk](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/) 👤 baldurbjarnason.com 💬 3600 🗓️ 2025-08-07
+- [Trusting your own judgement on ‘AI’ is a huge risk](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/) 👤 baldurbjarnason.com 💬 3600 🔖 #llm 🗓️ 2025-08-07
     > **Резюме:** Trusting your own judgement about AI is risky because cognitive biases can trick even smart people. Self-experimentation with AI tools often leads to false beliefs and poor decisions. It is safer to wait for careful, impartial research before accepting claims about AI.
-- [Tailwind is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/) 👤 colton.dev 💬 2793 🗓️ 2025-08-07
-    > **Резюме:** Tailwind combines many existing CSS problems and makes them worse by forcing inline styles with duplicated class names. It does not reduce developer effort or improve tooling, but it helps enforce consistent design through a central config file. Despite its flaws, Tailwind is popular because it offers a ready-made system for standardizing styles in modern web projects.
 - [Why Building Billing Systems is So Painful](https://www.dmitry.ie/2024/why-building-billing-systems-is-so-painful?utm_source=tldrwebdev) 👤 dmitry.ie 💬 1859 🗓️ 2025-08-07
     > **Резюме:** Billing systems are very complex because they must handle many pricing models, currencies, taxes, and real-time usage tracking. They serve many customers inside a company, like finance, sales, and product teams, each with different needs. Building billing right is hard but important, as it is a critical part of business infrastructure that drives growth and success.
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) 👤 Redowan Delowar 💬 1179 🔖 #go 🗓️ 2025-08-04
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
 - [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) 👤 Software Engineering & Personal Thoughts 💬 1511 🔖 #go 🗓️ 2025-08-04
     > **Резюме:** This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.
-- [Why I'm Betting Against AI Agents in 2025 (Despite Building Them)](https://utkarshkanwat.com/writing/betting-against-agents/) 👤 Utkarsh Kanwat 💬 1714 🔖 #llm, #agents 🗓️ 2025-08-03
-    > **Заметка:** From Iximiuz Newsletter
-    > **Резюме:** The author has built many AI agent systems and sees big challenges in making them fully autonomous and reliable at scale. High error rates, costly context handling, and complex tool design limit their effectiveness. Success comes from clear boundaries, human control, and smart engineering—not from hype about fully autonomous agents.
 - [Benchmarking MicroPython](https://blog.miguelgrinberg.com/post/benchmarking-micropython) 👤 Miguel Grinberg 💬 2096 🗓️ 2025-08-01
     > **Резюме:** MicroPython runs much slower on microcontrollers than on laptops or Raspberry Pi computers. Different microcontrollers perform differently depending on the task, so speed varies. Despite being slow, microcontrollers are still very useful for many projects.
 - [Гайд по кастомизации vscode: тайлы и менеджеры горячих клавиш](https://www.youtube.com/watch?v=frZkPK_1Ui4) 👤 Никита Соболев 🗓️ 2025-07-30

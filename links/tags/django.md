@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 46
+- Всего ссылок: 47
 
 ## Ссылки
 
+- [Looking forward to Django 6.0](mailto:reader-forwarded-email/d63966dbff39ea2b976500388197636b) 👤 Carlton Gibson 💬 1849 🔖 #csp, #django 🗓️ 2025-09-01
+    > **Резюме:** Django 6.0 is nearing alpha with a feature freeze on September 17.  
+Key changes include Python 3.12 as the minimum, built-in Content Security Policy, django.tasks, and template-partials.  
+GSoC students and community projects helped develop and polish these features.
 - [Optimizing Django Docker Builds with Astral’s `uv`](https://rob.cogit8.org/posts/optimizing-django-docker-builds-with-astrals-uv/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_288) 👤 Rob Hudson 💬 1417 🔖 #uv, #django, #docker 🗓️ 2025-06-08
     > **Резюме:** Astral’s `uv` improves Django Docker builds by speeding up dependency resolution and installation. It simplifies dependency management and enhances security by enforcing strict version control and verification. The article provides a detailed guide on setting up `uv` in Docker for efficient and reproducible builds.
 - [How to cheat at unit tests with pytest and Black](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/) 👤 Simon Willison 💬 860 🔖 #django, #pytest 🗓️ 2025-05-29

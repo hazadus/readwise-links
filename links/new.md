@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 837
+- Всего ссылок: 838
 
 ## Ссылки
 
+- [Why Go Is A Minimalist Language • The Applied Go Weekly Newsletter 2025-09-07](https://newsletter.appliedgo.net/archive/2025-09-07-why-go-is-a-minimalist-language/) 👤 The Applied Go Weekly Newsletter 💬 1670 🔖 #go 🗓️ 2025-09-08
 - [Profiles in Visual Studio Code](https://code.visualstudio.com/docs/configure/profiles) 👤 Microsoft 💬 2964 🗓️ 2025-09-03
 - [How to Back up Your GitHub Repositories](https://improveandrepeat.com/2025/09/how-to-back-up-your-github-repositories/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 616 🔖 #git, #try, #github 🗓️ 2025-09-02
 - [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) 👤 wikipedia.org 💬 12771 🗓️ 2025-09-01

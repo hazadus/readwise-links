@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- ['Make invalid states representable' considered harmful](https://seangoedecke.com/invalid-states/) 👤 seangoedecke.com 💬 2050 🔖 #softwaredesign 🗓️ 2025-09-08
+    > **Резюме:** Software should be more flexible than the domain model and allow some invalid states. Hard constraints like strict state machines, foreign keys, or required protobuf fields break under edge cases and schema changes. Prefer soft, changeable checks in code so systems can adapt when reality forces exceptions.
 - [Do the simplest thing that could possibly work](https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/) 👤 seangoedecke.com 💬 1720 🔖 #toot, #development, #programming, #microservices, #softwaredesign 🗓️ 2025-08-29
     > **Заметка:** Шон на примерах рассказывает о важности простоты дизайна ПО.
     > **Резюме:** Build the simplest thing that could possibly work and only add complexity when real requirements force it.  

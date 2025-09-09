@@ -1,16 +1,20 @@
 # Ссылки
 
-- Всего ссылок: 221
+- Всего ссылок: 222
 
 ## Ссылки
 
+- [Why Go Is A Minimalist Language • The Applied Go Weekly Newsletter 2025-09-07](https://newsletter.appliedgo.net/archive/2025-09-07-why-go-is-a-minimalist-language/) 👤 The Applied Go Weekly Newsletter 💬 1670 🔖 #go 🗓️ 2025-09-08
+    > **Резюме:** Go is a minimalist programming language that avoids needless complexity.  
+It offers a small core, a rich standard library, fast garbage collection, single-file binaries, and simple tooling.  
+This helps developers build simpler systems and skip unnecessary infrastructure and dependencies.
 - [Commit Messages That Write Themselves](https://newsletter.appliedgo.net/archive/2025-08-17-commit-messages-that-write-themselves/) 👤 The Applied Go Weekly Newsletter 💬 1485 🔖 #go, #git 🗓️ 2025-08-17
     > **Резюме:** A small Go tool reads your staged git diff and uses an LLM to generate Conventional Commit messages.  
 It uses LangChainGo so you can swap providers, asks the model for JSON output, and caps diffs to save tokens.  
 This issue wraps up the Go & AI mini‑series and asks readers to take a short feedback survey.
 - [Blue Gopher Meets Stochastic Parrot • The Applied Go Weekly Newsletter 2025-08-10](https://newsletter.appliedgo.net/archive/2025-08-10-blue-gopher-meets-stochastic-parrot/) 👤 The Applied Go Weekly Newsletter 💬 1872 🔖 #go 🗓️ 2025-08-12
     > **Резюме:** Go programming language is becoming popular for building AI tools and apps because it works well with large language models (LLMs). There are many Go libraries and applications like LangChainGo, MCP Go SDK, Ollama, and LocalAI that help developers use AI easily. These tools make AI development simpler and let Go programmers create powerful AI-driven software.
-- [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #postgresql 🗓️ 2025-08-10
+- [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #testing, #postgresql 🗓️ 2025-08-10
     > **Заметка:** From Thorsten Ball interview
     > **Резюме:** This article explains how to use ephemeral PostgreSQL instances for automated testing in Go, which can reduce resource usage and speed up test times. By starting a single PostgreSQL instance for all tests instead of multiple instances, developers can improve efficiency and maintainability. Additionally, optimizing the Go test caching behavior can further decrease test runtime significantly.
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) 👤 Redowan Delowar 💬 1179 🔖 #go 🗓️ 2025-08-04

@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 222
+- Всего ссылок: 224
 
 ## Ссылки
 
@@ -25,7 +25,7 @@ I rederived the circle math, fixed a tricky sign error, and learned that doing t
     > **Резюме:** Cursor rules and MCP prompts are non-deterministic and cannot guarantee secure code.  
 Hook your existing security scanners into the build/CI so every agent run must pass deterministic checks.  
 That forces agents to iterate until scans pass and makes security a practice, not an LLM trick.
-- [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html) 👤 matklad.github.io 💬 1470 🔖 #llm 🗓️ 2025-09-01
+- [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html) 👤 matklad.github.io 💬 1470 🔖 #llm, #testing 🗓️ 2025-09-01
     > **Резюме:** Alex built terminal-editor, a VS Code extension that runs a shell inside an editable buffer using LLMs.  
 His workflow: write plan.md, convert it to a mutable spec.md, and use fast end-to-end tests so the LLM can iterate reliably.  
 LLMs lower the cost of building tools but still need good testing and design for long-term maintenance.
@@ -90,6 +90,8 @@ The Futzing Fraction measures whether using the AI yields net time saved or net 
 Even with optimistic numbers, retries and propagated mistakes can push the fraction above 1, making AI a net loss and harming human skills.
 - [Configuring GitHub Codespaces using devcontainers | Simon Willison’s TILs](https://til.simonwillison.net/github/codespaces-devcontainers) 👤 simonwillison.net 💬 619 🔖 #llm, #github, #codespaces, #devcontainer 🗓️ 2025-08-13
     > **Резюме:** GitHub Codespaces lets you create full development environments in your browser quickly and easily. You can customize these environments using a devcontainer configuration file to include tools like Python, Node.js, and VS Code extensions. This setup helps run workshops smoothly and gives free access to advanced AI models through GitHub tokens.
+- [AI’s Security Crisis: Why Your Assistant Might Betray You](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/ai-s-security-crisis-why-your-assistant-might-betray-you/) 👤 Last Week in AWS 💬 14730 🔖 #llm, #security 🗓️ 2025-08-13
+    > **Резюме:** AI tools have great potential but come with serious security risks, including possible major breaches soon. Experts like Simon emphasize that human skills and careful coding remain important despite AI advances. Open source AI helps many fields, but challenges like bias, hallucinations, and environmental impact need attention.
 - [AI is different](http://antirez.com/news/155) 👤 antirez.com 💬 454 🔖 #llm 🗓️ 2025-08-13
     > **Резюме:** AI is advancing quickly and can do many tasks humans used to do, like understanding language and finding code bugs. The future of AI is uncertain, but it could change the economy and how people work in big ways. This change might be very different from past technology shifts and could lead to a new economic system.
 - [The famous "bottomless pit" AI greentext is fake](https://seangoedecke.com/bottomless-pit/) 👤 seangoedecke.com 💬 585 🔖 #llm 🗓️ 2025-08-13
@@ -114,6 +116,8 @@ Even with optimistic numbers, retries and propagated mistakes can push the fract
     > **Резюме:** Artificial Intelligence can process large amounts of information but cannot truly understand or think like humans. Using AI to take notes can harm comprehension because note-taking is about making personal connections and understanding, not just copying or summarizing. Relying on AI for notes makes you passive and stops you from learning deeply or thinking creatively.
 - [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/?utm_source=tldrwebdev) 👤 Jerop Kipruto 💬 638 🔖 #cli, #llm, #try 🗓️ 2025-08-08
     > **Резюме:** Gemini CLI GitHub Actions is a free AI tool that helps teams automate coding tasks like issue triage and pull request reviews. It works in the background on GitHub and can be controlled by simple commands. The tool is secure, customizable, and available now in beta for developers worldwide.
+- [Trusting your own judgement on ‘AI’ is a huge risk](https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/) 👤 baldurbjarnason.com 💬 3600 🔖 #llm 🗓️ 2025-08-07
+    > **Резюме:** Trusting your own judgement about AI is risky because cognitive biases can trick even smart people. Self-experimentation with AI tools often leads to false beliefs and poor decisions. It is safer to wait for careful, impartial research before accepting claims about AI.
 - [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/#atom-everything) 👤 Simon Willison 💬 1864 🔖 #llm 🗓️ 2025-08-07
     > **Заметка:** Обзор выпущенного сегодня GPT-5 от Саймона, на основе двухнедельного опыта использования.
     > **Резюме:** GPT-5 is a powerful new model family that uses smart routing to handle different tasks and levels of reasoning. It improves safety, reduces errors, and focuses on writing, coding, and health use cases. However, its API does not show visible thinking steps, unlike the ChatGPT interface.
