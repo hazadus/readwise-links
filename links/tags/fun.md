@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 8
 
 ## Ссылки
 
+- [i ran Claude in a loop for three months, and it created a genz programming language called cursed](https://ghuntley.com/cursed/) 👤 Geoffrey Huntley 💬 1114 🔖 #fun, #llm 🗓️ 2025-09-09
+    > **Резюме:** A programmer spent three months using the AI Claude to create a new Gen Z-themed programming language called "cursed." The language swaps traditional coding words with slang and can compile programs on multiple platforms. The project is open-source and aims to grow with community help and more AI-driven development.
 - [Fuck Everything, We're Doing Five Blades](https://theonion.com/fuck-everything-were-doing-five-blades-1819584036/?utm_source=substack&utm_medium=email) 👤 The Onion Staff 💬 787 🔖 #fun, #joyandcuriosity 🗓️ 2025-08-31
     > **Резюме:** They lost the blade race and decided to go to five blades.  
 The boss orders wild engineering, extra aloe strips, and loud ads.  

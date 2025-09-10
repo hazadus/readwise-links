@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 224
+- Всего ссылок: 225
 
 ## Ссылки
 
+- [i ran Claude in a loop for three months, and it created a genz programming language called cursed](https://ghuntley.com/cursed/) 👤 Geoffrey Huntley 💬 1114 🔖 #fun, #llm 🗓️ 2025-09-09
+    > **Резюме:** A programmer spent three months using the AI Claude to create a new Gen Z-themed programming language called "cursed." The language swaps traditional coding words with slang and can compile programs on multiple platforms. The project is open-source and aims to grow with community help and more AI-driven development.
 - [LLM as Pair?](https://ronjeffries.com/articles/-w025/y/v/) 👤 ronjeffries.com 💬 1517 🔖 #llm 🗓️ 2025-09-06
     > **Резюме:** LLMs can work like pair programmers: helpful, patient, and idea-sparking.  
 They can make work easier or more enjoyable and sometimes boost productivity.  

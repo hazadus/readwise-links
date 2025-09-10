@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 55
+- Всего ссылок: 56
 
 ## Ссылки
 
+- [Why I Delete Every Unanswered Email, Every Month](https://www.joanwestenberg.com/p/why-i-delete-every-unanswered-email-every-month) 👤 Joan Westenberg 💬 1372 🗓️ 2025-09-09
+    > **Резюме:** The author deletes every unanswered email at the end of each month. She rejects the pressure to always reply and protects time for deep work. Important messages will return; most emails are not worth the cost.
 - [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html) 👤 matklad.github.io 💬 4435 🗓️ 2025-09-08
     > **Резюме:** Testing helps keep software working when making changes. Good tests focus on features, not code details, and should be easy to update. Slow or flaky tests make refactoring hard, so testing speed and reliability matter a lot.
 - [Vibe coding is not the same as AI-Assisted engineering.](https://addyo.substack.com/p/vibe-coding-is-not-the-same-as-ai) 👤 Addy Osmani 💬 5554 🗓️ 2025-09-05
