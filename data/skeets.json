@@ -21,7 +21,8 @@
         "01k3t1vjxsa5jy2z0ptq11sxz2",
         "01k3t1pdk26gsb3n8abvrcsnpm",
         "01k3yevcmqw75y13p9e3ybfbch",
-        "01k4cb1faxh3wvqsj2h9jjcevb"
+        "01k4cb1faxh3wvqsj2h9jjcevb",
+        "01k4spvtwe7g09wp03t9z1qztg"
     ],
     "skeets": [
         {
@@ -155,6 +156,12 @@
             "document_title": "Highlighted tools",
             "source_url": "https://simonwillison.net/2025/Sep/4/highlighted-tools/#atom-everything",
             "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3ly5mi4ad2q24"
+        },
+        {
+            "document_id": "01k4spvtwe7g09wp03t9z1qztg",
+            "document_title": "Hollow Knight: Silksong: Обзор игры, которую хочется полюбить",
+            "source_url": "https://stopgame.ru/show/152088/hollow_knight_silksong_review_igry_kotoruyu_hochetsya_polyubit",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lyk6vra67d2w"
         }
     ]
 }
