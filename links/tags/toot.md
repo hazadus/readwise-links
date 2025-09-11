@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 22
+- Всего ссылок: 23
 
 ## Ссылки
 
+- [Hollow Knight: Silksong: Обзор игры, которую хочется полюбить](https://stopgame.ru/show/152088/hollow_knight_silksong_review_igry_kotoruyu_hochetsya_polyubit) 👤 Алексей Лихачев 💬 2325 🔖 #game, #toot 🗓️ 2025-09-10
+    > **Заметка:** Один из самых важных релизов года
+    > **Резюме:** Silksong — красивая, хардкорная и долгоожидаемая игра.  
+Бои жесткие: боссы отнимают по две маски и часто летают, поэтому нужны точность и тактика.  
+Исследование и музыка радуют, но награды посредственные, и игра вряд ли повторит культовый успех оригинала.
 - [Highlighted tools](https://simonwillison.net/2025/Sep/4/highlighted-tools/#atom-everything) 👤 Simon Willison 💬 743 🔖 #llm, #toot, #inspiration, #programming 🗓️ 2025-09-05
     > **Заметка:** Саймон рассказывает о своих многочисленных кастомных инструментах. Вдохновляющий материал!
     > **Резюме:** Simon Willison shares a big collection of small web tools built with vibe coding and AI help. He highlights useful ones like in-browser OCR, an annotated presentation creator, image crop/resize tools, Jina Reader, and an LLM pricing calculator. He used OpenAI Codex to add JavaScript that auto-expands a tool’s development history from the URL.

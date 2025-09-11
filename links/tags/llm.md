@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 225
+- Всего ссылок: 226
 
 ## Ссылки
 
+- [The whole point of OpenAI's Responses API is to help them hide reasoning traces](https://seangoedecke.com/responses-api/) 👤 seangoedecke.com 💬 781 🔖 #llm 🗓️ 2025-09-10
+    > **Резюме:** OpenAI’s new Responses API hides the model’s reasoning steps by keeping them on the server side. This lets OpenAI maintain secret chains of thought that the older stateless chat API can’t show. The Responses API exists mainly to work around this secrecy, not because it is simpler or better.
 - [i ran Claude in a loop for three months, and it created a genz programming language called cursed](https://ghuntley.com/cursed/) 👤 Geoffrey Huntley 💬 1114 🔖 #fun, #llm 🗓️ 2025-09-09
     > **Резюме:** A programmer spent three months using the AI Claude to create a new Gen Z-themed programming language called "cursed." The language swaps traditional coding words with slang and can compile programs on multiple platforms. The project is open-source and aims to grow with community help and more AI-driven development.
 - [LLM as Pair?](https://ronjeffries.com/articles/-w025/y/v/) 👤 ronjeffries.com 💬 1517 🔖 #llm 🗓️ 2025-09-06

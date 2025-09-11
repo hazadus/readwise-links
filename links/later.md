@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 56
+- Всего ссылок: 58
 
 ## Ссылки
 
+- [The whole point of OpenAI's Responses API is to help them hide reasoning traces](https://seangoedecke.com/responses-api/) 👤 seangoedecke.com 💬 781 🔖 #llm 🗓️ 2025-09-10
+    > **Резюме:** OpenAI’s new Responses API hides the model’s reasoning steps by keeping them on the server side. This lets OpenAI maintain secret chains of thought that the older stateless chat API can’t show. The Responses API exists mainly to work around this secrecy, not because it is simpler or better.
+- [A new experimental Go API for JSON](https://go.dev/blog/jsonv2-exp) 👤 go.dev 💬 3099 🔖 #go 🗓️ 2025-09-10
+    > **Резюме:** Go 1.25 introduces an experimental JSON API with encoding/json/v2 and encoding/json/jsontext to improve JSON handling in Go. These new packages offer better streaming, performance, and customization compared to the original encoding/json. The goal is to eventually replace the old API while keeping backward compatibility and involving the Go community.
 - [Why I Delete Every Unanswered Email, Every Month](https://www.joanwestenberg.com/p/why-i-delete-every-unanswered-email-every-month) 👤 Joan Westenberg 💬 1372 🗓️ 2025-09-09
     > **Резюме:** The author deletes every unanswered email at the end of each month. She rejects the pressure to always reply and protects time for deep work. Important messages will return; most emails are not worth the cost.
 - [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html) 👤 matklad.github.io 💬 4435 🗓️ 2025-09-08

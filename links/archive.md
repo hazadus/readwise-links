@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1006
+- Всего ссылок: 1007
 
 ## Ссылки
 
+- [Hollow Knight: Silksong: Обзор игры, которую хочется полюбить](https://stopgame.ru/show/152088/hollow_knight_silksong_review_igry_kotoruyu_hochetsya_polyubit) 👤 Алексей Лихачев 💬 2325 🔖 #game, #toot 🗓️ 2025-09-10
+    > **Заметка:** Один из самых важных релизов года
 - [i ran Claude in a loop for three months, and it created a genz programming language called cursed](https://ghuntley.com/cursed/) 👤 Geoffrey Huntley 💬 1114 🔖 #fun, #llm 🗓️ 2025-09-09
 - ['Make invalid states representable' considered harmful](https://seangoedecke.com/invalid-states/) 👤 seangoedecke.com 💬 2050 🔖 #softwaredesign 🗓️ 2025-09-08
 - [You can try to like stuff](https://dynomight.net/liking/?utm_source=substack&utm_medium=email) 👤 DYNOMIGHT 💬 1099 🔖 #joyandcuriosity 🗓️ 2025-09-07

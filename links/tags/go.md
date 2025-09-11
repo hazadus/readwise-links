@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 222
+- Всего ссылок: 223
 
 ## Ссылки
 
+- [A new experimental Go API for JSON](https://go.dev/blog/jsonv2-exp) 👤 go.dev 💬 3099 🔖 #go 🗓️ 2025-09-10
+    > **Резюме:** Go 1.25 introduces an experimental JSON API with encoding/json/v2 and encoding/json/jsontext to improve JSON handling in Go. These new packages offer better streaming, performance, and customization compared to the original encoding/json. The goal is to eventually replace the old API while keeping backward compatibility and involving the Go community.
 - [Why Go Is A Minimalist Language • The Applied Go Weekly Newsletter 2025-09-07](https://newsletter.appliedgo.net/archive/2025-09-07-why-go-is-a-minimalist-language/) 👤 The Applied Go Weekly Newsletter 💬 1670 🔖 #go 🗓️ 2025-09-08
     > **Резюме:** Go is a minimalist programming language that avoids needless complexity.  
 It offers a small core, a rich standard library, fast garbage collection, single-file binaries, and simple tooling.  
