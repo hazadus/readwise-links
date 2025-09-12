@@ -22,7 +22,9 @@
         "01k3t1pdk26gsb3n8abvrcsnpm",
         "01k3yevcmqw75y13p9e3ybfbch",
         "01k4cb1faxh3wvqsj2h9jjcevb",
-        "01k4spvtwe7g09wp03t9z1qztg"
+        "01k4spvtwe7g09wp03t9z1qztg",
+        "01k4w2ba0wxgc4rfqfe5e64ary",
+        "01k4w1qn2vw10kqymh1t0nm8wq"
     ],
     "toots": [
         {
@@ -162,6 +164,18 @@
             "document_title": "Hollow Knight: Silksong: Обзор игры, которую хочется полюбить",
             "source_url": "https://stopgame.ru/show/152088/hollow_knight_silksong_review_igry_kotoruyu_hochetsya_polyubit",
             "toot_url": "https://fosstodon.org/@hazadus/115184373573328434"
+        },
+        {
+            "document_id": "01k4w2ba0wxgc4rfqfe5e64ary",
+            "document_title": "AI as teleportation",
+            "source_url": "https://www.geoffreylitt.com/2025/09/10/ai-as-teleportation",
+            "toot_url": "https://fosstodon.org/@hazadus/115190036027082042"
+        },
+        {
+            "document_id": "01k4w1qn2vw10kqymh1t0nm8wq",
+            "document_title": "I Replaced Animal Crossing's Dialogue with a Live LLM by Hacking GameCube Memory",
+            "source_url": "https://simonwillison.net/2025/Sep/10/animal-crossing-llm/#atom-everything",
+            "toot_url": "https://fosstodon.org/@hazadus/115190036049463229"
         }
     ]
 }
