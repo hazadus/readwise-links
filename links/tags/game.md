@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [I Replaced Animal Crossing's Dialogue with a Live LLM by Hacking GameCube Memory](https://simonwillison.net/2025/Sep/10/animal-crossing-llm/#atom-everything) 👤 Simon Willison 💬 343 🔖 #llm, #game, #toot 🗓️ 2025-09-11
+    > **Заметка:** Очень творческий мод для старой игрушки, браво!
+    > **Резюме:** A hacker made Animal Crossing on GameCube use a live language model to create new character dialogue. They did this by reading and changing the game’s memory in real-time while pausing the game for the AI to respond. The project uses clever prompts to make the characters talk about their town’s economy and includes special effects for more natural conversations.
 - [Hollow Knight: Silksong: Обзор игры, которую хочется полюбить](https://stopgame.ru/show/152088/hollow_knight_silksong_review_igry_kotoruyu_hochetsya_polyubit) 👤 Алексей Лихачев 💬 2325 🔖 #game, #toot 🗓️ 2025-09-10
     > **Заметка:** Один из самых важных релизов года
     > **Резюме:** Silksong — красивая, хардкорная и долгоожидаемая игра.  

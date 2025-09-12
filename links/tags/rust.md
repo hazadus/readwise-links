@@ -4,7 +4,8 @@
 
 ## Ссылки
 
-- [Mac toolbar widgets with xbar and rust](https://blog.korny.info/2025/01/18/toolbar-widgets-with-xbar-and-rust) 👤 Korny Sietsma 💬 779 🔖 #rust 🗓️ 2025-08-14
+- [Mac toolbar widgets with xbar and rust](https://blog.korny.info/2025/01/18/toolbar-widgets-with-xbar-and-rust) 👤 Korny Sietsma 💬 779 🔖 #rust, #macos, #inspiration 🗓️ 2025-08-14
+    > **Заметка:** Интересная тулза для доступа к произвольным скриптам из трея
     > **Резюме:** XBar is a simple Mac tool that shows small widgets on the toolbar using scripts. The author explains how to write plugins in Rust using rust-script, which compiles and runs Rust code like a script. They also share examples, including a clock widget and a music player controller.
 - [C++ to Rust Cheat-Sheet](https://corrode.dev/learn/migration-guides/cpp-to-rust/) 👤 Corrode Rust Consulting 💬 869 🔖 #rust 🗓️ 2025-05-18
     > **Резюме:** The "C++ to Rust Cheat-Sheet" by Matthias Endler helps C++ developers quickly compare syntax and constructs with Rust. It includes examples for various programming features like variable declarations and function implementations. This guide is a useful reference for those transitioning from C++ to Rust.

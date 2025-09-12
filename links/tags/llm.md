@@ -1,9 +1,19 @@
 # Ссылки
 
-- Всего ссылок: 226
+- Всего ссылок: 229
 
 ## Ссылки
 
+- [AI as teleportation](https://www.geoffreylitt.com/2025/09/10/ai-as-teleportation) 👤 geoffreylitt.com 💬 1017 🔖 #llm, #toot 🗓️ 2025-09-11
+    > **Заметка:** Красивая аналогия с телепортацией. Есть над чем задуматься!
+    > **Резюме:** AI is like teleportation: it makes things instant and brings clear benefits.  
+But it also erases frictions that create chance encounters, skill, and meaning.  
+We should welcome AI while keeping some deliberate frictions to protect what matters.
+- [Claude API: Web fetch tool](https://simonwillison.net/2025/Sep/10/claude-web-fetch-tool/#atom-everything) 👤 Simon Willison 💬 404 🔖 #llm 🗓️ 2025-09-11
+    > **Резюме:** Claude API now has a web fetch tool that can get content from specific URLs you provide. It limits URL access to those shown in the conversation but still risks data leaks from user input. Using domain allow-lists helps make the tool safer for trusted use cases.
+- [I Replaced Animal Crossing's Dialogue with a Live LLM by Hacking GameCube Memory](https://simonwillison.net/2025/Sep/10/animal-crossing-llm/#atom-everything) 👤 Simon Willison 💬 343 🔖 #llm, #game, #toot 🗓️ 2025-09-11
+    > **Заметка:** Очень творческий мод для старой игрушки, браво!
+    > **Резюме:** A hacker made Animal Crossing on GameCube use a live language model to create new character dialogue. They did this by reading and changing the game’s memory in real-time while pausing the game for the AI to respond. The project uses clever prompts to make the characters talk about their town’s economy and includes special effects for more natural conversations.
 - [The whole point of OpenAI's Responses API is to help them hide reasoning traces](https://seangoedecke.com/responses-api/) 👤 seangoedecke.com 💬 781 🔖 #llm 🗓️ 2025-09-10
     > **Резюме:** OpenAI’s new Responses API hides the model’s reasoning steps by keeping them on the server side. This lets OpenAI maintain secret chains of thought that the older stateless chat API can’t show. The Responses API exists mainly to work around this secrecy, not because it is simpler or better.
 - [i ran Claude in a loop for three months, and it created a genz programming language called cursed](https://ghuntley.com/cursed/) 👤 Geoffrey Huntley 💬 1114 🔖 #fun, #llm 🗓️ 2025-09-09
