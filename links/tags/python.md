@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [What's up Python? Astral never stops, JetBrains gives us insights](https://www.bitecode.dev/p/whats-up-python-astral-never-stops) 👤 Bite Code 💬 2457 🔖 #python 🗓️ 2025-09-06
+- [What's up Python? Astral never stops, JetBrains gives us insights](https://www.bitecode.dev/p/whats-up-python-astral-never-stops) 👤 Bite Code! 💬 2473 🔖 #python 🗓️ 2025-09-06
     > **Резюме:** Astral launched pyx and made uv a general Python installer that can shadow the user’s system Python.  
 The JetBrains survey shows Python is still the top choice for teaching and for data, web, and ML work, with FastAPI, pandas, scikit-learn, VSCode and PyCharm leading.  
 Other news: PyPI tightened security, Google sunset pytype, and macOS Intel Python support was downgraded.
