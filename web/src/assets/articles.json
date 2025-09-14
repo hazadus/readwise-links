@@ -1,5 +1,71 @@
 [
     {
+        "id": "01k51c0q7ks4dj2zf1aedgbcf3",
+        "url": "https://read.readwise.io/read/01k51c0q7ks4dj2zf1aedgbcf3",
+        "source_url": "https://wsvincent.com/i-miss-tabs-vs-spaces/",
+        "title": "I Miss Tabs vs Spaces... And Other AI Musings",
+        "author": "William Vincent",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1757761530626
+            }
+        },
+        "site_name": "wsvincent.com",
+        "word_count": 1304,
+        "notes": "",
+        "summary": "Tabs versus spaces feels tiny next to the questions about AI. Developers use local models and agents to work faster, but they can hallucinate and need careful prompts. AI will change work and the economy, but it won’t replace human understanding and is often overhyped.",
+        "image_url": "https://wsvincent.com/assets/images/headshot_smile_smaller.jpg",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-09-30",
+        "created_at": "2025-09-13T11:05:27.044376+00:00",
+        "updated_at": "2025-09-13T11:05:34.198394+00:00",
+        "saved_at": "2025-09-13T11:05:27.027000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-09-13T11:05:27.027000+00:00"
+    },
+    {
+        "id": "01k51btdwmcx0d30rg6114rsnn",
+        "url": "https://read.readwise.io/read/01k51btdwmcx0d30rg6114rsnn",
+        "source_url": "https://blog.korny.info/2025/09/12/agentic-ai-and-security",
+        "title": "Agentic AI and Security",
+        "author": "Korny Sietsma",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1757761325595
+            }
+        },
+        "site_name": "Korny's Blog",
+        "word_count": 2746,
+        "notes": "",
+        "summary": "Agentic AI are LLM tools that act on their own and can run commands you did not write.  \nThey are most dangerous when they can access private data, read untrusted content, and talk to the outside world.  \nLimit agents’ external communication and access to public or untrusted content, and avoid agentic browser extensions and untrusted MCP servers.",
+        "image_url": null,
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-09-12",
+        "created_at": "2025-09-13T11:02:00.872035+00:00",
+        "updated_at": "2025-09-13T11:02:16.182381+00:00",
+        "saved_at": "2025-09-13T11:02:00.852000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-09-13T11:02:00.852000+00:00"
+    },
+    {
         "id": "01k5011n87ghhnkv23zhnznh26",
         "url": "https://read.readwise.io/read/01k5011n87ghhnkv23zhnznh26",
         "source_url": "https://shmck.substack.com/p/claude-code-framework-wars?utm_source=tldrwebdev",
@@ -11608,10 +11674,10 @@
         "html_content": null,
         "published_date": "2023-10-23",
         "created_at": "2025-07-27T20:24:33.153656+00:00",
-        "updated_at": "2025-09-07T21:17:45.222494+00:00",
+        "updated_at": "2025-09-13T14:11:41.019478+00:00",
         "saved_at": "2025-07-27T20:24:33.083000+00:00",
-        "first_opened_at": "2025-09-07T21:17:42.238000+00:00",
-        "last_opened_at": "2025-09-07T21:17:42.238000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
         "last_moved_at": "2025-07-29T04:58:47.811000+00:00"
     },
     {
