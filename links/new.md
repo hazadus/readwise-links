@@ -1,9 +1,12 @@
 # Новые ссылки
 
-- Всего ссылок: 851
+- Всего ссылок: 854
 
 ## Ссылки
 
+- [Tom's Philosophy Of Project Management For Software Development](https://www.tomdalling.com/blog/software-processes/toms-philosophy-of-project-management-for-software-development/?utm_source=rss&utm_medium=rss) 👤 tomdalling.com 💬 738 🗓️ 2025-09-14
+- [Test state, not interactions](http://rednafi.com/go/test_state_not_interactions/) 👤 Redowan Delowar 💬 1542 🗓️ 2025-09-14
+- [Why I Switched Back From VS Code to IntelliJ IDEA: A Developer's Journey](https://mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij-idea) 👤 Michael Hoffmann 💬 1310 🗓️ 2025-09-14
 - [I Miss Tabs vs Spaces... And Other AI Musings](https://wsvincent.com/i-miss-tabs-vs-spaces/) 👤 William Vincent 💬 1304 🔖 #llm 🗓️ 2025-09-13
 - [Agentic AI and Security](https://blog.korny.info/2025/09/12/agentic-ai-and-security) 👤 Korny Sietsma 💬 2746 🔖 #llm 🗓️ 2025-09-13
 - [Claude Code Framework Wars](https://shmck.substack.com/p/claude-code-framework-wars?utm_source=tldrwebdev) 👤 Shawn 💬 917 🗓️ 2025-09-12
