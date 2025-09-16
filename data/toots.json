@@ -24,7 +24,8 @@
         "01k4cb1faxh3wvqsj2h9jjcevb",
         "01k4spvtwe7g09wp03t9z1qztg",
         "01k4w2ba0wxgc4rfqfe5e64ary",
-        "01k4w1qn2vw10kqymh1t0nm8wq"
+        "01k4w1qn2vw10kqymh1t0nm8wq",
+        "01k4ytdsk9z2ryr6epnhnc4nc6"
     ],
     "toots": [
         {
@@ -176,6 +177,12 @@
             "document_title": "I Replaced Animal Crossing's Dialogue with a Live LLM by Hacking GameCube Memory",
             "source_url": "https://simonwillison.net/2025/Sep/10/animal-crossing-llm/#atom-everything",
             "toot_url": "https://fosstodon.org/@hazadus/115190036049463229"
+        },
+        {
+            "document_id": "01k4ytdsk9z2ryr6epnhnc4nc6",
+            "document_title": "Abundance Now",
+            "source_url": "https://www.joanwestenberg.com/p/abundance-now",
+            "toot_url": "https://fosstodon.org/@hazadus/115212685464339680"
         }
     ]
 }
