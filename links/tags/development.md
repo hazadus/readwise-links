@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 62
+- Всего ссылок: 63
 
 ## Ссылки
 
+- [Many years on the job and I still don't get it.](https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/) 👤 Dave Rupert 💬 204 🔖 #career, #development 🗓️ 2025-09-12
+    > **Резюме:** After nearly 20 years in web development, I still sometimes judge my worth by how much code I write.  
+The job also includes many noncoding tasks: emails, meetings, docs, reviews, ops, learning, and helping teammates.  
+All of that counts, even when it’s hard to measure, so don’t be so hard on yourself.
 - [Seeing like a software company](https://seangoedecke.com/seeing-like-a-software-company/) 👤 seangoedecke.com 💬 3485 🔖 #leaddev, #estimation, #management, #development 🗓️ 2025-09-03
     > **Резюме:** Large software companies build processes to make work legible.  
 Legibility helps planning, coordination, and making deals but slows delivery.  

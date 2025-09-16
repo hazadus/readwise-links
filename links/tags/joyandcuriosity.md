@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 23
+- Всего ссылок: 24
 
 ## Ссылки
 
+- [Being good isn’t enough](https://joshs.bearblog.dev/being-good-isnt-enough/?utm_source=tldrwebdev) 👤 people, ideas, machines 💬 598 🔖 #joyandcuriosity 🗓️ 2025-09-15
+    > **Резюме:** Being good at your craft is necessary but won’t make you stand out forever.  
+Grow product thinking, project execution, and people skills, and use feedback and humility to find your weakest area.  
+Choose agency: lead, share your work, act on feedback, and make things happen.
 - [You can try to like stuff](https://dynomight.net/liking/?utm_source=substack&utm_medium=email) 👤 DYNOMIGHT 💬 1099 🔖 #joyandcuriosity 🗓️ 2025-09-07
     > **Резюме:** Try liking things you don’t like to learn about yourself.  
 Telling yourself little stories or reframing can make many dislikes enjoyable.  

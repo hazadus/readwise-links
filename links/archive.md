@@ -1,9 +1,15 @@
 # Архивные ссылки
 
-- Всего ссылок: 1014
+- Всего ссылок: 1019
 
 ## Ссылки
 
+- [Models can prompt now](https://simonwillison.net/2025/Sep/14/models-can-prompt/#atom-everything) 👤 Simon Willison 💬 177 🔖 #llm 🗓️ 2025-09-15
+- [What’s a Foreigner?](https://lucumr.pocoo.org/2025/9/14/whats-an-foreigner/) 👤 Armin Ronacher 💬 691 🗓️ 2025-09-15
+- [Comparing the memory implementations of Claude and ChatGPT](https://simonwillison.net/2025/Sep/12/claude-memory/#atom-everything) 👤 Simon Willison 💬 416 🔖 #llm 🗓️ 2025-09-12
+- [Abundance Now](https://www.joanwestenberg.com/p/abundance-now) 👤 Joan Westenberg 💬 1038 🔖 #toot 🗓️ 2025-09-12
+    > **Заметка:** "Abundance is a moral trial greater than scarcity. Scarcity disciplines. It forces you to structure life around what must be done. Abundance tempts you to dissolve into sloth, grievance, resentment. The great danger of our era is not deprivation. It’s decadence."
+- [Many years on the job and I still don't get it.](https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/) 👤 Dave Rupert 💬 204 🔖 #career, #development 🗓️ 2025-09-12
 - [Defeating Nondeterminism in LLM Inference](https://simonwillison.net/2025/Sep/11/defeating-nondeterminism/#atom-everything) 👤 Simon Willison 💬 277 🗓️ 2025-09-11
 - [AI as teleportation](https://www.geoffreylitt.com/2025/09/10/ai-as-teleportation) 👤 geoffreylitt.com 💬 1017 🔖 #llm, #toot 🗓️ 2025-09-11
     > **Заметка:** Красивая аналогия с телепортацией. Есть над чем задуматься!

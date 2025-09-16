@@ -1,15 +1,21 @@
 # Ссылки
 
-- Всего ссылок: 231
+- Всего ссылок: 233
 
 ## Ссылки
 
+- [Models can prompt now](https://simonwillison.net/2025/Sep/14/models-can-prompt/#atom-everything) 👤 Simon Willison 💬 177 🔖 #llm 🗓️ 2025-09-15
+    > **Резюме:** Modern AI models can now write prompts for themselves and others. This skill has improved because they learned from many good examples recently. The author believes this change is real, even without strong proof yet.
 - [I Miss Tabs vs Spaces... And Other AI Musings](https://wsvincent.com/i-miss-tabs-vs-spaces/) 👤 William Vincent 💬 1304 🔖 #llm 🗓️ 2025-09-13
     > **Резюме:** Tabs versus spaces feels tiny next to the questions about AI. Developers use local models and agents to work faster, but they can hallucinate and need careful prompts. AI will change work and the economy, but it won’t replace human understanding and is often overhyped.
 - [Agentic AI and Security](https://blog.korny.info/2025/09/12/agentic-ai-and-security) 👤 Korny Sietsma 💬 2746 🔖 #llm 🗓️ 2025-09-13
     > **Резюме:** Agentic AI are LLM tools that act on their own and can run commands you did not write.  
 They are most dangerous when they can access private data, read untrusted content, and talk to the outside world.  
 Limit agents’ external communication and access to public or untrusted content, and avoid agentic browser extensions and untrusted MCP servers.
+- [Comparing the memory implementations of Claude and ChatGPT](https://simonwillison.net/2025/Sep/12/claude-memory/#atom-everything) 👤 Simon Willison 💬 416 🔖 #llm 🗓️ 2025-09-12
+    > **Резюме:** Claude starts each chat with a blank slate and only uses memory when you explicitly enable it.  
+Its memory is just visible tools that search your raw past conversations, so you are shown when context is accessed.  
+ChatGPT instead automatically adds recent user messages to new chats but omits assistant replies, reducing the risk of carrying over bad assistant context.
 - [AI as teleportation](https://www.geoffreylitt.com/2025/09/10/ai-as-teleportation) 👤 geoffreylitt.com 💬 1017 🔖 #llm, #toot 🗓️ 2025-09-11
     > **Заметка:** Красивая аналогия с телепортацией. Есть над чем задуматься!
     > **Резюме:** AI is like teleportation: it makes things instant and brings clear benefits.  

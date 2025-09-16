@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 25
+- Всего ссылок: 26
 
 ## Ссылки
 
+- [Abundance Now](https://www.joanwestenberg.com/p/abundance-now) 👤 Joan Westenberg 💬 1038 🔖 #toot 🗓️ 2025-09-12
+    > **Заметка:** "Abundance is a moral trial greater than scarcity. Scarcity disciplines. It forces you to structure life around what must be done. Abundance tempts you to dissolve into sloth, grievance, resentment. The great danger of our era is not deprivation. It’s decadence."
+    > **Резюме:** We have more food, knowledge, and energy than ever before.  
+Still, many act as if there is never enough and feel empty.  
+Abundance requires new habits—gratitude, moderation, and purpose—or our poverty will be inside us.
 - [AI as teleportation](https://www.geoffreylitt.com/2025/09/10/ai-as-teleportation) 👤 geoffreylitt.com 💬 1017 🔖 #llm, #toot 🗓️ 2025-09-11
     > **Заметка:** Красивая аналогия с телепортацией. Есть над чем задуматься!
     > **Резюме:** AI is like teleportation: it makes things instant and brings clear benefits.  

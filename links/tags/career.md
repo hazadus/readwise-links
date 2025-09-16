@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 53
+- Всего ссылок: 54
 
 ## Ссылки
 
+- [Many years on the job and I still don't get it.](https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/) 👤 Dave Rupert 💬 204 🔖 #career, #development 🗓️ 2025-09-12
+    > **Резюме:** After nearly 20 years in web development, I still sometimes judge my worth by how much code I write.  
+The job also includes many noncoding tasks: emails, meetings, docs, reviews, ops, learning, and helping teammates.  
+All of that counts, even when it’s hard to measure, so don’t be so hard on yourself.
 - [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) 👤 dadgum.com 💬 467 🔖 #career, #programming 🗓️ 2025-08-13
     > **Резюме:** Technical interviews often focus on complex algorithms, but most programming doesn't require this skill. The key to successful coding is organizing and managing complexity rather than mastering tricky data structures. Many programmers are self-taught and focus on practical problem-solving rather than theoretical knowledge.
 - [Do You Really Want to be Doing This When You're 50?](https://prog21.dadgum.com/154.html) 👤 prog21.dadgum.com 💬 495 🔖 #career 🗓️ 2025-08-13
