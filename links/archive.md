@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1019
+- Всего ссылок: 1022
 
 ## Ссылки
 
+- [GPT‑5-Codex and upgrades to Codex](https://simonwillison.net/2025/Sep/15/gpt-5-codex/#atom-everything) 👤 Simon Willison 💬 456 🔖 #llm 🗓️ 2025-09-16
 - [Models can prompt now](https://simonwillison.net/2025/Sep/14/models-can-prompt/#atom-everything) 👤 Simon Willison 💬 177 🔖 #llm 🗓️ 2025-09-15
 - [What’s a Foreigner?](https://lucumr.pocoo.org/2025/9/14/whats-an-foreigner/) 👤 Armin Ronacher 💬 691 🗓️ 2025-09-15
 - [Comparing the memory implementations of Claude and ChatGPT](https://simonwillison.net/2025/Sep/12/claude-memory/#atom-everything) 👤 Simon Willison 💬 416 🔖 #llm 🗓️ 2025-09-12
@@ -80,6 +81,8 @@
 - [A culture of experimentation](https://matthewmanela.com/blog/a-culture-of-experimentation/?utm_source=substack&utm_medium=email) 👤 Matthew Manela 💬 1052 🔖 #leaddev, #development, #joyandcuriosity 🗓️ 2025-08-17
 - [vibe coding is the fast fashion industry of software engineering](https://pdelboca.me/writings/2025/08/01/vibe-coding-fast-fashion.html?utm_source=substack&utm_medium=email) 👤 pdelboca.me 💬 824 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-17
 - [Why LLMs Can't Really Build Software](https://zed.dev/blog/why-llms-cant-build-software?utm_source=tldrwebdev) 👤 Conrad Irwin 💬 742 🔖 #llm 🗓️ 2025-08-16
+- [How LLMs See the World](https://blog.bytebytego.com/p/how-llms-see-the-world?utm_source=tldrwebdev) 👤 ByteByteGo 💬 1974 🔖 #llm 🗓️ 2025-08-16
+- [The Futzing Fraction](https://blog.glyph.im/2025/08/futzing-fraction.html) 👤 Glyph Lefkowitz 💬 5498 🔖 #llm 🗓️ 2025-08-16
 - [car brands running curl](https://daniel.haxx.se/blog/2025/08/15/car-brands-running-curl/) 👤 Daniel Stenberg 💬 660 🗓️ 2025-08-16
 - [Mac toolbar widgets with xbar and rust](https://blog.korny.info/2025/01/18/toolbar-widgets-with-xbar-and-rust) 👤 Korny Sietsma 💬 779 🔖 #rust, #macos, #inspiration 🗓️ 2025-08-14
     > **Заметка:** Интересная тулза для доступа к произвольным скриптам из трея

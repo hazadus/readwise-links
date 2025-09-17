@@ -1,30 +1,13 @@
 # Новые ссылки
 
-- Всего ссылок: 855
+- Всего ссылок: 838
 
 ## Ссылки
 
-- [How to Write "Garbage Code" (by Linus Torvalds)](https://read.engineerscodex.com/p/how-to-not-write-garbage-code-by?utm_source=tldrwebdev) 👤 Engineer's Codex 💬 830 🗓️ 2025-09-15
-- [Disposable Code Is Here to Stay, but Durable Code Is What Runs the World](https://www.honeycomb.io/blog/disposable-code-is-here-to-stay?utm_source=tldrwebdev) 👤 Honeycomb 💬 1870 🗓️ 2025-09-15
-- [Why Billionaire Productivity Hacks Won’t Work for You](https://www.joanwestenberg.com/p/why-billionaire-productivity-hacks-won-t-work-for-you) 👤 JA Westenberg 💬 1079 🗓️ 2025-09-15
-- [Linking to text fragments with a bookmarklet](https://alexwlchan.net/2025/text-fragments-bookmarklet/?ref=rss) 👤 alexwlchan.net 💬 223 🗓️ 2025-09-15
-- [Building a Simple Virtual Machine](https://blog.phakorn.com/posts/2025/building-a-simple-vm/) 👤 Phakorn Kiong 💬 2249 🗓️ 2025-09-15
-- [Tom's Philosophy Of Project Management For Software Development](https://www.tomdalling.com/blog/software-processes/toms-philosophy-of-project-management-for-software-development/?utm_source=rss&utm_medium=rss) 👤 tomdalling.com 💬 738 🗓️ 2025-09-14
-- [Test state, not interactions](http://rednafi.com/go/test_state_not_interactions/) 👤 Redowan Delowar 💬 1542 🗓️ 2025-09-14
-- [Why I Switched Back From VS Code to IntelliJ IDEA: A Developer's Journey](https://mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij-idea) 👤 Michael Hoffmann 💬 1310 🗓️ 2025-09-14
-- [I Miss Tabs vs Spaces... And Other AI Musings](https://wsvincent.com/i-miss-tabs-vs-spaces/) 👤 William Vincent 💬 1304 🔖 #llm 🗓️ 2025-09-13
-- [Agentic AI and Security](https://blog.korny.info/2025/09/12/agentic-ai-and-security) 👤 Korny Sietsma 💬 2746 🔖 #llm 🗓️ 2025-09-13
-- [Claude Code Framework Wars](https://shmck.substack.com/p/claude-code-framework-wars?utm_source=tldrwebdev) 👤 Shawn 💬 917 🗓️ 2025-09-12
-- [Why I Ditched Docker for Podman (And You Should Too)](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too?utm_source=tldrwebdev) 👤 Dominik Szymański 💬 2031 🗓️ 2025-09-12
-- [Being good isn’t enough](https://joshs.bearblog.dev/being-good-isnt-enough/?utm_source=tldrwebdev) 👤 people, ideas, machines 💬 598 🔖 #joyandcuriosity 🗓️ 2025-09-15
-- [Keeping Secrets Out of Logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/?utm_source=tldrwebdev) 👤 allan.reyes.sh 💬 6684 🗓️ 2025-09-12
-- [Tunneling SSH over HTTPS](https://blog.frost.kiwi/ssh-over-https-tunneling/) 👤 Wladislav Artsimovich 💬 7549 🗓️ 2025-09-12
-- [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/?utm_source=tldrwebdev) 👤 Wladislav Artsimovich 💬 5898 🗓️ 2025-09-12
-- [On Working with Wizards](https://www.oneusefulthing.org/p/on-working-with-wizards) 👤 Ethan Mollick 💬 2149 🗓️ 2025-09-12
+- [Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial](https://m.youtube.com/watch?v=Vs4hQsDpxww) 👤 freeCodeCamp.org 🔖 #try 🗓️ 2025-09-16
 - [Why Go Is A Minimalist Language • The Applied Go Weekly Newsletter 2025-09-07](https://newsletter.appliedgo.net/archive/2025-09-07-why-go-is-a-minimalist-language/) 👤 The Applied Go Weekly Newsletter 💬 1670 🔖 #go 🗓️ 2025-09-08
 - [Profiles in Visual Studio Code](https://code.visualstudio.com/docs/configure/profiles) 👤 Microsoft 💬 2964 🔖 #vscode 🗓️ 2025-09-03
 - [How to Back up Your GitHub Repositories](https://improveandrepeat.com/2025/09/how-to-back-up-your-github-repositories/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 616 🔖 #git, #try, #github 🗓️ 2025-09-02
-- [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) 👤 wikipedia.org 💬 12771 🗓️ 2025-09-01
 - [So you don't like Go? • The Applied Go Weekly Newsletter 2025-08-31](https://newsletter.appliedgo.net/archive/2025-08-31-so-you-dont-like-go/) 👤 The Applied Go Weekly Newsletter 💬 1435 🗓️ 2025-09-01
 - [Handle With Care • The Applied Go Weekly Newsletter 2025-08-24](https://newsletter.appliedgo.net/archive/2025-08-24-handle-with-care-llm-security/) 👤 The Applied Go Weekly Newsletter 💬 2128 🗓️ 2025-08-29
 - [Developing a Real-time Dashboard with Flask, Postgres, and Socket.IO](https://testdriven.io/blog/flask-postgres-socketio/) 👤 testdriven.io 💬 4439 🔖 #flask, #websocket 🗓️ 2025-08-29

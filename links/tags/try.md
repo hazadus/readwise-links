@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 52
+- Всего ссылок: 53
 
 ## Ссылки
 
+- [Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial](https://m.youtube.com/watch?v=Vs4hQsDpxww) 👤 freeCodeCamp.org 🔖 #try 🗓️ 2025-09-16
+    > **Резюме:** This tutorial shows how to build a web-based code editor with HTML, CSS, and JavaScript. You paste code into the HTML, CSS, and JS tabs and press Run to see a live preview. It explains the editor layout, default code, accessibility labels, and cursor placement.
 - [How to Back up Your GitHub Repositories](https://improveandrepeat.com/2025/09/how-to-back-up-your-github-repositories/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 616 🔖 #git, #try, #github 🗓️ 2025-09-02
     > **Резюме:** GitHub is convenient, but you should back up all your repositories. Create bare (or --mirror) clones to keep a full copy of each repo. Automate regular updates with a simple fetch script run by cron.
 - [JavaScript Tutorial with Three.js – 5 Projects for Beginners](https://www.youtube.com/watch?v=tPkJLnDqAKk) 👤 freeCodeCamp.org 🔖 #try, #three.js, #javascript 🗓️ 2025-08-28

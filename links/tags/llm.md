@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 233
+- Всего ссылок: 234
 
 ## Ссылки
 
+- [GPT‑5-Codex and upgrades to Codex](https://simonwillison.net/2025/Sep/15/gpt-5-codex/#atom-everything) 👤 Simon Willison 💬 456 🔖 #llm 🗓️ 2025-09-16
+    > **Резюме:** OpenAI released GPT-5-Codex, a new AI model designed to help with coding and code review. It is faster on simple tasks and better at refactoring and writing mobile-friendly code. The model is already in some tools but not yet available through the API.
 - [Models can prompt now](https://simonwillison.net/2025/Sep/14/models-can-prompt/#atom-everything) 👤 Simon Willison 💬 177 🔖 #llm 🗓️ 2025-09-15
     > **Резюме:** Modern AI models can now write prompts for themselves and others. This skill has improved because they learned from many good examples recently. The author believes this change is real, even without strong proof yet.
 - [I Miss Tabs vs Spaces... And Other AI Musings](https://wsvincent.com/i-miss-tabs-vs-spaces/) 👤 William Vincent 💬 1304 🔖 #llm 🗓️ 2025-09-13

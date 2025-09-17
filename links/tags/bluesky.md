@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 4
 
 ## Ссылки
 
+- [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/?utm_source=tldrwebdev) 👤 Kuba Suder 💬 8494 🔖 #bluesky 🗓️ 2025-08-24
+    > **Резюме:** Bluesky is built on the AT Protocol, which defines how data and social features work together. It uses specific lexicons for different functions, allowing both Bluesky and third-party apps to share data on the same network. Bluesky also offers custom feeds and a public API that lets users and developers create and use various social tools easily.
 - [Looking up posts in the Bluesky API](https://alexwlchan.net/til/2025/bluesky-post-info/?ref=rss) 👤 alexwlchan.net 💬 291 🔖 #try, #bluesky 🗓️ 2025-08-11
     > **Резюме:** To get post information from the Bluesky API, install the atproto package and log in with your full username and password. Then, use the get_post_thread method with the post's at:// URI to retrieve data. Finally, inspect the JSON response to extract details like author, date, and text.
 - [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/?utm_source=tldrwebdev) 👤 natalie.sh 💬 1228 🔖 #try, #bluesky 🗓️ 2025-08-08

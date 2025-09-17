@@ -1,9 +1,65 @@
 # Отложенные ссылки
 
-- Всего ссылок: 55
+- Всего ссылок: 70
 
 ## Ссылки
 
+- [How to Write "Garbage Code" (by Linus Torvalds)](https://read.engineerscodex.com/p/how-to-not-write-garbage-code-by?utm_source=tldrwebdev) 👤 Engineer's Codex 💬 830 🗓️ 2025-09-15
+    > **Резюме:** Linus criticized a late pull request that added an unclear, unnecessary helper function. The article says clear code reduces cognitive load because helpers and scattered files force micro-context switches for humans and LLMs. Sometimes duplicating simple code keeps context local and makes refactoring easier, and reviewers should stay polite.
+- [Disposable Code Is Here to Stay, but Durable Code Is What Runs the World](https://www.honeycomb.io/blog/disposable-code-is-here-to-stay?utm_source=tldrwebdev) 👤 Honeycomb 💬 1844 🗓️ 2025-09-15
+    > **Резюме:** Software is splitting into disposable code and durable code.  
+Disposable code is cheap and short-lived; durable code must be reliable, maintainable, and trusted.  
+AI speeds creation but cannot replace the tests, observability, and careful rollouts durable systems need.
+- [Why Billionaire Productivity Hacks Won’t Work for You](https://www.joanwestenberg.com/p/why-billionaire-productivity-hacks-won-t-work-for-you) 👤 JA Westenberg 💬 1079 🗓️ 2025-09-15
+    > **Резюме:** Billionaire routines and productivity hacks often don't fit most people's lives. Advice only works if you share the giver's resources and context, which most of us do not. Treat tips as experiments and learn from people whose lives resemble your own.
+- [Linking to text fragments with a bookmarklet](https://alexwlchan.net/2025/text-fragments-bookmarklet/?ref=rss) 👤 alexwlchan.net 💬 223 🗓️ 2025-09-15
+    > **Резюме:** Text fragments let you link to and highlight specific text on a webpage. The author made a bookmarklet that builds the correct fragment URL from selected text. It makes sharing precise links much easier.
+- [Building a Simple Virtual Machine](https://blog.phakorn.com/posts/2025/building-a-simple-vm/) 👤 Phakorn Kiong 💬 2249 🗓️ 2025-09-15
+    > **Резюме:** The VM is byte-addressable and uses a 64-bit stack to hold data.  
+Opcodes like PUSH1/PUSH8, STORE1/STORE8, LOAD8, ADD, and RETURN manipulate the stack and memory and are compiled into bytecode.  
+The program counter walks the bytecode, stores data (e.g., "Hello Wo") into memory, and RETURN reads a memory block by offset and size.
+- [Tom's Philosophy Of Project Management For Software Development](https://www.tomdalling.com/blog/software-processes/toms-philosophy-of-project-management-for-software-development/?utm_source=rss&utm_medium=rss) 👤 tomdalling.com 💬 738 🗓️ 2025-09-14
+    > **Резюме:** Software projects are risky and uncertain, so work iteratively, prioritize tasks that reduce risk, and get early feedback. Stakeholder views determine success, so communicate clearly. Keep management lean, give tech leads autonomy with responsibility, and treat fast, cheap failures as learning.
+- [Test state, not interactions](http://rednafi.com/go/test_state_not_interactions/) 👤 Redowan Delowar 💬 1542 🗓️ 2025-09-14
+    > **Резюме:** Test outcomes and state, not which functions were called.  
+LLMs and mock-generated interaction tests are brittle and can miss real bugs.  
+Write the first tests yourself and prefer public-API tests with handwritten fakes or real test services.
+- [Why I Switched Back From VS Code to IntelliJ IDEA: A Developer's Journey](https://mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij-idea) 👤 Michael Hoffmann 💬 1310 🗓️ 2025-09-14
+    > **Резюме:** I switched back to IntelliJ because its built-in tools made daily work smoother.  
+IntelliJ’s Git, indexing, debugging, and database features save time and keep context.  
+VS Code is great for quick edits, but for full‑stack or large projects IntelliJ boosts long‑term productivity.
+- [I Miss Tabs vs Spaces... And Other AI Musings](https://wsvincent.com/i-miss-tabs-vs-spaces/) 👤 William Vincent 💬 1304 🔖 #llm 🗓️ 2025-09-13
+    > **Резюме:** Tabs versus spaces feels tiny next to the questions about AI. Developers use local models and agents to work faster, but they can hallucinate and need careful prompts. AI will change work and the economy, but it won’t replace human understanding and is often overhyped.
+- [Agentic AI and Security](https://blog.korny.info/2025/09/12/agentic-ai-and-security) 👤 Korny Sietsma 💬 2746 🔖 #llm 🗓️ 2025-09-13
+    > **Резюме:** Agentic AI are LLM tools that act on their own and can run commands you did not write.  
+They are most dangerous when they can access private data, read untrusted content, and talk to the outside world.  
+Limit agents’ external communication and access to public or untrusted content, and avoid agentic browser extensions and untrusted MCP servers.
+- [Claude Code Framework Wars](https://shmck.substack.com/p/claude-code-framework-wars?utm_source=tldrwebdev) 👤 Shawn 💬 917 🗓️ 2025-09-12
+    > **Резюме:** Treat Claude as a framework of rules, roles, and workflows, not a chatbox.  
+Decide where tasks live, how agents coordinate, what tools run, and how context is preserved.  
+With clear structure, Claude automates boilerplate and lets developers focus on design, architecture, and reviews.
+- [Why I Ditched Docker for Podman (And You Should Too)](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too?utm_source=tldrwebdev) 👤 Dominik Szymański 💬 2031 🗓️ 2025-09-12
+    > **Резюме:** I switched from Docker to Podman. Docker's persistent dockerd daemon felt like a security and reliability risk. Podman is rootless, integrates well with systemd and pods, and is mostly drop-in compatible, so migration was easy.
+- [Being good isn’t enough](https://joshs.bearblog.dev/being-good-isnt-enough/?utm_source=tldrwebdev) 👤 people, ideas, machines 💬 598 🔖 #joyandcuriosity 🗓️ 2025-09-15
+    > **Резюме:** Being good at your craft is necessary but won’t make you stand out forever.  
+Grow product thinking, project execution, and people skills, and use feedback and humility to find your weakest area.  
+Choose agency: lead, share your work, act on feedback, and make things happen.
+- [Keeping Secrets Out of Logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/?utm_source=tldrwebdev) 👤 allan.reyes.sh 💬 6684 🗓️ 2025-09-12
+    > **Резюме:** Secrets often end up in logs and there is no single fix.  
+Prevent leaks by design: mark secrets at their sources and forbid them from logging sinks with types or taint checks.  
+Use layered defenses—tests, formatters, scanners, and people—to catch what slips through.
+- [Tunneling SSH over HTTPS](https://blog.frost.kiwi/ssh-over-https-tunneling/) 👤 Wladislav Artsimovich 💬 7549 🗓️ 2025-09-12
+    > **Резюме:** Many networks block direct SSH but allow HTTPS.  
+Using HTTP CONNECT with tools like corkscrew or proxytunnel lets you tunnel SSH through the proxy by relaying raw TCP.  
+Wrapping the tunnel in TLS (HTTPS) hides SSH from packet inspection and helps bypass stricter blocks.
+- [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/?utm_source=tldrwebdev) 👤 Wladislav Artsimovich 💬 5898 🗓️ 2025-09-12
+    > **Резюме:** The article shows how to implement realtime blurs on the GPU with WebGL and why performance matters.  
+Box and Gaussian blurs can be slow or artifact-prone, while separable, frequency, and downsample methods speed things up with trade-offs.  
+Dual Kawase Blur uses iterative diagonal sampling plus down/upsampling to give fast, motion-stable, Gaussian-like results used in games.
+- [On Working with Wizards](https://www.oneusefulthing.org/p/on-working-with-wizards) 👤 Ethan Mollick 💬 2149 🗓️ 2025-09-12
+    > **Резюме:** AI is moving from co-workers to wizards that produce impressive but opaque results.  
+That makes it hard to check work and erodes our expertise.  
+We need a new literacy to know when to summon the wizard, when to collaborate, and how to judge its output.
 - [A new experimental Go API for JSON](https://go.dev/blog/jsonv2-exp) 👤 go.dev 💬 3099 🔖 #go 🗓️ 2025-09-10
     > **Резюме:** Go 1.25 introduces an experimental JSON API with encoding/json/v2 and encoding/json/jsontext to improve JSON handling in Go. These new packages offer better streaming, performance, and customization compared to the original encoding/json. The goal is to eventually replace the old API while keeping backward compatibility and involving the Go community.
 - [Why I Delete Every Unanswered Email, Every Month](https://www.joanwestenberg.com/p/why-i-delete-every-unanswered-email-every-month) 👤 Joan Westenberg 💬 1372 🗓️ 2025-09-09
@@ -58,7 +114,7 @@ Product teams must use continuous data, test real user trajectories, and accept 
 Organizations that think empirically and in probabilities will win the next era.
 - [The Difference Between a Post Flush Watcher and nextTick in Vue](https://michaelnthiessen.com/the-difference-between-a-post-flush-watcher-and-nexttick?ck_subscriber_id=2108193410&utm_campaign=The+Difference+Between+a+Post+Flush+Watcher+and+nextTick+in+Vue+-+18711361&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1110 🗓️ 2025-08-24
     > **Резюме:** A post-flush watcher and nextTick both wait until after the DOM updates. The only difference is timing: nextTick runs one microtask later and therefore runs after post-flush watchers. In practice this rarely matters unless you need a strict execution order.
-- [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/?utm_source=tldrwebdev) 👤 Kuba Suder 💬 8494 🗓️ 2025-08-24
+- [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/?utm_source=tldrwebdev) 👤 Kuba Suder 💬 8494 🔖 #bluesky 🗓️ 2025-08-24
     > **Резюме:** Bluesky is built on the AT Protocol, which defines how data and social features work together. It uses specific lexicons for different functions, allowing both Bluesky and third-party apps to share data on the same network. Bluesky also offers custom feeds and a public API that lets users and developers create and use various social tools easily.
 - [What Learning React Won't Teach You: Image Formats](https://idiallo.com/blog/react-and-image-format?utm_source=tldrwebdev) 👤 Ibrahim Diallo 💬 1241 🗓️ 2025-08-24
     > **Резюме:** Image format choices have a huge impact on site speed and bandwidth. Use JPEG for photos, PNG for simple graphics and transparency, and SVG for scalable icons and logos. React guides often skip this, so developers unknowingly bloat apps and hurt user experience.
@@ -74,14 +130,8 @@ The model returns validated invoice fields you can use in apps.
     > **Резюме:** A small Go tool reads your staged git diff and uses an LLM to generate Conventional Commit messages.  
 It uses LangChainGo so you can swap providers, asks the model for JSON output, and caps diffs to save tokens.  
 This issue wraps up the Go & AI mini‑series and asks readers to take a short feedback survey.
-- [How LLMs See the World](https://blog.bytebytego.com/p/how-llms-see-the-world?utm_source=tldrwebdev) 👤 ByteByteGo 💬 1974 🔖 #llm 🗓️ 2025-08-16
-    > **Резюме:** Tokens are the basic units LLMs use to read and write text. Tokenization splits text into characters, subwords, words, or symbols and controls length, cost, and performance. Poor tokenization hurts math, code, and non‑English text, so understanding it improves prompts and cost estimates.
 - [Why I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html?utm_source=tldrwebdev) 👤 xvw, Xavier Van de Woestyne 💬 11234 🗓️ 2025-08-16
     > **Резюме:** OCaml is a versatile and evolving programming language that combines strong static typing with multiple programming paradigms. It has a rich ecosystem, good tooling, and can compile to various targets like JavaScript and WebAssembly. The supportive community and practical features make OCaml a great choice for both learning and professional development.
-- [The Futzing Fraction](https://blog.glyph.im/2025/08/futzing-fraction.html) 👤 Glyph Lefkowitz 💬 5498 🔖 #llm 🗓️ 2025-08-16
-    > **Резюме:** AI can save time when it is correct, but it wastes time when it is wrong.  
-The Futzing Fraction measures whether using the AI yields net time saved or net time wasted by counting prompts, checks, inference cost, and error propagation.  
-Even with optimistic numbers, retries and propagated mistakes can push the fraction above 1, making AI a net loss and harming human skills.
 - [Another article about centering in CSS](https://piccalil.li/blog/another-article-about-centering-in-css/?ref=main-rss-feed) 👤 Piccalilli 💬 1236 🔖 #css 🗓️ 2025-08-14
     > **Резюме:** Centering in CSS is easier than ever with many options like grid and flexbox, but choosing one clear method is key. Using parent-based layouts with grid or flexbox is better than mixing child and parent alignment. Avoid positioning for centering unless you fully control the parent, and focus on simple, consistent principles for your team.
 - [Building a web search engine from scratch in two months with 3 billion neural embeddings](https://blog.wilsonl.in/search-engine/?utm_source=tldrwebdev) 👤 Wilson Lin 💬 8008 🗓️ 2025-08-13
