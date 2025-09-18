@@ -25,7 +25,8 @@
         "01k4spvtwe7g09wp03t9z1qztg",
         "01k4w2ba0wxgc4rfqfe5e64ary",
         "01k4w1qn2vw10kqymh1t0nm8wq",
-        "01k4ytdsk9z2ryr6epnhnc4nc6"
+        "01k4ytdsk9z2ryr6epnhnc4nc6",
+        "01k42b6swkgw9rmtbv83gqtfkj"
     ],
     "skeets": [
         {
@@ -183,6 +184,12 @@
             "document_title": "Abundance Now",
             "source_url": "https://www.joanwestenberg.com/p/abundance-now",
             "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lywrbezmh42s"
+        },
+        {
+            "document_id": "01k42b6swkgw9rmtbv83gqtfkj",
+            "document_title": "The Ordinary Sacred",
+            "source_url": "https://www.joanwestenberg.com/p/the-ordinary-sacred",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lz3s5pr32r2e"
         }
     ]
 }
