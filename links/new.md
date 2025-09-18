@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 838
+- Всего ссылок: 840
 
 ## Ссылки
 
+- [Playwright & pytest techniques that bring me joy](https://www.better-simple.com/django/2025/09/17/playwright-pytest-that-brings-me-joy/) 👤 https://www.better-simple.com/portfolio/ 💬 880 🗓️ 2025-09-17
+- [Never Get Bored With The Basics • The Applied Go Weekly Newsletter 2025-09-14](https://newsletter.appliedgo.net/archive/2025-09-14-never-get-bored-with-the-basics/) 👤 The Applied Go Weekly Newsletter 💬 1503 🔖 #go 🗓️ 2025-09-17
 - [Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial](https://m.youtube.com/watch?v=Vs4hQsDpxww) 👤 freeCodeCamp.org 🔖 #try 🗓️ 2025-09-16
 - [Why Go Is A Minimalist Language • The Applied Go Weekly Newsletter 2025-09-07](https://newsletter.appliedgo.net/archive/2025-09-07-why-go-is-a-minimalist-language/) 👤 The Applied Go Weekly Newsletter 💬 1670 🔖 #go 🗓️ 2025-09-08
 - [Profiles in Visual Studio Code](https://code.visualstudio.com/docs/configure/profiles) 👤 Microsoft 💬 2964 🔖 #vscode 🗓️ 2025-09-03

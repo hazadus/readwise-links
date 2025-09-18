@@ -1,9 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 70
+- Всего ссылок: 71
 
 ## Ссылки
 
+- [The Core Folder Anti-Pattern](https://ImproveAndRepeat.com/2025/09/the-core-folder-anti-pattern/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 918 🗓️ 2025-09-17
+    > **Резюме:** A "core" folder often starts useful but quickly becomes a dumping ground. It mixes business logic and common utilities, causing duplication and messy structure. Fix it by limiting files, categorizing code, extracting reusable parts, and removing the core folder.
+- [Don't Make Your Bed](https://www.joanwestenberg.com/p/don-t-make-your-bed) 👤 Joan Westenberg 💬 801 🗓️ 2025-09-17
+    > **Резюме:** Don't make your bed before you clear your head.  
+A neat bed can hide mental chaos and become avoidance.  
+Sit and name or write your worries first.
 - [How to Write "Garbage Code" (by Linus Torvalds)](https://read.engineerscodex.com/p/how-to-not-write-garbage-code-by?utm_source=tldrwebdev) 👤 Engineer's Codex 💬 830 🗓️ 2025-09-15
     > **Резюме:** Linus criticized a late pull request that added an unclear, unnecessary helper function. The article says clear code reduces cognitive load because helpers and scattered files force micro-context switches for humans and LLMs. Sometimes duplicating simple code keeps context local and makes refactoring easier, and reviewers should stay polite.
 - [Disposable Code Is Here to Stay, but Durable Code Is What Runs the World](https://www.honeycomb.io/blog/disposable-code-is-here-to-stay?utm_source=tldrwebdev) 👤 Honeycomb 💬 1844 🗓️ 2025-09-15
@@ -76,8 +82,6 @@ AI-assisted engineering uses structured specs, testing, and review so teams keep
     > **Резюме:** Passkeys are replacing passwords and can improve security for most people.  
 But attestation, non-exportable keys, and auto-enrollment can enable ecosystem lock-in.  
 That risks losing account access, reducing user control, and hurting families and developers.
-- [The Ordinary Sacred](https://www.joanwestenberg.com/p/the-ordinary-sacred) 👤 Joan Westenberg 💬 5188 🗓️ 2025-09-01
-    > **Резюме:** We live in a world where everything is a performance, making us feel exhausted and unhappy. The Ordinary Sacred teaches us to stop curating life for others and find joy in simple, unfiltered moments. True living means being present, ordinary, and free from constant judgment or spectacle.
 - [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/?utm_source=substack&utm_medium=email) 👤 cedardb.com 💬 2009 🔖 #joyandcuriosity 🗓️ 2025-08-31
     > **Резюме:** German Strings use a single 128-bit layout to represent any string.  
 Strings of 12 or fewer characters are stored inline; longer strings store a length, a pointer, and a four-character prefix for fast checks.  

@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 1022
+- Всего ссылок: 1023
 
 ## Ссылки
 
@@ -12,7 +12,7 @@
     > **Заметка:** "Abundance is a moral trial greater than scarcity. Scarcity disciplines. It forces you to structure life around what must be done. Abundance tempts you to dissolve into sloth, grievance, resentment. The great danger of our era is not deprivation. It’s decadence."
 - [Many years on the job and I still don't get it.](https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/) 👤 Dave Rupert 💬 204 🔖 #career, #development 🗓️ 2025-09-12
 - [Defeating Nondeterminism in LLM Inference](https://simonwillison.net/2025/Sep/11/defeating-nondeterminism/#atom-everything) 👤 Simon Willison 💬 277 🗓️ 2025-09-11
-- [AI as teleportation](https://www.geoffreylitt.com/2025/09/10/ai-as-teleportation) 👤 geoffreylitt.com 💬 1017 🔖 #llm, #toot 🗓️ 2025-09-11
+- [AI as teleportation](https://www.geoffreylitt.com/2025/09/10/ai-as-teleportation) 👤 geoffreylitt.com 💬 989 🔖 #llm, #toot 🗓️ 2025-09-11
     > **Заметка:** Красивая аналогия с телепортацией. Есть над чем задуматься!
 - [Claude API: Web fetch tool](https://simonwillison.net/2025/Sep/10/claude-web-fetch-tool/#atom-everything) 👤 Simon Willison 💬 404 🔖 #llm 🗓️ 2025-09-11
 - [I Replaced Animal Crossing's Dialogue with a Live LLM by Hacking GameCube Memory](https://simonwillison.net/2025/Sep/10/animal-crossing-llm/#atom-everything) 👤 Simon Willison 💬 343 🔖 #llm, #game, #toot 🗓️ 2025-09-11
@@ -38,6 +38,9 @@
 - [The Rogue Prince of Persia: Обзор рогалика с лучшим паркуром](https://stopgame.ru/show/151608/the_rogue_prince_of_persia_review_rogalika_s_luchshim_parkurom) 👤 Алексей Лихачев 💬 1701 🗓️ 2025-09-02
 - [Looking forward to Django 6.0](mailto:reader-forwarded-email/d63966dbff39ea2b976500388197636b) 👤 Carlton Gibson 💬 1849 🔖 #csp, #django 🗓️ 2025-09-01
 - [You should delete tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/?utm_source=tldrwebdev) 👤 André Arko 💬 833 🔖 #testing 🗓️ 2025-09-01
+- [The Ordinary Sacred](https://www.joanwestenberg.com/p/the-ordinary-sacred) 👤 Joan Westenberg 💬 5188 🔖 #toot 🗓️ 2025-09-01
+    > **Заметка:** Stop making your job your personality. Pay your bills. Turn off your phone. Leave the spreadsheet in the cloud and go make dinner. You are not a commodity. You are not your engagement metrics. You are not your title or your side hustle or your carefully sharpened personal brand.
+You are a person. Work enough to sustain that. Then stop.
 - [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html) 👤 matklad.github.io 💬 1470 🔖 #llm, #testing 🗓️ 2025-09-01
 - [Fuck Everything, We're Doing Five Blades](https://theonion.com/fuck-everything-were-doing-five-blades-1819584036/?utm_source=substack&utm_medium=email) 👤 The Onion Staff 💬 787 🔖 #fun, #joyandcuriosity 🗓️ 2025-08-31
 - [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html) 👤 Oskar Wickström 💬 925 🔖 #vim, #joyandcuriosity 🗓️ 2025-08-31

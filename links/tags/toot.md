@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 26
+- Всего ссылок: 27
 
 ## Ссылки
 
@@ -9,7 +9,7 @@
     > **Резюме:** We have more food, knowledge, and energy than ever before.  
 Still, many act as if there is never enough and feel empty.  
 Abundance requires new habits—gratitude, moderation, and purpose—or our poverty will be inside us.
-- [AI as teleportation](https://www.geoffreylitt.com/2025/09/10/ai-as-teleportation) 👤 geoffreylitt.com 💬 1017 🔖 #llm, #toot 🗓️ 2025-09-11
+- [AI as teleportation](https://www.geoffreylitt.com/2025/09/10/ai-as-teleportation) 👤 geoffreylitt.com 💬 989 🔖 #llm, #toot 🗓️ 2025-09-11
     > **Заметка:** Красивая аналогия с телепортацией. Есть над чем задуматься!
     > **Резюме:** AI is like teleportation: it makes things instant and brings clear benefits.  
 But it also erases frictions that create chance encounters, skill, and meaning.  
@@ -25,6 +25,10 @@ We should welcome AI while keeping some deliberate frictions to protect what mat
 - [Highlighted tools](https://simonwillison.net/2025/Sep/4/highlighted-tools/#atom-everything) 👤 Simon Willison 💬 743 🔖 #llm, #toot, #inspiration, #programming 🗓️ 2025-09-05
     > **Заметка:** Саймон рассказывает о своих многочисленных кастомных инструментах. Вдохновляющий материал!
     > **Резюме:** Simon Willison shares a big collection of small web tools built with vibe coding and AI help. He highlights useful ones like in-browser OCR, an annotated presentation creator, image crop/resize tools, Jina Reader, and an LLM pricing calculator. He used OpenAI Codex to add JavaScript that auto-expands a tool’s development history from the URL.
+- [The Ordinary Sacred](https://www.joanwestenberg.com/p/the-ordinary-sacred) 👤 Joan Westenberg 💬 5188 🔖 #toot 🗓️ 2025-09-01
+    > **Заметка:** Stop making your job your personality. Pay your bills. Turn off your phone. Leave the spreadsheet in the cloud and go make dinner. You are not a commodity. You are not your engagement metrics. You are not your title or your side hustle or your carefully sharpened personal brand.
+You are a person. Work enough to sustain that. Then stop.
+    > **Резюме:** We live in a world where everything is a performance, making us feel exhausted and unhappy. The Ordinary Sacred teaches us to stop curating life for others and find joy in simple, unfiltered moments. True living means being present, ordinary, and free from constant judgment or spectacle.
 - [A career comes to a close](https://kenwhitesell.github.io/2025/08/27/A-career-comes-to-a-close.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_300) 👤 Ken Whitesell 💬 1776 🔖 #toot, #programming 🗓️ 2025-08-30
     > **Заметка:** Разработчик подводит итоги, завершая 47-летнюю карьеру. Впечатляюще.
     > **Резюме:** He retired after a 47-year career in computing.  

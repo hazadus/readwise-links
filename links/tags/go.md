@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 223
+- Всего ссылок: 224
 
 ## Ссылки
 
+- [Never Get Bored With The Basics • The Applied Go Weekly Newsletter 2025-09-14](https://newsletter.appliedgo.net/archive/2025-09-14-never-get-bored-with-the-basics/) 👤 The Applied Go Weekly Newsletter 💬 1503 🔖 #go 🗓️ 2025-09-17
+    > **Резюме:** Christoph will build a minimalist SaaS platform using only essential code.  
+Start small: use a simple net/http server and avoid containers, Kubernetes, and heavy infra.  
+Follow the series as features like frontend, database, auth, and payments are added step by step.
 - [A new experimental Go API for JSON](https://go.dev/blog/jsonv2-exp) 👤 go.dev 💬 3099 🔖 #go 🗓️ 2025-09-10
     > **Резюме:** Go 1.25 introduces an experimental JSON API with encoding/json/v2 and encoding/json/jsontext to improve JSON handling in Go. These new packages offer better streaming, performance, and customization compared to the original encoding/json. The goal is to eventually replace the old API while keeping backward compatibility and involving the Go community.
 - [Why Go Is A Minimalist Language • The Applied Go Weekly Newsletter 2025-09-07](https://newsletter.appliedgo.net/archive/2025-09-07-why-go-is-a-minimalist-language/) 👤 The Applied Go Weekly Newsletter 💬 1670 🔖 #go 🗓️ 2025-09-08

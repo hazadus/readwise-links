@@ -18,7 +18,7 @@ Limit agents’ external communication and access to public or untrusted content
     > **Резюме:** Claude starts each chat with a blank slate and only uses memory when you explicitly enable it.  
 Its memory is just visible tools that search your raw past conversations, so you are shown when context is accessed.  
 ChatGPT instead automatically adds recent user messages to new chats but omits assistant replies, reducing the risk of carrying over bad assistant context.
-- [AI as teleportation](https://www.geoffreylitt.com/2025/09/10/ai-as-teleportation) 👤 geoffreylitt.com 💬 1017 🔖 #llm, #toot 🗓️ 2025-09-11
+- [AI as teleportation](https://www.geoffreylitt.com/2025/09/10/ai-as-teleportation) 👤 geoffreylitt.com 💬 989 🔖 #llm, #toot 🗓️ 2025-09-11
     > **Заметка:** Красивая аналогия с телепортацией. Есть над чем задуматься!
     > **Резюме:** AI is like teleportation: it makes things instant and brings clear benefits.  
 But it also erases frictions that create chance encounters, skill, and meaning.  
