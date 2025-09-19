@@ -26,7 +26,8 @@
         "01k4w2ba0wxgc4rfqfe5e64ary",
         "01k4w1qn2vw10kqymh1t0nm8wq",
         "01k4ytdsk9z2ryr6epnhnc4nc6",
-        "01k42b6swkgw9rmtbv83gqtfkj"
+        "01k42b6swkgw9rmtbv83gqtfkj",
+        "01k5f8mdwyebntk4krv6a4cx9q"
     ],
     "skeets": [
         {
@@ -190,6 +191,12 @@
             "document_title": "The Ordinary Sacred",
             "source_url": "https://www.joanwestenberg.com/p/the-ordinary-sacred",
             "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lz3s5pr32r2e"
+        },
+        {
+            "document_id": "01k5f8mdwyebntk4krv6a4cx9q",
+            "document_title": "How to burnout a software engineer, in 3 easy steps",
+            "source_url": "https://read.engineerscodex.com/p/how-to-burnout-a-software-engineer",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lz6cn27vla27"
         }
     ]
 }
