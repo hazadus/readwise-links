@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 36
+- Всего ссылок: 37
 
 ## Ссылки
 
+- [Playwright & pytest techniques that bring me joy](https://www.better-simple.com/django/2025/09/17/playwright-pytest-that-brings-me-joy/) 👤 https://www.better-simple.com/portfolio/ 💬 880 🔖 #pytest, #testing 🗓️ 2025-09-17
+    > **Резюме:** I use Playwright for end-to-end tests as apps with HTMX and Alpine reduce unit and integration coverage.  
+I capture popups with expect_page, tag tests with pytest markers to run or switch context, and debug with page.pause or headed/PWDEBUG.  
+I also use axe-playwright for accessibility assertions and page.expect_response to verify background requests.
 - [You should delete tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/?utm_source=tldrwebdev) 👤 André Arko 💬 833 🔖 #testing 🗓️ 2025-09-01
     > **Резюме:** Tests exist to give developers confidence.  
 Delete tests that reduce confidence — flaky, slow, brittle, or testing the wrong behavior.  

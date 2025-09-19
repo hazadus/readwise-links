@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [Being good isn’t enough](https://joshs.bearblog.dev/being-good-isnt-enough/?utm_source=tldrwebdev) 👤 people, ideas, machines 💬 598 🔖 #joyandcuriosity 🗓️ 2025-09-15
+- [Being good isn’t enough](https://joshs.bearblog.dev/being-good-isnt-enough/?utm_source=tldrwebdev) 👤 people, ideas, machines 💬 598 🔖 #career, #joyandcuriosity 🗓️ 2025-09-15
     > **Резюме:** Being good at your craft is necessary but won’t make you stand out forever.  
 Grow product thinking, project execution, and people skills, and use feedback and humility to find your weakest area.  
 Choose agency: lead, share your work, act on feedback, and make things happen.

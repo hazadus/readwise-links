@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [The Core Folder Anti-Pattern](https://ImproveAndRepeat.com/2025/09/the-core-folder-anti-pattern/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 918 🔖 #softwaredesign 🗓️ 2025-09-17
+    > **Резюме:** A "core" folder often starts useful but quickly becomes a dumping ground. It mixes business logic and common utilities, causing duplication and messy structure. Fix it by limiting files, categorizing code, extracting reusable parts, and removing the core folder.
 - ['Make invalid states representable' considered harmful](https://seangoedecke.com/invalid-states/) 👤 seangoedecke.com 💬 2050 🔖 #softwaredesign 🗓️ 2025-09-08
     > **Резюме:** Software should be more flexible than the domain model and allow some invalid states. Hard constraints like strict state machines, foreign keys, or required protobuf fields break under edge cases and schema changes. Prefer soft, changeable checks in code so systems can adapt when reality forces exceptions.
 - [Do the simplest thing that could possibly work](https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/) 👤 seangoedecke.com 💬 1720 🔖 #toot, #development, #programming, #microservices, #softwaredesign 🗓️ 2025-08-29

@@ -1,17 +1,9 @@
 # Отложенные ссылки
 
-- Всего ссылок: 71
+- Всего ссылок: 66
 
 ## Ссылки
 
-- [The Core Folder Anti-Pattern](https://ImproveAndRepeat.com/2025/09/the-core-folder-anti-pattern/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 918 🗓️ 2025-09-17
-    > **Резюме:** A "core" folder often starts useful but quickly becomes a dumping ground. It mixes business logic and common utilities, causing duplication and messy structure. Fix it by limiting files, categorizing code, extracting reusable parts, and removing the core folder.
-- [Don't Make Your Bed](https://www.joanwestenberg.com/p/don-t-make-your-bed) 👤 Joan Westenberg 💬 801 🗓️ 2025-09-17
-    > **Резюме:** Don't make your bed before you clear your head.  
-A neat bed can hide mental chaos and become avoidance.  
-Sit and name or write your worries first.
-- [How to Write "Garbage Code" (by Linus Torvalds)](https://read.engineerscodex.com/p/how-to-not-write-garbage-code-by?utm_source=tldrwebdev) 👤 Engineer's Codex 💬 830 🗓️ 2025-09-15
-    > **Резюме:** Linus criticized a late pull request that added an unclear, unnecessary helper function. The article says clear code reduces cognitive load because helpers and scattered files force micro-context switches for humans and LLMs. Sometimes duplicating simple code keeps context local and makes refactoring easier, and reviewers should stay polite.
 - [Disposable Code Is Here to Stay, but Durable Code Is What Runs the World](https://www.honeycomb.io/blog/disposable-code-is-here-to-stay?utm_source=tldrwebdev) 👤 Honeycomb 💬 1844 🗓️ 2025-09-15
     > **Резюме:** Software is splitting into disposable code and durable code.  
 Disposable code is cheap and short-lived; durable code must be reliable, maintainable, and trusted.  
@@ -40,16 +32,8 @@ VS Code is great for quick edits, but for full‑stack or large projects Intelli
     > **Резюме:** Agentic AI are LLM tools that act on their own and can run commands you did not write.  
 They are most dangerous when they can access private data, read untrusted content, and talk to the outside world.  
 Limit agents’ external communication and access to public or untrusted content, and avoid agentic browser extensions and untrusted MCP servers.
-- [Claude Code Framework Wars](https://shmck.substack.com/p/claude-code-framework-wars?utm_source=tldrwebdev) 👤 Shawn 💬 917 🗓️ 2025-09-12
-    > **Резюме:** Treat Claude as a framework of rules, roles, and workflows, not a chatbox.  
-Decide where tasks live, how agents coordinate, what tools run, and how context is preserved.  
-With clear structure, Claude automates boilerplate and lets developers focus on design, architecture, and reviews.
 - [Why I Ditched Docker for Podman (And You Should Too)](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too?utm_source=tldrwebdev) 👤 Dominik Szymański 💬 2031 🗓️ 2025-09-12
     > **Резюме:** I switched from Docker to Podman. Docker's persistent dockerd daemon felt like a security and reliability risk. Podman is rootless, integrates well with systemd and pods, and is mostly drop-in compatible, so migration was easy.
-- [Being good isn’t enough](https://joshs.bearblog.dev/being-good-isnt-enough/?utm_source=tldrwebdev) 👤 people, ideas, machines 💬 598 🔖 #joyandcuriosity 🗓️ 2025-09-15
-    > **Резюме:** Being good at your craft is necessary but won’t make you stand out forever.  
-Grow product thinking, project execution, and people skills, and use feedback and humility to find your weakest area.  
-Choose agency: lead, share your work, act on feedback, and make things happen.
 - [Keeping Secrets Out of Logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/?utm_source=tldrwebdev) 👤 allan.reyes.sh 💬 6684 🗓️ 2025-09-12
     > **Резюме:** Secrets often end up in logs and there is no single fix.  
 Prevent leaks by design: mark secrets at their sources and forbid them from logging sinks with types or taint checks.  

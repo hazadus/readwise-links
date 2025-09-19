@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [4 Software Design Principles I Learned the Hard Way](https://read.engineerscodex.com/p/4-software-design-principles-i-learned) 👤 Leonardo Creed 💬 1108 🔖 #principles, #development 🗓️ 2025-09-18
+    > **Резюме:** The text discusses software design principles learned through experience, emphasizing the importance of maintaining a single source of truth, judiciously repeating code, and avoiding overuse of mocks in testing. It also highlights the benefits of minimizing mutable state in software development to reduce bugs and improve efficiency. The principles shared aim to enhance software engineering practices and ultimately contribute to more reliable and efficient software systems.
 - [What "Parse, don't validate" means in Python?](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) 👤 Bite Code! 💬 2381 🔖 #python, #principles 🗓️ 2025-07-23
     > **Резюме:** "Parse, don't validate" means you should convert input into the right type with understanding, not just check if it looks correct. In Python, parsing includes validation because it tries to make data meaningful and trustworthy for the rest of the code. How much you parse depends on your needs, but parsing helps catch errors early and creates clear, reliable code.
 - [Перестаньте молиться на принципы S.O.L.I.D](https://habr.com/ru/articles/874584/) 👤 varanio 💬 1291 🔖 #principles 🗓️ 2025-07-01

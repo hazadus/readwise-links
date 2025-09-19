@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 54
+- Всего ссылок: 55
 
 ## Ссылки
 
+- [Being good isn’t enough](https://joshs.bearblog.dev/being-good-isnt-enough/?utm_source=tldrwebdev) 👤 people, ideas, machines 💬 598 🔖 #career, #joyandcuriosity 🗓️ 2025-09-15
+    > **Резюме:** Being good at your craft is necessary but won’t make you stand out forever.  
+Grow product thinking, project execution, and people skills, and use feedback and humility to find your weakest area.  
+Choose agency: lead, share your work, act on feedback, and make things happen.
 - [Many years on the job and I still don't get it.](https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/) 👤 Dave Rupert 💬 204 🔖 #career, #development 🗓️ 2025-09-12
     > **Резюме:** After nearly 20 years in web development, I still sometimes judge my worth by how much code I write.  
 The job also includes many noncoding tasks: emails, meetings, docs, reviews, ops, learning, and helping teammates.  

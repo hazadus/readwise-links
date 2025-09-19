@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [Playwright & pytest techniques that bring me joy](https://www.better-simple.com/django/2025/09/17/playwright-pytest-that-brings-me-joy/) 👤 https://www.better-simple.com/portfolio/ 💬 880 🔖 #pytest, #testing 🗓️ 2025-09-17
+    > **Резюме:** I use Playwright for end-to-end tests as apps with HTMX and Alpine reduce unit and integration coverage.  
+I capture popups with expect_page, tag tests with pytest markers to run or switch context, and debug with page.pause or headed/PWDEBUG.  
+I also use axe-playwright for accessibility assertions and page.expect_response to verify background requests.
 - [Better alternative to shell scripts with Python, uv and pytest](https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/) 👤 Juha-Matti Santala 💬 1312 🔖 #uv, #try, #toot, #pytest, #python 🗓️ 2025-07-30
     > **Заметка:** Отличная шпаргалка о запуске самодостаточных Python-скриптов, ещё и возможность встраивания тестов описана
     > **Резюме:** Python with the tool uv offers a better way to write small scripts instead of using shell scripts. It handles dependencies easily and supports inline metadata for cleaner scripts. Adding tests with pytest and managing scripts with simple commands makes scripting safer and more efficient.

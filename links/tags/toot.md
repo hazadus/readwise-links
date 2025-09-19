@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 27
+- Всего ссылок: 28
 
 ## Ссылки
 
+- [How to burnout a software engineer, in 3 easy steps](https://read.engineerscodex.com/p/how-to-burnout-a-software-engineer) 👤 Leonardo Creed 💬 1322 🔖 #toot, #programming 🗓️ 2025-09-18
+    > **Заметка:** "Working on projects that never ship is, anecdotally, one of the largest causes of burnout."
+
+Мужик дело пишет!
+    > **Резюме:** Burnout in software engineers can be achieved through three easy steps: not trusting your engineers and micromanaging them, introducing unnecessary and time-wasting processes, and not shipping code to customers. Micromanagement can be exhausting for engineers, and excessive processes can hinder productivity. Additionally, working on projects that never see the light of day can lead to burnout and a loss of faith in leadership. Overpromising and underdelivering can be the final blow, causing engineers to lose hope and ultimately leave. To prevent burnout, engineers need to feel that their work matters, be attached to the mission of the team, and have a sense of accomplishment through shipping their projects.
 - [Abundance Now](https://www.joanwestenberg.com/p/abundance-now) 👤 Joan Westenberg 💬 1038 🔖 #toot 🗓️ 2025-09-12
     > **Заметка:** "Abundance is a moral trial greater than scarcity. Scarcity disciplines. It forces you to structure life around what must be done. Abundance tempts you to dissolve into sloth, grievance, resentment. The great danger of our era is not deprivation. It’s decadence."
     > **Резюме:** We have more food, knowledge, and energy than ever before.  

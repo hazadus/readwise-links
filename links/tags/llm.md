@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 234
+- Всего ссылок: 235
 
 ## Ссылки
 
@@ -14,6 +14,10 @@
     > **Резюме:** Agentic AI are LLM tools that act on their own and can run commands you did not write.  
 They are most dangerous when they can access private data, read untrusted content, and talk to the outside world.  
 Limit agents’ external communication and access to public or untrusted content, and avoid agentic browser extensions and untrusted MCP servers.
+- [Claude Code Framework Wars](https://shmck.substack.com/p/claude-code-framework-wars?utm_source=tldrwebdev) 👤 Shawn 💬 917 🔖 #llm 🗓️ 2025-09-12
+    > **Резюме:** Treat Claude as a framework of rules, roles, and workflows, not a chatbox.  
+Decide where tasks live, how agents coordinate, what tools run, and how context is preserved.  
+With clear structure, Claude automates boilerplate and lets developers focus on design, architecture, and reviews.
 - [Comparing the memory implementations of Claude and ChatGPT](https://simonwillison.net/2025/Sep/12/claude-memory/#atom-everything) 👤 Simon Willison 💬 416 🔖 #llm 🗓️ 2025-09-12
     > **Резюме:** Claude starts each chat with a blank slate and only uses memory when you explicitly enable it.  
 Its memory is just visible tools that search your raw past conversations, so you are shown when context is accessed.  
