@@ -1,5 +1,76 @@
 [
     {
+        "id": "01k5gg62qxqtm84h702s29xe5w",
+        "url": "https://read.readwise.io/read/01k5gg62qxqtm84h702s29xe5w",
+        "source_url": "https://alexwlchan.net/2025/review-files-in-text-editor/?ref=rss",
+        "title": "Opening all the files that have been modified in a Git branch",
+        "author": "alexwlchan.net",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "git": {
+                "name": "git",
+                "type": "manual",
+                "created": 1758269220673
+            }
+        },
+        "site_name": "alexwlchan.net",
+        "word_count": 522,
+        "notes": "",
+        "summary": "This shows how to open every file changed in a Git branch in your local editor. Use git merge-base to find the branch point and git diff --name-only to list changed files. Pipe the list to xargs and open -a \"Visual Studio Code\" to open them all.",
+        "image_url": "https://alexwlchan.net/images/profile_green_sq.jpg",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-09-19",
+        "created_at": "2025-09-19T08:06:53.457377+00:00",
+        "updated_at": "2025-09-19T08:07:00.678232+00:00",
+        "saved_at": "2025-09-19T08:06:53.437000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-09-19T08:06:53.437000+00:00"
+    },
+    {
+        "id": "01k5gg51vp1gyqx6t3ya6rejng",
+        "url": "https://read.readwise.io/read/01k5gg51vp1gyqx6t3ya6rejng",
+        "source_url": "https://simonwillison.net/2025/Sep/18/agents/#atom-everything",
+        "title": "I think “agent” may finally have a widely enough agreed upon definition to be useful jargon now",
+        "author": "Simon Willison",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1758269188249
+            },
+            "agents": {
+                "name": "Agents",
+                "type": "manual",
+                "created": 1758269188249
+            }
+        },
+        "site_name": "simonwillison.net",
+        "word_count": 1020,
+        "notes": "",
+        "summary": "The word \"agent\" now has a clearer meaning in AI: it means an LLM uses tools repeatedly to reach a goal. This helps people talk about agents without confusion. Some old ideas, like agents replacing humans, are still not realistic.",
+        "image_url": null,
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-09-18",
+        "created_at": "2025-09-19T08:06:19.789399+00:00",
+        "updated_at": "2025-09-19T08:06:28.255847+00:00",
+        "saved_at": "2025-09-19T08:06:19.764000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-09-19T08:06:19.764000+00:00"
+    },
+    {
         "id": "01k5fapc45818d5y4v3yb321aw",
         "url": "https://read.readwise.io/read/01k5fapc45818d5y4v3yb321aw",
         "source_url": "https://www.intercom.com/blog/shipping-is-your-companys-heartbeat/",

@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 843
+- Всего ссылок: 845
 
 ## Ссылки
 
+- [Opening all the files that have been modified in a Git branch](https://alexwlchan.net/2025/review-files-in-text-editor/?ref=rss) 👤 alexwlchan.net 💬 522 🔖 #git 🗓️ 2025-09-19
+- [I think “agent” may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/#atom-everything) 👤 Simon Willison 💬 1020 🔖 #llm, #agents 🗓️ 2025-09-19
 - [Shipping is your company’s heartbeat](https://www.intercom.com/blog/shipping-is-your-companys-heartbeat/) 👤 Darragh Curran 💬 1158 🗓️ 2025-09-18
 - [How Google writes clean, maintainable code](https://engineercodex.substack.com/p/how-google-writes-clean-maintainable) 👤 Leo | Engineer's Codex 💬 1376 🗓️ 2025-09-18
 - [5 Non-LLM Software Trends To Be Excited About](https://read.engineerscodex.com/p/5-non-llm-software-trends-to-be-excited) 👤 Engineer's Codex 💬 1845 🗓️ 2025-09-18
