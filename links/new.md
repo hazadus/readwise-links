@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 845
+- Всего ссылок: 846
 
 ## Ссылки
 
+- [Plaguenomics: The Social Recession We Can’t Escape](https://www.joanwestenberg.com/p/plaguenomics-the-social-recession-we-can-t-escape) 👤 JA Westenberg 💬 2562 🗓️ 2025-09-20
 - [Opening all the files that have been modified in a Git branch](https://alexwlchan.net/2025/review-files-in-text-editor/?ref=rss) 👤 alexwlchan.net 💬 522 🔖 #git 🗓️ 2025-09-19
 - [I think “agent” may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/#atom-everything) 👤 Simon Willison 💬 1020 🔖 #llm, #agents 🗓️ 2025-09-19
 - [Shipping is your company’s heartbeat](https://www.intercom.com/blog/shipping-is-your-companys-heartbeat/) 👤 Darragh Curran 💬 1158 🗓️ 2025-09-18
