@@ -1,19 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 846
+- Всего ссылок: 840
 
 ## Ссылки
 
-- [Plaguenomics: The Social Recession We Can’t Escape](https://www.joanwestenberg.com/p/plaguenomics-the-social-recession-we-can-t-escape) 👤 JA Westenberg 💬 2562 🗓️ 2025-09-20
-- [Opening all the files that have been modified in a Git branch](https://alexwlchan.net/2025/review-files-in-text-editor/?ref=rss) 👤 alexwlchan.net 💬 522 🔖 #git 🗓️ 2025-09-19
-- [I think “agent” may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/#atom-everything) 👤 Simon Willison 💬 1020 🔖 #llm, #agents 🗓️ 2025-09-19
-- [Shipping is your company’s heartbeat](https://www.intercom.com/blog/shipping-is-your-companys-heartbeat/) 👤 Darragh Curran 💬 1158 🗓️ 2025-09-18
-- [How Google writes clean, maintainable code](https://engineercodex.substack.com/p/how-google-writes-clean-maintainable) 👤 Leo | Engineer's Codex 💬 1376 🗓️ 2025-09-18
-- [5 Non-LLM Software Trends To Be Excited About](https://read.engineerscodex.com/p/5-non-llm-software-trends-to-be-excited) 👤 Engineer's Codex 💬 1845 🗓️ 2025-09-18
-- [How to burnout a software engineer, in 3 easy steps](https://read.engineerscodex.com/p/how-to-burnout-a-software-engineer) 👤 Leonardo Creed 💬 1322 🔖 #toot, #programming 🗓️ 2025-09-18
-    > **Заметка:** "Working on projects that never ship is, anecdotally, one of the largest causes of burnout."
-
-Мужик дело пишет!
+- [Проектирование — это когда чувствуешь, а не какие-то там циферки, Николай Хитров, PythoNN](https://www.youtube.com/watch?v=eVcx6qZfU-M) 👤 Никита Соболев 🗓️ 2025-09-22
 - [Never Get Bored With The Basics • The Applied Go Weekly Newsletter 2025-09-14](https://newsletter.appliedgo.net/archive/2025-09-14-never-get-bored-with-the-basics/) 👤 The Applied Go Weekly Newsletter 💬 1503 🔖 #go 🗓️ 2025-09-17
 - [Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial](https://m.youtube.com/watch?v=Vs4hQsDpxww) 👤 freeCodeCamp.org 🔖 #try 🗓️ 2025-09-16
 - [Why Go Is A Minimalist Language • The Applied Go Weekly Newsletter 2025-09-07](https://newsletter.appliedgo.net/archive/2025-09-07-why-go-is-a-minimalist-language/) 👤 The Applied Go Weekly Newsletter 💬 1670 🔖 #go 🗓️ 2025-09-08

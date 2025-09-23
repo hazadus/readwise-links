@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 236
+- Всего ссылок: 238
 
 ## Ссылки
 
+- [If you are good at code review, you will be good at using AI agents](https://seangoedecke.com/ai-agents-and-code-review/) 👤 seangoedecke.com 💬 1285 🔖 #llm 🗓️ 2025-09-22
+    > **Резюме:** AI agents can generate lots of code but lack sound judgment.  
+Strong code-review skills—seeing structure and alternatives—let you guide agents away from bad designs.  
+Using AI well means supervising its architecture choices, not just tweaking lines.
+- [AI is good news for Australian and European software engineers](https://seangoedecke.com/ai-is-good-news-for-australian-engineers/) 👤 seangoedecke.com 💬 600 🔖 #llm 🗓️ 2025-09-22
+    > **Резюме:** Today engineers partner with LLMs: humans guide judgment while LLMs do the heavy work. Top LLMs are centralized and tend to be strained or unreliable during US peak hours. Hiring engineers in Australia and Europe lets companies use off-peak compute, keep work running overnight, and avoid peak outages.
 - [I think “agent” may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/#atom-everything) 👤 Simon Willison 💬 1020 🔖 #llm, #agents 🗓️ 2025-09-19
     > **Резюме:** The word "agent" now has a clearer meaning in AI: it means an LLM uses tools repeatedly to reach a goal. This helps people talk about agents without confusion. Some old ideas, like agents replacing humans, are still not realistic.
 - [GPT‑5-Codex and upgrades to Codex](https://simonwillison.net/2025/Sep/15/gpt-5-codex/#atom-everything) 👤 Simon Willison 💬 456 🔖 #llm 🗓️ 2025-09-16

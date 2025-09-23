@@ -1,18 +1,25 @@
 # Архивные ссылки
 
-- Всего ссылок: 1031
+- Всего ссылок: 1035
 
 ## Ссылки
 
 - [4 Software Design Principles I Learned the Hard Way](https://read.engineerscodex.com/p/4-software-design-principles-i-learned) 👤 Leonardo Creed 💬 1108 🔖 #principles, #development 🗓️ 2025-09-18
+- [5 Non-LLM Software Trends To Be Excited About](https://read.engineerscodex.com/p/5-non-llm-software-trends-to-be-excited) 👤 Engineer's Codex 💬 1845 🗓️ 2025-09-18
+- [How to burnout a software engineer, in 3 easy steps](https://read.engineerscodex.com/p/how-to-burnout-a-software-engineer) 👤 Leonardo Creed 💬 1322 🔖 #toot, #career, #programming 🗓️ 2025-09-18
+    > **Заметка:** "Working on projects that never ship is, anecdotally, one of the largest causes of burnout."
+
+Мужик дело пишет!
 - [Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst) 👤 Engineer's Codex 💬 980 🗓️ 2025-09-18
 - [Playwright & pytest techniques that bring me joy](https://www.better-simple.com/django/2025/09/17/playwright-pytest-that-brings-me-joy/) 👤 https://www.better-simple.com/portfolio/ 💬 880 🔖 #pytest, #testing 🗓️ 2025-09-17
 - [The Core Folder Anti-Pattern](https://ImproveAndRepeat.com/2025/09/the-core-folder-anti-pattern/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 918 🔖 #softwaredesign 🗓️ 2025-09-17
 - [Don't Make Your Bed](https://www.joanwestenberg.com/p/don-t-make-your-bed) 👤 Joan Westenberg 💬 801 🗓️ 2025-09-17
 - [GPT‑5-Codex and upgrades to Codex](https://simonwillison.net/2025/Sep/15/gpt-5-codex/#atom-everything) 👤 Simon Willison 💬 456 🔖 #llm 🗓️ 2025-09-16
 - [How to Write "Garbage Code" (by Linus Torvalds)](https://read.engineerscodex.com/p/how-to-not-write-garbage-code-by?utm_source=tldrwebdev) 👤 Engineer's Codex 💬 830 🗓️ 2025-09-15
+- [Why Billionaire Productivity Hacks Won’t Work for You](https://www.joanwestenberg.com/p/why-billionaire-productivity-hacks-won-t-work-for-you) 👤 JA Westenberg 💬 1079 🔖 #productivity 🗓️ 2025-09-15
 - [Models can prompt now](https://simonwillison.net/2025/Sep/14/models-can-prompt/#atom-everything) 👤 Simon Willison 💬 177 🔖 #llm 🗓️ 2025-09-15
 - [What’s a Foreigner?](https://lucumr.pocoo.org/2025/9/14/whats-an-foreigner/) 👤 Armin Ronacher 💬 691 🗓️ 2025-09-15
+- [Tom's Philosophy Of Project Management For Software Development](https://www.tomdalling.com/blog/software-processes/toms-philosophy-of-project-management-for-software-development/?utm_source=rss&utm_medium=rss) 👤 tomdalling.com 💬 738 🔖 #management 🗓️ 2025-09-14
 - [Claude Code Framework Wars](https://shmck.substack.com/p/claude-code-framework-wars?utm_source=tldrwebdev) 👤 Shawn 💬 917 🔖 #llm 🗓️ 2025-09-12
 - [Being good isn’t enough](https://joshs.bearblog.dev/being-good-isnt-enough/?utm_source=tldrwebdev) 👤 people, ideas, machines 💬 598 🔖 #career, #joyandcuriosity 🗓️ 2025-09-15
 - [Comparing the memory implementations of Claude and ChatGPT](https://simonwillison.net/2025/Sep/12/claude-memory/#atom-everything) 👤 Simon Willison 💬 416 🔖 #llm 🗓️ 2025-09-12

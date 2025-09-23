@@ -1,23 +1,43 @@
 # Отложенные ссылки
 
-- Всего ссылок: 66
+- Всего ссылок: 73
 
 ## Ссылки
 
+- [Let the domain guide your application structure](https://rednafi.com/go/app_structure/) 👤 Redowan Delowar 💬 1181 🗓️ 2025-09-22
+    > **Резюме:** Let the domain, not the technology, guide your app's top-level structure.  
+Avoid generic packages like models or handlers that lump multiple domains together.  
+Give each domain its own package and have tech packages (http, postgres) depend on them and be wired in cmd.
+- [If you are good at code review, you will be good at using AI agents](https://seangoedecke.com/ai-agents-and-code-review/) 👤 seangoedecke.com 💬 1285 🔖 #llm 🗓️ 2025-09-22
+    > **Резюме:** AI agents can generate lots of code but lack sound judgment.  
+Strong code-review skills—seeing structure and alternatives—let you guide agents away from bad designs.  
+Using AI well means supervising its architecture choices, not just tweaking lines.
+- [AI is good news for Australian and European software engineers](https://seangoedecke.com/ai-is-good-news-for-australian-engineers/) 👤 seangoedecke.com 💬 600 🔖 #llm 🗓️ 2025-09-22
+    > **Резюме:** Today engineers partner with LLMs: humans guide judgment while LLMs do the heavy work. Top LLMs are centralized and tend to be strained or unreliable during US peak hours. Hiring engineers in Australia and Europe lets companies use off-peak compute, keep work running overnight, and avoid peak outages.
+- [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/) 👤 Martin Fowler 💬 5715 🗓️ 2025-09-22
+    > **Резюме:** The article discusses various patterns for building Generative AI (GenAI) products, including direct prompting, embeddings, and retrieval-augmented generation (RAG). It emphasizes the importance of evaluating LLM responses and using relevant document fragments to enhance the accuracy of the generated content. By combining different approaches, such as query rewriting and reranking, developers can improve the performance and relevance of LLM-based systems.
+- [Plaguenomics: The Social Recession We Can’t Escape](https://www.joanwestenberg.com/p/plaguenomics-the-social-recession-we-can-t-escape) 👤 JA Westenberg 💬 2562 🗓️ 2025-09-20
+    > **Резюме:** Plaguenomics is the post‑COVID collapse of social life and public trust.  
+Isolation, stagnant wages, and attention‑seeking algorithms made anger and polarization normal.  
+Without systematic fixes, this cycle will produce more violence and fragile democracies.
+- [Opening all the files that have been modified in a Git branch](https://alexwlchan.net/2025/review-files-in-text-editor/?ref=rss) 👤 alexwlchan.net 💬 522 🔖 #git 🗓️ 2025-09-19
+    > **Резюме:** This shows how to open every file changed in a Git branch in your local editor. Use git merge-base to find the branch point and git diff --name-only to list changed files. Pipe the list to xargs and open -a "Visual Studio Code" to open them all.
+- [I think “agent” may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/#atom-everything) 👤 Simon Willison 💬 1020 🔖 #llm, #agents 🗓️ 2025-09-19
+    > **Резюме:** The word "agent" now has a clearer meaning in AI: it means an LLM uses tools repeatedly to reach a goal. This helps people talk about agents without confusion. Some old ideas, like agents replacing humans, are still not realistic.
+- [Shipping is your company’s heartbeat](https://www.intercom.com/blog/shipping-is-your-companys-heartbeat/) 👤 Darragh Curran 💬 1158 🗓️ 2025-09-18
+    > **Резюме:** Shipping software quickly is vital because it turns work into real value and creates fast feedback. Slow shipping causes delays, frustration, and lost opportunities to improve. Continuous shipping energizes teams, delights customers, and drives company success.
+- [How Google writes clean, maintainable code](https://engineercodex.substack.com/p/how-google-writes-clean-maintainable) 👤 Leo | Engineer's Codex 💬 1376 🗓️ 2025-09-18
+    > **Резюме:** Google follows a process called Readability, which is a mentorship process for disseminating programming language best practices. Each pull request is reviewed for proper code style and best practices by a code readability approver. To earn readability, engineers must submit code to readability reviewers until they have adequate knowledge. This process helps keep the codebase readable, searchable, and predictable, and enforces best practices and style. However, there are drawbacks, such as potential velocity slowdown and human bias. The need for code quality is subjective and depends on the individual and team.
 - [Disposable Code Is Here to Stay, but Durable Code Is What Runs the World](https://www.honeycomb.io/blog/disposable-code-is-here-to-stay?utm_source=tldrwebdev) 👤 Honeycomb 💬 1844 🗓️ 2025-09-15
     > **Резюме:** Software is splitting into disposable code and durable code.  
 Disposable code is cheap and short-lived; durable code must be reliable, maintainable, and trusted.  
 AI speeds creation but cannot replace the tests, observability, and careful rollouts durable systems need.
-- [Why Billionaire Productivity Hacks Won’t Work for You](https://www.joanwestenberg.com/p/why-billionaire-productivity-hacks-won-t-work-for-you) 👤 JA Westenberg 💬 1079 🗓️ 2025-09-15
-    > **Резюме:** Billionaire routines and productivity hacks often don't fit most people's lives. Advice only works if you share the giver's resources and context, which most of us do not. Treat tips as experiments and learn from people whose lives resemble your own.
 - [Linking to text fragments with a bookmarklet](https://alexwlchan.net/2025/text-fragments-bookmarklet/?ref=rss) 👤 alexwlchan.net 💬 223 🗓️ 2025-09-15
     > **Резюме:** Text fragments let you link to and highlight specific text on a webpage. The author made a bookmarklet that builds the correct fragment URL from selected text. It makes sharing precise links much easier.
 - [Building a Simple Virtual Machine](https://blog.phakorn.com/posts/2025/building-a-simple-vm/) 👤 Phakorn Kiong 💬 2249 🗓️ 2025-09-15
     > **Резюме:** The VM is byte-addressable and uses a 64-bit stack to hold data.  
 Opcodes like PUSH1/PUSH8, STORE1/STORE8, LOAD8, ADD, and RETURN manipulate the stack and memory and are compiled into bytecode.  
 The program counter walks the bytecode, stores data (e.g., "Hello Wo") into memory, and RETURN reads a memory block by offset and size.
-- [Tom's Philosophy Of Project Management For Software Development](https://www.tomdalling.com/blog/software-processes/toms-philosophy-of-project-management-for-software-development/?utm_source=rss&utm_medium=rss) 👤 tomdalling.com 💬 738 🗓️ 2025-09-14
-    > **Резюме:** Software projects are risky and uncertain, so work iteratively, prioritize tasks that reduce risk, and get early feedback. Stakeholder views determine success, so communicate clearly. Keep management lean, give tech leads autonomy with responsibility, and treat fast, cheap failures as learning.
 - [Test state, not interactions](http://rednafi.com/go/test_state_not_interactions/) 👤 Redowan Delowar 💬 1542 🗓️ 2025-09-14
     > **Резюме:** Test outcomes and state, not which functions were called.  
 LLMs and mock-generated interaction tests are brittle and can miss real bugs.  

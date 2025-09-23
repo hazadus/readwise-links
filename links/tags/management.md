@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 34
+- Всего ссылок: 35
 
 ## Ссылки
 
+- [Tom's Philosophy Of Project Management For Software Development](https://www.tomdalling.com/blog/software-processes/toms-philosophy-of-project-management-for-software-development/?utm_source=rss&utm_medium=rss) 👤 tomdalling.com 💬 738 🔖 #management 🗓️ 2025-09-14
+    > **Резюме:** Software projects are risky and uncertain, so work iteratively, prioritize tasks that reduce risk, and get early feedback. Stakeholder views determine success, so communicate clearly. Keep management lean, give tech leads autonomy with responsibility, and treat fast, cheap failures as learning.
 - [Seeing like a software company](https://seangoedecke.com/seeing-like-a-software-company/) 👤 seangoedecke.com 💬 3485 🔖 #leaddev, #estimation, #management, #development 🗓️ 2025-09-03
     > **Резюме:** Large software companies build processes to make work legible.  
 Legibility helps planning, coordination, and making deals but slows delivery.  

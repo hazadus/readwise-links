@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [How to burnout a software engineer, in 3 easy steps](https://read.engineerscodex.com/p/how-to-burnout-a-software-engineer) 👤 Leonardo Creed 💬 1322 🔖 #toot, #programming 🗓️ 2025-09-18
+- [How to burnout a software engineer, in 3 easy steps](https://read.engineerscodex.com/p/how-to-burnout-a-software-engineer) 👤 Leonardo Creed 💬 1322 🔖 #toot, #career, #programming 🗓️ 2025-09-18
     > **Заметка:** "Working on projects that never ship is, anecdotally, one of the largest causes of burnout."
 
 Мужик дело пишет!
