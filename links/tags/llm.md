@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [If you are good at code review, you will be good at using AI agents](https://seangoedecke.com/ai-agents-and-code-review/) 👤 seangoedecke.com 💬 1285 🔖 #llm 🗓️ 2025-09-22
+- [If you are good at code review, you will be good at using AI agents](https://seangoedecke.com/ai-agents-and-code-review/) 👤 seangoedecke.com 💬 1285 🔖 #llm, #codereview 🗓️ 2025-09-22
     > **Резюме:** AI agents can generate lots of code but lack sound judgment.  
 Strong code-review skills—seeing structure and alternatives—let you guide agents away from bad designs.  
 Using AI well means supervising its architecture choices, not just tweaking lines.

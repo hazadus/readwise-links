@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 840
+- Всего ссылок: 842
 
 ## Ссылки
 
+- [Native threading and multiprocessing in Go](https://antonz.org/multi/) 👤 Anton Zhiyanov 💬 972 🔖 #go 🗓️ 2025-09-23
+- [The Big Gotcha With @starting-style](https://www.joshwcomeau.com/css/starting-style/) 👤 Josh W. Comeau 💬 2329 🔖 #css 🗓️ 2025-09-23
 - [Проектирование — это когда чувствуешь, а не какие-то там циферки, Николай Хитров, PythoNN](https://www.youtube.com/watch?v=eVcx6qZfU-M) 👤 Никита Соболев 🗓️ 2025-09-22
 - [Never Get Bored With The Basics • The Applied Go Weekly Newsletter 2025-09-14](https://newsletter.appliedgo.net/archive/2025-09-14-never-get-bored-with-the-basics/) 👤 The Applied Go Weekly Newsletter 💬 1503 🔖 #go 🗓️ 2025-09-17
 - [Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial](https://m.youtube.com/watch?v=Vs4hQsDpxww) 👤 freeCodeCamp.org 🔖 #try 🗓️ 2025-09-16

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [The Big Gotcha With @starting-style](https://www.joshwcomeau.com/css/starting-style/) 👤 Josh W. Comeau 💬 2329 🔖 #css 🗓️ 2025-09-23
+    > **Резюме:** @starting-style lets CSS transitions animate elements when they first appear, but it has limitations with specificity that can stop animations from working. Unlike keyframe animations, @starting-style styles are not automatically prioritized, which can cause conflicts. Because of this, using keyframe animations is often simpler and more reliable than relying on @starting-style.
 - [Rolling the Dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/?utm_source=tldrwebdev) 👤 Jen Simmons 💬 1846 🔖 #css 🗓️ 2025-08-30
     > **Резюме:** CSS now has a random() function to create random values for position, size, color, and rotation.  
 The article demos star fields, random rectangles, and rotated image stacks.  

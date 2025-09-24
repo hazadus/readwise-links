@@ -1,9 +1,12 @@
 # Архивные ссылки
 
-- Всего ссылок: 1035
+- Всего ссылок: 1038
 
 ## Ссылки
 
+- [If you are good at code review, you will be good at using AI agents](https://seangoedecke.com/ai-agents-and-code-review/) 👤 seangoedecke.com 💬 1285 🔖 #llm, #codereview 🗓️ 2025-09-22
+- [AI is good news for Australian and European software engineers](https://seangoedecke.com/ai-is-good-news-for-australian-engineers/) 👤 seangoedecke.com 💬 600 🔖 #llm 🗓️ 2025-09-22
+- [I think “agent” may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/#atom-everything) 👤 Simon Willison 💬 1020 🔖 #llm, #agents 🗓️ 2025-09-19
 - [4 Software Design Principles I Learned the Hard Way](https://read.engineerscodex.com/p/4-software-design-principles-i-learned) 👤 Leonardo Creed 💬 1108 🔖 #principles, #development 🗓️ 2025-09-18
 - [5 Non-LLM Software Trends To Be Excited About](https://read.engineerscodex.com/p/5-non-llm-software-trends-to-be-excited) 👤 Engineer's Codex 💬 1845 🗓️ 2025-09-18
 - [How to burnout a software engineer, in 3 easy steps](https://read.engineerscodex.com/p/how-to-burnout-a-software-engineer) 👤 Leonardo Creed 💬 1322 🔖 #toot, #career, #programming 🗓️ 2025-09-18
