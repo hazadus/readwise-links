@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 56
+- Всего ссылок: 57
 
 ## Ссылки
 
+- [Transitioning from being a developer to a manager](https://piccalil.li/blog/transitioning-from-being-a-developer-to-a-manager/?ref=main-rss-feed) 👤 Piccalilli 💬 1833 🔖 #career, #management 🗓️ 2025-09-24
+    > **Резюме:** Being a manager means enabling others instead of doing the work yourself.  
+You must learn to delegate, listen, adapt your communication, and build trust.  
+Be authentic, manage up and down, and only take the role if you truly want it.
 - [How to burnout a software engineer, in 3 easy steps](https://read.engineerscodex.com/p/how-to-burnout-a-software-engineer) 👤 Leonardo Creed 💬 1322 🔖 #toot, #career, #programming 🗓️ 2025-09-18
     > **Заметка:** "Working on projects that never ship is, anecdotally, one of the largest causes of burnout."
 

@@ -1,9 +1,21 @@
 # Отложенные ссылки
 
-- Всего ссылок: 70
+- Всего ссылок: 72
 
 ## Ссылки
 
+- [Transitioning from being a developer to a manager](https://piccalil.li/blog/transitioning-from-being-a-developer-to-a-manager/?ref=main-rss-feed) 👤 Piccalilli 💬 1833 🔖 #career, #management 🗓️ 2025-09-24
+    > **Резюме:** Being a manager means enabling others instead of doing the work yourself.  
+You must learn to delegate, listen, adapt your communication, and build trust.  
+Be authentic, manage up and down, and only take the role if you truly want it.
+- [To vibe or not to vibe](https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html) 👤 Birgitta Böckeler 💬 1236 🔖 #llm 🗓️ 2025-09-24
+    > **Резюме:** Trusting AI to write code isn't a yes-or-no choice; it depends on risk.  
+Assess three things: how likely AI is wrong, how bad the impact would be, and how easily you will detect mistakes.  
+Use that judgment to choose how much to review and what safeguards to add.
+- [Why Belief Beats Discipline](https://www.joanwestenberg.com/p/why-belief-beats-discipline) 👤 JA Westenberg 💬 1354 🗓️ 2025-09-24
+    > **Резюме:** Change starts with belief, not discipline.  
+Without real belief, high standards become theater and fail.  
+Act "as if" and repeat the behavior until belief and identity follow.
 - [Let the domain guide your application structure](https://rednafi.com/go/app_structure/) 👤 Redowan Delowar 💬 1181 🗓️ 2025-09-22
     > **Резюме:** Let the domain, not the technology, guide your app's top-level structure.  
 Avoid generic packages like models or handlers that lump multiple domains together.  
@@ -16,8 +28,6 @@ Isolation, stagnant wages, and attention‑seeking algorithms made anger and pol
 Without systematic fixes, this cycle will produce more violence and fragile democracies.
 - [Opening all the files that have been modified in a Git branch](https://alexwlchan.net/2025/review-files-in-text-editor/?ref=rss) 👤 alexwlchan.net 💬 522 🔖 #git 🗓️ 2025-09-19
     > **Резюме:** This shows how to open every file changed in a Git branch in your local editor. Use git merge-base to find the branch point and git diff --name-only to list changed files. Pipe the list to xargs and open -a "Visual Studio Code" to open them all.
-- [Shipping is your company’s heartbeat](https://www.intercom.com/blog/shipping-is-your-companys-heartbeat/) 👤 Darragh Curran 💬 1158 🔖 #shipping 🗓️ 2025-09-18
-    > **Резюме:** Shipping software quickly is vital because it turns work into real value and creates fast feedback. Slow shipping causes delays, frustration, and lost opportunities to improve. Continuous shipping energizes teams, delights customers, and drives company success.
 - [How Google writes clean, maintainable code](https://engineercodex.substack.com/p/how-google-writes-clean-maintainable) 👤 Leo | Engineer's Codex 💬 1376 🗓️ 2025-09-18
     > **Резюме:** Google follows a process called Readability, which is a mentorship process for disseminating programming language best practices. Each pull request is reviewed for proper code style and best practices by a code readability approver. To earn readability, engineers must submit code to readability reviewers until they have adequate knowledge. This process helps keep the codebase readable, searchable, and predictable, and enforces best practices and style. However, there are drawbacks, such as potential velocity slowdown and human bias. The need for code quality is subjective and depends on the individual and team.
 - [Disposable Code Is Here to Stay, but Durable Code Is What Runs the World](https://www.honeycomb.io/blog/disposable-code-is-here-to-stay?utm_source=tldrwebdev) 👤 Honeycomb 💬 1844 🗓️ 2025-09-15

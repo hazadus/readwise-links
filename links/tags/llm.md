@@ -1,9 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 238
+- Всего ссылок: 241
 
 ## Ссылки
 
+- [To vibe or not to vibe](https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html) 👤 Birgitta Böckeler 💬 1236 🔖 #llm 🗓️ 2025-09-24
+    > **Резюме:** Trusting AI to write code isn't a yes-or-no choice; it depends on risk.  
+Assess three things: how likely AI is wrong, how bad the impact would be, and how easily you will detect mistakes.  
+Use that judgment to choose how much to review and what safeguards to add.
+- [What I learned building an AI-driven spaced repetition app](https://seangoedecke.com/autodeck/) 👤 seangoedecke.com 💬 1666 🔖 #llm, #inspiration 🗓️ 2025-09-24
+    > **Резюме:** I built AutoDeck, an AI app that generates an infinite, adaptive spaced-repetition flashcard feed for any topic. To keep it fast and varied I batch-generated cards and streamed them as XML chunks so each card appears as it’s made. LLM helpers sped development but needed expert fixes, and inference costs mean the app must charge users.
+- [When AI will browse the web for me](https://www.stefanjudis.com/notes/when-ai-will-browse-the-web-for-me/) 👤 stefanjudis.com 💬 399 🔖 #llm 🗓️ 2025-09-24
+    > **Резюме:** AI is starting to replace traditional web browsing by summarizing and filtering content for us. This could limit what we see and make us trust AI choices over our own. If AI controls information, many websites might become invisible and we could lose control of what we learn.
 - [If you are good at code review, you will be good at using AI agents](https://seangoedecke.com/ai-agents-and-code-review/) 👤 seangoedecke.com 💬 1285 🔖 #llm, #codereview 🗓️ 2025-09-22
     > **Резюме:** AI agents can generate lots of code but lack sound judgment.  
 Strong code-review skills—seeing structure and alternatives—let you guide agents away from bad designs.  

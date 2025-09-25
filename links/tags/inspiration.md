@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 95
+- Всего ссылок: 96
 
 ## Ссылки
 
+- [What I learned building an AI-driven spaced repetition app](https://seangoedecke.com/autodeck/) 👤 seangoedecke.com 💬 1666 🔖 #llm, #inspiration 🗓️ 2025-09-24
+    > **Резюме:** I built AutoDeck, an AI app that generates an infinite, adaptive spaced-repetition flashcard feed for any topic. To keep it fast and varied I batch-generated cards and streamed them as XML chunks so each card appears as it’s made. LLM helpers sped development but needed expert fixes, and inference costs mean the app must charge users.
 - [Highlighted tools](https://simonwillison.net/2025/Sep/4/highlighted-tools/#atom-everything) 👤 Simon Willison 💬 743 🔖 #llm, #toot, #inspiration, #programming 🗓️ 2025-09-05
     > **Заметка:** Саймон рассказывает о своих многочисленных кастомных инструментах. Вдохновляющий материал!
     > **Резюме:** Simon Willison shares a big collection of small web tools built with vibe coding and AI help. He highlights useful ones like in-browser OCR, an annotated presentation creator, image crop/resize tools, Jina Reader, and an LLM pricing calculator. He used OpenAI Codex to add JavaScript that auto-expands a tool’s development history from the URL.

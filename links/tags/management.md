@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 35
+- Всего ссылок: 36
 
 ## Ссылки
 
+- [Transitioning from being a developer to a manager](https://piccalil.li/blog/transitioning-from-being-a-developer-to-a-manager/?ref=main-rss-feed) 👤 Piccalilli 💬 1833 🔖 #career, #management 🗓️ 2025-09-24
+    > **Резюме:** Being a manager means enabling others instead of doing the work yourself.  
+You must learn to delegate, listen, adapt your communication, and build trust.  
+Be authentic, manage up and down, and only take the role if you truly want it.
 - [Tom's Philosophy Of Project Management For Software Development](https://www.tomdalling.com/blog/software-processes/toms-philosophy-of-project-management-for-software-development/?utm_source=rss&utm_medium=rss) 👤 tomdalling.com 💬 738 🔖 #management 🗓️ 2025-09-14
     > **Резюме:** Software projects are risky and uncertain, so work iteratively, prioritize tasks that reduce risk, and get early feedback. Stakeholder views determine success, so communicate clearly. Keep management lean, give tech leads autonomy with responsibility, and treat fast, cheap failures as learning.
 - [Seeing like a software company](https://seangoedecke.com/seeing-like-a-software-company/) 👤 seangoedecke.com 💬 3485 🔖 #leaddev, #estimation, #management, #development 🗓️ 2025-09-03

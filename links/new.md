@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 842
+- Всего ссылок: 843
 
 ## Ссылки
 
+- [Spaced Repetition for Efficient Learning](https://gwern.net/spaced-repetition) 👤 Gwern Branwen 💬 30217 🗓️ 2025-09-24
 - [Native threading and multiprocessing in Go](https://antonz.org/multi/) 👤 Anton Zhiyanov 💬 972 🔖 #go 🗓️ 2025-09-23
 - [The Big Gotcha With @starting-style](https://www.joshwcomeau.com/css/starting-style/) 👤 Josh W. Comeau 💬 2329 🔖 #css 🗓️ 2025-09-23
 - [Проектирование — это когда чувствуешь, а не какие-то там циферки, Николай Хитров, PythoNN](https://www.youtube.com/watch?v=eVcx6qZfU-M) 👤 Никита Соболев 🗓️ 2025-09-22
