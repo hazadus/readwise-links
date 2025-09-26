@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 241
+- Всего ссылок: 243
 
 ## Ссылки
 
+- [How I Use LLMs](https://alexop.dev/posts/how-i-use-llms/) 👤 Alexander Opalic 💬 1907 🔖 #llm 🗓️ 2025-09-25
+    > **Заметка:** См. весь блог
+    > **Резюме:** Alexander Opalic explains how developers can use large language models (LLMs) not just for code generation but also for research, documentation, and learning. He suggests organizing tasks by complexity and using system prompts to improve LLM output. Using tools like code indexing and web search with LLMs helps developers work faster and smarter.
+- [Some Thoughts on "AI"](https://ronjeffries.com/articles/-w025/y/l/) 👤 ronjeffries.com 💬 2445 🔖 #llm 🗓️ 2025-09-25
+    > **Резюме:** The author says today's "AI" is mostly a very smart web search that does much of the grunt programming work. It can speed tasks like a junior helper but uses huge resources and can stop people from learning. The author has mixed feelings: he sometimes uses it but values thinking and worries about moral and practical costs.
 - [To vibe or not to vibe](https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html) 👤 Birgitta Böckeler 💬 1236 🔖 #llm 🗓️ 2025-09-24
     > **Резюме:** Trusting AI to write code isn't a yes-or-no choice; it depends on risk.  
 Assess three things: how likely AI is wrong, how bad the impact would be, and how easily you will detect mistakes.  

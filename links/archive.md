@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1041
+- Всего ссылок: 1043
 
 ## Ссылки
 
+- [Some Thoughts on "AI"](https://ronjeffries.com/articles/-w025/y/l/) 👤 ronjeffries.com 💬 2445 🔖 #llm 🗓️ 2025-09-25
+- [Transitioning from being a developer to a manager](https://piccalil.li/blog/transitioning-from-being-a-developer-to-a-manager/?ref=main-rss-feed) 👤 Piccalilli 💬 1833 🔖 #career, #management 🗓️ 2025-09-24
 - [What I learned building an AI-driven spaced repetition app](https://seangoedecke.com/autodeck/) 👤 seangoedecke.com 💬 1666 🔖 #llm, #inspiration 🗓️ 2025-09-24
 - [When AI will browse the web for me](https://www.stefanjudis.com/notes/when-ai-will-browse-the-web-for-me/) 👤 stefanjudis.com 💬 399 🔖 #llm 🗓️ 2025-09-24
 - [If you are good at code review, you will be good at using AI agents](https://seangoedecke.com/ai-agents-and-code-review/) 👤 seangoedecke.com 💬 1285 🔖 #llm, #codereview 🗓️ 2025-09-22

@@ -1,13 +1,9 @@
 # Отложенные ссылки
 
-- Всего ссылок: 72
+- Всего ссылок: 71
 
 ## Ссылки
 
-- [Transitioning from being a developer to a manager](https://piccalil.li/blog/transitioning-from-being-a-developer-to-a-manager/?ref=main-rss-feed) 👤 Piccalilli 💬 1833 🔖 #career, #management 🗓️ 2025-09-24
-    > **Резюме:** Being a manager means enabling others instead of doing the work yourself.  
-You must learn to delegate, listen, adapt your communication, and build trust.  
-Be authentic, manage up and down, and only take the role if you truly want it.
 - [To vibe or not to vibe](https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html) 👤 Birgitta Böckeler 💬 1236 🔖 #llm 🗓️ 2025-09-24
     > **Резюме:** Trusting AI to write code isn't a yes-or-no choice; it depends on risk.  
 Assess three things: how likely AI is wrong, how bad the impact would be, and how easily you will detect mistakes.  

@@ -1,9 +1,18 @@
 # Новые ссылки
 
-- Всего ссылок: 843
+- Всего ссылок: 851
 
 ## Ссылки
 
+- [How I Use LLMs](https://alexop.dev/posts/how-i-use-llms/) 👤 Alexander Opalic 💬 1907 🔖 #llm 🗓️ 2025-09-25
+    > **Заметка:** См. весь блог
+- [Vibe Coding Is Making Programmers Dumber](https://nmn.gl/blog/vibe-coding-gambling?utm_source=tldrwebdev) 👤 namanyayg 💬 1399 🗓️ 2025-09-25
+- [Introducing upgrades to Codex | OpenAI](https://openai.com/index/introducing-upgrades-to-codex/?utm_source=tldrwebdev) 👤 openai.com 💬 2057 🗓️ 2025-09-25
+- [Why do software developers love complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html?utm_source=tldrwebdev) 👤 Kyrylo Silin 💬 808 🗓️ 2025-09-25
+- [React Won by Default – And It's Killing Frontend Innovation](https://www.lorenstew.art/blog/react-won-by-default/?utm_source=tldrwebdev) 👤 Your Name 💬 1545 🗓️ 2025-09-25
+- [Automatically Generate AI Chat Titles with Animation in Nuxt](https://masteringnuxt.com/blog/automatically-generate-ai-chat-titles-with-animation-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(236)+Hidden+Nuxt+Gems,+and+a+simpler+way+to+pass+lots+of+props+-+19098320&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 1150 🔖 #nuxt 🗓️ 2025-09-25
+- [Nuxt 3 State Management: Pinia vs useState](https://www.vuemastery.com/blog/nuxt-3-state-mangement-pinia-vs-usestate/?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%94%A5%20%28235%29%20Hidden%20Component%20Pattern,%20UI%20states,%20and%20Dedupe%20fetches%20in%20Nuxt%20-%2019014881) 👤 Michael Thiessen 💬 1760 🔖 #nuxt, #pinia 🗓️ 2025-09-25
+- [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents) 👤 anthropic.com 💬 3022 🗓️ 2025-09-25
 - [Spaced Repetition for Efficient Learning](https://gwern.net/spaced-repetition) 👤 Gwern Branwen 💬 30217 🗓️ 2025-09-24
 - [Native threading and multiprocessing in Go](https://antonz.org/multi/) 👤 Anton Zhiyanov 💬 972 🔖 #go 🗓️ 2025-09-23
 - [The Big Gotcha With @starting-style](https://www.joshwcomeau.com/css/starting-style/) 👤 Josh W. Comeau 💬 2329 🔖 #css 🗓️ 2025-09-23
