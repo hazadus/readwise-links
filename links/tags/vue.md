@@ -1,9 +1,31 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 25
 
 ## Ссылки
 
+- [Vue 3.5's onWatcherCleanup: Mastering Side Effect Management in Vue Applications](https://alexop.dev/posts/vue-35s-onwatchercleanup-mastering-side-effect-management-in-vue-applications/) 👤 Alexander Opalic 💬 688 🔖 #vue 🗓️ 2025-09-26
+    > **Резюме:** Vue 3.5 adds onWatcherCleanup to attach cleanup logic directly inside watchers. It automatically aborts requests, clears timers, and removes listeners before reruns or when a watcher stops. This makes code clearer, reduces memory leaks, and fits cleanly into Vue’s reactivity system.
+- [How to Structure Vue Projects](https://alexop.dev/posts/how-to-structure-vue-projects/) 👤 Alexander Opalic 💬 1740 🔖 #vue 🗓️ 2025-09-26
+    > **Резюме:** This article explains different Vue project structures based on project size and complexity, such as flat structures for small projects and feature-sliced designs for large applications. It emphasizes that the right structure enhances scalability, maintainability, and team collaboration. Choosing the appropriate architecture is crucial as it should evolve with your organization's needs.
+- [Atomic Architecture: Revolutionizing Vue and Nuxt Project Structure](https://alexop.dev/posts/atomic-design-vue-or-nuxt/) 👤 Alexander Opalic 💬 1176 🔖 #vue, #nuxt 🗓️ 2025-09-26
+    > **Резюме:** Atomic Design organizes UI into atoms, molecules, organisms, templates, and pages to make components smaller and clearer. Applied to Vue/Nuxt, atoms are pure single-purpose components, molecules combine atoms, and organisms are larger reusable pieces. Refactoring a Todo app this way reduces duplication, simplifies testing, and improves maintainability.
+- [Create a Native-Like App in 4 Steps: PWA Magic with Vue 3 and Vite](https://alexop.dev/posts/create-pwa-vue3-vite-4-steps/) 👤 Alexander Opalic 💬 1944 🔖 #pwa, #vue 🗓️ 2025-09-26
+    > **Резюме:** This tutorial teaches you how to create a Progressive Web App (PWA) using Vue 3 and Vite in four simple steps. You will set up a Vue project, create necessary assets, configure Vite for PWA support, and implement offline functionality with service workers. By the end, you'll have a fully functional PWA that works across various devices and can be installed on users' home screens.
+- [SQLite in Vue: Complete Guide to Building Offline-First Web Apps](https://alexop.dev/posts/sqlite-vue3-offline-first-web-apps-guide/) 👤 Alexander Opalic 💬 5636 🔖 #vue 🗓️ 2025-09-26
+    > **Резюме:** The guide "SQLite in Vue" by Alexander Opalic teaches how to create offline-first web apps using SQLite in Vue.js. It covers key features like executing SQL commands and managing database connections. The guide is designed to help developers easily integrate SQLite into their applications.
+- [How to Use the Variant Props Pattern in Vue](https://alexop.dev/posts/vue-typescript-variant-props-type-safe-props/) 👤 Alexander Opalic 💬 718 🔖 #vue 🗓️ 2025-09-26
+    > **Резюме:** The Variant Props Pattern (VPP) in Vue uses TypeScript’s discriminated unions to create type-safe component variants. This approach prevents mixing incompatible props by marking unused properties as "never." It helps developers build components, like notifications, that manage different states without errors.
+- [Building Local-First Apps with Vue and Dexie.js](https://alexop.dev/posts/building-local-first-apps-vue-dexie/) 👤 Alexander Opalic 💬 1354 🔖 #vue 🗓️ 2025-09-26
+    > **Резюме:** This guide shows how to build local-first, offline-capable web apps using Vue 3 and Dexie.js. Dexie stores data in IndexedDB locally and uses Dexie Cloud for sync, auth, and conflict resolution. A todo app example and a repository pattern demonstrate setup, sync configuration, and best practices.
+- [The Browser That Speaks 200 Languages: Building an AI Translator Without APIs](https://alexop.dev/posts/building-client-side-ai-translator-vue/) 👤 Alexander Opalic 💬 1247 🔖 #try, #vue, #webworkers 🗓️ 2025-09-26
+    > **Резюме:** This guide shows how to build a free offline AI translator for 200 languages using Vue and Transformers.js. It runs Meta’s NLLB-200 model locally in a Web Worker and streams translation updates. The app includes language selectors, a progress bar, and a simple Vue interface.
+- [Solving Prop Drilling in Vue: Modern State Management Strategies](https://alexop.dev/posts/solving-prop-drilling-in-vue/) 👤 Alexander Opalic 💬 798 🔖 #vue 🗓️ 2025-09-26
+    > **Резюме:** Prop drilling makes code brittle, hard to debug, and slow.  
+Use Pinia for app-wide state, composables for reusable logic, and provide/inject for scoped subtree sharing.  
+Avoid event buses and prefer typed, testable patterns with DevTools support.
+- [How to Do Visual Regression Testing in Vue with Vitest?](https://alexop.dev/posts/visual-regression-testing-with-vue-and-vitest-browser/) 👤 Alexander Opalic 💬 993 🔖 #vue, #vitest, #testing 🗓️ 2025-09-26
+    > **Резюме:** Visual regression testing captures screenshots of Vue components and compares them to baseline images to catch unintended UI changes. Vitest’s experimental browser mode with Playwright renders stories in a real browser, takes screenshots, and compares them to baselines. It needs extra config and manual diff review, but helps keep the UI consistent and lets designers inspect changes.
 - [What are Effect Scopes in Vue?](https://michaelnthiessen.com/what-are-effect-scopes-in-vue?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(230)+What+are+Effect+Scopes+in+Vue?+-+18611005&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1063 🔖 #vue, #nuxt 🗓️ 2025-08-13
     > **Резюме:** Effect scopes in Vue group related reactive effects so they can be stopped and cleaned up easily. This helps prevent memory leaks and bugs by controlling how long effects live. They are used inside components and also for advanced patterns like shared composables.
 - [Bulletproof Watchers in Vue](https://michaelnthiessen.com/bulletproof-watchers-in-vue?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=Bulletproof+Watchers+in+Vue+(no+more+leaks+or+duplicate+effects)+-+18562994) 👤 michaelnthiessen.com 💬 1040 🔖 #vue, #nuxt, #toot, #webdev, #programming 🗓️ 2025-08-09

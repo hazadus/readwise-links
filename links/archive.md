@@ -1,9 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 1043
+- Всего ссылок: 1046
 
 ## Ссылки
 
+- [How I Use LLMs](https://alexop.dev/posts/how-i-use-llms/) 👤 Alexander Opalic 💬 1907 🔖 #llm 🗓️ 2025-09-25
+    > **Заметка:** Есть ссылки на интересные инструменты
+- [Automatically Generate AI Chat Titles with Animation in Nuxt](https://masteringnuxt.com/blog/automatically-generate-ai-chat-titles-with-animation-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(236)+Hidden+Nuxt+Gems,+and+a+simpler+way+to+pass+lots+of+props+-+19098320&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 1150 🔖 #css, #nuxt 🗓️ 2025-09-25
+- [Nuxt 3 State Management: Pinia vs useState](https://www.vuemastery.com/blog/nuxt-3-state-mangement-pinia-vs-usestate/?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%94%A5%20%28235%29%20Hidden%20Component%20Pattern,%20UI%20states,%20and%20Dedupe%20fetches%20in%20Nuxt%20-%2019014881) 👤 Michael Thiessen 💬 1760 🔖 #nuxt, #pinia 🗓️ 2025-09-25
 - [Some Thoughts on "AI"](https://ronjeffries.com/articles/-w025/y/l/) 👤 ronjeffries.com 💬 2445 🔖 #llm 🗓️ 2025-09-25
 - [Transitioning from being a developer to a manager](https://piccalil.li/blog/transitioning-from-being-a-developer-to-a-manager/?ref=main-rss-feed) 👤 Piccalilli 💬 1833 🔖 #career, #management 🗓️ 2025-09-24
 - [What I learned building an AI-driven spaced repetition app](https://seangoedecke.com/autodeck/) 👤 seangoedecke.com 💬 1666 🔖 #llm, #inspiration 🗓️ 2025-09-24

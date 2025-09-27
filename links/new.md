@@ -1,18 +1,24 @@
 # Новые ссылки
 
-- Всего ссылок: 851
+- Всего ссылок: 858
 
 ## Ссылки
 
-- [How I Use LLMs](https://alexop.dev/posts/how-i-use-llms/) 👤 Alexander Opalic 💬 1907 🔖 #llm 🗓️ 2025-09-25
-    > **Заметка:** См. весь блог
-- [Vibe Coding Is Making Programmers Dumber](https://nmn.gl/blog/vibe-coding-gambling?utm_source=tldrwebdev) 👤 namanyayg 💬 1399 🗓️ 2025-09-25
+- [How to Build Your Own Vue-like Reactivity System from Scratch](https://alexop.dev/posts/how-to-build-your-own-vue-like-reactivity-system-from-scratch/) 👤 Alexander Opalic 💬 777 🔖 #typescript 🗓️ 2025-09-26
+- [Vue 3.5's onWatcherCleanup: Mastering Side Effect Management in Vue Applications](https://alexop.dev/posts/vue-35s-onwatchercleanup-mastering-side-effect-management-in-vue-applications/) 👤 Alexander Opalic 💬 688 🔖 #vue 🗓️ 2025-09-26
+- [How to Structure Vue Projects](https://alexop.dev/posts/how-to-structure-vue-projects/) 👤 Alexander Opalic 💬 1740 🔖 #vue 🗓️ 2025-09-26
+- [Atomic Architecture: Revolutionizing Vue and Nuxt Project Structure](https://alexop.dev/posts/atomic-design-vue-or-nuxt/) 👤 Alexander Opalic 💬 1176 🔖 #vue, #nuxt 🗓️ 2025-09-26
+- [Create a Native-Like App in 4 Steps: PWA Magic with Vue 3 and Vite](https://alexop.dev/posts/create-pwa-vue3-vite-4-steps/) 👤 Alexander Opalic 💬 1944 🔖 #pwa, #vue 🗓️ 2025-09-26
+- [SQLite in Vue: Complete Guide to Building Offline-First Web Apps](https://alexop.dev/posts/sqlite-vue3-offline-first-web-apps-guide/) 👤 Alexander Opalic 💬 5636 🔖 #vue 🗓️ 2025-09-26
+- [How to Use the Variant Props Pattern in Vue](https://alexop.dev/posts/vue-typescript-variant-props-type-safe-props/) 👤 Alexander Opalic 💬 718 🔖 #vue 🗓️ 2025-09-26
+- [Building Local-First Apps with Vue and Dexie.js](https://alexop.dev/posts/building-local-first-apps-vue-dexie/) 👤 Alexander Opalic 💬 1354 🔖 #vue 🗓️ 2025-09-26
+- [Unlocking Reading Insights: A Guide to Data Analysis with Claude and Readwise](https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/) 👤 Alexander Opalic 💬 1522 🗓️ 2025-09-26
+- [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) 👤 mozilla.org 💬 613 🔖 #webworkers 🗓️ 2025-09-26
+- [The Browser That Speaks 200 Languages: Building an AI Translator Without APIs](https://alexop.dev/posts/building-client-side-ai-translator-vue/) 👤 Alexander Opalic 💬 1247 🔖 #try, #vue, #webworkers 🗓️ 2025-09-26
+- [Solving Prop Drilling in Vue: Modern State Management Strategies](https://alexop.dev/posts/solving-prop-drilling-in-vue/) 👤 Alexander Opalic 💬 798 🔖 #vue 🗓️ 2025-09-26
+- [How to Do Visual Regression Testing in Vue with Vitest?](https://alexop.dev/posts/visual-regression-testing-with-vue-and-vitest-browser/) 👤 Alexander Opalic 💬 993 🔖 #vue, #vitest, #testing 🗓️ 2025-09-26
+- [How to Use AI for Effective Diagram Creation: A Guide to ChatGPT and Mermaid](https://alexop.dev/posts/how-to-use-ai-for-effective-diagram-creation-a-guide-to-chatgpt-and-mermaid) 👤 Alexander Opalic 💬 297 🗓️ 2025-09-26
 - [Introducing upgrades to Codex | OpenAI](https://openai.com/index/introducing-upgrades-to-codex/?utm_source=tldrwebdev) 👤 openai.com 💬 2057 🗓️ 2025-09-25
-- [Why do software developers love complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html?utm_source=tldrwebdev) 👤 Kyrylo Silin 💬 808 🗓️ 2025-09-25
-- [React Won by Default – And It's Killing Frontend Innovation](https://www.lorenstew.art/blog/react-won-by-default/?utm_source=tldrwebdev) 👤 Your Name 💬 1545 🗓️ 2025-09-25
-- [Automatically Generate AI Chat Titles with Animation in Nuxt](https://masteringnuxt.com/blog/automatically-generate-ai-chat-titles-with-animation-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(236)+Hidden+Nuxt+Gems,+and+a+simpler+way+to+pass+lots+of+props+-+19098320&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 1150 🔖 #nuxt 🗓️ 2025-09-25
-- [Nuxt 3 State Management: Pinia vs useState](https://www.vuemastery.com/blog/nuxt-3-state-mangement-pinia-vs-usestate/?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%94%A5%20%28235%29%20Hidden%20Component%20Pattern,%20UI%20states,%20and%20Dedupe%20fetches%20in%20Nuxt%20-%2019014881) 👤 Michael Thiessen 💬 1760 🔖 #nuxt, #pinia 🗓️ 2025-09-25
-- [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents) 👤 anthropic.com 💬 3022 🗓️ 2025-09-25
 - [Spaced Repetition for Efficient Learning](https://gwern.net/spaced-repetition) 👤 Gwern Branwen 💬 30217 🗓️ 2025-09-24
 - [Native threading and multiprocessing in Go](https://antonz.org/multi/) 👤 Anton Zhiyanov 💬 972 🔖 #go 🗓️ 2025-09-23
 - [The Big Gotcha With @starting-style](https://www.joshwcomeau.com/css/starting-style/) 👤 Josh W. Comeau 💬 2329 🔖 #css 🗓️ 2025-09-23

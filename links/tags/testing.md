@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 37
+- Всего ссылок: 38
 
 ## Ссылки
 
+- [How to Do Visual Regression Testing in Vue with Vitest?](https://alexop.dev/posts/visual-regression-testing-with-vue-and-vitest-browser/) 👤 Alexander Opalic 💬 993 🔖 #vue, #vitest, #testing 🗓️ 2025-09-26
+    > **Резюме:** Visual regression testing captures screenshots of Vue components and compares them to baseline images to catch unintended UI changes. Vitest’s experimental browser mode with Playwright renders stories in a real browser, takes screenshots, and compares them to baselines. It needs extra config and manual diff review, but helps keep the UI consistent and lets designers inspect changes.
 - [Playwright & pytest techniques that bring me joy](https://www.better-simple.com/django/2025/09/17/playwright-pytest-that-brings-me-joy/) 👤 https://www.better-simple.com/portfolio/ 💬 880 🔖 #pytest, #testing 🗓️ 2025-09-17
     > **Резюме:** I use Playwright for end-to-end tests as apps with HTMX and Alpine reduce unit and integration coverage.  
 I capture popups with expect_page, tag tests with pytest markers to run or switch context, and debug with page.pause or headed/PWDEBUG.  

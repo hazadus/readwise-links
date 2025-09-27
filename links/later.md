@@ -1,9 +1,21 @@
 # Отложенные ссылки
 
-- Всего ссылок: 71
+- Всего ссылок: 75
 
 ## Ссылки
 
+- [Vibe Coding Is Making Programmers Dumber](https://nmn.gl/blog/vibe-coding-gambling?utm_source=tldrwebdev) 👤 namanyayg 💬 1399 🗓️ 2025-09-25
+    > **Резюме:** The author says AI that writes code is making programmers dumber.  
+It gives quick fixes instead of deep understanding, so people ship code they don't fully grasp.  
+He urges using AI intentionally: learn the output, keep practising, and let AI amplify thinking, not replace it.
+- [Why do software developers love complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html?utm_source=tldrwebdev) 👤 Kyrylo Silin 💬 808 🗓️ 2025-09-25
+    > **Резюме:** Software developers often create complex systems because complexity looks impressive and signals expertise. Marketing and team pressures encourage adding features and layers, even when simpler solutions work better. In the end, building clear and purposeful software is more valuable than piling on unnecessary complexity.
+- [React Won by Default – And It's Killing Frontend Innovation](https://www.lorenstew.art/blog/react-won-by-default/?utm_source=tldrwebdev) 👤 Your Name 💬 1545 🗓️ 2025-09-25
+    > **Резюме:** React is chosen by default, which blocks new and better frontend frameworks from growing. This limits innovation and makes developers spend time managing React’s complexities instead of building value. To improve, teams should pick tools based on their needs, not just what’s popular.
+- [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents) 👤 anthropic.com 💬 3022 🗓️ 2025-09-25
+    > **Резюме:** Build and evaluate tools together with agents using prototypes and automated tests.  
+Use iterative agent feedback (e.g., Claude Code) to refine implementations and tool descriptions.  
+Prefer clear, narrowly scoped tools that return useful, token‑efficient context and fit real workflows.
 - [To vibe or not to vibe](https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html) 👤 Birgitta Böckeler 💬 1236 🔖 #llm 🗓️ 2025-09-24
     > **Резюме:** Trusting AI to write code isn't a yes-or-no choice; it depends on risk.  
 Assess three things: how likely AI is wrong, how bad the impact would be, and how easily you will detect mistakes.  

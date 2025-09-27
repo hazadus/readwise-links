@@ -1,10 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 46
+- Всего ссылок: 47
 
 ## Ссылки
 
-- [Automatically Generate AI Chat Titles with Animation in Nuxt](https://masteringnuxt.com/blog/automatically-generate-ai-chat-titles-with-animation-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(236)+Hidden+Nuxt+Gems,+and+a+simpler+way+to+pass+lots+of+props+-+19098320&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 1150 🔖 #nuxt 🗓️ 2025-09-25
+- [Atomic Architecture: Revolutionizing Vue and Nuxt Project Structure](https://alexop.dev/posts/atomic-design-vue-or-nuxt/) 👤 Alexander Opalic 💬 1176 🔖 #vue, #nuxt 🗓️ 2025-09-26
+    > **Резюме:** Atomic Design organizes UI into atoms, molecules, organisms, templates, and pages to make components smaller and clearer. Applied to Vue/Nuxt, atoms are pure single-purpose components, molecules combine atoms, and organisms are larger reusable pieces. Refactoring a Todo app this way reduces duplication, simplifies testing, and improves maintainability.
+- [Automatically Generate AI Chat Titles with Animation in Nuxt](https://masteringnuxt.com/blog/automatically-generate-ai-chat-titles-with-animation-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(236)+Hidden+Nuxt+Gems,+and+a+simpler+way+to+pass+lots+of+props+-+19098320&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 1150 🔖 #css, #nuxt 🗓️ 2025-09-25
     > **Резюме:** Use AI to auto-generate short, three-word chat titles from the user's first message. Create chats on the server and request the title in the background when the first message is sent. Show the new title with a typewriter animation for a polished, lively UI.
 - [Nuxt 3 State Management: Pinia vs useState](https://www.vuemastery.com/blog/nuxt-3-state-mangement-pinia-vs-usestate/?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%94%A5%20%28235%29%20Hidden%20Component%20Pattern,%20UI%20states,%20and%20Dedupe%20fetches%20in%20Nuxt%20-%2019014881) 👤 Michael Thiessen 💬 1760 🔖 #nuxt, #pinia 🗓️ 2025-09-25
     > **Резюме:** useState fixes ref issues: cross-request pollution, hydration, and sharing. Pinia adds devtools, organized stores, actions, and getters for a better developer experience. Use Pinia for complex apps and useState for small, simple apps.

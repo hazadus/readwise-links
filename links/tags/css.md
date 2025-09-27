@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [Automatically Generate AI Chat Titles with Animation in Nuxt](https://masteringnuxt.com/blog/automatically-generate-ai-chat-titles-with-animation-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(236)+Hidden+Nuxt+Gems,+and+a+simpler+way+to+pass+lots+of+props+-+19098320&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 1150 🔖 #css, #nuxt 🗓️ 2025-09-25
+    > **Резюме:** Use AI to auto-generate short, three-word chat titles from the user's first message. Create chats on the server and request the title in the background when the first message is sent. Show the new title with a typewriter animation for a polished, lively UI.
 - [The Big Gotcha With @starting-style](https://www.joshwcomeau.com/css/starting-style/) 👤 Josh W. Comeau 💬 2329 🔖 #css 🗓️ 2025-09-23
     > **Резюме:** @starting-style lets CSS transitions animate elements when they first appear, but it has limitations with specificity that can stop animations from working. Unlike keyframe animations, @starting-style styles are not automatically prioritized, which can cause conflicts. Because of this, using keyframe animations is often simpler and more reliable than relying on @starting-style.
 - [Rolling the Dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/?utm_source=tldrwebdev) 👤 Jen Simmons 💬 1846 🔖 #css 🗓️ 2025-08-30
