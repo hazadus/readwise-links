@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 858
+- Всего ссылок: 860
 
 ## Ссылки
 
+- [Endless AI-generated Wikipedia](https://seangoedecke.com/endless-wiki/) 👤 seangoedecke.com 💬 654 🗓️ 2025-09-27
+- [How to Implement Dependency Injection in Go - Explained with Code Examples](https://www.freecodecamp.org/news/how-to-use-dependency-injection-in-go/) 👤 Gabor Koos 💬 5087 🔖 #go 🗓️ 2025-09-27
 - [How to Build Your Own Vue-like Reactivity System from Scratch](https://alexop.dev/posts/how-to-build-your-own-vue-like-reactivity-system-from-scratch/) 👤 Alexander Opalic 💬 777 🔖 #typescript 🗓️ 2025-09-26
 - [Vue 3.5's onWatcherCleanup: Mastering Side Effect Management in Vue Applications](https://alexop.dev/posts/vue-35s-onwatchercleanup-mastering-side-effect-management-in-vue-applications/) 👤 Alexander Opalic 💬 688 🔖 #vue 🗓️ 2025-09-26
 - [How to Structure Vue Projects](https://alexop.dev/posts/how-to-structure-vue-projects/) 👤 Alexander Opalic 💬 1740 🔖 #vue 🗓️ 2025-09-26
