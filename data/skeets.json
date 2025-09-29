@@ -27,7 +27,8 @@
         "01k4w1qn2vw10kqymh1t0nm8wq",
         "01k4ytdsk9z2ryr6epnhnc4nc6",
         "01k42b6swkgw9rmtbv83gqtfkj",
-        "01k5f8mdwyebntk4krv6a4cx9q"
+        "01k5f8mdwyebntk4krv6a4cx9q",
+        "01k65nyzeh1natbb7xqmxxkbby"
     ],
     "skeets": [
         {
@@ -197,6 +198,12 @@
             "document_title": "How to burnout a software engineer, in 3 easy steps",
             "source_url": "https://read.engineerscodex.com/p/how-to-burnout-a-software-engineer",
             "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lz6cn27vla27"
+        },
+        {
+            "document_id": "01k65nyzeh1natbb7xqmxxkbby",
+            "document_title": "Endless AI-generated Wikipedia",
+            "source_url": "https://seangoedecke.com/endless-wiki/",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3lzxhdkleyx27"
         }
     ]
 }
