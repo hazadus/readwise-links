@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner?utm_source=substack&utm_medium=email) 👤 annie's blog 💬 449 🔖 #fun, #joyandcuriosity 🗓️ 2025-09-28
+    > **Резюме:** A developer wrote a jargon-filled, messy tutorial for beginners.  
+As a non-developer, I struggled for hours and many searches but followed the steps and finally made it work.  
+I appreciate the effort and felt satisfied even though I didn’t fully understand.
 - [i ran Claude in a loop for three months, and it created a genz programming language called cursed](https://ghuntley.com/cursed/) 👤 Geoffrey Huntley 💬 1114 🔖 #fun, #llm 🗓️ 2025-09-09
     > **Резюме:** A programmer spent three months using the AI Claude to create a new Gen Z-themed programming language called "cursed." The language swaps traditional coding words with slang and can compile programs on multiple platforms. The project is open-source and aims to grow with community help and more AI-driven development.
 - [Fuck Everything, We're Doing Five Blades](https://theonion.com/fuck-everything-were-doing-five-blades-1819584036/?utm_source=substack&utm_medium=email) 👤 The Onion Staff 💬 787 🔖 #fun, #joyandcuriosity 🗓️ 2025-08-31

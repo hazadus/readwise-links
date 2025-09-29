@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 57
+- Всего ссылок: 58
 
 ## Ссылки
 
+- [Same again. No rush.](mailto:reader-forwarded-email/0ac3bade96f1fa0fc69e976c018de601) 👤 Carlton Gibson 💬 907 🔖 #career 🗓️ 2025-09-28
+    > **Резюме:** The author reflects on twenty years as a developer and how a mentor’s advice steered him away from academia.  
+He feels experienced, excited for another twenty years, and sees work as a long, rewarding journey.  
+His main message: don’t rush — pace yourself to avoid burnout and enjoy the process.
 - [Transitioning from being a developer to a manager](https://piccalil.li/blog/transitioning-from-being-a-developer-to-a-manager/?ref=main-rss-feed) 👤 Piccalilli 💬 1833 🔖 #career, #management 🗓️ 2025-09-24
     > **Резюме:** Being a manager means enabling others instead of doing the work yourself.  
 You must learn to delegate, listen, adapt your communication, and build trust.  

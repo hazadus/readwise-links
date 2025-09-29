@@ -1,9 +1,18 @@
 # Архивные ссылки
 
-- Всего ссылок: 1046
+- Всего ссылок: 1054
 
 ## Ссылки
 
+- [How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner?utm_source=substack&utm_medium=email) 👤 annie's blog 💬 449 🔖 #fun, #joyandcuriosity 🗓️ 2025-09-28
+- [You're not using LLMs enough](https://florianbrand.de/posts/use-llms-more?utm_source=substack&utm_medium=email) 👤 Florian Brand 💬 351 🔖 #llm, #joyandcuriosity 🗓️ 2025-09-28
+- [Same again. No rush.](mailto:reader-forwarded-email/0ac3bade96f1fa0fc69e976c018de601) 👤 Carlton Gibson 💬 907 🔖 #career 🗓️ 2025-09-28
+- [What is "good taste" in software engineering?](https://seangoedecke.com/taste/) 👤 seangoedecke.com 💬 1835 🔖 #development, #architecture, #softwaredesign 🗓️ 2025-09-28
+- [I Don't Know You, Don't Ask For References](https://daniel.feldroy.com/posts/i-dont-know-you-so-dont-ask-for-references) 👤 https://daniel.feldroy.com 💬 701 🗓️ 2025-09-28
+- [AI coding agents rely too much on fallbacks](https://seangoedecke.com/agents-and-fallbacks/) 👤 seangoedecke.com 💬 459 🔖 #llm 🗓️ 2025-09-28
+- [Write the damn code](https://antonz.org/write-code/) 👤 Anton Zhiyanov 💬 251 🔖 #llm 🗓️ 2025-09-28
+- [Endless AI-generated Wikipedia](https://seangoedecke.com/endless-wiki/) 👤 seangoedecke.com 💬 654 🔖 #llm, #toot, #inspiration 🗓️ 2025-09-27
+    > **Заметка:** Шон реализовал гениальную в своей простоте идею "бесконечной энциклопедии" на основе LLM. Впечатляет!
 - [How I Use LLMs](https://alexop.dev/posts/how-i-use-llms/) 👤 Alexander Opalic 💬 1907 🔖 #llm 🗓️ 2025-09-25
     > **Заметка:** Есть ссылки на интересные инструменты
 - [Automatically Generate AI Chat Titles with Animation in Nuxt](https://masteringnuxt.com/blog/automatically-generate-ai-chat-titles-with-animation-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(236)+Hidden+Nuxt+Gems,+and+a+simpler+way+to+pass+lots+of+props+-+19098320&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 1150 🔖 #css, #nuxt 🗓️ 2025-09-25

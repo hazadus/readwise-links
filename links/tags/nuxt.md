@@ -166,7 +166,7 @@ Links marked with * are affiliate links. I get a small commission when you regis
 - [Deploying Nuxt Static Site to Github Pages with GitHub Actions - Don Lalicon](https://donlalicon.dev/articles/nuxt-static-github-pages-action) 👤 donlalicon.dev 💬 396 🔖 #nuxt, #devops, #github 🗓️ 2024-03-28
     > **Резюме:** Easily deploy static sites generated using Nuxt.js to Github Pages with Github Actions.
 - [Create Beautiful PDFs with HTML, CSS, and Markdown | Michael Thiessen](https://michaelnthiessen.com/create-beautiful-pdfs-with-html-css-and-markdown?ck_subscriber_id=2108193410) 👤 michaelnthiessen.com 💬 2592 🔖 #nuxt 🗓️ 2024-08-01
-    > **Резюме:** I built an easy-to-use tool that lets me use just HTML, CSS, and Markdown to create beautiful ebooks and PDFs.
+    > **Резюме:** Paperback converts Markdown, HTML, and CSS into polished PDFs. It builds one HTML page, uses Prince for paged-media CSS, and creates a dynamic table of contents. A dev server with hot reloading lets you preview and tweak styles before exporting.
 - [Prisma with Nuxt 3](https://masteringnuxt.com/blog/getting-data-with-prisma?ck_subscriber_id=2108193410) 👤 masteringnuxt.com 💬 1381 🔖 #db, #nuxt 🗓️ 2024-08-01
     > **Резюме:** The article explains how to use Prisma in a Nuxt 3 application to fetch data from a database. It covers creating server routes to retrieve specific lessons and course outlines while maintaining type safety. The next article will focus on modifying and adding new data to the database.
 - [Analyze Memory Leaks in Your Nuxt App | Michael Hoffmann](https://mokkapps.de/blog/analyze-memory-leaks-in-your-nuxt-app) 👤 mokkapps.de 💬 842 🔖 #nuxt 🗓️ 2024-08-19

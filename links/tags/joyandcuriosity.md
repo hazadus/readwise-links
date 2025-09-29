@@ -1,9 +1,27 @@
 # Ссылки
 
-- Всего ссылок: 24
+- Всего ссылок: 29
 
 ## Ссылки
 
+- [Libghostty Is Coming](https://mitchellh.com/writing/libghostty-is-coming?utm_source=substack&utm_medium=email) 👤 Mitchell Hashimoto 💬 1439 🔖 #joyandcuriosity 🗓️ 2025-09-28
+    > **Резюме:** Libghostty is an embeddable, zero-dependency terminal-emulation library from Ghostty. libghostty-vt parses terminal sequences and maintains terminal state with high speed and correctness. It is alpha (Zig API available, C API coming), targets macOS and Linux, and seeks user feedback.
+- [Things I Believe](https://leerob.com/beliefs?utm_source=substack&utm_medium=email) 👤 Lee Robinson 💬 326 🔖 #joyandcuriosity 🗓️ 2025-09-28
+    > **Резюме:** Ship fast, learn from customers, and prioritize adoption.  
+Seek truth, admit mistakes, and communicate clearly.  
+Lead by owning outcomes, hiring great people, teaching honestly, and assuming good intent.
+- [How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner?utm_source=substack&utm_medium=email) 👤 annie's blog 💬 449 🔖 #fun, #joyandcuriosity 🗓️ 2025-09-28
+    > **Резюме:** A developer wrote a jargon-filled, messy tutorial for beginners.  
+As a non-developer, I struggled for hours and many searches but followed the steps and finally made it work.  
+I appreciate the effort and felt satisfied even though I didn’t fully understand.
+- [You're not using LLMs enough](https://florianbrand.de/posts/use-llms-more?utm_source=substack&utm_medium=email) 👤 Florian Brand 💬 351 🔖 #llm, #joyandcuriosity 🗓️ 2025-09-28
+    > **Резюме:** Many people don't use LLMs enough and keep wasting time on old routines.  
+LLMs can automate tasks like scraping, converting images to calendar entries, translating text, and syncing files.  
+For a small cost you can save time and focus on more important work.
+- [Thoughts on Testing January 4, 2024](https://www.brandons.me/blog/thoughts-on-testing?utm_source=substack&utm_medium=email) 👤 Brandon Smith 💬 1461 🔖 #testing, #joyandcuriosity 🗓️ 2025-09-28
+    > **Резюме:** Tests help but they cost time because they are code to write, maintain, and run.  
+Only write tests that add lasting value: prefer static analysis, check intent not implementation, and avoid fragile mocked checks.  
+Skip unit tests for UI rendering; test stable business logic, state, and reusable components instead.
 - [Being good isn’t enough](https://joshs.bearblog.dev/being-good-isnt-enough/?utm_source=tldrwebdev) 👤 people, ideas, machines 💬 598 🔖 #career, #joyandcuriosity 🗓️ 2025-09-15
     > **Резюме:** Being good at your craft is necessary but won’t make you stand out forever.  
 Grow product thinking, project execution, and people skills, and use feedback and humility to find your weakest area.  

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 96
+- Всего ссылок: 97
 
 ## Ссылки
 
+- [Endless AI-generated Wikipedia](https://seangoedecke.com/endless-wiki/) 👤 seangoedecke.com 💬 654 🔖 #llm, #toot, #inspiration 🗓️ 2025-09-27
+    > **Заметка:** Шон реализовал гениальную в своей простоте идею "бесконечной энциклопедии" на основе LLM. Впечатляет!
+    > **Резюме:** The author built EndlessWiki, an infinite AI-generated encyclopedia at endlesswiki.com. Pages are created on demand by a large language model and saved to a database. The site forces users to explore by clicking links and serves as a toy demo of non-chat LLM interfaces.
 - [What I learned building an AI-driven spaced repetition app](https://seangoedecke.com/autodeck/) 👤 seangoedecke.com 💬 1666 🔖 #llm, #inspiration 🗓️ 2025-09-24
     > **Резюме:** I built AutoDeck, an AI app that generates an infinite, adaptive spaced-repetition flashcard feed for any topic. To keep it fast and varied I batch-generated cards and streamed them as XML chunks so each card appears as it’s made. LLM helpers sped development but needed expert fixes, and inference costs mean the app must charge users.
 - [Highlighted tools](https://simonwillison.net/2025/Sep/4/highlighted-tools/#atom-everything) 👤 Simon Willison 💬 743 🔖 #llm, #toot, #inspiration, #programming 🗓️ 2025-09-05

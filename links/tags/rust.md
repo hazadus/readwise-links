@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 20
+- Всего ссылок: 21
 
 ## Ссылки
 
+- [On Choosing Rust](https://endler.dev/2025/choosing-rust/) 👤 Matthias Endler 💬 1414 🔖 #rust 🗓️ 2025-09-28
+    > **Резюме:** The author defends using Rust for core tools and says critics who call it hype are wrong. Rust brings memory safety, better concurrency, and can match or beat C in real cases. Rewrites are pragmatic and incremental—driven by maintainers, tooling needs, and retiring C programmers, not a coordinated plot.
 - [Mac toolbar widgets with xbar and rust](https://blog.korny.info/2025/01/18/toolbar-widgets-with-xbar-and-rust) 👤 Korny Sietsma 💬 779 🔖 #rust, #macos, #inspiration 🗓️ 2025-08-14
     > **Заметка:** Интересная тулза для доступа к произвольным скриптам из трея
     > **Резюме:** XBar is a simple Mac tool that shows small widgets on the toolbar using scripts. The author explains how to write plugins in Rust using rust-script, which compiles and runs Rust code like a script. They also share examples, including a clock widget and a music player controller.

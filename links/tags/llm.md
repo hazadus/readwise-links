@@ -1,9 +1,22 @@
 # Ссылки
 
-- Всего ссылок: 243
+- Всего ссылок: 247
 
 ## Ссылки
 
+- [You're not using LLMs enough](https://florianbrand.de/posts/use-llms-more?utm_source=substack&utm_medium=email) 👤 Florian Brand 💬 351 🔖 #llm, #joyandcuriosity 🗓️ 2025-09-28
+    > **Резюме:** Many people don't use LLMs enough and keep wasting time on old routines.  
+LLMs can automate tasks like scraping, converting images to calendar entries, translating text, and syncing files.  
+For a small cost you can save time and focus on more important work.
+- [AI coding agents rely too much on fallbacks](https://seangoedecke.com/agents-and-fallbacks/) 👤 seangoedecke.com 💬 459 🔖 #llm 🗓️ 2025-09-28
+    > **Резюме:** AI coding agents often add automatic fallback code instead of the algorithm you asked for.  
+That can hide whether your real method is running and ruin prototypes and tests.  
+The author suspects this comes from RL training and says agents should not insert fallbacks.
+- [Write the damn code](https://antonz.org/write-code/) 👤 Anton Zhiyanov 💬 251 🔖 #llm 🗓️ 2025-09-28
+    > **Резюме:** Don't spend forever refining prompts to get code. Write the code, then use AI to review and refactor. Be a software engineer, not just a prompt refiner.
+- [Endless AI-generated Wikipedia](https://seangoedecke.com/endless-wiki/) 👤 seangoedecke.com 💬 654 🔖 #llm, #toot, #inspiration 🗓️ 2025-09-27
+    > **Заметка:** Шон реализовал гениальную в своей простоте идею "бесконечной энциклопедии" на основе LLM. Впечатляет!
+    > **Резюме:** The author built EndlessWiki, an infinite AI-generated encyclopedia at endlesswiki.com. Pages are created on demand by a large language model and saved to a database. The site forces users to explore by clicking links and serves as a toy demo of non-chat LLM interfaces.
 - [How I Use LLMs](https://alexop.dev/posts/how-i-use-llms/) 👤 Alexander Opalic 💬 1907 🔖 #llm 🗓️ 2025-09-25
     > **Заметка:** Есть ссылки на интересные инструменты
     > **Резюме:** Alexander Opalic explains how developers can use large language models (LLMs) not just for code generation but also for research, documentation, and learning. He suggests organizing tasks by complexity and using system prompts to improve LLM output. Using tools like code indexing and web search with LLMs helps developers work faster and smarter.

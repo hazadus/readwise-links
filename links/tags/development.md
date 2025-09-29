@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 64
+- Всего ссылок: 65
 
 ## Ссылки
 
+- [What is "good taste" in software engineering?](https://seangoedecke.com/taste/) 👤 seangoedecke.com 💬 1835 🔖 #development, #architecture, #softwaredesign 🗓️ 2025-09-28
+    > **Резюме:** Good taste in software engineering means choosing the right values for each project, not just having strong technical skills. It involves being flexible and understanding tradeoffs, rather than blindly following one approach. Engineers with good taste help projects succeed by adapting their decisions to fit the specific problems they face.
 - [4 Software Design Principles I Learned the Hard Way](https://read.engineerscodex.com/p/4-software-design-principles-i-learned) 👤 Leonardo Creed 💬 1108 🔖 #principles, #development 🗓️ 2025-09-18
     > **Резюме:** The text discusses software design principles learned through experience, emphasizing the importance of maintaining a single source of truth, judiciously repeating code, and avoiding overuse of mocks in testing. It also highlights the benefits of minimizing mutable state in software development to reduce bugs and improve efficiency. The principles shared aim to enhance software engineering practices and ultimately contribute to more reliable and efficient software systems.
 - [Many years on the job and I still don't get it.](https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/) 👤 Dave Rupert 💬 204 🔖 #career, #development 🗓️ 2025-09-12
