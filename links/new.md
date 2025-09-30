@@ -1,36 +1,14 @@
 # Новые ссылки
 
-- Всего ссылок: 870
+- Всего ссылок: 848
 
 ## Ссылки
 
-- [Libghostty Is Coming](https://mitchellh.com/writing/libghostty-is-coming?utm_source=substack&utm_medium=email) 👤 Mitchell Hashimoto 💬 1439 🔖 #joyandcuriosity 🗓️ 2025-09-28
+- [Nuxt UI v4](https://nuxt.com/blog/nuxt-ui-v4) 👤 Benjamin Canac 💬 803 🔖 #nuxt 🗓️ 2025-09-29
+- [Are We Chasing Language Hype Over Solving Real Problems?](https://dayvster.com/blog/are-we-chasing-language-hype-over-solving-real-problems) 👤 Dayvi Schuster 💬 1839 🗓️ 2025-09-29
+- [OpenAI Codex Tutorial #1 - Introduction & Setup](https://www.youtube.com/watch?v=tIb_TzVNbDM) 👤 Net Ninja 🗓️ 2025-09-29
 - [Things I Believe](https://leerob.com/beliefs?utm_source=substack&utm_medium=email) 👤 Lee Robinson 💬 326 🔖 #joyandcuriosity 🗓️ 2025-09-28
-- [Thoughts on Testing January 4, 2024](https://www.brandons.me/blog/thoughts-on-testing?utm_source=substack&utm_medium=email) 👤 Brandon Smith 💬 1461 🔖 #testing, #joyandcuriosity 🗓️ 2025-09-28
-- [How Claude Code is built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built?utm_source=tldrwebdev) 👤 Gergely Orosz 💬 3739 🗓️ 2025-09-28
-- [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors?utm_source=tldrwebdev) 👤 yossarian.net 💬 1574 🗓️ 2025-09-28
-- [Rules for creating good-looking user interfaces, from a developer](https://weberdominik.com/blog/rules-user-interfaces/?utm_source=tldrwebdev) 👤 weberdominik.com 💬 2484 🗓️ 2025-09-28
-- [Using Notebook Navigator and Cupertino in Obsidian](https://cassidoo.co/post/notebook-nav-cupertino/) 👤 cassidoo.co 💬 243 🗓️ 2025-09-28
-- [You Still Need to Think](https://calv.info/you-still-need-to-think) 👤 calv.info 💬 539 🗓️ 2025-09-28
-- [GitHub Copilot CLI is now in public preview](https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything) 👤 Simon Willison 💬 236 🗓️ 2025-09-28
-- [We've Hit Personal Agency Hyperfinflation](https://www.joanwestenberg.com/p/personal-agency-inflation) 👤 JA Westenberg 💬 984 🗓️ 2025-09-28
-- [On Choosing Rust](https://endler.dev/2025/choosing-rust/) 👤 Matthias Endler 💬 1414 🔖 #rust 🗓️ 2025-09-28
 - [How to Implement Dependency Injection in Go - Explained with Code Examples](https://www.freecodecamp.org/news/how-to-use-dependency-injection-in-go/) 👤 Gabor Koos 💬 5087 🔖 #go 🗓️ 2025-09-27
-- [How to Build Your Own Vue-like Reactivity System from Scratch](https://alexop.dev/posts/how-to-build-your-own-vue-like-reactivity-system-from-scratch/) 👤 Alexander Opalic 💬 777 🔖 #typescript 🗓️ 2025-09-26
-- [Vue 3.5's onWatcherCleanup: Mastering Side Effect Management in Vue Applications](https://alexop.dev/posts/vue-35s-onwatchercleanup-mastering-side-effect-management-in-vue-applications/) 👤 Alexander Opalic 💬 688 🔖 #vue 🗓️ 2025-09-26
-- [How to Structure Vue Projects](https://alexop.dev/posts/how-to-structure-vue-projects/) 👤 Alexander Opalic 💬 1740 🔖 #vue 🗓️ 2025-09-26
-- [Atomic Architecture: Revolutionizing Vue and Nuxt Project Structure](https://alexop.dev/posts/atomic-design-vue-or-nuxt/) 👤 Alexander Opalic 💬 1176 🔖 #vue, #nuxt 🗓️ 2025-09-26
-- [Create a Native-Like App in 4 Steps: PWA Magic with Vue 3 and Vite](https://alexop.dev/posts/create-pwa-vue3-vite-4-steps/) 👤 Alexander Opalic 💬 1944 🔖 #pwa, #vue 🗓️ 2025-09-26
-- [SQLite in Vue: Complete Guide to Building Offline-First Web Apps](https://alexop.dev/posts/sqlite-vue3-offline-first-web-apps-guide/) 👤 Alexander Opalic 💬 5636 🔖 #vue 🗓️ 2025-09-26
-- [How to Use the Variant Props Pattern in Vue](https://alexop.dev/posts/vue-typescript-variant-props-type-safe-props/) 👤 Alexander Opalic 💬 718 🔖 #vue 🗓️ 2025-09-26
-- [Building Local-First Apps with Vue and Dexie.js](https://alexop.dev/posts/building-local-first-apps-vue-dexie/) 👤 Alexander Opalic 💬 1354 🔖 #vue 🗓️ 2025-09-26
-- [Unlocking Reading Insights: A Guide to Data Analysis with Claude and Readwise](https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/) 👤 Alexander Opalic 💬 1522 🗓️ 2025-09-26
-- [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) 👤 mozilla.org 💬 613 🔖 #webworkers 🗓️ 2025-09-26
-- [The Browser That Speaks 200 Languages: Building an AI Translator Without APIs](https://alexop.dev/posts/building-client-side-ai-translator-vue/) 👤 Alexander Opalic 💬 1247 🔖 #try, #vue, #webworkers 🗓️ 2025-09-26
-- [Solving Prop Drilling in Vue: Modern State Management Strategies](https://alexop.dev/posts/solving-prop-drilling-in-vue/) 👤 Alexander Opalic 💬 798 🔖 #vue 🗓️ 2025-09-26
-- [How to Do Visual Regression Testing in Vue with Vitest?](https://alexop.dev/posts/visual-regression-testing-with-vue-and-vitest-browser/) 👤 Alexander Opalic 💬 993 🔖 #vue, #vitest, #testing 🗓️ 2025-09-26
-- [How to Use AI for Effective Diagram Creation: A Guide to ChatGPT and Mermaid](https://alexop.dev/posts/how-to-use-ai-for-effective-diagram-creation-a-guide-to-chatgpt-and-mermaid) 👤 Alexander Opalic 💬 297 🗓️ 2025-09-26
-- [Introducing upgrades to Codex | OpenAI](https://openai.com/index/introducing-upgrades-to-codex/?utm_source=tldrwebdev) 👤 openai.com 💬 2057 🗓️ 2025-09-25
 - [Spaced Repetition for Efficient Learning](https://gwern.net/spaced-repetition) 👤 Gwern Branwen 💬 30217 🗓️ 2025-09-24
 - [Native threading and multiprocessing in Go](https://antonz.org/multi/) 👤 Anton Zhiyanov 💬 972 🔖 #go 🗓️ 2025-09-23
 - [The Big Gotcha With @starting-style](https://www.joshwcomeau.com/css/starting-style/) 👤 Josh W. Comeau 💬 2329 🔖 #css 🗓️ 2025-09-23

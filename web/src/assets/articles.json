@@ -1,5 +1,119 @@
 [
     {
+        "id": "01k6bkbrgg3ray5vnaz9576xnb",
+        "url": "https://read.readwise.io/read/01k6bkbrgg3ray5vnaz9576xnb",
+        "source_url": "https://nuxt.com/blog/nuxt-ui-v4",
+        "title": "Nuxt UI v4",
+        "author": "Benjamin Canac",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "nuxt": {
+                "name": "Nuxt",
+                "type": "manual",
+                "created": 1759178522684
+            }
+        },
+        "site_name": "Nuxt",
+        "word_count": 803,
+        "notes": "",
+        "summary": "Nuxt UI v4 merges Nuxt UI and Nuxt UI Pro into one free, open-source library with 110+ components and ready-made templates. It includes a complete Figma kit and clearer docs so designers and developers share the same system. Backed by Vercel and AI-ready, Nuxt UI v4 helps you build polished Vue and Nuxt apps faster.",
+        "image_url": "https://nuxt.com/assets/blog/nuxt-ui-v4.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-09-23",
+        "created_at": "2025-09-29T20:41:54.982990+00:00",
+        "updated_at": "2025-09-29T20:42:02.689898+00:00",
+        "saved_at": "2025-09-29T20:41:54.958000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-09-29T20:41:54.958000+00:00"
+    },
+    {
+        "id": "01k6ar86z0grw7rgtnbs3hywxz",
+        "url": "https://read.readwise.io/read/01k6ar86z0grw7rgtnbs3hywxz",
+        "source_url": "https://dayvster.com/blog/are-we-chasing-language-hype-over-solving-real-problems",
+        "title": "Are We Chasing Language Hype Over Solving Real Problems?",
+        "author": "Dayvi Schuster",
+        "source": "Reader add from import URL",
+        "category": "article",
+        "location": "new",
+        "tags": {},
+        "site_name": "dayvster.com",
+        "word_count": 1839,
+        "notes": "",
+        "summary": "Many developers chase new languages and rewrite reliable tools just because they are trendy. The GNU Core Utils rewrite in Rust is a prime example that may add little value and waste effort. We should prioritize solving real problems and measurable impact over novelty.",
+        "image_url": "https://dayvster.com/default-cover.webp",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-09-20",
+        "created_at": "2025-09-29T12:48:07.737912+00:00",
+        "updated_at": "2025-09-29T12:48:07.977828+00:00",
+        "saved_at": "2025-09-29T12:48:07.136000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-09-29T12:48:07.136000+00:00"
+    },
+    {
+        "id": "01k6a76g8vs2m8n475s02ve0cx",
+        "url": "https://read.readwise.io/read/01k6a76g8vs2m8n475s02ve0cx",
+        "source_url": "https://www.youtube.com/watch?v=tIb_TzVNbDM",
+        "title": "OpenAI Codex Tutorial #1 - Introduction & Setup",
+        "author": "Net Ninja",
+        "source": "Reader Share Sheet iOS",
+        "category": "video",
+        "location": "new",
+        "tags": {},
+        "site_name": "YouTube",
+        "word_count": null,
+        "notes": "",
+        "summary": "OpenAI Codex is an AI coding assistant with an IDE extension, CLI, cloud service, and review tool.  \nYou need a ChatGPT Plus/Pro account and must connect a GitHub repo to use Codex Cloud.  \nCodex runs code in remote containers, can open pull requests, and be configured with environment and internet settings.",
+        "image_url": "https://i.ytimg.com/vi/tIb_TzVNbDM/maxresdefault.jpg",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-09-29",
+        "created_at": "2025-09-29T07:50:05.364682+00:00",
+        "updated_at": "2025-09-29T07:51:33.192886+00:00",
+        "saved_at": "2025-09-29T07:50:05.339000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-09-29T07:50:05.339000+00:00"
+    },
+    {
+        "id": "01k6a71abfsy041jjvckxgpntr",
+        "url": "https://read.readwise.io/read/01k6a71abfsy041jjvckxgpntr",
+        "source_url": "https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47",
+        "title": "Remember: Kurt Vonnegut was 47",
+        "author": "JA Westenberg",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "later",
+        "tags": {},
+        "site_name": "Joan Westenberg",
+        "word_count": 1289,
+        "notes": "",
+        "summary": "Kurt Vonnegut was forty-seven when he wrote Slaughterhouse-Five.  \nOur culture worships youth, but many breakthroughs come later.  \nMiddle age and failure can produce deep, original work.",
+        "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4a11ce48-e848-409f-8950-0ce29fc70120/20240120_obp501.jpg?t=1759011526",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-09-28",
+        "created_at": "2025-09-29T07:47:15.460093+00:00",
+        "updated_at": "2025-09-29T12:04:21.703472+00:00",
+        "saved_at": "2025-09-29T07:47:15.439000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-09-29T12:04:21.359000+00:00"
+    },
+    {
         "id": "01k68fxbxqsrwmva3544gdc4ma",
         "url": "https://read.readwise.io/read/01k68fxbxqsrwmva3544gdc4ma",
         "source_url": "https://mitchellh.com/writing/libghostty-is-coming?utm_source=substack&utm_medium=email",
@@ -7,7 +121,7 @@
         "author": "Mitchell Hashimoto",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "joyandcuriosity": {
                 "name": "JoyAndCuriosity",
@@ -26,11 +140,11 @@
         "html_content": null,
         "published_date": "2025-09-22",
         "created_at": "2025-09-28T15:43:54.343585+00:00",
-        "updated_at": "2025-09-28T15:44:03.536442+00:00",
+        "updated_at": "2025-09-29T12:04:19.773987+00:00",
         "saved_at": "2025-09-28T15:43:54.295000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-28T15:43:54.295000+00:00"
+        "last_moved_at": "2025-09-29T12:04:19.371000+00:00"
     },
     {
         "id": "01k68ft0qwfsw29f6zdmbqpgrc",
@@ -149,7 +263,7 @@
         "author": "Brandon Smith",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "testing": {
                 "name": "Testing",
@@ -173,11 +287,11 @@
         "html_content": null,
         "published_date": "2024-01-04",
         "created_at": "2025-09-28T10:38:25.462944+00:00",
-        "updated_at": "2025-09-28T10:38:42.225977+00:00",
+        "updated_at": "2025-09-29T12:04:12.653251+00:00",
         "saved_at": "2025-09-28T10:38:25.424000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-28T10:38:25.424000+00:00"
+        "last_moved_at": "2025-09-29T12:04:12.183000+00:00"
     },
     {
         "id": "01k67xnx8y9xggn6xcmzd5fqr3",
@@ -187,7 +301,7 @@
         "author": "Gergely Orosz",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "pragmaticengineer.com",
         "word_count": 3739,
@@ -200,11 +314,11 @@
         "html_content": null,
         "published_date": "2025-09-23",
         "created_at": "2025-09-28T10:25:15.701725+00:00",
-        "updated_at": "2025-09-28T10:25:29.059494+00:00",
+        "updated_at": "2025-09-29T12:04:09.936293+00:00",
         "saved_at": "2025-09-28T10:25:15.550000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-28T10:25:15.550000+00:00"
+        "last_moved_at": "2025-09-29T12:04:09.551000+00:00"
     },
     {
         "id": "01k67x9a96ad2bs25j221fjnsg",
@@ -214,24 +328,30 @@
         "author": "yossarian.net",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "github": {
+                "name": "GitHub",
+                "type": "manual",
+                "created": 1759149577215
+            }
+        },
         "site_name": "yossarian.net",
         "word_count": 1574,
         "notes": "",
         "summary": "GitHub recently added YAML anchors to GitHub Actions, but this makes workflows harder to understand and analyze. YAML anchors create confusing links across the file that hurt both humans and security tools. The author urges GitHub to remove this feature before it becomes widely used.",
         "image_url": "https://blog.yossarian.net/assets/product-roadmap.jpeg",
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2025-09-22",
         "created_at": "2025-09-28T10:18:22.927699+00:00",
-        "updated_at": "2025-09-28T10:18:23.089542+00:00",
+        "updated_at": "2025-09-29T12:39:40.792021+00:00",
         "saved_at": "2025-09-28T10:18:22.887000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-28T10:18:22.887000+00:00"
+        "first_opened_at": "2025-09-29T12:31:49.166000+00:00",
+        "last_opened_at": "2025-09-29T12:31:49.293000+00:00",
+        "last_moved_at": "2025-09-29T12:39:40.572000+00:00"
     },
     {
         "id": "01k67x45tc6rd01kb59qajavvh",
@@ -241,7 +361,7 @@
         "author": "weberdominik.com",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "weberdominik.com",
         "word_count": 2484,
@@ -254,11 +374,11 @@
         "html_content": null,
         "published_date": "2025-09-16",
         "created_at": "2025-09-28T10:15:34.506788+00:00",
-        "updated_at": "2025-09-28T10:15:34.668401+00:00",
+        "updated_at": "2025-09-29T12:04:05.092544+00:00",
         "saved_at": "2025-09-28T10:15:34.477000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-28T10:15:34.477000+00:00"
+        "last_moved_at": "2025-09-29T12:04:04.553000+00:00"
     },
     {
         "id": "01k67wsv2ak213wmq2sfwj8fqb",
@@ -564,8 +684,14 @@
         "author": "cassidoo.co",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "obsidian": {
+                "name": "Obsidian",
+                "type": "manual",
+                "created": 1759149854091
+            }
+        },
         "site_name": "Cassidy Williams",
         "word_count": 243,
         "notes": "",
@@ -577,11 +703,11 @@
         "html_content": null,
         "published_date": "2025-09-28",
         "created_at": "2025-09-28T09:58:27.017794+00:00",
-        "updated_at": "2025-09-28T09:58:31.984909+00:00",
+        "updated_at": "2025-09-29T12:46:56.201263+00:00",
         "saved_at": "2025-09-28T09:58:27.005000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-28T09:58:27.005000+00:00"
+        "first_opened_at": "2025-09-29T12:39:46.455000+00:00",
+        "last_opened_at": "2025-09-29T12:39:46.631000+00:00",
+        "last_moved_at": "2025-09-29T12:46:55.722000+00:00"
     },
     {
         "id": "01k67w24z5sadfgdtm0qr2f779",
@@ -624,7 +750,7 @@
         "author": "calv.info",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "calv.info",
         "word_count": 539,
@@ -637,11 +763,11 @@
         "html_content": null,
         "published_date": "2025-09-27",
         "created_at": "2025-09-28T09:55:45.332020+00:00",
-        "updated_at": "2025-09-28T09:55:45.456392+00:00",
+        "updated_at": "2025-09-29T12:03:59.014884+00:00",
         "saved_at": "2025-09-28T09:55:45.317000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-28T09:55:45.317000+00:00"
+        "last_moved_at": "2025-09-29T12:03:58.521000+00:00"
     },
     {
         "id": "01k67tv2k856h6bwzjxeeyp87t",
@@ -684,24 +810,35 @@
         "author": "Simon Willison",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1759147097776
+            },
+            "github": {
+                "name": "GitHub",
+                "type": "manual",
+                "created": 1759147103526
+            }
+        },
         "site_name": "simonwillison.net",
         "word_count": 236,
         "notes": "",
         "summary": "GitHub Copilot CLI is now available for public preview as a terminal tool that helps with coding tasks. It uses GitHub's AI models, including Claude Sonnet 4 and GPT-5, and integrates with GitHub Copilot accounts for pricing. While it is a strong competitor, it currently lacks some features found in similar tools like image pasting.",
         "image_url": null,
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2025-09-25",
         "created_at": "2025-09-28T09:34:48.711514+00:00",
-        "updated_at": "2025-09-28T09:34:48.837809+00:00",
+        "updated_at": "2025-09-29T12:00:08.349301+00:00",
         "saved_at": "2025-09-28T09:34:48.695000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-28T09:34:48.695000+00:00"
+        "first_opened_at": "2025-09-29T11:42:13.670000+00:00",
+        "last_opened_at": "2025-09-29T11:42:13.816000+00:00",
+        "last_moved_at": "2025-09-29T12:00:07.768000+00:00"
     },
     {
         "id": "01k67tr992w1n92hza93vsk7fq",
@@ -711,7 +848,7 @@
         "author": "JA Westenberg",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "Joan Westenberg",
         "word_count": 984,
@@ -724,11 +861,11 @@
         "html_content": null,
         "published_date": "2025-09-25",
         "created_at": "2025-09-28T09:34:07.670064+00:00",
-        "updated_at": "2025-09-28T09:34:07.892593+00:00",
+        "updated_at": "2025-09-29T12:03:56.939509+00:00",
         "saved_at": "2025-09-28T09:34:07.648000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-28T09:34:07.648000+00:00"
+        "last_moved_at": "2025-09-29T12:03:56.618000+00:00"
     },
     {
         "id": "01k67tmafg0beaxc6qag3njb3e",
@@ -738,7 +875,7 @@
         "author": "Matthias Endler",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "archive",
         "tags": {
             "rust": {
                 "name": "Rust",
@@ -752,16 +889,16 @@
         "summary": "The author defends using Rust for core tools and says critics who call it hype are wrong. Rust brings memory safety, better concurrency, and can match or beat C in real cases. Rewrites are pragmatic and incremental—driven by maintainers, tooling needs, and retiring C programmers, not a coordinated plot.",
         "image_url": "https://endler.dev/default.png",
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": null,
         "created_at": "2025-09-28T09:31:57.828708+00:00",
-        "updated_at": "2025-09-28T09:32:04.680324+00:00",
+        "updated_at": "2025-09-29T12:54:46.154463+00:00",
         "saved_at": "2025-09-28T09:31:57.808000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-28T09:31:57.808000+00:00"
+        "first_opened_at": "2025-09-29T12:47:27.609000+00:00",
+        "last_opened_at": "2025-09-29T12:47:27.737000+00:00",
+        "last_moved_at": "2025-09-29T12:54:45.668000+00:00"
     },
     {
         "id": "01k65nyzeh1natbb7xqmxxkbby",
@@ -876,7 +1013,7 @@
         "author": "Alexander Opalic",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "typescript": {
                 "name": "TypeScript",
@@ -895,11 +1032,11 @@
         "html_content": null,
         "published_date": "2024-08-04",
         "created_at": "2025-09-26T11:56:59.239671+00:00",
-        "updated_at": "2025-09-26T11:57:08.612915+00:00",
+        "updated_at": "2025-09-29T12:03:45.703172+00:00",
         "saved_at": "2025-09-26T11:56:59.232000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-26T11:56:59.232000+00:00"
+        "last_moved_at": "2025-09-29T12:03:45.335000+00:00"
     },
     {
         "id": "01k62y0radzrqq95jha47grj2x",
@@ -909,7 +1046,7 @@
         "author": "Alexander Opalic",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "vue": {
                 "name": "Vue",
@@ -928,11 +1065,11 @@
         "html_content": null,
         "published_date": "2024-09-04",
         "created_at": "2025-09-26T11:54:59.136676+00:00",
-        "updated_at": "2025-09-26T11:55:07.771277+00:00",
+        "updated_at": "2025-09-29T12:03:39.401847+00:00",
         "saved_at": "2025-09-26T11:54:58.765000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-26T11:54:58.765000+00:00"
+        "last_moved_at": "2025-09-29T12:03:38.835000+00:00"
     },
     {
         "id": "01k62xk1gm1pzbcyev7h3tmmqw",
@@ -942,7 +1079,7 @@
         "author": "Alexander Opalic",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "vue": {
                 "name": "Vue",
@@ -961,11 +1098,11 @@
         "html_content": null,
         "published_date": "2024-05-12",
         "created_at": "2025-09-26T11:47:29.752257+00:00",
-        "updated_at": "2025-09-26T11:47:33.894389+00:00",
+        "updated_at": "2025-09-29T12:03:31.565387+00:00",
         "saved_at": "2025-09-26T11:47:29.428000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-26T11:47:29.428000+00:00"
+        "last_moved_at": "2025-09-29T12:03:31.200000+00:00"
     },
     {
         "id": "01k62xd7gffqvaatm4rn2e8syr",
@@ -975,7 +1112,7 @@
         "author": "Alexander Opalic",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "vue": {
                 "name": "Vue",
@@ -999,11 +1136,11 @@
         "html_content": null,
         "published_date": "2024-10-08",
         "created_at": "2025-09-26T11:44:19.160977+00:00",
-        "updated_at": "2025-09-26T11:44:26.691802+00:00",
+        "updated_at": "2025-09-29T12:03:28.744612+00:00",
         "saved_at": "2025-09-26T11:44:18.959000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-26T11:44:18.959000+00:00"
+        "last_moved_at": "2025-09-29T12:03:28.268000+00:00"
     },
     {
         "id": "01k62x3q8jrhy28b8nyfx6sk8y",
@@ -1013,7 +1150,7 @@
         "author": "Alexander Opalic",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "pwa": {
                 "name": "PWA",
@@ -1037,11 +1174,11 @@
         "html_content": null,
         "published_date": "2024-10-20",
         "created_at": "2025-09-26T11:39:07.472875+00:00",
-        "updated_at": "2025-09-26T11:39:16.311981+00:00",
+        "updated_at": "2025-09-29T12:03:25.914321+00:00",
         "saved_at": "2025-09-26T11:39:07.410000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-26T11:39:07.410000+00:00"
+        "last_moved_at": "2025-09-29T12:03:25.501000+00:00"
     },
     {
         "id": "01k62vkpj32t2w07xcbx8rja2t",
@@ -1051,7 +1188,7 @@
         "author": "Alexander Opalic",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "vue": {
                 "name": "Vue",
@@ -1070,11 +1207,11 @@
         "html_content": null,
         "published_date": "2024-11-25",
         "created_at": "2025-09-26T11:12:53.737590+00:00",
-        "updated_at": "2025-09-26T11:12:58.926856+00:00",
+        "updated_at": "2025-09-29T12:03:23.135740+00:00",
         "saved_at": "2025-09-26T11:12:53.827000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-26T11:12:53.827000+00:00"
+        "last_moved_at": "2025-09-29T12:03:22.735000+00:00"
     },
     {
         "id": "01k62rya1f7wzhyjm7f3x4rpp5",
@@ -1084,7 +1221,7 @@
         "author": "Alexander Opalic",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "vue": {
                 "name": "Vue",
@@ -1103,11 +1240,11 @@
         "html_content": null,
         "published_date": "2024-12-15",
         "created_at": "2025-09-26T10:26:16.044115+00:00",
-        "updated_at": "2025-09-26T10:26:22.319081+00:00",
+        "updated_at": "2025-09-29T12:03:20.475697+00:00",
         "saved_at": "2025-09-26T10:26:15.727000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-26T10:26:15.727000+00:00"
+        "last_moved_at": "2025-09-29T12:03:20.142000+00:00"
     },
     {
         "id": "01k62rr635j5kpyqm56ad94xwm",
@@ -1117,7 +1254,7 @@
         "author": "Alexander Opalic",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "vue": {
                 "name": "Vue",
@@ -1136,11 +1273,11 @@
         "html_content": null,
         "published_date": "2025-01-18",
         "created_at": "2025-09-26T10:22:55.255245+00:00",
-        "updated_at": "2025-09-26T10:23:00.276032+00:00",
+        "updated_at": "2025-09-29T12:03:18.201866+00:00",
         "saved_at": "2025-09-26T10:22:55.078000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-26T10:22:55.078000+00:00"
+        "last_moved_at": "2025-09-29T12:03:17.852000+00:00"
     },
     {
         "id": "01k62kckeewb1936zrjewhbhvn",
@@ -1150,7 +1287,7 @@
         "author": "Alexander Opalic",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "Alexander Opalic",
         "word_count": 1522,
@@ -1163,11 +1300,11 @@
         "html_content": null,
         "published_date": "2025-01-05",
         "created_at": "2025-09-26T08:49:12.857034+00:00",
-        "updated_at": "2025-09-26T08:49:13.061992+00:00",
+        "updated_at": "2025-09-29T12:03:16.242326+00:00",
         "saved_at": "2025-09-26T08:49:12.654000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-26T08:49:12.654000+00:00"
+        "last_moved_at": "2025-09-29T12:03:15.901000+00:00"
     },
     {
         "id": "01k62k2t0ecw5qeh9bzmx6ydqe",
@@ -1177,7 +1314,7 @@
         "author": "mozilla.org",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "new",
+        "location": "archive",
         "tags": {
             "webworkers": {
                 "name": "WebWorkers",
@@ -1196,11 +1333,11 @@
         "html_content": null,
         "published_date": null,
         "created_at": "2025-09-26T08:43:51.759998+00:00",
-        "updated_at": "2025-09-26T08:44:10.030027+00:00",
+        "updated_at": "2025-09-29T12:03:10.286280+00:00",
         "saved_at": "2025-09-26T08:43:51.694000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-26T08:43:51.694000+00:00"
+        "last_moved_at": "2025-09-29T12:03:09.902000+00:00"
     },
     {
         "id": "01k62k26gcwq8za3tw5nd79b4s",
@@ -1210,7 +1347,7 @@
         "author": "Alexander Opalic",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "try": {
                 "name": "Try",
@@ -1239,11 +1376,11 @@
         "html_content": null,
         "published_date": "2025-02-02",
         "created_at": "2025-09-26T08:43:31.769021+00:00",
-        "updated_at": "2025-09-26T08:44:03.744413+00:00",
+        "updated_at": "2025-09-29T12:03:04.616901+00:00",
         "saved_at": "2025-09-26T08:43:31.724000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-26T08:43:31.724000+00:00"
+        "last_moved_at": "2025-09-29T12:03:04.284000+00:00"
     },
     {
         "id": "01k62j88e860fj11r58fytgdkm",
@@ -1253,7 +1390,7 @@
         "author": "Alexander Opalic",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "vue": {
                 "name": "Vue",
@@ -1272,11 +1409,11 @@
         "html_content": null,
         "published_date": "2025-01-25",
         "created_at": "2025-09-26T08:29:22.021275+00:00",
-        "updated_at": "2025-09-26T08:29:30.421316+00:00",
+        "updated_at": "2025-09-29T12:03:02.139571+00:00",
         "saved_at": "2025-09-26T08:29:21.736000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-26T08:29:21.736000+00:00"
+        "last_moved_at": "2025-09-29T12:03:01.821000+00:00"
     },
     {
         "id": "01k62j2e1ztgtj0grvzn52xwnz",
@@ -1286,7 +1423,7 @@
         "author": "Alexander Opalic",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "vue": {
                 "name": "Vue",
@@ -1315,11 +1452,11 @@
         "html_content": null,
         "published_date": "2025-02-22",
         "created_at": "2025-09-26T08:26:10.839475+00:00",
-        "updated_at": "2025-09-26T08:26:26.401547+00:00",
+        "updated_at": "2025-09-29T12:02:58.441733+00:00",
         "saved_at": "2025-09-26T08:26:10.879000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-26T08:26:10.879000+00:00"
+        "last_moved_at": "2025-09-29T12:02:58.119000+00:00"
     },
     {
         "id": "01k62hj61qg429haxstxxcq416",
@@ -1329,7 +1466,7 @@
         "author": "Alexander Opalic",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "Alexander Opalic",
         "word_count": 297,
@@ -1342,11 +1479,11 @@
         "html_content": null,
         "published_date": "2025-02-09",
         "created_at": "2025-09-26T08:17:18.449432+00:00",
-        "updated_at": "2025-09-26T08:17:25.549108+00:00",
+        "updated_at": "2025-09-29T12:02:56.237966+00:00",
         "saved_at": "2025-09-26T08:17:18.391000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-26T08:17:18.391000+00:00"
+        "last_moved_at": "2025-09-29T12:02:55.852000+00:00"
     },
     {
         "id": "01k61cqgv2devhxme4971y7f1g",
@@ -1407,33 +1544,6 @@
         "first_opened_at": null,
         "last_opened_at": null,
         "last_moved_at": "2025-09-26T06:25:48.996000+00:00"
-    },
-    {
-        "id": "01k61c4cpztk5r0pd2axek3v5r",
-        "url": "https://read.readwise.io/read/01k61c4cpztk5r0pd2axek3v5r",
-        "source_url": "https://openai.com/index/introducing-upgrades-to-codex/?utm_source=tldrwebdev",
-        "title": "Introducing upgrades to Codex | OpenAI",
-        "author": "openai.com",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "new",
-        "tags": {},
-        "site_name": "openai.com",
-        "word_count": 2057,
-        "notes": "",
-        "summary": "OpenAI released GPT‑5‑Codex, a version of GPT‑5 tuned for agentic coding that is faster and more reliable across terminals, IDEs, the web, GitHub, and phones.  \nIt can work autonomously on long, complex tasks, helps with code review, and integrates into Codex CLI, the IDE extension, the cloud, and GitHub.  \nCodex includes safety controls, is included with ChatGPT plans now, and API access for GPT‑5‑Codex is coming soon.",
-        "image_url": "https://images.ctfassets.net/kftzwdyauwt9/128kENspr4S1MJF0W63MFc/23ad72e043f5688bc7e8dc8f93894397/Codex_Hero_Car_Art_16.9.png?w=1600&h=900&fit=fill",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-09-15",
-        "created_at": "2025-09-25T21:23:09.256906+00:00",
-        "updated_at": "2025-09-25T21:23:26.309891+00:00",
-        "saved_at": "2025-09-25T21:23:09.151000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-25T21:23:09.151000+00:00"
     },
     {
         "id": "01k61bwxf9tftq48mnnkqz95nc",
@@ -2049,7 +2159,7 @@
         "author": "JA Westenberg",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {},
         "site_name": "Joan Westenberg",
         "word_count": 1354,
@@ -2057,17 +2167,71 @@
         "summary": "Change starts with belief, not discipline.  \nWithout real belief, high standards become theater and fail.  \nAct \"as if\" and repeat the behavior until belief and identity follow.",
         "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f94bb552-bdaf-4564-a101-326686330d0a/Mountain_Picture_from_Sylwia_Bartyzel.jpg?t=1758584812",
         "parent_id": null,
-        "reading_progress": 0.4532321891082142,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2025-09-22",
         "created_at": "2025-09-24T05:36:57.189581+00:00",
-        "updated_at": "2025-09-25T07:07:59.173607+00:00",
+        "updated_at": "2025-09-29T12:29:48.314640+00:00",
         "saved_at": "2025-09-24T05:36:57.171000+00:00",
         "first_opened_at": "2025-09-25T06:05:34.036000+00:00",
-        "last_opened_at": "2025-09-25T06:05:34.133000+00:00",
-        "last_moved_at": "2025-09-24T05:44:31.805000+00:00",
+        "last_opened_at": "2025-09-29T12:15:54.694000+00:00",
+        "last_moved_at": "2025-09-29T12:29:48.129000+00:00",
         "highlights": [
+            {
+                "id": "01k6aq6m73heaayn4eqp7cjc7q",
+                "url": "https://read.readwise.io/read/01k6aq6m73heaayn4eqp7cjc7q",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-web-app",
+                "category": "highlight",
+                "location": null,
+                "tags": {},
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01k5x3k4ak29gz7h7g6j0ywkcs",
+                "reading_progress": 0.0,
+                "content": "If you want to change your life, raise your standards. But if you want those standards to stick, start by building belief. Train it. Act as if. Make certainty a practice, not a prerequisite. And then do it again, and again, until one day, you stop acting.",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2025-09-29T12:29:46.806975+00:00",
+                "updated_at": "2025-09-29T12:29:46.806987+00:00",
+                "saved_at": "2025-09-29T12:29:46.595000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2025-09-29T12:29:46.595000+00:00"
+            },
+            {
+                "id": "01k6aq1kcsmf99kan8q68zrrfp",
+                "url": "https://read.readwise.io/read/01k6aq1kcsmf99kan8q68zrrfp",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-web-app",
+                "category": "highlight",
+                "location": null,
+                "tags": {},
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01k5x3k4ak29gz7h7g6j0ywkcs",
+                "reading_progress": 0.0,
+                "content": "Trying is a liminal state. It signals that you haven’t yet committed. You’re waiting for proof. But change doesn’t work that way. You don’t get proof until after you’ve committed. Until after you’ve aligned your behavior, your time, your attention, and your emotion with the standard you claim to hold.",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2025-09-29T12:27:02.151699+00:00",
+                "updated_at": "2025-09-29T12:27:02.151712+00:00",
+                "saved_at": "2025-09-29T12:27:01.913000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2025-09-29T12:27:01.913000+00:00"
+            },
             {
                 "id": "01k5zv6gsvcx02emvxeqv3990z",
                 "url": "https://read.readwise.io/read/01k5zv6gsvcx02emvxeqv3990z",
@@ -3425,7 +3589,7 @@
         "html_content": null,
         "published_date": "2025-09-15",
         "created_at": "2025-09-15T11:59:56.286535+00:00",
-        "updated_at": "2025-09-16T05:29:57.580297+00:00",
+        "updated_at": "2025-09-29T13:39:05.307838+00:00",
         "saved_at": "2025-09-15T11:59:56.261000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 19
+- Всего ссылок: 20
 
 ## Ссылки
 
+- [Using Notebook Navigator and Cupertino in Obsidian](https://cassidoo.co/post/notebook-nav-cupertino/) 👤 cassidoo.co 💬 243 🔖 #obsidian 🗓️ 2025-09-28
+    > **Резюме:** I improved my Obsidian mobile setup with Notebook Navigator and the Cupertino theme. It feels native and shows tags and edit times without opening notes. I’ll borrow ideas for my Cardstock theme and update it.
 - [Getting Started with Obsidian Bases](https://obsidian.rocks/getting-started-with-obsidian-bases/?ref=Obsidian+Rocks+Newsletter) 👤 Tim Miller 💬 1699 🔖 #obsidian 🗓️ 2025-08-24
     > **Резюме:** Obsidian Bases turns your notes into interactive filtered databases without programming.  
 Enable the plugin, create a base, then add filters, properties, and views.  

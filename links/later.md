@@ -1,9 +1,63 @@
 # Отложенные ссылки
 
-- Всего ссылок: 75
+- Всего ссылок: 94
 
 ## Ссылки
 
+- [Remember: Kurt Vonnegut was 47](https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47) 👤 JA Westenberg 💬 1289 🗓️ 2025-09-29
+    > **Резюме:** Kurt Vonnegut was forty-seven when he wrote Slaughterhouse-Five.  
+Our culture worships youth, but many breakthroughs come later.  
+Middle age and failure can produce deep, original work.
+- [Libghostty Is Coming](https://mitchellh.com/writing/libghostty-is-coming?utm_source=substack&utm_medium=email) 👤 Mitchell Hashimoto 💬 1439 🔖 #joyandcuriosity 🗓️ 2025-09-28
+    > **Резюме:** Libghostty is an embeddable, zero-dependency terminal-emulation library from Ghostty. libghostty-vt parses terminal sequences and maintains terminal state with high speed and correctness. It is alpha (Zig API available, C API coming), targets macOS and Linux, and seeks user feedback.
+- [Thoughts on Testing January 4, 2024](https://www.brandons.me/blog/thoughts-on-testing?utm_source=substack&utm_medium=email) 👤 Brandon Smith 💬 1461 🔖 #testing, #joyandcuriosity 🗓️ 2025-09-28
+    > **Резюме:** Tests help but they cost time because they are code to write, maintain, and run.  
+Only write tests that add lasting value: prefer static analysis, check intent not implementation, and avoid fragile mocked checks.  
+Skip unit tests for UI rendering; test stable business logic, state, and reusable components instead.
+- [How Claude Code is built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built?utm_source=tldrwebdev) 👤 Gergely Orosz 💬 3739 🗓️ 2025-09-28
+    > **Резюме:** Claude Code is an AI-first developer tool from Anthropic that most engineers use.  
+It’s a lightweight command-line shell around the Claude model, built with TypeScript and React.  
+The team prototypes rapidly and the model writes roughly 90% of the code, enabling fast feature iterations.
+- [Rules for creating good-looking user interfaces, from a developer](https://weberdominik.com/blog/rules-user-interfaces/?utm_source=tldrwebdev) 👤 weberdominik.com 💬 2484 🗓️ 2025-09-28
+    > **Резюме:** Use a good component library and keep its components unchanged.  
+Favor global consistency over local tweaks to save time and improve the product.  
+Simplify the UI: limit fonts and colors, match icon weight to text, and show only what users need.
+- [You Still Need to Think](https://calv.info/you-still-need-to-think) 👤 calv.info 💬 539 🗓️ 2025-09-28
+    > **Резюме:** Even with powerful coding agents, humans still must decide what they want the code to do. Different tools shift where you spend your thinking — supplying context, planning, implementing, or reviewing. LLMs are strongest at implementation and verification, so the best products let users choose how and when to think.
+- [We've Hit Personal Agency Hyperfinflation](https://www.joanwestenberg.com/p/personal-agency-inflation) 👤 JA Westenberg 💬 984 🗓️ 2025-09-28
+    > **Резюме:** We pile up apps and gadgets and feel more capable, but we grow dependent.  
+Like hyperinflation, this bloats our sense of agency while eroding the skills that back it.  
+Use tools, but practice the underlying skills so you can still function when they fail.
+- [How to Build Your Own Vue-like Reactivity System from Scratch](https://alexop.dev/posts/how-to-build-your-own-vue-like-reactivity-system-from-scratch/) 👤 Alexander Opalic 💬 777 🔖 #typescript 🗓️ 2025-09-26
+    > **Резюме:** The article builds simple ref() and watchEffect() functions to show how Vue-style reactivity works. It explains tracking dependencies with track, triggering updates with trigger, and storing effects in a depMap. The minimal system shows core concepts but omits production features like nested handling and optimizations.
+- [Vue 3.5's onWatcherCleanup: Mastering Side Effect Management in Vue Applications](https://alexop.dev/posts/vue-35s-onwatchercleanup-mastering-side-effect-management-in-vue-applications/) 👤 Alexander Opalic 💬 688 🔖 #vue 🗓️ 2025-09-26
+    > **Резюме:** Vue 3.5 adds onWatcherCleanup to attach cleanup logic directly inside watchers. It automatically aborts requests, clears timers, and removes listeners before reruns or when a watcher stops. This makes code clearer, reduces memory leaks, and fits cleanly into Vue’s reactivity system.
+- [How to Structure Vue Projects](https://alexop.dev/posts/how-to-structure-vue-projects/) 👤 Alexander Opalic 💬 1740 🔖 #vue 🗓️ 2025-09-26
+    > **Резюме:** This article explains different Vue project structures based on project size and complexity, such as flat structures for small projects and feature-sliced designs for large applications. It emphasizes that the right structure enhances scalability, maintainability, and team collaboration. Choosing the appropriate architecture is crucial as it should evolve with your organization's needs.
+- [Atomic Architecture: Revolutionizing Vue and Nuxt Project Structure](https://alexop.dev/posts/atomic-design-vue-or-nuxt/) 👤 Alexander Opalic 💬 1176 🔖 #vue, #nuxt 🗓️ 2025-09-26
+    > **Резюме:** Atomic Design organizes UI into atoms, molecules, organisms, templates, and pages to make components smaller and clearer. Applied to Vue/Nuxt, atoms are pure single-purpose components, molecules combine atoms, and organisms are larger reusable pieces. Refactoring a Todo app this way reduces duplication, simplifies testing, and improves maintainability.
+- [Create a Native-Like App in 4 Steps: PWA Magic with Vue 3 and Vite](https://alexop.dev/posts/create-pwa-vue3-vite-4-steps/) 👤 Alexander Opalic 💬 1944 🔖 #pwa, #vue 🗓️ 2025-09-26
+    > **Резюме:** This tutorial teaches you how to create a Progressive Web App (PWA) using Vue 3 and Vite in four simple steps. You will set up a Vue project, create necessary assets, configure Vite for PWA support, and implement offline functionality with service workers. By the end, you'll have a fully functional PWA that works across various devices and can be installed on users' home screens.
+- [SQLite in Vue: Complete Guide to Building Offline-First Web Apps](https://alexop.dev/posts/sqlite-vue3-offline-first-web-apps-guide/) 👤 Alexander Opalic 💬 5636 🔖 #vue 🗓️ 2025-09-26
+    > **Резюме:** The guide "SQLite in Vue" by Alexander Opalic teaches how to create offline-first web apps using SQLite in Vue.js. It covers key features like executing SQL commands and managing database connections. The guide is designed to help developers easily integrate SQLite into their applications.
+- [How to Use the Variant Props Pattern in Vue](https://alexop.dev/posts/vue-typescript-variant-props-type-safe-props/) 👤 Alexander Opalic 💬 718 🔖 #vue 🗓️ 2025-09-26
+    > **Резюме:** The Variant Props Pattern (VPP) in Vue uses TypeScript’s discriminated unions to create type-safe component variants. This approach prevents mixing incompatible props by marking unused properties as "never." It helps developers build components, like notifications, that manage different states without errors.
+- [Building Local-First Apps with Vue and Dexie.js](https://alexop.dev/posts/building-local-first-apps-vue-dexie/) 👤 Alexander Opalic 💬 1354 🔖 #vue 🗓️ 2025-09-26
+    > **Резюме:** This guide shows how to build local-first, offline-capable web apps using Vue 3 and Dexie.js. Dexie stores data in IndexedDB locally and uses Dexie Cloud for sync, auth, and conflict resolution. A todo app example and a repository pattern demonstrate setup, sync configuration, and best practices.
+- [Unlocking Reading Insights: A Guide to Data Analysis with Claude and Readwise](https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/) 👤 Alexander Opalic 💬 1522 🗓️ 2025-09-26
+    > **Резюме:** This blog post explains how to use Claude.ai's CSV analysis feature with Readwise data for better insights. It highlights the importance of crafting specific prompts to extract meaningful information and create visualizations. The tutorial also touches on the technical aspects of how Claude processes and analyzes the data.
+- [The Browser That Speaks 200 Languages: Building an AI Translator Without APIs](https://alexop.dev/posts/building-client-side-ai-translator-vue/) 👤 Alexander Opalic 💬 1247 🔖 #try, #vue, #webworkers 🗓️ 2025-09-26
+    > **Резюме:** This guide shows how to build a free offline AI translator for 200 languages using Vue and Transformers.js. It runs Meta’s NLLB-200 model locally in a Web Worker and streams translation updates. The app includes language selectors, a progress bar, and a simple Vue interface.
+- [Solving Prop Drilling in Vue: Modern State Management Strategies](https://alexop.dev/posts/solving-prop-drilling-in-vue/) 👤 Alexander Opalic 💬 798 🔖 #vue 🗓️ 2025-09-26
+    > **Резюме:** Prop drilling makes code brittle, hard to debug, and slow.  
+Use Pinia for app-wide state, composables for reusable logic, and provide/inject for scoped subtree sharing.  
+Avoid event buses and prefer typed, testable patterns with DevTools support.
+- [How to Do Visual Regression Testing in Vue with Vitest?](https://alexop.dev/posts/visual-regression-testing-with-vue-and-vitest-browser/) 👤 Alexander Opalic 💬 993 🔖 #vue, #vitest, #testing 🗓️ 2025-09-26
+    > **Резюме:** Visual regression testing captures screenshots of Vue components and compares them to baseline images to catch unintended UI changes. Vitest’s experimental browser mode with Playwright renders stories in a real browser, takes screenshots, and compares them to baselines. It needs extra config and manual diff review, but helps keep the UI consistent and lets designers inspect changes.
+- [How to Use AI for Effective Diagram Creation: A Guide to ChatGPT and Mermaid](https://alexop.dev/posts/how-to-use-ai-for-effective-diagram-creation-a-guide-to-chatgpt-and-mermaid) 👤 Alexander Opalic 💬 297 🗓️ 2025-09-26
+    > **Резюме:** Combine ChatGPT and Mermaid to make diagrams fast.  
+ChatGPT converts descriptions into Mermaid code for flowcharts and sequence diagrams.  
+Edit in Mermaid Live Editor or VS Code and embed diagrams on web pages.
 - [Vibe Coding Is Making Programmers Dumber](https://nmn.gl/blog/vibe-coding-gambling?utm_source=tldrwebdev) 👤 namanyayg 💬 1399 🗓️ 2025-09-25
     > **Резюме:** The author says AI that writes code is making programmers dumber.  
 It gives quick fixes instead of deep understanding, so people ship code they don't fully grasp.  
@@ -20,10 +74,6 @@ Prefer clear, narrowly scoped tools that return useful, token‑efficient contex
     > **Резюме:** Trusting AI to write code isn't a yes-or-no choice; it depends on risk.  
 Assess three things: how likely AI is wrong, how bad the impact would be, and how easily you will detect mistakes.  
 Use that judgment to choose how much to review and what safeguards to add.
-- [Why Belief Beats Discipline](https://www.joanwestenberg.com/p/why-belief-beats-discipline) 👤 JA Westenberg 💬 1354 🗓️ 2025-09-24
-    > **Резюме:** Change starts with belief, not discipline.  
-Without real belief, high standards become theater and fail.  
-Act "as if" and repeat the behavior until belief and identity follow.
 - [Let the domain guide your application structure](https://rednafi.com/go/app_structure/) 👤 Redowan Delowar 💬 1181 🗓️ 2025-09-22
     > **Резюме:** Let the domain, not the technology, guide your app's top-level structure.  
 Avoid generic packages like models or handlers that lump multiple domains together.  

@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 26
+- Всего ссылок: 28
 
 ## Ссылки
 
+- [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors?utm_source=tldrwebdev) 👤 yossarian.net 💬 1574 🔖 #github 🗓️ 2025-09-28
+    > **Резюме:** GitHub recently added YAML anchors to GitHub Actions, but this makes workflows harder to understand and analyze. YAML anchors create confusing links across the file that hurt both humans and security tools. The author urges GitHub to remove this feature before it becomes widely used.
+- [GitHub Copilot CLI is now in public preview](https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything) 👤 Simon Willison 💬 236 🔖 #llm, #github 🗓️ 2025-09-28
+    > **Резюме:** GitHub Copilot CLI is now available for public preview as a terminal tool that helps with coding tasks. It uses GitHub's AI models, including Claude Sonnet 4 and GPT-5, and integrates with GitHub Copilot accounts for pricing. While it is a strong competitor, it currently lacks some features found in similar tools like image pasting.
 - [How to Back up Your GitHub Repositories](https://improveandrepeat.com/2025/09/how-to-back-up-your-github-repositories/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 616 🔖 #git, #try, #github 🗓️ 2025-09-02
     > **Резюме:** GitHub is convenient, but you should back up all your repositories. Create bare (or --mirror) clones to keep a full copy of each repo. Automate regular updates with a simple fetch script run by cron.
 - [The Problem with GitHub Commit Statuses](https://joshcannon.me/2025/08/24/github-commit-status.html) 👤 Josh Cannon 💬 616 🔖 #git, #github 🗓️ 2025-08-25

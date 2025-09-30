@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 247
+- Всего ссылок: 248
 
 ## Ссылки
 
@@ -14,6 +14,8 @@ That can hide whether your real method is running and ruin prototypes and tests.
 The author suspects this comes from RL training and says agents should not insert fallbacks.
 - [Write the damn code](https://antonz.org/write-code/) 👤 Anton Zhiyanov 💬 251 🔖 #llm 🗓️ 2025-09-28
     > **Резюме:** Don't spend forever refining prompts to get code. Write the code, then use AI to review and refactor. Be a software engineer, not just a prompt refiner.
+- [GitHub Copilot CLI is now in public preview](https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything) 👤 Simon Willison 💬 236 🔖 #llm, #github 🗓️ 2025-09-28
+    > **Резюме:** GitHub Copilot CLI is now available for public preview as a terminal tool that helps with coding tasks. It uses GitHub's AI models, including Claude Sonnet 4 and GPT-5, and integrates with GitHub Copilot accounts for pricing. While it is a strong competitor, it currently lacks some features found in similar tools like image pasting.
 - [Endless AI-generated Wikipedia](https://seangoedecke.com/endless-wiki/) 👤 seangoedecke.com 💬 654 🔖 #llm, #toot, #inspiration 🗓️ 2025-09-27
     > **Заметка:** Шон реализовал гениальную в своей простоте идею "бесконечной энциклопедии" на основе LLM. Впечатляет!
     > **Резюме:** The author built EndlessWiki, an infinite AI-generated encyclopedia at endlesswiki.com. Pages are created on demand by a large language model and saved to a database. The site forces users to explore by clicking links and serves as a toy demo of non-chat LLM interfaces.

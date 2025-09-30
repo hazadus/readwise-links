@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 47
+- Всего ссылок: 48
 
 ## Ссылки
 
+- [Nuxt UI v4](https://nuxt.com/blog/nuxt-ui-v4) 👤 Benjamin Canac 💬 803 🔖 #nuxt 🗓️ 2025-09-29
+    > **Резюме:** Nuxt UI v4 merges Nuxt UI and Nuxt UI Pro into one free, open-source library with 110+ components and ready-made templates. It includes a complete Figma kit and clearer docs so designers and developers share the same system. Backed by Vercel and AI-ready, Nuxt UI v4 helps you build polished Vue and Nuxt apps faster.
 - [Atomic Architecture: Revolutionizing Vue and Nuxt Project Structure](https://alexop.dev/posts/atomic-design-vue-or-nuxt/) 👤 Alexander Opalic 💬 1176 🔖 #vue, #nuxt 🗓️ 2025-09-26
     > **Резюме:** Atomic Design organizes UI into atoms, molecules, organisms, templates, and pages to make components smaller and clearer. Applied to Vue/Nuxt, atoms are pure single-purpose components, molecules combine atoms, and organisms are larger reusable pieces. Refactoring a Todo app this way reduces duplication, simplifies testing, and improves maintainability.
 - [Automatically Generate AI Chat Titles with Animation in Nuxt](https://masteringnuxt.com/blog/automatically-generate-ai-chat-titles-with-animation-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(236)+Hidden+Nuxt+Gems,+and+a+simpler+way+to+pass+lots+of+props+-+19098320&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 1150 🔖 #css, #nuxt 🗓️ 2025-09-25

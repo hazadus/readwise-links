@@ -1,18 +1,23 @@
 # Архивные ссылки
 
-- Всего ссылок: 1054
+- Всего ссылок: 1060
 
 ## Ссылки
 
 - [How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner?utm_source=substack&utm_medium=email) 👤 annie's blog 💬 449 🔖 #fun, #joyandcuriosity 🗓️ 2025-09-28
 - [You're not using LLMs enough](https://florianbrand.de/posts/use-llms-more?utm_source=substack&utm_medium=email) 👤 Florian Brand 💬 351 🔖 #llm, #joyandcuriosity 🗓️ 2025-09-28
+- [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors?utm_source=tldrwebdev) 👤 yossarian.net 💬 1574 🔖 #github 🗓️ 2025-09-28
 - [Same again. No rush.](mailto:reader-forwarded-email/0ac3bade96f1fa0fc69e976c018de601) 👤 Carlton Gibson 💬 907 🔖 #career 🗓️ 2025-09-28
 - [What is "good taste" in software engineering?](https://seangoedecke.com/taste/) 👤 seangoedecke.com 💬 1835 🔖 #development, #architecture, #softwaredesign 🗓️ 2025-09-28
 - [I Don't Know You, Don't Ask For References](https://daniel.feldroy.com/posts/i-dont-know-you-so-dont-ask-for-references) 👤 https://daniel.feldroy.com 💬 701 🗓️ 2025-09-28
+- [Using Notebook Navigator and Cupertino in Obsidian](https://cassidoo.co/post/notebook-nav-cupertino/) 👤 cassidoo.co 💬 243 🔖 #obsidian 🗓️ 2025-09-28
 - [AI coding agents rely too much on fallbacks](https://seangoedecke.com/agents-and-fallbacks/) 👤 seangoedecke.com 💬 459 🔖 #llm 🗓️ 2025-09-28
 - [Write the damn code](https://antonz.org/write-code/) 👤 Anton Zhiyanov 💬 251 🔖 #llm 🗓️ 2025-09-28
+- [GitHub Copilot CLI is now in public preview](https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything) 👤 Simon Willison 💬 236 🔖 #llm, #github 🗓️ 2025-09-28
+- [On Choosing Rust](https://endler.dev/2025/choosing-rust/) 👤 Matthias Endler 💬 1414 🔖 #rust 🗓️ 2025-09-28
 - [Endless AI-generated Wikipedia](https://seangoedecke.com/endless-wiki/) 👤 seangoedecke.com 💬 654 🔖 #llm, #toot, #inspiration 🗓️ 2025-09-27
     > **Заметка:** Шон реализовал гениальную в своей простоте идею "бесконечной энциклопедии" на основе LLM. Впечатляет!
+- [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) 👤 mozilla.org 💬 613 🔖 #webworkers 🗓️ 2025-09-26
 - [How I Use LLMs](https://alexop.dev/posts/how-i-use-llms/) 👤 Alexander Opalic 💬 1907 🔖 #llm 🗓️ 2025-09-25
     > **Заметка:** Есть ссылки на интересные инструменты
 - [Automatically Generate AI Chat Titles with Animation in Nuxt](https://masteringnuxt.com/blog/automatically-generate-ai-chat-titles-with-animation-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(236)+Hidden+Nuxt+Gems,+and+a+simpler+way+to+pass+lots+of+props+-+19098320&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 1150 🔖 #css, #nuxt 🗓️ 2025-09-25
@@ -20,6 +25,7 @@
 - [Some Thoughts on "AI"](https://ronjeffries.com/articles/-w025/y/l/) 👤 ronjeffries.com 💬 2445 🔖 #llm 🗓️ 2025-09-25
 - [Transitioning from being a developer to a manager](https://piccalil.li/blog/transitioning-from-being-a-developer-to-a-manager/?ref=main-rss-feed) 👤 Piccalilli 💬 1833 🔖 #career, #management 🗓️ 2025-09-24
 - [What I learned building an AI-driven spaced repetition app](https://seangoedecke.com/autodeck/) 👤 seangoedecke.com 💬 1666 🔖 #llm, #inspiration 🗓️ 2025-09-24
+- [Why Belief Beats Discipline](https://www.joanwestenberg.com/p/why-belief-beats-discipline) 👤 JA Westenberg 💬 1354 🗓️ 2025-09-24
 - [When AI will browse the web for me](https://www.stefanjudis.com/notes/when-ai-will-browse-the-web-for-me/) 👤 stefanjudis.com 💬 399 🔖 #llm 🗓️ 2025-09-24
 - [If you are good at code review, you will be good at using AI agents](https://seangoedecke.com/ai-agents-and-code-review/) 👤 seangoedecke.com 💬 1285 🔖 #llm, #codereview 🗓️ 2025-09-22
 - [AI is good news for Australian and European software engineers](https://seangoedecke.com/ai-is-good-news-for-australian-engineers/) 👤 seangoedecke.com 💬 600 🔖 #llm 🗓️ 2025-09-22
