@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 248
+- Всего ссылок: 250
 
 ## Ссылки
 
+- [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#atom-everything) 👤 Simon Willison 💬 1493 🔖 #llm 🗓️ 2025-09-30
+    > **Резюме:** Coding agents like Claude Code can write and test code by running commands in loops to solve problems. Running these agents without checks (YOLO mode) is risky but can be more productive if done safely, like in containers or cloud environments. Designing agentic loops works best for tasks with clear goals and tests, such as debugging or optimizing code, and is a new skill to master.
+- [90%](https://lucumr.pocoo.org/2025/9/29/90-percent/) 👤 Armin Ronacher 💬 1611 🔖 #llm 🗓️ 2025-09-30
+    > **Резюме:** In a new project Armin had AI write over 90% of a 40,000-line service. AI sped up design, SQL, OpenAPI and infrastructure, making iteration fast. He still reviews every line because AI can make unsafe, wrong, or unmaintainable choices.
 - [You're not using LLMs enough](https://florianbrand.de/posts/use-llms-more?utm_source=substack&utm_medium=email) 👤 Florian Brand 💬 351 🔖 #llm, #joyandcuriosity 🗓️ 2025-09-28
     > **Резюме:** Many people don't use LLMs enough and keep wasting time on old routines.  
 LLMs can automate tasks like scraping, converting images to calendar entries, translating text, and syncing files.  

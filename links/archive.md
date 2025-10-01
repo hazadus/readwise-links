@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1060
+- Всего ссылок: 1062
 
 ## Ссылки
 
+- [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#atom-everything) 👤 Simon Willison 💬 1493 🔖 #llm 🗓️ 2025-09-30
+- [90%](https://lucumr.pocoo.org/2025/9/29/90-percent/) 👤 Armin Ronacher 💬 1611 🔖 #llm 🗓️ 2025-09-30
 - [How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner?utm_source=substack&utm_medium=email) 👤 annie's blog 💬 449 🔖 #fun, #joyandcuriosity 🗓️ 2025-09-28
 - [You're not using LLMs enough](https://florianbrand.de/posts/use-llms-more?utm_source=substack&utm_medium=email) 👤 Florian Brand 💬 351 🔖 #llm, #joyandcuriosity 🗓️ 2025-09-28
 - [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors?utm_source=tldrwebdev) 👤 yossarian.net 💬 1574 🔖 #github 🗓️ 2025-09-28

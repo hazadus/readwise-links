@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 226
+- Всего ссылок: 227
 
 ## Ссылки
 
+- [Gist of Go: Atomics](https://antonz.org/go-concurrency/atomics/) 👤 Anton Zhiyanov 💬 1681 🔖 #go 🗓️ 2025-09-30
+    > **Резюме:** Go's sync/atomic lets you do some operations safely across goroutines without locks.  
+However, combining atomic calls is not itself atomic and can produce unpredictable results.  
+Use a mutex or CompareAndSwap for multi-step or sequence-dependent updates.
 - [How to Implement Dependency Injection in Go - Explained with Code Examples](https://www.freecodecamp.org/news/how-to-use-dependency-injection-in-go/) 👤 Gabor Koos 💬 5087 🔖 #go 🗓️ 2025-09-27
     > **Резюме:** Dependency injection in Go means passing dependencies explicitly to keep code clear and testable. Manual dependency injection is simple and common in Go, but it can get repetitive as projects grow. For larger apps, tools like Google Wire or Uber Dig can help manage dependencies more easily.
 - [Native threading and multiprocessing in Go](https://antonz.org/multi/) 👤 Anton Zhiyanov 💬 972 🔖 #go 🗓️ 2025-09-23

@@ -1,11 +1,14 @@
 # Новые ссылки
 
-- Всего ссылок: 848
+- Всего ссылок: 851
 
 ## Ссылки
 
+- [Hades II: Обзор самого вкусного рогалика года](https://stopgame.ru/show/152840/hades_ii_review_samogo_vkusnogo_rogalika_goda) 👤 Кирилл Волошин 💬 1524 🗓️ 2025-09-30
+- [Empire of AI by Karen Hao - Book Review](https://wsvincent.com/empire-of-ai/) 👤 William Vincent 💬 1754 🗓️ 2025-09-30
+- [Gist of Go: Atomics](https://antonz.org/go-concurrency/atomics/) 👤 Anton Zhiyanov 💬 1681 🔖 #go 🗓️ 2025-09-30
 - [Nuxt UI v4](https://nuxt.com/blog/nuxt-ui-v4) 👤 Benjamin Canac 💬 803 🔖 #nuxt 🗓️ 2025-09-29
-- [Are We Chasing Language Hype Over Solving Real Problems?](https://dayvster.com/blog/are-we-chasing-language-hype-over-solving-real-problems) 👤 Dayvi Schuster 💬 1839 🗓️ 2025-09-29
+- [Are We Chasing Language Hype Over Solving Real Problems?](https://dayvster.com/blog/are-we-chasing-language-hype-over-solving-real-problems) 👤 Dayvi Schuster 💬 1839 🔖 #rust 🗓️ 2025-09-29
 - [OpenAI Codex Tutorial #1 - Introduction & Setup](https://www.youtube.com/watch?v=tIb_TzVNbDM) 👤 Net Ninja 🗓️ 2025-09-29
 - [Things I Believe](https://leerob.com/beliefs?utm_source=substack&utm_medium=email) 👤 Lee Robinson 💬 326 🔖 #joyandcuriosity 🗓️ 2025-09-28
 - [How to Implement Dependency Injection in Go - Explained with Code Examples](https://www.freecodecamp.org/news/how-to-use-dependency-injection-in-go/) 👤 Gabor Koos 💬 5087 🔖 #go 🗓️ 2025-09-27
@@ -304,7 +307,7 @@ What's up Python: MOAR uv, flask-like Django, debugging live processes...](https
 - [Advent of Code 2024 with Elixir - Part 1: The Good-ish, the Ugly and the Bad](https://simoncrowe.hashnode.dev/advent-of-code-2024-with-elixir-part-1-the-good-ish-the-ugly-and-the-bad) 👤 Simon Crowe 💬 1203 🔖 #elixir 🗓️ 2024-12-26
 - [Как использовать TDD, жить с vim в Java и Go и почему тебе нужна сплит-клавиатура](https://www.youtube.com/watch?v=8NdaPHWSRk4) 👤 Диджитализируй! 🗓️ 2024-12-26
 - [Redis Queue and Cron in Go](https://fajar.labkita.my.id/posts/redis-queue-and-cron-in-go) 👤 labkita.my.id 💬 731 🔖 #go, #redis 🗓️ 2025-03-31
-- [Telegram-бот-магазин на Python: пошаговый гайд с оплатой, каталогом и админкой (Aiogram 3 + SQLAlchemy 2)](https://habr.com/ru/companies/amvera/articles/869136/) 👤 yakvenalex 💬 9632 🔖 #aiogram, #sqlalchemy 🗓️ 2024-12-25
+- [Telegram-бот-магазин на Python: пошаговый гайд с оплатой, каталогом и админкой (Aiogram 3 + SQLAlchemy 2)](https://habr.com/ru/companies/amvera/articles/869136/) 👤 yakvenalex 💬 9632 🔖 #aiogram, #yokassa, #sqlalchemy 🗓️ 2024-12-25
 - [An imperative programmer tries to learn Haskell
 An imperative programmer tries to learn Haskell](https://hatwd.com/p/an-imperative-programmer-tries-to) 👤 Thane Thomson 💬 1722 🔖 #haskell 🗓️ 2024-12-25
 - [How to live on 24 hours a day – by Arnold Bennett](https://olivernguyen.io/w/live.24h/) 👤 olivernguyen.io 💬 1197 🗓️ 2024-12-24

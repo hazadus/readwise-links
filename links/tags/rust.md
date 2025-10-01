@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 21
+- Всего ссылок: 22
 
 ## Ссылки
 
+- [Are We Chasing Language Hype Over Solving Real Problems?](https://dayvster.com/blog/are-we-chasing-language-hype-over-solving-real-problems) 👤 Dayvi Schuster 💬 1839 🔖 #rust 🗓️ 2025-09-29
+    > **Резюме:** Many developers chase new languages and rewrite reliable tools just because they are trendy. The GNU Core Utils rewrite in Rust is a prime example that may add little value and waste effort. We should prioritize solving real problems and measurable impact over novelty.
 - [On Choosing Rust](https://endler.dev/2025/choosing-rust/) 👤 Matthias Endler 💬 1414 🔖 #rust 🗓️ 2025-09-28
     > **Резюме:** The author defends using Rust for core tools and says critics who call it hype are wrong. Rust brings memory safety, better concurrency, and can match or beat C in real cases. Rewrites are pragmatic and incremental—driven by maintainers, tooling needs, and retiring C programmers, not a coordinated plot.
 - [Mac toolbar widgets with xbar and rust](https://blog.korny.info/2025/01/18/toolbar-widgets-with-xbar-and-rust) 👤 Korny Sietsma 💬 779 🔖 #rust, #macos, #inspiration 🗓️ 2025-08-14
