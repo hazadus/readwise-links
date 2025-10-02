@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [Stop Abstracting and Start Programming](https://dayvster.com/blog/stop-abstracting-and-start-programming/) 👤 Dayvi Schuster 💬 974 🔖 #principles 🗓️ 2025-10-01
+    > **Резюме:** Ignore the urge to over-abstract. Write simple, working code first, then refactor if needed. Keep layers few so the code stays clear and maintainable.
 - [4 Software Design Principles I Learned the Hard Way](https://read.engineerscodex.com/p/4-software-design-principles-i-learned) 👤 Leonardo Creed 💬 1108 🔖 #principles, #development 🗓️ 2025-09-18
     > **Резюме:** The text discusses software design principles learned through experience, emphasizing the importance of maintaining a single source of truth, judiciously repeating code, and avoiding overuse of mocks in testing. It also highlights the benefits of minimizing mutable state in software development to reduce bugs and improve efficiency. The principles shared aim to enhance software engineering practices and ultimately contribute to more reliable and efficient software systems.
 - [What "Parse, don't validate" means in Python?](https://www.bitecode.dev/p/what-parse-dont-validate-means-in) 👤 Bite Code! 💬 2381 🔖 #python, #principles 🗓️ 2025-07-23

@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 48
+- Всего ссылок: 46
 
 ## Ссылки
 
@@ -54,41 +54,6 @@ Chaptermarks
 Links marked with * are affiliate links. I get a small commission when you register for the service or buy the product through my link. This helps me keeping the channel running. I only include affiliate links for services or product mentioned that we use ourselves or have good experience with.
 - [Vercel Acquires NuxtLabs: What This Means for the Future of Nuxt](https://mokkapps.de/blog/vercel-acquires-nuxtlabs) 👤 Michael Hoffmann 💬 1237 🔖 #nuxt 🗓️ 2025-07-18
     > **Резюме:** Vercel has acquired NuxtLabs, which will help make the Nuxt framework better and faster. Many Nuxt tools will become free and open-source, giving developers more freedom and control. The community is hopeful, but wants to keep Nuxt independent and flexible under Vercel’s support.
-- [Vercel BUYING NuxtLabs - What it means for you!](https://www.youtube.com/watch?v=NiQB7QPJAiM) 👤 Alexander Lichter 🔖 #vue, #nuxt 🗓️ 2025-07-13
-    > **Резюме:** This week's acquisition of NuxtLabs was a suprise for most of us - but what does it mean for Nuxt as a framework, for the community and for YOU?!
-
-Disclaimer: This video shares my own opinion and not the official stance of VoidZero nor the Nuxt core team as a whole.
-
----
-Links and Resources
-
-🔗 NuxtLabs announcement 
-🎙 Full @DejaVueFm episode with Daniel and Sébastien https://www.youtube.com/watch?v=xHbjFW9EJ-8
-🔗 Nuxt Governance document https://github.com/nuxt/governance
-🔗 Nitro Governance document https://github.com/nitrojs/governance/blob/main/README.md
-🔗 Daniel's Reddit AMA https://www.reddit.com/r/vuejs/comments/1lvdkwr/i_lead_the_nuxt_core_team_ama/
-
----
-Chaptermarks
-00:00 Intro
-00:21 What happened?
-01:17 Am I part of Vercel now?
-01:29 Did I know about the acquisition?
-01:57 NuxtLabs IS NOT Nuxt
-02:45 What does it mean for NuxtLabs?
-03:20 What will happen with the products of NuxtLabs?
-05:06 What does it mean for Nuxt as a framework?
-10:08 Consequences for Nitro and UnJS
-11:26 What changes for Vue?
-12:09 What is in for Vercel?
-13:35 Who are the "winners" of this acquisition?
-14:10 And who are the "losers"?
-15:16 Addressing Worries
-16:42 Wrapping Up
-
----
-
-Links marked with * are affiliate links. I get a small commission when you register for the service or buy the product through my link. This helps me keeping the channel running. I only include affiliate links for services or product mentioned that we use ourselves or have good experience with.
 - [Implementing Edge-Side Rendering (ESR) in Nuxt 3+ for Enhanced Performance](https://mokkapps.de/blog/implementing-esr-nuxt) 👤 Michael Hoffmann 💬 1473 🔖 #nuxt 🗓️ 2025-06-04
     > **Резюме:** Edge-Side Rendering (ESR) in Nuxt 3+ improves web performance by rendering content closer to users, reducing latency and load times. It allows applications to scale better by distributing the rendering workload across multiple edge servers. Using platforms like Cloudflare, Vercel, and Netlify, developers can easily implement ESR for faster and more responsive applications.
 - [21 Nuxt Tips You Need to Know](https://michaelnthiessen.com/21-nuxt-tips-you-need-to-know?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%94%A5+(216)+Component+design+patterns,+Nuxt%27s+new+data+layer,+and+more+-+17527805) 👤 michaelnthiessen.com 💬 3314 🔖 #nuxt 🗓️ 2025-05-17
@@ -101,8 +66,6 @@ Links marked with * are affiliate links. I get a small commission when you regis
     > **Резюме:** This article explains how to create a dynamic sitemap for a Nuxt 3 project, which is important for improving SEO. It covers setting up server routes, discovering pages automatically, and adding URLs while excluding certain paths. By using these techniques, you can build a comprehensive sitemap that helps search engines index your site effectively.
 - [Handling File Uploads in Nuxt with useStorage](https://vueschool.io/articles/vuejs-tutorials/handling-file-uploads-in-nuxt-with-usestorage/?friend=MOKKAPPS) 👤 vueschool.io 💬 942 🔖 #nuxt 🗓️ 2025-04-30
     > **Резюме:** The useStorage function in Nuxt simplifies secure file uploads and supports various storage providers. This guide explains how to create a complete file upload system, including validating file size and type, storing files, and serving them through a server route. By following these steps, you can implement robust file upload functionality in your Nuxt applications.
-- [Nuxt 3.17](https://nuxt.com/blog/v3-17) 👤 Nuxt 💬 691 🔖 #nuxt 🗓️ 2025-04-28
-    > **Резюме:** Nuxt 3.17 is out - bringing a major reworking of the async data layer, a new built-in component, better warnings, and performance improvements!
 - [Extracting Composables for Code Organization ​](https://vuejs.org/guide/reusability/composables.html) 👤 vuejs.org 💬 2447 🔖 #vue, #nuxt 🗓️ 2025-04-09
     > **Резюме:** Vue.js - The Progressive JavaScript Framework
 - [Good practices and Design Patterns for Vue Composables](https://dev.to/jacobandrewsky/good-practices-and-design-patterns-for-vue-composables-24lk) 👤 dev.to 💬 1140 🔖 #vue, #nuxt 🗓️ 2025-04-09

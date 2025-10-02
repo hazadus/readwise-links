@@ -1,16 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 851
+- Всего ссылок: 833
 
 ## Ссылки
 
-- [Hades II: Обзор самого вкусного рогалика года](https://stopgame.ru/show/152840/hades_ii_review_samogo_vkusnogo_rogalika_goda) 👤 Кирилл Волошин 💬 1524 🗓️ 2025-09-30
-- [Empire of AI by Karen Hao - Book Review](https://wsvincent.com/empire-of-ai/) 👤 William Vincent 💬 1754 🗓️ 2025-09-30
+- [Dev Culture Is Dying The Curious Developer Is Gone](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/) 👤 Dayvi Schuster 💬 2598 🔖 #learning 🗓️ 2025-10-01
 - [Gist of Go: Atomics](https://antonz.org/go-concurrency/atomics/) 👤 Anton Zhiyanov 💬 1681 🔖 #go 🗓️ 2025-09-30
-- [Nuxt UI v4](https://nuxt.com/blog/nuxt-ui-v4) 👤 Benjamin Canac 💬 803 🔖 #nuxt 🗓️ 2025-09-29
-- [Are We Chasing Language Hype Over Solving Real Problems?](https://dayvster.com/blog/are-we-chasing-language-hype-over-solving-real-problems) 👤 Dayvi Schuster 💬 1839 🔖 #rust 🗓️ 2025-09-29
-- [OpenAI Codex Tutorial #1 - Introduction & Setup](https://www.youtube.com/watch?v=tIb_TzVNbDM) 👤 Net Ninja 🗓️ 2025-09-29
-- [Things I Believe](https://leerob.com/beliefs?utm_source=substack&utm_medium=email) 👤 Lee Robinson 💬 326 🔖 #joyandcuriosity 🗓️ 2025-09-28
 - [How to Implement Dependency Injection in Go - Explained with Code Examples](https://www.freecodecamp.org/news/how-to-use-dependency-injection-in-go/) 👤 Gabor Koos 💬 5087 🔖 #go 🗓️ 2025-09-27
 - [Spaced Repetition for Efficient Learning](https://gwern.net/spaced-repetition) 👤 Gwern Branwen 💬 30217 🗓️ 2025-09-24
 - [Native threading and multiprocessing in Go](https://antonz.org/multi/) 👤 Anton Zhiyanov 💬 972 🔖 #go 🗓️ 2025-09-23
@@ -19,46 +14,38 @@
 - [Never Get Bored With The Basics • The Applied Go Weekly Newsletter 2025-09-14](https://newsletter.appliedgo.net/archive/2025-09-14-never-get-bored-with-the-basics/) 👤 The Applied Go Weekly Newsletter 💬 1503 🔖 #go 🗓️ 2025-09-17
 - [Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial](https://m.youtube.com/watch?v=Vs4hQsDpxww) 👤 freeCodeCamp.org 🔖 #try 🗓️ 2025-09-16
 - [Why Go Is A Minimalist Language • The Applied Go Weekly Newsletter 2025-09-07](https://newsletter.appliedgo.net/archive/2025-09-07-why-go-is-a-minimalist-language/) 👤 The Applied Go Weekly Newsletter 💬 1670 🔖 #go 🗓️ 2025-09-08
-- [Profiles in Visual Studio Code](https://code.visualstudio.com/docs/configure/profiles) 👤 Microsoft 💬 2964 🔖 #vscode 🗓️ 2025-09-03
 - [How to Back up Your GitHub Repositories](https://improveandrepeat.com/2025/09/how-to-back-up-your-github-repositories/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 616 🔖 #git, #try, #github 🗓️ 2025-09-02
 - [So you don't like Go? • The Applied Go Weekly Newsletter 2025-08-31](https://newsletter.appliedgo.net/archive/2025-08-31-so-you-dont-like-go/) 👤 The Applied Go Weekly Newsletter 💬 1435 🗓️ 2025-09-01
 - [Handle With Care • The Applied Go Weekly Newsletter 2025-08-24](https://newsletter.appliedgo.net/archive/2025-08-24-handle-with-care-llm-security/) 👤 The Applied Go Weekly Newsletter 💬 2128 🗓️ 2025-08-29
 - [Developing a Real-time Dashboard with Flask, Postgres, and Socket.IO](https://testdriven.io/blog/flask-postgres-socketio/) 👤 testdriven.io 💬 4439 🔖 #flask, #websocket 🗓️ 2025-08-29
 - [JavaScript Tutorial with Three.js – 5 Projects for Beginners](https://www.youtube.com/watch?v=tPkJLnDqAKk) 👤 freeCodeCamp.org 🔖 #try, #three.js, #javascript 🗓️ 2025-08-28
-- [Гайд по кастомизации vscode: удобная навигация вместо вкладок](https://www.youtube.com/watch?v=reT_wnDSaX4) 👤 Никита Соболев 🗓️ 2025-08-26
 - [The Nature Of Software Development](https://readwise.io/reader/document_raw_content/282158585) 👤 Ron Jeffries, Michael Swaine 💬 24194 🔖 #book, #joyandcuriosity 🗓️ 2025-08-26
 - [Moving Objects in 3D Space](https://visualrambling.space/moving-objects-in-3d/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 829 🔖 #joyandcuriosity 🗓️ 2025-08-24
 - [Why Semantic Layers Matter — and How to Build One with DuckDB](https://motherduck.com/blog/semantic-layer-duckdb-tutorial/?utm_source=tldrwebdev) 👤 MotherDuck 💬 4235 🔖 #duckdb 🗓️ 2025-08-24
 - [An Interactive Guide to SVG Paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/?from=newsletter) 👤 Josh W. Comeau 💬 3508 🗓️ 2025-08-24
 - [Nuxt Tip: Accessing Pinia Store in Production Build](https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build) 👤 Michael Hoffmann 💬 86 🔖 #nuxt, #pinia 🗓️ 2025-08-14
 - [Blue Gopher Meets Stochastic Parrot • The Applied Go Weekly Newsletter 2025-08-10](https://newsletter.appliedgo.net/archive/2025-08-10-blue-gopher-meets-stochastic-parrot/) 👤 The Applied Go Weekly Newsletter 💬 1872 🔖 #go 🗓️ 2025-08-12
-- [Что там у «Рика и Морти» в 8-м сезоне? Риковое поле экспериментов](https://www.mirf.ru/serial/rik-i-morti-8-sezon) 👤 mirf.ru 💬 921 🗓️ 2025-08-07
 - [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/) 👤 Benjamin Sandofsky 💬 8956 🗓️ 2025-08-06
 - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/) 👤 Jake Lazaroff 💬 4002 🔖 #diy 🗓️ 2025-08-04
-- [Гайд по кастомизации vscode: горячие клавиши вместо глобальных менюшек](https://www.youtube.com/watch?v=wxbifNb1Q1o) 👤 Никита Соболев 🗓️ 2025-08-04
 - [Создание умных AI-агентов: полный курс по LangGraph от А до Я. Часть 1. Архитектура: графы, узлы и состояния](https://habr.com/ru/companies/amvera/articles/933460/) 👤 yakvenalex 💬 5040 🗓️ 2025-08-04
 - [The Atrocity Archives](private://read/01k1d3zamj69t631a9zk0vc29p) 👤 Charles Stross 💬 112070 🗓️ 2025-07-30
 - [Как создать MCP-сервер и научить ИИ работать с любым кодом и инструментами через LangGraph](https://habr.com/ru/companies/amvera/articles/931874/) 👤 yakvenalex 💬 7645 🗓️ 2025-07-29
-- [Обзор RoboCop: Rogue City - Unfinished Business - Отдых от душнины типа Call Of Duty I Битый Пиксель](https://www.youtube.com/watch?v=KJ89Pq9SHd8) 👤 Битый Пиксель 🗓️ 2025-07-28
 - [Prompting with LLM](https://building-with-llms-pycon-2025.readthedocs.io/en/latest/prompting.html) 👤 building-with-llms-pycon-2025.readthedocs.io 💬 975 🔖 #llm, #try 🗓️ 2025-07-27
 - [Почему кошки мурлычут? Теоретические основы и неразгаданная тайна кошачьего урчания](https://www.mirf.ru/science/pochemu-koshki-murlychut) 👤 mirf.ru 💬 1777 🗓️ 2025-07-27
 - [Nuxt 4 - An overview!](https://www.youtube.com/watch?v=rCT54d8sMWk) 👤 Alexander Lichter 🔖 #nuxt 🗓️ 2025-07-25
 - [TDD, AI agents and coding with Kent Beck](https://www.youtube.com/watch?v=aSXaxOdVtAQ) 👤 The Pragmatic Engineer 🗓️ 2025-07-25
-- [Обзор Donkey Kong Bananza - БЕЗУМНОЕ РАЗДОЛБАЙСТВО I Битый Пиксель](https://www.youtube.com/watch?v=TSemikWI1A4) 👤 Битый Пиксель 🗓️ 2025-07-25
 - [Gist of Go: Signaling](https://antonz.org/go-concurrency/signaling/) 👤 Anton Zhiyanov 💬 3912 🔖 #go 🗓️ 2025-07-21
 - [Useful Not True](private://read/01k0k6235k7ss56jx05sjmrryr) 👤 Derek Sivers 💬 22661 🗓️ 2025-07-20
 - [New And Improved Formula! • The Applied Go Weekly Newsletter 2025-07-20](https://newsletter.appliedgo.net/archive/2025-07-20-jsonv2-new-and-improved-formula/) 👤 The Applied Go Weekly Newsletter 💬 1836 🔖 #go 🗓️ 2025-07-20
 - [Developing a Real-time Dashboard with FastAPI, Postgres, and WebSockets](https://testdriven.io/blog/fastapi-postgres-websockets/) 👤 testdriven.io 💬 3838 🔖 #try, #fastapi, #websocket, #postgresql 🗓️ 2025-07-18
 - [You don't need testify/assert](https://antonz.org/do-not-testify/) 👤 Anton Zhiyanov 💬 1706 🔖 #go, #testing 🗓️ 2025-07-16
-- [Vercel BUYING NuxtLabs - What it means for you!](https://www.youtube.com/watch?v=NiQB7QPJAiM) 👤 Alexander Lichter 🔖 #vue, #nuxt 🗓️ 2025-07-13
 - [Don't Mess With My Site! • The Applied Go Weekly Newsletter 2025-07-13](https://newsletter.appliedgo.net/archive/2025-07-13-dont-mess-with-my-site/) 👤 appliedgo.net 💬 1289 🗓️ 2025-07-13
-- [Death Stranding 2: Кодзиме пора потрогать траву](https://disgustingmen.com/games/death-stranding-2-on-the-beach-review/) 👤 Денис Майоров 💬 1805 🗓️ 2025-07-11
 - [Concurrency Patterns in Go: Collecting Ordered Results](mailto:reader-forwarded-email/45e569d87e61df96dbcc83bdec2b50b1) 👤 Jon Calhoun 💬 925 🗓️ 2025-07-09
 - [uv: Making Python Local Workflows FAST and BORING in 2025](https://www.youtube.com/watch?v=TiBIjouDGuI) 👤 Hynek Schlawack 🔖 #uv 🗓️ 2025-07-07
 - [(Don't) Leave No Trace • The Applied Go Weekly Newsletter 2025-07-06](https://newsletter.appliedgo.net/archive/2025-07-06-dont-leave-no-trace/) 👤 appliedgo.net 💬 1746 🔖 #go 🗓️ 2025-07-07
 - [Concurrency Patterns in Go: errgroup](mailto:reader-forwarded-email/e17e336182935f8e158a227da7b09694) 👤 Jon Calhoun 💬 751 🔖 #go 🗓️ 2025-07-04
 - [Connect to the MCP Server](https://logfire.pydantic.dev/docs/how-to-guides/mcp-server/) 👤 pydantic.dev 💬 400 🔖 #mcp 🗓️ 2025-07-04
-- [[BadComedian] - ПОСМОТРЕЛ ВСЕ СКАЗКИ (Волшебник изумрудного города, Бременские, Летучий корабль итд)](https://www.youtube.com/watch?v=vO3Wpq7wrLI) 👤 BadComedian 🗓️ 2025-07-04
+- [[BadComedian] - ПОСМОТРЕЛ ВСЕ СКАЗКИ (Волшебник изумрудного города, Бременские, Летучий корабль итд)](https://www.youtube.com/watch?v=vO3Wpq7wrLI) 👤 BadComedian 🔖 #fun 🗓️ 2025-07-04
 - [Gist of Go: Semaphores](https://antonz.org/go-concurrency/semaphores/) 👤 Anton Zhiyanov 💬 2380 🔖 #go 🗓️ 2025-07-02
 - [Developing a Real-time Dashboard with FastAPI, MongoDB, and WebSockets](https://testdriven.io/blog/fastapi-mongo-websockets/) 👤 testdriven.io 💬 2484 🔖 #fastapi, #websocket 🗓️ 2025-06-30
 - [Know Your (CPU) Limits! • The Applied Go Weekly Newsletter 2025-06-29](https://newsletter.appliedgo.net/archive/2025-06-29-know-your-cpu-limits/) 👤 The Applied Go Weekly Newsletter 💬 1568 🔖 #go 🗓️ 2025-06-29
@@ -69,7 +56,6 @@
 - [MCP Core Concepts - Resources, Tools, Prompts & Transports!](https://www.youtube.com/watch?v=TTtQxUprbDY) 👤 BugBytes 🔖 #mcp 🗓️ 2025-06-21
 - [Von Express zu Go – mein Weg zu minimalistischen HTTP‑APIs](https://trakora.de/blog/weg-zu-minimalistischen-http-apis) 👤 trakora.de 💬 640 🔖 #go, #try 🗓️ 2025-06-18
     > **Заметка:** Пост к репо: https://github.com/trakora/production-go-api-template
-- [Обзор Nintendo Switch 2](https://www.youtube.com/watch?v=ycOTD0H-xag) 👤 StopGame 🗓️ 2025-06-18
 - [Inside The Bubble • The Applied Go Weekly Newsletter 2025-06-15](https://newsletter.appliedgo.net/archive/2025-06-15-inside-the-bubble/) 👤 The Applied Go Weekly Newsletter 💬 2190 🔖 #go 🗓️ 2025-06-16
 - [Gist of Go: Race conditions](https://antonz.org/go-concurrency/race-conditions/) 👤 Anton Zhiyanov 💬 4381 🔖 #go 🗓️ 2025-06-16
 - [Writing Load Balancer From Scratch In 250 Line of Code](https://beyondthesyntax.substack.com/p/writing-load-balancer-from-scratch) 👤 Sushant Dhiman 💬 1745 🔖 #go, #diy 🗓️ 2025-06-16
@@ -89,12 +75,10 @@
 - [Stop Splitting Atoms • The Applied Go Weekly Newsletter 2025-06-01](https://newsletter.appliedgo.net/archive/2025-06-01-stop-splitting-atoms/) 👤 The Applied Go Weekly Newsletter 💬 1635 🔖 #go 🗓️ 2025-06-02
 - [Create a React + Flask Project in 2025](https://blog.miguelgrinberg.com/post/create-a-react-flask-project-in-2025) 👤 Miguel Grinberg 💬 2191 🔖 #vite, #flask, #react 🗓️ 2025-06-01
 - [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) 👤 Nathaniel J. Smith 💬 6018 🗓️ 2025-05-30
-- [«Одни из нас», 2-й сезон: как расстроить всех и не порадовать никого](https://www.mirf.ru/serial/odni-iz-nas-2-sezon-serial) 👤 mirf.ru 💬 1040 🔖 #game 🗓️ 2025-05-28
 - [Go, Browser—You Have To Talk! • The Applied Go Weekly Newsletter 2025-05-25](https://newsletter.appliedgo.net/archive/2025-05-25-go-browser-you-have-to-talk/) 👤 The Applied Go Weekly Newsletter 💬 1879 🔖 #go 🗓️ 2025-05-26
 - [http.DefaultTransport](https://antonz.org/default-transport/) 👤 Anton Zhiyanov 💬 804 🔖 #go 🗓️ 2025-05-24
 - [An Animated Introduction to Elixir](https://www.freecodecamp.org/news/an-animated-introduction-to-elixir/) 👤 Mark Mahoney 💬 685 🔖 #elixir 🗓️ 2025-05-23
 - [You can style alt text like any other text](https://piccalil.li/blog/you-can-style-alt-text-like-any-other-text/?ref=main-rss-feed) 👤 Andy Bell 💬 672 🔖 #css 🗓️ 2025-05-23
-- [Всё ещё ЛУЧШИЙ ШУТЕР? Обзор Doom: The Dark Ages I Битый Пиксель](https://www.youtube.com/watch?v=NJ_drb3o3wY) 👤 Битый Пиксель 🔖 #game 🗓️ 2025-05-22
 - [First Steps With LangChain](https://realpython.com/courses/first-steps-langchain/) 👤 Real Python 💬 129 🔖 #llm, #python, #langchain 🗓️ 2025-05-21
 - [LangGraph Complete Course for Beginners – Complex AI Agents](https://www.youtube.com/watch?v=jGg_1h0qzaM) 👤 freeCodeCamp.org 🔖 #llm, #agents, #langgraph 🗓️ 2025-05-21
 - [Threat Modeling Guide for Software Teams](https://martinfowler.com/articles/agile-threat-modelling.html) 👤 Jim Gumbley 💬 4981 🗓️ 2025-05-21
@@ -120,8 +104,6 @@
 - [Have Another Cup Of Tea • The Applied Go Weekly Newsletter 2025-05-04](https://newsletter.appliedgo.net/archive/2025-05-04-have-another-cup-of-tea/) 👤 The Applied Go Weekly Newsletter 💬 1732 🔖 #go 🗓️ 2025-05-04
 - [Generating a Dynamic Sitemap in Nuxt 3](https://masteringnuxt.com/blog/generating-a-dynamic-sitemap-in-nuxt-3?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 897 🔖 #nuxt 🗓️ 2025-04-30
 - [Handling File Uploads in Nuxt with useStorage](https://vueschool.io/articles/vuejs-tutorials/handling-file-uploads-in-nuxt-with-usestorage/?friend=MOKKAPPS) 👤 vueschool.io 💬 942 🔖 #nuxt 🗓️ 2025-04-30
-- [/usr/bin/just do it](https://frankwiles.com/posts/just-do-it/) 👤 frankwiles.com 💬 1129 🔖 #cli, #try 🗓️ 2025-04-28
-- [Nuxt 3.17](https://nuxt.com/blog/v3-17) 👤 Nuxt 💬 691 🔖 #nuxt 🗓️ 2025-04-28
 - [The Attack You Invited • The Applied Go Weekly Newsletter 2025-04-27](https://newsletter.appliedgo.net/archive/2025-04-27-the-attack-you-invited/) 👤 The Applied Go Weekly Newsletter 💬 1997 🗓️ 2025-04-27
 - [Stop overbuilding evals](https://softwaredoug.com/blog/2025/04/26/stop-overbuilding-evals) 👤 Doug Turnbull 💬 788 🗓️ 2025-04-27
 - [The Anarchy: The Relentless Rise of the East India Company](https://seangoedecke.com/the-anarchy/) 👤 seangoedecke.com 💬 1963 🗓️ 2025-04-27

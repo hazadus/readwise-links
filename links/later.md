@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 94
+- Всего ссылок: 96
 
 ## Ссылки
 
+- [Vim — это метаредактирование (иммерсивный текстовый редактор) // Запись доклада](https://www.youtube.com/watch?v=RPlOYfgGDjQ&feature=youtu.be) 👤 Куда войти? 🗓️ 2025-10-01
+    > **Резюме:** Доклад рассказывает, что Vim — это иммерсивный текстовый редактор, построенный вокруг работы с текстом. Автор показывает повторение действий, регистры, поиск и плагины как ключевые фичи. Vim легко настраивается и расширяется, включая интеграции с инструментами и AI.
+- [Empire of AI by Karen Hao - Book Review](https://wsvincent.com/empire-of-ai/) 👤 William Vincent 💬 1754 🗓️ 2025-09-30
+    > **Резюме:** Empire of AI explains how LLMs like ChatGPT work and who built them. Hao shows OpenAI shifting from open ideals to secretive scaling and using low-paid humans to clean data. She warns that hype, concentrated power, and human cost make AI feel like a modern empire.
 - [Remember: Kurt Vonnegut was 47](https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47) 👤 JA Westenberg 💬 1289 🗓️ 2025-09-29
     > **Резюме:** Kurt Vonnegut was forty-seven when he wrote Slaughterhouse-Five.  
 Our culture worships youth, but many breakthroughs come later.  

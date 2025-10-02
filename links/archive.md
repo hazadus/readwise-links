@@ -1,11 +1,18 @@
 # Архивные ссылки
 
-- Всего ссылок: 1062
+- Всего ссылок: 1074
 
 ## Ссылки
 
+- [Stop Abstracting and Start Programming](https://dayvster.com/blog/stop-abstracting-and-start-programming/) 👤 Dayvi Schuster 💬 974 🔖 #principles 🗓️ 2025-10-01
+- [Why I Still Reach for C for Certain Projects](https://dayvster.com/blog/why-i-still-reach-for-c-for-certain-projects/) 👤 Dayvi Schuster 💬 2165 🔖 #clang 🗓️ 2025-10-01
+- [Why Zig Feels More Practical Than Rust for Real-World CLI Tools](https://dayvster.com/blog/why-zig-feels-more-practical-than-rust-for-real-world-cli-tools/) 👤 Dayvi Schuster 💬 2619 🔖 #zig 🗓️ 2025-10-01
+- [Hades II: Обзор самого вкусного рогалика года](https://stopgame.ru/show/152840/hades_ii_review_samogo_vkusnogo_rogalika_goda) 👤 Кирилл Волошин 💬 1524 🗓️ 2025-09-30
 - [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#atom-everything) 👤 Simon Willison 💬 1493 🔖 #llm 🗓️ 2025-09-30
 - [90%](https://lucumr.pocoo.org/2025/9/29/90-percent/) 👤 Armin Ronacher 💬 1611 🔖 #llm 🗓️ 2025-09-30
+- [Nuxt UI v4](https://nuxt.com/blog/nuxt-ui-v4) 👤 Benjamin Canac 💬 803 🔖 #nuxt 🗓️ 2025-09-29
+- [Are We Chasing Language Hype Over Solving Real Problems?](https://dayvster.com/blog/are-we-chasing-language-hype-over-solving-real-problems) 👤 Dayvi Schuster 💬 1839 🔖 #rust 🗓️ 2025-09-29
+- [Things I Believe](https://leerob.com/beliefs?utm_source=substack&utm_medium=email) 👤 Lee Robinson 💬 326 🔖 #inspiration, #joyandcuriosity 🗓️ 2025-09-28
 - [How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner?utm_source=substack&utm_medium=email) 👤 annie's blog 💬 449 🔖 #fun, #joyandcuriosity 🗓️ 2025-09-28
 - [You're not using LLMs enough](https://florianbrand.de/posts/use-llms-more?utm_source=substack&utm_medium=email) 👤 Florian Brand 💬 351 🔖 #llm, #joyandcuriosity 🗓️ 2025-09-28
 - [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors?utm_source=tldrwebdev) 👤 yossarian.net 💬 1574 🔖 #github 🗓️ 2025-09-28
@@ -75,6 +82,7 @@
 - [Beyond Vibe Coding](https://simonwillison.net/2025/Sep/4/beyond-vibe-coding/#atom-everything) 👤 Simon Willison 💬 275 🔖 #llm 🗓️ 2025-09-05
 - [Experience with LLM](https://ronjeffries.com/articles/-w025/y/w/) 👤 ronjeffries.com 💬 1529 🔖 #llm 🗓️ 2025-09-05
 - [Look Out For Bugs](https://matklad.github.io/2025/09/04/look-for-bugs.html) 👤 matklad.github.io 💬 782 🔖 #programming 🗓️ 2025-09-05
+- [Profiles in Visual Studio Code](https://code.visualstudio.com/docs/configure/profiles) 👤 Microsoft 💬 2964 🔖 #vscode 🗓️ 2025-09-03
 - [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp) 👤 Morgan Krey 💬 1200 🔖 #zed 🗓️ 2025-09-03
 - [On Coding with Claude](https://blog.puzzmo.com/posts/2025/06/07/orta-on-claude/) 👤 Puzzmo Blog 💬 3674 🔖 #llm 🗓️ 2025-09-03
 - [Seeing like a software company](https://seangoedecke.com/seeing-like-a-software-company/) 👤 seangoedecke.com 💬 3485 🔖 #leaddev, #estimation, #management, #development 🗓️ 2025-09-03
@@ -101,6 +109,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [Quick Motivation – A Mac App](https://matthewmanela.com/blog/quick-motivation-a-mac-app/) 👤 Matthew Manela 💬 762 🔖 #macos, #swift, #inspiration 🗓️ 2025-08-27
 - [Hopefully More Controversial Programming Opinions](https://prog21.dadgum.com/149.html) 👤 dadgum.com 💬 370 🔖 #programming 🗓️ 2025-08-27
 - [The Coding Agent Metagame](https://calv.info/coding-agent-metagame) 👤 calv.info 💬 1817 🔖 #llm 🗓️ 2025-08-27
+- [Гайд по кастомизации vscode: удобная навигация вместо вкладок](https://www.youtube.com/watch?v=reT_wnDSaX4) 👤 Никита Соболев 🔖 #vscode 🗓️ 2025-08-26
 - [Finding the low-hanging fruit in tech companies](https://seangoedecke.com/low-hanging-fruit/) 👤 seangoedecke.com 💬 1455 🔖 #development 🗓️ 2025-08-26
 - [Everything I know about good API design](https://seangoedecke.com/good-api-design/) 👤 seangoedecke.com 💬 3865 🔖 #api, #toot, #webdev, #programming 🗓️ 2025-08-25
     > **Заметка:** Советы по разработке публичных API от Шона. Рекомендую почитать все его посты, очень глубокий материал!
@@ -177,6 +186,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/#atom-everything) 👤 Simon Willison 💬 1864 🔖 #llm 🗓️ 2025-08-07
     > **Заметка:** Обзор выпущенного сегодня GPT-5 от Саймона, на основе двухнедельного опыта использования.
 - [GPT-5: It Just Does Stuff](https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff) 👤 Ethan Mollick 💬 1859 🔖 #llm 🗓️ 2025-08-07
+- [Что там у «Рика и Морти» в 8-м сезоне? Риковое поле экспериментов](https://www.mirf.ru/serial/rik-i-morti-8-sezon) 👤 mirf.ru 💬 921 🗓️ 2025-08-07
 - [OpenAI's new open-source model is basically Phi-5](https://seangoedecke.com/gpt-oss-is-phi-5/) 👤 seangoedecke.com 💬 837 🔖 #llm, #toot 🗓️ 2025-08-07
     > **Заметка:** Шон не в восторге от новых OSS моделей OpenAI
 - [All the concerns that make you a boring developer](https://daverupert.com/2025/08/got-99-engineering-problems-but-a-grift-aint-one/) 👤 Dave Rupert 💬 739 🗓️ 2025-08-07
@@ -197,6 +207,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [12 Design Patterns in Vue](https://michaelnthiessen.com/12-design-patterns-vue) 👤 michaelnthiessen.com 💬 1662 🔖 #try, #vue, #nuxt, #toot, #webdev, #patterns, #programming 🗓️ 2025-08-04
     > **Заметка:** Краткая и ёмкая подборка паттернов разработки с Vue от Майкла. Очень качественный материал!
 - [linuxserver/obsidian¶](https://docs.linuxserver.io/images/docker-obsidian/) 👤 LinuxServer.io 💬 1521 🔖 #obsidian, #selfhost 🗓️ 2025-08-04
+- [Гайд по кастомизации vscode: горячие клавиши вместо глобальных менюшек](https://www.youtube.com/watch?v=wxbifNb1Q1o) 👤 Никита Соболев 🔖 #vscode 🗓️ 2025-08-04
 - [Find new blogs to follow from this year’s Blaugust participants](https://hamatti.org/posts/find-new-blogs-to-follow-from-this-years-blaugust-participants/) 👤 Juha-Matti Santala 💬 409 🗓️ 2025-08-04
 - [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds) 👤 geoffreylitt.com 💬 765 🗓️ 2025-08-03
 - [Why I'm Betting Against AI Agents in 2025 (Despite Building Them)](https://utkarshkanwat.com/writing/betting-against-agents/) 👤 Utkarsh Kanwat 💬 1714 🔖 #llm, #agents 🗓️ 2025-08-03
@@ -505,6 +516,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [Обзор ремастера TES Oblivion - Маловато будет I Битый Пиксель](https://www.youtube.com/watch?v=Qdlt-WiK24Y) 👤 Битый Пиксель 🗓️ 2025-04-30
 - [Обзор ремастера TES Oblivion - Маловато будет I Битый Пиксель](https://www.youtube.com/watch?v=Qdlt-WiK24Y) 👤 Битый Пиксель 🗓️ 2025-04-30
 - [Please Start from Textbook](https://blog.ungra.dev/please-start-from-textbook) 👤 OddPen 💬 1440 🗓️ 2025-04-30
+- [/usr/bin/just do it](https://frankwiles.com/posts/just-do-it/) 👤 frankwiles.com 💬 1129 🔖 #cli, #try 🗓️ 2025-04-28
 - [sycophancy is the first LLM “dark pattern”.](https://seangoedecke.com/ai-sycophancy/) 👤 seangoedecke.com 💬 1287 🔖 #llm 🗓️ 2025-04-28
 - [Debugging, emotional resilience, and mental models](https://seangoedecke.com/debugging/) 👤 seangoedecke.com 💬 2616 🔖 #development 🗓️ 2025-04-27
 - [The OpenAI house style is exhausting](https://seangoedecke.com/chatgpt-house-style/) 👤 seangoedecke.com 💬 916 🔖 #llm 🗓️ 2025-04-28

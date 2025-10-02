@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 97
+- Всего ссылок: 98
 
 ## Ссылки
 
+- [Things I Believe](https://leerob.com/beliefs?utm_source=substack&utm_medium=email) 👤 Lee Robinson 💬 326 🔖 #inspiration, #joyandcuriosity 🗓️ 2025-09-28
+    > **Резюме:** Ship fast, learn from customers, and prioritize adoption.  
+Seek truth, admit mistakes, and communicate clearly.  
+Lead by owning outcomes, hiring great people, teaching honestly, and assuming good intent.
 - [Endless AI-generated Wikipedia](https://seangoedecke.com/endless-wiki/) 👤 seangoedecke.com 💬 654 🔖 #llm, #toot, #inspiration 🗓️ 2025-09-27
     > **Заметка:** Шон реализовал гениальную в своей простоте идею "бесконечной энциклопедии" на основе LLM. Впечатляет!
     > **Резюме:** The author built EndlessWiki, an infinite AI-generated encyclopedia at endlesswiki.com. Pages are created on demand by a large language model and saved to a database. The site forces users to explore by clicking links and serves as a toy demo of non-chat LLM interfaces.

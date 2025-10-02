@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
@@ -14,6 +14,8 @@ I appreciate the effort and felt satisfied even though I didn’t fully understa
     > **Резюме:** They lost the blade race and decided to go to five blades.  
 The boss orders wild engineering, extra aloe strips, and loud ads.  
 They plan to shove five blades onto the market with big swagger.
+- [[BadComedian] - ПОСМОТРЕЛ ВСЕ СКАЗКИ (Волшебник изумрудного города, Бременские, Летучий корабль итд)](https://www.youtube.com/watch?v=vO3Wpq7wrLI) 👤 BadComedian 🔖 #fun 🗓️ 2025-07-04
+    > **Резюме:** The video reviews modern adaptations of classic fairy tales and finds many mistakes and changes. The reviewer criticizes poor animation, confusing plots, and characters that differ from the originals. Overall, the new versions lose the original spirit and are not made with care.
 - [Заговор разработчиков против корпораций: работа с командой](https://habr.com/ru/articles/908374/) 👤 arturdumchev 💬 2057 🔖 #fun 🗓️ 2025-07-01
     > **Резюме:** Автор обсуждает, как собеседования и корпоративная культура в IT иногда не отражают реальных навыков разработчиков. Он критикует традиционные методы работы, такие как SCRUM, за их неэффективность и навязывание формальностей. В статье поднимается вопрос о том, как анархия в технической среде влияет на выбор и работу специалистов.
 - [New Programming Jargon](https://blog.codinghorror.com/new-programming-jargon/) 👤 Jeff Atwood 💬 2082 🔖 #fun 🗓️ 2025-06-03

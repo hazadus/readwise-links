@@ -6,7 +6,7 @@
 
 - [Libghostty Is Coming](https://mitchellh.com/writing/libghostty-is-coming?utm_source=substack&utm_medium=email) 👤 Mitchell Hashimoto 💬 1439 🔖 #joyandcuriosity 🗓️ 2025-09-28
     > **Резюме:** Libghostty is an embeddable, zero-dependency terminal-emulation library from Ghostty. libghostty-vt parses terminal sequences and maintains terminal state with high speed and correctness. It is alpha (Zig API available, C API coming), targets macOS and Linux, and seeks user feedback.
-- [Things I Believe](https://leerob.com/beliefs?utm_source=substack&utm_medium=email) 👤 Lee Robinson 💬 326 🔖 #joyandcuriosity 🗓️ 2025-09-28
+- [Things I Believe](https://leerob.com/beliefs?utm_source=substack&utm_medium=email) 👤 Lee Robinson 💬 326 🔖 #inspiration, #joyandcuriosity 🗓️ 2025-09-28
     > **Резюме:** Ship fast, learn from customers, and prioritize adoption.  
 Seek truth, admit mistakes, and communicate clearly.  
 Lead by owning outcomes, hiring great people, teaching honestly, and assuming good intent.

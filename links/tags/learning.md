@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 24
+- Всего ссылок: 25
 
 ## Ссылки
 
+- [Dev Culture Is Dying The Curious Developer Is Gone](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/) 👤 Dayvi Schuster 💬 2598 🔖 #learning 🗓️ 2025-10-01
+    > **Резюме:** Developer culture has shifted from curiosity and tinkering to chasing metrics and growth. This change stifles creativity and produces bland, revenue-driven software. The author urges developers to reclaim time for curious, personal projects that spark real innovation.
 - [Why Cringe Tolerance Separates Builders from Non-Builders](https://www.joanwestenberg.com/p/why-cringe-tolerance-separates-builders-from-non-builders-590c09e6f3021d4f) 👤 Joan Westenberg 💬 938 🔖 #career, #learning 🗓️ 2025-07-16
     > **Резюме:** Building things requires the courage to share imperfect work and endure embarrassment. People who wait for perfection often never start or improve. Embracing early mistakes leads to growth, feedback, and eventual success.
 - [What Doesn’t Change](https://terriblesoftware.org/2025/07/14/what-doesnt-change/) 👤 Terrible Software 💬 514 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-14
