@@ -28,7 +28,8 @@
         "01k4ytdsk9z2ryr6epnhnc4nc6",
         "01k42b6swkgw9rmtbv83gqtfkj",
         "01k5f8mdwyebntk4krv6a4cx9q",
-        "01k65nyzeh1natbb7xqmxxkbby"
+        "01k65nyzeh1natbb7xqmxxkbby",
+        "01k6f9rmhq0zy0sfkwxemj5f38"
     ],
     "toots": [
         {
@@ -204,6 +205,12 @@
             "document_title": "Endless AI-generated Wikipedia",
             "source_url": "https://seangoedecke.com/endless-wiki/",
             "toot_url": "https://fosstodon.org/@hazadus/115286294971268155"
+        },
+        {
+            "document_id": "01k6f9rmhq0zy0sfkwxemj5f38",
+            "document_title": "Dev Culture Is Dying The Curious Developer Is Gone",
+            "source_url": "https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/",
+            "toot_url": "https://fosstodon.org/@hazadus/115308944605327591"
         }
     ]
 }
