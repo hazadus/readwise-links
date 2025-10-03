@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 227
+- Всего ссылок: 228
 
 ## Ссылки
 
+- [Enjoy The Flight! • The Applied Go Weekly Newsletter 2025-09-28](https://newsletter.appliedgo.net/archive/2025-09-28-enjoy-the-flight/) 👤 The Applied Go Weekly Newsletter 💬 1180 🔖 #go 🗓️ 2025-10-02
+    > **Резюме:** The Applied Go Weekly shares recent Go news, tools, and ideas. The author is simplifying the newsletter schedule and pausing a long Spotlight series to focus on shipping issues. Highlights include new Go tooling (troubleshooting, hashers), talks, and useful projects.
 - [Gist of Go: Atomics](https://antonz.org/go-concurrency/atomics/) 👤 Anton Zhiyanov 💬 1681 🔖 #go 🗓️ 2025-09-30
     > **Резюме:** Go's sync/atomic lets you do some operations safely across goroutines without locks.  
 However, combining atomic calls is not itself atomic and can produce unpredictable results.  

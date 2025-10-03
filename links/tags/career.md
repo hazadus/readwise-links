@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 58
+- Всего ссылок: 59
 
 ## Ссылки
 
+- [Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/) 👤 Terrible Software 💬 763 🔖 #career 🗓️ 2025-10-02
+    > **Резюме:** Politics is how people influence decisions and work together in organizations. Avoiding politics means missing chances to share good ideas and shape outcomes. Learning to do good politics helps engineers protect their work and get things done.
 - [Same again. No rush.](mailto:reader-forwarded-email/0ac3bade96f1fa0fc69e976c018de601) 👤 Carlton Gibson 💬 907 🔖 #career 🗓️ 2025-09-28
     > **Резюме:** The author reflects on twenty years as a developer and how a mentor’s advice steered him away from academia.  
 He feels experienced, excited for another twenty years, and sees work as a long, rewarding journey.  

@@ -1,11 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 1074
+- Всего ссылок: 1077
 
 ## Ссылки
 
+- [Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/) 👤 Terrible Software 💬 763 🔖 #career 🗓️ 2025-10-02
 - [Stop Abstracting and Start Programming](https://dayvster.com/blog/stop-abstracting-and-start-programming/) 👤 Dayvi Schuster 💬 974 🔖 #principles 🗓️ 2025-10-01
 - [Why I Still Reach for C for Certain Projects](https://dayvster.com/blog/why-i-still-reach-for-c-for-certain-projects/) 👤 Dayvi Schuster 💬 2165 🔖 #clang 🗓️ 2025-10-01
+- [Dev Culture Is Dying The Curious Developer Is Gone](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/) 👤 Dayvi Schuster 💬 2598 🔖 #toot, #learning, #inspiration, #programming 🗓️ 2025-10-01
+    > **Заметка:** "Software development is a unique craft, it’s equal parts creative and equal parts engineering, two opposing forces that when combined can create something truly amazing. Fight the temptation to add marketing into the mix and dilute the craft with it."
 - [Why Zig Feels More Practical Than Rust for Real-World CLI Tools](https://dayvster.com/blog/why-zig-feels-more-practical-than-rust-for-real-world-cli-tools/) 👤 Dayvi Schuster 💬 2619 🔖 #zig 🗓️ 2025-10-01
 - [Hades II: Обзор самого вкусного рогалика года](https://stopgame.ru/show/152840/hades_ii_review_samogo_vkusnogo_rogalika_goda) 👤 Кирилл Волошин 💬 1524 🗓️ 2025-09-30
 - [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#atom-everything) 👤 Simon Willison 💬 1493 🔖 #llm 🗓️ 2025-09-30
@@ -21,6 +24,7 @@
 - [I Don't Know You, Don't Ask For References](https://daniel.feldroy.com/posts/i-dont-know-you-so-dont-ask-for-references) 👤 https://daniel.feldroy.com 💬 701 🗓️ 2025-09-28
 - [Using Notebook Navigator and Cupertino in Obsidian](https://cassidoo.co/post/notebook-nav-cupertino/) 👤 cassidoo.co 💬 243 🔖 #obsidian 🗓️ 2025-09-28
 - [AI coding agents rely too much on fallbacks](https://seangoedecke.com/agents-and-fallbacks/) 👤 seangoedecke.com 💬 459 🔖 #llm 🗓️ 2025-09-28
+- [You Still Need to Think](https://calv.info/you-still-need-to-think) 👤 calv.info 💬 539 🔖 #llm 🗓️ 2025-09-28
 - [Write the damn code](https://antonz.org/write-code/) 👤 Anton Zhiyanov 💬 251 🔖 #llm 🗓️ 2025-09-28
 - [GitHub Copilot CLI is now in public preview](https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything) 👤 Simon Willison 💬 236 🔖 #llm, #github 🗓️ 2025-09-28
 - [On Choosing Rust](https://endler.dev/2025/choosing-rust/) 👤 Matthias Endler 💬 1414 🔖 #rust 🗓️ 2025-09-28

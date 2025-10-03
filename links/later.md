@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 96
+- Всего ссылок: 95
 
 ## Ссылки
 
@@ -26,8 +26,6 @@ The team prototypes rapidly and the model writes roughly 90% of the code, enabli
     > **Резюме:** Use a good component library and keep its components unchanged.  
 Favor global consistency over local tweaks to save time and improve the product.  
 Simplify the UI: limit fonts and colors, match icon weight to text, and show only what users need.
-- [You Still Need to Think](https://calv.info/you-still-need-to-think) 👤 calv.info 💬 539 🗓️ 2025-09-28
-    > **Резюме:** Even with powerful coding agents, humans still must decide what they want the code to do. Different tools shift where you spend your thinking — supplying context, planning, implementing, or reviewing. LLMs are strongest at implementation and verification, so the best products let users choose how and when to think.
 - [We've Hit Personal Agency Hyperfinflation](https://www.joanwestenberg.com/p/personal-agency-inflation) 👤 JA Westenberg 💬 984 🗓️ 2025-09-28
     > **Резюме:** We pile up apps and gadgets and feel more capable, but we grow dependent.  
 Like hyperinflation, this bloats our sense of agency while eroding the skills that back it.  

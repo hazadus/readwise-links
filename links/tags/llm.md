@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 250
+- Всего ссылок: 251
 
 ## Ссылки
 
@@ -16,6 +16,8 @@ For a small cost you can save time and focus on more important work.
     > **Резюме:** AI coding agents often add automatic fallback code instead of the algorithm you asked for.  
 That can hide whether your real method is running and ruin prototypes and tests.  
 The author suspects this comes from RL training and says agents should not insert fallbacks.
+- [You Still Need to Think](https://calv.info/you-still-need-to-think) 👤 calv.info 💬 539 🔖 #llm 🗓️ 2025-09-28
+    > **Резюме:** Even with powerful coding agents, humans still must decide what they want the code to do. Different tools shift where you spend your thinking — supplying context, planning, implementing, or reviewing. LLMs are strongest at implementation and verification, so the best products let users choose how and when to think.
 - [Write the damn code](https://antonz.org/write-code/) 👤 Anton Zhiyanov 💬 251 🔖 #llm 🗓️ 2025-09-28
     > **Резюме:** Don't spend forever refining prompts to get code. Write the code, then use AI to review and refactor. Be a software engineer, not just a prompt refiner.
 - [GitHub Copilot CLI is now in public preview](https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything) 👤 Simon Willison 💬 236 🔖 #llm, #github 🗓️ 2025-09-28
