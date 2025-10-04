@@ -1,9 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 95
+- Всего ссылок: 97
 
 ## Ссылки
 
+- [Why Over-Engineering Happens](https://yusufaytas.com/why-over-engineering-happens/?utm_source=tldrwebdev) 👤 https://www.facebook.com/yusufaytas 💬 3283 🔖 #softwaredesign 🗓️ 2025-10-02
+    > **Резюме:** Over-engineering happens when teams build complex systems for imaginary futures instead of solving real user problems. This adds cost, slows delivery, and makes systems fragile. Keep architecture simple, add complexity only when evidence demands it.
+- [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/?utm_source=tldrwebdev) 👤 kunststube.net 💬 6587 🗓️ 2025-10-02
+    > **Резюме:** To work with text in computers, understanding encodings and character sets is essential. Unicode is a standard that unifies different encoding schemes, like UTF-8 and UTF-16, which represent characters using varying numbers of bits. It's important to specify the encoding used for text, as incorrect handling can lead to unreadable documents.
+- [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/?utm_source=tldrwebdev) 👤 refactoringenglish.com 💬 3027 🗓️ 2025-10-02
+    > **Резюме:** The author lists a few influential software essays that changed how they think about building software. These essays taught them to respect developers, prefer simple stable tools, and use language features (like types) to reduce bugs. Overall, the pieces made them value practical decisions over hype.
 - [Vim — это метаредактирование (иммерсивный текстовый редактор) // Запись доклада](https://www.youtube.com/watch?v=RPlOYfgGDjQ&feature=youtu.be) 👤 Куда войти? 🗓️ 2025-10-01
     > **Резюме:** Доклад рассказывает, что Vim — это иммерсивный текстовый редактор, построенный вокруг работы с текстом. Автор показывает повторение действий, регистры, поиск и плагины как ключевые фичи. Vim легко настраивается и расширяется, включая интеграции с инструментами и AI.
 - [Empire of AI by Karen Hao - Book Review](https://wsvincent.com/empire-of-ai/) 👤 William Vincent 💬 1754 🗓️ 2025-09-30
@@ -12,8 +18,6 @@
     > **Резюме:** Kurt Vonnegut was forty-seven when he wrote Slaughterhouse-Five.  
 Our culture worships youth, but many breakthroughs come later.  
 Middle age and failure can produce deep, original work.
-- [Libghostty Is Coming](https://mitchellh.com/writing/libghostty-is-coming?utm_source=substack&utm_medium=email) 👤 Mitchell Hashimoto 💬 1439 🔖 #joyandcuriosity 🗓️ 2025-09-28
-    > **Резюме:** Libghostty is an embeddable, zero-dependency terminal-emulation library from Ghostty. libghostty-vt parses terminal sequences and maintains terminal state with high speed and correctness. It is alpha (Zig API available, C API coming), targets macOS and Linux, and seeks user feedback.
 - [Thoughts on Testing January 4, 2024](https://www.brandons.me/blog/thoughts-on-testing?utm_source=substack&utm_medium=email) 👤 Brandon Smith 💬 1461 🔖 #testing, #joyandcuriosity 🗓️ 2025-09-28
     > **Резюме:** Tests help but they cost time because they are code to write, maintain, and run.  
 Only write tests that add lasting value: prefer static analysis, check intent not implementation, and avoid fragile mocked checks.  

@@ -1,12 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 836
+- Всего ссылок: 835
 
 ## Ссылки
 
-- [Why Over-Engineering Happens](https://yusufaytas.com/why-over-engineering-happens/?utm_source=tldrwebdev) 👤 https://www.facebook.com/yusufaytas 💬 3283 🗓️ 2025-10-02
-- [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/?utm_source=tldrwebdev) 👤 kunststube.net 💬 6587 🗓️ 2025-10-02
-- [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/?utm_source=tldrwebdev) 👤 refactoringenglish.com 💬 3027 🗓️ 2025-10-02
+- [From Idea to Launch in 2 Weeks](https://yusufaytas.com/from-idea-to-launch-in-2-weeks/) 👤 https://www.facebook.com/yusufaytas 💬 2275 🗓️ 2025-10-03
+- [Cracking Coding Bottlenecks](https://yusufaytas.com/cracking-coding-bottlenecks/) 👤 Yusuf Aytaş 💬 466 🗓️ 2025-10-03
 - [Enjoy The Flight! • The Applied Go Weekly Newsletter 2025-09-28](https://newsletter.appliedgo.net/archive/2025-09-28-enjoy-the-flight/) 👤 The Applied Go Weekly Newsletter 💬 1180 🔖 #go 🗓️ 2025-10-02
 - [Gist of Go: Atomics](https://antonz.org/go-concurrency/atomics/) 👤 Anton Zhiyanov 💬 1681 🔖 #go 🗓️ 2025-09-30
 - [How to Implement Dependency Injection in Go - Explained with Code Examples](https://www.freecodecamp.org/news/how-to-use-dependency-injection-in-go/) 👤 Gabor Koos 💬 5087 🔖 #go 🗓️ 2025-09-27
