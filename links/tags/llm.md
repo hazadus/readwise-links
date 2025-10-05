@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 251
+- Всего ссылок: 252
 
 ## Ссылки
 
+- [From Idea to Launch in 2 Weeks](https://yusufaytas.com/from-idea-to-launch-in-2-weeks/) 👤 https://www.facebook.com/yusufaytas 💬 2275 🔖 #llm 🗓️ 2025-10-03
+    > **Резюме:** The author used LLMs as the main development tool to build three projects fast, finding they speed up setup and boilerplate.  
+LLMs make coding quicker but are fragile: they hallucinate, miss context, and need tight human supervision.  
+The real skill now is writing clear, testable specifications — prompts become the product.
 - [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#atom-everything) 👤 Simon Willison 💬 1493 🔖 #llm 🗓️ 2025-09-30
     > **Резюме:** Coding agents like Claude Code can write and test code by running commands in loops to solve problems. Running these agents without checks (YOLO mode) is risky but can be more productive if done safely, like in containers or cloud environments. Designing agentic loops works best for tasks with clear goals and tests, such as debugging or optimizing code, and is a new skill to master.
 - [90%](https://lucumr.pocoo.org/2025/9/29/90-percent/) 👤 Armin Ronacher 💬 1611 🔖 #llm 🗓️ 2025-09-30

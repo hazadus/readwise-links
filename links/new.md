@@ -1,11 +1,20 @@
 # Новые ссылки
 
-- Всего ссылок: 835
+- Всего ссылок: 844
 
 ## Ссылки
 
-- [From Idea to Launch in 2 Weeks](https://yusufaytas.com/from-idea-to-launch-in-2-weeks/) 👤 https://www.facebook.com/yusufaytas 💬 2275 🗓️ 2025-10-03
-- [Cracking Coding Bottlenecks](https://yusufaytas.com/cracking-coding-bottlenecks/) 👤 Yusuf Aytaş 💬 466 🗓️ 2025-10-03
+- [Engineering Strategy and Planning](https://yusufaytas.com/engineering-strategy-and-planning/) 👤 https://www.facebook.com/yusufaytas 💬 2257 🗓️ 2025-10-04
+- [Building a Technical Vision](https://yusufaytas.com/building-a-technical-vision/) 👤 https://www.facebook.com/yusufaytas 💬 877 🗓️ 2025-10-04
+- [No Fluff Please](https://yusufaytas.com/no-fluff-please/) 👤 https://www.facebook.com/yusufaytas 💬 734 🗓️ 2025-10-04
+- [You Know State Is NO Good](https://yusufaytas.com/state-is-no-good/) 👤 https://www.facebook.com/yusufaytas 💬 829 🗓️ 2025-10-04
+- [Why I like JavaScript](https://yusufaytas.com/why-i-like-javascript/) 👤 https://www.facebook.com/yusufaytas 💬 563 🗓️ 2025-10-04
+- [Unnamed Document](https://yusufaytas.com/teams-choose-language/) 👤 yusufaytas.com 🗓️ 2025-10-04
+- [Duplicate code isn’t that bad](https://yusufaytas.com/duplicate-code-isnt-bad/) 👤 https://www.facebook.com/yusufaytas 💬 544 🗓️ 2025-10-04
+- [Legacy Software: A Goldmine](https://yusufaytas.com/legacy-software-a-goldmine/) 👤 Yusuf Aytaş 💬 558 🗓️ 2025-10-04
+- [Smaller is Faster](https://yusufaytas.com/smaller-is-faster/) 👤 https://www.facebook.com/yusufaytas 💬 425 🗓️ 2025-10-04
+- [Operational Skills Needed](https://yusufaytas.com/operational-skills-needed/) 👤 https://www.facebook.com/yusufaytas 💬 466 🗓️ 2025-10-04
+- [Essential Engineering Principles](https://yusufaytas.com/essential-engineering-principles/) 👤 https://www.facebook.com/yusufaytas 💬 550 🗓️ 2025-10-04
 - [Enjoy The Flight! • The Applied Go Weekly Newsletter 2025-09-28](https://newsletter.appliedgo.net/archive/2025-09-28-enjoy-the-flight/) 👤 The Applied Go Weekly Newsletter 💬 1180 🔖 #go 🗓️ 2025-10-02
 - [Gist of Go: Atomics](https://antonz.org/go-concurrency/atomics/) 👤 Anton Zhiyanov 💬 1681 🔖 #go 🗓️ 2025-09-30
 - [How to Implement Dependency Injection in Go - Explained with Code Examples](https://www.freecodecamp.org/news/how-to-use-dependency-injection-in-go/) 👤 Gabor Koos 💬 5087 🔖 #go 🗓️ 2025-09-27

@@ -1,9 +1,15 @@
 # Архивные ссылки
 
-- Всего ссылок: 1078
+- Всего ссылок: 1084
 
 ## Ссылки
 
+- [Check First, Then Use](https://yusufaytas.com/check-first-then-use/) 👤 https://www.facebook.com/yusufaytas 💬 638 🗓️ 2025-10-04
+- [Teaching Software Engineering](https://yusufaytas.com/teaching-software-engineering/) 👤 https://www.facebook.com/yusufaytas 💬 536 🗓️ 2025-10-04
+- [Hype in Software Development](https://yusufaytas.com/hype-in-software-development/) 👤 https://www.facebook.com/yusufaytas 💬 757 🗓️ 2025-10-04
+- [From Idea to Launch in 2 Weeks](https://yusufaytas.com/from-idea-to-launch-in-2-weeks/) 👤 https://www.facebook.com/yusufaytas 💬 2275 🔖 #llm 🗓️ 2025-10-03
+- [Cracking Coding Bottlenecks](https://yusufaytas.com/cracking-coding-bottlenecks/) 👤 Yusuf Aytaş 💬 466 🗓️ 2025-10-03
+- [Why Over-Engineering Happens](https://yusufaytas.com/why-over-engineering-happens/?utm_source=tldrwebdev) 👤 https://www.facebook.com/yusufaytas 💬 3283 🔖 #principles, #microservices, #softwaredesign 🗓️ 2025-10-02
 - [Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/) 👤 Terrible Software 💬 763 🔖 #career 🗓️ 2025-10-02
 - [Stop Abstracting and Start Programming](https://dayvster.com/blog/stop-abstracting-and-start-programming/) 👤 Dayvi Schuster 💬 974 🔖 #principles 🗓️ 2025-10-01
 - [Why I Still Reach for C for Certain Projects](https://dayvster.com/blog/why-i-still-reach-for-c-for-certain-projects/) 👤 Dayvi Schuster 💬 2165 🔖 #clang 🗓️ 2025-10-01
