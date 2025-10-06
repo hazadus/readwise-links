@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [Operational Skills Needed](https://yusufaytas.com/operational-skills-needed/) 👤 https://www.facebook.com/yusufaytas 💬 466 🔖 #devops, #interview 🗓️ 2025-10-04
+    > **Резюме:** Many engineers excel at coding and design but lack practical operational reflexes for real incidents. Interviews should include realistic scenario-based questions about outages, monitoring, and post-mortems. Testing these skills finds candidates who can keep systems reliable in production.
 - [Continuous Integration and Deployment for Python With GitHub Actions](https://realpython.com/github-actions-python/) 👤 Ricky White 💬 7039 🔖 #devops, #github 🗓️ 2024-11-28
     > **Резюме:** GitHub Actions helps Python developers automate workflows for tasks like testing and deployment. It allows users to create custom workflows and easily include existing actions from the GitHub Marketplace. This automation improves project maintainability and adapts to changes efficiently.
 - [Shipping Go: Develop, deliver, discuss, design, and go again](https://readwise.io/reader/document_raw_content/235355838) 👤 Joel Holmes 💬 70124 🔖 #go, #devops 🗓️ 2024-11-06

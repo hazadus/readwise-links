@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 29
+- Всего ссылок: 31
 
 ## Ссылки
 
+- [Onward](https://domenic.me/retirement/?utm_source=substack&utm_medium=email) 👤 Domenic Denicola 💬 838 🔖 #joyandcuriosity 🗓️ 2025-10-05
+    > **Резюме:** After 11 years on Chrome, he has retired from Google.  
+He’s grateful to colleagues and nervous about unfinished work, but ready to move on.  
+He will live in Tokyo, study Japanese and deep topics, raise a puppy, build small apps, and enjoy more free time.
+- [Thank you for being annoying](https://www.experimental-history.com/p/thank-you-for-being-annoying?utm_source=substack&utm_medium=email) 👤 Adam Mastroianni 💬 2831 🔖 #joyandcuriosity 🗓️ 2025-10-05
+    > **Резюме:** OR: whack 'em if you got 'em
 - [Libghostty Is Coming](https://mitchellh.com/writing/libghostty-is-coming?utm_source=substack&utm_medium=email) 👤 Mitchell Hashimoto 💬 1439 🔖 #joyandcuriosity 🗓️ 2025-09-28
     > **Резюме:** Libghostty is an embeddable, zero-dependency terminal-emulation library from Ghostty. libghostty-vt parses terminal sequences and maintains terminal state with high speed and correctness. It is alpha (Zig API available, C API coming), targets macOS and Linux, and seeks user feedback.
 - [Things I Believe](https://leerob.com/beliefs?utm_source=substack&utm_medium=email) 👤 Lee Robinson 💬 326 🔖 #inspiration, #joyandcuriosity 🗓️ 2025-09-28

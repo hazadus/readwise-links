@@ -1,9 +1,16 @@
 # Новые ссылки
 
-- Всего ссылок: 844
+- Всего ссылок: 847
 
 ## Ссылки
 
+- [Onward](https://domenic.me/retirement/?utm_source=substack&utm_medium=email) 👤 Domenic Denicola 💬 838 🔖 #joyandcuriosity 🗓️ 2025-10-05
+- [Thank you for being annoying](https://www.experimental-history.com/p/thank-you-for-being-annoying?utm_source=substack&utm_medium=email) 👤 Adam Mastroianni 💬 2831 🔖 #joyandcuriosity 🗓️ 2025-10-05
+- [5 Core Distributed Concepts Every Developer Should Know](https://www.swequiz.com/blog/5-core-distributed-concepts-every-developer-should-know) 👤 swequiz.com 💬 2261 🗓️ 2025-10-05
+- [I’m Done Future-proofing my Life.](https://www.joanwestenberg.com/p/i-m-done-future-proofing-my-life) 👤 JA Westenberg 💬 809 🗓️ 2025-10-05
+- [Stop Wasting Brainpower](https://yusufaytas.com/stop-wasting-brainpower/) 👤 https://www.facebook.com/yusufaytas 💬 1810 🗓️ 2025-10-05
+- [Vite Bundle Inspection made EASY](https://www.youtube.com/watch?v=9c4HLqk1ExA) 👤 Alexander Lichter 🔖 #vite 🗓️ 2025-10-05
+- [How to Write Better Pinia Stores with the Elm Pattern](https://alexop.dev/posts/tea-architecture-pinia-private-store-pattern/) 👤 Alexander Opalic 💬 1404 🔖 #pinia 🗓️ 2025-10-05
 - [Engineering Strategy and Planning](https://yusufaytas.com/engineering-strategy-and-planning/) 👤 https://www.facebook.com/yusufaytas 💬 2257 🗓️ 2025-10-04
 - [Building a Technical Vision](https://yusufaytas.com/building-a-technical-vision/) 👤 https://www.facebook.com/yusufaytas 💬 877 🗓️ 2025-10-04
 - [No Fluff Please](https://yusufaytas.com/no-fluff-please/) 👤 https://www.facebook.com/yusufaytas 💬 734 🗓️ 2025-10-04
@@ -11,10 +18,6 @@
 - [Why I like JavaScript](https://yusufaytas.com/why-i-like-javascript/) 👤 https://www.facebook.com/yusufaytas 💬 563 🗓️ 2025-10-04
 - [Unnamed Document](https://yusufaytas.com/teams-choose-language/) 👤 yusufaytas.com 🗓️ 2025-10-04
 - [Duplicate code isn’t that bad](https://yusufaytas.com/duplicate-code-isnt-bad/) 👤 https://www.facebook.com/yusufaytas 💬 544 🗓️ 2025-10-04
-- [Legacy Software: A Goldmine](https://yusufaytas.com/legacy-software-a-goldmine/) 👤 Yusuf Aytaş 💬 558 🗓️ 2025-10-04
-- [Smaller is Faster](https://yusufaytas.com/smaller-is-faster/) 👤 https://www.facebook.com/yusufaytas 💬 425 🗓️ 2025-10-04
-- [Operational Skills Needed](https://yusufaytas.com/operational-skills-needed/) 👤 https://www.facebook.com/yusufaytas 💬 466 🗓️ 2025-10-04
-- [Essential Engineering Principles](https://yusufaytas.com/essential-engineering-principles/) 👤 https://www.facebook.com/yusufaytas 💬 550 🗓️ 2025-10-04
 - [Enjoy The Flight! • The Applied Go Weekly Newsletter 2025-09-28](https://newsletter.appliedgo.net/archive/2025-09-28-enjoy-the-flight/) 👤 The Applied Go Weekly Newsletter 💬 1180 🔖 #go 🗓️ 2025-10-02
 - [Gist of Go: Atomics](https://antonz.org/go-concurrency/atomics/) 👤 Anton Zhiyanov 💬 1681 🔖 #go 🗓️ 2025-09-30
 - [How to Implement Dependency Injection in Go - Explained with Code Examples](https://www.freecodecamp.org/news/how-to-use-dependency-injection-in-go/) 👤 Gabor Koos 💬 5087 🔖 #go 🗓️ 2025-09-27

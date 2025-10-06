@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [Essential Engineering Principles](https://yusufaytas.com/essential-engineering-principles/) 👤 https://www.facebook.com/yusufaytas 💬 550 🔖 #principles 🗓️ 2025-10-04
+    > **Резюме:** Engineering principles shape a software company's identity and guide teams to deliver reliable business value. Key practices include shipping frequently, reviewing code, running what you build, using CI/CD, conducting incident debriefs, designing in public, hiring top talent, and writing a clear definition of done. These practices improve quality, learning, accountability, and speed.
 - [Why Over-Engineering Happens](https://yusufaytas.com/why-over-engineering-happens/?utm_source=tldrwebdev) 👤 https://www.facebook.com/yusufaytas 💬 3283 🔖 #principles, #microservices, #softwaredesign 🗓️ 2025-10-02
     > **Резюме:** Over-engineering happens when teams build complex systems for imaginary futures instead of solving real user problems. This adds cost, slows delivery, and makes systems fragile. Keep architecture simple, add complexity only when evidence demands it.
 - [Stop Abstracting and Start Programming](https://dayvster.com/blog/stop-abstracting-and-start-programming/) 👤 Dayvi Schuster 💬 974 🔖 #principles 🗓️ 2025-10-01

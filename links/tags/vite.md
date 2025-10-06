@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [Vite Bundle Inspection made EASY](https://www.youtube.com/watch?v=9c4HLqk1ExA) 👤 Alexander Lichter 🔖 #vite 🗓️ 2025-10-05
+    > **Резюме:** The video shows how to inspect Vite bundles to see what files and dependencies are included. It demos checking built files, entries, and plugins to find unnecessary packages. The goal is to clean up and optimize the bundle for better performance.
 - [Create a React + Flask Project in 2025](https://blog.miguelgrinberg.com/post/create-a-react-flask-project-in-2025) 👤 Miguel Grinberg 💬 2191 🔖 #vite, #flask, #react 🗓️ 2025-06-01
     > **Резюме:** Miguel Grinberg's article explains how to create a React and Flask project using Vite instead of create-react-app. It provides step-by-step instructions for setting up the React front end and Flask back end, including commands for installing dependencies. The guide aims to help developers build a modern application template that can be used for years to come.
 - [🔍🏃 С Vitest ваше тестирование в Vite станет легким и эффективным](https://proglib.io/p/s-vitest-vashe-testirovanie-stanet-legkim-i-effektivnym-v-vite-2024-09-23) 👤 Библиотека программиста 💬 2391 🔖 #vite, #vitest, #testing 🗓️ 2025-05-30

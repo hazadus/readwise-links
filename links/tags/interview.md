@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 16
+- Всего ссылок: 17
 
 ## Ссылки
 
+- [Operational Skills Needed](https://yusufaytas.com/operational-skills-needed/) 👤 https://www.facebook.com/yusufaytas 💬 466 🔖 #devops, #interview 🗓️ 2025-10-04
+    > **Резюме:** Many engineers excel at coding and design but lack practical operational reflexes for real incidents. Interviews should include realistic scenario-based questions about outages, monitoring, and post-mortems. Testing these skills finds candidates who can keep systems reliable in production.
 - [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email) 👤 Cynthia Dunlop 💬 1523 🔖 #toot, #interview, #programming, #joyandcuriosity 🗓️ 2025-08-10
     > **Заметка:** Интервью с Торстеном о его блоге - заслуживает внимания, как и сам блог.
     > **Резюме:** Thorsten Ball started blogging to share his programming journey and skills. He finds writing helps him think clearly and connect with others. His advice: write honestly, keep it simple, and don’t wait for perfection.

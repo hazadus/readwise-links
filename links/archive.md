@@ -1,9 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 1084
+- Всего ссылок: 1089
 
 ## Ссылки
 
+- [How to influence tech company politics as a staff software engineer](https://seangoedecke.com/how-to-influence-politics/) 👤 seangoedecke.com 💬 1215 🔖 #career 🗓️ 2025-10-05
+- [Legacy Software: A Goldmine](https://yusufaytas.com/legacy-software-a-goldmine/) 👤 Yusuf Aytaş 💬 558 🗓️ 2025-10-04
+- [Smaller is Faster](https://yusufaytas.com/smaller-is-faster/) 👤 https://www.facebook.com/yusufaytas 💬 425 🗓️ 2025-10-04
+- [Operational Skills Needed](https://yusufaytas.com/operational-skills-needed/) 👤 https://www.facebook.com/yusufaytas 💬 466 🔖 #devops, #interview 🗓️ 2025-10-04
+- [Essential Engineering Principles](https://yusufaytas.com/essential-engineering-principles/) 👤 https://www.facebook.com/yusufaytas 💬 550 🔖 #principles 🗓️ 2025-10-04
 - [Check First, Then Use](https://yusufaytas.com/check-first-then-use/) 👤 https://www.facebook.com/yusufaytas 💬 638 🗓️ 2025-10-04
 - [Teaching Software Engineering](https://yusufaytas.com/teaching-software-engineering/) 👤 https://www.facebook.com/yusufaytas 💬 536 🗓️ 2025-10-04
 - [Hype in Software Development](https://yusufaytas.com/hype-in-software-development/) 👤 https://www.facebook.com/yusufaytas 💬 757 🗓️ 2025-10-04
