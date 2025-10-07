@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 27
+- Всего ссылок: 29
 
 ## Ссылки
 
+- [A spreadsheet in 60 lines of Javascript](https://lhorie.github.io/mithril-blog/a-spreadsheet-in-60-lines-of-javascript.html) 👤 lhorie.github.io 💬 2027 🔖 #diy, #javascript 🗓️ 2025-10-06
+    > **Резюме:** A tiny spreadsheet is implemented in ~30 lines of vanilla JavaScript and ported to Mithril. It stores cell strings or formulas as "computable" objects that evaluate via valueOf, enabling reactive calculations and saving to localStorage. The UI shows raw formulas and computed values, keeping model-view updates simple and concise.
+- [Крошечный Excel на чистом JavaScript (30 строк кода)](https://habr.com/ru/articles/202304/) 👤 zag2art 💬 794 🔖 #diy, #javascript 🗓️ 2025-10-06
+    > **Резюме:** Муж-программист Серега пишет программу, чтобы распечатать приглашения вместо ручного ввода. Процесс затянулся из‑за распознавания, багов и проблем с кодировками, но в конце программа заработала. В итоге появились правильные приглашения, пока не кончились чернила.
 - [Let's Write React Hooks From Scratch](https://playfulprogramming.com/posts/react-write-hooks-from-scratch?utm_source=tldrwebdev) 👤 Corbin Crutchley 💬 566 🔖 #diy, #javascript 🗓️ 2025-08-06
     > **Резюме:** React Hooks store state using a linked list inside the virtual DOM nodes. This design explains why hooks must be called in the same order every time. Understanding this helps developers see how React manages component state efficiently.
 - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/) 👤 Jake Lazaroff 💬 4002 🔖 #diy 🗓️ 2025-08-04

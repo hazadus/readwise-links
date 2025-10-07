@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 60
+- Всего ссылок: 61
 
 ## Ссылки
 
 - [How to influence tech company politics as a staff software engineer](https://seangoedecke.com/how-to-influence-politics/) 👤 seangoedecke.com 💬 1215 🔖 #career 🗓️ 2025-10-05
     > **Резюме:** Software engineers often feel powerless in company politics because decisions are made by executives with private information and political power. To influence outcomes, engineers should align their projects with current company priorities and support high-profile initiatives. Preparing multiple technical plans for different organizational needs helps engineers gain political capital and achieve their goals.
+- [No Fluff Please](https://yusufaytas.com/no-fluff-please/) 👤 https://www.facebook.com/yusufaytas 💬 734 🔖 #cv, #career 🗓️ 2025-10-04
+    > **Резюме:** To create an effective resume, focus on concrete achievements rather than using flashy buzzwords. Use action verbs and specific metrics to clearly demonstrate your impact, while keeping the content concise and relevant. Avoid fluff and subjective language to ensure hiring managers quickly see your value.
 - [Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/) 👤 Terrible Software 💬 763 🔖 #career 🗓️ 2025-10-02
     > **Резюме:** Politics is how people influence decisions and work together in organizations. Avoiding politics means missing chances to share good ideas and shape outcomes. Learning to do good politics helps engineers protect their work and get things done.
 - [Same again. No rush.](mailto:reader-forwarded-email/0ac3bade96f1fa0fc69e976c018de601) 👤 Carlton Gibson 💬 907 🔖 #career 🗓️ 2025-09-28

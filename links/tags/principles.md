@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [Duplicate code isn’t that bad](https://yusufaytas.com/duplicate-code-isnt-bad/) 👤 https://www.facebook.com/yusufaytas 💬 544 🔖 #principles 🗓️ 2025-10-04
+    > **Резюме:** Duplicate code is not always bad if it improves readability and keeps tests simple. Prematurely removing duplicates can make code complex, so wait until the codebase matures and tests guide refactoring. The goal is maintainable, understandable code, not strict adherence to principles.
 - [Essential Engineering Principles](https://yusufaytas.com/essential-engineering-principles/) 👤 https://www.facebook.com/yusufaytas 💬 550 🔖 #principles 🗓️ 2025-10-04
     > **Резюме:** Engineering principles shape a software company's identity and guide teams to deliver reliable business value. Key practices include shipping frequently, reviewing code, running what you build, using CI/CD, conducting incident debriefs, designing in public, hiring top talent, and writing a clear definition of done. These practices improve quality, learning, accountability, and speed.
 - [Why Over-Engineering Happens](https://yusufaytas.com/why-over-engineering-happens/?utm_source=tldrwebdev) 👤 https://www.facebook.com/yusufaytas 💬 3283 🔖 #principles, #microservices, #softwaredesign 🗓️ 2025-10-02

@@ -1,10 +1,18 @@
 # Архивные ссылки
 
-- Всего ссылок: 1089
+- Всего ссылок: 1097
 
 ## Ссылки
 
+- [Managers Have Been Vibe Coding All Along](https://yusufaytas.com/managers-have-been-vibe-coding-all-along/) 👤 https://www.facebook.com/yusufaytas 💬 580 🗓️ 2025-10-06
+- [Onward](https://domenic.me/retirement/?utm_source=substack&utm_medium=email) 👤 Domenic Denicola 💬 838 🔖 #joyandcuriosity 🗓️ 2025-10-05
+- [I’m Done Future-proofing my Life.](https://www.joanwestenberg.com/p/i-m-done-future-proofing-my-life) 👤 JA Westenberg 💬 809 🗓️ 2025-10-05
 - [How to influence tech company politics as a staff software engineer](https://seangoedecke.com/how-to-influence-politics/) 👤 seangoedecke.com 💬 1215 🔖 #career 🗓️ 2025-10-05
+- [Stop Wasting Brainpower](https://yusufaytas.com/stop-wasting-brainpower/) 👤 https://www.facebook.com/yusufaytas 💬 1810 🗓️ 2025-10-05
+- [Engineering Strategy and Planning](https://yusufaytas.com/engineering-strategy-and-planning/) 👤 https://www.facebook.com/yusufaytas 💬 2257 🗓️ 2025-10-04
+- [Building a Technical Vision](https://yusufaytas.com/building-a-technical-vision/) 👤 https://www.facebook.com/yusufaytas 💬 877 🗓️ 2025-10-04
+- [No Fluff Please](https://yusufaytas.com/no-fluff-please/) 👤 https://www.facebook.com/yusufaytas 💬 734 🔖 #cv, #career 🗓️ 2025-10-04
+- [Duplicate code isn’t that bad](https://yusufaytas.com/duplicate-code-isnt-bad/) 👤 https://www.facebook.com/yusufaytas 💬 544 🔖 #principles 🗓️ 2025-10-04
 - [Legacy Software: A Goldmine](https://yusufaytas.com/legacy-software-a-goldmine/) 👤 Yusuf Aytaş 💬 558 🗓️ 2025-10-04
 - [Smaller is Faster](https://yusufaytas.com/smaller-is-faster/) 👤 https://www.facebook.com/yusufaytas 💬 425 🗓️ 2025-10-04
 - [Operational Skills Needed](https://yusufaytas.com/operational-skills-needed/) 👤 https://www.facebook.com/yusufaytas 💬 466 🔖 #devops, #interview 🗓️ 2025-10-04

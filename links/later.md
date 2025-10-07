@@ -1,12 +1,20 @@
 # Отложенные ссылки
 
-- Всего ссылок: 96
+- Всего ссылок: 99
 
 ## Ссылки
 
+- [Thank you for being annoying](https://www.experimental-history.com/p/thank-you-for-being-annoying?utm_source=substack&utm_medium=email) 👤 Adam Mastroianni 💬 2831 🔖 #joyandcuriosity 🗓️ 2025-10-05
+    > **Резюме:** OR: whack 'em if you got 'em
+- [5 Core Distributed Concepts Every Developer Should Know](https://www.swequiz.com/blog/5-core-distributed-concepts-every-developer-should-know) 👤 swequiz.com 💬 2261 🗓️ 2025-10-05
+    > **Резюме:** Distributed systems are crucial for modern applications, and developers should understand five core concepts to build and troubleshoot them effectively. Key principles include the CAP Theorem, fault tolerance, and strategies for reducing latency. By grasping these concepts, developers can create resilient and scalable applications.
+- [How to Write Better Pinia Stores with the Elm Pattern](https://alexop.dev/posts/tea-architecture-pinia-private-store-pattern/) 👤 Alexander Opalic 💬 1404 🔖 #pinia 🗓️ 2025-10-05
+    > **Резюме:** Pinia is flexible but allows direct, unpredictable state mutations that hurt testability.  
+Combine The Elm Architecture with a private store or Vue's readonly to keep update logic pure and expose only selectors and a dispatch.  
+Prefer readonly for simplicity; the pattern gives testable, framework-agnostic business logic with Pinia devtools support.
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/?utm_source=tldrwebdev) 👤 kunststube.net 💬 6587 🗓️ 2025-10-02
     > **Резюме:** To work with text in computers, understanding encodings and character sets is essential. Unicode is a standard that unifies different encoding schemes, like UTF-8 and UTF-16, which represent characters using varying numbers of bits. It's important to specify the encoding used for text, as incorrect handling can lead to unreadable documents.
-- [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/?utm_source=tldrwebdev) 👤 refactoringenglish.com 💬 3027 🗓️ 2025-10-02
+- [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/?utm_source=tldrwebdev) 👤 refactoringenglish.com 💬 3027 🔖 #joyandcuriosity 🗓️ 2025-10-02
     > **Резюме:** The author lists a few influential software essays that changed how they think about building software. These essays taught them to respect developers, prefer simple stable tools, and use language features (like types) to reduce bugs. Overall, the pieces made them value practical decisions over hype.
 - [Vim — это метаредактирование (иммерсивный текстовый редактор) // Запись доклада](https://www.youtube.com/watch?v=RPlOYfgGDjQ&feature=youtu.be) 👤 Куда войти? 🗓️ 2025-10-01
     > **Резюме:** Доклад рассказывает, что Vim — это иммерсивный текстовый редактор, построенный вокруг работы с текстом. Автор показывает повторение действий, регистры, поиск и плагины как ключевые фичи. Vim легко настраивается и расширяется, включая интеграции с инструментами и AI.
