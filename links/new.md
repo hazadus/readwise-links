@@ -1,9 +1,12 @@
 # Новые ссылки
 
-- Всего ссылок: 840
+- Всего ссылок: 843
 
 ## Ссылки
 
+- [A pragmatic guide to modern CSS colours - part one](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-one/?ref=main-rss-feed) 👤 Piccalilli 💬 3032 🔖 #css 🗓️ 2025-10-07
+- [Creating a personal wrapper around yt-dlp](https://alexwlchan.net/2025/yt-dlp-wrapper/?ref=rss) 👤 alexwlchan.net 💬 430 🗓️ 2025-10-07
+- [GPT-5-Codex is a better AI researcher than me](https://seangoedecke.com/ai-research-with-codex/) 👤 seangoedecke.com 💬 2221 🗓️ 2025-10-07
 - [Build your Own Virtual Scroll - Part I](https://dev.to/adamklein/build-your-own-virtual-scroll-part-i-11ib) 👤 dev.to 💬 1065 🗓️ 2025-10-06
 - [JS DOM Manipulation Best Practices – with Examples](https://www.freecodecamp.org/news/dom-manipulation-best-practices/) 👤 Benjamin Semah 💬 1673 🗓️ 2025-10-06
 - [JavaScript Best Practices](https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/) 👤 The JetBrains Blog 💬 4273 🗓️ 2025-10-06

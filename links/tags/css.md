@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [A pragmatic guide to modern CSS colours - part one](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-one/?ref=main-rss-feed) 👤 Piccalilli 💬 3032 🔖 #css 🗓️ 2025-10-07
+    > **Резюме:** CSS colour syntax has evolved to new, simpler forms like space-separated rgb() and hsl() and a slash for alpha. Relative colours let you base new colours on existing ones and easily change alpha. New colour functions and spaces (e.g., color(), oklch(), color-mix()) give more control and better results.
 - [Automatically Generate AI Chat Titles with Animation in Nuxt](https://masteringnuxt.com/blog/automatically-generate-ai-chat-titles-with-animation-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(236)+Hidden+Nuxt+Gems,+and+a+simpler+way+to+pass+lots+of+props+-+19098320&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 1150 🔖 #css, #nuxt 🗓️ 2025-09-25
     > **Резюме:** Use AI to auto-generate short, three-word chat titles from the user's first message. Create chats on the server and request the title in the background when the first message is sent. Show the new title with a typewriter animation for a polished, lively UI.
 - [The Big Gotcha With @starting-style](https://www.joshwcomeau.com/css/starting-style/) 👤 Josh W. Comeau 💬 2329 🔖 #css 🗓️ 2025-09-23
