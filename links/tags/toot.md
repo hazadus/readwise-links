@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 30
+- Всего ссылок: 31
 
 ## Ссылки
 
+- [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything) 👤 Simon Willison 💬 1224 🔖 #llm, #toot, #programming 🗓️ 2025-10-08
+    > **Заметка:** Саймон предлагает новый термин для обозначения ответственной разработки с LLM. В посте приведены очень правильные практики.
+    > **Резюме:** Simon Willison argues for "vibe engineering" — a disciplined way senior engineers use LLMs and coding agents while staying fully accountable for production software. It requires strong testing, planning, documentation, version control, QA, and review practices. AI tools amplify existing engineering skills rather than replace them.
 - [Dev Culture Is Dying The Curious Developer Is Gone](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/) 👤 Dayvi Schuster 💬 2598 🔖 #toot, #learning, #inspiration, #programming 🗓️ 2025-10-01
     > **Заметка:** "Software development is a unique craft, it’s equal parts creative and equal parts engineering, two opposing forces that when combined can create something truly amazing. Fight the temptation to add marketing into the mix and dilute the craft with it."
     > **Резюме:** Developer culture has shifted from curiosity and tinkering to chasing metrics and growth. This change stifles creativity and produces bland, revenue-driven software. The author urges developers to reclaim time for curious, personal projects that spark real innovation.

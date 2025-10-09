@@ -1,18 +1,15 @@
 # Новые ссылки
 
-- Всего ссылок: 843
+- Всего ссылок: 840
 
 ## Ссылки
 
-- [A pragmatic guide to modern CSS colours - part one](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-one/?ref=main-rss-feed) 👤 Piccalilli 💬 3032 🔖 #css 🗓️ 2025-10-07
-- [Creating a personal wrapper around yt-dlp](https://alexwlchan.net/2025/yt-dlp-wrapper/?ref=rss) 👤 alexwlchan.net 💬 430 🗓️ 2025-10-07
-- [GPT-5-Codex is a better AI researcher than me](https://seangoedecke.com/ai-research-with-codex/) 👤 seangoedecke.com 💬 2221 🗓️ 2025-10-07
+- [Five Years as a Startup CTO: How, Why, and Was It Worth It?](https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/?utm_source=tldrwebdev) 👤 gansbrest 💬 2692 🗓️ 2025-10-08
 - [Build your Own Virtual Scroll - Part I](https://dev.to/adamklein/build-your-own-virtual-scroll-part-i-11ib) 👤 dev.to 💬 1065 🗓️ 2025-10-06
 - [JS DOM Manipulation Best Practices – with Examples](https://www.freecodecamp.org/news/dom-manipulation-best-practices/) 👤 Benjamin Semah 💬 1673 🗓️ 2025-10-06
 - [JavaScript Best Practices](https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/) 👤 The JetBrains Blog 💬 4273 🗓️ 2025-10-06
 - [5 JavaScript Grid Features You’ll Absolutely Need in 2026](https://blog.webix.com/javascript-grid-features-2026/) 👤 Webix JS UI Library & HTML5 UI Framework 💬 1029 🗓️ 2025-10-06
 - [A spreadsheet in 60 lines of Javascript](https://lhorie.github.io/mithril-blog/a-spreadsheet-in-60-lines-of-javascript.html) 👤 lhorie.github.io 💬 2027 🔖 #diy, #javascript 🗓️ 2025-10-06
-- [Крошечный Excel на чистом JavaScript (30 строк кода)](https://habr.com/ru/articles/202304/) 👤 zag2art 💬 794 🔖 #diy, #javascript 🗓️ 2025-10-06
 - [Vite Bundle Inspection made EASY](https://www.youtube.com/watch?v=9c4HLqk1ExA) 👤 Alexander Lichter 🔖 #vite 🗓️ 2025-10-05
 - [Enjoy The Flight! • The Applied Go Weekly Newsletter 2025-09-28](https://newsletter.appliedgo.net/archive/2025-09-28-enjoy-the-flight/) 👤 The Applied Go Weekly Newsletter 💬 1180 🔖 #go 🗓️ 2025-10-02
 - [Gist of Go: Atomics](https://antonz.org/go-concurrency/atomics/) 👤 Anton Zhiyanov 💬 1681 🔖 #go 🗓️ 2025-09-30

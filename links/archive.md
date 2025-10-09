@@ -1,9 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 1097
+- Всего ссылок: 1100
 
 ## Ссылки
 
+- [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything) 👤 Simon Willison 💬 1224 🔖 #llm, #toot, #programming 🗓️ 2025-10-08
+    > **Заметка:** Саймон предлагает новый термин для обозначения ответственной разработки с LLM. В посте приведены очень правильные практики.
+- [GPT-5-Codex is a better AI researcher than me](https://seangoedecke.com/ai-research-with-codex/) 👤 seangoedecke.com 💬 2221 🔖 #llm 🗓️ 2025-10-07
+- [Крошечный Excel на чистом JavaScript (30 строк кода)](https://habr.com/ru/articles/202304/) 👤 zag2art 💬 794 🔖 #diy, #javascript 🗓️ 2025-10-06
 - [Managers Have Been Vibe Coding All Along](https://yusufaytas.com/managers-have-been-vibe-coding-all-along/) 👤 https://www.facebook.com/yusufaytas 💬 580 🗓️ 2025-10-06
 - [Onward](https://domenic.me/retirement/?utm_source=substack&utm_medium=email) 👤 Domenic Denicola 💬 838 🔖 #joyandcuriosity 🗓️ 2025-10-05
 - [I’m Done Future-proofing my Life.](https://www.joanwestenberg.com/p/i-m-done-future-proofing-my-life) 👤 JA Westenberg 💬 809 🗓️ 2025-10-05

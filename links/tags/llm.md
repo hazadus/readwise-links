@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 252
+- Всего ссылок: 254
 
 ## Ссылки
 
+- [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything) 👤 Simon Willison 💬 1224 🔖 #llm, #toot, #programming 🗓️ 2025-10-08
+    > **Заметка:** Саймон предлагает новый термин для обозначения ответственной разработки с LLM. В посте приведены очень правильные практики.
+    > **Резюме:** Simon Willison argues for "vibe engineering" — a disciplined way senior engineers use LLMs and coding agents while staying fully accountable for production software. It requires strong testing, planning, documentation, version control, QA, and review practices. AI tools amplify existing engineering skills rather than replace them.
+- [GPT-5-Codex is a better AI researcher than me](https://seangoedecke.com/ai-research-with-codex/) 👤 seangoedecke.com 💬 2221 🔖 #llm 🗓️ 2025-10-07
+    > **Резюме:** The author tried using Codex to help with AI research and found it much better than working alone. Codex quickly suggested ideas and ran experiments, making the process faster and more fun. Although some models had high scores, the best stories came from simpler transformers that focused on coherence, not just perplexity.
 - [From Idea to Launch in 2 Weeks](https://yusufaytas.com/from-idea-to-launch-in-2-weeks/) 👤 https://www.facebook.com/yusufaytas 💬 2275 🔖 #llm 🗓️ 2025-10-03
     > **Резюме:** The author used LLMs as the main development tool to build three projects fast, finding they speed up setup and boilerplate.  
 LLMs make coding quicker but are fragile: they hallucinate, miss context, and need tight human supervision.  

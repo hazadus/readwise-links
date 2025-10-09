@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 99
+- Всего ссылок: 101
 
 ## Ссылки
 
+- [A pragmatic guide to modern CSS colours - part one](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-one/?ref=main-rss-feed) 👤 Piccalilli 💬 3032 🔖 #css 🗓️ 2025-10-07
+    > **Резюме:** CSS colour syntax has evolved to new, simpler forms like space-separated rgb() and hsl() and a slash for alpha. Relative colours let you base new colours on existing ones and easily change alpha. New colour functions and spaces (e.g., color(), oklch(), color-mix()) give more control and better results.
+- [Creating a personal wrapper around yt-dlp](https://alexwlchan.net/2025/yt-dlp-wrapper/?ref=rss) 👤 alexwlchan.net 💬 430 🗓️ 2025-10-07
+    > **Резюме:** The author made a small wrapper script around yt-dlp to avoid repeating download and post-processing steps. The script downloads high-quality video, thumbnail, and subtitles, saves them as MP4/JPEG, and prints metadata as JSON. The tool is a reusable starting point to keep projects cleaner and consistent.
 - [Thank you for being annoying](https://www.experimental-history.com/p/thank-you-for-being-annoying?utm_source=substack&utm_medium=email) 👤 Adam Mastroianni 💬 2831 🔖 #joyandcuriosity 🗓️ 2025-10-05
     > **Резюме:** OR: whack 'em if you got 'em
 - [5 Core Distributed Concepts Every Developer Should Know](https://www.swequiz.com/blog/5-core-distributed-concepts-every-developer-should-know) 👤 swequiz.com 💬 2261 🗓️ 2025-10-05
