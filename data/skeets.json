@@ -30,7 +30,9 @@
         "01k5f8mdwyebntk4krv6a4cx9q",
         "01k65nyzeh1natbb7xqmxxkbby",
         "01k6f9rmhq0zy0sfkwxemj5f38",
-        "01k714rda0b4t3shsz82fqb6xv"
+        "01k714rda0b4t3shsz82fqb6xv",
+        "01k73nmfkpwhtmc356rwnct7cx",
+        "01k62j88e860fj11r58fytgdkm"
     ],
     "skeets": [
         {
@@ -218,6 +220,18 @@
             "document_title": "Vibe engineering",
             "source_url": "https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything",
             "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3m2qlxfb5jz2q"
+        },
+        {
+            "document_id": "01k73nmfkpwhtmc356rwnct7cx",
+            "document_title": "Python 3.14 Is Here. How Fast Is It?",
+            "source_url": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3m2t4g5qcny2e"
+        },
+        {
+            "document_id": "01k62j88e860fj11r58fytgdkm",
+            "document_title": "Solving Prop Drilling in Vue: Modern State Management Strategies",
+            "source_url": "https://alexop.dev/posts/solving-prop-drilling-in-vue/",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3m2t4g674ag2v"
         }
     ]
 }
