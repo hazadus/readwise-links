@@ -1,15 +1,24 @@
 # Ссылки
 
-- Всего ссылок: 24
+- Всего ссылок: 26
 
 ## Ссылки
 
+- [Python 3.14 Is Here. How Fast Is It?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it) 👤 Miguel Grinberg 💬 2548 🔖 #toot, #python, #programming 🗓️ 2025-10-09
+    > **Заметка:** Мигель тестирует производительность нового релиза Питона
+    > **Резюме:** Python 3.14 is the fastest CPython tested.  
+The JIT gave little benefit on these scripts.  
+The free-threading build is much faster (2–3x) for CPU-bound multithreaded workloads but slower for single-threaded code.
 - [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything) 👤 Simon Willison 💬 1224 🔖 #llm, #toot, #programming 🗓️ 2025-10-08
     > **Заметка:** Саймон предлагает новый термин для обозначения ответственной разработки с LLM. В посте приведены очень правильные практики.
     > **Резюме:** Simon Willison argues for "vibe engineering" — a disciplined way senior engineers use LLMs and coding agents while staying fully accountable for production software. It requires strong testing, planning, documentation, version control, QA, and review practices. AI tools amplify existing engineering skills rather than replace them.
 - [Dev Culture Is Dying The Curious Developer Is Gone](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/) 👤 Dayvi Schuster 💬 2598 🔖 #toot, #learning, #inspiration, #programming 🗓️ 2025-10-01
     > **Заметка:** "Software development is a unique craft, it’s equal parts creative and equal parts engineering, two opposing forces that when combined can create something truly amazing. Fight the temptation to add marketing into the mix and dilute the craft with it."
     > **Резюме:** Developer culture has shifted from curiosity and tinkering to chasing metrics and growth. This change stifles creativity and produces bland, revenue-driven software. The author urges developers to reclaim time for curious, personal projects that spark real innovation.
+- [Vibe Coding Is Making Programmers Dumber](https://nmn.gl/blog/vibe-coding-gambling?utm_source=tldrwebdev) 👤 namanyayg 💬 1399 🔖 #llm, #programming 🗓️ 2025-09-25
+    > **Резюме:** The author says AI that writes code is making programmers dumber.  
+It gives quick fixes instead of deep understanding, so people ship code they don't fully grasp.  
+He urges using AI intentionally: learn the output, keep practising, and let AI amplify thinking, not replace it.
 - [How to burnout a software engineer, in 3 easy steps](https://read.engineerscodex.com/p/how-to-burnout-a-software-engineer) 👤 Leonardo Creed 💬 1322 🔖 #toot, #career, #programming 🗓️ 2025-09-18
     > **Заметка:** "Working on projects that never ship is, anecdotally, one of the largest causes of burnout."
 

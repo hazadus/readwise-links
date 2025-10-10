@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 228
+- Всего ссылок: 229
 
 ## Ссылки
 
@@ -14,6 +14,10 @@ Use a mutex or CompareAndSwap for multi-step or sequence-dependent updates.
     > **Резюме:** Dependency injection in Go means passing dependencies explicitly to keep code clear and testable. Manual dependency injection is simple and common in Go, but it can get repetitive as projects grow. For larger apps, tools like Google Wire or Uber Dig can help manage dependencies more easily.
 - [Native threading and multiprocessing in Go](https://antonz.org/multi/) 👤 Anton Zhiyanov 💬 972 🔖 #go 🗓️ 2025-09-23
     > **Резюме:** The author made multi, a Go package that runs tasks as goroutines locked to OS threads, native pthreads, or forked processes. It uses cgo and syscalls to bypass the Go runtime; pthread and proc can break GC, signals, and the scheduler, so only goro is production-safe. Benchmarks show little performance difference, so Go's usual concurrency is normally best.
+- [Let the domain guide your application structure](https://rednafi.com/go/app_structure/) 👤 Redowan Delowar 💬 1181 🔖 #go 🗓️ 2025-09-22
+    > **Резюме:** Let the domain, not the technology, guide your app's top-level structure.  
+Avoid generic packages like models or handlers that lump multiple domains together.  
+Give each domain its own package and have tech packages (http, postgres) depend on them and be wired in cmd.
 - [Never Get Bored With The Basics • The Applied Go Weekly Newsletter 2025-09-14](https://newsletter.appliedgo.net/archive/2025-09-14-never-get-bored-with-the-basics/) 👤 The Applied Go Weekly Newsletter 💬 1503 🔖 #go 🗓️ 2025-09-17
     > **Резюме:** Christoph will build a minimalist SaaS platform using only essential code.  
 Start small: use a simple net/http server and avoid containers, Kubernetes, and heavy infra.  

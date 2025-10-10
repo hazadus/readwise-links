@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 31
+- Всего ссылок: 33
 
 ## Ссылки
 
+- [Python 3.14 Is Here. How Fast Is It?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it) 👤 Miguel Grinberg 💬 2548 🔖 #toot, #python, #programming 🗓️ 2025-10-09
+    > **Заметка:** Мигель тестирует производительность нового релиза Питона
+    > **Резюме:** Python 3.14 is the fastest CPython tested.  
+The JIT gave little benefit on these scripts.  
+The free-threading build is much faster (2–3x) for CPU-bound multithreaded workloads but slower for single-threaded code.
 - [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything) 👤 Simon Willison 💬 1224 🔖 #llm, #toot, #programming 🗓️ 2025-10-08
     > **Заметка:** Саймон предлагает новый термин для обозначения ответственной разработки с LLM. В посте приведены очень правильные практики.
     > **Резюме:** Simon Willison argues for "vibe engineering" — a disciplined way senior engineers use LLMs and coding agents while staying fully accountable for production software. It requires strong testing, planning, documentation, version control, QA, and review practices. AI tools amplify existing engineering skills rather than replace them.
@@ -13,6 +18,10 @@
 - [Endless AI-generated Wikipedia](https://seangoedecke.com/endless-wiki/) 👤 seangoedecke.com 💬 654 🔖 #llm, #toot, #inspiration 🗓️ 2025-09-27
     > **Заметка:** Шон реализовал гениальную в своей простоте идею "бесконечной энциклопедии" на основе LLM. Впечатляет!
     > **Резюме:** The author built EndlessWiki, an infinite AI-generated encyclopedia at endlesswiki.com. Pages are created on demand by a large language model and saved to a database. The site forces users to explore by clicking links and serves as a toy demo of non-chat LLM interfaces.
+- [Solving Prop Drilling in Vue: Modern State Management Strategies](https://alexop.dev/posts/solving-prop-drilling-in-vue/) 👤 Alexander Opalic 💬 798 🔖 #vue, #toot, #pinia, #webdev 🗓️ 2025-09-26
+    > **Резюме:** Prop drilling makes code brittle, hard to debug, and slow.  
+Use Pinia for app-wide state, composables for reusable logic, and provide/inject for scoped subtree sharing.  
+Avoid event buses and prefer typed, testable patterns with DevTools support.
 - [How to burnout a software engineer, in 3 easy steps](https://read.engineerscodex.com/p/how-to-burnout-a-software-engineer) 👤 Leonardo Creed 💬 1322 🔖 #toot, #career, #programming 🗓️ 2025-09-18
     > **Заметка:** "Working on projects that never ship is, anecdotally, one of the largest causes of burnout."
 

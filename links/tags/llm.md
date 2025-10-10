@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 254
+- Всего ссылок: 256
 
 ## Ссылки
 
@@ -37,6 +37,10 @@ The author suspects this comes from RL training and says agents should not inser
 - [How I Use LLMs](https://alexop.dev/posts/how-i-use-llms/) 👤 Alexander Opalic 💬 1907 🔖 #llm 🗓️ 2025-09-25
     > **Заметка:** Есть ссылки на интересные инструменты
     > **Резюме:** Alexander Opalic explains how developers can use large language models (LLMs) not just for code generation but also for research, documentation, and learning. He suggests organizing tasks by complexity and using system prompts to improve LLM output. Using tools like code indexing and web search with LLMs helps developers work faster and smarter.
+- [Vibe Coding Is Making Programmers Dumber](https://nmn.gl/blog/vibe-coding-gambling?utm_source=tldrwebdev) 👤 namanyayg 💬 1399 🔖 #llm, #programming 🗓️ 2025-09-25
+    > **Резюме:** The author says AI that writes code is making programmers dumber.  
+It gives quick fixes instead of deep understanding, so people ship code they don't fully grasp.  
+He urges using AI intentionally: learn the output, keep practising, and let AI amplify thinking, not replace it.
 - [Some Thoughts on "AI"](https://ronjeffries.com/articles/-w025/y/l/) 👤 ronjeffries.com 💬 2445 🔖 #llm 🗓️ 2025-09-25
     > **Резюме:** The author says today's "AI" is mostly a very smart web search that does much of the grunt programming work. It can speed tasks like a junior helper but uses huge resources and can stop people from learning. The author has mixed feelings: he sometimes uses it but values thinking and worries about moral and practical costs.
 - [To vibe or not to vibe](https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html) 👤 Birgitta Böckeler 💬 1236 🔖 #llm 🗓️ 2025-09-24
@@ -57,6 +61,10 @@ Using AI well means supervising its architecture choices, not just tweaking line
     > **Резюме:** The word "agent" now has a clearer meaning in AI: it means an LLM uses tools repeatedly to reach a goal. This helps people talk about agents without confusion. Some old ideas, like agents replacing humans, are still not realistic.
 - [GPT‑5-Codex and upgrades to Codex](https://simonwillison.net/2025/Sep/15/gpt-5-codex/#atom-everything) 👤 Simon Willison 💬 456 🔖 #llm 🗓️ 2025-09-16
     > **Резюме:** OpenAI released GPT-5-Codex, a new AI model designed to help with coding and code review. It is faster on simple tasks and better at refactoring and writing mobile-friendly code. The model is already in some tools but not yet available through the API.
+- [Disposable Code Is Here to Stay, but Durable Code Is What Runs the World](https://www.honeycomb.io/blog/disposable-code-is-here-to-stay?utm_source=tldrwebdev) 👤 Honeycomb 💬 1844 🔖 #llm 🗓️ 2025-09-15
+    > **Резюме:** Software is splitting into disposable code and durable code.  
+Disposable code is cheap and short-lived; durable code must be reliable, maintainable, and trusted.  
+AI speeds creation but cannot replace the tests, observability, and careful rollouts durable systems need.
 - [Models can prompt now](https://simonwillison.net/2025/Sep/14/models-can-prompt/#atom-everything) 👤 Simon Willison 💬 177 🔖 #llm 🗓️ 2025-09-15
     > **Резюме:** Modern AI models can now write prompts for themselves and others. This skill has improved because they learned from many good examples recently. The author believes this change is real, even without strong proof yet.
 - [I Miss Tabs vs Spaces... And Other AI Musings](https://wsvincent.com/i-miss-tabs-vs-spaces/) 👤 William Vincent 💬 1304 🔖 #llm 🗓️ 2025-09-13

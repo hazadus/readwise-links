@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [Solving Prop Drilling in Vue: Modern State Management Strategies](https://alexop.dev/posts/solving-prop-drilling-in-vue/) 👤 Alexander Opalic 💬 798 🔖 #vue, #toot, #pinia, #webdev 🗓️ 2025-09-26
+    > **Резюме:** Prop drilling makes code brittle, hard to debug, and slow.  
+Use Pinia for app-wide state, composables for reusable logic, and provide/inject for scoped subtree sharing.  
+Avoid event buses and prefer typed, testable patterns with DevTools support.
 - [Everything I know about good API design](https://seangoedecke.com/good-api-design/) 👤 seangoedecke.com 💬 3865 🔖 #api, #toot, #webdev, #programming 🗓️ 2025-08-25
     > **Заметка:** Советы по разработке публичных API от Шона. Рекомендую почитать все его посты, очень глубокий материал!
     > **Резюме:** Good APIs are boring, simple, and familiar so developers can use them without thinking.  

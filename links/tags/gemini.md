@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 2
+- Всего ссылок: 3
 
 ## Ссылки
 
+- [Now open for building: Introducing Gemini CLI extensions](https://blog.google/technology/developers/gemini-cli-extensions/) 👤 Taylor Mullen 💬 1065 🔖 #gemini 🗓️ 2025-10-09
+    > **Резюме:** Gemini CLI extensions let developers customize their command line by connecting it to tools they use most. These extensions are easy to install and come with built-in guides to help the AI work well from the start. Many partners and Google have created extensions, making it simple to build a personalized and smarter workflow.
 - [Bring Your Own Agent to Zed — Featuring Gemini CLI](https://zed.dev/blog/bring-your-own-agent-to-zed) 👤 Nathan Sobo 💬 796 🔖 #llm, #zed, #gemini 🗓️ 2025-08-27
     > **Резюме:** Zed now lets you run third-party agents inside the editor via a new Agent Client Protocol (ACP). Gemini CLI is the first reference implementation and shows editor features like live edit previews and multi-buffer reviews. ACP is open-source, keeps your code local, and aims to let many agents and editors interoperate.
 - [Gemini CLI](https://simonwillison.net/2025/Jun/25/gemini-cli/#atom-everything) 👤 Simon Willison 💬 679 🔖 #llm, #gemini 🗓️ 2025-06-26

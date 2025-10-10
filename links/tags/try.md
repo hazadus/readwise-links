@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 54
+- Всего ссылок: 55
 
 ## Ссылки
 
 - [The Browser That Speaks 200 Languages: Building an AI Translator Without APIs](https://alexop.dev/posts/building-client-side-ai-translator-vue/) 👤 Alexander Opalic 💬 1247 🔖 #try, #vue, #webworkers 🗓️ 2025-09-26
     > **Резюме:** This guide shows how to build a free offline AI translator for 200 languages using Vue and Transformers.js. It runs Meta’s NLLB-200 model locally in a Web Worker and streams translation updates. The app includes language selectors, a progress bar, and a simple Vue interface.
+- [Opening all the files that have been modified in a Git branch](https://alexwlchan.net/2025/review-files-in-text-editor/?ref=rss) 👤 alexwlchan.net 💬 522 🔖 #git, #try 🗓️ 2025-09-19
+    > **Резюме:** This shows how to open every file changed in a Git branch in your local editor. Use git merge-base to find the branch point and git diff --name-only to list changed files. Pipe the list to xargs and open -a "Visual Studio Code" to open them all.
 - [Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial](https://m.youtube.com/watch?v=Vs4hQsDpxww) 👤 freeCodeCamp.org 🔖 #try 🗓️ 2025-09-16
     > **Резюме:** This tutorial shows how to build a web-based code editor with HTML, CSS, and JavaScript. You paste code into the HTML, CSS, and JS tabs and press Run to see a live preview. It explains the editor layout, default code, accessibility labels, and cursor placement.
 - [How to Back up Your GitHub Repositories](https://improveandrepeat.com/2025/09/how-to-back-up-your-github-repositories/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 616 🔖 #git, #try, #github 🗓️ 2025-09-02

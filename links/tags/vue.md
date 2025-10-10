@@ -15,12 +15,13 @@
 - [SQLite in Vue: Complete Guide to Building Offline-First Web Apps](https://alexop.dev/posts/sqlite-vue3-offline-first-web-apps-guide/) 👤 Alexander Opalic 💬 5636 🔖 #vue 🗓️ 2025-09-26
     > **Резюме:** The guide "SQLite in Vue" by Alexander Opalic teaches how to create offline-first web apps using SQLite in Vue.js. It covers key features like executing SQL commands and managing database connections. The guide is designed to help developers easily integrate SQLite into their applications.
 - [How to Use the Variant Props Pattern in Vue](https://alexop.dev/posts/vue-typescript-variant-props-type-safe-props/) 👤 Alexander Opalic 💬 718 🔖 #vue 🗓️ 2025-09-26
+    > **Заметка:** Шикарный разбор темы, еще и с анимированными диаграммами!
     > **Резюме:** The Variant Props Pattern (VPP) in Vue uses TypeScript’s discriminated unions to create type-safe component variants. This approach prevents mixing incompatible props by marking unused properties as "never." It helps developers build components, like notifications, that manage different states without errors.
 - [Building Local-First Apps with Vue and Dexie.js](https://alexop.dev/posts/building-local-first-apps-vue-dexie/) 👤 Alexander Opalic 💬 1354 🔖 #vue 🗓️ 2025-09-26
     > **Резюме:** This guide shows how to build local-first, offline-capable web apps using Vue 3 and Dexie.js. Dexie stores data in IndexedDB locally and uses Dexie Cloud for sync, auth, and conflict resolution. A todo app example and a repository pattern demonstrate setup, sync configuration, and best practices.
 - [The Browser That Speaks 200 Languages: Building an AI Translator Without APIs](https://alexop.dev/posts/building-client-side-ai-translator-vue/) 👤 Alexander Opalic 💬 1247 🔖 #try, #vue, #webworkers 🗓️ 2025-09-26
     > **Резюме:** This guide shows how to build a free offline AI translator for 200 languages using Vue and Transformers.js. It runs Meta’s NLLB-200 model locally in a Web Worker and streams translation updates. The app includes language selectors, a progress bar, and a simple Vue interface.
-- [Solving Prop Drilling in Vue: Modern State Management Strategies](https://alexop.dev/posts/solving-prop-drilling-in-vue/) 👤 Alexander Opalic 💬 798 🔖 #vue 🗓️ 2025-09-26
+- [Solving Prop Drilling in Vue: Modern State Management Strategies](https://alexop.dev/posts/solving-prop-drilling-in-vue/) 👤 Alexander Opalic 💬 798 🔖 #vue, #toot, #pinia, #webdev 🗓️ 2025-09-26
     > **Резюме:** Prop drilling makes code brittle, hard to debug, and slow.  
 Use Pinia for app-wide state, composables for reusable logic, and provide/inject for scoped subtree sharing.  
 Avoid event buses and prefer typed, testable patterns with DevTools support.

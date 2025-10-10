@@ -1,11 +1,17 @@
 # Архивные ссылки
 
-- Всего ссылок: 1100
+- Всего ссылок: 1118
 
 ## Ссылки
 
+- [The Exhaustion of Permanent Disruption](https://www.joanwestenberg.com/p/the-exhaustion-of-permanent-disruption) 👤 JA Westenberg 💬 825 🗓️ 2025-10-09
+- [Now open for building: Introducing Gemini CLI extensions](https://blog.google/technology/developers/gemini-cli-extensions/) 👤 Taylor Mullen 💬 1065 🔖 #gemini 🗓️ 2025-10-09
+- [Python 3.14 Is Here. How Fast Is It?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it) 👤 Miguel Grinberg 💬 2548 🔖 #toot, #python, #programming 🗓️ 2025-10-09
+    > **Заметка:** Мигель тестирует производительность нового релиза Питона
+- [Five Years as a Startup CTO: How, Why, and Was It Worth It?](https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/?utm_source=tldrwebdev) 👤 gansbrest 💬 2692 🗓️ 2025-10-08
 - [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything) 👤 Simon Willison 💬 1224 🔖 #llm, #toot, #programming 🗓️ 2025-10-08
     > **Заметка:** Саймон предлагает новый термин для обозначения ответственной разработки с LLM. В посте приведены очень правильные практики.
+- [Creating a personal wrapper around yt-dlp](https://alexwlchan.net/2025/yt-dlp-wrapper/?ref=rss) 👤 alexwlchan.net 💬 430 🗓️ 2025-10-07
 - [GPT-5-Codex is a better AI researcher than me](https://seangoedecke.com/ai-research-with-codex/) 👤 seangoedecke.com 💬 2221 🔖 #llm 🗓️ 2025-10-07
 - [Крошечный Excel на чистом JavaScript (30 строк кода)](https://habr.com/ru/articles/202304/) 👤 zag2art 💬 794 🔖 #diy, #javascript 🗓️ 2025-10-06
 - [Managers Have Been Vibe Coding All Along](https://yusufaytas.com/managers-have-been-vibe-coding-all-along/) 👤 https://www.facebook.com/yusufaytas 💬 580 🗓️ 2025-10-06
@@ -13,6 +19,7 @@
 - [I’m Done Future-proofing my Life.](https://www.joanwestenberg.com/p/i-m-done-future-proofing-my-life) 👤 JA Westenberg 💬 809 🗓️ 2025-10-05
 - [How to influence tech company politics as a staff software engineer](https://seangoedecke.com/how-to-influence-politics/) 👤 seangoedecke.com 💬 1215 🔖 #career 🗓️ 2025-10-05
 - [Stop Wasting Brainpower](https://yusufaytas.com/stop-wasting-brainpower/) 👤 https://www.facebook.com/yusufaytas 💬 1810 🗓️ 2025-10-05
+- [How to Write Better Pinia Stores with the Elm Pattern](https://alexop.dev/posts/tea-architecture-pinia-private-store-pattern/) 👤 Alexander Opalic 💬 1404 🔖 #pinia 🗓️ 2025-10-05
 - [Engineering Strategy and Planning](https://yusufaytas.com/engineering-strategy-and-planning/) 👤 https://www.facebook.com/yusufaytas 💬 2257 🗓️ 2025-10-04
 - [Building a Technical Vision](https://yusufaytas.com/building-a-technical-vision/) 👤 https://www.facebook.com/yusufaytas 💬 877 🗓️ 2025-10-04
 - [No Fluff Please](https://yusufaytas.com/no-fluff-please/) 👤 https://www.facebook.com/yusufaytas 💬 734 🔖 #cv, #career 🗓️ 2025-10-04
@@ -38,6 +45,7 @@
 - [90%](https://lucumr.pocoo.org/2025/9/29/90-percent/) 👤 Armin Ronacher 💬 1611 🔖 #llm 🗓️ 2025-09-30
 - [Nuxt UI v4](https://nuxt.com/blog/nuxt-ui-v4) 👤 Benjamin Canac 💬 803 🔖 #nuxt 🗓️ 2025-09-29
 - [Are We Chasing Language Hype Over Solving Real Problems?](https://dayvster.com/blog/are-we-chasing-language-hype-over-solving-real-problems) 👤 Dayvi Schuster 💬 1839 🔖 #rust 🗓️ 2025-09-29
+- [Remember: Kurt Vonnegut was 47](https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47) 👤 JA Westenberg 💬 1289 🗓️ 2025-09-29
 - [Libghostty Is Coming](https://mitchellh.com/writing/libghostty-is-coming?utm_source=substack&utm_medium=email) 👤 Mitchell Hashimoto 💬 1439 🔖 #joyandcuriosity 🗓️ 2025-09-28
 - [Things I Believe](https://leerob.com/beliefs?utm_source=substack&utm_medium=email) 👤 Lee Robinson 💬 326 🔖 #inspiration, #joyandcuriosity 🗓️ 2025-09-28
 - [How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner?utm_source=substack&utm_medium=email) 👤 annie's blog 💬 449 🔖 #fun, #joyandcuriosity 🗓️ 2025-09-28
@@ -51,12 +59,19 @@
 - [You Still Need to Think](https://calv.info/you-still-need-to-think) 👤 calv.info 💬 539 🔖 #llm 🗓️ 2025-09-28
 - [Write the damn code](https://antonz.org/write-code/) 👤 Anton Zhiyanov 💬 251 🔖 #llm 🗓️ 2025-09-28
 - [GitHub Copilot CLI is now in public preview](https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything) 👤 Simon Willison 💬 236 🔖 #llm, #github 🗓️ 2025-09-28
+- [We've Hit Personal Agency Hyperfinflation](https://www.joanwestenberg.com/p/personal-agency-inflation) 👤 JA Westenberg 💬 984 🗓️ 2025-09-28
 - [On Choosing Rust](https://endler.dev/2025/choosing-rust/) 👤 Matthias Endler 💬 1414 🔖 #rust 🗓️ 2025-09-28
 - [Endless AI-generated Wikipedia](https://seangoedecke.com/endless-wiki/) 👤 seangoedecke.com 💬 654 🔖 #llm, #toot, #inspiration 🗓️ 2025-09-27
     > **Заметка:** Шон реализовал гениальную в своей простоте идею "бесконечной энциклопедии" на основе LLM. Впечатляет!
 - [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) 👤 mozilla.org 💬 613 🔖 #webworkers 🗓️ 2025-09-26
+- [The Browser That Speaks 200 Languages: Building an AI Translator Without APIs](https://alexop.dev/posts/building-client-side-ai-translator-vue/) 👤 Alexander Opalic 💬 1247 🔖 #try, #vue, #webworkers 🗓️ 2025-09-26
+- [Solving Prop Drilling in Vue: Modern State Management Strategies](https://alexop.dev/posts/solving-prop-drilling-in-vue/) 👤 Alexander Opalic 💬 798 🔖 #vue, #toot, #pinia, #webdev 🗓️ 2025-09-26
+- [How to Use AI for Effective Diagram Creation: A Guide to ChatGPT and Mermaid](https://alexop.dev/posts/how-to-use-ai-for-effective-diagram-creation-a-guide-to-chatgpt-and-mermaid) 👤 Alexander Opalic 💬 297 🔖 #mermaid 🗓️ 2025-09-26
 - [How I Use LLMs](https://alexop.dev/posts/how-i-use-llms/) 👤 Alexander Opalic 💬 1907 🔖 #llm 🗓️ 2025-09-25
     > **Заметка:** Есть ссылки на интересные инструменты
+- [Vibe Coding Is Making Programmers Dumber](https://nmn.gl/blog/vibe-coding-gambling?utm_source=tldrwebdev) 👤 namanyayg 💬 1399 🔖 #llm, #programming 🗓️ 2025-09-25
+- [Why do software developers love complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html?utm_source=tldrwebdev) 👤 Kyrylo Silin 💬 808 🔖 #softwaredesign 🗓️ 2025-09-25
+- [React Won by Default – And It's Killing Frontend Innovation](https://www.lorenstew.art/blog/react-won-by-default/?utm_source=tldrwebdev) 👤 Your Name 💬 1545 🔖 #react 🗓️ 2025-09-25
 - [Automatically Generate AI Chat Titles with Animation in Nuxt](https://masteringnuxt.com/blog/automatically-generate-ai-chat-titles-with-animation-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(236)+Hidden+Nuxt+Gems,+and+a+simpler+way+to+pass+lots+of+props+-+19098320&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 1150 🔖 #css, #nuxt 🗓️ 2025-09-25
 - [Nuxt 3 State Management: Pinia vs useState](https://www.vuemastery.com/blog/nuxt-3-state-mangement-pinia-vs-usestate/?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%94%A5%20%28235%29%20Hidden%20Component%20Pattern,%20UI%20states,%20and%20Dedupe%20fetches%20in%20Nuxt%20-%2019014881) 👤 Michael Thiessen 💬 1760 🔖 #nuxt, #pinia 🗓️ 2025-09-25
 - [Some Thoughts on "AI"](https://ronjeffries.com/articles/-w025/y/l/) 👤 ronjeffries.com 💬 2445 🔖 #llm 🗓️ 2025-09-25
@@ -64,8 +79,10 @@
 - [What I learned building an AI-driven spaced repetition app](https://seangoedecke.com/autodeck/) 👤 seangoedecke.com 💬 1666 🔖 #llm, #inspiration 🗓️ 2025-09-24
 - [Why Belief Beats Discipline](https://www.joanwestenberg.com/p/why-belief-beats-discipline) 👤 JA Westenberg 💬 1354 🗓️ 2025-09-24
 - [When AI will browse the web for me](https://www.stefanjudis.com/notes/when-ai-will-browse-the-web-for-me/) 👤 stefanjudis.com 💬 399 🔖 #llm 🗓️ 2025-09-24
+- [Let the domain guide your application structure](https://rednafi.com/go/app_structure/) 👤 Redowan Delowar 💬 1181 🔖 #go 🗓️ 2025-09-22
 - [If you are good at code review, you will be good at using AI agents](https://seangoedecke.com/ai-agents-and-code-review/) 👤 seangoedecke.com 💬 1285 🔖 #llm, #codereview 🗓️ 2025-09-22
 - [AI is good news for Australian and European software engineers](https://seangoedecke.com/ai-is-good-news-for-australian-engineers/) 👤 seangoedecke.com 💬 600 🔖 #llm 🗓️ 2025-09-22
+- [Opening all the files that have been modified in a Git branch](https://alexwlchan.net/2025/review-files-in-text-editor/?ref=rss) 👤 alexwlchan.net 💬 522 🔖 #git, #try 🗓️ 2025-09-19
 - [I think “agent” may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/#atom-everything) 👤 Simon Willison 💬 1020 🔖 #llm, #agents 🗓️ 2025-09-19
 - [Shipping is your company’s heartbeat](https://www.intercom.com/blog/shipping-is-your-companys-heartbeat/) 👤 Darragh Curran 💬 1158 🔖 #shipping 🗓️ 2025-09-18
 - [4 Software Design Principles I Learned the Hard Way](https://read.engineerscodex.com/p/4-software-design-principles-i-learned) 👤 Leonardo Creed 💬 1108 🔖 #principles, #development 🗓️ 2025-09-18
@@ -80,6 +97,7 @@
 - [Don't Make Your Bed](https://www.joanwestenberg.com/p/don-t-make-your-bed) 👤 Joan Westenberg 💬 801 🗓️ 2025-09-17
 - [GPT‑5-Codex and upgrades to Codex](https://simonwillison.net/2025/Sep/15/gpt-5-codex/#atom-everything) 👤 Simon Willison 💬 456 🔖 #llm 🗓️ 2025-09-16
 - [How to Write "Garbage Code" (by Linus Torvalds)](https://read.engineerscodex.com/p/how-to-not-write-garbage-code-by?utm_source=tldrwebdev) 👤 Engineer's Codex 💬 830 🗓️ 2025-09-15
+- [Disposable Code Is Here to Stay, but Durable Code Is What Runs the World](https://www.honeycomb.io/blog/disposable-code-is-here-to-stay?utm_source=tldrwebdev) 👤 Honeycomb 💬 1844 🔖 #llm 🗓️ 2025-09-15
 - [Why Billionaire Productivity Hacks Won’t Work for You](https://www.joanwestenberg.com/p/why-billionaire-productivity-hacks-won-t-work-for-you) 👤 JA Westenberg 💬 1079 🔖 #productivity 🗓️ 2025-09-15
 - [Models can prompt now](https://simonwillison.net/2025/Sep/14/models-can-prompt/#atom-everything) 👤 Simon Willison 💬 177 🔖 #llm 🗓️ 2025-09-15
 - [What’s a Foreigner?](https://lucumr.pocoo.org/2025/9/14/whats-an-foreigner/) 👤 Armin Ronacher 💬 691 🗓️ 2025-09-15
@@ -253,6 +271,7 @@ You are a person. Work enough to sustain that. Then stop.
     > **Заметка:** Интересная аналогия с легаси, и очень прикольная - с кредиткой.
 - [Better alternative to shell scripts with Python, uv and pytest](https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/) 👤 Juha-Matti Santala 💬 1312 🔖 #uv, #try, #toot, #pytest, #python 🗓️ 2025-07-30
     > **Заметка:** Отличная шпаргалка о запуске самодостаточных Python-скриптов, ещё и возможность встраивания тестов описана
+- [Гайд по кастомизации vscode: тайлы и менеджеры горячих клавиш](https://www.youtube.com/watch?v=frZkPK_1Ui4) 👤 Никита Соболев 🔖 #vscode 🗓️ 2025-07-30
 - [The refusal problem in large language models](https://seangoedecke.com/the-refusal-problem/) 👤 seangoedecke.com 💬 888 🔖 #llm 🗓️ 2025-07-30
 - [Writing is thinking](https://www.nature.com/articles/s44222-025-00323-4#Bib1) 👤 Nature 💬 704 🔖 #llm, #writing 🗓️ 2025-07-28
 - [Let's Ask An LLM • The Applied Go Weekly Newsletter 2025-07-27](https://newsletter.appliedgo.net/archive/2025-07-27-lets-ask-an-llm/) 👤 The Applied Go Weekly Newsletter 💬 1565 🔖 #go, #llm 🗓️ 2025-07-28

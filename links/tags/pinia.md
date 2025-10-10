@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 4
 
 ## Ссылки
 
@@ -8,6 +8,10 @@
     > **Резюме:** Pinia is flexible but allows direct, unpredictable state mutations that hurt testability.  
 Combine The Elm Architecture with a private store or Vue's readonly to keep update logic pure and expose only selectors and a dispatch.  
 Prefer readonly for simplicity; the pattern gives testable, framework-agnostic business logic with Pinia devtools support.
+- [Solving Prop Drilling in Vue: Modern State Management Strategies](https://alexop.dev/posts/solving-prop-drilling-in-vue/) 👤 Alexander Opalic 💬 798 🔖 #vue, #toot, #pinia, #webdev 🗓️ 2025-09-26
+    > **Резюме:** Prop drilling makes code brittle, hard to debug, and slow.  
+Use Pinia for app-wide state, composables for reusable logic, and provide/inject for scoped subtree sharing.  
+Avoid event buses and prefer typed, testable patterns with DevTools support.
 - [Nuxt 3 State Management: Pinia vs useState](https://www.vuemastery.com/blog/nuxt-3-state-mangement-pinia-vs-usestate/?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%94%A5%20%28235%29%20Hidden%20Component%20Pattern,%20UI%20states,%20and%20Dedupe%20fetches%20in%20Nuxt%20-%2019014881) 👤 Michael Thiessen 💬 1760 🔖 #nuxt, #pinia 🗓️ 2025-09-25
     > **Резюме:** useState fixes ref issues: cross-request pollution, hydration, and sharing. Pinia adds devtools, organized stores, actions, and getters for a better developer experience. Use Pinia for complex apps and useState for small, simple apps.
 - [Nuxt Tip: Accessing Pinia Store in Production Build](https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build) 👤 Michael Hoffmann 💬 86 🔖 #nuxt, #pinia 🗓️ 2025-08-14

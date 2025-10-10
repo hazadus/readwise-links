@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 2
+- Всего ссылок: 3
 
 ## Ссылки
 
+- [Vim — это метаредактирование (иммерсивный текстовый редактор) // Запись доклада](https://www.youtube.com/watch?v=RPlOYfgGDjQ&feature=youtu.be) 👤 Куда войти? 🔖 #vim 🗓️ 2025-10-01
+    > **Резюме:** Доклад рассказывает, что Vim — это иммерсивный текстовый редактор, построенный вокруг работы с текстом. Автор показывает повторение действий, регистры, поиск и плагины как ключевые фичи. Vim легко настраивается и расширяется, включая интеграции с инструментами и AI.
 - [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html) 👤 Oskar Wickström 💬 925 🔖 #vim, #joyandcuriosity 🗓️ 2025-08-31
     > **Резюме:** The author returned to Neovim to create a personalized, minimalist text editor with minimal plugins. They configured it using Nix for easy management and focused on speed and simplicity. The final setup is fast, understandable, and tailored to their specific editing needs.
 - [LazyVim for Ambitious Developers](https://lazyvim-ambitious-devs.phillips.codes/course/chapter-1/) 👤 lazyvim-ambitious-devs.phillips.codes 💬 3330 🔖 #vim, #book 🗓️ 2025-06-05

@@ -1,33 +1,23 @@
 # Отложенные ссылки
 
-- Всего ссылок: 101
+- Всего ссылок: 83
 
 ## Ссылки
 
+- [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/) 👤 hojberg.xyz 💬 2646 🗓️ 2025-10-09
+    > **Резюме:** Programming used to be a deep, creative craft focused on solving puzzles and understanding code. Now, AI tools risk turning programmers into mere operators, disconnected from their work and each other. This shift threatens to erase the skill, pride, and identity that made programming special.
 - [A pragmatic guide to modern CSS colours - part one](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-one/?ref=main-rss-feed) 👤 Piccalilli 💬 3032 🔖 #css 🗓️ 2025-10-07
     > **Резюме:** CSS colour syntax has evolved to new, simpler forms like space-separated rgb() and hsl() and a slash for alpha. Relative colours let you base new colours on existing ones and easily change alpha. New colour functions and spaces (e.g., color(), oklch(), color-mix()) give more control and better results.
-- [Creating a personal wrapper around yt-dlp](https://alexwlchan.net/2025/yt-dlp-wrapper/?ref=rss) 👤 alexwlchan.net 💬 430 🗓️ 2025-10-07
-    > **Резюме:** The author made a small wrapper script around yt-dlp to avoid repeating download and post-processing steps. The script downloads high-quality video, thumbnail, and subtitles, saves them as MP4/JPEG, and prints metadata as JSON. The tool is a reusable starting point to keep projects cleaner and consistent.
 - [Thank you for being annoying](https://www.experimental-history.com/p/thank-you-for-being-annoying?utm_source=substack&utm_medium=email) 👤 Adam Mastroianni 💬 2831 🔖 #joyandcuriosity 🗓️ 2025-10-05
     > **Резюме:** OR: whack 'em if you got 'em
 - [5 Core Distributed Concepts Every Developer Should Know](https://www.swequiz.com/blog/5-core-distributed-concepts-every-developer-should-know) 👤 swequiz.com 💬 2261 🗓️ 2025-10-05
     > **Резюме:** Distributed systems are crucial for modern applications, and developers should understand five core concepts to build and troubleshoot them effectively. Key principles include the CAP Theorem, fault tolerance, and strategies for reducing latency. By grasping these concepts, developers can create resilient and scalable applications.
-- [How to Write Better Pinia Stores with the Elm Pattern](https://alexop.dev/posts/tea-architecture-pinia-private-store-pattern/) 👤 Alexander Opalic 💬 1404 🔖 #pinia 🗓️ 2025-10-05
-    > **Резюме:** Pinia is flexible but allows direct, unpredictable state mutations that hurt testability.  
-Combine The Elm Architecture with a private store or Vue's readonly to keep update logic pure and expose only selectors and a dispatch.  
-Prefer readonly for simplicity; the pattern gives testable, framework-agnostic business logic with Pinia devtools support.
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/?utm_source=tldrwebdev) 👤 kunststube.net 💬 6587 🗓️ 2025-10-02
     > **Резюме:** To work with text in computers, understanding encodings and character sets is essential. Unicode is a standard that unifies different encoding schemes, like UTF-8 and UTF-16, which represent characters using varying numbers of bits. It's important to specify the encoding used for text, as incorrect handling can lead to unreadable documents.
 - [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/?utm_source=tldrwebdev) 👤 refactoringenglish.com 💬 3027 🔖 #joyandcuriosity 🗓️ 2025-10-02
     > **Резюме:** The author lists a few influential software essays that changed how they think about building software. These essays taught them to respect developers, prefer simple stable tools, and use language features (like types) to reduce bugs. Overall, the pieces made them value practical decisions over hype.
-- [Vim — это метаредактирование (иммерсивный текстовый редактор) // Запись доклада](https://www.youtube.com/watch?v=RPlOYfgGDjQ&feature=youtu.be) 👤 Куда войти? 🗓️ 2025-10-01
+- [Vim — это метаредактирование (иммерсивный текстовый редактор) // Запись доклада](https://www.youtube.com/watch?v=RPlOYfgGDjQ&feature=youtu.be) 👤 Куда войти? 🔖 #vim 🗓️ 2025-10-01
     > **Резюме:** Доклад рассказывает, что Vim — это иммерсивный текстовый редактор, построенный вокруг работы с текстом. Автор показывает повторение действий, регистры, поиск и плагины как ключевые фичи. Vim легко настраивается и расширяется, включая интеграции с инструментами и AI.
-- [Empire of AI by Karen Hao - Book Review](https://wsvincent.com/empire-of-ai/) 👤 William Vincent 💬 1754 🗓️ 2025-09-30
-    > **Резюме:** Empire of AI explains how LLMs like ChatGPT work and who built them. Hao shows OpenAI shifting from open ideals to secretive scaling and using low-paid humans to clean data. She warns that hype, concentrated power, and human cost make AI feel like a modern empire.
-- [Remember: Kurt Vonnegut was 47](https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47) 👤 JA Westenberg 💬 1289 🗓️ 2025-09-29
-    > **Резюме:** Kurt Vonnegut was forty-seven when he wrote Slaughterhouse-Five.  
-Our culture worships youth, but many breakthroughs come later.  
-Middle age and failure can produce deep, original work.
 - [Thoughts on Testing January 4, 2024](https://www.brandons.me/blog/thoughts-on-testing?utm_source=substack&utm_medium=email) 👤 Brandon Smith 💬 1461 🔖 #testing, #joyandcuriosity 🗓️ 2025-09-28
     > **Резюме:** Tests help but they cost time because they are code to write, maintain, and run.  
 Only write tests that add lasting value: prefer static analysis, check intent not implementation, and avoid fragile mocked checks.  
@@ -40,10 +30,6 @@ The team prototypes rapidly and the model writes roughly 90% of the code, enabli
     > **Резюме:** Use a good component library and keep its components unchanged.  
 Favor global consistency over local tweaks to save time and improve the product.  
 Simplify the UI: limit fonts and colors, match icon weight to text, and show only what users need.
-- [We've Hit Personal Agency Hyperfinflation](https://www.joanwestenberg.com/p/personal-agency-inflation) 👤 JA Westenberg 💬 984 🗓️ 2025-09-28
-    > **Резюме:** We pile up apps and gadgets and feel more capable, but we grow dependent.  
-Like hyperinflation, this bloats our sense of agency while eroding the skills that back it.  
-Use tools, but practice the underlying skills so you can still function when they fail.
 - [How to Build Your Own Vue-like Reactivity System from Scratch](https://alexop.dev/posts/how-to-build-your-own-vue-like-reactivity-system-from-scratch/) 👤 Alexander Opalic 💬 777 🔖 #typescript 🗓️ 2025-09-26
     > **Резюме:** The article builds simple ref() and watchEffect() functions to show how Vue-style reactivity works. It explains tracking dependencies with track, triggering updates with trigger, and storing effects in a depMap. The minimal system shows core concepts but omits production features like nested handling and optimizations.
 - [Vue 3.5's onWatcherCleanup: Mastering Side Effect Management in Vue Applications](https://alexop.dev/posts/vue-35s-onwatchercleanup-mastering-side-effect-management-in-vue-applications/) 👤 Alexander Opalic 💬 688 🔖 #vue 🗓️ 2025-09-26
@@ -57,31 +43,14 @@ Use tools, but practice the underlying skills so you can still function when the
 - [SQLite in Vue: Complete Guide to Building Offline-First Web Apps](https://alexop.dev/posts/sqlite-vue3-offline-first-web-apps-guide/) 👤 Alexander Opalic 💬 5636 🔖 #vue 🗓️ 2025-09-26
     > **Резюме:** The guide "SQLite in Vue" by Alexander Opalic teaches how to create offline-first web apps using SQLite in Vue.js. It covers key features like executing SQL commands and managing database connections. The guide is designed to help developers easily integrate SQLite into their applications.
 - [How to Use the Variant Props Pattern in Vue](https://alexop.dev/posts/vue-typescript-variant-props-type-safe-props/) 👤 Alexander Opalic 💬 718 🔖 #vue 🗓️ 2025-09-26
+    > **Заметка:** Шикарный разбор темы, еще и с анимированными диаграммами!
     > **Резюме:** The Variant Props Pattern (VPP) in Vue uses TypeScript’s discriminated unions to create type-safe component variants. This approach prevents mixing incompatible props by marking unused properties as "never." It helps developers build components, like notifications, that manage different states without errors.
 - [Building Local-First Apps with Vue and Dexie.js](https://alexop.dev/posts/building-local-first-apps-vue-dexie/) 👤 Alexander Opalic 💬 1354 🔖 #vue 🗓️ 2025-09-26
     > **Резюме:** This guide shows how to build local-first, offline-capable web apps using Vue 3 and Dexie.js. Dexie stores data in IndexedDB locally and uses Dexie Cloud for sync, auth, and conflict resolution. A todo app example and a repository pattern demonstrate setup, sync configuration, and best practices.
 - [Unlocking Reading Insights: A Guide to Data Analysis with Claude and Readwise](https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/) 👤 Alexander Opalic 💬 1522 🗓️ 2025-09-26
     > **Резюме:** This blog post explains how to use Claude.ai's CSV analysis feature with Readwise data for better insights. It highlights the importance of crafting specific prompts to extract meaningful information and create visualizations. The tutorial also touches on the technical aspects of how Claude processes and analyzes the data.
-- [The Browser That Speaks 200 Languages: Building an AI Translator Without APIs](https://alexop.dev/posts/building-client-side-ai-translator-vue/) 👤 Alexander Opalic 💬 1247 🔖 #try, #vue, #webworkers 🗓️ 2025-09-26
-    > **Резюме:** This guide shows how to build a free offline AI translator for 200 languages using Vue and Transformers.js. It runs Meta’s NLLB-200 model locally in a Web Worker and streams translation updates. The app includes language selectors, a progress bar, and a simple Vue interface.
-- [Solving Prop Drilling in Vue: Modern State Management Strategies](https://alexop.dev/posts/solving-prop-drilling-in-vue/) 👤 Alexander Opalic 💬 798 🔖 #vue 🗓️ 2025-09-26
-    > **Резюме:** Prop drilling makes code brittle, hard to debug, and slow.  
-Use Pinia for app-wide state, composables for reusable logic, and provide/inject for scoped subtree sharing.  
-Avoid event buses and prefer typed, testable patterns with DevTools support.
 - [How to Do Visual Regression Testing in Vue with Vitest?](https://alexop.dev/posts/visual-regression-testing-with-vue-and-vitest-browser/) 👤 Alexander Opalic 💬 993 🔖 #vue, #vitest, #testing 🗓️ 2025-09-26
     > **Резюме:** Visual regression testing captures screenshots of Vue components and compares them to baseline images to catch unintended UI changes. Vitest’s experimental browser mode with Playwright renders stories in a real browser, takes screenshots, and compares them to baselines. It needs extra config and manual diff review, but helps keep the UI consistent and lets designers inspect changes.
-- [How to Use AI for Effective Diagram Creation: A Guide to ChatGPT and Mermaid](https://alexop.dev/posts/how-to-use-ai-for-effective-diagram-creation-a-guide-to-chatgpt-and-mermaid) 👤 Alexander Opalic 💬 297 🗓️ 2025-09-26
-    > **Резюме:** Combine ChatGPT and Mermaid to make diagrams fast.  
-ChatGPT converts descriptions into Mermaid code for flowcharts and sequence diagrams.  
-Edit in Mermaid Live Editor or VS Code and embed diagrams on web pages.
-- [Vibe Coding Is Making Programmers Dumber](https://nmn.gl/blog/vibe-coding-gambling?utm_source=tldrwebdev) 👤 namanyayg 💬 1399 🗓️ 2025-09-25
-    > **Резюме:** The author says AI that writes code is making programmers dumber.  
-It gives quick fixes instead of deep understanding, so people ship code they don't fully grasp.  
-He urges using AI intentionally: learn the output, keep practising, and let AI amplify thinking, not replace it.
-- [Why do software developers love complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html?utm_source=tldrwebdev) 👤 Kyrylo Silin 💬 808 🗓️ 2025-09-25
-    > **Резюме:** Software developers often create complex systems because complexity looks impressive and signals expertise. Marketing and team pressures encourage adding features and layers, even when simpler solutions work better. In the end, building clear and purposeful software is more valuable than piling on unnecessary complexity.
-- [React Won by Default – And It's Killing Frontend Innovation](https://www.lorenstew.art/blog/react-won-by-default/?utm_source=tldrwebdev) 👤 Your Name 💬 1545 🗓️ 2025-09-25
-    > **Резюме:** React is chosen by default, which blocks new and better frontend frameworks from growing. This limits innovation and makes developers spend time managing React’s complexities instead of building value. To improve, teams should pick tools based on their needs, not just what’s popular.
 - [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents) 👤 anthropic.com 💬 3022 🗓️ 2025-09-25
     > **Резюме:** Build and evaluate tools together with agents using prototypes and automated tests.  
 Use iterative agent feedback (e.g., Claude Code) to refine implementations and tool descriptions.  
@@ -90,24 +59,10 @@ Prefer clear, narrowly scoped tools that return useful, token‑efficient contex
     > **Резюме:** Trusting AI to write code isn't a yes-or-no choice; it depends on risk.  
 Assess three things: how likely AI is wrong, how bad the impact would be, and how easily you will detect mistakes.  
 Use that judgment to choose how much to review and what safeguards to add.
-- [Let the domain guide your application structure](https://rednafi.com/go/app_structure/) 👤 Redowan Delowar 💬 1181 🗓️ 2025-09-22
-    > **Резюме:** Let the domain, not the technology, guide your app's top-level structure.  
-Avoid generic packages like models or handlers that lump multiple domains together.  
-Give each domain its own package and have tech packages (http, postgres) depend on them and be wired in cmd.
 - [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/) 👤 Martin Fowler 💬 5715 🗓️ 2025-09-22
     > **Резюме:** The article discusses various patterns for building Generative AI (GenAI) products, including direct prompting, embeddings, and retrieval-augmented generation (RAG). It emphasizes the importance of evaluating LLM responses and using relevant document fragments to enhance the accuracy of the generated content. By combining different approaches, such as query rewriting and reranking, developers can improve the performance and relevance of LLM-based systems.
-- [Plaguenomics: The Social Recession We Can’t Escape](https://www.joanwestenberg.com/p/plaguenomics-the-social-recession-we-can-t-escape) 👤 JA Westenberg 💬 2562 🗓️ 2025-09-20
-    > **Резюме:** Plaguenomics is the post‑COVID collapse of social life and public trust.  
-Isolation, stagnant wages, and attention‑seeking algorithms made anger and polarization normal.  
-Without systematic fixes, this cycle will produce more violence and fragile democracies.
-- [Opening all the files that have been modified in a Git branch](https://alexwlchan.net/2025/review-files-in-text-editor/?ref=rss) 👤 alexwlchan.net 💬 522 🔖 #git 🗓️ 2025-09-19
-    > **Резюме:** This shows how to open every file changed in a Git branch in your local editor. Use git merge-base to find the branch point and git diff --name-only to list changed files. Pipe the list to xargs and open -a "Visual Studio Code" to open them all.
 - [How Google writes clean, maintainable code](https://engineercodex.substack.com/p/how-google-writes-clean-maintainable) 👤 Leo | Engineer's Codex 💬 1376 🗓️ 2025-09-18
     > **Резюме:** Google follows a process called Readability, which is a mentorship process for disseminating programming language best practices. Each pull request is reviewed for proper code style and best practices by a code readability approver. To earn readability, engineers must submit code to readability reviewers until they have adequate knowledge. This process helps keep the codebase readable, searchable, and predictable, and enforces best practices and style. However, there are drawbacks, such as potential velocity slowdown and human bias. The need for code quality is subjective and depends on the individual and team.
-- [Disposable Code Is Here to Stay, but Durable Code Is What Runs the World](https://www.honeycomb.io/blog/disposable-code-is-here-to-stay?utm_source=tldrwebdev) 👤 Honeycomb 💬 1844 🗓️ 2025-09-15
-    > **Резюме:** Software is splitting into disposable code and durable code.  
-Disposable code is cheap and short-lived; durable code must be reliable, maintainable, and trusted.  
-AI speeds creation but cannot replace the tests, observability, and careful rollouts durable systems need.
 - [Linking to text fragments with a bookmarklet](https://alexwlchan.net/2025/text-fragments-bookmarklet/?ref=rss) 👤 alexwlchan.net 💬 223 🗓️ 2025-09-15
     > **Резюме:** Text fragments let you link to and highlight specific text on a webpage. The author made a bookmarklet that builds the correct fragment URL from selected text. It makes sharing precise links much easier.
 - [Building a Simple Virtual Machine](https://blog.phakorn.com/posts/2025/building-a-simple-vm/) 👤 Phakorn Kiong 💬 2249 🗓️ 2025-09-15
@@ -198,14 +153,8 @@ Product teams must use continuous data, test real user trajectories, and accept 
 Organizations that think empirically and in probabilities will win the next era.
 - [The Difference Between a Post Flush Watcher and nextTick in Vue](https://michaelnthiessen.com/the-difference-between-a-post-flush-watcher-and-nexttick?ck_subscriber_id=2108193410&utm_campaign=The+Difference+Between+a+Post+Flush+Watcher+and+nextTick+in+Vue+-+18711361&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1110 🗓️ 2025-08-24
     > **Резюме:** A post-flush watcher and nextTick both wait until after the DOM updates. The only difference is timing: nextTick runs one microtask later and therefore runs after post-flush watchers. In practice this rarely matters unless you need a strict execution order.
-- [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/?utm_source=tldrwebdev) 👤 Kuba Suder 💬 8494 🔖 #bluesky 🗓️ 2025-08-24
-    > **Резюме:** Bluesky is built on the AT Protocol, which defines how data and social features work together. It uses specific lexicons for different functions, allowing both Bluesky and third-party apps to share data on the same network. Bluesky also offers custom feeds and a public API that lets users and developers create and use various social tools easily.
 - [What Learning React Won't Teach You: Image Formats](https://idiallo.com/blog/react-and-image-format?utm_source=tldrwebdev) 👤 Ibrahim Diallo 💬 1241 🗓️ 2025-08-24
     > **Резюме:** Image format choices have a huge impact on site speed and bandwidth. Use JPEG for photos, PNG for simple graphics and transparency, and SVG for scalable icons and logos. React guides often skip this, so developers unknowingly bloat apps and hurt user experience.
-- [My AI Had Already Fixed the Code Before I Saw It](mailto:reader-forwarded-email/ad2b90fe856ee487d1eee89442319202) 👤 Every 💬 2253 🗓️ 2025-08-24
-    > **Резюме:** Compounding engineering builds systems that learn from every bug, pull request, and code review so fixes become permanent.  
-The team uses Claude to write tests, iterate prompts, and store workflows in CLAUDE.md so the AI keeps improving automatically.  
-This turns one-off fixes into lasting automation that makes future work faster and safer.
 - [Instructor and Pydantic - Structured LLM outputs for easy data extraction!](https://www.youtube.com/watch?v=3xUW1Do9zOs) 👤 BugBytes 🗓️ 2025-08-23
     > **Резюме:** Instructor and Pydantic turn LLM text into structured data.  
 Read a PDF, extract its text, and send it to the model.  
@@ -235,10 +184,6 @@ This issue wraps up the Go & AI mini‑series and asks readers to take a short f
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
 - [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) 👤 Software Engineering & Personal Thoughts 💬 1511 🔖 #go 🗓️ 2025-08-04
     > **Резюме:** This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.
-- [Benchmarking MicroPython](https://blog.miguelgrinberg.com/post/benchmarking-micropython) 👤 Miguel Grinberg 💬 2096 🗓️ 2025-08-01
-    > **Резюме:** MicroPython runs much slower on microcontrollers than on laptops or Raspberry Pi computers. Different microcontrollers perform differently depending on the task, so speed varies. Despite being slow, microcontrollers are still very useful for many projects.
-- [Гайд по кастомизации vscode: тайлы и менеджеры горячих клавиш](https://www.youtube.com/watch?v=frZkPK_1Ui4) 👤 Никита Соболев 🗓️ 2025-07-30
-    > **Резюме:** Автор показывает, как настроить VSCode для удобной и быстрой работы с помощью тайлинговых менеджеров и горячих клавиш. Это помогает легко переключаться между приложениями и улучшает продуктивность. В следующих видео он расскажет, как минимизировать лишние элементы и сделать интерфейс проще.
 - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/) 👤 Simon Willison 💬 4839 🗓️ 2025-07-27
     > **Резюме:** Embeddings turn content like text or images into numbers that capture their meaning. They help computers find and compare similar information quickly. This technology powers tools like search engines and question-answering systems.
 - [From Async/Await to Virtual Threads](https://lucumr.pocoo.org/2025/7/26/virtual-threads/) 👤 Armin Ronacher 💬 1974 🗓️ 2025-07-27

@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
@@ -8,6 +8,8 @@
     > **Резюме:** Over-engineering happens when teams build complex systems for imaginary futures instead of solving real user problems. This adds cost, slows delivery, and makes systems fragile. Keep architecture simple, add complexity only when evidence demands it.
 - [What is "good taste" in software engineering?](https://seangoedecke.com/taste/) 👤 seangoedecke.com 💬 1835 🔖 #development, #architecture, #softwaredesign 🗓️ 2025-09-28
     > **Резюме:** Good taste in software engineering means choosing the right values for each project, not just having strong technical skills. It involves being flexible and understanding tradeoffs, rather than blindly following one approach. Engineers with good taste help projects succeed by adapting their decisions to fit the specific problems they face.
+- [Why do software developers love complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html?utm_source=tldrwebdev) 👤 Kyrylo Silin 💬 808 🔖 #softwaredesign 🗓️ 2025-09-25
+    > **Резюме:** Software developers often create complex systems because complexity looks impressive and signals expertise. Marketing and team pressures encourage adding features and layers, even when simpler solutions work better. In the end, building clear and purposeful software is more valuable than piling on unnecessary complexity.
 - [The Core Folder Anti-Pattern](https://ImproveAndRepeat.com/2025/09/the-core-folder-anti-pattern/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 918 🔖 #softwaredesign 🗓️ 2025-09-17
     > **Резюме:** A "core" folder often starts useful but quickly becomes a dumping ground. It mixes business logic and common utilities, causing duplication and messy structure. Fix it by limiting files, categorizing code, extracting reusable parts, and removing the core folder.
 - ['Make invalid states representable' considered harmful](https://seangoedecke.com/invalid-states/) 👤 seangoedecke.com 💬 2050 🔖 #softwaredesign 🗓️ 2025-09-08

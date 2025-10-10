@@ -1,10 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 840
+- Всего ссылок: 842
 
 ## Ссылки
 
-- [Five Years as a Startup CTO: How, Why, and Was It Worth It?](https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/?utm_source=tldrwebdev) 👤 gansbrest 💬 2692 🗓️ 2025-10-08
+- [Standard Package Layout](https://www.gobeyond.dev/standard-package-layout/) 👤 Ben Johnson 💬 2012 🗓️ 2025-10-09
+- [Don’t Build A General Purpose API To Power Your Own Front End](https://max.engineer/server-informed-ui) 👤 Max Chernyak 💬 1366 🗓️ 2025-10-09
 - [Build your Own Virtual Scroll - Part I](https://dev.to/adamklein/build-your-own-virtual-scroll-part-i-11ib) 👤 dev.to 💬 1065 🗓️ 2025-10-06
 - [JS DOM Manipulation Best Practices – with Examples](https://www.freecodecamp.org/news/dom-manipulation-best-practices/) 👤 Benjamin Semah 💬 1673 🗓️ 2025-10-06
 - [JavaScript Best Practices](https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/) 👤 The JetBrains Blog 💬 4273 🗓️ 2025-10-06
@@ -28,6 +29,7 @@
 - [JavaScript Tutorial with Three.js – 5 Projects for Beginners](https://www.youtube.com/watch?v=tPkJLnDqAKk) 👤 freeCodeCamp.org 🔖 #try, #three.js, #javascript 🗓️ 2025-08-28
 - [The Nature Of Software Development](https://readwise.io/reader/document_raw_content/282158585) 👤 Ron Jeffries, Michael Swaine 💬 24194 🔖 #book, #joyandcuriosity 🗓️ 2025-08-26
 - [Moving Objects in 3D Space](https://visualrambling.space/moving-objects-in-3d/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 829 🔖 #joyandcuriosity 🗓️ 2025-08-24
+- [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/?utm_source=tldrwebdev) 👤 Kuba Suder 💬 8494 🔖 #bluesky 🗓️ 2025-08-24
 - [Why Semantic Layers Matter — and How to Build One with DuckDB](https://motherduck.com/blog/semantic-layer-duckdb-tutorial/?utm_source=tldrwebdev) 👤 MotherDuck 💬 4235 🔖 #duckdb 🗓️ 2025-08-24
 - [An Interactive Guide to SVG Paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/?from=newsletter) 👤 Josh W. Comeau 💬 3508 🗓️ 2025-08-24
 - [Nuxt Tip: Accessing Pinia Store in Production Build](https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build) 👤 Michael Hoffmann 💬 86 🔖 #nuxt, #pinia 🗓️ 2025-08-14

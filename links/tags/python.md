@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 66
+- Всего ссылок: 67
 
 ## Ссылки
 
+- [Python 3.14 Is Here. How Fast Is It?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it) 👤 Miguel Grinberg 💬 2548 🔖 #toot, #python, #programming 🗓️ 2025-10-09
+    > **Заметка:** Мигель тестирует производительность нового релиза Питона
+    > **Резюме:** Python 3.14 is the fastest CPython tested.  
+The JIT gave little benefit on these scripts.  
+The free-threading build is much faster (2–3x) for CPU-bound multithreaded workloads but slower for single-threaded code.
 - [What's up Python? Astral never stops, JetBrains gives us insights](https://www.bitecode.dev/p/whats-up-python-astral-never-stops) 👤 Bite Code! 💬 2473 🔖 #python 🗓️ 2025-09-06
     > **Резюме:** Astral launched pyx and made uv a general Python installer that can shadow the user’s system Python.  
 The JetBrains survey shows Python is still the top choice for teaching and for data, web, and ML work, with FastAPI, pandas, scikit-learn, VSCode and PyCharm leading.  
