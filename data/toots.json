@@ -32,7 +32,8 @@
         "01k6f9rmhq0zy0sfkwxemj5f38",
         "01k714rda0b4t3shsz82fqb6xv",
         "01k73nmfkpwhtmc356rwnct7cx",
-        "01k62j88e860fj11r58fytgdkm"
+        "01k62j88e860fj11r58fytgdkm",
+        "01k768bw8k18hnrdbdqwe1vq4c"
     ],
     "toots": [
         {
@@ -232,6 +233,12 @@
             "document_title": "Solving Prop Drilling in Vue: Modern State Management Strategies",
             "source_url": "https://alexop.dev/posts/solving-prop-drilling-in-vue/",
             "toot_url": "https://fosstodon.org/@hazadus/115348581223939018"
+        },
+        {
+            "document_id": "01k768bw8k18hnrdbdqwe1vq4c",
+            "document_title": "Build your engineering team like a dungeon party",
+            "source_url": "https://newsletter.manager.dev/p/build-your-engineering-team-like?utm_source=tldrwebdev&triedRedirect=true",
+            "toot_url": "https://fosstodon.org/@hazadus/115354242126701063"
         }
     ]
 }
