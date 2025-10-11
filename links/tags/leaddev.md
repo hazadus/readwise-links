@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 19
+- Всего ссылок: 21
 
 ## Ссылки
 
+- [How to make your team read your mind](https://newsletter.manager.dev/p/how-to-make-your-team-read-your-mind) 👤 Anton Zaides 💬 1893 🔖 #leaddev, #management 🗓️ 2025-10-10
+    > **Резюме:** Anton Zaides emphasizes the importance of clear communication in managing a team by creating a "Manager's ReadMe" document. This document outlines his expectations and goals for the team, aiming to eliminate misunderstandings and improve collaboration. He encourages other managers to create their own versions to foster open dialogue and alignment within their teams.
+- [Build your engineering team like a dungeon party](https://newsletter.manager.dev/p/build-your-engineering-team-like?utm_source=tldrwebdev&triedRedirect=true) 👤 Anton Zaides 💬 1284 🔖 #toot, #leaddev, #management 🗓️ 2025-10-10
+    > **Заметка:** Классная аналогия формирования команды разработчиков 
+    > **Резюме:** Build a lasting five-person engineering team by assigning complementary roles, not just hiring the top coders. Mix specialists—warrior, wizard, healer—and reliable generalists—tank and rogue—to cover technical, people, and product needs. The EM’s job is to spot gaps, hire for them, and step in where needed.
 - [Seeing like a software company](https://seangoedecke.com/seeing-like-a-software-company/) 👤 seangoedecke.com 💬 3485 🔖 #leaddev, #estimation, #management, #development 🗓️ 2025-09-03
     > **Резюме:** Large software companies build processes to make work legible.  
 Legibility helps planning, coordination, and making deals but slows delivery.  

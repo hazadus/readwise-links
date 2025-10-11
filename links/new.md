@@ -4,8 +4,8 @@
 
 ## Ссылки
 
+- [A complete guide to HTTP caching](https://www.jonoalderson.com/performance/http-caching/) 👤 Jono Alderson 💬 9131 🔖 #http 🗓️ 2025-10-10
 - [Standard Package Layout](https://www.gobeyond.dev/standard-package-layout/) 👤 Ben Johnson 💬 2012 🗓️ 2025-10-09
-- [Don’t Build A General Purpose API To Power Your Own Front End](https://max.engineer/server-informed-ui) 👤 Max Chernyak 💬 1366 🗓️ 2025-10-09
 - [Build your Own Virtual Scroll - Part I](https://dev.to/adamklein/build-your-own-virtual-scroll-part-i-11ib) 👤 dev.to 💬 1065 🗓️ 2025-10-06
 - [JS DOM Manipulation Best Practices – with Examples](https://www.freecodecamp.org/news/dom-manipulation-best-practices/) 👤 Benjamin Semah 💬 1673 🗓️ 2025-10-06
 - [JavaScript Best Practices](https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/) 👤 The JetBrains Blog 💬 4273 🗓️ 2025-10-06

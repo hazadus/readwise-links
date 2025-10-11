@@ -1,10 +1,15 @@
 # Архивные ссылки
 
-- Всего ссылок: 1118
+- Всего ссылок: 1122
 
 ## Ссылки
 
+- [How to make your team read your mind](https://newsletter.manager.dev/p/how-to-make-your-team-read-your-mind) 👤 Anton Zaides 💬 1893 🔖 #leaddev, #management 🗓️ 2025-10-10
+- [Build your engineering team like a dungeon party](https://newsletter.manager.dev/p/build-your-engineering-team-like?utm_source=tldrwebdev&triedRedirect=true) 👤 Anton Zaides 💬 1284 🔖 #toot, #leaddev, #management 🗓️ 2025-10-10
+    > **Заметка:** Классная аналогия формирования команды разработчиков 
+- [Don’t Build A General Purpose API To Power Your Own Front End](https://max.engineer/server-informed-ui) 👤 Max Chernyak 💬 1366 🔖 #api 🗓️ 2025-10-09
 - [The Exhaustion of Permanent Disruption](https://www.joanwestenberg.com/p/the-exhaustion-of-permanent-disruption) 👤 JA Westenberg 💬 825 🗓️ 2025-10-09
+- [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/) 👤 hojberg.xyz 💬 2646 🔖 #llm, #programming 🗓️ 2025-10-09
 - [Now open for building: Introducing Gemini CLI extensions](https://blog.google/technology/developers/gemini-cli-extensions/) 👤 Taylor Mullen 💬 1065 🔖 #gemini 🗓️ 2025-10-09
 - [Python 3.14 Is Here. How Fast Is It?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it) 👤 Miguel Grinberg 💬 2548 🔖 #toot, #python, #programming 🗓️ 2025-10-09
     > **Заметка:** Мигель тестирует производительность нового релиза Питона

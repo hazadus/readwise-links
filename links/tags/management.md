@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 36
+- Всего ссылок: 38
 
 ## Ссылки
 
+- [How to make your team read your mind](https://newsletter.manager.dev/p/how-to-make-your-team-read-your-mind) 👤 Anton Zaides 💬 1893 🔖 #leaddev, #management 🗓️ 2025-10-10
+    > **Резюме:** Anton Zaides emphasizes the importance of clear communication in managing a team by creating a "Manager's ReadMe" document. This document outlines his expectations and goals for the team, aiming to eliminate misunderstandings and improve collaboration. He encourages other managers to create their own versions to foster open dialogue and alignment within their teams.
+- [Build your engineering team like a dungeon party](https://newsletter.manager.dev/p/build-your-engineering-team-like?utm_source=tldrwebdev&triedRedirect=true) 👤 Anton Zaides 💬 1284 🔖 #toot, #leaddev, #management 🗓️ 2025-10-10
+    > **Заметка:** Классная аналогия формирования команды разработчиков 
+    > **Резюме:** Build a lasting five-person engineering team by assigning complementary roles, not just hiring the top coders. Mix specialists—warrior, wizard, healer—and reliable generalists—tank and rogue—to cover technical, people, and product needs. The EM’s job is to spot gaps, hire for them, and step in where needed.
 - [Transitioning from being a developer to a manager](https://piccalil.li/blog/transitioning-from-being-a-developer-to-a-manager/?ref=main-rss-feed) 👤 Piccalilli 💬 1833 🔖 #career, #management 🗓️ 2025-09-24
     > **Резюме:** Being a manager means enabling others instead of doing the work yourself.  
 You must learn to delegate, listen, adapt your communication, and build trust.  

@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 46
+- Всего ссылок: 47
 
 ## Ссылки
 
+- [Nuxt Environment Overrides: Clean Config for Every Environment](https://masteringnuxt.com/blog/nuxt-environment-overrides-clean-config-for-every-environment?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 621 🔖 #nuxt 🗓️ 2025-10-10
+    > **Резюме:** Nuxt environment overrides let you cleanly define config for development, staging, testing, and production.  
+Overrides merge with a shared base so you avoid verbose NODE_ENV checks.  
+They use the c12 loader for flexible formats, smart merging, and hot-reload support.
 - [Nuxt UI v4](https://nuxt.com/blog/nuxt-ui-v4) 👤 Benjamin Canac 💬 803 🔖 #nuxt 🗓️ 2025-09-29
     > **Резюме:** Nuxt UI v4 merges Nuxt UI and Nuxt UI Pro into one free, open-source library with 110+ components and ready-made templates. It includes a complete Figma kit and clearer docs so designers and developers share the same system. Backed by Vercel and AI-ready, Nuxt UI v4 helps you build polished Vue and Nuxt apps faster.
 - [Atomic Architecture: Revolutionizing Vue and Nuxt Project Structure](https://alexop.dev/posts/atomic-design-vue-or-nuxt/) 👤 Alexander Opalic 💬 1176 🔖 #vue, #nuxt 🗓️ 2025-09-26
@@ -57,7 +61,7 @@ Links marked with * are affiliate links. I get a small commission when you regis
 - [Implementing Edge-Side Rendering (ESR) in Nuxt 3+ for Enhanced Performance](https://mokkapps.de/blog/implementing-esr-nuxt) 👤 Michael Hoffmann 💬 1473 🔖 #nuxt 🗓️ 2025-06-04
     > **Резюме:** Edge-Side Rendering (ESR) in Nuxt 3+ improves web performance by rendering content closer to users, reducing latency and load times. It allows applications to scale better by distributing the rendering workload across multiple edge servers. Using platforms like Cloudflare, Vercel, and Netlify, developers can easily implement ESR for faster and more responsive applications.
 - [21 Nuxt Tips You Need to Know](https://michaelnthiessen.com/21-nuxt-tips-you-need-to-know?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%94%A5+(216)+Component+design+patterns,+Nuxt%27s+new+data+layer,+and+more+-+17527805) 👤 michaelnthiessen.com 💬 3314 🔖 #nuxt 🗓️ 2025-05-17
-    > **Резюме:** I spent weeks scouring the Nuxt docs to uncover hidden gems — features you didn’t know it had, and ones that are simply easy to forget about.
+    > **Резюме:** This article lists 21 practical Nuxt tips for configuration, routing, fetch handling, error handling, testing, and component strategies. It shows examples for environment-specific configs, deduping fetches, private layers, NuxtLink, scroll behavior, custom error pages, and mocking imports. The tips help make Nuxt apps safer, faster, and easier to maintain.
 - [Compressing Images With Vite and Vsharp](https://masteringnuxt.com/blog/compressing-images-with-vite-and-vsharp?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(&utm_medium=email&utm_source=convertkit#214)%20Component%20Metadata,%20Smooth%20Dragging,%20and%20Conditionally%20Rendering%20Slots%20-%2017366125) 👤 masteringnuxt.com 💬 522 🔖 #nuxt, #vite 🗓️ 2025-05-17
     > **Резюме:** This article explains how to speed up web pages in Nuxt by compressing images. It demonstrates how to use the Vite plugin vsharp to automatically optimize images during the build process. By following simple steps, you can ensure your images are smaller and improve page load times.
 - [🔥 (215) Nuxt data fetching re-written: reactive keys, shared refs, and more](mailto:reader-forwarded-email/5624ceac0b93e90686a4b6c7eea5719d) 👤 Michael Thiessen 💬 1602 🔖 #nuxt 🗓️ 2025-05-04

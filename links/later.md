@@ -1,15 +1,19 @@
 # Отложенные ссылки
 
-- Всего ссылок: 83
+- Всего ссылок: 84
 
 ## Ссылки
 
-- [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/) 👤 hojberg.xyz 💬 2646 🗓️ 2025-10-09
-    > **Резюме:** Programming used to be a deep, creative craft focused on solving puzzles and understanding code. Now, AI tools risk turning programmers into mere operators, disconnected from their work and each other. This shift threatens to erase the skill, pride, and identity that made programming special.
+- [The least amount of CSS for a decent looking site](https://thecascade.dev/article/least-amount-of-css/?utm_source=tldrwebdev) 👤 Kevin Powell 💬 626 🔖 #css 🗓️ 2025-10-10
+    > **Резюме:** The article shows a tiny set of CSS rules that make a page look good without over-engineering. It fixes media overflow, improves typography, adds dark-mode support, and limits line length for readability. Use this minimal base as a simple starter to build from.
+- [Nuxt Environment Overrides: Clean Config for Every Environment](https://masteringnuxt.com/blog/nuxt-environment-overrides-clean-config-for-every-environment?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 621 🔖 #nuxt 🗓️ 2025-10-10
+    > **Резюме:** Nuxt environment overrides let you cleanly define config for development, staging, testing, and production.  
+Overrides merge with a shared base so you avoid verbose NODE_ENV checks.  
+They use the c12 loader for flexible formats, smart merging, and hot-reload support.
 - [A pragmatic guide to modern CSS colours - part one](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-one/?ref=main-rss-feed) 👤 Piccalilli 💬 3032 🔖 #css 🗓️ 2025-10-07
     > **Резюме:** CSS colour syntax has evolved to new, simpler forms like space-separated rgb() and hsl() and a slash for alpha. Relative colours let you base new colours on existing ones and easily change alpha. New colour functions and spaces (e.g., color(), oklch(), color-mix()) give more control and better results.
 - [Thank you for being annoying](https://www.experimental-history.com/p/thank-you-for-being-annoying?utm_source=substack&utm_medium=email) 👤 Adam Mastroianni 💬 2831 🔖 #joyandcuriosity 🗓️ 2025-10-05
-    > **Резюме:** OR: whack 'em if you got 'em
+    > **Резюме:** Автор рассуждает о природе любви и мотивации, утверждая, что истинная любовь и успех часто связаны с чувством раздражения и недовольства. Люди ошибочно полагают, что счастье заключается в отсутствии проблем, тогда как на самом деле удовольствие приходит именно от решения возникающих трудностей. Настоящая страсть и удовлетворение возникают, когда мы сталкиваемся с раздражающими факторами и способны их исправить.
 - [5 Core Distributed Concepts Every Developer Should Know](https://www.swequiz.com/blog/5-core-distributed-concepts-every-developer-should-know) 👤 swequiz.com 💬 2261 🗓️ 2025-10-05
     > **Резюме:** Distributed systems are crucial for modern applications, and developers should understand five core concepts to build and troubleshoot them effectively. Key principles include the CAP Theorem, fault tolerance, and strategies for reducing latency. By grasping these concepts, developers can create resilient and scalable applications.
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/?utm_source=tldrwebdev) 👤 kunststube.net 💬 6587 🗓️ 2025-10-02

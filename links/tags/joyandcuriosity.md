@@ -9,7 +9,7 @@
 He’s grateful to colleagues and nervous about unfinished work, but ready to move on.  
 He will live in Tokyo, study Japanese and deep topics, raise a puppy, build small apps, and enjoy more free time.
 - [Thank you for being annoying](https://www.experimental-history.com/p/thank-you-for-being-annoying?utm_source=substack&utm_medium=email) 👤 Adam Mastroianni 💬 2831 🔖 #joyandcuriosity 🗓️ 2025-10-05
-    > **Резюме:** OR: whack 'em if you got 'em
+    > **Резюме:** Автор рассуждает о природе любви и мотивации, утверждая, что истинная любовь и успех часто связаны с чувством раздражения и недовольства. Люди ошибочно полагают, что счастье заключается в отсутствии проблем, тогда как на самом деле удовольствие приходит именно от решения возникающих трудностей. Настоящая страсть и удовлетворение возникают, когда мы сталкиваемся с раздражающими факторами и способны их исправить.
 - [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/?utm_source=tldrwebdev) 👤 refactoringenglish.com 💬 3027 🔖 #joyandcuriosity 🗓️ 2025-10-02
     > **Резюме:** The author lists a few influential software essays that changed how they think about building software. These essays taught them to respect developers, prefer simple stable tools, and use language features (like types) to reduce bugs. Overall, the pieces made them value practical decisions over hype.
 - [Libghostty Is Coming](https://mitchellh.com/writing/libghostty-is-coming?utm_source=substack&utm_medium=email) 👤 Mitchell Hashimoto 💬 1439 🔖 #joyandcuriosity 🗓️ 2025-09-28

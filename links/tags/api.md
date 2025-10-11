@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [Don’t Build A General Purpose API To Power Your Own Front End](https://max.engineer/server-informed-ui) 👤 Max Chernyak 💬 1366 🔖 #api 🗓️ 2025-10-09
+    > **Резюме:** The author argues against designing a general-purpose API to power one's own front end. They claim that it is unnecessary and introduces a number of challenges in terms of designing, testing, and changing the API. Instead, they suggest treating the front end as a half of the app and sending it a whole "page" worth of JSON. They argue that this approach frees up the front-end team to focus on presentation and UI, while the backend team can focus on implementing exactly what is needed.
 - [Everything I know about good API design](https://seangoedecke.com/good-api-design/) 👤 seangoedecke.com 💬 3865 🔖 #api, #toot, #webdev, #programming 🗓️ 2025-08-25
     > **Заметка:** Советы по разработке публичных API от Шона. Рекомендую почитать все его посты, очень глубокий материал!
     > **Резюме:** Good APIs are boring, simple, and familiar so developers can use them without thinking.  

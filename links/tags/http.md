@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [A complete guide to HTTP caching](https://www.jonoalderson.com/performance/http-caching/) 👤 Jono Alderson 💬 9131 🔖 #http 🗓️ 2025-10-10
+    > **Резюме:** Caching is a layered ecosystem (browsers, CDNs, proxies, apps) that speeds the web but is often misunderstood.  
+HTTP headers like Cache-Control, ETag, and Age guide caching, but intermediaries and browsers add their own rules and heuristics.  
+A clear caching strategy balances freshness vs. performance to make sites faster, cheaper, and more reliable.
 - [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/) 👤 August 8 💬 1561 🔖 #http, #toot, #network, #programming 🗓️ 2025-08-08
     > **Заметка:** Мейнтейнер curl рассказывет о трудностях реализации HTTP
     > **Резюме:** HTTP looks simple but is actually very complex, especially when fully implemented. The protocol has many tricky details, extra features, and evolving standards that make it hard to get right. Over time, HTTP has grown more complicated and will likely become even more so in the future.

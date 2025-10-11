@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 33
+- Всего ссылок: 34
 
 ## Ссылки
 
+- [Build your engineering team like a dungeon party](https://newsletter.manager.dev/p/build-your-engineering-team-like?utm_source=tldrwebdev&triedRedirect=true) 👤 Anton Zaides 💬 1284 🔖 #toot, #leaddev, #management 🗓️ 2025-10-10
+    > **Заметка:** Классная аналогия формирования команды разработчиков 
+    > **Резюме:** Build a lasting five-person engineering team by assigning complementary roles, not just hiring the top coders. Mix specialists—warrior, wizard, healer—and reliable generalists—tank and rogue—to cover technical, people, and product needs. The EM’s job is to spot gaps, hire for them, and step in where needed.
 - [Python 3.14 Is Here. How Fast Is It?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it) 👤 Miguel Grinberg 💬 2548 🔖 #toot, #python, #programming 🗓️ 2025-10-09
     > **Заметка:** Мигель тестирует производительность нового релиза Питона
     > **Резюме:** Python 3.14 is the fastest CPython tested.  

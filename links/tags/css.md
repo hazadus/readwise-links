@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 16
+- Всего ссылок: 17
 
 ## Ссылки
 
+- [The least amount of CSS for a decent looking site](https://thecascade.dev/article/least-amount-of-css/?utm_source=tldrwebdev) 👤 Kevin Powell 💬 626 🔖 #css 🗓️ 2025-10-10
+    > **Резюме:** The article shows a tiny set of CSS rules that make a page look good without over-engineering. It fixes media overflow, improves typography, adds dark-mode support, and limits line length for readability. Use this minimal base as a simple starter to build from.
 - [A pragmatic guide to modern CSS colours - part one](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-one/?ref=main-rss-feed) 👤 Piccalilli 💬 3032 🔖 #css 🗓️ 2025-10-07
     > **Резюме:** CSS colour syntax has evolved to new, simpler forms like space-separated rgb() and hsl() and a slash for alpha. Relative colours let you base new colours on existing ones and easily change alpha. New colour functions and spaces (e.g., color(), oklch(), color-mix()) give more control and better results.
 - [Automatically Generate AI Chat Titles with Animation in Nuxt](https://masteringnuxt.com/blog/automatically-generate-ai-chat-titles-with-animation-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(236)+Hidden+Nuxt+Gems,+and+a+simpler+way+to+pass+lots+of+props+-+19098320&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 1150 🔖 #css, #nuxt 🗓️ 2025-09-25

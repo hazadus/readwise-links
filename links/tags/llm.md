@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 256
+- Всего ссылок: 257
 
 ## Ссылки
 
+- [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/) 👤 hojberg.xyz 💬 2646 🔖 #llm, #programming 🗓️ 2025-10-09
+    > **Резюме:** Programming used to be a deep, creative craft focused on solving puzzles and understanding code. Now, AI tools risk turning programmers into mere operators, disconnected from their work and each other. This shift threatens to erase the skill, pride, and identity that made programming special.
 - [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything) 👤 Simon Willison 💬 1224 🔖 #llm, #toot, #programming 🗓️ 2025-10-08
     > **Заметка:** Саймон предлагает новый термин для обозначения ответственной разработки с LLM. В посте приведены очень правильные практики.
     > **Резюме:** Simon Willison argues for "vibe engineering" — a disciplined way senior engineers use LLMs and coding agents while staying fully accountable for production software. It requires strong testing, planning, documentation, version control, QA, and review practices. AI tools amplify existing engineering skills rather than replace them.

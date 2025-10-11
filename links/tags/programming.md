@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 26
+- Всего ссылок: 27
 
 ## Ссылки
 
+- [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/) 👤 hojberg.xyz 💬 2646 🔖 #llm, #programming 🗓️ 2025-10-09
+    > **Резюме:** Programming used to be a deep, creative craft focused on solving puzzles and understanding code. Now, AI tools risk turning programmers into mere operators, disconnected from their work and each other. This shift threatens to erase the skill, pride, and identity that made programming special.
 - [Python 3.14 Is Here. How Fast Is It?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it) 👤 Miguel Grinberg 💬 2548 🔖 #toot, #python, #programming 🗓️ 2025-10-09
     > **Заметка:** Мигель тестирует производительность нового релиза Питона
     > **Резюме:** Python 3.14 is the fastest CPython tested.  
