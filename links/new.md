@@ -1,9 +1,14 @@
 # Новые ссылки
 
-- Всего ссылок: 842
+- Всего ссылок: 847
 
 ## Ссылки
 
+- [An MVCC-like columnar table on S3 with constant-time deletes](https://simonwillison.net/2025/Oct/11/mvcc-s3/#atom-everything) 👤 Simon Willison 💬 278 🗓️ 2025-10-11
+- [simonw/claude-skills](https://simonwillison.net/2025/Oct/10/claude-skills/#atom-everything) 👤 Simon Willison 💬 388 🗓️ 2025-10-11
+- [Superpowers: How I'm using coding agents in October 2025](https://blog.fsck.com/2025/10/09/superpowers/) 👤 fsck.com 💬 2112 🗓️ 2025-10-11
+- [There is Only One Hack: Do it for a Decade.](https://www.joanwestenberg.com/p/there-is-only-one-hack-do-it-for-a-decade) 👤 JA Westenberg 💬 636 🗓️ 2025-10-11
+- [A new breed of analyzers](https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/) 👤 October 10 💬 2533 🗓️ 2025-10-11
 - [A complete guide to HTTP caching](https://www.jonoalderson.com/performance/http-caching/) 👤 Jono Alderson 💬 9131 🔖 #http 🗓️ 2025-10-10
 - [Standard Package Layout](https://www.gobeyond.dev/standard-package-layout/) 👤 Ben Johnson 💬 2012 🗓️ 2025-10-09
 - [Build your Own Virtual Scroll - Part I](https://dev.to/adamklein/build-your-own-virtual-scroll-part-i-11ib) 👤 dev.to 💬 1065 🗓️ 2025-10-06

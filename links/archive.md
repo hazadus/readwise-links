@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1122
+- Всего ссылок: 1123
 
 ## Ссылки
 
+- [Superpowers: How I'm using coding agents in October 2025](https://simonwillison.net/2025/Oct/10/superpowers/#atom-everything) 👤 Simon Willison 💬 408 🔖 #llm, #claude 🗓️ 2025-10-11
 - [How to make your team read your mind](https://newsletter.manager.dev/p/how-to-make-your-team-read-your-mind) 👤 Anton Zaides 💬 1893 🔖 #leaddev, #management 🗓️ 2025-10-10
 - [Build your engineering team like a dungeon party](https://newsletter.manager.dev/p/build-your-engineering-team-like?utm_source=tldrwebdev&triedRedirect=true) 👤 Anton Zaides 💬 1284 🔖 #toot, #leaddev, #management 🗓️ 2025-10-10
     > **Заметка:** Классная аналогия формирования команды разработчиков 

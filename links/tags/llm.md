@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 257
+- Всего ссылок: 258
 
 ## Ссылки
 
+- [Superpowers: How I'm using coding agents in October 2025](https://simonwillison.net/2025/Oct/10/superpowers/#atom-everything) 👤 Simon Willison 💬 408 🔖 #llm, #claude 🗓️ 2025-10-11
+    > **Резюме:** Simon Willison describes how Jesse Vincent uses Claude Code coding agents and released a plugin called Superpowers. The plugin bundles many practical skills, like root-cause tracing with Graphviz workflows. Willison recommends exploring Jesse’s repository to learn effective agent workflows.
 - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/) 👤 hojberg.xyz 💬 2646 🔖 #llm, #programming 🗓️ 2025-10-09
     > **Резюме:** Programming used to be a deep, creative craft focused on solving puzzles and understanding code. Now, AI tools risk turning programmers into mere operators, disconnected from their work and each other. This shift threatens to erase the skill, pride, and identity that made programming special.
 - [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything) 👤 Simon Willison 💬 1224 🔖 #llm, #toot, #programming 🗓️ 2025-10-08
