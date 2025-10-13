@@ -1,9 +1,13 @@
 # Новые ссылки
 
-- Всего ссылок: 847
+- Всего ссылок: 851
 
 ## Ссылки
 
+- [Multi-Core By Default](https://www.rfleury.com/p/multi-core-by-default?utm_source=substack&utm_medium=email) 👤 Ryan Fleury 💬 8120 🔖 #joyandcuriosity 🗓️ 2025-10-12
+- [How I provide technical clarity to non-technical leaders](https://seangoedecke.com/clarity/) 👤 seangoedecke.com 💬 2181 🗓️ 2025-10-12
+- [Claude Code sub-agents](https://simonwillison.net/2025/Oct/11/sub-agents/#atom-everything) 👤 Simon Willison 💬 295 🗓️ 2025-10-12
+- [Vibing a Non-Trivial Ghostty Feature](https://simonwillison.net/2025/Oct/11/vibing-a-non-trivial-ghostty-feature/#atom-everything) 👤 Simon Willison 💬 477 🗓️ 2025-10-12
 - [An MVCC-like columnar table on S3 with constant-time deletes](https://simonwillison.net/2025/Oct/11/mvcc-s3/#atom-everything) 👤 Simon Willison 💬 278 🗓️ 2025-10-11
 - [simonw/claude-skills](https://simonwillison.net/2025/Oct/10/claude-skills/#atom-everything) 👤 Simon Willison 💬 388 🗓️ 2025-10-11
 - [Superpowers: How I'm using coding agents in October 2025](https://blog.fsck.com/2025/10/09/superpowers/) 👤 fsck.com 💬 2112 🗓️ 2025-10-11

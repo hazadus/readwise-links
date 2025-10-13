@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 32
+- Всего ссылок: 33
 
 ## Ссылки
 
+- [Multi-Core By Default](https://www.rfleury.com/p/multi-core-by-default?utm_source=substack&utm_medium=email) 👤 Ryan Fleury 💬 8120 🔖 #joyandcuriosity 🗓️ 2025-10-12
+    > **Резюме:** The author argues we should write code assuming multiple CPU cores by default, keeping multi-core constructs simple and similar to single-threaded code.  
+Use per-thread scopes, simple barriers, and shared arrays so work divides cleanly without heavy kernel or job-system overhead.  
+Callers can control how many cores to use, making parallelism cheap, predictable, and easy to debug.
 - [Onward](https://domenic.me/retirement/?utm_source=substack&utm_medium=email) 👤 Domenic Denicola 💬 838 🔖 #joyandcuriosity 🗓️ 2025-10-05
     > **Резюме:** After 11 years on Chrome, he has retired from Google.  
 He’s grateful to colleagues and nervous about unfinished work, but ready to move on.  
