@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 33
+- Всего ссылок: 34
 
 ## Ссылки
 
+- [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) 👤 Mitchell Hashimoto 💬 3285 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-13
+    > **Резюме:** Mitchell Hashimoto used AI agents heavily to design, implement, and polish a non-trivial macOS auto-update feature for Ghostty. He iterated between agent work and manual cleanup, fixing a view-model bug and improving UX through simulations. He shares full agent sessions to teach effective, responsible AI-assisted development.
 - [Multi-Core By Default](https://www.rfleury.com/p/multi-core-by-default?utm_source=substack&utm_medium=email) 👤 Ryan Fleury 💬 8120 🔖 #joyandcuriosity 🗓️ 2025-10-12
     > **Резюме:** The author argues we should write code assuming multiple CPU cores by default, keeping multi-core constructs simple and similar to single-threaded code.  
 Use per-thread scopes, simple barriers, and shared arrays so work divides cleanly without heavy kernel or job-system overhead.  

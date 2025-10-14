@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 229
+- Всего ссылок: 230
 
 ## Ссылки
 
+- [Literate Scripting • The Applied Go Weekly Newsletter 2025-10-12](https://newsletter.appliedgo.net/archive/2025-10-12-literate-scripting-go-in-atuin-runbooks/) 👤 The Applied Go Weekly Newsletter 💬 1140 🔖 #go 🗓️ 2025-10-13
+    > **Резюме:** The newsletter highlights using Go for scripting, showing how Yaegi lets Go run inside Atuin Runbooks like Jupyter notebooks. It notes Go tools and releases, including security updates in Go 1.25.2/1.24.8 and a Cloudflare arm64 compiler bug fix. The author links to articles, projects, and learning resources for Go developers.
 - [Enjoy The Flight! • The Applied Go Weekly Newsletter 2025-09-28](https://newsletter.appliedgo.net/archive/2025-09-28-enjoy-the-flight/) 👤 The Applied Go Weekly Newsletter 💬 1180 🔖 #go 🗓️ 2025-10-02
     > **Резюме:** The Applied Go Weekly shares recent Go news, tools, and ideas. The author is simplifying the newsletter schedule and pausing a long Spotlight series to focus on shipping issues. Highlights include new Go tooling (troubleshooting, hashers), talks, and useful projects.
 - [Gist of Go: Atomics](https://antonz.org/go-concurrency/atomics/) 👤 Anton Zhiyanov 💬 1681 🔖 #go 🗓️ 2025-09-30

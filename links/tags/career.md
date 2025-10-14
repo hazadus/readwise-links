@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 61
+- Всего ссылок: 62
 
 ## Ссылки
 
+- [There is Only One Hack: Do it for a Decade.](https://www.joanwestenberg.com/p/there-is-only-one-hack-do-it-for-a-decade) 👤 JA Westenberg 💬 636 🔖 #toot, #career, #learning, #time management 🗓️ 2025-10-11
+    > **Заметка:** "Working hard is fine, but framing it as a sprint suggests that achievement is about peak intensity rather than sustained presence. Six months of grinding is easy compared to six years of showing up. Anyone can do a hard sprint. What's tough: maintaining your focus when the initial excitement has worn off and you're in year three of a project with no clear end in sight."
+    > **Резюме:** People chase quick productivity hacks but they only work briefly. Real results come from years of steady, boring work and showing up. Skip the shortcuts and build patience to keep working for a decade.
 - [How to influence tech company politics as a staff software engineer](https://seangoedecke.com/how-to-influence-politics/) 👤 seangoedecke.com 💬 1215 🔖 #career 🗓️ 2025-10-05
     > **Резюме:** Software engineers often feel powerless in company politics because decisions are made by executives with private information and political power. To influence outcomes, engineers should align their projects with current company priorities and support high-profile initiatives. Preparing multiple technical plans for different organizational needs helps engineers gain political capital and achieve their goals.
 - [No Fluff Please](https://yusufaytas.com/no-fluff-please/) 👤 https://www.facebook.com/yusufaytas 💬 734 🔖 #cv, #career 🗓️ 2025-10-04

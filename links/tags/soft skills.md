@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [How I provide technical clarity to non-technical leaders](https://seangoedecke.com/clarity/) 👤 seangoedecke.com 💬 2181 🔖 #soft skills, #communication 🗓️ 2025-10-12
+    > **Резюме:** My job as a staff engineer is to give non-technical leaders a clear, practical understanding of our software.  
+That means simplifying complex tradeoffs, saying what’s possible, impossible, and risky, and keeping needless technical caveats to myself.  
+Engineers who won’t commit to useful answers abdicate their duty and make the organization worse.
 - [Good Engineer/Bad Engineer](https://terriblesoftware.org/2025/06/13/good-engineer-bad-engineer/) 👤 Terrible Software 💬 524 🔖 #career, #development, #inspiration, #soft skills 🗓️ 2025-06-14
     > **Резюме:** Good engineers focus on delivering value and solving problems, while bad engineers get lost in complexity and personal achievements. They prioritize collaboration and learning over isolated perfectionism, and they know when to say no to maintain focus. Ultimately, effectiveness comes from making progress, not from striving for perfection.
 - [Say "but yes", not "yes but"](https://seangoedecke.com/but-yes-not-yes-but/) 👤 seangoedecke.com 💬 537 🔖 #soft skills, #communication 🗓️ 2025-06-14

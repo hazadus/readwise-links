@@ -1,18 +1,12 @@
 # Новые ссылки
 
-- Всего ссылок: 851
+- Всего ссылок: 845
 
 ## Ссылки
 
-- [Multi-Core By Default](https://www.rfleury.com/p/multi-core-by-default?utm_source=substack&utm_medium=email) 👤 Ryan Fleury 💬 8120 🔖 #joyandcuriosity 🗓️ 2025-10-12
-- [How I provide technical clarity to non-technical leaders](https://seangoedecke.com/clarity/) 👤 seangoedecke.com 💬 2181 🗓️ 2025-10-12
-- [Claude Code sub-agents](https://simonwillison.net/2025/Oct/11/sub-agents/#atom-everything) 👤 Simon Willison 💬 295 🗓️ 2025-10-12
-- [Vibing a Non-Trivial Ghostty Feature](https://simonwillison.net/2025/Oct/11/vibing-a-non-trivial-ghostty-feature/#atom-everything) 👤 Simon Willison 💬 477 🗓️ 2025-10-12
-- [An MVCC-like columnar table on S3 with constant-time deletes](https://simonwillison.net/2025/Oct/11/mvcc-s3/#atom-everything) 👤 Simon Willison 💬 278 🗓️ 2025-10-11
-- [simonw/claude-skills](https://simonwillison.net/2025/Oct/10/claude-skills/#atom-everything) 👤 Simon Willison 💬 388 🗓️ 2025-10-11
-- [Superpowers: How I'm using coding agents in October 2025](https://blog.fsck.com/2025/10/09/superpowers/) 👤 fsck.com 💬 2112 🗓️ 2025-10-11
-- [There is Only One Hack: Do it for a Decade.](https://www.joanwestenberg.com/p/there-is-only-one-hack-do-it-for-a-decade) 👤 JA Westenberg 💬 636 🗓️ 2025-10-11
-- [A new breed of analyzers](https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/) 👤 October 10 💬 2533 🗓️ 2025-10-11
+- [The Illusion of Independent Thought](https://www.joanwestenberg.com/p/the-illusion-of-independent-thought) 👤 JA Westenberg 💬 1126 🗓️ 2025-10-13
+- [Literate Scripting • The Applied Go Weekly Newsletter 2025-10-12](https://newsletter.appliedgo.net/archive/2025-10-12-literate-scripting-go-in-atuin-runbooks/) 👤 The Applied Go Weekly Newsletter 💬 1140 🔖 #go 🗓️ 2025-10-13
+- [Python 3.14 - What didn't make the headlines](https://www.bitecode.dev/p/python-314-what-didnt-make-the-headlines?r=28tjlb&amp%3Butm_campaign=post&amp%3Butm_medium=web&triedRedirect=true) 👤 Bite Code! 💬 183 🗓️ 2025-10-13
 - [A complete guide to HTTP caching](https://www.jonoalderson.com/performance/http-caching/) 👤 Jono Alderson 💬 9131 🔖 #http 🗓️ 2025-10-10
 - [Standard Package Layout](https://www.gobeyond.dev/standard-package-layout/) 👤 Ben Johnson 💬 2012 🗓️ 2025-10-09
 - [Build your Own Virtual Scroll - Part I](https://dev.to/adamklein/build-your-own-virtual-scroll-part-i-11ib) 👤 dev.to 💬 1065 🗓️ 2025-10-06

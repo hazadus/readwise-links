@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [How I provide technical clarity to non-technical leaders](https://seangoedecke.com/clarity/) 👤 seangoedecke.com 💬 2181 🔖 #soft skills, #communication 🗓️ 2025-10-12
+    > **Резюме:** My job as a staff engineer is to give non-technical leaders a clear, practical understanding of our software.  
+That means simplifying complex tradeoffs, saying what’s possible, impossible, and risky, and keeping needless technical caveats to myself.  
+Engineers who won’t commit to useful answers abdicate their duty and make the organization worse.
 - [Say "but yes", not "yes but"](https://seangoedecke.com/but-yes-not-yes-but/) 👤 seangoedecke.com 💬 537 🔖 #soft skills, #communication 🗓️ 2025-06-14
     > **Резюме:** Instead of saying "yes, but," try saying "but yes" when agreeing with someone. This small change in phrasing can create a more positive tone and improve your communication. Ending on a positive note helps foster a better atmosphere, especially in collaborative environments like software projects.
 - [Arguing point-by-point considered harmful](https://seangoedecke.com/point-by-point-considered-harmful/) 👤 seangoedecke.com 💬 1845 🔖 #soft skills, #communication 🗓️ 2025-06-07

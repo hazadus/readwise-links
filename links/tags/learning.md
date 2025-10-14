@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 25
+- Всего ссылок: 26
 
 ## Ссылки
 
+- [There is Only One Hack: Do it for a Decade.](https://www.joanwestenberg.com/p/there-is-only-one-hack-do-it-for-a-decade) 👤 JA Westenberg 💬 636 🔖 #toot, #career, #learning, #time management 🗓️ 2025-10-11
+    > **Заметка:** "Working hard is fine, but framing it as a sprint suggests that achievement is about peak intensity rather than sustained presence. Six months of grinding is easy compared to six years of showing up. Anyone can do a hard sprint. What's tough: maintaining your focus when the initial excitement has worn off and you're in year three of a project with no clear end in sight."
+    > **Резюме:** People chase quick productivity hacks but they only work briefly. Real results come from years of steady, boring work and showing up. Skip the shortcuts and build patience to keep working for a decade.
 - [Dev Culture Is Dying The Curious Developer Is Gone](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/) 👤 Dayvi Schuster 💬 2598 🔖 #toot, #learning, #inspiration, #programming 🗓️ 2025-10-01
     > **Заметка:** "Software development is a unique craft, it’s equal parts creative and equal parts engineering, two opposing forces that when combined can create something truly amazing. Fight the temptation to add marketing into the mix and dilute the craft with it."
     > **Резюме:** Developer culture has shifted from curiosity and tinkering to chasing metrics and growth. This change stifles creativity and produces bland, revenue-driven software. The author urges developers to reclaim time for curious, personal projects that spark real innovation.
