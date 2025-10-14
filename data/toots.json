@@ -33,7 +33,8 @@
         "01k714rda0b4t3shsz82fqb6xv",
         "01k73nmfkpwhtmc356rwnct7cx",
         "01k62j88e860fj11r58fytgdkm",
-        "01k768bw8k18hnrdbdqwe1vq4c"
+        "01k768bw8k18hnrdbdqwe1vq4c",
+        "01k7a31vzbxzf9913gzvyf2wsm"
     ],
     "toots": [
         {
@@ -239,6 +240,12 @@
             "document_title": "Build your engineering team like a dungeon party",
             "source_url": "https://newsletter.manager.dev/p/build-your-engineering-team-like?utm_source=tldrwebdev&triedRedirect=true",
             "toot_url": "https://fosstodon.org/@hazadus/115354242126701063"
+        },
+        {
+            "document_id": "01k7a31vzbxzf9913gzvyf2wsm",
+            "document_title": "There is Only One Hack: Do it for a Decade.",
+            "source_url": "https://www.joanwestenberg.com/p/there-is-only-one-hack-do-it-for-a-decade",
+            "toot_url": "https://fosstodon.org/@hazadus/115371228871506662"
         }
     ]
 }
