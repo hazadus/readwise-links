@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [Don't Sleep on AbortController](https://kettanaito.com/blog/dont-sleep-on-abort-controller) 👤 kettanaito.com 💬 45 🔖 #javascript 🗓️ 2025-10-14
+    > **Резюме:** The article discusses the importance of using AbortController in managing asynchronous tasks in JavaScript. It highlights how this tool helps prevent memory leaks and improves performance by canceling ongoing operations. The author emphasizes that understanding and utilizing AbortController can enhance coding practices.
+- [How to group arrays in JavaScript without reduce()](https://allthingssmitty.com/2025/10/06/grouping-arrays-in-modern-javascript-object-groupby-and-map-groupby/) 👤 https://allthingssmitty.com/about/ 💬 810 🔖 #javascript 🗓️ 2025-10-14
+    > **Резюме:** JavaScript now has Object.groupBy() and Map.groupBy() to group array items without reduce(). Object.groupBy() returns plain objects with string keys and is JSON-serializable. Map.groupBy() allows non-string keys and preserves insertion order.
 - [A spreadsheet in 60 lines of Javascript](https://lhorie.github.io/mithril-blog/a-spreadsheet-in-60-lines-of-javascript.html) 👤 lhorie.github.io 💬 2027 🔖 #diy, #javascript 🗓️ 2025-10-06
     > **Резюме:** A tiny spreadsheet is implemented in ~30 lines of vanilla JavaScript and ported to Mithril. It stores cell strings or formulas as "computable" objects that evaluate via valueOf, enabling reactive calculations and saving to localStorage. The UI shows raw formulas and computed values, keeping model-view updates simple and concise.
 - [Крошечный Excel на чистом JavaScript (30 строк кода)](https://habr.com/ru/articles/202304/) 👤 zag2art 💬 794 🔖 #diy, #javascript 🗓️ 2025-10-06

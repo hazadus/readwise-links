@@ -1,9 +1,13 @@
 # Новые ссылки
 
-- Всего ссылок: 845
+- Всего ссылок: 849
 
 ## Ссылки
 
+- [Engineering velocity on steroids](https://newsletter.manager.dev/p/what-a-10x-team-looks-like) 👤 Anton Zaides 💬 2074 🗓️ 2025-10-14
+- [Don't Sleep on AbortController](https://kettanaito.com/blog/dont-sleep-on-abort-controller) 👤 kettanaito.com 💬 45 🔖 #javascript 🗓️ 2025-10-14
+- [How to group arrays in JavaScript without reduce()](https://allthingssmitty.com/2025/10/06/grouping-arrays-in-modern-javascript-object-groupby-and-map-groupby/) 👤 https://allthingssmitty.com/about/ 💬 810 🔖 #javascript 🗓️ 2025-10-14
+- [The fashion industry that is tech](https://www.baldurbjarnason.com/2025/the-fashion-that-is-tech/) 👤 baldurbjarnason.com 💬 1016 🗓️ 2025-10-14
 - [The Illusion of Independent Thought](https://www.joanwestenberg.com/p/the-illusion-of-independent-thought) 👤 JA Westenberg 💬 1126 🗓️ 2025-10-13
 - [Literate Scripting • The Applied Go Weekly Newsletter 2025-10-12](https://newsletter.appliedgo.net/archive/2025-10-12-literate-scripting-go-in-atuin-runbooks/) 👤 The Applied Go Weekly Newsletter 💬 1140 🔖 #go 🗓️ 2025-10-13
 - [Python 3.14 - What didn't make the headlines](https://www.bitecode.dev/p/python-314-what-didnt-make-the-headlines?r=28tjlb&amp%3Butm_campaign=post&amp%3Butm_medium=web&triedRedirect=true) 👤 Bite Code! 💬 183 🗓️ 2025-10-13
