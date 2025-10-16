@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 85
+- Всего ссылок: 87
 
 ## Ссылки
 
+- [Don't Sleep on AbortController](https://kettanaito.com/blog/dont-sleep-on-abort-controller) 👤 kettanaito.com 💬 45 🔖 #javascript 🗓️ 2025-10-14
+    > **Резюме:** The article discusses the importance of using AbortController in managing asynchronous tasks in JavaScript. It highlights how this tool helps prevent memory leaks and improves performance by canceling ongoing operations. The author emphasizes that understanding and utilizing AbortController can enhance coding practices.
+- [How to group arrays in JavaScript without reduce()](https://allthingssmitty.com/2025/10/06/grouping-arrays-in-modern-javascript-object-groupby-and-map-groupby/) 👤 https://allthingssmitty.com/about/ 💬 810 🔖 #javascript 🗓️ 2025-10-14
+    > **Резюме:** JavaScript now has Object.groupBy() and Map.groupBy() to group array items without reduce(). Object.groupBy() returns plain objects with string keys and is JSON-serializable. Map.groupBy() allows non-string keys and preserves insertion order.
 - [Multi-Core By Default](https://www.rfleury.com/p/multi-core-by-default?utm_source=substack&utm_medium=email) 👤 Ryan Fleury 💬 8120 🔖 #joyandcuriosity 🗓️ 2025-10-12
     > **Резюме:** The author argues we should write code assuming multiple CPU cores by default, keeping multi-core constructs simple and similar to single-threaded code.  
 Use per-thread scopes, simple barriers, and shared arrays so work divides cleanly without heavy kernel or job-system overhead.  

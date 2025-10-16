@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 65
+- Всего ссылок: 66
 
 ## Ссылки
 
+- [Engineering velocity on steroids](https://newsletter.manager.dev/p/what-a-10x-team-looks-like) 👤 Anton Zaides 💬 2074 🔖 #leaddev, #management, #development 🗓️ 2025-10-14
+    > **Резюме:** A small, focused team can learn and ship much faster than a large org by optimizing for velocity. Let engineers talk directly to customers, streamline PRs with AI, and invest in testing to keep speed without regressions. Find the biggest bottleneck, fix it, then repeat.
 - [What is "good taste" in software engineering?](https://seangoedecke.com/taste/) 👤 seangoedecke.com 💬 1835 🔖 #development, #architecture, #softwaredesign 🗓️ 2025-09-28
     > **Резюме:** Good taste in software engineering means choosing the right values for each project, not just having strong technical skills. It involves being flexible and understanding tradeoffs, rather than blindly following one approach. Engineers with good taste help projects succeed by adapting their decisions to fit the specific problems they face.
 - [4 Software Design Principles I Learned the Hard Way](https://read.engineerscodex.com/p/4-software-design-principles-i-learned) 👤 Leonardo Creed 💬 1108 🔖 #principles, #development 🗓️ 2025-09-18

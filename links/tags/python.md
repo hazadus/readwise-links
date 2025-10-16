@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 67
+- Всего ссылок: 68
 
 ## Ссылки
 
+- [Python 3.14 - What didn't make the headlines](https://www.bitecode.dev/p/python-314-what-didnt-make-the-headlines?r=28tjlb&amp%3Butm_campaign=post&amp%3Butm_medium=web&triedRedirect=true) 👤 Bite Code! 💬 183 🔖 #python 🗓️ 2025-10-13
+    > **Резюме:** Python 3.14 adds many useful quality-of-life improvements across tools and concurrency. PDB and asyncio get notable upgrades for debugging and task management. argparse, process pools, and other small features also see helpful enhancements.
 - [Python 3.14 Is Here. How Fast Is It?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it) 👤 Miguel Grinberg 💬 2548 🔖 #toot, #python, #programming 🗓️ 2025-10-09
     > **Заметка:** Мигель тестирует производительность нового релиза Питона
     > **Резюме:** Python 3.14 is the fastest CPython tested.  

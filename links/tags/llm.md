@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 262
+- Всего ссылок: 263
 
 ## Ссылки
 
+- [Just Talk To It - the no-bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it) 👤 Peter Steinberger 💬 4326 🔖 #llm 🗓️ 2025-10-15
+    > **Резюме:** Agentic engineering now writes almost all my code, and gpt-5-codex is my daily driver. Codex reads more of the repo, needs shorter prompts, and reliably completes tasks. I still think critically about design and only use AI where it truly helps.
 - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) 👤 Mitchell Hashimoto 💬 3285 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-13
     > **Резюме:** Mitchell Hashimoto used AI agents heavily to design, implement, and polish a non-trivial macOS auto-update feature for Ghostty. He iterated between agent work and manual cleanup, fixing a view-model bug and improving UX through simulations. He shares full agent sessions to teach effective, responsible AI-assisted development.
 - [Claude Code sub-agents](https://simonwillison.net/2025/Oct/11/sub-agents/#atom-everything) 👤 Simon Willison 💬 295 🔖 #llm, #claude 🗓️ 2025-10-12

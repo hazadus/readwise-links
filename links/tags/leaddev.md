@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 21
+- Всего ссылок: 22
 
 ## Ссылки
 
+- [Engineering velocity on steroids](https://newsletter.manager.dev/p/what-a-10x-team-looks-like) 👤 Anton Zaides 💬 2074 🔖 #leaddev, #management, #development 🗓️ 2025-10-14
+    > **Резюме:** A small, focused team can learn and ship much faster than a large org by optimizing for velocity. Let engineers talk directly to customers, streamline PRs with AI, and invest in testing to keep speed without regressions. Find the biggest bottleneck, fix it, then repeat.
 - [How to make your team read your mind](https://newsletter.manager.dev/p/how-to-make-your-team-read-your-mind) 👤 Anton Zaides 💬 1893 🔖 #leaddev, #management 🗓️ 2025-10-10
     > **Резюме:** Anton Zaides emphasizes the importance of clear communication in managing a team by creating a "Manager's ReadMe" document. This document outlines his expectations and goals for the team, aiming to eliminate misunderstandings and improve collaboration. He encourages other managers to create their own versions to foster open dialogue and alignment within their teams.
 - [Build your engineering team like a dungeon party](https://newsletter.manager.dev/p/build-your-engineering-team-like?utm_source=tldrwebdev&triedRedirect=true) 👤 Anton Zaides 💬 1284 🔖 #toot, #leaddev, #management 🗓️ 2025-10-10

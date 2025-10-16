@@ -1,9 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 1130
+- Всего ссылок: 1134
 
 ## Ссылки
 
+- [Engineering velocity on steroids](https://newsletter.manager.dev/p/what-a-10x-team-looks-like) 👤 Anton Zaides 💬 2074 🔖 #leaddev, #management, #development 🗓️ 2025-10-14
+- [The fashion industry that is tech](https://www.baldurbjarnason.com/2025/the-fashion-that-is-tech/) 👤 baldurbjarnason.com 💬 1016 🗓️ 2025-10-14
+- [The Illusion of Independent Thought](https://www.joanwestenberg.com/p/the-illusion-of-independent-thought) 👤 JA Westenberg 💬 1126 🗓️ 2025-10-13
+- [Python 3.14 - What didn't make the headlines](https://www.bitecode.dev/p/python-314-what-didnt-make-the-headlines?r=28tjlb&amp%3Butm_campaign=post&amp%3Butm_medium=web&triedRedirect=true) 👤 Bite Code! 💬 183 🔖 #python 🗓️ 2025-10-13
 - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) 👤 Mitchell Hashimoto 💬 3285 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-13
 - [How I provide technical clarity to non-technical leaders](https://seangoedecke.com/clarity/) 👤 seangoedecke.com 💬 2181 🔖 #soft skills, #communication 🗓️ 2025-10-12
 - [Claude Code sub-agents](https://simonwillison.net/2025/Oct/11/sub-agents/#atom-everything) 👤 Simon Willison 💬 295 🔖 #llm, #claude 🗓️ 2025-10-12
