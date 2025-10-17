@@ -1,9 +1,12 @@
 # Новые ссылки
 
-- Всего ссылок: 847
+- Всего ссылок: 850
 
 ## Ссылки
 
+- [I Miss when Software Ended](https://dayvster.com/blog/i-miss-when-software-ended/) 👤 Dayvi Schuster 💬 1832 🗓️ 2025-10-16
+- [Most of What We Call Progress](https://yusufaytas.com/most-of-what-we-call-progress/) 👤 https://www.facebook.com/yusufaytas 💬 2537 🗓️ 2025-10-16
+- [Why Stories Make You Smarter Than Self-Help Books](https://www.joanwestenberg.com/p/why-stories-make-you-smarter-than-self-help-books) 👤 JA Westenberg 💬 929 🗓️ 2025-10-16
 - [NVIDIA DGX Spark: great hardware, early days for the ecosystem](https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/#atom-everything) 👤 Simon Willison 💬 1544 🗓️ 2025-10-15
 - [Markdown link scripts for BBEdit](https://leancrew.com/all-this/2025/10/markdown-link-scripts-for-bbedit/) 👤 leancrew.com 💬 4163 🗓️ 2025-10-15
 - [Just Talk To It - the no-bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it) 👤 Peter Steinberger 💬 4326 🔖 #llm 🗓️ 2025-10-15
