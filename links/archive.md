@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 1134
+- Всего ссылок: 1135
 
 ## Ссылки
 
@@ -34,6 +34,7 @@
 - [Крошечный Excel на чистом JavaScript (30 строк кода)](https://habr.com/ru/articles/202304/) 👤 zag2art 💬 794 🔖 #diy, #javascript 🗓️ 2025-10-06
 - [Managers Have Been Vibe Coding All Along](https://yusufaytas.com/managers-have-been-vibe-coding-all-along/) 👤 https://www.facebook.com/yusufaytas 💬 580 🗓️ 2025-10-06
 - [Onward](https://domenic.me/retirement/?utm_source=substack&utm_medium=email) 👤 Domenic Denicola 💬 838 🔖 #joyandcuriosity 🗓️ 2025-10-05
+- [Thank you for being annoying](https://www.experimental-history.com/p/thank-you-for-being-annoying?utm_source=substack&utm_medium=email) 👤 Adam Mastroianni 💬 2831 🔖 #joyandcuriosity 🗓️ 2025-10-05
 - [I’m Done Future-proofing my Life.](https://www.joanwestenberg.com/p/i-m-done-future-proofing-my-life) 👤 JA Westenberg 💬 809 🗓️ 2025-10-05
 - [How to influence tech company politics as a staff software engineer](https://seangoedecke.com/how-to-influence-politics/) 👤 seangoedecke.com 💬 1215 🔖 #career 🗓️ 2025-10-05
 - [Stop Wasting Brainpower](https://yusufaytas.com/stop-wasting-brainpower/) 👤 https://www.facebook.com/yusufaytas 💬 1810 🗓️ 2025-10-05

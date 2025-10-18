@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 87
+- Всего ссылок: 86
 
 ## Ссылки
 
@@ -20,8 +20,6 @@ Overrides merge with a shared base so you avoid verbose NODE_ENV checks.
 They use the c12 loader for flexible formats, smart merging, and hot-reload support.
 - [A pragmatic guide to modern CSS colours - part one](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-one/?ref=main-rss-feed) 👤 Piccalilli 💬 3032 🔖 #css 🗓️ 2025-10-07
     > **Резюме:** CSS colour syntax has evolved to new, simpler forms like space-separated rgb() and hsl() and a slash for alpha. Relative colours let you base new colours on existing ones and easily change alpha. New colour functions and spaces (e.g., color(), oklch(), color-mix()) give more control and better results.
-- [Thank you for being annoying](https://www.experimental-history.com/p/thank-you-for-being-annoying?utm_source=substack&utm_medium=email) 👤 Adam Mastroianni 💬 2831 🔖 #joyandcuriosity 🗓️ 2025-10-05
-    > **Резюме:** Автор рассуждает о природе любви и мотивации, утверждая, что истинная любовь и успех часто связаны с чувством раздражения и недовольства. Люди ошибочно полагают, что счастье заключается в отсутствии проблем, тогда как на самом деле удовольствие приходит именно от решения возникающих трудностей. Настоящая страсть и удовлетворение возникают, когда мы сталкиваемся с раздражающими факторами и способны их исправить.
 - [5 Core Distributed Concepts Every Developer Should Know](https://www.swequiz.com/blog/5-core-distributed-concepts-every-developer-should-know) 👤 swequiz.com 💬 2261 🗓️ 2025-10-05
     > **Резюме:** Distributed systems are crucial for modern applications, and developers should understand five core concepts to build and troubleshoot them effectively. Key principles include the CAP Theorem, fault tolerance, and strategies for reducing latency. By grasping these concepts, developers can create resilient and scalable applications.
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/?utm_source=tldrwebdev) 👤 kunststube.net 💬 6587 🗓️ 2025-10-02
