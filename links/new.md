@@ -1,9 +1,12 @@
 # Новые ссылки
 
-- Всего ссылок: 850
+- Всего ссылок: 853
 
 ## Ссылки
 
+- [Andrej Karpathy — AGI is still a decade away](https://simonwillison.net/2025/Oct/18/agi-is-still-a-decade-away/#atom-everything) 👤 Simon Willison 💬 615 🗓️ 2025-10-18
+- [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/#atom-everything) 👤 Simon Willison 💬 1480 🗓️ 2025-10-18
+- [Властелин фэнтезийного мира](https://www.kommersant.ru/doc/8137362?from=glavnoe_2) 👤 Кирилл Сарханянц 💬 1075 🗓️ 2025-10-18
 - [I Miss when Software Ended](https://dayvster.com/blog/i-miss-when-software-ended/) 👤 Dayvi Schuster 💬 1832 🗓️ 2025-10-16
 - [Most of What We Call Progress](https://yusufaytas.com/most-of-what-we-call-progress/) 👤 https://www.facebook.com/yusufaytas 💬 2537 🗓️ 2025-10-16
 - [Why Stories Make You Smarter Than Self-Help Books](https://www.joanwestenberg.com/p/why-stories-make-you-smarter-than-self-help-books) 👤 JA Westenberg 💬 929 🗓️ 2025-10-16
