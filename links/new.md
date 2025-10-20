@@ -1,9 +1,12 @@
 # Новые ссылки
 
-- Всего ссылок: 853
+- Всего ссылок: 856
 
 ## Ссылки
 
+- [How to build a remarkable command palette](https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email) 👤 Tim Boucher 💬 2747 🔖 #joyandcuriosity 🗓️ 2025-10-19
+- [Environment variables are a legacy mess: Let's dive deep into them](https://allvpv.org/haotic-journey-through-envvars/?utm_source=tldrwebdev) 👤 allvpv <Przemysław Kusiak> 💬 1567 🗓️ 2025-10-19
+- [We are in the "gentleman scientist" era of AI research](https://seangoedecke.com/ai-and-informal-science/) 👤 seangoedecke.com 💬 1608 🗓️ 2025-10-19
 - [Andrej Karpathy — AGI is still a decade away](https://simonwillison.net/2025/Oct/18/agi-is-still-a-decade-away/#atom-everything) 👤 Simon Willison 💬 615 🗓️ 2025-10-18
 - [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/#atom-everything) 👤 Simon Willison 💬 1480 🗓️ 2025-10-18
 - [Властелин фэнтезийного мира](https://www.kommersant.ru/doc/8137362?from=glavnoe_2) 👤 Кирилл Сарханянц 💬 1075 🗓️ 2025-10-18

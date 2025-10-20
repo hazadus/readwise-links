@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 34
+- Всего ссылок: 35
 
 ## Ссылки
 
+- [How to build a remarkable command palette](https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email) 👤 Tim Boucher 💬 2747 🔖 #joyandcuriosity 🗓️ 2025-10-19
+    > **Резюме:** A command palette is a user interface tool that allows quick access to various commands, making it easier for users to discover features. To build an effective command palette, ensure it is available everywhere, centralizes all commands, and offers flexibility in command matching. By following these principles, you can create a powerful and user-friendly command palette that enhances productivity.
 - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) 👤 Mitchell Hashimoto 💬 3285 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-13
     > **Резюме:** Mitchell Hashimoto used AI agents heavily to design, implement, and polish a non-trivial macOS auto-update feature for Ghostty. He iterated between agent work and manual cleanup, fixing a view-model bug and improving UX through simulations. He shares full agent sessions to teach effective, responsible AI-assisted development.
 - [Multi-Core By Default](https://www.rfleury.com/p/multi-core-by-default?utm_source=substack&utm_medium=email) 👤 Ryan Fleury 💬 8120 🔖 #joyandcuriosity 🗓️ 2025-10-12
