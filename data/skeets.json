@@ -34,7 +34,8 @@
         "01k73nmfkpwhtmc356rwnct7cx",
         "01k62j88e860fj11r58fytgdkm",
         "01k768bw8k18hnrdbdqwe1vq4c",
-        "01k7a31vzbxzf9913gzvyf2wsm"
+        "01k7a31vzbxzf9913gzvyf2wsm",
+        "01k7q49rqxb98z451r3xwawkvr"
     ],
     "skeets": [
         {
@@ -246,6 +247,12 @@
             "document_title": "There is Only One Hack: Do it for a Decade.",
             "source_url": "https://www.joanwestenberg.com/p/there-is-only-one-hack-do-it-for-a-decade",
             "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3m356cycdl42m"
+        },
+        {
+            "document_id": "01k7q49rqxb98z451r3xwawkvr",
+            "document_title": "Why Stories Make You Smarter Than Self-Help Books",
+            "source_url": "https://www.joanwestenberg.com/p/why-stories-make-you-smarter-than-self-help-books",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3m3orlvezyb2c"
         }
     ]
 }
