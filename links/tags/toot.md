@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 35
+- Всего ссылок: 36
 
 ## Ссылки
 
+- [Why Stories Make You Smarter Than Self-Help Books](https://www.joanwestenberg.com/p/why-stories-make-you-smarter-than-self-help-books) 👤 JA Westenberg 💬 929 🔖 #toot, #reading, #inspiration 🗓️ 2025-10-16
+    > **Заметка:** "The dirty secret about non-fiction is that most of it could be a blog post.
+
+They follow a template: introduce a counterintuitive finding, tell three anecdotes that illustrate it, mention some studies, provide a framework with a memorable acronym, conclude with actionable advice. Stretch this to 250 pages, add some graphs, and you have a bestseller. The information density is incredibly low. You're not learning complex systems of thought; you're learning to repeat interesting-sounding facts."
+    > **Резюме:** People who read self-help often prefer clear rules and the appearance of learning. Fiction teaches wisdom differently by putting you inside lives and choices so you learn context, nuance, and moral complexity. Stories change how you think in ways facts alone cannot.
 - [There is Only One Hack: Do it for a Decade.](https://www.joanwestenberg.com/p/there-is-only-one-hack-do-it-for-a-decade) 👤 JA Westenberg 💬 636 🔖 #toot, #career, #learning, #time management 🗓️ 2025-10-11
     > **Заметка:** "Working hard is fine, but framing it as a sprint suggests that achievement is about peak intensity rather than sustained presence. Six months of grinding is easy compared to six years of showing up. Anyone can do a hard sprint. What's tough: maintaining your focus when the initial excitement has worn off and you're in year three of a project with no clear end in sight."
     > **Резюме:** People chase quick productivity hacks but they only work briefly. Real results come from years of steady, boring work and showing up. Skip the shortcuts and build patience to keep working for a decade.

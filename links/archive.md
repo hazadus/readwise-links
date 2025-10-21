@@ -1,12 +1,21 @@
 # Архивные ссылки
 
-- Всего ссылок: 1135
+- Всего ссылок: 1141
 
 ## Ссылки
 
+- [We are in the "gentleman scientist" era of AI research](https://seangoedecke.com/ai-and-informal-science/) 👤 seangoedecke.com 💬 1608 🔖 #llm 🗓️ 2025-10-19
+- [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/#atom-everything) 👤 Simon Willison 💬 1480 🔖 #llm, #claude 🗓️ 2025-10-18
+- [Властелин фэнтезийного мира](https://www.kommersant.ru/doc/8137362?from=glavnoe_2) 👤 Кирилл Сарханянц 💬 1075 🗓️ 2025-10-18
+- [Why Stories Make You Smarter Than Self-Help Books](https://www.joanwestenberg.com/p/why-stories-make-you-smarter-than-self-help-books) 👤 JA Westenberg 💬 929 🔖 #toot, #reading, #inspiration 🗓️ 2025-10-16
+    > **Заметка:** "The dirty secret about non-fiction is that most of it could be a blog post.
+
+They follow a template: introduce a counterintuitive finding, tell three anecdotes that illustrate it, mention some studies, provide a framework with a memorable acronym, conclude with actionable advice. Stretch this to 250 pages, add some graphs, and you have a bestseller. The information density is incredibly low. You're not learning complex systems of thought; you're learning to repeat interesting-sounding facts."
+- [NVIDIA DGX Spark: great hardware, early days for the ecosystem](https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/#atom-everything) 👤 Simon Willison 💬 1544 🔖 #llm 🗓️ 2025-10-15
 - [Engineering velocity on steroids](https://newsletter.manager.dev/p/what-a-10x-team-looks-like) 👤 Anton Zaides 💬 2074 🔖 #leaddev, #management, #development 🗓️ 2025-10-14
 - [The fashion industry that is tech](https://www.baldurbjarnason.com/2025/the-fashion-that-is-tech/) 👤 baldurbjarnason.com 💬 1016 🗓️ 2025-10-14
 - [The Illusion of Independent Thought](https://www.joanwestenberg.com/p/the-illusion-of-independent-thought) 👤 JA Westenberg 💬 1126 🗓️ 2025-10-13
+- [Literate Scripting • The Applied Go Weekly Newsletter 2025-10-12](https://newsletter.appliedgo.net/archive/2025-10-12-literate-scripting-go-in-atuin-runbooks/) 👤 The Applied Go Weekly Newsletter 💬 1140 🔖 #go 🗓️ 2025-10-13
 - [Python 3.14 - What didn't make the headlines](https://www.bitecode.dev/p/python-314-what-didnt-make-the-headlines?r=28tjlb&amp%3Butm_campaign=post&amp%3Butm_medium=web&triedRedirect=true) 👤 Bite Code! 💬 183 🔖 #python 🗓️ 2025-10-13
 - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) 👤 Mitchell Hashimoto 💬 3285 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-13
 - [How I provide technical clarity to non-technical leaders](https://seangoedecke.com/clarity/) 👤 seangoedecke.com 💬 2181 🔖 #soft skills, #communication 🗓️ 2025-10-12

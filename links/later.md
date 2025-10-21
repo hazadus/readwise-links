@@ -1,9 +1,31 @@
 # Отложенные ссылки
 
-- Всего ссылок: 86
+- Всего ссылок: 97
 
 ## Ссылки
 
+- [What have we learned about building agentic AI tools?](https://seangoedecke.com/ideas-in-agentic-ai-tooling/) 👤 seangoedecke.com 💬 1265 🔖 #llm, #agents 🗓️ 2025-10-20
+    > **Резюме:** Agentic coding tools became practical in 2025 thanks to much better models and smarter tool harnesses. Good agents plan before acting, use a small set of powerful tools, and let users interrupt, queue commands, and add plugins. Prefer simple code search and nested rule files over heavy RAG; treat agentic systems as normal software engineering that you can polish.
+- [Diskcache, more than caching](https://www.bitecode.dev/p/diskcache-more-than-caching) 👤 Bite Code! 💬 1310 🗓️ 2025-10-20
+    > **Резюме:** Diskcache is a lightweight Python key/value store built on SQLite that acts like a local subset of Redis. It provides fast caching plus transactions, tagging, queues, locks, sharding, and tools to avoid race conditions. You can use it across processes for caching, simple queues, and coordinated concurrency.
+- [Using Asyncpg with FastAPI and Air](https://daniel.feldroy.com/posts/2025-10-using-asyncpg-with-fastapi-and-air) 👤 https://daniel.feldroy.com 💬 709 🗓️ 2025-10-20
+    > **Резюме:** The article shows how to use asyncpg directly with FastAPI and Air to talk to PostgreSQL without an ORM. It uses an ASGI lifespan function to create and close a connection pool on startup and shutdown. Examples show querying and inserting data, with Pydantic used to validate incoming input.
+- [How to build a remarkable command palette](https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email) 👤 Tim Boucher 💬 2747 🔖 #joyandcuriosity 🗓️ 2025-10-19
+    > **Резюме:** A command palette is a user interface tool that allows quick access to various commands, making it easier for users to discover features. To build an effective command palette, ensure it is available everywhere, centralizes all commands, and offers flexibility in command matching. By following these principles, you can create a powerful and user-friendly command palette that enhances productivity.
+- [Environment variables are a legacy mess: Let's dive deep into them](https://allvpv.org/haotic-journey-through-envvars/?utm_source=tldrwebdev) 👤 allvpv <Przemysław Kusiak> 💬 1567 🗓️ 2025-10-19
+    > **Резюме:** Environment variables are an old, flat way to pass string settings from parent to child processes. Different tools and libraries store and handle them in inconsistent, sometimes surprising ways. Best practice: use simple uppercase names like MY_VAR and UTF-8 values to avoid problems.
+- [Andrej Karpathy — AGI is still a decade away](https://simonwillison.net/2025/Oct/18/agi-is-still-a-decade-away/#atom-everything) 👤 Simon Willison 💬 615 🗓️ 2025-10-18
+    > **Резюме:** Andrej Karpathy believes true AI agents that can learn and work like humans are still about ten years away. Current AI models can handle simple, common tasks but struggle with complex, unique problems. He compares AI to digital spirits, different from natural brains, and says we should try to make them more like animals over time.
+- [I Miss when Software Ended](https://dayvster.com/blog/i-miss-when-software-ended/) 👤 Dayvi Schuster 💬 1832 🗓️ 2025-10-16
+    > **Резюме:** Software used to be something you owned, not rented. Subscriptions and nonstop updates have shifted control from users to companies. We need options that protect ownership, privacy, and user choice.
+- [Most of What We Call Progress](https://yusufaytas.com/most-of-what-we-call-progress/) 👤 https://www.facebook.com/yusufaytas 💬 2537 🗓️ 2025-10-16
+    > **Резюме:** We confuse new tools and clever designs with real progress. Experience shows clarity, simple practices, and human coordination matter more than abstractions. True maturity is about making systems reliable, understandable, and easy for others to work with.
+- [Markdown link scripts for BBEdit](https://leancrew.com/all-this/2025/10/markdown-link-scripts-for-bbedit/) 👤 leancrew.com 💬 4163 🗓️ 2025-10-15
+    > **Резюме:** The author describes BBEdit AppleScripts that create Markdown reference-style links from URLs. Some scripts add new numbered references, others list or reuse existing references. One script also builds reference lists from all open Safari tabs.
+- [Just Talk To It - the no-bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it) 👤 Peter Steinberger 💬 4326 🔖 #llm 🗓️ 2025-10-15
+    > **Резюме:** Agentic engineering now writes almost all my code, and gpt-5-codex is my daily driver. Codex reads more of the repo, needs shorter prompts, and reliably completes tasks. I still think critically about design and only use AI where it truly helps.
+- [Как разработать техническую документацию, которая точно будет работать. Часть 2. DocOps в действии](https://habr.com/ru/companies/swordfish_security/articles/754780/) 👤 Хабр 💬 6187 🗓️ 2025-10-15
+    > **Резюме:** The text discusses developing technical documentation with versioning and choosing popular tools for documentation creation. It emphasizes setting up repositories, automated builds, and supporting multiple product versions. The process involves adapting tools to company needs, utilizing version control systems, and considering different documentation versions.
 - [Don't Sleep on AbortController](https://kettanaito.com/blog/dont-sleep-on-abort-controller) 👤 kettanaito.com 💬 45 🔖 #javascript 🗓️ 2025-10-14
     > **Резюме:** The article discusses the importance of using AbortController in managing asynchronous tasks in JavaScript. It highlights how this tool helps prevent memory leaks and improves performance by canceling ongoing operations. The author emphasizes that understanding and utilizing AbortController can enhance coding practices.
 - [How to group arrays in JavaScript without reduce()](https://allthingssmitty.com/2025/10/06/grouping-arrays-in-modern-javascript-object-groupby-and-map-groupby/) 👤 https://allthingssmitty.com/about/ 💬 810 🔖 #javascript 🗓️ 2025-10-14

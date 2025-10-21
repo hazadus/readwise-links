@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [Why Stories Make You Smarter Than Self-Help Books](https://www.joanwestenberg.com/p/why-stories-make-you-smarter-than-self-help-books) 👤 JA Westenberg 💬 929 🔖 #toot, #reading, #inspiration 🗓️ 2025-10-16
+    > **Заметка:** "The dirty secret about non-fiction is that most of it could be a blog post.
+
+They follow a template: introduce a counterintuitive finding, tell three anecdotes that illustrate it, mention some studies, provide a framework with a memorable acronym, conclude with actionable advice. Stretch this to 250 pages, add some graphs, and you have a bestseller. The information density is incredibly low. You're not learning complex systems of thought; you're learning to repeat interesting-sounding facts."
+    > **Резюме:** People who read self-help often prefer clear rules and the appearance of learning. Fiction teaches wisdom differently by putting you inside lives and choices so you learn context, nuance, and moral complexity. Stories change how you think in ways facts alone cannot.
 - [I Spent 90 Days Rebuilding My Brain. Here's What I Learned.](https://www.joanwestenberg.com/p/i-spent-90-days-rebuilding-my-brain-here-s-what-i-learned-b7844d4127c5d542) 👤 Joan Westenberg 💬 2613 🔖 #reading, #learning 🗓️ 2025-07-07
     > **Резюме:** The author spent 90 days practicing deep thinking by reading, writing by hand, and avoiding distractions like phones and AI tools. This helped her regain focus, understand complex ideas, and discover her own original thoughts. She encourages others to try this to improve attention and creativity in a distracted world.
 - [Как читать книги для самообразования](https://readwise.io/reader/document_raw_content/262840656) 👤 Поварнин С.И. 💬 14256 🔖 #book, #outline, #reading, #learning, #inspiration 🗓️ 2025-01-22

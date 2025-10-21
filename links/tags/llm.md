@@ -1,9 +1,19 @@
 # Ссылки
 
-- Всего ссылок: 263
+- Всего ссылок: 268
 
 ## Ссылки
 
+- [Claude Code for web—a new asynchronous coding agent from Anthropic](https://simonwillison.net/2025/Oct/20/claude-code-for-web/#atom-everything) 👤 Simon Willison 💬 1076 🔖 #llm, #claude 🗓️ 2025-10-20
+    > **Резюме:** Anthropic released Claude Code for web, an easy-to-use hosted coding agent that runs tasks in managed containers and can edit GitHub repos and open PRs. It supports configurable sandboxing and network isolation to reduce permission prompts and limit data exfiltration. The author found it convenient and effective, though they worry about broad "trusted" allow-lists.
+- [What have we learned about building agentic AI tools?](https://seangoedecke.com/ideas-in-agentic-ai-tooling/) 👤 seangoedecke.com 💬 1265 🔖 #llm, #agents 🗓️ 2025-10-20
+    > **Резюме:** Agentic coding tools became practical in 2025 thanks to much better models and smarter tool harnesses. Good agents plan before acting, use a small set of powerful tools, and let users interrupt, queue commands, and add plugins. Prefer simple code search and nested rule files over heavy RAG; treat agentic systems as normal software engineering that you can polish.
+- [We are in the "gentleman scientist" era of AI research](https://seangoedecke.com/ai-and-informal-science/) 👤 seangoedecke.com 💬 1608 🔖 #llm 🗓️ 2025-10-19
+    > **Резюме:** Many big AI advances are simple ideas applied to new large language models, so they are easy for non-experts to try. This creates lots of accessible, useful research questions—like the “gentleman scientist” era. We should encourage more informal experiments because they reveal real capabilities and new directions.
+- [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/#atom-everything) 👤 Simon Willison 💬 1480 🔖 #llm, #claude 🗓️ 2025-10-18
+    > **Резюме:** Anthropic released Claude Skills, simple Markdown folders that teach the model special tasks and can include scripts and resources. Skills let Claude run code in a sandboxed environment, making it much more capable and efficient than large token-heavy MCP context files. They are easy to share and could quickly create powerful, reusable "agents" for many workflows.
+- [NVIDIA DGX Spark: great hardware, early days for the ecosystem](https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/#atom-everything) 👤 Simon Willison 💬 1544 🔖 #llm 🗓️ 2025-10-15
+    > **Резюме:** The NVIDIA DGX Spark is a small but powerful ARM64 AI computer designed for researchers, with 128GB memory and a strong NVIDIA GPU. Setting it up was challenging due to software and architecture differences, but new guides and tools like Docker and Claude Code helped a lot. The ecosystem is growing quickly, making this device more useful and promising for AI work soon.
 - [Just Talk To It - the no-bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it) 👤 Peter Steinberger 💬 4326 🔖 #llm 🗓️ 2025-10-15
     > **Резюме:** Agentic engineering now writes almost all my code, and gpt-5-codex is my daily driver. Codex reads more of the repo, needs shorter prompts, and reliably completes tasks. I still think critically about design and only use AI where it truly helps.
 - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) 👤 Mitchell Hashimoto 💬 3285 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-13

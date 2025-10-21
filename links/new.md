@@ -1,23 +1,14 @@
 # Новые ссылки
 
-- Всего ссылок: 856
+- Всего ссылок: 847
 
 ## Ссылки
 
-- [How to build a remarkable command palette](https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email) 👤 Tim Boucher 💬 2747 🔖 #joyandcuriosity 🗓️ 2025-10-19
-- [Environment variables are a legacy mess: Let's dive deep into them](https://allvpv.org/haotic-journey-through-envvars/?utm_source=tldrwebdev) 👤 allvpv <Przemysław Kusiak> 💬 1567 🗓️ 2025-10-19
-- [We are in the "gentleman scientist" era of AI research](https://seangoedecke.com/ai-and-informal-science/) 👤 seangoedecke.com 💬 1608 🗓️ 2025-10-19
-- [Andrej Karpathy — AGI is still a decade away](https://simonwillison.net/2025/Oct/18/agi-is-still-a-decade-away/#atom-everything) 👤 Simon Willison 💬 615 🗓️ 2025-10-18
-- [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/#atom-everything) 👤 Simon Willison 💬 1480 🗓️ 2025-10-18
-- [Властелин фэнтезийного мира](https://www.kommersant.ru/doc/8137362?from=glavnoe_2) 👤 Кирилл Сарханянц 💬 1075 🗓️ 2025-10-18
-- [I Miss when Software Ended](https://dayvster.com/blog/i-miss-when-software-ended/) 👤 Dayvi Schuster 💬 1832 🗓️ 2025-10-16
-- [Most of What We Call Progress](https://yusufaytas.com/most-of-what-we-call-progress/) 👤 https://www.facebook.com/yusufaytas 💬 2537 🗓️ 2025-10-16
-- [Why Stories Make You Smarter Than Self-Help Books](https://www.joanwestenberg.com/p/why-stories-make-you-smarter-than-self-help-books) 👤 JA Westenberg 💬 929 🗓️ 2025-10-16
-- [NVIDIA DGX Spark: great hardware, early days for the ecosystem](https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/#atom-everything) 👤 Simon Willison 💬 1544 🗓️ 2025-10-15
-- [Markdown link scripts for BBEdit](https://leancrew.com/all-this/2025/10/markdown-link-scripts-for-bbedit/) 👤 leancrew.com 💬 4163 🗓️ 2025-10-15
-- [Just Talk To It - the no-bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it) 👤 Peter Steinberger 💬 4326 🔖 #llm 🗓️ 2025-10-15
-- [Как разработать техническую документацию, которая точно будет работать. Часть 2. DocOps в действии](https://habr.com/ru/companies/swordfish_security/articles/754780/) 👤 Хабр 💬 6187 🗓️ 2025-10-15
-- [Literate Scripting • The Applied Go Weekly Newsletter 2025-10-12](https://newsletter.appliedgo.net/archive/2025-10-12-literate-scripting-go-in-atuin-runbooks/) 👤 The Applied Go Weekly Newsletter 💬 1140 🔖 #go 🗓️ 2025-10-13
+- [Claude Code for web—a new asynchronous coding agent from Anthropic](https://simonwillison.net/2025/Oct/20/claude-code-for-web/#atom-everything) 👤 Simon Willison 💬 1076 🔖 #llm, #claude 🗓️ 2025-10-20
+- [«Переводить Сапковского — как Нобелевскую премию получить». Интервью с переводчиком «Перекрёстка воронов» Вадимом Кумоком](https://www.mirf.ru/book/vadim-kumok-interview) 👤 Алексей Ионов 💬 2039 🗓️ 2025-10-20
+- [Stop Ignoring the Browser: The Biggest Frontend Shift in a Decade](https://thenewstack.io/stop-ignoring-the-browser-the-biggest-frontend-shift-in-a-decade/?utm_source=tldrwebdev) 👤 Alexander T. Williams 💬 1141 🗓️ 2025-10-20
+- [You Are Insignificant. That's a Good Thing.](https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing) 👤 JA Westenberg 💬 2708 🗓️ 2025-10-20
+- [An Opinionated Guide to Using AI Right Now](https://www.oneusefulthing.org/p/an-opinionated-guide-to-using-ai) 👤 Ethan Mollick 💬 2766 🗓️ 2025-10-20
 - [A complete guide to HTTP caching](https://www.jonoalderson.com/performance/http-caching/) 👤 Jono Alderson 💬 9131 🔖 #http 🗓️ 2025-10-10
 - [Standard Package Layout](https://www.gobeyond.dev/standard-package-layout/) 👤 Ben Johnson 💬 2012 🗓️ 2025-10-09
 - [Build your Own Virtual Scroll - Part I](https://dev.to/adamklein/build-your-own-virtual-scroll-part-i-11ib) 👤 dev.to 💬 1065 🗓️ 2025-10-06

@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 99
+- Всего ссылок: 100
 
 ## Ссылки
 
+- [Why Stories Make You Smarter Than Self-Help Books](https://www.joanwestenberg.com/p/why-stories-make-you-smarter-than-self-help-books) 👤 JA Westenberg 💬 929 🔖 #toot, #reading, #inspiration 🗓️ 2025-10-16
+    > **Заметка:** "The dirty secret about non-fiction is that most of it could be a blog post.
+
+They follow a template: introduce a counterintuitive finding, tell three anecdotes that illustrate it, mention some studies, provide a framework with a memorable acronym, conclude with actionable advice. Stretch this to 250 pages, add some graphs, and you have a bestseller. The information density is incredibly low. You're not learning complex systems of thought; you're learning to repeat interesting-sounding facts."
+    > **Резюме:** People who read self-help often prefer clear rules and the appearance of learning. Fiction teaches wisdom differently by putting you inside lives and choices so you learn context, nuance, and moral complexity. Stories change how you think in ways facts alone cannot.
 - [Dev Culture Is Dying The Curious Developer Is Gone](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/) 👤 Dayvi Schuster 💬 2598 🔖 #toot, #learning, #inspiration, #programming 🗓️ 2025-10-01
     > **Заметка:** "Software development is a unique craft, it’s equal parts creative and equal parts engineering, two opposing forces that when combined can create something truly amazing. Fight the temptation to add marketing into the mix and dilute the craft with it."
     > **Резюме:** Developer culture has shifted from curiosity and tinkering to chasing metrics and growth. This change stifles creativity and produces bland, revenue-driven software. The author urges developers to reclaim time for curious, personal projects that spark real innovation.

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [What have we learned about building agentic AI tools?](https://seangoedecke.com/ideas-in-agentic-ai-tooling/) 👤 seangoedecke.com 💬 1265 🔖 #llm, #agents 🗓️ 2025-10-20
+    > **Резюме:** Agentic coding tools became practical in 2025 thanks to much better models and smarter tool harnesses. Good agents plan before acting, use a small set of powerful tools, and let users interrupt, queue commands, and add plugins. Prefer simple code search and nested rule files over heavy RAG; treat agentic systems as normal software engineering that you can polish.
 - [I think “agent” may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/#atom-everything) 👤 Simon Willison 💬 1020 🔖 #llm, #agents 🗓️ 2025-09-19
     > **Резюме:** The word "agent" now has a clearer meaning in AI: it means an LLM uses tools repeatedly to reach a goal. This helps people talk about agents without confusion. Some old ideas, like agents replacing humans, are still not realistic.
 - [Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html) 👤 Ben O'Mahony 💬 2899 🔖 #llm, #agents 🗓️ 2025-08-27

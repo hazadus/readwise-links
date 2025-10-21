@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [Claude Code for web—a new asynchronous coding agent from Anthropic](https://simonwillison.net/2025/Oct/20/claude-code-for-web/#atom-everything) 👤 Simon Willison 💬 1076 🔖 #llm, #claude 🗓️ 2025-10-20
+    > **Резюме:** Anthropic released Claude Code for web, an easy-to-use hosted coding agent that runs tasks in managed containers and can edit GitHub repos and open PRs. It supports configurable sandboxing and network isolation to reduce permission prompts and limit data exfiltration. The author found it convenient and effective, though they worry about broad "trusted" allow-lists.
+- [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/#atom-everything) 👤 Simon Willison 💬 1480 🔖 #llm, #claude 🗓️ 2025-10-18
+    > **Резюме:** Anthropic released Claude Skills, simple Markdown folders that teach the model special tasks and can include scripts and resources. Skills let Claude run code in a sandboxed environment, making it much more capable and efficient than large token-heavy MCP context files. They are easy to share and could quickly create powerful, reusable "agents" for many workflows.
 - [Claude Code sub-agents](https://simonwillison.net/2025/Oct/11/sub-agents/#atom-everything) 👤 Simon Willison 💬 295 🔖 #llm, #claude 🗓️ 2025-10-12
     > **Резюме:** Claude Code can run sub-agents to work on smaller tasks in parallel and report back. This helps it handle complex jobs more efficiently, like documenting code templates. The author tested this and got a detailed markdown file created automatically.
 - [simonw/claude-skills](https://simonwillison.net/2025/Oct/10/claude-skills/#atom-everything) 👤 Simon Willison 💬 388 🔖 #llm, #claude 🗓️ 2025-10-11
