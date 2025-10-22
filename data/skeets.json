@@ -35,7 +35,8 @@
         "01k62j88e860fj11r58fytgdkm",
         "01k768bw8k18hnrdbdqwe1vq4c",
         "01k7a31vzbxzf9913gzvyf2wsm",
-        "01k7q49rqxb98z451r3xwawkvr"
+        "01k7q49rqxb98z451r3xwawkvr",
+        "01k80cp8g8y2v5aj7wdba500fg"
     ],
     "skeets": [
         {
@@ -253,6 +254,12 @@
             "document_title": "Why Stories Make You Smarter Than Self-Help Books",
             "source_url": "https://www.joanwestenberg.com/p/why-stories-make-you-smarter-than-self-help-books",
             "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3m3orlvezyb2c"
+        },
+        {
+            "document_id": "01k80cp8g8y2v5aj7wdba500fg",
+            "document_title": "You Are Insignificant. That's a Good Thing.",
+            "source_url": "https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3m3rc226hgq2o"
         }
     ]
 }
