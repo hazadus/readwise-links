@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 268
+- Всего ссылок: 269
 
 ## Ссылки
 
+- [Should LLMs just treat text content as an image?](https://seangoedecke.com/text-tokens-as-image-tokens/) 👤 seangoedecke.com 💬 1239 🔖 #llm 🗓️ 2025-10-21
+    > **Резюме:** A new OCR paper shows a model can recover about ten text tokens from one image token, suggesting images of text might be a more efficient internal representation. This "optical compression" could let models handle much more text by sending screenshots instead of raw tokens. It’s an intriguing idea but raises training and practical challenges and isn’t yet a proven replacement for text tokens.
 - [Claude Code for web—a new asynchronous coding agent from Anthropic](https://simonwillison.net/2025/Oct/20/claude-code-for-web/#atom-everything) 👤 Simon Willison 💬 1076 🔖 #llm, #claude 🗓️ 2025-10-20
     > **Резюме:** Anthropic released Claude Code for web, an easy-to-use hosted coding agent that runs tasks in managed containers and can edit GitHub repos and open PRs. It supports configurable sandboxing and network isolation to reduce permission prompts and limit data exfiltration. The author found it convenient and effective, though they worry about broad "trusted" allow-lists.
 - [What have we learned about building agentic AI tools?](https://seangoedecke.com/ideas-in-agentic-ai-tooling/) 👤 seangoedecke.com 💬 1265 🔖 #llm, #agents 🗓️ 2025-10-20

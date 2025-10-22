@@ -1,11 +1,9 @@
 # Отложенные ссылки
 
-- Всего ссылок: 97
+- Всего ссылок: 96
 
 ## Ссылки
 
-- [What have we learned about building agentic AI tools?](https://seangoedecke.com/ideas-in-agentic-ai-tooling/) 👤 seangoedecke.com 💬 1265 🔖 #llm, #agents 🗓️ 2025-10-20
-    > **Резюме:** Agentic coding tools became practical in 2025 thanks to much better models and smarter tool harnesses. Good agents plan before acting, use a small set of powerful tools, and let users interrupt, queue commands, and add plugins. Prefer simple code search and nested rule files over heavy RAG; treat agentic systems as normal software engineering that you can polish.
 - [Diskcache, more than caching](https://www.bitecode.dev/p/diskcache-more-than-caching) 👤 Bite Code! 💬 1310 🗓️ 2025-10-20
     > **Резюме:** Diskcache is a lightweight Python key/value store built on SQLite that acts like a local subset of Redis. It provides fast caching plus transactions, tagging, queues, locks, sharding, and tools to avoid race conditions. You can use it across processes for caching, simple queues, and coordinated concurrency.
 - [Using Asyncpg with FastAPI and Air](https://daniel.feldroy.com/posts/2025-10-using-asyncpg-with-fastapi-and-air) 👤 https://daniel.feldroy.com 💬 709 🗓️ 2025-10-20

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 17
+- Всего ссылок: 18
 
 ## Ссылки
 
+- [«Переводить Сапковского — как Нобелевскую премию получить». Интервью с переводчиком «Перекрёстка воронов» Вадимом Кумоком](https://www.mirf.ru/book/vadim-kumok-interview) 👤 Алексей Ионов 💬 2039 🔖 #interview 🗓️ 2025-10-20
+    > **Резюме:** Вадим Кумок — давний поклонник фантастики, который стал переводчиком почти случайно и переводит с польского и английского. Он столкнулся с трудностями — сложный язык Сапковского, редкие слова и конкуренция ИИ‑перевода, но придумал свои приёмы и правки. Кумок мечтает перевести легендарного польского автора Адама Вишневски‑Снерга.
 - [Operational Skills Needed](https://yusufaytas.com/operational-skills-needed/) 👤 https://www.facebook.com/yusufaytas 💬 466 🔖 #devops, #interview 🗓️ 2025-10-04
     > **Резюме:** Many engineers excel at coding and design but lack practical operational reflexes for real incidents. Interviews should include realistic scenario-based questions about outages, monitoring, and post-mortems. Testing these skills finds candidates who can keep systems reliable in production.
 - [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email) 👤 Cynthia Dunlop 💬 1523 🔖 #toot, #interview, #programming, #joyandcuriosity 🗓️ 2025-08-10

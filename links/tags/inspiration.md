@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 100
+- Всего ссылок: 101
 
 ## Ссылки
 
+- [You Are Insignificant. That's a Good Thing.](https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing) 👤 JA Westenberg 💬 2708 🔖 #toot, #inspiration 🗓️ 2025-10-20
+    > **Резюме:** The universe is vast and old, and your life is brief and small. That means you probably won't be remembered forever, and that's okay. You can focus on enjoying life and being kind now instead of chasing cosmic significance.
 - [Why Stories Make You Smarter Than Self-Help Books](https://www.joanwestenberg.com/p/why-stories-make-you-smarter-than-self-help-books) 👤 JA Westenberg 💬 929 🔖 #toot, #reading, #inspiration 🗓️ 2025-10-16
     > **Заметка:** "The dirty secret about non-fiction is that most of it could be a blog post.
 

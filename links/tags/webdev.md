@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [Stop Ignoring the Browser: The Biggest Frontend Shift in a Decade](https://thenewstack.io/stop-ignoring-the-browser-the-biggest-frontend-shift-in-a-decade/?utm_source=tldrwebdev) 👤 Alexander T. Williams 💬 1141 🔖 #webdev, #frontend 🗓️ 2025-10-20
+    > **Резюме:** Browsers are gaining built-in features that used to only exist in frameworks. This reduces the need for heavy framework layers and improves performance. Frameworks will stay for ergonomics, but their dominance is fading.
 - [Solving Prop Drilling in Vue: Modern State Management Strategies](https://alexop.dev/posts/solving-prop-drilling-in-vue/) 👤 Alexander Opalic 💬 798 🔖 #vue, #toot, #pinia, #webdev 🗓️ 2025-09-26
     > **Резюме:** Prop drilling makes code brittle, hard to debug, and slow.  
 Use Pinia for app-wide state, composables for reusable logic, and provide/inject for scoped subtree sharing.  
