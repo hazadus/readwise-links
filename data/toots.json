@@ -34,7 +34,8 @@
         "01k73nmfkpwhtmc356rwnct7cx",
         "01k62j88e860fj11r58fytgdkm",
         "01k768bw8k18hnrdbdqwe1vq4c",
-        "01k7a31vzbxzf9913gzvyf2wsm"
+        "01k7a31vzbxzf9913gzvyf2wsm",
+        "01k80cp8g8y2v5aj7wdba500fg"
     ],
     "toots": [
         {
@@ -246,6 +247,12 @@
             "document_title": "There is Only One Hack: Do it for a Decade.",
             "source_url": "https://www.joanwestenberg.com/p/there-is-only-one-hack-do-it-for-a-decade",
             "toot_url": "https://fosstodon.org/@hazadus/115371228871506662"
+        },
+        {
+            "document_id": "01k80cp8g8y2v5aj7wdba500fg",
+            "document_title": "You Are Insignificant. That's a Good Thing.",
+            "source_url": "https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing",
+            "toot_url": "https://fosstodon.org/@hazadus/115416528076094005"
         }
     ]
 }
