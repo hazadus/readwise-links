@@ -1,9 +1,12 @@
 # Новые ссылки
 
-- Всего ссылок: 845
+- Всего ссылок: 848
 
 ## Ссылки
 
+- [SLOCCount in WebAssembly](https://simonwillison.net/2025/Oct/22/sloccount-in-webassembly/#atom-everything) 👤 Simon Willison 💬 517 🗓️ 2025-10-23
+- [More Tools for the Agent](https://ampcode.com/news/more-tools-for-the-agent) 👤 ampcode.com 💬 604 🗓️ 2025-10-23
+- [Don't let Claude Code delete your session logs](https://simonwillison.net/2025/Oct/22/claude-code-logs/#atom-everything) 👤 Simon Willison 💬 99 🗓️ 2025-10-22
 - [The price of mandatory code reviews](https://newsletter.manager.dev/p/the-price-of-mandatory-code-reviews) 👤 Anton Zaides 💬 1305 🗓️ 2025-10-21
 - [Should LLMs just treat text content as an image?](https://seangoedecke.com/text-tokens-as-image-tokens/) 👤 seangoedecke.com 💬 1239 🔖 #llm 🗓️ 2025-10-21
 - [Запуск MCP-сервера для AI-агентов от Битрикс24: интеграция с документацией REST API без ошибок](https://habr.com/ru/companies/bitrix/news/956808/) 👤 MaxMoro1 💬 310 🗓️ 2025-10-21
