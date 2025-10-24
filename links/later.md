@@ -1,9 +1,27 @@
 # Отложенные ссылки
 
-- Всего ссылок: 96
+- Всего ссылок: 105
 
 ## Ссылки
 
+- [Handmade With Love • The Applied Go Weekly Newsletter 2025-10-19](https://newsletter.appliedgo.net/archive/2025-10-19-handmade-with-love/) 👤 The Applied Go Weekly Newsletter 💬 1172 🔖 #go 🗓️ 2025-10-23
+    > **Резюме:** The newsletter is a short, lovingly made roundup of recent Go news, tools, and projects. It highlights articles, podcasts, libraries, and practical tooling for Go developers. The author aims to publish weekly despite limited time.
+- [Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas](https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/#atom-everything) 👤 Simon Willison 💬 1157 🗓️ 2025-10-23
+    > **Резюме:** OpenAI's CISO Dane Stuckey warns that prompt injection attacks on ChatGPT Atlas remain a serious and unsolved risk. OpenAI uses multiple safety measures and modes to reduce these threats but admits no solution is perfect. Users must stay cautious as attackers will keep trying to exploit weaknesses.
+- [Doing my own syntax highlighting (finally)](https://alexwlchan.net/2025/syntax-highlighting/?ref=rss) 👤 alexwlchan.net 💬 1353 🗓️ 2025-10-23
+    > **Резюме:** The author redesigned their blog’s syntax highlighting to use a minimal, restrained palette that emphasizes comments, strings, constants, and variable definitions. They use Rouge plus manual annotations to mark definitions so only key elements get colored. The new scheme feels cleaner, matches the site, and makes code easier to read.
+- [Living dangerously with Claude](https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/#atom-everything) 👤 Simon Willison 💬 1396 🗓️ 2025-10-23
+    > **Резюме:** The author shares how using "YOLO mode" in Claude Code lets coding agents solve problems independently, saving time. However, this mode is risky because attackers can exploit prompt injection to access private data. To stay safe, always run these agents inside secure sandboxes that limit file and network access.
+- [Why Zig + Qt Feels Like Doing the Impossible Right](https://dayvster.com/blog/why-zig-+-qt-feels-like-doing-the-impossible-right/) 👤 Dayvi Schuster 💬 4105 🗓️ 2025-10-23
+    > **Резюме:** Zig paired with Qt (via libqt6zig) makes practical, cross-platform GUI development possible. The bindings are direct, explicit, and map Qt’s C++ API well into Zig for good performance and clarity. The author built a simple shopping-list app to show the library is usable and promising.
+- [SLOCCount in WebAssembly](https://simonwillison.net/2025/Oct/22/sloccount-in-webassembly/#atom-everything) 👤 Simon Willison 💬 517 🗓️ 2025-10-23
+    > **Резюме:** Simon Willison revived the old SLOCCount tool by running it on the web using WebAssembly and Perl. He worked with AI to build a web interface that analyzes code pasted in, loaded from GitHub, or uploaded as a Zip file. The tool estimates development costs, but these numbers are outdated and should not be fully trusted.
+- [More Tools for the Agent](https://ampcode.com/news/more-tools-for-the-agent) 👤 ampcode.com 💬 604 🗓️ 2025-10-23
+    > **Резюме:** Amp has improved toolboxes by allowing multiple toolboxes and adding commands to create, inspect, and run tools easily. A toolbox is a folder of custom UNIX-style programs that help the agent run tasks more simply than complex servers or basic CLI tools. For example, you can create a run_tests tool that runs tests correctly every time, making the agent's work easier and more reliable.
+- [Don't let Claude Code delete your session logs](https://simonwillison.net/2025/Oct/22/claude-code-logs/#atom-everything) 👤 Simon Willison 💬 99 🗓️ 2025-10-22
+    > **Резюме:** Claude Code saves your session logs on your computer but deletes them after 30 days by default. You can stop this by changing the cleanupPeriodDays setting in the settings file. This lets you keep your logs for a very long time.
+- [The price of mandatory code reviews](https://newsletter.manager.dev/p/the-price-of-mandatory-code-reviews) 👤 Anton Zaides 💬 1305 🗓️ 2025-10-21
+    > **Резюме:** Mandatory code reviews slow shipping but cut bugs a lot. High-quality, fast reviews give the best trade-off. Top teams combine selective reviews, speed, and strong review culture.
 - [Diskcache, more than caching](https://www.bitecode.dev/p/diskcache-more-than-caching) 👤 Bite Code! 💬 1310 🗓️ 2025-10-20
     > **Резюме:** Diskcache is a lightweight Python key/value store built on SQLite that acts like a local subset of Redis. It provides fast caching plus transactions, tagging, queues, locks, sharding, and tools to avoid race conditions. You can use it across processes for caching, simple queues, and coordinated concurrency.
 - [Using Asyncpg with FastAPI and Air](https://daniel.feldroy.com/posts/2025-10-using-asyncpg-with-fastapi-and-air) 👤 https://daniel.feldroy.com 💬 709 🗓️ 2025-10-20
