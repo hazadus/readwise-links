@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 39
+- Всего ссылок: 40
 
 ## Ссылки
 
+- [Most of What We Call Progress](https://yusufaytas.com/most-of-what-we-call-progress/) 👤 https://www.facebook.com/yusufaytas 💬 2537 🔖 #management, #softwaredesign 🗓️ 2025-10-16
+    > **Резюме:** We confuse new tools and clever designs with real progress. Experience shows clarity, simple practices, and human coordination matter more than abstractions. True maturity is about making systems reliable, understandable, and easy for others to work with.
 - [Engineering velocity on steroids](https://newsletter.manager.dev/p/what-a-10x-team-looks-like) 👤 Anton Zaides 💬 2074 🔖 #leaddev, #management, #development 🗓️ 2025-10-14
     > **Резюме:** A small, focused team can learn and ship much faster than a large org by optimizing for velocity. Let engineers talk directly to customers, streamline PRs with AI, and invest in testing to keep speed without regressions. Find the biggest bottleneck, fix it, then repeat.
 - [How to make your team read your mind](https://newsletter.manager.dev/p/how-to-make-your-team-read-your-mind) 👤 Anton Zaides 💬 1893 🔖 #leaddev, #management 🗓️ 2025-10-10

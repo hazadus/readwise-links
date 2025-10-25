@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [Most of What We Call Progress](https://yusufaytas.com/most-of-what-we-call-progress/) 👤 https://www.facebook.com/yusufaytas 💬 2537 🔖 #management, #softwaredesign 🗓️ 2025-10-16
+    > **Резюме:** We confuse new tools and clever designs with real progress. Experience shows clarity, simple practices, and human coordination matter more than abstractions. True maturity is about making systems reliable, understandable, and easy for others to work with.
 - [Why Over-Engineering Happens](https://yusufaytas.com/why-over-engineering-happens/?utm_source=tldrwebdev) 👤 https://www.facebook.com/yusufaytas 💬 3283 🔖 #principles, #microservices, #softwaredesign 🗓️ 2025-10-02
     > **Резюме:** Over-engineering happens when teams build complex systems for imaginary futures instead of solving real user problems. This adds cost, slows delivery, and makes systems fragile. Keep architecture simple, add complexity only when evidence demands it.
 - [What is "good taste" in software engineering?](https://seangoedecke.com/taste/) 👤 seangoedecke.com 💬 1835 🔖 #development, #architecture, #softwaredesign 🗓️ 2025-09-28

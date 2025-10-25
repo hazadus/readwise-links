@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [A guide for Code Reviews](https://yusufaytas.com/a-guide-for-code-reviews/) 👤 https://www.facebook.com/yusufaytas 💬 396 🔖 #codereview 🗓️ 2025-10-24
+    > **Резюме:** Send focused, well-documented, and tested code reviews, breaking large features into multiple CRs.  
+Reviewers should read the context, give constructive questions and praise, and prefer design discussions over many nitpicks.  
+Treat each other respectfully, avoid personal attacks, and use issue tracking and consistent formatting.
+- [The price of mandatory code reviews](https://newsletter.manager.dev/p/the-price-of-mandatory-code-reviews) 👤 Anton Zaides 💬 1305 🔖 #codereview 🗓️ 2025-10-21
+    > **Резюме:** Mandatory code reviews slow shipping but cut bugs a lot. High-quality, fast reviews give the best trade-off. Top teams combine selective reviews, speed, and strong review culture.
 - [If you are good at code review, you will be good at using AI agents](https://seangoedecke.com/ai-agents-and-code-review/) 👤 seangoedecke.com 💬 1285 🔖 #llm, #codereview 🗓️ 2025-09-22
     > **Резюме:** AI agents can generate lots of code but lack sound judgment.  
 Strong code-review skills—seeing structure and alternatives—let you guide agents away from bad designs.  

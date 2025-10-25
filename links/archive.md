@@ -1,9 +1,15 @@
 # Архивные ссылки
 
-- Всего ссылок: 1147
+- Всего ссылок: 1154
 
 ## Ссылки
 
+- [Hiring Red Flags](https://yusufaytas.com/hiring-red-flags/) 👤 https://www.facebook.com/yusufaytas 💬 968 🔖 #hiring 🗓️ 2025-10-24
+- [A guide for Code Reviews](https://yusufaytas.com/a-guide-for-code-reviews/) 👤 https://www.facebook.com/yusufaytas 💬 396 🔖 #codereview 🗓️ 2025-10-24
+- [Leetcode Hard](https://yusufaytas.com/leetcode-hard/) 👤 https://www.facebook.com/yusufaytas 💬 552 🔖 #hiring 🗓️ 2025-10-24
+- [Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas](https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/#atom-everything) 👤 Simon Willison 💬 1157 🗓️ 2025-10-23
+- [More Tools for the Agent](https://ampcode.com/news/more-tools-for-the-agent) 👤 ampcode.com 💬 604 🗓️ 2025-10-23
+- [The price of mandatory code reviews](https://newsletter.manager.dev/p/the-price-of-mandatory-code-reviews) 👤 Anton Zaides 💬 1305 🔖 #codereview 🗓️ 2025-10-21
 - [Should LLMs just treat text content as an image?](https://seangoedecke.com/text-tokens-as-image-tokens/) 👤 seangoedecke.com 💬 1239 🔖 #llm 🗓️ 2025-10-21
 - [Claude Code for web—a new asynchronous coding agent from Anthropic](https://simonwillison.net/2025/Oct/20/claude-code-for-web/#atom-everything) 👤 Simon Willison 💬 1076 🔖 #llm, #claude 🗓️ 2025-10-20
 - [«Переводить Сапковского — как Нобелевскую премию получить». Интервью с переводчиком «Перекрёстка воронов» Вадимом Кумоком](https://www.mirf.ru/book/vadim-kumok-interview) 👤 Алексей Ионов 💬 2039 🔖 #interview 🗓️ 2025-10-20
@@ -13,6 +19,7 @@
 - [We are in the "gentleman scientist" era of AI research](https://seangoedecke.com/ai-and-informal-science/) 👤 seangoedecke.com 💬 1608 🔖 #llm 🗓️ 2025-10-19
 - [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/#atom-everything) 👤 Simon Willison 💬 1480 🔖 #llm, #claude 🗓️ 2025-10-18
 - [Властелин фэнтезийного мира](https://www.kommersant.ru/doc/8137362?from=glavnoe_2) 👤 Кирилл Сарханянц 💬 1075 🗓️ 2025-10-18
+- [Most of What We Call Progress](https://yusufaytas.com/most-of-what-we-call-progress/) 👤 https://www.facebook.com/yusufaytas 💬 2537 🔖 #management, #softwaredesign 🗓️ 2025-10-16
 - [Why Stories Make You Smarter Than Self-Help Books](https://www.joanwestenberg.com/p/why-stories-make-you-smarter-than-self-help-books) 👤 JA Westenberg 💬 929 🔖 #toot, #reading, #inspiration 🗓️ 2025-10-16
     > **Заметка:** "The dirty secret about non-fiction is that most of it could be a blog post.
 
