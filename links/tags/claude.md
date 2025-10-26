@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [claude_code_docs_map.md](https://simonwillison.net/2025/Oct/24/claude-code-docs-map/#atom-everything) 👤 Simon Willison 💬 205 🔖 #claude 🗓️ 2025-10-25
+    > **Резюме:** Simon Willison explains that Claude Code uses a Markdown index (claude_code_docs_map.md) to find documentation when asked about its features. He shows the system prompt directs Claude Code to fetch that URL for answers about itself. He wishes other LLMs would use the same pattern because many struggle to answer questions about their own tools.
+- [Don't let Claude Code delete your session logs](https://simonwillison.net/2025/Oct/22/claude-code-logs/#atom-everything) 👤 Simon Willison 💬 99 🔖 #claude 🗓️ 2025-10-22
+    > **Резюме:** Claude Code saves your session logs on your computer but deletes them after 30 days by default. You can stop this by changing the cleanupPeriodDays setting in the settings file. This lets you keep your logs for a very long time.
 - [Claude Code for web—a new asynchronous coding agent from Anthropic](https://simonwillison.net/2025/Oct/20/claude-code-for-web/#atom-everything) 👤 Simon Willison 💬 1076 🔖 #llm, #claude 🗓️ 2025-10-20
     > **Резюме:** Anthropic released Claude Code for web, an easy-to-use hosted coding agent that runs tasks in managed containers and can edit GitHub repos and open PRs. It supports configurable sandboxing and network isolation to reduce permission prompts and limit data exfiltration. The author found it convenient and effective, though they worry about broad "trusted" allow-lists.
 - [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/#atom-everything) 👤 Simon Willison 💬 1480 🔖 #llm, #claude 🗓️ 2025-10-18

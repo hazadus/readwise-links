@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [“ChatGPT said this” Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/) 👤 Terrible Software 💬 374 🔖 #llm, #codereview 🗓️ 2025-10-25
+    > **Резюме:** Pasting AI output as a review is lazy and unhelpful. Give specific feedback based on your own understanding of the code and context. Use AI to help you think, not to avoid thinking.
 - [A guide for Code Reviews](https://yusufaytas.com/a-guide-for-code-reviews/) 👤 https://www.facebook.com/yusufaytas 💬 396 🔖 #codereview 🗓️ 2025-10-24
     > **Резюме:** Send focused, well-documented, and tested code reviews, breaking large features into multiple CRs.  
 Reviewers should read the context, give constructive questions and praise, and prefer design discussions over many nitpicks.  

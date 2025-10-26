@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 37
+- Всего ссылок: 39
 
 ## Ссылки
 
+- [A gold ceremony to remember](https://daniel.haxx.se/blog/2025/10/25/a-gold-ceremony-to-remember/) 👤 Daniel Stenberg 💬 747 🔖 #toot, #devtools 🗓️ 2025-10-26
+    > **Заметка:** Заслуженная награда🎖️! Рад за Дэниэла. Просто юзайте curl! ✊
+    > **Резюме:** Daniel Stenberg and his family attended a formal awards ceremony at Stockholm City Hall. He received an IVA gold medal for his work and was honored on stage. The evening included speeches, a dinner, and lasting memories.
+- [Just use cURL](https://justuse.org/curl/) 👤 justuse.org 💬 680 🔖 #toot, #devtools 🗓️ 2025-10-26
+    > **Заметка:** Лучше и не скажешь!
+    > **Резюме:** cURL is a fast, simple tool already on your computer for making all kinds of web requests without needing big apps like Postman. It works with many protocols, is easy to use in scripts, and keeps your requests as plain text for easy sharing and version control. Stop wasting time and resources on bloated software—just use cURL.
 - [You Are Insignificant. That's a Good Thing.](https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing) 👤 JA Westenberg 💬 2708 🔖 #toot, #inspiration 🗓️ 2025-10-20
     > **Резюме:** The universe is vast and old, and your life is brief and small. That means you probably won't be remembered forever, and that's okay. You can focus on enjoying life and being kind now instead of chasing cosmic significance.
 - [Why Stories Make You Smarter Than Self-Help Books](https://www.joanwestenberg.com/p/why-stories-make-you-smarter-than-self-help-books) 👤 JA Westenberg 💬 929 🔖 #toot, #reading, #inspiration 🗓️ 2025-10-16

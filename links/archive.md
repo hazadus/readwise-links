@@ -1,9 +1,12 @@
 # Архивные ссылки
 
-- Всего ссылок: 1154
+- Всего ссылок: 1156
 
 ## Ссылки
 
+- [Just use cURL](https://justuse.org/curl/) 👤 justuse.org 💬 680 🔖 #toot, #devtools 🗓️ 2025-10-26
+    > **Заметка:** Лучше и не скажешь!
+- [“ChatGPT said this” Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/) 👤 Terrible Software 💬 374 🔖 #llm, #codereview 🗓️ 2025-10-25
 - [Hiring Red Flags](https://yusufaytas.com/hiring-red-flags/) 👤 https://www.facebook.com/yusufaytas 💬 968 🔖 #hiring 🗓️ 2025-10-24
 - [A guide for Code Reviews](https://yusufaytas.com/a-guide-for-code-reviews/) 👤 https://www.facebook.com/yusufaytas 💬 396 🔖 #codereview 🗓️ 2025-10-24
 - [Leetcode Hard](https://yusufaytas.com/leetcode-hard/) 👤 https://www.facebook.com/yusufaytas 💬 552 🔖 #hiring 🗓️ 2025-10-24
