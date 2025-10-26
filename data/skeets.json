@@ -36,7 +36,9 @@
         "01k768bw8k18hnrdbdqwe1vq4c",
         "01k7a31vzbxzf9913gzvyf2wsm",
         "01k7q49rqxb98z451r3xwawkvr",
-        "01k80cp8g8y2v5aj7wdba500fg"
+        "01k80cp8g8y2v5aj7wdba500fg",
+        "01k8eyrzas4tz1pw36n0wk5mbw",
+        "01k8exqfmmfxh03jdwk2ddhtt5"
     ],
     "skeets": [
         {
@@ -260,6 +262,18 @@
             "document_title": "You Are Insignificant. That's a Good Thing.",
             "source_url": "https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing",
             "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3m3rc226hgq2o"
+        },
+        {
+            "document_id": "01k8eyrzas4tz1pw36n0wk5mbw",
+            "document_title": "A gold ceremony to remember",
+            "source_url": "https://daniel.haxx.se/blog/2025/10/25/a-gold-ceremony-to-remember/",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3m43dsdmpqx2o"
+        },
+        {
+            "document_id": "01k8exqfmmfxh03jdwk2ddhtt5",
+            "document_title": "Just use cURL",
+            "source_url": "https://justuse.org/curl/",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3m43dse3t5p2o"
         }
     ]
 }
