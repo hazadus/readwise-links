@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1156
+- Всего ссылок: 1158
 
 ## Ссылки
 
+- [Setting up a codebase for working with coding agents](https://simonwillison.net/2025/Oct/25/coding-agent-tips/#atom-everything) 👤 Simon Willison 💬 226 🔖 #llm 🗓️ 2025-10-26
+- [AI’s Trap Settling for Boilerplate Over Elegant Code](https://dayvster.com/blog/ais-trap-settling-for-boilerplate-over-elegant-code/) 👤 Dayvi Schuster 💬 1783 🔖 #llm 🗓️ 2025-10-26
 - [Just use cURL](https://justuse.org/curl/) 👤 justuse.org 💬 680 🔖 #toot, #devtools 🗓️ 2025-10-26
     > **Заметка:** Лучше и не скажешь!
 - [“ChatGPT said this” Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/) 👤 Terrible Software 💬 374 🔖 #llm, #codereview 🗓️ 2025-10-25

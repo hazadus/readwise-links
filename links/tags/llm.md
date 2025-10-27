@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 270
+- Всего ссылок: 272
 
 ## Ссылки
 
+- [Setting up a codebase for working with coding agents](https://simonwillison.net/2025/Oct/25/coding-agent-tips/#atom-everything) 👤 Simon Willison 💬 226 🔖 #llm 🗓️ 2025-10-26
+    > **Резюме:** Good automated tests let coding agents run and verify changes quickly. Simple dev setup notes and tools (playwright, linters, formatters) help agents test and fix code. Anything that makes code easier for humans also helps agents.
+- [AI’s Trap Settling for Boilerplate Over Elegant Code](https://dayvster.com/blog/ais-trap-settling-for-boilerplate-over-elegant-code/) 👤 Dayvi Schuster 💬 1783 🔖 #llm 🗓️ 2025-10-26
+    > **Резюме:** AI can speed coding but encourages accepting boilerplate and ugly solutions.  
+Relying on AI can make developers lose ownership, learning, and pride in their work.  
+Strive for simple, elegant code you would sign your name under.
 - [“ChatGPT said this” Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/) 👤 Terrible Software 💬 374 🔖 #llm, #codereview 🗓️ 2025-10-25
     > **Резюме:** Pasting AI output as a review is lazy and unhelpful. Give specific feedback based on your own understanding of the code and context. Use AI to help you think, not to avoid thinking.
 - [Should LLMs just treat text content as an image?](https://seangoedecke.com/text-tokens-as-image-tokens/) 👤 seangoedecke.com 💬 1239 🔖 #llm 🗓️ 2025-10-21
