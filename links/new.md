@@ -1,9 +1,13 @@
 # Новые ссылки
 
-- Всего ссылок: 852
+- Всего ссылок: 856
 
 ## Ссылки
 
+- [> The Journey Before main()_](https://amit.prasad.me/blog/before-main?utm_source=tldrwebdev) 👤 prasad.me 💬 2155 🗓️ 2025-10-27
+- [Why I code as a CTO](https://www.assembled.com/blog/why-i-code-as-a-cto?utm_source=tldrwebdev) 👤 assembled.com 💬 1404 🗓️ 2025-10-27
+- [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/) 👤 Uros Popovic 💬 4835 🗓️ 2025-10-27
+- [Turn off macOS Liquid Glass via the CLI](https://www.stefanjudis.com/snippets/turn-off-macos-liquid-glass-via-the-cli/) 👤 stefanjudis.com 💬 104 🔖 #macos 🗓️ 2025-10-27
 - [A gold ceremony to remember](https://daniel.haxx.se/blog/2025/10/25/a-gold-ceremony-to-remember/) 👤 Daniel Stenberg 💬 747 🔖 #toot, #devtools 🗓️ 2025-10-26
     > **Заметка:** Заслуженная награда🎖️! Рад за Дэниэла. Просто юзайте curl! ✊
 - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/?utm_source=tldrwebdev) 👤 Evan Hahn 💬 2125 🗓️ 2025-10-26
