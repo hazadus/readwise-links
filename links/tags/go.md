@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 231
+- Всего ссылок: 232
 
 ## Ссылки
 
+- [Practice Best Practices • The Applied Go Weekly Newsletter 2025-10-26](https://newsletter.appliedgo.net/archive/2025-10-26-practice-best-practices/) 👤 The Applied Go Weekly Newsletter 💬 1143 🔖 #go 🗓️ 2025-10-28
+    > **Резюме:** This newsletter shares practical Go tips, best practices, and curated articles to help you write clearer, more reliable code. It covers topics like durable event processing, concurrency patterns, and useful libraries and tools. Links to talks, podcasts, and projects offer quick ways to learn and improve your Go skills.
 - [Handmade With Love • The Applied Go Weekly Newsletter 2025-10-19](https://newsletter.appliedgo.net/archive/2025-10-19-handmade-with-love/) 👤 The Applied Go Weekly Newsletter 💬 1172 🔖 #go 🗓️ 2025-10-23
     > **Резюме:** The newsletter is a short, lovingly made roundup of recent Go news, tools, and projects. It highlights articles, podcasts, libraries, and practical tooling for Go developers. The author aims to publish weekly despite limited time.
 - [Literate Scripting • The Applied Go Weekly Newsletter 2025-10-12](https://newsletter.appliedgo.net/archive/2025-10-12-literate-scripting-go-in-atuin-runbooks/) 👤 The Applied Go Weekly Newsletter 💬 1140 🔖 #go 🗓️ 2025-10-13

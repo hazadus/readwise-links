@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 272
+- Всего ссылок: 273
 
 ## Ссылки
 
@@ -10,6 +10,8 @@
     > **Резюме:** AI can speed coding but encourages accepting boilerplate and ugly solutions.  
 Relying on AI can make developers lose ownership, learning, and pride in their work.  
 Strive for simple, elegant code you would sign your name under.
+- [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon) 👤 geoffreylitt.com 💬 894 🔖 #llm 🗓️ 2025-10-25
+    > **Резюме:** The author compares coding with AI to being a surgeon who focuses on important work while AI handles secondary tasks. This approach lets them spend more time on creative design and less on grunt work. AI tools make coding more efficient and support a better balance of tasks without losing control.
 - [“ChatGPT said this” Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/) 👤 Terrible Software 💬 374 🔖 #llm, #codereview 🗓️ 2025-10-25
     > **Резюме:** Pasting AI output as a review is lazy and unhelpful. Give specific feedback based on your own understanding of the code and context. Use AI to help you think, not to avoid thinking.
 - [Should LLMs just treat text content as an image?](https://seangoedecke.com/text-tokens-as-image-tokens/) 👤 seangoedecke.com 💬 1239 🔖 #llm 🗓️ 2025-10-21

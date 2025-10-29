@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 4
 
 ## Ссылки
 
+- [Convert VIM to Code Editor in 8 Easy Steps - Beginner Friendly](mailto:reader-forwarded-email/9cf1fa4ff217f1413170c1b09a6f3394) 👤 Sushant from Beyond The Syntax 💬 967 🔖 #vim 🗓️ 2025-10-25
+    > **Резюме:** This guide shows how to turn a fresh Neovim install into a full code editor in eight simple steps. It covers installing Neovim, setting up config folders, adding plugins (LSP, Treesitter, Telescope, etc.), and creating keymaps and settings. By following it you get features like autocomplete, syntax highlighting, Git integration, and a VS Code–like experience.
 - [Vim — это метаредактирование (иммерсивный текстовый редактор) // Запись доклада](https://www.youtube.com/watch?v=RPlOYfgGDjQ&feature=youtu.be) 👤 Куда войти? 🔖 #vim 🗓️ 2025-10-01
     > **Резюме:** Доклад рассказывает, что Vim — это иммерсивный текстовый редактор, построенный вокруг работы с текстом. Автор показывает повторение действий, регистры, поиск и плагины как ключевые фичи. Vim легко настраивается и расширяется, включая интеграции с инструментами и AI.
 - [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html) 👤 Oskar Wickström 💬 925 🔖 #vim, #joyandcuriosity 🗓️ 2025-08-31

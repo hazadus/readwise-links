@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [Mistakes I see engineers making in their code reviews](https://seangoedecke.com/good-code-reviews/) 👤 seangoedecke.com 💬 2088 🔖 #codereview 🗓️ 2025-10-25
+    > **Резюме:** Code review should look beyond the diff and consider how the change fits the whole codebase. Leave only a few high-value comments and avoid imposing personal style on every PR. If you truly want to block a change, make it a blocking review; otherwise approve so work can move forward.
 - [“ChatGPT said this” Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/) 👤 Terrible Software 💬 374 🔖 #llm, #codereview 🗓️ 2025-10-25
     > **Резюме:** Pasting AI output as a review is lazy and unhelpful. Give specific feedback based on your own understanding of the code and context. Use AI to help you think, not to avoid thinking.
 - [A guide for Code Reviews](https://yusufaytas.com/a-guide-for-code-reviews/) 👤 https://www.facebook.com/yusufaytas 💬 396 🔖 #codereview 🗓️ 2025-10-24

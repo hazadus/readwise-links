@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 1158
+- Всего ссылок: 1161
 
 ## Ссылки
 
@@ -8,6 +8,9 @@
 - [AI’s Trap Settling for Boilerplate Over Elegant Code](https://dayvster.com/blog/ais-trap-settling-for-boilerplate-over-elegant-code/) 👤 Dayvi Schuster 💬 1783 🔖 #llm 🗓️ 2025-10-26
 - [Just use cURL](https://justuse.org/curl/) 👤 justuse.org 💬 680 🔖 #toot, #devtools 🗓️ 2025-10-26
     > **Заметка:** Лучше и не скажешь!
+- [Convert VIM to Code Editor in 8 Easy Steps - Beginner Friendly](mailto:reader-forwarded-email/9cf1fa4ff217f1413170c1b09a6f3394) 👤 Sushant from Beyond The Syntax 💬 967 🔖 #vim 🗓️ 2025-10-25
+- [claude_code_docs_map.md](https://simonwillison.net/2025/Oct/24/claude-code-docs-map/#atom-everything) 👤 Simon Willison 💬 205 🔖 #claude 🗓️ 2025-10-25
+- [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon) 👤 geoffreylitt.com 💬 894 🔖 #llm 🗓️ 2025-10-25
 - [“ChatGPT said this” Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/) 👤 Terrible Software 💬 374 🔖 #llm, #codereview 🗓️ 2025-10-25
 - [Hiring Red Flags](https://yusufaytas.com/hiring-red-flags/) 👤 https://www.facebook.com/yusufaytas 💬 968 🔖 #hiring 🗓️ 2025-10-24
 - [A guide for Code Reviews](https://yusufaytas.com/a-guide-for-code-reviews/) 👤 https://www.facebook.com/yusufaytas 💬 396 🔖 #codereview 🗓️ 2025-10-24

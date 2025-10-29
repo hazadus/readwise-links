@@ -1,9 +1,16 @@
 # Новые ссылки
 
-- Всего ссылок: 856
+- Всего ссылок: 860
 
 ## Ссылки
 
+- [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html?utm_source=tldrwebdev) 👤 Google Testing Blog 💬 334 🗓️ 2025-10-29
+- [Springs and Bounces in Native CSS The magic of the linear() timing function](https://www.joshwcomeau.com/animation/linear-timing-function/) 👤 Josh W. Comeau 💬 2718 🔖 #css 🗓️ 2025-10-29
+- [Give your engineers a kingdom](https://newsletter.manager.dev/p/give-your-engineers-a-kingdom) 👤 Anton Zaides 💬 1015 🗓️ 2025-10-28
+- [The Map Is Not the Territory (and It’s Definitely Not Progress)](https://www.joanwestenberg.com/p/the-map-is-not-the-territory-and-it-s-definitely-not-progress) 👤 JA Westenberg 💬 978 🗓️ 2025-10-28
+- [Web Weekly #172](https://www.stefanjudis.com/blog/web-weekly-172/) 👤 stefanjudis.com 💬 1217 🗓️ 2025-10-28
+- [Worse is Better Start Simple and Iterate](https://dayvster.com/blog/worse-is-better-start-simple-and-iterate/) 👤 Dayvi Schuster 💬 1574 🗓️ 2025-10-28
+- [Practice Best Practices • The Applied Go Weekly Newsletter 2025-10-26](https://newsletter.appliedgo.net/archive/2025-10-26-practice-best-practices/) 👤 The Applied Go Weekly Newsletter 💬 1143 🔖 #go 🗓️ 2025-10-28
 - [> The Journey Before main()_](https://amit.prasad.me/blog/before-main?utm_source=tldrwebdev) 👤 prasad.me 💬 2155 🗓️ 2025-10-27
 - [Why I code as a CTO](https://www.assembled.com/blog/why-i-code-as-a-cto?utm_source=tldrwebdev) 👤 assembled.com 💬 1404 🗓️ 2025-10-27
 - [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/) 👤 Uros Popovic 💬 4835 🗓️ 2025-10-27
@@ -14,10 +21,7 @@
 - [Solving the wrong problem](https://www.ufried.com/blog/ai_assisted_coding/?utm_source=tldrwebdev) 👤 Uwe Friedrichsen 💬 4167 🗓️ 2025-10-26
 - [Avoiding the Shiny Object Syndrome: When "Good Enough" Is Actually Perfect](https://alfy.blog/2025/08/22/from-code-that-works-to-code-that-matters.md.html) 👤 Ahmad Elalfy 💬 1043 🗓️ 2025-10-25
 - [How Functional Programming Shaped (and Twisted) Frontend Development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_308) 👤 Ahmad Elalfy 💬 4008 🗓️ 2025-10-25
-- [Convert VIM to Code Editor in 8 Easy Steps - Beginner Friendly](mailto:reader-forwarded-email/9cf1fa4ff217f1413170c1b09a6f3394) 👤 Sushant from Beyond The Syntax 💬 967 🗓️ 2025-10-25
-- [Mistakes I see engineers making in their code reviews](https://seangoedecke.com/good-code-reviews/) 👤 seangoedecke.com 💬 2088 🗓️ 2025-10-25
-- [claude_code_docs_map.md](https://simonwillison.net/2025/Oct/24/claude-code-docs-map/#atom-everything) 👤 Simon Willison 💬 205 🔖 #claude 🗓️ 2025-10-25
-- [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon) 👤 geoffreylitt.com 💬 894 🗓️ 2025-10-25
+- [Mistakes I see engineers making in their code reviews](https://seangoedecke.com/good-code-reviews/) 👤 seangoedecke.com 💬 2088 🔖 #codereview 🗓️ 2025-10-25
 - [Запуск MCP-сервера для AI-агентов от Битрикс24: интеграция с документацией REST API без ошибок](https://habr.com/ru/companies/bitrix/news/956808/) 👤 MaxMoro1 💬 310 🗓️ 2025-10-21
 - [A complete guide to HTTP caching](https://www.jonoalderson.com/performance/http-caching/) 👤 Jono Alderson 💬 9131 🔖 #http 🗓️ 2025-10-10
 - [Standard Package Layout](https://www.gobeyond.dev/standard-package-layout/) 👤 Ben Johnson 💬 2012 🗓️ 2025-10-09
