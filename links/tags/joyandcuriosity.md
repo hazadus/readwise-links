@@ -1,9 +1,29 @@
 # Ссылки
 
-- Всего ссылок: 35
+- Всего ссылок: 43
 
 ## Ссылки
 
+- [AI is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more?utm_source=substack&utm_medium=email) 👤 tawandamunongo.dev 💬 1439 🔖 #joyandcuriosity 🗓️ 2025-10-29
+    > **Резюме:** AI tools promised more freedom but are driving people to work longer and harder. The always-on nature of AI creates guilt for resting and fuels a 996-style hustle. Saying "enough" and setting boundaries may be the radical act we need to protect creativity and well-being.
+- [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/?utm_source=substack&utm_medium=email) 👤 allvpv <Przemysław Kusiak> 💬 986 🔖 #joyandcuriosity 🗓️ 2025-10-29
+    > **Резюме:** AI can help you learn faster and be a great tutor, but using it to do your coding for you prevents real learning. Agentic coding tools may speed delivery but erode understanding and control over complex systems. Use AI to aid learning and explore options, not to outsource your responsibility.
+- [Don't delegate thinking, delegate work](https://howtobuildwithai.substack.com/p/dont-delegate-thinking-delegate-work?utm_source=substack&utm_medium=email) 👤 Nicolay Christopher Gerold 💬 414 🔖 #joyandcuriosity 🗓️ 2025-10-29
+    > **Резюме:** AI can speed up coding but not understanding.  
+Developers still must plan, review, and decide what to build.  
+Don't delegate thinking—delegate only the work.
+- [I want to see the claw](https://vickiboykis.com/2025/10/20/i-want-to-see-the-claw/?utm_source=substack&utm_medium=email) 👤 ★❤✰ Vicki Boykis ★❤✰  💬 861 🔖 #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
+    > **Резюме:** The author values craftsmanship in software and the people who strive for mastery. They worry generative models produce mediocre code and make true care rarer. They want software that shows the "claw"—clear evidence of human care and skill.
+- [You have two jobs](https://jacobian.org/2017/nov/1/you-have-two-jobs/?utm_source=substack&utm_medium=email) 👤 jacobian.org 💬 526 🔖 #career, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
+    > **Резюме:** Your job involves writing good code and being easy to work with. Building strong relationships with colleagues is crucial for success in your role. Both technical skills and good relationships are essential for solving problems effectively.
+- [The Basics](https://registerspill.thorstenball.com/p/the-basics?utm_source=substack&utm_medium=email) 👤 Thorsten Ball 💬 422 🔖 #joyandcuriosity 🗓️ 2025-10-29
+    > **Резюме:** Focus on fundamentals: test manually, think through edge cases, and keep changes small and clear.  
+Communicate clearly and responsibly: read docs and error messages, write useful bug reports, and do the homework before meetings.  
+Be reliable and considerate: meet commitments, keep PRs updated, review others, and aim to make people want to work with you.
+- [Build Your Own Database](https://www.nan.fyi/database?utm_source=substack&utm_medium=email) 👤 Nanda Syahrasyad 💬 1239 🔖 #joyandcuriosity 🗓️ 2025-10-29
+    > **Резюме:** The post explains how to build a simple key-value database and shows why naive append-and-update files are inefficient. It introduces indexes, sorted on-disk segments (SSTs), and compaction to fix size and search issues. Combining an in-memory memtable with on-disk SSTs yields an LSM tree used in systems like LevelDB and DynamoDB.
+- [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/?utm_source=tldrwebdev) 👤 Evan Hahn 💬 2125 🔖 #joyandcuriosity 🗓️ 2025-10-26
+    > **Резюме:** The author describes many small shell scripts they use frequently to solve everyday tasks. Most scripts are simple helpers for making temp dirs, editing quick notes, downloading media, and automating routine work. They keep these handy in dotfiles and use them from daily to monthly.
 - [How to build a remarkable command palette](https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email) 👤 Tim Boucher 💬 2747 🔖 #joyandcuriosity 🗓️ 2025-10-19
     > **Резюме:** A command palette is a user interface tool that allows quick access to various commands, making it easier for users to discover features. To build an effective command palette, ensure it is available everywhere, centralizes all commands, and offers flexibility in command matching. By following these principles, you can create a powerful and user-friendly command palette that enhances productivity.
 - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) 👤 Mitchell Hashimoto 💬 3285 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-13

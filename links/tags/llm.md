@@ -401,7 +401,7 @@ Even with optimistic numbers, retries and propagated mistakes can push the fract
 
 Джоан Вестенберг ссылается на Поланьи именно как на автора идеи о неявном знании, чтобы подчеркнуть: поверхностное «офшоринг» мышления к алгоритмам и сводкам лишает нас того глубинного, личного аспекта понимания, о котором говорил Поланьи.
     > **Резюме:** We rely more on AI tools that give quick answers, but this weakens our own thinking and memory. Offloading thought to machines makes knowledge shallow and disconnected from personal understanding. To keep wisdom, we must slow down, question, and think deeply ourselves.
-- [Pure and impure engineering](https://seangoedecke.com/pure-and-impure-engineering/) 👤 seangoedecke.com 💬 2264 🔖 #llm, #development 🗓️ 2025-06-22
+- [Pure and impure engineering](https://seangoedecke.com/pure-and-impure-engineering/) 👤 seangoedecke.com 💬 2264 🔖 #llm, #development, #softwarecraft 🗓️ 2025-06-22
     > **Резюме:** There are two kinds of software engineering: pure engineering focuses on perfect technical solutions, while impure engineering solves real-world problems efficiently. Large tech companies need mostly impure engineering because it handles complex, practical challenges and teamwork. Both types are hard and valuable, but they require different skills and ways of thinking.
 - [What's going to happen to junior engineers?](https://seangoedecke.com/juniors-and-ai/) 👤 seangoedecke.com 💬 1132 🔖 #llm 🗓️ 2025-06-20
     > **Резюме:** Tech companies are hiring fewer junior engineers because AI can do many tasks they used to do. Juniors struggle to add value because AI works better with experienced engineers who know when to guide it. This trend risks the future growth of senior engineers, which could hurt the industry long-term.

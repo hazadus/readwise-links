@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 232
+- Всего ссылок: 233
 
 ## Ссылки
 
+- [The “10x” Commandments of Highly Effective Go](https://blog.jetbrains.com/go/2025/10/16/the-10x-commandments-of-highly-effective-go/?utm_source=tldrwebdev) 👤 The JetBrains Blog 💬 1291 🔖 #go 🗓️ 2025-10-29
+    > **Резюме:** Write reusable packages, not one-off programs, and make code easy to read with clear names, small functions, and useful zero values.  
+Test everything, check and wrap errors properly, and avoid globals or unsafe concurrency.  
+Keep binaries portable and small, log sparingly, handle errors for users, and iteratively refactor after validating with real users.
 - [Practice Best Practices • The Applied Go Weekly Newsletter 2025-10-26](https://newsletter.appliedgo.net/archive/2025-10-26-practice-best-practices/) 👤 The Applied Go Weekly Newsletter 💬 1143 🔖 #go 🗓️ 2025-10-28
     > **Резюме:** This newsletter shares practical Go tips, best practices, and curated articles to help you write clearer, more reliable code. It covers topics like durable event processing, concurrency patterns, and useful libraries and tools. Links to talks, podcasts, and projects offer quick ways to learn and improve your Go skills.
 - [Handmade With Love • The Applied Go Weekly Newsletter 2025-10-19](https://newsletter.appliedgo.net/archive/2025-10-19-handmade-with-love/) 👤 The Applied Go Weekly Newsletter 💬 1172 🔖 #go 🗓️ 2025-10-23

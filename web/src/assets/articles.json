@@ -1,5 +1,454 @@
 [
     {
+        "id": "01k8rxkgyg1me3wvwzmse67fa8",
+        "url": "https://read.readwise.io/read/01k8rxkgyg1me3wvwzmse67fa8",
+        "source_url": "https://evanhahn.com/mac-ocr-script/",
+        "title": "Simple macOS script to extract text from images (OCR)",
+        "author": "Evan Hahn",
+        "source": "Reader in app link save",
+        "category": "article",
+        "location": "new",
+        "tags": {},
+        "site_name": "evanhahn.com",
+        "word_count": 232,
+        "notes": "",
+        "summary": "Evan Hahn made a simple macOS script called \"ocr\" that extracts text from images using Apple’s text recognition API. It works well for screenshots and photos but sometimes misreads characters (like em dashes) and logs an annoying error if recognition fails. He shared the Swift source and welcomes fixes.",
+        "image_url": "",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-07-14",
+        "created_at": "2025-10-29T21:22:27.465743+00:00",
+        "updated_at": "2025-10-29T21:22:31.351978+00:00",
+        "saved_at": "2025-10-29T21:22:26.385000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-10-29T21:22:26.385000+00:00"
+    },
+    {
+        "id": "01k8rtz1fhrjb255v4h1p9g89c",
+        "url": "https://read.readwise.io/read/01k8rtz1fhrjb255v4h1p9g89c",
+        "source_url": "https://tawandamunongo.dev/posts/2025/10/ai-work-more?utm_source=substack&utm_medium=email",
+        "title": "AI is Making Us Work More",
+        "author": "tawandamunongo.dev",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
+                "type": "manual",
+                "created": 1761770189130
+            }
+        },
+        "site_name": "tawandamunongo.dev",
+        "word_count": 1439,
+        "notes": "",
+        "summary": "AI tools promised more freedom but are driving people to work longer and harder. The always-on nature of AI creates guilt for resting and fuels a 996-style hustle. Saying \"enough\" and setting boundaries may be the radical act we need to protect creativity and well-being.",
+        "image_url": "https://tawandamunongo.dev/images/covers/machine-never-sleeps.webp",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-10-21",
+        "created_at": "2025-10-29T20:36:18.117307+00:00",
+        "updated_at": "2025-10-29T20:36:29.135331+00:00",
+        "saved_at": "2025-10-29T20:36:23.577000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-10-29T20:36:23.577000+00:00"
+    },
+    {
+        "id": "01k8rtgec0kqt487v9yyx2w4jf",
+        "url": "https://read.readwise.io/read/01k8rtgec0kqt487v9yyx2w4jf",
+        "source_url": "https://allvpv.org/turn-off-cursor/?utm_source=substack&utm_medium=email",
+        "title": "Turn off Cursor, turn on your mind",
+        "author": "allvpv <Przemysław Kusiak>",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
+                "type": "manual",
+                "created": 1761769708516
+            }
+        },
+        "site_name": "allvpv’s space",
+        "word_count": 986,
+        "notes": "",
+        "summary": "AI can help you learn faster and be a great tutor, but using it to do your coding for you prevents real learning. Agentic coding tools may speed delivery but erode understanding and control over complex systems. Use AI to aid learning and explore options, not to outsource your responsibility.",
+        "image_url": null,
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-08-30",
+        "created_at": "2025-10-29T20:28:19.739195+00:00",
+        "updated_at": "2025-10-29T20:28:28.522619+00:00",
+        "saved_at": "2025-10-29T20:28:19.712000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-10-29T20:28:19.712000+00:00"
+    },
+    {
+        "id": "01k8rt9j30htvxwev06m1npxwg",
+        "url": "https://read.readwise.io/read/01k8rt9j30htvxwev06m1npxwg",
+        "source_url": "https://howtobuildwithai.substack.com/p/dont-delegate-thinking-delegate-work?utm_source=substack&utm_medium=email",
+        "title": "Don't delegate thinking, delegate work",
+        "author": "Nicolay Christopher Gerold",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
+                "type": "manual",
+                "created": 1761769483256
+            }
+        },
+        "site_name": "How to Build With AI",
+        "word_count": 414,
+        "notes": "",
+        "summary": "AI can speed up coding but not understanding.  \nDevelopers still must plan, review, and decide what to build.  \nDon't delegate thinking—delegate only the work.",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!imYE!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90d3e76f-9776-4ff9-b03c-580a519146af_1024x1024.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-10-22",
+        "created_at": "2025-10-29T20:24:34.170287+00:00",
+        "updated_at": "2025-10-29T20:24:43.260746+00:00",
+        "saved_at": "2025-10-29T20:24:34.144000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-10-29T20:24:34.144000+00:00"
+    },
+    {
+        "id": "01k8rt134dchhhk4fdd7c1397z",
+        "url": "https://read.readwise.io/read/01k8rt134dchhhk4fdd7c1397z",
+        "source_url": "https://vickiboykis.com/2025/10/20/i-want-to-see-the-claw/?utm_source=substack&utm_medium=email",
+        "title": "I want to see the claw",
+        "author": "★❤✰ Vicki Boykis ★❤✰ ",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "archive",
+        "tags": {
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761771366131
+            },
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
+                "type": "manual",
+                "created": 1761769206093
+            }
+        },
+        "site_name": "★ Vicki Boykis ★ ",
+        "word_count": 861,
+        "notes": "",
+        "summary": "The author values craftsmanship in software and the people who strive for mastery. They worry generative models produce mediocre code and make true care rarer. They want software that shows the \"claw\"—clear evidence of human care and skill.",
+        "image_url": "https://veekaybee.github.io/images/logo.png",
+        "parent_id": null,
+        "reading_progress": 1.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-10-20",
+        "created_at": "2025-10-29T20:19:56.766291+00:00",
+        "updated_at": "2025-10-29T20:56:12.936847+00:00",
+        "saved_at": "2025-10-29T20:19:56.685000+00:00",
+        "first_opened_at": "2025-10-29T20:40:37.261000+00:00",
+        "last_opened_at": "2025-10-29T20:40:37.261000+00:00",
+        "last_moved_at": "2025-10-29T20:56:12.173000+00:00"
+    },
+    {
+        "id": "01k8rsy5x9z0a56dvypwx5dawt",
+        "url": "https://read.readwise.io/read/01k8rsy5x9z0a56dvypwx5dawt",
+        "source_url": "https://jacobian.org/2017/nov/1/you-have-two-jobs/?utm_source=substack&utm_medium=email",
+        "title": "You have two jobs",
+        "author": "jacobian.org",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "archive",
+        "tags": {
+            "career": {
+                "name": "Career",
+                "type": "manual",
+                "created": 1761772591730
+            },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761772282188
+            },
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
+                "type": "manual",
+                "created": 1761769136205
+            }
+        },
+        "site_name": "jacobian.org",
+        "word_count": 526,
+        "notes": "",
+        "summary": "Your job involves writing good code and being easy to work with. Building strong relationships with colleagues is crucial for success in your role. Both technical skills and good relationships are essential for solving problems effectively.",
+        "image_url": "https://jacobian.org/cards/you-have-two-jobs.png",
+        "parent_id": null,
+        "reading_progress": 1.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2017-11-01",
+        "created_at": "2025-10-29T20:18:21.255513+00:00",
+        "updated_at": "2025-10-29T21:16:50.673939+00:00",
+        "saved_at": "2025-10-29T20:18:21.225000+00:00",
+        "first_opened_at": "2025-10-29T21:10:57.453000+00:00",
+        "last_opened_at": "2025-10-29T21:10:57.453000+00:00",
+        "last_moved_at": "2025-10-29T21:16:49.978000+00:00",
+        "highlights": [
+            {
+                "id": "01k8rx51r2a5c04gsf4xhax4fz",
+                "url": "https://read.readwise.io/read/01k8rx51r2a5c04gsf4xhax4fz",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-mobile-app",
+                "category": "highlight",
+                "location": null,
+                "tags": {},
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01k8rsy5x9z0a56dvypwx5dawt",
+                "reading_progress": 0.0,
+                "content": "Being easy to work with doesn’t mean being a sycophant or a pushover. It doesn’t mean not having and expressing strong opinions. In fact, some of the people I find easiest to work with are people who consistently disagree with me! “Easy to work with” means that you act professionally at all times. You disagree respectfully. You seek to understand before looking to be understood. You communicate clearly. You value your commitments.",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2025-10-29T21:14:32.745194+00:00",
+                "updated_at": "2025-10-29T21:14:32.745208+00:00",
+                "saved_at": "2025-10-29T21:14:32.066000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2025-10-29T21:14:32.066000+00:00"
+            }
+        ]
+    },
+    {
+        "id": "01k8rswjgtkh4djexa7cww7rn1",
+        "url": "https://read.readwise.io/read/01k8rswjgtkh4djexa7cww7rn1",
+        "source_url": "https://registerspill.thorstenball.com/p/the-basics?utm_source=substack&utm_medium=email",
+        "title": "The Basics",
+        "author": "Thorsten Ball",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
+                "type": "manual",
+                "created": 1761769129224
+            }
+        },
+        "site_name": "thorstenball.com",
+        "word_count": 422,
+        "notes": "",
+        "summary": "Focus on fundamentals: test manually, think through edge cases, and keep changes small and clear.  \nCommunicate clearly and responsibly: read docs and error messages, write useful bug reports, and do the homework before meetings.  \nBe reliable and considerate: meet commitments, keep PRs updated, review others, and aim to make people want to work with you.",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!kJNN!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f75de2e-1241-443f-9c0c-171211c0b96d_4032x3024.jpeg",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2024-03-23",
+        "created_at": "2025-10-29T20:17:28.751146+00:00",
+        "updated_at": "2025-10-29T20:18:50.708211+00:00",
+        "saved_at": "2025-10-29T20:17:28.602000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-10-29T20:17:28.602000+00:00"
+    },
+    {
+        "id": "01k8rsskj5v9t6xkg2g7796jvh",
+        "url": "https://read.readwise.io/read/01k8rsskj5v9t6xkg2g7796jvh",
+        "source_url": "https://www.nan.fyi/database?utm_source=substack&utm_medium=email",
+        "title": "Build Your Own Database",
+        "author": "Nanda Syahrasyad",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
+                "type": "manual",
+                "created": 1761768959649
+            }
+        },
+        "site_name": "Not a Number",
+        "word_count": 1239,
+        "notes": "",
+        "summary": "The post explains how to build a simple key-value database and shows why naive append-and-update files are inefficient. It introduces indexes, sorted on-disk segments (SSTs), and compaction to fix size and search issues. Combining an in-memory memtable with on-disk SSTs yields an LSM tree used in systems like LevelDB and DynamoDB.",
+        "image_url": "https://nan.fyi/database/opengraph-image-1hed90.png?cfea4819e491cac5",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": null,
+        "created_at": "2025-10-29T20:15:51.413573+00:00",
+        "updated_at": "2025-10-29T20:15:59.654953+00:00",
+        "saved_at": "2025-10-29T20:15:51.362000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-10-29T20:15:51.362000+00:00"
+    },
+    {
+        "id": "01k8rsg3jxa998fd0egmzgvkyy",
+        "url": "https://read.readwise.io/read/01k8rsg3jxa998fd0egmzgvkyy",
+        "source_url": "https://addyosmani.com/blog/high-agency-matters/?utm_source=tldrwebdev",
+        "title": "High Agency Matters",
+        "author": "Addy Osmani",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {},
+        "site_name": "addyosmani.com",
+        "word_count": 9273,
+        "notes": "",
+        "summary": "Taking initiative (agency) matters more than raw intelligence for long-term success. High-agency people act, learn from feedback, and turn ideas into results. Hire and teach agency because it’s rare, valuable, and can be developed.",
+        "image_url": "https://addyosmani.com/assets/images/high-agency.jpg",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-10-28",
+        "created_at": "2025-10-29T20:10:40.144636+00:00",
+        "updated_at": "2025-10-29T20:10:41.104787+00:00",
+        "saved_at": "2025-10-29T20:10:40.091000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-10-29T20:10:40.091000+00:00"
+    },
+    {
+        "id": "01k8rs2e1m1jkdjrx39vhyfd6x",
+        "url": "https://read.readwise.io/read/01k8rs2e1m1jkdjrx39vhyfd6x",
+        "source_url": "https://blog.jetbrains.com/go/2025/10/16/the-10x-commandments-of-highly-effective-go/?utm_source=tldrwebdev",
+        "title": "The “10x” Commandments of Highly Effective Go",
+        "author": "The JetBrains Blog",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "go": {
+                "name": "Go",
+                "type": "manual",
+                "created": 1761768197720
+            }
+        },
+        "site_name": "The JetBrains Blog",
+        "word_count": 1291,
+        "notes": "",
+        "summary": "Write reusable packages, not one-off programs, and make code easy to read with clear names, small functions, and useful zero values.  \nTest everything, check and wrap errors properly, and avoid globals or unsafe concurrency.  \nKeep binaries portable and small, log sparingly, handle errors for users, and iteratively refactor after validating with real users.",
+        "image_url": "https://blog.jetbrains.com/wp-content/uploads/2025/10/Blog-Social-share-1280x720-1-1.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-10-16",
+        "created_at": "2025-10-29T20:03:12.086585+00:00",
+        "updated_at": "2025-10-29T20:03:19.703123+00:00",
+        "saved_at": "2025-10-29T20:03:12.052000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-10-29T20:03:12.052000+00:00"
+    },
+    {
+        "id": "01k8rrynw3pwz6ws92nn71fd2z",
+        "url": "https://read.readwise.io/read/01k8rrynw3pwz6ws92nn71fd2z",
+        "source_url": "https://masteringnuxt.com/blog/24-time-saving-tips-for-nuxt3?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(241)+Configurable+composables,+named+slots,+and+looping+over+a+range+-+19511363&utm_medium=email&utm_source=convertkit",
+        "title": "24 Time Saving Tips for Nuxt 3",
+        "author": "masteringnuxt.com",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "nuxt": {
+                "name": "Nuxt",
+                "type": "manual",
+                "created": 1761768082164
+            }
+        },
+        "site_name": "masteringnuxt.com",
+        "word_count": 2706,
+        "notes": "",
+        "summary": "Nuxt 3 combines fast server-side rendering with SPA navigation to give users a quick first load and smooth in-app routing.  \nIt includes helpful built-ins like useAsyncData, useStorage, useHead, NuxtLink prefetching, auto-imports, and nested NuxtPage routing to simplify development.  \nUse runtimeConfig for runtime values and app.config for build-time public settings to manage configuration safely.",
+        "image_url": "https://api.masteringnuxt.com/storage/24-time-saving-tips-for-nuxt3",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": null,
+        "created_at": "2025-10-29T20:01:09.021472+00:00",
+        "updated_at": "2025-10-29T20:01:22.174139+00:00",
+        "saved_at": "2025-10-29T20:01:08.995000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-10-29T20:01:08.995000+00:00"
+    },
+    {
+        "id": "01k8rma3c7p6whfg32vm5xbt02",
+        "url": "https://read.readwise.io/read/01k8rma3c7p6whfg32vm5xbt02",
+        "source_url": "https://www.joanwestenberg.com/p/why-you-should-write-every-day-even-if-you-re-not-a-writer",
+        "title": "Why You Should Write Every Day (Even if You’re Not a Writer)",
+        "author": "JA Westenberg",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "new",
+        "tags": {},
+        "site_name": "Joan Westenberg",
+        "word_count": 925,
+        "notes": "",
+        "summary": "Writing every day trains you to think more clearly.  \nPutting vague feelings into sentences reveals contradictions and solutions.  \nTry fifteen minutes a day for a month — worst case you lose time scrolling, best case you debug your own thinking.",
+        "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b1976593-3603-48b9-9491-4dc04be05ce5/IMG_0341.jpg?t=1761694644",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-10-28",
+        "created_at": "2025-10-29T18:40:00.424476+00:00",
+        "updated_at": "2025-10-29T18:40:00.555193+00:00",
+        "saved_at": "2025-10-29T18:40:00.392000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-10-29T18:40:00.392000+00:00"
+    },
+    {
+        "id": "01k8qnxqs6q75kg8v6grbdk5ex",
+        "url": "https://read.readwise.io/read/01k8qnxqs6q75kg8v6grbdk5ex",
+        "source_url": "https://google.github.io/eng-practices/review/",
+        "title": "Code Review Developer Guide",
+        "author": "eng-practices",
+        "source": "Reader in app link save",
+        "category": "article",
+        "location": "new",
+        "tags": {},
+        "site_name": "google.github.io",
+        "word_count": 416,
+        "notes": "",
+        "summary": "Code review is a process where someone other than the code author examines the code to ensure quality. Google has specific guidelines for code reviewers, focusing on design, functionality, complexity, tests, naming, comments, style, and documentation. It's important to choose the best reviewers and can include in-person reviews for effective feedback.",
+        "image_url": "",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": null,
+        "created_at": "2025-10-29T09:48:58.833771+00:00",
+        "updated_at": "2025-10-29T09:49:00.110357+00:00",
+        "saved_at": "2025-10-29T09:48:58.022000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-10-29T09:48:58.022000+00:00"
+    },
+    {
         "id": "01k8pyvfj5ayp06rsnnxgg8khf",
         "url": "https://read.readwise.io/read/01k8pyvfj5ayp06rsnnxgg8khf",
         "source_url": "https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html?utm_source=tldrwebdev",
@@ -564,22 +1013,28 @@
         "source": "Reader Share Sheet iOS",
         "category": "article",
         "location": "new",
-        "tags": {},
+        "tags": {
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
+                "type": "manual",
+                "created": 1761769855322
+            }
+        },
         "site_name": "evanhahn.com",
         "word_count": 2125,
         "notes": "",
         "summary": "The author describes many small shell scripts they use frequently to solve everyday tasks. Most scripts are simple helpers for making temp dirs, editing quick notes, downloading media, and automating routine work. They keep these handy in dotfiles and use them from daily to monthly.",
         "image_url": null,
         "parent_id": null,
-        "reading_progress": 0.4221442556261172,
+        "reading_progress": 0.9323564740416542,
         "content": null,
         "html_content": null,
         "published_date": "2025-10-22",
         "created_at": "2025-10-26T00:20:20.481295+00:00",
-        "updated_at": "2025-10-26T08:47:40.503354+00:00",
+        "updated_at": "2025-10-29T21:26:07.890212+00:00",
         "saved_at": "2025-10-26T00:20:20.441000+00:00",
         "first_opened_at": "2025-10-26T08:29:36.141000+00:00",
-        "last_opened_at": "2025-10-26T08:29:36.141000+00:00",
+        "last_opened_at": "2025-10-29T21:17:56.572000+00:00",
         "last_moved_at": "2025-10-26T00:20:20.441000+00:00"
     },
     {
@@ -742,7 +1197,7 @@
         "author": "seangoedecke.com",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "archive",
         "tags": {
             "codereview": {
                 "name": "CodeReview",
@@ -756,16 +1211,16 @@
         "summary": "Code review should look beyond the diff and consider how the change fits the whole codebase. Leave only a few high-value comments and avoid imposing personal style on every PR. If you truly want to block a change, make it a blocking review; otherwise approve so work can move forward.",
         "image_url": null,
         "parent_id": null,
-        "reading_progress": 0.512232752920432,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2025-10-25",
         "created_at": "2025-10-25T12:14:57.177829+00:00",
-        "updated_at": "2025-10-29T03:23:19.727647+00:00",
+        "updated_at": "2025-10-29T21:10:31.291191+00:00",
         "saved_at": "2025-10-25T12:14:57.163000+00:00",
         "first_opened_at": "2025-10-29T03:16:00.517000+00:00",
-        "last_opened_at": "2025-10-29T03:16:00.581000+00:00",
-        "last_moved_at": "2025-10-25T12:14:57.163000+00:00",
+        "last_opened_at": "2025-10-29T21:00:48.201000+00:00",
+        "last_moved_at": "2025-10-29T21:10:30.586000+00:00",
         "highlights": [
             {
                 "id": "01k8pzvcpfqs2eknrqnm5r8hxd",
@@ -8155,6 +8610,11 @@
                 "type": "manual",
                 "created": 1759076170337
             },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761771436557
+            },
             "softwaredesign": {
                 "name": "SoftwareDesign",
                 "type": "manual",
@@ -8172,7 +8632,7 @@
         "html_content": null,
         "published_date": "2025-09-28",
         "created_at": "2025-09-28T10:01:12.961148+00:00",
-        "updated_at": "2025-09-28T16:26:43.375596+00:00",
+        "updated_at": "2025-10-29T20:57:16.989907+00:00",
         "saved_at": "2025-09-28T10:01:12.945000+00:00",
         "first_opened_at": "2025-09-28T16:08:57.471000+00:00",
         "last_opened_at": "2025-09-28T16:08:57.471000+00:00",
@@ -15363,6 +15823,11 @@
                 "type": "manual",
                 "created": 1756455440083
             },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761771473942
+            },
             "softwaredesign": {
                 "name": "SoftwareDesign",
                 "type": "manual",
@@ -15380,7 +15845,7 @@
         "html_content": null,
         "published_date": "2025-08-28",
         "created_at": "2025-08-29T04:34:40.893676+00:00",
-        "updated_at": "2025-08-29T08:23:04.054110+00:00",
+        "updated_at": "2025-10-29T20:57:54.533846+00:00",
         "saved_at": "2025-08-29T04:34:40.866000+00:00",
         "first_opened_at": "2025-08-29T07:55:37.473000+00:00",
         "last_opened_at": "2025-08-29T07:55:37.618000+00:00",
@@ -31865,6 +32330,11 @@
                 "name": "Development",
                 "type": "manual",
                 "created": 1750763274852
+            },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761771537154
             }
         },
         "site_name": "seangoedecke.com",
@@ -31878,7 +32348,7 @@
         "html_content": null,
         "published_date": "2025-06-22",
         "created_at": "2025-06-22T21:38:30.613514+00:00",
-        "updated_at": "2025-06-24T11:17:57.610806+00:00",
+        "updated_at": "2025-10-29T20:58:58.747067+00:00",
         "saved_at": "2025-06-22T21:38:30.590000+00:00",
         "first_opened_at": "2025-06-24T07:13:29.709000+00:00",
         "last_opened_at": "2025-06-24T11:01:08.238000+00:00",
@@ -31982,6 +32452,11 @@
                 "type": "manual",
                 "created": 1750715572062
             },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761771552637
+            },
             "softwaredesign": {
                 "name": "SoftwareDesign",
                 "type": "manual",
@@ -31999,7 +32474,7 @@
         "html_content": null,
         "published_date": "2025-06-21",
         "created_at": "2025-06-22T16:54:34.950175+00:00",
-        "updated_at": "2025-06-24T05:20:58.251915+00:00",
+        "updated_at": "2025-10-29T20:59:13.160482+00:00",
         "saved_at": "2025-06-22T16:54:34.928000+00:00",
         "first_opened_at": "2025-06-22T21:42:27.891000+00:00",
         "last_opened_at": "2025-06-24T04:57:40.987000+00:00",
@@ -36664,6 +37139,11 @@
                 "name": "Communication",
                 "type": "manual",
                 "created": 1749935810678
+            },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761771573756
             }
         },
         "site_name": "seangoedecke.com",
@@ -36677,7 +37157,7 @@
         "html_content": null,
         "published_date": "2025-06-14",
         "created_at": "2025-06-14T07:15:11.467474+00:00",
-        "updated_at": "2025-06-14T21:25:34.027256+00:00",
+        "updated_at": "2025-10-29T20:59:34.223070+00:00",
         "saved_at": "2025-06-14T07:15:11.442000+00:00",
         "first_opened_at": "2025-06-14T21:15:13.134000+00:00",
         "last_opened_at": "2025-06-14T21:15:13.134000+00:00",
@@ -42106,6 +42586,11 @@
                 "name": "Development",
                 "type": "manual",
                 "created": 1748865223963
+            },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761771606879
             }
         },
         "site_name": "seangoedecke.com",
@@ -42119,10 +42604,10 @@
         "html_content": null,
         "published_date": "2025-05-30",
         "created_at": "2025-05-30T20:28:42.292491+00:00",
-        "updated_at": "2025-06-02T11:56:00.124197+00:00",
+        "updated_at": "2025-10-29T21:00:36.190609+00:00",
         "saved_at": "2025-05-30T20:28:42.272000+00:00",
         "first_opened_at": "2025-05-31T09:22:20.872000+00:00",
-        "last_opened_at": "2025-06-02T11:51:29.599000+00:00",
+        "last_opened_at": "2025-10-29T21:00:14.529000+00:00",
         "last_moved_at": "2025-06-02T11:55:58.982000+00:00",
         "highlights": [
             {
@@ -47258,6 +47743,11 @@
                 "type": "manual",
                 "created": 1747806505305
             },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761771692973
+            },
             "time management": {
                 "name": "Time Management",
                 "type": "manual",
@@ -47275,7 +47765,7 @@
         "html_content": null,
         "published_date": "2025-05-17",
         "created_at": "2025-05-18T09:29:39.816286+00:00",
-        "updated_at": "2025-05-25T19:14:33.122599+00:00",
+        "updated_at": "2025-10-29T21:01:33.564877+00:00",
         "saved_at": "2025-05-18T09:29:39.797000+00:00",
         "first_opened_at": "2025-05-19T21:21:03.596000+00:00",
         "last_opened_at": "2025-05-21T05:48:05.176000+00:00",
@@ -48861,6 +49351,11 @@
                 "name": "Communication",
                 "type": "manual",
                 "created": 1747140360899
+            },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761771713386
             }
         },
         "site_name": "seangoedecke.com",
@@ -48874,7 +49369,7 @@
         "html_content": null,
         "published_date": "2025-05-10",
         "created_at": "2025-05-10T21:35:12.564146+00:00",
-        "updated_at": "2025-05-13T12:48:36.601492+00:00",
+        "updated_at": "2025-10-29T21:01:53.973149+00:00",
         "saved_at": "2025-05-10T21:35:12.544000+00:00",
         "first_opened_at": "2025-05-13T11:12:34.831000+00:00",
         "last_opened_at": "2025-05-13T12:39:03.252000+00:00",
@@ -49789,6 +50284,11 @@
                 "name": "Development",
                 "type": "manual",
                 "created": 1747125577435
+            },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761771726876
             }
         },
         "site_name": "seangoedecke.com",
@@ -49802,7 +50302,7 @@
         "html_content": null,
         "published_date": "2025-05-06",
         "created_at": "2025-05-07T03:37:25.625087+00:00",
-        "updated_at": "2025-05-13T08:39:44.000647+00:00",
+        "updated_at": "2025-10-29T21:02:07.650114+00:00",
         "saved_at": "2025-05-07T03:37:25.598000+00:00",
         "first_opened_at": "2025-05-13T08:19:02.513000+00:00",
         "last_opened_at": "2025-05-13T08:37:59.633000+00:00",
@@ -53043,6 +53543,11 @@
                 "name": "Development",
                 "type": "manual",
                 "created": 1744635252646
+            },
+            "softwaredesign": {
+                "name": "SoftwareDesign",
+                "type": "manual",
+                "created": 1761771777545
             }
         },
         "site_name": "seangoedecke.com",
@@ -53056,7 +53561,7 @@
         "html_content": null,
         "published_date": "2025-04-14",
         "created_at": "2025-04-14T08:48:18.351208+00:00",
-        "updated_at": "2025-04-14T12:54:16.291445+00:00",
+        "updated_at": "2025-10-29T21:02:59.268591+00:00",
         "saved_at": "2025-04-14T08:48:18.341000+00:00",
         "first_opened_at": "2025-04-14T12:38:18.833000+00:00",
         "last_opened_at": "2025-04-14T12:38:18.931000+00:00",
@@ -68121,6 +68626,11 @@
                 "name": "Development",
                 "type": "manual",
                 "created": 1738910334455
+            },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761771891994
             }
         },
         "site_name": "seangoedecke.com",
@@ -68134,7 +68644,7 @@
         "html_content": null,
         "published_date": "2025-02-06",
         "created_at": "2025-02-07T06:04:46.513532+00:00",
-        "updated_at": "2025-02-07T06:38:56.468702+00:00",
+        "updated_at": "2025-10-29T21:04:53.839445+00:00",
         "saved_at": "2025-02-07T06:04:46.498000+00:00",
         "first_opened_at": "2025-02-07T06:26:52.144000+00:00",
         "last_opened_at": "2025-02-07T06:26:52.262000+00:00",
@@ -70834,6 +71344,11 @@
                 "name": "Development",
                 "type": "manual",
                 "created": 1739364745380
+            },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761771870237
             }
         },
         "site_name": "seangoedecke.com",
@@ -70847,7 +71362,7 @@
         "html_content": null,
         "published_date": null,
         "created_at": "2025-01-28T12:32:19.509605+00:00",
-        "updated_at": "2025-02-12T12:52:29.421782+00:00",
+        "updated_at": "2025-10-29T21:04:33.908291+00:00",
         "saved_at": "2025-01-28T12:32:19.230000+00:00",
         "first_opened_at": "2025-02-12T12:38:13.420000+00:00",
         "last_opened_at": "2025-02-12T12:38:13.532000+00:00",
@@ -71117,7 +71632,18 @@
         "source": "Reader add from import URL",
         "category": "article",
         "location": "archive",
-        "tags": {},
+        "tags": {
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761771921856
+            },
+            "softwaredesign": {
+                "name": "SoftwareDesign",
+                "type": "manual",
+                "created": 1761771920798
+            }
+        },
         "site_name": "seangoedecke.com",
         "word_count": 1073,
         "notes": "",
@@ -71129,7 +71655,7 @@
         "html_content": null,
         "published_date": null,
         "created_at": "2025-01-28T12:31:59.360452+00:00",
-        "updated_at": "2025-01-30T08:42:07.006932+00:00",
+        "updated_at": "2025-10-29T21:05:23.816838+00:00",
         "saved_at": "2025-01-28T12:31:59.014000+00:00",
         "first_opened_at": "2025-01-30T08:35:13.404000+00:00",
         "last_opened_at": "2025-01-30T08:35:13.498000+00:00",
@@ -73442,6 +73968,11 @@
                 "name": "Outline",
                 "type": "manual",
                 "created": 1738064477131
+            },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761771954889
             }
         },
         "site_name": "seangoedecke.com",
@@ -73455,7 +73986,7 @@
         "html_content": null,
         "published_date": null,
         "created_at": "2025-01-28T07:52:43.853138+00:00",
-        "updated_at": "2025-01-28T11:41:25.404322+00:00",
+        "updated_at": "2025-10-29T21:05:55.435407+00:00",
         "saved_at": "2025-01-28T07:51:48.726000+00:00",
         "first_opened_at": "2025-01-28T11:32:56.986000+00:00",
         "last_opened_at": "2025-01-28T11:32:57.060000+00:00",
@@ -74335,6 +74866,11 @@
                 "type": "manual",
                 "created": 1738061410611
             },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761771993684
+            },
             "time management": {
                 "name": "Time Management",
                 "type": "manual",
@@ -74352,7 +74888,7 @@
         "html_content": null,
         "published_date": "2025-01-25",
         "created_at": "2025-01-27T06:00:28.378204+00:00",
-        "updated_at": "2025-01-28T10:54:57.824245+00:00",
+        "updated_at": "2025-10-29T21:06:34.131867+00:00",
         "saved_at": "2025-01-27T06:00:28.367000+00:00",
         "first_opened_at": "2025-01-28T10:42:54.762000+00:00",
         "last_opened_at": "2025-01-28T10:51:15.967000+00:00",
@@ -77847,6 +78383,11 @@
                 "name": "LeadDev",
                 "type": "manual",
                 "created": 1738051181257
+            },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761772001213
             }
         },
         "site_name": "seangoedecke.com",
@@ -77860,7 +78401,7 @@
         "html_content": null,
         "published_date": "2025-01-15",
         "created_at": "2025-01-20T10:24:03.322628+00:00",
-        "updated_at": "2025-01-28T07:59:41.447653+00:00",
+        "updated_at": "2025-10-29T21:06:42.681187+00:00",
         "saved_at": "2025-01-20T10:24:03.315000+00:00",
         "first_opened_at": "2025-01-28T07:54:42.474000+00:00",
         "last_opened_at": "2025-01-28T07:54:42.570000+00:00",
@@ -77914,6 +78455,11 @@
                 "name": "Outline",
                 "type": "manual",
                 "created": 1738066661549
+            },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761771945157
             }
         },
         "site_name": "seangoedecke.com",
@@ -77927,7 +78473,7 @@
         "html_content": null,
         "published_date": "2025-01-14",
         "created_at": "2025-01-20T10:18:22.256614+00:00",
-        "updated_at": "2025-01-28T12:29:36.626404+00:00",
+        "updated_at": "2025-10-29T21:05:46.631591+00:00",
         "saved_at": "2025-01-28T07:51:45.746000+00:00",
         "first_opened_at": "2025-01-28T11:48:43.942000+00:00",
         "last_opened_at": "2025-01-28T11:48:44.038000+00:00",
@@ -81576,6 +82122,11 @@
                 "name": "Development",
                 "type": "manual",
                 "created": 1737361480486
+            },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761772039151
             }
         },
         "site_name": "seangoedecke.com",
@@ -81589,7 +82140,7 @@
         "html_content": null,
         "published_date": null,
         "created_at": "2025-01-07T17:47:49.559228+00:00",
-        "updated_at": "2025-01-20T08:33:59.450923+00:00",
+        "updated_at": "2025-10-29T21:07:20.630000+00:00",
         "saved_at": "2025-01-07T17:47:49.540000+00:00",
         "first_opened_at": "2025-01-20T08:22:25.283000+00:00",
         "last_opened_at": "2025-01-20T08:22:25.354000+00:00",
@@ -93623,6 +94174,11 @@
                 "name": "Development",
                 "type": "manual",
                 "created": 1731564444440
+            },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761772293654
             }
         },
         "site_name": "jacobian.org",
@@ -93636,7 +94192,7 @@
         "html_content": null,
         "published_date": "2021-05-20",
         "created_at": "2024-11-13T12:53:02.576833+00:00",
-        "updated_at": "2024-11-14T06:38:12.140774+00:00",
+        "updated_at": "2025-10-29T21:11:35.133437+00:00",
         "saved_at": "2024-11-13T12:53:02.376000+00:00",
         "first_opened_at": "2024-11-14T06:03:46.947000+00:00",
         "last_opened_at": "2024-11-14T06:03:47.024000+00:00",
@@ -94246,6 +94802,11 @@
                 "name": "Development",
                 "type": "manual",
                 "created": 1737452843791
+            },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761772017996
             }
         },
         "site_name": "seangoedecke.com",
@@ -94259,7 +94820,7 @@
         "html_content": null,
         "published_date": null,
         "created_at": "2024-11-12T13:27:23.406608+00:00",
-        "updated_at": "2025-01-21T10:06:18.464934+00:00",
+        "updated_at": "2025-10-29T21:06:58.556035+00:00",
         "saved_at": "2024-11-12T13:27:23.347000+00:00",
         "first_opened_at": "2025-01-21T09:46:55.491000+00:00",
         "last_opened_at": "2025-01-21T10:06:18.190000+00:00",
@@ -108904,6 +109465,11 @@
                 "name": "Development",
                 "type": "manual",
                 "created": 1731557422287
+            },
+            "softwarecraft": {
+                "name": "SoftwareCraft",
+                "type": "manual",
+                "created": 1761772309060
             }
         },
         "site_name": "jacobian.org",
@@ -108917,7 +109483,7 @@
         "html_content": null,
         "published_date": "2023-12-20",
         "created_at": "2024-11-05T15:48:31.805286+00:00",
-        "updated_at": "2024-11-23T07:58:26.219203+00:00",
+        "updated_at": "2025-10-29T21:11:50.581967+00:00",
         "saved_at": "2024-02-13T05:36:37.023000+00:00",
         "first_opened_at": "2024-11-13T12:41:39.217000+00:00",
         "last_opened_at": "2024-11-14T04:10:19.367000+00:00",
@@ -109016,6 +109582,11 @@
         "category": "article",
         "location": "archive",
         "tags": {
+            "estimation": {
+                "name": "Estimation",
+                "type": "manual",
+                "created": 1761772321340
+            },
             "development": {
                 "name": "Development",
                 "type": "manual",
@@ -109033,7 +109604,7 @@
         "html_content": null,
         "published_date": "2021-05-25",
         "created_at": "2024-11-05T15:48:31.778956+00:00",
-        "updated_at": "2024-11-23T07:58:26.104932+00:00",
+        "updated_at": "2025-10-29T21:12:06.861129+00:00",
         "saved_at": "2024-02-13T05:38:43.859000+00:00",
         "first_opened_at": "2024-11-13T12:51:16.985000+00:00",
         "last_opened_at": "2024-11-14T04:10:04.102000+00:00",

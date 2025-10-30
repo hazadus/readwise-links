@@ -79,7 +79,7 @@ He found it rewarding, valued his colleagues’ teaching, and plans to keep prog
 - [Some thoughts on LLMs and Software Development](https://martinfowler.com/articles/202508-ai-thoughts.html) 👤 28 Aug 2025 💬 1004 🔖 #llm, #toot, #programming 🗓️ 2025-08-29
     > **Заметка:** Спокойные и взвешенные размышления Мартина о настоящем и будущем применения LLM в разработке.
     > **Резюме:** Large language models (LLMs) are changing software development but their best use and future impact are still unclear. People should experiment with LLMs and learn from different ways of using them. However, LLMs can be unreliable and create new security risks that need careful attention.
-- [Do the simplest thing that could possibly work](https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/) 👤 seangoedecke.com 💬 1720 🔖 #toot, #development, #programming, #microservices, #softwaredesign 🗓️ 2025-08-29
+- [Do the simplest thing that could possibly work](https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/) 👤 seangoedecke.com 💬 1720 🔖 #toot, #development, #programming, #microservices, #softwarecraft, #softwaredesign 🗓️ 2025-08-29
     > **Заметка:** Шон на примерах рассказывает о важности простоты дизайна ПО.
     > **Резюме:** Build the simplest thing that could possibly work and only add complexity when real requirements force it.  
 Simple means fewer moving parts and less coupling, so the system is easier to understand and maintain.  

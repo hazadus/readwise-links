@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 62
+- Всего ссылок: 63
 
 ## Ссылки
 
+- [You have two jobs](https://jacobian.org/2017/nov/1/you-have-two-jobs/?utm_source=substack&utm_medium=email) 👤 jacobian.org 💬 526 🔖 #career, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
+    > **Резюме:** Your job involves writing good code and being easy to work with. Building strong relationships with colleagues is crucial for success in your role. Both technical skills and good relationships are essential for solving problems effectively.
 - [There is Only One Hack: Do it for a Decade.](https://www.joanwestenberg.com/p/there-is-only-one-hack-do-it-for-a-decade) 👤 JA Westenberg 💬 636 🔖 #toot, #career, #learning, #time management 🗓️ 2025-10-11
     > **Заметка:** "Working hard is fine, but framing it as a sprint suggests that achievement is about peak intensity rather than sustained presence. Six months of grinding is easy compared to six years of showing up. Anyone can do a hard sprint. What's tough: maintaining your focus when the initial excitement has worn off and you're in year three of a project with no clear end in sight."
     > **Резюме:** People chase quick productivity hacks but they only work briefly. Real results come from years of steady, boring work and showing up. Skip the shortcuts and build patience to keep working for a decade.
@@ -64,15 +66,15 @@ All of that counts, even when it’s hard to measure, so don’t be so hard on y
     > **Резюме:** На собеседовании важно уверенно говорить о зарплате и подготовиться заранее. Определите свою минимальную, желаемую и идеальную зарплату, а также учитывайте другие преимущества, которые может предложить компания. Проявляйте инициативу в обсуждении денег и не бойтесь задавать вопросы рекрутеру.
 - [In defense of shallow technical knowledge](https://seangoedecke.com/shallow-technical-knowledge/) 👤 seangoedecke.com 💬 1806 🔖 #career, #learning 🗓️ 2025-05-25
     > **Резюме:** Having a shallow understanding of technologies, like AI and database indexes, can help engineers make better decisions without needing to know every detail. This basic knowledge allows for useful insights and intuitions that improve engineering work. It's beneficial to aim for broad knowledge rather than deep expertise in just one area.
-- [Why strong engineers are rarely blocked](https://seangoedecke.com/becoming-unblockable/) 👤 seangoedecke.com 💬 1657 🔖 #career, #development, #time management 🗓️ 2025-05-18
+- [Why strong engineers are rarely blocked](https://seangoedecke.com/becoming-unblockable/) 👤 seangoedecke.com 💬 1657 🔖 #career, #development, #softwarecraft, #time management 🗓️ 2025-05-18
     > **Резюме:** Strong engineers face fewer blocks in their work by using strategies like managing multiple tasks and anticipating potential obstacles. They also know when to ask for help from their management to overcome external blockers. By prioritizing tasks and avoiding unnecessary political fights, they can maintain productivity and keep projects moving forward.
 - [Practical advice for engineers in these troubled times](https://seangoedecke.com/in-these-troubled-times/) 👤 seangoedecke.com 💬 1033 🔖 #career 🗓️ 2025-05-18
     > **Резюме:** The tech job market has changed significantly since 2023, making it harder for software engineers to find security in their roles. Layoffs are now common, and engineers must focus on delivering visible, valuable work tied to company profits. To stay employable, engineers should improve their skills and prioritize projects that contribute to the company's success.
 - [Открытое собеседование на Junior Go разработчика](https://m.youtube.com/watch?v=MmIdk_0HhVI) 👤 Эйч Навыки — менторская программа 🔖 #go, #career, #interview 🗓️ 2025-05-14
     > **Резюме:** Эйч Навыки проводит открытое собеседование для Junior Go разработчиков. Участники смогут поработать с ментором и прокачать свои навыки через МОК интервью. Чтобы участвовать, нужно заполнить форму и записаться на собеседование с хорошей скидкой.
-- [The importance of character in software engineering](https://seangoedecke.com/character-in-software-engineering/) 👤 seangoedecke.com 💬 1052 🔖 #career, #development, #soft skills, #communication 🗓️ 2025-05-10
+- [The importance of character in software engineering](https://seangoedecke.com/character-in-software-engineering/) 👤 seangoedecke.com 💬 1052 🔖 #career, #development, #soft skills, #communication, #softwarecraft 🗓️ 2025-05-10
     > **Резюме:** Character is crucial for success in software engineering, yet it is often overlooked in favor of technical skills. Good character traits, like emotional regulation and humility, help engineers handle crises and work effectively with others. Developing these personal qualities can make a software engineer much more effective than just focusing on technical knowledge.
-- [Getting things "done" in large tech companies](https://seangoedecke.com/getting-things-done/) 👤 seangoedecke.com 💬 693 🔖 #career, #development 🗓️ 2025-05-07
+- [Getting things "done" in large tech companies](https://seangoedecke.com/getting-things-done/) 👤 seangoedecke.com 💬 693 🔖 #career, #development, #softwarecraft 🗓️ 2025-05-07
     > **Резюме:** Getting things done in large tech companies means finishing projects to the satisfaction of decision-makers. Engineers often mistakenly focus on endless improvements instead of delivering clear, valuable outcomes. To be effective, they should aim to complete tasks that executives can easily understand and appreciate.
 - [Ты решаешь LeetCode неправильно. Как пройти любое собеседование в BigTech?](https://habr.com/ru/articles/906642/) 👤 BincomAD 💬 1405 🔖 #go, #career, #learning, #interview 🗓️ 2025-05-04
     > **Резюме:** The article offers a method for preparing for technical interviews in major tech companies, focusing on understanding the types of interviews and tailoring your resume to the specific role. It emphasizes the importance of practicing common problem-solving patterns and being familiar with relevant technologies, especially for Go developers. The author encourages candidates to engage in mock interviews and utilize resources like LeetCode to build confidence and improve their skills.

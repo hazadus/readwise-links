@@ -1,9 +1,20 @@
 # Новые ссылки
 
-- Всего ссылок: 860
+- Всего ссылок: 870
 
 ## Ссылки
 
+- [Simple macOS script to extract text from images (OCR)](https://evanhahn.com/mac-ocr-script/) 👤 Evan Hahn 💬 232 🗓️ 2025-10-29
+- [AI is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more?utm_source=substack&utm_medium=email) 👤 tawandamunongo.dev 💬 1439 🔖 #joyandcuriosity 🗓️ 2025-10-29
+- [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/?utm_source=substack&utm_medium=email) 👤 allvpv <Przemysław Kusiak> 💬 986 🔖 #joyandcuriosity 🗓️ 2025-10-29
+- [Don't delegate thinking, delegate work](https://howtobuildwithai.substack.com/p/dont-delegate-thinking-delegate-work?utm_source=substack&utm_medium=email) 👤 Nicolay Christopher Gerold 💬 414 🔖 #joyandcuriosity 🗓️ 2025-10-29
+- [The Basics](https://registerspill.thorstenball.com/p/the-basics?utm_source=substack&utm_medium=email) 👤 Thorsten Ball 💬 422 🔖 #joyandcuriosity 🗓️ 2025-10-29
+- [Build Your Own Database](https://www.nan.fyi/database?utm_source=substack&utm_medium=email) 👤 Nanda Syahrasyad 💬 1239 🔖 #joyandcuriosity 🗓️ 2025-10-29
+- [High Agency Matters](https://addyosmani.com/blog/high-agency-matters/?utm_source=tldrwebdev) 👤 Addy Osmani 💬 9273 🗓️ 2025-10-29
+- [The “10x” Commandments of Highly Effective Go](https://blog.jetbrains.com/go/2025/10/16/the-10x-commandments-of-highly-effective-go/?utm_source=tldrwebdev) 👤 The JetBrains Blog 💬 1291 🔖 #go 🗓️ 2025-10-29
+- [24 Time Saving Tips for Nuxt 3](https://masteringnuxt.com/blog/24-time-saving-tips-for-nuxt3?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(241)+Configurable+composables,+named+slots,+and+looping+over+a+range+-+19511363&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 2706 🔖 #nuxt 🗓️ 2025-10-29
+- [Why You Should Write Every Day (Even if You’re Not a Writer)](https://www.joanwestenberg.com/p/why-you-should-write-every-day-even-if-you-re-not-a-writer) 👤 JA Westenberg 💬 925 🗓️ 2025-10-29
+- [Code Review Developer Guide](https://google.github.io/eng-practices/review/) 👤 eng-practices 💬 416 🗓️ 2025-10-29
 - [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html?utm_source=tldrwebdev) 👤 Google Testing Blog 💬 334 🗓️ 2025-10-29
 - [Springs and Bounces in Native CSS The magic of the linear() timing function](https://www.joshwcomeau.com/animation/linear-timing-function/) 👤 Josh W. Comeau 💬 2718 🔖 #css 🗓️ 2025-10-29
 - [Give your engineers a kingdom](https://newsletter.manager.dev/p/give-your-engineers-a-kingdom) 👤 Anton Zaides 💬 1015 🗓️ 2025-10-28
@@ -17,11 +28,10 @@
 - [Turn off macOS Liquid Glass via the CLI](https://www.stefanjudis.com/snippets/turn-off-macos-liquid-glass-via-the-cli/) 👤 stefanjudis.com 💬 104 🔖 #macos 🗓️ 2025-10-27
 - [A gold ceremony to remember](https://daniel.haxx.se/blog/2025/10/25/a-gold-ceremony-to-remember/) 👤 Daniel Stenberg 💬 747 🔖 #toot, #devtools 🗓️ 2025-10-26
     > **Заметка:** Заслуженная награда🎖️! Рад за Дэниэла. Просто юзайте curl! ✊
-- [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/?utm_source=tldrwebdev) 👤 Evan Hahn 💬 2125 🗓️ 2025-10-26
+- [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/?utm_source=tldrwebdev) 👤 Evan Hahn 💬 2125 🔖 #joyandcuriosity 🗓️ 2025-10-26
 - [Solving the wrong problem](https://www.ufried.com/blog/ai_assisted_coding/?utm_source=tldrwebdev) 👤 Uwe Friedrichsen 💬 4167 🗓️ 2025-10-26
 - [Avoiding the Shiny Object Syndrome: When "Good Enough" Is Actually Perfect](https://alfy.blog/2025/08/22/from-code-that-works-to-code-that-matters.md.html) 👤 Ahmad Elalfy 💬 1043 🗓️ 2025-10-25
 - [How Functional Programming Shaped (and Twisted) Frontend Development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_308) 👤 Ahmad Elalfy 💬 4008 🗓️ 2025-10-25
-- [Mistakes I see engineers making in their code reviews](https://seangoedecke.com/good-code-reviews/) 👤 seangoedecke.com 💬 2088 🔖 #codereview 🗓️ 2025-10-25
 - [Запуск MCP-сервера для AI-агентов от Битрикс24: интеграция с документацией REST API без ошибок](https://habr.com/ru/companies/bitrix/news/956808/) 👤 MaxMoro1 💬 310 🗓️ 2025-10-21
 - [A complete guide to HTTP caching](https://www.jonoalderson.com/performance/http-caching/) 👤 Jono Alderson 💬 9131 🔖 #http 🗓️ 2025-10-10
 - [Standard Package Layout](https://www.gobeyond.dev/standard-package-layout/) 👤 Ben Johnson 💬 2012 🗓️ 2025-10-09

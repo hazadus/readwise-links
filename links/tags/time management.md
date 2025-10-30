@@ -12,9 +12,9 @@
 - [Вашу продуктивность убивает многозадачность. У нас есть доказательства](https://kinzhal.media/productivity-multitasking/) 👤 Максим Ильяхов 💬 1043 🔖 #time management 🗓️ 2025-05-28
     > **Заметка:** Надо было тут ещё про таймбоксинг написать
     > **Резюме:** Многозадачность снижает продуктивность, так как требует постоянного переключения между задачами и приводит к управленческой суете. Чтобы работать эффективнее, нужно уменьшить количество параллельных задач и отвлечений. Важно планировать работу так, чтобы не начинать дела, которые могут быть приостановлены, и сосредотачиваться на завершении текущих задач.
-- [Why strong engineers are rarely blocked](https://seangoedecke.com/becoming-unblockable/) 👤 seangoedecke.com 💬 1657 🔖 #career, #development, #time management 🗓️ 2025-05-18
+- [Why strong engineers are rarely blocked](https://seangoedecke.com/becoming-unblockable/) 👤 seangoedecke.com 💬 1657 🔖 #career, #development, #softwarecraft, #time management 🗓️ 2025-05-18
     > **Резюме:** Strong engineers face fewer blocks in their work by using strategies like managing multiple tasks and anticipating potential obstacles. They also know when to ask for help from their management to overcome external blockers. By prioritizing tasks and avoiding unnecessary political fights, they can maintain productivity and keep projects moving forward.
-- [Working fast and slow](https://www.seangoedecke.com/working-fast-and-slow/) 👤 seangoedecke.com 💬 790 🔖 #outline, #development, #time management 🗓️ 2025-01-27
+- [Working fast and slow](https://www.seangoedecke.com/working-fast-and-slow/) 👤 seangoedecke.com 💬 790 🔖 #outline, #development, #softwarecraft, #time management 🗓️ 2025-01-27
     > **Заметка:** Создать заметку "Режимы работы".
     > **Резюме:** Some engineers work consistently every day, but the author prefers to embrace a flexible work style, acknowledging that productivity varies. On focused days, he tackles high-priority tasks, while on less productive days, he handles simpler tasks. This approach works well in large tech companies, where work often fluctuates between busy and slow periods.
 - [Protecting your time from predators in large tech companies](https://seangoedecke.com/predators/) 👤 seangoedecke.com 💬 1287 🔖 #management, #development, #time management 🗓️ 2025-01-20

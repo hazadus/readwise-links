@@ -1,14 +1,17 @@
 # Архивные ссылки
 
-- Всего ссылок: 1161
+- Всего ссылок: 1164
 
 ## Ссылки
 
+- [I want to see the claw](https://vickiboykis.com/2025/10/20/i-want-to-see-the-claw/?utm_source=substack&utm_medium=email) 👤 ★❤✰ Vicki Boykis ★❤✰  💬 861 🔖 #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
+- [You have two jobs](https://jacobian.org/2017/nov/1/you-have-two-jobs/?utm_source=substack&utm_medium=email) 👤 jacobian.org 💬 526 🔖 #career, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
 - [Setting up a codebase for working with coding agents](https://simonwillison.net/2025/Oct/25/coding-agent-tips/#atom-everything) 👤 Simon Willison 💬 226 🔖 #llm 🗓️ 2025-10-26
 - [AI’s Trap Settling for Boilerplate Over Elegant Code](https://dayvster.com/blog/ais-trap-settling-for-boilerplate-over-elegant-code/) 👤 Dayvi Schuster 💬 1783 🔖 #llm 🗓️ 2025-10-26
 - [Just use cURL](https://justuse.org/curl/) 👤 justuse.org 💬 680 🔖 #toot, #devtools 🗓️ 2025-10-26
     > **Заметка:** Лучше и не скажешь!
 - [Convert VIM to Code Editor in 8 Easy Steps - Beginner Friendly](mailto:reader-forwarded-email/9cf1fa4ff217f1413170c1b09a6f3394) 👤 Sushant from Beyond The Syntax 💬 967 🔖 #vim 🗓️ 2025-10-25
+- [Mistakes I see engineers making in their code reviews](https://seangoedecke.com/good-code-reviews/) 👤 seangoedecke.com 💬 2088 🔖 #codereview 🗓️ 2025-10-25
 - [claude_code_docs_map.md](https://simonwillison.net/2025/Oct/24/claude-code-docs-map/#atom-everything) 👤 Simon Willison 💬 205 🔖 #claude 🗓️ 2025-10-25
 - [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon) 👤 geoffreylitt.com 💬 894 🔖 #llm 🗓️ 2025-10-25
 - [“ChatGPT said this” Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/) 👤 Terrible Software 💬 374 🔖 #llm, #codereview 🗓️ 2025-10-25
@@ -101,7 +104,7 @@ They follow a template: introduce a counterintuitive finding, tell three anecdot
 - [You're not using LLMs enough](https://florianbrand.de/posts/use-llms-more?utm_source=substack&utm_medium=email) 👤 Florian Brand 💬 351 🔖 #llm, #joyandcuriosity 🗓️ 2025-09-28
 - [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors?utm_source=tldrwebdev) 👤 yossarian.net 💬 1574 🔖 #github 🗓️ 2025-09-28
 - [Same again. No rush.](mailto:reader-forwarded-email/0ac3bade96f1fa0fc69e976c018de601) 👤 Carlton Gibson 💬 907 🔖 #career 🗓️ 2025-09-28
-- [What is "good taste" in software engineering?](https://seangoedecke.com/taste/) 👤 seangoedecke.com 💬 1835 🔖 #development, #architecture, #softwaredesign 🗓️ 2025-09-28
+- [What is "good taste" in software engineering?](https://seangoedecke.com/taste/) 👤 seangoedecke.com 💬 1835 🔖 #development, #architecture, #softwarecraft, #softwaredesign 🗓️ 2025-09-28
 - [I Don't Know You, Don't Ask For References](https://daniel.feldroy.com/posts/i-dont-know-you-so-dont-ask-for-references) 👤 https://daniel.feldroy.com 💬 701 🗓️ 2025-09-28
 - [Using Notebook Navigator and Cupertino in Obsidian](https://cassidoo.co/post/notebook-nav-cupertino/) 👤 cassidoo.co 💬 243 🔖 #obsidian 🗓️ 2025-09-28
 - [AI coding agents rely too much on fallbacks](https://seangoedecke.com/agents-and-fallbacks/) 👤 seangoedecke.com 💬 459 🔖 #llm 🗓️ 2025-09-28
@@ -197,7 +200,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [Some thoughts on LLMs and Software Development](https://martinfowler.com/articles/202508-ai-thoughts.html) 👤 28 Aug 2025 💬 1004 🔖 #llm, #toot, #programming 🗓️ 2025-08-29
     > **Заметка:** Спокойные и взвешенные размышления Мартина о настоящем и будущем применения LLM в разработке.
 - [How to Succeed as a Human in an AI World](https://wsvincent.com/how-to-succeed-with-ai/) 👤 William Vincent 💬 1051 🔖 #llm 🗓️ 2025-08-29
-- [Do the simplest thing that could possibly work](https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/) 👤 seangoedecke.com 💬 1720 🔖 #toot, #development, #programming, #microservices, #softwaredesign 🗓️ 2025-08-29
+- [Do the simplest thing that could possibly work](https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/) 👤 seangoedecke.com 💬 1720 🔖 #toot, #development, #programming, #microservices, #softwarecraft, #softwaredesign 🗓️ 2025-08-29
     > **Заметка:** Шон на примерах рассказывает о важности простоты дизайна ПО.
 - [Turning Claude Code Into My Best Design Partner](https://betweentheprompts.com/design-partner/?utm_source=tldrwebdev) 👤 Between the Prompts 💬 1118 🔖 #llm 🗓️ 2025-08-27
 - [Bring Your Own Agent to Zed — Featuring Gemini CLI](https://zed.dev/blog/bring-your-own-agent-to-zed) 👤 Nathan Sobo 💬 796 🔖 #llm, #zed, #gemini 🗓️ 2025-08-27
@@ -427,8 +430,8 @@ You are a person. Work enough to sustain that. Then stop.
 - Критика «объективизма». Поланьи считал, что попытка свести познание к чистым, безличным фактам обедняет науку; любое открытие содержит элемент личного участия, веры и творчества исследователя.
 
 Джоан Вестенберг ссылается на Поланьи именно как на автора идеи о неявном знании, чтобы подчеркнуть: поверхностное «офшоринг» мышления к алгоритмам и сводкам лишает нас того глубинного, личного аспекта понимания, о котором говорил Поланьи.
-- [Pure and impure engineering](https://seangoedecke.com/pure-and-impure-engineering/) 👤 seangoedecke.com 💬 2264 🔖 #llm, #development 🗓️ 2025-06-22
-- [Everything I know about good system design](https://seangoedecke.com/good-system-design/) 👤 seangoedecke.com 💬 3948 🔖 #development, #softwaredesign 🗓️ 2025-06-22
+- [Pure and impure engineering](https://seangoedecke.com/pure-and-impure-engineering/) 👤 seangoedecke.com 💬 2264 🔖 #llm, #development, #softwarecraft 🗓️ 2025-06-22
+- [Everything I know about good system design](https://seangoedecke.com/good-system-design/) 👤 seangoedecke.com 💬 3948 🔖 #development, #softwarecraft, #softwaredesign 🗓️ 2025-06-22
     > **Заметка:** Всё по делу пишет. Никаких открытий, но рекомендации хорошие. 
 - [What's going to happen to junior engineers?](https://seangoedecke.com/juniors-and-ai/) 👤 seangoedecke.com 💬 1132 🔖 #llm 🗓️ 2025-06-20
 - [12 Favorite Problems](https://www.nathancashion.com/blog/2022/9/12-favorite-problems) 👤 Nathan Cashion 💬 510 🗓️ 2025-06-20
@@ -466,7 +469,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [How to run a task on a schedule on macOS](https://alexwlchan.net/til/2025/macos-launchagent-examples/?utm_source=rss) 👤 alexwlchan.net 💬 351 🗓️ 2025-06-14
 - [Good Engineer/Bad Engineer](https://terriblesoftware.org/2025/06/13/good-engineer-bad-engineer/) 👤 Terrible Software 💬 524 🔖 #career, #development, #inspiration, #soft skills 🗓️ 2025-06-14
 - [Get a string representation of a Python traceback with traceback.format_exc()](https://alexwlchan.net/til/2025/get-python-traceback-as-string/?utm_source=rss) 👤 alexwlchan.net 💬 111 🔖 #python 🗓️ 2025-06-14
-- [Say "but yes", not "yes but"](https://seangoedecke.com/but-yes-not-yes-but/) 👤 seangoedecke.com 💬 537 🔖 #soft skills, #communication 🗓️ 2025-06-14
+- [Say "but yes", not "yes but"](https://seangoedecke.com/but-yes-not-yes-but/) 👤 seangoedecke.com 💬 537 🔖 #soft skills, #communication, #softwarecraft 🗓️ 2025-06-14
 - [Agentic Coding Recommendations](http://lucumr.pocoo.org/2025/6/12/agentic-coding) 👤 Armin Ronacher's Thoughts and Writings 💬 2596 🔖 #llm 🗓️ 2025-06-12
 - [Thoughts on tldraw computer](https://blog.nilenso.com/blog/2024/12/30/thought-on-tldraw-computer/) 👤 Nilenso 💬 423 🗓️ 2025-06-11
 - [My GenAI workflow for building a voice assistant](https://blog.nilenso.com/blog/2025/01/30/my-genai-workflow-for-building-a-voice-assistant/) 👤 Nilenso 💬 877 🔖 #llm 🗓️ 2025-06-11
@@ -513,7 +516,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [What's up Python? Faster CPython cancelled, a new installer and yet another type checker](https://www.bitecode.dev/p/whats-up-python-faster-cpython-cancelled) 👤 Bite Code 💬 733 🔖 #python 🗓️ 2025-06-01
 - [A quote from Steve Krouse](https://simonwillison.net/2025/May/31/steve-krouse/#atom-everything) 👤 Simon Willison 💬 214 🔖 #fun, #llm 🗓️ 2025-06-01
 - [It’s Annoying How Good Raycast is](https://www.youtube.com/watch?v=kHxgxgNHQR4) 👤 FromSergio 🔖 #try 🗓️ 2025-05-30
-- [It's not your codebase](https://seangoedecke.com/not-your-codebase/) 👤 seangoedecke.com 💬 1087 🔖 #development 🗓️ 2025-05-30
+- [It's not your codebase](https://seangoedecke.com/not-your-codebase/) 👤 seangoedecke.com 💬 1087 🔖 #development, #softwarecraft 🗓️ 2025-05-30
 - [Заговор разработчиков против корпораций](https://habr.com/ru/articles/874610/) 👤 arturdumchev 💬 3529 🗓️ 2025-05-30
 - [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/) 👤 arturdumchev 💬 3317 🔖 #fun, #principles, #architecture 🗓️ 2025-05-30
 - [Writing better release notes](https://simonwillison.net/2022/Jan/31/release-notes/) 👤 Simon Willison 💬 863 🔖 #github 🗓️ 2025-05-30
@@ -569,7 +572,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [C++ to Rust Cheat-Sheet](https://corrode.dev/learn/migration-guides/cpp-to-rust/) 👤 Corrode Rust Consulting 💬 869 🔖 #rust 🗓️ 2025-05-18
 - [Notifications about (almost) anything with ntfy.sh](https://hamatti.org/posts/notifications-about-almost-anything-with-ntfy-sh/) 👤 Juha-Matti Santala 💬 684 🗓️ 2025-05-18
 - [For many, patience is the killer LLM feature](https://seangoedecke.com/patience-too-cheap-to-meter/) 👤 seangoedecke.com 💬 800 🔖 #llm 🗓️ 2025-05-18
-- [Why strong engineers are rarely blocked](https://seangoedecke.com/becoming-unblockable/) 👤 seangoedecke.com 💬 1657 🔖 #career, #development, #time management 🗓️ 2025-05-18
+- [Why strong engineers are rarely blocked](https://seangoedecke.com/becoming-unblockable/) 👤 seangoedecke.com 💬 1657 🔖 #career, #development, #softwarecraft, #time management 🗓️ 2025-05-18
 - [Practical advice for engineers in these troubled times](https://seangoedecke.com/in-these-troubled-times/) 👤 seangoedecke.com 💬 1033 🔖 #career 🗓️ 2025-05-18
 - [Manage For Success, Not Comfort](https://terriblesoftware.org/2025/05/16/manage-for-success-not-comfort/) 👤 Terrible Software 💬 580 🔖 #management 🗓️ 2025-05-18
 - [Django Security Best Practices: A Comprehensive Guide for Software Engineers](https://corgea.com/Learn/django-security-best-practices-a-comprehensive-guid-for-software-engineers?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_285) 👤 corgea.com 💬 1030 🔖 #django, #security 🗓️ 2025-05-17
@@ -594,7 +597,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [FastAPI + Keycloak: Простая и безопасная авторизация в веб-приложении на примере реального проекта](https://habr.com/ru/companies/amvera/articles/907990/) 👤 yakvenalex 💬 6616 🔖 #try, #fastapi 🗓️ 2025-05-12
 - [Горький урок ABBYY: как лингвисты проиграли последнюю битву за NLP](https://sysblok.ru/blog/gorkij-urok-abbyy-kak-lingvisty-proigrali-poslednjuju-bitvu-za-nlp/) 👤 Даниил Скоринкин 💬 4611 🗓️ 2025-05-12
 - [Why can't language models come up with new ideas?](https://seangoedecke.com/why-cant-ais-have-new-ideas/) 👤 seangoedecke.com 💬 1192 🔖 #llm 🗓️ 2025-05-12
-- [The importance of character in software engineering](https://seangoedecke.com/character-in-software-engineering/) 👤 seangoedecke.com 💬 1052 🔖 #career, #development, #soft skills, #communication 🗓️ 2025-05-10
+- [The importance of character in software engineering](https://seangoedecke.com/character-in-software-engineering/) 👤 seangoedecke.com 💬 1052 🔖 #career, #development, #soft skills, #communication, #softwarecraft 🗓️ 2025-05-10
 - [Microservices Are a Tax Your Startup Probably Can’t Afford](https://nexo.sh/posts/microservices-for-startups/) 👤 Oleg Pustovit 💬 3501 🔖 #inspiration, #architecture, #microservices 🗓️ 2025-05-10
     > **Заметка:** Автор убедительно описывает случаи, когда стоит использовать микросервисы, а когда лучше от них отказаться. 
 - [Basic Claude Code](https://harper.blog/2025/05/08/basic-claude-code/) 👤 Harper Reed <harper@modest.com> 💬 1490 🔖 #llm, #development, #inspiration 🗓️ 2025-05-10
@@ -603,7 +606,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [How projects fail at large tech companies](https://seangoedecke.com/how-projects-fail/) 👤 seangoedecke.com 💬 1643 🗓️ 2025-05-10
 - [How to Build Your Own Local AI: Create Free RAG and AI Agents with Qwen 3 and Ollama](https://www.freecodecamp.org/news/build-a-local-ai/) 👤 freeCodeCamp.org 💬 4576 🔖 #llm, #try, #agents 🗓️ 2025-05-08
 - [I don't care about your magic prompts](https://seangoedecke.com/magic-prompts/) 👤 seangoedecke.com 💬 761 🔖 #llm 🗓️ 2025-05-07
-- [Getting things "done" in large tech companies](https://seangoedecke.com/getting-things-done/) 👤 seangoedecke.com 💬 693 🔖 #career, #development 🗓️ 2025-05-07
+- [Getting things "done" in large tech companies](https://seangoedecke.com/getting-things-done/) 👤 seangoedecke.com 💬 693 🔖 #career, #development, #softwarecraft 🗓️ 2025-05-07
 - [🔥 (215) Nuxt data fetching re-written: reactive keys, shared refs, and more](mailto:reader-forwarded-email/5624ceac0b93e90686a4b6c7eea5719d) 👤 Michael Thiessen 💬 1602 🔖 #nuxt 🗓️ 2025-05-04
 - [Ты решаешь LeetCode неправильно. Как пройти любое собеседование в BigTech?](https://habr.com/ru/articles/906642/) 👤 BincomAD 💬 1405 🔖 #go, #career, #learning, #interview 🗓️ 2025-05-04
 - [Страх и ненависть в офисе](https://www.kommersant.ru/doc/7690760?from=glavnoe_3#id2795835) 👤 Ольга Шкуренко 💬 1562 🗓️ 2025-05-03
@@ -647,7 +650,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [Malleable software in the age of LLMs](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming) 👤 geoffreylitt.com 💬 4790 🔖 #llm 🗓️ 2025-04-14
 - [AI-generated tools can make programming more fun](https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger) 👤 geoffreylitt.com 💬 1188 🔖 #llm, #inspiration 🗓️ 2025-04-14
 - [Why is lmarena.ai dominated by slop?](https://seangoedecke.com/lmsys-slop/) 👤 seangoedecke.com 💬 1290 🔖 #llm 🗓️ 2025-04-14
-- [Designing software that could possibly work](https://seangoedecke.com/planning-software/) 👤 seangoedecke.com 💬 1590 🔖 #development 🗓️ 2025-04-14
+- [Designing software that could possibly work](https://seangoedecke.com/planning-software/) 👤 seangoedecke.com 💬 1590 🔖 #development, #softwaredesign 🗓️ 2025-04-14
 - [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs) 👤 geoffreylitt.com 💬 972 🔖 #llm, #inspiration 🗓️ 2025-04-14
 - [I dream about AI subagents; they whisper to me while I'm asleep](https://ghuntley.com/subagents/) 👤 Geoffrey Huntley 💬 304 🔖 #llm 🗓️ 2025-04-13
 - [Wicked features](https://seangoedecke.com/wicked-features/) 👤 seangoedecke.com 💬 1022 🔖 #development 🗓️ 2025-04-13
@@ -820,7 +823,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [We are destroying software](https://antirez.com/news/145) 👤 antirez.com 💬 240 🔖 #development, #inspiration 🗓️ 2025-02-09
 - [Seeking Purity](http://lucumr.pocoo.org/2025/2/8/seeking-purity) 👤 Armin Ronacher's Thoughts and Writings 💬 1475 🔖 #rust 🗓️ 2025-02-08
 - [Twenty Years of Glasses](https://brainbaking.com/post/2025/02/twenty-years-of-glasses/) 👤 Brain Baking 💬 1081 🗓️ 2025-02-08
-- [Good engineers are right, a lot](https://seangoedecke.com/being-right-a-lot/) 👤 seangoedecke.com 💬 690 🔖 #development 🗓️ 2025-02-07
+- [Good engineers are right, a lot](https://seangoedecke.com/being-right-a-lot/) 👤 seangoedecke.com 💬 690 🔖 #development, #softwarecraft 🗓️ 2025-02-07
 - [Просто берите Postgres](https://grishaev.me/just-use-postgres/) 👤 grishaev.me 💬 2190 🔖 #db, #postgresql 🗓️ 2025-02-06
 - [Слишком длинный текст о себе](https://www.maximilyahov.ru/blog/all/too-long-bro/) 👤 maximilyahov.ru 💬 354 🗓️ 2025-02-06
 - [Пропаганда: «А сам»](https://maximilyahov.ru/blog/all/up-yours/) 👤 maximilyahov.ru 💬 467 🗓️ 2025-02-06
@@ -850,9 +853,9 @@ You are a person. Work enough to sustain that. Then stop.
 - [Writing a tech blog people want to read](https://www.seangoedecke.com/on-writing/) 👤 seangoedecke.com 💬 1369 🔖 #writing 🗓️ 2025-01-28
 - [Ratchet effects determine engineer reputation at large companies](https://www.seangoedecke.com/ratchet-effects/) 👤 seangoedecke.com 💬 1203 🔖 #leaddev, #development 🗓️ 2025-01-28
 - [How I got promoted to staff engineer twice](https://www.seangoedecke.com/staff-engineer-promotions/) 👤 seangoedecke.com 💬 1110 🔖 #career, #leaddev 🗓️ 2025-01-28
-- [Why some engineers get trusted with high-impact work](https://www.seangoedecke.com/point-person/) 👤 seangoedecke.com 💬 1676 🔖 #leaddev, #development 🗓️ 2025-01-28
+- [Why some engineers get trusted with high-impact work](https://www.seangoedecke.com/point-person/) 👤 seangoedecke.com 💬 1676 🔖 #leaddev, #development, #softwarecraft 🗓️ 2025-01-28
 - [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/) 👤 seangoedecke.com 💬 1218 🔖 #development 🗓️ 2025-01-28
-- [I don't know how to build software and you don't either](https://www.seangoedecke.com/confidence/) 👤 seangoedecke.com 💬 1073 🗓️ 2025-01-28
+- [I don't know how to build software and you don't either](https://www.seangoedecke.com/confidence/) 👤 seangoedecke.com 💬 1073 🔖 #softwarecraft, #softwaredesign 🗓️ 2025-01-28
 - [How LLMs work](https://www.seangoedecke.com/how-llms-work/) 👤 seangoedecke.com 💬 2985 🔖 #llm 🗓️ 2025-01-28
 - [Acing the coding challenge](https://www.seangoedecke.com/acing-the-coding-challenge/) 👤 seangoedecke.com 💬 1285 🔖 #career, #development 🗓️ 2025-01-28
 - [Acing the design interview](https://www.seangoedecke.com/acing-the-design-interview/) 👤 seangoedecke.com 💬 2601 🔖 #outline, #interview, #development 🗓️ 2025-01-28
@@ -869,14 +872,14 @@ You are a person. Work enough to sustain that. Then stop.
 - [How to give pushback to leadership](https://leaddev.com/communication/how-give-pushback-leadership) 👤 anastasija 💬 1344 🔖 #leaddev, #outline 🗓️ 2025-01-28
     > **Заметка:** Простые и дельные рекомендации - как говорить "нет" руководству.
 - [Is it cynical to do what your manager wants?](https://www.seangoedecke.com/cynicism) 👤 seangoedecke.com 💬 507 🗓️ 2025-01-28
-- [Glue work considered harmful](https://www.seangoedecke.com/glue-work-considered-harmful) 👤 seangoedecke.com 💬 639 🔖 #leaddev, #outline 🗓️ 2025-01-28
+- [Glue work considered harmful](https://www.seangoedecke.com/glue-work-considered-harmful) 👤 seangoedecke.com 💬 639 🔖 #leaddev, #outline, #softwarecraft 🗓️ 2025-01-28
     > **Заметка:** Интересная мысль: делать glue work для проектов, за успех которых ты отвечаешь. Тогда будет оценена на сама glue work, а итоговый успех проекта.
 - [Life Lessons from the First Half-Century of My Career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/) 👤 David A. Patterson 💬 3281 🔖 #career, #inspiration 🗓️ 2025-01-28
 - [SOLID и контекст](https://grishaev.me/solid-context/) 👤 grishaev.me 💬 370 🔖 #principles, #development 🗓️ 2025-01-28
 - [SOLID и другие аббревиатуры](https://grishaev.me/solid-abbrev/) 👤 grishaev.me 💬 247 🔖 #fun, #principles 🗓️ 2025-01-28
 - [Human Connection](https://third-bit.com/2025/01/26/human-connection/) 👤 third-bit.com 💬 624 🗓️ 2025-01-27
 - [Playing politics is how senior engineers protect their team](https://seangoedecke.com/politics-is-your-responsibility/) 👤 seangoedecke.com 💬 640 🔖 #leaddev, #management, #development 🗓️ 2025-01-27
-- [Working fast and slow](https://www.seangoedecke.com/working-fast-and-slow/) 👤 seangoedecke.com 💬 790 🔖 #outline, #development, #time management 🗓️ 2025-01-27
+- [Working fast and slow](https://www.seangoedecke.com/working-fast-and-slow/) 👤 seangoedecke.com 💬 790 🔖 #outline, #development, #softwarecraft, #time management 🗓️ 2025-01-27
     > **Заметка:** Создать заметку "Режимы работы".
 - [The Fuck](https://grishaev.me/the-fuck/) 👤 grishaev.me 💬 209 🗓️ 2025-01-27
 - [Постгрес и отчеты](https://grishaev.me/postgres-csv/) 👤 grishaev.me 💬 413 🔖 #db, #postgresql 🗓️ 2025-01-27
@@ -901,8 +904,8 @@ You are a person. Work enough to sustain that. Then stop.
 - [Everyone's Favorite Route • The Applied Go Weekly Newsletter 2025-01-19](https://newsletter.appliedgo.net/archive/2025-01-19-everyones-favorite-route/) 👤 The Applied Go Weekly Newsletter 💬 1604 🔖 #go 🗓️ 2025-01-20
 - [Protecting your time from predators in large tech companies](https://seangoedecke.com/predators/) 👤 seangoedecke.com 💬 1287 🔖 #management, #development, #time management 🗓️ 2025-01-20
 - [Thinking clearly about software](https://seangoedecke.com/thinking-clearly/) 👤 seangoedecke.com 💬 891 🗓️ 2025-01-20
-- [Giving pushback to leadership](https://seangoedecke.com/pushback/) 👤 seangoedecke.com 💬 188 🔖 #leaddev 🗓️ 2025-01-20
-- [Crushing JIRA tickets is a party trick, not a path to impact](https://www.seangoedecke.com/party-tricks/) 👤 seangoedecke.com 💬 1503 🔖 #leaddev, #outline 🗓️ 2025-01-28
+- [Giving pushback to leadership](https://seangoedecke.com/pushback/) 👤 seangoedecke.com 💬 188 🔖 #leaddev, #softwarecraft 🗓️ 2025-01-20
+- [Crushing JIRA tickets is a party trick, not a path to impact](https://www.seangoedecke.com/party-tricks/) 👤 seangoedecke.com 💬 1503 🔖 #leaddev, #outline, #softwarecraft 🗓️ 2025-01-28
 - [Мы не пьем, а лечимся](https://hij.ru/read/29545/) 👤 hij.ru 💬 2816 🗓️ 2025-01-15
     > **Заметка:** Пост рекомендован Антоном Мельниковым.
 - [Big Things Will Happen • The Applied Go Weekly Newsletter 2025-01-12](https://newsletter.appliedgo.net/archive/big-things-will-happen/) 👤 The Applied Go Weekly Newsletter 💬 1929 🗓️ 2025-01-15
@@ -922,7 +925,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [Air Time](https://third-bit.com/2025/01/05/air-time/) 👤 third-bit.com 💬 484 🗓️ 2025-01-08
     > **Заметка:** Приведён любопытный способ равномерного распределения количества выступлений между участниками совещания.
 - [Unfamiliar • The Applied Go Weekly Newsletter 2025-01-05](https://newsletter.appliedgo.net/archive/2025-01-05-unfamiliar/) 👤 The Applied Go Weekly Newsletter 💬 1017 🗓️ 2025-01-07
-- [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-05-unfamiliar) 👤 seangoedecke.com 💬 1428 🔖 #development 🗓️ 2025-01-07
+- [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-05-unfamiliar) 👤 seangoedecke.com 💬 1428 🔖 #development, #softwarecraft 🗓️ 2025-01-07
 - [Tips and Resources for Learning Go in 2025](mailto:reader-forwarded-email/96015a8074c06c43675c70eaab7a79ee) 👤 Jon Calhoun 💬 2281 🔖 #go, #outline 🗓️ 2025-01-07
     > **Заметка:** Добавить в дополнительные ссылки поста про изучение Go.
 - [Preferring throwaway code over design docs](https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs) 👤 Doug Turnbull 💬 829 🗓️ 2025-01-07
@@ -1005,12 +1008,12 @@ Things I love about Golang](https://hatwd.com/p/things-i-love-about-golang) 👤
 - [Writing a blog on the internet](https://sethmlarson.dev/writing-for-the-internet) 👤 Seth Larson 💬 957 🔖 #writing, #inspiration 🗓️ 2024-11-14
 - [Astro - The Ultimate Web Framework [Deep Dive]](https://youtube.com/watch?v=XRe560_vVF0&si=OMkijVnWPzS8jq01) 👤 Code to the Moon 🔖 #astro 🗓️ 2024-11-13
     > **Заметка:** High-level overview of Astro framework.
-- [Software Estimation Is Hard. Do It Anyway.](https://jacobian.org/2021/may/20/estimation/) 👤 jacobian.org 💬 739 🔖 #development 🗓️ 2024-11-13
+- [Software Estimation Is Hard. Do It Anyway.](https://jacobian.org/2021/may/20/estimation/) 👤 jacobian.org 💬 739 🔖 #development, #softwarecraft 🗓️ 2024-11-13
 - [The Leitner Box—How to Remember Anything Forever](https://ncase.me/remember/) 👤 ncase.me 💬 2552 🔖 #productivity 🗓️ 2024-11-13
 - [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) 👤 wikipedia.org 💬 5682 🔖 #psychology 🗓️ 2024-11-13
 - [Nuxt 3.14](https://nuxt.com/blog/v3-14) 👤 Nuxt 💬 545 🔖 #nuxt 🗓️ 2024-11-13
 - [Examples of the builder pattern in Go](mailto:reader-forwarded-email/5c73c25b512ab7d708b69915f72d718d) 👤 Jon Calhoun 💬 868 🔖 #go 🗓️ 2024-11-13
-- [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) 👤 seangoedecke.com 💬 2123 🔖 #outline, #shipping, #development 🗓️ 2024-11-12
+- [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) 👤 seangoedecke.com 💬 2123 🔖 #outline, #shipping, #development, #softwarecraft 🗓️ 2024-11-12
     > **Заметка:** Дельные мысли о доставке фич при разработке ПО.
 - [Python News Roundup: November 2024](https://realpython.com/python-news-november-2024/) 👤 Philipp Acsany 💬 1350 🔖 #python 🗓️ 2024-11-12
 - [Как создать хронологию проекта, выполнив 7 простых действий](https://asana.com/ru/resources/create-project-management-timeline-template) 👤 Asana 💬 2265 🗓️ 2024-11-12
@@ -1102,8 +1105,8 @@ Organize your Omnivore library with labels](https://blog.omnivore.app/p/organize
 - [How to overcome the illusion of learning - Psychology Compass](https://psychologycompass.com/blog/how-to-overcome-the-illusion-of-learning/) 👤 rokham 💬 3054 🔖 #learning 🗓️ 2024-02-11
 - [Jeff Triplett's Micro.blog - The Power of Semi-Automation: Why Less Can Be More](https://micro.webology.dev/2024/02/07/the-power-of.html) 👤 Jeff Triplett 💬 568 🗓️ 2024-02-12
 - [Tracking Engineering Time - Jacob Kaplan-Moss](https://jacobian.org/2024/feb/7/tracking-engineering-time/) 👤 jacobian.org 💬 1924 🔖 #soft skills, #time management 🗓️ 2024-02-13
-- [Managing Technical Debt - Jacob Kaplan-Moss](https://jacobian.org/2023/dec/20/tech-debt/) 👤 jacobian.org 💬 1142 🔖 #development 🗓️ 2024-02-13
-- [My Software Estimation Technique - Jacob Kaplan-Moss](https://jacobian.org/2021/may/25/my-estimation-technique/) 👤 jacobian.org 💬 2305 🔖 #development 🗓️ 2024-02-13
+- [Managing Technical Debt - Jacob Kaplan-Moss](https://jacobian.org/2023/dec/20/tech-debt/) 👤 jacobian.org 💬 1142 🔖 #development, #softwarecraft 🗓️ 2024-02-13
+- [My Software Estimation Technique - Jacob Kaplan-Moss](https://jacobian.org/2021/may/25/my-estimation-technique/) 👤 jacobian.org 💬 2305 🔖 #estimation, #development 🗓️ 2024-02-13
 - [Soft skills: 18 самых востребованных навыков в 2023 году — Виктория Самарская на vc.ru](https://vc.ru/u/1938804-viktoriya-samarskaya/750429-soft-skills-18-samyh-vostrebovannyh-navykov-v-2023-godu?ysclid=lsjxtj3iyy27767096) 👤 Виктория Самарская 💬 1169 🔖 #soft skills 🗓️ 2024-02-13
 - [10 книг, которые помогут прокачать навыки общения - Лайфхакер](https://lifehacker.ru/communication-books/?ysclid=lsk086j64a535914150) 👤 Лера Мерзлякова 💬 21 🔖 #book, #soft skills, #communication 🗓️ 2024-02-13
 - [Обзор Rogue Trader: Безумный и неидеальный Империум | Видеоигры | Мир фантастики и фэнтези](https://www.mirf.ru/games/videogames/obzor-rogue-trader-bezumnyj-i-neidealnyj-imperium/) 👤 Леонид Мойжес 💬 2051 🗓️ 2024-02-13

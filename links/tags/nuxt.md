@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 47
+- Всего ссылок: 48
 
 ## Ссылки
 
+- [24 Time Saving Tips for Nuxt 3](https://masteringnuxt.com/blog/24-time-saving-tips-for-nuxt3?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(241)+Configurable+composables,+named+slots,+and+looping+over+a+range+-+19511363&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 2706 🔖 #nuxt 🗓️ 2025-10-29
+    > **Резюме:** Nuxt 3 combines fast server-side rendering with SPA navigation to give users a quick first load and smooth in-app routing.  
+It includes helpful built-ins like useAsyncData, useStorage, useHead, NuxtLink prefetching, auto-imports, and nested NuxtPage routing to simplify development.  
+Use runtimeConfig for runtime values and app.config for build-time public settings to manage configuration safely.
 - [Nuxt Environment Overrides: Clean Config for Every Environment](https://masteringnuxt.com/blog/nuxt-environment-overrides-clean-config-for-every-environment?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 621 🔖 #nuxt 🗓️ 2025-10-10
     > **Резюме:** Nuxt environment overrides let you cleanly define config for development, staging, testing, and production.  
 Overrides merge with a shared base so you avoid verbose NODE_ENV checks.  
