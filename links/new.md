@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 870
+- Всего ссылок: 872
 
 ## Ссылки
 
+- [How to Manage Your Dotfiles Like a Pro with Git and Stow](https://dev.to/crafts69guy/how-to-manage-your-dotfiles-like-a-pro-with-git-and-stow-3pg1?utm_source=perplexity) 👤 Crafts 69 Guy 💬 1416 🗓️ 2025-10-30
+- [You need to use the tools of the job you've chosen to do](https://www.baldurbjarnason.com/2025/use-the-tools-of-the-job-youve-chosen/) 👤 baldurbjarnason.com 💬 2917 🗓️ 2025-10-30
 - [Simple macOS script to extract text from images (OCR)](https://evanhahn.com/mac-ocr-script/) 👤 Evan Hahn 💬 232 🗓️ 2025-10-29
 - [AI is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more?utm_source=substack&utm_medium=email) 👤 tawandamunongo.dev 💬 1439 🔖 #joyandcuriosity 🗓️ 2025-10-29
 - [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/?utm_source=substack&utm_medium=email) 👤 allvpv <Przemysław Kusiak> 💬 986 🔖 #joyandcuriosity 🗓️ 2025-10-29
