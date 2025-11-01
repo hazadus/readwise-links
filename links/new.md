@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 872
+- Всего ссылок: 874
 
 ## Ссылки
 
+- [The Internet Is No Longer A Safe Haven](https://brainbaking.com/post/2025/10/the-internet-is-no-longer-a-safe-haven/) 👤 Wouter Groeneveld 💬 908 🗓️ 2025-10-31
+- [Why do AI models use so many em-dashes?](https://seangoedecke.com/em-dashes/) 👤 seangoedecke.com 💬 1585 🔖 #llm 🗓️ 2025-10-31
 - [How to Manage Your Dotfiles Like a Pro with Git and Stow](https://dev.to/crafts69guy/how-to-manage-your-dotfiles-like-a-pro-with-git-and-stow-3pg1?utm_source=perplexity) 👤 Crafts 69 Guy 💬 1416 🗓️ 2025-10-30
 - [You need to use the tools of the job you've chosen to do](https://www.baldurbjarnason.com/2025/use-the-tools-of-the-job-youve-chosen/) 👤 baldurbjarnason.com 💬 2917 🗓️ 2025-10-30
 - [Simple macOS script to extract text from images (OCR)](https://evanhahn.com/mac-ocr-script/) 👤 Evan Hahn 💬 232 🗓️ 2025-10-29

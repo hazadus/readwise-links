@@ -30,7 +30,9 @@
 - [Пишем свой веб-сервер на Python](https://iximiuz.com/ru/series/writing-python-web-server-ru/) 👤 Ivan Velichko 💬 94 🔖 #diy, #http 🗓️ 2024-02-20
     > **Резюме:** Серия статей о том, как написать свой веб-сервер на Python с самого нуля. Как компьютеры передают данные по сети? Что такое сокеты и для чего они нужны? Какие модели обработки запросов существуют, в чем их плюсы и минусы? Что такое протокол HTTP и для чего он нужен? Ответы на эти и многие другие вопросы эта серия даст тебе.
 - [Пишем свой веб-сервер на Python: процессы, потоки и асинхронный I/O](https://iximiuz.com/ru/posts/writing-python-web-server-part-2/) 👤 Ivan Velichko 💬 2513 🔖 #diy, #http 🗓️ 2024-02-29
-    > **Резюме:** В чем преимущество серверов с асинхронной обработкой запросов над многопоточными серверами? Когда стоит использовать отдельные процессы? В статье рассмотрены наиболее популярные способы обработки запросов на сервере, их достоинства и недостатки.
+    > **Резюме:** Статья сравнивает три подхода к обработке запросов: процессы, потоки и асинхронный I/O.  
+Процессы изолируют ошибки, но дороги по ресурсам; потоки легче, но требуют потокобезопасности.  
+Асинхронный I/O на одном потоке лучше масштабируется для большого числа ожиданий, но сложнее в оформлении кода.
 - [Let’s Build A Simple Interpreter. Part 1. - Ruslan's Blog](https://ruslanspivak.com/lsbasi-part1/) 👤 Ruslan Spivak 💬 2689 🔖 #diy 🗓️ 2024-02-29
     > **Резюме:** This article introduces a series on building a simple interpreter and compiler. Readers will learn the technical skills needed to create an interpreter by starting with basic arithmetic expressions. The goal is to demystify how interpreters and compilers work and to encourage readers to commit to studying these concepts.
 - [Let’s Build A Web Server. Part 1. - Ruslan's Blog](https://ruslanspivak.com/lsbaws-part1/) 👤 Ruslan Spivak 💬 1366 🔖 #diy 🗓️ 2024-03-11

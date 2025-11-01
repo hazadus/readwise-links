@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 273
+- Всего ссылок: 274
 
 ## Ссылки
 
+- [Why do AI models use so many em-dashes?](https://seangoedecke.com/em-dashes/) 👤 seangoedecke.com 💬 1585 🔖 #llm 🗓️ 2025-10-31
+    > **Резюме:** AI models overuse em-dashes, and people notice it. The author argues this likely comes from training on digitized late-1800s/early-1900s books, which use more em-dashes. Other explanations (token efficiency, RLHF dialects) seem less convincing.
 - [Setting up a codebase for working with coding agents](https://simonwillison.net/2025/Oct/25/coding-agent-tips/#atom-everything) 👤 Simon Willison 💬 226 🔖 #llm 🗓️ 2025-10-26
     > **Резюме:** Good automated tests let coding agents run and verify changes quickly. Simple dev setup notes and tools (playwright, linters, formatters) help agents test and fix code. Anything that makes code easier for humans also helps agents.
 - [AI’s Trap Settling for Boilerplate Over Elegant Code](https://dayvster.com/blog/ais-trap-settling-for-boilerplate-over-elegant-code/) 👤 Dayvi Schuster 💬 1783 🔖 #llm 🗓️ 2025-10-26
