@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 101
+- Всего ссылок: 100
 
 ## Ссылки
 
@@ -14,8 +14,6 @@
     > **Резюме:** Zig paired with Qt (via libqt6zig) makes practical, cross-platform GUI development possible. The bindings are direct, explicit, and map Qt’s C++ API well into Zig for good performance and clarity. The author built a simple shopping-list app to show the library is usable and promising.
 - [SLOCCount in WebAssembly](https://simonwillison.net/2025/Oct/22/sloccount-in-webassembly/#atom-everything) 👤 Simon Willison 💬 517 🗓️ 2025-10-23
     > **Резюме:** Simon Willison revived the old SLOCCount tool by running it on the web using WebAssembly and Perl. He worked with AI to build a web interface that analyzes code pasted in, loaded from GitHub, or uploaded as a Zip file. The tool estimates development costs, but these numbers are outdated and should not be fully trusted.
-- [Don't let Claude Code delete your session logs](https://simonwillison.net/2025/Oct/22/claude-code-logs/#atom-everything) 👤 Simon Willison 💬 99 🔖 #claude 🗓️ 2025-10-22
-    > **Резюме:** Claude Code saves your session logs on your computer but deletes them after 30 days by default. You can stop this by changing the cleanupPeriodDays setting in the settings file. This lets you keep your logs for a very long time.
 - [Diskcache, more than caching](https://www.bitecode.dev/p/diskcache-more-than-caching) 👤 Bite Code! 💬 1310 🗓️ 2025-10-20
     > **Резюме:** Diskcache is a lightweight Python key/value store built on SQLite that acts like a local subset of Redis. It provides fast caching plus transactions, tagging, queues, locks, sharding, and tools to avoid race conditions. You can use it across processes for caching, simple queues, and coordinated concurrency.
 - [Using Asyncpg with FastAPI and Air](https://daniel.feldroy.com/posts/2025-10-using-asyncpg-with-fastapi-and-air) 👤 https://daniel.feldroy.com 💬 709 🗓️ 2025-10-20

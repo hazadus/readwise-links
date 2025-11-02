@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1164
+- Всего ссылок: 1167
 
 ## Ссылки
 
+- [How cheap, outsourced labour in Africa is shaping AI English](https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt) 👤 Alex Hern 💬 1508 🔖 #llm 🗓️ 2025-11-01
+- [Why do AI models use so many em-dashes?](https://seangoedecke.com/em-dashes/) 👤 seangoedecke.com 💬 1585 🔖 #llm 🗓️ 2025-10-31
 - [I want to see the claw](https://vickiboykis.com/2025/10/20/i-want-to-see-the-claw/?utm_source=substack&utm_medium=email) 👤 ★❤✰ Vicki Boykis ★❤✰  💬 861 🔖 #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
 - [You have two jobs](https://jacobian.org/2017/nov/1/you-have-two-jobs/?utm_source=substack&utm_medium=email) 👤 jacobian.org 💬 526 🔖 #career, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
 - [Setting up a codebase for working with coding agents](https://simonwillison.net/2025/Oct/25/coding-agent-tips/#atom-everything) 👤 Simon Willison 💬 226 🔖 #llm 🗓️ 2025-10-26
@@ -20,6 +22,7 @@
 - [Leetcode Hard](https://yusufaytas.com/leetcode-hard/) 👤 https://www.facebook.com/yusufaytas 💬 552 🔖 #hiring 🗓️ 2025-10-24
 - [Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas](https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/#atom-everything) 👤 Simon Willison 💬 1157 🗓️ 2025-10-23
 - [More Tools for the Agent](https://ampcode.com/news/more-tools-for-the-agent) 👤 ampcode.com 💬 604 🗓️ 2025-10-23
+- [Don't let Claude Code delete your session logs](https://simonwillison.net/2025/Oct/22/claude-code-logs/#atom-everything) 👤 Simon Willison 💬 99 🔖 #claude 🗓️ 2025-10-22
 - [The price of mandatory code reviews](https://newsletter.manager.dev/p/the-price-of-mandatory-code-reviews) 👤 Anton Zaides 💬 1305 🔖 #codereview 🗓️ 2025-10-21
 - [Should LLMs just treat text content as an image?](https://seangoedecke.com/text-tokens-as-image-tokens/) 👤 seangoedecke.com 💬 1239 🔖 #llm 🗓️ 2025-10-21
 - [Claude Code for web—a new asynchronous coding agent from Anthropic](https://simonwillison.net/2025/Oct/20/claude-code-for-web/#atom-everything) 👤 Simon Willison 💬 1076 🔖 #llm, #claude 🗓️ 2025-10-20

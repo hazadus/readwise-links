@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 274
+- Всего ссылок: 275
 
 ## Ссылки
 
+- [How cheap, outsourced labour in Africa is shaping AI English](https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt) 👤 Alex Hern 💬 1508 🔖 #llm 🗓️ 2025-11-01
+    > **Резюме:** Workers in Africa are being exploited to train AI systems, leading to the emergence of AI-ese that mirrors African English. AI hardware products like Rabbit Inc's R1 are entering the market to provide new ways of interacting with artificial intelligence. The development of AI language models like ChatGPT raises concerns about ethical practices and the impact on language diversity.
 - [Why do AI models use so many em-dashes?](https://seangoedecke.com/em-dashes/) 👤 seangoedecke.com 💬 1585 🔖 #llm 🗓️ 2025-10-31
     > **Резюме:** AI models overuse em-dashes, and people notice it. The author argues this likely comes from training on digitized late-1800s/early-1900s books, which use more em-dashes. Other explanations (token efficiency, RLHF dialects) seem less convincing.
 - [Setting up a codebase for working with coding agents](https://simonwillison.net/2025/Oct/25/coding-agent-tips/#atom-everything) 👤 Simon Willison 💬 226 🔖 #llm 🗓️ 2025-10-26
