@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 275
+- Всего ссылок: 276
 
 ## Ссылки
 
+- [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) 👤 Shrivu Shankar 💬 3126 🔖 #llm, #claude 🗓️ 2025-11-02
+    > **Резюме:** The author describes how they use Claude Code across docs, CLI tools, subagents, SDKs, and GitHub Actions. They emphasize a short, focused CLAUDE.md, prefer scripting/Task-based workflows over rigid subagents, and use the SDK for batch or prototype agents. GitHub Actions and careful permissions/timeouts help automate PRs and scale usage.
 - [How cheap, outsourced labour in Africa is shaping AI English](https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt) 👤 Alex Hern 💬 1508 🔖 #llm 🗓️ 2025-11-01
     > **Резюме:** Workers in Africa are being exploited to train AI systems, leading to the emergence of AI-ese that mirrors African English. AI hardware products like Rabbit Inc's R1 are entering the market to provide new ways of interacting with artificial intelligence. The development of AI language models like ChatGPT raises concerns about ethical practices and the impact on language diversity.
 - [Why do AI models use so many em-dashes?](https://seangoedecke.com/em-dashes/) 👤 seangoedecke.com 💬 1585 🔖 #llm 🗓️ 2025-10-31
@@ -365,7 +367,7 @@ Even with optimistic numbers, retries and propagated mistakes can push the fract
     > **Резюме:** Using large language models (LLMs) is a great way to learn new subjects by asking many follow-up questions like you would with a knowledgeable friend. While LLMs can sometimes make up facts, you can avoid mistakes by focusing on well-known topics and ignoring uncertain details. LLMs work best for learning basics and exploring new areas, but they are less helpful for very deep or niche knowledge.
 - [I Shipped a macOS App Built Entirely by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code) 👤 indragie.com 💬 3462 🔖 #llm 🗓️ 2025-07-07
     > **Резюме:** The author built a Mac app mostly using Claude Code, an AI coding assistant that writes and tests code. Claude Code works well with SwiftUI but needs clear specs and feedback to improve its output. This tool shows how AI could change software development in the future.
-- [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
+- [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #go, #cli, #llm, #github, #inspiration 🗓️ 2025-07-05
     > **Резюме:** Building small AI tools can save developers time on repetitive tasks like writing reports or summarizing updates. These tools are simple to create and help teams work more efficiently, even if they aren’t big money-makers. Over time, more engineers will build such AI helpers, making many common jobs easier and faster.
 - [Identify, solve, verify](https://simonwillison.net/2025/Jul/4/identify-solve-verify/#atom-everything) 👤 Simon Willison 💬 178 🔖 #llm 🗓️ 2025-07-05
     > **Резюме:** Using LLMs helps me see that my job is more than just writing code. I identify problems, solve them, and check the solutions work. Even advanced LLMs need humans to guide and verify their work.

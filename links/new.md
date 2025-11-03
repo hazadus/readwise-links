@@ -1,9 +1,12 @@
 # Новые ссылки
 
-- Всего ссылок: 874
+- Всего ссылок: 877
 
 ## Ссылки
 
+- [Engineering Manager Interview Preparation](https://yusufaytas.com/engineering-manager-interview-preparation/) 👤 https://www.facebook.com/yusufaytas 💬 3989 🗓️ 2025-11-02
+- [Code Author](https://yusufaytas.com/code-author/) 👤 https://www.facebook.com/yusufaytas 💬 759 🗓️ 2025-11-02
+- [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) 👤 Shrivu Shankar 💬 3126 🔖 #llm, #claude 🗓️ 2025-11-02
 - [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/) 👤 https://www.facebook.com/yusufaytas 💬 3975 🗓️ 2025-11-01
 - [The Internet Is No Longer A Safe Haven](https://brainbaking.com/post/2025/10/the-internet-is-no-longer-a-safe-haven/) 👤 Wouter Groeneveld 💬 908 🗓️ 2025-10-31
 - [How to Manage Your Dotfiles Like a Pro with Git and Stow](https://dev.to/crafts69guy/how-to-manage-your-dotfiles-like-a-pro-with-git-and-stow-3pg1?utm_source=perplexity) 👤 Crafts 69 Guy 💬 1416 🗓️ 2025-10-30
@@ -32,7 +35,7 @@
 - [Turn off macOS Liquid Glass via the CLI](https://www.stefanjudis.com/snippets/turn-off-macos-liquid-glass-via-the-cli/) 👤 stefanjudis.com 💬 104 🔖 #macos 🗓️ 2025-10-27
 - [A gold ceremony to remember](https://daniel.haxx.se/blog/2025/10/25/a-gold-ceremony-to-remember/) 👤 Daniel Stenberg 💬 747 🔖 #toot, #devtools 🗓️ 2025-10-26
     > **Заметка:** Заслуженная награда🎖️! Рад за Дэниэла. Просто юзайте curl! ✊
-- [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/?utm_source=tldrwebdev) 👤 Evan Hahn 💬 2125 🔖 #joyandcuriosity 🗓️ 2025-10-26
+- [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/?utm_source=tldrwebdev) 👤 Evan Hahn 💬 2125 🔖 #cli, #inspiration, #joyandcuriosity 🗓️ 2025-10-26
 - [Solving the wrong problem](https://www.ufried.com/blog/ai_assisted_coding/?utm_source=tldrwebdev) 👤 Uwe Friedrichsen 💬 4167 🗓️ 2025-10-26
 - [Avoiding the Shiny Object Syndrome: When "Good Enough" Is Actually Perfect](https://alfy.blog/2025/08/22/from-code-that-works-to-code-that-matters.md.html) 👤 Ahmad Elalfy 💬 1043 🗓️ 2025-10-25
 - [How Functional Programming Shaped (and Twisted) Frontend Development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_308) 👤 Ahmad Elalfy 💬 4008 🗓️ 2025-10-25

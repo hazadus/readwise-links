@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 101
+- Всего ссылок: 102
 
 ## Ссылки
 
+- [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/?utm_source=tldrwebdev) 👤 Evan Hahn 💬 2125 🔖 #cli, #inspiration, #joyandcuriosity 🗓️ 2025-10-26
+    > **Резюме:** The author describes many small shell scripts they use frequently to solve everyday tasks. Most scripts are simple helpers for making temp dirs, editing quick notes, downloading media, and automating routine work. They keep these handy in dotfiles and use them from daily to monthly.
 - [You Are Insignificant. That's a Good Thing.](https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing) 👤 JA Westenberg 💬 2708 🔖 #toot, #inspiration 🗓️ 2025-10-20
     > **Резюме:** The universe is vast and old, and your life is brief and small. That means you probably won't be remembered forever, and that's okay. You can focus on enjoying life and being kind now instead of chasing cosmic significance.
 - [Why Stories Make You Smarter Than Self-Help Books](https://www.joanwestenberg.com/p/why-stories-make-you-smarter-than-self-help-books) 👤 JA Westenberg 💬 929 🔖 #toot, #reading, #inspiration 🗓️ 2025-10-16
@@ -50,7 +52,7 @@ Lead by owning outcomes, hiring great people, teaching honestly, and assuming go
     > **Резюме:** Kieran Klaassen uses Claude Code, an AI tool that writes code and handles tasks like a helpful teammate. This lets him focus on directing work instead of coding, speeding up software development. Claude Code also helps with debugging, reviewing, and managing issues, making programming easier and faster.
 - [What Doesn’t Change](https://terriblesoftware.org/2025/07/14/what-doesnt-change/) 👤 Terrible Software 💬 514 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-14
     > **Резюме:** Technology changes fast, but core ideas like algorithms and networks stay the same. Knowing these fundamentals helps you use AI and new tools better. Focus on learning the basics deeply to understand and adapt to any future technology.
-- [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
+- [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #go, #cli, #llm, #github, #inspiration 🗓️ 2025-07-05
     > **Резюме:** Building small AI tools can save developers time on repetitive tasks like writing reports or summarizing updates. These tools are simple to create and help teams work more efficiently, even if they aren’t big money-makers. Over time, more engineers will build such AI helpers, making many common jobs easier and faster.
 - [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/#tools-vs-identity) 👤 Adam Gordon Bell 💬 8453 🔖 #llm, #learning, #inspiration 🗓️ 2025-07-03
     > **Резюме:** The author loves coding and building projects, even as AI tools get better at writing code. Using AI as a partner can make coding more fun and help tackle bigger projects. Learning to work with these tools is a valuable skill that can keep the joy of programming alive.

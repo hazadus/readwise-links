@@ -391,7 +391,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [I Shipped a macOS App Built Entirely by Claude Code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code) 👤 indragie.com 💬 3462 🔖 #llm 🗓️ 2025-07-07
 - [Эволюция рабочего места одного программиста](https://habr.com/ru/articles/870944/) 👤 arturdumchev 💬 1834 🔖 #health 🗓️ 2025-07-07
 - [How to become passionate about delivering shareholder value](https://seangoedecke.com/shareholder-value/) 👤 seangoedecke.com 💬 1435 🔖 #career 🗓️ 2025-07-05
-- [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #llm, #github, #inspiration 🗓️ 2025-07-05
+- [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #go, #cli, #llm, #github, #inspiration 🗓️ 2025-07-05
 - [Identify, solve, verify](https://simonwillison.net/2025/Jul/4/identify-solve-verify/#atom-everything) 👤 Simon Willison 💬 178 🔖 #llm 🗓️ 2025-07-05
 - [How to Become a Time Billionaire](https://www.joanwestenberg.com/p/how-to-become-a-time-billionaire-d50677ce6215ea8a) 👤 Joan Westenberg 💬 1726 🔖 #time management 🗓️ 2025-07-05
 - [The Unbearable Lightness of Cringe](mailto:reader-forwarded-email/a6dac3498a092d9e0831a96c395f8972) 👤 Joan Westenberg 💬 1115 🗓️ 2025-07-04

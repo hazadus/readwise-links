@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 233
+- Всего ссылок: 234
 
 ## Ссылки
 
@@ -63,6 +63,8 @@ This issue wraps up the Go & AI mini‑series and asks readers to take a short f
     > **Резюме:** The author shares their experience of creating a JSON parser from scratch, starting with a tokenizer that breaks down JSON strings into tokens. They explain the process of parsing, which involves converting these tokens into an abstract syntax tree. The article aims to help readers understand JSON parsing in a simplified manner.
 - [(Don't) Leave No Trace • The Applied Go Weekly Newsletter 2025-07-06](https://newsletter.appliedgo.net/archive/2025-07-06-dont-leave-no-trace/) 👤 appliedgo.net 💬 1746 🔖 #go 🗓️ 2025-07-07
     > **Резюме:** Go 1.25 introduces FlightRecorder, a new tool that records recent trace data in a sliding window to capture meaningful events without filling disk space. It lets developers start, stop, and save trace snapshots programmatically or on events like signals. This feature helps analyze application behavior efficiently by focusing only on important moments.
+- [Building tiny AI tools for developer productivity](https://seangoedecke.com/building-tiny-ai-tools/) 👤 seangoedecke.com 💬 695 🔖 #go, #cli, #llm, #github, #inspiration 🗓️ 2025-07-05
+    > **Резюме:** Building small AI tools can save developers time on repetitive tasks like writing reports or summarizing updates. These tools are simple to create and help teams work more efficiently, even if they aren’t big money-makers. Over time, more engineers will build such AI helpers, making many common jobs easier and faster.
 - [Concurrency Patterns in Go: errgroup](mailto:reader-forwarded-email/e17e336182935f8e158a227da7b09694) 👤 Jon Calhoun 💬 751 🔖 #go 🗓️ 2025-07-04
     > **Резюме:** The email explains how to use Go's errgroup package to run multiple goroutines and handle errors easily. It highlights a common closure bug and shows how errgroup manages goroutines without needing "go" statements. It also clarifies that errgroup is part of Go's external "/x/" packages, which are tested but separate from the standard library.
 - [Gist of Go: Semaphores](https://antonz.org/go-concurrency/semaphores/) 👤 Anton Zhiyanov 💬 2380 🔖 #go 🗓️ 2025-07-02

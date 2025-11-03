@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) 👤 Shrivu Shankar 💬 3126 🔖 #llm, #claude 🗓️ 2025-11-02
+    > **Резюме:** The author describes how they use Claude Code across docs, CLI tools, subagents, SDKs, and GitHub Actions. They emphasize a short, focused CLAUDE.md, prefer scripting/Task-based workflows over rigid subagents, and use the SDK for batch or prototype agents. GitHub Actions and careful permissions/timeouts help automate PRs and scale usage.
 - [claude_code_docs_map.md](https://simonwillison.net/2025/Oct/24/claude-code-docs-map/#atom-everything) 👤 Simon Willison 💬 205 🔖 #claude 🗓️ 2025-10-25
     > **Резюме:** Simon Willison explains that Claude Code uses a Markdown index (claude_code_docs_map.md) to find documentation when asked about its features. He shows the system prompt directs Claude Code to fetch that URL for answers about itself. He wishes other LLMs would use the same pattern because many struggle to answer questions about their own tools.
 - [Don't let Claude Code delete your session logs](https://simonwillison.net/2025/Oct/22/claude-code-logs/#atom-everything) 👤 Simon Willison 💬 99 🔖 #claude 🗓️ 2025-10-22
