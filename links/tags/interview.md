@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 19
 
 ## Ссылки
 
+- [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/) 👤 https://www.facebook.com/yusufaytas 💬 3975 🔖 #llm, #interview 🗓️ 2025-11-01
+    > **Резюме:** AI made interviews unreliable by letting candidates present perfect, AI-generated answers instead of real thinking.  
+Companies are shifting from high-volume remote screens to in-person, interactive interviews that reveal real reasoning.  
+The goal now is simple: test human judgment, communication, and live problem-solving — things AI can’t convincingly fake.
 - [«Переводить Сапковского — как Нобелевскую премию получить». Интервью с переводчиком «Перекрёстка воронов» Вадимом Кумоком](https://www.mirf.ru/book/vadim-kumok-interview) 👤 Алексей Ионов 💬 2039 🔖 #interview 🗓️ 2025-10-20
     > **Резюме:** Вадим Кумок — давний поклонник фантастики, который стал переводчиком почти случайно и переводит с польского и английского. Он столкнулся с трудностями — сложный язык Сапковского, редкие слова и конкуренция ИИ‑перевода, но придумал свои приёмы и правки. Кумок мечтает перевести легендарного польского автора Адама Вишневски‑Снерга.
 - [Operational Skills Needed](https://yusufaytas.com/operational-skills-needed/) 👤 https://www.facebook.com/yusufaytas 💬 466 🔖 #devops, #interview 🗓️ 2025-10-04

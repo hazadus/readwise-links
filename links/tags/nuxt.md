@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 48
+- Всего ссылок: 49
 
 ## Ссылки
 
+- [Building a Modular Monolith with Nuxt Layers: A Practical Guide](https://alexop.dev/posts/nuxt-layers-modular-monolith/) 👤 Alexander Opalic 💬 2882 🔖 #nuxt 🗓️ 2025-11-04
+    > **Резюме:** Nuxt Layers lets you split a Nuxt app into self-contained feature layers with their own components, pages, and configs.  
+This enables a modular monolith: clear feature boundaries without microservices or repo complexity.  
+Use a custom ESLint plugin to enforce no cross-layer or upward imports and keep layers isolated.
 - [24 Time Saving Tips for Nuxt 3](https://masteringnuxt.com/blog/24-time-saving-tips-for-nuxt3?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(241)+Configurable+composables,+named+slots,+and+looping+over+a+range+-+19511363&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 2706 🔖 #nuxt 🗓️ 2025-10-29
     > **Резюме:** Nuxt 3 combines fast server-side rendering with SPA navigation to give users a quick first load and smooth in-app routing.  
 It includes helpful built-ins like useAsyncData, useStorage, useHead, NuxtLink prefetching, auto-imports, and nested NuxtPage routing to simplify development.  

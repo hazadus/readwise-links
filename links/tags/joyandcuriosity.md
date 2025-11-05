@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 43
+- Всего ссылок: 44
 
 ## Ссылки
 
+- [Burning out](https://www.interconnects.ai/p/burning-out?utm_source=substack&utm_medium=email) 👤 Nathan Lambert 💬 2007 🔖 #joyandcuriosity 🗓️ 2025-11-04
+    > **Резюме:** AI work culture has become extreme, with many people overworking to stay competitive in LLM development. This intense pace raises burnout, harms creativity, and makes team culture and rest crucial. The author keeps pushing to improve open models despite the personal cost.
 - [AI is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more?utm_source=substack&utm_medium=email) 👤 tawandamunongo.dev 💬 1439 🔖 #joyandcuriosity 🗓️ 2025-10-29
     > **Резюме:** AI tools promised more freedom but are driving people to work longer and harder. The always-on nature of AI creates guilt for resting and fuels a 996-style hustle. Saying "enough" and setting boundaries may be the radical act we need to protect creativity and well-being.
 - [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/?utm_source=substack&utm_medium=email) 👤 allvpv <Przemysław Kusiak> 💬 986 🔖 #joyandcuriosity 🗓️ 2025-10-29

@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 276
+- Всего ссылок: 277
 
 ## Ссылки
 
@@ -8,6 +8,10 @@
     > **Резюме:** The author describes how they use Claude Code across docs, CLI tools, subagents, SDKs, and GitHub Actions. They emphasize a short, focused CLAUDE.md, prefer scripting/Task-based workflows over rigid subagents, and use the SDK for batch or prototype agents. GitHub Actions and careful permissions/timeouts help automate PRs and scale usage.
 - [How cheap, outsourced labour in Africa is shaping AI English](https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt) 👤 Alex Hern 💬 1508 🔖 #llm 🗓️ 2025-11-01
     > **Резюме:** Workers in Africa are being exploited to train AI systems, leading to the emergence of AI-ese that mirrors African English. AI hardware products like Rabbit Inc's R1 are entering the market to provide new ways of interacting with artificial intelligence. The development of AI language models like ChatGPT raises concerns about ethical practices and the impact on language diversity.
+- [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/) 👤 https://www.facebook.com/yusufaytas 💬 3975 🔖 #llm, #interview 🗓️ 2025-11-01
+    > **Резюме:** AI made interviews unreliable by letting candidates present perfect, AI-generated answers instead of real thinking.  
+Companies are shifting from high-volume remote screens to in-person, interactive interviews that reveal real reasoning.  
+The goal now is simple: test human judgment, communication, and live problem-solving — things AI can’t convincingly fake.
 - [Why do AI models use so many em-dashes?](https://seangoedecke.com/em-dashes/) 👤 seangoedecke.com 💬 1585 🔖 #llm 🗓️ 2025-10-31
     > **Резюме:** AI models overuse em-dashes, and people notice it. The author argues this likely comes from training on digitized late-1800s/early-1900s books, which use more em-dashes. Other explanations (token efficiency, RLHF dialects) seem less convincing.
 - [Setting up a codebase for working with coding agents](https://simonwillison.net/2025/Oct/25/coding-agent-tips/#atom-everything) 👤 Simon Willison 💬 226 🔖 #llm 🗓️ 2025-10-26

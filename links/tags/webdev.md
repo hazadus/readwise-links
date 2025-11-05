@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html?utm_source=tldrwebdev) 👤 Ahmad Elalfy 💬 2340 🔖 #http, #webdev 🗓️ 2025-11-04
+    > **Резюме:** URLs can and should hold app state so pages are shareable, bookmarkable, and restorable.  
+Good URL design makes intent, context, and caching explicit.  
+Put public, meaningful state in the URL and keep sensitive or transient state out.
 - [Stop Ignoring the Browser: The Biggest Frontend Shift in a Decade](https://thenewstack.io/stop-ignoring-the-browser-the-biggest-frontend-shift-in-a-decade/?utm_source=tldrwebdev) 👤 Alexander T. Williams 💬 1141 🔖 #webdev, #frontend 🗓️ 2025-10-20
     > **Резюме:** Browsers are gaining built-in features that used to only exist in frameworks. This reduces the need for heavy framework layers and improves performance. Frameworks will stay for ergonomics, but their dominance is fading.
 - [Solving Prop Drilling in Vue: Modern State Management Strategies](https://alexop.dev/posts/solving-prop-drilling-in-vue/) 👤 Alexander Opalic 💬 798 🔖 #vue, #toot, #pinia, #webdev 🗓️ 2025-09-26

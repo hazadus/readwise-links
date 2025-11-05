@@ -1,13 +1,20 @@
 # Новые ссылки
 
-- Всего ссылок: 877
+- Всего ссылок: 884
 
 ## Ссылки
 
-- [Engineering Manager Interview Preparation](https://yusufaytas.com/engineering-manager-interview-preparation/) 👤 https://www.facebook.com/yusufaytas 💬 3989 🗓️ 2025-11-02
+- [Burning out](https://www.interconnects.ai/p/burning-out?utm_source=substack&utm_medium=email) 👤 Nathan Lambert 💬 2007 🔖 #joyandcuriosity 🗓️ 2025-11-04
+- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html?utm_source=tldrwebdev) 👤 Ahmad Elalfy 💬 2340 🔖 #http, #webdev 🗓️ 2025-11-04
+- [Kafka is fast -- I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks?utm_source=tldrwebdev) 👤 TopicPartition 💬 6636 🔖 #kafka, #postgresql 🗓️ 2025-11-04
+- [A Beginner’s Guide to Automation with n8n](https://www.freecodecamp.org/news/a-beginners-guide-to-automation-with-n8n/) 👤 Manish Shivanandhan 💬 1902 🔖 #n8n 🗓️ 2025-11-04
+- [Be a Magpie. You'll Get More Done.](https://www.joanwestenberg.com/p/be-a-magpie-you-ll-get-more-done) 👤 JA Westenberg 💬 1113 🗓️ 2025-11-04
+- [Absurd Workflows: Durable Execution With Just Postgres](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/) 👤 Armin Ronacher 💬 1030 🗓️ 2025-11-04
+- [Is it worrying that 95% of AI enterprise projects fail?](https://seangoedecke.com/why-do-ai-enterprise-projects-fail/) 👤 seangoedecke.com 💬 1660 🗓️ 2025-11-04
+- [Go Faster With Green Tea • The Applied Go Weekly Newsletter 2025-11-02](https://newsletter.appliedgo.net/archive/2025-11-02-go-faster-with-green-tea/) 👤 The Applied Go Weekly Newsletter 💬 1134 🔖 #go 🗓️ 2025-11-04
+- [Building a Modular Monolith with Nuxt Layers: A Practical Guide](https://alexop.dev/posts/nuxt-layers-modular-monolith/) 👤 Alexander Opalic 💬 2882 🔖 #nuxt 🗓️ 2025-11-04
 - [Code Author](https://yusufaytas.com/code-author/) 👤 https://www.facebook.com/yusufaytas 💬 759 🗓️ 2025-11-02
 - [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) 👤 Shrivu Shankar 💬 3126 🔖 #llm, #claude 🗓️ 2025-11-02
-- [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/) 👤 https://www.facebook.com/yusufaytas 💬 3975 🗓️ 2025-11-01
 - [The Internet Is No Longer A Safe Haven](https://brainbaking.com/post/2025/10/the-internet-is-no-longer-a-safe-haven/) 👤 Wouter Groeneveld 💬 908 🗓️ 2025-10-31
 - [How to Manage Your Dotfiles Like a Pro with Git and Stow](https://dev.to/crafts69guy/how-to-manage-your-dotfiles-like-a-pro-with-git-and-stow-3pg1?utm_source=perplexity) 👤 Crafts 69 Guy 💬 1416 🗓️ 2025-10-30
 - [You need to use the tools of the job you've chosen to do](https://www.baldurbjarnason.com/2025/use-the-tools-of-the-job-youve-chosen/) 👤 baldurbjarnason.com 💬 2917 🗓️ 2025-10-30

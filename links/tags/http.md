@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html?utm_source=tldrwebdev) 👤 Ahmad Elalfy 💬 2340 🔖 #http, #webdev 🗓️ 2025-11-04
+    > **Резюме:** URLs can and should hold app state so pages are shareable, bookmarkable, and restorable.  
+Good URL design makes intent, context, and caching explicit.  
+Put public, meaningful state in the URL and keep sensitive or transient state out.
 - [A complete guide to HTTP caching](https://www.jonoalderson.com/performance/http-caching/) 👤 Jono Alderson 💬 9131 🔖 #http 🗓️ 2025-10-10
     > **Резюме:** Caching is a layered ecosystem (browsers, CDNs, proxies, apps) that speeds the web but is often misunderstood.  
 HTTP headers like Cache-Control, ETag, and Age guide caching, but intermediaries and browsers add their own rules and heuristics.  

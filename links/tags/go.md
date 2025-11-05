@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 234
+- Всего ссылок: 235
 
 ## Ссылки
 
+- [Go Faster With Green Tea • The Applied Go Weekly Newsletter 2025-11-02](https://newsletter.appliedgo.net/archive/2025-11-02-go-faster-with-green-tea/) 👤 The Applied Go Weekly Newsletter 💬 1134 🔖 #go 🗓️ 2025-11-04
+    > **Резюме:** Go's garbage collector has improved massively, cutting pause times from ~400ms to under 1ms over several releases. A new mark-and-sweep approach called Green Tea aims to make GC faster and more efficient on multi-core systems. The newsletter also highlights Go projects, tooling, and articles about schedulers, reproducible builds, and performance tips.
 - [The “10x” Commandments of Highly Effective Go](https://blog.jetbrains.com/go/2025/10/16/the-10x-commandments-of-highly-effective-go/?utm_source=tldrwebdev) 👤 The JetBrains Blog 💬 1291 🔖 #go 🗓️ 2025-10-29
     > **Резюме:** Write reusable packages, not one-off programs, and make code easy to read with clear names, small functions, and useful zero values.  
 Test everything, check and wrap errors properly, and avoid globals or unsafe concurrency.  
