@@ -1,9 +1,14 @@
 # Новые ссылки
 
-- Всего ссылок: 884
+- Всего ссылок: 889
 
 ## Ссылки
 
+- [Everything you need to know to configure neovim using lua](https://vonheikemen.github.io/devlog/tools/configuring-neovim-using-lua/?utm_source=perplexity) 👤 vonheikemen.github.io 💬 3372 🔖 #lua, #vim 🗓️ 2025-11-05
+- [Build your first Neovim configuration in lua](https://vonheikemen.github.io/devlog/tools/build-your-first-lua-config-for-neovim/?utm_source=perplexity) 👤 vonheikemen.github.io 💬 4212 🔖 #vim 🗓️ 2025-11-05
+- [Build your modern Neovim config in Lua](https://m4xshen.dev/posts/build-your-modern-neovim-config-in-lua?utm_source=perplexity) 👤 m4xshen.dev 💬 948 🔖 #lua, #vim 🗓️ 2025-11-05
+- [Lua for Programmers Part 1: Language Essentials](https://ebens.me/posts/lua-for-programmers-part-1/) 👤 Michael Ebens 💬 1142 🔖 #lua 🗓️ 2025-11-05
+- [Code execution with MCP: Building more efficient agents](https://simonwillison.net/2025/Nov/4/code-execution-with-mcp/#atom-everything) 👤 Simon Willison 💬 401 🗓️ 2025-11-05
 - [Burning out](https://www.interconnects.ai/p/burning-out?utm_source=substack&utm_medium=email) 👤 Nathan Lambert 💬 2007 🔖 #joyandcuriosity 🗓️ 2025-11-04
 - [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html?utm_source=tldrwebdev) 👤 Ahmad Elalfy 💬 2340 🔖 #http, #webdev 🗓️ 2025-11-04
 - [Kafka is fast -- I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks?utm_source=tldrwebdev) 👤 TopicPartition 💬 6636 🔖 #kafka, #postgresql 🗓️ 2025-11-04
