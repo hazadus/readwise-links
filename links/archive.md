@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 1168
+- Всего ссылок: 1170
 
 ## Ссылки
 
@@ -11,6 +11,7 @@
 - [You have two jobs](https://jacobian.org/2017/nov/1/you-have-two-jobs/?utm_source=substack&utm_medium=email) 👤 jacobian.org 💬 526 🔖 #career, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
 - [Setting up a codebase for working with coding agents](https://simonwillison.net/2025/Oct/25/coding-agent-tips/#atom-everything) 👤 Simon Willison 💬 226 🔖 #llm 🗓️ 2025-10-26
 - [AI’s Trap Settling for Boilerplate Over Elegant Code](https://dayvster.com/blog/ais-trap-settling-for-boilerplate-over-elegant-code/) 👤 Dayvi Schuster 💬 1783 🔖 #llm 🗓️ 2025-10-26
+- [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/?utm_source=tldrwebdev) 👤 Evan Hahn 💬 2125 🔖 #cli, #inspiration, #joyandcuriosity 🗓️ 2025-10-26
 - [Just use cURL](https://justuse.org/curl/) 👤 justuse.org 💬 680 🔖 #toot, #devtools 🗓️ 2025-10-26
     > **Заметка:** Лучше и не скажешь!
 - [Convert VIM to Code Editor in 8 Easy Steps - Beginner Friendly](mailto:reader-forwarded-email/9cf1fa4ff217f1413170c1b09a6f3394) 👤 Sushant from Beyond The Syntax 💬 967 🔖 #vim 🗓️ 2025-10-25
@@ -21,6 +22,7 @@
 - [Hiring Red Flags](https://yusufaytas.com/hiring-red-flags/) 👤 https://www.facebook.com/yusufaytas 💬 968 🔖 #hiring 🗓️ 2025-10-24
 - [A guide for Code Reviews](https://yusufaytas.com/a-guide-for-code-reviews/) 👤 https://www.facebook.com/yusufaytas 💬 396 🔖 #codereview 🗓️ 2025-10-24
 - [Leetcode Hard](https://yusufaytas.com/leetcode-hard/) 👤 https://www.facebook.com/yusufaytas 💬 552 🔖 #hiring 🗓️ 2025-10-24
+- [Handmade With Love • The Applied Go Weekly Newsletter 2025-10-19](https://newsletter.appliedgo.net/archive/2025-10-19-handmade-with-love/) 👤 The Applied Go Weekly Newsletter 💬 1172 🔖 #go 🗓️ 2025-10-23
 - [Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas](https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/#atom-everything) 👤 Simon Willison 💬 1157 🗓️ 2025-10-23
 - [More Tools for the Agent](https://ampcode.com/news/more-tools-for-the-agent) 👤 ampcode.com 💬 604 🗓️ 2025-10-23
 - [Don't let Claude Code delete your session logs](https://simonwillison.net/2025/Oct/22/claude-code-logs/#atom-everything) 👤 Simon Willison 💬 99 🔖 #claude 🗓️ 2025-10-22

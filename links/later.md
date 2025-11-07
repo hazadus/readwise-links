@@ -1,11 +1,9 @@
 # Отложенные ссылки
 
-- Всего ссылок: 100
+- Всего ссылок: 99
 
 ## Ссылки
 
-- [Handmade With Love • The Applied Go Weekly Newsletter 2025-10-19](https://newsletter.appliedgo.net/archive/2025-10-19-handmade-with-love/) 👤 The Applied Go Weekly Newsletter 💬 1172 🔖 #go 🗓️ 2025-10-23
-    > **Резюме:** The newsletter is a short, lovingly made roundup of recent Go news, tools, and projects. It highlights articles, podcasts, libraries, and practical tooling for Go developers. The author aims to publish weekly despite limited time.
 - [Doing my own syntax highlighting (finally)](https://alexwlchan.net/2025/syntax-highlighting/?ref=rss) 👤 alexwlchan.net 💬 1353 🗓️ 2025-10-23
     > **Резюме:** The author redesigned their blog’s syntax highlighting to use a minimal, restrained palette that emphasizes comments, strings, constants, and variable definitions. They use Rouge plus manual annotations to mark definitions so only key elements get colored. The new scheme feels cleaner, matches the site, and makes code easier to read.
 - [Living dangerously with Claude](https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/#atom-everything) 👤 Simon Willison 💬 1396 🗓️ 2025-10-23

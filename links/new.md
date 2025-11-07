@@ -1,6 +1,6 @@
 # Новые ссылки
 
-- Всего ссылок: 889
+- Всего ссылок: 888
 
 ## Ссылки
 
@@ -47,10 +47,9 @@
 - [Turn off macOS Liquid Glass via the CLI](https://www.stefanjudis.com/snippets/turn-off-macos-liquid-glass-via-the-cli/) 👤 stefanjudis.com 💬 104 🔖 #macos 🗓️ 2025-10-27
 - [A gold ceremony to remember](https://daniel.haxx.se/blog/2025/10/25/a-gold-ceremony-to-remember/) 👤 Daniel Stenberg 💬 747 🔖 #toot, #devtools 🗓️ 2025-10-26
     > **Заметка:** Заслуженная награда🎖️! Рад за Дэниэла. Просто юзайте curl! ✊
-- [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/?utm_source=tldrwebdev) 👤 Evan Hahn 💬 2125 🔖 #cli, #inspiration, #joyandcuriosity 🗓️ 2025-10-26
 - [Solving the wrong problem](https://www.ufried.com/blog/ai_assisted_coding/?utm_source=tldrwebdev) 👤 Uwe Friedrichsen 💬 4167 🗓️ 2025-10-26
 - [Avoiding the Shiny Object Syndrome: When "Good Enough" Is Actually Perfect](https://alfy.blog/2025/08/22/from-code-that-works-to-code-that-matters.md.html) 👤 Ahmad Elalfy 💬 1043 🗓️ 2025-10-25
-- [How Functional Programming Shaped (and Twisted) Frontend Development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_308) 👤 Ahmad Elalfy 💬 4008 🗓️ 2025-10-25
+- [How Functional Programming Shaped (and Twisted) Frontend Development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_308) 👤 Ahmad Elalfy 💬 4008 🔖 #webdev, #frontend 🗓️ 2025-10-25
 - [Запуск MCP-сервера для AI-агентов от Битрикс24: интеграция с документацией REST API без ошибок](https://habr.com/ru/companies/bitrix/news/956808/) 👤 MaxMoro1 💬 310 🗓️ 2025-10-21
 - [A complete guide to HTTP caching](https://www.jonoalderson.com/performance/http-caching/) 👤 Jono Alderson 💬 9131 🔖 #http 🗓️ 2025-10-10
 - [Standard Package Layout](https://www.gobeyond.dev/standard-package-layout/) 👤 Ben Johnson 💬 2012 🗓️ 2025-10-09

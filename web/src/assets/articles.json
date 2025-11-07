@@ -1942,7 +1942,7 @@
         "author": "Evan Hahn",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "archive",
         "tags": {
             "cli": {
                 "name": "CLI",
@@ -1971,11 +1971,11 @@
         "html_content": null,
         "published_date": "2025-10-22",
         "created_at": "2025-10-26T00:20:20.481295+00:00",
-        "updated_at": "2025-11-02T06:13:25.582128+00:00",
+        "updated_at": "2025-11-06T06:24:03.123549+00:00",
         "saved_at": "2025-10-26T00:20:20.441000+00:00",
         "first_opened_at": "2025-10-26T08:29:36.141000+00:00",
         "last_opened_at": "2025-11-01T09:40:51.030000+00:00",
-        "last_moved_at": "2025-10-26T00:20:20.441000+00:00"
+        "last_moved_at": "2025-11-06T06:24:02.732000+00:00"
     },
     {
         "id": "01k8exqfmmfxh03jdwk2ddhtt5",
@@ -2078,22 +2078,33 @@
         "source": "Reader Share Sheet iOS",
         "category": "article",
         "location": "new",
-        "tags": {},
+        "tags": {
+            "webdev": {
+                "name": "WebDev",
+                "type": "manual",
+                "created": 1762410423870
+            },
+            "frontend": {
+                "name": "Frontend",
+                "type": "manual",
+                "created": 1762410419982
+            }
+        },
         "site_name": "Ahmad Alfy's Blog",
         "word_count": 4008,
         "notes": "",
         "summary": "Functional programming ideals and React pushed developers to rebuild core browser features in JavaScript. This made many sites more complex, fragile, and slower while ignoring the web’s built-in strengths like HTML, CSS, and native events. Newer tools aim to restore platform-first patterns and progressive enhancement.",
         "image_url": null,
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 0.09744788023409452,
         "content": null,
         "html_content": null,
         "published_date": "2025-10-04",
         "created_at": "2025-10-25T23:42:55.271432+00:00",
-        "updated_at": "2025-10-25T23:43:00.953045+00:00",
+        "updated_at": "2025-11-06T06:27:53.904239+00:00",
         "saved_at": "2025-10-25T23:42:55.168000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
+        "first_opened_at": "2025-11-06T06:25:11.008000+00:00",
+        "last_opened_at": "2025-11-06T06:25:11.155000+00:00",
         "last_moved_at": "2025-10-25T23:42:55.168000+00:00"
     },
     {
@@ -2709,7 +2720,7 @@
         "author": "The Applied Go Weekly Newsletter",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "go": {
                 "name": "Go",
@@ -2723,16 +2734,16 @@
         "summary": "The newsletter is a short, lovingly made roundup of recent Go news, tools, and projects. It highlights articles, podcasts, libraries, and practical tooling for Go developers. The author aims to publish weekly despite limited time.",
         "image_url": "https://assets.buttondown.email/images/0ace121a-11e9-463a-8897-912199c01c97.png?w=960&fit=max",
         "parent_id": null,
-        "reading_progress": 0.23255899830195434,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2025-10-22",
         "created_at": "2025-10-23T05:28:23.018027+00:00",
-        "updated_at": "2025-10-23T05:53:49.833312+00:00",
+        "updated_at": "2025-11-06T06:22:14.064972+00:00",
         "saved_at": "2025-10-23T05:28:22.999000+00:00",
         "first_opened_at": "2025-10-23T05:52:06.306000+00:00",
-        "last_opened_at": "2025-10-23T05:52:06.404000+00:00",
-        "last_moved_at": "2025-10-23T05:51:31.123000+00:00"
+        "last_opened_at": "2025-11-06T06:20:28.115000+00:00",
+        "last_moved_at": "2025-11-06T06:22:13.679000+00:00"
     },
     {
         "id": "01k87rm3bb9p7ce3d37fydgx59",
