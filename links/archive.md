@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1170
+- Всего ссылок: 1171
 
 ## Ссылки
 
+- [A Developer's experience with weight loss injections](http://willmcgugan.github.io/weight-loss/) 👤 Will McGugan 💬 1686 🔖 #health 🗓️ 2025-11-07
 - [How cheap, outsourced labour in Africa is shaping AI English](https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt) 👤 Alex Hern 💬 1508 🔖 #llm 🗓️ 2025-11-01
 - [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/) 👤 https://www.facebook.com/yusufaytas 💬 3975 🔖 #llm, #interview 🗓️ 2025-11-01
 - [Why do AI models use so many em-dashes?](https://seangoedecke.com/em-dashes/) 👤 seangoedecke.com 💬 1585 🔖 #llm 🗓️ 2025-10-31

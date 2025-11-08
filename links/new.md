@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 888
+- Всего ссылок: 890
 
 ## Ссылки
 
+- [Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/#atom-everything) 👤 Simon Willison 💬 1893 🗓️ 2025-11-07
+- [WAHA + n8n: No Code Low Code WhatsApp Automation Step-By-Step Guide](https://waha.devlike.pro/blog/waha-n8n/) 👤 waha.devlike.pro 💬 470 🗓️ 2025-11-07
 - [Everything you need to know to configure neovim using lua](https://vonheikemen.github.io/devlog/tools/configuring-neovim-using-lua/?utm_source=perplexity) 👤 vonheikemen.github.io 💬 3372 🔖 #lua, #vim 🗓️ 2025-11-05
 - [Build your first Neovim configuration in lua](https://vonheikemen.github.io/devlog/tools/build-your-first-lua-config-for-neovim/?utm_source=perplexity) 👤 vonheikemen.github.io 💬 4212 🔖 #vim 🗓️ 2025-11-05
 - [Build your modern Neovim config in Lua](https://m4xshen.dev/posts/build-your-modern-neovim-config-in-lua?utm_source=perplexity) 👤 m4xshen.dev 💬 948 🔖 #lua, #vim 🗓️ 2025-11-05
