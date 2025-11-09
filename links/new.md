@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 890
+- Всего ссылок: 892
 
 ## Ссылки
 
+- [Game design is simple, actually](https://simonwillison.net/2025/Nov/7/game-design-is-simple-actually/#atom-everything) 👤 Simon Willison 💬 47 🗓️ 2025-11-08
+- [Interview: Ken Case (OmniFocus)](https://www.joanwestenberg.com/p/interview-ken-case-omnifocus) 👤 JA Westenberg 💬 6152 🗓️ 2025-11-08
 - [Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/#atom-everything) 👤 Simon Willison 💬 1893 🗓️ 2025-11-07
 - [WAHA + n8n: No Code Low Code WhatsApp Automation Step-By-Step Guide](https://waha.devlike.pro/blog/waha-n8n/) 👤 waha.devlike.pro 💬 470 🗓️ 2025-11-07
 - [Everything you need to know to configure neovim using lua](https://vonheikemen.github.io/devlog/tools/configuring-neovim-using-lua/?utm_source=perplexity) 👤 vonheikemen.github.io 💬 3372 🔖 #lua, #vim 🗓️ 2025-11-05
