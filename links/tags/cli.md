@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [A Raycast confetti shell command](https://www.stefanjudis.com/notes/a-raycast-confetti-shell-command/) 👤 stefanjudis.com 💬 119 🔖 #cli, #try 🗓️ 2025-11-16
+    > **Резюме:** Stefan documents a tiny shell command that triggers Raycast's confetti. The script just opens the raycast://.../confetti URL. Running that URL from anywhere makes Raycast show confetti.
+- [Simple macOS script to extract text from images (OCR)](https://evanhahn.com/mac-ocr-script/) 👤 Evan Hahn 💬 232 🔖 #cli, #try, #macos 🗓️ 2025-10-29
+    > **Резюме:** Evan Hahn made a simple macOS script called "ocr" that extracts text from images using Apple’s text recognition API. It works well for screenshots and photos but sometimes misreads characters (like em dashes) and logs an annoying error if recognition fails. He shared the Swift source and welcomes fixes.
 - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/?utm_source=tldrwebdev) 👤 Evan Hahn 💬 2125 🔖 #cli, #inspiration, #joyandcuriosity 🗓️ 2025-10-26
     > **Резюме:** The author describes many small shell scripts they use frequently to solve everyday tasks. Most scripts are simple helpers for making temp dirs, editing quick notes, downloading media, and automating routine work. They keep these handy in dotfiles and use them from daily to monthly.
 - [Meet your new AI coding teammate: Gemini CLI GitHub Actions](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/?utm_source=tldrwebdev) 👤 Jerop Kipruto 💬 638 🔖 #cli, #llm, #try 🗓️ 2025-08-08

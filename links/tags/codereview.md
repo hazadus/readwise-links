@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 8
 
 ## Ссылки
 
+- [Code Review Developer Guide](https://google.github.io/eng-practices/review/) 👤 eng-practices 💬 416 🔖 #codereview 🗓️ 2025-10-29
+    > **Резюме:** Code review is a process where someone other than the code author examines the code to ensure quality. Google has specific guidelines for code reviewers, focusing on design, functionality, complexity, tests, naming, comments, style, and documentation. It's important to choose the best reviewers and can include in-person reviews for effective feedback.
 - [Mistakes I see engineers making in their code reviews](https://seangoedecke.com/good-code-reviews/) 👤 seangoedecke.com 💬 2088 🔖 #codereview 🗓️ 2025-10-25
     > **Резюме:** Code review should look beyond the diff and consider how the change fits the whole codebase. Leave only a few high-value comments and avoid imposing personal style on every PR. If you truly want to block a change, make it a blocking review; otherwise approve so work can move forward.
 - [“ChatGPT said this” Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/) 👤 Terrible Software 💬 374 🔖 #llm, #codereview 🗓️ 2025-10-25

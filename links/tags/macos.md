@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 4
 
 ## Ссылки
 
+- [Simple macOS script to extract text from images (OCR)](https://evanhahn.com/mac-ocr-script/) 👤 Evan Hahn 💬 232 🔖 #cli, #try, #macos 🗓️ 2025-10-29
+    > **Резюме:** Evan Hahn made a simple macOS script called "ocr" that extracts text from images using Apple’s text recognition API. It works well for screenshots and photos but sometimes misreads characters (like em dashes) and logs an annoying error if recognition fails. He shared the Swift source and welcomes fixes.
 - [Turn off macOS Liquid Glass via the CLI](https://www.stefanjudis.com/snippets/turn-off-macos-liquid-glass-via-the-cli/) 👤 stefanjudis.com 💬 104 🔖 #macos 🗓️ 2025-10-27
     > **Резюме:** The article shares a command to turn off macOS Liquid Glass design using the CLI. The author has not tried it yet but wants to keep it for future use. The command helps disable the translucent UI elements in the new macOS.
 - [Quick Motivation – A Mac App](https://matthewmanela.com/blog/quick-motivation-a-mac-app/) 👤 Matthew Manela 💬 762 🔖 #macos, #swift, #inspiration 🗓️ 2025-08-27

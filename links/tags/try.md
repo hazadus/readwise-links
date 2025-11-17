@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 55
+- Всего ссылок: 57
 
 ## Ссылки
 
+- [A Raycast confetti shell command](https://www.stefanjudis.com/notes/a-raycast-confetti-shell-command/) 👤 stefanjudis.com 💬 119 🔖 #cli, #try 🗓️ 2025-11-16
+    > **Резюме:** Stefan documents a tiny shell command that triggers Raycast's confetti. The script just opens the raycast://.../confetti URL. Running that URL from anywhere makes Raycast show confetti.
+- [Simple macOS script to extract text from images (OCR)](https://evanhahn.com/mac-ocr-script/) 👤 Evan Hahn 💬 232 🔖 #cli, #try, #macos 🗓️ 2025-10-29
+    > **Резюме:** Evan Hahn made a simple macOS script called "ocr" that extracts text from images using Apple’s text recognition API. It works well for screenshots and photos but sometimes misreads characters (like em dashes) and logs an annoying error if recognition fails. He shared the Swift source and welcomes fixes.
 - [The Browser That Speaks 200 Languages: Building an AI Translator Without APIs](https://alexop.dev/posts/building-client-side-ai-translator-vue/) 👤 Alexander Opalic 💬 1247 🔖 #try, #vue, #webworkers 🗓️ 2025-09-26
     > **Резюме:** This guide shows how to build a free offline AI translator for 200 languages using Vue and Transformers.js. It runs Meta’s NLLB-200 model locally in a Web Worker and streams translation updates. The app includes language selectors, a progress bar, and a simple Vue interface.
 - [Opening all the files that have been modified in a Git branch](https://alexwlchan.net/2025/review-files-in-text-editor/?ref=rss) 👤 alexwlchan.net 💬 522 🔖 #git, #try 🗓️ 2025-09-19

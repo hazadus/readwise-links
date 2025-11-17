@@ -1,17 +1,80 @@
 # Отложенные ссылки
 
-- Всего ссылок: 99
+- Всего ссылок: 121
 
 ## Ссылки
 
-- [Doing my own syntax highlighting (finally)](https://alexwlchan.net/2025/syntax-highlighting/?ref=rss) 👤 alexwlchan.net 💬 1353 🗓️ 2025-10-23
-    > **Резюме:** The author redesigned their blog’s syntax highlighting to use a minimal, restrained palette that emphasizes comments, strings, constants, and variable definitions. They use Rouge plus manual annotations to mark definitions so only key elements get colored. The new scheme feels cleaner, matches the site, and makes code easier to read.
-- [Living dangerously with Claude](https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/#atom-everything) 👤 Simon Willison 💬 1396 🗓️ 2025-10-23
-    > **Резюме:** The author shares how using "YOLO mode" in Claude Code lets coding agents solve problems independently, saving time. However, this mode is risky because attackers can exploit prompt injection to access private data. To stay safe, always run these agents inside secure sandboxes that limit file and network access.
-- [Why Zig + Qt Feels Like Doing the Impossible Right](https://dayvster.com/blog/why-zig-+-qt-feels-like-doing-the-impossible-right/) 👤 Dayvi Schuster 💬 4105 🗓️ 2025-10-23
-    > **Резюме:** Zig paired with Qt (via libqt6zig) makes practical, cross-platform GUI development possible. The bindings are direct, explicit, and map Qt’s C++ API well into Zig for good performance and clarity. The author built a simple shopping-list app to show the library is usable and promising.
-- [SLOCCount in WebAssembly](https://simonwillison.net/2025/Oct/22/sloccount-in-webassembly/#atom-everything) 👤 Simon Willison 💬 517 🗓️ 2025-10-23
-    > **Резюме:** Simon Willison revived the old SLOCCount tool by running it on the web using WebAssembly and Perl. He worked with AI to build a web interface that analyzes code pasted in, loaded from GitHub, or uploaded as a Zip file. The tool estimates development costs, but these numbers are outdated and should not be fully trusted.
+- [Only three kinds of AI products actually work](https://seangoedecke.com/ai-products/) 👤 seangoedecke.com 💬 2540 🔖 #llm 🗓️ 2025-11-16
+    > **Резюме:** Most AI products that actually work fall into three groups: chatbots, completions (like Copilot), and agentic systems that act autonomously. Chatbots dominate but are vulnerable to big labs and often duplicate the model itself. New promising areas are AI-generated feeds and agentic research tools, while AI games and image tools are less mature.
+- [A Raycast confetti shell command](https://www.stefanjudis.com/notes/a-raycast-confetti-shell-command/) 👤 stefanjudis.com 💬 119 🔖 #cli, #try 🗓️ 2025-11-16
+    > **Резюме:** Stefan documents a tiny shell command that triggers Raycast's confetti. The script just opens the raycast://.../confetti URL. Running that URL from anywhere makes Raycast show confetti.
+- [Europa Universalis V: Обзор самой масштабной исторической стратегии](https://stopgame.ru/show/155063/europa_universalis_v_review_samoy_masshtabnoy_istoricheskoy_strategii) 👤 Степан Песков 💬 1828 🔖 #game 🗓️ 2025-11-15
+    > **Резюме:** Europa Universalis V — большая историческая стратегия, где вы управляете державой в огромной песочнице и решаете судьбы народов. Игра глубоко симулирует людей, сословия и экономику, но изобилие механик требует много микроменеджмента. Автоматизация упрощает жизнь, хотя есть технические баги и нужно доработать некоторые функции.
+- [“Frowning at a screen for 200 hours”: on the writing process](https://bitfieldconsulting.com/posts/the-writing-process) 👤 John Arundel 💬 1850 🔖 #writing 🗓️ 2025-11-15
+    > **Резюме:** John Arundel wrote the Puppet Cookbook by carving out about 200 hours over eight months while juggling freelance work. Writing taught him Puppet features he hadn't used, required lots of coding, testing, and rewriting, and relied on community help. He advises careful planning, time management, and iterative revision for anyone writing a technical book.
+- [Some software bloat is OK](https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok?utm_source=tldrwebdev) 👤 WaspDev Blog 💬 1308 🗓️ 2025-11-12
+    > **Резюме:** Modern hardware makes some software bloat acceptable because it speeds development, improves safety, and adds features like globalization and isolation.  
+However, wasted dependencies, poor design, and over-engineering cause avoidable bloat and maintenance problems.  
+Choose good algorithms early and optimize hotspots when needed to avoid costly rewrites.
+- [The Case Against pgvector](https://alex-jacobs.com/posts/the-case-against-pgvector/?utm_source=tldrwebdev) 👤 Alex Jacobs 💬 2528 🔖 #postgresql 🗓️ 2025-11-12
+    > **Резюме:** Pgvector makes vector search easy to try in Postgres but has serious production limits. Indexing, memory use, realtime inserts, and filtered queries are hard to manage and often require rebuilds or complex tuning. For most teams, a dedicated managed vector database is simpler and more reliable.
+- [Junior vs Senior: Building Modals in Vue](https://michaelnthiessen.com/junior-vs-senior-modals?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(242)+When+ref+and+reactive+work+the+same,+how+to+make+a+variable+created+outside+of+Vue+reactive,+and+more+-+19594812&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1564 🔖 #vue 🗓️ 2025-11-12
+    > **Резюме:** Modals reveal how you think about building apps: juniors tie state and UI together, seniors separate concerns. Use a global data store, humble presentation components, and controller components to make modals scalable and testable. These patterns generalize beyond modals and change how you design Vue apps.
+- [Web Weekly #174](https://www.stefanjudis.com/blog/web-weekly-174/) 👤 stefanjudis.com 💬 987 🗓️ 2025-11-11
+    > **Резюме:** This newsletter shares new web development tips, tools, and features like error.cause and CSS localized quotes. It highlights creative personal websites and useful resources for improving site performance and security. The author also invites readers to join the community and support the indie newsletter.
+- [What's up Python? You already know :)](https://framapiaf.org/@bitecode/115521922015655903) 👤 Framapiaf 💬 58 🔖 #python 🗓️ 2025-11-11
+    > **Резюме:** This post highlights Python and why people already like it. It points readers to Bite Code's article and link. It suggests Mastodon as a good way to follow updates.
+- [Managing Your Manager](https://yusufaytas.com/managing-your-manager/) 👤 https://www.facebook.com/yusufaytas 💬 2404 🗓️ 2025-11-09
+    > **Резюме:** Managers face pressures you may not see, so learn how they think and what they must balance.  
+Make their job easier by bringing clear solutions, predictable updates, and adapting to their style.  
+Do this consistently and you gain trust, autonomy, and real influence.
+- [Building My First Claude Code Plugin](https://alexop.dev/posts/building-my-first-claude-code-plugin/) 👤 Alexander Opalic 💬 662 🔖 #llm 🗓️ 2025-11-09
+    > **Резюме:** Alexander built a Claude Code plugin that auto-generates commands, skills, agents, hooks, and boilerplate.  
+It saves time by creating properly structured files and frontmatter so he no longer copies templates.  
+He published it on GitHub and uses it to speed up Vue-focused workflows and iterate on tooling.
+- [AiDHD](https://www.josh.ing/blog/aidhd) 👤 Josh Cohenzadeh 💬 2219 🔖 #llm 🗓️ 2025-11-09
+    > **Заметка:** Via Simon Willison
+    > **Резюме:** Josh built small AI projects for fun and to explore "vibe coding."  
+He made tools like HN Slop, Claudius, Rate My Prompt, and Promptlet to make agents and prompts easier to use.  
+He says AI speeds the first 80% of work, but the final 20% and finding real users remain hard.
+- [Game design is simple, actually](https://simonwillison.net/2025/Nov/7/game-design-is-simple-actually/#atom-everything) 👤 Simon Willison 💬 47 🗓️ 2025-11-08
+    > **Резюме:** Game design can be broken down into clear, simple principles. Raph Koster offers a twelve-step guide that explains how games create "fun." The guide is informative and full of helpful illustrations.
+- [Interview: Ken Case (OmniFocus)](https://www.joanwestenberg.com/p/interview-ken-case-omnifocus) 👤 JA Westenberg 💬 6152 🗓️ 2025-11-08
+    > **Резюме:** Ken Case, founder of Omni Group, describes building polished native productivity apps for Apple platforms from the NeXT days through Mac OS X. Omni is releasing a universal OmniOutliner and focuses on native apps while offering web versions for device flexibility. Their goal is to improve workflow across devices with unified development, shared outlines, and features that work everywhere.
+- [Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/#atom-everything) 👤 Simon Willison 💬 1893 🗓️ 2025-11-07
+    > **Резюме:** Simon Willison uses asynchronous coding agents like Claude Code and Codex to run code research projects that experiment and test ideas automatically. He gives these agents a dedicated GitHub repository with full network access so they can explore freely and report results via pull requests. This method saves time and helps discover what works by writing and executing real code.
+- [Everything you need to know to configure neovim using lua](https://vonheikemen.github.io/devlog/tools/configuring-neovim-using-lua/?utm_source=perplexity) 👤 vonheikemen.github.io 💬 3372 🔖 #lua, #vim 🗓️ 2025-11-05
+    > **Резюме:** The article explains how to migrate Neovim configuration from vimscript to Lua step by step.  
+It shows how to run Lua inside init.vim, call vimscript functions with vim.fn and vim.cmd, and manage options with vim.o/vim.opt.  
+It also covers plugins, keymaps, and creating user commands so you can mix Lua and vimscript during migration.
+- [Build your first Neovim configuration in lua](https://vonheikemen.github.io/devlog/tools/build-your-first-lua-config-for-neovim/?utm_source=perplexity) 👤 vonheikemen.github.io 💬 4212 🔖 #vim 🗓️ 2025-11-05
+    > **Резюме:** This tutorial teaches how to build a basic Neovim config using init.lua.  
+It covers options, keymaps, plugins (Lua and vimscript), and common plugin patterns.  
+It also shows creating commands, autocommands, and splitting config into modules.
+- [Lua for Programmers Part 1: Language Essentials](https://ebens.me/posts/lua-for-programmers-part-1/) 👤 Michael Ebens 💬 1142 🔖 #lua 🗓️ 2025-11-05
+    > **Резюме:** This series teaches Lua programming, starting with basic syntax and concepts in Part 1. It is designed for those who already know how to code, covering topics like loops, functions, and operators. Additional parts will explore data types, advanced concepts, and useful tips.
+- [Code execution with MCP: Building more efficient agents](https://simonwillison.net/2025/Nov/4/code-execution-with-mcp/#atom-everything) 👤 Simon Willison 💬 401 🗓️ 2025-11-05
+    > **Резюме:** Anthropic proposes turning MCP tools into code functions saved on disk so agents can call them without filling the model context. This lets agents generate executable code that wires tools together, avoiding token bloat, extra round-trips, and exposure of sensitive data. The plan is promising but Anthropic provided no implementation — readers must build it themselves.
+- [Burning out](https://www.interconnects.ai/p/burning-out?utm_source=substack&utm_medium=email) 👤 Nathan Lambert 💬 2007 🔖 #joyandcuriosity 🗓️ 2025-11-04
+    > **Резюме:** AI work culture has become extreme, with many people overworking to stay competitive in LLM development. This intense pace raises burnout, harms creativity, and makes team culture and rest crucial. The author keeps pushing to improve open models despite the personal cost.
+- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html?utm_source=tldrwebdev) 👤 Ahmad Elalfy 💬 2340 🔖 #http, #webdev 🗓️ 2025-11-04
+    > **Резюме:** URLs can and should hold app state so pages are shareable, bookmarkable, and restorable.  
+Good URL design makes intent, context, and caching explicit.  
+Put public, meaningful state in the URL and keep sensitive or transient state out.
+- [Kafka is fast -- I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks?utm_source=tldrwebdev) 👤 TopicPartition 💬 6636 🔖 #kafka, #postgresql 🗓️ 2025-11-04
+    > **Резюме:** Postgres is simple, reliable, and often good enough instead of deploying Kafka for small-to-medium pub-sub or queue workloads. Benchmarks show modest Postgres clusters can durably handle thousands to hundreds of thousands of messages per second with low latency. Use Postgres first and only add complex distributed systems like Kafka when you truly outgrow it.
+- [Be a Magpie. You'll Get More Done.](https://www.joanwestenberg.com/p/be-a-magpie-you-ll-get-more-done) 👤 JA Westenberg 💬 1113 🗓️ 2025-11-04
+    > **Резюме:** Don't follow one productivity system slavishly.  
+Take useful ideas from many methods and build a system that fits you.  
+Keep what helps, discard what doesn't.
+- [Absurd Workflows: Durable Execution With Just Postgres](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/) 👤 Armin Ronacher 💬 1030 🗓️ 2025-11-04
+    > **Резюме:** Armin Ronacher built Absurd, a tiny SQL-only library that implements durable workflows using just Postgres. It stores task state as checkpoints and uses Postgres queues so tasks survive crashes, suspends, and retries. The point: durable execution is simple and doesn’t need extra services or complex systems.
+- [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) 👤 Shrivu Shankar 💬 3126 🔖 #llm, #claude 🗓️ 2025-11-02
+    > **Резюме:** The author describes how they use Claude Code across docs, CLI tools, subagents, SDKs, and GitHub Actions. They emphasize a short, focused CLAUDE.md, prefer scripting/Task-based workflows over rigid subagents, and use the SDK for batch or prototype agents. GitHub Actions and careful permissions/timeouts help automate PRs and scale usage.
+- [You need to use the tools of the job you've chosen to do](https://www.baldurbjarnason.com/2025/use-the-tools-of-the-job-youve-chosen/) 👤 baldurbjarnason.com 💬 2917 🗓️ 2025-10-30
+    > **Резюме:** Journalistic tools like impartial sourcing and a neutral style are practical self-defence, not virtue signals. If you cover powerful people but skip those practices or have conflicts of interest, your work becomes easy to dismiss. To do honest, lasting scrutiny you must use real journalistic methods and avoid serving the subjects you should be checking.
+- [High Agency Matters](https://addyosmani.com/blog/high-agency-matters/?utm_source=tldrwebdev) 👤 Addy Osmani 💬 9273 🗓️ 2025-10-29
+    > **Резюме:** Taking initiative (agency) matters more than raw intelligence for long-term success. High-agency people act, learn from feedback, and turn ideas into results. Hire and teach agency because it’s rare, valuable, and can be developed.
 - [Diskcache, more than caching](https://www.bitecode.dev/p/diskcache-more-than-caching) 👤 Bite Code! 💬 1310 🗓️ 2025-10-20
     > **Резюме:** Diskcache is a lightweight Python key/value store built on SQLite that acts like a local subset of Redis. It provides fast caching plus transactions, tagging, queues, locks, sharding, and tools to avoid race conditions. You can use it across processes for caching, simple queues, and coordinated concurrency.
 - [Using Asyncpg with FastAPI and Air](https://daniel.feldroy.com/posts/2025-10-using-asyncpg-with-fastapi-and-air) 👤 https://daniel.feldroy.com 💬 709 🗓️ 2025-10-20
@@ -52,8 +115,6 @@ They use the c12 loader for flexible formats, smart merging, and hot-reload supp
     > **Резюме:** To work with text in computers, understanding encodings and character sets is essential. Unicode is a standard that unifies different encoding schemes, like UTF-8 and UTF-16, which represent characters using varying numbers of bits. It's important to specify the encoding used for text, as incorrect handling can lead to unreadable documents.
 - [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/?utm_source=tldrwebdev) 👤 refactoringenglish.com 💬 3027 🔖 #joyandcuriosity 🗓️ 2025-10-02
     > **Резюме:** The author lists a few influential software essays that changed how they think about building software. These essays taught them to respect developers, prefer simple stable tools, and use language features (like types) to reduce bugs. Overall, the pieces made them value practical decisions over hype.
-- [Vim — это метаредактирование (иммерсивный текстовый редактор) // Запись доклада](https://www.youtube.com/watch?v=RPlOYfgGDjQ&feature=youtu.be) 👤 Куда войти? 🔖 #vim 🗓️ 2025-10-01
-    > **Резюме:** Доклад рассказывает, что Vim — это иммерсивный текстовый редактор, построенный вокруг работы с текстом. Автор показывает повторение действий, регистры, поиск и плагины как ключевые фичи. Vim легко настраивается и расширяется, включая интеграции с инструментами и AI.
 - [Thoughts on Testing January 4, 2024](https://www.brandons.me/blog/thoughts-on-testing?utm_source=substack&utm_medium=email) 👤 Brandon Smith 💬 1461 🔖 #testing, #joyandcuriosity 🗓️ 2025-09-28
     > **Резюме:** Tests help but they cost time because they are code to write, maintain, and run.  
 Only write tests that add lasting value: prefer static analysis, check intent not implementation, and avoid fragile mocked checks.  

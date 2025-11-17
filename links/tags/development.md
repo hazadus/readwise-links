@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 66
+- Всего ссылок: 67
 
 ## Ссылки
 
+- [The Basics](https://registerspill.thorstenball.com/p/the-basics?utm_source=substack&utm_medium=email) 👤 Thorsten Ball 💬 422 🔖 #development, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
+    > **Резюме:** Focus on fundamentals: test manually, think through edge cases, and keep changes small and clear.  
+Communicate clearly and responsibly: read docs and error messages, write useful bug reports, and do the homework before meetings.  
+Be reliable and considerate: meet commitments, keep PRs updated, review others, and aim to make people want to work with you.
 - [Engineering velocity on steroids](https://newsletter.manager.dev/p/what-a-10x-team-looks-like) 👤 Anton Zaides 💬 2074 🔖 #leaddev, #management, #development 🗓️ 2025-10-14
     > **Резюме:** A small, focused team can learn and ship much faster than a large org by optimizing for velocity. Let engineers talk directly to customers, streamline PRs with AI, and invest in testing to keep speed without regressions. Find the biggest bottleneck, fix it, then repeat.
 - [What is "good taste" in software engineering?](https://seangoedecke.com/taste/) 👤 seangoedecke.com 💬 1835 🔖 #development, #architecture, #softwarecraft, #softwaredesign 🗓️ 2025-09-28

@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [Europa Universalis V: Обзор самой масштабной исторической стратегии](https://stopgame.ru/show/155063/europa_universalis_v_review_samoy_masshtabnoy_istoricheskoy_strategii) 👤 Степан Песков 💬 1828 🔖 #game 🗓️ 2025-11-15
+    > **Резюме:** Europa Universalis V — большая историческая стратегия, где вы управляете державой в огромной песочнице и решаете судьбы народов. Игра глубоко симулирует людей, сословия и экономику, но изобилие механик требует много микроменеджмента. Автоматизация упрощает жизнь, хотя есть технические баги и нужно доработать некоторые функции.
+- [Обзор The Outer Worlds 2 - И смех и корпоративный грех I Битый Пиксель](https://www.youtube.com/watch?v=ZoebMF322NA) 👤 Битый Пиксель 🔖 #game 🗓️ 2025-11-12
+    > **Резюме:** The Outer Worlds 2 — весёлая и дерзкая ролевая игра с важными моральными выборами. Мир яркий, персонажи колоритные, а квесты смешивают драму и юмор. Игра хороша, но неидеальна: есть недочёты и спорные решения студии.
 - [I Replaced Animal Crossing's Dialogue with a Live LLM by Hacking GameCube Memory](https://simonwillison.net/2025/Sep/10/animal-crossing-llm/#atom-everything) 👤 Simon Willison 💬 343 🔖 #llm, #game, #toot 🗓️ 2025-09-11
     > **Заметка:** Очень творческий мод для старой игрушки, браво!
     > **Резюме:** A hacker made Animal Crossing on GameCube use a live language model to create new character dialogue. They did this by reading and changing the game’s memory in real-time while pausing the game for the AI to respond. The project uses clever prompts to make the characters talk about their town’s economy and includes special effects for more natural conversations.

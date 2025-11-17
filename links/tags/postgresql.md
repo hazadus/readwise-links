@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 35
+- Всего ссылок: 36
 
 ## Ссылки
 
+- [The Case Against pgvector](https://alex-jacobs.com/posts/the-case-against-pgvector/?utm_source=tldrwebdev) 👤 Alex Jacobs 💬 2528 🔖 #postgresql 🗓️ 2025-11-12
+    > **Резюме:** Pgvector makes vector search easy to try in Postgres but has serious production limits. Indexing, memory use, realtime inserts, and filtered queries are hard to manage and often require rebuilds or complex tuning. For most teams, a dedicated managed vector database is simpler and more reliable.
 - [Kafka is fast -- I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks?utm_source=tldrwebdev) 👤 TopicPartition 💬 6636 🔖 #kafka, #postgresql 🗓️ 2025-11-04
     > **Резюме:** Postgres is simple, reliable, and often good enough instead of deploying Kafka for small-to-medium pub-sub or queue workloads. Benchmarks show modest Postgres clusters can durably handle thousands to hundreds of thousands of messages per second with low latency. Use Postgres first and only add complex distributed systems like Kafka when you truly outgrow it.
 - [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #testing, #postgresql 🗓️ 2025-08-10

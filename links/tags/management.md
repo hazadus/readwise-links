@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 40
+- Всего ссылок: 41
 
 ## Ссылки
 
+- [Give your engineers a kingdom](https://newsletter.manager.dev/p/give-your-engineers-a-kingdom) 👤 Anton Zaides 💬 1015 🔖 #leaddev, #management 🗓️ 2025-10-28
+    > **Резюме:** Give engineers clear ownership of meaningful areas, or "kingdoms."  
+Owners decide priorities, monitor health, and act as the go-to expert.  
+Limit kingdoms to one or two per engineer so they can do real work and improve them.
 - [Most of What We Call Progress](https://yusufaytas.com/most-of-what-we-call-progress/) 👤 https://www.facebook.com/yusufaytas 💬 2537 🔖 #management, #softwaredesign 🗓️ 2025-10-16
     > **Резюме:** We confuse new tools and clever designs with real progress. Experience shows clarity, simple practices, and human coordination matter more than abstractions. True maturity is about making systems reliable, understandable, and easy for others to work with.
 - [Engineering velocity on steroids](https://newsletter.manager.dev/p/what-a-10x-team-looks-like) 👤 Anton Zaides 💬 2074 🔖 #leaddev, #management, #development 🗓️ 2025-10-14

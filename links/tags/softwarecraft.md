@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 22
+- Всего ссылок: 24
 
 ## Ссылки
 
@@ -8,6 +8,12 @@
     > **Резюме:** The author values craftsmanship in software and the people who strive for mastery. They worry generative models produce mediocre code and make true care rarer. They want software that shows the "claw"—clear evidence of human care and skill.
 - [You have two jobs](https://jacobian.org/2017/nov/1/you-have-two-jobs/?utm_source=substack&utm_medium=email) 👤 jacobian.org 💬 526 🔖 #career, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
     > **Резюме:** Your job involves writing good code and being easy to work with. Building strong relationships with colleagues is crucial for success in your role. Both technical skills and good relationships are essential for solving problems effectively.
+- [The Basics](https://registerspill.thorstenball.com/p/the-basics?utm_source=substack&utm_medium=email) 👤 Thorsten Ball 💬 422 🔖 #development, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
+    > **Резюме:** Focus on fundamentals: test manually, think through edge cases, and keep changes small and clear.  
+Communicate clearly and responsibly: read docs and error messages, write useful bug reports, and do the homework before meetings.  
+Be reliable and considerate: meet commitments, keep PRs updated, review others, and aim to make people want to work with you.
+- [Worse is Better Start Simple and Iterate](https://dayvster.com/blog/worse-is-better-start-simple-and-iterate/) 👤 Dayvi Schuster 💬 1574 🔖 #softwarecraft 🗓️ 2025-10-28
+    > **Резюме:** Perfectionism keeps you from finishing things. Ship a simple, working version first and improve it with real user feedback. Iterate fast and focus on quality, not imagined edge cases.
 - [What is "good taste" in software engineering?](https://seangoedecke.com/taste/) 👤 seangoedecke.com 💬 1835 🔖 #development, #architecture, #softwarecraft, #softwaredesign 🗓️ 2025-09-28
     > **Резюме:** Good taste in software engineering means choosing the right values for each project, not just having strong technical skills. It involves being flexible and understanding tradeoffs, rather than blindly following one approach. Engineers with good taste help projects succeed by adapting their decisions to fit the specific problems they face.
 - [Do the simplest thing that could possibly work](https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/) 👤 seangoedecke.com 💬 1720 🔖 #toot, #development, #programming, #microservices, #softwarecraft, #softwaredesign 🗓️ 2025-08-29

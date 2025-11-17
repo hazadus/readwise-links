@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 102
+- Всего ссылок: 103
 
 ## Ссылки
 
+- [ARIatHOME](https://daverupert.com/2025/11/ariathome/) 👤 Dave Rupert 💬 327 🔖 #music, #inspiration 🗓️ 2025-11-12
+    > **Резюме:** Ari Miller is a New York beat maker who performs live street sets with a portable 55-lb production rig. He improvises beats, invites strangers to rap, and turns raw moments into creative, communal music. His work celebrates New York’s bold characters and brings hopeful, real creativity to the internet.
 - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/?utm_source=tldrwebdev) 👤 Evan Hahn 💬 2125 🔖 #cli, #inspiration, #joyandcuriosity 🗓️ 2025-10-26
     > **Резюме:** The author describes many small shell scripts they use frequently to solve everyday tasks. Most scripts are simple helpers for making temp dirs, editing quick notes, downloading media, and automating routine work. They keep these handy in dotfiles and use them from daily to monthly.
 - [You Are Insignificant. That's a Good Thing.](https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing) 👤 JA Westenberg 💬 2708 🔖 #toot, #inspiration 🗓️ 2025-10-20

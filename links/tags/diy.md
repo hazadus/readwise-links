@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 29
+- Всего ссылок: 30
 
 ## Ссылки
 
+- [Build Your Own Database](https://www.nan.fyi/database?utm_source=substack&utm_medium=email) 👤 Nanda Syahrasyad 💬 1239 🔖 #db, #diy, #joyandcuriosity 🗓️ 2025-10-29
+    > **Резюме:** The post explains how to build a simple key-value database and shows why naive append-and-update files are inefficient. It introduces indexes, sorted on-disk segments (SSTs), and compaction to fix size and search issues. Combining an in-memory memtable with on-disk SSTs yields an LSM tree used in systems like LevelDB and DynamoDB.
 - [A spreadsheet in 60 lines of Javascript](https://lhorie.github.io/mithril-blog/a-spreadsheet-in-60-lines-of-javascript.html) 👤 lhorie.github.io 💬 2027 🔖 #diy, #javascript 🗓️ 2025-10-06
     > **Резюме:** A tiny spreadsheet is implemented in ~30 lines of vanilla JavaScript and ported to Mithril. It stores cell strings or formulas as "computable" objects that evaluate via valueOf, enabling reactive calculations and saving to localStorage. The UI shows raw formulas and computed values, keeping model-view updates simple and concise.
 - [Крошечный Excel на чистом JavaScript (30 строк кода)](https://habr.com/ru/articles/202304/) 👤 zag2art 💬 794 🔖 #diy, #javascript 🗓️ 2025-10-06

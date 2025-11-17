@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 235
+- Всего ссылок: 236
 
 ## Ссылки
 
+- [Buil[d|t] To Learn • The Applied Go Weekly Newsletter 2025-11-09](https://newsletter.appliedgo.net/archive/2025-11-09-buildt-to-learn/) 👤 The Applied Go Weekly Newsletter 💬 909 🔖 #go 🗓️ 2025-11-11
+    > **Резюме:** This newsletter highlights Go learning resources and new projects. It features tutorials on MQTT and JSON parsing, plus Go 1.25.4 and 1.24.10 releases. It also links libraries, tools, and articles to help you build and inspect projects.
 - [Go Faster With Green Tea • The Applied Go Weekly Newsletter 2025-11-02](https://newsletter.appliedgo.net/archive/2025-11-02-go-faster-with-green-tea/) 👤 The Applied Go Weekly Newsletter 💬 1134 🔖 #go 🗓️ 2025-11-04
     > **Резюме:** Go's garbage collector has improved massively, cutting pause times from ~400ms to under 1ms over several releases. A new mark-and-sweep approach called Green Tea aims to make GC faster and more efficient on multi-core systems. The newsletter also highlights Go projects, tooling, and articles about schedulers, reproducible builds, and performance tips.
 - [The “10x” Commandments of Highly Effective Go](https://blog.jetbrains.com/go/2025/10/16/the-10x-commandments-of-highly-effective-go/?utm_source=tldrwebdev) 👤 The JetBrains Blog 💬 1291 🔖 #go 🗓️ 2025-10-29

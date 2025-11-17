@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html?utm_source=tldrwebdev) 👤 Google Testing Blog 💬 334 🔖 #softwaredesign 🗓️ 2025-10-29
+    > **Резюме:** Mixing business logic with side effects makes code hard to test and change. Split code into a pure functional core for logic and an imperative shell for I/O. This makes testing, reuse, and adding features simple.
 - [Most of What We Call Progress](https://yusufaytas.com/most-of-what-we-call-progress/) 👤 https://www.facebook.com/yusufaytas 💬 2537 🔖 #management, #softwaredesign 🗓️ 2025-10-16
     > **Резюме:** We confuse new tools and clever designs with real progress. Experience shows clarity, simple practices, and human coordination matter more than abstractions. True maturity is about making systems reliable, understandable, and easy for others to work with.
 - [Why Over-Engineering Happens](https://yusufaytas.com/why-over-engineering-happens/?utm_source=tldrwebdev) 👤 https://www.facebook.com/yusufaytas 💬 3283 🔖 #principles, #microservices, #softwaredesign 🗓️ 2025-10-02

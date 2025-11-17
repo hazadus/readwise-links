@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 2
+- Всего ссылок: 3
 
 ## Ссылки
 
+- [ARIatHOME](https://daverupert.com/2025/11/ariathome/) 👤 Dave Rupert 💬 327 🔖 #music, #inspiration 🗓️ 2025-11-12
+    > **Резюме:** Ari Miller is a New York beat maker who performs live street sets with a portable 55-lb production rig. He improvises beats, invites strangers to rap, and turns raw moments into creative, communal music. His work celebrates New York’s bold characters and brings hopeful, real creativity to the internet.
 - [In-Store Session: Ben Kaczor - Inverted Audio](https://inverted-audio.com/in-store-session-ben-kaczor/) 👤 Inverted Audio 💬 164 🔖 #music 🗓️ 2024-01-30
     > **Резюме:** Ben Kaczor, a Swiss producer, will be performing an intimate all vinyl in-store session at Holdrons Arcade. His sound is similar to Prince of Denmark, and he is known for provoking raw emotion through deep house. In 2022, Kaczor released two solo albums, including "Petrovo Uho" through Dial. The in-store event will take place from 6pm to 8pm, with copies of his latest album and rare records from his personal collection available for sale. Attendees can expect free beer from Brixton Brewery.
 - [The Art of DJing: CCL · Feature ⟋ RA](https://ra.co/features/4303) 👤 Andrew Ryce 💬 5786 🔖 #dj, #music, #interview 🗓️ 2024-01-31

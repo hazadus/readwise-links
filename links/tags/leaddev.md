@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 22
+- Всего ссылок: 23
 
 ## Ссылки
 
+- [Give your engineers a kingdom](https://newsletter.manager.dev/p/give-your-engineers-a-kingdom) 👤 Anton Zaides 💬 1015 🔖 #leaddev, #management 🗓️ 2025-10-28
+    > **Резюме:** Give engineers clear ownership of meaningful areas, or "kingdoms."  
+Owners decide priorities, monitor health, and act as the go-to expert.  
+Limit kingdoms to one or two per engineer so they can do real work and improve them.
 - [Engineering velocity on steroids](https://newsletter.manager.dev/p/what-a-10x-team-looks-like) 👤 Anton Zaides 💬 2074 🔖 #leaddev, #management, #development 🗓️ 2025-10-14
     > **Резюме:** A small, focused team can learn and ship much faster than a large org by optimizing for velocity. Let engineers talk directly to customers, streamline PRs with AI, and invest in testing to keep speed without regressions. Find the biggest bottleneck, fix it, then repeat.
 - [How to make your team read your mind](https://newsletter.manager.dev/p/how-to-make-your-team-read-your-mind) 👤 Anton Zaides 💬 1893 🔖 #leaddev, #management 🗓️ 2025-10-10

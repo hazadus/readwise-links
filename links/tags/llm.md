@@ -1,9 +1,28 @@
 # Ссылки
 
-- Всего ссылок: 277
+- Всего ссылок: 288
 
 ## Ссылки
 
+- [Only three kinds of AI products actually work](https://seangoedecke.com/ai-products/) 👤 seangoedecke.com 💬 2540 🔖 #llm 🗓️ 2025-11-16
+    > **Резюме:** Most AI products that actually work fall into three groups: chatbots, completions (like Copilot), and agentic systems that act autonomously. Chatbots dominate but are vulnerable to big labs and often duplicate the model itself. New promising areas are AI-generated feeds and agentic research tools, while AI games and image tools are less mature.
+- [Writing for AIs is a good way to reach more humans](https://seangoedecke.com/writing-for-ais/) 👤 seangoedecke.com 💬 1599 🔖 #llm, #writing 🗓️ 2025-11-14
+    > **Резюме:** Writing for AIs means publishing more and making content easy to scrape so language models can learn and spread your ideas. This is useful if your goal is influence, not profit or pure art. You shouldn’t change your style to please AIs or hide content behind paywalls.
+- [The Myth of AI-powered Sisyphus](https://tawandamunongo.dev/posts/2025/11/ai-powered-sisyphus/) 👤 t23o 💬 1449 🔖 #llm 🗓️ 2025-11-13
+    > **Резюме:** AI makes endless possibilities feel reachable, but that only grows the list of things we must do. The real problem is not tools but choosing what matters when everything seems possible. Freedom comes from accepting limits and doing a few things well.
+- [AI and the Devaluation of Effort](https://tawandamunongo.dev/posts/2025/10/ai-devaluation-effort/) 👤 t23o 💬 1606 🔖 #llm 🗓️ 2025-11-13
+    > **Резюме:** AI makes starting easy but finishing hard. When creation costs nothing, effort feels meaningless. Choose limits and finish things to keep meaning.
+- [Building My First Claude Code Plugin](https://alexop.dev/posts/building-my-first-claude-code-plugin/) 👤 Alexander Opalic 💬 662 🔖 #llm 🗓️ 2025-11-09
+    > **Резюме:** Alexander built a Claude Code plugin that auto-generates commands, skills, agents, hooks, and boilerplate.  
+It saves time by creating properly structured files and frontmatter so he no longer copies templates.  
+He published it on GitHub and uses it to speed up Vue-focused workflows and iterate on tooling.
+- [AiDHD](https://www.josh.ing/blog/aidhd) 👤 Josh Cohenzadeh 💬 2219 🔖 #llm 🗓️ 2025-11-09
+    > **Заметка:** Via Simon Willison
+    > **Резюме:** Josh built small AI projects for fun and to explore "vibe coding."  
+He made tools like HN Slop, Claudius, Rate My Prompt, and Promptlet to make agents and prompts easier to use.  
+He says AI speeds the first 80% of work, but the final 20% and finding real users remain hard.
+- [Is it worrying that 95% of AI enterprise projects fail?](https://seangoedecke.com/why-do-ai-enterprise-projects-fail/) 👤 seangoedecke.com 💬 1660 🔖 #llm 🗓️ 2025-11-04
+    > **Резюме:** A report claimed 95% of enterprise AI projects deliver no return. The author says that high failure rate is similar to ordinary IT projects and partly reflects AI being new and unusually complex. He also questions the report’s methods and expects AI to be transformative despite a likely bubble.
 - [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) 👤 Shrivu Shankar 💬 3126 🔖 #llm, #claude 🗓️ 2025-11-02
     > **Резюме:** The author describes how they use Claude Code across docs, CLI tools, subagents, SDKs, and GitHub Actions. They emphasize a short, focused CLAUDE.md, prefer scripting/Task-based workflows over rigid subagents, and use the SDK for batch or prototype agents. GitHub Actions and careful permissions/timeouts help automate PRs and scale usage.
 - [How cheap, outsourced labour in Africa is shaping AI English](https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt) 👤 Alex Hern 💬 1508 🔖 #llm 🗓️ 2025-11-01
@@ -14,12 +33,22 @@ Companies are shifting from high-volume remote screens to in-person, interactive
 The goal now is simple: test human judgment, communication, and live problem-solving — things AI can’t convincingly fake.
 - [Why do AI models use so many em-dashes?](https://seangoedecke.com/em-dashes/) 👤 seangoedecke.com 💬 1585 🔖 #llm 🗓️ 2025-10-31
     > **Резюме:** AI models overuse em-dashes, and people notice it. The author argues this likely comes from training on digitized late-1800s/early-1900s books, which use more em-dashes. Other explanations (token efficiency, RLHF dialects) seem less convincing.
+- [AI is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more?utm_source=substack&utm_medium=email) 👤 tawandamunongo.dev 💬 1439 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-29
+    > **Резюме:** AI tools promised more freedom but are driving people to work longer and harder. The always-on nature of AI creates guilt for resting and fuels a 996-style hustle. Saying "enough" and setting boundaries may be the radical act we need to protect creativity and well-being.
+- [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/?utm_source=substack&utm_medium=email) 👤 allvpv <Przemysław Kusiak> 💬 986 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-29
+    > **Резюме:** AI can help you learn faster and be a great tutor, but using it to do your coding for you prevents real learning. Agentic coding tools may speed delivery but erode understanding and control over complex systems. Use AI to aid learning and explore options, not to outsource your responsibility.
+- [Don't delegate thinking, delegate work](https://howtobuildwithai.substack.com/p/dont-delegate-thinking-delegate-work?utm_source=substack&utm_medium=email) 👤 Nicolay Christopher Gerold 💬 414 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-29
+    > **Резюме:** AI can speed up coding but not understanding.  
+Developers still must plan, review, and decide what to build.  
+Don't delegate thinking—delegate only the work.
 - [Setting up a codebase for working with coding agents](https://simonwillison.net/2025/Oct/25/coding-agent-tips/#atom-everything) 👤 Simon Willison 💬 226 🔖 #llm 🗓️ 2025-10-26
     > **Резюме:** Good automated tests let coding agents run and verify changes quickly. Simple dev setup notes and tools (playwright, linters, formatters) help agents test and fix code. Anything that makes code easier for humans also helps agents.
 - [AI’s Trap Settling for Boilerplate Over Elegant Code](https://dayvster.com/blog/ais-trap-settling-for-boilerplate-over-elegant-code/) 👤 Dayvi Schuster 💬 1783 🔖 #llm 🗓️ 2025-10-26
     > **Резюме:** AI can speed coding but encourages accepting boilerplate and ugly solutions.  
 Relying on AI can make developers lose ownership, learning, and pride in their work.  
 Strive for simple, elegant code you would sign your name under.
+- [Solving the wrong problem](https://www.ufried.com/blog/ai_assisted_coding/?utm_source=tldrwebdev) 👤 Uwe Friedrichsen 💬 4167 🔖 #llm 🗓️ 2025-10-26
+    > **Резюме:** AI coding agents can generate working code fast, but they mainly reproduce what they saw during training — often low-quality, “crappy” code. Relying on agents hides the real problem: poor education, bad requirements, and weak architecture that cause fragile software. Using AI as a shortcut risks repeating past mistakes instead of improving how we design and teach software.
 - [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon) 👤 geoffreylitt.com 💬 894 🔖 #llm 🗓️ 2025-10-25
     > **Резюме:** The author compares coding with AI to being a surgeon who focuses on important work while AI handles secondary tasks. This approach lets them spend more time on creative design and less on grunt work. AI tools make coding more efficient and support a better balance of tasks without losing control.
 - [“ChatGPT said this” Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/) 👤 Terrible Software 💬 374 🔖 #llm, #codereview 🗓️ 2025-10-25

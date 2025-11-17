@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 24
+- Всего ссылок: 25
 
 ## Ссылки
 
+- [Junior vs Senior: Building Modals in Vue](https://michaelnthiessen.com/junior-vs-senior-modals?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(242)+When+ref+and+reactive+work+the+same,+how+to+make+a+variable+created+outside+of+Vue+reactive,+and+more+-+19594812&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1564 🔖 #vue 🗓️ 2025-11-12
+    > **Резюме:** Modals reveal how you think about building apps: juniors tie state and UI together, seniors separate concerns. Use a global data store, humble presentation components, and controller components to make modals scalable and testable. These patterns generalize beyond modals and change how you design Vue apps.
 - [Vue 3.5's onWatcherCleanup: Mastering Side Effect Management in Vue Applications](https://alexop.dev/posts/vue-35s-onwatchercleanup-mastering-side-effect-management-in-vue-applications/) 👤 Alexander Opalic 💬 688 🔖 #vue 🗓️ 2025-09-26
     > **Резюме:** Vue 3.5 adds onWatcherCleanup to attach cleanup logic directly inside watchers. It automatically aborts requests, clears timers, and removes listeners before reruns or when a watcher stops. This makes code clearer, reduces memory leaks, and fits cleanly into Vue’s reactivity system.
 - [How to Structure Vue Projects](https://alexop.dev/posts/how-to-structure-vue-projects/) 👤 Alexander Opalic 💬 1740 🔖 #vue 🗓️ 2025-09-26

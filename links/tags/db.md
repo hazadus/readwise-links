@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 19
 
 ## Ссылки
 
+- [Build Your Own Database](https://www.nan.fyi/database?utm_source=substack&utm_medium=email) 👤 Nanda Syahrasyad 💬 1239 🔖 #db, #diy, #joyandcuriosity 🗓️ 2025-10-29
+    > **Резюме:** The post explains how to build a simple key-value database and shows why naive append-and-update files are inefficient. It introduces indexes, sorted on-disk segments (SSTs), and compaction to fix size and search issues. Combining an in-memory memtable with on-disk SSTs yields an LSM tree used in systems like LevelDB and DynamoDB.
 - [You should add debug views to your DB](https://chrispenner.ca/posts/views-for-debugging?utm_source=tldrwebdev) 👤 Chris Penner 💬 728 🔖 #db, #sql 🗓️ 2025-08-24
     > **Резюме:** Debugging often means repeating complex joins and getting ID-heavy rows. Add a debug view that pre-joins tables and exposes readable fields like project and branch names. Views save time, are easy to change, and work well for one-off queries despite minor index tradeoffs.
 - [Просто берите Postgres](https://grishaev.me/just-use-postgres/) 👤 grishaev.me 💬 2190 🔖 #db, #postgresql 🗓️ 2025-02-06

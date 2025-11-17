@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 19
+- Всего ссылок: 20
 
 ## Ссылки
 
+- [How to Manage Your Dotfiles Like a Pro with Git and Stow](https://dev.to/crafts69guy/how-to-manage-your-dotfiles-like-a-pro-with-git-and-stow-3pg1?utm_source=perplexity) 👤 Crafts 69 Guy 💬 1416 🔖 #git, #stow 🗓️ 2025-10-30
+    > **Резюме:** This guide shows how to manage dotfiles with Git and GNU Stow.  
+Stow creates symlinks so you track configs in one repo and deploy them easily.  
+Use .stow-local-ignore and .gitignore to skip machine-specific or unwanted files.
 - [Opening all the files that have been modified in a Git branch](https://alexwlchan.net/2025/review-files-in-text-editor/?ref=rss) 👤 alexwlchan.net 💬 522 🔖 #git, #try 🗓️ 2025-09-19
     > **Резюме:** This shows how to open every file changed in a Git branch in your local editor. Use git merge-base to find the branch point and git diff --name-only to list changed files. Pipe the list to xargs and open -a "Visual Studio Code" to open them all.
 - [How to Back up Your GitHub Repositories](https://improveandrepeat.com/2025/09/how-to-back-up-your-github-repositories/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 616 🔖 #git, #try, #github 🗓️ 2025-09-02

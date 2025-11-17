@@ -1,20 +1,47 @@
 # Архивные ссылки
 
-- Всего ссылок: 1171
+- Всего ссылок: 1198
 
 ## Ссылки
 
+- [Writing for AIs is a good way to reach more humans](https://seangoedecke.com/writing-for-ais/) 👤 seangoedecke.com 💬 1599 🔖 #llm, #writing 🗓️ 2025-11-14
+- [The Myth of AI-powered Sisyphus](https://tawandamunongo.dev/posts/2025/11/ai-powered-sisyphus/) 👤 t23o 💬 1449 🔖 #llm 🗓️ 2025-11-13
+- [AI and the Devaluation of Effort](https://tawandamunongo.dev/posts/2025/10/ai-devaluation-effort/) 👤 t23o 💬 1606 🔖 #llm 🗓️ 2025-11-13
+- [ARIatHOME](https://daverupert.com/2025/11/ariathome/) 👤 Dave Rupert 💬 327 🔖 #music, #inspiration 🗓️ 2025-11-12
+- [Обзор The Outer Worlds 2 - И смех и корпоративный грех I Битый Пиксель](https://www.youtube.com/watch?v=ZoebMF322NA) 👤 Битый Пиксель 🔖 #game 🗓️ 2025-11-12
+- [To get better at technical writing, lower your expectations](https://seangoedecke.com/technical-communication/) 👤 seangoedecke.com 💬 1436 🔖 #writing 🗓️ 2025-11-09
 - [A Developer's experience with weight loss injections](http://willmcgugan.github.io/weight-loss/) 👤 Will McGugan 💬 1686 🔖 #health 🗓️ 2025-11-07
+- [Build your modern Neovim config in Lua](https://m4xshen.dev/posts/build-your-modern-neovim-config-in-lua?utm_source=perplexity) 👤 m4xshen.dev 💬 948 🔖 #lua, #vim 🗓️ 2025-11-05
+- [A Beginner’s Guide to Automation with n8n](https://www.freecodecamp.org/news/a-beginners-guide-to-automation-with-n8n/) 👤 Manish Shivanandhan 💬 1902 🔖 #n8n 🗓️ 2025-11-04
+- [Is it worrying that 95% of AI enterprise projects fail?](https://seangoedecke.com/why-do-ai-enterprise-projects-fail/) 👤 seangoedecke.com 💬 1660 🔖 #llm 🗓️ 2025-11-04
+- [Code Author](https://yusufaytas.com/code-author/) 👤 https://www.facebook.com/yusufaytas 💬 759 🗓️ 2025-11-02
 - [How cheap, outsourced labour in Africa is shaping AI English](https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt) 👤 Alex Hern 💬 1508 🔖 #llm 🗓️ 2025-11-01
 - [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/) 👤 https://www.facebook.com/yusufaytas 💬 3975 🔖 #llm, #interview 🗓️ 2025-11-01
 - [Why do AI models use so many em-dashes?](https://seangoedecke.com/em-dashes/) 👤 seangoedecke.com 💬 1585 🔖 #llm 🗓️ 2025-10-31
+- [AI is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more?utm_source=substack&utm_medium=email) 👤 tawandamunongo.dev 💬 1439 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-29
+- [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/?utm_source=substack&utm_medium=email) 👤 allvpv <Przemysław Kusiak> 💬 986 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-29
+- [Don't delegate thinking, delegate work](https://howtobuildwithai.substack.com/p/dont-delegate-thinking-delegate-work?utm_source=substack&utm_medium=email) 👤 Nicolay Christopher Gerold 💬 414 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-29
 - [I want to see the claw](https://vickiboykis.com/2025/10/20/i-want-to-see-the-claw/?utm_source=substack&utm_medium=email) 👤 ★❤✰ Vicki Boykis ★❤✰  💬 861 🔖 #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
 - [You have two jobs](https://jacobian.org/2017/nov/1/you-have-two-jobs/?utm_source=substack&utm_medium=email) 👤 jacobian.org 💬 526 🔖 #career, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
+- [The Basics](https://registerspill.thorstenball.com/p/the-basics?utm_source=substack&utm_medium=email) 👤 Thorsten Ball 💬 422 🔖 #development, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
+- [Why You Should Write Every Day (Even if You’re Not a Writer)](https://www.joanwestenberg.com/p/why-you-should-write-every-day-even-if-you-re-not-a-writer) 👤 JA Westenberg 💬 925 🔖 #writing 🗓️ 2025-10-29
+- [Code Review Developer Guide](https://google.github.io/eng-practices/review/) 👤 eng-practices 💬 416 🔖 #codereview 🗓️ 2025-10-29
+- [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html?utm_source=tldrwebdev) 👤 Google Testing Blog 💬 334 🔖 #softwaredesign 🗓️ 2025-10-29
+- [Give your engineers a kingdom](https://newsletter.manager.dev/p/give-your-engineers-a-kingdom) 👤 Anton Zaides 💬 1015 🔖 #leaddev, #management 🗓️ 2025-10-28
+- [The Map Is Not the Territory (and It’s Definitely Not Progress)](https://www.joanwestenberg.com/p/the-map-is-not-the-territory-and-it-s-definitely-not-progress) 👤 JA Westenberg 💬 978 🗓️ 2025-10-28
+- [Web Weekly #172](https://www.stefanjudis.com/blog/web-weekly-172/) 👤 stefanjudis.com 💬 1217 🔖 #webdev 🗓️ 2025-10-28
+- [Worse is Better Start Simple and Iterate](https://dayvster.com/blog/worse-is-better-start-simple-and-iterate/) 👤 Dayvi Schuster 💬 1574 🔖 #softwarecraft 🗓️ 2025-10-28
+- [Turn off macOS Liquid Glass via the CLI](https://www.stefanjudis.com/snippets/turn-off-macos-liquid-glass-via-the-cli/) 👤 stefanjudis.com 💬 104 🔖 #macos 🗓️ 2025-10-27
 - [Setting up a codebase for working with coding agents](https://simonwillison.net/2025/Oct/25/coding-agent-tips/#atom-everything) 👤 Simon Willison 💬 226 🔖 #llm 🗓️ 2025-10-26
 - [AI’s Trap Settling for Boilerplate Over Elegant Code](https://dayvster.com/blog/ais-trap-settling-for-boilerplate-over-elegant-code/) 👤 Dayvi Schuster 💬 1783 🔖 #llm 🗓️ 2025-10-26
+- [A gold ceremony to remember](https://daniel.haxx.se/blog/2025/10/25/a-gold-ceremony-to-remember/) 👤 Daniel Stenberg 💬 747 🔖 #toot, #devtools 🗓️ 2025-10-26
+    > **Заметка:** Заслуженная награда🎖️! Рад за Дэниэла. Просто юзайте curl! ✊
 - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/?utm_source=tldrwebdev) 👤 Evan Hahn 💬 2125 🔖 #cli, #inspiration, #joyandcuriosity 🗓️ 2025-10-26
 - [Just use cURL](https://justuse.org/curl/) 👤 justuse.org 💬 680 🔖 #toot, #devtools 🗓️ 2025-10-26
     > **Заметка:** Лучше и не скажешь!
+- [Solving the wrong problem](https://www.ufried.com/blog/ai_assisted_coding/?utm_source=tldrwebdev) 👤 Uwe Friedrichsen 💬 4167 🔖 #llm 🗓️ 2025-10-26
+- [Avoiding the Shiny Object Syndrome: When "Good Enough" Is Actually Perfect](https://alfy.blog/2025/08/22/from-code-that-works-to-code-that-matters.md.html) 👤 Ahmad Elalfy 💬 1043 🗓️ 2025-10-25
+- [How Functional Programming Shaped (and Twisted) Frontend Development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_308) 👤 Ahmad Elalfy 💬 4008 🔖 #webdev, #frontend 🗓️ 2025-10-25
 - [Convert VIM to Code Editor in 8 Easy Steps - Beginner Friendly](mailto:reader-forwarded-email/9cf1fa4ff217f1413170c1b09a6f3394) 👤 Sushant from Beyond The Syntax 💬 967 🔖 #vim 🗓️ 2025-10-25
 - [Mistakes I see engineers making in their code reviews](https://seangoedecke.com/good-code-reviews/) 👤 seangoedecke.com 💬 2088 🔖 #codereview 🗓️ 2025-10-25
 - [claude_code_docs_map.md](https://simonwillison.net/2025/Oct/24/claude-code-docs-map/#atom-everything) 👤 Simon Willison 💬 205 🔖 #claude 🗓️ 2025-10-25
@@ -99,6 +126,7 @@ They follow a template: introduce a counterintuitive finding, tell three anecdot
 - [Dev Culture Is Dying The Curious Developer Is Gone](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/) 👤 Dayvi Schuster 💬 2598 🔖 #toot, #learning, #inspiration, #programming 🗓️ 2025-10-01
     > **Заметка:** "Software development is a unique craft, it’s equal parts creative and equal parts engineering, two opposing forces that when combined can create something truly amazing. Fight the temptation to add marketing into the mix and dilute the craft with it."
 - [Why Zig Feels More Practical Than Rust for Real-World CLI Tools](https://dayvster.com/blog/why-zig-feels-more-practical-than-rust-for-real-world-cli-tools/) 👤 Dayvi Schuster 💬 2619 🔖 #zig 🗓️ 2025-10-01
+- [Vim — это метаредактирование (иммерсивный текстовый редактор) // Запись доклада](https://www.youtube.com/watch?v=RPlOYfgGDjQ&feature=youtu.be) 👤 Куда войти? 🔖 #vim 🗓️ 2025-10-01
 - [Hades II: Обзор самого вкусного рогалика года](https://stopgame.ru/show/152840/hades_ii_review_samogo_vkusnogo_rogalika_goda) 👤 Кирилл Волошин 💬 1524 🗓️ 2025-09-30
 - [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#atom-everything) 👤 Simon Willison 💬 1493 🔖 #llm 🗓️ 2025-09-30
 - [90%](https://lucumr.pocoo.org/2025/9/29/90-percent/) 👤 Armin Ronacher 💬 1611 🔖 #llm 🗓️ 2025-09-30

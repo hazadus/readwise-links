@@ -1,59 +1,23 @@
 # Новые ссылки
 
-- Всего ссылок: 892
+- Всего ссылок: 857
 
 ## Ссылки
 
-- [Game design is simple, actually](https://simonwillison.net/2025/Nov/7/game-design-is-simple-actually/#atom-everything) 👤 Simon Willison 💬 47 🗓️ 2025-11-08
-- [Interview: Ken Case (OmniFocus)](https://www.joanwestenberg.com/p/interview-ken-case-omnifocus) 👤 JA Westenberg 💬 6152 🗓️ 2025-11-08
-- [Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/#atom-everything) 👤 Simon Willison 💬 1893 🗓️ 2025-11-07
-- [WAHA + n8n: No Code Low Code WhatsApp Automation Step-By-Step Guide](https://waha.devlike.pro/blog/waha-n8n/) 👤 waha.devlike.pro 💬 470 🗓️ 2025-11-07
-- [Everything you need to know to configure neovim using lua](https://vonheikemen.github.io/devlog/tools/configuring-neovim-using-lua/?utm_source=perplexity) 👤 vonheikemen.github.io 💬 3372 🔖 #lua, #vim 🗓️ 2025-11-05
-- [Build your first Neovim configuration in lua](https://vonheikemen.github.io/devlog/tools/build-your-first-lua-config-for-neovim/?utm_source=perplexity) 👤 vonheikemen.github.io 💬 4212 🔖 #vim 🗓️ 2025-11-05
-- [Build your modern Neovim config in Lua](https://m4xshen.dev/posts/build-your-modern-neovim-config-in-lua?utm_source=perplexity) 👤 m4xshen.dev 💬 948 🔖 #lua, #vim 🗓️ 2025-11-05
-- [Lua for Programmers Part 1: Language Essentials](https://ebens.me/posts/lua-for-programmers-part-1/) 👤 Michael Ebens 💬 1142 🔖 #lua 🗓️ 2025-11-05
-- [Code execution with MCP: Building more efficient agents](https://simonwillison.net/2025/Nov/4/code-execution-with-mcp/#atom-everything) 👤 Simon Willison 💬 401 🗓️ 2025-11-05
-- [Burning out](https://www.interconnects.ai/p/burning-out?utm_source=substack&utm_medium=email) 👤 Nathan Lambert 💬 2007 🔖 #joyandcuriosity 🗓️ 2025-11-04
-- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html?utm_source=tldrwebdev) 👤 Ahmad Elalfy 💬 2340 🔖 #http, #webdev 🗓️ 2025-11-04
-- [Kafka is fast -- I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks?utm_source=tldrwebdev) 👤 TopicPartition 💬 6636 🔖 #kafka, #postgresql 🗓️ 2025-11-04
-- [A Beginner’s Guide to Automation with n8n](https://www.freecodecamp.org/news/a-beginners-guide-to-automation-with-n8n/) 👤 Manish Shivanandhan 💬 1902 🔖 #n8n 🗓️ 2025-11-04
-- [Be a Magpie. You'll Get More Done.](https://www.joanwestenberg.com/p/be-a-magpie-you-ll-get-more-done) 👤 JA Westenberg 💬 1113 🗓️ 2025-11-04
-- [Absurd Workflows: Durable Execution With Just Postgres](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/) 👤 Armin Ronacher 💬 1030 🗓️ 2025-11-04
-- [Is it worrying that 95% of AI enterprise projects fail?](https://seangoedecke.com/why-do-ai-enterprise-projects-fail/) 👤 seangoedecke.com 💬 1660 🗓️ 2025-11-04
+- [Build AI Agents with n8n | Complete Beginner’s Automation Course 2025](https://www.youtube.com/watch?si=dEipx48B3PxuzIgm&v=UtXzdmpysmU&feature=youtu.be) 👤 JavaScript Mastery 🗓️ 2025-11-14
+- [n8n Workflow Automation Tutorial – Create an Interview Scheduler & More Step-by-Step](https://www.youtube.com/watch?v=GIZzRGYpCbM) 👤 freeCodeCamp.org 🔖 #n8n 🗓️ 2025-11-13
+- [Buil[d|t] To Learn • The Applied Go Weekly Newsletter 2025-11-09](https://newsletter.appliedgo.net/archive/2025-11-09-buildt-to-learn/) 👤 The Applied Go Weekly Newsletter 💬 909 🔖 #go 🗓️ 2025-11-11
+- [Рецензия на книгу “Изучаем Vue: основные концепции и практические паттерны”](https://habr.com/ru/companies/ssp-soft/articles/902974/) 👤 SSP_blog 💬 1717 🗓️ 2025-11-10
+- [WAHA + n8n: No Code Low Code WhatsApp Automation Step-By-Step Guide](https://waha.devlike.pro/blog/waha-n8n/) 👤 waha.devlike.pro 💬 470 🔖 #n8n 🗓️ 2025-11-07
 - [Go Faster With Green Tea • The Applied Go Weekly Newsletter 2025-11-02](https://newsletter.appliedgo.net/archive/2025-11-02-go-faster-with-green-tea/) 👤 The Applied Go Weekly Newsletter 💬 1134 🔖 #go 🗓️ 2025-11-04
 - [Building a Modular Monolith with Nuxt Layers: A Practical Guide](https://alexop.dev/posts/nuxt-layers-modular-monolith/) 👤 Alexander Opalic 💬 2882 🔖 #nuxt 🗓️ 2025-11-04
-- [Code Author](https://yusufaytas.com/code-author/) 👤 https://www.facebook.com/yusufaytas 💬 759 🗓️ 2025-11-02
-- [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) 👤 Shrivu Shankar 💬 3126 🔖 #llm, #claude 🗓️ 2025-11-02
-- [The Internet Is No Longer A Safe Haven](https://brainbaking.com/post/2025/10/the-internet-is-no-longer-a-safe-haven/) 👤 Wouter Groeneveld 💬 908 🗓️ 2025-10-31
-- [How to Manage Your Dotfiles Like a Pro with Git and Stow](https://dev.to/crafts69guy/how-to-manage-your-dotfiles-like-a-pro-with-git-and-stow-3pg1?utm_source=perplexity) 👤 Crafts 69 Guy 💬 1416 🗓️ 2025-10-30
-- [You need to use the tools of the job you've chosen to do](https://www.baldurbjarnason.com/2025/use-the-tools-of-the-job-youve-chosen/) 👤 baldurbjarnason.com 💬 2917 🗓️ 2025-10-30
-- [Simple macOS script to extract text from images (OCR)](https://evanhahn.com/mac-ocr-script/) 👤 Evan Hahn 💬 232 🗓️ 2025-10-29
-- [AI is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more?utm_source=substack&utm_medium=email) 👤 tawandamunongo.dev 💬 1439 🔖 #joyandcuriosity 🗓️ 2025-10-29
-- [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/?utm_source=substack&utm_medium=email) 👤 allvpv <Przemysław Kusiak> 💬 986 🔖 #joyandcuriosity 🗓️ 2025-10-29
-- [Don't delegate thinking, delegate work](https://howtobuildwithai.substack.com/p/dont-delegate-thinking-delegate-work?utm_source=substack&utm_medium=email) 👤 Nicolay Christopher Gerold 💬 414 🔖 #joyandcuriosity 🗓️ 2025-10-29
-- [The Basics](https://registerspill.thorstenball.com/p/the-basics?utm_source=substack&utm_medium=email) 👤 Thorsten Ball 💬 422 🔖 #joyandcuriosity 🗓️ 2025-10-29
-- [Build Your Own Database](https://www.nan.fyi/database?utm_source=substack&utm_medium=email) 👤 Nanda Syahrasyad 💬 1239 🔖 #joyandcuriosity 🗓️ 2025-10-29
-- [High Agency Matters](https://addyosmani.com/blog/high-agency-matters/?utm_source=tldrwebdev) 👤 Addy Osmani 💬 9273 🗓️ 2025-10-29
+- [How to Manage Your Dotfiles Like a Pro with Git and Stow](https://dev.to/crafts69guy/how-to-manage-your-dotfiles-like-a-pro-with-git-and-stow-3pg1?utm_source=perplexity) 👤 Crafts 69 Guy 💬 1416 🔖 #git, #stow 🗓️ 2025-10-30
+- [Simple macOS script to extract text from images (OCR)](https://evanhahn.com/mac-ocr-script/) 👤 Evan Hahn 💬 232 🔖 #cli, #try, #macos 🗓️ 2025-10-29
+- [Build Your Own Database](https://www.nan.fyi/database?utm_source=substack&utm_medium=email) 👤 Nanda Syahrasyad 💬 1239 🔖 #db, #diy, #joyandcuriosity 🗓️ 2025-10-29
 - [The “10x” Commandments of Highly Effective Go](https://blog.jetbrains.com/go/2025/10/16/the-10x-commandments-of-highly-effective-go/?utm_source=tldrwebdev) 👤 The JetBrains Blog 💬 1291 🔖 #go 🗓️ 2025-10-29
 - [24 Time Saving Tips for Nuxt 3](https://masteringnuxt.com/blog/24-time-saving-tips-for-nuxt3?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(241)+Configurable+composables,+named+slots,+and+looping+over+a+range+-+19511363&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 2706 🔖 #nuxt 🗓️ 2025-10-29
-- [Why You Should Write Every Day (Even if You’re Not a Writer)](https://www.joanwestenberg.com/p/why-you-should-write-every-day-even-if-you-re-not-a-writer) 👤 JA Westenberg 💬 925 🗓️ 2025-10-29
-- [Code Review Developer Guide](https://google.github.io/eng-practices/review/) 👤 eng-practices 💬 416 🗓️ 2025-10-29
-- [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html?utm_source=tldrwebdev) 👤 Google Testing Blog 💬 334 🗓️ 2025-10-29
 - [Springs and Bounces in Native CSS The magic of the linear() timing function](https://www.joshwcomeau.com/animation/linear-timing-function/) 👤 Josh W. Comeau 💬 2718 🔖 #css 🗓️ 2025-10-29
-- [Give your engineers a kingdom](https://newsletter.manager.dev/p/give-your-engineers-a-kingdom) 👤 Anton Zaides 💬 1015 🗓️ 2025-10-28
-- [The Map Is Not the Territory (and It’s Definitely Not Progress)](https://www.joanwestenberg.com/p/the-map-is-not-the-territory-and-it-s-definitely-not-progress) 👤 JA Westenberg 💬 978 🗓️ 2025-10-28
-- [Web Weekly #172](https://www.stefanjudis.com/blog/web-weekly-172/) 👤 stefanjudis.com 💬 1217 🗓️ 2025-10-28
-- [Worse is Better Start Simple and Iterate](https://dayvster.com/blog/worse-is-better-start-simple-and-iterate/) 👤 Dayvi Schuster 💬 1574 🗓️ 2025-10-28
 - [Practice Best Practices • The Applied Go Weekly Newsletter 2025-10-26](https://newsletter.appliedgo.net/archive/2025-10-26-practice-best-practices/) 👤 The Applied Go Weekly Newsletter 💬 1143 🔖 #go 🗓️ 2025-10-28
-- [> The Journey Before main()_](https://amit.prasad.me/blog/before-main?utm_source=tldrwebdev) 👤 prasad.me 💬 2155 🗓️ 2025-10-27
-- [Why I code as a CTO](https://www.assembled.com/blog/why-i-code-as-a-cto?utm_source=tldrwebdev) 👤 assembled.com 💬 1404 🗓️ 2025-10-27
-- [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/) 👤 Uros Popovic 💬 4835 🗓️ 2025-10-27
-- [Turn off macOS Liquid Glass via the CLI](https://www.stefanjudis.com/snippets/turn-off-macos-liquid-glass-via-the-cli/) 👤 stefanjudis.com 💬 104 🔖 #macos 🗓️ 2025-10-27
-- [A gold ceremony to remember](https://daniel.haxx.se/blog/2025/10/25/a-gold-ceremony-to-remember/) 👤 Daniel Stenberg 💬 747 🔖 #toot, #devtools 🗓️ 2025-10-26
-    > **Заметка:** Заслуженная награда🎖️! Рад за Дэниэла. Просто юзайте curl! ✊
-- [Solving the wrong problem](https://www.ufried.com/blog/ai_assisted_coding/?utm_source=tldrwebdev) 👤 Uwe Friedrichsen 💬 4167 🗓️ 2025-10-26
-- [Avoiding the Shiny Object Syndrome: When "Good Enough" Is Actually Perfect](https://alfy.blog/2025/08/22/from-code-that-works-to-code-that-matters.md.html) 👤 Ahmad Elalfy 💬 1043 🗓️ 2025-10-25
-- [How Functional Programming Shaped (and Twisted) Frontend Development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_308) 👤 Ahmad Elalfy 💬 4008 🔖 #webdev, #frontend 🗓️ 2025-10-25
 - [Запуск MCP-сервера для AI-агентов от Битрикс24: интеграция с документацией REST API без ошибок](https://habr.com/ru/companies/bitrix/news/956808/) 👤 MaxMoro1 💬 310 🗓️ 2025-10-21
 - [A complete guide to HTTP caching](https://www.jonoalderson.com/performance/http-caching/) 👤 Jono Alderson 💬 9131 🔖 #http 🗓️ 2025-10-10
 - [Standard Package Layout](https://www.gobeyond.dev/standard-package-layout/) 👤 Ben Johnson 💬 2012 🗓️ 2025-10-09

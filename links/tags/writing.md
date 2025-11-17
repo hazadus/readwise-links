@@ -1,9 +1,19 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 19
 
 ## Ссылки
 
+- [“Frowning at a screen for 200 hours”: on the writing process](https://bitfieldconsulting.com/posts/the-writing-process) 👤 John Arundel 💬 1850 🔖 #writing 🗓️ 2025-11-15
+    > **Резюме:** John Arundel wrote the Puppet Cookbook by carving out about 200 hours over eight months while juggling freelance work. Writing taught him Puppet features he hadn't used, required lots of coding, testing, and rewriting, and relied on community help. He advises careful planning, time management, and iterative revision for anyone writing a technical book.
+- [Writing for AIs is a good way to reach more humans](https://seangoedecke.com/writing-for-ais/) 👤 seangoedecke.com 💬 1599 🔖 #llm, #writing 🗓️ 2025-11-14
+    > **Резюме:** Writing for AIs means publishing more and making content easy to scrape so language models can learn and spread your ideas. This is useful if your goal is influence, not profit or pure art. You shouldn’t change your style to please AIs or hide content behind paywalls.
+- [To get better at technical writing, lower your expectations](https://seangoedecke.com/technical-communication/) 👤 seangoedecke.com 💬 1436 🔖 #writing 🗓️ 2025-11-09
+    > **Резюме:** Technical writing should be very short because most readers skim or stop early. Leave out subtle details and put the main point first, ideally in one sentence or the title. Even a tiny bit of clear technical context is very useful in large organizations.
+- [Why You Should Write Every Day (Even if You’re Not a Writer)](https://www.joanwestenberg.com/p/why-you-should-write-every-day-even-if-you-re-not-a-writer) 👤 JA Westenberg 💬 925 🔖 #writing 🗓️ 2025-10-29
+    > **Резюме:** Writing every day trains you to think more clearly.  
+Putting vague feelings into sentences reveals contradictions and solutions.  
+Try fifteen minutes a day for a month — worst case you lose time scrolling, best case you debug your own thinking.
 - [Don't feed me AI slop](https://seangoedecke.com/dont-feed-me-slop/) 👤 seangoedecke.com 💬 2055 🔖 #llm, #writing 🗓️ 2025-08-23
     > **Резюме:** Social norms are forming around when to show AI-generated content.  
 Only share AI output that is content-dense and as concise as a competent human’s.  
