@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 26
+- Всего ссылок: 27
 
 ## Ссылки
 
+- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #learning 🗓️ 2025-11-17
+    > **Резюме:** Software development is a learning loop: you must try, fail, and iterate to discover the right design. LLMs and starter kits speed setup and translation between languages but can hide crucial context and stunt learning. True long-term velocity comes from developers internalizing how systems work, not from shortcuts that bypass the learning loop.
 - [There is Only One Hack: Do it for a Decade.](https://www.joanwestenberg.com/p/there-is-only-one-hack-do-it-for-a-decade) 👤 JA Westenberg 💬 636 🔖 #toot, #career, #learning, #time management 🗓️ 2025-10-11
     > **Заметка:** "Working hard is fine, but framing it as a sprint suggests that achievement is about peak intensity rather than sustained presence. Six months of grinding is easy compared to six years of showing up. Anyone can do a hard sprint. What's tough: maintaining your focus when the initial excitement has worn off and you're in year three of a project with no clear end in sight."
     > **Резюме:** People chase quick productivity hacks but they only work briefly. Real results come from years of steady, boring work and showing up. Skip the shortcuts and build patience to keep working for a decade.

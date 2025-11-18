@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 288
+- Всего ссылок: 289
 
 ## Ссылки
 
+- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #learning 🗓️ 2025-11-17
+    > **Резюме:** Software development is a learning loop: you must try, fail, and iterate to discover the right design. LLMs and starter kits speed setup and translation between languages but can hide crucial context and stunt learning. True long-term velocity comes from developers internalizing how systems work, not from shortcuts that bypass the learning loop.
 - [Only three kinds of AI products actually work](https://seangoedecke.com/ai-products/) 👤 seangoedecke.com 💬 2540 🔖 #llm 🗓️ 2025-11-16
     > **Резюме:** Most AI products that actually work fall into three groups: chatbots, completions (like Copilot), and agentic systems that act autonomously. Chatbots dominate but are vulnerable to big labs and often duplicate the model itself. New promising areas are AI-generated feeds and agentic research tools, while AI games and image tools are less mature.
 - [Writing for AIs is a good way to reach more humans](https://seangoedecke.com/writing-for-ais/) 👤 seangoedecke.com 💬 1599 🔖 #llm, #writing 🗓️ 2025-11-14
