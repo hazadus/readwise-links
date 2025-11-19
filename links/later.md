@@ -4,13 +4,13 @@
 
 ## Ссылки
 
-- [Only three kinds of AI products actually work](https://seangoedecke.com/ai-products/) 👤 seangoedecke.com 💬 2540 🔖 #llm 🗓️ 2025-11-16
-    > **Резюме:** Most AI products that actually work fall into three groups: chatbots, completions (like Copilot), and agentic systems that act autonomously. Chatbots dominate but are vulnerable to big labs and often duplicate the model itself. New promising areas are AI-generated feeds and agentic research tools, while AI games and image tools are less mature.
+- [Shadow work in engineering teams](https://newsletter.manager.dev/p/the-shadow-work-in-engineering-teams) 👤 Anton Zaides 💬 1432 🗓️ 2025-11-18
+    > **Резюме:** Many important engineering tasks are invisible and eat teams’ time. This “shadow work” — ad-hoc support, glue work like reviews, and a hidden backlog — reduces capacity and creates bottlenecks. Make hidden work visible and distribute it so seniors aren’t overloaded and planning is accurate.
+- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #learning 🗓️ 2025-11-17
+    > **Резюме:** Software development is a learning loop: you must try, fail, and iterate to discover the right design. LLMs and starter kits speed setup and translation between languages but can hide crucial context and stunt learning. True long-term velocity comes from developers internalizing how systems work, not from shortcuts that bypass the learning loop.
 - [A Raycast confetti shell command](https://www.stefanjudis.com/notes/a-raycast-confetti-shell-command/) 👤 stefanjudis.com 💬 119 🔖 #cli, #try 🗓️ 2025-11-16
     > **Резюме:** Stefan documents a tiny shell command that triggers Raycast's confetti. The script just opens the raycast://.../confetti URL. Running that URL from anywhere makes Raycast show confetti.
-- [Europa Universalis V: Обзор самой масштабной исторической стратегии](https://stopgame.ru/show/155063/europa_universalis_v_review_samoy_masshtabnoy_istoricheskoy_strategii) 👤 Степан Песков 💬 1828 🔖 #game 🗓️ 2025-11-15
-    > **Резюме:** Europa Universalis V — большая историческая стратегия, где вы управляете державой в огромной песочнице и решаете судьбы народов. Игра глубоко симулирует людей, сословия и экономику, но изобилие механик требует много микроменеджмента. Автоматизация упрощает жизнь, хотя есть технические баги и нужно доработать некоторые функции.
-- [“Frowning at a screen for 200 hours”: on the writing process](https://bitfieldconsulting.com/posts/the-writing-process) 👤 John Arundel 💬 1850 🔖 #writing 🗓️ 2025-11-15
+- [“Frowning at a screen for 200 hours”: on the writing process](https://bitfieldconsulting.com/posts/the-writing-process) 👤 John Arundel 💬 1850 🔖 #writing, #inspiration 🗓️ 2025-11-15
     > **Резюме:** John Arundel wrote the Puppet Cookbook by carving out about 200 hours over eight months while juggling freelance work. Writing taught him Puppet features he hadn't used, required lots of coding, testing, and rewriting, and relied on community help. He advises careful planning, time management, and iterative revision for anyone writing a technical book.
 - [Some software bloat is OK](https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok?utm_source=tldrwebdev) 👤 WaspDev Blog 💬 1308 🗓️ 2025-11-12
     > **Резюме:** Modern hardware makes some software bloat acceptable because it speeds development, improves safety, and adds features like globalization and isolation.  

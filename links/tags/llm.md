@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 289
+- Всего ссылок: 290
 
 ## Ссылки
 
+- [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini) 👤 Ethan Mollick 💬 1851 🔖 #llm, #gemini 🗓️ 2025-11-18
+    > **Резюме:** Ethan Mollick shows how AI has moved from simple chatbots to powerful agents in three years. Gemini 3 can write code, run tools, and do complex research like a grad student. This shifts AI from fixing mistakes to being a collaborative digital coworker that still needs human guidance.
 - [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #learning 🗓️ 2025-11-17
     > **Резюме:** Software development is a learning loop: you must try, fail, and iterate to discover the right design. LLMs and starter kits speed setup and translation between languages but can hide crucial context and stunt learning. True long-term velocity comes from developers internalizing how systems work, not from shortcuts that bypass the learning loop.
 - [Only three kinds of AI products actually work](https://seangoedecke.com/ai-products/) 👤 seangoedecke.com 💬 2540 🔖 #llm 🗓️ 2025-11-16

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 4
 
 ## Ссылки
 
+- [Pikaday](https://pikaday.dbushell.com/?utm_source=tldrwebdev) 👤 David Bushell 💬 954 🔖 #html, #frontend 🗓️ 2025-11-17
+    > **Заметка:** Подборка примеров полей ввода для дат
+    > **Резюме:** Most sites do not need a JavaScript calendar; simpler native inputs or separate fields work better. Native date/time inputs are easier, more accessible, and less error-prone than custom widgets. Keep designs simple, test with real users, and prefer progressive enhancement.
 - [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/) 👤 Jake Lazaroff 💬 1696 🔖 #html 🗓️ 2025-06-27
     > **Резюме:** Web components are a stable, future-proof way to build reusable HTML elements without relying on dependencies like JavaScript frameworks. They allow for easy content portability, as all code is self-contained in a single file. By using web standards, developers can ensure their work remains accessible for years to come.
 - [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/?utm_source=rss) 👤 alexwlchan.net 💬 3756 🔖 #css, #html 🗓️ 2025-05-26

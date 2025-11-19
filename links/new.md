@@ -1,11 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 859
+- Всего ссылок: 858
 
 ## Ссылки
 
-- [Pikaday](https://pikaday.dbushell.com/?utm_source=tldrwebdev) 👤 David Bushell 💬 954 🗓️ 2025-11-17
-- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #learning 🗓️ 2025-11-17
+- [Что такое «цифровой этикет»?](https://digitaletiquette.ru/what_is_digital_etiquette) 👤 digitaletiquette.ru 💬 10 🗓️ 2025-11-18
 - [Build AI Agents with n8n | Complete Beginner’s Automation Course 2025](https://www.youtube.com/watch?si=dEipx48B3PxuzIgm&v=UtXzdmpysmU&feature=youtu.be) 👤 JavaScript Mastery 🗓️ 2025-11-14
 - [n8n Workflow Automation Tutorial – Create an Interview Scheduler & More Step-by-Step](https://www.youtube.com/watch?v=GIZzRGYpCbM) 👤 freeCodeCamp.org 🔖 #n8n 🗓️ 2025-11-13
 - [Buil[d|t] To Learn • The Applied Go Weekly Newsletter 2025-11-09](https://newsletter.appliedgo.net/archive/2025-11-09-buildt-to-learn/) 👤 The Applied Go Weekly Newsletter 💬 909 🔖 #go 🗓️ 2025-11-11

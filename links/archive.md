@@ -1,9 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 1198
+- Всего ссылок: 1202
 
 ## Ссылки
 
+- [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini) 👤 Ethan Mollick 💬 1851 🔖 #llm, #gemini 🗓️ 2025-11-18
+- [Pikaday](https://pikaday.dbushell.com/?utm_source=tldrwebdev) 👤 David Bushell 💬 954 🔖 #html, #frontend 🗓️ 2025-11-17
+    > **Заметка:** Подборка примеров полей ввода для дат
+- [Only three kinds of AI products actually work](https://seangoedecke.com/ai-products/) 👤 seangoedecke.com 💬 2540 🔖 #llm 🗓️ 2025-11-16
+- [Europa Universalis V: Обзор самой масштабной исторической стратегии](https://stopgame.ru/show/155063/europa_universalis_v_review_samoy_masshtabnoy_istoricheskoy_strategii) 👤 Степан Песков 💬 1828 🔖 #game 🗓️ 2025-11-15
 - [Writing for AIs is a good way to reach more humans](https://seangoedecke.com/writing-for-ais/) 👤 seangoedecke.com 💬 1599 🔖 #llm, #writing 🗓️ 2025-11-14
 - [The Myth of AI-powered Sisyphus](https://tawandamunongo.dev/posts/2025/11/ai-powered-sisyphus/) 👤 t23o 💬 1449 🔖 #llm 🗓️ 2025-11-13
 - [AI and the Devaluation of Effort](https://tawandamunongo.dev/posts/2025/10/ai-devaluation-effort/) 👤 t23o 💬 1606 🔖 #llm 🗓️ 2025-11-13

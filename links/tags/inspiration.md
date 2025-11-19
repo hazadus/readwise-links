@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 103
+- Всего ссылок: 104
 
 ## Ссылки
 
+- [“Frowning at a screen for 200 hours”: on the writing process](https://bitfieldconsulting.com/posts/the-writing-process) 👤 John Arundel 💬 1850 🔖 #writing, #inspiration 🗓️ 2025-11-15
+    > **Резюме:** John Arundel wrote the Puppet Cookbook by carving out about 200 hours over eight months while juggling freelance work. Writing taught him Puppet features he hadn't used, required lots of coding, testing, and rewriting, and relied on community help. He advises careful planning, time management, and iterative revision for anyone writing a technical book.
 - [ARIatHOME](https://daverupert.com/2025/11/ariathome/) 👤 Dave Rupert 💬 327 🔖 #music, #inspiration 🗓️ 2025-11-12
     > **Резюме:** Ari Miller is a New York beat maker who performs live street sets with a portable 55-lb production rig. He improvises beats, invites strangers to rap, and turns raw moments into creative, communal music. His work celebrates New York’s bold characters and brings hopeful, real creativity to the internet.
 - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/?utm_source=tldrwebdev) 👤 Evan Hahn 💬 2125 🔖 #cli, #inspiration, #joyandcuriosity 🗓️ 2025-10-26

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 4
 
 ## Ссылки
 
+- [Pikaday](https://pikaday.dbushell.com/?utm_source=tldrwebdev) 👤 David Bushell 💬 954 🔖 #html, #frontend 🗓️ 2025-11-17
+    > **Заметка:** Подборка примеров полей ввода для дат
+    > **Резюме:** Most sites do not need a JavaScript calendar; simpler native inputs or separate fields work better. Native date/time inputs are easier, more accessible, and less error-prone than custom widgets. Keep designs simple, test with real users, and prefer progressive enhancement.
 - [How Functional Programming Shaped (and Twisted) Frontend Development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_308) 👤 Ahmad Elalfy 💬 4008 🔖 #webdev, #frontend 🗓️ 2025-10-25
     > **Резюме:** Functional programming ideals and React pushed developers to rebuild core browser features in JavaScript. This made many sites more complex, fragile, and slower while ignoring the web’s built-in strengths like HTML, CSS, and native events. Newer tools aim to restore platform-first patterns and progressive enhancement.
 - [Stop Ignoring the Browser: The Biggest Frontend Shift in a Decade](https://thenewstack.io/stop-ignoring-the-browser-the-biggest-frontend-shift-in-a-decade/?utm_source=tldrwebdev) 👤 Alexander T. Williams 💬 1141 🔖 #webdev, #frontend 🗓️ 2025-10-20

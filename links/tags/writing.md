@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [“Frowning at a screen for 200 hours”: on the writing process](https://bitfieldconsulting.com/posts/the-writing-process) 👤 John Arundel 💬 1850 🔖 #writing 🗓️ 2025-11-15
+- [“Frowning at a screen for 200 hours”: on the writing process](https://bitfieldconsulting.com/posts/the-writing-process) 👤 John Arundel 💬 1850 🔖 #writing, #inspiration 🗓️ 2025-11-15
     > **Резюме:** John Arundel wrote the Puppet Cookbook by carving out about 200 hours over eight months while juggling freelance work. Writing taught him Puppet features he hadn't used, required lots of coding, testing, and rewriting, and relied on community help. He advises careful planning, time management, and iterative revision for anyone writing a technical book.
 - [Writing for AIs is a good way to reach more humans](https://seangoedecke.com/writing-for-ais/) 👤 seangoedecke.com 💬 1599 🔖 #llm, #writing 🗓️ 2025-11-14
     > **Резюме:** Writing for AIs means publishing more and making content easy to scrape so language models can learn and spread your ideas. This is useful if your goal is influence, not profit or pure art. You shouldn’t change your style to please AIs or hide content behind paywalls.
