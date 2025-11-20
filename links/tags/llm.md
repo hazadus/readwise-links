@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 290
+- Всего ссылок: 291
 
 ## Ссылки
 
+- [Coding at work (after a decade away).](https://lethain.com/coding-at-work/) 👤 lethain.com 💬 1526 🔖 #llm, #management, #development 🗓️ 2025-11-19
+    > **Резюме:** After a decade away from hands-on coding, the author returned to writing small, useful pull requests as a manager and completed 104 in six months. New AI coding tools and better judgment about which problems to pick made it possible to do meaningful work in short time blocks. Manager coding can help if you pick high-value, non-urgent tasks and fully own their release and maintenance.
 - [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini) 👤 Ethan Mollick 💬 1851 🔖 #llm, #gemini 🗓️ 2025-11-18
     > **Резюме:** Ethan Mollick shows how AI has moved from simple chatbots to powerful agents in three years. Gemini 3 can write code, run tools, and do complex research like a grad student. This shifts AI from fixing mistakes to being a collaborative digital coworker that still needs human guidance.
 - [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #learning 🗓️ 2025-11-17

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 67
+- Всего ссылок: 68
 
 ## Ссылки
 
+- [Coding at work (after a decade away).](https://lethain.com/coding-at-work/) 👤 lethain.com 💬 1526 🔖 #llm, #management, #development 🗓️ 2025-11-19
+    > **Резюме:** After a decade away from hands-on coding, the author returned to writing small, useful pull requests as a manager and completed 104 in six months. New AI coding tools and better judgment about which problems to pick made it possible to do meaningful work in short time blocks. Manager coding can help if you pick high-value, non-urgent tasks and fully own their release and maintenance.
 - [The Basics](https://registerspill.thorstenball.com/p/the-basics?utm_source=substack&utm_medium=email) 👤 Thorsten Ball 💬 422 🔖 #development, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
     > **Резюме:** Focus on fundamentals: test manually, think through edge cases, and keep changes small and clear.  
 Communicate clearly and responsibly: read docs and error messages, write useful bug reports, and do the homework before meetings.  

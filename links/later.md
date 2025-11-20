@@ -4,14 +4,14 @@
 
 ## Ссылки
 
+- [What Good Execution Looks Like](https://yusufaytas.com/what-good-execution-looks-like/) 👤 https://www.facebook.com/yusufaytas 💬 2079 🗓️ 2025-11-19
+    > **Резюме:** Good execution is quiet: work flows without constant checking or drama. It needs clear direction, ownership, and steady rhythm so people can decide and fix things fast. When those foundations exist, delivery is predictable and teams focus on doing the work, not managing it.
 - [Shadow work in engineering teams](https://newsletter.manager.dev/p/the-shadow-work-in-engineering-teams) 👤 Anton Zaides 💬 1432 🗓️ 2025-11-18
     > **Резюме:** Many important engineering tasks are invisible and eat teams’ time. This “shadow work” — ad-hoc support, glue work like reviews, and a hidden backlog — reduces capacity and creates bottlenecks. Make hidden work visible and distribute it so seniors aren’t overloaded and planning is accurate.
 - [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #learning 🗓️ 2025-11-17
     > **Резюме:** Software development is a learning loop: you must try, fail, and iterate to discover the right design. LLMs and starter kits speed setup and translation between languages but can hide crucial context and stunt learning. True long-term velocity comes from developers internalizing how systems work, not from shortcuts that bypass the learning loop.
 - [A Raycast confetti shell command](https://www.stefanjudis.com/notes/a-raycast-confetti-shell-command/) 👤 stefanjudis.com 💬 119 🔖 #cli, #try 🗓️ 2025-11-16
     > **Резюме:** Stefan documents a tiny shell command that triggers Raycast's confetti. The script just opens the raycast://.../confetti URL. Running that URL from anywhere makes Raycast show confetti.
-- [“Frowning at a screen for 200 hours”: on the writing process](https://bitfieldconsulting.com/posts/the-writing-process) 👤 John Arundel 💬 1850 🔖 #writing, #inspiration 🗓️ 2025-11-15
-    > **Резюме:** John Arundel wrote the Puppet Cookbook by carving out about 200 hours over eight months while juggling freelance work. Writing taught him Puppet features he hadn't used, required lots of coding, testing, and rewriting, and relied on community help. He advises careful planning, time management, and iterative revision for anyone writing a technical book.
 - [Some software bloat is OK](https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok?utm_source=tldrwebdev) 👤 WaspDev Blog 💬 1308 🗓️ 2025-11-12
     > **Резюме:** Modern hardware makes some software bloat acceptable because it speeds development, improves safety, and adds features like globalization and isolation.  
 However, wasted dependencies, poor design, and over-engineering cause avoidable bloat and maintenance problems.  
