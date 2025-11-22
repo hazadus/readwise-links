@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [Гайд по кастомизации vscode: чистим status bar, пишем плагины на #javascript](https://www.youtube.com/watch?v=H5iVQZNk92s) 👤 Никита Соболев 🔖 #vscode 🗓️ 2025-11-21
+    > **Резюме:** Автор показывает, как превратить VS Code в минималистичный редактор, убирая лишние элементы статус-бара. Он объясняет, как скрыть элементы через меню или написать простые локальные плагины на JavaScript. В конце упоминает удобство, документацию и благодарит разработчиков.
 - [Profiles in Visual Studio Code](https://code.visualstudio.com/docs/configure/profiles) 👤 Microsoft 💬 2964 🔖 #vscode 🗓️ 2025-09-03
     > **Резюме:** Profiles in VS Code are named sets of settings, extensions, and UI customizations managed from the Profiles editor.  
 You can create, modify, export, import, and switch profiles per window or workspace, and make temporary profiles that last one session.  
