@@ -1,9 +1,13 @@
 # Новые ссылки
 
-- Всего ссылок: 859
+- Всего ссылок: 863
 
 ## Ссылки
 
+- [Rue Valley: Обзор несостоявшейся наследницы Disco Elysium](https://stopgame.ru/show/155558/rue_valley_review_nesostoyavsheysya_naslednicy_disco_elysium) 👤 Кирилл Волошин 💬 1812 🗓️ 2025-11-22
+- [Обзор ARC Raiders. Экстракшен для всех и каждого](https://www.mirf.ru/games/arc-raiders-obzor) 👤 mirf.ru 💬 2507 🗓️ 2025-11-22
+- [](about:blank) 🗓️ 2025-11-22
+- [LLM APIs are a Synchronization Problem](https://lucumr.pocoo.org/2025/11/22/llm-apis/) 👤 Armin Ronacher 💬 1485 🗓️ 2025-11-22
 - [Гайд по кастомизации vscode: чистим status bar, пишем плагины на #javascript](https://www.youtube.com/watch?v=H5iVQZNk92s) 👤 Никита Соболев 🔖 #vscode 🗓️ 2025-11-21
 - [Что такое «цифровой этикет»?](https://digitaletiquette.ru/what_is_digital_etiquette) 👤 digitaletiquette.ru 💬 10 🗓️ 2025-11-18
 - [Build AI Agents with n8n | Complete Beginner’s Automation Course 2025](https://www.youtube.com/watch?si=dEipx48B3PxuzIgm&v=UtXzdmpysmU&feature=youtu.be) 👤 JavaScript Mastery 🗓️ 2025-11-14
