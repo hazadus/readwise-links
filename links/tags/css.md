@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 19
 
 ## Ссылки
 
+- [High-Performance Syntax Highlighting with CSS Highlights API](https://pavi2410.com/blog/high-performance-syntax-highlighting-with-css-highlights-api/?utm_source=tldrwebdev) 👤 Pavitra Golchha 💬 1054 🔖 #css 🗓️ 2025-11-23
+    > **Резюме:** Traditional syntax highlighting creates many span elements, which slows rendering and uses more memory.  
+The CSS Custom Highlight API uses lightweight Range objects and CSS ::highlight rules to style text without changing the DOM, making rendering faster and leaner.  
+It works in modern browsers but needs fallbacks for older ones and only supports single text-node content.
 - [Springs and Bounces in Native CSS The magic of the linear() timing function](https://www.joshwcomeau.com/animation/linear-timing-function/) 👤 Josh W. Comeau 💬 2718 🔖 #css 🗓️ 2025-10-29
     > **Резюме:** Modern CSS has a new linear() timing function that helps create spring and bounce animations by specifying points on a graph. Tools like Linear() Easing Generator and Easing Wizard make it easier to design these animations with physical properties like stiffness and damping. Using CSS variables to store these timing functions keeps animations consistent and reduces code duplication across projects.
 - [The least amount of CSS for a decent looking site](https://thecascade.dev/article/least-amount-of-css/?utm_source=tldrwebdev) 👤 Kevin Powell 💬 626 🔖 #css 🗓️ 2025-10-10

@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 863
+- Всего ссылок: 865
 
 ## Ссылки
 
+- [High-Performance Syntax Highlighting with CSS Highlights API](https://pavi2410.com/blog/high-performance-syntax-highlighting-with-css-highlights-api/?utm_source=tldrwebdev) 👤 Pavitra Golchha 💬 1054 🔖 #css 🗓️ 2025-11-23
+- [ООП: худшее, что случалось с программированием [24.02.2025]](https://alexanderdanilov.dev/ru/articles/oop) 👤 Александр Данилов 💬 4864 🗓️ 2025-11-23
 - [Rue Valley: Обзор несостоявшейся наследницы Disco Elysium](https://stopgame.ru/show/155558/rue_valley_review_nesostoyavsheysya_naslednicy_disco_elysium) 👤 Кирилл Волошин 💬 1812 🗓️ 2025-11-22
 - [Обзор ARC Raiders. Экстракшен для всех и каждого](https://www.mirf.ru/games/arc-raiders-obzor) 👤 mirf.ru 💬 2507 🗓️ 2025-11-22
 - [](about:blank) 🗓️ 2025-11-22
