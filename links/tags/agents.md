@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [Agent Design Is Still Hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/) 👤 Armin Ronacher 💬 2566 🔖 #llm, #agents 🗓️ 2025-11-24
+    > **Резюме:** Building agents is still messy and existing SDK abstractions often break with real tool use.  
+Explicit control—especially direct SDK use and explicit cache management—makes agent behavior, costs, and reinforcement clearer.  
+Designing useful agent loops requires careful handling of tools, sub-agents, outputs, and state to avoid dead ends and unwanted leaked information.
 - [What have we learned about building agentic AI tools?](https://seangoedecke.com/ideas-in-agentic-ai-tooling/) 👤 seangoedecke.com 💬 1265 🔖 #llm, #agents 🗓️ 2025-10-20
     > **Резюме:** Agentic coding tools became practical in 2025 thanks to much better models and smarter tool harnesses. Good agents plan before acting, use a small set of powerful tools, and let users interrupt, queue commands, and add plugins. Prefer simple code search and nested rule files over heavy RAG; treat agentic systems as normal software engineering that you can polish.
 - [I think “agent” may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/#atom-everything) 👤 Simon Willison 💬 1020 🔖 #llm, #agents 🗓️ 2025-09-19

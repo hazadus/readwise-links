@@ -1,17 +1,25 @@
 # Отложенные ссылки
 
-- Всего ссылок: 121
+- Всего ссылок: 123
 
 ## Ссылки
 
-- [What Good Execution Looks Like](https://yusufaytas.com/what-good-execution-looks-like/) 👤 https://www.facebook.com/yusufaytas 💬 2079 🗓️ 2025-11-19
-    > **Резюме:** Good execution is quiet: work flows without constant checking or drama. It needs clear direction, ownership, and steady rhythm so people can decide and fix things fast. When those foundations exist, delivery is predictable and teams focus on doing the work, not managing it.
+- [GitHub: top commands in gh, the official GitHub CLI](https://adamj.eu/tech/2025/11/24/github-top-gh-cli-commands/) 👤 adamj.eu 💬 5208 🔖 #cli, #try, #github 🗓️ 2025-11-24
+    > **Резюме:** The GitHub CLI (gh) lets you create, view, checkout, and merge pull requests from the command line. It offers interactive prompts, web mode, and options like auto-merge and push prompts to simplify workflows. gh also shows and watches GitHub Actions runs so you can monitor CI from your terminal.
+- [Agent Design Is Still Hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/) 👤 Armin Ronacher 💬 2566 🔖 #llm, #agents 🗓️ 2025-11-24
+    > **Резюме:** Building agents is still messy and existing SDK abstractions often break with real tool use.  
+Explicit control—especially direct SDK use and explicit cache management—makes agent behavior, costs, and reinforcement clearer.  
+Designing useful agent loops requires careful handling of tools, sub-agents, outputs, and state to avoid dead ends and unwanted leaked information.
+- [Get Notified When Claude Code Finishes With Hooks](https://alexop.dev/posts/claude-code-notification-hooks/) 👤 Alexander Opalic 💬 736 🔖 #try, #claude 🗓️ 2025-11-24
+    > **Резюме:** Claude Code can run hooks that trigger desktop notifications when it needs your attention. Set a simple .claude/settings.json and a notification script to handle permission_prompt and idle_prompt events. This stops you from constantly checking the terminal and brings you back only when needed.
+- [High-Performance Syntax Highlighting with CSS Highlights API](https://pavi2410.com/blog/high-performance-syntax-highlighting-with-css-highlights-api/?utm_source=tldrwebdev) 👤 Pavitra Golchha 💬 1054 🔖 #css 🗓️ 2025-11-23
+    > **Резюме:** Traditional syntax highlighting creates many span elements, which slows rendering and uses more memory.  
+The CSS Custom Highlight API uses lightweight Range objects and CSS ::highlight rules to style text without changing the DOM, making rendering faster and leaner.  
+It works in modern browsers but needs fallbacks for older ones and only supports single text-node content.
 - [Shadow work in engineering teams](https://newsletter.manager.dev/p/the-shadow-work-in-engineering-teams) 👤 Anton Zaides 💬 1432 🗓️ 2025-11-18
     > **Резюме:** Many important engineering tasks are invisible and eat teams’ time. This “shadow work” — ad-hoc support, glue work like reviews, and a hidden backlog — reduces capacity and creates bottlenecks. Make hidden work visible and distribute it so seniors aren’t overloaded and planning is accurate.
 - [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #learning 🗓️ 2025-11-17
     > **Резюме:** Software development is a learning loop: you must try, fail, and iterate to discover the right design. LLMs and starter kits speed setup and translation between languages but can hide crucial context and stunt learning. True long-term velocity comes from developers internalizing how systems work, not from shortcuts that bypass the learning loop.
-- [A Raycast confetti shell command](https://www.stefanjudis.com/notes/a-raycast-confetti-shell-command/) 👤 stefanjudis.com 💬 119 🔖 #cli, #try 🗓️ 2025-11-16
-    > **Резюме:** Stefan documents a tiny shell command that triggers Raycast's confetti. The script just opens the raycast://.../confetti URL. Running that URL from anywhere makes Raycast show confetti.
 - [Some software bloat is OK](https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok?utm_source=tldrwebdev) 👤 WaspDev Blog 💬 1308 🗓️ 2025-11-12
     > **Резюме:** Modern hardware makes some software bloat acceptable because it speeds development, improves safety, and adds features like globalization and isolation.  
 However, wasted dependencies, poor design, and over-engineering cause avoidable bloat and maintenance problems.  

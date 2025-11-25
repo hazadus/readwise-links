@@ -1,16 +1,24 @@
 # Новые ссылки
 
-- Всего ссылок: 865
+- Всего ссылок: 873
 
 ## Ссылки
 
-- [High-Performance Syntax Highlighting with CSS Highlights API](https://pavi2410.com/blog/high-performance-syntax-highlighting-with-css-highlights-api/?utm_source=tldrwebdev) 👤 Pavitra Golchha 💬 1054 🔖 #css 🗓️ 2025-11-23
-- [ООП: худшее, что случалось с программированием [24.02.2025]](https://alexanderdanilov.dev/ru/articles/oop) 👤 Александр Данилов 💬 4864 🗓️ 2025-11-23
-- [Rue Valley: Обзор несостоявшейся наследницы Disco Elysium](https://stopgame.ru/show/155558/rue_valley_review_nesostoyavsheysya_naslednicy_disco_elysium) 👤 Кирилл Волошин 💬 1812 🗓️ 2025-11-22
-- [Обзор ARC Raiders. Экстракшен для всех и каждого](https://www.mirf.ru/games/arc-raiders-obzor) 👤 mirf.ru 💬 2507 🗓️ 2025-11-22
-- [](about:blank) 🗓️ 2025-11-22
-- [LLM APIs are a Synchronization Problem](https://lucumr.pocoo.org/2025/11/22/llm-apis/) 👤 Armin Ronacher 💬 1485 🗓️ 2025-11-22
-- [Гайд по кастомизации vscode: чистим status bar, пишем плагины на #javascript](https://www.youtube.com/watch?v=H5iVQZNk92s) 👤 Никита Соболев 🔖 #vscode 🗓️ 2025-11-21
+- [Gist of Go: Concurrency testing](https://antonz.org/go-concurrency/testing/) 👤 Anton Zhiyanov 💬 7291 🔖 #go, #testing 🗓️ 2025-11-24
+- [Роберт, ты мне не дядюшка](https://habr.com/ru/articles/875426/) 👤 Telichkin 💬 374 🗓️ 2025-11-24
+- [Structuring FastAPI application with multiple services using 3-tier design pattern.](https://viktorsapozhok.github.io/fastapi-oauth2-postgres/) 👤 Vanilla Ninja 💬 2161 🔖 #fastapi 🗓️ 2025-11-24
+- [One design pattern for FastAPI web applications](https://sqr-072.lsst.io/) 👤 Russ Allbery 💬 10483 🔖 #fastapi 🗓️ 2025-11-24
+- [GitHub - zhanymkanov/fastapi-best-practices: FastAPI Best Practices and Conventions we used at our startup](https://github.com/zhanymkanov/fastapi-best-practices) 👤 https://github.com/zhanymkanov/ 💬 3381 🔖 #fastapi 🗓️ 2025-11-24
+- [How to Implement Authentication in FastAPI: A Complete Developer's Guide](https://fastlaunchapi.dev/blog/how-to-implement-auth) 👤 Niklas L. 💬 3619 🔖 #fastapi 🗓️ 2025-11-24
+- [How to Structure a Scalable FastAPI Project](https://fastlaunchapi.dev/blog/how-to-structure-fastapi) 👤 Niklas L. 💬 1887 🔖 #fastapi 🗓️ 2025-11-24
+- [How to Write a Technical Book (Part 2)](https://third-bit.com/2022/06/20/how-to-write-a-technical-book-2/) 👤 third-bit.com 💬 555 🔖 #writingbook 🗓️ 2025-11-24
+- [10 Rules I Learned About Technical Writing](https://read.thecoder.cafe/p/10-technical-writing-rules) 👤 Teiva Harsanyi 💬 569 🔖 #writingbook 🗓️ 2025-11-24
+- [Writing Technical Books](https://paulcunningham.me/writing-technical-books/) 👤 Paul Cunningham 💬 4500 🔖 #writingbook 🗓️ 2025-11-24
+- [Ten simple rules for writing a technical book](https://pmc.ncbi.nlm.nih.gov/articles/PMC10414569/) 👤 Jess Haberman 💬 3336 🔖 #writingbook 🗓️ 2025-11-24
+- [13 Tips for Writing a Technical Book](https://borischerny.com/writing/2019/05/26/Tips-For-Writing-A-Technical-Book.html) 👤 Boris Cherny’s Blog 💬 1766 🔖 #writingbook 🗓️ 2025-11-24
+- [How to Write a Technical Book](https://third-bit.com/2022/06/19/how-to-write-a-technical-book/) 👤 third-bit.com 💬 999 🔖 #writingbook 🗓️ 2025-11-24
+- [Publishing a Technical Book (Part 3): The Writing Process](https://hookedondata.org/posts/2021-04-06_publishing-a-technical-book-part-3/) 👤 Emily Robinson 💬 1201 🔖 #writingbook 🗓️ 2025-11-24
+- [Writing a Technical Book: Motivation, Publishing and how to stay focused without ruining your Life](https://www.adamtornhill.com/articles/writingbook/writingtechbook.htm) 👤 Adam Tornhill 💬 4194 🔖 #writingbook 🗓️ 2025-11-24
 - [Что такое «цифровой этикет»?](https://digitaletiquette.ru/what_is_digital_etiquette) 👤 digitaletiquette.ru 💬 10 🗓️ 2025-11-18
 - [Build AI Agents with n8n | Complete Beginner’s Automation Course 2025](https://www.youtube.com/watch?si=dEipx48B3PxuzIgm&v=UtXzdmpysmU&feature=youtu.be) 👤 JavaScript Mastery 🗓️ 2025-11-14
 - [n8n Workflow Automation Tutorial – Create an Interview Scheduler & More Step-by-Step](https://www.youtube.com/watch?v=GIZzRGYpCbM) 👤 freeCodeCamp.org 🔖 #n8n 🗓️ 2025-11-13

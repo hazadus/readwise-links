@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 39
+- Всего ссылок: 40
 
 ## Ссылки
 
+- [Gist of Go: Concurrency testing](https://antonz.org/go-concurrency/testing/) 👤 Anton Zhiyanov 💬 7291 🔖 #go, #testing 🗓️ 2025-11-24
+    > **Резюме:** synctest.Test runs tests in a controlled "bubble" so goroutine scheduling and time can be simulated. synctest.Wait blocks until all other goroutines in the bubble are finished or durably blocked, letting the tester know a goroutine reached a known blocking point. Use synctest.Wait instead of sleep to avoid races and flaky tests; synctest.Test panics if goroutines stay permanently ununblockable.
 - [Thoughts on Testing January 4, 2024](https://www.brandons.me/blog/thoughts-on-testing?utm_source=substack&utm_medium=email) 👤 Brandon Smith 💬 1461 🔖 #testing, #joyandcuriosity 🗓️ 2025-09-28
     > **Резюме:** Tests help but they cost time because they are code to write, maintain, and run.  
 Only write tests that add lasting value: prefer static analysis, check intent not implementation, and avoid fragile mocked checks.  

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 236
+- Всего ссылок: 237
 
 ## Ссылки
 
+- [Gist of Go: Concurrency testing](https://antonz.org/go-concurrency/testing/) 👤 Anton Zhiyanov 💬 7291 🔖 #go, #testing 🗓️ 2025-11-24
+    > **Резюме:** synctest.Test runs tests in a controlled "bubble" so goroutine scheduling and time can be simulated. synctest.Wait blocks until all other goroutines in the bubble are finished or durably blocked, letting the tester know a goroutine reached a known blocking point. Use synctest.Wait instead of sleep to avoid races and flaky tests; synctest.Test panics if goroutines stay permanently ununblockable.
 - [Buil[d|t] To Learn • The Applied Go Weekly Newsletter 2025-11-09](https://newsletter.appliedgo.net/archive/2025-11-09-buildt-to-learn/) 👤 The Applied Go Weekly Newsletter 💬 909 🔖 #go 🗓️ 2025-11-11
     > **Резюме:** This newsletter highlights Go learning resources and new projects. It features tutorials on MQTT and JSON parsing, plus Go 1.25.4 and 1.24.10 releases. It also links libraries, tools, and articles to help you build and inspect projects.
 - [Go Faster With Green Tea • The Applied Go Weekly Newsletter 2025-11-02](https://newsletter.appliedgo.net/archive/2025-11-02-go-faster-with-green-tea/) 👤 The Applied Go Weekly Newsletter 💬 1134 🔖 #go 🗓️ 2025-11-04
@@ -528,8 +530,7 @@ An important thing is the dependency…
 - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang) 👤 Amos Wenger 💬 5259 🔖 #go 🗓️ 2024-12-27
     > **Резюме:** The article discusses common misconceptions that keep developers using Golang despite its flaws. It highlights that while Go has benefits like an easy learning curve and good performance, it can lead to complex problems and logic errors. Ultimately, the author argues that using Go may not be suitable for many projects unless you have a team of experts.
 - [Tracing or Preventing HTTP Redirects in Golang](https://jonathanmh.com/p/tracing-preventing-http-redirects-golang/) 👤 jonathanmh.com 💬 775 🔖 #go 🗓️ 2024-10-05
-    > **Резюме:** In this post we're going to have a look at how to have a close look at HTTP
-requests processed by G...
+    > **Резюме:** The post shows how Go's http client follows redirects by default. It explains how to stop automatic redirects using a custom http.Client with CheckRedirect and how to loop through Location headers to trace each redirect. The examples help build a redirect-checking tool.
 - [GopherSnippets - Go code snippets](https://gophersnippets.com) 👤 gophersnippets.com 💬 372 🔖 #go 🗓️ 2024-10-06
     > **Резюме:** Code snippets with tests and testable examples for the Go programming language
 - [An Introduction to Templates in Go - Calhoun.io](https://www.calhoun.io/intro-to-templates/) 👤 Jon Calhoun 💬 465 🔖 #go 🗓️ 2024-10-08

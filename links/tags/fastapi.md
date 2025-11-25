@@ -1,9 +1,27 @@
 # Ссылки
 
-- Всего ссылок: 28
+- Всего ссылок: 33
 
 ## Ссылки
 
+- [Structuring FastAPI application with multiple services using 3-tier design pattern.](https://viktorsapozhok.github.io/fastapi-oauth2-postgres/) 👤 Vanilla Ninja 💬 2161 🔖 #fastapi 🗓️ 2025-11-24
+    > **Резюме:** This tutorial shows how to structure a FastAPI app with routers, services, schemas, and models using a 3-tier pattern. It demonstrates integrating PostgreSQL via SQLAlchemy 2.0 and adding services like movies plus OAuth2 password auth with JWTs. Authentication includes password hashing, token creation, and token verification for protected routes.
+- [One design pattern for FastAPI web applications](https://sqr-072.lsst.io/) 👤 Russ Allbery 💬 10483 🔖 #fastapi 🗓️ 2025-11-24
+    > **Резюме:** The pattern organizes a FastAPI app into handlers, services, storage, models, and a factory that builds services via dependency injection. Use Pydantic for external models, dataclasses for internal models, and a request context to avoid long handler parameter lists. Document handlers well and keep configuration, fixtures, and operational docs in dedicated places.
+- [GitHub - zhanymkanov/fastapi-best-practices: FastAPI Best Practices and Conventions we used at our startup](https://github.com/zhanymkanov/fastapi-best-practices) 👤 https://github.com/zhanymkanov/ 💬 3381 🔖 #fastapi 🗓️ 2025-11-24
+    > **Резюме:** Use Pydantic extensively for data validation, including features like regex and enums.
+
+Utilize FastAPI's capabilities to handle both async and sync I/O operations effectively.
+
+Ensure FastAPI generates clear documentation by setting response models and status codes appropriately.
+- [How to Implement Authentication in FastAPI: A Complete Developer's Guide](https://fastlaunchapi.dev/blog/how-to-implement-auth) 👤 Niklas L. 💬 3619 🔖 #fastapi 🗓️ 2025-11-24
+    > **Резюме:** This guide shows how to build secure authentication in FastAPI, including registration, login, JWTs, OAuth, email verification, and password reset.  
+It explains token creation and refresh, protecting routes with dependencies, and best practices like short-lived access tokens and hashed refresh tokens.  
+Examples cover password hashing, sending verification emails, and handling errors for a smooth developer workflow.
+- [How to Structure a Scalable FastAPI Project](https://fastlaunchapi.dev/blog/how-to-structure-fastapi) 👤 Niklas L. 💬 1887 🔖 #fastapi 🗓️ 2025-11-24
+    > **Резюме:** Start with a modular, domain-driven FastAPI layout that groups routes, services, models, validators, and tests by feature.  
+Keep routes thin and put business and database logic in services so code is testable and maintainable.  
+Manage config, security, migrations, and versioned APIs separately to scale safely in production.
 - [Developing a Real-time Dashboard with FastAPI, Postgres, and WebSockets](https://testdriven.io/blog/fastapi-postgres-websockets/) 👤 testdriven.io 💬 3838 🔖 #try, #fastapi, #websocket, #postgresql 🗓️ 2025-07-18
     > **Резюме:** This tutorial shows how to build a real-time inventory dashboard using FastAPI, Postgres, and WebSockets. It explains how to send live database updates to the frontend using Postgres triggers and WebSocket connections. The result is a responsive app that updates instantly when inventory changes happen.
 - [What's up Python? Mypy gets better, uv faster, FastApi easier, Emscripten formal...er](https://www.bitecode.dev/p/whats-up-python-mypy-gets-better) 👤 Bite Code! 💬 1296 🔖 #uv, #mypy, #python, #fastapi 🗓️ 2025-07-07

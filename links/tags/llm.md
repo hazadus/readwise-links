@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 291
+- Всего ссылок: 293
 
 ## Ссылки
 
+- [Agent Design Is Still Hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/) 👤 Armin Ronacher 💬 2566 🔖 #llm, #agents 🗓️ 2025-11-24
+    > **Резюме:** Building agents is still messy and existing SDK abstractions often break with real tool use.  
+Explicit control—especially direct SDK use and explicit cache management—makes agent behavior, costs, and reinforcement clearer.  
+Designing useful agent loops requires careful handling of tools, sub-agents, outputs, and state to avoid dead ends and unwanted leaked information.
+- [LLM APIs are a Synchronization Problem](https://lucumr.pocoo.org/2025/11/22/llm-apis/) 👤 Armin Ronacher 💬 1485 🔖 #llm 🗓️ 2025-11-22
+    > **Резюме:** LLM APIs hide important model state and treat conversations as simple message chains, which breaks how models actually work. This causes expensive, fragile sync problems when clients and servers must reconcile hidden tokens, caches, and provider-only data. We should design APIs around explicit state synchronization, replay, and failure handling instead of current message-first abstractions.
 - [Coding at work (after a decade away).](https://lethain.com/coding-at-work/) 👤 lethain.com 💬 1526 🔖 #llm, #management, #development 🗓️ 2025-11-19
     > **Резюме:** After a decade away from hands-on coding, the author returned to writing small, useful pull requests as a manager and completed 104 in six months. New AI coding tools and better judgment about which problems to pick made it possible to do meaningful work in short time blocks. Manager coding can help if you pick high-value, non-urgent tasks and fully own their release and maintenance.
 - [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini) 👤 Ethan Mollick 💬 1851 🔖 #llm, #gemini 🗓️ 2025-11-18
