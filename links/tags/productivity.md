@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 25
+- Всего ссылок: 26
 
 ## Ссылки
 
+- [Be a Magpie. You'll Get More Done.](https://www.joanwestenberg.com/p/be-a-magpie-you-ll-get-more-done) 👤 JA Westenberg 💬 1113 🔖 #productivity 🗓️ 2025-11-04
+    > **Резюме:** Don't follow one productivity system slavishly.  
+Take useful ideas from many methods and build a system that fits you.  
+Keep what helps, discard what doesn't.
 - [Why Billionaire Productivity Hacks Won’t Work for You](https://www.joanwestenberg.com/p/why-billionaire-productivity-hacks-won-t-work-for-you) 👤 JA Westenberg 💬 1079 🔖 #productivity 🗓️ 2025-09-15
     > **Резюме:** Billionaire routines and productivity hacks often don't fit most people's lives. Advice only works if you share the giver's resources and context, which most of us do not. Treat tips as experiments and learn from people whose lives resemble your own.
 - [Chapter 11 - Building a Second Brain](https://readwise.io/reader/document_raw_content/2217137) 💬 2498 🔖 #basb, #productivity 🗓️ 2024-11-21

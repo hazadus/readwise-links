@@ -4,6 +4,8 @@
 
 ## Ссылки
 
+- [What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/) 👤 Terrible Software 💬 563 🔖 #career, #softwarecraft 🗓️ 2025-11-26
+    > **Резюме:** Senior engineers’ core skill is reducing ambiguity. They turn fuzzy problems into clear, actionable plans by asking the right questions. That upfront work prevents surprises and makes other skills actually valuable.
 - [You have two jobs](https://jacobian.org/2017/nov/1/you-have-two-jobs/?utm_source=substack&utm_medium=email) 👤 jacobian.org 💬 526 🔖 #career, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
     > **Резюме:** Your job involves writing good code and being easy to work with. Building strong relationships with colleagues is crucial for success in your role. Both technical skills and good relationships are essential for solving problems effectively.
 - [There is Only One Hack: Do it for a Decade.](https://www.joanwestenberg.com/p/there-is-only-one-hack-do-it-for-a-decade) 👤 JA Westenberg 💬 636 🔖 #toot, #career, #learning, #time management 🗓️ 2025-10-11
@@ -40,8 +42,6 @@ All of that counts, even when it’s hard to measure, so don’t be so hard on y
     > **Резюме:** Technical interviews often focus on complex algorithms, but most programming doesn't require this skill. The key to successful coding is organizing and managing complexity rather than mastering tricky data structures. Many programmers are self-taught and focus on practical problem-solving rather than theoretical knowledge.
 - [Do You Really Want to be Doing This When You're 50?](https://prog21.dadgum.com/154.html) 👤 prog21.dadgum.com 💬 495 🔖 #career 🗓️ 2025-08-13
     > **Резюме:** The author reflects on the frustrations of programming as one gets older, highlighting the challenges of constantly evolving technologies and the pressure to keep up with them. While still enjoying building things on a smaller scale, the author acknowledges that large-scale, high-stress coding may be better suited for younger individuals.
-- [Ludic's Guide To Getting Software Engineering Jobs](https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/) 👤 mataroa.blog 💬 8531 🔖 #career 🗓️ 2025-08-07
-    > **Резюме:** Getting software engineering jobs often means starting with many mediocre, short-term roles. Success comes from quickly applying, not stressing about perfect fits, and being open to day-rate contracts. Building connections and being clear about your needs helps find better, well-paid jobs later.
 - [From trying to impress engineers to trying to impress managers](https://seangoedecke.com/impressing-people/) 👤 seangoedecke.com 💬 1335 🔖 #career 🗓️ 2025-08-02
     > **Резюме:** Early in a tech career, engineers want to impress senior engineers by solving hard problems. As they grow, they must impress managers and product managers, who value speed and delivery more than deep technical skill. This shift can feel unsatisfying, and engineers handle it by adapting, opting out, or finding personal meaning beyond others’ approval.
 - [Why Cringe Tolerance Separates Builders from Non-Builders](https://www.joanwestenberg.com/p/why-cringe-tolerance-separates-builders-from-non-builders-590c09e6f3021d4f) 👤 Joan Westenberg 💬 938 🔖 #career, #learning 🗓️ 2025-07-16

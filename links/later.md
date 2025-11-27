@@ -1,23 +1,21 @@
 # Отложенные ссылки
 
-- Всего ссылок: 123
+- Всего ссылок: 117
 
 ## Ссылки
 
+- [Becoming unblockable](https://seangoedecke.com/unblockable/) 👤 seangoedecke.com 💬 1868 🗓️ 2025-11-26
+    > **Резюме:** To avoid being blocked, work on multiple tasks and plan your projects to handle delays early. Keep your developer tools stable and learn to troubleshoot problems outside your area. Build good relationships with teammates and ask senior managers for help when needed.
+- [Unit Testing (Vitest) Tutorial #1 - What is Unit Testing?](https://www.youtube.com/watch?v=XdDZKeM5_pQ) 👤 Net Ninja 🔖 #vitest 🗓️ 2025-11-26
+    > **Резюме:** The video explains what unit testing is and why it helps you write better JavaScript code. It compares unit tests to integration and end-to-end tests and shows unit tests focus on small, isolated functions. It also introduces Vitest and basic project setup for running tests.
 - [GitHub: top commands in gh, the official GitHub CLI](https://adamj.eu/tech/2025/11/24/github-top-gh-cli-commands/) 👤 adamj.eu 💬 5208 🔖 #cli, #try, #github 🗓️ 2025-11-24
     > **Резюме:** The GitHub CLI (gh) lets you create, view, checkout, and merge pull requests from the command line. It offers interactive prompts, web mode, and options like auto-merge and push prompts to simplify workflows. gh also shows and watches GitHub Actions runs so you can monitor CI from your terminal.
-- [Agent Design Is Still Hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/) 👤 Armin Ronacher 💬 2566 🔖 #llm, #agents 🗓️ 2025-11-24
-    > **Резюме:** Building agents is still messy and existing SDK abstractions often break with real tool use.  
-Explicit control—especially direct SDK use and explicit cache management—makes agent behavior, costs, and reinforcement clearer.  
-Designing useful agent loops requires careful handling of tools, sub-agents, outputs, and state to avoid dead ends and unwanted leaked information.
 - [Get Notified When Claude Code Finishes With Hooks](https://alexop.dev/posts/claude-code-notification-hooks/) 👤 Alexander Opalic 💬 736 🔖 #try, #claude 🗓️ 2025-11-24
     > **Резюме:** Claude Code can run hooks that trigger desktop notifications when it needs your attention. Set a simple .claude/settings.json and a notification script to handle permission_prompt and idle_prompt events. This stops you from constantly checking the terminal and brings you back only when needed.
 - [High-Performance Syntax Highlighting with CSS Highlights API](https://pavi2410.com/blog/high-performance-syntax-highlighting-with-css-highlights-api/?utm_source=tldrwebdev) 👤 Pavitra Golchha 💬 1054 🔖 #css 🗓️ 2025-11-23
     > **Резюме:** Traditional syntax highlighting creates many span elements, which slows rendering and uses more memory.  
 The CSS Custom Highlight API uses lightweight Range objects and CSS ::highlight rules to style text without changing the DOM, making rendering faster and leaner.  
 It works in modern browsers but needs fallbacks for older ones and only supports single text-node content.
-- [Shadow work in engineering teams](https://newsletter.manager.dev/p/the-shadow-work-in-engineering-teams) 👤 Anton Zaides 💬 1432 🗓️ 2025-11-18
-    > **Резюме:** Many important engineering tasks are invisible and eat teams’ time. This “shadow work” — ad-hoc support, glue work like reviews, and a hidden backlog — reduces capacity and creates bottlenecks. Make hidden work visible and distribute it so seniors aren’t overloaded and planning is accurate.
 - [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #learning 🗓️ 2025-11-17
     > **Резюме:** Software development is a learning loop: you must try, fail, and iterate to discover the right design. LLMs and starter kits speed setup and translation between languages but can hide crucial context and stunt learning. True long-term velocity comes from developers internalizing how systems work, not from shortcuts that bypass the learning loop.
 - [Some software bloat is OK](https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok?utm_source=tldrwebdev) 👤 WaspDev Blog 💬 1308 🗓️ 2025-11-12
@@ -28,10 +26,6 @@ Choose good algorithms early and optimize hotspots when needed to avoid costly r
     > **Резюме:** Pgvector makes vector search easy to try in Postgres but has serious production limits. Indexing, memory use, realtime inserts, and filtered queries are hard to manage and often require rebuilds or complex tuning. For most teams, a dedicated managed vector database is simpler and more reliable.
 - [Junior vs Senior: Building Modals in Vue](https://michaelnthiessen.com/junior-vs-senior-modals?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(242)+When+ref+and+reactive+work+the+same,+how+to+make+a+variable+created+outside+of+Vue+reactive,+and+more+-+19594812&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1564 🔖 #vue 🗓️ 2025-11-12
     > **Резюме:** Modals reveal how you think about building apps: juniors tie state and UI together, seniors separate concerns. Use a global data store, humble presentation components, and controller components to make modals scalable and testable. These patterns generalize beyond modals and change how you design Vue apps.
-- [Web Weekly #174](https://www.stefanjudis.com/blog/web-weekly-174/) 👤 stefanjudis.com 💬 987 🗓️ 2025-11-11
-    > **Резюме:** This newsletter shares new web development tips, tools, and features like error.cause and CSS localized quotes. It highlights creative personal websites and useful resources for improving site performance and security. The author also invites readers to join the community and support the indie newsletter.
-- [What's up Python? You already know :)](https://framapiaf.org/@bitecode/115521922015655903) 👤 Framapiaf 💬 58 🔖 #python 🗓️ 2025-11-11
-    > **Резюме:** This post highlights Python and why people already like it. It points readers to Bite Code's article and link. It suggests Mastodon as a good way to follow updates.
 - [Managing Your Manager](https://yusufaytas.com/managing-your-manager/) 👤 https://www.facebook.com/yusufaytas 💬 2404 🗓️ 2025-11-09
     > **Резюме:** Managers face pressures you may not see, so learn how they think and what they must balance.  
 Make their job easier by bringing clear solutions, predictable updates, and adapting to their style.  
@@ -63,18 +57,12 @@ It also shows creating commands, autocommands, and splitting config into modules
     > **Резюме:** This series teaches Lua programming, starting with basic syntax and concepts in Part 1. It is designed for those who already know how to code, covering topics like loops, functions, and operators. Additional parts will explore data types, advanced concepts, and useful tips.
 - [Code execution with MCP: Building more efficient agents](https://simonwillison.net/2025/Nov/4/code-execution-with-mcp/#atom-everything) 👤 Simon Willison 💬 401 🗓️ 2025-11-05
     > **Резюме:** Anthropic proposes turning MCP tools into code functions saved on disk so agents can call them without filling the model context. This lets agents generate executable code that wires tools together, avoiding token bloat, extra round-trips, and exposure of sensitive data. The plan is promising but Anthropic provided no implementation — readers must build it themselves.
-- [Burning out](https://www.interconnects.ai/p/burning-out?utm_source=substack&utm_medium=email) 👤 Nathan Lambert 💬 2007 🔖 #joyandcuriosity 🗓️ 2025-11-04
-    > **Резюме:** AI work culture has become extreme, with many people overworking to stay competitive in LLM development. This intense pace raises burnout, harms creativity, and makes team culture and rest crucial. The author keeps pushing to improve open models despite the personal cost.
 - [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html?utm_source=tldrwebdev) 👤 Ahmad Elalfy 💬 2340 🔖 #http, #webdev 🗓️ 2025-11-04
     > **Резюме:** URLs can and should hold app state so pages are shareable, bookmarkable, and restorable.  
 Good URL design makes intent, context, and caching explicit.  
 Put public, meaningful state in the URL and keep sensitive or transient state out.
 - [Kafka is fast -- I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks?utm_source=tldrwebdev) 👤 TopicPartition 💬 6636 🔖 #kafka, #postgresql 🗓️ 2025-11-04
     > **Резюме:** Postgres is simple, reliable, and often good enough instead of deploying Kafka for small-to-medium pub-sub or queue workloads. Benchmarks show modest Postgres clusters can durably handle thousands to hundreds of thousands of messages per second with low latency. Use Postgres first and only add complex distributed systems like Kafka when you truly outgrow it.
-- [Be a Magpie. You'll Get More Done.](https://www.joanwestenberg.com/p/be-a-magpie-you-ll-get-more-done) 👤 JA Westenberg 💬 1113 🗓️ 2025-11-04
-    > **Резюме:** Don't follow one productivity system slavishly.  
-Take useful ideas from many methods and build a system that fits you.  
-Keep what helps, discard what doesn't.
 - [Absurd Workflows: Durable Execution With Just Postgres](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/) 👤 Armin Ronacher 💬 1030 🗓️ 2025-11-04
     > **Резюме:** Armin Ronacher built Absurd, a tiny SQL-only library that implements durable workflows using just Postgres. It stores task state as checkpoints and uses Postgres queues so tasks survive crashes, suspends, and retries. The point: durable execution is simple and doesn’t need extra services or complex systems.
 - [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) 👤 Shrivu Shankar 💬 3126 🔖 #llm, #claude 🗓️ 2025-11-02
@@ -85,7 +73,7 @@ Keep what helps, discard what doesn't.
     > **Резюме:** Taking initiative (agency) matters more than raw intelligence for long-term success. High-agency people act, learn from feedback, and turn ideas into results. Hire and teach agency because it’s rare, valuable, and can be developed.
 - [Diskcache, more than caching](https://www.bitecode.dev/p/diskcache-more-than-caching) 👤 Bite Code! 💬 1310 🗓️ 2025-10-20
     > **Резюме:** Diskcache is a lightweight Python key/value store built on SQLite that acts like a local subset of Redis. It provides fast caching plus transactions, tagging, queues, locks, sharding, and tools to avoid race conditions. You can use it across processes for caching, simple queues, and coordinated concurrency.
-- [Using Asyncpg with FastAPI and Air](https://daniel.feldroy.com/posts/2025-10-using-asyncpg-with-fastapi-and-air) 👤 https://daniel.feldroy.com 💬 709 🗓️ 2025-10-20
+- [Using Asyncpg with FastAPI and Air](https://daniel.feldroy.com/posts/2025-10-using-asyncpg-with-fastapi-and-air) 👤 https://daniel.feldroy.com 💬 709 🔖 #fastapi 🗓️ 2025-10-20
     > **Резюме:** The article shows how to use asyncpg directly with FastAPI and Air to talk to PostgreSQL without an ORM. It uses an ASGI lifespan function to create and close a connection pool on startup and shutdown. Examples show querying and inserting data, with Pydantic used to validate incoming input.
 - [How to build a remarkable command palette](https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email) 👤 Tim Boucher 💬 2747 🔖 #joyandcuriosity 🗓️ 2025-10-19
     > **Резюме:** A command palette is a user interface tool that allows quick access to various commands, making it easier for users to discover features. To build an effective command palette, ensure it is available everywhere, centralizes all commands, and offers flexibility in command matching. By following these principles, you can create a powerful and user-friendly command palette that enhances productivity.
@@ -252,7 +240,7 @@ The hard move from Python 2 to 3 proved the community's strength and spread Pyth
     > **Резюме:** This blog explains how to change a Python function's code while the program runs using compile and exec. The author built ToolBot, which can create and run new functions that use current variables. This method is powerful but has security risks and should be used carefully.
 - [Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html) 👤 Ben O'Mahony 💬 2899 🔖 #llm, #agents 🗓️ 2025-08-27
     > **Резюме:** They built a CLI coding agent using Pydantic‑AI and MCP that reads code, runs tests, and edits files. MCP servers add sandboxed Python, code reasoning, and file/terminal tools so the model can act. The result is faster, context‑aware development that works best when tailored to your codebase.
-- [Building AI Products In The Probabilistic Era](https://giansegato.com/essays/probabilistic-era?utm_source=substack&utm_medium=email) 👤 giansegato.com 💬 4463 🔖 #joyandcuriosity 🗓️ 2025-08-24
+- [Building AI Products In The Probabilistic Era](https://giansegato.com/essays/probabilistic-era?utm_source=substack&utm_medium=email) 👤 giansegato.com 💬 4463 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-24
     > **Резюме:** AI is probabilistic, not deterministic, and often behaves in unexpected ways.  
 Product teams must use continuous data, test real user trajectories, and accept some unpredictability instead of trying to fully control models.  
 Organizations that think empirically and in probabilities will win the next era.
@@ -281,10 +269,6 @@ This issue wraps up the Go & AI mini‑series and asks readers to take a short f
     > **Резюме:** This article explains how to use ephemeral PostgreSQL instances for automated testing in Go, which can reduce resource usage and speed up test times. By starting a single PostgreSQL instance for all tests instead of multiple instances, developers can improve efficiency and maintainability. Additionally, optimizing the Go test caching behavior can further decrease test runtime significantly.
 - [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html?utm_source=substack&utm_medium=email) 👤 a1k0n.net 💬 2469 🔖 #joyandcuriosity 🗓️ 2025-08-10
     > **Резюме:** The code draws a spinning 3D donut using ASCII characters by projecting 3D points onto a 2D screen with math involving rotations and perspective. It calculates the brightness of each point based on lighting and chooses characters to show shading. This creates a cool visual effect of a rotating donut made from simple text symbols.
-- [Ludic's Guide To Getting Software Engineering Jobs](https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/) 👤 mataroa.blog 💬 8531 🔖 #career 🗓️ 2025-08-07
-    > **Резюме:** Getting software engineering jobs often means starting with many mediocre, short-term roles. Success comes from quickly applying, not stressing about perfect fits, and being open to day-rate contracts. Building connections and being clear about your needs helps find better, well-paid jobs later.
-- [Why Building Billing Systems is So Painful](https://www.dmitry.ie/2024/why-building-billing-systems-is-so-painful?utm_source=tldrwebdev) 👤 dmitry.ie 💬 1859 🗓️ 2025-08-07
-    > **Резюме:** Billing systems are very complex because they must handle many pricing models, currencies, taxes, and real-time usage tracking. They serve many customers inside a company, like finance, sales, and product teams, each with different needs. Building billing right is hard but important, as it is a critical part of business infrastructure that drives growth and success.
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) 👤 Redowan Delowar 💬 1179 🔖 #go 🗓️ 2025-08-04
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
 - [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) 👤 Software Engineering & Personal Thoughts 💬 1511 🔖 #go 🗓️ 2025-08-04

@@ -4,8 +4,8 @@
 
 ## Ссылки
 
+- [Web Weekly #176](https://www.stefanjudis.com/blog/web-weekly-176/) 👤 stefanjudis.com 💬 1164 🗓️ 2025-11-26
 - [Gist of Go: Concurrency testing](https://antonz.org/go-concurrency/testing/) 👤 Anton Zhiyanov 💬 7291 🔖 #go, #testing 🗓️ 2025-11-24
-- [Роберт, ты мне не дядюшка](https://habr.com/ru/articles/875426/) 👤 Telichkin 💬 374 🗓️ 2025-11-24
 - [Structuring FastAPI application with multiple services using 3-tier design pattern.](https://viktorsapozhok.github.io/fastapi-oauth2-postgres/) 👤 Vanilla Ninja 💬 2161 🔖 #fastapi 🗓️ 2025-11-24
 - [One design pattern for FastAPI web applications](https://sqr-072.lsst.io/) 👤 Russ Allbery 💬 10483 🔖 #fastapi 🗓️ 2025-11-24
 - [GitHub - zhanymkanov/fastapi-best-practices: FastAPI Best Practices and Conventions we used at our startup](https://github.com/zhanymkanov/fastapi-best-practices) 👤 https://github.com/zhanymkanov/ 💬 3381 🔖 #fastapi 🗓️ 2025-11-24

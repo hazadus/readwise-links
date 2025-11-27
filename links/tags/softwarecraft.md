@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 24
+- Всего ссылок: 25
 
 ## Ссылки
 
+- [What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/) 👤 Terrible Software 💬 563 🔖 #career, #softwarecraft 🗓️ 2025-11-26
+    > **Резюме:** Senior engineers’ core skill is reducing ambiguity. They turn fuzzy problems into clear, actionable plans by asking the right questions. That upfront work prevents surprises and makes other skills actually valuable.
 - [I want to see the claw](https://vickiboykis.com/2025/10/20/i-want-to-see-the-claw/?utm_source=substack&utm_medium=email) 👤 ★❤✰ Vicki Boykis ★❤✰  💬 861 🔖 #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
     > **Резюме:** The author values craftsmanship in software and the people who strive for mastery. They worry generative models produce mediocre code and make true care rarer. They want software that shows the "claw"—clear evidence of human care and skill.
 - [You have two jobs](https://jacobian.org/2017/nov/1/you-have-two-jobs/?utm_source=substack&utm_medium=email) 👤 jacobian.org 💬 526 🔖 #career, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29

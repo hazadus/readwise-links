@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 293
+- Всего ссылок: 295
 
 ## Ссылки
 
@@ -33,6 +33,8 @@ He published it on GitHub and uses it to speed up Vue-focused workflows and iter
     > **Резюме:** Josh built small AI projects for fun and to explore "vibe coding."  
 He made tools like HN Slop, Claudius, Rate My Prompt, and Promptlet to make agents and prompts easier to use.  
 He says AI speeds the first 80% of work, but the final 20% and finding real users remain hard.
+- [Burning out](https://www.interconnects.ai/p/burning-out?utm_source=substack&utm_medium=email) 👤 Nathan Lambert 💬 2007 🔖 #llm, #burnout 🗓️ 2025-11-04
+    > **Резюме:** AI work culture has become extreme, with many people overworking to stay competitive in LLM development. This intense pace raises burnout, harms creativity, and makes team culture and rest crucial. The author keeps pushing to improve open models despite the personal cost.
 - [Is it worrying that 95% of AI enterprise projects fail?](https://seangoedecke.com/why-do-ai-enterprise-projects-fail/) 👤 seangoedecke.com 💬 1660 🔖 #llm 🗓️ 2025-11-04
     > **Резюме:** A report claimed 95% of enterprise AI projects deliver no return. The author says that high failure rate is similar to ordinary IT projects and partly reflects AI being new and unusually complex. He also questions the report’s methods and expects AI to be transformative despite a likely bubble.
 - [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) 👤 Shrivu Shankar 💬 3126 🔖 #llm, #claude 🗓️ 2025-11-02
@@ -226,6 +228,10 @@ If we fail at education and governance, AI will enable cheating and worsen inequ
     > **Резюме:** Zed now lets you run third-party agents inside the editor via a new Agent Client Protocol (ACP). Gemini CLI is the first reference implementation and shows editor features like live edit previews and multi-buffer reviews. ACP is open-source, keeps your code local, and aims to let many agents and editors interoperate.
 - [The Coding Agent Metagame](https://calv.info/coding-agent-metagame) 👤 calv.info 💬 1817 🔖 #llm 🗓️ 2025-08-27
     > **Резюме:** Claude Code is a fun and lightweight coding tool that feels like a game and helps developers enjoy programming more. It lets users customize how they work with AI, improving both productivity and trust in the tool. The key to its success is the ability to tweak the "product harness," making coding feel like a flow state and a creative metagame.
+- [Building AI Products In The Probabilistic Era](https://giansegato.com/essays/probabilistic-era?utm_source=substack&utm_medium=email) 👤 giansegato.com 💬 4463 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-24
+    > **Резюме:** AI is probabilistic, not deterministic, and often behaves in unexpected ways.  
+Product teams must use continuous data, test real user trajectories, and accept some unpredictability instead of trying to fully control models.  
+Organizations that think empirically and in probabilities will win the next era.
 - [What could have been.](https://coppolaemilio.com/entries/what-could-have-been/?utm_source=tldrwebdev) 👤 Emi's Blog 💬 841 🔖 #llm 🗓️ 2025-08-24
     > **Резюме:** The tech industry spends too much time and money chasing AI hype instead of fixing and improving existing software. Many AI features add little value and make software worse, while real problems remain unsolved. Even if the AI craze ends, the lost years and missed opportunities cannot be regained.
 - [GPT-5: Overdue, overhyped and underwhelming. And that’s not the worst of it.](https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming) 👤 Gary Marcus 💬 2405 🔖 #llm 🗓️ 2025-08-24

@@ -1,11 +1,9 @@
 # Ссылки
 
-- Всего ссылок: 44
+- Всего ссылок: 43
 
 ## Ссылки
 
-- [Burning out](https://www.interconnects.ai/p/burning-out?utm_source=substack&utm_medium=email) 👤 Nathan Lambert 💬 2007 🔖 #joyandcuriosity 🗓️ 2025-11-04
-    > **Резюме:** AI work culture has become extreme, with many people overworking to stay competitive in LLM development. This intense pace raises burnout, harms creativity, and makes team culture and rest crucial. The author keeps pushing to improve open models despite the personal cost.
 - [AI is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more?utm_source=substack&utm_medium=email) 👤 tawandamunongo.dev 💬 1439 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-29
     > **Резюме:** AI tools promised more freedom but are driving people to work longer and harder. The always-on nature of AI creates guilt for resting and fuels a 996-style hustle. Saying "enough" and setting boundaries may be the radical act we need to protect creativity and well-being.
 - [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/?utm_source=substack&utm_medium=email) 👤 allvpv <Przemysław Kusiak> 💬 986 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-29
@@ -92,7 +90,7 @@ Their friendship and complementary skills let other engineers build huge distrib
     > **Резюме:** Objects in 3D are placed by x, y, z coordinates.  
 If x, y, z are functions of time, the object follows paths like circles, spirals, or a spherical helix.  
 Parametric equations let you create and visualize any motion.
-- [Building AI Products In The Probabilistic Era](https://giansegato.com/essays/probabilistic-era?utm_source=substack&utm_medium=email) 👤 giansegato.com 💬 4463 🔖 #joyandcuriosity 🗓️ 2025-08-24
+- [Building AI Products In The Probabilistic Era](https://giansegato.com/essays/probabilistic-era?utm_source=substack&utm_medium=email) 👤 giansegato.com 💬 4463 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-24
     > **Резюме:** AI is probabilistic, not deterministic, and often behaves in unexpected ways.  
 Product teams must use continuous data, test real user trajectories, and accept some unpredictability instead of trying to fully control models.  
 Organizations that think empirically and in probabilities will win the next era.
