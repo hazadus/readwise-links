@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 873
+- Всего ссылок: 874
 
 ## Ссылки
 
+- [Неоновые ночи, мертвые каналы: 10 ранних киберпанковских фильмов](https://disgustingmen.com/kino/10-early-cyberpunk-movies/) 👤 Дмитрий Соколов 💬 2977 🗓️ 2025-11-27
 - [Web Weekly #176](https://www.stefanjudis.com/blog/web-weekly-176/) 👤 stefanjudis.com 💬 1164 🗓️ 2025-11-26
 - [Gist of Go: Concurrency testing](https://antonz.org/go-concurrency/testing/) 👤 Anton Zhiyanov 💬 7291 🔖 #go, #testing 🗓️ 2025-11-24
 - [Structuring FastAPI application with multiple services using 3-tier design pattern.](https://viktorsapozhok.github.io/fastapi-oauth2-postgres/) 👤 Vanilla Ninja 💬 2161 🔖 #fastapi 🗓️ 2025-11-24
