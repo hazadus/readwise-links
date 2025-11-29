@@ -1,17 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 117
+- Всего ссылок: 113
 
 ## Ссылки
 
-- [Becoming unblockable](https://seangoedecke.com/unblockable/) 👤 seangoedecke.com 💬 1868 🗓️ 2025-11-26
-    > **Резюме:** To avoid being blocked, work on multiple tasks and plan your projects to handle delays early. Keep your developer tools stable and learn to troubleshoot problems outside your area. Build good relationships with teammates and ask senior managers for help when needed.
 - [Unit Testing (Vitest) Tutorial #1 - What is Unit Testing?](https://www.youtube.com/watch?v=XdDZKeM5_pQ) 👤 Net Ninja 🔖 #vitest 🗓️ 2025-11-26
     > **Резюме:** The video explains what unit testing is and why it helps you write better JavaScript code. It compares unit tests to integration and end-to-end tests and shows unit tests focus on small, isolated functions. It also introduces Vitest and basic project setup for running tests.
-- [GitHub: top commands in gh, the official GitHub CLI](https://adamj.eu/tech/2025/11/24/github-top-gh-cli-commands/) 👤 adamj.eu 💬 5208 🔖 #cli, #try, #github 🗓️ 2025-11-24
-    > **Резюме:** The GitHub CLI (gh) lets you create, view, checkout, and merge pull requests from the command line. It offers interactive prompts, web mode, and options like auto-merge and push prompts to simplify workflows. gh also shows and watches GitHub Actions runs so you can monitor CI from your terminal.
-- [Get Notified When Claude Code Finishes With Hooks](https://alexop.dev/posts/claude-code-notification-hooks/) 👤 Alexander Opalic 💬 736 🔖 #try, #claude 🗓️ 2025-11-24
-    > **Резюме:** Claude Code can run hooks that trigger desktop notifications when it needs your attention. Set a simple .claude/settings.json and a notification script to handle permission_prompt and idle_prompt events. This stops you from constantly checking the terminal and brings you back only when needed.
 - [High-Performance Syntax Highlighting with CSS Highlights API](https://pavi2410.com/blog/high-performance-syntax-highlighting-with-css-highlights-api/?utm_source=tldrwebdev) 👤 Pavitra Golchha 💬 1054 🔖 #css 🗓️ 2025-11-23
     > **Резюме:** Traditional syntax highlighting creates many span elements, which slows rendering and uses more memory.  
 The CSS Custom Highlight API uses lightweight Range objects and CSS ::highlight rules to style text without changing the DOM, making rendering faster and leaner.  
@@ -30,10 +24,6 @@ Choose good algorithms early and optimize hotspots when needed to avoid costly r
     > **Резюме:** Managers face pressures you may not see, so learn how they think and what they must balance.  
 Make their job easier by bringing clear solutions, predictable updates, and adapting to their style.  
 Do this consistently and you gain trust, autonomy, and real influence.
-- [Building My First Claude Code Plugin](https://alexop.dev/posts/building-my-first-claude-code-plugin/) 👤 Alexander Opalic 💬 662 🔖 #llm 🗓️ 2025-11-09
-    > **Резюме:** Alexander built a Claude Code plugin that auto-generates commands, skills, agents, hooks, and boilerplate.  
-It saves time by creating properly structured files and frontmatter so he no longer copies templates.  
-He published it on GitHub and uses it to speed up Vue-focused workflows and iterate on tooling.
 - [AiDHD](https://www.josh.ing/blog/aidhd) 👤 Josh Cohenzadeh 💬 2219 🔖 #llm 🗓️ 2025-11-09
     > **Заметка:** Via Simon Willison
     > **Резюме:** Josh built small AI projects for fun and to explore "vibe coding."  

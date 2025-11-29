@@ -1,12 +1,15 @@
 # Архивные ссылки
 
-- Всего ссылок: 1217
+- Всего ссылок: 1221
 
 ## Ссылки
 
+- [Becoming unblockable](https://seangoedecke.com/unblockable/) 👤 seangoedecke.com 💬 1868 🔖 #softwarecraft 🗓️ 2025-11-26
 - [What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/) 👤 Terrible Software 💬 563 🔖 #career, #softwarecraft 🗓️ 2025-11-26
 - [Every Decision Has Three Costs: Time, Focus, and Optionality](https://www.joanwestenberg.com/p/every-decision-has-three-costs-time-focus-and-optionality) 👤 JA Westenberg 💬 1010 🗓️ 2025-11-26
+- [GitHub: top commands in gh, the official GitHub CLI](https://adamj.eu/tech/2025/11/24/github-top-gh-cli-commands/) 👤 adamj.eu 💬 5208 🔖 #cli, #try, #github 🗓️ 2025-11-24
 - [Agent Design Is Still Hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/) 👤 Armin Ronacher 💬 2566 🔖 #llm, #agents 🗓️ 2025-11-24
+- [Get Notified When Claude Code Finishes With Hooks](https://alexop.dev/posts/claude-code-notification-hooks/) 👤 Alexander Opalic 💬 736 🔖 #claude 🗓️ 2025-11-24
 - [ООП: худшее, что случалось с программированием [24.02.2025]](https://alexanderdanilov.dev/ru/articles/oop) 👤 Александр Данилов 💬 4864 🔖 #programming 🗓️ 2025-11-23
 - [LLM APIs are a Synchronization Problem](https://lucumr.pocoo.org/2025/11/22/llm-apis/) 👤 Armin Ronacher 💬 1485 🔖 #llm 🗓️ 2025-11-22
 - [Гайд по кастомизации vscode: чистим status bar, пишем плагины на #javascript](https://www.youtube.com/watch?v=H5iVQZNk92s) 👤 Никита Соболев 🔖 #vscode 🗓️ 2025-11-21
@@ -27,6 +30,7 @@
 - [Обзор The Outer Worlds 2 - И смех и корпоративный грех I Битый Пиксель](https://www.youtube.com/watch?v=ZoebMF322NA) 👤 Битый Пиксель 🔖 #game 🗓️ 2025-11-12
 - [Web Weekly #174](https://www.stefanjudis.com/blog/web-weekly-174/) 👤 stefanjudis.com 💬 987 🗓️ 2025-11-11
 - [To get better at technical writing, lower your expectations](https://seangoedecke.com/technical-communication/) 👤 seangoedecke.com 💬 1436 🔖 #writing 🗓️ 2025-11-09
+- [Building My First Claude Code Plugin](https://alexop.dev/posts/building-my-first-claude-code-plugin/) 👤 Alexander Opalic 💬 662 🔖 #llm, #claude 🗓️ 2025-11-09
 - [A Developer's experience with weight loss injections](http://willmcgugan.github.io/weight-loss/) 👤 Will McGugan 💬 1686 🔖 #health 🗓️ 2025-11-07
 - [Build your modern Neovim config in Lua](https://m4xshen.dev/posts/build-your-modern-neovim-config-in-lua?utm_source=perplexity) 👤 m4xshen.dev 💬 948 🔖 #lua, #vim 🗓️ 2025-11-05
 - [Burning out](https://www.interconnects.ai/p/burning-out?utm_source=substack&utm_medium=email) 👤 Nathan Lambert 💬 2007 🔖 #llm, #burnout 🗓️ 2025-11-04

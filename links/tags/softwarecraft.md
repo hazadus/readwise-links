@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 25
+- Всего ссылок: 26
 
 ## Ссылки
 
+- [Becoming unblockable](https://seangoedecke.com/unblockable/) 👤 seangoedecke.com 💬 1868 🔖 #softwarecraft 🗓️ 2025-11-26
+    > **Резюме:** To avoid being blocked, work on multiple tasks and plan your projects to handle delays early. Keep your developer tools stable and learn to troubleshoot problems outside your area. Build good relationships with teammates and ask senior managers for help when needed.
 - [What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/) 👤 Terrible Software 💬 563 🔖 #career, #softwarecraft 🗓️ 2025-11-26
     > **Резюме:** Senior engineers’ core skill is reducing ambiguity. They turn fuzzy problems into clear, actionable plans by asking the right questions. That upfront work prevents surprises and makes other skills actually valuable.
 - [I want to see the claw](https://vickiboykis.com/2025/10/20/i-want-to-see-the-claw/?utm_source=substack&utm_medium=email) 👤 ★❤✰ Vicki Boykis ★❤✰  💬 861 🔖 #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29

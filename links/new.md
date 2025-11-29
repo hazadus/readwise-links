@@ -1,11 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 874
+- Всего ссылок: 865
 
 ## Ссылки
 
+- [Как НЕ надо работать с паролями пользователей или ИННОВАЦИОННАЯ криптография в российских бигтехах](https://www.youtube.com/watch?v=P_bksF9uHao) 👤 Диджитализируй! 🗓️ 2025-11-28
 - [Неоновые ночи, мертвые каналы: 10 ранних киберпанковских фильмов](https://disgustingmen.com/kino/10-early-cyberpunk-movies/) 👤 Дмитрий Соколов 💬 2977 🗓️ 2025-11-27
-- [Web Weekly #176](https://www.stefanjudis.com/blog/web-weekly-176/) 👤 stefanjudis.com 💬 1164 🗓️ 2025-11-26
 - [Gist of Go: Concurrency testing](https://antonz.org/go-concurrency/testing/) 👤 Anton Zhiyanov 💬 7291 🔖 #go, #testing 🗓️ 2025-11-24
 - [Structuring FastAPI application with multiple services using 3-tier design pattern.](https://viktorsapozhok.github.io/fastapi-oauth2-postgres/) 👤 Vanilla Ninja 💬 2161 🔖 #fastapi 🗓️ 2025-11-24
 - [One design pattern for FastAPI web applications](https://sqr-072.lsst.io/) 👤 Russ Allbery 💬 10483 🔖 #fastapi 🗓️ 2025-11-24
@@ -217,7 +217,6 @@
 - [Fun With Scrapy Link Validation on CI](https://www.mattlayman.com/blog/2024/fun-scrapy-validation-ci/) 👤 Matt Layman 💬 1442 🗓️ 2025-03-05
 - [Lua Log #1: Event Loop Adventures](https://www.mattlayman.com/blog/2022/lua-log-event-loop-adventures/) 👤 Matt Layman 💬 1177 🗓️ 2025-03-05
 - [Python Structural Pattern Matching - Intro with Examples](https://www.youtube.com/watch?v=wFpTTFI3DIg) 👤 BugBytes 🗓️ 2025-03-05
-- [Пересел с Макоси на виндовый ноут Osio](https://www.youtube.com/watch?v=6XICvwrYC1A) 👤 Виктор Фарафонтов 🗓️ 2025-03-05
 - [[1hr Talk] Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=QSFf6hCBWOd5YRwE) 👤 Andrej Karpathy 🗓️ 2025-03-04
 - [The Tiny Tyrants of Technology • The Applied Go Weekly Newsletter 2025-03-02](https://newsletter.appliedgo.net/archive/2025-03-02-the-tiny-tyrants-of-technology/) 👤 The Applied Go Weekly Newsletter 💬 1808 🗓️ 2025-03-04
 - [🔮 Mental Health Prediction Machine Learning Project: FastAPI + Streamlit + Pandas + SQLAlchemy](https://www.youtube.com/watch?v=lLapCy4dTHA) 👤 Bek Brace 🗓️ 2025-03-03
@@ -259,7 +258,6 @@
 - [Nuxt Tip: Managing Page Load States With useLoadingIndicator](https://mokkapps.de/vue-tips/managing-page-load-states-in-nuxt-with-use-loading-indicator) 👤 Michael Hoffmann 💬 279 🔖 #nuxt 🗓️ 2025-01-30
 - [Jan 10 Go’s best-kept secret: executable examples](https://bitfieldconsulting.com/posts/examples) 👤 John Arundel 💬 1567 🔖 #go 🗓️ 2025-01-29
 - [Django Islands: Part 1](https://blopker.com/writing/07-django-islands-part-1/) 👤 blopker.com 💬 2001 🔖 #django 🗓️ 2025-01-29
-- [Почему все в восторге от Path of Exile 2](https://www.youtube.com/watch?v=zv1xb6a1uo0) 👤 StopGame 🗓️ 2025-01-29
 - [Container Queries Unleashed](https://www.joshwcomeau.com/css/container-queries-unleashed/?from=newsletter) 👤 Josh W. Comeau 💬 1069 🔖 #css 🗓️ 2025-01-28
 - [A Weak Connection Is Still A Connection • The Applied Go Weekly Newsletter 2025-01-26](https://newsletter.appliedgo.net/archive/2025-01-26-a-weak-connection-is-still-a-connection/) 👤 The Applied Go Weekly Newsletter 💬 1892 🔖 #go 🗓️ 2025-01-27
 - [Advent of Code 2024 with Elixir - Part 2: The Better](https://simoncrowe.hashnode.dev/advent-of-code-2024-with-elixir-part-2-the-better) 👤 Simon Crowe 💬 623 🔖 #elixir 🗓️ 2025-01-27
@@ -328,7 +326,6 @@ What's up Python: MOAR uv, flask-like Django, debugging live processes...](https
 - [My little games workshop](https://daverupert.com/2024/12/my-little-games-workshop/) 👤 Dave Rupert 💬 1920 🗓️ 2024-12-27
 - [Вы кто такие, я вас не знаю, или Как мы делаем JWT-аутентификацию](https://habr.com/ru/companies/doubletapp/articles/764424/) 👤 BeFunny 💬 2361 🗓️ 2024-12-26
 - [Advent of Code 2024 with Elixir - Part 1: The Good-ish, the Ugly and the Bad](https://simoncrowe.hashnode.dev/advent-of-code-2024-with-elixir-part-1-the-good-ish-the-ugly-and-the-bad) 👤 Simon Crowe 💬 1203 🔖 #elixir 🗓️ 2024-12-26
-- [Как использовать TDD, жить с vim в Java и Go и почему тебе нужна сплит-клавиатура](https://www.youtube.com/watch?v=8NdaPHWSRk4) 👤 Диджитализируй! 🗓️ 2024-12-26
 - [Redis Queue and Cron in Go](https://fajar.labkita.my.id/posts/redis-queue-and-cron-in-go) 👤 labkita.my.id 💬 731 🔖 #go, #redis 🗓️ 2025-03-31
 - [Telegram-бот-магазин на Python: пошаговый гайд с оплатой, каталогом и админкой (Aiogram 3 + SQLAlchemy 2)](https://habr.com/ru/companies/amvera/articles/869136/) 👤 yakvenalex 💬 9632 🔖 #aiogram, #yokassa, #sqlalchemy 🗓️ 2024-12-25
 - [An imperative programmer tries to learn Haskell
@@ -384,16 +381,11 @@ UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 
 - [Awful ways to create Pipelines with Go](https://www.poxate.com/blog/awful-ways-to-create-pipelines-with-go/) 👤 poxate 💬 1895 🔖 #go 🗓️ 2024-12-11
 - [Writing down (and searching through) every UUID](https://eieio.games/blog/writing-down-every-uuid/) 👤 nolen royalty 💬 4324 🗓️ 2024-12-11
 - [uv: An In-Depth Guide to Python's Fast and Ambitious New Package Manager](https://www.saaspegasus.com/guides/uv-deep-dive/) 👤 SaaS Pegasus 💬 5400 🔖 #uv, #python 🗓️ 2024-12-11
-- [34 ИНТЕРЕСНЫХ инди-игр 2024 I Битый Пиксель](https://www.youtube.com/watch?v=OW22UW1rzS0) 👤 Битый Пиксель 🗓️ 2024-12-11
 - [Migration Guide](https://docs.pydantic.dev/2.0/migration/#changes-to-pydanticbasemodel) 👤 pydantic.dev 💬 4217 🔖 #pydantic 🗓️ 2024-12-10
 - [Migrating from Java to Rust](https://corrode.dev/migration-guides/java-to-rust/) 👤 Corrode Rust Consulting 💬 2536 🔖 #rust 🗓️ 2024-12-10
 - [An A-Z Index of Apple macOS (bash) commands](https://ss64.com/mac/) 👤 ss64.com 💬 2113 🗓️ 2024-12-09
 - [Avoid Counting in Django Pagination](https://testdriven.io/blog/django-avoid-counting/) 👤 testdriven.io 💬 924 🔖 #django 🗓️ 2024-12-09
 - [Mastering Go Memory Optimization: 20 Expert Techniques for Efficient Applications](https://dev.to/aaravjoshi/mastering-go-memory-optimization-20-expert-techniques-for-efficient-applications-4bjc) 👤 DEV Community 💬 1473 🔖 #go 🗓️ 2024-12-09
-- [Yandex DataLens Festival 2024. Собираем отчёт в новом конструкторе](https://www.youtube.com/watch?v=vWFMwrxK7nQ) 👤 Yandex Cloud 🗓️ 2024-12-09
-- [Yandex DataLens: демо от подключения до дашборда](https://www.youtube.com/watch?v=gjrqHJGPxnQ) 👤 Yandex Cloud 🗓️ 2024-12-09
-- [Как встроить DataLens в свой сайт с помощью secure embedding](https://www.youtube.com/watch?v=1tjbzpe24P4) 👤 Yandex Cloud 🗓️ 2024-12-09
-- [Разворачиваем DataLens Open Source](https://www.youtube.com/watch?v=e-jnJTokyek) 👤 Yandex Cloud 🗓️ 2024-12-09
 - [Property Testing: Beyond Matching Input-Output Pairs](https://appliedgo.net/spotlight/property-testing/) 👤 Applied Go 💬 469 🔖 #go, #testing 🗓️ 2024-12-09
 - [Implement Unit Test for CLI Apps using Golang and Cobra](https://clavinjune.dev/en/blogs/implement-unit-test-for-cli-apps-using-golang-and-cobra/) 👤 Clavin June 💬 1143 🔖 #go, #testing 🗓️ 2024-12-09
 - [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/) 👤 Dane Hillard 💬 5149 🔖 #pytest, #python, #testing 🗓️ 2024-12-09
@@ -455,7 +447,6 @@ UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 
 - [Примеры языков: C, Pascal, COBOL, ALGOL, BASIC, Fortran.](https://practicum.yandex.ru/blog/paradigmy-programmirovaniya/) 👤 Парадигмы программирования: что это, какие виды бывают, примеры использования   💬 1669 🗓️ 2024-11-18
 - [What Is YearCompass?](https://yearcompass.com/) 👤 yearcompass.com 💬 197 🗓️ 2024-11-16
 - [Exploring JavaScript Symbols](https://www.trevorlasn.com/blog/symbols-in-javascript) 👤 Exploring JavaScript Symbols 💬 1927 🔖 #javascript 🗓️ 2024-11-16
-- [Rewriting fanmade AI From Golang to Remix](https://youtube.com/live/hMUg-WUrRgE?si=Xz1PIzijSlwl9vL8) 👤 Anthony GG 🗓️ 2024-11-16
 - [20 лет «Героям Меча и Магии 3». Чем живёт культовая игра сегодня](https://www.mirf.ru/videogames/20-let-geroyam-mecha-i-magii-3-chem-zhivyot-kultovaya-igra-segodnya) 👤 mirf.ru 💬 4754 🗓️ 2024-11-16
 - [Planescape: Torment. История создания великой игры](https://www.mirf.ru/videogames/planescape-torment-istoriya-sozdaniya) 👤 mirf.ru 💬 4502 🗓️ 2024-11-16
 - [What if AI eventually makes programmers smarter, not dumber?](https://www.bitecode.dev/p/what-if-ai-eventually-make-programmers) 👤 Bite Code! 💬 1413 🗓️ 2024-11-16

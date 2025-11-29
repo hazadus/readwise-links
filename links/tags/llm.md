@@ -24,7 +24,7 @@ Designing useful agent loops requires careful handling of tools, sub-agents, out
     > **Резюме:** AI makes endless possibilities feel reachable, but that only grows the list of things we must do. The real problem is not tools but choosing what matters when everything seems possible. Freedom comes from accepting limits and doing a few things well.
 - [AI and the Devaluation of Effort](https://tawandamunongo.dev/posts/2025/10/ai-devaluation-effort/) 👤 t23o 💬 1606 🔖 #llm 🗓️ 2025-11-13
     > **Резюме:** AI makes starting easy but finishing hard. When creation costs nothing, effort feels meaningless. Choose limits and finish things to keep meaning.
-- [Building My First Claude Code Plugin](https://alexop.dev/posts/building-my-first-claude-code-plugin/) 👤 Alexander Opalic 💬 662 🔖 #llm 🗓️ 2025-11-09
+- [Building My First Claude Code Plugin](https://alexop.dev/posts/building-my-first-claude-code-plugin/) 👤 Alexander Opalic 💬 662 🔖 #llm, #claude 🗓️ 2025-11-09
     > **Резюме:** Alexander built a Claude Code plugin that auto-generates commands, skills, agents, hooks, and boilerplate.  
 It saves time by creating properly structured files and frontmatter so he no longer copies templates.  
 He published it on GitHub and uses it to speed up Vue-focused workflows and iterate on tooling.
