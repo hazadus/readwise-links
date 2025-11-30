@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 865
+- Всего ссылок: 867
 
 ## Ссылки
 
+- [How good engineers write bad code at big companies](https://seangoedecke.com/bad-code-at-big-companies/) 👤 seangoedecke.com 💬 1645 🗓️ 2025-11-29
+- [The entire “Asynchronous JavaScript” module of JavaScript for Everyone is now free](https://piccalil.li/links/the-entire-asynchronous-javascript-module-of-javascript-for-everyone-is-now-free/?ref=main-rss-feed) 👤 Piccalilli 💬 92 🗓️ 2025-11-29
 - [Как НЕ надо работать с паролями пользователей или ИННОВАЦИОННАЯ криптография в российских бигтехах](https://www.youtube.com/watch?v=P_bksF9uHao) 👤 Диджитализируй! 🗓️ 2025-11-28
 - [Неоновые ночи, мертвые каналы: 10 ранних киберпанковских фильмов](https://disgustingmen.com/kino/10-early-cyberpunk-movies/) 👤 Дмитрий Соколов 💬 2977 🗓️ 2025-11-27
 - [Gist of Go: Concurrency testing](https://antonz.org/go-concurrency/testing/) 👤 Anton Zhiyanov 💬 7291 🔖 #go, #testing 🗓️ 2025-11-24
