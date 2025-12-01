@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 20
+- Всего ссылок: 21
 
 ## Ссылки
 
+- [The (lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email) 👤 @bwplotka 💬 2452 🔖 #git, #joyandcuriosity 🗓️ 2025-11-30
+    > **Резюме:** The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.
 - [How to Manage Your Dotfiles Like a Pro with Git and Stow](https://dev.to/crafts69guy/how-to-manage-your-dotfiles-like-a-pro-with-git-and-stow-3pg1?utm_source=perplexity) 👤 Crafts 69 Guy 💬 1416 🔖 #git, #stow 🗓️ 2025-10-30
     > **Резюме:** This guide shows how to manage dotfiles with Git and GNU Stow.  
 Stow creates symlinks so you track configs in one repo and deploy them easily.  

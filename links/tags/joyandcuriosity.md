@@ -1,9 +1,23 @@
 # Ссылки
 
-- Всего ссылок: 43
+- Всего ссылок: 49
 
 ## Ссылки
 
+- [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default?utm_source=substack&utm_medium=email) 👤 Thomas Paul Mann 💬 1054 🔖 #codereview, #joyandcuriosity 🗓️ 2025-11-30
+    > **Резюме:** At Raycast, engineers can push code directly to the main branch without mandatory reviews, fostering a culture of trust and rapid iteration. While code reviews are optional, they are requested when necessary, especially for significant changes or for new team members. This approach allows for quick feedback and continuous updates, helping the team to efficiently build and improve their product.
+- [The (lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email) 👤 @bwplotka 💬 2452 🔖 #git, #joyandcuriosity 🗓️ 2025-11-30
+    > **Резюме:** The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.
+- [how-did-i-get-here.net](https://how-did-i-get-here.net/?utm_source=substack&utm_medium=email) 👤 Lexi 💬 2827 🔖 #joyandcuriosity 🗓️ 2025-11-30
+    > **Резюме:** This site runs a traceroute to show the path your packets took across the Internet. Routers in different networks (autonomous systems) pass packets along using BGP routing. The traceroute lists those routers and ASes so you can see how reachability is determined.
+- [Software Development in the Time of Strange New Angels](https://davegriffith.substack.com/p/software-development-in-the-time?utm_source=substack&utm_medium=email) 👤 Dave Griffith 💬 3605 🔖 #llm, #joyandcuriosity 🗓️ 2025-11-30
+    > **Резюме:** Agentic AI makes writing code far cheaper and much faster than the old $150/hour model.  
+That speed only helps if organizations and developers learn how to design, test, and manage quality; otherwise it creates technical debt.  
+Developers who master architecture, testing, and judgment will thrive; others risk obsolescence.
+- [Mechanical Watch](https://ciechanow.ski/mechanical-watch/?utm_source=substack&utm_medium=email) 👤 Bartosz Ciechanowski 💬 7982 🔖 #joyandcuriosity 🗓️ 2025-11-30
+    > **Резюме:** A mechanical watch keeps time using a few key parts: a mainspring, gears, an escapement, and a balance wheel. The mainspring stores energy that travels through gear trains to drive the hands while the escapement and balance wheel regulate the speed. Additional mechanisms let you wind, set the time, and protect the movement from shocks.
+- [Dithering - Part 1](https://visualrambling.space/dithering-part-1/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 785 🔖 #joyandcuriosity 🗓️ 2025-11-30
+    > **Резюме:** Dithering simulates many shades using only a few colors by arranging pixels into patterns. Ordered dithering compares pixel brightness to a threshold map to decide black or white. The series will explain threshold maps and error-diffusion algorithms in later parts.
 - [AI is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more?utm_source=substack&utm_medium=email) 👤 tawandamunongo.dev 💬 1439 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-29
     > **Резюме:** AI tools promised more freedom but are driving people to work longer and harder. The always-on nature of AI creates guilt for resting and fuels a 996-style hustle. Saying "enough" and setting boundaries may be the radical act we need to protect creativity and well-being.
 - [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/?utm_source=substack&utm_medium=email) 👤 allvpv <Przemysław Kusiak> 💬 986 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-29

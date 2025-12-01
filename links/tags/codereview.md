@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default?utm_source=substack&utm_medium=email) 👤 Thomas Paul Mann 💬 1054 🔖 #codereview, #joyandcuriosity 🗓️ 2025-11-30
+    > **Резюме:** At Raycast, engineers can push code directly to the main branch without mandatory reviews, fostering a culture of trust and rapid iteration. While code reviews are optional, they are requested when necessary, especially for significant changes or for new team members. This approach allows for quick feedback and continuous updates, helping the team to efficiently build and improve their product.
 - [Code Review Developer Guide](https://google.github.io/eng-practices/review/) 👤 eng-practices 💬 416 🔖 #codereview 🗓️ 2025-10-29
     > **Резюме:** Code review is a process where someone other than the code author examines the code to ensure quality. Google has specific guidelines for code reviewers, focusing on design, functionality, complexity, tests, naming, comments, style, and documentation. It's important to choose the best reviewers and can include in-person reviews for effective feedback.
 - [Mistakes I see engineers making in their code reviews](https://seangoedecke.com/good-code-reviews/) 👤 seangoedecke.com 💬 2088 🔖 #codereview 🗓️ 2025-10-25

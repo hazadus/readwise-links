@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 295
+- Всего ссылок: 296
 
 ## Ссылки
 
+- [Software Development in the Time of Strange New Angels](https://davegriffith.substack.com/p/software-development-in-the-time?utm_source=substack&utm_medium=email) 👤 Dave Griffith 💬 3605 🔖 #llm, #joyandcuriosity 🗓️ 2025-11-30
+    > **Резюме:** Agentic AI makes writing code far cheaper and much faster than the old $150/hour model.  
+That speed only helps if organizations and developers learn how to design, test, and manage quality; otherwise it creates technical debt.  
+Developers who master architecture, testing, and judgment will thrive; others risk obsolescence.
 - [Agent Design Is Still Hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/) 👤 Armin Ronacher 💬 2566 🔖 #llm, #agents 🗓️ 2025-11-24
     > **Резюме:** Building agents is still messy and existing SDK abstractions often break with real tool use.  
 Explicit control—especially direct SDK use and explicit cache management—makes agent behavior, costs, and reinforcement clearer.  
