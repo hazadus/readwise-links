@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 1221
+- Всего ссылок: 1222
 
 ## Ссылки
 
@@ -272,6 +272,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [I have found the joy of clipboard managers](https://hamatti.org/posts/i-have-found-the-joy-of-clipboard-managers/) 👤 Juha-Matti Santala 💬 569 🗓️ 2025-08-25
 - [The Problem with GitHub Commit Statuses](https://joshcannon.me/2025/08/24/github-commit-status.html) 👤 Josh Cannon 💬 616 🔖 #git, #github 🗓️ 2025-08-25
 - [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/?utm_source=substack&utm_medium=email) 👤 matklad 💬 928 🔖 #git, #github, #codereview, #joyandcuriosity 🗓️ 2025-08-24
+- [Building AI Products In The Probabilistic Era](https://giansegato.com/essays/probabilistic-era?utm_source=substack&utm_medium=email) 👤 giansegato.com 💬 4463 🔖 #llm, #inspiration, #joyandcuriosity 🗓️ 2025-08-24
 - [The Nature of Software Development](https://pragprog.com/titles/rjnsd/the-nature-of-software-development/?utm_source=substack&utm_medium=email) 👤 Ron Jeffries 💬 1076 🔖 #joyandcuriosity 🗓️ 2025-08-24
     > **Заметка:** 51
 - [Stepping Stones not Milestones](https://medium.com/@jamesacowling/stepping-stones-not-milestones-e6be0073563f) 👤 James Cowling 💬 2038 🔖 #management, #development, #joyandcuriosity 🗓️ 2025-08-24

@@ -7,7 +7,7 @@
         "author": "Sushant Dhiman",
         "source": "Readwise web highlighter",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "Sushant Dhiman",
         "word_count": 896,
@@ -20,11 +20,11 @@
         "html_content": null,
         "published_date": "2025-11-30",
         "created_at": "2025-11-30T14:52:57.787760+00:00",
-        "updated_at": "2025-11-30T14:53:01.691690+00:00",
+        "updated_at": "2025-12-01T05:41:29.524068+00:00",
         "saved_at": "2025-11-30T14:52:56.761000+00:00",
         "first_opened_at": "2025-11-30T14:52:56.761000+00:00",
         "last_opened_at": "2025-11-30T14:52:56.761000+00:00",
-        "last_moved_at": "2025-11-30T14:52:56.761000+00:00"
+        "last_moved_at": "2025-12-01T05:41:29.125000+00:00"
     },
     {
         "id": "01kba8bsbgb2t8n4z5sbprc8kb",
@@ -34,7 +34,7 @@
         "author": "Thomas Paul Mann",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "codereview": {
                 "name": "CodeReview",
@@ -58,11 +58,11 @@
         "html_content": null,
         "published_date": "2021-06-22",
         "created_at": "2025-11-30T11:28:56.205039+00:00",
-        "updated_at": "2025-11-30T11:29:08.104681+00:00",
+        "updated_at": "2025-12-01T05:41:27.773233+00:00",
         "saved_at": "2025-11-30T11:28:56.176000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-11-30T11:28:56.176000+00:00"
+        "last_moved_at": "2025-12-01T05:41:27.271000+00:00"
     },
     {
         "id": "01kba74ynqzd6by0k16mmj92s4",
@@ -72,7 +72,7 @@
         "author": "@bwplotka",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "git": {
                 "name": "git",
@@ -96,11 +96,11 @@
         "html_content": null,
         "published_date": "2025-11-10",
         "created_at": "2025-11-30T11:07:43.714039+00:00",
-        "updated_at": "2025-11-30T11:07:55.068557+00:00",
+        "updated_at": "2025-12-01T05:41:25.181971+00:00",
         "saved_at": "2025-11-30T11:07:43.671000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-11-30T11:07:43.671000+00:00"
+        "last_moved_at": "2025-12-01T05:41:24.712000+00:00"
     },
     {
         "id": "01kba6m45a48andmwhtq45a7z0",
@@ -110,7 +110,7 @@
         "author": "Lexi",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "joyandcuriosity": {
                 "name": "JoyAndCuriosity",
@@ -129,11 +129,11 @@
         "html_content": null,
         "published_date": "2025-11-30",
         "created_at": "2025-11-30T10:58:32.313719+00:00",
-        "updated_at": "2025-11-30T10:58:49.780075+00:00",
+        "updated_at": "2025-12-01T05:41:23.418140+00:00",
         "saved_at": "2025-11-30T10:58:32.232000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-11-30T10:58:32.232000+00:00"
+        "last_moved_at": "2025-12-01T05:41:22.918000+00:00"
     },
     {
         "id": "01kba64ec1xh177f3py2axxwf9",
@@ -143,7 +143,7 @@
         "author": "Dave Griffith",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "llm": {
                 "name": "LLM",
@@ -167,11 +167,11 @@
         "html_content": null,
         "published_date": "2025-09-01",
         "created_at": "2025-11-30T10:49:58.482210+00:00",
-        "updated_at": "2025-11-30T10:50:06.683605+00:00",
+        "updated_at": "2025-12-01T05:41:21.463508+00:00",
         "saved_at": "2025-11-30T10:49:58.402000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-11-30T10:49:58.402000+00:00"
+        "last_moved_at": "2025-12-01T05:41:21.080000+00:00"
     },
     {
         "id": "01kba5sc2x0n5x2dqqrxvsnbh9",
@@ -181,7 +181,7 @@
         "author": "Bartosz Ciechanowski",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "joyandcuriosity": {
                 "name": "JoyAndCuriosity",
@@ -200,11 +200,11 @@
         "html_content": null,
         "published_date": "2022-05-04",
         "created_at": "2025-11-30T10:43:55.698669+00:00",
-        "updated_at": "2025-11-30T10:44:05.350642+00:00",
+        "updated_at": "2025-12-01T05:41:19.009278+00:00",
         "saved_at": "2025-11-30T10:43:55.613000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-11-30T10:43:55.613000+00:00"
+        "last_moved_at": "2025-12-01T05:41:18.495000+00:00"
     },
     {
         "id": "01kba5q30d36vfk144nzpkgrc7",
@@ -214,7 +214,7 @@
         "author": "visualrambling.space",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {
             "joyandcuriosity": {
                 "name": "JoyAndCuriosity",
@@ -233,11 +233,11 @@
         "html_content": null,
         "published_date": "2025-10-22",
         "created_at": "2025-11-30T10:42:40.873817+00:00",
-        "updated_at": "2025-11-30T10:42:47.782230+00:00",
+        "updated_at": "2025-12-01T05:41:16.545524+00:00",
         "saved_at": "2025-11-30T10:42:40.779000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-11-30T10:42:40.779000+00:00"
+        "last_moved_at": "2025-12-01T05:41:16+00:00"
     },
     {
         "id": "01kba3nq8a8s1s81yz84qp2eqp",
@@ -247,7 +247,7 @@
         "author": "Kaan Peksen",
         "source": "Readwise web highlighter",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "DeepIntoDev",
         "word_count": 1697,
@@ -260,11 +260,11 @@
         "html_content": null,
         "published_date": "2025-11-26",
         "created_at": "2025-11-30T10:06:59.726193+00:00",
-        "updated_at": "2025-11-30T10:06:59.866336+00:00",
+        "updated_at": "2025-12-01T05:41:13.930780+00:00",
         "saved_at": "2025-11-30T10:06:58.826000+00:00",
         "first_opened_at": "2025-11-30T10:06:58.826000+00:00",
         "last_opened_at": "2025-11-30T10:06:58.826000+00:00",
-        "last_moved_at": "2025-11-30T10:06:58.826000+00:00"
+        "last_moved_at": "2025-12-01T05:41:13.569000+00:00"
     },
     {
         "id": "01kba2gp6v8yz5xv1yx1e944zj",
@@ -274,7 +274,7 @@
         "author": "makingsoftware.com",
         "source": "Readwise web highlighter",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "makingsoftware.com",
         "word_count": 4941,
@@ -287,11 +287,11 @@
         "html_content": null,
         "published_date": null,
         "created_at": "2025-11-30T09:46:46.345845+00:00",
-        "updated_at": "2025-11-30T09:46:51.916666+00:00",
+        "updated_at": "2025-12-01T05:41:08.499511+00:00",
         "saved_at": "2025-11-30T09:46:45.339000+00:00",
         "first_opened_at": "2025-11-30T09:46:45.339000+00:00",
         "last_opened_at": "2025-11-30T09:46:45.339000+00:00",
-        "last_moved_at": "2025-11-30T09:46:45.339000+00:00"
+        "last_moved_at": "2025-12-01T05:41:08.103000+00:00"
     },
     {
         "id": "01kb8t8fa4zgpjxm6k74rve5r8",
@@ -301,7 +301,7 @@
         "author": "seangoedecke.com",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "new",
+        "location": "later",
         "tags": {},
         "site_name": "seangoedecke.com",
         "word_count": 1645,
@@ -309,16 +309,16 @@
         "summary": "Big tech hires many competent engineers but moves people between teams so often that most code changes are made by people new to a codebase. Experienced \"old hands\" exist but are overloaded and informal, so bad or hacky fixes often get shipped. This is a deliberate tradeoff by companies that values flexibility over deep, long-term expertise.",
         "image_url": null,
         "parent_id": null,
-        "reading_progress": 0.19791200754978544,
+        "reading_progress": 0.7546963187600033,
         "content": null,
         "html_content": null,
         "published_date": "2025-11-28",
         "created_at": "2025-11-29T22:03:13.140939+00:00",
-        "updated_at": "2025-11-29T22:21:25.580838+00:00",
+        "updated_at": "2025-12-01T07:33:15.384343+00:00",
         "saved_at": "2025-11-29T22:03:13.092000+00:00",
         "first_opened_at": "2025-11-29T22:18:41.363000+00:00",
-        "last_opened_at": "2025-11-29T22:18:41.363000+00:00",
-        "last_moved_at": "2025-11-29T22:03:13.092000+00:00"
+        "last_opened_at": "2025-12-01T07:23:40.375000+00:00",
+        "last_moved_at": "2025-12-01T05:41:04.167000+00:00"
     },
     {
         "id": "01kb8sxgwabya7wnvx4byve0vs",
@@ -1032,7 +1032,7 @@
         },
         "site_name": "Vanilla Ninja",
         "word_count": 2161,
-        "notes": "",
+        "notes": "Структура не очень понравилась",
         "summary": "This tutorial shows how to structure a FastAPI app with routers, services, schemas, and models using a 3-tier pattern. It demonstrates integrating PostgreSQL via SQLAlchemy 2.0 and adding services like movies plus OAuth2 password auth with JWTs. Authentication includes password hashing, token creation, and token verification for protected routes.",
         "image_url": "",
         "parent_id": null,
@@ -1041,7 +1041,7 @@
         "html_content": null,
         "published_date": "2023-02-09",
         "created_at": "2025-11-24T05:59:00.885955+00:00",
-        "updated_at": "2025-11-24T05:59:07.534540+00:00",
+        "updated_at": "2025-12-01T05:40:08.911059+00:00",
         "saved_at": "2025-11-24T05:58:59.671000+00:00",
         "first_opened_at": "2025-11-24T05:58:59.671000+00:00",
         "last_opened_at": "2025-11-24T05:58:59.671000+00:00",
@@ -22378,12 +22378,17 @@
         "author": "giansegato.com",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "llm": {
                 "name": "LLM",
                 "type": "manual",
                 "created": 1764158177913
+            },
+            "inspiration": {
+                "name": "Inspiration",
+                "type": "manual",
+                "created": 1764573696834
             },
             "joyandcuriosity": {
                 "name": "JoyAndCuriosity",
@@ -22397,17 +22402,125 @@
         "summary": "AI is probabilistic, not deterministic, and often behaves in unexpected ways.  \nProduct teams must use continuous data, test real user trajectories, and accept some unpredictability instead of trying to fully control models.  \nOrganizations that think empirically and in probabilities will win the next era.",
         "image_url": "https://giansegato.com/images/probabilistic-era/ogmeta.jpg",
         "parent_id": null,
-        "reading_progress": 0.6184015907967145,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2025-08-21",
         "created_at": "2025-08-24T12:53:09.434803+00:00",
-        "updated_at": "2025-11-28T08:41:21.149831+00:00",
+        "updated_at": "2025-12-01T07:22:03.322917+00:00",
         "saved_at": "2025-08-24T12:53:09.400000+00:00",
         "first_opened_at": "2025-11-26T11:34:49.805000+00:00",
-        "last_opened_at": "2025-11-28T08:28:33.363000+00:00",
-        "last_moved_at": "2025-08-26T07:00:43.525000+00:00",
+        "last_opened_at": "2025-12-01T05:43:00.064000+00:00",
+        "last_moved_at": "2025-12-01T07:22:02.877000+00:00",
         "highlights": [
+            {
+                "id": "01kbcb7j0e0a0jw664h22wqenj",
+                "url": "https://read.readwise.io/read/01kbcb7j0e0a0jw664h22wqenj",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-web-app",
+                "category": "highlight",
+                "location": null,
+                "tags": {},
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01k3e27j4rs724rykx59m95t5g",
+                "reading_progress": 0.0,
+                "content": "It's ontologically different. We're moving away from deterministic mechanicism, a world of perfect information and perfect knowledge, and walking into one made of emergent unknown behaviors, where instead of planning and engineering we observe and hypothesize.",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2025-12-01T06:57:32.650139+00:00",
+                "updated_at": "2025-12-01T06:57:32.650158+00:00",
+                "saved_at": "2025-12-01T06:57:32.174000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2025-12-01T06:57:32.174000+00:00"
+            },
+            {
+                "id": "01kbc79taftvz9ph4m7afqz4n5",
+                "url": "https://read.readwise.io/read/01kbc79taftvz9ph4m7afqz4n5",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-web-app",
+                "category": "highlight",
+                "location": null,
+                "tags": {},
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01k3e27j4rs724rykx59m95t5g",
+                "reading_progress": 0.0,
+                "content": "The old wisdom of always building incrementally on top of what’s already there doesn’t hold up anymore. If anything, that too is actively harmful. Every time a new model drops, be it a new generation of an existing one (say, from Sonnet to Opus), or a completely new one (say swapping GPT for Gemini), all previous assumptions about its behavior should be disregarded.\nIn fact, when a new model drops, you should even consider literally tearing down the full system, and building it back from the ground up.",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2025-12-01T05:48:52.431672+00:00",
+                "updated_at": "2025-12-01T05:48:52.431684+00:00",
+                "saved_at": "2025-12-01T05:48:51.919000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2025-12-01T05:48:51.919000+00:00"
+            },
+            {
+                "id": "01kbc73e89xnx8z2gxxfk95kky",
+                "url": "https://read.readwise.io/read/01kbc73e89xnx8z2gxxfk95kky",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-web-app",
+                "category": "highlight",
+                "location": null,
+                "tags": {},
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01k3e27j4rs724rykx59m95t5g",
+                "reading_progress": 0.0,
+                "content": "For people interacting with products harnessing the power of these models, this is a lot to take in, to accept, and to develop an intuition for. Users really dislike the inherent uncertainty of dealing with AI systems. They’re not used to it! They’re expecting a digital product like every other product they know: you instruct the app to perform an action, and the app will perform it.",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2025-12-01T05:45:23.479563+00:00",
+                "updated_at": "2025-12-01T05:45:23.479578+00:00",
+                "saved_at": "2025-12-01T05:45:22.953000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2025-12-01T05:45:22.953000+00:00"
+            },
+            {
+                "id": "01kbc6zhpgx7wma55nqymskfzq",
+                "url": "https://read.readwise.io/read/01kbc6zhpgx7wma55nqymskfzq",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-web-app",
+                "category": "highlight",
+                "location": null,
+                "tags": {},
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01k3e27j4rs724rykx59m95t5g",
+                "reading_progress": 0.0,
+                "content": "These models are discovered, not engineered. There's some deep unknowability about them that is both powerful and scary. Not even model makers know exactly what their creations can fully do when they train them.",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2025-12-01T05:43:15.716731+00:00",
+                "updated_at": "2025-12-01T05:43:15.716743+00:00",
+                "saved_at": "2025-12-01T05:43:15.408000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2025-12-01T05:43:15.408000+00:00"
+            },
             {
                 "id": "01kb4sp4jyzdk5xxzzexqxg341",
                 "url": "https://read.readwise.io/read/01kb4sp4jyzdk5xxzzexqxg341",

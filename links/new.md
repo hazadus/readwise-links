@@ -1,24 +1,15 @@
 # Новые ссылки
 
-- Всего ссылок: 876
+- Всего ссылок: 866
 
 ## Ссылки
 
-- [Hexagonal Architecture for absolute beginners.](https://sushantdhiman.substack.com/p/hexagonal-architecture-for-absolute?utm_source=post-email-title&publication_id=3501228&post_id=180310942&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) 👤 Sushant Dhiman 💬 896 🗓️ 2025-11-30
-- [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default?utm_source=substack&utm_medium=email) 👤 Thomas Paul Mann 💬 1054 🔖 #codereview, #joyandcuriosity 🗓️ 2025-11-30
-- [The (lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email) 👤 @bwplotka 💬 2452 🔖 #git, #joyandcuriosity 🗓️ 2025-11-30
-- [how-did-i-get-here.net](https://how-did-i-get-here.net/?utm_source=substack&utm_medium=email) 👤 Lexi 💬 2827 🔖 #joyandcuriosity 🗓️ 2025-11-30
-- [Software Development in the Time of Strange New Angels](https://davegriffith.substack.com/p/software-development-in-the-time?utm_source=substack&utm_medium=email) 👤 Dave Griffith 💬 3605 🔖 #llm, #joyandcuriosity 🗓️ 2025-11-30
-- [Mechanical Watch](https://ciechanow.ski/mechanical-watch/?utm_source=substack&utm_medium=email) 👤 Bartosz Ciechanowski 💬 7982 🔖 #joyandcuriosity 🗓️ 2025-11-30
-- [Dithering - Part 1](https://visualrambling.space/dithering-part-1/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 785 🔖 #joyandcuriosity 🗓️ 2025-11-30
-- [How WebSockets Work](https://www.deepintodev.com/blog/how-websockets-work?utm_source=tldrdev) 👤 Kaan Peksen 💬 1697 🗓️ 2025-11-30
-- [Shaders.](https://www.makingsoftware.com/chapters/shaders) 👤 makingsoftware.com 💬 4941 🗓️ 2025-11-30
-- [How good engineers write bad code at big companies](https://seangoedecke.com/bad-code-at-big-companies/) 👤 seangoedecke.com 💬 1645 🗓️ 2025-11-29
 - [The entire “Asynchronous JavaScript” module of JavaScript for Everyone is now free](https://piccalil.li/links/the-entire-asynchronous-javascript-module-of-javascript-for-everyone-is-now-free/?ref=main-rss-feed) 👤 Piccalilli 💬 92 🗓️ 2025-11-29
 - [Как НЕ надо работать с паролями пользователей или ИННОВАЦИОННАЯ криптография в российских бигтехах](https://www.youtube.com/watch?v=P_bksF9uHao) 👤 Диджитализируй! 🗓️ 2025-11-28
 - [Неоновые ночи, мертвые каналы: 10 ранних киберпанковских фильмов](https://disgustingmen.com/kino/10-early-cyberpunk-movies/) 👤 Дмитрий Соколов 💬 2977 🗓️ 2025-11-27
 - [Gist of Go: Concurrency testing](https://antonz.org/go-concurrency/testing/) 👤 Anton Zhiyanov 💬 7291 🔖 #go, #testing 🗓️ 2025-11-24
 - [Structuring FastAPI application with multiple services using 3-tier design pattern.](https://viktorsapozhok.github.io/fastapi-oauth2-postgres/) 👤 Vanilla Ninja 💬 2161 🔖 #fastapi 🗓️ 2025-11-24
+    > **Заметка:** Структура не очень понравилась
 - [One design pattern for FastAPI web applications](https://sqr-072.lsst.io/) 👤 Russ Allbery 💬 10483 🔖 #fastapi 🗓️ 2025-11-24
 - [GitHub - zhanymkanov/fastapi-best-practices: FastAPI Best Practices and Conventions we used at our startup](https://github.com/zhanymkanov/fastapi-best-practices) 👤 https://github.com/zhanymkanov/ 💬 3381 🔖 #fastapi 🗓️ 2025-11-24
 - [How to Implement Authentication in FastAPI: A Complete Developer's Guide](https://fastlaunchapi.dev/blog/how-to-implement-auth) 👤 Niklas L. 💬 3619 🔖 #fastapi 🗓️ 2025-11-24

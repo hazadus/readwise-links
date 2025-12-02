@@ -1,9 +1,33 @@
 # Отложенные ссылки
 
-- Всего ссылок: 113
+- Всего ссылок: 122
 
 ## Ссылки
 
+- [Hexagonal Architecture for absolute beginners.](https://sushantdhiman.substack.com/p/hexagonal-architecture-for-absolute?utm_source=post-email-title&publication_id=3501228&post_id=180310942&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) 👤 Sushant Dhiman 💬 896 🗓️ 2025-11-30
+    > **Резюме:** Hexagonal architecture isolates the core domain from frameworks and external systems.  
+It uses domain-defined ports and interchangeable adapters so databases or APIs can be swapped easily.  
+This makes code more portable, testable, and suitable for apps with multiple entry points.
+- [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default?utm_source=substack&utm_medium=email) 👤 Thomas Paul Mann 💬 1054 🔖 #codereview, #joyandcuriosity 🗓️ 2025-11-30
+    > **Резюме:** At Raycast, engineers can push code directly to the main branch without mandatory reviews, fostering a culture of trust and rapid iteration. While code reviews are optional, they are requested when necessary, especially for significant changes or for new team members. This approach allows for quick feedback and continuous updates, helping the team to efficiently build and improve their product.
+- [The (lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email) 👤 @bwplotka 💬 2452 🔖 #git, #joyandcuriosity 🗓️ 2025-11-30
+    > **Резюме:** The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.
+- [how-did-i-get-here.net](https://how-did-i-get-here.net/?utm_source=substack&utm_medium=email) 👤 Lexi 💬 2827 🔖 #joyandcuriosity 🗓️ 2025-11-30
+    > **Резюме:** This site runs a traceroute to show the path your packets took across the Internet. Routers in different networks (autonomous systems) pass packets along using BGP routing. The traceroute lists those routers and ASes so you can see how reachability is determined.
+- [Software Development in the Time of Strange New Angels](https://davegriffith.substack.com/p/software-development-in-the-time?utm_source=substack&utm_medium=email) 👤 Dave Griffith 💬 3605 🔖 #llm, #joyandcuriosity 🗓️ 2025-11-30
+    > **Резюме:** Agentic AI makes writing code far cheaper and much faster than the old $150/hour model.  
+That speed only helps if organizations and developers learn how to design, test, and manage quality; otherwise it creates technical debt.  
+Developers who master architecture, testing, and judgment will thrive; others risk obsolescence.
+- [Mechanical Watch](https://ciechanow.ski/mechanical-watch/?utm_source=substack&utm_medium=email) 👤 Bartosz Ciechanowski 💬 7982 🔖 #joyandcuriosity 🗓️ 2025-11-30
+    > **Резюме:** A mechanical watch keeps time using a few key parts: a mainspring, gears, an escapement, and a balance wheel. The mainspring stores energy that travels through gear trains to drive the hands while the escapement and balance wheel regulate the speed. Additional mechanisms let you wind, set the time, and protect the movement from shocks.
+- [Dithering - Part 1](https://visualrambling.space/dithering-part-1/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 785 🔖 #joyandcuriosity 🗓️ 2025-11-30
+    > **Резюме:** Dithering simulates many shades using only a few colors by arranging pixels into patterns. Ordered dithering compares pixel brightness to a threshold map to decide black or white. The series will explain threshold maps and error-diffusion algorithms in later parts.
+- [How WebSockets Work](https://www.deepintodev.com/blog/how-websockets-work?utm_source=tldrdev) 👤 Kaan Peksen 💬 1697 🗓️ 2025-11-30
+    > **Резюме:** WebSockets upgrade an HTTP connection to a persistent, full-duplex channel so server and client can send messages anytime. They shine for real-time apps like chat and multiplayer games but are stateful, harder to proxy and scale, and can be inefficient if you send large JSON frequently. Optimize by sending compact binary data and choose simpler options (EventSource or HTTP) when only server-to-client updates are needed.
+- [Shaders.](https://www.makingsoftware.com/chapters/shaders) 👤 makingsoftware.com 💬 4941 🗓️ 2025-11-30
+    > **Резюме:** Shaders are small programs that run on the GPU to compute pixel colors. They run in a pipeline with different stages like vertex and fragment shaders. Fragment shaders use inputs like textures, normals, and uniforms to shade each pixel.
+- [How good engineers write bad code at big companies](https://seangoedecke.com/bad-code-at-big-companies/) 👤 seangoedecke.com 💬 1645 🗓️ 2025-11-29
+    > **Резюме:** Big tech hires many competent engineers but moves people between teams so often that most code changes are made by people new to a codebase. Experienced "old hands" exist but are overloaded and informal, so bad or hacky fixes often get shipped. This is a deliberate tradeoff by companies that values flexibility over deep, long-term expertise.
 - [Unit Testing (Vitest) Tutorial #1 - What is Unit Testing?](https://www.youtube.com/watch?v=XdDZKeM5_pQ) 👤 Net Ninja 🔖 #vitest 🗓️ 2025-11-26
     > **Резюме:** The video explains what unit testing is and why it helps you write better JavaScript code. It compares unit tests to integration and end-to-end tests and shows unit tests focus on small, isolated functions. It also introduces Vitest and basic project setup for running tests.
 - [High-Performance Syntax Highlighting with CSS Highlights API](https://pavi2410.com/blog/high-performance-syntax-highlighting-with-css-highlights-api/?utm_source=tldrwebdev) 👤 Pavitra Golchha 💬 1054 🔖 #css 🗓️ 2025-11-23
@@ -230,10 +254,6 @@ The hard move from Python 2 to 3 proved the community's strength and spread Pyth
     > **Резюме:** This blog explains how to change a Python function's code while the program runs using compile and exec. The author built ToolBot, which can create and run new functions that use current variables. This method is powerful but has security risks and should be used carefully.
 - [Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html) 👤 Ben O'Mahony 💬 2899 🔖 #llm, #agents 🗓️ 2025-08-27
     > **Резюме:** They built a CLI coding agent using Pydantic‑AI and MCP that reads code, runs tests, and edits files. MCP servers add sandboxed Python, code reasoning, and file/terminal tools so the model can act. The result is faster, context‑aware development that works best when tailored to your codebase.
-- [Building AI Products In The Probabilistic Era](https://giansegato.com/essays/probabilistic-era?utm_source=substack&utm_medium=email) 👤 giansegato.com 💬 4463 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-24
-    > **Резюме:** AI is probabilistic, not deterministic, and often behaves in unexpected ways.  
-Product teams must use continuous data, test real user trajectories, and accept some unpredictability instead of trying to fully control models.  
-Organizations that think empirically and in probabilities will win the next era.
 - [The Difference Between a Post Flush Watcher and nextTick in Vue](https://michaelnthiessen.com/the-difference-between-a-post-flush-watcher-and-nexttick?ck_subscriber_id=2108193410&utm_campaign=The+Difference+Between+a+Post+Flush+Watcher+and+nextTick+in+Vue+-+18711361&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1110 🗓️ 2025-08-24
     > **Резюме:** A post-flush watcher and nextTick both wait until after the DOM updates. The only difference is timing: nextTick runs one microtask later and therefore runs after post-flush watchers. In practice this rarely matters unless you need a strict execution order.
 - [What Learning React Won't Teach You: Image Formats](https://idiallo.com/blog/react-and-image-format?utm_source=tldrwebdev) 👤 Ibrahim Diallo 💬 1241 🗓️ 2025-08-24

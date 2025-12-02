@@ -104,7 +104,7 @@ Their friendship and complementary skills let other engineers build huge distrib
     > **Резюме:** Objects in 3D are placed by x, y, z coordinates.  
 If x, y, z are functions of time, the object follows paths like circles, spirals, or a spherical helix.  
 Parametric equations let you create and visualize any motion.
-- [Building AI Products In The Probabilistic Era](https://giansegato.com/essays/probabilistic-era?utm_source=substack&utm_medium=email) 👤 giansegato.com 💬 4463 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-24
+- [Building AI Products In The Probabilistic Era](https://giansegato.com/essays/probabilistic-era?utm_source=substack&utm_medium=email) 👤 giansegato.com 💬 4463 🔖 #llm, #inspiration, #joyandcuriosity 🗓️ 2025-08-24
     > **Резюме:** AI is probabilistic, not deterministic, and often behaves in unexpected ways.  
 Product teams must use continuous data, test real user trajectories, and accept some unpredictability instead of trying to fully control models.  
 Organizations that think empirically and in probabilities will win the next era.

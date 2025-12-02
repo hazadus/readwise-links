@@ -5,6 +5,7 @@
 ## Ссылки
 
 - [Structuring FastAPI application with multiple services using 3-tier design pattern.](https://viktorsapozhok.github.io/fastapi-oauth2-postgres/) 👤 Vanilla Ninja 💬 2161 🔖 #fastapi 🗓️ 2025-11-24
+    > **Заметка:** Структура не очень понравилась
     > **Резюме:** This tutorial shows how to structure a FastAPI app with routers, services, schemas, and models using a 3-tier pattern. It demonstrates integrating PostgreSQL via SQLAlchemy 2.0 and adding services like movies plus OAuth2 password auth with JWTs. Authentication includes password hashing, token creation, and token verification for protected routes.
 - [One design pattern for FastAPI web applications](https://sqr-072.lsst.io/) 👤 Russ Allbery 💬 10483 🔖 #fastapi 🗓️ 2025-11-24
     > **Резюме:** The pattern organizes a FastAPI app into handlers, services, storage, models, and a factory that builds services via dependency injection. Use Pydantic for external models, dataclasses for internal models, and a request context to avoid long handler parameter lists. Document handlers well and keep configuration, fixtures, and operational docs in dedicated places.
