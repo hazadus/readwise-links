@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 26
+- Всего ссылок: 27
 
 ## Ссылки
 
+- [How good engineers write bad code at big companies](https://seangoedecke.com/bad-code-at-big-companies/) 👤 seangoedecke.com 💬 1645 🔖 #softwarecraft 🗓️ 2025-11-29
+    > **Резюме:** Big tech hires many competent engineers but moves people between teams so often that most code changes are made by people new to a codebase. Experienced "old hands" exist but are overloaded and informal, so bad or hacky fixes often get shipped. This is a deliberate tradeoff by companies that values flexibility over deep, long-term expertise.
 - [Becoming unblockable](https://seangoedecke.com/unblockable/) 👤 seangoedecke.com 💬 1868 🔖 #softwarecraft 🗓️ 2025-11-26
     > **Резюме:** To avoid being blocked, work on multiple tasks and plan your projects to handle delays early. Keep your developer tools stable and learn to troubleshoot problems outside your area. Build good relationships with teammates and ask senior managers for help when needed.
 - [What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/) 👤 Terrible Software 💬 563 🔖 #career, #softwarecraft 🗓️ 2025-11-26

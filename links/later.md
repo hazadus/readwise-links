@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 122
+- Всего ссылок: 121
 
 ## Ссылки
 
@@ -26,8 +26,6 @@ Developers who master architecture, testing, and judgment will thrive; others ri
     > **Резюме:** WebSockets upgrade an HTTP connection to a persistent, full-duplex channel so server and client can send messages anytime. They shine for real-time apps like chat and multiplayer games but are stateful, harder to proxy and scale, and can be inefficient if you send large JSON frequently. Optimize by sending compact binary data and choose simpler options (EventSource or HTTP) when only server-to-client updates are needed.
 - [Shaders.](https://www.makingsoftware.com/chapters/shaders) 👤 makingsoftware.com 💬 4941 🗓️ 2025-11-30
     > **Резюме:** Shaders are small programs that run on the GPU to compute pixel colors. They run in a pipeline with different stages like vertex and fragment shaders. Fragment shaders use inputs like textures, normals, and uniforms to shade each pixel.
-- [How good engineers write bad code at big companies](https://seangoedecke.com/bad-code-at-big-companies/) 👤 seangoedecke.com 💬 1645 🗓️ 2025-11-29
-    > **Резюме:** Big tech hires many competent engineers but moves people between teams so often that most code changes are made by people new to a codebase. Experienced "old hands" exist but are overloaded and informal, so bad or hacky fixes often get shipped. This is a deliberate tradeoff by companies that values flexibility over deep, long-term expertise.
 - [Unit Testing (Vitest) Tutorial #1 - What is Unit Testing?](https://www.youtube.com/watch?v=XdDZKeM5_pQ) 👤 Net Ninja 🔖 #vitest 🗓️ 2025-11-26
     > **Резюме:** The video explains what unit testing is and why it helps you write better JavaScript code. It compares unit tests to integration and end-to-end tests and shows unit tests focus on small, isolated functions. It also introduces Vitest and basic project setup for running tests.
 - [High-Performance Syntax Highlighting with CSS Highlights API](https://pavi2410.com/blog/high-performance-syntax-highlighting-with-css-highlights-api/?utm_source=tldrwebdev) 👤 Pavitra Golchha 💬 1054 🔖 #css 🗓️ 2025-11-23

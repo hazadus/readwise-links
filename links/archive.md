@@ -1,15 +1,18 @@
 # Архивные ссылки
 
-- Всего ссылок: 1222
+- Всего ссылок: 1224
 
 ## Ссылки
 
+- [How good engineers write bad code at big companies](https://seangoedecke.com/bad-code-at-big-companies/) 👤 seangoedecke.com 💬 1645 🔖 #softwarecraft 🗓️ 2025-11-29
 - [Becoming unblockable](https://seangoedecke.com/unblockable/) 👤 seangoedecke.com 💬 1868 🔖 #softwarecraft 🗓️ 2025-11-26
 - [What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/) 👤 Terrible Software 💬 563 🔖 #career, #softwarecraft 🗓️ 2025-11-26
 - [Every Decision Has Three Costs: Time, Focus, and Optionality](https://www.joanwestenberg.com/p/every-decision-has-three-costs-time-focus-and-optionality) 👤 JA Westenberg 💬 1010 🗓️ 2025-11-26
 - [GitHub: top commands in gh, the official GitHub CLI](https://adamj.eu/tech/2025/11/24/github-top-gh-cli-commands/) 👤 adamj.eu 💬 5208 🔖 #cli, #try, #github 🗓️ 2025-11-24
 - [Agent Design Is Still Hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/) 👤 Armin Ronacher 💬 2566 🔖 #llm, #agents 🗓️ 2025-11-24
 - [Get Notified When Claude Code Finishes With Hooks](https://alexop.dev/posts/claude-code-notification-hooks/) 👤 Alexander Opalic 💬 736 🔖 #claude 🗓️ 2025-11-24
+- [Structuring FastAPI application with multiple services using 3-tier design pattern.](https://viktorsapozhok.github.io/fastapi-oauth2-postgres/) 👤 Vanilla Ninja 💬 2161 🔖 #fastapi 🗓️ 2025-11-24
+    > **Заметка:** Структура не очень понравилась
 - [ООП: худшее, что случалось с программированием [24.02.2025]](https://alexanderdanilov.dev/ru/articles/oop) 👤 Александр Данилов 💬 4864 🔖 #programming 🗓️ 2025-11-23
 - [LLM APIs are a Synchronization Problem](https://lucumr.pocoo.org/2025/11/22/llm-apis/) 👤 Armin Ronacher 💬 1485 🔖 #llm 🗓️ 2025-11-22
 - [Гайд по кастомизации vscode: чистим status bar, пишем плагины на #javascript](https://www.youtube.com/watch?v=H5iVQZNk92s) 👤 Никита Соболев 🔖 #vscode 🗓️ 2025-11-21

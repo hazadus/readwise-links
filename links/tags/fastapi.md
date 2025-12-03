@@ -8,6 +8,7 @@
     > **Заметка:** Структура не очень понравилась
     > **Резюме:** This tutorial shows how to structure a FastAPI app with routers, services, schemas, and models using a 3-tier pattern. It demonstrates integrating PostgreSQL via SQLAlchemy 2.0 and adding services like movies plus OAuth2 password auth with JWTs. Authentication includes password hashing, token creation, and token verification for protected routes.
 - [One design pattern for FastAPI web applications](https://sqr-072.lsst.io/) 👤 Russ Allbery 💬 10483 🔖 #fastapi 🗓️ 2025-11-24
+    > **Заметка:** Изучить. Интересно по поводу dataclasses и конверсии всего времени в UTC
     > **Резюме:** The pattern organizes a FastAPI app into handlers, services, storage, models, and a factory that builds services via dependency injection. Use Pydantic for external models, dataclasses for internal models, and a request context to avoid long handler parameter lists. Document handlers well and keep configuration, fixtures, and operational docs in dedicated places.
 - [GitHub - zhanymkanov/fastapi-best-practices: FastAPI Best Practices and Conventions we used at our startup](https://github.com/zhanymkanov/fastapi-best-practices) 👤 https://github.com/zhanymkanov/ 💬 3381 🔖 #fastapi 🗓️ 2025-11-24
     > **Резюме:** Use Pydantic extensively for data validation, including features like regex and enums.
