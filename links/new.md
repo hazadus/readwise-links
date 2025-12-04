@@ -1,17 +1,18 @@
 # Новые ссылки
 
-- Всего ссылок: 867
+- Всего ссылок: 869
 
 ## Ссылки
 
+- [Kludex/fastapi-tips: FastAPI Tips by The FastAPI Expert!](https://github.com/Kludex/fastapi-tips?tab=readme-ov-file#2-be-careful-with-non-async-functions) 👤 https://github.com/Kludex/ 💬 1671 🔖 #fastapi 🗓️ 2025-12-03
+- [The Harvest Will Come](https://www.joanwestenberg.com/p/the-harvest-will-come) 👤 JA Westenberg 💬 816 🗓️ 2025-12-03
+- [The 'delayed opinions givers' - engineering teams everybody hates](https://newsletter.manager.dev/p/the-delayed-opinions-givers-engineering) 👤 Anton Zaides 💬 1615 🗓️ 2025-12-03
 - [Typer](https://typer.tiangolo.com/) 👤 tiangolo.com 💬 1105 🗓️ 2025-12-02
 - [Click Documentation (8.3.x)](https://click.palletsprojects.com/en/latest/quickstart/) 👤 palletsprojects.com 💬 799 🗓️ 2025-12-02
 - [The entire “Asynchronous JavaScript” module of JavaScript for Everyone is now free](https://piccalil.li/links/the-entire-asynchronous-javascript-module-of-javascript-for-everyone-is-now-free/?ref=main-rss-feed) 👤 Piccalilli 💬 92 🗓️ 2025-11-29
 - [Как НЕ надо работать с паролями пользователей или ИННОВАЦИОННАЯ криптография в российских бигтехах](https://www.youtube.com/watch?v=P_bksF9uHao) 👤 Диджитализируй! 🗓️ 2025-11-28
 - [Неоновые ночи, мертвые каналы: 10 ранних киберпанковских фильмов](https://disgustingmen.com/kino/10-early-cyberpunk-movies/) 👤 Дмитрий Соколов 💬 2977 🗓️ 2025-11-27
 - [Gist of Go: Concurrency testing](https://antonz.org/go-concurrency/testing/) 👤 Anton Zhiyanov 💬 7291 🔖 #go, #testing 🗓️ 2025-11-24
-- [One design pattern for FastAPI web applications](https://sqr-072.lsst.io/) 👤 Russ Allbery 💬 10483 🔖 #fastapi 🗓️ 2025-11-24
-    > **Заметка:** Изучить. Интересно по поводу dataclasses и конверсии всего времени в UTC
 - [GitHub - zhanymkanov/fastapi-best-practices: FastAPI Best Practices and Conventions we used at our startup](https://github.com/zhanymkanov/fastapi-best-practices) 👤 https://github.com/zhanymkanov/ 💬 3381 🔖 #fastapi 🗓️ 2025-11-24
 - [How to Implement Authentication in FastAPI: A Complete Developer's Guide](https://fastlaunchapi.dev/blog/how-to-implement-auth) 👤 Niklas L. 💬 3619 🔖 #fastapi 🗓️ 2025-11-24
 - [How to Structure a Scalable FastAPI Project](https://fastlaunchapi.dev/blog/how-to-structure-fastapi) 👤 Niklas L. 💬 1887 🔖 #fastapi 🗓️ 2025-11-24

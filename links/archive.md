@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 1224
+- Всего ссылок: 1225
 
 ## Ссылки
 
@@ -13,6 +13,8 @@
 - [Get Notified When Claude Code Finishes With Hooks](https://alexop.dev/posts/claude-code-notification-hooks/) 👤 Alexander Opalic 💬 736 🔖 #claude 🗓️ 2025-11-24
 - [Structuring FastAPI application with multiple services using 3-tier design pattern.](https://viktorsapozhok.github.io/fastapi-oauth2-postgres/) 👤 Vanilla Ninja 💬 2161 🔖 #fastapi 🗓️ 2025-11-24
     > **Заметка:** Структура не очень понравилась
+- [One design pattern for FastAPI web applications](https://sqr-072.lsst.io/) 👤 Russ Allbery 💬 10483 🔖 #fastapi 🗓️ 2025-11-24
+    > **Заметка:** Познавательный и подробный гайдлайн. Интересно по поводу dataclasses и конверсии всего времени в UTC
 - [ООП: худшее, что случалось с программированием [24.02.2025]](https://alexanderdanilov.dev/ru/articles/oop) 👤 Александр Данилов 💬 4864 🔖 #programming 🗓️ 2025-11-23
 - [LLM APIs are a Synchronization Problem](https://lucumr.pocoo.org/2025/11/22/llm-apis/) 👤 Armin Ronacher 💬 1485 🔖 #llm 🗓️ 2025-11-22
 - [Гайд по кастомизации vscode: чистим status bar, пишем плагины на #javascript](https://www.youtube.com/watch?v=H5iVQZNk92s) 👤 Никита Соболев 🔖 #vscode 🗓️ 2025-11-21
