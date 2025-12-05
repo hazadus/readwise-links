@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 105
+- Всего ссылок: 106
 
 ## Ссылки
 
+- [The Harvest Will Come](https://www.joanwestenberg.com/p/the-harvest-will-come) 👤 JA Westenberg 💬 816 🔖 #inspiration 🗓️ 2025-12-03
+    > **Заметка:** Очень точные наблюдения о сменяющихся циклах мотивированности и апатии. 
+    > **Резюме:** Purpose and creativity come in seasons, not constant summer.  
+Quiet, fallow times are restorative — they compost ideas for later.  
+You haven't failed when you rest; new growth often follows.
 - [“Frowning at a screen for 200 hours”: on the writing process](https://bitfieldconsulting.com/posts/the-writing-process) 👤 John Arundel 💬 1850 🔖 #writing, #inspiration 🗓️ 2025-11-15
     > **Резюме:** John Arundel wrote the Puppet Cookbook by carving out about 200 hours over eight months while juggling freelance work. Writing taught him Puppet features he hadn't used, required lots of coding, testing, and rewriting, and relied on community help. He advises careful planning, time management, and iterative revision for anyone writing a technical book.
 - [ARIatHOME](https://daverupert.com/2025/11/ariathome/) 👤 Dave Rupert 💬 327 🔖 #music, #inspiration 🗓️ 2025-11-12

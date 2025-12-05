@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 47
+- Всего ссылок: 48
 
 ## Ссылки
 
+- [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/) 👤 adamj.eu 💬 4981 🔖 #django 🗓️ 2025-12-04
+    > **Резюме:** Django 6.0 (codename "mosaic") was released with four headline features: template partials, a built-in Tasks framework, CSP support with nonce generation, and an updated email API. The release includes small conveniences like automatic shell imports and querystring tag enhancements. Many contributors (174) helped make these improvements possible.
 - [Looking forward to Django 6.0](mailto:reader-forwarded-email/d63966dbff39ea2b976500388197636b) 👤 Carlton Gibson 💬 1849 🔖 #csp, #django 🗓️ 2025-09-01
     > **Резюме:** Django 6.0 is nearing alpha with a feature freeze on September 17.  
 Key changes include Python 3.12 as the minimum, built-in Content Security Policy, django.tasks, and template-partials.  

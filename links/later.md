@@ -4,12 +4,12 @@
 
 ## Ссылки
 
+- [AI optimism is a class privilege](https://joshcollinsworth.com/blog/sloptimism) 👤 Josh Collinsworth 💬 3212 🗓️ 2025-12-04
+    > **Резюме:** AI optimism is a class privilege because the benefits mainly help people who are already secure. Many workers, students, and vulnerable groups face job loss, harm, and surveillance from AI. Choosing optimism often means ignoring those real costs.
 - [Hexagonal Architecture for absolute beginners.](https://sushantdhiman.substack.com/p/hexagonal-architecture-for-absolute?utm_source=post-email-title&publication_id=3501228&post_id=180310942&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) 👤 Sushant Dhiman 💬 896 🗓️ 2025-11-30
     > **Резюме:** Hexagonal architecture isolates the core domain from frameworks and external systems.  
 It uses domain-defined ports and interchangeable adapters so databases or APIs can be swapped easily.  
 This makes code more portable, testable, and suitable for apps with multiple entry points.
-- [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default?utm_source=substack&utm_medium=email) 👤 Thomas Paul Mann 💬 1054 🔖 #codereview, #joyandcuriosity 🗓️ 2025-11-30
-    > **Резюме:** At Raycast, engineers can push code directly to the main branch without mandatory reviews, fostering a culture of trust and rapid iteration. While code reviews are optional, they are requested when necessary, especially for significant changes or for new team members. This approach allows for quick feedback and continuous updates, helping the team to efficiently build and improve their product.
 - [The (lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email) 👤 @bwplotka 💬 2452 🔖 #git, #joyandcuriosity 🗓️ 2025-11-30
     > **Резюме:** The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.
 - [how-did-i-get-here.net](https://how-did-i-get-here.net/?utm_source=substack&utm_medium=email) 👤 Lexi 💬 2827 🔖 #joyandcuriosity 🗓️ 2025-11-30

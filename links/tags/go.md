@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 237
+- Всего ссылок: 238
 
 ## Ссылки
 
+- [Mechanical Sympathy • The Applied Go Weekly Newsletter 2025-11-30](https://newsletter.appliedgo.net/archive/2025-11-30-mechanical-sympathy/) 👤 The Applied Go Weekly Newsletter 💬 2508 🔖 #go 🗓️ 2025-12-04
+    > **Резюме:** Understanding hardware and Go's runtime makes your programs much faster.  
+Learn how cache behavior, allocation, and goroutine scheduling affect performance.  
+Small, informed changes to slices and concurrency can cut memory use and speed up apps.
 - [Gist of Go: Concurrency testing](https://antonz.org/go-concurrency/testing/) 👤 Anton Zhiyanov 💬 7291 🔖 #go, #testing 🗓️ 2025-11-24
     > **Резюме:** synctest.Test runs tests in a controlled "bubble" so goroutine scheduling and time can be simulated. synctest.Wait blocks until all other goroutines in the bubble are finished or durably blocked, letting the tester know a goroutine reached a known blocking point. Use synctest.Wait instead of sleep to avoid races and flaky tests; synctest.Test panics if goroutines stay permanently ununblockable.
 - [Buil[d|t] To Learn • The Applied Go Weekly Newsletter 2025-11-09](https://newsletter.appliedgo.net/archive/2025-11-09-buildt-to-learn/) 👤 The Applied Go Weekly Newsletter 💬 909 🔖 #go 🗓️ 2025-11-11

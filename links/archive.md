@@ -1,9 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 1225
+- Всего ссылок: 1229
 
 ## Ссылки
 
+- [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/) 👤 adamj.eu 💬 4981 🔖 #django 🗓️ 2025-12-04
+- [The Harvest Will Come](https://www.joanwestenberg.com/p/the-harvest-will-come) 👤 JA Westenberg 💬 816 🔖 #inspiration 🗓️ 2025-12-03
+    > **Заметка:** Очень точные наблюдения о сменяющихся циклах мотивированности и апатии. 
+- [The 'delayed opinions givers' - engineering teams everybody hates](https://newsletter.manager.dev/p/the-delayed-opinions-givers-engineering) 👤 Anton Zaides 💬 1615 🗓️ 2025-12-03
+- [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default?utm_source=substack&utm_medium=email) 👤 Thomas Paul Mann 💬 1054 🔖 #codereview, #joyandcuriosity 🗓️ 2025-11-30
 - [How good engineers write bad code at big companies](https://seangoedecke.com/bad-code-at-big-companies/) 👤 seangoedecke.com 💬 1645 🔖 #softwarecraft 🗓️ 2025-11-29
 - [Becoming unblockable](https://seangoedecke.com/unblockable/) 👤 seangoedecke.com 💬 1868 🔖 #softwarecraft 🗓️ 2025-11-26
 - [What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/) 👤 Terrible Software 💬 563 🔖 #career, #softwarecraft 🗓️ 2025-11-26

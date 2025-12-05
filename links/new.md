@@ -1,12 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 869
+- Всего ссылок: 868
 
 ## Ссылки
 
+- [Mechanical Sympathy • The Applied Go Weekly Newsletter 2025-11-30](https://newsletter.appliedgo.net/archive/2025-11-30-mechanical-sympathy/) 👤 The Applied Go Weekly Newsletter 💬 2508 🔖 #go 🗓️ 2025-12-04
 - [Kludex/fastapi-tips: FastAPI Tips by The FastAPI Expert!](https://github.com/Kludex/fastapi-tips?tab=readme-ov-file#2-be-careful-with-non-async-functions) 👤 https://github.com/Kludex/ 💬 1671 🔖 #fastapi 🗓️ 2025-12-03
-- [The Harvest Will Come](https://www.joanwestenberg.com/p/the-harvest-will-come) 👤 JA Westenberg 💬 816 🗓️ 2025-12-03
-- [The 'delayed opinions givers' - engineering teams everybody hates](https://newsletter.manager.dev/p/the-delayed-opinions-givers-engineering) 👤 Anton Zaides 💬 1615 🗓️ 2025-12-03
 - [Typer](https://typer.tiangolo.com/) 👤 tiangolo.com 💬 1105 🗓️ 2025-12-02
 - [Click Documentation (8.3.x)](https://click.palletsprojects.com/en/latest/quickstart/) 👤 palletsprojects.com 💬 799 🗓️ 2025-12-02
 - [The entire “Asynchronous JavaScript” module of JavaScript for Everyone is now free](https://piccalil.li/links/the-entire-asynchronous-javascript-module-of-javascript-for-everyone-is-now-free/?ref=main-rss-feed) 👤 Piccalilli 💬 92 🗓️ 2025-11-29
