@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 22
+- Всего ссылок: 23
 
 ## Ссылки
 
+- [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/) 👤 sinclairtarget.com 💬 2031 🔖 #go, #zig, #rust 🗓️ 2025-12-05
+    > **Резюме:** Go is minimal and stable, trading features for simplicity and readability. Rust is feature-rich and complex, aiming for safety and high performance with strict compile-time guarantees. Zig is experimental and manual, favoring explicit memory control and data-oriented design over OO patterns.
 - [Are We Chasing Language Hype Over Solving Real Problems?](https://dayvster.com/blog/are-we-chasing-language-hype-over-solving-real-problems) 👤 Dayvi Schuster 💬 1839 🔖 #rust 🗓️ 2025-09-29
     > **Резюме:** Many developers chase new languages and rewrite reliable tools just because they are trendy. The GNU Core Utils rewrite in Rust is a prime example that may add little value and waste effort. We should prioritize solving real problems and measurable impact over novelty.
 - [On Choosing Rust](https://endler.dev/2025/choosing-rust/) 👤 Matthias Endler 💬 1414 🔖 #rust 🗓️ 2025-09-28

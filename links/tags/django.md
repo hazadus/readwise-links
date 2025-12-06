@@ -95,7 +95,9 @@ Django Model + pytest Fixture This part is a mouthful, but I prefer to use the M
 - [Django UserProfile Model | LearnDjango.com](https://learndjango.com/tutorials/django-userprofile-model) 👤 Learn Django 💬 1650 🔖 #django 🗓️ 2024-08-27
     > **Резюме:** This tutorial explains how to create a custom user model and a UserProfile model in Django. It emphasizes the importance of using a custom user model and demonstrates how to set it up with the necessary forms and admin configurations. Finally, it shows how to automatically create and manage UserProfiles linked to each user.
 - [Django Best Practices: Models | LearnDjango.com](https://learndjango.com/tutorials/django-best-practices-models) 👤 Learn Django 💬 1368 🔖 #django 🗓️ 2024-08-27
-    > **Резюме:** A list of tips for designing better models in Python/Django.
+    > **Резюме:** Define models clearly: use singular, Capitalized names and lowercase underscored fields.  
+Add common methods (__str__, get_absolute_url, save), explicit names, Meta options, and indexes.  
+Use choices for enums and understand blank vs null rules for correct field behavior.
 - [UV with Django](https://blog.pecar.me/uv-with-django) 👤 Anže 💬 1043 🔖 #uv, #django 🗓️ 2024-08-30
     > **Резюме:** Astral recently released uv 0.4.0, a Python package manager that simplifies managing Django projects. Users can easily set up new Django projects and manage dependencies with commands like `uv init` and `uv add`. The tool also allows for installing development dependencies and running tests efficiently.
 - [Evolving Django’s auth.User • Buttondown](https://buttondown.com/carlton/archive/evolving-djangos-authuser/) 👤 The Stack Report 💬 4502 🔖 #django 🗓️ 2024-09-03

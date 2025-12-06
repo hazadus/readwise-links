@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 238
+- Всего ссылок: 239
 
 ## Ссылки
 
+- [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/) 👤 sinclairtarget.com 💬 2031 🔖 #go, #zig, #rust 🗓️ 2025-12-05
+    > **Резюме:** Go is minimal and stable, trading features for simplicity and readability. Rust is feature-rich and complex, aiming for safety and high performance with strict compile-time guarantees. Zig is experimental and manual, favoring explicit memory control and data-oriented design over OO patterns.
 - [Mechanical Sympathy • The Applied Go Weekly Newsletter 2025-11-30](https://newsletter.appliedgo.net/archive/2025-11-30-mechanical-sympathy/) 👤 The Applied Go Weekly Newsletter 💬 2508 🔖 #go 🗓️ 2025-12-04
     > **Резюме:** Understanding hardware and Go's runtime makes your programs much faster.  
 Learn how cache behavior, allocation, and goroutine scheduling affect performance.  

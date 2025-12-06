@@ -1,5 +1,48 @@
 [
     {
+        "id": "01kbpf50b7f86jf08pd9zdpq7e",
+        "url": "https://read.readwise.io/read/01kbpf50b7f86jf08pd9zdpq7e",
+        "source_url": "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/",
+        "title": "Thoughts on Go vs. Rust vs. Zig",
+        "author": "sinclairtarget.com",
+        "source": "Reader add from import URL",
+        "category": "article",
+        "location": "new",
+        "tags": {
+            "go": {
+                "name": "Go",
+                "type": "manual",
+                "created": 1764911912967
+            },
+            "zig": {
+                "name": "Zig",
+                "type": "manual",
+                "created": 1764911917335
+            },
+            "rust": {
+                "name": "Rust",
+                "type": "manual",
+                "created": 1764911915169
+            }
+        },
+        "site_name": "sinclairtarget.com",
+        "word_count": 2031,
+        "notes": "",
+        "summary": "Go is minimal and stable, trading features for simplicity and readability. Rust is feature-rich and complex, aiming for safety and high performance with strict compile-time guarantees. Zig is experimental and manual, favoring explicit memory control and data-oriented design over OO patterns.",
+        "image_url": "",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-08-09",
+        "created_at": "2025-12-05T05:18:27.632483+00:00",
+        "updated_at": "2025-12-05T05:18:37.821397+00:00",
+        "saved_at": "2025-12-05T05:18:27.175000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2025-12-05T05:18:27.175000+00:00"
+    },
+    {
         "id": "01kbkzm0sxx6cezrqmj250cx1p",
         "url": "https://read.readwise.io/read/01kbkzm0sxx6cezrqmj250cx1p",
         "source_url": "https://newsletter.appliedgo.net/archive/2025-11-30-mechanical-sympathy/",
@@ -140948,7 +140991,7 @@
         "site_name": "learndjango.com",
         "word_count": 1368,
         "notes": "",
-        "summary": "A list of tips for designing better models in Python/Django.",
+        "summary": "Define models clearly: use singular, Capitalized names and lowercase underscored fields.  \nAdd common methods (__str__, get_absolute_url, save), explicit names, Meta options, and indexes.  \nUse choices for enums and understand blank vs null rules for correct field behavior.",
         "image_url": "https://learndjango.com/static/images/social-default-image.png",
         "parent_id": null,
         "reading_progress": 0.0,
@@ -140956,7 +140999,7 @@
         "html_content": null,
         "published_date": "2024-07-16",
         "created_at": "2024-11-05T15:48:12.324561+00:00",
-        "updated_at": "2024-11-23T07:56:05.447343+00:00",
+        "updated_at": "2025-12-05T12:01:03.260271+00:00",
         "saved_at": "2024-08-27T12:03:58.355000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
@@ -141445,7 +141488,7 @@
         "site_name": "Pytest With Eric",
         "word_count": 1333,
         "notes": "",
-        "summary": "You’ve written code and Unit tests, and want to make sure it works. You simply run the pytest command in your terminal to run them the tests. Boom! some tests fail. How do you debug it? To debug, it’",
+        "summary": "This article shows how to run tests selectively with pytest from the command line. It explains running single tests, modules, classes, directories, and using markers to group or skip tests. Examples and commands are provided for common workflows.",
         "image_url": "https://pytest-with-eric.com/images/pytest-run-single-test-repo.png",
         "parent_id": null,
         "reading_progress": 0.0,
@@ -141453,7 +141496,7 @@
         "html_content": null,
         "published_date": "2023-09-04",
         "created_at": "2024-11-05T15:48:11.833886+00:00",
-        "updated_at": "2024-11-23T07:56:04.228056+00:00",
+        "updated_at": "2025-12-05T12:01:06.954421+00:00",
         "saved_at": "2024-08-31T07:36:57.281000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
