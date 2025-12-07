@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 869
+- Всего ссылок: 871
 
 ## Ссылки
 
+- [AI detection tools cannot prove that text is AI-generated](https://seangoedecke.com/ai-detection/) 👤 seangoedecke.com 💬 1687 🗓️ 2025-12-06
+- [Времена описывают](https://www.myweekend.ru/doc/8268174?from=glavnoe_3) 👤 Владимир Максаков 💬 1571 🗓️ 2025-12-06
 - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/) 👤 sinclairtarget.com 💬 2031 🔖 #go, #zig, #rust 🗓️ 2025-12-05
 - [Mechanical Sympathy • The Applied Go Weekly Newsletter 2025-11-30](https://newsletter.appliedgo.net/archive/2025-11-30-mechanical-sympathy/) 👤 The Applied Go Weekly Newsletter 💬 2508 🔖 #go 🗓️ 2025-12-04
 - [Kludex/fastapi-tips: FastAPI Tips by The FastAPI Expert!](https://github.com/Kludex/fastapi-tips?tab=readme-ov-file#2-be-careful-with-non-async-functions) 👤 https://github.com/Kludex/ 💬 1671 🔖 #fastapi 🗓️ 2025-12-03
