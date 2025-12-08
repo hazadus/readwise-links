@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 239
+- Всего ссылок: 240
 
 ## Ссылки
 
+- [Gist of Go: Concurrency internals](https://antonz.org/go-concurrency/internals/) 👤 Anton Zhiyanov 💬 3899 🔖 #go 🗓️ 2025-12-07
+    > **Резюме:** Go's runtime schedules many lightweight goroutines onto a smaller number of OS threads. The scheduler moves goroutines between threads, handles blocking and system calls, and is limited by GOMAXPROCS. Goroutines use little memory and communicate via channels and select for efficient concurrency.
 - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/) 👤 sinclairtarget.com 💬 2031 🔖 #go, #zig, #rust 🗓️ 2025-12-05
     > **Резюме:** Go is minimal and stable, trading features for simplicity and readability. Rust is feature-rich and complex, aiming for safety and high performance with strict compile-time guarantees. Zig is experimental and manual, favoring explicit memory control and data-oriented design over OO patterns.
 - [Mechanical Sympathy • The Applied Go Weekly Newsletter 2025-11-30](https://newsletter.appliedgo.net/archive/2025-11-30-mechanical-sympathy/) 👤 The Applied Go Weekly Newsletter 💬 2508 🔖 #go 🗓️ 2025-12-04

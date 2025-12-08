@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [TIL: Subtests in pytest 9.0.0+](https://simonwillison.net/2025/Dec/5/til-pytest-subtests/#atom-everything) 👤 Simon Willison 💬 123 🔖 #pytest 🗓️ 2025-12-07
+    > **Резюме:** Pytest 9.0.0 introduced a new feature called subtests. Subtests can run tests faster and allow tests to be created dynamically after setup. This offers a useful alternative to the existing parameterized tests.
 - [Playwright & pytest techniques that bring me joy](https://www.better-simple.com/django/2025/09/17/playwright-pytest-that-brings-me-joy/) 👤 https://www.better-simple.com/portfolio/ 💬 880 🔖 #pytest, #testing 🗓️ 2025-09-17
     > **Резюме:** I use Playwright for end-to-end tests as apps with HTMX and Alpine reduce unit and integration coverage.  
 I capture popups with expect_page, tag tests with pytest markers to run or switch context, and debug with page.pause or headed/PWDEBUG.  
