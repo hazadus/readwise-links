@@ -1,9 +1,17 @@
 # Отложенные ссылки
 
-- Всего ссылок: 121
+- Всего ссылок: 125
 
 ## Ссылки
 
+- [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576) 👤 oxide.computer 💬 1579 🗓️ 2025-12-08
+    > **Резюме:** LLMs are powerful tools that can speed reading, editing, code writing, and debugging but they bring risks that must be managed. Humans remain responsible for all outputs and must keep rigor, empathy, and teamwork foremost. Use LLMs as assistants—never as a substitute for human judgment or authenticity.
+- [Mechanical Habits](https://matklad.github.io/2025/12/06/mechanical-habits.html) 👤 matklad.github.io 💬 1682 🗓️ 2025-12-07
+    > **Резюме:** The author shares simple automation habits to improve software engineering, like weekly releases to reduce stress and keep code healthy. They emphasize using robots to manage code merging and maintaining tidy tests to catch issues early. Lastly, chaining benchmarks to tests helps keep performance checks up-to-date without extra effort.
+- [TIL: Subtests in pytest 9.0.0+](https://simonwillison.net/2025/Dec/5/til-pytest-subtests/#atom-everything) 👤 Simon Willison 💬 123 🔖 #pytest 🗓️ 2025-12-07
+    > **Резюме:** Pytest 9.0.0 introduced a new feature called subtests. Subtests can run tests faster and allow tests to be created dynamically after setup. This offers a useful alternative to the existing parameterized tests.
+- [AI detection tools cannot prove that text is AI-generated](https://seangoedecke.com/ai-detection/) 👤 seangoedecke.com 💬 1687 🗓️ 2025-12-06
+    > **Резюме:** AI detection tools can guess if text was written by a model, but they cannot prove it. Models learn from human writing, so AI text can look human and humans can write like AI. Detection tools can be useful but give only probabilistic, sometimes biased results.
 - [AI optimism is a class privilege](https://joshcollinsworth.com/blog/sloptimism) 👤 Josh Collinsworth 💬 3212 🗓️ 2025-12-04
     > **Резюме:** AI optimism is a class privilege because the benefits mainly help people who are already secure. Many workers, students, and vulnerable groups face job loss, harm, and surveillance from AI. Choosing optimism often means ignoring those real costs.
 - [Hexagonal Architecture for absolute beginners.](https://sushantdhiman.substack.com/p/hexagonal-architecture-for-absolute?utm_source=post-email-title&publication_id=3501228&post_id=180310942&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) 👤 Sushant Dhiman 💬 896 🗓️ 2025-11-30
