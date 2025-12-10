@@ -1,9 +1,10 @@
 # Отложенные ссылки
 
-- Всего ссылок: 125
+- Всего ссылок: 126
 
 ## Ссылки
 
+- [What’s up Python ? Rust in CPython, immutable dicts, unpacking in comprehensions...](https://www.bitecode.dev/p/whats-up-python-rust-in-cpython-immutable) 👤 bitecode.dev 🔖 #python 🗓️ 2025-12-09
 - [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576) 👤 oxide.computer 💬 1579 🗓️ 2025-12-08
     > **Резюме:** LLMs are powerful tools that can speed reading, editing, code writing, and debugging but they bring risks that must be managed. Humans remain responsible for all outputs and must keep rigor, empathy, and teamwork foremost. Use LLMs as assistants—never as a substitute for human judgment or authenticity.
 - [Mechanical Habits](https://matklad.github.io/2025/12/06/mechanical-habits.html) 👤 matklad.github.io 💬 1682 🗓️ 2025-12-07
