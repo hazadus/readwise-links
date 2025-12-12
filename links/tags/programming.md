@@ -57,7 +57,7 @@ Make adoption easy with simple auth and use versioning only as a last resort.
     > **Резюме:** The article discusses the author's perspective on programming without becoming overly consumed by technical details. The author emphasizes the importance of implementing ideas and maintaining a balance between coding and creative thinking. Simplifying languages, tools, and coding practices is key to avoiding obsession with programming.
 - [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) 👤 dadgum.com 💬 467 🔖 #career, #programming 🗓️ 2025-08-13
     > **Резюме:** Technical interviews often focus on complex algorithms, but most programming doesn't require this skill. The key to successful coding is organizing and managing complexity rather than mastering tricky data structures. Many programmers are self-taught and focus on practical problem-solving rather than theoretical knowledge.
-- [GitHub just got less independent at Microsoft after CEO resignation | The Verge](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition?utm_source=tldrwebdev) 👤 Tom Warren 💬 675 🔖 #toot, #github, #programming 🗓️ 2025-08-12
+- [GitHub just got less independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition?utm_source=tldrwebdev) 👤 Tom Warren 💬 557 🔖 #toot, #github, #programming 🗓️ 2025-08-12
     > **Заметка:** CEO GitHub всё!
     > **Резюме:** GitHub will be part of Microsoft’s AI engineering team
 - [There's Beauty in AI](https://registerspill.thorstenball.com/p/theres-beauty-in-ai) 👤 Thorsten Ball 💬 2010 🔖 #llm, #toot, #programming 🗓️ 2025-08-10

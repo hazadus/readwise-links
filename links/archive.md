@@ -321,7 +321,7 @@ You are a person. Work enough to sustain that. Then stop.
     > **Заметка:** Любопытный подгон от Саймона: codespace с предустановленной его тулзой llm, работающей через бесплатные GitHub Models
 - [Is chain-of-thought AI reasoning a mirage?](https://seangoedecke.com/real-reasoning/) 👤 seangoedecke.com 💬 1504 🔖 #llm 🗓️ 2025-08-13
 - [Just a nice shell script - Bite code!](https://www.bitecode.dev/p/just-a-nice-shell-script) 👤 Bite Code! 🔖 #bash 🗓️ 2025-08-13
-- [GitHub just got less independent at Microsoft after CEO resignation | The Verge](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition?utm_source=tldrwebdev) 👤 Tom Warren 💬 675 🔖 #toot, #github, #programming 🗓️ 2025-08-12
+- [GitHub just got less independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition?utm_source=tldrwebdev) 👤 Tom Warren 💬 557 🔖 #toot, #github, #programming 🗓️ 2025-08-12
     > **Заметка:** CEO GitHub всё!
 - [In Praise of Containers; there's no place like $HOME](https://sketch.dev/blog/in-praise-of-containers) 👤 Philip Zeyliger 💬 978 🔖 #llm 🗓️ 2025-08-12
 - [No, typing can be the bottleneck](https://thorstenball.com/blog/2020/09/01/typing-can-be-the-bottleneck/) 👤 thorstenball.com 💬 603 🗓️ 2025-08-11

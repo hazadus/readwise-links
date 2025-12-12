@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 872
+- Всего ссылок: 873
 
 ## Ссылки
 
+- [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/#atom-everything) 👤 Simon Willison 💬 3236 🗓️ 2025-12-11
 - [[BadComedian] - Кракен (НАШ ОТВЕТ ГОДЗИЛЛЕ за Миллиард)](https://www.youtube.com/watch?v=dBHHvSx0rnk) 👤 BadComedian 🗓️ 2025-12-08
 - [From Slow To Go • The Applied Go Weekly Newsletter 2025-12-07](https://newsletter.appliedgo.net/archive/2025-12-07-from-slow-to-go/) 👤 The Applied Go Weekly Newsletter 💬 591 🔖 #go 🗓️ 2025-12-08
 - [Gist of Go: Concurrency internals](https://antonz.org/go-concurrency/internals/) 👤 Anton Zhiyanov 💬 3899 🔖 #go 🗓️ 2025-12-07
