@@ -37,7 +37,9 @@
         "01k7a31vzbxzf9913gzvyf2wsm",
         "01k80cp8g8y2v5aj7wdba500fg",
         "01k8eyrzas4tz1pw36n0wk5mbw",
-        "01k8exqfmmfxh03jdwk2ddhtt5"
+        "01k8exqfmmfxh03jdwk2ddhtt5",
+        "01kc8egvqwgrknevq5zjxb6xwb",
+        "01kbkz2zzb0mx7gapdhct6xq5v"
     ],
     "toots": [
         {
@@ -267,6 +269,18 @@
             "document_title": "Just use cURL",
             "source_url": "https://justuse.org/curl/",
             "toot_url": "https://fosstodon.org/@hazadus/115439177190046555"
+        },
+        {
+            "document_id": "01kc8egvqwgrknevq5zjxb6xwb",
+            "document_title": "AI Can Write Your Code. It Can’t Do Your Job.",
+            "source_url": "https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/",
+            "toot_url": "https://fosstodon.org/@hazadus/115710967440695052"
+        },
+        {
+            "document_id": "01kbkz2zzb0mx7gapdhct6xq5v",
+            "document_title": "AI optimism is a class privilege",
+            "source_url": "https://joshcollinsworth.com/blog/sloptimism",
+            "toot_url": "https://fosstodon.org/@hazadus/115710967458175386"
         }
     ]
 }
