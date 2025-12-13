@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [Build self-hosted AI Agent with Ollama, Pydantic AI and Django Ninja](https://scribe.rip/@tom.mart/build-self-hosted-ai-agent-with-ollama-pydantic-ai-and-django-ninja-53c6b3f14a1d?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 scribe.rip 💬 2105 🔖 #try, #agents, #django, #pydantic 🗓️ 2025-12-12
+    > **Резюме:** This guide shows how to build a self-hosted AI agent using Ollama, Pydantic AI, and Django Ninja.  
+It walks through project setup, a “roll a dice” tool-based agent, and creating authenticated API endpoints.  
+Next article will add persistent memory for richer, personalized conversations.
 - [Agent Design Is Still Hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/) 👤 Armin Ronacher 💬 2566 🔖 #llm, #agents 🗓️ 2025-11-24
     > **Резюме:** Building agents is still messy and existing SDK abstractions often break with real tool use.  
 Explicit control—especially direct SDK use and explicit cache management—makes agent behavior, costs, and reinforcement clearer.  

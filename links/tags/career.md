@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 63
+- Всего ссылок: 64
 
 ## Ссылки
 
+- [21 Lessons from 14 Years at Google](https://addyo.substack.com/p/21-lessons-from-14-years-at-google?utm_source=tldrdev&triedRedirect=true) 👤 Addy Osmani 💬 2334 🔖 #career 🗓️ 2025-12-12
+    > **Резюме:** Great engineers do more than write code: they solve real user problems, make their work legible, and trade cleverness for clarity.  
+Focus on action, learning from feedback, and reducing unnecessary work.  
+Lead by admitting uncertainty, enabling others, and making impact visible.
 - [What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/) 👤 Terrible Software 💬 563 🔖 #career, #softwarecraft 🗓️ 2025-11-26
     > **Резюме:** Senior engineers’ core skill is reducing ambiguity. They turn fuzzy problems into clear, actionable plans by asking the right questions. That upfront work prevents surprises and makes other skills actually valuable.
 - [You have two jobs](https://jacobian.org/2017/nov/1/you-have-two-jobs/?utm_source=substack&utm_medium=email) 👤 jacobian.org 💬 526 🔖 #career, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29

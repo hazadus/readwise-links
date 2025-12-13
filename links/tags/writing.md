@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 19
+- Всего ссылок: 20
 
 ## Ссылки
 
+- [AI detection tools cannot prove that text is AI-generated](https://seangoedecke.com/ai-detection/) 👤 seangoedecke.com 💬 1687 🔖 #llm, #writing 🗓️ 2025-12-06
+    > **Резюме:** AI detection tools can guess if text was written by a model, but they cannot prove it. Models learn from human writing, so AI text can look human and humans can write like AI. Detection tools can be useful but give only probabilistic, sometimes biased results.
 - [“Frowning at a screen for 200 hours”: on the writing process](https://bitfieldconsulting.com/posts/the-writing-process) 👤 John Arundel 💬 1850 🔖 #writing, #inspiration 🗓️ 2025-11-15
     > **Резюме:** John Arundel wrote the Puppet Cookbook by carving out about 200 hours over eight months while juggling freelance work. Writing taught him Puppet features he hadn't used, required lots of coding, testing, and rewriting, and relied on community help. He advises careful planning, time management, and iterative revision for anyone writing a technical book.
 - [Writing for AIs is a good way to reach more humans](https://seangoedecke.com/writing-for-ais/) 👤 seangoedecke.com 💬 1599 🔖 #llm, #writing 🗓️ 2025-11-14

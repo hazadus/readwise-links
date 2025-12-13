@@ -1,10 +1,18 @@
 # Архивные ссылки
 
-- Всего ссылок: 1230
+- Всего ссылок: 1236
 
 ## Ссылки
 
+- [AI Can Write Your Code. It Can’t Do Your Job.](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/) 👤 Terrible Software 💬 846 🔖 #llm, #toot, #softwarecraft 🗓️ 2025-12-12
+    > **Заметка:** "The engineers who understand that programming isn’t the job, the ones who bring judgment, context, and the ability to figure out what to build, those are the ones who stay."
+- [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/#atom-everything) 👤 Simon Willison 💬 3236 🔖 #llm 🗓️ 2025-12-11
+- [[BadComedian] - Кракен (НАШ ОТВЕТ ГОДЗИЛЛЕ за Миллиард)](https://www.youtube.com/watch?v=dBHHvSx0rnk) 👤 BadComedian 🗓️ 2025-12-08
+- [TIL: Subtests in pytest 9.0.0+](https://simonwillison.net/2025/Dec/5/til-pytest-subtests/#atom-everything) 👤 Simon Willison 💬 123 🔖 #pytest 🗓️ 2025-12-07
+- [AI detection tools cannot prove that text is AI-generated](https://seangoedecke.com/ai-detection/) 👤 seangoedecke.com 💬 1687 🔖 #llm, #writing 🗓️ 2025-12-06
 - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/) 👤 sinclairtarget.com 💬 2031 🔖 #go, #zig, #rust 🗓️ 2025-12-05
+- [AI optimism is a class privilege](https://joshcollinsworth.com/blog/sloptimism) 👤 Josh Collinsworth 💬 3212 🔖 #llm, #toot 🗓️ 2025-12-04
+    > **Заметка:** "In order to be an AI optimist, you have to believe yours is not one of the jobs that risk being automated or downsized, and that you are not among the potentially millions of workers staring down displacement."
 - [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/) 👤 adamj.eu 💬 4981 🔖 #django 🗓️ 2025-12-04
 - [The Harvest Will Come](https://www.joanwestenberg.com/p/the-harvest-will-come) 👤 JA Westenberg 💬 816 🔖 #inspiration 🗓️ 2025-12-03
     > **Заметка:** Очень точные наблюдения о сменяющихся циклах мотивированности и апатии. 

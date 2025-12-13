@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [The Anatomy of a macOS App](https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/?utm_source=tldrdev) 👤 The Eclectic Light Company 💬 739 🔖 #macos 🗓️ 2025-12-12
+    > **Резюме:** macOS apps are self-contained bundles (.app) with a Contents folder holding executables, resources, and metadata like Info.plist. Apple added code signing, notarization, and receipts to protect and verify bundle contents. Bundles simplify installation, updates, removal, and improve security.
 - [Simple macOS script to extract text from images (OCR)](https://evanhahn.com/mac-ocr-script/) 👤 Evan Hahn 💬 232 🔖 #cli, #try, #macos 🗓️ 2025-10-29
     > **Резюме:** Evan Hahn made a simple macOS script called "ocr" that extracts text from images using Apple’s text recognition API. It works well for screenshots and photos but sometimes misreads characters (like em dashes) and logs an annoying error if recognition fails. He shared the Swift source and welcomes fixes.
 - [Turn off macOS Liquid Glass via the CLI](https://www.stefanjudis.com/snippets/turn-off-macos-liquid-glass-via-the-cli/) 👤 stefanjudis.com 💬 104 🔖 #macos 🗓️ 2025-10-27

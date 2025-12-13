@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [Build self-hosted AI Agent with Ollama, Pydantic AI and Django Ninja](https://scribe.rip/@tom.mart/build-self-hosted-ai-agent-with-ollama-pydantic-ai-and-django-ninja-53c6b3f14a1d?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 scribe.rip 💬 2105 🔖 #try, #agents, #django, #pydantic 🗓️ 2025-12-12
+    > **Резюме:** This guide shows how to build a self-hosted AI agent using Ollama, Pydantic AI, and Django Ninja.  
+It walks through project setup, a “roll a dice” tool-based agent, and creating authenticated API endpoints.  
+Next article will add persistent memory for richer, personalized conversations.
 - [Migration Guide](https://docs.pydantic.dev/2.0/migration/#changes-to-pydanticbasemodel) 👤 pydantic.dev 💬 4217 🔖 #pydantic 🗓️ 2024-12-10
     > **Резюме:** Pydantic V2 introduces significant changes, including renamed methods and the removal of some built-in data-loading functions. The handling of dataclasses and validation has also been updated, with new features like the TypeAdapter class for easier validation and JSON schema generation. Additionally, there are changes to how custom types and JSON schemas are defined and generated, improving flexibility and performance.
 - [Pydantic 2: Полное руководство для Python-разработчиков — от основ до продвинутых техник](https://habr.com/ru/companies/amvera/articles/851642/) 👤 Хабр 💬 5390 🔖 #pydantic 🗓️ 2024-12-04

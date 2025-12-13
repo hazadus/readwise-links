@@ -1,9 +1,21 @@
 # Ссылки
 
-- Всего ссылок: 296
+- Всего ссылок: 301
 
 ## Ссылки
 
+- [If You’re Going to Vibe Code, Why Not Do It in C?](https://stephenramsay.net/posts/vibe-coding.html?utm_source=tldrdev) 👤 Stephen Ramsay 💬 1766 🔖 #llm, #clang 🗓️ 2025-12-12
+    > **Резюме:** The author loves programming but feels vibe coding takes away the fun and understanding of writing code. Despite this, vibe coding works well and may change the future of software development. They ask why we don’t use simpler languages like C or assembly for vibe coding and suggest we might need new languages designed specifically for it.
+- [AI Can Write Your Code. It Can’t Do Your Job.](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/) 👤 Terrible Software 💬 846 🔖 #llm, #toot, #softwarecraft 🗓️ 2025-12-12
+    > **Заметка:** "The engineers who understand that programming isn’t the job, the ones who bring judgment, context, and the ability to figure out what to build, those are the ones who stay."
+    > **Резюме:** AI can write code, but it can’t replace the full job of a software engineer. The real work is judgment: figuring out problems, making trade-offs, and shipping reliable products. Engineers who use AI and focus on these higher skills will thrive.
+- [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/#atom-everything) 👤 Simon Willison 💬 3236 🔖 #llm 🗓️ 2025-12-11
+    > **Резюме:** Simon Willison builds small HTML tools that combine HTML, JavaScript, and CSS in one file for easy sharing and hosting. These tools can fetch data, transform it, and even run code in the browser without a server. He uses coding agents and GitHub Pages to create, test, and host these tools efficiently.
+- [AI detection tools cannot prove that text is AI-generated](https://seangoedecke.com/ai-detection/) 👤 seangoedecke.com 💬 1687 🔖 #llm, #writing 🗓️ 2025-12-06
+    > **Резюме:** AI detection tools can guess if text was written by a model, but they cannot prove it. Models learn from human writing, so AI text can look human and humans can write like AI. Detection tools can be useful but give only probabilistic, sometimes biased results.
+- [AI optimism is a class privilege](https://joshcollinsworth.com/blog/sloptimism) 👤 Josh Collinsworth 💬 3212 🔖 #llm, #toot 🗓️ 2025-12-04
+    > **Заметка:** "In order to be an AI optimist, you have to believe yours is not one of the jobs that risk being automated or downsized, and that you are not among the potentially millions of workers staring down displacement."
+    > **Резюме:** AI optimism is a class privilege because the benefits mainly help people who are already secure. Many workers, students, and vulnerable groups face job loss, harm, and surveillance from AI. Choosing optimism often means ignoring those real costs.
 - [Software Development in the Time of Strange New Angels](https://davegriffith.substack.com/p/software-development-in-the-time?utm_source=substack&utm_medium=email) 👤 Dave Griffith 💬 3605 🔖 #llm, #joyandcuriosity 🗓️ 2025-11-30
     > **Резюме:** Agentic AI makes writing code far cheaper and much faster than the old $150/hour model.  
 That speed only helps if organizations and developers learn how to design, test, and manage quality; otherwise it creates technical debt.  

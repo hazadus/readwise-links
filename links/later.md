@@ -1,20 +1,29 @@
 # Отложенные ссылки
 
-- Всего ссылок: 126
+- Всего ссылок: 128
 
 ## Ссылки
 
-- [What’s up Python ? Rust in CPython, immutable dicts, unpacking in comprehensions...](https://www.bitecode.dev/p/whats-up-python-rust-in-cpython-immutable) 👤 bitecode.dev 🔖 #python 🗓️ 2025-12-09
+- [If You’re Going to Vibe Code, Why Not Do It in C?](https://stephenramsay.net/posts/vibe-coding.html?utm_source=tldrdev) 👤 Stephen Ramsay 💬 1766 🔖 #llm, #clang 🗓️ 2025-12-12
+    > **Резюме:** The author loves programming but feels vibe coding takes away the fun and understanding of writing code. Despite this, vibe coding works well and may change the future of software development. They ask why we don’t use simpler languages like C or assembly for vibe coding and suggest we might need new languages designed specifically for it.
+- [The Anatomy of a macOS App](https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/?utm_source=tldrdev) 👤 The Eclectic Light Company 💬 739 🔖 #macos 🗓️ 2025-12-12
+    > **Резюме:** macOS apps are self-contained bundles (.app) with a Contents folder holding executables, resources, and metadata like Info.plist. Apple added code signing, notarization, and receipts to protect and verify bundle contents. Bundles simplify installation, updates, removal, and improve security.
+- [21 Lessons from 14 Years at Google](https://addyo.substack.com/p/21-lessons-from-14-years-at-google?utm_source=tldrdev&triedRedirect=true) 👤 Addy Osmani 💬 2334 🔖 #career 🗓️ 2025-12-12
+    > **Резюме:** Great engineers do more than write code: they solve real user problems, make their work legible, and trade cleverness for clarity.  
+Focus on action, learning from feedback, and reducing unnecessary work.  
+Lead by admitting uncertainty, enabling others, and making impact visible.
+- [Django Third-party App Ecosystem](https://frankwiles.com/posts/django-third-party-apps/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 frankwiles.com 💬 762 🔖 #django 🗓️ 2025-12-12
+    > **Резюме:** Django has many useful third-party apps that can save you lots of time. Many developers—new and experienced—don’t know where to find them. The Django Steering Council made an Ecosystem Page and urges you to check it, follow a newsletter/podcast, and spend regular time exploring.
+- [Build self-hosted AI Agent with Ollama, Pydantic AI and Django Ninja](https://scribe.rip/@tom.mart/build-self-hosted-ai-agent-with-ollama-pydantic-ai-and-django-ninja-53c6b3f14a1d?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 scribe.rip 💬 2105 🔖 #try, #agents, #django, #pydantic 🗓️ 2025-12-12
+    > **Резюме:** This guide shows how to build a self-hosted AI agent using Ollama, Pydantic AI, and Django Ninja.  
+It walks through project setup, a “roll a dice” tool-based agent, and creating authenticated API endpoints.  
+Next article will add persistent memory for richer, personalized conversations.
+- [A first look at Django's new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 Roam 💬 2650 🔖 #django 🗓️ 2025-12-12
+    > **Резюме:** Django 6.0 adds a new background tasks framework called django.tasks that helps define and enqueue tasks with a simple API. It does not run tasks itself but provides tools to manage and track task status in a database. This framework aims to cover common use cases but lacks advanced features found in specialized task queue systems.
 - [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576) 👤 oxide.computer 💬 1579 🗓️ 2025-12-08
     > **Резюме:** LLMs are powerful tools that can speed reading, editing, code writing, and debugging but they bring risks that must be managed. Humans remain responsible for all outputs and must keep rigor, empathy, and teamwork foremost. Use LLMs as assistants—never as a substitute for human judgment or authenticity.
 - [Mechanical Habits](https://matklad.github.io/2025/12/06/mechanical-habits.html) 👤 matklad.github.io 💬 1682 🗓️ 2025-12-07
     > **Резюме:** The author shares simple automation habits to improve software engineering, like weekly releases to reduce stress and keep code healthy. They emphasize using robots to manage code merging and maintaining tidy tests to catch issues early. Lastly, chaining benchmarks to tests helps keep performance checks up-to-date without extra effort.
-- [TIL: Subtests in pytest 9.0.0+](https://simonwillison.net/2025/Dec/5/til-pytest-subtests/#atom-everything) 👤 Simon Willison 💬 123 🔖 #pytest 🗓️ 2025-12-07
-    > **Резюме:** Pytest 9.0.0 introduced a new feature called subtests. Subtests can run tests faster and allow tests to be created dynamically after setup. This offers a useful alternative to the existing parameterized tests.
-- [AI detection tools cannot prove that text is AI-generated](https://seangoedecke.com/ai-detection/) 👤 seangoedecke.com 💬 1687 🗓️ 2025-12-06
-    > **Резюме:** AI detection tools can guess if text was written by a model, but they cannot prove it. Models learn from human writing, so AI text can look human and humans can write like AI. Detection tools can be useful but give only probabilistic, sometimes biased results.
-- [AI optimism is a class privilege](https://joshcollinsworth.com/blog/sloptimism) 👤 Josh Collinsworth 💬 3212 🗓️ 2025-12-04
-    > **Резюме:** AI optimism is a class privilege because the benefits mainly help people who are already secure. Many workers, students, and vulnerable groups face job loss, harm, and surveillance from AI. Choosing optimism often means ignoring those real costs.
 - [Hexagonal Architecture for absolute beginners.](https://sushantdhiman.substack.com/p/hexagonal-architecture-for-absolute?utm_source=post-email-title&publication_id=3501228&post_id=180310942&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) 👤 Sushant Dhiman 💬 896 🗓️ 2025-11-30
     > **Резюме:** Hexagonal architecture isolates the core domain from frameworks and external systems.  
 It uses domain-defined ports and interchangeable adapters so databases or APIs can be swapped easily.  

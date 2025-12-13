@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 57
+- Всего ссылок: 58
 
 ## Ссылки
 
+- [Build self-hosted AI Agent with Ollama, Pydantic AI and Django Ninja](https://scribe.rip/@tom.mart/build-self-hosted-ai-agent-with-ollama-pydantic-ai-and-django-ninja-53c6b3f14a1d?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 scribe.rip 💬 2105 🔖 #try, #agents, #django, #pydantic 🗓️ 2025-12-12
+    > **Резюме:** This guide shows how to build a self-hosted AI agent using Ollama, Pydantic AI, and Django Ninja.  
+It walks through project setup, a “roll a dice” tool-based agent, and creating authenticated API endpoints.  
+Next article will add persistent memory for richer, personalized conversations.
 - [GitHub: top commands in gh, the official GitHub CLI](https://adamj.eu/tech/2025/11/24/github-top-gh-cli-commands/) 👤 adamj.eu 💬 5208 🔖 #cli, #try, #github 🗓️ 2025-11-24
     > **Резюме:** The GitHub CLI (gh) lets you create, view, checkout, and merge pull requests from the command line. It offers interactive prompts, web mode, and options like auto-merge and push prompts to simplify workflows. gh also shows and watches GitHub Actions runs so you can monitor CI from your terminal.
 - [Simple macOS script to extract text from images (OCR)](https://evanhahn.com/mac-ocr-script/) 👤 Evan Hahn 💬 232 🔖 #cli, #try, #macos 🗓️ 2025-10-29

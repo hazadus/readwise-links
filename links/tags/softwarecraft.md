@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 27
+- Всего ссылок: 28
 
 ## Ссылки
 
+- [AI Can Write Your Code. It Can’t Do Your Job.](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/) 👤 Terrible Software 💬 846 🔖 #llm, #toot, #softwarecraft 🗓️ 2025-12-12
+    > **Заметка:** "The engineers who understand that programming isn’t the job, the ones who bring judgment, context, and the ability to figure out what to build, those are the ones who stay."
+    > **Резюме:** AI can write code, but it can’t replace the full job of a software engineer. The real work is judgment: figuring out problems, making trade-offs, and shipping reliable products. Engineers who use AI and focus on these higher skills will thrive.
 - [How good engineers write bad code at big companies](https://seangoedecke.com/bad-code-at-big-companies/) 👤 seangoedecke.com 💬 1645 🔖 #softwarecraft 🗓️ 2025-11-29
     > **Резюме:** Big tech hires many competent engineers but moves people between teams so often that most code changes are made by people new to a codebase. Experienced "old hands" exist but are overloaded and informal, so bad or hacky fixes often get shipped. This is a deliberate tradeoff by companies that values flexibility over deep, long-term expertise.
 - [Becoming unblockable](https://seangoedecke.com/unblockable/) 👤 seangoedecke.com 💬 1868 🔖 #softwarecraft 🗓️ 2025-11-26

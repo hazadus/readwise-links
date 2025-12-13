@@ -1,9 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 48
+- Всего ссылок: 51
 
 ## Ссылки
 
+- [Django Third-party App Ecosystem](https://frankwiles.com/posts/django-third-party-apps/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 frankwiles.com 💬 762 🔖 #django 🗓️ 2025-12-12
+    > **Резюме:** Django has many useful third-party apps that can save you lots of time. Many developers—new and experienced—don’t know where to find them. The Django Steering Council made an Ecosystem Page and urges you to check it, follow a newsletter/podcast, and spend regular time exploring.
+- [Build self-hosted AI Agent with Ollama, Pydantic AI and Django Ninja](https://scribe.rip/@tom.mart/build-self-hosted-ai-agent-with-ollama-pydantic-ai-and-django-ninja-53c6b3f14a1d?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 scribe.rip 💬 2105 🔖 #try, #agents, #django, #pydantic 🗓️ 2025-12-12
+    > **Резюме:** This guide shows how to build a self-hosted AI agent using Ollama, Pydantic AI, and Django Ninja.  
+It walks through project setup, a “roll a dice” tool-based agent, and creating authenticated API endpoints.  
+Next article will add persistent memory for richer, personalized conversations.
+- [A first look at Django's new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 Roam 💬 2650 🔖 #django 🗓️ 2025-12-12
+    > **Резюме:** Django 6.0 adds a new background tasks framework called django.tasks that helps define and enqueue tasks with a simple API. It does not run tasks itself but provides tools to manage and track task status in a database. This framework aims to cover common use cases but lacks advanced features found in specialized task queue systems.
 - [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/) 👤 adamj.eu 💬 4981 🔖 #django 🗓️ 2025-12-04
     > **Резюме:** Django 6.0 (codename "mosaic") was released with four headline features: template partials, a built-in Tasks framework, CSP support with nonce generation, and an updated email API. The release includes small conveniences like automatic shell imports and querystring tag enhancements. Many contributors (174) helped make these improvements possible.
 - [Looking forward to Django 6.0](mailto:reader-forwarded-email/d63966dbff39ea2b976500388197636b) 👤 Carlton Gibson 💬 1849 🔖 #csp, #django 🗓️ 2025-09-01
