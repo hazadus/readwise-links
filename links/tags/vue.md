@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 25
+- Всего ссылок: 27
 
 ## Ссылки
 
+- [Vue 3 Testing Pyramid: A Practical Guide with Vitest Browser Mode](https://alexop.dev/posts/vue3_testing_pyramid_vitest_browser_mode/) 👤 Alexander Opalic 💬 3336 🔖 #vue, #vitest, #testing 🗓️ 2025-12-15
+    > **Резюме:** The post recommends a practical Vue 3 testing strategy that favors many fast composable unit tests and fewer, realistic integration tests run in Vitest browser mode. Use data factories, a createTestApp helper, and page objects to keep tests clear and maintainable. Add targeted accessibility and visual checks for critical screens and consider AI-driven exploratory QA as a complement.
+- [Vue Composables Style Guide: Lessons from VueUse's Codebase](https://alexop.dev/posts/vueuse_composables_style_guide/) 👤 Alexander Opalic 💬 2850 🔖 #vue 🗓️ 2025-12-15
+    > **Резюме:** This guide shows patterns for building robust Vue 3 composables used in production.  
+Key ideas: flexible inputs (MaybeRefOrGetter), shallowRef for primitives, SSR safety, auto-cleanup, and pausable/stoppable patterns.  
+It also covers TypeScript typing, testing tips, and ready-to-use templates.
 - [Junior vs Senior: Building Modals in Vue](https://michaelnthiessen.com/junior-vs-senior-modals?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(242)+When+ref+and+reactive+work+the+same,+how+to+make+a+variable+created+outside+of+Vue+reactive,+and+more+-+19594812&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1564 🔖 #vue 🗓️ 2025-11-12
     > **Резюме:** Modals reveal how you think about building apps: juniors tie state and UI together, seniors separate concerns. Use a global data store, humble presentation components, and controller components to make modals scalable and testable. These patterns generalize beyond modals and change how you design Vue apps.
 - [Vue 3.5's onWatcherCleanup: Mastering Side Effect Management in Vue Applications](https://alexop.dev/posts/vue-35s-onwatchercleanup-mastering-side-effect-management-in-vue-applications/) 👤 Alexander Opalic 💬 688 🔖 #vue 🗓️ 2025-09-26

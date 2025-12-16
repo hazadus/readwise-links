@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 40
+- Всего ссылок: 41
 
 ## Ссылки
 
+- [Vue 3 Testing Pyramid: A Practical Guide with Vitest Browser Mode](https://alexop.dev/posts/vue3_testing_pyramid_vitest_browser_mode/) 👤 Alexander Opalic 💬 3336 🔖 #vue, #vitest, #testing 🗓️ 2025-12-15
+    > **Резюме:** The post recommends a practical Vue 3 testing strategy that favors many fast composable unit tests and fewer, realistic integration tests run in Vitest browser mode. Use data factories, a createTestApp helper, and page objects to keep tests clear and maintainable. Add targeted accessibility and visual checks for critical screens and consider AI-driven exploratory QA as a complement.
 - [Gist of Go: Concurrency testing](https://antonz.org/go-concurrency/testing/) 👤 Anton Zhiyanov 💬 7291 🔖 #go, #testing 🗓️ 2025-11-24
     > **Резюме:** synctest.Test runs tests in a controlled "bubble" so goroutine scheduling and time can be simulated. synctest.Wait blocks until all other goroutines in the bubble are finished or durably blocked, letting the tester know a goroutine reached a known blocking point. Use synctest.Wait instead of sleep to avoid races and flaky tests; synctest.Test panics if goroutines stay permanently ununblockable.
 - [Thoughts on Testing January 4, 2024](https://www.brandons.me/blog/thoughts-on-testing?utm_source=substack&utm_medium=email) 👤 Brandon Smith 💬 1461 🔖 #testing, #joyandcuriosity 🗓️ 2025-09-28

@@ -1,17 +1,23 @@
 # Отложенные ссылки
 
-- Всего ссылок: 128
+- Всего ссылок: 129
 
 ## Ссылки
 
+- [Justified](https://www.bitecode.dev/p/justified) 👤 Bite Code! 💬 2039 🗓️ 2025-12-15
+    > **Резюме:** just is a simple cross-platform task runner that puts project commands in a .justfile. It lists and runs recipes so you don’t memorize long commands. It’s fast, portable, and supports parameters, platform-specific recipes, and env loading.
+- [Vue 3 Testing Pyramid: A Practical Guide with Vitest Browser Mode](https://alexop.dev/posts/vue3_testing_pyramid_vitest_browser_mode/) 👤 Alexander Opalic 💬 3336 🔖 #vue, #vitest, #testing 🗓️ 2025-12-15
+    > **Резюме:** The post recommends a practical Vue 3 testing strategy that favors many fast composable unit tests and fewer, realistic integration tests run in Vitest browser mode. Use data factories, a createTestApp helper, and page objects to keep tests clear and maintainable. Add targeted accessibility and visual checks for critical screens and consider AI-driven exploratory QA as a complement.
+- [Building an AI QA Engineer with Claude Code and Playwright MCP](https://alexop.dev/posts/building_ai_qa_engineer_claude_code_playwright/) 👤 Alexander Opalic 💬 1193 🗓️ 2025-12-15
+    > **Резюме:** Alexander Opalic built an AI QA engineer named Quinn that uses Claude Code and Playwright MCP to test web apps through the browser like a real user. Quinn runs on pull requests via GitHub Actions, clicks, types, resizes the viewport, and posts detailed bug reports with screenshots. This approach finds edge cases and complements but does not replace traditional unit and E2E tests.
+- [Vue Composables Style Guide: Lessons from VueUse's Codebase](https://alexop.dev/posts/vueuse_composables_style_guide/) 👤 Alexander Opalic 💬 2850 🔖 #vue 🗓️ 2025-12-15
+    > **Резюме:** This guide shows patterns for building robust Vue 3 composables used in production.  
+Key ideas: flexible inputs (MaybeRefOrGetter), shallowRef for primitives, SSR safety, auto-cleanup, and pausable/stoppable patterns.  
+It also covers TypeScript typing, testing tips, and ready-to-use templates.
 - [If You’re Going to Vibe Code, Why Not Do It in C?](https://stephenramsay.net/posts/vibe-coding.html?utm_source=tldrdev) 👤 Stephen Ramsay 💬 1766 🔖 #llm, #clang 🗓️ 2025-12-12
     > **Резюме:** The author loves programming but feels vibe coding takes away the fun and understanding of writing code. Despite this, vibe coding works well and may change the future of software development. They ask why we don’t use simpler languages like C or assembly for vibe coding and suggest we might need new languages designed specifically for it.
 - [The Anatomy of a macOS App](https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/?utm_source=tldrdev) 👤 The Eclectic Light Company 💬 739 🔖 #macos 🗓️ 2025-12-12
     > **Резюме:** macOS apps are self-contained bundles (.app) with a Contents folder holding executables, resources, and metadata like Info.plist. Apple added code signing, notarization, and receipts to protect and verify bundle contents. Bundles simplify installation, updates, removal, and improve security.
-- [21 Lessons from 14 Years at Google](https://addyo.substack.com/p/21-lessons-from-14-years-at-google?utm_source=tldrdev&triedRedirect=true) 👤 Addy Osmani 💬 2334 🔖 #career 🗓️ 2025-12-12
-    > **Резюме:** Great engineers do more than write code: they solve real user problems, make their work legible, and trade cleverness for clarity.  
-Focus on action, learning from feedback, and reducing unnecessary work.  
-Lead by admitting uncertainty, enabling others, and making impact visible.
 - [Django Third-party App Ecosystem](https://frankwiles.com/posts/django-third-party-apps/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 frankwiles.com 💬 762 🔖 #django 🗓️ 2025-12-12
     > **Резюме:** Django has many useful third-party apps that can save you lots of time. Many developers—new and experienced—don’t know where to find them. The Django Steering Council made an Ecosystem Page and urges you to check it, follow a newsletter/podcast, and spend regular time exploring.
 - [Build self-hosted AI Agent with Ollama, Pydantic AI and Django Ninja](https://scribe.rip/@tom.mart/build-self-hosted-ai-agent-with-ollama-pydantic-ai-and-django-ninja-53c6b3f14a1d?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 scribe.rip 💬 2105 🔖 #try, #agents, #django, #pydantic 🗓️ 2025-12-12
@@ -20,10 +26,6 @@ It walks through project setup, a “roll a dice” tool-based agent, and creati
 Next article will add persistent memory for richer, personalized conversations.
 - [A first look at Django's new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 Roam 💬 2650 🔖 #django 🗓️ 2025-12-12
     > **Резюме:** Django 6.0 adds a new background tasks framework called django.tasks that helps define and enqueue tasks with a simple API. It does not run tasks itself but provides tools to manage and track task status in a database. This framework aims to cover common use cases but lacks advanced features found in specialized task queue systems.
-- [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576) 👤 oxide.computer 💬 1579 🗓️ 2025-12-08
-    > **Резюме:** LLMs are powerful tools that can speed reading, editing, code writing, and debugging but they bring risks that must be managed. Humans remain responsible for all outputs and must keep rigor, empathy, and teamwork foremost. Use LLMs as assistants—never as a substitute for human judgment or authenticity.
-- [Mechanical Habits](https://matklad.github.io/2025/12/06/mechanical-habits.html) 👤 matklad.github.io 💬 1682 🗓️ 2025-12-07
-    > **Резюме:** The author shares simple automation habits to improve software engineering, like weekly releases to reduce stress and keep code healthy. They emphasize using robots to manage code merging and maintaining tidy tests to catch issues early. Lastly, chaining benchmarks to tests helps keep performance checks up-to-date without extra effort.
 - [Hexagonal Architecture for absolute beginners.](https://sushantdhiman.substack.com/p/hexagonal-architecture-for-absolute?utm_source=post-email-title&publication_id=3501228&post_id=180310942&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) 👤 Sushant Dhiman 💬 896 🗓️ 2025-11-30
     > **Резюме:** Hexagonal architecture isolates the core domain from frameworks and external systems.  
 It uses domain-defined ports and interchangeable adapters so databases or APIs can be swapped easily.  

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 301
+- Всего ссылок: 303
 
 ## Ссылки
 
+- [Vibe coding is boring](https://cassidoo.co/post/vibe-coding-yawn/) 👤 cassidoo.co 💬 460 🔖 #llm 🗓️ 2025-12-15
+    > **Резюме:** The author finds "vibe coding" — letting AI write code — useful but boring. They enjoy hands-on coding and the feeling of solving problems. Vibe coding is handy for simple projects but not fulfilling.
 - [If You’re Going to Vibe Code, Why Not Do It in C?](https://stephenramsay.net/posts/vibe-coding.html?utm_source=tldrdev) 👤 Stephen Ramsay 💬 1766 🔖 #llm, #clang 🗓️ 2025-12-12
     > **Резюме:** The author loves programming but feels vibe coding takes away the fun and understanding of writing code. Despite this, vibe coding works well and may change the future of software development. They ask why we don’t use simpler languages like C or assembly for vibe coding and suggest we might need new languages designed specifically for it.
 - [AI Can Write Your Code. It Can’t Do Your Job.](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/) 👤 Terrible Software 💬 846 🔖 #llm, #toot, #softwarecraft 🗓️ 2025-12-12
@@ -11,6 +13,8 @@
     > **Резюме:** AI can write code, but it can’t replace the full job of a software engineer. The real work is judgment: figuring out problems, making trade-offs, and shipping reliable products. Engineers who use AI and focus on these higher skills will thrive.
 - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/#atom-everything) 👤 Simon Willison 💬 3236 🔖 #llm 🗓️ 2025-12-11
     > **Резюме:** Simon Willison builds small HTML tools that combine HTML, JavaScript, and CSS in one file for easy sharing and hosting. These tools can fetch data, transform it, and even run code in the browser without a server. He uses coding agents and GitHub Pages to create, test, and host these tools efficiently.
+- [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576) 👤 oxide.computer 💬 1579 🔖 #llm 🗓️ 2025-12-08
+    > **Резюме:** LLMs are powerful tools that can speed reading, editing, code writing, and debugging but they bring risks that must be managed. Humans remain responsible for all outputs and must keep rigor, empathy, and teamwork foremost. Use LLMs as assistants—never as a substitute for human judgment or authenticity.
 - [AI detection tools cannot prove that text is AI-generated](https://seangoedecke.com/ai-detection/) 👤 seangoedecke.com 💬 1687 🔖 #llm, #writing 🗓️ 2025-12-06
     > **Резюме:** AI detection tools can guess if text was written by a model, but they cannot prove it. Models learn from human writing, so AI text can look human and humans can write like AI. Detection tools can be useful but give only probabilistic, sometimes biased results.
 - [AI optimism is a class privilege](https://joshcollinsworth.com/blog/sloptimism) 👤 Josh Collinsworth 💬 3212 🔖 #llm, #toot 🗓️ 2025-12-04

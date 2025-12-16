@@ -1,13 +1,17 @@
 # Архивные ссылки
 
-- Всего ссылок: 1236
+- Всего ссылок: 1240
 
 ## Ссылки
 
+- [Vibe coding is boring](https://cassidoo.co/post/vibe-coding-yawn/) 👤 cassidoo.co 💬 460 🔖 #llm 🗓️ 2025-12-15
+- [21 Lessons from 14 Years at Google](https://addyo.substack.com/p/21-lessons-from-14-years-at-google?utm_source=tldrdev&triedRedirect=true) 👤 Addy Osmani 💬 2334 🔖 #career, #softwarecraft 🗓️ 2025-12-12
 - [AI Can Write Your Code. It Can’t Do Your Job.](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/) 👤 Terrible Software 💬 846 🔖 #llm, #toot, #softwarecraft 🗓️ 2025-12-12
     > **Заметка:** "The engineers who understand that programming isn’t the job, the ones who bring judgment, context, and the ability to figure out what to build, those are the ones who stay."
 - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/#atom-everything) 👤 Simon Willison 💬 3236 🔖 #llm 🗓️ 2025-12-11
 - [[BadComedian] - Кракен (НАШ ОТВЕТ ГОДЗИЛЛЕ за Миллиард)](https://www.youtube.com/watch?v=dBHHvSx0rnk) 👤 BadComedian 🗓️ 2025-12-08
+- [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576) 👤 oxide.computer 💬 1579 🔖 #llm 🗓️ 2025-12-08
+- [Mechanical Habits](https://matklad.github.io/2025/12/06/mechanical-habits.html) 👤 matklad.github.io 💬 1682 🗓️ 2025-12-07
 - [TIL: Subtests in pytest 9.0.0+](https://simonwillison.net/2025/Dec/5/til-pytest-subtests/#atom-everything) 👤 Simon Willison 💬 123 🔖 #pytest 🗓️ 2025-12-07
 - [AI detection tools cannot prove that text is AI-generated](https://seangoedecke.com/ai-detection/) 👤 seangoedecke.com 💬 1687 🔖 #llm, #writing 🗓️ 2025-12-06
 - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/) 👤 sinclairtarget.com 💬 2031 🔖 #go, #zig, #rust 🗓️ 2025-12-05
