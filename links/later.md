@@ -1,9 +1,19 @@
 # Отложенные ссылки
 
-- Всего ссылок: 129
+- Всего ссылок: 132
 
 ## Ссылки
 
+- [Sometimes It Really Is That Easy](https://davegriffith.substack.com/p/sometimes-it-really-is-that-easy) 👤 Dave Griffith 💬 1208 🔖 #llm, #devtools 🗓️ 2025-12-16
+    > **Резюме:** Good developer tooling makes setup fast and reliable. AI can now generate those boring but vital scripts in minutes. That saves time, reduces friction, and speeds up onboarding and work.
+- [Memory as an AI superpower](https://davegriffith.substack.com/p/memory-as-an-ai-superpower) 👤 Dave Griffith 💬 2554 🗓️ 2025-12-16
+    > **Резюме:** Large language models have no internal long-term memory, so you give them one by letting them read and write files in a simple folder.  
+That folder stores project notes, people notes, and learning notes so the model can recall and update context for you.  
+This makes AI a practical memory extension: searchable, portable, inspectable, and useful for everyday work.
+- [I Helped Build Your IDE. Here's What Will Replace It](https://davegriffith.substack.com/p/i-helped-build-your-ide-heres-what) 👤 Dave Griffith 💬 2718 🗓️ 2025-12-16
+    > **Резюме:** Developers are moving from hands-on coding in IDEs to guiding AI agents that generate and review code. The new “control tower” tools will coordinate agents, context, and reviews rather than act as a traditional editor cockpit. Key skills will shift from typing code to writing clear specs and knowing when to take manual control.
+- [Django RAPID architecture¶](https://www.django-rapid-architecture.org/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_315) 👤 django-rapid-architecture.org 💬 1092 🔖 #django 🗓️ 2025-12-16
+    > **Резюме:** Django RAPID is a concise set of patterns for building maintainable, scalable Django projects based on 15+ years of experience. It favors simple, predictable foundations that let systems grow without hidden complexity. The guide is flexible and prescriptive only where it matters, so teams can adopt what fits their workflow.
 - [Justified](https://www.bitecode.dev/p/justified) 👤 Bite Code! 💬 2039 🗓️ 2025-12-15
     > **Резюме:** just is a simple cross-platform task runner that puts project commands in a .justfile. It lists and runs recipes so you don’t memorize long commands. It’s fast, portable, and supports parameters, platform-specific recipes, and env loading.
 - [Vue 3 Testing Pyramid: A Practical Guide with Vitest Browser Mode](https://alexop.dev/posts/vue3_testing_pyramid_vitest_browser_mode/) 👤 Alexander Opalic 💬 3336 🔖 #vue, #vitest, #testing 🗓️ 2025-12-15
@@ -34,10 +44,6 @@ This makes code more portable, testable, and suitable for apps with multiple ent
     > **Резюме:** The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.
 - [how-did-i-get-here.net](https://how-did-i-get-here.net/?utm_source=substack&utm_medium=email) 👤 Lexi 💬 2827 🔖 #joyandcuriosity 🗓️ 2025-11-30
     > **Резюме:** This site runs a traceroute to show the path your packets took across the Internet. Routers in different networks (autonomous systems) pass packets along using BGP routing. The traceroute lists those routers and ASes so you can see how reachability is determined.
-- [Software Development in the Time of Strange New Angels](https://davegriffith.substack.com/p/software-development-in-the-time?utm_source=substack&utm_medium=email) 👤 Dave Griffith 💬 3605 🔖 #llm, #joyandcuriosity 🗓️ 2025-11-30
-    > **Резюме:** Agentic AI makes writing code far cheaper and much faster than the old $150/hour model.  
-That speed only helps if organizations and developers learn how to design, test, and manage quality; otherwise it creates technical debt.  
-Developers who master architecture, testing, and judgment will thrive; others risk obsolescence.
 - [Mechanical Watch](https://ciechanow.ski/mechanical-watch/?utm_source=substack&utm_medium=email) 👤 Bartosz Ciechanowski 💬 7982 🔖 #joyandcuriosity 🗓️ 2025-11-30
     > **Резюме:** A mechanical watch keeps time using a few key parts: a mainspring, gears, an escapement, and a balance wheel. The mainspring stores energy that travels through gear trains to drive the hands while the escapement and balance wheel regulate the speed. Additional mechanisms let you wind, set the time, and protect the movement from shocks.
 - [Dithering - Part 1](https://visualrambling.space/dithering-part-1/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 785 🔖 #joyandcuriosity 🗓️ 2025-11-30
@@ -52,7 +58,7 @@ Developers who master architecture, testing, and judgment will thrive; others ri
     > **Резюме:** Traditional syntax highlighting creates many span elements, which slows rendering and uses more memory.  
 The CSS Custom Highlight API uses lightweight Range objects and CSS ::highlight rules to style text without changing the DOM, making rendering faster and leaner.  
 It works in modern browsers but needs fallbacks for older ones and only supports single text-node content.
-- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #learning 🗓️ 2025-11-17
+- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #learning, #llm-devimpact 🗓️ 2025-11-17
     > **Резюме:** Software development is a learning loop: you must try, fail, and iterate to discover the right design. LLMs and starter kits speed setup and translation between languages but can hide crucial context and stunt learning. True long-term velocity comes from developers internalizing how systems work, not from shortcuts that bypass the learning loop.
 - [Some software bloat is OK](https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok?utm_source=tldrwebdev) 👤 WaspDev Blog 💬 1308 🗓️ 2025-11-12
     > **Резюме:** Modern hardware makes some software bloat acceptable because it speeds development, improves safety, and adds features like globalization and isolation.  

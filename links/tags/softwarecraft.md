@@ -1,16 +1,22 @@
 # Ссылки
 
-- Всего ссылок: 29
+- Всего ссылок: 31
 
 ## Ссылки
 
+- [5 engineering dogmas it's time to retire](https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to) 👤 Anton Zaides 💬 1402 🔖 #softwarecraft 🗓️ 2025-12-16
+    > **Резюме:** The author questions five common engineering rules and shows they can cause more harm than help. He argues for balancing dependency use, flexible code-review policies, alternatives to short sprints, cautious use of feature flags, and pragmatic commenting. Good engineering leadership means weighing dogma against real-world trade-offs.
 - [21 Lessons from 14 Years at Google](https://addyo.substack.com/p/21-lessons-from-14-years-at-google?utm_source=tldrdev&triedRedirect=true) 👤 Addy Osmani 💬 2334 🔖 #career, #softwarecraft 🗓️ 2025-12-12
     > **Резюме:** Great engineers do more than write code: they solve real user problems, make their work legible, and trade cleverness for clarity.  
 Focus on action, learning from feedback, and reducing unnecessary work.  
 Lead by admitting uncertainty, enabling others, and making impact visible.
-- [AI Can Write Your Code. It Can’t Do Your Job.](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/) 👤 Terrible Software 💬 846 🔖 #llm, #toot, #softwarecraft 🗓️ 2025-12-12
+- [AI Can Write Your Code. It Can’t Do Your Job.](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/) 👤 Terrible Software 💬 846 🔖 #llm, #toot, #llm-devimpact, #softwarecraft 🗓️ 2025-12-12
     > **Заметка:** "The engineers who understand that programming isn’t the job, the ones who bring judgment, context, and the ability to figure out what to build, those are the ones who stay."
     > **Резюме:** AI can write code, but it can’t replace the full job of a software engineer. The real work is judgment: figuring out problems, making trade-offs, and shipping reliable products. Engineers who use AI and focus on these higher skills will thrive.
+- [Software Development in the Time of Strange New Angels](https://davegriffith.substack.com/p/software-development-in-the-time?utm_source=substack&utm_medium=email) 👤 Dave Griffith 💬 3605 🔖 #llm, #llm-devimpact, #softwarecraft, #joyandcuriosity 🗓️ 2025-11-30
+    > **Резюме:** Agentic AI makes writing code far cheaper and much faster than the old $150/hour model.  
+That speed only helps if organizations and developers learn how to design, test, and manage quality; otherwise it creates technical debt.  
+Developers who master architecture, testing, and judgment will thrive; others risk obsolescence.
 - [How good engineers write bad code at big companies](https://seangoedecke.com/bad-code-at-big-companies/) 👤 seangoedecke.com 💬 1645 🔖 #softwarecraft 🗓️ 2025-11-29
     > **Резюме:** Big tech hires many competent engineers but moves people between teams so often that most code changes are made by people new to a codebase. Experienced "old hands" exist but are overloaded and informal, so bad or hacky fixes often get shipped. This is a deliberate tradeoff by companies that values flexibility over deep, long-term expertise.
 - [Becoming unblockable](https://seangoedecke.com/unblockable/) 👤 seangoedecke.com 💬 1868 🔖 #softwarecraft 🗓️ 2025-11-26

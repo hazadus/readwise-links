@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 64
+- Всего ссылок: 65
 
 ## Ссылки
 
+- [The Apprentice Problem](https://davegriffith.substack.com/p/the-apprentice-problem) 👤 Dave Griffith 💬 3067 🔖 #llm, #career, #learning, #llm-devimpact 🗓️ 2025-12-16
+    > **Резюме:** AI can do much junior-level coding, so companies may hire fewer juniors.  
+But juniors are how firms grow future senior engineers who have judgment and context.  
+Use AI to teach code and free seniors to mentor judgment, not to replace apprentices.
 - [21 Lessons from 14 Years at Google](https://addyo.substack.com/p/21-lessons-from-14-years-at-google?utm_source=tldrdev&triedRedirect=true) 👤 Addy Osmani 💬 2334 🔖 #career, #softwarecraft 🗓️ 2025-12-12
     > **Резюме:** Great engineers do more than write code: they solve real user problems, make their work legible, and trade cleverness for clarity.  
 Focus on action, learning from feedback, and reducing unnecessary work.  

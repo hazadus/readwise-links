@@ -1,12 +1,16 @@
 # Архивные ссылки
 
-- Всего ссылок: 1240
+- Всего ссылок: 1245
 
 ## Ссылки
 
+- [Why Your CTO Might Start Coding Again](https://davegriffith.substack.com/p/why-your-cto-might-start-coding-again) 👤 Dave Griffith 💬 2188 🔖 #llm, #llm-devimpact 🗓️ 2025-12-16
+- [The Apprentice Problem](https://davegriffith.substack.com/p/the-apprentice-problem) 👤 Dave Griffith 💬 3067 🔖 #llm, #career, #learning, #llm-devimpact 🗓️ 2025-12-16
+- [5 engineering dogmas it's time to retire](https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to) 👤 Anton Zaides 💬 1402 🔖 #softwarecraft 🗓️ 2025-12-16
+- [The Bet On Juniors Just Got Better](https://tidyfirst.substack.com/p/the-bet-on-juniors-just-got-better) 👤 Kent Beck 💬 1012 🔖 #llm, #llm-devimpact 🗓️ 2025-12-16
 - [Vibe coding is boring](https://cassidoo.co/post/vibe-coding-yawn/) 👤 cassidoo.co 💬 460 🔖 #llm 🗓️ 2025-12-15
 - [21 Lessons from 14 Years at Google](https://addyo.substack.com/p/21-lessons-from-14-years-at-google?utm_source=tldrdev&triedRedirect=true) 👤 Addy Osmani 💬 2334 🔖 #career, #softwarecraft 🗓️ 2025-12-12
-- [AI Can Write Your Code. It Can’t Do Your Job.](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/) 👤 Terrible Software 💬 846 🔖 #llm, #toot, #softwarecraft 🗓️ 2025-12-12
+- [AI Can Write Your Code. It Can’t Do Your Job.](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/) 👤 Terrible Software 💬 846 🔖 #llm, #toot, #llm-devimpact, #softwarecraft 🗓️ 2025-12-12
     > **Заметка:** "The engineers who understand that programming isn’t the job, the ones who bring judgment, context, and the ability to figure out what to build, those are the ones who stay."
 - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/#atom-everything) 👤 Simon Willison 💬 3236 🔖 #llm 🗓️ 2025-12-11
 - [[BadComedian] - Кракен (НАШ ОТВЕТ ГОДЗИЛЛЕ за Миллиард)](https://www.youtube.com/watch?v=dBHHvSx0rnk) 👤 BadComedian 🗓️ 2025-12-08
@@ -22,6 +26,7 @@
     > **Заметка:** Очень точные наблюдения о сменяющихся циклах мотивированности и апатии. 
 - [The 'delayed opinions givers' - engineering teams everybody hates](https://newsletter.manager.dev/p/the-delayed-opinions-givers-engineering) 👤 Anton Zaides 💬 1615 🗓️ 2025-12-03
 - [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default?utm_source=substack&utm_medium=email) 👤 Thomas Paul Mann 💬 1054 🔖 #codereview, #joyandcuriosity 🗓️ 2025-11-30
+- [Software Development in the Time of Strange New Angels](https://davegriffith.substack.com/p/software-development-in-the-time?utm_source=substack&utm_medium=email) 👤 Dave Griffith 💬 3605 🔖 #llm, #llm-devimpact, #softwarecraft, #joyandcuriosity 🗓️ 2025-11-30
 - [How good engineers write bad code at big companies](https://seangoedecke.com/bad-code-at-big-companies/) 👤 seangoedecke.com 💬 1645 🔖 #softwarecraft 🗓️ 2025-11-29
 - [Becoming unblockable](https://seangoedecke.com/unblockable/) 👤 seangoedecke.com 💬 1868 🔖 #softwarecraft 🗓️ 2025-11-26
 - [What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/) 👤 Terrible Software 💬 563 🔖 #career, #softwarecraft 🗓️ 2025-11-26
@@ -47,8 +52,8 @@
 - [Europa Universalis V: Обзор самой масштабной исторической стратегии](https://stopgame.ru/show/155063/europa_universalis_v_review_samoy_masshtabnoy_istoricheskoy_strategii) 👤 Степан Песков 💬 1828 🔖 #game 🗓️ 2025-11-15
 - [“Frowning at a screen for 200 hours”: on the writing process](https://bitfieldconsulting.com/posts/the-writing-process) 👤 John Arundel 💬 1850 🔖 #writing, #inspiration 🗓️ 2025-11-15
 - [Writing for AIs is a good way to reach more humans](https://seangoedecke.com/writing-for-ais/) 👤 seangoedecke.com 💬 1599 🔖 #llm, #writing 🗓️ 2025-11-14
-- [The Myth of AI-powered Sisyphus](https://tawandamunongo.dev/posts/2025/11/ai-powered-sisyphus/) 👤 t23o 💬 1449 🔖 #llm 🗓️ 2025-11-13
-- [AI and the Devaluation of Effort](https://tawandamunongo.dev/posts/2025/10/ai-devaluation-effort/) 👤 t23o 💬 1606 🔖 #llm 🗓️ 2025-11-13
+- [The Myth of AI-powered Sisyphus](https://tawandamunongo.dev/posts/2025/11/ai-powered-sisyphus/) 👤 t23o 💬 1449 🔖 #llm, #llm-devimpact 🗓️ 2025-11-13
+- [AI and the Devaluation of Effort](https://tawandamunongo.dev/posts/2025/10/ai-devaluation-effort/) 👤 t23o 💬 1606 🔖 #llm, #llm-devimpact 🗓️ 2025-11-13
 - [ARIatHOME](https://daverupert.com/2025/11/ariathome/) 👤 Dave Rupert 💬 327 🔖 #music, #inspiration 🗓️ 2025-11-12
 - [Обзор The Outer Worlds 2 - И смех и корпоративный грех I Битый Пиксель](https://www.youtube.com/watch?v=ZoebMF322NA) 👤 Битый Пиксель 🔖 #game 🗓️ 2025-11-12
 - [Web Weekly #174](https://www.stefanjudis.com/blog/web-weekly-174/) 👤 stefanjudis.com 💬 987 🗓️ 2025-11-11
@@ -56,17 +61,17 @@
 - [Building My First Claude Code Plugin](https://alexop.dev/posts/building-my-first-claude-code-plugin/) 👤 Alexander Opalic 💬 662 🔖 #llm, #claude 🗓️ 2025-11-09
 - [A Developer's experience with weight loss injections](http://willmcgugan.github.io/weight-loss/) 👤 Will McGugan 💬 1686 🔖 #health 🗓️ 2025-11-07
 - [Build your modern Neovim config in Lua](https://m4xshen.dev/posts/build-your-modern-neovim-config-in-lua?utm_source=perplexity) 👤 m4xshen.dev 💬 948 🔖 #lua, #vim 🗓️ 2025-11-05
-- [Burning out](https://www.interconnects.ai/p/burning-out?utm_source=substack&utm_medium=email) 👤 Nathan Lambert 💬 2007 🔖 #llm, #burnout 🗓️ 2025-11-04
+- [Burning out](https://www.interconnects.ai/p/burning-out?utm_source=substack&utm_medium=email) 👤 Nathan Lambert 💬 2007 🔖 #llm, #burnout, #llm-devimpact 🗓️ 2025-11-04
 - [A Beginner’s Guide to Automation with n8n](https://www.freecodecamp.org/news/a-beginners-guide-to-automation-with-n8n/) 👤 Manish Shivanandhan 💬 1902 🔖 #n8n 🗓️ 2025-11-04
 - [Be a Magpie. You'll Get More Done.](https://www.joanwestenberg.com/p/be-a-magpie-you-ll-get-more-done) 👤 JA Westenberg 💬 1113 🔖 #productivity 🗓️ 2025-11-04
 - [Is it worrying that 95% of AI enterprise projects fail?](https://seangoedecke.com/why-do-ai-enterprise-projects-fail/) 👤 seangoedecke.com 💬 1660 🔖 #llm 🗓️ 2025-11-04
 - [Code Author](https://yusufaytas.com/code-author/) 👤 https://www.facebook.com/yusufaytas 💬 759 🗓️ 2025-11-02
 - [How cheap, outsourced labour in Africa is shaping AI English](https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt) 👤 Alex Hern 💬 1508 🔖 #llm 🗓️ 2025-11-01
-- [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/) 👤 https://www.facebook.com/yusufaytas 💬 3975 🔖 #llm, #interview 🗓️ 2025-11-01
+- [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/) 👤 https://www.facebook.com/yusufaytas 💬 3975 🔖 #llm, #interview, #llm-devimpact 🗓️ 2025-11-01
 - [Why do AI models use so many em-dashes?](https://seangoedecke.com/em-dashes/) 👤 seangoedecke.com 💬 1585 🔖 #llm 🗓️ 2025-10-31
-- [AI is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more?utm_source=substack&utm_medium=email) 👤 tawandamunongo.dev 💬 1439 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-29
-- [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/?utm_source=substack&utm_medium=email) 👤 allvpv <Przemysław Kusiak> 💬 986 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-29
-- [Don't delegate thinking, delegate work](https://howtobuildwithai.substack.com/p/dont-delegate-thinking-delegate-work?utm_source=substack&utm_medium=email) 👤 Nicolay Christopher Gerold 💬 414 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-29
+- [AI is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more?utm_source=substack&utm_medium=email) 👤 tawandamunongo.dev 💬 1439 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2025-10-29
+- [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/?utm_source=substack&utm_medium=email) 👤 allvpv <Przemysław Kusiak> 💬 986 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2025-10-29
+- [Don't delegate thinking, delegate work](https://howtobuildwithai.substack.com/p/dont-delegate-thinking-delegate-work?utm_source=substack&utm_medium=email) 👤 Nicolay Christopher Gerold 💬 414 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2025-10-29
 - [I want to see the claw](https://vickiboykis.com/2025/10/20/i-want-to-see-the-claw/?utm_source=substack&utm_medium=email) 👤 ★❤✰ Vicki Boykis ★❤✰  💬 861 🔖 #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
 - [You have two jobs](https://jacobian.org/2017/nov/1/you-have-two-jobs/?utm_source=substack&utm_medium=email) 👤 jacobian.org 💬 526 🔖 #career, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
 - [The Basics](https://registerspill.thorstenball.com/p/the-basics?utm_source=substack&utm_medium=email) 👤 Thorsten Ball 💬 422 🔖 #development, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
@@ -135,7 +140,7 @@ They follow a template: introduce a counterintuitive finding, tell three anecdot
     > **Заметка:** Классная аналогия формирования команды разработчиков 
 - [Don’t Build A General Purpose API To Power Your Own Front End](https://max.engineer/server-informed-ui) 👤 Max Chernyak 💬 1366 🔖 #api 🗓️ 2025-10-09
 - [The Exhaustion of Permanent Disruption](https://www.joanwestenberg.com/p/the-exhaustion-of-permanent-disruption) 👤 JA Westenberg 💬 825 🗓️ 2025-10-09
-- [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/) 👤 hojberg.xyz 💬 2646 🔖 #llm, #programming 🗓️ 2025-10-09
+- [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/) 👤 hojberg.xyz 💬 2646 🔖 #llm, #programming, #llm-devimpact 🗓️ 2025-10-09
 - [Now open for building: Introducing Gemini CLI extensions](https://blog.google/technology/developers/gemini-cli-extensions/) 👤 Taylor Mullen 💬 1065 🔖 #gemini 🗓️ 2025-10-09
 - [Python 3.14 Is Here. How Fast Is It?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it) 👤 Miguel Grinberg 💬 2548 🔖 #toot, #python, #programming 🗓️ 2025-10-09
     > **Заметка:** Мигель тестирует производительность нового релиза Питона

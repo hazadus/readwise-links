@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/) 👤 https://www.facebook.com/yusufaytas 💬 3975 🔖 #llm, #interview 🗓️ 2025-11-01
+- [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/) 👤 https://www.facebook.com/yusufaytas 💬 3975 🔖 #llm, #interview, #llm-devimpact 🗓️ 2025-11-01
     > **Резюме:** AI made interviews unreliable by letting candidates present perfect, AI-generated answers instead of real thinking.  
 Companies are shifting from high-volume remote screens to in-person, interactive interviews that reveal real reasoning.  
 The goal now is simple: test human judgment, communication, and live problem-solving — things AI can’t convincingly fake.

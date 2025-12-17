@@ -10,7 +10,7 @@
     > **Резюме:** The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.
 - [how-did-i-get-here.net](https://how-did-i-get-here.net/?utm_source=substack&utm_medium=email) 👤 Lexi 💬 2827 🔖 #joyandcuriosity 🗓️ 2025-11-30
     > **Резюме:** This site runs a traceroute to show the path your packets took across the Internet. Routers in different networks (autonomous systems) pass packets along using BGP routing. The traceroute lists those routers and ASes so you can see how reachability is determined.
-- [Software Development in the Time of Strange New Angels](https://davegriffith.substack.com/p/software-development-in-the-time?utm_source=substack&utm_medium=email) 👤 Dave Griffith 💬 3605 🔖 #llm, #joyandcuriosity 🗓️ 2025-11-30
+- [Software Development in the Time of Strange New Angels](https://davegriffith.substack.com/p/software-development-in-the-time?utm_source=substack&utm_medium=email) 👤 Dave Griffith 💬 3605 🔖 #llm, #llm-devimpact, #softwarecraft, #joyandcuriosity 🗓️ 2025-11-30
     > **Резюме:** Agentic AI makes writing code far cheaper and much faster than the old $150/hour model.  
 That speed only helps if organizations and developers learn how to design, test, and manage quality; otherwise it creates technical debt.  
 Developers who master architecture, testing, and judgment will thrive; others risk obsolescence.
@@ -18,11 +18,11 @@ Developers who master architecture, testing, and judgment will thrive; others ri
     > **Резюме:** A mechanical watch keeps time using a few key parts: a mainspring, gears, an escapement, and a balance wheel. The mainspring stores energy that travels through gear trains to drive the hands while the escapement and balance wheel regulate the speed. Additional mechanisms let you wind, set the time, and protect the movement from shocks.
 - [Dithering - Part 1](https://visualrambling.space/dithering-part-1/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 785 🔖 #joyandcuriosity 🗓️ 2025-11-30
     > **Резюме:** Dithering simulates many shades using only a few colors by arranging pixels into patterns. Ordered dithering compares pixel brightness to a threshold map to decide black or white. The series will explain threshold maps and error-diffusion algorithms in later parts.
-- [AI is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more?utm_source=substack&utm_medium=email) 👤 tawandamunongo.dev 💬 1439 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-29
+- [AI is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more?utm_source=substack&utm_medium=email) 👤 tawandamunongo.dev 💬 1439 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2025-10-29
     > **Резюме:** AI tools promised more freedom but are driving people to work longer and harder. The always-on nature of AI creates guilt for resting and fuels a 996-style hustle. Saying "enough" and setting boundaries may be the radical act we need to protect creativity and well-being.
-- [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/?utm_source=substack&utm_medium=email) 👤 allvpv <Przemysław Kusiak> 💬 986 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-29
+- [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/?utm_source=substack&utm_medium=email) 👤 allvpv <Przemysław Kusiak> 💬 986 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2025-10-29
     > **Резюме:** AI can help you learn faster and be a great tutor, but using it to do your coding for you prevents real learning. Agentic coding tools may speed delivery but erode understanding and control over complex systems. Use AI to aid learning and explore options, not to outsource your responsibility.
-- [Don't delegate thinking, delegate work](https://howtobuildwithai.substack.com/p/dont-delegate-thinking-delegate-work?utm_source=substack&utm_medium=email) 👤 Nicolay Christopher Gerold 💬 414 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-29
+- [Don't delegate thinking, delegate work](https://howtobuildwithai.substack.com/p/dont-delegate-thinking-delegate-work?utm_source=substack&utm_medium=email) 👤 Nicolay Christopher Gerold 💬 414 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2025-10-29
     > **Резюме:** AI can speed up coding but not understanding.  
 Developers still must plan, review, and decide what to build.  
 Don't delegate thinking—delegate only the work.

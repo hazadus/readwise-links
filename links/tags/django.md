@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 51
+- Всего ссылок: 52
 
 ## Ссылки
 
+- [Django RAPID architecture¶](https://www.django-rapid-architecture.org/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_315) 👤 django-rapid-architecture.org 💬 1092 🔖 #django 🗓️ 2025-12-16
+    > **Резюме:** Django RAPID is a concise set of patterns for building maintainable, scalable Django projects based on 15+ years of experience. It favors simple, predictable foundations that let systems grow without hidden complexity. The guide is flexible and prescriptive only where it matters, so teams can adopt what fits their workflow.
 - [Django Third-party App Ecosystem](https://frankwiles.com/posts/django-third-party-apps/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 frankwiles.com 💬 762 🔖 #django 🗓️ 2025-12-12
     > **Резюме:** Django has many useful third-party apps that can save you lots of time. Many developers—new and experienced—don’t know where to find them. The Django Steering Council made an Ecosystem Page and urges you to check it, follow a newsletter/podcast, and spend regular time exploring.
 - [Build self-hosted AI Agent with Ollama, Pydantic AI and Django Ninja](https://scribe.rip/@tom.mart/build-self-hosted-ai-agent-with-ollama-pydantic-ai-and-django-ninja-53c6b3f14a1d?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 scribe.rip 💬 2105 🔖 #try, #agents, #django, #pydantic 🗓️ 2025-12-12

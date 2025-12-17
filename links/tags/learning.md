@@ -1,10 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 27
+- Всего ссылок: 28
 
 ## Ссылки
 
-- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #learning 🗓️ 2025-11-17
+- [The Apprentice Problem](https://davegriffith.substack.com/p/the-apprentice-problem) 👤 Dave Griffith 💬 3067 🔖 #llm, #career, #learning, #llm-devimpact 🗓️ 2025-12-16
+    > **Резюме:** AI can do much junior-level coding, so companies may hire fewer juniors.  
+But juniors are how firms grow future senior engineers who have judgment and context.  
+Use AI to teach code and free seniors to mentor judgment, not to replace apprentices.
+- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #learning, #llm-devimpact 🗓️ 2025-11-17
     > **Резюме:** Software development is a learning loop: you must try, fail, and iterate to discover the right design. LLMs and starter kits speed setup and translation between languages but can hide crucial context and stunt learning. True long-term velocity comes from developers internalizing how systems work, not from shortcuts that bypass the learning loop.
 - [There is Only One Hack: Do it for a Decade.](https://www.joanwestenberg.com/p/there-is-only-one-hack-do-it-for-a-decade) 👤 JA Westenberg 💬 636 🔖 #toot, #career, #learning, #time management 🗓️ 2025-10-11
     > **Заметка:** "Working hard is fine, but framing it as a sprint suggests that achievement is about peak intensity rather than sustained presence. Six months of grinding is easy compared to six years of showing up. Anyone can do a hard sprint. What's tough: maintaining your focus when the initial excitement has worn off and you're in year three of a project with no clear end in sight."
