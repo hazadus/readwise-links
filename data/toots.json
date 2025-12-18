@@ -39,7 +39,8 @@
         "01k8eyrzas4tz1pw36n0wk5mbw",
         "01k8exqfmmfxh03jdwk2ddhtt5",
         "01kc8egvqwgrknevq5zjxb6xwb",
-        "01kbkz2zzb0mx7gapdhct6xq5v"
+        "01kbkz2zzb0mx7gapdhct6xq5v",
+        "01ka9q14ymnzejgxzyjg40b9dk"
     ],
     "toots": [
         {
@@ -281,6 +282,12 @@
             "document_title": "AI optimism is a class privilege",
             "source_url": "https://joshcollinsworth.com/blog/sloptimism",
             "toot_url": "https://fosstodon.org/@hazadus/115710967458175386"
+        },
+        {
+            "document_id": "01ka9q14ymnzejgxzyjg40b9dk",
+            "document_title": "The Learning Loop and LLMs",
+            "source_url": "https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev",
+            "toot_url": "https://fosstodon.org/@hazadus/115739284369608493"
         }
     ]
 }
