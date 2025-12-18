@@ -1,11 +1,21 @@
 # Ссылки
 
-- Всего ссылок: 307
+- Всего ссылок: 310
 
 ## Ссылки
 
+- [hookify@claude-code-plugins](https://mays.co/optimizing-claude-code?utm_source=tldrdev) 👤 mays.co 💬 2278 🔖 #llm, #claude 🗓️ 2025-12-17
+    > **Резюме:** Claude Code can be customized into a project-aware specialist by adding settings, skills, hooks, commands, agent docs, and plugins.  
+Skills teach conventions, hooks enforce them, and CLAUDE.md supplies project context.  
+A few hours of setup yields far better, consistent results than the default.
 - [Sometimes It Really Is That Easy](https://davegriffith.substack.com/p/sometimes-it-really-is-that-easy) 👤 Dave Griffith 💬 1208 🔖 #llm, #devtools 🗓️ 2025-12-16
     > **Резюме:** Good developer tooling makes setup fast and reliable. AI can now generate those boring but vital scripts in minutes. That saves time, reduces friction, and speeds up onboarding and work.
+- [Memory as an AI superpower](https://davegriffith.substack.com/p/memory-as-an-ai-superpower) 👤 Dave Griffith 💬 2554 🔖 #llm 🗓️ 2025-12-16
+    > **Резюме:** Large language models have no internal long-term memory, so you give them one by letting them read and write files in a simple folder.  
+That folder stores project notes, people notes, and learning notes so the model can recall and update context for you.  
+This makes AI a practical memory extension: searchable, portable, inspectable, and useful for everyday work.
+- [I Helped Build Your IDE. Here's What Will Replace It](https://davegriffith.substack.com/p/i-helped-build-your-ide-heres-what) 👤 Dave Griffith 💬 2718 🔖 #llm, #llm-devimpact 🗓️ 2025-12-16
+    > **Резюме:** Developers are moving from hands-on coding in IDEs to guiding AI agents that generate and review code. The new “control tower” tools will coordinate agents, context, and reviews rather than act as a traditional editor cockpit. Key skills will shift from typing code to writing clear specs and knowing when to take manual control.
 - [Why Your CTO Might Start Coding Again](https://davegriffith.substack.com/p/why-your-cto-might-start-coding-again) 👤 Dave Griffith 💬 2188 🔖 #llm, #llm-devimpact 🗓️ 2025-12-16
     > **Резюме:** Agentic AI made writing code cheap and shifted the bottleneck to deciding what to build.  
 Managers developed judgment, specification, and coordination skills that are now the most valuable.  
@@ -46,7 +56,8 @@ Designing useful agent loops requires careful handling of tools, sub-agents, out
     > **Резюме:** After a decade away from hands-on coding, the author returned to writing small, useful pull requests as a manager and completed 104 in six months. New AI coding tools and better judgment about which problems to pick made it possible to do meaningful work in short time blocks. Manager coding can help if you pick high-value, non-urgent tasks and fully own their release and maintenance.
 - [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini) 👤 Ethan Mollick 💬 1851 🔖 #llm, #gemini 🗓️ 2025-11-18
     > **Резюме:** Ethan Mollick shows how AI has moved from simple chatbots to powerful agents in three years. Gemini 3 can write code, run tools, and do complex research like a grad student. This shifts AI from fixing mistakes to being a collaborative digital coworker that still needs human guidance.
-- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #learning, #llm-devimpact 🗓️ 2025-11-17
+- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #toot, #learning, #programming, #llm-devimpact 🗓️ 2025-11-17
+    > **Заметка:** "Tools can't do the learning for you. An AI can generate a perfect solution in seconds, but it cannot give you the experience you gain from the struggle of creating it yourself."
     > **Резюме:** Software development is a learning loop: you must try, fail, and iterate to discover the right design. LLMs and starter kits speed setup and translation between languages but can hide crucial context and stunt learning. True long-term velocity comes from developers internalizing how systems work, not from shortcuts that bypass the learning loop.
 - [Only three kinds of AI products actually work](https://seangoedecke.com/ai-products/) 👤 seangoedecke.com 💬 2540 🔖 #llm 🗓️ 2025-11-16
     > **Резюме:** Most AI products that actually work fall into three groups: chatbots, completions (like Copilot), and agentic systems that act autonomously. Chatbots dominate but are vulnerable to big labs and often duplicate the model itself. New promising areas are AI-generated feeds and agentic research tools, while AI games and image tools are less mature.

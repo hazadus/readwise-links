@@ -1,15 +1,20 @@
 # Архивные ссылки
 
-- Всего ссылок: 1245
+- Всего ссылок: 1252
 
 ## Ссылки
 
+- [Sometimes It Really Is That Easy](https://davegriffith.substack.com/p/sometimes-it-really-is-that-easy) 👤 Dave Griffith 💬 1208 🔖 #llm, #devtools 🗓️ 2025-12-16
+- [Memory as an AI superpower](https://davegriffith.substack.com/p/memory-as-an-ai-superpower) 👤 Dave Griffith 💬 2554 🔖 #llm 🗓️ 2025-12-16
+- [I Helped Build Your IDE. Here's What Will Replace It](https://davegriffith.substack.com/p/i-helped-build-your-ide-heres-what) 👤 Dave Griffith 💬 2718 🔖 #llm, #llm-devimpact 🗓️ 2025-12-16
 - [Why Your CTO Might Start Coding Again](https://davegriffith.substack.com/p/why-your-cto-might-start-coding-again) 👤 Dave Griffith 💬 2188 🔖 #llm, #llm-devimpact 🗓️ 2025-12-16
 - [The Apprentice Problem](https://davegriffith.substack.com/p/the-apprentice-problem) 👤 Dave Griffith 💬 3067 🔖 #llm, #career, #learning, #llm-devimpact 🗓️ 2025-12-16
 - [5 engineering dogmas it's time to retire](https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to) 👤 Anton Zaides 💬 1402 🔖 #softwarecraft 🗓️ 2025-12-16
 - [The Bet On Juniors Just Got Better](https://tidyfirst.substack.com/p/the-bet-on-juniors-just-got-better) 👤 Kent Beck 💬 1012 🔖 #llm, #llm-devimpact 🗓️ 2025-12-16
 - [Vibe coding is boring](https://cassidoo.co/post/vibe-coding-yawn/) 👤 cassidoo.co 💬 460 🔖 #llm 🗓️ 2025-12-15
 - [21 Lessons from 14 Years at Google](https://addyo.substack.com/p/21-lessons-from-14-years-at-google?utm_source=tldrdev&triedRedirect=true) 👤 Addy Osmani 💬 2334 🔖 #career, #softwarecraft 🗓️ 2025-12-12
+- [Build self-hosted AI Agent with Ollama, Pydantic AI and Django Ninja](https://scribe.rip/@tom.mart/build-self-hosted-ai-agent-with-ollama-pydantic-ai-and-django-ninja-53c6b3f14a1d?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 scribe.rip 💬 2105 🔖 #try, #agents, #django, #pydantic 🗓️ 2025-12-12
+- [A first look at Django's new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 Roam 💬 2650 🔖 #django 🗓️ 2025-12-12
 - [AI Can Write Your Code. It Can’t Do Your Job.](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/) 👤 Terrible Software 💬 846 🔖 #llm, #toot, #llm-devimpact, #softwarecraft 🗓️ 2025-12-12
     > **Заметка:** "The engineers who understand that programming isn’t the job, the ones who bring judgment, context, and the ability to figure out what to build, those are the ones who stay."
 - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/#atom-everything) 👤 Simon Willison 💬 3236 🔖 #llm 🗓️ 2025-12-11
@@ -47,6 +52,8 @@
 - [Shadow work in engineering teams](https://newsletter.manager.dev/p/the-shadow-work-in-engineering-teams) 👤 Anton Zaides 💬 1432 🔖 #management 🗓️ 2025-11-18
 - [Pikaday](https://pikaday.dbushell.com/?utm_source=tldrwebdev) 👤 David Bushell 💬 954 🔖 #html, #frontend 🗓️ 2025-11-17
     > **Заметка:** Подборка примеров полей ввода для дат
+- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #toot, #learning, #programming, #llm-devimpact 🗓️ 2025-11-17
+    > **Заметка:** "Tools can't do the learning for you. An AI can generate a perfect solution in seconds, but it cannot give you the experience you gain from the struggle of creating it yourself."
 - [Only three kinds of AI products actually work](https://seangoedecke.com/ai-products/) 👤 seangoedecke.com 💬 2540 🔖 #llm 🗓️ 2025-11-16
 - [A Raycast confetti shell command](https://www.stefanjudis.com/notes/a-raycast-confetti-shell-command/) 👤 stefanjudis.com 💬 119 🔖 #cli 🗓️ 2025-11-16
 - [Europa Universalis V: Обзор самой масштабной исторической стратегии](https://stopgame.ru/show/155063/europa_universalis_v_review_samoy_masshtabnoy_istoricheskoy_strategii) 👤 Степан Песков 💬 1828 🔖 #game 🗓️ 2025-11-15
@@ -59,6 +66,8 @@
 - [Web Weekly #174](https://www.stefanjudis.com/blog/web-weekly-174/) 👤 stefanjudis.com 💬 987 🗓️ 2025-11-11
 - [To get better at technical writing, lower your expectations](https://seangoedecke.com/technical-communication/) 👤 seangoedecke.com 💬 1436 🔖 #writing 🗓️ 2025-11-09
 - [Building My First Claude Code Plugin](https://alexop.dev/posts/building-my-first-claude-code-plugin/) 👤 Alexander Opalic 💬 662 🔖 #llm, #claude 🗓️ 2025-11-09
+- [AiDHD](https://www.josh.ing/blog/aidhd) 👤 Josh Cohenzadeh 💬 2219 🔖 #llm 🗓️ 2025-11-09
+    > **Заметка:** Via Simon Willison
 - [A Developer's experience with weight loss injections](http://willmcgugan.github.io/weight-loss/) 👤 Will McGugan 💬 1686 🔖 #health 🗓️ 2025-11-07
 - [Build your modern Neovim config in Lua](https://m4xshen.dev/posts/build-your-modern-neovim-config-in-lua?utm_source=perplexity) 👤 m4xshen.dev 💬 948 🔖 #lua, #vim 🗓️ 2025-11-05
 - [Burning out](https://www.interconnects.ai/p/burning-out?utm_source=substack&utm_medium=email) 👤 Nathan Lambert 💬 2007 🔖 #llm, #burnout, #llm-devimpact 🗓️ 2025-11-04

@@ -1,17 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 132
+- Всего ссылок: 126
 
 ## Ссылки
 
-- [Sometimes It Really Is That Easy](https://davegriffith.substack.com/p/sometimes-it-really-is-that-easy) 👤 Dave Griffith 💬 1208 🔖 #llm, #devtools 🗓️ 2025-12-16
-    > **Резюме:** Good developer tooling makes setup fast and reliable. AI can now generate those boring but vital scripts in minutes. That saves time, reduces friction, and speeds up onboarding and work.
-- [Memory as an AI superpower](https://davegriffith.substack.com/p/memory-as-an-ai-superpower) 👤 Dave Griffith 💬 2554 🗓️ 2025-12-16
-    > **Резюме:** Large language models have no internal long-term memory, so you give them one by letting them read and write files in a simple folder.  
-That folder stores project notes, people notes, and learning notes so the model can recall and update context for you.  
-This makes AI a practical memory extension: searchable, portable, inspectable, and useful for everyday work.
-- [I Helped Build Your IDE. Here's What Will Replace It](https://davegriffith.substack.com/p/i-helped-build-your-ide-heres-what) 👤 Dave Griffith 💬 2718 🗓️ 2025-12-16
-    > **Резюме:** Developers are moving from hands-on coding in IDEs to guiding AI agents that generate and review code. The new “control tower” tools will coordinate agents, context, and reviews rather than act as a traditional editor cockpit. Key skills will shift from typing code to writing clear specs and knowing when to take manual control.
+- [hookify@claude-code-plugins](https://mays.co/optimizing-claude-code?utm_source=tldrdev) 👤 mays.co 💬 2278 🔖 #llm, #claude 🗓️ 2025-12-17
+    > **Резюме:** Claude Code can be customized into a project-aware specialist by adding settings, skills, hooks, commands, agent docs, and plugins.  
+Skills teach conventions, hooks enforce them, and CLAUDE.md supplies project context.  
+A few hours of setup yields far better, consistent results than the default.
 - [Django RAPID architecture¶](https://www.django-rapid-architecture.org/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_315) 👤 django-rapid-architecture.org 💬 1092 🔖 #django 🗓️ 2025-12-16
     > **Резюме:** Django RAPID is a concise set of patterns for building maintainable, scalable Django projects based on 15+ years of experience. It favors simple, predictable foundations that let systems grow without hidden complexity. The guide is flexible and prescriptive only where it matters, so teams can adopt what fits their workflow.
 - [Justified](https://www.bitecode.dev/p/justified) 👤 Bite Code! 💬 2039 🗓️ 2025-12-15
@@ -30,12 +26,6 @@ It also covers TypeScript typing, testing tips, and ready-to-use templates.
     > **Резюме:** macOS apps are self-contained bundles (.app) with a Contents folder holding executables, resources, and metadata like Info.plist. Apple added code signing, notarization, and receipts to protect and verify bundle contents. Bundles simplify installation, updates, removal, and improve security.
 - [Django Third-party App Ecosystem](https://frankwiles.com/posts/django-third-party-apps/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 frankwiles.com 💬 762 🔖 #django 🗓️ 2025-12-12
     > **Резюме:** Django has many useful third-party apps that can save you lots of time. Many developers—new and experienced—don’t know where to find them. The Django Steering Council made an Ecosystem Page and urges you to check it, follow a newsletter/podcast, and spend regular time exploring.
-- [Build self-hosted AI Agent with Ollama, Pydantic AI and Django Ninja](https://scribe.rip/@tom.mart/build-self-hosted-ai-agent-with-ollama-pydantic-ai-and-django-ninja-53c6b3f14a1d?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 scribe.rip 💬 2105 🔖 #try, #agents, #django, #pydantic 🗓️ 2025-12-12
-    > **Резюме:** This guide shows how to build a self-hosted AI agent using Ollama, Pydantic AI, and Django Ninja.  
-It walks through project setup, a “roll a dice” tool-based agent, and creating authenticated API endpoints.  
-Next article will add persistent memory for richer, personalized conversations.
-- [A first look at Django's new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 Roam 💬 2650 🔖 #django 🗓️ 2025-12-12
-    > **Резюме:** Django 6.0 adds a new background tasks framework called django.tasks that helps define and enqueue tasks with a simple API. It does not run tasks itself but provides tools to manage and track task status in a database. This framework aims to cover common use cases but lacks advanced features found in specialized task queue systems.
 - [Hexagonal Architecture for absolute beginners.](https://sushantdhiman.substack.com/p/hexagonal-architecture-for-absolute?utm_source=post-email-title&publication_id=3501228&post_id=180310942&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) 👤 Sushant Dhiman 💬 896 🗓️ 2025-11-30
     > **Резюме:** Hexagonal architecture isolates the core domain from frameworks and external systems.  
 It uses domain-defined ports and interchangeable adapters so databases or APIs can be swapped easily.  
@@ -58,8 +48,6 @@ This makes code more portable, testable, and suitable for apps with multiple ent
     > **Резюме:** Traditional syntax highlighting creates many span elements, which slows rendering and uses more memory.  
 The CSS Custom Highlight API uses lightweight Range objects and CSS ::highlight rules to style text without changing the DOM, making rendering faster and leaner.  
 It works in modern browsers but needs fallbacks for older ones and only supports single text-node content.
-- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #learning, #llm-devimpact 🗓️ 2025-11-17
-    > **Резюме:** Software development is a learning loop: you must try, fail, and iterate to discover the right design. LLMs and starter kits speed setup and translation between languages but can hide crucial context and stunt learning. True long-term velocity comes from developers internalizing how systems work, not from shortcuts that bypass the learning loop.
 - [Some software bloat is OK](https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok?utm_source=tldrwebdev) 👤 WaspDev Blog 💬 1308 🗓️ 2025-11-12
     > **Резюме:** Modern hardware makes some software bloat acceptable because it speeds development, improves safety, and adds features like globalization and isolation.  
 However, wasted dependencies, poor design, and over-engineering cause avoidable bloat and maintenance problems.  
@@ -72,11 +60,6 @@ Choose good algorithms early and optimize hotspots when needed to avoid costly r
     > **Резюме:** Managers face pressures you may not see, so learn how they think and what they must balance.  
 Make their job easier by bringing clear solutions, predictable updates, and adapting to their style.  
 Do this consistently and you gain trust, autonomy, and real influence.
-- [AiDHD](https://www.josh.ing/blog/aidhd) 👤 Josh Cohenzadeh 💬 2219 🔖 #llm 🗓️ 2025-11-09
-    > **Заметка:** Via Simon Willison
-    > **Резюме:** Josh built small AI projects for fun and to explore "vibe coding."  
-He made tools like HN Slop, Claudius, Rate My Prompt, and Promptlet to make agents and prompts easier to use.  
-He says AI speeds the first 80% of work, but the final 20% and finding real users remain hard.
 - [Game design is simple, actually](https://simonwillison.net/2025/Nov/7/game-design-is-simple-actually/#atom-everything) 👤 Simon Willison 💬 47 🗓️ 2025-11-08
     > **Резюме:** Game design can be broken down into clear, simple principles. Raph Koster offers a twelve-step guide that explains how games create "fun." The guide is informative and full of helpful illustrations.
 - [Interview: Ken Case (OmniFocus)](https://www.joanwestenberg.com/p/interview-ken-case-omnifocus) 👤 JA Westenberg 💬 6152 🗓️ 2025-11-08

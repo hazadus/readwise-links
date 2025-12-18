@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [hookify@claude-code-plugins](https://mays.co/optimizing-claude-code?utm_source=tldrdev) 👤 mays.co 💬 2278 🔖 #llm, #claude 🗓️ 2025-12-17
+    > **Резюме:** Claude Code can be customized into a project-aware specialist by adding settings, skills, hooks, commands, agent docs, and plugins.  
+Skills teach conventions, hooks enforce them, and CLAUDE.md supplies project context.  
+A few hours of setup yields far better, consistent results than the default.
 - [Get Notified When Claude Code Finishes With Hooks](https://alexop.dev/posts/claude-code-notification-hooks/) 👤 Alexander Opalic 💬 736 🔖 #claude 🗓️ 2025-11-24
     > **Резюме:** Claude Code can run hooks that trigger desktop notifications when it needs your attention. Set a simple .claude/settings.json and a notification script to handle permission_prompt and idle_prompt events. This stops you from constantly checking the terminal and brings you back only when needed.
 - [Building My First Claude Code Plugin](https://alexop.dev/posts/building-my-first-claude-code-plugin/) 👤 Alexander Opalic 💬 662 🔖 #llm, #claude 🗓️ 2025-11-09

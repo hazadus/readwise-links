@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 41
+- Всего ссылок: 42
 
 ## Ссылки
 
@@ -10,6 +10,9 @@
 - [AI optimism is a class privilege](https://joshcollinsworth.com/blog/sloptimism) 👤 Josh Collinsworth 💬 3212 🔖 #llm, #toot 🗓️ 2025-12-04
     > **Заметка:** "In order to be an AI optimist, you have to believe yours is not one of the jobs that risk being automated or downsized, and that you are not among the potentially millions of workers staring down displacement."
     > **Резюме:** AI optimism is a class privilege because the benefits mainly help people who are already secure. Many workers, students, and vulnerable groups face job loss, harm, and surveillance from AI. Choosing optimism often means ignoring those real costs.
+- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #toot, #learning, #programming, #llm-devimpact 🗓️ 2025-11-17
+    > **Заметка:** "Tools can't do the learning for you. An AI can generate a perfect solution in seconds, but it cannot give you the experience you gain from the struggle of creating it yourself."
+    > **Резюме:** Software development is a learning loop: you must try, fail, and iterate to discover the right design. LLMs and starter kits speed setup and translation between languages but can hide crucial context and stunt learning. True long-term velocity comes from developers internalizing how systems work, not from shortcuts that bypass the learning loop.
 - [A gold ceremony to remember](https://daniel.haxx.se/blog/2025/10/25/a-gold-ceremony-to-remember/) 👤 Daniel Stenberg 💬 747 🔖 #toot, #devtools 🗓️ 2025-10-26
     > **Заметка:** Заслуженная награда🎖️! Рад за Дэниэла. Просто юзайте curl! ✊
     > **Резюме:** Daniel Stenberg and his family attended a formal awards ceremony at Stockholm City Hall. He received an IVA gold medal for his work and was honored on stage. The evening included speeches, a dinner, and lasting memories.

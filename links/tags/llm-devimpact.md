@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [I Helped Build Your IDE. Here's What Will Replace It](https://davegriffith.substack.com/p/i-helped-build-your-ide-heres-what) 👤 Dave Griffith 💬 2718 🔖 #llm, #llm-devimpact 🗓️ 2025-12-16
+    > **Резюме:** Developers are moving from hands-on coding in IDEs to guiding AI agents that generate and review code. The new “control tower” tools will coordinate agents, context, and reviews rather than act as a traditional editor cockpit. Key skills will shift from typing code to writing clear specs and knowing when to take manual control.
 - [Why Your CTO Might Start Coding Again](https://davegriffith.substack.com/p/why-your-cto-might-start-coding-again) 👤 Dave Griffith 💬 2188 🔖 #llm, #llm-devimpact 🗓️ 2025-12-16
     > **Резюме:** Agentic AI made writing code cheap and shifted the bottleneck to deciding what to build.  
 Managers developed judgment, specification, and coordination skills that are now the most valuable.  
@@ -21,7 +23,8 @@ Use AI to teach code and free seniors to mentor judgment, not to replace apprent
     > **Резюме:** Agentic AI makes writing code far cheaper and much faster than the old $150/hour model.  
 That speed only helps if organizations and developers learn how to design, test, and manage quality; otherwise it creates technical debt.  
 Developers who master architecture, testing, and judgment will thrive; others risk obsolescence.
-- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #learning, #llm-devimpact 🗓️ 2025-11-17
+- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #toot, #learning, #programming, #llm-devimpact 🗓️ 2025-11-17
+    > **Заметка:** "Tools can't do the learning for you. An AI can generate a perfect solution in seconds, but it cannot give you the experience you gain from the struggle of creating it yourself."
     > **Резюме:** Software development is a learning loop: you must try, fail, and iterate to discover the right design. LLMs and starter kits speed setup and translation between languages but can hide crucial context and stunt learning. True long-term velocity comes from developers internalizing how systems work, not from shortcuts that bypass the learning loop.
 - [The Myth of AI-powered Sisyphus](https://tawandamunongo.dev/posts/2025/11/ai-powered-sisyphus/) 👤 t23o 💬 1449 🔖 #llm, #llm-devimpact 🗓️ 2025-11-13
     > **Резюме:** AI makes endless possibilities feel reachable, but that only grows the list of things we must do. The real problem is not tools but choosing what matters when everything seems possible. Freedom comes from accepting limits and doing a few things well.

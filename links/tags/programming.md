@@ -1,11 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 28
+- Всего ссылок: 29
 
 ## Ссылки
 
 - [ООП: худшее, что случалось с программированием [24.02.2025]](https://alexanderdanilov.dev/ru/articles/oop) 👤 Александр Данилов 💬 4864 🔖 #programming 🗓️ 2025-11-23
     > **Резюме:** Автор критикует классическое ООП, называя его источником многих проблем: сложность повторного использования, баги при изменяемых данных и ненужная инкапсуляция. Функциональный подход, по его мнению, проще, безопаснее и лучше подходит для сериализуемых данных. Вывод: избегайте сложных ООП-паттернов и пишите простой функциональный код.
+- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #toot, #learning, #programming, #llm-devimpact 🗓️ 2025-11-17
+    > **Заметка:** "Tools can't do the learning for you. An AI can generate a perfect solution in seconds, but it cannot give you the experience you gain from the struggle of creating it yourself."
+    > **Резюме:** Software development is a learning loop: you must try, fail, and iterate to discover the right design. LLMs and starter kits speed setup and translation between languages but can hide crucial context and stunt learning. True long-term velocity comes from developers internalizing how systems work, not from shortcuts that bypass the learning loop.
 - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/) 👤 hojberg.xyz 💬 2646 🔖 #llm, #programming, #llm-devimpact 🗓️ 2025-10-09
     > **Резюме:** Programming used to be a deep, creative craft focused on solving puzzles and understanding code. Now, AI tools risk turning programmers into mere operators, disconnected from their work and each other. This shift threatens to erase the skill, pride, and identity that made programming special.
 - [Python 3.14 Is Here. How Fast Is It?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it) 👤 Miguel Grinberg 💬 2548 🔖 #toot, #python, #programming 🗓️ 2025-10-09
