@@ -49,6 +49,7 @@ Give each domain its own package and have tech packages (http, postgres) depend 
 Start small: use a simple net/http server and avoid containers, Kubernetes, and heavy infra.  
 Follow the series as features like frontend, database, auth, and payments are added step by step.
 - [A new experimental Go API for JSON](https://go.dev/blog/jsonv2-exp) 👤 go.dev 💬 3099 🔖 #go 🗓️ 2025-09-10
+    > **Заметка:** https://chatgpt.com/c/694427de-3f60-832b-8307-e40da44c3903
     > **Резюме:** Go 1.25 introduces an experimental JSON API with encoding/json/v2 and encoding/json/jsontext to improve JSON handling in Go. These new packages offer better streaming, performance, and customization compared to the original encoding/json. The goal is to eventually replace the old API while keeping backward compatibility and involving the Go community.
 - [Why Go Is A Minimalist Language • The Applied Go Weekly Newsletter 2025-09-07](https://newsletter.appliedgo.net/archive/2025-09-07-why-go-is-a-minimalist-language/) 👤 The Applied Go Weekly Newsletter 💬 1670 🔖 #go 🗓️ 2025-09-08
     > **Резюме:** Go is a minimalist programming language that avoids needless complexity.  
@@ -62,8 +63,11 @@ This issue wraps up the Go & AI mini‑series and asks readers to take a short f
     > **Резюме:** Go programming language is becoming popular for building AI tools and apps because it works well with large language models (LLMs). There are many Go libraries and applications like LangChainGo, MCP Go SDK, Ollama, and LocalAI that help developers use AI easily. These tools make AI development simpler and let Go programmers create powerful AI-driven software.
 - [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #testing, #postgresql 🗓️ 2025-08-10
     > **Заметка:** From Thorsten Ball interview
+
+https://chatgpt.com/c/69442a9a-f300-832f-ab30-b4c986167b5d
     > **Резюме:** This article explains how to use ephemeral PostgreSQL instances for automated testing in Go, which can reduce resource usage and speed up test times. By starting a single PostgreSQL instance for all tests instead of multiple instances, developers can improve efficiency and maintainability. Additionally, optimizing the Go test caching behavior can further decrease test runtime significantly.
-- [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) 👤 Redowan Delowar 💬 1179 🔖 #go 🗓️ 2025-08-04
+- [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) 👤 Redowan Delowar 💬 1179 🔖 #go, #patterns 🗓️ 2025-08-04
+    > **Заметка:** https://chatgpt.com/c/694438ad-68b0-832f-91bf-a2c4f204944e
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
 - [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) 👤 Software Engineering & Personal Thoughts 💬 1511 🔖 #go 🗓️ 2025-08-04
     > **Резюме:** This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.

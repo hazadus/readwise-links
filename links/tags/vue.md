@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 27
+- Всего ссылок: 28
 
 ## Ссылки
 
@@ -35,6 +35,8 @@ Use Pinia for app-wide state, composables for reusable logic, and provide/inject
 Avoid event buses and prefer typed, testable patterns with DevTools support.
 - [How to Do Visual Regression Testing in Vue with Vitest?](https://alexop.dev/posts/visual-regression-testing-with-vue-and-vitest-browser/) 👤 Alexander Opalic 💬 993 🔖 #vue, #vitest, #testing 🗓️ 2025-09-26
     > **Резюме:** Visual regression testing captures screenshots of Vue components and compares them to baseline images to catch unintended UI changes. Vitest’s experimental browser mode with Playwright renders stories in a real browser, takes screenshots, and compares them to baselines. It needs extra config and manual diff review, but helps keep the UI consistent and lets designers inspect changes.
+- [The Difference Between a Post Flush Watcher and nextTick in Vue](https://michaelnthiessen.com/the-difference-between-a-post-flush-watcher-and-nexttick?ck_subscriber_id=2108193410&utm_campaign=The+Difference+Between+a+Post+Flush+Watcher+and+nextTick+in+Vue+-+18711361&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1110 🔖 #vue 🗓️ 2025-08-24
+    > **Резюме:** A post-flush watcher and nextTick both wait until after the DOM updates. The only difference is timing: nextTick runs one microtask later and therefore runs after post-flush watchers. In practice this rarely matters unless you need a strict execution order.
 - [What are Effect Scopes in Vue?](https://michaelnthiessen.com/what-are-effect-scopes-in-vue?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(230)+What+are+Effect+Scopes+in+Vue?+-+18611005&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1063 🔖 #vue, #nuxt 🗓️ 2025-08-13
     > **Резюме:** Effect scopes in Vue group related reactive effects so they can be stopped and cleaned up easily. This helps prevent memory leaks and bugs by controlling how long effects live. They are used inside components and also for advanced patterns like shared composables.
 - [Bulletproof Watchers in Vue](https://michaelnthiessen.com/bulletproof-watchers-in-vue?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=Bulletproof+Watchers+in+Vue+(no+more+leaks+or+duplicate+effects)+-+18562994) 👤 michaelnthiessen.com 💬 1040 🔖 #vue, #nuxt, #toot, #webdev, #programming 🗓️ 2025-08-09

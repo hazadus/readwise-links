@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 16
 
 ## Ссылки
 
@@ -32,6 +32,8 @@ The video shows live coding, tweaks, and debugging to build interactive 3D scene
     > **Резюме:** JavaScript Symbols are unique primitives used as property keys in objects, which prevents conflicts with existing properties. They can create special behaviors, like making objects iterable or controlling type conversions. Symbols can also be shared across modules using the global Symbol registry, allowing for consistent access throughout an application.
 - [JavaScript | 2022 | The Web Almanac by HTTP Archive](https://almanac.httparchive.org/en/2022/javascript) 👤 Jeremy Wagner 💬 7978 🔖 #web, #long read, #javascript 🗓️ 2024-01-25
     > **Резюме:** The text discusses the impact of excessive JavaScript usage on web performance, highlighting issues such as unused JavaScript and render-blocking scripts. It also emphasizes the importance of optimization techniques like minification and compression to improve script delivery to browsers. Overall, there is a call to reduce the amount of JavaScript shipped on websites to enhance performance.
+- [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/) 👤 joshwcomeau.com 💬 3746 🔖 #javascript 🗓️ 2025-09-06
+    > **Резюме:** The text discusses the importance of understanding Promises in JavaScript for modern web development. Promises allow for asynchronous operations and help avoid callback nesting. Modern JavaScript features like async/await simplify handling asynchronous tasks.
 - [Exploring JS: JavaScript books for programmers](https://exploringjs.com) 👤 exploringjs.com 💬 273 🔖 #javascript, #typescript 🗓️ 2024-08-20
     > **Резюме:** The website exploringjs.com offers many free JavaScript books for programmers, covering various versions and topics. Key books include "JavaScript for Impatient Programmers" for beginners and "Deep JavaScript" for advanced learners. The author, Dr. Axel Rauschmayer, is an expert in JavaScript and web development.
 - [Patterns for Memory Efficient DOM Manipulation with Modern Vanilla JavaScript – Frontend Masters Boost](https://frontendmasters.com/blog/patterns-for-memory-efficient-dom-manipulation/) 👤 Marc Grabanski Frontend Masters 💬 2224 🔖 #javascript 🗓️ 2024-08-20

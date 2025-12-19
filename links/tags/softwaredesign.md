@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 14
 
 ## Ссылки
 
@@ -8,6 +8,9 @@
     > **Резюме:** Mixing business logic with side effects makes code hard to test and change. Split code into a pure functional core for logic and an imperative shell for I/O. This makes testing, reuse, and adding features simple.
 - [Most of What We Call Progress](https://yusufaytas.com/most-of-what-we-call-progress/) 👤 https://www.facebook.com/yusufaytas 💬 2537 🔖 #management, #softwaredesign 🗓️ 2025-10-16
     > **Резюме:** We confuse new tools and clever designs with real progress. Experience shows clarity, simple practices, and human coordination matter more than abstractions. True maturity is about making systems reliable, understandable, and easy for others to work with.
+- [5 Core Distributed Concepts Every Developer Should Know](https://www.swequiz.com/blog/5-core-distributed-concepts-every-developer-should-know) 👤 swequiz.com 💬 2261 🔖 #interview, #softwaredesign 🗓️ 2025-10-05
+    > **Заметка:** https://chatgpt.com/c/69442f76-7f0c-8329-92ef-7720593132a9
+    > **Резюме:** Distributed systems are crucial for modern applications, and developers should understand five core concepts to build and troubleshoot them effectively. Key principles include the CAP Theorem, fault tolerance, and strategies for reducing latency. By grasping these concepts, developers can create resilient and scalable applications.
 - [Why Over-Engineering Happens](https://yusufaytas.com/why-over-engineering-happens/?utm_source=tldrwebdev) 👤 https://www.facebook.com/yusufaytas 💬 3283 🔖 #principles, #microservices, #softwaredesign 🗓️ 2025-10-02
     > **Резюме:** Over-engineering happens when teams build complex systems for imaginary futures instead of solving real user problems. This adds cost, slows delivery, and makes systems fragile. Keep architecture simple, add complexity only when evidence demands it.
 - [What is "good taste" in software engineering?](https://seangoedecke.com/taste/) 👤 seangoedecke.com 💬 1835 🔖 #development, #architecture, #softwarecraft, #softwaredesign 🗓️ 2025-09-28

@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 21
+- Всего ссылок: 19
 
 ## Ссылки
 
@@ -14,10 +14,6 @@ Use .stow-local-ignore and .gitignore to skip machine-specific or unwanted files
     > **Резюме:** This shows how to open every file changed in a Git branch in your local editor. Use git merge-base to find the branch point and git diff --name-only to list changed files. Pipe the list to xargs and open -a "Visual Studio Code" to open them all.
 - [How to Back up Your GitHub Repositories](https://improveandrepeat.com/2025/09/how-to-back-up-your-github-repositories/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 616 🔖 #git, #try, #github 🗓️ 2025-09-02
     > **Резюме:** GitHub is convenient, but you should back up all your repositories. Create bare (or --mirror) clones to keep a full copy of each repo. Automate regular updates with a simple fetch script run by cron.
-- [Git: count files in a repository](https://adamj.eu/tech/2025/08/29/git-count-files/) 👤 adamj.eu 💬 340 🔖 #git 🗓️ 2025-08-30
-    > **Резюме:** Count committed files with Git so you ignore generated or downloaded files.  
-Run: git ls-files -z | tr -d -c '\0' | wc -c — null bytes prevent errors from filenames with newlines.  
-Use git ls-files '<pattern>' | wc -l to count types or git ls-files ':!<pattern>' to exclude files.
 - [The Problem with GitHub Commit Statuses](https://joshcannon.me/2025/08/24/github-commit-status.html) 👤 Josh Cannon 💬 616 🔖 #git, #github 🗓️ 2025-08-25
     > **Резюме:** GitHub lets you block PR merges using commit statuses, and anyone can post arbitrary statuses via the API. Required checks must come from a specific app, but spoofable or non-required statuses still appear and confuse users. Because statuses are keyed by context and commit SHA, renaming contexts or reusing a SHA can break or wrongly allow merges.
 - [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/?utm_source=substack&utm_medium=email) 👤 matklad 💬 928 🔖 #git, #github, #codereview, #joyandcuriosity 🗓️ 2025-08-24
@@ -28,8 +24,6 @@ It uses LangChainGo so you can swap providers, asks the model for JSON output, a
 This issue wraps up the Go & AI mini‑series and asks readers to take a short feedback survey.
 - [Git Notes: git's coolest, most unloved feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/) 👤 Tyler Cipriani 💬 717 🔖 #git 🗓️ 2025-07-09
     > **Резюме:** Git notes let you add extra information to commits without changing them. They can store useful data like reviews and test results inside git itself. However, they are hard to use and not widely adopted, so many developers don’t know about them.
-- [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles) 👤 Atlassian 💬 710 🔖 #git, #try 🗓️ 2025-06-06
-    > **Резюме:** This tutorial explains a simple way to store dotfiles using a Git bare repository. It involves creating an alias that allows you to manage your configuration files without interfering with other Git repositories. By following the steps provided, you can easily version and replicate your configurations across different systems.
 - [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/) 👤 Simon Willison 💬 2852 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
     > **Резюме:** The key to increasing productivity on personal projects is to maintain comprehensive documentation and automated tests. Issue driven development, using GitHub issues as temporary documentation, can help manage multiple projects efficiently. Sharing your project work through documentation and release notes is crucial for project completion and accountability.
 - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/) 👤 Simon Willison 💬 1979 🔖 #git, #github, #inspiration 🗓️ 2025-05-29
@@ -39,6 +33,7 @@ This issue wraps up the Go & AI mini‑series and asks readers to take a short f
 - [How to Deploy Selectively to Production](https://www.caktusgroup.com/blog/2025/03/04/how-deploy-selectively-production/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_275) 👤 Tobias McNulty 💬 495 🔖 #git 🗓️ 2025-03-08
     > **Резюме:** This blog post discusses how to deploy specific features or bug fixes to production using Git flow. It recommends using hotfix branches to cherry-pick necessary commits from the testing branch while avoiding complex changes like schema migrations. This method is best suited for small fixes and code changes, rather than large features.
 - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/) 👤 GitButler 💬 3188 🔖 #git 🗓️ 2025-02-25
+    > **Заметка:** https://chatgpt.com/c/69442671-5c68-8332-9547-7963e928d494
     > **Резюме:** The author shares lesser-known Git configuration settings that core Git developers recommend for better performance. These settings include adjusting default branch names, improving diff algorithms, and enhancing push and fetch behavior. By enabling these options, users can streamline their Git experience and make it more efficient.
 - [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/using-github/github-flow) 👤 GitHub Docs 💬 1069 🔖 #git, #github 🗓️ 2025-02-05
     > **Резюме:** GitHub flow is a simple way to collaborate on projects using branches. You create a branch, make changes, and then submit a pull request for feedback before merging your work. After merging, you can delete your branch to keep your project organized.

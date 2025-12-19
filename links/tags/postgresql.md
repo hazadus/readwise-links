@@ -10,6 +10,8 @@
     > **Резюме:** Postgres is simple, reliable, and often good enough instead of deploying Kafka for small-to-medium pub-sub or queue workloads. Benchmarks show modest Postgres clusters can durably handle thousands to hundreds of thousands of messages per second with low latency. Use Postgres first and only add complex distributed systems like Kafka when you truly outgrow it.
 - [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #testing, #postgresql 🗓️ 2025-08-10
     > **Заметка:** From Thorsten Ball interview
+
+https://chatgpt.com/c/69442a9a-f300-832f-ab30-b4c986167b5d
     > **Резюме:** This article explains how to use ephemeral PostgreSQL instances for automated testing in Go, which can reduce resource usage and speed up test times. By starting a single PostgreSQL instance for all tests instead of multiple instances, developers can improve efficiency and maintainability. Additionally, optimizing the Go test caching behavior can further decrease test runtime significantly.
 - [Developing a Real-time Dashboard with FastAPI, Postgres, and WebSockets](https://testdriven.io/blog/fastapi-postgres-websockets/) 👤 testdriven.io 💬 3838 🔖 #try, #fastapi, #websocket, #postgresql 🗓️ 2025-07-18
     > **Резюме:** This tutorial shows how to build a real-time inventory dashboard using FastAPI, Postgres, and WebSockets. It explains how to send live database updates to the frontend using Postgres triggers and WebSocket connections. The result is a responsive app that updates instantly when inventory changes happen.

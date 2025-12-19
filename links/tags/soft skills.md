@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [High Agency Matters](https://addyosmani.com/blog/high-agency-matters/?utm_source=tldrwebdev) 👤 Addy Osmani 💬 9273 🔖 #cv, #career, #soft skills 🗓️ 2025-10-29
+    > **Заметка:** Основные тезисы тут: https://chatgpt.com/c/6943b950-9dd8-8332-ad41-be1b07e5daea
+    > **Резюме:** Taking initiative (agency) matters more than raw intelligence for long-term success. High-agency people act, learn from feedback, and turn ideas into results. Hire and teach agency because it’s rare, valuable, and can be developed.
 - [How I provide technical clarity to non-technical leaders](https://seangoedecke.com/clarity/) 👤 seangoedecke.com 💬 2181 🔖 #soft skills, #communication 🗓️ 2025-10-12
     > **Резюме:** My job as a staff engineer is to give non-technical leaders a clear, practical understanding of our software.  
 That means simplifying complex tradeoffs, saying what’s possible, impossible, and risky, and keeping needless technical caveats to myself.  

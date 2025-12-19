@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [Building an AI QA Engineer with Claude Code and Playwright MCP](https://alexop.dev/posts/building_ai_qa_engineer_claude_code_playwright/) 👤 Alexander Opalic 💬 1193 🔖 #mcp, #claude 🗓️ 2025-12-15
+    > **Резюме:** Alexander Opalic built an AI QA engineer named Quinn that uses Claude Code and Playwright MCP to test web apps through the browser like a real user. Quinn runs on pull requests via GitHub Actions, clicks, types, resizes the viewport, and posts detailed bug reports with screenshots. This approach finds edge cases and complements but does not replace traditional unit and E2E tests.
 - [too many model context protocol servers and LLM allocations on the dance floor](https://ghuntley.com/allocations/) 👤 Geoffrey Huntley 💬 2498 🔖 #llm, #mcp 🗓️ 2025-08-23
     > **Резюме:** Too many MCP servers and tools eat the LLM context window and reduce usable tokens.  
 This causes poorer outputs, unexpected behavior, and conflicts between tool prompts.  

@@ -4,18 +4,14 @@
 
 ## Ссылки
 
-- [hookify@claude-code-plugins](https://mays.co/optimizing-claude-code?utm_source=tldrdev) 👤 mays.co 💬 2278 🔖 #llm, #claude 🗓️ 2025-12-17
-    > **Резюме:** Claude Code can be customized into a project-aware specialist by adding settings, skills, hooks, commands, agent docs, and plugins.  
-Skills teach conventions, hooks enforce them, and CLAUDE.md supplies project context.  
-A few hours of setup yields far better, consistent results than the default.
+- [Building an AI QA Engineer with Claude Code and Playwright MCP](https://alexop.dev/posts/building_ai_qa_engineer_claude_code_playwright/) 👤 Alexander Opalic 💬 1193 🔖 #mcp, #claude 🗓️ 2025-12-15
+    > **Резюме:** Alexander Opalic built an AI QA engineer named Quinn that uses Claude Code and Playwright MCP to test web apps through the browser like a real user. Quinn runs on pull requests via GitHub Actions, clicks, types, resizes the viewport, and posts detailed bug reports with screenshots. This approach finds edge cases and complements but does not replace traditional unit and E2E tests.
 - [Get Notified When Claude Code Finishes With Hooks](https://alexop.dev/posts/claude-code-notification-hooks/) 👤 Alexander Opalic 💬 736 🔖 #claude 🗓️ 2025-11-24
     > **Резюме:** Claude Code can run hooks that trigger desktop notifications when it needs your attention. Set a simple .claude/settings.json and a notification script to handle permission_prompt and idle_prompt events. This stops you from constantly checking the terminal and brings you back only when needed.
 - [Building My First Claude Code Plugin](https://alexop.dev/posts/building-my-first-claude-code-plugin/) 👤 Alexander Opalic 💬 662 🔖 #llm, #claude 🗓️ 2025-11-09
     > **Резюме:** Alexander built a Claude Code plugin that auto-generates commands, skills, agents, hooks, and boilerplate.  
 It saves time by creating properly structured files and frontmatter so he no longer copies templates.  
 He published it on GitHub and uses it to speed up Vue-focused workflows and iterate on tooling.
-- [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) 👤 Shrivu Shankar 💬 3126 🔖 #llm, #claude 🗓️ 2025-11-02
-    > **Резюме:** The author describes how they use Claude Code across docs, CLI tools, subagents, SDKs, and GitHub Actions. They emphasize a short, focused CLAUDE.md, prefer scripting/Task-based workflows over rigid subagents, and use the SDK for batch or prototype agents. GitHub Actions and careful permissions/timeouts help automate PRs and scale usage.
 - [claude_code_docs_map.md](https://simonwillison.net/2025/Oct/24/claude-code-docs-map/#atom-everything) 👤 Simon Willison 💬 205 🔖 #claude 🗓️ 2025-10-25
     > **Резюме:** Simon Willison explains that Claude Code uses a Markdown index (claude_code_docs_map.md) to find documentation when asked about its features. He shows the system prompt directs Claude Code to fetch that URL for answers about itself. He wishes other LLMs would use the same pattern because many struggle to answer questions about their own tools.
 - [Don't let Claude Code delete your session logs](https://simonwillison.net/2025/Oct/22/claude-code-logs/#atom-everything) 👤 Simon Willison 💬 99 🔖 #claude 🗓️ 2025-10-22
@@ -32,5 +28,10 @@ He published it on GitHub and uses it to speed up Vue-focused workflows and iter
     > **Резюме:** The author built "Superpowers," a system of sharable SKILL.md files that teach Claude coding agents how to search, plan, and act using subagents. Claude practices RED/GREEN TDD, pressure-tests skills with realistic scenarios, and mines past conversations for new lessons. Install Claude Code 2.0.13+ and follow the Superpowers SKILL.md files to try it, file bugs, or contribute skills.
 - [Superpowers: How I'm using coding agents in October 2025](https://simonwillison.net/2025/Oct/10/superpowers/#atom-everything) 👤 Simon Willison 💬 408 🔖 #llm, #claude 🗓️ 2025-10-11
     > **Резюме:** Simon Willison describes how Jesse Vincent uses Claude Code coding agents and released a plugin called Superpowers. The plugin bundles many practical skills, like root-cause tracing with Graphviz workflows. Willison recommends exploring Jesse’s repository to learn effective agent workflows.
+- [How Claude Code is built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built?utm_source=tldrwebdev) 👤 Gergely Orosz 💬 3739 🔖 #claude 🗓️ 2025-09-28
+    > **Заметка:** https://chatgpt.com/c/6944236b-7bd0-8332-8f12-6cd3f37f1573
+    > **Резюме:** Claude Code is an AI-first developer tool from Anthropic that most engineers use.  
+It’s a lightweight command-line shell around the Claude model, built with TypeScript and React.  
+The team prototypes rapidly and the model writes roughly 90% of the code, enabling fast feature iterations.
 - [MacBook Lid Angle Sensor: Python Implementation Analysis](https://claude.ai/public/artifacts/6c92203e-9768-4ffa-ae0a-9c4307b94c5e) 👤 Claude 💬 1123 🔖 #claude 🗓️ 2025-09-07
     > **Резюме:** Reading MacBook lid angle data in Python is possible but requires complex workarounds. A hybrid pyobjc+ctypes implementation can work but is slow, fragile, and needs manual memory and permission handling. For production, use a small native Objective-C component with Python bindings instead of a pure Python solution.

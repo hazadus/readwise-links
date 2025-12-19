@@ -1,41 +1,69 @@
 [
     {
-        "id": "01kcp5sy8z7mxygp5bwxphe9bj",
-        "url": "https://read.readwise.io/read/01kcp5sy8z7mxygp5bwxphe9bj",
-        "source_url": "https://mays.co/optimizing-claude-code?utm_source=tldrdev",
-        "title": "hookify@claude-code-plugins",
-        "author": "mays.co",
+        "id": "01kcs9ta2fvjb4hesmkz03h8v9",
+        "url": "https://read.readwise.io/read/01kcs9ta2fvjb4hesmkz03h8v9",
+        "source_url": "https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660",
+        "title": "What happens when the coding becomes the least interesting part of the work",
+        "author": "Obie Fernandez",
         "source": "Readwise web highlighter",
         "category": "article",
         "location": "later",
         "tags": {
-            "llm": {
-                "name": "LLM",
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
                 "type": "manual",
-                "created": 1765975853794
-            },
-            "claude": {
-                "name": "Claude",
-                "type": "manual",
-                "created": 1765975861732
+                "created": 1766080726332
             }
         },
-        "site_name": "mays.co",
-        "word_count": 2278,
-        "notes": "",
-        "summary": "Claude Code can be customized into a project-aware specialist by adding settings, skills, hooks, commands, agent docs, and plugins.  \nSkills teach conventions, hooks enforce them, and CLAUDE.md supplies project context.  \nA few hours of setup yields far better, consistent results than the default.",
-        "image_url": "https://mays.co/_astro/optimizing-claude-code.DOeMUOQN_Z2lns9R.jpg",
+        "site_name": "Medium",
+        "word_count": 1894,
+        "notes": "https://chatgpt.com/c/6944406d-4640-832a-b0c4-9df0c3a7cf6d",
+        "summary": "Senior engineering is mostly silent judgment, not typing code. Pairing with coding agents forces you to speak that judgment out loud, which improves decisions. That shift will make coding itself less valuable and reshape teams fast.",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*KmaD8TsTSpLtfF_X3rGMNg.jpeg",
         "parent_id": null,
         "reading_progress": 0.0,
         "content": null,
         "html_content": null,
-        "published_date": null,
-        "created_at": "2025-12-17T12:50:50.347540+00:00",
-        "updated_at": "2025-12-17T12:51:08.394025+00:00",
-        "saved_at": "2025-12-17T12:50:49.247000+00:00",
-        "first_opened_at": "2025-12-17T12:50:49.247000+00:00",
-        "last_opened_at": "2025-12-17T12:50:49.247000+00:00",
-        "last_moved_at": "2025-12-17T12:51:07.858000+00:00"
+        "published_date": "2025-12-12",
+        "created_at": "2025-12-18T17:58:40.381485+00:00",
+        "updated_at": "2025-12-18T17:58:52.833574+00:00",
+        "saved_at": "2025-12-18T17:58:38.927000+00:00",
+        "first_opened_at": "2025-12-18T17:58:38.927000+00:00",
+        "last_opened_at": "2025-12-18T17:58:38.927000+00:00",
+        "last_moved_at": "2025-12-18T17:58:52.457000+00:00"
+    },
+    {
+        "id": "01kcs96kqwc81138xes72ms7ch",
+        "url": "https://read.readwise.io/read/01kcs96kqwc81138xes72ms7ch",
+        "source_url": "https://www.fofr.ai/nano-banana-pro-guide?utm_source=substack&utm_medium=email",
+        "title": "How to prompt Nano Banana Pro",
+        "author": "fofr.ai",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "later",
+        "tags": {
+            "joyandcuriosity": {
+                "name": "JoyAndCuriosity",
+                "type": "manual",
+                "created": 1766080238444
+            }
+        },
+        "site_name": "fofr.ai",
+        "word_count": 1761,
+        "notes": "",
+        "summary": "Nano Banana Pro is a powerful, flexible image model that handles simple and complex prompts well. Use clear prompts, negatives, or JSON to control details and text. Add reference images for consistent characters, branding, or accurate real-world content.",
+        "image_url": "https://fofr.ai/og/nano-banana-pro-guide.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-11-27",
+        "created_at": "2025-12-18T17:47:55.073982+00:00",
+        "updated_at": "2025-12-18T17:50:41.170970+00:00",
+        "saved_at": "2025-12-18T17:47:53.468000+00:00",
+        "first_opened_at": "2025-12-18T17:47:53.468000+00:00",
+        "last_opened_at": "2025-12-18T17:47:53.468000+00:00",
+        "last_moved_at": "2025-12-18T17:50:40.471000+00:00"
     },
     {
         "id": "01kcm27bdmkf93wajaqkx8g2rj",
@@ -684,7 +712,7 @@
         "id": "01kcjz195qz647nttq3aqwqz64",
         "url": "https://read.readwise.io/read/01kcjz195qz647nttq3aqwqz64",
         "source_url": "https://www.django-rapid-architecture.org/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_315",
-        "title": "Django RAPID architecture¶",
+        "title": "Django RAPID architecture",
         "author": "django-rapid-architecture.org",
         "source": "Readwise web highlighter",
         "category": "article",
@@ -707,7 +735,7 @@
         "html_content": null,
         "published_date": null,
         "created_at": "2025-12-16T06:54:47.211216+00:00",
-        "updated_at": "2025-12-16T06:54:55.970185+00:00",
+        "updated_at": "2025-12-18T17:26:59.661934+00:00",
         "saved_at": "2025-12-16T06:54:46.455000+00:00",
         "first_opened_at": "2025-12-16T06:54:46.455000+00:00",
         "last_opened_at": "2025-12-16T06:54:46.455000+00:00",
@@ -896,24 +924,30 @@
         "author": "Bite Code!",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "later",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "devtools": {
+                "name": "DevTools",
+                "type": "manual",
+                "created": 1766038715093
+            }
+        },
         "site_name": "bitecode.dev",
         "word_count": 2039,
         "notes": "",
         "summary": "just is a simple cross-platform task runner that puts project commands in a .justfile. It lists and runs recipes so you don’t memorize long commands. It’s fast, portable, and supports parameters, platform-specific recipes, and env loading.",
         "image_url": "https://substackcdn.com/image/fetch/$s_!V0Dh!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22a48548-09c5-4eb6-883f-124b6e777997_1536x1024.png",
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2025-12-14",
         "created_at": "2025-12-15T07:59:14.420552+00:00",
-        "updated_at": "2025-12-15T08:09:43.158271+00:00",
+        "updated_at": "2025-12-18T06:18:41.943616+00:00",
         "saved_at": "2025-12-15T07:59:13.572000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-12-15T08:09:42.405000+00:00"
+        "first_opened_at": "2025-12-18T05:54:57.567000+00:00",
+        "last_opened_at": "2025-12-18T05:54:57.642000+00:00",
+        "last_moved_at": "2025-12-18T06:18:41.298000+00:00"
     },
     {
         "id": "01kcgfx6yvg65krrr77dfk7rv4",
@@ -1056,7 +1090,18 @@
         "source": "Reader add from import URL",
         "category": "article",
         "location": "later",
-        "tags": {},
+        "tags": {
+            "mcp": {
+                "name": "MCP",
+                "type": "manual",
+                "created": 1766078267717
+            },
+            "claude": {
+                "name": "Claude",
+                "type": "manual",
+                "created": 1766078264233
+            }
+        },
         "site_name": "Alexander Opalic",
         "word_count": 1193,
         "notes": "",
@@ -1068,7 +1113,7 @@
         "html_content": null,
         "published_date": "2025-12-13",
         "created_at": "2025-12-15T07:27:00.183872+00:00",
-        "updated_at": "2025-12-15T08:09:40.824513+00:00",
+        "updated_at": "2025-12-18T17:17:48.165292+00:00",
         "saved_at": "2025-12-15T07:26:59.391000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
@@ -1106,44 +1151,6 @@
         "first_opened_at": "2025-12-15T07:26:31.587000+00:00",
         "last_opened_at": "2025-12-15T07:26:31.655000+00:00",
         "last_moved_at": "2025-12-15T08:09:38.879000+00:00"
-    },
-    {
-        "id": "01kc916ey7xqk81yqg1jww8q0y",
-        "url": "https://read.readwise.io/read/01kc916ey7xqk81yqg1jww8q0y",
-        "source_url": "https://stephenramsay.net/posts/vibe-coding.html?utm_source=tldrdev",
-        "title": "If You’re Going to Vibe Code, Why Not Do It in C?",
-        "author": "Stephen Ramsay",
-        "source": "Readwise web highlighter",
-        "category": "article",
-        "location": "later",
-        "tags": {
-            "llm": {
-                "name": "LLM",
-                "type": "manual",
-                "created": 1765534815060
-            },
-            "clang": {
-                "name": "Clang",
-                "type": "manual",
-                "created": 1765534818470
-            }
-        },
-        "site_name": "stephenramsay.net",
-        "word_count": 1766,
-        "notes": "",
-        "summary": "The author loves programming but feels vibe coding takes away the fun and understanding of writing code. Despite this, vibe coding works well and may change the future of software development. They ask why we don’t use simpler languages like C or assembly for vibe coding and suggest we might need new languages designed specifically for it.",
-        "image_url": "",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-12-07",
-        "created_at": "2025-12-12T10:20:09.721175+00:00",
-        "updated_at": "2025-12-16T09:10:44.530414+00:00",
-        "saved_at": "2025-12-12T10:20:09.031000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-12-12T10:20:21.593000+00:00"
     },
     {
         "id": "01kc90xv53yn8wqqmsyyf775y1",
@@ -3173,7 +3180,13 @@
         "source": "Readwise web highlighter",
         "category": "article",
         "location": "later",
-        "tags": {},
+        "tags": {
+            "architecture": {
+                "name": "Architecture",
+                "type": "manual",
+                "created": 1766079180388
+            }
+        },
         "site_name": "Sushant Dhiman",
         "word_count": 896,
         "notes": "",
@@ -3185,7 +3198,7 @@
         "html_content": null,
         "published_date": "2025-11-30",
         "created_at": "2025-11-30T14:52:57.787760+00:00",
-        "updated_at": "2025-12-01T05:41:29.524068+00:00",
+        "updated_at": "2025-12-18T17:33:00.889110+00:00",
         "saved_at": "2025-11-30T14:52:56.761000+00:00",
         "first_opened_at": "2025-11-30T14:52:56.761000+00:00",
         "last_opened_at": "2025-11-30T14:52:56.761000+00:00",
@@ -3724,7 +3737,13 @@
         "source": "Readwise web highlighter",
         "category": "article",
         "location": "later",
-        "tags": {},
+        "tags": {
+            "websocket": {
+                "name": "WebSocket",
+                "type": "manual",
+                "created": 1766076972252
+            }
+        },
         "site_name": "DeepIntoDev",
         "word_count": 1697,
         "notes": "",
@@ -3736,7 +3755,7 @@
         "html_content": null,
         "published_date": "2025-11-26",
         "created_at": "2025-11-30T10:06:59.726193+00:00",
-        "updated_at": "2025-12-01T05:41:13.930780+00:00",
+        "updated_at": "2025-12-18T16:56:12.949586+00:00",
         "saved_at": "2025-11-30T10:06:58.826000+00:00",
         "first_opened_at": "2025-11-30T10:06:58.826000+00:00",
         "last_opened_at": "2025-11-30T10:06:58.826000+00:00",
@@ -3763,10 +3782,10 @@
         "html_content": null,
         "published_date": null,
         "created_at": "2025-11-30T09:46:46.345845+00:00",
-        "updated_at": "2025-12-01T05:41:08.499511+00:00",
+        "updated_at": "2025-12-18T15:33:01.419182+00:00",
         "saved_at": "2025-11-30T09:46:45.339000+00:00",
         "first_opened_at": "2025-11-30T09:46:45.339000+00:00",
-        "last_opened_at": "2025-11-30T09:46:45.339000+00:00",
+        "last_opened_at": "2025-12-18T15:33:00.131000+00:00",
         "last_moved_at": "2025-12-01T05:41:08.103000+00:00"
     },
     {
@@ -7310,33 +7329,6 @@
         "last_moved_at": "2025-11-13T11:18:41.466000+00:00"
     },
     {
-        "id": "01k9wdzxejk0hc11qw49ncsyfa",
-        "url": "https://read.readwise.io/read/01k9wdzxejk0hc11qw49ncsyfa",
-        "source_url": "https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok?utm_source=tldrwebdev",
-        "title": "Some software bloat is OK",
-        "author": "WaspDev Blog",
-        "source": "Readwise web highlighter",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "waspdev.com",
-        "word_count": 1308,
-        "notes": "",
-        "summary": "Modern hardware makes some software bloat acceptable because it speeds development, improves safety, and adds features like globalization and isolation.  \nHowever, wasted dependencies, poor design, and over-engineering cause avoidable bloat and maintenance problems.  \nChoose good algorithms early and optimize hotspots when needed to avoid costly rewrites.",
-        "image_url": "https://waspdev.com/static/images/2025-11-04/bloat.webp",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-11-04",
-        "created_at": "2025-11-12T16:22:16.159399+00:00",
-        "updated_at": "2025-11-13T15:44:59.742723+00:00",
-        "saved_at": "2025-11-12T16:22:14.738000+00:00",
-        "first_opened_at": "2025-11-12T16:22:14.738000+00:00",
-        "last_opened_at": "2025-11-12T16:22:14.738000+00:00",
-        "last_moved_at": "2025-11-13T15:44:58.905000+00:00"
-    },
-    {
         "id": "01k9wdh9zvqfcbxv9hz9prbhr6",
         "url": "https://read.readwise.io/read/01k9wdh9zvqfcbxv9hz9prbhr6",
         "source_url": "https://alex-jacobs.com/posts/the-case-against-pgvector/?utm_source=tldrwebdev",
@@ -7363,10 +7355,10 @@
         "html_content": null,
         "published_date": "2025-10-29",
         "created_at": "2025-11-12T16:14:17.397580+00:00",
-        "updated_at": "2025-11-13T15:44:57.792016+00:00",
+        "updated_at": "2025-12-18T16:35:17.937078+00:00",
         "saved_at": "2025-11-12T16:14:16.059000+00:00",
         "first_opened_at": "2025-11-12T16:14:16.059000+00:00",
-        "last_opened_at": "2025-11-12T16:14:16.059000+00:00",
+        "last_opened_at": "2025-12-18T16:35:17.024000+00:00",
         "last_moved_at": "2025-11-13T15:44:56.971000+00:00"
     },
     {
@@ -7530,24 +7522,30 @@
         "author": "https://www.facebook.com/yusufaytas",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "management": {
+                "name": "Management",
+                "type": "manual",
+                "created": 1766043994109
+            }
+        },
         "site_name": "Yusuf Aytas",
         "word_count": 2404,
         "notes": "",
         "summary": "Managers face pressures you may not see, so learn how they think and what they must balance.  \nMake their job easier by bringing clear solutions, predictable updates, and adapting to their style.  \nDo this consistently and you gain trust, autonomy, and real influence.",
         "image_url": "https://yusufaytas.com/wp-content/uploads/2025/11/managing-your-manager.jpg",
         "parent_id": null,
-        "reading_progress": 0.04999108607325909,
+        "reading_progress": 0.2504127296357441,
         "content": null,
         "html_content": null,
         "published_date": "2025-11-09",
         "created_at": "2025-11-09T13:19:45.154485+00:00",
-        "updated_at": "2025-11-13T15:44:41.378261+00:00",
+        "updated_at": "2025-12-18T07:46:36.280207+00:00",
         "saved_at": "2025-11-09T13:19:45.140000+00:00",
         "first_opened_at": "2025-11-13T11:20:33.191000+00:00",
-        "last_opened_at": "2025-11-13T11:20:33.191000+00:00",
-        "last_moved_at": "2025-11-13T15:44:40.589000+00:00"
+        "last_opened_at": "2025-12-18T07:39:35.290000+00:00",
+        "last_moved_at": "2025-12-18T07:46:35.624000+00:00"
     },
     {
         "id": "01k9mc9h2792vpghzq1nhbh4gn",
@@ -7874,33 +7872,6 @@
         ]
     },
     {
-        "id": "01k9hvhwkvd4xe7affs4jtjc1z",
-        "url": "https://read.readwise.io/read/01k9hvhwkvd4xe7affs4jtjc1z",
-        "source_url": "https://simonwillison.net/2025/Nov/7/game-design-is-simple-actually/#atom-everything",
-        "title": "Game design is simple, actually",
-        "author": "Simon Willison",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "simonwillison.net",
-        "word_count": 47,
-        "notes": "",
-        "summary": "Game design can be broken down into clear, simple principles. Raph Koster offers a twelve-step guide that explains how games create \"fun.\" The guide is informative and full of helpful illustrations.",
-        "image_url": null,
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-11-07",
-        "created_at": "2025-11-08T13:47:36.464974+00:00",
-        "updated_at": "2025-11-13T15:44:32.048496+00:00",
-        "saved_at": "2025-11-08T13:47:36.443000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-11-13T15:44:31.340000+00:00"
-    },
-    {
         "id": "01k9hetp3a0gwh7whjvaqsgfv3",
         "url": "https://read.readwise.io/read/01k9hetp3a0gwh7whjvaqsgfv3",
         "source_url": "https://www.joanwestenberg.com/p/interview-ken-case-omnifocus",
@@ -7908,8 +7879,14 @@
         "author": "JA Westenberg",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "interview": {
+                "name": "Interview",
+                "type": "manual",
+                "created": 1766068150767
+            }
+        },
         "site_name": "Joan Westenberg",
         "word_count": 6152,
         "notes": "",
@@ -7921,11 +7898,11 @@
         "html_content": null,
         "published_date": "2025-11-06",
         "created_at": "2025-11-08T10:05:13.216295+00:00",
-        "updated_at": "2025-11-13T15:44:29.084472+00:00",
+        "updated_at": "2025-12-18T14:29:16.760470+00:00",
         "saved_at": "2025-11-08T10:05:13.194000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-11-13T15:44:28.327000+00:00"
+        "last_moved_at": "2025-12-18T14:29:15.956000+00:00"
     },
     {
         "id": "01k9fv5p5dnsam1cs9efx1grdv",
@@ -7935,24 +7912,69 @@
         "author": "Simon Willison",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1766039559198
+            },
+            "try": {
+                "name": "Try",
+                "type": "manual",
+                "created": 1766039565796
+            },
+            "inspiration": {
+                "name": "Inspiration",
+                "type": "manual",
+                "created": 1766039561876
+            }
+        },
         "site_name": "simonwillison.net",
         "word_count": 1893,
         "notes": "",
         "summary": "Simon Willison uses asynchronous coding agents like Claude Code and Codex to run code research projects that experiment and test ideas automatically. He gives these agents a dedicated GitHub repository with full network access so they can explore freely and report results via pull requests. This method saves time and helps discover what works by writing and executing real code.",
         "image_url": "https://static.simonwillison.net/static/2025/code-research-card.jpg",
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2025-11-06",
         "created_at": "2025-11-07T19:02:27.782366+00:00",
-        "updated_at": "2025-11-13T15:44:21.797949+00:00",
+        "updated_at": "2025-12-18T06:42:57.829233+00:00",
         "saved_at": "2025-11-07T19:02:27.756000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-11-13T15:44:20.922000+00:00"
+        "first_opened_at": "2025-12-18T06:26:04.876000+00:00",
+        "last_opened_at": "2025-12-18T06:40:27.670000+00:00",
+        "last_moved_at": "2025-12-18T06:42:56.627000+00:00",
+        "highlights": [
+            {
+                "id": "01kcr2j049xyw9n0j2c4f9qs61",
+                "url": "https://read.readwise.io/read/01kcr2j049xyw9n0j2c4f9qs61",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-mobile-app",
+                "category": "highlight",
+                "location": null,
+                "tags": {},
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01k9fv5p5dnsam1cs9efx1grdv",
+                "reading_progress": 0.0,
+                "content": "“Could Redis work for powering the notifications feed for my app?” is a great example. The answer is always “it depends”, but a better answer is that a good programmer already has everything they need to answer that question for themselves. Build a proof-of-concept, simulate the patterns you expect to see in production, then run experiments to see if it’s going to work.",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2025-12-18T06:32:32.604192+00:00",
+                "updated_at": "2025-12-18T06:32:32.604207+00:00",
+                "saved_at": "2025-12-18T06:32:32.137000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2025-12-18T06:32:32.137000+00:00"
+            }
+        ]
     },
     {
         "id": "01k9fsvr6n561hvva56d8f0zeb",
@@ -8084,7 +8106,7 @@
         "author": "vonheikemen.github.io",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "lua": {
                 "name": "Lua",
@@ -8108,11 +8130,11 @@
         "html_content": null,
         "published_date": "2024-07-26",
         "created_at": "2025-11-05T12:28:02.349894+00:00",
-        "updated_at": "2025-11-13T15:44:09.825499+00:00",
+        "updated_at": "2025-12-18T16:05:44.462124+00:00",
         "saved_at": "2025-11-05T12:28:02.309000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-11-13T15:44:08.964000+00:00"
+        "last_moved_at": "2025-12-18T16:05:43.943000+00:00"
     },
     {
         "id": "01k99zrs3np611675ebnac49vn",
@@ -8122,8 +8144,13 @@
         "author": "vonheikemen.github.io",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
+            "lua": {
+                "name": "Lua",
+                "type": "manual",
+                "created": 1766072875652
+            },
             "vim": {
                 "name": "vim",
                 "type": "manual",
@@ -8141,11 +8168,11 @@
         "html_content": null,
         "published_date": null,
         "created_at": "2025-11-05T12:27:21.126261+00:00",
-        "updated_at": "2025-11-13T15:44:08.194559+00:00",
+        "updated_at": "2025-12-18T15:47:59.830938+00:00",
         "saved_at": "2025-11-05T12:27:21.077000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-11-13T15:44:07.364000+00:00"
+        "last_moved_at": "2025-12-18T15:47:59.315000+00:00"
     },
     {
         "id": "01k99zhw7wppfaekcgs2511tz5",
@@ -8193,7 +8220,7 @@
         "author": "Michael Ebens",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "lua": {
                 "name": "Lua",
@@ -8212,38 +8239,11 @@
         "html_content": null,
         "published_date": "2012-08-26",
         "created_at": "2025-11-05T12:21:47.404577+00:00",
-        "updated_at": "2025-11-13T15:44:03.089150+00:00",
+        "updated_at": "2025-12-18T17:17:26.357388+00:00",
         "saved_at": "2025-11-05T12:21:47.027000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-11-13T15:44:02.212000+00:00"
-    },
-    {
-        "id": "01k99vkcrdaxy699v4brp18kkc",
-        "url": "https://read.readwise.io/read/01k99vkcrdaxy699v4brp18kkc",
-        "source_url": "https://simonwillison.net/2025/Nov/4/code-execution-with-mcp/#atom-everything",
-        "title": "Code execution with MCP: Building more efficient agents",
-        "author": "Simon Willison",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "simonwillison.net",
-        "word_count": 401,
-        "notes": "",
-        "summary": "Anthropic proposes turning MCP tools into code functions saved on disk so agents can call them without filling the model context. This lets agents generate executable code that wires tools together, avoiding token bloat, extra round-trips, and exposure of sensitive data. The plan is promising but Anthropic provided no implementation — readers must build it themselves.",
-        "image_url": null,
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-11-04",
-        "created_at": "2025-11-05T11:14:30.309739+00:00",
-        "updated_at": "2025-11-13T15:43:59.332124+00:00",
-        "saved_at": "2025-11-05T11:14:30.285000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-11-13T15:43:58.462000+00:00"
+        "last_moved_at": "2025-12-18T17:17:25.710000+00:00"
     },
     {
         "id": "01k96ycjvn7jf4104j4h802ghx",
@@ -8334,7 +8334,7 @@
         "author": "TopicPartition",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "kafka": {
                 "name": "Kafka",
@@ -8358,11 +8358,11 @@
         "html_content": null,
         "published_date": "2025-10-28",
         "created_at": "2025-11-04T07:40:29.213660+00:00",
-        "updated_at": "2025-11-13T15:43:43.900580+00:00",
+        "updated_at": "2025-12-18T12:49:47.137861+00:00",
         "saved_at": "2025-11-04T07:40:29.187000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-11-13T15:43:42.829000+00:00"
+        "last_moved_at": "2025-12-18T12:49:46.458000+00:00"
     },
     {
         "id": "01k96m5grkrdqjd01rpz02xe4n",
@@ -8512,33 +8512,6 @@
                 "last_moved_at": "2025-11-26T10:27:49.832000+00:00"
             }
         ]
-    },
-    {
-        "id": "01k96kq8eer18874mnmyjmhxn6",
-        "url": "https://read.readwise.io/read/01k96kq8eer18874mnmyjmhxn6",
-        "source_url": "https://lucumr.pocoo.org/2025/11/3/absurd-workflows/",
-        "title": "Absurd Workflows: Durable Execution With Just Postgres",
-        "author": "Armin Ronacher",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "pocoo.org",
-        "word_count": 1030,
-        "notes": "",
-        "summary": "Armin Ronacher built Absurd, a tiny SQL-only library that implements durable workflows using just Postgres. It stores task state as checkpoints and uses Postgres queues so tasks survive crashes, suspends, and retries. The point: durable execution is simple and doesn’t need extra services or complex systems.",
-        "image_url": "https://lucumr.pocoo.org/social/2025-11-03-absurd-workflows-social.png",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-11-03",
-        "created_at": "2025-11-04T04:59:05.060860+00:00",
-        "updated_at": "2025-11-13T15:43:14.763302+00:00",
-        "saved_at": "2025-11-04T04:59:05.038000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-11-13T15:43:13.961000+00:00"
     },
     {
         "id": "01k96kpf66z9weqamh5tdt006g",
@@ -8694,44 +8667,6 @@
         "first_opened_at": "2025-11-04T11:35:52.734000+00:00",
         "last_opened_at": "2025-11-09T13:43:32.364000+00:00",
         "last_moved_at": "2025-11-09T13:52:59.660000+00:00"
-    },
-    {
-        "id": "01k91trb4gjrjr18trcxzy27cr",
-        "url": "https://read.readwise.io/read/01k91trb4gjrjr18trcxzy27cr",
-        "source_url": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
-        "title": "How I Use Every Claude Code Feature",
-        "author": "Shrivu Shankar",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {
-            "llm": {
-                "name": "LLM",
-                "type": "manual",
-                "created": 1762071957707
-            },
-            "claude": {
-                "name": "Claude",
-                "type": "manual",
-                "created": 1762071957707
-            }
-        },
-        "site_name": "sshh.io",
-        "word_count": 3126,
-        "notes": "",
-        "summary": "The author describes how they use Claude Code across docs, CLI tools, subagents, SDKs, and GitHub Actions. They emphasize a short, focused CLAUDE.md, prefer scripting/Task-based workflows over rigid subagents, and use the SDK for batch or prototype agents. GitHub Actions and careful permissions/timeouts help automate PRs and scale usage.",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!o_oM!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ee93292-646a-407a-95da-d469be81002e_1158x720.png",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-11-02",
-        "created_at": "2025-11-02T08:25:48.456375+00:00",
-        "updated_at": "2025-11-13T15:42:56.156939+00:00",
-        "saved_at": "2025-11-02T08:25:48.432000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-11-13T15:42:55.111000+00:00"
     },
     {
         "id": "01k90qtptnj84qezdwxsw31zzv",
@@ -9101,33 +9036,6 @@
         "first_opened_at": "2025-11-13T15:42:45.787000+00:00",
         "last_opened_at": "2025-11-13T15:42:45.787000+00:00",
         "last_moved_at": "2025-10-30T22:26:46.057000+00:00"
-    },
-    {
-        "id": "01k8swjcpgwnh3v3j47bhv4w6t",
-        "url": "https://read.readwise.io/read/01k8swjcpgwnh3v3j47bhv4w6t",
-        "source_url": "https://www.baldurbjarnason.com/2025/use-the-tools-of-the-job-youve-chosen/",
-        "title": "You need to use the tools of the job you've chosen to do",
-        "author": "baldurbjarnason.com",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "baldurbjarnason.com",
-        "word_count": 2917,
-        "notes": "",
-        "summary": "Journalistic tools like impartial sourcing and a neutral style are practical self-defence, not virtue signals. If you cover powerful people but skip those practices or have conflicts of interest, your work becomes easy to dismiss. To do honest, lasting scrutiny you must use real journalistic methods and avoid serving the subjects you should be checking.",
-        "image_url": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.baldurbjarnason.com%2F2025%2Fuse-the-tools-of-the-job-youve-chosen%2F/opengraph/",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-10-29",
-        "created_at": "2025-10-30T06:23:35.148074+00:00",
-        "updated_at": "2025-11-13T15:42:22.843695+00:00",
-        "saved_at": "2025-10-30T06:23:35.118000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-11-13T15:42:22.082000+00:00"
     },
     {
         "id": "01k8rxkgyg1me3wvwzmse67fa8",
@@ -9918,11 +9826,27 @@
         "author": "Addy Osmani",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "cv": {
+                "name": "CV",
+                "type": "manual",
+                "created": 1766046434665
+            },
+            "career": {
+                "name": "Career",
+                "type": "manual",
+                "created": 1766046203107
+            },
+            "soft skills": {
+                "name": "Soft Skills",
+                "type": "manual",
+                "created": 1766046208133
+            }
+        },
         "site_name": "addyosmani.com",
         "word_count": 9273,
-        "notes": "",
+        "notes": "Основные тезисы тут: https://chatgpt.com/c/6943b950-9dd8-8332-ad41-be1b07e5daea",
         "summary": "Taking initiative (agency) matters more than raw intelligence for long-term success. High-agency people act, learn from feedback, and turn ideas into results. Hire and teach agency because it’s rare, valuable, and can be developed.",
         "image_url": "https://addyosmani.com/assets/images/high-agency.jpg",
         "parent_id": null,
@@ -9931,11 +9855,11 @@
         "html_content": null,
         "published_date": "2025-10-28",
         "created_at": "2025-10-29T20:10:40.144636+00:00",
-        "updated_at": "2025-11-13T15:38:21.537945+00:00",
+        "updated_at": "2025-12-18T10:39:17.127215+00:00",
         "saved_at": "2025-10-29T20:10:40.091000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-11-13T15:38:20.750000+00:00"
+        "first_opened_at": "2025-12-18T08:19:56.252000+00:00",
+        "last_opened_at": "2025-12-18T08:19:56.317000+00:00",
+        "last_moved_at": "2025-12-18T10:39:16.192000+00:00"
     },
     {
         "id": "01k8rs2e1m1jkdjrx39vhyfd6x",
@@ -12227,66 +12151,6 @@
         ]
     },
     {
-        "id": "01k8046v2h4nmxfg0vwcs29tj6",
-        "url": "https://read.readwise.io/read/01k8046v2h4nmxfg0vwcs29tj6",
-        "source_url": "https://www.bitecode.dev/p/diskcache-more-than-caching",
-        "title": "Diskcache, more than caching",
-        "author": "Bite Code!",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "bitecode.dev",
-        "word_count": 1310,
-        "notes": "",
-        "summary": "Diskcache is a lightweight Python key/value store built on SQLite that acts like a local subset of Redis. It provides fast caching plus transactions, tagging, queues, locks, sharding, and tools to avoid race conditions. You can use it across processes for caching, simple queues, and coordinated concurrency.",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!Uwr9!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb9b5cb2-21d8-47ce-8f4f-0baeb8081c81_1536x1024.png",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-10-19",
-        "created_at": "2025-10-20T06:16:50.021193+00:00",
-        "updated_at": "2025-10-20T06:48:01.107672+00:00",
-        "saved_at": "2025-10-20T06:16:50.001000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-10-20T06:48:00.808000+00:00"
-    },
-    {
-        "id": "01k80455evjv1bhsmy8kpban8d",
-        "url": "https://read.readwise.io/read/01k80455evjv1bhsmy8kpban8d",
-        "source_url": "https://daniel.feldroy.com/posts/2025-10-using-asyncpg-with-fastapi-and-air",
-        "title": "Using Asyncpg with FastAPI and Air",
-        "author": "https://daniel.feldroy.com",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {
-            "fastapi": {
-                "name": "FastAPI",
-                "type": "manual",
-                "created": 1764153254614
-            }
-        },
-        "site_name": "Daniel Roy Greenfeld",
-        "word_count": 709,
-        "notes": "",
-        "summary": "The article shows how to use asyncpg directly with FastAPI and Air to talk to PostgreSQL without an ORM. It uses an ASGI lifespan function to create and close a connection pool on startup and shutdown. Examples show querying and inserting data, with Pydantic used to validate incoming input.",
-        "image_url": "https://daniel.feldroy.comhttps/f004.backblazeb2.com/file/daniel-feldroy-com/public/images/profile.jpg",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-10-19",
-        "created_at": "2025-10-20T06:15:55.121306+00:00",
-        "updated_at": "2025-11-26T10:34:15.470171+00:00",
-        "saved_at": "2025-10-20T06:15:55.099000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-10-20T06:47:59.215000+00:00"
-    },
-    {
         "id": "01k7z3amqe376ky08bkmjbnp3v",
         "url": "https://read.readwise.io/read/01k7z3amqe376ky08bkmjbnp3v",
         "source_url": "https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email",
@@ -12304,7 +12168,7 @@
         },
         "site_name": "Superhuman Blog",
         "word_count": 2747,
-        "notes": "",
+        "notes": "https://chatgpt.com/c/69442ca9-df50-8325-a6a9-ab2121ec93ae",
         "summary": "A command palette is a user interface tool that allows quick access to various commands, making it easier for users to discover features. To build an effective command palette, ensure it is available everywhere, centralizes all commands, and offers flexibility in command matching. By following these principles, you can create a powerful and user-friendly command palette that enhances productivity.",
         "image_url": "https://blog.superhuman.com/content/images/2021/10/Cmd_Header.jpg",
         "parent_id": null,
@@ -12313,38 +12177,11 @@
         "html_content": null,
         "published_date": "2021-10-12",
         "created_at": "2025-10-19T20:42:11.604403+00:00",
-        "updated_at": "2025-10-20T06:47:57.226299+00:00",
+        "updated_at": "2025-12-18T16:34:31.177001+00:00",
         "saved_at": "2025-10-19T20:42:11.566000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
+        "first_opened_at": "2025-12-18T16:32:30.251000+00:00",
+        "last_opened_at": "2025-12-18T16:32:30.346000+00:00",
         "last_moved_at": "2025-10-20T06:47:56.848000+00:00"
-    },
-    {
-        "id": "01k7z2cngngv0gh8wb0bhsgdm0",
-        "url": "https://read.readwise.io/read/01k7z2cngngv0gh8wb0bhsgdm0",
-        "source_url": "https://allvpv.org/haotic-journey-through-envvars/?utm_source=tldrwebdev",
-        "title": "Environment variables are a legacy mess: Let's dive deep into them",
-        "author": "allvpv <Przemysław Kusiak>",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "allvpv’s space",
-        "word_count": 1567,
-        "notes": "",
-        "summary": "Environment variables are an old, flat way to pass string settings from parent to child processes. Different tools and libraries store and handle them in inconsistent, sometimes surprising ways. Best practice: use simple uppercase names like MY_VAR and UTF-8 values to avoid problems.",
-        "image_url": "https://allvpv.org/haotic-journey-through-envvars/pattern-rendered.png",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-10-13",
-        "created_at": "2025-10-19T20:25:49.385649+00:00",
-        "updated_at": "2025-10-20T06:47:55.157724+00:00",
-        "saved_at": "2025-10-19T20:25:49.334000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-10-20T06:47:54.683000+00:00"
     },
     {
         "id": "01k7xwacn2y3xfq7sxb8cfzj3k",
@@ -12407,33 +12244,6 @@
                 "last_moved_at": "2025-10-20T10:33:59.427000+00:00"
             }
         ]
-    },
-    {
-        "id": "01k7vmzvz91d5wqqhzrx05dvwf",
-        "url": "https://read.readwise.io/read/01k7vmzvz91d5wqqhzrx05dvwf",
-        "source_url": "https://simonwillison.net/2025/Oct/18/agi-is-still-a-decade-away/#atom-everything",
-        "title": "Andrej Karpathy — AGI is still a decade away",
-        "author": "Simon Willison",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "simonwillison.net",
-        "word_count": 615,
-        "notes": "",
-        "summary": "Andrej Karpathy believes true AI agents that can learn and work like humans are still about ten years away. Current AI models can handle simple, common tasks but struggle with complex, unique problems. He compares AI to digital spirits, different from natural brains, and says we should try to make them more like animals over time.",
-        "image_url": null,
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-10-18",
-        "created_at": "2025-10-18T12:33:55.199449+00:00",
-        "updated_at": "2025-10-20T06:47:49.805393+00:00",
-        "saved_at": "2025-10-18T12:33:55.177000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-10-20T06:47:49.407000+00:00"
     },
     {
         "id": "01k7venb90ew7zr210m9zcd97j",
@@ -12535,7 +12345,7 @@
         "author": "Dayvi Schuster",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {},
         "site_name": "dayvster.com",
         "word_count": 1832,
@@ -12543,16 +12353,16 @@
         "summary": "Software used to be something you owned, not rented. Subscriptions and nonstop updates have shifted control from users to companies. We need options that protect ownership, privacy, and user choice.",
         "image_url": "https://dayvster.com/default-cover.webp",
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2025-10-16",
         "created_at": "2025-10-16T18:27:17.822856+00:00",
-        "updated_at": "2025-10-20T06:47:40.197338+00:00",
+        "updated_at": "2025-12-18T11:22:44.793739+00:00",
         "saved_at": "2025-10-16T18:27:17.807000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-10-20T06:47:39.817000+00:00"
+        "first_opened_at": "2025-12-18T10:40:51.443000+00:00",
+        "last_opened_at": "2025-12-18T10:40:51.541000+00:00",
+        "last_moved_at": "2025-12-18T11:22:44.105000+00:00"
     },
     {
         "id": "01k7q4cr00mgs3a953fgtm42f8",
@@ -13078,33 +12888,6 @@
         "last_moved_at": "2025-10-20T06:57:44.850000+00:00"
     },
     {
-        "id": "01k7m3r792qz121hzs56zdrq9p",
-        "url": "https://read.readwise.io/read/01k7m3r792qz121hzs56zdrq9p",
-        "source_url": "https://leancrew.com/all-this/2025/10/markdown-link-scripts-for-bbedit/",
-        "title": "Markdown link scripts for BBEdit",
-        "author": "leancrew.com",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "leancrew.com",
-        "word_count": 4163,
-        "notes": "",
-        "summary": "The author describes BBEdit AppleScripts that create Markdown reference-style links from URLs. Some scripts add new numbered references, others list or reuse existing references. One script also builds reference lists from all open Safari tabs.",
-        "image_url": "https://leancrew.com/all-this/images2025/20251014-Safari%20Choose%20Link%20window.png",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-10-14",
-        "created_at": "2025-10-15T14:17:57.810596+00:00",
-        "updated_at": "2025-10-20T06:47:24.792620+00:00",
-        "saved_at": "2025-10-15T14:17:57.794000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-10-20T06:47:24.342000+00:00"
-    },
-    {
         "id": "01k7m3n6cm2x840nzen5pj0n4g",
         "url": "https://read.readwise.io/read/01k7m3n6cm2x840nzen5pj0n4g",
         "source_url": "https://steipete.me/posts/just-talk-to-it",
@@ -13112,7 +12895,7 @@
         "author": "Peter Steinberger",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "llm": {
                 "name": "LLM",
@@ -13131,11 +12914,11 @@
         "html_content": null,
         "published_date": "2025-10-14",
         "created_at": "2025-10-15T14:16:18.624889+00:00",
-        "updated_at": "2025-10-20T06:47:19.223563+00:00",
+        "updated_at": "2025-12-18T15:47:47.755736+00:00",
         "saved_at": "2025-10-15T14:16:18.577000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-10-20T06:47:18.927000+00:00"
+        "first_opened_at": "2025-12-18T15:43:42.398000+00:00",
+        "last_opened_at": "2025-12-18T15:43:42.488000+00:00",
+        "last_moved_at": "2025-12-18T15:47:47.154000+00:00"
     },
     {
         "id": "01k7kh617tm0v6anwvfbjxzym3",
@@ -13145,24 +12928,30 @@
         "author": "Хабр",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "later",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "docs": {
+                "name": "Docs",
+                "type": "manual",
+                "created": 1766057220169
+            }
+        },
         "site_name": "Хабр",
         "word_count": 6187,
         "notes": "",
         "summary": "The text discusses developing technical documentation with versioning and choosing popular tools for documentation creation. It emphasizes setting up repositories, automated builds, and supporting multiple product versions. The process involves adapting tools to company needs, utilizing version control systems, and considering different documentation versions.",
         "image_url": "https://habrastorage.org/getpro/habr/upload_files/c2b/773/143/c2b773143fdd136045fe8827eef23863.jpg",
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 0.0030651604221730005,
         "content": null,
         "html_content": null,
         "published_date": "2023-08-17",
         "created_at": "2025-10-15T08:53:27.843574+00:00",
-        "updated_at": "2025-10-20T06:47:15.943989+00:00",
+        "updated_at": "2025-12-18T11:27:13.035633+00:00",
         "saved_at": "2025-10-15T08:53:27.418000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-10-20T06:47:15.518000+00:00"
+        "first_opened_at": "2025-12-18T11:23:01.663000+00:00",
+        "last_opened_at": "2025-12-18T11:23:01.736000+00:00",
+        "last_moved_at": "2025-12-18T11:27:12.120000+00:00"
     },
     {
         "id": "01k7heqha8d7603ca7sqe4yvkb",
@@ -13769,7 +13558,7 @@
         "author": "Ryan Fleury",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "joyandcuriosity": {
                 "name": "JoyAndCuriosity",
@@ -13788,11 +13577,11 @@
         "html_content": null,
         "published_date": "2025-10-10",
         "created_at": "2025-10-12T21:22:20.177945+00:00",
-        "updated_at": "2025-10-13T05:02:50.554250+00:00",
+        "updated_at": "2025-12-18T11:57:35.175792+00:00",
         "saved_at": "2025-10-12T21:22:20.098000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-10-13T05:02:50.158000+00:00"
+        "first_opened_at": "2025-12-18T11:53:52.107000+00:00",
+        "last_opened_at": "2025-12-18T11:53:52.197000+00:00",
+        "last_moved_at": "2025-12-18T11:57:34.532000+00:00"
     },
     {
         "id": "01k7c1ym9jbcg7xqtys6zgk50n",
@@ -14349,39 +14138,6 @@
         "first_opened_at": "2025-10-10T05:10:57.251000+00:00",
         "last_opened_at": "2025-10-10T05:10:57.251000+00:00",
         "last_moved_at": "2025-10-10T05:10:57.251000+00:00"
-    },
-    {
-        "id": "01k768dv94ra67tnt5m2e3bphm",
-        "url": "https://read.readwise.io/read/01k768dv94ra67tnt5m2e3bphm",
-        "source_url": "https://thecascade.dev/article/least-amount-of-css/?utm_source=tldrwebdev",
-        "title": "The least amount of CSS for a decent looking site",
-        "author": "Kevin Powell",
-        "source": "Readwise web highlighter",
-        "category": "article",
-        "location": "later",
-        "tags": {
-            "css": {
-                "name": "CSS",
-                "type": "manual",
-                "created": 1760073023712
-            }
-        },
-        "site_name": "thecascade.dev",
-        "word_count": 626,
-        "notes": "",
-        "summary": "The article shows a tiny set of CSS rules that make a page look good without over-engineering. It fixes media overflow, improves typography, adds dark-mode support, and limits line length for readability. Use this minimal base as a simple starter to build from.",
-        "image_url": "https://thecascade.dev/social.jpg",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2023-07-11",
-        "created_at": "2025-10-10T05:10:19.379122+00:00",
-        "updated_at": "2025-11-02T14:24:34.121008+00:00",
-        "saved_at": "2025-10-10T05:10:18.660000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-10-10T05:18:02.206000+00:00"
     },
     {
         "id": "01k768bw8k18hnrdbdqwe1vq4c",
@@ -15857,10 +15613,21 @@
         "source": "Reader Share Sheet iOS",
         "category": "article",
         "location": "later",
-        "tags": {},
+        "tags": {
+            "interview": {
+                "name": "Interview",
+                "type": "manual",
+                "created": 1766076398387
+            },
+            "softwaredesign": {
+                "name": "SoftwareDesign",
+                "type": "manual",
+                "created": 1766076371821
+            }
+        },
         "site_name": "swequiz.com",
         "word_count": 2261,
-        "notes": "",
+        "notes": "https://chatgpt.com/c/69442f76-7f0c-8329-92ef-7720593132a9",
         "summary": "Distributed systems are crucial for modern applications, and developers should understand five core concepts to build and troubleshoot them effectively. Key principles include the CAP Theorem, fault tolerance, and strategies for reducing latency. By grasping these concepts, developers can create resilient and scalable applications.",
         "image_url": null,
         "parent_id": null,
@@ -15869,10 +15636,10 @@
         "html_content": null,
         "published_date": null,
         "created_at": "2025-10-05T20:23:45.292002+00:00",
-        "updated_at": "2025-10-06T11:49:27.132963+00:00",
+        "updated_at": "2025-12-18T16:47:02.445887+00:00",
         "saved_at": "2025-10-05T20:23:45.268000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
+        "first_opened_at": "2025-12-18T16:44:27.612000+00:00",
+        "last_opened_at": "2025-12-18T16:44:27.697000+00:00",
         "last_moved_at": "2025-10-06T11:49:26.742000+00:00"
     },
     {
@@ -16887,7 +16654,7 @@
         "tags": {},
         "site_name": "kunststube.net",
         "word_count": 6587,
-        "notes": "",
+        "notes": "https://chatgpt.com/c/6943f891-8688-8333-9150-757fa91f79b9https://chatgpt.com/c/69440d92-d190-8325-96c1-f00f5ad6d742",
         "summary": "To work with text in computers, understanding encodings and character sets is essential. Unicode is a standard that unifies different encoding schemes, like UTF-8 and UTF-16, which represent characters using varying numbers of bits. It's important to specify the encoding used for text, as incorrect handling can lead to unreadable documents.",
         "image_url": "https://kunststube.net/encoding/img/kanji.png",
         "parent_id": null,
@@ -16896,7 +16663,7 @@
         "html_content": null,
         "published_date": "2015-04-27",
         "created_at": "2025-10-02T21:41:51.514600+00:00",
-        "updated_at": "2025-10-03T11:16:54.939452+00:00",
+        "updated_at": "2025-12-18T14:28:59.624729+00:00",
         "saved_at": "2025-10-02T21:41:51.487000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
@@ -18257,7 +18024,7 @@
         },
         "site_name": "brandons.me",
         "word_count": 1461,
-        "notes": "",
+        "notes": "https://chatgpt.com/c/69443518-c530-8325-a699-674ac7465bfa",
         "summary": "Tests help but they cost time because they are code to write, maintain, and run.  \nOnly write tests that add lasting value: prefer static analysis, check intent not implementation, and avoid fragile mocked checks.  \nSkip unit tests for UI rendering; test stable business logic, state, and reusable components instead.",
         "image_url": null,
         "parent_id": null,
@@ -18266,10 +18033,10 @@
         "html_content": null,
         "published_date": "2024-01-04",
         "created_at": "2025-09-28T10:38:25.462944+00:00",
-        "updated_at": "2025-09-29T12:04:12.653251+00:00",
+        "updated_at": "2025-12-18T17:11:11.753495+00:00",
         "saved_at": "2025-09-28T10:38:25.424000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
+        "first_opened_at": "2025-12-18T17:08:26.854000+00:00",
+        "last_opened_at": "2025-12-18T17:08:26.953000+00:00",
         "last_moved_at": "2025-09-29T12:04:12.183000+00:00"
     },
     {
@@ -18281,10 +18048,16 @@
         "source": "Reader Share Sheet iOS",
         "category": "article",
         "location": "later",
-        "tags": {},
+        "tags": {
+            "claude": {
+                "name": "Claude",
+                "type": "manual",
+                "created": 1766073927895
+            }
+        },
         "site_name": "pragmaticengineer.com",
         "word_count": 3739,
-        "notes": "",
+        "notes": "https://chatgpt.com/c/6944236b-7bd0-8332-8f12-6cd3f37f1573",
         "summary": "Claude Code is an AI-first developer tool from Anthropic that most engineers use.  \nIt’s a lightweight command-line shell around the Claude model, built with TypeScript and React.  \nThe team prototypes rapidly and the model writes roughly 90% of the code, enabling fast feature iterations.",
         "image_url": "https://substackcdn.com/image/fetch/$s_!fE9D!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a5466bf-c111-44ab-9184-01555a44d5f8_420x300.png",
         "parent_id": null,
@@ -18293,10 +18066,10 @@
         "html_content": null,
         "published_date": "2025-09-23",
         "created_at": "2025-09-28T10:25:15.701725+00:00",
-        "updated_at": "2025-09-29T12:04:09.936293+00:00",
+        "updated_at": "2025-12-18T16:05:32.958838+00:00",
         "saved_at": "2025-09-28T10:25:15.550000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
+        "first_opened_at": "2025-12-18T15:53:06.753000+00:00",
+        "last_opened_at": "2025-12-18T15:53:06.839000+00:00",
         "last_moved_at": "2025-09-29T12:04:09.551000+00:00"
     },
     {
@@ -18331,33 +18104,6 @@
         "first_opened_at": "2025-09-29T12:31:49.166000+00:00",
         "last_opened_at": "2025-09-29T12:31:49.293000+00:00",
         "last_moved_at": "2025-09-29T12:39:40.572000+00:00"
-    },
-    {
-        "id": "01k67x45tc6rd01kb59qajavvh",
-        "url": "https://read.readwise.io/read/01k67x45tc6rd01kb59qajavvh",
-        "source_url": "https://weberdominik.com/blog/rules-user-interfaces/?utm_source=tldrwebdev",
-        "title": "Rules for creating good-looking user interfaces, from a developer",
-        "author": "weberdominik.com",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "weberdominik.com",
-        "word_count": 2484,
-        "notes": "",
-        "summary": "Use a good component library and keep its components unchanged.  \nFavor global consistency over local tweaks to save time and improve the product.  \nSimplify the UI: limit fonts and colors, match icon weight to text, and show only what users need.",
-        "image_url": "https://weberdominik.com/social.png",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-09-16",
-        "created_at": "2025-09-28T10:15:34.506788+00:00",
-        "updated_at": "2025-09-29T12:04:05.092544+00:00",
-        "saved_at": "2025-09-28T10:15:34.477000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-29T12:04:04.553000+00:00"
     },
     {
         "id": "01k67wsv2ak213wmq2sfwj8fqb",
@@ -20127,33 +19873,6 @@
         ]
     },
     {
-        "id": "01k619b0z5rgatsqkfgj8x45kv",
-        "url": "https://read.readwise.io/read/01k619b0z5rgatsqkfgj8x45kv",
-        "source_url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
-        "title": "Writing effective tools for agents — with agents",
-        "author": "anthropic.com",
-        "source": "Reader add from clipboard",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "anthropic.com",
-        "word_count": 3022,
-        "notes": "",
-        "summary": "Build and evaluate tools together with agents using prototypes and automated tests.  \nUse iterative agent feedback (e.g., Claude Code) to refine implementations and tool descriptions.  \nPrefer clear, narrowly scoped tools that return useful, token‑efficient context and fit real workflows.",
-        "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/91df4759f1037fb6073de772278cb71e6e4ee37d-2400x1260.png",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": null,
-        "created_at": "2025-09-25T20:34:21.085032+00:00",
-        "updated_at": "2025-11-04T13:36:28.444120+00:00",
-        "saved_at": "2025-09-25T20:34:20.773000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-26T06:25:28.564000+00:00"
-    },
-    {
         "id": "01k5zn4r91dwwf1bwd8g13tsfq",
         "url": "https://read.readwise.io/read/01k5zn4r91dwwf1bwd8g13tsfq",
         "source_url": "https://ronjeffries.com/articles/-w025/y/l/",
@@ -20362,39 +20081,6 @@
                 "last_moved_at": "2025-09-24T08:01:31.117000+00:00"
             }
         ]
-    },
-    {
-        "id": "01k5x3mar6z6z3asc1gr9y3qay",
-        "url": "https://read.readwise.io/read/01k5x3mar6z6z3asc1gr9y3qay",
-        "source_url": "https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html",
-        "title": "To vibe or not to vibe",
-        "author": "Birgitta Böckeler",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {
-            "llm": {
-                "name": "LLM",
-                "type": "manual",
-                "created": 1758692261537
-            }
-        },
-        "site_name": "martinfowler.com",
-        "word_count": 1236,
-        "notes": "",
-        "summary": "Trusting AI to write code isn't a yes-or-no choice; it depends on risk.  \nAssess three things: how likely AI is wrong, how bad the impact would be, and how easily you will detect mistakes.  \nUse that judgment to choose how much to review and what safeguards to add.",
-        "image_url": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-09-23",
-        "created_at": "2025-09-24T05:37:36.536699+00:00",
-        "updated_at": "2025-09-24T05:44:42.346452+00:00",
-        "saved_at": "2025-09-24T05:37:36.518000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-24T05:44:42.164000+00:00"
     },
     {
         "id": "01k5x3kdgezd3xc95cm2n1txyg",
@@ -21036,10 +20722,16 @@
         "source": "Reader add from import URL",
         "category": "article",
         "location": "later",
-        "tags": {},
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1766070210680
+            }
+        },
         "site_name": "martinfowler.com",
         "word_count": 5715,
-        "notes": "",
+        "notes": "https://chatgpt.com/c/6944167a-ba0c-8333-a192-12b9eb877fed",
         "summary": "The article discusses various patterns for building Generative AI (GenAI) products, including direct prompting, embeddings, and retrieval-augmented generation (RAG). It emphasizes the importance of evaluating LLM responses and using relevant document fragments to enhance the accuracy of the generated content. By combining different approaches, such as query rewriting and reranking, developers can improve the performance and relevance of LLM-based systems.",
         "image_url": "https://martinfowler.com/articles/gen-ai-patterns/card.png",
         "parent_id": null,
@@ -21048,7 +20740,7 @@
         "html_content": null,
         "published_date": "2025-02-13",
         "created_at": "2025-09-22T05:03:47.557023+00:00",
-        "updated_at": "2025-09-22T07:40:05.271276+00:00",
+        "updated_at": "2025-12-18T15:03:31.420982+00:00",
         "saved_at": "2025-09-22T05:03:47.223000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
@@ -22098,7 +21790,7 @@
         "author": "alexwlchan.net",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {},
         "site_name": "alexwlchan.net",
         "word_count": 223,
@@ -22111,38 +21803,11 @@
         "html_content": null,
         "published_date": "2025-09-15",
         "created_at": "2025-09-15T11:59:56.286535+00:00",
-        "updated_at": "2025-09-29T13:39:05.307838+00:00",
+        "updated_at": "2025-12-18T11:28:16.101465+00:00",
         "saved_at": "2025-09-15T11:59:56.261000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-16T05:29:57.368000+00:00"
-    },
-    {
-        "id": "01k56gvet4p8s7x186e62crdd3",
-        "url": "https://read.readwise.io/read/01k56gvet4p8s7x186e62crdd3",
-        "source_url": "https://blog.phakorn.com/posts/2025/building-a-simple-vm/",
-        "title": "Building a Simple Virtual Machine",
-        "author": "Phakorn Kiong",
-        "source": "Reader add from import URL",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "PK's Note",
-        "word_count": 2249,
-        "notes": "",
-        "summary": "The VM is byte-addressable and uses a 64-bit stack to hold data.  \nOpcodes like PUSH1/PUSH8, STORE1/STORE8, LOAD8, ADD, and RETURN manipulate the stack and memory and are compiled into bytecode.  \nThe program counter walks the bytecode, stores data (e.g., \"Hello Wo\") into memory, and RETURN reads a memory block by offset and size.",
-        "image_url": "https://blog.phakorn.com/posts/2025/building-a-simple-vm/index.png",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-09-09",
-        "created_at": "2025-09-15T11:06:09.966526+00:00",
-        "updated_at": "2025-09-16T05:29:54.624519+00:00",
-        "saved_at": "2025-09-15T11:06:09.604000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-16T05:29:54.488000+00:00"
+        "last_moved_at": "2025-12-18T11:28:15.540000+00:00"
     },
     {
         "id": "01k567zqbygq30cshvgmq52bvw",
@@ -22356,7 +22021,13 @@
         "source": "Reader Share Sheet iOS",
         "category": "article",
         "location": "later",
-        "tags": {},
+        "tags": {
+            "testing": {
+                "name": "Testing",
+                "type": "manual",
+                "created": 1766077397831
+            }
+        },
         "site_name": "Redowan's Reflections",
         "word_count": 1542,
         "notes": "",
@@ -22368,71 +22039,11 @@
         "html_content": null,
         "published_date": "2025-09-14",
         "created_at": "2025-09-14T09:41:43.115654+00:00",
-        "updated_at": "2025-09-16T05:29:48.756288+00:00",
+        "updated_at": "2025-12-18T17:03:18.356108+00:00",
         "saved_at": "2025-09-14T09:41:43.096000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
+        "first_opened_at": "2025-12-18T17:00:19.144000+00:00",
+        "last_opened_at": "2025-12-18T17:00:19.245000+00:00",
         "last_moved_at": "2025-09-16T05:29:48.377000+00:00"
-    },
-    {
-        "id": "01k53se4tqxqk2nfcw200cswrm",
-        "url": "https://read.readwise.io/read/01k53se4tqxqk2nfcw200cswrm",
-        "source_url": "https://mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij-idea",
-        "title": "Why I Switched Back From VS Code to IntelliJ IDEA: A Developer's Journey",
-        "author": "Michael Hoffmann",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "Michael Hoffmann - Senior Frontend Developer (Freelancer)",
-        "word_count": 1310,
-        "notes": "",
-        "summary": "I switched back to IntelliJ because its built-in tools made daily work smoother.  \nIntelliJ’s Git, indexing, debugging, and database features save time and keep context.  \nVS Code is great for quick edits, but for full‑stack or large projects IntelliJ boosts long‑term productivity.",
-        "image_url": "https://mokkapps.twic.pics/mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij/og.png",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2023-02-01",
-        "created_at": "2025-09-14T09:38:27.308611+00:00",
-        "updated_at": "2025-09-16T05:29:45.703401+00:00",
-        "saved_at": "2025-09-14T09:38:27.286000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-16T05:29:45.491000+00:00"
-    },
-    {
-        "id": "01k51c0q7ks4dj2zf1aedgbcf3",
-        "url": "https://read.readwise.io/read/01k51c0q7ks4dj2zf1aedgbcf3",
-        "source_url": "https://wsvincent.com/i-miss-tabs-vs-spaces/",
-        "title": "I Miss Tabs vs Spaces... And Other AI Musings",
-        "author": "William Vincent",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {
-            "llm": {
-                "name": "LLM",
-                "type": "manual",
-                "created": 1757761530626
-            }
-        },
-        "site_name": "wsvincent.com",
-        "word_count": 1304,
-        "notes": "",
-        "summary": "Tabs versus spaces feels tiny next to the questions about AI. Developers use local models and agents to work faster, but they can hallucinate and need careful prompts. AI will change work and the economy, but it won’t replace human understanding and is often overhyped.",
-        "image_url": "https://wsvincent.com/assets/images/headshot_smile_smaller.jpg",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-09-30",
-        "created_at": "2025-09-13T11:05:27.044376+00:00",
-        "updated_at": "2025-09-16T05:29:43.239410+00:00",
-        "saved_at": "2025-09-13T11:05:27.027000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-16T05:29:43.027000+00:00"
     },
     {
         "id": "01k51btdwmcx0d30rg6114rsnn",
@@ -22442,7 +22053,7 @@
         "author": "Korny Sietsma",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "llm": {
                 "name": "LLM",
@@ -22461,11 +22072,11 @@
         "html_content": null,
         "published_date": "2025-09-12",
         "created_at": "2025-09-13T11:02:00.872035+00:00",
-        "updated_at": "2025-09-16T05:29:41.281810+00:00",
+        "updated_at": "2025-12-18T16:32:19.102183+00:00",
         "saved_at": "2025-09-13T11:02:00.852000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-16T05:29:40.966000+00:00"
+        "last_moved_at": "2025-12-18T16:32:18.500000+00:00"
     },
     {
         "id": "01k5011n87ghhnkv23zhnznh26",
@@ -22528,33 +22139,6 @@
                 "last_moved_at": "2025-09-15T12:02:52.912000+00:00"
             }
         ]
-    },
-    {
-        "id": "01k500w58spddzdmekgkf4xpmw",
-        "url": "https://read.readwise.io/read/01k500w58spddzdmekgkf4xpmw",
-        "source_url": "https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too?utm_source=tldrwebdev",
-        "title": "Why I Ditched Docker for Podman (And You Should Too)",
-        "author": "Dominik Szymański",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "CodeSmash",
-        "word_count": 2031,
-        "notes": "",
-        "summary": "I switched from Docker to Podman. Docker's persistent dockerd daemon felt like a security and reliability risk. Podman is rootless, integrates well with systemd and pods, and is mostly drop-in compatible, so migration was easy.",
-        "image_url": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fstock%2Funsplash%2FqMVR2YhOVQI%2Fupload%2Fff5f28b79266f1737ba9b66092c75cde.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-09-04",
-        "created_at": "2025-09-12T22:31:28.843785+00:00",
-        "updated_at": "2025-09-16T05:29:35.299092+00:00",
-        "saved_at": "2025-09-12T22:31:28.793000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-16T05:29:35.065000+00:00"
     },
     {
         "id": "01k500q6jwy4trn588jhjh9h4a",
@@ -22658,7 +22242,7 @@
         "author": "allan.reyes.sh",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {},
         "site_name": "reyes.sh",
         "word_count": 6684,
@@ -22671,38 +22255,11 @@
         "html_content": null,
         "published_date": "2024-08-02",
         "created_at": "2025-09-12T22:27:11.858850+00:00",
-        "updated_at": "2025-09-16T05:29:32.647129+00:00",
+        "updated_at": "2025-12-18T12:43:39.284880+00:00",
         "saved_at": "2025-09-12T22:27:11.791000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-16T05:29:32.323000+00:00"
-    },
-    {
-        "id": "01k500hswfvqmz6jnqx3my6x3y",
-        "url": "https://read.readwise.io/read/01k500hswfvqmz6jnqx3my6x3y",
-        "source_url": "https://blog.frost.kiwi/ssh-over-https-tunneling/",
-        "title": "Tunneling SSH over HTTPS",
-        "author": "Wladislav Artsimovich",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "frost.kiwi",
-        "word_count": 7549,
-        "notes": "",
-        "summary": "Many networks block direct SSH but allow HTTPS.  \nUsing HTTP CONNECT with tools like corkscrew or proxytunnel lets you tunnel SSH through the proxy by relaying raw TCP.  \nWrapping the tunnel in TLS (HTTPS) hides SSH from packet inspection and helps bypass stricter blocks.",
-        "image_url": "https://blog.frost.kiwi/ssh-over-https-tunneling/w4PT9WSbPE-1200.jpeg",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-06-25",
-        "created_at": "2025-09-12T22:25:49.468715+00:00",
-        "updated_at": "2025-09-16T05:29:28.503521+00:00",
-        "saved_at": "2025-09-12T22:25:49.455000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-16T05:29:28.284000+00:00"
+        "last_moved_at": "2025-12-18T12:43:38.676000+00:00"
     },
     {
         "id": "01k500fwwsa73s14d5kc4xy0em",
@@ -22712,7 +22269,7 @@
         "author": "Wladislav Artsimovich",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {},
         "site_name": "frost.kiwi",
         "word_count": 5898,
@@ -22725,11 +22282,11 @@
         "html_content": null,
         "published_date": "2025-09-06",
         "created_at": "2025-09-12T22:24:47.037125+00:00",
-        "updated_at": "2025-09-16T05:29:25.606267+00:00",
+        "updated_at": "2025-12-18T14:57:43.219539+00:00",
         "saved_at": "2025-09-12T22:24:47.001000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-16T05:29:25.318000+00:00"
+        "last_moved_at": "2025-12-18T14:57:42.442000+00:00"
     },
     {
         "id": "01k4ytej9jjhps2tc2r2myth3p",
@@ -22852,33 +22409,6 @@
                 "last_moved_at": "2025-09-15T11:12:40.784000+00:00"
             }
         ]
-    },
-    {
-        "id": "01k4ytdd0vdvc8jfc288amcp2x",
-        "url": "https://read.readwise.io/read/01k4ytdd0vdvc8jfc288amcp2x",
-        "source_url": "https://www.oneusefulthing.org/p/on-working-with-wizards",
-        "title": "On Working with Wizards",
-        "author": "Ethan Mollick",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "oneusefulthing.org",
-        "word_count": 2149,
-        "notes": "",
-        "summary": "AI is moving from co-workers to wizards that produce impressive but opaque results.  \nThat makes it hard to check work and erodes our expertise.  \nWe need a new literacy to know when to summon the wizard, when to collaborate, and how to judge its output.",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!_7Xu!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd787c39-049e-40b0-8e6e-d0938a977c96_1376x864.png",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-09-11",
-        "created_at": "2025-09-12T11:19:19.381438+00:00",
-        "updated_at": "2025-09-16T05:29:18.279252+00:00",
-        "saved_at": "2025-09-12T11:19:19.323000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-16T05:29:18.159000+00:00"
     },
     {
         "id": "01k4ytcgzr0vpqwdafsjrx2x1r",
@@ -23252,7 +22782,7 @@
         "author": "go.dev",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "go": {
                 "name": "Go",
@@ -23262,7 +22792,7 @@
         },
         "site_name": "go.dev",
         "word_count": 3099,
-        "notes": "",
+        "notes": "https://chatgpt.com/c/694427de-3f60-832b-8307-e40da44c3903",
         "summary": "Go 1.25 introduces an experimental JSON API with encoding/json/v2 and encoding/json/jsontext to improve JSON handling in Go. These new packages offer better streaming, performance, and customization compared to the original encoding/json. The goal is to eventually replace the old API while keeping backward compatibility and involving the Go community.",
         "image_url": "https://go.dev/doc/gopher/gopher5logo.jpg",
         "parent_id": null,
@@ -23271,11 +22801,11 @@
         "html_content": null,
         "published_date": "2025-09-09",
         "created_at": "2025-09-10T11:39:01.856239+00:00",
-        "updated_at": "2025-09-10T11:44:52.142111+00:00",
+        "updated_at": "2025-12-18T16:16:25.869588+00:00",
         "saved_at": "2025-09-10T11:39:01.821000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-10T11:44:52.039000+00:00"
+        "first_opened_at": "2025-12-18T16:12:06.894000+00:00",
+        "last_opened_at": "2025-12-18T16:12:07.040000+00:00",
+        "last_moved_at": "2025-12-18T16:16:25.190000+00:00"
     },
     {
         "id": "01k4pmt1f8g2p3qac6aat01sde",
@@ -23351,7 +22881,13 @@
         "source": "Reader add from import URL",
         "category": "article",
         "location": "later",
-        "tags": {},
+        "tags": {
+            "testing": {
+                "name": "Testing",
+                "type": "manual",
+                "created": 1766072408012
+            }
+        },
         "site_name": "matklad.github.io",
         "word_count": 4435,
         "notes": "",
@@ -23363,10 +22899,10 @@
         "html_content": null,
         "published_date": "2021-05-30",
         "created_at": "2025-09-08T08:50:36.981441+00:00",
-        "updated_at": "2025-09-08T12:33:50.475163+00:00",
+        "updated_at": "2025-12-18T15:40:08.690039+00:00",
         "saved_at": "2025-09-08T08:50:36.743000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
+        "first_opened_at": "2025-12-18T15:35:29.124000+00:00",
+        "last_opened_at": "2025-12-18T15:35:29.209000+00:00",
         "last_moved_at": "2025-09-08T12:33:49.841000+00:00"
     },
     {
@@ -23826,11 +23362,22 @@
         "author": "Addy Osmani",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "later",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1766071728951
+            },
+            "llm-devimpact": {
+                "name": "LLM-DevImpact",
+                "type": "manual",
+                "created": 1766071742567
+            }
+        },
         "site_name": "substack.com",
         "word_count": 5554,
-        "notes": "",
+        "notes": "https://chatgpt.com/c/69441c4d-0fc4-8332-82b9-c30bc29848dc",
         "summary": "Vibe coding is free-flow prompting that lets AI write code with little planning.  \nIt can speed prototypes but often creates hidden security, reliability, and maintenance risks in production.  \nAI-assisted engineering uses structured specs, testing, and review so teams keep AI productivity without the risks.",
         "image_url": "https://substackcdn.com/image/fetch/$s_!xRK0!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e97a352-1986-4b3f-906c-3f3813f35b53_5246x5246.png",
         "parent_id": null,
@@ -23839,11 +23386,11 @@
         "html_content": null,
         "published_date": "2025-08-30",
         "created_at": "2025-09-05T07:25:59.456768+00:00",
-        "updated_at": "2025-09-07T20:43:30.082643+00:00",
+        "updated_at": "2025-12-18T15:29:16.137274+00:00",
         "saved_at": "2025-09-05T07:25:59.383000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-07T20:43:29.588000+00:00"
+        "first_opened_at": "2025-12-18T15:29:11.690000+00:00",
+        "last_opened_at": "2025-12-18T15:29:11.690000+00:00",
+        "last_moved_at": "2025-12-18T15:29:13.986000+00:00"
     },
     {
         "id": "01k4cb1faxh3wvqsj2h9jjcevb",
@@ -24371,33 +23918,6 @@
         "first_opened_at": null,
         "last_opened_at": null,
         "last_moved_at": "2025-09-03T05:43:56.864000+00:00"
-    },
-    {
-        "id": "01k45z5spygv6x72vvk5th0wrc",
-        "url": "https://read.readwise.io/read/01k45z5spygv6x72vvk5th0wrc",
-        "source_url": "https://lucumr.pocoo.org/2025/9/2/passkeys/",
-        "title": "Passkeys and Modern Authentication",
-        "author": "Armin Ronacher",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "pocoo.org",
-        "word_count": 1184,
-        "notes": "",
-        "summary": "Passkeys are replacing passwords and can improve security for most people.  \nBut attestation, non-exportable keys, and auto-enrollment can enable ecosystem lock-in.  \nThat risks losing account access, reducing user control, and hurting families and developers.",
-        "image_url": "https://lucumr.pocoo.org/social/2025-09-02-passkeys-social.png",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-09-02",
-        "created_at": "2025-09-02T19:41:32.271371+00:00",
-        "updated_at": "2025-09-03T05:43:54.765627+00:00",
-        "saved_at": "2025-09-02T19:41:32.254000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-03T05:43:54.537000+00:00"
     },
     {
         "id": "01k45z4zj8ec5sqgsd84d0cvjq",
@@ -25168,8 +24688,13 @@
         "author": "James Somers",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
+            "writing": {
+                "name": "Writing",
+                "type": "manual",
+                "created": 1766057946848
+            },
             "joyandcuriosity": {
                 "name": "JoyAndCuriosity",
                 "type": "manual",
@@ -25182,16 +24707,16 @@
         "summary": "McPhee gathers all his reporting up front: notes, transcripts, and excerpts. He then labels, sorts, and arranges those notes into a clear structure before he writes. With the structure set, he drafts quickly and then revises and fact-checks.",
         "image_url": null,
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 0.0017245278751554902,
         "content": null,
         "html_content": null,
         "published_date": "2025-08-16",
         "created_at": "2025-08-31T15:59:48.880885+00:00",
-        "updated_at": "2025-09-01T09:56:32.933476+00:00",
+        "updated_at": "2025-12-18T11:39:10.077706+00:00",
         "saved_at": "2025-08-31T15:59:48.751000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-01T09:56:32.506000+00:00"
+        "first_opened_at": "2025-12-18T11:32:17.135000+00:00",
+        "last_opened_at": "2025-12-18T11:32:17.241000+00:00",
+        "last_moved_at": "2025-12-18T11:39:09.359000+00:00"
     },
     {
         "id": "01k40dkgzvakb0zy0qksvn6rxf",
@@ -25201,7 +24726,7 @@
         "author": "James Somers",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "joyandcuriosity": {
                 "name": "JoyAndCuriosity",
@@ -25220,11 +24745,11 @@
         "html_content": null,
         "published_date": "2018-12-03",
         "created_at": "2025-08-31T15:58:15.667478+00:00",
-        "updated_at": "2025-09-01T09:56:30.805672+00:00",
+        "updated_at": "2025-12-18T11:29:15.887652+00:00",
         "saved_at": "2025-08-31T15:58:15.547000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-09-01T09:56:30.388000+00:00"
+        "last_moved_at": "2025-12-18T11:29:15.239000+00:00"
     },
     {
         "id": "01k3yexg740ezqkefw1c97f40z",
@@ -25352,72 +24877,6 @@
                 "last_moved_at": "2025-09-01T10:08:25.068000+00:00"
             }
         ]
-    },
-    {
-        "id": "01k3xz15rdn30bsvp3zfx4n68z",
-        "url": "https://read.readwise.io/read/01k3xz15rdn30bsvp3zfx4n68z",
-        "source_url": "https://lyra.horse/blog/2025/08/you-dont-need-js/",
-        "title": "You no longer need JavaScript",
-        "author": "lyra's epic blog",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {
-            "css": {
-                "name": "CSS",
-                "type": "manual",
-                "created": 1756573511118
-            }
-        },
-        "site_name": "lyra.horse",
-        "word_count": 1071,
-        "notes": "",
-        "summary": "Modern JavaScript frameworks add huge bloat and slow sites.  \nPlain HTML and new CSS features like nesting and color functions can do a lot of the same work.  \nThe author wants to show these alternatives so you can choose when JavaScript is truly needed.",
-        "image_url": null,
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-08-28",
-        "created_at": "2025-08-30T17:05:05.346283+00:00",
-        "updated_at": "2025-09-01T09:56:13.833609+00:00",
-        "saved_at": "2025-08-30T17:05:05.293000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-01T09:56:13.274000+00:00"
-    },
-    {
-        "id": "01k3xycxk01q7gf528qy5ft0wt",
-        "url": "https://read.readwise.io/read/01k3xycxk01q7gf528qy5ft0wt",
-        "source_url": "https://adamj.eu/tech/2025/08/29/git-count-files/",
-        "title": "Git: count files in a repository",
-        "author": "adamj.eu",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {
-            "git": {
-                "name": "git",
-                "type": "manual",
-                "created": 1756572848298
-            }
-        },
-        "site_name": "adamj.eu",
-        "word_count": 340,
-        "notes": "",
-        "summary": "Count committed files with Git so you ignore generated or downloaded files.  \nRun: git ls-files -z | tr -d -c '\\0' | wc -c — null bytes prevent errors from filenames with newlines.  \nUse git ls-files '<pattern>' | wc -l to count types or git ls-files ':!<pattern>' to exclude files.",
-        "image_url": "https://adamj.eu/tech/assets/2025-08-29-sacks.webp",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-08-29",
-        "created_at": "2025-08-30T16:54:01.595480+00:00",
-        "updated_at": "2025-09-01T09:56:06.201351+00:00",
-        "saved_at": "2025-08-30T16:54:01.568000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-09-01T09:56:05.773000+00:00"
     },
     {
         "id": "01k3t7cpfxt7v45d4630dc0hft",
@@ -25993,7 +25452,7 @@
         "tags": {},
         "site_name": "YouTube",
         "word_count": null,
-        "notes": "",
+        "notes": "https://chatgpt.com/c/69440890-ba90-832c-98ff-78a551d8c866",
         "summary": "Python began as Guido van Rossum's small project.  \nA supportive community and conferences helped it grow into a major tool for science and data.  \nThe hard move from Python 2 to 3 proved the community's strength and spread Python further.",
         "image_url": "https://i.ytimg.com/vi/GfH4QL4VqJ0/maxresdefault.jpg?v=68b09f4b",
         "parent_id": null,
@@ -26002,7 +25461,7 @@
         "html_content": null,
         "published_date": "2025-08-28",
         "created_at": "2025-08-28T19:50:29.263795+00:00",
-        "updated_at": "2025-08-29T07:38:24.556623+00:00",
+        "updated_at": "2025-12-18T14:17:32.933940+00:00",
         "saved_at": "2025-08-28T19:50:29.234000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
@@ -26170,39 +25629,6 @@
         ]
     },
     {
-        "id": "01k3pm1wvp1xp1659sdd0zgevg",
-        "url": "https://read.readwise.io/read/01k3pm1wvp1xp1659sdd0zgevg",
-        "source_url": "https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/?utm_source=tldrwebdev",
-        "title": "Wicked Python trickery - dynamically patch a Python function's source code at runtime",
-        "author": "Eric J. Ma",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {
-            "python": {
-                "name": "Python",
-                "type": "manual",
-                "created": 1756327121077
-            }
-        },
-        "site_name": "ericmjl.github.io",
-        "word_count": 2315,
-        "notes": "",
-        "summary": "This blog explains how to change a Python function's code while the program runs using compile and exec. The author built ToolBot, which can create and run new functions that use current variables. This method is powerful but has security risks and should be used carefully.",
-        "image_url": null,
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-08-24",
-        "created_at": "2025-08-27T20:38:33.641774+00:00",
-        "updated_at": "2025-08-28T11:40:35.914715+00:00",
-        "saved_at": "2025-08-27T20:38:33.590000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-08-28T11:40:35.926000+00:00"
-    },
-    {
         "id": "01k3p50x4rq0hphs8fz5t3kzgr",
         "url": "https://read.readwise.io/read/01k3p50x4rq0hphs8fz5t3kzgr",
         "source_url": "https://martinfowler.com/articles/build-own-coding-agent.html",
@@ -26234,10 +25660,10 @@
         "html_content": null,
         "published_date": "2025-08-18",
         "created_at": "2025-08-27T16:15:52.488966+00:00",
-        "updated_at": "2025-08-28T11:40:33.239907+00:00",
+        "updated_at": "2025-12-18T16:19:56.786267+00:00",
         "saved_at": "2025-08-27T16:15:52.473000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
+        "first_opened_at": "2025-12-18T16:19:55.517000+00:00",
+        "last_opened_at": "2025-12-18T16:19:55.628000+00:00",
         "last_moved_at": "2025-08-28T11:40:33.330000+00:00"
     },
     {
@@ -27410,7 +26836,13 @@
         "source": "Reader Share Sheet iOS",
         "category": "article",
         "location": "later",
-        "tags": {},
+        "tags": {
+            "vue": {
+                "name": "Vue",
+                "type": "manual",
+                "created": 1766078803186
+            }
+        },
         "site_name": "michaelnthiessen.com",
         "word_count": 1110,
         "notes": "",
@@ -27422,7 +26854,7 @@
         "html_content": null,
         "published_date": "2025-08-22",
         "created_at": "2025-08-24T11:03:21.885683+00:00",
-        "updated_at": "2025-08-26T07:00:26.353318+00:00",
+        "updated_at": "2025-12-18T17:26:43.886387+00:00",
         "saved_at": "2025-08-24T11:03:21.855000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
@@ -28397,7 +27829,13 @@
         "source": "Reader Share Sheet iOS",
         "category": "video",
         "location": "later",
-        "tags": {},
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1766072594228
+            }
+        },
         "site_name": "YouTube",
         "word_count": null,
         "notes": "",
@@ -28409,10 +27847,10 @@
         "html_content": null,
         "published_date": "2025-08-18",
         "created_at": "2025-08-23T19:22:09.215547+00:00",
-        "updated_at": "2025-08-26T06:59:13.175126+00:00",
+        "updated_at": "2025-12-18T15:43:14.977718+00:00",
         "saved_at": "2025-08-23T19:22:09.192000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
+        "first_opened_at": "2025-12-18T15:40:26.165000+00:00",
+        "last_opened_at": "2025-12-18T15:40:26.274000+00:00",
         "last_moved_at": "2025-08-26T06:59:12.792000+00:00"
     },
     {
@@ -28654,7 +28092,7 @@
         "author": "The Applied Go Weekly Newsletter",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "go": {
                 "name": "Go",
@@ -28678,11 +28116,11 @@
         "html_content": null,
         "published_date": "2025-08-17",
         "created_at": "2025-08-17T11:02:09.183706+00:00",
-        "updated_at": "2025-08-26T06:59:05.335957+00:00",
+        "updated_at": "2025-12-18T11:39:44.512515+00:00",
         "saved_at": "2025-08-17T11:02:09.162000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-08-26T06:59:05.101000+00:00"
+        "last_moved_at": "2025-12-18T11:39:43.852000+00:00"
     },
     {
         "id": "01k2t923tc8v689bwhb8n85yps",
@@ -28978,8 +28416,14 @@
         "author": "xvw, Xavier Van de Woestyne",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "ocaml": {
+                "name": "OCaml",
+                "type": "manual",
+                "created": 1766058617166
+            }
+        },
         "site_name": "xvw.lol",
         "word_count": 11234,
         "notes": "",
@@ -28991,11 +28435,11 @@
         "html_content": null,
         "published_date": "2025-08-13",
         "created_at": "2025-08-16T20:20:26.086103+00:00",
-        "updated_at": "2025-08-26T06:58:58.880088+00:00",
+        "updated_at": "2025-12-18T11:50:22.133695+00:00",
         "saved_at": "2025-08-16T20:20:26.045000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-08-26T06:58:58.627000+00:00"
+        "first_opened_at": "2025-12-18T11:40:16.660000+00:00",
+        "last_opened_at": "2025-12-18T11:40:16.745000+00:00",
+        "last_moved_at": "2025-12-18T11:50:21.449000+00:00"
     },
     {
         "id": "01k2t7f6payn86w2qbskyy1sbh",
@@ -29528,7 +28972,7 @@
         "author": "Wilson Lin",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {},
         "site_name": "wilsonl.in",
         "word_count": 8008,
@@ -29541,11 +28985,11 @@
         "html_content": null,
         "published_date": "2025-08-10",
         "created_at": "2025-08-13T20:33:08.777819+00:00",
-        "updated_at": "2025-08-26T06:58:31.252701+00:00",
+        "updated_at": "2025-12-18T12:00:26.847232+00:00",
         "saved_at": "2025-08-13T20:33:08.747000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-08-26T06:58:31.026000+00:00"
+        "first_opened_at": "2025-12-18T11:57:40.178000+00:00",
+        "last_opened_at": "2025-12-18T11:57:40.265000+00:00",
+        "last_moved_at": "2025-12-18T12:00:26.173000+00:00"
     },
     {
         "id": "01k2jhxs6zzvy31f9rwj8z96ym",
@@ -30129,7 +29573,7 @@
         },
         "site_name": "Michael Stapelberg",
         "word_count": 2859,
-        "notes": "From Thorsten Ball interview",
+        "notes": "From Thorsten Ball interview\n\nhttps://chatgpt.com/c/69442a9a-f300-832f-ab30-b4c986167b5d",
         "summary": "This article explains how to use ephemeral PostgreSQL instances for automated testing in Go, which can reduce resource usage and speed up test times. By starting a single PostgreSQL instance for all tests instead of multiple instances, developers can improve efficiency and maintainability. Additionally, optimizing the Go test caching behavior can further decrease test runtime significantly.",
         "image_url": "https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/postgresql-elephant-featured_hu62d4951bd671b33ba4be0d77c8ae651f_183979_200x200_fit_box_3.png",
         "parent_id": null,
@@ -30138,10 +29582,10 @@
         "html_content": null,
         "published_date": "2024-11-19",
         "created_at": "2025-08-10T20:38:20.609883+00:00",
-        "updated_at": "2025-09-08T12:34:24.430394+00:00",
+        "updated_at": "2025-12-18T16:26:27.232121+00:00",
         "saved_at": "2025-08-10T20:38:20.589000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
+        "first_opened_at": "2025-12-18T16:23:47.404000+00:00",
+        "last_opened_at": "2025-12-18T16:23:47.505000+00:00",
         "last_moved_at": "2025-08-11T07:36:13.990000+00:00"
     },
     {
@@ -30956,6 +30400,11 @@
         "category": "article",
         "location": "later",
         "tags": {
+            "clang": {
+                "name": "Clang",
+                "type": "manual",
+                "created": 1766076070524
+            },
             "joyandcuriosity": {
                 "name": "JoyAndCuriosity",
                 "type": "manual",
@@ -30964,7 +30413,7 @@
         },
         "site_name": "a1k0n.net",
         "word_count": 2469,
-        "notes": "",
+        "notes": "https://chatgpt.com/c/69442e05-97d4-8326-9abd-65eaf57c19a4",
         "summary": "The code draws a spinning 3D donut using ASCII characters by projecting 3D points onto a 2D screen with math involving rotations and perspective. It calculates the brightness of each point based on lighting and chooses characters to show shading. This creates a cool visual effect of a rotating donut made from simple text symbols.",
         "image_url": null,
         "parent_id": null,
@@ -30973,10 +30422,10 @@
         "html_content": null,
         "published_date": "2011-07-20",
         "created_at": "2025-08-10T20:07:17.272102+00:00",
-        "updated_at": "2025-08-10T20:22:48.489296+00:00",
+        "updated_at": "2025-12-18T16:41:11.182034+00:00",
         "saved_at": "2025-08-10T20:07:17.228000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
+        "first_opened_at": "2025-12-18T16:38:10.526000+00:00",
+        "last_opened_at": "2025-12-18T16:38:10.638000+00:00",
         "last_moved_at": "2025-08-10T20:22:47.949000+00:00"
     },
     {
@@ -33458,11 +32907,16 @@
                 "name": "Go",
                 "type": "manual",
                 "created": 1754287807841
+            },
+            "patterns": {
+                "name": "Patterns",
+                "type": "manual",
+                "created": 1766078781005
             }
         },
         "site_name": "Redowan's Reflections",
         "word_count": 1179,
-        "notes": "",
+        "notes": "https://chatgpt.com/c/694438ad-68b0-832f-91bf-a2c4f204944e",
         "summary": "The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.",
         "image_url": "https://blob.rednafi.com/static/images/home/cover.png",
         "parent_id": null,
@@ -33471,10 +32925,10 @@
         "html_content": null,
         "published_date": "2025-08-03",
         "created_at": "2025-08-04T06:10:03.993765+00:00",
-        "updated_at": "2025-08-09T21:36:16.320388+00:00",
+        "updated_at": "2025-12-18T17:26:21.540963+00:00",
         "saved_at": "2025-08-04T06:10:03.969000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
+        "first_opened_at": "2025-12-18T17:23:43.964000+00:00",
+        "last_opened_at": "2025-12-18T17:23:44.121000+00:00",
         "last_moved_at": "2025-08-09T21:36:15.725000+00:00"
     },
     {
@@ -33504,10 +32958,10 @@
         "html_content": null,
         "published_date": "2025-08-01",
         "created_at": "2025-08-04T04:57:49.757159+00:00",
-        "updated_at": "2025-08-09T21:36:01.564439+00:00",
+        "updated_at": "2025-12-18T17:04:30.722178+00:00",
         "saved_at": "2025-08-04T04:57:49.717000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
+        "first_opened_at": "2025-12-18T17:04:29.694000+00:00",
+        "last_opened_at": "2025-12-18T17:04:29.790000+00:00",
         "last_moved_at": "2025-08-09T21:36:00.745000+00:00"
     },
     {
@@ -34789,33 +34243,6 @@
         "first_opened_at": null,
         "last_opened_at": null,
         "last_moved_at": "2025-07-27T18:01:21.936000+00:00"
-    },
-    {
-        "id": "01k16gpxr76j2tv2d8sfrsbab2",
-        "url": "https://read.readwise.io/read/01k16gpxr76j2tv2d8sfrsbab2",
-        "source_url": "https://lucumr.pocoo.org/2025/7/26/virtual-threads/",
-        "title": "From Async/Await to Virtual Threads",
-        "author": "Armin Ronacher",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "pocoo.org",
-        "word_count": 1974,
-        "notes": "",
-        "summary": "The article discusses how virtual threads could simplify Python concurrency by replacing complex async/await patterns with a clearer thread-based model. It highlights the benefits of structured concurrency and how virtual threads can improve cancellation and error handling. The author suggests this approach could make concurrent programming easier by moving complexity into the runtime instead of the user’s code.",
-        "image_url": "https://lucumr.pocoo.org/social/2025-07-26-virtual-threads-social.png",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": "2025-07-26",
-        "created_at": "2025-07-27T18:00:53.791142+00:00",
-        "updated_at": "2025-08-03T21:28:14.256612+00:00",
-        "saved_at": "2025-07-27T18:00:53.766000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-08-03T21:28:13.643000+00:00"
     },
     {
         "id": "01k148v3yphaj6vt5bbr1q5yj8",
@@ -36528,7 +35955,7 @@
         },
         "site_name": "YouTube",
         "word_count": null,
-        "notes": "",
+        "notes": "https://chatgpt.com/c/6943ed14-aa58-8326-8cc0-ec43eaf689dchttps://chatgpt.com/c/6943f78f-c1f0-832f-b8c3-7acaf54f0500",
         "summary": "You can use open-weight language models through inference providers like Together.AI. Together.AI offers a playground where you can try many different open models. Finding basic models is less common on these platforms.",
         "image_url": "https://i.ytimg.com/vi/7xTGNNLPyMI/maxresdefault.jpg",
         "parent_id": null,
@@ -36537,10 +35964,10 @@
         "html_content": null,
         "published_date": "2025-02-05",
         "created_at": "2025-07-21T08:03:29.953729+00:00",
-        "updated_at": "2025-07-21T09:44:56.362724+00:00",
+        "updated_at": "2025-12-18T12:49:44.227294+00:00",
         "saved_at": "2025-07-21T08:03:29.337000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
+        "first_opened_at": "2025-12-18T12:00:53.755000+00:00",
+        "last_opened_at": "2025-12-18T12:00:53.889000+00:00",
         "last_moved_at": "2025-07-21T09:44:55.995000+00:00"
     },
     {
@@ -49712,44 +49139,6 @@
         "first_opened_at": null,
         "last_opened_at": null,
         "last_moved_at": "2025-07-29T05:29:24.142000+00:00"
-    },
-    {
-        "id": "01jx236gqcb327hmb33mgate1f",
-        "url": "https://read.readwise.io/read/01jx236gqcb327hmb33mgate1f",
-        "source_url": "https://www.atlassian.com/git/tutorials/dotfiles",
-        "title": "The best way to store your dotfiles: A bare Git repository",
-        "author": "Atlassian",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {
-            "git": {
-                "name": "git",
-                "type": "manual",
-                "created": 1749195905885
-            },
-            "try": {
-                "name": "Try",
-                "type": "manual",
-                "created": 1749477375958
-            }
-        },
-        "site_name": "Work Life by Atlassian",
-        "word_count": 710,
-        "notes": "",
-        "summary": "This tutorial explains a simple way to store dotfiles using a Git bare repository. It involves creating an alias that allows you to manage your configuration files without interfering with other Git repositories. By following the steps provided, you can easily version and replicate your configurations across different systems.",
-        "image_url": null,
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": null,
-        "created_at": "2025-06-06T07:44:59.683028+00:00",
-        "updated_at": "2025-06-09T13:56:18.436444+00:00",
-        "saved_at": "2025-06-06T07:44:59.628000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-06-08T20:25:04.476000+00:00"
     },
     {
         "id": "01jx0ygkqzvs0d1qv7a757zsfp",
@@ -65324,7 +64713,7 @@
         "tags": {},
         "site_name": "gatesnotes.com",
         "word_count": 5503,
-        "notes": "",
+        "notes": "https://chatgpt.com/c/69441e02-9780-8329-87c1-3b4aef7af67d",
         "summary": "Bill Gates reflects on the 50th anniversary of Microsoft, starting with the creation of Altair BASIC in 1975. He shares his pride in how this early code led to a revolution in computing and the company's immense success. Gates also acknowledges the influential teachers who helped shape his journey into the world of technology.",
         "image_url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/bcb90e12-f9cd-46c6-ac34-2698b217660a/Social%20Share-Table-1200x630.jpg",
         "parent_id": null,
@@ -65333,10 +64722,10 @@
         "html_content": null,
         "published_date": null,
         "created_at": "2025-04-04T14:39:30.082029+00:00",
-        "updated_at": "2025-04-06T20:37:56.558026+00:00",
+        "updated_at": "2025-12-18T15:32:44.003182+00:00",
         "saved_at": "2025-04-04T14:39:30.061000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
+        "first_opened_at": "2025-12-18T15:29:40.977000+00:00",
+        "last_opened_at": "2025-12-18T15:29:41.051000+00:00",
         "last_moved_at": "2025-04-06T20:37:56.139000+00:00"
     },
     {
@@ -68566,7 +67955,7 @@
         "author": "Диджитализируй!",
         "source": "Reader add from import URL",
         "category": "video",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "uv": {
                 "name": "uv",
@@ -68585,11 +67974,11 @@
         "html_content": null,
         "published_date": "2025-03-15",
         "created_at": "2025-03-17T05:17:13.237149+00:00",
-        "updated_at": "2025-05-22T08:21:55.289585+00:00",
+        "updated_at": "2025-12-18T15:29:19.110993+00:00",
         "saved_at": "2025-03-17T05:17:13.001000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-03-17T05:48:37.557000+00:00"
+        "last_moved_at": "2025-12-18T15:29:18.671000+00:00"
     },
     {
         "id": "01jph8c34x4bam4a9q08mmtt4n",
@@ -73483,7 +72872,7 @@
         "author": "GitButler",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "git": {
                 "name": "git",
@@ -73493,20 +72882,20 @@
         },
         "site_name": "GitButler",
         "word_count": 3188,
-        "notes": "",
+        "notes": "https://chatgpt.com/c/69442671-5c68-8332-9547-7963e928d494",
         "summary": "The author shares lesser-known Git configuration settings that core Git developers recommend for better performance. These settings include adjusting default branch names, improving diff algorithms, and enhancing push and fetch behavior. By enabling these options, users can streamline their Git experience and make it more efficient.",
         "image_url": "https://blog.gitbutler.com/content/images/size/w1200/2025/02/how-devs-config-git-core.webp",
         "parent_id": null,
-        "reading_progress": 0.0947590613503106,
+        "reading_progress": 0.10357138201073013,
         "content": null,
         "html_content": null,
         "published_date": "2025-02-22",
         "created_at": "2025-02-25T10:56:14.427120+00:00",
-        "updated_at": "2025-07-21T14:09:12.923322+00:00",
+        "updated_at": "2025-12-18T16:08:16.239593+00:00",
         "saved_at": "2025-02-25T10:56:14.413000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-02-25T11:29:39.036000+00:00"
+        "first_opened_at": "2025-12-18T16:05:51.517000+00:00",
+        "last_opened_at": "2025-12-18T16:05:51.601000+00:00",
+        "last_moved_at": "2025-12-18T16:08:15.257000+00:00"
     },
     {
         "id": "01jmxw52zcs524hj4syxcsd9f1",
@@ -96276,33 +95665,6 @@
         "last_moved_at": "2024-12-22T12:00:17.084000+00:00"
     },
     {
-        "id": "01jfq3t3e80at0wmerq9v5vcn2",
-        "url": "https://read.readwise.io/read/01jfq3t3e80at0wmerq9v5vcn2",
-        "source_url": "https://antonz.org/grep-by-example/",
-        "title": "Grep by example: Interactive guide",
-        "author": "Anton Zhiyanov",
-        "source": "Reader Share Sheet iOS",
-        "category": "article",
-        "location": "later",
-        "tags": {},
-        "site_name": "antonz.org",
-        "word_count": 1837,
-        "notes": "",
-        "summary": "The interactive guide to using grep explains how to search for text patterns efficiently. It covers basics like searching for patterns in files, using regular expressions for advanced searches, and searching for fixed strings. The guide also delves into handling multiple patterns, recursive searches, and various output options like counting matches, limiting results, and displaying only relevant parts of the output. Additionally, it provides insights on using grep options to ignore case sensitivity, invert matches, and customize output formats for different search scenarios.",
-        "image_url": "https://antonz.org/grep-by-example/cover.png",
-        "parent_id": null,
-        "reading_progress": 0.0,
-        "content": null,
-        "html_content": null,
-        "published_date": null,
-        "created_at": "2024-12-22T11:59:58.943130+00:00",
-        "updated_at": "2025-05-15T11:13:46.389567+00:00",
-        "saved_at": "2025-05-03T11:42:45.697000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2025-05-15T11:13:45.911000+00:00"
-    },
-    {
         "id": "01jfq3pw3v5hdv3f4hk9csfa6x",
         "url": "https://read.readwise.io/read/01jfq3pw3v5hdv3f4hk9csfa6x",
         "source_url": "https://antonz.org/try-x-in-y-minutes/",
@@ -110749,7 +110111,7 @@
         "author": "Диджитализируй!",
         "source": "Reader Share Sheet iOS",
         "category": "video",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "postgresql": {
                 "name": "PostgreSQL",
@@ -110768,11 +110130,11 @@
         "html_content": null,
         "published_date": "2024-10-03",
         "created_at": "2024-11-05T17:54:35.954390+00:00",
-        "updated_at": "2025-07-27T13:46:16.739731+00:00",
+        "updated_at": "2025-12-18T12:27:28.271183+00:00",
         "saved_at": "2024-11-05T17:54:35.937000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,
-        "last_moved_at": "2025-02-07T06:41:20.289000+00:00"
+        "last_moved_at": "2025-12-18T12:27:27.582000+00:00"
     },
     {
         "id": "01jbyjrkkfkmd8jnfy5232691f",
@@ -137434,7 +136796,13 @@
         "source": "omnivore_zip",
         "category": "article",
         "location": "later",
-        "tags": {},
+        "tags": {
+            "javascript": {
+                "name": "JavaScript",
+                "type": "manual",
+                "created": 1766072890945
+            }
+        },
         "site_name": "joshwcomeau.com",
         "word_count": 3746,
         "notes": "",
@@ -137446,7 +136814,7 @@
         "html_content": null,
         "published_date": "2024-06-03",
         "created_at": "2024-11-05T15:48:19.599699+00:00",
-        "updated_at": "2025-09-07T20:43:32.163229+00:00",
+        "updated_at": "2025-12-18T15:48:11.566347+00:00",
         "saved_at": "2025-09-06T21:35:31.346000+00:00",
         "first_opened_at": null,
         "last_opened_at": null,

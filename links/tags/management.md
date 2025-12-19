@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 43
+- Всего ссылок: 44
 
 ## Ссылки
 
@@ -8,6 +8,10 @@
     > **Резюме:** After a decade away from hands-on coding, the author returned to writing small, useful pull requests as a manager and completed 104 in six months. New AI coding tools and better judgment about which problems to pick made it possible to do meaningful work in short time blocks. Manager coding can help if you pick high-value, non-urgent tasks and fully own their release and maintenance.
 - [Shadow work in engineering teams](https://newsletter.manager.dev/p/the-shadow-work-in-engineering-teams) 👤 Anton Zaides 💬 1432 🔖 #management 🗓️ 2025-11-18
     > **Резюме:** Many important engineering tasks are invisible and eat teams’ time. This “shadow work” — ad-hoc support, glue work like reviews, and a hidden backlog — reduces capacity and creates bottlenecks. Make hidden work visible and distribute it so seniors aren’t overloaded and planning is accurate.
+- [Managing Your Manager](https://yusufaytas.com/managing-your-manager/) 👤 https://www.facebook.com/yusufaytas 💬 2404 🔖 #management 🗓️ 2025-11-09
+    > **Резюме:** Managers face pressures you may not see, so learn how they think and what they must balance.  
+Make their job easier by bringing clear solutions, predictable updates, and adapting to their style.  
+Do this consistently and you gain trust, autonomy, and real influence.
 - [Give your engineers a kingdom](https://newsletter.manager.dev/p/give-your-engineers-a-kingdom) 👤 Anton Zaides 💬 1015 🔖 #leaddev, #management 🗓️ 2025-10-28
     > **Резюме:** Give engineers clear ownership of meaningful areas, or "kingdoms."  
 Owners decide priorities, monitor health, and act as the go-to expert.  

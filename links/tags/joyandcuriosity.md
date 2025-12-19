@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 49
+- Всего ссылок: 51
 
 ## Ссылки
 
+- [What happens when the coding becomes the least interesting part of the work](https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660) 👤 Obie Fernandez 💬 1894 🔖 #joyandcuriosity 🗓️ 2025-12-18
+    > **Заметка:** https://chatgpt.com/c/6944406d-4640-832a-b0c4-9df0c3a7cf6d
+    > **Резюме:** Senior engineering is mostly silent judgment, not typing code. Pairing with coding agents forces you to speak that judgment out loud, which improves decisions. That shift will make coding itself less valuable and reshape teams fast.
+- [How to prompt Nano Banana Pro](https://www.fofr.ai/nano-banana-pro-guide?utm_source=substack&utm_medium=email) 👤 fofr.ai 💬 1761 🔖 #joyandcuriosity 🗓️ 2025-12-18
+    > **Резюме:** Nano Banana Pro is a powerful, flexible image model that handles simple and complex prompts well. Use clear prompts, negatives, or JSON to control details and text. Add reference images for consistent characters, branding, or accurate real-world content.
 - [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default?utm_source=substack&utm_medium=email) 👤 Thomas Paul Mann 💬 1054 🔖 #codereview, #joyandcuriosity 🗓️ 2025-11-30
     > **Резюме:** At Raycast, engineers can push code directly to the main branch without mandatory reviews, fostering a culture of trust and rapid iteration. While code reviews are optional, they are requested when necessary, especially for significant changes or for new team members. This approach allows for quick feedback and continuous updates, helping the team to efficiently build and improve their product.
 - [The (lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email) 👤 @bwplotka 💬 2452 🔖 #git, #joyandcuriosity 🗓️ 2025-11-30
@@ -39,6 +44,7 @@ Be reliable and considerate: meet commitments, keep PRs updated, review others, 
 - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/?utm_source=tldrwebdev) 👤 Evan Hahn 💬 2125 🔖 #cli, #inspiration, #joyandcuriosity 🗓️ 2025-10-26
     > **Резюме:** The author describes many small shell scripts they use frequently to solve everyday tasks. Most scripts are simple helpers for making temp dirs, editing quick notes, downloading media, and automating routine work. They keep these handy in dotfiles and use them from daily to monthly.
 - [How to build a remarkable command palette](https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email) 👤 Tim Boucher 💬 2747 🔖 #joyandcuriosity 🗓️ 2025-10-19
+    > **Заметка:** https://chatgpt.com/c/69442ca9-df50-8325-a6a9-ab2121ec93ae
     > **Резюме:** A command palette is a user interface tool that allows quick access to various commands, making it easier for users to discover features. To build an effective command palette, ensure it is available everywhere, centralizes all commands, and offers flexibility in command matching. By following these principles, you can create a powerful and user-friendly command palette that enhances productivity.
 - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing) 👤 Mitchell Hashimoto 💬 3285 🔖 #llm, #joyandcuriosity 🗓️ 2025-10-13
     > **Резюме:** Mitchell Hashimoto used AI agents heavily to design, implement, and polish a non-trivial macOS auto-update feature for Ghostty. He iterated between agent work and manual cleanup, fixing a view-model bug and improving UX through simulations. He shares full agent sessions to teach effective, responsible AI-assisted development.
@@ -69,6 +75,7 @@ I appreciate the effort and felt satisfied even though I didn’t fully understa
 LLMs can automate tasks like scraping, converting images to calendar entries, translating text, and syncing files.  
 For a small cost you can save time and focus on more important work.
 - [Thoughts on Testing January 4, 2024](https://www.brandons.me/blog/thoughts-on-testing?utm_source=substack&utm_medium=email) 👤 Brandon Smith 💬 1461 🔖 #testing, #joyandcuriosity 🗓️ 2025-09-28
+    > **Заметка:** https://chatgpt.com/c/69443518-c530-8325-a699-674ac7465bfa
     > **Резюме:** Tests help but they cost time because they are code to write, maintain, and run.  
 Only write tests that add lasting value: prefer static analysis, check intent not implementation, and avoid fragile mocked checks.  
 Skip unit tests for UI rendering; test stable business logic, state, and reusable components instead.
@@ -90,7 +97,7 @@ Strings of 12 or fewer characters are stored inline; longer strings store a leng
 They are immutable and support persistent, transient, and temporary storage classes to cut copies and speed reads, but appending is costly and lifetimes must be managed.
 - [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html) 👤 Oskar Wickström 💬 925 🔖 #vim, #joyandcuriosity 🗓️ 2025-08-31
     > **Резюме:** The author returned to Neovim to create a personalized, minimalist text editor with minimal plugins. They configured it using Nix for easy management and focused on speed and simplicity. The final setup is fast, understandable, and tailored to their specific editing needs.
-- [The McPhee method](https://jsomers.net/blog/the-mcphee-method?utm_source=substack&utm_medium=email) 👤 James Somers 💬 4008 🔖 #joyandcuriosity 🗓️ 2025-08-31
+- [The McPhee method](https://jsomers.net/blog/the-mcphee-method?utm_source=substack&utm_medium=email) 👤 James Somers 💬 4008 🔖 #writing, #joyandcuriosity 🗓️ 2025-08-31
     > **Резюме:** McPhee gathers all his reporting up front: notes, transcripts, and excerpts. He then labels, sorts, and arranges those notes into a clear structure before he writes. With the structure set, he drafts quickly and then revises and fact-checks.
 - [The Friendship That Made Google Huge | The New Yorker](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge?utm_source=substack&utm_medium=email) 👤 James Somers 💬 6675 🔖 #joyandcuriosity 🗓️ 2025-08-31
     > **Резюме:** Jeff Dean and Sanjay Ghemawat wrote core software that changed Google and the Internet.  
@@ -119,7 +126,8 @@ Keep stepping stones simple and extensible so you can learn, adapt, or stop with
     > **Резюме:** Teams often settle into routines that feel fine but block improvement. Like simulated annealing, use big experiments to break free and small tweaks to refine. Make changes time‑boxed, team‑owned, and repeat them to steadily get better.
 - [vibe coding is the fast fashion industry of software engineering](https://pdelboca.me/writings/2025/08/01/vibe-coding-fast-fashion.html?utm_source=substack&utm_medium=email) 👤 pdelboca.me 💬 824 🔖 #llm, #joyandcuriosity 🗓️ 2025-08-17
     > **Резюме:** AI tools make coding faster but often produce low-quality, short-lived software. This flood of cheap code can create maintenance problems and security risks, like data leaks. Without clear quality standards, the software industry may face a messy, polluted future.
-- [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html?utm_source=substack&utm_medium=email) 👤 a1k0n.net 💬 2469 🔖 #joyandcuriosity 🗓️ 2025-08-10
+- [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html?utm_source=substack&utm_medium=email) 👤 a1k0n.net 💬 2469 🔖 #clang, #joyandcuriosity 🗓️ 2025-08-10
+    > **Заметка:** https://chatgpt.com/c/69442e05-97d4-8326-9abd-65eaf57c19a4
     > **Резюме:** The code draws a spinning 3D donut using ASCII characters by projecting 3D points onto a 2D screen with math involving rotations and perspective. It calculates the brightness of each point based on lighting and chooses characters to show shading. This creates a cool visual effect of a rotating donut made from simple text symbols.
 - [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email) 👤 Cynthia Dunlop 💬 1523 🔖 #toot, #interview, #programming, #joyandcuriosity 🗓️ 2025-08-10
     > **Заметка:** Интервью с Торстеном о его блоге - заслуживает внимания, как и сам блог.

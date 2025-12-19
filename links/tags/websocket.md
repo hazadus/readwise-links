@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [How WebSockets Work](https://www.deepintodev.com/blog/how-websockets-work?utm_source=tldrdev) 👤 Kaan Peksen 💬 1697 🔖 #websocket 🗓️ 2025-11-30
+    > **Резюме:** WebSockets upgrade an HTTP connection to a persistent, full-duplex channel so server and client can send messages anytime. They shine for real-time apps like chat and multiplayer games but are stateful, harder to proxy and scale, and can be inefficient if you send large JSON frequently. Optimize by sending compact binary data and choose simpler options (EventSource or HTTP) when only server-to-client updates are needed.
 - [Developing a Real-time Dashboard with Flask, Postgres, and Socket.IO](https://testdriven.io/blog/flask-postgres-socketio/) 👤 testdriven.io 💬 4439 🔖 #flask, #websocket 🗓️ 2025-08-29
     > **Резюме:** This tutorial shows how to build a real-time inventory dashboard using Flask, Postgres, and Socket.IO. It teaches you to stream live data updates from the database to the web frontend using triggers and WebSockets. The result is a responsive app that updates instantly when inventory changes.
 - [Developing a Real-time Dashboard with FastAPI, Postgres, and WebSockets](https://testdriven.io/blog/fastapi-postgres-websockets/) 👤 testdriven.io 💬 3838 🔖 #try, #fastapi, #websocket, #postgresql 🗓️ 2025-07-18

@@ -8,7 +8,7 @@
     > **Резюме:** The article explains how to migrate Neovim configuration from vimscript to Lua step by step.  
 It shows how to run Lua inside init.vim, call vimscript functions with vim.fn and vim.cmd, and manage options with vim.o/vim.opt.  
 It also covers plugins, keymaps, and creating user commands so you can mix Lua and vimscript during migration.
-- [Build your first Neovim configuration in lua](https://vonheikemen.github.io/devlog/tools/build-your-first-lua-config-for-neovim/?utm_source=perplexity) 👤 vonheikemen.github.io 💬 4212 🔖 #vim 🗓️ 2025-11-05
+- [Build your first Neovim configuration in lua](https://vonheikemen.github.io/devlog/tools/build-your-first-lua-config-for-neovim/?utm_source=perplexity) 👤 vonheikemen.github.io 💬 4212 🔖 #lua, #vim 🗓️ 2025-11-05
     > **Резюме:** This tutorial teaches how to build a basic Neovim config using init.lua.  
 It covers options, keymaps, plugins (Lua and vimscript), and common plugin patterns.  
 It also shows creating commands, autocommands, and splitting config into modules.

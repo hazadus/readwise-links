@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 106
+- Всего ссылок: 107
 
 ## Ссылки
 
@@ -13,6 +13,8 @@ You haven't failed when you rest; new growth often follows.
     > **Резюме:** John Arundel wrote the Puppet Cookbook by carving out about 200 hours over eight months while juggling freelance work. Writing taught him Puppet features he hadn't used, required lots of coding, testing, and rewriting, and relied on community help. He advises careful planning, time management, and iterative revision for anyone writing a technical book.
 - [ARIatHOME](https://daverupert.com/2025/11/ariathome/) 👤 Dave Rupert 💬 327 🔖 #music, #inspiration 🗓️ 2025-11-12
     > **Резюме:** Ari Miller is a New York beat maker who performs live street sets with a portable 55-lb production rig. He improvises beats, invites strangers to rap, and turns raw moments into creative, communal music. His work celebrates New York’s bold characters and brings hopeful, real creativity to the internet.
+- [Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/#atom-everything) 👤 Simon Willison 💬 1893 🔖 #llm, #try, #inspiration 🗓️ 2025-11-07
+    > **Резюме:** Simon Willison uses asynchronous coding agents like Claude Code and Codex to run code research projects that experiment and test ideas automatically. He gives these agents a dedicated GitHub repository with full network access so they can explore freely and report results via pull requests. This method saves time and helps discover what works by writing and executing real code.
 - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/?utm_source=tldrwebdev) 👤 Evan Hahn 💬 2125 🔖 #cli, #inspiration, #joyandcuriosity 🗓️ 2025-10-26
     > **Резюме:** The author describes many small shell scripts they use frequently to solve everyday tasks. Most scripts are simple helpers for making temp dirs, editing quick notes, downloading media, and automating routine work. They keep these handy in dotfiles and use them from daily to monthly.
 - [You Are Insignificant. That's a Good Thing.](https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing) 👤 JA Westenberg 💬 2708 🔖 #toot, #inspiration 🗓️ 2025-10-20

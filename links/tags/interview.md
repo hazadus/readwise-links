@@ -1,15 +1,20 @@
 # Ссылки
 
-- Всего ссылок: 19
+- Всего ссылок: 21
 
 ## Ссылки
 
+- [Interview: Ken Case (OmniFocus)](https://www.joanwestenberg.com/p/interview-ken-case-omnifocus) 👤 JA Westenberg 💬 6152 🔖 #interview 🗓️ 2025-11-08
+    > **Резюме:** Ken Case, founder of Omni Group, describes building polished native productivity apps for Apple platforms from the NeXT days through Mac OS X. Omni is releasing a universal OmniOutliner and focuses on native apps while offering web versions for device flexibility. Their goal is to improve workflow across devices with unified development, shared outlines, and features that work everywhere.
 - [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/) 👤 https://www.facebook.com/yusufaytas 💬 3975 🔖 #llm, #interview, #llm-devimpact 🗓️ 2025-11-01
     > **Резюме:** AI made interviews unreliable by letting candidates present perfect, AI-generated answers instead of real thinking.  
 Companies are shifting from high-volume remote screens to in-person, interactive interviews that reveal real reasoning.  
 The goal now is simple: test human judgment, communication, and live problem-solving — things AI can’t convincingly fake.
 - [«Переводить Сапковского — как Нобелевскую премию получить». Интервью с переводчиком «Перекрёстка воронов» Вадимом Кумоком](https://www.mirf.ru/book/vadim-kumok-interview) 👤 Алексей Ионов 💬 2039 🔖 #interview 🗓️ 2025-10-20
     > **Резюме:** Вадим Кумок — давний поклонник фантастики, который стал переводчиком почти случайно и переводит с польского и английского. Он столкнулся с трудностями — сложный язык Сапковского, редкие слова и конкуренция ИИ‑перевода, но придумал свои приёмы и правки. Кумок мечтает перевести легендарного польского автора Адама Вишневски‑Снерга.
+- [5 Core Distributed Concepts Every Developer Should Know](https://www.swequiz.com/blog/5-core-distributed-concepts-every-developer-should-know) 👤 swequiz.com 💬 2261 🔖 #interview, #softwaredesign 🗓️ 2025-10-05
+    > **Заметка:** https://chatgpt.com/c/69442f76-7f0c-8329-92ef-7720593132a9
+    > **Резюме:** Distributed systems are crucial for modern applications, and developers should understand five core concepts to build and troubleshoot them effectively. Key principles include the CAP Theorem, fault tolerance, and strategies for reducing latency. By grasping these concepts, developers can create resilient and scalable applications.
 - [Operational Skills Needed](https://yusufaytas.com/operational-skills-needed/) 👤 https://www.facebook.com/yusufaytas 💬 466 🔖 #devops, #interview 🗓️ 2025-10-04
     > **Резюме:** Many engineers excel at coding and design but lack practical operational reflexes for real incidents. Interviews should include realistic scenario-based questions about outages, monitoring, and post-mortems. Testing these skills finds candidates who can keep systems reliable in production.
 - [Thorsten Ball on Technical Blogging](https://writethatblog.substack.com/p/thorsten-ball-on-technical-blogging?utm_source=substack&utm_medium=email) 👤 Cynthia Dunlop 💬 1523 🔖 #toot, #interview, #programming, #joyandcuriosity 🗓️ 2025-08-10

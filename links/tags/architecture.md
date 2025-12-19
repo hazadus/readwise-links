@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [Hexagonal Architecture for absolute beginners.](https://sushantdhiman.substack.com/p/hexagonal-architecture-for-absolute?utm_source=post-email-title&publication_id=3501228&post_id=180310942&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) 👤 Sushant Dhiman 💬 896 🔖 #architecture 🗓️ 2025-11-30
+    > **Резюме:** Hexagonal architecture isolates the core domain from frameworks and external systems.  
+It uses domain-defined ports and interchangeable adapters so databases or APIs can be swapped easily.  
+This makes code more portable, testable, and suitable for apps with multiple entry points.
 - [What is "good taste" in software engineering?](https://seangoedecke.com/taste/) 👤 seangoedecke.com 💬 1835 🔖 #development, #architecture, #softwarecraft, #softwaredesign 🗓️ 2025-09-28
     > **Резюме:** Good taste in software engineering means choosing the right values for each project, not just having strong technical skills. It involves being flexible and understanding tradeoffs, rather than blindly following one approach. Engineers with good taste help projects succeed by adapting their decisions to fit the specific problems they face.
 - [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/) 👤 arturdumchev 💬 3317 🔖 #fun, #principles, #architecture 🗓️ 2025-05-30

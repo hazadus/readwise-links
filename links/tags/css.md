@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 19
+- Всего ссылок: 17
 
 ## Ссылки
 
@@ -10,8 +10,6 @@ The CSS Custom Highlight API uses lightweight Range objects and CSS ::highlight 
 It works in modern browsers but needs fallbacks for older ones and only supports single text-node content.
 - [Springs and Bounces in Native CSS The magic of the linear() timing function](https://www.joshwcomeau.com/animation/linear-timing-function/) 👤 Josh W. Comeau 💬 2718 🔖 #css 🗓️ 2025-10-29
     > **Резюме:** Modern CSS has a new linear() timing function that helps create spring and bounce animations by specifying points on a graph. Tools like Linear() Easing Generator and Easing Wizard make it easier to design these animations with physical properties like stiffness and damping. Using CSS variables to store these timing functions keeps animations consistent and reduces code duplication across projects.
-- [The least amount of CSS for a decent looking site](https://thecascade.dev/article/least-amount-of-css/?utm_source=tldrwebdev) 👤 Kevin Powell 💬 626 🔖 #css 🗓️ 2025-10-10
-    > **Резюме:** The article shows a tiny set of CSS rules that make a page look good without over-engineering. It fixes media overflow, improves typography, adds dark-mode support, and limits line length for readability. Use this minimal base as a simple starter to build from.
 - [A pragmatic guide to modern CSS colours - part one](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-one/?ref=main-rss-feed) 👤 Piccalilli 💬 3032 🔖 #css 🗓️ 2025-10-07
     > **Резюме:** CSS colour syntax has evolved to new, simpler forms like space-separated rgb() and hsl() and a slash for alpha. Relative colours let you base new colours on existing ones and easily change alpha. New colour functions and spaces (e.g., color(), oklch(), color-mix()) give more control and better results.
 - [Automatically Generate AI Chat Titles with Animation in Nuxt](https://masteringnuxt.com/blog/automatically-generate-ai-chat-titles-with-animation-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(236)+Hidden+Nuxt+Gems,+and+a+simpler+way+to+pass+lots+of+props+-+19098320&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 1150 🔖 #css, #nuxt 🗓️ 2025-09-25
@@ -22,10 +20,6 @@ It works in modern browsers but needs fallbacks for older ones and only supports
     > **Резюме:** CSS now has a random() function to create random values for position, size, color, and rotation.  
 The article demos star fields, random rectangles, and rotated image stacks.  
 You can share randomness per-property, per-element, or globally with idents or element-shared, and try it in Safari Technology Preview.
-- [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/) 👤 lyra's epic blog 💬 1071 🔖 #css 🗓️ 2025-08-30
-    > **Резюме:** Modern JavaScript frameworks add huge bloat and slow sites.  
-Plain HTML and new CSS features like nesting and color functions can do a lot of the same work.  
-The author wants to show these alternatives so you can choose when JavaScript is truly needed.
 - [Another article about centering in CSS](https://piccalil.li/blog/another-article-about-centering-in-css/?ref=main-rss-feed) 👤 Piccalilli 💬 1236 🔖 #css 🗓️ 2025-08-14
     > **Резюме:** Centering in CSS is easier than ever with many options like grid and flexbox, but choosing one clear method is key. Using parent-based layouts with grid or flexbox is better than mixing child and parent alignment. Avoid positioning for centering unless you fully control the parent, and focus on simple, consistent principles for your team.
 - [Tailwind is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/) 👤 colton.dev 💬 2793 🔖 #css, #tailwind 🗓️ 2025-08-07

@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 16
 
 ## Ссылки
 
@@ -46,3 +46,8 @@ Developers still must plan, review, and decide what to build.
 Don't delegate thinking—delegate only the work.
 - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/) 👤 hojberg.xyz 💬 2646 🔖 #llm, #programming, #llm-devimpact 🗓️ 2025-10-09
     > **Резюме:** Programming used to be a deep, creative craft focused on solving puzzles and understanding code. Now, AI tools risk turning programmers into mere operators, disconnected from their work and each other. This shift threatens to erase the skill, pride, and identity that made programming special.
+- [Vibe coding is not the same as AI-Assisted engineering.](https://addyo.substack.com/p/vibe-coding-is-not-the-same-as-ai) 👤 Addy Osmani 💬 5554 🔖 #llm, #llm-devimpact 🗓️ 2025-09-05
+    > **Заметка:** https://chatgpt.com/c/69441c4d-0fc4-8332-82b9-c30bc29848dc
+    > **Резюме:** Vibe coding is free-flow prompting that lets AI write code with little planning.  
+It can speed prototypes but often creates hidden security, reliability, and maintenance risks in production.  
+AI-assisted engineering uses structured specs, testing, and review so teams keep AI productivity without the risks.

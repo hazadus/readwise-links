@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 20
+- Всего ссылок: 21
 
 ## Ссылки
 
@@ -16,6 +16,8 @@
     > **Резюме:** Writing every day trains you to think more clearly.  
 Putting vague feelings into sentences reveals contradictions and solutions.  
 Try fifteen minutes a day for a month — worst case you lose time scrolling, best case you debug your own thinking.
+- [The McPhee method](https://jsomers.net/blog/the-mcphee-method?utm_source=substack&utm_medium=email) 👤 James Somers 💬 4008 🔖 #writing, #joyandcuriosity 🗓️ 2025-08-31
+    > **Резюме:** McPhee gathers all his reporting up front: notes, transcripts, and excerpts. He then labels, sorts, and arranges those notes into a clear structure before he writes. With the structure set, he drafts quickly and then revises and fact-checks.
 - [Don't feed me AI slop](https://seangoedecke.com/dont-feed-me-slop/) 👤 seangoedecke.com 💬 2055 🔖 #llm, #writing 🗓️ 2025-08-23
     > **Резюме:** Social norms are forming around when to show AI-generated content.  
 Only share AI output that is content-dense and as concise as a competent human’s.  

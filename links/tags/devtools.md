@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
 - [Sometimes It Really Is That Easy](https://davegriffith.substack.com/p/sometimes-it-really-is-that-easy) 👤 Dave Griffith 💬 1208 🔖 #llm, #devtools 🗓️ 2025-12-16
     > **Резюме:** Good developer tooling makes setup fast and reliable. AI can now generate those boring but vital scripts in minutes. That saves time, reduces friction, and speeds up onboarding and work.
+- [Justified](https://www.bitecode.dev/p/justified) 👤 Bite Code! 💬 2039 🔖 #devtools 🗓️ 2025-12-15
+    > **Резюме:** just is a simple cross-platform task runner that puts project commands in a .justfile. It lists and runs recipes so you don’t memorize long commands. It’s fast, portable, and supports parameters, platform-specific recipes, and env loading.
 - [A gold ceremony to remember](https://daniel.haxx.se/blog/2025/10/25/a-gold-ceremony-to-remember/) 👤 Daniel Stenberg 💬 747 🔖 #toot, #devtools 🗓️ 2025-10-26
     > **Заметка:** Заслуженная награда🎖️! Рад за Дэниэла. Просто юзайте curl! ✊
     > **Резюме:** Daniel Stenberg and his family attended a formal awards ceremony at Stockholm City Hall. He received an IVA gold medal for his work and was honored on stage. The evening included speeches, a dinner, and lasting memories.

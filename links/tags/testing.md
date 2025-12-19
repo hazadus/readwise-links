@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 41
+- Всего ссылок: 43
 
 ## Ссылки
 
@@ -9,6 +9,7 @@
 - [Gist of Go: Concurrency testing](https://antonz.org/go-concurrency/testing/) 👤 Anton Zhiyanov 💬 7291 🔖 #go, #testing 🗓️ 2025-11-24
     > **Резюме:** synctest.Test runs tests in a controlled "bubble" so goroutine scheduling and time can be simulated. synctest.Wait blocks until all other goroutines in the bubble are finished or durably blocked, letting the tester know a goroutine reached a known blocking point. Use synctest.Wait instead of sleep to avoid races and flaky tests; synctest.Test panics if goroutines stay permanently ununblockable.
 - [Thoughts on Testing January 4, 2024](https://www.brandons.me/blog/thoughts-on-testing?utm_source=substack&utm_medium=email) 👤 Brandon Smith 💬 1461 🔖 #testing, #joyandcuriosity 🗓️ 2025-09-28
+    > **Заметка:** https://chatgpt.com/c/69443518-c530-8325-a699-674ac7465bfa
     > **Резюме:** Tests help but they cost time because they are code to write, maintain, and run.  
 Only write tests that add lasting value: prefer static analysis, check intent not implementation, and avoid fragile mocked checks.  
 Skip unit tests for UI rendering; test stable business logic, state, and reusable components instead.
@@ -18,6 +19,12 @@ Skip unit tests for UI rendering; test stable business logic, state, and reusabl
     > **Резюме:** I use Playwright for end-to-end tests as apps with HTMX and Alpine reduce unit and integration coverage.  
 I capture popups with expect_page, tag tests with pytest markers to run or switch context, and debug with page.pause or headed/PWDEBUG.  
 I also use axe-playwright for accessibility assertions and page.expect_response to verify background requests.
+- [Test state, not interactions](http://rednafi.com/go/test_state_not_interactions/) 👤 Redowan Delowar 💬 1542 🔖 #testing 🗓️ 2025-09-14
+    > **Резюме:** Test outcomes and state, not which functions were called.  
+LLMs and mock-generated interaction tests are brittle and can miss real bugs.  
+Write the first tests yourself and prefer public-API tests with handwritten fakes or real test services.
+- [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html) 👤 matklad.github.io 💬 4435 🔖 #testing 🗓️ 2025-09-08
+    > **Резюме:** Testing helps keep software working when making changes. Good tests focus on features, not code details, and should be easy to update. Slow or flaky tests make refactoring hard, so testing speed and reliability matter a lot.
 - [You should delete tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/?utm_source=tldrwebdev) 👤 André Arko 💬 833 🔖 #testing 🗓️ 2025-09-01
     > **Резюме:** Tests exist to give developers confidence.  
 Delete tests that reduce confidence — flaky, slow, brittle, or testing the wrong behavior.  
@@ -28,6 +35,8 @@ His workflow: write plan.md, convert it to a mutable spec.md, and use fast end-t
 LLMs lower the cost of building tools but still need good testing and design for long-term maintenance.
 - [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #testing, #postgresql 🗓️ 2025-08-10
     > **Заметка:** From Thorsten Ball interview
+
+https://chatgpt.com/c/69442a9a-f300-832f-ab30-b4c986167b5d
     > **Резюме:** This article explains how to use ephemeral PostgreSQL instances for automated testing in Go, which can reduce resource usage and speed up test times. By starting a single PostgreSQL instance for all tests instead of multiple instances, developers can improve efficiency and maintainability. Additionally, optimizing the Go test caching behavior can further decrease test runtime significantly.
 - [You don't need testify/assert](https://antonz.org/do-not-testify/) 👤 Anton Zhiyanov 💬 1706 🔖 #go, #testing 🗓️ 2025-07-16
     > **Резюме:** The author shows how to write simple custom assertion helpers to replace testify/assert in Go tests. These helpers cover equality, error checking, and boolean conditions with minimal code. This approach keeps tests clean without relying on many assertion functions.

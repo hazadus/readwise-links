@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 35
+- Всего ссылок: 34
 
 ## Ссылки
 
@@ -28,8 +28,6 @@ Examples cover password hashing, sending verification emails, and handling error
     > **Резюме:** Start with a modular, domain-driven FastAPI layout that groups routes, services, models, validators, and tests by feature.  
 Keep routes thin and put business and database logic in services so code is testable and maintainable.  
 Manage config, security, migrations, and versioned APIs separately to scale safely in production.
-- [Using Asyncpg with FastAPI and Air](https://daniel.feldroy.com/posts/2025-10-using-asyncpg-with-fastapi-and-air) 👤 https://daniel.feldroy.com 💬 709 🔖 #fastapi 🗓️ 2025-10-20
-    > **Резюме:** The article shows how to use asyncpg directly with FastAPI and Air to talk to PostgreSQL without an ORM. It uses an ASGI lifespan function to create and close a connection pool on startup and shutdown. Examples show querying and inserting data, with Pydantic used to validate incoming input.
 - [Developing a Real-time Dashboard with FastAPI, Postgres, and WebSockets](https://testdriven.io/blog/fastapi-postgres-websockets/) 👤 testdriven.io 💬 3838 🔖 #try, #fastapi, #websocket, #postgresql 🗓️ 2025-07-18
     > **Резюме:** This tutorial shows how to build a real-time inventory dashboard using FastAPI, Postgres, and WebSockets. It explains how to send live database updates to the frontend using Postgres triggers and WebSocket connections. The result is a responsive app that updates instantly when inventory changes happen.
 - [What's up Python? Mypy gets better, uv faster, FastApi easier, Emscripten formal...er](https://www.bitecode.dev/p/whats-up-python-mypy-gets-better) 👤 Bite Code! 💬 1296 🔖 #uv, #mypy, #python, #fastapi 🗓️ 2025-07-07

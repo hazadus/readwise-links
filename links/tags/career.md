@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 65
+- Всего ссылок: 66
 
 ## Ссылки
 
@@ -16,6 +16,9 @@ Lead by admitting uncertainty, enabling others, and making impact visible.
     > **Резюме:** Senior engineers’ core skill is reducing ambiguity. They turn fuzzy problems into clear, actionable plans by asking the right questions. That upfront work prevents surprises and makes other skills actually valuable.
 - [You have two jobs](https://jacobian.org/2017/nov/1/you-have-two-jobs/?utm_source=substack&utm_medium=email) 👤 jacobian.org 💬 526 🔖 #career, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-29
     > **Резюме:** Your job involves writing good code and being easy to work with. Building strong relationships with colleagues is crucial for success in your role. Both technical skills and good relationships are essential for solving problems effectively.
+- [High Agency Matters](https://addyosmani.com/blog/high-agency-matters/?utm_source=tldrwebdev) 👤 Addy Osmani 💬 9273 🔖 #cv, #career, #soft skills 🗓️ 2025-10-29
+    > **Заметка:** Основные тезисы тут: https://chatgpt.com/c/6943b950-9dd8-8332-ad41-be1b07e5daea
+    > **Резюме:** Taking initiative (agency) matters more than raw intelligence for long-term success. High-agency people act, learn from feedback, and turn ideas into results. Hire and teach agency because it’s rare, valuable, and can be developed.
 - [There is Only One Hack: Do it for a Decade.](https://www.joanwestenberg.com/p/there-is-only-one-hack-do-it-for-a-decade) 👤 JA Westenberg 💬 636 🔖 #toot, #career, #learning, #time management 🗓️ 2025-10-11
     > **Заметка:** "Working hard is fine, but framing it as a sprint suggests that achievement is about peak intensity rather than sustained presence. Six months of grinding is easy compared to six years of showing up. Anyone can do a hard sprint. What's tough: maintaining your focus when the initial excitement has worn off and you're in year three of a project with no clear end in sight."
     > **Резюме:** People chase quick productivity hacks but they only work briefly. Real results come from years of steady, boring work and showing up. Skip the shortcuts and build patience to keep working for a decade.

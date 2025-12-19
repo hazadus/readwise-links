@@ -1,13 +1,9 @@
 # Ссылки
 
-- Всего ссылок: 310
+- Всего ссылок: 309
 
 ## Ссылки
 
-- [hookify@claude-code-plugins](https://mays.co/optimizing-claude-code?utm_source=tldrdev) 👤 mays.co 💬 2278 🔖 #llm, #claude 🗓️ 2025-12-17
-    > **Резюме:** Claude Code can be customized into a project-aware specialist by adding settings, skills, hooks, commands, agent docs, and plugins.  
-Skills teach conventions, hooks enforce them, and CLAUDE.md supplies project context.  
-A few hours of setup yields far better, consistent results than the default.
 - [Sometimes It Really Is That Easy](https://davegriffith.substack.com/p/sometimes-it-really-is-that-easy) 👤 Dave Griffith 💬 1208 🔖 #llm, #devtools 🗓️ 2025-12-16
     > **Резюме:** Good developer tooling makes setup fast and reliable. AI can now generate those boring but vital scripts in minutes. That saves time, reduces friction, and speeds up onboarding and work.
 - [Memory as an AI superpower](https://davegriffith.substack.com/p/memory-as-an-ai-superpower) 👤 Dave Griffith 💬 2554 🔖 #llm 🗓️ 2025-12-16
@@ -28,8 +24,6 @@ Use AI to teach code and free seniors to mentor judgment, not to replace apprent
     > **Резюме:** Junior developers are often seen as costly because they take time to become productive, but AI tools can speed up their learning and reduce this costly ramp-up period. By managing juniors for learning with AI assistance, companies can increase the chances that juniors become valuable contributors faster and stay longer. This new approach makes hiring juniors a better investment and helps teams grow more effectively.
 - [Vibe coding is boring](https://cassidoo.co/post/vibe-coding-yawn/) 👤 cassidoo.co 💬 460 🔖 #llm 🗓️ 2025-12-15
     > **Резюме:** The author finds "vibe coding" — letting AI write code — useful but boring. They enjoy hands-on coding and the feeling of solving problems. Vibe coding is handy for simple projects but not fulfilling.
-- [If You’re Going to Vibe Code, Why Not Do It in C?](https://stephenramsay.net/posts/vibe-coding.html?utm_source=tldrdev) 👤 Stephen Ramsay 💬 1766 🔖 #llm, #clang 🗓️ 2025-12-12
-    > **Резюме:** The author loves programming but feels vibe coding takes away the fun and understanding of writing code. Despite this, vibe coding works well and may change the future of software development. They ask why we don’t use simpler languages like C or assembly for vibe coding and suggest we might need new languages designed specifically for it.
 - [AI Can Write Your Code. It Can’t Do Your Job.](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/) 👤 Terrible Software 💬 846 🔖 #llm, #toot, #llm-devimpact, #softwarecraft 🗓️ 2025-12-12
     > **Заметка:** "The engineers who understand that programming isn’t the job, the ones who bring judgment, context, and the ability to figure out what to build, those are the ones who stay."
     > **Резюме:** AI can write code, but it can’t replace the full job of a software engineer. The real work is judgment: figuring out problems, making trade-offs, and shipping reliable products. Engineers who use AI and focus on these higher skills will thrive.
@@ -76,12 +70,12 @@ He published it on GitHub and uses it to speed up Vue-focused workflows and iter
     > **Резюме:** Josh built small AI projects for fun and to explore "vibe coding."  
 He made tools like HN Slop, Claudius, Rate My Prompt, and Promptlet to make agents and prompts easier to use.  
 He says AI speeds the first 80% of work, but the final 20% and finding real users remain hard.
+- [Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/#atom-everything) 👤 Simon Willison 💬 1893 🔖 #llm, #try, #inspiration 🗓️ 2025-11-07
+    > **Резюме:** Simon Willison uses asynchronous coding agents like Claude Code and Codex to run code research projects that experiment and test ideas automatically. He gives these agents a dedicated GitHub repository with full network access so they can explore freely and report results via pull requests. This method saves time and helps discover what works by writing and executing real code.
 - [Burning out](https://www.interconnects.ai/p/burning-out?utm_source=substack&utm_medium=email) 👤 Nathan Lambert 💬 2007 🔖 #llm, #burnout, #llm-devimpact 🗓️ 2025-11-04
     > **Резюме:** AI work culture has become extreme, with many people overworking to stay competitive in LLM development. This intense pace raises burnout, harms creativity, and makes team culture and rest crucial. The author keeps pushing to improve open models despite the personal cost.
 - [Is it worrying that 95% of AI enterprise projects fail?](https://seangoedecke.com/why-do-ai-enterprise-projects-fail/) 👤 seangoedecke.com 💬 1660 🔖 #llm 🗓️ 2025-11-04
     > **Резюме:** A report claimed 95% of enterprise AI projects deliver no return. The author says that high failure rate is similar to ordinary IT projects and partly reflects AI being new and unusually complex. He also questions the report’s methods and expects AI to be transformative despite a likely bubble.
-- [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) 👤 Shrivu Shankar 💬 3126 🔖 #llm, #claude 🗓️ 2025-11-02
-    > **Резюме:** The author describes how they use Claude Code across docs, CLI tools, subagents, SDKs, and GitHub Actions. They emphasize a short, focused CLAUDE.md, prefer scripting/Task-based workflows over rigid subagents, and use the SDK for batch or prototype agents. GitHub Actions and careful permissions/timeouts help automate PRs and scale usage.
 - [How cheap, outsourced labour in Africa is shaping AI English](https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt) 👤 Alex Hern 💬 1508 🔖 #llm 🗓️ 2025-11-01
     > **Резюме:** Workers in Africa are being exploited to train AI systems, leading to the emergence of AI-ese that mirrors African English. AI hardware products like Rabbit Inc's R1 are entering the market to provide new ways of interacting with artificial intelligence. The development of AI language models like ChatGPT raises concerns about ethical practices and the impact on language diversity.
 - [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/) 👤 https://www.facebook.com/yusufaytas 💬 3975 🔖 #llm, #interview, #llm-devimpact 🗓️ 2025-11-01
@@ -175,10 +169,6 @@ It gives quick fixes instead of deep understanding, so people ship code they don
 He urges using AI intentionally: learn the output, keep practising, and let AI amplify thinking, not replace it.
 - [Some Thoughts on "AI"](https://ronjeffries.com/articles/-w025/y/l/) 👤 ronjeffries.com 💬 2445 🔖 #llm 🗓️ 2025-09-25
     > **Резюме:** The author says today's "AI" is mostly a very smart web search that does much of the grunt programming work. It can speed tasks like a junior helper but uses huge resources and can stop people from learning. The author has mixed feelings: he sometimes uses it but values thinking and worries about moral and practical costs.
-- [To vibe or not to vibe](https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html) 👤 Birgitta Böckeler 💬 1236 🔖 #llm 🗓️ 2025-09-24
-    > **Резюме:** Trusting AI to write code isn't a yes-or-no choice; it depends on risk.  
-Assess three things: how likely AI is wrong, how bad the impact would be, and how easily you will detect mistakes.  
-Use that judgment to choose how much to review and what safeguards to add.
 - [What I learned building an AI-driven spaced repetition app](https://seangoedecke.com/autodeck/) 👤 seangoedecke.com 💬 1666 🔖 #llm, #inspiration 🗓️ 2025-09-24
     > **Резюме:** I built AutoDeck, an AI app that generates an infinite, adaptive spaced-repetition flashcard feed for any topic. To keep it fast and varied I batch-generated cards and streamed them as XML chunks so each card appears as it’s made. LLM helpers sped development but needed expert fixes, and inference costs mean the app must charge users.
 - [When AI will browse the web for me](https://www.stefanjudis.com/notes/when-ai-will-browse-the-web-for-me/) 👤 stefanjudis.com 💬 399 🔖 #llm 🗓️ 2025-09-24
@@ -189,6 +179,9 @@ Strong code-review skills—seeing structure and alternatives—let you guide ag
 Using AI well means supervising its architecture choices, not just tweaking lines.
 - [AI is good news for Australian and European software engineers](https://seangoedecke.com/ai-is-good-news-for-australian-engineers/) 👤 seangoedecke.com 💬 600 🔖 #llm 🗓️ 2025-09-22
     > **Резюме:** Today engineers partner with LLMs: humans guide judgment while LLMs do the heavy work. Top LLMs are centralized and tend to be strained or unreliable during US peak hours. Hiring engineers in Australia and Europe lets companies use off-peak compute, keep work running overnight, and avoid peak outages.
+- [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/) 👤 Martin Fowler 💬 5715 🔖 #llm 🗓️ 2025-09-22
+    > **Заметка:** https://chatgpt.com/c/6944167a-ba0c-8333-a192-12b9eb877fed
+    > **Резюме:** The article discusses various patterns for building Generative AI (GenAI) products, including direct prompting, embeddings, and retrieval-augmented generation (RAG). It emphasizes the importance of evaluating LLM responses and using relevant document fragments to enhance the accuracy of the generated content. By combining different approaches, such as query rewriting and reranking, developers can improve the performance and relevance of LLM-based systems.
 - [I think “agent” may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/#atom-everything) 👤 Simon Willison 💬 1020 🔖 #llm, #agents 🗓️ 2025-09-19
     > **Резюме:** The word "agent" now has a clearer meaning in AI: it means an LLM uses tools repeatedly to reach a goal. This helps people talk about agents without confusion. Some old ideas, like agents replacing humans, are still not realistic.
 - [GPT‑5-Codex and upgrades to Codex](https://simonwillison.net/2025/Sep/15/gpt-5-codex/#atom-everything) 👤 Simon Willison 💬 456 🔖 #llm 🗓️ 2025-09-16
@@ -199,8 +192,6 @@ Disposable code is cheap and short-lived; durable code must be reliable, maintai
 AI speeds creation but cannot replace the tests, observability, and careful rollouts durable systems need.
 - [Models can prompt now](https://simonwillison.net/2025/Sep/14/models-can-prompt/#atom-everything) 👤 Simon Willison 💬 177 🔖 #llm 🗓️ 2025-09-15
     > **Резюме:** Modern AI models can now write prompts for themselves and others. This skill has improved because they learned from many good examples recently. The author believes this change is real, even without strong proof yet.
-- [I Miss Tabs vs Spaces... And Other AI Musings](https://wsvincent.com/i-miss-tabs-vs-spaces/) 👤 William Vincent 💬 1304 🔖 #llm 🗓️ 2025-09-13
-    > **Резюме:** Tabs versus spaces feels tiny next to the questions about AI. Developers use local models and agents to work faster, but they can hallucinate and need careful prompts. AI will change work and the economy, but it won’t replace human understanding and is often overhyped.
 - [Agentic AI and Security](https://blog.korny.info/2025/09/12/agentic-ai-and-security) 👤 Korny Sietsma 💬 2746 🔖 #llm 🗓️ 2025-09-13
     > **Резюме:** Agentic AI are LLM tools that act on their own and can run commands you did not write.  
 They are most dangerous when they can access private data, read untrusted content, and talk to the outside world.  
@@ -231,6 +222,11 @@ We should welcome AI while keeping some deliberate frictions to protect what mat
     > **Резюме:** LLMs can work like pair programmers: helpful, patient, and idea-sparking.  
 They can make work easier or more enjoyable and sometimes boost productivity.  
 But the author warns they cause systemic harms—environmental damage, job loss, extractive capitalism, and reduced learning—so he refuses to use them though he understands others might.
+- [Vibe coding is not the same as AI-Assisted engineering.](https://addyo.substack.com/p/vibe-coding-is-not-the-same-as-ai) 👤 Addy Osmani 💬 5554 🔖 #llm, #llm-devimpact 🗓️ 2025-09-05
+    > **Заметка:** https://chatgpt.com/c/69441c4d-0fc4-8332-82b9-c30bc29848dc
+    > **Резюме:** Vibe coding is free-flow prompting that lets AI write code with little planning.  
+It can speed prototypes but often creates hidden security, reliability, and maintenance risks in production.  
+AI-assisted engineering uses structured specs, testing, and review so teams keep AI productivity without the risks.
 - [Highlighted tools](https://simonwillison.net/2025/Sep/4/highlighted-tools/#atom-everything) 👤 Simon Willison 💬 743 🔖 #llm, #toot, #inspiration, #programming 🗓️ 2025-09-05
     > **Заметка:** Саймон рассказывает о своих многочисленных кастомных инструментах. Вдохновляющий материал!
     > **Резюме:** Simon Willison shares a big collection of small web tools built with vibe coding and AI help. He highlights useful ones like in-browser OCR, an annotated presentation creator, image crop/resize tools, Jina Reader, and an LLM pricing calculator. He used OpenAI Codex to add JavaScript that auto-expands a tool’s development history from the URL.
@@ -299,6 +295,10 @@ That mix of excitement and dread feels like a pilot’s flat spin.
     > **Резюме:** Agents don't reason — they do research and rely on good search.  
 They often try to please, causing confirmation bias, poor source judgment, and rabbit holes.  
 Humans must steer, double-check evidence, and correct agents because agents will update without ego.
+- [Instructor and Pydantic - Structured LLM outputs for easy data extraction!](https://www.youtube.com/watch?v=3xUW1Do9zOs) 👤 BugBytes 🔖 #llm 🗓️ 2025-08-23
+    > **Резюме:** Instructor and Pydantic turn LLM text into structured data.  
+Read a PDF, extract its text, and send it to the model.  
+The model returns validated invoice fields you can use in apps.
 - [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/) 👤 Armin Ronacher 💬 3530 🔖 #llm, #mcp 🗓️ 2025-08-23
     > **Резюме:** Instead of many tiny MCP tools, expose one tool that accepts code — a stateful Python interpreter using pexpect.  
 The MCP can drive interactive programs, fix mistakes, and dump the session as a reusable Python script.  
@@ -422,6 +422,7 @@ Even with optimistic numbers, retries and propagated mistakes can push the fract
 - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents) 👤 anthropic.com 💬 2551 🔖 #llm, #agents 🗓️ 2025-07-21
     > **Резюме:** Anthropic has learned from working with various teams to build effective AI agents using large language models (LLMs). They differentiate between workflows, which follow predefined paths, and agents that operate flexibly and autonomously. The article provides practical advice for developers on choosing the right approach and emphasizes the importance of simplicity and effective design in building these systems.
 - [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) 👤 Andrej Karpathy 🔖 #llm 🗓️ 2025-07-21
+    > **Заметка:** https://chatgpt.com/c/6943ed14-aa58-8326-8cc0-ec43eaf689dchttps://chatgpt.com/c/6943f78f-c1f0-832f-b8c3-7acaf54f0500
     > **Резюме:** You can use open-weight language models through inference providers like Together.AI. Together.AI offers a playground where you can try many different open models. Finding basic models is less common on these platforms.
 - [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration, #joyandcuriosity 🗓️ 2025-07-20
     > **Заметка:** Отличная подборка источников. На некоторые был подписан. На несколько подписался. 

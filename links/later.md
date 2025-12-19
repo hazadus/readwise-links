@@ -1,32 +1,29 @@
 # Отложенные ссылки
 
-- Всего ссылок: 126
+- Всего ссылок: 71
 
 ## Ссылки
 
-- [hookify@claude-code-plugins](https://mays.co/optimizing-claude-code?utm_source=tldrdev) 👤 mays.co 💬 2278 🔖 #llm, #claude 🗓️ 2025-12-17
-    > **Резюме:** Claude Code can be customized into a project-aware specialist by adding settings, skills, hooks, commands, agent docs, and plugins.  
-Skills teach conventions, hooks enforce them, and CLAUDE.md supplies project context.  
-A few hours of setup yields far better, consistent results than the default.
-- [Django RAPID architecture¶](https://www.django-rapid-architecture.org/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_315) 👤 django-rapid-architecture.org 💬 1092 🔖 #django 🗓️ 2025-12-16
+- [What happens when the coding becomes the least interesting part of the work](https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660) 👤 Obie Fernandez 💬 1894 🔖 #joyandcuriosity 🗓️ 2025-12-18
+    > **Заметка:** https://chatgpt.com/c/6944406d-4640-832a-b0c4-9df0c3a7cf6d
+    > **Резюме:** Senior engineering is mostly silent judgment, not typing code. Pairing with coding agents forces you to speak that judgment out loud, which improves decisions. That shift will make coding itself less valuable and reshape teams fast.
+- [How to prompt Nano Banana Pro](https://www.fofr.ai/nano-banana-pro-guide?utm_source=substack&utm_medium=email) 👤 fofr.ai 💬 1761 🔖 #joyandcuriosity 🗓️ 2025-12-18
+    > **Резюме:** Nano Banana Pro is a powerful, flexible image model that handles simple and complex prompts well. Use clear prompts, negatives, or JSON to control details and text. Add reference images for consistent characters, branding, or accurate real-world content.
+- [Django RAPID architecture](https://www.django-rapid-architecture.org/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_315) 👤 django-rapid-architecture.org 💬 1092 🔖 #django 🗓️ 2025-12-16
     > **Резюме:** Django RAPID is a concise set of patterns for building maintainable, scalable Django projects based on 15+ years of experience. It favors simple, predictable foundations that let systems grow without hidden complexity. The guide is flexible and prescriptive only where it matters, so teams can adopt what fits their workflow.
-- [Justified](https://www.bitecode.dev/p/justified) 👤 Bite Code! 💬 2039 🗓️ 2025-12-15
-    > **Резюме:** just is a simple cross-platform task runner that puts project commands in a .justfile. It lists and runs recipes so you don’t memorize long commands. It’s fast, portable, and supports parameters, platform-specific recipes, and env loading.
 - [Vue 3 Testing Pyramid: A Practical Guide with Vitest Browser Mode](https://alexop.dev/posts/vue3_testing_pyramid_vitest_browser_mode/) 👤 Alexander Opalic 💬 3336 🔖 #vue, #vitest, #testing 🗓️ 2025-12-15
     > **Резюме:** The post recommends a practical Vue 3 testing strategy that favors many fast composable unit tests and fewer, realistic integration tests run in Vitest browser mode. Use data factories, a createTestApp helper, and page objects to keep tests clear and maintainable. Add targeted accessibility and visual checks for critical screens and consider AI-driven exploratory QA as a complement.
-- [Building an AI QA Engineer with Claude Code and Playwright MCP](https://alexop.dev/posts/building_ai_qa_engineer_claude_code_playwright/) 👤 Alexander Opalic 💬 1193 🗓️ 2025-12-15
+- [Building an AI QA Engineer with Claude Code and Playwright MCP](https://alexop.dev/posts/building_ai_qa_engineer_claude_code_playwright/) 👤 Alexander Opalic 💬 1193 🔖 #mcp, #claude 🗓️ 2025-12-15
     > **Резюме:** Alexander Opalic built an AI QA engineer named Quinn that uses Claude Code and Playwright MCP to test web apps through the browser like a real user. Quinn runs on pull requests via GitHub Actions, clicks, types, resizes the viewport, and posts detailed bug reports with screenshots. This approach finds edge cases and complements but does not replace traditional unit and E2E tests.
 - [Vue Composables Style Guide: Lessons from VueUse's Codebase](https://alexop.dev/posts/vueuse_composables_style_guide/) 👤 Alexander Opalic 💬 2850 🔖 #vue 🗓️ 2025-12-15
     > **Резюме:** This guide shows patterns for building robust Vue 3 composables used in production.  
 Key ideas: flexible inputs (MaybeRefOrGetter), shallowRef for primitives, SSR safety, auto-cleanup, and pausable/stoppable patterns.  
 It also covers TypeScript typing, testing tips, and ready-to-use templates.
-- [If You’re Going to Vibe Code, Why Not Do It in C?](https://stephenramsay.net/posts/vibe-coding.html?utm_source=tldrdev) 👤 Stephen Ramsay 💬 1766 🔖 #llm, #clang 🗓️ 2025-12-12
-    > **Резюме:** The author loves programming but feels vibe coding takes away the fun and understanding of writing code. Despite this, vibe coding works well and may change the future of software development. They ask why we don’t use simpler languages like C or assembly for vibe coding and suggest we might need new languages designed specifically for it.
 - [The Anatomy of a macOS App](https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/?utm_source=tldrdev) 👤 The Eclectic Light Company 💬 739 🔖 #macos 🗓️ 2025-12-12
     > **Резюме:** macOS apps are self-contained bundles (.app) with a Contents folder holding executables, resources, and metadata like Info.plist. Apple added code signing, notarization, and receipts to protect and verify bundle contents. Bundles simplify installation, updates, removal, and improve security.
 - [Django Third-party App Ecosystem](https://frankwiles.com/posts/django-third-party-apps/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 frankwiles.com 💬 762 🔖 #django 🗓️ 2025-12-12
     > **Резюме:** Django has many useful third-party apps that can save you lots of time. Many developers—new and experienced—don’t know where to find them. The Django Steering Council made an Ecosystem Page and urges you to check it, follow a newsletter/podcast, and spend regular time exploring.
-- [Hexagonal Architecture for absolute beginners.](https://sushantdhiman.substack.com/p/hexagonal-architecture-for-absolute?utm_source=post-email-title&publication_id=3501228&post_id=180310942&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) 👤 Sushant Dhiman 💬 896 🗓️ 2025-11-30
+- [Hexagonal Architecture for absolute beginners.](https://sushantdhiman.substack.com/p/hexagonal-architecture-for-absolute?utm_source=post-email-title&publication_id=3501228&post_id=180310942&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) 👤 Sushant Dhiman 💬 896 🔖 #architecture 🗓️ 2025-11-30
     > **Резюме:** Hexagonal architecture isolates the core domain from frameworks and external systems.  
 It uses domain-defined ports and interchangeable adapters so databases or APIs can be swapped easily.  
 This makes code more portable, testable, and suitable for apps with multiple entry points.
@@ -38,7 +35,7 @@ This makes code more portable, testable, and suitable for apps with multiple ent
     > **Резюме:** A mechanical watch keeps time using a few key parts: a mainspring, gears, an escapement, and a balance wheel. The mainspring stores energy that travels through gear trains to drive the hands while the escapement and balance wheel regulate the speed. Additional mechanisms let you wind, set the time, and protect the movement from shocks.
 - [Dithering - Part 1](https://visualrambling.space/dithering-part-1/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 785 🔖 #joyandcuriosity 🗓️ 2025-11-30
     > **Резюме:** Dithering simulates many shades using only a few colors by arranging pixels into patterns. Ordered dithering compares pixel brightness to a threshold map to decide black or white. The series will explain threshold maps and error-diffusion algorithms in later parts.
-- [How WebSockets Work](https://www.deepintodev.com/blog/how-websockets-work?utm_source=tldrdev) 👤 Kaan Peksen 💬 1697 🗓️ 2025-11-30
+- [How WebSockets Work](https://www.deepintodev.com/blog/how-websockets-work?utm_source=tldrdev) 👤 Kaan Peksen 💬 1697 🔖 #websocket 🗓️ 2025-11-30
     > **Резюме:** WebSockets upgrade an HTTP connection to a persistent, full-duplex channel so server and client can send messages anytime. They shine for real-time apps like chat and multiplayer games but are stateful, harder to proxy and scale, and can be inefficient if you send large JSON frequently. Optimize by sending compact binary data and choose simpler options (EventSource or HTTP) when only server-to-client updates are needed.
 - [Shaders.](https://www.makingsoftware.com/chapters/shaders) 👤 makingsoftware.com 💬 4941 🗓️ 2025-11-30
     > **Резюме:** Shaders are small programs that run on the GPU to compute pixel colors. They run in a pipeline with different stages like vertex and fragment shaders. Fragment shaders use inputs like textures, normals, and uniforms to shade each pixel.
@@ -48,102 +45,45 @@ This makes code more portable, testable, and suitable for apps with multiple ent
     > **Резюме:** Traditional syntax highlighting creates many span elements, which slows rendering and uses more memory.  
 The CSS Custom Highlight API uses lightweight Range objects and CSS ::highlight rules to style text without changing the DOM, making rendering faster and leaner.  
 It works in modern browsers but needs fallbacks for older ones and only supports single text-node content.
-- [Some software bloat is OK](https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok?utm_source=tldrwebdev) 👤 WaspDev Blog 💬 1308 🗓️ 2025-11-12
-    > **Резюме:** Modern hardware makes some software bloat acceptable because it speeds development, improves safety, and adds features like globalization and isolation.  
-However, wasted dependencies, poor design, and over-engineering cause avoidable bloat and maintenance problems.  
-Choose good algorithms early and optimize hotspots when needed to avoid costly rewrites.
 - [The Case Against pgvector](https://alex-jacobs.com/posts/the-case-against-pgvector/?utm_source=tldrwebdev) 👤 Alex Jacobs 💬 2528 🔖 #postgresql 🗓️ 2025-11-12
     > **Резюме:** Pgvector makes vector search easy to try in Postgres but has serious production limits. Indexing, memory use, realtime inserts, and filtered queries are hard to manage and often require rebuilds or complex tuning. For most teams, a dedicated managed vector database is simpler and more reliable.
 - [Junior vs Senior: Building Modals in Vue](https://michaelnthiessen.com/junior-vs-senior-modals?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(242)+When+ref+and+reactive+work+the+same,+how+to+make+a+variable+created+outside+of+Vue+reactive,+and+more+-+19594812&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1564 🔖 #vue 🗓️ 2025-11-12
     > **Резюме:** Modals reveal how you think about building apps: juniors tie state and UI together, seniors separate concerns. Use a global data store, humble presentation components, and controller components to make modals scalable and testable. These patterns generalize beyond modals and change how you design Vue apps.
-- [Managing Your Manager](https://yusufaytas.com/managing-your-manager/) 👤 https://www.facebook.com/yusufaytas 💬 2404 🗓️ 2025-11-09
-    > **Резюме:** Managers face pressures you may not see, so learn how they think and what they must balance.  
-Make their job easier by bringing clear solutions, predictable updates, and adapting to their style.  
-Do this consistently and you gain trust, autonomy, and real influence.
-- [Game design is simple, actually](https://simonwillison.net/2025/Nov/7/game-design-is-simple-actually/#atom-everything) 👤 Simon Willison 💬 47 🗓️ 2025-11-08
-    > **Резюме:** Game design can be broken down into clear, simple principles. Raph Koster offers a twelve-step guide that explains how games create "fun." The guide is informative and full of helpful illustrations.
-- [Interview: Ken Case (OmniFocus)](https://www.joanwestenberg.com/p/interview-ken-case-omnifocus) 👤 JA Westenberg 💬 6152 🗓️ 2025-11-08
-    > **Резюме:** Ken Case, founder of Omni Group, describes building polished native productivity apps for Apple platforms from the NeXT days through Mac OS X. Omni is releasing a universal OmniOutliner and focuses on native apps while offering web versions for device flexibility. Their goal is to improve workflow across devices with unified development, shared outlines, and features that work everywhere.
-- [Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/#atom-everything) 👤 Simon Willison 💬 1893 🗓️ 2025-11-07
-    > **Резюме:** Simon Willison uses asynchronous coding agents like Claude Code and Codex to run code research projects that experiment and test ideas automatically. He gives these agents a dedicated GitHub repository with full network access so they can explore freely and report results via pull requests. This method saves time and helps discover what works by writing and executing real code.
-- [Everything you need to know to configure neovim using lua](https://vonheikemen.github.io/devlog/tools/configuring-neovim-using-lua/?utm_source=perplexity) 👤 vonheikemen.github.io 💬 3372 🔖 #lua, #vim 🗓️ 2025-11-05
-    > **Резюме:** The article explains how to migrate Neovim configuration from vimscript to Lua step by step.  
-It shows how to run Lua inside init.vim, call vimscript functions with vim.fn and vim.cmd, and manage options with vim.o/vim.opt.  
-It also covers plugins, keymaps, and creating user commands so you can mix Lua and vimscript during migration.
-- [Build your first Neovim configuration in lua](https://vonheikemen.github.io/devlog/tools/build-your-first-lua-config-for-neovim/?utm_source=perplexity) 👤 vonheikemen.github.io 💬 4212 🔖 #vim 🗓️ 2025-11-05
-    > **Резюме:** This tutorial teaches how to build a basic Neovim config using init.lua.  
-It covers options, keymaps, plugins (Lua and vimscript), and common plugin patterns.  
-It also shows creating commands, autocommands, and splitting config into modules.
-- [Lua for Programmers Part 1: Language Essentials](https://ebens.me/posts/lua-for-programmers-part-1/) 👤 Michael Ebens 💬 1142 🔖 #lua 🗓️ 2025-11-05
-    > **Резюме:** This series teaches Lua programming, starting with basic syntax and concepts in Part 1. It is designed for those who already know how to code, covering topics like loops, functions, and operators. Additional parts will explore data types, advanced concepts, and useful tips.
-- [Code execution with MCP: Building more efficient agents](https://simonwillison.net/2025/Nov/4/code-execution-with-mcp/#atom-everything) 👤 Simon Willison 💬 401 🗓️ 2025-11-05
-    > **Резюме:** Anthropic proposes turning MCP tools into code functions saved on disk so agents can call them without filling the model context. This lets agents generate executable code that wires tools together, avoiding token bloat, extra round-trips, and exposure of sensitive data. The plan is promising but Anthropic provided no implementation — readers must build it themselves.
 - [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html?utm_source=tldrwebdev) 👤 Ahmad Elalfy 💬 2340 🔖 #http, #webdev 🗓️ 2025-11-04
     > **Резюме:** URLs can and should hold app state so pages are shareable, bookmarkable, and restorable.  
 Good URL design makes intent, context, and caching explicit.  
 Put public, meaningful state in the URL and keep sensitive or transient state out.
-- [Kafka is fast -- I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks?utm_source=tldrwebdev) 👤 TopicPartition 💬 6636 🔖 #kafka, #postgresql 🗓️ 2025-11-04
-    > **Резюме:** Postgres is simple, reliable, and often good enough instead of deploying Kafka for small-to-medium pub-sub or queue workloads. Benchmarks show modest Postgres clusters can durably handle thousands to hundreds of thousands of messages per second with low latency. Use Postgres first and only add complex distributed systems like Kafka when you truly outgrow it.
-- [Absurd Workflows: Durable Execution With Just Postgres](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/) 👤 Armin Ronacher 💬 1030 🗓️ 2025-11-04
-    > **Резюме:** Armin Ronacher built Absurd, a tiny SQL-only library that implements durable workflows using just Postgres. It stores task state as checkpoints and uses Postgres queues so tasks survive crashes, suspends, and retries. The point: durable execution is simple and doesn’t need extra services or complex systems.
-- [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) 👤 Shrivu Shankar 💬 3126 🔖 #llm, #claude 🗓️ 2025-11-02
-    > **Резюме:** The author describes how they use Claude Code across docs, CLI tools, subagents, SDKs, and GitHub Actions. They emphasize a short, focused CLAUDE.md, prefer scripting/Task-based workflows over rigid subagents, and use the SDK for batch or prototype agents. GitHub Actions and careful permissions/timeouts help automate PRs and scale usage.
-- [You need to use the tools of the job you've chosen to do](https://www.baldurbjarnason.com/2025/use-the-tools-of-the-job-youve-chosen/) 👤 baldurbjarnason.com 💬 2917 🗓️ 2025-10-30
-    > **Резюме:** Journalistic tools like impartial sourcing and a neutral style are practical self-defence, not virtue signals. If you cover powerful people but skip those practices or have conflicts of interest, your work becomes easy to dismiss. To do honest, lasting scrutiny you must use real journalistic methods and avoid serving the subjects you should be checking.
-- [High Agency Matters](https://addyosmani.com/blog/high-agency-matters/?utm_source=tldrwebdev) 👤 Addy Osmani 💬 9273 🗓️ 2025-10-29
-    > **Резюме:** Taking initiative (agency) matters more than raw intelligence for long-term success. High-agency people act, learn from feedback, and turn ideas into results. Hire and teach agency because it’s rare, valuable, and can be developed.
-- [Diskcache, more than caching](https://www.bitecode.dev/p/diskcache-more-than-caching) 👤 Bite Code! 💬 1310 🗓️ 2025-10-20
-    > **Резюме:** Diskcache is a lightweight Python key/value store built on SQLite that acts like a local subset of Redis. It provides fast caching plus transactions, tagging, queues, locks, sharding, and tools to avoid race conditions. You can use it across processes for caching, simple queues, and coordinated concurrency.
-- [Using Asyncpg with FastAPI and Air](https://daniel.feldroy.com/posts/2025-10-using-asyncpg-with-fastapi-and-air) 👤 https://daniel.feldroy.com 💬 709 🔖 #fastapi 🗓️ 2025-10-20
-    > **Резюме:** The article shows how to use asyncpg directly with FastAPI and Air to talk to PostgreSQL without an ORM. It uses an ASGI lifespan function to create and close a connection pool on startup and shutdown. Examples show querying and inserting data, with Pydantic used to validate incoming input.
 - [How to build a remarkable command palette](https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email) 👤 Tim Boucher 💬 2747 🔖 #joyandcuriosity 🗓️ 2025-10-19
+    > **Заметка:** https://chatgpt.com/c/69442ca9-df50-8325-a6a9-ab2121ec93ae
     > **Резюме:** A command palette is a user interface tool that allows quick access to various commands, making it easier for users to discover features. To build an effective command palette, ensure it is available everywhere, centralizes all commands, and offers flexibility in command matching. By following these principles, you can create a powerful and user-friendly command palette that enhances productivity.
-- [Environment variables are a legacy mess: Let's dive deep into them](https://allvpv.org/haotic-journey-through-envvars/?utm_source=tldrwebdev) 👤 allvpv <Przemysław Kusiak> 💬 1567 🗓️ 2025-10-19
-    > **Резюме:** Environment variables are an old, flat way to pass string settings from parent to child processes. Different tools and libraries store and handle them in inconsistent, sometimes surprising ways. Best practice: use simple uppercase names like MY_VAR and UTF-8 values to avoid problems.
-- [Andrej Karpathy — AGI is still a decade away](https://simonwillison.net/2025/Oct/18/agi-is-still-a-decade-away/#atom-everything) 👤 Simon Willison 💬 615 🗓️ 2025-10-18
-    > **Резюме:** Andrej Karpathy believes true AI agents that can learn and work like humans are still about ten years away. Current AI models can handle simple, common tasks but struggle with complex, unique problems. He compares AI to digital spirits, different from natural brains, and says we should try to make them more like animals over time.
-- [I Miss when Software Ended](https://dayvster.com/blog/i-miss-when-software-ended/) 👤 Dayvi Schuster 💬 1832 🗓️ 2025-10-16
-    > **Резюме:** Software used to be something you owned, not rented. Subscriptions and nonstop updates have shifted control from users to companies. We need options that protect ownership, privacy, and user choice.
-- [Markdown link scripts for BBEdit](https://leancrew.com/all-this/2025/10/markdown-link-scripts-for-bbedit/) 👤 leancrew.com 💬 4163 🗓️ 2025-10-15
-    > **Резюме:** The author describes BBEdit AppleScripts that create Markdown reference-style links from URLs. Some scripts add new numbered references, others list or reuse existing references. One script also builds reference lists from all open Safari tabs.
-- [Just Talk To It - the no-bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it) 👤 Peter Steinberger 💬 4326 🔖 #llm 🗓️ 2025-10-15
-    > **Резюме:** Agentic engineering now writes almost all my code, and gpt-5-codex is my daily driver. Codex reads more of the repo, needs shorter prompts, and reliably completes tasks. I still think critically about design and only use AI where it truly helps.
-- [Как разработать техническую документацию, которая точно будет работать. Часть 2. DocOps в действии](https://habr.com/ru/companies/swordfish_security/articles/754780/) 👤 Хабр 💬 6187 🗓️ 2025-10-15
-    > **Резюме:** The text discusses developing technical documentation with versioning and choosing popular tools for documentation creation. It emphasizes setting up repositories, automated builds, and supporting multiple product versions. The process involves adapting tools to company needs, utilizing version control systems, and considering different documentation versions.
 - [Don't Sleep on AbortController](https://kettanaito.com/blog/dont-sleep-on-abort-controller) 👤 kettanaito.com 💬 45 🔖 #javascript 🗓️ 2025-10-14
     > **Резюме:** The article discusses the importance of using AbortController in managing asynchronous tasks in JavaScript. It highlights how this tool helps prevent memory leaks and improves performance by canceling ongoing operations. The author emphasizes that understanding and utilizing AbortController can enhance coding practices.
 - [How to group arrays in JavaScript without reduce()](https://allthingssmitty.com/2025/10/06/grouping-arrays-in-modern-javascript-object-groupby-and-map-groupby/) 👤 https://allthingssmitty.com/about/ 💬 810 🔖 #javascript 🗓️ 2025-10-14
     > **Резюме:** JavaScript now has Object.groupBy() and Map.groupBy() to group array items without reduce(). Object.groupBy() returns plain objects with string keys and is JSON-serializable. Map.groupBy() allows non-string keys and preserves insertion order.
-- [Multi-Core By Default](https://www.rfleury.com/p/multi-core-by-default?utm_source=substack&utm_medium=email) 👤 Ryan Fleury 💬 8120 🔖 #joyandcuriosity 🗓️ 2025-10-12
-    > **Резюме:** The author argues we should write code assuming multiple CPU cores by default, keeping multi-core constructs simple and similar to single-threaded code.  
-Use per-thread scopes, simple barriers, and shared arrays so work divides cleanly without heavy kernel or job-system overhead.  
-Callers can control how many cores to use, making parallelism cheap, predictable, and easy to debug.
-- [The least amount of CSS for a decent looking site](https://thecascade.dev/article/least-amount-of-css/?utm_source=tldrwebdev) 👤 Kevin Powell 💬 626 🔖 #css 🗓️ 2025-10-10
-    > **Резюме:** The article shows a tiny set of CSS rules that make a page look good without over-engineering. It fixes media overflow, improves typography, adds dark-mode support, and limits line length for readability. Use this minimal base as a simple starter to build from.
 - [Nuxt Environment Overrides: Clean Config for Every Environment](https://masteringnuxt.com/blog/nuxt-environment-overrides-clean-config-for-every-environment?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 621 🔖 #nuxt 🗓️ 2025-10-10
     > **Резюме:** Nuxt environment overrides let you cleanly define config for development, staging, testing, and production.  
 Overrides merge with a shared base so you avoid verbose NODE_ENV checks.  
 They use the c12 loader for flexible formats, smart merging, and hot-reload support.
 - [A pragmatic guide to modern CSS colours - part one](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-one/?ref=main-rss-feed) 👤 Piccalilli 💬 3032 🔖 #css 🗓️ 2025-10-07
     > **Резюме:** CSS colour syntax has evolved to new, simpler forms like space-separated rgb() and hsl() and a slash for alpha. Relative colours let you base new colours on existing ones and easily change alpha. New colour functions and spaces (e.g., color(), oklch(), color-mix()) give more control and better results.
-- [5 Core Distributed Concepts Every Developer Should Know](https://www.swequiz.com/blog/5-core-distributed-concepts-every-developer-should-know) 👤 swequiz.com 💬 2261 🗓️ 2025-10-05
+- [5 Core Distributed Concepts Every Developer Should Know](https://www.swequiz.com/blog/5-core-distributed-concepts-every-developer-should-know) 👤 swequiz.com 💬 2261 🔖 #interview, #softwaredesign 🗓️ 2025-10-05
+    > **Заметка:** https://chatgpt.com/c/69442f76-7f0c-8329-92ef-7720593132a9
     > **Резюме:** Distributed systems are crucial for modern applications, and developers should understand five core concepts to build and troubleshoot them effectively. Key principles include the CAP Theorem, fault tolerance, and strategies for reducing latency. By grasping these concepts, developers can create resilient and scalable applications.
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/?utm_source=tldrwebdev) 👤 kunststube.net 💬 6587 🗓️ 2025-10-02
+    > **Заметка:** https://chatgpt.com/c/6943f891-8688-8333-9150-757fa91f79b9https://chatgpt.com/c/69440d92-d190-8325-96c1-f00f5ad6d742
     > **Резюме:** To work with text in computers, understanding encodings and character sets is essential. Unicode is a standard that unifies different encoding schemes, like UTF-8 and UTF-16, which represent characters using varying numbers of bits. It's important to specify the encoding used for text, as incorrect handling can lead to unreadable documents.
 - [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/?utm_source=tldrwebdev) 👤 refactoringenglish.com 💬 3027 🔖 #joyandcuriosity 🗓️ 2025-10-02
     > **Резюме:** The author lists a few influential software essays that changed how they think about building software. These essays taught them to respect developers, prefer simple stable tools, and use language features (like types) to reduce bugs. Overall, the pieces made them value practical decisions over hype.
 - [Thoughts on Testing January 4, 2024](https://www.brandons.me/blog/thoughts-on-testing?utm_source=substack&utm_medium=email) 👤 Brandon Smith 💬 1461 🔖 #testing, #joyandcuriosity 🗓️ 2025-09-28
+    > **Заметка:** https://chatgpt.com/c/69443518-c530-8325-a699-674ac7465bfa
     > **Резюме:** Tests help but they cost time because they are code to write, maintain, and run.  
 Only write tests that add lasting value: prefer static analysis, check intent not implementation, and avoid fragile mocked checks.  
 Skip unit tests for UI rendering; test stable business logic, state, and reusable components instead.
-- [How Claude Code is built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built?utm_source=tldrwebdev) 👤 Gergely Orosz 💬 3739 🗓️ 2025-09-28
+- [How Claude Code is built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built?utm_source=tldrwebdev) 👤 Gergely Orosz 💬 3739 🔖 #claude 🗓️ 2025-09-28
+    > **Заметка:** https://chatgpt.com/c/6944236b-7bd0-8332-8f12-6cd3f37f1573
     > **Резюме:** Claude Code is an AI-first developer tool from Anthropic that most engineers use.  
 It’s a lightweight command-line shell around the Claude model, built with TypeScript and React.  
 The team prototypes rapidly and the model writes roughly 90% of the code, enabling fast feature iterations.
-- [Rules for creating good-looking user interfaces, from a developer](https://weberdominik.com/blog/rules-user-interfaces/?utm_source=tldrwebdev) 👤 weberdominik.com 💬 2484 🗓️ 2025-09-28
-    > **Резюме:** Use a good component library and keep its components unchanged.  
-Favor global consistency over local tweaks to save time and improve the product.  
-Simplify the UI: limit fonts and colors, match icon weight to text, and show only what users need.
 - [How to Build Your Own Vue-like Reactivity System from Scratch](https://alexop.dev/posts/how-to-build-your-own-vue-like-reactivity-system-from-scratch/) 👤 Alexander Opalic 💬 777 🔖 #typescript 🗓️ 2025-09-26
     > **Резюме:** The article builds simple ref() and watchEffect() functions to show how Vue-style reactivity works. It explains tracking dependencies with track, triggering updates with trigger, and storing effects in a depMap. The minimal system shows core concepts but omits production features like nested handling and optimizations.
 - [Vue 3.5's onWatcherCleanup: Mastering Side Effect Management in Vue Applications](https://alexop.dev/posts/vue-35s-onwatchercleanup-mastering-side-effect-management-in-vue-applications/) 👤 Alexander Opalic 💬 688 🔖 #vue 🗓️ 2025-09-26
@@ -165,147 +105,74 @@ Simplify the UI: limit fonts and colors, match icon weight to text, and show onl
     > **Резюме:** This blog post explains how to use Claude.ai's CSV analysis feature with Readwise data for better insights. It highlights the importance of crafting specific prompts to extract meaningful information and create visualizations. The tutorial also touches on the technical aspects of how Claude processes and analyzes the data.
 - [How to Do Visual Regression Testing in Vue with Vitest?](https://alexop.dev/posts/visual-regression-testing-with-vue-and-vitest-browser/) 👤 Alexander Opalic 💬 993 🔖 #vue, #vitest, #testing 🗓️ 2025-09-26
     > **Резюме:** Visual regression testing captures screenshots of Vue components and compares them to baseline images to catch unintended UI changes. Vitest’s experimental browser mode with Playwright renders stories in a real browser, takes screenshots, and compares them to baselines. It needs extra config and manual diff review, but helps keep the UI consistent and lets designers inspect changes.
-- [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents) 👤 anthropic.com 💬 3022 🗓️ 2025-09-25
-    > **Резюме:** Build and evaluate tools together with agents using prototypes and automated tests.  
-Use iterative agent feedback (e.g., Claude Code) to refine implementations and tool descriptions.  
-Prefer clear, narrowly scoped tools that return useful, token‑efficient context and fit real workflows.
-- [To vibe or not to vibe](https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html) 👤 Birgitta Böckeler 💬 1236 🔖 #llm 🗓️ 2025-09-24
-    > **Резюме:** Trusting AI to write code isn't a yes-or-no choice; it depends on risk.  
-Assess three things: how likely AI is wrong, how bad the impact would be, and how easily you will detect mistakes.  
-Use that judgment to choose how much to review and what safeguards to add.
-- [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/) 👤 Martin Fowler 💬 5715 🗓️ 2025-09-22
+- [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/) 👤 Martin Fowler 💬 5715 🔖 #llm 🗓️ 2025-09-22
+    > **Заметка:** https://chatgpt.com/c/6944167a-ba0c-8333-a192-12b9eb877fed
     > **Резюме:** The article discusses various patterns for building Generative AI (GenAI) products, including direct prompting, embeddings, and retrieval-augmented generation (RAG). It emphasizes the importance of evaluating LLM responses and using relevant document fragments to enhance the accuracy of the generated content. By combining different approaches, such as query rewriting and reranking, developers can improve the performance and relevance of LLM-based systems.
 - [How Google writes clean, maintainable code](https://engineercodex.substack.com/p/how-google-writes-clean-maintainable) 👤 Leo | Engineer's Codex 💬 1376 🗓️ 2025-09-18
     > **Резюме:** Google follows a process called Readability, which is a mentorship process for disseminating programming language best practices. Each pull request is reviewed for proper code style and best practices by a code readability approver. To earn readability, engineers must submit code to readability reviewers until they have adequate knowledge. This process helps keep the codebase readable, searchable, and predictable, and enforces best practices and style. However, there are drawbacks, such as potential velocity slowdown and human bias. The need for code quality is subjective and depends on the individual and team.
-- [Linking to text fragments with a bookmarklet](https://alexwlchan.net/2025/text-fragments-bookmarklet/?ref=rss) 👤 alexwlchan.net 💬 223 🗓️ 2025-09-15
-    > **Резюме:** Text fragments let you link to and highlight specific text on a webpage. The author made a bookmarklet that builds the correct fragment URL from selected text. It makes sharing precise links much easier.
-- [Building a Simple Virtual Machine](https://blog.phakorn.com/posts/2025/building-a-simple-vm/) 👤 Phakorn Kiong 💬 2249 🗓️ 2025-09-15
-    > **Резюме:** The VM is byte-addressable and uses a 64-bit stack to hold data.  
-Opcodes like PUSH1/PUSH8, STORE1/STORE8, LOAD8, ADD, and RETURN manipulate the stack and memory and are compiled into bytecode.  
-The program counter walks the bytecode, stores data (e.g., "Hello Wo") into memory, and RETURN reads a memory block by offset and size.
-- [Test state, not interactions](http://rednafi.com/go/test_state_not_interactions/) 👤 Redowan Delowar 💬 1542 🗓️ 2025-09-14
+- [Test state, not interactions](http://rednafi.com/go/test_state_not_interactions/) 👤 Redowan Delowar 💬 1542 🔖 #testing 🗓️ 2025-09-14
     > **Резюме:** Test outcomes and state, not which functions were called.  
 LLMs and mock-generated interaction tests are brittle and can miss real bugs.  
 Write the first tests yourself and prefer public-API tests with handwritten fakes or real test services.
-- [Why I Switched Back From VS Code to IntelliJ IDEA: A Developer's Journey](https://mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij-idea) 👤 Michael Hoffmann 💬 1310 🗓️ 2025-09-14
-    > **Резюме:** I switched back to IntelliJ because its built-in tools made daily work smoother.  
-IntelliJ’s Git, indexing, debugging, and database features save time and keep context.  
-VS Code is great for quick edits, but for full‑stack or large projects IntelliJ boosts long‑term productivity.
-- [I Miss Tabs vs Spaces... And Other AI Musings](https://wsvincent.com/i-miss-tabs-vs-spaces/) 👤 William Vincent 💬 1304 🔖 #llm 🗓️ 2025-09-13
-    > **Резюме:** Tabs versus spaces feels tiny next to the questions about AI. Developers use local models and agents to work faster, but they can hallucinate and need careful prompts. AI will change work and the economy, but it won’t replace human understanding and is often overhyped.
-- [Agentic AI and Security](https://blog.korny.info/2025/09/12/agentic-ai-and-security) 👤 Korny Sietsma 💬 2746 🔖 #llm 🗓️ 2025-09-13
-    > **Резюме:** Agentic AI are LLM tools that act on their own and can run commands you did not write.  
-They are most dangerous when they can access private data, read untrusted content, and talk to the outside world.  
-Limit agents’ external communication and access to public or untrusted content, and avoid agentic browser extensions and untrusted MCP servers.
-- [Why I Ditched Docker for Podman (And You Should Too)](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too?utm_source=tldrwebdev) 👤 Dominik Szymański 💬 2031 🗓️ 2025-09-12
-    > **Резюме:** I switched from Docker to Podman. Docker's persistent dockerd daemon felt like a security and reliability risk. Podman is rootless, integrates well with systemd and pods, and is mostly drop-in compatible, so migration was easy.
-- [Keeping Secrets Out of Logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/?utm_source=tldrwebdev) 👤 allan.reyes.sh 💬 6684 🗓️ 2025-09-12
-    > **Резюме:** Secrets often end up in logs and there is no single fix.  
-Prevent leaks by design: mark secrets at their sources and forbid them from logging sinks with types or taint checks.  
-Use layered defenses—tests, formatters, scanners, and people—to catch what slips through.
-- [Tunneling SSH over HTTPS](https://blog.frost.kiwi/ssh-over-https-tunneling/) 👤 Wladislav Artsimovich 💬 7549 🗓️ 2025-09-12
-    > **Резюме:** Many networks block direct SSH but allow HTTPS.  
-Using HTTP CONNECT with tools like corkscrew or proxytunnel lets you tunnel SSH through the proxy by relaying raw TCP.  
-Wrapping the tunnel in TLS (HTTPS) hides SSH from packet inspection and helps bypass stricter blocks.
-- [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/?utm_source=tldrwebdev) 👤 Wladislav Artsimovich 💬 5898 🗓️ 2025-09-12
-    > **Резюме:** The article shows how to implement realtime blurs on the GPU with WebGL and why performance matters.  
-Box and Gaussian blurs can be slow or artifact-prone, while separable, frequency, and downsample methods speed things up with trade-offs.  
-Dual Kawase Blur uses iterative diagonal sampling plus down/upsampling to give fast, motion-stable, Gaussian-like results used in games.
-- [On Working with Wizards](https://www.oneusefulthing.org/p/on-working-with-wizards) 👤 Ethan Mollick 💬 2149 🗓️ 2025-09-12
-    > **Резюме:** AI is moving from co-workers to wizards that produce impressive but opaque results.  
-That makes it hard to check work and erodes our expertise.  
-We need a new literacy to know when to summon the wizard, when to collaborate, and how to judge its output.
-- [A new experimental Go API for JSON](https://go.dev/blog/jsonv2-exp) 👤 go.dev 💬 3099 🔖 #go 🗓️ 2025-09-10
-    > **Резюме:** Go 1.25 introduces an experimental JSON API with encoding/json/v2 and encoding/json/jsontext to improve JSON handling in Go. These new packages offer better streaming, performance, and customization compared to the original encoding/json. The goal is to eventually replace the old API while keeping backward compatibility and involving the Go community.
 - [Why I Delete Every Unanswered Email, Every Month](https://www.joanwestenberg.com/p/why-i-delete-every-unanswered-email-every-month) 👤 Joan Westenberg 💬 1372 🗓️ 2025-09-09
     > **Резюме:** The author deletes every unanswered email at the end of each month. She rejects the pressure to always reply and protects time for deep work. Important messages will return; most emails are not worth the cost.
-- [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html) 👤 matklad.github.io 💬 4435 🗓️ 2025-09-08
+- [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html) 👤 matklad.github.io 💬 4435 🔖 #testing 🗓️ 2025-09-08
     > **Резюме:** Testing helps keep software working when making changes. Good tests focus on features, not code details, and should be easy to update. Slow or flaky tests make refactoring hard, so testing speed and reliability matter a lot.
-- [Vibe coding is not the same as AI-Assisted engineering.](https://addyo.substack.com/p/vibe-coding-is-not-the-same-as-ai) 👤 Addy Osmani 💬 5554 🗓️ 2025-09-05
-    > **Резюме:** Vibe coding is free-flow prompting that lets AI write code with little planning.  
-It can speed prototypes but often creates hidden security, reliability, and maintenance risks in production.  
-AI-assisted engineering uses structured specs, testing, and review so teams keep AI productivity without the risks.
 - [Rich Pixels](https://simonwillison.net/2025/Sep/2/rich-pixels/#atom-everything) 👤 Simon Willison 💬 124 🗓️ 2025-09-02
     > **Резюме:** Rich Pixels is a Python library that shows images in the terminal using colored blocks. It uses Unicode characters to display two pixels with different colors in one block. A script called show_image.py resizes and shows images in the terminal using this library.
-- [Passkeys and Modern Authentication](https://lucumr.pocoo.org/2025/9/2/passkeys/) 👤 Armin Ronacher 💬 1184 🗓️ 2025-09-02
-    > **Резюме:** Passkeys are replacing passwords and can improve security for most people.  
-But attestation, non-exportable keys, and auto-enrollment can enable ecosystem lock-in.  
-That risks losing account access, reducing user control, and hurting families and developers.
 - [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/?utm_source=substack&utm_medium=email) 👤 cedardb.com 💬 2009 🔖 #joyandcuriosity 🗓️ 2025-08-31
     > **Резюме:** German Strings use a single 128-bit layout to represent any string.  
 Strings of 12 or fewer characters are stored inline; longer strings store a length, a pointer, and a four-character prefix for fast checks.  
 They are immutable and support persistent, transient, and temporary storage classes to cut copies and speed reads, but appending is costly and lifetimes must be managed.
-- [The McPhee method](https://jsomers.net/blog/the-mcphee-method?utm_source=substack&utm_medium=email) 👤 James Somers 💬 4008 🔖 #joyandcuriosity 🗓️ 2025-08-31
-    > **Резюме:** McPhee gathers all his reporting up front: notes, transcripts, and excerpts. He then labels, sorts, and arranges those notes into a clear structure before he writes. With the structure set, he drafts quickly and then revises and fact-checks.
-- [The Friendship That Made Google Huge | The New Yorker](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge?utm_source=substack&utm_medium=email) 👤 James Somers 💬 6675 🔖 #joyandcuriosity 🗓️ 2025-08-31
-    > **Резюме:** Jeff Dean and Sanjay Ghemawat wrote core software that changed Google and the Internet.  
-Side-by-side they built MapReduce to speed search and later created TensorFlow for AI.  
-Their friendship and complementary skills let other engineers build huge distributed systems and AI.
 - [Rolling the Dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/?utm_source=tldrwebdev) 👤 Jen Simmons 💬 1846 🔖 #css 🗓️ 2025-08-30
     > **Резюме:** CSS now has a random() function to create random values for position, size, color, and rotation.  
 The article demos star fields, random rectangles, and rotated image stacks.  
 You can share randomness per-property, per-element, or globally with idents or element-shared, and try it in Safari Technology Preview.
-- [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/) 👤 lyra's epic blog 💬 1071 🔖 #css 🗓️ 2025-08-30
-    > **Резюме:** Modern JavaScript frameworks add huge bloat and slow sites.  
-Plain HTML and new CSS features like nesting and color functions can do a lot of the same work.  
-The author wants to show these alternatives so you can choose when JavaScript is truly needed.
-- [Git: count files in a repository](https://adamj.eu/tech/2025/08/29/git-count-files/) 👤 adamj.eu 💬 340 🔖 #git 🗓️ 2025-08-30
-    > **Резюме:** Count committed files with Git so you ignore generated or downloaded files.  
-Run: git ls-files -z | tr -d -c '\0' | wc -c — null bytes prevent errors from filenames with newlines.  
-Use git ls-files '<pattern>' | wc -l to count types or git ls-files ':!<pattern>' to exclude files.
 - [Python: The Documentary | An origin story](https://youtube.com/watch?v=GfH4QL4VqJ0&si=W-p_AVfiGeQIwieQ) 👤 CultRepo (formerly Honeypot) 🗓️ 2025-08-28
+    > **Заметка:** https://chatgpt.com/c/69440890-ba90-832c-98ff-78a551d8c866
     > **Резюме:** Python began as Guido van Rossum's small project.  
 A supportive community and conferences helped it grow into a major tool for science and data.  
 The hard move from Python 2 to 3 proved the community's strength and spread Python further.
-- [Wicked Python trickery - dynamically patch a Python function's source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/?utm_source=tldrwebdev) 👤 Eric J. Ma 💬 2315 🔖 #python 🗓️ 2025-08-27
-    > **Резюме:** This blog explains how to change a Python function's code while the program runs using compile and exec. The author built ToolBot, which can create and run new functions that use current variables. This method is powerful but has security risks and should be used carefully.
 - [Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html) 👤 Ben O'Mahony 💬 2899 🔖 #llm, #agents 🗓️ 2025-08-27
     > **Резюме:** They built a CLI coding agent using Pydantic‑AI and MCP that reads code, runs tests, and edits files. MCP servers add sandboxed Python, code reasoning, and file/terminal tools so the model can act. The result is faster, context‑aware development that works best when tailored to your codebase.
-- [The Difference Between a Post Flush Watcher and nextTick in Vue](https://michaelnthiessen.com/the-difference-between-a-post-flush-watcher-and-nexttick?ck_subscriber_id=2108193410&utm_campaign=The+Difference+Between+a+Post+Flush+Watcher+and+nextTick+in+Vue+-+18711361&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1110 🗓️ 2025-08-24
+- [The Difference Between a Post Flush Watcher and nextTick in Vue](https://michaelnthiessen.com/the-difference-between-a-post-flush-watcher-and-nexttick?ck_subscriber_id=2108193410&utm_campaign=The+Difference+Between+a+Post+Flush+Watcher+and+nextTick+in+Vue+-+18711361&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1110 🔖 #vue 🗓️ 2025-08-24
     > **Резюме:** A post-flush watcher and nextTick both wait until after the DOM updates. The only difference is timing: nextTick runs one microtask later and therefore runs after post-flush watchers. In practice this rarely matters unless you need a strict execution order.
 - [What Learning React Won't Teach You: Image Formats](https://idiallo.com/blog/react-and-image-format?utm_source=tldrwebdev) 👤 Ibrahim Diallo 💬 1241 🗓️ 2025-08-24
     > **Резюме:** Image format choices have a huge impact on site speed and bandwidth. Use JPEG for photos, PNG for simple graphics and transparency, and SVG for scalable icons and logos. React guides often skip this, so developers unknowingly bloat apps and hurt user experience.
-- [Instructor and Pydantic - Structured LLM outputs for easy data extraction!](https://www.youtube.com/watch?v=3xUW1Do9zOs) 👤 BugBytes 🗓️ 2025-08-23
+- [Instructor and Pydantic - Structured LLM outputs for easy data extraction!](https://www.youtube.com/watch?v=3xUW1Do9zOs) 👤 BugBytes 🔖 #llm 🗓️ 2025-08-23
     > **Резюме:** Instructor and Pydantic turn LLM text into structured data.  
 Read a PDF, extract its text, and send it to the model.  
 The model returns validated invoice fields you can use in apps.
-- [Commit Messages That Write Themselves](https://newsletter.appliedgo.net/archive/2025-08-17-commit-messages-that-write-themselves/) 👤 The Applied Go Weekly Newsletter 💬 1485 🔖 #go, #git 🗓️ 2025-08-17
-    > **Резюме:** A small Go tool reads your staged git diff and uses an LLM to generate Conventional Commit messages.  
-It uses LangChainGo so you can swap providers, asks the model for JSON output, and caps diffs to save tokens.  
-This issue wraps up the Go & AI mini‑series and asks readers to take a short feedback survey.
-- [Why I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html?utm_source=tldrwebdev) 👤 xvw, Xavier Van de Woestyne 💬 11234 🗓️ 2025-08-16
-    > **Резюме:** OCaml is a versatile and evolving programming language that combines strong static typing with multiple programming paradigms. It has a rich ecosystem, good tooling, and can compile to various targets like JavaScript and WebAssembly. The supportive community and practical features make OCaml a great choice for both learning and professional development.
 - [Another article about centering in CSS](https://piccalil.li/blog/another-article-about-centering-in-css/?ref=main-rss-feed) 👤 Piccalilli 💬 1236 🔖 #css 🗓️ 2025-08-14
     > **Резюме:** Centering in CSS is easier than ever with many options like grid and flexbox, but choosing one clear method is key. Using parent-based layouts with grid or flexbox is better than mixing child and parent alignment. Avoid positioning for centering unless you fully control the parent, and focus on simple, consistent principles for your team.
-- [Building a web search engine from scratch in two months with 3 billion neural embeddings](https://blog.wilsonl.in/search-engine/?utm_source=tldrwebdev) 👤 Wilson Lin 💬 8008 🗓️ 2025-08-13
-    > **Резюме:** The author built a powerful web search engine using 3 billion neural embeddings in just two months. It can understand complex queries and delivers fast, accurate results by using advanced indexing and embedding techniques. This project shows that neural embeddings can greatly improve search quality compared to traditional methods.
 - [What are Effect Scopes in Vue?](https://michaelnthiessen.com/what-are-effect-scopes-in-vue?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(230)+What+are+Effect+Scopes+in+Vue?+-+18611005&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1063 🔖 #vue, #nuxt 🗓️ 2025-08-13
     > **Резюме:** Effect scopes in Vue group related reactive effects so they can be stopped and cleaned up easily. This helps prevent memory leaks and bugs by controlling how long effects live. They are used inside components and also for advanced patterns like shared composables.
 - [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #testing, #postgresql 🗓️ 2025-08-10
     > **Заметка:** From Thorsten Ball interview
+
+https://chatgpt.com/c/69442a9a-f300-832f-ab30-b4c986167b5d
     > **Резюме:** This article explains how to use ephemeral PostgreSQL instances for automated testing in Go, which can reduce resource usage and speed up test times. By starting a single PostgreSQL instance for all tests instead of multiple instances, developers can improve efficiency and maintainability. Additionally, optimizing the Go test caching behavior can further decrease test runtime significantly.
-- [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html?utm_source=substack&utm_medium=email) 👤 a1k0n.net 💬 2469 🔖 #joyandcuriosity 🗓️ 2025-08-10
+- [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html?utm_source=substack&utm_medium=email) 👤 a1k0n.net 💬 2469 🔖 #clang, #joyandcuriosity 🗓️ 2025-08-10
+    > **Заметка:** https://chatgpt.com/c/69442e05-97d4-8326-9abd-65eaf57c19a4
     > **Резюме:** The code draws a spinning 3D donut using ASCII characters by projecting 3D points onto a 2D screen with math involving rotations and perspective. It calculates the brightness of each point based on lighting and chooses characters to show shading. This creates a cool visual effect of a rotating donut made from simple text symbols.
-- [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) 👤 Redowan Delowar 💬 1179 🔖 #go 🗓️ 2025-08-04
+- [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) 👤 Redowan Delowar 💬 1179 🔖 #go, #patterns 🗓️ 2025-08-04
+    > **Заметка:** https://chatgpt.com/c/694438ad-68b0-832f-91bf-a2c4f204944e
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
 - [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) 👤 Software Engineering & Personal Thoughts 💬 1511 🔖 #go 🗓️ 2025-08-04
     > **Резюме:** This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.
 - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/) 👤 Simon Willison 💬 4839 🗓️ 2025-07-27
     > **Резюме:** Embeddings turn content like text or images into numbers that capture their meaning. They help computers find and compare similar information quickly. This technology powers tools like search engines and question-answering systems.
-- [From Async/Await to Virtual Threads](https://lucumr.pocoo.org/2025/7/26/virtual-threads/) 👤 Armin Ronacher 💬 1974 🗓️ 2025-07-27
-    > **Резюме:** The article discusses how virtual threads could simplify Python concurrency by replacing complex async/await patterns with a clearer thread-based model. It highlights the benefits of structured concurrency and how virtual threads can improve cancellation and error handling. The author suggests this approach could make concurrent programming easier by moving complexity into the runtime instead of the user’s code.
 - [Getting Real](http://gettingreal.37signals.com/) 👤 basecamp.com 💬 426 🔖 #book 🗓️ 2025-07-24
     > **Резюме:** "Getting Real" by 37signals is a valuable resource for anyone creating a web app, offering simple insights and unique ideas. It focuses on practical approaches to software design rather than technical details. Readers from various backgrounds, including entrepreneurs and designers, will find inspiration in its unconventional wisdom.
 - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/?from=newsletter) 👤 Josh W. Comeau 💬 3091 🗓️ 2025-07-21
     > **Резюме:** SVG is a special image format that uses shapes like circles and lines written in code. It can be styled and animated using CSS and JavaScript, making it very powerful. SVG images stay sharp no matter how much you zoom in, which is great for web design.
 - [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) 👤 Andrej Karpathy 🔖 #llm 🗓️ 2025-07-21
+    > **Заметка:** https://chatgpt.com/c/6943ed14-aa58-8326-8cc0-ec43eaf689dchttps://chatgpt.com/c/6943f78f-c1f0-832f-b8c3-7acaf54f0500
     > **Резюме:** You can use open-weight language models through inference providers like Together.AI. Together.AI offers a playground where you can try many different open models. Finding basic models is less common on these platforms.
 - [MacPaint Art From The Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html) 👤 https://decryption.net.au 💬 266 🔖 #joyandcuriosity 🗓️ 2025-07-20
     > **Резюме:** The author explored thousands of MacPaint images from the early 1980s and found impressive digital art. They want to learn more about the artists and also plan to explore similar art on the Amiga computer. For those interested, there are resources like Discmaster and a book called Zen & The Art of The Macintosh to help create this style of art.
 - [Mind Management, Not Time Management](private://read/01jy2bx4yjy7cc3fb6cs5zy8ma) 👤 David Kadavy 💬 72204 🗓️ 2025-06-18
     > **Резюме:** David Kadavy emphasizes the importance of managing mental states over time when working on creative projects. He identifies seven mental states and encourages finding a "Creative Sweet Spot" for when to generate ideas. By experimenting with focused time, especially in the morning, you can enhance creativity and productivity.
-- [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles) 👤 Atlassian 💬 710 🔖 #git, #try 🗓️ 2025-06-06
-    > **Резюме:** This tutorial explains a simple way to store dotfiles using a Git bare repository. It involves creating an alias that allows you to manage your configuration files without interfering with other Git repositories. By following the steps provided, you can easily version and replicate your configurations across different systems.
 - [PostgreSQL как эффективная база для документных данных](https://youtube.com/watch?v=l8__4kI4zgU&si=FWi3JO7IruJno-N8) 👤 Health Samurai Team 🔖 #postgresql 🗓️ 2025-05-31
     > **Резюме:** PostgreSQL is an effective database for storing document data, allowing for efficient querying and indexing. It supports JSONB for handling complex documents and provides various operators for accessing specific fields. The system can handle large datasets and offers the flexibility to adapt as data grows, making it a robust choice for developers.
 - [JavaScript, what is this?](https://piccalil.li/blog/javascript-what-is-this/?ref=main-rss-feed) 👤 Mat “Wilto” Marquis 💬 3410 🔖 #javascript 🗓️ 2025-05-10
@@ -313,16 +180,9 @@ This issue wraps up the Go & AI mini‑series and asks readers to take a short f
 - [JavaScript, when is this?](https://piccalil.li/blog/javascript-when-is-this/?ref=main-rss-feed) 👤 Piccalilli 💬 1770 🔖 #javascript 🗓️ 2025-05-02
     > **Резюме:** In JavaScript, the value of "this" depends on how a function is called, not how it is written. When a function is executed, JavaScript creates an execution context that determines the value of "this" based on the calling context. Understanding JavaScript's execution model is key to grasping how "this" works in different situations.
 - [Celebrating 50 years of Microsoft | Bill Gates](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code) 👤 Bill Gates 💬 5503 🗓️ 2025-04-04
+    > **Заметка:** https://chatgpt.com/c/69441e02-9780-8329-87c1-3b4aef7af67d
     > **Резюме:** Bill Gates reflects on the 50th anniversary of Microsoft, starting with the creation of Altair BASIC in 1975. He shares his pride in how this early code led to a revolution in computing and the company's immense success. Gates also acknowledges the influential teachers who helped shape his journey into the world of technology.
-- [🔥uv — швейцарский нож Python-разработчика](https://youtu.be/0Osso8mLL-A) 👤 Диджитализируй! 🔖 #uv 🗓️ 2025-03-17
-    > **Резюме:** uv is a powerful package manager for Python developers that simplifies working with different Python versions and dependencies. It allows you to manage project environments without manually creating virtual environments. This tool is highly recommended for efficient dependency management in Python projects.
-- [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/) 👤 GitButler 💬 3188 🔖 #git 🗓️ 2025-02-25
-    > **Резюме:** The author shares lesser-known Git configuration settings that core Git developers recommend for better performance. These settings include adjusting default branch names, improving diff algorithms, and enhancing push and fetch behavior. By enabling these options, users can streamline their Git experience and make it more efficient.
 - [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](private://read/01jg1e2q7yj2698nhna2kjbce4) 👤 Ahrens, Sönke 💬 56774 🔖 #pkm, #basb, #outline, #learning, #inspiration 🗓️ 2024-12-26
     > **Резюме:** The book "How to Take Smart Notes" by Sönke Ahrens emphasizes the importance of effective note-taking for improving writing, learning, and thinking. By using a slip-box system, individuals can organize their ideas and connect them, enhancing their understanding and creativity. This method promotes active engagement with material and transforms notes into a valuable resource for future writing.
-- [Grep by example: Interactive guide](https://antonz.org/grep-by-example/) 👤 Anton Zhiyanov 💬 1837 🗓️ 2025-05-03
-    > **Резюме:** The interactive guide to using grep explains how to search for text patterns efficiently. It covers basics like searching for patterns in files, using regular expressions for advanced searches, and searching for fixed strings. The guide also delves into handling multiple patterns, recursive searches, and various output options like counting matches, limiting results, and displaying only relevant parts of the output. Additionally, it provides insights on using grep options to ignore case sensitivity, invert matches, and customize output formats for different search scenarios.
-- [PostgreSQL: как связь 1 к 1 ускоряет базу данных? Разбираемся во внутренней работе СУБД](https://www.youtube.com/watch?v=Pk125DazUyI) 👤 Диджитализируй! 🔖 #postgresql 🗓️ 2024-11-05
-    > **Резюме:** Связь один к одному в базах данных PostgreSQL помогает оптимизировать работу с данными. Это позволяет разделять часто и редко используемые данные, улучшая производительность системы. Используйте эту связь, чтобы сделать свои базы данных более эффективными.
-- [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/) 👤 joshwcomeau.com 💬 3746 🗓️ 2025-09-06
+- [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/) 👤 joshwcomeau.com 💬 3746 🔖 #javascript 🗓️ 2025-09-06
     > **Резюме:** The text discusses the importance of understanding Promises in JavaScript for modern web development. Promises allow for asynchronous operations and help avoid callback nesting. Modern JavaScript features like async/await simplify handling asynchronous tasks.
