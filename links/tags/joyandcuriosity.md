@@ -4,10 +4,12 @@
 
 ## Ссылки
 
-- [What happens when the coding becomes the least interesting part of the work](https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660) 👤 Obie Fernandez 💬 1894 🔖 #joyandcuriosity 🗓️ 2025-12-18
-    > **Заметка:** https://chatgpt.com/c/6944406d-4640-832a-b0c4-9df0c3a7cf6d
+- [What happens when the coding becomes the least interesting part of the work](https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660) 👤 Obie Fernandez 💬 1894 🔖 #llm-devimpact, #softwarecraft, #joyandcuriosity 🗓️ 2025-12-18
+    > **Заметка:** Автор известен в сообществе Ruby. В посте есть глубокие мысли по будущему разработки с LLM.
+
+https://chatgpt.com/c/6944406d-4640-832a-b0c4-9df0c3a7cf6d
     > **Резюме:** Senior engineering is mostly silent judgment, not typing code. Pairing with coding agents forces you to speak that judgment out loud, which improves decisions. That shift will make coding itself less valuable and reshape teams fast.
-- [How to prompt Nano Banana Pro](https://www.fofr.ai/nano-banana-pro-guide?utm_source=substack&utm_medium=email) 👤 fofr.ai 💬 1761 🔖 #joyandcuriosity 🗓️ 2025-12-18
+- [How to prompt Nano Banana Pro](https://www.fofr.ai/nano-banana-pro-guide?utm_source=substack&utm_medium=email) 👤 fofr.ai 💬 1761 🔖 #llm, #joyandcuriosity 🗓️ 2025-12-18
     > **Резюме:** Nano Banana Pro is a powerful, flexible image model that handles simple and complex prompts well. Use clear prompts, negatives, or JSON to control details and text. Add reference images for consistent characters, branding, or accurate real-world content.
 - [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default?utm_source=substack&utm_medium=email) 👤 Thomas Paul Mann 💬 1054 🔖 #codereview, #joyandcuriosity 🗓️ 2025-11-30
     > **Резюме:** At Raycast, engineers can push code directly to the main branch without mandatory reviews, fostering a culture of trust and rapid iteration. While code reviews are optional, they are requested when necessary, especially for significant changes or for new team members. This approach allows for quick feedback and continuous updates, helping the team to efficiently build and improve their product.

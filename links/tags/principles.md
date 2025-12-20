@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [Programming principles for self taught front-end developers](https://piccalil.li/blog/programming-principles-for-self-taught-front-end-developers/) 👤 Piccalilli 💬 3138 🔖 #principles 🗓️ 2025-12-19
+    > **Резюме:** Good code is easy to read and reason about, not just fast or clever.  
+Write working simple code first, avoid premature optimization, and only generalize after seeing the same code three times.  
+Keep functions focused: one responsibility and one level of abstraction.
 - [Duplicate code isn’t that bad](https://yusufaytas.com/duplicate-code-isnt-bad/) 👤 https://www.facebook.com/yusufaytas 💬 544 🔖 #principles 🗓️ 2025-10-04
     > **Резюме:** Duplicate code is not always bad if it improves readability and keeps tests simple. Prematurely removing duplicates can make code complex, so wait until the codebase matures and tests guide refactoring. The goal is maintainable, understandable code, not strict adherence to principles.
 - [Essential Engineering Principles](https://yusufaytas.com/essential-engineering-principles/) 👤 https://www.facebook.com/yusufaytas 💬 550 🔖 #principles 🗓️ 2025-10-04

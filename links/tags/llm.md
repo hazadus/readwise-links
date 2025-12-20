@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 309
+- Всего ссылок: 311
 
 ## Ссылки
 
+- [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything) 👤 Simon Willison 💬 837 🔖 #llm, #llm-devimpact, #softwarecraft 🗓️ 2025-12-19
+    > **Резюме:** Your job as a developer is to deliver code you have proven works.  
+Prove it with manual tests (show steps or recordings) and automated tests that fail if the change is removed.  
+If you use coding agents, make them run and test their changes, but you remain accountable.
+- [How to prompt Nano Banana Pro](https://www.fofr.ai/nano-banana-pro-guide?utm_source=substack&utm_medium=email) 👤 fofr.ai 💬 1761 🔖 #llm, #joyandcuriosity 🗓️ 2025-12-18
+    > **Резюме:** Nano Banana Pro is a powerful, flexible image model that handles simple and complex prompts well. Use clear prompts, negatives, or JSON to control details and text. Add reference images for consistent characters, branding, or accurate real-world content.
 - [Sometimes It Really Is That Easy](https://davegriffith.substack.com/p/sometimes-it-really-is-that-easy) 👤 Dave Griffith 💬 1208 🔖 #llm, #devtools 🗓️ 2025-12-16
     > **Резюме:** Good developer tooling makes setup fast and reliable. AI can now generate those boring but vital scripts in minutes. That saves time, reduces friction, and speeds up onboarding and work.
 - [Memory as an AI superpower](https://davegriffith.substack.com/p/memory-as-an-ai-superpower) 👤 Dave Griffith 💬 2554 🔖 #llm 🗓️ 2025-12-16

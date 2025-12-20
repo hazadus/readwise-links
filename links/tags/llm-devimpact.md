@@ -1,9 +1,18 @@
 # Ссылки
 
-- Всего ссылок: 16
+- Всего ссылок: 18
 
 ## Ссылки
 
+- [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything) 👤 Simon Willison 💬 837 🔖 #llm, #llm-devimpact, #softwarecraft 🗓️ 2025-12-19
+    > **Резюме:** Your job as a developer is to deliver code you have proven works.  
+Prove it with manual tests (show steps or recordings) and automated tests that fail if the change is removed.  
+If you use coding agents, make them run and test their changes, but you remain accountable.
+- [What happens when the coding becomes the least interesting part of the work](https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660) 👤 Obie Fernandez 💬 1894 🔖 #llm-devimpact, #softwarecraft, #joyandcuriosity 🗓️ 2025-12-18
+    > **Заметка:** Автор известен в сообществе Ruby. В посте есть глубокие мысли по будущему разработки с LLM.
+
+https://chatgpt.com/c/6944406d-4640-832a-b0c4-9df0c3a7cf6d
+    > **Резюме:** Senior engineering is mostly silent judgment, not typing code. Pairing with coding agents forces you to speak that judgment out loud, which improves decisions. That shift will make coding itself less valuable and reshape teams fast.
 - [I Helped Build Your IDE. Here's What Will Replace It](https://davegriffith.substack.com/p/i-helped-build-your-ide-heres-what) 👤 Dave Griffith 💬 2718 🔖 #llm, #llm-devimpact 🗓️ 2025-12-16
     > **Резюме:** Developers are moving from hands-on coding in IDEs to guiding AI agents that generate and review code. The new “control tower” tools will coordinate agents, context, and reviews rather than act as a traditional editor cockpit. Key skills will shift from typing code to writing clear specs and knowing when to take manual control.
 - [Why Your CTO Might Start Coding Again](https://davegriffith.substack.com/p/why-your-cto-might-start-coding-again) 👤 Dave Griffith 💬 2188 🔖 #llm, #llm-devimpact 🗓️ 2025-12-16

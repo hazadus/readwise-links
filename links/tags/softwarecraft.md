@@ -1,9 +1,18 @@
 # Ссылки
 
-- Всего ссылок: 31
+- Всего ссылок: 33
 
 ## Ссылки
 
+- [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything) 👤 Simon Willison 💬 837 🔖 #llm, #llm-devimpact, #softwarecraft 🗓️ 2025-12-19
+    > **Резюме:** Your job as a developer is to deliver code you have proven works.  
+Prove it with manual tests (show steps or recordings) and automated tests that fail if the change is removed.  
+If you use coding agents, make them run and test their changes, but you remain accountable.
+- [What happens when the coding becomes the least interesting part of the work](https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660) 👤 Obie Fernandez 💬 1894 🔖 #llm-devimpact, #softwarecraft, #joyandcuriosity 🗓️ 2025-12-18
+    > **Заметка:** Автор известен в сообществе Ruby. В посте есть глубокие мысли по будущему разработки с LLM.
+
+https://chatgpt.com/c/6944406d-4640-832a-b0c4-9df0c3a7cf6d
+    > **Резюме:** Senior engineering is mostly silent judgment, not typing code. Pairing with coding agents forces you to speak that judgment out loud, which improves decisions. That shift will make coding itself less valuable and reshape teams fast.
 - [5 engineering dogmas it's time to retire](https://newsletter.manager.dev/p/5-engineering-dogmas-its-time-to) 👤 Anton Zaides 💬 1402 🔖 #softwarecraft 🗓️ 2025-12-16
     > **Резюме:** The author questions five common engineering rules and shows they can cause more harm than help. He argues for balancing dependency use, flexible code-review policies, alternatives to short sprints, cautious use of feature flags, and pragmatic commenting. Good engineering leadership means weighing dogma against real-world trade-offs.
 - [21 Lessons from 14 Years at Google](https://addyo.substack.com/p/21-lessons-from-14-years-at-google?utm_source=tldrdev&triedRedirect=true) 👤 Addy Osmani 💬 2334 🔖 #career, #softwarecraft 🗓️ 2025-12-12

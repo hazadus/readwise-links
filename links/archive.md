@@ -1,9 +1,16 @@
 # Архивные ссылки
 
-- Всего ссылок: 1279
+- Всего ссылок: 1284
 
 ## Ссылки
 
+- [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything) 👤 Simon Willison 💬 837 🔖 #llm, #llm-devimpact, #softwarecraft 🗓️ 2025-12-19
+- [Programming principles for self taught front-end developers](https://piccalil.li/blog/programming-principles-for-self-taught-front-end-developers/) 👤 Piccalilli 💬 3138 🔖 #principles 🗓️ 2025-12-19
+- [What happens when the coding becomes the least interesting part of the work](https://obie.medium.com/what-happens-when-the-coding-becomes-the-least-interesting-part-of-the-work-ab10c213c660) 👤 Obie Fernandez 💬 1894 🔖 #llm-devimpact, #softwarecraft, #joyandcuriosity 🗓️ 2025-12-18
+    > **Заметка:** Автор известен в сообществе Ruby. В посте есть глубокие мысли по будущему разработки с LLM.
+
+https://chatgpt.com/c/6944406d-4640-832a-b0c4-9df0c3a7cf6d
+- [How to prompt Nano Banana Pro](https://www.fofr.ai/nano-banana-pro-guide?utm_source=substack&utm_medium=email) 👤 fofr.ai 💬 1761 🔖 #llm, #joyandcuriosity 🗓️ 2025-12-18
 - [Sometimes It Really Is That Easy](https://davegriffith.substack.com/p/sometimes-it-really-is-that-easy) 👤 Dave Griffith 💬 1208 🔖 #llm, #devtools 🗓️ 2025-12-16
 - [Memory as an AI superpower](https://davegriffith.substack.com/p/memory-as-an-ai-superpower) 👤 Dave Griffith 💬 2554 🔖 #llm 🗓️ 2025-12-16
 - [I Helped Build Your IDE. Here's What Will Replace It](https://davegriffith.substack.com/p/i-helped-build-your-ide-heres-what) 👤 Dave Griffith 💬 2718 🔖 #llm, #llm-devimpact 🗓️ 2025-12-16
@@ -475,6 +482,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration, #joyandcuriosity 🗓️ 2025-07-20
     > **Заметка:** Отличная подборка источников. На некоторые был подписан. На несколько подписался. 
 - [How I Use Claude Code to Ship Like a Team of Five](https://every.to/source-code/how-i-use-claude-code-to-ship-like-a-team-of-five?utm_source=substack&utm_medium=email) 👤 Kieran Klaassen 💬 3400 🔖 #llm, #inspiration, #joyandcuriosity 🗓️ 2025-07-20
+- [MacPaint Art From The Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html) 👤 https://decryption.net.au 💬 266 🔖 #joyandcuriosity 🗓️ 2025-07-20
 - [Reflections on OpenAI](https://calv.info/openai-reflections) 👤 calv.info 💬 3855 🗓️ 2025-07-20
 - [Coding with LLMs in the summer of 2025 (an update)](http://antirez.com/news/154) 👤 antirez.com 💬 1292 🔖 #llm 🗓️ 2025-07-20
 - [Welcoming The Next Generation of Programmers](https://lucumr.pocoo.org/2025/7/20/the-next-generation/) 👤 Armin Ronacher 💬 757 🔖 #llm, #python 🗓️ 2025-07-20
