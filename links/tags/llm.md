@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 311
+- Всего ссылок: 312
 
 ## Ссылки
 
+- [Reflections on AI at the end of 2025](http://antirez.com/news/157) 👤 antirez.com 💬 566 🔖 #llm 🗓️ 2025-12-20
+    > **Резюме:** By late 2025 most researchers accepted that LLMs can represent and plan, not just "stochastic parrots." Chain-of-thought and reinforcement learning have made LLMs far more capable, especially for coding and reasoning tasks, and alternatives to Transformers are being explored. The author believes advances could lead to AGI but warns the main long-term challenge is avoiding human extinction.
 - [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything) 👤 Simon Willison 💬 837 🔖 #llm, #llm-devimpact, #softwarecraft 🗓️ 2025-12-19
     > **Резюме:** Your job as a developer is to deliver code you have proven works.  
 Prove it with manual tests (show steps or recordings) and automated tests that fail if the change is removed.  

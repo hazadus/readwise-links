@@ -1,9 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 68
+- Всего ссылок: 71
 
 ## Ссылки
 
+- [Reflections on AI at the end of 2025](http://antirez.com/news/157) 👤 antirez.com 💬 566 🔖 #llm 🗓️ 2025-12-20
+    > **Резюме:** By late 2025 most researchers accepted that LLMs can represent and plan, not just "stochastic parrots." Chain-of-thought and reinforcement learning have made LLMs far more capable, especially for coding and reasoning tasks, and alternatives to Transformers are being explored. The author believes advances could lead to AGI but warns the main long-term challenge is avoiding human extinction.
+- [Sam Rose explains how LLMs work with a visual essay](https://simonwillison.net/2025/Dec/19/sam-rose-llms/#atom-everything) 👤 Simon Willison 💬 82 🗓️ 2025-12-20
+    > **Резюме:** Sam Rose created a visual essay explaining how large language models (LLMs) work. The essay covers key topics like prompt caching, tokenization, embeddings, and transformer basics. It is a clear and easy introduction to LLM internals.
+- [The Strange Case of Engineers Who Dismiss AI](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/) 👤 Terrible Software 💬 710 🗓️ 2025-12-20
+    > **Резюме:** Many engineers dismiss AI coding tools because of early bad experiences or pride in their skills. However, AI tools have improved a lot and can now handle complex coding tasks efficiently. Engineers who avoid these tools risk falling behind those who use them to work faster and take on bigger challenges.
 - [Django RAPID architecture](https://www.django-rapid-architecture.org/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_315) 👤 django-rapid-architecture.org 💬 1092 🔖 #django 🗓️ 2025-12-16
     > **Резюме:** Django RAPID is a concise set of patterns for building maintainable, scalable Django projects based on 15+ years of experience. It favors simple, predictable foundations that let systems grow without hidden complexity. The guide is flexible and prescriptive only where it matters, so teams can adopt what fits their workflow.
 - [Vue 3 Testing Pyramid: A Practical Guide with Vitest Browser Mode](https://alexop.dev/posts/vue3_testing_pyramid_vitest_browser_mode/) 👤 Alexander Opalic 💬 3336 🔖 #vue, #vitest, #testing 🗓️ 2025-12-15
