@@ -1,11 +1,24 @@
 # Ссылки
 
-- Всего ссылок: 312
+- Всего ссылок: 317
 
 ## Ссылки
 
+- [I cannot emphasize enough how much I prefer this "tutorial...](https://x.com/geoffreylitt/status/1991909304085987366/?utm_medium=email&rw_tt_thread=True) 👤 Geoffrey Litt 💬 464 🔖 #llm, #try, #claude 🗓️ 2025-12-21
+    > **Резюме:** The author prefers a "tutorial doc + build-it-yourself" workflow over reviewing large PRs. Have the model produce a very detailed Markdown implementation guide, then read it and code the changes yourself while staying in control. This approach keeps you fast with AI tools but mentally engaged and better able to make good decisions.
+- [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email) 👤 ngrok 💬 78 🔖 #llm, #explorable, #joyandcuriosity 🗓️ 2025-12-21
+    > **Заметка:** https://chatgpt.com/c/6947a45b-3860-8331-a302-0c3a55ab5594
+    > **Резюме:** Prompt caching stores and reuses parts of LLM requests to avoid repeating work. This cuts token usage and cost by up to tenfold. It requires tracking inputs, outputs, and cache validity to stay correct.
+- [My first win building with agents](https://olano.dev/blog/agents2/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) 👤 Facundo Olano 💬 4079 🔖 #llm 🗓️ 2025-12-21
+    > **Резюме:** The author successfully built a small web app mainly using Claude Code and felt empowered by the fast iteration.  
+They kept tight control by reviewing every change, avoiding heavy agent customization, and planning around token limits.  
+Overall, agents lowered the barrier to ship a “good-enough” project while requiring careful supervision.
+- [The Shape of AI: Jaggedness, Bottlenecks and Salients](https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks) 👤 Ethan Mollick 💬 1885 🔖 #llm 🗓️ 2025-12-21
+    > **Резюме:** AI skills are uneven, excelling at some tasks but struggling with others, creating a "jagged frontier." Bottlenecks, or weak points, limit AI’s ability to fully replace humans in many jobs and tasks. When these bottlenecks are overcome, like with Google’s Nano Banana Pro improving image generation, AI can quickly advance and open new opportunities.
 - [Reflections on AI at the end of 2025](http://antirez.com/news/157) 👤 antirez.com 💬 566 🔖 #llm 🗓️ 2025-12-20
     > **Резюме:** By late 2025 most researchers accepted that LLMs can represent and plan, not just "stochastic parrots." Chain-of-thought and reinforcement learning have made LLMs far more capable, especially for coding and reasoning tasks, and alternatives to Transformers are being explored. The author believes advances could lead to AGI but warns the main long-term challenge is avoiding human extinction.
+- [The Strange Case of Engineers Who Dismiss AI](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/) 👤 Terrible Software 💬 710 🔖 #llm, #llm-devimpact 🗓️ 2025-12-20
+    > **Резюме:** Many engineers dismiss AI coding tools because of early bad experiences or pride in their skills. However, AI tools have improved a lot and can now handle complex coding tasks efficiently. Engineers who avoid these tools risk falling behind those who use them to work faster and take on bigger challenges.
 - [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything) 👤 Simon Willison 💬 837 🔖 #llm, #llm-devimpact, #softwarecraft 🗓️ 2025-12-19
     > **Резюме:** Your job as a developer is to deliver code you have proven works.  
 Prove it with manual tests (show steps or recordings) and automated tests that fail if the change is removed.  
