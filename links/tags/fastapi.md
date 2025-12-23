@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 34
+- Всего ссылок: 35
 
 ## Ссылки
 
@@ -74,6 +74,8 @@ Manage config, security, migrations, and versioned APIs separately to scale safe
     > **Резюме:** The article discusses a structured approach to designing FastAPI applications by separating individual services into distinct packages and modules. This method enhances code organization and reusability, making it easier to manage requests and responses. It also emphasizes handling exceptions effectively, ensuring a clear flow of operations from the controller to data access.
 - [Fast API — Repository Pattern and Service Layer](https://readmedium.com/fast-api-repository-pattern-and-service-layer-dad43354f07a) 👤 readmedium.com 🔖 #fastapi 🗓️ 2024-05-06
     > **Резюме:** Note
+- [Patterns and Practices for using SQLAlchemy 2.0 with FastAPI](https://chaoticengineer.hashnode.dev/fastapi-sqlalchemy) 👤 Piotr Tobiasz 💬 4147 🔖 #fastapi, #sqlalchemy 🗓️ 2024-05-15
+    > **Резюме:** This article discusses how to effectively use SQLAlchemy 2.0 with FastAPI to create backend applications. It covers essential topics like defining models, handling database sessions, and implementing a repository pattern for better organization. By following the outlined practices, developers can build efficient and scalable APIs that manage database interactions seamlessly.
 - [Фоновые асинхронные задачи в FastAPI и их мониторинг / Хабр](https://habr.com/ru/companies/kts/articles/816757/) 👤 Иван Пакеев 💬 3800 🔖 #celery, #fastapi 🗓️ 2024-05-27
     > **Резюме:** The text discusses handling background tasks in FastAPI, focusing on asynchronous code usage and monitoring with Prometheus. Various options for working with background tasks using asynchronous code are explored, including lightweight libraries like ARQ and popular frameworks like Celery. Performance comparisons show that executing code in a separate thread incurs overhead costs, impacting efficiency.
 - [Python Friday #240: Asynchronous SQLAlchemy With FastAPI - Improve & Repeat](https://improveandrepeat.com/2024/08/python-friday-240-asynchronous-sqlalchemy-with-fastapi/) 👤 Johnny Graber 💬 1550 🔖 #pytest, #fastapi, #sqlalchemy 🗓️ 2024-08-17

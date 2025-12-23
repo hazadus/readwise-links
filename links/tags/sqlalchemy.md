@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
@@ -19,5 +19,7 @@
     > **Резюме:** Статья описывает процесс создания блога на FastAPI, включая регистрацию, авторизацию и работу с базой данных. Она также охватывает реализацию тегов и пагинации для блогов. В итоге, проект демонстрирует полную логику блога и готовится к визуализации.
 - [(2) FastAPI with Async SQLAlchemy, SQLModel, and Alembic | TestDriven.io](https://testdriven.io/blog/fastapi-sqlmodel/) 👤 Michael Herman 💬 1685 🔖 #python, #alembic, #fastapi, #sqlmodel, #sqlalchemy 🗓️ 2024-04-09
     > **Резюме:** This tutorial explains how to use FastAPI with Async SQLAlchemy, SQLModel, and Alembic for working with databases asynchronously. It covers setting up SQLAlchemy models, configuring database migrations with Alembic, and updating route handlers for async execution. The tutorial aims to help you work with databases efficiently using FastAPI in a Python project.
+- [Patterns and Practices for using SQLAlchemy 2.0 with FastAPI](https://chaoticengineer.hashnode.dev/fastapi-sqlalchemy) 👤 Piotr Tobiasz 💬 4147 🔖 #fastapi, #sqlalchemy 🗓️ 2024-05-15
+    > **Резюме:** This article discusses how to effectively use SQLAlchemy 2.0 with FastAPI to create backend applications. It covers essential topics like defining models, handling database sessions, and implementing a repository pattern for better organization. By following the outlined practices, developers can build efficient and scalable APIs that manage database interactions seamlessly.
 - [Python Friday #240: Asynchronous SQLAlchemy With FastAPI - Improve & Repeat](https://improveandrepeat.com/2024/08/python-friday-240-asynchronous-sqlalchemy-with-fastapi/) 👤 Johnny Graber 💬 1550 🔖 #pytest, #fastapi, #sqlalchemy 🗓️ 2024-08-17
     > **Резюме:** This post shows how to change a to-do app to use asynchronous SQLAlchemy with FastAPI. It explains updating tests, database code, and API endpoints to use async and await. After these changes, the app runs asynchronously and all tests pass.

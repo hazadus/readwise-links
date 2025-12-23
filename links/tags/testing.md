@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 43
+- Всего ссылок: 44
 
 ## Ссылки
 
+- [Unit Testing Principles](https://olano.dev/blog/unit-testing-principles/) 👤 Facundo Olano 💬 1620 🔖 #testing 🗓️ 2025-12-22
+    > **Резюме:** Unit tests should verify meaningful units of behavior quickly and in isolation, not internal code structure. Good tests protect against regressions, resist refactoring, run fast, and are easy to maintain; aim for black-box checks tied to business requirements. Split complex code into deep domain models (unit test) and wide controllers (integration tests) to keep tests valuable and maintainable.
 - [Vue 3 Testing Pyramid: A Practical Guide with Vitest Browser Mode](https://alexop.dev/posts/vue3_testing_pyramid_vitest_browser_mode/) 👤 Alexander Opalic 💬 3336 🔖 #vue, #vitest, #testing 🗓️ 2025-12-15
     > **Резюме:** The post recommends a practical Vue 3 testing strategy that favors many fast composable unit tests and fewer, realistic integration tests run in Vitest browser mode. Use data factories, a createTestApp helper, and page objects to keep tests clear and maintainable. Add targeted accessibility and visual checks for critical screens and consider AI-driven exploratory QA as a complement.
 - [Gist of Go: Concurrency testing](https://antonz.org/go-concurrency/testing/) 👤 Anton Zhiyanov 💬 7291 🔖 #go, #testing 🗓️ 2025-11-24

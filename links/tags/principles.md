@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [My first win building with agents](https://olano.dev/blog/agents2/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) 👤 Facundo Olano 💬 4079 🔖 #llm, #claude, #principles 🗓️ 2025-12-21
+    > **Заметка:** Nice point on DRY principle.
+    > **Резюме:** The author successfully built a small web app mainly using Claude Code and felt empowered by the fast iteration.  
+They kept tight control by reviewing every change, avoiding heavy agent customization, and planning around token limits.  
+Overall, agents lowered the barrier to ship a “good-enough” project while requiring careful supervision.
 - [Programming principles for self taught front-end developers](https://piccalil.li/blog/programming-principles-for-self-taught-front-end-developers/) 👤 Piccalilli 💬 3138 🔖 #principles 🗓️ 2025-12-19
     > **Резюме:** Good code is easy to read and reason about, not just fast or clever.  
 Write working simple code first, avoid premature optimization, and only generalize after seeing the same code three times.  

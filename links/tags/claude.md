@@ -1,11 +1,18 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude) 👤 diwank.space 💬 4833 🔖 #llm, #claude 🗓️ 2025-12-22
+    > **Резюме:** AI can speed coding but needs strict engineering practices to be safe and reliable. Humans must write tests, guide AI, and document decisions (CLAUDE.md). Transparency and disciplined workflows make AI a force multiplier, not chaos.
 - [I cannot emphasize enough how much I prefer this "tutorial...](https://x.com/geoffreylitt/status/1991909304085987366/?utm_medium=email&rw_tt_thread=True) 👤 Geoffrey Litt 💬 464 🔖 #llm, #try, #claude 🗓️ 2025-12-21
     > **Резюме:** The author prefers a "tutorial doc + build-it-yourself" workflow over reviewing large PRs. Have the model produce a very detailed Markdown implementation guide, then read it and code the changes yourself while staying in control. This approach keeps you fast with AI tools but mentally engaged and better able to make good decisions.
+- [My first win building with agents](https://olano.dev/blog/agents2/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) 👤 Facundo Olano 💬 4079 🔖 #llm, #claude, #principles 🗓️ 2025-12-21
+    > **Заметка:** Nice point on DRY principle.
+    > **Резюме:** The author successfully built a small web app mainly using Claude Code and felt empowered by the fast iteration.  
+They kept tight control by reviewing every change, avoiding heavy agent customization, and planning around token limits.  
+Overall, agents lowered the barrier to ship a “good-enough” project while requiring careful supervision.
 - [Building an AI QA Engineer with Claude Code and Playwright MCP](https://alexop.dev/posts/building_ai_qa_engineer_claude_code_playwright/) 👤 Alexander Opalic 💬 1193 🔖 #mcp, #claude 🗓️ 2025-12-15
     > **Резюме:** Alexander Opalic built an AI QA engineer named Quinn that uses Claude Code and Playwright MCP to test web apps through the browser like a real user. Quinn runs on pull requests via GitHub Actions, clicks, types, resizes the viewport, and posts detailed bug reports with screenshots. This approach finds edge cases and complements but does not replace traditional unit and E2E tests.
 - [Get Notified When Claude Code Finishes With Hooks](https://alexop.dev/posts/claude-code-notification-hooks/) 👤 Alexander Opalic 💬 736 🔖 #claude 🗓️ 2025-11-24

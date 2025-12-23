@@ -1,9 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 71
+- Всего ссылок: 73
 
 ## Ссылки
 
+- [2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) 👤 karpathy 💬 1746 🔖 #llm 🗓️ 2025-12-22
+    > **Резюме:** 2025 saw big shifts in LLMs: RLVR drove much capability by training on verifiable rewards.  
+LLMs feel like new, jagged “ghost” intelligences and spawned new app layers and local agents (Cursor, Claude Code).  
+Vibe coding and models like Nano Banana made building and interacting with AI far easier and more visual.
+- [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude) 👤 diwank.space 💬 4833 🔖 #llm, #claude 🗓️ 2025-12-22
+    > **Резюме:** AI can speed coding but needs strict engineering practices to be safe and reliable. Humans must write tests, guide AI, and document decisions (CLAUDE.md). Transparency and disciplined workflows make AI a force multiplier, not chaos.
 - [I cannot emphasize enough how much I prefer this "tutorial...](https://x.com/geoffreylitt/status/1991909304085987366/?utm_medium=email&rw_tt_thread=True) 👤 Geoffrey Litt 💬 464 🔖 #llm, #try, #claude 🗓️ 2025-12-21
     > **Резюме:** The author prefers a "tutorial doc + build-it-yourself" workflow over reviewing large PRs. Have the model produce a very detailed Markdown implementation guide, then read it and code the changes yourself while staying in control. This approach keeps you fast with AI tools but mentally engaged and better able to make good decisions.
 - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email) 👤 ngrok 💬 78 🔖 #llm, #explorable, #joyandcuriosity 🗓️ 2025-12-21
@@ -12,10 +18,6 @@
 - [2025 in review](https://www.loopwerk.io/articles/2025/2025-in-review/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) 👤 Kevin Renskers 💬 1411 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/69479f95-3aa4-8328-8855-b64bb19cc6d2
     > **Резюме:** 2025 was a productive year: I wrote 38 articles, grew site traffic a lot, and released several open-source Django projects. In November my girlfriend and her daughter were in a serious car crash, so I’ve been caring for them and our dog. I started using AI cautiously, did freelance work for Sound Radix, and enjoyed trips, concerts, and games.
-- [My first win building with agents](https://olano.dev/blog/agents2/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) 👤 Facundo Olano 💬 4079 🔖 #llm 🗓️ 2025-12-21
-    > **Резюме:** The author successfully built a small web app mainly using Claude Code and felt empowered by the fast iteration.  
-They kept tight control by reviewing every change, avoiding heavy agent customization, and planning around token limits.  
-Overall, agents lowered the barrier to ship a “good-enough” project while requiring careful supervision.
 - [Django RAPID architecture](https://www.django-rapid-architecture.org/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_315) 👤 django-rapid-architecture.org 💬 1092 🔖 #django 🗓️ 2025-12-16
     > **Резюме:** Django RAPID is a concise set of patterns for building maintainable, scalable Django projects based on 15+ years of experience. It favors simple, predictable foundations that let systems grow without hidden complexity. The guide is flexible and prescriptive only where it matters, so teams can adopt what fits their workflow.
 - [Vue 3 Testing Pyramid: A Practical Guide with Vitest Browser Mode](https://alexop.dev/posts/vue3_testing_pyramid_vitest_browser_mode/) 👤 Alexander Opalic 💬 3336 🔖 #vue, #vitest, #testing 🗓️ 2025-12-15
@@ -184,5 +186,7 @@ https://chatgpt.com/c/69442a9a-f300-832f-ab30-b4c986167b5d
     > **Резюме:** Bill Gates reflects on the 50th anniversary of Microsoft, starting with the creation of Altair BASIC in 1975. He shares his pride in how this early code led to a revolution in computing and the company's immense success. Gates also acknowledges the influential teachers who helped shape his journey into the world of technology.
 - [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](private://read/01jg1e2q7yj2698nhna2kjbce4) 👤 Ahrens, Sönke 💬 56774 🔖 #pkm, #basb, #outline, #learning, #inspiration 🗓️ 2024-12-26
     > **Резюме:** The book "How to Take Smart Notes" by Sönke Ahrens emphasizes the importance of effective note-taking for improving writing, learning, and thinking. By using a slip-box system, individuals can organize their ideas and connect them, enhancing their understanding and creativity. This method promotes active engagement with material and transforms notes into a valuable resource for future writing.
+- [Patterns and Practices for using SQLAlchemy 2.0 with FastAPI](https://chaoticengineer.hashnode.dev/fastapi-sqlalchemy) 👤 Piotr Tobiasz 💬 4147 🔖 #fastapi, #sqlalchemy 🗓️ 2024-05-15
+    > **Резюме:** This article discusses how to effectively use SQLAlchemy 2.0 with FastAPI to create backend applications. It covers essential topics like defining models, handling database sessions, and implementing a repository pattern for better organization. By following the outlined practices, developers can build efficient and scalable APIs that manage database interactions seamlessly.
 - [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/) 👤 joshwcomeau.com 💬 3746 🔖 #javascript 🗓️ 2025-09-06
     > **Резюме:** The text discusses the importance of understanding Promises in JavaScript for modern web development. Promises allow for asynchronous operations and help avoid callback nesting. Modern JavaScript features like async/await simplify handling asynchronous tasks.

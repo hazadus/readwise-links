@@ -1,6 +1,6 @@
 # Новые ссылки
 
-- Всего ссылок: 871
+- Всего ссылок: 870
 
 ## Ссылки
 
@@ -625,7 +625,6 @@ UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 
 - [How LLMs Work, Explained Without Math - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math) 👤 Miguel Grinberg 💬 3826 🔖 #llm 🗓️ 2024-05-14
 - [Structured logging using structlog and FastAPI | Angelos Panagiotopoulos](https://www.angelospanag.me/blog/structured-logging-using-structlog-and-fastapi) 👤 Angelos Panagiotopoulos 💬 1651 🗓️ 2024-05-15
 - [Light speed with Python and JS - Bite code!](https://www.bitecode.dev/p/light-speed-with-python-and-js) 👤 Bite Code! 💬 2533 🗓️ 2024-05-15
-- [Patterns and Practices for using SQLAlchemy 2.0 with FastAPI](https://chaoticengineer.hashnode.dev/fastapi-sqlalchemy) 👤 Piotr Tobiasz 💬 4147 🗓️ 2024-05-15
 - [An Intro to Logging with Python and Loguru - Mouse Vs Python](https://www.blog.pythonlibrary.org/2024/05/15/an-intro-to-logging-with-python-and-loguru/) 👤 Mike 💬 1835 🗓️ 2024-05-16
 - [Thinking in Iterators | corrode Rust Consulting](https://corrode.dev/blog/iterators/) 👤 Corrode Rust Consulting 💬 1439 🗓️ 2024-05-16
 - [How To Manage Temporary Files with Pytest tmp_path | Pytest With Eric](https://pytest-with-eric.com/pytest-best-practices/pytest-tmp-path/) 👤 pytest-with-eric.com 💬 2428 🗓️ 2024-05-16

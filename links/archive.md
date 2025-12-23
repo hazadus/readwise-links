@@ -1,11 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 1289
+- Всего ссылок: 1291
 
 ## Ссылки
 
+- [Unit Testing Principles](https://olano.dev/blog/unit-testing-principles/) 👤 Facundo Olano 💬 1620 🔖 #testing 🗓️ 2025-12-22
 - [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes?utm_source=substack&utm_medium=email) 👤 Jason Fried 💬 725 🔖 #joyandcuriosity 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/6947a75b-b214-8327-9837-b87b2e4258cc
+- [My first win building with agents](https://olano.dev/blog/agents2/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) 👤 Facundo Olano 💬 4079 🔖 #llm, #claude, #principles 🗓️ 2025-12-21
+    > **Заметка:** Nice point on DRY principle.
 - [The Shape of AI: Jaggedness, Bottlenecks and Salients](https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks) 👤 Ethan Mollick 💬 1885 🔖 #llm 🗓️ 2025-12-21
 - [Reflections on AI at the end of 2025](http://antirez.com/news/157) 👤 antirez.com 💬 566 🔖 #llm 🗓️ 2025-12-20
 - [The Strange Case of Engineers Who Dismiss AI](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/) 👤 Terrible Software 💬 710 🔖 #llm, #llm-devimpact 🗓️ 2025-12-20
