@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 19
+- Всего ссылок: 20
 
 ## Ссылки
 
+- [Everyone is a Staff Engineer Now](https://read.engineerscodex.com/p/everyone-is-a-staff-engineer-now) 👤 Engineer's Codex 💬 1251 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
+    > **Резюме:** AI handles more coding, so engineers must focus on higher-level work.  
+The key skills now are system context, architecture, and steering agents.  
+Successful engineers will be those who manage attention, plan well, and review effectively.
 - [The Strange Case of Engineers Who Dismiss AI](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/) 👤 Terrible Software 💬 710 🔖 #llm, #llm-devimpact 🗓️ 2025-12-20
     > **Резюме:** Many engineers dismiss AI coding tools because of early bad experiences or pride in their skills. However, AI tools have improved a lot and can now handle complex coding tasks efficiently. Engineers who avoid these tools risk falling behind those who use them to work faster and take on bigger challenges.
 - [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything) 👤 Simon Willison 💬 837 🔖 #llm, #llm-devimpact, #softwarecraft 🗓️ 2025-12-19

@@ -1,9 +1,12 @@
 # Новые ссылки
 
-- Всего ссылок: 870
+- Всего ссылок: 873
 
 ## Ссылки
 
+- [Validating API Routes in Nuxt 4 with Zod](https://humanonlyweb.com/blog/validating-api-routes-in-nuxt-with-zod) 👤 HumanOnlyWeb 💬 913 🔖 #zod, #nuxt 🗓️ 2025-12-23
+- [A Layered Architecture for Nuxt Fullstack applications [Part 1 — Server side]](https://humanonlyweb.com/blog/layered-architecture-for-nuxt-4-fullstack-applications-part-1) 👤 HumanOnlyWeb 💬 760 🔖 #nuxt 🗓️ 2025-12-23
+- [Setting Up Your IDE for Nuxt UI: A Complete Guide](https://vueschool.io/articles/vuejs-tutorials/setting-up-your-ide-for-nuxt-ui-a-complete-guide/?friend=MOKKAPPS/) 👤 vueschool.io 💬 1106 🔖 #nuxt 🗓️ 2025-12-23
 - [From Slow To Go • The Applied Go Weekly Newsletter 2025-12-07](https://newsletter.appliedgo.net/archive/2025-12-07-from-slow-to-go/) 👤 The Applied Go Weekly Newsletter 💬 591 🔖 #go 🗓️ 2025-12-08
 - [Gist of Go: Concurrency internals](https://antonz.org/go-concurrency/internals/) 👤 Anton Zhiyanov 💬 3899 🔖 #go 🗓️ 2025-12-07
 - [Времена описывают](https://www.myweekend.ru/doc/8268174?from=glavnoe_3) 👤 Владимир Максаков 💬 1571 🗓️ 2025-12-06

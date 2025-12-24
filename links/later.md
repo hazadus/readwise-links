@@ -1,9 +1,17 @@
 # Отложенные ссылки
 
-- Всего ссылок: 73
+- Всего ссылок: 77
 
 ## Ссылки
 
+- [Writing Code Is Fun](https://davidcel.is/articles/writing-code-is-fun) 👤 davidcel.is 💬 645 🗓️ 2025-12-23
+    > **Резюме:** The author loves writing code because solving problems and building things is fun. They find AI coding tools take away that joy and often don’t save time. Relying on AI turns engineers into reviewers or managers instead of creators.
+- [A Scientist’s Guide to Debugging Engineers](https://newsletter.manager.dev/p/a-scientists-guide-to-debugging-engineers) 👤 Anton Zaides 💬 1171 🗓️ 2025-12-23
+    > **Резюме:** Engineers’ feelings affect their work as much as technical skills. Managers should notice emotions, listen, and help change small habits. Talking about feelings can boost focus, reliability, and code quality.
+- [Claude Code Sees Like A Software Architect](https://davegriffith.substack.com/p/claude-code-sees-like-a-software) 👤 Dave Griffith 💬 1520 🗓️ 2025-12-23
+    > **Резюме:** Anthropic added native LSP support to Claude Code, so it now understands code structure the same way IDEs do. That capability replaces many external tools that tried to give AI deeper code knowledge. Builders must shift to durable advantages like integrations, proprietary data, or human judgment.
+- [A Year Of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) 👤 Armin Ronacher 💬 2175 🗓️ 2025-12-23
+    > **Резюме:** Armin Ronacher describes 2025 as a turning point where agentic coding tools like Claude Code changed how he works. He now uses LLMs for coding, organizing life, and building tools, and sees gaps in version control and code review for AI-generated work. He worries about treating these systems as human agents and calls for better practices and UX to manage agentic engineering.
 - [2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) 👤 karpathy 💬 1746 🔖 #llm 🗓️ 2025-12-22
     > **Резюме:** 2025 saw big shifts in LLMs: RLVR drove much capability by training on verifiable rewards.  
 LLMs feel like new, jagged “ghost” intelligences and spawned new app layers and local agents (Cursor, Claude Code).  

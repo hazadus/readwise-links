@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1291
+- Всего ссылок: 1293
 
 ## Ссылки
 
+- [mprocs: start all your project's commands at once](https://www.bitecode.dev/p/mprocs-start-all-your-projects-commands) 👤 Bite Code! 💬 552 🔖 #devtools 🗓️ 2025-12-23
+- [Everyone is a Staff Engineer Now](https://read.engineerscodex.com/p/everyone-is-a-staff-engineer-now) 👤 Engineer's Codex 💬 1251 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
 - [Unit Testing Principles](https://olano.dev/blog/unit-testing-principles/) 👤 Facundo Olano 💬 1620 🔖 #testing 🗓️ 2025-12-22
 - [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes?utm_source=substack&utm_medium=email) 👤 Jason Fried 💬 725 🔖 #joyandcuriosity 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/6947a75b-b214-8327-9837-b87b2e4258cc

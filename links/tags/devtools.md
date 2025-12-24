@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [mprocs: start all your project's commands at once](https://www.bitecode.dev/p/mprocs-start-all-your-projects-commands) 👤 Bite Code! 💬 552 🔖 #devtools 🗓️ 2025-12-23
+    > **Резюме:** mprocs is a tiny tool that starts and monitors all your project’s long-running commands from one mprocs.yaml file.  
+It launches them together, shows a simple TUI, and highlights failures so you can restart or autorestart.  
+You can integrate it with just or other task runners to keep a single, easy workflow.
 - [Sometimes It Really Is That Easy](https://davegriffith.substack.com/p/sometimes-it-really-is-that-easy) 👤 Dave Griffith 💬 1208 🔖 #llm, #devtools 🗓️ 2025-12-16
     > **Резюме:** Good developer tooling makes setup fast and reliable. AI can now generate those boring but vital scripts in minutes. That saves time, reduces friction, and speeds up onboarding and work.
 - [Justified](https://www.bitecode.dev/p/justified) 👤 Bite Code! 💬 2039 🔖 #devtools 🗓️ 2025-12-15

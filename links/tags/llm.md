@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 319
+- Всего ссылок: 320
 
 ## Ссылки
 
+- [Everyone is a Staff Engineer Now](https://read.engineerscodex.com/p/everyone-is-a-staff-engineer-now) 👤 Engineer's Codex 💬 1251 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
+    > **Резюме:** AI handles more coding, so engineers must focus on higher-level work.  
+The key skills now are system context, architecture, and steering agents.  
+Successful engineers will be those who manage attention, plan well, and review effectively.
 - [2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) 👤 karpathy 💬 1746 🔖 #llm 🗓️ 2025-12-22
     > **Резюме:** 2025 saw big shifts in LLMs: RLVR drove much capability by training on verifiable rewards.  
 LLMs feel like new, jagged “ghost” intelligences and spawned new app layers and local agents (Cursor, Claude Code).  

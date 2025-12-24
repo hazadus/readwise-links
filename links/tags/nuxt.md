@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 49
+- Всего ссылок: 52
 
 ## Ссылки
 
+- [Validating API Routes in Nuxt 4 with Zod](https://humanonlyweb.com/blog/validating-api-routes-in-nuxt-with-zod) 👤 HumanOnlyWeb 💬 913 🔖 #zod, #nuxt 🗓️ 2025-12-23
+    > **Резюме:** Stop writing manual validation in each Nuxt API route. Use the provided Zod-based utilities to validate bodies, queries, params, and form data with consistent, typed errors. A central error handler converts Zod issues into predictable responses your frontend can use.
+- [A Layered Architecture for Nuxt Fullstack applications [Part 1 — Server side]](https://humanonlyweb.com/blog/layered-architecture-for-nuxt-4-fullstack-applications-part-1) 👤 HumanOnlyWeb 💬 760 🔖 #nuxt 🗓️ 2025-12-23
+    > **Резюме:** As a Nuxt app grows, routes calling the database directly become hard to manage. Use a layered architecture: thin routes, controllers that orchestrate, and services with pure business logic. This improves testing, separation of concerns, and handling of complex validation and authorization.
+- [Setting Up Your IDE for Nuxt UI: A Complete Guide](https://vueschool.io/articles/vuejs-tutorials/setting-up-your-ide-for-nuxt-ui-a-complete-guide/?friend=MOKKAPPS/) 👤 vueschool.io 💬 1106 🔖 #nuxt 🗓️ 2025-12-23
+    > **Резюме:** A well-configured IDE makes building with Nuxt UI faster and easier. Install the Vue and Tailwind IntelliSense extensions, enable TypeScript, and set up @nuxt/eslint for linting and formatting. Add the MCP server and useful extensions (Iconify, MDC) to get AI-aware autocomplete and previews.
 - [Building a Modular Monolith with Nuxt Layers: A Practical Guide](https://alexop.dev/posts/nuxt-layers-modular-monolith/) 👤 Alexander Opalic 💬 2882 🔖 #nuxt 🗓️ 2025-11-04
     > **Резюме:** Nuxt Layers lets you split a Nuxt app into self-contained feature layers with their own components, pages, and configs.  
 This enables a modular monolith: clear feature boundaries without microservices or repo complexity.  
