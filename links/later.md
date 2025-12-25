@@ -1,17 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 77
+- Всего ссылок: 75
 
 ## Ссылки
 
-- [Writing Code Is Fun](https://davidcel.is/articles/writing-code-is-fun) 👤 davidcel.is 💬 645 🗓️ 2025-12-23
-    > **Резюме:** The author loves writing code because solving problems and building things is fun. They find AI coding tools take away that joy and often don’t save time. Relying on AI turns engineers into reviewers or managers instead of creators.
+- [The Pragmatic Engineer in 2025](https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-in-2025) 👤 Gergely Orosz 💬 2185 🗓️ 2025-12-24
+    > **Резюме:** In 2025, AI greatly changed software engineering and the tech job market stayed tough. The Pragmatic Engineer shared 134 newsletters and many podcast episodes about these trends and real-world challenges. The author thanked subscribers and promised more helpful content in 2026.
 - [A Scientist’s Guide to Debugging Engineers](https://newsletter.manager.dev/p/a-scientists-guide-to-debugging-engineers) 👤 Anton Zaides 💬 1171 🗓️ 2025-12-23
     > **Резюме:** Engineers’ feelings affect their work as much as technical skills. Managers should notice emotions, listen, and help change small habits. Talking about feelings can boost focus, reliability, and code quality.
 - [Claude Code Sees Like A Software Architect](https://davegriffith.substack.com/p/claude-code-sees-like-a-software) 👤 Dave Griffith 💬 1520 🗓️ 2025-12-23
     > **Резюме:** Anthropic added native LSP support to Claude Code, so it now understands code structure the same way IDEs do. That capability replaces many external tools that tried to give AI deeper code knowledge. Builders must shift to durable advantages like integrations, proprietary data, or human judgment.
-- [A Year Of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) 👤 Armin Ronacher 💬 2175 🗓️ 2025-12-23
-    > **Резюме:** Armin Ronacher describes 2025 as a turning point where agentic coding tools like Claude Code changed how he works. He now uses LLMs for coding, organizing life, and building tools, and sees gaps in version control and code review for AI-generated work. He worries about treating these systems as human agents and calls for better practices and UX to manage agentic engineering.
 - [2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) 👤 karpathy 💬 1746 🔖 #llm 🗓️ 2025-12-22
     > **Резюме:** 2025 saw big shifts in LLMs: RLVR drove much capability by training on verifiable rewards.  
 LLMs feel like new, jagged “ghost” intelligences and spawned new app layers and local agents (Cursor, Claude Code).  
@@ -194,7 +192,5 @@ https://chatgpt.com/c/69442a9a-f300-832f-ab30-b4c986167b5d
     > **Резюме:** Bill Gates reflects on the 50th anniversary of Microsoft, starting with the creation of Altair BASIC in 1975. He shares his pride in how this early code led to a revolution in computing and the company's immense success. Gates also acknowledges the influential teachers who helped shape his journey into the world of technology.
 - [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](private://read/01jg1e2q7yj2698nhna2kjbce4) 👤 Ahrens, Sönke 💬 56774 🔖 #pkm, #basb, #outline, #learning, #inspiration 🗓️ 2024-12-26
     > **Резюме:** The book "How to Take Smart Notes" by Sönke Ahrens emphasizes the importance of effective note-taking for improving writing, learning, and thinking. By using a slip-box system, individuals can organize their ideas and connect them, enhancing their understanding and creativity. This method promotes active engagement with material and transforms notes into a valuable resource for future writing.
-- [Patterns and Practices for using SQLAlchemy 2.0 with FastAPI](https://chaoticengineer.hashnode.dev/fastapi-sqlalchemy) 👤 Piotr Tobiasz 💬 4147 🔖 #fastapi, #sqlalchemy 🗓️ 2024-05-15
-    > **Резюме:** This article discusses how to effectively use SQLAlchemy 2.0 with FastAPI to create backend applications. It covers essential topics like defining models, handling database sessions, and implementing a repository pattern for better organization. By following the outlined practices, developers can build efficient and scalable APIs that manage database interactions seamlessly.
 - [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/) 👤 joshwcomeau.com 💬 3746 🔖 #javascript 🗓️ 2025-09-06
     > **Резюме:** The text discusses the importance of understanding Promises in JavaScript for modern web development. Promises allow for asynchronous operations and help avoid callback nesting. Modern JavaScript features like async/await simplify handling asynchronous tasks.

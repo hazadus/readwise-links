@@ -1,11 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 1293
+- Всего ссылок: 1296
 
 ## Ссылки
 
+- [Writing Code Is Fun](https://davidcel.is/articles/writing-code-is-fun) 👤 davidcel.is 💬 645 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
 - [mprocs: start all your project's commands at once](https://www.bitecode.dev/p/mprocs-start-all-your-projects-commands) 👤 Bite Code! 💬 552 🔖 #devtools 🗓️ 2025-12-23
 - [Everyone is a Staff Engineer Now](https://read.engineerscodex.com/p/everyone-is-a-staff-engineer-now) 👤 Engineer's Codex 💬 1251 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
+- [A Year Of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) 👤 Armin Ronacher 💬 2175 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
 - [Unit Testing Principles](https://olano.dev/blog/unit-testing-principles/) 👤 Facundo Olano 💬 1620 🔖 #testing 🗓️ 2025-12-22
 - [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes?utm_source=substack&utm_medium=email) 👤 Jason Fried 💬 725 🔖 #joyandcuriosity 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/6947a75b-b214-8327-9837-b87b2e4258cc
@@ -1364,6 +1366,12 @@ Organize your Omnivore library with labels](https://blog.omnivore.app/p/organize
 - [Django: Introducing django-harlequin, a launcher for Terminal-based SQL IDE Harlequin - Adam Johnson](https://adamj.eu/tech/2024/05/07/django-harlequin/) 👤 adamj.eu 💬 243 🗓️ 2024-05-08
 - [Содержание туториала - VKBottle](https://vkbottle.readthedocs.io/ru/latest/tutorial/) 👤 VKBottle 💬 4 🔖 #vk, #bot 🗓️ 2024-05-08
 - [Timeblocking in Obsidian – The Sweet Setup](https://thesweetsetup.com/timeblocking-in-obsidian/) 👤 Mike Schmitz 💬 590 🔖 #obsidian, #productivity, #time management 🗓️ 2024-05-14
+- [Patterns and Practices for using SQLAlchemy 2.0 with FastAPI](https://chaoticengineer.hashnode.dev/fastapi-sqlalchemy) 👤 Piotr Tobiasz 💬 4147 🔖 #fastapi, #sqlalchemy 🗓️ 2024-05-15
+    > **Заметка:** - Пример асинхронного подключения
+- Похожий на мой DAO пример кода
+- Создание репозитория через фабричную функцию
+- Примеры тестов
+
 - [Banishers: Ghosts of New Eden: Обзор новой игры авторов Life is Strange | StopGame](https://stopgame.ru/show/137577/banishers_ghosts_of_new_eden_review_novoy_igry_avtorov_life_is_strange) 👤 Кирилл Волошин 💬 2485 🗓️ 2024-05-20
 - [Фоновые асинхронные задачи в FastAPI и их мониторинг / Хабр](https://habr.com/ru/companies/kts/articles/816757/) 👤 Иван Пакеев 💬 3800 🔖 #celery, #fastapi 🗓️ 2024-05-27
 - [Testing with Python (part 7): ...until you make it](https://www.bitecode.dev/p/testing-with-python-part-7-until) 👤 Bite Code! 💬 2729 🔖 #try, #pytest, #python, #testing 🗓️ 2024-06-22

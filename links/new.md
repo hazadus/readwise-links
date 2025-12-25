@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 873
+- Всего ссылок: 874
 
 ## Ссылки
 
+- [Поиграл в Warhammer 40000: Dark Heresy - Детективная Ваха про Инквизицию I Битый Пиксель](https://www.youtube.com/watch?v=H7Sd1FmYoy8) 👤 Битый Пиксель 🗓️ 2025-12-24
 - [Validating API Routes in Nuxt 4 with Zod](https://humanonlyweb.com/blog/validating-api-routes-in-nuxt-with-zod) 👤 HumanOnlyWeb 💬 913 🔖 #zod, #nuxt 🗓️ 2025-12-23
 - [A Layered Architecture for Nuxt Fullstack applications [Part 1 — Server side]](https://humanonlyweb.com/blog/layered-architecture-for-nuxt-4-fullstack-applications-part-1) 👤 HumanOnlyWeb 💬 760 🔖 #nuxt 🗓️ 2025-12-23
 - [Setting Up Your IDE for Nuxt UI: A Complete Guide](https://vueschool.io/articles/vuejs-tutorials/setting-up-your-ide-for-nuxt-ui-a-complete-guide/?friend=MOKKAPPS/) 👤 vueschool.io 💬 1106 🔖 #nuxt 🗓️ 2025-12-23

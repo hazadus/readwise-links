@@ -1,13 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 320
+- Всего ссылок: 322
 
 ## Ссылки
 
+- [Writing Code Is Fun](https://davidcel.is/articles/writing-code-is-fun) 👤 davidcel.is 💬 645 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
+    > **Резюме:** The author loves writing code because solving problems and building things is fun. They find AI coding tools take away that joy and often don’t save time. Relying on AI turns engineers into reviewers or managers instead of creators.
 - [Everyone is a Staff Engineer Now](https://read.engineerscodex.com/p/everyone-is-a-staff-engineer-now) 👤 Engineer's Codex 💬 1251 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
     > **Резюме:** AI handles more coding, so engineers must focus on higher-level work.  
 The key skills now are system context, architecture, and steering agents.  
 Successful engineers will be those who manage attention, plan well, and review effectively.
+- [A Year Of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) 👤 Armin Ronacher 💬 2175 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
+    > **Резюме:** Armin Ronacher describes 2025 as a turning point where agentic coding tools like Claude Code changed how he works. He now uses LLMs for coding, organizing life, and building tools, and sees gaps in version control and code review for AI-generated work. He worries about treating these systems as human agents and calls for better practices and UX to manage agentic engineering.
 - [2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) 👤 karpathy 💬 1746 🔖 #llm 🗓️ 2025-12-22
     > **Резюме:** 2025 saw big shifts in LLMs: RLVR drove much capability by training on verifiable rewards.  
 LLMs feel like new, jagged “ghost” intelligences and spawned new app layers and local agents (Cursor, Claude Code).  

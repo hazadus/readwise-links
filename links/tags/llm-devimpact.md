@@ -1,13 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 20
+- Всего ссылок: 22
 
 ## Ссылки
 
+- [Writing Code Is Fun](https://davidcel.is/articles/writing-code-is-fun) 👤 davidcel.is 💬 645 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
+    > **Резюме:** The author loves writing code because solving problems and building things is fun. They find AI coding tools take away that joy and often don’t save time. Relying on AI turns engineers into reviewers or managers instead of creators.
 - [Everyone is a Staff Engineer Now](https://read.engineerscodex.com/p/everyone-is-a-staff-engineer-now) 👤 Engineer's Codex 💬 1251 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
     > **Резюме:** AI handles more coding, so engineers must focus on higher-level work.  
 The key skills now are system context, architecture, and steering agents.  
 Successful engineers will be those who manage attention, plan well, and review effectively.
+- [A Year Of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) 👤 Armin Ronacher 💬 2175 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
+    > **Резюме:** Armin Ronacher describes 2025 as a turning point where agentic coding tools like Claude Code changed how he works. He now uses LLMs for coding, organizing life, and building tools, and sees gaps in version control and code review for AI-generated work. He worries about treating these systems as human agents and calls for better practices and UX to manage agentic engineering.
 - [The Strange Case of Engineers Who Dismiss AI](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/) 👤 Terrible Software 💬 710 🔖 #llm, #llm-devimpact 🗓️ 2025-12-20
     > **Резюме:** Many engineers dismiss AI coding tools because of early bad experiences or pride in their skills. However, AI tools have improved a lot and can now handle complex coding tasks efficiently. Engineers who avoid these tools risk falling behind those who use them to work faster and take on bigger challenges.
 - [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything) 👤 Simon Willison 💬 837 🔖 #llm, #llm-devimpact, #softwarecraft 🗓️ 2025-12-19
