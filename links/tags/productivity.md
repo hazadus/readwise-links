@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [Be a Magpie. You'll Get More Done.](https://www.joanwestenberg.com/p/be-a-magpie-you-ll-get-more-done) 👤 JA Westenberg 💬 1113 🔖 #productivity 🗓️ 2025-11-04
+- [Be a Magpie. You'll Get More Done.](https://www.joanwestenberg.com/p/be-a-magpie-you-ll-get-more-done) 👤 JA Westenberg 💬 1113 🔖 #reflections, #productivity 🗓️ 2025-11-04
     > **Резюме:** Don't follow one productivity system slavishly.  
 Take useful ideas from many methods and build a system that fits you.  
 Keep what helps, discard what doesn't.

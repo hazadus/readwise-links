@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes?utm_source=substack&utm_medium=email) 👤 Jason Fried 💬 725 🔖 #joyandcuriosity 🗓️ 2025-12-21
+- [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes?utm_source=substack&utm_medium=email) 👤 Jason Fried 💬 725 🔖 #reflections, #joyandcuriosity 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/6947a75b-b214-8327-9837-b87b2e4258cc
     > **Резюме:** Quick reactions often stop us from truly understanding ideas. Giving an idea five minutes means thinking before judging or arguing. This helps us learn more and respect the fragile nature of new thoughts.
 - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email) 👤 ngrok 💬 78 🔖 #llm, #explorable, #joyandcuriosity 🗓️ 2025-12-21

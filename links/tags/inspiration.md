@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [The Harvest Will Come](https://www.joanwestenberg.com/p/the-harvest-will-come) 👤 JA Westenberg 💬 816 🔖 #inspiration 🗓️ 2025-12-03
+- [The Harvest Will Come](https://www.joanwestenberg.com/p/the-harvest-will-come) 👤 JA Westenberg 💬 816 🔖 #inspiration, #reflections 🗓️ 2025-12-03
     > **Заметка:** Очень точные наблюдения о сменяющихся циклах мотивированности и апатии. 
     > **Резюме:** Purpose and creativity come in seasons, not constant summer.  
 Quiet, fallow times are restorative — they compost ideas for later.  
@@ -17,7 +17,7 @@ You haven't failed when you rest; new growth often follows.
     > **Резюме:** Simon Willison uses asynchronous coding agents like Claude Code and Codex to run code research projects that experiment and test ideas automatically. He gives these agents a dedicated GitHub repository with full network access so they can explore freely and report results via pull requests. This method saves time and helps discover what works by writing and executing real code.
 - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/?utm_source=tldrwebdev) 👤 Evan Hahn 💬 2125 🔖 #cli, #inspiration, #joyandcuriosity 🗓️ 2025-10-26
     > **Резюме:** The author describes many small shell scripts they use frequently to solve everyday tasks. Most scripts are simple helpers for making temp dirs, editing quick notes, downloading media, and automating routine work. They keep these handy in dotfiles and use them from daily to monthly.
-- [You Are Insignificant. That's a Good Thing.](https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing) 👤 JA Westenberg 💬 2708 🔖 #toot, #inspiration 🗓️ 2025-10-20
+- [You Are Insignificant. That's a Good Thing.](https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing) 👤 JA Westenberg 💬 2708 🔖 #toot, #inspiration, #reflections 🗓️ 2025-10-20
     > **Резюме:** The universe is vast and old, and your life is brief and small. That means you probably won't be remembered forever, and that's okay. You can focus on enjoying life and being kind now instead of chasing cosmic significance.
 - [Why Stories Make You Smarter Than Self-Help Books](https://www.joanwestenberg.com/p/why-stories-make-you-smarter-than-self-help-books) 👤 JA Westenberg 💬 929 🔖 #toot, #reading, #inspiration 🗓️ 2025-10-16
     > **Заметка:** "The dirty secret about non-fiction is that most of it could be a blog post.

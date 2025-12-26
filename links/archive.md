@@ -1,15 +1,16 @@
 # Архивные ссылки
 
-- Всего ссылок: 1296
+- Всего ссылок: 1297
 
 ## Ссылки
 
+- [Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/?utm_source=tldrdev) 👤 Simon Späti 💬 2430 🔖 #reflections 🗓️ 2025-12-25
 - [Writing Code Is Fun](https://davidcel.is/articles/writing-code-is-fun) 👤 davidcel.is 💬 645 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
 - [mprocs: start all your project's commands at once](https://www.bitecode.dev/p/mprocs-start-all-your-projects-commands) 👤 Bite Code! 💬 552 🔖 #devtools 🗓️ 2025-12-23
 - [Everyone is a Staff Engineer Now](https://read.engineerscodex.com/p/everyone-is-a-staff-engineer-now) 👤 Engineer's Codex 💬 1251 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
 - [A Year Of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) 👤 Armin Ronacher 💬 2175 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
 - [Unit Testing Principles](https://olano.dev/blog/unit-testing-principles/) 👤 Facundo Olano 💬 1620 🔖 #testing 🗓️ 2025-12-22
-- [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes?utm_source=substack&utm_medium=email) 👤 Jason Fried 💬 725 🔖 #joyandcuriosity 🗓️ 2025-12-21
+- [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes?utm_source=substack&utm_medium=email) 👤 Jason Fried 💬 725 🔖 #reflections, #joyandcuriosity 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/6947a75b-b214-8327-9837-b87b2e4258cc
 - [My first win building with agents](https://olano.dev/blog/agents2/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) 👤 Facundo Olano 💬 4079 🔖 #llm, #claude, #principles 🗓️ 2025-12-21
     > **Заметка:** Nice point on DRY principle.
@@ -47,7 +48,7 @@ https://chatgpt.com/c/6944406d-4640-832a-b0c4-9df0c3a7cf6d
 - [AI optimism is a class privilege](https://joshcollinsworth.com/blog/sloptimism) 👤 Josh Collinsworth 💬 3212 🔖 #llm, #toot 🗓️ 2025-12-04
     > **Заметка:** "In order to be an AI optimist, you have to believe yours is not one of the jobs that risk being automated or downsized, and that you are not among the potentially millions of workers staring down displacement."
 - [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/) 👤 adamj.eu 💬 4981 🔖 #django 🗓️ 2025-12-04
-- [The Harvest Will Come](https://www.joanwestenberg.com/p/the-harvest-will-come) 👤 JA Westenberg 💬 816 🔖 #inspiration 🗓️ 2025-12-03
+- [The Harvest Will Come](https://www.joanwestenberg.com/p/the-harvest-will-come) 👤 JA Westenberg 💬 816 🔖 #inspiration, #reflections 🗓️ 2025-12-03
     > **Заметка:** Очень точные наблюдения о сменяющихся циклах мотивированности и апатии. 
 - [The 'delayed opinions givers' - engineering teams everybody hates](https://newsletter.manager.dev/p/the-delayed-opinions-givers-engineering) 👤 Anton Zaides 💬 1615 🗓️ 2025-12-03
 - [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default?utm_source=substack&utm_medium=email) 👤 Thomas Paul Mann 💬 1054 🔖 #codereview, #joyandcuriosity 🗓️ 2025-11-30
@@ -55,7 +56,7 @@ https://chatgpt.com/c/6944406d-4640-832a-b0c4-9df0c3a7cf6d
 - [How good engineers write bad code at big companies](https://seangoedecke.com/bad-code-at-big-companies/) 👤 seangoedecke.com 💬 1645 🔖 #softwarecraft 🗓️ 2025-11-29
 - [Becoming unblockable](https://seangoedecke.com/unblockable/) 👤 seangoedecke.com 💬 1868 🔖 #softwarecraft 🗓️ 2025-11-26
 - [What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/) 👤 Terrible Software 💬 563 🔖 #career, #softwarecraft 🗓️ 2025-11-26
-- [Every Decision Has Three Costs: Time, Focus, and Optionality](https://www.joanwestenberg.com/p/every-decision-has-three-costs-time-focus-and-optionality) 👤 JA Westenberg 💬 1010 🗓️ 2025-11-26
+- [Every Decision Has Three Costs: Time, Focus, and Optionality](https://www.joanwestenberg.com/p/every-decision-has-three-costs-time-focus-and-optionality) 👤 JA Westenberg 💬 1010 🔖 #reflections 🗓️ 2025-11-26
 - [GitHub: top commands in gh, the official GitHub CLI](https://adamj.eu/tech/2025/11/24/github-top-gh-cli-commands/) 👤 adamj.eu 💬 5208 🔖 #cli, #try, #github 🗓️ 2025-11-24
 - [Agent Design Is Still Hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/) 👤 Armin Ronacher 💬 2566 🔖 #llm, #agents 🗓️ 2025-11-24
 - [Get Notified When Claude Code Finishes With Hooks](https://alexop.dev/posts/claude-code-notification-hooks/) 👤 Alexander Opalic 💬 736 🔖 #claude 🗓️ 2025-11-24
@@ -99,7 +100,7 @@ https://chatgpt.com/c/6944406d-4640-832a-b0c4-9df0c3a7cf6d
 - [Burning out](https://www.interconnects.ai/p/burning-out?utm_source=substack&utm_medium=email) 👤 Nathan Lambert 💬 2007 🔖 #llm, #burnout, #llm-devimpact 🗓️ 2025-11-04
 - [Kafka is fast -- I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks?utm_source=tldrwebdev) 👤 TopicPartition 💬 6636 🔖 #kafka, #postgresql 🗓️ 2025-11-04
 - [A Beginner’s Guide to Automation with n8n](https://www.freecodecamp.org/news/a-beginners-guide-to-automation-with-n8n/) 👤 Manish Shivanandhan 💬 1902 🔖 #n8n 🗓️ 2025-11-04
-- [Be a Magpie. You'll Get More Done.](https://www.joanwestenberg.com/p/be-a-magpie-you-ll-get-more-done) 👤 JA Westenberg 💬 1113 🔖 #productivity 🗓️ 2025-11-04
+- [Be a Magpie. You'll Get More Done.](https://www.joanwestenberg.com/p/be-a-magpie-you-ll-get-more-done) 👤 JA Westenberg 💬 1113 🔖 #reflections, #productivity 🗓️ 2025-11-04
 - [Is it worrying that 95% of AI enterprise projects fail?](https://seangoedecke.com/why-do-ai-enterprise-projects-fail/) 👤 seangoedecke.com 💬 1660 🔖 #llm 🗓️ 2025-11-04
 - [Code Author](https://yusufaytas.com/code-author/) 👤 https://www.facebook.com/yusufaytas 💬 759 🗓️ 2025-11-02
 - [How cheap, outsourced labour in Africa is shaping AI English](https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt) 👤 Alex Hern 💬 1508 🔖 #llm 🗓️ 2025-11-01
@@ -148,7 +149,7 @@ https://chatgpt.com/c/6944406d-4640-832a-b0c4-9df0c3a7cf6d
 - [Claude Code for web—a new asynchronous coding agent from Anthropic](https://simonwillison.net/2025/Oct/20/claude-code-for-web/#atom-everything) 👤 Simon Willison 💬 1076 🔖 #llm, #claude 🗓️ 2025-10-20
 - [«Переводить Сапковского — как Нобелевскую премию получить». Интервью с переводчиком «Перекрёстка воронов» Вадимом Кумоком](https://www.mirf.ru/book/vadim-kumok-interview) 👤 Алексей Ионов 💬 2039 🔖 #interview 🗓️ 2025-10-20
 - [Stop Ignoring the Browser: The Biggest Frontend Shift in a Decade](https://thenewstack.io/stop-ignoring-the-browser-the-biggest-frontend-shift-in-a-decade/?utm_source=tldrwebdev) 👤 Alexander T. Williams 💬 1141 🔖 #webdev, #frontend 🗓️ 2025-10-20
-- [You Are Insignificant. That's a Good Thing.](https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing) 👤 JA Westenberg 💬 2708 🔖 #toot, #inspiration 🗓️ 2025-10-20
+- [You Are Insignificant. That's a Good Thing.](https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing) 👤 JA Westenberg 💬 2708 🔖 #toot, #inspiration, #reflections 🗓️ 2025-10-20
 - [What have we learned about building agentic AI tools?](https://seangoedecke.com/ideas-in-agentic-ai-tooling/) 👤 seangoedecke.com 💬 1265 🔖 #llm, #agents 🗓️ 2025-10-20
 - [We are in the "gentleman scientist" era of AI research](https://seangoedecke.com/ai-and-informal-science/) 👤 seangoedecke.com 💬 1608 🔖 #llm 🗓️ 2025-10-19
 - [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/#atom-everything) 👤 Simon Willison 💬 1480 🔖 #llm, #claude 🗓️ 2025-10-18
@@ -181,7 +182,7 @@ They follow a template: introduce a counterintuitive finding, tell three anecdot
 - [Build your engineering team like a dungeon party](https://newsletter.manager.dev/p/build-your-engineering-team-like?utm_source=tldrwebdev&triedRedirect=true) 👤 Anton Zaides 💬 1284 🔖 #toot, #leaddev, #management 🗓️ 2025-10-10
     > **Заметка:** Классная аналогия формирования команды разработчиков 
 - [Don’t Build A General Purpose API To Power Your Own Front End](https://max.engineer/server-informed-ui) 👤 Max Chernyak 💬 1366 🔖 #api 🗓️ 2025-10-09
-- [The Exhaustion of Permanent Disruption](https://www.joanwestenberg.com/p/the-exhaustion-of-permanent-disruption) 👤 JA Westenberg 💬 825 🗓️ 2025-10-09
+- [The Exhaustion of Permanent Disruption](https://www.joanwestenberg.com/p/the-exhaustion-of-permanent-disruption) 👤 JA Westenberg 💬 825 🔖 #reflections 🗓️ 2025-10-09
 - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/) 👤 hojberg.xyz 💬 2646 🔖 #llm, #programming, #llm-devimpact 🗓️ 2025-10-09
 - [Now open for building: Introducing Gemini CLI extensions](https://blog.google/technology/developers/gemini-cli-extensions/) 👤 Taylor Mullen 💬 1065 🔖 #gemini 🗓️ 2025-10-09
 - [Python 3.14 Is Here. How Fast Is It?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it) 👤 Miguel Grinberg 💬 2548 🔖 #toot, #python, #programming 🗓️ 2025-10-09
@@ -195,7 +196,7 @@ They follow a template: introduce a counterintuitive finding, tell three anecdot
 - [Managers Have Been Vibe Coding All Along](https://yusufaytas.com/managers-have-been-vibe-coding-all-along/) 👤 https://www.facebook.com/yusufaytas 💬 580 🗓️ 2025-10-06
 - [Onward](https://domenic.me/retirement/?utm_source=substack&utm_medium=email) 👤 Domenic Denicola 💬 838 🔖 #joyandcuriosity 🗓️ 2025-10-05
 - [Thank you for being annoying](https://www.experimental-history.com/p/thank-you-for-being-annoying?utm_source=substack&utm_medium=email) 👤 Adam Mastroianni 💬 2831 🔖 #joyandcuriosity 🗓️ 2025-10-05
-- [I’m Done Future-proofing my Life.](https://www.joanwestenberg.com/p/i-m-done-future-proofing-my-life) 👤 JA Westenberg 💬 809 🗓️ 2025-10-05
+- [I’m Done Future-proofing my Life.](https://www.joanwestenberg.com/p/i-m-done-future-proofing-my-life) 👤 JA Westenberg 💬 809 🔖 #reflections 🗓️ 2025-10-05
 - [How to influence tech company politics as a staff software engineer](https://seangoedecke.com/how-to-influence-politics/) 👤 seangoedecke.com 💬 1215 🔖 #career 🗓️ 2025-10-05
 - [Stop Wasting Brainpower](https://yusufaytas.com/stop-wasting-brainpower/) 👤 https://www.facebook.com/yusufaytas 💬 1810 🗓️ 2025-10-05
 - [How to Write Better Pinia Stores with the Elm Pattern](https://alexop.dev/posts/tea-architecture-pinia-private-store-pattern/) 👤 Alexander Opalic 💬 1404 🔖 #pinia 🗓️ 2025-10-05
@@ -241,7 +242,7 @@ They follow a template: introduce a counterintuitive finding, tell three anecdot
 - [You Still Need to Think](https://calv.info/you-still-need-to-think) 👤 calv.info 💬 539 🔖 #llm 🗓️ 2025-09-28
 - [Write the damn code](https://antonz.org/write-code/) 👤 Anton Zhiyanov 💬 251 🔖 #llm 🗓️ 2025-09-28
 - [GitHub Copilot CLI is now in public preview](https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything) 👤 Simon Willison 💬 236 🔖 #llm, #github 🗓️ 2025-09-28
-- [We've Hit Personal Agency Hyperfinflation](https://www.joanwestenberg.com/p/personal-agency-inflation) 👤 JA Westenberg 💬 984 🗓️ 2025-09-28
+- [We've Hit Personal Agency Hyperfinflation](https://www.joanwestenberg.com/p/personal-agency-inflation) 👤 JA Westenberg 💬 984 🔖 #reflections 🗓️ 2025-09-28
 - [On Choosing Rust](https://endler.dev/2025/choosing-rust/) 👤 Matthias Endler 💬 1414 🔖 #rust 🗓️ 2025-09-28
 - [Endless AI-generated Wikipedia](https://seangoedecke.com/endless-wiki/) 👤 seangoedecke.com 💬 654 🔖 #llm, #toot, #inspiration 🗓️ 2025-09-27
     > **Заметка:** Шон реализовал гениальную в своей простоте идею "бесконечной энциклопедии" на основе LLM. Впечатляет!
@@ -259,7 +260,7 @@ They follow a template: introduce a counterintuitive finding, tell three anecdot
 - [Some Thoughts on "AI"](https://ronjeffries.com/articles/-w025/y/l/) 👤 ronjeffries.com 💬 2445 🔖 #llm 🗓️ 2025-09-25
 - [Transitioning from being a developer to a manager](https://piccalil.li/blog/transitioning-from-being-a-developer-to-a-manager/?ref=main-rss-feed) 👤 Piccalilli 💬 1833 🔖 #career, #management 🗓️ 2025-09-24
 - [What I learned building an AI-driven spaced repetition app](https://seangoedecke.com/autodeck/) 👤 seangoedecke.com 💬 1666 🔖 #llm, #inspiration 🗓️ 2025-09-24
-- [Why Belief Beats Discipline](https://www.joanwestenberg.com/p/why-belief-beats-discipline) 👤 JA Westenberg 💬 1354 🗓️ 2025-09-24
+- [Why Belief Beats Discipline](https://www.joanwestenberg.com/p/why-belief-beats-discipline) 👤 JA Westenberg 💬 1354 🔖 #reflections 🗓️ 2025-09-24
 - [When AI will browse the web for me](https://www.stefanjudis.com/notes/when-ai-will-browse-the-web-for-me/) 👤 stefanjudis.com 💬 399 🔖 #llm 🗓️ 2025-09-24
 - [Let the domain guide your application structure](https://rednafi.com/go/app_structure/) 👤 Redowan Delowar 💬 1181 🔖 #go 🗓️ 2025-09-22
 - [If you are good at code review, you will be good at using AI agents](https://seangoedecke.com/ai-agents-and-code-review/) 👤 seangoedecke.com 💬 1285 🔖 #llm, #codereview 🗓️ 2025-09-22

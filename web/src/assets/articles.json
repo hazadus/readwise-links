@@ -1,5 +1,127 @@
 [
     {
+        "id": "01kdbdgmvxthpj5a15hrt4r027",
+        "url": "https://read.readwise.io/read/01kdbdgmvxthpj5a15hrt4r027",
+        "source_url": "https://www.ssp.sh/blog/finding-flow/",
+        "title": "Finding Flow: Escaping Digital Distractions Through Deep Work and Slow Living",
+        "author": "Simon Späti",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "later",
+        "tags": {
+            "reflections": {
+                "name": "Reflections",
+                "type": "manual",
+                "created": 1766691958280
+            }
+        },
+        "site_name": "ssp.sh",
+        "word_count": 2487,
+        "notes": "",
+        "summary": "The author urges escaping digital distractions by practicing deep work and slow living.  \nHe recommends shaping environments, routines, and breaks (walks, music, notebooks) to reach flow.  \nSlowing down, focusing on few meaningful tasks, and connecting with nature brings clarity and lasting satisfaction.",
+        "image_url": "https://www.ssp.sh/blog/finding-flow/featured-image.png",
+        "parent_id": null,
+        "reading_progress": 0.5103946727302258,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-02-14",
+        "created_at": "2025-12-25T18:49:37.820975+00:00",
+        "updated_at": "2025-12-25T19:49:38.069817+00:00",
+        "saved_at": "2025-12-25T18:49:36.381000+00:00",
+        "first_opened_at": "2025-12-25T18:49:36.381000+00:00",
+        "last_opened_at": "2025-12-25T19:49:26.585000+00:00",
+        "last_moved_at": "2025-12-25T18:49:41.810000+00:00"
+    },
+    {
+        "id": "01kdbc7r2e4wmqwm54btvzf78x",
+        "url": "https://read.readwise.io/read/01kdbc7r2e4wmqwm54btvzf78x",
+        "source_url": "https://www.ssp.sh/blog/well-being-algorithms/?utm_source=tldrdev",
+        "title": "Well Being in Times of Algorithms",
+        "author": "Simon Späti",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "archive",
+        "tags": {
+            "reflections": {
+                "name": "Reflections",
+                "type": "manual",
+                "created": 1766691976479
+            }
+        },
+        "site_name": "ssp.sh",
+        "word_count": 2430,
+        "notes": "",
+        "summary": "Algorithms hijack our attention and erode deep thinking, relationships, and well‑being.  \nWe can reclaim control with open web tools, direct connections (newsletters, blogs, Patreon) and slow, focused work.  \nMore offline time and real human ties bring lasting happiness.",
+        "image_url": "https://www.ssp.sh/blog/well-being-algorithms/featured-image.png",
+        "parent_id": null,
+        "reading_progress": 1.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-12-22",
+        "created_at": "2025-12-25T18:27:17.575613+00:00",
+        "updated_at": "2025-12-25T19:46:17.381163+00:00",
+        "saved_at": "2025-12-25T18:27:16.174000+00:00",
+        "first_opened_at": "2025-12-25T18:27:16.174000+00:00",
+        "last_opened_at": "2025-12-25T18:32:41.937000+00:00",
+        "last_moved_at": "2025-12-25T19:15:19.939000+00:00",
+        "highlights": [
+            {
+                "id": "01kdbd0v0ecc5azg5kee499wz5",
+                "url": "https://read.readwise.io/read/01kdbd0v0ecc5azg5kee499wz5",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-web-app",
+                "category": "highlight",
+                "location": null,
+                "tags": {},
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01kdbc7r2e4wmqwm54btvzf78x",
+                "reading_progress": 0.0,
+                "content": "A healthy, deep, meaningful, happy life might actually look boring from the outside.",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2025-12-25T18:40:59.356634+00:00",
+                "updated_at": "2025-12-25T18:40:59.356652+00:00",
+                "saved_at": "2025-12-25T18:40:58.382000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2025-12-25T18:40:58.382000+00:00"
+            },
+            {
+                "id": "01kdbcw8m552vrnf4ye0dm87z9",
+                "url": "https://read.readwise.io/read/01kdbcw8m552vrnf4ye0dm87z9",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-web-app",
+                "category": "highlight",
+                "location": null,
+                "tags": {},
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01kdbc7r2e4wmqwm54btvzf78x",
+                "reading_progress": 0.0,
+                "content": "If the foundation pillars are not met, we will get into bad moods at first. If it happens over a longer period, we might get chronically bad moods. This reflects on other people, who are less likely to spend time with us. We isolate ourselves.",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2025-12-25T18:38:29.412270+00:00",
+                "updated_at": "2025-12-25T18:38:29.412286+00:00",
+                "saved_at": "2025-12-25T18:38:28.485000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2025-12-25T18:38:28.485000+00:00"
+            }
+        ]
+    },
+    {
         "id": "01kd7edmyrehs9fz5s8q66yh9n",
         "url": "https://read.readwise.io/read/01kd7edmyrehs9fz5s8q66yh9n",
         "source_url": "https://www.youtube.com/watch?v=H7Sd1FmYoy8",
@@ -528,6 +650,11 @@
         "category": "article",
         "location": "archive",
         "tags": {
+            "reflections": {
+                "name": "Reflections",
+                "type": "manual",
+                "created": 1766692017711
+            },
             "joyandcuriosity": {
                 "name": "JoyAndCuriosity",
                 "type": "manual",
@@ -545,7 +672,7 @@
         "html_content": null,
         "published_date": "2012-03-01",
         "created_at": "2025-12-21T07:57:14.143042+00:00",
-        "updated_at": "2025-12-21T19:28:19.684096+00:00",
+        "updated_at": "2025-12-25T19:46:58.394260+00:00",
         "saved_at": "2025-12-21T07:57:13.243000+00:00",
         "first_opened_at": "2025-12-21T07:57:13.243000+00:00",
         "last_opened_at": "2025-12-21T19:23:41.128000+00:00",
@@ -4308,6 +4435,11 @@
                 "name": "Inspiration",
                 "type": "manual",
                 "created": 1764835975472
+            },
+            "reflections": {
+                "name": "Reflections",
+                "type": "manual",
+                "created": 1766692056133
             }
         },
         "site_name": "Joan Westenberg",
@@ -4321,7 +4453,7 @@
         "html_content": null,
         "published_date": "2025-12-02",
         "created_at": "2025-12-03T08:20:48.731565+00:00",
-        "updated_at": "2025-12-04T08:17:08.101074+00:00",
+        "updated_at": "2025-12-25T19:47:36.997896+00:00",
         "saved_at": "2025-12-03T08:20:48.711000+00:00",
         "first_opened_at": "2025-12-04T07:34:21.274000+00:00",
         "last_opened_at": "2025-12-04T08:12:48.168000+00:00",
@@ -5559,7 +5691,13 @@
         "source": "Reader add from import URL",
         "category": "article",
         "location": "archive",
-        "tags": {},
+        "tags": {
+            "reflections": {
+                "name": "Reflections",
+                "type": "manual",
+                "created": 1766692068897
+            }
+        },
         "site_name": "Joan Westenberg",
         "word_count": 1010,
         "notes": "",
@@ -5571,7 +5709,7 @@
         "html_content": null,
         "published_date": "2025-11-24",
         "created_at": "2025-11-26T05:28:07.143634+00:00",
-        "updated_at": "2025-11-26T06:09:46.145776+00:00",
+        "updated_at": "2025-12-25T19:47:49.800148+00:00",
         "saved_at": "2025-11-26T05:28:06.673000+00:00",
         "first_opened_at": "2025-11-26T05:48:38.076000+00:00",
         "last_opened_at": "2025-11-26T05:48:38.151000+00:00",
@@ -9274,10 +9412,10 @@
         "html_content": null,
         "published_date": "2025-11-06",
         "created_at": "2025-11-08T10:05:13.216295+00:00",
-        "updated_at": "2025-12-18T14:29:16.760470+00:00",
+        "updated_at": "2025-12-25T19:47:22.892641+00:00",
         "saved_at": "2025-11-08T10:05:13.194000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
+        "first_opened_at": "2025-12-25T19:47:21+00:00",
+        "last_opened_at": "2025-12-25T19:47:21.109000+00:00",
         "last_moved_at": "2025-12-18T14:29:15.956000+00:00"
     },
     {
@@ -9783,6 +9921,11 @@
         "category": "article",
         "location": "archive",
         "tags": {
+            "reflections": {
+                "name": "Reflections",
+                "type": "manual",
+                "created": 1766692062547
+            },
             "productivity": {
                 "name": "Productivity",
                 "type": "manual",
@@ -9800,7 +9943,7 @@
         "html_content": null,
         "published_date": "2025-11-03",
         "created_at": "2025-11-04T05:00:21.213118+00:00",
-        "updated_at": "2025-11-26T10:33:53.580845+00:00",
+        "updated_at": "2025-12-25T19:47:43.386942+00:00",
         "saved_at": "2025-11-04T05:00:21.196000+00:00",
         "first_opened_at": "2025-11-26T10:25:13.146000+00:00",
         "last_opened_at": "2025-11-26T10:25:13.216000+00:00",
@@ -13357,6 +13500,11 @@
                 "name": "Inspiration",
                 "type": "manual",
                 "created": 1761048030471
+            },
+            "reflections": {
+                "name": "Reflections",
+                "type": "manual",
+                "created": 1766692080816
             }
         },
         "site_name": "Joan Westenberg",
@@ -13370,7 +13518,7 @@
         "html_content": null,
         "published_date": "2025-10-20",
         "created_at": "2025-10-20T08:45:03.925963+00:00",
-        "updated_at": "2025-10-21T12:17:15.606404+00:00",
+        "updated_at": "2025-12-25T19:48:01.582160+00:00",
         "saved_at": "2025-10-20T08:45:03.880000+00:00",
         "first_opened_at": "2025-10-21T11:46:31.634000+00:00",
         "last_opened_at": "2025-10-21T11:46:31.740000+00:00",
@@ -15718,7 +15866,13 @@
         "source": "Reader Share Sheet iOS",
         "category": "article",
         "location": "archive",
-        "tags": {},
+        "tags": {
+            "reflections": {
+                "name": "Reflections",
+                "type": "manual",
+                "created": 1766692134487
+            }
+        },
         "site_name": "Joan Westenberg",
         "word_count": 825,
         "notes": "",
@@ -15730,7 +15884,7 @@
         "html_content": null,
         "published_date": "2025-10-09",
         "created_at": "2025-10-09T05:25:43.193967+00:00",
-        "updated_at": "2025-10-09T05:52:19.463892+00:00",
+        "updated_at": "2025-12-25T19:48:55.450886+00:00",
         "saved_at": "2025-10-09T05:25:43.175000+00:00",
         "first_opened_at": "2025-10-09T05:46:37.803000+00:00",
         "last_opened_at": "2025-10-09T05:46:37.926000+00:00",
@@ -17027,7 +17181,13 @@
         "source": "Reader Share Sheet iOS",
         "category": "article",
         "location": "archive",
-        "tags": {},
+        "tags": {
+            "reflections": {
+                "name": "Reflections",
+                "type": "manual",
+                "created": 1766692122714
+            }
+        },
         "site_name": "Joan Westenberg",
         "word_count": 809,
         "notes": "",
@@ -17039,7 +17199,7 @@
         "html_content": null,
         "published_date": "2025-10-05",
         "created_at": "2025-10-05T09:07:07.559058+00:00",
-        "updated_at": "2025-10-06T12:48:32.731352+00:00",
+        "updated_at": "2025-12-25T19:48:43.632370+00:00",
         "saved_at": "2025-10-05T09:07:07.534000+00:00",
         "first_opened_at": "2025-10-06T12:41:16.431000+00:00",
         "last_opened_at": "2025-10-06T12:41:16.531000+00:00",
@@ -20044,7 +20204,13 @@
         "source": "Reader Share Sheet iOS",
         "category": "article",
         "location": "archive",
-        "tags": {},
+        "tags": {
+            "reflections": {
+                "name": "Reflections",
+                "type": "manual",
+                "created": 1766692099298
+            }
+        },
         "site_name": "Joan Westenberg",
         "word_count": 984,
         "notes": "",
@@ -20056,7 +20222,7 @@
         "html_content": null,
         "published_date": "2025-09-25",
         "created_at": "2025-09-28T09:34:07.670064+00:00",
-        "updated_at": "2025-10-09T06:30:40.965616+00:00",
+        "updated_at": "2025-12-25T19:48:20.225143+00:00",
         "saved_at": "2025-09-28T09:34:07.648000+00:00",
         "first_opened_at": "2025-10-09T06:09:26.824000+00:00",
         "last_opened_at": "2025-10-09T06:09:26.973000+00:00",
@@ -21617,7 +21783,13 @@
         "source": "Reader Share Sheet iOS",
         "category": "article",
         "location": "archive",
-        "tags": {},
+        "tags": {
+            "reflections": {
+                "name": "Reflections",
+                "type": "manual",
+                "created": 1766692117298
+            }
+        },
         "site_name": "Joan Westenberg",
         "word_count": 1354,
         "notes": "",
@@ -21629,7 +21801,7 @@
         "html_content": null,
         "published_date": "2025-09-22",
         "created_at": "2025-09-24T05:36:57.189581+00:00",
-        "updated_at": "2025-09-29T12:29:48.314640+00:00",
+        "updated_at": "2025-12-25T19:48:38.230191+00:00",
         "saved_at": "2025-09-24T05:36:57.171000+00:00",
         "first_opened_at": "2025-09-25T06:05:34.036000+00:00",
         "last_opened_at": "2025-09-29T12:15:54.694000+00:00",
