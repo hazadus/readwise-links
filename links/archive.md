@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1297
+- Всего ссылок: 1298
 
 ## Ссылки
 
+- [Finding Flow: Escaping Digital Distractions Through Deep Work and Slow Living](https://www.ssp.sh/blog/finding-flow/) 👤 Simon Späti 💬 2487 🔖 #reflections 🗓️ 2025-12-25
 - [Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/?utm_source=tldrdev) 👤 Simon Späti 💬 2430 🔖 #reflections 🗓️ 2025-12-25
 - [Writing Code Is Fun](https://davidcel.is/articles/writing-code-is-fun) 👤 davidcel.is 💬 645 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
 - [mprocs: start all your project's commands at once](https://www.bitecode.dev/p/mprocs-start-all-your-projects-commands) 👤 Bite Code! 💬 552 🔖 #devtools 🗓️ 2025-12-23

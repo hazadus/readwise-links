@@ -4,10 +4,8 @@
 
 ## Ссылки
 
-- [Finding Flow: Escaping Digital Distractions Through Deep Work and Slow Living](https://www.ssp.sh/blog/finding-flow/) 👤 Simon Späti 💬 2487 🔖 #reflections 🗓️ 2025-12-25
-    > **Резюме:** The author urges escaping digital distractions by practicing deep work and slow living.  
-He recommends shaping environments, routines, and breaks (walks, music, notebooks) to reach flow.  
-Slowing down, focusing on few meaningful tasks, and connecting with nature brings clarity and lasting satisfaction.
+- [The Rime of the Ancient Maintainer](https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/?ref=westenberg-newsletter) 👤 Westenberg. 💬 1030 🗓️ 2025-12-27
+    > **Резюме:** Cultures idolize flashy creators while ignoring the steady work of maintainers. Maintenance prevents collapse by fighting inevitable decay in systems and lives. We should value and celebrate those who keep things running.
 - [The Pragmatic Engineer in 2025](https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-in-2025) 👤 Gergely Orosz 💬 2185 🗓️ 2025-12-24
     > **Резюме:** In 2025, AI greatly changed software engineering and the tech job market stayed tough. The Pragmatic Engineer shared 134 newsletters and many podcast episodes about these trends and real-world challenges. The author thanked subscribers and promised more helpful content in 2026.
 - [A Scientist’s Guide to Debugging Engineers](https://newsletter.manager.dev/p/a-scientists-guide-to-debugging-engineers) 👤 Anton Zaides 💬 1171 🗓️ 2025-12-23
