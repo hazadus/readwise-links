@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [You can't design software you don't work on](https://seangoedecke.com/you-cant-design-software-you-dont-work-on/) 👤 seangoedecke.com 💬 1577 🔖 #softwaredesign 🗓️ 2025-12-29
+    > **Резюме:** Only engineers who work on a large codebase can do useful design for it. Generic design advice is mainly helpful for new projects or as tie-breakers and company-wide guidelines. Heavyweight architect-only roles often fail because they lack intimate knowledge and implementation responsibility.
 - [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html?utm_source=tldrwebdev) 👤 Google Testing Blog 💬 334 🔖 #softwaredesign 🗓️ 2025-10-29
     > **Резюме:** Mixing business logic with side effects makes code hard to test and change. Split code into a pure functional core for logic and an imperative shell for I/O. This makes testing, reuse, and adding features simple.
 - [Most of What We Call Progress](https://yusufaytas.com/most-of-what-we-call-progress/) 👤 https://www.facebook.com/yusufaytas 💬 2537 🔖 #management, #softwaredesign 🗓️ 2025-10-16

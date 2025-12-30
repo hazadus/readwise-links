@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html) 👤 Andrew Nesbitt 💬 1254 🔖 #uv 🗓️ 2025-12-29
+    > **Заметка:** Via https://simonwillison.net/2025/Dec/26/how-uv-got-so-fast/
+    > **Резюме:** uv is fast mainly because it drops legacy behaviors and exploits modern Python packaging standards, not just because it’s written in Rust. It uses metadata-first resolution, parallel downloads, a global cache, and stricter rules to avoid slow fallback paths. Rust adds extra speed (threading, zero-copy, compact data), but the architectural choices matter most.
 - [Better alternative to shell scripts with Python, uv and pytest](https://hamatti.org/posts/better-alternative-to-shell-scripts-with-python-uv-and-pytest/) 👤 Juha-Matti Santala 💬 1312 🔖 #uv, #try, #toot, #pytest, #python 🗓️ 2025-07-30
     > **Заметка:** Отличная шпаргалка о запуске самодостаточных Python-скриптов, ещё и возможность встраивания тестов описана
     > **Резюме:** Python with the tool uv offers a better way to write small scripts instead of using shell scripts. It handles dependencies easily and supports inline metadata for cleaner scripts. Adding tests with pytest and managing scripts with simple commands makes scripting safer and more efficient.

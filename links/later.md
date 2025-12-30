@@ -1,9 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 76
+- Всего ссылок: 78
 
 ## Ссылки
 
+- [LlamaIndex in Python: A RAG Guide With Examples](https://realpython.com/llamaindex-examples/) 👤 Leodanis Pozo Ramos 💬 4813 🗓️ 2025-12-29
+    > **Резюме:** LlamaIndex is a Python tool that helps you connect your data to large language models for better AI answers. It works by loading documents, creating searchable indexes, and using retrieval-augmented generation (RAG) to provide accurate responses. This guide shows you how to install LlamaIndex, build indexes, and query models like OpenAI and Ollama with your own data.
+- [textarea.my on GitHub](https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything) 👤 Simon Willison 💬 246 🗓️ 2025-12-29
+    > **Резюме:** Textarea.my is a tiny browser-only text editor that stores its data in the URL hash.  
+It uses CompressionStream to shrink state, supports plaintext-only editing, and can save files via the save picker or download.  
+The code includes a simple debounce(ms, fn) that ensures a function runs at most once per timeout.
 - [The Rime of the Ancient Maintainer](https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/?ref=westenberg-newsletter) 👤 Westenberg. 💬 1030 🗓️ 2025-12-27
     > **Резюме:** Cultures idolize flashy creators while ignoring the steady work of maintainers. Maintenance prevents collapse by fighting inevitable decay in systems and lives. We should value and celebrate those who keep things running.
 - [The Pragmatic Engineer in 2025](https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-in-2025) 👤 Gergely Orosz 💬 2185 🗓️ 2025-12-24

@@ -1,9 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 1298
+- Всего ссылок: 1302
 
 ## Ссылки
 
+- [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html) 👤 Andrew Nesbitt 💬 1254 🔖 #uv 🗓️ 2025-12-29
+    > **Заметка:** Via https://simonwillison.net/2025/Dec/26/how-uv-got-so-fast/
+- [Software Engineers Are Not Politicians](https://alexwennerberg.com/blog/2025-11-28-engineering.html) 👤 alexwennerberg.com 💬 2235 🗓️ 2025-12-29
+- [Software engineers should be a little bit cynical](https://seangoedecke.com/a-little-bit-cynical/) 👤 seangoedecke.com 💬 1675 🗓️ 2025-12-29
+- [You can't design software you don't work on](https://seangoedecke.com/you-cant-design-software-you-dont-work-on/) 👤 seangoedecke.com 💬 1577 🔖 #softwaredesign 🗓️ 2025-12-29
 - [Finding Flow: Escaping Digital Distractions Through Deep Work and Slow Living](https://www.ssp.sh/blog/finding-flow/) 👤 Simon Späti 💬 2487 🔖 #reflections 🗓️ 2025-12-25
 - [Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/?utm_source=tldrdev) 👤 Simon Späti 💬 2430 🔖 #reflections 🗓️ 2025-12-25
 - [Writing Code Is Fun](https://davidcel.is/articles/writing-code-is-fun) 👤 davidcel.is 💬 645 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
