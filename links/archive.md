@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 1302
+- Всего ссылок: 1303
 
 ## Ссылки
 
@@ -313,6 +313,7 @@ They follow a template: introduce a counterintuitive finding, tell three anecdot
 - [A new experimental Go API for JSON](https://go.dev/blog/jsonv2-exp) 👤 go.dev 💬 3099 🔖 #go 🗓️ 2025-09-10
     > **Заметка:** https://chatgpt.com/c/694427de-3f60-832b-8307-e40da44c3903
 - [i ran Claude in a loop for three months, and it created a genz programming language called cursed](https://ghuntley.com/cursed/) 👤 Geoffrey Huntley 💬 1114 🔖 #fun, #llm 🗓️ 2025-09-09
+- [Why I Delete Every Unanswered Email, Every Month](https://www.joanwestenberg.com/p/why-i-delete-every-unanswered-email-every-month) 👤 Joan Westenberg 💬 1372 🔖 #productivity 🗓️ 2025-09-09
 - ['Make invalid states representable' considered harmful](https://seangoedecke.com/invalid-states/) 👤 seangoedecke.com 💬 2050 🔖 #softwaredesign 🗓️ 2025-09-08
 - [You can try to like stuff](https://dynomight.net/liking/?utm_source=substack&utm_medium=email) 👤 DYNOMIGHT 💬 1099 🔖 #joyandcuriosity 🗓️ 2025-09-07
 - [MacBook Lid Angle Sensor: Python Implementation Analysis](https://claude.ai/public/artifacts/6c92203e-9768-4ffa-ae0a-9c4307b94c5e) 👤 Claude 💬 1123 🔖 #claude 🗓️ 2025-09-07

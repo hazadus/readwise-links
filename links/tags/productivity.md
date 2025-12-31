@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 26
+- Всего ссылок: 27
 
 ## Ссылки
 
@@ -10,6 +10,8 @@ Take useful ideas from many methods and build a system that fits you.
 Keep what helps, discard what doesn't.
 - [Why Billionaire Productivity Hacks Won’t Work for You](https://www.joanwestenberg.com/p/why-billionaire-productivity-hacks-won-t-work-for-you) 👤 JA Westenberg 💬 1079 🔖 #productivity 🗓️ 2025-09-15
     > **Резюме:** Billionaire routines and productivity hacks often don't fit most people's lives. Advice only works if you share the giver's resources and context, which most of us do not. Treat tips as experiments and learn from people whose lives resemble your own.
+- [Why I Delete Every Unanswered Email, Every Month](https://www.joanwestenberg.com/p/why-i-delete-every-unanswered-email-every-month) 👤 Joan Westenberg 💬 1372 🔖 #productivity 🗓️ 2025-09-09
+    > **Резюме:** The author deletes every unanswered email at the end of each month. She rejects the pressure to always reply and protects time for deep work. Important messages will return; most emails are not worth the cost.
 - [Chapter 11 - Building a Second Brain](https://readwise.io/reader/document_raw_content/2217137) 💬 2498 🔖 #basb, #productivity 🗓️ 2024-11-21
     > **Резюме:** Creating a universal system for tagging notes is unrealistic and can lead to frustration. Instead, focus on using tags to track the progress of your notes and their specific use cases. Start with simpler organization methods and only add tags retroactively when you understand how your notes will be applied.
 - [Atomic Habits: Tiny Changes, Remarkable Results](private://read/01jd26n73z9d88wgkcm81ndn08) 👤 James Clear 💬 86898 🔖 #book, #outline, #productivity 🗓️ 2024-11-19

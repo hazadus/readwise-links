@@ -1,9 +1,12 @@
 # Новые ссылки
 
-- Всего ссылок: 875
+- Всего ссылок: 877
 
 ## Ссылки
 
+- [Designing Organizations For An Information-Rich World](https://gwern.net/doc/design/1971-simon.pdf) 👤 Herbert A. Simon, Karl W. Deutsch, Martin Shubik, Emilio Q. Daddario 💬 16634 🗓️ 2025-12-30
+    > **Заметка:** Via https://www.joanwestenberg.com/p/why-i-delete-every-unanswered-email-every-month
+- [The Precious Eyeblink](mailto:reader-forwarded-email/d0257b7082931e49d7f1780b6a39c57b) 👤 Kent Beck from Software Design: Tidy First? 💬 1206 🗓️ 2025-12-30
 - [Thanks AI! · GitHub](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f) 👤 262588213843476 💬 558 🗓️ 2025-12-29
 - [Поиграл в Warhammer 40000: Dark Heresy - Детективная Ваха про Инквизицию I Битый Пиксель](https://www.youtube.com/watch?v=H7Sd1FmYoy8) 👤 Битый Пиксель 🗓️ 2025-12-24
 - [Validating API Routes in Nuxt 4 with Zod](https://humanonlyweb.com/blog/validating-api-routes-in-nuxt-with-zod) 👤 HumanOnlyWeb 💬 913 🔖 #zod, #nuxt 🗓️ 2025-12-23

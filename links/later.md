@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 78
+- Всего ссылок: 76
 
 ## Ссылки
 
@@ -126,14 +126,10 @@ Skip unit tests for UI rendering; test stable business logic, state, and reusabl
 - [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/) 👤 Martin Fowler 💬 5715 🔖 #llm 🗓️ 2025-09-22
     > **Заметка:** https://chatgpt.com/c/6944167a-ba0c-8333-a192-12b9eb877fed
     > **Резюме:** The article discusses various patterns for building Generative AI (GenAI) products, including direct prompting, embeddings, and retrieval-augmented generation (RAG). It emphasizes the importance of evaluating LLM responses and using relevant document fragments to enhance the accuracy of the generated content. By combining different approaches, such as query rewriting and reranking, developers can improve the performance and relevance of LLM-based systems.
-- [How Google writes clean, maintainable code](https://engineercodex.substack.com/p/how-google-writes-clean-maintainable) 👤 Leo | Engineer's Codex 💬 1376 🗓️ 2025-09-18
-    > **Резюме:** Google follows a process called Readability, which is a mentorship process for disseminating programming language best practices. Each pull request is reviewed for proper code style and best practices by a code readability approver. To earn readability, engineers must submit code to readability reviewers until they have adequate knowledge. This process helps keep the codebase readable, searchable, and predictable, and enforces best practices and style. However, there are drawbacks, such as potential velocity slowdown and human bias. The need for code quality is subjective and depends on the individual and team.
 - [Test state, not interactions](http://rednafi.com/go/test_state_not_interactions/) 👤 Redowan Delowar 💬 1542 🔖 #testing 🗓️ 2025-09-14
     > **Резюме:** Test outcomes and state, not which functions were called.  
 LLMs and mock-generated interaction tests are brittle and can miss real bugs.  
 Write the first tests yourself and prefer public-API tests with handwritten fakes or real test services.
-- [Why I Delete Every Unanswered Email, Every Month](https://www.joanwestenberg.com/p/why-i-delete-every-unanswered-email-every-month) 👤 Joan Westenberg 💬 1372 🗓️ 2025-09-09
-    > **Резюме:** The author deletes every unanswered email at the end of each month. She rejects the pressure to always reply and protects time for deep work. Important messages will return; most emails are not worth the cost.
 - [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html) 👤 matklad.github.io 💬 4435 🔖 #testing 🗓️ 2025-09-08
     > **Резюме:** Testing helps keep software working when making changes. Good tests focus on features, not code details, and should be easy to update. Slow or flaky tests make refactoring hard, so testing speed and reliability matter a lot.
 - [Rich Pixels](https://simonwillison.net/2025/Sep/2/rich-pixels/#atom-everything) 👤 Simon Willison 💬 124 🗓️ 2025-09-02
