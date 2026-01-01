@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 76
+- Всего ссылок: 77
 
 ## Ссылки
 
+- [Agentic Engineering and the Sin of Incuriosity](https://davegriffith.substack.com/p/agentic-engineering-sin-incuriousity) 👤 Dave Griffith 💬 919 🗓️ 2025-12-31
+    > **Резюме:** Agentic coding tools are a major change in software and deserve attention, not indifference. Skepticism is valid, but incuriosity — refusing to explore possibilities — is a real failure. Try them, find what new things you can build, and keep building.
 - [LlamaIndex in Python: A RAG Guide With Examples](https://realpython.com/llamaindex-examples/) 👤 Leodanis Pozo Ramos 💬 4813 🗓️ 2025-12-29
     > **Резюме:** LlamaIndex is a Python tool that helps you connect your data to large language models for better AI answers. It works by loading documents, creating searchable indexes, and using retrieval-augmented generation (RAG) to provide accurate responses. This guide shows you how to install LlamaIndex, build indexes, and query models like OpenAI and Ollama with your own data.
 - [textarea.my on GitHub](https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything) 👤 Simon Willison 💬 246 🗓️ 2025-12-29
