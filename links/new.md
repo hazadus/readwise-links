@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 879
+- Всего ссылок: 880
 
 ## Ссылки
 
+- [10 Zsh hacks I wish I knew about sooner](https://www.youtube.com/watch?v=3fVAtaGhUyU) 👤 Dreams of Code 🗓️ 2026-01-01
 - [Как быстро находить ошибки в коде? Советы для начинающих](https://www.youtube.com/watch?v=9iwYRcw3A8A) 👤 Организованное программирование | Кирилл Мокевнин 🗓️ 2025-12-31
 - [Почему ты учишься неправильно? Гайд по самообразованию и книгам](https://www.youtube.com/watch?si=7ulTv-p1GIIL6qA6&v=EgnRsIJiuxc&feature=youtu.be) 👤 Go Get Podcast 🗓️ 2025-12-31
 - [Designing Organizations For An Information-Rich World](https://gwern.net/doc/design/1971-simon.pdf) 👤 Herbert A. Simon, Karl W. Deutsch, Martin Shubik, Emilio Q. Daddario 💬 16634 🗓️ 2025-12-30
