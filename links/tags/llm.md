@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 322
+- Всего ссылок: 323
 
 ## Ссылки
 
+- [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything) 👤 Simon Willison 💬 7468 🔖 #llm 🗓️ 2026-01-02
+    > **Резюме:** 2025 was the year LLMs got much better at reasoning and running as agents.  
+Coding agents like Claude Code and CLI tools became widely used for real development work.  
+Local models improved, cloud models advanced faster, and new conformance and testing patterns unlocked reliable AI-driven coding.
 - [Writing Code Is Fun](https://davidcel.is/articles/writing-code-is-fun) 👤 davidcel.is 💬 645 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
     > **Резюме:** The author loves writing code because solving problems and building things is fun. They find AI coding tools take away that joy and often don’t save time. Relying on AI turns engineers into reviewers or managers instead of creators.
 - [Everyone is a Staff Engineer Now](https://read.engineerscodex.com/p/everyone-is-a-staff-engineer-now) 👤 Engineer's Codex 💬 1251 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23

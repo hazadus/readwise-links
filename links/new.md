@@ -1,9 +1,12 @@
 # Новые ссылки
 
-- Всего ссылок: 880
+- Всего ссылок: 883
 
 ## Ссылки
 
+- [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything) 👤 Simon Willison 💬 7468 🗓️ 2026-01-02
+- [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything) 👤 Simon Willison 💬 7468 🔖 #llm 🗓️ 2026-01-02
+- [«Я хотела написать историю о ребятах, классно делающих работу, в которой они лучше всех». Интервью с Марией Закрученко](https://www.mirf.ru/blog/intervu-s-mariei-zakruchenko) 👤 mirf.ru 💬 2518 🗓️ 2026-01-02
 - [10 Zsh hacks I wish I knew about sooner](https://www.youtube.com/watch?v=3fVAtaGhUyU) 👤 Dreams of Code 🗓️ 2026-01-01
 - [Как быстро находить ошибки в коде? Советы для начинающих](https://www.youtube.com/watch?v=9iwYRcw3A8A) 👤 Организованное программирование | Кирилл Мокевнин 🗓️ 2025-12-31
 - [Почему ты учишься неправильно? Гайд по самообразованию и книгам](https://www.youtube.com/watch?si=7ulTv-p1GIIL6qA6&v=EgnRsIJiuxc&feature=youtu.be) 👤 Go Get Podcast 🗓️ 2025-12-31
