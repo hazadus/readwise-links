@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 883
+- Всего ссылок: 885
 
 ## Ссылки
 
+- [Is Critical Thinking the Most Important Skill for Software Engineers?](https://blog.pragmaticengineer.com/critical-thinking/) 👤 Gergely Orosz 💬 1887 🗓️ 2026-01-03
+- [Разгон: самый важный навык разработчика — критическое мышление](https://thecode.media/razgon-samyy-vazhnyy-navyk-razrabotchika-kriticheskoe-myshlenie/) 👤 Егор Степанов 💬 1394 🗓️ 2026-01-03
 - [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything) 👤 Simon Willison 💬 7468 🗓️ 2026-01-02
 - [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything) 👤 Simon Willison 💬 7468 🔖 #llm 🗓️ 2026-01-02
 - [«Я хотела написать историю о ребятах, классно делающих работу, в которой они лучше всех». Интервью с Марией Закрученко](https://www.mirf.ru/blog/intervu-s-mariei-zakruchenko) 👤 mirf.ru 💬 2518 🗓️ 2026-01-02
