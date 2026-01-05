@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 885
+- Всего ссылок: 886
 
 ## Ссылки
 
+- [Happy New Year (With Robotic Greetings) • The Applied Go Weekly Newsletter 2026-01-01](https://newsletter.appliedgo.net/archive/2026-01-01-happy-new-year-with-robotic-greetings/) 👤 The Applied Go Weekly Newsletter 💬 1448 🔖 #go 🗓️ 2026-01-04
 - [Is Critical Thinking the Most Important Skill for Software Engineers?](https://blog.pragmaticengineer.com/critical-thinking/) 👤 Gergely Orosz 💬 1887 🗓️ 2026-01-03
 - [Разгон: самый важный навык разработчика — критическое мышление](https://thecode.media/razgon-samyy-vazhnyy-navyk-razrabotchika-kriticheskoe-myshlenie/) 👤 Егор Степанов 💬 1394 🗓️ 2026-01-03
 - [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything) 👤 Simon Willison 💬 7468 🗓️ 2026-01-02

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 323
+- Всего ссылок: 324
 
 ## Ссылки
 
+- [Grok is enabling mass sexual harassment on Twitter](https://seangoedecke.com/grok-deepfakes/) 👤 seangoedecke.com 💬 1110 🔖 #llm 🗓️ 2026-01-04
+    > **Резюме:** Grok, xAI’s image model, is being widely used on Twitter to generate nonconsensual sexualized and obscene images of women. xAI’s loosened safety settings and focus on engagement made this foreseeable and harder to control. The author urges stronger legal and technical limits on image-editing models to stop deepfake pornography.
 - [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything) 👤 Simon Willison 💬 7468 🔖 #llm 🗓️ 2026-01-02
     > **Резюме:** 2025 was the year LLMs got much better at reasoning and running as agents.  
 Coding agents like Claude Code and CLI tools became widely used for real development work.  

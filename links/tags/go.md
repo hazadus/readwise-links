@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 241
+- Всего ссылок: 242
 
 ## Ссылки
 
+- [Happy New Year (With Robotic Greetings) • The Applied Go Weekly Newsletter 2026-01-01](https://newsletter.appliedgo.net/archive/2026-01-01-happy-new-year-with-robotic-greetings/) 👤 The Applied Go Weekly Newsletter 💬 1448 🔖 #go 🗓️ 2026-01-04
+    > **Резюме:** The newsletter wishes readers a happy 2026 and spotlights how Go and AI work well together. It lists Go tools and libraries for AI tasks like local LLM runtimes, agent frameworks, vector memory, and ML libraries. The author invites readers to explore these projects and offers Go learning resources.
 - [From Slow To Go • The Applied Go Weekly Newsletter 2025-12-07](https://newsletter.appliedgo.net/archive/2025-12-07-from-slow-to-go/) 👤 The Applied Go Weekly Newsletter 💬 591 🔖 #go 🗓️ 2025-12-08
     > **Резюме:** Go is fast like a compiled language but easy to use. Reddit moved its comments backend from Python to Go with careful testing for a seamless switch. The newsletter shares this success plus links, tools, and learning resources for Go developers.
 - [Gist of Go: Concurrency internals](https://antonz.org/go-concurrency/internals/) 👤 Anton Zhiyanov 💬 3899 🔖 #go 🗓️ 2025-12-07

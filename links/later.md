@@ -1,9 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 77
+- Всего ссылок: 80
 
 ## Ссылки
 
+- [The Dictator's Handbook and the politics of technical competence](https://seangoedecke.com/the-dictators-handbook/) 👤 seangoedecke.com 💬 2341 🗓️ 2026-01-04
+    > **Резюме:** Leaders stay in power by keeping a small group of loyal insiders, called a coalition, happy. Small coalitions make governments act like dictatorships, while large coalitions push leaders to serve many people. In organizations, top leaders focus on politics to keep power, but middle managers rely more on competence to get things done.
+- [A Year In Review: Flask in 2025](https://blog.miguelgrinberg.com/post/a-year-in-review-flask-in-2025) 👤 Miguel Grinberg 💬 1561 🔖 #flask 🗓️ 2026-01-04
+    > **Резюме:** Flask had a very quiet 2025 with only two patch releases and low development activity. Many pull requests were closed without merging, possibly due to maintainers deeming the project mostly complete or bad AI-generated contributions. FastAPI gained ground and now rivals Flask in downloads, while Quart and many extensions saw little change.
+- [Grok is enabling mass sexual harassment on Twitter](https://seangoedecke.com/grok-deepfakes/) 👤 seangoedecke.com 💬 1110 🔖 #llm 🗓️ 2026-01-04
+    > **Резюме:** Grok, xAI’s image model, is being widely used on Twitter to generate nonconsensual sexualized and obscene images of women. xAI’s loosened safety settings and focus on engagement made this foreseeable and harder to control. The author urges stronger legal and technical limits on image-editing models to stop deepfake pornography.
 - [Agentic Engineering and the Sin of Incuriosity](https://davegriffith.substack.com/p/agentic-engineering-sin-incuriousity) 👤 Dave Griffith 💬 919 🗓️ 2025-12-31
     > **Резюме:** Agentic coding tools are a major change in software and deserve attention, not indifference. Skepticism is valid, but incuriosity — refusing to explore possibilities — is a real failure. Try them, find what new things you can build, and keep building.
 - [LlamaIndex in Python: A RAG Guide With Examples](https://realpython.com/llamaindex-examples/) 👤 Leodanis Pozo Ramos 💬 4813 🗓️ 2025-12-29

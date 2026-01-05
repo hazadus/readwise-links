@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [A Year In Review: Flask in 2025](https://blog.miguelgrinberg.com/post/a-year-in-review-flask-in-2025) 👤 Miguel Grinberg 💬 1561 🔖 #flask 🗓️ 2026-01-04
+    > **Резюме:** Flask had a very quiet 2025 with only two patch releases and low development activity. Many pull requests were closed without merging, possibly due to maintainers deeming the project mostly complete or bad AI-generated contributions. FastAPI gained ground and now rivals Flask in downloads, while Quart and many extensions saw little change.
 - [Developing a Real-time Dashboard with Flask, Postgres, and Socket.IO](https://testdriven.io/blog/flask-postgres-socketio/) 👤 testdriven.io 💬 4439 🔖 #flask, #websocket 🗓️ 2025-08-29
     > **Резюме:** This tutorial shows how to build a real-time inventory dashboard using Flask, Postgres, and Socket.IO. It teaches you to stream live data updates from the database to the web frontend using triggers and WebSockets. The result is a responsive app that updates instantly when inventory changes.
 - [Build a Finance Tracker web app in Python using Dash framework [Flask / Plotly / React.js] #python](https://www.youtube.com/watch?v=HyfgJo6Qb64) 👤 BekBrace 🔖 #flask, #react 🗓️ 2025-06-09
