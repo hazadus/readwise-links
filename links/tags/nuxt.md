@@ -165,6 +165,6 @@ Links marked with * are affiliate links. I get a small commission when you regis
 - [Nuxt Tip: Fetch Data on the Server Before App Start | Michael Hoffmann](https://mokkapps.de/vue-tips/nuxt-fetch-data-on-the-server-before-app-start) 👤 mokkapps.de 💬 259 🔖 #nuxt 🗓️ 2024-11-03
     > **Резюме:** Learn how to pre-fetch data on the server before app start in Nuxt 3+ to improve load times and user experience.
 - [Mastering Prose Components in Nuxt Content](https://masteringnuxt.com/blog/mastering-prose-components-in-nuxt-content?ck_subscriber_id=2108193410) 👤 masteringnuxt.com 💬 3022 🔖 #nuxt 🗓️ 2024-11-04
-    > **Резюме:** Prose components are perhaps one of the best features of Nuxt Content! This article provides an overview on prose components, exploring their use cases and a bunch of different things you can do with them.
+    > **Резюме:** Prose components in Nuxt Content let you replace Markdown elements (like p, a, hr, img, code) with Vue components. The article shows five examples: animated hr, filenames on code blocks, a lightbox, link meta popovers, and paragraph highlighting. These components enable interactive, polished content and shared paragraph highlights.
 - [How to Use Error Handling to Create Rock Solid Nuxt Apps](https://masteringnuxt.com/blog/how-to-use-error-handling-to-create-rock-solid-apps?ck_subscriber_id=2108193410) 👤 masteringnuxt.com 💬 2415 🔖 #nuxt 🗓️ 2024-11-04
     > **Резюме:** This article explores preventing user frustrations in your Nuxt 3 application by building rock solid applications through error handling.

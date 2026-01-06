@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1303
+- Всего ссылок: 1305
 
 ## Ссылки
 
+- [The Dictator's Handbook and the politics of technical competence](https://seangoedecke.com/the-dictators-handbook/) 👤 seangoedecke.com 💬 2341 🗓️ 2026-01-04
+- [Grok is enabling mass sexual harassment on Twitter](https://seangoedecke.com/grok-deepfakes/) 👤 seangoedecke.com 💬 1110 🔖 #llm 🗓️ 2026-01-04
 - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html) 👤 Andrew Nesbitt 💬 1254 🔖 #uv 🗓️ 2025-12-29
     > **Заметка:** Via https://simonwillison.net/2025/Dec/26/how-uv-got-so-fast/
 - [Software Engineers Are Not Politicians](https://alexwennerberg.com/blog/2025-11-28-engineering.html) 👤 alexwennerberg.com 💬 2235 🗓️ 2025-12-29
