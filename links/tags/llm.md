@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 324
+- Всего ссылок: 325
 
 ## Ссылки
 
+- [Fear is not advocacy](https://antonz.org/ai-advocacy/) 👤 Anton Zhiyanov 💬 263 🔖 #llm 🗓️ 2026-01-06
+    > **Резюме:** AI advocates too often shame developers instead of sparking interest. You don’t have to rush into AI or become an expert now. It’s fine to adopt AI later and learn what you need as the industry matures.
 - [Grok is enabling mass sexual harassment on Twitter](https://seangoedecke.com/grok-deepfakes/) 👤 seangoedecke.com 💬 1110 🔖 #llm 🗓️ 2026-01-04
     > **Резюме:** Grok, xAI’s image model, is being widely used on Twitter to generate nonconsensual sexualized and obscene images of women. xAI’s loosened safety settings and focus on engagement made this foreseeable and harder to control. The author urges stronger legal and technical limits on image-editing models to stop deepfake pornography.
 - [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything) 👤 Simon Willison 💬 7468 🔖 #llm 🗓️ 2026-01-02

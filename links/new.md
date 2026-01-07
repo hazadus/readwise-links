@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 886
+- Всего ссылок: 887
 
 ## Ссылки
 
+- [Бизнес-логика в dataclass, pydantic, attrs-классах или в обычных классах? ООП в Python](https://www.youtube.com/watch?v=ByBzzsnBnAY) 👤 Диджитализируй! 🗓️ 2026-01-06
 - [Happy New Year (With Robotic Greetings) • The Applied Go Weekly Newsletter 2026-01-01](https://newsletter.appliedgo.net/archive/2026-01-01-happy-new-year-with-robotic-greetings/) 👤 The Applied Go Weekly Newsletter 💬 1448 🔖 #go 🗓️ 2026-01-04
 - [Is Critical Thinking the Most Important Skill for Software Engineers?](https://blog.pragmaticengineer.com/critical-thinking/) 👤 Gergely Orosz 💬 1887 🗓️ 2026-01-03
 - [Разгон: самый важный навык разработчика — критическое мышление](https://thecode.media/razgon-samyy-vazhnyy-navyk-razrabotchika-kriticheskoe-myshlenie/) 👤 Егор Степанов 💬 1394 🗓️ 2026-01-03

@@ -1,9 +1,23 @@
 # Отложенные ссылки
 
-- Всего ссылок: 78
+- Всего ссылок: 84
 
 ## Ссылки
 
+- [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/) 👤 Harper Reed <harper@modest.com> 💬 1923 🗓️ 2026-01-06
+    > **Резюме:** Harper Reed explains how he uses SSH and Tailscale to run Claude Code from his phone. He recommends a simple stack: Tailscale for networking, a reliable terminal app, and tools like mosh, SSH keys, and TMUX. With that setup you can run multiple Claude Code instances on your workstation and reconnect from your phone without losing work.
+- [New Year, New Website Design](https://wsvincent.com/new-year-new-website-design/) 👤 Will Vincent 💬 575 🗓️ 2026-01-06
+    > **Резюме:** Will Vincent simplified his website and focused on a few big goals for the year. He used AI agents to propose small, iterative changes and committed each finished task to Git. Updates include removed search, fixed broken links, a new Projects page, an updated Reading page, and simpler link styling.
+- [Creating Your Own Opportunities](https://terriblesoftware.org/2026/01/05/creating-your-own-opportunities/) 👤 Terrible Software 💬 918 🗓️ 2026-01-06
+    > **Резюме:** If you want to grow, don’t wait for your manager to hand you chances. Look for small, high‑impact ways to improve the work you’re already doing. Turn boring tasks into reusable, visible wins that build your skills and reputation.
+- [How To Argue With Me About AI, If You Must](https://blog.glyph.im/2026/01/how-to-argue-with-me-about-ai.html) 👤 Glyph Lefkowitz 💬 943 🗓️ 2026-01-06
+    > **Резюме:** Glyph Lefkowitz lays out personal rules for anyone who wants to argue with him about LLMs and AI.  
+He asks people not to offer trivial fixes, cite hype, or ignore ethics, and to provide measured, reflective evidence when they share anecdotes.  
+If people ignore these rules he will block them to avoid unproductive fights.
+- [From Senior Engineer to Staff, with Angelic Assistance](https://davegriffith.substack.com/p/from-senior-engineer-to-staff-with) 👤 Dave Griffith 💬 1460 🗓️ 2026-01-06
+    > **Резюме:** Dave Griffith argues that moving from senior to staff engineer requires three deliberate skills: deep expertise, visible impact, and intentional planning. Agentic AI tools now let engineers learn far faster, produce clearer evidence of their work, and build smarter promotion plans. He’s testing this playbook in real time and will share practical tactics in a series of posts.
+- [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) 👤 Nikita Prokopov 💬 2754 🗓️ 2026-01-06
+    > **Резюме:** Apple's Tahoe icons are confusing and inconsistent, making it hard to find or understand menu items quickly. Too many icons clutter menus, and similar or unclear symbols cause frustration. Good icon design should be simple, clear, and consistent, but Tahoe often misses these points.
 - [A Year In Review: Flask in 2025](https://blog.miguelgrinberg.com/post/a-year-in-review-flask-in-2025) 👤 Miguel Grinberg 💬 1561 🔖 #flask 🗓️ 2026-01-04
     > **Резюме:** Flask had a very quiet 2025 with only two patch releases and low development activity. Many pull requests were closed without merging, possibly due to maintainers deeming the project mostly complete or bad AI-generated contributions. FastAPI gained ground and now rivals Flask in downloads, while Quart and many extensions saw little change.
 - [Agentic Engineering and the Sin of Incuriosity](https://davegriffith.substack.com/p/agentic-engineering-sin-incuriousity) 👤 Dave Griffith 💬 919 🗓️ 2025-12-31
