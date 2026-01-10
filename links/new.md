@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 887
+- Всего ссылок: 889
 
 ## Ссылки
 
+- [Run Your Project in a Dev Container, in Zed](https://zed.dev/blog/dev-containers) 👤 Danilo LealKyle Barton 💬 1194 🗓️ 2026-01-09
+- [A field guide to sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai) 👤 Luis Cardoso 💬 6765 🗓️ 2026-01-09
 - [Бизнес-логика в dataclass, pydantic, attrs-классах или в обычных классах? ООП в Python](https://www.youtube.com/watch?v=ByBzzsnBnAY) 👤 Диджитализируй! 🗓️ 2026-01-06
 - [Happy New Year (With Robotic Greetings) • The Applied Go Weekly Newsletter 2026-01-01](https://newsletter.appliedgo.net/archive/2026-01-01-happy-new-year-with-robotic-greetings/) 👤 The Applied Go Weekly Newsletter 💬 1448 🔖 #go 🗓️ 2026-01-04
 - [Is Critical Thinking the Most Important Skill for Software Engineers?](https://blog.pragmaticengineer.com/critical-thinking/) 👤 Gergely Orosz 💬 1887 🗓️ 2026-01-03

@@ -1,9 +1,17 @@
 # Отложенные ссылки
 
-- Всего ссылок: 84
+- Всего ссылок: 87
 
 ## Ссылки
 
+- [When AI writes almost all code, what happens to software engineering?](https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what) 👤 Gergely Orosz 💬 3371 🗓️ 2026-01-09
+    > **Резюме:** AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.
+- [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) 👤 Peter Steinberger 💬 3413 🔖 #llm 🗓️ 2026-01-09
+    > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
+- [A Metabolic Workspace](https://www.joanwestenberg.com/a-metabolic-workspace/?ref=westenberg-newsletter) 👤 Westenberg. 💬 2361 🗓️ 2026-01-09
+    > **Резюме:** The author argues most note systems turn thinking into busywork.  
+Instead, treat ideas like food: digest them by summarizing from memory into one daily note and keep only what changes your thinking.  
+This Metabolic Workspace favors active use and forgetting over endless archiving.
 - [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/) 👤 Harper Reed <harper@modest.com> 💬 1923 🗓️ 2026-01-06
     > **Резюме:** Harper Reed explains how he uses SSH and Tailscale to run Claude Code from his phone. He recommends a simple stack: Tailscale for networking, a reliable terminal app, and tools like mosh, SSH keys, and TMUX. With that setup you can run multiple Claude Code instances on your workstation and reconnect from your phone without losing work.
 - [New Year, New Website Design](https://wsvincent.com/new-year-new-website-design/) 👤 Will Vincent 💬 575 🗓️ 2026-01-06

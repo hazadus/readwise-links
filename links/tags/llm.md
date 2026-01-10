@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 325
+- Всего ссылок: 326
 
 ## Ссылки
 
+- [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) 👤 Peter Steinberger 💬 3413 🔖 #llm 🗓️ 2026-01-09
+    > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
 - [Fear is not advocacy](https://antonz.org/ai-advocacy/) 👤 Anton Zhiyanov 💬 263 🔖 #llm 🗓️ 2026-01-06
     > **Резюме:** AI advocates too often shame developers instead of sparking interest. You don’t have to rush into AI or become an expert now. It’s fine to adopt AI later and learn what you need as the industry matures.
 - [Grok is enabling mass sexual harassment on Twitter](https://seangoedecke.com/grok-deepfakes/) 👤 seangoedecke.com 💬 1110 🔖 #llm 🗓️ 2026-01-04
