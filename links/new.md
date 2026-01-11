@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 889
+- Всего ссылок: 891
 
 ## Ссылки
 
+- [Migrating From Celery to Django Tasks](https://paultraylor.net/blog/2026/migrating-from-celery-to-django-tasks/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_319) 👤 PaulTraylor.net 💬 467 🔖 #django 🗓️ 2026-01-10
+- [The Frontier Is Now Free](https://ampcode.com/news/amp-free-frontier) 👤 ampcode.com 💬 243 🔖 #llm 🗓️ 2026-01-10
 - [Run Your Project in a Dev Container, in Zed](https://zed.dev/blog/dev-containers) 👤 Danilo LealKyle Barton 💬 1194 🗓️ 2026-01-09
 - [A field guide to sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai) 👤 Luis Cardoso 💬 6765 🗓️ 2026-01-09
 - [Бизнес-логика в dataclass, pydantic, attrs-классах или в обычных классах? ООП в Python](https://www.youtube.com/watch?v=ByBzzsnBnAY) 👤 Диджитализируй! 🗓️ 2026-01-06

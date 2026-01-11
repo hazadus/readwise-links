@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 326
+- Всего ссылок: 327
 
 ## Ссылки
 
+- [The Frontier Is Now Free](https://ampcode.com/news/amp-free-frontier) 👤 ampcode.com 💬 243 🔖 #llm 🗓️ 2026-01-10
+    > **Резюме:** Amp now gives all users free daily credits to use its smart agent with no payment needed, supported by ads. New users can sign up and download the tools, while existing users enable free credits in settings. The free credits refresh hourly, offering about $10 daily, and ads are text-only and optional.
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) 👤 Peter Steinberger 💬 3413 🔖 #llm 🗓️ 2026-01-09
     > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
 - [Fear is not advocacy](https://antonz.org/ai-advocacy/) 👤 Anton Zhiyanov 💬 263 🔖 #llm 🗓️ 2026-01-06

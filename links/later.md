@@ -1,9 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 87
+- Всего ссылок: 89
 
 ## Ссылки
 
+- [The Next Thing Will Not Be Big](https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html?utm_source=tldrdev) 👤 Glyph Lefkowitz 💬 2638 🗓️ 2026-01-10
+    > **Резюме:** Technology’s fastest, life-changing waves (like the Internet and smartphones) were a rare anomaly and are unlikely to repeat.  
+Future tech will keep advancing, but mostly in smaller, niche ways that won’t remake society or create another Apple/Google.  
+Open source maintainers should focus on practical, small- to medium-scale projects that serve real users and resist “scale creep.”
+- [How I Use Obsidian](https://calv.info/how-i-use-obsidian) 👤 calv.info 💬 1374 🔖 #obsidian 🗓️ 2026-01-10
+    > **Резюме:** The author uses Obsidian as a simple, local-first tool to help think and write every day. They focus on starting to write quickly without worrying about perfect organization. Daily notes are key, and using hotkeys and templates makes the process easier and more natural.
 - [When AI writes almost all code, what happens to software engineering?](https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what) 👤 Gergely Orosz 💬 3371 🗓️ 2026-01-09
     > **Резюме:** AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) 👤 Peter Steinberger 💬 3413 🔖 #llm 🗓️ 2026-01-09
