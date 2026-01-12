@@ -1,10 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 1308
+- Всего ссылок: 1311
 
 ## Ссылки
 
 - [The Future of Software Development is Software Developers](https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/?utm_source=tldrdev) 👤 Codemanship's Blog 💬 1270 🔖 #llm-devimpact 🗓️ 2026-01-10
+- [How I Use Obsidian](https://calv.info/how-i-use-obsidian) 👤 calv.info 💬 1374 🔖 #obsidian 🗓️ 2026-01-10
+- [A Metabolic Workspace](https://www.joanwestenberg.com/a-metabolic-workspace/?ref=westenberg-newsletter) 👤 Westenberg. 💬 2361 🔖 #pkm, #productivity 🗓️ 2026-01-09
+- [Creating Your Own Opportunities](https://terriblesoftware.org/2026/01/05/creating-your-own-opportunities/) 👤 Terrible Software 💬 918 🔖 #career 🗓️ 2026-01-06
 - [33 ИНТЕРЕСНЫЕ инди-игры 2025 года I Битый Пиксель](https://www.youtube.com/watch?v=Hh014kw9e_I) 👤 Битый Пиксель 🗓️ 2026-01-06
 - [Fear is not advocacy](https://antonz.org/ai-advocacy/) 👤 Anton Zhiyanov 💬 263 🔖 #llm 🗓️ 2026-01-06
 - [The Dictator's Handbook and the politics of technical competence](https://seangoedecke.com/the-dictators-handbook/) 👤 seangoedecke.com 💬 2341 🗓️ 2026-01-04

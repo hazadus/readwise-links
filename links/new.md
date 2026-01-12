@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 891
+- Всего ссылок: 892
 
 ## Ссылки
 
+- [2025 in Review: strange, terror, and weird](https://harper.blog/2026/01/07/2025-is-dead-to-me-2026-is-going-to-be-stranger/) 👤 Harper Reed <harper@modest.com> 💬 734 🗓️ 2026-01-11
 - [Migrating From Celery to Django Tasks](https://paultraylor.net/blog/2026/migrating-from-celery-to-django-tasks/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_319) 👤 PaulTraylor.net 💬 467 🔖 #django 🗓️ 2026-01-10
 - [The Frontier Is Now Free](https://ampcode.com/news/amp-free-frontier) 👤 ampcode.com 💬 243 🔖 #llm 🗓️ 2026-01-10
 - [Run Your Project in a Dev Container, in Zed](https://zed.dev/blog/dev-containers) 👤 Danilo LealKyle Barton 💬 1194 🗓️ 2026-01-09

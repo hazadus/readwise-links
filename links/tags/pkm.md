@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 19
+- Всего ссылок: 20
 
 ## Ссылки
 
+- [A Metabolic Workspace](https://www.joanwestenberg.com/a-metabolic-workspace/?ref=westenberg-newsletter) 👤 Westenberg. 💬 2361 🔖 #pkm, #productivity 🗓️ 2026-01-09
+    > **Резюме:** The author argues most note systems turn thinking into busywork.  
+Instead, treat ideas like food: digest them by summarizing from memory into one daily note and keep only what changes your thinking.  
+This Metabolic Workspace favors active use and forgetting over endless archiving.
 - [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain) 👤 Joan Westenberg 💬 1429 🔖 #pkm, #obsidian, #inspiration 🗓️ 2025-06-18
     > **Заметка:** Радикальный взгляд на PKM. Много интересных мыслей. 
     > **Резюме:** Joan Westenberg deleted her extensive collection of notes and ideas, finding relief in the silence that followed. She realized that her "second brain" had become a burden, complicating her thoughts instead of helping them. Now, she aims to simplify her approach to knowledge, focusing on living her ideas rather than just storing them.

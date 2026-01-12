@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 89
+- Всего ссылок: 86
 
 ## Ссылки
 
@@ -8,22 +8,14 @@
     > **Резюме:** Technology’s fastest, life-changing waves (like the Internet and smartphones) were a rare anomaly and are unlikely to repeat.  
 Future tech will keep advancing, but mostly in smaller, niche ways that won’t remake society or create another Apple/Google.  
 Open source maintainers should focus on practical, small- to medium-scale projects that serve real users and resist “scale creep.”
-- [How I Use Obsidian](https://calv.info/how-i-use-obsidian) 👤 calv.info 💬 1374 🔖 #obsidian 🗓️ 2026-01-10
-    > **Резюме:** The author uses Obsidian as a simple, local-first tool to help think and write every day. They focus on starting to write quickly without worrying about perfect organization. Daily notes are key, and using hotkeys and templates makes the process easier and more natural.
 - [When AI writes almost all code, what happens to software engineering?](https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what) 👤 Gergely Orosz 💬 3371 🗓️ 2026-01-09
     > **Резюме:** AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) 👤 Peter Steinberger 💬 3413 🔖 #llm 🗓️ 2026-01-09
     > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
-- [A Metabolic Workspace](https://www.joanwestenberg.com/a-metabolic-workspace/?ref=westenberg-newsletter) 👤 Westenberg. 💬 2361 🗓️ 2026-01-09
-    > **Резюме:** The author argues most note systems turn thinking into busywork.  
-Instead, treat ideas like food: digest them by summarizing from memory into one daily note and keep only what changes your thinking.  
-This Metabolic Workspace favors active use and forgetting over endless archiving.
 - [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/) 👤 Harper Reed <harper@modest.com> 💬 1923 🗓️ 2026-01-06
     > **Резюме:** Harper Reed explains how he uses SSH and Tailscale to run Claude Code from his phone. He recommends a simple stack: Tailscale for networking, a reliable terminal app, and tools like mosh, SSH keys, and TMUX. With that setup you can run multiple Claude Code instances on your workstation and reconnect from your phone without losing work.
 - [New Year, New Website Design](https://wsvincent.com/new-year-new-website-design/) 👤 Will Vincent 💬 575 🗓️ 2026-01-06
     > **Резюме:** Will Vincent simplified his website and focused on a few big goals for the year. He used AI agents to propose small, iterative changes and committed each finished task to Git. Updates include removed search, fixed broken links, a new Projects page, an updated Reading page, and simpler link styling.
-- [Creating Your Own Opportunities](https://terriblesoftware.org/2026/01/05/creating-your-own-opportunities/) 👤 Terrible Software 💬 918 🗓️ 2026-01-06
-    > **Резюме:** If you want to grow, don’t wait for your manager to hand you chances. Look for small, high‑impact ways to improve the work you’re already doing. Turn boring tasks into reusable, visible wins that build your skills and reputation.
 - [How To Argue With Me About AI, If You Must](https://blog.glyph.im/2026/01/how-to-argue-with-me-about-ai.html) 👤 Glyph Lefkowitz 💬 943 🗓️ 2026-01-06
     > **Резюме:** Glyph Lefkowitz lays out personal rules for anyone who wants to argue with him about LLMs and AI.  
 He asks people not to offer trivial fixes, cite hype, or ignore ethics, and to provide measured, reflective evidence when they share anecdotes.  

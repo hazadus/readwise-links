@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 27
+- Всего ссылок: 28
 
 ## Ссылки
 
+- [A Metabolic Workspace](https://www.joanwestenberg.com/a-metabolic-workspace/?ref=westenberg-newsletter) 👤 Westenberg. 💬 2361 🔖 #pkm, #productivity 🗓️ 2026-01-09
+    > **Резюме:** The author argues most note systems turn thinking into busywork.  
+Instead, treat ideas like food: digest them by summarizing from memory into one daily note and keep only what changes your thinking.  
+This Metabolic Workspace favors active use and forgetting over endless archiving.
 - [Be a Magpie. You'll Get More Done.](https://www.joanwestenberg.com/p/be-a-magpie-you-ll-get-more-done) 👤 JA Westenberg 💬 1113 🔖 #reflections, #productivity 🗓️ 2025-11-04
     > **Резюме:** Don't follow one productivity system slavishly.  
 Take useful ideas from many methods and build a system that fits you.  
