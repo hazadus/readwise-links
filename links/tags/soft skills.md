@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [Is Critical Thinking the Most Important Skill for Software Engineers?](https://blog.pragmaticengineer.com/critical-thinking/) 👤 Gergely Orosz 💬 1887 🔖 #soft skills 🗓️ 2026-01-03
+    > **Резюме:** Critical thinking is the most important skill for software engineers because it helps them question jargon, verify claims, and avoid blindly following "thought leaders."  
+Ask simple questions, un-jargon terms, and do your own research before adopting tools or ideas.  
+As AI spreads, critical thinking will matter even more to spot mistakes and make better decisions.
 - [High Agency Matters](https://addyosmani.com/blog/high-agency-matters/?utm_source=tldrwebdev) 👤 Addy Osmani 💬 9273 🔖 #cv, #career, #soft skills 🗓️ 2025-10-29
     > **Заметка:** Основные тезисы тут: https://chatgpt.com/c/6943b950-9dd8-8332-ad41-be1b07e5daea
     > **Резюме:** Taking initiative (agency) matters more than raw intelligence for long-term success. High-agency people act, learn from feedback, and turn ideas into results. Hire and teach agency because it’s rare, valuable, and can be developed.

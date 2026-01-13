@@ -1,22 +1,32 @@
 # Архивные ссылки
 
-- Всего ссылок: 1311
+- Всего ссылок: 1321
 
 ## Ссылки
 
+- [My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/#atom-everything) 👤 Simon Willison 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
+- [Don't fall into the anti-AI hype](http://antirez.com/news/158) 👤 antirez.com 💬 1262 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
+- [Life Happens at 1x Speed](https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/) 👤 Terrible Software 💬 687 🗓️ 2026-01-12
 - [The Future of Software Development is Software Developers](https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/?utm_source=tldrdev) 👤 Codemanship's Blog 💬 1270 🔖 #llm-devimpact 🗓️ 2026-01-10
+- [The Frontier Is Now Free](https://ampcode.com/news/amp-free-frontier) 👤 ampcode.com 💬 243 🔖 #llm 🗓️ 2026-01-10
 - [How I Use Obsidian](https://calv.info/how-i-use-obsidian) 👤 calv.info 💬 1374 🔖 #obsidian 🗓️ 2026-01-10
+- [Run Your Project in a Dev Container, in Zed](https://zed.dev/blog/dev-containers) 👤 Danilo LealKyle Barton 💬 1194 🔖 #zed, #devcontainer 🗓️ 2026-01-09
 - [A Metabolic Workspace](https://www.joanwestenberg.com/a-metabolic-workspace/?ref=westenberg-newsletter) 👤 Westenberg. 💬 2361 🔖 #pkm, #productivity 🗓️ 2026-01-09
 - [Creating Your Own Opportunities](https://terriblesoftware.org/2026/01/05/creating-your-own-opportunities/) 👤 Terrible Software 💬 918 🔖 #career 🗓️ 2026-01-06
 - [33 ИНТЕРЕСНЫЕ инди-игры 2025 года I Битый Пиксель](https://www.youtube.com/watch?v=Hh014kw9e_I) 👤 Битый Пиксель 🗓️ 2026-01-06
 - [Fear is not advocacy](https://antonz.org/ai-advocacy/) 👤 Anton Zhiyanov 💬 263 🔖 #llm 🗓️ 2026-01-06
 - [The Dictator's Handbook and the politics of technical competence](https://seangoedecke.com/the-dictators-handbook/) 👤 seangoedecke.com 💬 2341 🗓️ 2026-01-04
+- [A Year In Review: Flask in 2025](https://blog.miguelgrinberg.com/post/a-year-in-review-flask-in-2025) 👤 Miguel Grinberg 💬 1561 🔖 #flask 🗓️ 2026-01-04
 - [Grok is enabling mass sexual harassment on Twitter](https://seangoedecke.com/grok-deepfakes/) 👤 seangoedecke.com 💬 1110 🔖 #llm 🗓️ 2026-01-04
+- [Is Critical Thinking the Most Important Skill for Software Engineers?](https://blog.pragmaticengineer.com/critical-thinking/) 👤 Gergely Orosz 💬 1887 🔖 #soft skills 🗓️ 2026-01-03
+- [«Я хотела написать историю о ребятах, классно делающих работу, в которой они лучше всех». Интервью с Марией Закрученко](https://www.mirf.ru/blog/intervu-s-mariei-zakruchenko) 👤 mirf.ru 💬 2518 🗓️ 2026-01-02
+- [Agentic Engineering and the Sin of Incuriosity](https://davegriffith.substack.com/p/agentic-engineering-sin-incuriousity) 👤 Dave Griffith 💬 919 🔖 #llm 🗓️ 2025-12-31
 - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html) 👤 Andrew Nesbitt 💬 1254 🔖 #uv 🗓️ 2025-12-29
     > **Заметка:** Via https://simonwillison.net/2025/Dec/26/how-uv-got-so-fast/
 - [Software Engineers Are Not Politicians](https://alexwennerberg.com/blog/2025-11-28-engineering.html) 👤 alexwennerberg.com 💬 2235 🗓️ 2025-12-29
 - [Software engineers should be a little bit cynical](https://seangoedecke.com/a-little-bit-cynical/) 👤 seangoedecke.com 💬 1675 🗓️ 2025-12-29
 - [You can't design software you don't work on](https://seangoedecke.com/you-cant-design-software-you-dont-work-on/) 👤 seangoedecke.com 💬 1577 🔖 #softwaredesign 🗓️ 2025-12-29
+- [The Rime of the Ancient Maintainer](https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/?ref=westenberg-newsletter) 👤 Westenberg. 💬 1030 🗓️ 2025-12-27
 - [Finding Flow: Escaping Digital Distractions Through Deep Work and Slow Living](https://www.ssp.sh/blog/finding-flow/) 👤 Simon Späti 💬 2487 🔖 #reflections 🗓️ 2025-12-25
 - [Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/?utm_source=tldrdev) 👤 Simon Späti 💬 2430 🔖 #reflections 🗓️ 2025-12-25
 - [Writing Code Is Fun](https://davidcel.is/articles/writing-code-is-fun) 👤 davidcel.is 💬 645 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23

@@ -1,35 +1,24 @@
 # Новые ссылки
 
-- Всего ссылок: 892
+- Всего ссылок: 881
 
 ## Ссылки
 
-- [2025 in Review: strange, terror, and weird](https://harper.blog/2026/01/07/2025-is-dead-to-me-2026-is-going-to-be-stranger/) 👤 Harper Reed <harper@modest.com> 💬 734 🗓️ 2026-01-11
+- [2026 And Go 1.26 • The Applied Go Weekly Newsletter 2026-01-11](https://newsletter.appliedgo.net/archive/2026-01-11-2026-and-go-126/) 👤 The Applied Go Weekly Newsletter 💬 1035 🗓️ 2026-01-12
 - [Migrating From Celery to Django Tasks](https://paultraylor.net/blog/2026/migrating-from-celery-to-django-tasks/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_319) 👤 PaulTraylor.net 💬 467 🔖 #django 🗓️ 2026-01-10
-- [The Frontier Is Now Free](https://ampcode.com/news/amp-free-frontier) 👤 ampcode.com 💬 243 🔖 #llm 🗓️ 2026-01-10
-- [Run Your Project in a Dev Container, in Zed](https://zed.dev/blog/dev-containers) 👤 Danilo LealKyle Barton 💬 1194 🗓️ 2026-01-09
-- [A field guide to sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai) 👤 Luis Cardoso 💬 6765 🗓️ 2026-01-09
 - [Бизнес-логика в dataclass, pydantic, attrs-классах или в обычных классах? ООП в Python](https://www.youtube.com/watch?v=ByBzzsnBnAY) 👤 Диджитализируй! 🗓️ 2026-01-06
 - [Happy New Year (With Robotic Greetings) • The Applied Go Weekly Newsletter 2026-01-01](https://newsletter.appliedgo.net/archive/2026-01-01-happy-new-year-with-robotic-greetings/) 👤 The Applied Go Weekly Newsletter 💬 1448 🔖 #go 🗓️ 2026-01-04
-- [Is Critical Thinking the Most Important Skill for Software Engineers?](https://blog.pragmaticengineer.com/critical-thinking/) 👤 Gergely Orosz 💬 1887 🗓️ 2026-01-03
-- [Разгон: самый важный навык разработчика — критическое мышление](https://thecode.media/razgon-samyy-vazhnyy-navyk-razrabotchika-kriticheskoe-myshlenie/) 👤 Егор Степанов 💬 1394 🗓️ 2026-01-03
-- [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything) 👤 Simon Willison 💬 7468 🗓️ 2026-01-02
-- [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything) 👤 Simon Willison 💬 7468 🔖 #llm 🗓️ 2026-01-02
-- [«Я хотела написать историю о ребятах, классно делающих работу, в которой они лучше всех». Интервью с Марией Закрученко](https://www.mirf.ru/blog/intervu-s-mariei-zakruchenko) 👤 mirf.ru 💬 2518 🗓️ 2026-01-02
 - [10 Zsh hacks I wish I knew about sooner](https://www.youtube.com/watch?v=3fVAtaGhUyU) 👤 Dreams of Code 🗓️ 2026-01-01
 - [Как быстро находить ошибки в коде? Советы для начинающих](https://www.youtube.com/watch?v=9iwYRcw3A8A) 👤 Организованное программирование | Кирилл Мокевнин 🗓️ 2025-12-31
 - [Почему ты учишься неправильно? Гайд по самообразованию и книгам](https://www.youtube.com/watch?si=7ulTv-p1GIIL6qA6&v=EgnRsIJiuxc&feature=youtu.be) 👤 Go Get Podcast 🗓️ 2025-12-31
 - [Designing Organizations For An Information-Rich World](https://gwern.net/doc/design/1971-simon.pdf) 👤 Herbert A. Simon, Karl W. Deutsch, Martin Shubik, Emilio Q. Daddario 💬 16634 🗓️ 2025-12-30
     > **Заметка:** Via https://www.joanwestenberg.com/p/why-i-delete-every-unanswered-email-every-month
-- [The Precious Eyeblink](mailto:reader-forwarded-email/d0257b7082931e49d7f1780b6a39c57b) 👤 Kent Beck from Software Design: Tidy First? 💬 1206 🗓️ 2025-12-30
 - [Thanks AI! · GitHub](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f) 👤 262588213843476 💬 558 🗓️ 2025-12-29
-- [Поиграл в Warhammer 40000: Dark Heresy - Детективная Ваха про Инквизицию I Битый Пиксель](https://www.youtube.com/watch?v=H7Sd1FmYoy8) 👤 Битый Пиксель 🗓️ 2025-12-24
 - [Validating API Routes in Nuxt 4 with Zod](https://humanonlyweb.com/blog/validating-api-routes-in-nuxt-with-zod) 👤 HumanOnlyWeb 💬 913 🔖 #zod, #nuxt 🗓️ 2025-12-23
 - [A Layered Architecture for Nuxt Fullstack applications [Part 1 — Server side]](https://humanonlyweb.com/blog/layered-architecture-for-nuxt-4-fullstack-applications-part-1) 👤 HumanOnlyWeb 💬 760 🔖 #nuxt 🗓️ 2025-12-23
 - [Setting Up Your IDE for Nuxt UI: A Complete Guide](https://vueschool.io/articles/vuejs-tutorials/setting-up-your-ide-for-nuxt-ui-a-complete-guide/?friend=MOKKAPPS/) 👤 vueschool.io 💬 1106 🔖 #nuxt 🗓️ 2025-12-23
 - [From Slow To Go • The Applied Go Weekly Newsletter 2025-12-07](https://newsletter.appliedgo.net/archive/2025-12-07-from-slow-to-go/) 👤 The Applied Go Weekly Newsletter 💬 591 🔖 #go 🗓️ 2025-12-08
 - [Gist of Go: Concurrency internals](https://antonz.org/go-concurrency/internals/) 👤 Anton Zhiyanov 💬 3899 🔖 #go 🗓️ 2025-12-07
-- [Времена описывают](https://www.myweekend.ru/doc/8268174?from=glavnoe_3) 👤 Владимир Максаков 💬 1571 🗓️ 2025-12-06
 - [Mechanical Sympathy • The Applied Go Weekly Newsletter 2025-11-30](https://newsletter.appliedgo.net/archive/2025-11-30-mechanical-sympathy/) 👤 The Applied Go Weekly Newsletter 💬 2508 🔖 #go 🗓️ 2025-12-04
 - [Kludex/fastapi-tips: FastAPI Tips by The FastAPI Expert!](https://github.com/Kludex/fastapi-tips?tab=readme-ov-file#2-be-careful-with-non-async-functions) 👤 https://github.com/Kludex/ 💬 1671 🔖 #fastapi 🗓️ 2025-12-03
 - [Typer](https://typer.tiangolo.com/) 👤 tiangolo.com 💬 1105 🗓️ 2025-12-02

@@ -1,9 +1,19 @@
 # Ссылки
 
-- Всего ссылок: 327
+- Всего ссылок: 333
 
 ## Ссылки
 
+- [Building Staff Engineer-Level Knowledge with AI](https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai) 👤 Dave Griffith 💬 2515 🔖 #llm 🗓️ 2026-01-12
+    > **Резюме:** To become a staff engineer, you must build deep expertise in technology, codebases, and business using AI as a learning tool, not a crutch. AI can speed up learning and understanding, but true mastery means internalizing knowledge without relying on AI all the time. Managing and showing your expertise is key to advancing your career and making a real impact.
+- [My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/#atom-everything) 👤 Simon Willison 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
+    > **Резюме:** Simon Willison used AI tools to quickly port open source code and discussed the legal and ethical issues involved. He believes this approach is okay if licenses and credit are respected and the work is clearly labeled as experimental. He also thinks AI will change open source, helping some people contribute more but possibly reducing demand for some projects.
+- [Don't fall into the anti-AI hype](http://antirez.com/news/158) 👤 antirez.com 💬 1262 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
+    > **Резюме:** AI is changing programming fast, making it easier to build complex software quickly. Programmers should embrace AI tools to improve their work instead of resisting the change. Society must also address job losses and support those affected by automation.
+- [LLM predictions for 2026, shared with Oxide and Friends](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-everything) 👤 Simon Willison 💬 1656 🔖 #llm, #predictions 🗓️ 2026-01-12
+    > **Резюме:** Large language models (LLMs) will soon write very good code, changing how programmers work. New security and sandboxing solutions will make running code safer in the next year. In a few years, AI will help build complex software like web browsers, and typing code by hand will become rare.
+- [Eight Software Markets AI That Will Transform Differently](https://davegriffith.substack.com/p/eight-software-markets-ai-that-will) 👤 Dave Griffith 💬 2917 🔖 #llm 🗓️ 2026-01-12
+    > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
 - [The Frontier Is Now Free](https://ampcode.com/news/amp-free-frontier) 👤 ampcode.com 💬 243 🔖 #llm 🗓️ 2026-01-10
     > **Резюме:** Amp now gives all users free daily credits to use its smart agent with no payment needed, supported by ads. New users can sign up and download the tools, while existing users enable free credits in settings. The free credits refresh hourly, offering about $10 daily, and ads are text-only and optional.
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) 👤 Peter Steinberger 💬 3413 🔖 #llm 🗓️ 2026-01-09
@@ -16,6 +26,8 @@
     > **Резюме:** 2025 was the year LLMs got much better at reasoning and running as agents.  
 Coding agents like Claude Code and CLI tools became widely used for real development work.  
 Local models improved, cloud models advanced faster, and new conformance and testing patterns unlocked reliable AI-driven coding.
+- [Agentic Engineering and the Sin of Incuriosity](https://davegriffith.substack.com/p/agentic-engineering-sin-incuriousity) 👤 Dave Griffith 💬 919 🔖 #llm 🗓️ 2025-12-31
+    > **Резюме:** Agentic coding tools are a major change in software and deserve attention, not indifference. Skepticism is valid, but incuriosity — refusing to explore possibilities — is a real failure. Try them, find what new things you can build, and keep building.
 - [Writing Code Is Fun](https://davidcel.is/articles/writing-code-is-fun) 👤 davidcel.is 💬 645 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
     > **Резюме:** The author loves writing code because solving problems and building things is fun. They find AI coding tools take away that joy and often don’t save time. Relying on AI turns engineers into reviewers or managers instead of creators.
 - [Everyone is a Staff Engineer Now](https://read.engineerscodex.com/p/everyone-is-a-staff-engineer-now) 👤 Engineer's Codex 💬 1251 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23

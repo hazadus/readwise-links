@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 23
+- Всего ссылок: 25
 
 ## Ссылки
 
+- [My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/#atom-everything) 👤 Simon Willison 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
+    > **Резюме:** Simon Willison used AI tools to quickly port open source code and discussed the legal and ethical issues involved. He believes this approach is okay if licenses and credit are respected and the work is clearly labeled as experimental. He also thinks AI will change open source, helping some people contribute more but possibly reducing demand for some projects.
+- [Don't fall into the anti-AI hype](http://antirez.com/news/158) 👤 antirez.com 💬 1262 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
+    > **Резюме:** AI is changing programming fast, making it easier to build complex software quickly. Programmers should embrace AI tools to improve their work instead of resisting the change. Society must also address job losses and support those affected by automation.
 - [The Future of Software Development is Software Developers](https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/?utm_source=tldrdev) 👤 Codemanship's Blog 💬 1270 🔖 #llm-devimpact 🗓️ 2026-01-10
     > **Резюме:** New tools keep promising to replace programmers, but history shows they never have. LLMs can help a bit but often slow teams and produce unreliable code. When it matters, skilled developers who can turn messy human ideas into precise programs will still be needed.
 - [Writing Code Is Fun](https://davidcel.is/articles/writing-code-is-fun) 👤 davidcel.is 💬 645 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23

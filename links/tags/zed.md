@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 4
 
 ## Ссылки
 
+- [Run Your Project in a Dev Container, in Zed](https://zed.dev/blog/dev-containers) 👤 Danilo LealKyle Barton 💬 1194 🔖 #zed, #devcontainer 🗓️ 2026-01-09
+    > **Резюме:** Zed now lets you run your project inside Dev Containers using Docker for a consistent development setup. It uses a devcontainer.json file to create and connect to these containers easily. More features like extension support and better port forwarding are planned for the future.
 - [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp) 👤 Morgan Krey 💬 1200 🔖 #zed 🗓️ 2025-09-03
     > **Резюме:** Zed now runs Claude Code in public beta using a new open standard called the Agent Client Protocol (ACP).  
 Claude Code works natively in Zed with real-time multi-file edits, syntax highlighting, and granular accept/reject for code hunks.  

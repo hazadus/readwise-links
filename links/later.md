@@ -1,21 +1,33 @@
 # Отложенные ссылки
 
-- Всего ссылок: 86
+- Всего ссылок: 90
 
 ## Ссылки
 
+- [Building Staff Engineer-Level Knowledge with AI](https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai) 👤 Dave Griffith 💬 2515 🔖 #llm 🗓️ 2026-01-12
+    > **Резюме:** To become a staff engineer, you must build deep expertise in technology, codebases, and business using AI as a learning tool, not a crutch. AI can speed up learning and understanding, but true mastery means internalizing knowledge without relying on AI all the time. Managing and showing your expertise is key to advancing your career and making a real impact.
+- [Как запустить 4 независимые нейросети на одном GPU (16 ГБ) под FastAPI](https://habr.com/ru/companies/hostkey/articles/982278/) 👤 yakvenalex 💬 6879 🗓️ 2026-01-12
+    > **Резюме:** Автор рассказывает, как запустить четыре нейросети на одном GPU с 16 ГБ памяти через FastAPI. Показывается практический пример настройки сервера и управления памятью без дообучения моделей. В итоге получается компактный и стабильный ML-сервис для локального использования.
+- [LLM predictions for 2026, shared with Oxide and Friends](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-everything) 👤 Simon Willison 💬 1656 🔖 #llm, #predictions 🗓️ 2026-01-12
+    > **Резюме:** Large language models (LLMs) will soon write very good code, changing how programmers work. New security and sandboxing solutions will make running code safer in the next year. In a few years, AI will help build complex software like web browsers, and typing code by hand will become rare.
+- [Fragments: January 8](https://martinfowler.com/fragments/2026-01-08.html) 👤 martinfowler.com 💬 1246 🗓️ 2026-01-12
+    > **Резюме:** AI tools like Claude are helping developers write and understand code faster, boosting productivity by about 50%. Test-driven development is key to making AI-assisted coding reliable and understandable. However, AI also raises concerns about fake information and changes in how software work evolves.
+- [Eight Software Markets AI That Will Transform Differently](https://davegriffith.substack.com/p/eight-software-markets-ai-that-will) 👤 Dave Griffith 💬 2917 🔖 #llm 🗓️ 2026-01-12
+    > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
+- [2025 in Review: strange, terror, and weird](https://harper.blog/2026/01/07/2025-is-dead-to-me-2026-is-going-to-be-stranger/) 👤 Harper Reed <harper@modest.com> 💬 734 🗓️ 2026-01-11
+    > **Резюме:** 2025 felt wild, strange, and often terrifying. I improved my health, kept building a startup with trusted friends, and traveled little. The outlook is worried but determined: prepare, build community, and keep going into 2026.
 - [The Next Thing Will Not Be Big](https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html?utm_source=tldrdev) 👤 Glyph Lefkowitz 💬 2638 🗓️ 2026-01-10
     > **Резюме:** Technology’s fastest, life-changing waves (like the Internet and smartphones) were a rare anomaly and are unlikely to repeat.  
 Future tech will keep advancing, but mostly in smaller, niche ways that won’t remake society or create another Apple/Google.  
 Open source maintainers should focus on practical, small- to medium-scale projects that serve real users and resist “scale creep.”
+- [A field guide to sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai) 👤 Luis Cardoso 💬 6765 🗓️ 2026-01-09
+    > **Резюме:** All sandbox boundaries differ by what trusted component they add: the host kernel (containers), a userspace kernel (gVisor), a guest kernel + VMM (microVMs), or a runtime/embedder (Wasm). Containers still send allowed syscalls to the host kernel, so kernel bugs remain a host risk. Choose microVMs or syscall-interposing runtimes when you need stronger isolation for untrusted or arbitrary Linux workloads.
 - [When AI writes almost all code, what happens to software engineering?](https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what) 👤 Gergely Orosz 💬 3371 🗓️ 2026-01-09
     > **Резюме:** AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) 👤 Peter Steinberger 💬 3413 🔖 #llm 🗓️ 2026-01-09
     > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
 - [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/) 👤 Harper Reed <harper@modest.com> 💬 1923 🗓️ 2026-01-06
     > **Резюме:** Harper Reed explains how he uses SSH and Tailscale to run Claude Code from his phone. He recommends a simple stack: Tailscale for networking, a reliable terminal app, and tools like mosh, SSH keys, and TMUX. With that setup you can run multiple Claude Code instances on your workstation and reconnect from your phone without losing work.
-- [New Year, New Website Design](https://wsvincent.com/new-year-new-website-design/) 👤 Will Vincent 💬 575 🗓️ 2026-01-06
-    > **Резюме:** Will Vincent simplified his website and focused on a few big goals for the year. He used AI agents to propose small, iterative changes and committed each finished task to Git. Updates include removed search, fixed broken links, a new Projects page, an updated Reading page, and simpler link styling.
 - [How To Argue With Me About AI, If You Must](https://blog.glyph.im/2026/01/how-to-argue-with-me-about-ai.html) 👤 Glyph Lefkowitz 💬 943 🗓️ 2026-01-06
     > **Резюме:** Glyph Lefkowitz lays out personal rules for anyone who wants to argue with him about LLMs and AI.  
 He asks people not to offer trivial fixes, cite hype, or ignore ethics, and to provide measured, reflective evidence when they share anecdotes.  
@@ -24,18 +36,16 @@ If people ignore these rules he will block them to avoid unproductive fights.
     > **Резюме:** Dave Griffith argues that moving from senior to staff engineer requires three deliberate skills: deep expertise, visible impact, and intentional planning. Agentic AI tools now let engineers learn far faster, produce clearer evidence of their work, and build smarter promotion plans. He’s testing this playbook in real time and will share practical tactics in a series of posts.
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) 👤 Nikita Prokopov 💬 2754 🗓️ 2026-01-06
     > **Резюме:** Apple's Tahoe icons are confusing and inconsistent, making it hard to find or understand menu items quickly. Too many icons clutter menus, and similar or unclear symbols cause frustration. Good icon design should be simple, clear, and consistent, but Tahoe often misses these points.
-- [A Year In Review: Flask in 2025](https://blog.miguelgrinberg.com/post/a-year-in-review-flask-in-2025) 👤 Miguel Grinberg 💬 1561 🔖 #flask 🗓️ 2026-01-04
-    > **Резюме:** Flask had a very quiet 2025 with only two patch releases and low development activity. Many pull requests were closed without merging, possibly due to maintainers deeming the project mostly complete or bad AI-generated contributions. FastAPI gained ground and now rivals Flask in downloads, while Quart and many extensions saw little change.
-- [Agentic Engineering and the Sin of Incuriosity](https://davegriffith.substack.com/p/agentic-engineering-sin-incuriousity) 👤 Dave Griffith 💬 919 🗓️ 2025-12-31
-    > **Резюме:** Agentic coding tools are a major change in software and deserve attention, not indifference. Skepticism is valid, but incuriosity — refusing to explore possibilities — is a real failure. Try them, find what new things you can build, and keep building.
+- [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything) 👤 Simon Willison 💬 7468 🔖 #llm 🗓️ 2026-01-02
+    > **Резюме:** 2025 was the year LLMs got much better at reasoning and running as agents.  
+Coding agents like Claude Code and CLI tools became widely used for real development work.  
+Local models improved, cloud models advanced faster, and new conformance and testing patterns unlocked reliable AI-driven coding.
 - [LlamaIndex in Python: A RAG Guide With Examples](https://realpython.com/llamaindex-examples/) 👤 Leodanis Pozo Ramos 💬 4813 🗓️ 2025-12-29
     > **Резюме:** LlamaIndex is a Python tool that helps you connect your data to large language models for better AI answers. It works by loading documents, creating searchable indexes, and using retrieval-augmented generation (RAG) to provide accurate responses. This guide shows you how to install LlamaIndex, build indexes, and query models like OpenAI and Ollama with your own data.
 - [textarea.my on GitHub](https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything) 👤 Simon Willison 💬 246 🗓️ 2025-12-29
     > **Резюме:** Textarea.my is a tiny browser-only text editor that stores its data in the URL hash.  
 It uses CompressionStream to shrink state, supports plaintext-only editing, and can save files via the save picker or download.  
 The code includes a simple debounce(ms, fn) that ensures a function runs at most once per timeout.
-- [The Rime of the Ancient Maintainer](https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/?ref=westenberg-newsletter) 👤 Westenberg. 💬 1030 🗓️ 2025-12-27
-    > **Резюме:** Cultures idolize flashy creators while ignoring the steady work of maintainers. Maintenance prevents collapse by fighting inevitable decay in systems and lives. We should value and celebrate those who keep things running.
 - [The Pragmatic Engineer in 2025](https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-in-2025) 👤 Gergely Orosz 💬 2185 🗓️ 2025-12-24
     > **Резюме:** In 2025, AI greatly changed software engineering and the tech job market stayed tough. The Pragmatic Engineer shared 134 newsletters and many podcast episodes about these trends and real-world challenges. The author thanked subscribers and promised more helpful content in 2026.
 - [A Scientist’s Guide to Debugging Engineers](https://newsletter.manager.dev/p/a-scientists-guide-to-debugging-engineers) 👤 Anton Zaides 💬 1171 🗓️ 2025-12-23
