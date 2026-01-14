@@ -1,9 +1,27 @@
 # Отложенные ссылки
 
-- Всего ссылок: 90
+- Всего ссылок: 98
 
 ## Ссылки
 
+- [AI Zealotry¶](https://matthewrocklin.com/ai-zealotry/?utm_source=tldrdev#why-ai) 👤 Matthew Rocklin 💬 2935 🔖 #llm 🗓️ 2026-01-13
+    > **Резюме:** AI helps experienced developers work faster and think at higher levels of abstraction. Trust in AI-generated code grows with strong testing and automated feedback. Programming with AI is an evolution like compilers, making coding more fun and productive despite some trade-offs.
+- [Code is Clay](https://campedersen.com/code-is-clay) 👤 campedersen.com 💬 497 🗓️ 2026-01-13
+    > **Резюме:** Coding is like working with clay: both are flexible materials shaped by creativity and effort. Machines and AI can handle routine work, but the unique, imaginative projects still need human touch. As automation grows, the art of making meaningful, original things becomes even more valuable.
+- [Code Is Cheap Now. Software Isn’t.](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt?utm_source=tldrdev) 👤 chrisgregori.dev 💬 1933 🗓️ 2026-01-13
+    > **Резюме:** Coding is easier and faster now thanks to AI, but building lasting, reliable software is still hard and needs skilled engineers. People are making personal, disposable tools to solve specific problems quickly instead of traditional long-term apps. Success depends more on understanding users and good judgment than just writing code.
+- [How Markdown took over the world](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/?utm_source=tldrdev) 👤 Anil Dash 💬 4535 🔖 #markdown 🗓️ 2026-01-13
+    > **Резюме:** Markdown started as a simple way to make writing on the internet easier without needing complicated code. Many people liked it and began using it everywhere, from blogs to apps like Microsoft Notepad and Apple Notes. Its success shows how open, easy ideas can grow big and change how we share information online.
+- [What Happened To WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/?utm_source=tldrdev) 👤 EmNudge 💬 1863 🔖 #webassembly 🗓️ 2026-01-13
+    > **Резюме:** WebAssembly is widely used to run code efficiently and securely in browsers and other environments, often as a compilation target for many languages. It is not replacing JavaScript but works behind the scenes to improve performance and enable new features. Its strength lies in security, portability, and embeddability rather than being a standalone language for building entire applications.
+- [Technical blogging lessons learned](https://writethatblog.substack.com/p/technical-blogging-lessons-learned?utm_source=tldrdev) 👤 Cynthia Dunlop 💬 2540 🔖 #writing 🗓️ 2026-01-13
+    > **Резюме:** Writing regularly helps overcome doubts and improves skills over time. Focus on topics that interest you and your audience, even if others have written about them. Use simple tools, be honest, and don’t worry about perfection or criticism.
+- [Staging is a wasteful lie: the case for the mono-environment](https://www.tomwphillips.co.uk/2026/01/staging-is-a-wasteful-lie-the-case-for-the-mono-environment/?utm_source=tldrdev) 👤 Tom Phillips 💬 2541 🔖 #devops 🗓️ 2026-01-13
+    > **Резюме:** Staging environments waste time and resources because they don’t match production and delay feedback. Instead, teams should focus on one production environment with strong testing, continuous deployment, and monitoring. This approach speeds delivery, reduces risk, and better serves users.
+- [Code is a liability (not an asset) (permalink)](https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes?utm_source=tldrdev) 👤 pluralistic.net 💬 3678 🗓️ 2026-01-13
+    > **Резюме:** Code creates ongoing problems and costs, so it is a liability, not an asset. AI produces lots of code quickly, but that means it also creates many more problems. True software engineering requires careful work that AI cannot do, or the problems will grow over time.
+- [Why devs need DevOps](https://ravestar.dev/blog/why-devs-need-devops/?utm_source=tldrdev) 👤 ravestar.dev 💬 2490 🔖 #devops 🗓️ 2026-01-13
+    > **Резюме:** DevOps is more than tools; it's a way of thinking that keeps value flowing from idea to users. Developers should use the Three Ways—Flow, Feedback, and Continuous Experimentation—to find and fix bottlenecks early. Systemized knowledge sharing and built-in feedback make teams faster, safer, and less prone to costly rewrites.
 - [Building Staff Engineer-Level Knowledge with AI](https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai) 👤 Dave Griffith 💬 2515 🔖 #llm 🗓️ 2026-01-12
     > **Резюме:** To become a staff engineer, you must build deep expertise in technology, codebases, and business using AI as a learning tool, not a crutch. AI can speed up learning and understanding, but true mastery means internalizing knowledge without relying on AI all the time. Managing and showing your expertise is key to advancing your career and making a real impact.
 - [Как запустить 4 независимые нейросети на одном GPU (16 ГБ) под FastAPI](https://habr.com/ru/companies/hostkey/articles/982278/) 👤 yakvenalex 💬 6879 🗓️ 2026-01-12
@@ -52,10 +70,6 @@ The code includes a simple debounce(ms, fn) that ensures a function runs at most
     > **Резюме:** Engineers’ feelings affect their work as much as technical skills. Managers should notice emotions, listen, and help change small habits. Talking about feelings can boost focus, reliability, and code quality.
 - [Claude Code Sees Like A Software Architect](https://davegriffith.substack.com/p/claude-code-sees-like-a-software) 👤 Dave Griffith 💬 1520 🗓️ 2025-12-23
     > **Резюме:** Anthropic added native LSP support to Claude Code, so it now understands code structure the same way IDEs do. That capability replaces many external tools that tried to give AI deeper code knowledge. Builders must shift to durable advantages like integrations, proprietary data, or human judgment.
-- [2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) 👤 karpathy 💬 1746 🔖 #llm 🗓️ 2025-12-22
-    > **Резюме:** 2025 saw big shifts in LLMs: RLVR drove much capability by training on verifiable rewards.  
-LLMs feel like new, jagged “ghost” intelligences and spawned new app layers and local agents (Cursor, Claude Code).  
-Vibe coding and models like Nano Banana made building and interacting with AI far easier and more visual.
 - [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude) 👤 diwank.space 💬 4833 🔖 #llm, #claude 🗓️ 2025-12-22
     > **Резюме:** AI can speed coding but needs strict engineering practices to be safe and reliable. Humans must write tests, guide AI, and document decisions (CLAUDE.md). Transparency and disciplined workflows make AI a force multiplier, not chaos.
 - [I cannot emphasize enough how much I prefer this "tutorial...](https://x.com/geoffreylitt/status/1991909304085987366/?utm_medium=email&rw_tt_thread=True) 👤 Geoffrey Litt 💬 464 🔖 #llm, #try, #claude 🗓️ 2025-12-21

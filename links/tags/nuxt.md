@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 52
+- Всего ссылок: 53
 
 ## Ссылки
 
+- [Nuxt 4 Performance Optimization: Complete Guide to Faster Apps in 2026](https://masteringnuxt.com/blog/nuxt-4-performance-optimization-complete-guide-to-faster-apps-in-2026?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 3776 🔖 #nuxt 🗓️ 2026-01-13
+    > **Резюме:** Nuxt 4 improves app speed with smart rendering, caching, and image optimization. Use lazy loading and route-specific cache rules to make pages load faster. These simple steps help build fast, smooth Nuxt apps users enjoy.
 - [Validating API Routes in Nuxt 4 with Zod](https://humanonlyweb.com/blog/validating-api-routes-in-nuxt-with-zod) 👤 HumanOnlyWeb 💬 913 🔖 #zod, #nuxt 🗓️ 2025-12-23
     > **Резюме:** Stop writing manual validation in each Nuxt API route. Use the provided Zod-based utilities to validate bodies, queries, params, and form data with consistent, typed errors. A central error handler converts Zod issues into predictable responses your frontend can use.
 - [A Layered Architecture for Nuxt Fullstack applications [Part 1 — Server side]](https://humanonlyweb.com/blog/layered-architecture-for-nuxt-4-fullstack-applications-part-1) 👤 HumanOnlyWeb 💬 760 🔖 #nuxt 🗓️ 2025-12-23

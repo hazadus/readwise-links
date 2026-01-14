@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 25
+- Всего ссылок: 26
 
 ## Ссылки
 
+- [The Great Filter (Or Why High Performance Still Eludes Most Dev Teams, Even With AI)](https://codemanship.wordpress.com/2026/01/12/the-great-filter-or-why-high-performance-still-eludes-most-dev-teams-even-with-ai/) 👤 Codemanship's Blog 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-13
+    > **Резюме:** Most dev teams don't get better results from AI because they haven't fixed slow, blocking parts of their process. High performers invest a lot of time and money to build fast, smooth workflows that deliver value quickly. Without this big effort, AI alone won't improve productivity or business outcomes.
 - [My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/#atom-everything) 👤 Simon Willison 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
     > **Резюме:** Simon Willison used AI tools to quickly port open source code and discussed the legal and ethical issues involved. He believes this approach is okay if licenses and credit are respected and the work is clearly labeled as experimental. He also thinks AI will change open source, helping some people contribute more but possibly reducing demand for some projects.
 - [Don't fall into the anti-AI hype](http://antirez.com/news/158) 👤 antirez.com 💬 1262 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12

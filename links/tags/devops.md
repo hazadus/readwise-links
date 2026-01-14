@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [Staging is a wasteful lie: the case for the mono-environment](https://www.tomwphillips.co.uk/2026/01/staging-is-a-wasteful-lie-the-case-for-the-mono-environment/?utm_source=tldrdev) 👤 Tom Phillips 💬 2541 🔖 #devops 🗓️ 2026-01-13
+    > **Резюме:** Staging environments waste time and resources because they don’t match production and delay feedback. Instead, teams should focus on one production environment with strong testing, continuous deployment, and monitoring. This approach speeds delivery, reduces risk, and better serves users.
+- [Why devs need DevOps](https://ravestar.dev/blog/why-devs-need-devops/?utm_source=tldrdev) 👤 ravestar.dev 💬 2490 🔖 #devops 🗓️ 2026-01-13
+    > **Резюме:** DevOps is more than tools; it's a way of thinking that keeps value flowing from idea to users. Developers should use the Three Ways—Flow, Feedback, and Continuous Experimentation—to find and fix bottlenecks early. Systemized knowledge sharing and built-in feedback make teams faster, safer, and less prone to costly rewrites.
 - [Operational Skills Needed](https://yusufaytas.com/operational-skills-needed/) 👤 https://www.facebook.com/yusufaytas 💬 466 🔖 #devops, #interview 🗓️ 2025-10-04
     > **Резюме:** Many engineers excel at coding and design but lack practical operational reflexes for real incidents. Interviews should include realistic scenario-based questions about outages, monitoring, and post-mortems. Testing these skills finds candidates who can keep systems reliable in production.
 - [Continuous Integration and Deployment for Python With GitHub Actions](https://realpython.com/github-actions-python/) 👤 Ricky White 💬 7039 🔖 #devops, #github 🗓️ 2024-11-28

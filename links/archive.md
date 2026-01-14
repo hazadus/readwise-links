@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1321
+- Всего ссылок: 1324
 
 ## Ссылки
 
+- [First impressions of Claude Cowork, Anthropic’s general agent](https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything) 👤 Simon Willison 💬 1167 🔖 #llm, #claude 🗓️ 2026-01-13
+- [The Great Filter (Or Why High Performance Still Eludes Most Dev Teams, Even With AI)](https://codemanship.wordpress.com/2026/01/12/the-great-filter-or-why-high-performance-still-eludes-most-dev-teams-even-with-ai/) 👤 Codemanship's Blog 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-13
 - [My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/#atom-everything) 👤 Simon Willison 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
 - [Don't fall into the anti-AI hype](http://antirez.com/news/158) 👤 antirez.com 💬 1262 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
 - [Life Happens at 1x Speed](https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/) 👤 Terrible Software 💬 687 🗓️ 2026-01-12
@@ -33,6 +35,7 @@
 - [mprocs: start all your project's commands at once](https://www.bitecode.dev/p/mprocs-start-all-your-projects-commands) 👤 Bite Code! 💬 552 🔖 #devtools 🗓️ 2025-12-23
 - [Everyone is a Staff Engineer Now](https://read.engineerscodex.com/p/everyone-is-a-staff-engineer-now) 👤 Engineer's Codex 💬 1251 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
 - [A Year Of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) 👤 Armin Ronacher 💬 2175 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23
+- [2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) 👤 karpathy 💬 1746 🔖 #llm 🗓️ 2025-12-22
 - [Unit Testing Principles](https://olano.dev/blog/unit-testing-principles/) 👤 Facundo Olano 💬 1620 🔖 #testing 🗓️ 2025-12-22
 - [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes?utm_source=substack&utm_medium=email) 👤 Jason Fried 💬 725 🔖 #reflections, #joyandcuriosity 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/6947a75b-b214-8327-9837-b87b2e4258cc

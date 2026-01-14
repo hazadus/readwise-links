@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 16
+- Всего ссылок: 17
 
 ## Ссылки
 
+- [First impressions of Claude Cowork, Anthropic’s general agent](https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything) 👤 Simon Willison 💬 1167 🔖 #llm, #claude 🗓️ 2026-01-13
+    > **Резюме:** Claude Cowork is a new tool from Anthropic that helps users run code and manage files easily through a simple app interface. It works by safely accessing only files you allow and can find useful information, like unpublished drafts, quickly. While powerful, users should be careful of security risks like prompt injections, which Anthropic is actively working to prevent.
 - [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude) 👤 diwank.space 💬 4833 🔖 #llm, #claude 🗓️ 2025-12-22
     > **Резюме:** AI can speed coding but needs strict engineering practices to be safe and reliable. Humans must write tests, guide AI, and document decisions (CLAUDE.md). Transparency and disciplined workflows make AI a force multiplier, not chaos.
 - [I cannot emphasize enough how much I prefer this "tutorial...](https://x.com/geoffreylitt/status/1991909304085987366/?utm_medium=email&rw_tt_thread=True) 👤 Geoffrey Litt 💬 464 🔖 #llm, #try, #claude 🗓️ 2025-12-21
