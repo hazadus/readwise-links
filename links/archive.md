@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 1324
+- Всего ссылок: 1325
 
 ## Ссылки
 
@@ -21,6 +21,7 @@
 - [A Year In Review: Flask in 2025](https://blog.miguelgrinberg.com/post/a-year-in-review-flask-in-2025) 👤 Miguel Grinberg 💬 1561 🔖 #flask 🗓️ 2026-01-04
 - [Grok is enabling mass sexual harassment on Twitter](https://seangoedecke.com/grok-deepfakes/) 👤 seangoedecke.com 💬 1110 🔖 #llm 🗓️ 2026-01-04
 - [Is Critical Thinking the Most Important Skill for Software Engineers?](https://blog.pragmaticengineer.com/critical-thinking/) 👤 Gergely Orosz 💬 1887 🔖 #soft skills 🗓️ 2026-01-03
+- [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything) 👤 Simon Willison 💬 7468 🔖 #llm 🗓️ 2026-01-02
 - [«Я хотела написать историю о ребятах, классно делающих работу, в которой они лучше всех». Интервью с Марией Закрученко](https://www.mirf.ru/blog/intervu-s-mariei-zakruchenko) 👤 mirf.ru 💬 2518 🗓️ 2026-01-02
 - [Agentic Engineering and the Sin of Incuriosity](https://davegriffith.substack.com/p/agentic-engineering-sin-incuriousity) 👤 Dave Griffith 💬 919 🔖 #llm 🗓️ 2025-12-31
 - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html) 👤 Andrew Nesbitt 💬 1254 🔖 #uv 🗓️ 2025-12-29

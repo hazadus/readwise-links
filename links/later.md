@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 98
+- Всего ссылок: 99
 
 ## Ссылки
 
+- [Porting MiniJinja to Go With an Agent](https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/) 👤 Armin Ronacher 💬 1214 🗓️ 2026-01-14
+    > **Резюме:** Armin Ronacher used an AI agent to port the MiniJinja template engine from Rust to Go with minimal effort. The agent worked mostly on its own by running tests and improving the code over many hours. This experiment shows that AI can now help quickly port software between languages using shared tests.
+- [Bring back opinionated architecture](https://frederickvanbrabant.com/blog/2026-01-09-bring-back-opinionated-architecture/?utm_source=tldrdev) 👤 Frederick Vanbrabant 💬 1272 🗓️ 2026-01-14
+    > **Резюме:** Enterprise architecture should be clear and decisive, not full of vague "it depends" answers. Building only what is needed now saves time, money, and complexity. Being opinionated means choosing a simple, practical path and adapting later if needed.
 - [AI Zealotry¶](https://matthewrocklin.com/ai-zealotry/?utm_source=tldrdev#why-ai) 👤 Matthew Rocklin 💬 2935 🔖 #llm 🗓️ 2026-01-13
     > **Резюме:** AI helps experienced developers work faster and think at higher levels of abstraction. Trust in AI-generated code grows with strong testing and automated feedback. Programming with AI is an evolution like compilers, making coding more fun and productive despite some trade-offs.
 - [Code is Clay](https://campedersen.com/code-is-clay) 👤 campedersen.com 💬 497 🗓️ 2026-01-13
@@ -54,10 +58,6 @@ If people ignore these rules he will block them to avoid unproductive fights.
     > **Резюме:** Dave Griffith argues that moving from senior to staff engineer requires three deliberate skills: deep expertise, visible impact, and intentional planning. Agentic AI tools now let engineers learn far faster, produce clearer evidence of their work, and build smarter promotion plans. He’s testing this playbook in real time and will share practical tactics in a series of posts.
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) 👤 Nikita Prokopov 💬 2754 🗓️ 2026-01-06
     > **Резюме:** Apple's Tahoe icons are confusing and inconsistent, making it hard to find or understand menu items quickly. Too many icons clutter menus, and similar or unclear symbols cause frustration. Good icon design should be simple, clear, and consistent, but Tahoe often misses these points.
-- [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything) 👤 Simon Willison 💬 7468 🔖 #llm 🗓️ 2026-01-02
-    > **Резюме:** 2025 was the year LLMs got much better at reasoning and running as agents.  
-Coding agents like Claude Code and CLI tools became widely used for real development work.  
-Local models improved, cloud models advanced faster, and new conformance and testing patterns unlocked reliable AI-driven coding.
 - [LlamaIndex in Python: A RAG Guide With Examples](https://realpython.com/llamaindex-examples/) 👤 Leodanis Pozo Ramos 💬 4813 🗓️ 2025-12-29
     > **Резюме:** LlamaIndex is a Python tool that helps you connect your data to large language models for better AI answers. It works by loading documents, creating searchable indexes, and using retrieval-augmented generation (RAG) to provide accurate responses. This guide shows you how to install LlamaIndex, build indexes, and query models like OpenAI and Ollama with your own data.
 - [textarea.my on GitHub](https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything) 👤 Simon Willison 💬 246 🗓️ 2025-12-29
