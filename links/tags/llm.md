@@ -1,15 +1,21 @@
 # Ссылки
 
-- Всего ссылок: 336
+- Всего ссылок: 339
 
 ## Ссылки
 
+- [Leveraging AI as an infinitely patient teacher](https://www.chrisgregori.dev/opinion/leveraging-ai-as-an-infinitely-patient-teacher) 👤 chrisgregori.dev 💬 1165 🔖 #llm, #elixir, #learning 🗓️ 2026-01-15
+    > **Резюме:** The author uses AI not to do work, but as a patient teacher that guides learning. This teaching mode helps understand new tools and concepts deeply by asking questions and giving hints. It builds real skills, unlike just copying AI-generated code.
+- [Porting MiniJinja to Go With an Agent](https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/) 👤 Armin Ronacher 💬 1214 🔖 #llm, #llm-devimpact 🗓️ 2026-01-14
+    > **Резюме:** Armin Ronacher used an AI agent to port the MiniJinja template engine from Rust to Go with minimal effort. The agent worked mostly on its own by running tests and improving the code over many hours. This experiment shows that AI can now help quickly port software between languages using shared tests.
 - [First impressions of Claude Cowork, Anthropic’s general agent](https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything) 👤 Simon Willison 💬 1167 🔖 #llm, #claude 🗓️ 2026-01-13
     > **Резюме:** Claude Cowork is a new tool from Anthropic that helps users run code and manage files easily through a simple app interface. It works by safely accessing only files you allow and can find useful information, like unpublished drafts, quickly. While powerful, users should be careful of security risks like prompt injections, which Anthropic is actively working to prevent.
 - [The Great Filter (Or Why High Performance Still Eludes Most Dev Teams, Even With AI)](https://codemanship.wordpress.com/2026/01/12/the-great-filter-or-why-high-performance-still-eludes-most-dev-teams-even-with-ai/) 👤 Codemanship's Blog 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-13
     > **Резюме:** Most dev teams don't get better results from AI because they haven't fixed slow, blocking parts of their process. High performers invest a lot of time and money to build fast, smooth workflows that deliver value quickly. Without this big effort, AI alone won't improve productivity or business outcomes.
 - [AI Zealotry¶](https://matthewrocklin.com/ai-zealotry/?utm_source=tldrdev#why-ai) 👤 Matthew Rocklin 💬 2935 🔖 #llm 🗓️ 2026-01-13
     > **Резюме:** AI helps experienced developers work faster and think at higher levels of abstraction. Trust in AI-generated code grows with strong testing and automated feedback. Programming with AI is an evolution like compilers, making coding more fun and productive despite some trade-offs.
+- [Code Is Cheap Now. Software Isn’t.](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt?utm_source=tldrdev) 👤 chrisgregori.dev 💬 1933 🔖 #llm 🗓️ 2026-01-13
+    > **Резюме:** Coding is easier and faster now thanks to AI, but building lasting, reliable software is still hard and needs skilled engineers. People are making personal, disposable tools to solve specific problems quickly instead of traditional long-term apps. Success depends more on understanding users and good judgment than just writing code.
 - [Building Staff Engineer-Level Knowledge with AI](https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai) 👤 Dave Griffith 💬 2515 🔖 #llm 🗓️ 2026-01-12
     > **Резюме:** To become a staff engineer, you must build deep expertise in technology, codebases, and business using AI as a learning tool, not a crutch. AI can speed up learning and understanding, but true mastery means internalizing knowledge without relying on AI all the time. Managing and showing your expertise is key to advancing your career and making a real impact.
 - [My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/#atom-everything) 👤 Simon Willison 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12

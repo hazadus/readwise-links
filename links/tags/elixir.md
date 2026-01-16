@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [Leveraging AI as an infinitely patient teacher](https://www.chrisgregori.dev/opinion/leveraging-ai-as-an-infinitely-patient-teacher) 👤 chrisgregori.dev 💬 1165 🔖 #llm, #elixir, #learning 🗓️ 2026-01-15
+    > **Резюме:** The author uses AI not to do work, but as a patient teacher that guides learning. This teaching mode helps understand new tools and concepts deeply by asking questions and giving hints. It builds real skills, unlike just copying AI-generated code.
 - [An Animated Introduction to Elixir](https://www.freecodecamp.org/news/an-animated-introduction-to-elixir/) 👤 Mark Mahoney 💬 685 🔖 #elixir 🗓️ 2025-05-23
     > **Резюме:** Elixir is a functional programming language that simplifies building scalable and maintainable applications using the Erlang VM. It offers features like immutability, first-class functions, and a powerful concurrency model, making it easier to write clean and efficient code. An interactive tutorial called "An Animated Introduction to Elixir" helps beginners learn the language through step-by-step code playbacks.
 - [The Most Admired Web Framework](https://www.youtube.com/watch?v=RNMwz5n1M80) 👤 Code to the Moon 🔖 #elixir 🗓️ 2025-02-12

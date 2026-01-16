@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 28
+- Всего ссылок: 29
 
 ## Ссылки
 
+- [Leveraging AI as an infinitely patient teacher](https://www.chrisgregori.dev/opinion/leveraging-ai-as-an-infinitely-patient-teacher) 👤 chrisgregori.dev 💬 1165 🔖 #llm, #elixir, #learning 🗓️ 2026-01-15
+    > **Резюме:** The author uses AI not to do work, but as a patient teacher that guides learning. This teaching mode helps understand new tools and concepts deeply by asking questions and giving hints. It builds real skills, unlike just copying AI-generated code.
 - [The Apprentice Problem](https://davegriffith.substack.com/p/the-apprentice-problem) 👤 Dave Griffith 💬 3067 🔖 #llm, #career, #learning, #llm-devimpact 🗓️ 2025-12-16
     > **Резюме:** AI can do much junior-level coding, so companies may hire fewer juniors.  
 But juniors are how firms grow future senior engineers who have judgment and context.  

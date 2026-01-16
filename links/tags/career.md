@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 67
+- Всего ссылок: 68
 
 ## Ссылки
 
+- [How the hell are you supposed to have a career in tech in 2026?](https://www.anildash.com/2026/01/05/a-tech-career-in-2026/?utm_source=tldrdev) 👤 Anil Dash 💬 2530 🔖 #career, #llm-devimpact 🗓️ 2026-01-15
+    > **Резюме:** The tech industry in 2026 faces big problems like layoffs, bad leadership, and broken values. Many workers feel lost but can find strength by understanding the systems and power around them. Tech skills can be used in other fields where work culture is often healthier and more meaningful.
 - [Creating Your Own Opportunities](https://terriblesoftware.org/2026/01/05/creating-your-own-opportunities/) 👤 Terrible Software 💬 918 🔖 #career 🗓️ 2026-01-06
     > **Резюме:** If you want to grow, don’t wait for your manager to hand you chances. Look for small, high‑impact ways to improve the work you’re already doing. Turn boring tasks into reusable, visible wins that build your skills and reputation.
 - [The Apprentice Problem](https://davegriffith.substack.com/p/the-apprentice-problem) 👤 Dave Griffith 💬 3067 🔖 #llm, #career, #learning, #llm-devimpact 🗓️ 2025-12-16

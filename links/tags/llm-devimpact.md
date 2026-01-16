@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 26
+- Всего ссылок: 28
 
 ## Ссылки
 
+- [How the hell are you supposed to have a career in tech in 2026?](https://www.anildash.com/2026/01/05/a-tech-career-in-2026/?utm_source=tldrdev) 👤 Anil Dash 💬 2530 🔖 #career, #llm-devimpact 🗓️ 2026-01-15
+    > **Резюме:** The tech industry in 2026 faces big problems like layoffs, bad leadership, and broken values. Many workers feel lost but can find strength by understanding the systems and power around them. Tech skills can be used in other fields where work culture is often healthier and more meaningful.
+- [Porting MiniJinja to Go With an Agent](https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/) 👤 Armin Ronacher 💬 1214 🔖 #llm, #llm-devimpact 🗓️ 2026-01-14
+    > **Резюме:** Armin Ronacher used an AI agent to port the MiniJinja template engine from Rust to Go with minimal effort. The agent worked mostly on its own by running tests and improving the code over many hours. This experiment shows that AI can now help quickly port software between languages using shared tests.
 - [The Great Filter (Or Why High Performance Still Eludes Most Dev Teams, Even With AI)](https://codemanship.wordpress.com/2026/01/12/the-great-filter-or-why-high-performance-still-eludes-most-dev-teams-even-with-ai/) 👤 Codemanship's Blog 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-13
     > **Резюме:** Most dev teams don't get better results from AI because they haven't fixed slow, blocking parts of their process. High performers invest a lot of time and money to build fast, smooth workflows that deliver value quickly. Without this big effort, AI alone won't improve productivity or business outcomes.
 - [My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/#atom-everything) 👤 Simon Willison 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12

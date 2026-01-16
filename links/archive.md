@@ -1,11 +1,17 @@
 # Архивные ссылки
 
-- Всего ссылок: 1325
+- Всего ссылок: 1331
 
 ## Ссылки
 
+- [Leveraging AI as an infinitely patient teacher](https://www.chrisgregori.dev/opinion/leveraging-ai-as-an-infinitely-patient-teacher) 👤 chrisgregori.dev 💬 1165 🔖 #llm, #elixir, #learning 🗓️ 2026-01-15
+- [How the hell are you supposed to have a career in tech in 2026?](https://www.anildash.com/2026/01/05/a-tech-career-in-2026/?utm_source=tldrdev) 👤 Anil Dash 💬 2530 🔖 #career, #llm-devimpact 🗓️ 2026-01-15
+- [My Fitbit Buzzed and I Understood Enshittification](mailto:reader-forwarded-email/34909ccc837ec8ec3098b022e2e85f49) 👤 Kent Beck from Software Design: Tidy First? 💬 1117 🗓️ 2026-01-15
+- [Porting MiniJinja to Go With an Agent](https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/) 👤 Armin Ronacher 💬 1214 🔖 #llm, #llm-devimpact 🗓️ 2026-01-14
 - [First impressions of Claude Cowork, Anthropic’s general agent](https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything) 👤 Simon Willison 💬 1167 🔖 #llm, #claude 🗓️ 2026-01-13
 - [The Great Filter (Or Why High Performance Still Eludes Most Dev Teams, Even With AI)](https://codemanship.wordpress.com/2026/01/12/the-great-filter-or-why-high-performance-still-eludes-most-dev-teams-even-with-ai/) 👤 Codemanship's Blog 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-13
+- [Code is Clay](https://campedersen.com/code-is-clay) 👤 campedersen.com 💬 497 🗓️ 2026-01-13
+- [Code Is Cheap Now. Software Isn’t.](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt?utm_source=tldrdev) 👤 chrisgregori.dev 💬 1933 🔖 #llm 🗓️ 2026-01-13
 - [My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/#atom-everything) 👤 Simon Willison 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
 - [Don't fall into the anti-AI hype](http://antirez.com/news/158) 👤 antirez.com 💬 1262 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
 - [Life Happens at 1x Speed](https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/) 👤 Terrible Software 💬 687 🗓️ 2026-01-12

@@ -1,19 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 99
+- Всего ссылок: 96
 
 ## Ссылки
 
-- [Porting MiniJinja to Go With an Agent](https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/) 👤 Armin Ronacher 💬 1214 🗓️ 2026-01-14
-    > **Резюме:** Armin Ronacher used an AI agent to port the MiniJinja template engine from Rust to Go with minimal effort. The agent worked mostly on its own by running tests and improving the code over many hours. This experiment shows that AI can now help quickly port software between languages using shared tests.
-- [Bring back opinionated architecture](https://frederickvanbrabant.com/blog/2026-01-09-bring-back-opinionated-architecture/?utm_source=tldrdev) 👤 Frederick Vanbrabant 💬 1272 🗓️ 2026-01-14
-    > **Резюме:** Enterprise architecture should be clear and decisive, not full of vague "it depends" answers. Building only what is needed now saves time, money, and complexity. Being opinionated means choosing a simple, practical path and adapting later if needed.
+- [No management needed: anti-patterns in early-stage engineering teams](https://www.ablg.io/blog/no-management-needed?utm_source=tldrdev) 👤 ablg.io 💬 1751 🗓️ 2026-01-15
+    > **Резюме:** Early-stage founders should avoid traditional engineering management and focus on building product and hiring motivated engineers. Managing too soon or copying big companies' methods wastes energy and slows progress. Keep management simple, transparent, and flexible until the team grows larger.
 - [AI Zealotry¶](https://matthewrocklin.com/ai-zealotry/?utm_source=tldrdev#why-ai) 👤 Matthew Rocklin 💬 2935 🔖 #llm 🗓️ 2026-01-13
     > **Резюме:** AI helps experienced developers work faster and think at higher levels of abstraction. Trust in AI-generated code grows with strong testing and automated feedback. Programming with AI is an evolution like compilers, making coding more fun and productive despite some trade-offs.
-- [Code is Clay](https://campedersen.com/code-is-clay) 👤 campedersen.com 💬 497 🗓️ 2026-01-13
-    > **Резюме:** Coding is like working with clay: both are flexible materials shaped by creativity and effort. Machines and AI can handle routine work, but the unique, imaginative projects still need human touch. As automation grows, the art of making meaningful, original things becomes even more valuable.
-- [Code Is Cheap Now. Software Isn’t.](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt?utm_source=tldrdev) 👤 chrisgregori.dev 💬 1933 🗓️ 2026-01-13
-    > **Резюме:** Coding is easier and faster now thanks to AI, but building lasting, reliable software is still hard and needs skilled engineers. People are making personal, disposable tools to solve specific problems quickly instead of traditional long-term apps. Success depends more on understanding users and good judgment than just writing code.
 - [How Markdown took over the world](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/?utm_source=tldrdev) 👤 Anil Dash 💬 4535 🔖 #markdown 🗓️ 2026-01-13
     > **Резюме:** Markdown started as a simple way to make writing on the internet easier without needing complicated code. Many people liked it and began using it everywhere, from blogs to apps like Microsoft Notepad and Apple Notes. Its success shows how open, easy ideas can grow big and change how we share information online.
 - [What Happened To WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/?utm_source=tldrdev) 👤 EmNudge 💬 1863 🔖 #webassembly 🗓️ 2026-01-13
