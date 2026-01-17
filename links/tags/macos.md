@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [WWDC24: Meet the Translation API | Apple](https://www.youtube.com/watch?v=MuIFhbHNmqA) 👤 Apple Developer 🔖 #macos, #swift 🗓️ 2026-01-16
+    > **Резюме:** Apple's new Translation API helps apps translate text easily using machine learning. Developers can add simple translation overlays or use flexible tools for more control. This feature works system-wide and supports many languages, improving how users understand content in different languages.
+- [The Unbearable Frustration of Figuring Out APIs](https://blog.ar-ms.me/thoughts/translation-cli/?utm_source=tldrdev) 👤 ar-ms.me 💬 2351 🔖 #macos, #swift 🗓️ 2026-01-16
+    > **Резюме:** The author struggled to use Apple's Swift Translation API due to async function limitations and macOS version restrictions. They solved the problem by making the main function async, checking language support, and preparing the translation model. Finally, they successfully built a command-line translator despite confusing and incomplete documentation.
 - [The Anatomy of a macOS App](https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/?utm_source=tldrdev) 👤 The Eclectic Light Company 💬 739 🔖 #macos 🗓️ 2025-12-12
     > **Резюме:** macOS apps are self-contained bundles (.app) with a Contents folder holding executables, resources, and metadata like Info.plist. Apple added code signing, notarization, and receipts to protect and verify bundle contents. Bundles simplify installation, updates, removal, and improve security.
 - [Simple macOS script to extract text from images (OCR)](https://evanhahn.com/mac-ocr-script/) 👤 Evan Hahn 💬 232 🔖 #cli, #try, #macos 🗓️ 2025-10-29

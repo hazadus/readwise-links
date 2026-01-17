@@ -1,11 +1,19 @@
 # Отложенные ссылки
 
-- Всего ссылок: 96
+- Всего ссылок: 100
 
 ## Ссылки
 
-- [No management needed: anti-patterns in early-stage engineering teams](https://www.ablg.io/blog/no-management-needed?utm_source=tldrdev) 👤 ablg.io 💬 1751 🗓️ 2026-01-15
-    > **Резюме:** Early-stage founders should avoid traditional engineering management and focus on building product and hiring motivated engineers. Managing too soon or copying big companies' methods wastes energy and slows progress. Keep management simple, transparent, and flexible until the team grows larger.
+- [How Ralph Wiggum went from 'The Simpsons' to the biggest name in AI right now](https://venturebeat.com/technology/how-ralph-wiggum-went-from-the-simpsons-to-the-biggest-name-in-ai-right-now?ref=ghuntley.com) 👤 Carl Franzen 💬 1539 🗓️ 2026-01-16
+    > **Резюме:** The Ralph Wiggum plugin turns AI coding into a persistent loop that fixes its own mistakes until the job is done. It helps developers automate boring tasks and create working code overnight with minimal human help. While powerful and promising, users must manage costs and run it safely to avoid issues.
+- [WWDC24: Meet the Translation API | Apple](https://www.youtube.com/watch?v=MuIFhbHNmqA) 👤 Apple Developer 🔖 #macos, #swift 🗓️ 2026-01-16
+    > **Резюме:** Apple's new Translation API helps apps translate text easily using machine learning. Developers can add simple translation overlays or use flexible tools for more control. This feature works system-wide and supports many languages, improving how users understand content in different languages.
+- [LLMs are a 400-year-long confidence trick](https://tomrenner.com/posts/400-year-confidence-trick/?utm_source=tldrdev) 👤 Tom Renner 💬 1359 🔖 #llm 🗓️ 2026-01-16
+    > **Резюме:** People have trusted machines for 400 years to do hard work accurately. Large language models (LLMs) use fear and flattery to make us rely on them quickly. But these tools are not truly intelligent—they are a costly trick that often fails to deliver on promises.
+- [we rolled our own documentation site](https://blog.tangled.org/docs) 👤 tangled.org 💬 836 🔖 #docs 🗓️ 2026-01-16
+    > **Резюме:** The author created a simple documentation site using pandoc to avoid complex tools and JavaScript. They combined markdown files into one and styled the site to match their main page, enabling easy searching and navigation. The site is built and deployed with nix and colmena, keeping the process straightforward and customizable.
+- [Yeah, About Your “Precise” Specification…](https://codemanship.wordpress.com/2026/01/15/yeah-about-your-precise-specification/) 👤 Codemanship's Blog 💬 2686 🗓️ 2026-01-16
+    > **Резюме:** Clear and testable specifications help find mistakes and reduce confusion in software development. Using examples and tests with customers makes requirements easier to understand and verify. Unlike programming languages, LLM prompts need less ambiguity to improve accuracy but are not the same as code.
 - [AI Zealotry¶](https://matthewrocklin.com/ai-zealotry/?utm_source=tldrdev#why-ai) 👤 Matthew Rocklin 💬 2935 🔖 #llm 🗓️ 2026-01-13
     > **Резюме:** AI helps experienced developers work faster and think at higher levels of abstraction. Trust in AI-generated code grows with strong testing and automated feedback. Programming with AI is an evolution like compilers, making coding more fun and productive despite some trade-offs.
 - [How Markdown took over the world](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/?utm_source=tldrdev) 👤 Anil Dash 💬 4535 🔖 #markdown 🗓️ 2026-01-13

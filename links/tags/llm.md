@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 339
+- Всего ссылок: 340
 
 ## Ссылки
 
+- [LLMs are a 400-year-long confidence trick](https://tomrenner.com/posts/400-year-confidence-trick/?utm_source=tldrdev) 👤 Tom Renner 💬 1359 🔖 #llm 🗓️ 2026-01-16
+    > **Резюме:** People have trusted machines for 400 years to do hard work accurately. Large language models (LLMs) use fear and flattery to make us rely on them quickly. But these tools are not truly intelligent—they are a costly trick that often fails to deliver on promises.
 - [Leveraging AI as an infinitely patient teacher](https://www.chrisgregori.dev/opinion/leveraging-ai-as-an-infinitely-patient-teacher) 👤 chrisgregori.dev 💬 1165 🔖 #llm, #elixir, #learning 🗓️ 2026-01-15
     > **Резюме:** The author uses AI not to do work, but as a patient teacher that guides learning. This teaching mode helps understand new tools and concepts deeply by asking questions and giving hints. It builds real skills, unlike just copying AI-generated code.
 - [Porting MiniJinja to Go With an Agent](https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/) 👤 Armin Ronacher 💬 1214 🔖 #llm, #llm-devimpact 🗓️ 2026-01-14
