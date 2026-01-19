@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 340
+- Всего ссылок: 341
 
 ## Ссылки
 
+- [Do not give up your brain](https://cassidoo.co/post/good-brain/) 👤 cassidoo.co 💬 269 🔖 #llm 🗓️ 2026-01-18
+    > **Резюме:** AI can be a helpful tool, but don't rely on it to do all your thinking. Using your own brain keeps you sharp and confident. If you depend too much on AI, you might lose important skills and control.
 - [LLMs are a 400-year-long confidence trick](https://tomrenner.com/posts/400-year-confidence-trick/?utm_source=tldrdev) 👤 Tom Renner 💬 1359 🔖 #llm 🗓️ 2026-01-16
     > **Резюме:** People have trusted machines for 400 years to do hard work accurately. Large language models (LLMs) use fear and flattery to make us rely on them quickly. But these tools are not truly intelligent—they are a costly trick that often fails to deliver on promises.
 - [Leveraging AI as an infinitely patient teacher](https://www.chrisgregori.dev/opinion/leveraging-ai-as-an-infinitely-patient-teacher) 👤 chrisgregori.dev 💬 1165 🔖 #llm, #elixir, #learning 🗓️ 2026-01-15

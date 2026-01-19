@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 17
+- Всего ссылок: 18
 
 ## Ссылки
 
+- [How I Built a Skill That Lets Me Talk to Claude's Conversation Memory](https://alexop.dev/posts/building-conversation-search-skill-claude-code/) 👤 Alexander Opalic 💬 993 🔖 #claude 🗓️ 2026-01-18
+    > **Резюме:** Alexander built a skill that lets Claude search its saved conversations to find past coding solutions. The skill uses summaries, messages, and commands to quickly recall fixes and work done. This makes Claude a helpful partner that remembers and saves time by avoiding repeated problem-solving.
 - [First impressions of Claude Cowork, Anthropic’s general agent](https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything) 👤 Simon Willison 💬 1167 🔖 #llm, #claude 🗓️ 2026-01-13
     > **Резюме:** Claude Cowork is a new tool from Anthropic that helps users run code and manage files easily through a simple app interface. It works by safely accessing only files you allow and can find useful information, like unpublished drafts, quickly. While powerful, users should be careful of security risks like prompt injections, which Anthropic is actively working to prevent.
 - [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude) 👤 diwank.space 💬 4833 🔖 #llm, #claude 🗓️ 2025-12-22

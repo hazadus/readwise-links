@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1334
+- Всего ссылок: 1335
 
 ## Ссылки
 
+- [Do not give up your brain](https://cassidoo.co/post/good-brain/) 👤 cassidoo.co 💬 269 🔖 #llm 🗓️ 2026-01-18
 - [The Unbearable Frustration of Figuring Out APIs](https://blog.ar-ms.me/thoughts/translation-cli/?utm_source=tldrdev) 👤 ar-ms.me 💬 2351 🔖 #macos, #swift 🗓️ 2026-01-16
 - [two AI researchers are now funded by Solana](https://ghuntley.com/solana/) 👤 Geoffrey Huntley 💬 1312 🗓️ 2026-01-16
 - [Leveraging AI as an infinitely patient teacher](https://www.chrisgregori.dev/opinion/leveraging-ai-as-an-infinitely-patient-teacher) 👤 chrisgregori.dev 💬 1165 🔖 #llm, #elixir, #learning 🗓️ 2026-01-15

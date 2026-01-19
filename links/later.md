@@ -1,9 +1,19 @@
 # Отложенные ссылки
 
-- Всего ссылок: 100
+- Всего ссылок: 104
 
 ## Ссылки
 
+- [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) 👤 Joel Spolsky 💬 2167 🗓️ 2026-01-18
+    > **Резюме:** Abstractions hide complexity so we can work faster.  
+But all non-trivial abstractions leak, so hidden details sometimes break through.  
+That means tools save time doing work but not learning, and leaks make programming harder.
+- [How I Built a Skill That Lets Me Talk to Claude's Conversation Memory](https://alexop.dev/posts/building-conversation-search-skill-claude-code/) 👤 Alexander Opalic 💬 993 🔖 #claude 🗓️ 2026-01-18
+    > **Резюме:** Alexander built a skill that lets Claude search its saved conversations to find past coding solutions. The skill uses summaries, messages, and commands to quickly recall fixes and work done. This makes Claude a helpful partner that remembers and saves time by avoiding repeated problem-solving.
+- [Web Almanac](https://almanac.httparchive.org/en/2025/) 👤 HTTP Archive 💬 211 🔖 #web 🗓️ 2026-01-18
+    > **Резюме:** The Web Almanac is a yearly report about the state of the web. It uses real data from over 16 million websites and insights from experts. The 2025 edition has 15 chapters covering many web topics.
+- [Crypto grifters are recruiting open-source AI developers](https://seangoedecke.com/gas-and-ralph/) 👤 seangoedecke.com 💬 1061 🗓️ 2026-01-18
+    > **Резюме:** Some crypto scammers use fake coins linked to open-source AI projects to trick developers into promoting their tokens. These coins pay money to developers without adding any real value to the projects. The scammers profit by selling their coins to fans who believe they are supporting open-source work.
 - [How Ralph Wiggum went from 'The Simpsons' to the biggest name in AI right now](https://venturebeat.com/technology/how-ralph-wiggum-went-from-the-simpsons-to-the-biggest-name-in-ai-right-now?ref=ghuntley.com) 👤 Carl Franzen 💬 1539 🗓️ 2026-01-16
     > **Резюме:** The Ralph Wiggum plugin turns AI coding into a persistent loop that fixes its own mistakes until the job is done. It helps developers automate boring tasks and create working code overnight with minimal human help. While powerful and promising, users must manage costs and run it safely to avoid issues.
 - [WWDC24: Meet the Translation API | Apple](https://www.youtube.com/watch?v=MuIFhbHNmqA) 👤 Apple Developer 🔖 #macos, #swift 🗓️ 2026-01-16
