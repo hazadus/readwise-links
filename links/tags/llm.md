@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 341
+- Всего ссылок: 344
 
 ## Ссылки
 
+- [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/) 👤 Armin Ronacher 💬 2095 🔖 #llm, #llm-devimpact 🗓️ 2026-01-19
+    > **Резюме:** Many people are becoming addicted to using AI agents for coding, which can lead to poor quality work and unrealistic expectations. This causes frustration for maintainers who must spend much more time reviewing AI-generated contributions. While AI tools are powerful, we need better ways to manage and understand their use to avoid chaos and maintain quality.
+- [everything is a ralph loop](https://ghuntley.com/loop/) 👤 Geoffrey Huntley 💬 854 🔖 #llm 🗓️ 2026-01-19
+    > **Резюме:** Geoffrey Huntley explains that modern software development is no longer about building step-by-step but about creating autonomous loops that program and improve themselves. He calls this new approach "Ralph loops," where software acts like a self-evolving system rather than separate microservices. He urges engineers to learn this mindset and build their own coding agents to stay relevant in the future.
+- [Crypto grifters are recruiting open-source AI developers](https://seangoedecke.com/gas-and-ralph/) 👤 seangoedecke.com 💬 1061 🔖 #llm, #blockchain 🗓️ 2026-01-18
+    > **Резюме:** Some crypto scammers use fake coins linked to open-source AI projects to trick developers into promoting their tokens. These coins pay money to developers without adding any real value to the projects. The scammers profit by selling their coins to fans who believe they are supporting open-source work.
 - [Do not give up your brain](https://cassidoo.co/post/good-brain/) 👤 cassidoo.co 💬 269 🔖 #llm 🗓️ 2026-01-18
     > **Резюме:** AI can be a helpful tool, but don't rely on it to do all your thinking. Using your own brain keeps you sharp and confident. If you depend too much on AI, you might lose important skills and control.
 - [LLMs are a 400-year-long confidence trick](https://tomrenner.com/posts/400-year-confidence-trick/?utm_source=tldrdev) 👤 Tom Renner 💬 1359 🔖 #llm 🗓️ 2026-01-16

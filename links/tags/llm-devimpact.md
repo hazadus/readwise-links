@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 28
+- Всего ссылок: 29
 
 ## Ссылки
 
+- [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/) 👤 Armin Ronacher 💬 2095 🔖 #llm, #llm-devimpact 🗓️ 2026-01-19
+    > **Резюме:** Many people are becoming addicted to using AI agents for coding, which can lead to poor quality work and unrealistic expectations. This causes frustration for maintainers who must spend much more time reviewing AI-generated contributions. While AI tools are powerful, we need better ways to manage and understand their use to avoid chaos and maintain quality.
 - [How the hell are you supposed to have a career in tech in 2026?](https://www.anildash.com/2026/01/05/a-tech-career-in-2026/?utm_source=tldrdev) 👤 Anil Dash 💬 2530 🔖 #career, #llm-devimpact 🗓️ 2026-01-15
     > **Резюме:** The tech industry in 2026 faces big problems like layoffs, bad leadership, and broken values. Many workers feel lost but can find strength by understanding the systems and power around them. Tech skills can be used in other fields where work culture is often healthier and more meaningful.
 - [Porting MiniJinja to Go With an Agent](https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/) 👤 Armin Ronacher 💬 1214 🔖 #llm, #llm-devimpact 🗓️ 2026-01-14

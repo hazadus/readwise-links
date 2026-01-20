@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 29
+- Всего ссылок: 30
 
 ## Ссылки
 
+- [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) 👤 Joel Spolsky 💬 2167 🔖 #classics, #learning 🗓️ 2026-01-18
+    > **Резюме:** Abstractions hide complexity so we can work faster.  
+But all non-trivial abstractions leak, so hidden details sometimes break through.  
+That means tools save time doing work but not learning, and leaks make programming harder.
 - [Leveraging AI as an infinitely patient teacher](https://www.chrisgregori.dev/opinion/leveraging-ai-as-an-infinitely-patient-teacher) 👤 chrisgregori.dev 💬 1165 🔖 #llm, #elixir, #learning 🗓️ 2026-01-15
     > **Резюме:** The author uses AI not to do work, but as a patient teacher that guides learning. This teaching mode helps understand new tools and concepts deeply by asking questions and giving hints. It builds real skills, unlike just copying AI-generated code.
 - [The Apprentice Problem](https://davegriffith.substack.com/p/the-apprentice-problem) 👤 Dave Griffith 💬 3067 🔖 #llm, #career, #learning, #llm-devimpact 🗓️ 2025-12-16

@@ -1,19 +1,25 @@
 # Отложенные ссылки
 
-- Всего ссылок: 104
+- Всего ссылок: 108
 
 ## Ссылки
 
-- [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) 👤 Joel Spolsky 💬 2167 🗓️ 2026-01-18
-    > **Резюме:** Abstractions hide complexity so we can work faster.  
-But all non-trivial abstractions leak, so hidden details sometimes break through.  
-That means tools save time doing work but not learning, and leaks make programming harder.
+- [Stop Bloating Your CLAUDE.md: Progressive Disclosure for AI Coding Tools](https://alexop.dev/posts/stop-bloating-your-claude-md-progressive-disclosure-ai-coding-tools/) 👤 Alexander Opalic 💬 1674 🔖 #claude 🗓️ 2026-01-19
+    > **Резюме:** Keep your CLAUDE.md file short and focused to save token space and improve AI tool performance. Store detailed lessons and gotchas in separate docs and have Claude read them only when needed. Use automated feedback and clear prompts to help AI learn and avoid repeating mistakes.
+- [Building an AI Interface for Your Second Brain](https://alexop.dev/posts/building-ai-interface-second-brain/) 👤 Alexander Opalic 💬 3269 🗓️ 2026-01-19
+    > **Резюме:** This guide shows how to build an AI system where Claude searches and reads your notes to answer questions using only your personal knowledge. Claude uses tools to find, read, and connect notes, avoiding overwhelming prompts by fetching information as needed. This agentic loop helps you access and explore your Second Brain efficiently.
+- [Year in review: Limitless, Sesame, Claude Code, and more](https://paulstamatiou.com/2025-year-in-review?utm_source=substack&utm_medium=email) 👤 paulstamatiou.com 💬 8751 🔖 #joyandcuriosity 🗓️ 2026-01-19
+    > **Резюме:** In 2025, Paul Stamatiou focused on designing and building simple, high-quality AI products that feel personal and useful. He left his startup role to join Sesame as Head of Design, working closely on software and hardware. He believes great design means thoughtful product building, not just flashy visuals or shortcuts with AI.
+- [Why We Built Our Own Background Agent](https://builders.ramp.com/post/why-we-built-our-background-agent?utm_source=substack&utm_medium=email) 👤 Zach Bruggeman, Jason Quense, Rahul Sengottuvelu 💬 2798 🔖 #joyandcuriosity 🗓️ 2026-01-19
+    > **Резюме:** The team built Inspect, a background coding agent that runs tests, reviews data, and works in a sandboxed cloud environment. It supports many tools, offers multiplayer sessions, and connects with platforms like Slack for easy collaboration. Their focus is on speed, flexibility, and helping all team members contribute effectively.
+- [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering?utm_source=substack&utm_medium=email) 👤 alexharri.com 💬 6378 🔖 #joyandcuriosity 🗓️ 2026-01-19
+    > **Резюме:** ASCII characters are not simple pixels; their shapes affect how images appear when rendered as ASCII art. By using multiple sampling points and enhancing contrast, we can create sharper and clearer ASCII images. These techniques improve readability and capture the shape of characters better than traditional pixel-based methods.
+- [DHH: Why AI Isn't Writing My Code (Yet)](https://www.youtube.com/watch?v=uWqno4HM4xA) 👤 Amp, Inc. 🔖 #joyandcuriosity 🗓️ 2026-01-19
+    > **Резюме:** AI is changing software development, but it is not yet advanced enough to replace programmers. Many companies, including 37signals, have tried AI features but found they are not always better or loved by users. Despite this, AI helps lower the barrier to launching new products and can improve coding productivity over time.
 - [How I Built a Skill That Lets Me Talk to Claude's Conversation Memory](https://alexop.dev/posts/building-conversation-search-skill-claude-code/) 👤 Alexander Opalic 💬 993 🔖 #claude 🗓️ 2026-01-18
     > **Резюме:** Alexander built a skill that lets Claude search its saved conversations to find past coding solutions. The skill uses summaries, messages, and commands to quickly recall fixes and work done. This makes Claude a helpful partner that remembers and saves time by avoiding repeated problem-solving.
 - [Web Almanac](https://almanac.httparchive.org/en/2025/) 👤 HTTP Archive 💬 211 🔖 #web 🗓️ 2026-01-18
     > **Резюме:** The Web Almanac is a yearly report about the state of the web. It uses real data from over 16 million websites and insights from experts. The 2025 edition has 15 chapters covering many web topics.
-- [Crypto grifters are recruiting open-source AI developers](https://seangoedecke.com/gas-and-ralph/) 👤 seangoedecke.com 💬 1061 🗓️ 2026-01-18
-    > **Резюме:** Some crypto scammers use fake coins linked to open-source AI projects to trick developers into promoting their tokens. These coins pay money to developers without adding any real value to the projects. The scammers profit by selling their coins to fans who believe they are supporting open-source work.
 - [How Ralph Wiggum went from 'The Simpsons' to the biggest name in AI right now](https://venturebeat.com/technology/how-ralph-wiggum-went-from-the-simpsons-to-the-biggest-name-in-ai-right-now?ref=ghuntley.com) 👤 Carl Franzen 💬 1539 🗓️ 2026-01-16
     > **Резюме:** The Ralph Wiggum plugin turns AI coding into a persistent loop that fixes its own mistakes until the job is done. It helps developers automate boring tasks and create working code overnight with minimal human help. While powerful and promising, users must manage costs and run it safely to avoid issues.
 - [WWDC24: Meet the Translation API | Apple](https://www.youtube.com/watch?v=MuIFhbHNmqA) 👤 Apple Developer 🔖 #macos, #swift 🗓️ 2026-01-16

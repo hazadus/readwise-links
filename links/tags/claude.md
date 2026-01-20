@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 19
 
 ## Ссылки
 
+- [Stop Bloating Your CLAUDE.md: Progressive Disclosure for AI Coding Tools](https://alexop.dev/posts/stop-bloating-your-claude-md-progressive-disclosure-ai-coding-tools/) 👤 Alexander Opalic 💬 1674 🔖 #claude 🗓️ 2026-01-19
+    > **Резюме:** Keep your CLAUDE.md file short and focused to save token space and improve AI tool performance. Store detailed lessons and gotchas in separate docs and have Claude read them only when needed. Use automated feedback and clear prompts to help AI learn and avoid repeating mistakes.
 - [How I Built a Skill That Lets Me Talk to Claude's Conversation Memory](https://alexop.dev/posts/building-conversation-search-skill-claude-code/) 👤 Alexander Opalic 💬 993 🔖 #claude 🗓️ 2026-01-18
     > **Резюме:** Alexander built a skill that lets Claude search its saved conversations to find past coding solutions. The skill uses summaries, messages, and commands to quickly recall fixes and work done. This makes Claude a helpful partner that remembers and saves time by avoiding repeated problem-solving.
 - [First impressions of Claude Cowork, Anthropic’s general agent](https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything) 👤 Simon Willison 💬 1167 🔖 #llm, #claude 🗓️ 2026-01-13

@@ -1,9 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 53
+- Всего ссылок: 57
 
 ## Ссылки
 
+- [Year in review: Limitless, Sesame, Claude Code, and more](https://paulstamatiou.com/2025-year-in-review?utm_source=substack&utm_medium=email) 👤 paulstamatiou.com 💬 8751 🔖 #joyandcuriosity 🗓️ 2026-01-19
+    > **Резюме:** In 2025, Paul Stamatiou focused on designing and building simple, high-quality AI products that feel personal and useful. He left his startup role to join Sesame as Head of Design, working closely on software and hardware. He believes great design means thoughtful product building, not just flashy visuals or shortcuts with AI.
+- [Why We Built Our Own Background Agent](https://builders.ramp.com/post/why-we-built-our-background-agent?utm_source=substack&utm_medium=email) 👤 Zach Bruggeman, Jason Quense, Rahul Sengottuvelu 💬 2798 🔖 #joyandcuriosity 🗓️ 2026-01-19
+    > **Резюме:** The team built Inspect, a background coding agent that runs tests, reviews data, and works in a sandboxed cloud environment. It supports many tools, offers multiplayer sessions, and connects with platforms like Slack for easy collaboration. Their focus is on speed, flexibility, and helping all team members contribute effectively.
+- [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering?utm_source=substack&utm_medium=email) 👤 alexharri.com 💬 6378 🔖 #joyandcuriosity 🗓️ 2026-01-19
+    > **Резюме:** ASCII characters are not simple pixels; their shapes affect how images appear when rendered as ASCII art. By using multiple sampling points and enhancing contrast, we can create sharper and clearer ASCII images. These techniques improve readability and capture the shape of characters better than traditional pixel-based methods.
+- [DHH: Why AI Isn't Writing My Code (Yet)](https://www.youtube.com/watch?v=uWqno4HM4xA) 👤 Amp, Inc. 🔖 #joyandcuriosity 🗓️ 2026-01-19
+    > **Резюме:** AI is changing software development, but it is not yet advanced enough to replace programmers. Many companies, including 37signals, have tried AI features but found they are not always better or loved by users. Despite this, AI helps lower the barrier to launching new products and can improve coding productivity over time.
 - [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes?utm_source=substack&utm_medium=email) 👤 Jason Fried 💬 725 🔖 #reflections, #joyandcuriosity 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/6947a75b-b214-8327-9837-b87b2e4258cc
     > **Резюме:** Quick reactions often stop us from truly understanding ideas. Giving an idea five minutes means thinking before judging or arguing. This helps us learn more and respect the fragile nature of new thoughts.

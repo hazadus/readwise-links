@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 883
+- Всего ссылок: 884
 
 ## Ссылки
 
+- [Hidden Gems • The Applied Go Weekly Newsletter 2026-01-18](https://newsletter.appliedgo.net/archive/2026-01-18-hidden-gems/) 👤 The Applied Go Weekly Newsletter 💬 1112 🗓️ 2026-01-19
 - [Tools by month - tools.simonwillison.net](https://tools.simonwillison.net/by-month) 👤 simonwillison.net 💬 5809 🗓️ 2026-01-13
 - [Nuxt 4 Performance Optimization: Complete Guide to Faster Apps in 2026](https://masteringnuxt.com/blog/nuxt-4-performance-optimization-complete-guide-to-faster-apps-in-2026?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 3776 🔖 #nuxt 🗓️ 2026-01-13
 - [2026 And Go 1.26 • The Applied Go Weekly Newsletter 2026-01-11](https://newsletter.appliedgo.net/archive/2026-01-11-2026-and-go-126/) 👤 The Applied Go Weekly Newsletter 💬 1035 🗓️ 2026-01-12

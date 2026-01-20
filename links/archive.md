@@ -1,9 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 1335
+- Всего ссылок: 1339
 
 ## Ссылки
 
+- [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/) 👤 Armin Ronacher 💬 2095 🔖 #llm, #llm-devimpact 🗓️ 2026-01-19
+- [everything is a ralph loop](https://ghuntley.com/loop/) 👤 Geoffrey Huntley 💬 854 🔖 #llm 🗓️ 2026-01-19
+- [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) 👤 Joel Spolsky 💬 2167 🔖 #classics, #learning 🗓️ 2026-01-18
+- [Crypto grifters are recruiting open-source AI developers](https://seangoedecke.com/gas-and-ralph/) 👤 seangoedecke.com 💬 1061 🔖 #llm, #blockchain 🗓️ 2026-01-18
 - [Do not give up your brain](https://cassidoo.co/post/good-brain/) 👤 cassidoo.co 💬 269 🔖 #llm 🗓️ 2026-01-18
 - [The Unbearable Frustration of Figuring Out APIs](https://blog.ar-ms.me/thoughts/translation-cli/?utm_source=tldrdev) 👤 ar-ms.me 💬 2351 🔖 #macos, #swift 🗓️ 2026-01-16
 - [two AI researchers are now funded by Solana](https://ghuntley.com/solana/) 👤 Geoffrey Huntley 💬 1312 🗓️ 2026-01-16
