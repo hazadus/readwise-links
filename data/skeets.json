@@ -41,7 +41,8 @@
         "01k8exqfmmfxh03jdwk2ddhtt5",
         "01kc8egvqwgrknevq5zjxb6xwb",
         "01kbkz2zzb0mx7gapdhct6xq5v",
-        "01ka9q14ymnzejgxzyjg40b9dk"
+        "01ka9q14ymnzejgxzyjg40b9dk",
+        "01ketx7azgdpfpjwermmd60vzb"
     ],
     "skeets": [
         {
@@ -295,6 +296,12 @@
             "document_title": "The Learning Loop and LLMs",
             "source_url": "https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev",
             "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3maama7dhk42a"
+        },
+        {
+            "document_id": "01ketx7azgdpfpjwermmd60vzb",
+            "document_title": "Code is a liability (not an asset)",
+            "source_url": "https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes?utm_source=tldrdev",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3mcymowov3r2c"
         }
     ]
 }
