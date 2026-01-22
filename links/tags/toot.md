@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 42
+- Всего ссылок: 43
 
 ## Ссылки
 
+- [Code is a liability (not an asset)](https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes?utm_source=tldrdev) 👤 pluralistic.net 💬 3678 🔖 #llm, #toot, #programming, #llm-devimpact 🗓️ 2026-01-13
+    > **Заметка:** "There will be plenty of work fixing the things that we broke thanks to the most dangerous AI psychosis of all – the hallucinatory belief that "writing code" is the same thing as "software engineering."
+    > **Резюме:** Code creates ongoing problems and costs, so it is a liability, not an asset. AI produces lots of code quickly, but that means it also creates many more problems. True software engineering requires careful work that AI cannot do, or the problems will grow over time.
 - [AI Can Write Your Code. It Can’t Do Your Job.](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/) 👤 Terrible Software 💬 846 🔖 #llm, #toot, #llm-devimpact, #softwarecraft 🗓️ 2025-12-12
     > **Заметка:** "The engineers who understand that programming isn’t the job, the ones who bring judgment, context, and the ability to figure out what to build, those are the ones who stay."
     > **Резюме:** AI can write code, but it can’t replace the full job of a software engineer. The real work is judgment: figuring out problems, making trade-offs, and shipping reliable products. Engineers who use AI and focus on these higher skills will thrive.

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [Image generation (experimental)](https://ollama.com/blog/image-generation) 👤 ollama.com 💬 414 🔖 #llm, #selfhost 🗓️ 2026-01-21
+    > **Заметка:** На 16 Гб ОЗУ не удалось запустить :(
+    > **Резюме:** Ollama now offers experimental image generation on macOS, with Windows and Linux coming soon. It uses powerful models like Z-Image Turbo and FLUX.2 Klein to create photorealistic and creative images from text prompts. Users can customize image size, detail, and style, and save images directly from the terminal.
 - [Qwen3-4B-Thinking: “This is art—pelicans don’t ride bikes!”](https://simonwillison.net/2025/Aug/10/qwen3-4b/#atom-everything) 👤 Simon Willison 💬 755 🔖 #llm, #try, #selfhost 🗓️ 2025-08-11
     > **Резюме:** Qwen3-4B-Thinking is a small but smart AI model that questions impossible requests like drawing a pelican riding a bike. It runs well on a MacBook and can summarize long texts, but it is slower than hosted models. Despite limitations, it shows promise for useful tasks with personality and creativity.
 - [wallabag, I choose you!](https://hamatti.org/posts/wallabag-i-choose-you/) 👤 Juha-Matti Santala 💬 798 🔖 #selfhost 🗓️ 2025-08-09

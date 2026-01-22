@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 29
+- Всего ссылок: 30
 
 ## Ссылки
 
+- [Code is a liability (not an asset)](https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes?utm_source=tldrdev) 👤 pluralistic.net 💬 3678 🔖 #llm, #toot, #programming, #llm-devimpact 🗓️ 2026-01-13
+    > **Заметка:** "There will be plenty of work fixing the things that we broke thanks to the most dangerous AI psychosis of all – the hallucinatory belief that "writing code" is the same thing as "software engineering."
+    > **Резюме:** Code creates ongoing problems and costs, so it is a liability, not an asset. AI produces lots of code quickly, but that means it also creates many more problems. True software engineering requires careful work that AI cannot do, or the problems will grow over time.
 - [ООП: худшее, что случалось с программированием [24.02.2025]](https://alexanderdanilov.dev/ru/articles/oop) 👤 Александр Данилов 💬 4864 🔖 #programming 🗓️ 2025-11-23
     > **Резюме:** Автор критикует классическое ООП, называя его источником многих проблем: сложность повторного использования, баги при изменяемых данных и ненужная инкапсуляция. Функциональный подход, по его мнению, проще, безопаснее и лучше подходит для сериализуемых данных. Вывод: избегайте сложных ООП-паттернов и пишите простой функциональный код.
 - [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html?utm_source=tldrwebdev) 👤 Unmesh Joshi 💬 1690 🔖 #llm, #toot, #learning, #programming, #llm-devimpact 🗓️ 2025-11-17

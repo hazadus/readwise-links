@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [I'm addicted to being useful](https://seangoedecke.com/addicted-to-being-useful/) 👤 seangoedecke.com 💬 865 🔖 #reflections 🗓️ 2026-01-21
+    > **Резюме:** The author loves being useful and solving problems as a software engineer, even when the job is hard. Like a character in a story, this need to help fits their personality and drives their work. They believe many engineers share this inner urge, which shapes how they work and find satisfaction.
 - [Finding Flow: Escaping Digital Distractions Through Deep Work and Slow Living](https://www.ssp.sh/blog/finding-flow/) 👤 Simon Späti 💬 2487 🔖 #reflections 🗓️ 2025-12-25
     > **Резюме:** The author urges escaping digital distractions by practicing deep work and slow living.  
 He recommends shaping environments, routines, and breaks (walks, music, notebooks) to reach flow.  

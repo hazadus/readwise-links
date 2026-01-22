@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 108
+- Всего ссылок: 104
 
 ## Ссылки
 
@@ -20,14 +20,10 @@
     > **Резюме:** Alexander built a skill that lets Claude search its saved conversations to find past coding solutions. The skill uses summaries, messages, and commands to quickly recall fixes and work done. This makes Claude a helpful partner that remembers and saves time by avoiding repeated problem-solving.
 - [Web Almanac](https://almanac.httparchive.org/en/2025/) 👤 HTTP Archive 💬 211 🔖 #web 🗓️ 2026-01-18
     > **Резюме:** The Web Almanac is a yearly report about the state of the web. It uses real data from over 16 million websites and insights from experts. The 2025 edition has 15 chapters covering many web topics.
-- [How Ralph Wiggum went from 'The Simpsons' to the biggest name in AI right now](https://venturebeat.com/technology/how-ralph-wiggum-went-from-the-simpsons-to-the-biggest-name-in-ai-right-now?ref=ghuntley.com) 👤 Carl Franzen 💬 1539 🗓️ 2026-01-16
-    > **Резюме:** The Ralph Wiggum plugin turns AI coding into a persistent loop that fixes its own mistakes until the job is done. It helps developers automate boring tasks and create working code overnight with minimal human help. While powerful and promising, users must manage costs and run it safely to avoid issues.
 - [WWDC24: Meet the Translation API | Apple](https://www.youtube.com/watch?v=MuIFhbHNmqA) 👤 Apple Developer 🔖 #macos, #swift 🗓️ 2026-01-16
     > **Резюме:** Apple's new Translation API helps apps translate text easily using machine learning. Developers can add simple translation overlays or use flexible tools for more control. This feature works system-wide and supports many languages, improving how users understand content in different languages.
 - [LLMs are a 400-year-long confidence trick](https://tomrenner.com/posts/400-year-confidence-trick/?utm_source=tldrdev) 👤 Tom Renner 💬 1359 🔖 #llm 🗓️ 2026-01-16
     > **Резюме:** People have trusted machines for 400 years to do hard work accurately. Large language models (LLMs) use fear and flattery to make us rely on them quickly. But these tools are not truly intelligent—they are a costly trick that often fails to deliver on promises.
-- [we rolled our own documentation site](https://blog.tangled.org/docs) 👤 tangled.org 💬 836 🔖 #docs 🗓️ 2026-01-16
-    > **Резюме:** The author created a simple documentation site using pandoc to avoid complex tools and JavaScript. They combined markdown files into one and styled the site to match their main page, enabling easy searching and navigation. The site is built and deployed with nix and colmena, keeping the process straightforward and customizable.
 - [Yeah, About Your “Precise” Specification…](https://codemanship.wordpress.com/2026/01/15/yeah-about-your-precise-specification/) 👤 Codemanship's Blog 💬 2686 🗓️ 2026-01-17
     > **Резюме:** Clear and testable specifications help find mistakes and reduce confusion in software development. Using examples and tests with customers makes requirements easier to understand and verify. Unlike programming languages, LLM prompts need less ambiguity to improve accuracy but are not the same as code.
 - [AI Zealotry¶](https://matthewrocklin.com/ai-zealotry/?utm_source=tldrdev#why-ai) 👤 Matthew Rocklin 💬 2935 🔖 #llm 🗓️ 2026-01-13
@@ -40,8 +36,6 @@
     > **Резюме:** Writing regularly helps overcome doubts and improves skills over time. Focus on topics that interest you and your audience, even if others have written about them. Use simple tools, be honest, and don’t worry about perfection or criticism.
 - [Staging is a wasteful lie: the case for the mono-environment](https://www.tomwphillips.co.uk/2026/01/staging-is-a-wasteful-lie-the-case-for-the-mono-environment/?utm_source=tldrdev) 👤 Tom Phillips 💬 2541 🔖 #devops 🗓️ 2026-01-13
     > **Резюме:** Staging environments waste time and resources because they don’t match production and delay feedback. Instead, teams should focus on one production environment with strong testing, continuous deployment, and monitoring. This approach speeds delivery, reduces risk, and better serves users.
-- [Code is a liability (not an asset) (permalink)](https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes?utm_source=tldrdev) 👤 pluralistic.net 💬 3678 🗓️ 2026-01-13
-    > **Резюме:** Code creates ongoing problems and costs, so it is a liability, not an asset. AI produces lots of code quickly, but that means it also creates many more problems. True software engineering requires careful work that AI cannot do, or the problems will grow over time.
 - [Why devs need DevOps](https://ravestar.dev/blog/why-devs-need-devops/?utm_source=tldrdev) 👤 ravestar.dev 💬 2490 🔖 #devops 🗓️ 2026-01-13
     > **Резюме:** DevOps is more than tools; it's a way of thinking that keeps value flowing from idea to users. Developers should use the Three Ways—Flow, Feedback, and Continuous Experimentation—to find and fix bottlenecks early. Systemized knowledge sharing and built-in feedback make teams faster, safer, and less prone to costly rewrites.
 - [Building Staff Engineer-Level Knowledge with AI](https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai) 👤 Dave Griffith 💬 2515 🔖 #llm 🗓️ 2026-01-12
@@ -108,8 +102,6 @@ The code includes a simple debounce(ms, fn) that ensures a function runs at most
     > **Резюме:** This guide shows patterns for building robust Vue 3 composables used in production.  
 Key ideas: flexible inputs (MaybeRefOrGetter), shallowRef for primitives, SSR safety, auto-cleanup, and pausable/stoppable patterns.  
 It also covers TypeScript typing, testing tips, and ready-to-use templates.
-- [The Anatomy of a macOS App](https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/?utm_source=tldrdev) 👤 The Eclectic Light Company 💬 739 🔖 #macos 🗓️ 2025-12-12
-    > **Резюме:** macOS apps are self-contained bundles (.app) with a Contents folder holding executables, resources, and metadata like Info.plist. Apple added code signing, notarization, and receipts to protect and verify bundle contents. Bundles simplify installation, updates, removal, and improve security.
 - [Django Third-party App Ecosystem](https://frankwiles.com/posts/django-third-party-apps/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 frankwiles.com 💬 762 🔖 #django 🗓️ 2025-12-12
     > **Резюме:** Django has many useful third-party apps that can save you lots of time. Many developers—new and experienced—don’t know where to find them. The Django Steering Council made an Ecosystem Page and urges you to check it, follow a newsletter/podcast, and spend regular time exploring.
 - [Hexagonal Architecture for absolute beginners.](https://sushantdhiman.substack.com/p/hexagonal-architecture-for-absolute?utm_source=post-email-title&publication_id=3501228&post_id=180310942&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) 👤 Sushant Dhiman 💬 896 🔖 #architecture 🗓️ 2025-11-30

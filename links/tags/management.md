@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 44
+- Всего ссылок: 45
 
 ## Ссылки
 
+- [Who does what and how to support them](https://newsletter.manager.dev/p/who-does-what-and-how-to-support) 👤 Anton Zaides 💬 1044 🔖 #management 🗓️ 2026-01-21
+    > **Заметка:** "Карта знаний" команды – интересная фишка.
+    > **Резюме:** Engineering managers must balance what the company needs, what engineers want, and what the team requires. This balance involves assigning tasks by efficiency, growth opportunities, and team flexibility. Supporting engineers depends on their experience with specific tasks, not just their seniority.
 - [Coding at work (after a decade away).](https://lethain.com/coding-at-work/) 👤 lethain.com 💬 1526 🔖 #llm, #management, #development 🗓️ 2025-11-19
     > **Резюме:** After a decade away from hands-on coding, the author returned to writing small, useful pull requests as a manager and completed 104 in six months. New AI coding tools and better judgment about which problems to pick made it possible to do meaningful work in short time blocks. Manager coding can help if you pick high-value, non-urgent tasks and fully own their release and maintenance.
 - [Shadow work in engineering teams](https://newsletter.manager.dev/p/the-shadow-work-in-engineering-teams) 👤 Anton Zaides 💬 1432 🔖 #management 🗓️ 2025-11-18

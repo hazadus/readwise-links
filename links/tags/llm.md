@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 344
+- Всего ссылок: 348
 
 ## Ссылки
 
+- ['AI' is a dick move, redux](https://www.baldurbjarnason.com/notes/2026/note-on-debating-llm-fans/) 👤 baldurbjarnason.com 💬 681 🔖 #llm 🗓️ 2026-01-21
+    > **Резюме:** The author argues that debating AI supporters is useless because they ignore serious harms caused by AI. AI is seen as damaging software quality, labor, education, and public systems. The trend is worsening quickly and defending it is unfair and harmful.
+- [Image generation (experimental)](https://ollama.com/blog/image-generation) 👤 ollama.com 💬 414 🔖 #llm, #selfhost 🗓️ 2026-01-21
+    > **Заметка:** На 16 Гб ОЗУ не удалось запустить :(
+    > **Резюме:** Ollama now offers experimental image generation on macOS, with Windows and Linux coming soon. It uses powerful models like Z-Image Turbo and FLUX.2 Klein to create photorealistic and creative images from text prompts. Users can customize image size, detail, and style, and save images directly from the terminal.
 - [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/) 👤 Armin Ronacher 💬 2095 🔖 #llm, #llm-devimpact 🗓️ 2026-01-19
     > **Резюме:** Many people are becoming addicted to using AI agents for coding, which can lead to poor quality work and unrealistic expectations. This causes frustration for maintainers who must spend much more time reviewing AI-generated contributions. While AI tools are powerful, we need better ways to manage and understand their use to avoid chaos and maintain quality.
 - [everything is a ralph loop](https://ghuntley.com/loop/) 👤 Geoffrey Huntley 💬 854 🔖 #llm 🗓️ 2026-01-19
@@ -12,6 +17,8 @@
     > **Резюме:** Some crypto scammers use fake coins linked to open-source AI projects to trick developers into promoting their tokens. These coins pay money to developers without adding any real value to the projects. The scammers profit by selling their coins to fans who believe they are supporting open-source work.
 - [Do not give up your brain](https://cassidoo.co/post/good-brain/) 👤 cassidoo.co 💬 269 🔖 #llm 🗓️ 2026-01-18
     > **Резюме:** AI can be a helpful tool, but don't rely on it to do all your thinking. Using your own brain keeps you sharp and confident. If you depend too much on AI, you might lose important skills and control.
+- [How Ralph Wiggum went from 'The Simpsons' to the biggest name in AI right now](https://venturebeat.com/technology/how-ralph-wiggum-went-from-the-simpsons-to-the-biggest-name-in-ai-right-now?ref=ghuntley.com) 👤 Carl Franzen 💬 1539 🔖 #llm 🗓️ 2026-01-16
+    > **Резюме:** The Ralph Wiggum plugin turns AI coding into a persistent loop that fixes its own mistakes until the job is done. It helps developers automate boring tasks and create working code overnight with minimal human help. While powerful and promising, users must manage costs and run it safely to avoid issues.
 - [LLMs are a 400-year-long confidence trick](https://tomrenner.com/posts/400-year-confidence-trick/?utm_source=tldrdev) 👤 Tom Renner 💬 1359 🔖 #llm 🗓️ 2026-01-16
     > **Резюме:** People have trusted machines for 400 years to do hard work accurately. Large language models (LLMs) use fear and flattery to make us rely on them quickly. But these tools are not truly intelligent—they are a costly trick that often fails to deliver on promises.
 - [Leveraging AI as an infinitely patient teacher](https://www.chrisgregori.dev/opinion/leveraging-ai-as-an-infinitely-patient-teacher) 👤 chrisgregori.dev 💬 1165 🔖 #llm, #elixir, #learning 🗓️ 2026-01-15
@@ -26,6 +33,9 @@
     > **Резюме:** AI helps experienced developers work faster and think at higher levels of abstraction. Trust in AI-generated code grows with strong testing and automated feedback. Programming with AI is an evolution like compilers, making coding more fun and productive despite some trade-offs.
 - [Code Is Cheap Now. Software Isn’t.](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt?utm_source=tldrdev) 👤 chrisgregori.dev 💬 1933 🔖 #llm 🗓️ 2026-01-13
     > **Резюме:** Coding is easier and faster now thanks to AI, but building lasting, reliable software is still hard and needs skilled engineers. People are making personal, disposable tools to solve specific problems quickly instead of traditional long-term apps. Success depends more on understanding users and good judgment than just writing code.
+- [Code is a liability (not an asset)](https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes?utm_source=tldrdev) 👤 pluralistic.net 💬 3678 🔖 #llm, #toot, #programming, #llm-devimpact 🗓️ 2026-01-13
+    > **Заметка:** "There will be plenty of work fixing the things that we broke thanks to the most dangerous AI psychosis of all – the hallucinatory belief that "writing code" is the same thing as "software engineering."
+    > **Резюме:** Code creates ongoing problems and costs, so it is a liability, not an asset. AI produces lots of code quickly, but that means it also creates many more problems. True software engineering requires careful work that AI cannot do, or the problems will grow over time.
 - [Building Staff Engineer-Level Knowledge with AI](https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai) 👤 Dave Griffith 💬 2515 🔖 #llm 🗓️ 2026-01-12
     > **Резюме:** To become a staff engineer, you must build deep expertise in technology, codebases, and business using AI as a learning tool, not a crutch. AI can speed up learning and understanding, but true mastery means internalizing knowledge without relying on AI all the time. Managing and showing your expertise is key to advancing your career and making a real impact.
 - [My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/#atom-everything) 👤 Simon Willison 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12

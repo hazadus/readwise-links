@@ -1,15 +1,23 @@
 # Архивные ссылки
 
-- Всего ссылок: 1339
+- Всего ссылок: 1347
 
 ## Ссылки
 
+- ['AI' is a dick move, redux](https://www.baldurbjarnason.com/notes/2026/note-on-debating-llm-fans/) 👤 baldurbjarnason.com 💬 681 🔖 #llm 🗓️ 2026-01-21
+- [Who does what and how to support them](https://newsletter.manager.dev/p/who-does-what-and-how-to-support) 👤 Anton Zaides 💬 1044 🔖 #management 🗓️ 2026-01-21
+    > **Заметка:** "Карта знаний" команды – интересная фишка.
+- [Image generation (experimental)](https://ollama.com/blog/image-generation) 👤 ollama.com 💬 414 🔖 #llm, #selfhost 🗓️ 2026-01-21
+    > **Заметка:** На 16 Гб ОЗУ не удалось запустить :(
+- [I'm addicted to being useful](https://seangoedecke.com/addicted-to-being-useful/) 👤 seangoedecke.com 💬 865 🔖 #reflections 🗓️ 2026-01-21
 - [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/) 👤 Armin Ronacher 💬 2095 🔖 #llm, #llm-devimpact 🗓️ 2026-01-19
 - [everything is a ralph loop](https://ghuntley.com/loop/) 👤 Geoffrey Huntley 💬 854 🔖 #llm 🗓️ 2026-01-19
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) 👤 Joel Spolsky 💬 2167 🔖 #classics, #learning 🗓️ 2026-01-18
 - [Crypto grifters are recruiting open-source AI developers](https://seangoedecke.com/gas-and-ralph/) 👤 seangoedecke.com 💬 1061 🔖 #llm, #blockchain 🗓️ 2026-01-18
 - [Do not give up your brain](https://cassidoo.co/post/good-brain/) 👤 cassidoo.co 💬 269 🔖 #llm 🗓️ 2026-01-18
+- [How Ralph Wiggum went from 'The Simpsons' to the biggest name in AI right now](https://venturebeat.com/technology/how-ralph-wiggum-went-from-the-simpsons-to-the-biggest-name-in-ai-right-now?ref=ghuntley.com) 👤 Carl Franzen 💬 1539 🔖 #llm 🗓️ 2026-01-16
 - [The Unbearable Frustration of Figuring Out APIs](https://blog.ar-ms.me/thoughts/translation-cli/?utm_source=tldrdev) 👤 ar-ms.me 💬 2351 🔖 #macos, #swift 🗓️ 2026-01-16
+- [we rolled our own documentation site](https://blog.tangled.org/docs) 👤 tangled.org 💬 836 🔖 #docs 🗓️ 2026-01-16
 - [two AI researchers are now funded by Solana](https://ghuntley.com/solana/) 👤 Geoffrey Huntley 💬 1312 🗓️ 2026-01-16
 - [Leveraging AI as an infinitely patient teacher](https://www.chrisgregori.dev/opinion/leveraging-ai-as-an-infinitely-patient-teacher) 👤 chrisgregori.dev 💬 1165 🔖 #llm, #elixir, #learning 🗓️ 2026-01-15
 - [How the hell are you supposed to have a career in tech in 2026?](https://www.anildash.com/2026/01/05/a-tech-career-in-2026/?utm_source=tldrdev) 👤 Anil Dash 💬 2530 🔖 #career, #llm-devimpact 🗓️ 2026-01-15
@@ -20,6 +28,8 @@
 - [The Great Filter (Or Why High Performance Still Eludes Most Dev Teams, Even With AI)](https://codemanship.wordpress.com/2026/01/12/the-great-filter-or-why-high-performance-still-eludes-most-dev-teams-even-with-ai/) 👤 Codemanship's Blog 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-13
 - [Code is Clay](https://campedersen.com/code-is-clay) 👤 campedersen.com 💬 497 🗓️ 2026-01-13
 - [Code Is Cheap Now. Software Isn’t.](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt?utm_source=tldrdev) 👤 chrisgregori.dev 💬 1933 🔖 #llm 🗓️ 2026-01-13
+- [Code is a liability (not an asset)](https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes?utm_source=tldrdev) 👤 pluralistic.net 💬 3678 🔖 #llm, #toot, #programming, #llm-devimpact 🗓️ 2026-01-13
+    > **Заметка:** "There will be plenty of work fixing the things that we broke thanks to the most dangerous AI psychosis of all – the hallucinatory belief that "writing code" is the same thing as "software engineering."
 - [My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/#atom-everything) 👤 Simon Willison 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
 - [Don't fall into the anti-AI hype](http://antirez.com/news/158) 👤 antirez.com 💬 1262 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
 - [Life Happens at 1x Speed](https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/) 👤 Terrible Software 💬 687 🗓️ 2026-01-12
@@ -75,6 +85,7 @@ https://chatgpt.com/c/6944406d-4640-832a-b0c4-9df0c3a7cf6d
 - [The Bet On Juniors Just Got Better](https://tidyfirst.substack.com/p/the-bet-on-juniors-just-got-better) 👤 Kent Beck 💬 1012 🔖 #llm, #llm-devimpact 🗓️ 2025-12-16
 - [Justified](https://www.bitecode.dev/p/justified) 👤 Bite Code! 💬 2039 🔖 #devtools 🗓️ 2025-12-15
 - [Vibe coding is boring](https://cassidoo.co/post/vibe-coding-yawn/) 👤 cassidoo.co 💬 460 🔖 #llm 🗓️ 2025-12-15
+- [The Anatomy of a macOS App](https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/?utm_source=tldrdev) 👤 The Eclectic Light Company 💬 739 🔖 #macos 🗓️ 2025-12-12
 - [21 Lessons from 14 Years at Google](https://addyo.substack.com/p/21-lessons-from-14-years-at-google?utm_source=tldrdev&triedRedirect=true) 👤 Addy Osmani 💬 2334 🔖 #career, #softwarecraft 🗓️ 2025-12-12
 - [Build self-hosted AI Agent with Ollama, Pydantic AI and Django Ninja](https://scribe.rip/@tom.mart/build-self-hosted-ai-agent-with-ollama-pydantic-ai-and-django-ninja-53c6b3f14a1d?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 scribe.rip 💬 2105 🔖 #try, #agents, #django, #pydantic 🗓️ 2025-12-12
 - [A first look at Django's new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 Roam 💬 2650 🔖 #django 🗓️ 2025-12-12
