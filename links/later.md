@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 104
+- Всего ссылок: 102
 
 ## Ссылки
 
@@ -14,19 +14,15 @@
     > **Резюме:** The team built Inspect, a background coding agent that runs tests, reviews data, and works in a sandboxed cloud environment. It supports many tools, offers multiplayer sessions, and connects with platforms like Slack for easy collaboration. Their focus is on speed, flexibility, and helping all team members contribute effectively.
 - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering?utm_source=substack&utm_medium=email) 👤 alexharri.com 💬 6378 🔖 #joyandcuriosity 🗓️ 2026-01-19
     > **Резюме:** ASCII characters are not simple pixels; their shapes affect how images appear when rendered as ASCII art. By using multiple sampling points and enhancing contrast, we can create sharper and clearer ASCII images. These techniques improve readability and capture the shape of characters better than traditional pixel-based methods.
-- [DHH: Why AI Isn't Writing My Code (Yet)](https://www.youtube.com/watch?v=uWqno4HM4xA) 👤 Amp, Inc. 🔖 #joyandcuriosity 🗓️ 2026-01-19
-    > **Резюме:** AI is changing software development, but it is not yet advanced enough to replace programmers. Many companies, including 37signals, have tried AI features but found they are not always better or loved by users. Despite this, AI helps lower the barrier to launching new products and can improve coding productivity over time.
 - [How I Built a Skill That Lets Me Talk to Claude's Conversation Memory](https://alexop.dev/posts/building-conversation-search-skill-claude-code/) 👤 Alexander Opalic 💬 993 🔖 #claude 🗓️ 2026-01-18
     > **Резюме:** Alexander built a skill that lets Claude search its saved conversations to find past coding solutions. The skill uses summaries, messages, and commands to quickly recall fixes and work done. This makes Claude a helpful partner that remembers and saves time by avoiding repeated problem-solving.
 - [Web Almanac](https://almanac.httparchive.org/en/2025/) 👤 HTTP Archive 💬 211 🔖 #web 🗓️ 2026-01-18
     > **Резюме:** The Web Almanac is a yearly report about the state of the web. It uses real data from over 16 million websites and insights from experts. The 2025 edition has 15 chapters covering many web topics.
 - [WWDC24: Meet the Translation API | Apple](https://www.youtube.com/watch?v=MuIFhbHNmqA) 👤 Apple Developer 🔖 #macos, #swift 🗓️ 2026-01-16
     > **Резюме:** Apple's new Translation API helps apps translate text easily using machine learning. Developers can add simple translation overlays or use flexible tools for more control. This feature works system-wide and supports many languages, improving how users understand content in different languages.
-- [LLMs are a 400-year-long confidence trick](https://tomrenner.com/posts/400-year-confidence-trick/?utm_source=tldrdev) 👤 Tom Renner 💬 1359 🔖 #llm 🗓️ 2026-01-16
-    > **Резюме:** People have trusted machines for 400 years to do hard work accurately. Large language models (LLMs) use fear and flattery to make us rely on them quickly. But these tools are not truly intelligent—they are a costly trick that often fails to deliver on promises.
 - [Yeah, About Your “Precise” Specification…](https://codemanship.wordpress.com/2026/01/15/yeah-about-your-precise-specification/) 👤 Codemanship's Blog 💬 2686 🗓️ 2026-01-17
     > **Резюме:** Clear and testable specifications help find mistakes and reduce confusion in software development. Using examples and tests with customers makes requirements easier to understand and verify. Unlike programming languages, LLM prompts need less ambiguity to improve accuracy but are not the same as code.
-- [AI Zealotry¶](https://matthewrocklin.com/ai-zealotry/?utm_source=tldrdev#why-ai) 👤 Matthew Rocklin 💬 2935 🔖 #llm 🗓️ 2026-01-13
+- [AI Zealotry](https://matthewrocklin.com/ai-zealotry/?utm_source=tldrdev#why-ai) 👤 Matthew Rocklin 💬 2935 🔖 #llm, #claude 🗓️ 2026-01-13
     > **Резюме:** AI helps experienced developers work faster and think at higher levels of abstraction. Trust in AI-generated code grows with strong testing and automated feedback. Programming with AI is an evolution like compilers, making coding more fun and productive despite some trade-offs.
 - [How Markdown took over the world](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/?utm_source=tldrdev) 👤 Anil Dash 💬 4535 🔖 #markdown 🗓️ 2026-01-13
     > **Резюме:** Markdown started as a simple way to make writing on the internet easier without needing complicated code. Many people liked it and began using it everywhere, from blogs to apps like Microsoft Notepad and Apple Notes. Its success shows how open, easy ideas can grow big and change how we share information online.

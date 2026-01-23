@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1347
+- Всего ссылок: 1351
 
 ## Ссылки
 
+- [Pluralistic: Google's AI pricing plan (21 Jan 2026)](https://pluralistic.net/2026/01/21/cod-marxism/) 👤 pluralistic.net 💬 2719 🗓️ 2026-01-22
+- [Finally! Proof That Agentic AI Scales (For Creating Broken Software)](https://codemanship.wordpress.com/2026/01/21/finally-proof-that-agentic-ai-scales-for-creating-broken-software/) 👤 Codemanship's Blog 💬 804 🔖 #llm 🗓️ 2026-01-22
 - ['AI' is a dick move, redux](https://www.baldurbjarnason.com/notes/2026/note-on-debating-llm-fans/) 👤 baldurbjarnason.com 💬 681 🔖 #llm 🗓️ 2026-01-21
 - [Who does what and how to support them](https://newsletter.manager.dev/p/who-does-what-and-how-to-support) 👤 Anton Zaides 💬 1044 🔖 #management 🗓️ 2026-01-21
     > **Заметка:** "Карта знаний" команды – интересная фишка.
@@ -12,10 +14,12 @@
 - [I'm addicted to being useful](https://seangoedecke.com/addicted-to-being-useful/) 👤 seangoedecke.com 💬 865 🔖 #reflections 🗓️ 2026-01-21
 - [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/) 👤 Armin Ronacher 💬 2095 🔖 #llm, #llm-devimpact 🗓️ 2026-01-19
 - [everything is a ralph loop](https://ghuntley.com/loop/) 👤 Geoffrey Huntley 💬 854 🔖 #llm 🗓️ 2026-01-19
+- [DHH: Why AI Isn't Writing My Code (Yet)](https://www.youtube.com/watch?v=uWqno4HM4xA) 👤 Amp, Inc. 🔖 #joyandcuriosity 🗓️ 2026-01-19
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) 👤 Joel Spolsky 💬 2167 🔖 #classics, #learning 🗓️ 2026-01-18
 - [Crypto grifters are recruiting open-source AI developers](https://seangoedecke.com/gas-and-ralph/) 👤 seangoedecke.com 💬 1061 🔖 #llm, #blockchain 🗓️ 2026-01-18
 - [Do not give up your brain](https://cassidoo.co/post/good-brain/) 👤 cassidoo.co 💬 269 🔖 #llm 🗓️ 2026-01-18
 - [How Ralph Wiggum went from 'The Simpsons' to the biggest name in AI right now](https://venturebeat.com/technology/how-ralph-wiggum-went-from-the-simpsons-to-the-biggest-name-in-ai-right-now?ref=ghuntley.com) 👤 Carl Franzen 💬 1539 🔖 #llm 🗓️ 2026-01-16
+- [LLMs are a 400-year-long confidence trick](https://tomrenner.com/posts/400-year-confidence-trick/?utm_source=tldrdev) 👤 Tom Renner 💬 1359 🔖 #llm 🗓️ 2026-01-16
 - [The Unbearable Frustration of Figuring Out APIs](https://blog.ar-ms.me/thoughts/translation-cli/?utm_source=tldrdev) 👤 ar-ms.me 💬 2351 🔖 #macos, #swift 🗓️ 2026-01-16
 - [we rolled our own documentation site](https://blog.tangled.org/docs) 👤 tangled.org 💬 836 🔖 #docs 🗓️ 2026-01-16
 - [two AI researchers are now funded by Solana](https://ghuntley.com/solana/) 👤 Geoffrey Huntley 💬 1312 🗓️ 2026-01-16
