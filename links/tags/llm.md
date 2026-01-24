@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 349
+- Всего ссылок: 353
 
 ## Ссылки
 
+- [Why You Don't Need the Nuxt MCP When You Use Claude Code](https://alexop.dev/posts/why-you-dont-need-nuxt-mcp-claude-code/) 👤 Alexander Opalic 💬 1447 🔖 #llm, #try, #nuxt, #agents, #claude 🗓️ 2026-01-23
+    > **Резюме:** Nuxt’s MCP server causes context bloat when used with AI, so the author prefers custom research agents that fetch up-to-date docs via llms.txt. These agents keep the main AI context clean by handling specific tasks separately and only loading minimal needed info. This method, used by Claude Code and the author’s Nuxt Content specialist agent, reduces token use while providing accurate, current guidance.
+- [Learn: Analyze Conversation for Documentation](https://alexop.dev/prompts/claude/claude-learn-command/) 👤 Alexander Opalic 💬 282 🔖 #llm, #claude, #agentskills 🗓️ 2026-01-23
+    > **Резюме:** Analyzes conversation for insights worth preserving and saves them to the project's documentation
 - [Finally! Proof That Agentic AI Scales (For Creating Broken Software)](https://codemanship.wordpress.com/2026/01/21/finally-proof-that-agentic-ai-scales-for-creating-broken-software/) 👤 Codemanship's Blog 💬 804 🔖 #llm 🗓️ 2026-01-22
     > **Резюме:** A recent claim says 100 AI agents made a 3 million-line web browser in a week. But the software mostly broke, with an 88% failure rate and many build problems. This shows AI can create lots of code fast, but not reliable, working software at scale.
 - ['AI' is a dick move, redux](https://www.baldurbjarnason.com/notes/2026/note-on-debating-llm-fans/) 👤 baldurbjarnason.com 💬 681 🔖 #llm 🗓️ 2026-01-21
@@ -11,10 +15,14 @@
 - [Image generation (experimental)](https://ollama.com/blog/image-generation) 👤 ollama.com 💬 414 🔖 #llm, #selfhost 🗓️ 2026-01-21
     > **Заметка:** На 16 Гб ОЗУ не удалось запустить :(
     > **Резюме:** Ollama now offers experimental image generation on macOS, with Windows and Linux coming soon. It uses powerful models like Z-Image Turbo and FLUX.2 Klein to create photorealistic and creative images from text prompts. Users can customize image size, detail, and style, and save images directly from the terminal.
+- [Stop Bloating Your CLAUDE.md: Progressive Disclosure for AI Coding Tools](https://alexop.dev/posts/stop-bloating-your-claude-md-progressive-disclosure-ai-coding-tools/) 👤 Alexander Opalic 💬 1674 🔖 #llm, #claude, #agentskills 🗓️ 2026-01-19
+    > **Резюме:** Keep your CLAUDE.md file short and focused to save token space and improve AI tool performance. Store detailed lessons and gotchas in separate docs and have Claude read them only when needed. Use automated feedback and clear prompts to help AI learn and avoid repeating mistakes.
 - [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/) 👤 Armin Ronacher 💬 2095 🔖 #llm, #llm-devimpact 🗓️ 2026-01-19
     > **Резюме:** Many people are becoming addicted to using AI agents for coding, which can lead to poor quality work and unrealistic expectations. This causes frustration for maintainers who must spend much more time reviewing AI-generated contributions. While AI tools are powerful, we need better ways to manage and understand their use to avoid chaos and maintain quality.
 - [everything is a ralph loop](https://ghuntley.com/loop/) 👤 Geoffrey Huntley 💬 854 🔖 #llm 🗓️ 2026-01-19
     > **Резюме:** Geoffrey Huntley explains that modern software development is no longer about building step-by-step but about creating autonomous loops that program and improve themselves. He calls this new approach "Ralph loops," where software acts like a self-evolving system rather than separate microservices. He urges engineers to learn this mindset and build their own coding agents to stay relevant in the future.
+- [Building an AI Interface for Your Second Brain](https://alexop.dev/posts/building-ai-interface-second-brain/) 👤 Alexander Opalic 💬 3269 🔖 #llm, #pkm, #try, #nuxt, #agents 🗓️ 2026-01-19
+    > **Резюме:** This guide shows how to build an AI system where Claude searches and reads your notes to answer questions using only your personal knowledge. Claude uses tools to find, read, and connect notes, avoiding overwhelming prompts by fetching information as needed. This agentic loop helps you access and explore your Second Brain efficiently.
 - [Crypto grifters are recruiting open-source AI developers](https://seangoedecke.com/gas-and-ralph/) 👤 seangoedecke.com 💬 1061 🔖 #llm, #blockchain 🗓️ 2026-01-18
     > **Резюме:** Some crypto scammers use fake coins linked to open-source AI projects to trick developers into promoting their tokens. These coins pay money to developers without adding any real value to the projects. The scammers profit by selling their coins to fans who believe they are supporting open-source work.
 - [Do not give up your brain](https://cassidoo.co/post/good-brain/) 👤 cassidoo.co 💬 269 🔖 #llm 🗓️ 2026-01-18

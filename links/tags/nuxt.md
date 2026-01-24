@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 53
+- Всего ссылок: 55
 
 ## Ссылки
 
+- [Why You Don't Need the Nuxt MCP When You Use Claude Code](https://alexop.dev/posts/why-you-dont-need-nuxt-mcp-claude-code/) 👤 Alexander Opalic 💬 1447 🔖 #llm, #try, #nuxt, #agents, #claude 🗓️ 2026-01-23
+    > **Резюме:** Nuxt’s MCP server causes context bloat when used with AI, so the author prefers custom research agents that fetch up-to-date docs via llms.txt. These agents keep the main AI context clean by handling specific tasks separately and only loading minimal needed info. This method, used by Claude Code and the author’s Nuxt Content specialist agent, reduces token use while providing accurate, current guidance.
+- [Building an AI Interface for Your Second Brain](https://alexop.dev/posts/building-ai-interface-second-brain/) 👤 Alexander Opalic 💬 3269 🔖 #llm, #pkm, #try, #nuxt, #agents 🗓️ 2026-01-19
+    > **Резюме:** This guide shows how to build an AI system where Claude searches and reads your notes to answer questions using only your personal knowledge. Claude uses tools to find, read, and connect notes, avoiding overwhelming prompts by fetching information as needed. This agentic loop helps you access and explore your Second Brain efficiently.
 - [Nuxt 4 Performance Optimization: Complete Guide to Faster Apps in 2026](https://masteringnuxt.com/blog/nuxt-4-performance-optimization-complete-guide-to-faster-apps-in-2026?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 3776 🔖 #nuxt 🗓️ 2026-01-13
     > **Резюме:** Nuxt 4 improves app speed with smart rendering, caching, and image optimization. Use lazy loading and route-specific cache rules to make pages load faster. These simple steps help build fast, smooth Nuxt apps users enjoy.
 - [Validating API Routes in Nuxt 4 with Zod](https://humanonlyweb.com/blog/validating-api-routes-in-nuxt-with-zod) 👤 HumanOnlyWeb 💬 913 🔖 #zod, #nuxt 🗓️ 2025-12-23

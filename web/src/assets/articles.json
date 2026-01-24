@@ -1,5 +1,171 @@
 [
     {
+        "id": "01kfny36fhdd7kj8q69gbqjmdb",
+        "url": "https://read.readwise.io/read/01kfny36fhdd7kj8q69gbqjmdb",
+        "source_url": "https://terriblesoftware.org/2026/01/22/why-i-still-write-code-as-an-engineering-manager/",
+        "title": "Why I Still Write Code as an Engineering Manager",
+        "author": "Terrible Software",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "later",
+        "tags": {},
+        "site_name": "Terrible Software",
+        "word_count": 623,
+        "notes": "",
+        "summary": "The author writes code sometimes to stay connected with the team and understand their work. Coding helps the manager show good practices and earn the team's respect. This keeps decisions realistic and strengthens the manager’s connection to the work and people.",
+        "image_url": "https://terriblesoftware.org/wp-content/uploads/2026/01/chjpdmf0zs9sci9pbwfnzxmvd2vic2l0zs8ymdiylta1l2lzmtk3odutaw1hz2uta3d2d3m4mxyuanbn.webp",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2026-01-22",
+        "created_at": "2026-01-23T17:23:09.663138+00:00",
+        "updated_at": "2026-01-23T17:23:25.027066+00:00",
+        "saved_at": "2026-01-23T17:23:09.425000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2026-01-23T17:23:25.014000+00:00"
+    },
+    {
+        "id": "01kfnw6fehwf90k7zx6bsgt81s",
+        "url": "https://read.readwise.io/read/01kfnw6fehwf90k7zx6bsgt81s",
+        "source_url": "https://www.youtube.com/watch?v=9qwCc0FgPRg",
+        "title": "Django & HTMX - with Server-Sent Events (SSE)!",
+        "author": "BugBytes",
+        "source": "Reader Share Sheet iOS",
+        "category": "video",
+        "location": "new",
+        "tags": {
+            "sse": {
+                "name": "SSE",
+                "type": "manual",
+                "created": 1769187016656
+            },
+            "htmx": {
+                "name": "HTMX",
+                "type": "manual",
+                "created": 1769187016656
+            },
+            "django": {
+                "name": "Django",
+                "type": "manual",
+                "created": 1769187016656
+            }
+        },
+        "site_name": "YouTube",
+        "word_count": null,
+        "notes": "",
+        "summary": "This video shows how to use Server-Sent Events (SSE) with Django and HTMX to update web pages automatically. It explains how to stream live data, like stock prices, from the server without refreshing the page. The tutorial includes code examples and tips for handling HTML updates using HTMX's SSE extension.",
+        "image_url": "https://i.ytimg.com/vi/9qwCc0FgPRg/maxresdefault.jpg",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2026-01-22",
+        "created_at": "2026-01-23T16:49:59.798032+00:00",
+        "updated_at": "2026-01-23T16:51:49.484627+00:00",
+        "saved_at": "2026-01-23T16:49:59.761000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2026-01-23T16:49:59.761000+00:00"
+    },
+    {
+        "id": "01kfn6zjn6d994ma3q0wzma04r",
+        "url": "https://read.readwise.io/read/01kfn6zjn6d994ma3q0wzma04r",
+        "source_url": "https://alexop.dev/posts/why-you-dont-need-nuxt-mcp-claude-code/",
+        "title": "Why You Don't Need the Nuxt MCP When You Use Claude Code",
+        "author": "Alexander Opalic",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "archive",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1769164762348
+            },
+            "try": {
+                "name": "Try",
+                "type": "manual",
+                "created": 1769191841781
+            },
+            "nuxt": {
+                "name": "Nuxt",
+                "type": "manual",
+                "created": 1769164768180
+            },
+            "agents": {
+                "name": "Agents",
+                "type": "manual",
+                "created": 1769191844605
+            },
+            "claude": {
+                "name": "Claude",
+                "type": "manual",
+                "created": 1769164765362
+            }
+        },
+        "site_name": "Alexander Opalic",
+        "word_count": 1447,
+        "notes": "",
+        "summary": "Nuxt’s MCP server causes context bloat when used with AI, so the author prefers custom research agents that fetch up-to-date docs via llms.txt. These agents keep the main AI context clean by handling specific tasks separately and only loading minimal needed info. This method, used by Claude Code and the author’s Nuxt Content specialist agent, reduces token use while providing accurate, current guidance.",
+        "image_url": "https://alexop.dev/posts/why-you-dont-need-the-nuxt-mcp-when-you-use-claude-code/index.png",
+        "parent_id": null,
+        "reading_progress": 0.06908799163443943,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-12-31",
+        "created_at": "2026-01-23T10:39:14.646959+00:00",
+        "updated_at": "2026-01-23T19:03:48.861319+00:00",
+        "saved_at": "2026-01-23T10:39:13.574000+00:00",
+        "first_opened_at": "2026-01-23T10:39:13.574000+00:00",
+        "last_opened_at": "2026-01-23T18:09:48.010000+00:00",
+        "last_moved_at": "2026-01-23T19:03:47.980000+00:00"
+    },
+    {
+        "id": "01kfmy5w803q5weqn2gphpamz2",
+        "url": "https://read.readwise.io/read/01kfmy5w803q5weqn2gphpamz2",
+        "source_url": "https://alexop.dev/prompts/claude/claude-learn-command/",
+        "title": "Learn: Analyze Conversation for Documentation",
+        "author": "Alexander Opalic",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "archive",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1769155530941
+            },
+            "claude": {
+                "name": "Claude",
+                "type": "manual",
+                "created": 1769155535697
+            },
+            "agentskills": {
+                "name": "AgentSkills",
+                "type": "manual",
+                "created": 1769155555157
+            }
+        },
+        "site_name": "Alexander Opalic",
+        "word_count": 282,
+        "notes": "",
+        "summary": "Analyzes conversation for insights worth preserving and saves them to the project's documentation",
+        "image_url": "https://alexop.dev/prompts/claude/claude-learn-command/index.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2025-01-18",
+        "created_at": "2026-01-23T08:05:23.756276+00:00",
+        "updated_at": "2026-01-23T08:05:55.721185+00:00",
+        "saved_at": "2026-01-23T08:05:22.816000+00:00",
+        "first_opened_at": "2026-01-23T08:05:22.816000+00:00",
+        "last_opened_at": "2026-01-23T08:05:22.816000+00:00",
+        "last_moved_at": "2026-01-23T08:05:26.168000+00:00"
+    },
+    {
         "id": "01kfj4vyca998bwfv3d0chp8ej",
         "url": "https://read.readwise.io/read/01kfj4vyca998bwfv3d0chp8ej",
         "source_url": "https://pluralistic.net/2026/01/21/cod-marxism/",
@@ -370,12 +536,22 @@
         "author": "Alexander Opalic",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1769152301339
+            },
             "claude": {
                 "name": "Claude",
                 "type": "manual",
                 "created": 1768805150007
+            },
+            "agentskills": {
+                "name": "AgentSkills",
+                "type": "manual",
+                "created": 1769164535530
             }
         },
         "site_name": "Alexander Opalic",
@@ -384,16 +560,16 @@
         "summary": "Keep your CLAUDE.md file short and focused to save token space and improve AI tool performance. Store detailed lessons and gotchas in separate docs and have Claude read them only when needed. Use automated feedback and clear prompts to help AI learn and avoid repeating mistakes.",
         "image_url": "https://alexop.dev/posts/stop-bloating-your-claude-md-progressive-disclosure-for-ai-coding-tools/index.png",
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2026-01-18",
         "created_at": "2026-01-19T06:45:39.452501+00:00",
-        "updated_at": "2026-01-19T06:45:55.359858+00:00",
+        "updated_at": "2026-01-23T10:46:03.324985+00:00",
         "saved_at": "2026-01-19T06:45:38.709000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2026-01-19T06:45:54.530000+00:00"
+        "first_opened_at": "2026-01-23T07:11:34.529000+00:00",
+        "last_opened_at": "2026-01-23T07:11:34.604000+00:00",
+        "last_moved_at": "2026-01-23T10:46:02.806000+00:00"
     },
     {
         "id": "01kfafzzqxsd2kcrr08y94c7zf",
@@ -611,24 +787,50 @@
         "author": "Alexander Opalic",
         "source": "Reader add from import URL",
         "category": "article",
-        "location": "later",
-        "tags": {},
+        "location": "archive",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1769165264989
+            },
+            "pkm": {
+                "name": "PKM",
+                "type": "manual",
+                "created": 1769165259239
+            },
+            "try": {
+                "name": "Try",
+                "type": "manual",
+                "created": 1769191754050
+            },
+            "nuxt": {
+                "name": "Nuxt",
+                "type": "manual",
+                "created": 1769191749068
+            },
+            "agents": {
+                "name": "Agents",
+                "type": "manual",
+                "created": 1769191047028
+            }
+        },
         "site_name": "Alexander Opalic",
         "word_count": 3269,
         "notes": "",
         "summary": "This guide shows how to build an AI system where Claude searches and reads your notes to answer questions using only your personal knowledge. Claude uses tools to find, read, and connect notes, avoiding overwhelming prompts by fetching information as needed. This agentic loop helps you access and explore your Second Brain efficiently.",
         "image_url": "https://alexop.dev/posts/building-an-ai-interface-for-your-second-brain/index.png",
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2026-01-17",
         "created_at": "2026-01-19T06:37:06.102625+00:00",
-        "updated_at": "2026-01-19T06:37:15.711916+00:00",
+        "updated_at": "2026-01-23T18:09:25.335835+00:00",
         "saved_at": "2026-01-19T06:37:05.287000+00:00",
-        "first_opened_at": null,
-        "last_opened_at": null,
-        "last_moved_at": "2026-01-19T06:37:15.120000+00:00"
+        "first_opened_at": "2026-01-23T10:46:54.581000+00:00",
+        "last_opened_at": "2026-01-23T10:46:54.662000+00:00",
+        "last_moved_at": "2026-01-23T18:09:24.616000+00:00"
     },
     {
         "id": "01kfabyqddxp6mh9jgjpa7mrcv",
@@ -1898,7 +2100,7 @@
         "author": "Matthew Rocklin",
         "source": "Readwise web highlighter",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "llm": {
                 "name": "LLM",
@@ -1922,11 +2124,11 @@
         "html_content": null,
         "published_date": "2025-12-31",
         "created_at": "2026-01-13T08:04:12.017192+00:00",
-        "updated_at": "2026-01-22T12:43:28.878388+00:00",
+        "updated_at": "2026-01-23T07:10:31.093426+00:00",
         "saved_at": "2026-01-13T08:04:10.414000+00:00",
         "first_opened_at": "2026-01-13T08:04:10.414000+00:00",
         "last_opened_at": "2026-01-22T11:48:29.908000+00:00",
-        "last_moved_at": "2026-01-13T08:04:18.336000+00:00",
+        "last_moved_at": "2026-01-23T07:10:30.398000+00:00",
         "highlights": [
             {
                 "id": "01kfjvktad823p1zv5661pqjjm",

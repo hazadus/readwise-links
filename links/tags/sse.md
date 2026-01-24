@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [Django & HTMX - with Server-Sent Events (SSE)!](https://www.youtube.com/watch?v=9qwCc0FgPRg) 👤 BugBytes 🔖 #sse, #htmx, #django 🗓️ 2026-01-23
+    > **Резюме:** This video shows how to use Server-Sent Events (SSE) with Django and HTMX to update web pages automatically. It explains how to stream live data, like stock prices, from the server without refreshing the page. The tutorial includes code examples and tips for handling HTML updates using HTMX's SSE extension.
 - [Building a Real-time Dashboard with Flask and Svelte](https://testdriven.io/blog/flask-svelte/) 👤 Amir Tadrisi 💬 2931 🔖 #sse, #flask, #svelte 🗓️ 2025-04-08
     > **Резюме:** This tutorial shows how to build a real-time dashboard using Flask and Svelte with live data updates via server-sent events. It includes interactive charts for temperature and humidity, a system status indicator, and alert notifications based on user-set thresholds. The final app combines backend streaming and frontend components for effective monitoring.
 - [Building a Real-time Dashboard with FastAPI and Svelte](https://testdriven.io/blog/fastapi-svelte/) 👤 Amir Tadrisi 💬 2608 🔖 #sse, #fastapi 🗓️ 2025-03-27

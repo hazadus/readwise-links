@@ -1,13 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 102
+- Всего ссылок: 100
 
 ## Ссылки
 
-- [Stop Bloating Your CLAUDE.md: Progressive Disclosure for AI Coding Tools](https://alexop.dev/posts/stop-bloating-your-claude-md-progressive-disclosure-ai-coding-tools/) 👤 Alexander Opalic 💬 1674 🔖 #claude 🗓️ 2026-01-19
-    > **Резюме:** Keep your CLAUDE.md file short and focused to save token space and improve AI tool performance. Store detailed lessons and gotchas in separate docs and have Claude read them only when needed. Use automated feedback and clear prompts to help AI learn and avoid repeating mistakes.
-- [Building an AI Interface for Your Second Brain](https://alexop.dev/posts/building-ai-interface-second-brain/) 👤 Alexander Opalic 💬 3269 🗓️ 2026-01-19
-    > **Резюме:** This guide shows how to build an AI system where Claude searches and reads your notes to answer questions using only your personal knowledge. Claude uses tools to find, read, and connect notes, avoiding overwhelming prompts by fetching information as needed. This agentic loop helps you access and explore your Second Brain efficiently.
+- [Why I Still Write Code as an Engineering Manager](https://terriblesoftware.org/2026/01/22/why-i-still-write-code-as-an-engineering-manager/) 👤 Terrible Software 💬 623 🗓️ 2026-01-23
+    > **Резюме:** The author writes code sometimes to stay connected with the team and understand their work. Coding helps the manager show good practices and earn the team's respect. This keeps decisions realistic and strengthens the manager’s connection to the work and people.
 - [Year in review: Limitless, Sesame, Claude Code, and more](https://paulstamatiou.com/2025-year-in-review?utm_source=substack&utm_medium=email) 👤 paulstamatiou.com 💬 8751 🔖 #joyandcuriosity 🗓️ 2026-01-19
     > **Резюме:** In 2025, Paul Stamatiou focused on designing and building simple, high-quality AI products that feel personal and useful. He left his startup role to join Sesame as Head of Design, working closely on software and hardware. He believes great design means thoughtful product building, not just flashy visuals or shortcuts with AI.
 - [Why We Built Our Own Background Agent](https://builders.ramp.com/post/why-we-built-our-background-agent?utm_source=substack&utm_medium=email) 👤 Zach Bruggeman, Jason Quense, Rahul Sengottuvelu 💬 2798 🔖 #joyandcuriosity 🗓️ 2026-01-19
@@ -22,8 +20,6 @@
     > **Резюме:** Apple's new Translation API helps apps translate text easily using machine learning. Developers can add simple translation overlays or use flexible tools for more control. This feature works system-wide and supports many languages, improving how users understand content in different languages.
 - [Yeah, About Your “Precise” Specification…](https://codemanship.wordpress.com/2026/01/15/yeah-about-your-precise-specification/) 👤 Codemanship's Blog 💬 2686 🗓️ 2026-01-17
     > **Резюме:** Clear and testable specifications help find mistakes and reduce confusion in software development. Using examples and tests with customers makes requirements easier to understand and verify. Unlike programming languages, LLM prompts need less ambiguity to improve accuracy but are not the same as code.
-- [AI Zealotry](https://matthewrocklin.com/ai-zealotry/?utm_source=tldrdev#why-ai) 👤 Matthew Rocklin 💬 2935 🔖 #llm, #claude 🗓️ 2026-01-13
-    > **Резюме:** AI helps experienced developers work faster and think at higher levels of abstraction. Trust in AI-generated code grows with strong testing and automated feedback. Programming with AI is an evolution like compilers, making coding more fun and productive despite some trade-offs.
 - [How Markdown took over the world](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/?utm_source=tldrdev) 👤 Anil Dash 💬 4535 🔖 #markdown 🗓️ 2026-01-13
     > **Резюме:** Markdown started as a simple way to make writing on the internet easier without needing complicated code. Many people liked it and began using it everywhere, from blogs to apps like Microsoft Notepad and Apple Notes. Its success shows how open, easy ideas can grow big and change how we share information online.
 - [What Happened To WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/?utm_source=tldrdev) 👤 EmNudge 💬 1863 🔖 #webassembly 🗓️ 2026-01-13
