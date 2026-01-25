@@ -1,9 +1,17 @@
 # Отложенные ссылки
 
-- Всего ссылок: 100
+- Всего ссылок: 104
 
 ## Ссылки
 
+- [How I estimate work as a staff software engineer](https://seangoedecke.com/how-i-estimate-work/) 👤 seangoedecke.com 💬 2426 🗓️ 2026-01-24
+    > **Резюме:** Software project estimates are often inaccurate because most work involves unknown problems. Managers usually set estimates first, and engineers adjust the work to fit these limits. Estimation is more about communication and politics than precise planning.
+- [Wilson Lin on FastRender: a browser built by thousands of parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/#atom-everything) 👤 Simon Willison 💬 2092 🗓️ 2026-01-24
+    > **Резюме:** FastRender is a web browser built by thousands of AI agents working together in parallel. The project shows how many agents can coordinate to build complex software quickly and with some errors allowed. It is a research experiment to explore multi-agent collaboration, not a browser to compete with Chrome.
+- [How to tell where a file or folder is](https://eclecticlight.co/2026/01/23/how-to-tell-where-a-file-or-folder-is/) 👤 The Eclectic Light Company 💬 597 🗓️ 2026-01-24
+    > **Резюме:** The true location of files and folders on a Mac can differ from what the Finder shows. Some system apps live in protected volumes and cannot be moved or copied. Knowing the real path helps you understand what actions you can perform on each file or app.
+- [Pluralistic: The petty (but undeniable) delights of cultivating unoptimizability as a habit (22 Jan 2026)](https://pluralistic.net/2026/01/22/optimized-for-unoptimizability/) 👤 pluralistic.net 💬 2828 🗓️ 2026-01-24
+    > **Резюме:** Shopping carefully alone cannot change society or fix big problems. Organized actions like boycotts are more effective for real change. Being organized and savvy helps individuals navigate and resist unfair systems.
 - [Why I Still Write Code as an Engineering Manager](https://terriblesoftware.org/2026/01/22/why-i-still-write-code-as-an-engineering-manager/) 👤 Terrible Software 💬 623 🗓️ 2026-01-23
     > **Резюме:** The author writes code sometimes to stay connected with the team and understand their work. Coding helps the manager show good practices and earn the team's respect. This keeps decisions realistic and strengthens the manager’s connection to the work and people.
 - [Year in review: Limitless, Sesame, Claude Code, and more](https://paulstamatiou.com/2025-year-in-review?utm_source=substack&utm_medium=email) 👤 paulstamatiou.com 💬 8751 🔖 #joyandcuriosity 🗓️ 2026-01-19
