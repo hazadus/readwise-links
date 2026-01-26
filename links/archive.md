@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1356
+- Всего ссылок: 1357
 
 ## Ссылки
 
+- [Your App Subscription Is Now My Weekend Project](https://rselbach.com/your-sub-is-now-my-weekend-project?utm_source=tldrdev) 👤 Roberto Selbach 💬 419 🔖 #macos 🗓️ 2026-01-25
 - [Why You Don't Need the Nuxt MCP When You Use Claude Code](https://alexop.dev/posts/why-you-dont-need-nuxt-mcp-claude-code/) 👤 Alexander Opalic 💬 1447 🔖 #llm, #try, #nuxt, #agents, #claude 🗓️ 2026-01-23
 - [Learn: Analyze Conversation for Documentation](https://alexop.dev/prompts/claude/claude-learn-command/) 👤 Alexander Opalic 💬 282 🔖 #llm, #claude, #agentskills 🗓️ 2026-01-23
 - [Pluralistic: Google's AI pricing plan (21 Jan 2026)](https://pluralistic.net/2026/01/21/cod-marxism/) 👤 pluralistic.net 💬 2719 🗓️ 2026-01-22
