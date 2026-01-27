@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 353
+- Всего ссылок: 354
 
 ## Ссылки
 
+- [AI companies will fail. We can salvage something from the wreckage | Cory Doctorow](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur) 👤 The Guardian 💬 5237 🔖 #llm, #predictions 🗓️ 2026-01-26
+    > **Резюме:** AI companies are hyped to promise they can replace workers and save money, but AI cannot truly do most jobs. The AI bubble is driven by investors and bosses wanting to cut wages, not by real AI ability. This bubble will burst, and we must fight to protect workers and artists from harm caused by AI hype.
 - [Why You Don't Need the Nuxt MCP When You Use Claude Code](https://alexop.dev/posts/why-you-dont-need-nuxt-mcp-claude-code/) 👤 Alexander Opalic 💬 1447 🔖 #llm, #try, #nuxt, #agents, #claude 🗓️ 2026-01-23
     > **Резюме:** Nuxt’s MCP server causes context bloat when used with AI, so the author prefers custom research agents that fetch up-to-date docs via llms.txt. These agents keep the main AI context clean by handling specific tasks separately and only loading minimal needed info. This method, used by Claude Code and the author’s Nuxt Content specialist agent, reduces token use while providing accurate, current guidance.
 - [Learn: Analyze Conversation for Documentation](https://alexop.dev/prompts/claude/claude-learn-command/) 👤 Alexander Opalic 💬 282 🔖 #llm, #claude, #agentskills 🗓️ 2026-01-23

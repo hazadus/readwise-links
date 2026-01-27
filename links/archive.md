@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1357
+- Всего ссылок: 1359
 
 ## Ссылки
 
+- [AI companies will fail. We can salvage something from the wreckage | Cory Doctorow](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur) 👤 The Guardian 💬 5237 🔖 #llm, #predictions 🗓️ 2026-01-26
+- [Thoughts on Amp's ad-supported business model](https://rselbach.com/amps-ad-supported-business-model/) 👤 Roberto Selbach 💬 528 🔖 #amp 🗓️ 2026-01-26
 - [Your App Subscription Is Now My Weekend Project](https://rselbach.com/your-sub-is-now-my-weekend-project?utm_source=tldrdev) 👤 Roberto Selbach 💬 419 🔖 #macos 🗓️ 2026-01-25
 - [Why You Don't Need the Nuxt MCP When You Use Claude Code](https://alexop.dev/posts/why-you-dont-need-nuxt-mcp-claude-code/) 👤 Alexander Opalic 💬 1447 🔖 #llm, #try, #nuxt, #agents, #claude 🗓️ 2026-01-23
 - [Learn: Analyze Conversation for Documentation](https://alexop.dev/prompts/claude/claude-learn-command/) 👤 Alexander Opalic 💬 282 🔖 #llm, #claude, #agentskills 🗓️ 2026-01-23

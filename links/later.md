@@ -1,9 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 104
+- Всего ссылок: 107
 
 ## Ссылки
 
+- [You have to know how to drive the car](https://seangoedecke.com/knowing-how-to-drive-the-car/) 👤 seangoedecke.com 💬 880 🗓️ 2026-01-26
+    > **Резюме:** Software engineers have different goals, but all must understand how tech companies work to succeed. Success comes from focusing on impactful projects and navigating company politics wisely. Without this knowledge, engineers risk frustration, sidelining, or failure to achieve their goals.
+- [Глава 1. Введение в документы](https://grishaev.me/pg-book-json-ch01/) 👤 grishaev.me 💬 9423 🗓️ 2026-01-26
+    > **Резюме:** The text explains differences between relational and document-oriented databases, highlighting their strengths and weaknesses. Document databases handle flexible data structures well but have challenges like unique numbering and JSON limitations. Choosing a database depends on project needs, balancing pros and cons for the best fit.
+- [The secret to being happy in 2026? It’s far, far simpler than you think …](https://www.theguardian.com/lifeandstyle/2026/jan/03/secret-being-happy-2026-simpler-than-you-think) 👤 Oliver Burkeman 💬 1918 🔖 #reflections 🗓️ 2026-01-26
+    > **Резюме:** In 2026, focus on doing what truly makes you happy instead of trying to fix yourself. Enjoying life more can improve your health, reduce stress, and help you feel alive. Life is for living now, not waiting until everything feels perfect.
 - [How I estimate work as a staff software engineer](https://seangoedecke.com/how-i-estimate-work/) 👤 seangoedecke.com 💬 2426 🗓️ 2026-01-24
     > **Резюме:** Software project estimates are often inaccurate because most work involves unknown problems. Managers usually set estimates first, and engineers adjust the work to fit these limits. Estimation is more about communication and politics than precise planning.
 - [Wilson Lin on FastRender: a browser built by thousands of parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/#atom-everything) 👤 Simon Willison 💬 2092 🗓️ 2026-01-24

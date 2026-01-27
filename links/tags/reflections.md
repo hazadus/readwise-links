@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [The secret to being happy in 2026? It’s far, far simpler than you think …](https://www.theguardian.com/lifeandstyle/2026/jan/03/secret-being-happy-2026-simpler-than-you-think) 👤 Oliver Burkeman 💬 1918 🔖 #reflections 🗓️ 2026-01-26
+    > **Резюме:** In 2026, focus on doing what truly makes you happy instead of trying to fix yourself. Enjoying life more can improve your health, reduce stress, and help you feel alive. Life is for living now, not waiting until everything feels perfect.
 - [I'm addicted to being useful](https://seangoedecke.com/addicted-to-being-useful/) 👤 seangoedecke.com 💬 865 🔖 #reflections 🗓️ 2026-01-21
     > **Резюме:** The author loves being useful and solving problems as a software engineer, even when the job is hard. Like a character in a story, this need to help fits their personality and drives their work. They believe many engineers share this inner urge, which shapes how they work and find satisfaction.
 - [Finding Flow: Escaping Digital Distractions Through Deep Work and Slow Living](https://www.ssp.sh/blog/finding-flow/) 👤 Simon Späti 💬 2487 🔖 #reflections 🗓️ 2025-12-25
