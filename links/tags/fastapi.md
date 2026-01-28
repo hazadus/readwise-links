@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 35
+- Всего ссылок: 36
 
 ## Ссылки
 
+- [Как запустить 4 независимые нейросети на одном GPU (16 ГБ) под FastAPI](https://habr.com/ru/companies/hostkey/articles/982278/) 👤 yakvenalex 💬 6879 🔖 #llm, #try, #fastapi, #selfhost 🗓️ 2026-01-12
+    > **Резюме:** Автор рассказывает, как запустить четыре нейросети на одном GPU с 16 ГБ памяти через FastAPI. Показывается практический пример настройки сервера и управления памятью без дообучения моделей. В итоге получается компактный и стабильный ML-сервис для локального использования.
 - [Kludex/fastapi-tips: FastAPI Tips by The FastAPI Expert!](https://github.com/Kludex/fastapi-tips?tab=readme-ov-file#2-be-careful-with-non-async-functions) 👤 https://github.com/Kludex/ 💬 1671 🔖 #fastapi 🗓️ 2025-12-03
     > **Резюме:** Use async functions and tools like uvloop and httptools to avoid blocking the FastAPI event loop.  
 Prefer async-for for WebSocket reads, use lifespan state for startup resources, and test with AsyncClient or LifespanManager.  

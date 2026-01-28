@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 45
+- Всего ссылок: 46
 
 ## Ссылки
 
+- [Why I Still Write Code as an Engineering Manager](https://terriblesoftware.org/2026/01/22/why-i-still-write-code-as-an-engineering-manager/) 👤 Terrible Software 💬 623 🔖 #leaddev, #management 🗓️ 2026-01-23
+    > **Резюме:** The author writes code sometimes to stay connected with the team and understand their work. Coding helps the manager show good practices and earn the team's respect. This keeps decisions realistic and strengthens the manager’s connection to the work and people.
 - [Who does what and how to support them](https://newsletter.manager.dev/p/who-does-what-and-how-to-support) 👤 Anton Zaides 💬 1044 🔖 #management 🗓️ 2026-01-21
     > **Заметка:** "Карта знаний" команды – интересная фишка.
     > **Резюме:** Engineering managers must balance what the company needs, what engineers want, and what the team requires. This balance involves assigning tasks by efficiency, growth opportunities, and team flexibility. Supporting engineers depends on their experience with specific tasks, not just their seniority.

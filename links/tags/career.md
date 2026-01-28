@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 68
+- Всего ссылок: 69
 
 ## Ссылки
 
+- [You have to know how to drive the car](https://seangoedecke.com/knowing-how-to-drive-the-car/) 👤 seangoedecke.com 💬 880 🔖 #career 🗓️ 2026-01-26
+    > **Резюме:** Software engineers have different goals, but all must understand how tech companies work to succeed. Success comes from focusing on impactful projects and navigating company politics wisely. Without this knowledge, engineers risk frustration, sidelining, or failure to achieve their goals.
 - [How the hell are you supposed to have a career in tech in 2026?](https://www.anildash.com/2026/01/05/a-tech-career-in-2026/?utm_source=tldrdev) 👤 Anil Dash 💬 2530 🔖 #career, #llm-devimpact 🗓️ 2026-01-15
     > **Резюме:** The tech industry in 2026 faces big problems like layoffs, bad leadership, and broken values. Many workers feel lost but can find strength by understanding the systems and power around them. Tech skills can be used in other fields where work culture is often healthier and more meaningful.
 - [Creating Your Own Opportunities](https://terriblesoftware.org/2026/01/05/creating-your-own-opportunities/) 👤 Terrible Software 💬 918 🔖 #career 🗓️ 2026-01-06

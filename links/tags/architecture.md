@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [How I estimate work as a staff software engineer](https://seangoedecke.com/how-i-estimate-work/) 👤 seangoedecke.com 💬 2426 🔖 #estimation, #architecture 🗓️ 2026-01-24
+    > **Резюме:** Software project estimates are often inaccurate because most work involves unknown problems. Managers usually set estimates first, and engineers adjust the work to fit these limits. Estimation is more about communication and politics than precise planning.
 - [Hexagonal Architecture for absolute beginners.](https://sushantdhiman.substack.com/p/hexagonal-architecture-for-absolute?utm_source=post-email-title&publication_id=3501228&post_id=180310942&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) 👤 Sushant Dhiman 💬 896 🔖 #architecture 🗓️ 2025-11-30
     > **Резюме:** Hexagonal architecture isolates the core domain from frameworks and external systems.  
 It uses domain-defined ports and interchangeable adapters so databases or APIs can be swapped easily.  

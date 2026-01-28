@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 61
+- Всего ссылок: 63
 
 ## Ссылки
 
@@ -8,6 +8,10 @@
     > **Резюме:** Nuxt’s MCP server causes context bloat when used with AI, so the author prefers custom research agents that fetch up-to-date docs via llms.txt. These agents keep the main AI context clean by handling specific tasks separately and only loading minimal needed info. This method, used by Claude Code and the author’s Nuxt Content specialist agent, reduces token use while providing accurate, current guidance.
 - [Building an AI Interface for Your Second Brain](https://alexop.dev/posts/building-ai-interface-second-brain/) 👤 Alexander Opalic 💬 3269 🔖 #llm, #pkm, #try, #nuxt, #agents 🗓️ 2026-01-19
     > **Резюме:** This guide shows how to build an AI system where Claude searches and reads your notes to answer questions using only your personal knowledge. Claude uses tools to find, read, and connect notes, avoiding overwhelming prompts by fetching information as needed. This agentic loop helps you access and explore your Second Brain efficiently.
+- [How I Built a Skill That Lets Me Talk to Claude's Conversation Memory](https://alexop.dev/posts/building-conversation-search-skill-claude-code/) 👤 Alexander Opalic 💬 993 🔖 #try, #claude, #agentskills 🗓️ 2026-01-18
+    > **Резюме:** Alexander built a skill that lets Claude search its saved conversations to find past coding solutions. The skill uses summaries, messages, and commands to quickly recall fixes and work done. This makes Claude a helpful partner that remembers and saves time by avoiding repeated problem-solving.
+- [Как запустить 4 независимые нейросети на одном GPU (16 ГБ) под FastAPI](https://habr.com/ru/companies/hostkey/articles/982278/) 👤 yakvenalex 💬 6879 🔖 #llm, #try, #fastapi, #selfhost 🗓️ 2026-01-12
+    > **Резюме:** Автор рассказывает, как запустить четыре нейросети на одном GPU с 16 ГБ памяти через FastAPI. Показывается практический пример настройки сервера и управления памятью без дообучения моделей. В итоге получается компактный и стабильный ML-сервис для локального использования.
 - [I cannot emphasize enough how much I prefer this "tutorial...](https://x.com/geoffreylitt/status/1991909304085987366/?utm_medium=email&rw_tt_thread=True) 👤 Geoffrey Litt 💬 464 🔖 #llm, #try, #claude 🗓️ 2025-12-21
     > **Резюме:** The author prefers a "tutorial doc + build-it-yourself" workflow over reviewing large PRs. Have the model produce a very detailed Markdown implementation guide, then read it and code the changes yourself while staying in control. This approach keeps you fast with AI tools but mentally engaged and better able to make good decisions.
 - [Build self-hosted AI Agent with Ollama, Pydantic AI and Django Ninja](https://scribe.rip/@tom.mart/build-self-hosted-ai-agent-with-ollama-pydantic-ai-and-django-ninja-53c6b3f14a1d?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 scribe.rip 💬 2105 🔖 #try, #agents, #django, #pydantic 🗓️ 2025-12-12

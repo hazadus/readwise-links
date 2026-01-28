@@ -1,11 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 354
+- Всего ссылок: 358
 
 ## Ссылки
 
+- [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html) 👤 alexwennerberg.com 💬 1484 🔖 #llm, #llm-devimpact 🗓️ 2026-01-27
+    > **Резюме:** AI makes it easy to create large amounts of low-quality software and content that focus on metrics, not craft. This trend harms creativity and deep skill in both music and software engineering. To improve, we need to value human craftsmanship and explore new ways of building software beyond current industrial methods.
+- [ChatGPT Containers can now run bash, pip/npm install packages, and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/#atom-everything) 👤 Simon Willison 💬 1334 🔖 #llm, #chatgpt 🗓️ 2026-01-27
+    > **Резюме:** ChatGPT Containers can now run Bash commands, install packages with pip and npm, and download files from the web. It supports multiple programming languages and uses a proxy to access package registries without direct internet access. These new features greatly expand ChatGPT's coding abilities, but official documentation is still missing.
 - [AI companies will fail. We can salvage something from the wreckage | Cory Doctorow](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur) 👤 The Guardian 💬 5237 🔖 #llm, #predictions 🗓️ 2026-01-26
     > **Резюме:** AI companies are hyped to promise they can replace workers and save money, but AI cannot truly do most jobs. The AI bubble is driven by investors and bosses wanting to cut wages, not by real AI ability. This bubble will burst, and we must fight to protect workers and artists from harm caused by AI hype.
+- [Wilson Lin on FastRender: a browser built by thousands of parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/#atom-everything) 👤 Simon Willison 💬 2092 🔖 #llm 🗓️ 2026-01-24
+    > **Резюме:** FastRender is a web browser built by thousands of AI agents working together in parallel. The project shows how many agents can coordinate to build complex software quickly and with some errors allowed. It is a research experiment to explore multi-agent collaboration, not a browser to compete with Chrome.
 - [Why You Don't Need the Nuxt MCP When You Use Claude Code](https://alexop.dev/posts/why-you-dont-need-nuxt-mcp-claude-code/) 👤 Alexander Opalic 💬 1447 🔖 #llm, #try, #nuxt, #agents, #claude 🗓️ 2026-01-23
     > **Резюме:** Nuxt’s MCP server causes context bloat when used with AI, so the author prefers custom research agents that fetch up-to-date docs via llms.txt. These agents keep the main AI context clean by handling specific tasks separately and only loading minimal needed info. This method, used by Claude Code and the author’s Nuxt Content specialist agent, reduces token use while providing accurate, current guidance.
 - [Learn: Analyze Conversation for Documentation](https://alexop.dev/prompts/claude/claude-learn-command/) 👤 Alexander Opalic 💬 282 🔖 #llm, #claude, #agentskills 🗓️ 2026-01-23
@@ -50,6 +56,8 @@
     > **Резюме:** Code creates ongoing problems and costs, so it is a liability, not an asset. AI produces lots of code quickly, but that means it also creates many more problems. True software engineering requires careful work that AI cannot do, or the problems will grow over time.
 - [Building Staff Engineer-Level Knowledge with AI](https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai) 👤 Dave Griffith 💬 2515 🔖 #llm 🗓️ 2026-01-12
     > **Резюме:** To become a staff engineer, you must build deep expertise in technology, codebases, and business using AI as a learning tool, not a crutch. AI can speed up learning and understanding, but true mastery means internalizing knowledge without relying on AI all the time. Managing and showing your expertise is key to advancing your career and making a real impact.
+- [Как запустить 4 независимые нейросети на одном GPU (16 ГБ) под FastAPI](https://habr.com/ru/companies/hostkey/articles/982278/) 👤 yakvenalex 💬 6879 🔖 #llm, #try, #fastapi, #selfhost 🗓️ 2026-01-12
+    > **Резюме:** Автор рассказывает, как запустить четыре нейросети на одном GPU с 16 ГБ памяти через FastAPI. Показывается практический пример настройки сервера и управления памятью без дообучения моделей. В итоге получается компактный и стабильный ML-сервис для локального использования.
 - [My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/#atom-everything) 👤 Simon Willison 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
     > **Резюме:** Simon Willison used AI tools to quickly port open source code and discussed the legal and ethical issues involved. He believes this approach is okay if licenses and credit are respected and the work is clearly labeled as experimental. He also thinks AI will change open source, helping some people contribute more but possibly reducing demand for some projects.
 - [Don't fall into the anti-AI hype](http://antirez.com/news/158) 👤 antirez.com 💬 1262 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12

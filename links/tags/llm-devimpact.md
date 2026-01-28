@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 30
+- Всего ссылок: 32
 
 ## Ссылки
 
+- [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html) 👤 alexwennerberg.com 💬 1484 🔖 #llm, #llm-devimpact 🗓️ 2026-01-27
+    > **Резюме:** AI makes it easy to create large amounts of low-quality software and content that focus on metrics, not craft. This trend harms creativity and deep skill in both music and software engineering. To improve, we need to value human craftsmanship and explore new ways of building software beyond current industrial methods.
+- [Lighthouses for the Agentic Coding Era](https://davegriffith.substack.com/p/lighthouses-for-the-agentic-coding) 👤 Dave Griffith 💬 1641 🔖 #llm-devimpact 🗓️ 2026-01-27
+    > **Резюме:** AI lets developers ship code faster than organizations can understand it, causing a risk called "disorientation." To manage this, proven tools like rate limiters, circuit breakers, and quick rollbacks act like navigation aids that keep systems safe without constant human oversight. However, these tools only work if humans first understand the system well enough to set them up correctly, which is a growing challenge with AI-generated code.
 - [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/) 👤 Armin Ronacher 💬 2095 🔖 #llm, #llm-devimpact 🗓️ 2026-01-19
     > **Резюме:** Many people are becoming addicted to using AI agents for coding, which can lead to poor quality work and unrealistic expectations. This causes frustration for maintainers who must spend much more time reviewing AI-generated contributions. While AI tools are powerful, we need better ways to manage and understand their use to avoid chaos and maintain quality.
 - [How the hell are you supposed to have a career in tech in 2026?](https://www.anildash.com/2026/01/05/a-tech-career-in-2026/?utm_source=tldrdev) 👤 Anil Dash 💬 2530 🔖 #career, #llm-devimpact 🗓️ 2026-01-15

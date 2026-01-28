@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 4
 
 ## Ссылки
 
+- [How I estimate work as a staff software engineer](https://seangoedecke.com/how-i-estimate-work/) 👤 seangoedecke.com 💬 2426 🔖 #estimation, #architecture 🗓️ 2026-01-24
+    > **Резюме:** Software project estimates are often inaccurate because most work involves unknown problems. Managers usually set estimates first, and engineers adjust the work to fit these limits. Estimation is more about communication and politics than precise planning.
 - [Seeing like a software company](https://seangoedecke.com/seeing-like-a-software-company/) 👤 seangoedecke.com 💬 3485 🔖 #leaddev, #estimation, #management, #development 🗓️ 2025-09-03
     > **Резюме:** Large software companies build processes to make work legible.  
 Legibility helps planning, coordination, and making deals but slows delivery.  

@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
 - [Your App Subscription Is Now My Weekend Project](https://rselbach.com/your-sub-is-now-my-weekend-project?utm_source=tldrdev) 👤 Roberto Selbach 💬 419 🔖 #macos 🗓️ 2026-01-25
     > **Резюме:** The author stopped paying for small apps by quickly creating simple versions of them during weekends. These "vibecoded" apps work well enough for personal use but are not professional products. This shows a shift where easy-to-make apps replace costly subscriptions for individuals.
+- [How to tell where a file or folder is](https://eclecticlight.co/2026/01/23/how-to-tell-where-a-file-or-folder-is/) 👤 The Eclectic Light Company 💬 597 🔖 #macos 🗓️ 2026-01-24
+    > **Резюме:** The true location of files and folders on a Mac can differ from what the Finder shows. Some system apps live in protected volumes and cannot be moved or copied. Knowing the real path helps you understand what actions you can perform on each file or app.
 - [WWDC24: Meet the Translation API | Apple](https://www.youtube.com/watch?v=MuIFhbHNmqA) 👤 Apple Developer 🔖 #macos, #swift 🗓️ 2026-01-16
     > **Резюме:** Apple's new Translation API helps apps translate text easily using machine learning. Developers can add simple translation overlays or use flexible tools for more control. This feature works system-wide and supports many languages, improving how users understand content in different languages.
 - [The Unbearable Frustration of Figuring Out APIs](https://blog.ar-ms.me/thoughts/translation-cli/?utm_source=tldrdev) 👤 ar-ms.me 💬 2351 🔖 #macos, #swift 🗓️ 2026-01-16

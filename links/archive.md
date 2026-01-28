@@ -1,12 +1,22 @@
 # Архивные ссылки
 
-- Всего ссылок: 1359
+- Всего ссылок: 1374
 
 ## Ссылки
 
+- [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html) 👤 alexwennerberg.com 💬 1484 🔖 #llm, #llm-devimpact 🗓️ 2026-01-27
+- [Should Software Engineers be Cynical? With Sean Goedecke](https://www.youtube.com/watch?v=lpuy9RxJmfU) 👤 Alex Wennerberg 🗓️ 2026-01-27
+- [ChatGPT Containers can now run bash, pip/npm install packages, and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/#atom-everything) 👤 Simon Willison 💬 1334 🔖 #llm, #chatgpt 🗓️ 2026-01-27
+- [Lighthouses for the Agentic Coding Era](https://davegriffith.substack.com/p/lighthouses-for-the-agentic-coding) 👤 Dave Griffith 💬 1641 🔖 #llm-devimpact 🗓️ 2026-01-27
+- [You have to know how to drive the car](https://seangoedecke.com/knowing-how-to-drive-the-car/) 👤 seangoedecke.com 💬 880 🔖 #career 🗓️ 2026-01-26
+- [The secret to being happy in 2026? It’s far, far simpler than you think …](https://www.theguardian.com/lifeandstyle/2026/jan/03/secret-being-happy-2026-simpler-than-you-think) 👤 Oliver Burkeman 💬 1918 🔖 #reflections 🗓️ 2026-01-26
 - [AI companies will fail. We can salvage something from the wreckage | Cory Doctorow](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur) 👤 The Guardian 💬 5237 🔖 #llm, #predictions 🗓️ 2026-01-26
 - [Thoughts on Amp's ad-supported business model](https://rselbach.com/amps-ad-supported-business-model/) 👤 Roberto Selbach 💬 528 🔖 #amp 🗓️ 2026-01-26
 - [Your App Subscription Is Now My Weekend Project](https://rselbach.com/your-sub-is-now-my-weekend-project?utm_source=tldrdev) 👤 Roberto Selbach 💬 419 🔖 #macos 🗓️ 2026-01-25
+- [How I estimate work as a staff software engineer](https://seangoedecke.com/how-i-estimate-work/) 👤 seangoedecke.com 💬 2426 🔖 #estimation, #architecture 🗓️ 2026-01-24
+- [Wilson Lin on FastRender: a browser built by thousands of parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/#atom-everything) 👤 Simon Willison 💬 2092 🔖 #llm 🗓️ 2026-01-24
+- [How to tell where a file or folder is](https://eclecticlight.co/2026/01/23/how-to-tell-where-a-file-or-folder-is/) 👤 The Eclectic Light Company 💬 597 🔖 #macos 🗓️ 2026-01-24
+- [Why I Still Write Code as an Engineering Manager](https://terriblesoftware.org/2026/01/22/why-i-still-write-code-as-an-engineering-manager/) 👤 Terrible Software 💬 623 🔖 #leaddev, #management 🗓️ 2026-01-23
 - [Why You Don't Need the Nuxt MCP When You Use Claude Code](https://alexop.dev/posts/why-you-dont-need-nuxt-mcp-claude-code/) 👤 Alexander Opalic 💬 1447 🔖 #llm, #try, #nuxt, #agents, #claude 🗓️ 2026-01-23
 - [Learn: Analyze Conversation for Documentation](https://alexop.dev/prompts/claude/claude-learn-command/) 👤 Alexander Opalic 💬 282 🔖 #llm, #claude, #agentskills 🗓️ 2026-01-23
 - [Pluralistic: Google's AI pricing plan (21 Jan 2026)](https://pluralistic.net/2026/01/21/cod-marxism/) 👤 pluralistic.net 💬 2719 🗓️ 2026-01-22
@@ -23,9 +33,11 @@
 - [Building an AI Interface for Your Second Brain](https://alexop.dev/posts/building-ai-interface-second-brain/) 👤 Alexander Opalic 💬 3269 🔖 #llm, #pkm, #try, #nuxt, #agents 🗓️ 2026-01-19
 - [DHH: Why AI Isn't Writing My Code (Yet)](https://www.youtube.com/watch?v=uWqno4HM4xA) 👤 Amp, Inc. 🔖 #joyandcuriosity 🗓️ 2026-01-19
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) 👤 Joel Spolsky 💬 2167 🔖 #classics, #learning 🗓️ 2026-01-18
+- [How I Built a Skill That Lets Me Talk to Claude's Conversation Memory](https://alexop.dev/posts/building-conversation-search-skill-claude-code/) 👤 Alexander Opalic 💬 993 🔖 #try, #claude, #agentskills 🗓️ 2026-01-18
 - [Crypto grifters are recruiting open-source AI developers](https://seangoedecke.com/gas-and-ralph/) 👤 seangoedecke.com 💬 1061 🔖 #llm, #blockchain 🗓️ 2026-01-18
 - [Do not give up your brain](https://cassidoo.co/post/good-brain/) 👤 cassidoo.co 💬 269 🔖 #llm 🗓️ 2026-01-18
 - [How Ralph Wiggum went from 'The Simpsons' to the biggest name in AI right now](https://venturebeat.com/technology/how-ralph-wiggum-went-from-the-simpsons-to-the-biggest-name-in-ai-right-now?ref=ghuntley.com) 👤 Carl Franzen 💬 1539 🔖 #llm 🗓️ 2026-01-16
+- [WWDC24: Meet the Translation API | Apple](https://www.youtube.com/watch?v=MuIFhbHNmqA) 👤 Apple Developer 🔖 #macos, #swift 🗓️ 2026-01-16
 - [LLMs are a 400-year-long confidence trick](https://tomrenner.com/posts/400-year-confidence-trick/?utm_source=tldrdev) 👤 Tom Renner 💬 1359 🔖 #llm 🗓️ 2026-01-16
 - [The Unbearable Frustration of Figuring Out APIs](https://blog.ar-ms.me/thoughts/translation-cli/?utm_source=tldrdev) 👤 ar-ms.me 💬 2351 🔖 #macos, #swift 🗓️ 2026-01-16
 - [we rolled our own documentation site](https://blog.tangled.org/docs) 👤 tangled.org 💬 836 🔖 #docs 🗓️ 2026-01-16
@@ -40,8 +52,11 @@
 - [AI Zealotry](https://matthewrocklin.com/ai-zealotry/?utm_source=tldrdev#why-ai) 👤 Matthew Rocklin 💬 2935 🔖 #llm, #claude 🗓️ 2026-01-13
 - [Code is Clay](https://campedersen.com/code-is-clay) 👤 campedersen.com 💬 497 🗓️ 2026-01-13
 - [Code Is Cheap Now. Software Isn’t.](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt?utm_source=tldrdev) 👤 chrisgregori.dev 💬 1933 🔖 #llm 🗓️ 2026-01-13
+- [Staging is a wasteful lie: the case for the mono-environment](https://www.tomwphillips.co.uk/2026/01/staging-is-a-wasteful-lie-the-case-for-the-mono-environment/?utm_source=tldrdev) 👤 Tom Phillips 💬 2541 🔖 #devops 🗓️ 2026-01-13
 - [Code is a liability (not an asset)](https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes?utm_source=tldrdev) 👤 pluralistic.net 💬 3678 🔖 #llm, #toot, #programming, #llm-devimpact 🗓️ 2026-01-13
     > **Заметка:** "There will be plenty of work fixing the things that we broke thanks to the most dangerous AI psychosis of all – the hallucinatory belief that "writing code" is the same thing as "software engineering."
+- [Why devs need DevOps](https://ravestar.dev/blog/why-devs-need-devops/?utm_source=tldrdev) 👤 ravestar.dev 💬 2490 🔖 #devops 🗓️ 2026-01-13
+- [Как запустить 4 независимые нейросети на одном GPU (16 ГБ) под FastAPI](https://habr.com/ru/companies/hostkey/articles/982278/) 👤 yakvenalex 💬 6879 🔖 #llm, #try, #fastapi, #selfhost 🗓️ 2026-01-12
 - [My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/#atom-everything) 👤 Simon Willison 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
 - [Don't fall into the anti-AI hype](http://antirez.com/news/158) 👤 antirez.com 💬 1262 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
 - [Life Happens at 1x Speed](https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/) 👤 Terrible Software 💬 687 🗓️ 2026-01-12
