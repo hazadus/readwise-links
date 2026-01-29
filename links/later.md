@@ -1,10 +1,20 @@
 # Отложенные ссылки
 
-- Всего ссылок: 95
+- Всего ссылок: 98
 
 ## Ссылки
 
-- [The Adolescence of Technology](https://www.darioamodei.com/essay/the-adolescence-of-technology) 👤 darioamodei.com 💬 21664 🗓️ 2026-01-27
+- [Learn systems, not langauges](https://pthorpe92.dev/learn-systems/) 👤 pthorpe92.dev 💬 2025 🗓️ 2026-01-28
+    > **Резюме:** Focus on learning systems — how operating systems, networking, memory, and protocols work — not just languages or trendy frameworks. Build real low-level projects (servers, shells, allocators, emulators) to gain deep understanding. Use the CLI, learn your OS, and practice a lot; there are no shortcuts.
+- [Hashing](https://samwho.dev/hashing) 👤 Sam Rose 💬 3436 🗓️ 2026-01-28
+    > **Резюме:** Hash functions turn inputs into numbers and help organize data efficiently. Good hash functions avoid collisions and spread outputs evenly to keep systems fast. They are important for tools like hash maps and use techniques like random seeds to stay secure.
+- [/ Isometric NYC](https://cannoneyed.com/projects/isometric-nyc?utm_source=substack&utm_medium=email) 👤 cannoneyed.com 💬 3943 🔖 #joyandcuriosity 🗓️ 2026-01-28
+    > **Резюме:** The author used AI agents to help build a pixel art map of NYC with very little coding. Image generation models still struggle with mistakes and automation is hard. Despite challenges, AI tools make large creative projects possible and inspire hope for the future.
+- [If Anthropic Succeeds, a Nation of Benevolent AI Geniuses Could Be Born](https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/) 👤 Steven Levy 💬 5456 🔖 #claude 🗓️ 2026-01-28
+    > **Резюме:** Anthropic is building a safer and smarter AI called Claude that can help humans. The company focuses on making AI ethical and aligned with human values. They believe powerful AI could change the world but must be developed carefully to avoid risks.
+- [Inside one startup’s crazy fast AI-first makeover](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) 👤 Gergely Orosz 💬 3790 🗓️ 2026-01-28
+    > **Резюме:** Craft, a startup focused on docs and tasks, shifted quickly to use AI tools called Craft Agents that help both engineers and non-engineers work better. The new AI tool lets teams automate tasks and build things faster, with non-technical staff using it even more than developers. This change shows how startups are adopting AI deeply to improve how they build software and run their work.
+- [The Adolescence of Technology](https://www.darioamodei.com/essay/the-adolescence-of-technology) 👤 darioamodei.com 💬 21664 🔖 #llm, #claude, #predictions 🗓️ 2026-01-27
     > **Резюме:** AI systems are unpredictable and hard to control, showing behaviors like deception and laziness. Companies like Anthropic work to guide AI safely, but society must set rules to prevent abuse, especially by powerful groups. Despite public concern, policymakers struggle to regulate AI because of its huge economic value.
 - [Глава 1. Введение в документы](https://grishaev.me/pg-book-json-ch01/) 👤 grishaev.me 💬 9423 🗓️ 2026-01-26
     > **Резюме:** The text explains differences between relational and document-oriented databases, highlighting their strengths and weaknesses. Document databases handle flexible data structures well but have challenges like unique numbering and JSON limitations. Choosing a database depends on project needs, balancing pros and cons for the best fit.
@@ -24,10 +34,6 @@
     > **Резюме:** Writing regularly helps overcome doubts and improves skills over time. Focus on topics that interest you and your audience, even if others have written about them. Use simple tools, be honest, and don’t worry about perfection or criticism.
 - [Building Staff Engineer-Level Knowledge with AI](https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai) 👤 Dave Griffith 💬 2515 🔖 #llm 🗓️ 2026-01-12
     > **Резюме:** To become a staff engineer, you must build deep expertise in technology, codebases, and business using AI as a learning tool, not a crutch. AI can speed up learning and understanding, but true mastery means internalizing knowledge without relying on AI all the time. Managing and showing your expertise is key to advancing your career and making a real impact.
-- [LLM predictions for 2026, shared with Oxide and Friends](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-everything) 👤 Simon Willison 💬 1656 🔖 #llm, #predictions 🗓️ 2026-01-12
-    > **Резюме:** Large language models (LLMs) will soon write very good code, changing how programmers work. New security and sandboxing solutions will make running code safer in the next year. In a few years, AI will help build complex software like web browsers, and typing code by hand will become rare.
-- [Fragments: January 8](https://martinfowler.com/fragments/2026-01-08.html) 👤 martinfowler.com 💬 1246 🗓️ 2026-01-12
-    > **Резюме:** AI tools like Claude are helping developers write and understand code faster, boosting productivity by about 50%. Test-driven development is key to making AI-assisted coding reliable and understandable. However, AI also raises concerns about fake information and changes in how software work evolves.
 - [Eight Software Markets AI That Will Transform Differently](https://davegriffith.substack.com/p/eight-software-markets-ai-that-will) 👤 Dave Griffith 💬 2917 🔖 #llm 🗓️ 2026-01-12
     > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
 - [2025 in Review: strange, terror, and weird](https://harper.blog/2026/01/07/2025-is-dead-to-me-2026-is-going-to-be-stranger/) 👤 Harper Reed <harper@modest.com> 💬 734 🗓️ 2026-01-11

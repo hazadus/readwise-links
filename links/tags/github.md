@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 29
+- Всего ссылок: 31
 
 ## Ссылки
 
+- [Stay away from my trash!](https://tldraw.dev/blog/stay-away-from-my-trash?utm_source=substack&utm_medium=email) 👤 tldraw.dev 💬 1601 🔖 #github, #llm-devimpact, #joyandcuriosity 🗓️ 2026-01-28
+    > **Резюме:** AI tools make writing code very easy, so many low-quality pull requests flood open source projects. This causes maintainers to close outside contributions because reviewing bad code wastes time. The real value is in understanding problems and design, not just writing code, so maintainers prefer to handle coding themselves.
+- ["Is GitHub dead?"](https://x.com/thorstenball/status/2013619012932947993/?utm_medium=email&rw_tt_thread=True) 👤 Thorsten Ball 💬 37 🔖 #github, #llm-devimpact, #joyandcuriosity 🗓️ 2026-01-28
+    > **Резюме:** The author shares quick thoughts on whether GitHub is still relevant. They made a short video discussing the future of developer tools. A full transcript is also available online.
 - [GitHub: top commands in gh, the official GitHub CLI](https://adamj.eu/tech/2025/11/24/github-top-gh-cli-commands/) 👤 adamj.eu 💬 5208 🔖 #cli, #try, #github 🗓️ 2025-11-24
     > **Резюме:** The GitHub CLI (gh) lets you create, view, checkout, and merge pull requests from the command line. It offers interactive prompts, web mode, and options like auto-merge and push prompts to simplify workflows. gh also shows and watches GitHub Actions runs so you can monitor CI from your terminal.
 - [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors?utm_source=tldrwebdev) 👤 yossarian.net 💬 1574 🔖 #github 🗓️ 2025-09-28

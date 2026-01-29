@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 32
+- Всего ссылок: 35
 
 ## Ссылки
 
+- [Stay away from my trash!](https://tldraw.dev/blog/stay-away-from-my-trash?utm_source=substack&utm_medium=email) 👤 tldraw.dev 💬 1601 🔖 #github, #llm-devimpact, #joyandcuriosity 🗓️ 2026-01-28
+    > **Резюме:** AI tools make writing code very easy, so many low-quality pull requests flood open source projects. This causes maintainers to close outside contributions because reviewing bad code wastes time. The real value is in understanding problems and design, not just writing code, so maintainers prefer to handle coding themselves.
+- ["Is GitHub dead?"](https://x.com/thorstenball/status/2013619012932947993/?utm_medium=email&rw_tt_thread=True) 👤 Thorsten Ball 💬 37 🔖 #github, #llm-devimpact, #joyandcuriosity 🗓️ 2026-01-28
+    > **Резюме:** The author shares quick thoughts on whether GitHub is still relevant. They made a short video discussing the future of developer tools. A full transcript is also available online.
 - [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html) 👤 alexwennerberg.com 💬 1484 🔖 #llm, #llm-devimpact 🗓️ 2026-01-27
     > **Резюме:** AI makes it easy to create large amounts of low-quality software and content that focus on metrics, not craft. This trend harms creativity and deep skill in both music and software engineering. To improve, we need to value human craftsmanship and explore new ways of building software beyond current industrial methods.
 - [Lighthouses for the Agentic Coding Era](https://davegriffith.substack.com/p/lighthouses-for-the-agentic-coding) 👤 Dave Griffith 💬 1641 🔖 #llm-devimpact 🗓️ 2026-01-27
@@ -23,6 +27,8 @@
     > **Резюме:** Simon Willison used AI tools to quickly port open source code and discussed the legal and ethical issues involved. He believes this approach is okay if licenses and credit are respected and the work is clearly labeled as experimental. He also thinks AI will change open source, helping some people contribute more but possibly reducing demand for some projects.
 - [Don't fall into the anti-AI hype](http://antirez.com/news/158) 👤 antirez.com 💬 1262 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
     > **Резюме:** AI is changing programming fast, making it easier to build complex software quickly. Programmers should embrace AI tools to improve their work instead of resisting the change. Society must also address job losses and support those affected by automation.
+- [LLM predictions for 2026, shared with Oxide and Friends](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-everything) 👤 Simon Willison 💬 1656 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-01-12
+    > **Резюме:** Large language models (LLMs) will soon write very good code, changing how programmers work. New security and sandboxing solutions will make running code safer in the next year. In a few years, AI will help build complex software like web browsers, and typing code by hand will become rare.
 - [The Future of Software Development is Software Developers](https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/?utm_source=tldrdev) 👤 Codemanship's Blog 💬 1270 🔖 #llm-devimpact 🗓️ 2026-01-10
     > **Резюме:** New tools keep promising to replace programmers, but history shows they never have. LLMs can help a bit but often slow teams and produce unreliable code. When it matters, skilled developers who can turn messy human ideas into precise programs will still be needed.
 - [Writing Code Is Fun](https://davidcel.is/articles/writing-code-is-fun) 👤 davidcel.is 💬 645 🔖 #llm, #llm-devimpact 🗓️ 2025-12-23

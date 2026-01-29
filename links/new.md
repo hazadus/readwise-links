@@ -1,16 +1,17 @@
 # Новые ссылки
 
-- Всего ссылок: 886
+- Всего ссылок: 887
 
 ## Ссылки
 
+- [Working on databases from prison: How I got here, part 2.](https://turso.tech/blog/working-on-databases-from-prison) 👤 turso.tech 💬 1030 🗓️ 2026-01-28
 - [30+ Самых ожидаемых игр 2026 года I Битый Пиксель](https://www.youtube.com/watch?v=liGmkwyQfjY) 👤 Битый Пиксель 🗓️ 2026-01-24
 - [Django & HTMX - with Server-Sent Events (SSE)!](https://www.youtube.com/watch?v=9qwCc0FgPRg) 👤 BugBytes 🔖 #sse, #htmx, #django 🗓️ 2026-01-23
 - [Hidden Gems • The Applied Go Weekly Newsletter 2026-01-18](https://newsletter.appliedgo.net/archive/2026-01-18-hidden-gems/) 👤 The Applied Go Weekly Newsletter 💬 1112 🗓️ 2026-01-19
 - [Tools by month - tools.simonwillison.net](https://tools.simonwillison.net/by-month) 👤 simonwillison.net 💬 5809 🗓️ 2026-01-13
 - [Nuxt 4 Performance Optimization: Complete Guide to Faster Apps in 2026](https://masteringnuxt.com/blog/nuxt-4-performance-optimization-complete-guide-to-faster-apps-in-2026?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 3776 🔖 #nuxt 🗓️ 2026-01-13
 - [2026 And Go 1.26 • The Applied Go Weekly Newsletter 2026-01-11](https://newsletter.appliedgo.net/archive/2026-01-11-2026-and-go-126/) 👤 The Applied Go Weekly Newsletter 💬 1035 🗓️ 2026-01-12
-- [Migrating From Celery to Django Tasks](https://paultraylor.net/blog/2026/migrating-from-celery-to-django-tasks/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_319) 👤 PaulTraylor.net 💬 467 🔖 #django 🗓️ 2026-01-10
+- [Migrating From Celery to Django Tasks](https://paultraylor.net/blog/2026/migrating-from-celery-to-django-tasks/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_319) 👤 PaulTraylor.net 💬 467 🔖 #celery, #django 🗓️ 2026-01-10
 - [Бизнес-логика в dataclass, pydantic, attrs-классах или в обычных классах? ООП в Python](https://www.youtube.com/watch?v=ByBzzsnBnAY) 👤 Диджитализируй! 🗓️ 2026-01-06
 - [Happy New Year (With Robotic Greetings) • The Applied Go Weekly Newsletter 2026-01-01](https://newsletter.appliedgo.net/archive/2026-01-01-happy-new-year-with-robotic-greetings/) 👤 The Applied Go Weekly Newsletter 💬 1448 🔖 #go 🗓️ 2026-01-04
 - [10 Zsh hacks I wish I knew about sooner](https://www.youtube.com/watch?v=3fVAtaGhUyU) 👤 Dreams of Code 🗓️ 2026-01-01

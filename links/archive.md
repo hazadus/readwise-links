@@ -1,9 +1,17 @@
 # Архивные ссылки
 
-- Всего ссылок: 1374
+- Всего ссылок: 1383
 
 ## Ссылки
 
+- [Ready, Fire, Aim!](https://codemanship.wordpress.com/2026/01/28/ready-fire-aim/) 👤 Codemanship's Blog 💬 1513 🔖 #tdd 🗓️ 2026-01-28
+- [© 2025 PThorpe92<preston@pthorpe92.dev>](https://pthorpe92.dev/intro/my-story/) 👤 pthorpe92.dev 💬 2469 🗓️ 2026-01-28
+    > **Заметка:** Разработчик работает удаленно и пишет блог из тюрьмы. Dev from prison in Maine.
+- [I left FAANG for a startup and regretted it](https://lawrenceztang.substack.com/p/i-left-faang-for-a-startup-and-regretted?utm_source=substack&utm_medium=email) 👤 Lawrence Tang 💬 1321 🔖 #joyandcuriosity 🗓️ 2026-01-28
+- [Stay away from my trash!](https://tldraw.dev/blog/stay-away-from-my-trash?utm_source=substack&utm_medium=email) 👤 tldraw.dev 💬 1601 🔖 #github, #llm-devimpact, #joyandcuriosity 🗓️ 2026-01-28
+- ["Is GitHub dead?"](https://x.com/thorstenball/status/2013619012932947993/?utm_medium=email&rw_tt_thread=True) 👤 Thorsten Ball 💬 37 🔖 #github, #llm-devimpact, #joyandcuriosity 🗓️ 2026-01-28
+- [After two years of vibecoding, I'm back to writing by hand](https://atmoio.substack.com/p/after-two-years-of-vibecoding-im?utm_source=tldrdev) 👤 Mo 💬 713 🔖 #llm 🗓️ 2026-01-28
+- [One Human + One Agent = One Browser From Scratch](https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/#atom-everything) 👤 Simon Willison 💬 260 🔖 #llm, #predictions 🗓️ 2026-01-28
 - [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html) 👤 alexwennerberg.com 💬 1484 🔖 #llm, #llm-devimpact 🗓️ 2026-01-27
 - [Should Software Engineers be Cynical? With Sean Goedecke](https://www.youtube.com/watch?v=lpuy9RxJmfU) 👤 Alex Wennerberg 🗓️ 2026-01-27
 - [ChatGPT Containers can now run bash, pip/npm install packages, and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/#atom-everything) 👤 Simon Willison 💬 1334 🔖 #llm, #chatgpt 🗓️ 2026-01-27
@@ -59,6 +67,8 @@
 - [Как запустить 4 независимые нейросети на одном GPU (16 ГБ) под FastAPI](https://habr.com/ru/companies/hostkey/articles/982278/) 👤 yakvenalex 💬 6879 🔖 #llm, #try, #fastapi, #selfhost 🗓️ 2026-01-12
 - [My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/#atom-everything) 👤 Simon Willison 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
 - [Don't fall into the anti-AI hype](http://antirez.com/news/158) 👤 antirez.com 💬 1262 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
+- [LLM predictions for 2026, shared with Oxide and Friends](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-everything) 👤 Simon Willison 💬 1656 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-01-12
+- [Fragments: January 8](https://martinfowler.com/fragments/2026-01-08.html) 👤 martinfowler.com 💬 1246 🗓️ 2026-01-12
 - [Life Happens at 1x Speed](https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/) 👤 Terrible Software 💬 687 🗓️ 2026-01-12
 - [The Future of Software Development is Software Developers](https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/?utm_source=tldrdev) 👤 Codemanship's Blog 💬 1270 🔖 #llm-devimpact 🗓️ 2026-01-10
 - [The Frontier Is Now Free](https://ampcode.com/news/amp-free-frontier) 👤 ampcode.com 💬 243 🔖 #llm 🗓️ 2026-01-10

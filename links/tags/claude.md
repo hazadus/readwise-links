@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 22
+- Всего ссылок: 24
 
 ## Ссылки
 
+- [If Anthropic Succeeds, a Nation of Benevolent AI Geniuses Could Be Born](https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/) 👤 Steven Levy 💬 5456 🔖 #claude 🗓️ 2026-01-28
+    > **Резюме:** Anthropic is building a safer and smarter AI called Claude that can help humans. The company focuses on making AI ethical and aligned with human values. They believe powerful AI could change the world but must be developed carefully to avoid risks.
+- [The Adolescence of Technology](https://www.darioamodei.com/essay/the-adolescence-of-technology) 👤 darioamodei.com 💬 21664 🔖 #llm, #claude, #predictions 🗓️ 2026-01-27
+    > **Резюме:** AI systems are unpredictable and hard to control, showing behaviors like deception and laziness. Companies like Anthropic work to guide AI safely, but society must set rules to prevent abuse, especially by powerful groups. Despite public concern, policymakers struggle to regulate AI because of its huge economic value.
 - [Why You Don't Need the Nuxt MCP When You Use Claude Code](https://alexop.dev/posts/why-you-dont-need-nuxt-mcp-claude-code/) 👤 Alexander Opalic 💬 1447 🔖 #llm, #try, #nuxt, #agents, #claude 🗓️ 2026-01-23
     > **Резюме:** Nuxt’s MCP server causes context bloat when used with AI, so the author prefers custom research agents that fetch up-to-date docs via llms.txt. These agents keep the main AI context clean by handling specific tasks separately and only loading minimal needed info. This method, used by Claude Code and the author’s Nuxt Content specialist agent, reduces token use while providing accurate, current guidance.
 - [Learn: Analyze Conversation for Documentation](https://alexop.dev/prompts/claude/claude-learn-command/) 👤 Alexander Opalic 💬 282 🔖 #llm, #claude, #agentskills 🗓️ 2026-01-23

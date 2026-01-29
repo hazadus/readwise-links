@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 2
+- Всего ссылок: 3
 
 ## Ссылки
 
+- [Ready, Fire, Aim!](https://codemanship.wordpress.com/2026/01/28/ready-fire-aim/) 👤 Codemanship's Blog 💬 1513 🔖 #tdd 🗓️ 2026-01-28
+    > **Резюме:** Test-driven development (TDD) means writing concrete example tests that describe what code should do before writing the code. This makes requirements visible, guides simple implementations, and ensures safe refactoring. Designing from user outcomes yields clearer, more useful code than coding first and testing later.
 - [The beautiful theory of TDD and the reality check of practice](https://www.bitecode.dev/p/the-beautiful-theory-of-tdd-and-the) 👤 Bite Code! 💬 2366 🔖 #tdd 🗓️ 2024-02-05
     > **Резюме:** TDD (Test-Driven Development) promises to make code more flexible, reliable, and with fewer side effects. However, the reality is that not everyone is capable of practicing TDD effectively. TDD requires experience, the ability to hold complex concepts in your head, and the knowledge of the solution to your problem. Additionally, not all problems are suited for testing, and the opportunity cost of committing to TDD upfront can be high. Ultimately, the decision to use TDD should be based on a cost/reward ratio and the specific needs of the project.
 - [Learn Go with Tests | Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests) 👤 quii.gitbook.io 💬 125 🔖 #go, #tdd, #testing 🗓️ 2024-09-30

@@ -1,9 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 57
+- Всего ссылок: 61
 
 ## Ссылки
 
+- [I left FAANG for a startup and regretted it](https://lawrenceztang.substack.com/p/i-left-faang-for-a-startup-and-regretted?utm_source=substack&utm_medium=email) 👤 Lawrence Tang 💬 1321 🔖 #joyandcuriosity 🗓️ 2026-01-28
+    > **Резюме:** The author left a comfortable job at Amazon for a startup but quickly realized it was a mistake. The startup's fast pace and culture did not fit him, and he was let go after only three weeks. This experience taught him valuable lessons about choosing work that truly fits his passion and strengths.
+- [Stay away from my trash!](https://tldraw.dev/blog/stay-away-from-my-trash?utm_source=substack&utm_medium=email) 👤 tldraw.dev 💬 1601 🔖 #github, #llm-devimpact, #joyandcuriosity 🗓️ 2026-01-28
+    > **Резюме:** AI tools make writing code very easy, so many low-quality pull requests flood open source projects. This causes maintainers to close outside contributions because reviewing bad code wastes time. The real value is in understanding problems and design, not just writing code, so maintainers prefer to handle coding themselves.
+- [/ Isometric NYC](https://cannoneyed.com/projects/isometric-nyc?utm_source=substack&utm_medium=email) 👤 cannoneyed.com 💬 3943 🔖 #joyandcuriosity 🗓️ 2026-01-28
+    > **Резюме:** The author used AI agents to help build a pixel art map of NYC with very little coding. Image generation models still struggle with mistakes and automation is hard. Despite challenges, AI tools make large creative projects possible and inspire hope for the future.
+- ["Is GitHub dead?"](https://x.com/thorstenball/status/2013619012932947993/?utm_medium=email&rw_tt_thread=True) 👤 Thorsten Ball 💬 37 🔖 #github, #llm-devimpact, #joyandcuriosity 🗓️ 2026-01-28
+    > **Резюме:** The author shares quick thoughts on whether GitHub is still relevant. They made a short video discussing the future of developer tools. A full transcript is also available online.
 - [Year in review: Limitless, Sesame, Claude Code, and more](https://paulstamatiou.com/2025-year-in-review?utm_source=substack&utm_medium=email) 👤 paulstamatiou.com 💬 8751 🔖 #joyandcuriosity 🗓️ 2026-01-19
     > **Резюме:** In 2025, Paul Stamatiou focused on designing and building simple, high-quality AI products that feel personal and useful. He left his startup role to join Sesame as Head of Design, working closely on software and hardware. He believes great design means thoughtful product building, not just flashy visuals or shortcuts with AI.
 - [Why We Built Our Own Background Agent](https://builders.ramp.com/post/why-we-built-our-background-agent?utm_source=substack&utm_medium=email) 👤 Zach Bruggeman, Jason Quense, Rahul Sengottuvelu 💬 2798 🔖 #joyandcuriosity 🗓️ 2026-01-19

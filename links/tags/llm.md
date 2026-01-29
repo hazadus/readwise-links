@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 358
+- Всего ссылок: 361
 
 ## Ссылки
 
+- [After two years of vibecoding, I'm back to writing by hand](https://atmoio.substack.com/p/after-two-years-of-vibecoding-im?utm_source=tldrdev) 👤 Mo 💬 713 🔖 #llm 🗓️ 2026-01-28
+    > **Резюме:** The author tried using AI to write code for two years but found the results messy and unreliable. AI-generated code looked good in parts but lacked overall structure and quality. Now, the author prefers writing code by hand because it is faster and more trustworthy.
+- [One Human + One Agent = One Browser From Scratch](https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/#atom-everything) 👤 Simon Willison 💬 260 🔖 #llm, #predictions 🗓️ 2026-01-28
+    > **Резюме:** A single coding agent built a basic web browser in just three days using 20,000 lines of Rust code. The browser can render HTML, CSS, and SVG images without external Rust libraries. This shows AI can help small teams create solid software quickly.
+- [The Adolescence of Technology](https://www.darioamodei.com/essay/the-adolescence-of-technology) 👤 darioamodei.com 💬 21664 🔖 #llm, #claude, #predictions 🗓️ 2026-01-27
+    > **Резюме:** AI systems are unpredictable and hard to control, showing behaviors like deception and laziness. Companies like Anthropic work to guide AI safely, but society must set rules to prevent abuse, especially by powerful groups. Despite public concern, policymakers struggle to regulate AI because of its huge economic value.
 - [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html) 👤 alexwennerberg.com 💬 1484 🔖 #llm, #llm-devimpact 🗓️ 2026-01-27
     > **Резюме:** AI makes it easy to create large amounts of low-quality software and content that focus on metrics, not craft. This trend harms creativity and deep skill in both music and software engineering. To improve, we need to value human craftsmanship and explore new ways of building software beyond current industrial methods.
 - [ChatGPT Containers can now run bash, pip/npm install packages, and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/#atom-everything) 👤 Simon Willison 💬 1334 🔖 #llm, #chatgpt 🗓️ 2026-01-27
@@ -62,7 +68,7 @@
     > **Резюме:** Simon Willison used AI tools to quickly port open source code and discussed the legal and ethical issues involved. He believes this approach is okay if licenses and credit are respected and the work is clearly labeled as experimental. He also thinks AI will change open source, helping some people contribute more but possibly reducing demand for some projects.
 - [Don't fall into the anti-AI hype](http://antirez.com/news/158) 👤 antirez.com 💬 1262 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
     > **Резюме:** AI is changing programming fast, making it easier to build complex software quickly. Programmers should embrace AI tools to improve their work instead of resisting the change. Society must also address job losses and support those affected by automation.
-- [LLM predictions for 2026, shared with Oxide and Friends](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-everything) 👤 Simon Willison 💬 1656 🔖 #llm, #predictions 🗓️ 2026-01-12
+- [LLM predictions for 2026, shared with Oxide and Friends](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-everything) 👤 Simon Willison 💬 1656 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-01-12
     > **Резюме:** Large language models (LLMs) will soon write very good code, changing how programmers work. New security and sandboxing solutions will make running code safer in the next year. In a few years, AI will help build complex software like web browsers, and typing code by hand will become rare.
 - [Eight Software Markets AI That Will Transform Differently](https://davegriffith.substack.com/p/eight-software-markets-ai-that-will) 👤 Dave Griffith 💬 2917 🔖 #llm 🗓️ 2026-01-12
     > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [Migrating From Celery to Django Tasks](https://paultraylor.net/blog/2026/migrating-from-celery-to-django-tasks/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_319) 👤 PaulTraylor.net 💬 467 🔖 #celery, #django 🗓️ 2026-01-10
+    > **Резюме:** Migrating from Celery to Django Tasks involves simple configuration changes and swapping Celery decorators for Django Task decorators. You configure settings.py by removing CELERY_ prefixes and adding django-tasks with a backend like the database backend. Periodic tasks can be managed using django-crontask, which offers easy scheduling with cron-like decorators.
 - [Running Background Tasks from Django Admin with Celery](https://testdriven.io/blog/django-admin-celery/) 👤 Nik Tomazic 💬 2182 🔖 #celery, #django 🗓️ 2025-04-10
     > **Резюме:** This tutorial teaches how to use Celery with Django to run background tasks efficiently. You will learn to set up Celery, create custom tasks, and trigger them from Django views and the admin interface. By the end, you'll be able to monitor task statuses directly in Django admin.
 - [FastAPI + Redis + Celery: Создание системы временного хранения файлов с автоудалением и удобным веб-интерфейсом](https://habr.com/ru/companies/amvera/articles/866200/) 👤 yakvenalex 💬 9460 🔖 #try, #celery, #python, #fastapi 🗓️ 2024-12-16
