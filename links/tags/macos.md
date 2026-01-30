@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [Clean install macOS](https://eclecticlight.co/2026/01/28/clean-install-macos/) 👤 The Eclectic Light Company 💬 1241 🔖 #macos 🗓️ 2026-01-29
+    > **Резюме:** To clean install macOS, first decide if you want to erase just user data, the system, or firmware. Use easy tools like EACAS or Recovery mode, and for deep cleaning on Apple silicon Macs, use DFU Restore with another Mac. Always back up your data before starting, especially if downgrading or wiping everything.
 - [Your App Subscription Is Now My Weekend Project](https://rselbach.com/your-sub-is-now-my-weekend-project?utm_source=tldrdev) 👤 Roberto Selbach 💬 419 🔖 #macos 🗓️ 2026-01-25
     > **Резюме:** The author stopped paying for small apps by quickly creating simple versions of them during weekends. These "vibecoded" apps work well enough for personal use but are not professional products. This shows a shift where easy-to-make apps replace costly subscriptions for individuals.
 - [How to tell where a file or folder is](https://eclecticlight.co/2026/01/23/how-to-tell-where-a-file-or-folder-is/) 👤 The Eclectic Light Company 💬 597 🔖 #macos 🗓️ 2026-01-24

@@ -1,11 +1,23 @@
 # Отложенные ссылки
 
-- Всего ссылок: 98
+- Всего ссылок: 104
 
 ## Ссылки
 
-- [Learn systems, not langauges](https://pthorpe92.dev/learn-systems/) 👤 pthorpe92.dev 💬 2025 🗓️ 2026-01-28
-    > **Резюме:** Focus on learning systems — how operating systems, networking, memory, and protocols work — not just languages or trendy frameworks. Build real low-level projects (servers, shells, allocators, emulators) to gain deep understanding. Use the CLI, learn your OS, and practice a lot; there are no shortcuts.
+- [Swimming Naked in AI-Generated Code](https://davegriffith.substack.com/p/swimming-naked-in-ai-generated-code) 👤 Dave Griffith 💬 2215 🗓️ 2026-01-29
+    > **Резюме:** AI helps developers write code faster but can cause confusion if they don't understand the code they create. Developers must explain and review AI-generated code carefully to stay oriented and responsible. True skill comes from using AI to learn, not just to get answers quickly.
+- [Pluralistic: Disenshittification Nation (29 Jan 2026)](https://pluralistic.net/2026/01/29/post-american-canada/) 👤 pluralistic.net 💬 7448 🗓️ 2026-01-29
+    > **Резюме:** Canada can make billions by legalizing jailbreaking and fixing defective American tech products. This will protect Canadian jobs, boost innovation, and challenge US Big Tech's control. Repealing restrictive laws will help Canada build a strong, independent digital future.
+- [How to Add a Quick Interactive Map to your Website](https://blog.miguelgrinberg.com/post/how-to-add-a-quick-interactive-map-to-your-website) 👤 Miguel Grinberg 💬 1127 🗓️ 2026-01-29
+    > **Резюме:** This article explains how to add a free interactive map to your website using just a few lines of HTML and JavaScript with the Leaflet library. It guides you through three simple steps: adding dependencies, placing a map element, and writing JavaScript to show the map with layers and markers. The author also shares a quick tip to find map coordinates using Google Maps.
+- [Writing Code May Be Dead (Not Really), But Reading Code Will Live On](https://codemanship.wordpress.com/2026/01/29/writing-code-may-be-dead-not-really-but-reading-code-will-live-on/) 👤 Codemanship's Blog 💬 518 🗓️ 2026-01-29
+    > **Резюме:** Writing code with AI is getting faster, but errors in AI-generated code mean we still need to read and understand it carefully. The best way to stay good at understanding code is to keep writing it regularly. If we don’t, serious bugs can slip through, and no one will know how to fix them.
+- [Книга «Go: разработка приложений в микросервисной архитектуре с нуля»](https://habr.com/ru/companies/bhv_publishing/articles/987722/#habracut) 👤 BHV_publishing 💬 624 🗓️ 2026-01-29
+    > **Резюме:** Книга Юлии Поповой рассказывает, как создавать микросервисы с нуля на языке Go. В ней подробно объясняются ключевые технологии, такие как Docker, Kubernetes, и базы данных. Это второе издание, обновлённое и адаптированное для современных разработчиков.
+- [The creator of Clawd: "I ship code I don't read"](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code) 👤 Gergely Orosz 💬 1589 🗓️ 2026-01-29
+    > **Резюме:** Peter Steinberger uses AI agents to build and ship software quickly, acting like a whole team by himself. He designs systems so AI can check and improve its own code without much human review. This new way of working focuses on outcomes and architecture, not on writing every line of code by hand.
+- [Clean install macOS](https://eclecticlight.co/2026/01/28/clean-install-macos/) 👤 The Eclectic Light Company 💬 1241 🔖 #macos 🗓️ 2026-01-29
+    > **Резюме:** To clean install macOS, first decide if you want to erase just user data, the system, or firmware. Use easy tools like EACAS or Recovery mode, and for deep cleaning on Apple silicon Macs, use DFU Restore with another Mac. Always back up your data before starting, especially if downgrading or wiping everything.
 - [Hashing](https://samwho.dev/hashing) 👤 Sam Rose 💬 3436 🗓️ 2026-01-28
     > **Резюме:** Hash functions turn inputs into numbers and help organize data efficiently. Good hash functions avoid collisions and spread outputs evenly to keep systems fast. They are important for tools like hash maps and use techniques like random seeds to stay secure.
 - [/ Isometric NYC](https://cannoneyed.com/projects/isometric-nyc?utm_source=substack&utm_medium=email) 👤 cannoneyed.com 💬 3943 🔖 #joyandcuriosity 🗓️ 2026-01-28

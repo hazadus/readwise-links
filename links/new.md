@@ -1,10 +1,9 @@
 # Новые ссылки
 
-- Всего ссылок: 887
+- Всего ссылок: 886
 
 ## Ссылки
 
-- [Working on databases from prison: How I got here, part 2.](https://turso.tech/blog/working-on-databases-from-prison) 👤 turso.tech 💬 1030 🗓️ 2026-01-28
 - [30+ Самых ожидаемых игр 2026 года I Битый Пиксель](https://www.youtube.com/watch?v=liGmkwyQfjY) 👤 Битый Пиксель 🗓️ 2026-01-24
 - [Django & HTMX - with Server-Sent Events (SSE)!](https://www.youtube.com/watch?v=9qwCc0FgPRg) 👤 BugBytes 🔖 #sse, #htmx, #django 🗓️ 2026-01-23
 - [Hidden Gems • The Applied Go Weekly Newsletter 2026-01-18](https://newsletter.appliedgo.net/archive/2026-01-18-hidden-gems/) 👤 The Applied Go Weekly Newsletter 💬 1112 🗓️ 2026-01-19

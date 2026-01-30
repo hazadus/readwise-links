@@ -1,10 +1,12 @@
 # Архивные ссылки
 
-- Всего ссылок: 1383
+- Всего ссылок: 1385
 
 ## Ссылки
 
+- [Working on databases from prison: How I got here, part 2.](https://turso.tech/blog/working-on-databases-from-prison) 👤 turso.tech 💬 1030 🗓️ 2026-01-28
 - [Ready, Fire, Aim!](https://codemanship.wordpress.com/2026/01/28/ready-fire-aim/) 👤 Codemanship's Blog 💬 1513 🔖 #tdd 🗓️ 2026-01-28
+- [Learn systems, not langauges](https://pthorpe92.dev/learn-systems/) 👤 pthorpe92.dev 💬 2025 🔖 #learning 🗓️ 2026-01-28
 - [© 2025 PThorpe92<preston@pthorpe92.dev>](https://pthorpe92.dev/intro/my-story/) 👤 pthorpe92.dev 💬 2469 🗓️ 2026-01-28
     > **Заметка:** Разработчик работает удаленно и пишет блог из тюрьмы. Dev from prison in Maine.
 - [I left FAANG for a startup and regretted it](https://lawrenceztang.substack.com/p/i-left-faang-for-a-startup-and-regretted?utm_source=substack&utm_medium=email) 👤 Lawrence Tang 💬 1321 🔖 #joyandcuriosity 🗓️ 2026-01-28

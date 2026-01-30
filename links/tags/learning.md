@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 30
+- Всего ссылок: 31
 
 ## Ссылки
 
+- [Learn systems, not langauges](https://pthorpe92.dev/learn-systems/) 👤 pthorpe92.dev 💬 2025 🔖 #learning 🗓️ 2026-01-28
+    > **Резюме:** Focus on learning systems — how operating systems, networking, memory, and protocols work — not just languages or trendy frameworks. Build real low-level projects (servers, shells, allocators, emulators) to gain deep understanding. Use the CLI, learn your OS, and practice a lot; there are no shortcuts.
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) 👤 Joel Spolsky 💬 2167 🔖 #classics, #learning 🗓️ 2026-01-18
     > **Резюме:** Abstractions hide complexity so we can work faster.  
 But all non-trivial abstractions leak, so hidden details sometimes break through.  
