@@ -1,9 +1,52 @@
 # Ссылки
 
-- Всего ссылок: 242
+- Всего ссылок: 243
 
 ## Ссылки
 
+- [Правда о go test -cover -race ./... (и не только)](https://youtube.com/watch?v=BDVSbr3wGYU&si=Kbrtx-qTB_OtuDNk) 👤 Куда войти? 🔖 #go, #testing 🗓️ 2026-01-30
+    > **Резюме:** Как работает go test? Подробно об этом и не только.
+
+Материал: https://github.com/IlyasYOY/go-test-internals-examples
+
+00:00:00 Начало  
+00:00:53 Формат видео  
+00:04:03 Знакомимся с проектом  
+00:08:00 Как запускаются тесты? (go test)  
+00:27:22 Как получить полный путь до файла с ошибкой? (fullpath)  
+00:34:02 Как тесты получают место ошибки?  
+00:40:06 Как сделать так, чтобы фикстуры не отображались в ошибках? (Helper)  
+00:46:59 Как запустить (пропусть) определенный тест? (run/skip)  
+01:02:50 Как получить список всех тестов в проекте? (list)  
+01:08:04 Как включить вывод тестов? (v)  
+01:28:11 Как тесты выполняются? (сгенерированный файл)  
+01:43:39 Почему не запускаются тесты одного файла? (синтетический пакет)  
+01:48:13 Почему при test выполняется vet?  
+01:53:39 Как посмотреть граф сборки? (undocumented-flag)  
+02:04:33 Как запустить только тесты? (c)  
+02:15:56 Как запускать ТОЛЬКО тесты N раз? (count)  
+02:21:41 Как падать при первой ошибке в тестах? (failfast)  
+02:28:07 Как работает cache тестов?  
+02:42:36 Как запустить код после теста? (cleanup)  
+02:52:31 Как запустить код перед всеми тестами? (TestMain)  
+03:03:49 Почему в TestMain нет флагов? (TestMain/flag.Parse)  
+03:07:35 Как явно передать аргументы тестам? (--)  
+03:12:48 Как передать дополнительные параметры, не меня команду запуска тестов? (GOFLAGS)  
+03:17:06 Как ограничить тесты по времени? (timeout)  
+03:24:34 Как пропустить тест? (skip)  
+03:27:54 Как запустить только быстрые тесты? (short)  
+03:30:47 Как запустить тесты в случайно порядке? (shuffle)  
+03:38:29 Как работают параллельные тесты? (p/parallel)  
+04:10:36 Как работает покрытие кода тестами? (cover)  
+04:35:30 Как тестировать многопоточный код?  
+04:42:10 Как запустить тесты на разных кол-вах CPU? (cpus)  
+04:43:32 Как работает flag -race  
+04:56:40 Где хранить данные для тестов? (testdata)  
+05:00:55 Почему тесты должны падать и главной горутины? (Goexit)  
+05:12:21 Выводы  
+
+
+Подписывайтесь на канал и на ссылке ниже, там о...
 - [Happy New Year (With Robotic Greetings) • The Applied Go Weekly Newsletter 2026-01-01](https://newsletter.appliedgo.net/archive/2026-01-01-happy-new-year-with-robotic-greetings/) 👤 The Applied Go Weekly Newsletter 💬 1448 🔖 #go 🗓️ 2026-01-04
     > **Резюме:** The newsletter wishes readers a happy 2026 and spotlights how Go and AI work well together. It lists Go tools and libraries for AI tasks like local LLM runtimes, agent frameworks, vector memory, and ML libraries. The author invites readers to explore these projects and offers Go learning resources.
 - [From Slow To Go • The Applied Go Weekly Newsletter 2025-12-07](https://newsletter.appliedgo.net/archive/2025-12-07-from-slow-to-go/) 👤 The Applied Go Weekly Newsletter 💬 591 🔖 #go 🗓️ 2025-12-08
