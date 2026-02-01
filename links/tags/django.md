@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 54
+- Всего ссылок: 55
 
 ## Ссылки
 
+- [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_322) 👤 Julia Evans 💬 1123 🔖 #django 🗓️ 2026-01-31
+    > **Резюме:** Julia Evans started learning Django and likes how clear and simple it feels compared to other frameworks. She enjoys Django’s built-in admin, ORM, and easy migrations that help manage her data and code. Although still new, she appreciates Django’s features and good documentation, making web development easier for her.
 - [Django & HTMX - with Server-Sent Events (SSE)!](https://www.youtube.com/watch?v=9qwCc0FgPRg) 👤 BugBytes 🔖 #sse, #htmx, #django 🗓️ 2026-01-23
     > **Резюме:** This video shows how to use Server-Sent Events (SSE) with Django and HTMX to update web pages automatically. It explains how to stream live data, like stock prices, from the server without refreshing the page. The tutorial includes code examples and tips for handling HTML updates using HTMX's SSE extension.
 - [Migrating From Celery to Django Tasks](https://paultraylor.net/blog/2026/migrating-from-celery-to-django-tasks/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_319) 👤 PaulTraylor.net 💬 467 🔖 #celery, #django 🗓️ 2026-01-10

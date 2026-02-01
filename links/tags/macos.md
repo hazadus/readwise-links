@@ -1,9 +1,19 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [macOS Tips](https://blog.xoria.org/macos-tips/) 👤 xoria.org 💬 2856 🔖 #macos 🗓️ 2026-01-31
+    > **Резюме:** macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.
+- [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/) 👤 xoria.org 💬 1305 🔖 #macos 🗓️ 2026-01-31
+    > **Резюме:** macOS uses quality of service (QoS) classes to prioritize work and save energy by adjusting CPU use. Programmers should assign proper QoS classes to threads and use Dispatch queues to handle task priorities safely. Avoid locks that don't support QoS inheritance to prevent performance issues and bugs.
+- [Cocoa Basics Part Two: Our First Window](https://blog.xoria.org/cocoa-basics-2/) 👤 xoria.org 💬 1587 🔖 #try, #cocoa, #macos 🗓️ 2026-01-31
+    > **Резюме:** This tutorial shows how to create and manage a basic Mac app window using Cocoa, including making it appear on startup and reopening it after closing. It explains how to center the window, save its size and position, and add a centered label using Auto Layout constraints. Finally, it covers important details like preventing window release on close and properly triggering layout updates before centering.
+- [Cocoa Basics Part One: The Application Structure](https://blog.xoria.org/cocoa-basics-1/) 👤 xoria.org 💬 1703 🔖 #try, #cocoa, #macos 🗓️ 2026-01-31
+    > **Резюме:** A Mac app is actually a folder called a bundle with a specific structure, including an executable file and an Info.plist metadata file. The app uses a delegate object to handle events, but this delegate must be strongly referenced to avoid it being deallocated. The article shows how to build, run, and manage a simple Mac app using Swift and explains key concepts like bundles, delegation, and memory management.
+- [Cocoa Basics Part Zero: Introduction](https://blog.xoria.org/cocoa-basics-0/) 👤 xoria.org 💬 375 🔖 #cocoa, #macos 🗓️ 2026-01-31
+    > **Резюме:** The author struggled to learn making Mac apps because most tutorials only show how, not why. They prefer coding from scratch without using Xcode or Interface Builder tools. This series aims to help readers understand app structure by writing simple code and exploring on their own.
 - [Clean install macOS](https://eclecticlight.co/2026/01/28/clean-install-macos/) 👤 The Eclectic Light Company 💬 1241 🔖 #macos 🗓️ 2026-01-29
     > **Резюме:** To clean install macOS, first decide if you want to erase just user data, the system, or firmware. Use easy tools like EACAS or Recovery mode, and for deep cleaning on Apple silicon Macs, use DFU Restore with another Mac. Always back up your data before starting, especially if downgrading or wiping everything.
 - [Your App Subscription Is Now My Weekend Project](https://rselbach.com/your-sub-is-now-my-weekend-project?utm_source=tldrdev) 👤 Roberto Selbach 💬 419 🔖 #macos 🗓️ 2026-01-25

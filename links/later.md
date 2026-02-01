@@ -1,9 +1,25 @@
 # Отложенные ссылки
 
-- Всего ссылок: 107
+- Всего ссылок: 115
 
 ## Ссылки
 
+- [macOS Tips](https://blog.xoria.org/macos-tips/) 👤 xoria.org 💬 2856 🔖 #macos 🗓️ 2026-01-31
+    > **Резюме:** macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.
+- [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/) 👤 xoria.org 💬 1305 🔖 #macos 🗓️ 2026-01-31
+    > **Резюме:** macOS uses quality of service (QoS) classes to prioritize work and save energy by adjusting CPU use. Programmers should assign proper QoS classes to threads and use Dispatch queues to handle task priorities safely. Avoid locks that don't support QoS inheritance to prevent performance issues and bugs.
+- [Mike Swanson's Blog](https://blog.mikeswanson.com/backseat-software/?utm_source=tldrdev) 👤 mikeswanson.com 💬 3620 🗓️ 2026-01-31
+    > **Резюме:** Modern software often interrupts users a lot because it tries to keep their attention and improve metrics. This can make software feel needy and less helpful instead of just a useful tool. We should build software that respects users' attention and only interrupts when truly necessary.
+- [The 80% Problem in Agentic Coding](https://addyo.substack.com/p/the-80-problem-in-agentic-coding?utm_source=tldrdev) 👤 Addy Osmani 💬 3508 🗓️ 2026-01-31
+    > **Резюме:** AI now writes most code, but humans must still carefully review and guide it. This shift changes engineers’ roles from coders to overseers and problem solvers. Success comes from using AI to learn and think deeply, not just to generate code fast.
+- [Your Life is the Sum Total of 2,000 Mondays](https://www.joanwestenberg.com/your-life-is-the-sum-total-of-2-000-mondays/?ref=westenberg-newsletter) 👤 Westenberg. 💬 1967 🗓️ 2026-01-31
+    > **Резюме:** Life is mostly made up of ordinary days like Mondays, not just exciting moments. Finding meaning means appreciating everyday life, not chasing rare peak experiences. Designing your daily routine with care helps you live fully and build who you want to be.
+- [A few random notes from claude coding quite a bit...](https://x.com/karpathy/status/2015883857489522876?utm_source=tldrdev) 👤 Andrej Karpathy 💬 1125 🔖 #claude 🗓️ 2026-01-31
+    > **Резюме:** Large language models like Claude have changed coding from mostly manual work to mostly agent-driven work in just weeks. These models make mistakes but greatly speed up and expand what programmers can do. This shift will transform software engineering and work in 2026 and beyond.
+- [How does AI impact skill formation?](https://seangoedecke.com/how-does-ai-impact-skill-formation/) 👤 seangoedecke.com 💬 1419 🗓️ 2026-01-31
+    > **Резюме:** A study found that using AI to write code can speed up work but may reduce how much you learn. People who retyped AI code did not get faster or learn more, but those who used AI smartly worked 25% faster with little loss in knowledge. Overall, AI helps deliver results quicker, but it may change how software engineers learn and work over time.
+- [Self-improving AI skills](https://dri.es/self-improving-ai-skills) 👤 Dries Buytaert 💬 298 🗓️ 2026-01-31
+    > **Резюме:** Moltbook is a social network where AI agents share and learn new skills from each other. These skills can improve themselves by copying and combining ideas from other agents. Although this is exciting, it also risks spreading harmful code if one skill is bad.
 - [Правда о go test -cover -race ./... (и не только)](https://youtube.com/watch?v=BDVSbr3wGYU&si=Kbrtx-qTB_OtuDNk) 👤 Куда войти? 🔖 #go, #testing 🗓️ 2026-01-30
     > **Резюме:** Как работает go test? Подробно об этом и не только.
 

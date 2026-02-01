@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 63
+- Всего ссылок: 65
 
 ## Ссылки
 
+- [Cocoa Basics Part Two: Our First Window](https://blog.xoria.org/cocoa-basics-2/) 👤 xoria.org 💬 1587 🔖 #try, #cocoa, #macos 🗓️ 2026-01-31
+    > **Резюме:** This tutorial shows how to create and manage a basic Mac app window using Cocoa, including making it appear on startup and reopening it after closing. It explains how to center the window, save its size and position, and add a centered label using Auto Layout constraints. Finally, it covers important details like preventing window release on close and properly triggering layout updates before centering.
+- [Cocoa Basics Part One: The Application Structure](https://blog.xoria.org/cocoa-basics-1/) 👤 xoria.org 💬 1703 🔖 #try, #cocoa, #macos 🗓️ 2026-01-31
+    > **Резюме:** A Mac app is actually a folder called a bundle with a specific structure, including an executable file and an Info.plist metadata file. The app uses a delegate object to handle events, but this delegate must be strongly referenced to avoid it being deallocated. The article shows how to build, run, and manage a simple Mac app using Swift and explains key concepts like bundles, delegation, and memory management.
 - [Why You Don't Need the Nuxt MCP When You Use Claude Code](https://alexop.dev/posts/why-you-dont-need-nuxt-mcp-claude-code/) 👤 Alexander Opalic 💬 1447 🔖 #llm, #try, #nuxt, #agents, #claude 🗓️ 2026-01-23
     > **Резюме:** Nuxt’s MCP server causes context bloat when used with AI, so the author prefers custom research agents that fetch up-to-date docs via llms.txt. These agents keep the main AI context clean by handling specific tasks separately and only loading minimal needed info. This method, used by Claude Code and the author’s Nuxt Content specialist agent, reduces token use while providing accurate, current guidance.
 - [Building an AI Interface for Your Second Brain](https://alexop.dev/posts/building-ai-interface-second-brain/) 👤 Alexander Opalic 💬 3269 🔖 #llm, #pkm, #try, #nuxt, #agents 🗓️ 2026-01-19
