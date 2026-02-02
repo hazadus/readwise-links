@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 115
+- Всего ссылок: 117
 
 ## Ссылки
 
+- [Local Notifications: Getting Started](https://www.kodeco.com/21458686-local-notifications-getting-started) 👤 vidhur 💬 1220 🔖 #macos 🗓️ 2026-02-01
+    > **Резюме:** Local notifications help remind users about tasks by showing alerts from the app itself. This tutorial teaches how to request permission, create, and schedule local notifications using different triggers. It uses the OrganizerPlus app to demonstrate managing notifications safely and effectively.
+- [Combine: Getting Started](https://www.kodeco.com/7864801-combine-getting-started/page/2?page=1#toc-anchor-001) 👤 fbrancati 💬 1016 🔖 #macos 🗓️ 2026-02-01
+    > **Резюме:** This text explains how to use Combine in Swift to download images and manage asynchronous events without closures. It shows how to combine multiple image downloads with the zip operator and update the UI on the main thread. It also demonstrates replacing a timer with Combine’s publisher to handle game scoring reactively.
 - [macOS Tips](https://blog.xoria.org/macos-tips/) 👤 xoria.org 💬 2856 🔖 #macos 🗓️ 2026-01-31
     > **Резюме:** macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.
 - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/) 👤 xoria.org 💬 1305 🔖 #macos 🗓️ 2026-01-31

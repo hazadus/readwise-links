@@ -1,5 +1,71 @@
 [
     {
+        "id": "01kgbzz6amvgcz2fjvazr0d7zh",
+        "url": "https://read.readwise.io/read/01kgbzz6amvgcz2fjvazr0d7zh",
+        "source_url": "https://www.kodeco.com/21458686-local-notifications-getting-started",
+        "title": "Local Notifications: Getting Started",
+        "author": "vidhur",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "later",
+        "tags": {
+            "macos": {
+                "name": "MacOS",
+                "type": "manual",
+                "created": 1769929161909
+            }
+        },
+        "site_name": "kodeco.com",
+        "word_count": 1220,
+        "notes": "",
+        "summary": "Local notifications help remind users about tasks by showing alerts from the app itself. This tutorial teaches how to request permission, create, and schedule local notifications using different triggers. It uses the OrganizerPlus app to demonstrate managing notifications safely and effectively.",
+        "image_url": "https://koenig-media.raywenderlich.com/uploads/2021/04/LocalNotificationsGettingStarted-twitter.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2021-05-17",
+        "created_at": "2026-02-01T06:59:12.869782+00:00",
+        "updated_at": "2026-02-01T06:59:21.913949+00:00",
+        "saved_at": "2026-02-01T06:59:12.852000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2026-02-01T06:59:15.073000+00:00"
+    },
+    {
+        "id": "01kgbzq824r3hb5kb9v0y7dg8w",
+        "url": "https://read.readwise.io/read/01kgbzq824r3hb5kb9v0y7dg8w",
+        "source_url": "https://www.kodeco.com/7864801-combine-getting-started/page/2?page=1#toc-anchor-001",
+        "title": "Combine: Getting Started",
+        "author": "fbrancati",
+        "source": "Reader Share Sheet iOS",
+        "category": "article",
+        "location": "later",
+        "tags": {
+            "macos": {
+                "name": "MacOS",
+                "type": "manual",
+                "created": 1769928906151
+            }
+        },
+        "site_name": "kodeco.com",
+        "word_count": 1016,
+        "notes": "",
+        "summary": "This text explains how to use Combine in Swift to download images and manage asynchronous events without closures. It shows how to combine multiple image downloads with the zip operator and update the UI on the main thread. It also demonstrates replacing a timer with Combine’s publisher to handle game scoring reactively.",
+        "image_url": "https://koenig-media.raywenderlich.com/uploads/2019/11/CombineGettingStarted-twitter.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2020-04-06",
+        "created_at": "2026-02-01T06:54:52.507728+00:00",
+        "updated_at": "2026-02-01T06:55:06.156112+00:00",
+        "saved_at": "2026-02-01T06:54:52.484000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2026-02-01T06:54:56.160000+00:00"
+    },
+    {
         "id": "01kgafx4271vdg3eqw50jk0jm8",
         "url": "https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8",
         "source_url": "https://blog.xoria.org/macos-tips/",
