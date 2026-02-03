@@ -1,13 +1,18 @@
 # Архивные ссылки
 
-- Всего ссылок: 1389
+- Всего ссылок: 1394
 
 ## Ссылки
 
+- [The AI-Ready Software Developer #11 – Staying Sharp](https://codemanship.wordpress.com/2025/10/27/the-ai-ready-software-developer-11-staying-sharp/) 👤 Codemanship's Blog 💬 633 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-02-02
 - [Cocoa Basics Part Two: Our First Window](https://blog.xoria.org/cocoa-basics-2/) 👤 xoria.org 💬 1587 🔖 #try, #cocoa, #macos 🗓️ 2026-01-31
 - [Cocoa Basics Part One: The Application Structure](https://blog.xoria.org/cocoa-basics-1/) 👤 xoria.org 💬 1703 🔖 #try, #cocoa, #macos 🗓️ 2026-01-31
 - [Cocoa Basics Part Zero: Introduction](https://blog.xoria.org/cocoa-basics-0/) 👤 xoria.org 💬 375 🔖 #cocoa, #macos 🗓️ 2026-01-31
+- [Mike Swanson's Blog](https://blog.mikeswanson.com/backseat-software/?utm_source=tldrdev) 👤 mikeswanson.com 💬 3620 🗓️ 2026-01-31
 - [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_322) 👤 Julia Evans 💬 1123 🔖 #django 🗓️ 2026-01-31
+- [Your Life is the Sum Total of 2,000 Mondays](https://www.joanwestenberg.com/your-life-is-the-sum-total-of-2-000-mondays/?ref=westenberg-newsletter) 👤 Westenberg. 💬 1967 🔖 #reflections 🗓️ 2026-01-31
+- [How does AI impact skill formation?](https://seangoedecke.com/how-does-ai-impact-skill-formation/) 👤 seangoedecke.com 💬 1419 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-31
+- [Writing Code May Be Dead (Not Really), But Reading Code Will Live On](https://codemanship.wordpress.com/2026/01/29/writing-code-may-be-dead-not-really-but-reading-code-will-live-on/) 👤 Codemanship's Blog 💬 518 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-29
 - [Working on databases from prison: How I got here, part 2.](https://turso.tech/blog/working-on-databases-from-prison) 👤 turso.tech 💬 1030 🗓️ 2026-01-28
 - [Ready, Fire, Aim!](https://codemanship.wordpress.com/2026/01/28/ready-fire-aim/) 👤 Codemanship's Blog 💬 1513 🔖 #tdd 🗓️ 2026-01-28
 - [Learn systems, not langauges](https://pthorpe92.dev/learn-systems/) 👤 pthorpe92.dev 💬 2025 🔖 #learning 🗓️ 2026-01-28

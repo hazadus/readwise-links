@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 31
+- Всего ссылок: 34
 
 ## Ссылки
 
+- [The AI-Ready Software Developer #11 – Staying Sharp](https://codemanship.wordpress.com/2025/10/27/the-ai-ready-software-developer-11-staying-sharp/) 👤 Codemanship's Blog 💬 633 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-02-02
+    > **Резюме:** Relying too much on AI coding assistants weakens developers’ ability to read, understand, and reason about code. Copying and pasting or accepting AI output without hands-on practice causes comprehension debt and skill atrophy. Developers—especially juniors—must write and study code regularly to stay sharp.
+- [How does AI impact skill formation?](https://seangoedecke.com/how-does-ai-impact-skill-formation/) 👤 seangoedecke.com 💬 1419 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-31
+    > **Резюме:** A study found that using AI to write code can speed up work but may reduce how much you learn. People who retyped AI code did not get faster or learn more, but those who used AI smartly worked 25% faster with little loss in knowledge. Overall, AI helps deliver results quicker, but it may change how software engineers learn and work over time.
+- [Writing Code May Be Dead (Not Really), But Reading Code Will Live On](https://codemanship.wordpress.com/2026/01/29/writing-code-may-be-dead-not-really-but-reading-code-will-live-on/) 👤 Codemanship's Blog 💬 518 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-29
+    > **Резюме:** Writing code with AI is getting faster, but errors in AI-generated code mean we still need to read and understand it carefully. The best way to stay good at understanding code is to keep writing it regularly. If we don’t, serious bugs can slip through, and no one will know how to fix them.
 - [Learn systems, not langauges](https://pthorpe92.dev/learn-systems/) 👤 pthorpe92.dev 💬 2025 🔖 #learning 🗓️ 2026-01-28
     > **Резюме:** Focus on learning systems — how operating systems, networking, memory, and protocols work — not just languages or trendy frameworks. Build real low-level projects (servers, shells, allocators, emulators) to gain deep understanding. Use the CLI, learn your OS, and practice a lot; there are no shortcuts.
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) 👤 Joel Spolsky 💬 2167 🔖 #classics, #learning 🗓️ 2026-01-18

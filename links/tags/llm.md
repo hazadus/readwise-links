@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 361
+- Всего ссылок: 364
 
 ## Ссылки
 
+- [The AI-Ready Software Developer #11 – Staying Sharp](https://codemanship.wordpress.com/2025/10/27/the-ai-ready-software-developer-11-staying-sharp/) 👤 Codemanship's Blog 💬 633 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-02-02
+    > **Резюме:** Relying too much on AI coding assistants weakens developers’ ability to read, understand, and reason about code. Copying and pasting or accepting AI output without hands-on practice causes comprehension debt and skill atrophy. Developers—especially juniors—must write and study code regularly to stay sharp.
+- [How does AI impact skill formation?](https://seangoedecke.com/how-does-ai-impact-skill-formation/) 👤 seangoedecke.com 💬 1419 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-31
+    > **Резюме:** A study found that using AI to write code can speed up work but may reduce how much you learn. People who retyped AI code did not get faster or learn more, but those who used AI smartly worked 25% faster with little loss in knowledge. Overall, AI helps deliver results quicker, but it may change how software engineers learn and work over time.
+- [Writing Code May Be Dead (Not Really), But Reading Code Will Live On](https://codemanship.wordpress.com/2026/01/29/writing-code-may-be-dead-not-really-but-reading-code-will-live-on/) 👤 Codemanship's Blog 💬 518 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-29
+    > **Резюме:** Writing code with AI is getting faster, but errors in AI-generated code mean we still need to read and understand it carefully. The best way to stay good at understanding code is to keep writing it regularly. If we don’t, serious bugs can slip through, and no one will know how to fix them.
 - [After two years of vibecoding, I'm back to writing by hand](https://atmoio.substack.com/p/after-two-years-of-vibecoding-im?utm_source=tldrdev) 👤 Mo 💬 713 🔖 #llm 🗓️ 2026-01-28
     > **Резюме:** The author tried using AI to write code for two years but found the results messy and unreliable. AI-generated code looked good in parts but lacked overall structure and quality. Now, the author prefers writing code by hand because it is faster and more trustworthy.
 - [One Human + One Agent = One Browser From Scratch](https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/#atom-everything) 👤 Simon Willison 💬 260 🔖 #llm, #predictions 🗓️ 2026-01-28

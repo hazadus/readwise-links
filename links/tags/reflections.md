@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [Your Life is the Sum Total of 2,000 Mondays](https://www.joanwestenberg.com/your-life-is-the-sum-total-of-2-000-mondays/?ref=westenberg-newsletter) 👤 Westenberg. 💬 1967 🔖 #reflections 🗓️ 2026-01-31
+    > **Резюме:** Life is mostly made up of ordinary days like Mondays, not just exciting moments. Finding meaning means appreciating everyday life, not chasing rare peak experiences. Designing your daily routine with care helps you live fully and build who you want to be.
 - [The secret to being happy in 2026? It’s far, far simpler than you think …](https://www.theguardian.com/lifeandstyle/2026/jan/03/secret-being-happy-2026-simpler-than-you-think) 👤 Oliver Burkeman 💬 1918 🔖 #reflections 🗓️ 2026-01-26
     > **Резюме:** In 2026, focus on doing what truly makes you happy instead of trying to fix yourself. Enjoying life more can improve your health, reduce stress, and help you feel alive. Life is for living now, not waiting until everything feels perfect.
 - [I'm addicted to being useful](https://seangoedecke.com/addicted-to-being-useful/) 👤 seangoedecke.com 💬 865 🔖 #reflections 🗓️ 2026-01-21
