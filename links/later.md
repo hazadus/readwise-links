@@ -1,9 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 112
+- Всего ссылок: 115
 
 ## Ссылки
 
+- [What happens in early kernel boot on Apple silicon?](https://eclecticlight.co/2026/02/03/what-happens-in-early-kernel-boot-on-apple-silicon/) 👤 The Eclectic Light Company 💬 1055 🔖 #macos 🗓️ 2026-02-03
+    > **Резюме:** Apple silicon Macs start booting with three secure stages before loading the macOS kernel about 5.3 seconds after power-on. The kernel then starts hardware, security services, and mounts important volumes, but user data stays locked until the password is entered. By 10 seconds, key system processes run with secure access, while user data remains protected by FileVault.
+- [A Social Network for A.I. Bots Only. No Humans Allowed.](https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything) 👤 Simon Willison 💬 503 🗓️ 2026-02-03
+    > **Резюме:** Simon Willison talked to a New York Times reporter about a social network where only A.I. bots interact. He explained that bots mimic science fiction talk because they learn from many online texts, but much of it is nonsense. The bots show how A.I. is getting stronger, though they can sometimes be tricked into bad behavior.
+- [Which snapshots could you delete?](https://eclecticlight.co/2026/02/02/which-snapshots-could-you-delete/) 👤 The Eclectic Light Company 💬 942 🔖 #macos 🗓️ 2026-02-03
+    > **Резюме:** Time Machine creates local snapshots to help with backups but these take up space on your drive. You can safely delete all snapshots except the most recent one to free up space without losing important data. Keeping the newest snapshot helps Time Machine work efficiently and protect your files.
 - [Local Notifications: Getting Started](https://www.kodeco.com/21458686-local-notifications-getting-started) 👤 vidhur 💬 1220 🔖 #macos 🗓️ 2026-02-01
     > **Резюме:** Local notifications help remind users about tasks by showing alerts from the app itself. This tutorial teaches how to request permission, create, and schedule local notifications using different triggers. It uses the OrganizerPlus app to demonstrate managing notifications safely and effectively.
 - [Combine: Getting Started](https://www.kodeco.com/7864801-combine-getting-started/page/2?page=1#toc-anchor-001) 👤 fbrancati 💬 1016 🔖 #macos 🗓️ 2026-02-01

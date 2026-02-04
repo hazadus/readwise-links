@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 16
+- Всего ссылок: 17
 
 ## Ссылки
 
+- [Why Am I Doing the Thinking for You?](https://terriblesoftware.org/2026/02/02/why-am-i-doing-the-thinking-for-you/) 👤 Terrible Software 💬 696 🔖 #soft skills, #communication 🗓️ 2026-02-03
+    > **Резюме:** When you ask “What do you think?” without sharing your own thoughts, you make others do all the thinking for you. Instead, share your opinion, reasons, and a clear next step to help decisions happen faster. It’s okay to be unsure—showing your position helps the team move forward.
 - [Is Critical Thinking the Most Important Skill for Software Engineers?](https://blog.pragmaticengineer.com/critical-thinking/) 👤 Gergely Orosz 💬 1887 🔖 #soft skills 🗓️ 2026-01-03
     > **Резюме:** Critical thinking is the most important skill for software engineers because it helps them question jargon, verify claims, and avoid blindly following "thought leaders."  
 Ask simple questions, un-jargon terms, and do your own research before adopting tools or ideas.  

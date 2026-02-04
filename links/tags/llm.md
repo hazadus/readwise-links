@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 364
+- Всего ссылок: 365
 
 ## Ссылки
 
+- [Am I Anti-AI? No. I’m Anti-Harm.](https://codemanship.wordpress.com/2026/02/02/am-i-anti-ai-no-im-anti-harm/) 👤 Codemanship's Blog 💬 382 🔖 #llm 🗓️ 2026-02-03
+    > **Резюме:** The author is not against AI but opposes its harmful uses like privacy invasion and environmental damage. They support small, ethical AI models controlled by communities and used responsibly by developers. Their vision is for AI to be democratic, useful, and socially responsible.
 - [The AI-Ready Software Developer #11 – Staying Sharp](https://codemanship.wordpress.com/2025/10/27/the-ai-ready-software-developer-11-staying-sharp/) 👤 Codemanship's Blog 💬 633 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-02-02
     > **Резюме:** Relying too much on AI coding assistants weakens developers’ ability to read, understand, and reason about code. Copying and pasting or accepting AI output without hands-on practice causes comprehension debt and skill atrophy. Developers—especially juniors—must write and study code regularly to stay sharp.
 - [How does AI impact skill formation?](https://seangoedecke.com/how-does-ai-impact-skill-formation/) 👤 seangoedecke.com 💬 1419 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-31

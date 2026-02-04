@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1394
+- Всего ссылок: 1396
 
 ## Ссылки
 
+- [Why Am I Doing the Thinking for You?](https://terriblesoftware.org/2026/02/02/why-am-i-doing-the-thinking-for-you/) 👤 Terrible Software 💬 696 🔖 #soft skills, #communication 🗓️ 2026-02-03
+- [Am I Anti-AI? No. I’m Anti-Harm.](https://codemanship.wordpress.com/2026/02/02/am-i-anti-ai-no-im-anti-harm/) 👤 Codemanship's Blog 💬 382 🔖 #llm 🗓️ 2026-02-03
 - [The AI-Ready Software Developer #11 – Staying Sharp](https://codemanship.wordpress.com/2025/10/27/the-ai-ready-software-developer-11-staying-sharp/) 👤 Codemanship's Blog 💬 633 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-02-02
 - [Cocoa Basics Part Two: Our First Window](https://blog.xoria.org/cocoa-basics-2/) 👤 xoria.org 💬 1587 🔖 #try, #cocoa, #macos 🗓️ 2026-01-31
 - [Cocoa Basics Part One: The Application Structure](https://blog.xoria.org/cocoa-basics-1/) 👤 xoria.org 💬 1703 🔖 #try, #cocoa, #macos 🗓️ 2026-01-31

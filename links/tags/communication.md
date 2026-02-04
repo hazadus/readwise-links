@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [Why Am I Doing the Thinking for You?](https://terriblesoftware.org/2026/02/02/why-am-i-doing-the-thinking-for-you/) 👤 Terrible Software 💬 696 🔖 #soft skills, #communication 🗓️ 2026-02-03
+    > **Резюме:** When you ask “What do you think?” without sharing your own thoughts, you make others do all the thinking for you. Instead, share your opinion, reasons, and a clear next step to help decisions happen faster. It’s okay to be unsure—showing your position helps the team move forward.
 - [How I provide technical clarity to non-technical leaders](https://seangoedecke.com/clarity/) 👤 seangoedecke.com 💬 2181 🔖 #soft skills, #communication 🗓️ 2025-10-12
     > **Резюме:** My job as a staff engineer is to give non-technical leaders a clear, practical understanding of our software.  
 That means simplifying complex tradeoffs, saying what’s possible, impossible, and risky, and keeping needless technical caveats to myself.  
