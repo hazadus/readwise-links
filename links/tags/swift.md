@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [Rust is bottom-up, Swift is top-down.](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust?utm_source=tldrdev) 👤 nmn.sh 💬 1633 🔖 #rust, #swift 🗓️ 2026-02-04
+    > **Резюме:** Rust is a low-level, fast language that starts with manual memory control and lets you build up. Swift is a high-level, easier language that starts with simple value types and lets you go lower when needed. Both share similar features, but Rust is better for systems programming, while Swift is better for apps and servers, and is now truly cross-platform.
 - [WWDC24: Meet the Translation API | Apple](https://www.youtube.com/watch?v=MuIFhbHNmqA) 👤 Apple Developer 🔖 #macos, #swift 🗓️ 2026-01-16
     > **Резюме:** Apple's new Translation API helps apps translate text easily using machine learning. Developers can add simple translation overlays or use flexible tools for more control. This feature works system-wide and supports many languages, improving how users understand content in different languages.
 - [The Unbearable Frustration of Figuring Out APIs](https://blog.ar-ms.me/thoughts/translation-cli/?utm_source=tldrdev) 👤 ar-ms.me 💬 2351 🔖 #macos, #swift 🗓️ 2026-01-16

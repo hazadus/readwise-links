@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 243
+- Всего ссылок: 244
 
 ## Ссылки
 
@@ -47,6 +47,8 @@
 
 
 Подписывайтесь на канал и на ссылке ниже, там о...
+- [Книга «Go: разработка приложений в микросервисной архитектуре с нуля»](https://habr.com/ru/companies/bhv_publishing/articles/987722/#habracut) 👤 BHV_publishing 💬 624 🔖 #go, #book, #microservices 🗓️ 2026-01-29
+    > **Резюме:** Книга Юлии Поповой рассказывает, как создавать микросервисы с нуля на языке Go. В ней подробно объясняются ключевые технологии, такие как Docker, Kubernetes, и базы данных. Это второе издание, обновлённое и адаптированное для современных разработчиков.
 - [Happy New Year (With Robotic Greetings) • The Applied Go Weekly Newsletter 2026-01-01](https://newsletter.appliedgo.net/archive/2026-01-01-happy-new-year-with-robotic-greetings/) 👤 The Applied Go Weekly Newsletter 💬 1448 🔖 #go 🗓️ 2026-01-04
     > **Резюме:** The newsletter wishes readers a happy 2026 and spotlights how Go and AI work well together. It lists Go tools and libraries for AI tasks like local LLM runtimes, agent frameworks, vector memory, and ML libraries. The author invites readers to explore these projects and offers Go learning resources.
 - [From Slow To Go • The Applied Go Weekly Newsletter 2025-12-07](https://newsletter.appliedgo.net/archive/2025-12-07-from-slow-to-go/) 👤 The Applied Go Weekly Newsletter 💬 591 🔖 #go 🗓️ 2025-12-08

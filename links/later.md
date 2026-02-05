@@ -1,13 +1,17 @@
 # Отложенные ссылки
 
-- Всего ссылок: 115
+- Всего ссылок: 112
 
 ## Ссылки
 
+- [A Step Behind the Bleeding Edge: Monarch’s Philosophy on AI in Dev](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/?utm_source=tldrdev) 👤 Somehow Manage 💬 1635 🔖 #llm 🗓️ 2026-02-04
+    > **Резюме:** Monarch uses AI carefully, staying just behind the newest tools to keep quality and security strong. Engineers must always own and check their work, even if AI helps create it. AI is a tool for saving time on simple tasks, but deep thinking and creativity still come from people.
+- [Rust is bottom-up, Swift is top-down.](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust?utm_source=tldrdev) 👤 nmn.sh 💬 1633 🔖 #rust, #swift 🗓️ 2026-02-04
+    > **Резюме:** Rust is a low-level, fast language that starts with manual memory control and lets you build up. Swift is a high-level, easier language that starts with simple value types and lets you go lower when needed. Both share similar features, but Rust is better for systems programming, while Swift is better for apps and servers, and is now truly cross-platform.
+- [The Coherence Premium](https://www.joanwestenberg.com/the-coherence-premium/?ref=westenberg-newsletter) 👤 Westenberg. 💬 3708 🗓️ 2026-02-04
+    > **Резюме:** AI tools help solo workers scale output while keeping consistent understanding. Large organizations struggle with coordination because AI amplifies different perspectives, causing incoherence. True advantage comes from clear, shared models that guide AI within a single, coherent mindset.
 - [What happens in early kernel boot on Apple silicon?](https://eclecticlight.co/2026/02/03/what-happens-in-early-kernel-boot-on-apple-silicon/) 👤 The Eclectic Light Company 💬 1055 🔖 #macos 🗓️ 2026-02-03
     > **Резюме:** Apple silicon Macs start booting with three secure stages before loading the macOS kernel about 5.3 seconds after power-on. The kernel then starts hardware, security services, and mounts important volumes, but user data stays locked until the password is entered. By 10 seconds, key system processes run with secure access, while user data remains protected by FileVault.
-- [A Social Network for A.I. Bots Only. No Humans Allowed.](https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything) 👤 Simon Willison 💬 503 🗓️ 2026-02-03
-    > **Резюме:** Simon Willison talked to a New York Times reporter about a social network where only A.I. bots interact. He explained that bots mimic science fiction talk because they learn from many online texts, but much of it is nonsense. The bots show how A.I. is getting stronger, though they can sometimes be tricked into bad behavior.
 - [Which snapshots could you delete?](https://eclecticlight.co/2026/02/02/which-snapshots-could-you-delete/) 👤 The Eclectic Light Company 💬 942 🔖 #macos 🗓️ 2026-02-03
     > **Резюме:** Time Machine creates local snapshots to help with backups but these take up space on your drive. You can safely delete all snapshots except the most recent one to free up space without losing important data. Keeping the newest snapshot helps Time Machine work efficiently and protect your files.
 - [Local Notifications: Getting Started](https://www.kodeco.com/21458686-local-notifications-getting-started) 👤 vidhur 💬 1220 🔖 #macos 🗓️ 2026-02-01
@@ -20,63 +24,14 @@
     > **Резюме:** macOS uses quality of service (QoS) classes to prioritize work and save energy by adjusting CPU use. Programmers should assign proper QoS classes to threads and use Dispatch queues to handle task priorities safely. Avoid locks that don't support QoS inheritance to prevent performance issues and bugs.
 - [The 80% Problem in Agentic Coding](https://addyo.substack.com/p/the-80-problem-in-agentic-coding?utm_source=tldrdev) 👤 Addy Osmani 💬 3508 🗓️ 2026-01-31
     > **Резюме:** AI now writes most code, but humans must still carefully review and guide it. This shift changes engineers’ roles from coders to overseers and problem solvers. Success comes from using AI to learn and think deeply, not just to generate code fast.
-- [A few random notes from claude coding quite a bit...](https://x.com/karpathy/status/2015883857489522876?utm_source=tldrdev) 👤 Andrej Karpathy 💬 1125 🔖 #claude 🗓️ 2026-01-31
-    > **Резюме:** Large language models like Claude have changed coding from mostly manual work to mostly agent-driven work in just weeks. These models make mistakes but greatly speed up and expand what programmers can do. This shift will transform software engineering and work in 2026 and beyond.
 - [Self-improving AI skills](https://dri.es/self-improving-ai-skills) 👤 Dries Buytaert 💬 298 🗓️ 2026-01-31
     > **Резюме:** Moltbook is a social network where AI agents share and learn new skills from each other. These skills can improve themselves by copying and combining ideas from other agents. Although this is exciting, it also risks spreading harmful code if one skill is bad.
-- [Правда о go test -cover -race ./... (и не только)](https://youtube.com/watch?v=BDVSbr3wGYU&si=Kbrtx-qTB_OtuDNk) 👤 Куда войти? 🔖 #go, #testing 🗓️ 2026-01-30
-    > **Резюме:** Как работает go test? Подробно об этом и не только.
-
-Материал: https://github.com/IlyasYOY/go-test-internals-examples
-
-00:00:00 Начало  
-00:00:53 Формат видео  
-00:04:03 Знакомимся с проектом  
-00:08:00 Как запускаются тесты? (go test)  
-00:27:22 Как получить полный путь до файла с ошибкой? (fullpath)  
-00:34:02 Как тесты получают место ошибки?  
-00:40:06 Как сделать так, чтобы фикстуры не отображались в ошибках? (Helper)  
-00:46:59 Как запустить (пропусть) определенный тест? (run/skip)  
-01:02:50 Как получить список всех тестов в проекте? (list)  
-01:08:04 Как включить вывод тестов? (v)  
-01:28:11 Как тесты выполняются? (сгенерированный файл)  
-01:43:39 Почему не запускаются тесты одного файла? (синтетический пакет)  
-01:48:13 Почему при test выполняется vet?  
-01:53:39 Как посмотреть граф сборки? (undocumented-flag)  
-02:04:33 Как запустить только тесты? (c)  
-02:15:56 Как запускать ТОЛЬКО тесты N раз? (count)  
-02:21:41 Как падать при первой ошибке в тестах? (failfast)  
-02:28:07 Как работает cache тестов?  
-02:42:36 Как запустить код после теста? (cleanup)  
-02:52:31 Как запустить код перед всеми тестами? (TestMain)  
-03:03:49 Почему в TestMain нет флагов? (TestMain/flag.Parse)  
-03:07:35 Как явно передать аргументы тестам? (--)  
-03:12:48 Как передать дополнительные параметры, не меня команду запуска тестов? (GOFLAGS)  
-03:17:06 Как ограничить тесты по времени? (timeout)  
-03:24:34 Как пропустить тест? (skip)  
-03:27:54 Как запустить только быстрые тесты? (short)  
-03:30:47 Как запустить тесты в случайно порядке? (shuffle)  
-03:38:29 Как работают параллельные тесты? (p/parallel)  
-04:10:36 Как работает покрытие кода тестами? (cover)  
-04:35:30 Как тестировать многопоточный код?  
-04:42:10 Как запустить тесты на разных кол-вах CPU? (cpus)  
-04:43:32 Как работает flag -race  
-04:56:40 Где хранить данные для тестов? (testdata)  
-05:00:55 Почему тесты должны падать и главной горутины? (Goexit)  
-05:12:21 Выводы  
-
-
-Подписывайтесь на канал и на ссылке ниже, там о...
-- [Moltbook is the most interesting place on the internet right now](https://simonwillison.net/2026/Jan/30/moltbook/#atom-everything) 👤 Simon Willison 💬 1092 🗓️ 2026-01-30
-    > **Резюме:** Moltbook is a new social network where AI assistants talk to each other using shared skills. People are excited about OpenClaw, the AI assistant behind Moltbook, but it has serious safety risks. Many hope for a safer version soon because the demand for powerful AI helpers is growing fast.
 - [AI creates asymmetric pressure on Open Source](https://dri.es/ai-creates-asymmetric-pressure-on-open-source) 👤 Dries Buytaert 💬 1591 🗓️ 2026-01-30
     > **Резюме:** AI makes it easier to contribute to Open Source but creates more work for maintainers who must check quality. Some projects, like curl, face many low-value AI-generated reports, causing stress and burnout. With care and testing, AI can help maintainers, but protecting them is the top priority.
 - [Swimming Naked in AI-Generated Code](https://davegriffith.substack.com/p/swimming-naked-in-ai-generated-code) 👤 Dave Griffith 💬 2215 🗓️ 2026-01-29
     > **Резюме:** AI helps developers write code faster but can cause confusion if they don't understand the code they create. Developers must explain and review AI-generated code carefully to stay oriented and responsible. True skill comes from using AI to learn, not just to get answers quickly.
 - [How to Add a Quick Interactive Map to your Website](https://blog.miguelgrinberg.com/post/how-to-add-a-quick-interactive-map-to-your-website) 👤 Miguel Grinberg 💬 1127 🗓️ 2026-01-29
     > **Резюме:** This article explains how to add a free interactive map to your website using just a few lines of HTML and JavaScript with the Leaflet library. It guides you through three simple steps: adding dependencies, placing a map element, and writing JavaScript to show the map with layers and markers. The author also shares a quick tip to find map coordinates using Google Maps.
-- [Книга «Go: разработка приложений в микросервисной архитектуре с нуля»](https://habr.com/ru/companies/bhv_publishing/articles/987722/#habracut) 👤 BHV_publishing 💬 624 🗓️ 2026-01-29
-    > **Резюме:** Книга Юлии Поповой рассказывает, как создавать микросервисы с нуля на языке Go. В ней подробно объясняются ключевые технологии, такие как Docker, Kubernetes, и базы данных. Это второе издание, обновлённое и адаптированное для современных разработчиков.
 - [The creator of Clawd: "I ship code I don't read"](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code) 👤 Gergely Orosz 💬 1589 🗓️ 2026-01-29
     > **Резюме:** Peter Steinberger uses AI agents to build and ship software quickly, acting like a whole team by himself. He designs systems so AI can check and improve its own code without much human review. This new way of working focuses on outcomes and architecture, not on writing every line of code by hand.
 - [Clean install macOS](https://eclecticlight.co/2026/01/28/clean-install-macos/) 👤 The Eclectic Light Company 💬 1241 🔖 #macos 🗓️ 2026-01-29
@@ -125,10 +80,6 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
 - [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/) 👤 Harper Reed <harper@modest.com> 💬 1923 🗓️ 2026-01-06
     > **Резюме:** Harper Reed explains how he uses SSH and Tailscale to run Claude Code from his phone. He recommends a simple stack: Tailscale for networking, a reliable terminal app, and tools like mosh, SSH keys, and TMUX. With that setup you can run multiple Claude Code instances on your workstation and reconnect from your phone without losing work.
-- [How To Argue With Me About AI, If You Must](https://blog.glyph.im/2026/01/how-to-argue-with-me-about-ai.html) 👤 Glyph Lefkowitz 💬 943 🗓️ 2026-01-06
-    > **Резюме:** Glyph Lefkowitz lays out personal rules for anyone who wants to argue with him about LLMs and AI.  
-He asks people not to offer trivial fixes, cite hype, or ignore ethics, and to provide measured, reflective evidence when they share anecdotes.  
-If people ignore these rules he will block them to avoid unproductive fights.
 - [From Senior Engineer to Staff, with Angelic Assistance](https://davegriffith.substack.com/p/from-senior-engineer-to-staff-with) 👤 Dave Griffith 💬 1460 🗓️ 2026-01-06
     > **Резюме:** Dave Griffith argues that moving from senior to staff engineer requires three deliberate skills: deep expertise, visible impact, and intentional planning. Agentic AI tools now let engineers learn far faster, produce clearer evidence of their work, and build smarter promotion plans. He’s testing this playbook in real time and will share practical tactics in a series of posts.
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) 👤 Nikita Prokopov 💬 2754 🗓️ 2026-01-06

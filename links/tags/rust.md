@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 23
+- Всего ссылок: 24
 
 ## Ссылки
 
+- [Rust is bottom-up, Swift is top-down.](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust?utm_source=tldrdev) 👤 nmn.sh 💬 1633 🔖 #rust, #swift 🗓️ 2026-02-04
+    > **Резюме:** Rust is a low-level, fast language that starts with manual memory control and lets you build up. Swift is a high-level, easier language that starts with simple value types and lets you go lower when needed. Both share similar features, but Rust is better for systems programming, while Swift is better for apps and servers, and is now truly cross-platform.
 - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/) 👤 sinclairtarget.com 💬 2031 🔖 #go, #zig, #rust 🗓️ 2025-12-05
     > **Резюме:** Go is minimal and stable, trading features for simplicity and readability. Rust is feature-rich and complex, aiming for safety and high performance with strict compile-time guarantees. Zig is experimental and manual, favoring explicit memory control and data-oriented design over OO patterns.
 - [Are We Chasing Language Hype Over Solving Real Problems?](https://dayvster.com/blog/are-we-chasing-language-hype-over-solving-real-problems) 👤 Dayvi Schuster 💬 1839 🔖 #rust 🗓️ 2025-09-29

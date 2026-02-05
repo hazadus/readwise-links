@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 34
+- Всего ссылок: 35
 
 ## Ссылки
 
+- [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html?utm_source=tldrdev) 👤 Erik Johannes Husom 💬 3535 🔖 #llm, #learning 🗓️ 2026-02-04
+    > **Резюме:** Outsourcing thinking to AI can help with some tasks but may harm important mental skills we need. We must be careful about which thinking we let machines do, especially for personal communication and learning. How we use AI affects not just efficiency, but also our lives and society.
 - [The AI-Ready Software Developer #11 – Staying Sharp](https://codemanship.wordpress.com/2025/10/27/the-ai-ready-software-developer-11-staying-sharp/) 👤 Codemanship's Blog 💬 633 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-02-02
     > **Резюме:** Relying too much on AI coding assistants weakens developers’ ability to read, understand, and reason about code. Copying and pasting or accepting AI output without hands-on practice causes comprehension debt and skill atrophy. Developers—especially juniors—must write and study code regularly to stay sharp.
 - [How does AI impact skill formation?](https://seangoedecke.com/how-does-ai-impact-skill-formation/) 👤 seangoedecke.com 💬 1419 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-31

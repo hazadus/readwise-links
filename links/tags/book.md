@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 30
+- Всего ссылок: 31
 
 ## Ссылки
 
+- [Книга «Go: разработка приложений в микросервисной архитектуре с нуля»](https://habr.com/ru/companies/bhv_publishing/articles/987722/#habracut) 👤 BHV_publishing 💬 624 🔖 #go, #book, #microservices 🗓️ 2026-01-29
+    > **Резюме:** Книга Юлии Поповой рассказывает, как создавать микросервисы с нуля на языке Go. В ней подробно объясняются ключевые технологии, такие как Docker, Kubernetes, и базы данных. Это второе издание, обновлённое и адаптированное для современных разработчиков.
 - [The Nature Of Software Development](https://readwise.io/reader/document_raw_content/282158585) 👤 Ron Jeffries, Michael Swaine 💬 24194 🔖 #book, #joyandcuriosity 🗓️ 2025-08-26
     > **Резюме:** Software development is done feature by feature, allowing for early delivery of value. Teams discuss and prioritize high-value features to ensure effective use of time and resources. This iterative approach leads to continuous improvement and a better final product.
 - [Getting Real](http://gettingreal.37signals.com/) 👤 basecamp.com 💬 426 🔖 #book 🗓️ 2025-07-24

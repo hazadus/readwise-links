@@ -1,13 +1,21 @@
 # Ссылки
 
-- Всего ссылок: 365
+- Всего ссылок: 369
 
 ## Ссылки
 
+- [A Step Behind the Bleeding Edge: Monarch’s Philosophy on AI in Dev](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/?utm_source=tldrdev) 👤 Somehow Manage 💬 1635 🔖 #llm 🗓️ 2026-02-04
+    > **Резюме:** Monarch uses AI carefully, staying just behind the newest tools to keep quality and security strong. Engineers must always own and check their work, even if AI helps create it. AI is a tool for saving time on simple tasks, but deep thinking and creativity still come from people.
+- [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html?utm_source=tldrdev) 👤 Erik Johannes Husom 💬 3535 🔖 #llm, #learning 🗓️ 2026-02-04
+    > **Резюме:** Outsourcing thinking to AI can help with some tasks but may harm important mental skills we need. We must be careful about which thinking we let machines do, especially for personal communication and learning. How we use AI affects not just efficiency, but also our lives and society.
+- [A Social Network for A.I. Bots Only. No Humans Allowed.](https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything) 👤 Simon Willison 💬 503 🔖 #llm 🗓️ 2026-02-03
+    > **Резюме:** Simon Willison talked to a New York Times reporter about a social network where only A.I. bots interact. He explained that bots mimic science fiction talk because they learn from many online texts, but much of it is nonsense. The bots show how A.I. is getting stronger, though they can sometimes be tricked into bad behavior.
 - [Am I Anti-AI? No. I’m Anti-Harm.](https://codemanship.wordpress.com/2026/02/02/am-i-anti-ai-no-im-anti-harm/) 👤 Codemanship's Blog 💬 382 🔖 #llm 🗓️ 2026-02-03
     > **Резюме:** The author is not against AI but opposes its harmful uses like privacy invasion and environmental damage. They support small, ethical AI models controlled by communities and used responsibly by developers. Their vision is for AI to be democratic, useful, and socially responsible.
 - [The AI-Ready Software Developer #11 – Staying Sharp](https://codemanship.wordpress.com/2025/10/27/the-ai-ready-software-developer-11-staying-sharp/) 👤 Codemanship's Blog 💬 633 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-02-02
     > **Резюме:** Relying too much on AI coding assistants weakens developers’ ability to read, understand, and reason about code. Copying and pasting or accepting AI output without hands-on practice causes comprehension debt and skill atrophy. Developers—especially juniors—must write and study code regularly to stay sharp.
+- [A few random notes from claude coding quite a bit...](https://x.com/karpathy/status/2015883857489522876?utm_source=tldrdev) 👤 Andrej Karpathy 💬 1125 🔖 #llm, #claude, #llm-devimpact 🗓️ 2026-01-31
+    > **Резюме:** Large language models like Claude have changed coding from mostly manual work to mostly agent-driven work in just weeks. These models make mistakes but greatly speed up and expand what programmers can do. This shift will transform software engineering and work in 2026 and beyond.
 - [How does AI impact skill formation?](https://seangoedecke.com/how-does-ai-impact-skill-formation/) 👤 seangoedecke.com 💬 1419 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-31
     > **Резюме:** A study found that using AI to write code can speed up work but may reduce how much you learn. People who retyped AI code did not get faster or learn more, but those who used AI smartly worked 25% faster with little loss in knowledge. Overall, AI helps deliver results quicker, but it may change how software engineers learn and work over time.
 - [Writing Code May Be Dead (Not Really), But Reading Code Will Live On](https://codemanship.wordpress.com/2026/01/29/writing-code-may-be-dead-not-really-but-reading-code-will-live-on/) 👤 Codemanship's Blog 💬 518 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-29

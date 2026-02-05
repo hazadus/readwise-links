@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 38
+- Всего ссылок: 39
 
 ## Ссылки
 
 - [The AI-Ready Software Developer #11 – Staying Sharp](https://codemanship.wordpress.com/2025/10/27/the-ai-ready-software-developer-11-staying-sharp/) 👤 Codemanship's Blog 💬 633 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-02-02
     > **Резюме:** Relying too much on AI coding assistants weakens developers’ ability to read, understand, and reason about code. Copying and pasting or accepting AI output without hands-on practice causes comprehension debt and skill atrophy. Developers—especially juniors—must write and study code regularly to stay sharp.
+- [A few random notes from claude coding quite a bit...](https://x.com/karpathy/status/2015883857489522876?utm_source=tldrdev) 👤 Andrej Karpathy 💬 1125 🔖 #llm, #claude, #llm-devimpact 🗓️ 2026-01-31
+    > **Резюме:** Large language models like Claude have changed coding from mostly manual work to mostly agent-driven work in just weeks. These models make mistakes but greatly speed up and expand what programmers can do. This shift will transform software engineering and work in 2026 and beyond.
 - [How does AI impact skill formation?](https://seangoedecke.com/how-does-ai-impact-skill-formation/) 👤 seangoedecke.com 💬 1419 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-31
     > **Резюме:** A study found that using AI to write code can speed up work but may reduce how much you learn. People who retyped AI code did not get faster or learn more, but those who used AI smartly worked 25% faster with little loss in knowledge. Overall, AI helps deliver results quicker, but it may change how software engineers learn and work over time.
 - [Writing Code May Be Dead (Not Really), But Reading Code Will Live On](https://codemanship.wordpress.com/2026/01/29/writing-code-may-be-dead-not-really-but-reading-code-will-live-on/) 👤 Codemanship's Blog 💬 518 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-29

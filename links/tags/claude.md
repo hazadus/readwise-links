@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [A few random notes from claude coding quite a bit...](https://x.com/karpathy/status/2015883857489522876?utm_source=tldrdev) 👤 Andrej Karpathy 💬 1125 🔖 #claude 🗓️ 2026-01-31
+- [A few random notes from claude coding quite a bit...](https://x.com/karpathy/status/2015883857489522876?utm_source=tldrdev) 👤 Andrej Karpathy 💬 1125 🔖 #llm, #claude, #llm-devimpact 🗓️ 2026-01-31
     > **Резюме:** Large language models like Claude have changed coding from mostly manual work to mostly agent-driven work in just weeks. These models make mistakes but greatly speed up and expand what programmers can do. This shift will transform software engineering and work in 2026 and beyond.
 - [If Anthropic Succeeds, a Nation of Benevolent AI Geniuses Could Be Born](https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/) 👤 Steven Levy 💬 5456 🔖 #claude 🗓️ 2026-01-28
     > **Резюме:** Anthropic is building a safer and smarter AI called Claude that can help humans. The company focuses on making AI ethical and aligned with human values. They believe powerful AI could change the world but must be developed carefully to avoid risks.
