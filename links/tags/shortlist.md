@@ -1,0 +1,34 @@
+# Шортлист ссылок
+
+- Всего ссылок: 9
+
+## Ссылки
+
+- [Technical blogging lessons learned](https://writethatblog.substack.com/p/technical-blogging-lessons-learned?utm_source=tldrdev) 👤 Cynthia Dunlop 💬 2540 🔖 #writing, #shortlist 🗓️ 2026-01-13
+    > **Резюме:** Writing regularly helps overcome doubts and improves skills over time. Focus on topics that interest you and your audience, even if others have written about them. Use simple tools, be honest, and don’t worry about perfection or criticism.
+- [The Next Thing Will Not Be Big](https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html?utm_source=tldrdev) 👤 Glyph Lefkowitz 💬 2638 🔖 #shortlist 🗓️ 2026-01-10
+    > **Резюме:** Technology’s fastest, life-changing waves (like the Internet and smartphones) were a rare anomaly and are unlikely to repeat.  
+Future tech will keep advancing, but mostly in smaller, niche ways that won’t remake society or create another Apple/Google.  
+Open source maintainers should focus on practical, small- to medium-scale projects that serve real users and resist “scale creep.”
+- [The Pragmatic Engineer in 2025](https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-in-2025) 👤 Gergely Orosz 💬 2185 🔖 #shortlist 🗓️ 2025-12-24
+    > **Резюме:** In 2025, AI greatly changed software engineering and the tech job market stayed tough. The Pragmatic Engineer shared 134 newsletters and many podcast episodes about these trends and real-world challenges. The author thanked subscribers and promised more helpful content in 2026.
+- [2025 in review](https://www.loopwerk.io/articles/2025/2025-in-review/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) 👤 Kevin Renskers 💬 1411 🔖 #shortlist 🗓️ 2025-12-21
+    > **Заметка:** https://chatgpt.com/c/69479f95-3aa4-8328-8855-b64bb19cc6d2
+    > **Резюме:** 2025 was a productive year: I wrote 38 articles, grew site traffic a lot, and released several open-source Django projects. In November my girlfriend and her daughter were in a serious car crash, so I’ve been caring for them and our dog. I started using AI cautiously, did freelance work for Sound Radix, and enjoyed trips, concerts, and games.
+- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html?utm_source=tldrwebdev) 👤 Ahmad Elalfy 💬 2340 🔖 #http, #webdev, #shortlist 🗓️ 2025-11-04
+    > **Резюме:** URLs can and should hold app state so pages are shareable, bookmarkable, and restorable.  
+Good URL design makes intent, context, and caching explicit.  
+Put public, meaningful state in the URL and keep sensitive or transient state out.
+- [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/?utm_source=tldrwebdev) 👤 kunststube.net 💬 6587 🔖 #shortlist 🗓️ 2025-10-02
+    > **Заметка:** https://chatgpt.com/c/6943f891-8688-8333-9150-757fa91f79b9https://chatgpt.com/c/69440d92-d190-8325-96c1-f00f5ad6d742
+    > **Резюме:** To work with text in computers, understanding encodings and character sets is essential. Unicode is a standard that unifies different encoding schemes, like UTF-8 and UTF-16, which represent characters using varying numbers of bits. It's important to specify the encoding used for text, as incorrect handling can lead to unreadable documents.
+- [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/?utm_source=substack&utm_medium=email) 👤 cedardb.com 💬 2009 🔖 #shortlist, #joyandcuriosity 🗓️ 2025-08-31
+    > **Резюме:** German Strings use a single 128-bit layout to represent any string.  
+Strings of 12 or fewer characters are stored inline; longer strings store a length, a pointer, and a four-character prefix for fast checks.  
+They are immutable and support persistent, transient, and temporary storage classes to cut copies and speed reads, but appending is costly and lifetimes must be managed.
+- [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html?utm_source=substack&utm_medium=email) 👤 a1k0n.net 💬 2469 🔖 #clang, #shortlist, #joyandcuriosity 🗓️ 2025-08-10
+    > **Заметка:** https://chatgpt.com/c/69442e05-97d4-8326-9abd-65eaf57c19a4
+    > **Резюме:** The code draws a spinning 3D donut using ASCII characters by projecting 3D points onto a 2D screen with math involving rotations and perspective. It calculates the brightness of each point based on lighting and chooses characters to show shading. This creates a cool visual effect of a rotating donut made from simple text symbols.
+- [Celebrating 50 years of Microsoft | Bill Gates](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code) 👤 Bill Gates 💬 5503 🔖 #shortlist 🗓️ 2025-04-04
+    > **Заметка:** https://chatgpt.com/c/69441e02-9780-8329-87c1-3b4aef7af67d
+    > **Резюме:** Bill Gates reflects on the 50th anniversary of Microsoft, starting with the creation of Altair BASIC in 1975. He shares his pride in how this early code led to a revolution in computing and the company's immense success. Gates also acknowledges the influential teachers who helped shape his journey into the world of technology.

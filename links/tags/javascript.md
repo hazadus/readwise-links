@@ -1,9 +1,16 @@
 # Ссылки
 
-- Всего ссылок: 16
+- Всего ссылок: 18
 
 ## Ссылки
 
+- [A little bit of plain Javascript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/) 👤 Julia Evans 💬 831 🔖 #javascript 🗓️ 2026-02-05
+    > **Заметка:** Via https://refactoringenglish.com/blog/software-essays-that-shaped-me/
+    > **Резюме:** Julia Evans shares her experience of using plain JavaScript for a recent project after years of relying on libraries like jQuery and Vue.js. She discovered that using simple techniques, like adding and removing CSS classes and using `document.querySelectorAll`, made her work easier and more manageable. Overall, she found that plain JavaScript can accomplish a lot with just a few lines of code.
+- [textarea.my on GitHub](https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything) 👤 Simon Willison 💬 246 🔖 #javascript 🗓️ 2025-12-29
+    > **Резюме:** Textarea.my is a tiny browser-only text editor that stores its data in the URL hash.  
+It uses CompressionStream to shrink state, supports plaintext-only editing, and can save files via the save picker or download.  
+The code includes a simple debounce(ms, fn) that ensures a function runs at most once per timeout.
 - [Don't Sleep on AbortController](https://kettanaito.com/blog/dont-sleep-on-abort-controller) 👤 kettanaito.com 💬 45 🔖 #javascript 🗓️ 2025-10-14
     > **Резюме:** The article discusses the importance of using AbortController in managing asynchronous tasks in JavaScript. It highlights how this tool helps prevent memory leaks and improves performance by canceling ongoing operations. The author emphasizes that understanding and utilizing AbortController can enhance coding practices.
 - [How to group arrays in JavaScript without reduce()](https://allthingssmitty.com/2025/10/06/grouping-arrays-in-modern-javascript-object-groupby-and-map-groupby/) 👤 https://allthingssmitty.com/about/ 💬 810 🔖 #javascript 🗓️ 2025-10-14

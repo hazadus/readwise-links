@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 45
+- Всего ссылок: 46
 
 ## Ссылки
 
+- [Why Good Developers Write Bad Unit Tests](https://mtlynch.io/good-developers-bad-tests/#test-code-is-not-like-other-code) 👤 Michael Lynch 💬 2167 🔖 #testing 🗓️ 2026-02-05
+    > **Заметка:** Via https://refactoringenglish.com/blog/software-essays-that-shaped-me/#-by-erik-kuefler-2014
+    > **Резюме:** Software developers often write bad unit tests by blindly applying production code rules to test code, leading to unnecessary complexity. Good unit tests should be simple, clear, and self-contained, enabling easy understanding and issue diagnosis without excessive abstraction. Naming tests effectively and avoiding unnecessary constants can help improve the quality of unit tests.
+- [Testing on the Toilet: Don't Put Logic in Tests](https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html) 👤 Google Testing Blog 💬 449 🔖 #testing, #classics 🗓️ 2026-02-05
+    > **Резюме:** Tests should state concrete inputs and expected outputs. Computing results inside tests adds complexity and can hide bugs. Move test logic into helpers and give those helpers their own tests.
 - [Правда о go test -cover -race ./... (и не только)](https://youtube.com/watch?v=BDVSbr3wGYU&si=Kbrtx-qTB_OtuDNk) 👤 Куда войти? 🔖 #go, #testing 🗓️ 2026-01-30
     > **Резюме:** Как работает go test? Подробно об этом и не только.
 
@@ -68,8 +73,6 @@ I also use axe-playwright for accessibility assertions and page.expect_response 
     > **Резюме:** Test outcomes and state, not which functions were called.  
 LLMs and mock-generated interaction tests are brittle and can miss real bugs.  
 Write the first tests yourself and prefer public-API tests with handwritten fakes or real test services.
-- [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html) 👤 matklad.github.io 💬 4435 🔖 #testing 🗓️ 2025-09-08
-    > **Резюме:** Testing helps keep software working when making changes. Good tests focus on features, not code details, and should be easy to update. Slow or flaky tests make refactoring hard, so testing speed and reliability matter a lot.
 - [You should delete tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/?utm_source=tldrwebdev) 👤 André Arko 💬 833 🔖 #testing 🗓️ 2025-09-01
     > **Резюме:** Tests exist to give developers confidence.  
 Delete tests that reduce confidence — flaky, slow, brittle, or testing the wrong behavior.  

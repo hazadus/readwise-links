@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 33
+- Всего ссылок: 36
 
 ## Ссылки
 
+- [Choose Boring Technology](https://mcfunley.com/choose-boring-technology) 👤 Dan McKinley 💬 1655 🔖 #classics, #softwarecraft 🗓️ 2026-02-05
+    > **Резюме:** Pick proven, boring technology instead of chasing new shiny tools. Fewer new tools mean less operational pain and fewer unknown failures. Add new tech only after proving you need it and planning the migration.
+- [Choices](https://www.joelonsoftware.com/2000/04/12/choices/) 👤 Joel Spolsky 💬 2123 🔖 #fun, #classics, #softwarecraft 🗓️ 2026-02-05
+    > **Резюме:** Users prefer software designers to make decisions for them rather than burdening them with unnecessary choices, especially when it comes to features like help file indexing. Designers should focus on providing options that enhance user experience, not overwhelm them with trivial decisions. Simplifying design choices can lead to more user-friendly software that prioritizes task completion over unnecessary customization.
 - [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything) 👤 Simon Willison 💬 837 🔖 #llm, #llm-devimpact, #softwarecraft 🗓️ 2025-12-19
     > **Резюме:** Your job as a developer is to deliver code you have proven works.  
 Prove it with manual tests (show steps or recordings) and automated tests that fail if the change is removed.  
@@ -42,6 +46,8 @@ Communicate clearly and responsibly: read docs and error messages, write useful 
 Be reliable and considerate: meet commitments, keep PRs updated, review others, and aim to make people want to work with you.
 - [Worse is Better Start Simple and Iterate](https://dayvster.com/blog/worse-is-better-start-simple-and-iterate/) 👤 Dayvi Schuster 💬 1574 🔖 #softwarecraft 🗓️ 2025-10-28
     > **Резюме:** Perfectionism keeps you from finishing things. Ship a simple, working version first and improve it with real user feedback. Iterate fast and focus on quality, not imagined edge cases.
+- [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/?utm_source=tldrwebdev) 👤 refactoringenglish.com 💬 3027 🔖 #classics, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-02
+    > **Резюме:** The author lists a few influential software essays that changed how they think about building software. These essays taught them to respect developers, prefer simple stable tools, and use language features (like types) to reduce bugs. Overall, the pieces made them value practical decisions over hype.
 - [What is "good taste" in software engineering?](https://seangoedecke.com/taste/) 👤 seangoedecke.com 💬 1835 🔖 #development, #architecture, #softwarecraft, #softwaredesign 🗓️ 2025-09-28
     > **Резюме:** Good taste in software engineering means choosing the right values for each project, not just having strong technical skills. It involves being flexible and understanding tradeoffs, rather than blindly following one approach. Engineers with good taste help projects succeed by adapting their decisions to fit the specific problems they face.
 - [Do the simplest thing that could possibly work](https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/) 👤 seangoedecke.com 💬 1720 🔖 #toot, #development, #programming, #microservices, #softwarecraft, #softwaredesign 🗓️ 2025-08-29

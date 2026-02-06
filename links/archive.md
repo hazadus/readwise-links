@@ -1,9 +1,16 @@
 # Архивные ссылки
 
-- Всего ссылок: 1401
+- Всего ссылок: 1412
 
 ## Ссылки
 
+- [How to Write Blog Posts that Developers Read](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/#get-to-the-point) 👤 refactoringenglish.com 💬 2248 🔖 #writing 🗓️ 2026-02-05
+- [Choose Boring Technology](https://mcfunley.com/choose-boring-technology) 👤 Dan McKinley 💬 1655 🔖 #classics, #softwarecraft 🗓️ 2026-02-05
+- [A little bit of plain Javascript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/) 👤 Julia Evans 💬 831 🔖 #javascript 🗓️ 2026-02-05
+    > **Заметка:** Via https://refactoringenglish.com/blog/software-essays-that-shaped-me/
+- [Testing on the Toilet: Don't Put Logic in Tests](https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html) 👤 Google Testing Blog 💬 449 🔖 #testing, #classics 🗓️ 2026-02-05
+- [Choices](https://www.joelonsoftware.com/2000/04/12/choices/) 👤 Joel Spolsky 💬 2123 🔖 #fun, #classics, #softwarecraft 🗓️ 2026-02-05
+- [A Step Behind the Bleeding Edge: Monarch’s Philosophy on AI in Dev](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/?utm_source=tldrdev) 👤 Somehow Manage 💬 1635 🔖 #llm, #llm-devimpact 🗓️ 2026-02-04
 - [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html?utm_source=tldrdev) 👤 Erik Johannes Husom 💬 3535 🔖 #llm, #learning 🗓️ 2026-02-04
 - [A Social Network for A.I. Bots Only. No Humans Allowed.](https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything) 👤 Simon Willison 💬 503 🔖 #llm 🗓️ 2026-02-03
 - [Why Am I Doing the Thinking for You?](https://terriblesoftware.org/2026/02/02/why-am-i-doing-the-thinking-for-you/) 👤 Terrible Software 💬 696 🔖 #soft skills, #communication 🗓️ 2026-02-03
@@ -88,6 +95,7 @@
 - [LLM predictions for 2026, shared with Oxide and Friends](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-everything) 👤 Simon Willison 💬 1656 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-01-12
 - [Fragments: January 8](https://martinfowler.com/fragments/2026-01-08.html) 👤 martinfowler.com 💬 1246 🗓️ 2026-01-12
 - [Life Happens at 1x Speed](https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/) 👤 Terrible Software 💬 687 🗓️ 2026-01-12
+- [2025 in Review: strange, terror, and weird](https://harper.blog/2026/01/07/2025-is-dead-to-me-2026-is-going-to-be-stranger/) 👤 Harper Reed <harper@modest.com> 💬 734 🗓️ 2026-01-11
 - [The Future of Software Development is Software Developers](https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/?utm_source=tldrdev) 👤 Codemanship's Blog 💬 1270 🔖 #llm-devimpact 🗓️ 2026-01-10
 - [The Frontier Is Now Free](https://ampcode.com/news/amp-free-frontier) 👤 ampcode.com 💬 243 🔖 #llm 🗓️ 2026-01-10
 - [How I Use Obsidian](https://calv.info/how-i-use-obsidian) 👤 calv.info 💬 1374 🔖 #obsidian 🗓️ 2026-01-10
@@ -107,6 +115,7 @@
     > **Заметка:** Via https://simonwillison.net/2025/Dec/26/how-uv-got-so-fast/
 - [Software Engineers Are Not Politicians](https://alexwennerberg.com/blog/2025-11-28-engineering.html) 👤 alexwennerberg.com 💬 2235 🗓️ 2025-12-29
 - [Software engineers should be a little bit cynical](https://seangoedecke.com/a-little-bit-cynical/) 👤 seangoedecke.com 💬 1675 🗓️ 2025-12-29
+- [textarea.my on GitHub](https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything) 👤 Simon Willison 💬 246 🔖 #javascript 🗓️ 2025-12-29
 - [You can't design software you don't work on](https://seangoedecke.com/you-cant-design-software-you-dont-work-on/) 👤 seangoedecke.com 💬 1577 🔖 #softwaredesign 🗓️ 2025-12-29
 - [The Rime of the Ancient Maintainer](https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/?ref=westenberg-newsletter) 👤 Westenberg. 💬 1030 🗓️ 2025-12-27
 - [Finding Flow: Escaping Digital Distractions Through Deep Work and Slow Living](https://www.ssp.sh/blog/finding-flow/) 👤 Simon Späti 💬 2487 🔖 #reflections 🗓️ 2025-12-25
@@ -119,6 +128,7 @@
 - [Unit Testing Principles](https://olano.dev/blog/unit-testing-principles/) 👤 Facundo Olano 💬 1620 🔖 #testing 🗓️ 2025-12-22
 - [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes?utm_source=substack&utm_medium=email) 👤 Jason Fried 💬 725 🔖 #reflections, #joyandcuriosity 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/6947a75b-b214-8327-9837-b87b2e4258cc
+- [I cannot emphasize enough how much I prefer this "tutorial...](https://x.com/geoffreylitt/status/1991909304085987366/?utm_medium=email&rw_tt_thread=True) 👤 Geoffrey Litt 💬 464 🔖 #llm, #claude, #learning 🗓️ 2025-12-21
 - [My first win building with agents](https://olano.dev/blog/agents2/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) 👤 Facundo Olano 💬 4079 🔖 #llm, #claude, #principles 🗓️ 2025-12-21
     > **Заметка:** Nice point on DRY principle.
 - [The Shape of AI: Jaggedness, Bottlenecks and Salients](https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks) 👤 Ethan Mollick 💬 1885 🔖 #llm 🗓️ 2025-12-21
@@ -272,6 +282,7 @@ They follow a template: introduce a counterintuitive finding, tell three anecdot
 - [Just Talk To It - the no-bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it) 👤 Peter Steinberger 💬 4326 🔖 #llm 🗓️ 2025-10-15
 - [Как разработать техническую документацию, которая точно будет работать. Часть 2. DocOps в действии](https://habr.com/ru/companies/swordfish_security/articles/754780/) 👤 Хабр 💬 6187 🔖 #docs 🗓️ 2025-10-15
 - [Engineering velocity on steroids](https://newsletter.manager.dev/p/what-a-10x-team-looks-like) 👤 Anton Zaides 💬 2074 🔖 #leaddev, #management, #development 🗓️ 2025-10-14
+- [Don't Sleep on AbortController](https://kettanaito.com/blog/dont-sleep-on-abort-controller) 👤 kettanaito.com 💬 45 🔖 #javascript 🗓️ 2025-10-14
 - [The fashion industry that is tech](https://www.baldurbjarnason.com/2025/the-fashion-that-is-tech/) 👤 baldurbjarnason.com 💬 1016 🗓️ 2025-10-14
 - [The Illusion of Independent Thought](https://www.joanwestenberg.com/p/the-illusion-of-independent-thought) 👤 JA Westenberg 💬 1126 🗓️ 2025-10-13
 - [Literate Scripting • The Applied Go Weekly Newsletter 2025-10-12](https://newsletter.appliedgo.net/archive/2025-10-12-literate-scripting-go-in-atuin-runbooks/) 👤 The Applied Go Weekly Newsletter 💬 1140 🔖 #go 🗓️ 2025-10-13
@@ -322,6 +333,7 @@ They follow a template: introduce a counterintuitive finding, tell three anecdot
 - [From Idea to Launch in 2 Weeks](https://yusufaytas.com/from-idea-to-launch-in-2-weeks/) 👤 https://www.facebook.com/yusufaytas 💬 2275 🔖 #llm 🗓️ 2025-10-03
 - [Cracking Coding Bottlenecks](https://yusufaytas.com/cracking-coding-bottlenecks/) 👤 Yusuf Aytaş 💬 466 🗓️ 2025-10-03
 - [Why Over-Engineering Happens](https://yusufaytas.com/why-over-engineering-happens/?utm_source=tldrwebdev) 👤 https://www.facebook.com/yusufaytas 💬 3283 🔖 #principles, #microservices, #softwaredesign 🗓️ 2025-10-02
+- [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/?utm_source=tldrwebdev) 👤 refactoringenglish.com 💬 3027 🔖 #classics, #softwarecraft, #joyandcuriosity 🗓️ 2025-10-02
 - [Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/) 👤 Terrible Software 💬 763 🔖 #career 🗓️ 2025-10-02
 - [Stop Abstracting and Start Programming](https://dayvster.com/blog/stop-abstracting-and-start-programming/) 👤 Dayvi Schuster 💬 974 🔖 #principles 🗓️ 2025-10-01
 - [Why I Still Reach for C for Certain Projects](https://dayvster.com/blog/why-i-still-reach-for-c-for-certain-projects/) 👤 Dayvi Schuster 💬 2165 🔖 #clang 🗓️ 2025-10-01

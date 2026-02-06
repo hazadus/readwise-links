@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [Choices](https://www.joelonsoftware.com/2000/04/12/choices/) 👤 Joel Spolsky 💬 2123 🔖 #fun, #classics, #softwarecraft 🗓️ 2026-02-05
+    > **Резюме:** Users prefer software designers to make decisions for them rather than burdening them with unnecessary choices, especially when it comes to features like help file indexing. Designers should focus on providing options that enhance user experience, not overwhelm them with trivial decisions. Simplifying design choices can lead to more user-friendly software that prioritizes task completion over unnecessary customization.
 - [How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner?utm_source=substack&utm_medium=email) 👤 annie's blog 💬 449 🔖 #fun, #joyandcuriosity 🗓️ 2025-09-28
     > **Резюме:** A developer wrote a jargon-filled, messy tutorial for beginners.  
 As a non-developer, I struggled for hours and many searches but followed the steps and finally made it work.  

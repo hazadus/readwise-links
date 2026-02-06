@@ -1,10 +1,10 @@
 # Ссылки
 
-- Всего ссылок: 369
+- Всего ссылок: 370
 
 ## Ссылки
 
-- [A Step Behind the Bleeding Edge: Monarch’s Philosophy on AI in Dev](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/?utm_source=tldrdev) 👤 Somehow Manage 💬 1635 🔖 #llm 🗓️ 2026-02-04
+- [A Step Behind the Bleeding Edge: Monarch’s Philosophy on AI in Dev](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/?utm_source=tldrdev) 👤 Somehow Manage 💬 1635 🔖 #llm, #llm-devimpact 🗓️ 2026-02-04
     > **Резюме:** Monarch uses AI carefully, staying just behind the newest tools to keep quality and security strong. Engineers must always own and check their work, even if AI helps create it. AI is a tool for saving time on simple tasks, but deep thinking and creativity still come from people.
 - [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html?utm_source=tldrdev) 👤 Erik Johannes Husom 💬 3535 🔖 #llm, #learning 🗓️ 2026-02-04
     > **Резюме:** Outsourcing thinking to AI can help with some tasks but may harm important mental skills we need. We must be careful about which thinking we let machines do, especially for personal communication and learning. How we use AI affects not just efficiency, but also our lives and society.
@@ -116,7 +116,7 @@ LLMs feel like new, jagged “ghost” intelligences and spawned new app layers 
 Vibe coding and models like Nano Banana made building and interacting with AI far easier and more visual.
 - [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude) 👤 diwank.space 💬 4833 🔖 #llm, #claude 🗓️ 2025-12-22
     > **Резюме:** AI can speed coding but needs strict engineering practices to be safe and reliable. Humans must write tests, guide AI, and document decisions (CLAUDE.md). Transparency and disciplined workflows make AI a force multiplier, not chaos.
-- [I cannot emphasize enough how much I prefer this "tutorial...](https://x.com/geoffreylitt/status/1991909304085987366/?utm_medium=email&rw_tt_thread=True) 👤 Geoffrey Litt 💬 464 🔖 #llm, #try, #claude 🗓️ 2025-12-21
+- [I cannot emphasize enough how much I prefer this "tutorial...](https://x.com/geoffreylitt/status/1991909304085987366/?utm_medium=email&rw_tt_thread=True) 👤 Geoffrey Litt 💬 464 🔖 #llm, #claude, #learning 🗓️ 2025-12-21
     > **Резюме:** The author prefers a "tutorial doc + build-it-yourself" workflow over reviewing large PRs. Have the model produce a very detailed Markdown implementation guide, then read it and code the changes yourself while staying in control. This approach keeps you fast with AI tools but mentally engaged and better able to make good decisions.
 - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email) 👤 ngrok 💬 78 🔖 #llm, #explorable, #joyandcuriosity 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/6947a45b-3860-8331-a302-0c3a55ab5594
@@ -532,6 +532,8 @@ Even with optimistic numbers, retries and propagated mistakes can push the fract
     > **Резюме:** This newsletter shows how easy it is to call large language models (LLMs) like OpenAI's from Go code using simple HTTP requests. It explains how LLMs can turn natural language into SQL queries for apps, making fuzzy inputs easy to handle. The author encourages using AI pragmatically to solve tasks that need understanding beyond simple algorithms.
 - [Can small AI models think as well as large ones?](https://seangoedecke.com/cognitive-core/) 👤 seangoedecke.com 💬 1482 🔖 #llm 🗓️ 2025-07-28
     > **Резюме:** Small AI models can perform nearly as well as large ones if trained carefully, making them efficient and practical for many tasks. These tiny models lack vast fact knowledge but can use tools like internet search to compensate. While promising, it’s unclear if small models can match large ones in deep reasoning because reasoning may depend on having broad knowledge.
+- [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/) 👤 Simon Willison 💬 4839 🔖 #llm 🗓️ 2025-07-27
+    > **Резюме:** Embeddings turn content like text or images into numbers that capture their meaning. They help computers find and compare similar information quickly. This technology powers tools like search engines and question-answering systems.
 - [Prompting with LLM](https://building-with-llms-pycon-2025.readthedocs.io/en/latest/prompting.html) 👤 building-with-llms-pycon-2025.readthedocs.io 💬 975 🔖 #llm, #try 🗓️ 2025-07-27
     > **Резюме:** The text explains how to use the LLM command-line interface, starting with setting a default model and running prompts. It discusses features like logging conversations and using different models, as well as enhancing prompts with fragments and system prompts. Additionally, it highlights the ability to attach images and utilize plugins for advanced functionality.
 - [AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)](https://www.youtube.com/watch?v=uRuLgar5XZw) 👤 The Pragmatic Engineer 🔖 #llm, #toot, #interview, #inspiration 🗓️ 2025-07-25
