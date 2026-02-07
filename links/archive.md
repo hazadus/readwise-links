@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1412
+- Всего ссылок: 1414
 
 ## Ссылки
 
+- [How to Write Useful Commit Messages](https://refactoringenglish.com/chapters/commit-messages/) 👤 refactoringenglish.com 💬 3972 🔖 #git, #docs, #writing 🗓️ 2026-02-06
+- [Passive Voice Considered Harmful](https://refactoringenglish.com/chapters/passive-voice-considered-harmful/) 👤 refactoringenglish.com 💬 1194 🔖 #writing 🗓️ 2026-02-06
 - [How to Write Blog Posts that Developers Read](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/#get-to-the-point) 👤 refactoringenglish.com 💬 2248 🔖 #writing 🗓️ 2026-02-05
 - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology) 👤 Dan McKinley 💬 1655 🔖 #classics, #softwarecraft 🗓️ 2026-02-05
 - [A little bit of plain Javascript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/) 👤 Julia Evans 💬 831 🔖 #javascript 🗓️ 2026-02-05

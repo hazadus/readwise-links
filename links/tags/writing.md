@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 23
+- Всего ссылок: 25
 
 ## Ссылки
 
+- [How to Write Useful Commit Messages](https://refactoringenglish.com/chapters/commit-messages/) 👤 refactoringenglish.com 💬 3972 🔖 #git, #docs, #writing 🗓️ 2026-02-06
+    > **Резюме:** Effective writing for software developers
+- [Passive Voice Considered Harmful](https://refactoringenglish.com/chapters/passive-voice-considered-harmful/) 👤 refactoringenglish.com 💬 1194 🔖 #writing 🗓️ 2026-02-06
+    > **Резюме:** Passive voice hides important details and makes sentences harder to understand. Using active voice clarifies who does what and reveals missing information. However, passive voice is useful to avoid blame or omit unimportant details.
 - [How to Write Blog Posts that Developers Read](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/#get-to-the-point) 👤 refactoringenglish.com 💬 2248 🔖 #writing 🗓️ 2026-02-05
     > **Резюме:** To write blog posts developers read, get straight to the point and show clear benefits quickly. Choose topics with a real path to your readers, like friendly forums or search terms. Adding pictures helps skimmers decide to read more and boosts your post's popularity.
 - [Technical blogging lessons learned](https://writethatblog.substack.com/p/technical-blogging-lessons-learned?utm_source=tldrdev) 👤 Cynthia Dunlop 💬 2540 🔖 #writing, #shortlist 🗓️ 2026-01-13

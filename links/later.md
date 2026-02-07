@@ -1,9 +1,21 @@
 # Отложенные ссылки
 
-- Всего ссылок: 107
+- Всего ссылок: 113
 
 ## Ссылки
 
+- [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) 👤 Mitchell Hashimoto 💬 2321 🔖 #llm 🗓️ 2026-02-06
+    > **Резюме:** Mitchell Hashimoto shares how he learned to use AI agents to help with coding and research tasks. He found that letting agents work during low-energy times improved his productivity. He emphasizes controlling when to use AI and improving agents to make fewer mistakes.
+- [Brain Dumps as a Literary Form](https://davegriffith.substack.com/p/brain-dumps-as-a-literary-form) 👤 Dave Griffith 💬 2431 🗓️ 2026-02-06
+    > **Резюме:** Dave Griffith shares his thinking process through AI-assisted transcripts instead of polished conclusions. This new form shows how ideas develop and helps others understand reasoning better. It changes how we communicate and may create a market for watching thinkers work in real time.
+- [Getting the main thing right](https://seangoedecke.com/getting-the-main-thing-right/) 👤 seangoedecke.com 💬 1474 🗓️ 2026-02-06
+    > **Резюме:** The most important thing in tech work is to deliver projects that add value and satisfy management. Focusing on this "main thing" matters more than small tasks or personal preferences. Success often comes from knowing what truly counts and adapting as priorities change.
+- [Voxtral transcribes at the speed of sound](https://simonwillison.net/2026/Feb/4/voxtral-2/#atom-everything) 👤 Simon Willison 💬 233 🗓️ 2026-02-06
+    > **Резюме:** Voxtral Transcribe 2 is a new audio-to-text model by Mistral that works very fast. There is a free version called Voxtral Realtime you can try online, and a paid version accessible via an API. The tool produces accurate transcripts quickly and offers easy ways to get and download the text.
+- [The third golden age of software engineering – thanks to AI, with Grady Booch](https://newsletter.pragmaticengineer.com/p/the-third-golden-age-of-software) 👤 Gergely Orosz 💬 1297 🗓️ 2026-02-06
+    > **Резюме:** Software engineering is entering its third golden age, driven by new system-level abstractions and supported by AI tools. AI helps automate routine tasks but cannot replace human judgment and creativity. This era offers engineers a chance to focus on imagination and solve complex problems, not fear job loss.
+- [How to Get Meaningful Feedback on Your Design Document](https://refactoringenglish.com/chapters/useful-feedback-on-design-docs/) 👤 refactoringenglish.com 💬 2589 🗓️ 2026-02-06
+    > **Резюме:** Write your design document so anyone can understand it, and include clear diagrams. Give reviewers enough time to read and comment before meeting to resolve big issues. Fix confusion quickly and learn from the process after coding.
 - [Intro to CSS 3D transforms](https://3dtransforms.desandro.com/) 👤 desandro.com 💬 460 🔖 #css, #try 🗓️ 2026-02-05
     > **Заметка:** Via https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/
     > **Резюме:** CSS 3D transforms let web designers add depth and motion to websites, making interfaces more interactive. They are best used to enhance user experience, not replace traditional design. Most modern browsers support these features, making them widely accessible for developers.
