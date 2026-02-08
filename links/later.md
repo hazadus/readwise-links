@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 113
+- Всего ссылок: 114
 
 ## Ссылки
 
+- [API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/) 👤 Apple Inc. 💬 3591 🗓️ 2026-02-07
+    > **Резюме:** Apple's API Design Guidelines emphasize clear and consistent naming to make Swift code easy to read and understand. Documentation should explain what each function or type does, using natural language and avoiding ambiguity. Argument labels and parameter names must clarify their roles, improving code clarity and usability.
 - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) 👤 Mitchell Hashimoto 💬 2321 🔖 #llm 🗓️ 2026-02-06
     > **Резюме:** Mitchell Hashimoto shares how he learned to use AI agents to help with coding and research tasks. He found that letting agents work during low-energy times improved his productivity. He emphasizes controlling when to use AI and improving agents to make fewer mistakes.
 - [Brain Dumps as a Literary Form](https://davegriffith.substack.com/p/brain-dumps-as-a-literary-form) 👤 Dave Griffith 💬 2431 🗓️ 2026-02-06
