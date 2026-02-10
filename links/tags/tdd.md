@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 4
 
 ## Ссылки
 
+- [“TDD Slows Me Down”. Good.](https://codemanship.wordpress.com/2026/02/08/tdd-slows-me-down-good/) 👤 Codemanship's Blog 💬 398 🔖 #tdd 🗓️ 2026-02-09
+    > **Резюме:** Writing code quickly can feel productive but often leads to more mistakes and extra work later. Using slow, careful methods like test-driven development (TDD) helps catch problems early and saves time overall. Slowing down feels like a delay but actually helps deliver better results faster in the end.
 - [Ready, Fire, Aim!](https://codemanship.wordpress.com/2026/01/28/ready-fire-aim/) 👤 Codemanship's Blog 💬 1513 🔖 #tdd 🗓️ 2026-01-28
     > **Резюме:** Test-driven development (TDD) means writing concrete example tests that describe what code should do before writing the code. This makes requirements visible, guides simple implementations, and ensures safe refactoring. Designing from user outcomes yields clearer, more useful code than coding first and testing later.
 - [The beautiful theory of TDD and the reality check of practice](https://www.bitecode.dev/p/the-beautiful-theory-of-tdd-and-the) 👤 Bite Code! 💬 2366 🔖 #tdd 🗓️ 2024-02-05

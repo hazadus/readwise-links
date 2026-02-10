@@ -4,14 +4,14 @@
 
 ## Ссылки
 
+- [A Language For Agents](https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/) 👤 Armin Ronacher 💬 2789 🗓️ 2026-02-09
+    > **Резюме:** Programming languages should evolve to work better with AI agents, focusing on clear code and good tooling. New languages can succeed if they reduce coding costs and support agents' local reasoning and build needs. Avoiding complex features like macros and flaky tests helps agents write and understand code more effectively.
+- [Making Software: How is data stored?](https://www.makingsoftware.com/chapters/how-is-data-stored) 👤 makingsoftware.com 💬 5403 🗓️ 2026-02-09
+    > **Резюме:** Memory is stored using different technologies like fast but costly SRAM, capacitors in DRAM that need refreshing, and charge trap cells in SSDs arranged in 3D stacks. Each type balances speed, capacity, and cost differently to meet various needs. The ultimate goal is to create memory that is fast, dense, and long-lasting.
 - [API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/) 👤 Apple Inc. 💬 3591 🗓️ 2026-02-07
     > **Резюме:** Apple's API Design Guidelines emphasize clear and consistent naming to make Swift code easy to read and understand. Documentation should explain what each function or type does, using natural language and avoiding ambiguity. Argument labels and parameter names must clarify their roles, improving code clarity and usability.
-- [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) 👤 Mitchell Hashimoto 💬 2321 🔖 #llm 🗓️ 2026-02-06
-    > **Резюме:** Mitchell Hashimoto shares how he learned to use AI agents to help with coding and research tasks. He found that letting agents work during low-energy times improved his productivity. He emphasizes controlling when to use AI and improving agents to make fewer mistakes.
 - [Brain Dumps as a Literary Form](https://davegriffith.substack.com/p/brain-dumps-as-a-literary-form) 👤 Dave Griffith 💬 2431 🗓️ 2026-02-06
     > **Резюме:** Dave Griffith shares his thinking process through AI-assisted transcripts instead of polished conclusions. This new form shows how ideas develop and helps others understand reasoning better. It changes how we communicate and may create a market for watching thinkers work in real time.
-- [Getting the main thing right](https://seangoedecke.com/getting-the-main-thing-right/) 👤 seangoedecke.com 💬 1474 🗓️ 2026-02-06
-    > **Резюме:** The most important thing in tech work is to deliver projects that add value and satisfy management. Focusing on this "main thing" matters more than small tasks or personal preferences. Success often comes from knowing what truly counts and adapting as priorities change.
 - [Voxtral transcribes at the speed of sound](https://simonwillison.net/2026/Feb/4/voxtral-2/#atom-everything) 👤 Simon Willison 💬 233 🗓️ 2026-02-06
     > **Резюме:** Voxtral Transcribe 2 is a new audio-to-text model by Mistral that works very fast. There is a free version called Voxtral Realtime you can try online, and a paid version accessible via an API. The tool produces accurate transcripts quickly and offers easy ways to get and download the text.
 - [The third golden age of software engineering – thanks to AI, with Grady Booch](https://newsletter.pragmaticengineer.com/p/the-third-golden-age-of-software) 👤 Gergely Orosz 💬 1297 🗓️ 2026-02-06

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 40
+- Всего ссылок: 41
 
 ## Ссылки
 
+- [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) 👤 Mitchell Hashimoto 💬 2321 🔖 #llm, #llm-devimpact 🗓️ 2026-02-06
+    > **Резюме:** Mitchell Hashimoto shares how he learned to use AI agents to help with coding and research tasks. He found that letting agents work during low-energy times improved his productivity. He emphasizes controlling when to use AI and improving agents to make fewer mistakes.
 - [A Step Behind the Bleeding Edge: Monarch’s Philosophy on AI in Dev](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/?utm_source=tldrdev) 👤 Somehow Manage 💬 1635 🔖 #llm, #llm-devimpact 🗓️ 2026-02-04
     > **Резюме:** Monarch uses AI carefully, staying just behind the newest tools to keep quality and security strong. Engineers must always own and check their work, even if AI helps create it. AI is a tool for saving time on simple tasks, but deep thinking and creativity still come from people.
 - [The AI-Ready Software Developer #11 – Staying Sharp](https://codemanship.wordpress.com/2025/10/27/the-ai-ready-software-developer-11-staying-sharp/) 👤 Codemanship's Blog 💬 633 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-02-02

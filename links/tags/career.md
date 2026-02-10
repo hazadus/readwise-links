@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 69
+- Всего ссылок: 70
 
 ## Ссылки
 
+- [Getting the main thing right](https://seangoedecke.com/getting-the-main-thing-right/) 👤 seangoedecke.com 💬 1474 🔖 #career, #burnout 🗓️ 2026-02-06
+    > **Резюме:** The most important thing in tech work is to deliver projects that add value and satisfy management. Focusing on this "main thing" matters more than small tasks or personal preferences. Success often comes from knowing what truly counts and adapting as priorities change.
 - [You have to know how to drive the car](https://seangoedecke.com/knowing-how-to-drive-the-car/) 👤 seangoedecke.com 💬 880 🔖 #career 🗓️ 2026-01-26
     > **Резюме:** Software engineers have different goals, but all must understand how tech companies work to succeed. Success comes from focusing on impactful projects and navigating company politics wisely. Without this knowledge, engineers risk frustration, sidelining, or failure to achieve their goals.
 - [How the hell are you supposed to have a career in tech in 2026?](https://www.anildash.com/2026/01/05/a-tech-career-in-2026/?utm_source=tldrdev) 👤 Anil Dash 💬 2530 🔖 #career, #llm-devimpact 🗓️ 2026-01-15

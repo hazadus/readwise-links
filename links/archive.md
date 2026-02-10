@@ -1,9 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 1414
+- Всего ссылок: 1419
 
 ## Ссылки
 
+- [“TDD Slows Me Down”. Good.](https://codemanship.wordpress.com/2026/02/08/tdd-slows-me-down-good/) 👤 Codemanship's Blog 💬 398 🔖 #tdd 🗓️ 2026-02-09
+- [Large tech companies don't need heroes](https://seangoedecke.com/heroism/) 👤 seangoedecke.com 💬 1172 🗓️ 2026-02-09
+- [The pitch deck is dead. Write a pitch.md instead.](https://www.joanwestenberg.com/the-pitch-deck-is-dead-write-a-pitch-md-instead/?ref=westenberg-newsletter) 👤 Westenberg. 💬 1055 🗓️ 2026-02-09
+- [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) 👤 Mitchell Hashimoto 💬 2321 🔖 #llm, #llm-devimpact 🗓️ 2026-02-06
+- [Getting the main thing right](https://seangoedecke.com/getting-the-main-thing-right/) 👤 seangoedecke.com 💬 1474 🔖 #career, #burnout 🗓️ 2026-02-06
 - [How to Write Useful Commit Messages](https://refactoringenglish.com/chapters/commit-messages/) 👤 refactoringenglish.com 💬 3972 🔖 #git, #docs, #writing 🗓️ 2026-02-06
 - [Passive Voice Considered Harmful](https://refactoringenglish.com/chapters/passive-voice-considered-harmful/) 👤 refactoringenglish.com 💬 1194 🔖 #writing 🗓️ 2026-02-06
 - [How to Write Blog Posts that Developers Read](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/#get-to-the-point) 👤 refactoringenglish.com 💬 2248 🔖 #writing 🗓️ 2026-02-05
