@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 19
+- Всего ссылок: 20
 
 ## Ссылки
 
+- [In the background: Spotlight indexing](https://eclecticlight.co/2026/02/10/in-the-background-spotlight-indexing/) 👤 The Eclectic Light Company 💬 919 🔖 #macos 🗓️ 2026-02-10
+    > **Резюме:** Spotlight quickly indexes new and changed files using background processes on Apple silicon Macs. After login, these processes run for several minutes, including time-consuming text extraction from images. Prolonged indexing is normal and helps keep search results accurate without affecting performance.
 - [What happens in early kernel boot on Apple silicon?](https://eclecticlight.co/2026/02/03/what-happens-in-early-kernel-boot-on-apple-silicon/) 👤 The Eclectic Light Company 💬 1055 🔖 #macos 🗓️ 2026-02-03
     > **Резюме:** Apple silicon Macs start booting with three secure stages before loading the macOS kernel about 5.3 seconds after power-on. The kernel then starts hardware, security services, and mounts important volumes, but user data stays locked until the password is entered. By 10 seconds, key system processes run with secure access, while user data remains protected by FileVault.
 - [Which snapshots could you delete?](https://eclecticlight.co/2026/02/02/which-snapshots-could-you-delete/) 👤 The Eclectic Light Company 💬 942 🔖 #macos 🗓️ 2026-02-03

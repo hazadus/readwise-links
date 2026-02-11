@@ -1,9 +1,13 @@
 # Шортлист ссылок
 
-- Всего ссылок: 9
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [How Markdown took over the world](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/?utm_source=tldrdev) 👤 Anil Dash 💬 4535 🔖 #markdown, #shortlist 🗓️ 2026-01-13
+    > **Резюме:** Markdown started as a simple way to make writing on the internet easier without needing complicated code. Many people liked it and began using it everywhere, from blogs to apps like Microsoft Notepad and Apple Notes. Its success shows how open, easy ideas can grow big and change how we share information online.
+- [What Happened To WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/?utm_source=tldrdev) 👤 EmNudge 💬 1863 🔖 #shortlist, #webassembly 🗓️ 2026-01-13
+    > **Резюме:** WebAssembly is widely used to run code efficiently and securely in browsers and other environments, often as a compilation target for many languages. It is not replacing JavaScript but works behind the scenes to improve performance and enable new features. Its strength lies in security, portability, and embeddability rather than being a standalone language for building entire applications.
 - [Technical blogging lessons learned](https://writethatblog.substack.com/p/technical-blogging-lessons-learned?utm_source=tldrdev) 👤 Cynthia Dunlop 💬 2540 🔖 #writing, #shortlist 🗓️ 2026-01-13
     > **Резюме:** Writing regularly helps overcome doubts and improves skills over time. Focus on topics that interest you and your audience, even if others have written about them. Use simple tools, be honest, and don’t worry about perfection or criticism.
 - [The Next Thing Will Not Be Big](https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html?utm_source=tldrdev) 👤 Glyph Lefkowitz 💬 2638 🔖 #shortlist 🗓️ 2026-01-10

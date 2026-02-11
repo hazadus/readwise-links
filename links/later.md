@@ -4,6 +4,8 @@
 
 ## Ссылки
 
+- [In the background: Spotlight indexing](https://eclecticlight.co/2026/02/10/in-the-background-spotlight-indexing/) 👤 The Eclectic Light Company 💬 919 🔖 #macos 🗓️ 2026-02-10
+    > **Резюме:** Spotlight quickly indexes new and changed files using background processes on Apple silicon Macs. After login, these processes run for several minutes, including time-consuming text extraction from images. Prolonged indexing is normal and helps keep search results accurate without affecting performance.
 - [A Language For Agents](https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/) 👤 Armin Ronacher 💬 2789 🗓️ 2026-02-09
     > **Резюме:** Programming languages should evolve to work better with AI agents, focusing on clear code and good tooling. New languages can succeed if they reduce coding costs and support agents' local reasoning and build needs. Avoiding complex features like macros and flaky tests helps agents write and understand code more effectively.
 - [Making Software: How is data stored?](https://www.makingsoftware.com/chapters/how-is-data-stored) 👤 makingsoftware.com 💬 5403 🗓️ 2026-02-09
@@ -12,8 +14,6 @@
     > **Резюме:** Apple's API Design Guidelines emphasize clear and consistent naming to make Swift code easy to read and understand. Documentation should explain what each function or type does, using natural language and avoiding ambiguity. Argument labels and parameter names must clarify their roles, improving code clarity and usability.
 - [Brain Dumps as a Literary Form](https://davegriffith.substack.com/p/brain-dumps-as-a-literary-form) 👤 Dave Griffith 💬 2431 🗓️ 2026-02-06
     > **Резюме:** Dave Griffith shares his thinking process through AI-assisted transcripts instead of polished conclusions. This new form shows how ideas develop and helps others understand reasoning better. It changes how we communicate and may create a market for watching thinkers work in real time.
-- [Voxtral transcribes at the speed of sound](https://simonwillison.net/2026/Feb/4/voxtral-2/#atom-everything) 👤 Simon Willison 💬 233 🗓️ 2026-02-06
-    > **Резюме:** Voxtral Transcribe 2 is a new audio-to-text model by Mistral that works very fast. There is a free version called Voxtral Realtime you can try online, and a paid version accessible via an API. The tool produces accurate transcripts quickly and offers easy ways to get and download the text.
 - [The third golden age of software engineering – thanks to AI, with Grady Booch](https://newsletter.pragmaticengineer.com/p/the-third-golden-age-of-software) 👤 Gergely Orosz 💬 1297 🗓️ 2026-02-06
     > **Резюме:** Software engineering is entering its third golden age, driven by new system-level abstractions and supported by AI tools. AI helps automate routine tasks but cannot replace human judgment and creativity. This era offers engineers a chance to focus on imagination and solve complex problems, not fear job loss.
 - [How to Get Meaningful Feedback on Your Design Document](https://refactoringenglish.com/chapters/useful-feedback-on-design-docs/) 👤 refactoringenglish.com 💬 2589 🗓️ 2026-02-06
@@ -76,9 +76,9 @@
     > **Резюме:** ASCII characters are not simple pixels; their shapes affect how images appear when rendered as ASCII art. By using multiple sampling points and enhancing contrast, we can create sharper and clearer ASCII images. These techniques improve readability and capture the shape of characters better than traditional pixel-based methods.
 - [Web Almanac](https://almanac.httparchive.org/en/2025/) 👤 HTTP Archive 💬 211 🔖 #web 🗓️ 2026-01-18
     > **Резюме:** The Web Almanac is a yearly report about the state of the web. It uses real data from over 16 million websites and insights from experts. The 2025 edition has 15 chapters covering many web topics.
-- [How Markdown took over the world](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/?utm_source=tldrdev) 👤 Anil Dash 💬 4535 🔖 #markdown 🗓️ 2026-01-13
+- [How Markdown took over the world](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/?utm_source=tldrdev) 👤 Anil Dash 💬 4535 🔖 #markdown, #shortlist 🗓️ 2026-01-13
     > **Резюме:** Markdown started as a simple way to make writing on the internet easier without needing complicated code. Many people liked it and began using it everywhere, from blogs to apps like Microsoft Notepad and Apple Notes. Its success shows how open, easy ideas can grow big and change how we share information online.
-- [What Happened To WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/?utm_source=tldrdev) 👤 EmNudge 💬 1863 🔖 #webassembly 🗓️ 2026-01-13
+- [What Happened To WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/?utm_source=tldrdev) 👤 EmNudge 💬 1863 🔖 #shortlist, #webassembly 🗓️ 2026-01-13
     > **Резюме:** WebAssembly is widely used to run code efficiently and securely in browsers and other environments, often as a compilation target for many languages. It is not replacing JavaScript but works behind the scenes to improve performance and enable new features. Its strength lies in security, portability, and embeddability rather than being a standalone language for building entire applications.
 - [Technical blogging lessons learned](https://writethatblog.substack.com/p/technical-blogging-lessons-learned?utm_source=tldrdev) 👤 Cynthia Dunlop 💬 2540 🔖 #writing, #shortlist 🗓️ 2026-01-13
     > **Резюме:** Writing regularly helps overcome doubts and improves skills over time. Focus on topics that interest you and your audience, even if others have written about them. Use simple tools, be honest, and don’t worry about perfection or criticism.
