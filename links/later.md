@@ -1,9 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 114
+- Всего ссылок: 116
 
 ## Ссылки
 
+- [On screwing up](https://seangoedecke.com/screwing-up/) 👤 seangoedecke.com 💬 1404 🗓️ 2026-02-11
+    > **Резюме:** Making mistakes at work is normal, but how you handle them matters most. Stay calm, tell the right people quickly, and focus on fixing the problem. Managers forgive errors but expect honesty and results over excuses.
+- [Steve Yegge on AI Agents and the Future of Software Engineering](https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the) 👤 Gergely Orosz 💬 2964 🗓️ 2026-02-11
+    > **Резюме:** Steve Yegge believes AI will greatly change software engineering, making many coding skills obsolete and reducing the need for large engineering teams. Big companies risk falling behind because they cannot innovate fast enough, while small AI-powered teams will lead the future. Working with AI can be draining, so engineers may only be productive for a few hours each day despite AI's power.
+- [Как включить мультиоконность из iPadOS на iPhone?](https://rozetked.me/articles/42865-kak-vklyuchit-mul-tiokonnost-iz-ipados-na-iphone) 👤 Антон Курилов 💬 491 🗓️ 2026-02-11
+    > **Резюме:** Разработчик нашёл способ включить функции iPadOS на iPhone, изменяя системный файл MobileGestalt. Для этого нужно скачать файл с iPhone, отредактировать его на компьютере с помощью утилиты misaka26 и загрузить обратно. После перезагрузки iPhone получит новые возможности, например, мультиоконность, но это работает только на iOS до версии 26.2 и требует осторожности.
 - [In the background: Spotlight indexing](https://eclecticlight.co/2026/02/10/in-the-background-spotlight-indexing/) 👤 The Eclectic Light Company 💬 919 🔖 #macos 🗓️ 2026-02-10
     > **Резюме:** Spotlight quickly indexes new and changed files using background processes on Apple silicon Macs. After login, these processes run for several minutes, including time-consuming text extraction from images. Prolonged indexing is normal and helps keep search results accurate without affecting performance.
 - [A Language For Agents](https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/) 👤 Armin Ronacher 💬 2789 🗓️ 2026-02-09
@@ -28,8 +34,6 @@
     > **Резюме:** Low-performing software teams offer a great chance to improve by focusing on small, daily changes in coding and testing. Fixing inner workflows, like automated testing, leads to faster, more reliable releases without big management changes. This approach builds trust and sets the stage for bigger improvements later.
 - [Rust is bottom-up, Swift is top-down.](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust?utm_source=tldrdev) 👤 nmn.sh 💬 1633 🔖 #rust, #swift 🗓️ 2026-02-04
     > **Резюме:** Rust is a low-level, fast language that starts with manual memory control and lets you build up. Swift is a high-level, easier language that starts with simple value types and lets you go lower when needed. Both share similar features, but Rust is better for systems programming, while Swift is better for apps and servers, and is now truly cross-platform.
-- [The Coherence Premium](https://www.joanwestenberg.com/the-coherence-premium/?ref=westenberg-newsletter) 👤 Westenberg. 💬 3708 🗓️ 2026-02-04
-    > **Резюме:** AI tools help solo workers scale output while keeping consistent understanding. Large organizations struggle with coordination because AI amplifies different perspectives, causing incoherence. True advantage comes from clear, shared models that guide AI within a single, coherent mindset.
 - [What happens in early kernel boot on Apple silicon?](https://eclecticlight.co/2026/02/03/what-happens-in-early-kernel-boot-on-apple-silicon/) 👤 The Eclectic Light Company 💬 1055 🔖 #macos 🗓️ 2026-02-03
     > **Резюме:** Apple silicon Macs start booting with three secure stages before loading the macOS kernel about 5.3 seconds after power-on. The kernel then starts hardware, security services, and mounts important volumes, but user data stays locked until the password is entered. By 10 seconds, key system processes run with secure access, while user data remains protected by FileVault.
 - [Which snapshots could you delete?](https://eclecticlight.co/2026/02/02/which-snapshots-could-you-delete/) 👤 The Eclectic Light Company 💬 942 🔖 #macos 🗓️ 2026-02-03

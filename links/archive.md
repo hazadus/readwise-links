@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 1420
+- Всего ссылок: 1421
 
 ## Ссылки
 
@@ -20,6 +20,7 @@
 - [Choices](https://www.joelonsoftware.com/2000/04/12/choices/) 👤 Joel Spolsky 💬 2123 🔖 #fun, #classics, #softwarecraft 🗓️ 2026-02-05
 - [A Step Behind the Bleeding Edge: Monarch’s Philosophy on AI in Dev](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/?utm_source=tldrdev) 👤 Somehow Manage 💬 1635 🔖 #llm, #llm-devimpact 🗓️ 2026-02-04
 - [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html?utm_source=tldrdev) 👤 Erik Johannes Husom 💬 3535 🔖 #llm, #learning 🗓️ 2026-02-04
+- [The Coherence Premium](https://www.joanwestenberg.com/the-coherence-premium/?ref=westenberg-newsletter) 👤 Westenberg. 💬 3708 🗓️ 2026-02-04
 - [A Social Network for A.I. Bots Only. No Humans Allowed.](https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything) 👤 Simon Willison 💬 503 🔖 #llm 🗓️ 2026-02-03
 - [Why Am I Doing the Thinking for You?](https://terriblesoftware.org/2026/02/02/why-am-i-doing-the-thinking-for-you/) 👤 Terrible Software 💬 696 🔖 #soft skills, #communication 🗓️ 2026-02-03
 - [Am I Anti-AI? No. I’m Anti-Harm.](https://codemanship.wordpress.com/2026/02/02/am-i-anti-ai-no-im-anti-harm/) 👤 Codemanship's Blog 💬 382 🔖 #llm 🗓️ 2026-02-03
