@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 70
+- Всего ссылок: 71
 
 ## Ссылки
 
+- [On screwing up](https://seangoedecke.com/screwing-up/) 👤 seangoedecke.com 💬 1404 🔖 #career 🗓️ 2026-02-11
+    > **Резюме:** Making mistakes at work is normal, but how you handle them matters most. Stay calm, tell the right people quickly, and focus on fixing the problem. Managers forgive errors but expect honesty and results over excuses.
 - [Getting the main thing right](https://seangoedecke.com/getting-the-main-thing-right/) 👤 seangoedecke.com 💬 1474 🔖 #career, #burnout 🗓️ 2026-02-06
     > **Резюме:** The most important thing in tech work is to deliver projects that add value and satisfy management. Focusing on this "main thing" matters more than small tasks or personal preferences. Success often comes from knowing what truly counts and adapting as priorities change.
 - [You have to know how to drive the car](https://seangoedecke.com/knowing-how-to-drive-the-car/) 👤 seangoedecke.com 💬 880 🔖 #career 🗓️ 2026-01-26

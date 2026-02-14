@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1421
+- Всего ссылок: 1422
 
 ## Ссылки
 
+- [On screwing up](https://seangoedecke.com/screwing-up/) 👤 seangoedecke.com 💬 1404 🔖 #career 🗓️ 2026-02-11
 - [“TDD Slows Me Down”. Good.](https://codemanship.wordpress.com/2026/02/08/tdd-slows-me-down-good/) 👤 Codemanship's Blog 💬 398 🔖 #tdd 🗓️ 2026-02-09
 - [Large tech companies don't need heroes](https://seangoedecke.com/heroism/) 👤 seangoedecke.com 💬 1172 🗓️ 2026-02-09
 - [The pitch deck is dead. Write a pitch.md instead.](https://www.joanwestenberg.com/the-pitch-deck-is-dead-write-a-pitch-md-instead/?ref=westenberg-newsletter) 👤 Westenberg. 💬 1055 🗓️ 2026-02-09

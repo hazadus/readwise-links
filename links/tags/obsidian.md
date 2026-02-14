@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 21
+- Всего ссылок: 22
 
 ## Ссылки
 
+- [Building an Obsidian RAG with DuckDB and MotherDuck](https://www.ssp.sh/blog/obsidian-rag-duckdb-sql/) 👤 Data Engineering 💬 4029 🔖 #obsidian 🗓️ 2026-02-13
+    > **Резюме:** This article shows how to build a tool that searches and connects markdown notes using DuckDB and Obsidian links. It helps find related ideas, hidden connections, and relevant content without sharing data with AI services. The system includes a web app and command line interface for easy semantic search and note exploration.
 - [How I Use Obsidian](https://calv.info/how-i-use-obsidian) 👤 calv.info 💬 1374 🔖 #obsidian 🗓️ 2026-01-10
     > **Резюме:** The author uses Obsidian as a simple, local-first tool to help think and write every day. They focus on starting to write quickly without worrying about perfect organization. Daily notes are key, and using hotkeys and templates makes the process easier and more natural.
 - [Using Notebook Navigator and Cupertino in Obsidian](https://cassidoo.co/post/notebook-nav-cupertino/) 👤 cassidoo.co 💬 243 🔖 #obsidian 🗓️ 2025-09-28
