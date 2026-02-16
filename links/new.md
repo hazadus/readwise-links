@@ -1,10 +1,9 @@
 # Новые ссылки
 
-- Всего ссылок: 888
+- Всего ссылок: 887
 
 ## Ссылки
 
-- [Have I hardened against LLMs?](https://www.baldurbjarnason.com/2026/have-i-hardened-against-ai/) 👤 baldurbjarnason.com 💬 1791 🗓️ 2026-02-10
 - [Правда о go test -cover -race ./... (и не только)](https://youtube.com/watch?v=BDVSbr3wGYU&si=Kbrtx-qTB_OtuDNk) 👤 Куда войти? 🔖 #go, #testing 🗓️ 2026-01-30
 - [30+ Самых ожидаемых игр 2026 года I Битый Пиксель](https://www.youtube.com/watch?v=liGmkwyQfjY) 👤 Битый Пиксель 🗓️ 2026-01-24
 - [Django & HTMX - with Server-Sent Events (SSE)!](https://www.youtube.com/watch?v=9qwCc0FgPRg) 👤 BugBytes 🔖 #sse, #htmx, #django 🗓️ 2026-01-23

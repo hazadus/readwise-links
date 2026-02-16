@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 20
+- Всего ссылок: 22
 
 ## Ссылки
 
+- [Last Week on My Mac: Why E cores make Apple silicon fast](https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/?utm_source=tldrdev) 👤 The Eclectic Light Company 💬 904 🔖 #macos 🗓️ 2026-02-15
+    > **Резюме:** Apple silicon Macs are fast because they use Efficiency (E) cores to handle background tasks, freeing up Performance (P) cores for apps you use. This smart design keeps your apps running smoothly even when many processes use the CPU. The system schedules tasks carefully to save battery and boost speed, unlike older Intel Macs.
+- [Explainer: % CPU in Activity Monitor](https://eclecticlight.co/2026/02/14/explainer-cpu-in-activity-monitor/) 👤 The Eclectic Light Company 💬 1543 🔖 #macos 🗓️ 2026-02-15
+    > **Резюме:** Activity Monitor shows % CPU as the time CPU cores spend working, but it doesn't consider core speed or type. Intel CPUs with Hyper-threading and Apple silicon chips with varying core frequencies can make % CPU confusing to interpret. Also, high % CPU does not always mean an app is unresponsive, as shown by the spinning beachball, which relates to the app’s main thread being busy.
 - [In the background: Spotlight indexing](https://eclecticlight.co/2026/02/10/in-the-background-spotlight-indexing/) 👤 The Eclectic Light Company 💬 919 🔖 #macos 🗓️ 2026-02-10
     > **Резюме:** Spotlight quickly indexes new and changed files using background processes on Apple silicon Macs. After login, these processes run for several minutes, including time-consuming text extraction from images. Prolonged indexing is normal and helps keep search results accurate without affecting performance.
 - [What happens in early kernel boot on Apple silicon?](https://eclecticlight.co/2026/02/03/what-happens-in-early-kernel-boot-on-apple-silicon/) 👤 The Eclectic Light Company 💬 1055 🔖 #macos 🗓️ 2026-02-03

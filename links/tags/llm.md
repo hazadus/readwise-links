@@ -1,9 +1,21 @@
 # Ссылки
 
-- Всего ссылок: 371
+- Всего ссылок: 377
 
 ## Ссылки
 
+- [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://margaretstorey.com/blog/2026/02/09/cognitive-debt/) 👤 on 09 Feb 2026 💬 852 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
+    > **Резюме:** Technical debt is about messy code, but cognitive debt happens when developers lose understanding of the software. AI can create code fast, but teams may struggle to know why things work or how to change them. To avoid problems, teams must slow down, share knowledge, and keep clear explanations of all changes.
+- [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents?utm_source=substack&utm_medium=email) 👤 crawshaw.io 💬 1551 🔖 #llm, #predictions, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** Agent models have improved a lot in the past year, making coding much faster and easier. Traditional IDEs are becoming less needed as new tools and agents take over programming tasks. The author believes future software should focus on what helps programmers most, as agents change how we write code.
+- [Software Engineering is back](https://blog.alaindichiappari.dev/p/software-engineering-is-back?hide_intro_popup=true&utm_source=substack&utm_medium=email) 👤 Alain 💬 1533 🔖 #llm, #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** Software engineering is changing because new coding agents can write most code automatically. This lets engineers focus on designing and solving real problems, not on repetitive tasks. Using fewer frameworks means more freedom and better control over software projects.
+- [Why Elixir is the best language for AI](https://dashbit.co/blog/why-elixir-best-language-for-ai?utm_source=substack&utm_medium=email) 👤 José Valim 💬 1651 🔖 #llm, #elixir, #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** Elixir is the best language for AI because it is easy to understand, stable, and well-documented. Its features like immutability and clear data flow help both humans and AI models reason about code. Also, Elixir’s fast feedback, low complexity, and introspection tools make coding and debugging quicker and simpler.
+- [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything) 👤 Simon Willison 💬 325 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
+    > **Резюме:** Cognitive debt means developers lose understanding of their own code and system. Even if AI creates clear code, people can get confused and stuck. This makes it hard to change or improve projects over time.
+- [Have I hardened against LLMs?](https://www.baldurbjarnason.com/2026/have-i-hardened-against-ai/) 👤 baldurbjarnason.com 💬 1791 🔖 #llm 🗓️ 2026-02-10
+    > **Резюме:** The author’s opinion on large language models (LLMs) has stayed mostly negative, seeing them as flawed and risky technology. What has changed is the author’s disappointment in the tech industry’s response, which ignores serious harms and pushes these models for profit. Overall, the technology remains problematic, and the industry’s actions make things worse.
 - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) 👤 Mitchell Hashimoto 💬 2321 🔖 #llm, #llm-devimpact 🗓️ 2026-02-06
     > **Резюме:** Mitchell Hashimoto shares how he learned to use AI agents to help with coding and research tasks. He found that letting agents work during low-energy times improved his productivity. He emphasizes controlling when to use AI and improving agents to make fewer mistakes.
 - [A Step Behind the Bleeding Edge: Monarch’s Philosophy on AI in Dev](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/?utm_source=tldrdev) 👤 Somehow Manage 💬 1635 🔖 #llm, #llm-devimpact 🗓️ 2026-02-04
@@ -73,7 +85,7 @@
     > **Резюме:** Most dev teams don't get better results from AI because they haven't fixed slow, blocking parts of their process. High performers invest a lot of time and money to build fast, smooth workflows that deliver value quickly. Without this big effort, AI alone won't improve productivity or business outcomes.
 - [AI Zealotry](https://matthewrocklin.com/ai-zealotry/?utm_source=tldrdev#why-ai) 👤 Matthew Rocklin 💬 2935 🔖 #llm, #claude 🗓️ 2026-01-13
     > **Резюме:** AI helps experienced developers work faster and think at higher levels of abstraction. Trust in AI-generated code grows with strong testing and automated feedback. Programming with AI is an evolution like compilers, making coding more fun and productive despite some trade-offs.
-- [Code Is Cheap Now. Software Isn’t.](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt?utm_source=tldrdev) 👤 chrisgregori.dev 💬 1933 🔖 #llm 🗓️ 2026-01-13
+- [Code Is Cheap Now. Software Isn’t.](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt?utm_source=tldrdev) 👤 chrisgregori.dev 💬 1933 🔖 #llm, #joyandcuriosity 🗓️ 2026-01-13
     > **Резюме:** Coding is easier and faster now thanks to AI, but building lasting, reliable software is still hard and needs skilled engineers. People are making personal, disposable tools to solve specific problems quickly instead of traditional long-term apps. Success depends more on understanding users and good judgment than just writing code.
 - [Code is a liability (not an asset)](https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes?utm_source=tldrdev) 👤 pluralistic.net 💬 3678 🔖 #llm, #toot, #programming, #llm-devimpact 🗓️ 2026-01-13
     > **Заметка:** "There will be plenty of work fixing the things that we broke thanks to the most dangerous AI psychosis of all – the hallucinatory belief that "writing code" is the same thing as "software engineering."

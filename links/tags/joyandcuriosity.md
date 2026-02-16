@@ -1,9 +1,23 @@
 # Ссылки
 
-- Всего ссылок: 61
+- Всего ссылок: 69
 
 ## Ссылки
 
+- [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents?utm_source=substack&utm_medium=email) 👤 crawshaw.io 💬 1551 🔖 #llm, #predictions, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** Agent models have improved a lot in the past year, making coding much faster and easier. Traditional IDEs are becoming less needed as new tools and agents take over programming tasks. The author believes future software should focus on what helps programmers most, as agents change how we write code.
+- [I miss thinking hard.](https://www.jernesto.com/articles/thinking_hard?utm_source=substack&utm_medium=email) 👤 jernesto.com 💬 1057 🔖 #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** The author misses deep thinking and solving hard problems that take time and effort. AI helps build things faster but reduces chances for creative mental struggle. This leaves the author feeling stuck between wanting to build quickly and needing to think deeply.
+- [Software Engineering is back](https://blog.alaindichiappari.dev/p/software-engineering-is-back?hide_intro_popup=true&utm_source=substack&utm_medium=email) 👤 Alain 💬 1533 🔖 #llm, #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** Software engineering is changing because new coding agents can write most code automatically. This lets engineers focus on designing and solving real problems, not on repetitive tasks. Using fewer frameworks means more freedom and better control over software projects.
+- [Why Elixir is the best language for AI](https://dashbit.co/blog/why-elixir-best-language-for-ai?utm_source=substack&utm_medium=email) 👤 José Valim 💬 1651 🔖 #llm, #elixir, #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** Elixir is the best language for AI because it is easy to understand, stable, and well-documented. Its features like immutability and clear data flow help both humans and AI models reason about code. Also, Elixir’s fast feedback, low complexity, and introspection tools make coding and debugging quicker and simpler.
+- [Dithering - Part 2](https://visualrambling.space/dithering-part-2/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 974 🔖 #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** Ordered dithering uses a threshold map to turn grayscale images into black and white patterns that mimic the original brightness. Different threshold maps, like Bayer matrices, create unique patterns and smoother transitions between shades. More complex maps, such as void-and-cluster, produce natural textures and reduce visual artifacts.
+- [Code is cheap. Show me the talk.](https://nadh.in/blog/code-is-cheap/?utm_source=substack&utm_medium=email) 👤 nadh.in 💬 3618 🔖 #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** Software development has changed completely because of AI coding tools that make writing code much faster and easier. Most code today is low quality and easy to produce, so trust and expert guidance are more important than ever. The future will have many bad code projects, but also some well-managed ones that will shape a new software world.
+- [Look for what's true](https://dubroy.com/blog/look-for-whats-true/?utm_source=substack&utm_medium=email) 👤 About 💬 355 🔖 #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** The author learned to handle negative feedback by looking for the true part in it. This helps to set aside emotions and see things clearly. This approach also works well for calming down when faced with strong opinions online.
 - [I left FAANG for a startup and regretted it](https://lawrenceztang.substack.com/p/i-left-faang-for-a-startup-and-regretted?utm_source=substack&utm_medium=email) 👤 Lawrence Tang 💬 1321 🔖 #joyandcuriosity 🗓️ 2026-01-28
     > **Резюме:** The author left a comfortable job at Amazon for a startup but quickly realized it was a mistake. The startup's fast pace and culture did not fit him, and he was let go after only three weeks. This experience taught him valuable lessons about choosing work that truly fits his passion and strengths.
 - [Stay away from my trash!](https://tldraw.dev/blog/stay-away-from-my-trash?utm_source=substack&utm_medium=email) 👤 tldraw.dev 💬 1601 🔖 #github, #llm-devimpact, #joyandcuriosity 🗓️ 2026-01-28
@@ -20,6 +34,8 @@
     > **Резюме:** ASCII characters are not simple pixels; their shapes affect how images appear when rendered as ASCII art. By using multiple sampling points and enhancing contrast, we can create sharper and clearer ASCII images. These techniques improve readability and capture the shape of characters better than traditional pixel-based methods.
 - [DHH: Why AI Isn't Writing My Code (Yet)](https://www.youtube.com/watch?v=uWqno4HM4xA) 👤 Amp, Inc. 🔖 #joyandcuriosity 🗓️ 2026-01-19
     > **Резюме:** AI is changing software development, but it is not yet advanced enough to replace programmers. Many companies, including 37signals, have tried AI features but found they are not always better or loved by users. Despite this, AI helps lower the barrier to launching new products and can improve coding productivity over time.
+- [Code Is Cheap Now. Software Isn’t.](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt?utm_source=tldrdev) 👤 chrisgregori.dev 💬 1933 🔖 #llm, #joyandcuriosity 🗓️ 2026-01-13
+    > **Резюме:** Coding is easier and faster now thanks to AI, but building lasting, reliable software is still hard and needs skilled engineers. People are making personal, disposable tools to solve specific problems quickly instead of traditional long-term apps. Success depends more on understanding users and good judgment than just writing code.
 - [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes?utm_source=substack&utm_medium=email) 👤 Jason Fried 💬 725 🔖 #reflections, #joyandcuriosity 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/6947a75b-b214-8327-9837-b87b2e4258cc
     > **Резюме:** Quick reactions often stop us from truly understanding ideas. Giving an idea five minutes means thinking before judging or arguing. This helps us learn more and respect the fragile nature of new thoughts.

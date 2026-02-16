@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 41
+- Всего ссылок: 44
 
 ## Ссылки
 
+- [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://margaretstorey.com/blog/2026/02/09/cognitive-debt/) 👤 on 09 Feb 2026 💬 852 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
+    > **Резюме:** Technical debt is about messy code, but cognitive debt happens when developers lose understanding of the software. AI can create code fast, but teams may struggle to know why things work or how to change them. To avoid problems, teams must slow down, share knowledge, and keep clear explanations of all changes.
+- [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents?utm_source=substack&utm_medium=email) 👤 crawshaw.io 💬 1551 🔖 #llm, #predictions, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** Agent models have improved a lot in the past year, making coding much faster and easier. Traditional IDEs are becoming less needed as new tools and agents take over programming tasks. The author believes future software should focus on what helps programmers most, as agents change how we write code.
+- [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything) 👤 Simon Willison 💬 325 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
+    > **Резюме:** Cognitive debt means developers lose understanding of their own code and system. Even if AI creates clear code, people can get confused and stuck. This makes it hard to change or improve projects over time.
 - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) 👤 Mitchell Hashimoto 💬 2321 🔖 #llm, #llm-devimpact 🗓️ 2026-02-06
     > **Резюме:** Mitchell Hashimoto shares how he learned to use AI agents to help with coding and research tasks. He found that letting agents work during low-energy times improved his productivity. He emphasizes controlling when to use AI and improving agents to make fewer mistakes.
 - [A Step Behind the Bleeding Edge: Monarch’s Philosophy on AI in Dev](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/?utm_source=tldrdev) 👤 Somehow Manage 💬 1635 🔖 #llm, #llm-devimpact 🗓️ 2026-02-04

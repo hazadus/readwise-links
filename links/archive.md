@@ -1,10 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 1422
+- Всего ссылок: 1425
 
 ## Ссылки
 
+- [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://margaretstorey.com/blog/2026/02/09/cognitive-debt/) 👤 on 09 Feb 2026 💬 852 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
+- [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything) 👤 Simon Willison 💬 325 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
 - [On screwing up](https://seangoedecke.com/screwing-up/) 👤 seangoedecke.com 💬 1404 🔖 #career 🗓️ 2026-02-11
+- [Have I hardened against LLMs?](https://www.baldurbjarnason.com/2026/have-i-hardened-against-ai/) 👤 baldurbjarnason.com 💬 1791 🔖 #llm 🗓️ 2026-02-10
 - [“TDD Slows Me Down”. Good.](https://codemanship.wordpress.com/2026/02/08/tdd-slows-me-down-good/) 👤 Codemanship's Blog 💬 398 🔖 #tdd 🗓️ 2026-02-09
 - [Large tech companies don't need heroes](https://seangoedecke.com/heroism/) 👤 seangoedecke.com 💬 1172 🗓️ 2026-02-09
 - [The pitch deck is dead. Write a pitch.md instead.](https://www.joanwestenberg.com/the-pitch-deck-is-dead-write-a-pitch-md-instead/?ref=westenberg-newsletter) 👤 Westenberg. 💬 1055 🗓️ 2026-02-09
@@ -94,7 +97,7 @@
 - [The Great Filter (Or Why High Performance Still Eludes Most Dev Teams, Even With AI)](https://codemanship.wordpress.com/2026/01/12/the-great-filter-or-why-high-performance-still-eludes-most-dev-teams-even-with-ai/) 👤 Codemanship's Blog 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-13
 - [AI Zealotry](https://matthewrocklin.com/ai-zealotry/?utm_source=tldrdev#why-ai) 👤 Matthew Rocklin 💬 2935 🔖 #llm, #claude 🗓️ 2026-01-13
 - [Code is Clay](https://campedersen.com/code-is-clay) 👤 campedersen.com 💬 497 🗓️ 2026-01-13
-- [Code Is Cheap Now. Software Isn’t.](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt?utm_source=tldrdev) 👤 chrisgregori.dev 💬 1933 🔖 #llm 🗓️ 2026-01-13
+- [Code Is Cheap Now. Software Isn’t.](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt?utm_source=tldrdev) 👤 chrisgregori.dev 💬 1933 🔖 #llm, #joyandcuriosity 🗓️ 2026-01-13
 - [Staging is a wasteful lie: the case for the mono-environment](https://www.tomwphillips.co.uk/2026/01/staging-is-a-wasteful-lie-the-case-for-the-mono-environment/?utm_source=tldrdev) 👤 Tom Phillips 💬 2541 🔖 #devops 🗓️ 2026-01-13
 - [Code is a liability (not an asset)](https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes?utm_source=tldrdev) 👤 pluralistic.net 💬 3678 🔖 #llm, #toot, #programming, #llm-devimpact 🗓️ 2026-01-13
     > **Заметка:** "There will be plenty of work fixing the things that we broke thanks to the most dangerous AI psychosis of all – the hallucinatory belief that "writing code" is the same thing as "software engineering."

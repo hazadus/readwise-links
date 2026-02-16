@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents?utm_source=substack&utm_medium=email) 👤 crawshaw.io 💬 1551 🔖 #llm, #predictions, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** Agent models have improved a lot in the past year, making coding much faster and easier. Traditional IDEs are becoming less needed as new tools and agents take over programming tasks. The author believes future software should focus on what helps programmers most, as agents change how we write code.
 - [One Human + One Agent = One Browser From Scratch](https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/#atom-everything) 👤 Simon Willison 💬 260 🔖 #llm, #predictions 🗓️ 2026-01-28
     > **Резюме:** A single coding agent built a basic web browser in just three days using 20,000 lines of Rust code. The browser can render HTML, CSS, and SVG images without external Rust libraries. This shows AI can help small teams create solid software quickly.
 - [The Adolescence of Technology](https://www.darioamodei.com/essay/the-adolescence-of-technology) 👤 darioamodei.com 💬 21664 🔖 #llm, #claude, #predictions 🗓️ 2026-01-27

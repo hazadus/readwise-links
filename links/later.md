@@ -1,9 +1,29 @@
 # Отложенные ссылки
 
-- Всего ссылок: 121
+- Всего ссылок: 131
 
 ## Ссылки
 
+- [Last Week on My Mac: Why E cores make Apple silicon fast](https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/?utm_source=tldrdev) 👤 The Eclectic Light Company 💬 904 🔖 #macos 🗓️ 2026-02-15
+    > **Резюме:** Apple silicon Macs are fast because they use Efficiency (E) cores to handle background tasks, freeing up Performance (P) cores for apps you use. This smart design keeps your apps running smoothly even when many processes use the CPU. The system schedules tasks carefully to save battery and boost speed, unlike older Intel Macs.
+- [Stop generating, start thinking](https://localghost.dev/blog/stop-generating-start-thinking/?utm_source=tldrdev) 👤 localghost 💬 1649 🗓️ 2026-02-15
+    > **Резюме:** The author warns that relying too much on AI-generated code can harm software quality and reduce human thinking. They believe coding should involve careful thought, not just prompting machines. Using AI is fine for simple tasks, but real understanding is still needed to build good software.
+- [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents?utm_source=substack&utm_medium=email) 👤 crawshaw.io 💬 1551 🔖 #llm, #predictions, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** Agent models have improved a lot in the past year, making coding much faster and easier. Traditional IDEs are becoming less needed as new tools and agents take over programming tasks. The author believes future software should focus on what helps programmers most, as agents change how we write code.
+- [I miss thinking hard.](https://www.jernesto.com/articles/thinking_hard?utm_source=substack&utm_medium=email) 👤 jernesto.com 💬 1057 🔖 #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** The author misses deep thinking and solving hard problems that take time and effort. AI helps build things faster but reduces chances for creative mental struggle. This leaves the author feeling stuck between wanting to build quickly and needing to think deeply.
+- [Software Engineering is back](https://blog.alaindichiappari.dev/p/software-engineering-is-back?hide_intro_popup=true&utm_source=substack&utm_medium=email) 👤 Alain 💬 1533 🔖 #llm, #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** Software engineering is changing because new coding agents can write most code automatically. This lets engineers focus on designing and solving real problems, not on repetitive tasks. Using fewer frameworks means more freedom and better control over software projects.
+- [Why Elixir is the best language for AI](https://dashbit.co/blog/why-elixir-best-language-for-ai?utm_source=substack&utm_medium=email) 👤 José Valim 💬 1651 🔖 #llm, #elixir, #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** Elixir is the best language for AI because it is easy to understand, stable, and well-documented. Its features like immutability and clear data flow help both humans and AI models reason about code. Also, Elixir’s fast feedback, low complexity, and introspection tools make coding and debugging quicker and simpler.
+- [Dithering - Part 2](https://visualrambling.space/dithering-part-2/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 974 🔖 #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** Ordered dithering uses a threshold map to turn grayscale images into black and white patterns that mimic the original brightness. Different threshold maps, like Bayer matrices, create unique patterns and smoother transitions between shades. More complex maps, such as void-and-cluster, produce natural textures and reduce visual artifacts.
+- [Code is cheap. Show me the talk.](https://nadh.in/blog/code-is-cheap/?utm_source=substack&utm_medium=email) 👤 nadh.in 💬 3618 🔖 #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** Software development has changed completely because of AI coding tools that make writing code much faster and easier. Most code today is low quality and easy to produce, so trust and expert guidance are more important than ever. The future will have many bad code projects, but also some well-managed ones that will shape a new software world.
+- [Look for what's true](https://dubroy.com/blog/look-for-whats-true/?utm_source=substack&utm_medium=email) 👤 About 💬 355 🔖 #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** The author learned to handle negative feedback by looking for the true part in it. This helps to set aside emotions and see things clearly. This approach also works well for calming down when faced with strong opinions online.
+- [Explainer: % CPU in Activity Monitor](https://eclecticlight.co/2026/02/14/explainer-cpu-in-activity-monitor/) 👤 The Eclectic Light Company 💬 1543 🔖 #macos 🗓️ 2026-02-15
+    > **Резюме:** Activity Monitor shows % CPU as the time CPU cores spend working, but it doesn't consider core speed or type. Intel CPUs with Hyper-threading and Apple silicon chips with varying core frequencies can make % CPU confusing to interpret. Also, high % CPU does not always mean an app is unresponsive, as shown by the spinning beachball, which relates to the app’s main thread being busy.
 - [Rebooting The Hynek](https://buttondown.com/hynek/archive/rebooting-the-hynek/) 👤 Hynek Did Something 💬 1415 🗓️ 2026-02-13
     > **Резюме:** In 2025, Hynek balanced writing talks, managing open-source projects, and a big work project while taking time to reset at a spa retreat. He gave his first keynote on Python's unique strengths and plans to focus on FOSS, YouTube, and blogging in 2026. Hynek thanks his supporters and shares that despite challenges, he looks forward to continuing his creative work.
 - [Why Parenting Is Similar To JavaScript Development](https://brainbaking.com/post/2026/02/why-parenting-is-similar-to-javascript-development/) 👤 Wouter Groeneveld 💬 974 🗓️ 2026-02-13
