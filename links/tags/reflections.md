@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [I miss thinking hard.](https://www.jernesto.com/articles/thinking_hard?utm_source=substack&utm_medium=email) 👤 jernesto.com 💬 1057 🔖 #learning, #reflections, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** The author misses deep thinking and solving hard problems that take time and effort. AI helps build things faster but reduces chances for creative mental struggle. This leaves the author feeling stuck between wanting to build quickly and needing to think deeply.
 - [Your Life is the Sum Total of 2,000 Mondays](https://www.joanwestenberg.com/your-life-is-the-sum-total-of-2-000-mondays/?ref=westenberg-newsletter) 👤 Westenberg. 💬 1967 🔖 #reflections 🗓️ 2026-01-31
     > **Резюме:** Life is mostly made up of ordinary days like Mondays, not just exciting moments. Finding meaning means appreciating everyday life, not chasing rare peak experiences. Designing your daily routine with care helps you live fully and build who you want to be.
 - [The secret to being happy in 2026? It’s far, far simpler than you think …](https://www.theguardian.com/lifeandstyle/2026/jan/03/secret-being-happy-2026-simpler-than-you-think) 👤 Oliver Burkeman 💬 1918 🔖 #reflections 🗓️ 2026-01-26

@@ -1,15 +1,23 @@
 # Ссылки
 
-- Всего ссылок: 44
+- Всего ссылок: 48
 
 ## Ссылки
 
 - [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://margaretstorey.com/blog/2026/02/09/cognitive-debt/) 👤 on 09 Feb 2026 💬 852 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
     > **Резюме:** Technical debt is about messy code, but cognitive debt happens when developers lose understanding of the software. AI can create code fast, but teams may struggle to know why things work or how to change them. To avoid problems, teams must slow down, share knowledge, and keep clear explanations of all changes.
+- [Stop generating, start thinking](https://localghost.dev/blog/stop-generating-start-thinking/?utm_source=tldrdev) 👤 localghost 💬 1649 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
+    > **Резюме:** The author warns that relying too much on AI-generated code can harm software quality and reduce human thinking. They believe coding should involve careful thought, not just prompting machines. Using AI is fine for simple tasks, but real understanding is still needed to build good software.
 - [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents?utm_source=substack&utm_medium=email) 👤 crawshaw.io 💬 1551 🔖 #llm, #predictions, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
     > **Резюме:** Agent models have improved a lot in the past year, making coding much faster and easier. Traditional IDEs are becoming less needed as new tools and agents take over programming tasks. The author believes future software should focus on what helps programmers most, as agents change how we write code.
+- [I miss thinking hard.](https://www.jernesto.com/articles/thinking_hard?utm_source=substack&utm_medium=email) 👤 jernesto.com 💬 1057 🔖 #learning, #reflections, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** The author misses deep thinking and solving hard problems that take time and effort. AI helps build things faster but reduces chances for creative mental struggle. This leaves the author feeling stuck between wanting to build quickly and needing to think deeply.
+- [Code is cheap. Show me the talk.](https://nadh.in/blog/code-is-cheap/?utm_source=substack&utm_medium=email) 👤 nadh.in 💬 3618 🔖 #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** Software development has changed completely because of AI coding tools that make writing code much faster and easier. Most code today is low quality and easy to produce, so trust and expert guidance are more important than ever. The future will have many bad code projects, but also some well-managed ones that will shape a new software world.
 - [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything) 👤 Simon Willison 💬 325 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
     > **Резюме:** Cognitive debt means developers lose understanding of their own code and system. Even if AI creates clear code, people can get confused and stuck. This makes it hard to change or improve projects over time.
+- [The Final Bottleneck](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/) 👤 Armin Ronacher 💬 1067 🔖 #llm-devimpact 🗓️ 2026-02-13
+    > **Резюме:** Writing code is getting faster, but reviewing it cannot keep up, causing big delays and confusion. This problem is similar to past industrial bottlenecks where speeding one step just shifted the constraint downstream. We must find new ways to share responsibility between humans and machines to handle this fast pace sustainably.
 - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) 👤 Mitchell Hashimoto 💬 2321 🔖 #llm, #llm-devimpact 🗓️ 2026-02-06
     > **Резюме:** Mitchell Hashimoto shares how he learned to use AI agents to help with coding and research tasks. He found that letting agents work during low-energy times improved his productivity. He emphasizes controlling when to use AI and improving agents to make fewer mistakes.
 - [A Step Behind the Bleeding Edge: Monarch’s Philosophy on AI in Dev](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/?utm_source=tldrdev) 👤 Somehow Manage 💬 1635 🔖 #llm, #llm-devimpact 🗓️ 2026-02-04

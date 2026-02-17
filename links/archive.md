@@ -1,11 +1,16 @@
 # Архивные ссылки
 
-- Всего ссылок: 1425
+- Всего ссылок: 1430
 
 ## Ссылки
 
+- [On-demand learning is ruining the tech industry.](https://www.jernesto.com/articles/learning) 👤 jernesto.com 💬 1454 🔖 #learning 🗓️ 2026-02-16
 - [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://margaretstorey.com/blog/2026/02/09/cognitive-debt/) 👤 on 09 Feb 2026 💬 852 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
+- [Stop generating, start thinking](https://localghost.dev/blog/stop-generating-start-thinking/?utm_source=tldrdev) 👤 localghost 💬 1649 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
+- [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents?utm_source=substack&utm_medium=email) 👤 crawshaw.io 💬 1551 🔖 #llm, #predictions, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
+- [I miss thinking hard.](https://www.jernesto.com/articles/thinking_hard?utm_source=substack&utm_medium=email) 👤 jernesto.com 💬 1057 🔖 #learning, #reflections, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
 - [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything) 👤 Simon Willison 💬 325 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
+- [The Final Bottleneck](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/) 👤 Armin Ronacher 💬 1067 🔖 #llm-devimpact 🗓️ 2026-02-13
 - [On screwing up](https://seangoedecke.com/screwing-up/) 👤 seangoedecke.com 💬 1404 🔖 #career 🗓️ 2026-02-11
 - [Have I hardened against LLMs?](https://www.baldurbjarnason.com/2026/have-i-hardened-against-ai/) 👤 baldurbjarnason.com 💬 1791 🔖 #llm 🗓️ 2026-02-10
 - [“TDD Slows Me Down”. Good.](https://codemanship.wordpress.com/2026/02/08/tdd-slows-me-down-good/) 👤 Codemanship's Blog 💬 398 🔖 #tdd 🗓️ 2026-02-09

@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 36
+- Всего ссылок: 38
 
 ## Ссылки
 
+- [On-demand learning is ruining the tech industry.](https://www.jernesto.com/articles/learning) 👤 jernesto.com 💬 1454 🔖 #learning 🗓️ 2026-02-16
+    > **Резюме:** On-demand learning helps quickly master tools but often skips deep concepts. Without strong concepts, software can be buggy and insecure. Balancing both learning styles is key for long-term success in tech.
+- [I miss thinking hard.](https://www.jernesto.com/articles/thinking_hard?utm_source=substack&utm_medium=email) 👤 jernesto.com 💬 1057 🔖 #learning, #reflections, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
+    > **Резюме:** The author misses deep thinking and solving hard problems that take time and effort. AI helps build things faster but reduces chances for creative mental struggle. This leaves the author feeling stuck between wanting to build quickly and needing to think deeply.
 - [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html?utm_source=tldrdev) 👤 Erik Johannes Husom 💬 3535 🔖 #llm, #learning 🗓️ 2026-02-04
     > **Резюме:** Outsourcing thinking to AI can help with some tasks but may harm important mental skills we need. We must be careful about which thinking we let machines do, especially for personal communication and learning. How we use AI affects not just efficiency, but also our lives and society.
 - [The AI-Ready Software Developer #11 – Staying Sharp](https://codemanship.wordpress.com/2025/10/27/the-ai-ready-software-developer-11-staying-sharp/) 👤 Codemanship's Blog 💬 633 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-02-02

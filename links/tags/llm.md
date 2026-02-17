@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 377
+- Всего ссылок: 378
 
 ## Ссылки
 
 - [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://margaretstorey.com/blog/2026/02/09/cognitive-debt/) 👤 on 09 Feb 2026 💬 852 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
     > **Резюме:** Technical debt is about messy code, but cognitive debt happens when developers lose understanding of the software. AI can create code fast, but teams may struggle to know why things work or how to change them. To avoid problems, teams must slow down, share knowledge, and keep clear explanations of all changes.
+- [Stop generating, start thinking](https://localghost.dev/blog/stop-generating-start-thinking/?utm_source=tldrdev) 👤 localghost 💬 1649 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
+    > **Резюме:** The author warns that relying too much on AI-generated code can harm software quality and reduce human thinking. They believe coding should involve careful thought, not just prompting machines. Using AI is fine for simple tasks, but real understanding is still needed to build good software.
 - [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents?utm_source=substack&utm_medium=email) 👤 crawshaw.io 💬 1551 🔖 #llm, #predictions, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
     > **Резюме:** Agent models have improved a lot in the past year, making coding much faster and easier. Traditional IDEs are becoming less needed as new tools and agents take over programming tasks. The author believes future software should focus on what helps programmers most, as agents change how we write code.
 - [Software Engineering is back](https://blog.alaindichiappari.dev/p/software-engineering-is-back?hide_intro_popup=true&utm_source=substack&utm_medium=email) 👤 Alain 💬 1533 🔖 #llm, #joyandcuriosity 🗓️ 2026-02-15
