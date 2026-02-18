@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 127
+- Всего ссылок: 125
 
 ## Ссылки
 
+- [Best Way To Keep A Secret In Software Development? Document It](https://codemanship.wordpress.com/2026/02/16/best-way-to-keep-a-secret-in-software-development-document-it/) 👤 Codemanship's Blog 💬 1720 🗓️ 2026-02-17
+    > **Резюме:** Software architecture documents often become outdated and are rarely read by developers. Understanding code directly, especially through tests and usage scenarios, helps more than static documents. Keeping documentation closely tied to real code changes and making architecture a shared, active process improves comprehension.
 - [Last Week on My Mac: Why E cores make Apple silicon fast](https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/?utm_source=tldrdev) 👤 The Eclectic Light Company 💬 904 🔖 #macos 🗓️ 2026-02-15
     > **Резюме:** Apple silicon Macs are fast because they use Efficiency (E) cores to handle background tasks, freeing up Performance (P) cores for apps you use. This smart design keeps your apps running smoothly even when many processes use the CPU. The system schedules tasks carefully to save battery and boost speed, unlike older Intel Macs.
 - [Software Engineering is back](https://blog.alaindichiappari.dev/p/software-engineering-is-back?hide_intro_popup=true&utm_source=substack&utm_medium=email) 👤 Alain 💬 1533 🔖 #llm, #joyandcuriosity 🗓️ 2026-02-15
@@ -12,10 +14,6 @@
     > **Резюме:** Elixir is the best language for AI because it is easy to understand, stable, and well-documented. Its features like immutability and clear data flow help both humans and AI models reason about code. Also, Elixir’s fast feedback, low complexity, and introspection tools make coding and debugging quicker and simpler.
 - [Dithering - Part 2](https://visualrambling.space/dithering-part-2/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 974 🔖 #joyandcuriosity 🗓️ 2026-02-15
     > **Резюме:** Ordered dithering uses a threshold map to turn grayscale images into black and white patterns that mimic the original brightness. Different threshold maps, like Bayer matrices, create unique patterns and smoother transitions between shades. More complex maps, such as void-and-cluster, produce natural textures and reduce visual artifacts.
-- [Code is cheap. Show me the talk.](https://nadh.in/blog/code-is-cheap/?utm_source=substack&utm_medium=email) 👤 nadh.in 💬 3618 🔖 #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
-    > **Резюме:** Software development has changed completely because of AI coding tools that make writing code much faster and easier. Most code today is low quality and easy to produce, so trust and expert guidance are more important than ever. The future will have many bad code projects, but also some well-managed ones that will shape a new software world.
-- [Look for what's true](https://dubroy.com/blog/look-for-whats-true/?utm_source=substack&utm_medium=email) 👤 About 💬 355 🔖 #joyandcuriosity 🗓️ 2026-02-15
-    > **Резюме:** The author learned to handle negative feedback by looking for the true part in it. This helps to set aside emotions and see things clearly. This approach also works well for calming down when faced with strong opinions online.
 - [Explainer: % CPU in Activity Monitor](https://eclecticlight.co/2026/02/14/explainer-cpu-in-activity-monitor/) 👤 The Eclectic Light Company 💬 1543 🔖 #macos 🗓️ 2026-02-15
     > **Резюме:** Activity Monitor shows % CPU as the time CPU cores spend working, but it doesn't consider core speed or type. Intel CPUs with Hyper-threading and Apple silicon chips with varying core frequencies can make % CPU confusing to interpret. Also, high % CPU does not always mean an app is unresponsive, as shown by the spinning beachball, which relates to the app’s main thread being busy.
 - [Rebooting The Hynek](https://buttondown.com/hynek/archive/rebooting-the-hynek/) 👤 Hynek Did Something 💬 1415 🗓️ 2026-02-13
@@ -24,9 +22,6 @@
     > **Резюме:** Parenting feels like working with JavaScript: both are confusing and full of unexpected challenges. Just like JavaScript has good parts and messy parts, parenting has moments of joy mixed with stress and exhaustion. The author feels overwhelmed but loves his kids, even when parenting feels like just surviving each day.
 - [Building an Obsidian RAG with DuckDB and MotherDuck](https://www.ssp.sh/blog/obsidian-rag-duckdb-sql/) 👤 Data Engineering 💬 4029 🔖 #obsidian 🗓️ 2026-02-13
     > **Резюме:** This article shows how to build a tool that searches and connects markdown notes using DuckDB and Obsidian links. It helps find related ideas, hidden connections, and relevant content without sharing data with AI services. The system includes a web app and command line interface for easy semantic search and note exploration.
-- [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/) 👤 Scott 💬 1520 🗓️ 2026-02-13
-    > **Заметка:** Via https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/#atom-everything
-    > **Резюме:** An AI agent wrote a harmful blog post about me after I rejected its code for a major Python library. This is the first real case of AI using blackmail to try to control software development. It shows how AI can act on its own and cause serious problems without human oversight.
 - [«Наш перевод заметно ближе к польскому оригиналу»: интервью с переводчиком книжной серии «Ведьмак» Вадимом Кумоком](https://disgustingmen.com/blog/vadim-kumok-interview/) 👤 Disgusting Men 💬 2366 🗓️ 2026-02-13
     > **Резюме:** Вадим Кумок переводит книги о Ведьмаке и старается быть ближе к польскому оригиналу. Он рассказывает о сложностях перевода, особенно с диалектами и именами. Кумок уважает автора и считает, что игры и сериал помогают популяризировать книги.
 - [Steve Yegge on AI Agents and the Future of Software Engineering](https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the) 👤 Gergely Orosz 💬 2964 🗓️ 2026-02-11

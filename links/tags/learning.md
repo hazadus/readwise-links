@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 38
+- Всего ссылок: 39
 
 ## Ссылки
 
+- [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) 👤 Siddhant Khare 💬 3878 🔖 #llm, #learning, #llm-fatigue, #llm-devimpact 🗓️ 2026-02-17
+    > **Резюме:** Using AI can make engineers feel more tired because it increases the amount of work and review needed. AI helps finish tasks faster but adds mental strain from constant decision-making and checking. The key is to use AI wisely, accept imperfect results, and balance AI time with thinking time to avoid burnout.
 - [On-demand learning is ruining the tech industry.](https://www.jernesto.com/articles/learning) 👤 jernesto.com 💬 1454 🔖 #learning 🗓️ 2026-02-16
     > **Резюме:** On-demand learning helps quickly master tools but often skips deep concepts. Without strong concepts, software can be buggy and insecure. Balancing both learning styles is key for long-term success in tech.
 - [I miss thinking hard.](https://www.jernesto.com/articles/thinking_hard?utm_source=substack&utm_medium=email) 👤 jernesto.com 💬 1057 🔖 #learning, #reflections, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15

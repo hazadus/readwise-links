@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 4
 
 ## Ссылки
 
+- [LLM-generated skills work, if you generate them afterwards](https://www.seangoedecke.com/generate-skills-afterwards/) 👤 seangoedecke.com 💬 700 🔖 #llm, #agentskills 🗓️ 2026-02-17
+    > **Резюме:** LLM-generated skills work best when created after the model solves a task, not before. Creating skills beforehand leads to incorrect assumptions and poor results. This way, the model distills real knowledge gained from experience, improving skill usefulness.
 - [Learn: Analyze Conversation for Documentation](https://alexop.dev/prompts/claude/claude-learn-command/) 👤 Alexander Opalic 💬 282 🔖 #llm, #claude, #agentskills 🗓️ 2026-01-23
     > **Резюме:** Analyzes conversation for insights worth preserving and saves them to the project's documentation
 - [Stop Bloating Your CLAUDE.md: Progressive Disclosure for AI Coding Tools](https://alexop.dev/posts/stop-bloating-your-claude-md-progressive-disclosure-ai-coding-tools/) 👤 Alexander Opalic 💬 1674 🔖 #llm, #claude, #agentskills 🗓️ 2026-01-19

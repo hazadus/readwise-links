@@ -1,16 +1,27 @@
 # Архивные ссылки
 
-- Всего ссылок: 1430
+- Всего ссылок: 1439
 
 ## Ссылки
 
+- [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) 👤 Siddhant Khare 💬 3878 🔖 #llm, #learning, #llm-fatigue, #llm-devimpact 🗓️ 2026-02-17
+- [LLM-generated skills work, if you generate them afterwards](https://www.seangoedecke.com/generate-skills-afterwards/) 👤 seangoedecke.com 💬 700 🔖 #llm, #agentskills 🗓️ 2026-02-17
+- [AI is destroying Open Source, and it's not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/) 👤 Jeff Geerling 💬 704 🔖 #llm 🗓️ 2026-02-17
+- [Он вам не демон: «Невьянская башня» Алексея Иванова — роман о демонах и доменных печах](https://daily.afisha.ru/culture/30642-on-vam-ne-demon-nevyanskaya-bashnya-alekseya-ivanova-roman-o-demonah-i-domennyh-pechah/) 👤 Afisha 💬 698 🔖 #book 🗓️ 2026-02-17
+- [The AI Vampire](https://simonwillison.net/2026/Feb/15/the-ai-vampire/#atom-everything) 👤 Simon Willison 💬 228 🔖 #llm, #llm-fatigue, #llm-devimpact 🗓️ 2026-02-17
+    > **Заметка:** Тезисы: https://chatgpt.com/c/6994d81c-50dc-8325-a76a-6125361f54c4
+- [Deep Blue](https://simonwillison.net/2026/Feb/15/deep-blue/#atom-everything) 👤 Simon Willison 💬 961 🔖 #llm, #definitions, #llm-devimpact 🗓️ 2026-02-17
 - [On-demand learning is ruining the tech industry.](https://www.jernesto.com/articles/learning) 👤 jernesto.com 💬 1454 🔖 #learning 🗓️ 2026-02-16
 - [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://margaretstorey.com/blog/2026/02/09/cognitive-debt/) 👤 on 09 Feb 2026 💬 852 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
 - [Stop generating, start thinking](https://localghost.dev/blog/stop-generating-start-thinking/?utm_source=tldrdev) 👤 localghost 💬 1649 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
 - [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents?utm_source=substack&utm_medium=email) 👤 crawshaw.io 💬 1551 🔖 #llm, #predictions, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
 - [I miss thinking hard.](https://www.jernesto.com/articles/thinking_hard?utm_source=substack&utm_medium=email) 👤 jernesto.com 💬 1057 🔖 #learning, #reflections, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
+- [Code is cheap. Show me the talk.](https://nadh.in/blog/code-is-cheap/?utm_source=substack&utm_medium=email) 👤 nadh.in 💬 3618 🔖 #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
+- [Look for what's true](https://dubroy.com/blog/look-for-whats-true/?utm_source=substack&utm_medium=email) 👤 About 💬 355 🔖 #joyandcuriosity 🗓️ 2026-02-15
 - [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything) 👤 Simon Willison 💬 325 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
 - [The Final Bottleneck](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/) 👤 Armin Ronacher 💬 1067 🔖 #llm-devimpact 🗓️ 2026-02-13
+- [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/) 👤 Scott 💬 1520 🔖 #llm, #llm-devimpact 🗓️ 2026-02-13
+    > **Заметка:** Via https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/#atom-everything
 - [On screwing up](https://seangoedecke.com/screwing-up/) 👤 seangoedecke.com 💬 1404 🔖 #career 🗓️ 2026-02-11
 - [Have I hardened against LLMs?](https://www.baldurbjarnason.com/2026/have-i-hardened-against-ai/) 👤 baldurbjarnason.com 💬 1791 🔖 #llm 🗓️ 2026-02-10
 - [“TDD Slows Me Down”. Good.](https://codemanship.wordpress.com/2026/02/08/tdd-slows-me-down-good/) 👤 Codemanship's Blog 💬 398 🔖 #tdd 🗓️ 2026-02-09
