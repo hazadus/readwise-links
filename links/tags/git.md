@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 20
+- Всего ссылок: 21
 
 ## Ссылки
 
+- [The bare minimum for syncing Git repos](https://alexwlchan.net/2026/bare-git/?ref=rss) 👤 alexwlchan.net 💬 1104 🔖 #git 🗓️ 2026-02-18
+    > **Резюме:** The author syncs personal Git repos using a simple bare repository on an external drive instead of cloud services like GitHub. This method avoids extra features and keeps files safe by pushing to a bare repo accessible locally or via SSH. It’s a minimalist, private way to keep code in sync without relying on third-party hosting.
 - [How to Write Useful Commit Messages](https://refactoringenglish.com/chapters/commit-messages/) 👤 refactoringenglish.com 💬 3972 🔖 #git, #docs, #writing 🗓️ 2026-02-06
     > **Резюме:** Effective writing for software developers
 - [The (lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email) 👤 @bwplotka 💬 2452 🔖 #git, #joyandcuriosity 🗓️ 2025-11-30

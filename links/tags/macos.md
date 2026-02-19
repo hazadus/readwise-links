@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 22
+- Всего ссылок: 24
 
 ## Ссылки
 
+- [Isolate SwiftUI animations to specific attributes](https://nilcoalescing.com/blog/IsolateSwiftUIAnimationsToSpecificAttributes) 👤 Natalia Panferova 💬 478 🔖 #macos, #swift 🗓️ 2026-02-18
+    > **Резюме:** In SwiftUI, animations often affect all view changes, which can cause unwanted effects in reusable components. Using the new animation(_:body:) modifier in iOS 17 lets you isolate animations to specific attributes like opacity. This makes components more predictable by controlling exactly what gets animated.
+- [In the background: Putting threads to work](https://eclecticlight.co/2026/02/17/in-the-background-putting-threads-to-work/) 👤 The Eclectic Light Company 💬 1263 🔖 #macos 🗓️ 2026-02-18
+    > **Резюме:** Apps run faster and stay responsive by using multiple threads that work together on different CPU cores. Apple silicon Macs use a Quality of Service system to decide which cores run which threads, balancing speed and power use. This helps apps perform well while saving battery and managing heat.
 - [Last Week on My Mac: Why E cores make Apple silicon fast](https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/?utm_source=tldrdev) 👤 The Eclectic Light Company 💬 904 🔖 #macos 🗓️ 2026-02-15
     > **Резюме:** Apple silicon Macs are fast because they use Efficiency (E) cores to handle background tasks, freeing up Performance (P) cores for apps you use. This smart design keeps your apps running smoothly even when many processes use the CPU. The system schedules tasks carefully to save battery and boost speed, unlike older Intel Macs.
 - [Explainer: % CPU in Activity Monitor](https://eclecticlight.co/2026/02/14/explainer-cpu-in-activity-monitor/) 👤 The Eclectic Light Company 💬 1543 🔖 #macos 🗓️ 2026-02-15

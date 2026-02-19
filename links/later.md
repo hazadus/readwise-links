@@ -1,9 +1,17 @@
 # Отложенные ссылки
 
-- Всего ссылок: 125
+- Всего ссылок: 129
 
 ## Ссылки
 
+- [Isolate SwiftUI animations to specific attributes](https://nilcoalescing.com/blog/IsolateSwiftUIAnimationsToSpecificAttributes) 👤 Natalia Panferova 💬 478 🔖 #macos, #swift 🗓️ 2026-02-18
+    > **Резюме:** In SwiftUI, animations often affect all view changes, which can cause unwanted effects in reusable components. Using the new animation(_:body:) modifier in iOS 17 lets you isolate animations to specific attributes like opacity. This makes components more predictable by controlling exactly what gets animated.
+- [How did we end up threatening our kids’ lives with AI?](https://anildash.com/2026/02/18/threatening-kids-with-AI/) 👤 Anil Dash 💬 2983 🗓️ 2026-02-18
+    > **Резюме:** Big AI companies prioritize profit over children’s safety by rushing harmful products to market. Many leaders ignore ethics, cut safety teams, and tolerate toxic behavior to stay ahead. This lack of accountability puts kids at risk and worries many people who see the danger but do nothing.
+- [Coding Agents in Feb 2026](https://calv.info/agents-feb-2026) 👤 calv.info 💬 3642 🗓️ 2026-02-18
+    > **Резюме:** Calvin French-Owen uses different coding agents like Claude Code, Opus, and Codex to plan, write, and review code efficiently. He values context understanding and automation to improve his workflow and manage multiple tasks. His approach blends planning, tool use, and code correctness to get the best results from each agent.
+- [In the background: Putting threads to work](https://eclecticlight.co/2026/02/17/in-the-background-putting-threads-to-work/) 👤 The Eclectic Light Company 💬 1263 🔖 #macos 🗓️ 2026-02-18
+    > **Резюме:** Apps run faster and stay responsive by using multiple threads that work together on different CPU cores. Apple silicon Macs use a Quality of Service system to decide which cores run which threads, balancing speed and power use. This helps apps perform well while saving battery and managing heat.
 - [Best Way To Keep A Secret In Software Development? Document It](https://codemanship.wordpress.com/2026/02/16/best-way-to-keep-a-secret-in-software-development-document-it/) 👤 Codemanship's Blog 💬 1720 🗓️ 2026-02-17
     > **Резюме:** Software architecture documents often become outdated and are rarely read by developers. Understanding code directly, especially through tests and usage scenarios, helps more than static documents. Keeping documentation closely tied to real code changes and making architecture a shared, active process improves comprehension.
 - [Last Week on My Mac: Why E cores make Apple silicon fast](https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/?utm_source=tldrdev) 👤 The Eclectic Light Company 💬 904 🔖 #macos 🗓️ 2026-02-15
