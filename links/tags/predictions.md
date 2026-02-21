@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [The Coding Agent Is Dead](https://ampcode.com/news/the-coding-agent-is-dead) 👤 ampcode.com 💬 546 🔖 #amp, #llm, #agents, #predictions 🗓️ 2026-02-20
+    > **Резюме:** The old way of using coding agents is over because new models are smarter and need less help. Amp is stopping its editor extensions and focusing on a flexible command-line tool instead. This change means Amp is moving forward with the latest technology, inviting users to join their journey.
 - [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents?utm_source=substack&utm_medium=email) 👤 crawshaw.io 💬 1551 🔖 #llm, #predictions, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
     > **Резюме:** Agent models have improved a lot in the past year, making coding much faster and easier. Traditional IDEs are becoming less needed as new tools and agents take over programming tasks. The author believes future software should focus on what helps programmers most, as agents change how we write code.
 - [One Human + One Agent = One Browser From Scratch](https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/#atom-everything) 👤 Simon Willison 💬 260 🔖 #llm, #predictions 🗓️ 2026-01-28

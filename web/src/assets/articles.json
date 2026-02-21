@@ -1,5 +1,118 @@
 [
     {
+        "id": "01khxyf5c5wj02btk32hpea1bp",
+        "url": "https://read.readwise.io/read/01khxyf5c5wj02btk32hpea1bp",
+        "source_url": "https://shellsharks.com/scrolls/scroll/2026-02-20",
+        "title": "Scroll trīgintā",
+        "author": "mike@shellsharks.com (Mike)",
+        "source": "Reader RSS",
+        "category": "rss",
+        "location": "feed",
+        "tags": {},
+        "site_name": "shellsharks",
+        "word_count": 611,
+        "notes": "",
+        "summary": "Welcome to volume thirty of Scrolls, a newsletter for sharing cool stuff from the IndieWeb, Fediverse & Cybersecurity realms. This week we make the web beautiful, beat the drum of decentralization, and find a whole slew of cybergems.\nSo get scrollin’. It’s good for ya!\n\nIndieWeb\nThe web can be beautiful and fun, if we make it so. The future of the Internet is not fated, and you don’t need permission to inject a little good, a little humanity, into the world (wide web)—to shape it for better. Because the web evolves not on its own, but through the countless decisions we all collectively make. The consequence of not trying, could be the loss of what we hold dear.\nSo start a blog! Use it to express yourself. Shout into the void—the void may be more conversational than you think. Show us your books. Make a button, and share it with friends. Write about your hobbies. Get Jekyll-ey (or 11ty-ey)—it’s a great way to blog! There’s no wrong answers here. It’s a blast to work on your site, and equally fun to explore other people’s li’l digital gardens. 🌱\nSmall Web Finds and Features\nEvery site on the IndieWeb is unique, that’s what makes it great! Here’s some cool sites I’ve found recently…\n\n\nAarón’s site aaron.com.es has a cool aesthetic. Go check it out!\nFlorian’s site flo-bit features a really cool earth-in-space visualization.\nThe Good Internet magazine is absolutely loaded with gems. I suggest reading Falling in love with the internet (again) and 18 lessons from 18 years of blogging to start.\n\nFediverse\nYa know what we love to gripe about on the Fediverse? Other social media networks. One of the all-time favorite punching bags seems to be Bluesky. One thing you need to know about Fedi (or atleast a subset of relatively vocal individuals on Fedi) is that you ain’t nothin’ if you ain’t federated. Centralized social platforms are the enemy (mind the alternatives!), and you best beware of faux-decentralization as well. And since we’re on the subject of Bsky, understand tha...",
+        "image_url": "https://shellsharks-images.s3.amazonaws.com/shellsharks.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2026-02-20",
+        "created_at": "2026-02-20T16:35:00.627440+00:00",
+        "updated_at": "2026-02-20T16:35:03.617305+00:00",
+        "saved_at": "2026-02-20T16:34:57.613000+00:00",
+        "first_opened_at": null,
+        "last_opened_at": null,
+        "last_moved_at": "2026-02-20T16:34:57.613000+00:00"
+    },
+    {
+        "id": "01khxbjw835g8m35r1s5m2a44h",
+        "url": "https://read.readwise.io/read/01khxbjw835g8m35r1s5m2a44h",
+        "source_url": "https://jeremydmiller.com/2026/02/14/2-weeks-of-claude-code-for-me/",
+        "title": "2 Weeks of Claude Code for Me",
+        "author": "jeremydmiller Uncategorized February 14",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "later",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1771585504373
+            },
+            "claude": {
+                "name": "Claude",
+                "type": "manual",
+                "created": 1771585508734
+            }
+        },
+        "site_name": "The Shade Tree Developer",
+        "word_count": 1337,
+        "notes": "Via https://martinfowler.com/fragments/2026-02-19.html",
+        "summary": "The author spent two weeks using the AI tool Claude to improve his software projects and was surprised by the progress made. He found AI helpful for repetitive tasks, testing, and coding new features, but also felt conflicted about its impact on his work. Overall, he is excited but cautious about how AI will affect his career and the industry.",
+        "image_url": "https://jeremydmiller.com/wp-content/uploads/2023/07/cropped-jasperfx-logo-final-orange-bg.jpg",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2026-02-14",
+        "created_at": "2026-02-20T11:05:00.559127+00:00",
+        "updated_at": "2026-02-20T11:05:20.023193+00:00",
+        "saved_at": "2026-02-20T11:04:59.395000+00:00",
+        "first_opened_at": "2026-02-20T11:04:59.395000+00:00",
+        "last_opened_at": "2026-02-20T11:04:59.395000+00:00",
+        "last_moved_at": "2026-02-20T11:05:02.812000+00:00"
+    },
+    {
+        "id": "01khx7vvj0zfqafa3zdc15w7mc",
+        "url": "https://read.readwise.io/read/01khx7vvj0zfqafa3zdc15w7mc",
+        "source_url": "https://ampcode.com/news/the-coding-agent-is-dead",
+        "title": "The Coding Agent Is Dead",
+        "author": "ampcode.com",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "archive",
+        "tags": {
+            "amp": {
+                "name": "Amp",
+                "type": "manual",
+                "created": 1771581610086
+            },
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1771581604760
+            },
+            "agents": {
+                "name": "Agents",
+                "type": "manual",
+                "created": 1771581615882
+            },
+            "predictions": {
+                "name": "Predictions",
+                "type": "manual",
+                "created": 1771581619224
+            }
+        },
+        "site_name": "ampcode.com",
+        "word_count": 546,
+        "notes": "",
+        "summary": "The old way of using coding agents is over because new models are smarter and need less help. Amp is stopping its editor extensions and focusing on a flexible command-line tool instead. This change means Amp is moving forward with the latest technology, inviting users to join their journey.",
+        "image_url": "https://ampcode.com/news/the-coding-agent-is-dead?og-image",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2026-02-19",
+        "created_at": "2026-02-20T10:00:00.211097+00:00",
+        "updated_at": "2026-02-20T10:00:19.775073+00:00",
+        "saved_at": "2026-02-20T09:59:59.296000+00:00",
+        "first_opened_at": "2026-02-20T09:59:59.296000+00:00",
+        "last_opened_at": "2026-02-20T09:59:59.296000+00:00",
+        "last_moved_at": "2026-02-20T10:00:02.510000+00:00"
+    },
+    {
         "id": "01khs6hap646nk0bsw706ncqvt",
         "url": "https://read.readwise.io/read/01khs6hap646nk0bsw706ncqvt",
         "source_url": "https://nilcoalescing.com/blog/IsolateSwiftUIAnimationsToSpecificAttributes",

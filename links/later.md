@@ -1,9 +1,12 @@
 # Отложенные ссылки
 
-- Всего ссылок: 129
+- Всего ссылок: 130
 
 ## Ссылки
 
+- [2 Weeks of Claude Code for Me](https://jeremydmiller.com/2026/02/14/2-weeks-of-claude-code-for-me/) 👤 jeremydmiller Uncategorized February 14 💬 1337 🔖 #llm, #claude 🗓️ 2026-02-20
+    > **Заметка:** Via https://martinfowler.com/fragments/2026-02-19.html
+    > **Резюме:** The author spent two weeks using the AI tool Claude to improve his software projects and was surprised by the progress made. He found AI helpful for repetitive tasks, testing, and coding new features, but also felt conflicted about its impact on his work. Overall, he is excited but cautious about how AI will affect his career and the industry.
 - [Isolate SwiftUI animations to specific attributes](https://nilcoalescing.com/blog/IsolateSwiftUIAnimationsToSpecificAttributes) 👤 Natalia Panferova 💬 478 🔖 #macos, #swift 🗓️ 2026-02-18
     > **Резюме:** In SwiftUI, animations often affect all view changes, which can cause unwanted effects in reusable components. Using the new animation(_:body:) modifier in iOS 17 lets you isolate animations to specific attributes like opacity. This makes components more predictable by controlling exactly what gets animated.
 - [How did we end up threatening our kids’ lives with AI?](https://anildash.com/2026/02/18/threatening-kids-with-AI/) 👤 Anil Dash 💬 2983 🗓️ 2026-02-18

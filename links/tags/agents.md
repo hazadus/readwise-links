@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [The Coding Agent Is Dead](https://ampcode.com/news/the-coding-agent-is-dead) 👤 ampcode.com 💬 546 🔖 #amp, #llm, #agents, #predictions 🗓️ 2026-02-20
+    > **Резюме:** The old way of using coding agents is over because new models are smarter and need less help. Amp is stopping its editor extensions and focusing on a flexible command-line tool instead. This change means Amp is moving forward with the latest technology, inviting users to join their journey.
 - [Why You Don't Need the Nuxt MCP When You Use Claude Code](https://alexop.dev/posts/why-you-dont-need-nuxt-mcp-claude-code/) 👤 Alexander Opalic 💬 1447 🔖 #llm, #try, #nuxt, #agents, #claude 🗓️ 2026-01-23
     > **Резюме:** Nuxt’s MCP server causes context bloat when used with AI, so the author prefers custom research agents that fetch up-to-date docs via llms.txt. These agents keep the main AI context clean by handling specific tasks separately and only loading minimal needed info. This method, used by Claude Code and the author’s Nuxt Content specialist agent, reduces token use while providing accurate, current guidance.
 - [Building an AI Interface for Your Second Brain](https://alexop.dev/posts/building-ai-interface-second-brain/) 👤 Alexander Opalic 💬 3269 🔖 #llm, #pkm, #try, #nuxt, #agents 🗓️ 2026-01-19

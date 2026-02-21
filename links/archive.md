@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1440
+- Всего ссылок: 1441
 
 ## Ссылки
 
+- [The Coding Agent Is Dead](https://ampcode.com/news/the-coding-agent-is-dead) 👤 ampcode.com 💬 546 🔖 #amp, #llm, #agents, #predictions 🗓️ 2026-02-20
 - [The bare minimum for syncing Git repos](https://alexwlchan.net/2026/bare-git/?ref=rss) 👤 alexwlchan.net 💬 1104 🔖 #git 🗓️ 2026-02-18
 - [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) 👤 Siddhant Khare 💬 3878 🔖 #llm, #learning, #llm-fatigue, #llm-devimpact 🗓️ 2026-02-17
 - [LLM-generated skills work, if you generate them afterwards](https://www.seangoedecke.com/generate-skills-afterwards/) 👤 seangoedecke.com 💬 700 🔖 #llm, #agentskills 🗓️ 2026-02-17

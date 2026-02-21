@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 384
+- Всего ссылок: 386
 
 ## Ссылки
 
+- [2 Weeks of Claude Code for Me](https://jeremydmiller.com/2026/02/14/2-weeks-of-claude-code-for-me/) 👤 jeremydmiller Uncategorized February 14 💬 1337 🔖 #llm, #claude 🗓️ 2026-02-20
+    > **Заметка:** Via https://martinfowler.com/fragments/2026-02-19.html
+    > **Резюме:** The author spent two weeks using the AI tool Claude to improve his software projects and was surprised by the progress made. He found AI helpful for repetitive tasks, testing, and coding new features, but also felt conflicted about its impact on his work. Overall, he is excited but cautious about how AI will affect his career and the industry.
+- [The Coding Agent Is Dead](https://ampcode.com/news/the-coding-agent-is-dead) 👤 ampcode.com 💬 546 🔖 #amp, #llm, #agents, #predictions 🗓️ 2026-02-20
+    > **Резюме:** The old way of using coding agents is over because new models are smarter and need less help. Amp is stopping its editor extensions and focusing on a flexible command-line tool instead. This change means Amp is moving forward with the latest technology, inviting users to join their journey.
 - [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) 👤 Siddhant Khare 💬 3878 🔖 #llm, #learning, #llm-fatigue, #llm-devimpact 🗓️ 2026-02-17
     > **Резюме:** Using AI can make engineers feel more tired because it increases the amount of work and review needed. AI helps finish tasks faster but adds mental strain from constant decision-making and checking. The key is to use AI wisely, accept imperfect results, and balance AI time with thinking time to avoid burnout.
 - [LLM-generated skills work, if you generate them afterwards](https://www.seangoedecke.com/generate-skills-afterwards/) 👤 seangoedecke.com 💬 700 🔖 #llm, #agentskills 🗓️ 2026-02-17
