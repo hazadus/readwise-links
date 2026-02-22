@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 33
+- Всего ссылок: 34
 
 ## Ссылки
 
+- [Книга «Game++. Устройство и оптимизация игрового движка»](https://habr.com/ru/companies/bhv_publishing/articles/1001720/) 👤 BHV_publishing 💬 989 🔖 #book 🗓️ 2026-02-21
+    > **Резюме:** The book "Game++" teaches how to build and optimize game engines using C++. It shares deep knowledge from many years of coding and explains complex ideas clearly. It is more than a guide—it shows how to think like a C++ engineer in challenging projects.
 - [Он вам не демон: «Невьянская башня» Алексея Иванова — роман о демонах и доменных печах](https://daily.afisha.ru/culture/30642-on-vam-ne-demon-nevyanskaya-bashnya-alekseya-ivanova-roman-o-demonah-i-domennyh-pechah/) 👤 Afisha 💬 698 🔖 #book 🗓️ 2026-02-17
     > **Резюме:** Алексей Иванов возвращается к своей главной теме — горнозаводской цивилизации Урала. В издательстве «Альпина. Проза» выходит «Невьянская башня» — производственный хоррор, в котором люди гибнут за металл, а реальные исторические персонажи встречаются с древним огненным демоном. Егор Михайлов увиде...
 - [Евгений Федоров: Хозяин каменных гор](https://www.soyuz.ru/articles/1134) 👤 soyuz.ru 💬 1350 🔖 #book 🗓️ 2026-02-17
