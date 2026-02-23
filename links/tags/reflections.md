@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [A programmer's loss of identity](https://ratfactor.com/tech-nope2?utm_source=tldrdev) 👤 ratfactor.com 💬 1414 🔖 #llm, #reflections, #llm-devimpact 🗓️ 2026-02-22
+    > **Резюме:** The author feels he has lost his social identity as a computer programmer because the culture has changed and no longer shares his values. He still loves programming but finds it hard to connect with the current community. Instead, he focuses more on his other interests like art, books, and music while continuing to create and share work for future learners.
 - [I miss thinking hard.](https://www.jernesto.com/articles/thinking_hard?utm_source=substack&utm_medium=email) 👤 jernesto.com 💬 1057 🔖 #learning, #reflections, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
     > **Резюме:** The author misses deep thinking and solving hard problems that take time and effort. AI helps build things faster but reduces chances for creative mental struggle. This leaves the author feeling stuck between wanting to build quickly and needing to think deeply.
 - [Your Life is the Sum Total of 2,000 Mondays](https://www.joanwestenberg.com/your-life-is-the-sum-total-of-2-000-mondays/?ref=westenberg-newsletter) 👤 Westenberg. 💬 1967 🔖 #reflections 🗓️ 2026-01-31

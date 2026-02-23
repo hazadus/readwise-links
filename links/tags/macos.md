@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 25
+- Всего ссылок: 26
 
 ## Ссылки
 
+- [A Deep Dive into Apple's .car File Format](https://dbg.re/posts/car-file-format/?utm_source=tldrdev) 👤 ordinal0 💬 2364 🔖 #macos 🗓️ 2026-02-22
+    > **Резюме:** Apple’s .car file uses a B+ tree called RENDITIONS to store image and color assets with detailed headers. It supports many pixel formats and compression types like LZFSE and JPEG for efficient storage. Asset names map to rendition keys, allowing easy lookup and linking between assets inside the file.
 - [The App I Didn’t Download](https://davegriffith.substack.com/p/the-app-i-didnt-download) 👤 Dave Griffith 💬 1822 🔖 #llm, #macos, #llm-devimpact 🗓️ 2026-02-21
     > **Резюме:** The author built a custom guitar practice app using AI without needing coding skills or traditional software design. This app fits his personal needs perfectly, unlike generic apps from stores. He believes personal software like this will become common, letting people create tools made just for themselves.
 - [Isolate SwiftUI animations to specific attributes](https://nilcoalescing.com/blog/IsolateSwiftUIAnimationsToSpecificAttributes) 👤 Natalia Panferova 💬 478 🔖 #macos, #swift 🗓️ 2026-02-18

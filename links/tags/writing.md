@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 25
+- Всего ссылок: 26
 
 ## Ссылки
 
+- [What is happening to writing?](https://resobscura.substack.com/p/what-is-happening-to-writing?utm_source=tldrdev) 👤 Benjamin Breen 💬 3285 🔖 #writing 🗓️ 2026-02-22
+    > **Резюме:** AI is quickly becoming very good at writing, coding, and doing many jobs done on computers. This change will affect many workers, but those who learn to use AI well will succeed. Some people, like writers and teachers, think AI will change their work but not replace them soon.
 - [How to Write Useful Commit Messages](https://refactoringenglish.com/chapters/commit-messages/) 👤 refactoringenglish.com 💬 3972 🔖 #git, #docs, #writing 🗓️ 2026-02-06
     > **Резюме:** Effective writing for software developers
 - [Passive Voice Considered Harmful](https://refactoringenglish.com/chapters/passive-voice-considered-harmful/) 👤 refactoringenglish.com 💬 1194 🔖 #writing 🗓️ 2026-02-06

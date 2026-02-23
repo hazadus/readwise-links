@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 132
+- Всего ссылок: 134
 
 ## Ссылки
 
+- [What is happening to writing?](https://resobscura.substack.com/p/what-is-happening-to-writing?utm_source=tldrdev) 👤 Benjamin Breen 💬 3285 🔖 #writing 🗓️ 2026-02-22
+    > **Резюме:** AI is quickly becoming very good at writing, coding, and doing many jobs done on computers. This change will affect many workers, but those who learn to use AI well will succeed. Some people, like writers and teachers, think AI will change their work but not replace them soon.
+- [A Deep Dive into Apple's .car File Format](https://dbg.re/posts/car-file-format/?utm_source=tldrdev) 👤 ordinal0 💬 2364 🔖 #macos 🗓️ 2026-02-22
+    > **Резюме:** Apple’s .car file uses a B+ tree called RENDITIONS to store image and color assets with detailed headers. It supports many pixel formats and compression types like LZFSE and JPEG for efficient storage. Asset names map to rendition keys, allowing easy lookup and linking between assets inside the file.
 - [Книга «Game++. Устройство и оптимизация игрового движка»](https://habr.com/ru/companies/bhv_publishing/articles/1001720/) 👤 BHV_publishing 💬 989 🔖 #book 🗓️ 2026-02-21
     > **Резюме:** The book "Game++" teaches how to build and optimize game engines using C++. It shares deep knowledge from many years of coding and explains complex ideas clearly. It is more than a guide—it shows how to think like a C++ engineer in challenging projects.
 - [You are not left behind](https://www.ufried.com/blog/not_left_behind/) 👤 Uwe Friedrichsen 💬 3474 🗓️ 2026-02-21

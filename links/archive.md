@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1447
+- Всего ссылок: 1449
 
 ## Ссылки
 
+- [Why I Read Technical Books](https://ratfactor.com/b/technical-books) 👤 ratfactor.com 💬 640 🔖 #reading 🗓️ 2026-02-22
+- [A programmer's loss of identity](https://ratfactor.com/tech-nope2?utm_source=tldrdev) 👤 ratfactor.com 💬 1414 🔖 #llm, #reflections, #llm-devimpact 🗓️ 2026-02-22
 - [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/) 👤 Scott 💬 2344 🔖 #llm, #llm-devimpact 🗓️ 2026-02-21
 - [An AI Agent Published a Hit Piece on Me – Forensics and More Fallout](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/) 👤 Scott 💬 1424 🔖 #llm, #llm-devimpact 🗓️ 2026-02-21
 - [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/) 👤 Scott 💬 1453 🔖 #llm, #llm-devimpact 🗓️ 2026-02-21

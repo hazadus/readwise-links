@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [Why I Read Technical Books](https://ratfactor.com/b/technical-books) 👤 ratfactor.com 💬 640 🔖 #reading 🗓️ 2026-02-22
+    > **Резюме:** Dave Gauer prefers reading technical books because they provide complete, carefully chosen information in a clear, consistent style. Books offer a trusted, single author’s voice and can be kept for easy future reference without distractions. Reading multiple books on a topic helps deepen understanding by showing different viewpoints.
 - [Why Stories Make You Smarter Than Self-Help Books](https://www.joanwestenberg.com/p/why-stories-make-you-smarter-than-self-help-books) 👤 JA Westenberg 💬 929 🔖 #toot, #reading, #inspiration 🗓️ 2025-10-16
     > **Заметка:** "The dirty secret about non-fiction is that most of it could be a blog post.
 
