@@ -42,7 +42,11 @@
         "01kc8egvqwgrknevq5zjxb6xwb",
         "01kbkz2zzb0mx7gapdhct6xq5v",
         "01ka9q14ymnzejgxzyjg40b9dk",
-        "01ketx7azgdpfpjwermmd60vzb"
+        "01ketx7azgdpfpjwermmd60vzb",
+        "01kj5ksw4r753p8rb8w9agw5ma",
+        "01kj5kb6cmeqchfg82h02jn7ma",
+        "01kj2thhven5habzggmasmb5vx",
+        "01khpka3gra82p4qjxb6hf845g"
     ],
     "skeets": [
         {
@@ -302,6 +306,30 @@
             "document_title": "Code is a liability (not an asset)",
             "source_url": "https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes?utm_source=tldrdev",
             "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3mcymowov3r2c"
+        },
+        {
+            "document_id": "01kj5ksw4r753p8rb8w9agw5ma",
+            "document_title": "The End of Thinking",
+            "source_url": "https://www.derekthompson.org/p/the-end-of-thinking",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3mflmtpzuq72m"
+        },
+        {
+            "document_id": "01kj5kb6cmeqchfg82h02jn7ma",
+            "document_title": "The Age of Books and the Age of Brainrot",
+            "source_url": "https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrot",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3mflmtqqajg2s"
+        },
+        {
+            "document_id": "01kj2thhven5habzggmasmb5vx",
+            "document_title": "What is happening to writing?",
+            "source_url": "https://resobscura.substack.com/p/what-is-happening-to-writing?utm_source=tldrdev",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3mflmtrknvr2h"
+        },
+        {
+            "document_id": "01khpka3gra82p4qjxb6hf845g",
+            "document_title": "AI fatigue is real and nobody talks about it",
+            "source_url": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3mflmts33ei2s"
         }
     ]
 }
