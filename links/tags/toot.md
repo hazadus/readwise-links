@@ -1,9 +1,18 @@
 # Ссылки
 
-- Всего ссылок: 43
+- Всего ссылок: 47
 
 ## Ссылки
 
+- [The End of Thinking](https://www.derekthompson.org/p/the-end-of-thinking) 👤 Derek Thompson 💬 2360 🔖 #llm, #toot, #reading, #writing 🗓️ 2026-02-23
+    > **Заметка:** Via https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrotwr
+    > **Резюме:** People are losing their ability to think deeply because they rely too much on AI for reading and writing. Writing is an important way to understand and think clearly, but many students and professionals now outsource it to machines. This decline in human thinking is a bigger problem than the rise of AI itself.
+- [The Age of Books and the Age of Brainrot](https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrot) 👤 Benjamin Breen 💬 2140 🔖 #llm, #toot, #reading 🗓️ 2026-02-23
+    > **Резюме:** Reading and writing help us think deeply, but fewer young people are doing both today. Past worries about new media, like novels once called harmful, show that fears about declining attention are not new. Despite challenges, people can learn to engage meaningfully with new forms of information over time.
+- [What is happening to writing?](https://resobscura.substack.com/p/what-is-happening-to-writing?utm_source=tldrdev) 👤 Benjamin Breen 💬 3285 🔖 #llm, #toot, #writing 🗓️ 2026-02-22
+    > **Резюме:** AI is quickly becoming very good at writing, coding, and doing many jobs done on computers. This change will affect many workers, but those who learn to use AI well will succeed. Some people, like writers and teachers, think AI will change their work but not replace them soon.
+- [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) 👤 Siddhant Khare 💬 3878 🔖 #llm, #toot, #learning, #llm-fatigue, #llm-devimpact 🗓️ 2026-02-17
+    > **Резюме:** Using AI can make engineers feel more tired because it increases the amount of work and review needed. AI helps finish tasks faster but adds mental strain from constant decision-making and checking. The key is to use AI wisely, accept imperfect results, and balance AI time with thinking time to avoid burnout.
 - [Code is a liability (not an asset)](https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes?utm_source=tldrdev) 👤 pluralistic.net 💬 3678 🔖 #llm, #toot, #programming, #llm-devimpact 🗓️ 2026-01-13
     > **Заметка:** "There will be plenty of work fixing the things that we broke thanks to the most dangerous AI psychosis of all – the hallucinatory belief that "writing code" is the same thing as "software engineering."
     > **Резюме:** Code creates ongoing problems and costs, so it is a liability, not an asset. AI produces lots of code quickly, but that means it also creates many more problems. True software engineering requires careful work that AI cannot do, or the problems will grow over time.

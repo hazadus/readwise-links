@@ -1,20 +1,25 @@
 # Архивные ссылки
 
-- Всего ссылок: 1449
+- Всего ссылок: 1453
 
 ## Ссылки
 
+- [The End of Thinking](https://www.derekthompson.org/p/the-end-of-thinking) 👤 Derek Thompson 💬 2360 🔖 #llm, #toot, #reading, #writing 🗓️ 2026-02-23
+    > **Заметка:** Via https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrotwr
+- [The Age of Books and the Age of Brainrot](https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrot) 👤 Benjamin Breen 💬 2140 🔖 #llm, #toot, #reading 🗓️ 2026-02-23
 - [Why I Read Technical Books](https://ratfactor.com/b/technical-books) 👤 ratfactor.com 💬 640 🔖 #reading 🗓️ 2026-02-22
+- [What is happening to writing?](https://resobscura.substack.com/p/what-is-happening-to-writing?utm_source=tldrdev) 👤 Benjamin Breen 💬 3285 🔖 #llm, #toot, #writing 🗓️ 2026-02-22
 - [A programmer's loss of identity](https://ratfactor.com/tech-nope2?utm_source=tldrdev) 👤 ratfactor.com 💬 1414 🔖 #llm, #reflections, #llm-devimpact 🗓️ 2026-02-22
 - [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/) 👤 Scott 💬 2344 🔖 #llm, #llm-devimpact 🗓️ 2026-02-21
 - [An AI Agent Published a Hit Piece on Me – Forensics and More Fallout](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/) 👤 Scott 💬 1424 🔖 #llm, #llm-devimpact 🗓️ 2026-02-21
 - [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/) 👤 Scott 💬 1453 🔖 #llm, #llm-devimpact 🗓️ 2026-02-21
 - [Andrej Karpathy talks about "Claws"](https://simonwillison.net/2026/Feb/21/claws/#atom-everything) 👤 Simon Willison 💬 261 🔖 #llm, #definitions 🗓️ 2026-02-21
 - [The App I Didn’t Download](https://davegriffith.substack.com/p/the-app-i-didnt-download) 👤 Dave Griffith 💬 1822 🔖 #llm, #macos, #llm-devimpact 🗓️ 2026-02-21
+- [You are not left behind](https://www.ufried.com/blog/not_left_behind/) 👤 Uwe Friedrichsen 💬 3474 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-21
 - [Farewell, Rust](https://yieldcode.blog/post/farewell-rust/) 👤 Dmitry Kudryavtsev 💬 2784 🔖 #rust 🗓️ 2026-02-21
 - [The Coding Agent Is Dead](https://ampcode.com/news/the-coding-agent-is-dead) 👤 ampcode.com 💬 546 🔖 #amp, #llm, #agents, #predictions 🗓️ 2026-02-20
 - [The bare minimum for syncing Git repos](https://alexwlchan.net/2026/bare-git/?ref=rss) 👤 alexwlchan.net 💬 1104 🔖 #git 🗓️ 2026-02-18
-- [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) 👤 Siddhant Khare 💬 3878 🔖 #llm, #learning, #llm-fatigue, #llm-devimpact 🗓️ 2026-02-17
+- [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) 👤 Siddhant Khare 💬 3878 🔖 #llm, #toot, #learning, #llm-fatigue, #llm-devimpact 🗓️ 2026-02-17
 - [LLM-generated skills work, if you generate them afterwards](https://www.seangoedecke.com/generate-skills-afterwards/) 👤 seangoedecke.com 💬 700 🔖 #llm, #agentskills 🗓️ 2026-02-17
 - [AI is destroying Open Source, and it's not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/) 👤 Jeff Geerling 💬 704 🔖 #llm 🗓️ 2026-02-17
 - [Он вам не демон: «Невьянская башня» Алексея Иванова — роман о демонах и доменных печах](https://daily.afisha.ru/culture/30642-on-vam-ne-demon-nevyanskaya-bashnya-alekseya-ivanova-roman-o-demonah-i-domennyh-pechah/) 👤 Afisha 💬 698 🔖 #book 🗓️ 2026-02-17

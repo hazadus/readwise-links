@@ -1,23 +1,19 @@
 # Отложенные ссылки
 
-- Всего ссылок: 134
+- Всего ссылок: 132
 
 ## Ссылки
 
-- [What is happening to writing?](https://resobscura.substack.com/p/what-is-happening-to-writing?utm_source=tldrdev) 👤 Benjamin Breen 💬 3285 🔖 #writing 🗓️ 2026-02-22
-    > **Резюме:** AI is quickly becoming very good at writing, coding, and doing many jobs done on computers. This change will affect many workers, but those who learn to use AI well will succeed. Some people, like writers and teachers, think AI will change their work but not replace them soon.
 - [A Deep Dive into Apple's .car File Format](https://dbg.re/posts/car-file-format/?utm_source=tldrdev) 👤 ordinal0 💬 2364 🔖 #macos 🗓️ 2026-02-22
     > **Резюме:** Apple’s .car file uses a B+ tree called RENDITIONS to store image and color assets with detailed headers. It supports many pixel formats and compression types like LZFSE and JPEG for efficient storage. Asset names map to rendition keys, allowing easy lookup and linking between assets inside the file.
 - [Книга «Game++. Устройство и оптимизация игрового движка»](https://habr.com/ru/companies/bhv_publishing/articles/1001720/) 👤 BHV_publishing 💬 989 🔖 #book 🗓️ 2026-02-21
     > **Резюме:** The book "Game++" teaches how to build and optimize game engines using C++. It shares deep knowledge from many years of coding and explains complex ideas clearly. It is more than a guide—it shows how to think like a C++ engineer in challenging projects.
-- [You are not left behind](https://www.ufried.com/blog/not_left_behind/) 👤 Uwe Friedrichsen 💬 3474 🗓️ 2026-02-21
-    > **Резюме:** You are not left behind if you don’t learn all AI tricks right now because the technology is still new and changing fast. AI tools today make mistakes and need simple tasks to work well, so expert tips quickly become outdated. However, it is smart to understand AI enough to know when it becomes important, especially in software development.
 - [2 Weeks of Claude Code for Me](https://jeremydmiller.com/2026/02/14/2-weeks-of-claude-code-for-me/) 👤 jeremydmiller Uncategorized February 14 💬 1337 🔖 #llm, #claude 🗓️ 2026-02-20
     > **Заметка:** Via https://martinfowler.com/fragments/2026-02-19.html
     > **Резюме:** The author spent two weeks using the AI tool Claude to improve his software projects and was surprised by the progress made. He found AI helpful for repetitive tasks, testing, and coding new features, but also felt conflicted about its impact on his work. Overall, he is excited but cautious about how AI will affect his career and the industry.
 - [Isolate SwiftUI animations to specific attributes](https://nilcoalescing.com/blog/IsolateSwiftUIAnimationsToSpecificAttributes) 👤 Natalia Panferova 💬 478 🔖 #macos, #swift 🗓️ 2026-02-18
     > **Резюме:** In SwiftUI, animations often affect all view changes, which can cause unwanted effects in reusable components. Using the new animation(_:body:) modifier in iOS 17 lets you isolate animations to specific attributes like opacity. This makes components more predictable by controlling exactly what gets animated.
-- [How did we end up threatening our kids’ lives with AI?](https://anildash.com/2026/02/18/threatening-kids-with-AI/) 👤 Anil Dash 💬 2983 🗓️ 2026-02-18
+- [How did we end up threatening our kids’ lives with AI?](https://anildash.com/2026/02/18/threatening-kids-with-AI/) 👤 Anil Dash 💬 2983 🔖 #llm 🗓️ 2026-02-18
     > **Резюме:** Big AI companies prioritize profit over children’s safety by rushing harmful products to market. Many leaders ignore ethics, cut safety teams, and tolerate toxic behavior to stay ahead. This lack of accountability puts kids at risk and worries many people who see the danger but do nothing.
 - [Coding Agents in Feb 2026](https://calv.info/agents-feb-2026) 👤 calv.info 💬 3642 🗓️ 2026-02-18
     > **Резюме:** Calvin French-Owen uses different coding agents like Claude Code, Opus, and Codex to plan, write, and review code efficiently. He values context understanding and automation to improve his workflow and manage multiple tasks. His approach blends planning, tool use, and code correctness to get the best results from each agent.

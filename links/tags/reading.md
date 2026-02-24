@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [The End of Thinking](https://www.derekthompson.org/p/the-end-of-thinking) 👤 Derek Thompson 💬 2360 🔖 #llm, #toot, #reading, #writing 🗓️ 2026-02-23
+    > **Заметка:** Via https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrotwr
+    > **Резюме:** People are losing their ability to think deeply because they rely too much on AI for reading and writing. Writing is an important way to understand and think clearly, but many students and professionals now outsource it to machines. This decline in human thinking is a bigger problem than the rise of AI itself.
+- [The Age of Books and the Age of Brainrot](https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrot) 👤 Benjamin Breen 💬 2140 🔖 #llm, #toot, #reading 🗓️ 2026-02-23
+    > **Резюме:** Reading and writing help us think deeply, but fewer young people are doing both today. Past worries about new media, like novels once called harmful, show that fears about declining attention are not new. Despite challenges, people can learn to engage meaningfully with new forms of information over time.
 - [Why I Read Technical Books](https://ratfactor.com/b/technical-books) 👤 ratfactor.com 💬 640 🔖 #reading 🗓️ 2026-02-22
     > **Резюме:** Dave Gauer prefers reading technical books because they provide complete, carefully chosen information in a clear, consistent style. Books offer a trusted, single author’s voice and can be kept for easy future reference without distractions. Reading multiple books on a topic helps deepen understanding by showing different viewpoints.
 - [Why Stories Make You Smarter Than Self-Help Books](https://www.joanwestenberg.com/p/why-stories-make-you-smarter-than-self-help-books) 👤 JA Westenberg 💬 929 🔖 #toot, #reading, #inspiration 🗓️ 2025-10-16

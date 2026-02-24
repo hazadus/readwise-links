@@ -1,9 +1,16 @@
 # Ссылки
 
-- Всего ссылок: 392
+- Всего ссылок: 397
 
 ## Ссылки
 
+- [The End of Thinking](https://www.derekthompson.org/p/the-end-of-thinking) 👤 Derek Thompson 💬 2360 🔖 #llm, #toot, #reading, #writing 🗓️ 2026-02-23
+    > **Заметка:** Via https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrotwr
+    > **Резюме:** People are losing their ability to think deeply because they rely too much on AI for reading and writing. Writing is an important way to understand and think clearly, but many students and professionals now outsource it to machines. This decline in human thinking is a bigger problem than the rise of AI itself.
+- [The Age of Books and the Age of Brainrot](https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrot) 👤 Benjamin Breen 💬 2140 🔖 #llm, #toot, #reading 🗓️ 2026-02-23
+    > **Резюме:** Reading and writing help us think deeply, but fewer young people are doing both today. Past worries about new media, like novels once called harmful, show that fears about declining attention are not new. Despite challenges, people can learn to engage meaningfully with new forms of information over time.
+- [What is happening to writing?](https://resobscura.substack.com/p/what-is-happening-to-writing?utm_source=tldrdev) 👤 Benjamin Breen 💬 3285 🔖 #llm, #toot, #writing 🗓️ 2026-02-22
+    > **Резюме:** AI is quickly becoming very good at writing, coding, and doing many jobs done on computers. This change will affect many workers, but those who learn to use AI well will succeed. Some people, like writers and teachers, think AI will change their work but not replace them soon.
 - [A programmer's loss of identity](https://ratfactor.com/tech-nope2?utm_source=tldrdev) 👤 ratfactor.com 💬 1414 🔖 #llm, #reflections, #llm-devimpact 🗓️ 2026-02-22
     > **Резюме:** The author feels he has lost his social identity as a computer programmer because the culture has changed and no longer shares his values. He still loves programming but finds it hard to connect with the current community. Instead, he focuses more on his other interests like art, books, and music while continuing to create and share work for future learners.
 - [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/) 👤 Scott 💬 2344 🔖 #llm, #llm-devimpact 🗓️ 2026-02-21
@@ -16,12 +23,16 @@
     > **Резюме:** Andrej Karpathy talks about "Claws," a new layer of AI agents that improve how tasks are managed and tools are used. He finds smaller Claws like NanoClaw interesting because they are simple and flexible. "Claw" is becoming a name for AI agent systems that run on personal devices and handle tasks through messaging.
 - [The App I Didn’t Download](https://davegriffith.substack.com/p/the-app-i-didnt-download) 👤 Dave Griffith 💬 1822 🔖 #llm, #macos, #llm-devimpact 🗓️ 2026-02-21
     > **Резюме:** The author built a custom guitar practice app using AI without needing coding skills or traditional software design. This app fits his personal needs perfectly, unlike generic apps from stores. He believes personal software like this will become common, letting people create tools made just for themselves.
+- [You are not left behind](https://www.ufried.com/blog/not_left_behind/) 👤 Uwe Friedrichsen 💬 3474 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-21
+    > **Резюме:** You are not left behind if you don’t learn all AI tricks right now because the technology is still new and changing fast. AI tools today make mistakes and need simple tasks to work well, so expert tips quickly become outdated. However, it is smart to understand AI enough to know when it becomes important, especially in software development.
 - [2 Weeks of Claude Code for Me](https://jeremydmiller.com/2026/02/14/2-weeks-of-claude-code-for-me/) 👤 jeremydmiller Uncategorized February 14 💬 1337 🔖 #llm, #claude 🗓️ 2026-02-20
     > **Заметка:** Via https://martinfowler.com/fragments/2026-02-19.html
     > **Резюме:** The author spent two weeks using the AI tool Claude to improve his software projects and was surprised by the progress made. He found AI helpful for repetitive tasks, testing, and coding new features, but also felt conflicted about its impact on his work. Overall, he is excited but cautious about how AI will affect his career and the industry.
 - [The Coding Agent Is Dead](https://ampcode.com/news/the-coding-agent-is-dead) 👤 ampcode.com 💬 546 🔖 #amp, #llm, #agents, #predictions 🗓️ 2026-02-20
     > **Резюме:** The old way of using coding agents is over because new models are smarter and need less help. Amp is stopping its editor extensions and focusing on a flexible command-line tool instead. This change means Amp is moving forward with the latest technology, inviting users to join their journey.
-- [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) 👤 Siddhant Khare 💬 3878 🔖 #llm, #learning, #llm-fatigue, #llm-devimpact 🗓️ 2026-02-17
+- [How did we end up threatening our kids’ lives with AI?](https://anildash.com/2026/02/18/threatening-kids-with-AI/) 👤 Anil Dash 💬 2983 🔖 #llm 🗓️ 2026-02-18
+    > **Резюме:** Big AI companies prioritize profit over children’s safety by rushing harmful products to market. Many leaders ignore ethics, cut safety teams, and tolerate toxic behavior to stay ahead. This lack of accountability puts kids at risk and worries many people who see the danger but do nothing.
+- [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) 👤 Siddhant Khare 💬 3878 🔖 #llm, #toot, #learning, #llm-fatigue, #llm-devimpact 🗓️ 2026-02-17
     > **Резюме:** Using AI can make engineers feel more tired because it increases the amount of work and review needed. AI helps finish tasks faster but adds mental strain from constant decision-making and checking. The key is to use AI wisely, accept imperfect results, and balance AI time with thinking time to avoid burnout.
 - [LLM-generated skills work, if you generate them afterwards](https://www.seangoedecke.com/generate-skills-afterwards/) 👤 seangoedecke.com 💬 700 🔖 #llm, #agentskills 🗓️ 2026-02-17
     > **Резюме:** LLM-generated skills work best when created after the model solves a task, not before. Creating skills beforehand leads to incorrect assumptions and poor results. This way, the model distills real knowledge gained from experience, improving skill usefulness.
