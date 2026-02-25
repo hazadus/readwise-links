@@ -1,9 +1,17 @@
 # Отложенные ссылки
 
-- Всего ссылок: 132
+- Всего ссылок: 136
 
 ## Ссылки
 
+- [KMP, XCode и 5% мазохистов: как мы писали AI-агентов на 4 платформы](https://habr.com/ru/articles/1002744/) 👤 arturdumchev 💬 2202 🗓️ 2026-02-24
+    > **Резюме:** The author shares their experience creating AI agents on four platforms using KMP and XCode. They highlight challenges like platform-specific issues, limited library support, and long release preparations. They advise starting with one platform and using popular tools before trying complex cross-platform solutions.
+- [Taking action against AI harms](https://www.anildash.com/2026/02/23/taking-action-ai-harms/) 👤 Anil Dash 💬 1913 🗓️ 2026-02-24
+    > **Резюме:** Big AI companies are causing serious harm to children, and we must hold them accountable. You can take direct actions like urging your workplace to leave harmful platforms and stopping schools from using risky AI tools like ChatGPT. Everyone has the power to protect kids by speaking up and organizing locally.
+- [How does macOS keep its log?](https://eclecticlight.co/2026/02/23/how-does-macos-keep-its-log/) 👤 The Eclectic Light Company 💬 712 🔖 #macos 🗓️ 2026-02-24
+    > **Резюме:** macOS saves system logs first in temporary storage on the Preboot volume before the user logs in. After login, these logs move to permanent storage on the Data volume, which is unlocked by the user’s password. The system automatically manages log sizes and deletes old entries, and users cannot change these limits.
+- [You're tired because your AI has no feedback loop](https://siddhantkhare.com/writing/why-your-ai-agent-keeps-failing) 👤 Siddhant Khare 💬 2074 🗓️ 2026-02-24
+    > **Резюме:** AI creates code quickly but humans still spend a lot of time checking it for mistakes. Automated feedback systems, like tests and linters, help AI catch errors before humans see the code. Fast feedback loops reduce engineer burnout and improve AI code quality.
 - [A Deep Dive into Apple's .car File Format](https://dbg.re/posts/car-file-format/?utm_source=tldrdev) 👤 ordinal0 💬 2364 🔖 #macos 🗓️ 2026-02-22
     > **Резюме:** Apple’s .car file uses a B+ tree called RENDITIONS to store image and color assets with detailed headers. It supports many pixel formats and compression types like LZFSE and JPEG for efficient storage. Asset names map to rendition keys, allowing easy lookup and linking between assets inside the file.
 - [Книга «Game++. Устройство и оптимизация игрового движка»](https://habr.com/ru/companies/bhv_publishing/articles/1001720/) 👤 BHV_publishing 💬 989 🔖 #book 🗓️ 2026-02-21

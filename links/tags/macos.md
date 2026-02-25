@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 26
+- Всего ссылок: 27
 
 ## Ссылки
 
+- [How does macOS keep its log?](https://eclecticlight.co/2026/02/23/how-does-macos-keep-its-log/) 👤 The Eclectic Light Company 💬 712 🔖 #macos 🗓️ 2026-02-24
+    > **Резюме:** macOS saves system logs first in temporary storage on the Preboot volume before the user logs in. After login, these logs move to permanent storage on the Data volume, which is unlocked by the user’s password. The system automatically manages log sizes and deletes old entries, and users cannot change these limits.
 - [A Deep Dive into Apple's .car File Format](https://dbg.re/posts/car-file-format/?utm_source=tldrdev) 👤 ordinal0 💬 2364 🔖 #macos 🗓️ 2026-02-22
     > **Резюме:** Apple’s .car file uses a B+ tree called RENDITIONS to store image and color assets with detailed headers. It supports many pixel formats and compression types like LZFSE and JPEG for efficient storage. Asset names map to rendition keys, allowing easy lookup and linking between assets inside the file.
 - [The App I Didn’t Download](https://davegriffith.substack.com/p/the-app-i-didnt-download) 👤 Dave Griffith 💬 1822 🔖 #llm, #macos, #llm-devimpact 🗓️ 2026-02-21

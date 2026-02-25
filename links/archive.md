@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1453
+- Всего ссылок: 1455
 
 ## Ссылки
 
+- [Insider amnesia](https://www.seangoedecke.com/insider-amnesia/) 👤 seangoedecke.com 💬 465 🗓️ 2026-02-24
+- [What's so hard about continuous learning?](https://www.seangoedecke.com/continuous-learning/) 👤 seangoedecke.com 💬 1673 🔖 #llm 🗓️ 2026-02-24
 - [The End of Thinking](https://www.derekthompson.org/p/the-end-of-thinking) 👤 Derek Thompson 💬 2360 🔖 #llm, #toot, #reading, #writing 🗓️ 2026-02-23
     > **Заметка:** Via https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrotwr
 - [The Age of Books and the Age of Brainrot](https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrot) 👤 Benjamin Breen 💬 2140 🔖 #llm, #toot, #reading 🗓️ 2026-02-23
