@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 65
+- Всего ссылок: 66
 
 ## Ссылки
 
+- [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything) 👤 Simon Willison 💬 523 🔖 #llm, #try, #learning 🗓️ 2026-02-25
+    > **Резюме:** Sometimes coding agents can walk you through code to help you understand it better. Simon Willison used a tool called Showboat with Claude Code to create a detailed explanation of his SwiftUI app. This method helped him learn a lot and can make learning new skills faster and easier.
 - [Intro to CSS 3D transforms](https://3dtransforms.desandro.com/) 👤 desandro.com 💬 460 🔖 #css, #try 🗓️ 2026-02-05
     > **Заметка:** Via https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/
     > **Резюме:** CSS 3D transforms let web designers add depth and motion to websites, making interfaces more interactive. They are best used to enhance user experience, not replace traditional design. Most modern browsers support these features, making them widely accessible for developers.

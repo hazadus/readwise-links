@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 136
+- Всего ссылок: 135
 
 ## Ссылки
 
@@ -21,8 +21,6 @@
     > **Резюме:** The author spent two weeks using the AI tool Claude to improve his software projects and was surprised by the progress made. He found AI helpful for repetitive tasks, testing, and coding new features, but also felt conflicted about its impact on his work. Overall, he is excited but cautious about how AI will affect his career and the industry.
 - [Isolate SwiftUI animations to specific attributes](https://nilcoalescing.com/blog/IsolateSwiftUIAnimationsToSpecificAttributes) 👤 Natalia Panferova 💬 478 🔖 #macos, #swift 🗓️ 2026-02-18
     > **Резюме:** In SwiftUI, animations often affect all view changes, which can cause unwanted effects in reusable components. Using the new animation(_:body:) modifier in iOS 17 lets you isolate animations to specific attributes like opacity. This makes components more predictable by controlling exactly what gets animated.
-- [How did we end up threatening our kids’ lives with AI?](https://anildash.com/2026/02/18/threatening-kids-with-AI/) 👤 Anil Dash 💬 2983 🔖 #llm 🗓️ 2026-02-18
-    > **Резюме:** Big AI companies prioritize profit over children’s safety by rushing harmful products to market. Many leaders ignore ethics, cut safety teams, and tolerate toxic behavior to stay ahead. This lack of accountability puts kids at risk and worries many people who see the danger but do nothing.
 - [Coding Agents in Feb 2026](https://calv.info/agents-feb-2026) 👤 calv.info 💬 3642 🗓️ 2026-02-18
     > **Резюме:** Calvin French-Owen uses different coding agents like Claude Code, Opus, and Codex to plan, write, and review code efficiently. He values context understanding and automation to improve his workflow and manage multiple tasks. His approach blends planning, tool use, and code correctness to get the best results from each agent.
 - [In the background: Putting threads to work](https://eclecticlight.co/2026/02/17/in-the-background-putting-threads-to-work/) 👤 The Eclectic Light Company 💬 1263 🔖 #macos 🗓️ 2026-02-18

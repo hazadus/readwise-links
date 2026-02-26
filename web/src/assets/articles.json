@@ -1,5 +1,115 @@
 [
     {
+        "id": "01kjbaskeq3dv3t3y4skgze4s6",
+        "url": "https://read.readwise.io/read/01kjbaskeq3dv3t3y4skgze4s6",
+        "source_url": "https://simonwillison.net/2026/Feb/25/present/#atom-everything",
+        "title": "I vibe coded my dream macOS presentation app",
+        "author": "Simon Willison",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "archive",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1772056400907
+            },
+            "macos": {
+                "name": "MacOS",
+                "type": "manual",
+                "created": 1772056406557
+            }
+        },
+        "site_name": "simonwillison.net",
+        "word_count": 1294,
+        "notes": "",
+        "summary": "Simon Willison quickly built a simple macOS app called Present to show web-based slides during his talk. The app lets you add URLs as slides, navigate full screen, and control it remotely via phone. This project showed him that using Swift for small apps is easy and practical, even without prior experience.",
+        "image_url": "https://static.simonwillison.net/static/2026/present-card.jpg",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2026-02-25",
+        "created_at": "2026-02-25T21:20:34.459529+00:00",
+        "updated_at": "2026-02-25T21:53:29.181747+00:00",
+        "saved_at": "2026-02-25T21:20:33.239000+00:00",
+        "first_opened_at": "2026-02-25T21:20:33.239000+00:00",
+        "last_opened_at": "2026-02-25T21:20:33.239000+00:00",
+        "last_moved_at": "2026-02-25T21:53:28.603000+00:00"
+    },
+    {
+        "id": "01kj9tdexqhncb2x4zsk24gyyt",
+        "url": "https://read.readwise.io/read/01kj9tdexqhncb2x4zsk24gyyt",
+        "source_url": "https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything",
+        "title": "Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog",
+        "author": "Simon Willison",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "archive",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1772055290944
+            },
+            "try": {
+                "name": "Try",
+                "type": "manual",
+                "created": 1772055292474
+            },
+            "learning": {
+                "name": "Learning",
+                "type": "manual",
+                "created": 1772055360261
+            }
+        },
+        "site_name": "simonwillison.net",
+        "word_count": 523,
+        "notes": "",
+        "summary": "Sometimes coding agents can walk you through code to help you understand it better. Simon Willison used a tool called Showboat with Claude Code to create a detailed explanation of his SwiftUI app. This method helped him learn a lot and can make learning new skills faster and easier.",
+        "image_url": "",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": null,
+        "created_at": "2026-02-25T07:15:04.597439+00:00",
+        "updated_at": "2026-02-25T21:44:22.167888+00:00",
+        "saved_at": "2026-02-25T07:15:03.735000+00:00",
+        "first_opened_at": "2026-02-25T07:15:03.735000+00:00",
+        "last_opened_at": "2026-02-25T07:15:03.735000+00:00",
+        "last_moved_at": "2026-02-25T21:44:21.558000+00:00",
+        "highlights": [
+            {
+                "id": "01kjbbkmy3skjt5qbhp3nkwfeb",
+                "url": "https://read.readwise.io/read/01kjbbkmy3skjt5qbhp3nkwfeb",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "Readwise web highlighter",
+                "category": "highlight",
+                "location": null,
+                "tags": {},
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01kj9tdexqhncb2x4zsk24gyyt",
+                "reading_progress": 0.0,
+                "content": "So I fired up a new instance of Claude Code for web, pointed it at my repo and prompted:\n\nRead the source and then plan a linear walkthrough of the code that explains how it all works in detail\nThen run “uvx showboat –help” to learn showboat - use showboat to create a walkthrough.md file in the repo and build the walkthrough in there, using showboat note for commentary and showboat exec plus sed or grep or cat or whatever you need to include snippets of code you are talking about",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2026-02-25T21:34:47.180766+00:00",
+                "updated_at": "2026-02-25T21:34:47.180779+00:00",
+                "saved_at": "2026-02-25T21:34:46.723000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2026-02-25T21:34:46.723000+00:00"
+            }
+        ]
+    },
+    {
         "id": "01kj7bgax0nj36y8ektqthc3mc",
         "url": "https://read.readwise.io/read/01kj7bgax0nj36y8ektqthc3mc",
         "source_url": "https://habr.com/ru/articles/1002744/",
@@ -1350,7 +1460,7 @@
         "author": "Anil Dash",
         "source": "Reader Share Sheet iOS",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "llm": {
                 "name": "LLM",
@@ -1364,16 +1474,16 @@
         "summary": "Big AI companies prioritize profit over children’s safety by rushing harmful products to market. Many leaders ignore ethics, cut safety teams, and tolerate toxic behavior to stay ahead. This lack of accountability puts kids at risk and worries many people who see the danger but do nothing.",
         "image_url": "https://www.anildash.com/images/desk-in-field.jpg",
         "parent_id": null,
-        "reading_progress": 0.38403791469194315,
+        "reading_progress": 1.0,
         "content": null,
         "html_content": null,
         "published_date": "2026-02-18",
         "created_at": "2026-02-18T20:15:28.254241+00:00",
-        "updated_at": "2026-02-24T11:59:12.039941+00:00",
+        "updated_at": "2026-02-25T08:58:29.751914+00:00",
         "saved_at": "2026-02-18T20:15:28.229000+00:00",
         "first_opened_at": "2026-02-23T19:18:29.203000+00:00",
-        "last_opened_at": "2026-02-24T11:59:09.513000+00:00",
-        "last_moved_at": "2026-02-18T20:15:30.501000+00:00",
+        "last_opened_at": "2026-02-25T07:16:07.871000+00:00",
+        "last_moved_at": "2026-02-25T08:58:29.189000+00:00",
         "highlights": [
             {
                 "id": "01kj7r7nz02fph56p3wswc6bkv",
@@ -1915,15 +2025,15 @@
         "summary": "Software architecture documents often become outdated and are rarely read by developers. Understanding code directly, especially through tests and usage scenarios, helps more than static documents. Keeping documentation closely tied to real code changes and making architecture a shared, active process improves comprehension.",
         "image_url": "https://i0.wp.com/codemanship.wordpress.com/wp-content/uploads/2026/02/image-4.png?fit=1200%2C673&ssl=1",
         "parent_id": null,
-        "reading_progress": 0.47562762956735116,
+        "reading_progress": 0.5336933436507022,
         "content": null,
         "html_content": null,
         "published_date": "2026-02-16",
         "created_at": "2026-02-17T08:26:21.172476+00:00",
-        "updated_at": "2026-02-17T21:17:21.251047+00:00",
+        "updated_at": "2026-02-25T08:59:40.845849+00:00",
         "saved_at": "2026-02-17T08:26:19.876000+00:00",
         "first_opened_at": "2026-02-17T08:26:19.876000+00:00",
-        "last_opened_at": "2026-02-17T21:15:12.515000+00:00",
+        "last_opened_at": "2026-02-25T08:58:35.176000+00:00",
         "last_moved_at": "2026-02-17T08:26:23.910000+00:00"
     },
     {

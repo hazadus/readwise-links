@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 398
+- Всего ссылок: 400
 
 ## Ссылки
 
+- [I vibe coded my dream macOS presentation app](https://simonwillison.net/2026/Feb/25/present/#atom-everything) 👤 Simon Willison 💬 1294 🔖 #llm, #macos 🗓️ 2026-02-25
+    > **Резюме:** Simon Willison quickly built a simple macOS app called Present to show web-based slides during his talk. The app lets you add URLs as slides, navigate full screen, and control it remotely via phone. This project showed him that using Swift for small apps is easy and practical, even without prior experience.
+- [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything) 👤 Simon Willison 💬 523 🔖 #llm, #try, #learning 🗓️ 2026-02-25
+    > **Резюме:** Sometimes coding agents can walk you through code to help you understand it better. Simon Willison used a tool called Showboat with Claude Code to create a detailed explanation of his SwiftUI app. This method helped him learn a lot and can make learning new skills faster and easier.
 - [What's so hard about continuous learning?](https://www.seangoedecke.com/continuous-learning/) 👤 seangoedecke.com 💬 1673 🔖 #llm 🗓️ 2026-02-24
     > **Резюме:** Continuous learning for AI models is hard because updating them safely and effectively requires careful human supervision. Fine-tuning models on specific data, like codebases, does not reliably give them deep understanding. Also, continuous learning poses safety risks and makes upgrading models difficult for users.
 - [The End of Thinking](https://www.derekthompson.org/p/the-end-of-thinking) 👤 Derek Thompson 💬 2360 🔖 #llm, #toot, #reading, #writing 🗓️ 2026-02-23

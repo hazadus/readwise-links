@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 27
+- Всего ссылок: 28
 
 ## Ссылки
 
+- [I vibe coded my dream macOS presentation app](https://simonwillison.net/2026/Feb/25/present/#atom-everything) 👤 Simon Willison 💬 1294 🔖 #llm, #macos 🗓️ 2026-02-25
+    > **Резюме:** Simon Willison quickly built a simple macOS app called Present to show web-based slides during his talk. The app lets you add URLs as slides, navigate full screen, and control it remotely via phone. This project showed him that using Swift for small apps is easy and practical, even without prior experience.
 - [How does macOS keep its log?](https://eclecticlight.co/2026/02/23/how-does-macos-keep-its-log/) 👤 The Eclectic Light Company 💬 712 🔖 #macos 🗓️ 2026-02-24
     > **Резюме:** macOS saves system logs first in temporary storage on the Preboot volume before the user logs in. After login, these logs move to permanent storage on the Data volume, which is unlocked by the user’s password. The system automatically manages log sizes and deletes old entries, and users cannot change these limits.
 - [A Deep Dive into Apple's .car File Format](https://dbg.re/posts/car-file-format/?utm_source=tldrdev) 👤 ordinal0 💬 2364 🔖 #macos 🗓️ 2026-02-22

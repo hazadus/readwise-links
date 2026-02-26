@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1455
+- Всего ссылок: 1458
 
 ## Ссылки
 
+- [I vibe coded my dream macOS presentation app](https://simonwillison.net/2026/Feb/25/present/#atom-everything) 👤 Simon Willison 💬 1294 🔖 #llm, #macos 🗓️ 2026-02-25
+- [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything) 👤 Simon Willison 💬 523 🔖 #llm, #try, #learning 🗓️ 2026-02-25
 - [Insider amnesia](https://www.seangoedecke.com/insider-amnesia/) 👤 seangoedecke.com 💬 465 🗓️ 2026-02-24
 - [What's so hard about continuous learning?](https://www.seangoedecke.com/continuous-learning/) 👤 seangoedecke.com 💬 1673 🔖 #llm 🗓️ 2026-02-24
 - [The End of Thinking](https://www.derekthompson.org/p/the-end-of-thinking) 👤 Derek Thompson 💬 2360 🔖 #llm, #toot, #reading, #writing 🗓️ 2026-02-23
@@ -20,6 +22,7 @@
 - [You are not left behind](https://www.ufried.com/blog/not_left_behind/) 👤 Uwe Friedrichsen 💬 3474 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-21
 - [Farewell, Rust](https://yieldcode.blog/post/farewell-rust/) 👤 Dmitry Kudryavtsev 💬 2784 🔖 #rust 🗓️ 2026-02-21
 - [The Coding Agent Is Dead](https://ampcode.com/news/the-coding-agent-is-dead) 👤 ampcode.com 💬 546 🔖 #amp, #llm, #agents, #predictions 🗓️ 2026-02-20
+- [How did we end up threatening our kids’ lives with AI?](https://anildash.com/2026/02/18/threatening-kids-with-AI/) 👤 Anil Dash 💬 2983 🔖 #llm 🗓️ 2026-02-18
 - [The bare minimum for syncing Git repos](https://alexwlchan.net/2026/bare-git/?ref=rss) 👤 alexwlchan.net 💬 1104 🔖 #git 🗓️ 2026-02-18
 - [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) 👤 Siddhant Khare 💬 3878 🔖 #llm, #toot, #learning, #llm-fatigue, #llm-devimpact 🗓️ 2026-02-17
 - [LLM-generated skills work, if you generate them afterwards](https://www.seangoedecke.com/generate-skills-afterwards/) 👤 seangoedecke.com 💬 700 🔖 #llm, #agentskills 🗓️ 2026-02-17

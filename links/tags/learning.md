@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 39
+- Всего ссылок: 40
 
 ## Ссылки
 
+- [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything) 👤 Simon Willison 💬 523 🔖 #llm, #try, #learning 🗓️ 2026-02-25
+    > **Резюме:** Sometimes coding agents can walk you through code to help you understand it better. Simon Willison used a tool called Showboat with Claude Code to create a detailed explanation of his SwiftUI app. This method helped him learn a lot and can make learning new skills faster and easier.
 - [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) 👤 Siddhant Khare 💬 3878 🔖 #llm, #toot, #learning, #llm-fatigue, #llm-devimpact 🗓️ 2026-02-17
     > **Резюме:** Using AI can make engineers feel more tired because it increases the amount of work and review needed. AI helps finish tasks faster but adds mental strain from constant decision-making and checking. The key is to use AI wisely, accept imperfect results, and balance AI time with thinking time to avoid burnout.
 - [On-demand learning is ruining the tech industry.](https://www.jernesto.com/articles/learning) 👤 jernesto.com 💬 1454 🔖 #learning 🗓️ 2026-02-16
