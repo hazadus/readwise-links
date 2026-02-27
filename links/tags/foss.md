@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [AI creates asymmetric pressure on Open Source](https://dri.es/ai-creates-asymmetric-pressure-on-open-source) 👤 Dries Buytaert 💬 1591 🔖 #llm, #foss, #llm-devimpact 🗓️ 2026-01-30
+    > **Резюме:** AI makes it easier to contribute to Open Source but creates more work for maintainers who must check quality. Some projects, like curl, face many low-value AI-generated reports, causing stress and burnout. With care and testing, AI can help maintainers, but protecting them is the top priority.
 - [Что джуну без опыта показать на собеседовании: вклад в open source или пет-проекты / Хабр](https://habr.com/ru/companies/yandex_praktikum/articles/725694/) 👤 Артур 💬 1795 🔖 #foss, #career 🗓️ 2024-03-15
     > **Резюме:** Привет! Меня зовут Артур Домбровский, и я наставник и соавтор курса «Java-разработчик» в Яндекс Практикуме. Зарабатываю на жизнь программированием уже более 7 лет, из которых больше трёх провёл в...
 - [Mental Health in Open Source](https://antfu.me/posts/mental-health-oss) 👤 Anthony Fu 💬 3263 🔖 #foss 🗓️ 2024-03-18

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 24
+- Всего ссылок: 25
 
 ## Ссылки
 
+- [Tech Leaders: Low-Performing Teams Are A Gift, Not A Curse](https://codemanship.wordpress.com/2026/02/04/tech-leaders-low-performing-teams-are-a-gift-not-a-curse/) 👤 Codemanship's Blog 💬 1149 🔖 #leaddev, #management 🗓️ 2026-02-05
+    > **Резюме:** Low-performing software teams offer a great chance to improve by focusing on small, daily changes in coding and testing. Fixing inner workflows, like automated testing, leads to faster, more reliable releases without big management changes. This approach builds trust and sets the stage for bigger improvements later.
 - [Why I Still Write Code as an Engineering Manager](https://terriblesoftware.org/2026/01/22/why-i-still-write-code-as-an-engineering-manager/) 👤 Terrible Software 💬 623 🔖 #leaddev, #management 🗓️ 2026-01-23
     > **Резюме:** The author writes code sometimes to stay connected with the team and understand their work. Coding helps the manager show good practices and earn the team's respect. This keeps decisions realistic and strengthens the manager’s connection to the work and people.
 - [Give your engineers a kingdom](https://newsletter.manager.dev/p/give-your-engineers-a-kingdom) 👤 Anton Zaides 💬 1015 🔖 #leaddev, #management 🗓️ 2025-10-28

@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 400
+- Всего ссылок: 402
 
 ## Ссылки
 
@@ -8,6 +8,8 @@
     > **Резюме:** Simon Willison quickly built a simple macOS app called Present to show web-based slides during his talk. The app lets you add URLs as slides, navigate full screen, and control it remotely via phone. This project showed him that using Swift for small apps is easy and practical, even without prior experience.
 - [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything) 👤 Simon Willison 💬 523 🔖 #llm, #try, #learning 🗓️ 2026-02-25
     > **Резюме:** Sometimes coding agents can walk you through code to help you understand it better. Simon Willison used a tool called Showboat with Claude Code to create a detailed explanation of his SwiftUI app. This method helped him learn a lot and can make learning new skills faster and easier.
+- [Taking action against AI harms](https://www.anildash.com/2026/02/23/taking-action-ai-harms/) 👤 Anil Dash 💬 1913 🔖 #llm 🗓️ 2026-02-24
+    > **Резюме:** Big AI companies are causing serious harm to children, and we must hold them accountable. You can take direct actions like urging your workplace to leave harmful platforms and stopping schools from using risky AI tools like ChatGPT. Everyone has the power to protect kids by speaking up and organizing locally.
 - [What's so hard about continuous learning?](https://www.seangoedecke.com/continuous-learning/) 👤 seangoedecke.com 💬 1673 🔖 #llm 🗓️ 2026-02-24
     > **Резюме:** Continuous learning for AI models is hard because updating them safely and effectively requires careful human supervision. Fine-tuning models on specific data, like codebases, does not reliably give them deep understanding. Also, continuous learning poses safety risks and makes upgrading models difficult for users.
 - [The End of Thinking](https://www.derekthompson.org/p/the-end-of-thinking) 👤 Derek Thompson 💬 2360 🔖 #llm, #toot, #reading, #writing 🗓️ 2026-02-23
@@ -82,6 +84,8 @@
     > **Резюме:** Large language models like Claude have changed coding from mostly manual work to mostly agent-driven work in just weeks. These models make mistakes but greatly speed up and expand what programmers can do. This shift will transform software engineering and work in 2026 and beyond.
 - [How does AI impact skill formation?](https://seangoedecke.com/how-does-ai-impact-skill-formation/) 👤 seangoedecke.com 💬 1419 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-31
     > **Резюме:** A study found that using AI to write code can speed up work but may reduce how much you learn. People who retyped AI code did not get faster or learn more, but those who used AI smartly worked 25% faster with little loss in knowledge. Overall, AI helps deliver results quicker, but it may change how software engineers learn and work over time.
+- [AI creates asymmetric pressure on Open Source](https://dri.es/ai-creates-asymmetric-pressure-on-open-source) 👤 Dries Buytaert 💬 1591 🔖 #llm, #foss, #llm-devimpact 🗓️ 2026-01-30
+    > **Резюме:** AI makes it easier to contribute to Open Source but creates more work for maintainers who must check quality. Some projects, like curl, face many low-value AI-generated reports, causing stress and burnout. With care and testing, AI can help maintainers, but protecting them is the top priority.
 - [Writing Code May Be Dead (Not Really), But Reading Code Will Live On](https://codemanship.wordpress.com/2026/01/29/writing-code-may-be-dead-not-really-but-reading-code-will-live-on/) 👤 Codemanship's Blog 💬 518 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-29
     > **Резюме:** Writing code with AI is getting faster, but errors in AI-generated code mean we still need to read and understand it carefully. The best way to stay good at understanding code is to keep writing it regularly. If we don’t, serious bugs can slip through, and no one will know how to fix them.
 - [After two years of vibecoding, I'm back to writing by hand](https://atmoio.substack.com/p/after-two-years-of-vibecoding-im?utm_source=tldrdev) 👤 Mo 💬 713 🔖 #llm 🗓️ 2026-01-28

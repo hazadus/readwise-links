@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [Why Parenting Is Similar To JavaScript Development](https://brainbaking.com/post/2026/02/why-parenting-is-similar-to-javascript-development/) 👤 Wouter Groeneveld 💬 974 🔖 #fun, #javascript 🗓️ 2026-02-13
+    > **Резюме:** Parenting feels like working with JavaScript: both are confusing and full of unexpected challenges. Just like JavaScript has good parts and messy parts, parenting has moments of joy mixed with stress and exhaustion. The author feels overwhelmed but loves his kids, even when parenting feels like just surviving each day.
 - [Choices](https://www.joelonsoftware.com/2000/04/12/choices/) 👤 Joel Spolsky 💬 2123 🔖 #fun, #classics, #softwarecraft 🗓️ 2026-02-05
     > **Резюме:** Users prefer software designers to make decisions for them rather than burdening them with unnecessary choices, especially when it comes to features like help file indexing. Designers should focus on providing options that enhance user experience, not overwhelm them with trivial decisions. Simplifying design choices can lead to more user-friendly software that prioritizes task completion over unnecessary customization.
 - [How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner?utm_source=substack&utm_medium=email) 👤 annie's blog 💬 449 🔖 #fun, #joyandcuriosity 🗓️ 2025-09-28

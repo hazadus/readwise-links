@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 19
 
 ## Ссылки
 
+- [Why Parenting Is Similar To JavaScript Development](https://brainbaking.com/post/2026/02/why-parenting-is-similar-to-javascript-development/) 👤 Wouter Groeneveld 💬 974 🔖 #fun, #javascript 🗓️ 2026-02-13
+    > **Резюме:** Parenting feels like working with JavaScript: both are confusing and full of unexpected challenges. Just like JavaScript has good parts and messy parts, parenting has moments of joy mixed with stress and exhaustion. The author feels overwhelmed but loves his kids, even when parenting feels like just surviving each day.
 - [A little bit of plain Javascript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/) 👤 Julia Evans 💬 831 🔖 #javascript 🗓️ 2026-02-05
     > **Заметка:** Via https://refactoringenglish.com/blog/software-essays-that-shaped-me/
     > **Резюме:** Julia Evans shares her experience of using plain JavaScript for a recent project after years of relying on libraries like jQuery and Vue.js. She discovered that using simple techniques, like adding and removing CSS classes and using `document.querySelectorAll`, made her work easier and more manageable. Overall, she found that plain JavaScript can accomplish a lot with just a few lines of code.

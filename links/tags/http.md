@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html?utm_source=tldrwebdev) 👤 Ahmad Elalfy 💬 2340 🔖 #http, #webdev, #shortlist 🗓️ 2025-11-04
+- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html?utm_source=tldrwebdev) 👤 Ahmad Elalfy 💬 2340 🔖 #http, #webdev 🗓️ 2025-11-04
     > **Резюме:** URLs can and should hold app state so pages are shareable, bookmarkable, and restorable.  
 Good URL design makes intent, context, and caching explicit.  
 Put public, meaningful state in the URL and keep sensitive or transient state out.

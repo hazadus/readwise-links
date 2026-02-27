@@ -1,11 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 1458
+- Всего ссылок: 1473
 
 ## Ссылки
 
 - [I vibe coded my dream macOS presentation app](https://simonwillison.net/2026/Feb/25/present/#atom-everything) 👤 Simon Willison 💬 1294 🔖 #llm, #macos 🗓️ 2026-02-25
 - [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything) 👤 Simon Willison 💬 523 🔖 #llm, #try, #learning 🗓️ 2026-02-25
+- [KMP, XCode и 5% мазохистов: как мы писали AI-агентов на 4 платформы](https://habr.com/ru/articles/1002744/) 👤 arturdumchev 💬 2202 🗓️ 2026-02-24
+- [Taking action against AI harms](https://www.anildash.com/2026/02/23/taking-action-ai-harms/) 👤 Anil Dash 💬 1913 🔖 #llm 🗓️ 2026-02-24
 - [Insider amnesia](https://www.seangoedecke.com/insider-amnesia/) 👤 seangoedecke.com 💬 465 🗓️ 2026-02-24
 - [What's so hard about continuous learning?](https://www.seangoedecke.com/continuous-learning/) 👤 seangoedecke.com 💬 1673 🔖 #llm 🗓️ 2026-02-24
 - [The End of Thinking](https://www.derekthompson.org/p/the-end-of-thinking) 👤 Derek Thompson 💬 2360 🔖 #llm, #toot, #reading, #writing 🗓️ 2026-02-23
@@ -19,6 +21,7 @@
 - [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/) 👤 Scott 💬 1453 🔖 #llm, #llm-devimpact 🗓️ 2026-02-21
 - [Andrej Karpathy talks about "Claws"](https://simonwillison.net/2026/Feb/21/claws/#atom-everything) 👤 Simon Willison 💬 261 🔖 #llm, #definitions 🗓️ 2026-02-21
 - [The App I Didn’t Download](https://davegriffith.substack.com/p/the-app-i-didnt-download) 👤 Dave Griffith 💬 1822 🔖 #llm, #macos, #llm-devimpact 🗓️ 2026-02-21
+- [Книга «Game++. Устройство и оптимизация игрового движка»](https://habr.com/ru/companies/bhv_publishing/articles/1001720/) 👤 BHV_publishing 💬 989 🔖 #book 🗓️ 2026-02-21
 - [You are not left behind](https://www.ufried.com/blog/not_left_behind/) 👤 Uwe Friedrichsen 💬 3474 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-21
 - [Farewell, Rust](https://yieldcode.blog/post/farewell-rust/) 👤 Dmitry Kudryavtsev 💬 2784 🔖 #rust 🗓️ 2026-02-21
 - [The Coding Agent Is Dead](https://ampcode.com/news/the-coding-agent-is-dead) 👤 ampcode.com 💬 546 🔖 #amp, #llm, #agents, #predictions 🗓️ 2026-02-20
@@ -27,6 +30,7 @@
 - [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) 👤 Siddhant Khare 💬 3878 🔖 #llm, #toot, #learning, #llm-fatigue, #llm-devimpact 🗓️ 2026-02-17
 - [LLM-generated skills work, if you generate them afterwards](https://www.seangoedecke.com/generate-skills-afterwards/) 👤 seangoedecke.com 💬 700 🔖 #llm, #agentskills 🗓️ 2026-02-17
 - [AI is destroying Open Source, and it's not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/) 👤 Jeff Geerling 💬 704 🔖 #llm 🗓️ 2026-02-17
+- [Best Way To Keep A Secret In Software Development? Document It](https://codemanship.wordpress.com/2026/02/16/best-way-to-keep-a-secret-in-software-development-document-it/) 👤 Codemanship's Blog 💬 1720 🗓️ 2026-02-17
 - [Он вам не демон: «Невьянская башня» Алексея Иванова — роман о демонах и доменных печах](https://daily.afisha.ru/culture/30642-on-vam-ne-demon-nevyanskaya-bashnya-alekseya-ivanova-roman-o-demonah-i-domennyh-pechah/) 👤 Afisha 💬 698 🔖 #book 🗓️ 2026-02-17
 - [The AI Vampire](https://simonwillison.net/2026/Feb/15/the-ai-vampire/#atom-everything) 👤 Simon Willison 💬 228 🔖 #llm, #llm-fatigue, #llm-devimpact 🗓️ 2026-02-17
     > **Заметка:** Тезисы: https://chatgpt.com/c/6994d81c-50dc-8325-a76a-6125361f54c4
@@ -39,10 +43,14 @@
 - [Code is cheap. Show me the talk.](https://nadh.in/blog/code-is-cheap/?utm_source=substack&utm_medium=email) 👤 nadh.in 💬 3618 🔖 #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
 - [Look for what's true](https://dubroy.com/blog/look-for-whats-true/?utm_source=substack&utm_medium=email) 👤 About 💬 355 🔖 #joyandcuriosity 🗓️ 2026-02-15
 - [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything) 👤 Simon Willison 💬 325 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
+- [Rebooting The Hynek](https://buttondown.com/hynek/archive/rebooting-the-hynek/) 👤 Hynek Did Something 💬 1415 🗓️ 2026-02-13
+- [Why Parenting Is Similar To JavaScript Development](https://brainbaking.com/post/2026/02/why-parenting-is-similar-to-javascript-development/) 👤 Wouter Groeneveld 💬 974 🔖 #fun, #javascript 🗓️ 2026-02-13
 - [The Final Bottleneck](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/) 👤 Armin Ronacher 💬 1067 🔖 #llm-devimpact 🗓️ 2026-02-13
 - [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/) 👤 Scott 💬 1520 🔖 #llm, #llm-devimpact 🗓️ 2026-02-13
     > **Заметка:** Via https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/#atom-everything
+- [«Наш перевод заметно ближе к польскому оригиналу»: интервью с переводчиком книжной серии «Ведьмак» Вадимом Кумоком](https://disgustingmen.com/blog/vadim-kumok-interview/) 👤 Disgusting Men 💬 2366 🔖 #book 🗓️ 2026-02-13
 - [On screwing up](https://seangoedecke.com/screwing-up/) 👤 seangoedecke.com 💬 1404 🔖 #career 🗓️ 2026-02-11
+- [Как включить мультиоконность из iPadOS на iPhone?](https://rozetked.me/articles/42865-kak-vklyuchit-mul-tiokonnost-iz-ipados-na-iphone) 👤 Антон Курилов 💬 491 🗓️ 2026-02-11
 - [Have I hardened against LLMs?](https://www.baldurbjarnason.com/2026/have-i-hardened-against-ai/) 👤 baldurbjarnason.com 💬 1791 🔖 #llm 🗓️ 2026-02-10
 - [“TDD Slows Me Down”. Good.](https://codemanship.wordpress.com/2026/02/08/tdd-slows-me-down-good/) 👤 Codemanship's Blog 💬 398 🔖 #tdd 🗓️ 2026-02-09
 - [Large tech companies don't need heroes](https://seangoedecke.com/heroism/) 👤 seangoedecke.com 💬 1172 🗓️ 2026-02-09
@@ -58,8 +66,10 @@
     > **Заметка:** Via https://refactoringenglish.com/blog/software-essays-that-shaped-me/
 - [Testing on the Toilet: Don't Put Logic in Tests](https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html) 👤 Google Testing Blog 💬 449 🔖 #testing, #classics 🗓️ 2026-02-05
 - [Choices](https://www.joelonsoftware.com/2000/04/12/choices/) 👤 Joel Spolsky 💬 2123 🔖 #fun, #classics, #softwarecraft 🗓️ 2026-02-05
+- [Tech Leaders: Low-Performing Teams Are A Gift, Not A Curse](https://codemanship.wordpress.com/2026/02/04/tech-leaders-low-performing-teams-are-a-gift-not-a-curse/) 👤 Codemanship's Blog 💬 1149 🔖 #leaddev, #management 🗓️ 2026-02-05
 - [A Step Behind the Bleeding Edge: Monarch’s Philosophy on AI in Dev](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/?utm_source=tldrdev) 👤 Somehow Manage 💬 1635 🔖 #llm, #llm-devimpact 🗓️ 2026-02-04
 - [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html?utm_source=tldrdev) 👤 Erik Johannes Husom 💬 3535 🔖 #llm, #learning 🗓️ 2026-02-04
+- [Rust is bottom-up, Swift is top-down.](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust?utm_source=tldrdev) 👤 nmn.sh 💬 1633 🔖 #rust, #swift 🗓️ 2026-02-04
 - [The Coherence Premium](https://www.joanwestenberg.com/the-coherence-premium/?ref=westenberg-newsletter) 👤 Westenberg. 💬 3708 🗓️ 2026-02-04
 - [A Social Network for A.I. Bots Only. No Humans Allowed.](https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything) 👤 Simon Willison 💬 503 🔖 #llm 🗓️ 2026-02-03
 - [Why Am I Doing the Thinking for You?](https://terriblesoftware.org/2026/02/02/why-am-i-doing-the-thinking-for-you/) 👤 Terrible Software 💬 696 🔖 #soft skills, #communication 🗓️ 2026-02-03
@@ -74,6 +84,7 @@
 - [A few random notes from claude coding quite a bit...](https://x.com/karpathy/status/2015883857489522876?utm_source=tldrdev) 👤 Andrej Karpathy 💬 1125 🔖 #llm, #claude, #llm-devimpact 🗓️ 2026-01-31
 - [How does AI impact skill formation?](https://seangoedecke.com/how-does-ai-impact-skill-formation/) 👤 seangoedecke.com 💬 1419 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-31
 - [Moltbook is the most interesting place on the internet right now](https://simonwillison.net/2026/Jan/30/moltbook/#atom-everything) 👤 Simon Willison 💬 1092 🗓️ 2026-01-30
+- [AI creates asymmetric pressure on Open Source](https://dri.es/ai-creates-asymmetric-pressure-on-open-source) 👤 Dries Buytaert 💬 1591 🔖 #llm, #foss, #llm-devimpact 🗓️ 2026-01-30
 - [Writing Code May Be Dead (Not Really), But Reading Code Will Live On](https://codemanship.wordpress.com/2026/01/29/writing-code-may-be-dead-not-really-but-reading-code-will-live-on/) 👤 Codemanship's Blog 💬 518 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-29
 - [Книга «Go: разработка приложений в микросервисной архитектуре с нуля»](https://habr.com/ru/companies/bhv_publishing/articles/987722/#habracut) 👤 BHV_publishing 💬 624 🔖 #go, #book, #microservices 🗓️ 2026-01-29
 - [Working on databases from prison: How I got here, part 2.](https://turso.tech/blog/working-on-databases-from-prison) 👤 turso.tech 💬 1030 🗓️ 2026-01-28
@@ -250,6 +261,7 @@ https://chatgpt.com/c/6944406d-4640-832a-b0c4-9df0c3a7cf6d
 - [The Myth of AI-powered Sisyphus](https://tawandamunongo.dev/posts/2025/11/ai-powered-sisyphus/) 👤 t23o 💬 1449 🔖 #llm, #llm-devimpact 🗓️ 2025-11-13
 - [AI and the Devaluation of Effort](https://tawandamunongo.dev/posts/2025/10/ai-devaluation-effort/) 👤 t23o 💬 1606 🔖 #llm, #llm-devimpact 🗓️ 2025-11-13
 - [ARIatHOME](https://daverupert.com/2025/11/ariathome/) 👤 Dave Rupert 💬 327 🔖 #music, #inspiration 🗓️ 2025-11-12
+- [The Case Against pgvector](https://alex-jacobs.com/posts/the-case-against-pgvector/?utm_source=tldrwebdev) 👤 Alex Jacobs 💬 2528 🔖 #postgresql 🗓️ 2025-11-12
 - [Обзор The Outer Worlds 2 - И смех и корпоративный грех I Битый Пиксель](https://www.youtube.com/watch?v=ZoebMF322NA) 👤 Битый Пиксель 🔖 #game 🗓️ 2025-11-12
 - [Web Weekly #174](https://www.stefanjudis.com/blog/web-weekly-174/) 👤 stefanjudis.com 💬 987 🗓️ 2025-11-11
 - [Managing Your Manager](https://yusufaytas.com/managing-your-manager/) 👤 https://www.facebook.com/yusufaytas 💬 2404 🔖 #management 🗓️ 2025-11-09
@@ -265,6 +277,7 @@ https://chatgpt.com/c/6944406d-4640-832a-b0c4-9df0c3a7cf6d
 - [Build your modern Neovim config in Lua](https://m4xshen.dev/posts/build-your-modern-neovim-config-in-lua?utm_source=perplexity) 👤 m4xshen.dev 💬 948 🔖 #lua, #vim 🗓️ 2025-11-05
 - [Lua for Programmers Part 1: Language Essentials](https://ebens.me/posts/lua-for-programmers-part-1/) 👤 Michael Ebens 💬 1142 🔖 #lua 🗓️ 2025-11-05
 - [Burning out](https://www.interconnects.ai/p/burning-out?utm_source=substack&utm_medium=email) 👤 Nathan Lambert 💬 2007 🔖 #llm, #burnout, #llm-devimpact 🗓️ 2025-11-04
+- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html?utm_source=tldrwebdev) 👤 Ahmad Elalfy 💬 2340 🔖 #http, #webdev 🗓️ 2025-11-04
 - [Kafka is fast -- I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks?utm_source=tldrwebdev) 👤 TopicPartition 💬 6636 🔖 #kafka, #postgresql 🗓️ 2025-11-04
 - [A Beginner’s Guide to Automation with n8n](https://www.freecodecamp.org/news/a-beginners-guide-to-automation-with-n8n/) 👤 Manish Shivanandhan 💬 1902 🔖 #n8n 🗓️ 2025-11-04
 - [Be a Magpie. You'll Get More Done.](https://www.joanwestenberg.com/p/be-a-magpie-you-ll-get-more-done) 👤 JA Westenberg 💬 1113 🔖 #reflections, #productivity 🗓️ 2025-11-04
@@ -434,6 +447,8 @@ They follow a template: introduce a counterintuitive finding, tell three anecdot
 - [Let the domain guide your application structure](https://rednafi.com/go/app_structure/) 👤 Redowan Delowar 💬 1181 🔖 #go 🗓️ 2025-09-22
 - [If you are good at code review, you will be good at using AI agents](https://seangoedecke.com/ai-agents-and-code-review/) 👤 seangoedecke.com 💬 1285 🔖 #llm, #codereview 🗓️ 2025-09-22
 - [AI is good news for Australian and European software engineers](https://seangoedecke.com/ai-is-good-news-for-australian-engineers/) 👤 seangoedecke.com 💬 600 🔖 #llm 🗓️ 2025-09-22
+- [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/) 👤 Martin Fowler 💬 5715 🔖 #llm 🗓️ 2025-09-22
+    > **Заметка:** https://chatgpt.com/c/6944167a-ba0c-8333-a192-12b9eb877fed
 - [Opening all the files that have been modified in a Git branch](https://alexwlchan.net/2025/review-files-in-text-editor/?ref=rss) 👤 alexwlchan.net 💬 522 🔖 #git, #try 🗓️ 2025-09-19
 - [I think “agent” may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/#atom-everything) 👤 Simon Willison 💬 1020 🔖 #llm, #agents 🗓️ 2025-09-19
 - [Shipping is your company’s heartbeat](https://www.intercom.com/blog/shipping-is-your-companys-heartbeat/) 👤 Darragh Curran 💬 1158 🔖 #shipping 🗓️ 2025-09-18
@@ -514,6 +529,7 @@ You are a person. Work enough to sustain that. Then stop.
 - [Do the simplest thing that could possibly work](https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/) 👤 seangoedecke.com 💬 1720 🔖 #toot, #development, #programming, #microservices, #softwarecraft, #softwaredesign 🗓️ 2025-08-29
     > **Заметка:** Шон на примерах рассказывает о важности простоты дизайна ПО.
 - [Turning Claude Code Into My Best Design Partner](https://betweentheprompts.com/design-partner/?utm_source=tldrwebdev) 👤 Between the Prompts 💬 1118 🔖 #llm 🗓️ 2025-08-27
+- [Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html) 👤 Ben O'Mahony 💬 2899 🔖 #llm, #agents 🗓️ 2025-08-27
 - [Bring Your Own Agent to Zed — Featuring Gemini CLI](https://zed.dev/blog/bring-your-own-agent-to-zed) 👤 Nathan Sobo 💬 796 🔖 #llm, #zed, #gemini 🗓️ 2025-08-27
 - [Quick Motivation – A Mac App](https://matthewmanela.com/blog/quick-motivation-a-mac-app/) 👤 Matthew Manela 💬 762 🔖 #macos, #swift, #inspiration 🗓️ 2025-08-27
 - [Hopefully More Controversial Programming Opinions](https://prog21.dadgum.com/149.html) 👤 dadgum.com 💬 370 🔖 #programming 🗓️ 2025-08-27
