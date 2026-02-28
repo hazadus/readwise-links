@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1473
+- Всего ссылок: 1475
 
 ## Ссылки
 
+- [Software development now costs less than than the wage of a minimum wage worker](https://ghuntley.com/real/) 👤 Geoffrey Huntley 💬 2223 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-27
+- [Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything) 👤 Simon Willison 💬 1355 🔖 #llm, #softwarecraft 🗓️ 2026-02-27
 - [I vibe coded my dream macOS presentation app](https://simonwillison.net/2026/Feb/25/present/#atom-everything) 👤 Simon Willison 💬 1294 🔖 #llm, #macos 🗓️ 2026-02-25
 - [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything) 👤 Simon Willison 💬 523 🔖 #llm, #try, #learning 🗓️ 2026-02-25
 - [KMP, XCode и 5% мазохистов: как мы писали AI-агентов на 4 платформы](https://habr.com/ru/articles/1002744/) 👤 arturdumchev 💬 2202 🗓️ 2026-02-24

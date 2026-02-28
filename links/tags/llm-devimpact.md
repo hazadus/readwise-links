@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 59
+- Всего ссылок: 60
 
 ## Ссылки
 
+- [Software development now costs less than than the wage of a minimum wage worker](https://ghuntley.com/real/) 👤 Geoffrey Huntley 💬 2223 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-27
+    > **Резюме:** Software development skills are now widely accessible and cheaper than minimum wage jobs thanks to AI tools like Cursor. Companies must adapt quickly to AI or risk losing talent and becoming less competitive. Employees should upskill in AI to stay relevant and avoid layoffs in this fast-changing job market.
 - [A programmer's loss of identity](https://ratfactor.com/tech-nope2?utm_source=tldrdev) 👤 ratfactor.com 💬 1414 🔖 #llm, #reflections, #llm-devimpact 🗓️ 2026-02-22
     > **Резюме:** The author feels he has lost his social identity as a computer programmer because the culture has changed and no longer shares his values. He still loves programming but finds it hard to connect with the current community. Instead, he focuses more on his other interests like art, books, and music while continuing to create and share work for future learners.
 - [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/) 👤 Scott 💬 2344 🔖 #llm, #llm-devimpact 🗓️ 2026-02-21

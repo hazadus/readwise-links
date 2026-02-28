@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 888
+- Всего ссылок: 889
 
 ## Ссылки
 
+- [28 unusual and creative vinyl records](https://coloredvinylrecords.com/blog/25-unusual-and-creative-records/) 👤 Colored Vinyl Records 💬 2383 🗓️ 2026-02-27
 - [Евгений Федоров: Хозяин каменных гор](https://www.soyuz.ru/articles/1134) 👤 soyuz.ru 💬 1350 🔖 #book 🗓️ 2026-02-17
 - [Правда о go test -cover -race ./... (и не только)](https://youtube.com/watch?v=BDVSbr3wGYU&si=Kbrtx-qTB_OtuDNk) 👤 Куда войти? 🔖 #go, #testing 🗓️ 2026-01-30
 - [30+ Самых ожидаемых игр 2026 года I Битый Пиксель](https://www.youtube.com/watch?v=liGmkwyQfjY) 👤 Битый Пиксель 🗓️ 2026-01-24

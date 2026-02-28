@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [Giving external agentic coding tools access to Xcode](https://developer.apple.com/documentation/Xcode/giving-agentic-coding-tools-access-to-xcode) 👤 Apple Developer Documentation 💬 243 🔖 #mcp, #codex, #macos, #xcode, #claude 🗓️ 2026-02-27
+    > **Резюме:** You can let external coding tools control your Xcode project by enabling permissions in Xcode settings. Use the Model Context Protocol (MCP) server and Terminal commands to connect these tools to Xcode. Xcode will notify you when the external tool is connected and active.
 - [Building an AI QA Engineer with Claude Code and Playwright MCP](https://alexop.dev/posts/building_ai_qa_engineer_claude_code_playwright/) 👤 Alexander Opalic 💬 1193 🔖 #mcp, #claude 🗓️ 2025-12-15
     > **Резюме:** Alexander Opalic built an AI QA engineer named Quinn that uses Claude Code and Playwright MCP to test web apps through the browser like a real user. Quinn runs on pull requests via GitHub Actions, clicks, types, resizes the viewport, and posts detailed bug reports with screenshots. This approach finds edge cases and complements but does not replace traditional unit and E2E tests.
 - [too many model context protocol servers and LLM allocations on the dance floor](https://ghuntley.com/allocations/) 👤 Geoffrey Huntley 💬 2498 🔖 #llm, #mcp 🗓️ 2025-08-23

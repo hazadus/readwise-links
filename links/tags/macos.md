@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 28
+- Всего ссылок: 29
 
 ## Ссылки
 
+- [Giving external agentic coding tools access to Xcode](https://developer.apple.com/documentation/Xcode/giving-agentic-coding-tools-access-to-xcode) 👤 Apple Developer Documentation 💬 243 🔖 #mcp, #codex, #macos, #xcode, #claude 🗓️ 2026-02-27
+    > **Резюме:** You can let external coding tools control your Xcode project by enabling permissions in Xcode settings. Use the Model Context Protocol (MCP) server and Terminal commands to connect these tools to Xcode. Xcode will notify you when the external tool is connected and active.
 - [I vibe coded my dream macOS presentation app](https://simonwillison.net/2026/Feb/25/present/#atom-everything) 👤 Simon Willison 💬 1294 🔖 #llm, #macos 🗓️ 2026-02-25
     > **Резюме:** Simon Willison quickly built a simple macOS app called Present to show web-based slides during his talk. The app lets you add URLs as slides, navigate full screen, and control it remotely via phone. This project showed him that using Swift for small apps is easy and practical, even without prior experience.
 - [How does macOS keep its log?](https://eclecticlight.co/2026/02/23/how-does-macos-keep-its-log/) 👤 The Eclectic Light Company 💬 712 🔖 #macos 🗓️ 2026-02-24

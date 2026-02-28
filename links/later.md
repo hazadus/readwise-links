@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 120
+- Всего ссылок: 121
 
 ## Ссылки
 
+- [Giving external agentic coding tools access to Xcode](https://developer.apple.com/documentation/Xcode/giving-agentic-coding-tools-access-to-xcode) 👤 Apple Developer Documentation 💬 243 🔖 #mcp, #codex, #macos, #xcode, #claude 🗓️ 2026-02-27
+    > **Резюме:** You can let external coding tools control your Xcode project by enabling permissions in Xcode settings. Use the Model Context Protocol (MCP) server and Terminal commands to connect these tools to Xcode. Xcode will notify you when the external tool is connected and active.
 - [How does macOS keep its log?](https://eclecticlight.co/2026/02/23/how-does-macos-keep-its-log/) 👤 The Eclectic Light Company 💬 712 🔖 #macos 🗓️ 2026-02-24
     > **Резюме:** macOS saves system logs first in temporary storage on the Preboot volume before the user logs in. After login, these logs move to permanent storage on the Data volume, which is unlocked by the user’s password. The system automatically manages log sizes and deletes old entries, and users cannot change these limits.
 - [You're tired because your AI has no feedback loop](https://siddhantkhare.com/writing/why-your-ai-agent-keeps-failing) 👤 Siddhant Khare 💬 2074 🗓️ 2026-02-24

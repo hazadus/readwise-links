@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 36
+- Всего ссылок: 37
 
 ## Ссылки
 
+- [Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything) 👤 Simon Willison 💬 1355 🔖 #llm, #softwarecraft 🗓️ 2026-02-27
+    > **Резюме:** Simon Willison advises collecting and saving coding solutions you know to build a personal library of useful tricks. This collection helps solve new problems faster by combining past examples, especially with coding agents. Using AI tools, you can quickly create and improve code by reusing and adapting your hoarded knowledge.
 - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology) 👤 Dan McKinley 💬 1655 🔖 #classics, #softwarecraft 🗓️ 2026-02-05
     > **Резюме:** Pick proven, boring technology instead of chasing new shiny tools. Fewer new tools mean less operational pain and fewer unknown failures. Add new tech only after proving you need it and planning the migration.
 - [Choices](https://www.joelonsoftware.com/2000/04/12/choices/) 👤 Joel Spolsky 💬 2123 🔖 #fun, #classics, #softwarecraft 🗓️ 2026-02-05

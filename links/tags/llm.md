@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 402
+- Всего ссылок: 404
 
 ## Ссылки
 
+- [Software development now costs less than than the wage of a minimum wage worker](https://ghuntley.com/real/) 👤 Geoffrey Huntley 💬 2223 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-27
+    > **Резюме:** Software development skills are now widely accessible and cheaper than minimum wage jobs thanks to AI tools like Cursor. Companies must adapt quickly to AI or risk losing talent and becoming less competitive. Employees should upskill in AI to stay relevant and avoid layoffs in this fast-changing job market.
+- [Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything) 👤 Simon Willison 💬 1355 🔖 #llm, #softwarecraft 🗓️ 2026-02-27
+    > **Резюме:** Simon Willison advises collecting and saving coding solutions you know to build a personal library of useful tricks. This collection helps solve new problems faster by combining past examples, especially with coding agents. Using AI tools, you can quickly create and improve code by reusing and adapting your hoarded knowledge.
 - [I vibe coded my dream macOS presentation app](https://simonwillison.net/2026/Feb/25/present/#atom-everything) 👤 Simon Willison 💬 1294 🔖 #llm, #macos 🗓️ 2026-02-25
     > **Резюме:** Simon Willison quickly built a simple macOS app called Present to show web-based slides during his talk. The app lets you add URLs as slides, navigate full screen, and control it remotely via phone. This project showed him that using Swift for small apps is easy and practical, even without prior experience.
 - [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything) 👤 Simon Willison 💬 523 🔖 #llm, #try, #learning 🗓️ 2026-02-25

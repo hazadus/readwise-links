@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [Software development now costs less than than the wage of a minimum wage worker](https://ghuntley.com/real/) 👤 Geoffrey Huntley 💬 2223 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-27
+    > **Резюме:** Software development skills are now widely accessible and cheaper than minimum wage jobs thanks to AI tools like Cursor. Companies must adapt quickly to AI or risk losing talent and becoming less competitive. Employees should upskill in AI to stay relevant and avoid layoffs in this fast-changing job market.
 - [You are not left behind](https://www.ufried.com/blog/not_left_behind/) 👤 Uwe Friedrichsen 💬 3474 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-21
     > **Резюме:** You are not left behind if you don’t learn all AI tricks right now because the technology is still new and changing fast. AI tools today make mistakes and need simple tasks to work well, so expert tips quickly become outdated. However, it is smart to understand AI enough to know when it becomes important, especially in software development.
 - [The Coding Agent Is Dead](https://ampcode.com/news/the-coding-agent-is-dead) 👤 ampcode.com 💬 546 🔖 #amp, #llm, #agents, #predictions 🗓️ 2026-02-20
