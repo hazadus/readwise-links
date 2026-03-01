@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 121
+- Всего ссылок: 122
 
 ## Ссылки
 
+- [Sprites on the Web](https://www.joshwcomeau.com/animation/sprites/?from=newsletter) 👤 Josh W. Comeau 💬 2138 🗓️ 2026-02-28
+    > **Резюме:** Sprites are single images that show animation by quickly changing which part is visible using CSS. This method gives more control than animated GIFs, like adjusting speed or pausing the animation. Sprites improve performance and let designers create smooth, complex animations on the web.
 - [Giving external agentic coding tools access to Xcode](https://developer.apple.com/documentation/Xcode/giving-agentic-coding-tools-access-to-xcode) 👤 Apple Developer Documentation 💬 243 🔖 #mcp, #codex, #macos, #xcode, #claude 🗓️ 2026-02-27
     > **Резюме:** You can let external coding tools control your Xcode project by enabling permissions in Xcode settings. Use the Model Context Protocol (MCP) server and Terminal commands to connect these tools to Xcode. Xcode will notify you when the external tool is connected and active.
 - [How does macOS keep its log?](https://eclecticlight.co/2026/02/23/how-does-macos-keep-its-log/) 👤 The Eclectic Light Company 💬 712 🔖 #macos 🗓️ 2026-02-24

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 404
+- Всего ссылок: 405
 
 ## Ссылки
 
+- [A Cookie for Dario? — Anthropic and selling death](https://www.anildash.com/2026/02/27/a-cookie-for-dario/) 👤 Anil Dash 💬 1258 🔖 #llm 🗓️ 2026-02-28
+    > **Резюме:** Anthropic refused to help the U.S. government use their AI for war crimes, which is the right choice but should be expected. Tech companies have a history of enabling harm, so we must not lower our standards or praise basic decency as exceptional. We need to demand better behavior from tech leaders and keep reminding everyone what is truly normal and acceptable.
 - [Software development now costs less than than the wage of a minimum wage worker](https://ghuntley.com/real/) 👤 Geoffrey Huntley 💬 2223 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-27
     > **Резюме:** Software development skills are now widely accessible and cheaper than minimum wage jobs thanks to AI tools like Cursor. Companies must adapt quickly to AI or risk losing talent and becoming less competitive. Employees should upskill in AI to stay relevant and avoid layoffs in this fast-changing job market.
 - [Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything) 👤 Simon Willison 💬 1355 🔖 #llm, #softwarecraft 🗓️ 2026-02-27

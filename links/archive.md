@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1475
+- Всего ссылок: 1476
 
 ## Ссылки
 
+- [A Cookie for Dario? — Anthropic and selling death](https://www.anildash.com/2026/02/27/a-cookie-for-dario/) 👤 Anil Dash 💬 1258 🔖 #llm 🗓️ 2026-02-28
 - [Software development now costs less than than the wage of a minimum wage worker](https://ghuntley.com/real/) 👤 Geoffrey Huntley 💬 2223 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-27
 - [Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything) 👤 Simon Willison 💬 1355 🔖 #llm, #softwarecraft 🗓️ 2026-02-27
 - [I vibe coded my dream macOS presentation app](https://simonwillison.net/2026/Feb/25/present/#atom-everything) 👤 Simon Willison 💬 1294 🔖 #llm, #macos 🗓️ 2026-02-25
