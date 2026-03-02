@@ -1,9 +1,29 @@
 # Ссылки
 
-- Всего ссылок: 69
+- Всего ссылок: 79
 
 ## Ссылки
 
+- [End of Productivity Theater](https://muratbuffalo.blogspot.com/2026/02/end-of-productivity-theater.html?utm_source=substack&utm_medium=email) 👤 Visit profile 💬 600 🔖 #productivity, #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** In the past, people focused too much on small productivity hacks that didn't help real work get done. Now, the author believes true productivity means doing important, creative thinking away from screens before using technology to execute tasks. With AI handling simple work, humans should focus on deep, meaningful efforts that require judgment and creativity.
+- [The happiest I’ve ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been?utm_source=substack&utm_medium=email) 👤 Ben Wallace 💬 982 🔖 #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** Ben became a youth basketball coach and found real happiness helping kids and leading the team. Coaching gave him confidence, purpose, and joy beyond his desk job. He hopes others find what truly makes them happy, not just what they are told to chase.
+- [How We Hire Engineers When AI Writes Our Code](https://www.tolans.com/relay/how-we-hire-engineers-when-ai-writes-our-code?utm_source=substack&utm_medium=email) 👤 Dan Federman 💬 872 🔖 #interview, #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** The author explains that traditional coding interviews are outdated and don't test real engineering skills. At Tolan, candidates use AI tools during interviews to solve practical problems, showing their judgment and problem-solving. The focus is on clear thinking, communication, and knowing when work is ready—not just writing perfect code.
+- [The Software Industrial Revolution](https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email) 👤 cannoneyed.com 💬 3140 🔖 #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.
+- [The Software Development Lifecycle Is Dead](https://boristane.com/blog/the-software-development-lifecycle-is-dead/?utm_source=substack&utm_medium=email) 👤 Boris Tane 💬 1702 🔖 #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** Software development no longer follows fixed steps but relies on agents that write code, test, and deploy continuously. Humans guide the agents by providing context and reviewing complex decisions, while agents handle routine tasks and fix issues automatically. This shift enables faster, automated releases with minimal human intervention, changing how teams work and monitor software.
+- [Child’s Play](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/?utm_source=substack&utm_medium=email) 👤 Sam Kriss 💬 9390 🔖 #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** Roy went to Columbia not to learn but to start a tech company called Cluely, which mixed AI with a flashy, frat-like culture. The story shows how young tech founders use AI for control and self-promotion, often confusing usefulness with hype. It also highlights a world where social media and startups become the main way to seek identity and success.
+- [No Skill. No Taste.](https://blog.kinglycrow.com/no-skill-no-taste/?utm_source=substack&utm_medium=email) 👤 The Crow's Nest 💬 839 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** Many people overestimate their skill and taste when building apps, especially with easy tools like LLMs. Taste matters a lot because it helps ideas stand out, even if the app is simple or imperfect. Without skill and taste, the tech scene gets flooded with low-quality, unoriginal projects.
+- [Twenty Five Years of Computing](https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email) 👤 susam.net 💬 3913 🔖 #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** The author has over 25 years of experience in software development, starting from university days. Early challenges and learning moments helped them grow into a skilled engineer. They value professionalism, continuous learning, and kindness in their career.
+- [Do Less.](https://usefulfictions.substack.com/p/do-less?utm_source=substack&utm_medium=email) 👤 Cate Hall 💬 1789 🔖 #reading, #learning, #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** Trying to do more all the time doesn’t help us learn or rest better. True rest and growth need us to slow down and give space for ideas and feelings to settle. The author’s new motto is “Do Less” to find real peace and progress.
+- [AI Doesn’t Reduce Work—It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it?utm_source=substack&utm_medium=email) 👤 Aruna Ranganathan, Xingqi Maggie Ye 💬 1771 🔖 #llm, #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** AI does not reduce work but makes employees do more tasks faster and for longer hours. This can cause stress, burnout, and blurred lines between work and personal time. Companies need clear rules about how to use AI to keep work balanced and healthy.
 - [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents?utm_source=substack&utm_medium=email) 👤 crawshaw.io 💬 1551 🔖 #llm, #predictions, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
     > **Резюме:** Agent models have improved a lot in the past year, making coding much faster and easier. Traditional IDEs are becoming less needed as new tools and agents take over programming tasks. The author believes future software should focus on what helps programmers most, as agents change how we write code.
 - [I miss thinking hard.](https://www.jernesto.com/articles/thinking_hard?utm_source=substack&utm_medium=email) 👤 jernesto.com 💬 1057 🔖 #learning, #reflections, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15

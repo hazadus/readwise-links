@@ -1,9 +1,18 @@
 # Ссылки
 
-- Всего ссылок: 405
+- Всего ссылок: 409
 
 ## Ссылки
 
+- [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) 👤 Max Woolf's Blog 💬 6903 🔖 #llm 🗓️ 2026-03-01
+    > **Заметка:** Via https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything
+    > **Резюме:** The author tested AI coding agents and found them surprisingly good at writing and optimizing Rust and Python code. These agents created fast, efficient machine learning tools that rival existing libraries. The author encourages others to try modern agents with clear coding guidelines for better results.
+- [Interactive explanations - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything) 👤 Simon Willison 💬 501 🔖 #llm, #cognitivedebt, #llm-devimpact 🗓️ 2026-03-01
+    > **Резюме:** Understanding complex code can be hard and cause "cognitive debt." Interactive explanations, like animated walkthroughs, help make tricky ideas clearer. Using AI tools, the author learned how a word cloud algorithm works by seeing it step-by-step in an animation.
+- [No Skill. No Taste.](https://blog.kinglycrow.com/no-skill-no-taste/?utm_source=substack&utm_medium=email) 👤 The Crow's Nest 💬 839 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** Many people overestimate their skill and taste when building apps, especially with easy tools like LLMs. Taste matters a lot because it helps ideas stand out, even if the app is simple or imperfect. Without skill and taste, the tech scene gets flooded with low-quality, unoriginal projects.
+- [AI Doesn’t Reduce Work—It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it?utm_source=substack&utm_medium=email) 👤 Aruna Ranganathan, Xingqi Maggie Ye 💬 1771 🔖 #llm, #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** AI does not reduce work but makes employees do more tasks faster and for longer hours. This can cause stress, burnout, and blurred lines between work and personal time. Companies need clear rules about how to use AI to keep work balanced and healthy.
 - [A Cookie for Dario? — Anthropic and selling death](https://www.anildash.com/2026/02/27/a-cookie-for-dario/) 👤 Anil Dash 💬 1258 🔖 #llm 🗓️ 2026-02-28
     > **Резюме:** Anthropic refused to help the U.S. government use their AI for war crimes, which is the right choice but should be expected. Tech companies have a history of enabling harm, so we must not lower our standards or praise basic decency as exceptional. We need to demand better behavior from tech leaders and keep reminding everyone what is truly normal and acceptable.
 - [Software development now costs less than than the wage of a minimum wage worker](https://ghuntley.com/real/) 👤 Geoffrey Huntley 💬 2223 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-27

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 28
+- Всего ссылок: 29
 
 ## Ссылки
 
+- [End of Productivity Theater](https://muratbuffalo.blogspot.com/2026/02/end-of-productivity-theater.html?utm_source=substack&utm_medium=email) 👤 Visit profile 💬 600 🔖 #productivity, #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** In the past, people focused too much on small productivity hacks that didn't help real work get done. Now, the author believes true productivity means doing important, creative thinking away from screens before using technology to execute tasks. With AI handling simple work, humans should focus on deep, meaningful efforts that require judgment and creativity.
 - [A Metabolic Workspace](https://www.joanwestenberg.com/a-metabolic-workspace/?ref=westenberg-newsletter) 👤 Westenberg. 💬 2361 🔖 #pkm, #productivity 🗓️ 2026-01-09
     > **Резюме:** The author argues most note systems turn thinking into busywork.  
 Instead, treat ideas like food: digest them by summarizing from memory into one daily note and keep only what changes your thinking.  

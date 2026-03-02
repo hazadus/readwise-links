@@ -1,9 +1,26 @@
 # Отложенные ссылки
 
-- Всего ссылок: 122
+- Всего ссылок: 130
 
 ## Ссылки
 
+- [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) 👤 Max Woolf's Blog 💬 6903 🔖 #llm 🗓️ 2026-03-01
+    > **Заметка:** Via https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything
+    > **Резюме:** The author tested AI coding agents and found them surprisingly good at writing and optimizing Rust and Python code. These agents created fast, efficient machine learning tools that rival existing libraries. The author encourages others to try modern agents with clear coding guidelines for better results.
+- [Burnout is breaking a sacred pact](https://usefulfictions.substack.com/p/burnout-is-breaking-a-sacred-pact) 👤 Cate Hall 💬 2039 🔖 #burnout 🗓️ 2026-03-01
+    > **Резюме:** Burnout happens when we work hard without getting the rewards we need, breaking a sacred promise between our feelings and our goals. It is serious and gets worse if ignored, so we must act quickly to rest and give ourselves what we truly need. Listening honestly to our inner self is key to healing and avoiding lasting damage.
+- [The Software Industrial Revolution](https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email) 👤 cannoneyed.com 💬 3140 🔖 #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.
+- [The Software Development Lifecycle Is Dead](https://boristane.com/blog/the-software-development-lifecycle-is-dead/?utm_source=substack&utm_medium=email) 👤 Boris Tane 💬 1702 🔖 #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** Software development no longer follows fixed steps but relies on agents that write code, test, and deploy continuously. Humans guide the agents by providing context and reviewing complex decisions, while agents handle routine tasks and fix issues automatically. This shift enables faster, automated releases with minimal human intervention, changing how teams work and monitor software.
+- [Child’s Play](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/?utm_source=substack&utm_medium=email) 👤 Sam Kriss 💬 9390 🔖 #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** Roy went to Columbia not to learn but to start a tech company called Cluely, which mixed AI with a flashy, frat-like culture. The story shows how young tech founders use AI for control and self-promotion, often confusing usefulness with hype. It also highlights a world where social media and startups become the main way to seek identity and success.
+- [Twenty Five Years of Computing](https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email) 👤 susam.net 💬 3913 🔖 #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** The author has over 25 years of experience in software development, starting from university days. Early challenges and learning moments helped them grow into a skilled engineer. They value professionalism, continuous learning, and kindness in their career.
+- [Do Less.](https://usefulfictions.substack.com/p/do-less?utm_source=substack&utm_medium=email) 👤 Cate Hall 💬 1789 🔖 #reading, #learning, #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** Trying to do more all the time doesn’t help us learn or rest better. True rest and growth need us to slow down and give space for ideas and feelings to settle. The author’s new motto is “Do Less” to find real peace and progress.
+- [AI Doesn’t Reduce Work—It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it?utm_source=substack&utm_medium=email) 👤 Aruna Ranganathan, Xingqi Maggie Ye 💬 1771 🔖 #llm, #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** AI does not reduce work but makes employees do more tasks faster and for longer hours. This can cause stress, burnout, and blurred lines between work and personal time. Companies need clear rules about how to use AI to keep work balanced and healthy.
 - [Sprites on the Web](https://www.joshwcomeau.com/animation/sprites/?from=newsletter) 👤 Josh W. Comeau 💬 2138 🗓️ 2026-02-28
     > **Резюме:** Sprites are single images that show animation by quickly changing which part is visible using CSS. This method gives more control than animated GIFs, like adjusting speed or pausing the animation. Sprites improve performance and let designers create smooth, complex animations on the web.
 - [Giving external agentic coding tools access to Xcode](https://developer.apple.com/documentation/Xcode/giving-agentic-coding-tools-access-to-xcode) 👤 Apple Developer Documentation 💬 243 🔖 #mcp, #codex, #macos, #xcode, #claude 🗓️ 2026-02-27

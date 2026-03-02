@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 21
+- Всего ссылок: 22
 
 ## Ссылки
 
+- [How We Hire Engineers When AI Writes Our Code](https://www.tolans.com/relay/how-we-hire-engineers-when-ai-writes-our-code?utm_source=substack&utm_medium=email) 👤 Dan Federman 💬 872 🔖 #interview, #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** The author explains that traditional coding interviews are outdated and don't test real engineering skills. At Tolan, candidates use AI tools during interviews to solve practical problems, showing their judgment and problem-solving. The focus is on clear thinking, communication, and knowing when work is ready—not just writing perfect code.
 - [Interview: Ken Case (OmniFocus)](https://www.joanwestenberg.com/p/interview-ken-case-omnifocus) 👤 JA Westenberg 💬 6152 🔖 #interview 🗓️ 2025-11-08
     > **Резюме:** Ken Case, founder of Omni Group, describes building polished native productivity apps for Apple platforms from the NeXT days through Mac OS X. Omni is releasing a universal OmniOutliner and focuses on native apps while offering web versions for device flexibility. Their goal is to improve workflow across devices with unified development, shared outlines, and features that work everywhere.
 - [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/) 👤 https://www.facebook.com/yusufaytas 💬 3975 🔖 #llm, #interview, #llm-devimpact 🗓️ 2025-11-01
