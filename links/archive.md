@@ -1,9 +1,12 @@
 # Архивные ссылки
 
-- Всего ссылок: 1481
+- Всего ссылок: 1484
 
 ## Ссылки
 
+- [Giving LLMs a personality is just good engineering](https://www.seangoedecke.com/giving-llms-a-personality/) 👤 seangoedecke.com 💬 1062 🔖 #llm 🗓️ 2026-03-03
+- [No one wants to read your AI slop (permalink)](https://pluralistic.net/2026/03/02/nonconsensual-slopping/) 👤 pluralistic.net 💬 1747 🔖 #llm, #writing 🗓️ 2026-03-03
+- [Is AI Killing Software Engineering Jobs?](https://codemanship.wordpress.com/2026/03/02/is-ai-killing-software-engineering-jobs/) 👤 Codemanship's Blog 💬 979 🔖 #llm, #llm-devimpact 🗓️ 2026-03-03
 - [Interactive explanations - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything) 👤 Simon Willison 💬 501 🔖 #llm, #cognitivedebt, #llm-devimpact 🗓️ 2026-03-01
 - [End of Productivity Theater](https://muratbuffalo.blogspot.com/2026/02/end-of-productivity-theater.html?utm_source=substack&utm_medium=email) 👤 Visit profile 💬 600 🔖 #productivity, #joyandcuriosity 🗓️ 2026-03-01
 - [The happiest I’ve ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been?utm_source=substack&utm_medium=email) 👤 Ben Wallace 💬 982 🔖 #joyandcuriosity 🗓️ 2026-03-01

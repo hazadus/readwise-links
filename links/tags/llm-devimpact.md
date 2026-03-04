@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 62
+- Всего ссылок: 63
 
 ## Ссылки
 
+- [Is AI Killing Software Engineering Jobs?](https://codemanship.wordpress.com/2026/03/02/is-ai-killing-software-engineering-jobs/) 👤 Codemanship's Blog 💬 979 🔖 #llm, #llm-devimpact 🗓️ 2026-03-03
+    > **Резюме:** AI tools like ChatGPT did not cause software engineering job losses; the downturn began earlier due to economic shifts and rising interest rates. Despite fears, companies are still hiring software engineers and the profession is growing. Job market changes follow a boom-and-bust cycle, and demand for developers is expected to recover over time.
 - [Interactive explanations - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything) 👤 Simon Willison 💬 501 🔖 #llm, #cognitivedebt, #llm-devimpact 🗓️ 2026-03-01
     > **Резюме:** Understanding complex code can be hard and cause "cognitive debt." Interactive explanations, like animated walkthroughs, help make tricky ideas clearer. Using AI tools, the author learned how a word cloud algorithm works by seeing it step-by-step in an animation.
 - [No Skill. No Taste.](https://blog.kinglycrow.com/no-skill-no-taste/?utm_source=substack&utm_medium=email) 👤 The Crow's Nest 💬 839 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-01

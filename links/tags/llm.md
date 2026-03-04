@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 409
+- Всего ссылок: 412
 
 ## Ссылки
 
+- [Giving LLMs a personality is just good engineering](https://www.seangoedecke.com/giving-llms-a-personality/) 👤 seangoedecke.com 💬 1062 🔖 #llm 🗓️ 2026-03-03
+    > **Резюме:** AI language models need a human-like personality to be useful and safe. This personality guides the model to give helpful and ethical responses instead of harmful or random ones. Making AI act like a person is not a trick but smart engineering.
+- [No one wants to read your AI slop (permalink)](https://pluralistic.net/2026/03/02/nonconsensual-slopping/) 👤 pluralistic.net 💬 1747 🔖 #llm, #writing 🗓️ 2026-03-03
+    > **Резюме:** People don’t want to read your AI-generated chats or critiques. Using AI to argue without understanding wastes others’ time and is rude. Always think for yourself before sharing AI content with strangers.
+- [Is AI Killing Software Engineering Jobs?](https://codemanship.wordpress.com/2026/03/02/is-ai-killing-software-engineering-jobs/) 👤 Codemanship's Blog 💬 979 🔖 #llm, #llm-devimpact 🗓️ 2026-03-03
+    > **Резюме:** AI tools like ChatGPT did not cause software engineering job losses; the downturn began earlier due to economic shifts and rising interest rates. Despite fears, companies are still hiring software engineers and the profession is growing. Job market changes follow a boom-and-bust cycle, and demand for developers is expected to recover over time.
 - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) 👤 Max Woolf's Blog 💬 6903 🔖 #llm 🗓️ 2026-03-01
     > **Заметка:** Via https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything
     > **Резюме:** The author tested AI coding agents and found them surprisingly good at writing and optimizing Rust and Python code. These agents created fast, efficient machine learning tools that rival existing libraries. The author encourages others to try modern agents with clear coding guidelines for better results.
