@@ -1,5 +1,218 @@
 [
     {
+        "id": "01kjwj2d6ngddzrgxejrw2wsp9",
+        "url": "https://read.readwise.io/read/01kjwj2d6ngddzrgxejrw2wsp9",
+        "source_url": "https://blog.glyph.im/2026/03/what-is-code-review-for.html",
+        "title": "What Is Code Review For?",
+        "author": "Glyph Lefkowitz",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "later",
+        "tags": {
+            "codereview": {
+                "name": "CodeReview",
+                "type": "manual",
+                "created": 1772632494988
+            }
+        },
+        "site_name": "glyph.im",
+        "word_count": 1353,
+        "notes": "",
+        "summary": "Code review is mainly a social process to share knowledge and improve team culture, not a way to catch bugs. Automated tools like tests and linters are better for finding errors reliably. When reviewing code from AI like LLMs, rely on strong automated checks because these tools do not learn or improve like humans.",
+        "image_url": "",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2026-03-03",
+        "created_at": "2026-03-04T13:54:47.673618+00:00",
+        "updated_at": "2026-03-04T13:54:55.316188+00:00",
+        "saved_at": "2026-03-04T13:54:47.125000+00:00",
+        "first_opened_at": "2026-03-04T13:54:47.125000+00:00",
+        "last_opened_at": "2026-03-04T13:54:47.125000+00:00",
+        "last_moved_at": "2026-03-04T13:54:50.528000+00:00"
+    },
+    {
+        "id": "01kjwhjez21g3j1xpbxr9msj3y",
+        "url": "https://read.readwise.io/read/01kjwhjez21g3j1xpbxr9msj3y",
+        "source_url": "https://davegriffith.substack.com/p/let-a-million-flowers-bloom",
+        "title": "Let a Million Flowers Bloom",
+        "author": "Dave Griffith",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "later",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1772631971645
+            }
+        },
+        "site_name": "Dancing with Robots: A Software Architect's Journey",
+        "word_count": 1597,
+        "notes": "",
+        "summary": "Experienced engineers are trying many new ways to work with AI, experimenting with tools and workflows. No one knows the best method yet, so they share ideas and learn together. This time of exploration is messy but full of creative energy and growth.",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!2Hdn!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1327610351%26version%3D9",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2026-03-03",
+        "created_at": "2026-03-04T13:46:05.996085+00:00",
+        "updated_at": "2026-03-04T13:46:12.009808+00:00",
+        "saved_at": "2026-03-04T13:46:04.642000+00:00",
+        "first_opened_at": "2026-03-04T13:46:04.642000+00:00",
+        "last_opened_at": "2026-03-04T13:46:04.642000+00:00",
+        "last_moved_at": "2026-03-04T13:46:09.162000+00:00"
+    },
+    {
+        "id": "01kjw05jvmm0b78qrjs7dsp0kz",
+        "url": "https://read.readwise.io/read/01kjw05jvmm0b78qrjs7dsp0kz",
+        "source_url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+        "title": "Nobody Gets Promoted for Simplicity",
+        "author": "Terrible Software",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "later",
+        "tags": {
+            "career": {
+                "name": "Career",
+                "type": "manual",
+                "created": 1772613725529
+            }
+        },
+        "site_name": "Terrible Software",
+        "word_count": 1425,
+        "notes": "",
+        "summary": "Engineering teams often reward complexity more than simplicity, even when simple solutions work better. This happens because complex work looks more impressive in reviews and promotions. To fix this, we must recognize and value smart simplicity, making it visible and appreciated.",
+        "image_url": "https://terriblesoftware.org/wp-content/uploads/2026/03/chjpdmf0zs9sci9pbwfnzxmvd2vic2l0zs8ymdiylta1l25zmtexndetaw1hz2uta3d2d3b1c3kuanbn.webp",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2026-03-03",
+        "created_at": "2026-03-04T08:41:58.264355+00:00",
+        "updated_at": "2026-03-04T08:42:06.142388+00:00",
+        "saved_at": "2026-03-04T08:41:56.852000+00:00",
+        "first_opened_at": "2026-03-04T08:41:56.852000+00:00",
+        "last_opened_at": "2026-03-04T08:41:56.852000+00:00",
+        "last_moved_at": "2026-03-04T08:42:01.382000+00:00"
+    },
+    {
+        "id": "01kjvzv6wrnw0jsbvhbhxexcj5",
+        "url": "https://read.readwise.io/read/01kjvzv6wrnw0jsbvhbhxexcj5",
+        "source_url": "https://tonsky.me/blog/fall-of-native/",
+        "title": "Claude is an Electron App because we’ve lost native",
+        "author": "Nikita Prokopov",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "later",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1772613380559
+            },
+            "claude": {
+                "name": "Claude",
+                "type": "manual",
+                "created": 1772613385497
+            }
+        },
+        "site_name": "tonsky.me",
+        "word_count": 591,
+        "notes": "",
+        "summary": "Native apps have lost their advantage because their APIs are hard to use and their look is inconsistent and often bad. Web apps, including Electron apps, have become popular since they are easier to develop and maintain. The real problem is not the technology but a lack of care and attention to quality in software design.",
+        "image_url": "https://dynogee.com/gen?id=24m2qx9uethuw6p&title=Claude+is+an+Electron+App+because+we%E2%80%99ve+lost+native",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2026-03-03",
+        "created_at": "2026-03-04T08:36:17.930789+00:00",
+        "updated_at": "2026-03-04T08:36:27.445743+00:00",
+        "saved_at": "2026-03-04T08:36:16.919000+00:00",
+        "first_opened_at": "2026-03-04T08:36:16.919000+00:00",
+        "last_opened_at": "2026-03-04T08:36:16.919000+00:00",
+        "last_moved_at": "2026-03-04T08:36:26.998000+00:00"
+    },
+    {
+        "id": "01kjvzt3kbme2hcqqvw48kfe5p",
+        "url": "https://read.readwise.io/read/01kjvzt3kbme2hcqqvw48kfe5p",
+        "source_url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
+        "title": "Why is Claude an Electron App?",
+        "author": "Drew Breunig",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "later",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1772613344186
+            },
+            "claude": {
+                "name": "Claude",
+                "type": "manual",
+                "created": 1772613348721
+            }
+        },
+        "site_name": "Drew Breunig",
+        "word_count": 738,
+        "notes": "",
+        "summary": "Claude uses Electron because it lets developers build one app that works on Windows, Mac, and Linux easily. Coding agents help a lot but struggle with finishing the last parts and handling bugs in native apps. So, using Electron saves time and effort despite its downsides like being slow and large.",
+        "image_url": "https://www.dbreunig.com/img/sf_beach_og.jpg",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2026-02-21",
+        "created_at": "2026-03-04T08:35:41.483119+00:00",
+        "updated_at": "2026-03-04T08:35:51.692775+00:00",
+        "saved_at": "2026-03-04T08:35:40.779000+00:00",
+        "first_opened_at": "2026-03-04T08:35:40.779000+00:00",
+        "last_opened_at": "2026-03-04T08:35:40.779000+00:00",
+        "last_moved_at": "2026-03-04T08:35:51.223000+00:00"
+    },
+    {
+        "id": "01kjvva888hz42b71wyyr7vfxx",
+        "url": "https://read.readwise.io/read/01kjvva888hz42b71wyyr7vfxx",
+        "source_url": "https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf",
+        "title": "Claude's Cycles",
+        "author": "Don Knuth",
+        "source": null,
+        "category": "pdf",
+        "location": "later",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1772608635698
+            },
+            "claude": {
+                "name": "Claude",
+                "type": "manual",
+                "created": 1772608638880
+            }
+        },
+        "site_name": "Stanford Report",
+        "word_count": 3530,
+        "notes": "",
+        "summary": "Don Knuth studied a special graph with vertices labeled by triples and found a way to split its edges into three directed cycles for odd-sized graphs. He created a Python program that works for several odd sizes, proving all cycles cover every vertex exactly once. Many cycles exist for size 3, but only some generalize correctly to larger odd sizes.",
+        "image_url": "https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/427687886/3IbK6CxcBG0Z3ZOgCwH0-P2OJ6BRgIClXiTQf8kHyJg-cove_B50PGNe.png",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2026-03-02",
+        "created_at": "2026-03-04T07:17:06.967037+00:00",
+        "updated_at": "2026-03-04T07:17:24.255963+00:00",
+        "saved_at": "2026-03-04T07:17:06.952000+00:00",
+        "first_opened_at": "2026-03-04T07:17:08.037000+00:00",
+        "last_opened_at": "2026-03-04T07:17:08.037000+00:00",
+        "last_moved_at": "2026-03-04T07:17:23.289000+00:00"
+    },
+    {
         "id": "01kjs3vcd7gqt2na6tpvxtey3r",
         "url": "https://read.readwise.io/read/01kjs3vcd7gqt2na6tpvxtey3r",
         "source_url": "https://www.seangoedecke.com/giving-llms-a-personality/",

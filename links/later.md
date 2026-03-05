@@ -1,9 +1,21 @@
 # Отложенные ссылки
 
-- Всего ссылок: 130
+- Всего ссылок: 136
 
 ## Ссылки
 
+- [What Is Code Review For?](https://blog.glyph.im/2026/03/what-is-code-review-for.html) 👤 Glyph Lefkowitz 💬 1353 🔖 #codereview 🗓️ 2026-03-04
+    > **Резюме:** Code review is mainly a social process to share knowledge and improve team culture, not a way to catch bugs. Automated tools like tests and linters are better for finding errors reliably. When reviewing code from AI like LLMs, rely on strong automated checks because these tools do not learn or improve like humans.
+- [Let a Million Flowers Bloom](https://davegriffith.substack.com/p/let-a-million-flowers-bloom) 👤 Dave Griffith 💬 1597 🔖 #llm 🗓️ 2026-03-04
+    > **Резюме:** Experienced engineers are trying many new ways to work with AI, experimenting with tools and workflows. No one knows the best method yet, so they share ideas and learn together. This time of exploration is messy but full of creative energy and growth.
+- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) 👤 Terrible Software 💬 1425 🔖 #career 🗓️ 2026-03-04
+    > **Резюме:** Engineering teams often reward complexity more than simplicity, even when simple solutions work better. This happens because complex work looks more impressive in reviews and promotions. To fix this, we must recognize and value smart simplicity, making it visible and appreciated.
+- [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/) 👤 Nikita Prokopov 💬 591 🔖 #llm, #claude 🗓️ 2026-03-04
+    > **Резюме:** Native apps have lost their advantage because their APIs are hard to use and their look is inconsistent and often bad. Web apps, including Electron apps, have become popular since they are easier to develop and maintain. The real problem is not the technology but a lack of care and attention to quality in software design.
+- [Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html) 👤 Drew Breunig 💬 738 🔖 #llm, #claude 🗓️ 2026-03-04
+    > **Резюме:** Claude uses Electron because it lets developers build one app that works on Windows, Mac, and Linux easily. Coding agents help a lot but struggle with finishing the last parts and handling bugs in native apps. So, using Electron saves time and effort despite its downsides like being slow and large.
+- [Claude's Cycles](https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf) 👤 Don Knuth 💬 3530 🔖 #llm, #claude 🗓️ 2026-03-04
+    > **Резюме:** Don Knuth studied a special graph with vertices labeled by triples and found a way to split its edges into three directed cycles for odd-sized graphs. He created a Python program that works for several odd sizes, proving all cycles cover every vertex exactly once. Many cycles exist for size 3, but only some generalize correctly to larger odd sizes.
 - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) 👤 Max Woolf's Blog 💬 6903 🔖 #llm 🗓️ 2026-03-01
     > **Заметка:** Via https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything
     > **Резюме:** The author tested AI coding agents and found them surprisingly good at writing and optimizing Rust and Python code. These agents created fast, efficient machine learning tools that rival existing libraries. The author encourages others to try modern agents with clear coding guidelines for better results.
