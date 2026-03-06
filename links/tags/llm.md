@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 416
+- Всего ссылок: 417
 
 ## Ссылки
 
+- [microgpt](https://karpathy.github.io/2026/02/12/microgpt/?utm_source=tldrdev) 👤 karpathy.github.io 💬 5261 🔖 #llm 🗓️ 2026-03-05
+    > **Резюме:** MicroGPT is a simple neural network that learns to predict the next token in a sequence by adjusting many small parameters. It trains using backpropagation and the Adam optimizer to reduce prediction errors step-by-step. Over time, the model gets better at capturing patterns in the data and generating likely next tokens.
 - [Let a Million Flowers Bloom](https://davegriffith.substack.com/p/let-a-million-flowers-bloom) 👤 Dave Griffith 💬 1597 🔖 #llm 🗓️ 2026-03-04
     > **Резюме:** Experienced engineers are trying many new ways to work with AI, experimenting with tools and workflows. No one knows the best method yet, so they share ideas and learn together. This time of exploration is messy but full of creative energy and growth.
 - [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/) 👤 Nikita Prokopov 💬 591 🔖 #llm, #claude 🗓️ 2026-03-04

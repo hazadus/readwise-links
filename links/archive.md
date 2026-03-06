@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1484
+- Всего ссылок: 1485
 
 ## Ссылки
 
+- [What Is Code Review For?](https://blog.glyph.im/2026/03/what-is-code-review-for.html) 👤 Glyph Lefkowitz 💬 1353 🔖 #codereview 🗓️ 2026-03-04
 - [Giving LLMs a personality is just good engineering](https://www.seangoedecke.com/giving-llms-a-personality/) 👤 seangoedecke.com 💬 1062 🔖 #llm 🗓️ 2026-03-03
 - [No one wants to read your AI slop (permalink)](https://pluralistic.net/2026/03/02/nonconsensual-slopping/) 👤 pluralistic.net 💬 1747 🔖 #llm, #writing 🗓️ 2026-03-03
 - [Is AI Killing Software Engineering Jobs?](https://codemanship.wordpress.com/2026/03/02/is-ai-killing-software-engineering-jobs/) 👤 Codemanship's Blog 💬 979 🔖 #llm, #llm-devimpact 🗓️ 2026-03-03

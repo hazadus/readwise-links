@@ -1,5 +1,38 @@
 [
     {
+        "id": "01kjz757r7cztw20w5anxnzy93",
+        "url": "https://read.readwise.io/read/01kjz757r7cztw20w5anxnzy93",
+        "source_url": "https://karpathy.github.io/2026/02/12/microgpt/?utm_source=tldrdev",
+        "title": "microgpt",
+        "author": "karpathy.github.io",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "later",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1772721714255
+            }
+        },
+        "site_name": "karpathy.github.io",
+        "word_count": 5261,
+        "notes": "",
+        "summary": "MicroGPT is a simple neural network that learns to predict the next token in a sequence by adjusting many small parameters. It trains using backpropagation and the Adam optimizer to reduce prediction errors step-by-step. Over time, the model gets better at capturing patterns in the data and generating likely next tokens.",
+        "image_url": "",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2026-02-11",
+        "created_at": "2026-03-05T14:41:49.936159+00:00",
+        "updated_at": "2026-03-05T14:41:54.538328+00:00",
+        "saved_at": "2026-03-05T14:41:48.807000+00:00",
+        "first_opened_at": "2026-03-05T14:41:48.807000+00:00",
+        "last_opened_at": "2026-03-05T14:41:48.807000+00:00",
+        "last_moved_at": "2026-03-05T14:41:52.910000+00:00"
+    },
+    {
         "id": "01kjwj2d6ngddzrgxejrw2wsp9",
         "url": "https://read.readwise.io/read/01kjwj2d6ngddzrgxejrw2wsp9",
         "source_url": "https://blog.glyph.im/2026/03/what-is-code-review-for.html",
@@ -7,7 +40,7 @@
         "author": "Glyph Lefkowitz",
         "source": "Readwise web highlighter",
         "category": "article",
-        "location": "later",
+        "location": "archive",
         "tags": {
             "codereview": {
                 "name": "CodeReview",
@@ -21,16 +54,45 @@
         "summary": "Code review is mainly a social process to share knowledge and improve team culture, not a way to catch bugs. Automated tools like tests and linters are better for finding errors reliably. When reviewing code from AI like LLMs, rely on strong automated checks because these tools do not learn or improve like humans.",
         "image_url": "",
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 0.9219590636008089,
         "content": null,
         "html_content": null,
         "published_date": "2026-03-03",
         "created_at": "2026-03-04T13:54:47.673618+00:00",
-        "updated_at": "2026-03-04T13:54:55.316188+00:00",
+        "updated_at": "2026-03-05T11:34:48.607109+00:00",
         "saved_at": "2026-03-04T13:54:47.125000+00:00",
         "first_opened_at": "2026-03-04T13:54:47.125000+00:00",
-        "last_opened_at": "2026-03-04T13:54:47.125000+00:00",
-        "last_moved_at": "2026-03-04T13:54:50.528000+00:00"
+        "last_opened_at": "2026-03-05T11:26:25.978000+00:00",
+        "last_moved_at": "2026-03-05T11:34:48.088000+00:00",
+        "highlights": [
+            {
+                "id": "01kjyw7zgtrrpkm950vwm5tmpd",
+                "url": "https://read.readwise.io/read/01kjyw7zgtrrpkm950vwm5tmpd",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-mobile-app",
+                "category": "highlight",
+                "location": null,
+                "tags": {},
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01kjwj2d6ngddzrgxejrw2wsp9",
+                "reading_progress": 0.0,
+                "content": "code review should be as hierarchically flat as possible. If the goal of code review were to spot bugs, it would make sense to reserve the ability to review code to only the most senior, detail-oriented, rigorous engineers in the organization. But most teams already know that that’s a recipe for brittleness, stagnation and bottlenecks. Thus, even though we know that not everyone on the team will be equally good at spotting bugs, it is very common in most teams to allow anyone past some fairly low minimum seniority bar to do reviews, often as low as “everyone on the team who has finished onboarding”.",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2026-03-05T11:31:04.812553+00:00",
+                "updated_at": "2026-03-05T11:31:04.812567+00:00",
+                "saved_at": "2026-03-05T11:31:04.346000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2026-03-05T11:31:04.346000+00:00"
+            }
+        ]
     },
     {
         "id": "01kjwhjez21g3j1xpbxr9msj3y",
@@ -54,15 +116,15 @@
         "summary": "Experienced engineers are trying many new ways to work with AI, experimenting with tools and workflows. No one knows the best method yet, so they share ideas and learn together. This time of exploration is messy but full of creative energy and growth.",
         "image_url": "https://substackcdn.com/image/fetch/$s_!2Hdn!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1327610351%26version%3D9",
         "parent_id": null,
-        "reading_progress": 0.0,
+        "reading_progress": 0.07689386515092121,
         "content": null,
         "html_content": null,
         "published_date": "2026-03-03",
         "created_at": "2026-03-04T13:46:05.996085+00:00",
-        "updated_at": "2026-03-04T13:46:12.009808+00:00",
+        "updated_at": "2026-03-05T13:00:06.329483+00:00",
         "saved_at": "2026-03-04T13:46:04.642000+00:00",
         "first_opened_at": "2026-03-04T13:46:04.642000+00:00",
-        "last_opened_at": "2026-03-04T13:46:04.642000+00:00",
+        "last_opened_at": "2026-03-05T12:58:41.914000+00:00",
         "last_moved_at": "2026-03-04T13:46:09.162000+00:00"
     },
     {
