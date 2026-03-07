@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 417
+- Всего ссылок: 419
 
 ## Ссылки
 
+- [Agentic manual testing - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything) 👤 Simon Willison 💬 1148 🔖 #llm 🗓️ 2026-03-06
+    > **Резюме:** Coding agents can write and run their own code, which helps them test and improve it automatically. Manual testing by agents, especially using tools like Playwright and Rodney, finds problems that automated tests might miss. Showboat helps agents document their testing process clearly, making it easier to verify their work.
+- [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/#atom-everything) 👤 Simon Willison 💬 1188 🔖 #llm 🗓️ 2026-03-06
+    > **Резюме:** Coding agents can quickly create new versions of software without copying old code, raising questions about licensing and legality. A recent rewrite of the chardet library sparked debate because it reused the same name but changed the license from LGPL to MIT. This case shows the challenges and uncertainty around AI-generated code and open source rules.
 - [microgpt](https://karpathy.github.io/2026/02/12/microgpt/?utm_source=tldrdev) 👤 karpathy.github.io 💬 5261 🔖 #llm 🗓️ 2026-03-05
     > **Резюме:** MicroGPT is a simple neural network that learns to predict the next token in a sequence by adjusting many small parameters. It trains using backpropagation and the Adam optimizer to reduce prediction errors step-by-step. Over time, the model gets better at capturing patterns in the data and generating likely next tokens.
 - [Let a Million Flowers Bloom](https://davegriffith.substack.com/p/let-a-million-flowers-bloom) 👤 Dave Griffith 💬 1597 🔖 #llm 🗓️ 2026-03-04
