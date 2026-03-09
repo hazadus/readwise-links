@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 419
+- Всего ссылок: 420
 
 ## Ссылки
 
 - [Agentic manual testing - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything) 👤 Simon Willison 💬 1148 🔖 #llm 🗓️ 2026-03-06
     > **Резюме:** Coding agents can write and run their own code, which helps them test and improve it automatically. Manual testing by agents, especially using tools like Playwright and Rodney, finds problems that automated tests might miss. Showboat helps agents document their testing process clearly, making it easier to verify their work.
+- [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/) 👤 seangoedecke.com 💬 1173 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-03-06
+    > **Резюме:** The author worries that AI will soon replace many software engineering jobs, changing the industry completely. They believe AI tools are improving fast and can do most coding tasks better than humans. While hopeful for a human role, they think software engineers may need to find new careers in the future.
 - [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/#atom-everything) 👤 Simon Willison 💬 1188 🔖 #llm 🗓️ 2026-03-06
     > **Резюме:** Coding agents can quickly create new versions of software without copying old code, raising questions about licensing and legality. A recent rewrite of the chardet library sparked debate because it reused the same name but changed the license from LGPL to MIT. This case shows the challenges and uncertainty around AI-generated code and open source rules.
 - [microgpt](https://karpathy.github.io/2026/02/12/microgpt/?utm_source=tldrdev) 👤 karpathy.github.io 💬 5261 🔖 #llm 🗓️ 2026-03-05

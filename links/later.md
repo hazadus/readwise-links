@@ -1,19 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 139
+- Всего ссылок: 136
 
 ## Ссылки
 
-- [Agentic manual testing - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything) 👤 Simon Willison 💬 1148 🔖 #llm 🗓️ 2026-03-06
-    > **Резюме:** Coding agents can write and run their own code, which helps them test and improve it automatically. Manual testing by agents, especially using tools like Playwright and Rodney, finds problems that automated tests might miss. Showboat helps agents document their testing process clearly, making it easier to verify their work.
-- [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/) 👤 seangoedecke.com 💬 1173 🗓️ 2026-03-06
-    > **Резюме:** The author worries that AI will soon replace many software engineering jobs, changing the industry completely. They believe AI tools are improving fast and can do most coding tasks better than humans. While hopeful for a human role, they think software engineers may need to find new careers in the future.
-- [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/#atom-everything) 👤 Simon Willison 💬 1188 🔖 #llm 🗓️ 2026-03-06
-    > **Резюме:** Coding agents can quickly create new versions of software without copying old code, raising questions about licensing and legality. A recent rewrite of the chardet library sparked debate because it reused the same name but changed the license from LGPL to MIT. This case shows the challenges and uncertainty around AI-generated code and open source rules.
+- [Obsidian CLI](https://help.obsidian.md/cli) 👤 Obsidian Help 💬 3708 🔖 #obsidian 🗓️ 2026-03-08
+    > **Резюме:** Obsidian CLI lets you control Obsidian from the terminal with commands for notes, tasks, search, and file management. It supports daily notes, plugins, file history, and developer tools. You can create, read, edit, and manage vault content easily using simple commands and flags.
 - [microgpt](https://karpathy.github.io/2026/02/12/microgpt/?utm_source=tldrdev) 👤 karpathy.github.io 💬 5261 🔖 #llm 🗓️ 2026-03-05
     > **Резюме:** MicroGPT is a simple neural network that learns to predict the next token in a sequence by adjusting many small parameters. It trains using backpropagation and the Adam optimizer to reduce prediction errors step-by-step. Over time, the model gets better at capturing patterns in the data and generating likely next tokens.
-- [Let a Million Flowers Bloom](https://davegriffith.substack.com/p/let-a-million-flowers-bloom) 👤 Dave Griffith 💬 1597 🔖 #llm 🗓️ 2026-03-04
-    > **Резюме:** Experienced engineers are trying many new ways to work with AI, experimenting with tools and workflows. No one knows the best method yet, so they share ideas and learn together. This time of exploration is messy but full of creative energy and growth.
 - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) 👤 Terrible Software 💬 1425 🔖 #career 🗓️ 2026-03-04
     > **Резюме:** Engineering teams often reward complexity more than simplicity, even when simple solutions work better. This happens because complex work looks more impressive in reviews and promotions. To fix this, we must recognize and value smart simplicity, making it visible and appreciated.
 - [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/) 👤 Nikita Prokopov 💬 591 🔖 #llm, #claude 🗓️ 2026-03-04

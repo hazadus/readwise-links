@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 63
+- Всего ссылок: 64
 
 ## Ссылки
 
+- [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/) 👤 seangoedecke.com 💬 1173 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-03-06
+    > **Резюме:** The author worries that AI will soon replace many software engineering jobs, changing the industry completely. They believe AI tools are improving fast and can do most coding tasks better than humans. While hopeful for a human role, they think software engineers may need to find new careers in the future.
 - [Is AI Killing Software Engineering Jobs?](https://codemanship.wordpress.com/2026/03/02/is-ai-killing-software-engineering-jobs/) 👤 Codemanship's Blog 💬 979 🔖 #llm, #llm-devimpact 🗓️ 2026-03-03
     > **Резюме:** AI tools like ChatGPT did not cause software engineering job losses; the downturn began earlier due to economic shifts and rising interest rates. Despite fears, companies are still hiring software engineers and the profession is growing. Job market changes follow a boom-and-bust cycle, and demand for developers is expected to recover over time.
 - [Interactive explanations - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything) 👤 Simon Willison 💬 501 🔖 #llm, #cognitivedebt, #llm-devimpact 🗓️ 2026-03-01

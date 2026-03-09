@@ -1,10 +1,16 @@
 # Архивные ссылки
 
-- Всего ссылок: 1485
+- Всего ссылок: 1491
 
 ## Ссылки
 
+- [The web is bearable with RSS (permalink)](https://pluralistic.net/2026/03/07/reader-mode/) 👤 pluralistic.net 💬 2652 🔖 #rss 🗓️ 2026-03-08
+- [Drawing an image with Liquid Glass using SwiftUI Previews](https://alexwlchan.net/notes/2026/larking-with-liquid-glass/?ref=rss) 👤 alexwlchan.net 💬 489 🔖 #macos, #swift 🗓️ 2026-03-08
+- [Agentic manual testing - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything) 👤 Simon Willison 💬 1148 🔖 #llm 🗓️ 2026-03-06
+- [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/) 👤 seangoedecke.com 💬 1173 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-03-06
+- [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/#atom-everything) 👤 Simon Willison 💬 1188 🔖 #llm 🗓️ 2026-03-06
 - [What Is Code Review For?](https://blog.glyph.im/2026/03/what-is-code-review-for.html) 👤 Glyph Lefkowitz 💬 1353 🔖 #codereview 🗓️ 2026-03-04
+- [Let a Million Flowers Bloom](https://davegriffith.substack.com/p/let-a-million-flowers-bloom) 👤 Dave Griffith 💬 1597 🔖 #llm 🗓️ 2026-03-04
 - [Giving LLMs a personality is just good engineering](https://www.seangoedecke.com/giving-llms-a-personality/) 👤 seangoedecke.com 💬 1062 🔖 #llm 🗓️ 2026-03-03
 - [No one wants to read your AI slop (permalink)](https://pluralistic.net/2026/03/02/nonconsensual-slopping/) 👤 pluralistic.net 💬 1747 🔖 #llm, #writing 🗓️ 2026-03-03
 - [Is AI Killing Software Engineering Jobs?](https://codemanship.wordpress.com/2026/03/02/is-ai-killing-software-engineering-jobs/) 👤 Codemanship's Blog 💬 979 🔖 #llm, #llm-devimpact 🗓️ 2026-03-03
