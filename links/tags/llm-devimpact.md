@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 64
+- Всего ссылок: 65
 
 ## Ссылки
 
@@ -14,6 +14,8 @@
     > **Резюме:** Many people overestimate their skill and taste when building apps, especially with easy tools like LLMs. Taste matters a lot because it helps ideas stand out, even if the app is simple or imperfect. Without skill and taste, the tech scene gets flooded with low-quality, unoriginal projects.
 - [Software development now costs less than than the wage of a minimum wage worker](https://ghuntley.com/real/) 👤 Geoffrey Huntley 💬 2223 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-27
     > **Резюме:** Software development skills are now widely accessible and cheaper than minimum wage jobs thanks to AI tools like Cursor. Companies must adapt quickly to AI or risk losing talent and becoming less competitive. Employees should upskill in AI to stay relevant and avoid layoffs in this fast-changing job market.
+- [You're tired because your AI has no feedback loop](https://siddhantkhare.com/writing/why-your-ai-agent-keeps-failing) 👤 Siddhant Khare 💬 2074 🔖 #llm, #llm-devimpact 🗓️ 2026-02-24
+    > **Резюме:** AI creates code quickly but humans still spend a lot of time checking it for mistakes. Automated feedback systems, like tests and linters, help AI catch errors before humans see the code. Fast feedback loops reduce engineer burnout and improve AI code quality.
 - [A programmer's loss of identity](https://ratfactor.com/tech-nope2?utm_source=tldrdev) 👤 ratfactor.com 💬 1414 🔖 #llm, #reflections, #llm-devimpact 🗓️ 2026-02-22
     > **Резюме:** The author feels he has lost his social identity as a computer programmer because the culture has changed and no longer shares his values. He still loves programming but finds it hard to connect with the current community. Instead, he focuses more on his other interests like art, books, and music while continuing to create and share work for future learners.
 - [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/) 👤 Scott 💬 2344 🔖 #llm, #llm-devimpact 🗓️ 2026-02-21

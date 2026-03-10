@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 420
+- Всего ссылок: 421
 
 ## Ссылки
 
@@ -14,9 +14,9 @@
     > **Резюме:** MicroGPT is a simple neural network that learns to predict the next token in a sequence by adjusting many small parameters. It trains using backpropagation and the Adam optimizer to reduce prediction errors step-by-step. Over time, the model gets better at capturing patterns in the data and generating likely next tokens.
 - [Let a Million Flowers Bloom](https://davegriffith.substack.com/p/let-a-million-flowers-bloom) 👤 Dave Griffith 💬 1597 🔖 #llm 🗓️ 2026-03-04
     > **Резюме:** Experienced engineers are trying many new ways to work with AI, experimenting with tools and workflows. No one knows the best method yet, so they share ideas and learn together. This time of exploration is messy but full of creative energy and growth.
-- [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/) 👤 Nikita Prokopov 💬 591 🔖 #llm, #claude 🗓️ 2026-03-04
+- [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/) 👤 Nikita Prokopov 💬 591 🔖 #llm, #claude, #electron 🗓️ 2026-03-04
     > **Резюме:** Native apps have lost their advantage because their APIs are hard to use and their look is inconsistent and often bad. Web apps, including Electron apps, have become popular since they are easier to develop and maintain. The real problem is not the technology but a lack of care and attention to quality in software design.
-- [Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html) 👤 Drew Breunig 💬 738 🔖 #llm, #claude 🗓️ 2026-03-04
+- [Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html) 👤 Drew Breunig 💬 738 🔖 #llm, #claude, #electron 🗓️ 2026-03-04
     > **Резюме:** Claude uses Electron because it lets developers build one app that works on Windows, Mac, and Linux easily. Coding agents help a lot but struggle with finishing the last parts and handling bugs in native apps. So, using Electron saves time and effort despite its downsides like being slow and large.
 - [Claude's Cycles](https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf) 👤 Don Knuth 💬 3530 🔖 #llm, #claude 🗓️ 2026-03-04
     > **Резюме:** Don Knuth studied a special graph with vertices labeled by triples and found a way to split its edges into three directed cycles for odd-sized graphs. He created a Python program that works for several odd sizes, proving all cycles cover every vertex exactly once. Many cycles exist for size 3, but only some generalize correctly to larger odd sizes.
@@ -49,6 +49,8 @@
     > **Резюме:** Big AI companies are causing serious harm to children, and we must hold them accountable. You can take direct actions like urging your workplace to leave harmful platforms and stopping schools from using risky AI tools like ChatGPT. Everyone has the power to protect kids by speaking up and organizing locally.
 - [What's so hard about continuous learning?](https://www.seangoedecke.com/continuous-learning/) 👤 seangoedecke.com 💬 1673 🔖 #llm 🗓️ 2026-02-24
     > **Резюме:** Continuous learning for AI models is hard because updating them safely and effectively requires careful human supervision. Fine-tuning models on specific data, like codebases, does not reliably give them deep understanding. Also, continuous learning poses safety risks and makes upgrading models difficult for users.
+- [You're tired because your AI has no feedback loop](https://siddhantkhare.com/writing/why-your-ai-agent-keeps-failing) 👤 Siddhant Khare 💬 2074 🔖 #llm, #llm-devimpact 🗓️ 2026-02-24
+    > **Резюме:** AI creates code quickly but humans still spend a lot of time checking it for mistakes. Automated feedback systems, like tests and linters, help AI catch errors before humans see the code. Fast feedback loops reduce engineer burnout and improve AI code quality.
 - [The End of Thinking](https://www.derekthompson.org/p/the-end-of-thinking) 👤 Derek Thompson 💬 2360 🔖 #llm, #toot, #reading, #writing 🗓️ 2026-02-23
     > **Заметка:** Via https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrotwr
     > **Резюме:** People are losing their ability to think deeply because they rely too much on AI for reading and writing. Writing is an important way to understand and think clearly, but many students and professionals now outsource it to machines. This decline in human thinking is a bigger problem than the rise of AI itself.

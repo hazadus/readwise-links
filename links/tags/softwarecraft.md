@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 37
+- Всего ссылок: 38
 
 ## Ссылки
 
+- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) 👤 Terrible Software 💬 1425 🔖 #career, #softwarecraft 🗓️ 2026-03-04
+    > **Резюме:** Engineering teams often reward complexity more than simplicity, even when simple solutions work better. This happens because complex work looks more impressive in reviews and promotions. To fix this, we must recognize and value smart simplicity, making it visible and appreciated.
 - [Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything) 👤 Simon Willison 💬 1355 🔖 #llm, #softwarecraft 🗓️ 2026-02-27
     > **Резюме:** Simon Willison advises collecting and saving coding solutions you know to build a personal library of useful tricks. This collection helps solve new problems faster by combining past examples, especially with coding agents. Using AI tools, you can quickly create and improve code by reusing and adapting your hoarded knowledge.
 - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology) 👤 Dan McKinley 💬 1655 🔖 #classics, #softwarecraft 🗓️ 2026-02-05

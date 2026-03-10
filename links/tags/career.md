@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) 👤 Terrible Software 💬 1425 🔖 #career 🗓️ 2026-03-04
+- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) 👤 Terrible Software 💬 1425 🔖 #career, #softwarecraft 🗓️ 2026-03-04
     > **Резюме:** Engineering teams often reward complexity more than simplicity, even when simple solutions work better. This happens because complex work looks more impressive in reviews and promotions. To fix this, we must recognize and value smart simplicity, making it visible and appreciated.
 - [On screwing up](https://seangoedecke.com/screwing-up/) 👤 seangoedecke.com 💬 1404 🔖 #career 🗓️ 2026-02-11
     > **Резюме:** Making mistakes at work is normal, but how you handle them matters most. Stay calm, tell the right people quickly, and focus on fixing the problem. Managers forgive errors but expect honesty and results over excuses.

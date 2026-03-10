@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 889
+- Всего ссылок: 891
 
 ## Ссылки
 
+- [Alan Turing: The Enigma](https://readwise.io/reader/document_raw_content/430011785) 👤 Andrew Hodges 💬 304577 🗓️ 2026-03-09
+- [Turing](https://readwise.io/reader/document_raw_content/430011713) 👤 B. Jack Copeland 💬 101692 🗓️ 2026-03-09
 - [28 unusual and creative vinyl records](https://coloredvinylrecords.com/blog/25-unusual-and-creative-records/) 👤 Colored Vinyl Records 💬 2383 🗓️ 2026-02-27
 - [Евгений Федоров: Хозяин каменных гор](https://www.soyuz.ru/articles/1134) 👤 soyuz.ru 💬 1350 🔖 #book 🗓️ 2026-02-17
 - [Правда о go test -cover -race ./... (и не только)](https://youtube.com/watch?v=BDVSbr3wGYU&si=Kbrtx-qTB_OtuDNk) 👤 Куда войти? 🔖 #go, #testing 🗓️ 2026-01-30

@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1491
+- Всего ссылок: 1500
 
 ## Ссылки
 
+- [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) 👤 Cate Hall 💬 1788 🔖 #burnout, #reflections 🗓️ 2026-03-09
 - [The web is bearable with RSS (permalink)](https://pluralistic.net/2026/03/07/reader-mode/) 👤 pluralistic.net 💬 2652 🔖 #rss 🗓️ 2026-03-08
 - [Drawing an image with Liquid Glass using SwiftUI Previews](https://alexwlchan.net/notes/2026/larking-with-liquid-glass/?ref=rss) 👤 alexwlchan.net 💬 489 🔖 #macos, #swift 🗓️ 2026-03-08
 - [Agentic manual testing - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything) 👤 Simon Willison 💬 1148 🔖 #llm 🗓️ 2026-03-06
@@ -11,14 +12,21 @@
 - [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/#atom-everything) 👤 Simon Willison 💬 1188 🔖 #llm 🗓️ 2026-03-06
 - [What Is Code Review For?](https://blog.glyph.im/2026/03/what-is-code-review-for.html) 👤 Glyph Lefkowitz 💬 1353 🔖 #codereview 🗓️ 2026-03-04
 - [Let a Million Flowers Bloom](https://davegriffith.substack.com/p/let-a-million-flowers-bloom) 👤 Dave Griffith 💬 1597 🔖 #llm 🗓️ 2026-03-04
+- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) 👤 Terrible Software 💬 1425 🔖 #career, #softwarecraft 🗓️ 2026-03-04
+- [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/) 👤 Nikita Prokopov 💬 591 🔖 #llm, #claude, #electron 🗓️ 2026-03-04
+- [Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html) 👤 Drew Breunig 💬 738 🔖 #llm, #claude, #electron 🗓️ 2026-03-04
+- [Claude's Cycles](https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf) 👤 Don Knuth 💬 3530 🔖 #llm, #claude 🗓️ 2026-03-04
 - [Giving LLMs a personality is just good engineering](https://www.seangoedecke.com/giving-llms-a-personality/) 👤 seangoedecke.com 💬 1062 🔖 #llm 🗓️ 2026-03-03
 - [No one wants to read your AI slop (permalink)](https://pluralistic.net/2026/03/02/nonconsensual-slopping/) 👤 pluralistic.net 💬 1747 🔖 #llm, #writing 🗓️ 2026-03-03
 - [Is AI Killing Software Engineering Jobs?](https://codemanship.wordpress.com/2026/03/02/is-ai-killing-software-engineering-jobs/) 👤 Codemanship's Blog 💬 979 🔖 #llm, #llm-devimpact 🗓️ 2026-03-03
 - [Interactive explanations - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything) 👤 Simon Willison 💬 501 🔖 #llm, #cognitivedebt, #llm-devimpact 🗓️ 2026-03-01
+- [Burnout is breaking a sacred pact](https://usefulfictions.substack.com/p/burnout-is-breaking-a-sacred-pact) 👤 Cate Hall 💬 2039 🔖 #burnout, #reflections 🗓️ 2026-03-01
 - [End of Productivity Theater](https://muratbuffalo.blogspot.com/2026/02/end-of-productivity-theater.html?utm_source=substack&utm_medium=email) 👤 Visit profile 💬 600 🔖 #productivity, #joyandcuriosity 🗓️ 2026-03-01
 - [The happiest I’ve ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been?utm_source=substack&utm_medium=email) 👤 Ben Wallace 💬 982 🔖 #joyandcuriosity 🗓️ 2026-03-01
 - [How We Hire Engineers When AI Writes Our Code](https://www.tolans.com/relay/how-we-hire-engineers-when-ai-writes-our-code?utm_source=substack&utm_medium=email) 👤 Dan Federman 💬 872 🔖 #interview, #joyandcuriosity 🗓️ 2026-03-01
 - [No Skill. No Taste.](https://blog.kinglycrow.com/no-skill-no-taste/?utm_source=substack&utm_medium=email) 👤 The Crow's Nest 💬 839 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-01
+- [Do Less.](https://usefulfictions.substack.com/p/do-less?utm_source=substack&utm_medium=email) 👤 Cate Hall 💬 1789 🔖 #reading, #learning, #joyandcuriosity 🗓️ 2026-03-01
+- [AI Doesn’t Reduce Work—It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it?utm_source=substack&utm_medium=email) 👤 Aruna Ranganathan, Xingqi Maggie Ye 💬 1771 🔖 #llm, #joyandcuriosity 🗓️ 2026-03-01
 - [A Cookie for Dario? — Anthropic and selling death](https://www.anildash.com/2026/02/27/a-cookie-for-dario/) 👤 Anil Dash 💬 1258 🔖 #llm 🗓️ 2026-02-28
 - [Software development now costs less than than the wage of a minimum wage worker](https://ghuntley.com/real/) 👤 Geoffrey Huntley 💬 2223 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-27
 - [Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything) 👤 Simon Willison 💬 1355 🔖 #llm, #softwarecraft 🗓️ 2026-02-27
@@ -28,6 +36,7 @@
 - [Taking action against AI harms](https://www.anildash.com/2026/02/23/taking-action-ai-harms/) 👤 Anil Dash 💬 1913 🔖 #llm 🗓️ 2026-02-24
 - [Insider amnesia](https://www.seangoedecke.com/insider-amnesia/) 👤 seangoedecke.com 💬 465 🗓️ 2026-02-24
 - [What's so hard about continuous learning?](https://www.seangoedecke.com/continuous-learning/) 👤 seangoedecke.com 💬 1673 🔖 #llm 🗓️ 2026-02-24
+- [You're tired because your AI has no feedback loop](https://siddhantkhare.com/writing/why-your-ai-agent-keeps-failing) 👤 Siddhant Khare 💬 2074 🔖 #llm, #llm-devimpact 🗓️ 2026-02-24
 - [The End of Thinking](https://www.derekthompson.org/p/the-end-of-thinking) 👤 Derek Thompson 💬 2360 🔖 #llm, #toot, #reading, #writing 🗓️ 2026-02-23
     > **Заметка:** Via https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrotwr
 - [The Age of Books and the Age of Brainrot](https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrot) 👤 Benjamin Breen 💬 2140 🔖 #llm, #toot, #reading 🗓️ 2026-02-23

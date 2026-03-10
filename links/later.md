@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 136
+- Всего ссылок: 128
 
 ## Ссылки
 
@@ -8,19 +8,9 @@
     > **Резюме:** Obsidian CLI lets you control Obsidian from the terminal with commands for notes, tasks, search, and file management. It supports daily notes, plugins, file history, and developer tools. You can create, read, edit, and manage vault content easily using simple commands and flags.
 - [microgpt](https://karpathy.github.io/2026/02/12/microgpt/?utm_source=tldrdev) 👤 karpathy.github.io 💬 5261 🔖 #llm 🗓️ 2026-03-05
     > **Резюме:** MicroGPT is a simple neural network that learns to predict the next token in a sequence by adjusting many small parameters. It trains using backpropagation and the Adam optimizer to reduce prediction errors step-by-step. Over time, the model gets better at capturing patterns in the data and generating likely next tokens.
-- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) 👤 Terrible Software 💬 1425 🔖 #career 🗓️ 2026-03-04
-    > **Резюме:** Engineering teams often reward complexity more than simplicity, even when simple solutions work better. This happens because complex work looks more impressive in reviews and promotions. To fix this, we must recognize and value smart simplicity, making it visible and appreciated.
-- [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/) 👤 Nikita Prokopov 💬 591 🔖 #llm, #claude 🗓️ 2026-03-04
-    > **Резюме:** Native apps have lost their advantage because their APIs are hard to use and their look is inconsistent and often bad. Web apps, including Electron apps, have become popular since they are easier to develop and maintain. The real problem is not the technology but a lack of care and attention to quality in software design.
-- [Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html) 👤 Drew Breunig 💬 738 🔖 #llm, #claude 🗓️ 2026-03-04
-    > **Резюме:** Claude uses Electron because it lets developers build one app that works on Windows, Mac, and Linux easily. Coding agents help a lot but struggle with finishing the last parts and handling bugs in native apps. So, using Electron saves time and effort despite its downsides like being slow and large.
-- [Claude's Cycles](https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf) 👤 Don Knuth 💬 3530 🔖 #llm, #claude 🗓️ 2026-03-04
-    > **Резюме:** Don Knuth studied a special graph with vertices labeled by triples and found a way to split its edges into three directed cycles for odd-sized graphs. He created a Python program that works for several odd sizes, proving all cycles cover every vertex exactly once. Many cycles exist for size 3, but only some generalize correctly to larger odd sizes.
 - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) 👤 Max Woolf's Blog 💬 6903 🔖 #llm 🗓️ 2026-03-01
     > **Заметка:** Via https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything
     > **Резюме:** The author tested AI coding agents and found them surprisingly good at writing and optimizing Rust and Python code. These agents created fast, efficient machine learning tools that rival existing libraries. The author encourages others to try modern agents with clear coding guidelines for better results.
-- [Burnout is breaking a sacred pact](https://usefulfictions.substack.com/p/burnout-is-breaking-a-sacred-pact) 👤 Cate Hall 💬 2039 🔖 #burnout 🗓️ 2026-03-01
-    > **Резюме:** Burnout happens when we work hard without getting the rewards we need, breaking a sacred promise between our feelings and our goals. It is serious and gets worse if ignored, so we must act quickly to rest and give ourselves what we truly need. Listening honestly to our inner self is key to healing and avoiding lasting damage.
 - [The Software Industrial Revolution](https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email) 👤 cannoneyed.com 💬 3140 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.
 - [The Software Development Lifecycle Is Dead](https://boristane.com/blog/the-software-development-lifecycle-is-dead/?utm_source=substack&utm_medium=email) 👤 Boris Tane 💬 1702 🔖 #joyandcuriosity 🗓️ 2026-03-01
@@ -29,18 +19,12 @@
     > **Резюме:** Roy went to Columbia not to learn but to start a tech company called Cluely, which mixed AI with a flashy, frat-like culture. The story shows how young tech founders use AI for control and self-promotion, often confusing usefulness with hype. It also highlights a world where social media and startups become the main way to seek identity and success.
 - [Twenty Five Years of Computing](https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email) 👤 susam.net 💬 3913 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** The author has over 25 years of experience in software development, starting from university days. Early challenges and learning moments helped them grow into a skilled engineer. They value professionalism, continuous learning, and kindness in their career.
-- [Do Less.](https://usefulfictions.substack.com/p/do-less?utm_source=substack&utm_medium=email) 👤 Cate Hall 💬 1789 🔖 #reading, #learning, #joyandcuriosity 🗓️ 2026-03-01
-    > **Резюме:** Trying to do more all the time doesn’t help us learn or rest better. True rest and growth need us to slow down and give space for ideas and feelings to settle. The author’s new motto is “Do Less” to find real peace and progress.
-- [AI Doesn’t Reduce Work—It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it?utm_source=substack&utm_medium=email) 👤 Aruna Ranganathan, Xingqi Maggie Ye 💬 1771 🔖 #llm, #joyandcuriosity 🗓️ 2026-03-01
-    > **Резюме:** AI does not reduce work but makes employees do more tasks faster and for longer hours. This can cause stress, burnout, and blurred lines between work and personal time. Companies need clear rules about how to use AI to keep work balanced and healthy.
 - [Sprites on the Web](https://www.joshwcomeau.com/animation/sprites/?from=newsletter) 👤 Josh W. Comeau 💬 2138 🗓️ 2026-02-28
     > **Резюме:** Sprites are single images that show animation by quickly changing which part is visible using CSS. This method gives more control than animated GIFs, like adjusting speed or pausing the animation. Sprites improve performance and let designers create smooth, complex animations on the web.
 - [Giving external agentic coding tools access to Xcode](https://developer.apple.com/documentation/Xcode/giving-agentic-coding-tools-access-to-xcode) 👤 Apple Developer Documentation 💬 243 🔖 #mcp, #codex, #macos, #xcode, #claude 🗓️ 2026-02-27
     > **Резюме:** You can let external coding tools control your Xcode project by enabling permissions in Xcode settings. Use the Model Context Protocol (MCP) server and Terminal commands to connect these tools to Xcode. Xcode will notify you when the external tool is connected and active.
 - [How does macOS keep its log?](https://eclecticlight.co/2026/02/23/how-does-macos-keep-its-log/) 👤 The Eclectic Light Company 💬 712 🔖 #macos 🗓️ 2026-02-24
     > **Резюме:** macOS saves system logs first in temporary storage on the Preboot volume before the user logs in. After login, these logs move to permanent storage on the Data volume, which is unlocked by the user’s password. The system automatically manages log sizes and deletes old entries, and users cannot change these limits.
-- [You're tired because your AI has no feedback loop](https://siddhantkhare.com/writing/why-your-ai-agent-keeps-failing) 👤 Siddhant Khare 💬 2074 🗓️ 2026-02-24
-    > **Резюме:** AI creates code quickly but humans still spend a lot of time checking it for mistakes. Automated feedback systems, like tests and linters, help AI catch errors before humans see the code. Fast feedback loops reduce engineer burnout and improve AI code quality.
 - [A Deep Dive into Apple's .car File Format](https://dbg.re/posts/car-file-format/?utm_source=tldrdev) 👤 ordinal0 💬 2364 🔖 #macos 🗓️ 2026-02-22
     > **Резюме:** Apple’s .car file uses a B+ tree called RENDITIONS to store image and color assets with detailed headers. It supports many pixel formats and compression types like LZFSE and JPEG for efficient storage. Asset names map to rendition keys, allowing easy lookup and linking between assets inside the file.
 - [2 Weeks of Claude Code for Me](https://jeremydmiller.com/2026/02/14/2-weeks-of-claude-code-for-me/) 👤 jeremydmiller Uncategorized February 14 💬 1337 🔖 #llm, #claude 🗓️ 2026-02-20

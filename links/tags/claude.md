@@ -4,9 +4,9 @@
 
 ## Ссылки
 
-- [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/) 👤 Nikita Prokopov 💬 591 🔖 #llm, #claude 🗓️ 2026-03-04
+- [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/) 👤 Nikita Prokopov 💬 591 🔖 #llm, #claude, #electron 🗓️ 2026-03-04
     > **Резюме:** Native apps have lost their advantage because their APIs are hard to use and their look is inconsistent and often bad. Web apps, including Electron apps, have become popular since they are easier to develop and maintain. The real problem is not the technology but a lack of care and attention to quality in software design.
-- [Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html) 👤 Drew Breunig 💬 738 🔖 #llm, #claude 🗓️ 2026-03-04
+- [Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html) 👤 Drew Breunig 💬 738 🔖 #llm, #claude, #electron 🗓️ 2026-03-04
     > **Резюме:** Claude uses Electron because it lets developers build one app that works on Windows, Mac, and Linux easily. Coding agents help a lot but struggle with finishing the last parts and handling bugs in native apps. So, using Electron saves time and effort despite its downsides like being slow and large.
 - [Claude's Cycles](https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf) 👤 Don Knuth 💬 3530 🔖 #llm, #claude 🗓️ 2026-03-04
     > **Резюме:** Don Knuth studied a special graph with vertices labeled by triples and found a way to split its edges into three directed cycles for odd-sized graphs. He created a Python program that works for several odd sizes, proving all cycles cover every vertex exactly once. Many cycles exist for size 3, but only some generalize correctly to larger odd sizes.

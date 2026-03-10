@@ -1,10 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 4
 
 ## Ссылки
 
-- [Burnout is breaking a sacred pact](https://usefulfictions.substack.com/p/burnout-is-breaking-a-sacred-pact) 👤 Cate Hall 💬 2039 🔖 #burnout 🗓️ 2026-03-01
+- [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) 👤 Cate Hall 💬 1788 🔖 #burnout, #reflections 🗓️ 2026-03-09
+    > **Резюме:** The author describes their experience with "agency," which they define as "manifest determination to make things happen." They argue that agency is not an inherent trait, but rather a skill that can be developed. They offer several tips for increasing one's agency, including seeking real feedback, assuming everything is learnable, and learning to love the "moat of low status." They also emphasize the importance of avoiding burnout and not working too hard.
+- [Burnout is breaking a sacred pact](https://usefulfictions.substack.com/p/burnout-is-breaking-a-sacred-pact) 👤 Cate Hall 💬 2039 🔖 #burnout, #reflections 🗓️ 2026-03-01
     > **Резюме:** Burnout happens when we work hard without getting the rewards we need, breaking a sacred promise between our feelings and our goals. It is serious and gets worse if ignored, so we must act quickly to rest and give ourselves what we truly need. Listening honestly to our inner self is key to healing and avoiding lasting damage.
 - [Getting the main thing right](https://seangoedecke.com/getting-the-main-thing-right/) 👤 seangoedecke.com 💬 1474 🔖 #career, #burnout 🗓️ 2026-02-06
     > **Резюме:** The most important thing in tech work is to deliver projects that add value and satisfy management. Focusing on this "main thing" matters more than small tasks or personal preferences. Success often comes from knowing what truly counts and adapting as priorities change.

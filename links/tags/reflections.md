@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 16
+- Всего ссылок: 18
 
 ## Ссылки
 
+- [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) 👤 Cate Hall 💬 1788 🔖 #burnout, #reflections 🗓️ 2026-03-09
+    > **Резюме:** The author describes their experience with "agency," which they define as "manifest determination to make things happen." They argue that agency is not an inherent trait, but rather a skill that can be developed. They offer several tips for increasing one's agency, including seeking real feedback, assuming everything is learnable, and learning to love the "moat of low status." They also emphasize the importance of avoiding burnout and not working too hard.
+- [Burnout is breaking a sacred pact](https://usefulfictions.substack.com/p/burnout-is-breaking-a-sacred-pact) 👤 Cate Hall 💬 2039 🔖 #burnout, #reflections 🗓️ 2026-03-01
+    > **Резюме:** Burnout happens when we work hard without getting the rewards we need, breaking a sacred promise between our feelings and our goals. It is serious and gets worse if ignored, so we must act quickly to rest and give ourselves what we truly need. Listening honestly to our inner self is key to healing and avoiding lasting damage.
 - [A programmer's loss of identity](https://ratfactor.com/tech-nope2?utm_source=tldrdev) 👤 ratfactor.com 💬 1414 🔖 #llm, #reflections, #llm-devimpact 🗓️ 2026-02-22
     > **Резюме:** The author feels he has lost his social identity as a computer programmer because the culture has changed and no longer shares his values. He still loves programming but finds it hard to connect with the current community. Instead, he focuses more on his other interests like art, books, and music while continuing to create and share work for future learners.
 - [I miss thinking hard.](https://www.jernesto.com/articles/thinking_hard?utm_source=substack&utm_medium=email) 👤 jernesto.com 💬 1057 🔖 #learning, #reflections, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
