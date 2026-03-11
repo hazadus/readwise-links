@@ -1,5 +1,38 @@
 [
     {
+        "id": "01kkc0eh0q3bgqm6pwpjzwz7ak",
+        "url": "https://read.readwise.io/read/01kkc0eh0q3bgqm6pwpjzwz7ak",
+        "source_url": "https://antirez.com/news/162",
+        "title": "GNU and the AI reimplementations",
+        "author": "antirez.com",
+        "source": "Readwise web highlighter",
+        "category": "article",
+        "location": "later",
+        "tags": {
+            "llm": {
+                "name": "LLM",
+                "type": "manual",
+                "created": 1773150888415
+            }
+        },
+        "site_name": "antirez.com",
+        "word_count": 2141,
+        "notes": "",
+        "summary": "Reimplementing software using AI is similar to past practices like the GNU project, where copying ideas but not exact code is allowed and helps innovation. Software evolves by building on old ideas, and new tools like AI can speed this process without harming fairness. To truly add value, reimplementations should improve or innovate, not just copy.",
+        "image_url": "",
+        "parent_id": null,
+        "reading_progress": 0.0,
+        "content": null,
+        "html_content": null,
+        "published_date": "2026-03-09",
+        "created_at": "2026-03-10T13:54:41.885918+00:00",
+        "updated_at": "2026-03-10T13:54:48.946143+00:00",
+        "saved_at": "2026-03-10T13:54:40.791000+00:00",
+        "first_opened_at": "2026-03-10T13:54:40.791000+00:00",
+        "last_opened_at": "2026-03-10T13:54:40.791000+00:00",
+        "last_moved_at": "2026-03-10T13:54:44.667000+00:00"
+    },
+    {
         "id": "01kk8sxkd910gadynn6j0x0ge4",
         "url": "https://read.readwise.io/read/01kk8sxkd910gadynn6j0x0ge4",
         "source_url": "https://readwise.io/reader/document_raw_content/430011785",

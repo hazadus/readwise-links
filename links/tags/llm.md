@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 421
+- Всего ссылок: 422
 
 ## Ссылки
 
+- [GNU and the AI reimplementations](https://antirez.com/news/162) 👤 antirez.com 💬 2141 🔖 #llm 🗓️ 2026-03-10
+    > **Резюме:** Reimplementing software using AI is similar to past practices like the GNU project, where copying ideas but not exact code is allowed and helps innovation. Software evolves by building on old ideas, and new tools like AI can speed this process without harming fairness. To truly add value, reimplementations should improve or innovate, not just copy.
 - [Agentic manual testing - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything) 👤 Simon Willison 💬 1148 🔖 #llm 🗓️ 2026-03-06
     > **Резюме:** Coding agents can write and run their own code, which helps them test and improve it automatically. Manual testing by agents, especially using tools like Playwright and Rodney, finds problems that automated tests might miss. Showboat helps agents document their testing process clearly, making it easier to verify their work.
 - [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/) 👤 seangoedecke.com 💬 1173 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-03-06

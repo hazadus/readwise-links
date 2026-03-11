@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 128
+- Всего ссылок: 129
 
 ## Ссылки
 
+- [GNU and the AI reimplementations](https://antirez.com/news/162) 👤 antirez.com 💬 2141 🔖 #llm 🗓️ 2026-03-10
+    > **Резюме:** Reimplementing software using AI is similar to past practices like the GNU project, where copying ideas but not exact code is allowed and helps innovation. Software evolves by building on old ideas, and new tools like AI can speed this process without harming fairness. To truly add value, reimplementations should improve or innovate, not just copy.
 - [Obsidian CLI](https://help.obsidian.md/cli) 👤 Obsidian Help 💬 3708 🔖 #obsidian 🗓️ 2026-03-08
     > **Резюме:** Obsidian CLI lets you control Obsidian from the terminal with commands for notes, tasks, search, and file management. It supports daily notes, plugins, file history, and developer tools. You can create, read, edit, and manage vault content easily using simple commands and flags.
 - [microgpt](https://karpathy.github.io/2026/02/12/microgpt/?utm_source=tldrdev) 👤 karpathy.github.io 💬 5261 🔖 #llm 🗓️ 2026-03-05
