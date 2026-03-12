@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 65
+- Всего ссылок: 67
 
 ## Ссылки
 
+- [Zen of AI Coding](https://nonstructured.com/zen-of-ai-coding/?utm_source=substack&utm_medium=email) 👤 Yoav Aviram 💬 1912 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-11
+    > **Резюме:** AI coding agents are changing software development by making writing code cheaper and faster. Humans now focus on guiding agents, managing context, and ensuring quality and security. Building flexible, agent-friendly systems is key to the future of software and product design.
+- [Developing Taste](https://emilkowal.ski/ui/developing-taste?utm_source=tldrdev) 👤 Emil Kowalski 💬 416 🔖 #llm, #llm-devimpact 🗓️ 2026-03-11
+    > **Резюме:** Good taste is a trained skill, not just personal preference. To develop it, study great work and think deeply about why it feels right. Practice your craft and seek feedback to improve over time.
 - [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/) 👤 seangoedecke.com 💬 1173 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-03-06
     > **Резюме:** The author worries that AI will soon replace many software engineering jobs, changing the industry completely. They believe AI tools are improving fast and can do most coding tasks better than humans. While hopeful for a human role, they think software engineers may need to find new careers in the future.
 - [Is AI Killing Software Engineering Jobs?](https://codemanship.wordpress.com/2026/03/02/is-ai-killing-software-engineering-jobs/) 👤 Codemanship's Blog 💬 979 🔖 #llm, #llm-devimpact 🗓️ 2026-03-03

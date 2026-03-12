@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 422
+- Всего ссылок: 425
 
 ## Ссылки
 
+- [Zen of AI Coding](https://nonstructured.com/zen-of-ai-coding/?utm_source=substack&utm_medium=email) 👤 Yoav Aviram 💬 1912 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-11
+    > **Резюме:** AI coding agents are changing software development by making writing code cheaper and faster. Humans now focus on guiding agents, managing context, and ensuring quality and security. Building flexible, agent-friendly systems is key to the future of software and product design.
+- [Things I've done with AI](https://sjer.red/blog/2026/built-with-ai/?utm_source=tldrdev) 👤 Jerred Shepherd 💬 1067 🔖 #llm 🗓️ 2026-03-11
+    > **Резюме:** Jerred Shepherd loves programming and has used AI tools to build many projects without writing code himself. He learned to trust AI to write working code, focusing on problem-solving rather than perfect code style. Although AI makes programming faster, he sees challenges in testing and documentation that need better tools.
+- [Developing Taste](https://emilkowal.ski/ui/developing-taste?utm_source=tldrdev) 👤 Emil Kowalski 💬 416 🔖 #llm, #llm-devimpact 🗓️ 2026-03-11
+    > **Резюме:** Good taste is a trained skill, not just personal preference. To develop it, study great work and think deeply about why it feels right. Practice your craft and seek feedback to improve over time.
 - [GNU and the AI reimplementations](https://antirez.com/news/162) 👤 antirez.com 💬 2141 🔖 #llm 🗓️ 2026-03-10
     > **Резюме:** Reimplementing software using AI is similar to past practices like the GNU project, where copying ideas but not exact code is allowed and helps innovation. Software evolves by building on old ideas, and new tools like AI can speed this process without harming fairness. To truly add value, reimplementations should improve or innovate, not just copy.
 - [Agentic manual testing - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything) 👤 Simon Willison 💬 1148 🔖 #llm 🗓️ 2026-03-06

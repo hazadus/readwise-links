@@ -1,11 +1,23 @@
 # Отложенные ссылки
 
-- Всего ссылок: 129
+- Всего ссылок: 135
 
 ## Ссылки
 
-- [GNU and the AI reimplementations](https://antirez.com/news/162) 👤 antirez.com 💬 2141 🔖 #llm 🗓️ 2026-03-10
-    > **Резюме:** Reimplementing software using AI is similar to past practices like the GNU project, where copying ideas but not exact code is allowed and helps innovation. Software evolves by building on old ideas, and new tools like AI can speed this process without harming fairness. To truly add value, reimplementations should improve or innovate, not just copy.
+- [The Structure of Engineering Revolutions](https://webdirections.org/blog/the-structure-of-engineering-revolutions/?utm_source=substack&utm_medium=email) 👤 @johnallsopp 💬 4159 🗓️ 2026-03-11
+    > **Резюме:** Experienced software engineers resist AI-assisted coding because it challenges their long-held beliefs and skills. This resistance follows a pattern of paradigm shifts described by Thomas Kuhn, where new ideas disrupt old frameworks. Despite skepticism, AI tools are proving to boost productivity and change software development fundamentally.
+- [GitHub Actions Is Slowly Killing Your Engineering Team](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/?utm_source=substack&utm_medium=email) 👤 Ian Duncan 💬 4017 🔖 #devops, #github, #joyandcuriosity 🗓️ 2026-03-11
+    > **Резюме:** GitHub Actions is slow, confusing, and hard to debug, making engineers frustrated. Buildkite offers a simpler, faster, and more pleasant CI experience. GitHub Actions won by default, but Buildkite is better for real work.
+- [Zen of AI Coding](https://nonstructured.com/zen-of-ai-coding/?utm_source=substack&utm_medium=email) 👤 Yoav Aviram 💬 1912 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-11
+    > **Резюме:** AI coding agents are changing software development by making writing code cheaper and faster. Humans now focus on guiding agents, managing context, and ensuring quality and security. Building flexible, agent-friendly systems is key to the future of software and product design.
+- [Things I've done with AI](https://sjer.red/blog/2026/built-with-ai/?utm_source=tldrdev) 👤 Jerred Shepherd 💬 1067 🔖 #llm 🗓️ 2026-03-11
+    > **Резюме:** Jerred Shepherd loves programming and has used AI tools to build many projects without writing code himself. He learned to trust AI to write working code, focusing on problem-solving rather than perfect code style. Although AI makes programming faster, he sees challenges in testing and documentation that need better tools.
+- [I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either](https://aresluna.org/fn/?utm_source=tldrdev) 👤 Marcin Wichary 💬 4303 🔖 #macos 🗓️ 2026-03-11
+    > **Резюме:** The Fn key first appeared in 1984 to help laptops mimic missing keys and control hardware functions. Apple recently introduced a new Globe (🌐) key, causing confusion with the traditional Fn key on external keyboards. Keyboard designs keep evolving, but many users face challenges due to different keys and shortcuts across devices.
+- [The Illusion of Building](https://uphack.io/blog/post/the-illusion-of-building/?utm_source=tldrdev) 👤 uphack.io 💬 1923 🗓️ 2026-03-11
+    > **Резюме:** AI makes it much cheaper to create software that looks finished but often lacks real engineering behind it. True software success comes from ongoing work to keep systems reliable, secure, and useful over time. While AI speeds up simple coding, building lasting products still needs skilled people fighting complexity every day.
+- [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop?utm_source=tldrdev) 👤 Olivier Girardot 💬 532 🔖 #fun, #joyandcuriosity 🗓️ 2026-03-11
+    > **Резюме:** Good software knows its purpose and avoids unnecessary features. It focuses on core needs and improves thoughtfully. Sometimes, staying simple is better than chasing every new trend.
 - [Obsidian CLI](https://help.obsidian.md/cli) 👤 Obsidian Help 💬 3708 🔖 #obsidian 🗓️ 2026-03-08
     > **Резюме:** Obsidian CLI lets you control Obsidian from the terminal with commands for notes, tasks, search, and file management. It supports daily notes, plugins, file history, and developer tools. You can create, read, edit, and manage vault content easily using simple commands and flags.
 - [microgpt](https://karpathy.github.io/2026/02/12/microgpt/?utm_source=tldrdev) 👤 karpathy.github.io 💬 5261 🔖 #llm 🗓️ 2026-03-05

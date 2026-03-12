@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 31
+- Всего ссылок: 32
 
 ## Ссылки
 
+- [GitHub Actions Is Slowly Killing Your Engineering Team](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/?utm_source=substack&utm_medium=email) 👤 Ian Duncan 💬 4017 🔖 #devops, #github, #joyandcuriosity 🗓️ 2026-03-11
+    > **Резюме:** GitHub Actions is slow, confusing, and hard to debug, making engineers frustrated. Buildkite offers a simpler, faster, and more pleasant CI experience. GitHub Actions won by default, but Buildkite is better for real work.
 - [Stay away from my trash!](https://tldraw.dev/blog/stay-away-from-my-trash?utm_source=substack&utm_medium=email) 👤 tldraw.dev 💬 1601 🔖 #github, #llm-devimpact, #joyandcuriosity 🗓️ 2026-01-28
     > **Резюме:** AI tools make writing code very easy, so many low-quality pull requests flood open source projects. This causes maintainers to close outside contributions because reviewing bad code wastes time. The real value is in understanding problems and design, not just writing code, so maintainers prefer to handle coding themselves.
 - ["Is GitHub dead?"](https://x.com/thorstenball/status/2013619012932947993/?utm_medium=email&rw_tt_thread=True) 👤 Thorsten Ball 💬 37 🔖 #github, #llm-devimpact, #joyandcuriosity 🗓️ 2026-01-28

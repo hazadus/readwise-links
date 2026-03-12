@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [GitHub Actions Is Slowly Killing Your Engineering Team](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/?utm_source=substack&utm_medium=email) 👤 Ian Duncan 💬 4017 🔖 #devops, #github, #joyandcuriosity 🗓️ 2026-03-11
+    > **Резюме:** GitHub Actions is slow, confusing, and hard to debug, making engineers frustrated. Buildkite offers a simpler, faster, and more pleasant CI experience. GitHub Actions won by default, but Buildkite is better for real work.
 - [Staging is a wasteful lie: the case for the mono-environment](https://www.tomwphillips.co.uk/2026/01/staging-is-a-wasteful-lie-the-case-for-the-mono-environment/?utm_source=tldrdev) 👤 Tom Phillips 💬 2541 🔖 #devops 🗓️ 2026-01-13
     > **Резюме:** Staging environments waste time and resources because they don’t match production and delay feedback. Instead, teams should focus on one production environment with strong testing, continuous deployment, and monitoring. This approach speeds delivery, reduces risk, and better serves users.
 - [Why devs need DevOps](https://ravestar.dev/blog/why-devs-need-devops/?utm_source=tldrdev) 👤 ravestar.dev 💬 2490 🔖 #devops 🗓️ 2026-01-13

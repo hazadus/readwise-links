@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 79
+- Всего ссылок: 82
 
 ## Ссылки
 
+- [GitHub Actions Is Slowly Killing Your Engineering Team](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/?utm_source=substack&utm_medium=email) 👤 Ian Duncan 💬 4017 🔖 #devops, #github, #joyandcuriosity 🗓️ 2026-03-11
+    > **Резюме:** GitHub Actions is slow, confusing, and hard to debug, making engineers frustrated. Buildkite offers a simpler, faster, and more pleasant CI experience. GitHub Actions won by default, but Buildkite is better for real work.
+- [Zen of AI Coding](https://nonstructured.com/zen-of-ai-coding/?utm_source=substack&utm_medium=email) 👤 Yoav Aviram 💬 1912 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-11
+    > **Резюме:** AI coding agents are changing software development by making writing code cheaper and faster. Humans now focus on guiding agents, managing context, and ensuring quality and security. Building flexible, agent-friendly systems is key to the future of software and product design.
+- [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop?utm_source=tldrdev) 👤 Olivier Girardot 💬 532 🔖 #fun, #joyandcuriosity 🗓️ 2026-03-11
+    > **Резюме:** Good software knows its purpose and avoids unnecessary features. It focuses on core needs and improves thoughtfully. Sometimes, staying simple is better than chasing every new trend.
 - [End of Productivity Theater](https://muratbuffalo.blogspot.com/2026/02/end-of-productivity-theater.html?utm_source=substack&utm_medium=email) 👤 Visit profile 💬 600 🔖 #productivity, #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** In the past, people focused too much on small productivity hacks that didn't help real work get done. Now, the author believes true productivity means doing important, creative thinking away from screens before using technology to execute tasks. With AI handling simple work, humans should focus on deep, meaningful efforts that require judgment and creativity.
 - [The happiest I’ve ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been?utm_source=substack&utm_medium=email) 👤 Ben Wallace 💬 982 🔖 #joyandcuriosity 🗓️ 2026-03-01

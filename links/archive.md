@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1500
+- Всего ссылок: 1502
 
 ## Ссылки
 
+- [Developing Taste](https://emilkowal.ski/ui/developing-taste?utm_source=tldrdev) 👤 Emil Kowalski 💬 416 🔖 #llm, #llm-devimpact 🗓️ 2026-03-11
+- [GNU and the AI reimplementations](https://antirez.com/news/162) 👤 antirez.com 💬 2141 🔖 #llm 🗓️ 2026-03-10
 - [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) 👤 Cate Hall 💬 1788 🔖 #burnout, #reflections 🗓️ 2026-03-09
 - [The web is bearable with RSS (permalink)](https://pluralistic.net/2026/03/07/reader-mode/) 👤 pluralistic.net 💬 2652 🔖 #rss 🗓️ 2026-03-08
 - [Drawing an image with Liquid Glass using SwiftUI Previews](https://alexwlchan.net/notes/2026/larking-with-liquid-glass/?ref=rss) 👤 alexwlchan.net 💬 489 🔖 #macos, #swift 🗓️ 2026-03-08

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 30
+- Всего ссылок: 31
 
 ## Ссылки
 
+- [I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either](https://aresluna.org/fn/?utm_source=tldrdev) 👤 Marcin Wichary 💬 4303 🔖 #macos 🗓️ 2026-03-11
+    > **Резюме:** The Fn key first appeared in 1984 to help laptops mimic missing keys and control hardware functions. Apple recently introduced a new Globe (🌐) key, causing confusion with the traditional Fn key on external keyboards. Keyboard designs keep evolving, but many users face challenges due to different keys and shortcuts across devices.
 - [Drawing an image with Liquid Glass using SwiftUI Previews](https://alexwlchan.net/notes/2026/larking-with-liquid-glass/?ref=rss) 👤 alexwlchan.net 💬 489 🔖 #macos, #swift 🗓️ 2026-03-08
     > **Резюме:** The author used Xcode and SwiftUI to create an image with a Liquid Glass effect and a "New" banner. They adjusted the design using live previews and exported the final image directly from Xcode. This method is a quick way to mock up UI effects without strong graphic design skills.
 - [Giving external agentic coding tools access to Xcode](https://developer.apple.com/documentation/Xcode/giving-agentic-coding-tools-access-to-xcode) 👤 Apple Developer Documentation 💬 243 🔖 #mcp, #codex, #macos, #xcode, #claude 🗓️ 2026-02-27
