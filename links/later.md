@@ -1,9 +1,19 @@
 # Отложенные ссылки
 
-- Всего ссылок: 135
+- Всего ссылок: 140
 
 ## Ссылки
 
+- [Three more AI psychoses (permalink)](https://pluralistic.net/2026/03/12/normal-technology/) 👤 pluralistic.net 💬 5062 🗓️ 2026-03-13
+    > **Резюме:** AI is not a magical or uniquely harmful technology, but a normal one caught in a costly and risky investment bubble. Some people believe too much in AI’s potential to make money, fire workers, or change the world, which leads to dangerous and false ideas. The real issue is the economic and social harm caused by greedy investors and bosses, not the technology itself.
+- [What do coders do after AI?](https://www.anildash.com/2026/03/13/coders-after-ai/) 👤 Anil Dash 💬 1721 🔖 #llm, #llm-devimpact 🗓️ 2026-03-13
+    > **Резюме:** AI is changing coding by automating much of the work, which threatens many stable tech jobs. Some coders see this as a loss of craft, while others may adapt by focusing on guiding AI tools. The future depends on coders who care coming together to build new, ethical ways to work beyond big companies.
+- [Representing Code](https://craftinginterpreters.com/representing-code.html) 👤 craftinginterpreters.com 💬 6698 🗓️ 2026-03-13
+    > **Резюме:** The text discusses creating a parser to transform tokens into a structured representation for interpreters to use. Syntax trees are introduced as a way to represent the grammatical structure of code. The text also touches on implementing abstract syntax trees and defining operations on expressions within the interpreter.
+- [Parsing Expressions](https://craftinginterpreters.com/parsing-expressions.html) 👤 craftinginterpreters.com 💬 6615 🗓️ 2026-03-13
+    > **Резюме:** Parsing expressions involves converting tokens into syntax trees, which can be ambiguous without clear rules on precedence and associativity. By refining the grammar and implementing a recursive descent parser, we can eliminate ambiguity and accurately parse expressions according to their operators' precedence levels. Error recovery mechanisms in parsers help guide users back on track when syntax errors are encountered during parsing.
+- [Why build a Lexer?](https://benkau.com/swift-lexer/) 👤 benkau.com 💬 1258 🗓️ 2026-03-13
+    > **Резюме:** This article teaches beginners how to build a simple Lexer in Swift to break down strings into tokens. It explains key concepts like code points, tokens, and error handling with clear examples. Writing a Lexer helps improve programming skills and performance understanding.
 - [The Structure of Engineering Revolutions](https://webdirections.org/blog/the-structure-of-engineering-revolutions/?utm_source=substack&utm_medium=email) 👤 @johnallsopp 💬 4159 🗓️ 2026-03-11
     > **Резюме:** Experienced software engineers resist AI-assisted coding because it challenges their long-held beliefs and skills. This resistance follows a pattern of paradigm shifts described by Thomas Kuhn, where new ideas disrupt old frameworks. Despite skepticism, AI tools are proving to boost productivity and change software development fundamentally.
 - [GitHub Actions Is Slowly Killing Your Engineering Team](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/?utm_source=substack&utm_medium=email) 👤 Ian Duncan 💬 4017 🔖 #devops, #github, #joyandcuriosity 🗓️ 2026-03-11

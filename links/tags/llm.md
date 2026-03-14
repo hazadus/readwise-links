@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 425
+- Всего ссылок: 426
 
 ## Ссылки
 
+- [What do coders do after AI?](https://www.anildash.com/2026/03/13/coders-after-ai/) 👤 Anil Dash 💬 1721 🔖 #llm, #llm-devimpact 🗓️ 2026-03-13
+    > **Резюме:** AI is changing coding by automating much of the work, which threatens many stable tech jobs. Some coders see this as a loss of craft, while others may adapt by focusing on guiding AI tools. The future depends on coders who care coming together to build new, ethical ways to work beyond big companies.
 - [Zen of AI Coding](https://nonstructured.com/zen-of-ai-coding/?utm_source=substack&utm_medium=email) 👤 Yoav Aviram 💬 1912 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-11
     > **Резюме:** AI coding agents are changing software development by making writing code cheaper and faster. Humans now focus on guiding agents, managing context, and ensuring quality and security. Building flexible, agent-friendly systems is key to the future of software and product design.
 - [Things I've done with AI](https://sjer.red/blog/2026/built-with-ai/?utm_source=tldrdev) 👤 Jerred Shepherd 💬 1067 🔖 #llm 🗓️ 2026-03-11
