@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 140
+- Всего ссылок: 141
 
 ## Ссылки
 
+- [Big tech engineers need big egos](https://www.seangoedecke.com/big-tech-needs-big-egos/) 👤 seangoedecke.com 💬 1975 🗓️ 2026-03-14
+    > **Резюме:** Big tech engineers need a strong ego to tackle complex problems and make tough decisions confidently. They must balance confidence with humility by standing up for their ideas while accepting higher-ups' plans. Success requires being bold with peers but adaptable and low-ego with executives.
 - [Three more AI psychoses (permalink)](https://pluralistic.net/2026/03/12/normal-technology/) 👤 pluralistic.net 💬 5062 🗓️ 2026-03-13
     > **Резюме:** AI is not a magical or uniquely harmful technology, but a normal one caught in a costly and risky investment bubble. Some people believe too much in AI’s potential to make money, fire workers, or change the world, which leads to dangerous and false ideas. The real issue is the economic and social harm caused by greedy investors and bosses, not the technology itself.
 - [What do coders do after AI?](https://www.anildash.com/2026/03/13/coders-after-ai/) 👤 Anil Dash 💬 1721 🔖 #llm, #llm-devimpact 🗓️ 2026-03-13

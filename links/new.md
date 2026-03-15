@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 891
+- Всего ссылок: 892
 
 ## Ссылки
 
+- [In search of Banksy, Reuters found the artist took on a new identity](https://www.reuters.com/investigates/special-report/global-art-banksy/) 👤 Anton Zverev 💬 10475 🗓️ 2026-03-14
 - [Alan Turing: The Enigma](https://readwise.io/reader/document_raw_content/430011785) 👤 Andrew Hodges 💬 304577 🗓️ 2026-03-09
 - [Turing](https://readwise.io/reader/document_raw_content/430011713) 👤 B. Jack Copeland 💬 101692 🗓️ 2026-03-09
 - [28 unusual and creative vinyl records](https://coloredvinylrecords.com/blog/25-unusual-and-creative-records/) 👤 Colored Vinyl Records 💬 2383 🗓️ 2026-02-27
