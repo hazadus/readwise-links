@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 72
+- Всего ссылок: 73
 
 ## Ссылки
 
+- [Big tech engineers need big egos](https://www.seangoedecke.com/big-tech-needs-big-egos/) 👤 seangoedecke.com 💬 1975 🔖 #career 🗓️ 2026-03-14
+    > **Резюме:** Big tech engineers need a strong ego to tackle complex problems and make tough decisions confidently. They must balance confidence with humility by standing up for their ideas while accepting higher-ups' plans. Success requires being bold with peers but adaptable and low-ego with executives.
 - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) 👤 Terrible Software 💬 1425 🔖 #career, #softwarecraft 🗓️ 2026-03-04
     > **Резюме:** Engineering teams often reward complexity more than simplicity, even when simple solutions work better. This happens because complex work looks more impressive in reviews and promotions. To fix this, we must recognize and value smart simplicity, making it visible and appreciated.
 - [On screwing up](https://seangoedecke.com/screwing-up/) 👤 seangoedecke.com 💬 1404 🔖 #career 🗓️ 2026-02-11

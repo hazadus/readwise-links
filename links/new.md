@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 892
+- Всего ссылок: 893
 
 ## Ссылки
 
+- [Getting Real](https://readwise.io/reader/document_raw_content/2844630) 👤 Basecamp 💬 29339 🗓️ 2026-03-15
 - [In search of Banksy, Reuters found the artist took on a new identity](https://www.reuters.com/investigates/special-report/global-art-banksy/) 👤 Anton Zverev 💬 10475 🗓️ 2026-03-14
 - [Alan Turing: The Enigma](https://readwise.io/reader/document_raw_content/430011785) 👤 Andrew Hodges 💬 304577 🗓️ 2026-03-09
 - [Turing](https://readwise.io/reader/document_raw_content/430011713) 👤 B. Jack Copeland 💬 101692 🗓️ 2026-03-09

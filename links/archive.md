@@ -1,9 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 1502
+- Всего ссылок: 1507
 
 ## Ссылки
 
+- [Big tech engineers need big egos](https://www.seangoedecke.com/big-tech-needs-big-egos/) 👤 seangoedecke.com 💬 1975 🔖 #career 🗓️ 2026-03-14
+- [Three more AI psychoses (permalink)](https://pluralistic.net/2026/03/12/normal-technology/) 👤 pluralistic.net 💬 5062 🔖 #llm, #health 🗓️ 2026-03-13
+- [Why build a Lexer?](https://benkau.com/swift-lexer/) 👤 benkau.com 💬 1258 🗓️ 2026-03-13
+- [The Illusion of Building](https://uphack.io/blog/post/the-illusion-of-building/?utm_source=tldrdev) 👤 uphack.io 💬 1923 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-03-11
+- [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop?utm_source=tldrdev) 👤 Olivier Girardot 💬 532 🔖 #fun, #softwarecraft, #joyandcuriosity 🗓️ 2026-03-11
 - [Developing Taste](https://emilkowal.ski/ui/developing-taste?utm_source=tldrdev) 👤 Emil Kowalski 💬 416 🔖 #llm, #llm-devimpact 🗓️ 2026-03-11
 - [GNU and the AI reimplementations](https://antirez.com/news/162) 👤 antirez.com 💬 2141 🔖 #llm 🗓️ 2026-03-10
 - [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) 👤 Cate Hall 💬 1788 🔖 #burnout, #reflections 🗓️ 2026-03-09

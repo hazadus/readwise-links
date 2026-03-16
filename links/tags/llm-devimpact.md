@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 68
+- Всего ссылок: 69
 
 ## Ссылки
 
@@ -8,6 +8,8 @@
     > **Резюме:** AI is changing coding by automating much of the work, which threatens many stable tech jobs. Some coders see this as a loss of craft, while others may adapt by focusing on guiding AI tools. The future depends on coders who care coming together to build new, ethical ways to work beyond big companies.
 - [Zen of AI Coding](https://nonstructured.com/zen-of-ai-coding/?utm_source=substack&utm_medium=email) 👤 Yoav Aviram 💬 1912 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-11
     > **Резюме:** AI coding agents are changing software development by making writing code cheaper and faster. Humans now focus on guiding agents, managing context, and ensuring quality and security. Building flexible, agent-friendly systems is key to the future of software and product design.
+- [The Illusion of Building](https://uphack.io/blog/post/the-illusion-of-building/?utm_source=tldrdev) 👤 uphack.io 💬 1923 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-03-11
+    > **Резюме:** AI makes it much cheaper to create software that looks finished but often lacks real engineering behind it. True software success comes from ongoing work to keep systems reliable, secure, and useful over time. While AI speeds up simple coding, building lasting products still needs skilled people fighting complexity every day.
 - [Developing Taste](https://emilkowal.ski/ui/developing-taste?utm_source=tldrdev) 👤 Emil Kowalski 💬 416 🔖 #llm, #llm-devimpact 🗓️ 2026-03-11
     > **Резюме:** Good taste is a trained skill, not just personal preference. To develop it, study great work and think deeply about why it feels right. Practice your craft and seek feedback to improve over time.
 - [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/) 👤 seangoedecke.com 💬 1173 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-03-06

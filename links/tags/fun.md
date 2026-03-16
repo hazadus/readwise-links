@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop?utm_source=tldrdev) 👤 Olivier Girardot 💬 532 🔖 #fun, #joyandcuriosity 🗓️ 2026-03-11
+- [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop?utm_source=tldrdev) 👤 Olivier Girardot 💬 532 🔖 #fun, #softwarecraft, #joyandcuriosity 🗓️ 2026-03-11
     > **Резюме:** Good software knows its purpose and avoids unnecessary features. It focuses on core needs and improves thoughtfully. Sometimes, staying simple is better than chasing every new trend.
 - [Why Parenting Is Similar To JavaScript Development](https://brainbaking.com/post/2026/02/why-parenting-is-similar-to-javascript-development/) 👤 Wouter Groeneveld 💬 974 🔖 #fun, #javascript 🗓️ 2026-02-13
     > **Резюме:** Parenting feels like working with JavaScript: both are confusing and full of unexpected challenges. Just like JavaScript has good parts and messy parts, parenting has moments of joy mixed with stress and exhaustion. The author feels overwhelmed but loves his kids, even when parenting feels like just surviving each day.

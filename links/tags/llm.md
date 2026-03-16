@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 426
+- Всего ссылок: 427
 
 ## Ссылки
 
+- [Three more AI psychoses (permalink)](https://pluralistic.net/2026/03/12/normal-technology/) 👤 pluralistic.net 💬 5062 🔖 #llm, #health 🗓️ 2026-03-13
+    > **Резюме:** AI is not a magical or uniquely harmful technology, but a normal one caught in a costly and risky investment bubble. Some people believe too much in AI’s potential to make money, fire workers, or change the world, which leads to dangerous and false ideas. The real issue is the economic and social harm caused by greedy investors and bosses, not the technology itself.
 - [What do coders do after AI?](https://www.anildash.com/2026/03/13/coders-after-ai/) 👤 Anil Dash 💬 1721 🔖 #llm, #llm-devimpact 🗓️ 2026-03-13
     > **Резюме:** AI is changing coding by automating much of the work, which threatens many stable tech jobs. Some coders see this as a loss of craft, while others may adapt by focusing on guiding AI tools. The future depends on coders who care coming together to build new, ethical ways to work beyond big companies.
 - [Zen of AI Coding](https://nonstructured.com/zen-of-ai-coding/?utm_source=substack&utm_medium=email) 👤 Yoav Aviram 💬 1912 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-11

@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 38
+- Всего ссылок: 40
 
 ## Ссылки
 
+- [The Illusion of Building](https://uphack.io/blog/post/the-illusion-of-building/?utm_source=tldrdev) 👤 uphack.io 💬 1923 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-03-11
+    > **Резюме:** AI makes it much cheaper to create software that looks finished but often lacks real engineering behind it. True software success comes from ongoing work to keep systems reliable, secure, and useful over time. While AI speeds up simple coding, building lasting products still needs skilled people fighting complexity every day.
+- [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop?utm_source=tldrdev) 👤 Olivier Girardot 💬 532 🔖 #fun, #softwarecraft, #joyandcuriosity 🗓️ 2026-03-11
+    > **Резюме:** Good software knows its purpose and avoids unnecessary features. It focuses on core needs and improves thoughtfully. Sometimes, staying simple is better than chasing every new trend.
 - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) 👤 Terrible Software 💬 1425 🔖 #career, #softwarecraft 🗓️ 2026-03-04
     > **Резюме:** Engineering teams often reward complexity more than simplicity, even when simple solutions work better. This happens because complex work looks more impressive in reviews and promotions. To fix this, we must recognize and value smart simplicity, making it visible and appreciated.
 - [Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything) 👤 Simon Willison 💬 1355 🔖 #llm, #softwarecraft 🗓️ 2026-02-27
