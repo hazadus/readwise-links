@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 427
+- Всего ссылок: 428
 
 ## Ссылки
 
+- [AI as economic warfare](https://ghuntley.com/warfare/) 👤 Geoffrey Huntley 💬 753 🔖 #llm, #foss, #predictions 🗓️ 2026-03-16
+    > **Резюме:** Open-source AI models are being used as economic weapons by countries to challenge rivals. China offers free local AI models while the US spends heavily on research, creating a new kind of economic warfare. This raises important questions about trust, control, and the future of AI-dependent businesses and economies.
 - [Three more AI psychoses (permalink)](https://pluralistic.net/2026/03/12/normal-technology/) 👤 pluralistic.net 💬 5062 🔖 #llm, #health 🗓️ 2026-03-13
     > **Резюме:** AI is not a magical or uniquely harmful technology, but a normal one caught in a costly and risky investment bubble. Some people believe too much in AI’s potential to make money, fire workers, or change the world, which leads to dangerous and false ideas. The real issue is the economic and social harm caused by greedy investors and bosses, not the technology itself.
 - [What do coders do after AI?](https://www.anildash.com/2026/03/13/coders-after-ai/) 👤 Anil Dash 💬 1721 🔖 #llm, #llm-devimpact 🗓️ 2026-03-13

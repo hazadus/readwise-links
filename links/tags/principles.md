@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [The unwritten laws of software engineering](https://newsletter.manager.dev/p/the-unwritten-laws-of-software-engineering) 👤 Anton Zaides 💬 1492 🔖 #principles, #softwarecraft 🗓️ 2026-03-17
+    > **Резюме:** Last April, I wrote a well-received article about the 13 software engineering laws - Hyrum’s, Conway’s, Zawinski’s, and 10 famous others.
 - [My first win building with agents](https://olano.dev/blog/agents2/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) 👤 Facundo Olano 💬 4079 🔖 #llm, #claude, #principles 🗓️ 2025-12-21
     > **Заметка:** Nice point on DRY principle.
     > **Резюме:** The author successfully built a small web app mainly using Claude Code and felt empowered by the fast iteration.  

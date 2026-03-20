@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 244
+- Всего ссылок: 245
 
 ## Ссылки
 
+- [Do you need a repository layer on top of sqlc?](https://rednafi.com/shards/2026/03/repository-layer-over-sqlc/) 👤 Redowan's Reflections 💬 611 🔖 #go, #architecture 🗓️ 2026-03-17
+    > **Резюме:** Decoupling business logic from storage with a small interface in Go.
 - [Правда о go test -cover -race ./... (и не только)](https://youtube.com/watch?v=BDVSbr3wGYU&si=Kbrtx-qTB_OtuDNk) 👤 Куда войти? 🔖 #go, #testing 🗓️ 2026-01-30
     > **Резюме:** Как работает go test? Подробно об этом и не только.
 

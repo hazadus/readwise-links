@@ -1,9 +1,25 @@
 # Ссылки
 
-- Всего ссылок: 69
+- Всего ссылок: 70
 
 ## Ссылки
 
+- [Never submit code you don't understand](https://dri.es/never-submit-code-you-do-not-understand) 👤 Dries Buytaert 💬 317 🔖 #llm-devimpact 🗓️ 2026-03-16
+    > **Резюме:** 
+
+
+Years ago, in the early Drupal days, you would see a mantra everywhere: "Don't hack core".
+It showed up in issue queues, conference talks, support channels, stickers, and even on T-shirts. It was short and memorable, and it solved a real problem: too many people were modifying Drupal core instead of extending it properly.
+Over time the mantra worked. The ecosystem matured. Not just the software itself, but also the habits and expectations around it. Today you rarely hear people say "Don't hack core".
+With AI changing how code gets written, we may need a new mantra.
+In Open Source, all code needs to be understood and reviewed before it can be merged. That responsibility belongs to both contributors and maintainers. AI is changing how code gets written, but it does not change that responsibility. In fact, it may make it easier to forget.
+Code you don't understand becomes someone else's problem. In Open Source, that someone is often the maintainer reviewing your patch. And AI makes it easier than ever to create that problem for others.
+This shifts work onto others and slows down reviews for everyone. Contributors also miss the chance to deepen their understanding and grow as developers.
+It shouldn't matter what tools you use. But if you submit code, you should be able to explain what it does, why it works, and how it interacts with the rest of the code.
+Everyone starts somewhere. Even today's top contributors submitted imperfect patches early on. You are welcome here, with or without AI tools. Perfection isn't required, but understanding your code is.
+Maybe it's time for some new stickers and T-shirts?
+Never submit code you don't understand.
+Thanks to Natalie Cainaru, Jeremy Andrews and Gábor Hojtsy for reviewing my draft.
 - [What do coders do after AI?](https://www.anildash.com/2026/03/13/coders-after-ai/) 👤 Anil Dash 💬 1721 🔖 #llm, #llm-devimpact 🗓️ 2026-03-13
     > **Резюме:** AI is changing coding by automating much of the work, which threatens many stable tech jobs. Some coders see this as a loss of craft, while others may adapt by focusing on guiding AI tools. The future depends on coders who care coming together to build new, ethical ways to work beyond big companies.
 - [Zen of AI Coding](https://nonstructured.com/zen-of-ai-coding/?utm_source=substack&utm_medium=email) 👤 Yoav Aviram 💬 1912 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-11

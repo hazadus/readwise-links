@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 40
+- Всего ссылок: 41
 
 ## Ссылки
 
+- [The unwritten laws of software engineering](https://newsletter.manager.dev/p/the-unwritten-laws-of-software-engineering) 👤 Anton Zaides 💬 1492 🔖 #principles, #softwarecraft 🗓️ 2026-03-17
+    > **Резюме:** Last April, I wrote a well-received article about the 13 software engineering laws - Hyrum’s, Conway’s, Zawinski’s, and 10 famous others.
 - [The Illusion of Building](https://uphack.io/blog/post/the-illusion-of-building/?utm_source=tldrdev) 👤 uphack.io 💬 1923 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-03-11
     > **Резюме:** AI makes it much cheaper to create software that looks finished but often lacks real engineering behind it. True software success comes from ongoing work to keep systems reliable, secure, and useful over time. While AI speeds up simple coding, building lasting products still needs skilled people fighting complexity every day.
 - [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop?utm_source=tldrdev) 👤 Olivier Girardot 💬 532 🔖 #fun, #softwarecraft, #joyandcuriosity 🗓️ 2026-03-11

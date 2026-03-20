@@ -1,9 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 1507
+- Всего ссылок: 1511
 
 ## Ссылки
 
+- [The unwritten laws of software engineering](https://newsletter.manager.dev/p/the-unwritten-laws-of-software-engineering) 👤 Anton Zaides 💬 1492 🔖 #principles, #softwarecraft 🗓️ 2026-03-17
+- [cognitive security](https://ghuntley.com/cogsec/) 👤 Geoffrey Huntley 💬 818 🗓️ 2026-03-16
+- [AI as economic warfare](https://ghuntley.com/warfare/) 👤 Geoffrey Huntley 💬 753 🔖 #llm, #foss, #predictions 🗓️ 2026-03-16
+- [Never submit code you don't understand](https://dri.es/never-submit-code-you-do-not-understand) 👤 Dries Buytaert 💬 317 🔖 #llm-devimpact 🗓️ 2026-03-16
 - [Big tech engineers need big egos](https://www.seangoedecke.com/big-tech-needs-big-egos/) 👤 seangoedecke.com 💬 1975 🔖 #career 🗓️ 2026-03-14
 - [Three more AI psychoses (permalink)](https://pluralistic.net/2026/03/12/normal-technology/) 👤 pluralistic.net 💬 5062 🔖 #llm, #health 🗓️ 2026-03-13
 - [Why build a Lexer?](https://benkau.com/swift-lexer/) 👤 benkau.com 💬 1258 🗓️ 2026-03-13
