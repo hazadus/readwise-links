@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 16
+- Всего ссылок: 17
 
 ## Ссылки
 
+- [Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything) 👤 Simon Willison's Weblog 💬 1223 🔖 #uv, #codex 🗓️ 2026-03-19
+    > **Резюме:** OpenAI has acquired Astral, the company behind popular Python tools uv, ruff, and ty, and plans to continue supporting their open source projects. The acquisition aims to boost OpenAI's Codex team with Astral's talent and technology, especially uv, which is widely used for Python environment management. While some worry about risks, Astral's permissive licenses allow the community to fork the projects if needed, helping ensure their future.
 - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html) 👤 Andrew Nesbitt 💬 1254 🔖 #uv 🗓️ 2025-12-29
     > **Заметка:** Via https://simonwillison.net/2025/Dec/26/how-uv-got-so-fast/
     > **Резюме:** uv is fast mainly because it drops legacy behaviors and exploits modern Python packaging standards, not just because it’s written in Rust. It uses metadata-first resolution, parallel downloads, a global cache, and stricter rules to avoid slow fallback paths. Rust adds extra speed (threading, zero-copy, compact data), but the architectural choices matter most.

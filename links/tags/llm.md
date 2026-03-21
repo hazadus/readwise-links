@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 428
+- Всего ссылок: 429
 
 ## Ссылки
 
+- [Resist "AI"!](https://ronjeffries.com/articles/-v026/x/t/) 👤 ronjeffries.com 💬 2050 🔖 #llm, #llm-resistance 🗓️ 2026-03-19
+    > **Резюме:** Yes, the “AI1 Genie” seems actually to be useful. But it is also seductive, selectively harmful, and in important ways harmful to us all.
 - [AI as economic warfare](https://ghuntley.com/warfare/) 👤 Geoffrey Huntley 💬 753 🔖 #llm, #foss, #predictions 🗓️ 2026-03-16
     > **Резюме:** Open-source AI models are being used as economic weapons by countries to challenge rivals. China offers free local AI models while the US spends heavily on research, creating a new kind of economic warfare. This raises important questions about trust, control, and the future of AI-dependent businesses and economies.
 - [Three more AI psychoses (permalink)](https://pluralistic.net/2026/03/12/normal-technology/) 👤 pluralistic.net 💬 5062 🔖 #llm, #health 🗓️ 2026-03-13

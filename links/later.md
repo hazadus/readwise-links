@@ -1,9 +1,17 @@
 # Отложенные ссылки
 
-- Всего ссылок: 136
+- Всего ссылок: 140
 
 ## Ссылки
 
+- [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin?utm_source=tldrdev) 👤 justinjackson.ca 💬 815 🗓️ 2026-03-20
+    > **Резюме:** AI tools like Claude Code are changing how software teams work, making roles overlap and causing confusion. This shift can create tension as everyone tries to prove their value in similar ways. In the end, better teamwork and new ways to collaborate with AI could help teams build stronger software together.
+- [Grief and the AI Split](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/?utm_source=tldrdev) 👤 Les Orchard 💬 1342 🗓️ 2026-03-20
+    > **Резюме:** AI-assisted coding reveals a long-hidden split between developers who love crafting code and those focused on making things work. The author feels grief not for coding itself, but for the changing web and career landscape around it. Despite this, he finds excitement in adapting and still enjoys seeing his ideas come to life.
+- [Returning To Rails in 2026](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/?utm_source=tldrdev) 👤 Mark Dastmalchi-Round 💬 5725 🗓️ 2026-03-20
+    > **Резюме:** The author returned to using Rails in 2026 because it is simple and powerful. Rails 8 made development easier with no build steps and better tools for caching and deployment. Despite some decline in popularity, Rails remains a reliable and enjoyable framework.
+- [The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev) 👤 Daring Fireball 💬 3347 🗓️ 2026-03-20
+    > **Резюме:** The MacBook Neo is a $600 laptop with the same powerful chip as the latest iPhone 16 Pro. It offers strong performance, good build quality, and runs full MacOS, making it a great choice for new Mac users and those wanting a portable secondary computer. Despite some minor flaws, it outperforms many similarly priced laptops and serves as a solid alternative to tablets like the iPad.
 - [What do coders do after AI?](https://www.anildash.com/2026/03/13/coders-after-ai/) 👤 Anil Dash 💬 1721 🔖 #llm, #llm-devimpact 🗓️ 2026-03-13
     > **Резюме:** AI is changing coding by automating much of the work, which threatens many stable tech jobs. Some coders see this as a loss of craft, while others may adapt by focusing on guiding AI tools. The future depends on coders who care coming together to build new, ethical ways to work beyond big companies.
 - [Representing Code](https://craftinginterpreters.com/representing-code.html) 👤 craftinginterpreters.com 💬 6698 🗓️ 2026-03-13

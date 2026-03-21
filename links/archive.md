@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1511
+- Всего ссылок: 1513
 
 ## Ссылки
 
+- [Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything) 👤 Simon Willison's Weblog 💬 1223 🔖 #uv, #codex 🗓️ 2026-03-19
+- [Resist "AI"!](https://ronjeffries.com/articles/-v026/x/t/) 👤 ronjeffries.com 💬 2050 🔖 #llm, #llm-resistance 🗓️ 2026-03-19
 - [The unwritten laws of software engineering](https://newsletter.manager.dev/p/the-unwritten-laws-of-software-engineering) 👤 Anton Zaides 💬 1492 🔖 #principles, #softwarecraft 🗓️ 2026-03-17
 - [cognitive security](https://ghuntley.com/cogsec/) 👤 Geoffrey Huntley 💬 818 🗓️ 2026-03-16
 - [AI as economic warfare](https://ghuntley.com/warfare/) 👤 Geoffrey Huntley 💬 753 🔖 #llm, #foss, #predictions 🗓️ 2026-03-16
