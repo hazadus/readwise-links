@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 140
+- Всего ссылок: 141
 
 ## Ссылки
 
+- [Плохая игра, волшебное приключение. За что я люблю Crimson Desert](https://www.mirf.ru/games/crimson-desert-obzor) 👤 Никита Волкович (nikita@a.a) 💬 2303 🔖 #game 🗓️ 2026-03-21
+    > **Резюме:** Crimson Desert — это игра с красивым миром и интересными боями, но с плохим сюжетом и квестами. В ней много гринда, поиска ресурсов и сложных головоломок. Главная ценность — атмосферные моменты и уникальный игровой опыт, который трудно повторить.
 - [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin?utm_source=tldrdev) 👤 justinjackson.ca 💬 815 🗓️ 2026-03-20
     > **Резюме:** AI tools like Claude Code are changing how software teams work, making roles overlap and causing confusion. This shift can create tension as everyone tries to prove their value in similar ways. In the end, better teamwork and new ways to collaborate with AI could help teams build stronger software together.
 - [Grief and the AI Split](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/?utm_source=tldrdev) 👤 Les Orchard 💬 1342 🗓️ 2026-03-20
