@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 141
+- Всего ссылок: 143
 
 ## Ссылки
 
+- [Comprehension Debt - the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/?utm_source=tldrdev) 👤 Addy Osmani 💬 1805 🗓️ 2026-03-22
+    > **Резюме:** Relying too much on AI to write code creates "comprehension debt," where humans don’t fully understand the code they approve. This hidden problem makes teams less able to fix or improve software, even if tests pass and code looks fine. To avoid big future problems, engineers must focus on truly understanding changes, not just speeding up code production.
+- [If you thought the speed of writing code was your problem - you have bigger problems](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems?utm_source=tldrdev) 👤 Debugging Leadership 💬 2477 🗓️ 2026-03-22
+    > **Резюме:** Writing code faster does not make software delivery faster if other steps are slow. The real problem is delays in review, testing, and deployment, plus unclear requirements. To improve, fix the slowest step and focus on getting features into users' hands quickly.
 - [Плохая игра, волшебное приключение. За что я люблю Crimson Desert](https://www.mirf.ru/games/crimson-desert-obzor) 👤 Никита Волкович (nikita@a.a) 💬 2303 🔖 #game 🗓️ 2026-03-21
     > **Резюме:** Crimson Desert — это игра с красивым миром и интересными боями, но с плохим сюжетом и квестами. В ней много гринда, поиска ресурсов и сложных головоломок. Главная ценность — атмосферные моменты и уникальный игровой опыт, который трудно повторить.
 - [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin?utm_source=tldrdev) 👤 justinjackson.ca 💬 815 🗓️ 2026-03-20
