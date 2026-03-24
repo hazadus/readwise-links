@@ -1,18 +1,14 @@
 # Отложенные ссылки
 
-- Всего ссылок: 143
+- Всего ссылок: 140
 
 ## Ссылки
 
-- [Comprehension Debt - the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/?utm_source=tldrdev) 👤 Addy Osmani 💬 1805 🗓️ 2026-03-22
-    > **Резюме:** Relying too much on AI to write code creates "comprehension debt," where humans don’t fully understand the code they approve. This hidden problem makes teams less able to fix or improve software, even if tests pass and code looks fine. To avoid big future problems, engineers must focus on truly understanding changes, not just speeding up code production.
 - [If you thought the speed of writing code was your problem - you have bigger problems](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems?utm_source=tldrdev) 👤 Debugging Leadership 💬 2477 🗓️ 2026-03-22
     > **Резюме:** Writing code faster does not make software delivery faster if other steps are slow. The real problem is delays in review, testing, and deployment, plus unclear requirements. To improve, fix the slowest step and focus on getting features into users' hands quickly.
 - [Плохая игра, волшебное приключение. За что я люблю Crimson Desert](https://www.mirf.ru/games/crimson-desert-obzor) 👤 Никита Волкович (nikita@a.a) 💬 2303 🔖 #game 🗓️ 2026-03-21
     > **Резюме:** Crimson Desert — это игра с красивым миром и интересными боями, но с плохим сюжетом и квестами. В ней много гринда, поиска ресурсов и сложных головоломок. Главная ценность — атмосферные моменты и уникальный игровой опыт, который трудно повторить.
-- [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin?utm_source=tldrdev) 👤 justinjackson.ca 💬 815 🗓️ 2026-03-20
-    > **Резюме:** AI tools like Claude Code are changing how software teams work, making roles overlap and causing confusion. This shift can create tension as everyone tries to prove their value in similar ways. In the end, better teamwork and new ways to collaborate with AI could help teams build stronger software together.
-- [Grief and the AI Split](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/?utm_source=tldrdev) 👤 Les Orchard 💬 1342 🗓️ 2026-03-20
+- [Grief and the AI Split](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/?utm_source=tldrdev) 👤 Les Orchard 💬 1342 🔖 #llm-devimpact 🗓️ 2026-03-20
     > **Резюме:** AI-assisted coding reveals a long-hidden split between developers who love crafting code and those focused on making things work. The author feels grief not for coding itself, but for the changing web and career landscape around it. Despite this, he finds excitement in adapting and still enjoys seeing his ideas come to life.
 - [Returning To Rails in 2026](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/?utm_source=tldrdev) 👤 Mark Dastmalchi-Round 💬 5725 🗓️ 2026-03-20
     > **Резюме:** The author returned to using Rails in 2026 because it is simple and powerful. Rails 8 made development easier with no build steps and better tools for caching and deployment. Despite some decline in popularity, Rails remains a reliable and enjoyable framework.
@@ -34,8 +30,6 @@
     > **Резюме:** Jerred Shepherd loves programming and has used AI tools to build many projects without writing code himself. He learned to trust AI to write working code, focusing on problem-solving rather than perfect code style. Although AI makes programming faster, he sees challenges in testing and documentation that need better tools.
 - [I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either](https://aresluna.org/fn/?utm_source=tldrdev) 👤 Marcin Wichary 💬 4303 🔖 #macos 🗓️ 2026-03-11
     > **Резюме:** The Fn key first appeared in 1984 to help laptops mimic missing keys and control hardware functions. Apple recently introduced a new Globe (🌐) key, causing confusion with the traditional Fn key on external keyboards. Keyboard designs keep evolving, but many users face challenges due to different keys and shortcuts across devices.
-- [Obsidian CLI](https://help.obsidian.md/cli) 👤 Obsidian Help 💬 3708 🔖 #obsidian 🗓️ 2026-03-08
-    > **Резюме:** Obsidian CLI lets you control Obsidian from the terminal with commands for notes, tasks, search, and file management. It supports daily notes, plugins, file history, and developer tools. You can create, read, edit, and manage vault content easily using simple commands and flags.
 - [microgpt](https://karpathy.github.io/2026/02/12/microgpt/?utm_source=tldrdev) 👤 karpathy.github.io 💬 5261 🔖 #llm 🗓️ 2026-03-05
     > **Резюме:** MicroGPT is a simple neural network that learns to predict the next token in a sequence by adjusting many small parameters. It trains using backpropagation and the Adam optimizer to reduce prediction errors step-by-step. Over time, the model gets better at capturing patterns in the data and generating likely next tokens.
 - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) 👤 Max Woolf's Blog 💬 6903 🔖 #llm 🗓️ 2026-03-01

@@ -1,9 +1,16 @@
 # Архивные ссылки
 
-- Всего ссылок: 1513
+- Всего ссылок: 1521
 
 ## Ссылки
 
+- [Windows Native App Development Is a Mess](https://domenic.me/windows-native-dev/) 👤 Hidden Variables 💬 2612 🔖 #windows 🗓️ 2026-03-22
+- [Comprehension Debt - the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/?utm_source=tldrdev) 👤 Addy Osmani 💬 1805 🔖 #cognitivedebt, #llm-devimpact 🗓️ 2026-03-22
+- [Repositories, transactions, and unit of work in Go](https://rednafi.com/go/repo-txn-uow/) 👤 Redowan's Reflections 💬 3801 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-21
+- [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) 👤 Armin Ronacher 💬 1169 🔖 #reflections, #llm-devimpact 🗓️ 2026-03-21
+- [People are not friction](https://daverupert.com/2026/03/people-are-not-friction/) 👤 daverupert.com 💬 627 🔖 #llm-resistance 🗓️ 2026-03-20
+- [How do you handle transactions with the repository pattern?](https://rednafi.com/shards/2026/03/transactions-with-repository-pattern/) 👤 Redowan's Reflections 💬 783 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-20
+- [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin?utm_source=tldrdev) 👤 justinjackson.ca 💬 815 🔖 #llm-devimpact 🗓️ 2026-03-20
 - [Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything) 👤 Simon Willison's Weblog 💬 1223 🔖 #uv, #codex 🗓️ 2026-03-19
 - [Resist "AI"!](https://ronjeffries.com/articles/-v026/x/t/) 👤 ronjeffries.com 💬 2050 🔖 #llm, #llm-resistance 🗓️ 2026-03-19
 - [The unwritten laws of software engineering](https://newsletter.manager.dev/p/the-unwritten-laws-of-software-engineering) 👤 Anton Zaides 💬 1492 🔖 #principles, #softwarecraft 🗓️ 2026-03-17
@@ -18,6 +25,7 @@
 - [Developing Taste](https://emilkowal.ski/ui/developing-taste?utm_source=tldrdev) 👤 Emil Kowalski 💬 416 🔖 #llm, #llm-devimpact 🗓️ 2026-03-11
 - [GNU and the AI reimplementations](https://antirez.com/news/162) 👤 antirez.com 💬 2141 🔖 #llm 🗓️ 2026-03-10
 - [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) 👤 Cate Hall 💬 1788 🔖 #burnout, #reflections 🗓️ 2026-03-09
+- [Obsidian CLI](https://help.obsidian.md/cli) 👤 Obsidian Help 💬 3708 🔖 #obsidian 🗓️ 2026-03-08
 - [The web is bearable with RSS (permalink)](https://pluralistic.net/2026/03/07/reader-mode/) 👤 pluralistic.net 💬 2652 🔖 #rss 🗓️ 2026-03-08
 - [Drawing an image with Liquid Glass using SwiftUI Previews](https://alexwlchan.net/notes/2026/larking-with-liquid-glass/?ref=rss) 👤 alexwlchan.net 💬 489 🔖 #macos, #swift 🗓️ 2026-03-08
 - [Agentic manual testing - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything) 👤 Simon Willison 💬 1148 🔖 #llm 🗓️ 2026-03-06

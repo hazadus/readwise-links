@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 36
+- Всего ссылок: 38
 
 ## Ссылки
 
+- [Repositories, transactions, and unit of work in Go](https://rednafi.com/go/repo-txn-uow/) 👤 Redowan's Reflections 💬 3801 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-21
+    > **Резюме:** Decoupling business logic from storage in Go, adding transaction support without leaking SQL details, and coordinating atomic writes across multiple repositories using a unit of work.
+- [How do you handle transactions with the repository pattern?](https://rednafi.com/shards/2026/03/transactions-with-repository-pattern/) 👤 Redowan's Reflections 💬 783 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-20
+    > **Резюме:** Adding transaction support to a repository interface without leaking storage details.
 - [The Case Against pgvector](https://alex-jacobs.com/posts/the-case-against-pgvector/?utm_source=tldrwebdev) 👤 Alex Jacobs 💬 2528 🔖 #postgresql 🗓️ 2025-11-12
     > **Резюме:** Pgvector makes vector search easy to try in Postgres but has serious production limits. Indexing, memory use, realtime inserts, and filtered queries are hard to manage and often require rebuilds or complex tuning. For most teams, a dedicated managed vector database is simpler and more reliable.
 - [Kafka is fast -- I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks?utm_source=tldrwebdev) 👤 TopicPartition 💬 6636 🔖 #kafka, #postgresql 🗓️ 2025-11-04

@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 245
+- Всего ссылок: 247
 
 ## Ссылки
 
+- [Repositories, transactions, and unit of work in Go](https://rednafi.com/go/repo-txn-uow/) 👤 Redowan's Reflections 💬 3801 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-21
+    > **Резюме:** Decoupling business logic from storage in Go, adding transaction support without leaking SQL details, and coordinating atomic writes across multiple repositories using a unit of work.
+- [How do you handle transactions with the repository pattern?](https://rednafi.com/shards/2026/03/transactions-with-repository-pattern/) 👤 Redowan's Reflections 💬 783 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-20
+    > **Резюме:** Adding transaction support to a repository interface without leaking storage details.
 - [Do you need a repository layer on top of sqlc?](https://rednafi.com/shards/2026/03/repository-layer-over-sqlc/) 👤 Redowan's Reflections 💬 611 🔖 #go, #architecture 🗓️ 2026-03-17
     > **Резюме:** Decoupling business logic from storage with a small interface in Go.
 - [Правда о go test -cover -race ./... (и не только)](https://youtube.com/watch?v=BDVSbr3wGYU&si=Kbrtx-qTB_OtuDNk) 👤 Куда войти? 🔖 #go, #testing 🗓️ 2026-01-30

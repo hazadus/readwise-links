@@ -1,9 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 70
+- Всего ссылок: 74
 
 ## Ссылки
 
+- [Comprehension Debt - the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/?utm_source=tldrdev) 👤 Addy Osmani 💬 1805 🔖 #cognitivedebt, #llm-devimpact 🗓️ 2026-03-22
+    > **Резюме:** Relying too much on AI to write code creates "comprehension debt," where humans don’t fully understand the code they approve. This hidden problem makes teams less able to fix or improve software, even if tests pass and code looks fine. To avoid big future problems, engineers must focus on truly understanding changes, not just speeding up code production.
+- [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) 👤 Armin Ronacher 💬 1169 🔖 #reflections, #llm-devimpact 🗓️ 2026-03-21
+    > **Резюме:** Some things, like trees or strong projects, need a long time to grow well. Trying to rush or remove all delays can harm quality and trust. True value comes from patience, commitment, and steady effort over years.
+- [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin?utm_source=tldrdev) 👤 justinjackson.ca 💬 815 🔖 #llm-devimpact 🗓️ 2026-03-20
+    > **Резюме:** AI tools like Claude Code are changing how software teams work, making roles overlap and causing confusion. This shift can create tension as everyone tries to prove their value in similar ways. In the end, better teamwork and new ways to collaborate with AI could help teams build stronger software together.
+- [Grief and the AI Split](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/?utm_source=tldrdev) 👤 Les Orchard 💬 1342 🔖 #llm-devimpact 🗓️ 2026-03-20
+    > **Резюме:** AI-assisted coding reveals a long-hidden split between developers who love crafting code and those focused on making things work. The author feels grief not for coding itself, but for the changing web and career landscape around it. Despite this, he finds excitement in adapting and still enjoys seeing his ideas come to life.
 - [Never submit code you don't understand](https://dri.es/never-submit-code-you-do-not-understand) 👤 Dries Buytaert 💬 317 🔖 #llm-devimpact 🗓️ 2026-03-16
     > **Резюме:** 
 

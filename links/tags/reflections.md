@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 19
 
 ## Ссылки
 
+- [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) 👤 Armin Ronacher 💬 1169 🔖 #reflections, #llm-devimpact 🗓️ 2026-03-21
+    > **Резюме:** Some things, like trees or strong projects, need a long time to grow well. Trying to rush or remove all delays can harm quality and trust. True value comes from patience, commitment, and steady effort over years.
 - [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) 👤 Cate Hall 💬 1788 🔖 #burnout, #reflections 🗓️ 2026-03-09
     > **Резюме:** The author describes their experience with "agency," which they define as "manifest determination to make things happen." They argue that agency is not an inherent trait, but rather a skill that can be developed. They offer several tips for increasing one's agency, including seeking real feedback, assuming everything is learnable, and learning to love the "moat of low status." They also emphasize the importance of avoiding burnout and not working too hard.
 - [Burnout is breaking a sacred pact](https://usefulfictions.substack.com/p/burnout-is-breaking-a-sacred-pact) 👤 Cate Hall 💬 2039 🔖 #burnout, #reflections 🗓️ 2026-03-01
