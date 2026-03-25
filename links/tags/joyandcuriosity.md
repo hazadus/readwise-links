@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 82
+- Всего ссылок: 84
 
 ## Ссылки
 
+- [Adapting to AI: Reflections on Productivity](https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/?utm_source=substack&utm_medium=email) 👤 Colin Breck 💬 2582 🔖 #joyandcuriosity 🗓️ 2026-03-24
+    > **Резюме:** In 2025, AI greatly boosted productivity by helping with coding and problem-solving, acting like a tireless partner. Most software engineers have not yet fully adapted to AI’s rapid changes and potential. The way people work in software is changing fast, and it will take years to find new, effective patterns.
+- [Software Bonkers](https://craigmod.com/essays/software_bonkers/?utm_source=substack&utm_medium=email) 👤 Craig Mod 💬 1540 🔖 #joyandcuriosity 🗓️ 2026-03-24
+    > **Резюме:** Craig Mod loves building custom software that fits his unique needs. Using Claude Code, he created TaxBot2000, a fast and powerful accounting tool that handles his complex finances. He believes the future of software will be personal, flexible, and built with AI help.
 - [GitHub Actions Is Slowly Killing Your Engineering Team](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/?utm_source=substack&utm_medium=email) 👤 Ian Duncan 💬 4017 🔖 #devops, #github, #joyandcuriosity 🗓️ 2026-03-11
     > **Резюме:** GitHub Actions is slow, confusing, and hard to debug, making engineers frustrated. Buildkite offers a simpler, faster, and more pleasant CI experience. GitHub Actions won by default, but Buildkite is better for real work.
 - [Zen of AI Coding](https://nonstructured.com/zen-of-ai-coding/?utm_source=substack&utm_medium=email) 👤 Yoav Aviram 💬 1912 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-11

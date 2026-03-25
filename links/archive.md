@@ -1,16 +1,19 @@
 # Архивные ссылки
 
-- Всего ссылок: 1521
+- Всего ссылок: 1524
 
 ## Ссылки
 
+- [Software Bonkers](https://craigmod.com/essays/software_bonkers/?utm_source=substack&utm_medium=email) 👤 Craig Mod 💬 1540 🔖 #joyandcuriosity 🗓️ 2026-03-24
 - [Windows Native App Development Is a Mess](https://domenic.me/windows-native-dev/) 👤 Hidden Variables 💬 2612 🔖 #windows 🗓️ 2026-03-22
 - [Comprehension Debt - the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/?utm_source=tldrdev) 👤 Addy Osmani 💬 1805 🔖 #cognitivedebt, #llm-devimpact 🗓️ 2026-03-22
+- [Плохая игра, волшебное приключение. За что я люблю Crimson Desert](https://www.mirf.ru/games/crimson-desert-obzor) 👤 Никита Волкович (nikita@a.a) 💬 2303 🔖 #game 🗓️ 2026-03-21
 - [Repositories, transactions, and unit of work in Go](https://rednafi.com/go/repo-txn-uow/) 👤 Redowan's Reflections 💬 3801 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-21
 - [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) 👤 Armin Ronacher 💬 1169 🔖 #reflections, #llm-devimpact 🗓️ 2026-03-21
 - [People are not friction](https://daverupert.com/2026/03/people-are-not-friction/) 👤 daverupert.com 💬 627 🔖 #llm-resistance 🗓️ 2026-03-20
 - [How do you handle transactions with the repository pattern?](https://rednafi.com/shards/2026/03/transactions-with-repository-pattern/) 👤 Redowan's Reflections 💬 783 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-20
 - [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin?utm_source=tldrdev) 👤 justinjackson.ca 💬 815 🔖 #llm-devimpact 🗓️ 2026-03-20
+- [Grief and the AI Split](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/?utm_source=tldrdev) 👤 Les Orchard 💬 1342 🔖 #llm-devimpact 🗓️ 2026-03-20
 - [Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything) 👤 Simon Willison's Weblog 💬 1223 🔖 #uv, #codex 🗓️ 2026-03-19
 - [Resist "AI"!](https://ronjeffries.com/articles/-v026/x/t/) 👤 ronjeffries.com 💬 2050 🔖 #llm, #llm-resistance 🗓️ 2026-03-19
 - [The unwritten laws of software engineering](https://newsletter.manager.dev/p/the-unwritten-laws-of-software-engineering) 👤 Anton Zaides 💬 1492 🔖 #principles, #softwarecraft 🗓️ 2026-03-17

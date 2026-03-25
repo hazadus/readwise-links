@@ -4,12 +4,12 @@
 
 ## Ссылки
 
+- [Adapting to AI: Reflections on Productivity](https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/?utm_source=substack&utm_medium=email) 👤 Colin Breck 💬 2582 🔖 #joyandcuriosity 🗓️ 2026-03-24
+    > **Резюме:** In 2025, AI greatly boosted productivity by helping with coding and problem-solving, acting like a tireless partner. Most software engineers have not yet fully adapted to AI’s rapid changes and potential. The way people work in software is changing fast, and it will take years to find new, effective patterns.
+- [The ambition tax](https://siddhantkhare.com/writing/ambition-tax) 👤 Siddhant Khare 💬 1364 🗓️ 2026-03-24
+    > **Резюме:** Ambition comes with a hidden cost that creates distance between you and the people you love. Even after achieving your goals, you feel restless and unsure if it's enough. This "ambition tax" is a quiet struggle many face but few talk about.
 - [If you thought the speed of writing code was your problem - you have bigger problems](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems?utm_source=tldrdev) 👤 Debugging Leadership 💬 2477 🗓️ 2026-03-22
     > **Резюме:** Writing code faster does not make software delivery faster if other steps are slow. The real problem is delays in review, testing, and deployment, plus unclear requirements. To improve, fix the slowest step and focus on getting features into users' hands quickly.
-- [Плохая игра, волшебное приключение. За что я люблю Crimson Desert](https://www.mirf.ru/games/crimson-desert-obzor) 👤 Никита Волкович (nikita@a.a) 💬 2303 🔖 #game 🗓️ 2026-03-21
-    > **Резюме:** Crimson Desert — это игра с красивым миром и интересными боями, но с плохим сюжетом и квестами. В ней много гринда, поиска ресурсов и сложных головоломок. Главная ценность — атмосферные моменты и уникальный игровой опыт, который трудно повторить.
-- [Grief and the AI Split](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/?utm_source=tldrdev) 👤 Les Orchard 💬 1342 🔖 #llm-devimpact 🗓️ 2026-03-20
-    > **Резюме:** AI-assisted coding reveals a long-hidden split between developers who love crafting code and those focused on making things work. The author feels grief not for coding itself, but for the changing web and career landscape around it. Despite this, he finds excitement in adapting and still enjoys seeing his ideas come to life.
 - [Returning To Rails in 2026](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/?utm_source=tldrdev) 👤 Mark Dastmalchi-Round 💬 5725 🗓️ 2026-03-20
     > **Резюме:** The author returned to using Rails in 2026 because it is simple and powerful. Rails 8 made development easier with no build steps and better tools for caching and deployment. Despite some decline in popularity, Rails remains a reliable and enjoyable framework.
 - [The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev) 👤 Daring Fireball 💬 3347 🗓️ 2026-03-20
