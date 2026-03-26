@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 66
+- Всего ссылок: 67
 
 ## Ссылки
 
+- [Bliki: Architecture Decision Record](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html) 👤 Martin Fowler 💬 801 🔖 #try, #docs, #architecture 🗓️ 2026-03-24
+    > **Резюме:** An Architecture Decision Record (ADR) is a short document that explains one important decision in a project, including why it was made and its effects. ADRs should be brief, stored with the code, and never changed once accepted, only replaced by a new record. They help teams keep a clear history of decisions and improve communication and alignment.
 - [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything) 👤 Simon Willison 💬 523 🔖 #llm, #try, #learning 🗓️ 2026-02-25
     > **Резюме:** Sometimes coding agents can walk you through code to help you understand it better. Simon Willison used a tool called Showboat with Claude Code to create a detailed explanation of his SwiftUI app. This method helped him learn a lot and can make learning new skills faster and easier.
 - [Intro to CSS 3D transforms](https://3dtransforms.desandro.com/) 👤 desandro.com 💬 460 🔖 #css, #try 🗓️ 2026-02-05

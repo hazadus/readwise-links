@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 35
+- Всего ссылок: 36
 
 ## Ссылки
 
+- [Stable Diffusion XL: так ли сложно использовать локальную модель?](https://habr.com/ru/companies/bhv_publishing/articles/1014232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog) 👤 BHV_publishing (Издательство БХВ) 💬 1712 🔖 #llm, #book 🗓️ 2026-03-24
+    > **Резюме:** Когда звучит фраза «нарисовать картинку нейросетью», под этим обычно подразумевается отправка запроса в какой-нибудь условно-бесплатный сервис вроде Nano Banana или ChatGPT. Еще можно заплатить за подписку на Midjourney и смириться с тем, что твои промпты видит вся дискорд-галерея. Есть, конечно, и еще один путь — поднять открытую модель вроде Stable Diffusion на собственном компьютере, однако для большинства пользователей он всё ещё ощущается как «очень сложно» или «очень дорого». Книга, о которой мы хотим сегодня рассказать, решает как минимум первую проблему. И как же именно?
 - [Книга «Game++. Устройство и оптимизация игрового движка»](https://habr.com/ru/companies/bhv_publishing/articles/1001720/) 👤 BHV_publishing 💬 989 🔖 #book 🗓️ 2026-02-21
     > **Резюме:** The book "Game++" teaches how to build and optimize game engines using C++. It shares deep knowledge from many years of coding and explains complex ideas clearly. It is more than a guide—it shows how to think like a C++ engineer in challenging projects.
 - [Он вам не демон: «Невьянская башня» Алексея Иванова — роман о демонах и доменных печах](https://daily.afisha.ru/culture/30642-on-vam-ne-demon-nevyanskaya-bashnya-alekseya-ivanova-roman-o-demonah-i-domennyh-pechah/) 👤 Afisha 💬 698 🔖 #book 🗓️ 2026-02-17

@@ -1,9 +1,12 @@
 # Архивные ссылки
 
-- Всего ссылок: 1524
+- Всего ссылок: 1527
 
 ## Ссылки
 
+- [Astro Crash Course #1 - Why Astro? (& Setup)](https://www.youtube.com/watch?v=CF3drb6H3Yw) 👤 Net Ninja 🔖 #astro 🗓️ 2026-03-25
+- [Bliki: Architecture Decision Record](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html) 👤 Martin Fowler 💬 801 🔖 #try, #docs, #architecture 🗓️ 2026-03-24
+- [Stable Diffusion XL: так ли сложно использовать локальную модель?](https://habr.com/ru/companies/bhv_publishing/articles/1014232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog) 👤 BHV_publishing (Издательство БХВ) 💬 1712 🔖 #llm, #book 🗓️ 2026-03-24
 - [Software Bonkers](https://craigmod.com/essays/software_bonkers/?utm_source=substack&utm_medium=email) 👤 Craig Mod 💬 1540 🔖 #joyandcuriosity 🗓️ 2026-03-24
 - [Windows Native App Development Is a Mess](https://domenic.me/windows-native-dev/) 👤 Hidden Variables 💬 2612 🔖 #windows 🗓️ 2026-03-22
 - [Comprehension Debt - the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/?utm_source=tldrdev) 👤 Addy Osmani 💬 1805 🔖 #cognitivedebt, #llm-devimpact 🗓️ 2026-03-22
