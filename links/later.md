@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 140
+- Всего ссылок: 142
 
 ## Ссылки
 
+- [The SwiftUI Way: patterns and anti-patterns for production apps](https://nilcoalescing.com/blog/TheSwiftUIWayReleaseAnnouncement/) 👤 Natalia Panferova 💬 344 🔖 #book, #swift 🗓️ 2026-03-26
+    > **Резюме:** Natalia Panferova wrote a book called The SwiftUI Way to help developers use SwiftUI better. The book teaches how to avoid common mistakes and build stable, efficient apps. It shares expert tips from her experience working on SwiftUI at Apple.
+- [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) 👤 mariozechner.at 💬 2368 🗓️ 2026-03-26
+    > **Резюме:** Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.
 - [Adapting to AI: Reflections on Productivity](https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/?utm_source=substack&utm_medium=email) 👤 Colin Breck 💬 2582 🔖 #joyandcuriosity 🗓️ 2026-03-24
     > **Резюме:** In 2025, AI greatly boosted productivity by helping with coding and problem-solving, acting like a tireless partner. Most software engineers have not yet fully adapted to AI’s rapid changes and potential. The way people work in software is changing fast, and it will take years to find new, effective patterns.
 - [The ambition tax](https://siddhantkhare.com/writing/ambition-tax) 👤 Siddhant Khare 💬 1364 🗓️ 2026-03-24

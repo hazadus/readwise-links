@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 36
+- Всего ссылок: 37
 
 ## Ссылки
 
+- [The SwiftUI Way: patterns and anti-patterns for production apps](https://nilcoalescing.com/blog/TheSwiftUIWayReleaseAnnouncement/) 👤 Natalia Panferova 💬 344 🔖 #book, #swift 🗓️ 2026-03-26
+    > **Резюме:** Natalia Panferova wrote a book called The SwiftUI Way to help developers use SwiftUI better. The book teaches how to avoid common mistakes and build stable, efficient apps. It shares expert tips from her experience working on SwiftUI at Apple.
 - [Stable Diffusion XL: так ли сложно использовать локальную модель?](https://habr.com/ru/companies/bhv_publishing/articles/1014232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog) 👤 BHV_publishing (Издательство БХВ) 💬 1712 🔖 #llm, #book 🗓️ 2026-03-24
     > **Резюме:** Когда звучит фраза «нарисовать картинку нейросетью», под этим обычно подразумевается отправка запроса в какой-нибудь условно-бесплатный сервис вроде Nano Banana или ChatGPT. Еще можно заплатить за подписку на Midjourney и смириться с тем, что твои промпты видит вся дискорд-галерея. Есть, конечно, и еще один путь — поднять открытую модель вроде Stable Diffusion на собственном компьютере, однако для большинства пользователей он всё ещё ощущается как «очень сложно» или «очень дорого». Книга, о которой мы хотим сегодня рассказать, решает как минимум первую проблему. И как же именно?
 - [Книга «Game++. Устройство и оптимизация игрового движка»](https://habr.com/ru/companies/bhv_publishing/articles/1001720/) 👤 BHV_publishing 💬 989 🔖 #book 🗓️ 2026-02-21

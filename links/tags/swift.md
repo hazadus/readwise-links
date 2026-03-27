@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 8
 
 ## Ссылки
 
+- [The SwiftUI Way: patterns and anti-patterns for production apps](https://nilcoalescing.com/blog/TheSwiftUIWayReleaseAnnouncement/) 👤 Natalia Panferova 💬 344 🔖 #book, #swift 🗓️ 2026-03-26
+    > **Резюме:** Natalia Panferova wrote a book called The SwiftUI Way to help developers use SwiftUI better. The book teaches how to avoid common mistakes and build stable, efficient apps. It shares expert tips from her experience working on SwiftUI at Apple.
 - [Drawing an image with Liquid Glass using SwiftUI Previews](https://alexwlchan.net/notes/2026/larking-with-liquid-glass/?ref=rss) 👤 alexwlchan.net 💬 489 🔖 #macos, #swift 🗓️ 2026-03-08
     > **Резюме:** The author used Xcode and SwiftUI to create an image with a Liquid Glass effect and a "New" banner. They adjusted the design using live previews and exported the final image directly from Xcode. This method is a quick way to mock up UI effects without strong graphic design skills.
 - [Isolate SwiftUI animations to specific attributes](https://nilcoalescing.com/blog/IsolateSwiftUIAnimationsToSpecificAttributes) 👤 Natalia Panferova 💬 478 🔖 #macos, #swift 🗓️ 2026-02-18

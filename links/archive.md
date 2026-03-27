@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1527
+- Всего ссылок: 1529
 
 ## Ссылки
 
+- [Платные LLM против локальной модели на бытовом ноутбуке — велика ли разница?](https://www.youtube.com/watch?v=1GEML055VNE) 👤 Диджитализируй! 🔖 #llm 🗓️ 2026-03-26
+- [Engineers do get promoted for writing simple code](https://seangoedecke.com/simple-work-gets-rewarded/) 👤 seangoedecke.com RSS feed 💬 1034 🔖 #career 🗓️ 2026-03-26
 - [Astro Crash Course #1 - Why Astro? (& Setup)](https://www.youtube.com/watch?v=CF3drb6H3Yw) 👤 Net Ninja 🔖 #astro 🗓️ 2026-03-25
 - [Bliki: Architecture Decision Record](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html) 👤 Martin Fowler 💬 801 🔖 #try, #docs, #architecture 🗓️ 2026-03-24
 - [Stable Diffusion XL: так ли сложно использовать локальную модель?](https://habr.com/ru/companies/bhv_publishing/articles/1014232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog) 👤 BHV_publishing (Издательство БХВ) 💬 1712 🔖 #llm, #book 🗓️ 2026-03-24

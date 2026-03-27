@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 73
+- Всего ссылок: 74
 
 ## Ссылки
 
+- [Engineers do get promoted for writing simple code](https://seangoedecke.com/simple-work-gets-rewarded/) 👤 seangoedecke.com RSS feed 💬 1034 🔖 #career 🗓️ 2026-03-26
+    > **Резюме:** Writing simple code helps engineers finish work faster and build a good reputation. Managers value results and successful projects more than complicated, hard-to-maintain code. Overcomplicating work may seem smart but usually hurts career growth in the long run.
 - [Big tech engineers need big egos](https://www.seangoedecke.com/big-tech-needs-big-egos/) 👤 seangoedecke.com 💬 1975 🔖 #career 🗓️ 2026-03-14
     > **Резюме:** Big tech engineers need a strong ego to tackle complex problems and make tough decisions confidently. They must balance confidence with humility by standing up for their ideas while accepting higher-ups' plans. Success requires being bold with peers but adaptable and low-ego with executives.
 - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) 👤 Terrible Software 💬 1425 🔖 #career, #softwarecraft 🗓️ 2026-03-04
