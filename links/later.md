@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 142
+- Всего ссылок: 144
 
 ## Ссылки
 
+- [Quantization from the ground up](https://ngrok.com/blog/quantization) 👤 Sam Rose 💬 4123 🗓️ 2026-03-27
+    > **Резюме:** Quantization shrinks large numbers into smaller ones so models use less memory and run faster. Lower bit quantization reduces accuracy, but 8-bit and 4-bit still work well for large language models. Very low bits like 2-bit cause big errors and poor model performance.
+- [Vibe coding SwiftUI apps is a lot of fun](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything) 👤 Simon Willison's Weblog 💬 932 🔖 #macos, #swift 🗓️ 2026-03-27
+    > **Резюме:** Simon Willison used AI tools to quickly build two macOS apps in SwiftUI for monitoring network and GPU usage. He found that SwiftUI apps can be made with a single file and without using Xcode. Although he doubts the apps’ accuracy, the process showed him that building macOS apps this way is fun and promising.
 - [The SwiftUI Way: patterns and anti-patterns for production apps](https://nilcoalescing.com/blog/TheSwiftUIWayReleaseAnnouncement/) 👤 Natalia Panferova 💬 344 🔖 #book, #swift 🗓️ 2026-03-26
     > **Резюме:** Natalia Panferova wrote a book called The SwiftUI Way to help developers use SwiftUI better. The book teaches how to avoid common mistakes and build stable, efficient apps. It shares expert tips from her experience working on SwiftUI at Apple.
 - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) 👤 mariozechner.at 💬 2368 🗓️ 2026-03-26

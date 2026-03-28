@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 31
+- Всего ссылок: 32
 
 ## Ссылки
 
+- [Vibe coding SwiftUI apps is a lot of fun](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything) 👤 Simon Willison's Weblog 💬 932 🔖 #macos, #swift 🗓️ 2026-03-27
+    > **Резюме:** Simon Willison used AI tools to quickly build two macOS apps in SwiftUI for monitoring network and GPU usage. He found that SwiftUI apps can be made with a single file and without using Xcode. Although he doubts the apps’ accuracy, the process showed him that building macOS apps this way is fun and promising.
 - [I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either](https://aresluna.org/fn/?utm_source=tldrdev) 👤 Marcin Wichary 💬 4303 🔖 #macos 🗓️ 2026-03-11
     > **Резюме:** The Fn key first appeared in 1984 to help laptops mimic missing keys and control hardware functions. Apple recently introduced a new Globe (🌐) key, causing confusion with the traditional Fn key on external keyboards. Keyboard designs keep evolving, but many users face challenges due to different keys and shortcuts across devices.
 - [Drawing an image with Liquid Glass using SwiftUI Previews](https://alexwlchan.net/notes/2026/larking-with-liquid-glass/?ref=rss) 👤 alexwlchan.net 💬 489 🔖 #macos, #swift 🗓️ 2026-03-08
