@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 144
+- Всего ссылок: 145
 
 ## Ссылки
 
+- [Complete Guide: Using an ILI9341 Display with the TFT_eSPI Library](https://mischianti.org/complete-guide-using-an-ili9341-display-with-the-tft_espi-library/) 👤 Renzo Mischianti 💬 1708 🗓️ 2026-04-02
+    > **Резюме:** This guide shows how to use the ILI9341 TFT display with the ESP32 and the TFT_eSPI library. It explains setup, drawing shapes, text, images, and animations easily. The library makes it simple to create colorful, interactive projects with smooth graphics and touch support.
 - [Quantization from the ground up](https://ngrok.com/blog/quantization) 👤 Sam Rose 💬 4123 🗓️ 2026-03-27
     > **Резюме:** Quantization shrinks large numbers into smaller ones so models use less memory and run faster. Lower bit quantization reduces accuracy, but 8-bit and 4-bit still work well for large language models. Very low bits like 2-bit cause big errors and poor model performance.
 - [Vibe coding SwiftUI apps is a lot of fun](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything) 👤 Simon Willison's Weblog 💬 932 🔖 #macos, #swift 🗓️ 2026-03-27
