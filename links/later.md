@@ -1,9 +1,12 @@
 # Отложенные ссылки
 
-- Всего ссылок: 145
+- Всего ссылок: 146
 
 ## Ссылки
 
+- [Software Development in 2026](https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026) 👤 Aleksei Matiushkin 💬 1952 🗓️ 2026-04-03
+    > **Заметка:** Via ElixirWeekly
+    > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.
 - [Complete Guide: Using an ILI9341 Display with the TFT_eSPI Library](https://mischianti.org/complete-guide-using-an-ili9341-display-with-the-tft_espi-library/) 👤 Renzo Mischianti 💬 1708 🗓️ 2026-04-02
     > **Резюме:** This guide shows how to use the ILI9341 TFT display with the ESP32 and the TFT_eSPI library. It explains setup, drawing shapes, text, images, and animations easily. The library makes it simple to create colorful, interactive projects with smooth graphics and touch support.
 - [Quantization from the ground up](https://ngrok.com/blog/quantization) 👤 Sam Rose 💬 4123 🗓️ 2026-03-27
