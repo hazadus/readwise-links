@@ -1,9 +1,14 @@
 # Отложенные ссылки
 
-- Всего ссылок: 146
+- Всего ссылок: 148
 
 ## Ссылки
 
+- [Programming languages for AI](https://blog.ploeh.dk/2026/03/30/programming-languages-for-ai/) 👤 Mark Seemann 💬 1289 🗓️ 2026-04-05
+    > **Резюме:** Programming languages for AI should do more than be human-readable; they must ensure portability, security, and verifiability. Strong static type systems and built-in guardrails help prevent errors and make code safer, especially for machine-generated software. Future AI-focused languages should prioritize these features over ease of writing to enable trustworthy, verifiable code.
+- [Some uncomfortable truths about AI coding agents](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev) 👤 standupforme.app 💬 3485 🗓️ 2026-04-04
+    > **Заметка:** Via TLDR Newsletter
+    > **Резюме:** AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.
 - [Software Development in 2026](https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026) 👤 Aleksei Matiushkin 💬 1952 🗓️ 2026-04-03
     > **Заметка:** Via ElixirWeekly
     > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.

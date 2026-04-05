@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1529
+- Всего ссылок: 1530
 
 ## Ссылки
 
+- [Working on products people hate](https://seangoedecke.com/working-on-products-people-hate/) 👤 seangoedecke.com RSS feed 💬 1014 🔖 #career 🗓️ 2026-03-28
 - [Платные LLM против локальной модели на бытовом ноутбуке — велика ли разница?](https://www.youtube.com/watch?v=1GEML055VNE) 👤 Диджитализируй! 🔖 #llm 🗓️ 2026-03-26
 - [Engineers do get promoted for writing simple code](https://seangoedecke.com/simple-work-gets-rewarded/) 👤 seangoedecke.com RSS feed 💬 1034 🔖 #career 🗓️ 2026-03-26
 - [Astro Crash Course #1 - Why Astro? (& Setup)](https://www.youtube.com/watch?v=CF3drb6H3Yw) 👤 Net Ninja 🔖 #astro 🗓️ 2026-03-25

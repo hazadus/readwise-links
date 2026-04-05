@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 74
+- Всего ссылок: 75
 
 ## Ссылки
 
+- [Working on products people hate](https://seangoedecke.com/working-on-products-people-hate/) 👤 seangoedecke.com RSS feed 💬 1014 🔖 #career 🗓️ 2026-03-28
+    > **Резюме:** I’ve worked on a lot of unpopular products.
+At Zendesk I built large parts of an app marketplace that was too useful to get rid of but never polished enough to be loved. Now I work on GitHub Copilot, which many people think is crap1. In between, I had some brief periods where I worked on products that were well-loved. For instance, I fixed a bug where popular Gists would time out once they got more than thirty comments, and I had a hand in making it possible to write LaTeX mathematics directly into GitHub markdown2. But I’ve spent years working on products people hate3.
+If I were a better developer, would I have worked on more products people love? No. Even granting that good software always makes a well-loved product, big-company software is made by teams, and teams are shaped by incentives. A very strong engineer can slightly improve the quality of software in their local area. But they must still write code that interacts with the rest of the company’s systems, and their code will be edited and extended by other engineers, and so on until that single engineer’s heroics is lost in the general mass of code commits. I wrote about this at length in How good engineers write bad code at big companies.
+Looking back, I’m glad that people have strongly disliked some of the software I’ve built, for the same reason that I’m glad I wasn’t born into oil money. If I’d happened to work on popular applications for my whole career, I’d probably believe that that was because of my sheer talent. But in fact, you would not be able to predict the beloved and disliked products I worked on from the quality of their engineering. Some beloved features have very shaky engineering indeed, and many features that failed miserably were built like cathedrals on the inside4. Working on products people hate forces you to accept how little control individual engineers have over whether people like what they build.
+In fact, a reliable engineer ought to be comfortable working on products people ...
 - [Engineers do get promoted for writing simple code](https://seangoedecke.com/simple-work-gets-rewarded/) 👤 seangoedecke.com RSS feed 💬 1034 🔖 #career 🗓️ 2026-03-26
     > **Резюме:** Writing simple code helps engineers finish work faster and build a good reputation. Managers value results and successful projects more than complicated, hard-to-maintain code. Overcomplicating work may seem smart but usually hurts career growth in the long run.
 - [Big tech engineers need big egos](https://www.seangoedecke.com/big-tech-needs-big-egos/) 👤 seangoedecke.com 💬 1975 🔖 #career 🗓️ 2026-03-14
