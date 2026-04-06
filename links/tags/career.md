@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 75
+- Всего ссылок: 76
 
 ## Ссылки
 
+- [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) 👤 Matheus Lima 💬 847 🔖 #career, #management, #communication 🗓️ 2026-04-01
+    > **Резюме:** If you want something at work, say it out loud. Your silence isn't saving you.
 - [Working on products people hate](https://seangoedecke.com/working-on-products-people-hate/) 👤 seangoedecke.com RSS feed 💬 1014 🔖 #career 🗓️ 2026-03-28
     > **Резюме:** I’ve worked on a lot of unpopular products.
 At Zendesk I built large parts of an app marketplace that was too useful to get rid of but never polished enough to be loved. Now I work on GitHub Copilot, which many people think is crap1. In between, I had some brief periods where I worked on products that were well-loved. For instance, I fixed a bug where popular Gists would time out once they got more than thirty comments, and I had a hand in making it possible to write LaTeX mathematics directly into GitHub markdown2. But I’ve spent years working on products people hate3.

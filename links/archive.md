@@ -1,9 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 1530
+- Всего ссылок: 1535
 
 ## Ссылки
 
+- [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) 👤 Matheus Lima 💬 847 🔖 #career, #management, #communication 🗓️ 2026-04-01
+- [The AI-Ready Software Developer #23 – Speaking Clearly](https://codemanship.wordpress.com/2026/04/01/the-ai-ready-software-developer-23-speaking-clearly/) 👤 codemanship 💬 715 🔖 #llm-devimpact 🗓️ 2026-04-01
+- [I quit. The clankers won.](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/) 👤 dbushell.com (all feeds) 💬 791 🔖 #llm-resistance 🗓️ 2026-04-01
+- [Coding with AI: productivity without pride or joy](https://www.loopwerk.io/articles/2026/ai-productivity-without-joy/) 👤 Loopwerk 💬 904 🔖 #llm-devimpact 🗓️ 2026-04-01
+- [Playing in the Mac App Sandbox](https://troz.net/post/2026/playing_mac_sandbox/) 👤 Sarah Reichelt 💬 3285 🔖 #macos 🗓️ 2026-03-31
 - [Working on products people hate](https://seangoedecke.com/working-on-products-people-hate/) 👤 seangoedecke.com RSS feed 💬 1014 🔖 #career 🗓️ 2026-03-28
 - [Платные LLM против локальной модели на бытовом ноутбуке — велика ли разница?](https://www.youtube.com/watch?v=1GEML055VNE) 👤 Диджитализируй! 🔖 #llm 🗓️ 2026-03-26
 - [Engineers do get promoted for writing simple code](https://seangoedecke.com/simple-work-gets-rewarded/) 👤 seangoedecke.com RSS feed 💬 1034 🔖 #career 🗓️ 2026-03-26

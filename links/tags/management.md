@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 47
+- Всего ссылок: 48
 
 ## Ссылки
 
+- [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) 👤 Matheus Lima 💬 847 🔖 #career, #management, #communication 🗓️ 2026-04-01
+    > **Резюме:** If you want something at work, say it out loud. Your silence isn't saving you.
 - [Tech Leaders: Low-Performing Teams Are A Gift, Not A Curse](https://codemanship.wordpress.com/2026/02/04/tech-leaders-low-performing-teams-are-a-gift-not-a-curse/) 👤 Codemanship's Blog 💬 1149 🔖 #leaddev, #management 🗓️ 2026-02-05
     > **Резюме:** Low-performing software teams offer a great chance to improve by focusing on small, daily changes in coding and testing. Fixing inner workflows, like automated testing, leads to faster, more reliable releases without big management changes. This approach builds trust and sets the stage for bigger improvements later.
 - [Why I Still Write Code as an Engineering Manager](https://terriblesoftware.org/2026/01/22/why-i-still-write-code-as-an-engineering-manager/) 👤 Terrible Software 💬 623 🔖 #leaddev, #management 🗓️ 2026-01-23

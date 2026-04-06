@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 74
+- Всего ссылок: 76
 
 ## Ссылки
 
+- [The AI-Ready Software Developer #23 – Speaking Clearly](https://codemanship.wordpress.com/2026/04/01/the-ai-ready-software-developer-23-speaking-clearly/) 👤 codemanship 💬 715 🔖 #llm-devimpact 🗓️ 2026-04-01
+    > **Резюме:** Psst. If your boss won’t invest in training you in Test-Driven Development, I’m running out-of-hours workshops on April 7 and 11 specifically for self-funding learners. £99 + UK VAT. I see a lot of wrongheaded takes on “AI” coding assistants and agents online, but one of the most misguided goes something along the lines of “Code doesn’t need … Continue reading "The AI-Ready Software Developer #23 – Speaking Clearly"
+- [Coding with AI: productivity without pride or joy](https://www.loopwerk.io/articles/2026/ai-productivity-without-joy/) 👤 Loopwerk 💬 904 🔖 #llm-devimpact 🗓️ 2026-04-01
+    > **Резюме:** I just finished my most productive quarter in a long time, made possible by Claude Code, and there are two conflicting feelings that I want to talk about.
 - [Comprehension Debt - the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/?utm_source=tldrdev) 👤 Addy Osmani 💬 1805 🔖 #cognitivedebt, #llm-devimpact 🗓️ 2026-03-22
     > **Резюме:** Relying too much on AI to write code creates "comprehension debt," where humans don’t fully understand the code they approve. This hidden problem makes teams less able to fix or improve software, even if tests pass and code looks fine. To avoid big future problems, engineers must focus on truly understanding changes, not just speeding up code production.
 - [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) 👤 Armin Ronacher 💬 1169 🔖 #reflections, #llm-devimpact 🗓️ 2026-03-21

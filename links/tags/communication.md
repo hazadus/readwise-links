@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 8
 
 ## Ссылки
 
+- [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) 👤 Matheus Lima 💬 847 🔖 #career, #management, #communication 🗓️ 2026-04-01
+    > **Резюме:** If you want something at work, say it out loud. Your silence isn't saving you.
 - [Why Am I Doing the Thinking for You?](https://terriblesoftware.org/2026/02/02/why-am-i-doing-the-thinking-for-you/) 👤 Terrible Software 💬 696 🔖 #soft skills, #communication 🗓️ 2026-02-03
     > **Резюме:** When you ask “What do you think?” without sharing your own thoughts, you make others do all the thinking for you. Instead, share your opinion, reasons, and a clear next step to help decisions happen faster. It’s okay to be unsure—showing your position helps the team move forward.
 - [How I provide technical clarity to non-technical leaders](https://seangoedecke.com/clarity/) 👤 seangoedecke.com 💬 2181 🔖 #soft skills, #communication 🗓️ 2025-10-12

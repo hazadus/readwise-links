@@ -1,9 +1,53 @@
 # Ссылки
 
-- Всего ссылок: 32
+- Всего ссылок: 33
 
 ## Ссылки
 
+- [Playing in the Mac App Sandbox](https://troz.net/post/2026/playing_mac_sandbox/) 👤 Sarah Reichelt 💬 3285 🔖 #macos 🗓️ 2026-03-31
+    > **Резюме:** Every app running on any Apple device, including a Mac, runs inside a sandbox by default. This keeps the app's data and settings isolated from other parts of the system so they cannot interfere with each other. As a Mac app developer, this is usually what you want, but sometimes the default sandbox settings do not allow your app to operate the way you need. In many cases you can work around this by adjusting the sandbox, but for some apps, you have to turn off sandboxing.
+In this article, I want to walk through what the sandbox does by default, how you can configure its settings for various tasks, when you need to turn it off, and why it's actually a good idea.
+
+Table of Contents
+
+What does the Mac App Sandbox do?
+App Sandbox Settings
+
+Network
+Hardware
+App Data
+File Access
+
+
+Temporary Entitlements
+When You Must Turn Off the Sandbox
+Why Use the Sandbox At All?
+
+
+What does the Mac App Sandbox do?
+In Xcode, create a new macOS app project that uses Swift and SwiftUI. Add a button that calls this function:
+func saveTestString() {
+  let docsUrl = URL.documentsDirectory
+  let fileUrl = docsUrl.appendingPathComponent("save_test.txt")
+
+  let saveString = """
+    This is a test.
+    Where do you think it will save?
+    """
+
+  try? saveString
+    .write(
+      to: fileUrl,
+      atomically: true,
+      encoding: .utf8
+    )
+}
+The first two lines construct a URL based on the Documents directory. The function then tries to write a test string to this URL.
+So the question is: where does this file end up? If you were expecting it to be in your Documents folder, you'd be disappointed.
+Run the app or refresh the SwiftUI Preview and click the button. Now let's go and find the file...
+In Finder, hold down Option and open the Go menu. Select Library and when the window opens, locate and open the Containers folder. My app is called Sandbox, so in Containers, I see a folder called Sandbox that has a single folder called Data. And here's where things get interesting:
+
+The folders where...
 - [Vibe coding SwiftUI apps is a lot of fun](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything) 👤 Simon Willison's Weblog 💬 932 🔖 #macos, #swift 🗓️ 2026-03-27
     > **Резюме:** Simon Willison used AI tools to quickly build two macOS apps in SwiftUI for monitoring network and GPU usage. He found that SwiftUI apps can be made with a single file and without using Xcode. Although he doubts the apps’ accuracy, the process showed him that building macOS apps this way is fun and promising.
 - [I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either](https://aresluna.org/fn/?utm_source=tldrdev) 👤 Marcin Wichary 💬 4303 🔖 #macos 🗓️ 2026-03-11

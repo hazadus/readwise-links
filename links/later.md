@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 148
+- Всего ссылок: 149
 
 ## Ссылки
 
@@ -9,6 +9,8 @@
 - [Some uncomfortable truths about AI coding agents](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev) 👤 standupforme.app 💬 3485 🗓️ 2026-04-04
     > **Заметка:** Via TLDR Newsletter
     > **Резюме:** AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.
+- [«Фантастика двигает нас вперёд». Беседа с Вадимом Пановым](https://www.mirf.ru/book/beseda-s-vadimom-panovym) 👤 Алексей Ионов (alwinchester1988@gmail.com) 💬 3175 🗓️ 2026-04-03
+    > **Резюме:** Вадим Панов считает, что фантастика помогает людям мечтать и двигаться вперёд. Он создаёт свои книги, начиная с мира и наполняя его историями, а не с сюжета. Фантастика учит ставить новые цели и не останавливаться на достигнутом.
 - [Software Development in 2026](https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026) 👤 Aleksei Matiushkin 💬 1952 🗓️ 2026-04-03
     > **Заметка:** Via ElixirWeekly
     > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.
