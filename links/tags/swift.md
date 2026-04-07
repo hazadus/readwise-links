@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [Embedding SF Symbols in SwiftUI Text](https://nilcoalescing.com/blog/EmbeddingSFSymbolsInSwiftUIText) 👤 Nil Coalescing 💬 434 🔖 #swift 🗓️ 2026-04-06
+    > **Резюме:** Combine text with icons and style them using modifiers in SwiftUI by leveraging LocalizedStringKey interpolation.
 - [Vibe coding SwiftUI apps is a lot of fun](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything) 👤 Simon Willison's Weblog 💬 932 🔖 #macos, #swift 🗓️ 2026-03-27
     > **Резюме:** Simon Willison used AI tools to quickly build two macOS apps in SwiftUI for monitoring network and GPU usage. He found that SwiftUI apps can be made with a single file and without using Xcode. Although he doubts the apps’ accuracy, the process showed him that building macOS apps this way is fun and promising.
 - [The SwiftUI Way: patterns and anti-patterns for production apps](https://nilcoalescing.com/blog/TheSwiftUIWayReleaseAnnouncement/) 👤 Natalia Panferova 💬 344 🔖 #book, #swift 🗓️ 2026-03-26

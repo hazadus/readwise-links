@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1535
+- Всего ссылок: 1537
 
 ## Ссылки
 
+- [Embedding SF Symbols in SwiftUI Text](https://nilcoalescing.com/blog/EmbeddingSFSymbolsInSwiftUIText) 👤 Nil Coalescing 💬 434 🔖 #swift 🗓️ 2026-04-06
+- [Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) 👤 seangoedecke.com RSS feed 💬 1545 🔖 #llm, #llm-devimpact 🗓️ 2026-04-03
 - [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) 👤 Matheus Lima 💬 847 🔖 #career, #management, #communication 🗓️ 2026-04-01
 - [The AI-Ready Software Developer #23 – Speaking Clearly](https://codemanship.wordpress.com/2026/04/01/the-ai-ready-software-developer-23-speaking-clearly/) 👤 codemanship 💬 715 🔖 #llm-devimpact 🗓️ 2026-04-01
 - [I quit. The clankers won.](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/) 👤 dbushell.com (all feeds) 💬 791 🔖 #llm-resistance 🗓️ 2026-04-01

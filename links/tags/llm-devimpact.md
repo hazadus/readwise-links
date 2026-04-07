@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 76
+- Всего ссылок: 77
 
 ## Ссылки
 
+- [Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) 👤 seangoedecke.com RSS feed 💬 1545 🔖 #llm, #llm-devimpact 🗓️ 2026-04-03
+    > **Резюме:** Programming is mainly about building a mental model or "theory" of how the code works, not just writing code. AI tools can help by handling details, but programmers still need to check if the AI's work fits their understanding. AI agents can create and test their own theories, but they struggle to remember them over time, which limits their effectiveness.
 - [The AI-Ready Software Developer #23 – Speaking Clearly](https://codemanship.wordpress.com/2026/04/01/the-ai-ready-software-developer-23-speaking-clearly/) 👤 codemanship 💬 715 🔖 #llm-devimpact 🗓️ 2026-04-01
     > **Резюме:** Psst. If your boss won’t invest in training you in Test-Driven Development, I’m running out-of-hours workshops on April 7 and 11 specifically for self-funding learners. £99 + UK VAT. I see a lot of wrongheaded takes on “AI” coding assistants and agents online, but one of the most misguided goes something along the lines of “Code doesn’t need … Continue reading "The AI-Ready Software Developer #23 – Speaking Clearly"
 - [Coding with AI: productivity without pride or joy](https://www.loopwerk.io/articles/2026/ai-productivity-without-joy/) 👤 Loopwerk 💬 904 🔖 #llm-devimpact 🗓️ 2026-04-01

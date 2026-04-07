@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 431
+- Всего ссылок: 432
 
 ## Ссылки
 
+- [Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) 👤 seangoedecke.com RSS feed 💬 1545 🔖 #llm, #llm-devimpact 🗓️ 2026-04-03
+    > **Резюме:** Programming is mainly about building a mental model or "theory" of how the code works, not just writing code. AI tools can help by handling details, but programmers still need to check if the AI's work fits their understanding. AI agents can create and test their own theories, but they struggle to remember them over time, which limits their effectiveness.
 - [Платные LLM против локальной модели на бытовом ноутбуке — велика ли разница?](https://www.youtube.com/watch?v=1GEML055VNE) 👤 Диджитализируй! 🔖 #llm 🗓️ 2026-03-26
     > **Резюме:** Автор хотел попробовать локальные языковые модели, думая, что это сложно и ноутбук слабый. Он удивился, что на обычном ноутбуке без дискретной графики можно запустить полезные большие модели бесплатно. Разница между платными и бесплатными моделями теперь не очень большая, и локальные решения доступны многим.
 - [Stable Diffusion XL: так ли сложно использовать локальную модель?](https://habr.com/ru/companies/bhv_publishing/articles/1014232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog) 👤 BHV_publishing (Издательство БХВ) 💬 1712 🔖 #llm, #book 🗓️ 2026-03-24
