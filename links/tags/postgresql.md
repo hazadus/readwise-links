@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 38
+- Всего ссылок: 39
 
 ## Ссылки
 
+- [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) 👤 Ivan Grishaev's blog 💬 7191 🔖 #postgresql 🗓️ 2026-04-06
+    > **Резюме:** JSON хранится как обычный текст, а jsonb — в двоичном формате, что ускоряет работу с данными. В PostgreSQL jsonb быстрее обрабатывается при чтении и операциях, хотя вставка данных может быть медленнее. Для работы с JSON есть удобные операторы и функции, которые помогают извлекать и изменять вложенные данные.
 - [Repositories, transactions, and unit of work in Go](https://rednafi.com/go/repo-txn-uow/) 👤 Redowan's Reflections 💬 3801 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-21
     > **Резюме:** Decoupling business logic from storage in Go, adding transaction support without leaking SQL details, and coordinating atomic writes across multiple repositories using a unit of work.
 - [How do you handle transactions with the repository pattern?](https://rednafi.com/shards/2026/03/transactions-with-repository-pattern/) 👤 Redowan's Reflections 💬 783 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-20

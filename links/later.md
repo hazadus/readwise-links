@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 150
+- Всего ссылок: 151
 
 ## Ссылки
 
+- [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) 👤 Ivan Grishaev's blog 💬 7191 🔖 #postgresql 🗓️ 2026-04-06
+    > **Резюме:** JSON хранится как обычный текст, а jsonb — в двоичном формате, что ускоряет работу с данными. В PostgreSQL jsonb быстрее обрабатывается при чтении и операциях, хотя вставка данных может быть медленнее. Для работы с JSON есть удобные операторы и функции, которые помогают извлекать и изменять вложенные данные.
 - [Programming languages for AI](https://blog.ploeh.dk/2026/03/30/programming-languages-for-ai/) 👤 Mark Seemann 💬 1289 🗓️ 2026-04-05
     > **Резюме:** Programming languages for AI should do more than be human-readable; they must ensure portability, security, and verifiability. Strong static type systems and built-in guardrails help prevent errors and make code safer, especially for machine-generated software. Future AI-focused languages should prioritize these features over ease of writing to enable trustworthy, verifiable code.
 - [Some uncomfortable truths about AI coding agents](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev) 👤 standupforme.app 💬 3485 🗓️ 2026-04-04
