@@ -1,9 +1,18 @@
 # Отложенные ссылки
 
-- Всего ссылок: 151
+- Всего ссылок: 155
 
 ## Ссылки
 
+- [Does GitHub still merit “top git platform for AI-native development” status?](https://newsletter.pragmaticengineer.com/p/does-github-still-merit-top-git-platform?utm_source=tldrdev&triedRedirect=true) 👤 Gergely Orosz 💬 1559 🗓️ 2026-04-08
+    > **Резюме:** GitHub's reliability has dropped significantly, struggling to handle the surge in AI agent traffic. A startup named Pierre Computer offers a new, AI-native git platform that scales much better than GitHub. GitHub lacks clear leadership and vision, causing it to fall behind in supporting AI-driven development.
+- [Introduction](https://comark.dev/getting-started/introduction) 👤 Comark 💬 323 🗓️ 2026-04-08
+    > **Заметка:** Быстрый streaming-ready Markdown parser/renderer для Vue, React, Svelte, HTML и ANSI terminals. Звучит как реально интересный building block
+    > **Резюме:** Comark is an extension of Markdown that lets you use custom components inside your content. It parses Markdown into a flexible structure that can be rendered as HTML, Vue, or React. This makes it great for interactive docs, blogs, AI chats, and more.
+- [Principles of Mechanical Sympathy](https://martinfowler.com/articles/mechanical-sympathy-principles.html) 👤 Caer Sanders 💬 1748 🗓️ 2026-04-08
+    > **Резюме:** Mechanical sympathy means understanding how hardware works to make software faster and more efficient. Key ideas include accessing memory sequentially, avoiding false sharing between CPU cores, and having a single thread write to shared data to reduce delays. Using these principles helps build better-performing systems at any scale.
+- [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) 👤 Wouter Groeneveld 💬 2840 🔖 #llm-devimpact 🗓️ 2026-04-08
+    > **Резюме:** Generative AI is changing how we work, learn, and create, but it often makes us less skilled and less thoughtful. It can speed up tasks but also lowers the quality and originality of what we produce. We should use it carefully, or risk losing important human creativity and responsibility.
 - [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) 👤 Ivan Grishaev's blog 💬 7191 🔖 #postgresql 🗓️ 2026-04-06
     > **Резюме:** JSON хранится как обычный текст, а jsonb — в двоичном формате, что ускоряет работу с данными. В PostgreSQL jsonb быстрее обрабатывается при чтении и операциях, хотя вставка данных может быть медленнее. Для работы с JSON есть удобные операторы и функции, которые помогают извлекать и изменять вложенные данные.
 - [Programming languages for AI](https://blog.ploeh.dk/2026/03/30/programming-languages-for-ai/) 👤 Mark Seemann 💬 1289 🗓️ 2026-04-05

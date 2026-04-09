@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 247
+- Всего ссылок: 248
 
 ## Ссылки
 
+- [Stacked log lines considered harmful](https://rednafi.com/shards/2026/04/no-stacked-loglines/) 👤 Redowan's Reflections 💬 946 🔖 #go 🗓️ 2026-04-07
+    > **Резюме:** Why logging at every layer of a service produces noise, and how to log only at the handler level while propagating context from below.
 - [Repositories, transactions, and unit of work in Go](https://rednafi.com/go/repo-txn-uow/) 👤 Redowan's Reflections 💬 3801 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-21
     > **Резюме:** Decoupling business logic from storage in Go, adding transaction support without leaking SQL details, and coordinating atomic writes across multiple repositories using a unit of work.
 - [How do you handle transactions with the repository pattern?](https://rednafi.com/shards/2026/03/transactions-with-repository-pattern/) 👤 Redowan's Reflections 💬 783 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-20

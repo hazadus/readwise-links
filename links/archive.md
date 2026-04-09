@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1537
+- Всего ссылок: 1538
 
 ## Ссылки
 
+- [The Hacker News tarpit](https://www.joanwestenberg.com/the-hacker-news-tarpit/?ref=westenberg-newsletter) 👤 JA Westenberg 💬 1846 🔖 #llm-devimpact 🗓️ 2026-04-08
 - [Embedding SF Symbols in SwiftUI Text](https://nilcoalescing.com/blog/EmbeddingSFSymbolsInSwiftUIText) 👤 Nil Coalescing 💬 434 🔖 #swift 🗓️ 2026-04-06
 - [Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) 👤 seangoedecke.com RSS feed 💬 1545 🔖 #llm, #llm-devimpact 🗓️ 2026-04-03
 - [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) 👤 Matheus Lima 💬 847 🔖 #career, #management, #communication 🗓️ 2026-04-01

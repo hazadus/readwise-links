@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [Engineering Managers are going to hate OpenClaw](https://newsletter.manager.dev/p/engineering-managers-are-going-to-hate-openclaw) 👤 Anton Zaides 💬 1635 🔖 #claws, #predictions 🗓️ 2026-04-07
+    > **Резюме:** A ChatGPT-like wave of hype is about to hit us, and you should be afraid
 - [AI as economic warfare](https://ghuntley.com/warfare/) 👤 Geoffrey Huntley 💬 753 🔖 #llm, #foss, #predictions 🗓️ 2026-03-16
     > **Резюме:** Open-source AI models are being used as economic weapons by countries to challenge rivals. China offers free local AI models while the US spends heavily on research, creating a new kind of economic warfare. This raises important questions about trust, control, and the future of AI-dependent businesses and economies.
 - [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/) 👤 seangoedecke.com 💬 1173 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-03-06
