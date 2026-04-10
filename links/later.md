@@ -1,9 +1,18 @@
 # Отложенные ссылки
 
-- Всего ссылок: 155
+- Всего ссылок: 158
 
 ## Ссылки
 
+- [Porting Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) 👤 Bryan Keller’s Dev Blog 💬 6147 🗓️ 2026-04-09
+    > **Заметка:** Via HackerNews
+    > **Резюме:** Bryan Keller worked on running Mac OS X on the Nintendo Wii by creating a custom bootloader and writing new drivers. He adapted the Wii’s hardware to work with Mac OS X, including making the SD card and USB ports function correctly. This project turned the Wii into a usable Mac OS X computer with minimal kernel changes.
+- [I Rebuilt Traceroute in Rust and It Was Simpler Than I Expected](https://tech.stonecharioteer.com/posts/2026/traceroute/) 👤 Stonecharioteer on Tech 💬 2932 🗓️ 2026-04-09
+    > **Заметка:** Via HackerNews
+    > **Резюме:** The author rebuilt the network tool traceroute using the Rust programming language and found it simpler than expected. Traceroute works by sending packets with increasing TTL values that expire at each hop, causing routers to send back ICMP messages revealing their addresses. The article explains this process and shows a basic Rust implementation that listens for these ICMP replies to map the path to a target IP.
+- [USB for Software Developers](https://werwolv.net/posts/usb_for_sw_devs/) 👤 WerWolv 💬 2523 🗓️ 2026-04-09
+    > **Заметка:** Via HackerNews
+    > **Резюме:** Writing a USB driver is similar to writing a network application and does not require kernel code. USB devices identify themselves using standard descriptors, which the host reads to understand the device and its capabilities. Developers can communicate with devices through specific endpoints using simple commands, as shown in the Fastboot example.
 - [Does GitHub still merit “top git platform for AI-native development” status?](https://newsletter.pragmaticengineer.com/p/does-github-still-merit-top-git-platform?utm_source=tldrdev&triedRedirect=true) 👤 Gergely Orosz 💬 1559 🗓️ 2026-04-08
     > **Резюме:** GitHub's reliability has dropped significantly, struggling to handle the surge in AI agent traffic. A startup named Pierre Computer offers a new, AI-native git platform that scales much better than GitHub. GitHub lacks clear leadership and vision, causing it to fall behind in supporting AI-driven development.
 - [Introduction](https://comark.dev/getting-started/introduction) 👤 Comark 💬 323 🗓️ 2026-04-08
