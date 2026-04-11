@@ -46,7 +46,8 @@
         "01kj5ksw4r753p8rb8w9agw5ma",
         "01kj5kb6cmeqchfg82h02jn7ma",
         "01kj2thhven5habzggmasmb5vx",
-        "01khpka3gra82p4qjxb6hf845g"
+        "01khpka3gra82p4qjxb6hf845g",
+        "01kntwvm2kv55qz9tt3dtct2p1"
     ],
     "skeets": [
         {
@@ -330,6 +331,12 @@
             "document_title": "AI fatigue is real and nobody talks about it",
             "source_url": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
             "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3mflmts33ei2s"
+        },
+        {
+            "document_id": "01kntwvm2kv55qz9tt3dtct2p1",
+            "document_title": "Native Instant Space Switching on MacOS",
+            "source_url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+            "skeet_url": "https://bsky.app/profile/hazadus.bsky.social/post/3mj7cdf4jfb2t"
         }
     ]
 }
