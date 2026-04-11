@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 33
+- Всего ссылок: 34
 
 ## Ссылки
 
+- [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) 👤 Arhan Chaudhary 💬 542 🔖 #toot, #macos, #swift 🗓️ 2026-04-10
+    > **Заметка:** Отличный способ убрать надоедливую анимацию при переключении рабочих столов
+    > **Резюме:** MacOS does not allow instant space switching without annoying animations, which many users dislike. The author found a simple app called InstantSpaceSwitcher that switches spaces instantly without disabling security features. This app is easy to install, works natively, and offers a command line interface.
 - [Playing in the Mac App Sandbox](https://troz.net/post/2026/playing_mac_sandbox/) 👤 Sarah Reichelt 💬 3285 🔖 #macos 🗓️ 2026-03-31
     > **Резюме:** Every app running on any Apple device, including a Mac, runs inside a sandbox by default. This keeps the app's data and settings isolated from other parts of the system so they cannot interfere with each other. As a Mac app developer, this is usually what you want, but sometimes the default sandbox settings do not allow your app to operate the way you need. In many cases you can work around this by adjusting the sandbox, but for some apps, you have to turn off sandboxing.
 In this article, I want to walk through what the sandbox does by default, how you can configure its settings for various tasks, when you need to turn it off, and why it's actually a good idea.

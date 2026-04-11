@@ -1,13 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 79
+- Всего ссылок: 81
 
 ## Ссылки
 
+- [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/) 👤 James Bennett 💬 6431 🔖 #llm, #llm-devimpact 🗓️ 2026-04-10
+    > **Резюме:** Large language models (LLMs) have not yet delivered huge improvements in coding speed or quality. They also do not make programming easy for non-experts and require real skill to use well. Overall, LLMs are helpful tools but not a magic solution for software development.
 - [The Hacker News tarpit](https://www.joanwestenberg.com/the-hacker-news-tarpit/?ref=westenberg-newsletter) 👤 JA Westenberg 💬 1846 🔖 #llm-devimpact 🗓️ 2026-04-08
     > **Резюме:** Hacker News is simple software but its real value comes from a unique, long-built community and trust. Anyone can copy the code quickly, but no one can copy the years of social capital and user habits. Success in software is not about building fast, but about gaining users, trust, and lasting engagement.
 - [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) 👤 Wouter Groeneveld 💬 2840 🔖 #llm-devimpact 🗓️ 2026-04-08
     > **Резюме:** Generative AI is changing how we work, learn, and create, but it often makes us less skilled and less thoughtful. It can speed up tasks but also lowers the quality and originality of what we produce. We should use it carefully, or risk losing important human creativity and responsibility.
+- [Cycles of disruption in the tech industry: with software pioneers Kent Beck & Martin Fowler](https://newsletter.pragmaticengineer.com/p/cycles-of-disruption-in-the-tech) 👤 Gergely Orosz 💬 2527 🔖 #llm-devimpact 🗓️ 2026-04-07
+    > **Резюме:** AI is causing big changes in software like past tech shifts, but it also brings new challenges and fears. Many hope AI will make programming faster and cheaper, yet some worry it could replace programmers. Experts say teamwork in coding may decline as more solo work returns, and using methods like TDD helps keep quality high.
 - [Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) 👤 seangoedecke.com RSS feed 💬 1545 🔖 #llm, #llm-devimpact 🗓️ 2026-04-03
     > **Резюме:** Programming is mainly about building a mental model or "theory" of how the code works, not just writing code. AI tools can help by handling details, but programmers still need to check if the AI's work fits their understanding. AI agents can create and test their own theories, but they struggle to remember them over time, which limits their effectiveness.
 - [The AI-Ready Software Developer #23 – Speaking Clearly](https://codemanship.wordpress.com/2026/04/01/the-ai-ready-software-developer-23-speaking-clearly/) 👤 codemanship 💬 715 🔖 #llm-devimpact 🗓️ 2026-04-01

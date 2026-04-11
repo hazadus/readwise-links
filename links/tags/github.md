@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 32
+- Всего ссылок: 33
 
 ## Ссылки
 
+- [Does GitHub still merit “top git platform for AI-native development” status?](https://newsletter.pragmaticengineer.com/p/does-github-still-merit-top-git-platform?utm_source=tldrdev&triedRedirect=true) 👤 Gergely Orosz 💬 1559 🔖 #github 🗓️ 2026-04-08
+    > **Резюме:** GitHub's reliability has dropped significantly, struggling to handle the surge in AI agent traffic. A startup named Pierre Computer offers a new, AI-native git platform that scales much better than GitHub. GitHub lacks clear leadership and vision, causing it to fall behind in supporting AI-driven development.
 - [GitHub Actions Is Slowly Killing Your Engineering Team](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/?utm_source=substack&utm_medium=email) 👤 Ian Duncan 💬 4017 🔖 #devops, #github, #joyandcuriosity 🗓️ 2026-03-11
     > **Резюме:** GitHub Actions is slow, confusing, and hard to debug, making engineers frustrated. Buildkite offers a simpler, faster, and more pleasant CI experience. GitHub Actions won by default, but Buildkite is better for real work.
 - [Stay away from my trash!](https://tldraw.dev/blog/stay-away-from-my-trash?utm_source=substack&utm_medium=email) 👤 tldraw.dev 💬 1601 🔖 #github, #llm-devimpact, #joyandcuriosity 🗓️ 2026-01-28

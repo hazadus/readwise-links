@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 158
+- Всего ссылок: 159
 
 ## Ссылки
 
+- [Giving an Agent a Rooted Android Phone](https://workers.io/blog/autonomous-mobile-pentesting/) 👤 Workers IO 💬 2247 🗓️ 2026-04-10
+    > **Резюме:** Giving an AI agent root access to an Android phone lets it fully test apps by controlling the screen, intercepting network traffic, and modifying app behavior. The agent used tools like Frida and mitmproxy to reverse-engineer Subway Surfers and hack unlimited coins automatically. This approach speeds up mobile security testing by automating actions and analysis without human guidance.
+- [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/) 👤 James Bennett 💬 6431 🔖 #llm, #llm-devimpact 🗓️ 2026-04-10
+    > **Резюме:** Large language models (LLMs) have not yet delivered huge improvements in coding speed or quality. They also do not make programming easy for non-experts and require real skill to use well. Overall, LLMs are helpful tools but not a magic solution for software development.
 - [Porting Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) 👤 Bryan Keller’s Dev Blog 💬 6147 🗓️ 2026-04-09
     > **Заметка:** Via HackerNews
     > **Резюме:** Bryan Keller worked on running Mac OS X on the Nintendo Wii by creating a custom bootloader and writing new drivers. He adapted the Wii’s hardware to work with Mac OS X, including making the SD card and USB ports function correctly. This project turned the Wii into a usable Mac OS X computer with minimal kernel changes.
@@ -13,8 +17,6 @@
 - [USB for Software Developers](https://werwolv.net/posts/usb_for_sw_devs/) 👤 WerWolv 💬 2523 🗓️ 2026-04-09
     > **Заметка:** Via HackerNews
     > **Резюме:** Writing a USB driver is similar to writing a network application and does not require kernel code. USB devices identify themselves using standard descriptors, which the host reads to understand the device and its capabilities. Developers can communicate with devices through specific endpoints using simple commands, as shown in the Fastboot example.
-- [Does GitHub still merit “top git platform for AI-native development” status?](https://newsletter.pragmaticengineer.com/p/does-github-still-merit-top-git-platform?utm_source=tldrdev&triedRedirect=true) 👤 Gergely Orosz 💬 1559 🗓️ 2026-04-08
-    > **Резюме:** GitHub's reliability has dropped significantly, struggling to handle the surge in AI agent traffic. A startup named Pierre Computer offers a new, AI-native git platform that scales much better than GitHub. GitHub lacks clear leadership and vision, causing it to fall behind in supporting AI-driven development.
 - [Introduction](https://comark.dev/getting-started/introduction) 👤 Comark 💬 323 🗓️ 2026-04-08
     > **Заметка:** Быстрый streaming-ready Markdown parser/renderer для Vue, React, Svelte, HTML и ANSI terminals. Звучит как реально интересный building block
     > **Резюме:** Comark is an extension of Markdown that lets you use custom components inside your content. It parses Markdown into a flexible structure that can be rendered as HTML, Vue, or React. This makes it great for interactive docs, blogs, AI chats, and more.

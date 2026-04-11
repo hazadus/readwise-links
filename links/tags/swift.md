@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) 👤 Arhan Chaudhary 💬 542 🔖 #toot, #macos, #swift 🗓️ 2026-04-10
+    > **Заметка:** Отличный способ убрать надоедливую анимацию при переключении рабочих столов
+    > **Резюме:** MacOS does not allow instant space switching without annoying animations, which many users dislike. The author found a simple app called InstantSpaceSwitcher that switches spaces instantly without disabling security features. This app is easy to install, works natively, and offers a command line interface.
 - [Embedding SF Symbols in SwiftUI Text](https://nilcoalescing.com/blog/EmbeddingSFSymbolsInSwiftUIText) 👤 Nil Coalescing 💬 434 🔖 #swift 🗓️ 2026-04-06
     > **Резюме:** Combine text with icons and style them using modifiers in SwiftUI by leveraging LocalizedStringKey interpolation.
 - [Vibe coding SwiftUI apps is a lot of fun](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything) 👤 Simon Willison's Weblog 💬 932 🔖 #macos, #swift 🗓️ 2026-03-27

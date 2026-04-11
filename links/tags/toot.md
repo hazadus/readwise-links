@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 47
+- Всего ссылок: 48
 
 ## Ссылки
 
+- [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) 👤 Arhan Chaudhary 💬 542 🔖 #toot, #macos, #swift 🗓️ 2026-04-10
+    > **Заметка:** Отличный способ убрать надоедливую анимацию при переключении рабочих столов
+    > **Резюме:** MacOS does not allow instant space switching without annoying animations, which many users dislike. The author found a simple app called InstantSpaceSwitcher that switches spaces instantly without disabling security features. This app is easy to install, works natively, and offers a command line interface.
 - [The End of Thinking](https://www.derekthompson.org/p/the-end-of-thinking) 👤 Derek Thompson 💬 2360 🔖 #llm, #toot, #reading, #writing 🗓️ 2026-02-23
     > **Заметка:** Via https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrotwr
     > **Резюме:** People are losing their ability to think deeply because they rely too much on AI for reading and writing. Writing is an important way to understand and think clearly, but many students and professionals now outsource it to machines. This decline in human thinking is a bigger problem than the rise of AI itself.

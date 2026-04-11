@@ -1,10 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 1538
+- Всего ссылок: 1541
 
 ## Ссылки
 
+- [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) 👤 Arhan Chaudhary 💬 542 🔖 #toot, #macos, #swift 🗓️ 2026-04-10
+    > **Заметка:** Отличный способ убрать надоедливую анимацию при переключении рабочих столов
+- [Does GitHub still merit “top git platform for AI-native development” status?](https://newsletter.pragmaticengineer.com/p/does-github-still-merit-top-git-platform?utm_source=tldrdev&triedRedirect=true) 👤 Gergely Orosz 💬 1559 🔖 #github 🗓️ 2026-04-08
 - [The Hacker News tarpit](https://www.joanwestenberg.com/the-hacker-news-tarpit/?ref=westenberg-newsletter) 👤 JA Westenberg 💬 1846 🔖 #llm-devimpact 🗓️ 2026-04-08
+- [Cycles of disruption in the tech industry: with software pioneers Kent Beck & Martin Fowler](https://newsletter.pragmaticengineer.com/p/cycles-of-disruption-in-the-tech) 👤 Gergely Orosz 💬 2527 🔖 #llm-devimpact 🗓️ 2026-04-07
 - [Embedding SF Symbols in SwiftUI Text](https://nilcoalescing.com/blog/EmbeddingSFSymbolsInSwiftUIText) 👤 Nil Coalescing 💬 434 🔖 #swift 🗓️ 2026-04-06
 - [Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) 👤 seangoedecke.com RSS feed 💬 1545 🔖 #llm, #llm-devimpact 🗓️ 2026-04-03
 - [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) 👤 Matheus Lima 💬 847 🔖 #career, #management, #communication 🗓️ 2026-04-01
