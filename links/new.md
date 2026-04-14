@@ -1,10 +1,9 @@
 # Новые ссылки
 
-- Всего ссылок: 894
+- Всего ссылок: 893
 
 ## Ссылки
 
-- [The Building Block Economy](https://mitchellh.com/writing/building-block-economy) 👤 Mitchell Hashimoto 💬 1185 🗓️ 2026-04-08
 - [Getting Real](https://readwise.io/reader/document_raw_content/2844630) 👤 Basecamp 💬 29339 🗓️ 2026-03-15
 - [In search of Banksy, Reuters found the artist took on a new identity](https://www.reuters.com/investigates/special-report/global-art-banksy/) 👤 Anton Zverev 💬 10475 🗓️ 2026-03-14
 - [Alan Turing: The Enigma](https://readwise.io/reader/document_raw_content/430011785) 👤 Andrew Hodges 💬 304577 🗓️ 2026-03-09

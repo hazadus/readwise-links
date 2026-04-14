@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html?utm_source=substack&utm_medium=email) 👤 John Rush’s Blog 💬 1477 🔖 #fun, #llm 🗓️ 2026-04-13
+    > **Резюме:** The author scanned and analyzed over 11,000 receipts from 25 years to track egg purchases using AI tools. They combined specialized models for image segmentation, OCR, and data extraction to overcome many challenges. The project took 14 days and showed how advanced AI can unlock insights from messy real-world data.
 - [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop?utm_source=tldrdev) 👤 Olivier Girardot 💬 532 🔖 #fun, #softwarecraft, #joyandcuriosity 🗓️ 2026-03-11
     > **Резюме:** Good software knows its purpose and avoids unnecessary features. It focuses on core needs and improves thoughtfully. Sometimes, staying simple is better than chasing every new trend.
 - [Why Parenting Is Similar To JavaScript Development](https://brainbaking.com/post/2026/02/why-parenting-is-similar-to-javascript-development/) 👤 Wouter Groeneveld 💬 974 🔖 #fun, #javascript 🗓️ 2026-02-13

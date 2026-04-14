@@ -1,9 +1,20 @@
 # Ссылки
 
-- Всего ссылок: 433
+- Всего ссылок: 438
 
 ## Ссылки
 
+- [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email) 👤 aphyr.com 💬 2947 🔖 #llm, #joyandcuriosity 🗓️ 2026-04-13
+    > **Резюме:** Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say "I don't know," leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.
+- [Why Isn't Everything Different Yet?](https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email) 👤 Dave Griffith 💬 1791 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
+    > **Резюме:** AI technology is impressive but changing everything takes time because systems, laws, and business models must be rebuilt from scratch. Software development is the first area transformed, but integrating AI widely requires millions of people to adapt workflows and trust the tools. Despite impatience, this transformation is happening very fast compared to past technologies and will soon feel much bigger.
+- [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email) 👤 Janko 💬 1093 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
+    > **Резюме:** The internet used to be open and full of shared ideas, but now big companies control it and make it risky to show your thoughts. AI makes creating things easier, but it also lets big platforms copy and absorb your ideas quickly, so staying quiet feels safer. This "cognitive dark forest" means your innovations feed the system that threatens you, making hiding and sharing both dangerous.
+- [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) 👤 Lalit Maganti 💬 3910 🔖 #llm, #joyandcuriosity 🗓️ 2026-04-13
+    > **Заметка:** Via Wisereads vol.138 and Joy&Curiosity
+    > **Резюме:** AI helped the author build a complex project quickly by generating lots of code and speeding research. However, AI struggled with design and caused confusion, so the author had to guide and fix many parts manually. Overall, AI is great for coding but cannot replace careful planning and decision-making.
+- [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html?utm_source=substack&utm_medium=email) 👤 John Rush’s Blog 💬 1477 🔖 #fun, #llm 🗓️ 2026-04-13
+    > **Резюме:** The author scanned and analyzed over 11,000 receipts from 25 years to track egg purchases using AI tools. They combined specialized models for image segmentation, OCR, and data extraction to overcome many challenges. The project took 14 days and showed how advanced AI can unlock insights from messy real-world data.
 - [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/) 👤 James Bennett 💬 6431 🔖 #llm, #llm-devimpact 🗓️ 2026-04-10
     > **Резюме:** Large language models (LLMs) have not yet delivered huge improvements in coding speed or quality. They also do not make programming easy for non-experts and require real skill to use well. Overall, LLMs are helpful tools but not a magic solution for software development.
 - [Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) 👤 seangoedecke.com RSS feed 💬 1545 🔖 #llm, #llm-devimpact 🗓️ 2026-04-03

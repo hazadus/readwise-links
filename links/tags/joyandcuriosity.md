@@ -1,9 +1,23 @@
 # Ссылки
 
-- Всего ссылок: 84
+- Всего ссылок: 90
 
 ## Ссылки
 
+- [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email) 👤 aphyr.com 💬 2947 🔖 #llm, #joyandcuriosity 🗓️ 2026-04-13
+    > **Резюме:** Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say "I don't know," leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.
+- [Why Isn't Everything Different Yet?](https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email) 👤 Dave Griffith 💬 1791 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
+    > **Резюме:** AI technology is impressive but changing everything takes time because systems, laws, and business models must be rebuilt from scratch. Software development is the first area transformed, but integrating AI widely requires millions of people to adapt workflows and trust the tools. Despite impatience, this transformation is happening very fast compared to past technologies and will soon feel much bigger.
+- [“Conviction Collapse” and the End of Software as We Know It](https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email) 👤 Tim O’Reilly 💬 2092 🔖 #joyandcuriosity 🗓️ 2026-04-13
+    > **Заметка:** w./ Harper Reed!
+    > **Резюме:** Software is no longer a fixed product but a flexible process that evolves through ongoing learning and creativity. AI and agentic coding let people build, adapt, and improve software like art or music. Success now depends on play, social interaction, and discovering new ways to create, not just on money or technology.
+- [A Dot a Day Keeps the Clutter Away](https://scottlawsonbc.com/post/dot-system?utm_source=substack&utm_medium=email) 👤 Scott Lawson 💬 2201 🔖 #joyandcuriosity 🗓️ 2026-04-13
+    > **Резюме:** Scott Lawson uses colored dot stickers to track how often he opens each clear parts box in his lab. This simple system shows which items he uses regularly and which he can store away or discard. The dots help him keep his workspace organized and avoid clutter.
+- [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email) 👤 Janko 💬 1093 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
+    > **Резюме:** The internet used to be open and full of shared ideas, but now big companies control it and make it risky to show your thoughts. AI makes creating things easier, but it also lets big platforms copy and absorb your ideas quickly, so staying quiet feels safer. This "cognitive dark forest" means your innovations feed the system that threatens you, making hiding and sharing both dangerous.
+- [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) 👤 Lalit Maganti 💬 3910 🔖 #llm, #joyandcuriosity 🗓️ 2026-04-13
+    > **Заметка:** Via Wisereads vol.138 and Joy&Curiosity
+    > **Резюме:** AI helped the author build a complex project quickly by generating lots of code and speeding research. However, AI struggled with design and caused confusion, so the author had to guide and fix many parts manually. Overall, AI is great for coding but cannot replace careful planning and decision-making.
 - [Adapting to AI: Reflections on Productivity](https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/?utm_source=substack&utm_medium=email) 👤 Colin Breck 💬 2582 🔖 #joyandcuriosity 🗓️ 2026-03-24
     > **Резюме:** In 2025, AI greatly boosted productivity by helping with coding and problem-solving, acting like a tireless partner. Most software engineers have not yet fully adapted to AI’s rapid changes and potential. The way people work in software is changing fast, and it will take years to find new, effective patterns.
 - [Software Bonkers](https://craigmod.com/essays/software_bonkers/?utm_source=substack&utm_medium=email) 👤 Craig Mod 💬 1540 🔖 #joyandcuriosity 🗓️ 2026-03-24

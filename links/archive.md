@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1541
+- Всего ссылок: 1542
 
 ## Ссылки
 
+- [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html?utm_source=substack&utm_medium=email) 👤 John Rush’s Blog 💬 1477 🔖 #fun, #llm 🗓️ 2026-04-13
 - [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) 👤 Arhan Chaudhary 💬 542 🔖 #toot, #macos, #swift 🗓️ 2026-04-10
     > **Заметка:** Отличный способ убрать надоедливую анимацию при переключении рабочих столов
 - [Does GitHub still merit “top git platform for AI-native development” status?](https://newsletter.pragmaticengineer.com/p/does-github-still-merit-top-git-platform?utm_source=tldrdev&triedRedirect=true) 👤 Gergely Orosz 💬 1559 🔖 #github 🗓️ 2026-04-08

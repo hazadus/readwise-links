@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 81
+- Всего ссылок: 83
 
 ## Ссылки
 
+- [Why Isn't Everything Different Yet?](https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email) 👤 Dave Griffith 💬 1791 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
+    > **Резюме:** AI technology is impressive but changing everything takes time because systems, laws, and business models must be rebuilt from scratch. Software development is the first area transformed, but integrating AI widely requires millions of people to adapt workflows and trust the tools. Despite impatience, this transformation is happening very fast compared to past technologies and will soon feel much bigger.
+- [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email) 👤 Janko 💬 1093 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
+    > **Резюме:** The internet used to be open and full of shared ideas, but now big companies control it and make it risky to show your thoughts. AI makes creating things easier, but it also lets big platforms copy and absorb your ideas quickly, so staying quiet feels safer. This "cognitive dark forest" means your innovations feed the system that threatens you, making hiding and sharing both dangerous.
 - [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/) 👤 James Bennett 💬 6431 🔖 #llm, #llm-devimpact 🗓️ 2026-04-10
     > **Резюме:** Large language models (LLMs) have not yet delivered huge improvements in coding speed or quality. They also do not make programming easy for non-experts and require real skill to use well. Overall, LLMs are helpful tools but not a magic solution for software development.
 - [The Hacker News tarpit](https://www.joanwestenberg.com/the-hacker-news-tarpit/?ref=westenberg-newsletter) 👤 JA Westenberg 💬 1846 🔖 #llm-devimpact 🗓️ 2026-04-08
