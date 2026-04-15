@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [Error translation in Go services](https://rednafi.com/go/error-translation/) 👤 Redowan's Reflections 💬 2281 🔖 #go, #architecture, #errorhandling 🗓️ 2026-04-12
+    > **Резюме:** Translating errors at layer boundaries so storage details don't leak into the handler or, worse, into client responses.
 - [Bliki: Architecture Decision Record](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html) 👤 Martin Fowler 💬 801 🔖 #try, #docs, #architecture 🗓️ 2026-03-24
     > **Резюме:** An Architecture Decision Record (ADR) is a short document that explains one important decision in a project, including why it was made and its effects. ADRs should be brief, stored with the code, and never changed once accepted, only replaced by a new record. They help teams keep a clear history of decisions and improve communication and alignment.
 - [Repositories, transactions, and unit of work in Go](https://rednafi.com/go/repo-txn-uow/) 👤 Redowan's Reflections 💬 3801 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-21

@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 12
 
 ## Ссылки
 
@@ -17,6 +17,8 @@
     > **Резюме:** The author used Xcode and SwiftUI to create an image with a Liquid Glass effect and a "New" banner. They adjusted the design using live previews and exported the final image directly from Xcode. This method is a quick way to mock up UI effects without strong graphic design skills.
 - [Isolate SwiftUI animations to specific attributes](https://nilcoalescing.com/blog/IsolateSwiftUIAnimationsToSpecificAttributes) 👤 Natalia Panferova 💬 478 🔖 #macos, #swift 🗓️ 2026-02-18
     > **Резюме:** In SwiftUI, animations often affect all view changes, which can cause unwanted effects in reusable components. Using the new animation(_:body:) modifier in iOS 17 lets you isolate animations to specific attributes like opacity. This makes components more predictable by controlling exactly what gets animated.
+- [API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/) 👤 Apple Inc. 💬 3591 🔖 #swift 🗓️ 2026-02-07
+    > **Резюме:** Apple's API Design Guidelines emphasize clear and consistent naming to make Swift code easy to read and understand. Documentation should explain what each function or type does, using natural language and avoiding ambiguity. Argument labels and parameter names must clarify their roles, improving code clarity and usability.
 - [Rust is bottom-up, Swift is top-down.](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust?utm_source=tldrdev) 👤 nmn.sh 💬 1633 🔖 #rust, #swift 🗓️ 2026-02-04
     > **Резюме:** Rust is a low-level, fast language that starts with manual memory control and lets you build up. Swift is a high-level, easier language that starts with simple value types and lets you go lower when needed. Both share similar features, but Rust is better for systems programming, while Swift is better for apps and servers, and is now truly cross-platform.
 - [WWDC24: Meet the Translation API | Apple](https://www.youtube.com/watch?v=MuIFhbHNmqA) 👤 Apple Developer 🔖 #macos, #swift 🗓️ 2026-01-16

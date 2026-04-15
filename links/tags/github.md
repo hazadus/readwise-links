@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 33
+- Всего ссылок: 34
 
 ## Ссылки
 
+- [GitHub Stacked PRs | GitHub Stacked PRs](https://github.github.com/gh-stack/) 👤 github.com 💬 540 🔖 #github 🗓️ 2026-04-14
+    > **Резюме:** GitHub Stacked PRs lets you break big code changes into small, linked pull requests that are easy to review and merge. You can manage these stacked PRs directly in GitHub or use the gh stack command-line tool to work faster. This helps teams avoid conflicts and speed up the review process by focusing on one change at a time.
 - [Does GitHub still merit “top git platform for AI-native development” status?](https://newsletter.pragmaticengineer.com/p/does-github-still-merit-top-git-platform?utm_source=tldrdev&triedRedirect=true) 👤 Gergely Orosz 💬 1559 🔖 #github 🗓️ 2026-04-08
     > **Резюме:** GitHub's reliability has dropped significantly, struggling to handle the surge in AI agent traffic. A startup named Pierre Computer offers a new, AI-native git platform that scales much better than GitHub. GitHub lacks clear leadership and vision, causing it to fall behind in supporting AI-driven development.
 - [GitHub Actions Is Slowly Killing Your Engineering Team](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/?utm_source=substack&utm_medium=email) 👤 Ian Duncan 💬 4017 🔖 #devops, #github, #joyandcuriosity 🗓️ 2026-03-11

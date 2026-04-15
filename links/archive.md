@@ -1,10 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 1542
+- Всего ссылок: 1548
 
 ## Ссылки
 
+- [GitHub Stacked PRs | GitHub Stacked PRs](https://github.github.com/gh-stack/) 👤 github.com 💬 540 🔖 #github 🗓️ 2026-04-14
+- [The surprising attention on sprites, exe.dev, and shellbox](https://lalitm.com/trying-sprites-exedev-shellbox/) 👤 Lalit Maganti 💬 1676 🗓️ 2026-04-13
 - [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html?utm_source=substack&utm_medium=email) 👤 John Rush’s Blog 💬 1477 🔖 #fun, #llm 🗓️ 2026-04-13
+- [Error translation in Go services](https://rednafi.com/go/error-translation/) 👤 Redowan's Reflections 💬 2281 🔖 #go, #architecture, #errorhandling 🗓️ 2026-04-12
+- [The Center Has a Bias](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/) 👤 Armin Ronacher 💬 1524 🔖 #llm, #llm-devimpact 🗓️ 2026-04-11
 - [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) 👤 Arhan Chaudhary 💬 542 🔖 #toot, #macos, #swift 🗓️ 2026-04-10
     > **Заметка:** Отличный способ убрать надоедливую анимацию при переключении рабочих столов
 - [Does GitHub still merit “top git platform for AI-native development” status?](https://newsletter.pragmaticengineer.com/p/does-github-still-merit-top-git-platform?utm_source=tldrdev&triedRedirect=true) 👤 Gergely Orosz 💬 1559 🔖 #github 🗓️ 2026-04-08
@@ -18,6 +22,7 @@
 - [Coding with AI: productivity without pride or joy](https://www.loopwerk.io/articles/2026/ai-productivity-without-joy/) 👤 Loopwerk 💬 904 🔖 #llm-devimpact 🗓️ 2026-04-01
 - [Playing in the Mac App Sandbox](https://troz.net/post/2026/playing_mac_sandbox/) 👤 Sarah Reichelt 💬 3285 🔖 #macos 🗓️ 2026-03-31
 - [Working on products people hate](https://seangoedecke.com/working-on-products-people-hate/) 👤 seangoedecke.com RSS feed 💬 1014 🔖 #career 🗓️ 2026-03-28
+- [Vibe coding SwiftUI apps is a lot of fun](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything) 👤 Simon Willison's Weblog 💬 932 🔖 #macos, #swift 🗓️ 2026-03-27
 - [Платные LLM против локальной модели на бытовом ноутбуке — велика ли разница?](https://www.youtube.com/watch?v=1GEML055VNE) 👤 Диджитализируй! 🔖 #llm 🗓️ 2026-03-26
 - [Engineers do get promoted for writing simple code](https://seangoedecke.com/simple-work-gets-rewarded/) 👤 seangoedecke.com RSS feed 💬 1034 🔖 #career 🗓️ 2026-03-26
 - [Astro Crash Course #1 - Why Astro? (& Setup)](https://www.youtube.com/watch?v=CF3drb6H3Yw) 👤 Net Ninja 🔖 #astro 🗓️ 2026-03-25
@@ -125,6 +130,7 @@
 - [“TDD Slows Me Down”. Good.](https://codemanship.wordpress.com/2026/02/08/tdd-slows-me-down-good/) 👤 Codemanship's Blog 💬 398 🔖 #tdd 🗓️ 2026-02-09
 - [Large tech companies don't need heroes](https://seangoedecke.com/heroism/) 👤 seangoedecke.com 💬 1172 🗓️ 2026-02-09
 - [The pitch deck is dead. Write a pitch.md instead.](https://www.joanwestenberg.com/the-pitch-deck-is-dead-write-a-pitch-md-instead/?ref=westenberg-newsletter) 👤 Westenberg. 💬 1055 🗓️ 2026-02-09
+- [API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/) 👤 Apple Inc. 💬 3591 🔖 #swift 🗓️ 2026-02-07
 - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) 👤 Mitchell Hashimoto 💬 2321 🔖 #llm, #llm-devimpact 🗓️ 2026-02-06
 - [Getting the main thing right](https://seangoedecke.com/getting-the-main-thing-right/) 👤 seangoedecke.com 💬 1474 🔖 #career, #burnout 🗓️ 2026-02-06
 - [Voxtral transcribes at the speed of sound](https://simonwillison.net/2026/Feb/4/voxtral-2/#atom-everything) 👤 Simon Willison 💬 233 🗓️ 2026-02-06

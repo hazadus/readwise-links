@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 248
+- Всего ссылок: 249
 
 ## Ссылки
 
+- [Error translation in Go services](https://rednafi.com/go/error-translation/) 👤 Redowan's Reflections 💬 2281 🔖 #go, #architecture, #errorhandling 🗓️ 2026-04-12
+    > **Резюме:** Translating errors at layer boundaries so storage details don't leak into the handler or, worse, into client responses.
 - [Stacked log lines considered harmful](https://rednafi.com/shards/2026/04/no-stacked-loglines/) 👤 Redowan's Reflections 💬 946 🔖 #go 🗓️ 2026-04-07
     > **Резюме:** Why logging at every layer of a service produces noise, and how to log only at the handler level while propagating context from below.
 - [Repositories, transactions, and unit of work in Go](https://rednafi.com/go/repo-txn-uow/) 👤 Redowan's Reflections 💬 3801 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-21

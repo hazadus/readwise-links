@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 4
 
 ## Ссылки
 
+- [Error translation in Go services](https://rednafi.com/go/error-translation/) 👤 Redowan's Reflections 💬 2281 🔖 #go, #architecture, #errorhandling 🗓️ 2026-04-12
+    > **Резюме:** Translating errors at layer boundaries so storage details don't leak into the handler or, worse, into client responses.
 - [Working with Errors in Go 1.13](https://go.dev/blog/go1.13-errors) 👤 go.dev 💬 2123 🔖 #go, #errorhandling 🗓️ 2024-11-05
     > **Резюме:** Go 1.13 introduced new functions and a formatting verb to handle errors more effectively. The additions include functions like errors.Is and errors.As for examining errors and a %w verb for wrapping errors. These changes aim to improve error handling in Go programs by providing better support for working with errors.
 - [Error handling in Go](mailto:reader-forwarded-email/a4bc403b0943bd3635a9b641e17d7450) 👤 Jon Calhoun 💬 1282 🔖 #go, #errorhandling 🗓️ 2024-11-05

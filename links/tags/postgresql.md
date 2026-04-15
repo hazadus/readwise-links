@@ -1,15 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 39
+- Всего ссылок: 40
 
 ## Ссылки
 
-- [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) 👤 Ivan Grishaev's blog 💬 7191 🔖 #postgresql 🗓️ 2026-04-06
+- [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) 👤 Ivan Grishaev's blog 💬 7191 🔖 #book, #postgresql 🗓️ 2026-04-06
     > **Резюме:** JSON хранится как обычный текст, а jsonb — в двоичном формате, что ускоряет работу с данными. В PostgreSQL jsonb быстрее обрабатывается при чтении и операциях, хотя вставка данных может быть медленнее. Для работы с JSON есть удобные операторы и функции, которые помогают извлекать и изменять вложенные данные.
 - [Repositories, transactions, and unit of work in Go](https://rednafi.com/go/repo-txn-uow/) 👤 Redowan's Reflections 💬 3801 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-21
     > **Резюме:** Decoupling business logic from storage in Go, adding transaction support without leaking SQL details, and coordinating atomic writes across multiple repositories using a unit of work.
 - [How do you handle transactions with the repository pattern?](https://rednafi.com/shards/2026/03/transactions-with-repository-pattern/) 👤 Redowan's Reflections 💬 783 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-20
     > **Резюме:** Adding transaction support to a repository interface without leaking storage details.
+- [Глава 1. Введение в документы](https://grishaev.me/pg-book-json-ch01/) 👤 grishaev.me 💬 9423 🔖 #book, #postgresql 🗓️ 2026-01-26
+    > **Резюме:** The text explains differences between relational and document-oriented databases, highlighting their strengths and weaknesses. Document databases handle flexible data structures well but have challenges like unique numbering and JSON limitations. Choosing a database depends on project needs, balancing pros and cons for the best fit.
 - [The Case Against pgvector](https://alex-jacobs.com/posts/the-case-against-pgvector/?utm_source=tldrwebdev) 👤 Alex Jacobs 💬 2528 🔖 #postgresql 🗓️ 2025-11-12
     > **Резюме:** Pgvector makes vector search easy to try in Postgres but has serious production limits. Indexing, memory use, realtime inserts, and filtered queries are hard to manage and often require rebuilds or complex tuning. For most teams, a dedicated managed vector database is simpler and more reliable.
 - [Kafka is fast -- I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks?utm_source=tldrwebdev) 👤 TopicPartition 💬 6636 🔖 #kafka, #postgresql 🗓️ 2025-11-04

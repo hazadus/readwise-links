@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 438
+- Всего ссылок: 439
 
 ## Ссылки
 
@@ -15,6 +15,8 @@
     > **Резюме:** AI helped the author build a complex project quickly by generating lots of code and speeding research. However, AI struggled with design and caused confusion, so the author had to guide and fix many parts manually. Overall, AI is great for coding but cannot replace careful planning and decision-making.
 - [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html?utm_source=substack&utm_medium=email) 👤 John Rush’s Blog 💬 1477 🔖 #fun, #llm 🗓️ 2026-04-13
     > **Резюме:** The author scanned and analyzed over 11,000 receipts from 25 years to track egg purchases using AI tools. They combined specialized models for image segmentation, OCR, and data extraction to overcome many challenges. The project took 14 days and showed how advanced AI can unlock insights from messy real-world data.
+- [The Center Has a Bias](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/) 👤 Armin Ronacher 💬 1524 🔖 #llm, #llm-devimpact 🗓️ 2026-04-11
+    > **Резюме:** People often have strong opinions about new technology without fully trying it. The middle group spends time using it enough to see both good and bad sides. This means being engaged doesn’t mean you fully support the technology.
 - [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/) 👤 James Bennett 💬 6431 🔖 #llm, #llm-devimpact 🗓️ 2026-04-10
     > **Резюме:** Large language models (LLMs) have not yet delivered huge improvements in coding speed or quality. They also do not make programming easy for non-experts and require real skill to use well. Overall, LLMs are helpful tools but not a magic solution for software development.
 - [Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) 👤 seangoedecke.com RSS feed 💬 1545 🔖 #llm, #llm-devimpact 🗓️ 2026-04-03

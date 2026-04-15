@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 893
+- Всего ссылок: 900
 
 ## Ссылки
 
+- [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) 👤 Ivan Grishaev's blog 💬 7191 🔖 #book, #postgresql 🗓️ 2026-04-06
 - [Getting Real](https://readwise.io/reader/document_raw_content/2844630) 👤 Basecamp 💬 29339 🗓️ 2026-03-15
 - [In search of Banksy, Reuters found the artist took on a new identity](https://www.reuters.com/investigates/special-report/global-art-banksy/) 👤 Anton Zverev 💬 10475 🗓️ 2026-03-14
 - [Alan Turing: The Enigma](https://readwise.io/reader/document_raw_content/430011785) 👤 Andrew Hodges 💬 304577 🗓️ 2026-03-09
@@ -11,6 +12,7 @@
 - [28 unusual and creative vinyl records](https://coloredvinylrecords.com/blog/25-unusual-and-creative-records/) 👤 Colored Vinyl Records 💬 2383 🗓️ 2026-02-27
 - [Евгений Федоров: Хозяин каменных гор](https://www.soyuz.ru/articles/1134) 👤 soyuz.ru 💬 1350 🔖 #book 🗓️ 2026-02-17
 - [Правда о go test -cover -race ./... (и не только)](https://youtube.com/watch?v=BDVSbr3wGYU&si=Kbrtx-qTB_OtuDNk) 👤 Куда войти? 🔖 #go, #testing 🗓️ 2026-01-30
+- [Глава 1. Введение в документы](https://grishaev.me/pg-book-json-ch01/) 👤 grishaev.me 💬 9423 🔖 #book, #postgresql 🗓️ 2026-01-26
 - [30+ Самых ожидаемых игр 2026 года I Битый Пиксель](https://www.youtube.com/watch?v=liGmkwyQfjY) 👤 Битый Пиксель 🗓️ 2026-01-24
 - [Django & HTMX - with Server-Sent Events (SSE)!](https://www.youtube.com/watch?v=9qwCc0FgPRg) 👤 BugBytes 🔖 #sse, #htmx, #django 🗓️ 2026-01-23
 - [Hidden Gems • The Applied Go Weekly Newsletter 2026-01-18](https://newsletter.appliedgo.net/archive/2026-01-18-hidden-gems/) 👤 The Applied Go Weekly Newsletter 💬 1112 🗓️ 2026-01-19
@@ -29,6 +31,8 @@
 - [Validating API Routes in Nuxt 4 with Zod](https://humanonlyweb.com/blog/validating-api-routes-in-nuxt-with-zod) 👤 HumanOnlyWeb 💬 913 🔖 #zod, #nuxt 🗓️ 2025-12-23
 - [A Layered Architecture for Nuxt Fullstack applications [Part 1 — Server side]](https://humanonlyweb.com/blog/layered-architecture-for-nuxt-4-fullstack-applications-part-1) 👤 HumanOnlyWeb 💬 760 🔖 #nuxt 🗓️ 2025-12-23
 - [Setting Up Your IDE for Nuxt UI: A Complete Guide](https://vueschool.io/articles/vuejs-tutorials/setting-up-your-ide-for-nuxt-ui-a-complete-guide/?friend=MOKKAPPS/) 👤 vueschool.io 💬 1106 🔖 #nuxt 🗓️ 2025-12-23
+- [Vue 3 Testing Pyramid: A Practical Guide with Vitest Browser Mode](https://alexop.dev/posts/vue3_testing_pyramid_vitest_browser_mode/) 👤 Alexander Opalic 💬 3336 🔖 #vue, #vitest, #testing 🗓️ 2025-12-15
+- [Vue Composables Style Guide: Lessons from VueUse's Codebase](https://alexop.dev/posts/vueuse_composables_style_guide/) 👤 Alexander Opalic 💬 2850 🔖 #vue 🗓️ 2025-12-15
 - [From Slow To Go • The Applied Go Weekly Newsletter 2025-12-07](https://newsletter.appliedgo.net/archive/2025-12-07-from-slow-to-go/) 👤 The Applied Go Weekly Newsletter 💬 591 🔖 #go 🗓️ 2025-12-08
 - [Gist of Go: Concurrency internals](https://antonz.org/go-concurrency/internals/) 👤 Anton Zhiyanov 💬 3899 🔖 #go 🗓️ 2025-12-07
 - [Mechanical Sympathy • The Applied Go Weekly Newsletter 2025-11-30](https://newsletter.appliedgo.net/archive/2025-11-30-mechanical-sympathy/) 👤 The Applied Go Weekly Newsletter 💬 2508 🔖 #go 🗓️ 2025-12-04
@@ -53,6 +57,7 @@
 - [Что такое «цифровой этикет»?](https://digitaletiquette.ru/what_is_digital_etiquette) 👤 digitaletiquette.ru 💬 10 🗓️ 2025-11-18
 - [Build AI Agents with n8n | Complete Beginner’s Automation Course 2025](https://www.youtube.com/watch?si=dEipx48B3PxuzIgm&v=UtXzdmpysmU&feature=youtu.be) 👤 JavaScript Mastery 🗓️ 2025-11-14
 - [n8n Workflow Automation Tutorial – Create an Interview Scheduler & More Step-by-Step](https://www.youtube.com/watch?v=GIZzRGYpCbM) 👤 freeCodeCamp.org 🔖 #n8n 🗓️ 2025-11-13
+- [Junior vs Senior: Building Modals in Vue](https://michaelnthiessen.com/junior-vs-senior-modals?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(242)+When+ref+and+reactive+work+the+same,+how+to+make+a+variable+created+outside+of+Vue+reactive,+and+more+-+19594812&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1564 🔖 #vue 🗓️ 2025-11-12
 - [Buil[d|t] To Learn • The Applied Go Weekly Newsletter 2025-11-09](https://newsletter.appliedgo.net/archive/2025-11-09-buildt-to-learn/) 👤 The Applied Go Weekly Newsletter 💬 909 🔖 #go 🗓️ 2025-11-11
 - [Рецензия на книгу “Изучаем Vue: основные концепции и практические паттерны”](https://habr.com/ru/companies/ssp-soft/articles/902974/) 👤 SSP_blog 💬 1717 🗓️ 2025-11-10
 - [WAHA + n8n: No Code Low Code WhatsApp Automation Step-By-Step Guide](https://waha.devlike.pro/blog/waha-n8n/) 👤 waha.devlike.pro 💬 470 🔖 #n8n 🗓️ 2025-11-07
@@ -67,6 +72,7 @@
 - [Practice Best Practices • The Applied Go Weekly Newsletter 2025-10-26](https://newsletter.appliedgo.net/archive/2025-10-26-practice-best-practices/) 👤 The Applied Go Weekly Newsletter 💬 1143 🔖 #go 🗓️ 2025-10-28
 - [Запуск MCP-сервера для AI-агентов от Битрикс24: интеграция с документацией REST API без ошибок](https://habr.com/ru/companies/bitrix/news/956808/) 👤 MaxMoro1 💬 310 🗓️ 2025-10-21
 - [A complete guide to HTTP caching](https://www.jonoalderson.com/performance/http-caching/) 👤 Jono Alderson 💬 9131 🔖 #http 🗓️ 2025-10-10
+- [Nuxt Environment Overrides: Clean Config for Every Environment](https://masteringnuxt.com/blog/nuxt-environment-overrides-clean-config-for-every-environment?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 621 🔖 #nuxt 🗓️ 2025-10-10
 - [Standard Package Layout](https://www.gobeyond.dev/standard-package-layout/) 👤 Ben Johnson 💬 2012 🗓️ 2025-10-09
 - [Build your Own Virtual Scroll - Part I](https://dev.to/adamklein/build-your-own-virtual-scroll-part-i-11ib) 👤 dev.to 💬 1065 🗓️ 2025-10-06
 - [JS DOM Manipulation Best Practices – with Examples](https://www.freecodecamp.org/news/dom-manipulation-best-practices/) 👤 Benjamin Semah 💬 1673 🗓️ 2025-10-06
@@ -145,6 +151,7 @@
 - [The Front-End Monitoring Handbook: Track Performance, Errors, and User Behavior](https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/) 👤 freeCodeCamp.org 💬 5785 🗓️ 2025-06-03
 - [Stop Splitting Atoms • The Applied Go Weekly Newsletter 2025-06-01](https://newsletter.appliedgo.net/archive/2025-06-01-stop-splitting-atoms/) 👤 The Applied Go Weekly Newsletter 💬 1635 🔖 #go 🗓️ 2025-06-02
 - [Create a React + Flask Project in 2025](https://blog.miguelgrinberg.com/post/create-a-react-flask-project-in-2025) 👤 Miguel Grinberg 💬 2191 🔖 #vite, #flask, #react 🗓️ 2025-06-01
+- [PostgreSQL как эффективная база для документных данных](https://youtube.com/watch?v=l8__4kI4zgU&si=FWi3JO7IruJno-N8) 👤 Health Samurai Team 🔖 #postgresql 🗓️ 2025-05-31
 - [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) 👤 Nathaniel J. Smith 💬 6018 🗓️ 2025-05-30
 - [Go, Browser—You Have To Talk! • The Applied Go Weekly Newsletter 2025-05-25](https://newsletter.appliedgo.net/archive/2025-05-25-go-browser-you-have-to-talk/) 👤 The Applied Go Weekly Newsletter 💬 1879 🔖 #go 🗓️ 2025-05-26
 - [http.DefaultTransport](https://antonz.org/default-transport/) 👤 Anton Zhiyanov 💬 804 🔖 #go 🗓️ 2025-05-24

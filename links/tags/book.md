@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 37
+- Всего ссылок: 39
 
 ## Ссылки
 
+- [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) 👤 Ivan Grishaev's blog 💬 7191 🔖 #book, #postgresql 🗓️ 2026-04-06
+    > **Резюме:** JSON хранится как обычный текст, а jsonb — в двоичном формате, что ускоряет работу с данными. В PostgreSQL jsonb быстрее обрабатывается при чтении и операциях, хотя вставка данных может быть медленнее. Для работы с JSON есть удобные операторы и функции, которые помогают извлекать и изменять вложенные данные.
 - [The SwiftUI Way: patterns and anti-patterns for production apps](https://nilcoalescing.com/blog/TheSwiftUIWayReleaseAnnouncement/) 👤 Natalia Panferova 💬 344 🔖 #book, #swift 🗓️ 2026-03-26
     > **Резюме:** Natalia Panferova wrote a book called The SwiftUI Way to help developers use SwiftUI better. The book teaches how to avoid common mistakes and build stable, efficient apps. It shares expert tips from her experience working on SwiftUI at Apple.
 - [Stable Diffusion XL: так ли сложно использовать локальную модель?](https://habr.com/ru/companies/bhv_publishing/articles/1014232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog) 👤 BHV_publishing (Издательство БХВ) 💬 1712 🔖 #llm, #book 🗓️ 2026-03-24
@@ -18,6 +20,8 @@
     > **Резюме:** Вадим Кумок переводит книги о Ведьмаке и старается быть ближе к польскому оригиналу. Он рассказывает о сложностях перевода, особенно с диалектами и именами. Кумок уважает автора и считает, что игры и сериал помогают популяризировать книги.
 - [Книга «Go: разработка приложений в микросервисной архитектуре с нуля»](https://habr.com/ru/companies/bhv_publishing/articles/987722/#habracut) 👤 BHV_publishing 💬 624 🔖 #go, #book, #microservices 🗓️ 2026-01-29
     > **Резюме:** Книга Юлии Поповой рассказывает, как создавать микросервисы с нуля на языке Go. В ней подробно объясняются ключевые технологии, такие как Docker, Kubernetes, и базы данных. Это второе издание, обновлённое и адаптированное для современных разработчиков.
+- [Глава 1. Введение в документы](https://grishaev.me/pg-book-json-ch01/) 👤 grishaev.me 💬 9423 🔖 #book, #postgresql 🗓️ 2026-01-26
+    > **Резюме:** The text explains differences between relational and document-oriented databases, highlighting their strengths and weaknesses. Document databases handle flexible data structures well but have challenges like unique numbering and JSON limitations. Choosing a database depends on project needs, balancing pros and cons for the best fit.
 - [The Nature Of Software Development](https://readwise.io/reader/document_raw_content/282158585) 👤 Ron Jeffries, Michael Swaine 💬 24194 🔖 #book, #joyandcuriosity 🗓️ 2025-08-26
     > **Резюме:** Software development is done feature by feature, allowing for early delivery of value. Teams discuss and prioritize high-value features to ensure effective use of time and resources. This iterative approach leads to continuous improvement and a better final product.
 - [Getting Real](http://gettingreal.37signals.com/) 👤 basecamp.com 💬 426 🔖 #book 🗓️ 2025-07-24
