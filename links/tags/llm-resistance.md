@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 4
 
 ## Ссылки
 
+- [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) 👤 Wouter Groeneveld 💬 2840 🔖 #learning, #llm-devimpact, #llm-resistance 🗓️ 2026-04-08
+    > **Резюме:** Generative AI is changing how we work, learn, and create, but it often makes us less skilled and less thoughtful. It can speed up tasks but also lowers the quality and originality of what we produce. We should use it carefully, or risk losing important human creativity and responsibility.
 - [I quit. The clankers won.](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/) 👤 dbushell.com (all feeds) 💬 791 🔖 #llm-resistance 🗓️ 2026-04-01
     > **Резюме:** … is what I’m reading far too often! Some of you are losing faith! A growing sentiment amongst my peers — those who haven’t already resigned to an NPC career path† — is that blogging is over. Coding is cooked. What’s the point of sharing insights and expertise when the Cognitive Dark Forest will […]
 - [People are not friction](https://daverupert.com/2026/03/people-are-not-friction/) 👤 daverupert.com 💬 627 🔖 #llm-resistance 🗓️ 2026-03-20

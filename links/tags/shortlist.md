@@ -1,6 +1,6 @@
 # Шортлист ссылок
 
-- Всего ссылок: 10
+- Всего ссылок: 9
 
 ## Ссылки
 
@@ -14,8 +14,6 @@
     > **Резюме:** Technology’s fastest, life-changing waves (like the Internet and smartphones) were a rare anomaly and are unlikely to repeat.  
 Future tech will keep advancing, but mostly in smaller, niche ways that won’t remake society or create another Apple/Google.  
 Open source maintainers should focus on practical, small- to medium-scale projects that serve real users and resist “scale creep.”
-- [The Pragmatic Engineer in 2025](https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-in-2025) 👤 Gergely Orosz 💬 2185 🔖 #shortlist 🗓️ 2025-12-24
-    > **Резюме:** In 2025, AI greatly changed software engineering and the tech job market stayed tough. The Pragmatic Engineer shared 134 newsletters and many podcast episodes about these trends and real-world challenges. The author thanked subscribers and promised more helpful content in 2026.
 - [2025 in review](https://www.loopwerk.io/articles/2025/2025-in-review/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) 👤 Kevin Renskers 💬 1411 🔖 #shortlist 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/69479f95-3aa4-8328-8855-b64bb19cc6d2
     > **Резюме:** 2025 was a productive year: I wrote 38 articles, grew site traffic a lot, and released several open-source Django projects. In November my girlfriend and her daughter were in a serious car crash, so I’ve been caring for them and our dog. I started using AI cautiously, did freelance work for Sound Radix, and enjoyed trips, concerts, and games.

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html) 👤 Lewis Campbell's Blog 💬 617 🔖 #agile, #llm-devimpact 🗓️ 2026-04-14
+    > **Резюме:** Software's "Agile moment" has been and gone.
 - [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp) 👤 Henrik Kniberg 💬 4268 🔖 #agile 🗓️ 2025-05-21
     > **Заметка:** Хорошее объяснение, зачем нужен MVP и зачем выкатывать продукт пользователям как можно раньше.
     > **Резюме:** The document delves into the concept of Minimum Viable Product (MVP) and the preference for an approach called Earliest Testable/Usable/Lovable. It contrasts the traditional Big Bang delivery method with iterative, incremental development approaches like Agile, emphasizing the importance of real user feedback. Through examples like Spotify and Minecraft, it illustrates the benefits of putting a basic, testable version of a product in users' hands early on to gather feedback, make improvements, and avoid costly failures. The document stresses the value of learning from real user interactions and adjusting the product accordingly, highlighting successful projects like a police car software system and Lego's product testing with children.

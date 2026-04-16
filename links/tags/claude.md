@@ -4,6 +4,8 @@
 
 ## Ссылки
 
+- [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11
+    > **Резюме:** Claude Code and Agent Browser let you test web apps by controlling a real browser from the terminal without hardcoding selectors. Claude clicks, fills forms, and checks for errors, then gives a structured bug report. This setup runs locally and can be integrated into CI workflows for automated QA on pull requests.
 - [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/) 👤 Nikita Prokopov 💬 591 🔖 #llm, #claude, #electron 🗓️ 2026-03-04
     > **Резюме:** Native apps have lost their advantage because their APIs are hard to use and their look is inconsistent and often bad. Web apps, including Electron apps, have become popular since they are easier to develop and maintain. The real problem is not the technology but a lack of care and attention to quality in software design.
 - [Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html) 👤 Drew Breunig 💬 738 🔖 #llm, #claude, #electron 🗓️ 2026-03-04
@@ -33,8 +35,6 @@
     > **Резюме:** Claude Cowork is a new tool from Anthropic that helps users run code and manage files easily through a simple app interface. It works by safely accessing only files you allow and can find useful information, like unpublished drafts, quickly. While powerful, users should be careful of security risks like prompt injections, which Anthropic is actively working to prevent.
 - [AI Zealotry](https://matthewrocklin.com/ai-zealotry/?utm_source=tldrdev#why-ai) 👤 Matthew Rocklin 💬 2935 🔖 #llm, #claude 🗓️ 2026-01-13
     > **Резюме:** AI helps experienced developers work faster and think at higher levels of abstraction. Trust in AI-generated code grows with strong testing and automated feedback. Programming with AI is an evolution like compilers, making coding more fun and productive despite some trade-offs.
-- [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude) 👤 diwank.space 💬 4833 🔖 #llm, #claude 🗓️ 2025-12-22
-    > **Резюме:** AI can speed coding but needs strict engineering practices to be safe and reliable. Humans must write tests, guide AI, and document decisions (CLAUDE.md). Transparency and disciplined workflows make AI a force multiplier, not chaos.
 - [I cannot emphasize enough how much I prefer this "tutorial...](https://x.com/geoffreylitt/status/1991909304085987366/?utm_medium=email&rw_tt_thread=True) 👤 Geoffrey Litt 💬 464 🔖 #llm, #claude, #learning 🗓️ 2025-12-21
     > **Резюме:** The author prefers a "tutorial doc + build-it-yourself" workflow over reviewing large PRs. Have the model produce a very detailed Markdown implementation guide, then read it and code the changes yourself while staying in control. This approach keeps you fast with AI tools but mentally engaged and better able to make good decisions.
 - [My first win building with agents](https://olano.dev/blog/agents2/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) 👤 Facundo Olano 💬 4079 🔖 #llm, #claude, #principles 🗓️ 2025-12-21

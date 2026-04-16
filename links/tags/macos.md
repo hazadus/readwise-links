@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 34
+- Всего ссылок: 32
 
 ## Ссылки
 
@@ -81,10 +81,6 @@ The folders where...
     > **Резюме:** Apple silicon Macs start booting with three secure stages before loading the macOS kernel about 5.3 seconds after power-on. The kernel then starts hardware, security services, and mounts important volumes, but user data stays locked until the password is entered. By 10 seconds, key system processes run with secure access, while user data remains protected by FileVault.
 - [Which snapshots could you delete?](https://eclecticlight.co/2026/02/02/which-snapshots-could-you-delete/) 👤 The Eclectic Light Company 💬 942 🔖 #macos 🗓️ 2026-02-03
     > **Резюме:** Time Machine creates local snapshots to help with backups but these take up space on your drive. You can safely delete all snapshots except the most recent one to free up space without losing important data. Keeping the newest snapshot helps Time Machine work efficiently and protect your files.
-- [Local Notifications: Getting Started](https://www.kodeco.com/21458686-local-notifications-getting-started) 👤 vidhur 💬 1220 🔖 #macos 🗓️ 2026-02-01
-    > **Резюме:** Local notifications help remind users about tasks by showing alerts from the app itself. This tutorial teaches how to request permission, create, and schedule local notifications using different triggers. It uses the OrganizerPlus app to demonstrate managing notifications safely and effectively.
-- [Combine: Getting Started](https://www.kodeco.com/7864801-combine-getting-started/page/2?page=1#toc-anchor-001) 👤 fbrancati 💬 1016 🔖 #macos 🗓️ 2026-02-01
-    > **Резюме:** This text explains how to use Combine in Swift to download images and manage asynchronous events without closures. It shows how to combine multiple image downloads with the zip operator and update the UI on the main thread. It also demonstrates replacing a timer with Combine’s publisher to handle game scoring reactively.
 - [macOS Tips](https://blog.xoria.org/macos-tips/) 👤 xoria.org 💬 2856 🔖 #macos 🗓️ 2026-01-31
     > **Резюме:** macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.
 - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/) 👤 xoria.org 💬 1305 🔖 #macos 🗓️ 2026-01-31

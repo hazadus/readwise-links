@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 900
+- Всего ссылок: 924
 
 ## Ссылки
 
+- [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11
 - [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) 👤 Ivan Grishaev's blog 💬 7191 🔖 #book, #postgresql 🗓️ 2026-04-06
 - [Getting Real](https://readwise.io/reader/document_raw_content/2844630) 👤 Basecamp 💬 29339 🗓️ 2026-03-15
 - [In search of Banksy, Reuters found the artist took on a new identity](https://www.reuters.com/investigates/special-report/global-art-banksy/) 👤 Anton Zverev 💬 10475 🗓️ 2026-03-14
@@ -11,6 +12,8 @@
 - [Turing](https://readwise.io/reader/document_raw_content/430011713) 👤 B. Jack Copeland 💬 101692 🗓️ 2026-03-09
 - [28 unusual and creative vinyl records](https://coloredvinylrecords.com/blog/25-unusual-and-creative-records/) 👤 Colored Vinyl Records 💬 2383 🗓️ 2026-02-27
 - [Евгений Федоров: Хозяин каменных гор](https://www.soyuz.ru/articles/1134) 👤 soyuz.ru 💬 1350 🔖 #book 🗓️ 2026-02-17
+- [Intro to CSS 3D transforms](https://3dtransforms.desandro.com/) 👤 desandro.com 💬 460 🔖 #css, #try 🗓️ 2026-02-05
+    > **Заметка:** Via https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/
 - [Правда о go test -cover -race ./... (и не только)](https://youtube.com/watch?v=BDVSbr3wGYU&si=Kbrtx-qTB_OtuDNk) 👤 Куда войти? 🔖 #go, #testing 🗓️ 2026-01-30
 - [Глава 1. Введение в документы](https://grishaev.me/pg-book-json-ch01/) 👤 grishaev.me 💬 9423 🔖 #book, #postgresql 🗓️ 2026-01-26
 - [30+ Самых ожидаемых игр 2026 года I Битый Пиксель](https://www.youtube.com/watch?v=liGmkwyQfjY) 👤 Битый Пиксель 🗓️ 2026-01-24
@@ -27,12 +30,14 @@
 - [Почему ты учишься неправильно? Гайд по самообразованию и книгам](https://www.youtube.com/watch?si=7ulTv-p1GIIL6qA6&v=EgnRsIJiuxc&feature=youtu.be) 👤 Go Get Podcast 🗓️ 2025-12-31
 - [Designing Organizations For An Information-Rich World](https://gwern.net/doc/design/1971-simon.pdf) 👤 Herbert A. Simon, Karl W. Deutsch, Martin Shubik, Emilio Q. Daddario 💬 16634 🗓️ 2025-12-30
     > **Заметка:** Via https://www.joanwestenberg.com/p/why-i-delete-every-unanswered-email-every-month
+- [LlamaIndex in Python: A RAG Guide With Examples](https://realpython.com/llamaindex-examples/) 👤 Leodanis Pozo Ramos 💬 4813 🗓️ 2025-12-29
 - [Thanks AI! · GitHub](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f) 👤 262588213843476 💬 558 🗓️ 2025-12-29
 - [Validating API Routes in Nuxt 4 with Zod](https://humanonlyweb.com/blog/validating-api-routes-in-nuxt-with-zod) 👤 HumanOnlyWeb 💬 913 🔖 #zod, #nuxt 🗓️ 2025-12-23
 - [A Layered Architecture for Nuxt Fullstack applications [Part 1 — Server side]](https://humanonlyweb.com/blog/layered-architecture-for-nuxt-4-fullstack-applications-part-1) 👤 HumanOnlyWeb 💬 760 🔖 #nuxt 🗓️ 2025-12-23
 - [Setting Up Your IDE for Nuxt UI: A Complete Guide](https://vueschool.io/articles/vuejs-tutorials/setting-up-your-ide-for-nuxt-ui-a-complete-guide/?friend=MOKKAPPS/) 👤 vueschool.io 💬 1106 🔖 #nuxt 🗓️ 2025-12-23
 - [Vue 3 Testing Pyramid: A Practical Guide with Vitest Browser Mode](https://alexop.dev/posts/vue3_testing_pyramid_vitest_browser_mode/) 👤 Alexander Opalic 💬 3336 🔖 #vue, #vitest, #testing 🗓️ 2025-12-15
 - [Vue Composables Style Guide: Lessons from VueUse's Codebase](https://alexop.dev/posts/vueuse_composables_style_guide/) 👤 Alexander Opalic 💬 2850 🔖 #vue 🗓️ 2025-12-15
+- [Django Third-party App Ecosystem](https://frankwiles.com/posts/django-third-party-apps/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 frankwiles.com 💬 762 🔖 #django 🗓️ 2025-12-12
 - [From Slow To Go • The Applied Go Weekly Newsletter 2025-12-07](https://newsletter.appliedgo.net/archive/2025-12-07-from-slow-to-go/) 👤 The Applied Go Weekly Newsletter 💬 591 🔖 #go 🗓️ 2025-12-08
 - [Gist of Go: Concurrency internals](https://antonz.org/go-concurrency/internals/) 👤 Anton Zhiyanov 💬 3899 🔖 #go 🗓️ 2025-12-07
 - [Mechanical Sympathy • The Applied Go Weekly Newsletter 2025-11-30](https://newsletter.appliedgo.net/archive/2025-11-30-mechanical-sympathy/) 👤 The Applied Go Weekly Newsletter 💬 2508 🔖 #go 🗓️ 2025-12-04
@@ -42,6 +47,7 @@
 - [The entire “Asynchronous JavaScript” module of JavaScript for Everyone is now free](https://piccalil.li/links/the-entire-asynchronous-javascript-module-of-javascript-for-everyone-is-now-free/?ref=main-rss-feed) 👤 Piccalilli 💬 92 🗓️ 2025-11-29
 - [Как НЕ надо работать с паролями пользователей или ИННОВАЦИОННАЯ криптография в российских бигтехах](https://www.youtube.com/watch?v=P_bksF9uHao) 👤 Диджитализируй! 🗓️ 2025-11-28
 - [Неоновые ночи, мертвые каналы: 10 ранних киберпанковских фильмов](https://disgustingmen.com/kino/10-early-cyberpunk-movies/) 👤 Дмитрий Соколов 💬 2977 🗓️ 2025-11-27
+- [Unit Testing (Vitest) Tutorial #1 - What is Unit Testing?](https://www.youtube.com/watch?v=XdDZKeM5_pQ) 👤 Net Ninja 🔖 #vitest 🗓️ 2025-11-26
 - [Gist of Go: Concurrency testing](https://antonz.org/go-concurrency/testing/) 👤 Anton Zhiyanov 💬 7291 🔖 #go, #testing 🗓️ 2025-11-24
 - [GitHub - zhanymkanov/fastapi-best-practices: FastAPI Best Practices and Conventions we used at our startup](https://github.com/zhanymkanov/fastapi-best-practices) 👤 https://github.com/zhanymkanov/ 💬 3381 🔖 #fastapi 🗓️ 2025-11-24
 - [How to Implement Authentication in FastAPI: A Complete Developer's Guide](https://fastlaunchapi.dev/blog/how-to-implement-auth) 👤 Niklas L. 💬 3619 🔖 #fastapi 🗓️ 2025-11-24
@@ -54,6 +60,7 @@
 - [How to Write a Technical Book](https://third-bit.com/2022/06/19/how-to-write-a-technical-book/) 👤 third-bit.com 💬 999 🔖 #writingbook 🗓️ 2025-11-24
 - [Publishing a Technical Book (Part 3): The Writing Process](https://hookedondata.org/posts/2021-04-06_publishing-a-technical-book-part-3/) 👤 Emily Robinson 💬 1201 🔖 #writingbook 🗓️ 2025-11-24
 - [Writing a Technical Book: Motivation, Publishing and how to stay focused without ruining your Life](https://www.adamtornhill.com/articles/writingbook/writingtechbook.htm) 👤 Adam Tornhill 💬 4194 🔖 #writingbook 🗓️ 2025-11-24
+- [High-Performance Syntax Highlighting with CSS Highlights API](https://pavi2410.com/blog/high-performance-syntax-highlighting-with-css-highlights-api/?utm_source=tldrwebdev) 👤 Pavitra Golchha 💬 1054 🔖 #css 🗓️ 2025-11-23
 - [Что такое «цифровой этикет»?](https://digitaletiquette.ru/what_is_digital_etiquette) 👤 digitaletiquette.ru 💬 10 🗓️ 2025-11-18
 - [Build AI Agents with n8n | Complete Beginner’s Automation Course 2025](https://www.youtube.com/watch?si=dEipx48B3PxuzIgm&v=UtXzdmpysmU&feature=youtu.be) 👤 JavaScript Mastery 🗓️ 2025-11-14
 - [n8n Workflow Automation Tutorial – Create an Interview Scheduler & More Step-by-Step](https://www.youtube.com/watch?v=GIZzRGYpCbM) 👤 freeCodeCamp.org 🔖 #n8n 🗓️ 2025-11-13
@@ -71,9 +78,11 @@
 - [Springs and Bounces in Native CSS The magic of the linear() timing function](https://www.joshwcomeau.com/animation/linear-timing-function/) 👤 Josh W. Comeau 💬 2718 🔖 #css 🗓️ 2025-10-29
 - [Practice Best Practices • The Applied Go Weekly Newsletter 2025-10-26](https://newsletter.appliedgo.net/archive/2025-10-26-practice-best-practices/) 👤 The Applied Go Weekly Newsletter 💬 1143 🔖 #go 🗓️ 2025-10-28
 - [Запуск MCP-сервера для AI-агентов от Битрикс24: интеграция с документацией REST API без ошибок](https://habr.com/ru/companies/bitrix/news/956808/) 👤 MaxMoro1 💬 310 🗓️ 2025-10-21
+- [How to group arrays in JavaScript without reduce()](https://allthingssmitty.com/2025/10/06/grouping-arrays-in-modern-javascript-object-groupby-and-map-groupby/) 👤 https://allthingssmitty.com/about/ 💬 810 🔖 #javascript 🗓️ 2025-10-14
 - [A complete guide to HTTP caching](https://www.jonoalderson.com/performance/http-caching/) 👤 Jono Alderson 💬 9131 🔖 #http 🗓️ 2025-10-10
 - [Nuxt Environment Overrides: Clean Config for Every Environment](https://masteringnuxt.com/blog/nuxt-environment-overrides-clean-config-for-every-environment?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 621 🔖 #nuxt 🗓️ 2025-10-10
 - [Standard Package Layout](https://www.gobeyond.dev/standard-package-layout/) 👤 Ben Johnson 💬 2012 🗓️ 2025-10-09
+- [A pragmatic guide to modern CSS colours - part one](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-one/?ref=main-rss-feed) 👤 Piccalilli 💬 3032 🔖 #css 🗓️ 2025-10-07
 - [Build your Own Virtual Scroll - Part I](https://dev.to/adamklein/build-your-own-virtual-scroll-part-i-11ib) 👤 dev.to 💬 1065 🗓️ 2025-10-06
 - [JS DOM Manipulation Best Practices – with Examples](https://www.freecodecamp.org/news/dom-manipulation-best-practices/) 👤 Benjamin Semah 💬 1673 🗓️ 2025-10-06
 - [JavaScript Best Practices](https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/) 👤 The JetBrains Blog 💬 4273 🗓️ 2025-10-06
@@ -83,6 +92,15 @@
 - [Enjoy The Flight! • The Applied Go Weekly Newsletter 2025-09-28](https://newsletter.appliedgo.net/archive/2025-09-28-enjoy-the-flight/) 👤 The Applied Go Weekly Newsletter 💬 1180 🔖 #go 🗓️ 2025-10-02
 - [Gist of Go: Atomics](https://antonz.org/go-concurrency/atomics/) 👤 Anton Zhiyanov 💬 1681 🔖 #go 🗓️ 2025-09-30
 - [How to Implement Dependency Injection in Go - Explained with Code Examples](https://www.freecodecamp.org/news/how-to-use-dependency-injection-in-go/) 👤 Gabor Koos 💬 5087 🔖 #go 🗓️ 2025-09-27
+- [Vue 3.5's onWatcherCleanup: Mastering Side Effect Management in Vue Applications](https://alexop.dev/posts/vue-35s-onwatchercleanup-mastering-side-effect-management-in-vue-applications/) 👤 Alexander Opalic 💬 688 🔖 #vue 🗓️ 2025-09-26
+- [How to Structure Vue Projects](https://alexop.dev/posts/how-to-structure-vue-projects/) 👤 Alexander Opalic 💬 1740 🔖 #vue 🗓️ 2025-09-26
+- [Atomic Architecture: Revolutionizing Vue and Nuxt Project Structure](https://alexop.dev/posts/atomic-design-vue-or-nuxt/) 👤 Alexander Opalic 💬 1176 🔖 #vue, #nuxt 🗓️ 2025-09-26
+- [Create a Native-Like App in 4 Steps: PWA Magic with Vue 3 and Vite](https://alexop.dev/posts/create-pwa-vue3-vite-4-steps/) 👤 Alexander Opalic 💬 1944 🔖 #pwa, #vue 🗓️ 2025-09-26
+- [SQLite in Vue: Complete Guide to Building Offline-First Web Apps](https://alexop.dev/posts/sqlite-vue3-offline-first-web-apps-guide/) 👤 Alexander Opalic 💬 5636 🔖 #vue 🗓️ 2025-09-26
+- [How to Use the Variant Props Pattern in Vue](https://alexop.dev/posts/vue-typescript-variant-props-type-safe-props/) 👤 Alexander Opalic 💬 718 🔖 #vue 🗓️ 2025-09-26
+    > **Заметка:** Шикарный разбор темы, еще и с анимированными диаграммами!
+- [Building Local-First Apps with Vue and Dexie.js](https://alexop.dev/posts/building-local-first-apps-vue-dexie/) 👤 Alexander Opalic 💬 1354 🔖 #vue 🗓️ 2025-09-26
+- [How to Do Visual Regression Testing in Vue with Vitest?](https://alexop.dev/posts/visual-regression-testing-with-vue-and-vitest-browser/) 👤 Alexander Opalic 💬 993 🔖 #vue, #vitest, #testing 🗓️ 2025-09-26
 - [Spaced Repetition for Efficient Learning](https://gwern.net/spaced-repetition) 👤 Gwern Branwen 💬 30217 🗓️ 2025-09-24
 - [Native threading and multiprocessing in Go](https://antonz.org/multi/) 👤 Anton Zhiyanov 💬 972 🔖 #go 🗓️ 2025-09-23
 - [The Big Gotcha With @starting-style](https://www.joshwcomeau.com/css/starting-style/) 👤 Josh W. Comeau 💬 2329 🔖 #css 🗓️ 2025-09-23
@@ -92,16 +110,25 @@
 - [Why Go Is A Minimalist Language • The Applied Go Weekly Newsletter 2025-09-07](https://newsletter.appliedgo.net/archive/2025-09-07-why-go-is-a-minimalist-language/) 👤 The Applied Go Weekly Newsletter 💬 1670 🔖 #go 🗓️ 2025-09-08
 - [How to Back up Your GitHub Repositories](https://improveandrepeat.com/2025/09/how-to-back-up-your-github-repositories/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 616 🔖 #git, #try, #github 🗓️ 2025-09-02
 - [So you don't like Go? • The Applied Go Weekly Newsletter 2025-08-31](https://newsletter.appliedgo.net/archive/2025-08-31-so-you-dont-like-go/) 👤 The Applied Go Weekly Newsletter 💬 1435 🗓️ 2025-09-01
+- [Rolling the Dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/?utm_source=tldrwebdev) 👤 Jen Simmons 💬 1846 🔖 #css 🗓️ 2025-08-30
 - [Handle With Care • The Applied Go Weekly Newsletter 2025-08-24](https://newsletter.appliedgo.net/archive/2025-08-24-handle-with-care-llm-security/) 👤 The Applied Go Weekly Newsletter 💬 2128 🗓️ 2025-08-29
 - [Developing a Real-time Dashboard with Flask, Postgres, and Socket.IO](https://testdriven.io/blog/flask-postgres-socketio/) 👤 testdriven.io 💬 4439 🔖 #flask, #websocket 🗓️ 2025-08-29
 - [JavaScript Tutorial with Three.js – 5 Projects for Beginners](https://www.youtube.com/watch?v=tPkJLnDqAKk) 👤 freeCodeCamp.org 🔖 #try, #three.js, #javascript 🗓️ 2025-08-28
 - [The Nature Of Software Development](https://readwise.io/reader/document_raw_content/282158585) 👤 Ron Jeffries, Michael Swaine 💬 24194 🔖 #book, #joyandcuriosity 🗓️ 2025-08-26
 - [Moving Objects in 3D Space](https://visualrambling.space/moving-objects-in-3d/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 829 🔖 #joyandcuriosity 🗓️ 2025-08-24
+- [The Difference Between a Post Flush Watcher and nextTick in Vue](https://michaelnthiessen.com/the-difference-between-a-post-flush-watcher-and-nexttick?ck_subscriber_id=2108193410&utm_campaign=The+Difference+Between+a+Post+Flush+Watcher+and+nextTick+in+Vue+-+18711361&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1110 🔖 #vue 🗓️ 2025-08-24
 - [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/?utm_source=tldrwebdev) 👤 Kuba Suder 💬 8494 🔖 #bluesky 🗓️ 2025-08-24
 - [Why Semantic Layers Matter — and How to Build One with DuckDB](https://motherduck.com/blog/semantic-layer-duckdb-tutorial/?utm_source=tldrwebdev) 👤 MotherDuck 💬 4235 🔖 #duckdb 🗓️ 2025-08-24
 - [An Interactive Guide to SVG Paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/?from=newsletter) 👤 Josh W. Comeau 💬 3508 🗓️ 2025-08-24
+- [Instructor and Pydantic - Structured LLM outputs for easy data extraction!](https://www.youtube.com/watch?v=3xUW1Do9zOs) 👤 BugBytes 🔖 #llm 🗓️ 2025-08-23
 - [Nuxt Tip: Accessing Pinia Store in Production Build](https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build) 👤 Michael Hoffmann 💬 86 🔖 #nuxt, #pinia 🗓️ 2025-08-14
+- [Another article about centering in CSS](https://piccalil.li/blog/another-article-about-centering-in-css/?ref=main-rss-feed) 👤 Piccalilli 💬 1236 🔖 #css 🗓️ 2025-08-14
+- [What are Effect Scopes in Vue?](https://michaelnthiessen.com/what-are-effect-scopes-in-vue?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(230)+What+are+Effect+Scopes+in+Vue?+-+18611005&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1063 🔖 #vue, #nuxt 🗓️ 2025-08-13
 - [Blue Gopher Meets Stochastic Parrot • The Applied Go Weekly Newsletter 2025-08-10](https://newsletter.appliedgo.net/archive/2025-08-10-blue-gopher-meets-stochastic-parrot/) 👤 The Applied Go Weekly Newsletter 💬 1872 🔖 #go 🗓️ 2025-08-12
+- [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #testing, #postgresql 🗓️ 2025-08-10
+    > **Заметка:** From Thorsten Ball interview
+
+https://chatgpt.com/c/69442a9a-f300-832f-ab30-b4c986167b5d
 - [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/) 👤 Benjamin Sandofsky 💬 8956 🗓️ 2025-08-06
 - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/) 👤 Jake Lazaroff 💬 4002 🔖 #diy 🗓️ 2025-08-04
 - [Создание умных AI-агентов: полный курс по LangGraph от А до Я. Часть 1. Архитектура: графы, узлы и состояния](https://habr.com/ru/companies/amvera/articles/933460/) 👤 yakvenalex 💬 5040 🗓️ 2025-08-04
@@ -176,10 +203,12 @@
 - [The Height EnigmaUnraveling the mystery of percentage-based heights in CSS](https://www.joshwcomeau.com/css/height-enigma/) 👤 Josh W. Comeau 💬 3403 🗓️ 2025-05-13
 - [Tupper's Formula • The Applied Go Weekly Newsletter 2025-05-11](https://newsletter.appliedgo.net/archive/2025-05-11-tuppers-formula/) 👤 The Applied Go Weekly Newsletter 💬 2098 🗓️ 2025-05-12
 - [Customize chat responses in VS Code](https://code.visualstudio.com/docs/copilot/copilot-customization#_instruction-files) 👤 Microsoft 💬 2753 🗓️ 2025-05-11
+- [JavaScript, what is this?](https://piccalil.li/blog/javascript-what-is-this/?ref=main-rss-feed) 👤 Mat “Wilto” Marquis 💬 3410 🔖 #javascript 🗓️ 2025-05-10
 - [How to Use Loguru for Simpler Python Logging](https://realpython.com/python-loguru/) 👤 Abdelhadi Dyouri 💬 7197 🔖 #python 🗓️ 2025-05-10
 - [Using the Python subprocess Module](https://realpython.com/courses/python-subprocess-module/) 👤 Real Python 💬 192 🗓️ 2025-05-08
 - [Flattening Rust's Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/) 👤 Corrode Rust Consulting 💬 3042 🔖 #rust 🗓️ 2025-05-05
 - [Have Another Cup Of Tea • The Applied Go Weekly Newsletter 2025-05-04](https://newsletter.appliedgo.net/archive/2025-05-04-have-another-cup-of-tea/) 👤 The Applied Go Weekly Newsletter 💬 1732 🔖 #go 🗓️ 2025-05-04
+- [JavaScript, when is this?](https://piccalil.li/blog/javascript-when-is-this/?ref=main-rss-feed) 👤 Piccalilli 💬 1770 🔖 #javascript 🗓️ 2025-05-02
 - [Generating a Dynamic Sitemap in Nuxt 3](https://masteringnuxt.com/blog/generating-a-dynamic-sitemap-in-nuxt-3?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 897 🔖 #nuxt 🗓️ 2025-04-30
 - [Handling File Uploads in Nuxt with useStorage](https://vueschool.io/articles/vuejs-tutorials/handling-file-uploads-in-nuxt-with-usestorage/?friend=MOKKAPPS) 👤 vueschool.io 💬 942 🔖 #nuxt 🗓️ 2025-04-30
 - [The Attack You Invited • The Applied Go Weekly Newsletter 2025-04-27](https://newsletter.appliedgo.net/archive/2025-04-27-the-attack-you-invited/) 👤 The Applied Go Weekly Newsletter 💬 1997 🗓️ 2025-04-27

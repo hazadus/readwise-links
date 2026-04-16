@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 439
+- Всего ссылок: 438
 
 ## Ссылки
 
@@ -17,7 +17,7 @@
     > **Резюме:** The author scanned and analyzed over 11,000 receipts from 25 years to track egg purchases using AI tools. They combined specialized models for image segmentation, OCR, and data extraction to overcome many challenges. The project took 14 days and showed how advanced AI can unlock insights from messy real-world data.
 - [The Center Has a Bias](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/) 👤 Armin Ronacher 💬 1524 🔖 #llm, #llm-devimpact 🗓️ 2026-04-11
     > **Резюме:** People often have strong opinions about new technology without fully trying it. The middle group spends time using it enough to see both good and bad sides. This means being engaged doesn’t mean you fully support the technology.
-- [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/) 👤 James Bennett 💬 6431 🔖 #llm, #llm-devimpact 🗓️ 2026-04-10
+- [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/) 👤 James Bennett 💬 6431 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-04-10
     > **Резюме:** Large language models (LLMs) have not yet delivered huge improvements in coding speed or quality. They also do not make programming easy for non-experts and require real skill to use well. Overall, LLMs are helpful tools but not a magic solution for software development.
 - [Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) 👤 seangoedecke.com RSS feed 💬 1545 🔖 #llm, #llm-devimpact 🗓️ 2026-04-03
     > **Резюме:** Programming is mainly about building a mental model or "theory" of how the code works, not just writing code. AI tools can help by handling details, but programmers still need to check if the AI's work fits their understanding. AI agents can create and test their own theories, but they struggle to remember them over time, which limits their effectiveness.
@@ -258,8 +258,6 @@ Successful engineers will be those who manage attention, plan well, and review e
     > **Резюме:** 2025 saw big shifts in LLMs: RLVR drove much capability by training on verifiable rewards.  
 LLMs feel like new, jagged “ghost” intelligences and spawned new app layers and local agents (Cursor, Claude Code).  
 Vibe coding and models like Nano Banana made building and interacting with AI far easier and more visual.
-- [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude) 👤 diwank.space 💬 4833 🔖 #llm, #claude 🗓️ 2025-12-22
-    > **Резюме:** AI can speed coding but needs strict engineering practices to be safe and reliable. Humans must write tests, guide AI, and document decisions (CLAUDE.md). Transparency and disciplined workflows make AI a force multiplier, not chaos.
 - [I cannot emphasize enough how much I prefer this "tutorial...](https://x.com/geoffreylitt/status/1991909304085987366/?utm_medium=email&rw_tt_thread=True) 👤 Geoffrey Litt 💬 464 🔖 #llm, #claude, #learning 🗓️ 2025-12-21
     > **Резюме:** The author prefers a "tutorial doc + build-it-yourself" workflow over reviewing large PRs. Have the model produce a very detailed Markdown implementation guide, then read it and code the changes yourself while staying in control. This approach keeps you fast with AI tools but mentally engaged and better able to make good decisions.
 - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email) 👤 ngrok 💬 78 🔖 #llm, #explorable, #joyandcuriosity 🗓️ 2025-12-21

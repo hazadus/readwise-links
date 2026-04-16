@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 46
+- Всего ссылок: 47
 
 ## Ссылки
 
+- [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11
+    > **Резюме:** Claude Code and Agent Browser let you test web apps by controlling a real browser from the terminal without hardcoding selectors. Claude clicks, fills forms, and checks for errors, then gives a structured bug report. This setup runs locally and can be integrated into CI workflows for automated QA on pull requests.
 - [Why Good Developers Write Bad Unit Tests](https://mtlynch.io/good-developers-bad-tests/#test-code-is-not-like-other-code) 👤 Michael Lynch 💬 2167 🔖 #testing 🗓️ 2026-02-05
     > **Заметка:** Via https://refactoringenglish.com/blog/software-essays-that-shaped-me/#-by-erik-kuefler-2014
     > **Резюме:** Software developers often write bad unit tests by blindly applying production code rules to test code, leading to unnecessary complexity. Good unit tests should be simple, clear, and self-contained, enabling easy understanding and issue diagnosis without excessive abstraction. Naming tests effectively and avoiding unnecessary constants can help improve the quality of unit tests.

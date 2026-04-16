@@ -1,18 +1,23 @@
 # Архивные ссылки
 
-- Всего ссылок: 1548
+- Всего ссылок: 1554
 
 ## Ссылки
 
+- [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html) 👤 Lewis Campbell's Blog 💬 617 🔖 #agile, #llm-devimpact 🗓️ 2026-04-14
+- [My Workspaces](https://brainbaking.com/post/2026/04/my-workspaces/) 👤 Wouter Groeneveld 💬 1091 🗓️ 2026-04-14
 - [GitHub Stacked PRs | GitHub Stacked PRs](https://github.github.com/gh-stack/) 👤 github.com 💬 540 🔖 #github 🗓️ 2026-04-14
 - [The surprising attention on sprites, exe.dev, and shellbox](https://lalitm.com/trying-sprites-exedev-shellbox/) 👤 Lalit Maganti 💬 1676 🗓️ 2026-04-13
 - [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html?utm_source=substack&utm_medium=email) 👤 John Rush’s Blog 💬 1477 🔖 #fun, #llm 🗓️ 2026-04-13
 - [Error translation in Go services](https://rednafi.com/go/error-translation/) 👤 Redowan's Reflections 💬 2281 🔖 #go, #architecture, #errorhandling 🗓️ 2026-04-12
 - [The Center Has a Bias](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/) 👤 Armin Ronacher 💬 1524 🔖 #llm, #llm-devimpact 🗓️ 2026-04-11
+- [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/) 👤 James Bennett 💬 6431 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-04-10
 - [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) 👤 Arhan Chaudhary 💬 542 🔖 #toot, #macos, #swift 🗓️ 2026-04-10
     > **Заметка:** Отличный способ убрать надоедливую анимацию при переключении рабочих столов
 - [Does GitHub still merit “top git platform for AI-native development” status?](https://newsletter.pragmaticengineer.com/p/does-github-still-merit-top-git-platform?utm_source=tldrdev&triedRedirect=true) 👤 Gergely Orosz 💬 1559 🔖 #github 🗓️ 2026-04-08
+- [The Building Block Economy](https://mitchellh.com/writing/building-block-economy) 👤 Mitchell Hashimoto 💬 1185 🗓️ 2026-04-08
 - [The Hacker News tarpit](https://www.joanwestenberg.com/the-hacker-news-tarpit/?ref=westenberg-newsletter) 👤 JA Westenberg 💬 1846 🔖 #llm-devimpact 🗓️ 2026-04-08
+- [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) 👤 Wouter Groeneveld 💬 2840 🔖 #learning, #llm-devimpact, #llm-resistance 🗓️ 2026-04-08
 - [Cycles of disruption in the tech industry: with software pioneers Kent Beck & Martin Fowler](https://newsletter.pragmaticengineer.com/p/cycles-of-disruption-in-the-tech) 👤 Gergely Orosz 💬 2527 🔖 #llm-devimpact 🗓️ 2026-04-07
 - [Embedding SF Symbols in SwiftUI Text](https://nilcoalescing.com/blog/EmbeddingSFSymbolsInSwiftUIText) 👤 Nil Coalescing 💬 434 🔖 #swift 🗓️ 2026-04-06
 - [Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) 👤 seangoedecke.com RSS feed 💬 1545 🔖 #llm, #llm-devimpact 🗓️ 2026-04-03
@@ -78,6 +83,7 @@
 - [A Cookie for Dario? — Anthropic and selling death](https://www.anildash.com/2026/02/27/a-cookie-for-dario/) 👤 Anil Dash 💬 1258 🔖 #llm 🗓️ 2026-02-28
 - [Software development now costs less than than the wage of a minimum wage worker](https://ghuntley.com/real/) 👤 Geoffrey Huntley 💬 2223 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-27
 - [Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything) 👤 Simon Willison 💬 1355 🔖 #llm, #softwarecraft 🗓️ 2026-02-27
+- [Giving external agentic coding tools access to Xcode](https://developer.apple.com/documentation/Xcode/giving-agentic-coding-tools-access-to-xcode) 👤 Apple Developer Documentation 💬 243 🔖 #mcp, #codex, #macos, #xcode, #claude 🗓️ 2026-02-27
 - [I vibe coded my dream macOS presentation app](https://simonwillison.net/2026/Feb/25/present/#atom-everything) 👤 Simon Willison 💬 1294 🔖 #llm, #macos 🗓️ 2026-02-25
 - [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything) 👤 Simon Willison 💬 523 🔖 #llm, #try, #learning 🗓️ 2026-02-25
 - [KMP, XCode и 5% мазохистов: как мы писали AI-агентов на 4 платформы](https://habr.com/ru/articles/1002744/) 👤 arturdumchev 💬 2202 🗓️ 2026-02-24

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 41
+- Всего ссылок: 42
 
 ## Ссылки
 
+- [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) 👤 Wouter Groeneveld 💬 2840 🔖 #learning, #llm-devimpact, #llm-resistance 🗓️ 2026-04-08
+    > **Резюме:** Generative AI is changing how we work, learn, and create, but it often makes us less skilled and less thoughtful. It can speed up tasks but also lowers the quality and originality of what we produce. We should use it carefully, or risk losing important human creativity and responsibility.
 - [Do Less.](https://usefulfictions.substack.com/p/do-less?utm_source=substack&utm_medium=email) 👤 Cate Hall 💬 1789 🔖 #reading, #learning, #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** Trying to do more all the time doesn’t help us learn or rest better. True rest and growth need us to slow down and give space for ideas and feelings to settle. The author’s new motto is “Do Less” to find real peace and progress.
 - [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything) 👤 Simon Willison 💬 523 🔖 #llm, #try, #learning 🗓️ 2026-02-25

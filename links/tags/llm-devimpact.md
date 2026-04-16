@@ -1,20 +1,22 @@
 # Ссылки
 
-- Всего ссылок: 84
+- Всего ссылок: 85
 
 ## Ссылки
 
+- [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html) 👤 Lewis Campbell's Blog 💬 617 🔖 #agile, #llm-devimpact 🗓️ 2026-04-14
+    > **Резюме:** Software's "Agile moment" has been and gone.
 - [Why Isn't Everything Different Yet?](https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email) 👤 Dave Griffith 💬 1791 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
     > **Резюме:** AI technology is impressive but changing everything takes time because systems, laws, and business models must be rebuilt from scratch. Software development is the first area transformed, but integrating AI widely requires millions of people to adapt workflows and trust the tools. Despite impatience, this transformation is happening very fast compared to past technologies and will soon feel much bigger.
 - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email) 👤 Janko 💬 1093 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
     > **Резюме:** The internet used to be open and full of shared ideas, but now big companies control it and make it risky to show your thoughts. AI makes creating things easier, but it also lets big platforms copy and absorb your ideas quickly, so staying quiet feels safer. This "cognitive dark forest" means your innovations feed the system that threatens you, making hiding and sharing both dangerous.
 - [The Center Has a Bias](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/) 👤 Armin Ronacher 💬 1524 🔖 #llm, #llm-devimpact 🗓️ 2026-04-11
     > **Резюме:** People often have strong opinions about new technology without fully trying it. The middle group spends time using it enough to see both good and bad sides. This means being engaged doesn’t mean you fully support the technology.
-- [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/) 👤 James Bennett 💬 6431 🔖 #llm, #llm-devimpact 🗓️ 2026-04-10
+- [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/) 👤 James Bennett 💬 6431 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-04-10
     > **Резюме:** Large language models (LLMs) have not yet delivered huge improvements in coding speed or quality. They also do not make programming easy for non-experts and require real skill to use well. Overall, LLMs are helpful tools but not a magic solution for software development.
 - [The Hacker News tarpit](https://www.joanwestenberg.com/the-hacker-news-tarpit/?ref=westenberg-newsletter) 👤 JA Westenberg 💬 1846 🔖 #llm-devimpact 🗓️ 2026-04-08
     > **Резюме:** Hacker News is simple software but its real value comes from a unique, long-built community and trust. Anyone can copy the code quickly, but no one can copy the years of social capital and user habits. Success in software is not about building fast, but about gaining users, trust, and lasting engagement.
-- [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) 👤 Wouter Groeneveld 💬 2840 🔖 #llm-devimpact 🗓️ 2026-04-08
+- [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) 👤 Wouter Groeneveld 💬 2840 🔖 #learning, #llm-devimpact, #llm-resistance 🗓️ 2026-04-08
     > **Резюме:** Generative AI is changing how we work, learn, and create, but it often makes us less skilled and less thoughtful. It can speed up tasks but also lowers the quality and originality of what we produce. We should use it carefully, or risk losing important human creativity and responsibility.
 - [Cycles of disruption in the tech industry: with software pioneers Kent Beck & Martin Fowler](https://newsletter.pragmaticengineer.com/p/cycles-of-disruption-in-the-tech) 👤 Gergely Orosz 💬 2527 🔖 #llm-devimpact 🗓️ 2026-04-07
     > **Резюме:** AI is causing big changes in software like past tech shifts, but it also brings new challenges and fears. Many hope AI will make programming faster and cheaper, yet some worry it could replace programmers. Experts say teamwork in coding may decline as more solo work returns, and using methods like TDD helps keep quality high.

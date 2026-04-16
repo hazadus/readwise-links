@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 28
+- Всего ссылок: 29
 
 ## Ссылки
 
+- [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11
+    > **Резюме:** Claude Code and Agent Browser let you test web apps by controlling a real browser from the terminal without hardcoding selectors. Claude clicks, fills forms, and checks for errors, then gives a structured bug report. This setup runs locally and can be integrated into CI workflows for automated QA on pull requests.
 - [Vue 3 Testing Pyramid: A Practical Guide with Vitest Browser Mode](https://alexop.dev/posts/vue3_testing_pyramid_vitest_browser_mode/) 👤 Alexander Opalic 💬 3336 🔖 #vue, #vitest, #testing 🗓️ 2025-12-15
     > **Резюме:** The post recommends a practical Vue 3 testing strategy that favors many fast composable unit tests and fewer, realistic integration tests run in Vitest browser mode. Use data factories, a createTestApp helper, and page objects to keep tests clear and maintainable. Add targeted accessibility and visual checks for critical screens and consider AI-driven exploratory QA as a complement.
 - [Vue Composables Style Guide: Lessons from VueUse's Codebase](https://alexop.dev/posts/vueuse_composables_style_guide/) 👤 Alexander Opalic 💬 2850 🔖 #vue 🗓️ 2025-12-15

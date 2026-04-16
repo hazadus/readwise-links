@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11
+    > **Резюме:** Claude Code and Agent Browser let you test web apps by controlling a real browser from the terminal without hardcoding selectors. Claude clicks, fills forms, and checks for errors, then gives a structured bug report. This setup runs locally and can be integrated into CI workflows for automated QA on pull requests.
 - [GitHub: top commands in gh, the official GitHub CLI](https://adamj.eu/tech/2025/11/24/github-top-gh-cli-commands/) 👤 adamj.eu 💬 5208 🔖 #cli, #try, #github 🗓️ 2025-11-24
     > **Резюме:** The GitHub CLI (gh) lets you create, view, checkout, and merge pull requests from the command line. It offers interactive prompts, web mode, and options like auto-merge and push prompts to simplify workflows. gh also shows and watches GitHub Actions runs so you can monitor CI from your terminal.
 - [A Raycast confetti shell command](https://www.stefanjudis.com/notes/a-raycast-confetti-shell-command/) 👤 stefanjudis.com 💬 119 🔖 #cli 🗓️ 2025-11-16

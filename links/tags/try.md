@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 67
+- Всего ссылок: 68
 
 ## Ссылки
 
+- [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11
+    > **Резюме:** Claude Code and Agent Browser let you test web apps by controlling a real browser from the terminal without hardcoding selectors. Claude clicks, fills forms, and checks for errors, then gives a structured bug report. This setup runs locally and can be integrated into CI workflows for automated QA on pull requests.
 - [Bliki: Architecture Decision Record](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html) 👤 Martin Fowler 💬 801 🔖 #try, #docs, #architecture 🗓️ 2026-03-24
     > **Резюме:** An Architecture Decision Record (ADR) is a short document that explains one important decision in a project, including why it was made and its effects. ADRs should be brief, stored with the code, and never changed once accepted, only replaced by a new record. They help teams keep a clear history of decisions and improve communication and alignment.
 - [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything) 👤 Simon Willison 💬 523 🔖 #llm, #try, #learning 🗓️ 2026-02-25

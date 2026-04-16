@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/) 👤 James Bennett 💬 6431 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-04-10
+    > **Резюме:** Large language models (LLMs) have not yet delivered huge improvements in coding speed or quality. They also do not make programming easy for non-experts and require real skill to use well. Overall, LLMs are helpful tools but not a magic solution for software development.
 - [Engineering Managers are going to hate OpenClaw](https://newsletter.manager.dev/p/engineering-managers-are-going-to-hate-openclaw) 👤 Anton Zaides 💬 1635 🔖 #claws, #predictions 🗓️ 2026-04-07
     > **Резюме:** A ChatGPT-like wave of hype is about to hit us, and you should be afraid
 - [AI as economic warfare](https://ghuntley.com/warfare/) 👤 Geoffrey Huntley 💬 753 🔖 #llm, #foss, #predictions 🗓️ 2026-03-16
