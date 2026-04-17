@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 68
+- Всего ссылок: 69
 
 ## Ссылки
 
+- [Codex for (almost) everything | OpenAI](https://openai.com/index/codex-for-almost-everything/) 👤 OpenAI 💬 11 🔖 #try, #codex 🗓️ 2026-04-16
+    > **Резюме:** The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.
 - [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11
     > **Резюме:** Claude Code and Agent Browser let you test web apps by controlling a real browser from the terminal without hardcoding selectors. Claude clicks, fills forms, and checks for errors, then gives a structured bug report. This setup runs locally and can be integrated into CI workflows for automated QA on pull requests.
 - [Bliki: Architecture Decision Record](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html) 👤 Martin Fowler 💬 801 🔖 #try, #docs, #architecture 🗓️ 2026-03-24

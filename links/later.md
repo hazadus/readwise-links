@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 124
+- Всего ссылок: 125
 
 ## Ссылки
 
+- [Codex for (almost) everything | OpenAI](https://openai.com/index/codex-for-almost-everything/) 👤 OpenAI 💬 11 🔖 #try, #codex 🗓️ 2026-04-16
+    > **Резюме:** The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.
 - [Back to the roots](https://www.francksauer.com/index.php/about/my-workspace) 👤 Super User 💬 1383 🗓️ 2026-04-15
     > **Резюме:** The author grew up surrounded by electronics and discovered a passion for computers with the Ti-99/4a and Commodore 64. He worked in game development and music, building home studios and offices over the years. Later, after personal changes, he returned to his roots in computer graphics and created a museum for his vintage computers.
 - [Squash and Stretch](https://www.joshwcomeau.com/animation/squash-and-stretch/) 👤 Josh W. Comeau 💬 1457 🔖 #css 🗓️ 2026-04-13
