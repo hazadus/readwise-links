@@ -1,9 +1,16 @@
 # Отложенные ссылки
 
-- Всего ссылок: 125
+- Всего ссылок: 127
 
 ## Ссылки
 
+- [You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude) 👤 Logan Thorneloe 💬 3456 🗓️ 2026-04-18
+    > **Заметка:** Via HN
+    > **Резюме:** You can run capable coding AI locally for much less than $100/month by upgrading your hardware.  
+Local models need careful memory and tool choices, but even small models work well for most developer tasks.  
+They save money and offer flexibility, though top cloud models can still be stronger on hard problems.
+- [Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/) 👤 seangoedecke.com RSS feed 💬 1279 🗓️ 2026-04-18
+    > **Резюме:** Many anti-AI arguments use ideas that sound left-wing but actually come from conservative thinking. The author thinks AI has both good and bad effects, especially on jobs and the environment. The debate about AI is mixed and may change as political views shift.
 - [Codex for (almost) everything | OpenAI](https://openai.com/index/codex-for-almost-everything/) 👤 OpenAI 💬 11 🔖 #try, #codex 🗓️ 2026-04-16
     > **Резюме:** The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.
 - [Back to the roots](https://www.francksauer.com/index.php/about/my-workspace) 👤 Super User 💬 1383 🗓️ 2026-04-15

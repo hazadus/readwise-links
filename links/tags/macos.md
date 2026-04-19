@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 32
+- Всего ссылок: 33
 
 ## Ссылки
 
+- [OpenAI Unveils Codex “Superapp” Update with Computer Use, Automations, Built-In Browser, and More](https://www.macstories.net/news/openai-unveils-codex-superapp-update-with-computer-use-automations-built-in-browser-and-more/) 👤 John Voorhees 💬 1044 🔖 #codex, #macos 🗓️ 2026-04-16
+    > **Резюме:** OpenAI updated Codex to do more than coding by adding tools for productivity, automations, and a built-in browser. The app can now control desktop apps, use many plugins, and learn user preferences to offer smart suggestions. These features aim to help users manage tasks and work more efficiently in one app.
 - [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) 👤 Arhan Chaudhary 💬 542 🔖 #toot, #macos, #swift 🗓️ 2026-04-10
     > **Заметка:** Отличный способ убрать надоедливую анимацию при переключении рабочих столов
     > **Резюме:** MacOS does not allow instant space switching without annoying animations, which many users dislike. The author found a simple app called InstantSpaceSwitcher that switches spaces instantly without disabling security features. This app is easy to install, works natively, and offers a command line interface.
