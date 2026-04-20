@@ -1,10 +1,12 @@
 # Архивные ссылки
 
-- Всего ссылок: 1556
+- Всего ссылок: 1563
 
 ## Ссылки
 
 - [Exploratory QA with AI Agents: Building a Site-Agnostic Harness](https://alexop.dev/posts/exploratory-qa-ai-agents-site-agnostic-harness/) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2529 🔖 #codex, #agents, #claude, #testing, #frontend 🗓️ 2026-04-19
+- [Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/) 👤 seangoedecke.com RSS feed 💬 1279 🔖 #llm 🗓️ 2026-04-18
+- [Codex for (almost) everything | OpenAI](https://openai.com/index/codex-for-almost-everything/) 👤 OpenAI 💬 11 🔖 #try, #codex 🗓️ 2026-04-16
 - [OpenAI Unveils Codex “Superapp” Update with Computer Use, Automations, Built-In Browser, and More](https://www.macstories.net/news/openai-unveils-codex-superapp-update-with-computer-use-automations-built-in-browser-and-more/) 👤 John Voorhees 💬 1044 🔖 #codex, #macos 🗓️ 2026-04-16
 - [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html) 👤 Lewis Campbell's Blog 💬 617 🔖 #agile, #llm-devimpact 🗓️ 2026-04-14
 - [My Workspaces](https://brainbaking.com/post/2026/04/my-workspaces/) 👤 Wouter Groeneveld 💬 1091 🗓️ 2026-04-14
@@ -22,6 +24,7 @@
 - [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) 👤 Wouter Groeneveld 💬 2840 🔖 #learning, #llm-devimpact, #llm-resistance 🗓️ 2026-04-08
 - [Cycles of disruption in the tech industry: with software pioneers Kent Beck & Martin Fowler](https://newsletter.pragmaticengineer.com/p/cycles-of-disruption-in-the-tech) 👤 Gergely Orosz 💬 2527 🔖 #llm-devimpact 🗓️ 2026-04-07
 - [Embedding SF Symbols in SwiftUI Text](https://nilcoalescing.com/blog/EmbeddingSFSymbolsInSwiftUIText) 👤 Nil Coalescing 💬 434 🔖 #swift 🗓️ 2026-04-06
+- [Explainer: AppKit and SwiftUI](https://eclecticlight.co/2026/04/04/explainer-appkit-and-swiftui/) 👤 hoakley 💬 883 🔖 #macos, #swift, #appkit 🗓️ 2026-04-04
 - [Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) 👤 seangoedecke.com RSS feed 💬 1545 🔖 #llm, #llm-devimpact 🗓️ 2026-04-03
 - [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) 👤 Matheus Lima 💬 847 🔖 #career, #management, #communication 🗓️ 2026-04-01
 - [The AI-Ready Software Developer #23 – Speaking Clearly](https://codemanship.wordpress.com/2026/04/01/the-ai-ready-software-developer-23-speaking-clearly/) 👤 codemanship 💬 715 🔖 #llm-devimpact 🗓️ 2026-04-01
@@ -30,6 +33,7 @@
 - [Playing in the Mac App Sandbox](https://troz.net/post/2026/playing_mac_sandbox/) 👤 Sarah Reichelt 💬 3285 🔖 #macos 🗓️ 2026-03-31
 - [Working on products people hate](https://seangoedecke.com/working-on-products-people-hate/) 👤 seangoedecke.com RSS feed 💬 1014 🔖 #career 🗓️ 2026-03-28
 - [Vibe coding SwiftUI apps is a lot of fun](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything) 👤 Simon Willison's Weblog 💬 932 🔖 #macos, #swift 🗓️ 2026-03-27
+- [The SwiftUI Way: patterns and anti-patterns for production apps](https://nilcoalescing.com/blog/TheSwiftUIWayReleaseAnnouncement/) 👤 Natalia Panferova 💬 344 🔖 #book, #swift 🗓️ 2026-03-26
 - [Платные LLM против локальной модели на бытовом ноутбуке — велика ли разница?](https://www.youtube.com/watch?v=1GEML055VNE) 👤 Диджитализируй! 🔖 #llm 🗓️ 2026-03-26
 - [Engineers do get promoted for writing simple code](https://seangoedecke.com/simple-work-gets-rewarded/) 👤 seangoedecke.com RSS feed 💬 1034 🔖 #career 🗓️ 2026-03-26
 - [Astro Crash Course #1 - Why Astro? (& Setup)](https://www.youtube.com/watch?v=CF3drb6H3Yw) 👤 Net Ninja 🔖 #astro 🗓️ 2026-03-25
@@ -90,6 +94,7 @@
 - [Linear walkthroughs - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything) 👤 Simon Willison 💬 523 🔖 #llm, #try, #learning 🗓️ 2026-02-25
 - [KMP, XCode и 5% мазохистов: как мы писали AI-агентов на 4 платформы](https://habr.com/ru/articles/1002744/) 👤 arturdumchev 💬 2202 🗓️ 2026-02-24
 - [Taking action against AI harms](https://www.anildash.com/2026/02/23/taking-action-ai-harms/) 👤 Anil Dash 💬 1913 🔖 #llm 🗓️ 2026-02-24
+- [How does macOS keep its log?](https://eclecticlight.co/2026/02/23/how-does-macos-keep-its-log/) 👤 The Eclectic Light Company 💬 712 🔖 #macos 🗓️ 2026-02-24
 - [Insider amnesia](https://www.seangoedecke.com/insider-amnesia/) 👤 seangoedecke.com 💬 465 🗓️ 2026-02-24
 - [What's so hard about continuous learning?](https://www.seangoedecke.com/continuous-learning/) 👤 seangoedecke.com 💬 1673 🔖 #llm 🗓️ 2026-02-24
 - [You're tired because your AI has no feedback loop](https://siddhantkhare.com/writing/why-your-ai-agent-keeps-failing) 👤 Siddhant Khare 💬 2074 🔖 #llm, #llm-devimpact 🗓️ 2026-02-24
@@ -108,6 +113,7 @@
 - [You are not left behind](https://www.ufried.com/blog/not_left_behind/) 👤 Uwe Friedrichsen 💬 3474 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-21
 - [Farewell, Rust](https://yieldcode.blog/post/farewell-rust/) 👤 Dmitry Kudryavtsev 💬 2784 🔖 #rust 🗓️ 2026-02-21
 - [The Coding Agent Is Dead](https://ampcode.com/news/the-coding-agent-is-dead) 👤 ampcode.com 💬 546 🔖 #amp, #llm, #agents, #predictions 🗓️ 2026-02-20
+- [Isolate SwiftUI animations to specific attributes](https://nilcoalescing.com/blog/IsolateSwiftUIAnimationsToSpecificAttributes) 👤 Natalia Panferova 💬 478 🔖 #macos, #swift 🗓️ 2026-02-18
 - [How did we end up threatening our kids’ lives with AI?](https://anildash.com/2026/02/18/threatening-kids-with-AI/) 👤 Anil Dash 💬 2983 🔖 #llm 🗓️ 2026-02-18
 - [The bare minimum for syncing Git repos](https://alexwlchan.net/2026/bare-git/?ref=rss) 👤 alexwlchan.net 💬 1104 🔖 #git 🗓️ 2026-02-18
 - [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) 👤 Siddhant Khare 💬 3878 🔖 #llm, #toot, #learning, #llm-fatigue, #llm-devimpact 🗓️ 2026-02-17
@@ -120,6 +126,7 @@
 - [Deep Blue](https://simonwillison.net/2026/Feb/15/deep-blue/#atom-everything) 👤 Simon Willison 💬 961 🔖 #llm, #definitions, #llm-devimpact 🗓️ 2026-02-17
 - [On-demand learning is ruining the tech industry.](https://www.jernesto.com/articles/learning) 👤 jernesto.com 💬 1454 🔖 #learning 🗓️ 2026-02-16
 - [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://margaretstorey.com/blog/2026/02/09/cognitive-debt/) 👤 on 09 Feb 2026 💬 852 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
+- [Last Week on My Mac: Why E cores make Apple silicon fast](https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/?utm_source=tldrdev) 👤 The Eclectic Light Company 💬 904 🔖 #macos 🗓️ 2026-02-15
 - [Stop generating, start thinking](https://localghost.dev/blog/stop-generating-start-thinking/?utm_source=tldrdev) 👤 localghost 💬 1649 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
 - [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents?utm_source=substack&utm_medium=email) 👤 crawshaw.io 💬 1551 🔖 #llm, #predictions, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
 - [I miss thinking hard.](https://www.jernesto.com/articles/thinking_hard?utm_source=substack&utm_medium=email) 👤 jernesto.com 💬 1057 🔖 #learning, #reflections, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15

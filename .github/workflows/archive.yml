@@ -35,6 +35,18 @@ jobs:
         run: |
           uv run ./app/main.py --api-key "$API_KEY"
 
+      - name: Run triage script
+        env:
+          API_KEY: ${{ secrets.READWISE_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          uv run ./app/triage.py --api-key "$API_KEY" --openrouter-key "$OPENROUTER_API_KEY"
+
+      - name: Копировать данные в assets фронтенда
+        run: |
+          cp data/articles.json web/src/assets/articles.json
+          cp data/triage.json web/src/assets/triage.json
+
       - name: Commit and push
         run: |-
           git config user.name "Automated"

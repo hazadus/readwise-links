@@ -40,6 +40,15 @@
               class="px-3 py-1 rounded-md hover:bg-gray-700 transition-colors flex items-center"
               active-class="bg-gray-700 font-medium"
               exact
+              >🤖 Подборки</router-link
+            >
+          </li>
+          <li class="flex items-center">
+            <router-link
+              to="/archive"
+              class="px-3 py-1 rounded-md hover:bg-gray-700 transition-colors flex items-center"
+              active-class="bg-gray-700 font-medium"
+              exact
               >Архив ссылок</router-link
             >
           </li>

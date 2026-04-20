@@ -32,9 +32,10 @@ declare interface ReadwiseDocument {
   first_opened_at: string | null;
   last_opened_at: string | null;
   last_moved_at: string;
-  // Эти два поля мы добавляем в своём Python-скрипте:
+  // Эти поля мы добавляем в своих Python-скриптах:
   highlights?: ReadwiseDocument[];
   notes_attached?: ReadwiseDocument[];
+  triage?: TriageData;
 }
 
 // Определяем тип для поста (ссылки на статьи и книги) в Readwise Reader
@@ -43,4 +44,36 @@ type Article = ReadwiseDocument;
 declare module "@/assets/articles.json" {
   const articles: Article[];
   export default articles;
+}
+
+interface TriageData {
+  is_tutorial: boolean;
+  is_foundational: boolean;
+  is_evergreen: boolean;
+  interest_score: number;
+}
+
+interface TriageArticle extends ReadwiseDocument {
+  triage: TriageData;
+}
+
+interface TriageCollections {
+  top: TriageArticle[];
+  quick_wins: TriageArticle[];
+  deep_reading: TriageArticle[];
+  tutorials: TriageArticle[];
+  fundamentals: TriageArticle[];
+  timely: TriageArticle[];
+  shortest: TriageArticle[];
+}
+
+interface TriageJson {
+  generated_at: string;
+  interests_hash: string;
+  collections: TriageCollections;
+}
+
+declare module "@/assets/triage.json" {
+  const triage: TriageJson;
+  export default triage;
 }

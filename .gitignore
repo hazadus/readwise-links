@@ -70,3 +70,4 @@ wheels/
 .env.production.local
 .ruff_cache/
 *.secret
+.claude

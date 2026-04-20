@@ -71,20 +71,36 @@ const sortHighlights = (highlights: ReadwiseDocument[]) => {
     <div class="border-b border-gray-200 bg-gray-50 px-4 py-3">
       <div class="flex flex-wrap items-start justify-between">
         <div class="flex-1 min-w-0">
-          <a
-            v-if="article.source_url"
-            :href="article.source_url"
-            class="text-lg font-semibold text-blue-600 hover:text-blue-800 hover:underline break-words"
-            target="_blank"
-            >{{ article.title }}</a
-          >
-          <a
-            v-else
-            :href="article.url"
-            class="text-lg font-semibold text-blue-600 hover:text-blue-800 hover:underline break-words"
-            target="_blank"
-            >{{ article.title }}</a
-          >
+          <span class="flex flex-wrap items-baseline gap-2">
+            <a
+              v-if="article.source_url"
+              :href="article.source_url"
+              class="text-lg font-semibold text-blue-600 hover:text-blue-800 hover:underline break-words"
+              target="_blank"
+              >{{ article.title }}</a
+            >
+            <a
+              v-else
+              :href="article.url"
+              class="text-lg font-semibold text-blue-600 hover:text-blue-800 hover:underline break-words"
+              target="_blank"
+              >{{ article.title }}</a
+            >
+            <a
+              :href="article.url"
+              target="_blank"
+              class="text-xs text-gray-400 hover:text-gray-600 whitespace-nowrap"
+              title="Открыть в Readwise Reader"
+              >📖 Reader</a
+            >
+            <span
+              v-if="article.triage"
+              class="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-semibold bg-amber-100 text-amber-800 whitespace-nowrap"
+              title="Оценка интереса (1–10)"
+            >
+              ★ {{ article.triage.interest_score }}
+            </span>
+          </span>
           <div class="mt-1 flex items-center text-sm text-gray-600">
             <svg
               class="h-4 w-4 mr-1"

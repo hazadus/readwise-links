@@ -34,6 +34,8 @@ def create_markdown_report(
         report += "## Ссылки\n\n"
 
     for doc in documents:
+        source_url = doc.source_url or doc.url
+        reader_link = f" [📖]({doc.url})" if doc.url != source_url else ""
         author = f" 👤 {doc.author}" if doc.author else ""
 
         tags_text = ""
@@ -56,7 +58,7 @@ def create_markdown_report(
         saved_at = doc.saved_at.strftime(" 🗓️ %Y-%m-%d")
 
         report += (
-            f"- [{doc.title}]({doc.source_url}){author}{word_count}{tags_text}{saved_at}\n"
+            f"- [{doc.title}]({source_url}){reader_link}{author}{word_count}{tags_text}{saved_at}\n"
             f"{notes}"
             f"{summary}"
         )
