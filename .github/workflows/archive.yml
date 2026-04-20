@@ -42,6 +42,11 @@ jobs:
         run: |
           uv run ./app/triage.py --api-key "$API_KEY" --openrouter-key "$OPENROUTER_API_KEY"
 
+      - name: Копировать данные в assets фронтенда
+        run: |
+          cp data/articles.json web/src/assets/articles.json
+          cp data/triage.json web/src/assets/triage.json
+
       - name: Commit and push
         run: |-
           git config user.name "Automated"

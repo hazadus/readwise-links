@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from "vue-router";
 import About from "../views/About.vue";
 import Home from "../views/Home.vue";
+import Triage from "../views/Triage.vue";
 
 const router = createRouter({
   // Для корректной работы с GitHub Pages
@@ -8,6 +9,11 @@ const router = createRouter({
   routes: [
     {
       path: "/",
+      name: "triage",
+      component: Triage,
+    },
+    {
+      path: "/archive",
       name: "home",
       component: Home,
     },
