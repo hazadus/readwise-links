@@ -14,7 +14,7 @@
 
 ---
 
-- [ ] **2. OpenRouter-клиент (`app/services/openrouter.py`)**
+- [x] **2. OpenRouter-клиент (`app/services/openrouter.py`)**
 
   Реализовать функцию `analyze_article(text, interests, openrouter_key) -> dict`, которая:
   - отправляет POST-запрос к OpenRouter API (модель `google/gemini-2.5-pro-exp-03-25:free`)
