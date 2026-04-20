@@ -114,7 +114,7 @@ def build_collections(
         a, _ = pair
         return (-t["interest_score"], -(a.word_count or 0))
 
-    top = sorted(enriched, key=score_sort)[:10]
+    top = sorted(enriched, key=score_sort)[:20]
 
     shortest = sorted(
         [
@@ -123,7 +123,7 @@ def build_collections(
             if not t["is_tutorial"] and not t["is_foundational"]
         ],
         key=lambda p: (p[0].word_count or 999999),
-    )[:10]
+    )[:30]
 
     quick_wins = sorted(
         [

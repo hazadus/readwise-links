@@ -97,8 +97,8 @@
 
 | Подборка | Файл | Критерий отбора |
 |---|---|---|
-| Топ рекомендаций | `links/triage/top.md` | top 10 по `interest_score`, любой тип |
-| 10 самых коротких | `links/triage/shortest.md` | `!is_tutorial`, `!is_foundational`, `word_count` ASC |
+| Топ рекомендаций | `links/triage/top.md` | top 20 по `interest_score`, любой тип |
+| 30 самых коротких | `links/triage/shortest.md` | `!is_tutorial`, `!is_foundational`, `word_count` ASC |
 | Быстрые победы | `links/triage/quick-wins.md` | `!is_tutorial`, `word_count < 800`, top 10 по `interest_score` |
 | Глубокое чтение | `links/triage/deep-reading.md` | `!is_tutorial`, `word_count > 1500` |
 | Руководства | `links/triage/tutorials.md` | `is_tutorial = true` |
