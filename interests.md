@@ -25,3 +25,4 @@
   • open-source ли реализация
   • какая документация
   • как встроить в workflow
+- Авторы, которые всегда интересны: Simon Willison, Sean Goedecke, Harper Reed, Armin Ronacher
