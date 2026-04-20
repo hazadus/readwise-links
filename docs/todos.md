@@ -59,7 +59,7 @@
 
 ---
 
-- [ ] **5. Генерация `data/triage.json`**
+- [x] **5. Генерация `data/triage.json`**
 
   Добавить в `triage.py` генерацию `data/triage.json`:
   - загружает `data/articles.json` для обогащения статей `highlights`

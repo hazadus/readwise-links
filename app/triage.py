@@ -26,6 +26,8 @@ from services.readwise import fetch_reader_document_list_api
 ROOT_DIR = Path(__file__).parent.parent
 INTERESTS_FILE = ROOT_DIR / "interests.md"
 CACHE_FILE = ROOT_DIR / "data" / "triage_cache.json"
+TRIAGE_JSON = ROOT_DIR / "data" / "triage.json"
+ARTICLES_JSON = ROOT_DIR / "web" / "src" / "assets" / "articles.json"
 TRIAGE_DIR = ROOT_DIR / "links" / "triage"
 
 TEXT_LIMIT = 25_000
@@ -238,6 +240,76 @@ def write_markdown_reports(
         print(f"   📝 {filename}: {len(pairs)} статей")
 
 
+def load_articles_lookup() -> dict[str, dict]:
+    """Загружает articles.json и возвращает dict id → enriched_article."""
+    if not ARTICLES_JSON.exists():
+        print(f"⚠️  {ARTICLES_JSON} не найден, highlights не будут включены.")
+        return {}
+    try:
+        articles = json.loads(ARTICLES_JSON.read_text(encoding="utf-8"))
+        return {a["id"]: a for a in articles}
+    except (json.JSONDecodeError, KeyError, OSError) as e:
+        print(f"⚠️  Не удалось загрузить articles.json: {e}")
+        return {}
+
+
+def build_article_json(
+    article: ReadwiseDocument,
+    triage: dict,
+    enriched: dict,
+) -> dict:
+    """Собирает объект статьи для triage.json: поля для ArticleCard + блок triage."""
+    return {
+        "id": article.id,
+        "url": article.url,
+        "source_url": article.source_url,
+        "title": article.title,
+        "author": article.author,
+        "image_url": article.image_url,
+        "word_count": article.word_count,
+        "summary": article.summary,
+        "notes": article.notes,
+        "tags": article.tags,
+        "highlights": enriched.get("highlights") or [],
+        "saved_at": article.saved_at.isoformat() if article.saved_at else None,
+        "last_moved_at": (
+            article.last_moved_at.isoformat() if article.last_moved_at else None
+        ),
+        "published_date": article.published_date,
+        "triage": triage,
+    }
+
+
+def write_triage_json(
+    collections: dict[str, list[tuple[ReadwiseDocument, dict]]],
+    interests_hash: str,
+    generated_at: datetime,
+) -> None:
+    """Записывает data/triage.json для фронтенда."""
+    print(f"\n💾 Загружаю articles.json для обогащения highlights...")
+    lookup = load_articles_lookup()
+    print(f"   Загружено {len(lookup)} статей из articles.json.")
+
+    result: dict = {
+        "generated_at": generated_at.isoformat(),
+        "interests_hash": interests_hash,
+        "collections": {},
+    }
+
+    for key, pairs in collections.items():
+        result["collections"][key] = [
+            build_article_json(article, triage, lookup.get(article.id, {}))
+            for article, triage in pairs
+        ]
+
+    TRIAGE_JSON.parent.mkdir(parents=True, exist_ok=True)
+    TRIAGE_JSON.write_text(
+        json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    total = sum(len(v) for v in result["collections"].values())
+    print(f"   ✅ Сохранено → {TRIAGE_JSON} ({total} позиций в коллекциях).")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Триаж списка Later из Readwise")
     parser.add_argument("--api-key", required=True, help="Readwise API ключ")
@@ -338,15 +410,19 @@ def main():
         f"из кэша: {skipped}, всего в кэше: {len(cache['articles'])}."
     )
 
-    # Формируем и записываем подборки
-    print("\n📂 Генерирую Markdown-отчёты...")
+    # Формируем подборки и записываем отчёты
     generated_at = datetime.now(tz=timezone.utc)
     collections = build_collections(articles, cache)
+
+    print("\n📂 Генерирую Markdown-отчёты...")
     write_markdown_reports(collections, generated_at)
+
+    write_triage_json(collections, interests_hash, generated_at)
 
     total_in_collections = sum(len(v) for v in collections.values())
     print(
-        f"\n🎉 Готово! Подборки сохранены в {TRIAGE_DIR}/ (всего позиций: {total_in_collections})."
+        f"\n🎉 Готово! Подборки сохранены в {TRIAGE_DIR}/ и {TRIAGE_JSON} "
+        f"(всего позиций: {total_in_collections})."
     )
 
 

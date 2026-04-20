@@ -1,0 +1,361 @@
+{
+  "generated_at": "2026-04-20T18:23:48.094435+00:00",
+  "interests_hash": "70ce46a95c3c2470169b5477d38ff8cb",
+  "collections": {
+    "top": [
+      {
+        "id": "01kpfqsqcjj1pc8g79r2pe4g8p",
+        "url": "https://read.readwise.io/read/01kpfqsqcjj1pc8g79r2pe4g8p",
+        "source_url": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
+        "title": "You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models",
+        "author": "Logan Thorneloe",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!fARn!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb194c53f-7b2b-4f74-942b-5cf1c59b32aa_1920x1080.jpeg",
+        "word_count": 3456,
+        "summary": "You can run capable coding AI locally for much less than $100/month by upgrading your hardware.  \nLocal models need careful memory and tool choices, but even small models work well for most developer tasks.  \nThey save money and offer flexibility, though top cloud models can still be stronger on hard problems.",
+        "notes": "Via HN",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-18T07:27:33.779000+00:00",
+        "last_moved_at": "2026-04-18T07:27:39.860000+00:00",
+        "published_date": "2025-12-20",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01kpk6w3rd5extz9ay7g099743",
+        "url": "https://read.readwise.io/read/01kpk6w3rd5extz9ay7g099743",
+        "source_url": "https://www.securitylab.ru/blog/personal/Techno_Obzor/360094.php",
+        "title": "AmneziaWG 2.0: как работает полная мимикрия трафика и чем она лучше обычной маскировки",
+        "author": "Alexander Antipov",
+        "image_url": "http://www.securitylab.ru/upload/blog/avatar/0d9/hepz13em2g55dme8lnad4j6lr4uk827i.jpg",
+        "word_count": 1350,
+        "summary": "AmneziaWG 2.0 improves traffic disguise by making VPN data look more like normal network traffic, but it does not make it completely invisible. The new version is more complex and harder to detect, yet it requires new configurations and can slow down connections. This update is a big step forward but not a final solution against deep traffic analysis.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-19T15:48:43.917000+00:00",
+        "last_moved_at": "2026-04-19T15:48:46.951000+00:00",
+        "published_date": "2026-03-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kpmngdv5pg97fgh18ytem7jz",
+        "url": "https://read.readwise.io/read/01kpmngdv5pg97fgh18ytem7jz",
+        "source_url": "https://qwelian.com/posts/FINE_SHYT_Intelligent_Curation_Tagging_for_Creative_Workflows",
+        "title": "Intelligent Curation Tagging for Creative Workflows",
+        "author": "qwelian.com",
+        "image_url": "",
+        "word_count": 3370,
+        "summary": "This system helps organize large photo archives by using AI to describe and rate images based on personal taste. It works in stages, analyzing technical quality, extracting metadata, and learning from user ratings to improve recommendations. Ultimately, the AI supports but does not replace human judgment in choosing which photos to keep or export.",
+        "notes": "Via HN",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-20T05:23:44.100000+00:00",
+        "last_moved_at": "2026-04-20T05:23:48.382000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01kp3krh1pjhbemz69pnxdac1c",
+        "url": "https://read.readwise.io/read/01kp3krh1pjhbemz69pnxdac1c",
+        "source_url": "https://www.joshwcomeau.com/animation/squash-and-stretch/",
+        "title": "Squash and Stretch",
+        "author": "Josh W. Comeau",
+        "image_url": "https://www.joshwcomeau.com/favicon.png",
+        "word_count": 1457,
+        "summary": "The squash and stretch animation technique makes objects look more lively by changing their shape during motion. Josh Comeau shows how to use this effect on SVG arrows for web interactions, using CSS or JavaScript for smooth transitions. He also offers a course called Whimsical Animations to teach advanced animation skills for web developers.",
+        "notes": "",
+        "tags": {
+          "css": {
+            "name": "CSS",
+            "type": "manual",
+            "created": 1776150362646
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-13T14:26:04.031000+00:00",
+        "last_moved_at": "2026-04-14T07:05:54.726000+00:00",
+        "published_date": "2026-04-13",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kp83vzf648ky7t3fw1jg94y6",
+        "url": "https://read.readwise.io/read/01kp83vzf648ky7t3fw1jg94y6",
+        "source_url": "https://www.francksauer.com/index.php/about/my-workspace",
+        "title": "Back to the roots",
+        "author": "Super User",
+        "image_url": null,
+        "word_count": 1383,
+        "summary": "The author grew up surrounded by electronics and discovered a passion for computers with the Ti-99/4a and Commodore 64. He worked in game development and music, building home studios and offices over the years. Later, after personal changes, he returned to his roots in computer graphics and created a museum for his vintage computers.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-15T08:24:35.046000+00:00",
+        "last_moved_at": "2026-04-15T08:24:39.912000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      }
+    ],
+    "shortest": [
+      {
+        "id": "01kpk6w3rd5extz9ay7g099743",
+        "url": "https://read.readwise.io/read/01kpk6w3rd5extz9ay7g099743",
+        "source_url": "https://www.securitylab.ru/blog/personal/Techno_Obzor/360094.php",
+        "title": "AmneziaWG 2.0: как работает полная мимикрия трафика и чем она лучше обычной маскировки",
+        "author": "Alexander Antipov",
+        "image_url": "http://www.securitylab.ru/upload/blog/avatar/0d9/hepz13em2g55dme8lnad4j6lr4uk827i.jpg",
+        "word_count": 1350,
+        "summary": "AmneziaWG 2.0 improves traffic disguise by making VPN data look more like normal network traffic, but it does not make it completely invisible. The new version is more complex and harder to detect, yet it requires new configurations and can slow down connections. This update is a big step forward but not a final solution against deep traffic analysis.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-19T15:48:43.917000+00:00",
+        "last_moved_at": "2026-04-19T15:48:46.951000+00:00",
+        "published_date": "2026-03-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kp83vzf648ky7t3fw1jg94y6",
+        "url": "https://read.readwise.io/read/01kp83vzf648ky7t3fw1jg94y6",
+        "source_url": "https://www.francksauer.com/index.php/about/my-workspace",
+        "title": "Back to the roots",
+        "author": "Super User",
+        "image_url": null,
+        "word_count": 1383,
+        "summary": "The author grew up surrounded by electronics and discovered a passion for computers with the Ti-99/4a and Commodore 64. He worked in game development and music, building home studios and offices over the years. Later, after personal changes, he returned to his roots in computer graphics and created a museum for his vintage computers.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-15T08:24:35.046000+00:00",
+        "last_moved_at": "2026-04-15T08:24:39.912000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      }
+    ],
+    "quick_wins": [],
+    "deep_reading": [
+      {
+        "id": "01kpmngdv5pg97fgh18ytem7jz",
+        "url": "https://read.readwise.io/read/01kpmngdv5pg97fgh18ytem7jz",
+        "source_url": "https://qwelian.com/posts/FINE_SHYT_Intelligent_Curation_Tagging_for_Creative_Workflows",
+        "title": "Intelligent Curation Tagging for Creative Workflows",
+        "author": "qwelian.com",
+        "image_url": "",
+        "word_count": 3370,
+        "summary": "This system helps organize large photo archives by using AI to describe and rate images based on personal taste. It works in stages, analyzing technical quality, extracting metadata, and learning from user ratings to improve recommendations. Ultimately, the AI supports but does not replace human judgment in choosing which photos to keep or export.",
+        "notes": "Via HN",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-20T05:23:44.100000+00:00",
+        "last_moved_at": "2026-04-20T05:23:48.382000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 7
+        }
+      }
+    ],
+    "tutorials": [
+      {
+        "id": "01kpfqsqcjj1pc8g79r2pe4g8p",
+        "url": "https://read.readwise.io/read/01kpfqsqcjj1pc8g79r2pe4g8p",
+        "source_url": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
+        "title": "You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models",
+        "author": "Logan Thorneloe",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!fARn!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb194c53f-7b2b-4f74-942b-5cf1c59b32aa_1920x1080.jpeg",
+        "word_count": 3456,
+        "summary": "You can run capable coding AI locally for much less than $100/month by upgrading your hardware.  \nLocal models need careful memory and tool choices, but even small models work well for most developer tasks.  \nThey save money and offer flexibility, though top cloud models can still be stronger on hard problems.",
+        "notes": "Via HN",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-18T07:27:33.779000+00:00",
+        "last_moved_at": "2026-04-18T07:27:39.860000+00:00",
+        "published_date": "2025-12-20",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01kp3krh1pjhbemz69pnxdac1c",
+        "url": "https://read.readwise.io/read/01kp3krh1pjhbemz69pnxdac1c",
+        "source_url": "https://www.joshwcomeau.com/animation/squash-and-stretch/",
+        "title": "Squash and Stretch",
+        "author": "Josh W. Comeau",
+        "image_url": "https://www.joshwcomeau.com/favicon.png",
+        "word_count": 1457,
+        "summary": "The squash and stretch animation technique makes objects look more lively by changing their shape during motion. Josh Comeau shows how to use this effect on SVG arrows for web interactions, using CSS or JavaScript for smooth transitions. He also offers a course called Whimsical Animations to teach advanced animation skills for web developers.",
+        "notes": "",
+        "tags": {
+          "css": {
+            "name": "CSS",
+            "type": "manual",
+            "created": 1776150362646
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-13T14:26:04.031000+00:00",
+        "last_moved_at": "2026-04-14T07:05:54.726000+00:00",
+        "published_date": "2026-04-13",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 2
+        }
+      }
+    ],
+    "fundamentals": [
+      {
+        "id": "01kpfqsqcjj1pc8g79r2pe4g8p",
+        "url": "https://read.readwise.io/read/01kpfqsqcjj1pc8g79r2pe4g8p",
+        "source_url": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
+        "title": "You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models",
+        "author": "Logan Thorneloe",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!fARn!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb194c53f-7b2b-4f74-942b-5cf1c59b32aa_1920x1080.jpeg",
+        "word_count": 3456,
+        "summary": "You can run capable coding AI locally for much less than $100/month by upgrading your hardware.  \nLocal models need careful memory and tool choices, but even small models work well for most developer tasks.  \nThey save money and offer flexibility, though top cloud models can still be stronger on hard problems.",
+        "notes": "Via HN",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-18T07:27:33.779000+00:00",
+        "last_moved_at": "2026-04-18T07:27:39.860000+00:00",
+        "published_date": "2025-12-20",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01kpmngdv5pg97fgh18ytem7jz",
+        "url": "https://read.readwise.io/read/01kpmngdv5pg97fgh18ytem7jz",
+        "source_url": "https://qwelian.com/posts/FINE_SHYT_Intelligent_Curation_Tagging_for_Creative_Workflows",
+        "title": "Intelligent Curation Tagging for Creative Workflows",
+        "author": "qwelian.com",
+        "image_url": "",
+        "word_count": 3370,
+        "summary": "This system helps organize large photo archives by using AI to describe and rate images based on personal taste. It works in stages, analyzing technical quality, extracting metadata, and learning from user ratings to improve recommendations. Ultimately, the AI supports but does not replace human judgment in choosing which photos to keep or export.",
+        "notes": "Via HN",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-20T05:23:44.100000+00:00",
+        "last_moved_at": "2026-04-20T05:23:48.382000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 7
+        }
+      }
+    ],
+    "timely": [
+      {
+        "id": "01kpfqsqcjj1pc8g79r2pe4g8p",
+        "url": "https://read.readwise.io/read/01kpfqsqcjj1pc8g79r2pe4g8p",
+        "source_url": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
+        "title": "You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models",
+        "author": "Logan Thorneloe",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!fARn!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb194c53f-7b2b-4f74-942b-5cf1c59b32aa_1920x1080.jpeg",
+        "word_count": 3456,
+        "summary": "You can run capable coding AI locally for much less than $100/month by upgrading your hardware.  \nLocal models need careful memory and tool choices, but even small models work well for most developer tasks.  \nThey save money and offer flexibility, though top cloud models can still be stronger on hard problems.",
+        "notes": "Via HN",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-18T07:27:33.779000+00:00",
+        "last_moved_at": "2026-04-18T07:27:39.860000+00:00",
+        "published_date": "2025-12-20",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01kpk6w3rd5extz9ay7g099743",
+        "url": "https://read.readwise.io/read/01kpk6w3rd5extz9ay7g099743",
+        "source_url": "https://www.securitylab.ru/blog/personal/Techno_Obzor/360094.php",
+        "title": "AmneziaWG 2.0: как работает полная мимикрия трафика и чем она лучше обычной маскировки",
+        "author": "Alexander Antipov",
+        "image_url": "http://www.securitylab.ru/upload/blog/avatar/0d9/hepz13em2g55dme8lnad4j6lr4uk827i.jpg",
+        "word_count": 1350,
+        "summary": "AmneziaWG 2.0 improves traffic disguise by making VPN data look more like normal network traffic, but it does not make it completely invisible. The new version is more complex and harder to detect, yet it requires new configurations and can slow down connections. This update is a big step forward but not a final solution against deep traffic analysis.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-19T15:48:43.917000+00:00",
+        "last_moved_at": "2026-04-19T15:48:46.951000+00:00",
+        "published_date": "2026-03-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kp83vzf648ky7t3fw1jg94y6",
+        "url": "https://read.readwise.io/read/01kp83vzf648ky7t3fw1jg94y6",
+        "source_url": "https://www.francksauer.com/index.php/about/my-workspace",
+        "title": "Back to the roots",
+        "author": "Super User",
+        "image_url": null,
+        "word_count": 1383,
+        "summary": "The author grew up surrounded by electronics and discovered a passion for computers with the Ti-99/4a and Commodore 64. He worked in game development and music, building home studios and offices over the years. Later, after personal changes, he returned to his roots in computer graphics and created a museum for his vintage computers.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-15T08:24:35.046000+00:00",
+        "last_moved_at": "2026-04-15T08:24:39.912000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      }
+    ]
+  }
+}
