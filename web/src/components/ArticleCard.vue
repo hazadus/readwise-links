@@ -98,7 +98,7 @@ const sortHighlights = (highlights: ReadwiseDocument[]) => {
               class="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-semibold bg-amber-100 text-amber-800 whitespace-nowrap"
               title="Оценка интереса (1–10)"
             >
-              ★ {{ article.triage.interest_score }}/10
+              ★ {{ article.triage.interest_score }}
             </span>
           </span>
           <div class="mt-1 flex items-center text-sm text-gray-600">

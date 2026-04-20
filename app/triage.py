@@ -176,7 +176,7 @@ def format_article_md(article: ReadwiseDocument, triage: dict) -> str:
     title = article.title or "(без заголовка)"
     author = f" 👤 {article.author}" if article.author else ""
     word_count = f" 💬 {article.word_count}" if article.word_count else ""
-    score = f" ⭐ {triage['interest_score']}/10"
+    score = f" ⭐ {triage['interest_score']}"
     saved_at = article.saved_at.strftime(" 🗓️ %Y-%m-%d") if article.saved_at else ""
     reader_link = f" [📖]({reader_url})" if reader_url != source_url else ""
 
