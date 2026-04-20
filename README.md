@@ -31,7 +31,7 @@ Reader объединяет в себе приложения нескольки�
 ## Как это работает?
 
 1. По расписанию каждую ночь запускается GitHub Action, который выполняет скрипт архивации ссылок.
-2. Скрипт:
+2. Скрипт архивации:
 
 - запрашивает через API Reader все материалы, сохраненные в моём профиле
 - форматирует полученную инфу в Markdown и сохраняет в файлы с разбивкой:
@@ -40,8 +40,14 @@ Reader объединяет в себе приложения нескольки�
 - сохраняет в файле формата JSON все ссылки с highlights и заметками к ним
   для использования в фронтовом приложении
 
-3. Action коммитит созданные файлы в репо.
-4. Запускается Action сборки и деплоя веб-приложения, которое собирается с использованием актуального JSON-файла с данными обо всех ссылках и деплоится на GitHub Pages.
+3. Скрипт триажа (`triage.py`) анализирует статьи из раздела «Отложенные» с помощью LLM (через OpenRouter API):
+
+- для каждой статьи LLM оценивает `is_tutorial`, `is_foundational`, `is_evergreen` и `interest_score` (1–10)
+- результаты кэшируются в `data/triage_cache.json`; кэш инвалидируется при изменении файла интересов `interests.md`
+- генерирует 7 Markdown-подборок в `links/triage/` и файл `data/triage.json` для веб-приложения
+
+4. Action коммитит созданные файлы в репо.
+5. Запускается Action сборки и деплоя веб-приложения, которое собирается с использованием актуальных JSON-файлов и деплоится на GitHub Pages.
 
 В итоге, мы получаем актуальные списки ссылок и архив в виде истории коммитов. Ссылки доступны как в Markdown-файлах, так и в виде простого web-приложения.
 
@@ -68,14 +74,14 @@ Reader объединяет в себе приложения нескольки�
 
 ```mermaid
 graph TD
-    A[GitHub Actions<br/>Запуск по расписанию] --> B[Python Script<br/>Архиватор ссылок]
+    A[GitHub Actions<br/>Запуск по расписанию] --> B[main.py<br/>Архиватор ссылок]
 
     B --> C[Readwise Reader API<br/>Получаем все материалы]
     C --> D[Форматируем в Markdown]
-    C --> E[Сохраянем в JSON]
+    C --> E[Сохраняем в JSON]
 
     D --> F[Разбиваем по категориям]
-    F --> G[📥 New ]
+    F --> G[📥 New]
     F --> H[🔎 Later]
     F --> I[⭐ Shortlist]
     F --> J[🗄️ Archive]
@@ -85,26 +91,36 @@ graph TD
 
     E --> M[articles.json<br/>with highlights & notes]
 
+    A --> T2[triage.py<br/>LLM-триаж статей]
+    T2 --> OA[OpenRouter API<br/>Оцениваем каждую статью]
+    OA --> TC[triage_cache.json<br/>Кэш LLM-ответов]
+    OA --> TM[links/triage/*.md<br/>7 Markdown-подборок]
+    OA --> TJ[triage.json<br/>Подборки для веб-приложения]
+
     G --> N[Коммит созданных файлов в репо]
     H --> N
     I --> N
     J --> N
     L --> N
     M --> N
+    TC --> N
+    TM --> N
+    TJ --> N
 
     N --> O[Триггерится<br/>Deploy Action]
-    O --> P[Собрать Web App<br/>используя новый articles.json]
+    O --> P[Собрать Web App<br/>articles.json + triage.json]
     P --> Q[🕸️ GitHub Pages<br/>Web App]
 
     M -.-> R[Локальный скрэпер<br/>scrape.py]
     R --> S[Скачивает все страницы<br/>+ их ресурсы]
-    S --> T[Изменяет ссылки в HTML<br/>на локальные файлы]
-    T --> U[Генерит оглавление<br/>из шаблона]
+    S --> U[Генерит оглавление<br/>из шаблона]
     U --> V[💾 Локальный архив<br/>3.71 GB / 35K files]
 
     style A fill:#e1f5fe
     style B fill:#f3e5f5
+    style T2 fill:#f3e5f5
     style C fill:#fff3e0
+    style OA fill:#fff3e0
     style Q fill:#e8f5e8
     style V fill:#fff8e1
     style R fill:#fce4ec
