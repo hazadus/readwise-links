@@ -3,6 +3,7 @@
 Утилита сохраняет все мои ссылки с highlights и заметками к ним из Readwise Reader в Markdown-отчёты и JSON-файл для архивации и удобного доступа к ним.
 
 - 🔗 Ссылки в Markdown: 📥 [Новые](./links/new.md) | 🔎 [Отложенные](./links/later.md) | ⭐ [Shortlist](./links/shortlist.md) | 🗄️ [Архив](./links/archive.md) | 🔖 [По тэгам](./links/tags/inspiration.md)
+- 🤖 Подборки: ⭐ [Топ](./links/triage/top.md) | ⚡ [Быстрые победы](./links/triage/quick-wins.md) | 📖 [Глубокое чтение](./links/triage/deep-reading.md) | 🛠️ [Руководства](./links/triage/tutorials.md) | 🧠 [Основы](./links/triage/fundamentals.md) | ⏳ [Читать сейчас](./links/triage/timely.md) | 📄 [Короткие](./links/triage/shortest.md)
 - 🕸️ [Веб-приложение](https://hazadus.github.io/readwise-links/)
 
 ## Что за Readwise Reader?
