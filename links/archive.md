@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1555
+- Всего ссылок: 1556
 
 ## Ссылки
 
+- [Exploratory QA with AI Agents: Building a Site-Agnostic Harness](https://alexop.dev/posts/exploratory-qa-ai-agents-site-agnostic-harness/) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2529 🔖 #codex, #agents, #claude, #testing, #frontend 🗓️ 2026-04-19
 - [OpenAI Unveils Codex “Superapp” Update with Computer Use, Automations, Built-In Browser, and More](https://www.macstories.net/news/openai-unveils-codex-superapp-update-with-computer-use-automations-built-in-browser-and-more/) 👤 John Voorhees 💬 1044 🔖 #codex, #macos 🗓️ 2026-04-16
 - [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html) 👤 Lewis Campbell's Blog 💬 617 🔖 #agile, #llm-devimpact 🗓️ 2026-04-14
 - [My Workspaces](https://brainbaking.com/post/2026/04/my-workspaces/) 👤 Wouter Groeneveld 💬 1091 🗓️ 2026-04-14

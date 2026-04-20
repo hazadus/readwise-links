@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [Exploratory QA with AI Agents: Building a Site-Agnostic Harness](https://alexop.dev/posts/exploratory-qa-ai-agents-site-agnostic-harness/) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2529 🔖 #codex, #agents, #claude, #testing, #frontend 🗓️ 2026-04-19
+    > **Резюме:** A thin Bun runner that hands a coding agent one charter and lets it drive a real browser through an exploratory QA session. Works with Claude, Codex, or Copilot, and any browser CLI.
 - [Pikaday](https://pikaday.dbushell.com/?utm_source=tldrwebdev) 👤 David Bushell 💬 954 🔖 #html, #frontend 🗓️ 2025-11-17
     > **Заметка:** Подборка примеров полей ввода для дат
     > **Резюме:** Most sites do not need a JavaScript calendar; simpler native inputs or separate fields work better. Native date/time inputs are easier, more accessible, and less error-prone than custom widgets. Keep designs simple, test with real users, and prefer progressive enhancement.

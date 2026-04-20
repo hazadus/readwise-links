@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 16
+- Всего ссылок: 17
 
 ## Ссылки
 
+- [Exploratory QA with AI Agents: Building a Site-Agnostic Harness](https://alexop.dev/posts/exploratory-qa-ai-agents-site-agnostic-harness/) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2529 🔖 #codex, #agents, #claude, #testing, #frontend 🗓️ 2026-04-19
+    > **Резюме:** A thin Bun runner that hands a coding agent one charter and lets it drive a real browser through an exploratory QA session. Works with Claude, Codex, or Copilot, and any browser CLI.
 - [The Coding Agent Is Dead](https://ampcode.com/news/the-coding-agent-is-dead) 👤 ampcode.com 💬 546 🔖 #amp, #llm, #agents, #predictions 🗓️ 2026-02-20
     > **Резюме:** The old way of using coding agents is over because new models are smarter and need less help. Amp is stopping its editor extensions and focusing on a flexible command-line tool instead. This change means Amp is moving forward with the latest technology, inviting users to join their journey.
 - [Why You Don't Need the Nuxt MCP When You Use Claude Code](https://alexop.dev/posts/why-you-dont-need-nuxt-mcp-claude-code/) 👤 Alexander Opalic 💬 1447 🔖 #llm, #try, #nuxt, #agents, #claude 🗓️ 2026-01-23
