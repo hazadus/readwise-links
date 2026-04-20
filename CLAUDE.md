@@ -83,6 +83,14 @@ GitHub Actions (daily 03:00 UTC)
 - `deploy.yml` — builds and deploys Vue app to GitHub Pages
 - `toot.yml` / `skeet.yml` — social publishing workflows
 
+## GitHub CLI Notes
+
+`gh pr edit` fails with a deprecation error due to Projects (classic). Use `gh api` to update PR descriptions:
+
+```bash
+gh api repos/hazadus/readwise-links/pulls/<NUMBER> -X PATCH -f body='...'
+```
+
 ## Key Tech
 
 - **Python 3.12+**, Pydantic v2, `uv`, `httpx` (async scraper), `requests` (API), BeautifulSoup4, Jinja2
