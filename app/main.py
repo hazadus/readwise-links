@@ -7,8 +7,7 @@
 shortlist, archive) и для каждого тега (в поддиректории "tags" заданной для
 отчетов директории).
 - дамп всех ссылок с добавлением highlights и заметок к ним в формате JSON,
-сохраняется в "./web/src/assets/articles.json" для использования во фронтовом
-приложении.
+сохраняется в "./data/articles.json"; CI копирует его в web/src/assets/ перед сборкой.
 
 Пример использования:
     uv run ./app/main.py --api-key your_api_key --dir ./reports
@@ -46,7 +45,7 @@ def main():
     # Сохраняем дамп и отчеты
     dump_docs_to_json(
         all_docs=all_docs,
-        dir="./web/src/assets",
+        dir="./data",
     )
     create_reports(
         all_docs=all_docs,
