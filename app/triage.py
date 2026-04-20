@@ -171,12 +171,14 @@ def build_collections(
 
 def format_article_md(article: ReadwiseDocument, triage: dict) -> str:
     """Форматирует одну статью в строку Markdown с пометками триажа."""
-    url = article.source_url or article.url
+    source_url = article.source_url or article.url
+    reader_url = article.url
     title = article.title or "(без заголовка)"
     author = f" 👤 {article.author}" if article.author else ""
     word_count = f" 💬 {article.word_count}" if article.word_count else ""
     score = f" ⭐ {triage['interest_score']}/10"
     saved_at = article.saved_at.strftime(" 🗓️ %Y-%m-%d") if article.saved_at else ""
+    reader_link = f" [📖]({reader_url})" if reader_url != source_url else ""
 
     tags_text = ""
     if article.tags:
@@ -192,7 +194,7 @@ def format_article_md(article: ReadwiseDocument, triage: dict) -> str:
         flags.append("🌲 вечнозелёное")
     flags_text = (" · " + ", ".join(flags)) if flags else ""
 
-    line = f"- [{title}]({url}){author}{word_count}{score}{tags_text}{saved_at}{flags_text}\n"
+    line = f"- [{title}]({source_url}){reader_link}{author}{word_count}{score}{tags_text}{saved_at}{flags_text}\n"
 
     if article.notes:
         line += f"    > **Заметка:** {article.notes}\n"

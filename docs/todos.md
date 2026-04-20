@@ -102,6 +102,7 @@
   - Новый роут `/triage` в `web/src/router/index.ts`
   - Новый вью `web/src/views/Triage.vue`: загружает `data/triage.json`, отображает 7 коллекций
     с заголовками, используя существующий `ArticleCard.vue`
+  - В `ArticleCard.vue` рядом с заголовком добавить ссылку [📖 Reader] (`article.url`) для открытия в Readwise Reader
   - Добавить ссылку на страницу в `Header.vue`
   - Обновить `vite.config.ts` / сборку если нужно скопировать `triage.json` в `src/assets/`
 
