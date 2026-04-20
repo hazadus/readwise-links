@@ -7,7 +7,7 @@ import json
 import requests
 
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
-MODEL = "google/gemini-2.5-pro-exp-03-25:free"
+MODEL = "openai/gpt-oss-120b:free"
 
 SYSTEM_PROMPT = """Ты — ассистент для анализа статей. Отвечай строго в формате JSON без каких-либо пояснений.
 
@@ -66,7 +66,6 @@ def analyze_article(
                     {"role": "system", "content": SYSTEM_PROMPT},
                     {"role": "user", "content": user_prompt},
                 ],
-                "response_format": {"type": "json_object"},
             },
             timeout=60,
         )
@@ -77,9 +76,22 @@ def analyze_article(
 
     try:
         content = response.json()["choices"][0]["message"]["content"]
-        result = json.loads(content)
-    except (KeyError, IndexError, json.JSONDecodeError) as e:
-        print(f"    ❌ Невалидный ответ от LLM: {e}. Ответ: {response.text[:300]}")
+    except (KeyError, IndexError) as e:
+        print(
+            f"    ❌ Неожиданная структура ответа OpenRouter: {e}. Ответ: {response.text[:300]}"
+        )
+        return None
+
+    # Модель может обернуть JSON в markdown-блок ```json ... ```
+    clean = content.strip()
+    if clean.startswith("```"):
+        lines = clean.splitlines()
+        clean = "\n".join(lines[1:-1] if lines[-1].strip() == "```" else lines[1:])
+
+    try:
+        result = json.loads(clean)
+    except json.JSONDecodeError as e:
+        print(f"    ❌ Невалидный JSON от LLM: {e}. Контент: {content[:300]}")
         return None
 
     required_fields = {

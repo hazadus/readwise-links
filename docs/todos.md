@@ -25,7 +25,7 @@
 
 ---
 
-- [ ] **3. `triage.py` — скелет CLI + анализ + кэш**
+- [x] **3. `triage.py` — скелет CLI + анализ + кэш**
 
   Реализовать `app/triage.py` с аргументами `--api-key`, `--openrouter-key`, `--limit`:
   - читает `interests.md`, считает MD5 hash

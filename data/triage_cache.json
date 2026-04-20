@@ -1,0 +1,23 @@
+{
+  "interests_hash": "ff9549a92ef5963192238421ba6efa46",
+  "articles": {
+    "01kpmngdv5pg97fgh18ytem7jz": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 6
+    },
+    "01kpk6w3rd5extz9ay7g099743": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 8
+    },
+    "01kpfqsqcjj1pc8g79r2pe4g8p": {
+      "is_tutorial": true,
+      "is_foundational": true,
+      "is_evergreen": true,
+      "interest_score": 9
+    }
+  }
+}

@@ -12,7 +12,7 @@
 | Список интересов | `interests.md` в корне репо, bullet points, редактируется вручную |
 | Кэш-инвалидация | Только при изменении `interests.md` (hash-сравнение) |
 | Анализ | 1 статья = 1 LLM-запрос |
-| Модель | `google/gemini-2.5-pro-exp-03-25:free` via OpenRouter |
+| Модель | `openai/gpt-oss-120b:free` via OpenRouter |
 | Ключи | CLI-аргументы `--api-key` и `--openrouter-key` (по аналогии с `main.py`) |
 | Лимит текста | Первые 25 000 символов после BS4 strip |
 
