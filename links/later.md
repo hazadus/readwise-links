@@ -1,9 +1,12 @@
 # Отложенные ссылки
 
-- Всего ссылок: 128
+- Всего ссылок: 120
 
 ## Ссылки
 
+- [Intelligent Curation Tagging for Creative Workflows](https://qwelian.com/posts/FINE_SHYT_Intelligent_Curation_Tagging_for_Creative_Workflows) 👤 qwelian.com 💬 3370 🗓️ 2026-04-20
+    > **Заметка:** Via HN
+    > **Резюме:** This system helps organize large photo archives by using AI to describe and rate images based on personal taste. It works in stages, analyzing technical quality, extracting metadata, and learning from user ratings to improve recommendations. Ultimately, the AI supports but does not replace human judgment in choosing which photos to keep or export.
 - [AmneziaWG 2.0: как работает полная мимикрия трафика и чем она лучше обычной маскировки](https://www.securitylab.ru/blog/personal/Techno_Obzor/360094.php) 👤 Alexander Antipov 💬 1350 🗓️ 2026-04-19
     > **Резюме:** AmneziaWG 2.0 improves traffic disguise by making VPN data look more like normal network traffic, but it does not make it completely invisible. The new version is more complex and harder to detect, yet it requires new configurations and can slow down connections. This update is a big step forward but not a final solution against deep traffic analysis.
 - [You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude) 👤 Logan Thorneloe 💬 3456 🗓️ 2026-04-18
@@ -11,10 +14,6 @@
     > **Резюме:** You can run capable coding AI locally for much less than $100/month by upgrading your hardware.  
 Local models need careful memory and tool choices, but even small models work well for most developer tasks.  
 They save money and offer flexibility, though top cloud models can still be stronger on hard problems.
-- [Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/) 👤 seangoedecke.com RSS feed 💬 1279 🗓️ 2026-04-18
-    > **Резюме:** Many anti-AI arguments use ideas that sound left-wing but actually come from conservative thinking. The author thinks AI has both good and bad effects, especially on jobs and the environment. The debate about AI is mixed and may change as political views shift.
-- [Codex for (almost) everything | OpenAI](https://openai.com/index/codex-for-almost-everything/) 👤 OpenAI 💬 11 🔖 #try, #codex 🗓️ 2026-04-16
-    > **Резюме:** The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.
 - [Back to the roots](https://www.francksauer.com/index.php/about/my-workspace) 👤 Super User 💬 1383 🗓️ 2026-04-15
     > **Резюме:** The author grew up surrounded by electronics and discovered a passion for computers with the Ti-99/4a and Commodore 64. He worked in game development and music, building home studios and offices over the years. Later, after personal changes, he returned to his roots in computer graphics and created a museum for his vintage computers.
 - [Squash and Stretch](https://www.joshwcomeau.com/animation/squash-and-stretch/) 👤 Josh W. Comeau 💬 1457 🔖 #css 🗓️ 2026-04-13
@@ -48,9 +47,6 @@ They save money and offer flexibility, though top cloud models can still be stro
 - [USB for Software Developers](https://werwolv.net/posts/usb_for_sw_devs/) 👤 WerWolv 💬 2523 🗓️ 2026-04-09
     > **Заметка:** Via HackerNews
     > **Резюме:** Writing a USB driver is similar to writing a network application and does not require kernel code. USB devices identify themselves using standard descriptors, which the host reads to understand the device and its capabilities. Developers can communicate with devices through specific endpoints using simple commands, as shown in the Fastboot example.
-- [Introduction](https://comark.dev/getting-started/introduction) 👤 Comark 💬 323 🗓️ 2026-04-08
-    > **Заметка:** Быстрый streaming-ready Markdown parser/renderer для Vue, React, Svelte, HTML и ANSI terminals. Звучит как реально интересный building block
-    > **Резюме:** Comark is an extension of Markdown that lets you use custom components inside your content. It parses Markdown into a flexible structure that can be rendered as HTML, Vue, or React. This makes it great for interactive docs, blogs, AI chats, and more.
 - [Principles of Mechanical Sympathy](https://martinfowler.com/articles/mechanical-sympathy-principles.html) 👤 Caer Sanders 💬 1748 🗓️ 2026-04-08
     > **Резюме:** Mechanical sympathy means understanding how hardware works to make software faster and more efficient. Key ideas include accessing memory sequentially, avoiding false sharing between CPU cores, and having a single thread write to shared data to reduce delays. Using these principles helps build better-performing systems at any scale.
 - [On the usefulness of AI agents](https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html) 👤 Erik Johannes Husom 💬 2669 🗓️ 2026-04-08
@@ -60,8 +56,6 @@ They save money and offer flexibility, though top cloud models can still be stro
 - [Some uncomfortable truths about AI coding agents](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev) 👤 standupforme.app 💬 3485 🗓️ 2026-04-04
     > **Заметка:** Via TLDR Newsletter
     > **Резюме:** AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.
-- [Explainer: AppKit and SwiftUI](https://eclecticlight.co/2026/04/04/explainer-appkit-and-swiftui/) 👤 hoakley 💬 883 🗓️ 2026-04-04
-    > **Резюме:** AppKit is the traditional Mac interface framework, while SwiftUI is a newer, more dynamic system designed for multiple Apple platforms. SwiftUI uses code to build interfaces, making it easier to adapt apps across devices but still relies on AppKit for some features. Many developers combine both to create flexible and modern Mac apps.
 - [Software Development in 2026](https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026) 👤 Aleksei Matiushkin 💬 1952 🗓️ 2026-04-03
     > **Заметка:** Via ElixirWeekly
     > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.
@@ -69,8 +63,6 @@ They save money and offer flexibility, though top cloud models can still be stro
     > **Резюме:** This guide shows how to use the ILI9341 TFT display with the ESP32 and the TFT_eSPI library. It explains setup, drawing shapes, text, images, and animations easily. The library makes it simple to create colorful, interactive projects with smooth graphics and touch support.
 - [Quantization from the ground up](https://ngrok.com/blog/quantization) 👤 Sam Rose 💬 4123 🗓️ 2026-03-27
     > **Резюме:** Quantization shrinks large numbers into smaller ones so models use less memory and run faster. Lower bit quantization reduces accuracy, but 8-bit and 4-bit still work well for large language models. Very low bits like 2-bit cause big errors and poor model performance.
-- [The SwiftUI Way: patterns and anti-patterns for production apps](https://nilcoalescing.com/blog/TheSwiftUIWayReleaseAnnouncement/) 👤 Natalia Panferova 💬 344 🔖 #book, #swift 🗓️ 2026-03-26
-    > **Резюме:** Natalia Panferova wrote a book called The SwiftUI Way to help developers use SwiftUI better. The book teaches how to avoid common mistakes and build stable, efficient apps. It shares expert tips from her experience working on SwiftUI at Apple.
 - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) 👤 mariozechner.at 💬 2368 🗓️ 2026-03-26
     > **Резюме:** Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.
 - [Adapting to AI: Reflections on Productivity](https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/?utm_source=substack&utm_medium=email) 👤 Colin Breck 💬 2582 🔖 #joyandcuriosity 🗓️ 2026-03-24
@@ -110,21 +102,15 @@ They save money and offer flexibility, though top cloud models can still be stro
     > **Резюме:** The author has over 25 years of experience in software development, starting from university days. Early challenges and learning moments helped them grow into a skilled engineer. They value professionalism, continuous learning, and kindness in their career.
 - [Sprites on the Web](https://www.joshwcomeau.com/animation/sprites/?from=newsletter) 👤 Josh W. Comeau 💬 2138 🗓️ 2026-02-28
     > **Резюме:** Sprites are single images that show animation by quickly changing which part is visible using CSS. This method gives more control than animated GIFs, like adjusting speed or pausing the animation. Sprites improve performance and let designers create smooth, complex animations on the web.
-- [How does macOS keep its log?](https://eclecticlight.co/2026/02/23/how-does-macos-keep-its-log/) 👤 The Eclectic Light Company 💬 712 🔖 #macos 🗓️ 2026-02-24
-    > **Резюме:** macOS saves system logs first in temporary storage on the Preboot volume before the user logs in. After login, these logs move to permanent storage on the Data volume, which is unlocked by the user’s password. The system automatically manages log sizes and deletes old entries, and users cannot change these limits.
 - [A Deep Dive into Apple's .car File Format](https://dbg.re/posts/car-file-format/?utm_source=tldrdev) 👤 ordinal0 💬 2364 🔖 #macos 🗓️ 2026-02-22
     > **Резюме:** Apple’s .car file uses a B+ tree called RENDITIONS to store image and color assets with detailed headers. It supports many pixel formats and compression types like LZFSE and JPEG for efficient storage. Asset names map to rendition keys, allowing easy lookup and linking between assets inside the file.
 - [2 Weeks of Claude Code for Me](https://jeremydmiller.com/2026/02/14/2-weeks-of-claude-code-for-me/) 👤 jeremydmiller Uncategorized February 14 💬 1337 🔖 #llm, #claude 🗓️ 2026-02-20
     > **Заметка:** Via https://martinfowler.com/fragments/2026-02-19.html
     > **Резюме:** The author spent two weeks using the AI tool Claude to improve his software projects and was surprised by the progress made. He found AI helpful for repetitive tasks, testing, and coding new features, but also felt conflicted about its impact on his work. Overall, he is excited but cautious about how AI will affect his career and the industry.
-- [Isolate SwiftUI animations to specific attributes](https://nilcoalescing.com/blog/IsolateSwiftUIAnimationsToSpecificAttributes) 👤 Natalia Panferova 💬 478 🔖 #macos, #swift 🗓️ 2026-02-18
-    > **Резюме:** In SwiftUI, animations often affect all view changes, which can cause unwanted effects in reusable components. Using the new animation(_:body:) modifier in iOS 17 lets you isolate animations to specific attributes like opacity. This makes components more predictable by controlling exactly what gets animated.
 - [Coding Agents in Feb 2026](https://calv.info/agents-feb-2026) 👤 calv.info 💬 3642 🗓️ 2026-02-18
     > **Резюме:** Calvin French-Owen uses different coding agents like Claude Code, Opus, and Codex to plan, write, and review code efficiently. He values context understanding and automation to improve his workflow and manage multiple tasks. His approach blends planning, tool use, and code correctness to get the best results from each agent.
 - [In the background: Putting threads to work](https://eclecticlight.co/2026/02/17/in-the-background-putting-threads-to-work/) 👤 The Eclectic Light Company 💬 1263 🔖 #macos 🗓️ 2026-02-18
     > **Резюме:** Apps run faster and stay responsive by using multiple threads that work together on different CPU cores. Apple silicon Macs use a Quality of Service system to decide which cores run which threads, balancing speed and power use. This helps apps perform well while saving battery and managing heat.
-- [Last Week on My Mac: Why E cores make Apple silicon fast](https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/?utm_source=tldrdev) 👤 The Eclectic Light Company 💬 904 🔖 #macos 🗓️ 2026-02-15
-    > **Резюме:** Apple silicon Macs are fast because they use Efficiency (E) cores to handle background tasks, freeing up Performance (P) cores for apps you use. This smart design keeps your apps running smoothly even when many processes use the CPU. The system schedules tasks carefully to save battery and boost speed, unlike older Intel Macs.
 - [Software Engineering is back](https://blog.alaindichiappari.dev/p/software-engineering-is-back?hide_intro_popup=true&utm_source=substack&utm_medium=email) 👤 Alain 💬 1533 🔖 #llm, #joyandcuriosity 🗓️ 2026-02-15
     > **Резюме:** Software engineering is changing because new coding agents can write most code automatically. This lets engineers focus on designing and solving real problems, not on repetitive tasks. Using fewer frameworks means more freedom and better control over software projects.
 - [Why Elixir is the best language for AI](https://dashbit.co/blog/why-elixir-best-language-for-ai?utm_source=substack&utm_medium=email) 👤 José Valim 💬 1651 🔖 #llm, #elixir, #joyandcuriosity 🗓️ 2026-02-15
@@ -222,10 +208,6 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** Django RAPID is a concise set of patterns for building maintainable, scalable Django projects based on 15+ years of experience. It favors simple, predictable foundations that let systems grow without hidden complexity. The guide is flexible and prescriptive only where it matters, so teams can adopt what fits their workflow.
 - [Building an AI QA Engineer with Claude Code and Playwright MCP](https://alexop.dev/posts/building_ai_qa_engineer_claude_code_playwright/) 👤 Alexander Opalic 💬 1193 🔖 #mcp, #claude 🗓️ 2025-12-15
     > **Резюме:** Alexander Opalic built an AI QA engineer named Quinn that uses Claude Code and Playwright MCP to test web apps through the browser like a real user. Quinn runs on pull requests via GitHub Actions, clicks, types, resizes the viewport, and posts detailed bug reports with screenshots. This approach finds edge cases and complements but does not replace traditional unit and E2E tests.
-- [Hexagonal Architecture for absolute beginners.](https://sushantdhiman.substack.com/p/hexagonal-architecture-for-absolute?utm_source=post-email-title&publication_id=3501228&post_id=180310942&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) 👤 Sushant Dhiman 💬 896 🔖 #architecture 🗓️ 2025-11-30
-    > **Резюме:** Hexagonal architecture isolates the core domain from frameworks and external systems.  
-It uses domain-defined ports and interchangeable adapters so databases or APIs can be swapped easily.  
-This makes code more portable, testable, and suitable for apps with multiple entry points.
 - [The (lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email) 👤 @bwplotka 💬 2452 🔖 #git, #joyandcuriosity 🗓️ 2025-11-30
     > **Резюме:** The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.
 - [how-did-i-get-here.net](https://how-did-i-get-here.net/?utm_source=substack&utm_medium=email) 👤 Lexi 💬 2827 🔖 #joyandcuriosity 🗓️ 2025-11-30
@@ -252,7 +234,7 @@ This makes code more portable, testable, and suitable for apps with multiple ent
     > **Резюме:** Tests help but they cost time because they are code to write, maintain, and run.  
 Only write tests that add lasting value: prefer static analysis, check intent not implementation, and avoid fragile mocked checks.  
 Skip unit tests for UI rendering; test stable business logic, state, and reusable components instead.
-- [How to Build Your Own Vue-like Reactivity System from Scratch](https://alexop.dev/posts/how-to-build-your-own-vue-like-reactivity-system-from-scratch/) 👤 Alexander Opalic 💬 777 🔖 #typescript 🗓️ 2025-09-26
+- [How to Build Your Own Vue-like Reactivity System from Scratch](https://alexop.dev/posts/how-to-build-your-own-vue-like-reactivity-system-from-scratch/) 👤 Alexander Opalic 💬 777 🔖 #try, #frontend, #typescript 🗓️ 2025-09-26
     > **Резюме:** The article builds simple ref() and watchEffect() functions to show how Vue-style reactivity works. It explains tracking dependencies with track, triggering updates with trigger, and storing effects in a depMap. The minimal system shows core concepts but omits production features like nested handling and optimizations.
 - [Unlocking Reading Insights: A Guide to Data Analysis with Claude and Readwise](https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/) 👤 Alexander Opalic 💬 1522 🗓️ 2025-09-26
     > **Резюме:** This blog post explains how to use Claude.ai's CSV analysis feature with Readwise data for better insights. It highlights the importance of crafting specific prompts to extract meaningful information and create visualizations. The tutorial also touches on the technical aspects of how Claude processes and analyzes the data.
