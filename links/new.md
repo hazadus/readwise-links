@@ -1,950 +1,953 @@
 # Новые ссылки
 
-- Всего ссылок: 924
+- Всего ссылок: 926
 
 ## Ссылки
 
-- [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11
-- [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) 👤 Ivan Grishaev's blog 💬 7191 🔖 #book, #postgresql 🗓️ 2026-04-06
-- [Getting Real](https://readwise.io/reader/document_raw_content/2844630) 👤 Basecamp 💬 29339 🗓️ 2026-03-15
-- [In search of Banksy, Reuters found the artist took on a new identity](https://www.reuters.com/investigates/special-report/global-art-banksy/) 👤 Anton Zverev 💬 10475 🗓️ 2026-03-14
-- [Alan Turing: The Enigma](https://readwise.io/reader/document_raw_content/430011785) 👤 Andrew Hodges 💬 304577 🗓️ 2026-03-09
-- [Turing](https://readwise.io/reader/document_raw_content/430011713) 👤 B. Jack Copeland 💬 101692 🗓️ 2026-03-09
-- [28 unusual and creative vinyl records](https://coloredvinylrecords.com/blog/25-unusual-and-creative-records/) 👤 Colored Vinyl Records 💬 2383 🗓️ 2026-02-27
-- [Евгений Федоров: Хозяин каменных гор](https://www.soyuz.ru/articles/1134) 👤 soyuz.ru 💬 1350 🔖 #book 🗓️ 2026-02-17
-- [Intro to CSS 3D transforms](https://3dtransforms.desandro.com/) 👤 desandro.com 💬 460 🔖 #css, #try 🗓️ 2026-02-05
+- [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) [📖](https://read.readwise.io/read/01knymwy6b02avchen3gkmjr08) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11
+- [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) [📖](https://read.readwise.io/read/01knhde7wg4mcx47qc2k368z0k) 👤 Ivan Grishaev's blog 💬 7191 🔖 #book, #postgresql 🗓️ 2026-04-06
+- [Getting Real](https://readwise.io/reader/document_raw_content/2844630) [📖](https://read.readwise.io/read/01kkspgf8s81ww3t6v257fepfc) 👤 Basecamp 💬 29339 🗓️ 2026-03-15
+- [In search of Banksy, Reuters found the artist took on a new identity](https://www.reuters.com/investigates/special-report/global-art-banksy/) [📖](https://read.readwise.io/read/01kknsrd2ybz8zyach8m6qjv8g) 👤 Anton Zverev 💬 10475 🗓️ 2026-03-14
+- [Alan Turing: The Enigma](https://readwise.io/reader/document_raw_content/430011785) [📖](https://read.readwise.io/read/01kk8sxkd910gadynn6j0x0ge4) 👤 Andrew Hodges 💬 304577 🗓️ 2026-03-09
+- [Turing](https://readwise.io/reader/document_raw_content/430011713) [📖](https://read.readwise.io/read/01kk8sx0dxnbxzz1m64qp2rwq2) 👤 B. Jack Copeland 💬 101692 🗓️ 2026-03-09
+- [28 unusual and creative vinyl records](https://coloredvinylrecords.com/blog/25-unusual-and-creative-records/) [📖](https://read.readwise.io/read/01kjg6d31yb8ma1sa0rgneqj44) 👤 Colored Vinyl Records 💬 2383 🗓️ 2026-02-27
+- [Евгений Федоров: Хозяин каменных гор](https://www.soyuz.ru/articles/1134) [📖](https://read.readwise.io/read/01khn1ffwdsrd024kxerer3ds1) 👤 soyuz.ru 💬 1350 🔖 #book 🗓️ 2026-02-17
+- [Intro to CSS 3D transforms](https://3dtransforms.desandro.com/) [📖](https://read.readwise.io/read/01kgq03f8qbdtt95hvek827f1d) 👤 desandro.com 💬 460 🔖 #css, #try 🗓️ 2026-02-05
     > **Заметка:** Via https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/
-- [Правда о go test -cover -race ./... (и не только)](https://youtube.com/watch?v=BDVSbr3wGYU&si=Kbrtx-qTB_OtuDNk) 👤 Куда войти? 🔖 #go, #testing 🗓️ 2026-01-30
-- [Глава 1. Введение в документы](https://grishaev.me/pg-book-json-ch01/) 👤 grishaev.me 💬 9423 🔖 #book, #postgresql 🗓️ 2026-01-26
-- [30+ Самых ожидаемых игр 2026 года I Битый Пиксель](https://www.youtube.com/watch?v=liGmkwyQfjY) 👤 Битый Пиксель 🗓️ 2026-01-24
-- [Django & HTMX - with Server-Sent Events (SSE)!](https://www.youtube.com/watch?v=9qwCc0FgPRg) 👤 BugBytes 🔖 #sse, #htmx, #django 🗓️ 2026-01-23
-- [Hidden Gems • The Applied Go Weekly Newsletter 2026-01-18](https://newsletter.appliedgo.net/archive/2026-01-18-hidden-gems/) 👤 The Applied Go Weekly Newsletter 💬 1112 🗓️ 2026-01-19
-- [Tools by month - tools.simonwillison.net](https://tools.simonwillison.net/by-month) 👤 simonwillison.net 💬 5809 🗓️ 2026-01-13
-- [Nuxt 4 Performance Optimization: Complete Guide to Faster Apps in 2026](https://masteringnuxt.com/blog/nuxt-4-performance-optimization-complete-guide-to-faster-apps-in-2026?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 3776 🔖 #nuxt 🗓️ 2026-01-13
-- [2026 And Go 1.26 • The Applied Go Weekly Newsletter 2026-01-11](https://newsletter.appliedgo.net/archive/2026-01-11-2026-and-go-126/) 👤 The Applied Go Weekly Newsletter 💬 1035 🗓️ 2026-01-12
-- [Migrating From Celery to Django Tasks](https://paultraylor.net/blog/2026/migrating-from-celery-to-django-tasks/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_319) 👤 PaulTraylor.net 💬 467 🔖 #celery, #django 🗓️ 2026-01-10
-- [Бизнес-логика в dataclass, pydantic, attrs-классах или в обычных классах? ООП в Python](https://www.youtube.com/watch?v=ByBzzsnBnAY) 👤 Диджитализируй! 🗓️ 2026-01-06
-- [Happy New Year (With Robotic Greetings) • The Applied Go Weekly Newsletter 2026-01-01](https://newsletter.appliedgo.net/archive/2026-01-01-happy-new-year-with-robotic-greetings/) 👤 The Applied Go Weekly Newsletter 💬 1448 🔖 #go 🗓️ 2026-01-04
-- [10 Zsh hacks I wish I knew about sooner](https://www.youtube.com/watch?v=3fVAtaGhUyU) 👤 Dreams of Code 🗓️ 2026-01-01
-- [Как быстро находить ошибки в коде? Советы для начинающих](https://www.youtube.com/watch?v=9iwYRcw3A8A) 👤 Организованное программирование | Кирилл Мокевнин 🗓️ 2025-12-31
-- [Почему ты учишься неправильно? Гайд по самообразованию и книгам](https://www.youtube.com/watch?si=7ulTv-p1GIIL6qA6&v=EgnRsIJiuxc&feature=youtu.be) 👤 Go Get Podcast 🗓️ 2025-12-31
-- [Designing Organizations For An Information-Rich World](https://gwern.net/doc/design/1971-simon.pdf) 👤 Herbert A. Simon, Karl W. Deutsch, Martin Shubik, Emilio Q. Daddario 💬 16634 🗓️ 2025-12-30
+- [Правда о go test -cover -race ./... (и не только)](https://youtube.com/watch?v=BDVSbr3wGYU&si=Kbrtx-qTB_OtuDNk) [📖](https://read.readwise.io/read/01kg84k52y67d88th61twc342e) 👤 Куда войти? 🔖 #go, #testing 🗓️ 2026-01-30
+- [Глава 1. Введение в документы](https://grishaev.me/pg-book-json-ch01/) [📖](https://read.readwise.io/read/01kfx1dgdmxd1gmfbff69vp7f5) 👤 grishaev.me 💬 9423 🔖 #book, #postgresql 🗓️ 2026-01-26
+- [30+ Самых ожидаемых игр 2026 года I Битый Пиксель](https://www.youtube.com/watch?v=liGmkwyQfjY) [📖](https://read.readwise.io/read/01kfqtec8j5dphs9ec9w5t1cv8) 👤 Битый Пиксель 🗓️ 2026-01-24
+- [Django & HTMX - with Server-Sent Events (SSE)!](https://www.youtube.com/watch?v=9qwCc0FgPRg) [📖](https://read.readwise.io/read/01kfnw6fehwf90k7zx6bsgt81s) 👤 BugBytes 🔖 #sse, #htmx, #django 🗓️ 2026-01-23
+- [Hidden Gems • The Applied Go Weekly Newsletter 2026-01-18](https://newsletter.appliedgo.net/archive/2026-01-18-hidden-gems/) [📖](https://read.readwise.io/read/01kfag2yj693tdgs896pk2gjrg) 👤 The Applied Go Weekly Newsletter 💬 1112 🗓️ 2026-01-19
+- [Tools by month - tools.simonwillison.net](https://tools.simonwillison.net/by-month) [📖](https://read.readwise.io/read/01kevnqkwheyp38fdjajnppp87) 👤 simonwillison.net 💬 5809 🗓️ 2026-01-13
+- [Nuxt 4 Performance Optimization: Complete Guide to Faster Apps in 2026](https://masteringnuxt.com/blog/nuxt-4-performance-optimization-complete-guide-to-faster-apps-in-2026?friend=MOKKAPPS) [📖](https://read.readwise.io/read/01ketwnxzd052ff7f83wd56za6) 👤 masteringnuxt.com 💬 3776 🔖 #nuxt 🗓️ 2026-01-13
+- [2026 And Go 1.26 • The Applied Go Weekly Newsletter 2026-01-11](https://newsletter.appliedgo.net/archive/2026-01-11-2026-and-go-126/) [📖](https://read.readwise.io/read/01kerbap116n22mp5w0ynev560) 👤 The Applied Go Weekly Newsletter 💬 1035 🗓️ 2026-01-12
+- [Migrating From Celery to Django Tasks](https://paultraylor.net/blog/2026/migrating-from-celery-to-django-tasks/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_319) [📖](https://read.readwise.io/read/01ken0cwxdrc3fzfkyarrwxx0h) 👤 PaulTraylor.net 💬 467 🔖 #celery, #django 🗓️ 2026-01-10
+- [Бизнес-логика в dataclass, pydantic, attrs-классах или в обычных классах? ООП в Python](https://www.youtube.com/watch?v=ByBzzsnBnAY) [📖](https://read.readwise.io/read/01ke9zmyzv4nthyhff20ptsh9c) 👤 Диджитализируй! 🗓️ 2026-01-06
+- [Happy New Year (With Robotic Greetings) • The Applied Go Weekly Newsletter 2026-01-01](https://newsletter.appliedgo.net/archive/2026-01-01-happy-new-year-with-robotic-greetings/) [📖](https://read.readwise.io/read/01ke5mjazbne5xw44tynwvxj26) 👤 The Applied Go Weekly Newsletter 💬 1448 🔖 #go 🗓️ 2026-01-04
+- [10 Zsh hacks I wish I knew about sooner](https://www.youtube.com/watch?v=3fVAtaGhUyU) [📖](https://read.readwise.io/read/01kdwarq7dh9wapt95x3z52026) 👤 Dreams of Code 🗓️ 2026-01-01
+- [Как быстро находить ошибки в коде? Советы для начинающих](https://www.youtube.com/watch?v=9iwYRcw3A8A) [📖](https://read.readwise.io/read/01kdsq0ngz853qq15mjt9pwyqj) 👤 Организованное программирование | Кирилл Мокевнин 🗓️ 2025-12-31
+- [Почему ты учишься неправильно? Гайд по самообразованию и книгам](https://www.youtube.com/watch?si=7ulTv-p1GIIL6qA6&v=EgnRsIJiuxc&feature=youtu.be) [📖](https://read.readwise.io/read/01kdsnvawx6zgsf1bw1w7mpbtb) 👤 Go Get Podcast 🗓️ 2025-12-31
+- [Designing Organizations For An Information-Rich World](https://gwern.net/doc/design/1971-simon.pdf) [📖](https://read.readwise.io/read/01kdq2rtz01a7gj6dzet241rpt) 👤 Herbert A. Simon, Karl W. Deutsch, Martin Shubik, Emilio Q. Daddario 💬 16634 🗓️ 2025-12-30
     > **Заметка:** Via https://www.joanwestenberg.com/p/why-i-delete-every-unanswered-email-every-month
-- [LlamaIndex in Python: A RAG Guide With Examples](https://realpython.com/llamaindex-examples/) 👤 Leodanis Pozo Ramos 💬 4813 🗓️ 2025-12-29
-- [Thanks AI! · GitHub](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f) 👤 262588213843476 💬 558 🗓️ 2025-12-29
-- [Validating API Routes in Nuxt 4 with Zod](https://humanonlyweb.com/blog/validating-api-routes-in-nuxt-with-zod) 👤 HumanOnlyWeb 💬 913 🔖 #zod, #nuxt 🗓️ 2025-12-23
-- [A Layered Architecture for Nuxt Fullstack applications [Part 1 — Server side]](https://humanonlyweb.com/blog/layered-architecture-for-nuxt-4-fullstack-applications-part-1) 👤 HumanOnlyWeb 💬 760 🔖 #nuxt 🗓️ 2025-12-23
-- [Setting Up Your IDE for Nuxt UI: A Complete Guide](https://vueschool.io/articles/vuejs-tutorials/setting-up-your-ide-for-nuxt-ui-a-complete-guide/?friend=MOKKAPPS/) 👤 vueschool.io 💬 1106 🔖 #nuxt 🗓️ 2025-12-23
-- [Vue 3 Testing Pyramid: A Practical Guide with Vitest Browser Mode](https://alexop.dev/posts/vue3_testing_pyramid_vitest_browser_mode/) 👤 Alexander Opalic 💬 3336 🔖 #vue, #vitest, #testing 🗓️ 2025-12-15
-- [Vue Composables Style Guide: Lessons from VueUse's Codebase](https://alexop.dev/posts/vueuse_composables_style_guide/) 👤 Alexander Opalic 💬 2850 🔖 #vue 🗓️ 2025-12-15
-- [Django Third-party App Ecosystem](https://frankwiles.com/posts/django-third-party-apps/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) 👤 frankwiles.com 💬 762 🔖 #django 🗓️ 2025-12-12
-- [From Slow To Go • The Applied Go Weekly Newsletter 2025-12-07](https://newsletter.appliedgo.net/archive/2025-12-07-from-slow-to-go/) 👤 The Applied Go Weekly Newsletter 💬 591 🔖 #go 🗓️ 2025-12-08
-- [Gist of Go: Concurrency internals](https://antonz.org/go-concurrency/internals/) 👤 Anton Zhiyanov 💬 3899 🔖 #go 🗓️ 2025-12-07
-- [Mechanical Sympathy • The Applied Go Weekly Newsletter 2025-11-30](https://newsletter.appliedgo.net/archive/2025-11-30-mechanical-sympathy/) 👤 The Applied Go Weekly Newsletter 💬 2508 🔖 #go 🗓️ 2025-12-04
-- [Kludex/fastapi-tips: FastAPI Tips by The FastAPI Expert!](https://github.com/Kludex/fastapi-tips?tab=readme-ov-file#2-be-careful-with-non-async-functions) 👤 https://github.com/Kludex/ 💬 1671 🔖 #fastapi 🗓️ 2025-12-03
-- [Typer](https://typer.tiangolo.com/) 👤 tiangolo.com 💬 1105 🗓️ 2025-12-02
-- [Click Documentation (8.3.x)](https://click.palletsprojects.com/en/latest/quickstart/) 👤 palletsprojects.com 💬 799 🗓️ 2025-12-02
-- [The entire “Asynchronous JavaScript” module of JavaScript for Everyone is now free](https://piccalil.li/links/the-entire-asynchronous-javascript-module-of-javascript-for-everyone-is-now-free/?ref=main-rss-feed) 👤 Piccalilli 💬 92 🗓️ 2025-11-29
-- [Как НЕ надо работать с паролями пользователей или ИННОВАЦИОННАЯ криптография в российских бигтехах](https://www.youtube.com/watch?v=P_bksF9uHao) 👤 Диджитализируй! 🗓️ 2025-11-28
-- [Неоновые ночи, мертвые каналы: 10 ранних киберпанковских фильмов](https://disgustingmen.com/kino/10-early-cyberpunk-movies/) 👤 Дмитрий Соколов 💬 2977 🗓️ 2025-11-27
-- [Unit Testing (Vitest) Tutorial #1 - What is Unit Testing?](https://www.youtube.com/watch?v=XdDZKeM5_pQ) 👤 Net Ninja 🔖 #vitest 🗓️ 2025-11-26
-- [Gist of Go: Concurrency testing](https://antonz.org/go-concurrency/testing/) 👤 Anton Zhiyanov 💬 7291 🔖 #go, #testing 🗓️ 2025-11-24
-- [GitHub - zhanymkanov/fastapi-best-practices: FastAPI Best Practices and Conventions we used at our startup](https://github.com/zhanymkanov/fastapi-best-practices) 👤 https://github.com/zhanymkanov/ 💬 3381 🔖 #fastapi 🗓️ 2025-11-24
-- [How to Implement Authentication in FastAPI: A Complete Developer's Guide](https://fastlaunchapi.dev/blog/how-to-implement-auth) 👤 Niklas L. 💬 3619 🔖 #fastapi 🗓️ 2025-11-24
-- [How to Structure a Scalable FastAPI Project](https://fastlaunchapi.dev/blog/how-to-structure-fastapi) 👤 Niklas L. 💬 1887 🔖 #fastapi 🗓️ 2025-11-24
-- [How to Write a Technical Book (Part 2)](https://third-bit.com/2022/06/20/how-to-write-a-technical-book-2/) 👤 third-bit.com 💬 555 🔖 #writingbook 🗓️ 2025-11-24
-- [10 Rules I Learned About Technical Writing](https://read.thecoder.cafe/p/10-technical-writing-rules) 👤 Teiva Harsanyi 💬 569 🔖 #writingbook 🗓️ 2025-11-24
-- [Writing Technical Books](https://paulcunningham.me/writing-technical-books/) 👤 Paul Cunningham 💬 4500 🔖 #writingbook 🗓️ 2025-11-24
-- [Ten simple rules for writing a technical book](https://pmc.ncbi.nlm.nih.gov/articles/PMC10414569/) 👤 Jess Haberman 💬 3336 🔖 #writingbook 🗓️ 2025-11-24
-- [13 Tips for Writing a Technical Book](https://borischerny.com/writing/2019/05/26/Tips-For-Writing-A-Technical-Book.html) 👤 Boris Cherny’s Blog 💬 1766 🔖 #writingbook 🗓️ 2025-11-24
-- [How to Write a Technical Book](https://third-bit.com/2022/06/19/how-to-write-a-technical-book/) 👤 third-bit.com 💬 999 🔖 #writingbook 🗓️ 2025-11-24
-- [Publishing a Technical Book (Part 3): The Writing Process](https://hookedondata.org/posts/2021-04-06_publishing-a-technical-book-part-3/) 👤 Emily Robinson 💬 1201 🔖 #writingbook 🗓️ 2025-11-24
-- [Writing a Technical Book: Motivation, Publishing and how to stay focused without ruining your Life](https://www.adamtornhill.com/articles/writingbook/writingtechbook.htm) 👤 Adam Tornhill 💬 4194 🔖 #writingbook 🗓️ 2025-11-24
-- [High-Performance Syntax Highlighting with CSS Highlights API](https://pavi2410.com/blog/high-performance-syntax-highlighting-with-css-highlights-api/?utm_source=tldrwebdev) 👤 Pavitra Golchha 💬 1054 🔖 #css 🗓️ 2025-11-23
-- [Что такое «цифровой этикет»?](https://digitaletiquette.ru/what_is_digital_etiquette) 👤 digitaletiquette.ru 💬 10 🗓️ 2025-11-18
-- [Build AI Agents with n8n | Complete Beginner’s Automation Course 2025](https://www.youtube.com/watch?si=dEipx48B3PxuzIgm&v=UtXzdmpysmU&feature=youtu.be) 👤 JavaScript Mastery 🗓️ 2025-11-14
-- [n8n Workflow Automation Tutorial – Create an Interview Scheduler & More Step-by-Step](https://www.youtube.com/watch?v=GIZzRGYpCbM) 👤 freeCodeCamp.org 🔖 #n8n 🗓️ 2025-11-13
-- [Junior vs Senior: Building Modals in Vue](https://michaelnthiessen.com/junior-vs-senior-modals?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(242)+When+ref+and+reactive+work+the+same,+how+to+make+a+variable+created+outside+of+Vue+reactive,+and+more+-+19594812&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1564 🔖 #vue 🗓️ 2025-11-12
-- [Buil[d|t] To Learn • The Applied Go Weekly Newsletter 2025-11-09](https://newsletter.appliedgo.net/archive/2025-11-09-buildt-to-learn/) 👤 The Applied Go Weekly Newsletter 💬 909 🔖 #go 🗓️ 2025-11-11
-- [Рецензия на книгу “Изучаем Vue: основные концепции и практические паттерны”](https://habr.com/ru/companies/ssp-soft/articles/902974/) 👤 SSP_blog 💬 1717 🗓️ 2025-11-10
-- [WAHA + n8n: No Code Low Code WhatsApp Automation Step-By-Step Guide](https://waha.devlike.pro/blog/waha-n8n/) 👤 waha.devlike.pro 💬 470 🔖 #n8n 🗓️ 2025-11-07
-- [Go Faster With Green Tea • The Applied Go Weekly Newsletter 2025-11-02](https://newsletter.appliedgo.net/archive/2025-11-02-go-faster-with-green-tea/) 👤 The Applied Go Weekly Newsletter 💬 1134 🔖 #go 🗓️ 2025-11-04
-- [Building a Modular Monolith with Nuxt Layers: A Practical Guide](https://alexop.dev/posts/nuxt-layers-modular-monolith/) 👤 Alexander Opalic 💬 2882 🔖 #nuxt 🗓️ 2025-11-04
-- [How to Manage Your Dotfiles Like a Pro with Git and Stow](https://dev.to/crafts69guy/how-to-manage-your-dotfiles-like-a-pro-with-git-and-stow-3pg1?utm_source=perplexity) 👤 Crafts 69 Guy 💬 1416 🔖 #git, #stow 🗓️ 2025-10-30
-- [Simple macOS script to extract text from images (OCR)](https://evanhahn.com/mac-ocr-script/) 👤 Evan Hahn 💬 232 🔖 #cli, #try, #macos 🗓️ 2025-10-29
-- [Build Your Own Database](https://www.nan.fyi/database?utm_source=substack&utm_medium=email) 👤 Nanda Syahrasyad 💬 1239 🔖 #db, #diy, #joyandcuriosity 🗓️ 2025-10-29
-- [The “10x” Commandments of Highly Effective Go](https://blog.jetbrains.com/go/2025/10/16/the-10x-commandments-of-highly-effective-go/?utm_source=tldrwebdev) 👤 The JetBrains Blog 💬 1291 🔖 #go 🗓️ 2025-10-29
-- [24 Time Saving Tips for Nuxt 3](https://masteringnuxt.com/blog/24-time-saving-tips-for-nuxt3?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(241)+Configurable+composables,+named+slots,+and+looping+over+a+range+-+19511363&utm_medium=email&utm_source=convertkit) 👤 masteringnuxt.com 💬 2706 🔖 #nuxt 🗓️ 2025-10-29
-- [Springs and Bounces in Native CSS The magic of the linear() timing function](https://www.joshwcomeau.com/animation/linear-timing-function/) 👤 Josh W. Comeau 💬 2718 🔖 #css 🗓️ 2025-10-29
-- [Practice Best Practices • The Applied Go Weekly Newsletter 2025-10-26](https://newsletter.appliedgo.net/archive/2025-10-26-practice-best-practices/) 👤 The Applied Go Weekly Newsletter 💬 1143 🔖 #go 🗓️ 2025-10-28
-- [Запуск MCP-сервера для AI-агентов от Битрикс24: интеграция с документацией REST API без ошибок](https://habr.com/ru/companies/bitrix/news/956808/) 👤 MaxMoro1 💬 310 🗓️ 2025-10-21
-- [How to group arrays in JavaScript without reduce()](https://allthingssmitty.com/2025/10/06/grouping-arrays-in-modern-javascript-object-groupby-and-map-groupby/) 👤 https://allthingssmitty.com/about/ 💬 810 🔖 #javascript 🗓️ 2025-10-14
-- [A complete guide to HTTP caching](https://www.jonoalderson.com/performance/http-caching/) 👤 Jono Alderson 💬 9131 🔖 #http 🗓️ 2025-10-10
-- [Nuxt Environment Overrides: Clean Config for Every Environment](https://masteringnuxt.com/blog/nuxt-environment-overrides-clean-config-for-every-environment?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 621 🔖 #nuxt 🗓️ 2025-10-10
-- [Standard Package Layout](https://www.gobeyond.dev/standard-package-layout/) 👤 Ben Johnson 💬 2012 🗓️ 2025-10-09
-- [A pragmatic guide to modern CSS colours - part one](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-one/?ref=main-rss-feed) 👤 Piccalilli 💬 3032 🔖 #css 🗓️ 2025-10-07
-- [Build your Own Virtual Scroll - Part I](https://dev.to/adamklein/build-your-own-virtual-scroll-part-i-11ib) 👤 dev.to 💬 1065 🗓️ 2025-10-06
-- [JS DOM Manipulation Best Practices – with Examples](https://www.freecodecamp.org/news/dom-manipulation-best-practices/) 👤 Benjamin Semah 💬 1673 🗓️ 2025-10-06
-- [JavaScript Best Practices](https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/) 👤 The JetBrains Blog 💬 4273 🗓️ 2025-10-06
-- [5 JavaScript Grid Features You’ll Absolutely Need in 2026](https://blog.webix.com/javascript-grid-features-2026/) 👤 Webix JS UI Library & HTML5 UI Framework 💬 1029 🗓️ 2025-10-06
-- [A spreadsheet in 60 lines of Javascript](https://lhorie.github.io/mithril-blog/a-spreadsheet-in-60-lines-of-javascript.html) 👤 lhorie.github.io 💬 2027 🔖 #diy, #javascript 🗓️ 2025-10-06
-- [Vite Bundle Inspection made EASY](https://www.youtube.com/watch?v=9c4HLqk1ExA) 👤 Alexander Lichter 🔖 #vite 🗓️ 2025-10-05
-- [Enjoy The Flight! • The Applied Go Weekly Newsletter 2025-09-28](https://newsletter.appliedgo.net/archive/2025-09-28-enjoy-the-flight/) 👤 The Applied Go Weekly Newsletter 💬 1180 🔖 #go 🗓️ 2025-10-02
-- [Gist of Go: Atomics](https://antonz.org/go-concurrency/atomics/) 👤 Anton Zhiyanov 💬 1681 🔖 #go 🗓️ 2025-09-30
-- [How to Implement Dependency Injection in Go - Explained with Code Examples](https://www.freecodecamp.org/news/how-to-use-dependency-injection-in-go/) 👤 Gabor Koos 💬 5087 🔖 #go 🗓️ 2025-09-27
-- [Vue 3.5's onWatcherCleanup: Mastering Side Effect Management in Vue Applications](https://alexop.dev/posts/vue-35s-onwatchercleanup-mastering-side-effect-management-in-vue-applications/) 👤 Alexander Opalic 💬 688 🔖 #vue 🗓️ 2025-09-26
-- [How to Structure Vue Projects](https://alexop.dev/posts/how-to-structure-vue-projects/) 👤 Alexander Opalic 💬 1740 🔖 #vue 🗓️ 2025-09-26
-- [Atomic Architecture: Revolutionizing Vue and Nuxt Project Structure](https://alexop.dev/posts/atomic-design-vue-or-nuxt/) 👤 Alexander Opalic 💬 1176 🔖 #vue, #nuxt 🗓️ 2025-09-26
-- [Create a Native-Like App in 4 Steps: PWA Magic with Vue 3 and Vite](https://alexop.dev/posts/create-pwa-vue3-vite-4-steps/) 👤 Alexander Opalic 💬 1944 🔖 #pwa, #vue 🗓️ 2025-09-26
-- [SQLite in Vue: Complete Guide to Building Offline-First Web Apps](https://alexop.dev/posts/sqlite-vue3-offline-first-web-apps-guide/) 👤 Alexander Opalic 💬 5636 🔖 #vue 🗓️ 2025-09-26
-- [How to Use the Variant Props Pattern in Vue](https://alexop.dev/posts/vue-typescript-variant-props-type-safe-props/) 👤 Alexander Opalic 💬 718 🔖 #vue 🗓️ 2025-09-26
+- [LlamaIndex in Python: A RAG Guide With Examples](https://realpython.com/llamaindex-examples/) [📖](https://read.readwise.io/read/01kdndg6at4wn4de7y5dqeqngm) 👤 Leodanis Pozo Ramos 💬 4813 🗓️ 2025-12-29
+- [Thanks AI! · GitHub](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f) [📖](https://read.readwise.io/read/01kdncvz552k3exam2c84qzxvx) 👤 262588213843476 💬 558 🗓️ 2025-12-29
+- [Validating API Routes in Nuxt 4 with Zod](https://humanonlyweb.com/blog/validating-api-routes-in-nuxt-with-zod) [📖](https://read.readwise.io/read/01kd538cx89dcy893mefbxxs9n) 👤 HumanOnlyWeb 💬 913 🔖 #zod, #nuxt 🗓️ 2025-12-23
+- [A Layered Architecture for Nuxt Fullstack applications [Part 1 — Server side]](https://humanonlyweb.com/blog/layered-architecture-for-nuxt-4-fullstack-applications-part-1) [📖](https://read.readwise.io/read/01kd535dsd42sy8nk33g2xehmk) 👤 HumanOnlyWeb 💬 760 🔖 #nuxt 🗓️ 2025-12-23
+- [Setting Up Your IDE for Nuxt UI: A Complete Guide](https://vueschool.io/articles/vuejs-tutorials/setting-up-your-ide-for-nuxt-ui-a-complete-guide/?friend=MOKKAPPS/) [📖](https://read.readwise.io/read/01kd52cq2dcxhwtpp6c1y0jxwz) 👤 vueschool.io 💬 1106 🔖 #nuxt 🗓️ 2025-12-23
+- [Vue 3 Testing Pyramid: A Practical Guide with Vitest Browser Mode](https://alexop.dev/posts/vue3_testing_pyramid_vitest_browser_mode/) [📖](https://read.readwise.io/read/01kcgfx6yvg65krrr77dfk7rv4) 👤 Alexander Opalic 💬 3336 🔖 #vue, #vitest, #testing 🗓️ 2025-12-15
+- [Vue Composables Style Guide: Lessons from VueUse's Codebase](https://alexop.dev/posts/vueuse_composables_style_guide/) [📖](https://read.readwise.io/read/01kcgee9jkchq47jy5k2sn9jqy) 👤 Alexander Opalic 💬 2850 🔖 #vue 🗓️ 2025-12-15
+- [Django Third-party App Ecosystem](https://frankwiles.com/posts/django-third-party-apps/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_314) [📖](https://read.readwise.io/read/01kc8t5prayfew88f87rxqqbpn) 👤 frankwiles.com 💬 762 🔖 #django 🗓️ 2025-12-12
+- [From Slow To Go • The Applied Go Weekly Newsletter 2025-12-07](https://newsletter.appliedgo.net/archive/2025-12-07-from-slow-to-go/) [📖](https://read.readwise.io/read/01kby939yhgekvtpn6bn8gcb84) 👤 The Applied Go Weekly Newsletter 💬 591 🔖 #go 🗓️ 2025-12-08
+- [Gist of Go: Concurrency internals](https://antonz.org/go-concurrency/internals/) [📖](https://read.readwise.io/read/01kbw35ksv6sdy9ds18xs1kk5j) 👤 Anton Zhiyanov 💬 3899 🔖 #go 🗓️ 2025-12-07
+- [Mechanical Sympathy • The Applied Go Weekly Newsletter 2025-11-30](https://newsletter.appliedgo.net/archive/2025-11-30-mechanical-sympathy/) [📖](https://read.readwise.io/read/01kbkzm0sxx6cezrqmj250cx1p) 👤 The Applied Go Weekly Newsletter 💬 2508 🔖 #go 🗓️ 2025-12-04
+- [Kludex/fastapi-tips: FastAPI Tips by The FastAPI Expert!](https://github.com/Kludex/fastapi-tips?tab=readme-ov-file#2-be-careful-with-non-async-functions) [📖](https://read.readwise.io/read/01kbj164k5w3mpggna5f31k73r) 👤 https://github.com/Kludex/ 💬 1671 🔖 #fastapi 🗓️ 2025-12-03
+- [Typer](https://typer.tiangolo.com/) [📖](https://read.readwise.io/read/01kbfsqbjbg4bk33ybc73dsajp) 👤 tiangolo.com 💬 1105 🗓️ 2025-12-02
+- [Click Documentation (8.3.x)](https://click.palletsprojects.com/en/latest/quickstart/) [📖](https://read.readwise.io/read/01kbfr31vtp6ktve4t0751wrq4) 👤 palletsprojects.com 💬 799 🗓️ 2025-12-02
+- [The entire “Asynchronous JavaScript” module of JavaScript for Everyone is now free](https://piccalil.li/links/the-entire-asynchronous-javascript-module-of-javascript-for-everyone-is-now-free/?ref=main-rss-feed) [📖](https://read.readwise.io/read/01kb8sxgwabya7wnvx4byve0vs) 👤 Piccalilli 💬 92 🗓️ 2025-11-29
+- [Как НЕ надо работать с паролями пользователей или ИННОВАЦИОННАЯ криптография в российских бигтехах](https://www.youtube.com/watch?v=P_bksF9uHao) [📖](https://read.readwise.io/read/01kb50c82trc07m44m53vav6f9) 👤 Диджитализируй! 🗓️ 2025-11-28
+- [Неоновые ночи, мертвые каналы: 10 ранних киберпанковских фильмов](https://disgustingmen.com/kino/10-early-cyberpunk-movies/) [📖](https://read.readwise.io/read/01kb2m8xv3b5ep5psd0nbzddmr) 👤 Дмитрий Соколов 💬 2977 🗓️ 2025-11-27
+- [Unit Testing (Vitest) Tutorial #1 - What is Unit Testing?](https://www.youtube.com/watch?v=XdDZKeM5_pQ) [📖](https://read.readwise.io/read/01kaza92zrjb0xz0xx3rfy4wkg) 👤 Net Ninja 🔖 #vitest 🗓️ 2025-11-26
+- [Gist of Go: Concurrency testing](https://antonz.org/go-concurrency/testing/) [📖](https://read.readwise.io/read/01kavsrnp96m52yp80rn4epvp3) 👤 Anton Zhiyanov 💬 7291 🔖 #go, #testing 🗓️ 2025-11-24
+- [GitHub - zhanymkanov/fastapi-best-practices: FastAPI Best Practices and Conventions we used at our startup](https://github.com/zhanymkanov/fastapi-best-practices) [📖](https://read.readwise.io/read/01kat6xcgq7fp3py7r4rtcscke) 👤 https://github.com/zhanymkanov/ 💬 3381 🔖 #fastapi 🗓️ 2025-11-24
+- [How to Implement Authentication in FastAPI: A Complete Developer's Guide](https://fastlaunchapi.dev/blog/how-to-implement-auth) [📖](https://read.readwise.io/read/01kat6rkaxj2r7aw0j4s1nv1cq) 👤 Niklas L. 💬 3619 🔖 #fastapi 🗓️ 2025-11-24
+- [How to Structure a Scalable FastAPI Project](https://fastlaunchapi.dev/blog/how-to-structure-fastapi) [📖](https://read.readwise.io/read/01kat6j97b6fwgxjan9vw8kbrt) 👤 Niklas L. 💬 1887 🔖 #fastapi 🗓️ 2025-11-24
+- [How to Write a Technical Book (Part 2)](https://third-bit.com/2022/06/20/how-to-write-a-technical-book-2/) [📖](https://read.readwise.io/read/01kat5kbymfm8a9k0cyayh4b4q) 👤 third-bit.com 💬 555 🔖 #writingbook 🗓️ 2025-11-24
+- [10 Rules I Learned About Technical Writing](https://read.thecoder.cafe/p/10-technical-writing-rules) [📖](https://read.readwise.io/read/01kat5jf1cvkne3kzd876d8chx) 👤 Teiva Harsanyi 💬 569 🔖 #writingbook 🗓️ 2025-11-24
+- [Writing Technical Books](https://paulcunningham.me/writing-technical-books/) [📖](https://read.readwise.io/read/01kat59d6rt185qrthxw8vhfrr) 👤 Paul Cunningham 💬 4500 🔖 #writingbook 🗓️ 2025-11-24
+- [Ten simple rules for writing a technical book](https://pmc.ncbi.nlm.nih.gov/articles/PMC10414569/) [📖](https://read.readwise.io/read/01kat5813atggy3pnnrjxhpvr0) 👤 Jess Haberman 💬 3336 🔖 #writingbook 🗓️ 2025-11-24
+- [13 Tips for Writing a Technical Book](https://borischerny.com/writing/2019/05/26/Tips-For-Writing-A-Technical-Book.html) [📖](https://read.readwise.io/read/01kat4zh9v4fz8dc47skqj3nak) 👤 Boris Cherny’s Blog 💬 1766 🔖 #writingbook 🗓️ 2025-11-24
+- [How to Write a Technical Book](https://third-bit.com/2022/06/19/how-to-write-a-technical-book/) [📖](https://read.readwise.io/read/01kat4xw1msatrm4a85h76k59r) 👤 third-bit.com 💬 999 🔖 #writingbook 🗓️ 2025-11-24
+- [Publishing a Technical Book (Part 3): The Writing Process](https://hookedondata.org/posts/2021-04-06_publishing-a-technical-book-part-3/) [📖](https://read.readwise.io/read/01kat4v5hjpnk4jah7n1asybvj) 👤 Emily Robinson 💬 1201 🔖 #writingbook 🗓️ 2025-11-24
+- [Writing a Technical Book: Motivation, Publishing and how to stay focused without ruining your Life](https://www.adamtornhill.com/articles/writingbook/writingtechbook.htm) [📖](https://read.readwise.io/read/01kat4qwh49psmkg8sxgswcd7r) 👤 Adam Tornhill 💬 4194 🔖 #writingbook 🗓️ 2025-11-24
+- [High-Performance Syntax Highlighting with CSS Highlights API](https://pavi2410.com/blog/high-performance-syntax-highlighting-with-css-highlights-api/?utm_source=tldrwebdev) [📖](https://read.readwise.io/read/01kas87a62ff686eeaz2znn3gc) 👤 Pavitra Golchha 💬 1054 🔖 #css 🗓️ 2025-11-23
+- [Что такое «цифровой этикет»?](https://digitaletiquette.ru/what_is_digital_etiquette) [📖](https://read.readwise.io/read/01kab9qmf4ybdzbzp8ddqxvsmq) 👤 digitaletiquette.ru 💬 10 🗓️ 2025-11-18
+- [Build AI Agents with n8n | Complete Beginner’s Automation Course 2025](https://www.youtube.com/watch?si=dEipx48B3PxuzIgm&v=UtXzdmpysmU&feature=youtu.be) [📖](https://read.readwise.io/read/01ka0ebhqtrg1nzxka3v9w3jan) 👤 JavaScript Mastery 🗓️ 2025-11-14
+- [n8n Workflow Automation Tutorial – Create an Interview Scheduler & More Step-by-Step](https://www.youtube.com/watch?v=GIZzRGYpCbM) [📖](https://read.readwise.io/read/01k9y231qd8pb39evjndw832z9) 👤 freeCodeCamp.org 🔖 #n8n 🗓️ 2025-11-13
+- [Junior vs Senior: Building Modals in Vue](https://michaelnthiessen.com/junior-vs-senior-modals?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(242)+When+ref+and+reactive+work+the+same,+how+to+make+a+variable+created+outside+of+Vue+reactive,+and+more+-+19594812&utm_medium=email&utm_source=convertkit) [📖](https://read.readwise.io/read/01k9wd9hn4eejyyrbw2bjmb855) 👤 michaelnthiessen.com 💬 1564 🔖 #vue 🗓️ 2025-11-12
+- [Buil[d|t] To Learn • The Applied Go Weekly Newsletter 2025-11-09](https://newsletter.appliedgo.net/archive/2025-11-09-buildt-to-learn/) [📖](https://read.readwise.io/read/01k9rx252kf9b4e2hjf8ehf4pr) 👤 The Applied Go Weekly Newsletter 💬 909 🔖 #go 🗓️ 2025-11-11
+- [Рецензия на книгу “Изучаем Vue: основные концепции и практические паттерны”](https://habr.com/ru/companies/ssp-soft/articles/902974/) [📖](https://read.readwise.io/read/01k9pdt97f75afmdbdj7wyebfv) 👤 SSP_blog 💬 1717 🗓️ 2025-11-10
+- [WAHA + n8n: No Code Low Code WhatsApp Automation Step-By-Step Guide](https://waha.devlike.pro/blog/waha-n8n/) [📖](https://read.readwise.io/read/01k9f0q13pvn80vgpz5taykbcb) 👤 waha.devlike.pro 💬 470 🔖 #n8n 🗓️ 2025-11-07
+- [Go Faster With Green Tea • The Applied Go Weekly Newsletter 2025-11-02](https://newsletter.appliedgo.net/archive/2025-11-02-go-faster-with-green-tea/) [📖](https://read.readwise.io/read/01k96kcmx2w7bj3kv7yff15wx6) 👤 The Applied Go Weekly Newsletter 💬 1134 🔖 #go 🗓️ 2025-11-04
+- [Building a Modular Monolith with Nuxt Layers: A Practical Guide](https://alexop.dev/posts/nuxt-layers-modular-monolith/) [📖](https://read.readwise.io/read/01k96kbg53m3dq69dszyy44skz) 👤 Alexander Opalic 💬 2882 🔖 #nuxt 🗓️ 2025-11-04
+- [How to Manage Your Dotfiles Like a Pro with Git and Stow](https://dev.to/crafts69guy/how-to-manage-your-dotfiles-like-a-pro-with-git-and-stow-3pg1?utm_source=perplexity) [📖](https://read.readwise.io/read/01k8vkp1595rrnf8s5rpwwzv3g) 👤 Crafts 69 Guy 💬 1416 🔖 #git, #stow 🗓️ 2025-10-30
+- [Simple macOS script to extract text from images (OCR)](https://evanhahn.com/mac-ocr-script/) [📖](https://read.readwise.io/read/01k8rxkgyg1me3wvwzmse67fa8) 👤 Evan Hahn 💬 232 🔖 #cli, #try, #macos 🗓️ 2025-10-29
+- [Build Your Own Database](https://www.nan.fyi/database?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01k8rsskj5v9t6xkg2g7796jvh) 👤 Nanda Syahrasyad 💬 1239 🔖 #db, #diy, #joyandcuriosity 🗓️ 2025-10-29
+- [The “10x” Commandments of Highly Effective Go](https://blog.jetbrains.com/go/2025/10/16/the-10x-commandments-of-highly-effective-go/?utm_source=tldrwebdev) [📖](https://read.readwise.io/read/01k8rs2e1m1jkdjrx39vhyfd6x) 👤 The JetBrains Blog 💬 1291 🔖 #go 🗓️ 2025-10-29
+- [24 Time Saving Tips for Nuxt 3](https://masteringnuxt.com/blog/24-time-saving-tips-for-nuxt3?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(241)+Configurable+composables,+named+slots,+and+looping+over+a+range+-+19511363&utm_medium=email&utm_source=convertkit) [📖](https://read.readwise.io/read/01k8rrynw3pwz6ws92nn71fd2z) 👤 masteringnuxt.com 💬 2706 🔖 #nuxt 🗓️ 2025-10-29
+- [Springs and Bounces in Native CSS The magic of the linear() timing function](https://www.joshwcomeau.com/animation/linear-timing-function/) [📖](https://read.readwise.io/read/01k8pr66zmmxnx0nkmmwavnrqb) 👤 Josh W. Comeau 💬 2718 🔖 #css 🗓️ 2025-10-29
+- [Practice Best Practices • The Applied Go Weekly Newsletter 2025-10-26](https://newsletter.appliedgo.net/archive/2025-10-26-practice-best-practices/) [📖](https://read.readwise.io/read/01k8nfm2y84n4jf6gzdrn1t8hs) 👤 The Applied Go Weekly Newsletter 💬 1143 🔖 #go 🗓️ 2025-10-28
+- [Запуск MCP-сервера для AI-агентов от Битрикс24: интеграция с документацией REST API без ошибок](https://habr.com/ru/companies/bitrix/news/956808/) [📖](https://read.readwise.io/read/01k8366d4w7348vrr9013hytvh) 👤 MaxMoro1 💬 310 🗓️ 2025-10-21
+- [How to group arrays in JavaScript without reduce()](https://allthingssmitty.com/2025/10/06/grouping-arrays-in-modern-javascript-object-groupby-and-map-groupby/) [📖](https://read.readwise.io/read/01k7hem5az6bjge9kmpftem6f4) 👤 https://allthingssmitty.com/about/ 💬 810 🔖 #javascript 🗓️ 2025-10-14
+- [A complete guide to HTTP caching](https://www.jonoalderson.com/performance/http-caching/) [📖](https://read.readwise.io/read/01k768f0z3jdey8hn7q78h7zpc) 👤 Jono Alderson 💬 9131 🔖 #http 🗓️ 2025-10-10
+- [Nuxt Environment Overrides: Clean Config for Every Environment](https://masteringnuxt.com/blog/nuxt-environment-overrides-clean-config-for-every-environment?friend=MOKKAPPS) [📖](https://read.readwise.io/read/01k767nn13ssvy465d21pa4www) 👤 masteringnuxt.com 💬 621 🔖 #nuxt 🗓️ 2025-10-10
+- [Standard Package Layout](https://www.gobeyond.dev/standard-package-layout/) [📖](https://read.readwise.io/read/01k74fmk6y2zqmma9eem6emrqv) 👤 Ben Johnson 💬 2012 🗓️ 2025-10-09
+- [A pragmatic guide to modern CSS colours - part one](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-one/?ref=main-rss-feed) [📖](https://read.readwise.io/read/01k701svqyjqswjtfhn3zek5jc) 👤 Piccalilli 💬 3032 🔖 #css 🗓️ 2025-10-07
+- [Build your Own Virtual Scroll - Part I](https://dev.to/adamklein/build-your-own-virtual-scroll-part-i-11ib) [📖](https://read.readwise.io/read/01k6xd4sag8jwhpa8estqr2gf0) 👤 dev.to 💬 1065 🗓️ 2025-10-06
+- [JS DOM Manipulation Best Practices – with Examples](https://www.freecodecamp.org/news/dom-manipulation-best-practices/) [📖](https://read.readwise.io/read/01k6xcsy74n480qme9gsvq73q8) 👤 Benjamin Semah 💬 1673 🗓️ 2025-10-06
+- [JavaScript Best Practices](https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/) [📖](https://read.readwise.io/read/01k6xcrzwve9a0gj3z37ywqevj) 👤 The JetBrains Blog 💬 4273 🗓️ 2025-10-06
+- [5 JavaScript Grid Features You’ll Absolutely Need in 2026](https://blog.webix.com/javascript-grid-features-2026/) [📖](https://read.readwise.io/read/01k6xccrvgs4hwbmzkphd7d5dh) 👤 Webix JS UI Library & HTML5 UI Framework 💬 1029 🗓️ 2025-10-06
+- [A spreadsheet in 60 lines of Javascript](https://lhorie.github.io/mithril-blog/a-spreadsheet-in-60-lines-of-javascript.html) [📖](https://read.readwise.io/read/01k6xc417y5mtetvggv1rcgj73) 👤 lhorie.github.io 💬 2027 🔖 #diy, #javascript 🗓️ 2025-10-06
+- [Vite Bundle Inspection made EASY](https://www.youtube.com/watch?v=9c4HLqk1ExA) [📖](https://read.readwise.io/read/01k6sptsv21vcab6cvtxnm11p9) 👤 Alexander Lichter 🔖 #vite 🗓️ 2025-10-05
+- [Enjoy The Flight! • The Applied Go Weekly Newsletter 2025-09-28](https://newsletter.appliedgo.net/archive/2025-09-28-enjoy-the-flight/) [📖](https://read.readwise.io/read/01k6jaf3xfpp1662tb594sjh3j) 👤 The Applied Go Weekly Newsletter 💬 1180 🔖 #go 🗓️ 2025-10-02
+- [Gist of Go: Atomics](https://antonz.org/go-concurrency/atomics/) [📖](https://read.readwise.io/read/01k6e1jcpczqa81k4yq0nf88nh) 👤 Anton Zhiyanov 💬 1681 🔖 #go 🗓️ 2025-09-30
+- [How to Implement Dependency Injection in Go - Explained with Code Examples](https://www.freecodecamp.org/news/how-to-use-dependency-injection-in-go/) [📖](https://read.readwise.io/read/01k65nwg7t4c844yvv8w6heqce) 👤 Gabor Koos 💬 5087 🔖 #go 🗓️ 2025-09-27
+- [Vue 3.5's onWatcherCleanup: Mastering Side Effect Management in Vue Applications](https://alexop.dev/posts/vue-35s-onwatchercleanup-mastering-side-effect-management-in-vue-applications/) [📖](https://read.readwise.io/read/01k62y0radzrqq95jha47grj2x) 👤 Alexander Opalic 💬 688 🔖 #vue 🗓️ 2025-09-26
+- [How to Structure Vue Projects](https://alexop.dev/posts/how-to-structure-vue-projects/) [📖](https://read.readwise.io/read/01k62xk1gm1pzbcyev7h3tmmqw) 👤 Alexander Opalic 💬 1740 🔖 #vue 🗓️ 2025-09-26
+- [Atomic Architecture: Revolutionizing Vue and Nuxt Project Structure](https://alexop.dev/posts/atomic-design-vue-or-nuxt/) [📖](https://read.readwise.io/read/01k62xd7gffqvaatm4rn2e8syr) 👤 Alexander Opalic 💬 1176 🔖 #vue, #nuxt 🗓️ 2025-09-26
+- [Create a Native-Like App in 4 Steps: PWA Magic with Vue 3 and Vite](https://alexop.dev/posts/create-pwa-vue3-vite-4-steps/) [📖](https://read.readwise.io/read/01k62x3q8jrhy28b8nyfx6sk8y) 👤 Alexander Opalic 💬 1944 🔖 #pwa, #vue 🗓️ 2025-09-26
+- [SQLite in Vue: Complete Guide to Building Offline-First Web Apps](https://alexop.dev/posts/sqlite-vue3-offline-first-web-apps-guide/) [📖](https://read.readwise.io/read/01k62vkpj32t2w07xcbx8rja2t) 👤 Alexander Opalic 💬 5636 🔖 #vue 🗓️ 2025-09-26
+- [How to Use the Variant Props Pattern in Vue](https://alexop.dev/posts/vue-typescript-variant-props-type-safe-props/) [📖](https://read.readwise.io/read/01k62rya1f7wzhyjm7f3x4rpp5) 👤 Alexander Opalic 💬 718 🔖 #vue 🗓️ 2025-09-26
     > **Заметка:** Шикарный разбор темы, еще и с анимированными диаграммами!
-- [Building Local-First Apps with Vue and Dexie.js](https://alexop.dev/posts/building-local-first-apps-vue-dexie/) 👤 Alexander Opalic 💬 1354 🔖 #vue 🗓️ 2025-09-26
-- [How to Do Visual Regression Testing in Vue with Vitest?](https://alexop.dev/posts/visual-regression-testing-with-vue-and-vitest-browser/) 👤 Alexander Opalic 💬 993 🔖 #vue, #vitest, #testing 🗓️ 2025-09-26
-- [Spaced Repetition for Efficient Learning](https://gwern.net/spaced-repetition) 👤 Gwern Branwen 💬 30217 🗓️ 2025-09-24
-- [Native threading and multiprocessing in Go](https://antonz.org/multi/) 👤 Anton Zhiyanov 💬 972 🔖 #go 🗓️ 2025-09-23
-- [The Big Gotcha With @starting-style](https://www.joshwcomeau.com/css/starting-style/) 👤 Josh W. Comeau 💬 2329 🔖 #css 🗓️ 2025-09-23
-- [Проектирование — это когда чувствуешь, а не какие-то там циферки, Николай Хитров, PythoNN](https://www.youtube.com/watch?v=eVcx6qZfU-M) 👤 Никита Соболев 🗓️ 2025-09-22
-- [Never Get Bored With The Basics • The Applied Go Weekly Newsletter 2025-09-14](https://newsletter.appliedgo.net/archive/2025-09-14-never-get-bored-with-the-basics/) 👤 The Applied Go Weekly Newsletter 💬 1503 🔖 #go 🗓️ 2025-09-17
-- [Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial](https://m.youtube.com/watch?v=Vs4hQsDpxww) 👤 freeCodeCamp.org 🔖 #try 🗓️ 2025-09-16
-- [Why Go Is A Minimalist Language • The Applied Go Weekly Newsletter 2025-09-07](https://newsletter.appliedgo.net/archive/2025-09-07-why-go-is-a-minimalist-language/) 👤 The Applied Go Weekly Newsletter 💬 1670 🔖 #go 🗓️ 2025-09-08
-- [How to Back up Your GitHub Repositories](https://improveandrepeat.com/2025/09/how-to-back-up-your-github-repositories/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 616 🔖 #git, #try, #github 🗓️ 2025-09-02
-- [So you don't like Go? • The Applied Go Weekly Newsletter 2025-08-31](https://newsletter.appliedgo.net/archive/2025-08-31-so-you-dont-like-go/) 👤 The Applied Go Weekly Newsletter 💬 1435 🗓️ 2025-09-01
-- [Rolling the Dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/?utm_source=tldrwebdev) 👤 Jen Simmons 💬 1846 🔖 #css 🗓️ 2025-08-30
-- [Handle With Care • The Applied Go Weekly Newsletter 2025-08-24](https://newsletter.appliedgo.net/archive/2025-08-24-handle-with-care-llm-security/) 👤 The Applied Go Weekly Newsletter 💬 2128 🗓️ 2025-08-29
-- [Developing a Real-time Dashboard with Flask, Postgres, and Socket.IO](https://testdriven.io/blog/flask-postgres-socketio/) 👤 testdriven.io 💬 4439 🔖 #flask, #websocket 🗓️ 2025-08-29
-- [JavaScript Tutorial with Three.js – 5 Projects for Beginners](https://www.youtube.com/watch?v=tPkJLnDqAKk) 👤 freeCodeCamp.org 🔖 #try, #three.js, #javascript 🗓️ 2025-08-28
-- [The Nature Of Software Development](https://readwise.io/reader/document_raw_content/282158585) 👤 Ron Jeffries, Michael Swaine 💬 24194 🔖 #book, #joyandcuriosity 🗓️ 2025-08-26
-- [Moving Objects in 3D Space](https://visualrambling.space/moving-objects-in-3d/?utm_source=substack&utm_medium=email) 👤 visualrambling.space 💬 829 🔖 #joyandcuriosity 🗓️ 2025-08-24
-- [The Difference Between a Post Flush Watcher and nextTick in Vue](https://michaelnthiessen.com/the-difference-between-a-post-flush-watcher-and-nexttick?ck_subscriber_id=2108193410&utm_campaign=The+Difference+Between+a+Post+Flush+Watcher+and+nextTick+in+Vue+-+18711361&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1110 🔖 #vue 🗓️ 2025-08-24
-- [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/?utm_source=tldrwebdev) 👤 Kuba Suder 💬 8494 🔖 #bluesky 🗓️ 2025-08-24
-- [Why Semantic Layers Matter — and How to Build One with DuckDB](https://motherduck.com/blog/semantic-layer-duckdb-tutorial/?utm_source=tldrwebdev) 👤 MotherDuck 💬 4235 🔖 #duckdb 🗓️ 2025-08-24
-- [An Interactive Guide to SVG Paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/?from=newsletter) 👤 Josh W. Comeau 💬 3508 🗓️ 2025-08-24
-- [Instructor and Pydantic - Structured LLM outputs for easy data extraction!](https://www.youtube.com/watch?v=3xUW1Do9zOs) 👤 BugBytes 🔖 #llm 🗓️ 2025-08-23
-- [Nuxt Tip: Accessing Pinia Store in Production Build](https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build) 👤 Michael Hoffmann 💬 86 🔖 #nuxt, #pinia 🗓️ 2025-08-14
-- [Another article about centering in CSS](https://piccalil.li/blog/another-article-about-centering-in-css/?ref=main-rss-feed) 👤 Piccalilli 💬 1236 🔖 #css 🗓️ 2025-08-14
-- [What are Effect Scopes in Vue?](https://michaelnthiessen.com/what-are-effect-scopes-in-vue?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(230)+What+are+Effect+Scopes+in+Vue?+-+18611005&utm_medium=email&utm_source=convertkit) 👤 michaelnthiessen.com 💬 1063 🔖 #vue, #nuxt 🗓️ 2025-08-13
-- [Blue Gopher Meets Stochastic Parrot • The Applied Go Weekly Newsletter 2025-08-10](https://newsletter.appliedgo.net/archive/2025-08-10-blue-gopher-meets-stochastic-parrot/) 👤 The Applied Go Weekly Newsletter 💬 1872 🔖 #go 🗓️ 2025-08-12
-- [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) 👤 Michael Stapelberg 💬 2859 🔖 #go, #testing, #postgresql 🗓️ 2025-08-10
+- [Building Local-First Apps with Vue and Dexie.js](https://alexop.dev/posts/building-local-first-apps-vue-dexie/) [📖](https://read.readwise.io/read/01k62rr635j5kpyqm56ad94xwm) 👤 Alexander Opalic 💬 1354 🔖 #vue 🗓️ 2025-09-26
+- [How to Do Visual Regression Testing in Vue with Vitest?](https://alexop.dev/posts/visual-regression-testing-with-vue-and-vitest-browser/) [📖](https://read.readwise.io/read/01k62j2e1ztgtj0grvzn52xwnz) 👤 Alexander Opalic 💬 993 🔖 #vue, #vitest, #testing 🗓️ 2025-09-26
+- [Spaced Repetition for Efficient Learning](https://gwern.net/spaced-repetition) [📖](https://read.readwise.io/read/01k5xabzfnxqz0a9fza56qq0f0) 👤 Gwern Branwen 💬 30217 🗓️ 2025-09-24
+- [Native threading and multiprocessing in Go](https://antonz.org/multi/) [📖](https://read.readwise.io/read/01k5tfjjbfmdvmp3j9529em96a) 👤 Anton Zhiyanov 💬 972 🔖 #go 🗓️ 2025-09-23
+- [The Big Gotcha With @starting-style](https://www.joshwcomeau.com/css/starting-style/) [📖](https://read.readwise.io/read/01k5tffe171x0t78f5rnqpsjfm) 👤 Josh W. Comeau 💬 2329 🔖 #css 🗓️ 2025-09-23
+- [Проектирование — это когда чувствуешь, а не какие-то там циферки, Николай Хитров, PythoNN](https://www.youtube.com/watch?v=eVcx6qZfU-M) [📖](https://read.readwise.io/read/01k5qzms0b32xc8t4fg6xtxmmk) 👤 Никита Соболев 🗓️ 2025-09-22
+- [Never Get Bored With The Basics • The Applied Go Weekly Newsletter 2025-09-14](https://newsletter.appliedgo.net/archive/2025-09-14-never-get-bored-with-the-basics/) [📖](https://read.readwise.io/read/01k5b92bw8ydfxgpkj1jbteapw) 👤 The Applied Go Weekly Newsletter 💬 1503 🔖 #go 🗓️ 2025-09-17
+- [Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial](https://m.youtube.com/watch?v=Vs4hQsDpxww) [📖](https://read.readwise.io/read/01k58fh7k5hrm4224ytxnnbzqm) 👤 freeCodeCamp.org 🔖 #try 🗓️ 2025-09-16
+- [Why Go Is A Minimalist Language • The Applied Go Weekly Newsletter 2025-09-07](https://newsletter.appliedgo.net/archive/2025-09-07-why-go-is-a-minimalist-language/) [📖](https://read.readwise.io/read/01k4m3c1tjj0z0gzgrhzwrvmvm) 👤 The Applied Go Weekly Newsletter 💬 1670 🔖 #go 🗓️ 2025-09-08
+- [How to Back up Your GitHub Repositories](https://improveandrepeat.com/2025/09/how-to-back-up-your-github-repositories/?utm_source=PythonFriday&utm_medium=RSS&utm_campaign=feed-syndication) [📖](https://read.readwise.io/read/01k45z4zj8ec5sqgsd84d0cvjq) 👤 info@ImproveAndRepeat.com (Johnny Graber) 💬 616 🔖 #git, #try, #github 🗓️ 2025-09-02
+- [So you don't like Go? • The Applied Go Weekly Newsletter 2025-08-31](https://newsletter.appliedgo.net/archive/2025-08-31-so-you-dont-like-go/) [📖](https://read.readwise.io/read/01k421jahr0mrzvjam4kcznm67) 👤 The Applied Go Weekly Newsletter 💬 1435 🗓️ 2025-09-01
+- [Rolling the Dice with CSS random()](https://webkit.org/blog/17285/rolling-the-dice-with-css-random/?utm_source=tldrwebdev) [📖](https://read.readwise.io/read/01k3yexg740ezqkefw1c97f40z) 👤 Jen Simmons 💬 1846 🔖 #css 🗓️ 2025-08-30
+- [Handle With Care • The Applied Go Weekly Newsletter 2025-08-24](https://newsletter.appliedgo.net/archive/2025-08-24-handle-with-care-llm-security/) [📖](https://read.readwise.io/read/01k3t7cpfxt7v45d4630dc0hft) 👤 The Applied Go Weekly Newsletter 💬 2128 🗓️ 2025-08-29
+- [Developing a Real-time Dashboard with Flask, Postgres, and Socket.IO](https://testdriven.io/blog/flask-postgres-socketio/) [📖](https://read.readwise.io/read/01k3t1ykg0way2m0b3hgdxjaaf) 👤 testdriven.io 💬 4439 🔖 #flask, #websocket 🗓️ 2025-08-29
+- [Python: The Documentary | An origin story](https://youtube.com/watch?v=GfH4QL4VqJ0&si=W-p_AVfiGeQIwieQ) [📖](https://read.readwise.io/read/01k3s3pk3kqp6cdj4h60q0tvzs) 👤 CultRepo (formerly Honeypot) 🗓️ 2025-08-28
+    > **Заметка:** https://chatgpt.com/c/69440890-ba90-832c-98ff-78a551d8c866
+- [JavaScript Tutorial with Three.js – 5 Projects for Beginners](https://www.youtube.com/watch?v=tPkJLnDqAKk) [📖](https://read.readwise.io/read/01k3qmxe7yp80xqt3ce8ne6fg1) 👤 freeCodeCamp.org 🔖 #try, #three.js, #javascript 🗓️ 2025-08-28
+- [The Nature Of Software Development](https://readwise.io/reader/document_raw_content/282158585) [📖](https://read.readwise.io/read/01k3jphs8k2j1a3y86kj5dn88n) 👤 Ron Jeffries, Michael Swaine 💬 24194 🔖 #book, #joyandcuriosity 🗓️ 2025-08-26
+- [Moving Objects in 3D Space](https://visualrambling.space/moving-objects-in-3d/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01k3e2e122m8mbncdns1yh1e68) 👤 visualrambling.space 💬 829 🔖 #joyandcuriosity 🗓️ 2025-08-24
+- [The Difference Between a Post Flush Watcher and nextTick in Vue](https://michaelnthiessen.com/the-difference-between-a-post-flush-watcher-and-nexttick?ck_subscriber_id=2108193410&utm_campaign=The+Difference+Between+a+Post+Flush+Watcher+and+nextTick+in+Vue+-+18711361&utm_medium=email&utm_source=convertkit) [📖](https://read.readwise.io/read/01k3dvyh02ge0g93fbpbbnn1na) 👤 michaelnthiessen.com 💬 1110 🔖 #vue 🗓️ 2025-08-24
+- [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/?utm_source=tldrwebdev) [📖](https://read.readwise.io/read/01k3dvkgay9frt6vyxf98n6tbv) 👤 Kuba Suder 💬 8494 🔖 #bluesky 🗓️ 2025-08-24
+- [Why Semantic Layers Matter — and How to Build One with DuckDB](https://motherduck.com/blog/semantic-layer-duckdb-tutorial/?utm_source=tldrwebdev) [📖](https://read.readwise.io/read/01k3dvbzkw3s1gm7q04mbk1za1) 👤 MotherDuck 💬 4235 🔖 #duckdb 🗓️ 2025-08-24
+- [An Interactive Guide to SVG Paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/?from=newsletter) [📖](https://read.readwise.io/read/01k3dts86cvc2rqw75dgtvzted) 👤 Josh W. Comeau 💬 3508 🗓️ 2025-08-24
+- [Instructor and Pydantic - Structured LLM outputs for easy data extraction!](https://www.youtube.com/watch?v=3xUW1Do9zOs) [📖](https://read.readwise.io/read/01k3c633x85zd74fdjzznss8j5) 👤 BugBytes 🔖 #llm 🗓️ 2025-08-23
+- [Nuxt Tip: Accessing Pinia Store in Production Build](https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build) [📖](https://read.readwise.io/read/01k2me5zfka4jnzw413rt952d1) 👤 Michael Hoffmann 💬 86 🔖 #nuxt, #pinia 🗓️ 2025-08-14
+- [Another article about centering in CSS](https://piccalil.li/blog/another-article-about-centering-in-css/?ref=main-rss-feed) [📖](https://read.readwise.io/read/01k2me3ayrktmr1dt4sk1nnd06) 👤 Piccalilli 💬 1236 🔖 #css 🗓️ 2025-08-14
+- [What are Effect Scopes in Vue?](https://michaelnthiessen.com/what-are-effect-scopes-in-vue?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(230)+What+are+Effect+Scopes+in+Vue?+-+18611005&utm_medium=email&utm_source=convertkit) [📖](https://read.readwise.io/read/01k2jhxs6zzvy31f9rwj8z96ym) 👤 michaelnthiessen.com 💬 1063 🔖 #vue, #nuxt 🗓️ 2025-08-13
+- [Blue Gopher Meets Stochastic Parrot • The Applied Go Weekly Newsletter 2025-08-10](https://newsletter.appliedgo.net/archive/2025-08-10-blue-gopher-meets-stochastic-parrot/) [📖](https://read.readwise.io/read/01k2eajz077gknsjty3qyp58k1) 👤 The Applied Go Weekly Newsletter 💬 1872 🔖 #go 🗓️ 2025-08-12
+- [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/) [📖](https://read.readwise.io/read/01k2av995df0365ghqcr73ms1f) 👤 Michael Stapelberg 💬 2859 🔖 #go, #testing, #postgresql 🗓️ 2025-08-10
     > **Заметка:** From Thorsten Ball interview
 
 https://chatgpt.com/c/69442a9a-f300-832f-ab30-b4c986167b5d
-- [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/) 👤 Benjamin Sandofsky 💬 8956 🗓️ 2025-08-06
-- [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/) 👤 Jake Lazaroff 💬 4002 🔖 #diy 🗓️ 2025-08-04
-- [Создание умных AI-агентов: полный курс по LangGraph от А до Я. Часть 1. Архитектура: графы, узлы и состояния](https://habr.com/ru/companies/amvera/articles/933460/) 👤 yakvenalex 💬 5040 🗓️ 2025-08-04
-- [The Atrocity Archives](private://read/01k1d3zamj69t631a9zk0vc29p) 👤 Charles Stross 💬 112070 🗓️ 2025-07-30
-- [Как создать MCP-сервер и научить ИИ работать с любым кодом и инструментами через LangGraph](https://habr.com/ru/companies/amvera/articles/931874/) 👤 yakvenalex 💬 7645 🗓️ 2025-07-29
-- [Prompting with LLM](https://building-with-llms-pycon-2025.readthedocs.io/en/latest/prompting.html) 👤 building-with-llms-pycon-2025.readthedocs.io 💬 975 🔖 #llm, #try 🗓️ 2025-07-27
-- [Почему кошки мурлычут? Теоретические основы и неразгаданная тайна кошачьего урчания](https://www.mirf.ru/science/pochemu-koshki-murlychut) 👤 mirf.ru 💬 1777 🗓️ 2025-07-27
-- [Nuxt 4 - An overview!](https://www.youtube.com/watch?v=rCT54d8sMWk) 👤 Alexander Lichter 🔖 #nuxt 🗓️ 2025-07-25
-- [TDD, AI agents and coding with Kent Beck](https://www.youtube.com/watch?v=aSXaxOdVtAQ) 👤 The Pragmatic Engineer 🗓️ 2025-07-25
-- [Gist of Go: Signaling](https://antonz.org/go-concurrency/signaling/) 👤 Anton Zhiyanov 💬 3912 🔖 #go 🗓️ 2025-07-21
-- [Useful Not True](private://read/01k0k6235k7ss56jx05sjmrryr) 👤 Derek Sivers 💬 22661 🗓️ 2025-07-20
-- [New And Improved Formula! • The Applied Go Weekly Newsletter 2025-07-20](https://newsletter.appliedgo.net/archive/2025-07-20-jsonv2-new-and-improved-formula/) 👤 The Applied Go Weekly Newsletter 💬 1836 🔖 #go 🗓️ 2025-07-20
-- [Developing a Real-time Dashboard with FastAPI, Postgres, and WebSockets](https://testdriven.io/blog/fastapi-postgres-websockets/) 👤 testdriven.io 💬 3838 🔖 #try, #fastapi, #websocket, #postgresql 🗓️ 2025-07-18
-- [You don't need testify/assert](https://antonz.org/do-not-testify/) 👤 Anton Zhiyanov 💬 1706 🔖 #go, #testing 🗓️ 2025-07-16
-- [Don't Mess With My Site! • The Applied Go Weekly Newsletter 2025-07-13](https://newsletter.appliedgo.net/archive/2025-07-13-dont-mess-with-my-site/) 👤 appliedgo.net 💬 1289 🗓️ 2025-07-13
-- [Concurrency Patterns in Go: Collecting Ordered Results](mailto:reader-forwarded-email/45e569d87e61df96dbcc83bdec2b50b1) 👤 Jon Calhoun 💬 925 🗓️ 2025-07-09
-- [uv: Making Python Local Workflows FAST and BORING in 2025](https://www.youtube.com/watch?v=TiBIjouDGuI) 👤 Hynek Schlawack 🔖 #uv 🗓️ 2025-07-07
-- [(Don't) Leave No Trace • The Applied Go Weekly Newsletter 2025-07-06](https://newsletter.appliedgo.net/archive/2025-07-06-dont-leave-no-trace/) 👤 appliedgo.net 💬 1746 🔖 #go 🗓️ 2025-07-07
-- [Concurrency Patterns in Go: errgroup](mailto:reader-forwarded-email/e17e336182935f8e158a227da7b09694) 👤 Jon Calhoun 💬 751 🔖 #go 🗓️ 2025-07-04
-- [Connect to the MCP Server](https://logfire.pydantic.dev/docs/how-to-guides/mcp-server/) 👤 pydantic.dev 💬 400 🔖 #mcp 🗓️ 2025-07-04
-- [[BadComedian] - ПОСМОТРЕЛ ВСЕ СКАЗКИ (Волшебник изумрудного города, Бременские, Летучий корабль итд)](https://www.youtube.com/watch?v=vO3Wpq7wrLI) 👤 BadComedian 🔖 #fun 🗓️ 2025-07-04
-- [Gist of Go: Semaphores](https://antonz.org/go-concurrency/semaphores/) 👤 Anton Zhiyanov 💬 2380 🔖 #go 🗓️ 2025-07-02
-- [Developing a Real-time Dashboard with FastAPI, MongoDB, and WebSockets](https://testdriven.io/blog/fastapi-mongo-websockets/) 👤 testdriven.io 💬 2484 🔖 #fastapi, #websocket 🗓️ 2025-06-30
-- [Know Your (CPU) Limits! • The Applied Go Weekly Newsletter 2025-06-29](https://newsletter.appliedgo.net/archive/2025-06-29-know-your-cpu-limits/) 👤 The Applied Go Weekly Newsletter 💬 1568 🔖 #go 🗓️ 2025-06-29
-- [How to use the Readwise MCP](https://docs.readwise.io/readwise/guides/mcp) 👤 Readwise 💬 569 🔖 #mcp 🗓️ 2025-06-26
-- [Учимся мыслить правильно в эпоху ИИ. Как и зачем изучать формальную логику](https://youtube.com/watch?v=sab7WQI8FQc&si=e4RmOEh7ngrsLNEg) 👤 Диджитализируй! 🗓️ 2025-06-25
-- [Concurrency Patterns in Go: sync.WaitGroup](mailto:reader-forwarded-email/6c2a36dd60dd3d5d1669ba8a7eaa0bf6) 👤 Jon Calhoun 💬 963 🔖 #go 🗓️ 2025-06-23
-- [Go Before You Wait • The Applied Go Weekly Newsletter 2025-06-22](https://newsletter.appliedgo.net/archive/2025-06-22-go-before-you-wait/) 👤 The Applied Go Weekly Newsletter 💬 1531 🔖 #go 🗓️ 2025-06-22
-- [MCP Core Concepts - Resources, Tools, Prompts & Transports!](https://www.youtube.com/watch?v=TTtQxUprbDY) 👤 BugBytes 🔖 #mcp 🗓️ 2025-06-21
-- [Von Express zu Go – mein Weg zu minimalistischen HTTP‑APIs](https://trakora.de/blog/weg-zu-minimalistischen-http-apis) 👤 trakora.de 💬 640 🔖 #go, #try 🗓️ 2025-06-18
+- [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/) [📖](https://read.readwise.io/read/01k20tjqw8kvaf1qwdktpfwdjs) 👤 Benjamin Sandofsky 💬 8956 🗓️ 2025-08-06
+- [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/) [📖](https://read.readwise.io/read/01k1thav2k5ht7py6yebaafhfk) 👤 Jake Lazaroff 💬 4002 🔖 #diy 🗓️ 2025-08-04
+- [Создание умных AI-агентов: полный курс по LangGraph от А до Я. Часть 1. Архитектура: графы, узлы и состояния](https://habr.com/ru/companies/amvera/articles/933460/) [📖](https://read.readwise.io/read/01k1swtazh3p5q1ea6cqkmtqag) 👤 yakvenalex 💬 5040 🗓️ 2025-08-04
+- [The Atrocity Archives](private://read/01k1d3zamj69t631a9zk0vc29p) [📖](https://read.readwise.io/read/01k1d3zamj69t631a9zk0vc29p) 👤 Charles Stross 💬 112070 🗓️ 2025-07-30
+- [Как создать MCP-сервер и научить ИИ работать с любым кодом и инструментами через LangGraph](https://habr.com/ru/companies/amvera/articles/931874/) [📖](https://read.readwise.io/read/01k1ab86x18kmc78w0pctz8fpt) 👤 yakvenalex 💬 7645 🗓️ 2025-07-29
+- [Prompting with LLM](https://building-with-llms-pycon-2025.readthedocs.io/en/latest/prompting.html) [📖](https://read.readwise.io/read/01k16rchfk9a4kc3xbh157t0n4) 👤 building-with-llms-pycon-2025.readthedocs.io 💬 975 🔖 #llm, #try 🗓️ 2025-07-27
+- [Почему кошки мурлычут? Теоретические основы и неразгаданная тайна кошачьего урчания](https://www.mirf.ru/science/pochemu-koshki-murlychut) [📖](https://read.readwise.io/read/01k16gqs8g473a32t46j6rt7a3) 👤 mirf.ru 💬 1777 🗓️ 2025-07-27
+- [Nuxt 4 - An overview!](https://www.youtube.com/watch?v=rCT54d8sMWk) [📖](https://read.readwise.io/read/01k10q325hwscbf09b3xfkh3hq) 👤 Alexander Lichter 🔖 #nuxt 🗓️ 2025-07-25
+- [TDD, AI agents and coding with Kent Beck](https://www.youtube.com/watch?v=aSXaxOdVtAQ) [📖](https://read.readwise.io/read/01k1098sd1xw00saawvv91as5x) 👤 The Pragmatic Engineer 🗓️ 2025-07-25
+- [Getting Real](http://gettingreal.37signals.com/) [📖](https://read.readwise.io/read/01k0y1vj3chjv20pfb9vrn68dz) 👤 basecamp.com 💬 426 🔖 #book 🗓️ 2025-07-24
+- [Gist of Go: Signaling](https://antonz.org/go-concurrency/signaling/) [📖](https://read.readwise.io/read/01k0nxqjn4w5wfc4bqnd9zjywd) 👤 Anton Zhiyanov 💬 3912 🔖 #go 🗓️ 2025-07-21
+- [Useful Not True](private://read/01k0k6235k7ss56jx05sjmrryr) [📖](https://read.readwise.io/read/01k0mry4zm9x1znxwz7rxpgn33) 👤 Derek Sivers 💬 22661 🗓️ 2025-07-20
+- [New And Improved Formula! • The Applied Go Weekly Newsletter 2025-07-20](https://newsletter.appliedgo.net/archive/2025-07-20-jsonv2-new-and-improved-formula/) [📖](https://read.readwise.io/read/01k0m1zsd7tzdn8ef1qs2tbezb) 👤 The Applied Go Weekly Newsletter 💬 1836 🔖 #go 🗓️ 2025-07-20
+- [Developing a Real-time Dashboard with FastAPI, Postgres, and WebSockets](https://testdriven.io/blog/fastapi-postgres-websockets/) [📖](https://read.readwise.io/read/01k0e0gy1akrd8zxk8n6zja59k) 👤 testdriven.io 💬 3838 🔖 #try, #fastapi, #websocket, #postgresql 🗓️ 2025-07-18
+- [You don't need testify/assert](https://antonz.org/do-not-testify/) [📖](https://read.readwise.io/read/01k09jn9ttrg0e9x30zbq44f8s) 👤 Anton Zhiyanov 💬 1706 🔖 #go, #testing 🗓️ 2025-07-16
+- [Don't Mess With My Site! • The Applied Go Weekly Newsletter 2025-07-13](https://newsletter.appliedgo.net/archive/2025-07-13-dont-mess-with-my-site/) [📖](https://read.readwise.io/read/01k02zvv2cxk3t8npeqqh91tkn) 👤 appliedgo.net 💬 1289 🗓️ 2025-07-13
+- [Concurrency Patterns in Go: Collecting Ordered Results](mailto:reader-forwarded-email/45e569d87e61df96dbcc83bdec2b50b1) [📖](https://read.readwise.io/read/01jzrj51qv9bzs0v7at1mp7s82) 👤 Jon Calhoun 💬 925 🗓️ 2025-07-09
+- [uv: Making Python Local Workflows FAST and BORING in 2025](https://www.youtube.com/watch?v=TiBIjouDGuI) [📖](https://read.readwise.io/read/01jzk70r9tye1vsjd5nr267gfc) 👤 Hynek Schlawack 🔖 #uv 🗓️ 2025-07-07
+- [(Don't) Leave No Trace • The Applied Go Weekly Newsletter 2025-07-06](https://newsletter.appliedgo.net/archive/2025-07-06-dont-leave-no-trace/) [📖](https://read.readwise.io/read/01jzk6rm10nysht4sx2jbwv8sx) 👤 appliedgo.net 💬 1746 🔖 #go 🗓️ 2025-07-07
+- [Concurrency Patterns in Go: errgroup](mailto:reader-forwarded-email/e17e336182935f8e158a227da7b09694) [📖](https://read.readwise.io/read/01jza002xgwphx0fybabs9hs8c) 👤 Jon Calhoun 💬 751 🔖 #go 🗓️ 2025-07-04
+- [Connect to the MCP Server](https://logfire.pydantic.dev/docs/how-to-guides/mcp-server/) [📖](https://read.readwise.io/read/01jz9z3mam268hafk2m52f3cws) 👤 pydantic.dev 💬 400 🔖 #mcp 🗓️ 2025-07-04
+- [[BadComedian] - ПОСМОТРЕЛ ВСЕ СКАЗКИ (Волшебник изумрудного города, Бременские, Летучий корабль итд)](https://www.youtube.com/watch?v=vO3Wpq7wrLI) [📖](https://read.readwise.io/read/01jz9ywab0ngazh5t54mebsfjr) 👤 BadComedian 🔖 #fun 🗓️ 2025-07-04
+- [Gist of Go: Semaphores](https://antonz.org/go-concurrency/semaphores/) [📖](https://read.readwise.io/read/01jz4rn762kqrvnstk6efet29z) 👤 Anton Zhiyanov 💬 2380 🔖 #go 🗓️ 2025-07-02
+- [Developing a Real-time Dashboard with FastAPI, MongoDB, and WebSockets](https://testdriven.io/blog/fastapi-mongo-websockets/) [📖](https://read.readwise.io/read/01jz1ggrkw9y1d0wmepn1y2esx) 👤 testdriven.io 💬 2484 🔖 #fastapi, #websocket 🗓️ 2025-06-30
+- [Know Your (CPU) Limits! • The Applied Go Weekly Newsletter 2025-06-29](https://newsletter.appliedgo.net/archive/2025-06-29-know-your-cpu-limits/) [📖](https://read.readwise.io/read/01jyy5b3x5q8t2nt8xam9bbqgh) 👤 The Applied Go Weekly Newsletter 💬 1568 🔖 #go 🗓️ 2025-06-29
+- [How to use the Readwise MCP](https://docs.readwise.io/readwise/guides/mcp) [📖](https://read.readwise.io/read/01jyq36fhvvavt1zrrw2vwh0sg) 👤 Readwise 💬 569 🔖 #mcp 🗓️ 2025-06-26
+- [Учимся мыслить правильно в эпоху ИИ. Как и зачем изучать формальную логику](https://youtube.com/watch?v=sab7WQI8FQc&si=e4RmOEh7ngrsLNEg) [📖](https://read.readwise.io/read/01jyk8t0sw3sv0e9eja3r6df79) 👤 Диджитализируй! 🗓️ 2025-06-25
+- [Concurrency Patterns in Go: sync.WaitGroup](mailto:reader-forwarded-email/6c2a36dd60dd3d5d1669ba8a7eaa0bf6) [📖](https://read.readwise.io/read/01jyf3camsx3xq2996sj527758) 👤 Jon Calhoun 💬 963 🔖 #go 🗓️ 2025-06-23
+- [Go Before You Wait • The Applied Go Weekly Newsletter 2025-06-22](https://newsletter.appliedgo.net/archive/2025-06-22-go-before-you-wait/) [📖](https://read.readwise.io/read/01jycs8fk9jmsxmbkj6jhnw8sx) 👤 The Applied Go Weekly Newsletter 💬 1531 🔖 #go 🗓️ 2025-06-22
+- [MCP Core Concepts - Resources, Tools, Prompts & Transports!](https://www.youtube.com/watch?v=TTtQxUprbDY) [📖](https://read.readwise.io/read/01jy8pv8j2d88n50ec2rjykkc6) 👤 BugBytes 🔖 #mcp 🗓️ 2025-06-21
+- [Von Express zu Go – mein Weg zu minimalistischen HTTP‑APIs](https://trakora.de/blog/weg-zu-minimalistischen-http-apis) [📖](https://read.readwise.io/read/01jy1cvk9nn5t8tf7vk8jp05gz) 👤 trakora.de 💬 640 🔖 #go, #try 🗓️ 2025-06-18
     > **Заметка:** Пост к репо: https://github.com/trakora/production-go-api-template
-- [Inside The Bubble • The Applied Go Weekly Newsletter 2025-06-15](https://newsletter.appliedgo.net/archive/2025-06-15-inside-the-bubble/) 👤 The Applied Go Weekly Newsletter 💬 2190 🔖 #go 🗓️ 2025-06-16
-- [Gist of Go: Race conditions](https://antonz.org/go-concurrency/race-conditions/) 👤 Anton Zhiyanov 💬 4381 🔖 #go 🗓️ 2025-06-16
-- [Writing Load Balancer From Scratch In 250 Line of Code](https://beyondthesyntax.substack.com/p/writing-load-balancer-from-scratch) 👤 Sushant Dhiman 💬 1745 🔖 #go, #diy 🗓️ 2025-06-16
-- [More readable happy paths](mailto:reader-forwarded-email/0cd4821f359f3bf43bd7ed8eae3d8a2c) 👤 Jon Calhoun 💬 1827 🔖 #go 🗓️ 2025-06-14
-- [Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/) 👤 inkandswitch.com 💬 9109 🗓️ 2025-06-12
-- [Recreating the bird animation from Swift.org](https://alexwlchan.net/2025/swift-bird-animation/?utm_source=rss) 👤 alexwlchan.net 💬 2741 🗓️ 2025-06-11
-- [Partial Keyframes](https://www.joshwcomeau.com/animation/partial-keyframes/) 👤 Josh W. Comeau 💬 1697 🔖 #css 🗓️ 2025-06-11
-- [Build a Finance Tracker web app in Python using Dash framework [Flask / Plotly / React.js] #python](https://www.youtube.com/watch?v=HyfgJo6Qb64) 👤 BekBrace 🔖 #flask, #react 🗓️ 2025-06-09
-- [Optimizing Django Docker Builds with Astral’s `uv`](https://rob.cogit8.org/posts/optimizing-django-docker-builds-with-astrals-uv/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_288) 👤 Rob Hudson 💬 1417 🔖 #uv, #django, #docker 🗓️ 2025-06-08
-- [Gist of Go: Data races](https://antonz.org/go-concurrency/data-races/) 👤 Anton Zhiyanov 💬 2501 🔖 #go 🗓️ 2025-06-08
-- [Own Your Errors! • The Applied Go Weekly Newsletter 2025-06-08](https://newsletter.appliedgo.net/archive/2025-06-08-own-your-errors/) 👤 The Applied Go Weekly Newsletter 💬 2259 🔖 #go 🗓️ 2025-06-08
-- [Processing large JSON files in Python without running out of memory](https://pythonspeed.com/articles/json-memory-streaming/) 👤 Itamar Turner-Trauring 💬 1177 🔖 #json, #python 🗓️ 2025-06-05
-- [Diving deeper into Go interfaces](mailto:reader-forwarded-email/bab01159971b964066ed80018454278a) 👤 Jon Calhoun 💬 1721 🔖 #go 🗓️ 2025-06-05
-- [Parsing XML Comments with Python](mailto:reader-forwarded-email/ee5fc09dca9b9b4f91b3b2c885c1fccb) 👤 Mike Driscoll from The Python Papers 💬 350 🔖 #xml, #python 🗓️ 2025-06-05
-- [Implementing Edge-Side Rendering (ESR) in Nuxt 3+ for Enhanced Performance](https://mokkapps.de/blog/implementing-esr-nuxt) 👤 Michael Hoffmann 💬 1473 🔖 #nuxt 🗓️ 2025-06-04
-- [The Front-End Monitoring Handbook: Track Performance, Errors, and User Behavior](https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/) 👤 freeCodeCamp.org 💬 5785 🗓️ 2025-06-03
-- [Stop Splitting Atoms • The Applied Go Weekly Newsletter 2025-06-01](https://newsletter.appliedgo.net/archive/2025-06-01-stop-splitting-atoms/) 👤 The Applied Go Weekly Newsletter 💬 1635 🔖 #go 🗓️ 2025-06-02
-- [Create a React + Flask Project in 2025](https://blog.miguelgrinberg.com/post/create-a-react-flask-project-in-2025) 👤 Miguel Grinberg 💬 2191 🔖 #vite, #flask, #react 🗓️ 2025-06-01
-- [PostgreSQL как эффективная база для документных данных](https://youtube.com/watch?v=l8__4kI4zgU&si=FWi3JO7IruJno-N8) 👤 Health Samurai Team 🔖 #postgresql 🗓️ 2025-05-31
-- [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) 👤 Nathaniel J. Smith 💬 6018 🗓️ 2025-05-30
-- [Go, Browser—You Have To Talk! • The Applied Go Weekly Newsletter 2025-05-25](https://newsletter.appliedgo.net/archive/2025-05-25-go-browser-you-have-to-talk/) 👤 The Applied Go Weekly Newsletter 💬 1879 🔖 #go 🗓️ 2025-05-26
-- [http.DefaultTransport](https://antonz.org/default-transport/) 👤 Anton Zhiyanov 💬 804 🔖 #go 🗓️ 2025-05-24
-- [An Animated Introduction to Elixir](https://www.freecodecamp.org/news/an-animated-introduction-to-elixir/) 👤 Mark Mahoney 💬 685 🔖 #elixir 🗓️ 2025-05-23
-- [You can style alt text like any other text](https://piccalil.li/blog/you-can-style-alt-text-like-any-other-text/?ref=main-rss-feed) 👤 Andy Bell 💬 672 🔖 #css 🗓️ 2025-05-23
-- [First Steps With LangChain](https://realpython.com/courses/first-steps-langchain/) 👤 Real Python 💬 129 🔖 #llm, #python, #langchain 🗓️ 2025-05-21
-- [LangGraph Complete Course for Beginners – Complex AI Agents](https://www.youtube.com/watch?v=jGg_1h0qzaM) 👤 freeCodeCamp.org 🔖 #llm, #agents, #langgraph 🗓️ 2025-05-21
-- [Threat Modeling Guide for Software Teams](https://martinfowler.com/articles/agile-threat-modelling.html) 👤 Jim Gumbley 💬 4981 🗓️ 2025-05-21
-- [Python: a quick cProfile recipe with pstats](https://adamj.eu/tech/2025/05/20/python-quick-cprofile-recipe-pstats/) 👤 Adam Johnson 💬 1277 🔖 #python 🗓️ 2025-05-20
-- [Building charts in Vue with D3](https://dev.to/jacobandrewsky/building-charts-in-vue-with-d3-38gl) 👤 dev.to 💬 736 🔖 #vue 🗓️ 2025-05-19
-- [«Ведьмак 3: Дикая Охота»: как 10 лет назад в мучениях рождалась наша любимая игра](https://www.mirf.ru/games/vedmak-3-dikaya-ohota-istoriya-sozdaniya) 👤 mirf.ru 💬 1793 🔖 #game 🗓️ 2025-05-19
-- [A Picture Is Worth More Than 20 Lines Of Code • The Applied Go Weekly Newsletter 2025-05-18](https://newsletter.appliedgo.net/archive/2025-05-18-a-picture-is-worth-more-than-20-lines-of-code/) 👤 The Applied Go Weekly Newsletter 💬 1822 🔖 #go 🗓️ 2025-05-19
-- [Functional options vs the builder pattern in Go](mailto:reader-forwarded-email/c93fae0180bb3e04c99f8e4bcdc39cb9) 👤 Jon Calhoun 💬 1548 🔖 #go 🗓️ 2025-05-17
-- [21 Nuxt Tips You Need to Know](https://michaelnthiessen.com/21-nuxt-tips-you-need-to-know?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%94%A5+(216)+Component+design+patterns,+Nuxt%27s+new+data+layer,+and+more+-+17527805) 👤 michaelnthiessen.com 💬 3314 🔖 #nuxt 🗓️ 2025-05-17
-- [Compressing Images With Vite and Vsharp](https://masteringnuxt.com/blog/compressing-images-with-vite-and-vsharp?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(&utm_medium=email&utm_source=convertkit#214)%20Component%20Metadata,%20Smooth%20Dragging,%20and%20Conditionally%20Rendering%20Slots%20-%2017366125) 👤 masteringnuxt.com 💬 522 🔖 #nuxt, #vite 🗓️ 2025-05-17
-- [Сериалы и фильмы Кураж-Бамбей](https://telegra.ph/Serialy-i-filmy-Kurazh-Bambej-05-16) 👤 @kurajbambey 💬 374 🗓️ 2025-05-16
-- [Centralize HTTP Error Handling in Go](https://www.alexisbouchez.com/blog/http-error-handling-in-go) 👤 alexisbouchez.com 💬 448 🔖 #go 🗓️ 2025-05-16
-- [Circuit Breaker in Go apps](https://mfbmina.dev/en/posts/golang-circuit-breaker/) 👤 Matheus Mina 💬 680 🔖 #go 🗓️ 2025-05-16
-- [Exploring the Rate package and the Token Bucket algorithm](https://mfbmina.dev/en/posts/golang-rate-token-bucket/) 👤 Matheus Mina 💬 778 🔖 #go 🗓️ 2025-05-16
-- [Vite Crash Course – Frontend Build Tool](https://www.youtube.com/watch?v=do62-z3z6FM) 👤 freeCodeCamp.org 🔖 #vite 🗓️ 2025-05-15
-- [Notes](https://notes.jim-nielsen.com/) 👤 jim-nielsen.com 💬 122696 🗓️ 2025-05-13
-- [The Height EnigmaUnraveling the mystery of percentage-based heights in CSS](https://www.joshwcomeau.com/css/height-enigma/) 👤 Josh W. Comeau 💬 3403 🗓️ 2025-05-13
-- [Tupper's Formula • The Applied Go Weekly Newsletter 2025-05-11](https://newsletter.appliedgo.net/archive/2025-05-11-tuppers-formula/) 👤 The Applied Go Weekly Newsletter 💬 2098 🗓️ 2025-05-12
-- [Customize chat responses in VS Code](https://code.visualstudio.com/docs/copilot/copilot-customization#_instruction-files) 👤 Microsoft 💬 2753 🗓️ 2025-05-11
-- [JavaScript, what is this?](https://piccalil.li/blog/javascript-what-is-this/?ref=main-rss-feed) 👤 Mat “Wilto” Marquis 💬 3410 🔖 #javascript 🗓️ 2025-05-10
-- [How to Use Loguru for Simpler Python Logging](https://realpython.com/python-loguru/) 👤 Abdelhadi Dyouri 💬 7197 🔖 #python 🗓️ 2025-05-10
-- [Using the Python subprocess Module](https://realpython.com/courses/python-subprocess-module/) 👤 Real Python 💬 192 🗓️ 2025-05-08
-- [Flattening Rust's Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/) 👤 Corrode Rust Consulting 💬 3042 🔖 #rust 🗓️ 2025-05-05
-- [Have Another Cup Of Tea • The Applied Go Weekly Newsletter 2025-05-04](https://newsletter.appliedgo.net/archive/2025-05-04-have-another-cup-of-tea/) 👤 The Applied Go Weekly Newsletter 💬 1732 🔖 #go 🗓️ 2025-05-04
-- [JavaScript, when is this?](https://piccalil.li/blog/javascript-when-is-this/?ref=main-rss-feed) 👤 Piccalilli 💬 1770 🔖 #javascript 🗓️ 2025-05-02
-- [Generating a Dynamic Sitemap in Nuxt 3](https://masteringnuxt.com/blog/generating-a-dynamic-sitemap-in-nuxt-3?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 897 🔖 #nuxt 🗓️ 2025-04-30
-- [Handling File Uploads in Nuxt with useStorage](https://vueschool.io/articles/vuejs-tutorials/handling-file-uploads-in-nuxt-with-usestorage/?friend=MOKKAPPS) 👤 vueschool.io 💬 942 🔖 #nuxt 🗓️ 2025-04-30
-- [The Attack You Invited • The Applied Go Weekly Newsletter 2025-04-27](https://newsletter.appliedgo.net/archive/2025-04-27-the-attack-you-invited/) 👤 The Applied Go Weekly Newsletter 💬 1997 🗓️ 2025-04-27
-- [Stop overbuilding evals](https://softwaredoug.com/blog/2025/04/26/stop-overbuilding-evals) 👤 Doug Turnbull 💬 788 🗓️ 2025-04-27
-- [The Anarchy: The Relentless Rise of the East India Company](https://seangoedecke.com/the-anarchy/) 👤 seangoedecke.com 💬 1963 🗓️ 2025-04-27
-- [Using Go's select Statement](mailto:reader-forwarded-email/f80d0306e4e3b5b38d5eafcb49124e4a) 👤 Jon Calhoun 💬 466 🗓️ 2025-04-23
-- [Личный ИИ-ассистент на ваших данных. Часть 2: Веб-интерфейс, авторизация и стриминг ответов от ИИ](https://habr.com/ru/companies/amvera/articles/902868) 👤 yakvenalex 💬 4941 🔖 #llm, #try 🗓️ 2025-04-22
-- [So, I Wrote a Book](https://www.thecoder.cafe/p/100-go-mistakes) 👤 Teiva Harsanyi 💬 6233 🔖 #go 🗓️ 2025-04-22
-- [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/) 👤 mcyoung.xyz 💬 5845 🔖 #go 🗓️ 2025-04-22
-- [Write, Build, Love, Repeat • The Applied Go Weekly Newsleetter 2025-04-20](https://newsletter.appliedgo.net/archive/2025-04-20-write-build-love-repeat/) 👤 The Applied Go Weekly Newsletter 💬 1500 🔖 #go 🗓️ 2025-04-20
-- [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices) 👤 anthropic.com 💬 4193 🗓️ 2025-04-20
-- [gRPC API Gateway: Bridging the Gap Between REST and gRPC](https://zuplo.com/blog/2025/04/09/grpc-api-gateway) 👤 Peyman Motrtazavi 💬 2001 🔖 #grpc 🗓️ 2025-04-18
-- [Все места охоты на монстров в Final Fantasy XVI](https://www.goha.ru/vse-mesta-ohoty-na-monstrov-v-final-fantasy-xvi-40mBD0) 👤 Zan 💬 281 🔖 #game 🗓️ 2025-04-15
-- [Signals and Go's Context Type](mailto:reader-forwarded-email/8a53651a467aab634454cd535a35fa34) 👤 Jon Calhoun 💬 1009 🔖 #go 🗓️ 2025-04-15
-- [Super Mario Bros. Wonder: Pipe Dreams Do Come True](https://jefklakscodex.com/games/switch/super-mario-bros-wonder/) 👤 Brain Baking 💬 1167 🔖 #game 🗓️ 2025-04-14
-- [Inscryption: Card Game Inception](https://jefklakscodex.com/games/switch/inscryption/) 👤 Brain Baking 💬 959 🔖 #game 🗓️ 2025-04-14
-- [Проксирование из коробки: сравнительный анализ HAProxy, Envoy, Nginx, Caddy и Traefik](https://habr.com/ru/articles/900438/) 👤 stas_dubich 💬 3009 🗓️ 2025-04-14
-- [Don't Run In Circles • The Applied Go Weekly Newsletter 2025-04-13](https://newsletter.appliedgo.net/archive/2025-04-13-dont-run-in-circles/) 👤 The Applied Go Weekly Newsletter 💬 2123 🔖 #go 🗓️ 2025-04-13
-- [A Year of Rust in ClickHouse](https://clickhouse.com/blog/rust) 👤 ClickHouse 💬 2800 🔖 #rust 🗓️ 2025-04-13
-- [An Animated Introduction to Clojure – Learn Clojure Programming Basics](https://www.freecodecamp.org/news/learn-clojure-programming-basics/) 👤 freeCodeCamp.org 💬 2456 🔖 #clojure 🗓️ 2025-04-10
-- [Extracting Composables for Code Organization ​](https://vuejs.org/guide/reusability/composables.html) 👤 vuejs.org 💬 2447 🔖 #vue, #nuxt 🗓️ 2025-04-09
-- [Good practices and Design Patterns for Vue Composables](https://dev.to/jacobandrewsky/good-practices-and-design-patterns-for-vue-composables-24lk) 👤 dev.to 💬 1140 🔖 #vue, #nuxt 🗓️ 2025-04-09
-- [23 June 1912 – 7 June 1954](https://samwho.dev/turing-machines/) 👤 samwho.dev 💬 2646 🗓️ 2025-04-09
-- [“Founder Mode” and the Art of Mythmaking](https://charity.wtf/2024/12/17/founder-mode-and-the-art-of-mythmaking/) 👤 mipsytipsy 💬 7163 🗓️ 2025-04-09
-- [Building a Real-time Dashboard with Flask and Svelte](https://testdriven.io/blog/flask-svelte/) 👤 Amir Tadrisi 💬 2931 🔖 #sse, #flask, #svelte 🗓️ 2025-04-08
-- [Using Signals with Go](mailto:reader-forwarded-email/f654bbad4e95a79752b617c2863f14ae) 👤 Jon Calhoun 💬 1352 🔖 #go 🗓️ 2025-04-08
-- [Two Years Building Workbrew, a Remote-First Enterprise Homebrew Startup](https://mikemcquaid.com/two-years-building-workbrew-a-remote-first-enterprise-homebrew-startup/) 👤 Mike McQuaid 💬 1711 🗓️ 2025-04-08
-- [More devops than I bargained for](https://fasterthanli.me/articles/more-devops-than-i-bargained-for) 👤 Amos Wenger 💬 2799 🗓️ 2025-04-08
-- [The Essential Functions of Zod Validation Pipelines](https://didoesdigital.com/blog/zod-essential-functions/) 👤 Diana MacDonald 💬 3320 🔖 #zod 🗓️ 2025-04-06
-- [Things I enjoyed in 2024](https://joshcollinsworth.com/blog/enjoyed-in-2024) 👤 Josh Collinsworth 💬 9381 🗓️ 2025-04-06
-- [Nuxt Server Components vs. Lazy Hydration](https://www.youtube.com/watch?v=Jijoc0RH_tA) 👤 Alexander Lichter 🔖 #nuxt 🗓️ 2025-04-04
-- [Synonyms via JSON](https://leancrew.com/all-this/2025/04/synonyms-via-json/) 👤 Dr. Drang 💬 1165 🗓️ 2025-04-03
-- [The Eval has landed 🦅](https://pydantic.dev/articles/q1-2025-summary) 👤 pydantic.dev 💬 293 🗓️ 2025-04-02
-- [Beating the Averages](https://paulgraham.com/avg.html) 👤 Paul Graham 💬 4480 🗓️ 2025-03-30
+- [Inside The Bubble • The Applied Go Weekly Newsletter 2025-06-15](https://newsletter.appliedgo.net/archive/2025-06-15-inside-the-bubble/) [📖](https://read.readwise.io/read/01jxx7g916w8pfk6z4qhpcb5ym) 👤 The Applied Go Weekly Newsletter 💬 2190 🔖 #go 🗓️ 2025-06-16
+- [Gist of Go: Race conditions](https://antonz.org/go-concurrency/race-conditions/) [📖](https://read.readwise.io/read/01jxvp780c2cx6h4kr1nz5rxp9) 👤 Anton Zhiyanov 💬 4381 🔖 #go 🗓️ 2025-06-16
+- [Writing Load Balancer From Scratch In 250 Line of Code](https://beyondthesyntax.substack.com/p/writing-load-balancer-from-scratch) [📖](https://read.readwise.io/read/01jxvhckah4e11r14ahcw4sh6w) 👤 Sushant Dhiman 💬 1745 🔖 #go, #diy 🗓️ 2025-06-16
+- [More readable happy paths](mailto:reader-forwarded-email/0cd4821f359f3bf43bd7ed8eae3d8a2c) [📖](https://read.readwise.io/read/01jxqwre97w0ggdckmh58c4wsw) 👤 Jon Calhoun 💬 1827 🔖 #go 🗓️ 2025-06-14
+- [Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/) [📖](https://read.readwise.io/read/01jxhvj610d016v03br0rpz6j6) 👤 inkandswitch.com 💬 9109 🗓️ 2025-06-12
+- [Recreating the bird animation from Swift.org](https://alexwlchan.net/2025/swift-bird-animation/?utm_source=rss) [📖](https://read.readwise.io/read/01jxg1cwkzcv9jjhtnkprhg6hh) 👤 alexwlchan.net 💬 2741 🗓️ 2025-06-11
+- [Partial Keyframes](https://www.joshwcomeau.com/animation/partial-keyframes/) [📖](https://read.readwise.io/read/01jxet50mjbma4pk5bvjdpdnc8) 👤 Josh W. Comeau 💬 1697 🔖 #css 🗓️ 2025-06-11
+- [Build a Finance Tracker web app in Python using Dash framework [Flask / Plotly / React.js] #python](https://www.youtube.com/watch?v=HyfgJo6Qb64) [📖](https://read.readwise.io/read/01jxa4h1nwwqwt7g2gqwfd65w8) 👤 BekBrace 🔖 #flask, #react 🗓️ 2025-06-09
+- [Optimizing Django Docker Builds with Astral’s `uv`](https://rob.cogit8.org/posts/optimizing-django-docker-builds-with-astrals-uv/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_288) [📖](https://read.readwise.io/read/01jx8jzgb7mym5ms2q84awak16) 👤 Rob Hudson 💬 1417 🔖 #uv, #django, #docker 🗓️ 2025-06-08
+- [Gist of Go: Data races](https://antonz.org/go-concurrency/data-races/) [📖](https://read.readwise.io/read/01jx8j3b8p9ssdaxg1wcwsj74w) 👤 Anton Zhiyanov 💬 2501 🔖 #go 🗓️ 2025-06-08
+- [Own Your Errors! • The Applied Go Weekly Newsletter 2025-06-08](https://newsletter.appliedgo.net/archive/2025-06-08-own-your-errors/) [📖](https://read.readwise.io/read/01jx75ktgq6g4f0gasw3xjjsm6) 👤 The Applied Go Weekly Newsletter 💬 2259 🔖 #go 🗓️ 2025-06-08
+- [Processing large JSON files in Python without running out of memory](https://pythonspeed.com/articles/json-memory-streaming/) [📖](https://read.readwise.io/read/01jx0mbp5zzybgn98pdpma6a8d) 👤 Itamar Turner-Trauring 💬 1177 🔖 #json, #python 🗓️ 2025-06-05
+- [Diving deeper into Go interfaces](mailto:reader-forwarded-email/bab01159971b964066ed80018454278a) [📖](https://read.readwise.io/read/01jx0ky3s70gr6rscmdzdpx1tv) 👤 Jon Calhoun 💬 1721 🔖 #go 🗓️ 2025-06-05
+- [Parsing XML Comments with Python](mailto:reader-forwarded-email/ee5fc09dca9b9b4f91b3b2c885c1fccb) [📖](https://read.readwise.io/read/01jx0jzp24bzs3my0ck3qcy6xd) 👤 Mike Driscoll from The Python Papers 💬 350 🔖 #xml, #python 🗓️ 2025-06-05
+- [Implementing Edge-Side Rendering (ESR) in Nuxt 3+ for Enhanced Performance](https://mokkapps.de/blog/implementing-esr-nuxt) [📖](https://read.readwise.io/read/01jwwhy7g0fg1qy3p4zg7h9xhc) 👤 Michael Hoffmann 💬 1473 🔖 #nuxt 🗓️ 2025-06-04
+- [The Front-End Monitoring Handbook: Track Performance, Errors, and User Behavior](https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/) [📖](https://read.readwise.io/read/01jwtebnmemd3yvetaw5vagksj) 👤 freeCodeCamp.org 💬 5785 🗓️ 2025-06-03
+- [Stop Splitting Atoms • The Applied Go Weekly Newsletter 2025-06-01](https://newsletter.appliedgo.net/archive/2025-06-01-stop-splitting-atoms/) [📖](https://read.readwise.io/read/01jwqn9syn1nc16nt1wh5390xt) 👤 The Applied Go Weekly Newsletter 💬 1635 🔖 #go 🗓️ 2025-06-02
+- [Create a React + Flask Project in 2025](https://blog.miguelgrinberg.com/post/create-a-react-flask-project-in-2025) [📖](https://read.readwise.io/read/01jwnfb1j2xwm197tvx02g1hrz) 👤 Miguel Grinberg 💬 2191 🔖 #vite, #flask, #react 🗓️ 2025-06-01
+- [PostgreSQL как эффективная база для документных данных](https://youtube.com/watch?v=l8__4kI4zgU&si=FWi3JO7IruJno-N8) [📖](https://read.readwise.io/read/01jwk7f6g0jnab35ns96d6c0db) 👤 Health Samurai Team 🔖 #postgresql 🗓️ 2025-05-31
+- [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) [📖](https://read.readwise.io/read/01jwhgnrx5j0mzn1fwrszefetx) 👤 Nathaniel J. Smith 💬 6018 🗓️ 2025-05-30
+- [Go, Browser—You Have To Talk! • The Applied Go Weekly Newsletter 2025-05-25](https://newsletter.appliedgo.net/archive/2025-05-25-go-browser-you-have-to-talk/) [📖](https://read.readwise.io/read/01jw76bqek4qqwt071k7r88s04) 👤 The Applied Go Weekly Newsletter 💬 1879 🔖 #go 🗓️ 2025-05-26
+- [http.DefaultTransport](https://antonz.org/default-transport/) [📖](https://read.readwise.io/read/01jw0sea6jnbsyjnmwecb88sgn) 👤 Anton Zhiyanov 💬 804 🔖 #go 🗓️ 2025-05-24
+- [An Animated Introduction to Elixir](https://www.freecodecamp.org/news/an-animated-introduction-to-elixir/) [📖](https://read.readwise.io/read/01jvyffppnadqbnvb1p5bww0ar) 👤 Mark Mahoney 💬 685 🔖 #elixir 🗓️ 2025-05-23
+- [You can style alt text like any other text](https://piccalil.li/blog/you-can-style-alt-text-like-any-other-text/?ref=main-rss-feed) [📖](https://read.readwise.io/read/01jvybecep6h9s3ct6q8gwnnzt) 👤 Andy Bell 💬 672 🔖 #css 🗓️ 2025-05-23
+- [First Steps With LangChain](https://realpython.com/courses/first-steps-langchain/) [📖](https://read.readwise.io/read/01jvrmhqhz2bjwvskjrcvyxbmb) 👤 Real Python 💬 129 🔖 #llm, #python, #langchain 🗓️ 2025-05-21
+- [LangGraph Complete Course for Beginners – Complex AI Agents](https://www.youtube.com/watch?v=jGg_1h0qzaM) [📖](https://read.readwise.io/read/01jvrmdqgcxpnzcg2rpn8efw9v) 👤 freeCodeCamp.org 🔖 #llm, #agents, #langgraph 🗓️ 2025-05-21
+- [Threat Modeling Guide for Software Teams](https://martinfowler.com/articles/agile-threat-modelling.html) [📖](https://read.readwise.io/read/01jvrmcpw4vyha2y4frswfsant) 👤 Jim Gumbley 💬 4981 🗓️ 2025-05-21
+- [Python: a quick cProfile recipe with pstats](https://adamj.eu/tech/2025/05/20/python-quick-cprofile-recipe-pstats/) [📖](https://read.readwise.io/read/01jvpvcydcjz7mdcehzwpfvb4n) 👤 Adam Johnson 💬 1277 🔖 #python 🗓️ 2025-05-20
+- [Building charts in Vue with D3](https://dev.to/jacobandrewsky/building-charts-in-vue-with-d3-38gl) [📖](https://read.readwise.io/read/01jvn6g2vkdv83zsczr2ackjh4) 👤 dev.to 💬 736 🔖 #vue 🗓️ 2025-05-19
+- [«Ведьмак 3: Дикая Охота»: как 10 лет назад в мучениях рождалась наша любимая игра](https://www.mirf.ru/games/vedmak-3-dikaya-ohota-istoriya-sozdaniya) [📖](https://read.readwise.io/read/01jvmtmsebjm2q6qyqgtv92714) 👤 mirf.ru 💬 1793 🔖 #game 🗓️ 2025-05-19
+- [A Picture Is Worth More Than 20 Lines Of Code • The Applied Go Weekly Newsletter 2025-05-18](https://newsletter.appliedgo.net/archive/2025-05-18-a-picture-is-worth-more-than-20-lines-of-code/) [📖](https://read.readwise.io/read/01jvkr2nkk67ccypschsmk8d8b) 👤 The Applied Go Weekly Newsletter 💬 1822 🔖 #go 🗓️ 2025-05-19
+- [Functional options vs the builder pattern in Go](mailto:reader-forwarded-email/c93fae0180bb3e04c99f8e4bcdc39cb9) [📖](https://read.readwise.io/read/01jverkc1e8713tb69m65z8qme) 👤 Jon Calhoun 💬 1548 🔖 #go 🗓️ 2025-05-17
+- [21 Nuxt Tips You Need to Know](https://michaelnthiessen.com/21-nuxt-tips-you-need-to-know?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%94%A5+(216)+Component+design+patterns,+Nuxt%27s+new+data+layer,+and+more+-+17527805) [📖](https://read.readwise.io/read/01jveqx0t83jdwvw6db74nzs96) 👤 michaelnthiessen.com 💬 3314 🔖 #nuxt 🗓️ 2025-05-17
+- [Compressing Images With Vite and Vsharp](https://masteringnuxt.com/blog/compressing-images-with-vite-and-vsharp?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(&utm_medium=email&utm_source=convertkit#214)%20Component%20Metadata,%20Smooth%20Dragging,%20and%20Conditionally%20Rendering%20Slots%20-%2017366125) [📖](https://read.readwise.io/read/01jveq6s0g80781xjwjws701hv) 👤 masteringnuxt.com 💬 522 🔖 #nuxt, #vite 🗓️ 2025-05-17
+- [Сериалы и фильмы Кураж-Бамбей](https://telegra.ph/Serialy-i-filmy-Kurazh-Bambej-05-16) [📖](https://read.readwise.io/read/01jvc07v07b36zfv88xv90yym6) 👤 @kurajbambey 💬 374 🗓️ 2025-05-16
+- [Centralize HTTP Error Handling in Go](https://www.alexisbouchez.com/blog/http-error-handling-in-go) [📖](https://read.readwise.io/read/01jvbzjh8ceeaaryvqfd32f03d) 👤 alexisbouchez.com 💬 448 🔖 #go 🗓️ 2025-05-16
+- [Circuit Breaker in Go apps](https://mfbmina.dev/en/posts/golang-circuit-breaker/) [📖](https://read.readwise.io/read/01jvbzc04br78my9cs5n0rjyc9) 👤 Matheus Mina 💬 680 🔖 #go 🗓️ 2025-05-16
+- [Exploring the Rate package and the Token Bucket algorithm](https://mfbmina.dev/en/posts/golang-rate-token-bucket/) [📖](https://read.readwise.io/read/01jvbzbc4rbj3k9hjv0f88df2p) 👤 Matheus Mina 💬 778 🔖 #go 🗓️ 2025-05-16
+- [Vite Crash Course – Frontend Build Tool](https://www.youtube.com/watch?v=do62-z3z6FM) [📖](https://read.readwise.io/read/01jv99t8mq9vf7k7kr2dfy56f0) 👤 freeCodeCamp.org 🔖 #vite 🗓️ 2025-05-15
+- [Notes](https://notes.jim-nielsen.com/) [📖](https://read.readwise.io/read/01jv4nb2acwdyydrb2mrd9k5v4) 👤 jim-nielsen.com 💬 122696 🗓️ 2025-05-13
+- [The Height EnigmaUnraveling the mystery of percentage-based heights in CSS](https://www.joshwcomeau.com/css/height-enigma/) [📖](https://read.readwise.io/read/01jv40xf2ee1vtjc06eex9c1f2) 👤 Josh W. Comeau 💬 3403 🗓️ 2025-05-13
+- [Tupper's Formula • The Applied Go Weekly Newsletter 2025-05-11](https://newsletter.appliedgo.net/archive/2025-05-11-tuppers-formula/) [📖](https://read.readwise.io/read/01jv1kfv6n197sbs3srn0batv6) 👤 The Applied Go Weekly Newsletter 💬 2098 🗓️ 2025-05-12
+- [Customize chat responses in VS Code](https://code.visualstudio.com/docs/copilot/copilot-customization#_instruction-files) [📖](https://read.readwise.io/read/01jtzyhctscyfq22jzn2kwjcv9) 👤 Microsoft 💬 2753 🗓️ 2025-05-11
+- [JavaScript, what is this?](https://piccalil.li/blog/javascript-what-is-this/?ref=main-rss-feed) [📖](https://read.readwise.io/read/01jtxwqxqr0hv3jjtkpkqagjpk) 👤 Mat “Wilto” Marquis 💬 3410 🔖 #javascript 🗓️ 2025-05-10
+- [How to Use Loguru for Simpler Python Logging](https://realpython.com/python-loguru/) [📖](https://read.readwise.io/read/01jtxexfaavrqv08y5b2fgv2e0) 👤 Abdelhadi Dyouri 💬 7197 🔖 #python 🗓️ 2025-05-10
+- [Using the Python subprocess Module](https://realpython.com/courses/python-subprocess-module/) [📖](https://read.readwise.io/read/01jtqsd0pe3z2bpd3kdy6vh6nr) 👤 Real Python 💬 192 🗓️ 2025-05-08
+- [Flattening Rust's Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/) [📖](https://read.readwise.io/read/01jtg22gba986fqvnc20d9wqhv) 👤 Corrode Rust Consulting 💬 3042 🔖 #rust 🗓️ 2025-05-05
+- [Have Another Cup Of Tea • The Applied Go Weekly Newsletter 2025-05-04](https://newsletter.appliedgo.net/archive/2025-05-04-have-another-cup-of-tea/) [📖](https://read.readwise.io/read/01jtecm9s15ejwx5da0576wp87) 👤 The Applied Go Weekly Newsletter 💬 1732 🔖 #go 🗓️ 2025-05-04
+- [JavaScript, when is this?](https://piccalil.li/blog/javascript-when-is-this/?ref=main-rss-feed) [📖](https://read.readwise.io/read/01jt9chasyh8fc422b8pqwj3k5) 👤 Piccalilli 💬 1770 🔖 #javascript 🗓️ 2025-05-02
+- [Generating a Dynamic Sitemap in Nuxt 3](https://masteringnuxt.com/blog/generating-a-dynamic-sitemap-in-nuxt-3?friend=MOKKAPPS) [📖](https://read.readwise.io/read/01jt3drfhqyjerj5xcdv4k5v3v) 👤 masteringnuxt.com 💬 897 🔖 #nuxt 🗓️ 2025-04-30
+- [Handling File Uploads in Nuxt with useStorage](https://vueschool.io/articles/vuejs-tutorials/handling-file-uploads-in-nuxt-with-usestorage/?friend=MOKKAPPS) [📖](https://read.readwise.io/read/01jt3dpw2adydtwcz0t1e9dsbe) 👤 vueschool.io 💬 942 🔖 #nuxt 🗓️ 2025-04-30
+- [The Attack You Invited • The Applied Go Weekly Newsletter 2025-04-27](https://newsletter.appliedgo.net/archive/2025-04-27-the-attack-you-invited/) [📖](https://read.readwise.io/read/01jswbxv1vdesj6afmkej22vgj) 👤 The Applied Go Weekly Newsletter 💬 1997 🗓️ 2025-04-27
+- [Stop overbuilding evals](https://softwaredoug.com/blog/2025/04/26/stop-overbuilding-evals) [📖](https://read.readwise.io/read/01jswbmq2c8edzk8ge9mbq85ss) 👤 Doug Turnbull 💬 788 🗓️ 2025-04-27
+- [The Anarchy: The Relentless Rise of the East India Company](https://seangoedecke.com/the-anarchy/) [📖](https://read.readwise.io/read/01jswak7w3w27dsmgq1fhcetsg) 👤 seangoedecke.com 💬 1963 🗓️ 2025-04-27
+- [Using Go's select Statement](mailto:reader-forwarded-email/f80d0306e4e3b5b38d5eafcb49124e4a) [📖](https://read.readwise.io/read/01jsgge0x5365t0rvfk38zgd4t) 👤 Jon Calhoun 💬 466 🗓️ 2025-04-23
+- [Личный ИИ-ассистент на ваших данных. Часть 2: Веб-интерфейс, авторизация и стриминг ответов от ИИ](https://habr.com/ru/companies/amvera/articles/902868) [📖](https://read.readwise.io/read/01jse8xy4j3pv6nk7hadqzwk98) 👤 yakvenalex 💬 4941 🔖 #llm, #try 🗓️ 2025-04-22
+- [So, I Wrote a Book](https://www.thecoder.cafe/p/100-go-mistakes) [📖](https://read.readwise.io/read/01jse0aytrbwmsvx7ppr7sydt6) 👤 Teiva Harsanyi 💬 6233 🔖 #go 🗓️ 2025-04-22
+- [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/) [📖](https://read.readwise.io/read/01jsdzn84zna1km7zx26xqc07e) 👤 mcyoung.xyz 💬 5845 🔖 #go 🗓️ 2025-04-22
+- [Write, Build, Love, Repeat • The Applied Go Weekly Newsleetter 2025-04-20](https://newsletter.appliedgo.net/archive/2025-04-20-write-build-love-repeat/) [📖](https://read.readwise.io/read/01jsa1tsw33qamas2gvsthrbgt) 👤 The Applied Go Weekly Newsletter 💬 1500 🔖 #go 🗓️ 2025-04-20
+- [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices) [📖](https://read.readwise.io/read/01js9k3y24rt508npvgjrzxyhg) 👤 anthropic.com 💬 4193 🗓️ 2025-04-20
+- [gRPC API Gateway: Bridging the Gap Between REST and gRPC](https://zuplo.com/blog/2025/04/09/grpc-api-gateway) [📖](https://read.readwise.io/read/01js3mq2ra6fmyxarre0623k6t) 👤 Peyman Motrtazavi 💬 2001 🔖 #grpc 🗓️ 2025-04-18
+- [Все места охоты на монстров в Final Fantasy XVI](https://www.goha.ru/vse-mesta-ohoty-na-monstrov-v-final-fantasy-xvi-40mBD0) [📖](https://read.readwise.io/read/01jrxdcgvsqde3tjwg37ppfyhx) 👤 Zan 💬 281 🔖 #game 🗓️ 2025-04-15
+- [Signals and Go's Context Type](mailto:reader-forwarded-email/8a53651a467aab634454cd535a35fa34) [📖](https://read.readwise.io/read/01jrvyt4p3x86bg0pnsj8xdw5e) 👤 Jon Calhoun 💬 1009 🔖 #go 🗓️ 2025-04-15
+- [Super Mario Bros. Wonder: Pipe Dreams Do Come True](https://jefklakscodex.com/games/switch/super-mario-bros-wonder/) [📖](https://read.readwise.io/read/01jrt85s4rfsk380z79npwq17e) 👤 Brain Baking 💬 1167 🔖 #game 🗓️ 2025-04-14
+- [Inscryption: Card Game Inception](https://jefklakscodex.com/games/switch/inscryption/) [📖](https://read.readwise.io/read/01jrt83f99698vgjydvb794wcw) 👤 Brain Baking 💬 959 🔖 #game 🗓️ 2025-04-14
+- [Проксирование из коробки: сравнительный анализ HAProxy, Envoy, Nginx, Caddy и Traefik](https://habr.com/ru/articles/900438/) [📖](https://read.readwise.io/read/01jrsmapcay40sdy68t6a2b0e9) 👤 stas_dubich 💬 3009 🗓️ 2025-04-14
+- [Don't Run In Circles • The Applied Go Weekly Newsletter 2025-04-13](https://newsletter.appliedgo.net/archive/2025-04-13-dont-run-in-circles/) [📖](https://read.readwise.io/read/01jrrfv4x43eks211pyg9q5pq9) 👤 The Applied Go Weekly Newsletter 💬 2123 🔖 #go 🗓️ 2025-04-13
+- [A Year of Rust in ClickHouse](https://clickhouse.com/blog/rust) [📖](https://read.readwise.io/read/01jrrfkx0c7mebbafyweh96dh3) 👤 ClickHouse 💬 2800 🔖 #rust 🗓️ 2025-04-13
+- [An Animated Introduction to Clojure – Learn Clojure Programming Basics](https://www.freecodecamp.org/news/learn-clojure-programming-basics/) [📖](https://read.readwise.io/read/01jrf3by76wepq1rev2tnbgdhs) 👤 freeCodeCamp.org 💬 2456 🔖 #clojure 🗓️ 2025-04-10
+- [Extracting Composables for Code Organization ​](https://vuejs.org/guide/reusability/composables.html) [📖](https://read.readwise.io/read/01jre4ftgrpdqmja3ba28jdjq3) 👤 vuejs.org 💬 2447 🔖 #vue, #nuxt 🗓️ 2025-04-09
+- [Good practices and Design Patterns for Vue Composables](https://dev.to/jacobandrewsky/good-practices-and-design-patterns-for-vue-composables-24lk) [📖](https://read.readwise.io/read/01jre44q2dmbx96yry593g7w1g) 👤 dev.to 💬 1140 🔖 #vue, #nuxt 🗓️ 2025-04-09
+- [23 June 1912 – 7 June 1954](https://samwho.dev/turing-machines/) [📖](https://read.readwise.io/read/01jrd7jpy36ydn3xz4kc20vjk8) 👤 samwho.dev 💬 2646 🗓️ 2025-04-09
+- [“Founder Mode” and the Art of Mythmaking](https://charity.wtf/2024/12/17/founder-mode-and-the-art-of-mythmaking/) [📖](https://read.readwise.io/read/01jrd6whv66bg325qm0gqdk3wx) 👤 mipsytipsy 💬 7163 🗓️ 2025-04-09
+- [Building a Real-time Dashboard with Flask and Svelte](https://testdriven.io/blog/flask-svelte/) [📖](https://read.readwise.io/read/01jrbk6xpbkpjsfjbzyctczd0b) 👤 Amir Tadrisi 💬 2931 🔖 #sse, #flask, #svelte 🗓️ 2025-04-08
+- [Using Signals with Go](mailto:reader-forwarded-email/f654bbad4e95a79752b617c2863f14ae) [📖](https://read.readwise.io/read/01jrbjdw8gtvek4kbe9z3dr3fc) 👤 Jon Calhoun 💬 1352 🔖 #go 🗓️ 2025-04-08
+- [Two Years Building Workbrew, a Remote-First Enterprise Homebrew Startup](https://mikemcquaid.com/two-years-building-workbrew-a-remote-first-enterprise-homebrew-startup/) [📖](https://read.readwise.io/read/01jra1q0zq41kd6yacxa6ybxw6) 👤 Mike McQuaid 💬 1711 🗓️ 2025-04-08
+- [More devops than I bargained for](https://fasterthanli.me/articles/more-devops-than-i-bargained-for) [📖](https://read.readwise.io/read/01jra0rg2r54f4vzwmya9v8487) 👤 Amos Wenger 💬 2799 🗓️ 2025-04-08
+- [The Essential Functions of Zod Validation Pipelines](https://didoesdigital.com/blog/zod-essential-functions/) [📖](https://read.readwise.io/read/01jr6gsnnvhwj89g6z9tjj3261) 👤 Diana MacDonald 💬 3320 🔖 #zod 🗓️ 2025-04-06
+- [Things I enjoyed in 2024](https://joshcollinsworth.com/blog/enjoyed-in-2024) [📖](https://read.readwise.io/read/01jr6epgcjrp4cxxqd374xatvn) 👤 Josh Collinsworth 💬 9381 🗓️ 2025-04-06
+- [Nuxt Server Components vs. Lazy Hydration](https://www.youtube.com/watch?v=Jijoc0RH_tA) [📖](https://read.readwise.io/read/01jr0nbegmhjd6t31t6bfrerr7) 👤 Alexander Lichter 🔖 #nuxt 🗓️ 2025-04-04
+- [Synonyms via JSON](https://leancrew.com/all-this/2025/04/synonyms-via-json/) [📖](https://read.readwise.io/read/01jqx8gt2zp6cka0gvnrx1k6hs) 👤 Dr. Drang 💬 1165 🗓️ 2025-04-03
+- [The Eval has landed 🦅](https://pydantic.dev/articles/q1-2025-summary) [📖](https://read.readwise.io/read/01jqw0srqqfmaa9jcc71hxvatq) 👤 pydantic.dev 💬 293 🗓️ 2025-04-02
+- [Beating the Averages](https://paulgraham.com/avg.html) [📖](https://read.readwise.io/read/01jqmbe0fefm2rd8f06dk817ra) 👤 Paul Graham 💬 4480 🗓️ 2025-03-30
     > **Заметка:** From Sean Goedecke’s post
-- [Contemplating on templates • The Applied Go Weekly Newsletter 2025-03-30](https://newsletter.appliedgo.net/archive/2025-03-30-contemplating-on-templates/) 👤 The Applied Go Weekly Newsletter 💬 2019 🔖 #go 🗓️ 2025-03-30
-- [Impromptu disaster recovery](https://fasterthanli.me/articles/impromptu-disaster-recovery) 👤 Amos Wenger 💬 9214 🗓️ 2025-03-29
-- [Building a Real-time Dashboard with FastAPI and Svelte](https://testdriven.io/blog/fastapi-svelte/) 👤 Amir Tadrisi 💬 2608 🔖 #sse, #fastapi 🗓️ 2025-03-27
-- [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 2 — VueJS3 + Centrifugo с монетизацией приложения](https://habr.com/ru/companies/amvera/articles/893250/) 👤 yakvenalex 💬 6864 🔖 #miniapp 🗓️ 2025-03-25
-- [Bitfield Consulting](https://bitfieldconsulting.com/posts/things-fall-apart) 👤 Bitfield Consulting 💬 45 🔖 #rust 🗓️ 2025-03-24
-- [PgBouncer is useful, important, and fraught with peril](https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html) 👤 JP Camara 💬 8311 🔖 #postgresql 🗓️ 2025-03-23
-- [What are the options? • The Applied Go Weekly Newsletter 2025-03-23](https://newsletter.appliedgo.net/archive/2025-03-23-what-are-the-options/) 👤 The Applied Go Weekly Newsletter 💬 2128 🔖 #go 🗓️ 2025-03-23
-- [Getting a grip on Nuxt's auto-import functionality](https://davestewart.co.uk/blog/nuxt-auto-import/) 👤 Dave Stewart 💬 2706 🔖 #nuxt 🗓️ 2025-03-22
-- [Modular site architecture with Nuxt layers](https://davestewart.co.uk/blog/nuxt-layers/) 👤 Dave Stewart 💬 3604 🔖 #nuxt 🗓️ 2025-03-22
-- [25 Finder tips & tactics to speed up your workflow](https://davestewart.co.uk/blog/mac-finder-tips/) 👤 Dave Stewart 💬 1240 🗓️ 2025-03-22
-- [Modulations - Cinema for the Ear | Documentary](https://youtube.com/watch?v=icpDt6aQDww&si=4tunaAiywa3VYR5X) 👤 Cultures of Resistance Films 🗓️ 2025-03-22
-- [estimation.md · GitHub](https://gist.github.com/davestewart/643ffc55aa7c173618d2707b776a1443) 👤 262588213843476 💬 1415 🗓️ 2025-03-21
-- [Benchmarking: What You Can't Miss in Go 1.24](https://jarosz.dev/code/benchmarking-what-you-cannot-miss-in-go-1.24/) 👤 Jakub Jarosz 💬 872 🔖 #go 🗓️ 2025-03-21
-- [Web Components Vs. Framework Components: What’s The Difference?](https://www.smashingmagazine.com/2025/03/web-components-vs-framework-components/) 👤 Gabriel Shoyombo 💬 1975 🗓️ 2025-03-18
-- [Планировщик Go — самый подробный гайд простым языком](https://habr.com/ru/articles/891426/) 👤 JustSkiv 💬 7178 🗓️ 2025-03-18
-- [x-h3-session](https://h3.unjs.io/examples/handle-session) 👤 unjs.io 💬 578 🗓️ 2025-03-17
-- [django-vite - integrate Vite with Django | TailwindCSS v4 setup](https://www.youtube.com/watch?v=wgN04Byqi9c) 👤 BugBytes 🗓️ 2025-03-17
-- [Optimizations, Small And Big • The Applied Go Weekly Newsletter 2025-03-16](https://newsletter.appliedgo.net/archive/2025-03-16-optimizations-small-and-big/) 👤 The Applied Go Weekly Newsletter 💬 1631 🗓️ 2025-03-17
-- [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 1 — Бэкенд на FastAPI, Aiogram, Redis и Centrifugo](https://habr.com/ru/companies/amvera/articles/890976/) 👤 yakvenalex 💬 10630 🔖 #fastapi, #miniapp 🗓️ 2025-03-25
-- [PKM Summit 2025 Notes](https://brainbaking.com/post/2025/03/pkm-summit-2025/) 👤 Brain Baking 💬 1310 🗓️ 2025-03-15
-- [Django Query Optimization - Defer, Only, and Exclude](https://testdriven.io/blog/django-query-optimization/) 👤 testdriven.io 💬 1383 🔖 #django 🗓️ 2025-03-15
-- [Building a Secure Session Manager in Go](https://themsaid.com/building-secure-session-manager-in-go) 👤 themsaid.com 💬 3295 🔖 #go 🗓️ 2025-03-13
-- [Воркшоп: проектирование структуры БД](https://www.youtube.com/watch?v=4rdSbMbacC4) 👤 Диджитализируй! 🗓️ 2025-03-12
-- [FullStack Machine Learning App: FastAPI | Pandas | Numpy | Streamlit | SqlAlchemy | SQLite](https://www.youtube.com/watch?v=xj7nmKIlJSM) 👤 Bek Brace 🗓️ 2025-03-12
-- [When to Use $fetch, useFetch, or useAsyncData in Nuxt: A Comprehensive Guide](https://masteringnuxt.com/blog/when-to-use-fetch-usefetch-or-useasyncdata-in-nuxt-a-comprehensive-guide?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 1206 🔖 #nuxt 🗓️ 2025-03-10
-- [Postgres as a search engine](https://anyblockers.com/posts/postgres-as-a-search-engine) 👤 anyblockers.com 💬 2707 🔖 #postgresql 🗓️ 2025-03-10
-- [Rewritten in Rust: Modern Alternatives of Command-Line Tools](https://zaiste.net/posts/shell-commands-rust/) 👤 zaiste.net 💬 750 🗓️ 2025-03-10
-- [Looking at RSS User-Agents](https://www.jefftk.com/p/looking-at-rss-user-agents) 👤 Jeff Kaufman 💬 376 🗓️ 2025-03-10
-- [A Million Little Secrets](https://www.joshwcomeau.com/blog/whimsical-animations/?from=newsletter) 👤 Josh W. Comeau 💬 4938 🗓️ 2025-03-10
-- [And "Suddenly", Everything Was Faster • The Applied Go Weekly Newsletter 2025-03-09](https://newsletter.appliedgo.net/archive/2025-03-09-and-suddenly-everything-was-faster/) 👤 The Applied Go Weekly Newsletter 💬 2153 🗓️ 2025-03-09
-- [How to manage tool dependencies in Go 1.24+](https://www.alexedwards.net/blog/how-to-manage-tool-dependencies-in-go-1.24-plus) 👤 Alex Edwards 💬 1224 🔖 #go 🗓️ 2025-03-08
-- [How to Deploy Selectively to Production](https://www.caktusgroup.com/blog/2025/03/04/how-deploy-selectively-production/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_275) 👤 Tobias McNulty 💬 495 🔖 #git 🗓️ 2025-03-08
-- [The Repository pattern: a painless way to simplify your Go service logic](https://threedots.tech/post/repository-pattern-in-go/) 👤 Robert Laszczak 💬 4186 🔖 #go 🗓️ 2025-03-07
-- [monolith](https://simonwillison.net/2025/Mar/6/monolith/#atom-everything) 👤 Simon Willison 💬 148 🗓️ 2025-03-07
-- [Rust Learning Resources 2025](https://corrode.dev/blog/rust-learning-resources-2025/) 👤 Corrode Rust Consulting 💬 970 🔖 #rust 🗓️ 2025-03-07
-- [From unique to cleanups and weak: new low-level tools for efficiency](https://go.dev/blog/cleanups-and-weak) 👤 Michael Knyszek 💬 2286 🔖 #go 🗓️ 2025-03-07
-- [Fun With Scrapy Link Validation on CI](https://www.mattlayman.com/blog/2024/fun-scrapy-validation-ci/) 👤 Matt Layman 💬 1442 🗓️ 2025-03-05
-- [Lua Log #1: Event Loop Adventures](https://www.mattlayman.com/blog/2022/lua-log-event-loop-adventures/) 👤 Matt Layman 💬 1177 🗓️ 2025-03-05
-- [Python Structural Pattern Matching - Intro with Examples](https://www.youtube.com/watch?v=wFpTTFI3DIg) 👤 BugBytes 🗓️ 2025-03-05
-- [[1hr Talk] Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=QSFf6hCBWOd5YRwE) 👤 Andrej Karpathy 🗓️ 2025-03-04
-- [The Tiny Tyrants of Technology • The Applied Go Weekly Newsletter 2025-03-02](https://newsletter.appliedgo.net/archive/2025-03-02-the-tiny-tyrants-of-technology/) 👤 The Applied Go Weekly Newsletter 💬 1808 🗓️ 2025-03-04
-- [🔮 Mental Health Prediction Machine Learning Project: FastAPI + Streamlit + Pandas + SQLAlchemy](https://www.youtube.com/watch?v=lLapCy4dTHA) 👤 Bek Brace 🗓️ 2025-03-03
-- [Async, Sync, in Between](https://antfu.me/posts/async-sync-in-between) 👤 Anthony Fu 💬 1211 🗓️ 2025-03-03
-- [Как на самом деле устроен Планировщик в Go? Детальный разбор простым языком](https://youtu.be/kedW1xO3Zbo) 👤 Николай Тузов — Golang 🗓️ 2025-03-03
-- [Please confirm that you and not a robot are sending requests](https://yandex.cloud/ru/blog/posts/2025/02/virtual-machine-basics) 👤 yandex.cloud 💬 28 🗓️ 2025-02-28
-- [Tips to debug hanging Go programs](https://michael.stapelberg.ch/posts/2025-02-27-debug-hanging-go-programs/) 👤 Michael Stapelberg 💬 1952 🔖 #go 🗓️ 2025-02-27
-- [Bitfield Consulting](https://bitfieldconsulting.com/posts/writing-terrible-code) 👤 Bitfield Consulting 💬 13 🔖 #rust 🗓️ 2025-02-27
-- [Centrifugo v6 + FastAPI + Python: разрабатываем веб-опросник с обновлениями в реальном времени](https://habr.com/ru/companies/amvera/articles/885714/) 👤 yakvenalex 💬 5295 🔖 #try, #fastapi, #miniapp 🗓️ 2025-02-27
-- [From Go With Love • The Applied Go Weekly Newsletter 2025-02-23](https://newsletter.appliedgo.net/archive/2025-02-23-from-go-with-love/) 👤 The Applied Go Weekly Newsletter 💬 2021 🗓️ 2025-02-24
-- [🔥 (#205) Flatten Nuxt Content Routes, Mock Any Import, and more](mailto:reader-forwarded-email/2484f0a7fdf5aa504203887bab2d5cb3) 👤 Michael Thiessen 💬 1234 🔖 #nuxt 🗓️ 2025-02-19
-- [Zig & Go Interoperation](https://findev.datainquiry.dev/zig-and-go-interoperation) 👤 Jaime Lopez 💬 607 🔖 #go 🗓️ 2025-02-18
-- [You Cannot Simply Kill A Goroutine • The Applied Go Weekly Newsletter 2025-02-16](https://newsletter.appliedgo.net/archive/you-cannot-simply-kill-a-goroutine/) 👤 The Applied Go Weekly Newsletter 💬 1790 🔖 #go 🗓️ 2025-02-17
-- [How Protobuf Works—The Art of Data Encoding](https://victoriametrics.com/blog/go-protobuf/) 👤 Phuong Le 💬 2618 🔖 #go 🗓️ 2025-02-14
-- [How to add a directory to your PATH](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/) 👤 Julia Evans 💬 1597 🗓️ 2025-02-14
-- [Extensible Wasm Applications with Go](https://go.dev/blog/wasmexport) 👤 go.dev 💬 908 🔖 #go 🗓️ 2025-02-14
-- [Go 1.24's omitzero is another one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/02/12/go-omitzero-124/) 👤 Jamie Tanna | Software Engineer 💬 711 🔖 #go 🗓️ 2025-02-13
-- [C++, Go, and Rust gaining popularity – Tiobe](https://www.infoworld.com/article/3821294/c-go-and-rust-gaining-popularity-tiobe.html?utm_medium=erik.in&utm_source=mastodon) 👤 Matthew Tyson 💬 421 🗓️ 2025-02-13
-- [GoTH Stack - Go, HTMX and Templ for interactive apps!](https://www.youtube.com/watch?v=mzR0BcKg2cI) 👤 BugBytes 🔖 #go, #htmx 🗓️ 2025-02-13
-- [The Most Admired Web Framework](https://www.youtube.com/watch?v=RNMwz5n1M80) 👤 Code to the Moon 🔖 #elixir 🗓️ 2025-02-12
-- [OpenTelemetry: A Guide to Observability with Go](https://www.lucavall.in/blog/opentelemetry-a-guide-to-observability-with-go) 👤 Luca Cavallin 💬 3203 🔖 #go, #observability 🗓️ 2025-02-10
-- [If You Can Name It, You Can Tame It • The Applied Go Weekly Newsletter 2025-02-09](https://newsletter.appliedgo.net/archive/if-you-can-name-it-you-can-tame-it/) 👤 The Applied Go Weekly Newsletter 💬 2142 🔖 #go 🗓️ 2025-02-10
-- [DevOps with Dhawos](https://dhawos.dev/site/en/articles/bluesky-custom-feeds) 👤 dhawos.dev 💬 3448 🔖 #go, #bluesky 🗓️ 2025-02-09
-- [How to Set Up Documentation as Code with Docusaurus and GitHub Actions](https://www.freecodecamp.org/news/set-up-docs-as-code-with-docusaurus-and-github-actions/) 👤 freeCodeCamp.org 💬 2140 🗓️ 2025-02-06
-- [Let's compile Python 1.0](https://www.bitecode.dev/p/lets-compile-python-10?r=28tjlb&amp%3Butm_campaign=post&amp%3Butm_medium=web&triedRedirect=true) 👤 Bite Code! 💬 1255 🗓️ 2025-02-06
-- [JSON - The Fine Print: Part 2 - Emitting JSON](https://www.ardanlabs.com/blog/2024/10/json-the-fine-print-part-2.html) 👤 ardanlabs.com 💬 2088 🔖 #go 🗓️ 2025-02-05
-- [About](https://pushpin.org/docs/about/#introduction) 👤 Pushpin 💬 1551 🔖 #try, #django 🗓️ 2025-02-04
+- [Contemplating on templates • The Applied Go Weekly Newsletter 2025-03-30](https://newsletter.appliedgo.net/archive/2025-03-30-contemplating-on-templates/) [📖](https://read.readwise.io/read/01jqkkage7pxr7nma02qmaef1t) 👤 The Applied Go Weekly Newsletter 💬 2019 🔖 #go 🗓️ 2025-03-30
+- [Impromptu disaster recovery](https://fasterthanli.me/articles/impromptu-disaster-recovery) [📖](https://read.readwise.io/read/01jqh6pk6d3cz2e7mkafxhrezd) 👤 Amos Wenger 💬 9214 🗓️ 2025-03-29
+- [Building a Real-time Dashboard with FastAPI and Svelte](https://testdriven.io/blog/fastapi-svelte/) [📖](https://read.readwise.io/read/01jqb8ysh25qfxm59trnex9ckt) 👤 Amir Tadrisi 💬 2608 🔖 #sse, #fastapi 🗓️ 2025-03-27
+- [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 2 — VueJS3 + Centrifugo с монетизацией приложения](https://habr.com/ru/companies/amvera/articles/893250/) [📖](https://read.readwise.io/read/01jq6mb1x5rqhea7ksh1y1n03g) 👤 yakvenalex 💬 6864 🔖 #miniapp 🗓️ 2025-03-25
+- [Bitfield Consulting](https://bitfieldconsulting.com/posts/things-fall-apart) [📖](https://read.readwise.io/read/01jq4xh9hsqhyd1cyjtg7vbc2a) 👤 Bitfield Consulting 💬 45 🔖 #rust 🗓️ 2025-03-24
+- [PgBouncer is useful, important, and fraught with peril](https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html) [📖](https://read.readwise.io/read/01jq2e2azvg6d3gpbw9meek12v) 👤 JP Camara 💬 8311 🔖 #postgresql 🗓️ 2025-03-23
+- [What are the options? • The Applied Go Weekly Newsletter 2025-03-23](https://newsletter.appliedgo.net/archive/2025-03-23-what-are-the-options/) [📖](https://read.readwise.io/read/01jq2cmfpbnt60zkwf36nhk0js) 👤 The Applied Go Weekly Newsletter 💬 2128 🔖 #go 🗓️ 2025-03-23
+- [Getting a grip on Nuxt's auto-import functionality](https://davestewart.co.uk/blog/nuxt-auto-import/) [📖](https://read.readwise.io/read/01jpz6vsp4yw559m24976kqgky) 👤 Dave Stewart 💬 2706 🔖 #nuxt 🗓️ 2025-03-22
+- [Modular site architecture with Nuxt layers](https://davestewart.co.uk/blog/nuxt-layers/) [📖](https://read.readwise.io/read/01jpz6r986prtp3xyxfgryabt4) 👤 Dave Stewart 💬 3604 🔖 #nuxt 🗓️ 2025-03-22
+- [25 Finder tips & tactics to speed up your workflow](https://davestewart.co.uk/blog/mac-finder-tips/) [📖](https://read.readwise.io/read/01jpz6prkynd985z0y5zabc99h) 👤 Dave Stewart 💬 1240 🗓️ 2025-03-22
+- [Modulations - Cinema for the Ear | Documentary](https://youtube.com/watch?v=icpDt6aQDww&si=4tunaAiywa3VYR5X) [📖](https://read.readwise.io/read/01jpyyh8a48nz112w7v5aars6m) 👤 Cultures of Resistance Films 🗓️ 2025-03-22
+- [estimation.md · GitHub](https://gist.github.com/davestewart/643ffc55aa7c173618d2707b776a1443) [📖](https://read.readwise.io/read/01jpxbebnhkpqah1d7fdkfb0ne) 👤 262588213843476 💬 1415 🗓️ 2025-03-21
+- [Benchmarking: What You Can't Miss in Go 1.24](https://jarosz.dev/code/benchmarking-what-you-cannot-miss-in-go-1.24/) [📖](https://read.readwise.io/read/01jpww3b30rhy2gwvsvghvt6ct) 👤 Jakub Jarosz 💬 872 🔖 #go 🗓️ 2025-03-21
+- [Web Components Vs. Framework Components: What’s The Difference?](https://www.smashingmagazine.com/2025/03/web-components-vs-framework-components/) [📖](https://read.readwise.io/read/01jpnfjx613p1p6475k2awmy20) 👤 Gabriel Shoyombo 💬 1975 🗓️ 2025-03-18
+- [Планировщик Go — самый подробный гайд простым языком](https://habr.com/ru/articles/891426/) [📖](https://read.readwise.io/read/01jpn05tk6wkjvt7efsb78tryx) 👤 JustSkiv 💬 7178 🗓️ 2025-03-18
+- [x-h3-session](https://h3.unjs.io/examples/handle-session) [📖](https://read.readwise.io/read/01jpje0ryj4e7j5vgbn9kggjgp) 👤 unjs.io 💬 578 🗓️ 2025-03-17
+- [django-vite - integrate Vite with Django | TailwindCSS v4 setup](https://www.youtube.com/watch?v=wgN04Byqi9c) [📖](https://read.readwise.io/read/01jphx2ypb7sk9b928vc9ygrqd) 👤 BugBytes 🗓️ 2025-03-17
+- [Optimizations, Small And Big • The Applied Go Weekly Newsletter 2025-03-16](https://newsletter.appliedgo.net/archive/2025-03-16-optimizations-small-and-big/) [📖](https://read.readwise.io/read/01jphcerypwz7m0acnjqc671jk) 👤 The Applied Go Weekly Newsletter 💬 1631 🗓️ 2025-03-17
+- [Создание анонимного чата в Telegram: Бот с MiniApp интерфейсом. Часть 1 — Бэкенд на FastAPI, Aiogram, Redis и Centrifugo](https://habr.com/ru/companies/amvera/articles/890976/) [📖](https://read.readwise.io/read/01jph8c34x4bam4a9q08mmtt4n) 👤 yakvenalex 💬 10630 🔖 #fastapi, #miniapp 🗓️ 2025-03-25
+- [PKM Summit 2025 Notes](https://brainbaking.com/post/2025/03/pkm-summit-2025/) [📖](https://read.readwise.io/read/01jpe2pjnrqz1xj1p8ffxycm2d) 👤 Brain Baking 💬 1310 🗓️ 2025-03-15
+- [Django Query Optimization - Defer, Only, and Exclude](https://testdriven.io/blog/django-query-optimization/) [📖](https://read.readwise.io/read/01jpe2fpwzekfdaq8yq63ax817) 👤 testdriven.io 💬 1383 🔖 #django 🗓️ 2025-03-15
+- [Building a Secure Session Manager in Go](https://themsaid.com/building-secure-session-manager-in-go) [📖](https://read.readwise.io/read/01jp7hmb0g2jz7c53nvw6gej31) 👤 themsaid.com 💬 3295 🔖 #go 🗓️ 2025-03-13
+- [Воркшоп: проектирование структуры БД](https://www.youtube.com/watch?v=4rdSbMbacC4) [📖](https://read.readwise.io/read/01jp4b9vce30cv776a0xzhtwk1) 👤 Диджитализируй! 🗓️ 2025-03-12
+- [FullStack Machine Learning App: FastAPI | Pandas | Numpy | Streamlit | SqlAlchemy | SQLite](https://www.youtube.com/watch?v=xj7nmKIlJSM) [📖](https://read.readwise.io/read/01jp4awf77skt8w5bt7pqnfg20) 👤 Bek Brace 🗓️ 2025-03-12
+- [When to Use $fetch, useFetch, or useAsyncData in Nuxt: A Comprehensive Guide](https://masteringnuxt.com/blog/when-to-use-fetch-usefetch-or-useasyncdata-in-nuxt-a-comprehensive-guide?friend=MOKKAPPS) [📖](https://read.readwise.io/read/01jp0qwd9crw0khfsdne23nb6c) 👤 masteringnuxt.com 💬 1206 🔖 #nuxt 🗓️ 2025-03-10
+- [Postgres as a search engine](https://anyblockers.com/posts/postgres-as-a-search-engine) [📖](https://read.readwise.io/read/01jp0q1vjge03qarqr9prvpapc) 👤 anyblockers.com 💬 2707 🔖 #postgresql 🗓️ 2025-03-10
+- [Rewritten in Rust: Modern Alternatives of Command-Line Tools](https://zaiste.net/posts/shell-commands-rust/) [📖](https://read.readwise.io/read/01jnzz3x2xx4bewbqpkvc9k9zv) 👤 zaiste.net 💬 750 🗓️ 2025-03-10
+- [Looking at RSS User-Agents](https://www.jefftk.com/p/looking-at-rss-user-agents) [📖](https://read.readwise.io/read/01jnzs35cbt46m8famaezhvkwd) 👤 Jeff Kaufman 💬 376 🗓️ 2025-03-10
+- [A Million Little Secrets](https://www.joshwcomeau.com/blog/whimsical-animations/?from=newsletter) [📖](https://read.readwise.io/read/01jnzgw2kw9bykq802p9cf2b8q) 👤 Josh W. Comeau 💬 4938 🗓️ 2025-03-10
+- [And "Suddenly", Everything Was Faster • The Applied Go Weekly Newsletter 2025-03-09](https://newsletter.appliedgo.net/archive/2025-03-09-and-suddenly-everything-was-faster/) [📖](https://read.readwise.io/read/01jny87ncvdgh1hbkapagtyhmn) 👤 The Applied Go Weekly Newsletter 💬 2153 🗓️ 2025-03-09
+- [How to manage tool dependencies in Go 1.24+](https://www.alexedwards.net/blog/how-to-manage-tool-dependencies-in-go-1.24-plus) [📖](https://read.readwise.io/read/01jnvs9zc1k7e2dytxska670ng) 👤 Alex Edwards 💬 1224 🔖 #go 🗓️ 2025-03-08
+- [How to Deploy Selectively to Production](https://www.caktusgroup.com/blog/2025/03/04/how-deploy-selectively-production/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_275) [📖](https://read.readwise.io/read/01jnvrrpv20xpmd52ar6srvdqk) 👤 Tobias McNulty 💬 495 🔖 #git 🗓️ 2025-03-08
+- [The Repository pattern: a painless way to simplify your Go service logic](https://threedots.tech/post/repository-pattern-in-go/) [📖](https://read.readwise.io/read/01jnqr50z4kj6990049n72xkdm) 👤 Robert Laszczak 💬 4186 🔖 #go 🗓️ 2025-03-07
+- [monolith](https://simonwillison.net/2025/Mar/6/monolith/#atom-everything) [📖](https://read.readwise.io/read/01jnqh0p077qnchdzeg53prhhx) 👤 Simon Willison 💬 148 🗓️ 2025-03-07
+- [Rust Learning Resources 2025](https://corrode.dev/blog/rust-learning-resources-2025/) [📖](https://read.readwise.io/read/01jnqargm4k4gqfmyfd532kyqq) 👤 Corrode Rust Consulting 💬 970 🔖 #rust 🗓️ 2025-03-07
+- [From unique to cleanups and weak: new low-level tools for efficiency](https://go.dev/blog/cleanups-and-weak) [📖](https://read.readwise.io/read/01jnqanyaatyvnhhwc13t41mnn) 👤 Michael Knyszek 💬 2286 🔖 #go 🗓️ 2025-03-07
+- [Fun With Scrapy Link Validation on CI](https://www.mattlayman.com/blog/2024/fun-scrapy-validation-ci/) [📖](https://read.readwise.io/read/01jnm342fmtqe01mzedh5spv8e) 👤 Matt Layman 💬 1442 🗓️ 2025-03-05
+- [Lua Log #1: Event Loop Adventures](https://www.mattlayman.com/blog/2022/lua-log-event-loop-adventures/) [📖](https://read.readwise.io/read/01jnm328tbpqypck94vhcqme6k) 👤 Matt Layman 💬 1177 🗓️ 2025-03-05
+- [Python Structural Pattern Matching - Intro with Examples](https://www.youtube.com/watch?v=wFpTTFI3DIg) [📖](https://read.readwise.io/read/01jnm2pjs8nvevms3sj7mpe2mx) 👤 BugBytes 🗓️ 2025-03-05
+- [[1hr Talk] Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=QSFf6hCBWOd5YRwE) [📖](https://read.readwise.io/read/01jnhf5qdpks0kytdnh3bfvzyc) 👤 Andrej Karpathy 🗓️ 2025-03-04
+- [The Tiny Tyrants of Technology • The Applied Go Weekly Newsletter 2025-03-02](https://newsletter.appliedgo.net/archive/2025-03-02-the-tiny-tyrants-of-technology/) [📖](https://read.readwise.io/read/01jnftkwmehztva6eh337ggxpz) 👤 The Applied Go Weekly Newsletter 💬 1808 🗓️ 2025-03-04
+- [🔮 Mental Health Prediction Machine Learning Project: FastAPI + Streamlit + Pandas + SQLAlchemy](https://www.youtube.com/watch?v=lLapCy4dTHA) [📖](https://read.readwise.io/read/01jnd8zca574sp04tfpkzzn5mg) 👤 Bek Brace 🗓️ 2025-03-03
+- [Async, Sync, in Between](https://antfu.me/posts/async-sync-in-between) [📖](https://read.readwise.io/read/01jnd8y3pt2a27r0hmkgjqg5hq) 👤 Anthony Fu 💬 1211 🗓️ 2025-03-03
+- [Как на самом деле устроен Планировщик в Go? Детальный разбор простым языком](https://youtu.be/kedW1xO3Zbo) [📖](https://read.readwise.io/read/01jnd8cy1w79kv9epvt1cs3pqn) 👤 Николай Тузов — Golang 🗓️ 2025-03-03
+- [Please confirm that you and not a robot are sending requests](https://yandex.cloud/ru/blog/posts/2025/02/virtual-machine-basics) [📖](https://read.readwise.io/read/01jn66ht7ptg7heyzve1n2dbed) 👤 yandex.cloud 💬 28 🗓️ 2025-02-28
+- [Tips to debug hanging Go programs](https://michael.stapelberg.ch/posts/2025-02-27-debug-hanging-go-programs/) [📖](https://read.readwise.io/read/01jn4asr480xtjghaf885553yh) 👤 Michael Stapelberg 💬 1952 🔖 #go 🗓️ 2025-02-27
+- [Bitfield Consulting](https://bitfieldconsulting.com/posts/writing-terrible-code) [📖](https://read.readwise.io/read/01jn4acatkfea70zewjd92de1r) 👤 Bitfield Consulting 💬 13 🔖 #rust 🗓️ 2025-02-27
+- [Centrifugo v6 + FastAPI + Python: разрабатываем веб-опросник с обновлениями в реальном времени](https://habr.com/ru/companies/amvera/articles/885714/) [📖](https://read.readwise.io/read/01jn318pvhd6b9ygq2rk2v36tr) 👤 yakvenalex 💬 5295 🔖 #try, #fastapi, #miniapp 🗓️ 2025-02-27
+- [From Go With Love • The Applied Go Weekly Newsletter 2025-02-23](https://newsletter.appliedgo.net/archive/2025-02-23-from-go-with-love/) [📖](https://read.readwise.io/read/01jmv770jfptazm7f8q4hn29h9) 👤 The Applied Go Weekly Newsletter 💬 2021 🗓️ 2025-02-24
+- [🔥 (#205) Flatten Nuxt Content Routes, Mock Any Import, and more](mailto:reader-forwarded-email/2484f0a7fdf5aa504203887bab2d5cb3) [📖](https://read.readwise.io/read/01jmg2bgsecwepn89fyxs5wckg) 👤 Michael Thiessen 💬 1234 🔖 #nuxt 🗓️ 2025-02-19
+- [Zig & Go Interoperation](https://findev.datainquiry.dev/zig-and-go-interoperation) [📖](https://read.readwise.io/read/01jmdftkt1h967ts7gkdd99jbz) 👤 Jaime Lopez 💬 607 🔖 #go 🗓️ 2025-02-18
+- [You Cannot Simply Kill A Goroutine • The Applied Go Weekly Newsletter 2025-02-16](https://newsletter.appliedgo.net/archive/you-cannot-simply-kill-a-goroutine/) [📖](https://read.readwise.io/read/01jm9hkv7kzagxbt0dp0b2ynxy) 👤 The Applied Go Weekly Newsletter 💬 1790 🔖 #go 🗓️ 2025-02-17
+- [How Protobuf Works—The Art of Data Encoding](https://victoriametrics.com/blog/go-protobuf/) [📖](https://read.readwise.io/read/01jm1yk79rpr8y7bz7fp4m31r4) 👤 Phuong Le 💬 2618 🔖 #go 🗓️ 2025-02-14
+- [How to add a directory to your PATH](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/) [📖](https://read.readwise.io/read/01jm1mvve2jws78smd7snr3shh) 👤 Julia Evans 💬 1597 🗓️ 2025-02-14
+- [Extensible Wasm Applications with Go](https://go.dev/blog/wasmexport) [📖](https://read.readwise.io/read/01jm1dzs004jmp49vr61x7xc7b) 👤 go.dev 💬 908 🔖 #go 🗓️ 2025-02-14
+- [Go 1.24's omitzero is another one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/02/12/go-omitzero-124/) [📖](https://read.readwise.io/read/01jkz5z7rmqe7qdyk90ze9e827) 👤 Jamie Tanna | Software Engineer 💬 711 🔖 #go 🗓️ 2025-02-13
+- [C++, Go, and Rust gaining popularity – Tiobe](https://www.infoworld.com/article/3821294/c-go-and-rust-gaining-popularity-tiobe.html?utm_medium=erik.in&utm_source=mastodon) [📖](https://read.readwise.io/read/01jkz2trekqft5a594eg74gakf) 👤 Matthew Tyson 💬 421 🗓️ 2025-02-13
+- [GoTH Stack - Go, HTMX and Templ for interactive apps!](https://www.youtube.com/watch?v=mzR0BcKg2cI) [📖](https://read.readwise.io/read/01jkyxt6cthbz6v0bpq1ckenb6) 👤 BugBytes 🔖 #go, #htmx 🗓️ 2025-02-13
+- [The Most Admired Web Framework](https://www.youtube.com/watch?v=RNMwz5n1M80) [📖](https://read.readwise.io/read/01jkwp4f2x1c6bty3qe8k44z5n) 👤 Code to the Moon 🔖 #elixir 🗓️ 2025-02-12
+- [OpenTelemetry: A Guide to Observability with Go](https://www.lucavall.in/blog/opentelemetry-a-guide-to-observability-with-go) [📖](https://read.readwise.io/read/01jkqprmky24x64es8hh4svy88) 👤 Luca Cavallin 💬 3203 🔖 #go, #observability 🗓️ 2025-02-10
+- [If You Can Name It, You Can Tame It • The Applied Go Weekly Newsletter 2025-02-09](https://newsletter.appliedgo.net/archive/if-you-can-name-it-you-can-tame-it/) [📖](https://read.readwise.io/read/01jkq41vegzrvfpxjns7rbzkb8) 👤 The Applied Go Weekly Newsletter 💬 2142 🔖 #go 🗓️ 2025-02-10
+- [DevOps with Dhawos](https://dhawos.dev/site/en/articles/bluesky-custom-feeds) [📖](https://read.readwise.io/read/01jkpbafnfr9m65a8kqwyw28kb) 👤 dhawos.dev 💬 3448 🔖 #go, #bluesky 🗓️ 2025-02-09
+- [How to Set Up Documentation as Code with Docusaurus and GitHub Actions](https://www.freecodecamp.org/news/set-up-docs-as-code-with-docusaurus-and-github-actions/) [📖](https://read.readwise.io/read/01jkcv2fn0bsncpayc6y0rqbbw) 👤 freeCodeCamp.org 💬 2140 🗓️ 2025-02-06
+- [Let's compile Python 1.0](https://www.bitecode.dev/p/lets-compile-python-10?r=28tjlb&amp%3Butm_campaign=post&amp%3Butm_medium=web&triedRedirect=true) [📖](https://read.readwise.io/read/01jkctyyw4mb2xy9w5t5efzaqk) 👤 Bite Code! 💬 1255 🗓️ 2025-02-06
+- [JSON - The Fine Print: Part 2 - Emitting JSON](https://www.ardanlabs.com/blog/2024/10/json-the-fine-print-part-2.html) [📖](https://read.readwise.io/read/01jkagn5cvtb2c8pqbj0ek62gy) 👤 ardanlabs.com 💬 2088 🔖 #go 🗓️ 2025-02-05
+- [About](https://pushpin.org/docs/about/#introduction) [📖](https://read.readwise.io/read/01jk88p5mmak0qn36x7bwhfyjh) 👤 Pushpin 💬 1551 🔖 #try, #django 🗓️ 2025-02-04
     > **Заметка:** Чел писал в Мастодоне, что как-то сделал чат на этом и Джанго.
-- [botsin.space postmortem](https://muffinlabs.com/posts/2024/12/21/12-21-botsin-space-post-mortem/) 👤 Colin Mitchell 💬 2795 🗓️ 2025-02-04
-- [Managing Django’s Queue](mailto:reader-forwarded-email/051d7aaae45030a5b764f15779659a7d) 👤 Carlton Gibson 💬 2446 🔖 #django 🗓️ 2025-02-03
-- [Error ? • The Applied Go Weekly Newsletter 2025-02-02](https://newsletter.appliedgo.net/archive/error/) 👤 The Applied Go Weekly Newsletter 💬 1967 🔖 #go 🗓️ 2025-02-03
-- [Bitfield Consulting](https://bitfieldconsulting.com/posts/slow-flaky-failing) 👤 Bitfield Consulting 💬 44 🔖 #go, #testing 🗓️ 2025-02-01
-- [Reading postmortems](https://danluu.com/postmortem-lessons/) 👤 danluu.com 💬 2388 🗓️ 2025-01-30
-- [Literature review on the benefits of static types](https://danluu.com/empirical-pl/) 👤 danluu.com 💬 8807 🗓️ 2025-01-30
-- [FastAPI + SQLAlchemy: Шаблон приложения с JWT-аутентификацией](https://www.youtube.com/watch?v=ZSqhCyotcnw) 👤 Легкий путь в Python 🔖 #fastapi 🗓️ 2025-01-30
-- [P2P на Go: библиотека libp2p](https://habr.com/ru/companies/otus/articles/876996/) 👤 badcasedaily1 💬 1159 🔖 #go 🗓️ 2025-01-30
-- [Go 1.24's go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/) 👤 Jamie Tanna | Software Engineer 💬 1560 🔖 #go 🗓️ 2025-01-30
-- [Dynamic Forms with Flask](https://blog.miguelgrinberg.com/post/dynamic-forms-with-flask) 👤 Miguel Grinberg 💬 2923 🔖 #flask 🗓️ 2025-01-30
-- [Nuxt Tip: Managing Page Load States With useLoadingIndicator](https://mokkapps.de/vue-tips/managing-page-load-states-in-nuxt-with-use-loading-indicator) 👤 Michael Hoffmann 💬 279 🔖 #nuxt 🗓️ 2025-01-30
-- [Jan 10 Go’s best-kept secret: executable examples](https://bitfieldconsulting.com/posts/examples) 👤 John Arundel 💬 1567 🔖 #go 🗓️ 2025-01-29
-- [Django Islands: Part 1](https://blopker.com/writing/07-django-islands-part-1/) 👤 blopker.com 💬 2001 🔖 #django 🗓️ 2025-01-29
-- [Container Queries Unleashed](https://www.joshwcomeau.com/css/container-queries-unleashed/?from=newsletter) 👤 Josh W. Comeau 💬 1069 🔖 #css 🗓️ 2025-01-28
-- [A Weak Connection Is Still A Connection • The Applied Go Weekly Newsletter 2025-01-26](https://newsletter.appliedgo.net/archive/2025-01-26-a-weak-connection-is-still-a-connection/) 👤 The Applied Go Weekly Newsletter 💬 1892 🔖 #go 🗓️ 2025-01-27
-- [Advent of Code 2024 with Elixir - Part 2: The Better](https://simoncrowe.hashnode.dev/advent-of-code-2024-with-elixir-part-2-the-better) 👤 Simon Crowe 💬 623 🔖 #elixir 🗓️ 2025-01-27
-- [Rust vs Zig Showdown (HTMX Webapp)](https://www.youtube.com/watch?v=hWaaG9sN_Z8) 👤 Code to the Moon 🔖 #rust 🗓️ 2025-01-26
-- [Design Patterns in Golang: A Comprehensive Guide](https://dev.to/coolwednesday/design-patterns-in-golang-a-comprehensive-guide-560i) 👤 DEV Community 💬 961 🔖 #go 🗓️ 2025-01-23
-- [Pytest is fast](https://blog.ploeh.dk/2024/12/30/pytest-is-fast/) 👤 Mark Seemann 💬 2420 🗓️ 2025-01-22
-- [The Creative Programmer](private://read/01jj68ssvdy8mxzpk3agzk3tmc) 👤 Wouter Groeneveld 💬 101467 🗓️ 2025-01-22
-- [Exploring Error Handling Patterns in Go](https://8thlight.com/insights/exploring-error-handling-patterns-in-go) 👤 8th Light 💬 2228 🔖 #go 🗓️ 2025-01-22
-- [Classic Design Patterns: Where Are They Now - Brandon Rhodes - code::dive 2022](https://youtube.com/watch?v=pGq7Cr2ekVM&si=ARRcbfsR-N_w9nD2) 👤 code::dive conference 🗓️ 2025-01-21
+- [botsin.space postmortem](https://muffinlabs.com/posts/2024/12/21/12-21-botsin-space-post-mortem/) [📖](https://read.readwise.io/read/01jk7wt4skw5nq7yra29mde6w0) 👤 Colin Mitchell 💬 2795 🗓️ 2025-02-04
+- [Managing Django’s Queue](mailto:reader-forwarded-email/051d7aaae45030a5b764f15779659a7d) [📖](https://read.readwise.io/read/01jk5a12fqat9560ga86xz8t2d) 👤 Carlton Gibson 💬 2446 🔖 #django 🗓️ 2025-02-03
+- [Error ? • The Applied Go Weekly Newsletter 2025-02-02](https://newsletter.appliedgo.net/archive/error/) [📖](https://read.readwise.io/read/01jk53p35czs2gdjzdk0jxmjdz) 👤 The Applied Go Weekly Newsletter 💬 1967 🔖 #go 🗓️ 2025-02-03
+- [Bitfield Consulting](https://bitfieldconsulting.com/posts/slow-flaky-failing) [📖](https://read.readwise.io/read/01jk0hvmfa0gsb3y0y8yck786q) 👤 Bitfield Consulting 💬 44 🔖 #go, #testing 🗓️ 2025-02-01
+- [Reading postmortems](https://danluu.com/postmortem-lessons/) [📖](https://read.readwise.io/read/01jjvm3h7a52z1r67q7yrwhncx) 👤 danluu.com 💬 2388 🗓️ 2025-01-30
+- [Literature review on the benefits of static types](https://danluu.com/empirical-pl/) [📖](https://read.readwise.io/read/01jjv5r8kyhahpwd966yy9j1dg) 👤 danluu.com 💬 8807 🗓️ 2025-01-30
+- [FastAPI + SQLAlchemy: Шаблон приложения с JWT-аутентификацией](https://www.youtube.com/watch?v=ZSqhCyotcnw) [📖](https://read.readwise.io/read/01jjv1q59ggs70wd7syqq98eke) 👤 Легкий путь в Python 🔖 #fastapi 🗓️ 2025-01-30
+- [P2P на Go: библиотека libp2p](https://habr.com/ru/companies/otus/articles/876996/) [📖](https://read.readwise.io/read/01jjtzw2kmvh0a0pewc82fa24q) 👤 badcasedaily1 💬 1159 🔖 #go 🗓️ 2025-01-30
+- [Go 1.24's go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/) [📖](https://read.readwise.io/read/01jjtygee5kvb853t6xeaxps1c) 👤 Jamie Tanna | Software Engineer 💬 1560 🔖 #go 🗓️ 2025-01-30
+- [Dynamic Forms with Flask](https://blog.miguelgrinberg.com/post/dynamic-forms-with-flask) [📖](https://read.readwise.io/read/01jjtwsk6j9w77adf9fpywdn3y) 👤 Miguel Grinberg 💬 2923 🔖 #flask 🗓️ 2025-01-30
+- [Nuxt Tip: Managing Page Load States With useLoadingIndicator](https://mokkapps.de/vue-tips/managing-page-load-states-in-nuxt-with-use-loading-indicator) [📖](https://read.readwise.io/read/01jjtt7ve0bcwcpv58jbbsdmhm) 👤 Michael Hoffmann 💬 279 🔖 #nuxt 🗓️ 2025-01-30
+- [Jan 10 Go’s best-kept secret: executable examples](https://bitfieldconsulting.com/posts/examples) [📖](https://read.readwise.io/read/01jjr97pbc19sse21qd3xj0cp6) 👤 John Arundel 💬 1567 🔖 #go 🗓️ 2025-01-29
+- [Django Islands: Part 1](https://blopker.com/writing/07-django-islands-part-1/) [📖](https://read.readwise.io/read/01jjr940qmg0g5pxq44rz9ryve) 👤 blopker.com 💬 2001 🔖 #django 🗓️ 2025-01-29
+- [Container Queries Unleashed](https://www.joshwcomeau.com/css/container-queries-unleashed/?from=newsletter) [📖](https://read.readwise.io/read/01jjpte6x11j8jb6sk9m8j256d) 👤 Josh W. Comeau 💬 1069 🔖 #css 🗓️ 2025-01-28
+- [A Weak Connection Is Still A Connection • The Applied Go Weekly Newsletter 2025-01-26](https://newsletter.appliedgo.net/archive/2025-01-26-a-weak-connection-is-still-a-connection/) [📖](https://read.readwise.io/read/01jjk5tdr70htna59wn75nkbka) 👤 The Applied Go Weekly Newsletter 💬 1892 🔖 #go 🗓️ 2025-01-27
+- [Advent of Code 2024 with Elixir - Part 2: The Better](https://simoncrowe.hashnode.dev/advent-of-code-2024-with-elixir-part-2-the-better) [📖](https://read.readwise.io/read/01jjk5qg5g437sf11c91crdve8) 👤 Simon Crowe 💬 623 🔖 #elixir 🗓️ 2025-01-27
+- [Rust vs Zig Showdown (HTMX Webapp)](https://www.youtube.com/watch?v=hWaaG9sN_Z8) [📖](https://read.readwise.io/read/01jjgyn48psmx9c1b41e1353tb) 👤 Code to the Moon 🔖 #rust 🗓️ 2025-01-26
+- [Design Patterns in Golang: A Comprehensive Guide](https://dev.to/coolwednesday/design-patterns-in-golang-a-comprehensive-guide-560i) [📖](https://read.readwise.io/read/01jj8qw6qqfbvkmjaneafkygnt) 👤 DEV Community 💬 961 🔖 #go 🗓️ 2025-01-23
+- [Pytest is fast](https://blog.ploeh.dk/2024/12/30/pytest-is-fast/) [📖](https://read.readwise.io/read/01jj7gb2mcwn5h7nzyccr8ej55) 👤 Mark Seemann 💬 2420 🗓️ 2025-01-22
+- [The Creative Programmer](private://read/01jj68ssvdy8mxzpk3agzk3tmc) [📖](https://read.readwise.io/read/01jj68ssvdy8mxzpk3agzk3tmc) 👤 Wouter Groeneveld 💬 101467 🗓️ 2025-01-22
+- [Exploring Error Handling Patterns in Go](https://8thlight.com/insights/exploring-error-handling-patterns-in-go) [📖](https://read.readwise.io/read/01jj689cn1g1694pyt045jm21v) 👤 8th Light 💬 2228 🔖 #go 🗓️ 2025-01-22
+- [Classic Design Patterns: Where Are They Now - Brandon Rhodes - code::dive 2022](https://youtube.com/watch?v=pGq7Cr2ekVM&si=ARRcbfsR-N_w9nD2) [📖](https://read.readwise.io/read/01jj41py2y0cry9c28jcjn41kv) 👤 code::dive conference 🗓️ 2025-01-21
     > **Заметка:** Recommended by Adam Johnson
 
 https://fosstodon.org/@adamchainz/113863413612434249
-- [You don’t need orm in Go](https://medium.com/@enverbisevac/you-dont-need-orm-in-go-9216fb74cdfd) 👤 Enver Bisevac 💬 632 🔖 #go 🗓️ 2025-01-20
+- [You don’t need orm in Go](https://medium.com/@enverbisevac/you-dont-need-orm-in-go-9216fb74cdfd) [📖](https://read.readwise.io/read/01jj2s3xjg09hdkspzx9rgt542) 👤 Enver Bisevac 💬 632 🔖 #go 🗓️ 2025-01-20
     > **Заметка:** Рассмотреть при изучении дженериков.
-- [Writing & Testing a Paginated API Iterator in Go](https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-19-everyones-favorite-route) 👤 thibaut-rousseau.com 💬 2354 🔖 #go 🗓️ 2025-01-20
+- [Writing & Testing a Paginated API Iterator in Go](https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-19-everyones-favorite-route) [📖](https://read.readwise.io/read/01jj2qzgsta3zzb8d03a9kg2s2) 👤 thibaut-rousseau.com 💬 2354 🔖 #go 🗓️ 2025-01-20
     > **Заметка:** Рассмотреть при изучении итераторов.
-- [From net/rpc to gRPC in Go Applications](https://victoriametrics.com/blog/go-net-rpc/index.html) 👤 Phuong Le 💬 1936 🔖 #go 🗓️ 2025-01-20
-- [How HTTP/2 Works and How to Enable It in Go](https://victoriametrics.com/blog/go-http2/?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-19-everyones-favorite-route) 👤 VictoriaMetrics 💬 20 🔖 #go 🗓️ 2025-01-20
-- [10 years of functional options and key lessons Learned along the way](https://www.bytesizego.com/blog/10-years-functional-options-golang?utm_source=christophberger&utm_medium=email&utm_campaign=big-things-will-happen) 👤 bytesizego.com 💬 2801 🔖 #go, #patterns 🗓️ 2025-08-09
-- [Clean Architecture: A Practical Example of Dependency Inversion in Go using Plugins](https://cekrem.github.io/posts/clean-architecture-and-plugins-in-go/?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-12-big-things-will-happen) 👤 Christian Ekrem 💬 1069 🔖 #go 🗓️ 2025-01-20
-- [How to Use the Mermaid JavaScript Library to Create Flowcharts](https://www.freecodecamp.org/news/use-mermaid-javascript-library-to-create-flowcharts/) 👤 freeCodeCamp.org 💬 6198 🗓️ 2025-01-20
-- [How to Make Flowcharts with Mermaid and Bring Joy to your Coding](https://www.freecodecamp.org/news/how-to-make-flowcharts-with-mermaid/) 👤 freeCodeCamp.org 💬 6506 🗓️ 2025-01-20
-- [Build a Database in 3000 Lines with 0 Dependencies](https://build-your-own.org/blog/20251015_db_in_3000/) 👤 James Smith 💬 1185 🔖 #diy 🗓️ 2025-01-18
-- [Как Duolingo перезапустил рост](https://gopractice.ru/stories/duolingo-growth-story/?ysclid=m60t38ft4z493684561) 👤 Редакция GoPractice 💬 3357 🗓️ 2025-01-17
-- [Как поймать и обезвредить проблемные запросы в PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/872574/) 👤 sokolcati 💬 1968 🔖 #postgresql 🗓️ 2025-01-16
-- [Go 1.24: Interactive tour](https://antonz.org/go-1-24/) 👤 Anton Zhiyanov 💬 5387 🔖 #go 🗓️ 2025-02-13
-- [Write Your Own json.Unmarshal](https://stuff.narf.zone/posts/unmarshal/?utm_source=christophberger&utm_medium=email&utm_campaign=big-things-will-happen) 👤 narf.zone 💬 4211 🔖 #go 🗓️ 2025-01-15
-- [Leveraging Go generics for input validation](https://ffss.dev/articles/generic-validation) 👤 ffss.dev 💬 1194 🔖 #go 🗓️ 2025-01-15
-- [Совершенный код](https://readwise.io/reader/document_raw_content/164004200) 👤 Стив Макконелл 💬 264868 🔖 #book 🗓️ 2025-01-15
-- [Using Free Let's Encrypt SSL Certificates in 2025](https://blog.miguelgrinberg.com/post/using-free-let-s-encrypt-ssl-certificates-in-2025) 👤 Miguel Grinberg 💬 2377 🗓️ 2025-01-15
-- [How to override methods in Go](https://victoronsoftware.com/posts/method-overriding-in-go/) 👤 Victor Lyuboslavsky 💬 547 🔖 #go 🗓️ 2025-01-15
-- [Table of Contents](https://almanac.httparchive.org/en/2024/table-of-contents) 👤 HTTP Archive 💬 399 🗓️ 2025-01-13
-- [Be aware of the Makefile effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect) 👤 yossarian.net 💬 812 🗓️ 2025-01-13
-- [What's involved in getting a "modern" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/) 👤 Julia Evans 💬 2092 🗓️ 2025-01-13
-- [The Complete Guide to Learning Go](https://www.calhoun.io/guide-to-go) 👤 Jon Calhoun 💬 4673 🔖 #go, #outline 🗓️ 2025-01-10
-- [Learning Go in 2024; From Beginner to Senior](https://www.bytesizego.com/blog/learning-golang-2024) 👤 Matt Boyle 💬 3339 🔖 #go, #outline 🗓️ 2025-01-10
-- [Effective Go](https://go.dev/doc/effective_go) 👤 go.dev 💬 17095 🔖 #go 🗓️ 2025-01-10
+- [From net/rpc to gRPC in Go Applications](https://victoriametrics.com/blog/go-net-rpc/index.html) [📖](https://read.readwise.io/read/01jj2qf9m8zkmqje134cc97fa6) 👤 Phuong Le 💬 1936 🔖 #go 🗓️ 2025-01-20
+- [How HTTP/2 Works and How to Enable It in Go](https://victoriametrics.com/blog/go-http2/?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-19-everyones-favorite-route) [📖](https://read.readwise.io/read/01jj2qcbzp6qmjbpn4b4mzxrwk) 👤 VictoriaMetrics 💬 20 🔖 #go 🗓️ 2025-01-20
+- [10 years of functional options and key lessons Learned along the way](https://www.bytesizego.com/blog/10-years-functional-options-golang?utm_source=christophberger&utm_medium=email&utm_campaign=big-things-will-happen) [📖](https://read.readwise.io/read/01jj2q49gma87ww0f5e3wntqv0) 👤 bytesizego.com 💬 2801 🔖 #go, #patterns 🗓️ 2025-08-09
+- [Clean Architecture: A Practical Example of Dependency Inversion in Go using Plugins](https://cekrem.github.io/posts/clean-architecture-and-plugins-in-go/?utm_source=christophberger&utm_medium=email&utm_campaign=2025-01-12-big-things-will-happen) [📖](https://read.readwise.io/read/01jj2q1w1wadnqw62v1244er6j) 👤 Christian Ekrem 💬 1069 🔖 #go 🗓️ 2025-01-20
+- [How to Use the Mermaid JavaScript Library to Create Flowcharts](https://www.freecodecamp.org/news/use-mermaid-javascript-library-to-create-flowcharts/) [📖](https://read.readwise.io/read/01jj1hzc73jbvanhz1twvax0xx) 👤 freeCodeCamp.org 💬 6198 🗓️ 2025-01-20
+- [How to Make Flowcharts with Mermaid and Bring Joy to your Coding](https://www.freecodecamp.org/news/how-to-make-flowcharts-with-mermaid/) [📖](https://read.readwise.io/read/01jj1hyea78gtqexjyyz0ab8ze) 👤 freeCodeCamp.org 💬 6506 🗓️ 2025-01-20
+- [Build a Database in 3000 Lines with 0 Dependencies](https://build-your-own.org/blog/20251015_db_in_3000/) [📖](https://read.readwise.io/read/01jhw4nwveze1xweqpjy6mfxk9) 👤 James Smith 💬 1185 🔖 #diy 🗓️ 2025-01-18
+- [Как Duolingo перезапустил рост](https://gopractice.ru/stories/duolingo-growth-story/?ysclid=m60t38ft4z493684561) [📖](https://read.readwise.io/read/01jhtc6afvxb6ka42p4g75w0ae) 👤 Редакция GoPractice 💬 3357 🗓️ 2025-01-17
+- [Как поймать и обезвредить проблемные запросы в PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/872574/) [📖](https://read.readwise.io/read/01jhq8zgnen5e9ga3nezfhtph6) 👤 sokolcati 💬 1968 🔖 #postgresql 🗓️ 2025-01-16
+- [Go 1.24: Interactive tour](https://antonz.org/go-1-24/) [📖](https://read.readwise.io/read/01jhpvsysprpcaf542sxhc2xm1) 👤 Anton Zhiyanov 💬 5387 🔖 #go 🗓️ 2025-02-13
+- [Write Your Own json.Unmarshal](https://stuff.narf.zone/posts/unmarshal/?utm_source=christophberger&utm_medium=email&utm_campaign=big-things-will-happen) [📖](https://read.readwise.io/read/01jhnxgj4dq4f89f8cf4zc7x57) 👤 narf.zone 💬 4211 🔖 #go 🗓️ 2025-01-15
+- [Leveraging Go generics for input validation](https://ffss.dev/articles/generic-validation) [📖](https://read.readwise.io/read/01jhnxdd3nzt29305zzsh0azej) 👤 ffss.dev 💬 1194 🔖 #go 🗓️ 2025-01-15
+- [Совершенный код](https://readwise.io/reader/document_raw_content/164004200) [📖](https://read.readwise.io/read/01jhnqr5egxe6dwey3xen8x32n) 👤 Стив Макконелл 💬 264868 🔖 #book 🗓️ 2025-01-15
+- [Using Free Let's Encrypt SSL Certificates in 2025](https://blog.miguelgrinberg.com/post/using-free-let-s-encrypt-ssl-certificates-in-2025) [📖](https://read.readwise.io/read/01jhmwk5sycxj0ksvnzkyrvwdx) 👤 Miguel Grinberg 💬 2377 🗓️ 2025-01-15
+- [How to override methods in Go](https://victoronsoftware.com/posts/method-overriding-in-go/) [📖](https://read.readwise.io/read/01jhmsvkb4zqpc5fetb1xdbeba) 👤 Victor Lyuboslavsky 💬 547 🔖 #go 🗓️ 2025-01-15
+- [Table of Contents](https://almanac.httparchive.org/en/2024/table-of-contents) [📖](https://read.readwise.io/read/01jhfd7znxeqfsbmwkeqmcge2k) 👤 HTTP Archive 💬 399 🗓️ 2025-01-13
+- [Be aware of the Makefile effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect) [📖](https://read.readwise.io/read/01jhfb2nk1tcprp7c83wpdb7cm) 👤 yossarian.net 💬 812 🗓️ 2025-01-13
+- [What's involved in getting a "modern" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/) [📖](https://read.readwise.io/read/01jhf9k26asbn7vgm0h9r4q8ga) 👤 Julia Evans 💬 2092 🗓️ 2025-01-13
+- [The Complete Guide to Learning Go](https://www.calhoun.io/guide-to-go) [📖](https://read.readwise.io/read/01jh7w150e8ke6g27r4kj5bnsn) 👤 Jon Calhoun 💬 4673 🔖 #go, #outline 🗓️ 2025-01-10
+- [Learning Go in 2024; From Beginner to Senior](https://www.bytesizego.com/blog/learning-golang-2024) [📖](https://read.readwise.io/read/01jh7vqyw7g4x8tk00gp3vdm7x) 👤 Matt Boyle 💬 3339 🔖 #go, #outline 🗓️ 2025-01-10
+- [Effective Go](https://go.dev/doc/effective_go) [📖](https://read.readwise.io/read/01jh7v9tp4rdxfb7e39wfcaywd) 👤 go.dev 💬 17095 🔖 #go 🗓️ 2025-01-10
     > **Заметка:** Recommended by Jon Calhoun.
-- [Show Django flash messages as toasts with Htmx](https://joshkaramuth.com/blog/django-messages-toast-htmx/) 👤 joshkaramuth.com 💬 866 🔖 #htmx, #django 🗓️ 2025-01-09
-- [Go is a Well-Designed Language, Actually](https://mattjhall.co.uk/posts/go-is-well-designed-actually.html) 👤 mattjhall.co.uk 💬 1427 🔖 #go 🗓️ 2025-01-09
-- [Database optimization isn't always obvious](https://kenwhitesell.github.io/2025/01/01/Database-optimization-is-not-alway-obvious.html) 👤 Ken Whitesell 💬 1630 🗓️ 2025-01-09
-- [100 Go Mistakes and How to Avoid Them](https://readwise.io/reader/document_raw_content/8740249) 👤 Teiva Harsanyi 💬 109078 🔖 #go, #book 🗓️ 2025-01-08
-- [Программируй на Haskell](https://readwise.io/reader/document_raw_content/257815814) 👤 Уилл Курт 🔖 #book, #haskell 🗓️ 2025-01-08
-- [Programming Elixir 1.6](https://readwise.io/reader/document_raw_content/28841812) 👤 Dave Thomas 💬 85727 🔖 #book, #elixir 🗓️ 2025-01-08
-- [Elixir in Action, Third Edition](https://readwise.io/reader/document_raw_content/202067289) 👤 Sasa Juric 💬 116155 🔖 #book, #elixir 🗓️ 2025-01-08
-- [Гид по Computer Science](https://readwise.io/reader/document_raw_content/257815230) 👤 Вильям Спрингер 💬 43672 🔖 #book 🗓️ 2025-01-08
-- [Keep Going: Chapter 1](private://read/01jgaa69t6ndzhnsjc77jm5e55) 👤 Austin Kleon 💬 3342 🗓️ 2025-01-07
-- [Nuxt Tip: Parallel Fetch Requests](https://mokkapps.de/vue-tips/nuxt-parallel-fetch-requests) 👤 Michael Hoffmann 💬 302 🔖 #nuxt 🗓️ 2025-01-07
-- [Dev контейнеры и с чем их едят](https://habr.com/ru/articles/814071/) 👤 TourmalineCore 💬 1830 🗓️ 2025-01-07
-- [Server-Sent Events vs WebSockets – How to Choose a Real-Time Data Exchange Protocol](https://www.freecodecamp.org/news/server-sent-events-vs-websockets/) 👤 freeCodeCamp.org 💬 5470 🔖 #sse, #websocket 🗓️ 2025-01-06
-- [Jan 3 The magic function](https://bitfieldconsulting.com/posts/magic-function) 👤 John Arundel 💬 1307 🔖 #rust 🗓️ 2025-01-05
-- [Как сделать оплату в Telegram боте-магазине на вебхуках](https://habr.com/ru/companies/amvera/articles/870414/) 👤 yakvenalex 💬 6350 🔖 #python 🗓️ 2025-01-05
-- [Оптимизация запросов в DjangoORM: когда и как использовать Raw SQL](https://habr.com/ru/articles/871638/) 👤 SweetKitt 💬 1571 🔖 #django 🗓️ 2025-01-04
-- [Git: undo a pull](https://adamj.eu/tech/2024/12/31/git-undo-pull-reflog/) 👤 adamj.eu 💬 351 🔖 #git 🗓️ 2025-01-01
-- [Путешествие в golang regexp](https://tproger.ru/articles/puteshestvie-v-golang-regexp) 👤 Маргарита Гавриленко 💬 1459 🔖 #go 🗓️ 2024-12-30
+- [Show Django flash messages as toasts with Htmx](https://joshkaramuth.com/blog/django-messages-toast-htmx/) [📖](https://read.readwise.io/read/01jh5qw1e409w15e9n4j3ek58m) 👤 joshkaramuth.com 💬 866 🔖 #htmx, #django 🗓️ 2025-01-09
+- [Go is a Well-Designed Language, Actually](https://mattjhall.co.uk/posts/go-is-well-designed-actually.html) [📖](https://read.readwise.io/read/01jh5qgs8pqxg0dffdfds3nhna) 👤 mattjhall.co.uk 💬 1427 🔖 #go 🗓️ 2025-01-09
+- [Database optimization isn't always obvious](https://kenwhitesell.github.io/2025/01/01/Database-optimization-is-not-alway-obvious.html) [📖](https://read.readwise.io/read/01jh5q3648sjxdm8gfrtxqbh1d) 👤 Ken Whitesell 💬 1630 🗓️ 2025-01-09
+- [100 Go Mistakes and How to Avoid Them](https://readwise.io/reader/document_raw_content/8740249) [📖](https://read.readwise.io/read/01jh3epsw2xpv6adzv93vrrm61) 👤 Teiva Harsanyi 💬 109078 🔖 #go, #book 🗓️ 2025-01-08
+- [Программируй на Haskell](https://readwise.io/reader/document_raw_content/257815814) [📖](https://read.readwise.io/read/01jh3ekra08ratt49sngnj903a) 👤 Уилл Курт 🔖 #book, #haskell 🗓️ 2025-01-08
+- [Programming Elixir 1.6](https://readwise.io/reader/document_raw_content/28841812) [📖](https://read.readwise.io/read/01jh3ek1gz8txt603709dhrp8t) 👤 Dave Thomas 💬 85727 🔖 #book, #elixir 🗓️ 2025-01-08
+- [Elixir in Action, Third Edition](https://readwise.io/reader/document_raw_content/202067289) [📖](https://read.readwise.io/read/01jh3ej9xg42bmt7mzzek9mpqk) 👤 Sasa Juric 💬 116155 🔖 #book, #elixir 🗓️ 2025-01-08
+- [Гид по Computer Science](https://readwise.io/reader/document_raw_content/257815230) [📖](https://read.readwise.io/read/01jh3ehdpa7y9yv2eaqerr4v8c) 👤 Вильям Спрингер 💬 43672 🔖 #book 🗓️ 2025-01-08
+- [Keep Going: Chapter 1](private://read/01jgaa69t6ndzhnsjc77jm5e55) [📖](https://read.readwise.io/read/01jh0f4vvm28xm7zzfvca7pz9d) 👤 Austin Kleon 💬 3342 🗓️ 2025-01-07
+- [Nuxt Tip: Parallel Fetch Requests](https://mokkapps.de/vue-tips/nuxt-parallel-fetch-requests) [📖](https://read.readwise.io/read/01jgzrbq4kdgn16m5ray2y1bvj) 👤 Michael Hoffmann 💬 302 🔖 #nuxt 🗓️ 2025-01-07
+- [Dev контейнеры и с чем их едят](https://habr.com/ru/articles/814071/) [📖](https://read.readwise.io/read/01jgzpj52msa4xg0wphmt8f8wd) 👤 TourmalineCore 💬 1830 🗓️ 2025-01-07
+- [Server-Sent Events vs WebSockets – How to Choose a Real-Time Data Exchange Protocol](https://www.freecodecamp.org/news/server-sent-events-vs-websockets/) [📖](https://read.readwise.io/read/01jgyveg6xnpt09pqs9rgybf9v) 👤 freeCodeCamp.org 💬 5470 🔖 #sse, #websocket 🗓️ 2025-01-06
+- [Jan 3 The magic function](https://bitfieldconsulting.com/posts/magic-function) [📖](https://read.readwise.io/read/01jgvjj8rrjmhcz4g703z9p73g) 👤 John Arundel 💬 1307 🔖 #rust 🗓️ 2025-01-05
+- [Как сделать оплату в Telegram боте-магазине на вебхуках](https://habr.com/ru/companies/amvera/articles/870414/) [📖](https://read.readwise.io/read/01jgts5v8mnnz7fm9ff3td0pjw) 👤 yakvenalex 💬 6350 🔖 #python 🗓️ 2025-01-05
+- [Оптимизация запросов в DjangoORM: когда и как использовать Raw SQL](https://habr.com/ru/articles/871638/) [📖](https://read.readwise.io/read/01jgsm0sft84vz6ds3061w1v26) 👤 SweetKitt 💬 1571 🔖 #django 🗓️ 2025-01-04
+- [Git: undo a pull](https://adamj.eu/tech/2024/12/31/git-undo-pull-reflog/) [📖](https://read.readwise.io/read/01jgfmdmk57x4kn371pbmbcvr3) 👤 adamj.eu 💬 351 🔖 #git 🗓️ 2025-01-01
+- [Путешествие в golang regexp](https://tproger.ru/articles/puteshestvie-v-golang-regexp) [📖](https://read.readwise.io/read/01jgc44w1pajkm6d97xwdjnchr) 👤 Маргарита Гавриленко 💬 1459 🔖 #go 🗓️ 2024-12-30
 - [What's up Python: MOAR uv, flask-like Django, debugging live processes...
-What's up Python: MOAR uv, flask-like Django, debugging live processes...](https://www.bitecode.dev/p/whats-up-python-moar-uv-flask-like) 👤 Bite Code! 💬 1253 🔖 #python 🗓️ 2024-12-29
-- [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for) 👤 Amos Wenger 💬 17233 🔖 #http 🗓️ 2024-12-28
-- [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) 👤 Amos Wenger 💬 6376 🔖 #rust 🗓️ 2024-12-28
-- [GopherCon AU 2024](https://dave.cheney.net/talks/gopherconau-2024.pdf) 👤 dave.cheney.net 💬 1395 🔖 #go 🗓️ 2024-12-27
-- [Technology Radar](https://www.thoughtworks.com/radar) 👤 Thoughtworks 💬 623 🗓️ 2024-12-27
-- [Cognitive load is what matters](https://minds.md/zakirullin/cognitive) 👤 minds.md 💬 4183 🗓️ 2024-12-27
-- [Антипаттерны Go: чего нельзя делать и почему](https://habr.com/ru/companies/beget/articles/870138/) 👤 morett1m 💬 1995 🔖 #go, #outline 🗓️ 2024-12-27
-- [How to stop macOS Sequoia from resizing windows to fill your screen](https://www.macworld.com/article/2548439/how-to-stop-macos-sequoia-from-resizing-windows-to-fill-your-screen.html) 👤 Glenn Fleishman 💬 452 🗓️ 2024-12-27
-- [Open WebUI](https://simonwillison.net/2024/Dec/27/open-webui/#atom-everything) 👤 Simon Willison 💬 284 🔖 #llm 🗓️ 2024-12-27
-- [My little games workshop](https://daverupert.com/2024/12/my-little-games-workshop/) 👤 Dave Rupert 💬 1920 🗓️ 2024-12-27
-- [Вы кто такие, я вас не знаю, или Как мы делаем JWT-аутентификацию](https://habr.com/ru/companies/doubletapp/articles/764424/) 👤 BeFunny 💬 2361 🗓️ 2024-12-26
-- [Advent of Code 2024 with Elixir - Part 1: The Good-ish, the Ugly and the Bad](https://simoncrowe.hashnode.dev/advent-of-code-2024-with-elixir-part-1-the-good-ish-the-ugly-and-the-bad) 👤 Simon Crowe 💬 1203 🔖 #elixir 🗓️ 2024-12-26
-- [Redis Queue and Cron in Go](https://fajar.labkita.my.id/posts/redis-queue-and-cron-in-go) 👤 labkita.my.id 💬 731 🔖 #go, #redis 🗓️ 2025-03-31
-- [Telegram-бот-магазин на Python: пошаговый гайд с оплатой, каталогом и админкой (Aiogram 3 + SQLAlchemy 2)](https://habr.com/ru/companies/amvera/articles/869136/) 👤 yakvenalex 💬 9632 🔖 #aiogram, #yokassa, #sqlalchemy 🗓️ 2024-12-25
+What's up Python: MOAR uv, flask-like Django, debugging live processes...](https://www.bitecode.dev/p/whats-up-python-moar-uv-flask-like) [📖](https://read.readwise.io/read/01jg97hfqddnmwhawevam3m55k) 👤 Bite Code! 💬 1253 🔖 #python 🗓️ 2024-12-29
+- [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for) [📖](https://read.readwise.io/read/01jg6b5zj5cjzpznyw33z6ff2n) 👤 Amos Wenger 💬 17233 🔖 #http 🗓️ 2024-12-28
+- [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) [📖](https://read.readwise.io/read/01jg6b51wdgmey5qmd7bzrd7jc) 👤 Amos Wenger 💬 6376 🔖 #rust 🗓️ 2024-12-28
+- [GopherCon AU 2024](https://dave.cheney.net/talks/gopherconau-2024.pdf) [📖](https://read.readwise.io/read/01jg512ewkas2mfvdma1jcs8d0) 👤 dave.cheney.net 💬 1395 🔖 #go 🗓️ 2024-12-27
+- [Technology Radar](https://www.thoughtworks.com/radar) [📖](https://read.readwise.io/read/01jg4zxw9t2vxr82nwbq2g667h) 👤 Thoughtworks 💬 623 🗓️ 2024-12-27
+- [Cognitive load is what matters](https://minds.md/zakirullin/cognitive) [📖](https://read.readwise.io/read/01jg40qsa6gnpaadxg1ckywj61) 👤 minds.md 💬 4183 🗓️ 2024-12-27
+- [Антипаттерны Go: чего нельзя делать и почему](https://habr.com/ru/companies/beget/articles/870138/) [📖](https://read.readwise.io/read/01jg40jv7fa48hkrx7ay0jr51v) 👤 morett1m 💬 1995 🔖 #go, #outline 🗓️ 2024-12-27
+- [How to stop macOS Sequoia from resizing windows to fill your screen](https://www.macworld.com/article/2548439/how-to-stop-macos-sequoia-from-resizing-windows-to-fill-your-screen.html) [📖](https://read.readwise.io/read/01jg4018dxr9q00w9h5c63t4gb) 👤 Glenn Fleishman 💬 452 🗓️ 2024-12-27
+- [Open WebUI](https://simonwillison.net/2024/Dec/27/open-webui/#atom-everything) [📖](https://read.readwise.io/read/01jg3zsx8c8mjhc3w9ms912879) 👤 Simon Willison 💬 284 🔖 #llm 🗓️ 2024-12-27
+- [My little games workshop](https://daverupert.com/2024/12/my-little-games-workshop/) [📖](https://read.readwise.io/read/01jg3zrbcmzmzb6kysdky32mjh) 👤 Dave Rupert 💬 1920 🗓️ 2024-12-27
+- [Вы кто такие, я вас не знаю, или Как мы делаем JWT-аутентификацию](https://habr.com/ru/companies/doubletapp/articles/764424/) [📖](https://read.readwise.io/read/01jg1tgqp8wgcvpvz0dz9r8661) 👤 BeFunny 💬 2361 🗓️ 2024-12-26
+- [Advent of Code 2024 with Elixir - Part 1: The Good-ish, the Ugly and the Bad](https://simoncrowe.hashnode.dev/advent-of-code-2024-with-elixir-part-1-the-good-ish-the-ugly-and-the-bad) [📖](https://read.readwise.io/read/01jg1s0tds1tff3045fhzznnen) 👤 Simon Crowe 💬 1203 🔖 #elixir 🗓️ 2024-12-26
+- [Redis Queue and Cron in Go](https://fajar.labkita.my.id/posts/redis-queue-and-cron-in-go) [📖](https://read.readwise.io/read/01jg16yf9fg6xdff011hyyec4h) 👤 labkita.my.id 💬 731 🔖 #go, #redis 🗓️ 2025-03-31
+- [Telegram-бот-магазин на Python: пошаговый гайд с оплатой, каталогом и админкой (Aiogram 3 + SQLAlchemy 2)](https://habr.com/ru/companies/amvera/articles/869136/) [📖](https://read.readwise.io/read/01jfz2qzgrsj9vd0wqvpsam03w) 👤 yakvenalex 💬 9632 🔖 #aiogram, #yokassa, #sqlalchemy 🗓️ 2024-12-25
 - [An imperative programmer tries to learn Haskell
-An imperative programmer tries to learn Haskell](https://hatwd.com/p/an-imperative-programmer-tries-to) 👤 Thane Thomson 💬 1722 🔖 #haskell 🗓️ 2024-12-25
-- [How to live on 24 hours a day – by Arnold Bennett](https://olivernguyen.io/w/live.24h/) 👤 olivernguyen.io 💬 1197 🗓️ 2024-12-24
-- [Building a Database from Scratch in Go (part 01) - File Manager](https://www.youtube.com/watch?utm_source=christophberger&utm_medium=email&utm_campaign=dont-mess-with-that-property&v=kj4ABYRI_NA&feature=youtu.be) 👤 Inel Pandzic 🗓️ 2024-12-24
-- [Contextual Logging in Go with Slog](https://betterstack.com/community/guides/logging/golang-contextual-logging/?utm_source=christophberger&utm_medium=email&utm_campaign=dont-mess-with-that-property) 👤 Percy Bolmér 💬 3540 🔖 #go 🗓️ 2024-12-24
-- [Don't sleep on inline interfaces](https://fmt.errorf.com/posts/go-ducks/?utm_source=christophberger&utm_medium=email&utm_campaign=dont-mess-with-that-property) 👤 errorf.com 💬 1787 🔖 #go 🗓️ 2024-12-24
-- [Things You Never Wanted To Know About Go Interfaces](https://mcyoung.xyz/2024/12/12/go-abi/?utm_source=christophberger&utm_medium=email&utm_campaign=time-is-skipping) 👤 mcyoung.xyz 💬 3835 🔖 #go 🗓️ 2024-12-24
-- [](https://www.myhatchpad.com/insight/mocking-techniques-for-go/?utm_source=christophberger&utm_medium=email&utm_campaign=time-is-skipping) 🗓️ 2024-12-24
-- [Errors, Errors Everywhere: How We Centralized and Structured Error Handling](https://olivernguyen.io/w/namespace.error?utm_source=christophberger&utm_medium=email&utm_campaign=time-is-skipping) 👤 olivernguyen.io 💬 5346 🔖 #go 🗓️ 2024-12-24
-- [From net/rpc to gRPC in Go Applications](https://victoriametrics.com/blog/go-net-rpc/) 👤 VictoriaMetrics 💬 20 🔖 #go, #grpc 🗓️ 2024-12-24
-- [Fullstack App with FastAPI and HTMX | Full Tutorial](https://www.youtube.com/watch?v=sT3WSkMyCXA) 👤 Bek Brace 🔖 #try, #htmx, #fastapi 🗓️ 2024-12-24
-- [Building A Simple Filesystem Backed Cache With Golang](https://mzfit.app/blog/2024/12/07/building_a_filesystem_backed_cache_with_golang/) 👤 MzFit 💬 3479 🔖 #go 🗓️ 2024-12-23
-- [Practical Go Basics - Standard Library Interfaces](https://tomjowitt.com/posts/go-standard-library-interfaces/) 👤 tomjowitt.com 💬 994 🔖 #go 🗓️ 2024-12-23
-- [The new maps and slices packages in Go 1.23: tour and examples](https://www.dolthub.com/blog/2024-12-20-collection-functions-in-go-1-23/) 👤 Zach Musgrave 💬 931 🔖 #go 🗓️ 2024-12-23
-- [Function types and single-method interfaces in Go](https://rednafi.com/go/func_types_and_smis/) 👤 Redowan Delowar 💬 1199 🔖 #go 🗓️ 2024-12-23
-- [I'm a programmer and I'm stupid](https://antonz.org/stupid/) 👤 Anton Zhiyanov 💬 403 🔖 #inspiration 🗓️ 2024-12-23
-- [Implementing WebSocket Communication and Heartbeat Mechanism with GoFrame: A Hands-on Guide](https://dev.to/jones_charles_ad50858dbc0/implementing-websocket-communication-and-heartbeat-mechanism-with-goframe-a-hands-on-guide-44df) 👤 DEV Community 💬 716 🔖 #go, #websocket 🗓️ 2024-12-22
-- [Gist of Go: Concurrency](https://antonz.org/go-concurrency/) 👤 Anton Zhiyanov 💬 365 🔖 #go, #concurrency 🗓️ 2024-12-22
-- [Curl by example: Interactive guide](https://antonz.org/curl-by-example/) 👤 Anton Zhiyanov 💬 3331 🗓️ 2024-12-22
-- [Try X in Y minutes](https://antonz.org/try-x-in-y-minutes/) 👤 Anton Zhiyanov 💬 277 🗓️ 2024-12-22
-- [Gist of Go: Pipelines](https://antonz.org/go-concurrency/pipelines/) 👤 Anton Zhiyanov 💬 3159 🔖 #go, #concurrency 🗓️ 2024-12-22
-- [Gist of Go: Goroutines](https://antonz.org/go-concurrency/goroutines/) 👤 Anton Zhiyanov 💬 3703 🔖 #go, #concurrency 🗓️ 2024-12-22
-- [Complete Guide: How to Upgrade to Nuxt 4](https://masteringnuxt.com/blog/complete-guide-how-to-upgrade-to-nuxt-4?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 4247 🔖 #nuxt 🗓️ 2024-12-21
-- [Is AI progress slowing down?](https://simonwillison.net/2024/Dec/19/is-ai-progress-slowing-down/#atom-everything) 👤 Simon Willison 💬 555 🗓️ 2024-12-20
-- [q and qv zsh functions for asking questions of websites and YouTube videos with LLM](https://simonwillison.net/2024/Dec/19/q-and-qv-zsh-functions/#atom-everything) 👤 Simon Willison 💬 349 🗓️ 2024-12-20
-- [Видео с митапа о Postgres](https://grishaev.me/pg-meetup-video/) 👤 grishaev.me 💬 32 🗓️ 2024-12-19
-- [🍉Полный гайд настройки Windows + WSL для разработчика](https://www.youtube.com/watch?v=EH3yeiZ5JRo) 👤 Диджитализируй! 🗓️ 2024-12-19
-- [How to Write User Stories for Beginners: Agile in Practice](https://www.freecodecamp.org/news/how-to-write-user-stories-for-beginners/) 👤 freeCodeCamp.org 💬 2369 🔖 #agile 🗓️ 2024-12-17
-- [Gist of Go: Channels](https://antonz.org/go-concurrency/channels/) 👤 Anton Zhiyanov 💬 4547 🔖 #go 🗓️ 2024-12-17
-- [Building a distributed log using S3 (under 150 lines of Go)](https://avi.im/blag/2024/s3-log/) 👤 avi.im 💬 1097 🔖 #go 🗓️ 2024-12-17
-- [Caching in Go - Part 1 - A Basic Implementation](https://mzungudev.com/posts/go-cache/) 👤 MzunguDev 💬 1964 🔖 #go 🗓️ 2024-12-17
-- [Why Clean Architecture and Over-Engineered Layering Don’t Belong in GoLang](https://www.reddit.com/r/golang/comments/1h7jajk/why_clean_architecture_and_overengineered/) 👤 Superb-Key-6581 💬 168 🔖 #go 🗓️ 2024-12-17
-- [Weak Pointers in Go: Why They Matter Now](https://victoriametrics.com/blog/go-weak-pointer/) 👤 Phuong Le 💬 1277 🔖 #go 🗓️ 2024-12-17
-- [Building Simple Real-Time System Monitor using Go, HTMX, and Web Socket](https://dev.to/didikz/building-simple-real-time-system-monitor-using-go-htmx-and-web-socket-50pg) 👤 DEV Community 💬 687 🔖 #go, #try, #htmx, #websocket 🗓️ 2024-12-16
-- [Make resilient Go net/http servers using timeouts, deadlines and context cancellation](https://ieftimov.com/posts/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/) 👤 Ilija Eftimov 💬 2940 🔖 #go 🗓️ 2024-12-16
+An imperative programmer tries to learn Haskell](https://hatwd.com/p/an-imperative-programmer-tries-to) [📖](https://read.readwise.io/read/01jfynhan717rngpvtdegre0rx) 👤 Thane Thomson 💬 1722 🔖 #haskell 🗓️ 2024-12-25
+- [How to live on 24 hours a day – by Arnold Bennett](https://olivernguyen.io/w/live.24h/) [📖](https://read.readwise.io/read/01jfwbt3azdxwhszygj7wmpk6k) 👤 olivernguyen.io 💬 1197 🗓️ 2024-12-24
+- [Building a Database from Scratch in Go (part 01) - File Manager](https://www.youtube.com/watch?utm_source=christophberger&utm_medium=email&utm_campaign=dont-mess-with-that-property&v=kj4ABYRI_NA&feature=youtu.be) [📖](https://read.readwise.io/read/01jfw7m3j1vr42gxv138m1nqte) 👤 Inel Pandzic 🗓️ 2024-12-24
+- [Contextual Logging in Go with Slog](https://betterstack.com/community/guides/logging/golang-contextual-logging/?utm_source=christophberger&utm_medium=email&utm_campaign=dont-mess-with-that-property) [📖](https://read.readwise.io/read/01jfw7jc7w2p1xn93h8afew6er) 👤 Percy Bolmér 💬 3540 🔖 #go 🗓️ 2024-12-24
+- [Don't sleep on inline interfaces](https://fmt.errorf.com/posts/go-ducks/?utm_source=christophberger&utm_medium=email&utm_campaign=dont-mess-with-that-property) [📖](https://read.readwise.io/read/01jfw7h6d9dzv41mg9jjzdxnw5) 👤 errorf.com 💬 1787 🔖 #go 🗓️ 2024-12-24
+- [Things You Never Wanted To Know About Go Interfaces](https://mcyoung.xyz/2024/12/12/go-abi/?utm_source=christophberger&utm_medium=email&utm_campaign=time-is-skipping) [📖](https://read.readwise.io/read/01jfw7eazxzvde5w0pbnyfqweh) 👤 mcyoung.xyz 💬 3835 🔖 #go 🗓️ 2024-12-24
+- [](https://www.myhatchpad.com/insight/mocking-techniques-for-go/?utm_source=christophberger&utm_medium=email&utm_campaign=time-is-skipping) [📖](https://read.readwise.io/read/01jfw7bjkeys8z2cacj2h99efy) 🗓️ 2024-12-24
+- [Errors, Errors Everywhere: How We Centralized and Structured Error Handling](https://olivernguyen.io/w/namespace.error?utm_source=christophberger&utm_medium=email&utm_campaign=time-is-skipping) [📖](https://read.readwise.io/read/01jfw7agmb3c672vw314d1wx4d) 👤 olivernguyen.io 💬 5346 🔖 #go 🗓️ 2024-12-24
+- [From net/rpc to gRPC in Go Applications](https://victoriametrics.com/blog/go-net-rpc/) [📖](https://read.readwise.io/read/01jfvq2zk633w5hhf8nkdqm0xg) 👤 VictoriaMetrics 💬 20 🔖 #go, #grpc 🗓️ 2024-12-24
+- [Fullstack App with FastAPI and HTMX | Full Tutorial](https://www.youtube.com/watch?v=sT3WSkMyCXA) [📖](https://read.readwise.io/read/01jfvp61a5146bdht9sfv6rgqn) 👤 Bek Brace 🔖 #try, #htmx, #fastapi 🗓️ 2024-12-24
+- [Building A Simple Filesystem Backed Cache With Golang](https://mzfit.app/blog/2024/12/07/building_a_filesystem_backed_cache_with_golang/) [📖](https://read.readwise.io/read/01jfsa7hw5s3db77twsdtfb3v0) 👤 MzFit 💬 3479 🔖 #go 🗓️ 2024-12-23
+- [Practical Go Basics - Standard Library Interfaces](https://tomjowitt.com/posts/go-standard-library-interfaces/) [📖](https://read.readwise.io/read/01jfsa1n5cwtsk4vrhhss6x45j) 👤 tomjowitt.com 💬 994 🔖 #go 🗓️ 2024-12-23
+- [The new maps and slices packages in Go 1.23: tour and examples](https://www.dolthub.com/blog/2024-12-20-collection-functions-in-go-1-23/) [📖](https://read.readwise.io/read/01jfs9ycatghs64qs4bdk6pw2a) 👤 Zach Musgrave 💬 931 🔖 #go 🗓️ 2024-12-23
+- [Function types and single-method interfaces in Go](https://rednafi.com/go/func_types_and_smis/) [📖](https://read.readwise.io/read/01jfs8j0z57rz7bjk3rpvm7ra8) 👤 Redowan Delowar 💬 1199 🔖 #go 🗓️ 2024-12-23
+- [I'm a programmer and I'm stupid](https://antonz.org/stupid/) [📖](https://read.readwise.io/read/01jfs6jh8nxzad6g6rht9bstrn) 👤 Anton Zhiyanov 💬 403 🔖 #inspiration 🗓️ 2024-12-23
+- [Implementing WebSocket Communication and Heartbeat Mechanism with GoFrame: A Hands-on Guide](https://dev.to/jones_charles_ad50858dbc0/implementing-websocket-communication-and-heartbeat-mechanism-with-goframe-a-hands-on-guide-44df) [📖](https://read.readwise.io/read/01jfqrjs900qqfjj597hnny1rw) 👤 DEV Community 💬 716 🔖 #go, #websocket 🗓️ 2024-12-22
+- [Gist of Go: Concurrency](https://antonz.org/go-concurrency/) [📖](https://read.readwise.io/read/01jfq3wq8y8gq22ae3aharc2d2) 👤 Anton Zhiyanov 💬 365 🔖 #go, #concurrency 🗓️ 2024-12-22
+- [Curl by example: Interactive guide](https://antonz.org/curl-by-example/) [📖](https://read.readwise.io/read/01jfq3tn5vn7r5c9fevg3qz20p) 👤 Anton Zhiyanov 💬 3331 🗓️ 2024-12-22
+- [Try X in Y minutes](https://antonz.org/try-x-in-y-minutes/) [📖](https://read.readwise.io/read/01jfq3pw3v5hdv3f4hk9csfa6x) 👤 Anton Zhiyanov 💬 277 🗓️ 2024-12-22
+- [Gist of Go: Pipelines](https://antonz.org/go-concurrency/pipelines/) [📖](https://read.readwise.io/read/01jfq3m4tv4x617dnkfveyxpn0) 👤 Anton Zhiyanov 💬 3159 🔖 #go, #concurrency 🗓️ 2024-12-22
+- [Gist of Go: Goroutines](https://antonz.org/go-concurrency/goroutines/) [📖](https://read.readwise.io/read/01jfq2y3gzedm7v08whce62x18) 👤 Anton Zhiyanov 💬 3703 🔖 #go, #concurrency 🗓️ 2024-12-22
+- [Complete Guide: How to Upgrade to Nuxt 4](https://masteringnuxt.com/blog/complete-guide-how-to-upgrade-to-nuxt-4?friend=MOKKAPPS) [📖](https://read.readwise.io/read/01jfkzy6kpmmfgj9e3bj3ynrs3) 👤 masteringnuxt.com 💬 4247 🔖 #nuxt 🗓️ 2024-12-21
+- [Is AI progress slowing down?](https://simonwillison.net/2024/Dec/19/is-ai-progress-slowing-down/#atom-everything) [📖](https://read.readwise.io/read/01jfhwamcqwx1xze1gm9qakyzf) 👤 Simon Willison 💬 555 🗓️ 2024-12-20
+- [q and qv zsh functions for asking questions of websites and YouTube videos with LLM](https://simonwillison.net/2024/Dec/19/q-and-qv-zsh-functions/#atom-everything) [📖](https://read.readwise.io/read/01jfhw7ted3hn3bgxk65g28emf) 👤 Simon Willison 💬 349 🗓️ 2024-12-20
+- [Видео с митапа о Postgres](https://grishaev.me/pg-meetup-video/) [📖](https://read.readwise.io/read/01jff82vfc3myrkhm53za07g80) 👤 grishaev.me 💬 32 🗓️ 2024-12-19
+- [🍉Полный гайд настройки Windows + WSL для разработчика](https://www.youtube.com/watch?v=EH3yeiZ5JRo) [📖](https://read.readwise.io/read/01jfezrsvakb15xy41mh5m8dd5) 👤 Диджитализируй! 🗓️ 2024-12-19
+- [How to Write User Stories for Beginners: Agile in Practice](https://www.freecodecamp.org/news/how-to-write-user-stories-for-beginners/) [📖](https://read.readwise.io/read/01jfab2q3c9npf54rvs6719k27) 👤 freeCodeCamp.org 💬 2369 🔖 #agile 🗓️ 2024-12-17
+- [Gist of Go: Channels](https://antonz.org/go-concurrency/channels/) [📖](https://read.readwise.io/read/01jf9vcjkwj4hpnkc159m3sc0m) 👤 Anton Zhiyanov 💬 4547 🔖 #go 🗓️ 2024-12-17
+- [Building a distributed log using S3 (under 150 lines of Go)](https://avi.im/blag/2024/s3-log/) [📖](https://read.readwise.io/read/01jf9vbb0g9szbj8xep8d9z3pb) 👤 avi.im 💬 1097 🔖 #go 🗓️ 2024-12-17
+- [Caching in Go - Part 1 - A Basic Implementation](https://mzungudev.com/posts/go-cache/) [📖](https://read.readwise.io/read/01jf9va6pjbm9a5mjydwzs19ps) 👤 MzunguDev 💬 1964 🔖 #go 🗓️ 2024-12-17
+- [Why Clean Architecture and Over-Engineered Layering Don’t Belong in GoLang](https://www.reddit.com/r/golang/comments/1h7jajk/why_clean_architecture_and_overengineered/) [📖](https://read.readwise.io/read/01jf9v66dsnzkvpxvd6zqqdwa3) 👤 Superb-Key-6581 💬 168 🔖 #go 🗓️ 2024-12-17
+- [Weak Pointers in Go: Why They Matter Now](https://victoriametrics.com/blog/go-weak-pointer/) [📖](https://read.readwise.io/read/01jf9v5j4bv0ybcxa44833hxcj) 👤 Phuong Le 💬 1277 🔖 #go 🗓️ 2024-12-17
+- [Building Simple Real-Time System Monitor using Go, HTMX, and Web Socket](https://dev.to/didikz/building-simple-real-time-system-monitor-using-go-htmx-and-web-socket-50pg) [📖](https://read.readwise.io/read/01jf8jc0hkmcca4r6smvwmthkm) 👤 DEV Community 💬 687 🔖 #go, #try, #htmx, #websocket 🗓️ 2024-12-16
+- [Make resilient Go net/http servers using timeouts, deadlines and context cancellation](https://ieftimov.com/posts/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/) [📖](https://read.readwise.io/read/01jf75ghvr9zb21c5dy54j6ctt) 👤 Ilija Eftimov 💬 2940 🔖 #go 🗓️ 2024-12-16
 - [UV tricks - Bite code!
-UV tricks](https://www.bitecode.dev/p/uv-tricks) 👤 Bite Code! 💬 1069 🔖 #uv 🗓️ 2024-12-16
-- [How to make your RSS feed pretty](https://cassidoo.co/post/prettify-rss/) 👤 cassidoo.co 💬 396 🗓️ 2024-12-16
-- [Building a High-Performance Full-Text Search Engine in Go](https://medium.com/@ravikishan63392/building-a-high-performance-full-text-search-engine-in-go-f2e4ec63e643) 👤 Ravikishan 💬 2487 🔖 #go, #try 🗓️ 2024-12-15
-- [UV and Ruff: Next-gen Python Tooling](https://www.youtube.com/watch?v=ifj-izwXKRA) 👤 Matt Layman 🔖 #uv 🗓️ 2024-12-13
-- [Elasticsearch Course for Beginners](https://www.youtube.com/watch?v=a4HBKEda_F8) 👤 freeCodeCamp.org 🗓️ 2024-12-13
-- [Mocking Techniques for Go](https://www.myhatchpad.com/insight/mocking-techniques-for-go/) 👤 Hatchpad 💬 1650 🔖 #go, #testing 🗓️ 2024-12-24
-- ["Rules" that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/) 👤 Julia Evans 💬 1896 🗓️ 2024-12-12
-- [Goto Fail, Heartbleed, and Unit Testing Culture](https://martinfowler.com/articles/testing-culture.html) 👤 Mike Bland 💬 612 🗓️ 2024-12-12
-- [Navigating Loops in Go: The Role of Labeled continue Statements](https://blog.alexoglou.com/posts/continue-golang/) 👤 Costa Alexoglou 💬 561 🔖 #go 🗓️ 2024-12-12
-- [Go slices are not dynamic arrays](https://appliedgo.net/slices/) 👤 Happy coding! 💬 1258 🔖 #go 🗓️ 2024-12-12
-- [A DIY Dashboard with Grafana](https://appliedgo.net/diydashboard/) 👤 Applied Go 💬 2335 🔖 #go, #grafana, #observability 🗓️ 2024-12-12
-- [Futures in Go, no package required](https://appliedgo.net/futures/) 👤 Applied Go 💬 1984 🔖 #go, #concurrency 🗓️ 2024-12-12
-- [Streamlit](https://year-in-sports.streamlit.app/) 👤 year-in-sports.streamlit.app 💬 9 🗓️ 2024-12-11
-- [Lazy self-installing Python scripts with uv](https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/) 👤 Trey Hunner 💬 1181 🔖 #uv, #python 🗓️ 2024-12-11
-- [Awful ways to create Pipelines with Go](https://www.poxate.com/blog/awful-ways-to-create-pipelines-with-go/) 👤 poxate 💬 1895 🔖 #go 🗓️ 2024-12-11
-- [Writing down (and searching through) every UUID](https://eieio.games/blog/writing-down-every-uuid/) 👤 nolen royalty 💬 4324 🗓️ 2024-12-11
-- [uv: An In-Depth Guide to Python's Fast and Ambitious New Package Manager](https://www.saaspegasus.com/guides/uv-deep-dive/) 👤 SaaS Pegasus 💬 5400 🔖 #uv, #python 🗓️ 2024-12-11
-- [Migration Guide](https://docs.pydantic.dev/2.0/migration/#changes-to-pydanticbasemodel) 👤 pydantic.dev 💬 4217 🔖 #pydantic 🗓️ 2024-12-10
-- [Migrating from Java to Rust](https://corrode.dev/migration-guides/java-to-rust/) 👤 Corrode Rust Consulting 💬 2536 🔖 #rust 🗓️ 2024-12-10
-- [An A-Z Index of Apple macOS (bash) commands](https://ss64.com/mac/) 👤 ss64.com 💬 2113 🗓️ 2024-12-09
-- [Avoid Counting in Django Pagination](https://testdriven.io/blog/django-avoid-counting/) 👤 testdriven.io 💬 924 🔖 #django 🗓️ 2024-12-09
-- [Mastering Go Memory Optimization: 20 Expert Techniques for Efficient Applications](https://dev.to/aaravjoshi/mastering-go-memory-optimization-20-expert-techniques-for-efficient-applications-4bjc) 👤 DEV Community 💬 1473 🔖 #go 🗓️ 2024-12-09
-- [Property Testing: Beyond Matching Input-Output Pairs](https://appliedgo.net/spotlight/property-testing/) 👤 Applied Go 💬 469 🔖 #go, #testing 🗓️ 2024-12-09
-- [Implement Unit Test for CLI Apps using Golang and Cobra](https://clavinjune.dev/en/blogs/implement-unit-test-for-cli-apps-using-golang-and-cobra/) 👤 Clavin June 💬 1143 🔖 #go, #testing 🗓️ 2024-12-09
-- [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/) 👤 Dane Hillard 💬 5149 🔖 #pytest, #python, #testing 🗓️ 2024-12-09
-- [11.2. Index Types](https://www.postgresql.org/docs/current/indexes-types.html) 👤 PostgreSQL Documentation 💬 951 🔖 #outline, #postgresql 🗓️ 2024-12-08
-- [11.1. Introduction #](https://www.postgresql.org/docs/current/indexes-intro.html) 👤 PostgreSQL Documentation 💬 719 🔖 #postgresql 🗓️ 2024-12-08
-- [Django: launch pdb when a given SQL query runs](https://adamj.eu/tech/2024/12/05/django-sql-breakpoint/) 👤 Adam Johnson 💬 928 🔖 #django, #postgresql 🗓️ 2024-12-06
-- [Introducing Nuxt Icon v1](https://nuxt.com/blog/nuxt-icon-v1-0) 👤 Nuxt 💬 2173 🔖 #nuxt 🗓️ 2024-12-06
-- [When to Use useState in Nuxt](https://mokkapps.de/blog/when-to-use-use-state-in-nuxt) 👤 mokkapps.de 💬 449 🔖 #nuxt 🗓️ 2024-12-06
-- [Django: fix a view using a debugger with breakpoint()](https://adamj.eu/tech/2024/11/26/django-fix-view-using-pdb/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_261) 👤 adamj.eu 💬 684 🔖 #django 🗓️ 2024-12-05
-- [The Practical Guide to Scaling Django](https://slimsaas.com/blog/django-scaling-performance/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_261) 👤 Startup Kit 💬 583 🔖 #django 🗓️ 2024-12-05
-- [Peopleware: Productive Projects and Teams, Third Edition](private://read/01jeayy7m4187c7he20ye40bq0) 👤 Tom DeMarco 💬 80023 🗓️ 2024-12-05
+UV tricks](https://www.bitecode.dev/p/uv-tricks) [📖](https://read.readwise.io/read/01jf755j4k12nmth9q6ngz0zrc) 👤 Bite Code! 💬 1069 🔖 #uv 🗓️ 2024-12-16
+- [How to make your RSS feed pretty](https://cassidoo.co/post/prettify-rss/) [📖](https://read.readwise.io/read/01jf72fjpsd3jjsr8cdbdxjve4) 👤 cassidoo.co 💬 396 🗓️ 2024-12-16
+- [Building a High-Performance Full-Text Search Engine in Go](https://medium.com/@ravikishan63392/building-a-high-performance-full-text-search-engine-in-go-f2e4ec63e643) [📖](https://read.readwise.io/read/01jf5xvr68675avm8v242j6523) 👤 Ravikishan 💬 2487 🔖 #go, #try 🗓️ 2024-12-15
+- [UV and Ruff: Next-gen Python Tooling](https://www.youtube.com/watch?v=ifj-izwXKRA) [📖](https://read.readwise.io/read/01jezq8d5xsncd6y7m94v73m6g) 👤 Matt Layman 🔖 #uv 🗓️ 2024-12-13
+- [Elasticsearch Course for Beginners](https://www.youtube.com/watch?v=a4HBKEda_F8) [📖](https://read.readwise.io/read/01jezpzpswbkm6qb2na9dcf9gm) 👤 freeCodeCamp.org 🗓️ 2024-12-13
+- [Mocking Techniques for Go](https://www.myhatchpad.com/insight/mocking-techniques-for-go/) [📖](https://read.readwise.io/read/01jeya8cv9dwc751qt7pnfv7v1) 👤 Hatchpad 💬 1650 🔖 #go, #testing 🗓️ 2024-12-24
+- ["Rules" that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/) [📖](https://read.readwise.io/read/01jey93szkkq6nq4hjt2shav93) 👤 Julia Evans 💬 1896 🗓️ 2024-12-12
+- [Goto Fail, Heartbleed, and Unit Testing Culture](https://martinfowler.com/articles/testing-culture.html) [📖](https://read.readwise.io/read/01jex9h43s5sm1fdc1hdnqywpe) 👤 Mike Bland 💬 612 🗓️ 2024-12-12
+- [Navigating Loops in Go: The Role of Labeled continue Statements](https://blog.alexoglou.com/posts/continue-golang/) [📖](https://read.readwise.io/read/01jex76mpz2v76k2j45c2yfsvq) 👤 Costa Alexoglou 💬 561 🔖 #go 🗓️ 2024-12-12
+- [Go slices are not dynamic arrays](https://appliedgo.net/slices/) [📖](https://read.readwise.io/read/01jewzjrmevsa3y6hdwb3rp758) 👤 Happy coding! 💬 1258 🔖 #go 🗓️ 2024-12-12
+- [A DIY Dashboard with Grafana](https://appliedgo.net/diydashboard/) [📖](https://read.readwise.io/read/01jewzj0td2hveg9n4vmf3n6m5) 👤 Applied Go 💬 2335 🔖 #go, #grafana, #observability 🗓️ 2024-12-12
+- [Futures in Go, no package required](https://appliedgo.net/futures/) [📖](https://read.readwise.io/read/01jewy794tdge6nabagnmpqx1q) 👤 Applied Go 💬 1984 🔖 #go, #concurrency 🗓️ 2024-12-12
+- [Streamlit](https://year-in-sports.streamlit.app/) [📖](https://read.readwise.io/read/01jetncer2df3bp9p488gmxf2y) 👤 year-in-sports.streamlit.app 💬 9 🗓️ 2024-12-11
+- [Lazy self-installing Python scripts with uv](https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/) [📖](https://read.readwise.io/read/01jetn07a84mqe0rm8kvxz38zh) 👤 Trey Hunner 💬 1181 🔖 #uv, #python 🗓️ 2024-12-11
+- [Awful ways to create Pipelines with Go](https://www.poxate.com/blog/awful-ways-to-create-pipelines-with-go/) [📖](https://read.readwise.io/read/01jetj07exeh7d3vsrr207axxj) 👤 poxate 💬 1895 🔖 #go 🗓️ 2024-12-11
+- [Writing down (and searching through) every UUID](https://eieio.games/blog/writing-down-every-uuid/) [📖](https://read.readwise.io/read/01jetdwf9g6dkv7gzagsmnyjpg) 👤 nolen royalty 💬 4324 🗓️ 2024-12-11
+- [uv: An In-Depth Guide to Python's Fast and Ambitious New Package Manager](https://www.saaspegasus.com/guides/uv-deep-dive/) [📖](https://read.readwise.io/read/01jetcxjshm475qbt7vxwbnmr9) 👤 SaaS Pegasus 💬 5400 🔖 #uv, #python 🗓️ 2024-12-11
+- [Migration Guide](https://docs.pydantic.dev/2.0/migration/#changes-to-pydanticbasemodel) [📖](https://read.readwise.io/read/01jes4k8qn78qzg9ht9dm0wpgd) 👤 pydantic.dev 💬 4217 🔖 #pydantic 🗓️ 2024-12-10
+- [Migrating from Java to Rust](https://corrode.dev/migration-guides/java-to-rust/) [📖](https://read.readwise.io/read/01jeqne2td1drxdzvt6n813zkq) 👤 Corrode Rust Consulting 💬 2536 🔖 #rust 🗓️ 2024-12-10
+- [An A-Z Index of Apple macOS (bash) commands](https://ss64.com/mac/) [📖](https://read.readwise.io/read/01jepkb9qwy8ahdkdr8vhrjjx2) 👤 ss64.com 💬 2113 🗓️ 2024-12-09
+- [Avoid Counting in Django Pagination](https://testdriven.io/blog/django-avoid-counting/) [📖](https://read.readwise.io/read/01jephjak7v762z5sw8zft73ha) 👤 testdriven.io 💬 924 🔖 #django 🗓️ 2024-12-09
+- [Mastering Go Memory Optimization: 20 Expert Techniques for Efficient Applications](https://dev.to/aaravjoshi/mastering-go-memory-optimization-20-expert-techniques-for-efficient-applications-4bjc) [📖](https://read.readwise.io/read/01jeph76b2e5aa8q3gq1pagsgq) 👤 DEV Community 💬 1473 🔖 #go 🗓️ 2024-12-09
+- [Property Testing: Beyond Matching Input-Output Pairs](https://appliedgo.net/spotlight/property-testing/) [📖](https://read.readwise.io/read/01jemzgvwcdkcwvt0ahdwpezns) 👤 Applied Go 💬 469 🔖 #go, #testing 🗓️ 2024-12-09
+- [Implement Unit Test for CLI Apps using Golang and Cobra](https://clavinjune.dev/en/blogs/implement-unit-test-for-cli-apps-using-golang-and-cobra/) [📖](https://read.readwise.io/read/01jemzc4premjd5j2jnb067983) 👤 Clavin June 💬 1143 🔖 #go, #testing 🗓️ 2024-12-09
+- [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/) [📖](https://read.readwise.io/read/01jemyawy7bhx0vscyy45xrfhh) 👤 Dane Hillard 💬 5149 🔖 #pytest, #python, #testing 🗓️ 2024-12-09
+- [11.2. Index Types](https://www.postgresql.org/docs/current/indexes-types.html) [📖](https://read.readwise.io/read/01jek7hjph0kepkfrva3gs58q7) 👤 PostgreSQL Documentation 💬 951 🔖 #outline, #postgresql 🗓️ 2024-12-08
+- [11.1. Introduction #](https://www.postgresql.org/docs/current/indexes-intro.html) [📖](https://read.readwise.io/read/01jek7es2f7jwqkj8ttsm62f36) 👤 PostgreSQL Documentation 💬 719 🔖 #postgresql 🗓️ 2024-12-08
+- [Django: launch pdb when a given SQL query runs](https://adamj.eu/tech/2024/12/05/django-sql-breakpoint/) [📖](https://read.readwise.io/read/01jedx800bgpn7245n3hy9kew8) 👤 Adam Johnson 💬 928 🔖 #django, #postgresql 🗓️ 2024-12-06
+- [Introducing Nuxt Icon v1](https://nuxt.com/blog/nuxt-icon-v1-0) [📖](https://read.readwise.io/read/01jedwgg8gbfbfnkrzr8sjg2xt) 👤 Nuxt 💬 2173 🔖 #nuxt 🗓️ 2024-12-06
+- [When to Use useState in Nuxt](https://mokkapps.de/blog/when-to-use-use-state-in-nuxt) [📖](https://read.readwise.io/read/01jedc645ddg6qchsbr8pqqty8) 👤 mokkapps.de 💬 449 🔖 #nuxt 🗓️ 2024-12-06
+- [Django: fix a view using a debugger with breakpoint()](https://adamj.eu/tech/2024/11/26/django-fix-view-using-pdb/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_261) [📖](https://read.readwise.io/read/01jeb7va0m7r42bsy5atwahadt) 👤 adamj.eu 💬 684 🔖 #django 🗓️ 2024-12-05
+- [The Practical Guide to Scaling Django](https://slimsaas.com/blog/django-scaling-performance/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_261) [📖](https://read.readwise.io/read/01jeb7see3jaxv3bsnmwjs78zq) 👤 Startup Kit 💬 583 🔖 #django 🗓️ 2024-12-05
+- [Peopleware: Productive Projects and Teams, Third Edition](private://read/01jeayy7m4187c7he20ye40bq0) [📖](https://read.readwise.io/read/01jeayy7m4187c7he20ye40bq0) 👤 Tom DeMarco 💬 80023 🗓️ 2024-12-05
     > **Заметка:** Рекомендовано автором книги "Мама, я тимлид".
-- [Generics in Go](https://bitfieldconsulting.com/posts/generics) 👤 Bitfield Consulting 💬 45 🔖 #go 🗓️ 2024-12-04
-- [База по оптимизации PostgreSQL: схема, индексы, чтение EXPLAIN, методы доступа и соединения, тюнинг](https://www.youtube.com/watch?v=gA3A_epB3So) 👤 Диджитализируй! 🔖 #postgresql 🗓️ 2024-12-04
-- [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/) 👤 jse.li 💬 3750 🔖 #go, #diy 🗓️ 2024-12-04
-- [§Note-writing systems](https://notes.andymatuschak.org/%C2%A7Note-writing_systems) 👤 Andyʼs working notes 💬 50 🗓️ 2024-12-03
-- [Красные флаги на собеседовании на программиста | Программист читает Reddit](https://youtube.com/watch?v=ijd5KAqaUqY&si=QHF2nqjpfW1OWZ5r) 👤 Sergey Nemchinskiy 🗓️ 2024-12-02
-- [Making Software](https://www.oreilly.com/library/view/making-software/9780596808310/) 👤 Andy Oram 💬 184 🗓️ 2024-12-02
-- [Another Static Site Generator for Lessons](https://third-bit.com/2024/11/30/another-ssg-for-lessons/) 👤 third-bit.com 💬 609 🗓️ 2024-12-02
-- [Persona 5 Royal guide: All classroom answers](https://www.polygon.com/persona-5-royal-guide-walkthrough/2020/3/31/21192788/questions-answers-quizzes-exams-midterm-final-classroom) 👤 Ryan Gilliam 💬 2033 🗓️ 2024-12-01
-- [Why pipes sometimes get "stuck": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/) 👤 Julia Evans 💬 1742 🗓️ 2024-11-30
-- [Ep. 1: Enhancing Your Go Projects with Generative AI: Exploring LLMs](https://www.ardanlabs.com/blog/2024/06/ep1-enhancing-your-go-projects-with-generative-ai-exploring-llms.html) 👤 ardanlabs.com 💬 367 🗓️ 2024-11-29
-- [Continuous Integration and Deployment for Python With GitHub Actions](https://realpython.com/github-actions-python/) 👤 Ricky White 💬 7039 🔖 #devops, #github 🗓️ 2024-11-28
-- [Effective Go Recipes](https://readwise.io/reader/document_raw_content/241135476) 👤 Miki Tebeka; 💬 49579 🔖 #go, #book 🗓️ 2024-11-27
-- [Detecting Race Conditions With Go](http://www.goinggo.net/2013/09/detecting-race-conditions-with-go.html) 👤 ardanlabs.com 💬 1717 🔖 #go 🗓️ 2024-11-27
-- [Channels in Go](http://golangtutorials.blogspot.co.uk/2011/06/channels-in-go.html) 👤 golangtutorials.blogspot.com 💬 1433 🔖 #go 🗓️ 2024-11-27
-- [PWA and Django #3: Online and offline resources in a PWA](https://andresalvareziglesias.substack.com/p/pwa-and-django-3-online-and-offline?r=1ymfiv&utm_campaign=post&utm_medium=web&triedRedirect=true) 👤 Andrés Álvarez Iglesias 💬 650 🔖 #django 🗓️ 2024-11-27
-- [Managing Dependencies With Python Poetry](https://realpython.com/courses/managing-dependencies-with-poetry/) 👤 Real Python 💬 146 🔖 #python 🗓️ 2024-11-27
-- [Samuel Colvin on LogFire, mixing Python with Rust & being pydantic about types](https://www.bitecode.dev/p/samuel-colvin-on-logfire-mixing-python) 👤 Bite Code! 💬 132 🗓️ 2024-11-26
-- [redis_1](http://openmymind.net/redis.pdf) 💬 9818 🔖 #redis 🗓️ 2024-11-26
-- [A New Player's Primer to Balatro](https://steamcommunity.com/sharedfiles/filedetails/?id=3166946815) 👤 steamcommunity.com 💬 9207 🗓️ 2024-11-25
-- [FREE coding exercises for budding gophers](https://gophercises.com/) 👤 Jon Calhoun 💬 378 🗓️ 2024-11-25
-- [Unfinished Projects](https://third-bit.com/2024/11/24/unfinished-projects/) 👤 third-bit.com 💬 341 🗓️ 2024-11-25
-- [Working with Redis in Go](https://www.alexedwards.net/blog/working-with-redis) 👤 Alex Edwards 💬 4266 🔖 #go, #redis 🗓️ 2024-11-24
-- [Configuring sql.DB for Better Performance](https://www.alexedwards.net/blog/configuring-sqldb) 👤 Alex Edwards 💬 2050 🔖 #db, #go 🗓️ 2024-11-24
-- [How to use the http.ResponseController type](https://www.alexedwards.net/blog/how-to-use-the-http-responsecontroller-type) 👤 Alex Edwards 💬 1110 🔖 #go 🗓️ 2024-11-24
-- [I18n in Go: Managing Translations](https://www.alexedwards.net/blog/i18n-managing-translations) 👤 Alex Edwards 💬 5780 🔖 #go 🗓️ 2024-11-24
-- [A Complete Guide to Working With Cookies in Go](https://www.alexedwards.net/blog/working-with-cookies-in-go) 👤 Alex Edwards 💬 4215 🔖 #go 🗓️ 2024-11-24
-- [Using PostgreSQL JSONB with Go](https://www.alexedwards.net/blog/using-postgresql-jsonb) 👤 Alex Edwards 💬 1234 🔖 #db, #go, #postgresql 🗓️ 2024-11-24
-- [The Science of the Big Bang Theory](private://read/01jddehrpj1rycvqa9zspgrp9p) 👤 Mark Brake 💬 67840 🗓️ 2024-11-23
-- [Science of TV’s the Big Bang Theory, The](private://read/01jddehfjpq5k22sdjv0ekvk1q) 👤 Zobel Dave 💬 98348 🗓️ 2024-11-23
-- [The Big Bang Theory](private://read/01jddeh4sd4h85jrrkm2bkzv3c) 👤 Jessica Radloff 💬 220073 🗓️ 2024-11-23
-- [The Big Bang Theory - Wikipedia](https://en.wikipedia.org/wiki/The_Big_Bang_Theory) 👤 wikipedia.org 💬 15571 🗓️ 2024-11-23
-- [Learning Go](http://library.hazadus.ru/media/books/Jon_Bodner_-_Learning_Go__An_Idiomatic_Approach_to_Real-World_Go_Programming-OReilly_2021.pdf) 👤 Bodner, Jon;  💬 103495 🔖 #go, #book 🗓️ 2024-02-19
-- [О переменных среды](https://grishaev.me/env-trap/) 👤 grishaev.me 💬 439 🗓️ 2024-11-22
-- [Лучший язык](https://grishaev.me/best-lang/) 👤 grishaev.me 💬 220 🗓️ 2024-11-22
-- [Исправь это в своём резюме и тебя наймут!](https://www.youtube.com/watch?v=wtNGICJgqi0) 👤 Програмысли 🗓️ 2024-11-22
-- [Streaming Video with Golang Fiber: A Practical Tutorial](https://pcpratheesh.medium.com/streaming-video-with-golang-fiber-a-practical-tutorial-a2170584ae9f) 👤 PRATHEESH PC 💬 463 🔖 #go, #try 🗓️ 2024-11-22
-- [Creating a Go-based video streaming platform](https://reintech.io/blog/creating-a-go-based-video-streaming-platform) 👤 Arthur C. Codex 💬 747 🔖 #go, #try 🗓️ 2024-11-22
-- [Git: count commits with rev-list](https://adamj.eu/tech/2024/11/20/git-count-commits-rev-list/) 👤 Adam Johnson 💬 299 🔖 #git 🗓️ 2024-11-21
-- [ExpvarMon — консольный мониторинг сервисов на Go](https://habr.com/ru/articles/257593/) 👤 Хабр 💬 1065 🔖 #go 🗓️ 2024-11-20
-- [Bitfield Consulting](https://bitfieldconsulting.com/posts/rust-and-go) 👤 Bitfield Consulting 💬 8 🗓️ 2024-11-20
-- [How to Implement Event-Driven Data Processing with Traefik, Kafka, and Docker](https://www.freecodecamp.org/news/how-to-implement-event-driven-data-processing/) 👤 freecodecamp.org 💬 1972 🗓️ 2024-11-20
-- [Как проверить аккаунт Инстаграм* на ботов](https://livedune.com/ru/blog/proverka_insta-blogerov_na_nakrutki#rec373018188) 👤 livedune.com 💬 1319 🗓️ 2024-11-19
-- [Understanding Allocations in Go](https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d) 👤 James Kirk 💬 2634 🔖 #go 🗓️ 2024-11-19
-- [Is Python Really That Slow?](https://blog.miguelgrinberg.com/post/is-python-really-that-slow) 👤 Miguel Grinberg 💬 3315 🔖 #python 🗓️ 2024-11-19
-- [Importing a frontend Javascript library without a build system](https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/) 👤 Julia Evans 💬 2139 🔖 #javascript 🗓️ 2024-11-19
-- [Boost Your Django DX updated again](https://adamj.eu/tech/2024/11/18/byddx-updated-again/) 👤 Adam Johnson 💬 1624 🗓️ 2024-11-18
-- [Примеры языков: C, Pascal, COBOL, ALGOL, BASIC, Fortran.](https://practicum.yandex.ru/blog/paradigmy-programmirovaniya/) 👤 Парадигмы программирования: что это, какие виды бывают, примеры использования   💬 1669 🗓️ 2024-11-18
-- [What Is YearCompass?](https://yearcompass.com/) 👤 yearcompass.com 💬 197 🗓️ 2024-11-16
-- [Exploring JavaScript Symbols](https://www.trevorlasn.com/blog/symbols-in-javascript) 👤 Exploring JavaScript Symbols 💬 1927 🔖 #javascript 🗓️ 2024-11-16
-- [20 лет «Героям Меча и Магии 3». Чем живёт культовая игра сегодня](https://www.mirf.ru/videogames/20-let-geroyam-mecha-i-magii-3-chem-zhivyot-kultovaya-igra-segodnya) 👤 mirf.ru 💬 4754 🗓️ 2024-11-16
-- [Planescape: Torment. История создания великой игры](https://www.mirf.ru/videogames/planescape-torment-istoriya-sozdaniya) 👤 mirf.ru 💬 4502 🗓️ 2024-11-16
-- [What if AI eventually makes programmers smarter, not dumber?](https://www.bitecode.dev/p/what-if-ai-eventually-make-programmers) 👤 Bite Code! 💬 1413 🗓️ 2024-11-16
-- [Go Database Migrations with Goose and PostgreSQL](https://www.youtube.com/watch?v=fA8QK69zwlw) 👤 BugBytes 🗓️ 2024-11-16
-- [RSS is (not) dead (yet) (NED #3)](https://audmcname.com/comics/rss-is-not-dead-yet/) 👤 audmcname.com 💬 32 🗓️ 2024-11-14
-- [The TTY demystified](https://www.linusakesson.net/programming/tty/) 👤 linusakesson.net 💬 16779 🗓️ 2024-11-14
-- [My 2024 thoughts on the state of social media](https://martinfowler.com/articles/2024-social-media.html) 👤 Martin Fowler 💬 1625 🗓️ 2024-11-14
-- [Controlling When Components are Loaded in Nuxt](https://masteringnuxt.com/blog/controlling-when-components-are-loaded-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(&utm_medium=email&utm_source=convertkit#191)%20Nested%20ref%20properties,%20mock%20API%20routes,%20and%20more%20-%2015628767) 👤 masteringnuxt.com 💬 800 🔖 #nuxt 🗓️ 2024-11-14
-- [What Are Python Wheels and Why Should You Care?](https://realpython.com/python-wheels/) 👤 Brad Solomon 💬 7110 🗓️ 2024-11-14
-- [The 4-Hour Workweek: Escape 9–5, Live Anywhere, and Join the New Rich - Expanded and Updated](private://read/01jckkk63f4zwzs647jzrjktsb) 👤 Timothy Ferriss 💬 208003 🗓️ 2024-11-13
-- [Phoenix LiveView for web developers who don't know Elixir.](https://youtube.com/watch?v=U_Pe8Ru06fM&si=7fEmpzFHkkXXvyy2) 👤 knowthen 🔖 #elixir 🗓️ 2024-11-13
-- [Functional Programming with Elixir – Full Course](https://youtube.com/watch?v=IiIgm_yaoOA&si=yBeVYXse7XlEAkod) 👤 freeCodeCamp.org 🔖 #elixir 🗓️ 2024-11-13
-- [How to Build a Dropbox-like Distributed File Storage System Using MinIO and gRPC](https://www.freecodecamp.org/news/how-to-build-a-dropbox-like-distributed-file-storage-system-using-minio-and-grpc/) 👤 freeCodeCamp.org 💬 1077 🗓️ 2024-11-13
-- [On the Importance of Hard Work](https://beej.us/blog/data/noises-in-the-distance/) 👤 beej.us 💬 377 🗓️ 2024-11-13
+- [Generics in Go](https://bitfieldconsulting.com/posts/generics) [📖](https://read.readwise.io/read/01je8a533b91ghy2y7g0jfaxj6) 👤 Bitfield Consulting 💬 45 🔖 #go 🗓️ 2024-12-04
+- [База по оптимизации PostgreSQL: схема, индексы, чтение EXPLAIN, методы доступа и соединения, тюнинг](https://www.youtube.com/watch?v=gA3A_epB3So) [📖](https://read.readwise.io/read/01je88vqk46wfp9mer4vvsdsj6) 👤 Диджитализируй! 🔖 #postgresql 🗓️ 2024-12-04
+- [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/) [📖](https://read.readwise.io/read/01je80qtp9fr3gt6bd3fk7r01w) 👤 jse.li 💬 3750 🔖 #go, #diy 🗓️ 2024-12-04
+- [§Note-writing systems](https://notes.andymatuschak.org/%C2%A7Note-writing_systems) [📖](https://read.readwise.io/read/01je65nasxjq0x65sed48mn1vh) 👤 Andyʼs working notes 💬 50 🗓️ 2024-12-03
+- [Красные флаги на собеседовании на программиста | Программист читает Reddit](https://youtube.com/watch?v=ijd5KAqaUqY&si=QHF2nqjpfW1OWZ5r) [📖](https://read.readwise.io/read/01je2zczxaw6x1zcmegnm5yhce) 👤 Sergey Nemchinskiy 🗓️ 2024-12-02
+- [Making Software](https://www.oreilly.com/library/view/making-software/9780596808310/) [📖](https://read.readwise.io/read/01je2yhtrb321yez765q1ff2gb) 👤 Andy Oram 💬 184 🗓️ 2024-12-02
+- [Another Static Site Generator for Lessons](https://third-bit.com/2024/11/30/another-ssg-for-lessons/) [📖](https://read.readwise.io/read/01je2x7nz2seseaa3rjejxbsrk) 👤 third-bit.com 💬 609 🗓️ 2024-12-02
+- [Persona 5 Royal guide: All classroom answers](https://www.polygon.com/persona-5-royal-guide-walkthrough/2020/3/31/21192788/questions-answers-quizzes-exams-midterm-final-classroom) [📖](https://read.readwise.io/read/01je11sbjywyc6emw3mb6zsjxk) 👤 Ryan Gilliam 💬 2033 🗓️ 2024-12-01
+- [Why pipes sometimes get "stuck": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/) [📖](https://read.readwise.io/read/01jdyk5ckq9vyjc3tqp0e5896w) 👤 Julia Evans 💬 1742 🗓️ 2024-11-30
+- [Ep. 1: Enhancing Your Go Projects with Generative AI: Exploring LLMs](https://www.ardanlabs.com/blog/2024/06/ep1-enhancing-your-go-projects-with-generative-ai-exploring-llms.html) [📖](https://read.readwise.io/read/01jdvwdc4hpqfxr6aspw4bay5c) 👤 ardanlabs.com 💬 367 🗓️ 2024-11-29
+- [Continuous Integration and Deployment for Python With GitHub Actions](https://realpython.com/github-actions-python/) [📖](https://read.readwise.io/read/01jdrk2zms8bscgyeshf54wbn4) 👤 Ricky White 💬 7039 🔖 #devops, #github 🗓️ 2024-11-28
+- [Effective Go Recipes](https://readwise.io/reader/document_raw_content/241135476) [📖](https://read.readwise.io/read/01jdqftjd2zyqmsgaqhvkts044) 👤 Miki Tebeka; 💬 49579 🔖 #go, #book 🗓️ 2024-11-27
+- [Detecting Race Conditions With Go](http://www.goinggo.net/2013/09/detecting-race-conditions-with-go.html) [📖](https://read.readwise.io/read/01jdpthkva3f43axf28kavsa9a) 👤 ardanlabs.com 💬 1717 🔖 #go 🗓️ 2024-11-27
+- [Channels in Go](http://golangtutorials.blogspot.co.uk/2011/06/channels-in-go.html) [📖](https://read.readwise.io/read/01jdpthhx1n98hpk6pcvh7jfnq) 👤 golangtutorials.blogspot.com 💬 1433 🔖 #go 🗓️ 2024-11-27
+- [PWA and Django #3: Online and offline resources in a PWA](https://andresalvareziglesias.substack.com/p/pwa-and-django-3-online-and-offline?r=1ymfiv&utm_campaign=post&utm_medium=web&triedRedirect=true) [📖](https://read.readwise.io/read/01jdp1vy0w9devjwmmjs75fe2p) 👤 Andrés Álvarez Iglesias 💬 650 🔖 #django 🗓️ 2024-11-27
+- [Managing Dependencies With Python Poetry](https://realpython.com/courses/managing-dependencies-with-poetry/) [📖](https://read.readwise.io/read/01jdnv35qbjk6jvs9s1vceszb3) 👤 Real Python 💬 146 🔖 #python 🗓️ 2024-11-27
+- [Samuel Colvin on LogFire, mixing Python with Rust & being pydantic about types](https://www.bitecode.dev/p/samuel-colvin-on-logfire-mixing-python) [📖](https://read.readwise.io/read/01jdn4sptebaz079ctwwpfngrd) 👤 Bite Code! 💬 132 🗓️ 2024-11-26
+- [redis_1](http://openmymind.net/redis.pdf) [📖](https://read.readwise.io/read/01jdm8hres5rk4xr2a2j4wd4ma) 💬 9818 🔖 #redis 🗓️ 2024-11-26
+- [A New Player's Primer to Balatro](https://steamcommunity.com/sharedfiles/filedetails/?id=3166946815) [📖](https://read.readwise.io/read/01jdj5nrysz8d4mnzf4h61cdy7) 👤 steamcommunity.com 💬 9207 🗓️ 2024-11-25
+- [FREE coding exercises for budding gophers](https://gophercises.com/) [📖](https://read.readwise.io/read/01jdhdjd7qc667xp7pp3pn7dcn) 👤 Jon Calhoun 💬 378 🗓️ 2024-11-25
+- [Unfinished Projects](https://third-bit.com/2024/11/24/unfinished-projects/) [📖](https://read.readwise.io/read/01jdgvv13m4yf5jpz0253dyh9w) 👤 third-bit.com 💬 341 🗓️ 2024-11-25
+- [Working with Redis in Go](https://www.alexedwards.net/blog/working-with-redis) [📖](https://read.readwise.io/read/01jdfrnxwm90k4q7bv6q8maxfe) 👤 Alex Edwards 💬 4266 🔖 #go, #redis 🗓️ 2024-11-24
+- [Configuring sql.DB for Better Performance](https://www.alexedwards.net/blog/configuring-sqldb) [📖](https://read.readwise.io/read/01jdfrm2efzn9c7xnvpc0maqh1) 👤 Alex Edwards 💬 2050 🔖 #db, #go 🗓️ 2024-11-24
+- [How to use the http.ResponseController type](https://www.alexedwards.net/blog/how-to-use-the-http-responsecontroller-type) [📖](https://read.readwise.io/read/01jdfrhh7rf2c9tgmsd3k6w0wg) 👤 Alex Edwards 💬 1110 🔖 #go 🗓️ 2024-11-24
+- [I18n in Go: Managing Translations](https://www.alexedwards.net/blog/i18n-managing-translations) [📖](https://read.readwise.io/read/01jdfrgq39dqw3wwg698e56pt8) 👤 Alex Edwards 💬 5780 🔖 #go 🗓️ 2024-11-24
+- [A Complete Guide to Working With Cookies in Go](https://www.alexedwards.net/blog/working-with-cookies-in-go) [📖](https://read.readwise.io/read/01jdfrfxs2eqtzrj3d375axcbg) 👤 Alex Edwards 💬 4215 🔖 #go 🗓️ 2024-11-24
+- [Using PostgreSQL JSONB with Go](https://www.alexedwards.net/blog/using-postgresql-jsonb) [📖](https://read.readwise.io/read/01jden7k4b7rbyj2k10745t6yf) 👤 Alex Edwards 💬 1234 🔖 #db, #go, #postgresql 🗓️ 2024-11-24
+- [The Science of the Big Bang Theory](private://read/01jddehrpj1rycvqa9zspgrp9p) [📖](https://read.readwise.io/read/01jddehrpj1rycvqa9zspgrp9p) 👤 Mark Brake 💬 67840 🗓️ 2024-11-23
+- [Science of TV’s the Big Bang Theory, The](private://read/01jddehfjpq5k22sdjv0ekvk1q) [📖](https://read.readwise.io/read/01jddehfjpq5k22sdjv0ekvk1q) 👤 Zobel Dave 💬 98348 🗓️ 2024-11-23
+- [The Big Bang Theory](private://read/01jddeh4sd4h85jrrkm2bkzv3c) [📖](https://read.readwise.io/read/01jddeh4sd4h85jrrkm2bkzv3c) 👤 Jessica Radloff 💬 220073 🗓️ 2024-11-23
+- [The Big Bang Theory - Wikipedia](https://en.wikipedia.org/wiki/The_Big_Bang_Theory) [📖](https://read.readwise.io/read/01jddcbfkvmwt1w3yxs37wnkwb) 👤 wikipedia.org 💬 15571 🗓️ 2024-11-23
+- [Learning Go](http://library.hazadus.ru/media/books/Jon_Bodner_-_Learning_Go__An_Idiomatic_Approach_to_Real-World_Go_Programming-OReilly_2021.pdf) [📖](https://read.readwise.io/read/01jdc0dhxjz0khncvap9xnh5c2) 👤 Bodner, Jon;  💬 103495 🔖 #go, #book 🗓️ 2024-02-19
+- [О переменных среды](https://grishaev.me/env-trap/) [📖](https://read.readwise.io/read/01jdazch8damm36t7kkc6y2v7a) 👤 grishaev.me 💬 439 🗓️ 2024-11-22
+- [Лучший язык](https://grishaev.me/best-lang/) [📖](https://read.readwise.io/read/01jdazb6dysd60011axzchyyrp) 👤 grishaev.me 💬 220 🗓️ 2024-11-22
+- [Исправь это в своём резюме и тебя наймут!](https://www.youtube.com/watch?v=wtNGICJgqi0) [📖](https://read.readwise.io/read/01jda69dc9s1473b0mm5qpcxbd) 👤 Програмысли 🗓️ 2024-11-22
+- [Streaming Video with Golang Fiber: A Practical Tutorial](https://pcpratheesh.medium.com/streaming-video-with-golang-fiber-a-practical-tutorial-a2170584ae9f) [📖](https://read.readwise.io/read/01jd9ww83fn2tdkrvb9fvsnv3b) 👤 PRATHEESH PC 💬 463 🔖 #go, #try 🗓️ 2024-11-22
+- [Creating a Go-based video streaming platform](https://reintech.io/blog/creating-a-go-based-video-streaming-platform) [📖](https://read.readwise.io/read/01jd9wrtpm93zq9yv5nc8bxvkk) 👤 Arthur C. Codex 💬 747 🔖 #go, #try 🗓️ 2024-11-22
+- [Git: count commits with rev-list](https://adamj.eu/tech/2024/11/20/git-count-commits-rev-list/) [📖](https://read.readwise.io/read/01jd7ys560rf9kawpbsyk1z9jb) 👤 Adam Johnson 💬 299 🔖 #git 🗓️ 2024-11-21
+- [ExpvarMon — консольный мониторинг сервисов на Go](https://habr.com/ru/articles/257593/) [📖](https://read.readwise.io/read/01jd4zka9r04xb42anjxjrm6d2) 👤 Хабр 💬 1065 🔖 #go 🗓️ 2024-11-20
+- [Bitfield Consulting](https://bitfieldconsulting.com/posts/rust-and-go) [📖](https://read.readwise.io/read/01jd43c1x43tf13g8phykkk8d0) 👤 Bitfield Consulting 💬 8 🗓️ 2024-11-20
+- [How to Implement Event-Driven Data Processing with Traefik, Kafka, and Docker](https://www.freecodecamp.org/news/how-to-implement-event-driven-data-processing/) [📖](https://read.readwise.io/read/01jd438kevhw3y0410faqedkhv) 👤 freecodecamp.org 💬 1972 🗓️ 2024-11-20
+- [Как проверить аккаунт Инстаграм* на ботов](https://livedune.com/ru/blog/proverka_insta-blogerov_na_nakrutki#rec373018188) [📖](https://read.readwise.io/read/01jd2rmg88et6y34cxd5bpgdn5) 👤 livedune.com 💬 1319 🗓️ 2024-11-19
+- [Understanding Allocations in Go](https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d) [📖](https://read.readwise.io/read/01jd2aa65dhqret08fvkapmjf9) 👤 James Kirk 💬 2634 🔖 #go 🗓️ 2024-11-19
+- [Is Python Really That Slow?](https://blog.miguelgrinberg.com/post/is-python-really-that-slow) [📖](https://read.readwise.io/read/01jd1hgjwa1gvby961smeq1bd4) 👤 Miguel Grinberg 💬 3315 🔖 #python 🗓️ 2024-11-19
+- [Importing a frontend Javascript library without a build system](https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/) [📖](https://read.readwise.io/read/01jd1he9aykphn0wp8hk29g5e8) 👤 Julia Evans 💬 2139 🔖 #javascript 🗓️ 2024-11-19
+- [Boost Your Django DX updated again](https://adamj.eu/tech/2024/11/18/byddx-updated-again/) [📖](https://read.readwise.io/read/01jczczhsrkh5w0dwshx3eneap) 👤 Adam Johnson 💬 1624 🗓️ 2024-11-18
+- [Примеры языков: C, Pascal, COBOL, ALGOL, BASIC, Fortran.](https://practicum.yandex.ru/blog/paradigmy-programmirovaniya/) [📖](https://read.readwise.io/read/01jcz4s6kmzr96pv29818n62mc) 👤 Парадигмы программирования: что это, какие виды бывают, примеры использования   💬 1669 🗓️ 2024-11-18
+- [What Is YearCompass?](https://yearcompass.com/) [📖](https://read.readwise.io/read/01jcv3kr691t7fe5vam32733gy) 👤 yearcompass.com 💬 197 🗓️ 2024-11-16
+- [Exploring JavaScript Symbols](https://www.trevorlasn.com/blog/symbols-in-javascript) [📖](https://read.readwise.io/read/01jcv3hmbaaxf8skgg0615nnx6) 👤 Exploring JavaScript Symbols 💬 1927 🔖 #javascript 🗓️ 2024-11-16
+- [20 лет «Героям Меча и Магии 3». Чем живёт культовая игра сегодня](https://www.mirf.ru/videogames/20-let-geroyam-mecha-i-magii-3-chem-zhivyot-kultovaya-igra-segodnya) [📖](https://read.readwise.io/read/01jctbenw2xhn45ksw6zyhahnt) 👤 mirf.ru 💬 4754 🗓️ 2024-11-16
+- [Planescape: Torment. История создания великой игры](https://www.mirf.ru/videogames/planescape-torment-istoriya-sozdaniya) [📖](https://read.readwise.io/read/01jctbe3bw4qdyff1b0jsvcffa) 👤 mirf.ru 💬 4502 🗓️ 2024-11-16
+- [What if AI eventually makes programmers smarter, not dumber?](https://www.bitecode.dev/p/what-if-ai-eventually-make-programmers) [📖](https://read.readwise.io/read/01jct51se5erewg9vsry0btf7x) 👤 Bite Code! 💬 1413 🗓️ 2024-11-16
+- [Go Database Migrations with Goose and PostgreSQL](https://www.youtube.com/watch?v=fA8QK69zwlw) [📖](https://read.readwise.io/read/01jct4vzq75g3dh9nt4n6k7mhb) 👤 BugBytes 🗓️ 2024-11-16
+- [RSS is (not) dead (yet) (NED #3)](https://audmcname.com/comics/rss-is-not-dead-yet/) [📖](https://read.readwise.io/read/01jcnapb3vjc6fxk6k7wngsgnd) 👤 audmcname.com 💬 32 🗓️ 2024-11-14
+- [The TTY demystified](https://www.linusakesson.net/programming/tty/) [📖](https://read.readwise.io/read/01jcnaf388fn586153qvxvedns) 👤 linusakesson.net 💬 16779 🗓️ 2024-11-14
+- [My 2024 thoughts on the state of social media](https://martinfowler.com/articles/2024-social-media.html) [📖](https://read.readwise.io/read/01jcn9peavkt6r00g0qgyx6drg) 👤 Martin Fowler 💬 1625 🗓️ 2024-11-14
+- [Controlling When Components are Loaded in Nuxt](https://masteringnuxt.com/blog/controlling-when-components-are-loaded-in-nuxt?ck_subscriber_id=2108193410&utm_campaign=%F0%9F%94%A5+(&utm_medium=email&utm_source=convertkit#191)%20Nested%20ref%20properties,%20mock%20API%20routes,%20and%20more%20-%2015628767) [📖](https://read.readwise.io/read/01jcn7dskbrg35znrtp2w71t3k) 👤 masteringnuxt.com 💬 800 🔖 #nuxt 🗓️ 2024-11-14
+- [What Are Python Wheels and Why Should You Care?](https://realpython.com/python-wheels/) [📖](https://read.readwise.io/read/01jcmwm9sseft8ar50713n2pga) 👤 Brad Solomon 💬 7110 🗓️ 2024-11-14
+- [The 4-Hour Workweek: Escape 9–5, Live Anywhere, and Join the New Rich - Expanded and Updated](private://read/01jckkk63f4zwzs647jzrjktsb) [📖](https://read.readwise.io/read/01jckkk63f4zwzs647jzrjktsb) 👤 Timothy Ferriss 💬 208003 🗓️ 2024-11-13
+- [Phoenix LiveView for web developers who don't know Elixir.](https://youtube.com/watch?v=U_Pe8Ru06fM&si=7fEmpzFHkkXXvyy2) [📖](https://read.readwise.io/read/01jcjate672nv0gt2sn5fw25b3) 👤 knowthen 🔖 #elixir 🗓️ 2024-11-13
+- [Functional Programming with Elixir – Full Course](https://youtube.com/watch?v=IiIgm_yaoOA&si=yBeVYXse7XlEAkod) [📖](https://read.readwise.io/read/01jcjaqky8jc7w6pj9czngzwk8) 👤 freeCodeCamp.org 🔖 #elixir 🗓️ 2024-11-13
+- [How to Build a Dropbox-like Distributed File Storage System Using MinIO and gRPC](https://www.freecodecamp.org/news/how-to-build-a-dropbox-like-distributed-file-storage-system-using-minio-and-grpc/) [📖](https://read.readwise.io/read/01jcj37ymp9g107n8f6r8j2vz8) 👤 freeCodeCamp.org 💬 1077 🗓️ 2024-11-13
+- [On the Importance of Hard Work](https://beej.us/blog/data/noises-in-the-distance/) [📖](https://read.readwise.io/read/01jchzzfj1s97vqdfm86nzxs0g) 👤 beej.us 💬 377 🗓️ 2024-11-13
     > **Заметка:** Подписаться на RSS!
-- [Beej's guide to killing dragons](https://beej.us/moria/dragonslayer.html) 👤 beej.us 💬 1762 🗓️ 2024-11-13
-- [Tips and Tricks](https://beej.us/guide/bgp/) 👤 beej.us 💬 96 🗓️ 2024-11-13
-- [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/) 👤 beej.us 💬 3415 🗓️ 2024-11-13
-- [Beej's Guide to C Programming](https://beej.us/guide/bgc/) 👤 beej.us 💬 117 🗓️ 2024-11-13
-- [Beej's Guide to Unix Interprocess Communication](https://beej.us/guide/bgipc/) 👤 beej.us 💬 82 🗓️ 2024-11-13
-- [How to Build a Second Brain – Part 2](https://illustrated.dev/secondbrain2) 👤 illustrated.dev 💬 178 🗓️ 2024-11-11
-- [Bitfield Consulting](https://bitfieldconsulting.com/posts/tao-of-go) 👤 Bitfield Consulting 💬 8 🔖 #go 🗓️ 2024-11-10
-- [Код. Тайный язык информатики](private://read/01jcbv20dveewq9fmgyq6145zm) 👤 Чарльз Петцольд 💬 187643 🗓️ 2024-11-10
-- [New microblog with TILs](https://jvns.ca/blog/2024/11/09/new-microblog/) 👤 Julia Evans 💬 508 🗓️ 2024-11-10
-- [How to Use WebCurate to Discover Helpful Developer Tools](https://www.freecodecamp.org/news/how-to-use-webcurate-to-discover-helpful-developer-tools/) 👤 David Jaja 💬 1398 🗓️ 2024-11-10
-- [How to Fuzz Test Golang HTTP Services](https://www.freecodecamp.org/news/how-to-fuzz-test-golang-http-services/) 👤 freeCodeCamp.org 💬 1547 🔖 #go, #testing 🗓️ 2024-11-07
-- [Journaling Workflow for Appending to Daily Notes with QuickAdd (VIDEO)](https://thesweetsetup.com/journaling-workflow-for-appending-to-daily-notes-with-quickadd-video/) 👤 Mike Schmitz 💬 731 🗓️ 2024-11-06
-- [Deep Work](private://read/01jc0gfq12a0849rk3x2q2h5dg) 👤 Cal Newport 💬 79811 🗓️ 2024-11-06
-- [Parsing Custom Markdown with Go](mailto:reader-forwarded-email/5797974aa263466e38a8af5c8cd6636d) 👤 Jon Calhoun 💬 293 🗓️ 2024-11-06
-- [Improving the main function](mailto:reader-forwarded-email/9c543cfbabd494a29de9eb2384ac5f82) 👤 Jon Calhoun 💬 548 🗓️ 2024-11-06
-- [Testing API libraries in Go](mailto:reader-forwarded-email/99564c967e771eacae74b0d4ee726eff) 👤 Jon Calhoun 💬 509 🗓️ 2024-11-05
-- [Storing information in its highest form](https://enterprisecraftsmanship.com/posts/storing-information-in-its-highest-form/) 👤 Vladimir Khorikov 💬 1921 🗓️ 2024-11-05
-- [The Little Book on REST Services](https://readwise.io/reader/document_raw_content/234768051) 👤 Kenneth Lange 💬 5511 🔖 #rest 🗓️ 2024-11-05
-- [JavaScript | 2022 | The Web Almanac by HTTP Archive](https://almanac.httparchive.org/en/2022/javascript) 👤 Jeremy Wagner 💬 7978 🔖 #web, #long read, #javascript 🗓️ 2024-01-25
-- [Performance Analysis of Python's `dict()` and `{}` - MadeByMe](https://madebyme.today/blog/python-dict-vs-curly-brackets/) 👤 Kamil Rusin 💬 2890 🔖 #python 🗓️ 2024-01-29
-- [The history of a Django application · eigenwijsje](https://eigenwijsje.dev/blog/the-history-of-a-django-application/) 👤 Ernesto Rico Schmidt 💬 1397 🔖 #django 🗓️ 2024-01-29
-- [Python Debugging Handbook – How to Debug Your Python Code](https://www.freecodecamp.org/news/python-debugging-handbook/) 👤 Samyak Jain 💬 5640 🔖 #python, #debugging 🗓️ 2024-01-29
-- [The Flask Mega-Tutorial, Part I: Hello, World! - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) 👤 Miguel Grinberg 💬 3907 🔖 #flask, #tutorial 🗓️ 2024-01-31
-- [Python Exceptions: An Introduction – Real Python](https://realpython.com/python-exceptions/) 👤 Real Python 💬 3713 🔖 #python 🗓️ 2024-02-06
-- [Python's Format Mini-Language for Tidy Strings – Real Python](https://realpython.com/python-format-mini-language/) 👤 Real Python 💬 4467 🔖 #python 🗓️ 2024-02-06
-- [Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) 👤 vinaysahni.com 💬 5406 🔖 #api, #rest 🗓️ 2024-02-06
-- [Spec-Driven Development for Building APIs with Longevity](https://www.nginx.com/blog/building-api-for-longevity-spec-driven-development/) 👤 Web Team 💬 5515 🔖 #api, #rest 🗓️ 2024-02-06
-- [Python Hashes and Equality](https://hynek.me/articles/hashes-and-equality/) 👤 Hynek Schlawack 💬 943 🔖 #python 🗓️ 2024-02-07
-- [Layers, Onions, Ports, Adapters: it's all the same](https://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/) 👤 Mark Seemann 💬 995 🗓️ 2024-02-07
-- [Microservices](https://martinfowler.com/articles/microservices.html) 👤 James Lewis 💬 6586 🗓️ 2024-02-07
-- [Full Stack Components | Epic Web Dev](https://www.epicweb.dev/full-stack-components) 👤 Kent C. Dodds 💬 4120 🗓️ 2024-02-08
-- [Jeff Triplett's Micro.blog - How to test with Django and pytest fixtures](https://micro.webology.dev/2024/02/05/how-to-test.html) 👤 Jeff Triplett 💬 351 🔖 #django, #pytest, #testing 🗓️ 2024-02-08
-- [How to Favicon in 2024: Six files that fit most needs—Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs) 👤 Andrey Sitnik 💬 2335 🗓️ 2024-02-08
-- [Infinite Craft](https://neal.fun/infinite-craft/) 👤 neal.fun 💬 30 🗓️ 2024-02-08
-- [Faster Docker builds with pipenv, poetry, or pip-tools](https://pythonspeed.com/articles/pipenv-docker/) 👤 Itamar Turner-Trauring 💬 1066 🗓️ 2024-02-09
-- [Three pytest Features You Will Love | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2024/02/pytest-features/) 👤 Helen Scott 💬 840 🔖 #pytest, #python, #testing 🗓️ 2024-02-13
-- [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/?from=newsletter) 👤 joshwcomeau.com 💬 3281 🗓️ 2024-02-14
-- [The Art of Production: Octave One · Feature ⟋ RA](https://ra.co/features/4162) 👤 Tajh Morris 💬 4395 🗓️ 2024-02-14
-- [CLI tools you won't be able to live without 🔧](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6) 👤 DEV Community 💬 4102 🔖 #cli, #try 🗓️ 2024-02-18
-- [Python Design Patterns](https://python-patterns.guide) 👤 python-patterns.guide 💬 155 🔖 #python 🗓️ 2024-02-19
-- [JavaScript Bloat in 2024 @ tonsky.me](https://tonsky.me/blog/js-bloat/) 👤 Nikita Prokopov 💬 1312 🗓️ 2024-02-22
-- [Rendering emails with Svelte - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/rendering-emails-with-svelte/) 👤 Dmitry Kudryavtsev 💬 2513 🗓️ 2024-02-24
-- [Untangling the Tale of Ada Lovelace—Stephen Wolfram Writings](https://writings.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/) 👤 writings.stephenwolfram.com 💬 11888 🗓️ 2024-02-27
-- [Jeff Triplett's Micro.blog - Things I do every time I start a Django project](https://micro.webology.dev/2024/02/26/things-i-do.html) 👤 Jeff Triplett 💬 769 🗓️ 2024-02-28
-- [Regular Expressions (RegEx) in JavaScript – A Handbook for Beginners](https://www.freecodecamp.org/news/regex-in-javascript/) 👤 Samyak Jain 💬 5736 🗓️ 2024-02-28
-- [The art of DJing: Andy C · Feature ⟋ RA](https://ra.co/features/3218) 👤 Dave Herringbone 💬 4625 🗓️ 2024-02-28
-- [Пишем свой веб-сервер на Python: процессы, потоки и асинхронный I/O](https://iximiuz.com/ru/posts/writing-python-web-server-part-2/) 👤 Ivan Velichko 💬 2513 🔖 #diy, #http 🗓️ 2024-02-29
-- [Let’s Build A Simple Interpreter. Part 1. - Ruslan's Blog](https://ruslanspivak.com/lsbasi-part1/) 👤 Ruslan Spivak 💬 2689 🔖 #diy 🗓️ 2024-02-29
-- [Django REST Framework: Pros and Cons | TestDriven.io](https://testdriven.io/blog/drf-pros-cons/) 👤 Nik Tomazic 💬 1290 🗓️ 2024-03-01
-- [The Syslog Handbook – How to Collect and Redirect Logs to a Remote Server](https://www.freecodecamp.org/news/what-is-syslog-handbook/) 👤 Serhii Orlivskyi 💬 9726 🗓️ 2024-03-01
-- [How to Build a Camera App on the Web – No Plugins Required](https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/) 👤 Favour C. Felix 💬 1642 🗓️ 2024-03-01
-- [Основы технологий баз данных](https://postgrespro.ru/education/books/dbtech) 👤 postgrespro.ru 💬 438 🗓️ 2024-03-04
-- [DNS for Rocket Scientists - Contents](https://www.zytrax.com/books/dns/) 👤 zytrax.com 💬 402 🗓️ 2024-03-04
-- [The Middle Passage: A Jungian Field Guide to Finding Meaning and Transformation in Midlife – The Marginalian](https://www.themarginalian.org/2024/03/03/the-middle-passage-john-hollis/) 👤 Maria Popova 💬 2065 🗓️ 2024-03-05
-- [</> htmx ~ Examples ~ Keyboard Shortcuts](https://htmx.org/examples/keyboard-shortcuts/) 👤 htmx.org 💬 128 🗓️ 2024-03-05
-- [Bitwise Operators in Python – Real Python](https://realpython.com/python-bitwise-operators/) 👤 Real Python 💬 14286 🗓️ 2024-03-05
-- [Deploying Django Apps in Kubernetes | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2024/03/deploying-django-apps-in-kubernetes/) 👤 Mukul Mantosh 💬 3560 🗓️ 2024-03-06
-- [Part 2: Parse the response](https://implement-dns.wizardzines.com/book/part_2.html) 👤 implement-dns.wizardzines.com 💬 1800 🗓️ 2024-03-06
-- [Implement DNS in a weekend](https://implement-dns.wizardzines.com) 👤 implement-dns.wizardzines.com 💬 147 🗓️ 2024-03-06
-- [The multiple meanings of "nameserver" and "DNS resolver"](https://jvns.ca/blog/2022/02/14/some-dns-terminology/) 👤 Julia Evans 💬 988 🔖 #dns 🗓️ 2024-03-06
-- [Structlog With Django Is Awesome! - loop0](https://loop0.sh/posts/structlog-with-django-is-awesome/) 👤 https://github.com/loop0 💬 349 🗓️ 2024-03-07
-- [Let’s Build A Web Server. Part 1. - Ruslan's Blog](https://ruslanspivak.com/lsbaws-part1/) 👤 Ruslan Spivak 💬 1366 🔖 #diy 🗓️ 2024-03-11
-- [Let’s Build A Web Server. Part 2. - Ruslan's Blog | WSGI Server](https://ruslanspivak.com/lsbaws-part2/) 👤 Ruslan Spivak 💬 2633 🔖 #diy 🗓️ 2024-03-11
-- [Let’s Build A Simple Interpreter. Part 2. - Ruslan's Blog](https://ruslanspivak.com/lsbasi-part2/) 👤 Ruslan Spivak 💬 1504 🔖 #diy 🗓️ 2024-03-11
-- [Jade Rubick - Velocity role 1 - the Subtractionist](https://www.rubick.com/velocity-role-subtractionist/) 👤 rubick.com 💬 973 🗓️ 2024-03-12
-- [Let’s Build A Simple Interpreter. Part 3. - Ruslan's Blog](https://ruslanspivak.com/lsbasi-part3/) 👤 Ruslan Spivak 💬 1914 🔖 #diy 🗓️ 2024-03-12
-- [Let’s Build A Web Server. Part 3. - Ruslan's Blog | Multiprocess](https://ruslanspivak.com/lsbaws-part3/) 👤 Ruslan Spivak 💬 226 🔖 #diy 🗓️ 2024-03-12
-- [Image Processing With the Python Pillow Library – Real Python](https://realpython.com/image-processing-with-the-python-pillow-library/) 👤 Real Python 💬 8569 🗓️ 2024-03-17
-- [Go ahead and block AI web crawlers // Cory Dransfeldt](https://coryd.dev/posts/2024/go-ahead-and-block-ai-web-crawlers/) 👤 Cory Dransfeldt 💬 652 🗓️ 2024-03-18
-- [Sending Emails With Python – Real Python](https://realpython.com/python-send-email/) 👤 Real Python 💬 3849 🔖 #python 🗓️ 2024-03-18
-- [Hands-on Rust: Effective Learning through 2D Game Development and Play by Herbert Wolverson](https://pragprog.com/titles/hwrust/hands-on-rust/) 👤 Herbert Wolverson 💬 701 🗓️ 2024-03-21
-- [Rust Brain Teasers: Exercise Your Mind by Herbert Wolverson](https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/) 👤 Herbert Wolverson 💬 519 🗓️ 2024-03-21
-- [Create a Table of Contents With Active States in Nuxt 3 | Michael Hoffmann - Senior Frontend Developer (Freelancer)](https://mokkapps.de/blog/create-a-table-of-contents-with-active-states-in-nuxt-3) 👤 mokkapps.de 💬 1441 🗓️ 2024-03-22
-- [Lies, damn lies, and feedback on Arch Linux - Bite code!](https://www.bitecode.dev/p/lies-damn-lies-and-feedback-on-arch) 👤 Bite Code! 💬 1043 🗓️ 2024-03-25
-- [Django: Write-up on optimizing the system check framework - Adam Johnson](https://adamj.eu/tech/2024/03/23/django-optimizing-system-checks/) 👤 adamj.eu 💬 2986 🗓️ 2024-03-25
-- [The Fediverse is Already Dead | Nora Codes](https://nora.codes/post/the-fediverse-is-already-dead/) 👤 Leonora Tindall 💬 3261 🗓️ 2024-03-25
-- [Testing with Python (part 1): the basics - Bite code!](https://www.bitecode.dev/p/testing-with-python-part-1-the-basics) 👤 Bite Code! 💬 2658 🗓️ 2024-03-25
-- [How to stop a Python thread cleanly | Alexandra Zaharia](https://alexandra-zaharia.github.io/posts/how-to-stop-a-python-thread-cleanly/) 👤 Alexandra Zaharia 💬 687 🗓️ 2024-03-28
-- [Rust on Exercism](https://exercism.org/tracks/rust) 👤 exercism.org 💬 155 🗓️ 2024-03-28
-- [Go on Exercism](https://exercism.org/tracks/go) 👤 exercism.org 💬 309 🗓️ 2024-03-28
-- [rust-lang/rustlings: :crab: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings) 👤 github.com 💬 768 🗓️ 2024-03-28
-- [Django ORM Cheatsheet: Mastering Database Operations in Django](https://djangocentral.com/django-orm-cheatsheet/) 👤 djangocentral.com 💬 1498 🔖 #django 🗓️ 2024-03-28
-- [How to Use Subquery() in Django With Practical Examples](https://djangocentral.com/how-to-use-subquery-in-django/) 👤 djangocentral.com 💬 989 🔖 #django 🗓️ 2024-03-28
-- [Edit card in HeadlessUI and InertiaJS modal - Trello Kanban - Trello kanboard](https://tallpad.com/series/trello-kanboard/lessons/edit-card-in-headlessui-and-inertiajs-modal-trello-kanban) 👤 tallpad.com 💬 116 🗓️ 2024-03-28
-- [Deploying Nuxt Static Site to Github Pages with GitHub Actions - Don Lalicon](https://donlalicon.dev/articles/nuxt-static-github-pages-action) 👤 donlalicon.dev 💬 396 🔖 #nuxt, #devops, #github 🗓️ 2024-03-28
-- [WireGuard на своем сервере: подробная инструкция](https://timeweb.cloud/tutorials/network-security/wireguard-na-svoem-servere) 👤 timeweb.cloud 💬 1516 🗓️ 2024-03-28
-- [The Art of DJing: Ellen Allien · Feature ⟋ RA](https://ra.co/features/4305) 👤 Andrew Ryce 💬 4388 🗓️ 2024-03-28
-- [Django Streaming HTTP Responses](https://blog.pecar.me/django-streaming-responses) 👤 Anže 💬 831 🗓️ 2024-04-01
-- [The Django admin is a CMS - Matthias Kestenholz](https://406.ch/writing/the-django-admin-is-a-cms/) 👤 406.ch 💬 651 🗓️ 2024-04-01
-- [Using breakpoints to explore your code](https://www.mostlypython.com/using-breakpoints-to-explore-your-code/) 👤 Eric Matthes 💬 1466 🗓️ 2024-04-01
-- [Every dunder method in Python - Python Morsels](https://www.pythonmorsels.com/every-dunder-method/) 👤 Trey Hunner 💬 3772 🗓️ 2024-04-01
-- [Monitoring web hosts | Artur Akmalov](https://akmalov.com/blog/monitoring-web-hosts) 👤 akmalov.com 💬 300 🗓️ 2024-04-01
-- [Мониторинг микросервисов Flask с помощью Prometheus / Хабр](https://habr.com/ru/articles/518122/) 👤 Максим 💬 765 🗓️ 2024-04-01
-- [Введение в асинхронный JavaScript - Изучение веб-разработки | MDN](https://developer.mozilla.org/ru/docs/Learn/JavaScript/Asynchronous/Introducing.) 👤 developer.mozilla.org 💬 64 🗓️ 2024-04-02
-- [inspect — Inspect live objects — Python 3.12.2 documentation](https://docs.python.org/3/library/inspect.html) 👤 docs.python.org 💬 6709 🗓️ 2024-04-02
-- [Стажёр-разработчик (бэкенд-разработка)](https://yandex.ru/yaintern/int_01) 👤 yandex.ru 💬 1075 🗓️ 2024-04-02
-- [Creating a Reading List with Eleventy and Omnivore - ttntm.me](https://ttntm.me/blog/creating-a-reading-list-with-eleventy-and-omnivore/) 👤 ttntm 💬 1409 🗓️ 2024-04-04
-- [Can gRPC replace REST and WebSockets for Web Application Communication? | gRPC](https://grpc.io/blog/postman-grpcweb/) 👤 Ian Douglas (Sr Developer Advocate, Postman) | Monday, 💬 1791 🔖 #grpc 🗓️ 2024-04-04
-- [Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html) 👤 twobithistory.org 💬 2169 🗓️ 2024-04-04
-- [The Big Ball of Mud and Other Architectural Disasters](https://blog.codinghorror.com/the-big-ball-of-mud-and-other-architectural-disasters/) 👤 Jeff Atwood 💬 496 🗓️ 2024-04-04
-- [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/) 👤 Itamar Turner-Trauring 💬 1479 🗓️ 2024-04-05
-- [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) 👤 Julia Evans 💬 2828 🔖 #inspiration, #productivity 🗓️ 2024-04-05
-- [Dependency Management With Python Poetry – Real Python](https://realpython.com/dependency-management-python-poetry/) 👤 Real Python 💬 9114 🗓️ 2024-04-06
-- [Clean Architectures in Python - Introduction](https://www.thedigitalcatbooks.com/pycabook-introduction/) 👤 thedigitalcatbooks.com 💬 2082 🗓️ 2024-04-06
-- [OAuth 2 Simplified • Aaron Parecki](https://aaronparecki.com/oauth-2-simplified/) 👤 Authorization 💬 2962 🗓️ 2024-04-07
-- [Demystifying OAuth Flows | Frontegg](https://frontegg.com/blog/oauth-flows) 👤 Aviad Mizrachi 💬 1703 🗓️ 2024-04-07
-- [Nuxt's Server-Only Components should be on your radar | Vue Mastery](https://www.vuemastery.com/blog/nuxts-server-only-components-should-be-on-your-radar/) 👤 Andy Li 💬 129 🗓️ 2024-04-08
-- [Effortless Forms w/ FormKit | Vue Mastery](https://www.vuemastery.com/blog/effortless-forms-w-formkit/) 👤 Timi Omoyeni 💬 28 🗓️ 2024-04-08
-- [Testing with Python (part 2): moving to pytest](https://www.bitecode.dev/p/testing-with-python-part-2-moving) 👤 Bite Code! 💬 1922 🔖 #pytest, #testing 🗓️ 2024-04-08
-- [Understanding the Python Mock Object Library – Real Python](https://realpython.com/python-mock-library/) 👤 Real Python 💬 5111 🗓️ 2024-04-08
-- [pgmock — pgmock 1.3.7 documentation](https://pgmock.readthedocs.io/en/latest/) 👤 pgmock.readthedocs.io 💬 920 🗓️ 2024-04-08
-- [Repository Pattern](https://www.cosmicpython.com/book/chapter_02_repository.html) 👤 cosmicpython.com 💬 238 🗓️ 2024-04-08
-- [The Ultimate FastAPI Tutorial Part 13 - Using Docker to Deploy Your App](https://christophergs.com/tutorials/ultimate-fastapi-tutorial-pt-13-docker-deploy/) 👤 ChristopherGS 💬 3531 🗓️ 2024-04-08
-- [Monitoring your FastAPI application with OpenTelemetry | SigNoz](https://signoz.io/blog/opentelemetry-fastapi/) 👤 Ankit Anand 💬 1375 🗓️ 2024-04-08
-- [mjhea0/awesome-fastapi: A curated list of awesome things related to FastAPI](https://github.com/mjhea0/awesome-fastapi) 👤 github.com 💬 2591 🗓️ 2024-04-09
-- [(1) Developing and Testing an Asynchronous API with FastAPI and Pytest | TestDriven.io](https://testdriven.io/blog/fastapi-crud/) 👤 Michael Herman 💬 4138 🔖 #pytest, #fastapi 🗓️ 2024-04-09
-- [Dockerizing FastAPI with Postgres, Uvicorn, and Traefik | TestDriven.io](https://testdriven.io/blog/fastapi-docker-traefik/) 👤 Amal Shaji 💬 2719 🗓️ 2024-04-09
-- [Introduction to ASGI: Emergence of an Async Python Web Ecosystem - Florimond Manca](https://florimond.dev/en/posts/2019/08/introduction-to-asgi-async-python-web) 👤 Florimond Manca 💬 1820 🗓️ 2024-04-09
-- [Securing FastAPI with JWT Token-based Authentication | TestDriven.io](https://testdriven.io/blog/fastapi-jwt-auth/) 👤 Abdulazeez Abdulazeez Adeshina 💬 2003 🗓️ 2024-04-09
-- [Handling Database Migrations with Alembic | TestDriven.io](https://testdriven.io/blog/alembic-database-migrations/) 👤 Paul Esch-Laurent 💬 1240 🗓️ 2024-04-09
-- [French competitiveness in IT - Bite code!](https://www.bitecode.dev/p/french-competitiveness-in-it) 👤 Bite Code! 💬 897 🗓️ 2024-04-10
-- [Code in Context: How AI Can Help Improve Our Documentation - The New Stack](https://thenewstack.io/code-in-context-how-ai-can-help-improve-our-documentation/) 👤 Jon Udell 💬 2074 🗓️ 2024-04-10
-- [Pydantic: Simplifying Data Validation in Python – Real Python](https://realpython.com/python-pydantic/) 👤 Real Python 💬 6014 🗓️ 2024-04-10
-- [FastAPI Project Setup: The Ultimate Guide with Async Postgres, SQLModel, Pytest, & Docker | by Lawson Taylor | Medium](https://medium.com/@lawsontaylor/the-ultimate-fastapi-project-setup-fastapi-async-postgres-sqlmodel-pytest-and-docker-ed0c6afea11b) 👤 Lawson Taylor 💬 4371 🔖 #fastapi 🗓️ 2024-04-11
-- [Top 8 PostgreSQL Extensions](https://www.timescale.com/blog/top-8-postgresql-extensions/) 👤 Avthar Sewrathan 💬 2716 🗓️ 2024-04-12
-- [Building an ultimate writing machine from Sublime Text @ tonsky.me](https://tonsky.me/blog/sublime-writer/) 👤 Nikita Prokopov 💬 1095 🗓️ 2024-04-15
-- [So your teacher wants you to do open source | David Lord](https://davidism.com/school-assignment-open-source/) 👤 davidism.com 💬 1175 🗓️ 2024-04-16
-- [How to optimize PostgreSQL queries from Django using pgMustard - Adam Johnson](https://adamj.eu/tech/2022/06/21/optimize-postgresql-queries-from-django-using-pgmustard/) 👤 adamj.eu 💬 2809 🗓️ 2024-04-16
-- [Handling Big Data with Django and AgGrid](https://circumeo.io/blog/entry/handling-big-data-with-django-and-aggrid/) 👤 circumeo.io 💬 1000 🗓️ 2024-04-16
-- [503 days working full-time on FOSS: lessons learned | mathspp](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) 👤 Rodrigo Girão Serrão 💬 3829 🗓️ 2024-04-16
-- [XSS prevention for Flask | Semgrep](https://semgrep.dev/docs/cheat-sheets/flask-xss/) 👤 semgrep.dev 💬 834 🗓️ 2024-04-16
-- [Про токены, JSON Web Tokens (JWT), аутентификацию и авторизацию. Token-Based Authentication](https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc) 👤 gist.github.com 💬 2024 🗓️ 2024-04-16
-- [Styling an Django RSS Feed](https://hyteck.de/post/django-rss/) 👤 Julian-Samuel Gebühr 💬 890 🗓️ 2024-04-18
-- [Hardest Problem in Computer Science: Centering Things @ tonsky.me](https://tonsky.me/blog/centering/) 👤 Nikita Prokopov 💬 1523 🗓️ 2024-04-18
-- [Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8) 👤 Cal Paterson 💬 1289 🗓️ 2024-04-18
-- [4 Proven Ways To Define Pytest PythonPath and Avoid Module Import Errors | Pytest With Eric](https://pytest-with-eric.com/introduction/pytest-pythonpath/) 👤 pytest-with-eric.com 💬 1219 🗓️ 2024-04-22
-- [Build a Blog Using Django, GraphQL, and Vue – Real Python](https://realpython.com/python-django-blog/) 👤 Real Python 💬 10869 🗓️ 2024-04-25
-- [Write Pythonic and Clean Code With namedtuple – Real Python](https://realpython.com/python-namedtuple/) 👤 Real Python 💬 7552 🗓️ 2024-04-25
-- [Рабочий процесс Gitflow Workflow | Atlassian Git Tutorial](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow) 👤 Atlassian 💬 1134 🗓️ 2024-04-25
-- [Магистральная разработка | Atlassian](https://www.atlassian.com/ru/continuous-delivery/continuous-integration/trunk-based-development) 👤 Atlassian 💬 1615 🗓️ 2024-04-25
-- [Testing with Python (part 3): pytest setup - Bite code!](https://www.bitecode.dev/p/testing-with-python-part-3-pytest) 👤 Bite Code! 💬 2538 🔖 #pytest, #python, #testing 🗓️ 2024-04-26
-- [Implementing FastAPI Services – Abstraction and Separation of Concerns | Camillo Visini](https://camillovisini.com/coding/abstracting-fastapi-services) 👤 camillovisini.com 💬 1475 🔖 #fastapi 🗓️ 2024-05-06
-- [Fast API — Repository Pattern and Service Layer](https://readmedium.com/fast-api-repository-pattern-and-service-layer-dad43354f07a) 👤 readmedium.com 🔖 #fastapi 🗓️ 2024-05-06
-- [UUIDs Are Bad for DB Index performance - Solved](https://www.toomanyafterthoughts.com/uuids-are-bad-for-database-index-performance-uuid7/) 👤 toomanyafterthoughts.com 💬 1310 🗓️ 2024-05-07
-- [Unexpected downsides of UUID keys in PostgreSQL | CYBERTEC PostgreSQL | Services & Support](https://www.cybertec-postgresql.com/en/unexpected-downsides-of-uuid-keys-in-postgresql/) 👤 Ants Aasma 💬 1300 🗓️ 2024-05-07
-- [Intro to PDB, the Python Debugger - Bite code!](https://www.bitecode.dev/p/intro-to-pdb-the-python-debugger) 👤 Bite Code! 💬 2587 🗓️ 2024-05-13
-- [Getting Started - structlog 24.1.0 documentation](https://www.structlog.org/en/stable/getting-started.html) 👤 structlog.org 💬 1245 🗓️ 2024-05-13
-- [A Comprehensive Guide to Python Logging with Structlog | Better Stack Community](https://betterstack.com/community/guides/logging/structlog/) 👤 Stanley Ulili 💬 4671 🗓️ 2024-05-13
-- [Testing with Python (part 4): why and what to test?](https://www.bitecode.dev/p/testing-with-python-part-4-why-and) 👤 Bite Code! 💬 3052 🔖 #testing 🗓️ 2024-05-13
-- [Logging Best Practices - structlog 24.1.0 documentation](https://www.structlog.org/en/stable/logging-best-practices.html) 👤 structlog.org 💬 626 🗓️ 2024-05-13
-- [TDD: For Those Who Don't Know How to Design Software - The Code Whisperer](https://blog.thecodewhisperer.com/permalink/tdd-for-those-who-dont-know-how-to-design-software) 👤 J. B. Rainsberger 💬 1206 🗓️ 2024-05-13
-- [Syntax Error](https://www.syntaxerror.tech) 👤 syntaxerror.tech 💬 1463 🗓️ 2024-05-13
-- [An Intro to Logging with Loguru - by Mike Driscoll](https://www.pythonpapers.com/p/an-intro-to-logging-with-loguru?isFreemail=true&post_id=144504313&publication_id=1267207&r=2bvz41&triedRedirect=true) 👤 Mike Driscoll 💬 71 🗓️ 2024-05-14
-- [Why your team might be holding you back - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/your-team-might-be-holding-you-back/) 👤 Dmitry Kudryavtsev 💬 1466 🗓️ 2024-05-14
-- [How LLMs Work, Explained Without Math - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math) 👤 Miguel Grinberg 💬 3826 🔖 #llm 🗓️ 2024-05-14
-- [Structured logging using structlog and FastAPI | Angelos Panagiotopoulos](https://www.angelospanag.me/blog/structured-logging-using-structlog-and-fastapi) 👤 Angelos Panagiotopoulos 💬 1651 🗓️ 2024-05-15
-- [Light speed with Python and JS - Bite code!](https://www.bitecode.dev/p/light-speed-with-python-and-js) 👤 Bite Code! 💬 2533 🗓️ 2024-05-15
-- [An Intro to Logging with Python and Loguru - Mouse Vs Python](https://www.blog.pythonlibrary.org/2024/05/15/an-intro-to-logging-with-python-and-loguru/) 👤 Mike 💬 1835 🗓️ 2024-05-16
-- [Thinking in Iterators | corrode Rust Consulting](https://corrode.dev/blog/iterators/) 👤 Corrode Rust Consulting 💬 1439 🗓️ 2024-05-16
-- [How To Manage Temporary Files with Pytest tmp_path | Pytest With Eric](https://pytest-with-eric.com/pytest-best-practices/pytest-tmp-path/) 👤 pytest-with-eric.com 💬 2428 🗓️ 2024-05-16
-- [Python: Mock an inner import - Adam Johnson](https://adamj.eu/tech/2024/05/17/python-mock-inner-import/) 👤 adamj.eu 💬 386 🗓️ 2024-05-17
-- [The Worst Website In The Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/) 👤 Mathew Duggan 💬 1663 🗓️ 2024-05-17
-- [Django from first principles, part 5](https://www.mostlypython.com/django-from-first-principles-part-5/) 👤 Eric Matthes 💬 2812 🗓️ 2024-05-20
-- [Python: Show all subclasses of a class - Adam Johnson](https://adamj.eu/tech/2024/05/10/python-all-subclasses/) 👤 adamj.eu 💬 188 🗓️ 2024-05-20
-- [How I organize `staticfiles` in my Django projects | joshthomas.dev](https://joshthomas.dev/blog/2024/how-i-organize-staticfiles-in-my-django-projects/) 👤 Josh Thomas 💬 1362 🗓️ 2024-05-20
-- [Jeff Triplett's Micro.blog - 🐳 GitHub Actions Cleaning up old Docker container images](https://micro.webology.dev/2024/04/23/github-actions-cleaning.html) 👤 Jeff Triplett 💬 356 🗓️ 2024-05-20
-- [Sending email in Django using GMail - Software Crafts](https://softwarecrafts.co.uk/100-words/day-76) 👤 softwarecrafts.co.uk 💬 264 🗓️ 2024-05-20
-- [Test-Driving HTML Templates](https://martinfowler.com/articles/tdd-html-templates.html) 👤 Matteo Vaccari 💬 1309 🗓️ 2024-05-22
-- [The right way to use a ManyToManyField in Django](https://www.sankalpjonna.com/learn-django/the-right-way-to-use-a-manytomanyfield-in-django) 👤 sankalpjonna.com 💬 1379 🗓️ 2024-05-22
-- [The Python calendar Module: Create Calendars With Python – Real Python](https://realpython.com/python-calendar-module/) 👤 Real Python 💬 3584 🗓️ 2024-05-23
-- [Testing with Python (part 5): the different types of tests](https://www.bitecode.dev/p/testing-with-python-part-5-the-different) 👤 Bite Code! 💬 4638 🗓️ 2024-05-23
-- [DjangoTricks: Generating Fake Django Model Instances with Factory Boy](https://djangotricks.blogspot.com/2024/05/generating-fake-django-model-instances-with-factory-boy.html) 👤 djangotricks.blogspot.com 💬 989 🗓️ 2024-05-23
-- [Integrate Telegram With Your Django Site Using django-allauth - Konsente Blog](https://blog.konsente.com/post/integrate-telegram-with-your-django-site-using-django-allauth/) 👤 Konsente LLC 💬 3105 🗓️ 2024-05-23
-- [Чему меня научил «Монти Пайтон»](https://disgustingmen.com/zhizn/monty-python-for-life/) 👤 Владимир Бровин 💬 874 🗓️ 2024-05-24
-- [Django Technical Interview Questions](https://learndjango.com/tutorials/django-technical-interview-questions) 👤 Learn Django 💬 2453 🔖 #django 🗓️ 2024-05-24
-- [Connection refused? Docker networking and how it impacts your image](https://pythonspeed.com/articles/docker-connection-refused/) 👤 Itamar Turner-Trauring 💬 1049 🗓️ 2024-05-24
-- [Rapidly creating smoke tests for Django views](https://daniel.feldroy.com/posts/2024-05-rapidly-creating-smoke-tests-for-django-views) 👤 daniel.feldroy.com 💬 352 🗓️ 2024-05-27
-- [The simplest way to add polling to Django with HTMX 🗳️](https://www.photondesigner.com/articles/polling-htmx?ref=yt) 👤 photondesigner.com 💬 658 🗓️ 2024-05-27
-- [Customizing the Django Admin | TestDriven.io](https://testdriven.io/blog/customize-django-admin/) 👤 Nik Tomazic 💬 2993 🗓️ 2024-05-28
-- [Build secrets in Docker and Compose v1, the secure way](https://pythonspeed.com/articles/build-secrets-docker-compose/) 👤 Itamar Turner-Trauring 💬 1134 🗓️ 2024-05-31
-- [One way to fix Python circular imports | Ned Batchelder](https://nedbatchelder.com/blog/202405/one_way_to_fix_python_circular_imports.html) 👤 nedbatchelder.com 💬 541 🗓️ 2024-05-31
-- [Django Async Task Queue with Postgres (no Kafka, Rabbit MQ, Celery, or Redis)](https://simplecto.com/djang-async-task-postgres-not-kafka-celery-redis/) 👤 Sam Texas 💬 705 🗓️ 2024-05-31
-- [Как создать волшебника в Django: многошаговые формы / Хабр](https://habr.com/ru/companies/otus/articles/818117/) 👤 artem 💬 1253 🗓️ 2024-05-31
-- [Python Friday #229: OAuth2 and JWT to Protect a FastAPI Application - Improve & Repeat](https://improveandrepeat.com/2024/05/python-friday-229-oauth2-and-jwt-to-protect-a-fastapi-application/) 👤 Johnny Graber 💬 1188 🗓️ 2024-06-03
-- [Путеводитель по базам данных](https://postgrespro.ru/education/books/dbguide) 👤 postgrespro.ru 💬 206 🗓️ 2024-06-03
-- [Микроразметка ​Open Graph: что это и как настроить – PR-CY Блог](https://pr-cy.ru/news/p/5407-open-graph-chto-eto-i-pochemu-kazhdyy-dolzhen-nastroit) 👤 Автор: Елена 💬 1265 🗓️ 2024-06-03
-- [Approximate Counting in Django and Postgres | TestDriven.io](https://testdriven.io/blog/django-approximate-counting/) 👤 Nik Tomazic 💬 1264 🗓️ 2024-06-04
-- [Микроразметка сайта, настройка, проверка, плагины и генераторы](https://www.uplab.ru/blog/the-data-markup-for-yandex-and-google-how-to-configure-and-test/) 👤 Алексей Семёнов редактор Авторы 💬 1272 🗓️ 2024-06-04
-- [Python's many command-line utilities - Python Morsels](https://www.pythonmorsels.com/cli-tools/) 👤 Trey Hunner 💬 3575 🗓️ 2024-06-04
-- [How to cut a person out of a picture using python | by Vitaliy Hramchenko | Medium](https://v-hramchenko.medium.com/how-to-cut-out-a-person-in-an-image-with-open-source-projects-e5e7f8798d5c) 👤 Vitaliy Hramchenko 💬 744 🗓️ 2024-06-10
-- [Telegram Mini Apps](https://core.telegram.org/bots/webapps) 👤 core.telegram.org 💬 4825 🔖 #miniapp 🗓️ 2025-06-02
-- [Level up your Tailwind game | oh-no.ooo](https://www.oh-no.ooo/articles/level-up-your-tailwind-game) 👤 Lucia Nazzaro 💬 3491 🗓️ 2024-06-11
-- [How do you program for 8h in a row? - Bite code!](https://www.bitecode.dev/p/how-do-you-program-for-8h-in-a-row) 👤 Bite Code! 💬 1757 🗓️ 2024-06-11
-- [The Documentation Tradeoff - by Kent Beck](https://tidyfirst.substack.com/p/the-documentation-tradeoff) 👤 Kent Beck 💬 872 🗓️ 2024-06-13
-- [How to Publish a Python Package to PyPI - by Mike Driscoll](https://www.pythonpapers.com/p/how-to-publish-a-python-package-to?isFreemail=true&post_id=145745203&publication_id=1267207&r=2bvz41&triedRedirect=true) 👤 Mike Driscoll 💬 75 🗓️ 2024-06-18
-- [Building on solid ground: reproducible Docker builds for Python](https://pythonspeed.com/articles/reproducible-docker-builds-python/) 👤 Itamar Turner-Trauring 💬 1019 🗓️ 2024-06-18
-- [DjangoBook.com](https://djangobook.com) 👤 djangobook.com 💬 72 🗓️ 2024-06-18
-- [File Uploads with Django & DRF](https://django.wtf/blog/file-uploads-with-django-drf/) 👤 Dani Hodovic 💬 2580 🗓️ 2024-06-18
-- [Optimizing Test Execution: Running live_server Tests Last with Pytest ⚡ | TimOnWeb](https://timonweb.com/django/optimizing-test-execution-running-live_server-tests-last-with-pytest/) 👤 Tim Kamanin 💬 413 🗓️ 2024-06-18
-- [Optimal SQLite settings for Django – Giovanni Collazo](https://gcollazo.com/optimal-sqlite-settings-for-django/) 👤 gcollazo.com 💬 935 🗓️ 2024-06-18
-- [12 Design Patterns in Vue | Michael Thiessen](https://michaelnthiessen.com/12-design-patterns-vue?campaign=150&source=weeklyVueNews) 👤 michaelnthiessen.com 💬 1681 🗓️ 2024-06-18
-- [Conquering Complexity: Building a Scalable Single File Component (SFC) Architecture in Vue.js](https://www.blogs.shitalmainali.com.np/conquering-complexity-building-a-scalable-single-file-component-sfc-architecture-in-vuejs?campaign=150&source=weeklyVueNews) 👤 Shital Mainali 💬 742 🗓️ 2024-06-18
-- [A virtual DOM in 200 lines of JavaScript – Marcelo Lazaroni – Developing for the Interwebs](https://lazamar.github.io/virtual-dom/?campaign=150&source=weeklyVueNews) 👤 Marcelo Lazaroni 💬 3511 🔖 #diy 🗓️ 2024-06-18
-- [Mary Rose Cook](https://maryrosecook.com) 👤 maryrosecook.com 💬 285 🗓️ 2024-06-18
-- [Gitlet](http://gitlet.maryrosecook.com) 👤 gitlet.maryrosecook.com 💬 462 🔖 #diy 🗓️ 2024-06-18
-- [The Third Bit · The Third Bit](https://third-bit.com) 👤 third-bit.com 💬 257 🗓️ 2024-06-18
-- [Software Design by Example](https://third-bit.com/sdxpy/) 👤 third-bit.com 💬 307 🗓️ 2024-06-18
-- [JavaScript Standard Style](https://standardjs.com) 👤 standardjs.com 💬 3001 🗓️ 2024-06-18
-- [JavaScript Promises - Understand JavaScript Promises by Building a Simple Promise Example | by Trey Huffine | Level Up Coding](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720?gi=0b9fa7ff57a8) 👤 Trey Huffine 💬 849 🗓️ 2024-06-19
-- [Home - Django API Domains](https://phalt.github.io/django-api-domains/) 👤 phalt.github.io 💬 208 🗓️ 2024-06-19
-- [Tips for improving your CV - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/tips-for-improving-your-cv/) 👤 Dmitry Kudryavtsev 💬 2339 🗓️ 2024-06-19
-- [Более 100 Вопросов с собеседований Python / Хабр](https://habr.com/ru/articles/823202/) 👤 Overtaken 💬 18472 🗓️ 2024-06-20
-- [The Fuzzing Book](https://www.fuzzingbook.org) 👤 About the Authors¶ 💬 971 🗓️ 2024-06-20
-- [Let's build a browser engine! Part 1: Getting started](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) 👤 Matt Brubeck 💬 1341 🔖 #diy 🗓️ 2024-06-21
-- [Web Browser Engineering](https://browser.engineering) 👤 Pavel Panchekha & Chris Harrelson 💬 172 🔖 #diy, #python 🗓️ 2024-11-29
-- [How Does a Database Work? | Let’s Build a Simple Database](https://cstack.github.io/db_tutorial/) 👤 cstack.github.io 🔖 #diy 🗓️ 2024-06-21
-- [Let's Dev: A Package Manager | Yarn Blog](https://classic.yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/) 👤 classic.yarnpkg.com 💬 4633 🔖 #diy 🗓️ 2024-06-21
-- [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html) 👤 viewsourcecode.org 💬 204 🔖 #diy 🗓️ 2024-06-21
-- [How to build a text editor with Python and curses](https://wasimlorgat.com/posts/editor) 👤 Wasim Lorgat 💬 3445 🔖 #diy 🗓️ 2024-06-21
-- [Crafting Interpreters](https://craftinginterpreters.com) 👤 craftinginterpreters.com 💬 327 🔖 #diy 🗓️ 2024-06-21
-- [Django: Test for pending migrations - Adam Johnson](https://adamj.eu/tech/2024/06/23/django-test-pending-migrations/) 👤 adamj.eu 💬 601 🔖 #try, #django, #testing 🗓️ 2024-06-23
-- [Unit Testing in Nuxt](https://masteringnuxt.com/blog/unit-testing-in-nuxt) 👤 masteringnuxt.com 💬 1148 🗓️ 2024-06-29
-- [Jeff Triplett's Micro.blog](https://micro.webology.dev/2024/06/28/a-just-recipe.html) 👤 micro.webology.dev 💬 201 🗓️ 2024-06-29
-- [Jeff Triplett's Micro.blog](https://micro.webology.dev/2024/06/29/using-just-and.html) 👤 micro.webology.dev 💬 399 🗓️ 2024-06-30
-- [How Postgres is Misused and Abused in the Wild](https://karenjex.blogspot.com/2024/07/how-postgres-is-misused-and-abused.html?m=1) 👤 Karen Jex 💬 5931 🗓️ 2024-07-01
-- [Безопасность в Django: защита от распространенных угроз веб-приложений / Хабр](https://habr.com/ru/companies/vk/articles/823740/) 👤 Петров Алексей 💬 5952 🗓️ 2024-07-02
-- [Data Fetching Patterns in Single-Page Applications](https://martinfowler.com/articles/data-fetch-spa.html?campaign=152&source=weeklyVueNews) 👤 Juntao QIU | 邱俊涛 💬 10292 🗓️ 2024-07-05
-- [Nested Subquerys in Django - Software Crafts](https://softwarecrafts.co.uk/100-words/day-119) 👤 softwarecrafts.co.uk 💬 468 🗓️ 2024-07-05
-- [Django Testing Toolbox · Matt Layman](https://www.mattlayman.com/blog/2020/django-testing-toolbox/) 👤 mattlayman.com 💬 1693 🗓️ 2024-07-05
-- [Django Testing Toolbox · Matt Layman](https://www.mattlayman.com/blog/2020/django-testing-toolbox) 👤 mattlayman.com 💬 1693 🗓️ 2024-07-05
-- [Jeff Triplett's Micro.blog](https://micro.webology.dev/2024/07/06/django-extensions-is.html) 👤 micro.webology.dev 💬 229 🗓️ 2024-07-06
-- [Programming WebRTC: Build Real-Time Streaming Applications for the Web by Karl Stolley](https://pragprog.com/titles/ksrtc/programming-webrtc/) 👤 Karl Stolley 💬 734 🗓️ 2024-07-08
-- [</> htmx ~ Locality of Behaviour (LoB)](https://htmx.org/essays/locality-of-behaviour/) 👤 htmx.org 💬 772 🗓️ 2024-07-08
-- [Unit of Work Pattern](https://www.cosmicpython.com/book/chapter_06_uow.html) 👤 cosmicpython.com 💬 3047 🗓️ 2024-07-08
-- [Where to Put Business Logic Django? | Sunscrapers](https://sunscrapers.com/blog/where-to-put-business-logic-django/) 👤 Michał Nakoneczny 💬 2250 🗓️ 2024-07-09
-- [Using HTMX with FastAPI | TestDriven.io](https://testdriven.io/blog/fastapi-htmx/) 👤 Paul Esch-Laurent 💬 1687 🗓️ 2024-07-10
-- [Dockerizing a Nuxt App: A Comprehensive Guide | Michael Hoffmann](https://mokkapps.de/blog/dockerizing-a-nuxt-app) 👤 mokkapps.de 💬 703 🗓️ 2024-07-10
-- [Sensible defaults | Thoughtworks](https://www.thoughtworks.com/insights/topic/sensible-defaults) 👤 thoughtworks.com 💬 575 🗓️ 2024-07-12
-- [Surprises with Rust's `as` (and Python division) | Anna Hope](https://annahope.me/blog/rust-as/) 👤 Anna Hope 💬 2399 🗓️ 2024-07-12
-- [Software Testing Anti-patterns · Codepipes Blog](https://blog.codepipes.com/testing/software-testing-antipatterns.html) 👤 blog.codepipes.com 💬 9220 🗓️ 2024-07-12
-- [What is React? | Epic React by Kent C. Dodds](https://www.epicreact.dev/what-is-react?ck_subscriber_id=2517260312) 👤 Kent C. Dodds 💬 1117 🗓️ 2024-07-16
-- [The best Docker base image for your Python application (May 2024)](https://pythonspeed.com/articles/base-image-python-docker-images/) 👤 Itamar Turner-Trauring 💬 1249 🗓️ 2024-07-16
-- [ArjanCodes | Python Doc Generation Made Easy With PDoc](https://arjancodes.com/blog/generate-python-docs-instantly-with-pdoc/) 👤 ArjanCodes 💬 636 🗓️ 2024-07-16
-- [Getting 100% code coverage doesn't eliminate bugs · Codepipes Blog](https://blog.codepipes.com/testing/code-coverage.html) 👤 blog.codepipes.com 💬 834 🗓️ 2024-07-16
-- [Keeping things in sync: derive vs test - lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/keeping-things-in-sync-derive-vs-test/) 👤 Luke Plant 💬 3618 🗓️ 2024-07-16
-- [Use Vue with Django (including Auth) in 15 mins 🍒](https://www.photondesigner.com/articles/vue-auth) 👤 photondesigner.com 💬 1824 🗓️ 2024-07-16
-- [django-slick-reporting.com](https://django-slick-reporting.com) 👤 django-slick-reporting.com 💬 99 🗓️ 2024-07-16
-- [Integrating HeadlessUI and TailwindCSS with Nuxt.js: A Comprehensive Guide](https://masteringnuxt.com/blog/integrating-headlessui-and-tailwindcss-with-nuxtjs-a-comprehensive-guide?campaign=154&friend=MOKKAPPS&source=weeklyVueNews) 👤 masteringnuxt.com 💬 2401 🗓️ 2024-07-16
-- [How to Integrate Shadcn with Nuxt.js](https://masteringnuxt.com/blog/how-to-integrate-shadcn-with-nuxtjs?campaign=154&friend=MOKKAPPs&source=weeklyVueNews) 👤 masteringnuxt.com 💬 1143 🗓️ 2024-07-16
-- [Upgrading to Nuxt 4 | Vue Mastery](https://www.vuemastery.com/blog/upgrading-to-nuxt-4/) 👤 Andy Li 💬 768 🗓️ 2024-07-18
-- [Minimalist Nuxt Authentication | Vue Mastery](https://www.vuemastery.com/blog/minimalist-nuxt-authentication/) 👤 Timi Omoyeni 💬 3244 🗓️ 2024-07-18
-- [Start with the Interface (and don't gold plate!) | Michael Thiessen](https://michaelnthiessen.com/start-with-the-interface?ck_subscriber_id=2108193410) 👤 michaelnthiessen.com 💬 885 🗓️ 2024-07-18
-- [I messed up my codebase (and the lessons I learned) | Michael Thiessen](https://michaelnthiessen.com/messed-up-my-codebase?ck_subscriber_id=2108193410) 👤 michaelnthiessen.com 💬 1191 🗓️ 2024-07-18
-- [Дёшево, сердито и не жмёт: как работает запуск контейнеров в Yandex Serverless Containers / Хабр](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/759524/) 👤 Daniil Pivovarov 💬 1628 🗓️ 2024-07-21
-- [Let's blame the dev who pressed "Deploy" - Dmitry Kudryavtsev](https://yieldcode.blog/post/lets-blame-the-dev-who-pressed-deploy/) 👤 Dmitry Kudryavtsev 💬 1083 🗓️ 2024-07-22
-- [Getting features into Django - Jacob Kaplan-Moss](https://jacobian.org/2013/may/23/getting-features-into-django/) 👤 jacobian.org 💬 655 🗓️ 2024-07-22
-- [Как задеплоить своего телеграм-бота (почти) бесплатно — Quickguide в облачный Serverless / Хабр](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/735988/) 👤 abrekhov 💬 912 🗓️ 2024-07-22
-- [Buying products for your job: estimating value, convincing your boss](https://pythonspeed.com/articles/programmers-buying-guide/) 👤 Itamar Turner-Trauring 💬 2364 🗓️ 2024-07-25
-- [Build your own SQLite, Part 1: Listing tables](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables) 👤 Geoffrey Copin 💬 2701 🔖 #diy 🗓️ 2024-07-26
-- [Testing with Python (part 8): purity test - Bite code!](https://www.bitecode.dev/p/testing-with-python-part-8-purity) 👤 Bite Code! 💬 3362 🗓️ 2024-07-26
-- [Контейнеры, контейнеры, контейнеры!](https://iximiuz.com/ru/posts/containers-everywhere/) 👤 Ivan Velichko 💬 744 🗓️ 2024-07-30
-- [Monolith -> Services: Theory & Practice | by Kent Beck | Medium](https://medium.com/@kentbeck_7670/monolith-services-theory-practice-617e4546a879) 👤 Kent Beck 💬 684 🗓️ 2024-07-30
-- [Reducing downtime in Django with django-safemigrate · Better Simple](https://www.better-simple.com/django/2024/07/22/django-safemigrate/) 👤 better-simple.com 💬 1339 🗓️ 2024-07-31
-- [Create Beautiful PDFs with HTML, CSS, and Markdown | Michael Thiessen](https://michaelnthiessen.com/create-beautiful-pdfs-with-html-css-and-markdown?ck_subscriber_id=2108193410) 👤 michaelnthiessen.com 💬 2592 🔖 #nuxt 🗓️ 2024-08-01
-- [Prisma with Nuxt 3](https://masteringnuxt.com/blog/getting-data-with-prisma?ck_subscriber_id=2108193410) 👤 masteringnuxt.com 💬 1381 🔖 #db, #nuxt 🗓️ 2024-08-01
-- [How to Write an Installable Django App – Real Python](https://realpython.com/installable-django-app/) 👤 Real Python 💬 4164 🔖 #django 🗓️ 2024-08-01
-- [How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/) 👤 Bhupesh Varshney 💬 2368 🗓️ 2024-08-05
-- [Slim(toolkit) playground | iximiuz Labs](https://labs.iximiuz.com/playgrounds/slimtoolkit) 👤 labs.iximiuz.com 💬 22 🔖 #docker 🗓️ 2024-08-05
-- [TIL: 8 versions of UUID and when to use them | nicole@web](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/) 👤 ntietz.com 💬 597 🗓️ 2024-08-05
-- [Testing with Python (part 9): the extra mile](https://www.bitecode.dev/p/testing-with-python-part-9-the-extra) 👤 Bite Code! 💬 2004 🔖 #pytest 🗓️ 2024-08-07
-- [How To Mock In Pytest? (A Comprehensive Guide) | Pytest with Eric](https://pytest-with-eric.com/mocking/pytest-mocking/) 👤 pytest-with-eric.com 💬 2392 🔖 #pytest 🗓️ 2024-08-07
-- [Алгоритмы — самый провальный этап собеседований / Хабр](https://habr.com/ru/articles/833908/) 👤 Задорожный Семён 💬 1886 🗓️ 2024-08-08
-- [Networked Thought](https://jzhao.xyz/posts/networked-thought) 👤 jzhao.xyz 💬 1636 🗓️ 2024-08-10
-- [How Postgres stores data on disk – this one's a page turner | drew's dev blog](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/) 👤 drew.silcock.dev 💬 5918 🗓️ 2024-08-11
-- [Bookshelf](https://grishaev.me/bookshelf/) 👤 grishaev.me 💬 4339 🗓️ 2024-08-12
-- [Почему в переписке нельзя использовать «Доброго времени суток»?](https://bureau.ru/soviet/20180923/) 👤 Людмила Сарычева 💬 220 🗓️ 2024-08-12
-- [The Third Bit · Tutorials I Would Like to Attend](https://third-bit.com/2024/08/12/tutorials-i-would-like-to-attend/) 👤 third-bit.com 💬 376 🗓️ 2024-08-13
-- [restic · Backups done right!](https://restic.net) 👤 restic.net 💬 560 🗓️ 2024-08-13
-- [Python Friday #239: Asynchronous Tests With Pytest - Improve & Repeat](https://improveandrepeat.com/2024/08/python-friday-239-asynchronous-tests-with-pytest/) 👤 Johnny Graber 💬 443 🔖 #pytest 🗓️ 2024-08-13
-- [Rust vs C++: A Real-World Perspective | corrode Rust Consulting](https://corrode.dev/blog/cpp-rust-interop/) 👤 Corrode Rust Consulting 💬 1415 🔖 #rust 🗓️ 2024-08-14
-- [Django: create sub-commands within a management command - Adam Johnson](https://adamj.eu/tech/2024/08/14/django-management-command-sub-commands/) 👤 adamj.eu 💬 689 🔖 #django 🗓️ 2024-08-14
-- [How to level up your Git game with GitHub CLI - The GitHub Blog](https://github.blog/developer-skills/github/how-to-level-up-your-git-game-with-github-cli/) 👤 Michelle Duke 💬 2053 🗓️ 2024-08-16
-- [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) 👤 Mike Caulfield 💬 4647 🗓️ 2024-08-16
-- [Combine iterables with zip : Juha-Matti Santala](https://hamatti.org/posts/combine-iterables-with-zip/) 👤 Juha-Matti Santala 💬 326 🔖 #python 🗓️ 2024-08-17
-- [Python Friday #240: Asynchronous SQLAlchemy With FastAPI - Improve & Repeat](https://improveandrepeat.com/2024/08/python-friday-240-asynchronous-sqlalchemy-with-fastapi/) 👤 Johnny Graber 💬 1550 🔖 #pytest, #fastapi, #sqlalchemy 🗓️ 2024-08-17
-- [Creating rows for django-tables2 with HTMX · Better Simple](https://www.better-simple.com/django/2024/08/17/django-tables-htmx-create-table-view/) 👤 better-simple.com 💬 1537 🗓️ 2024-08-17
-- [Finite State Machine Meaning, Working, and Examples | Spiceworks - Spiceworks](https://www.spiceworks.com/tech/tech-general/articles/what-is-fsm/) 👤 Vijay Kanade 💬 2657 🗓️ 2024-08-17
-- [Okay, I really like WezTerm | Alex Plescan](https://alexplescan.com/posts/2024/08/10/wezterm/) 👤 Alex Plescan 💬 5503 🗓️ 2024-08-18
-- [The Zettelkasten Method — LessWrong](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1) 👤 abramdemski 💬 12588 🗓️ 2024-08-18
-- [GitHub - MaggieAppleton/digital-gardeners: Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs](https://github.com/MaggieAppleton/digital-gardeners) 👤 MaggieAppleton 💬 1469 🗓️ 2024-08-18
-- [Analyze Memory Leaks in Your Nuxt App | Michael Hoffmann](https://mokkapps.de/blog/analyze-memory-leaks-in-your-nuxt-app) 👤 mokkapps.de 💬 842 🔖 #nuxt 🗓️ 2024-08-19
-- [Рассказ о Емаксе](https://grishaev.me/emacs-story/) 👤 grishaev.me 💬 3648 🗓️ 2024-08-19
-- [Limiting Content Types in a Django Model | TestDriven.io](https://testdriven.io/blog/django-limiting-content-types/) 👤 Nik Tomazic 💬 528 🔖 #django 🗓️ 2024-08-20
-- [Exploring JS: JavaScript books for programmers](https://exploringjs.com) 👤 exploringjs.com 💬 273 🔖 #javascript, #typescript 🗓️ 2024-08-20
-- [What's the deal with setuptools, setup.py, pyproject.toml and wheels?](https://www.bitecode.dev/p/whats-the-deal-with-setuptools-setuppy) 👤 Bite Code! 💬 3749 🔖 #python 🗓️ 2024-08-20
-- [Vector embeddings made simple with the Elasticsearch-DSL client for Python — Search Labs](https://www.elastic.co/search-labs/blog/elasticsearch-dsl-python-vectors) 👤 Miguel Grinberg 💬 3927 🔖 #python, #fastapi 🗓️ 2024-08-20
-- [Patterns for Memory Efficient DOM Manipulation with Modern Vanilla JavaScript – Frontend Masters Boost](https://frontendmasters.com/blog/patterns-for-memory-efficient-dom-manipulation/) 👤 Marc Grabanski Frontend Masters 💬 2224 🔖 #javascript 🗓️ 2024-08-20
-- [Combining Rails Hotwire with Django to Ship your SaaS Faster](https://saashammer.com/hotwire-django/) 👤 Michael Yin 💬 4411 🔖 #django 🗓️ 2024-08-21
-- [uv](https://docs.astral.sh/uv/) 👤 charliermarsh 💬 715 🔖 #python, #devtools 🗓️ 2024-08-21
-- [Deep dive in CORS: History, how it works, and best practices · Ilija Eftimov 👨‍🚀](https://ieftimov.com/posts/deep-dive-cors-history-how-it-works-best-practices/) 👤 Ilija Eftimov 💬 4053 🗓️ 2024-08-21
-- [Asynchronous Tasks with FastAPI and Celery | TestDriven.io](https://testdriven.io/blog/fastapi-and-celery/) 👤 Michael Herman 💬 2052 🔖 #try, #celery, #fastapi 🗓️ 2024-08-22
-- [Style guideline for Go packages · rakyll.org](https://rakyll.org/style-packages/) 👤 rakyll.org 💬 1415 🗓️ 2024-08-22
-- [Exploring the fmt Package in Go: Formatting and Printing Made Easy - Golangly](https://golangly.com/index.php/2023/09/16/exploring-the-fmt-package-in-go/) 👤 Ashish Singh 💬 1 🗓️ 2024-08-25
-- [Cryptography in Go today - LogRocket Blog](https://blog.logrocket.com/cryptography-in-go-today/) 👤 Yusuff Faruq 💬 1821 🗓️ 2024-08-25
-- [Learn Golang encryption and decryption - LogRocket Blog](https://blog.logrocket.com/learn-golang-encryption-decryption/) 👤 Precious Luke 💬 1952 🗓️ 2024-08-25
-- [Charlie Marsh on Astral, UV and the Python packaging ecosystem](https://www.bitecode.dev/p/charlie-marsh-on-astral-uv-and-the) 👤 Bite Code! 💬 373 🗓️ 2024-08-26
-- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html) 👤 Dave Cheney 💬 13375 🔖 #go 🗓️ 2024-08-26
-- [Introducing Nuxt Scripts · Nuxt Blog](https://nuxt.com/blog/nuxt-scripts) 👤 nuxt.com 💬 1334 🔖 #nuxt 🗓️ 2024-08-27
-- [Django UserProfile Model | LearnDjango.com](https://learndjango.com/tutorials/django-userprofile-model) 👤 Learn Django 💬 1650 🔖 #django 🗓️ 2024-08-27
-- [uv: Unified Python packaging](https://simonwillison.net/2024/Aug/20/uv-unified-python-packaging/) 👤 Simon Willison 💬 376 🔖 #python 🗓️ 2024-08-27
-- [How to Conditionally Run Code Only on the Server or Only on the Client in a Nuxt App](https://masteringnuxt.com/blog/how-to-conditionally-run-code-only-on-the-server-or-only-on-the-client-in-a-nuxt-app?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 367 🔖 #nuxt 🗓️ 2024-08-27
-- [Django Best Practices: Models | LearnDjango.com](https://learndjango.com/tutorials/django-best-practices-models) 👤 Learn Django 💬 1368 🔖 #django 🗓️ 2024-08-27
-- [Web Scraping With Scrapy and MongoDB – Real Python](https://realpython.com/web-scraping-with-scrapy-and-mongodb/) 👤 Real Python 💬 1537 🔖 #python, #mongodb 🗓️ 2024-08-29
-- [Cryptography in Go: AES explained — Bitfield Consulting](https://bitfieldconsulting.com/posts/cryptography-aes-internals) 👤 John Arundel 💬 1963 🗓️ 2024-08-29
-- [uv, Docker, and the Return to Normalcy • Buttondown](https://buttondown.com/hynek/archive/uv-docker-and-the-return-to-normalcy/) 👤 buttondown.com 💬 1014 🗓️ 2024-08-29
-- [В поиске оптимального подхода к миграциям в Go / Хабр](https://habr.com/ru/articles/780280/) 👤 Nina Pakshina 💬 2018 🔖 #db, #go 🗓️ 2024-08-29
-- [Implementing JWT Authentication in Golang REST API - Detailed Guide - codewithmukesh](https://codewithmukesh.com/blog/jwt-authentication-in-golang/) 👤 Mukesh Murugan 💬 3461 🔖 #db, #go, #rest, #tutorial 🗓️ 2024-08-29
-- [How to Terminate Go Programs Elegantly – A Guide to Graceful Shutdowns](https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/) 👤 Alex Pliutau 💬 1377 🗓️ 2024-08-29
-- [How to Create Database Migrations in Go Using Docker and Postgres](https://www.freecodecamp.org/news/how-to-create-database-migrations-in-go/) 👤 Okure U. Edet 💬 1451 🔖 #db, #go 🗓️ 2024-08-29
-- [How to Build a Real-Time Chat App With Go, Fiber and HTMX](https://www.freecodecamp.org/news/real-time-chat-with-go-fiber-htmx/) 👤 Akinwumi Iyanuoluwa Ayomiposi 💬 1543 🔖 #go, #try, #htmx, #tutorial 🗓️ 2024-08-29
-- [X-Forwarded-For :: TheOrangeOne](https://theorangeone.net/posts/x-forwarded-for/) 👤 TheOrangeOne 💬 1532 🗓️ 2024-08-30
-- [UV with Django](https://blog.pecar.me/uv-with-django) 👤 Anže 💬 1043 🔖 #uv, #django 🗓️ 2024-08-30
-- [How To Run A Single Test In Pytest (Using CLI And Markers) | Pytest with Eric](https://pytest-with-eric.com/introduction/pytest-run-single-test/) 👤 pytest-with-eric.com 💬 1333 🔖 #pytest 🗓️ 2024-08-31
-- [GoMock vs. Testify: Mocking frameworks for Go](https://www.codecentric.de/wissens-hub/blog/gomock-vs-testify) 👤 Sergey Grebenshchikov 💬 2867 🔖 #go, #testing 🗓️ 2024-09-01
-- [Evolving Django’s auth.User • Buttondown](https://buttondown.com/carlton/archive/evolving-djangos-authuser/) 👤 The Stack Report 💬 4502 🔖 #django 🗓️ 2024-09-03
-- [Why I Still Use Python Virtual Environments in Docker](https://hynek.me/articles/docker-virtualenv/) 👤 Hynek Schlawack 💬 1286 🔖 #docker, #python 🗓️ 2024-09-03
-- [Git: avoid reset --hard, use reset --keep instead - Adam Johnson](https://adamj.eu/tech/2024/09/02/git-avoid-reset-hard-use-keep/) 👤 adamj.eu 💬 543 🗓️ 2024-09-03
-- [Django Redirects App Tutorial | LearnDjango.com](https://learndjango.com/tutorials/django-redirects-app-tutorial) 👤 Learn Django 💬 668 🔖 #django 🗓️ 2024-09-04
-- [Git: generate statistics with shortlog - Adam Johnson](https://adamj.eu/tech/2024/09/03/git-quick-stats-shortlog/) 👤 adamj.eu 💬 650 🔖 #git 🗓️ 2024-09-04
-- [Don't Unwrap Options: There Are Better Ways | corrode Rust Consulting](https://corrode.dev/blog/rust-option-handling-best-practices/) 👤 Corrode Rust Consulting 💬 1639 🔖 #rust 🗓️ 2024-09-04
-- [Connecting to a PostgreSQL database with Go's database/sql package - Calhoun.io](https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/) 👤 Jon Calhoun 💬 1976 🔖 #postgresql 🗓️ 2024-09-04
-- [Inserting records into a PostgreSQL database with Go's database/sql package - Calhoun.io](https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/) 👤 Jon Calhoun 💬 1545 🔖 #go, #postgresql 🗓️ 2024-09-04
-- [Updating and deleting PostgreSQL records using Go's sql package - Calhoun.io](https://www.calhoun.io/updating-and-deleting-postgresql-records-using-gos-sql-package/) 👤 Jon Calhoun 💬 747 🔖 #go, #postgresql 🗓️ 2024-09-04
-- [Querying for a single record using Go's database/sql package - Calhoun.io](https://www.calhoun.io/querying-for-a-single-record-using-gos-database-sql-package/) 👤 Jon Calhoun 💬 1577 🔖 #go, #postgresql 🗓️ 2024-09-04
-- [Querying for multiple records with Go's sql package - Calhoun.io](https://www.calhoun.io/querying-for-multiple-records-with-gos-sql-package/) 👤 Jon Calhoun 💬 1328 🔖 #go, #postgresql 🗓️ 2024-09-04
-- [Subtle issues with ORMs and how to avoid them - Calhoun.io](https://www.calhoun.io/subtle-issues-with-orms-and-how-to-avoid-them/) 👤 Jon Calhoun 💬 1995 🔖 #db, #go 🗓️ 2024-09-04
-- [Structuring Web Applications in Go - Calhoun.io](https://www.calhoun.io/structuring-web-applications-in-go/) 👤 Jon Calhoun 💬 1002 🔖 #go 🗓️ 2024-09-04
-- [Django: build a Microsoft Teams bot - Adam Johnson](https://adamj.eu/tech/2024/09/04/django-microsoft-teams-bot/) 👤 adamj.eu 💬 1468 🗓️ 2024-09-05
-- [Cycle Time](https://martinfowler.com/bliki/CycleTime.html) 👤 Martin Fowler 💬 810 🗓️ 2024-09-05
-- [Собеседование по System Design: как запроектировать и не потеряться / Хабр](https://habr.com/ru/companies/yandex_praktikum/articles/834230/) 👤 Дмитрий 💬 1939 🗓️ 2024-09-05
-- [Собеседование Python-разработчика: чего ждать и как подготовиться / Хабр](https://habr.com/ru/companies/yandex_praktikum/articles/828928/) 👤 Антон 💬 1791 🔖 #career, #interview 🗓️ 2024-09-05
-- [Why Cant We Settle on a Single Application Structure in Go - Calhoun.io](https://www.calhoun.io/why-cant-we-settle-on-a-single-application-structure-in-go/) 👤 Jon Calhoun 💬 2155 🔖 #go 🗓️ 2024-09-05
-- [Flat Application Structure in Go - Calhoun.io](https://www.calhoun.io/flat-application-structure/) 👤 Jon Calhoun 💬 1943 🗓️ 2024-09-05
-- [The Third Bit · How I Explain Code](https://third-bit.com/2024/09/06/how-i-explain-code/) 👤 third-bit.com 💬 779 🗓️ 2024-09-06
-- [Python Friday #243: Rate Limit in FastAPI - Improve & Repeat](https://improveandrepeat.com/2024/09/python-friday-243-rate-limit-in-fastapi/) 👤 Johnny Graber 💬 657 🔖 #fastapi 🗓️ 2024-09-07
-- [User Authentication in Go APIs: JWT, Password Hashing, and MySQL](https://dev.to/the-arcade-01/user-authentication-in-go-jwt-password-hashing-and-mysql-2n8o) 👤 DEV Community 💬 1555 🔖 #go, #chi, #tutorial 🗓️ 2024-09-07
-- [Python Testing Part 1: isolating external calls and minimising mocks](https://simoncrowe.hashnode.dev/python-testing-part-1-isolating-external-calls-and-minimising-mocks) 👤 Simon Crowe 💬 1323 🔖 #python, #testing 🗓️ 2024-09-08
-- [Django: hoist repeated decorator definitions - Adam Johnson](https://adamj.eu/tech/2024/09/08/django-repeated-decorators/) 👤 adamj.eu 💬 414 🔖 #django 🗓️ 2024-09-08
-- [The ‘fat service’ pattern for Go web applications – Alex Edwards](https://www.alexedwards.net/blog/the-fat-service-pattern) 👤 Alex Edwards 💬 1515 🔖 #go 🗓️ 2024-09-10
-- [Layered architecture implementation in Golang | by Sergey Shershnev | Medium](https://medium.com/@shershnev/layered-architecture-implementation-in-golang-6318a72c1e10) 👤 Sergey Shershnev 🔖 #go 🗓️ 2024-09-10
-- [Quick tip: A time-saving Makefile for your Go projects – Alex Edwards](https://www.alexedwards.net/blog/a-time-saving-makefile-for-your-go-projects) 👤 Alex Edwards 💬 1040 🔖 #go 🗓️ 2024-09-10
-- [Что такое Mini App: архитектура, возможности и примеры](https://timeweb.cloud/blog/chto-takoe-mini-app?m-message-click-id=02ca6ead-146b-45bf-b6cf-1c5e069c0ab5&m-message-key-id=-6592143948200804352) 👤 Вадим Андоськин Технический писатель 💬 1147 🔖 #telegram 🗓️ 2024-09-10
-- [The Undeniable Utility Of CSS <code>:has</code> • Josh W. Comeau](https://www.joshwcomeau.com/css/has/?from=newsletter) 👤 Josh W. Comeau 💬 3992 🔖 #css 🗓️ 2024-09-10
-- [Build 3D Scenes Declaratively with TresJS using Vue - AlvaroSabu](https://alvarosaburido.dev/blog/build-3d-scenes-declaratively-with-tresjs-using-vue?ck_subscriber_id=2108193410) 👤 alvarosaburido.dev 💬 1119 🔖 #vue 🗓️ 2025-08-02
-- [How to use go run to manage tool dependencies – Alex Edwards](https://www.alexedwards.net/blog/using-go-run-to-manage-tool-dependencies) 👤 Alex Edwards 💬 1132 🔖 #go 🗓️ 2024-09-11
-- [How to tune PostgreSQL for memory | EDB](https://www.enterprisedb.com/postgres-tutorials/how-tune-postgresql-memory) 👤 Tushar Ahuja 💬 434 🔖 #postgresql 🗓️ 2024-09-11
-- [Building a VS Code Extension Using Vue.js](https://www.codemag.com/article/2107071?ck_subscriber_id=2108193410) 👤 CODE Magazine, EPS Software Corp., <a href="/People/Bio/Bilal.Haidar">Bilal Haidar</a> 💬 6594 🔖 #vue 🗓️ 2024-09-11
-- [How Statically and Dynamically Linked Go Binaries Work](https://www.freecodecamp.org/news/golang-statically-and-dynamically-linked-go-binaries/) 👤 Alex Pliutau 💬 1466 🔖 #go 🗓️ 2024-09-12
-- [Timing Details With cURL – Joseph Scott](https://blog.josephscott.org/2011/10/14/timing-details-with-curl/) 👤 blog.josephscott.org 💬 240 🗓️ 2024-09-13
-- [Go Validator v10. Validation? Easy Peasy! | by Renaldi | Tunaiku Tech | Medium](https://medium.com/tunaiku-tech/go-validator-v10-c7a4f1be37df) 👤 Renaldi 💬 919 🗓️ 2024-09-15
-- [Putting Text on an Image with Golang](https://josemyduarte.github.io/2021-02-28-quotes-on-images-with-go/) 👤 Josemy Duarte 💬 508 🔖 #go 🗓️ 2024-09-16
-- [Programatically generate gorgeous social media images in Go by Mat Ryer - PACE.](https://pace.dev/blog/2020/03/02/dynamically-generate-social-images-in-golang-by-mat-ryer.html) 👤 Mat Ryer 💬 2455 🔖 #go 🗓️ 2024-09-16
-- [6 Tips for Using Strings in Go - Calhoun.io](https://www.calhoun.io/6-tips-for-using-strings-in-go/) 👤 Jon Calhoun 💬 1845 🔖 #go 🗓️ 2024-09-17
-- [Подготовка к интервью](https://grishaev.me/no-faang-2/) 👤 grishaev.me 💬 414 🔖 #career, #interview, #inspiration 🗓️ 2024-09-18
-- [FAANG не предлагать](https://grishaev.me/no-faang/) 👤 grishaev.me 💬 527 🔖 #career, #interview, #inspiration 🗓️ 2024-09-18
-- [Let’s build and optimize a Rust extension for Python](https://pythonspeed.com/articles/intro-rust-python-extensions/) 👤 Itamar Turner-Trauring 💬 2192 🗓️ 2024-09-18
-- [What's in an (Alias) Name? - The Go Programming Language](https://go.dev/blog/alias-names) 👤 Robert Griesemer 17 September 2024 💬 2308 🔖 #go 🗓️ 2024-09-18
-- [Legacy Modernization meets GenAI](https://martinfowler.com/articles/legacy-modernization-gen-ai.html) 👤 Alessio Ferri 💬 2100 🗓️ 2024-09-18
-- [Towncrier 24.8.0 documentation](https://towncrier.readthedocs.io/en/stable/) 👤 towncrier.readthedocs.io 💬 267 🗓️ 2024-09-18
-- [Подготовка Django приложения для локальной разработки и деплоя / Хабр](https://habr.com/ru/articles/844280/) 👤 famer 💬 602 🔖 #django 🗓️ 2024-09-18
-- [Perfect Project Management with Linear | xavd.id](https://xavd.id/blog/post/perfect-project-management-with-linear/) 👤 xavd.id 💬 1831 🗓️ 2024-09-18
-- [RESTful API Documentation with Go and chi docgen Package | newline](https://www.newline.co/@kchan/restful-api-documentation-with-go-and-chi-docgen-package--ac031097) 👤 Stefan Wüthrich2 years ago 💬 36 🔖 #go 🗓️ 2024-09-20
-- [Custom command-line flags with flag.Func – Alex Edwards](https://www.alexedwards.net/blog/custom-command-line-flags) 👤 Alex Edwards 💬 1117 🔖 #go 🗓️ 2024-09-22
-- [Python Testing Part 2: Dependency Inversion with Service Functions](https://simoncrowe.hashnode.dev/python-testing-part-2-dependency-inversion-with-service-functions) 👤 Simon Crowe 💬 907 🔖 #python, #testing 🗓️ 2024-09-23
-- [How I Built My Blog • Josh W. Comeau](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/) 👤 Josh W. Comeau 💬 3909 🗓️ 2024-09-26
-- [How to Parse JSON That Varies Between an Array or a Single Item With Go - Calhoun.io](https://www.calhoun.io/how-to-parse-json-that-varies-between-an-array-or-a-single-item-with-go/) 👤 Jon Calhoun 💬 1106 🔖 #go 🗓️ 2024-09-26
-- [What is Entity Relationship Diagram (ERD)?](https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/) 👤 visual-paradigm.com 💬 2416 🔖 #db 🗓️ 2024-09-30
-- [Learn Go with Tests | Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests) 👤 quii.gitbook.io 💬 125 🔖 #go, #tdd, #testing 🗓️ 2024-09-30
-- [Go by Example](https://gobyexample.com) 👤 gobyexample.com 💬 24 🔖 #go 🗓️ 2024-10-01
-- [A curated list of awesome Go frameworks, libraries and software - Awesome Go / Golang](https://awesome-go.com) 👤 awesome-go.com 💬 20947 🔖 #go 🗓️ 2024-10-01
-- [Python 3.13: Cool New Features for You to Try – Real Python](https://realpython.com/python313-new-features/) 👤 Geir Arne Hjelle 💬 6741 🔖 #python 🗓️ 2024-10-02
-- [Overview - Forever Notes](https://www.myforevernotes.com/articles/overview) 👤 myforevernotes.com 💬 452 🗓️ 2024-10-02
-- [Using a possibility tree for fast string parsing · Raygun Blog](https://raygun.com/blog/possibility-tree-fast-string-parsing/) 👤 Jason Fauchelle | 💬 4520 🗓️ 2024-10-03
-- [Exercism](https://exercism.org) 👤 exercism.org 💬 189 🗓️ 2024-10-04
-- [Tracing or Preventing HTTP Redirects in Golang](https://jonathanmh.com/p/tracing-preventing-http-redirects-golang/) 👤 jonathanmh.com 💬 775 🔖 #go 🗓️ 2024-10-05
-- [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/) 👤 Julia Evans 💬 2160 🗓️ 2024-10-06
-- [An Introduction to Templates in Go - Calhoun.io](https://www.calhoun.io/intro-to-templates/) 👤 Jon Calhoun 💬 465 🔖 #go 🗓️ 2024-10-08
-- [Telegram Web App, FastAPI и вебхуки в одном приложении: Создаем Telegram-бот с веб-интерфейсом для приема заявок / Хабр](https://habr.com/ru/companies/amvera/articles/848644/) 👤 Алексей Яковенко 💬 9729 🔖 #try, #fastapi, #miniapp 🗓️ 2024-10-08
-- [Programming is fun — Bitfield Consulting](https://bitfieldconsulting.com/posts/programming-is-fun) 👤 John Arundel 💬 3059 🗓️ 2024-10-09
-- [GitHub - MariaLetta/free-gophers-pack: ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.](https://github.com/MariaLetta/free-gophers-pack) 👤 MariaLetta 💬 251 🗓️ 2024-10-09
-- [PostgreSQL: Documentation: 17: 3.5. Window Functions](https://www.postgresql.org/docs/17/tutorial-window.html) 👤 postgresql.org 💬 1223 🔖 #db, #postgresql 🗓️ 2024-10-12
-- [Python Friday #248: MkDocs for a Blog - Improve & Repeat](https://improveandrepeat.com/2024/10/python-friday-248-mkdocs-for-a-blog/) 👤 Johnny Graber 💬 712 🗓️ 2024-10-14
-- [Conventional Comments](https://conventionalcomments.org) 👤 Paul Slaughter 💬 796 🗓️ 2024-10-14
-- [Rendering Dynamic Markdown in Nuxt 3+ | Michael Hoffmann](https://mokkapps.de/blog/rendering-dynamic-markdown-in-nuxt-3) 👤 mokkapps.de 💬 480 🔖 #nuxt, #markdown 🗓️ 2024-10-14
-- [How Video Editors Implement Timeline Filmstrips Using FFmpeg and JavaScript | by Aditya Krishnan | Better Programming](https://betterprogramming.pub/how-video-editors-implement-timeline-filmstrips-using-ffmpeg-and-javascript-a4683ddaeb3c) 👤 Aditya Krishnan 💬 3461 🗓️ 2024-10-15
-- [Google Testing Blog: SMURF: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html?m=1) 👤 testing.googleblog.com 💬 397 🔖 #testing 🗓️ 2024-10-16
-- [Trigger recursion in PostgreSQL and how to deal with it | CYBERTEC PostgreSQL | Services & Support](https://www.cybertec-postgresql.com/en/dealing-with-trigger-recursion-in-postgresql/) 👤 Laurenz Albe 💬 952 🔖 #postgresql 🗓️ 2024-10-16
-- [Сервис для обхода блокировки OpenAI API в России или ваш первый API / Хабр](https://habr.com/ru/articles/850620/) 👤 Соловьянов Михаил 💬 904 🗓️ 2024-10-16
-- [Tutorials | Mermaid](https://mermaid.js.org/ecosystem/tutorials.html) 👤 mermaid.js.org 💬 263 🗓️ 2024-10-16
-- [How to Self-host a Container Registry](https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/) 👤 Alex Pliutau 💬 1487 🔖 #docker 🗓️ 2024-10-16
-- [How I take work notes as a developer : Juha-Matti Santala](https://hamatti.org/posts/how-i-take-work-notes-as-a-developer/) 👤 Juha-Matti Santala 💬 1767 🔖 #pkm, #inspiration 🗓️ 2024-10-17
-- [How Does BlueSky Work?](https://steveklabnik.com/writing/how-does-bluesky-work/) 👤 steveklabnik.com 💬 3154 🗓️ 2024-10-18
-- [Микросервисы](https://grishaev.me/microservices/) 👤 grishaev.me 💬 402 🔖 #microservices 🗓️ 2024-10-19
-- [A Taxonomy of HTTP APIs](https://simoncrowe.hashnode.dev/a-taxonomy-of-http-apis) 👤 Simon Crowe 💬 1853 🔖 #rest 🗓️ 2024-10-23
-- [Python 3.13: What's New | TestDriven.io](https://testdriven.io/blog/python313/) 👤 Jan Giacomelli 💬 1093 🔖 #python 🗓️ 2024-10-23
-- [Механическая работа](https://grishaev.me/mech-work/) 👤 grishaev.me 💬 239 🗓️ 2024-10-23
-- [Testing API Libraries - Calhoun.io](https://www.calhoun.io/testing-api-libraries/) 👤 Jon Calhoun 💬 1524 🔖 #go, #testing 🗓️ 2024-10-23
-- [Email newsletter issue • Josh W. Comeau](https://www.joshwcomeau.com/email/2024-10-22-css-survey/) 👤 Josh W. Comeau 💬 1993 🔖 #css 🗓️ 2024-10-23
-- [The Ultimate Guide to Cookies In Nuxt 3](https://masteringnuxt.com/blog/the-ultimate-guide-to-cookies-in-nuxt-3?friend=MOKKAPPS) 👤 masteringnuxt.com 💬 1304 🔖 #nuxt 🗓️ 2024-10-23
-- [How to search for strings in Git commit additions or deletions | Stefan Judis Web Development](https://www.stefanjudis.com/today-i-learned/how-to-search-for-strings-in-git-commit-additions-or-deletions/) 👤 Stefan Judis 💬 280 🔖 #git 🗓️ 2024-11-02
-- [Nuxt Tip: Fetch Data on the Server Before App Start | Michael Hoffmann](https://mokkapps.de/vue-tips/nuxt-fetch-data-on-the-server-before-app-start) 👤 mokkapps.de 💬 259 🔖 #nuxt 🗓️ 2024-11-03
-- [I built a custom RSS hydrator for better GitHub and Youtube feeds : Juha-Matti Santala](https://hamatti.org/posts/i-built-custom-rss-hydrator-for-better-github-and-youtube-feeds/) 👤 Juha-Matti Santala 💬 1171 🗓️ 2024-11-03
-- [Этот странный культ, часть 2: зарубежные хиты эпохи VHS](https://disgustingmen.com/kino/vhs-cult-movie-2/) 👤 Дмитрий Соколов 💬 3122 🗓️ 2024-11-03
-- [Suite smells: testing legacy code — Bitfield Consulting](https://bitfieldconsulting.com/posts/testing-legacy-code) 👤 John Arundel 💬 37 🔖 #go, #testing 🗓️ 2024-11-04
-- [Mastering Prose Components in Nuxt Content](https://masteringnuxt.com/blog/mastering-prose-components-in-nuxt-content?ck_subscriber_id=2108193410) 👤 masteringnuxt.com 💬 3022 🔖 #nuxt 🗓️ 2024-11-04
-- [How to Use Error Handling to Create Rock Solid Nuxt Apps](https://masteringnuxt.com/blog/how-to-use-error-handling-to-create-rock-solid-apps?ck_subscriber_id=2108193410) 👤 masteringnuxt.com 💬 2415 🔖 #nuxt 🗓️ 2024-11-04
-- [Generic types in Go — Bitfield Consulting](https://bitfieldconsulting.com/posts/generic-types) 👤 John Arundel 💬 8 🔖 #go 🗓️ 2024-11-05
-- [Constraints in Go — Bitfield Consulting](https://bitfieldconsulting.com/posts/constraints) 👤 John Arundel 💬 8 🔖 #go 🗓️ 2024-11-05
-- [ASCII control characters in my terminal](https://jvns.ca/blog/2024/10/31/ascii-control-characters/) 👤 Julia Evans 💬 1855 🗓️ 2024-11-05
-- [A Friendly Introduction to Container Queries • Josh W. Comeau](https://www.joshwcomeau.com/css/container-queries-introduction/?from=newsletter) 👤 Josh W. Comeau 💬 2960 🔖 #css 🗓️ 2024-11-05
+- [Beej's guide to killing dragons](https://beej.us/moria/dragonslayer.html) [📖](https://read.readwise.io/read/01jchzxg4kw7r1seqz324zjnwt) 👤 beej.us 💬 1762 🗓️ 2024-11-13
+- [Tips and Tricks](https://beej.us/guide/bgp/) [📖](https://read.readwise.io/read/01jchzx8n2vc39vt01ecxv4qsz) 👤 beej.us 💬 96 🗓️ 2024-11-13
+- [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/) [📖](https://read.readwise.io/read/01jchzwwnf4e6psfabb4xjcvb7) 👤 beej.us 💬 3415 🗓️ 2024-11-13
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/) [📖](https://read.readwise.io/read/01jchzwhmw0xy2jmzvzw1srktx) 👤 beej.us 💬 117 🗓️ 2024-11-13
+- [Beej's Guide to Unix Interprocess Communication](https://beej.us/guide/bgipc/) [📖](https://read.readwise.io/read/01jchzvwk2rtc52edc415jzacy) 👤 beej.us 💬 82 🗓️ 2024-11-13
+- [How to Build a Second Brain – Part 2](https://illustrated.dev/secondbrain2) [📖](https://read.readwise.io/read/01jcddz3gb010yw73hx5nn886v) 👤 illustrated.dev 💬 178 🗓️ 2024-11-11
+- [Bitfield Consulting](https://bitfieldconsulting.com/posts/tao-of-go) [📖](https://read.readwise.io/read/01jcbvs0n2rp8rqa4dgx6bxmvb) 👤 Bitfield Consulting 💬 8 🔖 #go 🗓️ 2024-11-10
+- [Код. Тайный язык информатики](private://read/01jcbv20dveewq9fmgyq6145zm) [📖](https://read.readwise.io/read/01jcbv20dveewq9fmgyq6145zm) 👤 Чарльз Петцольд 💬 187643 🗓️ 2024-11-10
+- [New microblog with TILs](https://jvns.ca/blog/2024/11/09/new-microblog/) [📖](https://read.readwise.io/read/01jcay4n23wg50aa3fssj50s24) 👤 Julia Evans 💬 508 🗓️ 2024-11-10
+- [How to Use WebCurate to Discover Helpful Developer Tools](https://www.freecodecamp.org/news/how-to-use-webcurate-to-discover-helpful-developer-tools/) [📖](https://read.readwise.io/read/01jcay0w10rw4g8f0xmba5r333) 👤 David Jaja 💬 1398 🗓️ 2024-11-10
+- [How to Fuzz Test Golang HTTP Services](https://www.freecodecamp.org/news/how-to-fuzz-test-golang-http-services/) [📖](https://read.readwise.io/read/01jc2kjb7qxx1y2tb67a1w5pkr) 👤 freeCodeCamp.org 💬 1547 🔖 #go, #testing 🗓️ 2024-11-07
+- [Journaling Workflow for Appending to Daily Notes with QuickAdd (VIDEO)](https://thesweetsetup.com/journaling-workflow-for-appending-to-daily-notes-with-quickadd-video/) [📖](https://read.readwise.io/read/01jc0j76kcyj4yvdhfxkp96s9a) 👤 Mike Schmitz 💬 731 🗓️ 2024-11-06
+- [Deep Work](private://read/01jc0gfq12a0849rk3x2q2h5dg) [📖](https://read.readwise.io/read/01jc0gfq12a0849rk3x2q2h5dg) 👤 Cal Newport 💬 79811 🗓️ 2024-11-06
+- [Parsing Custom Markdown with Go](mailto:reader-forwarded-email/5797974aa263466e38a8af5c8cd6636d) [📖](https://read.readwise.io/read/01jc09hy6gnhbjxb5w61m2p9y2) 👤 Jon Calhoun 💬 293 🗓️ 2024-11-06
+- [Improving the main function](mailto:reader-forwarded-email/9c543cfbabd494a29de9eb2384ac5f82) [📖](https://read.readwise.io/read/01jc09hf8eysa5d6dttkmh0kb8) 👤 Jon Calhoun 💬 548 🗓️ 2024-11-06
+- [Testing API libraries in Go](mailto:reader-forwarded-email/99564c967e771eacae74b0d4ee726eff) [📖](https://read.readwise.io/read/01jbywt73kwsj6wxatch5pyyg4) 👤 Jon Calhoun 💬 509 🗓️ 2024-11-05
+- [Storing information in its highest form](https://enterprisecraftsmanship.com/posts/storing-information-in-its-highest-form/) [📖](https://read.readwise.io/read/01jbyqp42wat1695kdjxbc14k6) 👤 Vladimir Khorikov 💬 1921 🗓️ 2024-11-05
+- [The Little Book on REST Services](https://readwise.io/reader/document_raw_content/234768051) [📖](https://read.readwise.io/read/01jbyjrkkfkmd8jnfy5232691f) 👤 Kenneth Lange 💬 5511 🔖 #rest 🗓️ 2024-11-05
+- [JavaScript | 2022 | The Web Almanac by HTTP Archive](https://almanac.httparchive.org/en/2022/javascript) [📖](https://read.readwise.io/read/01jbyg6wgt1fdyjmx19erpqzqg) 👤 Jeremy Wagner 💬 7978 🔖 #web, #long read, #javascript 🗓️ 2024-01-25
+- [Performance Analysis of Python's `dict()` and `{}` - MadeByMe](https://madebyme.today/blog/python-dict-vs-curly-brackets/) [📖](https://read.readwise.io/read/01jbyg6w38k7pr99cs3bxqc1p1) 👤 Kamil Rusin 💬 2890 🔖 #python 🗓️ 2024-01-29
+- [The history of a Django application · eigenwijsje](https://eigenwijsje.dev/blog/the-history-of-a-django-application/) [📖](https://read.readwise.io/read/01jbyg6w28zs5hackshp8af66w) 👤 Ernesto Rico Schmidt 💬 1397 🔖 #django 🗓️ 2024-01-29
+- [Python Debugging Handbook – How to Debug Your Python Code](https://www.freecodecamp.org/news/python-debugging-handbook/) [📖](https://read.readwise.io/read/01jbyg6vzk0k99kbdmnsx36xy6) 👤 Samyak Jain 💬 5640 🔖 #python, #debugging 🗓️ 2024-01-29
+- [The Flask Mega-Tutorial, Part I: Hello, World! - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [📖](https://read.readwise.io/read/01jbyg6vjyh0c43a5j3hak0gf9) 👤 Miguel Grinberg 💬 3907 🔖 #flask, #tutorial 🗓️ 2024-01-31
+- [Python Exceptions: An Introduction – Real Python](https://realpython.com/python-exceptions/) [📖](https://read.readwise.io/read/01jbyg6v7pydaph7w3teazg1dp) 👤 Real Python 💬 3713 🔖 #python 🗓️ 2024-02-06
+- [Python's Format Mini-Language for Tidy Strings – Real Python](https://realpython.com/python-format-mini-language/) [📖](https://read.readwise.io/read/01jbyg6v6v6vyr5tz07r8cdgt5) 👤 Real Python 💬 4467 🔖 #python 🗓️ 2024-02-06
+- [Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) [📖](https://read.readwise.io/read/01jbyg6tztr2nfh2jv1s4c4amw) 👤 vinaysahni.com 💬 5406 🔖 #api, #rest 🗓️ 2024-02-06
+- [Spec-Driven Development for Building APIs with Longevity](https://www.nginx.com/blog/building-api-for-longevity-spec-driven-development/) [📖](https://read.readwise.io/read/01jbyg6txdn07mrb4qec68kfs0) 👤 Web Team 💬 5515 🔖 #api, #rest 🗓️ 2024-02-06
+- [Python Hashes and Equality](https://hynek.me/articles/hashes-and-equality/) [📖](https://read.readwise.io/read/01jbyg6tth9eye03jb4nfcgwds) 👤 Hynek Schlawack 💬 943 🔖 #python 🗓️ 2024-02-07
+- [Layers, Onions, Ports, Adapters: it's all the same](https://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/) [📖](https://read.readwise.io/read/01jbyg6tsrmh3jvmtex02pyjnb) 👤 Mark Seemann 💬 995 🗓️ 2024-02-07
+- [Microservices](https://martinfowler.com/articles/microservices.html) [📖](https://read.readwise.io/read/01jbyg6tmga0hz1g46we74sbm9) 👤 James Lewis 💬 6586 🗓️ 2024-02-07
+- [Full Stack Components | Epic Web Dev](https://www.epicweb.dev/full-stack-components) [📖](https://read.readwise.io/read/01jbyg6tj4r1zhhncpcc8nxq9m) 👤 Kent C. Dodds 💬 4120 🗓️ 2024-02-08
+- [Jeff Triplett's Micro.blog - How to test with Django and pytest fixtures](https://micro.webology.dev/2024/02/05/how-to-test.html) [📖](https://read.readwise.io/read/01jbyg6tghemgjsgt7xfkanz47) 👤 Jeff Triplett 💬 351 🔖 #django, #pytest, #testing 🗓️ 2024-02-08
+- [How to Favicon in 2024: Six files that fit most needs—Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs) [📖](https://read.readwise.io/read/01jbyg6ta8ak01d9bq3qeeemqy) 👤 Andrey Sitnik 💬 2335 🗓️ 2024-02-08
+- [Infinite Craft](https://neal.fun/infinite-craft/) [📖](https://read.readwise.io/read/01jbyg6t9hr7yxggapajtbpaq5) 👤 neal.fun 💬 30 🗓️ 2024-02-08
+- [Faster Docker builds with pipenv, poetry, or pip-tools](https://pythonspeed.com/articles/pipenv-docker/) [📖](https://read.readwise.io/read/01jbyg6t7m482f08zn311561xm) 👤 Itamar Turner-Trauring 💬 1066 🗓️ 2024-02-09
+- [Three pytest Features You Will Love | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2024/02/pytest-features/) [📖](https://read.readwise.io/read/01jbyg6sym2sre3ns8m7b134nt) 👤 Helen Scott 💬 840 🔖 #pytest, #python, #testing 🗓️ 2024-02-13
+- [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/?from=newsletter) [📖](https://read.readwise.io/read/01jbyg6sp8t2bk3szhb83z2cj5) 👤 joshwcomeau.com 💬 3281 🗓️ 2024-02-14
+- [The Art of Production: Octave One · Feature ⟋ RA](https://ra.co/features/4162) [📖](https://read.readwise.io/read/01jbyg6skavf87t2hws9a0dxrc) 👤 Tajh Morris 💬 4395 🗓️ 2024-02-14
+- [CLI tools you won't be able to live without 🔧](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6) [📖](https://read.readwise.io/read/01jbyg6s3x25c7ah81kr344gdq) 👤 DEV Community 💬 4102 🔖 #cli, #try 🗓️ 2024-02-18
+- [Python Design Patterns](https://python-patterns.guide) [📖](https://read.readwise.io/read/01jbyg6s0x155g5ymsxtq5rjtv) 👤 python-patterns.guide 💬 155 🔖 #python 🗓️ 2024-02-19
+- [JavaScript Bloat in 2024 @ tonsky.me](https://tonsky.me/blog/js-bloat/) [📖](https://read.readwise.io/read/01jbyg6rn0pheas8y08wv4kr5m) 👤 Nikita Prokopov 💬 1312 🗓️ 2024-02-22
+- [Rendering emails with Svelte - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/rendering-emails-with-svelte/) [📖](https://read.readwise.io/read/01jbyg6rfwzam8pvycsftzqnhz) 👤 Dmitry Kudryavtsev 💬 2513 🗓️ 2024-02-24
+- [Untangling the Tale of Ada Lovelace—Stephen Wolfram Writings](https://writings.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/) [📖](https://read.readwise.io/read/01jbyg6r95bmy22d62wsf3daek) 👤 writings.stephenwolfram.com 💬 11888 🗓️ 2024-02-27
+- [Jeff Triplett's Micro.blog - Things I do every time I start a Django project](https://micro.webology.dev/2024/02/26/things-i-do.html) [📖](https://read.readwise.io/read/01jbyg6r8d4czf56v5hm5k0kg8) 👤 Jeff Triplett 💬 769 🗓️ 2024-02-28
+- [Regular Expressions (RegEx) in JavaScript – A Handbook for Beginners](https://www.freecodecamp.org/news/regex-in-javascript/) [📖](https://read.readwise.io/read/01jbyg6r6snfx2nk9bwszcp7r7) 👤 Samyak Jain 💬 5736 🗓️ 2024-02-28
+- [The art of DJing: Andy C · Feature ⟋ RA](https://ra.co/features/3218) [📖](https://read.readwise.io/read/01jbyg6r5q4hnf1cgmxmp98tj2) 👤 Dave Herringbone 💬 4625 🗓️ 2024-02-28
+- [Пишем свой веб-сервер на Python: процессы, потоки и асинхронный I/O](https://iximiuz.com/ru/posts/writing-python-web-server-part-2/) [📖](https://read.readwise.io/read/01jbyg6r2btcs1167fw5e75geq) 👤 Ivan Velichko 💬 2513 🔖 #diy, #http 🗓️ 2024-02-29
+- [Let’s Build A Simple Interpreter. Part 1. - Ruslan's Blog](https://ruslanspivak.com/lsbasi-part1/) [📖](https://read.readwise.io/read/01jbyg6r1j2x6p90b2v565my5q) 👤 Ruslan Spivak 💬 2689 🔖 #diy 🗓️ 2024-02-29
+- [Django REST Framework: Pros and Cons | TestDriven.io](https://testdriven.io/blog/drf-pros-cons/) [📖](https://read.readwise.io/read/01jbyg6qzp1c12djsvn8qz12j4) 👤 Nik Tomazic 💬 1290 🗓️ 2024-03-01
+- [The Syslog Handbook – How to Collect and Redirect Logs to a Remote Server](https://www.freecodecamp.org/news/what-is-syslog-handbook/) [📖](https://read.readwise.io/read/01jbyg6qyndtk539v862yw5pz1) 👤 Serhii Orlivskyi 💬 9726 🗓️ 2024-03-01
+- [How to Build a Camera App on the Web – No Plugins Required](https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/) [📖](https://read.readwise.io/read/01jbyg6qv6r9bw2wjhnrbmz284) 👤 Favour C. Felix 💬 1642 🗓️ 2024-03-01
+- [Основы технологий баз данных](https://postgrespro.ru/education/books/dbtech) [📖](https://read.readwise.io/read/01jbyg6qk4chy0b3qye3t7v2z8) 👤 postgrespro.ru 💬 438 🗓️ 2024-03-04
+- [DNS for Rocket Scientists - Contents](https://www.zytrax.com/books/dns/) [📖](https://read.readwise.io/read/01jbyg6qgebn0b2hx0ts3w2sze) 👤 zytrax.com 💬 402 🗓️ 2024-03-04
+- [The Middle Passage: A Jungian Field Guide to Finding Meaning and Transformation in Midlife – The Marginalian](https://www.themarginalian.org/2024/03/03/the-middle-passage-john-hollis/) [📖](https://read.readwise.io/read/01jbyg6qegjngjdramasmr95be) 👤 Maria Popova 💬 2065 🗓️ 2024-03-05
+- [</> htmx ~ Examples ~ Keyboard Shortcuts](https://htmx.org/examples/keyboard-shortcuts/) [📖](https://read.readwise.io/read/01jbyg6qdgqdhr9swjnek7cpbd) 👤 htmx.org 💬 128 🗓️ 2024-03-05
+- [Bitwise Operators in Python – Real Python](https://realpython.com/python-bitwise-operators/) [📖](https://read.readwise.io/read/01jbyg6q7zvc7gg0skas5abn1k) 👤 Real Python 💬 14286 🗓️ 2024-03-05
+- [Deploying Django Apps in Kubernetes | The PyCharm Blog](https://blog.jetbrains.com/pycharm/2024/03/deploying-django-apps-in-kubernetes/) [📖](https://read.readwise.io/read/01jbyg6q73z1g6rsf2fxnz31vm) 👤 Mukul Mantosh 💬 3560 🗓️ 2024-03-06
+- [Part 2: Parse the response](https://implement-dns.wizardzines.com/book/part_2.html) [📖](https://read.readwise.io/read/01jbyg6q5cvsesj1ar9cpyn9jj) 👤 implement-dns.wizardzines.com 💬 1800 🗓️ 2024-03-06
+- [Implement DNS in a weekend](https://implement-dns.wizardzines.com) [📖](https://read.readwise.io/read/01jbyg6q4kapph2ej5w8y8t910) 👤 implement-dns.wizardzines.com 💬 147 🗓️ 2024-03-06
+- [The multiple meanings of "nameserver" and "DNS resolver"](https://jvns.ca/blog/2022/02/14/some-dns-terminology/) [📖](https://read.readwise.io/read/01jbyg6q3mv5dhpsx1m1znfkw3) 👤 Julia Evans 💬 988 🔖 #dns 🗓️ 2024-03-06
+- [Structlog With Django Is Awesome! - loop0](https://loop0.sh/posts/structlog-with-django-is-awesome/) [📖](https://read.readwise.io/read/01jbyg6q2r8tcb9b6xbsymwv7a) 👤 https://github.com/loop0 💬 349 🗓️ 2024-03-07
+- [Let’s Build A Web Server. Part 1. - Ruslan's Blog](https://ruslanspivak.com/lsbaws-part1/) [📖](https://read.readwise.io/read/01jbyg6pwhan0nbw5f5frtpp56) 👤 Ruslan Spivak 💬 1366 🔖 #diy 🗓️ 2024-03-11
+- [Let’s Build A Web Server. Part 2. - Ruslan's Blog | WSGI Server](https://ruslanspivak.com/lsbaws-part2/) [📖](https://read.readwise.io/read/01jbyg6pv8nqevd57zt4e8e5tn) 👤 Ruslan Spivak 💬 2633 🔖 #diy 🗓️ 2024-03-11
+- [Let’s Build A Simple Interpreter. Part 2. - Ruslan's Blog](https://ruslanspivak.com/lsbasi-part2/) [📖](https://read.readwise.io/read/01jbyg6pt3h2wf3fg96xv3czw3) 👤 Ruslan Spivak 💬 1504 🔖 #diy 🗓️ 2024-03-11
+- [Jade Rubick - Velocity role 1 - the Subtractionist](https://www.rubick.com/velocity-role-subtractionist/) [📖](https://read.readwise.io/read/01jbyg6ps3qp85rwe7k1f1xayc) 👤 rubick.com 💬 973 🗓️ 2024-03-12
+- [Let’s Build A Simple Interpreter. Part 3. - Ruslan's Blog](https://ruslanspivak.com/lsbasi-part3/) [📖](https://read.readwise.io/read/01jbyg6pg4ye1vwqe5a37s4qk3) 👤 Ruslan Spivak 💬 1914 🔖 #diy 🗓️ 2024-03-12
+- [Let’s Build A Web Server. Part 3. - Ruslan's Blog | Multiprocess](https://ruslanspivak.com/lsbaws-part3/) [📖](https://read.readwise.io/read/01jbyg6pd7n7q6t3pp709h6aq2) 👤 Ruslan Spivak 💬 226 🔖 #diy 🗓️ 2024-03-12
+- [Image Processing With the Python Pillow Library – Real Python](https://realpython.com/image-processing-with-the-python-pillow-library/) [📖](https://read.readwise.io/read/01jbyg6ngjjzwk9g45wbfbfk4f) 👤 Real Python 💬 8569 🗓️ 2024-03-17
+- [Go ahead and block AI web crawlers // Cory Dransfeldt](https://coryd.dev/posts/2024/go-ahead-and-block-ai-web-crawlers/) [📖](https://read.readwise.io/read/01jbyg6naahhmjv707ncpqy85n) 👤 Cory Dransfeldt 💬 652 🗓️ 2024-03-18
+- [Sending Emails With Python – Real Python](https://realpython.com/python-send-email/) [📖](https://read.readwise.io/read/01jbyg6mxwpd2apez90s18e7zy) 👤 Real Python 💬 3849 🔖 #python 🗓️ 2024-03-18
+- [Hands-on Rust: Effective Learning through 2D Game Development and Play by Herbert Wolverson](https://pragprog.com/titles/hwrust/hands-on-rust/) [📖](https://read.readwise.io/read/01jbyg6mpq21d5r9rz0361cw0m) 👤 Herbert Wolverson 💬 701 🗓️ 2024-03-21
+- [Rust Brain Teasers: Exercise Your Mind by Herbert Wolverson](https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/) [📖](https://read.readwise.io/read/01jbyg6mnmfvccy5j6wd1ad7a0) 👤 Herbert Wolverson 💬 519 🗓️ 2024-03-21
+- [Create a Table of Contents With Active States in Nuxt 3 | Michael Hoffmann - Senior Frontend Developer (Freelancer)](https://mokkapps.de/blog/create-a-table-of-contents-with-active-states-in-nuxt-3) [📖](https://read.readwise.io/read/01jbyg6mhycrr7f9q1m2c3wadb) 👤 mokkapps.de 💬 1441 🗓️ 2024-03-22
+- [Lies, damn lies, and feedback on Arch Linux - Bite code!](https://www.bitecode.dev/p/lies-damn-lies-and-feedback-on-arch) [📖](https://read.readwise.io/read/01jbyg6mfdkh7zxp64f7v4dp2r) 👤 Bite Code! 💬 1043 🗓️ 2024-03-25
+- [Django: Write-up on optimizing the system check framework - Adam Johnson](https://adamj.eu/tech/2024/03/23/django-optimizing-system-checks/) [📖](https://read.readwise.io/read/01jbyg6me782k5ed0apcvj4a3j) 👤 adamj.eu 💬 2986 🗓️ 2024-03-25
+- [The Fediverse is Already Dead | Nora Codes](https://nora.codes/post/the-fediverse-is-already-dead/) [📖](https://read.readwise.io/read/01jbyg6mcg6nmqdnpad3vavw1k) 👤 Leonora Tindall 💬 3261 🗓️ 2024-03-25
+- [Testing with Python (part 1): the basics - Bite code!](https://www.bitecode.dev/p/testing-with-python-part-1-the-basics) [📖](https://read.readwise.io/read/01jbyg6mb5tv5tzrrfpv26aec1) 👤 Bite Code! 💬 2658 🗓️ 2024-03-25
+- [How to stop a Python thread cleanly | Alexandra Zaharia](https://alexandra-zaharia.github.io/posts/how-to-stop-a-python-thread-cleanly/) [📖](https://read.readwise.io/read/01jbyg6m9rfy6c5122x9qs4w01) 👤 Alexandra Zaharia 💬 687 🗓️ 2024-03-28
+- [Rust on Exercism](https://exercism.org/tracks/rust) [📖](https://read.readwise.io/read/01jbyg6m8rg995knntch3hte33) 👤 exercism.org 💬 155 🗓️ 2024-03-28
+- [Go on Exercism](https://exercism.org/tracks/go) [📖](https://read.readwise.io/read/01jbyg6m7ez40v3t1wkqzt2jqm) 👤 exercism.org 💬 309 🗓️ 2024-03-28
+- [rust-lang/rustlings: :crab: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings) [📖](https://read.readwise.io/read/01jbyg6m6hmgzw8b0bwf5crgza) 👤 github.com 💬 768 🗓️ 2024-03-28
+- [Django ORM Cheatsheet: Mastering Database Operations in Django](https://djangocentral.com/django-orm-cheatsheet/) [📖](https://read.readwise.io/read/01jbyg6m55t7r9h8667datg04f) 👤 djangocentral.com 💬 1498 🔖 #django 🗓️ 2024-03-28
+- [How to Use Subquery() in Django With Practical Examples](https://djangocentral.com/how-to-use-subquery-in-django/) [📖](https://read.readwise.io/read/01jbyg6m3y37bnn2ha8vsyb9mn) 👤 djangocentral.com 💬 989 🔖 #django 🗓️ 2024-03-28
+- [Edit card in HeadlessUI and InertiaJS modal - Trello Kanban - Trello kanboard](https://tallpad.com/series/trello-kanboard/lessons/edit-card-in-headlessui-and-inertiajs-modal-trello-kanban) [📖](https://read.readwise.io/read/01jbyg6m2fn1wy0kde8ssrwy2m) 👤 tallpad.com 💬 116 🗓️ 2024-03-28
+- [Deploying Nuxt Static Site to Github Pages with GitHub Actions - Don Lalicon](https://donlalicon.dev/articles/nuxt-static-github-pages-action) [📖](https://read.readwise.io/read/01jbyg6m11s4j3yc245xa1za77) 👤 donlalicon.dev 💬 396 🔖 #nuxt, #devops, #github 🗓️ 2024-03-28
+- [WireGuard на своем сервере: подробная инструкция](https://timeweb.cloud/tutorials/network-security/wireguard-na-svoem-servere) [📖](https://read.readwise.io/read/01jbyg6kzwjdwbfv8sp4gsseph) 👤 timeweb.cloud 💬 1516 🗓️ 2024-03-28
+- [The Art of DJing: Ellen Allien · Feature ⟋ RA](https://ra.co/features/4305) [📖](https://read.readwise.io/read/01jbyg6kvhkpvhjzgj4t1hhcxc) 👤 Andrew Ryce 💬 4388 🗓️ 2024-03-28
+- [Django Streaming HTTP Responses](https://blog.pecar.me/django-streaming-responses) [📖](https://read.readwise.io/read/01jbyg6kdjzv8vn3485wrpsvhz) 👤 Anže 💬 831 🗓️ 2024-04-01
+- [The Django admin is a CMS - Matthias Kestenholz](https://406.ch/writing/the-django-admin-is-a-cms/) [📖](https://read.readwise.io/read/01jbyg6kcep4yrf487zxbcm8fa) 👤 406.ch 💬 651 🗓️ 2024-04-01
+- [Using breakpoints to explore your code](https://www.mostlypython.com/using-breakpoints-to-explore-your-code/) [📖](https://read.readwise.io/read/01jbyg6kbfcr61xkve2ahn90rg) 👤 Eric Matthes 💬 1466 🗓️ 2024-04-01
+- [Every dunder method in Python - Python Morsels](https://www.pythonmorsels.com/every-dunder-method/) [📖](https://read.readwise.io/read/01jbyg6k9czpfz41nhjrmgrcmp) 👤 Trey Hunner 💬 3772 🗓️ 2024-04-01
+- [Monitoring web hosts | Artur Akmalov](https://akmalov.com/blog/monitoring-web-hosts) [📖](https://read.readwise.io/read/01jbyg6k6hejwtce76d004md1m) 👤 akmalov.com 💬 300 🗓️ 2024-04-01
+- [Мониторинг микросервисов Flask с помощью Prometheus / Хабр](https://habr.com/ru/articles/518122/) [📖](https://read.readwise.io/read/01jbyg6k5g84e1wgbtt7smrc50) 👤 Максим 💬 765 🗓️ 2024-04-01
+- [Введение в асинхронный JavaScript - Изучение веб-разработки | MDN](https://developer.mozilla.org/ru/docs/Learn/JavaScript/Asynchronous/Introducing.) [📖](https://read.readwise.io/read/01jbyg6k4bqwyxvxdjx4hr5g13) 👤 developer.mozilla.org 💬 64 🗓️ 2024-04-02
+- [inspect — Inspect live objects — Python 3.12.2 documentation](https://docs.python.org/3/library/inspect.html) [📖](https://read.readwise.io/read/01jbyg6k2a6y3hrnvknvygw1ka) 👤 docs.python.org 💬 6709 🗓️ 2024-04-02
+- [Стажёр-разработчик (бэкенд-разработка)](https://yandex.ru/yaintern/int_01) [📖](https://read.readwise.io/read/01jbyg6k1cc11476qf9bst92sk) 👤 yandex.ru 💬 1075 🗓️ 2024-04-02
+- [Creating a Reading List with Eleventy and Omnivore - ttntm.me](https://ttntm.me/blog/creating-a-reading-list-with-eleventy-and-omnivore/) [📖](https://read.readwise.io/read/01jbyg6k0da4hf6qb2ckz8e2kd) 👤 ttntm 💬 1409 🗓️ 2024-04-04
+- [Can gRPC replace REST and WebSockets for Web Application Communication? | gRPC](https://grpc.io/blog/postman-grpcweb/) [📖](https://read.readwise.io/read/01jbyg6jxanwjqg64s3fm84mya) 👤 Ian Douglas (Sr Developer Advocate, Postman) | Monday, 💬 1791 🔖 #grpc 🗓️ 2024-04-04
+- [Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html) [📖](https://read.readwise.io/read/01jbyg6jwbr3srtkvskqym03kj) 👤 twobithistory.org 💬 2169 🗓️ 2024-04-04
+- [The Big Ball of Mud and Other Architectural Disasters](https://blog.codinghorror.com/the-big-ball-of-mud-and-other-architectural-disasters/) [📖](https://read.readwise.io/read/01jbyg6jvctv5q2qb3r9ek7s04) 👤 Jeff Atwood 💬 496 🗓️ 2024-04-04
+- [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/) [📖](https://read.readwise.io/read/01jbyg6jsrp0pe3838rfx8b94q) 👤 Itamar Turner-Trauring 💬 1479 🗓️ 2024-04-05
+- [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) [📖](https://read.readwise.io/read/01jbyg6jqct3bnath4vq95cxdx) 👤 Julia Evans 💬 2828 🔖 #inspiration, #productivity 🗓️ 2024-04-05
+- [Dependency Management With Python Poetry – Real Python](https://realpython.com/dependency-management-python-poetry/) [📖](https://read.readwise.io/read/01jbyg6jkg9gkpephdc930q9hq) 👤 Real Python 💬 9114 🗓️ 2024-04-06
+- [Clean Architectures in Python - Introduction](https://www.thedigitalcatbooks.com/pycabook-introduction/) [📖](https://read.readwise.io/read/01jbyg6jhnc49zgd6b7nsfqcrr) 👤 thedigitalcatbooks.com 💬 2082 🗓️ 2024-04-06
+- [OAuth 2 Simplified • Aaron Parecki](https://aaronparecki.com/oauth-2-simplified/) [📖](https://read.readwise.io/read/01jbyg6jft9hcz4fnjkrk4hqqf) 👤 Authorization 💬 2962 🗓️ 2024-04-07
+- [Demystifying OAuth Flows | Frontegg](https://frontegg.com/blog/oauth-flows) [📖](https://read.readwise.io/read/01jbyg6jdtystpdktmxjtr51re) 👤 Aviad Mizrachi 💬 1703 🗓️ 2024-04-07
+- [Nuxt's Server-Only Components should be on your radar | Vue Mastery](https://www.vuemastery.com/blog/nuxts-server-only-components-should-be-on-your-radar/) [📖](https://read.readwise.io/read/01jbyg6jczw133aewg7c3kwsy7) 👤 Andy Li 💬 129 🗓️ 2024-04-08
+- [Effortless Forms w/ FormKit | Vue Mastery](https://www.vuemastery.com/blog/effortless-forms-w-formkit/) [📖](https://read.readwise.io/read/01jbyg6jbcmktngs2dt0em0wy2) 👤 Timi Omoyeni 💬 28 🗓️ 2024-04-08
+- [Testing with Python (part 2): moving to pytest](https://www.bitecode.dev/p/testing-with-python-part-2-moving) [📖](https://read.readwise.io/read/01jbyg6j9exshd2y32pcj2zfyq) 👤 Bite Code! 💬 1922 🔖 #pytest, #testing 🗓️ 2024-04-08
+- [Understanding the Python Mock Object Library – Real Python](https://realpython.com/python-mock-library/) [📖](https://read.readwise.io/read/01jbyg6j684c4603h7e5e6gt97) 👤 Real Python 💬 5111 🗓️ 2024-04-08
+- [pgmock — pgmock 1.3.7 documentation](https://pgmock.readthedocs.io/en/latest/) [📖](https://read.readwise.io/read/01jbyg6j55fvhteggvj0z71ne7) 👤 pgmock.readthedocs.io 💬 920 🗓️ 2024-04-08
+- [Repository Pattern](https://www.cosmicpython.com/book/chapter_02_repository.html) [📖](https://read.readwise.io/read/01jbyg6j4b5rf34y1shaqwksmd) 👤 cosmicpython.com 💬 238 🗓️ 2024-04-08
+- [The Ultimate FastAPI Tutorial Part 13 - Using Docker to Deploy Your App](https://christophergs.com/tutorials/ultimate-fastapi-tutorial-pt-13-docker-deploy/) [📖](https://read.readwise.io/read/01jbyg6hybsvqv6gf0243e83k2) 👤 ChristopherGS 💬 3531 🗓️ 2024-04-08
+- [Monitoring your FastAPI application with OpenTelemetry | SigNoz](https://signoz.io/blog/opentelemetry-fastapi/) [📖](https://read.readwise.io/read/01jbyg6hw106czmkprw60w2pyn) 👤 Ankit Anand 💬 1375 🗓️ 2024-04-08
+- [mjhea0/awesome-fastapi: A curated list of awesome things related to FastAPI](https://github.com/mjhea0/awesome-fastapi) [📖](https://read.readwise.io/read/01jbyg6hqxatmq5ke9xmh9z48q) 👤 github.com 💬 2591 🗓️ 2024-04-09
+- [(1) Developing and Testing an Asynchronous API with FastAPI and Pytest | TestDriven.io](https://testdriven.io/blog/fastapi-crud/) [📖](https://read.readwise.io/read/01jbyg6hp4y2z4yz7wp8rvpabn) 👤 Michael Herman 💬 4138 🔖 #pytest, #fastapi 🗓️ 2024-04-09
+- [Dockerizing FastAPI with Postgres, Uvicorn, and Traefik | TestDriven.io](https://testdriven.io/blog/fastapi-docker-traefik/) [📖](https://read.readwise.io/read/01jbyg6hmw1mzpnjh8bnx7xm15) 👤 Amal Shaji 💬 2719 🗓️ 2024-04-09
+- [Introduction to ASGI: Emergence of an Async Python Web Ecosystem - Florimond Manca](https://florimond.dev/en/posts/2019/08/introduction-to-asgi-async-python-web) [📖](https://read.readwise.io/read/01jbyg6hkp24jpyyt2xj77mkrk) 👤 Florimond Manca 💬 1820 🗓️ 2024-04-09
+- [Securing FastAPI with JWT Token-based Authentication | TestDriven.io](https://testdriven.io/blog/fastapi-jwt-auth/) [📖](https://read.readwise.io/read/01jbyg6hhc9bpz19h01xz7vqar) 👤 Abdulazeez Abdulazeez Adeshina 💬 2003 🗓️ 2024-04-09
+- [Handling Database Migrations with Alembic | TestDriven.io](https://testdriven.io/blog/alembic-database-migrations/) [📖](https://read.readwise.io/read/01jbyg6hgczdtar21fy38k6n6f) 👤 Paul Esch-Laurent 💬 1240 🗓️ 2024-04-09
+- [French competitiveness in IT - Bite code!](https://www.bitecode.dev/p/french-competitiveness-in-it) [📖](https://read.readwise.io/read/01jbyg6hfjtgdvath0t5ha766s) 👤 Bite Code! 💬 897 🗓️ 2024-04-10
+- [Code in Context: How AI Can Help Improve Our Documentation - The New Stack](https://thenewstack.io/code-in-context-how-ai-can-help-improve-our-documentation/) [📖](https://read.readwise.io/read/01jbyg6hejpytvzw6paqcqnnkn) 👤 Jon Udell 💬 2074 🗓️ 2024-04-10
+- [Pydantic: Simplifying Data Validation in Python – Real Python](https://realpython.com/python-pydantic/) [📖](https://read.readwise.io/read/01jbyg6hchv72gpxdfer3xrsb5) 👤 Real Python 💬 6014 🗓️ 2024-04-10
+- [FastAPI Project Setup: The Ultimate Guide with Async Postgres, SQLModel, Pytest, & Docker | by Lawson Taylor | Medium](https://medium.com/@lawsontaylor/the-ultimate-fastapi-project-setup-fastapi-async-postgres-sqlmodel-pytest-and-docker-ed0c6afea11b) [📖](https://read.readwise.io/read/01jbyg6hbe3c7q8jj7fw94t19w) 👤 Lawson Taylor 💬 4371 🔖 #fastapi 🗓️ 2024-04-11
+- [Top 8 PostgreSQL Extensions](https://www.timescale.com/blog/top-8-postgresql-extensions/) [📖](https://read.readwise.io/read/01jbyg6h86kwzav2rjp5s0rsx3) 👤 Avthar Sewrathan 💬 2716 🗓️ 2024-04-12
+- [Building an ultimate writing machine from Sublime Text @ tonsky.me](https://tonsky.me/blog/sublime-writer/) [📖](https://read.readwise.io/read/01jbyg6h01mt4mw8qvs86q7q6p) 👤 Nikita Prokopov 💬 1095 🗓️ 2024-04-15
+- [So your teacher wants you to do open source | David Lord](https://davidism.com/school-assignment-open-source/) [📖](https://read.readwise.io/read/01jbyg6gz5jsn8vpy56acabraj) 👤 davidism.com 💬 1175 🗓️ 2024-04-16
+- [How to optimize PostgreSQL queries from Django using pgMustard - Adam Johnson](https://adamj.eu/tech/2022/06/21/optimize-postgresql-queries-from-django-using-pgmustard/) [📖](https://read.readwise.io/read/01jbyg6gy02a55wgrzmz9tdvvg) 👤 adamj.eu 💬 2809 🗓️ 2024-04-16
+- [Handling Big Data with Django and AgGrid](https://circumeo.io/blog/entry/handling-big-data-with-django-and-aggrid/) [📖](https://read.readwise.io/read/01jbyg6gwha3dcyhk7v6htyrsw) 👤 circumeo.io 💬 1000 🗓️ 2024-04-16
+- [503 days working full-time on FOSS: lessons learned | mathspp](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) [📖](https://read.readwise.io/read/01jbyg6gvmje640hc7yrenqycd) 👤 Rodrigo Girão Serrão 💬 3829 🗓️ 2024-04-16
+- [XSS prevention for Flask | Semgrep](https://semgrep.dev/docs/cheat-sheets/flask-xss/) [📖](https://read.readwise.io/read/01jbyg6gka2mrtb9bqxdacmfcv) 👤 semgrep.dev 💬 834 🗓️ 2024-04-16
+- [Про токены, JSON Web Tokens (JWT), аутентификацию и авторизацию. Token-Based Authentication](https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc) [📖](https://read.readwise.io/read/01jbyg6gfnywg84dqn3d9a4pva) 👤 gist.github.com 💬 2024 🗓️ 2024-04-16
+- [Styling an Django RSS Feed](https://hyteck.de/post/django-rss/) [📖](https://read.readwise.io/read/01jbyg6gej37s4mwnyqwa9s6zh) 👤 Julian-Samuel Gebühr 💬 890 🗓️ 2024-04-18
+- [Hardest Problem in Computer Science: Centering Things @ tonsky.me](https://tonsky.me/blog/centering/) [📖](https://read.readwise.io/read/01jbyg6gbkdb445axhm9mef04w) 👤 Nikita Prokopov 💬 1523 🗓️ 2024-04-18
+- [Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8) [📖](https://read.readwise.io/read/01jbyg6gawhz0h1761zg6rzegq) 👤 Cal Paterson 💬 1289 🗓️ 2024-04-18
+- [4 Proven Ways To Define Pytest PythonPath and Avoid Module Import Errors | Pytest With Eric](https://pytest-with-eric.com/introduction/pytest-pythonpath/) [📖](https://read.readwise.io/read/01jbyg6g7nazz45fgtrbdehc7k) 👤 pytest-with-eric.com 💬 1219 🗓️ 2024-04-22
+- [Build a Blog Using Django, GraphQL, and Vue – Real Python](https://realpython.com/python-django-blog/) [📖](https://read.readwise.io/read/01jbyg6g6s15ajw3rpe98s6775) 👤 Real Python 💬 10869 🗓️ 2024-04-25
+- [Write Pythonic and Clean Code With namedtuple – Real Python](https://realpython.com/python-namedtuple/) [📖](https://read.readwise.io/read/01jbyg6g5vst24xcg9aqdybse4) 👤 Real Python 💬 7552 🗓️ 2024-04-25
+- [Рабочий процесс Gitflow Workflow | Atlassian Git Tutorial](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow) [📖](https://read.readwise.io/read/01jbyg6g4xve6zacq50k33nwc3) 👤 Atlassian 💬 1134 🗓️ 2024-04-25
+- [Магистральная разработка | Atlassian](https://www.atlassian.com/ru/continuous-delivery/continuous-integration/trunk-based-development) [📖](https://read.readwise.io/read/01jbyg6g41x9rtg6fm6cpzf42h) 👤 Atlassian 💬 1615 🗓️ 2024-04-25
+- [Testing with Python (part 3): pytest setup - Bite code!](https://www.bitecode.dev/p/testing-with-python-part-3-pytest) [📖](https://read.readwise.io/read/01jbyg6fztyfvevez6kgs15wd6) 👤 Bite Code! 💬 2538 🔖 #pytest, #python, #testing 🗓️ 2024-04-26
+- [Implementing FastAPI Services – Abstraction and Separation of Concerns | Camillo Visini](https://camillovisini.com/coding/abstracting-fastapi-services) [📖](https://read.readwise.io/read/01jbyg6fvc8kv983zd693weyxr) 👤 camillovisini.com 💬 1475 🔖 #fastapi 🗓️ 2024-05-06
+- [Fast API — Repository Pattern and Service Layer](https://readmedium.com/fast-api-repository-pattern-and-service-layer-dad43354f07a) [📖](https://read.readwise.io/read/01jbyg6ftcd56rnxbs771p26ga) 👤 readmedium.com 🔖 #fastapi 🗓️ 2024-05-06
+- [UUIDs Are Bad for DB Index performance - Solved](https://www.toomanyafterthoughts.com/uuids-are-bad-for-database-index-performance-uuid7/) [📖](https://read.readwise.io/read/01jbyg6frewf90612hkfwz22cs) 👤 toomanyafterthoughts.com 💬 1310 🗓️ 2024-05-07
+- [Unexpected downsides of UUID keys in PostgreSQL | CYBERTEC PostgreSQL | Services & Support](https://www.cybertec-postgresql.com/en/unexpected-downsides-of-uuid-keys-in-postgresql/) [📖](https://read.readwise.io/read/01jbyg6fqhkxfgbteb6gdzfwgx) 👤 Ants Aasma 💬 1300 🗓️ 2024-05-07
+- [Intro to PDB, the Python Debugger - Bite code!](https://www.bitecode.dev/p/intro-to-pdb-the-python-debugger) [📖](https://read.readwise.io/read/01jbyg6fkg4qdkw9fhq48xa16s) 👤 Bite Code! 💬 2587 🗓️ 2024-05-13
+- [Getting Started - structlog 24.1.0 documentation](https://www.structlog.org/en/stable/getting-started.html) [📖](https://read.readwise.io/read/01jbyg6fhj1psp7wwkj405j6f4) 👤 structlog.org 💬 1245 🗓️ 2024-05-13
+- [A Comprehensive Guide to Python Logging with Structlog | Better Stack Community](https://betterstack.com/community/guides/logging/structlog/) [📖](https://read.readwise.io/read/01jbyg6fgnkdmk5my99xxnrqnn) 👤 Stanley Ulili 💬 4671 🗓️ 2024-05-13
+- [Testing with Python (part 4): why and what to test?](https://www.bitecode.dev/p/testing-with-python-part-4-why-and) [📖](https://read.readwise.io/read/01jbyg6ffvah6s74ztazkr7dvy) 👤 Bite Code! 💬 3052 🔖 #testing 🗓️ 2024-05-13
+- [Logging Best Practices - structlog 24.1.0 documentation](https://www.structlog.org/en/stable/logging-best-practices.html) [📖](https://read.readwise.io/read/01jbyg6ff0t50q6n057wdtcc8x) 👤 structlog.org 💬 626 🗓️ 2024-05-13
+- [TDD: For Those Who Don't Know How to Design Software - The Code Whisperer](https://blog.thecodewhisperer.com/permalink/tdd-for-those-who-dont-know-how-to-design-software) [📖](https://read.readwise.io/read/01jbyg6fe4rxs8h9s0mev2wvt5) 👤 J. B. Rainsberger 💬 1206 🗓️ 2024-05-13
+- [Syntax Error](https://www.syntaxerror.tech) [📖](https://read.readwise.io/read/01jbyg6fd96rmddmf9rp923gkz) 👤 syntaxerror.tech 💬 1463 🗓️ 2024-05-13
+- [An Intro to Logging with Loguru - by Mike Driscoll](https://www.pythonpapers.com/p/an-intro-to-logging-with-loguru?isFreemail=true&post_id=144504313&publication_id=1267207&r=2bvz41&triedRedirect=true) [📖](https://read.readwise.io/read/01jbyg6fcaaecac0t51nd8as15) 👤 Mike Driscoll 💬 71 🗓️ 2024-05-14
+- [Why your team might be holding you back - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/your-team-might-be-holding-you-back/) [📖](https://read.readwise.io/read/01jbyg6fbghj3wgvddswsy5z83) 👤 Dmitry Kudryavtsev 💬 1466 🗓️ 2024-05-14
+- [How LLMs Work, Explained Without Math - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math) [📖](https://read.readwise.io/read/01jbyg6f9qxvz34eywdbnds34h) 👤 Miguel Grinberg 💬 3826 🔖 #llm 🗓️ 2024-05-14
+- [Structured logging using structlog and FastAPI | Angelos Panagiotopoulos](https://www.angelospanag.me/blog/structured-logging-using-structlog-and-fastapi) [📖](https://read.readwise.io/read/01jbyg6f8jqfh8bvz659cadq4s) 👤 Angelos Panagiotopoulos 💬 1651 🗓️ 2024-05-15
+- [Light speed with Python and JS - Bite code!](https://www.bitecode.dev/p/light-speed-with-python-and-js) [📖](https://read.readwise.io/read/01jbyg6f7mb7hpfxbdq97gred8) 👤 Bite Code! 💬 2533 🗓️ 2024-05-15
+- [An Intro to Logging with Python and Loguru - Mouse Vs Python](https://www.blog.pythonlibrary.org/2024/05/15/an-intro-to-logging-with-python-and-loguru/) [📖](https://read.readwise.io/read/01jbyg6f5pyefhtkp9x2p90yf6) 👤 Mike 💬 1835 🗓️ 2024-05-16
+- [Thinking in Iterators | corrode Rust Consulting](https://corrode.dev/blog/iterators/) [📖](https://read.readwise.io/read/01jbyg6f45t77exzee854a3qyh) 👤 Corrode Rust Consulting 💬 1439 🗓️ 2024-05-16
+- [How To Manage Temporary Files with Pytest tmp_path | Pytest With Eric](https://pytest-with-eric.com/pytest-best-practices/pytest-tmp-path/) [📖](https://read.readwise.io/read/01jbyg6f3aze1k0gr8h43r79tb) 👤 pytest-with-eric.com 💬 2428 🗓️ 2024-05-16
+- [Python: Mock an inner import - Adam Johnson](https://adamj.eu/tech/2024/05/17/python-mock-inner-import/) [📖](https://read.readwise.io/read/01jbyg6f2kjxxxey17kv0qq6h9) 👤 adamj.eu 💬 386 🗓️ 2024-05-17
+- [The Worst Website In The Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/) [📖](https://read.readwise.io/read/01jbyg6f1k11qvdyjsra105vbz) 👤 Mathew Duggan 💬 1663 🗓️ 2024-05-17
+- [Django from first principles, part 5](https://www.mostlypython.com/django-from-first-principles-part-5/) [📖](https://read.readwise.io/read/01jbyg6f0mpry0ktebz3w8zcr3) 👤 Eric Matthes 💬 2812 🗓️ 2024-05-20
+- [Python: Show all subclasses of a class - Adam Johnson](https://adamj.eu/tech/2024/05/10/python-all-subclasses/) [📖](https://read.readwise.io/read/01jbyg6ezpqrtqpbd01382hxdj) 👤 adamj.eu 💬 188 🗓️ 2024-05-20
+- [How I organize `staticfiles` in my Django projects | joshthomas.dev](https://joshthomas.dev/blog/2024/how-i-organize-staticfiles-in-my-django-projects/) [📖](https://read.readwise.io/read/01jbyg6exnzs5bkkd2qxrmnpf6) 👤 Josh Thomas 💬 1362 🗓️ 2024-05-20
+- [Jeff Triplett's Micro.blog - 🐳 GitHub Actions Cleaning up old Docker container images](https://micro.webology.dev/2024/04/23/github-actions-cleaning.html) [📖](https://read.readwise.io/read/01jbyg6ewjwqd0r1s3g19cqczg) 👤 Jeff Triplett 💬 356 🗓️ 2024-05-20
+- [Sending email in Django using GMail - Software Crafts](https://softwarecrafts.co.uk/100-words/day-76) [📖](https://read.readwise.io/read/01jbyg6evh8cn6rxdeskdkqfnz) 👤 softwarecrafts.co.uk 💬 264 🗓️ 2024-05-20
+- [Test-Driving HTML Templates](https://martinfowler.com/articles/tdd-html-templates.html) [📖](https://read.readwise.io/read/01jbyg6esgwgtk8ff07qptmszr) 👤 Matteo Vaccari 💬 1309 🗓️ 2024-05-22
+- [The right way to use a ManyToManyField in Django](https://www.sankalpjonna.com/learn-django/the-right-way-to-use-a-manytomanyfield-in-django) [📖](https://read.readwise.io/read/01jbyg6epj5jv1xzw0682zwscv) 👤 sankalpjonna.com 💬 1379 🗓️ 2024-05-22
+- [The Python calendar Module: Create Calendars With Python – Real Python](https://realpython.com/python-calendar-module/) [📖](https://read.readwise.io/read/01jbyg6enea52eppkshet4nrzd) 👤 Real Python 💬 3584 🗓️ 2024-05-23
+- [Testing with Python (part 5): the different types of tests](https://www.bitecode.dev/p/testing-with-python-part-5-the-different) [📖](https://read.readwise.io/read/01jbyg6ek9404mb1aard7rymj4) 👤 Bite Code! 💬 4638 🗓️ 2024-05-23
+- [DjangoTricks: Generating Fake Django Model Instances with Factory Boy](https://djangotricks.blogspot.com/2024/05/generating-fake-django-model-instances-with-factory-boy.html) [📖](https://read.readwise.io/read/01jbyg6ej6tbm7shpt4t3agj99) 👤 djangotricks.blogspot.com 💬 989 🗓️ 2024-05-23
+- [Integrate Telegram With Your Django Site Using django-allauth - Konsente Blog](https://blog.konsente.com/post/integrate-telegram-with-your-django-site-using-django-allauth/) [📖](https://read.readwise.io/read/01jbyg6egyqrhgjsv4k9pfzaw0) 👤 Konsente LLC 💬 3105 🗓️ 2024-05-23
+- [Чему меня научил «Монти Пайтон»](https://disgustingmen.com/zhizn/monty-python-for-life/) [📖](https://read.readwise.io/read/01jbyg6efxghmkg1jwe4fwjwj5) 👤 Владимир Бровин 💬 874 🗓️ 2024-05-24
+- [Django Technical Interview Questions](https://learndjango.com/tutorials/django-technical-interview-questions) [📖](https://read.readwise.io/read/01jbyg6eet1v9khhh9rnfxy1y8) 👤 Learn Django 💬 2453 🔖 #django 🗓️ 2024-05-24
+- [Connection refused? Docker networking and how it impacts your image](https://pythonspeed.com/articles/docker-connection-refused/) [📖](https://read.readwise.io/read/01jbyg6edtt4r6k6qjt9mdsrjj) 👤 Itamar Turner-Trauring 💬 1049 🗓️ 2024-05-24
+- [Rapidly creating smoke tests for Django views](https://daniel.feldroy.com/posts/2024-05-rapidly-creating-smoke-tests-for-django-views) [📖](https://read.readwise.io/read/01jbyg6ecpb8pvtxmg370yddvf) 👤 daniel.feldroy.com 💬 352 🗓️ 2024-05-27
+- [The simplest way to add polling to Django with HTMX 🗳️](https://www.photondesigner.com/articles/polling-htmx?ref=yt) [📖](https://read.readwise.io/read/01jbyg6ebkhvf2d00pe4mv91t9) 👤 photondesigner.com 💬 658 🗓️ 2024-05-27
+- [Customizing the Django Admin | TestDriven.io](https://testdriven.io/blog/customize-django-admin/) [📖](https://read.readwise.io/read/01jbyg6e9sqr7fry413f04kks2) 👤 Nik Tomazic 💬 2993 🗓️ 2024-05-28
+- [Build secrets in Docker and Compose v1, the secure way](https://pythonspeed.com/articles/build-secrets-docker-compose/) [📖](https://read.readwise.io/read/01jbyg6e8vafsxnd4vtgy88a3c) 👤 Itamar Turner-Trauring 💬 1134 🗓️ 2024-05-31
+- [One way to fix Python circular imports | Ned Batchelder](https://nedbatchelder.com/blog/202405/one_way_to_fix_python_circular_imports.html) [📖](https://read.readwise.io/read/01jbyg6e80p0wmcpea2yb98n3b) 👤 nedbatchelder.com 💬 541 🗓️ 2024-05-31
+- [Django Async Task Queue with Postgres (no Kafka, Rabbit MQ, Celery, or Redis)](https://simplecto.com/djang-async-task-postgres-not-kafka-celery-redis/) [📖](https://read.readwise.io/read/01jbyg6e722neg6jwmwrc7j2va) 👤 Sam Texas 💬 705 🗓️ 2024-05-31
+- [Как создать волшебника в Django: многошаговые формы / Хабр](https://habr.com/ru/companies/otus/articles/818117/) [📖](https://read.readwise.io/read/01jbyg6e65bsex2j6cx4q06em5) 👤 artem 💬 1253 🗓️ 2024-05-31
+- [Python Friday #229: OAuth2 and JWT to Protect a FastAPI Application - Improve & Repeat](https://improveandrepeat.com/2024/05/python-friday-229-oauth2-and-jwt-to-protect-a-fastapi-application/) [📖](https://read.readwise.io/read/01jbyg6e5ff6c5rv5m292xxm4c) 👤 Johnny Graber 💬 1188 🗓️ 2024-06-03
+- [Путеводитель по базам данных](https://postgrespro.ru/education/books/dbguide) [📖](https://read.readwise.io/read/01jbyg6e4dn5yg06f15zvegk14) 👤 postgrespro.ru 💬 206 🗓️ 2024-06-03
+- [Микроразметка ​Open Graph: что это и как настроить – PR-CY Блог](https://pr-cy.ru/news/p/5407-open-graph-chto-eto-i-pochemu-kazhdyy-dolzhen-nastroit) [📖](https://read.readwise.io/read/01jbyg6e365ckj1s5zwf1sexjp) 👤 Автор: Елена 💬 1265 🗓️ 2024-06-03
+- [Approximate Counting in Django and Postgres | TestDriven.io](https://testdriven.io/blog/django-approximate-counting/) [📖](https://read.readwise.io/read/01jbyg6dzg9wtr9dfqxth79ys7) 👤 Nik Tomazic 💬 1264 🗓️ 2024-06-04
+- [Микроразметка сайта, настройка, проверка, плагины и генераторы](https://www.uplab.ru/blog/the-data-markup-for-yandex-and-google-how-to-configure-and-test/) [📖](https://read.readwise.io/read/01jbyg6dwzfdnmdqr6yf7a2kv3) 👤 Алексей Семёнов редактор Авторы 💬 1272 🗓️ 2024-06-04
+- [Python's many command-line utilities - Python Morsels](https://www.pythonmorsels.com/cli-tools/) [📖](https://read.readwise.io/read/01jbyg6dw5eds91adph5ea84q5) 👤 Trey Hunner 💬 3575 🗓️ 2024-06-04
+- [How to cut a person out of a picture using python | by Vitaliy Hramchenko | Medium](https://v-hramchenko.medium.com/how-to-cut-out-a-person-in-an-image-with-open-source-projects-e5e7f8798d5c) [📖](https://read.readwise.io/read/01jbyg6drk2yatdw4yq2chj1ss) 👤 Vitaliy Hramchenko 💬 744 🗓️ 2024-06-10
+- [Telegram Mini Apps](https://core.telegram.org/bots/webapps) [📖](https://read.readwise.io/read/01jbyg6dqtv3zfh3dmrdcr052q) 👤 core.telegram.org 💬 4825 🔖 #miniapp 🗓️ 2025-06-02
+- [Level up your Tailwind game | oh-no.ooo](https://www.oh-no.ooo/articles/level-up-your-tailwind-game) [📖](https://read.readwise.io/read/01jbyg6dpxb16hc1smk255qzeq) 👤 Lucia Nazzaro 💬 3491 🗓️ 2024-06-11
+- [How do you program for 8h in a row? - Bite code!](https://www.bitecode.dev/p/how-do-you-program-for-8h-in-a-row) [📖](https://read.readwise.io/read/01jbyg6dp2602zddnzpvv1wkbc) 👤 Bite Code! 💬 1757 🗓️ 2024-06-11
+- [The Documentation Tradeoff - by Kent Beck](https://tidyfirst.substack.com/p/the-documentation-tradeoff) [📖](https://read.readwise.io/read/01jbyg6dn2wabx4etp2egrez7x) 👤 Kent Beck 💬 872 🗓️ 2024-06-13
+- [How to Publish a Python Package to PyPI - by Mike Driscoll](https://www.pythonpapers.com/p/how-to-publish-a-python-package-to?isFreemail=true&post_id=145745203&publication_id=1267207&r=2bvz41&triedRedirect=true) [📖](https://read.readwise.io/read/01jbyg6dh8h3z5gfamghrgcf3p) 👤 Mike Driscoll 💬 75 🗓️ 2024-06-18
+- [Building on solid ground: reproducible Docker builds for Python](https://pythonspeed.com/articles/reproducible-docker-builds-python/) [📖](https://read.readwise.io/read/01jbyg6dgcgxnwtav66k25prcq) 👤 Itamar Turner-Trauring 💬 1019 🗓️ 2024-06-18
+- [DjangoBook.com](https://djangobook.com) [📖](https://read.readwise.io/read/01jbyg6dff9rf1vjy85t84wg30) 👤 djangobook.com 💬 72 🗓️ 2024-06-18
+- [File Uploads with Django & DRF](https://django.wtf/blog/file-uploads-with-django-drf/) [📖](https://read.readwise.io/read/01jbyg6deepznm3ng52j6w1jbj) 👤 Dani Hodovic 💬 2580 🗓️ 2024-06-18
+- [Optimizing Test Execution: Running live_server Tests Last with Pytest ⚡ | TimOnWeb](https://timonweb.com/django/optimizing-test-execution-running-live_server-tests-last-with-pytest/) [📖](https://read.readwise.io/read/01jbyg6dda3a4kj6btf6azwp4e) 👤 Tim Kamanin 💬 413 🗓️ 2024-06-18
+- [Optimal SQLite settings for Django – Giovanni Collazo](https://gcollazo.com/optimal-sqlite-settings-for-django/) [📖](https://read.readwise.io/read/01jbyg6dc87abwa4pm19sgkbpd) 👤 gcollazo.com 💬 935 🗓️ 2024-06-18
+- [12 Design Patterns in Vue | Michael Thiessen](https://michaelnthiessen.com/12-design-patterns-vue?campaign=150&source=weeklyVueNews) [📖](https://read.readwise.io/read/01jbyg6da9a4a255mp6g0mgbdb) 👤 michaelnthiessen.com 💬 1681 🗓️ 2024-06-18
+- [Conquering Complexity: Building a Scalable Single File Component (SFC) Architecture in Vue.js](https://www.blogs.shitalmainali.com.np/conquering-complexity-building-a-scalable-single-file-component-sfc-architecture-in-vuejs?campaign=150&source=weeklyVueNews) [📖](https://read.readwise.io/read/01jbyg6d9c03zz22tjsnz9fgeb) 👤 Shital Mainali 💬 742 🗓️ 2024-06-18
+- [A virtual DOM in 200 lines of JavaScript – Marcelo Lazaroni – Developing for the Interwebs](https://lazamar.github.io/virtual-dom/?campaign=150&source=weeklyVueNews) [📖](https://read.readwise.io/read/01jbyg6d87v2wckgtcqdvyq7nj) 👤 Marcelo Lazaroni 💬 3511 🔖 #diy 🗓️ 2024-06-18
+- [Mary Rose Cook](https://maryrosecook.com) [📖](https://read.readwise.io/read/01jbyg6d77n2rm4rz6zvy5raad) 👤 maryrosecook.com 💬 285 🗓️ 2024-06-18
+- [Gitlet](http://gitlet.maryrosecook.com) [📖](https://read.readwise.io/read/01jbyg6d6evbqyvs1ffwe993xe) 👤 gitlet.maryrosecook.com 💬 462 🔖 #diy 🗓️ 2024-06-18
+- [The Third Bit · The Third Bit](https://third-bit.com) [📖](https://read.readwise.io/read/01jbyg6d5kx8jjp78hjshjxt49) 👤 third-bit.com 💬 257 🗓️ 2024-06-18
+- [Software Design by Example](https://third-bit.com/sdxpy/) [📖](https://read.readwise.io/read/01jbyg6d4k53aexfhwq34mkegh) 👤 third-bit.com 💬 307 🗓️ 2024-06-18
+- [JavaScript Standard Style](https://standardjs.com) [📖](https://read.readwise.io/read/01jbyg6d3pm3r7z3xws2msmppg) 👤 standardjs.com 💬 3001 🗓️ 2024-06-18
+- [JavaScript Promises - Understand JavaScript Promises by Building a Simple Promise Example | by Trey Huffine | Level Up Coding](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720?gi=0b9fa7ff57a8) [📖](https://read.readwise.io/read/01jbyg6d2pza5rt1mp0hhpzfvh) 👤 Trey Huffine 💬 849 🗓️ 2024-06-19
+- [Home - Django API Domains](https://phalt.github.io/django-api-domains/) [📖](https://read.readwise.io/read/01jbyg6d14dya7dwnz6zmzpezg) 👤 phalt.github.io 💬 208 🗓️ 2024-06-19
+- [Tips for improving your CV - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/tips-for-improving-your-cv/) [📖](https://read.readwise.io/read/01jbyg6d05avynxjc827h8zt3x) 👤 Dmitry Kudryavtsev 💬 2339 🗓️ 2024-06-19
+- [Более 100 Вопросов с собеседований Python / Хабр](https://habr.com/ru/articles/823202/) [📖](https://read.readwise.io/read/01jbyg6cz70r01x63165nft7aj) 👤 Overtaken 💬 18472 🗓️ 2024-06-20
+- [The Fuzzing Book](https://www.fuzzingbook.org) [📖](https://read.readwise.io/read/01jbyg6cybb5drtjf5ezqw3ebs) 👤 About the Authors¶ 💬 971 🗓️ 2024-06-20
+- [Let's build a browser engine! Part 1: Getting started](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) [📖](https://read.readwise.io/read/01jbyg6cxd2mvk64ty8he9fv8j) 👤 Matt Brubeck 💬 1341 🔖 #diy 🗓️ 2024-06-21
+- [Web Browser Engineering](https://browser.engineering) [📖](https://read.readwise.io/read/01jbyg6cwfc8ck21gx50h5xzxh) 👤 Pavel Panchekha & Chris Harrelson 💬 172 🔖 #diy, #python 🗓️ 2024-11-29
+- [How Does a Database Work? | Let’s Build a Simple Database](https://cstack.github.io/db_tutorial/) [📖](https://read.readwise.io/read/01jbyg6crakntz24f830m4rzxz) 👤 cstack.github.io 🔖 #diy 🗓️ 2024-06-21
+- [Let's Dev: A Package Manager | Yarn Blog](https://classic.yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/) [📖](https://read.readwise.io/read/01jbyg6cq699mm5en0sy55q5kx) 👤 classic.yarnpkg.com 💬 4633 🔖 #diy 🗓️ 2024-06-21
+- [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html) [📖](https://read.readwise.io/read/01jbyg6cpaed5rkarqyadtc24t) 👤 viewsourcecode.org 💬 204 🔖 #diy 🗓️ 2024-06-21
+- [How to build a text editor with Python and curses](https://wasimlorgat.com/posts/editor) [📖](https://read.readwise.io/read/01jbyg6cnar0pvmfpxttsk12he) 👤 Wasim Lorgat 💬 3445 🔖 #diy 🗓️ 2024-06-21
+- [Crafting Interpreters](https://craftinginterpreters.com) [📖](https://read.readwise.io/read/01jbyg6cmep6hy7k4vqbw3qhzt) 👤 craftinginterpreters.com 💬 327 🔖 #diy 🗓️ 2024-06-21
+- [Django: Test for pending migrations - Adam Johnson](https://adamj.eu/tech/2024/06/23/django-test-pending-migrations/) [📖](https://read.readwise.io/read/01jbyg6cjrm0mskex93035t51w) 👤 adamj.eu 💬 601 🔖 #try, #django, #testing 🗓️ 2024-06-23
+- [Unit Testing in Nuxt](https://masteringnuxt.com/blog/unit-testing-in-nuxt) [📖](https://read.readwise.io/read/01jbyg6cg85bk0enrdd2ydd5k1) 👤 masteringnuxt.com 💬 1148 🗓️ 2024-06-29
+- [Jeff Triplett's Micro.blog](https://micro.webology.dev/2024/06/28/a-just-recipe.html) [📖](https://read.readwise.io/read/01jbyg6cfj22rd6qqwvwd3323v) 👤 micro.webology.dev 💬 201 🗓️ 2024-06-29
+- [Jeff Triplett's Micro.blog](https://micro.webology.dev/2024/06/29/using-just-and.html) [📖](https://read.readwise.io/read/01jbyg6cems07d33hgj7ap2bs0) 👤 micro.webology.dev 💬 399 🗓️ 2024-06-30
+- [How Postgres is Misused and Abused in the Wild](https://karenjex.blogspot.com/2024/07/how-postgres-is-misused-and-abused.html?m=1) [📖](https://read.readwise.io/read/01jbyg6cdpkhgn1rqfx2381fsx) 👤 Karen Jex 💬 5931 🗓️ 2024-07-01
+- [Безопасность в Django: защита от распространенных угроз веб-приложений / Хабр](https://habr.com/ru/companies/vk/articles/823740/) [📖](https://read.readwise.io/read/01jbyg6ccsbrhnhzdxfvcs0xbh) 👤 Петров Алексей 💬 5952 🗓️ 2024-07-02
+- [Data Fetching Patterns in Single-Page Applications](https://martinfowler.com/articles/data-fetch-spa.html?campaign=152&source=weeklyVueNews) [📖](https://read.readwise.io/read/01jbyg6cbr6d6tkzregtpzxyeg) 👤 Juntao QIU | 邱俊涛 💬 10292 🗓️ 2024-07-05
+- [Nested Subquerys in Django - Software Crafts](https://softwarecrafts.co.uk/100-words/day-119) [📖](https://read.readwise.io/read/01jbyg6cay8t039v9skhayg509) 👤 softwarecrafts.co.uk 💬 468 🗓️ 2024-07-05
+- [Django Testing Toolbox · Matt Layman](https://www.mattlayman.com/blog/2020/django-testing-toolbox/) [📖](https://read.readwise.io/read/01jbyg6c97ry8t7ndzet5qm5tb) 👤 mattlayman.com 💬 1693 🗓️ 2024-07-05
+- [Django Testing Toolbox · Matt Layman](https://www.mattlayman.com/blog/2020/django-testing-toolbox) [📖](https://read.readwise.io/read/01jbyg6c4fqxek9njjen3mw0p2) 👤 mattlayman.com 💬 1693 🗓️ 2024-07-05
+- [Jeff Triplett's Micro.blog](https://micro.webology.dev/2024/07/06/django-extensions-is.html) [📖](https://read.readwise.io/read/01jbyg6bzs9x61417yhqdyq6n4) 👤 micro.webology.dev 💬 229 🗓️ 2024-07-06
+- [Programming WebRTC: Build Real-Time Streaming Applications for the Web by Karl Stolley](https://pragprog.com/titles/ksrtc/programming-webrtc/) [📖](https://read.readwise.io/read/01jbyg6byvwhjk215mfbvtx34s) 👤 Karl Stolley 💬 734 🗓️ 2024-07-08
+- [</> htmx ~ Locality of Behaviour (LoB)](https://htmx.org/essays/locality-of-behaviour/) [📖](https://read.readwise.io/read/01jbyg6bwy252fd8j5nhz3mt9m) 👤 htmx.org 💬 772 🗓️ 2024-07-08
+- [Unit of Work Pattern](https://www.cosmicpython.com/book/chapter_06_uow.html) [📖](https://read.readwise.io/read/01jbyg6bsb6djtjcnrv1td940t) 👤 cosmicpython.com 💬 3047 🗓️ 2024-07-08
+- [Where to Put Business Logic Django? | Sunscrapers](https://sunscrapers.com/blog/where-to-put-business-logic-django/) [📖](https://read.readwise.io/read/01jbyg6brbpd1cdax2fy435s4v) 👤 Michał Nakoneczny 💬 2250 🗓️ 2024-07-09
+- [Using HTMX with FastAPI | TestDriven.io](https://testdriven.io/blog/fastapi-htmx/) [📖](https://read.readwise.io/read/01jbyg6bqcfqr2ptmt51y5brs8) 👤 Paul Esch-Laurent 💬 1687 🗓️ 2024-07-10
+- [Dockerizing a Nuxt App: A Comprehensive Guide | Michael Hoffmann](https://mokkapps.de/blog/dockerizing-a-nuxt-app) [📖](https://read.readwise.io/read/01jbyg6bpfvraj2mw1ndxpvfwf) 👤 mokkapps.de 💬 703 🗓️ 2024-07-10
+- [Sensible defaults | Thoughtworks](https://www.thoughtworks.com/insights/topic/sensible-defaults) [📖](https://read.readwise.io/read/01jbyg6bmz4f30q5f35x842zff) 👤 thoughtworks.com 💬 575 🗓️ 2024-07-12
+- [Surprises with Rust's `as` (and Python division) | Anna Hope](https://annahope.me/blog/rust-as/) [📖](https://read.readwise.io/read/01jbyg6bm53h4tqedn9w6a11f9) 👤 Anna Hope 💬 2399 🗓️ 2024-07-12
+- [Software Testing Anti-patterns · Codepipes Blog](https://blog.codepipes.com/testing/software-testing-antipatterns.html) [📖](https://read.readwise.io/read/01jbyg6bkbz32z9t987cwynesy) 👤 blog.codepipes.com 💬 9220 🗓️ 2024-07-12
+- [What is React? | Epic React by Kent C. Dodds](https://www.epicreact.dev/what-is-react?ck_subscriber_id=2517260312) [📖](https://read.readwise.io/read/01jbyg6bfce95pd27qdh8qb47q) 👤 Kent C. Dodds 💬 1117 🗓️ 2024-07-16
+- [The best Docker base image for your Python application (May 2024)](https://pythonspeed.com/articles/base-image-python-docker-images/) [📖](https://read.readwise.io/read/01jbyg6bembvq63xz2vdd53sw2) 👤 Itamar Turner-Trauring 💬 1249 🗓️ 2024-07-16
+- [ArjanCodes | Python Doc Generation Made Easy With PDoc](https://arjancodes.com/blog/generate-python-docs-instantly-with-pdoc/) [📖](https://read.readwise.io/read/01jbyg6bdqy1y0ph2dwc4e7pay) 👤 ArjanCodes 💬 636 🗓️ 2024-07-16
+- [Getting 100% code coverage doesn't eliminate bugs · Codepipes Blog](https://blog.codepipes.com/testing/code-coverage.html) [📖](https://read.readwise.io/read/01jbyg6bcpzjhv37k2w83gdbwk) 👤 blog.codepipes.com 💬 834 🗓️ 2024-07-16
+- [Keeping things in sync: derive vs test - lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/keeping-things-in-sync-derive-vs-test/) [📖](https://read.readwise.io/read/01jbyg6bbk0hfkf7dk9s0aeg6t) 👤 Luke Plant 💬 3618 🗓️ 2024-07-16
+- [Use Vue with Django (including Auth) in 15 mins 🍒](https://www.photondesigner.com/articles/vue-auth) [📖](https://read.readwise.io/read/01jbyg6ban5xbkqd8050wmvpbx) 👤 photondesigner.com 💬 1824 🗓️ 2024-07-16
+- [django-slick-reporting.com](https://django-slick-reporting.com) [📖](https://read.readwise.io/read/01jbyg6b9qqhy7a91pxdtpfmvm) 👤 django-slick-reporting.com 💬 99 🗓️ 2024-07-16
+- [Integrating HeadlessUI and TailwindCSS with Nuxt.js: A Comprehensive Guide](https://masteringnuxt.com/blog/integrating-headlessui-and-tailwindcss-with-nuxtjs-a-comprehensive-guide?campaign=154&friend=MOKKAPPS&source=weeklyVueNews) [📖](https://read.readwise.io/read/01jbyg6b8zzb0g0sedtfx8mqeg) 👤 masteringnuxt.com 💬 2401 🗓️ 2024-07-16
+- [How to Integrate Shadcn with Nuxt.js](https://masteringnuxt.com/blog/how-to-integrate-shadcn-with-nuxtjs?campaign=154&friend=MOKKAPPs&source=weeklyVueNews) [📖](https://read.readwise.io/read/01jbyg6b87hx83j3evv8t41yjx) 👤 masteringnuxt.com 💬 1143 🗓️ 2024-07-16
+- [Upgrading to Nuxt 4 | Vue Mastery](https://www.vuemastery.com/blog/upgrading-to-nuxt-4/) [📖](https://read.readwise.io/read/01jbyg6b2ttf98gbrdmpt0vdag) 👤 Andy Li 💬 768 🗓️ 2024-07-18
+- [Minimalist Nuxt Authentication | Vue Mastery](https://www.vuemastery.com/blog/minimalist-nuxt-authentication/) [📖](https://read.readwise.io/read/01jbyg6b1ymm78e1g72x3cz1s4) 👤 Timi Omoyeni 💬 3244 🗓️ 2024-07-18
+- [Start with the Interface (and don't gold plate!) | Michael Thiessen](https://michaelnthiessen.com/start-with-the-interface?ck_subscriber_id=2108193410) [📖](https://read.readwise.io/read/01jbyg6b1382fdgasbh68185qe) 👤 michaelnthiessen.com 💬 885 🗓️ 2024-07-18
+- [I messed up my codebase (and the lessons I learned) | Michael Thiessen](https://michaelnthiessen.com/messed-up-my-codebase?ck_subscriber_id=2108193410) [📖](https://read.readwise.io/read/01jbyg6b02681axfv5x0bh0k1a) 👤 michaelnthiessen.com 💬 1191 🗓️ 2024-07-18
+- [Дёшево, сердито и не жмёт: как работает запуск контейнеров в Yandex Serverless Containers / Хабр](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/759524/) [📖](https://read.readwise.io/read/01jbyg6ay4zq00pvh2x6n7886m) 👤 Daniil Pivovarov 💬 1628 🗓️ 2024-07-21
+- [Let's blame the dev who pressed "Deploy" - Dmitry Kudryavtsev](https://yieldcode.blog/post/lets-blame-the-dev-who-pressed-deploy/) [📖](https://read.readwise.io/read/01jbyg6ax2hxhp12q9ea6az46c) 👤 Dmitry Kudryavtsev 💬 1083 🗓️ 2024-07-22
+- [Getting features into Django - Jacob Kaplan-Moss](https://jacobian.org/2013/may/23/getting-features-into-django/) [📖](https://read.readwise.io/read/01jbyg6aw2wb65dp18qvcpg6tw) 👤 jacobian.org 💬 655 🗓️ 2024-07-22
+- [Как задеплоить своего телеграм-бота (почти) бесплатно — Quickguide в облачный Serverless / Хабр](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/735988/) [📖](https://read.readwise.io/read/01jbyg6ap3kfn2prmvsjpavep4) 👤 abrekhov 💬 912 🗓️ 2024-07-22
+- [Buying products for your job: estimating value, convincing your boss](https://pythonspeed.com/articles/programmers-buying-guide/) [📖](https://read.readwise.io/read/01jbyg6amf0hgczsys3fvvztk9) 👤 Itamar Turner-Trauring 💬 2364 🗓️ 2024-07-25
+- [Build your own SQLite, Part 1: Listing tables](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables) [📖](https://read.readwise.io/read/01jbyg6akfgrthxcej1ef7a2v2) 👤 Geoffrey Copin 💬 2701 🔖 #diy 🗓️ 2024-07-26
+- [Testing with Python (part 8): purity test - Bite code!](https://www.bitecode.dev/p/testing-with-python-part-8-purity) [📖](https://read.readwise.io/read/01jbyg6ahyjjrjzrer9sb8g6j8) 👤 Bite Code! 💬 3362 🗓️ 2024-07-26
+- [Контейнеры, контейнеры, контейнеры!](https://iximiuz.com/ru/posts/containers-everywhere/) [📖](https://read.readwise.io/read/01jbyg6acewkrtgvwywees2gej) 👤 Ivan Velichko 💬 744 🗓️ 2024-07-30
+- [Monolith -> Services: Theory & Practice | by Kent Beck | Medium](https://medium.com/@kentbeck_7670/monolith-services-theory-practice-617e4546a879) [📖](https://read.readwise.io/read/01jbyg6ab90vs9dxb8adas952n) 👤 Kent Beck 💬 684 🗓️ 2024-07-30
+- [Reducing downtime in Django with django-safemigrate · Better Simple](https://www.better-simple.com/django/2024/07/22/django-safemigrate/) [📖](https://read.readwise.io/read/01jbyg6aadvx4g7vsv2ct1v4k7) 👤 better-simple.com 💬 1339 🗓️ 2024-07-31
+- [Create Beautiful PDFs with HTML, CSS, and Markdown | Michael Thiessen](https://michaelnthiessen.com/create-beautiful-pdfs-with-html-css-and-markdown?ck_subscriber_id=2108193410) [📖](https://read.readwise.io/read/01jbyg6a83zzap42ry8sp8acw0) 👤 michaelnthiessen.com 💬 2592 🔖 #nuxt 🗓️ 2024-08-01
+- [Prisma with Nuxt 3](https://masteringnuxt.com/blog/getting-data-with-prisma?ck_subscriber_id=2108193410) [📖](https://read.readwise.io/read/01jbyg6a74d956af4gc48myrmk) 👤 masteringnuxt.com 💬 1381 🔖 #db, #nuxt 🗓️ 2024-08-01
+- [How to Write an Installable Django App – Real Python](https://realpython.com/installable-django-app/) [📖](https://read.readwise.io/read/01jbyg6a4q63w68a0ygxtha8d2) 👤 Real Python 💬 4164 🔖 #django 🗓️ 2024-08-01
+- [How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/) [📖](https://read.readwise.io/read/01jbyg6a2kzsv9wt1q1xrc0b3q) 👤 Bhupesh Varshney 💬 2368 🗓️ 2024-08-05
+- [Slim(toolkit) playground | iximiuz Labs](https://labs.iximiuz.com/playgrounds/slimtoolkit) [📖](https://read.readwise.io/read/01jbyg6a1dke2bkrejasx3m8pc) 👤 labs.iximiuz.com 💬 22 🔖 #docker 🗓️ 2024-08-05
+- [TIL: 8 versions of UUID and when to use them | nicole@web](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/) [📖](https://read.readwise.io/read/01jbyg6a04vt852qm6117emr1r) 👤 ntietz.com 💬 597 🗓️ 2024-08-05
+- [Testing with Python (part 9): the extra mile](https://www.bitecode.dev/p/testing-with-python-part-9-the-extra) [📖](https://read.readwise.io/read/01jbyg69y1b93xrhtat5njnpr9) 👤 Bite Code! 💬 2004 🔖 #pytest 🗓️ 2024-08-07
+- [How To Mock In Pytest? (A Comprehensive Guide) | Pytest with Eric](https://pytest-with-eric.com/mocking/pytest-mocking/) [📖](https://read.readwise.io/read/01jbyg69wpz5nmcyc7t2adrb39) 👤 pytest-with-eric.com 💬 2392 🔖 #pytest 🗓️ 2024-08-07
+- [Алгоритмы — самый провальный этап собеседований / Хабр](https://habr.com/ru/articles/833908/) [📖](https://read.readwise.io/read/01jbyg69twykzthsg1fkprxgbm) 👤 Задорожный Семён 💬 1886 🗓️ 2024-08-08
+- [Networked Thought](https://jzhao.xyz/posts/networked-thought) [📖](https://read.readwise.io/read/01jbyg69nqxj2h98fsva0by30m) 👤 jzhao.xyz 💬 1636 🗓️ 2024-08-10
+- [How Postgres stores data on disk – this one's a page turner | drew's dev blog](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/) [📖](https://read.readwise.io/read/01jbyg69k2wsra2fps5714nqwk) 👤 drew.silcock.dev 💬 5918 🗓️ 2024-08-11
+- [Bookshelf](https://grishaev.me/bookshelf/) [📖](https://read.readwise.io/read/01jbyg69c9s75je7afpmh57mgy) 👤 grishaev.me 💬 4339 🗓️ 2024-08-12
+- [Почему в переписке нельзя использовать «Доброго времени суток»?](https://bureau.ru/soviet/20180923/) [📖](https://read.readwise.io/read/01jbyg69b19az25tyaf2ykszqe) 👤 Людмила Сарычева 💬 220 🗓️ 2024-08-12
+- [The Third Bit · Tutorials I Would Like to Attend](https://third-bit.com/2024/08/12/tutorials-i-would-like-to-attend/) [📖](https://read.readwise.io/read/01jbyg69a6dedbkkqbn3bpqt27) 👤 third-bit.com 💬 376 🗓️ 2024-08-13
+- [restic · Backups done right!](https://restic.net) [📖](https://read.readwise.io/read/01jbyg699d0vtempdsee0y6cws) 👤 restic.net 💬 560 🗓️ 2024-08-13
+- [Python Friday #239: Asynchronous Tests With Pytest - Improve & Repeat](https://improveandrepeat.com/2024/08/python-friday-239-asynchronous-tests-with-pytest/) [📖](https://read.readwise.io/read/01jbyg698b6epqpr3sz598312t) 👤 Johnny Graber 💬 443 🔖 #pytest 🗓️ 2024-08-13
+- [Rust vs C++: A Real-World Perspective | corrode Rust Consulting](https://corrode.dev/blog/cpp-rust-interop/) [📖](https://read.readwise.io/read/01jbyg695j0a5zzw5gp2h5n6bc) 👤 Corrode Rust Consulting 💬 1415 🔖 #rust 🗓️ 2024-08-14
+- [Django: create sub-commands within a management command - Adam Johnson](https://adamj.eu/tech/2024/08/14/django-management-command-sub-commands/) [📖](https://read.readwise.io/read/01jbyg694h8hgh89xe65tqckyp) 👤 adamj.eu 💬 689 🔖 #django 🗓️ 2024-08-14
+- [How to level up your Git game with GitHub CLI - The GitHub Blog](https://github.blog/developer-skills/github/how-to-level-up-your-git-game-with-github-cli/) [📖](https://read.readwise.io/read/01jbyg6936105x3rj9b87zxyet) 👤 Michelle Duke 💬 2053 🗓️ 2024-08-16
+- [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) [📖](https://read.readwise.io/read/01jbyg690cb5ps8aby154ett7d) 👤 Mike Caulfield 💬 4647 🗓️ 2024-08-16
+- [Combine iterables with zip : Juha-Matti Santala](https://hamatti.org/posts/combine-iterables-with-zip/) [📖](https://read.readwise.io/read/01jbyg68y5fqkcs6z1ydqvhcse) 👤 Juha-Matti Santala 💬 326 🔖 #python 🗓️ 2024-08-17
+- [Python Friday #240: Asynchronous SQLAlchemy With FastAPI - Improve & Repeat](https://improveandrepeat.com/2024/08/python-friday-240-asynchronous-sqlalchemy-with-fastapi/) [📖](https://read.readwise.io/read/01jbyg68x0mvhdz0qq5ppz8w9z) 👤 Johnny Graber 💬 1550 🔖 #pytest, #fastapi, #sqlalchemy 🗓️ 2024-08-17
+- [Creating rows for django-tables2 with HTMX · Better Simple](https://www.better-simple.com/django/2024/08/17/django-tables-htmx-create-table-view/) [📖](https://read.readwise.io/read/01jbyg68vcer0p1q3xt4qexbet) 👤 better-simple.com 💬 1537 🗓️ 2024-08-17
+- [Finite State Machine Meaning, Working, and Examples | Spiceworks - Spiceworks](https://www.spiceworks.com/tech/tech-general/articles/what-is-fsm/) [📖](https://read.readwise.io/read/01jbyg68t2mv4svhwa6rxdmpbp) 👤 Vijay Kanade 💬 2657 🗓️ 2024-08-17
+- [Okay, I really like WezTerm | Alex Plescan](https://alexplescan.com/posts/2024/08/10/wezterm/) [📖](https://read.readwise.io/read/01jbyg68rkc6dn473jz1cq4pq7) 👤 Alex Plescan 💬 5503 🗓️ 2024-08-18
+- [The Zettelkasten Method — LessWrong](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1) [📖](https://read.readwise.io/read/01jbyg68ksgge7747smw1r4xsd) 👤 abramdemski 💬 12588 🗓️ 2024-08-18
+- [GitHub - MaggieAppleton/digital-gardeners: Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs](https://github.com/MaggieAppleton/digital-gardeners) [📖](https://read.readwise.io/read/01jbyg68j029ntm4re43cz358v) 👤 MaggieAppleton 💬 1469 🗓️ 2024-08-18
+- [Analyze Memory Leaks in Your Nuxt App | Michael Hoffmann](https://mokkapps.de/blog/analyze-memory-leaks-in-your-nuxt-app) [📖](https://read.readwise.io/read/01jbyg68g9m7mdmq964k1g57py) 👤 mokkapps.de 💬 842 🔖 #nuxt 🗓️ 2024-08-19
+- [Рассказ о Емаксе](https://grishaev.me/emacs-story/) [📖](https://read.readwise.io/read/01jbyg68f5mhyfn8jtmcjxtbv1) 👤 grishaev.me 💬 3648 🗓️ 2024-08-19
+- [Limiting Content Types in a Django Model | TestDriven.io](https://testdriven.io/blog/django-limiting-content-types/) [📖](https://read.readwise.io/read/01jbyg68dsqpehbkzs91z4mbw3) 👤 Nik Tomazic 💬 528 🔖 #django 🗓️ 2024-08-20
+- [Exploring JS: JavaScript books for programmers](https://exploringjs.com) [📖](https://read.readwise.io/read/01jbyg68cgw8fvpqjbm7rvkawg) 👤 exploringjs.com 💬 273 🔖 #javascript, #typescript 🗓️ 2024-08-20
+- [What's the deal with setuptools, setup.py, pyproject.toml and wheels?](https://www.bitecode.dev/p/whats-the-deal-with-setuptools-setuppy) [📖](https://read.readwise.io/read/01jbyg68bfvmat3s8tagxw8wf5) 👤 Bite Code! 💬 3749 🔖 #python 🗓️ 2024-08-20
+- [Vector embeddings made simple with the Elasticsearch-DSL client for Python — Search Labs](https://www.elastic.co/search-labs/blog/elasticsearch-dsl-python-vectors) [📖](https://read.readwise.io/read/01jbyg689xk56g605cpeks1yrr) 👤 Miguel Grinberg 💬 3927 🔖 #python, #fastapi 🗓️ 2024-08-20
+- [Patterns for Memory Efficient DOM Manipulation with Modern Vanilla JavaScript – Frontend Masters Boost](https://frontendmasters.com/blog/patterns-for-memory-efficient-dom-manipulation/) [📖](https://read.readwise.io/read/01jbyg688e9j49v2cs728w6h1k) 👤 Marc Grabanski Frontend Masters 💬 2224 🔖 #javascript 🗓️ 2024-08-20
+- [Combining Rails Hotwire with Django to Ship your SaaS Faster](https://saashammer.com/hotwire-django/) [📖](https://read.readwise.io/read/01jbyg68629venvkwtk8amry2h) 👤 Michael Yin 💬 4411 🔖 #django 🗓️ 2024-08-21
+- [uv](https://docs.astral.sh/uv/) [📖](https://read.readwise.io/read/01jbyg684tzgacjm7vwpkt8cge) 👤 charliermarsh 💬 715 🔖 #python, #devtools 🗓️ 2024-08-21
+- [Deep dive in CORS: History, how it works, and best practices · Ilija Eftimov 👨‍🚀](https://ieftimov.com/posts/deep-dive-cors-history-how-it-works-best-practices/) [📖](https://read.readwise.io/read/01jbyg683cdj5579m6ff07tkdy) 👤 Ilija Eftimov 💬 4053 🗓️ 2024-08-21
+- [Asynchronous Tasks with FastAPI and Celery | TestDriven.io](https://testdriven.io/blog/fastapi-and-celery/) [📖](https://read.readwise.io/read/01jbyg681r958fcvpszy9zg1sv) 👤 Michael Herman 💬 2052 🔖 #try, #celery, #fastapi 🗓️ 2024-08-22
+- [Style guideline for Go packages · rakyll.org](https://rakyll.org/style-packages/) [📖](https://read.readwise.io/read/01jbyg680ckab9zgspaa2ygktd) 👤 rakyll.org 💬 1415 🗓️ 2024-08-22
+- [Exploring the fmt Package in Go: Formatting and Printing Made Easy - Golangly](https://golangly.com/index.php/2023/09/16/exploring-the-fmt-package-in-go/) [📖](https://read.readwise.io/read/01jbyg67yg1zdyz33mv6n2gnsa) 👤 Ashish Singh 💬 1 🗓️ 2024-08-25
+- [Cryptography in Go today - LogRocket Blog](https://blog.logrocket.com/cryptography-in-go-today/) [📖](https://read.readwise.io/read/01jbyg67xj31jaq97xfawqshhm) 👤 Yusuff Faruq 💬 1821 🗓️ 2024-08-25
+- [Learn Golang encryption and decryption - LogRocket Blog](https://blog.logrocket.com/learn-golang-encryption-decryption/) [📖](https://read.readwise.io/read/01jbyg67wstqjp26wtty689en1) 👤 Precious Luke 💬 1952 🗓️ 2024-08-25
+- [Charlie Marsh on Astral, UV and the Python packaging ecosystem](https://www.bitecode.dev/p/charlie-marsh-on-astral-uv-and-the) [📖](https://read.readwise.io/read/01jbyg67vkv0v7jkk5mvbccr57) 👤 Bite Code! 💬 373 🗓️ 2024-08-26
+- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html) [📖](https://read.readwise.io/read/01jbyg6739d87458fhcxnjkfjv) 👤 Dave Cheney 💬 13375 🔖 #go 🗓️ 2024-08-26
+- [Introducing Nuxt Scripts · Nuxt Blog](https://nuxt.com/blog/nuxt-scripts) [📖](https://read.readwise.io/read/01jbyg6727y7nvsgb1q020afn0) 👤 nuxt.com 💬 1334 🔖 #nuxt 🗓️ 2024-08-27
+- [Django UserProfile Model | LearnDjango.com](https://learndjango.com/tutorials/django-userprofile-model) [📖](https://read.readwise.io/read/01jbyg670aar22r2c667q5n73j) 👤 Learn Django 💬 1650 🔖 #django 🗓️ 2024-08-27
+- [uv: Unified Python packaging](https://simonwillison.net/2024/Aug/20/uv-unified-python-packaging/) [📖](https://read.readwise.io/read/01jbyg66z76yrk9j8tj1fnfzp5) 👤 Simon Willison 💬 376 🔖 #python 🗓️ 2024-08-27
+- [How to Conditionally Run Code Only on the Server or Only on the Client in a Nuxt App](https://masteringnuxt.com/blog/how-to-conditionally-run-code-only-on-the-server-or-only-on-the-client-in-a-nuxt-app?friend=MOKKAPPS) [📖](https://read.readwise.io/read/01jbyg66y2a3vn1wg7tn08ks6b) 👤 masteringnuxt.com 💬 367 🔖 #nuxt 🗓️ 2024-08-27
+- [Django Best Practices: Models | LearnDjango.com](https://learndjango.com/tutorials/django-best-practices-models) [📖](https://read.readwise.io/read/01jbyg66ww40604x5c013cbwne) 👤 Learn Django 💬 1368 🔖 #django 🗓️ 2024-08-27
+- [Web Scraping With Scrapy and MongoDB – Real Python](https://realpython.com/web-scraping-with-scrapy-and-mongodb/) [📖](https://read.readwise.io/read/01jbyg66tqw42qedjkqbw3ncmy) 👤 Real Python 💬 1537 🔖 #python, #mongodb 🗓️ 2024-08-29
+- [Cryptography in Go: AES explained — Bitfield Consulting](https://bitfieldconsulting.com/posts/cryptography-aes-internals) [📖](https://read.readwise.io/read/01jbyg66pk0zhrb9prazqvd2j2) 👤 John Arundel 💬 1963 🗓️ 2024-08-29
+- [uv, Docker, and the Return to Normalcy • Buttondown](https://buttondown.com/hynek/archive/uv-docker-and-the-return-to-normalcy/) [📖](https://read.readwise.io/read/01jbyg66nq6v46pmwmtmkpe588) 👤 buttondown.com 💬 1014 🗓️ 2024-08-29
+- [В поиске оптимального подхода к миграциям в Go / Хабр](https://habr.com/ru/articles/780280/) [📖](https://read.readwise.io/read/01jbyg66kwj15f0g510jbt7ayq) 👤 Nina Pakshina 💬 2018 🔖 #db, #go 🗓️ 2024-08-29
+- [Implementing JWT Authentication in Golang REST API - Detailed Guide - codewithmukesh](https://codewithmukesh.com/blog/jwt-authentication-in-golang/) [📖](https://read.readwise.io/read/01jbyg66jx9gq52j2w9f1q5f5c) 👤 Mukesh Murugan 💬 3461 🔖 #db, #go, #rest, #tutorial 🗓️ 2024-08-29
+- [How to Terminate Go Programs Elegantly – A Guide to Graceful Shutdowns](https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/) [📖](https://read.readwise.io/read/01jbyg66j3r2dbjavhc140pxg6) 👤 Alex Pliutau 💬 1377 🗓️ 2024-08-29
+- [How to Create Database Migrations in Go Using Docker and Postgres](https://www.freecodecamp.org/news/how-to-create-database-migrations-in-go/) [📖](https://read.readwise.io/read/01jbyg66h4m1sxsx9a1smejf1r) 👤 Okure U. Edet 💬 1451 🔖 #db, #go 🗓️ 2024-08-29
+- [How to Build a Real-Time Chat App With Go, Fiber and HTMX](https://www.freecodecamp.org/news/real-time-chat-with-go-fiber-htmx/) [📖](https://read.readwise.io/read/01jbyg66g5md6qjxdq0m07pkp0) 👤 Akinwumi Iyanuoluwa Ayomiposi 💬 1543 🔖 #go, #try, #htmx, #tutorial 🗓️ 2024-08-29
+- [X-Forwarded-For :: TheOrangeOne](https://theorangeone.net/posts/x-forwarded-for/) [📖](https://read.readwise.io/read/01jbyg66fcbgs87ej1p8ksa2f5) 👤 TheOrangeOne 💬 1532 🗓️ 2024-08-30
+- [UV with Django](https://blog.pecar.me/uv-with-django) [📖](https://read.readwise.io/read/01jbyg66ektpyg6eztd2az4kah) 👤 Anže 💬 1043 🔖 #uv, #django 🗓️ 2024-08-30
+- [How To Run A Single Test In Pytest (Using CLI And Markers) | Pytest with Eric](https://pytest-with-eric.com/introduction/pytest-run-single-test/) [📖](https://read.readwise.io/read/01jbyg66dqbz09dxcahyxqbyew) 👤 pytest-with-eric.com 💬 1333 🔖 #pytest 🗓️ 2024-08-31
+- [GoMock vs. Testify: Mocking frameworks for Go](https://www.codecentric.de/wissens-hub/blog/gomock-vs-testify) [📖](https://read.readwise.io/read/01jbyg66cvyzmdftfvwyzt97cd) 👤 Sergey Grebenshchikov 💬 2867 🔖 #go, #testing 🗓️ 2024-09-01
+- [Evolving Django’s auth.User • Buttondown](https://buttondown.com/carlton/archive/evolving-djangos-authuser/) [📖](https://read.readwise.io/read/01jbyg66byfk9acjbdmdgse2m5) 👤 The Stack Report 💬 4502 🔖 #django 🗓️ 2024-09-03
+- [Why I Still Use Python Virtual Environments in Docker](https://hynek.me/articles/docker-virtualenv/) [📖](https://read.readwise.io/read/01jbyg66b5tg9jq99mggbfex06) 👤 Hynek Schlawack 💬 1286 🔖 #docker, #python 🗓️ 2024-09-03
+- [Git: avoid reset --hard, use reset --keep instead - Adam Johnson](https://adamj.eu/tech/2024/09/02/git-avoid-reset-hard-use-keep/) [📖](https://read.readwise.io/read/01jbyg66aenayfj72sp2y0tfyj) 👤 adamj.eu 💬 543 🗓️ 2024-09-03
+- [Django Redirects App Tutorial | LearnDjango.com](https://learndjango.com/tutorials/django-redirects-app-tutorial) [📖](https://read.readwise.io/read/01jbyg6686v231mmxa6cgznz4a) 👤 Learn Django 💬 668 🔖 #django 🗓️ 2024-09-04
+- [Git: generate statistics with shortlog - Adam Johnson](https://adamj.eu/tech/2024/09/03/git-quick-stats-shortlog/) [📖](https://read.readwise.io/read/01jbyg662912kjsdhnbm52yan1) 👤 adamj.eu 💬 650 🔖 #git 🗓️ 2024-09-04
+- [Don't Unwrap Options: There Are Better Ways | corrode Rust Consulting](https://corrode.dev/blog/rust-option-handling-best-practices/) [📖](https://read.readwise.io/read/01jbyg661et5s873jw2pkqsdtv) 👤 Corrode Rust Consulting 💬 1639 🔖 #rust 🗓️ 2024-09-04
+- [Connecting to a PostgreSQL database with Go's database/sql package - Calhoun.io](https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/) [📖](https://read.readwise.io/read/01jbyg660fn8cthstrrqshxxy2) 👤 Jon Calhoun 💬 1976 🔖 #postgresql 🗓️ 2024-09-04
+- [Inserting records into a PostgreSQL database with Go's database/sql package - Calhoun.io](https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/) [📖](https://read.readwise.io/read/01jbyg65zn0vptzjw9gsn1hc8h) 👤 Jon Calhoun 💬 1545 🔖 #go, #postgresql 🗓️ 2024-09-04
+- [Updating and deleting PostgreSQL records using Go's sql package - Calhoun.io](https://www.calhoun.io/updating-and-deleting-postgresql-records-using-gos-sql-package/) [📖](https://read.readwise.io/read/01jbyg65yx2arj7nq11y3rc5gb) 👤 Jon Calhoun 💬 747 🔖 #go, #postgresql 🗓️ 2024-09-04
+- [Querying for a single record using Go's database/sql package - Calhoun.io](https://www.calhoun.io/querying-for-a-single-record-using-gos-database-sql-package/) [📖](https://read.readwise.io/read/01jbyg65y1zctf7n8vnfz76cfn) 👤 Jon Calhoun 💬 1577 🔖 #go, #postgresql 🗓️ 2024-09-04
+- [Querying for multiple records with Go's sql package - Calhoun.io](https://www.calhoun.io/querying-for-multiple-records-with-gos-sql-package/) [📖](https://read.readwise.io/read/01jbyg65x38kdmbj92e7yywazw) 👤 Jon Calhoun 💬 1328 🔖 #go, #postgresql 🗓️ 2024-09-04
+- [Subtle issues with ORMs and how to avoid them - Calhoun.io](https://www.calhoun.io/subtle-issues-with-orms-and-how-to-avoid-them/) [📖](https://read.readwise.io/read/01jbyg65wa092q4qdsbz5ze22e) 👤 Jon Calhoun 💬 1995 🔖 #db, #go 🗓️ 2024-09-04
+- [Structuring Web Applications in Go - Calhoun.io](https://www.calhoun.io/structuring-web-applications-in-go/) [📖](https://read.readwise.io/read/01jbyg65vcp42hph6n0hfa90vd) 👤 Jon Calhoun 💬 1002 🔖 #go 🗓️ 2024-09-04
+- [Django: build a Microsoft Teams bot - Adam Johnson](https://adamj.eu/tech/2024/09/04/django-microsoft-teams-bot/) [📖](https://read.readwise.io/read/01jbyg65rf594n183gw7nvq8d1) 👤 adamj.eu 💬 1468 🗓️ 2024-09-05
+- [Cycle Time](https://martinfowler.com/bliki/CycleTime.html) [📖](https://read.readwise.io/read/01jbyg65qfz585qnwjv23xgeje) 👤 Martin Fowler 💬 810 🗓️ 2024-09-05
+- [Собеседование по System Design: как запроектировать и не потеряться / Хабр](https://habr.com/ru/companies/yandex_praktikum/articles/834230/) [📖](https://read.readwise.io/read/01jbyg65pqabb3ctztrw0kb125) 👤 Дмитрий 💬 1939 🗓️ 2024-09-05
+- [Собеседование Python-разработчика: чего ждать и как подготовиться / Хабр](https://habr.com/ru/companies/yandex_praktikum/articles/828928/) [📖](https://read.readwise.io/read/01jbyg65nxcpcqkf89vwckj6ez) 👤 Антон 💬 1791 🔖 #career, #interview 🗓️ 2024-09-05
+- [Why Cant We Settle on a Single Application Structure in Go - Calhoun.io](https://www.calhoun.io/why-cant-we-settle-on-a-single-application-structure-in-go/) [📖](https://read.readwise.io/read/01jbyg65n548kjg9rggj9ertrx) 👤 Jon Calhoun 💬 2155 🔖 #go 🗓️ 2024-09-05
+- [Flat Application Structure in Go - Calhoun.io](https://www.calhoun.io/flat-application-structure/) [📖](https://read.readwise.io/read/01jbyg65ma271dxj3exxybzc7w) 👤 Jon Calhoun 💬 1943 🗓️ 2024-09-05
+- [The Third Bit · How I Explain Code](https://third-bit.com/2024/09/06/how-i-explain-code/) [📖](https://read.readwise.io/read/01jbyg65ka79hs5sctmpy4pw4a) 👤 third-bit.com 💬 779 🗓️ 2024-09-06
+- [Python Friday #243: Rate Limit in FastAPI - Improve & Repeat](https://improveandrepeat.com/2024/09/python-friday-243-rate-limit-in-fastapi/) [📖](https://read.readwise.io/read/01jbyg65jhhtnpc359ynd54cfb) 👤 Johnny Graber 💬 657 🔖 #fastapi 🗓️ 2024-09-07
+- [User Authentication in Go APIs: JWT, Password Hashing, and MySQL](https://dev.to/the-arcade-01/user-authentication-in-go-jwt-password-hashing-and-mysql-2n8o) [📖](https://read.readwise.io/read/01jbyg65he41stg02ec54y6jw8) 👤 DEV Community 💬 1555 🔖 #go, #chi, #tutorial 🗓️ 2024-09-07
+- [Python Testing Part 1: isolating external calls and minimising mocks](https://simoncrowe.hashnode.dev/python-testing-part-1-isolating-external-calls-and-minimising-mocks) [📖](https://read.readwise.io/read/01jbyg65ggbhyx2ra9g2yd2j0c) 👤 Simon Crowe 💬 1323 🔖 #python, #testing 🗓️ 2024-09-08
+- [Django: hoist repeated decorator definitions - Adam Johnson](https://adamj.eu/tech/2024/09/08/django-repeated-decorators/) [📖](https://read.readwise.io/read/01jbyg65fkxj8sntvep9jfd249) 👤 adamj.eu 💬 414 🔖 #django 🗓️ 2024-09-08
+- [The ‘fat service’ pattern for Go web applications – Alex Edwards](https://www.alexedwards.net/blog/the-fat-service-pattern) [📖](https://read.readwise.io/read/01jbyg65eqyjj6dxc868nq2g38) 👤 Alex Edwards 💬 1515 🔖 #go 🗓️ 2024-09-10
+- [Layered architecture implementation in Golang | by Sergey Shershnev | Medium](https://medium.com/@shershnev/layered-architecture-implementation-in-golang-6318a72c1e10) [📖](https://read.readwise.io/read/01jbyg65dqam2t70vyyeg3d1ba) 👤 Sergey Shershnev 🔖 #go 🗓️ 2024-09-10
+- [Quick tip: A time-saving Makefile for your Go projects – Alex Edwards](https://www.alexedwards.net/blog/a-time-saving-makefile-for-your-go-projects) [📖](https://read.readwise.io/read/01jbyg65c41dftze361nsyk1p2) 👤 Alex Edwards 💬 1040 🔖 #go 🗓️ 2024-09-10
+- [Что такое Mini App: архитектура, возможности и примеры](https://timeweb.cloud/blog/chto-takoe-mini-app?m-message-click-id=02ca6ead-146b-45bf-b6cf-1c5e069c0ab5&m-message-key-id=-6592143948200804352) [📖](https://read.readwise.io/read/01jbyg65b4f96nrtbnf4s7nb61) 👤 Вадим Андоськин Технический писатель 💬 1147 🔖 #telegram 🗓️ 2024-09-10
+- [The Undeniable Utility Of CSS <code>:has</code> • Josh W. Comeau](https://www.joshwcomeau.com/css/has/?from=newsletter) [📖](https://read.readwise.io/read/01jbyg65a6tch2465g8xmxht82) 👤 Josh W. Comeau 💬 3992 🔖 #css 🗓️ 2024-09-10
+- [Build 3D Scenes Declaratively with TresJS using Vue - AlvaroSabu](https://alvarosaburido.dev/blog/build-3d-scenes-declaratively-with-tresjs-using-vue?ck_subscriber_id=2108193410) [📖](https://read.readwise.io/read/01jbyg6579hmwx3s8sk5eqhdxt) 👤 alvarosaburido.dev 💬 1119 🔖 #vue 🗓️ 2025-08-02
+- [How to use go run to manage tool dependencies – Alex Edwards](https://www.alexedwards.net/blog/using-go-run-to-manage-tool-dependencies) [📖](https://read.readwise.io/read/01jbyg656evhyfrs666xqqtvjq) 👤 Alex Edwards 💬 1132 🔖 #go 🗓️ 2024-09-11
+- [How to tune PostgreSQL for memory | EDB](https://www.enterprisedb.com/postgres-tutorials/how-tune-postgresql-memory) [📖](https://read.readwise.io/read/01jbyg655f3hfxvqtphvvv183e) 👤 Tushar Ahuja 💬 434 🔖 #postgresql 🗓️ 2024-09-11
+- [Building a VS Code Extension Using Vue.js](https://www.codemag.com/article/2107071?ck_subscriber_id=2108193410) [📖](https://read.readwise.io/read/01jbyg654dkja67d5wvk14dxdm) 👤 CODE Magazine, EPS Software Corp., <a href="/People/Bio/Bilal.Haidar">Bilal Haidar</a> 💬 6594 🔖 #vue 🗓️ 2024-09-11
+- [How Statically and Dynamically Linked Go Binaries Work](https://www.freecodecamp.org/news/golang-statically-and-dynamically-linked-go-binaries/) [📖](https://read.readwise.io/read/01jbyg653mx7428447vy92c6d3) 👤 Alex Pliutau 💬 1466 🔖 #go 🗓️ 2024-09-12
+- [Timing Details With cURL – Joseph Scott](https://blog.josephscott.org/2011/10/14/timing-details-with-curl/) [📖](https://read.readwise.io/read/01jbyg652x130nb66rha0941kg) 👤 blog.josephscott.org 💬 240 🗓️ 2024-09-13
+- [Go Validator v10. Validation? Easy Peasy! | by Renaldi | Tunaiku Tech | Medium](https://medium.com/tunaiku-tech/go-validator-v10-c7a4f1be37df) [📖](https://read.readwise.io/read/01jbyg65238af3bwd5cbrffm8d) 👤 Renaldi 💬 919 🗓️ 2024-09-15
+- [Putting Text on an Image with Golang](https://josemyduarte.github.io/2021-02-28-quotes-on-images-with-go/) [📖](https://read.readwise.io/read/01jbyg6515114vxq0p1vwjzzav) 👤 Josemy Duarte 💬 508 🔖 #go 🗓️ 2024-09-16
+- [Programatically generate gorgeous social media images in Go by Mat Ryer - PACE.](https://pace.dev/blog/2020/03/02/dynamically-generate-social-images-in-golang-by-mat-ryer.html) [📖](https://read.readwise.io/read/01jbyg6508j1hx6apffx40pv18) 👤 Mat Ryer 💬 2455 🔖 #go 🗓️ 2024-09-16
+- [6 Tips for Using Strings in Go - Calhoun.io](https://www.calhoun.io/6-tips-for-using-strings-in-go/) [📖](https://read.readwise.io/read/01jbyg64zdzhcf8enggxp9v6dj) 👤 Jon Calhoun 💬 1845 🔖 #go 🗓️ 2024-09-17
+- [Подготовка к интервью](https://grishaev.me/no-faang-2/) [📖](https://read.readwise.io/read/01jbyg64yhxdffa0n8hckec5k1) 👤 grishaev.me 💬 414 🔖 #career, #interview, #inspiration 🗓️ 2024-09-18
+- [FAANG не предлагать](https://grishaev.me/no-faang/) [📖](https://read.readwise.io/read/01jbyg64wvqtn0y6cp3anqzqar) 👤 grishaev.me 💬 527 🔖 #career, #interview, #inspiration 🗓️ 2024-09-18
+- [Let’s build and optimize a Rust extension for Python](https://pythonspeed.com/articles/intro-rust-python-extensions/) [📖](https://read.readwise.io/read/01jbyg64w28925pc9cnwbhs3fg) 👤 Itamar Turner-Trauring 💬 2192 🗓️ 2024-09-18
+- [What's in an (Alias) Name? - The Go Programming Language](https://go.dev/blog/alias-names) [📖](https://read.readwise.io/read/01jbyg64tw7w7293dykdp093k2) 👤 Robert Griesemer 17 September 2024 💬 2308 🔖 #go 🗓️ 2024-09-18
+- [Legacy Modernization meets GenAI](https://martinfowler.com/articles/legacy-modernization-gen-ai.html) [📖](https://read.readwise.io/read/01jbyg64sc401hq0q8qdxekpdw) 👤 Alessio Ferri 💬 2100 🗓️ 2024-09-18
+- [Towncrier 24.8.0 documentation](https://towncrier.readthedocs.io/en/stable/) [📖](https://read.readwise.io/read/01jbyg64qmanyc6jrbtwfwyqe6) 👤 towncrier.readthedocs.io 💬 267 🗓️ 2024-09-18
+- [Подготовка Django приложения для локальной разработки и деплоя / Хабр](https://habr.com/ru/articles/844280/) [📖](https://read.readwise.io/read/01jbyg64ptgqxcxrh84jqgssx5) 👤 famer 💬 602 🔖 #django 🗓️ 2024-09-18
+- [Perfect Project Management with Linear | xavd.id](https://xavd.id/blog/post/perfect-project-management-with-linear/) [📖](https://read.readwise.io/read/01jbyg64n4ap76mw9b6q3pkh5q) 👤 xavd.id 💬 1831 🗓️ 2024-09-18
+- [RESTful API Documentation with Go and chi docgen Package | newline](https://www.newline.co/@kchan/restful-api-documentation-with-go-and-chi-docgen-package--ac031097) [📖](https://read.readwise.io/read/01jbyg64m3pnc4g5gyrqcbbf80) 👤 Stefan Wüthrich2 years ago 💬 36 🔖 #go 🗓️ 2024-09-20
+- [Custom command-line flags with flag.Func – Alex Edwards](https://www.alexedwards.net/blog/custom-command-line-flags) [📖](https://read.readwise.io/read/01jbyg64k82nwwbje7fgdmqgy3) 👤 Alex Edwards 💬 1117 🔖 #go 🗓️ 2024-09-22
+- [Python Testing Part 2: Dependency Inversion with Service Functions](https://simoncrowe.hashnode.dev/python-testing-part-2-dependency-inversion-with-service-functions) [📖](https://read.readwise.io/read/01jbyg64jdp22czdkvm9w8428f) 👤 Simon Crowe 💬 907 🔖 #python, #testing 🗓️ 2024-09-23
+- [How I Built My Blog • Josh W. Comeau](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/) [📖](https://read.readwise.io/read/01jbyg64c8jw5822j83xxkfzxt) 👤 Josh W. Comeau 💬 3909 🗓️ 2024-09-26
+- [How to Parse JSON That Varies Between an Array or a Single Item With Go - Calhoun.io](https://www.calhoun.io/how-to-parse-json-that-varies-between-an-array-or-a-single-item-with-go/) [📖](https://read.readwise.io/read/01jbyg64adh07bp6e5q819sxq9) 👤 Jon Calhoun 💬 1106 🔖 #go 🗓️ 2024-09-26
+- [What is Entity Relationship Diagram (ERD)?](https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/) [📖](https://read.readwise.io/read/01jbyg6487n4tnjfq0sp0mtvh4) 👤 visual-paradigm.com 💬 2416 🔖 #db 🗓️ 2024-09-30
+- [Learn Go with Tests | Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests) [📖](https://read.readwise.io/read/01jbyg647fkb99z8fdq28yxtrc) 👤 quii.gitbook.io 💬 125 🔖 #go, #tdd, #testing 🗓️ 2024-09-30
+- [Go by Example](https://gobyexample.com) [📖](https://read.readwise.io/read/01jbyg6446xfnxhgc2ehky3pec) 👤 gobyexample.com 💬 24 🔖 #go 🗓️ 2024-10-01
+- [A curated list of awesome Go frameworks, libraries and software - Awesome Go / Golang](https://awesome-go.com) [📖](https://read.readwise.io/read/01jbyg6432mkjp3hes45rvh219) 👤 awesome-go.com 💬 20947 🔖 #go 🗓️ 2024-10-01
+- [Python 3.13: Cool New Features for You to Try – Real Python](https://realpython.com/python313-new-features/) [📖](https://read.readwise.io/read/01jbyg6421mme45ynbgmk5a2vp) 👤 Geir Arne Hjelle 💬 6741 🔖 #python 🗓️ 2024-10-02
+- [Overview - Forever Notes](https://www.myforevernotes.com/articles/overview) [📖](https://read.readwise.io/read/01jbyg640873225ynbc9djv16d) 👤 myforevernotes.com 💬 452 🗓️ 2024-10-02
+- [Using a possibility tree for fast string parsing · Raygun Blog](https://raygun.com/blog/possibility-tree-fast-string-parsing/) [📖](https://read.readwise.io/read/01jbyg63zes8ew1yxeyp7n1hb6) 👤 Jason Fauchelle | 💬 4520 🗓️ 2024-10-03
+- [Exercism](https://exercism.org) [📖](https://read.readwise.io/read/01jbyg63ynf2e9cnjpmjdn9g3m) 👤 exercism.org 💬 189 🗓️ 2024-10-04
+- [Tracing or Preventing HTTP Redirects in Golang](https://jonathanmh.com/p/tracing-preventing-http-redirects-golang/) [📖](https://read.readwise.io/read/01jbyg63ws76r377yhscaq4ae5) 👤 jonathanmh.com 💬 775 🔖 #go 🗓️ 2024-10-05
+- [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/) [📖](https://read.readwise.io/read/01jbyg62qep6bj7kgsjzad2cj9) 👤 Julia Evans 💬 2160 🗓️ 2024-10-06
+- [An Introduction to Templates in Go - Calhoun.io](https://www.calhoun.io/intro-to-templates/) [📖](https://read.readwise.io/read/01jbyg62gkvvetq6tkqrvsytse) 👤 Jon Calhoun 💬 465 🔖 #go 🗓️ 2024-10-08
+- [Telegram Web App, FastAPI и вебхуки в одном приложении: Создаем Telegram-бот с веб-интерфейсом для приема заявок / Хабр](https://habr.com/ru/companies/amvera/articles/848644/) [📖](https://read.readwise.io/read/01jbyg62fnke74mm74ahkcq19t) 👤 Алексей Яковенко 💬 9729 🔖 #try, #fastapi, #miniapp 🗓️ 2024-10-08
+- [Programming is fun — Bitfield Consulting](https://bitfieldconsulting.com/posts/programming-is-fun) [📖](https://read.readwise.io/read/01jbyg62er25t6d62sw9z3hcrp) 👤 John Arundel 💬 3059 🗓️ 2024-10-09
+- [GitHub - MariaLetta/free-gophers-pack: ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.](https://github.com/MariaLetta/free-gophers-pack) [📖](https://read.readwise.io/read/01jbyg62dxnbqtrpmtd2f2w2wf) 👤 MariaLetta 💬 251 🗓️ 2024-10-09
+- [PostgreSQL: Documentation: 17: 3.5. Window Functions](https://www.postgresql.org/docs/17/tutorial-window.html) [📖](https://read.readwise.io/read/01jbyg62bnxkrgt1eqs82qvtfz) 👤 postgresql.org 💬 1223 🔖 #db, #postgresql 🗓️ 2024-10-12
+- [Python Friday #248: MkDocs for a Blog - Improve & Repeat](https://improveandrepeat.com/2024/10/python-friday-248-mkdocs-for-a-blog/) [📖](https://read.readwise.io/read/01jbyg62aqse05hfh2esabxs1e) 👤 Johnny Graber 💬 712 🗓️ 2024-10-14
+- [Conventional Comments](https://conventionalcomments.org) [📖](https://read.readwise.io/read/01jbyg62a1cv0rx8knb3e9521f) 👤 Paul Slaughter 💬 796 🗓️ 2024-10-14
+- [Rendering Dynamic Markdown in Nuxt 3+ | Michael Hoffmann](https://mokkapps.de/blog/rendering-dynamic-markdown-in-nuxt-3) [📖](https://read.readwise.io/read/01jbyg6298h11p19jxg7dfj5dt) 👤 mokkapps.de 💬 480 🔖 #nuxt, #markdown 🗓️ 2024-10-14
+- [How Video Editors Implement Timeline Filmstrips Using FFmpeg and JavaScript | by Aditya Krishnan | Better Programming](https://betterprogramming.pub/how-video-editors-implement-timeline-filmstrips-using-ffmpeg-and-javascript-a4683ddaeb3c) [📖](https://read.readwise.io/read/01jbyg628bm3g2s3ap9sav6pr7) 👤 Aditya Krishnan 💬 3461 🗓️ 2024-10-15
+- [Google Testing Blog: SMURF: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html?m=1) [📖](https://read.readwise.io/read/01jbyg627gx9pn647342r99nh8) 👤 testing.googleblog.com 💬 397 🔖 #testing 🗓️ 2024-10-16
+- [Trigger recursion in PostgreSQL and how to deal with it | CYBERTEC PostgreSQL | Services & Support](https://www.cybertec-postgresql.com/en/dealing-with-trigger-recursion-in-postgresql/) [📖](https://read.readwise.io/read/01jbyg624tty4v7yhpzzmrhpxe) 👤 Laurenz Albe 💬 952 🔖 #postgresql 🗓️ 2024-10-16
+- [Сервис для обхода блокировки OpenAI API в России или ваш первый API / Хабр](https://habr.com/ru/articles/850620/) [📖](https://read.readwise.io/read/01jbyg623z628v37rmm674fdqj) 👤 Соловьянов Михаил 💬 904 🗓️ 2024-10-16
+- [Tutorials | Mermaid](https://mermaid.js.org/ecosystem/tutorials.html) [📖](https://read.readwise.io/read/01jbyg6236h28swctgdh8qcxzg) 👤 mermaid.js.org 💬 263 🗓️ 2024-10-16
+- [How to Self-host a Container Registry](https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/) [📖](https://read.readwise.io/read/01jbyg622dzhs1anq4knyggmpy) 👤 Alex Pliutau 💬 1487 🔖 #docker 🗓️ 2024-10-16
+- [How I take work notes as a developer : Juha-Matti Santala](https://hamatti.org/posts/how-i-take-work-notes-as-a-developer/) [📖](https://read.readwise.io/read/01jbyg620mayvgek55j8e86m2f) 👤 Juha-Matti Santala 💬 1767 🔖 #pkm, #inspiration 🗓️ 2024-10-17
+- [How Does BlueSky Work?](https://steveklabnik.com/writing/how-does-bluesky-work/) [📖](https://read.readwise.io/read/01jbyg61wgmq1zge1e3watk021) 👤 steveklabnik.com 💬 3154 🗓️ 2024-10-18
+- [Микросервисы](https://grishaev.me/microservices/) [📖](https://read.readwise.io/read/01jbyg61txms2daq3nakvksjpn) 👤 grishaev.me 💬 402 🔖 #microservices 🗓️ 2024-10-19
+- [A Taxonomy of HTTP APIs](https://simoncrowe.hashnode.dev/a-taxonomy-of-http-apis) [📖](https://read.readwise.io/read/01jbyg61stq8a5h07j897ve093) 👤 Simon Crowe 💬 1853 🔖 #rest 🗓️ 2024-10-23
+- [Python 3.13: What's New | TestDriven.io](https://testdriven.io/blog/python313/) [📖](https://read.readwise.io/read/01jbyg61qh3cx6t4x62cgwr8bf) 👤 Jan Giacomelli 💬 1093 🔖 #python 🗓️ 2024-10-23
+- [Механическая работа](https://grishaev.me/mech-work/) [📖](https://read.readwise.io/read/01jbyg61pqd0r6zk22df73mswf) 👤 grishaev.me 💬 239 🗓️ 2024-10-23
+- [Testing API Libraries - Calhoun.io](https://www.calhoun.io/testing-api-libraries/) [📖](https://read.readwise.io/read/01jbyg61ntygy3hckm0peptyq1) 👤 Jon Calhoun 💬 1524 🔖 #go, #testing 🗓️ 2024-10-23
+- [Email newsletter issue • Josh W. Comeau](https://www.joshwcomeau.com/email/2024-10-22-css-survey/) [📖](https://read.readwise.io/read/01jbyg61myjv7qp73h6mbznzha) 👤 Josh W. Comeau 💬 1993 🔖 #css 🗓️ 2024-10-23
+- [The Ultimate Guide to Cookies In Nuxt 3](https://masteringnuxt.com/blog/the-ultimate-guide-to-cookies-in-nuxt-3?friend=MOKKAPPS) [📖](https://read.readwise.io/read/01jbyg61m33r8bxfmjfc5xav5d) 👤 masteringnuxt.com 💬 1304 🔖 #nuxt 🗓️ 2024-10-23
+- [How to search for strings in Git commit additions or deletions | Stefan Judis Web Development](https://www.stefanjudis.com/today-i-learned/how-to-search-for-strings-in-git-commit-additions-or-deletions/) [📖](https://read.readwise.io/read/01jbyg61afn4z030twcmac3rj7) 👤 Stefan Judis 💬 280 🔖 #git 🗓️ 2024-11-02
+- [Nuxt Tip: Fetch Data on the Server Before App Start | Michael Hoffmann](https://mokkapps.de/vue-tips/nuxt-fetch-data-on-the-server-before-app-start) [📖](https://read.readwise.io/read/01jbyg618qyf38m623gmwrzgn0) 👤 mokkapps.de 💬 259 🔖 #nuxt 🗓️ 2024-11-03
+- [I built a custom RSS hydrator for better GitHub and Youtube feeds : Juha-Matti Santala](https://hamatti.org/posts/i-built-custom-rss-hydrator-for-better-github-and-youtube-feeds/) [📖](https://read.readwise.io/read/01jbyg617zv403jt29jeqk81cw) 👤 Juha-Matti Santala 💬 1171 🗓️ 2024-11-03
+- [Этот странный культ, часть 2: зарубежные хиты эпохи VHS](https://disgustingmen.com/kino/vhs-cult-movie-2/) [📖](https://read.readwise.io/read/01jbyg61746n78hqsx5z8gj50m) 👤 Дмитрий Соколов 💬 3122 🗓️ 2024-11-03
+- [Suite smells: testing legacy code — Bitfield Consulting](https://bitfieldconsulting.com/posts/testing-legacy-code) [📖](https://read.readwise.io/read/01jbyg616brpb2yh32vhdasyeg) 👤 John Arundel 💬 37 🔖 #go, #testing 🗓️ 2024-11-04
+- [Mastering Prose Components in Nuxt Content](https://masteringnuxt.com/blog/mastering-prose-components-in-nuxt-content?ck_subscriber_id=2108193410) [📖](https://read.readwise.io/read/01jbyg615drg1j8bt7x8pche19) 👤 masteringnuxt.com 💬 3022 🔖 #nuxt 🗓️ 2024-11-04
+- [How to Use Error Handling to Create Rock Solid Nuxt Apps](https://masteringnuxt.com/blog/how-to-use-error-handling-to-create-rock-solid-apps?ck_subscriber_id=2108193410) [📖](https://read.readwise.io/read/01jbyg614a87x7yecm6htkcq94) 👤 masteringnuxt.com 💬 2415 🔖 #nuxt 🗓️ 2024-11-04
+- [Generic types in Go — Bitfield Consulting](https://bitfieldconsulting.com/posts/generic-types) [📖](https://read.readwise.io/read/01jbyg611ymb8ag26k5prw6j48) 👤 John Arundel 💬 8 🔖 #go 🗓️ 2024-11-05
+- [Constraints in Go — Bitfield Consulting](https://bitfieldconsulting.com/posts/constraints) [📖](https://read.readwise.io/read/01jbyg6118amhd04zf2ar23r7y) 👤 John Arundel 💬 8 🔖 #go 🗓️ 2024-11-05
+- [ASCII control characters in my terminal](https://jvns.ca/blog/2024/10/31/ascii-control-characters/) [📖](https://read.readwise.io/read/01jbyg610h9rx9t78d6csb96wh) 👤 Julia Evans 💬 1855 🗓️ 2024-11-05
+- [A Friendly Introduction to Container Queries • Josh W. Comeau](https://www.joshwcomeau.com/css/container-queries-introduction/?from=newsletter) [📖](https://read.readwise.io/read/01jbyg60zdng13j5160rhw38m3) 👤 Josh W. Comeau 💬 2960 🔖 #css 🗓️ 2024-11-05

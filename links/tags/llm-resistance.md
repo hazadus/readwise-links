@@ -4,11 +4,11 @@
 
 ## Ссылки
 
-- [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) 👤 Wouter Groeneveld 💬 2840 🔖 #learning, #llm-devimpact, #llm-resistance 🗓️ 2026-04-08
+- [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) [📖](https://read.readwise.io/read/01knp9f4rgqj2ket2f9t34hv69) 👤 Wouter Groeneveld 💬 2840 🔖 #learning, #llm-devimpact, #llm-resistance 🗓️ 2026-04-08
     > **Резюме:** Generative AI is changing how we work, learn, and create, but it often makes us less skilled and less thoughtful. It can speed up tasks but also lowers the quality and originality of what we produce. We should use it carefully, or risk losing important human creativity and responsibility.
-- [I quit. The clankers won.](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/) 👤 dbushell.com (all feeds) 💬 791 🔖 #llm-resistance 🗓️ 2026-04-01
+- [I quit. The clankers won.](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/) [📖](https://read.readwise.io/read/01kn4ggdb0sxx7z6xbnc944e48) 👤 dbushell.com (all feeds) 💬 791 🔖 #llm-resistance 🗓️ 2026-04-01
     > **Резюме:** … is what I’m reading far too often! Some of you are losing faith! A growing sentiment amongst my peers — those who haven’t already resigned to an NPC career path† — is that blogging is over. Coding is cooked. What’s the point of sharing insights and expertise when the Cognitive Dark Forest will […]
-- [People are not friction](https://daverupert.com/2026/03/people-are-not-friction/) 👤 daverupert.com 💬 627 🔖 #llm-resistance 🗓️ 2026-03-20
+- [People are not friction](https://daverupert.com/2026/03/people-are-not-friction/) [📖](https://read.readwise.io/read/01km5zmr6mkemjre2193rgzwhh) 👤 daverupert.com 💬 627 🔖 #llm-resistance 🗓️ 2026-03-20
     > **Резюме:** The Gell-Mann Amnesia Effect of AI is a pretty well documented phenomenon:
 
 The Gell-Mann amnesia effect is a cognitive bias describing the tendency of individuals to critically assess media reports in a domain they are knowledgeable about, yet continue to trust reporting in other areas despite recognizing similar potential inaccuracies.
@@ -22,5 +22,5 @@ And the people who do those jobs…
 The people you don’t enjoy…
 You won’t need to talk to or wait on anyone. You can automate away anything or anyone that stands in your way. You will reduce costs. You will be richer. It will be frictionless.
 Sometimes I feel like there’s a palpable tension in the air as if we’re waiting to see whether AI will replace designers or engineers first. Designers empowered by AI might feel those pesky nay-saying, opinionated engineers aren’t needed anymore. Engineers empowered with AI might feel like AI creates designs that are good...
-- [Resist "AI"!](https://ronjeffries.com/articles/-v026/x/t/) 👤 ronjeffries.com 💬 2050 🔖 #llm, #llm-resistance 🗓️ 2026-03-19
+- [Resist "AI"!](https://ronjeffries.com/articles/-v026/x/t/) [📖](https://read.readwise.io/read/01km39g9qcxw4fbpk4phgqjbvj) 👤 ronjeffries.com 💬 2050 🔖 #llm, #llm-resistance 🗓️ 2026-03-19
     > **Резюме:** Yes, the “AI1 Genie” seems actually to be useful. But it is also seductive, selectively harmful, and in important ways harmful to us all.

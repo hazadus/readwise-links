@@ -4,31 +4,31 @@
 
 ## Ссылки
 
-- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html?utm_source=tldrwebdev) 👤 Ahmad Elalfy 💬 2340 🔖 #http, #webdev 🗓️ 2025-11-04
+- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html?utm_source=tldrwebdev) [📖](https://read.readwise.io/read/01k96xs212gt7sr6e5eqdxsmp9) 👤 Ahmad Elalfy 💬 2340 🔖 #http, #webdev 🗓️ 2025-11-04
     > **Резюме:** URLs can and should hold app state so pages are shareable, bookmarkable, and restorable.  
 Good URL design makes intent, context, and caching explicit.  
 Put public, meaningful state in the URL and keep sensitive or transient state out.
-- [Web Weekly #172](https://www.stefanjudis.com/blog/web-weekly-172/) 👤 stefanjudis.com 💬 1217 🔖 #webdev 🗓️ 2025-10-28
+- [Web Weekly #172](https://www.stefanjudis.com/blog/web-weekly-172/) [📖](https://read.readwise.io/read/01k8nfqq667p6fdhraddba971s) 👤 stefanjudis.com 💬 1217 🔖 #webdev 🗓️ 2025-10-28
     > **Резюме:** Web Weekly shares useful web development tips, tools, and news for developers. It highlights new features like top-level await, import maps, and view transitions. The newsletter also invites the community to share their favorite CLI tricks and songs.
-- [How Functional Programming Shaped (and Twisted) Frontend Development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_308) 👤 Ahmad Elalfy 💬 4008 🔖 #webdev, #frontend 🗓️ 2025-10-25
+- [How Functional Programming Shaped (and Twisted) Frontend Development](https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_308) [📖](https://read.readwise.io/read/01k8ew1w60rexs61srah3wm0gp) 👤 Ahmad Elalfy 💬 4008 🔖 #webdev, #frontend 🗓️ 2025-10-25
     > **Резюме:** Functional programming ideals and React pushed developers to rebuild core browser features in JavaScript. This made many sites more complex, fragile, and slower while ignoring the web’s built-in strengths like HTML, CSS, and native events. Newer tools aim to restore platform-first patterns and progressive enhancement.
-- [Stop Ignoring the Browser: The Biggest Frontend Shift in a Decade](https://thenewstack.io/stop-ignoring-the-browser-the-biggest-frontend-shift-in-a-decade/?utm_source=tldrwebdev) 👤 Alexander T. Williams 💬 1141 🔖 #webdev, #frontend 🗓️ 2025-10-20
+- [Stop Ignoring the Browser: The Biggest Frontend Shift in a Decade](https://thenewstack.io/stop-ignoring-the-browser-the-biggest-frontend-shift-in-a-decade/?utm_source=tldrwebdev) [📖](https://read.readwise.io/read/01k81g41w57wrhnmd9czngqgy4) 👤 Alexander T. Williams 💬 1141 🔖 #webdev, #frontend 🗓️ 2025-10-20
     > **Резюме:** Browsers are gaining built-in features that used to only exist in frameworks. This reduces the need for heavy framework layers and improves performance. Frameworks will stay for ergonomics, but their dominance is fading.
-- [Solving Prop Drilling in Vue: Modern State Management Strategies](https://alexop.dev/posts/solving-prop-drilling-in-vue/) 👤 Alexander Opalic 💬 798 🔖 #vue, #toot, #pinia, #webdev 🗓️ 2025-09-26
+- [Solving Prop Drilling in Vue: Modern State Management Strategies](https://alexop.dev/posts/solving-prop-drilling-in-vue/) [📖](https://read.readwise.io/read/01k62j88e860fj11r58fytgdkm) 👤 Alexander Opalic 💬 798 🔖 #vue, #toot, #pinia, #webdev 🗓️ 2025-09-26
     > **Резюме:** Prop drilling makes code brittle, hard to debug, and slow.  
 Use Pinia for app-wide state, composables for reusable logic, and provide/inject for scoped subtree sharing.  
 Avoid event buses and prefer typed, testable patterns with DevTools support.
-- [Everything I know about good API design](https://seangoedecke.com/good-api-design/) 👤 seangoedecke.com 💬 3865 🔖 #api, #toot, #webdev, #programming 🗓️ 2025-08-25
+- [Everything I know about good API design](https://seangoedecke.com/good-api-design/) [📖](https://read.readwise.io/read/01k3genw3a1e4am8884cgxtjgk) 👤 seangoedecke.com 💬 3865 🔖 #api, #toot, #webdev, #programming 🗓️ 2025-08-25
     > **Заметка:** Советы по разработке публичных API от Шона. Рекомендую почитать все его посты, очень глубокий материал!
     > **Резюме:** Good APIs are boring, simple, and familiar so developers can use them without thinking.  
 API maintainers must avoid breaking changes because they hurt users.  
 Make adoption easy with simple auth and use versioning only as a last resort.
-- [Bulletproof Watchers in Vue](https://michaelnthiessen.com/bulletproof-watchers-in-vue?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=Bulletproof+Watchers+in+Vue+(no+more+leaks+or+duplicate+effects)+-+18562994) 👤 michaelnthiessen.com 💬 1040 🔖 #vue, #nuxt, #toot, #webdev, #programming 🗓️ 2025-08-09
+- [Bulletproof Watchers in Vue](https://michaelnthiessen.com/bulletproof-watchers-in-vue?ck_subscriber_id=2108193410&utm_source=convertkit&utm_medium=email&utm_campaign=Bulletproof+Watchers+in+Vue+(no+more+leaks+or+duplicate+effects)+-+18562994) [📖](https://read.readwise.io/read/01k28ay2zd7c9kcpzvvfz88jzv) 👤 michaelnthiessen.com 💬 1040 🔖 #vue, #nuxt, #toot, #webdev, #programming 🗓️ 2025-08-09
     > **Заметка:** Дельные советы от Майкла по работе с watch()
     > **Резюме:** Vue watchers can leak memory by creating overlapping effects like timers or API calls when reactive data changes quickly. Using the onCleanup function lets you cancel old effects before new ones start, preventing leaks and bugs. Vue 3.5 added onWatcherCleanup to manage multiple cleanups easily, making watchers more reliable and your app faster.
-- [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/) 👤 James Bennett 💬 3225 🔖 #try, #toot, #python, #webdev, #litestar, #programming 🗓️ 2025-08-08
+- [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/) [📖](https://read.readwise.io/read/01k242hs67n1rde8sftqy8tyrs) 👤 James Bennett 💬 3225 🔖 #try, #toot, #python, #webdev, #litestar, #programming 🗓️ 2025-08-08
     > **Заметка:** Глубокий обзор фреймворка Litestar от разработчика Django. Аж захотелось тоже попробовать!
     > **Резюме:** Litestar is a flexible Python web framework that supports async programming and easy route grouping. It works well with SQLAlchemy and allows different schema types, not just Pydantic. Litestar feels lightweight but offers powerful tools for building database-backed web apps.
-- [12 Design Patterns in Vue](https://michaelnthiessen.com/12-design-patterns-vue) 👤 michaelnthiessen.com 💬 1662 🔖 #try, #vue, #nuxt, #toot, #webdev, #patterns, #programming 🗓️ 2025-08-04
+- [12 Design Patterns in Vue](https://michaelnthiessen.com/12-design-patterns-vue) [📖](https://read.readwise.io/read/01k1tfb42qag0rtdvet4q12xj3) 👤 michaelnthiessen.com 💬 1662 🔖 #try, #vue, #nuxt, #toot, #webdev, #patterns, #programming 🗓️ 2025-08-04
     > **Заметка:** Краткая и ёмкая подборка паттернов разработки с Vue от Майкла. Очень качественный материал!
     > **Резюме:** The article discusses 12 design patterns specifically for Vue, highlighting their importance in writing maintainable code. It introduces concepts like Thin Composables, Humble Components, and the Strategy Pattern, showing how to simplify and organize Vue applications. For more detailed examples and additional patterns, readers can explore further resources provided in the article.

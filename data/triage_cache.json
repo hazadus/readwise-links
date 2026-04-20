@@ -1,5 +1,5 @@
 {
-  "interests_hash": "70ce46a95c3c2470169b5477d38ff8cb",
+  "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "articles": {
     "01kpmngdv5pg97fgh18ytem7jz": {
       "is_tutorial": false,
@@ -11,11 +11,11 @@
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 8
+      "interest_score": 7
     },
     "01kpfqsqcjj1pc8g79r2pe4g8p": {
       "is_tutorial": true,
-      "is_foundational": true,
+      "is_foundational": false,
       "is_evergreen": false,
       "interest_score": 9
     },
@@ -29,37 +29,37 @@
       "is_tutorial": true,
       "is_foundational": false,
       "is_evergreen": true,
-      "interest_score": 2
+      "interest_score": 3
     },
     "01kp3dteqy8exn9m4t0kz3yp7y": {
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 2
+      "interest_score": 4
     },
     "01kp3dctz7gv9zqqkm3jxke3xf": {
-      "is_tutorial": false,
-      "is_foundational": false,
-      "is_evergreen": false,
-      "interest_score": 8
-    },
-    "01kp3c80qpbjvt9qmbpgy9515h": {
-      "is_tutorial": false,
-      "is_foundational": false,
-      "is_evergreen": true,
-      "interest_score": 6
-    },
-    "01kp3by8wbvfkvzb5v915nng9n": {
       "is_tutorial": false,
       "is_foundational": true,
       "is_evergreen": true,
       "interest_score": 8
     },
-    "01kp3brjneqymrj0t46kwssqp5": {
+    "01kp3c80qpbjvt9qmbpgy9515h": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 2
+    },
+    "01kp3by8wbvfkvzb5v915nng9n": {
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": true,
-      "interest_score": 2
+      "interest_score": 7
+    },
+    "01kp3brjneqymrj0t46kwssqp5": {
+      "is_tutorial": true,
+      "is_foundational": false,
+      "is_evergreen": true,
+      "interest_score": 6
     },
     "01kp3bp2e1c7t54bkz8f1sqz05": {
       "is_tutorial": false,
@@ -70,23 +70,23 @@
     "01kp3atpcs24f3003fev1drqz8": {
       "is_tutorial": false,
       "is_foundational": false,
-      "is_evergreen": true,
-      "interest_score": 9
+      "is_evergreen": false,
+      "interest_score": 7
     },
     "01kp3asneeb8h4rgg89zrbwd5f": {
       "is_tutorial": false,
       "is_foundational": false,
-      "is_evergreen": false,
+      "is_evergreen": true,
       "interest_score": 2
     },
     "01knw7n6b8z86v81jcnw406vvp": {
       "is_tutorial": true,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 5
+      "interest_score": 7
     },
     "01knrbyy6wbjzsjedyfx6nv0pc": {
-      "is_tutorial": true,
+      "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
       "interest_score": 6
@@ -101,36 +101,36 @@
       "is_tutorial": true,
       "is_foundational": true,
       "is_evergreen": true,
-      "interest_score": 4
+      "interest_score": 6
     },
     "01knq8rkmccq5tkspg0npbrmbd": {
       "is_tutorial": false,
       "is_foundational": true,
       "is_evergreen": true,
-      "interest_score": 7
+      "interest_score": 6
     },
     "01knq4y2r5a7ffntsmhs7jjvtf": {
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 4
+      "interest_score": 7
     },
     "01kndptghaxk924qaqr7pc3zmx": {
       "is_tutorial": false,
-      "is_foundational": false,
+      "is_foundational": true,
       "is_evergreen": true,
-      "interest_score": 6
+      "interest_score": 8
     },
     "01knbv6r1n0rt1fmt8eye7m8c0": {
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 3
+      "interest_score": 8
     },
     "01kn9q1g2rkzrdsd4mgzghk9ew": {
       "is_tutorial": false,
       "is_foundational": true,
-      "is_evergreen": false,
+      "is_evergreen": true,
       "interest_score": 8
     },
     "01kn84zxd57pbrgw7mdyhtmvvn": {
@@ -155,19 +155,19 @@
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 2
+      "interest_score": 3
     },
     "01kmet5erb6344eexjx5b10v35": {
       "is_tutorial": false,
       "is_foundational": false,
-      "is_evergreen": true,
+      "is_evergreen": false,
       "interest_score": 2
     },
     "01kmabw6v0zgnk43sfc9pmdzev": {
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": true,
-      "interest_score": 8
+      "interest_score": 2
     },
     "01km5gxgpv6w8cbprxewhzqwgx": {
       "is_tutorial": true,
@@ -179,25 +179,25 @@
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 6
+      "interest_score": 3
     },
     "01kkmj8cbrx3ybzn7sb68vz765": {
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 2
+      "interest_score": 3
     },
     "01kkeb8d42rdtsnyrwfezxesgd": {
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 2
+      "interest_score": 3
     },
     "01kkeb2j7rb2q4qtk8j7gtbcrj": {
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 7
+      "interest_score": 4
     },
     "01kkeavycs9gd3ty05sxhrtt5c": {
       "is_tutorial": false,
@@ -209,7 +209,7 @@
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 7
+      "interest_score": 8
     },
     "01kke9tesp0nwb5ps5fn0nd3ff": {
       "is_tutorial": false,
@@ -219,7 +219,7 @@
     },
     "01kjz757r7cztw20w5anxnzy93": {
       "is_tutorial": true,
-      "is_foundational": true,
+      "is_foundational": false,
       "is_evergreen": true,
       "interest_score": 9
     },
@@ -233,13 +233,13 @@
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 3
+      "interest_score": 2
     },
     "01kjmw5d83t9105hqzkean823b": {
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 2
+      "interest_score": 6
     },
     "01kjmw4a52rcxbmeawgcw8w4f8": {
       "is_tutorial": false,
@@ -257,7 +257,7 @@
       "is_tutorial": true,
       "is_foundational": false,
       "is_evergreen": true,
-      "interest_score": 3
+      "interest_score": 2
     },
     "01kj2q3zvejs3dz0jr2a3v0642": {
       "is_tutorial": false,
@@ -269,13 +269,13 @@
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 7
+      "interest_score": 8
     },
     "01khs64f4hmr6kkggyegr22xxg": {
       "is_tutorial": false,
-      "is_foundational": true,
+      "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 9
+      "interest_score": 8
     },
     "01khrydg4bmqbz31hq22v77qwz": {
       "is_tutorial": false,
@@ -287,17 +287,17 @@
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 3
+      "interest_score": 7
     },
     "01khgxm5m5yjxwenjyyzezsfsg": {
       "is_tutorial": false,
       "is_foundational": true,
       "is_evergreen": true,
-      "interest_score": 2
+      "interest_score": 6
     },
     "01khgqw73xf9cxjgxbk6gdvst7": {
-      "is_tutorial": true,
-      "is_foundational": true,
+      "is_tutorial": false,
+      "is_foundational": false,
       "is_evergreen": true,
       "interest_score": 2
     },
@@ -311,7 +311,7 @@
       "is_tutorial": true,
       "is_foundational": false,
       "is_evergreen": true,
-      "interest_score": 8
+      "interest_score": 9
     },
     "01kh62aamsdapbwhrbdve1q4g6": {
       "is_tutorial": false,
@@ -321,15 +321,15 @@
     },
     "01kh3h783zd4npntbhrwpfqhcb": {
       "is_tutorial": false,
-      "is_foundational": false,
-      "is_evergreen": false,
+      "is_foundational": true,
+      "is_evergreen": true,
       "interest_score": 7
     },
     "01kh1pd18q793sbdf9qe6t4542": {
       "is_tutorial": false,
-      "is_foundational": true,
+      "is_foundational": false,
       "is_evergreen": true,
-      "interest_score": 9
+      "interest_score": 8
     },
     "01kh0kexvbpwvr4a4dszcq92zm": {
       "is_tutorial": false,
@@ -345,7 +345,7 @@
     },
     "01kgrrzm865h4tjkfbtfdmwbh3": {
       "is_tutorial": false,
-      "is_foundational": false,
+      "is_foundational": true,
       "is_evergreen": true,
       "interest_score": 3
     },
@@ -353,25 +353,25 @@
       "is_tutorial": true,
       "is_foundational": true,
       "is_evergreen": true,
-      "interest_score": 2
+      "interest_score": 6
     },
     "01kghhbvhebz3aec39q68wdyg3": {
       "is_tutorial": false,
       "is_foundational": true,
       "is_evergreen": true,
-      "interest_score": 8
+      "interest_score": 9
     },
     "01kggyfv5kdbdxr8t270r5pthj": {
       "is_tutorial": true,
-      "is_foundational": true,
+      "is_foundational": false,
       "is_evergreen": true,
-      "interest_score": 7
+      "interest_score": 6
     },
     "01kgafx4271vdg3eqw50jk0jm8": {
       "is_tutorial": false,
-      "is_foundational": true,
+      "is_foundational": false,
       "is_evergreen": true,
-      "interest_score": 9
+      "interest_score": 7
     },
     "01kgafvcwkn82dn6431q6cpvht": {
       "is_tutorial": true,
@@ -383,18 +383,18 @@
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 8
+      "interest_score": 9
     },
     "01kg52xnkndzq1t428p64ycpa8": {
       "is_tutorial": false,
       "is_foundational": false,
-      "is_evergreen": true,
-      "interest_score": 7
+      "is_evergreen": false,
+      "interest_score": 3
     },
     "01kg52v9snfcxt1jve191v3aeh": {
       "is_tutorial": true,
       "is_foundational": false,
-      "is_evergreen": true,
+      "is_evergreen": false,
       "interest_score": 2
     },
     "01kg4hy6f9wszmza56vvc5pbdz": {
@@ -407,19 +407,19 @@
       "is_tutorial": true,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 8
+      "interest_score": 4
     },
     "01kg25747gsvm57m9m5dc7j35t": {
       "is_tutorial": false,
       "is_foundational": true,
       "is_evergreen": true,
-      "interest_score": 3
+      "interest_score": 2
     },
     "01kg1jzqd4sxbwtw7hcnhp8hwm": {
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 6
+      "interest_score": 8
     },
     "01kg1es655s5c1ew31fbes8ae4": {
       "is_tutorial": false,
@@ -431,7 +431,7 @@
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 7
+      "interest_score": 8
     },
     "01kfztf31chzc120yet9ckpk6p": {
       "is_tutorial": false,
@@ -449,11 +449,11 @@
       "is_tutorial": true,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 8
+      "interest_score": 9
     },
     "01kfab5yfq9hx7tc6c3f90y56f": {
       "is_tutorial": true,
-      "is_foundational": false,
+      "is_foundational": true,
       "is_evergreen": true,
       "interest_score": 2
     },
@@ -478,32 +478,32 @@
     "01kes33g1fbdg6b294xz7w4jtt": {
       "is_tutorial": false,
       "is_foundational": false,
-      "is_evergreen": true,
-      "interest_score": 6
+      "is_evergreen": false,
+      "interest_score": 2
     },
     "01ker9ertz01bavfn5bc79e5dt": {
       "is_tutorial": false,
-      "is_foundational": false,
+      "is_foundational": true,
       "is_evergreen": false,
-      "interest_score": 2
+      "interest_score": 8
     },
     "01ken0sk545cynvs3e44ezwrmc": {
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 2
+      "interest_score": 3
     },
     "01kehqw0bh71ghpqrjbxrs9ndv": {
       "is_tutorial": false,
       "is_foundational": true,
       "is_evergreen": true,
-      "interest_score": 8
+      "interest_score": 9
     },
     "01kehqcxrgjpevpz78xx06w5mp": {
       "is_tutorial": false,
       "is_foundational": false,
       "is_evergreen": false,
-      "interest_score": 8
+      "interest_score": 9
     },
     "01keh0mtv65mmaj4vwam6etx96": {
       "is_tutorial": false,
@@ -515,7 +515,7 @@
       "is_tutorial": true,
       "is_foundational": false,
       "is_evergreen": true,
-      "interest_score": 8
+      "interest_score": 9
     },
     "01ke9z29ytbhqp25karjrhxfb6": {
       "is_tutorial": false,
@@ -525,9 +525,9 @@
     },
     "01ke9z0vpb9xqf5ateyympwzpm": {
       "is_tutorial": false,
-      "is_foundational": false,
-      "is_evergreen": false,
-      "interest_score": 3
+      "is_foundational": true,
+      "is_evergreen": true,
+      "interest_score": 8
     },
     "01kd5dk9yksre5adnm9w8q9vme": {
       "is_tutorial": false,
@@ -537,7 +537,7 @@
     },
     "01kczxrxfb9cbratcp54yptvy3": {
       "is_tutorial": false,
-      "is_foundational": false,
+      "is_foundational": true,
       "is_evergreen": true,
       "interest_score": 8
     },
@@ -551,7 +551,7 @@
       "is_tutorial": false,
       "is_foundational": true,
       "is_evergreen": true,
-      "interest_score": 4
+      "interest_score": 8
     },
     "01kcgefhszbsw1gk9vj18g5pn0": {
       "is_tutorial": true,
@@ -569,7 +569,7 @@
       "is_tutorial": false,
       "is_foundational": true,
       "is_evergreen": true,
-      "interest_score": 3
+      "interest_score": 2
     },
     "01kba5sc2x0n5x2dqqrxvsnbh9": {
       "is_tutorial": false,
@@ -579,7 +579,7 @@
     },
     "01kba5q30d36vfk144nzpkgrc7": {
       "is_tutorial": false,
-      "is_foundational": true,
+      "is_foundational": false,
       "is_evergreen": true,
       "interest_score": 2
     },
@@ -593,11 +593,11 @@
       "is_tutorial": false,
       "is_foundational": true,
       "is_evergreen": true,
-      "interest_score": 3
+      "interest_score": 2
     },
     "01k7z3amqe376ky08bkmjbnp3v": {
       "is_tutorial": true,
-      "is_foundational": false,
+      "is_foundational": true,
       "is_evergreen": true,
       "interest_score": 7
     },
@@ -605,17 +605,17 @@
       "is_tutorial": false,
       "is_foundational": true,
       "is_evergreen": true,
-      "interest_score": 3
+      "interest_score": 2
     },
     "01k6kdznqz4fc7p58vmn2vgbg0": {
       "is_tutorial": false,
       "is_foundational": true,
       "is_evergreen": true,
-      "interest_score": 2
+      "interest_score": 4
     },
     "01k67ye0mgddw1ns89r60wbncw": {
       "is_tutorial": false,
-      "is_foundational": true,
+      "is_foundational": false,
       "is_evergreen": true,
       "interest_score": 3
     },
@@ -623,7 +623,7 @@
       "is_tutorial": true,
       "is_foundational": true,
       "is_evergreen": true,
-      "interest_score": 2
+      "interest_score": 8
     },
     "01k62kckeewb1936zrjewhbhvn": {
       "is_tutorial": true,
@@ -639,19 +639,13 @@
     },
     "01k40m21dnxqcfwapgck0zh6vv": {
       "is_tutorial": false,
-      "is_foundational": false,
+      "is_foundational": true,
       "is_evergreen": true,
-      "interest_score": 2
-    },
-    "01k3s3pk3kqp6cdj4h60q0tvzs": {
-      "is_tutorial": false,
-      "is_foundational": false,
-      "is_evergreen": true,
-      "interest_score": 2
+      "interest_score": 5
     },
     "01k3dvd0c59hv21vrgt2fjwazk": {
       "is_tutorial": false,
-      "is_foundational": false,
+      "is_foundational": true,
       "is_evergreen": true,
       "interest_score": 2
     },
@@ -659,7 +653,7 @@
       "is_tutorial": true,
       "is_foundational": true,
       "is_evergreen": true,
-      "interest_score": 2
+      "interest_score": 4
     },
     "01k1sv73j1ksk35k38e375h0b7": {
       "is_tutorial": true,
@@ -679,12 +673,6 @@
       "is_evergreen": true,
       "interest_score": 9
     },
-    "01k0y1vj3chjv20pfb9vrn68dz": {
-      "is_tutorial": false,
-      "is_foundational": false,
-      "is_evergreen": true,
-      "interest_score": 2
-    },
     "01k0q7k2k291yw2tt3mkesgpx8": {
       "is_tutorial": true,
       "is_foundational": true,
@@ -693,9 +681,9 @@
     },
     "01k0p04qds3k7b6mxrrfggvpt2": {
       "is_tutorial": false,
-      "is_foundational": true,
+      "is_foundational": false,
       "is_evergreen": true,
-      "interest_score": 8
+      "interest_score": 3
     },
     "01jy2bx4yjy7cc3fb6cs5zy8ma": {
       "is_tutorial": false,
