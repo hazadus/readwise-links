@@ -27,7 +27,7 @@ ROOT_DIR = Path(__file__).parent.parent
 INTERESTS_FILE = ROOT_DIR / "interests.md"
 CACHE_FILE = ROOT_DIR / "data" / "triage_cache.json"
 TRIAGE_JSON = ROOT_DIR / "data" / "triage.json"
-ARTICLES_JSON = ROOT_DIR / "web" / "src" / "assets" / "articles.json"
+ARTICLES_JSON = ROOT_DIR / "data" / "articles.json"
 TRIAGE_DIR = ROOT_DIR / "links" / "triage"
 
 TEXT_LIMIT = 25_000
@@ -35,7 +35,7 @@ OPENROUTER_RATE_LIMIT_DELAY = 2  # секунды между запросами 
 
 # Описания подборок: (заголовок, описание критерия)
 COLLECTION_META = {
-    "top": ("⭐ Топ рекомендаций", "10 статей с наивысшим interest_score"),
+    "top": ("⭐ Топ рекомендаций", "20 статей с наивысшим interest_score"),
     "shortest": (
         "📄 10 самых коротких",
         "Короткие статьи (не туториалы, не основы), отсортированные по объёму",
@@ -110,8 +110,7 @@ def build_collections(
 
     def score_sort(pair: tuple) -> tuple:
         """Сортировка по interest_score DESC, затем word_count DESC."""
-        _, t = pair
-        a, _ = pair
+        a, t = pair
         return (-t["interest_score"], -(a.word_count or 0))
 
     top = sorted(enriched, key=score_sort)[:20]

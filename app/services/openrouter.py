@@ -109,5 +109,5 @@ def analyze_article(
         "is_tutorial": bool(result["is_tutorial"]),
         "is_foundational": bool(result["is_foundational"]),
         "is_evergreen": bool(result["is_evergreen"]),
-        "interest_score": int(result["interest_score"]),
+        "interest_score": max(1, min(10, int(result["interest_score"]))),
     }
