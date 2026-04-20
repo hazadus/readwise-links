@@ -75,7 +75,7 @@
 
 ---
 
-- [ ] **6. Интеграция в CI (`archive.yml` + GitHub Secret)**
+- [x] **6. Интеграция в CI (`archive.yml` + GitHub Secret)**
 
   - Добавить шаг запуска `triage.py` после `main.py` в `.github/workflows/archive.yml`
   - Добавить `OPENROUTER_API_KEY` в список коммитируемых файлов (`git add`)
