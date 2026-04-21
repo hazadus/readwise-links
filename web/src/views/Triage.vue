@@ -8,47 +8,55 @@ const triage = triageData as unknown as TriageJson;
 const collections: {
   key: keyof TriageCollections;
   title: string;
+  icon: string;
   description: string;
 }[] = [
   {
     key: "top",
     title: "Топ-20",
+    icon: "⭐",
     description:
       "Топ-20 статей с наивысшим баллом интереса. LLM оценивает каждую статью по шкале 1–10 на основе списка интересов — здесь собраны лучшие.",
   },
   {
     key: "quick_wins",
     title: "Быстрые победы",
+    icon: "⚡",
     description:
       "Короткие статьи с высоким баллом интереса, которые можно быстро прочитать и сразу применить на практике.",
   },
   {
     key: "shortest",
     title: "Короткие статьи",
+    icon: "📄",
     description:
       "Самые короткие статьи в очереди «Read Later» — отсортированы по длине, идеально для быстрого чтения.",
   },
   {
     key: "timely",
     title: "Читать сейчас",
+    icon: "⏳",
     description:
       "Актуальные материалы, которые лучше прочитать сейчас: новости, тренды, события — со временем теряют ценность.",
   },
   {
     key: "fundamentals",
     title: "Основы",
+    icon: "🧠",
     description:
       "Фундаментальные материалы, которые не устаревают — основы технологий, концепций и принципов разработки.",
   },
   {
     key: "tutorials",
     title: "Руководства",
+    icon: "🛠️",
     description:
       "Практические руководства и туториалы — пошаговые инструкции для изучения новых инструментов и технологий.",
   },
   {
     key: "deep_reading",
     title: "Глубокое чтение",
+    icon: "📖",
     description:
       "Объёмные и сложные материалы, требующие времени и сосредоточенного внимания.",
   },
@@ -82,7 +90,7 @@ const formatDate = (iso: string) =>
               : 'text-gray-600 hover:bg-gray-100'
           "
         >
-          {{ col.title }}
+          {{ col.icon }} {{ col.title }}
           <span
             class="ml-1 text-xs"
             :class="activeTab === col.key ? 'text-blue-200' : 'text-gray-400'"
