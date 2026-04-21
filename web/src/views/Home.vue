@@ -14,7 +14,7 @@ const newArticles = computed(() => data.filter((article) => article.location ===
 const archivedArticles = computed(() => data.filter((article) => article.location === "archive"));
 const laterArticles = computed(() => data.filter((article) => article.location === "later"));
 
-const filter = ref<string>("all");
+const filter = ref<string>("later");
 const searchQuery = ref<string>("");
 const debouncedSearchQuery = ref<string>("");
 const hasNotes = ref<boolean>(false);

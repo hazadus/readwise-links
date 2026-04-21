@@ -66,6 +66,53 @@ const formattedBuildTime = buildTime.toLocaleString("ru-RU", {
           </p>
         </section>
 
+        <section class="mb-8">
+          <h3 class="text-xl font-semibold text-gray-800 pb-2 border-b border-gray-200">
+            Как формируются подборки?
+          </h3>
+          <div class="mt-4 text-gray-600">
+            <p class="mb-3">
+              Каждую ночь LLM (через OpenRouter) анализирует все статьи из раздела «Read Later» и присваивает
+              каждой метаданные: балл интереса (1–10), а также признаки <em>tutorial</em>,
+              <em>foundational</em> и <em>evergreen</em>. На основе этих данных формируются 7 тематических
+              подборок:
+            </p>
+            <ul class="list-disc pl-6 space-y-2">
+              <li>
+                <strong>Топ-20</strong> — 20 статей с наивысшим баллом интереса среди всех «Read Later»
+                материалов.
+              </li>
+              <li>
+                <strong>Быстрые победы</strong> — короткие статьи с высоким баллом интереса, которые можно
+                быстро прочитать и применить.
+              </li>
+              <li>
+                <strong>Короткие статьи</strong> — самые короткие материалы в очереди, отсортированные по
+                длине.
+              </li>
+              <li>
+                <strong>Читать сейчас</strong> — актуальные материалы (новости, тренды), которые теряют
+                ценность со временем.
+              </li>
+              <li>
+                <strong>Основы</strong> — фундаментальные статьи с признаком <em>foundational</em> или
+                <em>evergreen</em>, которые не устаревают.
+              </li>
+              <li>
+                <strong>Руководства</strong> — практические туториалы с признаком <em>tutorial</em>.
+              </li>
+              <li>
+                <strong>Глубокое чтение</strong> — объёмные материалы с высоким баллом интереса для
+                вдумчивого изучения.
+              </li>
+            </ul>
+            <p class="mt-3 text-sm text-gray-500">
+              Результаты анализа кэшируются; повторный запуск пересчитывает только новые или изменившиеся
+              статьи.
+            </p>
+          </div>
+        </section>
+
         <section class="mb-4">
           <h3 class="text-xl font-semibold text-gray-800 pb-2 border-b border-gray-200">Как это работает?</h3>
           <div class="mt-4 text-gray-600">
