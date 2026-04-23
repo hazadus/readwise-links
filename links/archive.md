@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1563
+- Всего ссылок: 1564
 
 ## Ссылки
 
+- [Is Claude Code going to cost $100/month? Maybe, maybe not - it's all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything) [📖](https://read.readwise.io/read/01kpsf3pz6dzg2md44zmqpzspm) 👤 Simon Willison's Weblog 💬 939 🔖 #codex, #claude 🗓️ 2026-04-22
 - [Exploratory QA with AI Agents: Building a Site-Agnostic Harness](https://alexop.dev/posts/exploratory-qa-ai-agents-site-agnostic-harness/) [📖](https://read.readwise.io/read/01kpkpxp6w1s029akh17na8pr0) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2529 🔖 #codex, #agents, #claude, #testing, #frontend 🗓️ 2026-04-19
 - [Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/) [📖](https://read.readwise.io/read/01kpf8823kqtkr83w06a6w1npy) 👤 seangoedecke.com RSS feed 💬 1279 🔖 #llm 🗓️ 2026-04-18
 - [Codex for (almost) everything | OpenAI](https://openai.com/index/codex-for-almost-everything/) [📖](https://read.readwise.io/read/01kpc1m655bfsjvbxb9ph98b24) 👤 OpenAI 💬 11 🔖 #try, #codex 🗓️ 2026-04-16

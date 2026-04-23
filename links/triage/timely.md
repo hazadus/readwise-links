@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-04-22 04:10 UTC · Статей: 55
+Сгенерировано: 2026-04-23 04:12 UTC · Статей: 56
 
 ## Статьи
 
@@ -107,6 +107,8 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** Anthropic is building a safer and smarter AI called Claude that can help humans. The company focuses on making AI ethical and aligned with human values. They believe powerful AI could change the world but must be developed carefully to avoid risks.
 - [Twenty Five Years of Computing](https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmv4fykfx18fbq95cz8v7v3) 👤 susam.net 💬 3913 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** The author has over 25 years of experience in software development, starting from university days. Early challenges and learning moments helped them grow into a skilled engineer. They value professionalism, continuous learning, and kindness in their career.
+- [Drunk Post: Things I’ve Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as) [📖](https://read.readwise.io/read/01kpsssst430z5r8s4r0pmtrcw) 👤 luminousmen 💬 3733 ⭐ 2 🔖 #career 🗓️ 2026-04-22
+    > **Резюме:** A senior data engineer shares honest lessons from 10 years in tech, saying fundamentals matter more than tools. Good code is simple and helps others, and job satisfaction means knowing when to move on. Learning never stops, and true value comes from teamwork, growth, and balance.
 - [The Software Industrial Revolution](https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw7mm8skajhhkmnf0tp4s1) 👤 cannoneyed.com 💬 3140 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.
 - [Building Staff Engineer-Level Knowledge with AI](https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai) [📖](https://read.readwise.io/read/01kes33g1fbdg6b294xz7w4jtt) 👤 Dave Griffith 💬 2515 ⭐ 2 🔖 #llm 🗓️ 2026-01-12

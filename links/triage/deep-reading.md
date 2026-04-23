@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-04-22 04:10 UTC · Статей: 66
+Сгенерировано: 2026-04-23 04:12 UTC · Статей: 67
 
 ## Статьи
 
@@ -126,6 +126,8 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** Markdown started as a simple way to make writing on the internet easier without needing complicated code. Many people liked it and began using it everywhere, from blogs to apps like Microsoft Notepad and Apple Notes. Its success shows how open, easy ideas can grow big and change how we share information online.
 - [Twenty Five Years of Computing](https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmv4fykfx18fbq95cz8v7v3) 👤 susam.net 💬 3913 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** The author has over 25 years of experience in software development, starting from university days. Early challenges and learning moments helped them grow into a skilled engineer. They value professionalism, continuous learning, and kindness in their career.
+- [Drunk Post: Things I’ve Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as) [📖](https://read.readwise.io/read/01kpsssst430z5r8s4r0pmtrcw) 👤 luminousmen 💬 3733 ⭐ 2 🔖 #career 🗓️ 2026-04-22
+    > **Резюме:** A senior data engineer shares honest lessons from 10 years in tech, saying fundamentals matter more than tools. Good code is simple and helps others, and job satisfaction means knowing when to move on. Learning never stops, and true value comes from teamwork, growth, and balance.
 - [Hashing](https://samwho.dev/hashing) [📖](https://read.readwise.io/read/01kg25747gsvm57m9m5dc7j35t) 👤 Sam Rose 💬 3436 ⭐ 2 🗓️ 2026-01-28 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Hash functions turn inputs into numbers and help organize data efficiently. Good hash functions avoid collisions and spread outputs evenly to keep systems fast. They are important for tools like hash maps and use techniques like random seeds to stay secure.
 - [The Software Industrial Revolution](https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw7mm8skajhhkmnf0tp4s1) 👤 cannoneyed.com 💬 3140 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01

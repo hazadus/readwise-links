@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T04:10:40.936667+00:00",
+  "generated_at": "2026-04-23T04:12:20.505285+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -393,6 +393,34 @@
         }
       },
       {
+        "id": "01kpsshwfyfcf9wg0hs7f3024j",
+        "url": "https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j",
+        "source_url": "https://www.youtube.com/watch?v=sSAIC8GQRe8",
+        "title": "ИИ для самых маленьких: как работает LLM и ИИ-агент",
+        "author": "Диджитализируй!",
+        "image_url": "https://i.ytimg.com/vi/sSAIC8GQRe8/sddefault.jpg",
+        "word_count": null,
+        "summary": "Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1776834654223
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-22T05:10:38.334000+00:00",
+        "last_moved_at": "2026-04-22T05:10:51.470000+00:00",
+        "published_date": "2026-04-21",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
         "id": "01kjnjanqgfzsvenqw6d62rxqv",
         "url": "https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv",
         "source_url": "https://minimaxir.com/2026/02/ai-agent-coding/",
@@ -485,28 +513,6 @@
         "saved_at": "2026-02-18T20:12:46.609000+00:00",
         "last_moved_at": "2026-02-18T20:12:48.656000+00:00",
         "published_date": "2026-02-17",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01knbv6r1n0rt1fmt8eye7m8c0",
-        "url": "https://read.readwise.io/read/01knbv6r1n0rt1fmt8eye7m8c0",
-        "source_url": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev",
-        "title": "Some uncomfortable truths about AI coding agents",
-        "author": "standupforme.app",
-        "image_url": "",
-        "word_count": 3485,
-        "summary": "AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.",
-        "notes": "Via TLDR Newsletter",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-04T08:54:26.613000+00:00",
-        "last_moved_at": "2026-04-04T08:54:31.257000+00:00",
-        "published_date": "2026-03-26",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -1330,6 +1336,34 @@
       }
     ],
     "quick_wins": [
+      {
+        "id": "01kpsshwfyfcf9wg0hs7f3024j",
+        "url": "https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j",
+        "source_url": "https://www.youtube.com/watch?v=sSAIC8GQRe8",
+        "title": "ИИ для самых маленьких: как работает LLM и ИИ-агент",
+        "author": "Диджитализируй!",
+        "image_url": "https://i.ytimg.com/vi/sSAIC8GQRe8/sddefault.jpg",
+        "word_count": null,
+        "summary": "Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1776834654223
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-22T05:10:38.334000+00:00",
+        "last_moved_at": "2026-04-22T05:10:51.470000+00:00",
+        "published_date": "2026-04-21",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
       {
         "id": "01kczxrxfb9cbratcp54yptvy3",
         "url": "https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3",
@@ -5048,6 +5082,34 @@
         }
       },
       {
+        "id": "01kpsssst430z5r8s4r0pmtrcw",
+        "url": "https://read.readwise.io/read/01kpsssst430z5r8s4r0pmtrcw",
+        "source_url": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
+        "title": "Drunk Post: Things I’ve Learned as a Senior Engineer",
+        "author": "luminousmen",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!V0bv!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a6bc166-fe0b-4925-ba8b-f1246e85634a_2388x1668.jpeg",
+        "word_count": 3733,
+        "summary": "A senior data engineer shares honest lessons from 10 years in tech, saying fundamentals matter more than tools. Good code is simple and helps others, and job satisfaction means knowing when to move on. Learning never stops, and true value comes from teamwork, growth, and balance.",
+        "notes": "",
+        "tags": {
+          "career": {
+            "name": "Career",
+            "type": "manual",
+            "created": 1776834908555
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-22T05:14:57.731000+00:00",
+        "last_moved_at": "2026-04-22T05:15:03.415000+00:00",
+        "published_date": "2026-04-21",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01kg25747gsvm57m9m5dc7j35t",
         "url": "https://read.readwise.io/read/01kg25747gsvm57m9m5dc7j35t",
         "source_url": "https://samwho.dev/hashing",
@@ -6420,6 +6482,34 @@
         "saved_at": "2026-02-03T10:39:25.743000+00:00",
         "last_moved_at": "2026-02-03T10:39:27.790000+00:00",
         "published_date": "2026-02-03",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01kpsshwfyfcf9wg0hs7f3024j",
+        "url": "https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j",
+        "source_url": "https://www.youtube.com/watch?v=sSAIC8GQRe8",
+        "title": "ИИ для самых маленьких: как работает LLM и ИИ-агент",
+        "author": "Диджитализируй!",
+        "image_url": "https://i.ytimg.com/vi/sSAIC8GQRe8/sddefault.jpg",
+        "word_count": null,
+        "summary": "Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1776834654223
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-22T05:10:38.334000+00:00",
+        "last_moved_at": "2026-04-22T05:10:51.470000+00:00",
+        "published_date": "2026-04-21",
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
@@ -10729,6 +10819,34 @@
         "saved_at": "2026-03-01T13:59:17.202000+00:00",
         "last_moved_at": "2026-03-01T13:59:25.116000+00:00",
         "published_date": "2026-02-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kpsssst430z5r8s4r0pmtrcw",
+        "url": "https://read.readwise.io/read/01kpsssst430z5r8s4r0pmtrcw",
+        "source_url": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
+        "title": "Drunk Post: Things I’ve Learned as a Senior Engineer",
+        "author": "luminousmen",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!V0bv!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a6bc166-fe0b-4925-ba8b-f1246e85634a_2388x1668.jpeg",
+        "word_count": 3733,
+        "summary": "A senior data engineer shares honest lessons from 10 years in tech, saying fundamentals matter more than tools. Good code is simple and helps others, and job satisfaction means knowing when to move on. Learning never stops, and true value comes from teamwork, growth, and balance.",
+        "notes": "",
+        "tags": {
+          "career": {
+            "name": "Career",
+            "type": "manual",
+            "created": 1776834908555
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-22T05:14:57.731000+00:00",
+        "last_moved_at": "2026-04-22T05:15:03.415000+00:00",
+        "published_date": "2026-04-21",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

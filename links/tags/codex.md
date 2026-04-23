@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [Is Claude Code going to cost $100/month? Maybe, maybe not - it's all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything) [📖](https://read.readwise.io/read/01kpsf3pz6dzg2md44zmqpzspm) 👤 Simon Willison's Weblog 💬 939 🔖 #codex, #claude 🗓️ 2026-04-22
+    > **Резюме:** Anthropic quietly tested moving Claude Code from the $20 plan to $100/month plans, causing confusion and anger. This change risks losing trust and pushing users toward competitors like OpenAI's Codex. The author hopes Anthropic will keep Claude Code affordable to maintain user loyalty and accessibility.
 - [Exploratory QA with AI Agents: Building a Site-Agnostic Harness](https://alexop.dev/posts/exploratory-qa-ai-agents-site-agnostic-harness/) [📖](https://read.readwise.io/read/01kpkpxp6w1s029akh17na8pr0) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2529 🔖 #codex, #agents, #claude, #testing, #frontend 🗓️ 2026-04-19
     > **Резюме:** A thin Bun runner that hands a coding agent one charter and lets it drive a real browser through an exploratory QA session. Works with Claude, Codex, or Copilot, and any browser CLI.
 - [Codex for (almost) everything | OpenAI](https://openai.com/index/codex-for-almost-everything/) [📖](https://read.readwise.io/read/01kpc1m655bfsjvbxb9ph98b24) 👤 OpenAI 💬 11 🔖 #try, #codex 🗓️ 2026-04-16

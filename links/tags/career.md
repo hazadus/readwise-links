@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 76
+- Всего ссылок: 77
 
 ## Ссылки
 
+- [Drunk Post: Things I’ve Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as) [📖](https://read.readwise.io/read/01kpsssst430z5r8s4r0pmtrcw) 👤 luminousmen 💬 3733 🔖 #career 🗓️ 2026-04-22
+    > **Резюме:** A senior data engineer shares honest lessons from 10 years in tech, saying fundamentals matter more than tools. Good code is simple and helps others, and job satisfaction means knowing when to move on. Learning never stops, and true value comes from teamwork, growth, and balance.
 - [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) [📖](https://read.readwise.io/read/01kn4wcadfjm540wfsav7pgxnp) 👤 Matheus Lima 💬 847 🔖 #career, #management, #communication 🗓️ 2026-04-01
     > **Резюме:** If you want something at work, say it out loud. Your silence isn't saving you.
 - [Working on products people hate](https://seangoedecke.com/working-on-products-people-hate/) [📖](https://read.readwise.io/read/01kms2jy8ycdb58yc22naxwrr6) 👤 seangoedecke.com RSS feed 💬 1014 🔖 #career 🗓️ 2026-03-28

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 31
+- Всего ссылок: 32
 
 ## Ссылки
 
+- [Is Claude Code going to cost $100/month? Maybe, maybe not - it's all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything) [📖](https://read.readwise.io/read/01kpsf3pz6dzg2md44zmqpzspm) 👤 Simon Willison's Weblog 💬 939 🔖 #codex, #claude 🗓️ 2026-04-22
+    > **Резюме:** Anthropic quietly tested moving Claude Code from the $20 plan to $100/month plans, causing confusion and anger. This change risks losing trust and pushing users toward competitors like OpenAI's Codex. The author hopes Anthropic will keep Claude Code affordable to maintain user loyalty and accessibility.
 - [Exploratory QA with AI Agents: Building a Site-Agnostic Harness](https://alexop.dev/posts/exploratory-qa-ai-agents-site-agnostic-harness/) [📖](https://read.readwise.io/read/01kpkpxp6w1s029akh17na8pr0) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2529 🔖 #codex, #agents, #claude, #testing, #frontend 🗓️ 2026-04-19
     > **Резюме:** A thin Bun runner that hands a coding agent one charter and lets it drive a real browser through an exploratory QA session. Works with Claude, Codex, or Copilot, and any browser CLI.
 - [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) [📖](https://read.readwise.io/read/01knymwy6b02avchen3gkmjr08) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11

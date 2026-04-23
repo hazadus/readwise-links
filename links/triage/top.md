@@ -2,7 +2,7 @@
 
 _20 статей с наивысшим interest_score_
 
-Сгенерировано: 2026-04-22 04:10 UTC · Статей: 20
+Сгенерировано: 2026-04-23 04:12 UTC · Статей: 20
 
 ## Статьи
 
@@ -40,6 +40,8 @@ They save money and offer flexibility, though top cloud models can still be stro
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
 - [What happens in early kernel boot on Apple silicon?](https://eclecticlight.co/2026/02/03/what-happens-in-early-kernel-boot-on-apple-silicon/) [📖](https://read.readwise.io/read/01kghhbvhebz3aec39q68wdyg3) 👤 The Eclectic Light Company 💬 1055 ⭐ 9 🔖 #macos 🗓️ 2026-02-03 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Apple silicon Macs start booting with three secure stages before loading the macOS kernel about 5.3 seconds after power-on. The kernel then starts hardware, security services, and mounts important volumes, but user data stays locked until the password is entered. By 10 seconds, key system processes run with secure access, while user data remains protected by FileVault.
+- [ИИ для самых маленьких: как работает LLM и ИИ-агент](https://www.youtube.com/watch?v=sSAIC8GQRe8) [📖](https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j) 👤 Диджитализируй! ⭐ 9 🔖 #llm 🗓️ 2026-04-22 · 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.
 - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) [📖](https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv) 👤 Max Woolf's Blog 💬 6903 ⭐ 8 🔖 #llm 🗓️ 2026-03-01
     > **Заметка:** Via https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything
     > **Резюме:** The author tested AI coding agents and found them surprisingly good at writing and optimizing Rust and Python code. These agents created fast, efficient machine learning tools that rival existing libraries. The author encourages others to try modern agents with clear coding guidelines for better results.
@@ -49,6 +51,3 @@ They save money and offer flexibility, though top cloud models can still be stro
     > **Резюме:** Craft, a startup focused on docs and tasks, shifted quickly to use AI tools called Craft Agents that help both engineers and non-engineers work better. The new AI tool lets teams automate tasks and build things faster, with non-technical staff using it even more than developers. This change shows how startups are adopting AI deeply to improve how they build software and run their work.
 - [Coding Agents in Feb 2026](https://calv.info/agents-feb-2026) [📖](https://read.readwise.io/read/01khs64f4hmr6kkggyegr22xxg) 👤 calv.info 💬 3642 ⭐ 8 🗓️ 2026-02-18
     > **Резюме:** Calvin French-Owen uses different coding agents like Claude Code, Opus, and Codex to plan, write, and review code efficiently. He values context understanding and automation to improve his workflow and manage multiple tasks. His approach blends planning, tool use, and code correctness to get the best results from each agent.
-- [Some uncomfortable truths about AI coding agents](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01knbv6r1n0rt1fmt8eye7m8c0) 👤 standupforme.app 💬 3485 ⭐ 8 🗓️ 2026-04-04
-    > **Заметка:** Via TLDR Newsletter
-    > **Резюме:** AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.

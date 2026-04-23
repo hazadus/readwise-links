@@ -2,10 +2,12 @@
 
 _Короткие интересные статьи (до 800 слов), не туториалы_
 
-Сгенерировано: 2026-04-22 04:10 UTC · Статей: 3
+Сгенерировано: 2026-04-23 04:12 UTC · Статей: 4
 
 ## Статьи
 
+- [ИИ для самых маленьких: как работает LLM и ИИ-агент](https://www.youtube.com/watch?v=sSAIC8GQRe8) [📖](https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j) 👤 Диджитализируй! ⭐ 9 🔖 #llm 🗓️ 2026-04-22 · 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.
 - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3) 👤 ngrok 💬 78 ⭐ 8 🔖 #llm, #explorable, #joyandcuriosity 🗓️ 2025-12-21 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/6947a45b-3860-8331-a302-0c3a55ab5594
     > **Резюме:** Prompt caching stores and reuses parts of LLM requests to avoid repeating work. This cuts token usage and cost by up to tenfold. It requires tracking inputs, outputs, and cache validity to stay correct.

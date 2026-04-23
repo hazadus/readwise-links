@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 118
+- Всего ссылок: 120
 
 ## Ссылки
 
+- [Drunk Post: Things I’ve Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as) [📖](https://read.readwise.io/read/01kpsssst430z5r8s4r0pmtrcw) 👤 luminousmen 💬 3733 🔖 #career 🗓️ 2026-04-22
+    > **Резюме:** A senior data engineer shares honest lessons from 10 years in tech, saying fundamentals matter more than tools. Good code is simple and helps others, and job satisfaction means knowing when to move on. Learning never stops, and true value comes from teamwork, growth, and balance.
+- [ИИ для самых маленьких: как работает LLM и ИИ-агент](https://www.youtube.com/watch?v=sSAIC8GQRe8) [📖](https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j) 👤 Диджитализируй! 🔖 #llm 🗓️ 2026-04-22
+    > **Резюме:** Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.
 - [Intelligent Curation Tagging for Creative Workflows](https://qwelian.com/posts/FINE_SHYT_Intelligent_Curation_Tagging_for_Creative_Workflows) [📖](https://read.readwise.io/read/01kpmngdv5pg97fgh18ytem7jz) 👤 qwelian.com 💬 3370 🗓️ 2026-04-20
     > **Заметка:** Via HN
     > **Резюме:** This system helps organize large photo archives by using AI to describe and rate images based on personal taste. It works in stages, analyzing technical quality, extracting metadata, and learning from user ratings to improve recommendations. Ultimately, the AI supports but does not replace human judgment in choosing which photos to keep or export.

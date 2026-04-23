@@ -2,7 +2,7 @@
 
 _Фундаментальные материалы с долгосрочной ценностью_
 
-Сгенерировано: 2026-04-22 04:10 UTC · Статей: 42
+Сгенерировано: 2026-04-23 04:12 UTC · Статей: 43
 
 ## Статьи
 
@@ -23,6 +23,8 @@ _Фундаментальные материалы с долгосрочной �
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
 - [What happens in early kernel boot on Apple silicon?](https://eclecticlight.co/2026/02/03/what-happens-in-early-kernel-boot-on-apple-silicon/) [📖](https://read.readwise.io/read/01kghhbvhebz3aec39q68wdyg3) 👤 The Eclectic Light Company 💬 1055 ⭐ 9 🔖 #macos 🗓️ 2026-02-03 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Apple silicon Macs start booting with three secure stages before loading the macOS kernel about 5.3 seconds after power-on. The kernel then starts hardware, security services, and mounts important volumes, but user data stays locked until the password is entered. By 10 seconds, key system processes run with secure access, while user data remains protected by FileVault.
+- [ИИ для самых маленьких: как работает LLM и ИИ-агент](https://www.youtube.com/watch?v=sSAIC8GQRe8) [📖](https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j) 👤 Диджитализируй! ⭐ 9 🔖 #llm 🗓️ 2026-04-22 · 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.
 - [Eight Software Markets AI That Will Transform Differently](https://davegriffith.substack.com/p/eight-software-markets-ai-that-will) [📖](https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt) 👤 Dave Griffith 💬 2917 ⭐ 8 🔖 #llm 🗓️ 2026-01-12 · 🧠 основы
     > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) [📖](https://read.readwise.io/read/01ke9z0vpb9xqf5ateyympwzpm) 👤 Nikita Prokopov 💬 2754 ⭐ 8 🗓️ 2026-01-06 · 🧠 основы, 🌲 вечнозелёное
