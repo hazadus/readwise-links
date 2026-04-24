@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 21
+- Всего ссылок: 22
 
 ## Ссылки
 
+- [I Am a Cross-Cutting Concern](https://scottlawsonbc.com/post/monorepo) [📖](https://read.readwise.io/read/01kp3by8wbvfkvzb5v915nng9n) 👤 Scott Lawson 💬 1792 🔖 #pkm 🗓️ 2026-04-13
+    > **Резюме:** Scott Lawson keeps all his diverse projects in one personal monorepo called slam, which makes it easier to find and connect his work. This setup helps him spot patterns, reuse code, and build tools that fit his needs. Having everything together saves time and reveals links between projects that might be missed in separate repos.
 - [Building an AI Interface for Your Second Brain](https://alexop.dev/posts/building-ai-interface-second-brain/) [📖](https://read.readwise.io/read/01kfafhaw7wzn8c7t64p139nhw) 👤 Alexander Opalic 💬 3269 🔖 #llm, #pkm, #try, #nuxt, #agents 🗓️ 2026-01-19
     > **Резюме:** This guide shows how to build an AI system where Claude searches and reads your notes to answer questions using only your personal knowledge. Claude uses tools to find, read, and connect notes, avoiding overwhelming prompts by fetching information as needed. This agentic loop helps you access and explore your Second Brain efficiently.
 - [A Metabolic Workspace](https://www.joanwestenberg.com/a-metabolic-workspace/?ref=westenberg-newsletter) [📖](https://read.readwise.io/read/01keh049ch3qtpq6nv19xst946) 👤 Westenberg. 💬 2361 🔖 #pkm, #productivity 🗓️ 2026-01-09

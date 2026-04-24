@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 32
+- Всего ссылок: 31
 
 ## Ссылки
 
@@ -18,9 +18,6 @@
     > **Резюме:** Don Knuth studied a special graph with vertices labeled by triples and found a way to split its edges into three directed cycles for odd-sized graphs. He created a Python program that works for several odd sizes, proving all cycles cover every vertex exactly once. Many cycles exist for size 3, but only some generalize correctly to larger odd sizes.
 - [Giving external agentic coding tools access to Xcode](https://developer.apple.com/documentation/Xcode/giving-agentic-coding-tools-access-to-xcode) [📖](https://read.readwise.io/read/01kjf9gh0pbkwte1awkd12j17r) 👤 Apple Developer Documentation 💬 243 🔖 #mcp, #codex, #macos, #xcode, #claude 🗓️ 2026-02-27
     > **Резюме:** You can let external coding tools control your Xcode project by enabling permissions in Xcode settings. Use the Model Context Protocol (MCP) server and Terminal commands to connect these tools to Xcode. Xcode will notify you when the external tool is connected and active.
-- [2 Weeks of Claude Code for Me](https://jeremydmiller.com/2026/02/14/2-weeks-of-claude-code-for-me/) [📖](https://read.readwise.io/read/01khxbjw835g8m35r1s5m2a44h) 👤 jeremydmiller Uncategorized February 14 💬 1337 🔖 #llm, #claude 🗓️ 2026-02-20
-    > **Заметка:** Via https://martinfowler.com/fragments/2026-02-19.html
-    > **Резюме:** The author spent two weeks using the AI tool Claude to improve his software projects and was surprised by the progress made. He found AI helpful for repetitive tasks, testing, and coding new features, but also felt conflicted about its impact on his work. Overall, he is excited but cautious about how AI will affect his career and the industry.
 - [A few random notes from claude coding quite a bit...](https://x.com/karpathy/status/2015883857489522876?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kgaagn1bfeww4pthcte7m7ma) 👤 Andrej Karpathy 💬 1125 🔖 #llm, #claude, #llm-devimpact 🗓️ 2026-01-31
     > **Резюме:** Large language models like Claude have changed coding from mostly manual work to mostly agent-driven work in just weeks. These models make mistakes but greatly speed up and expand what programmers can do. This shift will transform software engineering and work in 2026 and beyond.
 - [If Anthropic Succeeds, a Nation of Benevolent AI Geniuses Could Be Born](https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/) [📖](https://read.readwise.io/read/01kg1es655s5c1ew31fbes8ae4) 👤 Steven Levy 💬 5456 🔖 #claude 🗓️ 2026-01-28

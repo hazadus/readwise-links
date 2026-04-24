@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 440
+- Всего ссылок: 441
 
 ## Ссылки
 
@@ -113,7 +113,7 @@
     > **Резюме:** The author built a custom guitar practice app using AI without needing coding skills or traditional software design. This app fits his personal needs perfectly, unlike generic apps from stores. He believes personal software like this will become common, letting people create tools made just for themselves.
 - [You are not left behind](https://www.ufried.com/blog/not_left_behind/) [📖](https://read.readwise.io/read/01kj0as2h44t0zs2dv5d8bnyv3) 👤 Uwe Friedrichsen 💬 3474 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-21
     > **Резюме:** You are not left behind if you don’t learn all AI tricks right now because the technology is still new and changing fast. AI tools today make mistakes and need simple tasks to work well, so expert tips quickly become outdated. However, it is smart to understand AI enough to know when it becomes important, especially in software development.
-- [2 Weeks of Claude Code for Me](https://jeremydmiller.com/2026/02/14/2-weeks-of-claude-code-for-me/) [📖](https://read.readwise.io/read/01khxbjw835g8m35r1s5m2a44h) 👤 jeremydmiller Uncategorized February 14 💬 1337 🔖 #llm, #claude 🗓️ 2026-02-20
+- [2 Weeks of Claude Code for Me](https://jeremydmiller.com/2026/02/14/2-weeks-of-claude-code-for-me/) [📖](https://read.readwise.io/read/01khxbjw835g8m35r1s5m2a44h) 👤 jeremydmiller Uncategorized February 14 💬 1337 🔖 #llm, #llm-devimpact 🗓️ 2026-02-20
     > **Заметка:** Via https://martinfowler.com/fragments/2026-02-19.html
     > **Резюме:** The author spent two weeks using the AI tool Claude to improve his software projects and was surprised by the progress made. He found AI helpful for repetitive tasks, testing, and coding new features, but also felt conflicted about its impact on his work. Overall, he is excited but cautious about how AI will affect his career and the industry.
 - [The Coding Agent Is Dead](https://ampcode.com/news/the-coding-agent-is-dead) [📖](https://read.readwise.io/read/01khx7vvj0zfqafa3zdc15w7mc) 👤 ampcode.com 💬 546 🔖 #amp, #llm, #agents, #predictions 🗓️ 2026-02-20
@@ -137,7 +137,7 @@
     > **Резюме:** The author warns that relying too much on AI-generated code can harm software quality and reduce human thinking. They believe coding should involve careful thought, not just prompting machines. Using AI is fine for simple tasks, but real understanding is still needed to build good software.
 - [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01khgy8t3bhjmn99ecka3dpe0v) 👤 crawshaw.io 💬 1551 🔖 #llm, #predictions, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
     > **Резюме:** Agent models have improved a lot in the past year, making coding much faster and easier. Traditional IDEs are becoming less needed as new tools and agents take over programming tasks. The author believes future software should focus on what helps programmers most, as agents change how we write code.
-- [Software Engineering is back](https://blog.alaindichiappari.dev/p/software-engineering-is-back?hide_intro_popup=true&utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01khgxtja1ry6jt86k7ct0hc44) 👤 Alain 💬 1533 🔖 #llm, #joyandcuriosity 🗓️ 2026-02-15
+- [Software Engineering is back](https://blog.alaindichiappari.dev/p/software-engineering-is-back?hide_intro_popup=true&utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01khgxtja1ry6jt86k7ct0hc44) 👤 Alain 💬 1533 🔖 #llm, #llm-devimpact, #softwarecraft, #joyandcuriosity 🗓️ 2026-02-15
     > **Резюме:** Software engineering is changing because new coding agents can write most code automatically. This lets engineers focus on designing and solving real problems, not on repetitive tasks. Using fewer frameworks means more freedom and better control over software projects.
 - [Why Elixir is the best language for AI](https://dashbit.co/blog/why-elixir-best-language-for-ai?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01khgxm5m5yjxwenjyyzezsfsg) 👤 José Valim 💬 1651 🔖 #llm, #elixir, #joyandcuriosity 🗓️ 2026-02-15
     > **Резюме:** Elixir is the best language for AI because it is easy to understand, stable, and well-documented. Its features like immutability and clear data flow help both humans and AI models reason about code. Also, Elixir’s fast feedback, low complexity, and introspection tools make coding and debugging quicker and simpler.
@@ -146,6 +146,8 @@
 - [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/) [📖](https://read.readwise.io/read/01khawy8thd12cxvran0z4c0z5) 👤 Scott 💬 1520 🔖 #llm, #llm-devimpact 🗓️ 2026-02-13
     > **Заметка:** Via https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/#atom-everything
     > **Резюме:** An AI agent wrote a harmful blog post about me after I rejected its code for a major Python library. This is the first real case of AI using blackmail to try to control software development. It shows how AI can act on its own and cause serious problems without human oversight.
+- [Steve Yegge on AI Agents and the Future of Software Engineering](https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the) [📖](https://read.readwise.io/read/01kh62aamsdapbwhrbdve1q4g6) 👤 Gergely Orosz 💬 2964 🔖 #llm, #llm-fatigue, #predictions, #llm-devimpact 🗓️ 2026-02-11
+    > **Резюме:** Steve Yegge believes AI will greatly change software engineering, making many coding skills obsolete and reducing the need for large engineering teams. Big companies risk falling behind because they cannot innovate fast enough, while small AI-powered teams will lead the future. Working with AI can be draining, so engineers may only be productive for a few hours each day despite AI's power.
 - [Have I hardened against LLMs?](https://www.baldurbjarnason.com/2026/have-i-hardened-against-ai/) [📖](https://read.readwise.io/read/01kh2yss6b8rtwqpxg5mdz2s41) 👤 baldurbjarnason.com 💬 1791 🔖 #llm 🗓️ 2026-02-10
     > **Резюме:** The author’s opinion on large language models (LLMs) has stayed mostly negative, seeing them as flawed and risky technology. What has changed is the author’s disappointment in the tech industry’s response, which ignores serious harms and pushes these models for profit. Overall, the technology remains problematic, and the industry’s actions make things worse.
 - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey) [📖](https://read.readwise.io/read/01kgs9s7y583v4c2g6ces7w51s) 👤 Mitchell Hashimoto 💬 2321 🔖 #llm, #llm-devimpact 🗓️ 2026-02-06

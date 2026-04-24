@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [Squash and Stretch](https://www.joshwcomeau.com/animation/squash-and-stretch/) [📖](https://read.readwise.io/read/01kp3krh1pjhbemz69pnxdac1c) 👤 Josh W. Comeau 💬 1457 🔖 #css 🗓️ 2026-04-13
+- [Squash and Stretch](https://www.joshwcomeau.com/animation/squash-and-stretch/) [📖](https://read.readwise.io/read/01kp3krh1pjhbemz69pnxdac1c) 👤 Josh W. Comeau 💬 1457 🔖 #css, #animation 🗓️ 2026-04-13
     > **Резюме:** The squash and stretch animation technique makes objects look more lively by changing their shape during motion. Josh Comeau shows how to use this effect on SVG arrows for web interactions, using CSS or JavaScript for smooth transitions. He also offers a course called Whimsical Animations to teach advanced animation skills for web developers.
 - [Intro to CSS 3D transforms](https://3dtransforms.desandro.com/) [📖](https://read.readwise.io/read/01kgq03f8qbdtt95hvek827f1d) 👤 desandro.com 💬 460 🔖 #css, #try 🗓️ 2026-02-05
     > **Заметка:** Via https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/

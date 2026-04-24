@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T04:12:20.505285+00:00",
+  "generated_at": "2026-04-24T04:14:41.450768+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -226,34 +226,6 @@
         }
       },
       {
-        "id": "01kj2q3zvejs3dz0jr2a3v0642",
-        "url": "https://read.readwise.io/read/01kj2q3zvejs3dz0jr2a3v0642",
-        "source_url": "https://dbg.re/posts/car-file-format/?utm_source=tldrdev",
-        "title": "A Deep Dive into Apple's .car File Format",
-        "author": "ordinal0",
-        "image_url": "",
-        "word_count": 2364,
-        "summary": "Apple’s .car file uses a B+ tree called RENDITIONS to store image and color assets with detailed headers. It supports many pixel formats and compression types like LZFSE and JPEG for efficient storage. Asset names map to rendition keys, allowing easy lookup and linking between assets inside the file.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1771765376437
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-22T13:02:46.637000+00:00",
-        "last_moved_at": "2026-02-22T13:02:50.548000+00:00",
-        "published_date": "2026-01-25",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
         "id": "01ke9zfp6szzkfh4j6gjg01vje",
         "url": "https://read.readwise.io/read/01ke9zfp6szzkfh4j6gjg01vje",
         "source_url": "https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/",
@@ -271,62 +243,6 @@
         "triage": {
           "is_tutorial": true,
           "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kgafvcwkn82dn6431q6cpvht",
-        "url": "https://read.readwise.io/read/01kgafvcwkn82dn6431q6cpvht",
-        "source_url": "https://blog.xoria.org/macos-tips-threading/",
-        "title": "macOS Tips for Programmers: Threading",
-        "author": "xoria.org",
-        "image_url": "",
-        "word_count": 1305,
-        "summary": "macOS uses quality of service (QoS) classes to prioritize work and save energy by adjusting CPU use. Programmers should assign proper QoS classes to threads and use Dispatch queues to handle task priorities safely. Avoid locks that don't support QoS inheritance to prevent performance issues and bugs.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1769878710534
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-31T16:58:16.851000+00:00",
-        "last_moved_at": "2026-01-31T16:58:19.673000+00:00",
-        "published_date": "2024-11-25",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01khrydg4bmqbz31hq22v77qwz",
-        "url": "https://read.readwise.io/read/01khrydg4bmqbz31hq22v77qwz",
-        "source_url": "https://eclecticlight.co/2026/02/17/in-the-background-putting-threads-to-work/",
-        "title": "In the background: Putting threads to work",
-        "author": "The Eclectic Light Company",
-        "image_url": "https://eclecticlight.co/wp-content/uploads/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200",
-        "word_count": 1263,
-        "summary": "Apps run faster and stay responsive by using multiple threads that work together on different CPU cores. Apple silicon Macs use a Quality of Service system to decide which cores run which threads, balancing speed and power use. This helps apps perform well while saving battery and managing heat.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1771437485810
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-18T17:57:53.929000+00:00",
-        "last_moved_at": "2026-02-18T17:57:56.505000+00:00",
-        "published_date": "2026-02-17",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 9
         }
@@ -365,34 +281,6 @@
         }
       },
       {
-        "id": "01kghhbvhebz3aec39q68wdyg3",
-        "url": "https://read.readwise.io/read/01kghhbvhebz3aec39q68wdyg3",
-        "source_url": "https://eclecticlight.co/2026/02/03/what-happens-in-early-kernel-boot-on-apple-silicon/",
-        "title": "What happens in early kernel boot on Apple silicon?",
-        "author": "The Eclectic Light Company",
-        "image_url": "https://eclecticlight.co/wp-content/uploads/2025/06/bootdiskstructuremacosseq.png",
-        "word_count": 1055,
-        "summary": "Apple silicon Macs start booting with three secure stages before loading the macOS kernel about 5.3 seconds after power-on. The kernel then starts hardware, security services, and mounts important volumes, but user data stays locked until the password is entered. By 10 seconds, key system processes run with secure access, while user data remains protected by FileVault.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1770115177016
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-03T10:39:25.743000+00:00",
-        "last_moved_at": "2026-02-03T10:39:27.790000+00:00",
-        "published_date": "2026-02-03",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
         "id": "01kpsshwfyfcf9wg0hs7f3024j",
         "url": "https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j",
         "source_url": "https://www.youtube.com/watch?v=sSAIC8GQRe8",
@@ -413,1140 +301,6 @@
         "saved_at": "2026-04-22T05:10:38.334000+00:00",
         "last_moved_at": "2026-04-22T05:10:51.470000+00:00",
         "published_date": "2026-04-21",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kjnjanqgfzsvenqw6d62rxqv",
-        "url": "https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv",
-        "source_url": "https://minimaxir.com/2026/02/ai-agent-coding/",
-        "title": "An AI agent coding skeptic tries AI agent coding, in excessive detail",
-        "author": "Max Woolf's Blog",
-        "image_url": "https://minimaxir.com/2026/02/ai-agent-coding/featured.png",
-        "word_count": 6903,
-        "summary": "The author tested AI coding agents and found them surprisingly good at writing and optimizing Rust and Python code. These agents created fast, efficient machine learning tools that rival existing libraries. The author encourages others to try modern agents with clear coding guidelines for better results.",
-        "notes": "Via https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1772397886204
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-01T20:44:36.976000+00:00",
-        "last_moved_at": "2026-03-01T20:44:42.974000+00:00",
-        "published_date": "2026-02-27",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kg1jzqd4sxbwtw7hcnhp8hwm",
-        "url": "https://read.readwise.io/read/01kg1jzqd4sxbwtw7hcnhp8hwm",
-        "source_url": "https://cannoneyed.com/projects/isometric-nyc?utm_source=substack&utm_medium=email",
-        "title": "/ Isometric NYC",
-        "author": "cannoneyed.com",
-        "image_url": "",
-        "word_count": 3943,
-        "summary": "The author used AI agents to help build a pixel art map of NYC with very little coding. Image generation models still struggle with mistakes and automation is hard. Despite challenges, AI tools make large creative projects possible and inspire hope for the future.",
-        "notes": "",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1769580006325
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-28T05:59:54.532000+00:00",
-        "last_moved_at": "2026-01-28T05:59:58.961000+00:00",
-        "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kg1cwtt6qjef7dg86j5y98hd",
-        "url": "https://read.readwise.io/read/01kg1cwtt6qjef7dg86j5y98hd",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft",
-        "title": "Inside one startup’s crazy fast AI-first makeover",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!EVwx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95ab3637-7b93-4faf-8912-19698fe1f451_1600x914.png",
-        "word_count": 3790,
-        "summary": "Craft, a startup focused on docs and tasks, shifted quickly to use AI tools called Craft Agents that help both engineers and non-engineers work better. The new AI tool lets teams automate tasks and build things faster, with non-technical staff using it even more than developers. This change shows how startups are adopting AI deeply to improve how they build software and run their work.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-28T04:13:28.262000+00:00",
-        "last_moved_at": "2026-01-28T04:13:30.104000+00:00",
-        "published_date": "2026-01-27",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01khs64f4hmr6kkggyegr22xxg",
-        "url": "https://read.readwise.io/read/01khs64f4hmr6kkggyegr22xxg",
-        "source_url": "https://calv.info/agents-feb-2026",
-        "title": "Coding Agents in Feb 2026",
-        "author": "calv.info",
-        "image_url": "https://calv.info/api/og?title=Coding%20Agents%20in%20Feb%202026",
-        "word_count": 3642,
-        "summary": "Calvin French-Owen uses different coding agents like Claude Code, Opus, and Codex to plan, write, and review code efficiently. He values context understanding and automation to improve his workflow and manage multiple tasks. His approach blends planning, tool use, and code correctness to get the best results from each agent.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-02-18T20:12:46.609000+00:00",
-        "last_moved_at": "2026-02-18T20:12:48.656000+00:00",
-        "published_date": "2026-02-17",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      }
-    ],
-    "shortest": [
-      {
-        "id": "01kba5q30d36vfk144nzpkgrc7",
-        "url": "https://read.readwise.io/read/01kba5q30d36vfk144nzpkgrc7",
-        "source_url": "https://visualrambling.space/dithering-part-1/?utm_source=substack&utm_medium=email",
-        "title": "Dithering - Part 1",
-        "author": "visualrambling.space",
-        "image_url": "https://visualrambling.space/dithering-part-1/173b60e7df7a986124e6.png",
-        "word_count": 785,
-        "summary": "Dithering simulates many shades using only a few colors by arranging pixels into patterns. Ordered dithering compares pixel brightness to a threshold map to decide black or white. The series will explain threshold maps and error-diffusion algorithms in later parts.",
-        "notes": "",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1764499367778
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-11-30T10:42:40.779000+00:00",
-        "last_moved_at": "2025-12-01T05:41:16+00:00",
-        "published_date": "2025-10-22",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01khgqw73xf9cxjgxbk6gdvst7",
-        "url": "https://read.readwise.io/read/01khgqw73xf9cxjgxbk6gdvst7",
-        "source_url": "https://visualrambling.space/dithering-part-2/?utm_source=substack&utm_medium=email",
-        "title": "Dithering - Part 2",
-        "author": "visualrambling.space",
-        "image_url": "https://visualrambling.space/dithering-part-2/og-image.29bab9f33cde1897113a.png",
-        "word_count": 974,
-        "summary": "Ordered dithering uses a threshold map to turn grayscale images into black and white patterns that mimic the original brightness. Different threshold maps, like Bayer matrices, create unique patterns and smoother transitions between shades. More complex maps, such as void-and-cluster, produce natural textures and reduce visual artifacts.",
-        "notes": "",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1771162186422
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-15T13:29:40.733000+00:00",
-        "last_moved_at": "2026-02-15T13:29:43.926000+00:00",
-        "published_date": "2026-01-22",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kkeac4cvcpn0vb4y9v0pmwgt",
-        "url": "https://read.readwise.io/read/01kkeac4cvcpn0vb4y9v0pmwgt",
-        "source_url": "https://sjer.red/blog/2026/built-with-ai/?utm_source=tldrdev",
-        "title": "Things I've done with AI",
-        "author": "Jerred Shepherd",
-        "image_url": "https://sjer.red/blog/2026/built-with-ai/index.png",
-        "word_count": 1067,
-        "summary": "Jerred Shepherd loves programming and has used AI tools to build many projects without writing code himself. He learned to trust AI to write working code, focusing on problem-solving rather than perfect code style. Although AI makes programming faster, he sees challenges in testing and documentation that need better tools.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1773228402859
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-11T11:26:36.955000+00:00",
-        "last_moved_at": "2026-03-11T11:26:40.711000+00:00",
-        "published_date": "2026-03-09",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kp3bp2e1c7t54bkz8f1sqz05",
-        "url": "https://read.readwise.io/read/01kp3bp2e1c7t54bkz8f1sqz05",
-        "source_url": "https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email",
-        "title": "The Cognitive Dark Forest",
-        "author": "Janko",
-        "image_url": "",
-        "word_count": 1093,
-        "summary": "The internet used to be open and full of shared ideas, but now big companies control it and make it risky to show your thoughts. AI makes creating things easier, but it also lets big platforms copy and absorb your ideas quickly, so staying quiet feels safer. This \"cognitive dark forest\" means your innovations feed the system that threatens you, making hiding and sharing both dangerous.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1776081904177
-          },
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1776081905812
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1776081906605
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-13T12:04:57.921000+00:00",
-        "last_moved_at": "2026-04-13T12:05:01.750000+00:00",
-        "published_date": "2026-03-27",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kd5dk9yksre5adnm9w8q9vme",
-        "url": "https://read.readwise.io/read/01kd5dk9yksre5adnm9w8q9vme",
-        "source_url": "https://newsletter.manager.dev/p/a-scientists-guide-to-debugging-engineers",
-        "title": "A Scientist’s Guide to Debugging Engineers",
-        "author": "Anton Zaides",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!97UW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fzaidesanton.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D2044842995%26version%3D9",
-        "word_count": 1171,
-        "summary": "Engineers’ feelings affect their work as much as technical skills. Managers should notice emotions, listen, and help change small habits. Talking about feelings can boost focus, reliability, and code quality.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2025-12-23T10:55:36.915000+00:00",
-        "last_moved_at": "2025-12-23T10:55:41.548000+00:00",
-        "published_date": "2025-12-23",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01khxbjw835g8m35r1s5m2a44h",
-        "url": "https://read.readwise.io/read/01khxbjw835g8m35r1s5m2a44h",
-        "source_url": "https://jeremydmiller.com/2026/02/14/2-weeks-of-claude-code-for-me/",
-        "title": "2 Weeks of Claude Code for Me",
-        "author": "jeremydmiller Uncategorized February 14",
-        "image_url": "https://jeremydmiller.com/wp-content/uploads/2023/07/cropped-jasperfx-logo-final-orange-bg.jpg",
-        "word_count": 1337,
-        "summary": "The author spent two weeks using the AI tool Claude to improve his software projects and was surprised by the progress made. He found AI helpful for repetitive tasks, testing, and coding new features, but also felt conflicted about its impact on his work. Overall, he is excited but cautious about how AI will affect his career and the industry.",
-        "notes": "Via https://martinfowler.com/fragments/2026-02-19.html",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1771585504373
-          },
-          "claude": {
-            "name": "Claude",
-            "type": "manual",
-            "created": 1771585508734
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-20T11:04:59.395000+00:00",
-        "last_moved_at": "2026-02-20T11:05:02.812000+00:00",
-        "published_date": "2026-02-14",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kpk6w3rd5extz9ay7g099743",
-        "url": "https://read.readwise.io/read/01kpk6w3rd5extz9ay7g099743",
-        "source_url": "https://www.securitylab.ru/blog/personal/Techno_Obzor/360094.php",
-        "title": "AmneziaWG 2.0: как работает полная мимикрия трафика и чем она лучше обычной маскировки",
-        "author": "Alexander Antipov",
-        "image_url": "http://www.securitylab.ru/upload/blog/avatar/0d9/hepz13em2g55dme8lnad4j6lr4uk827i.jpg",
-        "word_count": 1350,
-        "summary": "AmneziaWG 2.0 improves traffic disguise by making VPN data look more like normal network traffic, but it does not make it completely invisible. The new version is more complex and harder to detect, yet it requires new configurations and can slow down connections. This update is a big step forward but not a final solution against deep traffic analysis.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-19T15:48:43.917000+00:00",
-        "last_moved_at": "2026-04-19T15:48:46.951000+00:00",
-        "published_date": "2026-03-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01kmet5erb6344eexjx5b10v35",
-        "url": "https://read.readwise.io/read/01kmet5erb6344eexjx5b10v35",
-        "source_url": "https://siddhantkhare.com/writing/ambition-tax",
-        "title": "The ambition tax",
-        "author": "Siddhant Khare",
-        "image_url": "https://siddhantkhare.com/favicon-512.png",
-        "word_count": 1364,
-        "summary": "Ambition comes with a hidden cost that creates distance between you and the people you love. Even after achieving your goals, you feel restless and unsure if it's enough. This \"ambition tax\" is a quiet struggle many face but few talk about.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-24T02:18:14.228000+00:00",
-        "last_moved_at": "2026-03-24T06:23:06.555000+00:00",
-        "published_date": "2026-03-23",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kp83vzf648ky7t3fw1jg94y6",
-        "url": "https://read.readwise.io/read/01kp83vzf648ky7t3fw1jg94y6",
-        "source_url": "https://www.francksauer.com/index.php/about/my-workspace",
-        "title": "Back to the roots",
-        "author": "Super User",
-        "image_url": null,
-        "word_count": 1383,
-        "summary": "The author grew up surrounded by electronics and discovered a passion for computers with the Ti-99/4a and Commodore 64. He worked in game development and music, building home studios and offices over the years. Later, after personal changes, he returned to his roots in computer graphics and created a museum for his vintage computers.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-15T08:24:35.046000+00:00",
-        "last_moved_at": "2026-04-15T08:24:39.912000+00:00",
-        "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kczwvew6dftm8phypwzjqxd2",
-        "url": "https://read.readwise.io/read/01kczwvew6dftm8phypwzjqxd2",
-        "source_url": "https://www.loopwerk.io/articles/2025/2025-in-review/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316",
-        "title": "2025 in review",
-        "author": "Kevin Renskers",
-        "image_url": "https://www.loopwerk.io/static/images/2025-12-18-2025-in-review.png",
-        "word_count": 1411,
-        "summary": "2025 was a productive year: I wrote 38 articles, grew site traffic a lot, and released several open-source Django projects. In November my girlfriend and her daughter were in a serious car crash, so I’ve been caring for them and our dog. I started using AI cautiously, did freelance work for Sound Radix, and enjoyed trips, concerts, and games.",
-        "notes": "https://chatgpt.com/c/69479f95-3aa4-8328-8855-b64bb19cc6d2",
-        "tags": {
-          "shortlist": {
-            "name": "Shortlist",
-            "type": "manual",
-            "created": 1770321804753
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-12-21T07:26:46.150000+00:00",
-        "last_moved_at": "2025-12-21T07:27:02.118000+00:00",
-        "published_date": "2025-12-17",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01ke9z29ytbhqp25karjrhxfb6",
-        "url": "https://read.readwise.io/read/01ke9z29ytbhqp25karjrhxfb6",
-        "source_url": "https://davegriffith.substack.com/p/from-senior-engineer-to-staff-with",
-        "title": "From Senior Engineer to Staff, with Angelic Assistance",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 1460,
-        "summary": "Dave Griffith argues that moving from senior to staff engineer requires three deliberate skills: deep expertise, visible impact, and intentional planning. Agentic AI tools now let engineers learn far faster, produce clearer evidence of their work, and build smarter promotion plans. He’s testing this playbook in real time and will share practical tactics in a series of posts.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-06T15:33:33.786000+00:00",
-        "last_moved_at": "2026-01-06T15:33:35.811000+00:00",
-        "published_date": "2026-01-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
-        }
-      },
-      {
-        "id": "01k67ye0mgddw1ns89r60wbncw",
-        "url": "https://read.readwise.io/read/01k67ye0mgddw1ns89r60wbncw",
-        "source_url": "https://www.brandons.me/blog/thoughts-on-testing?utm_source=substack&utm_medium=email",
-        "title": "Thoughts on Testing January 4, 2024",
-        "author": "Brandon Smith",
-        "image_url": null,
-        "word_count": 1461,
-        "summary": "Tests help but they cost time because they are code to write, maintain, and run.  \nOnly write tests that add lasting value: prefer static analysis, check intent not implementation, and avoid fragile mocked checks.  \nSkip unit tests for UI rendering; test stable business logic, state, and reusable components instead.",
-        "notes": "https://chatgpt.com/c/69443518-c530-8325-a699-674ac7465bfa",
-        "tags": {
-          "testing": {
-            "name": "Testing",
-            "type": "manual",
-            "created": 1759055922221
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1759055922221
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-09-28T10:38:25.424000+00:00",
-        "last_moved_at": "2025-09-29T12:04:12.183000+00:00",
-        "published_date": "2024-01-04",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 3
-        }
-      },
-      {
-        "id": "01khgxtja1ry6jt86k7ct0hc44",
-        "url": "https://read.readwise.io/read/01khgxtja1ry6jt86k7ct0hc44",
-        "source_url": "https://blog.alaindichiappari.dev/p/software-engineering-is-back?hide_intro_popup=true&utm_source=substack&utm_medium=email",
-        "title": "Software Engineering is back",
-        "author": "Alain",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!hyB4!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fweekendengineering.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1295069420%26version%3D9",
-        "word_count": 1533,
-        "summary": "Software engineering is changing because new coding agents can write most code automatically. This lets engineers focus on designing and solving real problems, not on repetitive tasks. Using fewer frameworks means more freedom and better control over software projects.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1771168429123
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1771168430617
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-15T15:13:38.112000+00:00",
-        "last_moved_at": "2026-02-15T15:13:44.789000+00:00",
-        "published_date": "2026-02-07",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01kg4hy6f9wszmza56vvc5pbdz",
-        "url": "https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code",
-        "title": "The creator of Clawd: \"I ship code I don't read\"",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!3vGV!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01f8c024-dd46-46b1-bde6-e648412e8230_1524x990.png",
-        "word_count": 1589,
-        "summary": "Peter Steinberger uses AI agents to build and ship software quickly, acting like a whole team by himself. He designs systems so AI can check and improve its own code without much human review. This new way of working focuses on outcomes and architecture, not on writing every line of code by hand.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-29T09:39:19.145000+00:00",
-        "last_moved_at": "2026-01-29T09:39:21.846000+00:00",
-        "published_date": "2026-01-28",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kjmw5d83t9105hqzkean823b",
-        "url": "https://read.readwise.io/read/01kjmw5d83t9105hqzkean823b",
-        "source_url": "https://boristane.com/blog/the-software-development-lifecycle-is-dead/?utm_source=substack&utm_medium=email",
-        "title": "The Software Development Lifecycle Is Dead",
-        "author": "Boris Tane",
-        "image_url": "https://boristane.com/assets/blog/the-software-development-lifecycle-is-dead/og.png",
-        "word_count": 1702,
-        "summary": "Software development no longer follows fixed steps but relies on agents that write code, test, and deploy continuously. Humans guide the agents by providing context and reviewing complex decisions, while agents handle routine tasks and fix issues automatically. This shift enables faster, automated releases with minimal human intervention, changing how teams work and monitor software.",
-        "notes": "",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1772374641311
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-01T14:17:15.779000+00:00",
-        "last_moved_at": "2026-03-01T14:17:19.408000+00:00",
-        "published_date": "2026-02-20",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 6
-        }
-      },
-      {
-        "id": "01kkmj8cbrx3ybzn7sb68vz765",
-        "url": "https://read.readwise.io/read/01kkmj8cbrx3ybzn7sb68vz765",
-        "source_url": "https://www.anildash.com/2026/03/13/coders-after-ai/",
-        "title": "What do coders do after AI?",
-        "author": "Anil Dash",
-        "image_url": "https://www.anildash.com/images/nyt-hacker-hoodie-1.jpg",
-        "word_count": 1721,
-        "summary": "AI is changing coding by automating much of the work, which threatens many stable tech jobs. Some coders see this as a loss of craft, while others may adapt by focusing on guiding AI tools. The future depends on coders who care coming together to build new, ethical ways to work beyond big companies.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1773437996732
-          },
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1773437997975
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-13T21:39:49.240000+00:00",
-        "last_moved_at": "2026-03-13T21:39:52.382000+00:00",
-        "published_date": "2026-03-13",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
-        }
-      },
-      {
-        "id": "01kp3by8wbvfkvzb5v915nng9n",
-        "url": "https://read.readwise.io/read/01kp3by8wbvfkvzb5v915nng9n",
-        "source_url": "https://scottlawsonbc.com/post/monorepo",
-        "title": "I Am a Cross-Cutting Concern",
-        "author": "Scott Lawson",
-        "image_url": "https://scottlawsonbc.com/static/monorepo-01.png",
-        "word_count": 1792,
-        "summary": "Scott Lawson keeps all his diverse projects in one personal monorepo called slam, which makes it easier to find and connect his work. This setup helps him spot patterns, reuse code, and build tools that fit his needs. Having everything together saves time and reveals links between projects that might be missed in separate repos.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-13T12:09:26.667000+00:00",
-        "last_moved_at": "2026-04-13T12:55:43.635000+00:00",
-        "published_date": "2026-03-26",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01kkeavycs9gd3ty05sxhrtt5c",
-        "url": "https://read.readwise.io/read/01kkeavycs9gd3ty05sxhrtt5c",
-        "source_url": "https://nonstructured.com/zen-of-ai-coding/?utm_source=substack&utm_medium=email",
-        "title": "Zen of AI Coding",
-        "author": "Yoav Aviram",
-        "image_url": "https://nonstructured.com/wp-content/uploads/2026/03/zen-of-ai-coding.jpg.jpeg",
-        "word_count": 1912,
-        "summary": "AI coding agents are changing software development by making writing code cheaper and faster. Humans now focus on guiding agents, managing context, and ensuring quality and security. Building flexible, agent-friendly systems is key to the future of software and product design.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1773228923079
-          },
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1773228924292
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1773228922199
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-11T11:35:15.097000+00:00",
-        "last_moved_at": "2026-03-11T11:35:18.881000+00:00",
-        "published_date": "2026-03-02",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kp3c80qpbjvt9qmbpgy9515h",
-        "url": "https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h",
-        "source_url": "https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email",
-        "title": "“Conviction Collapse” and the End of Software as We Know It",
-        "author": "Tim O’Reilly",
-        "image_url": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/03/Conviction-collapse-and-the-End-of-Software-as-We-Know-It-500526-1600x1244.jpg",
-        "word_count": 2092,
-        "summary": "Software is no longer a fixed product but a flexible process that evolves through ongoing learning and creativity. AI and agentic coding let people build, adapt, and improve software like art or music. Success now depends on play, social interaction, and discovering new ways to create, not just on money or technology.",
-        "notes": "w./ Harper Reed!",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1776082499864
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-13T12:14:46.006000+00:00",
-        "last_moved_at": "2026-04-13T12:14:57.079000+00:00",
-        "published_date": "2026-04-01",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kg52xnkndzq1t428p64ycpa8",
-        "url": "https://read.readwise.io/read/01kg52xnkndzq1t428p64ycpa8",
-        "source_url": "https://davegriffith.substack.com/p/swimming-naked-in-ai-generated-code",
-        "title": "Swimming Naked in AI-Generated Code",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 2215,
-        "summary": "AI helps developers write code faster but can cause confusion if they don't understand the code they create. Developers must explain and review AI-generated code carefully to stay oriented and responsible. True skill comes from using AI to learn, not just to get answers quickly.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-29T14:36:07.669000+00:00",
-        "last_moved_at": "2026-01-29T14:36:09.352000+00:00",
-        "published_date": "2026-01-29",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
-        }
-      },
-      {
-        "id": "01kmn0xpnbtk9ez7a36ga93qzt",
-        "url": "https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt",
-        "source_url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
-        "title": "Thoughts on slowing the fuck down",
-        "author": "mariozechner.at",
-        "image_url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/media/header.png",
-        "word_count": 2368,
-        "summary": "Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-26T12:11:49.803000+00:00",
-        "last_moved_at": "2026-03-26T12:11:54.194000+00:00",
-        "published_date": "2026-03-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kgrsdz9j55dc8rm8q8410rj9",
-        "url": "https://read.readwise.io/read/01kgrsdz9j55dc8rm8q8410rj9",
-        "source_url": "https://davegriffith.substack.com/p/brain-dumps-as-a-literary-form",
-        "title": "Brain Dumps as a Literary Form",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 2431,
-        "summary": "Dave Griffith shares his thinking process through AI-assisted transcripts instead of polished conclusions. This new form shows how ideas develop and helps others understand reasoning better. It changes how we communicate and may create a market for watching thinkers work in real time.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-02-06T06:15:04.752000+00:00",
-        "last_moved_at": "2026-02-06T06:15:06.711000+00:00",
-        "published_date": "2026-02-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kba74ynqzd6by0k16mmj92s4",
-        "url": "https://read.readwise.io/read/01kba74ynqzd6by0k16mmj92s4",
-        "source_url": "https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email",
-        "title": "The (lazy) Git UI You Didn't Know You Need",
-        "author": "@bwplotka",
-        "image_url": "https://bwplotka.dev/2025/lazygit/lazygit-discoverability.png",
-        "word_count": 2452,
-        "summary": "The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.",
-        "notes": "",
-        "tags": {
-          "git": {
-            "name": "git",
-            "type": "manual",
-            "created": 1764500875063
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1764500875063
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-11-30T11:07:43.671000+00:00",
-        "last_moved_at": "2025-12-01T05:41:24.712000+00:00",
-        "published_date": "2025-11-10",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01kmabw6v0zgnk43sfc9pmdzev",
-        "url": "https://read.readwise.io/read/01kmabw6v0zgnk43sfc9pmdzev",
-        "source_url": "https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems?utm_source=tldrdev",
-        "title": "If you thought the speed of writing code was your problem - you have bigger problems",
-        "author": "Debugging Leadership",
-        "image_url": "https://debuggingleadership.com/website-template-OG.png",
-        "word_count": 2477,
-        "summary": "Writing code faster does not make software delivery faster if other steps are slow. The real problem is delays in review, testing, and deployment, plus unclear requirements. To improve, fix the slowest step and focus on getting features into users' hands quickly.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-22T08:51:36.416000+00:00",
-        "last_moved_at": "2026-03-22T08:51:40.800000+00:00",
-        "published_date": "2026-03-16",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kp3asneeb8h4rgg89zrbwd5f",
-        "url": "https://read.readwise.io/read/01kp3asneeb8h4rgg89zrbwd5f",
-        "source_url": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
-        "title": "Why Senior Engineers Let Bad Projects Fail",
-        "author": "Lalit Maganti",
-        "image_url": "https://lalitm.com/favicon.ico",
-        "word_count": 2482,
-        "summary": "Senior engineers often stay silent on bad projects because speaking up can slow progress and harm relationships. They choose when to intervene based on how much a project affects their team and company. Instead of trying to fix everything, they save their influence for the most important battles.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-13T11:49:12.118000+00:00",
-        "last_moved_at": "2026-04-15T08:29:47.466000+00:00",
-        "published_date": "2026-01-13",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kes33g1fbdg6b294xz7w4jtt",
-        "url": "https://read.readwise.io/read/01kes33g1fbdg6b294xz7w4jtt",
-        "source_url": "https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai",
-        "title": "Building Staff Engineer-Level Knowledge with AI",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 2515,
-        "summary": "To become a staff engineer, you must build deep expertise in technology, codebases, and business using AI as a learning tool, not a crutch. AI can speed up learning and understanding, but true mastery means internalizing knowledge without relying on AI all the time. Managing and showing your expertise is key to advancing your career and making a real impact.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1768221237251
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-12T12:32:43.567000+00:00",
-        "last_moved_at": "2026-01-12T12:34:01.174000+00:00",
-        "published_date": "2026-01-12",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01ketz55qw4x3f1f548a95hc69",
-        "url": "https://read.readwise.io/read/01ketz55qw4x3f1f548a95hc69",
-        "source_url": "https://writethatblog.substack.com/p/technical-blogging-lessons-learned?utm_source=tldrdev",
-        "title": "Technical blogging lessons learned",
-        "author": "Cynthia Dunlop",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!2Whn!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d107f2-c535-4e87-b7c8-662434398b15_1456x1048.png",
-        "word_count": 2540,
-        "summary": "Writing regularly helps overcome doubts and improves skills over time. Focus on topics that interest you and your audience, even if others have written about them. Use simple tools, be honest, and don’t worry about perfection or criticism.",
-        "notes": "",
-        "tags": {
-          "writing": {
-            "name": "Writing",
-            "type": "manual",
-            "created": 1768284142992
-          },
-          "shortlist": {
-            "name": "Shortlist",
-            "type": "manual",
-            "created": 1770321882482
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-13T06:02:13.116000+00:00",
-        "last_moved_at": "2026-01-13T06:02:25.492000+00:00",
-        "published_date": "2026-01-08",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kmf78e7kzc43t4k49t4cdwbh",
-        "url": "https://read.readwise.io/read/01kmf78e7kzc43t4k49t4cdwbh",
-        "source_url": "https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/?utm_source=substack&utm_medium=email",
-        "title": "Adapting to AI: Reflections on Productivity",
-        "author": "Colin Breck",
-        "image_url": "https://blog.colinbreck.com/content/images/size/w1200/2026/03/amstel-fog.jpg",
-        "word_count": 2582,
-        "summary": "In 2025, AI greatly boosted productivity by helping with coding and problem-solving, acting like a tireless partner. Most software engineers have not yet fully adapted to AI’s rapid changes and potential. The way people work in software is changing fast, and it will take years to find new, effective patterns.",
-        "notes": "",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1774332452122
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-24T06:07:06.483000+00:00",
-        "last_moved_at": "2026-03-24T06:07:24.915000+00:00",
-        "published_date": "2026-03-15",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
-        }
-      },
-      {
-        "id": "01ken0sk545cynvs3e44ezwrmc",
-        "url": "https://read.readwise.io/read/01ken0sk545cynvs3e44ezwrmc",
-        "source_url": "https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html?utm_source=tldrdev",
-        "title": "The Next Thing Will Not Be Big",
-        "author": "Glyph Lefkowitz",
-        "image_url": "https://blog.glyph.im/images/favicon.ico",
-        "word_count": 2638,
-        "summary": "Technology’s fastest, life-changing waves (like the Internet and smartphones) were a rare anomaly and are unlikely to repeat.  \nFuture tech will keep advancing, but mostly in smaller, niche ways that won’t remake society or create another Apple/Google.  \nOpen source maintainers should focus on practical, small- to medium-scale projects that serve real users and resist “scale creep.”",
-        "notes": "",
-        "tags": {
-          "shortlist": {
-            "name": "Shortlist",
-            "type": "manual",
-            "created": 1770321867333
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-10T22:35:24.197000+00:00",
-        "last_moved_at": "2026-01-10T22:35:27.419000+00:00",
-        "published_date": "2026-01-01",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
-        }
-      },
-      {
-        "id": "01knq4y2r5a7ffntsmhs7jjvtf",
-        "url": "https://read.readwise.io/read/01knq4y2r5a7ffntsmhs7jjvtf",
-        "source_url": "https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html",
-        "title": "On the usefulness of AI agents",
-        "author": "Erik Johannes Husom",
-        "image_url": null,
-        "word_count": 2669,
-        "summary": "AI agents have potential but are not as broadly useful as many think. They can help with coding and research but also raise ethical and environmental concerns. The true value of AI agents depends on careful use and human involvement.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-08T18:16:04.173000+00:00",
-        "last_moved_at": "2026-04-15T08:34:46.233000+00:00",
-        "published_date": "2026-04-08",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      }
-    ],
-    "quick_wins": [
-      {
-        "id": "01kpsshwfyfcf9wg0hs7f3024j",
-        "url": "https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j",
-        "source_url": "https://www.youtube.com/watch?v=sSAIC8GQRe8",
-        "title": "ИИ для самых маленьких: как работает LLM и ИИ-агент",
-        "author": "Диджитализируй!",
-        "image_url": "https://i.ytimg.com/vi/sSAIC8GQRe8/sddefault.jpg",
-        "word_count": null,
-        "summary": "Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1776834654223
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-22T05:10:38.334000+00:00",
-        "last_moved_at": "2026-04-22T05:10:51.470000+00:00",
-        "published_date": "2026-04-21",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kczxrxfb9cbratcp54yptvy3",
-        "url": "https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3",
-        "source_url": "https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email",
-        "title": "Prompt caching: 10x cheaper LLM tokens, but how?",
-        "author": "ngrok",
-        "image_url": "https://frontend-blog-ngrok.vercel.app/blog-assets/images/2025-12-16-prompt-caching/og.jpg",
-        "word_count": 78,
-        "summary": "Prompt caching stores and reuses parts of LLM requests to avoid repeating work. This cuts token usage and cost by up to tenfold. It requires tracking inputs, outputs, and cache validity to stay correct.",
-        "notes": "https://chatgpt.com/c/6947a45b-3860-8331-a302-0c3a55ab5594",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1766302980323
-          },
-          "explorable": {
-            "name": "Explorable",
-            "type": "manual",
-            "created": 1766341851467
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1766302979308
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-12-21T07:42:51.370000+00:00",
-        "last_moved_at": "2025-12-21T07:43:03.378000+00:00",
-        "published_date": "2025-12-16",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01k0p04qds3k7b6mxrrfggvpt2",
-        "url": "https://read.readwise.io/read/01k0p04qds3k7b6mxrrfggvpt2",
-        "source_url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-        "title": "Deep Dive into LLMs like ChatGPT",
-        "author": "Andrej Karpathy",
-        "image_url": "https://i.ytimg.com/vi/7xTGNNLPyMI/maxresdefault.jpg",
-        "word_count": null,
-        "summary": "You can use open-weight language models through inference providers like Together.AI. Together.AI offers a playground where you can try many different open models. Finding basic models is less common on these platforms.",
-        "notes": "https://chatgpt.com/c/6943ed14-aa58-8326-8cc0-ec43eaf689dchttps://chatgpt.com/c/6943f78f-c1f0-832f-b8c3-7acaf54f0500",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1753091078624
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-07-21T08:03:29.337000+00:00",
-        "last_moved_at": "2025-07-21T09:44:55.995000+00:00",
-        "published_date": "2025-02-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 3
-        }
-      },
-      {
-        "id": "01kba5q30d36vfk144nzpkgrc7",
-        "url": "https://read.readwise.io/read/01kba5q30d36vfk144nzpkgrc7",
-        "source_url": "https://visualrambling.space/dithering-part-1/?utm_source=substack&utm_medium=email",
-        "title": "Dithering - Part 1",
-        "author": "visualrambling.space",
-        "image_url": "https://visualrambling.space/dithering-part-1/173b60e7df7a986124e6.png",
-        "word_count": 785,
-        "summary": "Dithering simulates many shades using only a few colors by arranging pixels into patterns. Ordered dithering compares pixel brightness to a threshold map to decide black or white. The series will explain threshold maps and error-diffusion algorithms in later parts.",
-        "notes": "",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1764499367778
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-11-30T10:42:40.779000+00:00",
-        "last_moved_at": "2025-12-01T05:41:16+00:00",
-        "published_date": "2025-10-22",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      }
-    ],
-    "deep_reading": [
-      {
-        "id": "01kehqw0bh71ghpqrjbxrs9ndv",
-        "url": "https://read.readwise.io/read/01kehqw0bh71ghpqrjbxrs9ndv",
-        "source_url": "https://www.luiscardoso.dev/blog/sandboxes-for-ai",
-        "title": "A field guide to sandboxes for AI",
-        "author": "Luis Cardoso",
-        "image_url": "https://luiscardoso.dev/assets/sandbox-cover-Dh2M8shQ.webp",
-        "word_count": 6765,
-        "summary": "All sandbox boundaries differ by what trusted component they add: the host kernel (containers), a userspace kernel (gVisor), a guest kernel + VMM (microVMs), or a runtime/embedder (Wasm). Containers still send allowed syscalls to the host kernel, so kernel bugs remain a host risk. Choose microVMs or syscall-interposing runtimes when you need stronger isolation for untrusted or arbitrary Linux workloads.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-09T16:01:42.769000+00:00",
-        "last_moved_at": "2026-01-12T05:45:42.965000+00:00",
-        "published_date": "2026-01-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kgabfzsr9yz690ma05nt8ck5",
-        "url": "https://read.readwise.io/read/01kgabfzsr9yz690ma05nt8ck5",
-        "source_url": "https://addyo.substack.com/p/the-80-problem-in-agentic-coding?utm_source=tldrdev",
-        "title": "The 80% Problem in Agentic Coding",
-        "author": "Addy Osmani",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!lmAD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9189021-cd66-44d9-8683-520663047835_2400x1350.png",
-        "word_count": 3508,
-        "summary": "AI now writes most code, but humans must still carefully review and guide it. This shift changes engineers’ roles from coders to overseers and problem solvers. Success comes from using AI to learn and think deeply, not just to generate code fast.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-31T15:42:08.696000+00:00",
-        "last_moved_at": "2026-01-31T15:42:15.192000+00:00",
-        "published_date": "2026-01-28",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kehqcxrgjpevpz78xx06w5mp",
-        "url": "https://read.readwise.io/read/01kehqcxrgjpevpz78xx06w5mp",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
-        "title": "When AI writes almost all code, what happens to software engineering?",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!sLlF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd77a41b8-2e53-435d-9cf6-8298bd9af3e1_1146x822.png",
-        "word_count": 3371,
-        "summary": "AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-09T15:53:28.592000+00:00",
-        "last_moved_at": "2026-01-09T15:53:32.780000+00:00",
-        "published_date": "2026-01-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kj2q3zvejs3dz0jr2a3v0642",
-        "url": "https://read.readwise.io/read/01kj2q3zvejs3dz0jr2a3v0642",
-        "source_url": "https://dbg.re/posts/car-file-format/?utm_source=tldrdev",
-        "title": "A Deep Dive into Apple's .car File Format",
-        "author": "ordinal0",
-        "image_url": "",
-        "word_count": 2364,
-        "summary": "Apple’s .car file uses a B+ tree called RENDITIONS to store image and color assets with detailed headers. It supports many pixel formats and compression types like LZFSE and JPEG for efficient storage. Asset names map to rendition keys, allowing easy lookup and linking between assets inside the file.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1771765376437
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-22T13:02:46.637000+00:00",
-        "last_moved_at": "2026-02-22T13:02:50.548000+00:00",
-        "published_date": "2026-01-25",
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
@@ -1705,20 +459,1155 @@
         }
       },
       {
-        "id": "01kh62aamsdapbwhrbdve1q4g6",
-        "url": "https://read.readwise.io/read/01kh62aamsdapbwhrbdve1q4g6",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the",
-        "title": "Steve Yegge on AI Agents and the Future of Software Engineering",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!y0gL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb258ddb9-4482-44d1-a597-d8503cf89232_2048x1148.png",
-        "word_count": 2964,
-        "summary": "Steve Yegge believes AI will greatly change software engineering, making many coding skills obsolete and reducing the need for large engineering teams. Big companies risk falling behind because they cannot innovate fast enough, while small AI-powered teams will lead the future. Working with AI can be draining, so engineers may only be productive for a few hours each day despite AI's power.",
+        "id": "01ker9ertz01bavfn5bc79e5dt",
+        "url": "https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt",
+        "source_url": "https://davegriffith.substack.com/p/eight-software-markets-ai-that-will",
+        "title": "Eight Software Markets AI That Will Transform Differently",
+        "author": "Dave Griffith",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
+        "word_count": 2917,
+        "summary": "AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1768201447692
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-12T05:04:30.047000+00:00",
+        "last_moved_at": "2026-01-12T05:04:35.153000+00:00",
+        "published_date": "2026-01-08",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01ke9z0vpb9xqf5ateyympwzpm",
+        "url": "https://read.readwise.io/read/01ke9z0vpb9xqf5ateyympwzpm",
+        "source_url": "https://tonsky.me/blog/tahoe-icons/",
+        "title": "It’s hard to justify Tahoe icons",
+        "author": "Nikita Prokopov",
+        "image_url": "https://tonsky.me/blog/tahoe-icons/open_graph_facebook_smol.png?t=1767611340",
+        "word_count": 2754,
+        "summary": "Apple's Tahoe icons are confusing and inconsistent, making it hard to find or understand menu items quickly. Too many icons clutter menus, and similar or unclear symbols cause frustration. Good icon design should be simple, clear, and consistent, but Tahoe often misses these points.",
         "notes": "",
         "tags": {},
         "highlights": [],
-        "saved_at": "2026-02-11T10:00:30.105000+00:00",
-        "last_moved_at": "2026-02-11T10:00:32.511000+00:00",
-        "published_date": "2026-02-10",
+        "saved_at": "2026-01-06T15:32:46.411000+00:00",
+        "last_moved_at": "2026-01-06T15:32:50.101000+00:00",
+        "published_date": "2026-01-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 8
+        }
+      }
+    ],
+    "shortest": [
+      {
+        "id": "01kkeac4cvcpn0vb4y9v0pmwgt",
+        "url": "https://read.readwise.io/read/01kkeac4cvcpn0vb4y9v0pmwgt",
+        "source_url": "https://sjer.red/blog/2026/built-with-ai/?utm_source=tldrdev",
+        "title": "Things I've done with AI",
+        "author": "Jerred Shepherd",
+        "image_url": "https://sjer.red/blog/2026/built-with-ai/index.png",
+        "word_count": 1067,
+        "summary": "Jerred Shepherd loves programming and has used AI tools to build many projects without writing code himself. He learned to trust AI to write working code, focusing on problem-solving rather than perfect code style. Although AI makes programming faster, he sees challenges in testing and documentation that need better tools.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1773228402859
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-03-11T11:26:36.955000+00:00",
+        "last_moved_at": "2026-03-11T11:26:40.711000+00:00",
+        "published_date": "2026-03-09",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kp3bp2e1c7t54bkz8f1sqz05",
+        "url": "https://read.readwise.io/read/01kp3bp2e1c7t54bkz8f1sqz05",
+        "source_url": "https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email",
+        "title": "The Cognitive Dark Forest",
+        "author": "Janko",
+        "image_url": "",
+        "word_count": 1093,
+        "summary": "The internet used to be open and full of shared ideas, but now big companies control it and make it risky to show your thoughts. AI makes creating things easier, but it also lets big platforms copy and absorb your ideas quickly, so staying quiet feels safer. This \"cognitive dark forest\" means your innovations feed the system that threatens you, making hiding and sharing both dangerous.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1776081904177
+          },
+          "llm-devimpact": {
+            "name": "LLM-DevImpact",
+            "type": "manual",
+            "created": 1776081905812
+          },
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1776081906605
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-13T12:04:57.921000+00:00",
+        "last_moved_at": "2026-04-13T12:05:01.750000+00:00",
+        "published_date": "2026-03-27",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kpk6w3rd5extz9ay7g099743",
+        "url": "https://read.readwise.io/read/01kpk6w3rd5extz9ay7g099743",
+        "source_url": "https://www.securitylab.ru/blog/personal/Techno_Obzor/360094.php",
+        "title": "AmneziaWG 2.0: как работает полная мимикрия трафика и чем она лучше обычной маскировки",
+        "author": "Alexander Antipov",
+        "image_url": "http://www.securitylab.ru/upload/blog/avatar/0d9/hepz13em2g55dme8lnad4j6lr4uk827i.jpg",
+        "word_count": 1350,
+        "summary": "AmneziaWG 2.0 improves traffic disguise by making VPN data look more like normal network traffic, but it does not make it completely invisible. The new version is more complex and harder to detect, yet it requires new configurations and can slow down connections. This update is a big step forward but not a final solution against deep traffic analysis.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-19T15:48:43.917000+00:00",
+        "last_moved_at": "2026-04-19T15:48:46.951000+00:00",
+        "published_date": "2026-03-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01kmet5erb6344eexjx5b10v35",
+        "url": "https://read.readwise.io/read/01kmet5erb6344eexjx5b10v35",
+        "source_url": "https://siddhantkhare.com/writing/ambition-tax",
+        "title": "The ambition tax",
+        "author": "Siddhant Khare",
+        "image_url": "https://siddhantkhare.com/favicon-512.png",
+        "word_count": 1364,
+        "summary": "Ambition comes with a hidden cost that creates distance between you and the people you love. Even after achieving your goals, you feel restless and unsure if it's enough. This \"ambition tax\" is a quiet struggle many face but few talk about.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-03-24T02:18:14.228000+00:00",
+        "last_moved_at": "2026-03-24T06:23:06.555000+00:00",
+        "published_date": "2026-03-23",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kczwvew6dftm8phypwzjqxd2",
+        "url": "https://read.readwise.io/read/01kczwvew6dftm8phypwzjqxd2",
+        "source_url": "https://www.loopwerk.io/articles/2025/2025-in-review/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316",
+        "title": "2025 in review",
+        "author": "Kevin Renskers",
+        "image_url": "https://www.loopwerk.io/static/images/2025-12-18-2025-in-review.png",
+        "word_count": 1411,
+        "summary": "2025 was a productive year: I wrote 38 articles, grew site traffic a lot, and released several open-source Django projects. In November my girlfriend and her daughter were in a serious car crash, so I’ve been caring for them and our dog. I started using AI cautiously, did freelance work for Sound Radix, and enjoyed trips, concerts, and games.",
+        "notes": "https://chatgpt.com/c/69479f95-3aa4-8328-8855-b64bb19cc6d2",
+        "tags": {
+          "shortlist": {
+            "name": "Shortlist",
+            "type": "manual",
+            "created": 1770321804753
+          }
+        },
+        "highlights": [],
+        "saved_at": "2025-12-21T07:26:46.150000+00:00",
+        "last_moved_at": "2025-12-21T07:27:02.118000+00:00",
+        "published_date": "2025-12-17",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01ke9z29ytbhqp25karjrhxfb6",
+        "url": "https://read.readwise.io/read/01ke9z29ytbhqp25karjrhxfb6",
+        "source_url": "https://davegriffith.substack.com/p/from-senior-engineer-to-staff-with",
+        "title": "From Senior Engineer to Staff, with Angelic Assistance",
+        "author": "Dave Griffith",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
+        "word_count": 1460,
+        "summary": "Dave Griffith argues that moving from senior to staff engineer requires three deliberate skills: deep expertise, visible impact, and intentional planning. Agentic AI tools now let engineers learn far faster, produce clearer evidence of their work, and build smarter promotion plans. He’s testing this playbook in real time and will share practical tactics in a series of posts.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-01-06T15:33:33.786000+00:00",
+        "last_moved_at": "2026-01-06T15:33:35.811000+00:00",
+        "published_date": "2026-01-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 3
+        }
+      },
+      {
+        "id": "01k67ye0mgddw1ns89r60wbncw",
+        "url": "https://read.readwise.io/read/01k67ye0mgddw1ns89r60wbncw",
+        "source_url": "https://www.brandons.me/blog/thoughts-on-testing?utm_source=substack&utm_medium=email",
+        "title": "Thoughts on Testing January 4, 2024",
+        "author": "Brandon Smith",
+        "image_url": null,
+        "word_count": 1461,
+        "summary": "Tests help but they cost time because they are code to write, maintain, and run.  \nOnly write tests that add lasting value: prefer static analysis, check intent not implementation, and avoid fragile mocked checks.  \nSkip unit tests for UI rendering; test stable business logic, state, and reusable components instead.",
+        "notes": "https://chatgpt.com/c/69443518-c530-8325-a699-674ac7465bfa",
+        "tags": {
+          "testing": {
+            "name": "Testing",
+            "type": "manual",
+            "created": 1759055922221
+          },
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1759055922221
+          }
+        },
+        "highlights": [],
+        "saved_at": "2025-09-28T10:38:25.424000+00:00",
+        "last_moved_at": "2025-09-29T12:04:12.183000+00:00",
+        "published_date": "2024-01-04",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 3
+        }
+      },
+      {
+        "id": "01kg4hy6f9wszmza56vvc5pbdz",
+        "url": "https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz",
+        "source_url": "https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code",
+        "title": "The creator of Clawd: \"I ship code I don't read\"",
+        "author": "Gergely Orosz",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!3vGV!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01f8c024-dd46-46b1-bde6-e648412e8230_1524x990.png",
+        "word_count": 1589,
+        "summary": "Peter Steinberger uses AI agents to build and ship software quickly, acting like a whole team by himself. He designs systems so AI can check and improve its own code without much human review. This new way of working focuses on outcomes and architecture, not on writing every line of code by hand.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-01-29T09:39:19.145000+00:00",
+        "last_moved_at": "2026-01-29T09:39:21.846000+00:00",
+        "published_date": "2026-01-28",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kjmw5d83t9105hqzkean823b",
+        "url": "https://read.readwise.io/read/01kjmw5d83t9105hqzkean823b",
+        "source_url": "https://boristane.com/blog/the-software-development-lifecycle-is-dead/?utm_source=substack&utm_medium=email",
+        "title": "The Software Development Lifecycle Is Dead",
+        "author": "Boris Tane",
+        "image_url": "https://boristane.com/assets/blog/the-software-development-lifecycle-is-dead/og.png",
+        "word_count": 1702,
+        "summary": "Software development no longer follows fixed steps but relies on agents that write code, test, and deploy continuously. Humans guide the agents by providing context and reviewing complex decisions, while agents handle routine tasks and fix issues automatically. This shift enables faster, automated releases with minimal human intervention, changing how teams work and monitor software.",
+        "notes": "",
+        "tags": {
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1772374641311
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-03-01T14:17:15.779000+00:00",
+        "last_moved_at": "2026-03-01T14:17:19.408000+00:00",
+        "published_date": "2026-02-20",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 6
+        }
+      },
+      {
+        "id": "01kkmj8cbrx3ybzn7sb68vz765",
+        "url": "https://read.readwise.io/read/01kkmj8cbrx3ybzn7sb68vz765",
+        "source_url": "https://www.anildash.com/2026/03/13/coders-after-ai/",
+        "title": "What do coders do after AI?",
+        "author": "Anil Dash",
+        "image_url": "https://www.anildash.com/images/nyt-hacker-hoodie-1.jpg",
+        "word_count": 1721,
+        "summary": "AI is changing coding by automating much of the work, which threatens many stable tech jobs. Some coders see this as a loss of craft, while others may adapt by focusing on guiding AI tools. The future depends on coders who care coming together to build new, ethical ways to work beyond big companies.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1773437996732
+          },
+          "llm-devimpact": {
+            "name": "LLM-DevImpact",
+            "type": "manual",
+            "created": 1773437997975
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-03-13T21:39:49.240000+00:00",
+        "last_moved_at": "2026-03-13T21:39:52.382000+00:00",
+        "published_date": "2026-03-13",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 3
+        }
+      },
+      {
+        "id": "01kp3c80qpbjvt9qmbpgy9515h",
+        "url": "https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h",
+        "source_url": "https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email",
+        "title": "“Conviction Collapse” and the End of Software as We Know It",
+        "author": "Tim O’Reilly",
+        "image_url": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/03/Conviction-collapse-and-the-End-of-Software-as-We-Know-It-500526-1600x1244.jpg",
+        "word_count": 2092,
+        "summary": "Software is no longer a fixed product but a flexible process that evolves through ongoing learning and creativity. AI and agentic coding let people build, adapt, and improve software like art or music. Success now depends on play, social interaction, and discovering new ways to create, not just on money or technology.",
+        "notes": "w./ Harper Reed!",
+        "tags": {
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1776082499864
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-13T12:14:46.006000+00:00",
+        "last_moved_at": "2026-04-13T12:14:57.079000+00:00",
+        "published_date": "2026-04-01",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kg52xnkndzq1t428p64ycpa8",
+        "url": "https://read.readwise.io/read/01kg52xnkndzq1t428p64ycpa8",
+        "source_url": "https://davegriffith.substack.com/p/swimming-naked-in-ai-generated-code",
+        "title": "Swimming Naked in AI-Generated Code",
+        "author": "Dave Griffith",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
+        "word_count": 2215,
+        "summary": "AI helps developers write code faster but can cause confusion if they don't understand the code they create. Developers must explain and review AI-generated code carefully to stay oriented and responsible. True skill comes from using AI to learn, not just to get answers quickly.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-01-29T14:36:07.669000+00:00",
+        "last_moved_at": "2026-01-29T14:36:09.352000+00:00",
+        "published_date": "2026-01-29",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 3
+        }
+      },
+      {
+        "id": "01kmn0xpnbtk9ez7a36ga93qzt",
+        "url": "https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt",
+        "source_url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+        "title": "Thoughts on slowing the fuck down",
+        "author": "mariozechner.at",
+        "image_url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/media/header.png",
+        "word_count": 2368,
+        "summary": "Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-03-26T12:11:49.803000+00:00",
+        "last_moved_at": "2026-03-26T12:11:54.194000+00:00",
+        "published_date": "2026-03-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kgrsdz9j55dc8rm8q8410rj9",
+        "url": "https://read.readwise.io/read/01kgrsdz9j55dc8rm8q8410rj9",
+        "source_url": "https://davegriffith.substack.com/p/brain-dumps-as-a-literary-form",
+        "title": "Brain Dumps as a Literary Form",
+        "author": "Dave Griffith",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
+        "word_count": 2431,
+        "summary": "Dave Griffith shares his thinking process through AI-assisted transcripts instead of polished conclusions. This new form shows how ideas develop and helps others understand reasoning better. It changes how we communicate and may create a market for watching thinkers work in real time.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-02-06T06:15:04.752000+00:00",
+        "last_moved_at": "2026-02-06T06:15:06.711000+00:00",
+        "published_date": "2026-02-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kba74ynqzd6by0k16mmj92s4",
+        "url": "https://read.readwise.io/read/01kba74ynqzd6by0k16mmj92s4",
+        "source_url": "https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email",
+        "title": "The (lazy) Git UI You Didn't Know You Need",
+        "author": "@bwplotka",
+        "image_url": "https://bwplotka.dev/2025/lazygit/lazygit-discoverability.png",
+        "word_count": 2452,
+        "summary": "The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.",
+        "notes": "",
+        "tags": {
+          "git": {
+            "name": "git",
+            "type": "manual",
+            "created": 1764500875063
+          },
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1764500875063
+          }
+        },
+        "highlights": [],
+        "saved_at": "2025-11-30T11:07:43.671000+00:00",
+        "last_moved_at": "2025-12-01T05:41:24.712000+00:00",
+        "published_date": "2025-11-10",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01kmabw6v0zgnk43sfc9pmdzev",
+        "url": "https://read.readwise.io/read/01kmabw6v0zgnk43sfc9pmdzev",
+        "source_url": "https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems?utm_source=tldrdev",
+        "title": "If you thought the speed of writing code was your problem - you have bigger problems",
+        "author": "Debugging Leadership",
+        "image_url": "https://debuggingleadership.com/website-template-OG.png",
+        "word_count": 2477,
+        "summary": "Writing code faster does not make software delivery faster if other steps are slow. The real problem is delays in review, testing, and deployment, plus unclear requirements. To improve, fix the slowest step and focus on getting features into users' hands quickly.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-03-22T08:51:36.416000+00:00",
+        "last_moved_at": "2026-03-22T08:51:40.800000+00:00",
+        "published_date": "2026-03-16",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kes33g1fbdg6b294xz7w4jtt",
+        "url": "https://read.readwise.io/read/01kes33g1fbdg6b294xz7w4jtt",
+        "source_url": "https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai",
+        "title": "Building Staff Engineer-Level Knowledge with AI",
+        "author": "Dave Griffith",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
+        "word_count": 2515,
+        "summary": "To become a staff engineer, you must build deep expertise in technology, codebases, and business using AI as a learning tool, not a crutch. AI can speed up learning and understanding, but true mastery means internalizing knowledge without relying on AI all the time. Managing and showing your expertise is key to advancing your career and making a real impact.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1768221237251
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-12T12:32:43.567000+00:00",
+        "last_moved_at": "2026-01-12T12:34:01.174000+00:00",
+        "published_date": "2026-01-12",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01ketz55qw4x3f1f548a95hc69",
+        "url": "https://read.readwise.io/read/01ketz55qw4x3f1f548a95hc69",
+        "source_url": "https://writethatblog.substack.com/p/technical-blogging-lessons-learned?utm_source=tldrdev",
+        "title": "Technical blogging lessons learned",
+        "author": "Cynthia Dunlop",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!2Whn!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d107f2-c535-4e87-b7c8-662434398b15_1456x1048.png",
+        "word_count": 2540,
+        "summary": "Writing regularly helps overcome doubts and improves skills over time. Focus on topics that interest you and your audience, even if others have written about them. Use simple tools, be honest, and don’t worry about perfection or criticism.",
+        "notes": "В посте есть ссылки на отличные блоги (в частности, узнал отсюда про Preston Thorpe) - поэтому его надо читать внимательно и просмотреть связанные блоги.",
+        "tags": {
+          "writing": {
+            "name": "Writing",
+            "type": "manual",
+            "created": 1768284142992
+          },
+          "shortlist": {
+            "name": "Shortlist",
+            "type": "manual",
+            "created": 1770321882482
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-13T06:02:13.116000+00:00",
+        "last_moved_at": "2026-01-13T06:02:25.492000+00:00",
+        "published_date": "2026-01-08",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kmf78e7kzc43t4k49t4cdwbh",
+        "url": "https://read.readwise.io/read/01kmf78e7kzc43t4k49t4cdwbh",
+        "source_url": "https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/?utm_source=substack&utm_medium=email",
+        "title": "Adapting to AI: Reflections on Productivity",
+        "author": "Colin Breck",
+        "image_url": "https://blog.colinbreck.com/content/images/size/w1200/2026/03/amstel-fog.jpg",
+        "word_count": 2582,
+        "summary": "In 2025, AI greatly boosted productivity by helping with coding and problem-solving, acting like a tireless partner. Most software engineers have not yet fully adapted to AI’s rapid changes and potential. The way people work in software is changing fast, and it will take years to find new, effective patterns.",
+        "notes": "",
+        "tags": {
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1774332452122
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-03-24T06:07:06.483000+00:00",
+        "last_moved_at": "2026-03-24T06:07:24.915000+00:00",
+        "published_date": "2026-03-15",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 3
+        }
+      },
+      {
+        "id": "01ken0sk545cynvs3e44ezwrmc",
+        "url": "https://read.readwise.io/read/01ken0sk545cynvs3e44ezwrmc",
+        "source_url": "https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html?utm_source=tldrdev",
+        "title": "The Next Thing Will Not Be Big",
+        "author": "Glyph Lefkowitz",
+        "image_url": "https://blog.glyph.im/images/favicon.ico",
+        "word_count": 2638,
+        "summary": "Technology’s fastest, life-changing waves (like the Internet and smartphones) were a rare anomaly and are unlikely to repeat.  \nFuture tech will keep advancing, but mostly in smaller, niche ways that won’t remake society or create another Apple/Google.  \nOpen source maintainers should focus on practical, small- to medium-scale projects that serve real users and resist “scale creep.”",
+        "notes": "",
+        "tags": {
+          "shortlist": {
+            "name": "Shortlist",
+            "type": "manual",
+            "created": 1770321867333
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-10T22:35:24.197000+00:00",
+        "last_moved_at": "2026-01-10T22:35:27.419000+00:00",
+        "published_date": "2026-01-01",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 3
+        }
+      },
+      {
+        "id": "01knq4y2r5a7ffntsmhs7jjvtf",
+        "url": "https://read.readwise.io/read/01knq4y2r5a7ffntsmhs7jjvtf",
+        "source_url": "https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html",
+        "title": "On the usefulness of AI agents",
+        "author": "Erik Johannes Husom",
+        "image_url": null,
+        "word_count": 2669,
+        "summary": "AI agents have potential but are not as broadly useful as many think. They can help with coding and research but also raise ethical and environmental concerns. The true value of AI agents depends on careful use and human involvement.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-08T18:16:04.173000+00:00",
+        "last_moved_at": "2026-04-15T08:34:46.233000+00:00",
+        "published_date": "2026-04-08",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01kpsxyx4g0r7njdvthzkyk5n5",
+        "url": "https://read.readwise.io/read/01kpsxyx4g0r7njdvthzkyk5n5",
+        "source_url": "https://seangoedecke.com/luddites-and-ai-datacenters/",
+        "title": "Luddites and AI datacenters",
+        "author": "seangoedecke.com RSS feed",
+        "image_url": "https://www.seangoedecke.com/icons/icon-512x512.png?v=ac7bb3aa286bd21c42741d9c9aa60cb7",
+        "word_count": 2789,
+        "summary": "The Luddites were 19th-century workers who destroyed machines to fight job loss from automation. Their movement was local, secretive, and scared the government but did not stop technological progress. Today’s anti-AI efforts are different because they involve broader groups and lack the Luddites’ clear, shared goals and local ties.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-22T06:27:36.281000+00:00",
+        "last_moved_at": "2026-04-23T07:34:28.307000+00:00",
+        "published_date": "2026-04-22",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kgafx4271vdg3eqw50jk0jm8",
+        "url": "https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8",
+        "source_url": "https://blog.xoria.org/macos-tips/",
+        "title": "macOS Tips",
+        "author": "xoria.org",
+        "image_url": "",
+        "word_count": 2856,
+        "summary": "macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.",
+        "notes": "",
+        "tags": {
+          "macos": {
+            "name": "MacOS",
+            "type": "manual",
+            "created": 1769878762214
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-31T16:59:13.351000+00:00",
+        "last_moved_at": "2026-01-31T16:59:16.193000+00:00",
+        "published_date": "2024-11-15",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01kp3dteqy8exn9m4t0kz3yp7y",
+        "url": "https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y",
+        "source_url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email",
+        "title": "The Future of Everything is Lies, I Guess",
+        "author": "aphyr.com",
+        "image_url": "",
+        "word_count": 2947,
+        "summary": "Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say \"I don't know,\" leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1776084146236
+          },
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1776084147604
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-13T12:42:18.750000+00:00",
+        "last_moved_at": "2026-04-13T12:42:22.960000+00:00",
+        "published_date": "2026-04-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 4
+        }
+      },
+      {
+        "id": "01kjmw7mm8skajhhkmnf0tp4s1",
+        "url": "https://read.readwise.io/read/01kjmw7mm8skajhhkmnf0tp4s1",
+        "source_url": "https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email",
+        "title": "The Software Industrial Revolution",
+        "author": "cannoneyed.com",
+        "image_url": "",
+        "word_count": 3140,
+        "summary": "The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.",
+        "notes": "",
+        "tags": {
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1772374715170
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-03-01T14:18:28.871000+00:00",
+        "last_moved_at": "2026-03-01T14:18:32.352000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01km5fqgjckw8znfxbjqybrm3c",
+        "url": "https://read.readwise.io/read/01km5fqgjckw8znfxbjqybrm3c",
+        "source_url": "https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev",
+        "title": "The MacBook Neo",
+        "author": "Daring Fireball",
+        "image_url": "https://daringfireball.net/graphics/df-wide-card.png",
+        "word_count": 3347,
+        "summary": "The MacBook Neo is a $600 laptop with the same powerful chip as the latest iPhone 16 Pro. It offers strong performance, good build quality, and runs full MacOS, making it a great choice for new Mac users and those wanting a portable secondary computer. Despite some minor flaws, it outperforms many similarly priced laptops and serves as a solid alternative to tablets like the iPad.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-03-20T11:22:44.684000+00:00",
+        "last_moved_at": "2026-03-20T11:22:49.301000+00:00",
+        "published_date": "2026-03-10",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 3
+        }
+      },
+      {
+        "id": "01kehqcxrgjpevpz78xx06w5mp",
+        "url": "https://read.readwise.io/read/01kehqcxrgjpevpz78xx06w5mp",
+        "source_url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
+        "title": "When AI writes almost all code, what happens to software engineering?",
+        "author": "Gergely Orosz",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!sLlF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd77a41b8-2e53-435d-9cf6-8298bd9af3e1_1146x822.png",
+        "word_count": 3371,
+        "summary": "AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-01-09T15:53:28.592000+00:00",
+        "last_moved_at": "2026-01-09T15:53:32.780000+00:00",
+        "published_date": "2026-01-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01keh0mtv65mmaj4vwam6etx96",
+        "url": "https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96",
+        "source_url": "https://steipete.me/posts/2025/shipping-at-inference-speed",
+        "title": "Shipping at Inference-Speed",
+        "author": "Peter Steinberger",
+        "image_url": "https://steipete.me/posts/2025/shipping-at-inference-speed/index.png",
+        "word_count": 3413,
+        "summary": "AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1767950180709
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-09T09:15:50.502000+00:00",
+        "last_moved_at": "2026-01-09T09:16:21.927000+00:00",
+        "published_date": "2025-12-28",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01knbv6r1n0rt1fmt8eye7m8c0",
+        "url": "https://read.readwise.io/read/01knbv6r1n0rt1fmt8eye7m8c0",
+        "source_url": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev",
+        "title": "Some uncomfortable truths about AI coding agents",
+        "author": "standupforme.app",
+        "image_url": "",
+        "word_count": 3485,
+        "summary": "AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.",
+        "notes": "Via TLDR Newsletter",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-04T08:54:26.613000+00:00",
+        "last_moved_at": "2026-04-04T08:54:31.257000+00:00",
+        "published_date": "2026-03-26",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kgabfzsr9yz690ma05nt8ck5",
+        "url": "https://read.readwise.io/read/01kgabfzsr9yz690ma05nt8ck5",
+        "source_url": "https://addyo.substack.com/p/the-80-problem-in-agentic-coding?utm_source=tldrdev",
+        "title": "The 80% Problem in Agentic Coding",
+        "author": "Addy Osmani",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!lmAD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9189021-cd66-44d9-8683-520663047835_2400x1350.png",
+        "word_count": 3508,
+        "summary": "AI now writes most code, but humans must still carefully review and guide it. This shift changes engineers’ roles from coders to overseers and problem solvers. Success comes from using AI to learn and think deeply, not just to generate code fast.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-01-31T15:42:08.696000+00:00",
+        "last_moved_at": "2026-01-31T15:42:15.192000+00:00",
+        "published_date": "2026-01-28",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      }
+    ],
+    "quick_wins": [
+      {
+        "id": "01kpsshwfyfcf9wg0hs7f3024j",
+        "url": "https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j",
+        "source_url": "https://www.youtube.com/watch?v=sSAIC8GQRe8",
+        "title": "ИИ для самых маленьких: как работает LLM и ИИ-агент",
+        "author": "Диджитализируй!",
+        "image_url": "https://i.ytimg.com/vi/sSAIC8GQRe8/sddefault.jpg",
+        "word_count": null,
+        "summary": "Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1776834654223
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-22T05:10:38.334000+00:00",
+        "last_moved_at": "2026-04-22T05:10:51.470000+00:00",
+        "published_date": "2026-04-21",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01kczxrxfb9cbratcp54yptvy3",
+        "url": "https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3",
+        "source_url": "https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email",
+        "title": "Prompt caching: 10x cheaper LLM tokens, but how?",
+        "author": "ngrok",
+        "image_url": "https://frontend-blog-ngrok.vercel.app/blog-assets/images/2025-12-16-prompt-caching/og.jpg",
+        "word_count": 78,
+        "summary": "Prompt caching stores and reuses parts of LLM requests to avoid repeating work. This cuts token usage and cost by up to tenfold. It requires tracking inputs, outputs, and cache validity to stay correct.",
+        "notes": "https://chatgpt.com/c/6947a45b-3860-8331-a302-0c3a55ab5594",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1766302980323
+          },
+          "explorable": {
+            "name": "Explorable",
+            "type": "manual",
+            "created": 1766341851467
+          },
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1766302979308
+          }
+        },
+        "highlights": [],
+        "saved_at": "2025-12-21T07:42:51.370000+00:00",
+        "last_moved_at": "2025-12-21T07:43:03.378000+00:00",
+        "published_date": "2025-12-16",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01k0p04qds3k7b6mxrrfggvpt2",
+        "url": "https://read.readwise.io/read/01k0p04qds3k7b6mxrrfggvpt2",
+        "source_url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+        "title": "Deep Dive into LLMs like ChatGPT",
+        "author": "Andrej Karpathy",
+        "image_url": "https://i.ytimg.com/vi/7xTGNNLPyMI/maxresdefault.jpg",
+        "word_count": null,
+        "summary": "You can use open-weight language models through inference providers like Together.AI. Together.AI offers a playground where you can try many different open models. Finding basic models is less common on these platforms.",
+        "notes": "https://chatgpt.com/c/6943ed14-aa58-8326-8cc0-ec43eaf689dchttps://chatgpt.com/c/6943f78f-c1f0-832f-b8c3-7acaf54f0500",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1753091078624
+          }
+        },
+        "highlights": [],
+        "saved_at": "2025-07-21T08:03:29.337000+00:00",
+        "last_moved_at": "2025-07-21T09:44:55.995000+00:00",
+        "published_date": "2025-02-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 3
+        }
+      }
+    ],
+    "deep_reading": [
+      {
+        "id": "01kehqw0bh71ghpqrjbxrs9ndv",
+        "url": "https://read.readwise.io/read/01kehqw0bh71ghpqrjbxrs9ndv",
+        "source_url": "https://www.luiscardoso.dev/blog/sandboxes-for-ai",
+        "title": "A field guide to sandboxes for AI",
+        "author": "Luis Cardoso",
+        "image_url": "https://luiscardoso.dev/assets/sandbox-cover-Dh2M8shQ.webp",
+        "word_count": 6765,
+        "summary": "All sandbox boundaries differ by what trusted component they add: the host kernel (containers), a userspace kernel (gVisor), a guest kernel + VMM (microVMs), or a runtime/embedder (Wasm). Containers still send allowed syscalls to the host kernel, so kernel bugs remain a host risk. Choose microVMs or syscall-interposing runtimes when you need stronger isolation for untrusted or arbitrary Linux workloads.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-01-09T16:01:42.769000+00:00",
+        "last_moved_at": "2026-01-12T05:45:42.965000+00:00",
+        "published_date": "2026-01-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01kgabfzsr9yz690ma05nt8ck5",
+        "url": "https://read.readwise.io/read/01kgabfzsr9yz690ma05nt8ck5",
+        "source_url": "https://addyo.substack.com/p/the-80-problem-in-agentic-coding?utm_source=tldrdev",
+        "title": "The 80% Problem in Agentic Coding",
+        "author": "Addy Osmani",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!lmAD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9189021-cd66-44d9-8683-520663047835_2400x1350.png",
+        "word_count": 3508,
+        "summary": "AI now writes most code, but humans must still carefully review and guide it. This shift changes engineers’ roles from coders to overseers and problem solvers. Success comes from using AI to learn and think deeply, not just to generate code fast.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-01-31T15:42:08.696000+00:00",
+        "last_moved_at": "2026-01-31T15:42:15.192000+00:00",
+        "published_date": "2026-01-28",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01kehqcxrgjpevpz78xx06w5mp",
+        "url": "https://read.readwise.io/read/01kehqcxrgjpevpz78xx06w5mp",
+        "source_url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
+        "title": "When AI writes almost all code, what happens to software engineering?",
+        "author": "Gergely Orosz",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!sLlF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd77a41b8-2e53-435d-9cf6-8298bd9af3e1_1146x822.png",
+        "word_count": 3371,
+        "summary": "AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-01-09T15:53:28.592000+00:00",
+        "last_moved_at": "2026-01-09T15:53:32.780000+00:00",
+        "published_date": "2026-01-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01kjnjanqgfzsvenqw6d62rxqv",
+        "url": "https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv",
+        "source_url": "https://minimaxir.com/2026/02/ai-agent-coding/",
+        "title": "An AI agent coding skeptic tries AI agent coding, in excessive detail",
+        "author": "Max Woolf's Blog",
+        "image_url": "https://minimaxir.com/2026/02/ai-agent-coding/featured.png",
+        "word_count": 6903,
+        "summary": "The author tested AI coding agents and found them surprisingly good at writing and optimizing Rust and Python code. These agents created fast, efficient machine learning tools that rival existing libraries. The author encourages others to try modern agents with clear coding guidelines for better results.",
+        "notes": "Via https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1772397886204
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-03-01T20:44:36.976000+00:00",
+        "last_moved_at": "2026-03-01T20:44:42.974000+00:00",
+        "published_date": "2026-02-27",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kg1jzqd4sxbwtw7hcnhp8hwm",
+        "url": "https://read.readwise.io/read/01kg1jzqd4sxbwtw7hcnhp8hwm",
+        "source_url": "https://cannoneyed.com/projects/isometric-nyc?utm_source=substack&utm_medium=email",
+        "title": "/ Isometric NYC",
+        "author": "cannoneyed.com",
+        "image_url": "",
+        "word_count": 3943,
+        "summary": "The author used AI agents to help build a pixel art map of NYC with very little coding. Image generation models still struggle with mistakes and automation is hard. Despite challenges, AI tools make large creative projects possible and inspire hope for the future.",
+        "notes": "",
+        "tags": {
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1769580006325
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-28T05:59:54.532000+00:00",
+        "last_moved_at": "2026-01-28T05:59:58.961000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kg1cwtt6qjef7dg86j5y98hd",
+        "url": "https://read.readwise.io/read/01kg1cwtt6qjef7dg86j5y98hd",
+        "source_url": "https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft",
+        "title": "Inside one startup’s crazy fast AI-first makeover",
+        "author": "Gergely Orosz",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!EVwx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95ab3637-7b93-4faf-8912-19698fe1f451_1600x914.png",
+        "word_count": 3790,
+        "summary": "Craft, a startup focused on docs and tasks, shifted quickly to use AI tools called Craft Agents that help both engineers and non-engineers work better. The new AI tool lets teams automate tasks and build things faster, with non-technical staff using it even more than developers. This change shows how startups are adopting AI deeply to improve how they build software and run their work.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-01-28T04:13:28.262000+00:00",
+        "last_moved_at": "2026-01-28T04:13:30.104000+00:00",
+        "published_date": "2026-01-27",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01khs64f4hmr6kkggyegr22xxg",
+        "url": "https://read.readwise.io/read/01khs64f4hmr6kkggyegr22xxg",
+        "source_url": "https://calv.info/agents-feb-2026",
+        "title": "Coding Agents in Feb 2026",
+        "author": "calv.info",
+        "image_url": "https://calv.info/api/og?title=Coding%20Agents%20in%20Feb%202026",
+        "word_count": 3642,
+        "summary": "Calvin French-Owen uses different coding agents like Claude Code, Opus, and Codex to plan, write, and review code efficiently. He values context understanding and automation to improve his workflow and manage multiple tasks. His approach blends planning, tool use, and code correctness to get the best results from each agent.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-02-18T20:12:46.609000+00:00",
+        "last_moved_at": "2026-02-18T20:12:48.656000+00:00",
+        "published_date": "2026-02-17",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01knbv6r1n0rt1fmt8eye7m8c0",
+        "url": "https://read.readwise.io/read/01knbv6r1n0rt1fmt8eye7m8c0",
+        "source_url": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev",
+        "title": "Some uncomfortable truths about AI coding agents",
+        "author": "standupforme.app",
+        "image_url": "",
+        "word_count": 3485,
+        "summary": "AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.",
+        "notes": "Via TLDR Newsletter",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-04T08:54:26.613000+00:00",
+        "last_moved_at": "2026-04-04T08:54:31.257000+00:00",
+        "published_date": "2026-03-26",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01keh0mtv65mmaj4vwam6etx96",
+        "url": "https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96",
+        "source_url": "https://steipete.me/posts/2025/shipping-at-inference-speed",
+        "title": "Shipping at Inference-Speed",
+        "author": "Peter Steinberger",
+        "image_url": "https://steipete.me/posts/2025/shipping-at-inference-speed/index.png",
+        "word_count": 3413,
+        "summary": "AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1767950180709
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-09T09:15:50.502000+00:00",
+        "last_moved_at": "2026-01-09T09:16:21.927000+00:00",
+        "published_date": "2025-12-28",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -1751,28 +1640,6 @@
           "is_tutorial": false,
           "is_foundational": true,
           "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kh1pd18q793sbdf9qe6t4542",
-        "url": "https://read.readwise.io/read/01kh1pd18q793sbdf9qe6t4542",
-        "source_url": "https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/",
-        "title": "A Language For Agents",
-        "author": "Armin Ronacher",
-        "image_url": "https://lucumr.pocoo.org/social/2026-02-09-a-language-for-agents-social.png",
-        "word_count": 2789,
-        "summary": "Programming languages should evolve to work better with AI agents, focusing on clear code and good tooling. New languages can succeed if they reduce coding costs and support agents' local reasoning and build needs. Avoiding complex features like macros and flaky tests helps agents write and understand code more effectively.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-02-09T17:15:18.167000+00:00",
-        "last_moved_at": "2026-02-09T17:15:20.900000+00:00",
-        "published_date": "2026-02-09",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
           "interest_score": 8
         }
       },
@@ -1867,44 +1734,6 @@
           "is_tutorial": false,
           "is_foundational": true,
           "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kkeavycs9gd3ty05sxhrtt5c",
-        "url": "https://read.readwise.io/read/01kkeavycs9gd3ty05sxhrtt5c",
-        "source_url": "https://nonstructured.com/zen-of-ai-coding/?utm_source=substack&utm_medium=email",
-        "title": "Zen of AI Coding",
-        "author": "Yoav Aviram",
-        "image_url": "https://nonstructured.com/wp-content/uploads/2026/03/zen-of-ai-coding.jpg.jpeg",
-        "word_count": 1912,
-        "summary": "AI coding agents are changing software development by making writing code cheaper and faster. Humans now focus on guiding agents, managing context, and ensuring quality and security. Building flexible, agent-friendly systems is key to the future of software and product design.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1773228923079
-          },
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1773228924292
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1773228922199
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-11T11:35:15.097000+00:00",
-        "last_moved_at": "2026-03-11T11:35:18.881000+00:00",
-        "published_date": "2026-03-02",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
           "interest_score": 8
         }
       },
@@ -2132,83 +1961,6 @@
           "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 7
-        }
-      },
-      {
-        "id": "01kp3by8wbvfkvzb5v915nng9n",
-        "url": "https://read.readwise.io/read/01kp3by8wbvfkvzb5v915nng9n",
-        "source_url": "https://scottlawsonbc.com/post/monorepo",
-        "title": "I Am a Cross-Cutting Concern",
-        "author": "Scott Lawson",
-        "image_url": "https://scottlawsonbc.com/static/monorepo-01.png",
-        "word_count": 1792,
-        "summary": "Scott Lawson keeps all his diverse projects in one personal monorepo called slam, which makes it easier to find and connect his work. This setup helps him spot patterns, reuse code, and build tools that fit his needs. Having everything together saves time and reveals links between projects that might be missed in separate repos.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-13T12:09:26.667000+00:00",
-        "last_moved_at": "2026-04-13T12:55:43.635000+00:00",
-        "published_date": "2026-03-26",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01khgxtja1ry6jt86k7ct0hc44",
-        "url": "https://read.readwise.io/read/01khgxtja1ry6jt86k7ct0hc44",
-        "source_url": "https://blog.alaindichiappari.dev/p/software-engineering-is-back?hide_intro_popup=true&utm_source=substack&utm_medium=email",
-        "title": "Software Engineering is back",
-        "author": "Alain",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!hyB4!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fweekendengineering.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1295069420%26version%3D9",
-        "word_count": 1533,
-        "summary": "Software engineering is changing because new coding agents can write most code automatically. This lets engineers focus on designing and solving real problems, not on repetitive tasks. Using fewer frameworks means more freedom and better control over software projects.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1771168429123
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1771168430617
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-15T15:13:38.112000+00:00",
-        "last_moved_at": "2026-02-15T15:13:44.789000+00:00",
-        "published_date": "2026-02-07",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01knrbyy6wbjzsjedyfx6nv0pc",
-        "url": "https://read.readwise.io/read/01knrbyy6wbjzsjedyfx6nv0pc",
-        "source_url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-        "title": "Porting Mac OS X to the Nintendo Wii",
-        "author": "Bryan Keller’s Dev Blog",
-        "image_url": "",
-        "word_count": 6147,
-        "summary": "Bryan Keller worked on running Mac OS X on the Nintendo Wii by creating a custom bootloader and writing new drivers. He adapted the Wii’s hardware to work with Mac OS X, including making the SD card and USB ports function correctly. This project turned the Wii into a usable Mac OS X computer with minimal kernel changes.",
-        "notes": "Via HackerNews",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-09T05:38:09.756000+00:00",
-        "last_moved_at": "2026-04-09T05:38:14.058000+00:00",
-        "published_date": "2026-04-08",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 6
         }
       },
       {
@@ -4999,28 +4751,6 @@
         }
       },
       {
-        "id": "01kba2gp6v8yz5xv1yx1e944zj",
-        "url": "https://read.readwise.io/read/01kba2gp6v8yz5xv1yx1e944zj",
-        "source_url": "https://www.makingsoftware.com/chapters/shaders",
-        "title": "Shaders.",
-        "author": "makingsoftware.com",
-        "image_url": "https://makingsoftware.com/og-images/shaders.jpg",
-        "word_count": 4941,
-        "summary": "Shaders are small programs that run on the GPU to compute pixel colors. They run in a pipeline with different stages like vertex and fragment shaders. Fragment shaders use inputs like textures, normals, and uniforms to shade each pixel.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2025-11-30T09:46:45.339000+00:00",
-        "last_moved_at": "2025-12-01T05:41:08.103000+00:00",
-        "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kev57mqrms6nmez28y5667xg",
         "url": "https://read.readwise.io/read/01kev57mqrms6nmez28y5667xg",
         "source_url": "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/?utm_source=tldrdev",
@@ -5074,34 +4804,6 @@
         "saved_at": "2026-03-01T13:59:17.202000+00:00",
         "last_moved_at": "2026-03-01T13:59:25.116000+00:00",
         "published_date": "2026-02-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kpsssst430z5r8s4r0pmtrcw",
-        "url": "https://read.readwise.io/read/01kpsssst430z5r8s4r0pmtrcw",
-        "source_url": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
-        "title": "Drunk Post: Things I’ve Learned as a Senior Engineer",
-        "author": "luminousmen",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!V0bv!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a6bc166-fe0b-4925-ba8b-f1246e85634a_2388x1668.jpeg",
-        "word_count": 3733,
-        "summary": "A senior data engineer shares honest lessons from 10 years in tech, saying fundamentals matter more than tools. Good code is simple and helps others, and job satisfaction means knowing when to move on. Learning never stops, and true value comes from teamwork, growth, and balance.",
-        "notes": "",
-        "tags": {
-          "career": {
-            "name": "Career",
-            "type": "manual",
-            "created": 1776834908555
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-22T05:14:57.731000+00:00",
-        "last_moved_at": "2026-04-22T05:15:03.415000+00:00",
-        "published_date": "2026-04-21",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -5188,6 +4890,28 @@
         }
       },
       {
+        "id": "01kpsxyx4g0r7njdvthzkyk5n5",
+        "url": "https://read.readwise.io/read/01kpsxyx4g0r7njdvthzkyk5n5",
+        "source_url": "https://seangoedecke.com/luddites-and-ai-datacenters/",
+        "title": "Luddites and AI datacenters",
+        "author": "seangoedecke.com RSS feed",
+        "image_url": "https://www.seangoedecke.com/icons/icon-512x512.png?v=ac7bb3aa286bd21c42741d9c9aa60cb7",
+        "word_count": 2789,
+        "summary": "The Luddites were 19th-century workers who destroyed machines to fight job loss from automation. Their movement was local, secretive, and scared the government but did not stop technological progress. Today’s anti-AI efforts are different because they involve broader groups and lack the Luddites’ clear, shared goals and local ties.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-22T06:27:36.281000+00:00",
+        "last_moved_at": "2026-04-23T07:34:28.307000+00:00",
+        "published_date": "2026-04-22",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01ketz55qw4x3f1f548a95hc69",
         "url": "https://read.readwise.io/read/01ketz55qw4x3f1f548a95hc69",
         "source_url": "https://writethatblog.substack.com/p/technical-blogging-lessons-learned?utm_source=tldrdev",
@@ -5196,7 +4920,7 @@
         "image_url": "https://substackcdn.com/image/fetch/$s_!2Whn!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d107f2-c535-4e87-b7c8-662434398b15_1456x1048.png",
         "word_count": 2540,
         "summary": "Writing regularly helps overcome doubts and improves skills over time. Focus on topics that interest you and your audience, even if others have written about them. Use simple tools, be honest, and don’t worry about perfection or criticism.",
-        "notes": "",
+        "notes": "В посте есть ссылки на отличные блоги (в частности, узнал отсюда про Preston Thorpe) - поэтому его надо читать внимательно и просмотреть связанные блоги.",
         "tags": {
           "writing": {
             "name": "Writing",
@@ -5249,28 +4973,6 @@
         }
       },
       {
-        "id": "01kp3asneeb8h4rgg89zrbwd5f",
-        "url": "https://read.readwise.io/read/01kp3asneeb8h4rgg89zrbwd5f",
-        "source_url": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
-        "title": "Why Senior Engineers Let Bad Projects Fail",
-        "author": "Lalit Maganti",
-        "image_url": "https://lalitm.com/favicon.ico",
-        "word_count": 2482,
-        "summary": "Senior engineers often stay silent on bad projects because speaking up can slow progress and harm relationships. They choose when to intervene based on how much a project affects their team and company. Instead of trying to fix everything, they save their influence for the most important battles.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-13T11:49:12.118000+00:00",
-        "last_moved_at": "2026-04-15T08:29:47.466000+00:00",
-        "published_date": "2026-01-13",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kmabw6v0zgnk43sfc9pmdzev",
         "url": "https://read.readwise.io/read/01kmabw6v0zgnk43sfc9pmdzev",
         "source_url": "https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems?utm_source=tldrdev",
@@ -5311,39 +5013,6 @@
           "is_tutorial": false,
           "is_foundational": false,
           "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01k6v0ptbm36s0nxwh55sex7k6",
-        "url": "https://read.readwise.io/read/01k6v0ptbm36s0nxwh55sex7k6",
-        "source_url": "https://www.swequiz.com/blog/5-core-distributed-concepts-every-developer-should-know",
-        "title": "5 Core Distributed Concepts Every Developer Should Know",
-        "author": "swequiz.com",
-        "image_url": null,
-        "word_count": 2261,
-        "summary": "Distributed systems are crucial for modern applications, and developers should understand five core concepts to build and troubleshoot them effectively. Key principles include the CAP Theorem, fault tolerance, and strategies for reducing latency. By grasping these concepts, developers can create resilient and scalable applications.",
-        "notes": "https://chatgpt.com/c/69442f76-7f0c-8329-92ef-7720593132a9",
-        "tags": {
-          "interview": {
-            "name": "Interview",
-            "type": "manual",
-            "created": 1766076398387
-          },
-          "softwaredesign": {
-            "name": "SoftwareDesign",
-            "type": "manual",
-            "created": 1766076371821
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-10-05T20:23:45.268000+00:00",
-        "last_moved_at": "2025-10-06T11:49:26.742000+00:00",
-        "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
           "interest_score": 2
         }
       },
@@ -5617,34 +5286,6 @@
         }
       },
       {
-        "id": "01kgafvcwkn82dn6431q6cpvht",
-        "url": "https://read.readwise.io/read/01kgafvcwkn82dn6431q6cpvht",
-        "source_url": "https://blog.xoria.org/macos-tips-threading/",
-        "title": "macOS Tips for Programmers: Threading",
-        "author": "xoria.org",
-        "image_url": "",
-        "word_count": 1305,
-        "summary": "macOS uses quality of service (QoS) classes to prioritize work and save energy by adjusting CPU use. Programmers should assign proper QoS classes to threads and use Dispatch queues to handle task priorities safely. Avoid locks that don't support QoS inheritance to prevent performance issues and bugs.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1769878710534
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-31T16:58:16.851000+00:00",
-        "last_moved_at": "2026-01-31T16:58:19.673000+00:00",
-        "published_date": "2024-11-25",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
         "id": "01k1sv73j1ksk35k38e375h0b7",
         "url": "https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7",
         "source_url": "http://rednafi.com/go/gateway_pattern/",
@@ -5735,44 +5376,6 @@
           "is_tutorial": true,
           "is_foundational": false,
           "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01k62y4dz0e5pg996cw8bbdxjf",
-        "url": "https://read.readwise.io/read/01k62y4dz0e5pg996cw8bbdxjf",
-        "source_url": "https://alexop.dev/posts/how-to-build-your-own-vue-like-reactivity-system-from-scratch/",
-        "title": "How to Build Your Own Vue-like Reactivity System from Scratch",
-        "author": "Alexander Opalic",
-        "image_url": "https://alexop.dev/posts/how-to-build-your-own-vue-like-reactivity-system-from-scratch/index.png",
-        "word_count": 777,
-        "summary": "The article builds simple ref() and watchEffect() functions to show how Vue-style reactivity works. It explains tracking dependencies with track, triggering updates with trigger, and storing effects in a depMap. The minimal system shows core concepts but omits production features like nested handling and optimizations.",
-        "notes": "",
-        "tags": {
-          "try": {
-            "name": "Try",
-            "type": "manual",
-            "created": 1776670590068
-          },
-          "frontend": {
-            "name": "Frontend",
-            "type": "manual",
-            "created": 1776670593021
-          },
-          "typescript": {
-            "name": "TypeScript",
-            "type": "manual",
-            "created": 1758887828521
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-09-26T11:56:59.232000+00:00",
-        "last_moved_at": "2025-09-29T12:03:45.335000+00:00",
-        "published_date": "2024-08-04",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
           "interest_score": 8
         }
       },
@@ -5899,34 +5502,6 @@
         }
       },
       {
-        "id": "01kp3brjneqymrj0t46kwssqp5",
-        "url": "https://read.readwise.io/read/01kp3brjneqymrj0t46kwssqp5",
-        "source_url": "https://scottlawsonbc.com/post/dot-system?utm_source=substack&utm_medium=email",
-        "title": "A Dot a Day Keeps the Clutter Away",
-        "author": "Scott Lawson",
-        "image_url": "https://scottlawsonbc.com/static/dot-system-10.jpg",
-        "word_count": 2201,
-        "summary": "Scott Lawson uses colored dot stickers to track how often he opens each clear parts box in his lab. This simple system shows which items he uses regularly and which he can store away or discard. The dots help him keep his workspace organized and avoid clutter.",
-        "notes": "",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1776081988313
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-13T12:06:20.077000+00:00",
-        "last_moved_at": "2026-04-13T12:06:23.950000+00:00",
-        "published_date": "2026-03-23",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 6
-        }
-      },
-      {
         "id": "01kgpxfr0rd5sezbhmv0szq1dt",
         "url": "https://read.readwise.io/read/01kgpxfr0rd5sezbhmv0szq1dt",
         "source_url": "https://mtlynch.io/good-developers-bad-tests/#test-code-is-not-like-other-code",
@@ -5950,34 +5525,6 @@
         "triage": {
           "is_tutorial": true,
           "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 6
-        }
-      },
-      {
-        "id": "01kggyfv5kdbdxr8t270r5pthj",
-        "url": "https://read.readwise.io/read/01kggyfv5kdbdxr8t270r5pthj",
-        "source_url": "https://eclecticlight.co/2026/02/02/which-snapshots-could-you-delete/",
-        "title": "Which snapshots could you delete?",
-        "author": "The Eclectic Light Company",
-        "image_url": "https://eclecticlight.co/wp-content/uploads/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200",
-        "word_count": 942,
-        "summary": "Time Machine creates local snapshots to help with backups but these take up space on your drive. You can safely delete all snapshots except the most recent one to free up space without losing important data. Keeping the newest snapshot helps Time Machine work efficiently and protect your files.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1770095383213
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-03T05:09:33.491000+00:00",
-        "last_moved_at": "2026-02-03T05:09:35.877000+00:00",
-        "published_date": "2026-02-02",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 6
         }
@@ -6043,62 +5590,6 @@
         }
       },
       {
-        "id": "01kg4hnp27q6zr8wt3a4dg0zyp",
-        "url": "https://read.readwise.io/read/01kg4hnp27q6zr8wt3a4dg0zyp",
-        "source_url": "https://eclecticlight.co/2026/01/28/clean-install-macos/",
-        "title": "Clean install macOS",
-        "author": "The Eclectic Light Company",
-        "image_url": "https://eclecticlight.co/wp-content/uploads/2023/09/cleaninstall1.jpg",
-        "word_count": 1241,
-        "summary": "To clean install macOS, first decide if you want to erase just user data, the system, or firmware. Use easy tools like EACAS or Recovery mode, and for deep cleaning on Apple silicon Macs, use DFU Restore with another Mac. Always back up your data before starting, especially if downgrading or wiping everything.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1769679292019
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-29T09:34:40.196000+00:00",
-        "last_moved_at": "2026-01-29T09:34:42.965000+00:00",
-        "published_date": "2026-01-28",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 4
-        }
-      },
-      {
-        "id": "01kp3krh1pjhbemz69pnxdac1c",
-        "url": "https://read.readwise.io/read/01kp3krh1pjhbemz69pnxdac1c",
-        "source_url": "https://www.joshwcomeau.com/animation/squash-and-stretch/",
-        "title": "Squash and Stretch",
-        "author": "Josh W. Comeau",
-        "image_url": "https://www.joshwcomeau.com/favicon.png",
-        "word_count": 1457,
-        "summary": "The squash and stretch animation technique makes objects look more lively by changing their shape during motion. Josh Comeau shows how to use this effect on SVG arrows for web interactions, using CSS or JavaScript for smooth transitions. He also offers a course called Whimsical Animations to teach advanced animation skills for web developers.",
-        "notes": "",
-        "tags": {
-          "css": {
-            "name": "CSS",
-            "type": "manual",
-            "created": 1776150362646
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-13T14:26:04.031000+00:00",
-        "last_moved_at": "2026-04-14T07:05:54.726000+00:00",
-        "published_date": "2026-04-13",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 3
-        }
-      },
-      {
         "id": "01kfab5yfq9hx7tc6c3f90y56f",
         "url": "https://read.readwise.io/read/01kfab5yfq9hx7tc6c3f90y56f",
         "source_url": "https://alexharri.com/blog/ascii-rendering?utm_source=substack&utm_medium=email",
@@ -6123,28 +5614,6 @@
           "is_tutorial": true,
           "is_foundational": true,
           "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01km5gxgpv6w8cbprxewhzqwgx",
-        "url": "https://read.readwise.io/read/01km5gxgpv6w8cbprxewhzqwgx",
-        "source_url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/?utm_source=tldrdev",
-        "title": "Returning To Rails in 2026",
-        "author": "Mark Dastmalchi-Round",
-        "image_url": "",
-        "word_count": 5725,
-        "summary": "The author returned to using Rails in 2026 because it is simple and powerful. Rails 8 made development easier with no build steps and better tools for caching and deployment. Despite some decline in popularity, Rails remains a reliable and enjoyable framework.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-20T11:43:30.011000+00:00",
-        "last_moved_at": "2026-03-20T11:43:34.747000+00:00",
-        "published_date": "2026-03-05",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
           "interest_score": 2
         }
       },
@@ -6205,28 +5674,6 @@
         }
       },
       {
-        "id": "01kjj63sy80kanzbwzc6y8bt10",
-        "url": "https://read.readwise.io/read/01kjj63sy80kanzbwzc6y8bt10",
-        "source_url": "https://www.joshwcomeau.com/animation/sprites/?from=newsletter",
-        "title": "Sprites on the Web",
-        "author": "Josh W. Comeau",
-        "image_url": "https://www.joshwcomeau.com/images/og-sprites.png",
-        "word_count": 2138,
-        "summary": "Sprites are single images that show animation by quickly changing which part is visible using CSS. This method gives more control than animated GIFs, like adjusting speed or pausing the animation. Sprites improve performance and let designers create smooth, complex animations on the web.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-02-28T13:13:25.704000+00:00",
-        "last_moved_at": "2026-02-28T13:13:29.268000+00:00",
-        "published_date": "2026-02-23",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kn84zxd57pbrgw7mdyhtmvvn",
         "url": "https://read.readwise.io/read/01kn84zxd57pbrgw7mdyhtmvvn",
         "source_url": "https://mischianti.org/complete-guide-using-an-ili9341-display-with-the-tft_espi-library/",
@@ -6241,28 +5688,6 @@
         "saved_at": "2026-04-02T22:28:30.757000+00:00",
         "last_moved_at": "2026-04-02T22:28:36.335000+00:00",
         "published_date": "2025-05-12",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kg52v9snfcxt1jve191v3aeh",
-        "url": "https://read.readwise.io/read/01kg52v9snfcxt1jve191v3aeh",
-        "source_url": "https://blog.miguelgrinberg.com/post/how-to-add-a-quick-interactive-map-to-your-website",
-        "title": "How to Add a Quick Interactive Map to your Website",
-        "author": "Miguel Grinberg",
-        "image_url": "https://blog.miguelgrinberg.com/static/cards/how-to-add-a-quick-interactive-map-to-your-website.jpg",
-        "word_count": 1127,
-        "summary": "This article explains how to add a free interactive map to your website using just a few lines of HTML and JavaScript with the Leaflet library. It guides you through three simple steps: adding dependencies, placing a map element, and writing JavaScript to show the map with layers and markers. The author also shares a quick tip to find map coordinates using Google Maps.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-29T14:34:50.037000+00:00",
-        "last_moved_at": "2026-01-29T14:34:51.268000+00:00",
-        "published_date": "2026-01-29",
         "triage": {
           "is_tutorial": true,
           "is_foundational": false,
@@ -6345,90 +5770,6 @@
         }
       },
       {
-        "id": "01kj2q3zvejs3dz0jr2a3v0642",
-        "url": "https://read.readwise.io/read/01kj2q3zvejs3dz0jr2a3v0642",
-        "source_url": "https://dbg.re/posts/car-file-format/?utm_source=tldrdev",
-        "title": "A Deep Dive into Apple's .car File Format",
-        "author": "ordinal0",
-        "image_url": "",
-        "word_count": 2364,
-        "summary": "Apple’s .car file uses a B+ tree called RENDITIONS to store image and color assets with detailed headers. It supports many pixel formats and compression types like LZFSE and JPEG for efficient storage. Asset names map to rendition keys, allowing easy lookup and linking between assets inside the file.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1771765376437
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-22T13:02:46.637000+00:00",
-        "last_moved_at": "2026-02-22T13:02:50.548000+00:00",
-        "published_date": "2026-01-25",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kgafvcwkn82dn6431q6cpvht",
-        "url": "https://read.readwise.io/read/01kgafvcwkn82dn6431q6cpvht",
-        "source_url": "https://blog.xoria.org/macos-tips-threading/",
-        "title": "macOS Tips for Programmers: Threading",
-        "author": "xoria.org",
-        "image_url": "",
-        "word_count": 1305,
-        "summary": "macOS uses quality of service (QoS) classes to prioritize work and save energy by adjusting CPU use. Programmers should assign proper QoS classes to threads and use Dispatch queues to handle task priorities safely. Avoid locks that don't support QoS inheritance to prevent performance issues and bugs.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1769878710534
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-31T16:58:16.851000+00:00",
-        "last_moved_at": "2026-01-31T16:58:19.673000+00:00",
-        "published_date": "2024-11-25",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01khrydg4bmqbz31hq22v77qwz",
-        "url": "https://read.readwise.io/read/01khrydg4bmqbz31hq22v77qwz",
-        "source_url": "https://eclecticlight.co/2026/02/17/in-the-background-putting-threads-to-work/",
-        "title": "In the background: Putting threads to work",
-        "author": "The Eclectic Light Company",
-        "image_url": "https://eclecticlight.co/wp-content/uploads/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200",
-        "word_count": 1263,
-        "summary": "Apps run faster and stay responsive by using multiple threads that work together on different CPU cores. Apple silicon Macs use a Quality of Service system to decide which cores run which threads, balancing speed and power use. This helps apps perform well while saving battery and managing heat.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1771437485810
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-18T17:57:53.929000+00:00",
-        "last_moved_at": "2026-02-18T17:57:56.505000+00:00",
-        "published_date": "2026-02-17",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
         "id": "01k1sv73j1ksk35k38e375h0b7",
         "url": "https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7",
         "source_url": "http://rednafi.com/go/gateway_pattern/",
@@ -6456,34 +5797,6 @@
         "published_date": "2025-08-03",
         "triage": {
           "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kghhbvhebz3aec39q68wdyg3",
-        "url": "https://read.readwise.io/read/01kghhbvhebz3aec39q68wdyg3",
-        "source_url": "https://eclecticlight.co/2026/02/03/what-happens-in-early-kernel-boot-on-apple-silicon/",
-        "title": "What happens in early kernel boot on Apple silicon?",
-        "author": "The Eclectic Light Company",
-        "image_url": "https://eclecticlight.co/wp-content/uploads/2025/06/bootdiskstructuremacosseq.png",
-        "word_count": 1055,
-        "summary": "Apple silicon Macs start booting with three secure stages before loading the macOS kernel about 5.3 seconds after power-on. The kernel then starts hardware, security services, and mounts important volumes, but user data stays locked until the password is entered. By 10 seconds, key system processes run with secure access, while user data remains protected by FileVault.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1770115177016
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-03T10:39:25.743000+00:00",
-        "last_moved_at": "2026-02-03T10:39:27.790000+00:00",
-        "published_date": "2026-02-03",
-        "triage": {
-          "is_tutorial": false,
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 9
@@ -6734,72 +6047,6 @@
         }
       },
       {
-        "id": "01kcjz195qz647nttq3aqwqz64",
-        "url": "https://read.readwise.io/read/01kcjz195qz647nttq3aqwqz64",
-        "source_url": "https://www.django-rapid-architecture.org/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_315",
-        "title": "Django RAPID architecture",
-        "author": "django-rapid-architecture.org",
-        "image_url": "https://www.django-rapid-architecture.org/assets/images/social/index.png",
-        "word_count": 1092,
-        "summary": "Django RAPID is a concise set of patterns for building maintainable, scalable Django projects based on 15+ years of experience. It favors simple, predictable foundations that let systems grow without hidden complexity. The guide is flexible and prescriptive only where it matters, so teams can adopt what fits their workflow.",
-        "notes": "",
-        "tags": {
-          "django": {
-            "name": "Django",
-            "type": "manual",
-            "created": 1765868090961
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-12-16T06:54:46.455000+00:00",
-        "last_moved_at": "2025-12-16T06:54:55.425000+00:00",
-        "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01k62y4dz0e5pg996cw8bbdxjf",
-        "url": "https://read.readwise.io/read/01k62y4dz0e5pg996cw8bbdxjf",
-        "source_url": "https://alexop.dev/posts/how-to-build-your-own-vue-like-reactivity-system-from-scratch/",
-        "title": "How to Build Your Own Vue-like Reactivity System from Scratch",
-        "author": "Alexander Opalic",
-        "image_url": "https://alexop.dev/posts/how-to-build-your-own-vue-like-reactivity-system-from-scratch/index.png",
-        "word_count": 777,
-        "summary": "The article builds simple ref() and watchEffect() functions to show how Vue-style reactivity works. It explains tracking dependencies with track, triggering updates with trigger, and storing effects in a depMap. The minimal system shows core concepts but omits production features like nested handling and optimizations.",
-        "notes": "",
-        "tags": {
-          "try": {
-            "name": "Try",
-            "type": "manual",
-            "created": 1776670590068
-          },
-          "frontend": {
-            "name": "Frontend",
-            "type": "manual",
-            "created": 1776670593021
-          },
-          "typescript": {
-            "name": "TypeScript",
-            "type": "manual",
-            "created": 1758887828521
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-09-26T11:56:59.232000+00:00",
-        "last_moved_at": "2025-09-29T12:03:45.335000+00:00",
-        "published_date": "2024-08-04",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
         "id": "01kczxrxfb9cbratcp54yptvy3",
         "url": "https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3",
         "source_url": "https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email",
@@ -6910,34 +6157,6 @@
         "published_date": "2025-08-01",
         "triage": {
           "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01kh3h783zd4npntbhrwpfqhcb",
-        "url": "https://read.readwise.io/read/01kh3h783zd4npntbhrwpfqhcb",
-        "source_url": "https://eclecticlight.co/2026/02/10/in-the-background-spotlight-indexing/",
-        "title": "In the background: Spotlight indexing",
-        "author": "The Eclectic Light Company",
-        "image_url": "https://eclecticlight.co/wp-content/uploads/2025/08/spotindexing1.jpg",
-        "word_count": 919,
-        "summary": "Spotlight quickly indexes new and changed files using background processes on Apple silicon Macs. After login, these processes run for several minutes, including time-consuming text extraction from images. Prolonged indexing is normal and helps keep search results accurate without affecting performance.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1770719005010
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-10T10:23:14.560000+00:00",
-        "last_moved_at": "2026-02-10T10:23:16.713000+00:00",
-        "published_date": "2026-02-10",
-        "triage": {
-          "is_tutorial": false,
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 7
@@ -7247,28 +6466,6 @@
         }
       },
       {
-        "id": "01kba2gp6v8yz5xv1yx1e944zj",
-        "url": "https://read.readwise.io/read/01kba2gp6v8yz5xv1yx1e944zj",
-        "source_url": "https://www.makingsoftware.com/chapters/shaders",
-        "title": "Shaders.",
-        "author": "makingsoftware.com",
-        "image_url": "https://makingsoftware.com/og-images/shaders.jpg",
-        "word_count": 4941,
-        "summary": "Shaders are small programs that run on the GPU to compute pixel colors. They run in a pipeline with different stages like vertex and fragment shaders. Fragment shaders use inputs like textures, normals, and uniforms to shade each pixel.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2025-11-30T09:46:45.339000+00:00",
-        "last_moved_at": "2025-12-01T05:41:08.103000+00:00",
-        "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01jbyg6e0dvv42crexkzy4eqp6",
         "url": "https://read.readwise.io/read/01jbyg6e0dvv42crexkzy4eqp6",
         "source_url": "https://www.joshwcomeau.com/javascript/promises/",
@@ -7367,39 +6564,6 @@
         "saved_at": "2025-11-30T10:58:32.232000+00:00",
         "last_moved_at": "2025-12-01T05:41:22.918000+00:00",
         "published_date": "2025-11-30",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01k6v0ptbm36s0nxwh55sex7k6",
-        "url": "https://read.readwise.io/read/01k6v0ptbm36s0nxwh55sex7k6",
-        "source_url": "https://www.swequiz.com/blog/5-core-distributed-concepts-every-developer-should-know",
-        "title": "5 Core Distributed Concepts Every Developer Should Know",
-        "author": "swequiz.com",
-        "image_url": null,
-        "word_count": 2261,
-        "summary": "Distributed systems are crucial for modern applications, and developers should understand five core concepts to build and troubleshoot them effectively. Key principles include the CAP Theorem, fault tolerance, and strategies for reducing latency. By grasping these concepts, developers can create resilient and scalable applications.",
-        "notes": "https://chatgpt.com/c/69442f76-7f0c-8329-92ef-7720593132a9",
-        "tags": {
-          "interview": {
-            "name": "Interview",
-            "type": "manual",
-            "created": 1766076398387
-          },
-          "softwaredesign": {
-            "name": "SoftwareDesign",
-            "type": "manual",
-            "created": 1766076371821
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-10-05T20:23:45.268000+00:00",
-        "last_moved_at": "2025-10-06T11:49:26.742000+00:00",
-        "published_date": null,
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
@@ -7737,28 +6901,6 @@
         }
       },
       {
-        "id": "01kh62aamsdapbwhrbdve1q4g6",
-        "url": "https://read.readwise.io/read/01kh62aamsdapbwhrbdve1q4g6",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the",
-        "title": "Steve Yegge on AI Agents and the Future of Software Engineering",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!y0gL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb258ddb9-4482-44d1-a597-d8503cf89232_2048x1148.png",
-        "word_count": 2964,
-        "summary": "Steve Yegge believes AI will greatly change software engineering, making many coding skills obsolete and reducing the need for large engineering teams. Big companies risk falling behind because they cannot innovate fast enough, while small AI-powered teams will lead the future. Working with AI can be draining, so engineers may only be productive for a few hours each day despite AI's power.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-02-11T10:00:30.105000+00:00",
-        "last_moved_at": "2026-02-11T10:00:32.511000+00:00",
-        "published_date": "2026-02-10",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
         "id": "01ker9ertz01bavfn5bc79e5dt",
         "url": "https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt",
         "source_url": "https://davegriffith.substack.com/p/eight-software-markets-ai-that-will",
@@ -7809,44 +6951,6 @@
         }
       },
       {
-        "id": "01kkeavycs9gd3ty05sxhrtt5c",
-        "url": "https://read.readwise.io/read/01kkeavycs9gd3ty05sxhrtt5c",
-        "source_url": "https://nonstructured.com/zen-of-ai-coding/?utm_source=substack&utm_medium=email",
-        "title": "Zen of AI Coding",
-        "author": "Yoav Aviram",
-        "image_url": "https://nonstructured.com/wp-content/uploads/2026/03/zen-of-ai-coding.jpg.jpeg",
-        "word_count": 1912,
-        "summary": "AI coding agents are changing software development by making writing code cheaper and faster. Humans now focus on guiding agents, managing context, and ensuring quality and security. Building flexible, agent-friendly systems is key to the future of software and product design.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1773228923079
-          },
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1773228924292
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1773228922199
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-11T11:35:15.097000+00:00",
-        "last_moved_at": "2026-03-11T11:35:18.881000+00:00",
-        "published_date": "2026-03-02",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
         "id": "01kg4hy6f9wszmza56vvc5pbdz",
         "url": "https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz",
         "source_url": "https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code",
@@ -7861,39 +6965,6 @@
         "saved_at": "2026-01-29T09:39:19.145000+00:00",
         "last_moved_at": "2026-01-29T09:39:21.846000+00:00",
         "published_date": "2026-01-28",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01khxbjw835g8m35r1s5m2a44h",
-        "url": "https://read.readwise.io/read/01khxbjw835g8m35r1s5m2a44h",
-        "source_url": "https://jeremydmiller.com/2026/02/14/2-weeks-of-claude-code-for-me/",
-        "title": "2 Weeks of Claude Code for Me",
-        "author": "jeremydmiller Uncategorized February 14",
-        "image_url": "https://jeremydmiller.com/wp-content/uploads/2023/07/cropped-jasperfx-logo-final-orange-bg.jpg",
-        "word_count": 1337,
-        "summary": "The author spent two weeks using the AI tool Claude to improve his software projects and was surprised by the progress made. He found AI helpful for repetitive tasks, testing, and coding new features, but also felt conflicted about its impact on his work. Overall, he is excited but cautious about how AI will affect his career and the industry.",
-        "notes": "Via https://martinfowler.com/fragments/2026-02-19.html",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1771585504373
-          },
-          "claude": {
-            "name": "Claude",
-            "type": "manual",
-            "created": 1771585508734
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-20T11:04:59.395000+00:00",
-        "last_moved_at": "2026-02-20T11:05:02.812000+00:00",
-        "published_date": "2026-02-14",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -8040,39 +7111,6 @@
         }
       },
       {
-        "id": "01khgxtja1ry6jt86k7ct0hc44",
-        "url": "https://read.readwise.io/read/01khgxtja1ry6jt86k7ct0hc44",
-        "source_url": "https://blog.alaindichiappari.dev/p/software-engineering-is-back?hide_intro_popup=true&utm_source=substack&utm_medium=email",
-        "title": "Software Engineering is back",
-        "author": "Alain",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!hyB4!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fweekendengineering.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1295069420%26version%3D9",
-        "word_count": 1533,
-        "summary": "Software engineering is changing because new coding agents can write most code automatically. This lets engineers focus on designing and solving real problems, not on repetitive tasks. Using fewer frameworks means more freedom and better control over software projects.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1771168429123
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1771168430617
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-15T15:13:38.112000+00:00",
-        "last_moved_at": "2026-02-15T15:13:44.789000+00:00",
-        "published_date": "2026-02-07",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
         "id": "01k62kckeewb1936zrjewhbhvn",
         "url": "https://read.readwise.io/read/01k62kckeewb1936zrjewhbhvn",
         "source_url": "https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/",
@@ -8114,28 +7152,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 7
-        }
-      },
-      {
-        "id": "01knrbyy6wbjzsjedyfx6nv0pc",
-        "url": "https://read.readwise.io/read/01knrbyy6wbjzsjedyfx6nv0pc",
-        "source_url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-        "title": "Porting Mac OS X to the Nintendo Wii",
-        "author": "Bryan Keller’s Dev Blog",
-        "image_url": "",
-        "word_count": 6147,
-        "summary": "Bryan Keller worked on running Mac OS X on the Nintendo Wii by creating a custom bootloader and writing new drivers. He adapted the Wii’s hardware to work with Mac OS X, including making the SD card and USB ports function correctly. This project turned the Wii into a usable Mac OS X computer with minimal kernel changes.",
-        "notes": "Via HackerNews",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-09T05:38:09.756000+00:00",
-        "last_moved_at": "2026-04-09T05:38:14.058000+00:00",
-        "published_date": "2026-04-08",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 6
         }
       },
       {
@@ -8232,34 +7248,6 @@
         "published_date": "2026-04-06",
         "triage": {
           "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 4
-        }
-      },
-      {
-        "id": "01kg4hnp27q6zr8wt3a4dg0zyp",
-        "url": "https://read.readwise.io/read/01kg4hnp27q6zr8wt3a4dg0zyp",
-        "source_url": "https://eclecticlight.co/2026/01/28/clean-install-macos/",
-        "title": "Clean install macOS",
-        "author": "The Eclectic Light Company",
-        "image_url": "https://eclecticlight.co/wp-content/uploads/2023/09/cleaninstall1.jpg",
-        "word_count": 1241,
-        "summary": "To clean install macOS, first decide if you want to erase just user data, the system, or firmware. Use easy tools like EACAS or Recovery mode, and for deep cleaning on Apple silicon Macs, use DFU Restore with another Mac. Always back up your data before starting, especially if downgrading or wiping everything.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1769679292019
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-29T09:34:40.196000+00:00",
-        "last_moved_at": "2026-01-29T09:34:42.965000+00:00",
-        "published_date": "2026-01-28",
-        "triage": {
-          "is_tutorial": true,
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 4
@@ -10721,28 +9709,6 @@
         }
       },
       {
-        "id": "01km5gxgpv6w8cbprxewhzqwgx",
-        "url": "https://read.readwise.io/read/01km5gxgpv6w8cbprxewhzqwgx",
-        "source_url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/?utm_source=tldrdev",
-        "title": "Returning To Rails in 2026",
-        "author": "Mark Dastmalchi-Round",
-        "image_url": "",
-        "word_count": 5725,
-        "summary": "The author returned to using Rails in 2026 because it is simple and powerful. Rails 8 made development easier with no build steps and better tools for caching and deployment. Despite some decline in popularity, Rails remains a reliable and enjoyable framework.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-20T11:43:30.011000+00:00",
-        "last_moved_at": "2026-03-20T11:43:34.747000+00:00",
-        "published_date": "2026-03-05",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01jr0kw78dv3cjfds3t8dqfrfr",
         "url": "https://read.readwise.io/read/01jr0kw78dv3cjfds3t8dqfrfr",
         "source_url": "https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code",
@@ -10827,34 +9793,6 @@
         }
       },
       {
-        "id": "01kpsssst430z5r8s4r0pmtrcw",
-        "url": "https://read.readwise.io/read/01kpsssst430z5r8s4r0pmtrcw",
-        "source_url": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
-        "title": "Drunk Post: Things I’ve Learned as a Senior Engineer",
-        "author": "luminousmen",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!V0bv!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a6bc166-fe0b-4925-ba8b-f1246e85634a_2388x1668.jpeg",
-        "word_count": 3733,
-        "summary": "A senior data engineer shares honest lessons from 10 years in tech, saying fundamentals matter more than tools. Good code is simple and helps others, and job satisfaction means knowing when to move on. Learning never stops, and true value comes from teamwork, growth, and balance.",
-        "notes": "",
-        "tags": {
-          "career": {
-            "name": "Career",
-            "type": "manual",
-            "created": 1776834908555
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-22T05:14:57.731000+00:00",
-        "last_moved_at": "2026-04-22T05:15:03.415000+00:00",
-        "published_date": "2026-04-21",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kjmw7mm8skajhhkmnf0tp4s1",
         "url": "https://read.readwise.io/read/01kjmw7mm8skajhhkmnf0tp4s1",
         "source_url": "https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email",
@@ -10875,6 +9813,28 @@
         "saved_at": "2026-03-01T14:18:28.871000+00:00",
         "last_moved_at": "2026-03-01T14:18:32.352000+00:00",
         "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kpsxyx4g0r7njdvthzkyk5n5",
+        "url": "https://read.readwise.io/read/01kpsxyx4g0r7njdvthzkyk5n5",
+        "source_url": "https://seangoedecke.com/luddites-and-ai-datacenters/",
+        "title": "Luddites and AI datacenters",
+        "author": "seangoedecke.com RSS feed",
+        "image_url": "https://www.seangoedecke.com/icons/icon-512x512.png?v=ac7bb3aa286bd21c42741d9c9aa60cb7",
+        "word_count": 2789,
+        "summary": "The Luddites were 19th-century workers who destroyed machines to fight job loss from automation. Their movement was local, secretive, and scared the government but did not stop technological progress. Today’s anti-AI efforts are different because they involve broader groups and lack the Luddites’ clear, shared goals and local ties.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-22T06:27:36.281000+00:00",
+        "last_moved_at": "2026-04-23T07:34:28.307000+00:00",
+        "published_date": "2026-04-22",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -11011,28 +9971,6 @@
         }
       },
       {
-        "id": "01kp83vzf648ky7t3fw1jg94y6",
-        "url": "https://read.readwise.io/read/01kp83vzf648ky7t3fw1jg94y6",
-        "source_url": "https://www.francksauer.com/index.php/about/my-workspace",
-        "title": "Back to the roots",
-        "author": "Super User",
-        "image_url": null,
-        "word_count": 1383,
-        "summary": "The author grew up surrounded by electronics and discovered a passion for computers with the Ti-99/4a and Commodore 64. He worked in game development and music, building home studios and offices over the years. Later, after personal changes, he returned to his roots in computer graphics and created a museum for his vintage computers.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-15T08:24:35.046000+00:00",
-        "last_moved_at": "2026-04-15T08:24:39.912000+00:00",
-        "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kmet5erb6344eexjx5b10v35",
         "url": "https://read.readwise.io/read/01kmet5erb6344eexjx5b10v35",
         "source_url": "https://siddhantkhare.com/writing/ambition-tax",
@@ -11049,28 +9987,6 @@
         "published_date": "2026-03-23",
         "triage": {
           "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kg52v9snfcxt1jve191v3aeh",
-        "url": "https://read.readwise.io/read/01kg52v9snfcxt1jve191v3aeh",
-        "source_url": "https://blog.miguelgrinberg.com/post/how-to-add-a-quick-interactive-map-to-your-website",
-        "title": "How to Add a Quick Interactive Map to your Website",
-        "author": "Miguel Grinberg",
-        "image_url": "https://blog.miguelgrinberg.com/static/cards/how-to-add-a-quick-interactive-map-to-your-website.jpg",
-        "word_count": 1127,
-        "summary": "This article explains how to add a free interactive map to your website using just a few lines of HTML and JavaScript with the Leaflet library. It guides you through three simple steps: adding dependencies, placing a map element, and writing JavaScript to show the map with layers and markers. The author also shares a quick tip to find map coordinates using Google Maps.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-29T14:34:50.037000+00:00",
-        "last_moved_at": "2026-01-29T14:34:51.268000+00:00",
-        "published_date": "2026-01-29",
-        "triage": {
-          "is_tutorial": true,
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [Headless everything for personal AI](https://interconnected.org/home/2026/04/18/headless) [📖](https://read.readwise.io/read/01kpwqt3x1xn81yx0g8f66dabc) 👤 Interconnected, a blog by Matt Webb 💬 1335 🔖 #predictions, #llm-devimpact 🗓️ 2026-04-23
+    > **Резюме:** Apps and services will need to be "headless," offering tools for personal AI without visual interfaces. Command-line tools (CLIs) are ideal for this because they are secure, composable, and fit how AIs work best. Front-end design will focus more on brand feel than usability, as AIs will handle most tasks directly through these headless tools.
 - [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/) [📖](https://read.readwise.io/read/01knty8nfmf43acvx3b7j40wz2) 👤 James Bennett 💬 6431 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-04-10
     > **Резюме:** Large language models (LLMs) have not yet delivered huge improvements in coding speed or quality. They also do not make programming easy for non-experts and require real skill to use well. Overall, LLMs are helpful tools but not a magic solution for software development.
 - [Engineering Managers are going to hate OpenClaw](https://newsletter.manager.dev/p/engineering-managers-are-going-to-hate-openclaw) [📖](https://read.readwise.io/read/01knm977485bfh7my1mecnnpkg) 👤 Anton Zaides 💬 1635 🔖 #claws, #predictions 🗓️ 2026-04-07
@@ -20,6 +22,8 @@
     > **Резюме:** The old way of using coding agents is over because new models are smarter and need less help. Amp is stopping its editor extensions and focusing on a flexible command-line tool instead. This change means Amp is moving forward with the latest technology, inviting users to join their journey.
 - [Eight more months of agents](https://crawshaw.io/blog/eight-more-months-of-agents?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01khgy8t3bhjmn99ecka3dpe0v) 👤 crawshaw.io 💬 1551 🔖 #llm, #predictions, #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
     > **Резюме:** Agent models have improved a lot in the past year, making coding much faster and easier. Traditional IDEs are becoming less needed as new tools and agents take over programming tasks. The author believes future software should focus on what helps programmers most, as agents change how we write code.
+- [Steve Yegge on AI Agents and the Future of Software Engineering](https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the) [📖](https://read.readwise.io/read/01kh62aamsdapbwhrbdve1q4g6) 👤 Gergely Orosz 💬 2964 🔖 #llm, #llm-fatigue, #predictions, #llm-devimpact 🗓️ 2026-02-11
+    > **Резюме:** Steve Yegge believes AI will greatly change software engineering, making many coding skills obsolete and reducing the need for large engineering teams. Big companies risk falling behind because they cannot innovate fast enough, while small AI-powered teams will lead the future. Working with AI can be draining, so engineers may only be productive for a few hours each day despite AI's power.
 - [One Human + One Agent = One Browser From Scratch](https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/#atom-everything) [📖](https://read.readwise.io/read/01kg1cqha5dqvkx0nxt64vee7k) 👤 Simon Willison 💬 260 🔖 #llm, #predictions 🗓️ 2026-01-28
     > **Резюме:** A single coding agent built a basic web browser in just three days using 20,000 lines of Rust code. The browser can render HTML, CSS, and SVG images without external Rust libraries. This shows AI can help small teams create solid software quickly.
 - [The Adolescence of Technology](https://www.darioamodei.com/essay/the-adolescence-of-technology) [📖](https://read.readwise.io/read/01kfztf31chzc120yet9ckpk6p) 👤 darioamodei.com 💬 21664 🔖 #llm, #claude, #predictions 🗓️ 2026-01-27

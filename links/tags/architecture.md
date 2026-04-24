@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 11
 
 ## Ссылки
 
@@ -16,6 +16,8 @@
     > **Резюме:** Decoupling business logic from storage with a small interface in Go.
 - [How I estimate work as a staff software engineer](https://seangoedecke.com/how-i-estimate-work/) [📖](https://read.readwise.io/read/01kfrt96xgz2g5ckdan3x0ybww) 👤 seangoedecke.com 💬 2426 🔖 #estimation, #architecture 🗓️ 2026-01-24
     > **Резюме:** Software project estimates are often inaccurate because most work involves unknown problems. Managers usually set estimates first, and engineers adjust the work to fit these limits. Estimation is more about communication and politics than precise planning.
+- [Django RAPID architecture](https://www.django-rapid-architecture.org/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_315) [📖](https://read.readwise.io/read/01kcjz195qz647nttq3aqwqz64) 👤 django-rapid-architecture.org 💬 1092 🔖 #django, #architecture 🗓️ 2025-12-16
+    > **Резюме:** Django RAPID is a concise set of patterns for building maintainable, scalable Django projects based on 15+ years of experience. It favors simple, predictable foundations that let systems grow without hidden complexity. The guide is flexible and prescriptive only where it matters, so teams can adopt what fits their workflow.
 - [What is "good taste" in software engineering?](https://seangoedecke.com/taste/) [📖](https://read.readwise.io/read/01k67w9wfhg2x9w3zvhzwqjeta) 👤 seangoedecke.com 💬 1835 🔖 #development, #architecture, #softwarecraft, #softwaredesign 🗓️ 2025-09-28
     > **Резюме:** Good taste in software engineering means choosing the right values for each project, not just having strong technical skills. It involves being flexible and understanding tradeoffs, rather than blindly following one approach. Engineers with good taste help projects succeed by adapting their decisions to fit the specific problems they face.
 - [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/) [📖](https://read.readwise.io/read/01jwg3tkm1wm3em4qbg0ycnx9r) 👤 arturdumchev 💬 3317 🔖 #fun, #principles, #architecture 🗓️ 2025-05-30

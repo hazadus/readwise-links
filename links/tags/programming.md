@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 30
+- Всего ссылок: 31
 
 ## Ссылки
 
+- [A Language For Agents](https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/) [📖](https://read.readwise.io/read/01kh1pd18q793sbdf9qe6t4542) 👤 Armin Ronacher 💬 2789 🔖 #programming, #llm-devimpact 🗓️ 2026-02-09
+    > **Резюме:** Programming languages should evolve to work better with AI agents, focusing on clear code and good tooling. New languages can succeed if they reduce coding costs and support agents' local reasoning and build needs. Avoiding complex features like macros and flaky tests helps agents write and understand code more effectively.
 - [Code is a liability (not an asset)](https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes?utm_source=tldrdev) [📖](https://read.readwise.io/read/01ketx7azgdpfpjwermmd60vzb) 👤 pluralistic.net 💬 3678 🔖 #llm, #toot, #programming, #llm-devimpact 🗓️ 2026-01-13
     > **Заметка:** "There will be plenty of work fixing the things that we broke thanks to the most dangerous AI psychosis of all – the hallucinatory belief that "writing code" is the same thing as "software engineering."
     > **Резюме:** Code creates ongoing problems and costs, so it is a liability, not an asset. AI produces lots of code quickly, but that means it also creates many more problems. True software engineering requires careful work that AI cannot do, or the problems will grow over time.
