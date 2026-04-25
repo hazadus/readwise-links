@@ -1,12 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 1589
+- Всего ссылок: 1593
 
 ## Ссылки
 
 - [Headless everything for personal AI](https://interconnected.org/home/2026/04/18/headless) [📖](https://read.readwise.io/read/01kpwqt3x1xn81yx0g8f66dabc) 👤 Interconnected, a blog by Matt Webb 💬 1335 🔖 #predictions, #llm-devimpact 🗓️ 2026-04-23
 - [Is Claude Code going to cost $100/month? Maybe, maybe not - it's all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything) [📖](https://read.readwise.io/read/01kpsf3pz6dzg2md44zmqpzspm) 👤 Simon Willison's Weblog 💬 939 🔖 #codex, #claude 🗓️ 2026-04-22
 - [Exploratory QA with AI Agents: Building a Site-Agnostic Harness](https://alexop.dev/posts/exploratory-qa-ai-agents-site-agnostic-harness/) [📖](https://read.readwise.io/read/01kpkpxp6w1s029akh17na8pr0) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2529 🔖 #codex, #agents, #claude, #testing, #frontend 🗓️ 2026-04-19
+- [AmneziaWG 2.0: как работает полная мимикрия трафика и чем она лучше обычной маскировки](https://www.securitylab.ru/blog/personal/Techno_Obzor/360094.php) [📖](https://read.readwise.io/read/01kpk6w3rd5extz9ay7g099743) 👤 Alexander Antipov 💬 1350 🔖 #dpi, #network 🗓️ 2026-04-19
 - [Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/) [📖](https://read.readwise.io/read/01kpf8823kqtkr83w06a6w1npy) 👤 seangoedecke.com RSS feed 💬 1279 🔖 #llm 🗓️ 2026-04-18
 - [Codex for (almost) everything | OpenAI](https://openai.com/index/codex-for-almost-everything/) [📖](https://read.readwise.io/read/01kpc1m655bfsjvbxb9ph98b24) 👤 OpenAI 💬 11 🔖 #try, #codex 🗓️ 2026-04-16
 - [OpenAI Unveils Codex “Superapp” Update with Computer Use, Automations, Built-In Browser, and More](https://www.macstories.net/news/openai-unveils-codex-superapp-update-with-computer-use-automations-built-in-browser-and-more/) [📖](https://read.readwise.io/read/01kpbkwm7bxfgg7qtqjb0768ry) 👤 John Voorhees 💬 1044 🔖 #codex, #macos 🗓️ 2026-04-16
@@ -28,6 +29,8 @@
     > **Заметка:** Via HackerNews
 - [Does GitHub still merit “top git platform for AI-native development” status?](https://newsletter.pragmaticengineer.com/p/does-github-still-merit-top-git-platform?utm_source=tldrdev&triedRedirect=true) [📖](https://read.readwise.io/read/01knqa7519j63p1dtafa795050) 👤 Gergely Orosz 💬 1559 🔖 #github 🗓️ 2026-04-08
 - [The Building Block Economy](https://mitchellh.com/writing/building-block-economy) [📖](https://read.readwise.io/read/01knq8snfek2t06z9jgrmx667s) 👤 Mitchell Hashimoto 💬 1185 🗓️ 2026-04-08
+- [Principles of Mechanical Sympathy](https://martinfowler.com/articles/mechanical-sympathy-principles.html) [📖](https://read.readwise.io/read/01knq8rkmccq5tkspg0npbrmbd) 👤 Caer Sanders 💬 1748 🔖 #softwarecraft 🗓️ 2026-04-08
+    > **Заметка:** О том, как внимание к техническим деталям железа позволяет писать более производительный софт. 
 - [The Hacker News tarpit](https://www.joanwestenberg.com/the-hacker-news-tarpit/?ref=westenberg-newsletter) [📖](https://read.readwise.io/read/01knpen66qmq810krwn0dgdhm8) 👤 JA Westenberg 💬 1846 🔖 #llm-devimpact 🗓️ 2026-04-08
 - [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) [📖](https://read.readwise.io/read/01knp9f4rgqj2ket2f9t34hv69) 👤 Wouter Groeneveld 💬 2840 🔖 #learning, #llm-devimpact, #llm-resistance 🗓️ 2026-04-08
 - [Cycles of disruption in the tech industry: with software pioneers Kent Beck & Martin Fowler](https://newsletter.pragmaticengineer.com/p/cycles-of-disruption-in-the-tech) [📖](https://read.readwise.io/read/01knmcen01kwvft2r3939y01jn) 👤 Gergely Orosz 💬 2527 🔖 #llm-devimpact 🗓️ 2026-04-07
@@ -67,6 +70,7 @@
 - [Big tech engineers need big egos](https://www.seangoedecke.com/big-tech-needs-big-egos/) [📖](https://read.readwise.io/read/01kkpxag08nsj1es0ac9jgmmnf) 👤 seangoedecke.com 💬 1975 🔖 #career 🗓️ 2026-03-14
 - [Three more AI psychoses (permalink)](https://pluralistic.net/2026/03/12/normal-technology/) [📖](https://read.readwise.io/read/01kkmj9x5p9vckgwj28dnsd4ff) 👤 pluralistic.net 💬 5062 🔖 #llm, #health 🗓️ 2026-03-13
 - [Why build a Lexer?](https://benkau.com/swift-lexer/) [📖](https://read.readwise.io/read/01kkjvj7ah4td5ahb6f9ckapcr) 👤 benkau.com 💬 1258 🗓️ 2026-03-13
+- [GitHub Actions Is Slowly Killing Your Engineering Team](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kkeb2j7rb2q4qtk8j7gtbcrj) 👤 Ian Duncan 💬 4017 🔖 #devops, #github, #joyandcuriosity 🗓️ 2026-03-11
 - [Zen of AI Coding](https://nonstructured.com/zen-of-ai-coding/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kkeavycs9gd3ty05sxhrtt5c) 👤 Yoav Aviram 💬 1912 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-11
 - [The Illusion of Building](https://uphack.io/blog/post/the-illusion-of-building/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kke24rtytd7fk8ef2nkfsp8y) 👤 uphack.io 💬 1923 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-03-11
 - [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kke22jrt51kmkvtga0vv2hb5) 👤 Olivier Girardot 💬 532 🔖 #fun, #softwarecraft, #joyandcuriosity 🗓️ 2026-03-11
@@ -152,6 +156,7 @@
 - [Rebooting The Hynek](https://buttondown.com/hynek/archive/rebooting-the-hynek/) [📖](https://read.readwise.io/read/01khch6g0zs6xrvae49c2hd5cf) 👤 Hynek Did Something 💬 1415 🗓️ 2026-02-13
 - [Why Parenting Is Similar To JavaScript Development](https://brainbaking.com/post/2026/02/why-parenting-is-similar-to-javascript-development/) [📖](https://read.readwise.io/read/01khch0fabr1dxb8a9zp4ycgzv) 👤 Wouter Groeneveld 💬 974 🔖 #fun, #javascript 🗓️ 2026-02-13
 - [The Final Bottleneck](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/) [📖](https://read.readwise.io/read/01khcgxyff319ny8z98j3ebt7c) 👤 Armin Ronacher 💬 1067 🔖 #llm-devimpact 🗓️ 2026-02-13
+- [Building an Obsidian RAG with DuckDB and MotherDuck](https://www.ssp.sh/blog/obsidian-rag-duckdb-sql/) [📖](https://read.readwise.io/read/01khbbxd9nmyfthnezegmz232s) 👤 Data Engineering 💬 4029 🔖 #rag, #duckdb, #obsidian 🗓️ 2026-02-13
 - [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/) [📖](https://read.readwise.io/read/01khawy8thd12cxvran0z4c0z5) 👤 Scott 💬 1520 🔖 #llm, #llm-devimpact 🗓️ 2026-02-13
     > **Заметка:** Via https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/#atom-everything
 - [«Наш перевод заметно ближе к польскому оригиналу»: интервью с переводчиком книжной серии «Ведьмак» Вадимом Кумоком](https://disgustingmen.com/blog/vadim-kumok-interview/) [📖](https://read.readwise.io/read/01khasmbwcppb0zkbbz65rv5bd) 👤 Disgusting Men 💬 2366 🔖 #book 🗓️ 2026-02-13

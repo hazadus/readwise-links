@@ -1,30 +1,8 @@
 {
-  "generated_at": "2026-04-24T04:14:41.450768+00:00",
+  "generated_at": "2026-04-25T04:08:12.993957+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
-      {
-        "id": "01kehqw0bh71ghpqrjbxrs9ndv",
-        "url": "https://read.readwise.io/read/01kehqw0bh71ghpqrjbxrs9ndv",
-        "source_url": "https://www.luiscardoso.dev/blog/sandboxes-for-ai",
-        "title": "A field guide to sandboxes for AI",
-        "author": "Luis Cardoso",
-        "image_url": "https://luiscardoso.dev/assets/sandbox-cover-Dh2M8shQ.webp",
-        "word_count": 6765,
-        "summary": "All sandbox boundaries differ by what trusted component they add: the host kernel (containers), a userspace kernel (gVisor), a guest kernel + VMM (microVMs), or a runtime/embedder (Wasm). Containers still send allowed syscalls to the host kernel, so kernel bugs remain a host risk. Choose microVMs or syscall-interposing runtimes when you need stronger isolation for untrusted or arbitrary Linux workloads.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-09T16:01:42.769000+00:00",
-        "last_moved_at": "2026-01-12T05:45:42.965000+00:00",
-        "published_date": "2026-01-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
       {
         "id": "01kjz757r7cztw20w5anxnzy93",
         "url": "https://read.readwise.io/read/01kjz757r7cztw20w5anxnzy93",
@@ -99,34 +77,6 @@
         "triage": {
           "is_tutorial": true,
           "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01khbbxd9nmyfthnezegmz232s",
-        "url": "https://read.readwise.io/read/01khbbxd9nmyfthnezegmz232s",
-        "source_url": "https://www.ssp.sh/blog/obsidian-rag-duckdb-sql/",
-        "title": "Building an Obsidian RAG with DuckDB and MotherDuck",
-        "author": "Data Engineering",
-        "image_url": "https://www.ssp.sh/blog/obsidian-rag-duckdb-sql/featured-image.png",
-        "word_count": 4029,
-        "summary": "This article shows how to build a tool that searches and connects markdown notes using DuckDB and Obsidian links. It helps find related ideas, hidden connections, and relevant content without sharing data with AI services. The system includes a web app and command line interface for easy semantic search and note exploration.",
-        "notes": "",
-        "tags": {
-          "obsidian": {
-            "name": "Obsidian",
-            "type": "manual",
-            "created": 1770981882917
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-13T11:24:24.757000+00:00",
-        "last_moved_at": "2026-02-13T11:24:29.887000+00:00",
-        "published_date": "2026-02-13",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 9
         }
@@ -507,9 +457,103 @@
           "is_evergreen": true,
           "interest_score": 8
         }
+      },
+      {
+        "id": "01kmn0xpnbtk9ez7a36ga93qzt",
+        "url": "https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt",
+        "source_url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+        "title": "Thoughts on slowing the fuck down",
+        "author": "mariozechner.at",
+        "image_url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/media/header.png",
+        "word_count": 2368,
+        "summary": "Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-03-26T12:11:49.803000+00:00",
+        "last_moved_at": "2026-03-26T12:11:54.194000+00:00",
+        "published_date": "2026-03-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kn9q1g2rkzrdsd4mgzghk9ew",
+        "url": "https://read.readwise.io/read/01kn9q1g2rkzrdsd4mgzghk9ew",
+        "source_url": "https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026",
+        "title": "Software Development in 2026",
+        "author": "Aleksei Matiushkin",
+        "image_url": "",
+        "word_count": 1952,
+        "summary": "Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.",
+        "notes": "Via ElixirWeekly",
+        "tags": {},
+        "highlights": [
+          {
+            "id": "01kn9q2jddtk3f7rjv5av1ftpt",
+            "url": "https://read.readwise.io/read/01kn9q2jddtk3f7rjv5av1ftpt",
+            "source_url": null,
+            "title": null,
+            "author": null,
+            "source": "Readwise web highlighter",
+            "category": "highlight",
+            "location": null,
+            "tags": {},
+            "site_name": null,
+            "word_count": null,
+            "notes": "",
+            "summary": null,
+            "image_url": null,
+            "parent_id": "01kn9q1g2rkzrdsd4mgzghk9ew",
+            "reading_progress": 0.0,
+            "content": "of water has flowed under the bridge since then, and while the theses laid out there remain",
+            "html_content": null,
+            "published_date": null,
+            "created_at": "2026-04-03T13:03:47.176208+00:00",
+            "updated_at": "2026-04-03T13:03:47.176220+00:00",
+            "saved_at": "2026-04-03T13:03:46.605000+00:00",
+            "first_opened_at": null,
+            "last_opened_at": null,
+            "last_moved_at": "2026-04-03T13:03:46.605000+00:00"
+          }
+        ],
+        "saved_at": "2026-04-03T13:03:11.448000+00:00",
+        "last_moved_at": "2026-04-03T13:03:15.250000+00:00",
+        "published_date": "2026-03-22",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 8
+        }
       }
     ],
     "shortest": [
+      {
+        "id": "01kpz5e2tbx8wy0nw6sqbjr1zh",
+        "url": "https://read.readwise.io/read/01kpz5e2tbx8wy0nw6sqbjr1zh",
+        "source_url": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/?utm_source=tldrdev",
+        "title": "I don't want your PRs anymore",
+        "author": "dpc.pw",
+        "image_url": "",
+        "word_count": 846,
+        "summary": "The author prefers to make code changes himself using AI tools because reviewing others' pull requests takes too much time and can be risky. Instead, contributors can help by reporting bugs, discussing ideas, and sharing prototypes or prompts for reference. Forking the code to customize it independently is encouraged, as it saves time and allows personal use cases.",
+        "notes": "Via TLDR",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-24T07:14:28.811000+00:00",
+        "last_moved_at": "2026-04-24T07:14:31.957000+00:00",
+        "published_date": "2026-04-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
       {
         "id": "01kkeac4cvcpn0vb4y9v0pmwgt",
         "url": "https://read.readwise.io/read/01kkeac4cvcpn0vb4y9v0pmwgt",
@@ -574,28 +618,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
-        }
-      },
-      {
-        "id": "01kpk6w3rd5extz9ay7g099743",
-        "url": "https://read.readwise.io/read/01kpk6w3rd5extz9ay7g099743",
-        "source_url": "https://www.securitylab.ru/blog/personal/Techno_Obzor/360094.php",
-        "title": "AmneziaWG 2.0: как работает полная мимикрия трафика и чем она лучше обычной маскировки",
-        "author": "Alexander Antipov",
-        "image_url": "http://www.securitylab.ru/upload/blog/avatar/0d9/hepz13em2g55dme8lnad4j6lr4uk827i.jpg",
-        "word_count": 1350,
-        "summary": "AmneziaWG 2.0 improves traffic disguise by making VPN data look more like normal network traffic, but it does not make it completely invisible. The new version is more complex and harder to detect, yet it requires new configurations and can slow down connections. This update is a big step forward but not a final solution against deep traffic analysis.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-19T15:48:43.917000+00:00",
-        "last_moved_at": "2026-04-19T15:48:46.951000+00:00",
-        "published_date": "2026-03-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
         }
       },
       {
@@ -704,6 +726,28 @@
         }
       },
       {
+        "id": "01kpxz29xms7005qe2ssdpsh0s",
+        "url": "https://read.readwise.io/read/01kpxz29xms7005qe2ssdpsh0s",
+        "source_url": "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+        "title": "Sign of the future: GPT-5.5",
+        "author": "Ethan Mollick",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!hesI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c591570-ee4a-4107-a9d1-b167d3f4a64a_1484x1060.png",
+        "word_count": 1539,
+        "summary": "GPT-5.5 is a big step forward in AI, showing faster and smarter abilities in coding, writing, and image generation. It can create complex tasks like academic papers and roleplaying games with little input. However, some challenges remain, such as flat fiction and less interesting ideas, showing AI still has room to grow.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-23T20:03:53.981000+00:00",
+        "last_moved_at": "2026-04-24T04:55:29.189000+00:00",
+        "published_date": "2026-04-23",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
+        }
+      },
+      {
         "id": "01kg4hy6f9wszmza56vvc5pbdz",
         "url": "https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz",
         "source_url": "https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code",
@@ -783,6 +827,56 @@
           "is_tutorial": false,
           "is_foundational": false,
           "is_evergreen": false,
+          "interest_score": 3
+        }
+      },
+      {
+        "id": "01kpxsckj3veyzbhy69y9dhzyc",
+        "url": "https://read.readwise.io/read/01kpxsckj3veyzbhy69y9dhzyc",
+        "source_url": "https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/",
+        "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
+        "author": "Gergely Orosz",
+        "image_url": "https://blog.pragmaticengineer.com/content/images/size/w256h256/2024/06/The-Pragmatic-Engineer-Blog-Publication-Icon--Logo-.png",
+        "word_count": 1993,
+        "summary": "Some tech companies like Meta and Microsoft created leaderboards to track AI token usage, which led to wasteful and excessive AI use called \"tokenmaxxing.\" This practice caused high costs and low-quality work, prompting backlash and changes like Meta removing its leaderboard. Shopify's careful approach with monitoring and limits shows a better way to encourage AI use without encouraging waste.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-23T18:24:40.075000+00:00",
+        "last_moved_at": "2026-04-24T04:55:08.994000+00:00",
+        "published_date": "2026-04-23",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 4
+        }
+      },
+      {
+        "id": "01kpzrr28fjd6a6pknn9d5hvt5",
+        "url": "https://read.readwise.io/read/01kpzrr28fjd6a6pknn9d5hvt5",
+        "source_url": "https://www.beyondlogic.org/usbnutshell/usb1.shtml",
+        "title": "USB in a NutShell",
+        "author": "beyondlogic.org",
+        "image_url": null,
+        "word_count": 2022,
+        "summary": "The USB standard can initially seem overwhelming due to its extensive documentation, but not all sections are essential to read thoroughly. For those designing USB peripherals, focusing on specific chapters like Architectural Overview, USB Data Flow Model, USB Device Frame Work, and USB Host Hardware and Software can provide the necessary insights. Understanding the different speeds, bus topology, architecture, and controller interfaces of USB is crucial for developing devices efficiently within the USB framework. The document also touches on the benefits of USB's tiered star topology, power monitoring capabilities, support for multiple devices, and the evolution of USB host controllers to accommodate increasing bandwidth demands.",
+        "notes": "",
+        "tags": {
+          "usb": {
+            "name": "USB",
+            "type": "manual",
+            "created": 1777035130890
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-24T12:51:58.863000+00:00",
+        "last_moved_at": "2026-04-24T12:52:02.239000+00:00",
+        "published_date": "2018-04-12",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
           "interest_score": 3
         }
       },
@@ -1228,78 +1322,6 @@
           "is_evergreen": false,
           "interest_score": 9
         }
-      },
-      {
-        "id": "01keh0mtv65mmaj4vwam6etx96",
-        "url": "https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96",
-        "source_url": "https://steipete.me/posts/2025/shipping-at-inference-speed",
-        "title": "Shipping at Inference-Speed",
-        "author": "Peter Steinberger",
-        "image_url": "https://steipete.me/posts/2025/shipping-at-inference-speed/index.png",
-        "word_count": 3413,
-        "summary": "AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1767950180709
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-09T09:15:50.502000+00:00",
-        "last_moved_at": "2026-01-09T09:16:21.927000+00:00",
-        "published_date": "2025-12-28",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01knbv6r1n0rt1fmt8eye7m8c0",
-        "url": "https://read.readwise.io/read/01knbv6r1n0rt1fmt8eye7m8c0",
-        "source_url": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev",
-        "title": "Some uncomfortable truths about AI coding agents",
-        "author": "standupforme.app",
-        "image_url": "",
-        "word_count": 3485,
-        "summary": "AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.",
-        "notes": "Via TLDR Newsletter",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-04T08:54:26.613000+00:00",
-        "last_moved_at": "2026-04-04T08:54:31.257000+00:00",
-        "published_date": "2026-03-26",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kgabfzsr9yz690ma05nt8ck5",
-        "url": "https://read.readwise.io/read/01kgabfzsr9yz690ma05nt8ck5",
-        "source_url": "https://addyo.substack.com/p/the-80-problem-in-agentic-coding?utm_source=tldrdev",
-        "title": "The 80% Problem in Agentic Coding",
-        "author": "Addy Osmani",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!lmAD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9189021-cd66-44d9-8683-520663047835_2400x1350.png",
-        "word_count": 3508,
-        "summary": "AI now writes most code, but humans must still carefully review and guide it. This shift changes engineers’ roles from coders to overseers and problem solvers. Success comes from using AI to learn and think deeply, not just to generate code fast.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-31T15:42:08.696000+00:00",
-        "last_moved_at": "2026-01-31T15:42:15.192000+00:00",
-        "published_date": "2026-01-28",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
       }
     ],
     "quick_wins": [
@@ -1370,6 +1392,34 @@
         }
       },
       {
+        "id": "01kpz4vpybbrxvhjkmh2xfx21r",
+        "url": "https://read.readwise.io/read/01kpz4vpybbrxvhjkmh2xfx21r",
+        "source_url": "https://perthirtysix.com/how-the-heck-does-shazam-work?utm_source=tldrdev",
+        "title": "How The Heck Does Shazam Work?",
+        "author": "Shri Khalpada",
+        "image_url": "https://perthirtysix.com/img/shazam-cover.png",
+        "word_count": 521,
+        "summary": "Shazam works by turning sounds into simple fingerprints that help identify songs. Most services send audio to a server with a huge database to find matches. Newer apps can do this on your phone using smaller databases and smart algorithms.",
+        "notes": "Via TLDR",
+        "tags": {
+          "explorable": {
+            "name": "Explorable",
+            "type": "manual",
+            "created": 1777014280512
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-24T07:04:26.826000+00:00",
+        "last_moved_at": "2026-04-24T07:04:35.641000+00:00",
+        "published_date": "2026-04-20",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 3
+        }
+      },
+      {
         "id": "01k0p04qds3k7b6mxrrfggvpt2",
         "url": "https://read.readwise.io/read/01k0p04qds3k7b6mxrrfggvpt2",
         "source_url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
@@ -1399,28 +1449,6 @@
       }
     ],
     "deep_reading": [
-      {
-        "id": "01kehqw0bh71ghpqrjbxrs9ndv",
-        "url": "https://read.readwise.io/read/01kehqw0bh71ghpqrjbxrs9ndv",
-        "source_url": "https://www.luiscardoso.dev/blog/sandboxes-for-ai",
-        "title": "A field guide to sandboxes for AI",
-        "author": "Luis Cardoso",
-        "image_url": "https://luiscardoso.dev/assets/sandbox-cover-Dh2M8shQ.webp",
-        "word_count": 6765,
-        "summary": "All sandbox boundaries differ by what trusted component they add: the host kernel (containers), a userspace kernel (gVisor), a guest kernel + VMM (microVMs), or a runtime/embedder (Wasm). Containers still send allowed syscalls to the host kernel, so kernel bugs remain a host risk. Choose microVMs or syscall-interposing runtimes when you need stronger isolation for untrusted or arbitrary Linux workloads.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-09T16:01:42.769000+00:00",
-        "last_moved_at": "2026-01-12T05:45:42.965000+00:00",
-        "published_date": "2026-01-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
       {
         "id": "01kgabfzsr9yz690ma05nt8ck5",
         "url": "https://read.readwise.io/read/01kgabfzsr9yz690ma05nt8ck5",
@@ -1964,25 +1992,25 @@
         }
       },
       {
-        "id": "01knq8rkmccq5tkspg0npbrmbd",
-        "url": "https://read.readwise.io/read/01knq8rkmccq5tkspg0npbrmbd",
-        "source_url": "https://martinfowler.com/articles/mechanical-sympathy-principles.html",
-        "title": "Principles of Mechanical Sympathy",
-        "author": "Caer Sanders",
-        "image_url": "https://martinfowler.com/articles/mechanical-sympathy-principles/card.png",
-        "word_count": 1748,
-        "summary": "Mechanical sympathy means understanding how hardware works to make software faster and more efficient. Key ideas include accessing memory sequentially, avoiding false sharing between CPU cores, and having a single thread write to shared data to reduce delays. Using these principles helps build better-performing systems at any scale.",
+        "id": "01kpxz29xms7005qe2ssdpsh0s",
+        "url": "https://read.readwise.io/read/01kpxz29xms7005qe2ssdpsh0s",
+        "source_url": "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+        "title": "Sign of the future: GPT-5.5",
+        "author": "Ethan Mollick",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!hesI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c591570-ee4a-4107-a9d1-b167d3f4a64a_1484x1060.png",
+        "word_count": 1539,
+        "summary": "GPT-5.5 is a big step forward in AI, showing faster and smarter abilities in coding, writing, and image generation. It can create complex tasks like academic papers and roleplaying games with little input. However, some challenges remain, such as flat fiction and less interesting ideas, showing AI still has room to grow.",
         "notes": "",
         "tags": {},
         "highlights": [],
-        "saved_at": "2026-04-08T19:23:02.156000+00:00",
-        "last_moved_at": "2026-04-08T19:23:06.289000+00:00",
-        "published_date": "2026-04-07",
+        "saved_at": "2026-04-23T20:03:53.981000+00:00",
+        "last_moved_at": "2026-04-24T04:55:29.189000+00:00",
+        "published_date": "2026-04-23",
         "triage": {
           "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 6
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
         }
       },
       {
@@ -2141,44 +2169,6 @@
         }
       },
       {
-        "id": "01kkeb2j7rb2q4qtk8j7gtbcrj",
-        "url": "https://read.readwise.io/read/01kkeb2j7rb2q4qtk8j7gtbcrj",
-        "source_url": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/?utm_source=substack&utm_medium=email",
-        "title": "GitHub Actions Is Slowly Killing Your Engineering Team",
-        "author": "Ian Duncan",
-        "image_url": "https://iankduncan.com/portrait.jpg",
-        "word_count": 4017,
-        "summary": "GitHub Actions is slow, confusing, and hard to debug, making engineers frustrated. Buildkite offers a simpler, faster, and more pleasant CI experience. GitHub Actions won by default, but Buildkite is better for real work.",
-        "notes": "",
-        "tags": {
-          "devops": {
-            "name": "DevOps",
-            "type": "manual",
-            "created": 1773229152100
-          },
-          "github": {
-            "name": "GitHub",
-            "type": "manual",
-            "created": 1773229145994
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1773229140689
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-11T11:38:52.024000+00:00",
-        "last_moved_at": "2026-03-11T11:38:56.088000+00:00",
-        "published_date": "2026-02-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 4
-        }
-      },
-      {
         "id": "01kp3dteqy8exn9m4t0kz3yp7y",
         "url": "https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y",
         "source_url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email",
@@ -2204,6 +2194,28 @@
         "saved_at": "2026-04-13T12:42:18.750000+00:00",
         "last_moved_at": "2026-04-13T12:42:22.960000+00:00",
         "published_date": "2026-04-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 4
+        }
+      },
+      {
+        "id": "01kpxsckj3veyzbhy69y9dhzyc",
+        "url": "https://read.readwise.io/read/01kpxsckj3veyzbhy69y9dhzyc",
+        "source_url": "https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/",
+        "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
+        "author": "Gergely Orosz",
+        "image_url": "https://blog.pragmaticengineer.com/content/images/size/w256h256/2024/06/The-Pragmatic-Engineer-Blog-Publication-Icon--Logo-.png",
+        "word_count": 1993,
+        "summary": "Some tech companies like Meta and Microsoft created leaderboards to track AI token usage, which led to wasteful and excessive AI use called \"tokenmaxxing.\" This practice caused high costs and low-quality work, prompting backlash and changes like Meta removing its leaderboard. Shopify's careful approach with monitoring and limits shows a better way to encourage AI use without encouraging waste.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-23T18:24:40.075000+00:00",
+        "last_moved_at": "2026-04-24T04:55:08.994000+00:00",
+        "published_date": "2026-04-23",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -2330,6 +2342,34 @@
           "is_tutorial": false,
           "is_foundational": false,
           "is_evergreen": false,
+          "interest_score": 3
+        }
+      },
+      {
+        "id": "01kpzrr28fjd6a6pknn9d5hvt5",
+        "url": "https://read.readwise.io/read/01kpzrr28fjd6a6pknn9d5hvt5",
+        "source_url": "https://www.beyondlogic.org/usbnutshell/usb1.shtml",
+        "title": "USB in a NutShell",
+        "author": "beyondlogic.org",
+        "image_url": null,
+        "word_count": 2022,
+        "summary": "The USB standard can initially seem overwhelming due to its extensive documentation, but not all sections are essential to read thoroughly. For those designing USB peripherals, focusing on specific chapters like Architectural Overview, USB Data Flow Model, USB Device Frame Work, and USB Host Hardware and Software can provide the necessary insights. Understanding the different speeds, bus topology, architecture, and controller interfaces of USB is crucial for developing devices efficiently within the USB framework. The document also touches on the benefits of USB's tiered star topology, power monitoring capabilities, support for multiple devices, and the evolution of USB host controllers to accommodate increasing bandwidth demands.",
+        "notes": "",
+        "tags": {
+          "usb": {
+            "name": "USB",
+            "type": "manual",
+            "created": 1777035130890
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-24T12:51:58.863000+00:00",
+        "last_moved_at": "2026-04-24T12:52:02.239000+00:00",
+        "published_date": "2018-04-12",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
           "interest_score": 3
         }
       },
@@ -5186,34 +5226,6 @@
         }
       },
       {
-        "id": "01khbbxd9nmyfthnezegmz232s",
-        "url": "https://read.readwise.io/read/01khbbxd9nmyfthnezegmz232s",
-        "source_url": "https://www.ssp.sh/blog/obsidian-rag-duckdb-sql/",
-        "title": "Building an Obsidian RAG with DuckDB and MotherDuck",
-        "author": "Data Engineering",
-        "image_url": "https://www.ssp.sh/blog/obsidian-rag-duckdb-sql/featured-image.png",
-        "word_count": 4029,
-        "summary": "This article shows how to build a tool that searches and connects markdown notes using DuckDB and Obsidian links. It helps find related ideas, hidden connections, and relevant content without sharing data with AI services. The system includes a web app and command line interface for easy semantic search and note exploration.",
-        "notes": "",
-        "tags": {
-          "obsidian": {
-            "name": "Obsidian",
-            "type": "manual",
-            "created": 1770981882917
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-13T11:24:24.757000+00:00",
-        "last_moved_at": "2026-02-13T11:24:29.887000+00:00",
-        "published_date": "2026-02-13",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
         "id": "01kpfqsqcjj1pc8g79r2pe4g8p",
         "url": "https://read.readwise.io/read/01kpfqsqcjj1pc8g79r2pe4g8p",
         "source_url": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
@@ -5380,6 +5392,50 @@
         }
       },
       {
+        "id": "01kpx8339m6cx9jbj00p2st6qx",
+        "url": "https://read.readwise.io/read/01kpx8339m6cx9jbj00p2st6qx",
+        "source_url": "https://interconnected.org/home/2026/04/21/courier",
+        "title": "Courier: real-time messaging for ESP32 with batteries included (new library)",
+        "author": "Interconnected",
+        "image_url": "https://interconnected.org/home/static/images/matt-webb-sitting-square.jpg?v=1",
+        "word_count": 859,
+        "summary": "Courier is a new library that makes real-time messaging easy on ESP32 devices using JSON over websockets. It includes built-in Wi-Fi setup, automatic reconnects, and time sync to keep connections stable. Many developers use Courier with popular ESP32 gadgets like the M5Stick to quickly build interactive hardware projects.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-23T13:22:22.716000+00:00",
+        "last_moved_at": "2026-04-24T04:53:35.674000+00:00",
+        "published_date": "2026-04-21",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kpxz0q8aqcf4nacfq2cnfkye",
+        "url": "https://read.readwise.io/read/01kpxz0q8aqcf4nacfq2cnfkye",
+        "source_url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
+        "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
+        "author": "Simon Willison's Weblog",
+        "image_url": "https://simonwillison.net/favicon.ico",
+        "word_count": 633,
+        "summary": "GPT-5.5 is now available through OpenAI Codex and paid ChatGPT subscriptions but not yet via the API. Simon Willison created a plugin that uses the Codex subscription to run GPT-5.5 prompts with the open-source Codex CLI tool. This lets users generate creative outputs like detailed pelican images using advanced prompting options.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-23T20:03:02.098000+00:00",
+        "last_moved_at": "2026-04-24T04:55:21.866000+00:00",
+        "published_date": "2026-04-23",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
         "id": "01k7z3amqe376ky08bkmjbnp3v",
         "url": "https://read.readwise.io/read/01k7z3amqe376ky08bkmjbnp3v",
         "source_url": "https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email",
@@ -5426,6 +5482,28 @@
           "is_tutorial": true,
           "is_foundational": false,
           "is_evergreen": false,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01kpy5v3jtmgkyjs9kxf8eeh9d",
+        "url": "https://read.readwise.io/read/01kpy5v3jtmgkyjs9kxf8eeh9d",
+        "source_url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything",
+        "title": "Extract PDF text in your browser with LiteParse for the web",
+        "author": "Simon Willison's Weblog",
+        "image_url": "https://simonwillison.net/favicon.ico",
+        "word_count": 1885,
+        "summary": "LiteParse is a tool that extracts text from PDFs without using AI, running either as a Node.js CLI or now fully in the browser. Simon Willison created a web version that works offline, preserving privacy and making it easy to use. The project is open-source, quick to deploy, and reliable for extracting PDF text with or without OCR.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-23T22:02:18.146000+00:00",
+        "last_moved_at": "2026-04-24T04:56:36.122000+00:00",
+        "published_date": "2026-04-23",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": false,
+          "is_evergreen": true,
           "interest_score": 7
         }
       },
@@ -5477,28 +5555,6 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 7
-        }
-      },
-      {
-        "id": "01knrbv38h3exn38swf8dcxj41",
-        "url": "https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41",
-        "source_url": "https://werwolv.net/posts/usb_for_sw_devs/",
-        "title": "USB for Software Developers",
-        "author": "WerWolv",
-        "image_url": "https://werwolv.net/_astro/cover.D_ljJUxi.png",
-        "word_count": 2523,
-        "summary": "Writing a USB driver is similar to writing a network application and does not require kernel code. USB devices identify themselves using standard descriptors, which the host reads to understand the device and its capabilities. Developers can communicate with devices through specific endpoints using simple commands, as shown in the Fastboot example.",
-        "notes": "Via HackerNews",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-09T05:36:03.856000+00:00",
-        "last_moved_at": "2026-04-09T05:36:09.078000+00:00",
-        "published_date": "2026-04-07",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 6
         }
       },
       {
@@ -5697,28 +5753,6 @@
       }
     ],
     "fundamentals": [
-      {
-        "id": "01kehqw0bh71ghpqrjbxrs9ndv",
-        "url": "https://read.readwise.io/read/01kehqw0bh71ghpqrjbxrs9ndv",
-        "source_url": "https://www.luiscardoso.dev/blog/sandboxes-for-ai",
-        "title": "A field guide to sandboxes for AI",
-        "author": "Luis Cardoso",
-        "image_url": "https://luiscardoso.dev/assets/sandbox-cover-Dh2M8shQ.webp",
-        "word_count": 6765,
-        "summary": "All sandbox boundaries differ by what trusted component they add: the host kernel (containers), a userspace kernel (gVisor), a guest kernel + VMM (microVMs), or a runtime/embedder (Wasm). Containers still send allowed syscalls to the host kernel, so kernel bugs remain a host risk. Choose microVMs or syscall-interposing runtimes when you need stronger isolation for untrusted or arbitrary Linux workloads.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-09T16:01:42.769000+00:00",
-        "last_moved_at": "2026-01-12T05:45:42.965000+00:00",
-        "published_date": "2026-01-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
       {
         "id": "01k16rxz1txqqvqwzqx2qb3nje",
         "url": "https://read.readwise.io/read/01k16rxz1txqqvqwzqx2qb3nje",
@@ -6163,28 +6197,6 @@
         }
       },
       {
-        "id": "01knrbv38h3exn38swf8dcxj41",
-        "url": "https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41",
-        "source_url": "https://werwolv.net/posts/usb_for_sw_devs/",
-        "title": "USB for Software Developers",
-        "author": "WerWolv",
-        "image_url": "https://werwolv.net/_astro/cover.D_ljJUxi.png",
-        "word_count": 2523,
-        "summary": "Writing a USB driver is similar to writing a network application and does not require kernel code. USB devices identify themselves using standard descriptors, which the host reads to understand the device and its capabilities. Developers can communicate with devices through specific endpoints using simple commands, as shown in the Fastboot example.",
-        "notes": "Via HackerNews",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-09T05:36:03.856000+00:00",
-        "last_moved_at": "2026-04-09T05:36:09.078000+00:00",
-        "published_date": "2026-04-07",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 6
-        }
-      },
-      {
         "id": "01kgpxfr0rd5sezbhmv0szq1dt",
         "url": "https://read.readwise.io/read/01kgpxfr0rd5sezbhmv0szq1dt",
         "source_url": "https://mtlynch.io/good-developers-bad-tests/#test-code-is-not-like-other-code",
@@ -6207,28 +6219,6 @@
         "published_date": "2018-11-09",
         "triage": {
           "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 6
-        }
-      },
-      {
-        "id": "01knq8rkmccq5tkspg0npbrmbd",
-        "url": "https://read.readwise.io/read/01knq8rkmccq5tkspg0npbrmbd",
-        "source_url": "https://martinfowler.com/articles/mechanical-sympathy-principles.html",
-        "title": "Principles of Mechanical Sympathy",
-        "author": "Caer Sanders",
-        "image_url": "https://martinfowler.com/articles/mechanical-sympathy-principles/card.png",
-        "word_count": 1748,
-        "summary": "Mechanical sympathy means understanding how hardware works to make software faster and more efficient. Key ideas include accessing memory sequentially, avoiding false sharing between CPU cores, and having a single thread write to shared data to reduce delays. Using these principles helps build better-performing systems at any scale.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-08T19:23:02.156000+00:00",
-        "last_moved_at": "2026-04-08T19:23:06.289000+00:00",
-        "published_date": "2026-04-07",
-        "triage": {
-          "is_tutorial": false,
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 6
@@ -6408,6 +6398,34 @@
         "saved_at": "2026-02-06T06:07:14.692000+00:00",
         "last_moved_at": "2026-02-06T10:52:49.457000+00:00",
         "published_date": "2026-02-04",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 3
+        }
+      },
+      {
+        "id": "01kpz4vpybbrxvhjkmh2xfx21r",
+        "url": "https://read.readwise.io/read/01kpz4vpybbrxvhjkmh2xfx21r",
+        "source_url": "https://perthirtysix.com/how-the-heck-does-shazam-work?utm_source=tldrdev",
+        "title": "How The Heck Does Shazam Work?",
+        "author": "Shri Khalpada",
+        "image_url": "https://perthirtysix.com/img/shazam-cover.png",
+        "word_count": 521,
+        "summary": "Shazam works by turning sounds into simple fingerprints that help identify songs. Most services send audio to a server with a huge database to find matches. Newer apps can do this on your phone using smaller databases and smart algorithms.",
+        "notes": "Via TLDR",
+        "tags": {
+          "explorable": {
+            "name": "Explorable",
+            "type": "manual",
+            "created": 1777014280512
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-24T07:04:26.826000+00:00",
+        "last_moved_at": "2026-04-24T07:04:35.641000+00:00",
+        "published_date": "2026-04-20",
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
@@ -7034,6 +7052,50 @@
         }
       },
       {
+        "id": "01kpz5e2tbx8wy0nw6sqbjr1zh",
+        "url": "https://read.readwise.io/read/01kpz5e2tbx8wy0nw6sqbjr1zh",
+        "source_url": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/?utm_source=tldrdev",
+        "title": "I don't want your PRs anymore",
+        "author": "dpc.pw",
+        "image_url": "",
+        "word_count": 846,
+        "summary": "The author prefers to make code changes himself using AI tools because reviewing others' pull requests takes too much time and can be risky. Instead, contributors can help by reporting bugs, discussing ideas, and sharing prototypes or prompts for reference. Forking the code to customize it independently is encouraged, as it saves time and allows personal use cases.",
+        "notes": "Via TLDR",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-24T07:14:28.811000+00:00",
+        "last_moved_at": "2026-04-24T07:14:31.957000+00:00",
+        "published_date": "2026-04-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kpxz0q8aqcf4nacfq2cnfkye",
+        "url": "https://read.readwise.io/read/01kpxz0q8aqcf4nacfq2cnfkye",
+        "source_url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
+        "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
+        "author": "Simon Willison's Weblog",
+        "image_url": "https://simonwillison.net/favicon.ico",
+        "word_count": 633,
+        "summary": "GPT-5.5 is now available through OpenAI Codex and paid ChatGPT subscriptions but not yet via the API. Simon Willison created a plugin that uses the Codex subscription to run GPT-5.5 prompts with the open-source Codex CLI tool. This lets users generate creative outputs like detailed pelican images using advanced prompting options.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-23T20:03:02.098000+00:00",
+        "last_moved_at": "2026-04-24T04:55:21.866000+00:00",
+        "published_date": "2026-04-23",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
         "id": "01kp3atpcs24f3003fev1drqz8",
         "url": "https://read.readwise.io/read/01kp3atpcs24f3003fev1drqz8",
         "source_url": "https://lalitm.com/post/building-syntaqlite-ai/",
@@ -7111,6 +7173,28 @@
         }
       },
       {
+        "id": "01kpxz29xms7005qe2ssdpsh0s",
+        "url": "https://read.readwise.io/read/01kpxz29xms7005qe2ssdpsh0s",
+        "source_url": "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+        "title": "Sign of the future: GPT-5.5",
+        "author": "Ethan Mollick",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!hesI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c591570-ee4a-4107-a9d1-b167d3f4a64a_1484x1060.png",
+        "word_count": 1539,
+        "summary": "GPT-5.5 is a big step forward in AI, showing faster and smarter abilities in coding, writing, and image generation. It can create complex tasks like academic papers and roleplaying games with little input. However, some challenges remain, such as flat fiction and less interesting ideas, showing AI still has room to grow.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-23T20:03:53.981000+00:00",
+        "last_moved_at": "2026-04-24T04:55:29.189000+00:00",
+        "published_date": "2026-04-23",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
+        }
+      },
+      {
         "id": "01k62kckeewb1936zrjewhbhvn",
         "url": "https://read.readwise.io/read/01k62kckeewb1936zrjewhbhvn",
         "source_url": "https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/",
@@ -7127,28 +7211,6 @@
         "published_date": "2025-01-05",
         "triage": {
           "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01kpk6w3rd5extz9ay7g099743",
-        "url": "https://read.readwise.io/read/01kpk6w3rd5extz9ay7g099743",
-        "source_url": "https://www.securitylab.ru/blog/personal/Techno_Obzor/360094.php",
-        "title": "AmneziaWG 2.0: как работает полная мимикрия трафика и чем она лучше обычной маскировки",
-        "author": "Alexander Antipov",
-        "image_url": "http://www.securitylab.ru/upload/blog/avatar/0d9/hepz13em2g55dme8lnad4j6lr4uk827i.jpg",
-        "word_count": 1350,
-        "summary": "AmneziaWG 2.0 improves traffic disguise by making VPN data look more like normal network traffic, but it does not make it completely invisible. The new version is more complex and harder to detect, yet it requires new configurations and can slow down connections. This update is a big step forward but not a final solution against deep traffic analysis.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-19T15:48:43.917000+00:00",
-        "last_moved_at": "2026-04-19T15:48:46.951000+00:00",
-        "published_date": "2026-03-24",
-        "triage": {
-          "is_tutorial": false,
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 7
@@ -7183,44 +7245,6 @@
         }
       },
       {
-        "id": "01kkeb2j7rb2q4qtk8j7gtbcrj",
-        "url": "https://read.readwise.io/read/01kkeb2j7rb2q4qtk8j7gtbcrj",
-        "source_url": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/?utm_source=substack&utm_medium=email",
-        "title": "GitHub Actions Is Slowly Killing Your Engineering Team",
-        "author": "Ian Duncan",
-        "image_url": "https://iankduncan.com/portrait.jpg",
-        "word_count": 4017,
-        "summary": "GitHub Actions is slow, confusing, and hard to debug, making engineers frustrated. Buildkite offers a simpler, faster, and more pleasant CI experience. GitHub Actions won by default, but Buildkite is better for real work.",
-        "notes": "",
-        "tags": {
-          "devops": {
-            "name": "DevOps",
-            "type": "manual",
-            "created": 1773229152100
-          },
-          "github": {
-            "name": "GitHub",
-            "type": "manual",
-            "created": 1773229145994
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1773229140689
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-11T11:38:52.024000+00:00",
-        "last_moved_at": "2026-03-11T11:38:56.088000+00:00",
-        "published_date": "2026-02-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 4
-        }
-      },
-      {
         "id": "01kp3dteqy8exn9m4t0kz3yp7y",
         "url": "https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y",
         "source_url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email",
@@ -7246,6 +7270,28 @@
         "saved_at": "2026-04-13T12:42:18.750000+00:00",
         "last_moved_at": "2026-04-13T12:42:22.960000+00:00",
         "published_date": "2026-04-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 4
+        }
+      },
+      {
+        "id": "01kpxsckj3veyzbhy69y9dhzyc",
+        "url": "https://read.readwise.io/read/01kpxsckj3veyzbhy69y9dhzyc",
+        "source_url": "https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/",
+        "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
+        "author": "Gergely Orosz",
+        "image_url": "https://blog.pragmaticengineer.com/content/images/size/w256h256/2024/06/The-Pragmatic-Engineer-Blog-Publication-Icon--Logo-.png",
+        "word_count": 1993,
+        "summary": "Some tech companies like Meta and Microsoft created leaderboards to track AI token usage, which led to wasteful and excessive AI use called \"tokenmaxxing.\" This practice caused high costs and low-quality work, prompting backlash and changes like Meta removing its leaderboard. Shopify's careful approach with monitoring and limits shows a better way to encourage AI use without encouraging waste.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-23T18:24:40.075000+00:00",
+        "last_moved_at": "2026-04-24T04:55:08.994000+00:00",
+        "published_date": "2026-04-23",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

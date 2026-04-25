@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [How The Heck Does Shazam Work?](https://perthirtysix.com/how-the-heck-does-shazam-work?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kpz4vpybbrxvhjkmh2xfx21r) 👤 Shri Khalpada 💬 521 🔖 #explorable 🗓️ 2026-04-24
+    > **Заметка:** Via TLDR
+    > **Резюме:** Shazam works by turning sounds into simple fingerprints that help identify songs. Most services send audio to a server with a huge database to find matches. Newer apps can do this on your phone using smaller databases and smart algorithms.
 - [Dithering - Part 2](https://visualrambling.space/dithering-part-2/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01khgqw73xf9cxjgxbk6gdvst7) 👤 visualrambling.space 💬 974 🔖 #theory, #graphics, #explorable, #joyandcuriosity 🗓️ 2026-02-15
     > **Резюме:** Ordered dithering uses a threshold map to turn grayscale images into black and white patterns that mimic the original brightness. Different threshold maps, like Bayer matrices, create unique patterns and smoother transitions between shades. More complex maps, such as void-and-cluster, produce natural textures and reduce visual artifacts.
 - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3) 👤 ngrok 💬 78 🔖 #llm, #explorable, #joyandcuriosity 🗓️ 2025-12-21

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 2
+- Всего ссылок: 3
 
 ## Ссылки
 
+- [Building an Obsidian RAG with DuckDB and MotherDuck](https://www.ssp.sh/blog/obsidian-rag-duckdb-sql/) [📖](https://read.readwise.io/read/01khbbxd9nmyfthnezegmz232s) 👤 Data Engineering 💬 4029 🔖 #rag, #duckdb, #obsidian 🗓️ 2026-02-13
+    > **Резюме:** This article shows how to build a tool that searches and connects markdown notes using DuckDB and Obsidian links. It helps find related ideas, hidden connections, and relevant content without sharing data with AI services. The system includes a web app and command line interface for easy semantic search and note exploration.
 - [Why Semantic Layers Matter — and How to Build One with DuckDB](https://motherduck.com/blog/semantic-layer-duckdb-tutorial/?utm_source=tldrwebdev) [📖](https://read.readwise.io/read/01k3dvbzkw3s1gm7q04mbk1za1) 👤 MotherDuck 💬 4235 🔖 #duckdb 🗓️ 2025-08-24
     > **Резюме:** A semantic layer defines shared business metrics and dimensions so users can query data in familiar terms.  
 It stops metric duplication, improves governance, and generates queries on demand.  

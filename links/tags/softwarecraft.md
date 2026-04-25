@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 42
+- Всего ссылок: 43
 
 ## Ссылки
 
+- [Principles of Mechanical Sympathy](https://martinfowler.com/articles/mechanical-sympathy-principles.html) [📖](https://read.readwise.io/read/01knq8rkmccq5tkspg0npbrmbd) 👤 Caer Sanders 💬 1748 🔖 #softwarecraft 🗓️ 2026-04-08
+    > **Заметка:** О том, как внимание к техническим деталям железа позволяет писать более производительный софт. 
+    > **Резюме:** Mechanical sympathy means understanding how hardware works to make software faster and more efficient. Key ideas include accessing memory sequentially, avoiding false sharing between CPU cores, and having a single thread write to shared data to reduce delays. Using these principles helps build better-performing systems at any scale.
 - [The unwritten laws of software engineering](https://newsletter.manager.dev/p/the-unwritten-laws-of-software-engineering) [📖](https://read.readwise.io/read/01kkxbqkadq89hsb34yr8yasjy) 👤 Anton Zaides 💬 1492 🔖 #principles, #softwarecraft 🗓️ 2026-03-17
     > **Резюме:** Last April, I wrote a well-received article about the 13 software engineering laws - Hyrum’s, Conway’s, Zawinski’s, and 10 famous others.
 - [The Illusion of Building](https://uphack.io/blog/post/the-illusion-of-building/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kke24rtytd7fk8ef2nkfsp8y) 👤 uphack.io 💬 1923 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-03-11

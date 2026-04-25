@@ -6,7 +6,7 @@
 
 - [Obsidian CLI](https://help.obsidian.md/cli) [📖](https://read.readwise.io/read/01kk6zvqvw9t7kf5367s8ryb2v) 👤 Obsidian Help 💬 3708 🔖 #obsidian 🗓️ 2026-03-08
     > **Резюме:** Obsidian CLI lets you control Obsidian from the terminal with commands for notes, tasks, search, and file management. It supports daily notes, plugins, file history, and developer tools. You can create, read, edit, and manage vault content easily using simple commands and flags.
-- [Building an Obsidian RAG with DuckDB and MotherDuck](https://www.ssp.sh/blog/obsidian-rag-duckdb-sql/) [📖](https://read.readwise.io/read/01khbbxd9nmyfthnezegmz232s) 👤 Data Engineering 💬 4029 🔖 #obsidian 🗓️ 2026-02-13
+- [Building an Obsidian RAG with DuckDB and MotherDuck](https://www.ssp.sh/blog/obsidian-rag-duckdb-sql/) [📖](https://read.readwise.io/read/01khbbxd9nmyfthnezegmz232s) 👤 Data Engineering 💬 4029 🔖 #rag, #duckdb, #obsidian 🗓️ 2026-02-13
     > **Резюме:** This article shows how to build a tool that searches and connects markdown notes using DuckDB and Obsidian links. It helps find related ideas, hidden connections, and relevant content without sharing data with AI services. The system includes a web app and command line interface for easy semantic search and note exploration.
 - [How I Use Obsidian](https://calv.info/how-i-use-obsidian) [📖](https://read.readwise.io/read/01kem9nh2dzz602b8aas3wyysc) 👤 calv.info 💬 1374 🔖 #obsidian 🗓️ 2026-01-10
     > **Резюме:** The author uses Obsidian as a simple, local-first tool to help think and write every day. They focus on starting to write quickly without worrying about perfect organization. Daily notes are key, and using hotkeys and templates makes the process easier and more natural.

@@ -2,20 +2,16 @@
 
 _20 статей с наивысшим interest_score_
 
-Сгенерировано: 2026-04-24 04:14 UTC · Статей: 20
+Сгенерировано: 2026-04-25 04:08 UTC · Статей: 20
 
 ## Статьи
 
-- [A field guide to sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai) [📖](https://read.readwise.io/read/01kehqw0bh71ghpqrjbxrs9ndv) 👤 Luis Cardoso 💬 6765 ⭐ 9 🗓️ 2026-01-09 · 🧠 основы, 🌲 вечнозелёное
-    > **Резюме:** All sandbox boundaries differ by what trusted component they add: the host kernel (containers), a userspace kernel (gVisor), a guest kernel + VMM (microVMs), or a runtime/embedder (Wasm). Containers still send allowed syscalls to the host kernel, so kernel bugs remain a host risk. Choose microVMs or syscall-interposing runtimes when you need stronger isolation for untrusted or arbitrary Linux workloads.
 - [microgpt](https://karpathy.github.io/2026/02/12/microgpt/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kjz757r7cztw20w5anxnzy93) 👤 karpathy.github.io 💬 5261 ⭐ 9 🔖 #llm 🗓️ 2026-03-05 · 🛠️ туториал, 🌲 вечнозелёное
     > **Резюме:** MicroGPT is a simple neural network that learns to predict the next token in a sequence by adjusting many small parameters. It trains using backpropagation and the Adam optimizer to reduce prediction errors step-by-step. Over time, the model gets better at capturing patterns in the data and generating likely next tokens.
 - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/) [📖](https://read.readwise.io/read/01k16rxz1txqqvqwzqx2qb3nje) 👤 Simon Willison 💬 4839 ⭐ 9 🔖 #llm 🗓️ 2025-07-27 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Embeddings turn content like text or images into numbers that capture their meaning. They help computers find and compare similar information quickly. This technology powers tools like search engines and question-answering systems.
 - [Quantization from the ground up](https://ngrok.com/blog/quantization) [📖](https://read.readwise.io/read/01kmrp6ce52w3gzsedw0ky6y7a) 👤 Sam Rose 💬 4123 ⭐ 9 🗓️ 2026-03-27 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Quantization shrinks large numbers into smaller ones so models use less memory and run faster. Lower bit quantization reduces accuracy, but 8-bit and 4-bit still work well for large language models. Very low bits like 2-bit cause big errors and poor model performance.
-- [Building an Obsidian RAG with DuckDB and MotherDuck](https://www.ssp.sh/blog/obsidian-rag-duckdb-sql/) [📖](https://read.readwise.io/read/01khbbxd9nmyfthnezegmz232s) 👤 Data Engineering 💬 4029 ⭐ 9 🔖 #obsidian 🗓️ 2026-02-13 · 🛠️ туториал, 🌲 вечнозелёное
-    > **Резюме:** This article shows how to build a tool that searches and connects markdown notes using DuckDB and Obsidian links. It helps find related ideas, hidden connections, and relevant content without sharing data with AI services. The system includes a web app and command line interface for easy semantic search and note exploration.
 - [The 80% Problem in Agentic Coding](https://addyo.substack.com/p/the-80-problem-in-agentic-coding?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kgabfzsr9yz690ma05nt8ck5) 👤 Addy Osmani 💬 3508 ⭐ 9 🗓️ 2026-01-31
     > **Резюме:** AI now writes most code, but humans must still carefully review and guide it. This shift changes engineers’ roles from coders to overseers and problem solvers. Success comes from using AI to learn and think deeply, not just to generate code fast.
 - [You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude) [📖](https://read.readwise.io/read/01kpfqsqcjj1pc8g79r2pe4g8p) 👤 Logan Thorneloe 💬 3456 ⭐ 9 🗓️ 2026-04-18 · 🛠️ туториал
@@ -52,3 +48,8 @@ They save money and offer flexibility, though top cloud models can still be stro
     > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) [📖](https://read.readwise.io/read/01ke9z0vpb9xqf5ateyympwzpm) 👤 Nikita Prokopov 💬 2754 ⭐ 8 🗓️ 2026-01-06 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Apple's Tahoe icons are confusing and inconsistent, making it hard to find or understand menu items quickly. Too many icons clutter menus, and similar or unclear symbols cause frustration. Good icon design should be simple, clear, and consistent, but Tahoe often misses these points.
+- [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) [📖](https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt) 👤 mariozechner.at 💬 2368 ⭐ 8 🗓️ 2026-03-26
+    > **Резюме:** Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.
+- [Software Development in 2026](https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026) [📖](https://read.readwise.io/read/01kn9q1g2rkzrdsd4mgzghk9ew) 👤 Aleksei Matiushkin 💬 1952 ⭐ 8 🗓️ 2026-04-03 · 🧠 основы, 🌲 вечнозелёное
+    > **Заметка:** Via ElixirWeekly
+    > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.
