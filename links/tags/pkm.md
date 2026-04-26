@@ -1,9 +1,16 @@
 # Ссылки
 
-- Всего ссылок: 22
+- Всего ссылок: 23
 
 ## Ссылки
 
+- [Introducing Tolaria 💧](https://refactoring.fm/p/introducing-tolaria) [📖](https://read.readwise.io/read/01kpz1nsqns3nkqhnwxcmzpah3) 👤 Luca Rossi 💬 2679 🔖 #pkm, #markdown, #obsidian 🗓️ 2026-04-24
+    > **Заметка:** Выглядит интересно. Чувствуется, что автор не просто навайбкодил очередную поделку, а тщательно всё продумал.
+
+Установил, попробую поработать в ней с заметками с основной работы. Послежу за развитием - не забросит ли её автор в ближайшее время?
+
+Via HackerNews
+    > **Резюме:** Tolaria is a free, open source macOS app for managing markdown knowledge bases. It helps organize notes with a rich, keyboard-friendly interface and supports AI-assisted workflows. The creator uses it daily and promises to keep improving it while sharing updates openly.
 - [I Am a Cross-Cutting Concern](https://scottlawsonbc.com/post/monorepo) [📖](https://read.readwise.io/read/01kp3by8wbvfkvzb5v915nng9n) 👤 Scott Lawson 💬 1792 🔖 #pkm 🗓️ 2026-04-13
     > **Резюме:** Scott Lawson keeps all his diverse projects in one personal monorepo called slam, which makes it easier to find and connect his work. This setup helps him spot patterns, reuse code, and build tools that fit his needs. Having everything together saves time and reveals links between projects that might be missed in separate repos.
 - [Building an AI Interface for Your Second Brain](https://alexop.dev/posts/building-ai-interface-second-brain/) [📖](https://read.readwise.io/read/01kfafhaw7wzn8c7t64p139nhw) 👤 Alexander Opalic 💬 3269 🔖 #llm, #pkm, #try, #nuxt, #agents 🗓️ 2026-01-19

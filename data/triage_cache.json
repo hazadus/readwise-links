@@ -774,6 +774,42 @@
       "is_foundational": false,
       "is_evergreen": true,
       "interest_score": 8
+    },
+    "01kq2k3gnqeh877w7kgfrnzs8a": {
+      "is_tutorial": true,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 7
+    },
+    "01kq1zz1y6tfjxjk03b2k9h9q0": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 2
+    },
+    "01kq1zx0r4n33srh7vqaawdkzh": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 2
+    },
+    "01kq1qvcw1ftk6sw7h27tzjwp4": {
+      "is_tutorial": false,
+      "is_foundational": true,
+      "is_evergreen": true,
+      "interest_score": 5
+    },
+    "01kpz61hzmjwwbcnwxnkhkms5z": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 4
+    },
+    "01kpz4x1yajdkj46sz8958dtx1": {
+      "is_tutorial": false,
+      "is_foundational": true,
+      "is_evergreen": true,
+      "interest_score": 8
     }
   }
 }

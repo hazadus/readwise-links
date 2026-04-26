@@ -1,9 +1,16 @@
 # Ссылки
 
-- Всего ссылок: 90
+- Всего ссылок: 92
 
 ## Ссылки
 
+- [Software engineering may no longer be a lifetime career](https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/) [📖](https://read.readwise.io/read/01kpz68am3sp579pkf7ggym4gy) 👤 seangoedecke.com RSS feed 💬 849 🔖 #llm-devimpact 🗓️ 2026-04-24
+    > **Резюме:** Using AI in software engineering may reduce how much engineers learn and weaken their skills over time. Even if this happens, engineers might still need to use AI to keep their jobs and stay competitive. This could mean software engineering careers might not last as long as they used to, similar to the short careers of professional athletes.
+- [I don't want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kpz5e2tbx8wy0nw6sqbjr1zh) 👤 dpc.pw 💬 846 🔖 #foss, #llm-devimpact 🗓️ 2026-04-24
+    > **Заметка:** Думаю, автор выражает взгляд многих мейнтейнеров. И очередное подтверждение: разработка никуда не делась, она просто сместилась от кода на чуть более высокий уровень. 
+
+Via TLDR
+    > **Резюме:** The author prefers to make code changes himself using AI tools because reviewing others' pull requests takes too much time and can be risky. Instead, contributors can help by reporting bugs, discussing ideas, and sharing prototypes or prompts for reference. Forking the code to customize it independently is encouraged, as it saves time and allows personal use cases.
 - [Headless everything for personal AI](https://interconnected.org/home/2026/04/18/headless) [📖](https://read.readwise.io/read/01kpwqt3x1xn81yx0g8f66dabc) 👤 Interconnected, a blog by Matt Webb 💬 1335 🔖 #predictions, #llm-devimpact 🗓️ 2026-04-23
     > **Резюме:** Apps and services will need to be "headless," offering tools for personal AI without visual interfaces. Command-line tools (CLIs) are ideal for this because they are secure, composable, and fit how AIs work best. Front-end design will focus more on brand feel than usability, as AIs will handle most tasks directly through these headless tools.
 - [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html) [📖](https://read.readwise.io/read/01kp632ptv5pkfnh36pv4w3cdf) 👤 Lewis Campbell's Blog 💬 617 🔖 #agile, #llm-devimpact 🗓️ 2026-04-14

@@ -1,10 +1,27 @@
 # Архивные ссылки
 
-- Всего ссылок: 1593
+- Всего ссылок: 1601
 
 ## Ссылки
 
+- [Updates to my AI Coding Workflow](https://refactoring.fm/p/updates-to-my-ai-coding-workflow) [📖](https://read.readwise.io/read/01kq21zexz2k3n54a2yswfc1pf) 👤 Luca Rossi 💬 1432 🗓️ 2026-04-25
+- [Opus 4.7](https://ampcode.com/news/opus-4.7) [📖](https://read.readwise.io/read/01kq1z7rfpfew9gde3qd52d9ve) 👤 Amp News 💬 506 🔖 #amp 🗓️ 2026-04-25
+- [Software engineering may no longer be a lifetime career](https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/) [📖](https://read.readwise.io/read/01kpz68am3sp579pkf7ggym4gy) 👤 seangoedecke.com RSS feed 💬 849 🔖 #llm-devimpact 🗓️ 2026-04-24
+- [I don't want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kpz5e2tbx8wy0nw6sqbjr1zh) 👤 dpc.pw 💬 846 🔖 #foss, #llm-devimpact 🗓️ 2026-04-24
+    > **Заметка:** Думаю, автор выражает взгляд многих мейнтейнеров. И очередное подтверждение: разработка никуда не делась, она просто сместилась от кода на чуть более высокий уровень. 
+
+Via TLDR
+- [DeepSeek V4 - almost on the frontier, a fraction of the price](https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything) [📖](https://read.readwise.io/read/01kpz1vrr4ex8xp5kw8d61ydxc) 👤 Simon Willison's Weblog 💬 559 🔖 #llm 🗓️ 2026-04-24
+- [Introducing Tolaria 💧](https://refactoring.fm/p/introducing-tolaria) [📖](https://read.readwise.io/read/01kpz1nsqns3nkqhnwxcmzpah3) 👤 Luca Rossi 💬 2679 🔖 #pkm, #markdown, #obsidian 🗓️ 2026-04-24
+    > **Заметка:** Выглядит интересно. Чувствуется, что автор не просто навайбкодил очередную поделку, а тщательно всё продумал.
+
+Установил, попробую поработать в ней с заметками с основной работы. Послежу за развитием - не забросит ли её автор в ближайшее время?
+
+Via HackerNews
+- [Courier: real-time messaging for ESP32 with batteries included (new library)](https://interconnected.org/home/2026/04/21/courier) [📖](https://read.readwise.io/read/01kpx8339m6cx9jbj00p2st6qx) 👤 Interconnected 💬 859 🔖 #try, #esp32 🗓️ 2026-04-23
+    > **Заметка:** Нужно пробовать и прошивку из поста, и девайс!
 - [Headless everything for personal AI](https://interconnected.org/home/2026/04/18/headless) [📖](https://read.readwise.io/read/01kpwqt3x1xn81yx0g8f66dabc) 👤 Interconnected, a blog by Matt Webb 💬 1335 🔖 #predictions, #llm-devimpact 🗓️ 2026-04-23
+- [Luddites and AI datacenters](https://seangoedecke.com/luddites-and-ai-datacenters/) [📖](https://read.readwise.io/read/01kpsxyx4g0r7njdvthzkyk5n5) 👤 seangoedecke.com RSS feed 💬 2789 🔖 #llm-resistance 🗓️ 2026-04-22
 - [Is Claude Code going to cost $100/month? Maybe, maybe not - it's all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything) [📖](https://read.readwise.io/read/01kpsf3pz6dzg2md44zmqpzspm) 👤 Simon Willison's Weblog 💬 939 🔖 #codex, #claude 🗓️ 2026-04-22
 - [Exploratory QA with AI Agents: Building a Site-Agnostic Harness](https://alexop.dev/posts/exploratory-qa-ai-agents-site-agnostic-harness/) [📖](https://read.readwise.io/read/01kpkpxp6w1s029akh17na8pr0) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2529 🔖 #codex, #agents, #claude, #testing, #frontend 🗓️ 2026-04-19
 - [AmneziaWG 2.0: как работает полная мимикрия трафика и чем она лучше обычной маскировки](https://www.securitylab.ru/blog/personal/Techno_Obzor/360094.php) [📖](https://read.readwise.io/read/01kpk6w3rd5extz9ay7g099743) 👤 Alexander Antipov 💬 1350 🔖 #dpi, #network 🗓️ 2026-04-19

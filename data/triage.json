@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T04:08:12.993957+00:00",
+  "generated_at": "2026-04-26T04:19:47.867941+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -533,25 +533,47 @@
     ],
     "shortest": [
       {
-        "id": "01kpz5e2tbx8wy0nw6sqbjr1zh",
-        "url": "https://read.readwise.io/read/01kpz5e2tbx8wy0nw6sqbjr1zh",
-        "source_url": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/?utm_source=tldrdev",
-        "title": "I don't want your PRs anymore",
-        "author": "dpc.pw",
-        "image_url": "",
-        "word_count": 846,
-        "summary": "The author prefers to make code changes himself using AI tools because reviewing others' pull requests takes too much time and can be risky. Instead, contributors can help by reporting bugs, discussing ideas, and sharing prototypes or prompts for reference. Forking the code to customize it independently is encouraged, as it saves time and allows personal use cases.",
-        "notes": "Via TLDR",
+        "id": "01kpz61hzmjwwbcnwxnkhkms5z",
+        "url": "https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z",
+        "source_url": "https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/",
+        "title": "The Hottest AI Coding Skill In 2026? Coding Without AI",
+        "author": "codemanship",
+        "image_url": "https://codemanship.wordpress.com/wp-content/uploads/2017/08/cropped-codemanship3_twitter_avatar.jpg?w=192",
+        "word_count": 606,
+        "summary": "In 2026, employers want developers who understand code deeply without relying on AI. Overusing AI tools can weaken programmers' skills and code comprehension. The best developers will be those who can solve problems on their own when AI fails.",
+        "notes": "",
         "tags": {},
         "highlights": [],
-        "saved_at": "2026-04-24T07:14:28.811000+00:00",
-        "last_moved_at": "2026-04-24T07:14:31.957000+00:00",
-        "published_date": "2026-04-05",
+        "saved_at": "2026-04-24T07:25:03.933000+00:00",
+        "last_moved_at": "2026-04-25T18:55:42.922000+00:00",
+        "published_date": "2026-04-24",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
           "is_evergreen": false,
-          "interest_score": 8
+          "interest_score": 4
+        }
+      },
+      {
+        "id": "01kq1zx0r4n33srh7vqaawdkzh",
+        "url": "https://read.readwise.io/read/01kq1zx0r4n33srh7vqaawdkzh",
+        "source_url": "https://hhh.hn/rodecaster-duo-fw/",
+        "title": "My audio interface has ssh enabled by default",
+        "author": "hhh.hn",
+        "image_url": null,
+        "word_count": 933,
+        "summary": "The author bought a Rodecaster Duo for better audio during gaming and found it easy to use. They discovered the device has SSH enabled by default and allows easy firmware updates without signature checks. The author created custom firmware to access the device via SSH and reported the security concern to Rode.",
+        "notes": "Via HackerNews",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-25T09:35:30.052000+00:00",
+        "last_moved_at": "2026-04-25T09:35:32.366000+00:00",
+        "published_date": "2026-04-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
         }
       },
       {
@@ -1119,6 +1141,28 @@
         }
       },
       {
+        "id": "01kq1zz1y6tfjxjk03b2k9h9q0",
+        "url": "https://read.readwise.io/read/01kq1zz1y6tfjxjk03b2k9h9q0",
+        "source_url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+        "title": "On sabotaging projects by overthinking",
+        "author": "kevinlynagh.com",
+        "image_url": null,
+        "word_count": 2614,
+        "summary": "The author explains how overthinking can stop projects from being finished by causing endless research and revisions. They describe their struggle with building a structural diff tool and the tools they explored. Finally, they plan to make a simple version first, then improve it step-by-step to avoid getting stuck again.",
+        "notes": "Via HackerNews",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-25T09:36:36.806000+00:00",
+        "last_moved_at": "2026-04-25T09:36:39.109000+00:00",
+        "published_date": "2026-04-20",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01ken0sk545cynvs3e44ezwrmc",
         "url": "https://read.readwise.io/read/01ken0sk545cynvs3e44ezwrmc",
         "source_url": "https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html?utm_source=tldrdev",
@@ -1166,28 +1210,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 7
-        }
-      },
-      {
-        "id": "01kpsxyx4g0r7njdvthzkyk5n5",
-        "url": "https://read.readwise.io/read/01kpsxyx4g0r7njdvthzkyk5n5",
-        "source_url": "https://seangoedecke.com/luddites-and-ai-datacenters/",
-        "title": "Luddites and AI datacenters",
-        "author": "seangoedecke.com RSS feed",
-        "image_url": "https://www.seangoedecke.com/icons/icon-512x512.png?v=ac7bb3aa286bd21c42741d9c9aa60cb7",
-        "word_count": 2789,
-        "summary": "The Luddites were 19th-century workers who destroyed machines to fight job loss from automation. Their movement was local, secretive, and scared the government but did not stop technological progress. Today’s anti-AI efforts are different because they involve broader groups and lack the Luddites’ clear, shared goals and local ties.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-22T06:27:36.281000+00:00",
-        "last_moved_at": "2026-04-23T07:34:28.307000+00:00",
-        "published_date": "2026-04-22",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
         }
       },
       {
@@ -1300,28 +1322,6 @@
           "is_evergreen": false,
           "interest_score": 3
         }
-      },
-      {
-        "id": "01kehqcxrgjpevpz78xx06w5mp",
-        "url": "https://read.readwise.io/read/01kehqcxrgjpevpz78xx06w5mp",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
-        "title": "When AI writes almost all code, what happens to software engineering?",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!sLlF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd77a41b8-2e53-435d-9cf6-8298bd9af3e1_1146x822.png",
-        "word_count": 3371,
-        "summary": "AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-09T15:53:28.592000+00:00",
-        "last_moved_at": "2026-01-09T15:53:32.780000+00:00",
-        "published_date": "2026-01-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
       }
     ],
     "quick_wins": [
@@ -1389,6 +1389,50 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 8
+        }
+      },
+      {
+        "id": "01kq1qvcw1ftk6sw7h27tzjwp4",
+        "url": "https://read.readwise.io/read/01kq1qvcw1ftk6sw7h27tzjwp4",
+        "source_url": "https://eclecticlight.co/2026/04/25/explainer-network-file-systems/",
+        "title": "Explainer: Network file systems",
+        "author": "hoakley",
+        "image_url": "https://eclecticlight.co/wp-content/uploads/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200",
+        "word_count": 762,
+        "summary": "Network file systems like AFP and SMB let Macs access files over a network instead of local storage. AFP was the main Mac network protocol until 2013, when SMB became the standard despite some limitations with special Mac file features. Both have challenges with newer APFS file types, causing inefficiencies in file sharing.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-25T07:14:45.321000+00:00",
+        "last_moved_at": "2026-04-25T23:33:54.268000+00:00",
+        "published_date": "2026-04-25",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 5
+        }
+      },
+      {
+        "id": "01kpz61hzmjwwbcnwxnkhkms5z",
+        "url": "https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z",
+        "source_url": "https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/",
+        "title": "The Hottest AI Coding Skill In 2026? Coding Without AI",
+        "author": "codemanship",
+        "image_url": "https://codemanship.wordpress.com/wp-content/uploads/2017/08/cropped-codemanship3_twitter_avatar.jpg?w=192",
+        "word_count": 606,
+        "summary": "In 2026, employers want developers who understand code deeply without relying on AI. Overusing AI tools can weaken programmers' skills and code comprehension. The best developers will be those who can solve problems on their own when AI fails.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-24T07:25:03.933000+00:00",
+        "last_moved_at": "2026-04-25T18:55:42.922000+00:00",
+        "published_date": "2026-04-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 4
         }
       },
       {
@@ -1758,6 +1802,28 @@
         "saved_at": "2026-04-03T13:03:11.448000+00:00",
         "last_moved_at": "2026-04-03T13:03:15.250000+00:00",
         "published_date": "2026-03-22",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kpz4x1yajdkj46sz8958dtx1",
+        "url": "https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1",
+        "source_url": "https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/",
+        "title": "The secret life of the xattr",
+        "author": "hoakley",
+        "image_url": "https://eclecticlight.co/wp-content/uploads/2023/05/fileobjects.png",
+        "word_count": 1905,
+        "summary": "Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-24T07:05:07.859000+00:00",
+        "last_moved_at": "2026-04-25T18:53:40.592000+00:00",
+        "published_date": "2026-04-24",
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
@@ -4930,20 +4996,20 @@
         }
       },
       {
-        "id": "01kpsxyx4g0r7njdvthzkyk5n5",
-        "url": "https://read.readwise.io/read/01kpsxyx4g0r7njdvthzkyk5n5",
-        "source_url": "https://seangoedecke.com/luddites-and-ai-datacenters/",
-        "title": "Luddites and AI datacenters",
-        "author": "seangoedecke.com RSS feed",
-        "image_url": "https://www.seangoedecke.com/icons/icon-512x512.png?v=ac7bb3aa286bd21c42741d9c9aa60cb7",
-        "word_count": 2789,
-        "summary": "The Luddites were 19th-century workers who destroyed machines to fight job loss from automation. Their movement was local, secretive, and scared the government but did not stop technological progress. Today’s anti-AI efforts are different because they involve broader groups and lack the Luddites’ clear, shared goals and local ties.",
-        "notes": "",
+        "id": "01kq1zz1y6tfjxjk03b2k9h9q0",
+        "url": "https://read.readwise.io/read/01kq1zz1y6tfjxjk03b2k9h9q0",
+        "source_url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+        "title": "On sabotaging projects by overthinking",
+        "author": "kevinlynagh.com",
+        "image_url": null,
+        "word_count": 2614,
+        "summary": "The author explains how overthinking can stop projects from being finished by causing endless research and revisions. They describe their struggle with building a structural diff tool and the tools they explored. Finally, they plan to make a simple version first, then improve it step-by-step to avoid getting stuck again.",
+        "notes": "Via HackerNews",
         "tags": {},
         "highlights": [],
-        "saved_at": "2026-04-22T06:27:36.281000+00:00",
-        "last_moved_at": "2026-04-23T07:34:28.307000+00:00",
-        "published_date": "2026-04-22",
+        "saved_at": "2026-04-25T09:36:36.806000+00:00",
+        "last_moved_at": "2026-04-25T09:36:39.109000+00:00",
+        "published_date": "2026-04-20",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -5392,47 +5458,25 @@
         }
       },
       {
-        "id": "01kpx8339m6cx9jbj00p2st6qx",
-        "url": "https://read.readwise.io/read/01kpx8339m6cx9jbj00p2st6qx",
-        "source_url": "https://interconnected.org/home/2026/04/21/courier",
-        "title": "Courier: real-time messaging for ESP32 with batteries included (new library)",
-        "author": "Interconnected",
-        "image_url": "https://interconnected.org/home/static/images/matt-webb-sitting-square.jpg?v=1",
-        "word_count": 859,
-        "summary": "Courier is a new library that makes real-time messaging easy on ESP32 devices using JSON over websockets. It includes built-in Wi-Fi setup, automatic reconnects, and time sync to keep connections stable. Many developers use Courier with popular ESP32 gadgets like the M5Stick to quickly build interactive hardware projects.",
+        "id": "01kq2k3gnqeh877w7kgfrnzs8a",
+        "url": "https://read.readwise.io/read/01kq2k3gnqeh877w7kgfrnzs8a",
+        "source_url": "https://alexop.dev/posts/modern-frontend-quality-pipeline/",
+        "title": "A Modern Quality Pipeline and Testing Strategy for Frontend Projects",
+        "author": "alex.opalic.dev@gmail.com (Alexander Opalic)",
+        "image_url": "https://alexop.dev/posts/a-modern-quality-pipeline-and-testing-strategy-for-frontend-projects/index.png",
+        "word_count": 3222,
+        "summary": "A modern frontend quality pipeline uses fast tools like Vite+, Oxlint, and Vitest to catch bugs early and run tests efficiently. It splits checks by cost and stage, from editor to CI and preview deployments, ensuring consistent quality across teams. This approach combines types, linting, unit, component, and end-to-end tests with automation to keep code reliable and easy to maintain.",
         "notes": "",
         "tags": {},
         "highlights": [],
-        "saved_at": "2026-04-23T13:22:22.716000+00:00",
-        "last_moved_at": "2026-04-24T04:53:35.674000+00:00",
-        "published_date": "2026-04-21",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kpxz0q8aqcf4nacfq2cnfkye",
-        "url": "https://read.readwise.io/read/01kpxz0q8aqcf4nacfq2cnfkye",
-        "source_url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
-        "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
-        "author": "Simon Willison's Weblog",
-        "image_url": "https://simonwillison.net/favicon.ico",
-        "word_count": 633,
-        "summary": "GPT-5.5 is now available through OpenAI Codex and paid ChatGPT subscriptions but not yet via the API. Simon Willison created a plugin that uses the Codex subscription to run GPT-5.5 prompts with the open-source Codex CLI tool. This lets users generate creative outputs like detailed pelican images using advanced prompting options.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-23T20:03:02.098000+00:00",
-        "last_moved_at": "2026-04-24T04:55:21.866000+00:00",
-        "published_date": "2026-04-23",
+        "saved_at": "2026-04-25T15:11:02.911000+00:00",
+        "last_moved_at": "2026-04-25T23:40:27.277000+00:00",
+        "published_date": "2026-04-25",
         "triage": {
           "is_tutorial": true,
           "is_foundational": false,
           "is_evergreen": false,
-          "interest_score": 8
+          "interest_score": 7
         }
       },
       {
@@ -5486,28 +5530,6 @@
         }
       },
       {
-        "id": "01kpy5v3jtmgkyjs9kxf8eeh9d",
-        "url": "https://read.readwise.io/read/01kpy5v3jtmgkyjs9kxf8eeh9d",
-        "source_url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything",
-        "title": "Extract PDF text in your browser with LiteParse for the web",
-        "author": "Simon Willison's Weblog",
-        "image_url": "https://simonwillison.net/favicon.ico",
-        "word_count": 1885,
-        "summary": "LiteParse is a tool that extracts text from PDFs without using AI, running either as a Node.js CLI or now fully in the browser. Simon Willison created a web version that works offline, preserving privacy and making it easy to use. The project is open-source, quick to deploy, and reliable for extracting PDF text with or without OCR.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-23T22:02:18.146000+00:00",
-        "last_moved_at": "2026-04-24T04:56:36.122000+00:00",
-        "published_date": "2026-04-23",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 7
-        }
-      },
-      {
         "id": "01k62kckeewb1936zrjewhbhvn",
         "url": "https://read.readwise.io/read/01k62kckeewb1936zrjewhbhvn",
         "source_url": "https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/",
@@ -5555,6 +5577,34 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 7
+        }
+      },
+      {
+        "id": "01knrbv38h3exn38swf8dcxj41",
+        "url": "https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41",
+        "source_url": "https://werwolv.net/posts/usb_for_sw_devs/",
+        "title": "USB for Software Developers",
+        "author": "WerWolv",
+        "image_url": "https://werwolv.net/_astro/cover.D_ljJUxi.png",
+        "word_count": 2523,
+        "summary": "Writing a USB driver is similar to writing a network application and does not require kernel code. USB devices identify themselves using standard descriptors, which the host reads to understand the device and its capabilities. Developers can communicate with devices through specific endpoints using simple commands, as shown in the Fastboot example.",
+        "notes": "Via HackerNews",
+        "tags": {
+          "usb": {
+            "name": "USB",
+            "type": "manual",
+            "created": 1777035148150
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-09T05:36:03.856000+00:00",
+        "last_moved_at": "2026-04-25T09:37:34.724000+00:00",
+        "published_date": "2026-04-07",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 6
         }
       },
       {
@@ -5965,6 +6015,28 @@
         }
       },
       {
+        "id": "01kpz4x1yajdkj46sz8958dtx1",
+        "url": "https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1",
+        "source_url": "https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/",
+        "title": "The secret life of the xattr",
+        "author": "hoakley",
+        "image_url": "https://eclecticlight.co/wp-content/uploads/2023/05/fileobjects.png",
+        "word_count": 1905,
+        "summary": "Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-24T07:05:07.859000+00:00",
+        "last_moved_at": "2026-04-25T18:53:40.592000+00:00",
+        "published_date": "2026-04-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 8
+        }
+      },
+      {
         "id": "01kp3dctz7gv9zqqkm3jxke3xf",
         "url": "https://read.readwise.io/read/01kp3dctz7gv9zqqkm3jxke3xf",
         "source_url": "https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email",
@@ -6197,6 +6269,34 @@
         }
       },
       {
+        "id": "01knrbv38h3exn38swf8dcxj41",
+        "url": "https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41",
+        "source_url": "https://werwolv.net/posts/usb_for_sw_devs/",
+        "title": "USB for Software Developers",
+        "author": "WerWolv",
+        "image_url": "https://werwolv.net/_astro/cover.D_ljJUxi.png",
+        "word_count": 2523,
+        "summary": "Writing a USB driver is similar to writing a network application and does not require kernel code. USB devices identify themselves using standard descriptors, which the host reads to understand the device and its capabilities. Developers can communicate with devices through specific endpoints using simple commands, as shown in the Fastboot example.",
+        "notes": "Via HackerNews",
+        "tags": {
+          "usb": {
+            "name": "USB",
+            "type": "manual",
+            "created": 1777035148150
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-09T05:36:03.856000+00:00",
+        "last_moved_at": "2026-04-25T09:37:34.724000+00:00",
+        "published_date": "2026-04-07",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 6
+        }
+      },
+      {
         "id": "01kgpxfr0rd5sezbhmv0szq1dt",
         "url": "https://read.readwise.io/read/01kgpxfr0rd5sezbhmv0szq1dt",
         "source_url": "https://mtlynch.io/good-developers-bad-tests/#test-code-is-not-like-other-code",
@@ -6288,6 +6388,28 @@
         "saved_at": "2025-08-31T17:51:02.581000+00:00",
         "last_moved_at": "2025-09-01T09:56:34.510000+00:00",
         "published_date": "2024-07-16",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 5
+        }
+      },
+      {
+        "id": "01kq1qvcw1ftk6sw7h27tzjwp4",
+        "url": "https://read.readwise.io/read/01kq1qvcw1ftk6sw7h27tzjwp4",
+        "source_url": "https://eclecticlight.co/2026/04/25/explainer-network-file-systems/",
+        "title": "Explainer: Network file systems",
+        "author": "hoakley",
+        "image_url": "https://eclecticlight.co/wp-content/uploads/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200",
+        "word_count": 762,
+        "summary": "Network file systems like AFP and SMB let Macs access files over a network instead of local storage. AFP was the main Mac network protocol until 2013, when SMB became the standard despite some limitations with special Mac file features. Both have challenges with newer APFS file types, causing inefficiencies in file sharing.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-25T07:14:45.321000+00:00",
+        "last_moved_at": "2026-04-25T23:33:54.268000+00:00",
+        "published_date": "2026-04-25",
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
@@ -7052,50 +7174,6 @@
         }
       },
       {
-        "id": "01kpz5e2tbx8wy0nw6sqbjr1zh",
-        "url": "https://read.readwise.io/read/01kpz5e2tbx8wy0nw6sqbjr1zh",
-        "source_url": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/?utm_source=tldrdev",
-        "title": "I don't want your PRs anymore",
-        "author": "dpc.pw",
-        "image_url": "",
-        "word_count": 846,
-        "summary": "The author prefers to make code changes himself using AI tools because reviewing others' pull requests takes too much time and can be risky. Instead, contributors can help by reporting bugs, discussing ideas, and sharing prototypes or prompts for reference. Forking the code to customize it independently is encouraged, as it saves time and allows personal use cases.",
-        "notes": "Via TLDR",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-24T07:14:28.811000+00:00",
-        "last_moved_at": "2026-04-24T07:14:31.957000+00:00",
-        "published_date": "2026-04-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kpxz0q8aqcf4nacfq2cnfkye",
-        "url": "https://read.readwise.io/read/01kpxz0q8aqcf4nacfq2cnfkye",
-        "source_url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
-        "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
-        "author": "Simon Willison's Weblog",
-        "image_url": "https://simonwillison.net/favicon.ico",
-        "word_count": 633,
-        "summary": "GPT-5.5 is now available through OpenAI Codex and paid ChatGPT subscriptions but not yet via the API. Simon Willison created a plugin that uses the Codex subscription to run GPT-5.5 prompts with the open-source Codex CLI tool. This lets users generate creative outputs like detailed pelican images using advanced prompting options.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-23T20:03:02.098000+00:00",
-        "last_moved_at": "2026-04-24T04:55:21.866000+00:00",
-        "published_date": "2026-04-23",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
         "id": "01kp3atpcs24f3003fev1drqz8",
         "url": "https://read.readwise.io/read/01kp3atpcs24f3003fev1drqz8",
         "source_url": "https://lalitm.com/post/building-syntaqlite-ai/",
@@ -7123,6 +7201,28 @@
         "published_date": "2026-04-05",
         "triage": {
           "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01kq2k3gnqeh877w7kgfrnzs8a",
+        "url": "https://read.readwise.io/read/01kq2k3gnqeh877w7kgfrnzs8a",
+        "source_url": "https://alexop.dev/posts/modern-frontend-quality-pipeline/",
+        "title": "A Modern Quality Pipeline and Testing Strategy for Frontend Projects",
+        "author": "alex.opalic.dev@gmail.com (Alexander Opalic)",
+        "image_url": "https://alexop.dev/posts/a-modern-quality-pipeline-and-testing-strategy-for-frontend-projects/index.png",
+        "word_count": 3222,
+        "summary": "A modern frontend quality pipeline uses fast tools like Vite+, Oxlint, and Vitest to catch bugs early and run tests efficiently. It splits checks by cost and stage, from editor to CI and preview deployments, ensuring consistent quality across teams. This approach combines types, linting, unit, component, and end-to-end tests with automation to keep code reliable and easy to maintain.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-25T15:11:02.911000+00:00",
+        "last_moved_at": "2026-04-25T23:40:27.277000+00:00",
+        "published_date": "2026-04-25",
+        "triage": {
+          "is_tutorial": true,
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 7
@@ -7292,6 +7392,28 @@
         "saved_at": "2026-04-23T18:24:40.075000+00:00",
         "last_moved_at": "2026-04-24T04:55:08.994000+00:00",
         "published_date": "2026-04-23",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 4
+        }
+      },
+      {
+        "id": "01kpz61hzmjwwbcnwxnkhkms5z",
+        "url": "https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z",
+        "source_url": "https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/",
+        "title": "The Hottest AI Coding Skill In 2026? Coding Without AI",
+        "author": "codemanship",
+        "image_url": "https://codemanship.wordpress.com/wp-content/uploads/2017/08/cropped-codemanship3_twitter_avatar.jpg?w=192",
+        "word_count": 606,
+        "summary": "In 2026, employers want developers who understand code deeply without relying on AI. Overusing AI tools can weaken programmers' skills and code comprehension. The best developers will be those who can solve problems on their own when AI fails.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-24T07:25:03.933000+00:00",
+        "last_moved_at": "2026-04-25T18:55:42.922000+00:00",
+        "published_date": "2026-04-24",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -9867,20 +9989,20 @@
         }
       },
       {
-        "id": "01kpsxyx4g0r7njdvthzkyk5n5",
-        "url": "https://read.readwise.io/read/01kpsxyx4g0r7njdvthzkyk5n5",
-        "source_url": "https://seangoedecke.com/luddites-and-ai-datacenters/",
-        "title": "Luddites and AI datacenters",
-        "author": "seangoedecke.com RSS feed",
-        "image_url": "https://www.seangoedecke.com/icons/icon-512x512.png?v=ac7bb3aa286bd21c42741d9c9aa60cb7",
-        "word_count": 2789,
-        "summary": "The Luddites were 19th-century workers who destroyed machines to fight job loss from automation. Their movement was local, secretive, and scared the government but did not stop technological progress. Today’s anti-AI efforts are different because they involve broader groups and lack the Luddites’ clear, shared goals and local ties.",
-        "notes": "",
+        "id": "01kq1zz1y6tfjxjk03b2k9h9q0",
+        "url": "https://read.readwise.io/read/01kq1zz1y6tfjxjk03b2k9h9q0",
+        "source_url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+        "title": "On sabotaging projects by overthinking",
+        "author": "kevinlynagh.com",
+        "image_url": null,
+        "word_count": 2614,
+        "summary": "The author explains how overthinking can stop projects from being finished by causing endless research and revisions. They describe their struggle with building a structural diff tool and the tools they explored. Finally, they plan to make a simple version first, then improve it step-by-step to avoid getting stuck again.",
+        "notes": "Via HackerNews",
         "tags": {},
         "highlights": [],
-        "saved_at": "2026-04-22T06:27:36.281000+00:00",
-        "last_moved_at": "2026-04-23T07:34:28.307000+00:00",
-        "published_date": "2026-04-22",
+        "saved_at": "2026-04-25T09:36:36.806000+00:00",
+        "last_moved_at": "2026-04-25T09:36:39.109000+00:00",
+        "published_date": "2026-04-20",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -10069,6 +10191,28 @@
         "saved_at": "2026-04-13T12:04:57.921000+00:00",
         "last_moved_at": "2026-04-13T12:05:01.750000+00:00",
         "published_date": "2026-03-27",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kq1zx0r4n33srh7vqaawdkzh",
+        "url": "https://read.readwise.io/read/01kq1zx0r4n33srh7vqaawdkzh",
+        "source_url": "https://hhh.hn/rodecaster-duo-fw/",
+        "title": "My audio interface has ssh enabled by default",
+        "author": "hhh.hn",
+        "image_url": null,
+        "word_count": 933,
+        "summary": "The author bought a Rodecaster Duo for better audio during gaming and found it easy to use. They discovered the device has SSH enabled by default and allows easy firmware updates without signature checks. The author created custom firmware to access the device via SSH and reported the security concern to Rode.",
+        "notes": "Via HackerNews",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-25T09:35:30.052000+00:00",
+        "last_moved_at": "2026-04-25T09:35:32.366000+00:00",
+        "published_date": "2026-04-24",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

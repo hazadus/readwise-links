@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [I don't want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kpz5e2tbx8wy0nw6sqbjr1zh) 👤 dpc.pw 💬 846 🔖 #foss, #llm-devimpact 🗓️ 2026-04-24
+    > **Заметка:** Думаю, автор выражает взгляд многих мейнтейнеров. И очередное подтверждение: разработка никуда не делась, она просто сместилась от кода на чуть более высокий уровень. 
+
+Via TLDR
+    > **Резюме:** The author prefers to make code changes himself using AI tools because reviewing others' pull requests takes too much time and can be risky. Instead, contributors can help by reporting bugs, discussing ideas, and sharing prototypes or prompts for reference. Forking the code to customize it independently is encouraged, as it saves time and allows personal use cases.
 - [AI as economic warfare](https://ghuntley.com/warfare/) [📖](https://read.readwise.io/read/01kkw6jb3k63bn8ha3th36sx4x) 👤 Geoffrey Huntley 💬 753 🔖 #llm, #foss, #predictions 🗓️ 2026-03-16
     > **Резюме:** Open-source AI models are being used as economic weapons by countries to challenge rivals. China offers free local AI models while the US spends heavily on research, creating a new kind of economic warfare. This raises important questions about trust, control, and the future of AI-dependent businesses and economies.
 - [AI creates asymmetric pressure on Open Source](https://dri.es/ai-creates-asymmetric-pressure-on-open-source) [📖](https://read.readwise.io/read/01kg83yt4byj5f4m9dzff9v22m) 👤 Dries Buytaert 💬 1591 🔖 #llm, #foss, #llm-devimpact 🗓️ 2026-01-30

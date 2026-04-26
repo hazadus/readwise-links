@@ -1,9 +1,16 @@
 # Ссылки
 
-- Всего ссылок: 23
+- Всего ссылок: 24
 
 ## Ссылки
 
+- [Introducing Tolaria 💧](https://refactoring.fm/p/introducing-tolaria) [📖](https://read.readwise.io/read/01kpz1nsqns3nkqhnwxcmzpah3) 👤 Luca Rossi 💬 2679 🔖 #pkm, #markdown, #obsidian 🗓️ 2026-04-24
+    > **Заметка:** Выглядит интересно. Чувствуется, что автор не просто навайбкодил очередную поделку, а тщательно всё продумал.
+
+Установил, попробую поработать в ней с заметками с основной работы. Послежу за развитием - не забросит ли её автор в ближайшее время?
+
+Via HackerNews
+    > **Резюме:** Tolaria is a free, open source macOS app for managing markdown knowledge bases. It helps organize notes with a rich, keyboard-friendly interface and supports AI-assisted workflows. The creator uses it daily and promises to keep improving it while sharing updates openly.
 - [Obsidian CLI](https://help.obsidian.md/cli) [📖](https://read.readwise.io/read/01kk6zvqvw9t7kf5367s8ryb2v) 👤 Obsidian Help 💬 3708 🔖 #obsidian 🗓️ 2026-03-08
     > **Резюме:** Obsidian CLI lets you control Obsidian from the terminal with commands for notes, tasks, search, and file management. It supports daily notes, plugins, file history, and developer tools. You can create, read, edit, and manage vault content easily using simple commands and flags.
 - [Building an Obsidian RAG with DuckDB and MotherDuck](https://www.ssp.sh/blog/obsidian-rag-duckdb-sql/) [📖](https://read.readwise.io/read/01khbbxd9nmyfthnezegmz232s) 👤 Data Engineering 💬 4029 🔖 #rag, #duckdb, #obsidian 🗓️ 2026-02-13

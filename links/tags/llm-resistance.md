@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [Luddites and AI datacenters](https://seangoedecke.com/luddites-and-ai-datacenters/) [📖](https://read.readwise.io/read/01kpsxyx4g0r7njdvthzkyk5n5) 👤 seangoedecke.com RSS feed 💬 2789 🔖 #llm-resistance 🗓️ 2026-04-22
+    > **Резюме:** The Luddites were 19th-century workers who destroyed machines to fight job loss from automation. Their movement was local, secretive, and scared the government but did not stop technological progress. Today’s anti-AI efforts are different because they involve broader groups and lack the Luddites’ clear, shared goals and local ties.
 - [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) [📖](https://read.readwise.io/read/01knp9f4rgqj2ket2f9t34hv69) 👤 Wouter Groeneveld 💬 2840 🔖 #learning, #llm-devimpact, #llm-resistance 🗓️ 2026-04-08
     > **Резюме:** Generative AI is changing how we work, learn, and create, but it often makes us less skilled and less thoughtful. It can speed up tasks but also lowers the quality and originality of what we produce. We should use it carefully, or risk losing important human creativity and responsibility.
 - [I quit. The clankers won.](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/) [📖](https://read.readwise.io/read/01kn4ggdb0sxx7z6xbnc944e48) 👤 dbushell.com (all feeds) 💬 791 🔖 #llm-resistance 🗓️ 2026-04-01

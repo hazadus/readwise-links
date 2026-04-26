@@ -1,12 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 927
+- Всего ссылок: 926
 
 ## Ссылки
 
 - [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) [📖](https://read.readwise.io/read/01knymwy6b02avchen3gkmjr08) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11
-- [USB for Software Developers](https://werwolv.net/posts/usb_for_sw_devs/) [📖](https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41) 👤 WerWolv 💬 2523 🔖 #usb 🗓️ 2026-04-09
-    > **Заметка:** Via HackerNews
 - [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) [📖](https://read.readwise.io/read/01knhde7wg4mcx47qc2k368z0k) 👤 Ivan Grishaev's blog 💬 7191 🔖 #book, #postgresql 🗓️ 2026-04-06
 - [Getting Real](https://readwise.io/reader/document_raw_content/2844630) [📖](https://read.readwise.io/read/01kkspgf8s81ww3t6v257fepfc) 👤 Basecamp 💬 29339 🗓️ 2026-03-15
 - [In search of Banksy, Reuters found the artist took on a new identity](https://www.reuters.com/investigates/special-report/global-art-banksy/) [📖](https://read.readwise.io/read/01kknsrd2ybz8zyach8m6qjv8g) 👤 Anton Zverev 💬 10475 🗓️ 2026-03-14

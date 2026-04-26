@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-04-25 04:08 UTC · Статей: 57
+Сгенерировано: 2026-04-26 04:19 UTC · Статей: 58
 
 ## Статьи
 
@@ -33,6 +33,8 @@ _Длинные статьи (от 1500 слов), не туториалы_
 - [Software Development in 2026](https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026) [📖](https://read.readwise.io/read/01kn9q1g2rkzrdsd4mgzghk9ew) 👤 Aleksei Matiushkin 💬 1952 ⭐ 8 🗓️ 2026-04-03 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via ElixirWeekly
     > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.
+- [The secret life of the xattr](https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/) [📖](https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1) 👤 hoakley 💬 1905 ⭐ 8 🗓️ 2026-04-24 · 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.
 - [Why Isn't Everything Different Yet?](https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dctz7gv9zqqkm3jxke3xf) 👤 Dave Griffith 💬 1791 ⭐ 8 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** AI technology is impressive but changing everything takes time because systems, laws, and business models must be rebuilt from scratch. Software development is the first area transformed, but integrating AI widely requires millions of people to adapt workflows and trust the tools. Despite impatience, this transformation is happening very fast compared to past technologies and will soon feel much bigger.
 - [The creator of Clawd: "I ship code I don't read"](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code) [📖](https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz) 👤 Gergely Orosz 💬 1589 ⭐ 8 🗓️ 2026-01-29
@@ -115,8 +117,9 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.
 - [how-did-i-get-here.net](https://how-did-i-get-here.net/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kba6m45a48andmwhtq45a7z0) 👤 Lexi 💬 2827 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2025-11-30 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** This site runs a traceroute to show the path your packets took across the Internet. Routers in different networks (autonomous systems) pass packets along using BGP routing. The traceroute lists those routers and ASes so you can see how reachability is determined.
-- [Luddites and AI datacenters](https://seangoedecke.com/luddites-and-ai-datacenters/) [📖](https://read.readwise.io/read/01kpsxyx4g0r7njdvthzkyk5n5) 👤 seangoedecke.com RSS feed 💬 2789 ⭐ 2 🗓️ 2026-04-22
-    > **Резюме:** The Luddites were 19th-century workers who destroyed machines to fight job loss from automation. Their movement was local, secretive, and scared the government but did not stop technological progress. Today’s anti-AI efforts are different because they involve broader groups and lack the Luddites’ clear, shared goals and local ties.
+- [On sabotaging projects by overthinking](https://kevinlynagh.com/newsletter/2026_04_overthinking/) [📖](https://read.readwise.io/read/01kq1zz1y6tfjxjk03b2k9h9q0) 👤 kevinlynagh.com 💬 2614 ⭐ 2 🗓️ 2026-04-25
+    > **Заметка:** Via HackerNews
+    > **Резюме:** The author explains how overthinking can stop projects from being finished by causing endless research and revisions. They describe their struggle with building a structural diff tool and the tools they explored. Finally, they plan to make a simple version first, then improve it step-by-step to avoid getting stuck again.
 - [Technical blogging lessons learned](https://writethatblog.substack.com/p/technical-blogging-lessons-learned?utm_source=tldrdev) [📖](https://read.readwise.io/read/01ketz55qw4x3f1f548a95hc69) 👤 Cynthia Dunlop 💬 2540 ⭐ 2 🔖 #writing, #shortlist 🗓️ 2026-01-13 · 🌲 вечнозелёное
     > **Заметка:** В посте есть ссылки на отличные блоги (в частности, узнал отсюда про Preston Thorpe) - поэтому его надо читать внимательно и просмотреть связанные блоги.
     > **Резюме:** Writing regularly helps overcome doubts and improves skills over time. Focus on topics that interest you and your audience, even if others have written about them. Use simple tools, be honest, and don’t worry about perfection or criticism.

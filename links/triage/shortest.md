@@ -2,13 +2,15 @@
 
 _Короткие статьи (не туториалы, не основы), отсортированные по объёму_
 
-Сгенерировано: 2026-04-25 04:08 UTC · Статей: 30
+Сгенерировано: 2026-04-26 04:19 UTC · Статей: 30
 
 ## Статьи
 
-- [I don't want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kpz5e2tbx8wy0nw6sqbjr1zh) 👤 dpc.pw 💬 846 ⭐ 8 🗓️ 2026-04-24
-    > **Заметка:** Via TLDR
-    > **Резюме:** The author prefers to make code changes himself using AI tools because reviewing others' pull requests takes too much time and can be risky. Instead, contributors can help by reporting bugs, discussing ideas, and sharing prototypes or prompts for reference. Forking the code to customize it independently is encouraged, as it saves time and allows personal use cases.
+- [The Hottest AI Coding Skill In 2026? Coding Without AI](https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/) [📖](https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z) 👤 codemanship 💬 606 ⭐ 4 🗓️ 2026-04-24
+    > **Резюме:** In 2026, employers want developers who understand code deeply without relying on AI. Overusing AI tools can weaken programmers' skills and code comprehension. The best developers will be those who can solve problems on their own when AI fails.
+- [My audio interface has ssh enabled by default](https://hhh.hn/rodecaster-duo-fw/) [📖](https://read.readwise.io/read/01kq1zx0r4n33srh7vqaawdkzh) 👤 hhh.hn 💬 933 ⭐ 2 🗓️ 2026-04-25
+    > **Заметка:** Via HackerNews
+    > **Резюме:** The author bought a Rodecaster Duo for better audio during gaming and found it easy to use. They discovered the device has SSH enabled by default and allows easy firmware updates without signature checks. The author created custom firmware to access the device via SSH and reported the security concern to Rode.
 - [Things I've done with AI](https://sjer.red/blog/2026/built-with-ai/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kkeac4cvcpn0vb4y9v0pmwgt) 👤 Jerred Shepherd 💬 1067 ⭐ 8 🔖 #llm 🗓️ 2026-03-11
     > **Резюме:** Jerred Shepherd loves programming and has used AI tools to build many projects without writing code himself. He learned to trust AI to write working code, focusing on problem-solving rather than perfect code style. Although AI makes programming faster, he sees challenges in testing and documentation that need better tools.
 - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3bp2e1c7t54bkz8f1sqz05) 👤 Janko 💬 1093 ⭐ 2 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
@@ -57,14 +59,15 @@ Skip unit tests for UI rendering; test stable business logic, state, and reusabl
     > **Резюме:** Writing regularly helps overcome doubts and improves skills over time. Focus on topics that interest you and your audience, even if others have written about them. Use simple tools, be honest, and don’t worry about perfection or criticism.
 - [Adapting to AI: Reflections on Productivity](https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kmf78e7kzc43t4k49t4cdwbh) 👤 Colin Breck 💬 2582 ⭐ 3 🔖 #joyandcuriosity 🗓️ 2026-03-24
     > **Резюме:** In 2025, AI greatly boosted productivity by helping with coding and problem-solving, acting like a tireless partner. Most software engineers have not yet fully adapted to AI’s rapid changes and potential. The way people work in software is changing fast, and it will take years to find new, effective patterns.
+- [On sabotaging projects by overthinking](https://kevinlynagh.com/newsletter/2026_04_overthinking/) [📖](https://read.readwise.io/read/01kq1zz1y6tfjxjk03b2k9h9q0) 👤 kevinlynagh.com 💬 2614 ⭐ 2 🗓️ 2026-04-25
+    > **Заметка:** Via HackerNews
+    > **Резюме:** The author explains how overthinking can stop projects from being finished by causing endless research and revisions. They describe their struggle with building a structural diff tool and the tools they explored. Finally, they plan to make a simple version first, then improve it step-by-step to avoid getting stuck again.
 - [The Next Thing Will Not Be Big](https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html?utm_source=tldrdev) [📖](https://read.readwise.io/read/01ken0sk545cynvs3e44ezwrmc) 👤 Glyph Lefkowitz 💬 2638 ⭐ 3 🔖 #shortlist 🗓️ 2026-01-10
     > **Резюме:** Technology’s fastest, life-changing waves (like the Internet and smartphones) were a rare anomaly and are unlikely to repeat.  
 Future tech will keep advancing, but mostly in smaller, niche ways that won’t remake society or create another Apple/Google.  
 Open source maintainers should focus on practical, small- to medium-scale projects that serve real users and resist “scale creep.”
 - [On the usefulness of AI agents](https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html) [📖](https://read.readwise.io/read/01knq4y2r5a7ffntsmhs7jjvtf) 👤 Erik Johannes Husom 💬 2669 ⭐ 7 🗓️ 2026-04-08
     > **Резюме:** AI agents have potential but are not as broadly useful as many think. They can help with coding and research but also raise ethical and environmental concerns. The true value of AI agents depends on careful use and human involvement.
-- [Luddites and AI datacenters](https://seangoedecke.com/luddites-and-ai-datacenters/) [📖](https://read.readwise.io/read/01kpsxyx4g0r7njdvthzkyk5n5) 👤 seangoedecke.com RSS feed 💬 2789 ⭐ 2 🗓️ 2026-04-22
-    > **Резюме:** The Luddites were 19th-century workers who destroyed machines to fight job loss from automation. Their movement was local, secretive, and scared the government but did not stop technological progress. Today’s anti-AI efforts are different because they involve broader groups and lack the Luddites’ clear, shared goals and local ties.
 - [macOS Tips](https://blog.xoria.org/macos-tips/) [📖](https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8) 👤 xoria.org 💬 2856 ⭐ 7 🔖 #macos 🗓️ 2026-01-31 · 🌲 вечнозелёное
     > **Резюме:** macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.
 - [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y) 👤 aphyr.com 💬 2947 ⭐ 4 🔖 #llm, #joyandcuriosity 🗓️ 2026-04-13
@@ -73,5 +76,3 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.
 - [The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev) [📖](https://read.readwise.io/read/01km5fqgjckw8znfxbjqybrm3c) 👤 Daring Fireball 💬 3347 ⭐ 3 🗓️ 2026-03-20
     > **Резюме:** The MacBook Neo is a $600 laptop with the same powerful chip as the latest iPhone 16 Pro. It offers strong performance, good build quality, and runs full MacOS, making it a great choice for new Mac users and those wanting a portable secondary computer. Despite some minor flaws, it outperforms many similarly priced laptops and serves as a solid alternative to tablets like the iPad.
-- [When AI writes almost all code, what happens to software engineering?](https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what) [📖](https://read.readwise.io/read/01kehqcxrgjpevpz78xx06w5mp) 👤 Gergely Orosz 💬 3371 ⭐ 9 🗓️ 2026-01-09
-    > **Резюме:** AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.

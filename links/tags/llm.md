@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 441
+- Всего ссылок: 442
 
 ## Ссылки
 
+- [DeepSeek V4 - almost on the frontier, a fraction of the price](https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything) [📖](https://read.readwise.io/read/01kpz1vrr4ex8xp5kw8d61ydxc) 👤 Simon Willison's Weblog 💬 559 🔖 #llm 🗓️ 2026-04-24
+    > **Резюме:** DeepSeek V4 offers two new AI models that are very large but cost much less than other top models. The Flash and Pro versions are efficient, handling long contexts with fewer resources than before. Although not the absolute best yet, DeepSeek V4 is close to the frontier and very affordable.
 - [ИИ для самых маленьких: как работает LLM и ИИ-агент](https://www.youtube.com/watch?v=sSAIC8GQRe8) [📖](https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j) 👤 Диджитализируй! 🔖 #llm 🗓️ 2026-04-22
     > **Резюме:** Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.
 - [Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/) [📖](https://read.readwise.io/read/01kpf8823kqtkr83w06a6w1npy) 👤 seangoedecke.com RSS feed 💬 1279 🔖 #llm 🗓️ 2026-04-18
