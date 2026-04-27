@@ -1,9 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 96
+- Всего ссылок: 98
 
 ## Ссылки
 
+- [What Async Promised and What it Delivered](https://causality.blog/essays/what-async-promised/) [📖](https://read.readwise.io/read/01kq4a66beh84d41apswqw5xsk) 👤 Causality 💬 2488 🗓️ 2026-04-26
+    > **Заметка:** Via HackerNews
+    > **Резюме:** Async programming evolved from callbacks to promises to async/await, each improving code readability but adding new challenges. Async/await makes asynchronous code look sequential, which helps for simple tasks but hides complexity in larger programs. Overall, these advances helped developers write async code easier but introduced new bugs and harder maintenance in big projects.
+- [It's OK to Use Coding Assistance Tools To Revive The Projects You Never Were Going To Finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/) [📖](https://read.readwise.io/read/01kq4a4gbe0cawx2hvwqz008r4) 👤 Matthew Brunelle's Blog 💬 1405 🗓️ 2026-04-26
+    > **Заметка:** Via HackerNews
+    > **Резюме:** The author used AI coding tools to finish an old personal project that he never planned to complete. The AI helped quickly build a functional music streaming service by following a clear API specification. This shows how AI can revive stalled projects while still encouraging learning through harder challenges.
 - [A Modern Quality Pipeline and Testing Strategy for Frontend Projects](https://alexop.dev/posts/modern-frontend-quality-pipeline/) [📖](https://read.readwise.io/read/01kq2k3gnqeh877w7kgfrnzs8a) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 3222 🗓️ 2026-04-25
     > **Резюме:** A modern frontend quality pipeline uses fast tools like Vite+, Oxlint, and Vitest to catch bugs early and run tests efficiently. It splits checks by cost and stage, from editor to CI and preview deployments, ensuring consistent quality across teams. This approach combines types, linting, unit, component, and end-to-end tests with automation to keep code reliable and easy to maintain.
 - [On sabotaging projects by overthinking](https://kevinlynagh.com/newsletter/2026_04_overthinking/) [📖](https://read.readwise.io/read/01kq1zz1y6tfjxjk03b2k9h9q0) 👤 kevinlynagh.com 💬 2614 🗓️ 2026-04-25
@@ -160,7 +166,10 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) [📖](https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96) 👤 Peter Steinberger 💬 3413 🔖 #llm 🗓️ 2026-01-09
     > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
-- [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/) [📖](https://read.readwise.io/read/01ke9zfp6szzkfh4j6gjg01vje) 👤 Harper Reed <harper@modest.com> 💬 1923 🗓️ 2026-01-06
+- [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/) [📖](https://read.readwise.io/read/01ke9zfp6szzkfh4j6gjg01vje) 👤 Harper Reed <harper@modest.com> 💬 1923 🔖 #llm, #claude, #tailscale 🗓️ 2026-01-06
+    > **Заметка:** Харпер крутой. Из его поста год назад я научился грамотно работать с агентами! Жаль, он не часто пишет. 
+
+Ещё бы чуть раньше этот пост появился, чтобы быстрее взять на вооружение Tailscale! 
     > **Резюме:** Harper Reed explains how he uses SSH and Tailscale to run Claude Code from his phone. He recommends a simple stack: Tailscale for networking, a reliable terminal app, and tools like mosh, SSH keys, and TMUX. With that setup you can run multiple Claude Code instances on your workstation and reconnect from your phone without losing work.
 - [From Senior Engineer to Staff, with Angelic Assistance](https://davegriffith.substack.com/p/from-senior-engineer-to-staff-with) [📖](https://read.readwise.io/read/01ke9z29ytbhqp25karjrhxfb6) 👤 Dave Griffith 💬 1460 🗓️ 2026-01-06
     > **Резюме:** Dave Griffith argues that moving from senior to staff engineer requires three deliberate skills: deep expertise, visible impact, and intentional planning. Agentic AI tools now let engineers learn far faster, produce clearer evidence of their work, and build smarter promotion plans. He’s testing this playbook in real time and will share practical tactics in a series of posts.

@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 442
+- Всего ссылок: 443
 
 ## Ссылки
 
@@ -244,6 +244,11 @@
     > **Резюме:** Amp now gives all users free daily credits to use its smart agent with no payment needed, supported by ads. New users can sign up and download the tools, while existing users enable free credits in settings. The free credits refresh hourly, offering about $10 daily, and ads are text-only and optional.
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) [📖](https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96) 👤 Peter Steinberger 💬 3413 🔖 #llm 🗓️ 2026-01-09
     > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
+- [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/) [📖](https://read.readwise.io/read/01ke9zfp6szzkfh4j6gjg01vje) 👤 Harper Reed <harper@modest.com> 💬 1923 🔖 #llm, #claude, #tailscale 🗓️ 2026-01-06
+    > **Заметка:** Харпер крутой. Из его поста год назад я научился грамотно работать с агентами! Жаль, он не часто пишет. 
+
+Ещё бы чуть раньше этот пост появился, чтобы быстрее взять на вооружение Tailscale! 
+    > **Резюме:** Harper Reed explains how he uses SSH and Tailscale to run Claude Code from his phone. He recommends a simple stack: Tailscale for networking, a reliable terminal app, and tools like mosh, SSH keys, and TMUX. With that setup you can run multiple Claude Code instances on your workstation and reconnect from your phone without losing work.
 - [Fear is not advocacy](https://antonz.org/ai-advocacy/) [📖](https://read.readwise.io/read/01ke9xdwhd5bdjhb958pbxkhz0) 👤 Anton Zhiyanov 💬 263 🔖 #llm 🗓️ 2026-01-06
     > **Резюме:** AI advocates too often shame developers instead of sparking interest. You don’t have to rush into AI or become an expert now. It’s fine to adopt AI later and learn what you need as the industry matures.
 - [Grok is enabling mass sexual harassment on Twitter](https://seangoedecke.com/grok-deepfakes/) [📖](https://read.readwise.io/read/01ke5mdvxm74bwpk8eh36ca9yn) 👤 seangoedecke.com 💬 1110 🔖 #llm 🗓️ 2026-01-04

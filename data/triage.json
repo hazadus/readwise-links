@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T04:19:47.867941+00:00",
+  "generated_at": "2026-04-27T04:24:05.082735+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -184,9 +184,109 @@
         "image_url": "https://harper.blog/images/social_card_bg_harper_hu_f218fde3c30004ef.png",
         "word_count": 1923,
         "summary": "Harper Reed explains how he uses SSH and Tailscale to run Claude Code from his phone. He recommends a simple stack: Tailscale for networking, a reliable terminal app, and tools like mosh, SSH keys, and TMUX. With that setup you can run multiple Claude Code instances on your workstation and reconnect from your phone without losing work.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
+        "notes": "Харпер крутой. Из его поста год назад я научился грамотно работать с агентами! Жаль, он не часто пишет. \n\nЕщё бы чуть раньше этот пост появился, чтобы быстрее взять на вооружение Tailscale! ",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1777237950268
+          },
+          "claude": {
+            "name": "Claude",
+            "type": "manual",
+            "created": 1777237953521
+          },
+          "tailscale": {
+            "name": "Tailscale",
+            "type": "manual",
+            "created": 1777238940372
+          }
+        },
+        "highlights": [
+          {
+            "id": "01kq5vn257wkw7vz06de7mxtpz",
+            "url": "https://read.readwise.io/read/01kq5vn257wkw7vz06de7mxtpz",
+            "source_url": null,
+            "title": null,
+            "author": null,
+            "source": "reader-mobile-app",
+            "category": "highlight",
+            "location": null,
+            "tags": {},
+            "site_name": null,
+            "word_count": null,
+            "notes": "",
+            "summary": null,
+            "image_url": null,
+            "parent_id": "01ke9zfp6szzkfh4j6gjg01vje",
+            "reading_progress": 0.0,
+            "content": "Mosh is from a forgotten time (2012!) when the internet was slow, and connections were spotty. What mosh does is allow your “fragile” ssh connection to roam around with you. You use it just like ssh: mosh <dev-server-ip>. But now when you shut your laptop, or forget about your phone - the connection will pop back up when you surface it again. It allows the connection to survive a lot of the various environmental things that would normally derail a ssh connection.",
+            "html_content": null,
+            "published_date": null,
+            "created_at": "2026-04-26T21:38:13.243212+00:00",
+            "updated_at": "2026-04-26T21:38:26.951349+00:00",
+            "saved_at": "2026-04-26T21:38:12.775000+00:00",
+            "first_opened_at": null,
+            "last_opened_at": null,
+            "last_moved_at": "2026-04-26T21:38:12.775000+00:00",
+            "notes_attached": [
+              {
+                "id": "01kq5vneyvf5nexf2raecf8wgw",
+                "url": "https://read.readwise.io/read/01kq5vneyvf5nexf2raecf8wgw",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-mobile-app",
+                "category": "note",
+                "location": null,
+                "tags": null,
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01kq5vn257wkw7vz06de7mxtpz",
+                "reading_progress": 0.0,
+                "content": "Полезная прога, надо взять на вооружение",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2026-04-26T21:38:26.338466+00:00",
+                "updated_at": "2026-04-26T21:38:26.338483+00:00",
+                "saved_at": "2026-04-26T21:38:25.883000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2026-04-26T21:38:25.883000+00:00"
+              }
+            ]
+          },
+          {
+            "id": "01kq5v0t6g8hz1c6p4n4va8vaj",
+            "url": "https://read.readwise.io/read/01kq5v0t6g8hz1c6p4n4va8vaj",
+            "source_url": null,
+            "title": null,
+            "author": null,
+            "source": "reader-mobile-app",
+            "category": "highlight",
+            "location": null,
+            "tags": {},
+            "site_name": null,
+            "word_count": null,
+            "notes": "",
+            "summary": null,
+            "image_url": null,
+            "parent_id": "01ke9zfp6szzkfh4j6gjg01vje",
+            "reading_progress": 0.0,
+            "content": "One of my core values is: I want to just ssh into shit. That is kind of one of my general hobbies. Can I ssh into this thing? If yes, then I am happy. If no, then how can I make it so I can ssh into it.",
+            "html_content": null,
+            "published_date": null,
+            "created_at": "2026-04-26T21:27:09.829838+00:00",
+            "updated_at": "2026-04-26T21:27:09.829852+00:00",
+            "saved_at": "2026-04-26T21:27:09.264000+00:00",
+            "first_opened_at": null,
+            "last_opened_at": null,
+            "last_moved_at": "2026-04-26T21:27:09.264000+00:00"
+          }
+        ],
         "saved_at": "2026-01-06T15:40:52.314000+00:00",
         "last_moved_at": "2026-01-06T15:40:54.421000+00:00",
         "published_date": "2026-01-05",
@@ -662,6 +762,28 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
+        }
+      },
+      {
+        "id": "01kq4a4gbe0cawx2hvwqz008r4",
+        "url": "https://read.readwise.io/read/01kq4a4gbe0cawx2hvwqz008r4",
+        "source_url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+        "title": "It's OK to Use Coding Assistance Tools To Revive The Projects You Never Were Going To Finish",
+        "author": "Matthew Brunelle's Blog",
+        "image_url": "https://blog.matthewbrunelle.com/content/images/2026/04/feishin_play_sub_standard.png",
+        "word_count": 1405,
+        "summary": "The author used AI coding tools to finish an old personal project that he never planned to complete. The AI helped quickly build a functional music streaming service by following a clear API specification. This shows how AI can revive stalled projects while still encouraging learning through harder challenges.",
+        "notes": "Via HackerNews",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-26T07:12:50.030000+00:00",
+        "last_moved_at": "2026-04-26T07:12:53.128000+00:00",
+        "published_date": "2026-04-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
         }
       },
       {
@@ -1299,28 +1421,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
-        }
-      },
-      {
-        "id": "01km5fqgjckw8znfxbjqybrm3c",
-        "url": "https://read.readwise.io/read/01km5fqgjckw8znfxbjqybrm3c",
-        "source_url": "https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev",
-        "title": "The MacBook Neo",
-        "author": "Daring Fireball",
-        "image_url": "https://daringfireball.net/graphics/df-wide-card.png",
-        "word_count": 3347,
-        "summary": "The MacBook Neo is a $600 laptop with the same powerful chip as the latest iPhone 16 Pro. It offers strong performance, good build quality, and runs full MacOS, making it a great choice for new Mac users and those wanting a portable secondary computer. Despite some minor flaws, it outperforms many similarly priced laptops and serves as a solid alternative to tablets like the iPad.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-20T11:22:44.684000+00:00",
-        "last_moved_at": "2026-03-20T11:22:49.301000+00:00",
-        "published_date": "2026-03-10",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
         }
       }
     ],
@@ -2143,6 +2243,28 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 6
+        }
+      },
+      {
+        "id": "01kq4a66beh84d41apswqw5xsk",
+        "url": "https://read.readwise.io/read/01kq4a66beh84d41apswqw5xsk",
+        "source_url": "https://causality.blog/essays/what-async-promised/",
+        "title": "What Async Promised and What it Delivered",
+        "author": "Causality",
+        "image_url": "https://causality.blog/og-essay-3.png",
+        "word_count": 2488,
+        "summary": "Async programming evolved from callbacks to promises to async/await, each improving code readability but adding new challenges. Async/await makes asynchronous code look sequential, which helps for simple tasks but hides complexity in larger programs. Overall, these advances helped developers write async code easier but introduced new bugs and harder maintenance in big projects.",
+        "notes": "Via HackerNews",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-26T07:13:45.326000+00:00",
+        "last_moved_at": "2026-04-26T07:13:47.570000+00:00",
+        "published_date": "2026-04-22",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 5
         }
       },
       {
@@ -5350,9 +5472,109 @@
         "image_url": "https://harper.blog/images/social_card_bg_harper_hu_f218fde3c30004ef.png",
         "word_count": 1923,
         "summary": "Harper Reed explains how he uses SSH and Tailscale to run Claude Code from his phone. He recommends a simple stack: Tailscale for networking, a reliable terminal app, and tools like mosh, SSH keys, and TMUX. With that setup you can run multiple Claude Code instances on your workstation and reconnect from your phone without losing work.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
+        "notes": "Харпер крутой. Из его поста год назад я научился грамотно работать с агентами! Жаль, он не часто пишет. \n\nЕщё бы чуть раньше этот пост появился, чтобы быстрее взять на вооружение Tailscale! ",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1777237950268
+          },
+          "claude": {
+            "name": "Claude",
+            "type": "manual",
+            "created": 1777237953521
+          },
+          "tailscale": {
+            "name": "Tailscale",
+            "type": "manual",
+            "created": 1777238940372
+          }
+        },
+        "highlights": [
+          {
+            "id": "01kq5vn257wkw7vz06de7mxtpz",
+            "url": "https://read.readwise.io/read/01kq5vn257wkw7vz06de7mxtpz",
+            "source_url": null,
+            "title": null,
+            "author": null,
+            "source": "reader-mobile-app",
+            "category": "highlight",
+            "location": null,
+            "tags": {},
+            "site_name": null,
+            "word_count": null,
+            "notes": "",
+            "summary": null,
+            "image_url": null,
+            "parent_id": "01ke9zfp6szzkfh4j6gjg01vje",
+            "reading_progress": 0.0,
+            "content": "Mosh is from a forgotten time (2012!) when the internet was slow, and connections were spotty. What mosh does is allow your “fragile” ssh connection to roam around with you. You use it just like ssh: mosh <dev-server-ip>. But now when you shut your laptop, or forget about your phone - the connection will pop back up when you surface it again. It allows the connection to survive a lot of the various environmental things that would normally derail a ssh connection.",
+            "html_content": null,
+            "published_date": null,
+            "created_at": "2026-04-26T21:38:13.243212+00:00",
+            "updated_at": "2026-04-26T21:38:26.951349+00:00",
+            "saved_at": "2026-04-26T21:38:12.775000+00:00",
+            "first_opened_at": null,
+            "last_opened_at": null,
+            "last_moved_at": "2026-04-26T21:38:12.775000+00:00",
+            "notes_attached": [
+              {
+                "id": "01kq5vneyvf5nexf2raecf8wgw",
+                "url": "https://read.readwise.io/read/01kq5vneyvf5nexf2raecf8wgw",
+                "source_url": null,
+                "title": null,
+                "author": null,
+                "source": "reader-mobile-app",
+                "category": "note",
+                "location": null,
+                "tags": null,
+                "site_name": null,
+                "word_count": null,
+                "notes": "",
+                "summary": null,
+                "image_url": null,
+                "parent_id": "01kq5vn257wkw7vz06de7mxtpz",
+                "reading_progress": 0.0,
+                "content": "Полезная прога, надо взять на вооружение",
+                "html_content": null,
+                "published_date": null,
+                "created_at": "2026-04-26T21:38:26.338466+00:00",
+                "updated_at": "2026-04-26T21:38:26.338483+00:00",
+                "saved_at": "2026-04-26T21:38:25.883000+00:00",
+                "first_opened_at": null,
+                "last_opened_at": null,
+                "last_moved_at": "2026-04-26T21:38:25.883000+00:00"
+              }
+            ]
+          },
+          {
+            "id": "01kq5v0t6g8hz1c6p4n4va8vaj",
+            "url": "https://read.readwise.io/read/01kq5v0t6g8hz1c6p4n4va8vaj",
+            "source_url": null,
+            "title": null,
+            "author": null,
+            "source": "reader-mobile-app",
+            "category": "highlight",
+            "location": null,
+            "tags": {},
+            "site_name": null,
+            "word_count": null,
+            "notes": "",
+            "summary": null,
+            "image_url": null,
+            "parent_id": "01ke9zfp6szzkfh4j6gjg01vje",
+            "reading_progress": 0.0,
+            "content": "One of my core values is: I want to just ssh into shit. That is kind of one of my general hobbies. Can I ssh into this thing? If yes, then I am happy. If no, then how can I make it so I can ssh into it.",
+            "html_content": null,
+            "published_date": null,
+            "created_at": "2026-04-26T21:27:09.829838+00:00",
+            "updated_at": "2026-04-26T21:27:09.829852+00:00",
+            "saved_at": "2026-04-26T21:27:09.264000+00:00",
+            "first_opened_at": null,
+            "last_opened_at": null,
+            "last_moved_at": "2026-04-26T21:27:09.264000+00:00"
+          }
+        ],
         "saved_at": "2026-01-06T15:40:52.314000+00:00",
         "last_moved_at": "2026-01-06T15:40:54.421000+00:00",
         "published_date": "2026-01-05",
@@ -6363,6 +6585,28 @@
         }
       },
       {
+        "id": "01kq4a66beh84d41apswqw5xsk",
+        "url": "https://read.readwise.io/read/01kq4a66beh84d41apswqw5xsk",
+        "source_url": "https://causality.blog/essays/what-async-promised/",
+        "title": "What Async Promised and What it Delivered",
+        "author": "Causality",
+        "image_url": "https://causality.blog/og-essay-3.png",
+        "word_count": 2488,
+        "summary": "Async programming evolved from callbacks to promises to async/await, each improving code readability but adding new challenges. Async/await makes asynchronous code look sequential, which helps for simple tasks but hides complexity in larger programs. Overall, these advances helped developers write async code easier but introduced new bugs and harder maintenance in big projects.",
+        "notes": "Via HackerNews",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-26T07:13:45.326000+00:00",
+        "last_moved_at": "2026-04-26T07:13:47.570000+00:00",
+        "published_date": "2026-04-22",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 5
+        }
+      },
+      {
         "id": "01k40m21dnxqcfwapgck0zh6vv",
         "url": "https://read.readwise.io/read/01k40m21dnxqcfwapgck0zh6vv",
         "source_url": "https://cedardb.com/blog/german_strings/?utm_source=substack&utm_medium=email",
@@ -7105,6 +7349,28 @@
         "saved_at": "2026-01-29T09:39:19.145000+00:00",
         "last_moved_at": "2026-01-29T09:39:21.846000+00:00",
         "published_date": "2026-01-28",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kq4a4gbe0cawx2hvwqz008r4",
+        "url": "https://read.readwise.io/read/01kq4a4gbe0cawx2hvwqz008r4",
+        "source_url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+        "title": "It's OK to Use Coding Assistance Tools To Revive The Projects You Never Were Going To Finish",
+        "author": "Matthew Brunelle's Blog",
+        "image_url": "https://blog.matthewbrunelle.com/content/images/2026/04/feishin_play_sub_standard.png",
+        "word_count": 1405,
+        "summary": "The author used AI coding tools to finish an old personal project that he never planned to complete. The AI helped quickly build a functional music streaming service by following a clear API specification. This shows how AI can revive stalled projects while still encouraging learning through harder challenges.",
+        "notes": "Via HackerNews",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-26T07:12:50.030000+00:00",
+        "last_moved_at": "2026-04-26T07:12:53.128000+00:00",
+        "published_date": "2026-04-24",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

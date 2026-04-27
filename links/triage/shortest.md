@@ -2,7 +2,7 @@
 
 _Короткие статьи (не туториалы, не основы), отсортированные по объёму_
 
-Сгенерировано: 2026-04-26 04:19 UTC · Статей: 30
+Сгенерировано: 2026-04-27 04:24 UTC · Статей: 30
 
 ## Статьи
 
@@ -17,6 +17,9 @@ _Короткие статьи (не туториалы, не основы), о�
     > **Резюме:** The internet used to be open and full of shared ideas, but now big companies control it and make it risky to show your thoughts. AI makes creating things easier, but it also lets big platforms copy and absorb your ideas quickly, so staying quiet feels safer. This "cognitive dark forest" means your innovations feed the system that threatens you, making hiding and sharing both dangerous.
 - [The ambition tax](https://siddhantkhare.com/writing/ambition-tax) [📖](https://read.readwise.io/read/01kmet5erb6344eexjx5b10v35) 👤 Siddhant Khare 💬 1364 ⭐ 2 🗓️ 2026-03-24
     > **Резюме:** Ambition comes with a hidden cost that creates distance between you and the people you love. Even after achieving your goals, you feel restless and unsure if it's enough. This "ambition tax" is a quiet struggle many face but few talk about.
+- [It's OK to Use Coding Assistance Tools To Revive The Projects You Never Were Going To Finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/) [📖](https://read.readwise.io/read/01kq4a4gbe0cawx2hvwqz008r4) 👤 Matthew Brunelle's Blog 💬 1405 ⭐ 8 🗓️ 2026-04-26
+    > **Заметка:** Via HackerNews
+    > **Резюме:** The author used AI coding tools to finish an old personal project that he never planned to complete. The AI helped quickly build a functional music streaming service by following a clear API specification. This shows how AI can revive stalled projects while still encouraging learning through harder challenges.
 - [2025 in review](https://www.loopwerk.io/articles/2025/2025-in-review/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) [📖](https://read.readwise.io/read/01kczwvew6dftm8phypwzjqxd2) 👤 Kevin Renskers 💬 1411 ⭐ 2 🔖 #shortlist 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/69479f95-3aa4-8328-8855-b64bb19cc6d2
     > **Резюме:** 2025 was a productive year: I wrote 38 articles, grew site traffic a lot, and released several open-source Django projects. In November my girlfriend and her daughter were in a serious car crash, so I’ve been caring for them and our dog. I started using AI cautiously, did freelance work for Sound Radix, and enjoyed trips, concerts, and games.
@@ -74,5 +77,3 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say "I don't know," leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.
 - [The Software Industrial Revolution](https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw7mm8skajhhkmnf0tp4s1) 👤 cannoneyed.com 💬 3140 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.
-- [The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev) [📖](https://read.readwise.io/read/01km5fqgjckw8znfxbjqybrm3c) 👤 Daring Fireball 💬 3347 ⭐ 3 🗓️ 2026-03-20
-    > **Резюме:** The MacBook Neo is a $600 laptop with the same powerful chip as the latest iPhone 16 Pro. It offers strong performance, good build quality, and runs full MacOS, making it a great choice for new Mac users and those wanting a portable secondary computer. Despite some minor flaws, it outperforms many similarly priced laptops and serves as a solid alternative to tablets like the iPad.

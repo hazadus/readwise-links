@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-04-26 04:19 UTC · Статей: 50
+Сгенерировано: 2026-04-27 04:24 UTC · Статей: 51
 
 ## Статьи
 
@@ -37,6 +37,9 @@ They save money and offer flexibility, though top cloud models can still be stro
     > **Резюме:** Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.
 - [The creator of Clawd: "I ship code I don't read"](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code) [📖](https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz) 👤 Gergely Orosz 💬 1589 ⭐ 8 🗓️ 2026-01-29
     > **Резюме:** Peter Steinberger uses AI agents to build and ship software quickly, acting like a whole team by himself. He designs systems so AI can check and improve its own code without much human review. This new way of working focuses on outcomes and architecture, not on writing every line of code by hand.
+- [It's OK to Use Coding Assistance Tools To Revive The Projects You Never Were Going To Finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/) [📖](https://read.readwise.io/read/01kq4a4gbe0cawx2hvwqz008r4) 👤 Matthew Brunelle's Blog 💬 1405 ⭐ 8 🗓️ 2026-04-26
+    > **Заметка:** Via HackerNews
+    > **Резюме:** The author used AI coding tools to finish an old personal project that he never planned to complete. The AI helped quickly build a functional music streaming service by following a clear API specification. This shows how AI can revive stalled projects while still encouraging learning through harder challenges.
 - [Building an AI QA Engineer with Claude Code and Playwright MCP](https://alexop.dev/posts/building_ai_qa_engineer_claude_code_playwright/) [📖](https://read.readwise.io/read/01kcgefhszbsw1gk9vj18g5pn0) 👤 Alexander Opalic 💬 1193 ⭐ 8 🔖 #mcp, #claude 🗓️ 2025-12-15 · 🛠️ туториал
     > **Резюме:** Alexander Opalic built an AI QA engineer named Quinn that uses Claude Code and Playwright MCP to test web apps through the browser like a real user. Quinn runs on pull requests via GitHub Actions, clicks, types, resizes the viewport, and posts detailed bug reports with screenshots. This approach finds edge cases and complements but does not replace traditional unit and E2E tests.
 - [Things I've done with AI](https://sjer.red/blog/2026/built-with-ai/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kkeac4cvcpn0vb4y9v0pmwgt) 👤 Jerred Shepherd 💬 1067 ⭐ 8 🔖 #llm 🗓️ 2026-03-11

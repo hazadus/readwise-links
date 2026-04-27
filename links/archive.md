@@ -1,9 +1,12 @@
 # Архивные ссылки
 
-- Всего ссылок: 1601
+- Всего ссылок: 1603
 
 ## Ссылки
 
+- [— почему мученика изображали с головой собаки?](https://foma.ru/ikona-muchenika-hristofora-psoglavogo-svjatoj-nosivshij-hrista-na-plechah.html?utm_source=chatgpt.com) [📖](https://read.readwise.io/read/01kq5m1jbwqe022jg2h6c00gvq) 👤 https://www.facebook.com/foma.ru/ 💬 511 🗓️ 2026-04-26
+- [Thousands of consumer routers hacked by Russia's military](https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/) [📖](https://read.readwise.io/read/01kq4acgx5kbcehakxxfp6pnty) 👤 Dan Goodin 💬 802 🔖 #cybersecurity 🗓️ 2026-04-26
+    > **Заметка:** Via HackerNews
 - [Updates to my AI Coding Workflow](https://refactoring.fm/p/updates-to-my-ai-coding-workflow) [📖](https://read.readwise.io/read/01kq21zexz2k3n54a2yswfc1pf) 👤 Luca Rossi 💬 1432 🗓️ 2026-04-25
 - [Opus 4.7](https://ampcode.com/news/opus-4.7) [📖](https://read.readwise.io/read/01kq1z7rfpfew9gde3qd52d9ve) 👤 Amp News 💬 506 🔖 #amp 🗓️ 2026-04-25
 - [Software engineering may no longer be a lifetime career](https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/) [📖](https://read.readwise.io/read/01kpz68am3sp579pkf7ggym4gy) 👤 seangoedecke.com RSS feed 💬 849 🔖 #llm-devimpact 🗓️ 2026-04-24

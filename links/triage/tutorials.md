@@ -2,7 +2,7 @@
 
 _Туториалы и практические руководства_
 
-Сгенерировано: 2026-04-26 04:19 UTC · Статей: 22
+Сгенерировано: 2026-04-27 04:24 UTC · Статей: 22
 
 ## Статьи
 
@@ -19,7 +19,10 @@ Local models need careful memory and tool choices, but even small models work we
 They save money and offer flexibility, though top cloud models can still be stronger on hard problems.
 - [Why We Built Our Own Background Agent](https://builders.ramp.com/post/why-we-built-our-background-agent?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kfab8cadmd9nwh3npxbvvws4) 👤 Zach Bruggeman, Jason Quense, Rahul Sengottuvelu 💬 2798 ⭐ 9 🔖 #joyandcuriosity 🗓️ 2026-01-19 · 🛠️ туториал
     > **Резюме:** The team built Inspect, a background coding agent that runs tests, reviews data, and works in a sandboxed cloud environment. It supports many tools, offers multiplayer sessions, and connects with platforms like Slack for easy collaboration. Their focus is on speed, flexibility, and helping all team members contribute effectively.
-- [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/) [📖](https://read.readwise.io/read/01ke9zfp6szzkfh4j6gjg01vje) 👤 Harper Reed <harper@modest.com> 💬 1923 ⭐ 9 🗓️ 2026-01-06 · 🛠️ туториал, 🌲 вечнозелёное
+- [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/) [📖](https://read.readwise.io/read/01ke9zfp6szzkfh4j6gjg01vje) 👤 Harper Reed <harper@modest.com> 💬 1923 ⭐ 9 🔖 #llm, #claude, #tailscale 🗓️ 2026-01-06 · 🛠️ туториал, 🌲 вечнозелёное
+    > **Заметка:** Харпер крутой. Из его поста год назад я научился грамотно работать с агентами! Жаль, он не часто пишет. 
+
+Ещё бы чуть раньше этот пост появился, чтобы быстрее взять на вооружение Tailscale! 
     > **Резюме:** Harper Reed explains how he uses SSH and Tailscale to run Claude Code from his phone. He recommends a simple stack: Tailscale for networking, a reliable terminal app, and tools like mosh, SSH keys, and TMUX. With that setup you can run multiple Claude Code instances on your workstation and reconnect from your phone without losing work.
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) [📖](https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7) 👤 Redowan Delowar 💬 1179 ⭐ 9 🔖 #go, #patterns 🗓️ 2025-08-04 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/694438ad-68b0-832f-91bf-a2c4f204944e
