@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude) [📖](https://read.readwise.io/read/01kpfqsqcjj1pc8g79r2pe4g8p) 👤 Logan Thorneloe 💬 3456 🔖 #llm, #selfhost 🗓️ 2026-04-18
+    > **Заметка:** Интересный опыт, автор очень детально поразбирался с локальными моделями. Однако, имхо, без 32+ Гб там ловить нечего. И ещё интересен был бы тест на DevOps задачах - о них никто не пишет. Via HN
+    > **Резюме:** You can run capable coding AI locally for much less than $100/month by upgrading your hardware.  
+Local models need careful memory and tool choices, but even small models work well for most developer tasks.  
+They save money and offer flexibility, though top cloud models can still be stronger on hard problems.
 - [Image generation (experimental)](https://ollama.com/blog/image-generation) [📖](https://read.readwise.io/read/01kffhqp4bw3wejpkqbg6d1fm3) 👤 ollama.com 💬 414 🔖 #llm, #selfhost 🗓️ 2026-01-21
     > **Заметка:** На 16 Гб ОЗУ не удалось запустить :(
     > **Резюме:** Ollama now offers experimental image generation on macOS, with Windows and Linux coming soon. It uses powerful models like Z-Image Turbo and FLUX.2 Klein to create photorealistic and creative images from text prompts. Users can customize image size, detail, and style, and save images directly from the terminal.

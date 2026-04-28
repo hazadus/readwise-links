@@ -2,7 +2,7 @@
 
 _Фундаментальные материалы с долгосрочной ценностью_
 
-Сгенерировано: 2026-04-27 04:24 UTC · Статей: 36
+Сгенерировано: 2026-04-28 04:26 UTC · Статей: 37
 
 ## Статьи
 
@@ -45,6 +45,8 @@ Write the first tests yourself and prefer public-API tests with handwritten fake
     > **Резюме:** A command palette is a user interface tool that allows quick access to various commands, making it easier for users to discover features. To build an effective command palette, ensure it is available everywhere, centralizes all commands, and offers flexibility in command matching. By following these principles, you can create a powerful and user-friendly command palette that enhances productivity.
 - [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) [📖](https://read.readwise.io/read/01k1sq2twnr81ds7s9twvd6kx2) 👤 Software Engineering & Personal Thoughts 💬 1511 ⭐ 7 🔖 #go 🗓️ 2025-08-04 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.
+- [Hello Walter! Learning Rust on ESP32](https://blog.matthewbrunelle.com/hello-walter-learning-rust-on-esp32/) [📖](https://read.readwise.io/read/01kq6r43eh0tj3j5x4s151837c) 👤 Matthew Brunelle's Blog 💬 1236 ⭐ 7 🔖 #rust, #esp32 🗓️ 2026-04-27 · 🛠️ туториал, 🧠 основы
+    > **Резюме:** The author is building an embedded device to scan signals and log GPS data using the Walter ESP32-S3 board and Rust programming. They set up a complex development environment on NixOS to run the Embassy async framework for better multitasking. After overcoming setup challenges, they successfully ran a "Hello World" program and plan to expand the project further.
 - [USB for Software Developers](https://werwolv.net/posts/usb_for_sw_devs/) [📖](https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41) 👤 WerWolv 💬 2523 ⭐ 6 🔖 #usb 🗓️ 2026-04-09 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via HackerNews
     > **Резюме:** Writing a USB driver is similar to writing a network application and does not require kernel code. USB devices identify themselves using standard descriptors, which the host reads to understand the device and its capabilities. Developers can communicate with devices through specific endpoints using simple commands, as shown in the Fastboot example.

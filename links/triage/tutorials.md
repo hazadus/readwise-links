@@ -2,7 +2,7 @@
 
 _Туториалы и практические руководства_
 
-Сгенерировано: 2026-04-27 04:24 UTC · Статей: 22
+Сгенерировано: 2026-04-28 04:26 UTC · Статей: 21
 
 ## Статьи
 
@@ -12,18 +12,8 @@ _Туториалы и практические руководства_
     > **Резюме:** Embeddings turn content like text or images into numbers that capture their meaning. They help computers find and compare similar information quickly. This technology powers tools like search engines and question-answering systems.
 - [Quantization from the ground up](https://ngrok.com/blog/quantization) [📖](https://read.readwise.io/read/01kmrp6ce52w3gzsedw0ky6y7a) 👤 Sam Rose 💬 4123 ⭐ 9 🗓️ 2026-03-27 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Quantization shrinks large numbers into smaller ones so models use less memory and run faster. Lower bit quantization reduces accuracy, but 8-bit and 4-bit still work well for large language models. Very low bits like 2-bit cause big errors and poor model performance.
-- [You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude) [📖](https://read.readwise.io/read/01kpfqsqcjj1pc8g79r2pe4g8p) 👤 Logan Thorneloe 💬 3456 ⭐ 9 🗓️ 2026-04-18 · 🛠️ туториал
-    > **Заметка:** Via HN
-    > **Резюме:** You can run capable coding AI locally for much less than $100/month by upgrading your hardware.  
-Local models need careful memory and tool choices, but even small models work well for most developer tasks.  
-They save money and offer flexibility, though top cloud models can still be stronger on hard problems.
 - [Why We Built Our Own Background Agent](https://builders.ramp.com/post/why-we-built-our-background-agent?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kfab8cadmd9nwh3npxbvvws4) 👤 Zach Bruggeman, Jason Quense, Rahul Sengottuvelu 💬 2798 ⭐ 9 🔖 #joyandcuriosity 🗓️ 2026-01-19 · 🛠️ туториал
     > **Резюме:** The team built Inspect, a background coding agent that runs tests, reviews data, and works in a sandboxed cloud environment. It supports many tools, offers multiplayer sessions, and connects with platforms like Slack for easy collaboration. Their focus is on speed, flexibility, and helping all team members contribute effectively.
-- [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/) [📖](https://read.readwise.io/read/01ke9zfp6szzkfh4j6gjg01vje) 👤 Harper Reed <harper@modest.com> 💬 1923 ⭐ 9 🔖 #llm, #claude, #tailscale 🗓️ 2026-01-06 · 🛠️ туториал, 🌲 вечнозелёное
-    > **Заметка:** Харпер крутой. Из его поста год назад я научился грамотно работать с агентами! Жаль, он не часто пишет. 
-
-Ещё бы чуть раньше этот пост появился, чтобы быстрее взять на вооружение Tailscale! 
-    > **Резюме:** Harper Reed explains how he uses SSH and Tailscale to run Claude Code from his phone. He recommends a simple stack: Tailscale for networking, a reliable terminal app, and tools like mosh, SSH keys, and TMUX. With that setup you can run multiple Claude Code instances on your workstation and reconnect from your phone without losing work.
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) [📖](https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7) 👤 Redowan Delowar 💬 1179 ⭐ 9 🔖 #go, #patterns 🗓️ 2025-08-04 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/694438ad-68b0-832f-91bf-a2c4f204944e
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
@@ -44,6 +34,8 @@ Write the first tests yourself and prefer public-API tests with handwritten fake
     > **Резюме:** This blog post explains how to use Claude.ai's CSV analysis feature with Readwise data for better insights. It highlights the importance of crafting specific prompts to extract meaningful information and create visualizations. The tutorial also touches on the technical aspects of how Claude processes and analyzes the data.
 - [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) [📖](https://read.readwise.io/read/01k1sq2twnr81ds7s9twvd6kx2) 👤 Software Engineering & Personal Thoughts 💬 1511 ⭐ 7 🔖 #go 🗓️ 2025-08-04 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.
+- [Hello Walter! Learning Rust on ESP32](https://blog.matthewbrunelle.com/hello-walter-learning-rust-on-esp32/) [📖](https://read.readwise.io/read/01kq6r43eh0tj3j5x4s151837c) 👤 Matthew Brunelle's Blog 💬 1236 ⭐ 7 🔖 #rust, #esp32 🗓️ 2026-04-27 · 🛠️ туториал, 🧠 основы
+    > **Резюме:** The author is building an embedded device to scan signals and log GPS data using the Walter ESP32-S3 board and Rust programming. They set up a complex development environment on NixOS to run the Embassy async framework for better multitasking. After overcoming setup challenges, they successfully ran a "Hello World" program and plan to expand the project further.
 - [USB for Software Developers](https://werwolv.net/posts/usb_for_sw_devs/) [📖](https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41) 👤 WerWolv 💬 2523 ⭐ 6 🔖 #usb 🗓️ 2026-04-09 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via HackerNews
     > **Резюме:** Writing a USB driver is similar to writing a network application and does not require kernel code. USB devices identify themselves using standard descriptors, which the host reads to understand the device and its capabilities. Developers can communicate with devices through specific endpoints using simple commands, as shown in the Fastboot example.

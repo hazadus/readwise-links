@@ -2,7 +2,7 @@
 
 _20 статей с наивысшим interest_score_
 
-Сгенерировано: 2026-04-27 04:24 UTC · Статей: 20
+Сгенерировано: 2026-04-28 04:26 UTC · Статей: 20
 
 ## Статьи
 
@@ -14,20 +14,10 @@ _20 статей с наивысшим interest_score_
     > **Резюме:** Quantization shrinks large numbers into smaller ones so models use less memory and run faster. Lower bit quantization reduces accuracy, but 8-bit and 4-bit still work well for large language models. Very low bits like 2-bit cause big errors and poor model performance.
 - [The 80% Problem in Agentic Coding](https://addyo.substack.com/p/the-80-problem-in-agentic-coding?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kgabfzsr9yz690ma05nt8ck5) 👤 Addy Osmani 💬 3508 ⭐ 9 🗓️ 2026-01-31
     > **Резюме:** AI now writes most code, but humans must still carefully review and guide it. This shift changes engineers’ roles from coders to overseers and problem solvers. Success comes from using AI to learn and think deeply, not just to generate code fast.
-- [You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude) [📖](https://read.readwise.io/read/01kpfqsqcjj1pc8g79r2pe4g8p) 👤 Logan Thorneloe 💬 3456 ⭐ 9 🗓️ 2026-04-18 · 🛠️ туториал
-    > **Заметка:** Via HN
-    > **Резюме:** You can run capable coding AI locally for much less than $100/month by upgrading your hardware.  
-Local models need careful memory and tool choices, but even small models work well for most developer tasks.  
-They save money and offer flexibility, though top cloud models can still be stronger on hard problems.
 - [When AI writes almost all code, what happens to software engineering?](https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what) [📖](https://read.readwise.io/read/01kehqcxrgjpevpz78xx06w5mp) 👤 Gergely Orosz 💬 3371 ⭐ 9 🗓️ 2026-01-09
     > **Резюме:** AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.
 - [Why We Built Our Own Background Agent](https://builders.ramp.com/post/why-we-built-our-background-agent?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kfab8cadmd9nwh3npxbvvws4) 👤 Zach Bruggeman, Jason Quense, Rahul Sengottuvelu 💬 2798 ⭐ 9 🔖 #joyandcuriosity 🗓️ 2026-01-19 · 🛠️ туториал
     > **Резюме:** The team built Inspect, a background coding agent that runs tests, reviews data, and works in a sandboxed cloud environment. It supports many tools, offers multiplayer sessions, and connects with platforms like Slack for easy collaboration. Their focus is on speed, flexibility, and helping all team members contribute effectively.
-- [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/) [📖](https://read.readwise.io/read/01ke9zfp6szzkfh4j6gjg01vje) 👤 Harper Reed <harper@modest.com> 💬 1923 ⭐ 9 🔖 #llm, #claude, #tailscale 🗓️ 2026-01-06 · 🛠️ туториал, 🌲 вечнозелёное
-    > **Заметка:** Харпер крутой. Из его поста год назад я научился грамотно работать с агентами! Жаль, он не часто пишет. 
-
-Ещё бы чуть раньше этот пост появился, чтобы быстрее взять на вооружение Tailscale! 
-    > **Резюме:** Harper Reed explains how he uses SSH and Tailscale to run Claude Code from his phone. He recommends a simple stack: Tailscale for networking, a reliable terminal app, and tools like mosh, SSH keys, and TMUX. With that setup you can run multiple Claude Code instances on your workstation and reconnect from your phone without losing work.
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) [📖](https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7) 👤 Redowan Delowar 💬 1179 ⭐ 9 🔖 #go, #patterns 🗓️ 2025-08-04 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/694438ad-68b0-832f-91bf-a2c4f204944e
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
@@ -56,3 +46,7 @@ They save money and offer flexibility, though top cloud models can still be stro
 - [Software Development in 2026](https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026) [📖](https://read.readwise.io/read/01kn9q1g2rkzrdsd4mgzghk9ew) 👤 Aleksei Matiushkin 💬 1952 ⭐ 8 🗓️ 2026-04-03 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via ElixirWeekly
     > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.
+- [The secret life of the xattr](https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/) [📖](https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1) 👤 hoakley 💬 1905 ⭐ 8 🗓️ 2026-04-24 · 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.
+- [Why Isn't Everything Different Yet?](https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dctz7gv9zqqkm3jxke3xf) 👤 Dave Griffith 💬 1791 ⭐ 8 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13 · 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** AI technology is impressive but changing everything takes time because systems, laws, and business models must be rebuilt from scratch. Software development is the first area transformed, but integrating AI widely requires millions of people to adapt workflows and trust the tools. Despite impatience, this transformation is happening very fast compared to past technologies and will soon feel much bigger.

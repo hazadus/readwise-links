@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T04:24:05.082735+00:00",
+  "generated_at": "2026-04-28T04:26:01.894504+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -104,28 +104,6 @@
         }
       },
       {
-        "id": "01kpfqsqcjj1pc8g79r2pe4g8p",
-        "url": "https://read.readwise.io/read/01kpfqsqcjj1pc8g79r2pe4g8p",
-        "source_url": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
-        "title": "You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models",
-        "author": "Logan Thorneloe",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!fARn!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb194c53f-7b2b-4f74-942b-5cf1c59b32aa_1920x1080.jpeg",
-        "word_count": 3456,
-        "summary": "You can run capable coding AI locally for much less than $100/month by upgrading your hardware.  \nLocal models need careful memory and tool choices, but even small models work well for most developer tasks.  \nThey save money and offer flexibility, though top cloud models can still be stronger on hard problems.",
-        "notes": "Via HN",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-18T07:27:33.779000+00:00",
-        "last_moved_at": "2026-04-18T07:27:39.860000+00:00",
-        "published_date": "2025-12-20",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
         "id": "01kehqcxrgjpevpz78xx06w5mp",
         "url": "https://read.readwise.io/read/01kehqcxrgjpevpz78xx06w5mp",
         "source_url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
@@ -172,128 +150,6 @@
           "is_tutorial": true,
           "is_foundational": false,
           "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01ke9zfp6szzkfh4j6gjg01vje",
-        "url": "https://read.readwise.io/read/01ke9zfp6szzkfh4j6gjg01vje",
-        "source_url": "https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/",
-        "title": "Remote Claude Code: programing like it was the early 2000s",
-        "author": "Harper Reed <harper@modest.com>",
-        "image_url": "https://harper.blog/images/social_card_bg_harper_hu_f218fde3c30004ef.png",
-        "word_count": 1923,
-        "summary": "Harper Reed explains how he uses SSH and Tailscale to run Claude Code from his phone. He recommends a simple stack: Tailscale for networking, a reliable terminal app, and tools like mosh, SSH keys, and TMUX. With that setup you can run multiple Claude Code instances on your workstation and reconnect from your phone without losing work.",
-        "notes": "Харпер крутой. Из его поста год назад я научился грамотно работать с агентами! Жаль, он не часто пишет. \n\nЕщё бы чуть раньше этот пост появился, чтобы быстрее взять на вооружение Tailscale! ",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1777237950268
-          },
-          "claude": {
-            "name": "Claude",
-            "type": "manual",
-            "created": 1777237953521
-          },
-          "tailscale": {
-            "name": "Tailscale",
-            "type": "manual",
-            "created": 1777238940372
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kq5vn257wkw7vz06de7mxtpz",
-            "url": "https://read.readwise.io/read/01kq5vn257wkw7vz06de7mxtpz",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-mobile-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01ke9zfp6szzkfh4j6gjg01vje",
-            "reading_progress": 0.0,
-            "content": "Mosh is from a forgotten time (2012!) when the internet was slow, and connections were spotty. What mosh does is allow your “fragile” ssh connection to roam around with you. You use it just like ssh: mosh <dev-server-ip>. But now when you shut your laptop, or forget about your phone - the connection will pop back up when you surface it again. It allows the connection to survive a lot of the various environmental things that would normally derail a ssh connection.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-04-26T21:38:13.243212+00:00",
-            "updated_at": "2026-04-26T21:38:26.951349+00:00",
-            "saved_at": "2026-04-26T21:38:12.775000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-04-26T21:38:12.775000+00:00",
-            "notes_attached": [
-              {
-                "id": "01kq5vneyvf5nexf2raecf8wgw",
-                "url": "https://read.readwise.io/read/01kq5vneyvf5nexf2raecf8wgw",
-                "source_url": null,
-                "title": null,
-                "author": null,
-                "source": "reader-mobile-app",
-                "category": "note",
-                "location": null,
-                "tags": null,
-                "site_name": null,
-                "word_count": null,
-                "notes": "",
-                "summary": null,
-                "image_url": null,
-                "parent_id": "01kq5vn257wkw7vz06de7mxtpz",
-                "reading_progress": 0.0,
-                "content": "Полезная прога, надо взять на вооружение",
-                "html_content": null,
-                "published_date": null,
-                "created_at": "2026-04-26T21:38:26.338466+00:00",
-                "updated_at": "2026-04-26T21:38:26.338483+00:00",
-                "saved_at": "2026-04-26T21:38:25.883000+00:00",
-                "first_opened_at": null,
-                "last_opened_at": null,
-                "last_moved_at": "2026-04-26T21:38:25.883000+00:00"
-              }
-            ]
-          },
-          {
-            "id": "01kq5v0t6g8hz1c6p4n4va8vaj",
-            "url": "https://read.readwise.io/read/01kq5v0t6g8hz1c6p4n4va8vaj",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-mobile-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01ke9zfp6szzkfh4j6gjg01vje",
-            "reading_progress": 0.0,
-            "content": "One of my core values is: I want to just ssh into shit. That is kind of one of my general hobbies. Can I ssh into this thing? If yes, then I am happy. If no, then how can I make it so I can ssh into it.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-04-26T21:27:09.829838+00:00",
-            "updated_at": "2026-04-26T21:27:09.829852+00:00",
-            "saved_at": "2026-04-26T21:27:09.264000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-04-26T21:27:09.264000+00:00"
-          }
-        ],
-        "saved_at": "2026-01-06T15:40:52.314000+00:00",
-        "last_moved_at": "2026-01-06T15:40:54.421000+00:00",
-        "published_date": "2026-01-05",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": true,
           "interest_score": 9
         }
       },
@@ -629,6 +485,66 @@
           "is_evergreen": true,
           "interest_score": 8
         }
+      },
+      {
+        "id": "01kpz4x1yajdkj46sz8958dtx1",
+        "url": "https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1",
+        "source_url": "https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/",
+        "title": "The secret life of the xattr",
+        "author": "hoakley",
+        "image_url": "https://eclecticlight.co/wp-content/uploads/2023/05/fileobjects.png",
+        "word_count": 1905,
+        "summary": "Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-24T07:05:07.859000+00:00",
+        "last_moved_at": "2026-04-25T18:53:40.592000+00:00",
+        "published_date": "2026-04-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kp3dctz7gv9zqqkm3jxke3xf",
+        "url": "https://read.readwise.io/read/01kp3dctz7gv9zqqkm3jxke3xf",
+        "source_url": "https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email",
+        "title": "Why Isn't Everything Different Yet?",
+        "author": "Dave Griffith",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!mwpu!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-2110453728%26version%3D9",
+        "word_count": 1791,
+        "summary": "AI technology is impressive but changing everything takes time because systems, laws, and business models must be rebuilt from scratch. Software development is the first area transformed, but integrating AI widely requires millions of people to adapt workflows and trust the tools. Despite impatience, this transformation is happening very fast compared to past technologies and will soon feel much bigger.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1776083706291
+          },
+          "llm-devimpact": {
+            "name": "LLM-DevImpact",
+            "type": "manual",
+            "created": 1776083707048
+          },
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1776083704131
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-13T12:34:52.519000+00:00",
+        "last_moved_at": "2026-04-13T12:35:00.668000+00:00",
+        "published_date": "2026-04-10",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 8
+        }
       }
     ],
     "shortest": [
@@ -743,6 +659,39 @@
         }
       },
       {
+        "id": "01kq6rzkp8vkyh8aj1ah9ngd76",
+        "url": "https://read.readwise.io/read/01kq6rzkp8vkyh8aj1ah9ngd76",
+        "source_url": "https://samhenri.gold/blog/20260418-claude-design/",
+        "title": "Thoughts and Feelings around Claude Design",
+        "author": "samhenri.gold",
+        "image_url": "https://samhenri.gold/.netlify/images?url=_astro%2F20260418-claude-design.DKni9yQ3.jpg&fm=jpg&w=1200&h=630&dpl=69e3e9d4b6e7410008c9dc23",
+        "word_count": 1230,
+        "summary": "Figma’s design system is complex and hard to manage, making it frustrating for teams. Claude Design offers a simpler, code-based approach that connects design and development smoothly. The future of design tools will split between code-first systems like Claude and freeform creative apps without code.",
+        "notes": "Via Readwise newsletter, Via JoyAndCuriosity",
+        "tags": {
+          "claude": {
+            "name": "Claude",
+            "type": "manual",
+            "created": 1777270256834
+          },
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1777273116036
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-27T06:10:47.112000+00:00",
+        "last_moved_at": "2026-04-27T06:10:50.932000+00:00",
+        "published_date": "2026-04-18",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 6
+        }
+      },
+      {
         "id": "01kmet5erb6344eexjx5b10v35",
         "url": "https://read.readwise.io/read/01kmet5erb6344eexjx5b10v35",
         "source_url": "https://siddhantkhare.com/writing/ambition-tax",
@@ -762,28 +711,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
-        }
-      },
-      {
-        "id": "01kq4a4gbe0cawx2hvwqz008r4",
-        "url": "https://read.readwise.io/read/01kq4a4gbe0cawx2hvwqz008r4",
-        "source_url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
-        "title": "It's OK to Use Coding Assistance Tools To Revive The Projects You Never Were Going To Finish",
-        "author": "Matthew Brunelle's Blog",
-        "image_url": "https://blog.matthewbrunelle.com/content/images/2026/04/feishin_play_sub_standard.png",
-        "word_count": 1405,
-        "summary": "The author used AI coding tools to finish an old personal project that he never planned to complete. The AI helped quickly build a functional music streaming service by following a clear API specification. This shows how AI can revive stalled projects while still encouraging learning through harder challenges.",
-        "notes": "Via HackerNews",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-26T07:12:50.030000+00:00",
-        "last_moved_at": "2026-04-26T07:12:53.128000+00:00",
-        "published_date": "2026-04-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
         }
       },
       {
@@ -984,8 +911,42 @@
         "word_count": 1993,
         "summary": "Some tech companies like Meta and Microsoft created leaderboards to track AI token usage, which led to wasteful and excessive AI use called \"tokenmaxxing.\" This practice caused high costs and low-quality work, prompting backlash and changes like Meta removing its leaderboard. Shopify's careful approach with monitoring and limits shows a better way to encourage AI use without encouraging waste.",
         "notes": "",
-        "tags": {},
-        "highlights": [],
+        "tags": {
+          "definitions": {
+            "name": "Definitions",
+            "type": "manual",
+            "created": 1777278504886
+          }
+        },
+        "highlights": [
+          {
+            "id": "01kq70vexr3p6hbgz30wea1t9e",
+            "url": "https://read.readwise.io/read/01kq70vexr3p6hbgz30wea1t9e",
+            "source_url": null,
+            "title": null,
+            "author": null,
+            "source": "reader-web-app",
+            "category": "highlight",
+            "location": null,
+            "tags": {},
+            "site_name": null,
+            "word_count": null,
+            "notes": "",
+            "summary": null,
+            "image_url": null,
+            "parent_id": "01kpxsckj3veyzbhy69y9dhzyc",
+            "reading_progress": 0.0,
+            "content": "The practice is emblematic of Silicon Valley’s newest form of conspicuous consumption, known as “tokenmaxxing,” which has turned token usage into a benchmark for productivity and a competitive measure of who is most AI native. Workers are maximizing their prompts, coding sessions and the number of agents working in parallel to climb internal rankings at Meta and other companies and demonstrate their value as AI automates functions such as coding.",
+            "html_content": null,
+            "published_date": null,
+            "created_at": "2026-04-27T08:28:20.446987+00:00",
+            "updated_at": "2026-04-27T08:28:20.447001+00:00",
+            "saved_at": "2026-04-27T08:28:19.768000+00:00",
+            "first_opened_at": null,
+            "last_opened_at": null,
+            "last_moved_at": "2026-04-27T08:28:19.768000+00:00"
+          }
+        ],
         "saved_at": "2026-04-23T18:24:40.075000+00:00",
         "last_moved_at": "2026-04-24T04:55:08.994000+00:00",
         "published_date": "2026-04-23",
@@ -1263,28 +1224,6 @@
         }
       },
       {
-        "id": "01kq1zz1y6tfjxjk03b2k9h9q0",
-        "url": "https://read.readwise.io/read/01kq1zz1y6tfjxjk03b2k9h9q0",
-        "source_url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-        "title": "On sabotaging projects by overthinking",
-        "author": "kevinlynagh.com",
-        "image_url": null,
-        "word_count": 2614,
-        "summary": "The author explains how overthinking can stop projects from being finished by causing endless research and revisions. They describe their struggle with building a structural diff tool and the tools they explored. Finally, they plan to make a simple version first, then improve it step-by-step to avoid getting stuck again.",
-        "notes": "Via HackerNews",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-25T09:36:36.806000+00:00",
-        "last_moved_at": "2026-04-25T09:36:39.109000+00:00",
-        "published_date": "2026-04-20",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01ken0sk545cynvs3e44ezwrmc",
         "url": "https://read.readwise.io/read/01ken0sk545cynvs3e44ezwrmc",
         "source_url": "https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html?utm_source=tldrdev",
@@ -1422,6 +1361,28 @@
           "is_evergreen": false,
           "interest_score": 2
         }
+      },
+      {
+        "id": "01km5fqgjckw8znfxbjqybrm3c",
+        "url": "https://read.readwise.io/read/01km5fqgjckw8znfxbjqybrm3c",
+        "source_url": "https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev",
+        "title": "The MacBook Neo",
+        "author": "Daring Fireball",
+        "image_url": "https://daringfireball.net/graphics/df-wide-card.png",
+        "word_count": 3347,
+        "summary": "The MacBook Neo is a $600 laptop with the same powerful chip as the latest iPhone 16 Pro. It offers strong performance, good build quality, and runs full MacOS, making it a great choice for new Mac users and those wanting a portable secondary computer. Despite some minor flaws, it outperforms many similarly priced laptops and serves as a solid alternative to tablets like the iPad.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-03-20T11:22:44.684000+00:00",
+        "last_moved_at": "2026-03-20T11:22:49.301000+00:00",
+        "published_date": "2026-03-10",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 3
+        }
       }
     ],
     "quick_wins": [
@@ -1489,6 +1450,34 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 8
+        }
+      },
+      {
+        "id": "01kq6s328zb7gpddkzxw76ps68",
+        "url": "https://read.readwise.io/read/01kq6s328zb7gpddkzxw76ps68",
+        "source_url": "https://www.youtube.com/watch?v=7rzYDM6vMtI",
+        "title": "How I Created OpenClaw, the Breakthrough AI Agent | Peter Steinberger | TED",
+        "author": "TED",
+        "image_url": "https://i.ytimg.com/vi/7rzYDM6vMtI/sddefault.jpg",
+        "word_count": null,
+        "summary": "Peter Steinberger created OpenClaw, an AI agent that automates tasks and helps people build projects easily. The tool became very popular worldwide, changing how people work and create without needing programming skills. OpenClaw is open-source and aims to make AI fun, useful, and safe for everyone.",
+        "notes": "",
+        "tags": {
+          "openclaw": {
+            "name": "OpenClaw",
+            "type": "manual",
+            "created": 1777270377248
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-27T06:12:40.351000+00:00",
+        "last_moved_at": "2026-04-27T06:12:52.047000+00:00",
+        "published_date": "2026-04-18",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
         }
       },
       {
@@ -2399,8 +2388,42 @@
         "word_count": 1993,
         "summary": "Some tech companies like Meta and Microsoft created leaderboards to track AI token usage, which led to wasteful and excessive AI use called \"tokenmaxxing.\" This practice caused high costs and low-quality work, prompting backlash and changes like Meta removing its leaderboard. Shopify's careful approach with monitoring and limits shows a better way to encourage AI use without encouraging waste.",
         "notes": "",
-        "tags": {},
-        "highlights": [],
+        "tags": {
+          "definitions": {
+            "name": "Definitions",
+            "type": "manual",
+            "created": 1777278504886
+          }
+        },
+        "highlights": [
+          {
+            "id": "01kq70vexr3p6hbgz30wea1t9e",
+            "url": "https://read.readwise.io/read/01kq70vexr3p6hbgz30wea1t9e",
+            "source_url": null,
+            "title": null,
+            "author": null,
+            "source": "reader-web-app",
+            "category": "highlight",
+            "location": null,
+            "tags": {},
+            "site_name": null,
+            "word_count": null,
+            "notes": "",
+            "summary": null,
+            "image_url": null,
+            "parent_id": "01kpxsckj3veyzbhy69y9dhzyc",
+            "reading_progress": 0.0,
+            "content": "The practice is emblematic of Silicon Valley’s newest form of conspicuous consumption, known as “tokenmaxxing,” which has turned token usage into a benchmark for productivity and a competitive measure of who is most AI native. Workers are maximizing their prompts, coding sessions and the number of agents working in parallel to climb internal rankings at Meta and other companies and demonstrate their value as AI automates functions such as coding.",
+            "html_content": null,
+            "published_date": null,
+            "created_at": "2026-04-27T08:28:20.446987+00:00",
+            "updated_at": "2026-04-27T08:28:20.447001+00:00",
+            "saved_at": "2026-04-27T08:28:19.768000+00:00",
+            "first_opened_at": null,
+            "last_opened_at": null,
+            "last_moved_at": "2026-04-27T08:28:19.768000+00:00"
+          }
+        ],
         "saved_at": "2026-04-23T18:24:40.075000+00:00",
         "last_moved_at": "2026-04-24T04:55:08.994000+00:00",
         "published_date": "2026-04-23",
@@ -5118,28 +5141,6 @@
         }
       },
       {
-        "id": "01kq1zz1y6tfjxjk03b2k9h9q0",
-        "url": "https://read.readwise.io/read/01kq1zz1y6tfjxjk03b2k9h9q0",
-        "source_url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-        "title": "On sabotaging projects by overthinking",
-        "author": "kevinlynagh.com",
-        "image_url": null,
-        "word_count": 2614,
-        "summary": "The author explains how overthinking can stop projects from being finished by causing endless research and revisions. They describe their struggle with building a structural diff tool and the tools they explored. Finally, they plan to make a simple version first, then improve it step-by-step to avoid getting stuck again.",
-        "notes": "Via HackerNews",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-25T09:36:36.806000+00:00",
-        "last_moved_at": "2026-04-25T09:36:39.109000+00:00",
-        "published_date": "2026-04-20",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01ketz55qw4x3f1f548a95hc69",
         "url": "https://read.readwise.io/read/01ketz55qw4x3f1f548a95hc69",
         "source_url": "https://writethatblog.substack.com/p/technical-blogging-lessons-learned?utm_source=tldrdev",
@@ -5414,28 +5415,6 @@
         }
       },
       {
-        "id": "01kpfqsqcjj1pc8g79r2pe4g8p",
-        "url": "https://read.readwise.io/read/01kpfqsqcjj1pc8g79r2pe4g8p",
-        "source_url": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
-        "title": "You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models",
-        "author": "Logan Thorneloe",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!fARn!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb194c53f-7b2b-4f74-942b-5cf1c59b32aa_1920x1080.jpeg",
-        "word_count": 3456,
-        "summary": "You can run capable coding AI locally for much less than $100/month by upgrading your hardware.  \nLocal models need careful memory and tool choices, but even small models work well for most developer tasks.  \nThey save money and offer flexibility, though top cloud models can still be stronger on hard problems.",
-        "notes": "Via HN",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-18T07:27:33.779000+00:00",
-        "last_moved_at": "2026-04-18T07:27:39.860000+00:00",
-        "published_date": "2025-12-20",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
         "id": "01kfab8cadmd9nwh3npxbvvws4",
         "url": "https://read.readwise.io/read/01kfab8cadmd9nwh3npxbvvws4",
         "source_url": "https://builders.ramp.com/post/why-we-built-our-background-agent?utm_source=substack&utm_medium=email",
@@ -5460,128 +5439,6 @@
           "is_tutorial": true,
           "is_foundational": false,
           "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01ke9zfp6szzkfh4j6gjg01vje",
-        "url": "https://read.readwise.io/read/01ke9zfp6szzkfh4j6gjg01vje",
-        "source_url": "https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/",
-        "title": "Remote Claude Code: programing like it was the early 2000s",
-        "author": "Harper Reed <harper@modest.com>",
-        "image_url": "https://harper.blog/images/social_card_bg_harper_hu_f218fde3c30004ef.png",
-        "word_count": 1923,
-        "summary": "Harper Reed explains how he uses SSH and Tailscale to run Claude Code from his phone. He recommends a simple stack: Tailscale for networking, a reliable terminal app, and tools like mosh, SSH keys, and TMUX. With that setup you can run multiple Claude Code instances on your workstation and reconnect from your phone without losing work.",
-        "notes": "Харпер крутой. Из его поста год назад я научился грамотно работать с агентами! Жаль, он не часто пишет. \n\nЕщё бы чуть раньше этот пост появился, чтобы быстрее взять на вооружение Tailscale! ",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1777237950268
-          },
-          "claude": {
-            "name": "Claude",
-            "type": "manual",
-            "created": 1777237953521
-          },
-          "tailscale": {
-            "name": "Tailscale",
-            "type": "manual",
-            "created": 1777238940372
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kq5vn257wkw7vz06de7mxtpz",
-            "url": "https://read.readwise.io/read/01kq5vn257wkw7vz06de7mxtpz",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-mobile-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01ke9zfp6szzkfh4j6gjg01vje",
-            "reading_progress": 0.0,
-            "content": "Mosh is from a forgotten time (2012!) when the internet was slow, and connections were spotty. What mosh does is allow your “fragile” ssh connection to roam around with you. You use it just like ssh: mosh <dev-server-ip>. But now when you shut your laptop, or forget about your phone - the connection will pop back up when you surface it again. It allows the connection to survive a lot of the various environmental things that would normally derail a ssh connection.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-04-26T21:38:13.243212+00:00",
-            "updated_at": "2026-04-26T21:38:26.951349+00:00",
-            "saved_at": "2026-04-26T21:38:12.775000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-04-26T21:38:12.775000+00:00",
-            "notes_attached": [
-              {
-                "id": "01kq5vneyvf5nexf2raecf8wgw",
-                "url": "https://read.readwise.io/read/01kq5vneyvf5nexf2raecf8wgw",
-                "source_url": null,
-                "title": null,
-                "author": null,
-                "source": "reader-mobile-app",
-                "category": "note",
-                "location": null,
-                "tags": null,
-                "site_name": null,
-                "word_count": null,
-                "notes": "",
-                "summary": null,
-                "image_url": null,
-                "parent_id": "01kq5vn257wkw7vz06de7mxtpz",
-                "reading_progress": 0.0,
-                "content": "Полезная прога, надо взять на вооружение",
-                "html_content": null,
-                "published_date": null,
-                "created_at": "2026-04-26T21:38:26.338466+00:00",
-                "updated_at": "2026-04-26T21:38:26.338483+00:00",
-                "saved_at": "2026-04-26T21:38:25.883000+00:00",
-                "first_opened_at": null,
-                "last_opened_at": null,
-                "last_moved_at": "2026-04-26T21:38:25.883000+00:00"
-              }
-            ]
-          },
-          {
-            "id": "01kq5v0t6g8hz1c6p4n4va8vaj",
-            "url": "https://read.readwise.io/read/01kq5v0t6g8hz1c6p4n4va8vaj",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-mobile-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01ke9zfp6szzkfh4j6gjg01vje",
-            "reading_progress": 0.0,
-            "content": "One of my core values is: I want to just ssh into shit. That is kind of one of my general hobbies. Can I ssh into this thing? If yes, then I am happy. If no, then how can I make it so I can ssh into it.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-04-26T21:27:09.829838+00:00",
-            "updated_at": "2026-04-26T21:27:09.829852+00:00",
-            "saved_at": "2026-04-26T21:27:09.264000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-04-26T21:27:09.264000+00:00"
-          }
-        ],
-        "saved_at": "2026-01-06T15:40:52.314000+00:00",
-        "last_moved_at": "2026-01-06T15:40:54.421000+00:00",
-        "published_date": "2026-01-05",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": true,
           "interest_score": 9
         }
       },
@@ -5798,6 +5655,39 @@
           "is_tutorial": true,
           "is_foundational": true,
           "is_evergreen": true,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01kq6r43eh0tj3j5x4s151837c",
+        "url": "https://read.readwise.io/read/01kq6r43eh0tj3j5x4s151837c",
+        "source_url": "https://blog.matthewbrunelle.com/hello-walter-learning-rust-on-esp32/",
+        "title": "Hello Walter! Learning Rust on ESP32",
+        "author": "Matthew Brunelle's Blog",
+        "image_url": "https://blog.matthewbrunelle.com/content/images/2026/02/embassy_walter_hello_world.png",
+        "word_count": 1236,
+        "summary": "The author is building an embedded device to scan signals and log GPS data using the Walter ESP32-S3 board and Rust programming. They set up a complex development environment on NixOS to run the Embassy async framework for better multitasking. After overcoming setup challenges, they successfully ran a \"Hello World\" program and plan to expand the project further.",
+        "notes": "",
+        "tags": {
+          "rust": {
+            "name": "Rust",
+            "type": "manual",
+            "created": 1777269356027
+          },
+          "esp32": {
+            "name": "ESP32",
+            "type": "manual",
+            "created": 1777269353264
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-27T05:55:45.745000+00:00",
+        "last_moved_at": "2026-04-27T05:55:58.012000+00:00",
+        "published_date": "2026-02-28",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": false,
           "interest_score": 7
         }
       },
@@ -6491,6 +6381,39 @@
         }
       },
       {
+        "id": "01kq6r43eh0tj3j5x4s151837c",
+        "url": "https://read.readwise.io/read/01kq6r43eh0tj3j5x4s151837c",
+        "source_url": "https://blog.matthewbrunelle.com/hello-walter-learning-rust-on-esp32/",
+        "title": "Hello Walter! Learning Rust on ESP32",
+        "author": "Matthew Brunelle's Blog",
+        "image_url": "https://blog.matthewbrunelle.com/content/images/2026/02/embassy_walter_hello_world.png",
+        "word_count": 1236,
+        "summary": "The author is building an embedded device to scan signals and log GPS data using the Walter ESP32-S3 board and Rust programming. They set up a complex development environment on NixOS to run the Embassy async framework for better multitasking. After overcoming setup challenges, they successfully ran a \"Hello World\" program and plan to expand the project further.",
+        "notes": "",
+        "tags": {
+          "rust": {
+            "name": "Rust",
+            "type": "manual",
+            "created": 1777269356027
+          },
+          "esp32": {
+            "name": "ESP32",
+            "type": "manual",
+            "created": 1777269353264
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-27T05:55:45.745000+00:00",
+        "last_moved_at": "2026-04-27T05:55:58.012000+00:00",
+        "published_date": "2026-02-28",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": false,
+          "interest_score": 7
+        }
+      },
+      {
         "id": "01knrbv38h3exn38swf8dcxj41",
         "url": "https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41",
         "source_url": "https://werwolv.net/posts/usb_for_sw_devs/",
@@ -7063,28 +6986,6 @@
         }
       },
       {
-        "id": "01kpfqsqcjj1pc8g79r2pe4g8p",
-        "url": "https://read.readwise.io/read/01kpfqsqcjj1pc8g79r2pe4g8p",
-        "source_url": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
-        "title": "You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models",
-        "author": "Logan Thorneloe",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!fARn!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb194c53f-7b2b-4f74-942b-5cf1c59b32aa_1920x1080.jpeg",
-        "word_count": 3456,
-        "summary": "You can run capable coding AI locally for much less than $100/month by upgrading your hardware.  \nLocal models need careful memory and tool choices, but even small models work well for most developer tasks.  \nThey save money and offer flexibility, though top cloud models can still be stronger on hard problems.",
-        "notes": "Via HN",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-18T07:27:33.779000+00:00",
-        "last_moved_at": "2026-04-18T07:27:39.860000+00:00",
-        "published_date": "2025-12-20",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
         "id": "01kehqcxrgjpevpz78xx06w5mp",
         "url": "https://read.readwise.io/read/01kehqcxrgjpevpz78xx06w5mp",
         "source_url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
@@ -7357,28 +7258,6 @@
         }
       },
       {
-        "id": "01kq4a4gbe0cawx2hvwqz008r4",
-        "url": "https://read.readwise.io/read/01kq4a4gbe0cawx2hvwqz008r4",
-        "source_url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
-        "title": "It's OK to Use Coding Assistance Tools To Revive The Projects You Never Were Going To Finish",
-        "author": "Matthew Brunelle's Blog",
-        "image_url": "https://blog.matthewbrunelle.com/content/images/2026/04/feishin_play_sub_standard.png",
-        "word_count": 1405,
-        "summary": "The author used AI coding tools to finish an old personal project that he never planned to complete. The AI helped quickly build a functional music streaming service by following a clear API specification. This shows how AI can revive stalled projects while still encouraging learning through harder challenges.",
-        "notes": "Via HackerNews",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-26T07:12:50.030000+00:00",
-        "last_moved_at": "2026-04-26T07:12:53.128000+00:00",
-        "published_date": "2026-04-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
         "id": "01kcgefhszbsw1gk9vj18g5pn0",
         "url": "https://read.readwise.io/read/01kcgefhszbsw1gk9vj18g5pn0",
         "source_url": "https://alexop.dev/posts/building_ai_qa_engineer_claude_code_playwright/",
@@ -7583,6 +7462,67 @@
         }
       },
       {
+        "id": "01kq6r43eh0tj3j5x4s151837c",
+        "url": "https://read.readwise.io/read/01kq6r43eh0tj3j5x4s151837c",
+        "source_url": "https://blog.matthewbrunelle.com/hello-walter-learning-rust-on-esp32/",
+        "title": "Hello Walter! Learning Rust on ESP32",
+        "author": "Matthew Brunelle's Blog",
+        "image_url": "https://blog.matthewbrunelle.com/content/images/2026/02/embassy_walter_hello_world.png",
+        "word_count": 1236,
+        "summary": "The author is building an embedded device to scan signals and log GPS data using the Walter ESP32-S3 board and Rust programming. They set up a complex development environment on NixOS to run the Embassy async framework for better multitasking. After overcoming setup challenges, they successfully ran a \"Hello World\" program and plan to expand the project further.",
+        "notes": "",
+        "tags": {
+          "rust": {
+            "name": "Rust",
+            "type": "manual",
+            "created": 1777269356027
+          },
+          "esp32": {
+            "name": "ESP32",
+            "type": "manual",
+            "created": 1777269353264
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-27T05:55:45.745000+00:00",
+        "last_moved_at": "2026-04-27T05:55:58.012000+00:00",
+        "published_date": "2026-02-28",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": false,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01kq6s328zb7gpddkzxw76ps68",
+        "url": "https://read.readwise.io/read/01kq6s328zb7gpddkzxw76ps68",
+        "source_url": "https://www.youtube.com/watch?v=7rzYDM6vMtI",
+        "title": "How I Created OpenClaw, the Breakthrough AI Agent | Peter Steinberger | TED",
+        "author": "TED",
+        "image_url": "https://i.ytimg.com/vi/7rzYDM6vMtI/sddefault.jpg",
+        "word_count": null,
+        "summary": "Peter Steinberger created OpenClaw, an AI agent that automates tasks and helps people build projects easily. The tool became very popular worldwide, changing how people work and create without needing programming skills. OpenClaw is open-source and aims to make AI fun, useful, and safe for everyone.",
+        "notes": "",
+        "tags": {
+          "openclaw": {
+            "name": "OpenClaw",
+            "type": "manual",
+            "created": 1777270377248
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-27T06:12:40.351000+00:00",
+        "last_moved_at": "2026-04-27T06:12:52.047000+00:00",
+        "published_date": "2026-04-18",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
+        }
+      },
+      {
         "id": "01kjmw5d83t9105hqzkean823b",
         "url": "https://read.readwise.io/read/01kjmw5d83t9105hqzkean823b",
         "source_url": "https://boristane.com/blog/the-software-development-lifecycle-is-dead/?utm_source=substack&utm_medium=email",
@@ -7603,6 +7543,39 @@
         "saved_at": "2026-03-01T14:17:15.779000+00:00",
         "last_moved_at": "2026-03-01T14:17:19.408000+00:00",
         "published_date": "2026-02-20",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 6
+        }
+      },
+      {
+        "id": "01kq6rzkp8vkyh8aj1ah9ngd76",
+        "url": "https://read.readwise.io/read/01kq6rzkp8vkyh8aj1ah9ngd76",
+        "source_url": "https://samhenri.gold/blog/20260418-claude-design/",
+        "title": "Thoughts and Feelings around Claude Design",
+        "author": "samhenri.gold",
+        "image_url": "https://samhenri.gold/.netlify/images?url=_astro%2F20260418-claude-design.DKni9yQ3.jpg&fm=jpg&w=1200&h=630&dpl=69e3e9d4b6e7410008c9dc23",
+        "word_count": 1230,
+        "summary": "Figma’s design system is complex and hard to manage, making it frustrating for teams. Claude Design offers a simpler, code-based approach that connects design and development smoothly. The future of design tools will split between code-first systems like Claude and freeform creative apps without code.",
+        "notes": "Via Readwise newsletter, Via JoyAndCuriosity",
+        "tags": {
+          "claude": {
+            "name": "Claude",
+            "type": "manual",
+            "created": 1777270256834
+          },
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1777273116036
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-27T06:10:47.112000+00:00",
+        "last_moved_at": "2026-04-27T06:10:50.932000+00:00",
+        "published_date": "2026-04-18",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -7653,8 +7626,42 @@
         "word_count": 1993,
         "summary": "Some tech companies like Meta and Microsoft created leaderboards to track AI token usage, which led to wasteful and excessive AI use called \"tokenmaxxing.\" This practice caused high costs and low-quality work, prompting backlash and changes like Meta removing its leaderboard. Shopify's careful approach with monitoring and limits shows a better way to encourage AI use without encouraging waste.",
         "notes": "",
-        "tags": {},
-        "highlights": [],
+        "tags": {
+          "definitions": {
+            "name": "Definitions",
+            "type": "manual",
+            "created": 1777278504886
+          }
+        },
+        "highlights": [
+          {
+            "id": "01kq70vexr3p6hbgz30wea1t9e",
+            "url": "https://read.readwise.io/read/01kq70vexr3p6hbgz30wea1t9e",
+            "source_url": null,
+            "title": null,
+            "author": null,
+            "source": "reader-web-app",
+            "category": "highlight",
+            "location": null,
+            "tags": {},
+            "site_name": null,
+            "word_count": null,
+            "notes": "",
+            "summary": null,
+            "image_url": null,
+            "parent_id": "01kpxsckj3veyzbhy69y9dhzyc",
+            "reading_progress": 0.0,
+            "content": "The practice is emblematic of Silicon Valley’s newest form of conspicuous consumption, known as “tokenmaxxing,” which has turned token usage into a benchmark for productivity and a competitive measure of who is most AI native. Workers are maximizing their prompts, coding sessions and the number of agents working in parallel to climb internal rankings at Meta and other companies and demonstrate their value as AI automates functions such as coding.",
+            "html_content": null,
+            "published_date": null,
+            "created_at": "2026-04-27T08:28:20.446987+00:00",
+            "updated_at": "2026-04-27T08:28:20.447001+00:00",
+            "saved_at": "2026-04-27T08:28:19.768000+00:00",
+            "first_opened_at": null,
+            "last_opened_at": null,
+            "last_moved_at": "2026-04-27T08:28:19.768000+00:00"
+          }
+        ],
         "saved_at": "2026-04-23T18:24:40.075000+00:00",
         "last_moved_at": "2026-04-24T04:55:08.994000+00:00",
         "published_date": "2026-04-23",
@@ -10247,28 +10254,6 @@
         "saved_at": "2026-03-01T14:18:28.871000+00:00",
         "last_moved_at": "2026-03-01T14:18:32.352000+00:00",
         "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kq1zz1y6tfjxjk03b2k9h9q0",
-        "url": "https://read.readwise.io/read/01kq1zz1y6tfjxjk03b2k9h9q0",
-        "source_url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-        "title": "On sabotaging projects by overthinking",
-        "author": "kevinlynagh.com",
-        "image_url": null,
-        "word_count": 2614,
-        "summary": "The author explains how overthinking can stop projects from being finished by causing endless research and revisions. They describe their struggle with building a structural diff tool and the tools they explored. Finally, they plan to make a simple version first, then improve it step-by-step to avoid getting stuck again.",
-        "notes": "Via HackerNews",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-25T09:36:36.806000+00:00",
-        "last_moved_at": "2026-04-25T09:36:39.109000+00:00",
-        "published_date": "2026-04-20",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

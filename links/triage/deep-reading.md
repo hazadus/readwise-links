@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-04-27 04:24 UTC · Статей: 59
+Сгенерировано: 2026-04-28 04:26 UTC · Статей: 58
 
 ## Статьи
 
@@ -73,7 +73,7 @@ They are immutable and support persistent, transient, and temporary storage clas
     > **Резюме:** The Fn key first appeared in 1984 to help laptops mimic missing keys and control hardware functions. Apple recently introduced a new Globe (🌐) key, causing confusion with the traditional Fn key on external keyboards. Keyboard designs keep evolving, but many users face challenges due to different keys and shortcuts across devices.
 - [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y) 👤 aphyr.com 💬 2947 ⭐ 4 🔖 #llm, #joyandcuriosity 🗓️ 2026-04-13
     > **Резюме:** Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say "I don't know," leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.
-- [The Pulse: ‘Tokenmaxxing’ as a weird new trend](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/) [📖](https://read.readwise.io/read/01kpxsckj3veyzbhy69y9dhzyc) 👤 Gergely Orosz 💬 1993 ⭐ 4 🗓️ 2026-04-23
+- [The Pulse: ‘Tokenmaxxing’ as a weird new trend](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/) [📖](https://read.readwise.io/read/01kpxsckj3veyzbhy69y9dhzyc) 👤 Gergely Orosz 💬 1993 ⭐ 4 🔖 #definitions 🗓️ 2026-04-23
     > **Резюме:** Some tech companies like Meta and Microsoft created leaderboards to track AI token usage, which led to wasteful and excessive AI use called "tokenmaxxing." This practice caused high costs and low-quality work, prompting backlash and changes like Meta removing its leaderboard. Shopify's careful approach with monitoring and limits shows a better way to encourage AI use without encouraging waste.
 - [The Structure of Engineering Revolutions](https://webdirections.org/blog/the-structure-of-engineering-revolutions/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kkeb8d42rdtsnyrwfezxesgd) 👤 @johnallsopp 💬 4159 ⭐ 3 🗓️ 2026-03-11
     > **Резюме:** Experienced software engineers resist AI-assisted coding because it challenges their long-held beliefs and skills. This resistance follows a pattern of paradigm shifts described by Thomas Kuhn, where new ideas disrupt old frameworks. Despite skepticism, AI tools are proving to boost productivity and change software development fundamentally.
@@ -120,9 +120,6 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.
 - [how-did-i-get-here.net](https://how-did-i-get-here.net/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kba6m45a48andmwhtq45a7z0) 👤 Lexi 💬 2827 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2025-11-30 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** This site runs a traceroute to show the path your packets took across the Internet. Routers in different networks (autonomous systems) pass packets along using BGP routing. The traceroute lists those routers and ASes so you can see how reachability is determined.
-- [On sabotaging projects by overthinking](https://kevinlynagh.com/newsletter/2026_04_overthinking/) [📖](https://read.readwise.io/read/01kq1zz1y6tfjxjk03b2k9h9q0) 👤 kevinlynagh.com 💬 2614 ⭐ 2 🗓️ 2026-04-25
-    > **Заметка:** Via HackerNews
-    > **Резюме:** The author explains how overthinking can stop projects from being finished by causing endless research and revisions. They describe their struggle with building a structural diff tool and the tools they explored. Finally, they plan to make a simple version first, then improve it step-by-step to avoid getting stuck again.
 - [Technical blogging lessons learned](https://writethatblog.substack.com/p/technical-blogging-lessons-learned?utm_source=tldrdev) [📖](https://read.readwise.io/read/01ketz55qw4x3f1f548a95hc69) 👤 Cynthia Dunlop 💬 2540 ⭐ 2 🔖 #writing, #shortlist 🗓️ 2026-01-13 · 🌲 вечнозелёное
     > **Заметка:** В посте есть ссылки на отличные блоги (в частности, узнал отсюда про Preston Thorpe) - поэтому его надо читать внимательно и просмотреть связанные блоги.
     > **Резюме:** Writing regularly helps overcome doubts and improves skills over time. Focus on topics that interest you and your audience, even if others have written about them. Use simple tools, be honest, and don’t worry about perfection or criticism.

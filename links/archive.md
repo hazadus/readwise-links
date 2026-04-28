@@ -1,13 +1,17 @@
 # Архивные ссылки
 
-- Всего ссылок: 1603
+- Всего ссылок: 1607
 
 ## Ссылки
 
 - [— почему мученика изображали с головой собаки?](https://foma.ru/ikona-muchenika-hristofora-psoglavogo-svjatoj-nosivshij-hrista-na-plechah.html?utm_source=chatgpt.com) [📖](https://read.readwise.io/read/01kq5m1jbwqe022jg2h6c00gvq) 👤 https://www.facebook.com/foma.ru/ 💬 511 🗓️ 2026-04-26
 - [Thousands of consumer routers hacked by Russia's military](https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/) [📖](https://read.readwise.io/read/01kq4acgx5kbcehakxxfp6pnty) 👤 Dan Goodin 💬 802 🔖 #cybersecurity 🗓️ 2026-04-26
     > **Заметка:** Via HackerNews
+- [It's OK to Use Coding Assistance Tools To Revive The Projects You Never Were Going To Finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/) [📖](https://read.readwise.io/read/01kq4a4gbe0cawx2hvwqz008r4) 👤 Matthew Brunelle's Blog 💬 1405 🗓️ 2026-04-26
+    > **Заметка:** Интересный проект, жаль мне не подходит - не слушаю музыку через YouTube. Но - прекрасный пример персонального софта. Via HackerNews
 - [Updates to my AI Coding Workflow](https://refactoring.fm/p/updates-to-my-ai-coding-workflow) [📖](https://read.readwise.io/read/01kq21zexz2k3n54a2yswfc1pf) 👤 Luca Rossi 💬 1432 🗓️ 2026-04-25
+- [On sabotaging projects by overthinking](https://kevinlynagh.com/newsletter/2026_04_overthinking/) [📖](https://read.readwise.io/read/01kq1zz1y6tfjxjk03b2k9h9q0) 👤 kevinlynagh.com 💬 2614 🔖 #softwarecraft 🗓️ 2026-04-25
+    > **Заметка:** Via HackerNews
 - [Opus 4.7](https://ampcode.com/news/opus-4.7) [📖](https://read.readwise.io/read/01kq1z7rfpfew9gde3qd52d9ve) 👤 Amp News 💬 506 🔖 #amp 🗓️ 2026-04-25
 - [Software engineering may no longer be a lifetime career](https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/) [📖](https://read.readwise.io/read/01kpz68am3sp579pkf7ggym4gy) 👤 seangoedecke.com RSS feed 💬 849 🔖 #llm-devimpact 🗓️ 2026-04-24
 - [I don't want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kpz5e2tbx8wy0nw6sqbjr1zh) 👤 dpc.pw 💬 846 🔖 #foss, #llm-devimpact 🗓️ 2026-04-24
@@ -28,6 +32,8 @@ Via HackerNews
 - [Is Claude Code going to cost $100/month? Maybe, maybe not - it's all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything) [📖](https://read.readwise.io/read/01kpsf3pz6dzg2md44zmqpzspm) 👤 Simon Willison's Weblog 💬 939 🔖 #codex, #claude 🗓️ 2026-04-22
 - [Exploratory QA with AI Agents: Building a Site-Agnostic Harness](https://alexop.dev/posts/exploratory-qa-ai-agents-site-agnostic-harness/) [📖](https://read.readwise.io/read/01kpkpxp6w1s029akh17na8pr0) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2529 🔖 #codex, #agents, #claude, #testing, #frontend 🗓️ 2026-04-19
 - [AmneziaWG 2.0: как работает полная мимикрия трафика и чем она лучше обычной маскировки](https://www.securitylab.ru/blog/personal/Techno_Obzor/360094.php) [📖](https://read.readwise.io/read/01kpk6w3rd5extz9ay7g099743) 👤 Alexander Antipov 💬 1350 🔖 #dpi, #network 🗓️ 2026-04-19
+- [You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude) [📖](https://read.readwise.io/read/01kpfqsqcjj1pc8g79r2pe4g8p) 👤 Logan Thorneloe 💬 3456 🔖 #llm, #selfhost 🗓️ 2026-04-18
+    > **Заметка:** Интересный опыт, автор очень детально поразбирался с локальными моделями. Однако, имхо, без 32+ Гб там ловить нечего. И ещё интересен был бы тест на DevOps задачах - о них никто не пишет. Via HN
 - [Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/) [📖](https://read.readwise.io/read/01kpf8823kqtkr83w06a6w1npy) 👤 seangoedecke.com RSS feed 💬 1279 🔖 #llm 🗓️ 2026-04-18
 - [Codex for (almost) everything | OpenAI](https://openai.com/index/codex-for-almost-everything/) [📖](https://read.readwise.io/read/01kpc1m655bfsjvbxb9ph98b24) 👤 OpenAI 💬 11 🔖 #try, #codex 🗓️ 2026-04-16
 - [OpenAI Unveils Codex “Superapp” Update with Computer Use, Automations, Built-In Browser, and More](https://www.macstories.net/news/openai-unveils-codex-superapp-update-with-computer-use-automations-built-in-browser-and-more/) [📖](https://read.readwise.io/read/01kpbkwm7bxfgg7qtqjb0768ry) 👤 John Voorhees 💬 1044 🔖 #codex, #macos 🗓️ 2026-04-16
@@ -300,6 +306,10 @@ Via HackerNews
 - [How I Use Obsidian](https://calv.info/how-i-use-obsidian) [📖](https://read.readwise.io/read/01kem9nh2dzz602b8aas3wyysc) 👤 calv.info 💬 1374 🔖 #obsidian 🗓️ 2026-01-10
 - [Run Your Project in a Dev Container, in Zed](https://zed.dev/blog/dev-containers) [📖](https://read.readwise.io/read/01kehr19ta5qsh63nppwe6cv4n) 👤 Danilo LealKyle Barton 💬 1194 🔖 #zed, #devcontainer 🗓️ 2026-01-09
 - [A Metabolic Workspace](https://www.joanwestenberg.com/a-metabolic-workspace/?ref=westenberg-newsletter) [📖](https://read.readwise.io/read/01keh049ch3qtpq6nv19xst946) 👤 Westenberg. 💬 2361 🔖 #pkm, #productivity 🗓️ 2026-01-09
+- [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/) [📖](https://read.readwise.io/read/01ke9zfp6szzkfh4j6gjg01vje) 👤 Harper Reed <harper@modest.com> 💬 1923 🔖 #llm, #claude, #tailscale 🗓️ 2026-01-06
+    > **Заметка:** Харпер крутой. Из его поста год назад я научился грамотно работать с агентами! Жаль, он не часто пишет. 
+
+Ещё бы чуть раньше этот пост появился, чтобы быстрее взять на вооружение Tailscale! 
 - [Creating Your Own Opportunities](https://terriblesoftware.org/2026/01/05/creating-your-own-opportunities/) [📖](https://read.readwise.io/read/01ke9z6jgjtdgypb35ajqvr5bf) 👤 Terrible Software 💬 918 🔖 #career 🗓️ 2026-01-06
 - [33 ИНТЕРЕСНЫЕ инди-игры 2025 года I Битый Пиксель](https://www.youtube.com/watch?v=Hh014kw9e_I) [📖](https://read.readwise.io/read/01ke9yty45d8nhfj2d4gcwwa2h) 👤 Битый Пиксель 🗓️ 2026-01-06
 - [Fear is not advocacy](https://antonz.org/ai-advocacy/) [📖](https://read.readwise.io/read/01ke9xdwhd5bdjhb958pbxkhz0) 👤 Anton Zhiyanov 💬 263 🔖 #llm 🗓️ 2026-01-06

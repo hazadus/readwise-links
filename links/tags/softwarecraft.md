@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 43
+- Всего ссылок: 44
 
 ## Ссылки
 
+- [On sabotaging projects by overthinking](https://kevinlynagh.com/newsletter/2026_04_overthinking/) [📖](https://read.readwise.io/read/01kq1zz1y6tfjxjk03b2k9h9q0) 👤 kevinlynagh.com 💬 2614 🔖 #softwarecraft 🗓️ 2026-04-25
+    > **Заметка:** Via HackerNews
+    > **Резюме:** The author explains how overthinking can stop projects from being finished by causing endless research and revisions. They describe their struggle with building a structural diff tool and the tools they explored. Finally, they plan to make a simple version first, then improve it step-by-step to avoid getting stuck again.
 - [Principles of Mechanical Sympathy](https://martinfowler.com/articles/mechanical-sympathy-principles.html) [📖](https://read.readwise.io/read/01knq8rkmccq5tkspg0npbrmbd) 👤 Caer Sanders 💬 1748 🔖 #softwarecraft 🗓️ 2026-04-08
     > **Заметка:** О том, как внимание к техническим деталям железа позволяет писать более производительный софт. 
     > **Резюме:** Mechanical sympathy means understanding how hardware works to make software faster and more efficient. Key ideas include accessing memory sequentially, avoiding false sharing between CPU cores, and having a single thread write to shared data to reduce delays. Using these principles helps build better-performing systems at any scale.

@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 443
+- Всего ссылок: 444
 
 ## Ссылки
 
@@ -8,6 +8,11 @@
     > **Резюме:** DeepSeek V4 offers two new AI models that are very large but cost much less than other top models. The Flash and Pro versions are efficient, handling long contexts with fewer resources than before. Although not the absolute best yet, DeepSeek V4 is close to the frontier and very affordable.
 - [ИИ для самых маленьких: как работает LLM и ИИ-агент](https://www.youtube.com/watch?v=sSAIC8GQRe8) [📖](https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j) 👤 Диджитализируй! 🔖 #llm 🗓️ 2026-04-22
     > **Резюме:** Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.
+- [You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude) [📖](https://read.readwise.io/read/01kpfqsqcjj1pc8g79r2pe4g8p) 👤 Logan Thorneloe 💬 3456 🔖 #llm, #selfhost 🗓️ 2026-04-18
+    > **Заметка:** Интересный опыт, автор очень детально поразбирался с локальными моделями. Однако, имхо, без 32+ Гб там ловить нечего. И ещё интересен был бы тест на DevOps задачах - о них никто не пишет. Via HN
+    > **Резюме:** You can run capable coding AI locally for much less than $100/month by upgrading your hardware.  
+Local models need careful memory and tool choices, but even small models work well for most developer tasks.  
+They save money and offer flexibility, though top cloud models can still be stronger on hard problems.
 - [Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/) [📖](https://read.readwise.io/read/01kpf8823kqtkr83w06a6w1npy) 👤 seangoedecke.com RSS feed 💬 1279 🔖 #llm 🗓️ 2026-04-18
     > **Резюме:** Many anti-AI arguments use ideas that sound left-wing but actually come from conservative thinking. The author thinks AI has both good and bad effects, especially on jobs and the environment. The debate about AI is mixed and may change as political views shift.
 - [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y) 👤 aphyr.com 💬 2947 🔖 #llm, #joyandcuriosity 🗓️ 2026-04-13

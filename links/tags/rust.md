@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 25
+- Всего ссылок: 26
 
 ## Ссылки
 
+- [Hello Walter! Learning Rust on ESP32](https://blog.matthewbrunelle.com/hello-walter-learning-rust-on-esp32/) [📖](https://read.readwise.io/read/01kq6r43eh0tj3j5x4s151837c) 👤 Matthew Brunelle's Blog 💬 1236 🔖 #rust, #esp32 🗓️ 2026-04-27
+    > **Резюме:** The author is building an embedded device to scan signals and log GPS data using the Walter ESP32-S3 board and Rust programming. They set up a complex development environment on NixOS to run the Embassy async framework for better multitasking. After overcoming setup challenges, they successfully ran a "Hello World" program and plan to expand the project further.
 - [Farewell, Rust](https://yieldcode.blog/post/farewell-rust/) [📖](https://read.readwise.io/read/01kj07tvf74q9qh4nsk12xv9yq) 👤 Dmitry Kudryavtsev 💬 2784 🔖 #rust 🗓️ 2026-02-21
     > **Резюме:** The author learned Rust and built a web app but found web development better suited to dynamic languages like Node.js. Despite Rust's strengths in safety and performance, its tooling for web features like templating and internationalization is lacking. The author will use Rust for CPU-heavy or API tasks but prefers Node.js for web projects.
 - [Rust is bottom-up, Swift is top-down.](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kgkm3jnwpabbfxc13bbef210) 👤 nmn.sh 💬 1633 🔖 #rust, #swift 🗓️ 2026-02-04

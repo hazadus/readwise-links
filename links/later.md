@@ -1,20 +1,21 @@
 # Отложенные ссылки
 
-- Всего ссылок: 98
+- Всего ссылок: 97
 
 ## Ссылки
 
+- [How I Created OpenClaw, the Breakthrough AI Agent | Peter Steinberger | TED](https://www.youtube.com/watch?v=7rzYDM6vMtI) [📖](https://read.readwise.io/read/01kq6s328zb7gpddkzxw76ps68) 👤 TED 🔖 #openclaw 🗓️ 2026-04-27
+    > **Резюме:** Peter Steinberger created OpenClaw, an AI agent that automates tasks and helps people build projects easily. The tool became very popular worldwide, changing how people work and create without needing programming skills. OpenClaw is open-source and aims to make AI fun, useful, and safe for everyone.
+- [Thoughts and Feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/) [📖](https://read.readwise.io/read/01kq6rzkp8vkyh8aj1ah9ngd76) 👤 samhenri.gold 💬 1230 🔖 #claude, #joyandcuriosity 🗓️ 2026-04-27
+    > **Заметка:** Via Readwise newsletter, Via JoyAndCuriosity
+    > **Резюме:** Figma’s design system is complex and hard to manage, making it frustrating for teams. Claude Design offers a simpler, code-based approach that connects design and development smoothly. The future of design tools will split between code-first systems like Claude and freeform creative apps without code.
+- [Hello Walter! Learning Rust on ESP32](https://blog.matthewbrunelle.com/hello-walter-learning-rust-on-esp32/) [📖](https://read.readwise.io/read/01kq6r43eh0tj3j5x4s151837c) 👤 Matthew Brunelle's Blog 💬 1236 🔖 #rust, #esp32 🗓️ 2026-04-27
+    > **Резюме:** The author is building an embedded device to scan signals and log GPS data using the Walter ESP32-S3 board and Rust programming. They set up a complex development environment on NixOS to run the Embassy async framework for better multitasking. After overcoming setup challenges, they successfully ran a "Hello World" program and plan to expand the project further.
 - [What Async Promised and What it Delivered](https://causality.blog/essays/what-async-promised/) [📖](https://read.readwise.io/read/01kq4a66beh84d41apswqw5xsk) 👤 Causality 💬 2488 🗓️ 2026-04-26
     > **Заметка:** Via HackerNews
     > **Резюме:** Async programming evolved from callbacks to promises to async/await, each improving code readability but adding new challenges. Async/await makes asynchronous code look sequential, which helps for simple tasks but hides complexity in larger programs. Overall, these advances helped developers write async code easier but introduced new bugs and harder maintenance in big projects.
-- [It's OK to Use Coding Assistance Tools To Revive The Projects You Never Were Going To Finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/) [📖](https://read.readwise.io/read/01kq4a4gbe0cawx2hvwqz008r4) 👤 Matthew Brunelle's Blog 💬 1405 🗓️ 2026-04-26
-    > **Заметка:** Via HackerNews
-    > **Резюме:** The author used AI coding tools to finish an old personal project that he never planned to complete. The AI helped quickly build a functional music streaming service by following a clear API specification. This shows how AI can revive stalled projects while still encouraging learning through harder challenges.
 - [A Modern Quality Pipeline and Testing Strategy for Frontend Projects](https://alexop.dev/posts/modern-frontend-quality-pipeline/) [📖](https://read.readwise.io/read/01kq2k3gnqeh877w7kgfrnzs8a) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 3222 🗓️ 2026-04-25
     > **Резюме:** A modern frontend quality pipeline uses fast tools like Vite+, Oxlint, and Vitest to catch bugs early and run tests efficiently. It splits checks by cost and stage, from editor to CI and preview deployments, ensuring consistent quality across teams. This approach combines types, linting, unit, component, and end-to-end tests with automation to keep code reliable and easy to maintain.
-- [On sabotaging projects by overthinking](https://kevinlynagh.com/newsletter/2026_04_overthinking/) [📖](https://read.readwise.io/read/01kq1zz1y6tfjxjk03b2k9h9q0) 👤 kevinlynagh.com 💬 2614 🗓️ 2026-04-25
-    > **Заметка:** Via HackerNews
-    > **Резюме:** The author explains how overthinking can stop projects from being finished by causing endless research and revisions. They describe their struggle with building a structural diff tool and the tools they explored. Finally, they plan to make a simple version first, then improve it step-by-step to avoid getting stuck again.
 - [My audio interface has ssh enabled by default](https://hhh.hn/rodecaster-duo-fw/) [📖](https://read.readwise.io/read/01kq1zx0r4n33srh7vqaawdkzh) 👤 hhh.hn 💬 933 🗓️ 2026-04-25
     > **Заметка:** Via HackerNews
     > **Резюме:** The author bought a Rodecaster Duo for better audio during gaming and found it easy to use. They discovered the device has SSH enabled by default and allows easy firmware updates without signature checks. The author created custom firmware to access the device via SSH and reported the security concern to Rode.
@@ -31,18 +32,13 @@
     > **Резюме:** Shazam works by turning sounds into simple fingerprints that help identify songs. Most services send audio to a server with a huge database to find matches. Newer apps can do this on your phone using smaller databases and smart algorithms.
 - [Sign of the future: GPT-5.5](https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55) [📖](https://read.readwise.io/read/01kpxz29xms7005qe2ssdpsh0s) 👤 Ethan Mollick 💬 1539 🗓️ 2026-04-23
     > **Резюме:** GPT-5.5 is a big step forward in AI, showing faster and smarter abilities in coding, writing, and image generation. It can create complex tasks like academic papers and roleplaying games with little input. However, some challenges remain, such as flat fiction and less interesting ideas, showing AI still has room to grow.
-- [The Pulse: ‘Tokenmaxxing’ as a weird new trend](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/) [📖](https://read.readwise.io/read/01kpxsckj3veyzbhy69y9dhzyc) 👤 Gergely Orosz 💬 1993 🗓️ 2026-04-23
+- [The Pulse: ‘Tokenmaxxing’ as a weird new trend](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/) [📖](https://read.readwise.io/read/01kpxsckj3veyzbhy69y9dhzyc) 👤 Gergely Orosz 💬 1993 🔖 #definitions 🗓️ 2026-04-23
     > **Резюме:** Some tech companies like Meta and Microsoft created leaderboards to track AI token usage, which led to wasteful and excessive AI use called "tokenmaxxing." This practice caused high costs and low-quality work, prompting backlash and changes like Meta removing its leaderboard. Shopify's careful approach with monitoring and limits shows a better way to encourage AI use without encouraging waste.
 - [ИИ для самых маленьких: как работает LLM и ИИ-агент](https://www.youtube.com/watch?v=sSAIC8GQRe8) [📖](https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j) 👤 Диджитализируй! 🔖 #llm 🗓️ 2026-04-22
     > **Резюме:** Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.
 - [Intelligent Curation Tagging for Creative Workflows](https://qwelian.com/posts/FINE_SHYT_Intelligent_Curation_Tagging_for_Creative_Workflows) [📖](https://read.readwise.io/read/01kpmngdv5pg97fgh18ytem7jz) 👤 qwelian.com 💬 3370 🗓️ 2026-04-20
     > **Заметка:** Via HN
     > **Резюме:** This system helps organize large photo archives by using AI to describe and rate images based on personal taste. It works in stages, analyzing technical quality, extracting metadata, and learning from user ratings to improve recommendations. Ultimately, the AI supports but does not replace human judgment in choosing which photos to keep or export.
-- [You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude) [📖](https://read.readwise.io/read/01kpfqsqcjj1pc8g79r2pe4g8p) 👤 Logan Thorneloe 💬 3456 🗓️ 2026-04-18
-    > **Заметка:** Via HN
-    > **Резюме:** You can run capable coding AI locally for much less than $100/month by upgrading your hardware.  
-Local models need careful memory and tool choices, but even small models work well for most developer tasks.  
-They save money and offer flexibility, though top cloud models can still be stronger on hard problems.
 - [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y) 👤 aphyr.com 💬 2947 🔖 #llm, #joyandcuriosity 🗓️ 2026-04-13
     > **Резюме:** Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say "I don't know," leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.
 - [Why Isn't Everything Different Yet?](https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dctz7gv9zqqkm3jxke3xf) 👤 Dave Griffith 💬 1791 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
@@ -166,11 +162,6 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) [📖](https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96) 👤 Peter Steinberger 💬 3413 🔖 #llm 🗓️ 2026-01-09
     > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
-- [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/) [📖](https://read.readwise.io/read/01ke9zfp6szzkfh4j6gjg01vje) 👤 Harper Reed <harper@modest.com> 💬 1923 🔖 #llm, #claude, #tailscale 🗓️ 2026-01-06
-    > **Заметка:** Харпер крутой. Из его поста год назад я научился грамотно работать с агентами! Жаль, он не часто пишет. 
-
-Ещё бы чуть раньше этот пост появился, чтобы быстрее взять на вооружение Tailscale! 
-    > **Резюме:** Harper Reed explains how he uses SSH and Tailscale to run Claude Code from his phone. He recommends a simple stack: Tailscale for networking, a reliable terminal app, and tools like mosh, SSH keys, and TMUX. With that setup you can run multiple Claude Code instances on your workstation and reconnect from your phone without losing work.
 - [From Senior Engineer to Staff, with Angelic Assistance](https://davegriffith.substack.com/p/from-senior-engineer-to-staff-with) [📖](https://read.readwise.io/read/01ke9z29ytbhqp25karjrhxfb6) 👤 Dave Griffith 💬 1460 🗓️ 2026-01-06
     > **Резюме:** Dave Griffith argues that moving from senior to staff engineer requires three deliberate skills: deep expertise, visible impact, and intentional planning. Agentic AI tools now let engineers learn far faster, produce clearer evidence of their work, and build smarter promotion plans. He’s testing this playbook in real time and will share practical tactics in a series of posts.
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) [📖](https://read.readwise.io/read/01ke9z0vpb9xqf5ateyympwzpm) 👤 Nikita Prokopov 💬 2754 🗓️ 2026-01-06
