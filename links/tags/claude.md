@@ -5,7 +5,9 @@
 ## Ссылки
 
 - [Thoughts and Feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/) [📖](https://read.readwise.io/read/01kq6rzkp8vkyh8aj1ah9ngd76) 👤 samhenri.gold 💬 1230 🔖 #claude, #joyandcuriosity 🗓️ 2026-04-27
-    > **Заметка:** Via Readwise newsletter, Via JoyAndCuriosity
+    > **Заметка:** Пример того, что сейчас все более актуальны открытые для агентов системы. 
+
+Via Readwise newsletter, Via JoyAndCuriosity
     > **Резюме:** Figma’s design system is complex and hard to manage, making it frustrating for teams. Claude Design offers a simpler, code-based approach that connects design and development smoothly. The future of design tools will split between code-first systems like Claude and freeform creative apps without code.
 - [Is Claude Code going to cost $100/month? Maybe, maybe not - it's all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything) [📖](https://read.readwise.io/read/01kpsf3pz6dzg2md44zmqpzspm) 👤 Simon Willison's Weblog 💬 939 🔖 #codex, #claude 🗓️ 2026-04-22
     > **Резюме:** Anthropic quietly tested moving Claude Code from the $20 plan to $100/month plans, causing confusion and anger. This change risks losing trust and pushing users toward competitors like OpenAI's Codex. The author hopes Anthropic will keep Claude Code affordable to maintain user loyalty and accessibility.

@@ -5,7 +5,9 @@
 ## Ссылки
 
 - [Thoughts and Feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/) [📖](https://read.readwise.io/read/01kq6rzkp8vkyh8aj1ah9ngd76) 👤 samhenri.gold 💬 1230 🔖 #claude, #joyandcuriosity 🗓️ 2026-04-27
-    > **Заметка:** Via Readwise newsletter, Via JoyAndCuriosity
+    > **Заметка:** Пример того, что сейчас все более актуальны открытые для агентов системы. 
+
+Via Readwise newsletter, Via JoyAndCuriosity
     > **Резюме:** Figma’s design system is complex and hard to manage, making it frustrating for teams. Claude Design offers a simpler, code-based approach that connects design and development smoothly. The future of design tools will split between code-first systems like Claude and freeform creative apps without code.
 - [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y) 👤 aphyr.com 💬 2947 🔖 #llm, #joyandcuriosity 🗓️ 2026-04-13
     > **Резюме:** Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say "I don't know," leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.

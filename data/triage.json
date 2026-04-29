@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T04:26:01.894504+00:00",
+  "generated_at": "2026-04-29T04:23:08.707963+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -659,39 +659,6 @@
         }
       },
       {
-        "id": "01kq6rzkp8vkyh8aj1ah9ngd76",
-        "url": "https://read.readwise.io/read/01kq6rzkp8vkyh8aj1ah9ngd76",
-        "source_url": "https://samhenri.gold/blog/20260418-claude-design/",
-        "title": "Thoughts and Feelings around Claude Design",
-        "author": "samhenri.gold",
-        "image_url": "https://samhenri.gold/.netlify/images?url=_astro%2F20260418-claude-design.DKni9yQ3.jpg&fm=jpg&w=1200&h=630&dpl=69e3e9d4b6e7410008c9dc23",
-        "word_count": 1230,
-        "summary": "Figma’s design system is complex and hard to manage, making it frustrating for teams. Claude Design offers a simpler, code-based approach that connects design and development smoothly. The future of design tools will split between code-first systems like Claude and freeform creative apps without code.",
-        "notes": "Via Readwise newsletter, Via JoyAndCuriosity",
-        "tags": {
-          "claude": {
-            "name": "Claude",
-            "type": "manual",
-            "created": 1777270256834
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1777273116036
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-27T06:10:47.112000+00:00",
-        "last_moved_at": "2026-04-27T06:10:50.932000+00:00",
-        "published_date": "2026-04-18",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 6
-        }
-      },
-      {
         "id": "01kmet5erb6344eexjx5b10v35",
         "url": "https://read.readwise.io/read/01kmet5erb6344eexjx5b10v35",
         "source_url": "https://siddhantkhare.com/writing/ambition-tax",
@@ -899,62 +866,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 3
-        }
-      },
-      {
-        "id": "01kpxsckj3veyzbhy69y9dhzyc",
-        "url": "https://read.readwise.io/read/01kpxsckj3veyzbhy69y9dhzyc",
-        "source_url": "https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/",
-        "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
-        "author": "Gergely Orosz",
-        "image_url": "https://blog.pragmaticengineer.com/content/images/size/w256h256/2024/06/The-Pragmatic-Engineer-Blog-Publication-Icon--Logo-.png",
-        "word_count": 1993,
-        "summary": "Some tech companies like Meta and Microsoft created leaderboards to track AI token usage, which led to wasteful and excessive AI use called \"tokenmaxxing.\" This practice caused high costs and low-quality work, prompting backlash and changes like Meta removing its leaderboard. Shopify's careful approach with monitoring and limits shows a better way to encourage AI use without encouraging waste.",
-        "notes": "",
-        "tags": {
-          "definitions": {
-            "name": "Definitions",
-            "type": "manual",
-            "created": 1777278504886
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kq70vexr3p6hbgz30wea1t9e",
-            "url": "https://read.readwise.io/read/01kq70vexr3p6hbgz30wea1t9e",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-web-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kpxsckj3veyzbhy69y9dhzyc",
-            "reading_progress": 0.0,
-            "content": "The practice is emblematic of Silicon Valley’s newest form of conspicuous consumption, known as “tokenmaxxing,” which has turned token usage into a benchmark for productivity and a competitive measure of who is most AI native. Workers are maximizing their prompts, coding sessions and the number of agents working in parallel to climb internal rankings at Meta and other companies and demonstrate their value as AI automates functions such as coding.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-04-27T08:28:20.446987+00:00",
-            "updated_at": "2026-04-27T08:28:20.447001+00:00",
-            "saved_at": "2026-04-27T08:28:19.768000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-04-27T08:28:19.768000+00:00"
-          }
-        ],
-        "saved_at": "2026-04-23T18:24:40.075000+00:00",
-        "last_moved_at": "2026-04-24T04:55:08.994000+00:00",
-        "published_date": "2026-04-23",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 4
         }
       },
       {
@@ -1382,6 +1293,56 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 3
+        }
+      },
+      {
+        "id": "01kehqcxrgjpevpz78xx06w5mp",
+        "url": "https://read.readwise.io/read/01kehqcxrgjpevpz78xx06w5mp",
+        "source_url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
+        "title": "When AI writes almost all code, what happens to software engineering?",
+        "author": "Gergely Orosz",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!sLlF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd77a41b8-2e53-435d-9cf6-8298bd9af3e1_1146x822.png",
+        "word_count": 3371,
+        "summary": "AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-01-09T15:53:28.592000+00:00",
+        "last_moved_at": "2026-01-09T15:53:32.780000+00:00",
+        "published_date": "2026-01-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01keh0mtv65mmaj4vwam6etx96",
+        "url": "https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96",
+        "source_url": "https://steipete.me/posts/2025/shipping-at-inference-speed",
+        "title": "Shipping at Inference-Speed",
+        "author": "Peter Steinberger",
+        "image_url": "https://steipete.me/posts/2025/shipping-at-inference-speed/index.png",
+        "word_count": 3413,
+        "summary": "AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1767950180709
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-09T09:15:50.502000+00:00",
+        "last_moved_at": "2026-01-09T09:16:21.927000+00:00",
+        "published_date": "2025-12-28",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
         }
       }
     ],
@@ -2371,62 +2332,6 @@
         "saved_at": "2026-04-13T12:42:18.750000+00:00",
         "last_moved_at": "2026-04-13T12:42:22.960000+00:00",
         "published_date": "2026-04-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 4
-        }
-      },
-      {
-        "id": "01kpxsckj3veyzbhy69y9dhzyc",
-        "url": "https://read.readwise.io/read/01kpxsckj3veyzbhy69y9dhzyc",
-        "source_url": "https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/",
-        "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
-        "author": "Gergely Orosz",
-        "image_url": "https://blog.pragmaticengineer.com/content/images/size/w256h256/2024/06/The-Pragmatic-Engineer-Blog-Publication-Icon--Logo-.png",
-        "word_count": 1993,
-        "summary": "Some tech companies like Meta and Microsoft created leaderboards to track AI token usage, which led to wasteful and excessive AI use called \"tokenmaxxing.\" This practice caused high costs and low-quality work, prompting backlash and changes like Meta removing its leaderboard. Shopify's careful approach with monitoring and limits shows a better way to encourage AI use without encouraging waste.",
-        "notes": "",
-        "tags": {
-          "definitions": {
-            "name": "Definitions",
-            "type": "manual",
-            "created": 1777278504886
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kq70vexr3p6hbgz30wea1t9e",
-            "url": "https://read.readwise.io/read/01kq70vexr3p6hbgz30wea1t9e",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-web-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kpxsckj3veyzbhy69y9dhzyc",
-            "reading_progress": 0.0,
-            "content": "The practice is emblematic of Silicon Valley’s newest form of conspicuous consumption, known as “tokenmaxxing,” which has turned token usage into a benchmark for productivity and a competitive measure of who is most AI native. Workers are maximizing their prompts, coding sessions and the number of agents working in parallel to climb internal rankings at Meta and other companies and demonstrate their value as AI automates functions such as coding.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-04-27T08:28:20.446987+00:00",
-            "updated_at": "2026-04-27T08:28:20.447001+00:00",
-            "saved_at": "2026-04-27T08:28:19.768000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-04-27T08:28:19.768000+00:00"
-          }
-        ],
-        "saved_at": "2026-04-23T18:24:40.075000+00:00",
-        "last_moved_at": "2026-04-24T04:55:08.994000+00:00",
-        "published_date": "2026-04-23",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -7551,39 +7456,6 @@
         }
       },
       {
-        "id": "01kq6rzkp8vkyh8aj1ah9ngd76",
-        "url": "https://read.readwise.io/read/01kq6rzkp8vkyh8aj1ah9ngd76",
-        "source_url": "https://samhenri.gold/blog/20260418-claude-design/",
-        "title": "Thoughts and Feelings around Claude Design",
-        "author": "samhenri.gold",
-        "image_url": "https://samhenri.gold/.netlify/images?url=_astro%2F20260418-claude-design.DKni9yQ3.jpg&fm=jpg&w=1200&h=630&dpl=69e3e9d4b6e7410008c9dc23",
-        "word_count": 1230,
-        "summary": "Figma’s design system is complex and hard to manage, making it frustrating for teams. Claude Design offers a simpler, code-based approach that connects design and development smoothly. The future of design tools will split between code-first systems like Claude and freeform creative apps without code.",
-        "notes": "Via Readwise newsletter, Via JoyAndCuriosity",
-        "tags": {
-          "claude": {
-            "name": "Claude",
-            "type": "manual",
-            "created": 1777270256834
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1777273116036
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-27T06:10:47.112000+00:00",
-        "last_moved_at": "2026-04-27T06:10:50.932000+00:00",
-        "published_date": "2026-04-18",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 6
-        }
-      },
-      {
         "id": "01kp3dteqy8exn9m4t0kz3yp7y",
         "url": "https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y",
         "source_url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email",
@@ -7609,62 +7481,6 @@
         "saved_at": "2026-04-13T12:42:18.750000+00:00",
         "last_moved_at": "2026-04-13T12:42:22.960000+00:00",
         "published_date": "2026-04-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 4
-        }
-      },
-      {
-        "id": "01kpxsckj3veyzbhy69y9dhzyc",
-        "url": "https://read.readwise.io/read/01kpxsckj3veyzbhy69y9dhzyc",
-        "source_url": "https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/",
-        "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
-        "author": "Gergely Orosz",
-        "image_url": "https://blog.pragmaticengineer.com/content/images/size/w256h256/2024/06/The-Pragmatic-Engineer-Blog-Publication-Icon--Logo-.png",
-        "word_count": 1993,
-        "summary": "Some tech companies like Meta and Microsoft created leaderboards to track AI token usage, which led to wasteful and excessive AI use called \"tokenmaxxing.\" This practice caused high costs and low-quality work, prompting backlash and changes like Meta removing its leaderboard. Shopify's careful approach with monitoring and limits shows a better way to encourage AI use without encouraging waste.",
-        "notes": "",
-        "tags": {
-          "definitions": {
-            "name": "Definitions",
-            "type": "manual",
-            "created": 1777278504886
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kq70vexr3p6hbgz30wea1t9e",
-            "url": "https://read.readwise.io/read/01kq70vexr3p6hbgz30wea1t9e",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-web-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kpxsckj3veyzbhy69y9dhzyc",
-            "reading_progress": 0.0,
-            "content": "The practice is emblematic of Silicon Valley’s newest form of conspicuous consumption, known as “tokenmaxxing,” which has turned token usage into a benchmark for productivity and a competitive measure of who is most AI native. Workers are maximizing their prompts, coding sessions and the number of agents working in parallel to climb internal rankings at Meta and other companies and demonstrate their value as AI automates functions such as coding.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-04-27T08:28:20.446987+00:00",
-            "updated_at": "2026-04-27T08:28:20.447001+00:00",
-            "saved_at": "2026-04-27T08:28:19.768000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-04-27T08:28:19.768000+00:00"
-          }
-        ],
-        "saved_at": "2026-04-23T18:24:40.075000+00:00",
-        "last_moved_at": "2026-04-24T04:55:08.994000+00:00",
-        "published_date": "2026-04-23",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

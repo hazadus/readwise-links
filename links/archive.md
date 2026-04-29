@@ -1,9 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 1607
+- Всего ссылок: 1609
 
 ## Ссылки
 
+- [Thoughts and Feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/) [📖](https://read.readwise.io/read/01kq6rzkp8vkyh8aj1ah9ngd76) 👤 samhenri.gold 💬 1230 🔖 #claude, #joyandcuriosity 🗓️ 2026-04-27
+    > **Заметка:** Пример того, что сейчас все более актуальны открытые для агентов системы. 
+
+Via Readwise newsletter, Via JoyAndCuriosity
 - [— почему мученика изображали с головой собаки?](https://foma.ru/ikona-muchenika-hristofora-psoglavogo-svjatoj-nosivshij-hrista-na-plechah.html?utm_source=chatgpt.com) [📖](https://read.readwise.io/read/01kq5m1jbwqe022jg2h6c00gvq) 👤 https://www.facebook.com/foma.ru/ 💬 511 🗓️ 2026-04-26
 - [Thousands of consumer routers hacked by Russia's military](https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/) [📖](https://read.readwise.io/read/01kq4acgx5kbcehakxxfp6pnty) 👤 Dan Goodin 💬 802 🔖 #cybersecurity 🗓️ 2026-04-26
     > **Заметка:** Via HackerNews
@@ -25,6 +29,8 @@ Via TLDR
 Установил, попробую поработать в ней с заметками с основной работы. Послежу за развитием - не забросит ли её автор в ближайшее время?
 
 Via HackerNews
+- [The Pulse: ‘Tokenmaxxing’ as a weird new trend](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/) [📖](https://read.readwise.io/read/01kpxsckj3veyzbhy69y9dhzyc) 👤 Gergely Orosz 💬 1993 🔖 #llm, #definitions, #llm-devimpact 🗓️ 2026-04-23
+    > **Заметка:** Думается, когда волна хайпа спадёт, все придут к спокойному использованию LLM-инструментов – а не показному завышению объёмов их использования. 
 - [Courier: real-time messaging for ESP32 with batteries included (new library)](https://interconnected.org/home/2026/04/21/courier) [📖](https://read.readwise.io/read/01kpx8339m6cx9jbj00p2st6qx) 👤 Interconnected 💬 859 🔖 #try, #esp32 🗓️ 2026-04-23
     > **Заметка:** Нужно пробовать и прошивку из поста, и девайс!
 - [Headless everything for personal AI](https://interconnected.org/home/2026/04/18/headless) [📖](https://read.readwise.io/read/01kpwqt3x1xn81yx0g8f66dabc) 👤 Interconnected, a blog by Matt Webb 💬 1335 🔖 #predictions, #llm-devimpact 🗓️ 2026-04-23

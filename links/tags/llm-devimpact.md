@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 92
+- Всего ссылок: 93
 
 ## Ссылки
 
@@ -11,6 +11,9 @@
 
 Via TLDR
     > **Резюме:** The author prefers to make code changes himself using AI tools because reviewing others' pull requests takes too much time and can be risky. Instead, contributors can help by reporting bugs, discussing ideas, and sharing prototypes or prompts for reference. Forking the code to customize it independently is encouraged, as it saves time and allows personal use cases.
+- [The Pulse: ‘Tokenmaxxing’ as a weird new trend](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/) [📖](https://read.readwise.io/read/01kpxsckj3veyzbhy69y9dhzyc) 👤 Gergely Orosz 💬 1993 🔖 #llm, #definitions, #llm-devimpact 🗓️ 2026-04-23
+    > **Заметка:** Думается, когда волна хайпа спадёт, все придут к спокойному использованию LLM-инструментов – а не показному завышению объёмов их использования. 
+    > **Резюме:** Some tech companies like Meta and Microsoft created leaderboards to track AI token usage, which led to wasteful and excessive AI use called "tokenmaxxing." This practice caused high costs and low-quality work, prompting backlash and changes like Meta removing its leaderboard. Shopify's careful approach with monitoring and limits shows a better way to encourage AI use without encouraging waste.
 - [Headless everything for personal AI](https://interconnected.org/home/2026/04/18/headless) [📖](https://read.readwise.io/read/01kpwqt3x1xn81yx0g8f66dabc) 👤 Interconnected, a blog by Matt Webb 💬 1335 🔖 #predictions, #llm-devimpact 🗓️ 2026-04-23
     > **Резюме:** Apps and services will need to be "headless," offering tools for personal AI without visual interfaces. Command-line tools (CLIs) are ideal for this because they are secure, composable, and fit how AIs work best. Front-end design will focus more on brand feel than usability, as AIs will handle most tasks directly through these headless tools.
 - [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html) [📖](https://read.readwise.io/read/01kp632ptv5pkfnh36pv4w3cdf) 👤 Lewis Campbell's Blog 💬 617 🔖 #agile, #llm-devimpact 🗓️ 2026-04-14
