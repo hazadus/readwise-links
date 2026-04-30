@@ -1,9 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 1609
+- Всего ссылок: 1613
 
 ## Ссылки
 
+- [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) [📖](https://read.readwise.io/read/01kqbt811v3r140mdwb78kw6cb) 👤 Mitchell Hashimoto 💬 823 🔖 #github 🗓️ 2026-04-29
+- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) [📖](https://read.readwise.io/read/01kqaz6w1gpbt46g0n1kbeny9s) 👤 Armin Ronacher 💬 2307 🔖 #foss, #github, #predictions 🗓️ 2026-04-28
+    > **Заметка:** Да уж, прям тектонические сдвиги в ИТ пошли. Пора задуматься о переезде на Gitverse?..
+- [How I Created OpenClaw, the Breakthrough AI Agent | Peter Steinberger | TED](https://www.youtube.com/watch?v=7rzYDM6vMtI) [📖](https://read.readwise.io/read/01kq6s328zb7gpddkzxw76ps68) 👤 TED 🔖 #openclaw 🗓️ 2026-04-27
 - [Thoughts and Feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/) [📖](https://read.readwise.io/read/01kq6rzkp8vkyh8aj1ah9ngd76) 👤 samhenri.gold 💬 1230 🔖 #claude, #joyandcuriosity 🗓️ 2026-04-27
     > **Заметка:** Пример того, что сейчас все более актуальны открытые для агентов системы. 
 
@@ -18,6 +22,7 @@ Via Readwise newsletter, Via JoyAndCuriosity
     > **Заметка:** Via HackerNews
 - [Opus 4.7](https://ampcode.com/news/opus-4.7) [📖](https://read.readwise.io/read/01kq1z7rfpfew9gde3qd52d9ve) 👤 Amp News 💬 506 🔖 #amp 🗓️ 2026-04-25
 - [Software engineering may no longer be a lifetime career](https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/) [📖](https://read.readwise.io/read/01kpz68am3sp579pkf7ggym4gy) 👤 seangoedecke.com RSS feed 💬 849 🔖 #llm-devimpact 🗓️ 2026-04-24
+- [The Hottest AI Coding Skill In 2026? Coding Without AI](https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/) [📖](https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z) 👤 codemanship 💬 606 🔖 #predictions, #llm-devimpact 🗓️ 2026-04-24
 - [I don't want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kpz5e2tbx8wy0nw6sqbjr1zh) 👤 dpc.pw 💬 846 🔖 #foss, #llm-devimpact 🗓️ 2026-04-24
     > **Заметка:** Думаю, автор выражает взгляд многих мейнтейнеров. И очередное подтверждение: разработка никуда не делась, она просто сместилась от кода на чуть более высокий уровень. 
 

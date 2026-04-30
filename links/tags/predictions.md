@@ -1,9 +1,45 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 17
 
 ## Ссылки
 
+- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) [📖](https://read.readwise.io/read/01kqaz6w1gpbt46g0n1kbeny9s) 👤 Armin Ronacher 💬 2307 🔖 #foss, #github, #predictions 🗓️ 2026-04-28
+    > **Заметка:** Да уж, прям тектонические сдвиги в ИТ пошли. Пора задуматься о переезде на Gitverse?..
+    > **Резюме:** GitHub was not the first home of my Open Source software.  SourceForge
+was.
+Before GitHub, I had my own Trac installation.  I had Subversion repositories,
+tickets, tarballs, and documentation on infrastructure I controlled.  Later I
+moved projects to Bitbucket, back when Bitbucket still felt like a serious
+alternative place for Open Source projects, especially for people who were not
+all-in on Git yet.
+And then, eventually, GitHub became the place, and I moved all of it there.
+It is hard for me to overstate how important GitHub became in my life.  A large
+part of my Open Source identity formed there.  Projects I worked on found users
+there.  People found me there, and I found other people there.  Many professional
+relationships and many friendships started because some repository, issue, pull
+request, or comment thread made two people aware of each other.
+That is why I find what is happening to GitHub today so sad and so
+disappointing.  I do not look at it as just the folks at Microsoft making
+product decisions I dislike.  GitHub was part of the social infrastructure of
+Open Source for a very long time.  For many of us, it was not merely where the
+code lived; it was where a large part of the community lived.
+So when I think about GitHub’s decline, I also think about what came before it,
+and what might come after it.  I have written a few times over the years about
+dependencies, and in particular about the problem of micro
+dependencies.  In my mind, GitHub gave
+life to that phenomenon.  It was something I definitely did not completely
+support, but it also made Open Source more inclusive.  GitHub changed how Open
+Source feels,
+and later npm and other systems changed how dependencies feel.  Put them
+together and you get a world in which publishing code is almost frictionless,
+consuming code is almost frictionless, and the number of projects in the world
+explodes.
+That has many upsides.  But it is worth remembering that Open Source did not
+always work this way.
+A Sma...
+- [The Hottest AI Coding Skill In 2026? Coding Without AI](https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/) [📖](https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z) 👤 codemanship 💬 606 🔖 #predictions, #llm-devimpact 🗓️ 2026-04-24
+    > **Резюме:** In 2026, employers want developers who understand code deeply without relying on AI. Overusing AI tools can weaken programmers' skills and code comprehension. The best developers will be those who can solve problems on their own when AI fails.
 - [Headless everything for personal AI](https://interconnected.org/home/2026/04/18/headless) [📖](https://read.readwise.io/read/01kpwqt3x1xn81yx0g8f66dabc) 👤 Interconnected, a blog by Matt Webb 💬 1335 🔖 #predictions, #llm-devimpact 🗓️ 2026-04-23
     > **Резюме:** Apps and services will need to be "headless," offering tools for personal AI without visual interfaces. Command-line tools (CLIs) are ideal for this because they are secure, composable, and fit how AIs work best. Front-end design will focus more on brand feel than usability, as AIs will handle most tasks directly through these headless tools.
 - [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/) [📖](https://read.readwise.io/read/01knty8nfmf43acvx3b7j40wz2) 👤 James Bennett 💬 6431 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-04-10

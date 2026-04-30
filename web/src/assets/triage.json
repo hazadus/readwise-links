@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T04:23:08.707963+00:00",
+  "generated_at": "2026-04-30T04:24:30.001875+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -548,28 +548,6 @@
       }
     ],
     "shortest": [
-      {
-        "id": "01kpz61hzmjwwbcnwxnkhkms5z",
-        "url": "https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z",
-        "source_url": "https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/",
-        "title": "The Hottest AI Coding Skill In 2026? Coding Without AI",
-        "author": "codemanship",
-        "image_url": "https://codemanship.wordpress.com/wp-content/uploads/2017/08/cropped-codemanship3_twitter_avatar.jpg?w=192",
-        "word_count": 606,
-        "summary": "In 2026, employers want developers who understand code deeply without relying on AI. Overusing AI tools can weaken programmers' skills and code comprehension. The best developers will be those who can solve problems on their own when AI fails.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-24T07:25:03.933000+00:00",
-        "last_moved_at": "2026-04-25T18:55:42.922000+00:00",
-        "published_date": "2026-04-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 4
-        }
-      },
       {
         "id": "01kq1zx0r4n33srh7vqaawdkzh",
         "url": "https://read.readwise.io/read/01kq1zx0r4n33srh7vqaawdkzh",
@@ -1344,6 +1322,28 @@
           "is_evergreen": false,
           "interest_score": 8
         }
+      },
+      {
+        "id": "01knbv6r1n0rt1fmt8eye7m8c0",
+        "url": "https://read.readwise.io/read/01knbv6r1n0rt1fmt8eye7m8c0",
+        "source_url": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev",
+        "title": "Some uncomfortable truths about AI coding agents",
+        "author": "standupforme.app",
+        "image_url": "",
+        "word_count": 3485,
+        "summary": "AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.",
+        "notes": "Via TLDR Newsletter",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-04T08:54:26.613000+00:00",
+        "last_moved_at": "2026-04-04T08:54:31.257000+00:00",
+        "published_date": "2026-03-26",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
       }
     ],
     "quick_wins": [
@@ -1414,34 +1414,6 @@
         }
       },
       {
-        "id": "01kq6s328zb7gpddkzxw76ps68",
-        "url": "https://read.readwise.io/read/01kq6s328zb7gpddkzxw76ps68",
-        "source_url": "https://www.youtube.com/watch?v=7rzYDM6vMtI",
-        "title": "How I Created OpenClaw, the Breakthrough AI Agent | Peter Steinberger | TED",
-        "author": "TED",
-        "image_url": "https://i.ytimg.com/vi/7rzYDM6vMtI/sddefault.jpg",
-        "word_count": null,
-        "summary": "Peter Steinberger created OpenClaw, an AI agent that automates tasks and helps people build projects easily. The tool became very popular worldwide, changing how people work and create without needing programming skills. OpenClaw is open-source and aims to make AI fun, useful, and safe for everyone.",
-        "notes": "",
-        "tags": {
-          "openclaw": {
-            "name": "OpenClaw",
-            "type": "manual",
-            "created": 1777270377248
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-27T06:12:40.351000+00:00",
-        "last_moved_at": "2026-04-27T06:12:52.047000+00:00",
-        "published_date": "2026-04-18",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
         "id": "01kq1qvcw1ftk6sw7h27tzjwp4",
         "url": "https://read.readwise.io/read/01kq1qvcw1ftk6sw7h27tzjwp4",
         "source_url": "https://eclecticlight.co/2026/04/25/explainer-network-file-systems/",
@@ -1461,28 +1433,6 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 5
-        }
-      },
-      {
-        "id": "01kpz61hzmjwwbcnwxnkhkms5z",
-        "url": "https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z",
-        "source_url": "https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/",
-        "title": "The Hottest AI Coding Skill In 2026? Coding Without AI",
-        "author": "codemanship",
-        "image_url": "https://codemanship.wordpress.com/wp-content/uploads/2017/08/cropped-codemanship3_twitter_avatar.jpg?w=192",
-        "word_count": 606,
-        "summary": "In 2026, employers want developers who understand code deeply without relying on AI. Overusing AI tools can weaken programmers' skills and code comprehension. The best developers will be those who can solve problems on their own when AI fails.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-24T07:25:03.933000+00:00",
-        "last_moved_at": "2026-04-25T18:55:42.922000+00:00",
-        "published_date": "2026-04-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 4
         }
       },
       {
@@ -7400,34 +7350,6 @@
         }
       },
       {
-        "id": "01kq6s328zb7gpddkzxw76ps68",
-        "url": "https://read.readwise.io/read/01kq6s328zb7gpddkzxw76ps68",
-        "source_url": "https://www.youtube.com/watch?v=7rzYDM6vMtI",
-        "title": "How I Created OpenClaw, the Breakthrough AI Agent | Peter Steinberger | TED",
-        "author": "TED",
-        "image_url": "https://i.ytimg.com/vi/7rzYDM6vMtI/sddefault.jpg",
-        "word_count": null,
-        "summary": "Peter Steinberger created OpenClaw, an AI agent that automates tasks and helps people build projects easily. The tool became very popular worldwide, changing how people work and create without needing programming skills. OpenClaw is open-source and aims to make AI fun, useful, and safe for everyone.",
-        "notes": "",
-        "tags": {
-          "openclaw": {
-            "name": "OpenClaw",
-            "type": "manual",
-            "created": 1777270377248
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-27T06:12:40.351000+00:00",
-        "last_moved_at": "2026-04-27T06:12:52.047000+00:00",
-        "published_date": "2026-04-18",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
         "id": "01kjmw5d83t9105hqzkean823b",
         "url": "https://read.readwise.io/read/01kjmw5d83t9105hqzkean823b",
         "source_url": "https://boristane.com/blog/the-software-development-lifecycle-is-dead/?utm_source=substack&utm_medium=email",
@@ -7481,28 +7403,6 @@
         "saved_at": "2026-04-13T12:42:18.750000+00:00",
         "last_moved_at": "2026-04-13T12:42:22.960000+00:00",
         "published_date": "2026-04-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 4
-        }
-      },
-      {
-        "id": "01kpz61hzmjwwbcnwxnkhkms5z",
-        "url": "https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z",
-        "source_url": "https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/",
-        "title": "The Hottest AI Coding Skill In 2026? Coding Without AI",
-        "author": "codemanship",
-        "image_url": "https://codemanship.wordpress.com/wp-content/uploads/2017/08/cropped-codemanship3_twitter_avatar.jpg?w=192",
-        "word_count": 606,
-        "summary": "In 2026, employers want developers who understand code deeply without relying on AI. Overusing AI tools can weaken programmers' skills and code comprehension. The best developers will be those who can solve problems on their own when AI fails.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-24T07:25:03.933000+00:00",
-        "last_moved_at": "2026-04-25T18:55:42.922000+00:00",
-        "published_date": "2026-04-24",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

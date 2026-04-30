@@ -1,9 +1,45 @@
 # Ссылки
 
-- Всего ссылок: 34
+- Всего ссылок: 36
 
 ## Ссылки
 
+- [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) [📖](https://read.readwise.io/read/01kqbt811v3r140mdwb78kw6cb) 👤 Mitchell Hashimoto 💬 823 🔖 #github 🗓️ 2026-04-29
+    > **Резюме:** Mitchell Hashimoto is moving his Ghostty project away from GitHub after 18 years of daily use. He feels GitHub has become unreliable and blocks his work too often. He hopes to return someday but needs real improvements first.
+- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) [📖](https://read.readwise.io/read/01kqaz6w1gpbt46g0n1kbeny9s) 👤 Armin Ronacher 💬 2307 🔖 #foss, #github, #predictions 🗓️ 2026-04-28
+    > **Заметка:** Да уж, прям тектонические сдвиги в ИТ пошли. Пора задуматься о переезде на Gitverse?..
+    > **Резюме:** GitHub was not the first home of my Open Source software.  SourceForge
+was.
+Before GitHub, I had my own Trac installation.  I had Subversion repositories,
+tickets, tarballs, and documentation on infrastructure I controlled.  Later I
+moved projects to Bitbucket, back when Bitbucket still felt like a serious
+alternative place for Open Source projects, especially for people who were not
+all-in on Git yet.
+And then, eventually, GitHub became the place, and I moved all of it there.
+It is hard for me to overstate how important GitHub became in my life.  A large
+part of my Open Source identity formed there.  Projects I worked on found users
+there.  People found me there, and I found other people there.  Many professional
+relationships and many friendships started because some repository, issue, pull
+request, or comment thread made two people aware of each other.
+That is why I find what is happening to GitHub today so sad and so
+disappointing.  I do not look at it as just the folks at Microsoft making
+product decisions I dislike.  GitHub was part of the social infrastructure of
+Open Source for a very long time.  For many of us, it was not merely where the
+code lived; it was where a large part of the community lived.
+So when I think about GitHub’s decline, I also think about what came before it,
+and what might come after it.  I have written a few times over the years about
+dependencies, and in particular about the problem of micro
+dependencies.  In my mind, GitHub gave
+life to that phenomenon.  It was something I definitely did not completely
+support, but it also made Open Source more inclusive.  GitHub changed how Open
+Source feels,
+and later npm and other systems changed how dependencies feel.  Put them
+together and you get a world in which publishing code is almost frictionless,
+consuming code is almost frictionless, and the number of projects in the world
+explodes.
+That has many upsides.  But it is worth remembering that Open Source did not
+always work this way.
+A Sma...
 - [GitHub Stacked PRs | GitHub Stacked PRs](https://github.github.com/gh-stack/) [📖](https://read.readwise.io/read/01kp56k5rvhe3s3r8b87bd5z4q) 👤 github.com 💬 540 🔖 #github 🗓️ 2026-04-14
     > **Резюме:** GitHub Stacked PRs lets you break big code changes into small, linked pull requests that are easy to review and merge. You can manage these stacked PRs directly in GitHub or use the gh stack command-line tool to work faster. This helps teams avoid conflicts and speed up the review process by focusing on one change at a time.
 - [Does GitHub still merit “top git platform for AI-native development” status?](https://newsletter.pragmaticengineer.com/p/does-github-still-merit-top-git-platform?utm_source=tldrdev&triedRedirect=true) [📖](https://read.readwise.io/read/01knqa7519j63p1dtafa795050) 👤 Gergely Orosz 💬 1559 🔖 #github 🗓️ 2026-04-08

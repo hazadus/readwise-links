@@ -1,11 +1,9 @@
 # Отложенные ссылки
 
-- Всего ссылок: 95
+- Всего ссылок: 93
 
 ## Ссылки
 
-- [How I Created OpenClaw, the Breakthrough AI Agent | Peter Steinberger | TED](https://www.youtube.com/watch?v=7rzYDM6vMtI) [📖](https://read.readwise.io/read/01kq6s328zb7gpddkzxw76ps68) 👤 TED 🔖 #openclaw 🗓️ 2026-04-27
-    > **Резюме:** Peter Steinberger created OpenClaw, an AI agent that automates tasks and helps people build projects easily. The tool became very popular worldwide, changing how people work and create without needing programming skills. OpenClaw is open-source and aims to make AI fun, useful, and safe for everyone.
 - [Hello Walter! Learning Rust on ESP32](https://blog.matthewbrunelle.com/hello-walter-learning-rust-on-esp32/) [📖](https://read.readwise.io/read/01kq6r43eh0tj3j5x4s151837c) 👤 Matthew Brunelle's Blog 💬 1236 🔖 #rust, #esp32 🗓️ 2026-04-27
     > **Резюме:** The author is building an embedded device to scan signals and log GPS data using the Walter ESP32-S3 board and Rust programming. They set up a complex development environment on NixOS to run the Embassy async framework for better multitasking. After overcoming setup challenges, they successfully ran a "Hello World" program and plan to expand the project further.
 - [What Async Promised and What it Delivered](https://causality.blog/essays/what-async-promised/) [📖](https://read.readwise.io/read/01kq4a66beh84d41apswqw5xsk) 👤 Causality 💬 2488 🗓️ 2026-04-26
@@ -20,8 +18,6 @@
     > **Резюме:** Network file systems like AFP and SMB let Macs access files over a network instead of local storage. AFP was the main Mac network protocol until 2013, when SMB became the standard despite some limitations with special Mac file features. Both have challenges with newer APFS file types, causing inefficiencies in file sharing.
 - [USB in a NutShell](https://www.beyondlogic.org/usbnutshell/usb1.shtml) [📖](https://read.readwise.io/read/01kpzrr28fjd6a6pknn9d5hvt5) 👤 beyondlogic.org 💬 2022 🔖 #usb 🗓️ 2026-04-24
     > **Резюме:** The USB standard can initially seem overwhelming due to its extensive documentation, but not all sections are essential to read thoroughly. For those designing USB peripherals, focusing on specific chapters like Architectural Overview, USB Data Flow Model, USB Device Frame Work, and USB Host Hardware and Software can provide the necessary insights. Understanding the different speeds, bus topology, architecture, and controller interfaces of USB is crucial for developing devices efficiently within the USB framework. The document also touches on the benefits of USB's tiered star topology, power monitoring capabilities, support for multiple devices, and the evolution of USB host controllers to accommodate increasing bandwidth demands.
-- [The Hottest AI Coding Skill In 2026? Coding Without AI](https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/) [📖](https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z) 👤 codemanship 💬 606 🗓️ 2026-04-24
-    > **Резюме:** In 2026, employers want developers who understand code deeply without relying on AI. Overusing AI tools can weaken programmers' skills and code comprehension. The best developers will be those who can solve problems on their own when AI fails.
 - [The secret life of the xattr](https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/) [📖](https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1) 👤 hoakley 💬 1905 🗓️ 2026-04-24
     > **Резюме:** Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.
 - [How The Heck Does Shazam Work?](https://perthirtysix.com/how-the-heck-does-shazam-work?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kpz4vpybbrxvhjkmh2xfx21r) 👤 Shri Khalpada 💬 521 🔖 #explorable 🗓️ 2026-04-24

@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 93
+- Всего ссылок: 94
 
 ## Ссылки
 
 - [Software engineering may no longer be a lifetime career](https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/) [📖](https://read.readwise.io/read/01kpz68am3sp579pkf7ggym4gy) 👤 seangoedecke.com RSS feed 💬 849 🔖 #llm-devimpact 🗓️ 2026-04-24
     > **Резюме:** Using AI in software engineering may reduce how much engineers learn and weaken their skills over time. Even if this happens, engineers might still need to use AI to keep their jobs and stay competitive. This could mean software engineering careers might not last as long as they used to, similar to the short careers of professional athletes.
+- [The Hottest AI Coding Skill In 2026? Coding Without AI](https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/) [📖](https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z) 👤 codemanship 💬 606 🔖 #predictions, #llm-devimpact 🗓️ 2026-04-24
+    > **Резюме:** In 2026, employers want developers who understand code deeply without relying on AI. Overusing AI tools can weaken programmers' skills and code comprehension. The best developers will be those who can solve problems on their own when AI fails.
 - [I don't want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kpz5e2tbx8wy0nw6sqbjr1zh) 👤 dpc.pw 💬 846 🔖 #foss, #llm-devimpact 🗓️ 2026-04-24
     > **Заметка:** Думаю, автор выражает взгляд многих мейнтейнеров. И очередное подтверждение: разработка никуда не делась, она просто сместилась от кода на чуть более высокий уровень. 
 

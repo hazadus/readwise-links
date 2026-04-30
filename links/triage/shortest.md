@@ -2,12 +2,10 @@
 
 _Короткие статьи (не туториалы, не основы), отсортированные по объёму_
 
-Сгенерировано: 2026-04-29 04:23 UTC · Статей: 30
+Сгенерировано: 2026-04-30 04:24 UTC · Статей: 30
 
 ## Статьи
 
-- [The Hottest AI Coding Skill In 2026? Coding Without AI](https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/) [📖](https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z) 👤 codemanship 💬 606 ⭐ 4 🗓️ 2026-04-24
-    > **Резюме:** In 2026, employers want developers who understand code deeply without relying on AI. Overusing AI tools can weaken programmers' skills and code comprehension. The best developers will be those who can solve problems on their own when AI fails.
 - [My audio interface has ssh enabled by default](https://hhh.hn/rodecaster-duo-fw/) [📖](https://read.readwise.io/read/01kq1zx0r4n33srh7vqaawdkzh) 👤 hhh.hn 💬 933 ⭐ 2 🗓️ 2026-04-25
     > **Заметка:** Via HackerNews
     > **Резюме:** The author bought a Rodecaster Duo for better audio during gaming and found it easy to use. They discovered the device has SSH enabled by default and allows easy firmware updates without signature checks. The author created custom firmware to access the device via SSH and reported the security concern to Rode.
@@ -75,3 +73,6 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) [📖](https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96) 👤 Peter Steinberger 💬 3413 ⭐ 8 🔖 #llm 🗓️ 2026-01-09
     > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
+- [Some uncomfortable truths about AI coding agents](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01knbv6r1n0rt1fmt8eye7m8c0) 👤 standupforme.app 💬 3485 ⭐ 8 🗓️ 2026-04-04
+    > **Заметка:** Via TLDR Newsletter
+    > **Резюме:** AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.

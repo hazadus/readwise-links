@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-04-29 04:23 UTC · Статей: 49
+Сгенерировано: 2026-04-30 04:24 UTC · Статей: 47
 
 ## Статьи
 
@@ -51,14 +51,10 @@ _Актуальный контент, который может устареть
     > **Резюме:** This blog post explains how to use Claude.ai's CSV analysis feature with Readwise data for better insights. It highlights the importance of crafting specific prompts to extract meaningful information and create visualizations. The tutorial also touches on the technical aspects of how Claude processes and analyzes the data.
 - [Hello Walter! Learning Rust on ESP32](https://blog.matthewbrunelle.com/hello-walter-learning-rust-on-esp32/) [📖](https://read.readwise.io/read/01kq6r43eh0tj3j5x4s151837c) 👤 Matthew Brunelle's Blog 💬 1236 ⭐ 7 🔖 #rust, #esp32 🗓️ 2026-04-27 · 🛠️ туториал, 🧠 основы
     > **Резюме:** The author is building an embedded device to scan signals and log GPS data using the Walter ESP32-S3 board and Rust programming. They set up a complex development environment on NixOS to run the Embassy async framework for better multitasking. After overcoming setup challenges, they successfully ran a "Hello World" program and plan to expand the project further.
-- [How I Created OpenClaw, the Breakthrough AI Agent | Peter Steinberger | TED](https://www.youtube.com/watch?v=7rzYDM6vMtI) [📖](https://read.readwise.io/read/01kq6s328zb7gpddkzxw76ps68) 👤 TED ⭐ 7 🔖 #openclaw 🗓️ 2026-04-27
-    > **Резюме:** Peter Steinberger created OpenClaw, an AI agent that automates tasks and helps people build projects easily. The tool became very popular worldwide, changing how people work and create without needing programming skills. OpenClaw is open-source and aims to make AI fun, useful, and safe for everyone.
 - [The Software Development Lifecycle Is Dead](https://boristane.com/blog/the-software-development-lifecycle-is-dead/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw5d83t9105hqzkean823b) 👤 Boris Tane 💬 1702 ⭐ 6 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** Software development no longer follows fixed steps but relies on agents that write code, test, and deploy continuously. Humans guide the agents by providing context and reviewing complex decisions, while agents handle routine tasks and fix issues automatically. This shift enables faster, automated releases with minimal human intervention, changing how teams work and monitor software.
 - [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y) 👤 aphyr.com 💬 2947 ⭐ 4 🔖 #llm, #joyandcuriosity 🗓️ 2026-04-13
     > **Резюме:** Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say "I don't know," leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.
-- [The Hottest AI Coding Skill In 2026? Coding Without AI](https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/) [📖](https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z) 👤 codemanship 💬 606 ⭐ 4 🗓️ 2026-04-24
-    > **Резюме:** In 2026, employers want developers who understand code deeply without relying on AI. Overusing AI tools can weaken programmers' skills and code comprehension. The best developers will be those who can solve problems on their own when AI fails.
 - [The Structure of Engineering Revolutions](https://webdirections.org/blog/the-structure-of-engineering-revolutions/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kkeb8d42rdtsnyrwfezxesgd) 👤 @johnallsopp 💬 4159 ⭐ 3 🗓️ 2026-03-11
     > **Резюме:** Experienced software engineers resist AI-assisted coding because it challenges their long-held beliefs and skills. This resistance follows a pattern of paradigm shifts described by Thomas Kuhn, where new ideas disrupt old frameworks. Despite skepticism, AI tools are proving to boost productivity and change software development fundamentally.
 - [The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev) [📖](https://read.readwise.io/read/01km5fqgjckw8znfxbjqybrm3c) 👤 Daring Fireball 💬 3347 ⭐ 3 🗓️ 2026-03-20

@@ -2,7 +2,7 @@
 
 _Короткие интересные статьи (до 800 слов), не туториалы_
 
-Сгенерировано: 2026-04-29 04:23 UTC · Статей: 7
+Сгенерировано: 2026-04-30 04:24 UTC · Статей: 5
 
 ## Статьи
 
@@ -11,12 +11,8 @@ _Короткие интересные статьи (до 800 слов), не т
 - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3) 👤 ngrok 💬 78 ⭐ 8 🔖 #llm, #explorable, #joyandcuriosity 🗓️ 2025-12-21 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/6947a45b-3860-8331-a302-0c3a55ab5594
     > **Резюме:** Prompt caching stores and reuses parts of LLM requests to avoid repeating work. This cuts token usage and cost by up to tenfold. It requires tracking inputs, outputs, and cache validity to stay correct.
-- [How I Created OpenClaw, the Breakthrough AI Agent | Peter Steinberger | TED](https://www.youtube.com/watch?v=7rzYDM6vMtI) [📖](https://read.readwise.io/read/01kq6s328zb7gpddkzxw76ps68) 👤 TED ⭐ 7 🔖 #openclaw 🗓️ 2026-04-27
-    > **Резюме:** Peter Steinberger created OpenClaw, an AI agent that automates tasks and helps people build projects easily. The tool became very popular worldwide, changing how people work and create without needing programming skills. OpenClaw is open-source and aims to make AI fun, useful, and safe for everyone.
 - [Explainer: Network file systems](https://eclecticlight.co/2026/04/25/explainer-network-file-systems/) [📖](https://read.readwise.io/read/01kq1qvcw1ftk6sw7h27tzjwp4) 👤 hoakley 💬 762 ⭐ 5 🗓️ 2026-04-25 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Network file systems like AFP and SMB let Macs access files over a network instead of local storage. AFP was the main Mac network protocol until 2013, when SMB became the standard despite some limitations with special Mac file features. Both have challenges with newer APFS file types, causing inefficiencies in file sharing.
-- [The Hottest AI Coding Skill In 2026? Coding Without AI](https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/) [📖](https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z) 👤 codemanship 💬 606 ⭐ 4 🗓️ 2026-04-24
-    > **Резюме:** In 2026, employers want developers who understand code deeply without relying on AI. Overusing AI tools can weaken programmers' skills and code comprehension. The best developers will be those who can solve problems on their own when AI fails.
 - [How The Heck Does Shazam Work?](https://perthirtysix.com/how-the-heck-does-shazam-work?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kpz4vpybbrxvhjkmh2xfx21r) 👤 Shri Khalpada 💬 521 ⭐ 3 🔖 #explorable 🗓️ 2026-04-24 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via TLDR
     > **Резюме:** Shazam works by turning sounds into simple fingerprints that help identify songs. Most services send audio to a server with a huge database to find matches. Newer apps can do this on your phone using smaller databases and smart algorithms.
