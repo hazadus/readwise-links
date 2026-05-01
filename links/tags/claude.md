@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 33
+- Всего ссылок: 34
 
 ## Ссылки
 
@@ -9,6 +9,8 @@
 
 Via Readwise newsletter, Via JoyAndCuriosity
     > **Резюме:** Figma’s design system is complex and hard to manage, making it frustrating for teams. Claude Design offers a simpler, code-based approach that connects design and development smoothly. The future of design tools will split between code-first systems like Claude and freeform creative apps without code.
+- [The Claude Coding Vibes Are Getting Worse](https://blog.matthewbrunelle.com/the-claude-coding-vibes-are-getting-worse/) [📖](https://read.readwise.io/read/01kq6r60n0jmpyv12gk8gx8qn9) 👤 Matthew Brunelle 💬 947 🔖 #claude, #predictions 🗓️ 2026-04-27
+    > **Резюме:** I've seen a continuous degradation to the UX of Claude Code over the last two months. Now with the release of Opus 4.7 it's really evident.
 - [Is Claude Code going to cost $100/month? Maybe, maybe not - it's all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything) [📖](https://read.readwise.io/read/01kpsf3pz6dzg2md44zmqpzspm) 👤 Simon Willison's Weblog 💬 939 🔖 #codex, #claude 🗓️ 2026-04-22
     > **Резюме:** Anthropic quietly tested moving Claude Code from the $20 plan to $100/month plans, causing confusion and anger. This change risks losing trust and pushing users toward competitors like OpenAI's Codex. The author hopes Anthropic will keep Claude Code affordable to maintain user loyalty and accessibility.
 - [Exploratory QA with AI Agents: Building a Site-Agnostic Harness](https://alexop.dev/posts/exploratory-qa-ai-agents-site-agnostic-harness/) [📖](https://read.readwise.io/read/01kpkpxp6w1s029akh17na8pr0) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2529 🔖 #codex, #agents, #claude, #testing, #frontend 🗓️ 2026-04-19

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 34
+- Всего ссылок: 35
 
 ## Ссылки
 
+- [Finder comments, steganography and malware](https://eclecticlight.co/2026/04/28/finder-comments-steganography-and-malware/) [📖](https://read.readwise.io/read/01kqaq4w6kjvn2znvpyq42v3mg) 👤 hoakley 💬 670 🔖 #macos 🗓️ 2026-04-28
+    > **Резюме:** Finder comments in macOS are stored in two places, making them unreliable and easy to lose. Some malware can hide harmful code in file metadata like Finder comments or extended attributes to avoid detection. Using extended attributes directly is safer and less visible, but many antivirus tools may not check them well.
 - [OpenAI Unveils Codex “Superapp” Update with Computer Use, Automations, Built-In Browser, and More](https://www.macstories.net/news/openai-unveils-codex-superapp-update-with-computer-use-automations-built-in-browser-and-more/) [📖](https://read.readwise.io/read/01kpbkwm7bxfgg7qtqjb0768ry) 👤 John Voorhees 💬 1044 🔖 #codex, #macos 🗓️ 2026-04-16
     > **Резюме:** OpenAI updated Codex to do more than coding by adding tools for productivity, automations, and a built-in browser. The app can now control desktop apps, use many plugins, and learn user preferences to offer smart suggestions. These features aim to help users manage tasks and work more efficiently in one app.
 - [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) [📖](https://read.readwise.io/read/01kntwvm2kv55qz9tt3dtct2p1) 👤 Arhan Chaudhary 💬 542 🔖 #toot, #macos, #swift 🗓️ 2026-04-10

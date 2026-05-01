@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 249
+- Всего ссылок: 250
 
 ## Ссылки
 
+- [Understanding the Go Runtime: The Network Poller](https://internals-for-interns.com/posts/go-netpoller/?utm_source=christophberger&utm_medium=email&utm_campaign=2026-04-26-not-magic) [📖](https://read.readwise.io/read/01kqehj6aqfvy5ftqn9fatzj8q) 👤 Jesús Espino 💬 4703 🔖 #go 🗓️ 2026-04-30
+    > **Резюме:** Go’s runtime manages network I/O by asking the kernel if data is ready and putting goroutines to sleep instead of blocking OS threads. When data arrives, the kernel notifies the runtime, which wakes the right goroutine to continue work. This system lets Go efficiently handle many network tasks without wasting threads.
 - [Error translation in Go services](https://rednafi.com/go/error-translation/) [📖](https://read.readwise.io/read/01knzzj4wnhpzzykwdr7tpjek4) 👤 Redowan's Reflections 💬 2281 🔖 #go, #architecture, #errorhandling 🗓️ 2026-04-12
     > **Резюме:** Translating errors at layer boundaries so storage details don't leak into the handler or, worse, into client responses.
 - [Stacked log lines considered harmful](https://rednafi.com/shards/2026/04/no-stacked-loglines/) [📖](https://read.readwise.io/read/01knn5avm7zap0tex4q5e8yjex) 👤 Redowan's Reflections 💬 946 🔖 #go 🗓️ 2026-04-07

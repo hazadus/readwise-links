@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 17
+- Всего ссылок: 18
 
 ## Ссылки
 
@@ -38,6 +38,8 @@ explodes.
 That has many upsides.  But it is worth remembering that Open Source did not
 always work this way.
 A Sma...
+- [The Claude Coding Vibes Are Getting Worse](https://blog.matthewbrunelle.com/the-claude-coding-vibes-are-getting-worse/) [📖](https://read.readwise.io/read/01kq6r60n0jmpyv12gk8gx8qn9) 👤 Matthew Brunelle 💬 947 🔖 #claude, #predictions 🗓️ 2026-04-27
+    > **Резюме:** I've seen a continuous degradation to the UX of Claude Code over the last two months. Now with the release of Opus 4.7 it's really evident.
 - [The Hottest AI Coding Skill In 2026? Coding Without AI](https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/) [📖](https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z) 👤 codemanship 💬 606 🔖 #predictions, #llm-devimpact 🗓️ 2026-04-24
     > **Резюме:** In 2026, employers want developers who understand code deeply without relying on AI. Overusing AI tools can weaken programmers' skills and code comprehension. The best developers will be those who can solve problems on their own when AI fails.
 - [Headless everything for personal AI](https://interconnected.org/home/2026/04/18/headless) [📖](https://read.readwise.io/read/01kpwqt3x1xn81yx0g8f66dabc) 👤 Interconnected, a blog by Matt Webb 💬 1335 🔖 #predictions, #llm-devimpact 🗓️ 2026-04-23

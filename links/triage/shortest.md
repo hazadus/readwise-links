@@ -2,7 +2,7 @@
 
 _Короткие статьи (не туториалы, не основы), отсортированные по объёму_
 
-Сгенерировано: 2026-04-30 04:24 UTC · Статей: 30
+Сгенерировано: 2026-05-01 04:34 UTC · Статей: 30
 
 ## Статьи
 
@@ -38,6 +38,8 @@ Skip unit tests for UI rendering; test stable business logic, state, and reusabl
 - [“Conviction Collapse” and the End of Software as We Know It](https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h) 👤 Tim O’Reilly 💬 2092 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-04-13
     > **Заметка:** w./ Harper Reed!
     > **Резюме:** Software is no longer a fixed product but a flexible process that evolves through ongoing learning and creativity. AI and agentic coding let people build, adapt, and improve software like art or music. Success now depends on play, social interaction, and discovering new ways to create, not just on money or technology.
+- [Trying Out OpenCode To Avoid Claude Code Lock-in](https://blog.matthewbrunelle.com/trying-out-opencode-to-avoid-claude-code-lock-in/) [📖](https://read.readwise.io/read/01kqfrv16s4z6c3z519rjb32rv) 👤 Matthew Brunelle 💬 2105 ⭐ 8 🔖 #opencode 🗓️ 2026-04-30
+    > **Резюме:** The author tested OpenCode to avoid relying on Claude Code due to quality and control issues. OpenCode performed about as well as Claude Code but lacks key features like memory and better user control. The author paused Claude Code and will watch how OpenCode improves before deciding what to use next.
 - [Swimming Naked in AI-Generated Code](https://davegriffith.substack.com/p/swimming-naked-in-ai-generated-code) [📖](https://read.readwise.io/read/01kg52xnkndzq1t428p64ycpa8) 👤 Dave Griffith 💬 2215 ⭐ 3 🗓️ 2026-01-29
     > **Резюме:** AI helps developers write code faster but can cause confusion if they don't understand the code they create. Developers must explain and review AI-generated code carefully to stay oriented and responsible. True skill comes from using AI to learn, not just to get answers quickly.
 - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) [📖](https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt) 👤 mariozechner.at 💬 2368 ⭐ 8 🗓️ 2026-03-26
@@ -73,6 +75,3 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) [📖](https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96) 👤 Peter Steinberger 💬 3413 ⭐ 8 🔖 #llm 🗓️ 2026-01-09
     > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
-- [Some uncomfortable truths about AI coding agents](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01knbv6r1n0rt1fmt8eye7m8c0) 👤 standupforme.app 💬 3485 ⭐ 8 🗓️ 2026-04-04
-    > **Заметка:** Via TLDR Newsletter
-    > **Резюме:** AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.

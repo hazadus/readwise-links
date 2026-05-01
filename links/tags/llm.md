@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 445
+- Всего ссылок: 446
 
 ## Ссылки
 
+- [(One) Good AI Is Here](https://anildash.com/2026/04/28/one-good-ai-is-here/) [📖](https://read.readwise.io/read/01kqb0gjqvf9z0chwxp4eyrh8d) 👤 Anil Dash 💬 1824 🔖 #llm 🗓️ 2026-04-28
+    > **Заметка:** Очень хороший пример использования ML/LLM в благих целях. 
+    > **Резюме:** Some creators made a good AI tool that respects consent, is open source, and runs on normal computers. This tool helps video artists easily remove green screens without expensive software or spying on users. It shows that AI can be useful and fair when designed with care, not just by big companies.
 - [DeepSeek V4 - almost on the frontier, a fraction of the price](https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything) [📖](https://read.readwise.io/read/01kpz1vrr4ex8xp5kw8d61ydxc) 👤 Simon Willison's Weblog 💬 559 🔖 #llm 🗓️ 2026-04-24
     > **Резюме:** DeepSeek V4 offers two new AI models that are very large but cost much less than other top models. The Flash and Pro versions are efficient, handling long contexts with fewer resources than before. Although not the absolute best yet, DeepSeek V4 is close to the frontier and very affordable.
 - [The Pulse: ‘Tokenmaxxing’ as a weird new trend](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/) [📖](https://read.readwise.io/read/01kpxsckj3veyzbhy69y9dhzyc) 👤 Gergely Orosz 💬 1993 🔖 #llm, #definitions, #llm-devimpact 🗓️ 2026-04-23

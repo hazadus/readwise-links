@@ -2,7 +2,7 @@
 
 _Туториалы и практические руководства_
 
-Сгенерировано: 2026-04-30 04:24 UTC · Статей: 21
+Сгенерировано: 2026-05-01 04:34 UTC · Статей: 23
 
 ## Статьи
 
@@ -36,6 +36,8 @@ Write the first tests yourself and prefer public-API tests with handwritten fake
     > **Резюме:** This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.
 - [Hello Walter! Learning Rust on ESP32](https://blog.matthewbrunelle.com/hello-walter-learning-rust-on-esp32/) [📖](https://read.readwise.io/read/01kq6r43eh0tj3j5x4s151837c) 👤 Matthew Brunelle's Blog 💬 1236 ⭐ 7 🔖 #rust, #esp32 🗓️ 2026-04-27 · 🛠️ туториал, 🧠 основы
     > **Резюме:** The author is building an embedded device to scan signals and log GPS data using the Walter ESP32-S3 board and Rust programming. They set up a complex development environment on NixOS to run the Embassy async framework for better multitasking. After overcoming setup challenges, they successfully ran a "Hello World" program and plan to expand the project further.
+- [Building Containers From Scratch in Go: Namespaces](https://blog.iamvedant.in/containers-are-not-magic-namespaces-from-scratch) [📖](https://read.readwise.io/read/01kqehfdjmc965hcyzhrrnf9zh) 👤 blog.iamvedant.in 💬 3477 ⭐ 6 🗓️ 2026-04-30 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Docker uses containers to run programs isolated from the host system by using Linux kernel features called namespaces and cgroups. In this tutorial, a container is built in Go to run a shell with its own process tree and filesystem, showing how isolation works. This isolation keeps the container's processes and resources separate, just like Docker does.
 - [USB for Software Developers](https://werwolv.net/posts/usb_for_sw_devs/) [📖](https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41) 👤 WerWolv 💬 2523 ⭐ 6 🔖 #usb 🗓️ 2026-04-09 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via HackerNews
     > **Резюме:** Writing a USB driver is similar to writing a network application and does not require kernel code. USB devices identify themselves using standard descriptors, which the host reads to understand the device and its capabilities. Developers can communicate with devices through specific endpoints using simple commands, as shown in the Fastboot example.
@@ -54,5 +56,7 @@ Write the first tests yourself and prefer public-API tests with handwritten fake
     > **Резюме:** The text discusses the importance of understanding Promises in JavaScript for modern web development. Promises allow for asynchronous operations and help avoid callback nesting. Modern JavaScript features like async/await simplify handling asynchronous tasks.
 - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/?from=newsletter) [📖](https://read.readwise.io/read/01k0q7k2k291yw2tt3mkesgpx8) 👤 Josh W. Comeau 💬 3091 ⭐ 2 🔖 #explorable 🗓️ 2025-07-21 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** SVG is a special image format that uses shapes like circles and lines written in code. It can be styled and animated using CSS and JavaScript, making it very powerful. SVG images stay sharp no matter how much you zoom in, which is great for web design.
+- [Scroll-Driven Animations](https://www.joshwcomeau.com/animation/scroll-driven-animations/) [📖](https://read.readwise.io/read/01kqaq4x2hsy61c77vcxa536zz) 👤 Josh W. Comeau 💬 2936 ⭐ 2 🗓️ 2026-04-28 · 🛠️ туториал, 🌲 вечнозелёное
+    > **Резюме:** The Animation Timeline API lets you create scroll-driven animations using only CSS, without JavaScript. You can control when animations start and end based on how elements move through the viewport or the scroll progress. This new method makes animations easier and more flexible for web developers.
 - [Complete Guide: Using an ILI9341 Display with the TFT_eSPI Library](https://mischianti.org/complete-guide-using-an-ili9341-display-with-the-tft_espi-library/) [📖](https://read.readwise.io/read/01kn84zxd57pbrgw7mdyhtmvvn) 👤 Renzo Mischianti 💬 1708 ⭐ 2 🗓️ 2026-04-02 · 🛠️ туториал
     > **Резюме:** This guide shows how to use the ILI9341 TFT display with the ESP32 and the TFT_eSPI library. It explains setup, drawing shapes, text, images, and animations easily. The library makes it simple to create colorful, interactive projects with smooth graphics and touch support.

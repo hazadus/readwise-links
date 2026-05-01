@@ -1,17 +1,24 @@
 # Архивные ссылки
 
-- Всего ссылок: 1613
+- Всего ссылок: 1619
 
 ## Ссылки
 
+- [GitHub is sinking](https://dbushell.com/2026/04/29/github-is-sinking/) [📖](https://read.readwise.io/read/01kqch3x7gg1tvawsb43rthcfn) 👤 dbushell.com (all feeds) 💬 699 🔖 #github 🗓️ 2026-04-29
 - [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) [📖](https://read.readwise.io/read/01kqbt811v3r140mdwb78kw6cb) 👤 Mitchell Hashimoto 💬 823 🔖 #github 🗓️ 2026-04-29
+- [(One) Good AI Is Here](https://anildash.com/2026/04/28/one-good-ai-is-here/) [📖](https://read.readwise.io/read/01kqb0gjqvf9z0chwxp4eyrh8d) 👤 Anil Dash 💬 1824 🔖 #llm 🗓️ 2026-04-28
+    > **Заметка:** Очень хороший пример использования ML/LLM в благих целях. 
 - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) [📖](https://read.readwise.io/read/01kqaz6w1gpbt46g0n1kbeny9s) 👤 Armin Ronacher 💬 2307 🔖 #foss, #github, #predictions 🗓️ 2026-04-28
     > **Заметка:** Да уж, прям тектонические сдвиги в ИТ пошли. Пора задуматься о переезде на Gitverse?..
+- [Managing a team that didn't choose you](https://newsletter.manager.dev/p/managing-a-team-that-didn-t-choose-you) [📖](https://read.readwise.io/read/01kqaq4zs4y0kd0x4g0a0qahhb) 👤 Anton Zaides 💬 1766 🔖 #management 🗓️ 2026-04-28
+- [Overview of the onChange() modifier in SwiftUI](https://nilcoalescing.com/blog/OverviewOfonChangeInSwiftUI) [📖](https://read.readwise.io/read/01kqaq4ydz8v1f257c60qq6jxh) 👤 Nil Coalescing 💬 913 🔖 #swift 🗓️ 2026-04-28
+- [Finder comments, steganography and malware](https://eclecticlight.co/2026/04/28/finder-comments-steganography-and-malware/) [📖](https://read.readwise.io/read/01kqaq4w6kjvn2znvpyq42v3mg) 👤 hoakley 💬 670 🔖 #macos 🗓️ 2026-04-28
 - [How I Created OpenClaw, the Breakthrough AI Agent | Peter Steinberger | TED](https://www.youtube.com/watch?v=7rzYDM6vMtI) [📖](https://read.readwise.io/read/01kq6s328zb7gpddkzxw76ps68) 👤 TED 🔖 #openclaw 🗓️ 2026-04-27
 - [Thoughts and Feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/) [📖](https://read.readwise.io/read/01kq6rzkp8vkyh8aj1ah9ngd76) 👤 samhenri.gold 💬 1230 🔖 #claude, #joyandcuriosity 🗓️ 2026-04-27
     > **Заметка:** Пример того, что сейчас все более актуальны открытые для агентов системы. 
 
 Via Readwise newsletter, Via JoyAndCuriosity
+- [The Claude Coding Vibes Are Getting Worse](https://blog.matthewbrunelle.com/the-claude-coding-vibes-are-getting-worse/) [📖](https://read.readwise.io/read/01kq6r60n0jmpyv12gk8gx8qn9) 👤 Matthew Brunelle 💬 947 🔖 #claude, #predictions 🗓️ 2026-04-27
 - [— почему мученика изображали с головой собаки?](https://foma.ru/ikona-muchenika-hristofora-psoglavogo-svjatoj-nosivshij-hrista-na-plechah.html?utm_source=chatgpt.com) [📖](https://read.readwise.io/read/01kq5m1jbwqe022jg2h6c00gvq) 👤 https://www.facebook.com/foma.ru/ 💬 511 🗓️ 2026-04-26
 - [Thousands of consumer routers hacked by Russia's military](https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/) [📖](https://read.readwise.io/read/01kq4acgx5kbcehakxxfp6pnty) 👤 Dan Goodin 💬 802 🔖 #cybersecurity 🗓️ 2026-04-26
     > **Заметка:** Via HackerNews

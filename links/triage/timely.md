@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-04-30 04:24 UTC · Статей: 47
+Сгенерировано: 2026-05-01 04:34 UTC · Статей: 47
 
 ## Статьи
 
@@ -19,8 +19,6 @@ _Актуальный контент, который может устареть
     > **Резюме:** The author used AI agents to help build a pixel art map of NYC with very little coding. Image generation models still struggle with mistakes and automation is hard. Despite challenges, AI tools make large creative projects possible and inspire hope for the future.
 - [Inside one startup’s crazy fast AI-first makeover](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) [📖](https://read.readwise.io/read/01kg1cwtt6qjef7dg86j5y98hd) 👤 Gergely Orosz 💬 3790 ⭐ 8 🗓️ 2026-01-28
     > **Резюме:** Craft, a startup focused on docs and tasks, shifted quickly to use AI tools called Craft Agents that help both engineers and non-engineers work better. The new AI tool lets teams automate tasks and build things faster, with non-technical staff using it even more than developers. This change shows how startups are adopting AI deeply to improve how they build software and run their work.
-- [Coding Agents in Feb 2026](https://calv.info/agents-feb-2026) [📖](https://read.readwise.io/read/01khs64f4hmr6kkggyegr22xxg) 👤 calv.info 💬 3642 ⭐ 8 🗓️ 2026-02-18
-    > **Резюме:** Calvin French-Owen uses different coding agents like Claude Code, Opus, and Codex to plan, write, and review code efficiently. He values context understanding and automation to improve his workflow and manage multiple tasks. His approach blends planning, tool use, and code correctness to get the best results from each agent.
 - [Some uncomfortable truths about AI coding agents](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01knbv6r1n0rt1fmt8eye7m8c0) 👤 standupforme.app 💬 3485 ⭐ 8 🗓️ 2026-04-04
     > **Заметка:** Via TLDR Newsletter
     > **Резюме:** AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.
@@ -30,6 +28,8 @@ _Актуальный контент, который может устареть
     > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
 - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) [📖](https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt) 👤 mariozechner.at 💬 2368 ⭐ 8 🗓️ 2026-03-26
     > **Резюме:** Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.
+- [Trying Out OpenCode To Avoid Claude Code Lock-in](https://blog.matthewbrunelle.com/trying-out-opencode-to-avoid-claude-code-lock-in/) [📖](https://read.readwise.io/read/01kqfrv16s4z6c3z519rjb32rv) 👤 Matthew Brunelle 💬 2105 ⭐ 8 🔖 #opencode 🗓️ 2026-04-30
+    > **Резюме:** The author tested OpenCode to avoid relying on Claude Code due to quality and control issues. OpenCode performed about as well as Claude Code but lacks key features like memory and better user control. The author paused Claude Code and will watch how OpenCode improves before deciding what to use next.
 - [The creator of Clawd: "I ship code I don't read"](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code) [📖](https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz) 👤 Gergely Orosz 💬 1589 ⭐ 8 🗓️ 2026-01-29
     > **Резюме:** Peter Steinberger uses AI agents to build and ship software quickly, acting like a whole team by himself. He designs systems so AI can check and improve its own code without much human review. This new way of working focuses on outcomes and architecture, not on writing every line of code by hand.
 - [Building an AI QA Engineer with Claude Code and Playwright MCP](https://alexop.dev/posts/building_ai_qa_engineer_claude_code_playwright/) [📖](https://read.readwise.io/read/01kcgefhszbsw1gk9vj18g5pn0) 👤 Alexander Opalic 💬 1193 ⭐ 8 🔖 #mcp, #claude 🗓️ 2025-12-15 · 🛠️ туториал

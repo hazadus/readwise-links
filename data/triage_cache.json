@@ -840,6 +840,36 @@
       "is_foundational": true,
       "is_evergreen": false,
       "interest_score": 7
+    },
+    "01kqfrv16s4z6c3z519rjb32rv": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 8
+    },
+    "01kqehj6aqfvy5ftqn9fatzj8q": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": true,
+      "interest_score": 2
+    },
+    "01kqehfdjmc965hcyzhrrnf9zh": {
+      "is_tutorial": true,
+      "is_foundational": true,
+      "is_evergreen": true,
+      "interest_score": 6
+    },
+    "01kqch3t361p2c0ks8xdqay2eg": {
+      "is_tutorial": false,
+      "is_foundational": true,
+      "is_evergreen": true,
+      "interest_score": 6
+    },
+    "01kqaq4x2hsy61c77vcxa536zz": {
+      "is_tutorial": true,
+      "is_foundational": false,
+      "is_evergreen": true,
+      "interest_score": 2
     }
   }
 }

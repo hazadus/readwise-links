@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 48
+- Всего ссылок: 49
 
 ## Ссылки
 
+- [Managing a team that didn't choose you](https://newsletter.manager.dev/p/managing-a-team-that-didn-t-choose-you) [📖](https://read.readwise.io/read/01kqaq4zs4y0kd0x4g0a0qahhb) 👤 Anton Zaides 💬 1766 🔖 #management 🗓️ 2026-04-28
+    > **Резюме:** Anton Zaides shares his experience managing a new engineering team he didn't choose, emphasizing the need to adapt quickly rather than just observe. He learned that focusing on team building and communication was more important than technical onboarding at first. Constant change means managers must listen closely and be ready to adjust their plans often.
 - [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) [📖](https://read.readwise.io/read/01kn4wcadfjm540wfsav7pgxnp) 👤 Matheus Lima 💬 847 🔖 #career, #management, #communication 🗓️ 2026-04-01
     > **Резюме:** If you want something at work, say it out loud. Your silence isn't saving you.
 - [Tech Leaders: Low-Performing Teams Are A Gift, Not A Curse](https://codemanship.wordpress.com/2026/02/04/tech-leaders-low-performing-teams-are-a-gift-not-a-curse/) [📖](https://read.readwise.io/read/01kgp0bmvkgdcf5k6n3mctkrsn) 👤 Codemanship's Blog 💬 1149 🔖 #leaddev, #management 🗓️ 2026-02-05

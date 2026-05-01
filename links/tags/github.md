@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 36
+- Всего ссылок: 37
 
 ## Ссылки
 
+- [GitHub is sinking](https://dbushell.com/2026/04/29/github-is-sinking/) [📖](https://read.readwise.io/read/01kqch3x7gg1tvawsb43rthcfn) 👤 dbushell.com (all feeds) 💬 699 🔖 #github 🗓️ 2026-04-29
+    > **Резюме:** TL;DR: GitHub used to be cool and now it’s a lame slop graveyard. GitHub is racing towards the mythical zero nines of uptime. Users are starting to notice that GitHub is now a Microsoft product. Eww! Official uptime paints a concerning chart. The missing status page tell a far worse story. […]
 - [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) [📖](https://read.readwise.io/read/01kqbt811v3r140mdwb78kw6cb) 👤 Mitchell Hashimoto 💬 823 🔖 #github 🗓️ 2026-04-29
     > **Резюме:** Mitchell Hashimoto is moving his Ghostty project away from GitHub after 18 years of daily use. He feels GitHub has become unreliable and blocks his work too often. He hopes to return someday but needs real improvements first.
 - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) [📖](https://read.readwise.io/read/01kqaz6w1gpbt46g0n1kbeny9s) 👤 Armin Ronacher 💬 2307 🔖 #foss, #github, #predictions 🗓️ 2026-04-28

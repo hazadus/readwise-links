@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [Overview of the onChange() modifier in SwiftUI](https://nilcoalescing.com/blog/OverviewOfonChangeInSwiftUI) [📖](https://read.readwise.io/read/01kqaq4ydz8v1f257c60qq6jxh) 👤 Nil Coalescing 💬 913 🔖 #swift 🗓️ 2026-04-28
+    > **Резюме:** SwiftUI's onChange() modifier runs code when a value changes and has improved since iOS 14 with new ways to access old and new values. It can run once on initial view load if set, and works differently on views versus scenes due to their lifecycles. To keep the UI smooth, long tasks inside onChange() should run asynchronously off the main thread.
 - [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) [📖](https://read.readwise.io/read/01kntwvm2kv55qz9tt3dtct2p1) 👤 Arhan Chaudhary 💬 542 🔖 #toot, #macos, #swift 🗓️ 2026-04-10
     > **Заметка:** Отличный способ убрать надоедливую анимацию при переключении рабочих столов
     > **Резюме:** MacOS does not allow instant space switching without annoying animations, which many users dislike. The author found a simple app called InstantSpaceSwitcher that switches spaces instantly without disabling security features. This app is easy to install, works natively, and offers a command line interface.

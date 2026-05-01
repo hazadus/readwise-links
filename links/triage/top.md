@@ -2,7 +2,7 @@
 
 _20 статей с наивысшим interest_score_
 
-Сгенерировано: 2026-04-30 04:24 UTC · Статей: 20
+Сгенерировано: 2026-05-01 04:34 UTC · Статей: 20
 
 ## Статьи
 
@@ -30,8 +30,6 @@ _20 статей с наивысшим interest_score_
     > **Резюме:** The author used AI agents to help build a pixel art map of NYC with very little coding. Image generation models still struggle with mistakes and automation is hard. Despite challenges, AI tools make large creative projects possible and inspire hope for the future.
 - [Inside one startup’s crazy fast AI-first makeover](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) [📖](https://read.readwise.io/read/01kg1cwtt6qjef7dg86j5y98hd) 👤 Gergely Orosz 💬 3790 ⭐ 8 🗓️ 2026-01-28
     > **Резюме:** Craft, a startup focused on docs and tasks, shifted quickly to use AI tools called Craft Agents that help both engineers and non-engineers work better. The new AI tool lets teams automate tasks and build things faster, with non-technical staff using it even more than developers. This change shows how startups are adopting AI deeply to improve how they build software and run their work.
-- [Coding Agents in Feb 2026](https://calv.info/agents-feb-2026) [📖](https://read.readwise.io/read/01khs64f4hmr6kkggyegr22xxg) 👤 calv.info 💬 3642 ⭐ 8 🗓️ 2026-02-18
-    > **Резюме:** Calvin French-Owen uses different coding agents like Claude Code, Opus, and Codex to plan, write, and review code efficiently. He values context understanding and automation to improve his workflow and manage multiple tasks. His approach blends planning, tool use, and code correctness to get the best results from each agent.
 - [Some uncomfortable truths about AI coding agents](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01knbv6r1n0rt1fmt8eye7m8c0) 👤 standupforme.app 💬 3485 ⭐ 8 🗓️ 2026-04-04
     > **Заметка:** Via TLDR Newsletter
     > **Резюме:** AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.
@@ -43,6 +41,8 @@ _20 статей с наивысшим interest_score_
     > **Резюме:** Apple's Tahoe icons are confusing and inconsistent, making it hard to find or understand menu items quickly. Too many icons clutter menus, and similar or unclear symbols cause frustration. Good icon design should be simple, clear, and consistent, but Tahoe often misses these points.
 - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) [📖](https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt) 👤 mariozechner.at 💬 2368 ⭐ 8 🗓️ 2026-03-26
     > **Резюме:** Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.
+- [Trying Out OpenCode To Avoid Claude Code Lock-in](https://blog.matthewbrunelle.com/trying-out-opencode-to-avoid-claude-code-lock-in/) [📖](https://read.readwise.io/read/01kqfrv16s4z6c3z519rjb32rv) 👤 Matthew Brunelle 💬 2105 ⭐ 8 🔖 #opencode 🗓️ 2026-04-30
+    > **Резюме:** The author tested OpenCode to avoid relying on Claude Code due to quality and control issues. OpenCode performed about as well as Claude Code but lacks key features like memory and better user control. The author paused Claude Code and will watch how OpenCode improves before deciding what to use next.
 - [Software Development in 2026](https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026) [📖](https://read.readwise.io/read/01kn9q1g2rkzrdsd4mgzghk9ew) 👤 Aleksei Matiushkin 💬 1952 ⭐ 8 🗓️ 2026-04-03 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via ElixirWeekly
     > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.
