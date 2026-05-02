@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 446
+- Всего ссылок: 447
 
 ## Ссылки
 
+- [Is It Time To Get Back To Fundamentals?](https://codemanship.wordpress.com/2026/05/01/is-it-time-to-get-back-to-fundamentals/) [📖](https://read.readwise.io/read/01kqh3pjwq6xw3c0a51wavsm2m) 👤 codemanship 💬 245 🔖 #llm 🗓️ 2026-05-01
+    > **Заметка:** Интересная аналогия с записью музыки. Действительно, сейчас больше материалов про настройку агентов, чем про сделанный ими софт. 
+    > **Резюме:** I have a friend who built a recording studio in his garden. The building – an adapted garden office – cost £15,000. Inside, he installed a pre-owned Neve 24-track mixing console with motorised faders in a custom-built desk – total cost: £17,000. Add to that easily another £15K-20K of high-end gear and studio fittings, he … Continue reading "Is It Time To Get Back To Fundamentals?"
 - [(One) Good AI Is Here](https://anildash.com/2026/04/28/one-good-ai-is-here/) [📖](https://read.readwise.io/read/01kqb0gjqvf9z0chwxp4eyrh8d) 👤 Anil Dash 💬 1824 🔖 #llm 🗓️ 2026-04-28
     > **Заметка:** Очень хороший пример использования ML/LLM в благих целях. 
     > **Резюме:** Some creators made a good AI tool that respects consent, is open source, and runs on normal computers. This tool helps video artists easily remove green screens without expensive software or spying on users. It shows that AI can be useful and fair when designed with care, not just by big companies.

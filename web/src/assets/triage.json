@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T04:34:20.394428+00:00",
+  "generated_at": "2026-05-02T04:15:32.000629+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -554,6 +554,34 @@
       }
     ],
     "shortest": [
+      {
+        "id": "01kqh31s3acyzhnmh2g9pmvpfb",
+        "url": "https://read.readwise.io/read/01kqh31s3acyzhnmh2g9pmvpfb",
+        "source_url": "https://bora.sh/bypassing-dpi-with-ebpf/",
+        "title": "Bypassing DPI with eBPF sock_ops",
+        "author": "Bora Tanrikulu",
+        "image_url": "https://bora.sh/images/banner_hu_b4d68f48ae52c398.png",
+        "word_count": 13,
+        "summary": "eBPF sock_ops, fake TLS packets, and why every platform needs a different hack",
+        "notes": "",
+        "tags": {
+          "dpi": {
+            "name": "DPI",
+            "type": "manual",
+            "created": 1777616356004
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-05-01T06:19:08.266000+00:00",
+        "last_moved_at": "2026-05-01T06:19:17.367000+00:00",
+        "published_date": "2026-04-26",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
       {
         "id": "01kq1zx0r4n33srh7vqaawdkzh",
         "url": "https://read.readwise.io/read/01kq1zx0r4n33srh7vqaawdkzh",
@@ -1328,34 +1356,6 @@
           "is_evergreen": false,
           "interest_score": 9
         }
-      },
-      {
-        "id": "01keh0mtv65mmaj4vwam6etx96",
-        "url": "https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96",
-        "source_url": "https://steipete.me/posts/2025/shipping-at-inference-speed",
-        "title": "Shipping at Inference-Speed",
-        "author": "Peter Steinberger",
-        "image_url": "https://steipete.me/posts/2025/shipping-at-inference-speed/index.png",
-        "word_count": 3413,
-        "summary": "AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1767950180709
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-09T09:15:50.502000+00:00",
-        "last_moved_at": "2026-01-09T09:16:21.927000+00:00",
-        "published_date": "2025-12-28",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
       }
     ],
     "quick_wins": [
@@ -1501,6 +1501,34 @@
           "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 3
+        }
+      },
+      {
+        "id": "01kqh31s3acyzhnmh2g9pmvpfb",
+        "url": "https://read.readwise.io/read/01kqh31s3acyzhnmh2g9pmvpfb",
+        "source_url": "https://bora.sh/bypassing-dpi-with-ebpf/",
+        "title": "Bypassing DPI with eBPF sock_ops",
+        "author": "Bora Tanrikulu",
+        "image_url": "https://bora.sh/images/banner_hu_b4d68f48ae52c398.png",
+        "word_count": 13,
+        "summary": "eBPF sock_ops, fake TLS packets, and why every platform needs a different hack",
+        "notes": "",
+        "tags": {
+          "dpi": {
+            "name": "DPI",
+            "type": "manual",
+            "created": 1777616356004
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-05-01T06:19:08.266000+00:00",
+        "last_moved_at": "2026-05-01T06:19:17.367000+00:00",
+        "published_date": "2026-04-26",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
         }
       }
     ],
@@ -10342,6 +10370,34 @@
         "saved_at": "2026-04-25T09:35:30.052000+00:00",
         "last_moved_at": "2026-04-25T09:35:32.366000+00:00",
         "published_date": "2026-04-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kqh31s3acyzhnmh2g9pmvpfb",
+        "url": "https://read.readwise.io/read/01kqh31s3acyzhnmh2g9pmvpfb",
+        "source_url": "https://bora.sh/bypassing-dpi-with-ebpf/",
+        "title": "Bypassing DPI with eBPF sock_ops",
+        "author": "Bora Tanrikulu",
+        "image_url": "https://bora.sh/images/banner_hu_b4d68f48ae52c398.png",
+        "word_count": 13,
+        "summary": "eBPF sock_ops, fake TLS packets, and why every platform needs a different hack",
+        "notes": "",
+        "tags": {
+          "dpi": {
+            "name": "DPI",
+            "type": "manual",
+            "created": 1777616356004
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-05-01T06:19:08.266000+00:00",
+        "last_moved_at": "2026-05-01T06:19:17.367000+00:00",
+        "published_date": "2026-04-26",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
