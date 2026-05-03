@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [Zed is 1.0](https://zed.dev/blog/zed-1-0) [📖](https://read.readwise.io/read/01kqctck2g2ph7f0r2rwta7v29) 👤 Nathan Sobo 💬 797 🔖 #zed 🗓️ 2026-04-29
+    > **Заметка:** Мне понравилось писать в Zed на Go ещё пару лет назад. Надо будет вернуться, попробовать 1.0.
+    > **Резюме:** The editor we set out to build is now 1.0.
 - [Run Your Project in a Dev Container, in Zed](https://zed.dev/blog/dev-containers) [📖](https://read.readwise.io/read/01kehr19ta5qsh63nppwe6cv4n) 👤 Danilo LealKyle Barton 💬 1194 🔖 #zed, #devcontainer 🗓️ 2026-01-09
     > **Резюме:** Zed now lets you run your project inside Dev Containers using Docker for a consistent development setup. It uses a devcontainer.json file to create and connect to these containers easily. More features like extension support and better port forwarding are planned for the future.
 - [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp) [📖](https://read.readwise.io/read/01k48ps7zegc9pfyzt76pwg8ph) 👤 Morgan Krey 💬 1200 🔖 #zed 🗓️ 2025-09-03

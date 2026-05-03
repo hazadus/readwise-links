@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 36
+- Всего ссылок: 37
 
 ## Ссылки
 
 - [Use Finder tags for categories](https://eclecticlight.co/2026/05/01/use-finder-tags-for-categories/) [📖](https://read.readwise.io/read/01kqh6q993mpt3zpp84fz5wdy0) 👤 hoakley 💬 1072 🔖 #macos 🗓️ 2026-05-01
     > **Резюме:** Finder tags let you organize files by adding colored labels to them. You can add, edit, or remove tags easily in the Finder, and tags stay with files even when copied to another Mac. Tags work best for simple categories, but they are not suited for detailed or long text information.
+- [Virtualisation on Apple silicon Macs is different](https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different/) [📖](https://read.readwise.io/read/01kqc0eza18trzvdde7w98ahak) 👤 hoakley 💬 1399 🔖 #macos 🗓️ 2026-04-29
+    > **Резюме:** Virtualising macOS, Linux and Windows on Intel Macs has been relatively straightforward, and device support left to the developer. That won't work for Apple silicon Macs. This explains what happens, its strengths and limitations as a result.
 - [Finder comments, steganography and malware](https://eclecticlight.co/2026/04/28/finder-comments-steganography-and-malware/) [📖](https://read.readwise.io/read/01kqaq4w6kjvn2znvpyq42v3mg) 👤 hoakley 💬 670 🔖 #macos 🗓️ 2026-04-28
     > **Резюме:** Finder comments in macOS are stored in two places, making them unreliable and easy to lose. Some malware can hide harmful code in file metadata like Finder comments or extended attributes to avoid detection. Using extended attributes directly is safer and less visible, but many antivirus tools may not check them well.
 - [OpenAI Unveils Codex “Superapp” Update with Computer Use, Automations, Built-In Browser, and More](https://www.macstories.net/news/openai-unveils-codex-superapp-update-with-computer-use-automations-built-in-browser-and-more/) [📖](https://read.readwise.io/read/01kpbkwm7bxfgg7qtqjb0768ry) 👤 John Voorhees 💬 1044 🔖 #codex, #macos 🗓️ 2026-04-16

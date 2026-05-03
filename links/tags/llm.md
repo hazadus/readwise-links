@@ -1,12 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 447
+- Всего ссылок: 448
 
 ## Ссылки
 
 - [Is It Time To Get Back To Fundamentals?](https://codemanship.wordpress.com/2026/05/01/is-it-time-to-get-back-to-fundamentals/) [📖](https://read.readwise.io/read/01kqh3pjwq6xw3c0a51wavsm2m) 👤 codemanship 💬 245 🔖 #llm 🗓️ 2026-05-01
     > **Заметка:** Интересная аналогия с записью музыки. Действительно, сейчас больше материалов про настройку агентов, чем про сделанный ими софт. 
     > **Резюме:** I have a friend who built a recording studio in his garden. The building – an adapted garden office – cost £15,000. Inside, he installed a pre-owned Neve 24-track mixing console with motorised faders in a custom-built desk – total cost: £17,000. Add to that easily another £15K-20K of high-end gear and studio fittings, he … Continue reading "Is It Time To Get Back To Fundamentals?"
+- [Are "Vintage LLMs" the start of a new humanistic field?](https://resobscura.substack.com/p/are-vintage-llms-the-start-of-a-new) [📖](https://read.readwise.io/read/01kqcpp6avwpj3wrp5gr3wfws4) 👤 Benjamin Breen 💬 2991 🔖 #llm, #predictions 🗓️ 2026-04-29
+    > **Заметка:** Интересные идеи насчет "исторических LLM". Их, как минимум, можно использовать для различных исторических симуляций - игр или в процессе обучения. Очень интересные направления для исследований описаны в статье.
+    > **Резюме:** Thoughts on Historical Language Models and Talkie-1930
 - [(One) Good AI Is Here](https://anildash.com/2026/04/28/one-good-ai-is-here/) [📖](https://read.readwise.io/read/01kqb0gjqvf9z0chwxp4eyrh8d) 👤 Anil Dash 💬 1824 🔖 #llm 🗓️ 2026-04-28
     > **Заметка:** Очень хороший пример использования ML/LLM в благих целях. 
     > **Резюме:** Some creators made a good AI tool that respects consent, is open source, and runs on normal computers. This tool helps video artists easily remove green screens without expensive software or spying on users. It shows that AI can be useful and fair when designed with care, not just by big companies.

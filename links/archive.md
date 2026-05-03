@@ -1,13 +1,18 @@
 # Архивные ссылки
 
-- Всего ссылок: 1621
+- Всего ссылок: 1624
 
 ## Ссылки
 
 - [Use Finder tags for categories](https://eclecticlight.co/2026/05/01/use-finder-tags-for-categories/) [📖](https://read.readwise.io/read/01kqh6q993mpt3zpp84fz5wdy0) 👤 hoakley 💬 1072 🔖 #macos 🗓️ 2026-05-01
 - [Is It Time To Get Back To Fundamentals?](https://codemanship.wordpress.com/2026/05/01/is-it-time-to-get-back-to-fundamentals/) [📖](https://read.readwise.io/read/01kqh3pjwq6xw3c0a51wavsm2m) 👤 codemanship 💬 245 🔖 #llm 🗓️ 2026-05-01
     > **Заметка:** Интересная аналогия с записью музыки. Действительно, сейчас больше материалов про настройку агентов, чем про сделанный ими софт. 
+- [Zed is 1.0](https://zed.dev/blog/zed-1-0) [📖](https://read.readwise.io/read/01kqctck2g2ph7f0r2rwta7v29) 👤 Nathan Sobo 💬 797 🔖 #zed 🗓️ 2026-04-29
+    > **Заметка:** Мне понравилось писать в Zed на Go ещё пару лет назад. Надо будет вернуться, попробовать 1.0.
+- [Are "Vintage LLMs" the start of a new humanistic field?](https://resobscura.substack.com/p/are-vintage-llms-the-start-of-a-new) [📖](https://read.readwise.io/read/01kqcpp6avwpj3wrp5gr3wfws4) 👤 Benjamin Breen 💬 2991 🔖 #llm, #predictions 🗓️ 2026-04-29
+    > **Заметка:** Интересные идеи насчет "исторических LLM". Их, как минимум, можно использовать для различных исторических симуляций - игр или в процессе обучения. Очень интересные направления для исследований описаны в статье.
 - [GitHub is sinking](https://dbushell.com/2026/04/29/github-is-sinking/) [📖](https://read.readwise.io/read/01kqch3x7gg1tvawsb43rthcfn) 👤 dbushell.com (all feeds) 💬 699 🔖 #github 🗓️ 2026-04-29
+- [Virtualisation on Apple silicon Macs is different](https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different/) [📖](https://read.readwise.io/read/01kqc0eza18trzvdde7w98ahak) 👤 hoakley 💬 1399 🔖 #macos 🗓️ 2026-04-29
 - [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) [📖](https://read.readwise.io/read/01kqbt811v3r140mdwb78kw6cb) 👤 Mitchell Hashimoto 💬 823 🔖 #github 🗓️ 2026-04-29
 - [(One) Good AI Is Here](https://anildash.com/2026/04/28/one-good-ai-is-here/) [📖](https://read.readwise.io/read/01kqb0gjqvf9z0chwxp4eyrh8d) 👤 Anil Dash 💬 1824 🔖 #llm 🗓️ 2026-04-28
     > **Заметка:** Очень хороший пример использования ML/LLM в благих целях. 
