@@ -2,7 +2,7 @@
 
 _20 статей с наивысшим interest_score_
 
-Сгенерировано: 2026-05-03 04:28 UTC · Статей: 20
+Сгенерировано: 2026-05-04 04:29 UTC · Статей: 20
 
 ## Статьи
 
@@ -26,6 +26,8 @@ _20 статей с наивысшим interest_score_
 - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) [📖](https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv) 👤 Max Woolf's Blog 💬 6903 ⭐ 8 🔖 #llm 🗓️ 2026-03-01
     > **Заметка:** Via https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything
     > **Резюме:** The author tested AI coding agents and found them surprisingly good at writing and optimizing Rust and Python code. These agents created fast, efficient machine learning tools that rival existing libraries. The author encourages others to try modern agents with clear coding guidelines for better results.
+- [Sequoia Ascent 2026 summary](https://karpathy.bearblog.dev/sequoia-ascent-2026/) [📖](https://read.readwise.io/read/01kqfkrxbz3t807sm2fm45v7tb) 👤 hidden (karpathy) 💬 6040 ⭐ 8 🗓️ 2026-04-30
+    > **Резюме:** AI is becoming a new way to do digital work by letting neural networks handle most tasks. Programmers now manage smart agents instead of writing all the code themselves. This shift means future software and knowledge work will rely on guiding AI agents, not just speeding up old processes.
 - [/ Isometric NYC](https://cannoneyed.com/projects/isometric-nyc?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kg1jzqd4sxbwtw7hcnhp8hwm) 👤 cannoneyed.com 💬 3943 ⭐ 8 🔖 #joyandcuriosity 🗓️ 2026-01-28
     > **Резюме:** The author used AI agents to help build a pixel art map of NYC with very little coding. Image generation models still struggle with mistakes and automation is hard. Despite challenges, AI tools make large creative projects possible and inspire hope for the future.
 - [Inside one startup’s crazy fast AI-first makeover](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) [📖](https://read.readwise.io/read/01kg1cwtt6qjef7dg86j5y98hd) 👤 Gergely Orosz 💬 3790 ⭐ 8 🗓️ 2026-01-28
@@ -48,5 +50,3 @@ _20 статей с наивысшим interest_score_
     > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.
 - [The secret life of the xattr](https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/) [📖](https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1) 👤 hoakley 💬 1905 ⭐ 8 🗓️ 2026-04-24 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.
-- [Why Isn't Everything Different Yet?](https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dctz7gv9zqqkm3jxke3xf) 👤 Dave Griffith 💬 1791 ⭐ 8 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13 · 🧠 основы, 🌲 вечнозелёное
-    > **Резюме:** AI technology is impressive but changing everything takes time because systems, laws, and business models must be rebuilt from scratch. Software development is the first area transformed, but integrating AI widely requires millions of people to adapt workflows and trust the tools. Despite impatience, this transformation is happening very fast compared to past technologies and will soon feel much bigger.

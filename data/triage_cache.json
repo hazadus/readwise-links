@@ -876,6 +876,36 @@
       "is_foundational": false,
       "is_evergreen": false,
       "interest_score": 2
+    },
+    "01kqqex869v0re4jv6xn9es3km": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 2
+    },
+    "01kqqewcvfk42cm35ywcb7b37b": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 1
+    },
+    "01kqqevpskax3a70rvmhpeyram": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 2
+    },
+    "01kqqetyjnxxaewfg26q0t5sa2": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 1
+    },
+    "01kqfkrxbz3t807sm2fm45v7tb": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 8
     }
   }
 }

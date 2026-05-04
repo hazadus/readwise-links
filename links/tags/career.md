@@ -1,9 +1,18 @@
 # Ссылки
 
-- Всего ссылок: 76
+- Всего ссылок: 77
 
 ## Ссылки
 
+- [Why I don't like the "staff engineer archetypes"](https://seangoedecke.com/staff-engineer-archetypes/) [📖](https://read.readwise.io/read/01kqpaevrqq8w9r39cnjbpyqne) 👤 seangoedecke.com RSS feed 💬 1426 🔖 #career 🗓️ 2026-05-03
+    > **Заметка:** Sean Goedecke крутой, но последние посты чёт скучные. 
+    > **Резюме:** The most influential piece of writing about staff engineers in the last decade has to be Will Larson’s Staff engineer archetypes. He argues that the “staff engineer” title covers at least four very different roles: the team lead, the architect, the solver, and the right hand. This taxonomy gets cited a lot as advice for people who are trying to become effective staff engineers. For both of my promotions to staff engineer, my manager at the time linked me to the “staff engineer archetypes” and asked me to consider which of these archetypes I was aiming towards.
+These archetypes definitely exist1. However, I think it’s bad practical advice to tell engineers to try and target them.
+Archetypes do not make good goals
+To see why, let’s take the “team lead” archetype. Larson describes this as an informal technical leadership role: not necessarily an explicit authority figure, but someone who’s good at scoping work, planning projects, and maintaining the kind of relationships (e.g. with other teams) needed to successfully ship. If you want to fill this role, shouldn’t you start trying to do these things? No! You don’t become a technical leader by trying really hard to be a technical leader, much like you don’t become a writer by trying really hard “to be a writer”. You become a technical leader by doing good technical work until your skills and relationships emerge organically.
+I wrote about this process in Ratchet effects determine engineer reputation at large companies. To get good at shipping large complex projects, you must start by shipping tiny pieces of work, until you’re familiar enough with the system and you’ve built enough trust to take on slightly larger pieces. At each stage, if you do good work - “good work” here means “deliver shareholder value” - you will very naturally be given opportunities to work on more complex and important things. If you try to jump ahead, you’re going to run into all kinds of problems:
+
+Important projects are usually assigned top-...
 - [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) [📖](https://read.readwise.io/read/01kn4wcadfjm540wfsav7pgxnp) 👤 Matheus Lima 💬 847 🔖 #career, #management, #communication 🗓️ 2026-04-01
     > **Резюме:** If you want something at work, say it out loud. Your silence isn't saving you.
 - [Working on products people hate](https://seangoedecke.com/working-on-products-people-hate/) [📖](https://read.readwise.io/read/01kms2jy8ycdb58yc22naxwrr6) 👤 seangoedecke.com RSS feed 💬 1014 🔖 #career 🗓️ 2026-03-28

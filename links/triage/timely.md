@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-05-03 04:28 UTC · Статей: 48
+Сгенерировано: 2026-05-04 04:29 UTC · Статей: 53
 
 ## Статьи
 
@@ -15,6 +15,8 @@ _Актуальный контент, который может устареть
 - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) [📖](https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv) 👤 Max Woolf's Blog 💬 6903 ⭐ 8 🔖 #llm 🗓️ 2026-03-01
     > **Заметка:** Via https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything
     > **Резюме:** The author tested AI coding agents and found them surprisingly good at writing and optimizing Rust and Python code. These agents created fast, efficient machine learning tools that rival existing libraries. The author encourages others to try modern agents with clear coding guidelines for better results.
+- [Sequoia Ascent 2026 summary](https://karpathy.bearblog.dev/sequoia-ascent-2026/) [📖](https://read.readwise.io/read/01kqfkrxbz3t807sm2fm45v7tb) 👤 hidden (karpathy) 💬 6040 ⭐ 8 🗓️ 2026-04-30
+    > **Резюме:** AI is becoming a new way to do digital work by letting neural networks handle most tasks. Programmers now manage smart agents instead of writing all the code themselves. This shift means future software and knowledge work will rely on guiding AI agents, not just speeding up old processes.
 - [/ Isometric NYC](https://cannoneyed.com/projects/isometric-nyc?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kg1jzqd4sxbwtw7hcnhp8hwm) 👤 cannoneyed.com 💬 3943 ⭐ 8 🔖 #joyandcuriosity 🗓️ 2026-01-28
     > **Резюме:** The author used AI agents to help build a pixel art map of NYC with very little coding. Image generation models still struggle with mistakes and automation is hard. Despite challenges, AI tools make large creative projects possible and inspire hope for the future.
 - [Inside one startup’s crazy fast AI-first makeover](https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft) [📖](https://read.readwise.io/read/01kg1cwtt6qjef7dg86j5y98hd) 👤 Gergely Orosz 💬 3790 ⭐ 8 🗓️ 2026-01-28
@@ -104,10 +106,18 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** 2025 was a productive year: I wrote 38 articles, grew site traffic a lot, and released several open-source Django projects. In November my girlfriend and her daughter were in a serious car crash, so I’ve been caring for them and our dog. I started using AI cautiously, did freelance work for Sound Radix, and enjoyed trips, concerts, and games.
 - [The ambition tax](https://siddhantkhare.com/writing/ambition-tax) [📖](https://read.readwise.io/read/01kmet5erb6344eexjx5b10v35) 👤 Siddhant Khare 💬 1364 ⭐ 2 🗓️ 2026-03-24
     > **Резюме:** Ambition comes with a hidden cost that creates distance between you and the people you love. Even after achieving your goals, you feel restless and unsure if it's enough. This "ambition tax" is a quiet struggle many face but few talk about.
+- [Не по Проппу, а по Леви-Строссу](https://magazines.gorky.media/ural/2012/8/ne-po-proppu-a-po-levi-strossu.html) [📖](https://read.readwise.io/read/01kqqex869v0re4jv6xn9es3km) 👤 gorky.media 💬 1355 ⭐ 2 🗓️ 2026-05-03
+    > **Резюме:** Алексей Иванов в романе «Псоглавцы» показывает современную российскую деревню как место упадка и опасности. Он использует триллер, чтобы раскрыть проблемы культуры и общества, а не просто для развлечения. Книга говорит о том, что знания важнее материального мира и призывает задуматься о будущем страны.
 - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3bp2e1c7t54bkz8f1sqz05) 👤 Janko 💬 1093 ⭐ 2 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
     > **Резюме:** The internet used to be open and full of shared ideas, but now big companies control it and make it risky to show your thoughts. AI makes creating things easier, but it also lets big platforms copy and absorb your ideas quickly, so staying quiet feels safer. This "cognitive dark forest" means your innovations feed the system that threatens you, making hiding and sharing both dangerous.
 - [My audio interface has ssh enabled by default](https://hhh.hn/rodecaster-duo-fw/) [📖](https://read.readwise.io/read/01kq1zx0r4n33srh7vqaawdkzh) 👤 hhh.hn 💬 933 ⭐ 2 🗓️ 2026-04-25
     > **Заметка:** Via HackerNews
     > **Резюме:** The author bought a Rodecaster Duo for better audio during gaming and found it easy to use. They discovered the device has SSH enabled by default and allows easy firmware updates without signature checks. The author created custom firmware to access the device via SSH and reported the security concern to Rode.
+- [Алексей Иванов](https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/sobachi-serdcza.html) [📖](https://read.readwise.io/read/01kqqevpskax3a70rvmhpeyram) 👤 ivanproduction.ru 💬 714 ⭐ 2 🗓️ 2026-05-03
+    > **Резюме:** Роман «Псоглавцы» рассказывает о трёх молодых людях, которые исследуют таинственную деревню с необычными обычаями и легендами. Автор использует историю о святом Христофоре с собачьей головой, чтобы показать, как люди могут превращаться в зверей в сложных условиях. Книга сочетает элементы ужаса и социальной критики, отражая страхи современной России.
 - [Bypassing DPI with eBPF sock_ops](https://bora.sh/bypassing-dpi-with-ebpf/) [📖](https://read.readwise.io/read/01kqh31s3acyzhnmh2g9pmvpfb) 👤 Bora Tanrikulu 💬 13 ⭐ 2 🔖 #dpi 🗓️ 2026-05-01
     > **Резюме:** eBPF sock_ops, fake TLS packets, and why every platform needs a different hack
+- [НА ГРАНИЦЕ ТУЧИ ХОДЯТ ХМУРО](https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/na-granicze-tuchi-xodyat-xmuro.html) [📖](https://read.readwise.io/read/01kqqewcvfk42cm35ywcb7b37b) 👤 ivanproduction.ru 💬 529 ⭐ 1 🗓️ 2026-05-03
+    > **Резюме:** Издательство «Азбука» выпустило дебютный роман Алексея Маврина «Псоглавцы» с большой рекламной поддержкой. Книга рассказывает о столкновении двух миров — городской и отдалённой деревни с её простыми законами и страхами. Главная идея романа — сложно изменить привычный взгляд и перейти из одной реальности в другую.
+- [ТРИЛЛЕР О СОВРЕМЕННОЙ РУССКОЙ ДЕРЕВНЕ](https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/triller-o-sovremennoj-russkoj-derevne.html) [📖](https://read.readwise.io/read/01kqqetyjnxxaewfg26q0t5sa2) 👤 ivanproduction.ru 💬 460 ⭐ 1 🗓️ 2026-05-03
+    > **Резюме:** «Псоглавцы» — роман Алексея Маврина о конфликте двух миров в современной русской деревне. В книге смешаны мистические элементы и социальная критика, показывающие разделение России на разные «зоны». Текст интересен своей атмосферой, но перегружен деталями и имеет сюжетные недочеты.

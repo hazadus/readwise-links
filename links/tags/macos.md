@@ -1,11 +1,16 @@
 # Ссылки
 
-- Всего ссылок: 37
+- Всего ссылок: 39
 
 ## Ссылки
 
+- [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/) [📖](https://read.readwise.io/read/01kqks5fs8kha2b73e23wzmthz) 👤 hoakley 💬 632 🔖 #macos 🗓️ 2026-05-02
+    > **Заметка:** Интересно, но пока не вижу практического применения. 
+    > **Резюме:** Latest Geekbench performance figures for macOS VMs, and testing of how few cores and how little memory is really needed: could you run a macOS VM usefully on a MacBook Neo?
 - [Use Finder tags for categories](https://eclecticlight.co/2026/05/01/use-finder-tags-for-categories/) [📖](https://read.readwise.io/read/01kqh6q993mpt3zpp84fz5wdy0) 👤 hoakley 💬 1072 🔖 #macos 🗓️ 2026-05-01
     > **Резюме:** Finder tags let you organize files by adding colored labels to them. You can add, edit, or remove tags easily in the Finder, and tags stay with files even when copied to another Mac. Tags work best for simple categories, but they are not suited for detailed or long text information.
+- [Control what gets written to the log](https://eclecticlight.co/2026/04/30/control-what-gets-written-to-the-log/) [📖](https://read.readwise.io/read/01kqeha7z06hw4dfjjymz36r0k) 👤 hoakley 💬 963 🔖 #macos 🗓️ 2026-04-30
+    > **Резюме:** Two common problems with log: all the censored contents, which can make them meaningless, and the sheer number of entries. How to use logging preferences to tackle them.
 - [Virtualisation on Apple silicon Macs is different](https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different/) [📖](https://read.readwise.io/read/01kqc0eza18trzvdde7w98ahak) 👤 hoakley 💬 1399 🔖 #macos 🗓️ 2026-04-29
     > **Резюме:** Virtualising macOS, Linux and Windows on Intel Macs has been relatively straightforward, and device support left to the developer. That won't work for Apple silicon Macs. This explains what happens, its strengths and limitations as a result.
 - [Finder comments, steganography and malware](https://eclecticlight.co/2026/04/28/finder-comments-steganography-and-malware/) [📖](https://read.readwise.io/read/01kqaq4w6kjvn2znvpyq42v3mg) 👤 hoakley 💬 670 🔖 #macos 🗓️ 2026-04-28

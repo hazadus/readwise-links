@@ -1,12 +1,19 @@
 # Архивные ссылки
 
-- Всего ссылок: 1624
+- Всего ссылок: 1629
 
 ## Ссылки
 
+- [Why I don't like the "staff engineer archetypes"](https://seangoedecke.com/staff-engineer-archetypes/) [📖](https://read.readwise.io/read/01kqpaevrqq8w9r39cnjbpyqne) 👤 seangoedecke.com RSS feed 💬 1426 🔖 #career 🗓️ 2026-05-03
+    > **Заметка:** Sean Goedecke крутой, но последние посты чёт скучные. 
+- [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/) [📖](https://read.readwise.io/read/01kqks5fs8kha2b73e23wzmthz) 👤 hoakley 💬 632 🔖 #macos 🗓️ 2026-05-02
+    > **Заметка:** Интересно, но пока не вижу практического применения. 
+- [Using Playwright to test my static sites](https://alexwlchan.net/2026/playwright/?ref=rss) [📖](https://read.readwise.io/read/01kqknwedwzekqrn1jqhc2qkfg) 👤 alexwlchan 💬 1509 🔖 #testing, #frontend, #playwright 🗓️ 2026-05-02
+    > **Заметка:** Интересно будет попробовать, когда соберусь блог возрождать. 
 - [Use Finder tags for categories](https://eclecticlight.co/2026/05/01/use-finder-tags-for-categories/) [📖](https://read.readwise.io/read/01kqh6q993mpt3zpp84fz5wdy0) 👤 hoakley 💬 1072 🔖 #macos 🗓️ 2026-05-01
 - [Is It Time To Get Back To Fundamentals?](https://codemanship.wordpress.com/2026/05/01/is-it-time-to-get-back-to-fundamentals/) [📖](https://read.readwise.io/read/01kqh3pjwq6xw3c0a51wavsm2m) 👤 codemanship 💬 245 🔖 #llm 🗓️ 2026-05-01
     > **Заметка:** Интересная аналогия с записью музыки. Действительно, сейчас больше материалов про настройку агентов, чем про сделанный ими софт. 
+- [Control what gets written to the log](https://eclecticlight.co/2026/04/30/control-what-gets-written-to-the-log/) [📖](https://read.readwise.io/read/01kqeha7z06hw4dfjjymz36r0k) 👤 hoakley 💬 963 🔖 #macos 🗓️ 2026-04-30
 - [Zed is 1.0](https://zed.dev/blog/zed-1-0) [📖](https://read.readwise.io/read/01kqctck2g2ph7f0r2rwta7v29) 👤 Nathan Sobo 💬 797 🔖 #zed 🗓️ 2026-04-29
     > **Заметка:** Мне понравилось писать в Zed на Go ещё пару лет назад. Надо будет вернуться, попробовать 1.0.
 - [Are "Vintage LLMs" the start of a new humanistic field?](https://resobscura.substack.com/p/are-vintage-llms-the-start-of-a-new) [📖](https://read.readwise.io/read/01kqcpp6avwpj3wrp5gr3wfws4) 👤 Benjamin Breen 💬 2991 🔖 #llm, #predictions 🗓️ 2026-04-29
@@ -205,6 +212,7 @@ Via HackerNews
 - [Code is cheap. Show me the talk.](https://nadh.in/blog/code-is-cheap/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01khgq24x5b7xftm4ev81e06k2) 👤 nadh.in 💬 3618 🔖 #llm-devimpact, #joyandcuriosity 🗓️ 2026-02-15
 - [Look for what's true](https://dubroy.com/blog/look-for-whats-true/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01khgpt6an04vxjgjj2n0erfdp) 👤 About 💬 355 🔖 #joyandcuriosity 🗓️ 2026-02-15
 - [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything) [📖](https://read.readwise.io/read/01khgc771r1pxjay5dg991hry7) 👤 Simon Willison 💬 325 🔖 #llm, #llm-devimpact 🗓️ 2026-02-15
+- [Explainer: % CPU in Activity Monitor](https://eclecticlight.co/2026/02/14/explainer-cpu-in-activity-monitor/) [📖](https://read.readwise.io/read/01khgc3q4y6gymjrhyn8d28t8x) 👤 The Eclectic Light Company 💬 1543 🔖 #macos 🗓️ 2026-02-15
 - [Rebooting The Hynek](https://buttondown.com/hynek/archive/rebooting-the-hynek/) [📖](https://read.readwise.io/read/01khch6g0zs6xrvae49c2hd5cf) 👤 Hynek Did Something 💬 1415 🗓️ 2026-02-13
 - [Why Parenting Is Similar To JavaScript Development](https://brainbaking.com/post/2026/02/why-parenting-is-similar-to-javascript-development/) [📖](https://read.readwise.io/read/01khch0fabr1dxb8a9zp4ycgzv) 👤 Wouter Groeneveld 💬 974 🔖 #fun, #javascript 🗓️ 2026-02-13
 - [The Final Bottleneck](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/) [📖](https://read.readwise.io/read/01khcgxyff319ny8z98j3ebt7c) 👤 Armin Ronacher 💬 1067 🔖 #llm-devimpact 🗓️ 2026-02-13

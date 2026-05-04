@@ -2,7 +2,7 @@
 
 _Фундаментальные материалы с долгосрочной ценностью_
 
-Сгенерировано: 2026-05-03 04:28 UTC · Статей: 39
+Сгенерировано: 2026-05-04 04:29 UTC · Статей: 38
 
 ## Статьи
 
@@ -26,8 +26,6 @@ _Фундаментальные материалы с долгосрочной �
     > **Резюме:** Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.
 - [Why Isn't Everything Different Yet?](https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dctz7gv9zqqkm3jxke3xf) 👤 Dave Griffith 💬 1791 ⭐ 8 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** AI technology is impressive but changing everything takes time because systems, laws, and business models must be rebuilt from scratch. Software development is the first area transformed, but integrating AI widely requires millions of people to adapt workflows and trust the tools. Despite impatience, this transformation is happening very fast compared to past technologies and will soon feel much bigger.
-- [Explainer: % CPU in Activity Monitor](https://eclecticlight.co/2026/02/14/explainer-cpu-in-activity-monitor/) [📖](https://read.readwise.io/read/01khgc3q4y6gymjrhyn8d28t8x) 👤 The Eclectic Light Company 💬 1543 ⭐ 8 🔖 #macos 🗓️ 2026-02-15 · 🧠 основы, 🌲 вечнозелёное
-    > **Резюме:** Activity Monitor shows % CPU as the time CPU cores spend working, but it doesn't consider core speed or type. Intel CPUs with Hyper-threading and Apple silicon chips with varying core frequencies can make % CPU confusing to interpret. Also, high % CPU does not always mean an app is unresponsive, as shown by the spinning beachball, which relates to the app’s main thread being busy.
 - [Test state, not interactions](http://rednafi.com/go/test_state_not_interactions/) [📖](https://read.readwise.io/read/01k53sm41rtcw226t6tvwf18wd) 👤 Redowan Delowar 💬 1542 ⭐ 8 🔖 #testing 🗓️ 2025-09-14 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Test outcomes and state, not which functions were called.  
 LLMs and mock-generated interaction tests are brittle and can miss real bugs.  

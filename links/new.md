@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 926
+- Всего ссылок: 927
 
 ## Ссылки
 
+- [How to Write UI Components That Stay Flexible](https://alexop.dev/posts/compound-components-in-vue-shadcn/) [📖](https://read.readwise.io/read/01kqmm2pwkmy1zv0s4fh011ycg) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 4490 🗓️ 2026-05-02
 - [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) [📖](https://read.readwise.io/read/01knymwy6b02avchen3gkmjr08) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11
 - [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) [📖](https://read.readwise.io/read/01knhde7wg4mcx47qc2k368z0k) 👤 Ivan Grishaev's blog 💬 7191 🔖 #book, #postgresql 🗓️ 2026-04-06
 - [Getting Real](https://readwise.io/reader/document_raw_content/2844630) [📖](https://read.readwise.io/read/01kkspgf8s81ww3t6v257fepfc) 👤 Basecamp 💬 29339 🗓️ 2026-03-15
