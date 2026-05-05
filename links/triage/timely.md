@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-05-04 04:29 UTC · Статей: 53
+Сгенерировано: 2026-05-05 04:14 UTC · Статей: 55
 
 ## Статьи
 
@@ -26,6 +26,8 @@ _Актуальный контент, который может устареть
     > **Резюме:** AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) [📖](https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96) 👤 Peter Steinberger 💬 3413 ⭐ 8 🔖 #llm 🗓️ 2026-01-09
     > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
+- [Little Helper • The Applied Go Weekly Newsletter 2026-05-03](https://newsletter.appliedgo.net/archive/2026-05-03-little-helper/) [📖](https://read.readwise.io/read/01kqrmee8fp3npppa41mr0ey9q) 👤 The Applied Go Weekly Newsletter 💬 3211 ⭐ 8 🗓️ 2026-05-04
+    > **Резюме:** This newsletter explains how AI, especially large language models (LLMs), can help developers by reviewing code, writing boring boilerplate, and generating documentation without replacing the joy of coding. It shares a practical example of using an LLM to understand security issues in Go code. The message encourages using AI as a helpful tool, not a full substitute for programming skills.
 - [Eight Software Markets AI That Will Transform Differently](https://davegriffith.substack.com/p/eight-software-markets-ai-that-will) [📖](https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt) 👤 Dave Griffith 💬 2917 ⭐ 8 🔖 #llm 🗓️ 2026-01-12 · 🧠 основы
     > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
 - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) [📖](https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt) 👤 mariozechner.at 💬 2368 ⭐ 8 🗓️ 2026-03-26
@@ -34,6 +36,8 @@ _Актуальный контент, который может устареть
     > **Резюме:** The author tested OpenCode to avoid relying on Claude Code due to quality and control issues. OpenCode performed about as well as Claude Code but lacks key features like memory and better user control. The author paused Claude Code and will watch how OpenCode improves before deciding what to use next.
 - [The creator of Clawd: "I ship code I don't read"](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code) [📖](https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz) 👤 Gergely Orosz 💬 1589 ⭐ 8 🗓️ 2026-01-29
     > **Резюме:** Peter Steinberger uses AI agents to build and ship software quickly, acting like a whole team by himself. He designs systems so AI can check and improve its own code without much human review. This new way of working focuses on outcomes and architecture, not on writing every line of code by hand.
+- [The duality of language models in the browser](https://daverupert.com/2026/05/small-language-models-in-the-browser/) [📖](https://read.readwise.io/read/01kqr6j0e2cmwpyxt8ycbvyjcz) 👤 daverupert.com 💬 1358 ⭐ 8 🗓️ 2026-05-04 · 🧠 основы
+    > **Резюме:** Small language models running in browsers offer privacy, low cost, and offline use, making AI more accessible. However, they face challenges like limited accuracy, potential monopoly by big companies, and high device requirements. The author supports their potential but urges careful standards and diverse, ethical development.
 - [Building an AI QA Engineer with Claude Code and Playwright MCP](https://alexop.dev/posts/building_ai_qa_engineer_claude_code_playwright/) [📖](https://read.readwise.io/read/01kcgefhszbsw1gk9vj18g5pn0) 👤 Alexander Opalic 💬 1193 ⭐ 8 🔖 #mcp, #claude 🗓️ 2025-12-15 · 🛠️ туториал
     > **Резюме:** Alexander Opalic built an AI QA engineer named Quinn that uses Claude Code and Playwright MCP to test web apps through the browser like a real user. Quinn runs on pull requests via GitHub Actions, clicks, types, resizes the viewport, and posts detailed bug reports with screenshots. This approach finds edge cases and complements but does not replace traditional unit and E2E tests.
 - [Things I've done with AI](https://sjer.red/blog/2026/built-with-ai/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kkeac4cvcpn0vb4y9v0pmwgt) 👤 Jerred Shepherd 💬 1067 ⭐ 8 🔖 #llm 🗓️ 2026-03-11

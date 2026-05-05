@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 102
+- Всего ссылок: 104
 
 ## Ссылки
 
+- [Little Helper • The Applied Go Weekly Newsletter 2026-05-03](https://newsletter.appliedgo.net/archive/2026-05-03-little-helper/) [📖](https://read.readwise.io/read/01kqrmee8fp3npppa41mr0ey9q) 👤 The Applied Go Weekly Newsletter 💬 3211 🗓️ 2026-05-04
+    > **Резюме:** This newsletter explains how AI, especially large language models (LLMs), can help developers by reviewing code, writing boring boilerplate, and generating documentation without replacing the joy of coding. It shares a practical example of using an LLM to understand security issues in Go code. The message encourages using AI as a helpful tool, not a full substitute for programming skills.
+- [The duality of language models in the browser](https://daverupert.com/2026/05/small-language-models-in-the-browser/) [📖](https://read.readwise.io/read/01kqr6j0e2cmwpyxt8ycbvyjcz) 👤 daverupert.com 💬 1358 🗓️ 2026-05-04
+    > **Резюме:** Small language models running in browsers offer privacy, low cost, and offline use, making AI more accessible. However, they face challenges like limited accuracy, potential monopoly by big companies, and high device requirements. The author supports their potential but urges careful standards and diverse, ethical development.
 - [Не по Проппу, а по Леви-Строссу](https://magazines.gorky.media/ural/2012/8/ne-po-proppu-a-po-levi-strossu.html) [📖](https://read.readwise.io/read/01kqqex869v0re4jv6xn9es3km) 👤 gorky.media 💬 1355 🗓️ 2026-05-03
     > **Резюме:** Алексей Иванов в романе «Псоглавцы» показывает современную российскую деревню как место упадка и опасности. Он использует триллер, чтобы раскрыть проблемы культуры и общества, а не просто для развлечения. Книга говорит о том, что знания важнее материального мира и призывает задуматься о будущем страны.
 - [НА ГРАНИЦЕ ТУЧИ ХОДЯТ ХМУРО](https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/na-granicze-tuchi-xodyat-xmuro.html) [📖](https://read.readwise.io/read/01kqqewcvfk42cm35ywcb7b37b) 👤 ivanproduction.ru 💬 529 🗓️ 2026-05-03

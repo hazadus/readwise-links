@@ -2,7 +2,7 @@
 
 _Фундаментальные материалы с долгосрочной ценностью_
 
-Сгенерировано: 2026-05-04 04:29 UTC · Статей: 38
+Сгенерировано: 2026-05-05 04:14 UTC · Статей: 39
 
 ## Статьи
 
@@ -30,6 +30,8 @@ _Фундаментальные материалы с долгосрочной �
     > **Резюме:** Test outcomes and state, not which functions were called.  
 LLMs and mock-generated interaction tests are brittle and can miss real bugs.  
 Write the first tests yourself and prefer public-API tests with handwritten fakes or real test services.
+- [The duality of language models in the browser](https://daverupert.com/2026/05/small-language-models-in-the-browser/) [📖](https://read.readwise.io/read/01kqr6j0e2cmwpyxt8ycbvyjcz) 👤 daverupert.com 💬 1358 ⭐ 8 🗓️ 2026-05-04 · 🧠 основы
+    > **Резюме:** Small language models running in browsers offer privacy, low cost, and offline use, making AI more accessible. However, they face challenges like limited accuracy, potential monopoly by big companies, and high device requirements. The author supports their potential but urges careful standards and diverse, ethical development.
 - [Programming languages for AI](https://blog.ploeh.dk/2026/03/30/programming-languages-for-ai/) [📖](https://read.readwise.io/read/01kndptghaxk924qaqr7pc3zmx) 👤 Mark Seemann 💬 1289 ⭐ 8 🗓️ 2026-04-05 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Programming languages for AI should do more than be human-readable; they must ensure portability, security, and verifiability. Strong static type systems and built-in guardrails help prevent errors and make code safer, especially for machine-generated software. Future AI-focused languages should prioritize these features over ease of writing to enable trustworthy, verifiable code.
 - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3) 👤 ngrok 💬 78 ⭐ 8 🔖 #llm, #explorable, #joyandcuriosity 🗓️ 2025-12-21 · 🧠 основы, 🌲 вечнозелёное

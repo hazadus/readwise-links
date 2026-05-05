@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1629
+- Всего ссылок: 1630
 
 ## Ссылки
 
+- [You Are What You Read](https://wsvincent.com/you-are-what-you-read/) [📖](https://read.readwise.io/read/01kqq7xnqe6kg3xjkmztedkb67) 👤 Will Vincent 💬 1439 🔖 #reading 🗓️ 2026-05-03
+    > **Заметка:** У меня основное чтение сейчас – fiction / RSS / non-fiction, немного newsletters. Выжимку главного из Mastodon / Bluesky / HN приносит по утрам OpenClaw. You are what you read – в точку.
 - [Why I don't like the "staff engineer archetypes"](https://seangoedecke.com/staff-engineer-archetypes/) [📖](https://read.readwise.io/read/01kqpaevrqq8w9r39cnjbpyqne) 👤 seangoedecke.com RSS feed 💬 1426 🔖 #career 🗓️ 2026-05-03
     > **Заметка:** Sean Goedecke крутой, но последние посты чёт скучные. 
 - [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/) [📖](https://read.readwise.io/read/01kqks5fs8kha2b73e23wzmthz) 👤 hoakley 💬 632 🔖 #macos 🗓️ 2026-05-02

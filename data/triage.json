@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T04:29:29.443348+00:00",
+  "generated_at": "2026-05-05T04:14:02.846015+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -365,6 +365,28 @@
         }
       },
       {
+        "id": "01kqrmee8fp3npppa41mr0ey9q",
+        "url": "https://read.readwise.io/read/01kqrmee8fp3npppa41mr0ey9q",
+        "source_url": "https://newsletter.appliedgo.net/archive/2026-05-03-little-helper/",
+        "title": "Little Helper • The Applied Go Weekly Newsletter 2026-05-03",
+        "author": "The Applied Go Weekly Newsletter",
+        "image_url": "https://assets.buttondown.email/images/c9e16a7d-25a2-4966-8275-9d80a213ccf0.png",
+        "word_count": 3211,
+        "summary": "This newsletter explains how AI, especially large language models (LLMs), can help developers by reviewing code, writing boring boilerplate, and generating documentation without replacing the joy of coding. It shares a practical example of using an LLM to understand security issues in Go code. The message encourages using AI as a helpful tool, not a full substitute for programming skills.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-04T04:37:46.968000+00:00",
+        "last_moved_at": "2026-05-04T12:47:51.650000+00:00",
+        "published_date": "2026-05-03",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
         "id": "01ker9ertz01bavfn5bc79e5dt",
         "url": "https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt",
         "source_url": "https://davegriffith.substack.com/p/eight-software-markets-ai-that-will",
@@ -507,28 +529,6 @@
         "saved_at": "2026-04-03T13:03:11.448000+00:00",
         "last_moved_at": "2026-04-03T13:03:15.250000+00:00",
         "published_date": "2026-03-22",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kpz4x1yajdkj46sz8958dtx1",
-        "url": "https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1",
-        "source_url": "https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/",
-        "title": "The secret life of the xattr",
-        "author": "hoakley",
-        "image_url": "https://eclecticlight.co/wp-content/uploads/2023/05/fileobjects.png",
-        "word_count": 1905,
-        "summary": "Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-24T07:05:07.859000+00:00",
-        "last_moved_at": "2026-04-25T18:53:40.592000+00:00",
-        "published_date": "2026-04-24",
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
@@ -1753,6 +1753,28 @@
         "saved_at": "2026-01-09T09:15:50.502000+00:00",
         "last_moved_at": "2026-01-09T09:16:21.927000+00:00",
         "published_date": "2025-12-28",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kqrmee8fp3npppa41mr0ey9q",
+        "url": "https://read.readwise.io/read/01kqrmee8fp3npppa41mr0ey9q",
+        "source_url": "https://newsletter.appliedgo.net/archive/2026-05-03-little-helper/",
+        "title": "Little Helper • The Applied Go Weekly Newsletter 2026-05-03",
+        "author": "The Applied Go Weekly Newsletter",
+        "image_url": "https://assets.buttondown.email/images/c9e16a7d-25a2-4966-8275-9d80a213ccf0.png",
+        "word_count": 3211,
+        "summary": "This newsletter explains how AI, especially large language models (LLMs), can help developers by reviewing code, writing boring boilerplate, and generating documentation without replacing the joy of coding. It shares a practical example of using an LLM to understand security issues in Go code. The message encourages using AI as a helpful tool, not a full substitute for programming skills.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-04T04:37:46.968000+00:00",
+        "last_moved_at": "2026-05-04T12:47:51.650000+00:00",
+        "published_date": "2026-05-03",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -6294,6 +6316,28 @@
         }
       },
       {
+        "id": "01kqr6j0e2cmwpyxt8ycbvyjcz",
+        "url": "https://read.readwise.io/read/01kqr6j0e2cmwpyxt8ycbvyjcz",
+        "source_url": "https://daverupert.com/2026/05/small-language-models-in-the-browser/",
+        "title": "The duality of language models in the browser",
+        "author": "daverupert.com",
+        "image_url": "https://daverupert.com/favicon.ico",
+        "word_count": 1358,
+        "summary": "Small language models running in browsers offer privacy, low cost, and offline use, making AI more accessible. However, they face challenges like limited accuracy, potential monopoly by big companies, and high device requirements. The author supports their potential but urges careful standards and diverse, ethical development.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-04T00:35:03.819000+00:00",
+        "last_moved_at": "2026-05-04T10:27:37.720000+00:00",
+        "published_date": "2026-05-04",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
         "id": "01kndptghaxk924qaqr7pc3zmx",
         "url": "https://read.readwise.io/read/01kndptghaxk924qaqr7pc3zmx",
         "source_url": "https://blog.ploeh.dk/2026/03/30/programming-languages-for-ai/",
@@ -7281,6 +7325,28 @@
         }
       },
       {
+        "id": "01kqrmee8fp3npppa41mr0ey9q",
+        "url": "https://read.readwise.io/read/01kqrmee8fp3npppa41mr0ey9q",
+        "source_url": "https://newsletter.appliedgo.net/archive/2026-05-03-little-helper/",
+        "title": "Little Helper • The Applied Go Weekly Newsletter 2026-05-03",
+        "author": "The Applied Go Weekly Newsletter",
+        "image_url": "https://assets.buttondown.email/images/c9e16a7d-25a2-4966-8275-9d80a213ccf0.png",
+        "word_count": 3211,
+        "summary": "This newsletter explains how AI, especially large language models (LLMs), can help developers by reviewing code, writing boring boilerplate, and generating documentation without replacing the joy of coding. It shares a practical example of using an LLM to understand security issues in Go code. The message encourages using AI as a helpful tool, not a full substitute for programming skills.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-04T04:37:46.968000+00:00",
+        "last_moved_at": "2026-05-04T12:47:51.650000+00:00",
+        "published_date": "2026-05-03",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
         "id": "01ker9ertz01bavfn5bc79e5dt",
         "url": "https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt",
         "source_url": "https://davegriffith.substack.com/p/eight-software-markets-ai-that-will",
@@ -7376,6 +7442,28 @@
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kqr6j0e2cmwpyxt8ycbvyjcz",
+        "url": "https://read.readwise.io/read/01kqr6j0e2cmwpyxt8ycbvyjcz",
+        "source_url": "https://daverupert.com/2026/05/small-language-models-in-the-browser/",
+        "title": "The duality of language models in the browser",
+        "author": "daverupert.com",
+        "image_url": "https://daverupert.com/favicon.ico",
+        "word_count": 1358,
+        "summary": "Small language models running in browsers offer privacy, low cost, and offline use, making AI more accessible. However, they face challenges like limited accuracy, potential monopoly by big companies, and high device requirements. The author supports their potential but urges careful standards and diverse, ethical development.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-04T00:35:03.819000+00:00",
+        "last_moved_at": "2026-05-04T10:27:37.720000+00:00",
+        "published_date": "2026-05-04",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
           "is_evergreen": false,
           "interest_score": 8
         }

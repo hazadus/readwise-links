@@ -2,7 +2,7 @@
 
 _20 статей с наивысшим interest_score_
 
-Сгенерировано: 2026-05-04 04:29 UTC · Статей: 20
+Сгенерировано: 2026-05-05 04:14 UTC · Статей: 20
 
 ## Статьи
 
@@ -37,6 +37,8 @@ _20 статей с наивысшим interest_score_
     > **Резюме:** AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) [📖](https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96) 👤 Peter Steinberger 💬 3413 ⭐ 8 🔖 #llm 🗓️ 2026-01-09
     > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
+- [Little Helper • The Applied Go Weekly Newsletter 2026-05-03](https://newsletter.appliedgo.net/archive/2026-05-03-little-helper/) [📖](https://read.readwise.io/read/01kqrmee8fp3npppa41mr0ey9q) 👤 The Applied Go Weekly Newsletter 💬 3211 ⭐ 8 🗓️ 2026-05-04
+    > **Резюме:** This newsletter explains how AI, especially large language models (LLMs), can help developers by reviewing code, writing boring boilerplate, and generating documentation without replacing the joy of coding. It shares a practical example of using an LLM to understand security issues in Go code. The message encourages using AI as a helpful tool, not a full substitute for programming skills.
 - [Eight Software Markets AI That Will Transform Differently](https://davegriffith.substack.com/p/eight-software-markets-ai-that-will) [📖](https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt) 👤 Dave Griffith 💬 2917 ⭐ 8 🔖 #llm 🗓️ 2026-01-12 · 🧠 основы
     > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) [📖](https://read.readwise.io/read/01ke9z0vpb9xqf5ateyympwzpm) 👤 Nikita Prokopov 💬 2754 ⭐ 8 🗓️ 2026-01-06 · 🧠 основы, 🌲 вечнозелёное
@@ -48,5 +50,3 @@ _20 статей с наивысшим interest_score_
 - [Software Development in 2026](https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026) [📖](https://read.readwise.io/read/01kn9q1g2rkzrdsd4mgzghk9ew) 👤 Aleksei Matiushkin 💬 1952 ⭐ 8 🗓️ 2026-04-03 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via ElixirWeekly
     > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.
-- [The secret life of the xattr](https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/) [📖](https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1) 👤 hoakley 💬 1905 ⭐ 8 🗓️ 2026-04-24 · 🧠 основы, 🌲 вечнозелёное
-    > **Резюме:** Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.
