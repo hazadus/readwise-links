@@ -2,7 +2,7 @@
 
 _Короткие статьи (не туториалы, не основы), отсортированные по объёму_
 
-Сгенерировано: 2026-05-05 04:14 UTC · Статей: 30
+Сгенерировано: 2026-05-06 04:26 UTC · Статей: 30
 
 ## Статьи
 
@@ -35,8 +35,6 @@ _Короткие статьи (не туториалы, не основы), о�
     > **Резюме:** Tests help but they cost time because they are code to write, maintain, and run.  
 Only write tests that add lasting value: prefer static analysis, check intent not implementation, and avoid fragile mocked checks.  
 Skip unit tests for UI rendering; test stable business logic, state, and reusable components instead.
-- [Sign of the future: GPT-5.5](https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55) [📖](https://read.readwise.io/read/01kpxz29xms7005qe2ssdpsh0s) 👤 Ethan Mollick 💬 1539 ⭐ 7 🗓️ 2026-04-23
-    > **Резюме:** GPT-5.5 is a big step forward in AI, showing faster and smarter abilities in coding, writing, and image generation. It can create complex tasks like academic papers and roleplaying games with little input. However, some challenges remain, such as flat fiction and less interesting ideas, showing AI still has room to grow.
 - [The creator of Clawd: "I ship code I don't read"](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code) [📖](https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz) 👤 Gergely Orosz 💬 1589 ⭐ 8 🗓️ 2026-01-29
     > **Резюме:** Peter Steinberger uses AI agents to build and ship software quickly, acting like a whole team by himself. He designs systems so AI can check and improve its own code without much human review. This new way of working focuses on outcomes and architecture, not on writing every line of code by hand.
 - [The Software Development Lifecycle Is Dead](https://boristane.com/blog/the-software-development-lifecycle-is-dead/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw5d83t9105hqzkean823b) 👤 Boris Tane 💬 1702 ⭐ 6 🔖 #joyandcuriosity 🗓️ 2026-03-01
@@ -75,3 +73,5 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** AI agents have potential but are not as broadly useful as many think. They can help with coding and research but also raise ethical and environmental concerns. The true value of AI agents depends on careful use and human involvement.
 - [macOS Tips](https://blog.xoria.org/macos-tips/) [📖](https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8) 👤 xoria.org 💬 2856 ⭐ 7 🔖 #macos 🗓️ 2026-01-31 · 🌲 вечнозелёное
     > **Резюме:** macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.
+- [The Software Industrial Revolution](https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw7mm8skajhhkmnf0tp4s1) 👤 cannoneyed.com 💬 3140 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01
+    > **Резюме:** The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.

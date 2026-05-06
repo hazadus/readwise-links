@@ -1,9 +1,10 @@
 # Ссылки
 
-- Всего ссылок: 19
+- Всего ссылок: 20
 
 ## Ссылки
 
+- [None](https://read.readwise.io/read/01kqv9vfsnqjy1mh4ja6hgkbwm) 🔖 #predictions 🗓️ 2026-05-05
 - [Are "Vintage LLMs" the start of a new humanistic field?](https://resobscura.substack.com/p/are-vintage-llms-the-start-of-a-new) [📖](https://read.readwise.io/read/01kqcpp6avwpj3wrp5gr3wfws4) 👤 Benjamin Breen 💬 2991 🔖 #llm, #predictions 🗓️ 2026-04-29
     > **Заметка:** Интересные идеи насчет "исторических LLM". Их, как минимум, можно использовать для различных исторических симуляций - игр или в процессе обучения. Очень интересные направления для исследований описаны в статье.
     > **Резюме:** Thoughts on Historical Language Models and Talkie-1930

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 42
+- Всего ссылок: 43
 
 ## Ссылки
 
+- [Are Written Coding Tutorials Dead?](https://wsvincent.com/future-written-tutorials/) [📖](https://read.readwise.io/read/01kqsp5t6csw3jew91h3xerx3j) 👤 Will Vincent 💬 1072 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-05-04
+    > **Резюме:** Have LLMs truly killed the point of human-written coding tutorials?
 - [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) [📖](https://read.readwise.io/read/01knp9f4rgqj2ket2f9t34hv69) 👤 Wouter Groeneveld 💬 2840 🔖 #learning, #llm-devimpact, #llm-resistance 🗓️ 2026-04-08
     > **Резюме:** Generative AI is changing how we work, learn, and create, but it often makes us less skilled and less thoughtful. It can speed up tasks but also lowers the quality and originality of what we produce. We should use it carefully, or risk losing important human creativity and responsibility.
 - [Do Less.](https://usefulfictions.substack.com/p/do-less?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmv1vv17d1rnh4mvg6m8qs7) 👤 Cate Hall 💬 1789 🔖 #reading, #learning, #joyandcuriosity 🗓️ 2026-03-01

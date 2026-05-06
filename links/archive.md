@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1630
+- Всего ссылок: 1633
 
 ## Ссылки
 
+- [Are Written Coding Tutorials Dead?](https://wsvincent.com/future-written-tutorials/) [📖](https://read.readwise.io/read/01kqsp5t6csw3jew91h3xerx3j) 👤 Will Vincent 💬 1072 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-05-04
 - [You Are What You Read](https://wsvincent.com/you-are-what-you-read/) [📖](https://read.readwise.io/read/01kqq7xnqe6kg3xjkmztedkb67) 👤 Will Vincent 💬 1439 🔖 #reading 🗓️ 2026-05-03
     > **Заметка:** У меня основное чтение сейчас – fiction / RSS / non-fiction, немного newsletters. Выжимку главного из Mastodon / Bluesky / HN приносит по утрам OpenClaw. You are what you read – в точку.
 - [Why I don't like the "staff engineer archetypes"](https://seangoedecke.com/staff-engineer-archetypes/) [📖](https://read.readwise.io/read/01kqpaevrqq8w9r39cnjbpyqne) 👤 seangoedecke.com RSS feed 💬 1426 🔖 #career 🗓️ 2026-05-03
@@ -58,6 +59,8 @@ Via TLDR
 Установил, попробую поработать в ней с заметками с основной работы. Послежу за развитием - не забросит ли её автор в ближайшее время?
 
 Via HackerNews
+- [Sign of the future: GPT-5.5](https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55) [📖](https://read.readwise.io/read/01kpxz29xms7005qe2ssdpsh0s) 👤 Ethan Mollick 💬 1539 🔖 #llm 🗓️ 2026-04-23
+    > **Заметка:** Уж очень сильно автор нахваливает новую модель, очень подозрительно.
 - [The Pulse: ‘Tokenmaxxing’ as a weird new trend](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/) [📖](https://read.readwise.io/read/01kpxsckj3veyzbhy69y9dhzyc) 👤 Gergely Orosz 💬 1993 🔖 #llm, #definitions, #llm-devimpact 🗓️ 2026-04-23
     > **Заметка:** Думается, когда волна хайпа спадёт, все придут к спокойному использованию LLM-инструментов – а не показному завышению объёмов их использования. 
 - [Courier: real-time messaging for ESP32 with batteries included (new library)](https://interconnected.org/home/2026/04/21/courier) [📖](https://read.readwise.io/read/01kpx8339m6cx9jbj00p2st6qx) 👤 Interconnected 💬 859 🔖 #try, #esp32 🗓️ 2026-04-23
@@ -77,6 +80,8 @@ Via HackerNews
 - [My Workspaces](https://brainbaking.com/post/2026/04/my-workspaces/) [📖](https://read.readwise.io/read/01kp5z99ytq1sknk6n87v50433) 👤 Wouter Groeneveld 💬 1091 🗓️ 2026-04-14
 - [GitHub Stacked PRs | GitHub Stacked PRs](https://github.github.com/gh-stack/) [📖](https://read.readwise.io/read/01kp56k5rvhe3s3r8b87bd5z4q) 👤 github.com 💬 540 🔖 #github 🗓️ 2026-04-14
 - [Squash and Stretch](https://www.joshwcomeau.com/animation/squash-and-stretch/) [📖](https://read.readwise.io/read/01kp3krh1pjhbemz69pnxdac1c) 👤 Josh W. Comeau 💬 1457 🔖 #css, #animation 🗓️ 2026-04-13
+- [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y) 👤 aphyr.com 💬 2947 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
+    > **Заметка:** Какое-то неоднозначное впечатление от поста, но основной посыл верный: люди всё больше безоговорочно верят LLM, а те могут делать и грубые, и достаточно неочевидные ошибки. 
 - [I Am a Cross-Cutting Concern](https://scottlawsonbc.com/post/monorepo) [📖](https://read.readwise.io/read/01kp3by8wbvfkvzb5v915nng9n) 👤 Scott Lawson 💬 1792 🔖 #pkm 🗓️ 2026-04-13
 - [A Dot a Day Keeps the Clutter Away](https://scottlawsonbc.com/post/dot-system?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3brjneqymrj0t46kwssqp5) 👤 Scott Lawson 💬 2201 🔖 #homelab, #joyandcuriosity 🗓️ 2026-04-13
 - [The surprising attention on sprites, exe.dev, and shellbox](https://lalitm.com/trying-sprites-exedev-shellbox/) [📖](https://read.readwise.io/read/01kp3asncgtm5g4knnzfy1dyy4) 👤 Lalit Maganti 💬 1676 🗓️ 2026-04-13

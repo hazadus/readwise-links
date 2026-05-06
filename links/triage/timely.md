@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-05-05 04:14 UTC · Статей: 55
+Сгенерировано: 2026-05-06 04:26 UTC · Статей: 53
 
 ## Статьи
 
@@ -51,16 +51,12 @@ _Актуальный контент, который может устареть
     > **Резюме:** AI agents have potential but are not as broadly useful as many think. They can help with coding and research but also raise ethical and environmental concerns. The true value of AI agents depends on careful use and human involvement.
 - [Giving an Agent a Rooted Android Phone](https://workers.io/blog/autonomous-mobile-pentesting/) [📖](https://read.readwise.io/read/01knw7n6b8z86v81jcnw406vvp) 👤 Workers IO 💬 2247 ⭐ 7 🗓️ 2026-04-10 · 🛠️ туториал
     > **Резюме:** Giving an AI agent root access to an Android phone lets it fully test apps by controlling the screen, intercepting network traffic, and modifying app behavior. The agent used tools like Frida and mitmproxy to reverse-engineer Subway Surfers and hack unlimited coins automatically. This approach speeds up mobile security testing by automating actions and analysis without human guidance.
-- [Sign of the future: GPT-5.5](https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55) [📖](https://read.readwise.io/read/01kpxz29xms7005qe2ssdpsh0s) 👤 Ethan Mollick 💬 1539 ⭐ 7 🗓️ 2026-04-23
-    > **Резюме:** GPT-5.5 is a big step forward in AI, showing faster and smarter abilities in coding, writing, and image generation. It can create complex tasks like academic papers and roleplaying games with little input. However, some challenges remain, such as flat fiction and less interesting ideas, showing AI still has room to grow.
 - [Unlocking Reading Insights: A Guide to Data Analysis with Claude and Readwise](https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/) [📖](https://read.readwise.io/read/01k62kckeewb1936zrjewhbhvn) 👤 Alexander Opalic 💬 1522 ⭐ 7 🗓️ 2025-09-26 · 🛠️ туториал
     > **Резюме:** This blog post explains how to use Claude.ai's CSV analysis feature with Readwise data for better insights. It highlights the importance of crafting specific prompts to extract meaningful information and create visualizations. The tutorial also touches on the technical aspects of how Claude processes and analyzes the data.
 - [Hello Walter! Learning Rust on ESP32](https://blog.matthewbrunelle.com/hello-walter-learning-rust-on-esp32/) [📖](https://read.readwise.io/read/01kq6r43eh0tj3j5x4s151837c) 👤 Matthew Brunelle's Blog 💬 1236 ⭐ 7 🔖 #rust, #esp32 🗓️ 2026-04-27 · 🛠️ туториал, 🧠 основы
     > **Резюме:** The author is building an embedded device to scan signals and log GPS data using the Walter ESP32-S3 board and Rust programming. They set up a complex development environment on NixOS to run the Embassy async framework for better multitasking. After overcoming setup challenges, they successfully ran a "Hello World" program and plan to expand the project further.
 - [The Software Development Lifecycle Is Dead](https://boristane.com/blog/the-software-development-lifecycle-is-dead/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw5d83t9105hqzkean823b) 👤 Boris Tane 💬 1702 ⭐ 6 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** Software development no longer follows fixed steps but relies on agents that write code, test, and deploy continuously. Humans guide the agents by providing context and reviewing complex decisions, while agents handle routine tasks and fix issues automatically. This shift enables faster, automated releases with minimal human intervention, changing how teams work and monitor software.
-- [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y) 👤 aphyr.com 💬 2947 ⭐ 4 🔖 #llm, #joyandcuriosity 🗓️ 2026-04-13
-    > **Резюме:** Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say "I don't know," leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.
 - [The Structure of Engineering Revolutions](https://webdirections.org/blog/the-structure-of-engineering-revolutions/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kkeb8d42rdtsnyrwfezxesgd) 👤 @johnallsopp 💬 4159 ⭐ 3 🗓️ 2026-03-11
     > **Резюме:** Experienced software engineers resist AI-assisted coding because it challenges their long-held beliefs and skills. This resistance follows a pattern of paradigm shifts described by Thomas Kuhn, where new ideas disrupt old frameworks. Despite skepticism, AI tools are proving to boost productivity and change software development fundamentally.
 - [The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev) [📖](https://read.readwise.io/read/01km5fqgjckw8znfxbjqybrm3c) 👤 Daring Fireball 💬 3347 ⭐ 3 🗓️ 2026-03-20

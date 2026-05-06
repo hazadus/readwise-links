@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T04:14:02.846015+00:00",
+  "generated_at": "2026-05-06T04:26:10.315026+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -848,28 +848,6 @@
         }
       },
       {
-        "id": "01kpxz29xms7005qe2ssdpsh0s",
-        "url": "https://read.readwise.io/read/01kpxz29xms7005qe2ssdpsh0s",
-        "source_url": "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
-        "title": "Sign of the future: GPT-5.5",
-        "author": "Ethan Mollick",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!hesI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c591570-ee4a-4107-a9d1-b167d3f4a64a_1484x1060.png",
-        "word_count": 1539,
-        "summary": "GPT-5.5 is a big step forward in AI, showing faster and smarter abilities in coding, writing, and image generation. It can create complex tasks like academic papers and roleplaying games with little input. However, some challenges remain, such as flat fiction and less interesting ideas, showing AI still has room to grow.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-23T20:03:53.981000+00:00",
-        "last_moved_at": "2026-04-24T04:55:29.189000+00:00",
-        "published_date": "2026-04-23",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
         "id": "01kg4hy6f9wszmza56vvc5pbdz",
         "url": "https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz",
         "source_url": "https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code",
@@ -1322,6 +1300,34 @@
           "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 7
+        }
+      },
+      {
+        "id": "01kjmw7mm8skajhhkmnf0tp4s1",
+        "url": "https://read.readwise.io/read/01kjmw7mm8skajhhkmnf0tp4s1",
+        "source_url": "https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email",
+        "title": "The Software Industrial Revolution",
+        "author": "cannoneyed.com",
+        "image_url": "",
+        "word_count": 3140,
+        "summary": "The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.",
+        "notes": "",
+        "tags": {
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1772374715170
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-03-01T14:18:28.871000+00:00",
+        "last_moved_at": "2026-03-01T14:18:32.352000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
         }
       }
     ],
@@ -2153,28 +2159,6 @@
         }
       },
       {
-        "id": "01kpxz29xms7005qe2ssdpsh0s",
-        "url": "https://read.readwise.io/read/01kpxz29xms7005qe2ssdpsh0s",
-        "source_url": "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
-        "title": "Sign of the future: GPT-5.5",
-        "author": "Ethan Mollick",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!hesI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c591570-ee4a-4107-a9d1-b167d3f4a64a_1484x1060.png",
-        "word_count": 1539,
-        "summary": "GPT-5.5 is a big step forward in AI, showing faster and smarter abilities in coding, writing, and image generation. It can create complex tasks like academic papers and roleplaying games with little input. However, some challenges remain, such as flat fiction and less interesting ideas, showing AI still has room to grow.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-23T20:03:53.981000+00:00",
-        "last_moved_at": "2026-04-24T04:55:29.189000+00:00",
-        "published_date": "2026-04-23",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
         "id": "01kjmw5d83t9105hqzkean823b",
         "url": "https://read.readwise.io/read/01kjmw5d83t9105hqzkean823b",
         "source_url": "https://boristane.com/blog/the-software-development-lifecycle-is-dead/?utm_source=substack&utm_medium=email",
@@ -2370,96 +2354,6 @@
           "is_tutorial": false,
           "is_foundational": false,
           "is_evergreen": true,
-          "interest_score": 4
-        }
-      },
-      {
-        "id": "01kp3dteqy8exn9m4t0kz3yp7y",
-        "url": "https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y",
-        "source_url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email",
-        "title": "The Future of Everything is Lies, I Guess",
-        "author": "aphyr.com",
-        "image_url": "",
-        "word_count": 2947,
-        "summary": "Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say \"I don't know,\" leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1776084146236
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1776084147604
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kqq86gwrrq6s6pwfafw7fbe8",
-            "url": "https://read.readwise.io/read/01kqq86gwrrq6s6pwfafw7fbe8",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-mobile-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kp3dteqy8exn9m4t0kz3yp7y",
-            "reading_progress": 0.0,
-            "content": "In another surreal conversation, ChatGPT argued at length that I am heterosexual, even citing my blog to claim I had a girlfriend. I am, of course, gay as hell, and no girlfriend was mentioned in the post. After a while, we compromised on me being bisexual.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-05-03T15:44:33.594637+00:00",
-            "updated_at": "2026-05-03T15:47:08.419122+00:00",
-            "saved_at": "2026-05-03T15:44:33.176000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-05-03T15:44:33.176000+00:00",
-            "notes_attached": [
-              {
-                "id": "01kqq8b79jsfd61dq3kszmk3jd",
-                "url": "https://read.readwise.io/read/01kqq8b79jsfd61dq3kszmk3jd",
-                "source_url": null,
-                "title": null,
-                "author": null,
-                "source": "reader-mobile-app",
-                "category": "note",
-                "location": null,
-                "tags": null,
-                "site_name": null,
-                "word_count": null,
-                "notes": "",
-                "summary": null,
-                "image_url": null,
-                "parent_id": "01kqq86gwrrq6s6pwfafw7fbe8",
-                "reading_progress": 0.0,
-                "content": "Этим геям просто необходимо всем втюхать про своё гейство, даже LLM 😂 Боюсь представить, зачем он это обсуждал 😂",
-                "html_content": null,
-                "published_date": null,
-                "created_at": "2026-05-03T15:47:08.373323+00:00",
-                "updated_at": "2026-05-03T15:47:08.373338+00:00",
-                "saved_at": "2026-05-03T15:47:07.186000+00:00",
-                "first_opened_at": null,
-                "last_opened_at": null,
-                "last_moved_at": "2026-05-03T15:47:07.186000+00:00"
-              }
-            ]
-          }
-        ],
-        "saved_at": "2026-04-13T12:42:18.750000+00:00",
-        "last_moved_at": "2026-04-13T12:42:22.960000+00:00",
-        "published_date": "2026-04-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
           "interest_score": 4
         }
       },
@@ -7629,28 +7523,6 @@
         }
       },
       {
-        "id": "01kpxz29xms7005qe2ssdpsh0s",
-        "url": "https://read.readwise.io/read/01kpxz29xms7005qe2ssdpsh0s",
-        "source_url": "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
-        "title": "Sign of the future: GPT-5.5",
-        "author": "Ethan Mollick",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!hesI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c591570-ee4a-4107-a9d1-b167d3f4a64a_1484x1060.png",
-        "word_count": 1539,
-        "summary": "GPT-5.5 is a big step forward in AI, showing faster and smarter abilities in coding, writing, and image generation. It can create complex tasks like academic papers and roleplaying games with little input. However, some challenges remain, such as flat fiction and less interesting ideas, showing AI still has room to grow.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-23T20:03:53.981000+00:00",
-        "last_moved_at": "2026-04-24T04:55:29.189000+00:00",
-        "published_date": "2026-04-23",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
         "id": "01k62kckeewb1936zrjewhbhvn",
         "url": "https://read.readwise.io/read/01k62kckeewb1936zrjewhbhvn",
         "source_url": "https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/",
@@ -7731,96 +7603,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 6
-        }
-      },
-      {
-        "id": "01kp3dteqy8exn9m4t0kz3yp7y",
-        "url": "https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y",
-        "source_url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email",
-        "title": "The Future of Everything is Lies, I Guess",
-        "author": "aphyr.com",
-        "image_url": "",
-        "word_count": 2947,
-        "summary": "Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say \"I don't know,\" leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1776084146236
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1776084147604
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kqq86gwrrq6s6pwfafw7fbe8",
-            "url": "https://read.readwise.io/read/01kqq86gwrrq6s6pwfafw7fbe8",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-mobile-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kp3dteqy8exn9m4t0kz3yp7y",
-            "reading_progress": 0.0,
-            "content": "In another surreal conversation, ChatGPT argued at length that I am heterosexual, even citing my blog to claim I had a girlfriend. I am, of course, gay as hell, and no girlfriend was mentioned in the post. After a while, we compromised on me being bisexual.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-05-03T15:44:33.594637+00:00",
-            "updated_at": "2026-05-03T15:47:08.419122+00:00",
-            "saved_at": "2026-05-03T15:44:33.176000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-05-03T15:44:33.176000+00:00",
-            "notes_attached": [
-              {
-                "id": "01kqq8b79jsfd61dq3kszmk3jd",
-                "url": "https://read.readwise.io/read/01kqq8b79jsfd61dq3kszmk3jd",
-                "source_url": null,
-                "title": null,
-                "author": null,
-                "source": "reader-mobile-app",
-                "category": "note",
-                "location": null,
-                "tags": null,
-                "site_name": null,
-                "word_count": null,
-                "notes": "",
-                "summary": null,
-                "image_url": null,
-                "parent_id": "01kqq86gwrrq6s6pwfafw7fbe8",
-                "reading_progress": 0.0,
-                "content": "Этим геям просто необходимо всем втюхать про своё гейство, даже LLM 😂 Боюсь представить, зачем он это обсуждал 😂",
-                "html_content": null,
-                "published_date": null,
-                "created_at": "2026-05-03T15:47:08.373323+00:00",
-                "updated_at": "2026-05-03T15:47:08.373338+00:00",
-                "saved_at": "2026-05-03T15:47:07.186000+00:00",
-                "first_opened_at": null,
-                "last_opened_at": null,
-                "last_moved_at": "2026-05-03T15:47:07.186000+00:00"
-              }
-            ]
-          }
-        ],
-        "saved_at": "2026-04-13T12:42:18.750000+00:00",
-        "last_moved_at": "2026-04-13T12:42:22.960000+00:00",
-        "published_date": "2026-04-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 4
         }
       },
       {

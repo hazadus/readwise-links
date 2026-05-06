@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 448
+- Всего ссылок: 450
 
 ## Ссылки
 
+- [Are Written Coding Tutorials Dead?](https://wsvincent.com/future-written-tutorials/) [📖](https://read.readwise.io/read/01kqsp5t6csw3jew91h3xerx3j) 👤 Will Vincent 💬 1072 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-05-04
+    > **Резюме:** Have LLMs truly killed the point of human-written coding tutorials?
 - [Is It Time To Get Back To Fundamentals?](https://codemanship.wordpress.com/2026/05/01/is-it-time-to-get-back-to-fundamentals/) [📖](https://read.readwise.io/read/01kqh3pjwq6xw3c0a51wavsm2m) 👤 codemanship 💬 245 🔖 #llm 🗓️ 2026-05-01
     > **Заметка:** Интересная аналогия с записью музыки. Действительно, сейчас больше материалов про настройку агентов, чем про сделанный ими софт. 
     > **Резюме:** I have a friend who built a recording studio in his garden. The building – an adapted garden office – cost £15,000. Inside, he installed a pre-owned Neve 24-track mixing console with motorised faders in a custom-built desk – total cost: £17,000. Add to that easily another £15K-20K of high-end gear and studio fittings, he … Continue reading "Is It Time To Get Back To Fundamentals?"
@@ -15,6 +17,9 @@
     > **Резюме:** Some creators made a good AI tool that respects consent, is open source, and runs on normal computers. This tool helps video artists easily remove green screens without expensive software or spying on users. It shows that AI can be useful and fair when designed with care, not just by big companies.
 - [DeepSeek V4 - almost on the frontier, a fraction of the price](https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything) [📖](https://read.readwise.io/read/01kpz1vrr4ex8xp5kw8d61ydxc) 👤 Simon Willison's Weblog 💬 559 🔖 #llm 🗓️ 2026-04-24
     > **Резюме:** DeepSeek V4 offers two new AI models that are very large but cost much less than other top models. The Flash and Pro versions are efficient, handling long contexts with fewer resources than before. Although not the absolute best yet, DeepSeek V4 is close to the frontier and very affordable.
+- [Sign of the future: GPT-5.5](https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55) [📖](https://read.readwise.io/read/01kpxz29xms7005qe2ssdpsh0s) 👤 Ethan Mollick 💬 1539 🔖 #llm 🗓️ 2026-04-23
+    > **Заметка:** Уж очень сильно автор нахваливает новую модель, очень подозрительно.
+    > **Резюме:** GPT-5.5 is a big step forward in AI, showing faster and smarter abilities in coding, writing, and image generation. It can create complex tasks like academic papers and roleplaying games with little input. However, some challenges remain, such as flat fiction and less interesting ideas, showing AI still has room to grow.
 - [The Pulse: ‘Tokenmaxxing’ as a weird new trend](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/) [📖](https://read.readwise.io/read/01kpxsckj3veyzbhy69y9dhzyc) 👤 Gergely Orosz 💬 1993 🔖 #llm, #definitions, #llm-devimpact 🗓️ 2026-04-23
     > **Заметка:** Думается, когда волна хайпа спадёт, все придут к спокойному использованию LLM-инструментов – а не показному завышению объёмов их использования. 
     > **Резюме:** Some tech companies like Meta and Microsoft created leaderboards to track AI token usage, which led to wasteful and excessive AI use called "tokenmaxxing." This practice caused high costs and low-quality work, prompting backlash and changes like Meta removing its leaderboard. Shopify's careful approach with monitoring and limits shows a better way to encourage AI use without encouraging waste.
@@ -27,7 +32,8 @@ Local models need careful memory and tool choices, but even small models work we
 They save money and offer flexibility, though top cloud models can still be stronger on hard problems.
 - [Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/) [📖](https://read.readwise.io/read/01kpf8823kqtkr83w06a6w1npy) 👤 seangoedecke.com RSS feed 💬 1279 🔖 #llm 🗓️ 2026-04-18
     > **Резюме:** Many anti-AI arguments use ideas that sound left-wing but actually come from conservative thinking. The author thinks AI has both good and bad effects, especially on jobs and the environment. The debate about AI is mixed and may change as political views shift.
-- [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y) 👤 aphyr.com 💬 2947 🔖 #llm, #joyandcuriosity 🗓️ 2026-04-13
+- [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y) 👤 aphyr.com 💬 2947 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
+    > **Заметка:** Какое-то неоднозначное впечатление от поста, но основной посыл верный: люди всё больше безоговорочно верят LLM, а те могут делать и грубые, и достаточно неочевидные ошибки. 
     > **Резюме:** Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say "I don't know," leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.
 - [Why Isn't Everything Different Yet?](https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dctz7gv9zqqkm3jxke3xf) 👤 Dave Griffith 💬 1791 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
     > **Резюме:** AI technology is impressive but changing everything takes time because systems, laws, and business models must be rebuilt from scratch. Software development is the first area transformed, but integrating AI widely requires millions of people to adapt workflows and trust the tools. Despite impatience, this transformation is happening very fast compared to past technologies and will soon feel much bigger.

@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-05-05 04:14 UTC · Статей: 60
+Сгенерировано: 2026-05-06 04:26 UTC · Статей: 58
 
 ## Статьи
 
@@ -55,8 +55,6 @@ _Длинные статьи (от 1500 слов), не туториалы_
     > **Резюме:** AI agents have potential but are not as broadly useful as many think. They can help with coding and research but also raise ethical and environmental concerns. The true value of AI agents depends on careful use and human involvement.
 - [The (lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kba74ynqzd6by0k16mmj92s4) 👤 @bwplotka 💬 2452 ⭐ 7 🔖 #git, #joyandcuriosity 🗓️ 2025-11-30 · 🌲 вечнозелёное
     > **Резюме:** The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.
-- [Sign of the future: GPT-5.5](https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55) [📖](https://read.readwise.io/read/01kpxz29xms7005qe2ssdpsh0s) 👤 Ethan Mollick 💬 1539 ⭐ 7 🗓️ 2026-04-23
-    > **Резюме:** GPT-5.5 is a big step forward in AI, showing faster and smarter abilities in coding, writing, and image generation. It can create complex tasks like academic papers and roleplaying games with little input. However, some challenges remain, such as flat fiction and less interesting ideas, showing AI still has room to grow.
 - [The Software Development Lifecycle Is Dead](https://boristane.com/blog/the-software-development-lifecycle-is-dead/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw5d83t9105hqzkean823b) 👤 Boris Tane 💬 1702 ⭐ 6 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** Software development no longer follows fixed steps but relies on agents that write code, test, and deploy continuously. Humans guide the agents by providing context and reviewing complex decisions, while agents handle routine tasks and fix issues automatically. This shift enables faster, automated releases with minimal human intervention, changing how teams work and monitor software.
 - [Карта выживания новичка: как устроена разработка ПО в российских реалиях](https://habr.com/ru/companies/bhv_publishing/articles/1029460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog) [📖](https://read.readwise.io/read/01kqch3t361p2c0ks8xdqay2eg) 👤 BHV_publishing (Издательство БХВ) 💬 1679 ⭐ 6 🗓️ 2026-04-29 · 🧠 основы, 🌲 вечнозелёное
@@ -75,8 +73,6 @@ They are immutable and support persistent, transient, and temporary storage clas
     > **Резюме:** To work with text in computers, understanding encodings and character sets is essential. Unicode is a standard that unifies different encoding schemes, like UTF-8 and UTF-16, which represent characters using varying numbers of bits. It's important to specify the encoding used for text, as incorrect handling can lead to unreadable documents.
 - [I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either](https://aresluna.org/fn/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kke9tesp0nwb5ps5fn0nd3ff) 👤 Marcin Wichary 💬 4303 ⭐ 4 🔖 #macos 🗓️ 2026-03-11 · 🌲 вечнозелёное
     > **Резюме:** The Fn key first appeared in 1984 to help laptops mimic missing keys and control hardware functions. Apple recently introduced a new Globe (🌐) key, causing confusion with the traditional Fn key on external keyboards. Keyboard designs keep evolving, but many users face challenges due to different keys and shortcuts across devices.
-- [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y) 👤 aphyr.com 💬 2947 ⭐ 4 🔖 #llm, #joyandcuriosity 🗓️ 2026-04-13
-    > **Резюме:** Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say "I don't know," leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.
 - [The Structure of Engineering Revolutions](https://webdirections.org/blog/the-structure-of-engineering-revolutions/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kkeb8d42rdtsnyrwfezxesgd) 👤 @johnallsopp 💬 4159 ⭐ 3 🗓️ 2026-03-11
     > **Резюме:** Experienced software engineers resist AI-assisted coding because it challenges their long-held beliefs and skills. This resistance follows a pattern of paradigm shifts described by Thomas Kuhn, where new ideas disrupt old frameworks. Despite skepticism, AI tools are proving to boost productivity and change software development fundamentally.
 - [The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev) [📖](https://read.readwise.io/read/01km5fqgjckw8znfxbjqybrm3c) 👤 Daring Fireball 💬 3347 ⭐ 3 🗓️ 2026-03-20

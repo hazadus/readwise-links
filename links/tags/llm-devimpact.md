@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 94
+- Всего ссылок: 96
 
 ## Ссылки
 
+- [Are Written Coding Tutorials Dead?](https://wsvincent.com/future-written-tutorials/) [📖](https://read.readwise.io/read/01kqsp5t6csw3jew91h3xerx3j) 👤 Will Vincent 💬 1072 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-05-04
+    > **Резюме:** Have LLMs truly killed the point of human-written coding tutorials?
 - [Software engineering may no longer be a lifetime career](https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/) [📖](https://read.readwise.io/read/01kpz68am3sp579pkf7ggym4gy) 👤 seangoedecke.com RSS feed 💬 849 🔖 #llm-devimpact 🗓️ 2026-04-24
     > **Резюме:** Using AI in software engineering may reduce how much engineers learn and weaken their skills over time. Even if this happens, engineers might still need to use AI to keep their jobs and stay competitive. This could mean software engineering careers might not last as long as they used to, similar to the short careers of professional athletes.
 - [The Hottest AI Coding Skill In 2026? Coding Without AI](https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/) [📖](https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z) 👤 codemanship 💬 606 🔖 #predictions, #llm-devimpact 🗓️ 2026-04-24
@@ -20,6 +22,9 @@ Via TLDR
     > **Резюме:** Apps and services will need to be "headless," offering tools for personal AI without visual interfaces. Command-line tools (CLIs) are ideal for this because they are secure, composable, and fit how AIs work best. Front-end design will focus more on brand feel than usability, as AIs will handle most tasks directly through these headless tools.
 - [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html) [📖](https://read.readwise.io/read/01kp632ptv5pkfnh36pv4w3cdf) 👤 Lewis Campbell's Blog 💬 617 🔖 #agile, #llm-devimpact 🗓️ 2026-04-14
     > **Резюме:** Software's "Agile moment" has been and gone.
+- [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y) 👤 aphyr.com 💬 2947 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
+    > **Заметка:** Какое-то неоднозначное впечатление от поста, но основной посыл верный: люди всё больше безоговорочно верят LLM, а те могут делать и грубые, и достаточно неочевидные ошибки. 
+    > **Резюме:** Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say "I don't know," leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.
 - [Why Isn't Everything Different Yet?](https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dctz7gv9zqqkm3jxke3xf) 👤 Dave Griffith 💬 1791 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
     > **Резюме:** AI technology is impressive but changing everything takes time because systems, laws, and business models must be rebuilt from scratch. Software development is the first area transformed, but integrating AI widely requires millions of people to adapt workflows and trust the tools. Despite impatience, this transformation is happening very fast compared to past technologies and will soon feel much bigger.
 - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3bp2e1c7t54bkz8f1sqz05) 👤 Janko 💬 1093 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13

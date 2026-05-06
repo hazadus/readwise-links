@@ -1,6 +1,6 @@
 # Отложенные ссылки
 
-- Всего ссылок: 104
+- Всего ссылок: 102
 
 ## Ссылки
 
@@ -49,15 +49,11 @@
 - [How The Heck Does Shazam Work?](https://perthirtysix.com/how-the-heck-does-shazam-work?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kpz4vpybbrxvhjkmh2xfx21r) 👤 Shri Khalpada 💬 521 🔖 #explorable 🗓️ 2026-04-24
     > **Заметка:** Via TLDR
     > **Резюме:** Shazam works by turning sounds into simple fingerprints that help identify songs. Most services send audio to a server with a huge database to find matches. Newer apps can do this on your phone using smaller databases and smart algorithms.
-- [Sign of the future: GPT-5.5](https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55) [📖](https://read.readwise.io/read/01kpxz29xms7005qe2ssdpsh0s) 👤 Ethan Mollick 💬 1539 🗓️ 2026-04-23
-    > **Резюме:** GPT-5.5 is a big step forward in AI, showing faster and smarter abilities in coding, writing, and image generation. It can create complex tasks like academic papers and roleplaying games with little input. However, some challenges remain, such as flat fiction and less interesting ideas, showing AI still has room to grow.
 - [ИИ для самых маленьких: как работает LLM и ИИ-агент](https://www.youtube.com/watch?v=sSAIC8GQRe8) [📖](https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j) 👤 Диджитализируй! 🔖 #llm 🗓️ 2026-04-22
     > **Резюме:** Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.
 - [Intelligent Curation Tagging for Creative Workflows](https://qwelian.com/posts/FINE_SHYT_Intelligent_Curation_Tagging_for_Creative_Workflows) [📖](https://read.readwise.io/read/01kpmngdv5pg97fgh18ytem7jz) 👤 qwelian.com 💬 3370 🗓️ 2026-04-20
     > **Заметка:** Via HN
     > **Резюме:** This system helps organize large photo archives by using AI to describe and rate images based on personal taste. It works in stages, analyzing technical quality, extracting metadata, and learning from user ratings to improve recommendations. Ultimately, the AI supports but does not replace human judgment in choosing which photos to keep or export.
-- [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dteqy8exn9m4t0kz3yp7y) 👤 aphyr.com 💬 2947 🔖 #llm, #joyandcuriosity 🗓️ 2026-04-13
-    > **Резюме:** Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say "I don't know," leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.
 - [Why Isn't Everything Different Yet?](https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dctz7gv9zqqkm3jxke3xf) 👤 Dave Griffith 💬 1791 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
     > **Резюме:** AI technology is impressive but changing everything takes time because systems, laws, and business models must be rebuilt from scratch. Software development is the first area transformed, but integrating AI widely requires millions of people to adapt workflows and trust the tools. Despite impatience, this transformation is happening very fast compared to past technologies and will soon feel much bigger.
 - [“Conviction Collapse” and the End of Software as We Know It](https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h) 👤 Tim O’Reilly 💬 2092 🔖 #joyandcuriosity 🗓️ 2026-04-13
