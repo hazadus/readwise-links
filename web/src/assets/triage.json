@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T04:26:10.315026+00:00",
+  "generated_at": "2026-05-07T04:26:06.345635+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -567,6 +567,34 @@
         }
       },
       {
+        "id": "01kqyfh8z168njfz6zcdznwbcp",
+        "url": "https://read.readwise.io/read/01kqyfh8z168njfz6zcdznwbcp",
+        "source_url": "https://openclaw.ai/blog/openclaw-rough-week",
+        "title": "OpenClaw Had a Rough Week",
+        "author": "Peter Steinberger",
+        "image_url": "https://openclaw.ai/og-image.png",
+        "word_count": 393,
+        "summary": "OpenClaw had serious problems last week that slowed gateways and caused install issues. The team is making the core smaller and moving extra features to plugins to improve reliability and security. They are building a bigger team and will announce a stable long-term release soon.",
+        "notes": "",
+        "tags": {
+          "openclaw": {
+            "name": "OpenClaw",
+            "type": "manual",
+            "created": 1778065655224
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-05-06T11:07:26.561000+00:00",
+        "last_moved_at": "2026-05-06T11:07:31.107000+00:00",
+        "published_date": "2026-05-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01kqqetyjnxxaewfg26q0t5sa2",
         "url": "https://read.readwise.io/read/01kqqetyjnxxaewfg26q0t5sa2",
         "source_url": "https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/triller-o-sovremennoj-russkoj-derevne.html",
@@ -718,6 +746,39 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
+        }
+      },
+      {
+        "id": "01kqxwx5c1kye0xm4fak4rzc6s",
+        "url": "https://read.readwise.io/read/01kqxwx5c1kye0xm4fak4rzc6s",
+        "source_url": "https://zed.dev/blog/not-building-ai-for-the-money",
+        "title": "We're Not Building AI Features for the Money",
+        "author": "Conrad Irwin",
+        "image_url": "https://images.zed.dev/blog/not-building-ai-for-the-money/thumbnail.png",
+        "word_count": 1224,
+        "summary": "Zed is building AI features not just to make money, but to improve how people and AI work together in programming. They believe AI can help developers be more productive, but humans still need to guide and understand the code. Their long-term goal is to create a collaborative workspace where teams and AI agents share a clear, connected view of code.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1778046127947
+          },
+          "zed": {
+            "name": "Zed",
+            "type": "manual",
+            "created": 1778046127110
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-05-06T05:41:53.153000+00:00",
+        "last_moved_at": "2026-05-06T05:42:02.110000+00:00",
+        "published_date": "2026-05-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
         }
       },
       {
@@ -1273,62 +1334,6 @@
           "is_evergreen": false,
           "interest_score": 7
         }
-      },
-      {
-        "id": "01kgafx4271vdg3eqw50jk0jm8",
-        "url": "https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8",
-        "source_url": "https://blog.xoria.org/macos-tips/",
-        "title": "macOS Tips",
-        "author": "xoria.org",
-        "image_url": "",
-        "word_count": 2856,
-        "summary": "macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1769878762214
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-31T16:59:13.351000+00:00",
-        "last_moved_at": "2026-01-31T16:59:16.193000+00:00",
-        "published_date": "2024-11-15",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01kjmw7mm8skajhhkmnf0tp4s1",
-        "url": "https://read.readwise.io/read/01kjmw7mm8skajhhkmnf0tp4s1",
-        "source_url": "https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email",
-        "title": "The Software Industrial Revolution",
-        "author": "cannoneyed.com",
-        "image_url": "",
-        "word_count": 3140,
-        "summary": "The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.",
-        "notes": "",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1772374715170
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-01T14:18:28.871000+00:00",
-        "last_moved_at": "2026-03-01T14:18:32.352000+00:00",
-        "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
       }
     ],
     "quick_wins": [
@@ -1491,6 +1496,34 @@
         "saved_at": "2026-05-03T17:40:58.803000+00:00",
         "last_moved_at": "2026-05-03T17:41:02.102000+00:00",
         "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kqyfh8z168njfz6zcdznwbcp",
+        "url": "https://read.readwise.io/read/01kqyfh8z168njfz6zcdznwbcp",
+        "source_url": "https://openclaw.ai/blog/openclaw-rough-week",
+        "title": "OpenClaw Had a Rough Week",
+        "author": "Peter Steinberger",
+        "image_url": "https://openclaw.ai/og-image.png",
+        "word_count": 393,
+        "summary": "OpenClaw had serious problems last week that slowed gateways and caused install issues. The team is making the core smaller and moving extra features to plugins to improve reliability and security. They are building a bigger team and will announce a stable long-term release soon.",
+        "notes": "",
+        "tags": {
+          "openclaw": {
+            "name": "OpenClaw",
+            "type": "manual",
+            "created": 1778065655224
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-05-06T11:07:26.561000+00:00",
+        "last_moved_at": "2026-05-06T11:07:31.107000+00:00",
+        "published_date": "2026-05-05",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -7578,6 +7611,39 @@
         }
       },
       {
+        "id": "01kqxwx5c1kye0xm4fak4rzc6s",
+        "url": "https://read.readwise.io/read/01kqxwx5c1kye0xm4fak4rzc6s",
+        "source_url": "https://zed.dev/blog/not-building-ai-for-the-money",
+        "title": "We're Not Building AI Features for the Money",
+        "author": "Conrad Irwin",
+        "image_url": "https://images.zed.dev/blog/not-building-ai-for-the-money/thumbnail.png",
+        "word_count": 1224,
+        "summary": "Zed is building AI features not just to make money, but to improve how people and AI work together in programming. They believe AI can help developers be more productive, but humans still need to guide and understand the code. Their long-term goal is to create a collaborative workspace where teams and AI agents share a clear, connected view of code.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1778046127947
+          },
+          "zed": {
+            "name": "Zed",
+            "type": "manual",
+            "created": 1778046127110
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-05-06T05:41:53.153000+00:00",
+        "last_moved_at": "2026-05-06T05:42:02.110000+00:00",
+        "published_date": "2026-05-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
+        }
+      },
+      {
         "id": "01kjmw5d83t9105hqzkean823b",
         "url": "https://read.readwise.io/read/01kjmw5d83t9105hqzkean823b",
         "source_url": "https://boristane.com/blog/the-software-development-lifecycle-is-dead/?utm_source=substack&utm_medium=email",
@@ -10419,6 +10485,34 @@
         "saved_at": "2026-05-03T17:40:58.803000+00:00",
         "last_moved_at": "2026-05-03T17:41:02.102000+00:00",
         "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kqyfh8z168njfz6zcdznwbcp",
+        "url": "https://read.readwise.io/read/01kqyfh8z168njfz6zcdznwbcp",
+        "source_url": "https://openclaw.ai/blog/openclaw-rough-week",
+        "title": "OpenClaw Had a Rough Week",
+        "author": "Peter Steinberger",
+        "image_url": "https://openclaw.ai/og-image.png",
+        "word_count": 393,
+        "summary": "OpenClaw had serious problems last week that slowed gateways and caused install issues. The team is making the core smaller and moving extra features to plugins to improve reliability and security. They are building a bigger team and will announce a stable long-term release soon.",
+        "notes": "",
+        "tags": {
+          "openclaw": {
+            "name": "OpenClaw",
+            "type": "manual",
+            "created": 1778065655224
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-05-06T11:07:26.561000+00:00",
+        "last_moved_at": "2026-05-06T11:07:31.107000+00:00",
+        "published_date": "2026-05-05",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

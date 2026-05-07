@@ -2,12 +2,14 @@
 
 _Короткие статьи (не туториалы, не основы), отсортированные по объёму_
 
-Сгенерировано: 2026-05-06 04:26 UTC · Статей: 30
+Сгенерировано: 2026-05-07 04:26 UTC · Статей: 30
 
 ## Статьи
 
 - [Bypassing DPI with eBPF sock_ops](https://bora.sh/bypassing-dpi-with-ebpf/) [📖](https://read.readwise.io/read/01kqh31s3acyzhnmh2g9pmvpfb) 👤 Bora Tanrikulu 💬 13 ⭐ 2 🔖 #dpi 🗓️ 2026-05-01
     > **Резюме:** eBPF sock_ops, fake TLS packets, and why every platform needs a different hack
+- [OpenClaw Had a Rough Week](https://openclaw.ai/blog/openclaw-rough-week) [📖](https://read.readwise.io/read/01kqyfh8z168njfz6zcdznwbcp) 👤 Peter Steinberger 💬 393 ⭐ 2 🔖 #openclaw 🗓️ 2026-05-06
+    > **Резюме:** OpenClaw had serious problems last week that slowed gateways and caused install issues. The team is making the core smaller and moving extra features to plugins to improve reliability and security. They are building a bigger team and will announce a stable long-term release soon.
 - [ТРИЛЛЕР О СОВРЕМЕННОЙ РУССКОЙ ДЕРЕВНЕ](https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/triller-o-sovremennoj-russkoj-derevne.html) [📖](https://read.readwise.io/read/01kqqetyjnxxaewfg26q0t5sa2) 👤 ivanproduction.ru 💬 460 ⭐ 1 🗓️ 2026-05-03
     > **Резюме:** «Псоглавцы» — роман Алексея Маврина о конфликте двух миров в современной русской деревне. В книге смешаны мистические элементы и социальная критика, показывающие разделение России на разные «зоны». Текст интересен своей атмосферой, но перегружен деталями и имеет сюжетные недочеты.
 - [НА ГРАНИЦЕ ТУЧИ ХОДЯТ ХМУРО](https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/na-granicze-tuchi-xodyat-xmuro.html) [📖](https://read.readwise.io/read/01kqqewcvfk42cm35ywcb7b37b) 👤 ivanproduction.ru 💬 529 ⭐ 1 🗓️ 2026-05-03
@@ -21,6 +23,8 @@ _Короткие статьи (не туториалы, не основы), о�
     > **Резюме:** Jerred Shepherd loves programming and has used AI tools to build many projects without writing code himself. He learned to trust AI to write working code, focusing on problem-solving rather than perfect code style. Although AI makes programming faster, he sees challenges in testing and documentation that need better tools.
 - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3bp2e1c7t54bkz8f1sqz05) 👤 Janko 💬 1093 ⭐ 2 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
     > **Резюме:** The internet used to be open and full of shared ideas, but now big companies control it and make it risky to show your thoughts. AI makes creating things easier, but it also lets big platforms copy and absorb your ideas quickly, so staying quiet feels safer. This "cognitive dark forest" means your innovations feed the system that threatens you, making hiding and sharing both dangerous.
+- [We're Not Building AI Features for the Money](https://zed.dev/blog/not-building-ai-for-the-money) [📖](https://read.readwise.io/read/01kqxwx5c1kye0xm4fak4rzc6s) 👤 Conrad Irwin 💬 1224 ⭐ 7 🔖 #llm, #zed 🗓️ 2026-05-06
+    > **Резюме:** Zed is building AI features not just to make money, but to improve how people and AI work together in programming. They believe AI can help developers be more productive, but humans still need to guide and understand the code. Their long-term goal is to create a collaborative workspace where teams and AI agents share a clear, connected view of code.
 - [Не по Проппу, а по Леви-Строссу](https://magazines.gorky.media/ural/2012/8/ne-po-proppu-a-po-levi-strossu.html) [📖](https://read.readwise.io/read/01kqqex869v0re4jv6xn9es3km) 👤 gorky.media 💬 1355 ⭐ 2 🗓️ 2026-05-03
     > **Резюме:** Алексей Иванов в романе «Псоглавцы» показывает современную российскую деревню как место упадка и опасности. Он использует триллер, чтобы раскрыть проблемы культуры и общества, а не просто для развлечения. Книга говорит о том, что знания важнее материального мира и призывает задуматься о будущем страны.
 - [The ambition tax](https://siddhantkhare.com/writing/ambition-tax) [📖](https://read.readwise.io/read/01kmet5erb6344eexjx5b10v35) 👤 Siddhant Khare 💬 1364 ⭐ 2 🗓️ 2026-03-24
@@ -71,7 +75,3 @@ Future tech will keep advancing, but mostly in smaller, niche ways that won’t 
 Open source maintainers should focus on practical, small- to medium-scale projects that serve real users and resist “scale creep.”
 - [On the usefulness of AI agents](https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html) [📖](https://read.readwise.io/read/01knq4y2r5a7ffntsmhs7jjvtf) 👤 Erik Johannes Husom 💬 2669 ⭐ 7 🗓️ 2026-04-08
     > **Резюме:** AI agents have potential but are not as broadly useful as many think. They can help with coding and research but also raise ethical and environmental concerns. The true value of AI agents depends on careful use and human involvement.
-- [macOS Tips](https://blog.xoria.org/macos-tips/) [📖](https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8) 👤 xoria.org 💬 2856 ⭐ 7 🔖 #macos 🗓️ 2026-01-31 · 🌲 вечнозелёное
-    > **Резюме:** macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.
-- [The Software Industrial Revolution](https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw7mm8skajhhkmnf0tp4s1) 👤 cannoneyed.com 💬 3140 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01
-    > **Резюме:** The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.
