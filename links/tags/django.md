@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 55
+- Всего ссылок: 56
 
 ## Ссылки
 
+- [Using Django Tasks in production](https://www.better-simple.com/django/2026/05/06/using-django-tasks-in-production/) [📖](https://read.readwise.io/read/01kqzex73vjx5hrr0c6x34aazv) 👤 Tim Schilling (schillingt@better-simple.com) 💬 931 🔖 #django 🗓️ 2026-05-06
+    > **Заметка:** Надо будет попробовать Django Tasks, но когда оно немного повзрослеет.
+    > **Резюме:** Have you been wondering if you should use Django Tasks for your next project? See how Djangonaut Space is using it today.
 - [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_322) [📖](https://read.readwise.io/read/01kgabcnj12fjxxbts2sjb9s07) 👤 Julia Evans 💬 1123 🔖 #django 🗓️ 2026-01-31
     > **Резюме:** Julia Evans started learning Django and likes how clear and simple it feels compared to other frameworks. She enjoys Django’s built-in admin, ORM, and easy migrations that help manage her data and code. Although still new, she appreciates Django’s features and good documentation, making web development easier for her.
 - [Django & HTMX - with Server-Sent Events (SSE)!](https://www.youtube.com/watch?v=9qwCc0FgPRg) [📖](https://read.readwise.io/read/01kfnw6fehwf90k7zx6bsgt81s) 👤 BugBytes 🔖 #sse, #htmx, #django 🗓️ 2026-01-23

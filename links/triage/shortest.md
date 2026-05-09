@@ -2,20 +2,20 @@
 
 _Короткие статьи (не туториалы, не основы), отсортированные по объёму_
 
-Сгенерировано: 2026-05-08 04:14 UTC · Статей: 30
+Сгенерировано: 2026-05-09 04:19 UTC · Статей: 30
 
 ## Статьи
 
 - [Bypassing DPI with eBPF sock_ops](https://bora.sh/bypassing-dpi-with-ebpf/) [📖](https://read.readwise.io/read/01kqh31s3acyzhnmh2g9pmvpfb) 👤 Bora Tanrikulu 💬 13 ⭐ 2 🔖 #dpi 🗓️ 2026-05-01
     > **Резюме:** eBPF sock_ops, fake TLS packets, and why every platform needs a different hack
-- [OpenClaw Had a Rough Week](https://openclaw.ai/blog/openclaw-rough-week) [📖](https://read.readwise.io/read/01kqyfh8z168njfz6zcdznwbcp) 👤 Peter Steinberger 💬 393 ⭐ 2 🔖 #openclaw 🗓️ 2026-05-06
-    > **Резюме:** OpenClaw had serious problems last week that slowed gateways and caused install issues. The team is making the core smaller and moving extra features to plugins to improve reliability and security. They are building a bigger team and will announce a stable long-term release soon.
 - [ТРИЛЛЕР О СОВРЕМЕННОЙ РУССКОЙ ДЕРЕВНЕ](https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/triller-o-sovremennoj-russkoj-derevne.html) [📖](https://read.readwise.io/read/01kqqetyjnxxaewfg26q0t5sa2) 👤 ivanproduction.ru 💬 460 ⭐ 1 🗓️ 2026-05-03
     > **Резюме:** «Псоглавцы» — роман Алексея Маврина о конфликте двух миров в современной русской деревне. В книге смешаны мистические элементы и социальная критика, показывающие разделение России на разные «зоны». Текст интересен своей атмосферой, но перегружен деталями и имеет сюжетные недочеты.
 - [НА ГРАНИЦЕ ТУЧИ ХОДЯТ ХМУРО](https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/na-granicze-tuchi-xodyat-xmuro.html) [📖](https://read.readwise.io/read/01kqqewcvfk42cm35ywcb7b37b) 👤 ivanproduction.ru 💬 529 ⭐ 1 🗓️ 2026-05-03
     > **Резюме:** Издательство «Азбука» выпустило дебютный роман Алексея Маврина «Псоглавцы» с большой рекламной поддержкой. Книга рассказывает о столкновении двух миров — городской и отдалённой деревни с её простыми законами и страхами. Главная идея романа — сложно изменить привычный взгляд и перейти из одной реальности в другую.
 - [Алексей Иванов](https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/sobachi-serdcza.html) [📖](https://read.readwise.io/read/01kqqevpskax3a70rvmhpeyram) 👤 ivanproduction.ru 💬 714 ⭐ 2 🗓️ 2026-05-03
     > **Резюме:** Роман «Псоглавцы» рассказывает о трёх молодых людях, которые исследуют таинственную деревню с необычными обычаями и легендами. Автор использует историю о святом Христофоре с собачьей головой, чтобы показать, как люди могут превращаться в зверей в сложных условиях. Книга сочетает элементы ужаса и социальной критики, отражая страхи современной России.
+- [Redis array type: short story of a long development](http://antirez.com/news/164) [📖](https://read.readwise.io/read/01kqsp5v74es5v7nyz2ftr33dp) 👤 <antirez> 💬 829 ⭐ 6 🗓️ 2026-05-04
+    > **Резюме:** The author developed a new Array data type for Redis over four months, using AI tools extensively to help design, implement, and test the code. The project involved creating a flexible internal structure to optimize memory and performance, and adding features like regular expression support. This new data type aims to improve Redis by making numerical indexing a core feature and enabling new use cases.
 - [My audio interface has ssh enabled by default](https://hhh.hn/rodecaster-duo-fw/) [📖](https://read.readwise.io/read/01kq1zx0r4n33srh7vqaawdkzh) 👤 hhh.hn 💬 933 ⭐ 2 🗓️ 2026-04-25
     > **Заметка:** Via HackerNews
     > **Резюме:** The author bought a Rodecaster Duo for better audio during gaming and found it easy to use. They discovered the device has SSH enabled by default and allows easy firmware updates without signature checks. The author created custom firmware to access the device via SSH and reported the security concern to Rode.
@@ -52,6 +52,8 @@ Skip unit tests for UI rendering; test stable business logic, state, and reusabl
     > **Резюме:** Software is no longer a fixed product but a flexible process that evolves through ongoing learning and creativity. AI and agentic coding let people build, adapt, and improve software like art or music. Success now depends on play, social interaction, and discovering new ways to create, not just on money or technology.
 - [Trying Out OpenCode To Avoid Claude Code Lock-in](https://blog.matthewbrunelle.com/trying-out-opencode-to-avoid-claude-code-lock-in/) [📖](https://read.readwise.io/read/01kqfrv16s4z6c3z519rjb32rv) 👤 Matthew Brunelle 💬 2105 ⭐ 8 🔖 #opencode 🗓️ 2026-04-30
     > **Резюме:** The author tested OpenCode to avoid relying on Claude Code due to quality and control issues. OpenCode performed about as well as Claude Code but lacks key features like memory and better user control. The author paused Claude Code and will watch how OpenCode improves before deciding what to use next.
+- [Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/) [📖](https://read.readwise.io/read/01kqsmbkrxbxa9cj8xafba8gq4) 👤 Armin Ronacher 💬 2134 ⭐ 2 🔖 #llm-devimpact 🗓️ 2026-05-04
+    > **Резюме:** Language is changing fast, partly because of AI tools like large language models (LLMs). Many people and companies use AI to create lots of low-effort content, which makes real human communication harder to find. We need to be aware of this problem and change how we trust and interact with AI-influenced text.
 - [Swimming Naked in AI-Generated Code](https://davegriffith.substack.com/p/swimming-naked-in-ai-generated-code) [📖](https://read.readwise.io/read/01kg52xnkndzq1t428p64ycpa8) 👤 Dave Griffith 💬 2215 ⭐ 3 🗓️ 2026-01-29
     > **Резюме:** AI helps developers write code faster but can cause confusion if they don't understand the code they create. Developers must explain and review AI-generated code carefully to stay oriented and responsible. True skill comes from using AI to learn, not just to get answers quickly.
 - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) [📖](https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt) 👤 mariozechner.at 💬 2368 ⭐ 8 🗓️ 2026-03-26
@@ -73,5 +75,3 @@ Skip unit tests for UI rendering; test stable business logic, state, and reusabl
     > **Резюме:** Technology’s fastest, life-changing waves (like the Internet and smartphones) were a rare anomaly and are unlikely to repeat.  
 Future tech will keep advancing, but mostly in smaller, niche ways that won’t remake society or create another Apple/Google.  
 Open source maintainers should focus on practical, small- to medium-scale projects that serve real users and resist “scale creep.”
-- [On the usefulness of AI agents](https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html) [📖](https://read.readwise.io/read/01knq4y2r5a7ffntsmhs7jjvtf) 👤 Erik Johannes Husom 💬 2669 ⭐ 7 🗓️ 2026-04-08
-    > **Резюме:** AI agents have potential but are not as broadly useful as many think. They can help with coding and research but also raise ethical and environmental concerns. The true value of AI agents depends on careful use and human involvement.

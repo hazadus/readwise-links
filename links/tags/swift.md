@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [Scheduling and handling background app refresh in SwiftUI](https://nilcoalescing.com/blog/SchedulingAndHandlingBackgroundAppRefreshInSwiftUI) [📖](https://read.readwise.io/read/01kqvh87591fv2n3jry28c1jyw) 👤 Nil Coalescing 💬 1056 🔖 #swift 🗓️ 2026-05-05
+    > **Резюме:** Configure a SwiftUI app to schedule and handle a background fetch task using the Background Tasks framework and the backgroundTask(_:action:) SwiftUI modifier.
 - [Overview of the onChange() modifier in SwiftUI](https://nilcoalescing.com/blog/OverviewOfonChangeInSwiftUI) [📖](https://read.readwise.io/read/01kqaq4ydz8v1f257c60qq6jxh) 👤 Nil Coalescing 💬 913 🔖 #swift 🗓️ 2026-04-28
     > **Резюме:** SwiftUI's onChange() modifier runs code when a value changes and has improved since iOS 14 with new ways to access old and new values. It can run once on initial view load if set, and works differently on views versus scenes due to their lifecycles. To keep the UI smooth, long tasks inside onChange() should run asynchronously off the main thread.
 - [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) [📖](https://read.readwise.io/read/01kntwvm2kv55qz9tt3dtct2p1) 👤 Arhan Chaudhary 💬 542 🔖 #toot, #macos, #swift 🗓️ 2026-04-10

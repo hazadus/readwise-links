@@ -1,9 +1,25 @@
 # Архивные ссылки
 
-- Всего ссылок: 1633
+- Всего ссылок: 1646
 
 ## Ссылки
 
+- [Notes on incidents](https://seangoedecke.com/notes-on-incidents/) [📖](https://read.readwise.io/read/01kr38wz04wp59bv6x90mvg6we) 👤 seangoedecke.com RSS feed 💬 1061 🔖 #softwarecraft 🗓️ 2026-05-08
+- [How to check whether Spotlight is getting the right metadata](https://eclecticlight.co/2026/05/08/how-to-check-whether-spotlight-is-getting-the-right-metadata/) [📖](https://read.readwise.io/read/01kr35bneyyv1qefd7w800r73a) 👤 hoakley 💬 660 🔖 #macos 🗓️ 2026-05-08
+- [The agent principal-agent problem](https://crawshaw.io/blog/agent-principal-agent) [📖](https://read.readwise.io/read/01kr1w2kadyfj1r759s1yh6ezr) 👤 David Crawshaw (david@zentus.com) 💬 1234 🔖 #codereview, #llm-devimpact 🗓️ 2026-05-07
+- [Why hasn't longer-horizon training slowed AI progress?](https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/) [📖](https://read.readwise.io/read/01kr15p7335m4tqajkgwgzc92t) 👤 seangoedecke.com RSS feed 💬 1139 🔖 #llm 🗓️ 2026-05-07
+- [Using Django Tasks in production](https://www.better-simple.com/django/2026/05/06/using-django-tasks-in-production/) [📖](https://read.readwise.io/read/01kqzex73vjx5hrr0c6x34aazv) 👤 Tim Schilling (schillingt@better-simple.com) 💬 931 🔖 #django 🗓️ 2026-05-06
+    > **Заметка:** Надо будет попробовать Django Tasks, но когда оно немного повзрослеет.
+- [Amp, Rebuilt](https://ampcode.com/news/neo) [📖](https://read.readwise.io/read/01kqyy5gnbfzb3nwm18qpb1k13) 👤 Amp News 💬 1380 🔖 #amp 🗓️ 2026-05-06
+- [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything) [📖](https://read.readwise.io/read/01kqytw02ecj1ptps9kv0g7v9h) 👤 Simon Willison's Weblog 💬 1531 🔖 #llm-devimpact 🗓️ 2026-05-06
+    > **Заметка:** Как всегда интересные наблюдения Саймона. Молодец, откровенно признаёт свдиг в своей же парадигме, хоть он его и смущает. Наблюдаем дальше!
+- [OpenClaw Had a Rough Week](https://openclaw.ai/blog/openclaw-rough-week) [📖](https://read.readwise.io/read/01kqyfh8z168njfz6zcdznwbcp) 👤 Peter Steinberger 💬 393 🔖 #openclaw 🗓️ 2026-05-06
+- [How macOS can ignore and hide metadata](https://eclecticlight.co/2026/05/06/how-macos-can-ignore-and-hide-metadata/) [📖](https://read.readwise.io/read/01kqy2pem9hyaeyct2pcrv26c7) 👤 hoakley 💬 882 🔖 #macos 🗓️ 2026-05-06
+- [Scheduling and handling background app refresh in SwiftUI](https://nilcoalescing.com/blog/SchedulingAndHandlingBackgroundAppRefreshInSwiftUI) [📖](https://read.readwise.io/read/01kqvh87591fv2n3jry28c1jyw) 👤 Nil Coalescing 💬 1056 🔖 #swift 🗓️ 2026-05-05
+- [How to store and manage metadata in macOS](https://eclecticlight.co/2026/05/05/how-to-store-and-manage-metadata-in-macos/) [📖](https://read.readwise.io/read/01kqvf0pg8h1hvhpqw1bh9j09e) 👤 hoakley 💬 976 🔖 #macos 🗓️ 2026-05-05
+- [10 Lessons for Agentic Coding](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html) [📖](https://read.readwise.io/read/01kqv97tra48wmpp62q30warg5) 👤 Drew Breunig 💬 669 🔖 #llm, #llm-devimpact 🗓️ 2026-05-05
+    > **Заметка:** Ничего прорывного, но в целом наблюдения совпадают с моими.
+- [The new Steam Controller from Valve is out now - some early thoughts](https://www.gamingonlinux.com/2026/05/the-new-steam-controller-from-valve-is-out-now-some-early-thoughts/) [📖](https://read.readwise.io/read/01kqt0faa91n786s2xdkjadj28) 👤 Liam Dawe 💬 4147 🗓️ 2026-05-04
 - [Are Written Coding Tutorials Dead?](https://wsvincent.com/future-written-tutorials/) [📖](https://read.readwise.io/read/01kqsp5t6csw3jew91h3xerx3j) 👤 Will Vincent 💬 1072 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-05-04
 - [You Are What You Read](https://wsvincent.com/you-are-what-you-read/) [📖](https://read.readwise.io/read/01kqq7xnqe6kg3xjkmztedkb67) 👤 Will Vincent 💬 1439 🔖 #reading 🗓️ 2026-05-03
     > **Заметка:** У меня основное чтение сейчас – fiction / RSS / non-fiction, немного newsletters. Выжимку главного из Mastodon / Bluesky / HN приносит по утрам OpenClaw. You are what you read – в точку.

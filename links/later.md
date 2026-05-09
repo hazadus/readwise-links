@@ -1,13 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 104
+- Всего ссылок: 105
 
 ## Ссылки
 
-- [OpenClaw Had a Rough Week](https://openclaw.ai/blog/openclaw-rough-week) [📖](https://read.readwise.io/read/01kqyfh8z168njfz6zcdznwbcp) 👤 Peter Steinberger 💬 393 🔖 #openclaw 🗓️ 2026-05-06
-    > **Резюме:** OpenClaw had serious problems last week that slowed gateways and caused install issues. The team is making the core smaller and moving extra features to plugins to improve reliability and security. They are building a bigger team and will announce a stable long-term release soon.
 - [We're Not Building AI Features for the Money](https://zed.dev/blog/not-building-ai-for-the-money) [📖](https://read.readwise.io/read/01kqxwx5c1kye0xm4fak4rzc6s) 👤 Conrad Irwin 💬 1224 🔖 #llm, #zed 🗓️ 2026-05-06
     > **Резюме:** Zed is building AI features not just to make money, but to improve how people and AI work together in programming. They believe AI can help developers be more productive, but humans still need to guide and understand the code. Their long-term goal is to create a collaborative workspace where teams and AI agents share a clear, connected view of code.
+- [Redis array type: short story of a long development](http://antirez.com/news/164) [📖](https://read.readwise.io/read/01kqsp5v74es5v7nyz2ftr33dp) 👤 <antirez> 💬 829 🗓️ 2026-05-04
+    > **Резюме:** The author developed a new Array data type for Redis over four months, using AI tools extensively to help design, implement, and test the code. The project involved creating a flexible internal structure to optimize memory and performance, and adding features like regular expression support. This new data type aims to improve Redis by making numerical indexing a core feature and enabling new use cases.
+- [Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/) [📖](https://read.readwise.io/read/01kqsmbkrxbxa9cj8xafba8gq4) 👤 Armin Ronacher 💬 2134 🔖 #llm-devimpact 🗓️ 2026-05-04
+    > **Резюме:** Language is changing fast, partly because of AI tools like large language models (LLMs). Many people and companies use AI to create lots of low-effort content, which makes real human communication harder to find. We need to be aware of this problem and change how we trust and interact with AI-influenced text.
 - [Little Helper • The Applied Go Weekly Newsletter 2026-05-03](https://newsletter.appliedgo.net/archive/2026-05-03-little-helper/) [📖](https://read.readwise.io/read/01kqrmee8fp3npppa41mr0ey9q) 👤 The Applied Go Weekly Newsletter 💬 3211 🗓️ 2026-05-04
     > **Резюме:** This newsletter explains how AI, especially large language models (LLMs), can help developers by reviewing code, writing boring boilerplate, and generating documentation without replacing the joy of coding. It shares a practical example of using an LLM to understand security issues in Go code. The message encourages using AI as a helpful tool, not a full substitute for programming skills.
 - [The duality of language models in the browser](https://daverupert.com/2026/05/small-language-models-in-the-browser/) [📖](https://read.readwise.io/read/01kqr6j0e2cmwpyxt8ycbvyjcz) 👤 daverupert.com 💬 1358 🗓️ 2026-05-04

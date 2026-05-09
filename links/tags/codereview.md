@@ -1,9 +1,32 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [The agent principal-agent problem](https://crawshaw.io/blog/agent-principal-agent) [📖](https://read.readwise.io/read/01kr1w2kadyfj1r759s1yh6ezr) 👤 David Crawshaw (david@zentus.com) 💬 1234 🔖 #codereview, #llm-devimpact 🗓️ 2026-05-07
+    > **Резюме:** The agent principal-agent problem
+2026-05-07
+Code review is broken.
+The industry-established code review process, review-then-commit, was a straightforward mechanism that allowed a relatively low-trust group of engineers to collaborate. It appears to have been initially developed for the Apache server OSS project in the 90s, corporatized by Google in the early 2000s, and popularized throughout the industry by several means, most notable of which was the GitHub PR.
+It was very simple:
+
+A human makes a change.
+This change is packaged up, sent to another human for commentary.
+Rounds of commentary and adjustments continue until the reviewer approves (LGTMs) it.
+The change is committed.
+
+This is not Michael Fagan's defect analysis work or the ticket-like processes used for critical systems changes in fields like aerospace. This will not catch your bugs. It will, however, communicate design changes to other engineers who maintain a mental model of the codebase, and reviewers can use the process to teach norms to contributors. It has advantages, and because there is a gate before the main branch changes, it does not require much trust. That makes it a great tool for scaling a company, because beyond ~10-12 engineers (the "two pizza" team, among other names), trust erodes rapidly. It is also great for scaling OSS. It puts work on reviewers, but there was work on the human making the change too. An imbalance existed but was often manageable.
+The crisis of code review
+Agents broke this. If you insert an agent into the existing process, your best possible outcome is:
+
+A human instructs a machine to make a change.
+The human reviews the code, iterates with comments until they approve it.
+This change is packaged up, sent to another human for commentary.
+Rounds of commentary and adjustments continue until the reviewer approves (LGTMs) it.
+The change is committed.
+
+This doubles the amount of review. But companies were already review limited. In a really well-functioning team, a ...
 - [What Is Code Review For?](https://blog.glyph.im/2026/03/what-is-code-review-for.html) [📖](https://read.readwise.io/read/01kjwj2d6ngddzrgxejrw2wsp9) 👤 Glyph Lefkowitz 💬 1353 🔖 #codereview 🗓️ 2026-03-04
     > **Резюме:** Code review is mainly a social process to share knowledge and improve team culture, not a way to catch bugs. Automated tools like tests and linters are better for finding errors reliably. When reviewing code from AI like LLMs, rely on strong automated checks because these tools do not learn or improve like humans.
 - [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kba8bsbgb2t8n4z5sbprc8kb) 👤 Thomas Paul Mann 💬 1054 🔖 #codereview, #joyandcuriosity 🗓️ 2025-11-30

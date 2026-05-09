@@ -1,11 +1,42 @@
 # Ссылки
 
-- Всего ссылок: 96
+- Всего ссылок: 100
 
 ## Ссылки
 
+- [The agent principal-agent problem](https://crawshaw.io/blog/agent-principal-agent) [📖](https://read.readwise.io/read/01kr1w2kadyfj1r759s1yh6ezr) 👤 David Crawshaw (david@zentus.com) 💬 1234 🔖 #codereview, #llm-devimpact 🗓️ 2026-05-07
+    > **Резюме:** The agent principal-agent problem
+2026-05-07
+Code review is broken.
+The industry-established code review process, review-then-commit, was a straightforward mechanism that allowed a relatively low-trust group of engineers to collaborate. It appears to have been initially developed for the Apache server OSS project in the 90s, corporatized by Google in the early 2000s, and popularized throughout the industry by several means, most notable of which was the GitHub PR.
+It was very simple:
+
+A human makes a change.
+This change is packaged up, sent to another human for commentary.
+Rounds of commentary and adjustments continue until the reviewer approves (LGTMs) it.
+The change is committed.
+
+This is not Michael Fagan's defect analysis work or the ticket-like processes used for critical systems changes in fields like aerospace. This will not catch your bugs. It will, however, communicate design changes to other engineers who maintain a mental model of the codebase, and reviewers can use the process to teach norms to contributors. It has advantages, and because there is a gate before the main branch changes, it does not require much trust. That makes it a great tool for scaling a company, because beyond ~10-12 engineers (the "two pizza" team, among other names), trust erodes rapidly. It is also great for scaling OSS. It puts work on reviewers, but there was work on the human making the change too. An imbalance existed but was often manageable.
+The crisis of code review
+Agents broke this. If you insert an agent into the existing process, your best possible outcome is:
+
+A human instructs a machine to make a change.
+The human reviews the code, iterates with comments until they approve it.
+This change is packaged up, sent to another human for commentary.
+Rounds of commentary and adjustments continue until the reviewer approves (LGTMs) it.
+The change is committed.
+
+This doubles the amount of review. But companies were already review limited. In a really well-functioning team, a ...
+- [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything) [📖](https://read.readwise.io/read/01kqytw02ecj1ptps9kv0g7v9h) 👤 Simon Willison's Weblog 💬 1531 🔖 #llm-devimpact 🗓️ 2026-05-06
+    > **Заметка:** Как всегда интересные наблюдения Саймона. Молодец, откровенно признаёт свдиг в своей же парадигме, хоть он его и смущает. Наблюдаем дальше!
+    > **Резюме:** AI coding tools are blurring the lines between casual "vibe coding" and professional "agentic engineering." The author feels uneasy trusting AI-generated code without thorough review but compares it to trusting other teams' work. Despite AI advances, software development remains complex, and experienced engineers are still needed.
+- [10 Lessons for Agentic Coding](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html) [📖](https://read.readwise.io/read/01kqv97tra48wmpp62q30warg5) 👤 Drew Breunig 💬 669 🔖 #llm, #llm-devimpact 🗓️ 2026-05-05
+    > **Заметка:** Ничего прорывного, но в целом наблюдения совпадают с моими.
+    > **Резюме:** Guidelines for programming when code is cheap.
 - [Are Written Coding Tutorials Dead?](https://wsvincent.com/future-written-tutorials/) [📖](https://read.readwise.io/read/01kqsp5t6csw3jew91h3xerx3j) 👤 Will Vincent 💬 1072 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-05-04
     > **Резюме:** Have LLMs truly killed the point of human-written coding tutorials?
+- [Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/) [📖](https://read.readwise.io/read/01kqsmbkrxbxa9cj8xafba8gq4) 👤 Armin Ronacher 💬 2134 🔖 #llm-devimpact 🗓️ 2026-05-04
+    > **Резюме:** Language is changing fast, partly because of AI tools like large language models (LLMs). Many people and companies use AI to create lots of low-effort content, which makes real human communication harder to find. We need to be aware of this problem and change how we trust and interact with AI-influenced text.
 - [Software engineering may no longer be a lifetime career](https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/) [📖](https://read.readwise.io/read/01kpz68am3sp579pkf7ggym4gy) 👤 seangoedecke.com RSS feed 💬 849 🔖 #llm-devimpact 🗓️ 2026-04-24
     > **Резюме:** Using AI in software engineering may reduce how much engineers learn and weaken their skills over time. Even if this happens, engineers might still need to use AI to keep their jobs and stay competitive. This could mean software engineering careers might not last as long as they used to, similar to the short careers of professional athletes.
 - [The Hottest AI Coding Skill In 2026? Coding Without AI](https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/) [📖](https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z) 👤 codemanship 💬 606 🔖 #predictions, #llm-devimpact 🗓️ 2026-04-24

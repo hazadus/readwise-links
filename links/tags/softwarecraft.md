@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 44
+- Всего ссылок: 45
 
 ## Ссылки
 
+- [Notes on incidents](https://seangoedecke.com/notes-on-incidents/) [📖](https://read.readwise.io/read/01kr38wz04wp59bv6x90mvg6we) 👤 seangoedecke.com RSS feed 💬 1061 🔖 #softwarecraft 🗓️ 2026-05-08
+    > **Резюме:** Incidents are boring. Most of what you actually do during an incident is wait: for some other team to investigate, or for a deploy to finish, or for the result of some change to become apparent, or for someone else who’s been paged to come online. It’s stressful, but there’s often just not that much to do.
+Most incidents resolve on their own. People love to share war stories about incidents where some hero engineer improvised a clever fix that instantly repaired the system. That rarely happens. Well-designed software systems tend to come good by themselves, and many modern systems are at least partly well-designed, by virtue of being built out of really solid pieces. If a server process is crashing or leaking memory, Kubernetes will kill the pod and bring it back up. If a service is overloaded and jammed up, clients will (hopefully) trigger circuit breakers and back off until it can recover. Temporary spikes in expensive operations will often just fill up a queue instead of taking the entire system down. Most incident calls I’ve been on - well over half - would have come good by themselves in roughly the same time without any human intervention.
+Most incident-resolving actions make incidents worse. Engineers jump too quickly to resolve incidents. Oh, the queue size is huge? Don’t worry, I’m here in a production console to clear the queue! Unfortunately, some of the jobs I just nuked were doing important billing work and aren’t automatically re-queued, so this queue-latency incident just became a billing incident as well. Another classic in this genre is “engineer forces a series of redeploys to “fix” a concerning-looking metric, and the concurrent deploys cause far more stress on the system than whatever was causing the metric to look weird”.
+For that reason, the first thing you should do in an incident is nothing. When I was paged late at night, I used to have a habit of pouring myself a glass of scotch before I joined the call. This was only partly for the tran...
 - [On sabotaging projects by overthinking](https://kevinlynagh.com/newsletter/2026_04_overthinking/) [📖](https://read.readwise.io/read/01kq1zz1y6tfjxjk03b2k9h9q0) 👤 kevinlynagh.com 💬 2614 🔖 #softwarecraft 🗓️ 2026-04-25
     > **Заметка:** Via HackerNews
     > **Резюме:** The author explains how overthinking can stop projects from being finished by causing endless research and revisions. They describe their struggle with building a structural diff tool and the tools they explored. Finally, they plan to make a simple version first, then improve it step-by-step to avoid getting stuck again.

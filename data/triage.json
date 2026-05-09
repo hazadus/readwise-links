@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T04:14:26.865060+00:00",
+  "generated_at": "2026-05-09T04:19:27.170905+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -567,34 +567,6 @@
         }
       },
       {
-        "id": "01kqyfh8z168njfz6zcdznwbcp",
-        "url": "https://read.readwise.io/read/01kqyfh8z168njfz6zcdznwbcp",
-        "source_url": "https://openclaw.ai/blog/openclaw-rough-week",
-        "title": "OpenClaw Had a Rough Week",
-        "author": "Peter Steinberger",
-        "image_url": "https://openclaw.ai/og-image.png",
-        "word_count": 393,
-        "summary": "OpenClaw had serious problems last week that slowed gateways and caused install issues. The team is making the core smaller and moving extra features to plugins to improve reliability and security. They are building a bigger team and will announce a stable long-term release soon.",
-        "notes": "",
-        "tags": {
-          "openclaw": {
-            "name": "OpenClaw",
-            "type": "manual",
-            "created": 1778065655224
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-05-06T11:07:26.561000+00:00",
-        "last_moved_at": "2026-05-06T11:07:31.107000+00:00",
-        "published_date": "2026-05-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kqqetyjnxxaewfg26q0t5sa2",
         "url": "https://read.readwise.io/read/01kqqetyjnxxaewfg26q0t5sa2",
         "source_url": "https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/triller-o-sovremennoj-russkoj-derevne.html",
@@ -658,6 +630,28 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
+        }
+      },
+      {
+        "id": "01kqsp5v74es5v7nyz2ftr33dp",
+        "url": "https://read.readwise.io/read/01kqsp5v74es5v7nyz2ftr33dp",
+        "source_url": "http://antirez.com/news/164",
+        "title": "Redis array type: short story of a long development",
+        "author": "<antirez>",
+        "image_url": "https://antirez.com/latest/favicon.ico",
+        "word_count": 829,
+        "summary": "The author developed a new Array data type for Redis over four months, using AI tools extensively to help design, implement, and test the code. The project involved creating a flexible internal structure to optimize memory and performance, and adding features like regular expression support. This new data type aims to improve Redis by making numerical indexing a core feature and enabling new use cases.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-04T14:27:16.909000+00:00",
+        "last_moved_at": "2026-05-08T06:57:31.306000+00:00",
+        "published_date": "2026-05-04",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 6
         }
       },
       {
@@ -1076,6 +1070,62 @@
         }
       },
       {
+        "id": "01kqsmbkrxbxa9cj8xafba8gq4",
+        "url": "https://read.readwise.io/read/01kqsmbkrxbxa9cj8xafba8gq4",
+        "source_url": "https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/",
+        "title": "Content for Content’s Sake",
+        "author": "Armin Ronacher",
+        "image_url": "https://lucumr.pocoo.org/social/2026-05-04-content-for-contents-sake-social.png",
+        "word_count": 2134,
+        "summary": "Language is changing fast, partly because of AI tools like large language models (LLMs). Many people and companies use AI to create lots of low-effort content, which makes real human communication harder to find. We need to be aware of this problem and change how we trust and interact with AI-influenced text.",
+        "notes": "",
+        "tags": {
+          "llm-devimpact": {
+            "name": "LLM-DevImpact",
+            "type": "manual",
+            "created": 1778240757573
+          }
+        },
+        "highlights": [
+          {
+            "id": "01kr3pccgaepbq6sh2wqf5fqxm",
+            "url": "https://read.readwise.io/read/01kr3pccgaepbq6sh2wqf5fqxm",
+            "source_url": null,
+            "title": null,
+            "author": null,
+            "source": "reader-mobile-app",
+            "category": "highlight",
+            "location": null,
+            "tags": {},
+            "site_name": null,
+            "word_count": null,
+            "notes": "",
+            "summary": null,
+            "image_url": null,
+            "parent_id": "01kqsmbkrxbxa9cj8xafba8gq4",
+            "reading_progress": 0.0,
+            "content": "And surely, we should hate all of this.  These low-effort posts, tweets, and Open\nSource projects should not make it anywhere.  But they do!  Whatever they play\ninto, whether in the algorithms or with human engagement, they are not punished\nenough for how little effort goes into them.",
+            "html_content": null,
+            "published_date": null,
+            "created_at": "2026-05-08T11:43:18.838252+00:00",
+            "updated_at": "2026-05-08T11:43:18.838264+00:00",
+            "saved_at": "2026-05-08T11:43:18.538000+00:00",
+            "first_opened_at": null,
+            "last_opened_at": null,
+            "last_moved_at": "2026-05-08T11:43:18.538000+00:00"
+          }
+        ],
+        "saved_at": "2026-05-04T13:55:28.742000+00:00",
+        "last_moved_at": "2026-05-08T11:48:33.823000+00:00",
+        "published_date": "2026-05-04",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01kg52xnkndzq1t428p64ycpa8",
         "url": "https://read.readwise.io/read/01kg52xnkndzq1t428p64ycpa8",
         "source_url": "https://davegriffith.substack.com/p/swimming-naked-in-ai-generated-code",
@@ -1312,28 +1362,6 @@
           "is_evergreen": false,
           "interest_score": 3
         }
-      },
-      {
-        "id": "01knq4y2r5a7ffntsmhs7jjvtf",
-        "url": "https://read.readwise.io/read/01knq4y2r5a7ffntsmhs7jjvtf",
-        "source_url": "https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html",
-        "title": "On the usefulness of AI agents",
-        "author": "Erik Johannes Husom",
-        "image_url": null,
-        "word_count": 2669,
-        "summary": "AI agents have potential but are not as broadly useful as many think. They can help with coding and research but also raise ethical and environmental concerns. The true value of AI agents depends on careful use and human involvement.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-08T18:16:04.173000+00:00",
-        "last_moved_at": "2026-04-15T08:34:46.233000+00:00",
-        "published_date": "2026-04-08",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
       }
     ],
     "quick_wins": [
@@ -1496,34 +1524,6 @@
         "saved_at": "2026-05-03T17:40:58.803000+00:00",
         "last_moved_at": "2026-05-03T17:41:02.102000+00:00",
         "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kqyfh8z168njfz6zcdznwbcp",
-        "url": "https://read.readwise.io/read/01kqyfh8z168njfz6zcdznwbcp",
-        "source_url": "https://openclaw.ai/blog/openclaw-rough-week",
-        "title": "OpenClaw Had a Rough Week",
-        "author": "Peter Steinberger",
-        "image_url": "https://openclaw.ai/og-image.png",
-        "word_count": 393,
-        "summary": "OpenClaw had serious problems last week that slowed gateways and caused install issues. The team is making the core smaller and moving extra features to plugins to improve reliability and security. They are building a bigger team and will announce a stable long-term release soon.",
-        "notes": "",
-        "tags": {
-          "openclaw": {
-            "name": "OpenClaw",
-            "type": "manual",
-            "created": 1778065655224
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-05-06T11:07:26.561000+00:00",
-        "last_moved_at": "2026-05-06T11:07:31.107000+00:00",
-        "published_date": "2026-05-05",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -5230,6 +5230,62 @@
         }
       },
       {
+        "id": "01kqsmbkrxbxa9cj8xafba8gq4",
+        "url": "https://read.readwise.io/read/01kqsmbkrxbxa9cj8xafba8gq4",
+        "source_url": "https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/",
+        "title": "Content for Content’s Sake",
+        "author": "Armin Ronacher",
+        "image_url": "https://lucumr.pocoo.org/social/2026-05-04-content-for-contents-sake-social.png",
+        "word_count": 2134,
+        "summary": "Language is changing fast, partly because of AI tools like large language models (LLMs). Many people and companies use AI to create lots of low-effort content, which makes real human communication harder to find. We need to be aware of this problem and change how we trust and interact with AI-influenced text.",
+        "notes": "",
+        "tags": {
+          "llm-devimpact": {
+            "name": "LLM-DevImpact",
+            "type": "manual",
+            "created": 1778240757573
+          }
+        },
+        "highlights": [
+          {
+            "id": "01kr3pccgaepbq6sh2wqf5fqxm",
+            "url": "https://read.readwise.io/read/01kr3pccgaepbq6sh2wqf5fqxm",
+            "source_url": null,
+            "title": null,
+            "author": null,
+            "source": "reader-mobile-app",
+            "category": "highlight",
+            "location": null,
+            "tags": {},
+            "site_name": null,
+            "word_count": null,
+            "notes": "",
+            "summary": null,
+            "image_url": null,
+            "parent_id": "01kqsmbkrxbxa9cj8xafba8gq4",
+            "reading_progress": 0.0,
+            "content": "And surely, we should hate all of this.  These low-effort posts, tweets, and Open\nSource projects should not make it anywhere.  But they do!  Whatever they play\ninto, whether in the algorithms or with human engagement, they are not punished\nenough for how little effort goes into them.",
+            "html_content": null,
+            "published_date": null,
+            "created_at": "2026-05-08T11:43:18.838252+00:00",
+            "updated_at": "2026-05-08T11:43:18.838264+00:00",
+            "saved_at": "2026-05-08T11:43:18.538000+00:00",
+            "first_opened_at": null,
+            "last_opened_at": null,
+            "last_moved_at": "2026-05-08T11:43:18.538000+00:00"
+          }
+        ],
+        "saved_at": "2026-05-04T13:55:28.742000+00:00",
+        "last_moved_at": "2026-05-08T11:48:33.823000+00:00",
+        "published_date": "2026-05-04",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01kp3c80qpbjvt9qmbpgy9515h",
         "url": "https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h",
         "source_url": "https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email",
@@ -7664,6 +7720,28 @@
         "saved_at": "2026-03-01T14:17:15.779000+00:00",
         "last_moved_at": "2026-03-01T14:17:19.408000+00:00",
         "published_date": "2026-02-20",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 6
+        }
+      },
+      {
+        "id": "01kqsp5v74es5v7nyz2ftr33dp",
+        "url": "https://read.readwise.io/read/01kqsp5v74es5v7nyz2ftr33dp",
+        "source_url": "http://antirez.com/news/164",
+        "title": "Redis array type: short story of a long development",
+        "author": "<antirez>",
+        "image_url": "https://antirez.com/latest/favicon.ico",
+        "word_count": 829,
+        "summary": "The author developed a new Array data type for Redis over four months, using AI tools extensively to help design, implement, and test the code. The project involved creating a flexible internal structure to optimize memory and performance, and adding features like regular expression support. This new data type aims to improve Redis by making numerical indexing a core feature and enabling new use cases.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-04T14:27:16.909000+00:00",
+        "last_moved_at": "2026-05-08T06:57:31.306000+00:00",
+        "published_date": "2026-05-04",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -10289,6 +10367,62 @@
         }
       },
       {
+        "id": "01kqsmbkrxbxa9cj8xafba8gq4",
+        "url": "https://read.readwise.io/read/01kqsmbkrxbxa9cj8xafba8gq4",
+        "source_url": "https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/",
+        "title": "Content for Content’s Sake",
+        "author": "Armin Ronacher",
+        "image_url": "https://lucumr.pocoo.org/social/2026-05-04-content-for-contents-sake-social.png",
+        "word_count": 2134,
+        "summary": "Language is changing fast, partly because of AI tools like large language models (LLMs). Many people and companies use AI to create lots of low-effort content, which makes real human communication harder to find. We need to be aware of this problem and change how we trust and interact with AI-influenced text.",
+        "notes": "",
+        "tags": {
+          "llm-devimpact": {
+            "name": "LLM-DevImpact",
+            "type": "manual",
+            "created": 1778240757573
+          }
+        },
+        "highlights": [
+          {
+            "id": "01kr3pccgaepbq6sh2wqf5fqxm",
+            "url": "https://read.readwise.io/read/01kr3pccgaepbq6sh2wqf5fqxm",
+            "source_url": null,
+            "title": null,
+            "author": null,
+            "source": "reader-mobile-app",
+            "category": "highlight",
+            "location": null,
+            "tags": {},
+            "site_name": null,
+            "word_count": null,
+            "notes": "",
+            "summary": null,
+            "image_url": null,
+            "parent_id": "01kqsmbkrxbxa9cj8xafba8gq4",
+            "reading_progress": 0.0,
+            "content": "And surely, we should hate all of this.  These low-effort posts, tweets, and Open\nSource projects should not make it anywhere.  But they do!  Whatever they play\ninto, whether in the algorithms or with human engagement, they are not punished\nenough for how little effort goes into them.",
+            "html_content": null,
+            "published_date": null,
+            "created_at": "2026-05-08T11:43:18.838252+00:00",
+            "updated_at": "2026-05-08T11:43:18.838264+00:00",
+            "saved_at": "2026-05-08T11:43:18.538000+00:00",
+            "first_opened_at": null,
+            "last_opened_at": null,
+            "last_moved_at": "2026-05-08T11:43:18.538000+00:00"
+          }
+        ],
+        "saved_at": "2026-05-04T13:55:28.742000+00:00",
+        "last_moved_at": "2026-05-08T11:48:33.823000+00:00",
+        "published_date": "2026-05-04",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01kp3c80qpbjvt9qmbpgy9515h",
         "url": "https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h",
         "source_url": "https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email",
@@ -10485,34 +10619,6 @@
         "saved_at": "2026-05-03T17:40:58.803000+00:00",
         "last_moved_at": "2026-05-03T17:41:02.102000+00:00",
         "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kqyfh8z168njfz6zcdznwbcp",
-        "url": "https://read.readwise.io/read/01kqyfh8z168njfz6zcdznwbcp",
-        "source_url": "https://openclaw.ai/blog/openclaw-rough-week",
-        "title": "OpenClaw Had a Rough Week",
-        "author": "Peter Steinberger",
-        "image_url": "https://openclaw.ai/og-image.png",
-        "word_count": 393,
-        "summary": "OpenClaw had serious problems last week that slowed gateways and caused install issues. The team is making the core smaller and moving extra features to plugins to improve reliability and security. They are building a bigger team and will announce a stable long-term release soon.",
-        "notes": "",
-        "tags": {
-          "openclaw": {
-            "name": "OpenClaw",
-            "type": "manual",
-            "created": 1778065655224
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-05-06T11:07:26.561000+00:00",
-        "last_moved_at": "2026-05-06T11:07:31.107000+00:00",
-        "published_date": "2026-05-05",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

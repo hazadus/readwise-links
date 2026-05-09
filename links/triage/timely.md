@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-05-08 04:14 UTC · Статей: 55
+Сгенерировано: 2026-05-09 04:19 UTC · Статей: 56
 
 ## Статьи
 
@@ -59,6 +59,8 @@ _Актуальный контент, который может устареть
     > **Резюме:** Zed is building AI features not just to make money, but to improve how people and AI work together in programming. They believe AI can help developers be more productive, but humans still need to guide and understand the code. Their long-term goal is to create a collaborative workspace where teams and AI agents share a clear, connected view of code.
 - [The Software Development Lifecycle Is Dead](https://boristane.com/blog/the-software-development-lifecycle-is-dead/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw5d83t9105hqzkean823b) 👤 Boris Tane 💬 1702 ⭐ 6 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** Software development no longer follows fixed steps but relies on agents that write code, test, and deploy continuously. Humans guide the agents by providing context and reviewing complex decisions, while agents handle routine tasks and fix issues automatically. This shift enables faster, automated releases with minimal human intervention, changing how teams work and monitor software.
+- [Redis array type: short story of a long development](http://antirez.com/news/164) [📖](https://read.readwise.io/read/01kqsp5v74es5v7nyz2ftr33dp) 👤 <antirez> 💬 829 ⭐ 6 🗓️ 2026-05-04
+    > **Резюме:** The author developed a new Array data type for Redis over four months, using AI tools extensively to help design, implement, and test the code. The project involved creating a flexible internal structure to optimize memory and performance, and adding features like regular expression support. This new data type aims to improve Redis by making numerical indexing a core feature and enabling new use cases.
 - [The Structure of Engineering Revolutions](https://webdirections.org/blog/the-structure-of-engineering-revolutions/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kkeb8d42rdtsnyrwfezxesgd) 👤 @johnallsopp 💬 4159 ⭐ 3 🗓️ 2026-03-11
     > **Резюме:** Experienced software engineers resist AI-assisted coding because it challenges their long-held beliefs and skills. This resistance follows a pattern of paradigm shifts described by Thomas Kuhn, where new ideas disrupt old frameworks. Despite skepticism, AI tools are proving to boost productivity and change software development fundamentally.
 - [The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev) [📖](https://read.readwise.io/read/01km5fqgjckw8znfxbjqybrm3c) 👤 Daring Fireball 💬 3347 ⭐ 3 🗓️ 2026-03-20
@@ -98,6 +100,8 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** To become a staff engineer, you must build deep expertise in technology, codebases, and business using AI as a learning tool, not a crutch. AI can speed up learning and understanding, but true mastery means internalizing knowledge without relying on AI all the time. Managing and showing your expertise is key to advancing your career and making a real impact.
 - [Brain Dumps as a Literary Form](https://davegriffith.substack.com/p/brain-dumps-as-a-literary-form) [📖](https://read.readwise.io/read/01kgrsdz9j55dc8rm8q8410rj9) 👤 Dave Griffith 💬 2431 ⭐ 2 🗓️ 2026-02-06
     > **Резюме:** Dave Griffith shares his thinking process through AI-assisted transcripts instead of polished conclusions. This new form shows how ideas develop and helps others understand reasoning better. It changes how we communicate and may create a market for watching thinkers work in real time.
+- [Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/) [📖](https://read.readwise.io/read/01kqsmbkrxbxa9cj8xafba8gq4) 👤 Armin Ronacher 💬 2134 ⭐ 2 🔖 #llm-devimpact 🗓️ 2026-05-04
+    > **Резюме:** Language is changing fast, partly because of AI tools like large language models (LLMs). Many people and companies use AI to create lots of low-effort content, which makes real human communication harder to find. We need to be aware of this problem and change how we trust and interact with AI-influenced text.
 - [“Conviction Collapse” and the End of Software as We Know It](https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h) 👤 Tim O’Reilly 💬 2092 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-04-13
     > **Заметка:** w./ Harper Reed!
     > **Резюме:** Software is no longer a fixed product but a flexible process that evolves through ongoing learning and creativity. AI and agentic coding let people build, adapt, and improve software like art or music. Success now depends on play, social interaction, and discovering new ways to create, not just on money or technology.
@@ -117,8 +121,6 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** The author bought a Rodecaster Duo for better audio during gaming and found it easy to use. They discovered the device has SSH enabled by default and allows easy firmware updates without signature checks. The author created custom firmware to access the device via SSH and reported the security concern to Rode.
 - [Алексей Иванов](https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/sobachi-serdcza.html) [📖](https://read.readwise.io/read/01kqqevpskax3a70rvmhpeyram) 👤 ivanproduction.ru 💬 714 ⭐ 2 🗓️ 2026-05-03
     > **Резюме:** Роман «Псоглавцы» рассказывает о трёх молодых людях, которые исследуют таинственную деревню с необычными обычаями и легендами. Автор использует историю о святом Христофоре с собачьей головой, чтобы показать, как люди могут превращаться в зверей в сложных условиях. Книга сочетает элементы ужаса и социальной критики, отражая страхи современной России.
-- [OpenClaw Had a Rough Week](https://openclaw.ai/blog/openclaw-rough-week) [📖](https://read.readwise.io/read/01kqyfh8z168njfz6zcdznwbcp) 👤 Peter Steinberger 💬 393 ⭐ 2 🔖 #openclaw 🗓️ 2026-05-06
-    > **Резюме:** OpenClaw had serious problems last week that slowed gateways and caused install issues. The team is making the core smaller and moving extra features to plugins to improve reliability and security. They are building a bigger team and will announce a stable long-term release soon.
 - [Bypassing DPI with eBPF sock_ops](https://bora.sh/bypassing-dpi-with-ebpf/) [📖](https://read.readwise.io/read/01kqh31s3acyzhnmh2g9pmvpfb) 👤 Bora Tanrikulu 💬 13 ⭐ 2 🔖 #dpi 🗓️ 2026-05-01
     > **Резюме:** eBPF sock_ops, fake TLS packets, and why every platform needs a different hack
 - [НА ГРАНИЦЕ ТУЧИ ХОДЯТ ХМУРО](https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/na-granicze-tuchi-xodyat-xmuro.html) [📖](https://read.readwise.io/read/01kqqewcvfk42cm35ywcb7b37b) 👤 ivanproduction.ru 💬 529 ⭐ 1 🗓️ 2026-05-03

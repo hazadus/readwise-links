@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 39
+- Всего ссылок: 42
 
 ## Ссылки
 
+- [How to check whether Spotlight is getting the right metadata](https://eclecticlight.co/2026/05/08/how-to-check-whether-spotlight-is-getting-the-right-metadata/) [📖](https://read.readwise.io/read/01kr35bneyyv1qefd7w800r73a) 👤 hoakley 💬 660 🔖 #macos 🗓️ 2026-05-08
+    > **Резюме:** Use the mdimport and mdls commands to dump full information about all the metadata attributes found for a file, and those indexed by Spotlight.
+- [How macOS can ignore and hide metadata](https://eclecticlight.co/2026/05/06/how-macos-can-ignore-and-hide-metadata/) [📖](https://read.readwise.io/read/01kqy2pem9hyaeyct2pcrv26c7) 👤 hoakley 💬 882 🔖 #macos 🗓️ 2026-05-06
+    > **Резюме:** Two significant indexing errors when processing RTF and image files caused search failures. Display in the Finder is also insufficient to make these xattrs as useful as they could be.
+- [How to store and manage metadata in macOS](https://eclecticlight.co/2026/05/05/how-to-store-and-manage-metadata-in-macos/) [📖](https://read.readwise.io/read/01kqvf0pg8h1hvhpqw1bh9j09e) 👤 hoakley 💬 976 🔖 #macos 🗓️ 2026-05-05
+    > **Резюме:** How to select the most appropriate way of storing metadata, limitations of Finder Comments and Tags, which extended attributes are best, and which utilities to edit and manage them.
 - [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/) [📖](https://read.readwise.io/read/01kqks5fs8kha2b73e23wzmthz) 👤 hoakley 💬 632 🔖 #macos 🗓️ 2026-05-02
     > **Заметка:** Интересно, но пока не вижу практического применения. 
     > **Резюме:** Latest Geekbench performance figures for macOS VMs, and testing of how few cores and how little memory is really needed: could you run a macOS VM usefully on a MacBook Neo?

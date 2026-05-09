@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-05-08 04:14 UTC · Статей: 58
+Сгенерировано: 2026-05-09 04:19 UTC · Статей: 59
 
 ## Статьи
 
@@ -129,6 +129,8 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** Writing code faster does not make software delivery faster if other steps are slow. The real problem is delays in review, testing, and deployment, plus unclear requirements. To improve, fix the slowest step and focus on getting features into users' hands quickly.
 - [Brain Dumps as a Literary Form](https://davegriffith.substack.com/p/brain-dumps-as-a-literary-form) [📖](https://read.readwise.io/read/01kgrsdz9j55dc8rm8q8410rj9) 👤 Dave Griffith 💬 2431 ⭐ 2 🗓️ 2026-02-06
     > **Резюме:** Dave Griffith shares his thinking process through AI-assisted transcripts instead of polished conclusions. This new form shows how ideas develop and helps others understand reasoning better. It changes how we communicate and may create a market for watching thinkers work in real time.
+- [Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/) [📖](https://read.readwise.io/read/01kqsmbkrxbxa9cj8xafba8gq4) 👤 Armin Ronacher 💬 2134 ⭐ 2 🔖 #llm-devimpact 🗓️ 2026-05-04
+    > **Резюме:** Language is changing fast, partly because of AI tools like large language models (LLMs). Many people and companies use AI to create lots of low-effort content, which makes real human communication harder to find. We need to be aware of this problem and change how we trust and interact with AI-influenced text.
 - [“Conviction Collapse” and the End of Software as We Know It](https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h) 👤 Tim O’Reilly 💬 2092 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-04-13
     > **Заметка:** w./ Harper Reed!
     > **Резюме:** Software is no longer a fixed product but a flexible process that evolves through ongoing learning and creativity. AI and agentic coding let people build, adapt, and improve software like art or music. Success now depends on play, social interaction, and discovering new ways to create, not just on money or technology.
