@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 100
+- Всего ссылок: 102
 
 ## Ссылки
 
+- [Slow. The. F**k. Down.](https://codemanship.wordpress.com/2026/05/10/slow-the-fk-down/) [📖](https://read.readwise.io/read/01kr8k8bbhnv6ytn6vvk4xtc1q) 👤 codemanship 💬 720 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-05-10
+    > **Резюме:** “Slow is smooth, and smooth is fast.” US Navy SEALS training mantra Another day, another data set telling us what we already knew. In the latest AI Engineering Report from Faros, the software development telemetry folks, they found from studying 22,000 developers working on more than 4,000 teams what they call an “acceleration whiplash” effect … Continue reading "Slow. The. F**k. Down."
+- [AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/) [📖](https://read.readwise.io/read/01kr4t5whsajkce6dmhszs4ad2) 👤 seangoedecke.com RSS feed 💬 1085 🔖 #learning, #llm-devimpact 🗓️ 2026-05-08
+    > **Заметка:** Всё здорово, но всё же мне кажется именно на развитие личного чутья, практических знаний помощь агентов влияет негативно. Опыт, возможно, будет шире, но более «мелкий», поверхностный.
+    > **Резюме:** AI tools help weak engineers make fewer harmful mistakes and produce better code. Strong engineers rarely rely on AI this way because they can catch errors themselves. Using AI this way improves team work but may threaten jobs for less skilled engineers.
 - [The agent principal-agent problem](https://crawshaw.io/blog/agent-principal-agent) [📖](https://read.readwise.io/read/01kr1w2kadyfj1r759s1yh6ezr) 👤 David Crawshaw (david@zentus.com) 💬 1234 🔖 #codereview, #llm-devimpact 🗓️ 2026-05-07
     > **Резюме:** The agent principal-agent problem
 2026-05-07

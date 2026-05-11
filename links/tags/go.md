@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 251
+- Всего ссылок: 252
 
 ## Ссылки
 
+- [Type-safe slogging](https://rednafi.com/go/typesafe-slogging/) [📖](https://read.readwise.io/read/01kr6xw0dzbzzdmakdyxtnkzpy) 👤 Redowan's Reflections 💬 1251 🔖 #go 🗓️ 2026-05-09
+    > **Резюме:** The author switched to Go's built-in slog for logging because it is reliable and simple despite some extra allocations. They recommend passing the logger as a dependency and using typed attribute helpers to ensure type safety and consistent keys. A tool called sloglint enforces these best practices to keep logging clear and error-free.
 - [Understanding the Go Runtime: Slices, Maps, and Channels](https://internals-for-interns.com/posts/go-runtime-slices-maps-channels/) [📖](https://read.readwise.io/read/01kqva1g2d60nh43y7yp354gc3) 👤 Jesús Espino 💬 6000 🔖 #go 🗓️ 2026-05-05
     > **Резюме:** A Go slice is a small header pointing to a backing array, and slices can share memory until one grows and copies the data. Maps use a directory and tables with groups of slots to store key/value pairs efficiently, splitting tables as they grow. Channels have a circular buffer and queues of waiting goroutines, handling sends and receives smoothly even when the buffer is full or empty.
 - [Understanding the Go Runtime: The Network Poller](https://internals-for-interns.com/posts/go-netpoller/?utm_source=christophberger&utm_medium=email&utm_campaign=2026-04-26-not-magic) [📖](https://read.readwise.io/read/01kqehj6aqfvy5ftqn9fatzj8q) 👤 Jesús Espino 💬 4703 🔖 #go 🗓️ 2026-04-30

@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 928
+- Всего ссылок: 929
 
 ## Ссылки
 
+- [Type-safe slogging](https://rednafi.com/go/typesafe-slogging/) [📖](https://read.readwise.io/read/01kr6xw0dzbzzdmakdyxtnkzpy) 👤 Redowan's Reflections 💬 1251 🔖 #go 🗓️ 2026-05-09
 - [Understanding the Go Runtime: Slices, Maps, and Channels](https://internals-for-interns.com/posts/go-runtime-slices-maps-channels/) [📖](https://read.readwise.io/read/01kqva1g2d60nh43y7yp354gc3) 👤 Jesús Espino 💬 6000 🔖 #go 🗓️ 2026-05-05
 - [How to Write UI Components That Stay Flexible](https://alexop.dev/posts/compound-components-in-vue-shadcn/) [📖](https://read.readwise.io/read/01kqmm2pwkmy1zv0s4fh011ycg) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 4490 🗓️ 2026-05-02
 - [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) [📖](https://read.readwise.io/read/01knymwy6b02avchen3gkmjr08) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11

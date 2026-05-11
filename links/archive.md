@@ -1,9 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 1646
+- Всего ссылок: 1649
 
 ## Ссылки
 
+- [Slow. The. F**k. Down.](https://codemanship.wordpress.com/2026/05/10/slow-the-fk-down/) [📖](https://read.readwise.io/read/01kr8k8bbhnv6ytn6vvk4xtc1q) 👤 codemanship 💬 720 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-05-10
+- [AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/) [📖](https://read.readwise.io/read/01kr4t5whsajkce6dmhszs4ad2) 👤 seangoedecke.com RSS feed 💬 1085 🔖 #learning, #llm-devimpact 🗓️ 2026-05-08
+    > **Заметка:** Всё здорово, но всё же мне кажется именно на развитие личного чутья, практических знаний помощь агентов влияет негативно. Опыт, возможно, будет шире, но более «мелкий», поверхностный.
+- [Using Claude Code: The Unreasonable Effectiveness of HTML](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything) [📖](https://read.readwise.io/read/01kr4pjz90bvvv230s56faa0qh) 👤 Simon Willison's Weblog 💬 219 🔖 #llm 🗓️ 2026-05-08
+    > **Заметка:** Любопытно. Но Markdown всё же предпочтительнее в абсолютном большинстве случаев - он компактный и, главное, портативный. Экономичнее не только с точки зрения его генерации, но и дальнейшего чтения агентами.
 - [Notes on incidents](https://seangoedecke.com/notes-on-incidents/) [📖](https://read.readwise.io/read/01kr38wz04wp59bv6x90mvg6we) 👤 seangoedecke.com RSS feed 💬 1061 🔖 #softwarecraft 🗓️ 2026-05-08
 - [How to check whether Spotlight is getting the right metadata](https://eclecticlight.co/2026/05/08/how-to-check-whether-spotlight-is-getting-the-right-metadata/) [📖](https://read.readwise.io/read/01kr35bneyyv1qefd7w800r73a) 👤 hoakley 💬 660 🔖 #macos 🗓️ 2026-05-08
 - [The agent principal-agent problem](https://crawshaw.io/blog/agent-principal-agent) [📖](https://read.readwise.io/read/01kr1w2kadyfj1r759s1yh6ezr) 👤 David Crawshaw (david@zentus.com) 💬 1234 🔖 #codereview, #llm-devimpact 🗓️ 2026-05-07

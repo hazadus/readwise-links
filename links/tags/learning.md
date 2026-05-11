@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 43
+- Всего ссылок: 44
 
 ## Ссылки
 
+- [AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/) [📖](https://read.readwise.io/read/01kr4t5whsajkce6dmhszs4ad2) 👤 seangoedecke.com RSS feed 💬 1085 🔖 #learning, #llm-devimpact 🗓️ 2026-05-08
+    > **Заметка:** Всё здорово, но всё же мне кажется именно на развитие личного чутья, практических знаний помощь агентов влияет негативно. Опыт, возможно, будет шире, но более «мелкий», поверхностный.
+    > **Резюме:** AI tools help weak engineers make fewer harmful mistakes and produce better code. Strong engineers rarely rely on AI this way because they can catch errors themselves. Using AI this way improves team work but may threaten jobs for less skilled engineers.
 - [Are Written Coding Tutorials Dead?](https://wsvincent.com/future-written-tutorials/) [📖](https://read.readwise.io/read/01kqsp5t6csw3jew91h3xerx3j) 👤 Will Vincent 💬 1072 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-05-04
     > **Резюме:** Have LLMs truly killed the point of human-written coding tutorials?
 - [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) [📖](https://read.readwise.io/read/01knp9f4rgqj2ket2f9t34hv69) 👤 Wouter Groeneveld 💬 2840 🔖 #learning, #llm-devimpact, #llm-resistance 🗓️ 2026-04-08
