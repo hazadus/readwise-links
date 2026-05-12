@@ -2,7 +2,7 @@
 
 _Туториалы и практические руководства_
 
-Сгенерировано: 2026-05-11 04:37 UTC · Статей: 23
+Сгенерировано: 2026-05-12 04:26 UTC · Статей: 24
 
 ## Статьи
 
@@ -10,6 +10,8 @@ _Туториалы и практические руководства_
     > **Резюме:** MicroGPT is a simple neural network that learns to predict the next token in a sequence by adjusting many small parameters. It trains using backpropagation and the Adam optimizer to reduce prediction errors step-by-step. Over time, the model gets better at capturing patterns in the data and generating likely next tokens.
 - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/) [📖](https://read.readwise.io/read/01k16rxz1txqqvqwzqx2qb3nje) 👤 Simon Willison 💬 4839 ⭐ 9 🔖 #llm 🗓️ 2025-07-27 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Embeddings turn content like text or images into numbers that capture their meaning. They help computers find and compare similar information quickly. This technology powers tools like search engines and question-answering systems.
+- [Watching for file changes on macOS](https://alexwlchan.net/2026/watch-files-on-macos/) [📖](https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j) 👤 alexwlchan 💬 4675 ⭐ 9 🗓️ 2026-05-11 · 🛠️ туториал, 🌲 вечнозелёное
+    > **Резюме:** The article explains how to use macOS’s FSEvents API in Swift to watch for file changes and print the changed file paths. It shows how a Python script can read these paths from the Swift script’s output to trigger actions like rebuilding a site. This method detects file changes quickly, with just a few milliseconds delay.
 - [Quantization from the ground up](https://ngrok.com/blog/quantization) [📖](https://read.readwise.io/read/01kmrp6ce52w3gzsedw0ky6y7a) 👤 Sam Rose 💬 4123 ⭐ 9 🗓️ 2026-03-27 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Quantization shrinks large numbers into smaller ones so models use less memory and run faster. Lower bit quantization reduces accuracy, but 8-bit and 4-bit still work well for large language models. Very low bits like 2-bit cause big errors and poor model performance.
 - [Why We Built Our Own Background Agent](https://builders.ramp.com/post/why-we-built-our-background-agent?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kfab8cadmd9nwh3npxbvvws4) 👤 Zach Bruggeman, Jason Quense, Rahul Sengottuvelu 💬 2798 ⭐ 9 🔖 #joyandcuriosity 🗓️ 2026-01-19 · 🛠️ туториал

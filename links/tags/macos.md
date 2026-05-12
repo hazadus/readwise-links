@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 42
+- Всего ссылок: 43
 
 ## Ссылки
 
+- [Does iCloud Drive now lose almost all metadata?](https://eclecticlight.co/2026/05/11/does-icloud-drive-now-lose-almost-all-metadata/) [📖](https://read.readwise.io/read/01kraxs6ea694cejp41gy74jne) 👤 hoakley 💬 882 🔖 #macos 🗓️ 2026-05-11
+    > **Резюме:** What happens when you move a file with metadata attached in extended attributes to iCloud Drive? Which of those are preserved when you access that file from another Mac?
 - [How to check whether Spotlight is getting the right metadata](https://eclecticlight.co/2026/05/08/how-to-check-whether-spotlight-is-getting-the-right-metadata/) [📖](https://read.readwise.io/read/01kr35bneyyv1qefd7w800r73a) 👤 hoakley 💬 660 🔖 #macos 🗓️ 2026-05-08
     > **Резюме:** Use the mdimport and mdls commands to dump full information about all the metadata attributes found for a file, and those indexed by Spotlight.
 - [How macOS can ignore and hide metadata](https://eclecticlight.co/2026/05/06/how-macos-can-ignore-and-hide-metadata/) [📖](https://read.readwise.io/read/01kqy2pem9hyaeyct2pcrv26c7) 👤 hoakley 💬 882 🔖 #macos 🗓️ 2026-05-06

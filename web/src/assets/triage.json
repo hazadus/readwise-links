@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T04:37:23.904518+00:00",
+  "generated_at": "2026-05-12T04:26:39.785963+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -55,6 +55,28 @@
         "triage": {
           "is_tutorial": true,
           "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01krawm8vtgybxg8dnpeqcwj2j",
+        "url": "https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j",
+        "source_url": "https://alexwlchan.net/2026/watch-files-on-macos/",
+        "title": "Watching for file changes on macOS",
+        "author": "alexwlchan",
+        "image_url": "https://alexwlchan.net/images/cards/2026/watch-files-on-macos.jpg",
+        "word_count": 4675,
+        "summary": "The article explains how to use macOS’s FSEvents API in Swift to watch for file changes and print the changed file paths. It shows how a Python script can read these paths from the Swift script’s output to trigger actions like rebuilding a site. This method detects file changes quickly, with just a few milliseconds delay.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-11T06:47:06.434000+00:00",
+        "last_moved_at": "2026-05-11T08:44:18.412000+00:00",
+        "published_date": "2026-05-11",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 9
         }
@@ -483,56 +505,6 @@
           "is_tutorial": false,
           "is_foundational": false,
           "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kn9q1g2rkzrdsd4mgzghk9ew",
-        "url": "https://read.readwise.io/read/01kn9q1g2rkzrdsd4mgzghk9ew",
-        "source_url": "https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026",
-        "title": "Software Development in 2026",
-        "author": "Aleksei Matiushkin",
-        "image_url": "",
-        "word_count": 1952,
-        "summary": "Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.",
-        "notes": "Via ElixirWeekly",
-        "tags": {},
-        "highlights": [
-          {
-            "id": "01kn9q2jddtk3f7rjv5av1ftpt",
-            "url": "https://read.readwise.io/read/01kn9q2jddtk3f7rjv5av1ftpt",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "Readwise web highlighter",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kn9q1g2rkzrdsd4mgzghk9ew",
-            "reading_progress": 0.0,
-            "content": "of water has flowed under the bridge since then, and while the theses laid out there remain",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-04-03T13:03:47.176208+00:00",
-            "updated_at": "2026-04-03T13:03:47.176220+00:00",
-            "saved_at": "2026-04-03T13:03:46.605000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-04-03T13:03:46.605000+00:00"
-          }
-        ],
-        "saved_at": "2026-04-03T13:03:11.448000+00:00",
-        "last_moved_at": "2026-04-03T13:03:15.250000+00:00",
-        "published_date": "2026-03-22",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
           "interest_score": 8
         }
       }
@@ -5428,6 +5400,28 @@
         "triage": {
           "is_tutorial": true,
           "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01krawm8vtgybxg8dnpeqcwj2j",
+        "url": "https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j",
+        "source_url": "https://alexwlchan.net/2026/watch-files-on-macos/",
+        "title": "Watching for file changes on macOS",
+        "author": "alexwlchan",
+        "image_url": "https://alexwlchan.net/images/cards/2026/watch-files-on-macos.jpg",
+        "word_count": 4675,
+        "summary": "The article explains how to use macOS’s FSEvents API in Swift to watch for file changes and print the changed file paths. It shows how a Python script can read these paths from the Swift script’s output to trigger actions like rebuilding a site. This method detects file changes quickly, with just a few milliseconds delay.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-11T06:47:06.434000+00:00",
+        "last_moved_at": "2026-05-11T08:44:18.412000+00:00",
+        "published_date": "2026-05-11",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 9
         }

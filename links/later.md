@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 105
+- Всего ссылок: 106
 
 ## Ссылки
 
+- [Watching for file changes on macOS](https://alexwlchan.net/2026/watch-files-on-macos/) [📖](https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j) 👤 alexwlchan 💬 4675 🗓️ 2026-05-11
+    > **Резюме:** The article explains how to use macOS’s FSEvents API in Swift to watch for file changes and print the changed file paths. It shows how a Python script can read these paths from the Swift script’s output to trigger actions like rebuilding a site. This method detects file changes quickly, with just a few milliseconds delay.
 - [We're Not Building AI Features for the Money](https://zed.dev/blog/not-building-ai-for-the-money) [📖](https://read.readwise.io/read/01kqxwx5c1kye0xm4fak4rzc6s) 👤 Conrad Irwin 💬 1224 🔖 #llm, #zed 🗓️ 2026-05-06
     > **Резюме:** Zed is building AI features not just to make money, but to improve how people and AI work together in programming. They believe AI can help developers be more productive, but humans still need to guide and understand the code. Their long-term goal is to create a collaborative workspace where teams and AI agents share a clear, connected view of code.
 - [Redis array type: short story of a long development](http://antirez.com/news/164) [📖](https://read.readwise.io/read/01kqsp5v74es5v7nyz2ftr33dp) 👤 <antirez> 💬 829 🗓️ 2026-05-04
