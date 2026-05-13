@@ -2,7 +2,7 @@
 
 _Туториалы и практические руководства_
 
-Сгенерировано: 2026-05-12 04:26 UTC · Статей: 24
+Сгенерировано: 2026-05-13 04:30 UTC · Статей: 23
 
 ## Статьи
 
@@ -58,7 +58,5 @@ Write the first tests yourself and prefer public-API tests with handwritten fake
     > **Резюме:** The text discusses the importance of understanding Promises in JavaScript for modern web development. Promises allow for asynchronous operations and help avoid callback nesting. Modern JavaScript features like async/await simplify handling asynchronous tasks.
 - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/?from=newsletter) [📖](https://read.readwise.io/read/01k0q7k2k291yw2tt3mkesgpx8) 👤 Josh W. Comeau 💬 3091 ⭐ 2 🔖 #explorable 🗓️ 2025-07-21 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** SVG is a special image format that uses shapes like circles and lines written in code. It can be styled and animated using CSS and JavaScript, making it very powerful. SVG images stay sharp no matter how much you zoom in, which is great for web design.
-- [Scroll-Driven Animations](https://www.joshwcomeau.com/animation/scroll-driven-animations/) [📖](https://read.readwise.io/read/01kqaq4x2hsy61c77vcxa536zz) 👤 Josh W. Comeau 💬 2936 ⭐ 2 🗓️ 2026-04-28 · 🛠️ туториал, 🌲 вечнозелёное
-    > **Резюме:** The Animation Timeline API lets you create scroll-driven animations using only CSS, without JavaScript. You can control when animations start and end based on how elements move through the viewport or the scroll progress. This new method makes animations easier and more flexible for web developers.
 - [Complete Guide: Using an ILI9341 Display with the TFT_eSPI Library](https://mischianti.org/complete-guide-using-an-ili9341-display-with-the-tft_espi-library/) [📖](https://read.readwise.io/read/01kn84zxd57pbrgw7mdyhtmvvn) 👤 Renzo Mischianti 💬 1708 ⭐ 2 🗓️ 2026-04-02 · 🛠️ туториал
     > **Резюме:** This guide shows how to use the ILI9341 TFT display with the ESP32 and the TFT_eSPI library. It explains setup, drawing shapes, text, images, and animations easily. The library makes it simple to create colorful, interactive projects with smooth graphics and touch support.

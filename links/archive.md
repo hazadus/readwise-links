@@ -1,9 +1,16 @@
 # Архивные ссылки
 
-- Всего ссылок: 1650
+- Всего ссылок: 1655
 
 ## Ссылки
 
+- [Agentic Coding is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap?utm_source=tldrdev) [📖](https://read.readwise.io/read/01krdgas03eg1k5c0hg022jbb0) 👤 larsfaye.com 💬 2432 🔖 #llm-devimpact, #llm-resistance 🗓️ 2026-05-12
+    > **Заметка:** Очень дельный пост, прям в точку. 
+Via TLDR Web
+- [A.I. Should Elevate Your Thinking, Not Replace It](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/) [📖](https://read.readwise.io/read/01krdbs4v58eem7a81aceygm6p) 👤 koshyjohn.com 💬 2340 🔖 #learning, #llm-devimpact 🗓️ 2026-05-12
+    > **Заметка:** Via Wisereads
+- [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout/) [📖](https://read.readwise.io/read/01krdbp3de22jcpy37j7wc4kpz) 👤 Ky Decker 💬 1959 🔖 #burnout, #llm-fatigue, #llm-devimpact 🗓️ 2026-05-12
+    > **Заметка:** Via Wisereads
 - [Does iCloud Drive now lose almost all metadata?](https://eclecticlight.co/2026/05/11/does-icloud-drive-now-lose-almost-all-metadata/) [📖](https://read.readwise.io/read/01kraxs6ea694cejp41gy74jne) 👤 hoakley 💬 882 🔖 #macos 🗓️ 2026-05-11
 - [Slow. The. F**k. Down.](https://codemanship.wordpress.com/2026/05/10/slow-the-fk-down/) [📖](https://read.readwise.io/read/01kr8k8bbhnv6ytn6vvk4xtc1q) 👤 codemanship 💬 720 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-05-10
 - [AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/) [📖](https://read.readwise.io/read/01kr4t5whsajkce6dmhszs4ad2) 👤 seangoedecke.com RSS feed 💬 1085 🔖 #learning, #llm-devimpact 🗓️ 2026-05-08
@@ -27,6 +34,8 @@
     > **Заметка:** Ничего прорывного, но в целом наблюдения совпадают с моими.
 - [The new Steam Controller from Valve is out now - some early thoughts](https://www.gamingonlinux.com/2026/05/the-new-steam-controller-from-valve-is-out-now-some-early-thoughts/) [📖](https://read.readwise.io/read/01kqt0faa91n786s2xdkjadj28) 👤 Liam Dawe 💬 4147 🗓️ 2026-05-04
 - [Are Written Coding Tutorials Dead?](https://wsvincent.com/future-written-tutorials/) [📖](https://read.readwise.io/read/01kqsp5t6csw3jew91h3xerx3j) 👤 Will Vincent 💬 1072 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-05-04
+- [Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/) [📖](https://read.readwise.io/read/01kqsmbkrxbxa9cj8xafba8gq4) 👤 Armin Ronacher 💬 2134 🔖 #writing, #llm-devimpact 🗓️ 2026-05-04
+    > **Заметка:** Интересное наблюдение о влиянии LLM на то, как люди пишут - даже когда они это делают сами, без ИИ-помощников. На русском пока такого не встречал, но на нём читаю и не так много текстов в интернете... Нужно понаблюдать.
 - [You Are What You Read](https://wsvincent.com/you-are-what-you-read/) [📖](https://read.readwise.io/read/01kqq7xnqe6kg3xjkmztedkb67) 👤 Will Vincent 💬 1439 🔖 #reading 🗓️ 2026-05-03
     > **Заметка:** У меня основное чтение сейчас – fiction / RSS / non-fiction, немного newsletters. Выжимку главного из Mastodon / Bluesky / HN приносит по утрам OpenClaw. You are what you read – в точку.
 - [Why I don't like the "staff engineer archetypes"](https://seangoedecke.com/staff-engineer-archetypes/) [📖](https://read.readwise.io/read/01kqpaevrqq8w9r39cnjbpyqne) 👤 seangoedecke.com RSS feed 💬 1426 🔖 #career 🗓️ 2026-05-03
@@ -44,6 +53,8 @@
 - [Are "Vintage LLMs" the start of a new humanistic field?](https://resobscura.substack.com/p/are-vintage-llms-the-start-of-a-new) [📖](https://read.readwise.io/read/01kqcpp6avwpj3wrp5gr3wfws4) 👤 Benjamin Breen 💬 2991 🔖 #llm, #predictions 🗓️ 2026-04-29
     > **Заметка:** Интересные идеи насчет "исторических LLM". Их, как минимум, можно использовать для различных исторических симуляций - игр или в процессе обучения. Очень интересные направления для исследований описаны в статье.
 - [GitHub is sinking](https://dbushell.com/2026/04/29/github-is-sinking/) [📖](https://read.readwise.io/read/01kqch3x7gg1tvawsb43rthcfn) 👤 dbushell.com (all feeds) 💬 699 🔖 #github 🗓️ 2026-04-29
+- [Карта выживания новичка: как устроена разработка ПО в российских реалиях](https://habr.com/ru/companies/bhv_publishing/articles/1029460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog) [📖](https://read.readwise.io/read/01kqch3t361p2c0ks8xdqay2eg) 👤 BHV_publishing (Издательство БХВ) 💬 1679 🔖 #book 🗓️ 2026-04-29
+    > **Заметка:** Выглядит любопытно, надо почитать.
 - [Virtualisation on Apple silicon Macs is different](https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different/) [📖](https://read.readwise.io/read/01kqc0eza18trzvdde7w98ahak) 👤 hoakley 💬 1399 🔖 #macos 🗓️ 2026-04-29
 - [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) [📖](https://read.readwise.io/read/01kqbt811v3r140mdwb78kw6cb) 👤 Mitchell Hashimoto 💬 823 🔖 #github 🗓️ 2026-04-29
 - [(One) Good AI Is Here](https://anildash.com/2026/04/28/one-good-ai-is-here/) [📖](https://read.readwise.io/read/01kqb0gjqvf9z0chwxp4eyrh8d) 👤 Anil Dash 💬 1824 🔖 #llm 🗓️ 2026-04-28

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout/) [📖](https://read.readwise.io/read/01krdbp3de22jcpy37j7wc4kpz) 👤 Ky Decker 💬 1959 🔖 #burnout, #llm-fatigue, #llm-devimpact 🗓️ 2026-05-12
+    > **Заметка:** Via Wisereads
+    > **Резюме:** The author feels burned out and uncertain about staying in tech due to overuse of AI and loss of meaningful work. They miss the industry's earlier values of care and creativity. Now, they are taking time to recover and rethink their future.
 - [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) [📖](https://read.readwise.io/read/01kk8nynvqvgrzf8dzfxty6wyw) 👤 Cate Hall 💬 1788 🔖 #burnout, #reflections 🗓️ 2026-03-09
     > **Резюме:** The author describes their experience with "agency," which they define as "manifest determination to make things happen." They argue that agency is not an inherent trait, but rather a skill that can be developed. They offer several tips for increasing one's agency, including seeking real feedback, assuming everything is learnable, and learning to love the "moat of low status." They also emphasize the importance of avoiding burnout and not working too hard.
 - [Burnout is breaking a sacred pact](https://usefulfictions.substack.com/p/burnout-is-breaking-a-sacred-pact) [📖](https://read.readwise.io/read/01kjn662b3xbfq55b7wbwag5xd) 👤 Cate Hall 💬 2039 🔖 #burnout, #reflections 🗓️ 2026-03-01

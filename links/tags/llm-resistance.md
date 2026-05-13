@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [Agentic Coding is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap?utm_source=tldrdev) [📖](https://read.readwise.io/read/01krdgas03eg1k5c0hg022jbb0) 👤 larsfaye.com 💬 2432 🔖 #llm-devimpact, #llm-resistance 🗓️ 2026-05-12
+    > **Заметка:** Очень дельный пост, прям в точку. 
+Via TLDR Web
+    > **Резюме:** Relying too much on AI coding agents can weaken programmers' critical thinking and coding skills. Skilled developers are needed to review AI-generated code, but overuse of AI tools makes this harder. To stay sharp, programmers must keep writing and understanding code themselves.
 - [Luddites and AI datacenters](https://seangoedecke.com/luddites-and-ai-datacenters/) [📖](https://read.readwise.io/read/01kpsxyx4g0r7njdvthzkyk5n5) 👤 seangoedecke.com RSS feed 💬 2789 🔖 #llm-resistance 🗓️ 2026-04-22
     > **Резюме:** The Luddites were 19th-century workers who destroyed machines to fight job loss from automation. Their movement was local, secretive, and scared the government but did not stop technological progress. Today’s anti-AI efforts are different because they involve broader groups and lack the Luddites’ clear, shared goals and local ties.
 - [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) [📖](https://read.readwise.io/read/01knp9f4rgqj2ket2f9t34hv69) 👤 Wouter Groeneveld 💬 2840 🔖 #learning, #llm-devimpact, #llm-resistance 🗓️ 2026-04-08

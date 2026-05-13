@@ -2,7 +2,7 @@
 
 _Фундаментальные материалы с долгосрочной ценностью_
 
-Сгенерировано: 2026-05-12 04:26 UTC · Статей: 39
+Сгенерировано: 2026-05-13 04:30 UTC · Статей: 38
 
 ## Статьи
 
@@ -55,8 +55,6 @@ Write the first tests yourself and prefer public-API tests with handwritten fake
 - [Why Good Developers Write Bad Unit Tests](https://mtlynch.io/good-developers-bad-tests/#test-code-is-not-like-other-code) [📖](https://read.readwise.io/read/01kgpxfr0rd5sezbhmv0szq1dt) 👤 Michael Lynch 💬 2167 ⭐ 6 🔖 #testing 🗓️ 2026-02-05 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via https://refactoringenglish.com/blog/software-essays-that-shaped-me/#-by-erik-kuefler-2014
     > **Резюме:** Software developers often write bad unit tests by blindly applying production code rules to test code, leading to unnecessary complexity. Good unit tests should be simple, clear, and self-contained, enabling easy understanding and issue diagnosis without excessive abstraction. Naming tests effectively and avoiding unnecessary constants can help improve the quality of unit tests.
-- [Карта выживания новичка: как устроена разработка ПО в российских реалиях](https://habr.com/ru/companies/bhv_publishing/articles/1029460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog) [📖](https://read.readwise.io/read/01kqch3t361p2c0ks8xdqay2eg) 👤 BHV_publishing (Издательство БХВ) 💬 1679 ⭐ 6 🗓️ 2026-04-29 · 🧠 основы, 🌲 вечнозелёное
-    > **Резюме:** Многие новички в IT знают язык программирования, но не понимают, как работает весь процесс разработки в России. Книга Александра Литвинчука объясняет российские особенности работы в IT-команде и даёт полезные советы для начинающих. В ней также рассказывается о роли искусственного интеллекта и важности общения и процессов в работе.
 - [Why Elixir is the best language for AI](https://dashbit.co/blog/why-elixir-best-language-for-ai?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01khgxm5m5yjxwenjyyzezsfsg) 👤 José Valim 💬 1651 ⭐ 6 🔖 #llm, #elixir, #joyandcuriosity 🗓️ 2026-02-15 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Elixir is the best language for AI because it is easy to understand, stable, and well-documented. Its features like immutability and clear data flow help both humans and AI models reason about code. Also, Elixir’s fast feedback, low complexity, and introspection tools make coding and debugging quicker and simpler.
 - [What Async Promised and What it Delivered](https://causality.blog/essays/what-async-promised/) [📖](https://read.readwise.io/read/01kq4a66beh84d41apswqw5xsk) 👤 Causality 💬 2488 ⭐ 5 🗓️ 2026-04-26 · 🧠 основы, 🌲 вечнозелёное

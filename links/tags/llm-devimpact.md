@@ -1,9 +1,19 @@
 # Ссылки
 
-- Всего ссылок: 102
+- Всего ссылок: 105
 
 ## Ссылки
 
+- [Agentic Coding is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap?utm_source=tldrdev) [📖](https://read.readwise.io/read/01krdgas03eg1k5c0hg022jbb0) 👤 larsfaye.com 💬 2432 🔖 #llm-devimpact, #llm-resistance 🗓️ 2026-05-12
+    > **Заметка:** Очень дельный пост, прям в точку. 
+Via TLDR Web
+    > **Резюме:** Relying too much on AI coding agents can weaken programmers' critical thinking and coding skills. Skilled developers are needed to review AI-generated code, but overuse of AI tools makes this harder. To stay sharp, programmers must keep writing and understanding code themselves.
+- [A.I. Should Elevate Your Thinking, Not Replace It](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/) [📖](https://read.readwise.io/read/01krdbs4v58eem7a81aceygm6p) 👤 koshyjohn.com 💬 2340 🔖 #learning, #llm-devimpact 🗓️ 2026-05-12
+    > **Заметка:** Via Wisereads
+    > **Резюме:** A.I. should help engineers think better, not do the thinking for them. Real skill comes from understanding problems deeply and learning through struggle. The best engineers use A.I. to enhance judgment, not replace it.
+- [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout/) [📖](https://read.readwise.io/read/01krdbp3de22jcpy37j7wc4kpz) 👤 Ky Decker 💬 1959 🔖 #burnout, #llm-fatigue, #llm-devimpact 🗓️ 2026-05-12
+    > **Заметка:** Via Wisereads
+    > **Резюме:** The author feels burned out and uncertain about staying in tech due to overuse of AI and loss of meaningful work. They miss the industry's earlier values of care and creativity. Now, they are taking time to recover and rethink their future.
 - [Slow. The. F**k. Down.](https://codemanship.wordpress.com/2026/05/10/slow-the-fk-down/) [📖](https://read.readwise.io/read/01kr8k8bbhnv6ytn6vvk4xtc1q) 👤 codemanship 💬 720 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-05-10
     > **Резюме:** “Slow is smooth, and smooth is fast.” US Navy SEALS training mantra Another day, another data set telling us what we already knew. In the latest AI Engineering Report from Faros, the software development telemetry folks, they found from studying 22,000 developers working on more than 4,000 teams what they call an “acceleration whiplash” effect … Continue reading "Slow. The. F**k. Down."
 - [AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/) [📖](https://read.readwise.io/read/01kr4t5whsajkce6dmhszs4ad2) 👤 seangoedecke.com RSS feed 💬 1085 🔖 #learning, #llm-devimpact 🗓️ 2026-05-08
@@ -40,7 +50,8 @@ This doubles the amount of review. But companies were already review limited. In
     > **Резюме:** Guidelines for programming when code is cheap.
 - [Are Written Coding Tutorials Dead?](https://wsvincent.com/future-written-tutorials/) [📖](https://read.readwise.io/read/01kqsp5t6csw3jew91h3xerx3j) 👤 Will Vincent 💬 1072 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-05-04
     > **Резюме:** Have LLMs truly killed the point of human-written coding tutorials?
-- [Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/) [📖](https://read.readwise.io/read/01kqsmbkrxbxa9cj8xafba8gq4) 👤 Armin Ronacher 💬 2134 🔖 #llm-devimpact 🗓️ 2026-05-04
+- [Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/) [📖](https://read.readwise.io/read/01kqsmbkrxbxa9cj8xafba8gq4) 👤 Armin Ronacher 💬 2134 🔖 #writing, #llm-devimpact 🗓️ 2026-05-04
+    > **Заметка:** Интересное наблюдение о влиянии LLM на то, как люди пишут - даже когда они это делают сами, без ИИ-помощников. На русском пока такого не встречал, но на нём читаю и не так много текстов в интернете... Нужно понаблюдать.
     > **Резюме:** Language is changing fast, partly because of AI tools like large language models (LLMs). Many people and companies use AI to create lots of low-effort content, which makes real human communication harder to find. We need to be aware of this problem and change how we trust and interact with AI-influenced text.
 - [Software engineering may no longer be a lifetime career](https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/) [📖](https://read.readwise.io/read/01kpz68am3sp579pkf7ggym4gy) 👤 seangoedecke.com RSS feed 💬 849 🔖 #llm-devimpact 🗓️ 2026-04-24
     > **Резюме:** Using AI in software engineering may reduce how much engineers learn and weaken their skills over time. Even if this happens, engineers might still need to use AI to keep their jobs and stay competitive. This could mean software engineering careers might not last as long as they used to, similar to the short careers of professional athletes.

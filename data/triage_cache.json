@@ -948,6 +948,36 @@
       "is_foundational": false,
       "is_evergreen": true,
       "interest_score": 9
+    },
+    "01kree0gm4yzyq8asa9m2fbjxq": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 2
+    },
+    "01kredz2xzashkvs6zdb2ghtm6": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 3
+    },
+    "01krdhshryexbwy79jmq7qh6c7": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 4
+    },
+    "01krdh9p265at5198hsqagkd9s": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 2
+    },
+    "01krdh98s0amn4b10ntqjwstp5": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 2
     }
   }
 }

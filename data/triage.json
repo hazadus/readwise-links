@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T04:26:39.785963+00:00",
+  "generated_at": "2026-05-13T04:30:57.532522+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -627,6 +627,28 @@
         }
       },
       {
+        "id": "01kree0gm4yzyq8asa9m2fbjxq",
+        "url": "https://read.readwise.io/read/01kree0gm4yzyq8asa9m2fbjxq",
+        "source_url": "https://larsfaye.com/articles/everyone-can-delegate-now-to-ai",
+        "title": "Everyone Can Delegate Now",
+        "author": "larsfaye.com",
+        "image_url": "https://larsfaye.com/open-graph.jpg",
+        "word_count": 874,
+        "summary": "AI tools let everyone delegate tasks, making work easier and boosting management skills. Delegation still needs care and skill, or it can waste time and cause errors. Used well, AI can help workers do better work and feel more in control.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-12T15:48:39.684000+00:00",
+        "last_moved_at": "2026-05-12T15:48:41.217000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01kq1zx0r4n33srh7vqaawdkzh",
         "url": "https://read.readwise.io/read/01kq1zx0r4n33srh7vqaawdkzh",
         "source_url": "https://hhh.hn/rodecaster-duo-fw/",
@@ -674,6 +696,28 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 8
+        }
+      },
+      {
+        "id": "01kredz2xzashkvs6zdb2ghtm6",
+        "url": "https://read.readwise.io/read/01kredz2xzashkvs6zdb2ghtm6",
+        "source_url": "https://larsfaye.com/articles/the-question-is-the-work",
+        "title": "Your Indispensable Value in the AI Era",
+        "author": "larsfaye.com",
+        "image_url": "https://larsfaye.com/opengraph-value.jpg",
+        "word_count": 1087,
+        "summary": "In the age of AI, getting answers is easy, but asking the right questions remains crucial. Programmers must focus on refining questions to solve complex problems, as AI cannot think or question for them. The true skill is in critical thinking and using AI tools wisely to find clarity.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-12T15:47:52.895000+00:00",
+        "last_moved_at": "2026-05-12T15:47:55.511000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 3
         }
       },
       {
@@ -745,6 +789,28 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 7
+        }
+      },
+      {
+        "id": "01krdh98s0amn4b10ntqjwstp5",
+        "url": "https://read.readwise.io/read/01krdh98s0amn4b10ntqjwstp5",
+        "source_url": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
+        "title": "Native Apps Should Be Avoided Whenever Possible",
+        "author": "No One's Happy",
+        "image_url": "",
+        "word_count": 1345,
+        "summary": "Native apps collect much more personal data than websites, often without clear user consent. Many apps share location and device information with third parties who buy and use this data in harmful ways. To protect your privacy, avoid installing apps when a website can do the same job.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-12T07:26:37.856000+00:00",
+        "last_moved_at": "2026-05-12T07:26:41.518000+00:00",
+        "published_date": "2026-04-12",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
         }
       },
       {
@@ -958,6 +1024,28 @@
         }
       },
       {
+        "id": "01krdhshryexbwy79jmq7qh6c7",
+        "url": "https://read.readwise.io/read/01krdhshryexbwy79jmq7qh6c7",
+        "source_url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/?utm_source=tldrdev",
+        "title": "AI Slop is Killing Online Communities",
+        "author": "rmoff.net",
+        "image_url": "https://rmoff.net/images/2026/05/h_IMG_1675.webp",
+        "word_count": 1868,
+        "summary": "AI-generated low-effort content is flooding online communities and making it hard to find valuable contributions. This \"AI slop\" frustrates members and harms the growth of meaningful discussions. To keep communities healthy, people should share only useful work and respect the space they contribute to.",
+        "notes": "Via TLDR Web",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-12T07:35:31.358000+00:00",
+        "last_moved_at": "2026-05-12T07:35:44.129000+00:00",
+        "published_date": "2026-05-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 4
+        }
+      },
+      {
         "id": "01kpzrr28fjd6a6pknn9d5hvt5",
         "url": "https://read.readwise.io/read/01kpzrr28fjd6a6pknn9d5hvt5",
         "source_url": "https://www.beyondlogic.org/usbnutshell/usb1.shtml",
@@ -1042,62 +1130,6 @@
         }
       },
       {
-        "id": "01kqsmbkrxbxa9cj8xafba8gq4",
-        "url": "https://read.readwise.io/read/01kqsmbkrxbxa9cj8xafba8gq4",
-        "source_url": "https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/",
-        "title": "Content for Content’s Sake",
-        "author": "Armin Ronacher",
-        "image_url": "https://lucumr.pocoo.org/social/2026-05-04-content-for-contents-sake-social.png",
-        "word_count": 2134,
-        "summary": "Language is changing fast, partly because of AI tools like large language models (LLMs). Many people and companies use AI to create lots of low-effort content, which makes real human communication harder to find. We need to be aware of this problem and change how we trust and interact with AI-influenced text.",
-        "notes": "",
-        "tags": {
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1778240757573
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kr3pccgaepbq6sh2wqf5fqxm",
-            "url": "https://read.readwise.io/read/01kr3pccgaepbq6sh2wqf5fqxm",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-mobile-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kqsmbkrxbxa9cj8xafba8gq4",
-            "reading_progress": 0.0,
-            "content": "And surely, we should hate all of this.  These low-effort posts, tweets, and Open\nSource projects should not make it anywhere.  But they do!  Whatever they play\ninto, whether in the algorithms or with human engagement, they are not punished\nenough for how little effort goes into them.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-05-08T11:43:18.838252+00:00",
-            "updated_at": "2026-05-08T11:43:18.838264+00:00",
-            "saved_at": "2026-05-08T11:43:18.538000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-05-08T11:43:18.538000+00:00"
-          }
-        ],
-        "saved_at": "2026-05-04T13:55:28.742000+00:00",
-        "last_moved_at": "2026-05-08T11:48:33.823000+00:00",
-        "published_date": "2026-05-04",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kg52xnkndzq1t428p64ycpa8",
         "url": "https://read.readwise.io/read/01kg52xnkndzq1t428p64ycpa8",
         "source_url": "https://davegriffith.substack.com/p/swimming-naked-in-ai-generated-code",
@@ -1117,6 +1149,28 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 3
+        }
+      },
+      {
+        "id": "01krdh9p265at5198hsqagkd9s",
+        "url": "https://read.readwise.io/read/01krdh9p265at5198hsqagkd9s",
+        "source_url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+        "title": "Appearing Productive in The Workplace",
+        "author": "No One's Happy",
+        "image_url": "",
+        "word_count": 2228,
+        "summary": "Generative AI lets workers produce work quickly, but often without true expertise or proper judgment. This causes problems because novices may seem skilled, and mistakes go unnoticed by those who should review them. To use AI well, humans must stay in control and apply their own knowledge, not rely on the tool alone.",
+        "notes": "Via TLDR Web",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-12T07:26:51.462000+00:00",
+        "last_moved_at": "2026-05-12T07:27:15.379000+00:00",
+        "published_date": "2026-05-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
         }
       },
       {
@@ -1216,123 +1270,6 @@
           "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 2
-        }
-      },
-      {
-        "id": "01kes33g1fbdg6b294xz7w4jtt",
-        "url": "https://read.readwise.io/read/01kes33g1fbdg6b294xz7w4jtt",
-        "source_url": "https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai",
-        "title": "Building Staff Engineer-Level Knowledge with AI",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 2515,
-        "summary": "To become a staff engineer, you must build deep expertise in technology, codebases, and business using AI as a learning tool, not a crutch. AI can speed up learning and understanding, but true mastery means internalizing knowledge without relying on AI all the time. Managing and showing your expertise is key to advancing your career and making a real impact.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1768221237251
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-12T12:32:43.567000+00:00",
-        "last_moved_at": "2026-01-12T12:34:01.174000+00:00",
-        "published_date": "2026-01-12",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01ketz55qw4x3f1f548a95hc69",
-        "url": "https://read.readwise.io/read/01ketz55qw4x3f1f548a95hc69",
-        "source_url": "https://writethatblog.substack.com/p/technical-blogging-lessons-learned?utm_source=tldrdev",
-        "title": "Technical blogging lessons learned",
-        "author": "Cynthia Dunlop",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!2Whn!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d107f2-c535-4e87-b7c8-662434398b15_1456x1048.png",
-        "word_count": 2540,
-        "summary": "Writing regularly helps overcome doubts and improves skills over time. Focus on topics that interest you and your audience, even if others have written about them. Use simple tools, be honest, and don’t worry about perfection or criticism.",
-        "notes": "В посте есть ссылки на отличные блоги (в частности, узнал отсюда про Preston Thorpe) - поэтому его надо читать внимательно и просмотреть связанные блоги.",
-        "tags": {
-          "writing": {
-            "name": "Writing",
-            "type": "manual",
-            "created": 1768284142992
-          },
-          "shortlist": {
-            "name": "Shortlist",
-            "type": "manual",
-            "created": 1770321882482
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-13T06:02:13.116000+00:00",
-        "last_moved_at": "2026-01-13T06:02:25.492000+00:00",
-        "published_date": "2026-01-08",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kmf78e7kzc43t4k49t4cdwbh",
-        "url": "https://read.readwise.io/read/01kmf78e7kzc43t4k49t4cdwbh",
-        "source_url": "https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/?utm_source=substack&utm_medium=email",
-        "title": "Adapting to AI: Reflections on Productivity",
-        "author": "Colin Breck",
-        "image_url": "https://blog.colinbreck.com/content/images/size/w1200/2026/03/amstel-fog.jpg",
-        "word_count": 2582,
-        "summary": "In 2025, AI greatly boosted productivity by helping with coding and problem-solving, acting like a tireless partner. Most software engineers have not yet fully adapted to AI’s rapid changes and potential. The way people work in software is changing fast, and it will take years to find new, effective patterns.",
-        "notes": "",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1774332452122
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-24T06:07:06.483000+00:00",
-        "last_moved_at": "2026-03-24T06:07:24.915000+00:00",
-        "published_date": "2026-03-15",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
-        }
-      },
-      {
-        "id": "01ken0sk545cynvs3e44ezwrmc",
-        "url": "https://read.readwise.io/read/01ken0sk545cynvs3e44ezwrmc",
-        "source_url": "https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html?utm_source=tldrdev",
-        "title": "The Next Thing Will Not Be Big",
-        "author": "Glyph Lefkowitz",
-        "image_url": "https://blog.glyph.im/images/favicon.ico",
-        "word_count": 2638,
-        "summary": "Technology’s fastest, life-changing waves (like the Internet and smartphones) were a rare anomaly and are unlikely to repeat.  \nFuture tech will keep advancing, but mostly in smaller, niche ways that won’t remake society or create another Apple/Google.  \nOpen source maintainers should focus on practical, small- to medium-scale projects that serve real users and resist “scale creep.”",
-        "notes": "",
-        "tags": {
-          "shortlist": {
-            "name": "Shortlist",
-            "type": "manual",
-            "created": 1770321867333
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-10T22:35:24.197000+00:00",
-        "last_moved_at": "2026-01-10T22:35:27.419000+00:00",
-        "published_date": "2026-01-01",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
         }
       }
     ],
@@ -2192,28 +2129,6 @@
         }
       },
       {
-        "id": "01kqch3t361p2c0ks8xdqay2eg",
-        "url": "https://read.readwise.io/read/01kqch3t361p2c0ks8xdqay2eg",
-        "source_url": "https://habr.com/ru/companies/bhv_publishing/articles/1029460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
-        "title": "Карта выживания новичка: как устроена разработка ПО в российских реалиях",
-        "author": "BHV_publishing (Издательство БХВ)",
-        "image_url": "https://habrastorage.org/getpro/habr/upload_files/e2d/51f/f61/e2d51ff6124ea81df3230e801d6b25c5.jpg",
-        "word_count": 1679,
-        "summary": "Многие новички в IT знают язык программирования, но не понимают, как работает весь процесс разработки в России. Книга Александра Литвинчука объясняет российские особенности работы в IT-команде и даёт полезные советы для начинающих. В ней также рассказывается о роли искусственного интеллекта и важности общения и процессов в работе.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-29T11:48:39.726000+00:00",
-        "last_moved_at": "2026-04-30T04:27:57.463000+00:00",
-        "published_date": "2026-04-29",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 6
-        }
-      },
-      {
         "id": "01khgxm5m5yjxwenjyyzezsfsg",
         "url": "https://read.readwise.io/read/01khgxm5m5yjxwenjyyzezsfsg",
         "source_url": "https://dashbit.co/blog/why-elixir-best-language-for-ai?utm_source=substack&utm_medium=email",
@@ -2359,6 +2274,28 @@
           "is_tutorial": false,
           "is_foundational": false,
           "is_evergreen": true,
+          "interest_score": 4
+        }
+      },
+      {
+        "id": "01krdhshryexbwy79jmq7qh6c7",
+        "url": "https://read.readwise.io/read/01krdhshryexbwy79jmq7qh6c7",
+        "source_url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/?utm_source=tldrdev",
+        "title": "AI Slop is Killing Online Communities",
+        "author": "rmoff.net",
+        "image_url": "https://rmoff.net/images/2026/05/h_IMG_1675.webp",
+        "word_count": 1868,
+        "summary": "AI-generated low-effort content is flooding online communities and making it hard to find valuable contributions. This \"AI slop\" frustrates members and harms the growth of meaningful discussions. To keep communities healthy, people should share only useful work and respect the space they contribute to.",
+        "notes": "Via TLDR Web",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-12T07:35:31.358000+00:00",
+        "last_moved_at": "2026-05-12T07:35:44.129000+00:00",
+        "published_date": "2026-05-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
           "interest_score": 4
         }
       },
@@ -5202,54 +5139,20 @@
         }
       },
       {
-        "id": "01kqsmbkrxbxa9cj8xafba8gq4",
-        "url": "https://read.readwise.io/read/01kqsmbkrxbxa9cj8xafba8gq4",
-        "source_url": "https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/",
-        "title": "Content for Content’s Sake",
-        "author": "Armin Ronacher",
-        "image_url": "https://lucumr.pocoo.org/social/2026-05-04-content-for-contents-sake-social.png",
-        "word_count": 2134,
-        "summary": "Language is changing fast, partly because of AI tools like large language models (LLMs). Many people and companies use AI to create lots of low-effort content, which makes real human communication harder to find. We need to be aware of this problem and change how we trust and interact with AI-influenced text.",
-        "notes": "",
-        "tags": {
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1778240757573
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kr3pccgaepbq6sh2wqf5fqxm",
-            "url": "https://read.readwise.io/read/01kr3pccgaepbq6sh2wqf5fqxm",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-mobile-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kqsmbkrxbxa9cj8xafba8gq4",
-            "reading_progress": 0.0,
-            "content": "And surely, we should hate all of this.  These low-effort posts, tweets, and Open\nSource projects should not make it anywhere.  But they do!  Whatever they play\ninto, whether in the algorithms or with human engagement, they are not punished\nenough for how little effort goes into them.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-05-08T11:43:18.838252+00:00",
-            "updated_at": "2026-05-08T11:43:18.838264+00:00",
-            "saved_at": "2026-05-08T11:43:18.538000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-05-08T11:43:18.538000+00:00"
-          }
-        ],
-        "saved_at": "2026-05-04T13:55:28.742000+00:00",
-        "last_moved_at": "2026-05-08T11:48:33.823000+00:00",
-        "published_date": "2026-05-04",
+        "id": "01krdh9p265at5198hsqagkd9s",
+        "url": "https://read.readwise.io/read/01krdh9p265at5198hsqagkd9s",
+        "source_url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+        "title": "Appearing Productive in The Workplace",
+        "author": "No One's Happy",
+        "image_url": "",
+        "word_count": 2228,
+        "summary": "Generative AI lets workers produce work quickly, but often without true expertise or proper judgment. This causes problems because novices may seem skilled, and mistakes go unnoticed by those who should review them. To use AI well, humans must stay in control and apply their own knowledge, not rely on the tool alone.",
+        "notes": "Via TLDR Web",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-12T07:26:51.462000+00:00",
+        "last_moved_at": "2026-05-12T07:27:15.379000+00:00",
+        "published_date": "2026-05-06",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -5948,28 +5851,6 @@
         }
       },
       {
-        "id": "01kqaq4x2hsy61c77vcxa536zz",
-        "url": "https://read.readwise.io/read/01kqaq4x2hsy61c77vcxa536zz",
-        "source_url": "https://www.joshwcomeau.com/animation/scroll-driven-animations/",
-        "title": "Scroll-Driven Animations",
-        "author": "Josh W. Comeau",
-        "image_url": "https://www.joshwcomeau.com/favicon.png",
-        "word_count": 2936,
-        "summary": "The Animation Timeline API lets you create scroll-driven animations using only CSS, without JavaScript. You can control when animations start and end based on how elements move through the viewport or the scroll progress. This new method makes animations easier and more flexible for web developers.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-28T18:55:38.137000+00:00",
-        "last_moved_at": "2026-04-30T06:37:18.907000+00:00",
-        "published_date": "2026-04-28",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kn84zxd57pbrgw7mdyhtmvvn",
         "url": "https://read.readwise.io/read/01kn84zxd57pbrgw7mdyhtmvvn",
         "source_url": "https://mischianti.org/complete-guide-using-an-ili9341-display-with-the-tft_espi-library/",
@@ -6558,28 +6439,6 @@
         "published_date": "2018-11-09",
         "triage": {
           "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 6
-        }
-      },
-      {
-        "id": "01kqch3t361p2c0ks8xdqay2eg",
-        "url": "https://read.readwise.io/read/01kqch3t361p2c0ks8xdqay2eg",
-        "source_url": "https://habr.com/ru/companies/bhv_publishing/articles/1029460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
-        "title": "Карта выживания новичка: как устроена разработка ПО в российских реалиях",
-        "author": "BHV_publishing (Издательство БХВ)",
-        "image_url": "https://habrastorage.org/getpro/habr/upload_files/e2d/51f/f61/e2d51ff6124ea81df3230e801d6b25c5.jpg",
-        "word_count": 1679,
-        "summary": "Многие новички в IT знают язык программирования, но не понимают, как работает весь процесс разработки в России. Книга Александра Литвинчука объясняет российские особенности работы в IT-команде и даёт полезные советы для начинающих. В ней также рассказывается о роли искусственного интеллекта и важности общения и процессов в работе.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-29T11:48:39.726000+00:00",
-        "last_moved_at": "2026-04-30T04:27:57.463000+00:00",
-        "published_date": "2026-04-29",
-        "triage": {
-          "is_tutorial": false,
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 6
@@ -7744,6 +7603,28 @@
         }
       },
       {
+        "id": "01krdhshryexbwy79jmq7qh6c7",
+        "url": "https://read.readwise.io/read/01krdhshryexbwy79jmq7qh6c7",
+        "source_url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/?utm_source=tldrdev",
+        "title": "AI Slop is Killing Online Communities",
+        "author": "rmoff.net",
+        "image_url": "https://rmoff.net/images/2026/05/h_IMG_1675.webp",
+        "word_count": 1868,
+        "summary": "AI-generated low-effort content is flooding online communities and making it hard to find valuable contributions. This \"AI slop\" frustrates members and harms the growth of meaningful discussions. To keep communities healthy, people should share only useful work and respect the space they contribute to.",
+        "notes": "Via TLDR Web",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-12T07:35:31.358000+00:00",
+        "last_moved_at": "2026-05-12T07:35:44.129000+00:00",
+        "published_date": "2026-05-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 4
+        }
+      },
+      {
         "id": "01kkeb8d42rdtsnyrwfezxesgd",
         "url": "https://read.readwise.io/read/01kkeb8d42rdtsnyrwfezxesgd",
         "source_url": "https://webdirections.org/blog/the-structure-of-engineering-revolutions/?utm_source=substack&utm_medium=email",
@@ -7913,6 +7794,28 @@
         "saved_at": "2026-01-06T15:33:33.786000+00:00",
         "last_moved_at": "2026-01-06T15:33:35.811000+00:00",
         "published_date": "2026-01-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 3
+        }
+      },
+      {
+        "id": "01kredz2xzashkvs6zdb2ghtm6",
+        "url": "https://read.readwise.io/read/01kredz2xzashkvs6zdb2ghtm6",
+        "source_url": "https://larsfaye.com/articles/the-question-is-the-work",
+        "title": "Your Indispensable Value in the AI Era",
+        "author": "larsfaye.com",
+        "image_url": "https://larsfaye.com/opengraph-value.jpg",
+        "word_count": 1087,
+        "summary": "In the age of AI, getting answers is easy, but asking the right questions remains crucial. Programmers must focus on refining questions to solve complex problems, as AI cannot think or question for them. The true skill is in critical thinking and using AI tools wisely to find clarity.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-12T15:47:52.895000+00:00",
+        "last_moved_at": "2026-05-12T15:47:55.511000+00:00",
+        "published_date": null,
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -10361,54 +10264,20 @@
         }
       },
       {
-        "id": "01kqsmbkrxbxa9cj8xafba8gq4",
-        "url": "https://read.readwise.io/read/01kqsmbkrxbxa9cj8xafba8gq4",
-        "source_url": "https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/",
-        "title": "Content for Content’s Sake",
-        "author": "Armin Ronacher",
-        "image_url": "https://lucumr.pocoo.org/social/2026-05-04-content-for-contents-sake-social.png",
-        "word_count": 2134,
-        "summary": "Language is changing fast, partly because of AI tools like large language models (LLMs). Many people and companies use AI to create lots of low-effort content, which makes real human communication harder to find. We need to be aware of this problem and change how we trust and interact with AI-influenced text.",
-        "notes": "",
-        "tags": {
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1778240757573
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kr3pccgaepbq6sh2wqf5fqxm",
-            "url": "https://read.readwise.io/read/01kr3pccgaepbq6sh2wqf5fqxm",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-mobile-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kqsmbkrxbxa9cj8xafba8gq4",
-            "reading_progress": 0.0,
-            "content": "And surely, we should hate all of this.  These low-effort posts, tweets, and Open\nSource projects should not make it anywhere.  But they do!  Whatever they play\ninto, whether in the algorithms or with human engagement, they are not punished\nenough for how little effort goes into them.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-05-08T11:43:18.838252+00:00",
-            "updated_at": "2026-05-08T11:43:18.838264+00:00",
-            "saved_at": "2026-05-08T11:43:18.538000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-05-08T11:43:18.538000+00:00"
-          }
-        ],
-        "saved_at": "2026-05-04T13:55:28.742000+00:00",
-        "last_moved_at": "2026-05-08T11:48:33.823000+00:00",
-        "published_date": "2026-05-04",
+        "id": "01krdh9p265at5198hsqagkd9s",
+        "url": "https://read.readwise.io/read/01krdh9p265at5198hsqagkd9s",
+        "source_url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+        "title": "Appearing Productive in The Workplace",
+        "author": "No One's Happy",
+        "image_url": "",
+        "word_count": 2228,
+        "summary": "Generative AI lets workers produce work quickly, but often without true expertise or proper judgment. This causes problems because novices may seem skilled, and mistakes go unnoticed by those who should review them. To use AI well, humans must stay in control and apply their own knowledge, not rely on the tool alone.",
+        "notes": "Via TLDR Web",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-12T07:26:51.462000+00:00",
+        "last_moved_at": "2026-05-12T07:27:15.379000+00:00",
+        "published_date": "2026-05-06",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -10539,6 +10408,28 @@
         }
       },
       {
+        "id": "01krdh98s0amn4b10ntqjwstp5",
+        "url": "https://read.readwise.io/read/01krdh98s0amn4b10ntqjwstp5",
+        "source_url": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
+        "title": "Native Apps Should Be Avoided Whenever Possible",
+        "author": "No One's Happy",
+        "image_url": "",
+        "word_count": 1345,
+        "summary": "Native apps collect much more personal data than websites, often without clear user consent. Many apps share location and device information with third parties who buy and use this data in harmful ways. To protect your privacy, avoid installing apps when a website can do the same job.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-12T07:26:37.856000+00:00",
+        "last_moved_at": "2026-05-12T07:26:41.518000+00:00",
+        "published_date": "2026-04-12",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01kp3bp2e1c7t54bkz8f1sqz05",
         "url": "https://read.readwise.io/read/01kp3bp2e1c7t54bkz8f1sqz05",
         "source_url": "https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email",
@@ -10591,6 +10482,28 @@
         "saved_at": "2026-04-25T09:35:30.052000+00:00",
         "last_moved_at": "2026-04-25T09:35:32.366000+00:00",
         "published_date": "2026-04-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kree0gm4yzyq8asa9m2fbjxq",
+        "url": "https://read.readwise.io/read/01kree0gm4yzyq8asa9m2fbjxq",
+        "source_url": "https://larsfaye.com/articles/everyone-can-delegate-now-to-ai",
+        "title": "Everyone Can Delegate Now",
+        "author": "larsfaye.com",
+        "image_url": "https://larsfaye.com/open-graph.jpg",
+        "word_count": 874,
+        "summary": "AI tools let everyone delegate tasks, making work easier and boosting management skills. Delegation still needs care and skill, or it can waste time and cause errors. Used well, AI can help workers do better work and feel more in control.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-12T15:48:39.684000+00:00",
+        "last_moved_at": "2026-05-12T15:48:41.217000+00:00",
+        "published_date": null,
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

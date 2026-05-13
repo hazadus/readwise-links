@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 39
+- Всего ссылок: 40
 
 ## Ссылки
 
+- [Карта выживания новичка: как устроена разработка ПО в российских реалиях](https://habr.com/ru/companies/bhv_publishing/articles/1029460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog) [📖](https://read.readwise.io/read/01kqch3t361p2c0ks8xdqay2eg) 👤 BHV_publishing (Издательство БХВ) 💬 1679 🔖 #book 🗓️ 2026-04-29
+    > **Заметка:** Выглядит любопытно, надо почитать.
+    > **Резюме:** Многие новички в IT знают язык программирования, но не понимают, как работает весь процесс разработки в России. Книга Александра Литвинчука объясняет российские особенности работы в IT-команде и даёт полезные советы для начинающих. В ней также рассказывается о роли искусственного интеллекта и важности общения и процессов в работе.
 - [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) [📖](https://read.readwise.io/read/01knhde7wg4mcx47qc2k368z0k) 👤 Ivan Grishaev's blog 💬 7191 🔖 #book, #postgresql 🗓️ 2026-04-06
     > **Резюме:** JSON хранится как обычный текст, а jsonb — в двоичном формате, что ускоряет работу с данными. В PostgreSQL jsonb быстрее обрабатывается при чтении и операциях, хотя вставка данных может быть медленнее. Для работы с JSON есть удобные операторы и функции, которые помогают извлекать и изменять вложенные данные.
 - [The SwiftUI Way: patterns and anti-patterns for production apps](https://nilcoalescing.com/blog/TheSwiftUIWayReleaseAnnouncement/) [📖](https://read.readwise.io/read/01kmn11k1cbp4kwpak4t6dk1s9) 👤 Natalia Panferova 💬 344 🔖 #book, #swift 🗓️ 2026-03-26

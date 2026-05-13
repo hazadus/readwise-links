@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 44
+- Всего ссылок: 45
 
 ## Ссылки
 
+- [A.I. Should Elevate Your Thinking, Not Replace It](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/) [📖](https://read.readwise.io/read/01krdbs4v58eem7a81aceygm6p) 👤 koshyjohn.com 💬 2340 🔖 #learning, #llm-devimpact 🗓️ 2026-05-12
+    > **Заметка:** Via Wisereads
+    > **Резюме:** A.I. should help engineers think better, not do the thinking for them. Real skill comes from understanding problems deeply and learning through struggle. The best engineers use A.I. to enhance judgment, not replace it.
 - [AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/) [📖](https://read.readwise.io/read/01kr4t5whsajkce6dmhszs4ad2) 👤 seangoedecke.com RSS feed 💬 1085 🔖 #learning, #llm-devimpact 🗓️ 2026-05-08
     > **Заметка:** Всё здорово, но всё же мне кажется именно на развитие личного чутья, практических знаний помощь агентов влияет негативно. Опыт, возможно, будет шире, но более «мелкий», поверхностный.
     > **Резюме:** AI tools help weak engineers make fewer harmful mistakes and produce better code. Strong engineers rarely rely on AI this way because they can catch errors themselves. Using AI this way improves team work but may threaten jobs for less skilled engineers.

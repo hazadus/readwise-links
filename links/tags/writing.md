@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 28
+- Всего ссылок: 29
 
 ## Ссылки
 
+- [Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/) [📖](https://read.readwise.io/read/01kqsmbkrxbxa9cj8xafba8gq4) 👤 Armin Ronacher 💬 2134 🔖 #writing, #llm-devimpact 🗓️ 2026-05-04
+    > **Заметка:** Интересное наблюдение о влиянии LLM на то, как люди пишут - даже когда они это делают сами, без ИИ-помощников. На русском пока такого не встречал, но на нём читаю и не так много текстов в интернете... Нужно понаблюдать.
+    > **Резюме:** Language is changing fast, partly because of AI tools like large language models (LLMs). Many people and companies use AI to create lots of low-effort content, which makes real human communication harder to find. We need to be aware of this problem and change how we trust and interact with AI-influenced text.
 - [No one wants to read your AI slop (permalink)](https://pluralistic.net/2026/03/02/nonconsensual-slopping/) [📖](https://read.readwise.io/read/01kjs30bdpcwrxe26wmhcjztg6) 👤 pluralistic.net 💬 1747 🔖 #llm, #writing 🗓️ 2026-03-03
     > **Резюме:** People don’t want to read your AI-generated chats or critiques. Using AI to argue without understanding wastes others’ time and is rude. Always think for yourself before sharing AI content with strangers.
 - [The End of Thinking](https://www.derekthompson.org/p/the-end-of-thinking) [📖](https://read.readwise.io/read/01kj5ksw4r753p8rb8w9agw5ma) 👤 Derek Thompson 💬 2360 🔖 #llm, #toot, #reading, #writing 🗓️ 2026-02-23
