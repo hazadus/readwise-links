@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 454
+- Всего ссылок: 453
 
 ## Ссылки
 
@@ -20,8 +20,6 @@ I wrote about Useful patterns for building HTML tools last December, but that wa
     Tags: html, markdown, ai, prompt-engineering, generative-ai, llms, claude-code
 - [Why hasn't longer-horizon training slowed AI progress?](https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/) [📖](https://read.readwise.io/read/01kr15p7335m4tqajkgwgzc92t) 👤 seangoedecke.com RSS feed 💬 1139 🔖 #llm 🗓️ 2026-05-07
     > **Резюме:** AI progress hasn't slowed much because training uses FLOPs more efficiently and clever fixes fix big bugs. Measuring AI intelligence is tricky since smarter models are harder to judge and many traits affect capabilities beyond intelligence. Overall, AI development is complex and driven by sudden breakthroughs, not steady slowdowns.
-- [We're Not Building AI Features for the Money](https://zed.dev/blog/not-building-ai-for-the-money) [📖](https://read.readwise.io/read/01kqxwx5c1kye0xm4fak4rzc6s) 👤 Conrad Irwin 💬 1224 🔖 #llm, #zed 🗓️ 2026-05-06
-    > **Резюме:** Zed is building AI features not just to make money, but to improve how people and AI work together in programming. They believe AI can help developers be more productive, but humans still need to guide and understand the code. Their long-term goal is to create a collaborative workspace where teams and AI agents share a clear, connected view of code.
 - [10 Lessons for Agentic Coding](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html) [📖](https://read.readwise.io/read/01kqv97tra48wmpp62q30warg5) 👤 Drew Breunig 💬 669 🔖 #llm, #llm-devimpact 🗓️ 2026-05-05
     > **Заметка:** Ничего прорывного, но в целом наблюдения совпадают с моими.
     > **Резюме:** Guidelines for programming when code is cheap.

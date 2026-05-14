@@ -1,15 +1,29 @@
 # Ссылки
 
-- Всего ссылок: 252
+- Всего ссылок: 257
 
 ## Ссылки
 
-- [Type-safe slogging](https://rednafi.com/go/typesafe-slogging/) [📖](https://read.readwise.io/read/01kr6xw0dzbzzdmakdyxtnkzpy) 👤 Redowan's Reflections 💬 1251 🔖 #go 🗓️ 2026-05-09
+- [30 Years of Programming at 44 Years Old](https://blainsmith.com/articles/30-years-of-programming-at-44-years-old/) [📖](https://read.readwise.io/read/01krgjem2rfneagw9frrfmz9qy) 👤 Blain Smith 💬 1433 🔖 #go, #burnout 🗓️ 2026-05-13
+    > **Резюме:** The author started programming as a teenager, loving the joy of creating simple websites. Over 30 years, he mastered complex systems but grew tired of an industry focused on profit, not people. Now, he wants to use his skills to build honest, useful software that respects users and brings back the joy of making things.
+- [Building Go APIs with Huma, sqlc, and Goose](https://blainsmith.com/articles/building-go-apis-with-huma-slqc-and-goose/) [📖](https://read.readwise.io/read/01krggyk2tk1s6tawtxavh736y) 👤 Blain Smith 💬 1692 🔖 #go, #try 🗓️ 2026-05-13
+    > **Заметка:** Любопытный стек. Классно, что инструменты дополняют друг друга, не мешая и не закрывая собой общую картину. Надо бы попробовать при случае.
+    > **Резюме:** This stack uses Goose for database migrations, sqlc to generate type-safe Go code from SQL, and Huma to create typed HTTP APIs with automatic OpenAPI specs. You write plain SQL for schema and queries, and the tools handle generating Go code and docs. This approach keeps the code simple, reviewable, and easy for new engineers to understand quickly.
+- [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/) [📖](https://read.readwise.io/read/01krgdchmmxhb8wwrjqdmp8sds) 👤 Blain Smith 💬 1583 🔖 #go, #inspiration 🗓️ 2026-05-13
+    > **Заметка:** Отличный вдохновляющий пост про то, как хорош Go. Никаких недостатков не упомянуто, но сделаем скидку на хвалебный жанр :) Via Go Weekly Newsletter 
+    > **Резюме:** Go is simple, fast, and reliable for building backend apps without complex tools or frameworks. Its standard library, easy concurrency, and built-in tooling make development and deployment straightforward. Stop overcomplicating things—just write one Go binary and ship it.
+- [Go structured logging with slog](https://rednafi.com/go/structured-logging-with-slog) [📖](https://read.readwise.io/read/01krg4ph9gm5dpy1kzwe40pj9r) 👤 Redowan Delowar 💬 1933 🔖 #go, #logging 🗓️ 2026-05-13
+    > **Заметка:** Хороший вводный материал по slog
+    > **Резюме:** The slog package helps create structured logs with levels like Debug, Info, Warn, and Error. It supports output in text or JSON formats and allows adding or removing custom attributes and log levels. This makes logging flexible and easy to organize for better debugging and monitoring.
+- [Type-safe slogging](https://rednafi.com/go/typesafe-slogging/) [📖](https://read.readwise.io/read/01kr6xw0dzbzzdmakdyxtnkzpy) 👤 Redowan's Reflections 💬 1251 🔖 #go, #logging 🗓️ 2026-05-09
+    > **Заметка:** Хорошие "продвинутые" рекомендации по использованию slog
     > **Резюме:** The author switched to Go's built-in slog for logging because it is reliable and simple despite some extra allocations. They recommend passing the logger as a dependency and using typed attribute helpers to ensure type safety and consistent keys. A tool called sloglint enforces these best practices to keep logging clear and error-free.
 - [Understanding the Go Runtime: Slices, Maps, and Channels](https://internals-for-interns.com/posts/go-runtime-slices-maps-channels/) [📖](https://read.readwise.io/read/01kqva1g2d60nh43y7yp354gc3) 👤 Jesús Espino 💬 6000 🔖 #go 🗓️ 2026-05-05
     > **Резюме:** A Go slice is a small header pointing to a backing array, and slices can share memory until one grows and copies the data. Maps use a directory and tables with groups of slots to store key/value pairs efficiently, splitting tables as they grow. Channels have a circular buffer and queues of waiting goroutines, handling sends and receives smoothly even when the buffer is full or empty.
 - [Understanding the Go Runtime: The Network Poller](https://internals-for-interns.com/posts/go-netpoller/?utm_source=christophberger&utm_medium=email&utm_campaign=2026-04-26-not-magic) [📖](https://read.readwise.io/read/01kqehj6aqfvy5ftqn9fatzj8q) 👤 Jesús Espino 💬 4703 🔖 #go 🗓️ 2026-04-30
     > **Резюме:** Go’s runtime manages network I/O by asking the kernel if data is ready and putting goroutines to sleep instead of blocking OS threads. When data arrives, the kernel notifies the runtime, which wakes the right goroutine to continue work. This system lets Go efficiently handle many network tasks without wasting threads.
+- [Building Containers From Scratch in Go: Namespaces](https://blog.iamvedant.in/containers-are-not-magic-namespaces-from-scratch) [📖](https://read.readwise.io/read/01kqehfdjmc965hcyzhrrnf9zh) 👤 blog.iamvedant.in 💬 3477 🔖 #go 🗓️ 2026-04-30
+    > **Резюме:** Docker uses containers to run programs isolated from the host system by using Linux kernel features called namespaces and cgroups. In this tutorial, a container is built in Go to run a shell with its own process tree and filesystem, showing how isolation works. This isolation keeps the container's processes and resources separate, just like Docker does.
 - [Error translation in Go services](https://rednafi.com/go/error-translation/) [📖](https://read.readwise.io/read/01knzzj4wnhpzzykwdr7tpjek4) 👤 Redowan's Reflections 💬 2281 🔖 #go, #architecture, #errorhandling 🗓️ 2026-04-12
     > **Резюме:** Translating errors at layer boundaries so storage details don't leak into the handler or, worse, into client responses.
 - [Stacked log lines considered harmful](https://rednafi.com/shards/2026/04/no-stacked-loglines/) [📖](https://read.readwise.io/read/01knn5avm7zap0tex4q5e8yjex) 👤 Redowan's Reflections 💬 946 🔖 #go 🗓️ 2026-04-07

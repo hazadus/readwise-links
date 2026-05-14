@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 43
+- Всего ссылок: 44
 
 ## Ссылки
 
 - [Does iCloud Drive now lose almost all metadata?](https://eclecticlight.co/2026/05/11/does-icloud-drive-now-lose-almost-all-metadata/) [📖](https://read.readwise.io/read/01kraxs6ea694cejp41gy74jne) 👤 hoakley 💬 882 🔖 #macos 🗓️ 2026-05-11
     > **Резюме:** What happens when you move a file with metadata attached in extended attributes to iCloud Drive? Which of those are preserved when you access that file from another Mac?
+- [Watching for file changes on macOS](https://alexwlchan.net/2026/watch-files-on-macos/) [📖](https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j) 👤 alexwlchan 💬 4675 🔖 #macos 🗓️ 2026-05-11
+    > **Резюме:** The article explains how to use macOS’s FSEvents API in Swift to watch for file changes and print the changed file paths. It shows how a Python script can read these paths from the Swift script’s output to trigger actions like rebuilding a site. This method detects file changes quickly, with just a few milliseconds delay.
 - [How to check whether Spotlight is getting the right metadata](https://eclecticlight.co/2026/05/08/how-to-check-whether-spotlight-is-getting-the-right-metadata/) [📖](https://read.readwise.io/read/01kr35bneyyv1qefd7w800r73a) 👤 hoakley 💬 660 🔖 #macos 🗓️ 2026-05-08
     > **Резюме:** Use the mdimport and mdls commands to dump full information about all the metadata attributes found for a file, and those indexed by Spotlight.
 - [How macOS can ignore and hide metadata](https://eclecticlight.co/2026/05/06/how-macos-can-ignore-and-hide-metadata/) [📖](https://read.readwise.io/read/01kqy2pem9hyaeyct2pcrv26c7) 👤 hoakley 💬 882 🔖 #macos 🗓️ 2026-05-06

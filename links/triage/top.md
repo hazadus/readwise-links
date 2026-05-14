@@ -2,7 +2,7 @@
 
 _20 статей с наивысшим interest_score_
 
-Сгенерировано: 2026-05-13 04:30 UTC · Статей: 20
+Сгенерировано: 2026-05-14 04:29 UTC · Статей: 20
 
 ## Статьи
 
@@ -10,7 +10,7 @@ _20 статей с наивысшим interest_score_
     > **Резюме:** MicroGPT is a simple neural network that learns to predict the next token in a sequence by adjusting many small parameters. It trains using backpropagation and the Adam optimizer to reduce prediction errors step-by-step. Over time, the model gets better at capturing patterns in the data and generating likely next tokens.
 - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/) [📖](https://read.readwise.io/read/01k16rxz1txqqvqwzqx2qb3nje) 👤 Simon Willison 💬 4839 ⭐ 9 🔖 #llm 🗓️ 2025-07-27 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Embeddings turn content like text or images into numbers that capture their meaning. They help computers find and compare similar information quickly. This technology powers tools like search engines and question-answering systems.
-- [Watching for file changes on macOS](https://alexwlchan.net/2026/watch-files-on-macos/) [📖](https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j) 👤 alexwlchan 💬 4675 ⭐ 9 🗓️ 2026-05-11 · 🛠️ туториал, 🌲 вечнозелёное
+- [Watching for file changes on macOS](https://alexwlchan.net/2026/watch-files-on-macos/) [📖](https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j) 👤 alexwlchan 💬 4675 ⭐ 9 🔖 #macos 🗓️ 2026-05-11 · 🛠️ туториал, 🌲 вечнозелёное
     > **Резюме:** The article explains how to use macOS’s FSEvents API in Swift to watch for file changes and print the changed file paths. It shows how a Python script can read these paths from the Swift script’s output to trigger actions like rebuilding a site. This method detects file changes quickly, with just a few milliseconds delay.
 - [Quantization from the ground up](https://ngrok.com/blog/quantization) [📖](https://read.readwise.io/read/01kmrp6ce52w3gzsedw0ky6y7a) 👤 Sam Rose 💬 4123 ⭐ 9 🗓️ 2026-03-27 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Quantization shrinks large numbers into smaller ones so models use less memory and run faster. Lower bit quantization reduces accuracy, but 8-bit and 4-bit still work well for large language models. Very low bits like 2-bit cause big errors and poor model performance.
@@ -39,13 +39,14 @@ _20 статей с наивысшим interest_score_
     > **Резюме:** AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) [📖](https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96) 👤 Peter Steinberger 💬 3413 ⭐ 8 🔖 #llm 🗓️ 2026-01-09
     > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
-- [Little Helper • The Applied Go Weekly Newsletter 2026-05-03](https://newsletter.appliedgo.net/archive/2026-05-03-little-helper/) [📖](https://read.readwise.io/read/01kqrmee8fp3npppa41mr0ey9q) 👤 The Applied Go Weekly Newsletter 💬 3211 ⭐ 8 🗓️ 2026-05-04
-    > **Резюме:** This newsletter explains how AI, especially large language models (LLMs), can help developers by reviewing code, writing boring boilerplate, and generating documentation without replacing the joy of coding. It shares a practical example of using an LLM to understand security issues in Go code. The message encourages using AI as a helpful tool, not a full substitute for programming skills.
 - [Eight Software Markets AI That Will Transform Differently](https://davegriffith.substack.com/p/eight-software-markets-ai-that-will) [📖](https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt) 👤 Dave Griffith 💬 2917 ⭐ 8 🔖 #llm 🗓️ 2026-01-12 · 🧠 основы
     > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) [📖](https://read.readwise.io/read/01ke9z0vpb9xqf5ateyympwzpm) 👤 Nikita Prokopov 💬 2754 ⭐ 8 🗓️ 2026-01-06 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Apple's Tahoe icons are confusing and inconsistent, making it hard to find or understand menu items quickly. Too many icons clutter menus, and similar or unclear symbols cause frustration. Good icon design should be simple, clear, and consistent, but Tahoe often misses these points.
 - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) [📖](https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt) 👤 mariozechner.at 💬 2368 ⭐ 8 🗓️ 2026-03-26
     > **Резюме:** Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.
-- [Trying Out OpenCode To Avoid Claude Code Lock-in](https://blog.matthewbrunelle.com/trying-out-opencode-to-avoid-claude-code-lock-in/) [📖](https://read.readwise.io/read/01kqfrv16s4z6c3z519rjb32rv) 👤 Matthew Brunelle 💬 2105 ⭐ 8 🔖 #opencode 🗓️ 2026-04-30
-    > **Резюме:** The author tested OpenCode to avoid relying on Claude Code due to quality and control issues. OpenCode performed about as well as Claude Code but lacks key features like memory and better user control. The author paused Claude Code and will watch how OpenCode improves before deciding what to use next.
+- [Software Development in 2026](https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026) [📖](https://read.readwise.io/read/01kn9q1g2rkzrdsd4mgzghk9ew) 👤 Aleksei Matiushkin 💬 1952 ⭐ 8 🗓️ 2026-04-03 · 🧠 основы, 🌲 вечнозелёное
+    > **Заметка:** Via ElixirWeekly
+    > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.
+- [The secret life of the xattr](https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/) [📖](https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1) 👤 hoakley 💬 1905 ⭐ 8 🗓️ 2026-04-24 · 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.

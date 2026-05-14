@@ -2,7 +2,7 @@
 
 _Фундаментальные материалы с долгосрочной ценностью_
 
-Сгенерировано: 2026-05-13 04:30 UTC · Статей: 38
+Сгенерировано: 2026-05-14 04:29 UTC · Статей: 38
 
 ## Статьи
 
@@ -47,7 +47,7 @@ Write the first tests yourself and prefer public-API tests with handwritten fake
     > **Резюме:** This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.
 - [Hello Walter! Learning Rust on ESP32](https://blog.matthewbrunelle.com/hello-walter-learning-rust-on-esp32/) [📖](https://read.readwise.io/read/01kq6r43eh0tj3j5x4s151837c) 👤 Matthew Brunelle's Blog 💬 1236 ⭐ 7 🔖 #rust, #esp32 🗓️ 2026-04-27 · 🛠️ туториал, 🧠 основы
     > **Резюме:** The author is building an embedded device to scan signals and log GPS data using the Walter ESP32-S3 board and Rust programming. They set up a complex development environment on NixOS to run the Embassy async framework for better multitasking. After overcoming setup challenges, they successfully ran a "Hello World" program and plan to expand the project further.
-- [Building Containers From Scratch in Go: Namespaces](https://blog.iamvedant.in/containers-are-not-magic-namespaces-from-scratch) [📖](https://read.readwise.io/read/01kqehfdjmc965hcyzhrrnf9zh) 👤 blog.iamvedant.in 💬 3477 ⭐ 6 🗓️ 2026-04-30 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
+- [Building Containers From Scratch in Go: Namespaces](https://blog.iamvedant.in/containers-are-not-magic-namespaces-from-scratch) [📖](https://read.readwise.io/read/01kqehfdjmc965hcyzhrrnf9zh) 👤 blog.iamvedant.in 💬 3477 ⭐ 6 🔖 #go 🗓️ 2026-04-30 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Docker uses containers to run programs isolated from the host system by using Linux kernel features called namespaces and cgroups. In this tutorial, a container is built in Go to run a shell with its own process tree and filesystem, showing how isolation works. This isolation keeps the container's processes and resources separate, just like Docker does.
 - [USB for Software Developers](https://werwolv.net/posts/usb_for_sw_devs/) [📖](https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41) 👤 WerWolv 💬 2523 ⭐ 6 🔖 #usb 🗓️ 2026-04-09 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via HackerNews

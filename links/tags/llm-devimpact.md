@@ -1,9 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 105
+- Всего ссылок: 108
 
 ## Ссылки
 
+- [Your Indispensable Value in the AI Era](https://larsfaye.com/articles/the-question-is-the-work) [📖](https://read.readwise.io/read/01kredz2xzashkvs6zdb2ghtm6) 👤 larsfaye.com 💬 1087 🔖 #llm-devimpact 🗓️ 2026-05-12
+    > **Резюме:** In the age of AI, getting answers is easy, but asking the right questions remains crucial. Programmers must focus on refining questions to solve complex problems, as AI cannot think or question for them. The true skill is in critical thinking and using AI tools wisely to find clarity.
+- [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01krdhshryexbwy79jmq7qh6c7) 👤 rmoff.net 💬 1868 🔖 #llm-devimpact, #llm-resistance 🗓️ 2026-05-12
+    > **Заметка:** Интересно, что последние дни довольно много подобных постов попадается. Похоже, народ наелся LLM, начинает осознавать проблемы и последствия! Via TLDR Web
+    > **Резюме:** AI-generated low-effort content is flooding online communities and making it hard to find valuable contributions. This "AI slop" frustrates members and harms the growth of meaningful discussions. To keep communities healthy, people should share only useful work and respect the space they contribute to.
+- [Appearing Productive in The Workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) [📖](https://read.readwise.io/read/01krdh9p265at5198hsqagkd9s) 👤 No One's Happy 💬 2228 🔖 #llm-devimpact, #llm-resistance 🗓️ 2026-05-12
+    > **Заметка:** Via TLDR Web
+    > **Резюме:** Generative AI lets workers produce work quickly, but often without true expertise or proper judgment. This causes problems because novices may seem skilled, and mistakes go unnoticed by those who should review them. To use AI well, humans must stay in control and apply their own knowledge, not rely on the tool alone.
 - [Agentic Coding is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap?utm_source=tldrdev) [📖](https://read.readwise.io/read/01krdgas03eg1k5c0hg022jbb0) 👤 larsfaye.com 💬 2432 🔖 #llm-devimpact, #llm-resistance 🗓️ 2026-05-12
     > **Заметка:** Очень дельный пост, прям в точку. 
 Via TLDR Web

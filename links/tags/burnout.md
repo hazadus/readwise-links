@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [30 Years of Programming at 44 Years Old](https://blainsmith.com/articles/30-years-of-programming-at-44-years-old/) [📖](https://read.readwise.io/read/01krgjem2rfneagw9frrfmz9qy) 👤 Blain Smith 💬 1433 🔖 #go, #burnout 🗓️ 2026-05-13
+    > **Резюме:** The author started programming as a teenager, loving the joy of creating simple websites. Over 30 years, he mastered complex systems but grew tired of an industry focused on profit, not people. Now, he wants to use his skills to build honest, useful software that respects users and brings back the joy of making things.
 - [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout/) [📖](https://read.readwise.io/read/01krdbp3de22jcpy37j7wc4kpz) 👤 Ky Decker 💬 1959 🔖 #burnout, #llm-fatigue, #llm-devimpact 🗓️ 2026-05-12
     > **Заметка:** Via Wisereads
     > **Резюме:** The author feels burned out and uncertain about staying in tech due to overuse of AI and loss of meaningful work. They miss the industry's earlier values of care and creativity. Now, they are taking time to recover and rethink their future.

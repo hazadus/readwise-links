@@ -1,11 +1,9 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 5
 
 ## Ссылки
 
-- [We're Not Building AI Features for the Money](https://zed.dev/blog/not-building-ai-for-the-money) [📖](https://read.readwise.io/read/01kqxwx5c1kye0xm4fak4rzc6s) 👤 Conrad Irwin 💬 1224 🔖 #llm, #zed 🗓️ 2026-05-06
-    > **Резюме:** Zed is building AI features not just to make money, but to improve how people and AI work together in programming. They believe AI can help developers be more productive, but humans still need to guide and understand the code. Their long-term goal is to create a collaborative workspace where teams and AI agents share a clear, connected view of code.
 - [Zed is 1.0](https://zed.dev/blog/zed-1-0) [📖](https://read.readwise.io/read/01kqctck2g2ph7f0r2rwta7v29) 👤 Nathan Sobo 💬 797 🔖 #zed 🗓️ 2026-04-29
     > **Заметка:** Мне понравилось писать в Zed на Go ещё пару лет назад. Надо будет вернуться, попробовать 1.0.
     > **Резюме:** The editor we set out to build is now 1.0.

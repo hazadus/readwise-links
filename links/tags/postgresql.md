@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 40
+- Всего ссылок: 41
 
 ## Ссылки
 
+- [Книга: «Антипаттерны PostgreSQL и как их избежать»](https://habr.com/ru/companies/piter/articles/1028468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog) [📖](https://read.readwise.io/read/01kre77pc92np6b62j1v2pefga) 👤 ph_piter (Издательский дом «Питер») 💬 463 🔖 #book, #postgresql 🗓️ 2026-05-12
+    > **Заметка:** Выглядит любопытно, надо взять на заметку.
+    > **Резюме:** Привет, Хаброжители!  Исправление ошибок в базах данных PostgreSQL может быть трудоемким и рискованным процессом — особенно при внесении изменений в работающую систему в реальном времени. К счастью, можно учиться на ошибках, которые уже совершили другие! Автор подробно описывает, как выявлять и предотвращать самые распространенные, опасные и скрытые антипаттерны проектирования при работе с PostgreSQL.  Читать далее
 - [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) [📖](https://read.readwise.io/read/01knhde7wg4mcx47qc2k368z0k) 👤 Ivan Grishaev's blog 💬 7191 🔖 #book, #postgresql 🗓️ 2026-04-06
     > **Резюме:** JSON хранится как обычный текст, а jsonb — в двоичном формате, что ускоряет работу с данными. В PostgreSQL jsonb быстрее обрабатывается при чтении и операциях, хотя вставка данных может быть медленнее. Для работы с JSON есть удобные операторы и функции, которые помогают извлекать и изменять вложенные данные.
 - [Repositories, transactions, and unit of work in Go](https://rednafi.com/go/repo-txn-uow/) [📖](https://read.readwise.io/read/01km84pqb5885pmmb3tymrz04n) 👤 Redowan's Reflections 💬 3801 🔖 #go, #postgresql, #architecture 🗓️ 2026-03-21

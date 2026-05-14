@@ -2,7 +2,7 @@
 
 _Туториалы и практические руководства_
 
-Сгенерировано: 2026-05-13 04:30 UTC · Статей: 23
+Сгенерировано: 2026-05-14 04:29 UTC · Статей: 23
 
 ## Статьи
 
@@ -10,7 +10,7 @@ _Туториалы и практические руководства_
     > **Резюме:** MicroGPT is a simple neural network that learns to predict the next token in a sequence by adjusting many small parameters. It trains using backpropagation and the Adam optimizer to reduce prediction errors step-by-step. Over time, the model gets better at capturing patterns in the data and generating likely next tokens.
 - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/) [📖](https://read.readwise.io/read/01k16rxz1txqqvqwzqx2qb3nje) 👤 Simon Willison 💬 4839 ⭐ 9 🔖 #llm 🗓️ 2025-07-27 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Embeddings turn content like text or images into numbers that capture their meaning. They help computers find and compare similar information quickly. This technology powers tools like search engines and question-answering systems.
-- [Watching for file changes on macOS](https://alexwlchan.net/2026/watch-files-on-macos/) [📖](https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j) 👤 alexwlchan 💬 4675 ⭐ 9 🗓️ 2026-05-11 · 🛠️ туториал, 🌲 вечнозелёное
+- [Watching for file changes on macOS](https://alexwlchan.net/2026/watch-files-on-macos/) [📖](https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j) 👤 alexwlchan 💬 4675 ⭐ 9 🔖 #macos 🗓️ 2026-05-11 · 🛠️ туториал, 🌲 вечнозелёное
     > **Резюме:** The article explains how to use macOS’s FSEvents API in Swift to watch for file changes and print the changed file paths. It shows how a Python script can read these paths from the Swift script’s output to trigger actions like rebuilding a site. This method detects file changes quickly, with just a few milliseconds delay.
 - [Quantization from the ground up](https://ngrok.com/blog/quantization) [📖](https://read.readwise.io/read/01kmrp6ce52w3gzsedw0ky6y7a) 👤 Sam Rose 💬 4123 ⭐ 9 🗓️ 2026-03-27 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Quantization shrinks large numbers into smaller ones so models use less memory and run faster. Lower bit quantization reduces accuracy, but 8-bit and 4-bit still work well for large language models. Very low bits like 2-bit cause big errors and poor model performance.
@@ -38,7 +38,7 @@ Write the first tests yourself and prefer public-API tests with handwritten fake
     > **Резюме:** This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.
 - [Hello Walter! Learning Rust on ESP32](https://blog.matthewbrunelle.com/hello-walter-learning-rust-on-esp32/) [📖](https://read.readwise.io/read/01kq6r43eh0tj3j5x4s151837c) 👤 Matthew Brunelle's Blog 💬 1236 ⭐ 7 🔖 #rust, #esp32 🗓️ 2026-04-27 · 🛠️ туториал, 🧠 основы
     > **Резюме:** The author is building an embedded device to scan signals and log GPS data using the Walter ESP32-S3 board and Rust programming. They set up a complex development environment on NixOS to run the Embassy async framework for better multitasking. After overcoming setup challenges, they successfully ran a "Hello World" program and plan to expand the project further.
-- [Building Containers From Scratch in Go: Namespaces](https://blog.iamvedant.in/containers-are-not-magic-namespaces-from-scratch) [📖](https://read.readwise.io/read/01kqehfdjmc965hcyzhrrnf9zh) 👤 blog.iamvedant.in 💬 3477 ⭐ 6 🗓️ 2026-04-30 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
+- [Building Containers From Scratch in Go: Namespaces](https://blog.iamvedant.in/containers-are-not-magic-namespaces-from-scratch) [📖](https://read.readwise.io/read/01kqehfdjmc965hcyzhrrnf9zh) 👤 blog.iamvedant.in 💬 3477 ⭐ 6 🔖 #go 🗓️ 2026-04-30 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Docker uses containers to run programs isolated from the host system by using Linux kernel features called namespaces and cgroups. In this tutorial, a container is built in Go to run a shell with its own process tree and filesystem, showing how isolation works. This isolation keeps the container's processes and resources separate, just like Docker does.
 - [USB for Software Developers](https://werwolv.net/posts/usb_for_sw_devs/) [📖](https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41) 👤 WerWolv 💬 2523 ⭐ 6 🔖 #usb 🗓️ 2026-04-09 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via HackerNews

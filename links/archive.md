@@ -1,9 +1,26 @@
 # Архивные ссылки
 
-- Всего ссылок: 1655
+- Всего ссылок: 1666
 
 ## Ссылки
 
+- [I Don't Care](https://blainsmith.com/articles/i-dont-care/) [📖](https://read.readwise.io/read/01krgmcb6mj1r15yf16hpahqvw) 👤 Blain Smith 💬 1207 🔖 #softwarecraft 🗓️ 2026-05-13
+- [Software Engineering Discipline and Posture](https://blainsmith.com/articles/software-engineering-discipline-and-posture/) [📖](https://read.readwise.io/read/01krgkqaee8r5zgfea8r4vpeq2) 👤 Blain Smith 💬 656 🔖 #softwarecraft 🗓️ 2026-05-13
+    > **Заметка:** Полностью соответствует и моим ценностям, готов подписаться под каждым предложением!
+- [30 Years of Programming at 44 Years Old](https://blainsmith.com/articles/30-years-of-programming-at-44-years-old/) [📖](https://read.readwise.io/read/01krgjem2rfneagw9frrfmz9qy) 👤 Blain Smith 💬 1433 🔖 #go, #burnout 🗓️ 2026-05-13
+- [Building Go APIs with Huma, sqlc, and Goose](https://blainsmith.com/articles/building-go-apis-with-huma-slqc-and-goose/) [📖](https://read.readwise.io/read/01krggyk2tk1s6tawtxavh736y) 👤 Blain Smith 💬 1692 🔖 #go, #try 🗓️ 2026-05-13
+    > **Заметка:** Любопытный стек. Классно, что инструменты дополняют друг друга, не мешая и не закрывая собой общую картину. Надо бы попробовать при случае.
+- [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/) [📖](https://read.readwise.io/read/01krgdchmmxhb8wwrjqdmp8sds) 👤 Blain Smith 💬 1583 🔖 #go, #inspiration 🗓️ 2026-05-13
+    > **Заметка:** Отличный вдохновляющий пост про то, как хорош Go. Никаких недостатков не упомянуто, но сделаем скидку на хвалебный жанр :) Via Go Weekly Newsletter 
+- [Go structured logging with slog](https://rednafi.com/go/structured-logging-with-slog) [📖](https://read.readwise.io/read/01krg4ph9gm5dpy1kzwe40pj9r) 👤 Redowan Delowar 💬 1933 🔖 #go, #logging 🗓️ 2026-05-13
+    > **Заметка:** Хороший вводный материал по slog
+- [Your Indispensable Value in the AI Era](https://larsfaye.com/articles/the-question-is-the-work) [📖](https://read.readwise.io/read/01kredz2xzashkvs6zdb2ghtm6) 👤 larsfaye.com 💬 1087 🔖 #llm-devimpact 🗓️ 2026-05-12
+- [Книга: «Антипаттерны PostgreSQL и как их избежать»](https://habr.com/ru/companies/piter/articles/1028468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog) [📖](https://read.readwise.io/read/01kre77pc92np6b62j1v2pefga) 👤 ph_piter (Издательский дом «Питер») 💬 463 🔖 #book, #postgresql 🗓️ 2026-05-12
+    > **Заметка:** Выглядит любопытно, надо взять на заметку.
+- [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01krdhshryexbwy79jmq7qh6c7) 👤 rmoff.net 💬 1868 🔖 #llm-devimpact, #llm-resistance 🗓️ 2026-05-12
+    > **Заметка:** Интересно, что последние дни довольно много подобных постов попадается. Похоже, народ наелся LLM, начинает осознавать проблемы и последствия! Via TLDR Web
+- [Appearing Productive in The Workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) [📖](https://read.readwise.io/read/01krdh9p265at5198hsqagkd9s) 👤 No One's Happy 💬 2228 🔖 #llm-devimpact, #llm-resistance 🗓️ 2026-05-12
+    > **Заметка:** Via TLDR Web
 - [Agentic Coding is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap?utm_source=tldrdev) [📖](https://read.readwise.io/read/01krdgas03eg1k5c0hg022jbb0) 👤 larsfaye.com 💬 2432 🔖 #llm-devimpact, #llm-resistance 🗓️ 2026-05-12
     > **Заметка:** Очень дельный пост, прям в точку. 
 Via TLDR Web
@@ -13,6 +30,8 @@ Via TLDR Web
     > **Заметка:** Via Wisereads
 - [Does iCloud Drive now lose almost all metadata?](https://eclecticlight.co/2026/05/11/does-icloud-drive-now-lose-almost-all-metadata/) [📖](https://read.readwise.io/read/01kraxs6ea694cejp41gy74jne) 👤 hoakley 💬 882 🔖 #macos 🗓️ 2026-05-11
 - [Slow. The. F**k. Down.](https://codemanship.wordpress.com/2026/05/10/slow-the-fk-down/) [📖](https://read.readwise.io/read/01kr8k8bbhnv6ytn6vvk4xtc1q) 👤 codemanship 💬 720 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-05-10
+- [Type-safe slogging](https://rednafi.com/go/typesafe-slogging/) [📖](https://read.readwise.io/read/01kr6xw0dzbzzdmakdyxtnkzpy) 👤 Redowan's Reflections 💬 1251 🔖 #go, #logging 🗓️ 2026-05-09
+    > **Заметка:** Хорошие "продвинутые" рекомендации по использованию slog
 - [AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/) [📖](https://read.readwise.io/read/01kr4t5whsajkce6dmhszs4ad2) 👤 seangoedecke.com RSS feed 💬 1085 🔖 #learning, #llm-devimpact 🗓️ 2026-05-08
     > **Заметка:** Всё здорово, но всё же мне кажется именно на развитие личного чутья, практических знаний помощь агентов влияет негативно. Опыт, возможно, будет шире, но более «мелкий», поверхностный.
 - [Using Claude Code: The Unreasonable Effectiveness of HTML](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything) [📖](https://read.readwise.io/read/01kr4pjz90bvvv230s56faa0qh) 👤 Simon Willison's Weblog 💬 219 🔖 #llm 🗓️ 2026-05-08

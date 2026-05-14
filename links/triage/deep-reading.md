@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-05-13 04:30 UTC · Статей: 59
+Сгенерировано: 2026-05-14 04:29 UTC · Статей: 55
 
 ## Статьи
 
@@ -24,16 +24,12 @@ _Длинные статьи (от 1500 слов), не туториалы_
     > **Резюме:** AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) [📖](https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96) 👤 Peter Steinberger 💬 3413 ⭐ 8 🔖 #llm 🗓️ 2026-01-09
     > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
-- [Little Helper • The Applied Go Weekly Newsletter 2026-05-03](https://newsletter.appliedgo.net/archive/2026-05-03-little-helper/) [📖](https://read.readwise.io/read/01kqrmee8fp3npppa41mr0ey9q) 👤 The Applied Go Weekly Newsletter 💬 3211 ⭐ 8 🗓️ 2026-05-04
-    > **Резюме:** This newsletter explains how AI, especially large language models (LLMs), can help developers by reviewing code, writing boring boilerplate, and generating documentation without replacing the joy of coding. It shares a practical example of using an LLM to understand security issues in Go code. The message encourages using AI as a helpful tool, not a full substitute for programming skills.
 - [Eight Software Markets AI That Will Transform Differently](https://davegriffith.substack.com/p/eight-software-markets-ai-that-will) [📖](https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt) 👤 Dave Griffith 💬 2917 ⭐ 8 🔖 #llm 🗓️ 2026-01-12 · 🧠 основы
     > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) [📖](https://read.readwise.io/read/01ke9z0vpb9xqf5ateyympwzpm) 👤 Nikita Prokopov 💬 2754 ⭐ 8 🗓️ 2026-01-06 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Apple's Tahoe icons are confusing and inconsistent, making it hard to find or understand menu items quickly. Too many icons clutter menus, and similar or unclear symbols cause frustration. Good icon design should be simple, clear, and consistent, but Tahoe often misses these points.
 - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) [📖](https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt) 👤 mariozechner.at 💬 2368 ⭐ 8 🗓️ 2026-03-26
     > **Резюме:** Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.
-- [Trying Out OpenCode To Avoid Claude Code Lock-in](https://blog.matthewbrunelle.com/trying-out-opencode-to-avoid-claude-code-lock-in/) [📖](https://read.readwise.io/read/01kqfrv16s4z6c3z519rjb32rv) 👤 Matthew Brunelle 💬 2105 ⭐ 8 🔖 #opencode 🗓️ 2026-04-30
-    > **Резюме:** The author tested OpenCode to avoid relying on Claude Code due to quality and control issues. OpenCode performed about as well as Claude Code but lacks key features like memory and better user control. The author paused Claude Code and will watch how OpenCode improves before deciding what to use next.
 - [Software Development in 2026](https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026) [📖](https://read.readwise.io/read/01kn9q1g2rkzrdsd4mgzghk9ew) 👤 Aleksei Matiushkin 💬 1952 ⭐ 8 🗓️ 2026-04-03 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via ElixirWeekly
     > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.
@@ -71,9 +67,6 @@ They are immutable and support persistent, transient, and temporary storage clas
     > **Резюме:** To work with text in computers, understanding encodings and character sets is essential. Unicode is a standard that unifies different encoding schemes, like UTF-8 and UTF-16, which represent characters using varying numbers of bits. It's important to specify the encoding used for text, as incorrect handling can lead to unreadable documents.
 - [I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either](https://aresluna.org/fn/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kke9tesp0nwb5ps5fn0nd3ff) 👤 Marcin Wichary 💬 4303 ⭐ 4 🔖 #macos 🗓️ 2026-03-11 · 🌲 вечнозелёное
     > **Резюме:** The Fn key first appeared in 1984 to help laptops mimic missing keys and control hardware functions. Apple recently introduced a new Globe (🌐) key, causing confusion with the traditional Fn key on external keyboards. Keyboard designs keep evolving, but many users face challenges due to different keys and shortcuts across devices.
-- [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01krdhshryexbwy79jmq7qh6c7) 👤 rmoff.net 💬 1868 ⭐ 4 🗓️ 2026-05-12
-    > **Заметка:** Via TLDR Web
-    > **Резюме:** AI-generated low-effort content is flooding online communities and making it hard to find valuable contributions. This "AI slop" frustrates members and harms the growth of meaningful discussions. To keep communities healthy, people should share only useful work and respect the space they contribute to.
 - [The Structure of Engineering Revolutions](https://webdirections.org/blog/the-structure-of-engineering-revolutions/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kkeb8d42rdtsnyrwfezxesgd) 👤 @johnallsopp 💬 4159 ⭐ 3 🗓️ 2026-03-11
     > **Резюме:** Experienced software engineers resist AI-assisted coding because it challenges their long-held beliefs and skills. This resistance follows a pattern of paradigm shifts described by Thomas Kuhn, where new ideas disrupt old frameworks. Despite skepticism, AI tools are proving to boost productivity and change software development fundamentally.
 - [The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev) [📖](https://read.readwise.io/read/01km5fqgjckw8znfxbjqybrm3c) 👤 Daring Fireball 💬 3347 ⭐ 3 🗓️ 2026-03-20
@@ -130,9 +123,6 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** Writing code faster does not make software delivery faster if other steps are slow. The real problem is delays in review, testing, and deployment, plus unclear requirements. To improve, fix the slowest step and focus on getting features into users' hands quickly.
 - [Brain Dumps as a Literary Form](https://davegriffith.substack.com/p/brain-dumps-as-a-literary-form) [📖](https://read.readwise.io/read/01kgrsdz9j55dc8rm8q8410rj9) 👤 Dave Griffith 💬 2431 ⭐ 2 🗓️ 2026-02-06
     > **Резюме:** Dave Griffith shares his thinking process through AI-assisted transcripts instead of polished conclusions. This new form shows how ideas develop and helps others understand reasoning better. It changes how we communicate and may create a market for watching thinkers work in real time.
-- [Appearing Productive in The Workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) [📖](https://read.readwise.io/read/01krdh9p265at5198hsqagkd9s) 👤 No One's Happy 💬 2228 ⭐ 2 🗓️ 2026-05-12
-    > **Заметка:** Via TLDR Web
-    > **Резюме:** Generative AI lets workers produce work quickly, but often without true expertise or proper judgment. This causes problems because novices may seem skilled, and mistakes go unnoticed by those who should review them. To use AI well, humans must stay in control and apply their own knowledge, not rely on the tool alone.
 - [“Conviction Collapse” and the End of Software as We Know It](https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h) 👤 Tim O’Reilly 💬 2092 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-04-13
     > **Заметка:** w./ Harper Reed!
     > **Резюме:** Software is no longer a fixed product but a flexible process that evolves through ongoing learning and creativity. AI and agentic coding let people build, adapt, and improve software like art or music. Success now depends on play, social interaction, and discovering new ways to create, not just on money or technology.

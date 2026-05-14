@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 107
+- Всего ссылок: 108
 
 ## Ссылки
 
+- [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/) [📖](https://read.readwise.io/read/01krgdchmmxhb8wwrjqdmp8sds) 👤 Blain Smith 💬 1583 🔖 #go, #inspiration 🗓️ 2026-05-13
+    > **Заметка:** Отличный вдохновляющий пост про то, как хорош Go. Никаких недостатков не упомянуто, но сделаем скидку на хвалебный жанр :) Via Go Weekly Newsletter 
+    > **Резюме:** Go is simple, fast, and reliable for building backend apps without complex tools or frameworks. Its standard library, easy concurrency, and built-in tooling make development and deployment straightforward. Stop overcomplicating things—just write one Go binary and ship it.
 - [The Harvest Will Come](https://www.joanwestenberg.com/p/the-harvest-will-come) [📖](https://read.readwise.io/read/01kbhmsfe7ftjy3w10tt59065m) 👤 JA Westenberg 💬 816 🔖 #inspiration, #reflections 🗓️ 2025-12-03
     > **Заметка:** Очень точные наблюдения о сменяющихся циклах мотивированности и апатии. 
     > **Резюме:** Purpose and creativity come in seasons, not constant summer.  
