@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [Excitement is Relative](https://blainsmith.com/articles/excitement-is-relative/) [📖](https://read.readwise.io/read/01krjqka4qax086ev1ssga4jfa) 👤 Blain Smith 💬 1154 🔖 #soft skills, #communication 🗓️ 2026-05-14
+    > **Резюме:** The author, who is autistic, explains that their quiet and focused way of showing excitement is often misunderstood as indifference. This causes problems in communication because people expect visible enthusiasm like smiling or a lively voice. They ask others to recognize that deep care can look different and to value thoughtful engagement over performative energy.
 - [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) [📖](https://read.readwise.io/read/01kn4wcadfjm540wfsav7pgxnp) 👤 Matheus Lima 💬 847 🔖 #career, #management, #communication 🗓️ 2026-04-01
     > **Резюме:** If you want something at work, say it out loud. Your silence isn't saving you.
 - [Why Am I Doing the Thinking for You?](https://terriblesoftware.org/2026/02/02/why-am-i-doing-the-thinking-for-you/) [📖](https://read.readwise.io/read/01kgh54p30v5gzcechtqdvvnbt) 👤 Terrible Software 💬 696 🔖 #soft skills, #communication 🗓️ 2026-02-03

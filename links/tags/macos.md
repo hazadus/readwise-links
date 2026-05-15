@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 44
+- Всего ссылок: 45
 
 ## Ссылки
 
+- [The Emacsification of Software](https://sockpuppet.org/blog/2026/05/12/emacsification/) [📖](https://read.readwise.io/read/01krjehsqmtg94je4ssm3tfq2w) 👤 Quarrelsome 💬 1677 🔖 #macos, #personalsoftware 🗓️ 2026-05-14
+    > **Заметка:** Прямо в точку моих текущих интересов. Больше таких постов! Via HackerNews
+    > **Резюме:** The author built a better Markdown viewer using AI that improved reading comfort and usability on macOS. This new approach shows how personal, AI-assisted software creation is becoming easier and more common, like customizing Emacs. The future of software will see more simple, native apps made quickly for specific needs, making development more fun and personal.
 - [Does iCloud Drive now lose almost all metadata?](https://eclecticlight.co/2026/05/11/does-icloud-drive-now-lose-almost-all-metadata/) [📖](https://read.readwise.io/read/01kraxs6ea694cejp41gy74jne) 👤 hoakley 💬 882 🔖 #macos 🗓️ 2026-05-11
     > **Резюме:** What happens when you move a file with metadata attached in extended attributes to iCloud Drive? Which of those are preserved when you access that file from another Mac?
 - [Watching for file changes on macOS](https://alexwlchan.net/2026/watch-files-on-macos/) [📖](https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j) 👤 alexwlchan 💬 4675 🔖 #macos 🗓️ 2026-05-11

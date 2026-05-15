@@ -2,7 +2,7 @@
 
 _Туториалы и практические руководства_
 
-Сгенерировано: 2026-05-14 04:29 UTC · Статей: 23
+Сгенерировано: 2026-05-15 04:33 UTC · Статей: 24
 
 ## Статьи
 
@@ -25,6 +25,8 @@ LLMs and mock-generated interaction tests are brittle and can miss real bugs.
 Write the first tests yourself and prefer public-API tests with handwritten fakes or real test services.
 - [Building an AI QA Engineer with Claude Code and Playwright MCP](https://alexop.dev/posts/building_ai_qa_engineer_claude_code_playwright/) [📖](https://read.readwise.io/read/01kcgefhszbsw1gk9vj18g5pn0) 👤 Alexander Opalic 💬 1193 ⭐ 8 🔖 #mcp, #claude 🗓️ 2025-12-15 · 🛠️ туториал
     > **Резюме:** Alexander Opalic built an AI QA engineer named Quinn that uses Claude Code and Playwright MCP to test web apps through the browser like a real user. Quinn runs on pull requests via GitHub Actions, clicks, types, resizes the viewport, and posts detailed bug reports with screenshots. This approach finds edge cases and complements but does not replace traditional unit and E2E tests.
+- [[Golang] XML Parsing Example (6) - Parse OPML Concisely](https://siongui.github.io/2015/02/26/go-parse-opml-concisely/) [📖](https://read.readwise.io/read/01krk9wxf8xkvdrjtdqrp28vg1) 👤 Siong-Ui Te 💬 348 ⭐ 8 🗓️ 2026-05-14 · 🛠️ туториал, 🌲 вечнозелёное
+    > **Резюме:** This post shows how to parse OPML XML files in Go more concisely using the ">" tag syntax. It combines nested structs into one by specifying element paths in struct tags. The example code reads and unmarshals an OPML file, then prints the outlines.
 - [A Modern Quality Pipeline and Testing Strategy for Frontend Projects](https://alexop.dev/posts/modern-frontend-quality-pipeline/) [📖](https://read.readwise.io/read/01kq2k3gnqeh877w7kgfrnzs8a) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 3222 ⭐ 7 🗓️ 2026-04-25 · 🛠️ туториал
     > **Резюме:** A modern frontend quality pipeline uses fast tools like Vite+, Oxlint, and Vitest to catch bugs early and run tests efficiently. It splits checks by cost and stage, from editor to CI and preview deployments, ensuring consistent quality across teams. This approach combines types, linting, unit, component, and end-to-end tests with automation to keep code reliable and easy to maintain.
 - [How to build a remarkable command palette](https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01k7z3amqe376ky08bkmjbnp3v) 👤 Tim Boucher 💬 2747 ⭐ 7 🔖 #joyandcuriosity 🗓️ 2025-10-19 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное

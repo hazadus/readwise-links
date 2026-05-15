@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 49
+- Всего ссылок: 50
 
 ## Ссылки
 
+- [Allergic to Unnecessary Complexity](https://blainsmith.com/articles/allergic-to-unnecessary-complexity/) [📖](https://read.readwise.io/read/01krjqw32rh9v230kep1pwh8f4) 👤 Blain Smith 💬 989 🔖 #softwarecraft 🗓️ 2026-05-14
+    > **Заметка:** Очередной пост, снова всё в точку. Старая истина – одна из главных задач в разработке это управлние сложностью.
+    > **Резюме:** Keep designs simple and avoid adding clever layers that only impress peers.  
+Call out unnecessary complexity with curious, outcome-focused questions instead of complaints.  
+Fight apathy and only accept complexity when the problem truly requires it.
 - [I Don't Care](https://blainsmith.com/articles/i-dont-care/) [📖](https://read.readwise.io/read/01krgmcb6mj1r15yf16hpahqvw) 👤 Blain Smith 💬 1207 🔖 #softwarecraft 🗓️ 2026-05-13
     > **Резюме:** After 30 years in tech, the author no longer cares about hype, hot takes, or endless debates about AI, languages, or product launches. He values practical, simple software that solves real problems and respects people's time. He finds peace in ignoring the noise and focusing on what matters.
 - [Software Engineering Discipline and Posture](https://blainsmith.com/articles/software-engineering-discipline-and-posture/) [📖](https://read.readwise.io/read/01krgkqaee8r5zgfea8r4vpeq2) 👤 Blain Smith 💬 656 🔖 #softwarecraft 🗓️ 2026-05-13

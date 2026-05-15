@@ -1,9 +1,18 @@
 # Архивные ссылки
 
-- Всего ссылок: 1666
+- Всего ссылок: 1671
 
 ## Ссылки
 
+- [Bare Essentials Development Tools](https://blainsmith.com/articles/bare-essentials-development-tools/) [📖](https://read.readwise.io/read/01krjrfnqzbsthzs3vs4wsmxyf) 👤 Blain Smith 💬 849 🗓️ 2026-05-14
+    > **Заметка:** Важность простоты инструментов понимаешь только со временем.
+- [Allergic to Unnecessary Complexity](https://blainsmith.com/articles/allergic-to-unnecessary-complexity/) [📖](https://read.readwise.io/read/01krjqw32rh9v230kep1pwh8f4) 👤 Blain Smith 💬 989 🔖 #softwarecraft 🗓️ 2026-05-14
+    > **Заметка:** Очередной пост, снова всё в точку. Старая истина – одна из главных задач в разработке это управлние сложностью.
+- [Excitement is Relative](https://blainsmith.com/articles/excitement-is-relative/) [📖](https://read.readwise.io/read/01krjqka4qax086ev1ssga4jfa) 👤 Blain Smith 💬 1154 🔖 #soft skills, #communication 🗓️ 2026-05-14
+- [How to Use SQLite with Go](https://oneuptime.com/blog/post/2026-02-02-sqlite-go/view) [📖](https://read.readwise.io/read/01krjfk27w689w5528jf4a5dc9) 👤 OneUptime 💬 6052 🔖 #go, #sqlite, #tutorial 🗓️ 2026-05-14
+    > **Заметка:** Очень калорийный туториал, все важные темы покрыты. Проработать.
+- [The Emacsification of Software](https://sockpuppet.org/blog/2026/05/12/emacsification/) [📖](https://read.readwise.io/read/01krjehsqmtg94je4ssm3tfq2w) 👤 Quarrelsome 💬 1677 🔖 #macos, #personalsoftware 🗓️ 2026-05-14
+    > **Заметка:** Прямо в точку моих текущих интересов. Больше таких постов! Via HackerNews
 - [I Don't Care](https://blainsmith.com/articles/i-dont-care/) [📖](https://read.readwise.io/read/01krgmcb6mj1r15yf16hpahqvw) 👤 Blain Smith 💬 1207 🔖 #softwarecraft 🗓️ 2026-05-13
 - [Software Engineering Discipline and Posture](https://blainsmith.com/articles/software-engineering-discipline-and-posture/) [📖](https://read.readwise.io/read/01krgkqaee8r5zgfea8r4vpeq2) 👤 Blain Smith 💬 656 🔖 #softwarecraft 🗓️ 2026-05-13
     > **Заметка:** Полностью соответствует и моим ценностям, готов подписаться под каждым предложением!

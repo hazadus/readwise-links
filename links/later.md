@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 99
+- Всего ссылок: 100
 
 ## Ссылки
 
+- [[Golang] XML Parsing Example (6) - Parse OPML Concisely](https://siongui.github.io/2015/02/26/go-parse-opml-concisely/) [📖](https://read.readwise.io/read/01krk9wxf8xkvdrjtdqrp28vg1) 👤 Siong-Ui Te 💬 348 🗓️ 2026-05-14
+    > **Резюме:** This post shows how to parse OPML XML files in Go more concisely using the ">" tag syntax. It combines nested structs into one by specifying element paths in struct tags. The example code reads and unmarshals an OPML file, then prints the outlines.
 - [Watching for file changes on macOS](https://alexwlchan.net/2026/watch-files-on-macos/) [📖](https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j) 👤 alexwlchan 💬 4675 🔖 #macos 🗓️ 2026-05-11
     > **Резюме:** The article explains how to use macOS’s FSEvents API in Swift to watch for file changes and print the changed file paths. It shows how a Python script can read these paths from the Swift script’s output to trigger actions like rebuilding a site. This method detects file changes quickly, with just a few milliseconds delay.
 - [The duality of language models in the browser](https://daverupert.com/2026/05/small-language-models-in-the-browser/) [📖](https://read.readwise.io/read/01kqr6j0e2cmwpyxt8ycbvyjcz) 👤 daverupert.com 💬 1358 🗓️ 2026-05-04

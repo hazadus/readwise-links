@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T04:29:40.668701+00:00",
+  "generated_at": "2026-05-15T04:33:12.756866+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -5434,6 +5434,28 @@
           "is_tutorial": true,
           "is_foundational": false,
           "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01krk9wxf8xkvdrjtdqrp28vg1",
+        "url": "https://read.readwise.io/read/01krk9wxf8xkvdrjtdqrp28vg1",
+        "source_url": "https://siongui.github.io/2015/02/26/go-parse-opml-concisely/",
+        "title": "[Golang] XML Parsing Example (6) - Parse OPML Concisely",
+        "author": "Siong-Ui Te",
+        "image_url": "https://siongui.github.io/extra/Dharma_wheel.svg",
+        "word_count": 348,
+        "summary": "This post shows how to parse OPML XML files in Go more concisely using the \">\" tag syntax. It combines nested structs into one by specifying element paths in struct tags. The example code reads and unmarshals an OPML file, then prints the outlines.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-14T13:12:59.621000+00:00",
+        "last_moved_at": "2026-05-14T13:13:01.925000+00:00",
+        "published_date": "2015-02-26",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": false,
+          "is_evergreen": true,
           "interest_score": 8
         }
       },

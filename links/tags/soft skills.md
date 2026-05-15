@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 17
+- Всего ссылок: 18
 
 ## Ссылки
 
+- [Excitement is Relative](https://blainsmith.com/articles/excitement-is-relative/) [📖](https://read.readwise.io/read/01krjqka4qax086ev1ssga4jfa) 👤 Blain Smith 💬 1154 🔖 #soft skills, #communication 🗓️ 2026-05-14
+    > **Резюме:** The author, who is autistic, explains that their quiet and focused way of showing excitement is often misunderstood as indifference. This causes problems in communication because people expect visible enthusiasm like smiling or a lively voice. They ask others to recognize that deep care can look different and to value thoughtful engagement over performative energy.
 - [Why Am I Doing the Thinking for You?](https://terriblesoftware.org/2026/02/02/why-am-i-doing-the-thinking-for-you/) [📖](https://read.readwise.io/read/01kgh54p30v5gzcechtqdvvnbt) 👤 Terrible Software 💬 696 🔖 #soft skills, #communication 🗓️ 2026-02-03
     > **Резюме:** When you ask “What do you think?” without sharing your own thoughts, you make others do all the thinking for you. Instead, share your opinion, reasons, and a clear next step to help decisions happen faster. It’s okay to be unsure—showing your position helps the team move forward.
 - [Is Critical Thinking the Most Important Skill for Software Engineers?](https://blog.pragmaticengineer.com/critical-thinking/) [📖](https://read.readwise.io/read/01ke32bwc9akj8ggfgm70sey62) 👤 Gergely Orosz 💬 1887 🔖 #soft skills 🗓️ 2026-01-03

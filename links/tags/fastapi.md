@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 36
+- Всего ссылок: 37
 
 ## Ссылки
 
+- [Production MTProto user-бот на FastAPI + Telethon: WARP для обхода DPI и 5 граблей с Telegram](https://habr.com/ru/articles/1034612/) [📖](https://read.readwise.io/read/01krjgdqv7ngsa8wmp6xptqg1h) 👤 viktdo 💬 2712 🔖 #bot, #dpi, #fastapi, #userbot, #telegram 🗓️ 2026-05-14
+    > **Резюме:** The article explains how to create a production MTProto user-bot using FastAPI and Telethon to automate Telegram group management beyond Bot API limits. It highlights challenges like DPI bypass with WARP and Telegram errors when adding users to groups. The solution helps automate project communication by linking Planfix tasks to Telegram chats efficiently and securely.
 - [Как запустить 4 независимые нейросети на одном GPU (16 ГБ) под FastAPI](https://habr.com/ru/companies/hostkey/articles/982278/) [📖](https://read.readwise.io/read/01kerww1dpptfs3m3qsw1c3brm) 👤 yakvenalex 💬 6879 🔖 #llm, #try, #fastapi, #selfhost 🗓️ 2026-01-12
     > **Резюме:** Автор рассказывает, как запустить четыре нейросети на одном GPU с 16 ГБ памяти через FastAPI. Показывается практический пример настройки сервера и управления памятью без дообучения моделей. В итоге получается компактный и стабильный ML-сервис для локального использования.
 - [Kludex/fastapi-tips: FastAPI Tips by The FastAPI Expert!](https://github.com/Kludex/fastapi-tips?tab=readme-ov-file#2-be-careful-with-non-async-functions) [📖](https://read.readwise.io/read/01kbj164k5w3mpggna5f31k73r) 👤 https://github.com/Kludex/ 💬 1671 🔖 #fastapi 🗓️ 2025-12-03

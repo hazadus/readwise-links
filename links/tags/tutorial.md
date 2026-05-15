@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [How to Use SQLite with Go](https://oneuptime.com/blog/post/2026-02-02-sqlite-go/view) [📖](https://read.readwise.io/read/01krjfk27w689w5528jf4a5dc9) 👤 OneUptime 💬 6052 🔖 #go, #sqlite, #tutorial 🗓️ 2026-05-14
+    > **Заметка:** Очень калорийный туториал, все важные темы покрыты. Проработать.
+    > **Резюме:** This text explains how to set up and use SQLite with Go, including configuring the database and defining tables for users, projects, and tasks. It shows how to initialize the database schema and use SQL features like foreign keys and indexes for better performance. The guide also suggests best practices like using migrations and prepared statements for production applications.
 - [Fluid Hover Cards with Tailwind CSS Tutorial | Epic Web Dev](https://www.epicweb.dev/tutorials/fluid-hover-cards-with-tailwind-css) [📖](https://read.readwise.io/read/01jbyg6wch6swy4khf1c5vd2td) 👤 epicweb.dev 💬 3 🔖 #css, #tailwind, #tutorial 🗓️ 2024-01-26
     > **Резюме:** There is a free tutorial available for learning.
 - [How to Create HTML Accordion Elements With and Without JavaScript](https://www.freecodecamp.org/news/create-html-accordions-with-and-without-javascript/) [📖](https://read.readwise.io/read/01jbyg6wanaqvg27j82x67kp1n) 👤 Eamonn Cottrell 💬 1098 🔖 #html, #tutorial 🗓️ 2024-01-26

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 257
+- Всего ссылок: 258
 
 ## Ссылки
 
+- [How to Use SQLite with Go](https://oneuptime.com/blog/post/2026-02-02-sqlite-go/view) [📖](https://read.readwise.io/read/01krjfk27w689w5528jf4a5dc9) 👤 OneUptime 💬 6052 🔖 #go, #sqlite, #tutorial 🗓️ 2026-05-14
+    > **Заметка:** Очень калорийный туториал, все важные темы покрыты. Проработать.
+    > **Резюме:** This text explains how to set up and use SQLite with Go, including configuring the database and defining tables for users, projects, and tasks. It shows how to initialize the database schema and use SQL features like foreign keys and indexes for better performance. The guide also suggests best practices like using migrations and prepared statements for production applications.
 - [30 Years of Programming at 44 Years Old](https://blainsmith.com/articles/30-years-of-programming-at-44-years-old/) [📖](https://read.readwise.io/read/01krgjem2rfneagw9frrfmz9qy) 👤 Blain Smith 💬 1433 🔖 #go, #burnout 🗓️ 2026-05-13
     > **Резюме:** The author started programming as a teenager, loving the joy of creating simple websites. Over 30 years, he mastered complex systems but grew tired of an industry focused on profit, not people. Now, he wants to use his skills to build honest, useful software that respects users and brings back the joy of making things.
 - [Building Go APIs with Huma, sqlc, and Goose](https://blainsmith.com/articles/building-go-apis-with-huma-slqc-and-goose/) [📖](https://read.readwise.io/read/01krggyk2tk1s6tawtxavh736y) 👤 Blain Smith 💬 1692 🔖 #go, #try 🗓️ 2026-05-13
