@@ -1,11 +1,12 @@
 # Новые ссылки
 
-- Всего ссылок: 932
+- Всего ссылок: 933
 
 ## Ссылки
 
 - [Production MTProto user-бот на FastAPI + Telethon: WARP для обхода DPI и 5 граблей с Telegram](https://habr.com/ru/articles/1034612/) [📖](https://read.readwise.io/read/01krjgdqv7ngsa8wmp6xptqg1h) 👤 viktdo 💬 2712 🔖 #bot, #dpi, #fastapi, #userbot, #telegram 🗓️ 2026-05-14
 - [Read the Fucking Manual](https://blainsmith.com/articles/read-the-fucking-manual/) [📖](https://read.readwise.io/read/01krgk064dxmvz31zr124hztg3) 👤 Blain Smith 💬 1577 🔖 #softwarecraft 🗓️ 2026-05-13
+- [Your Composable Is Lying About Errors](https://alexop.dev/posts/composables-result-type-error-handling/) [📖](https://read.readwise.io/read/01kr93s68k1q5g5fs436n2gqxy) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 1297 🔖 #vue 🗓️ 2026-05-10
 - [Understanding the Go Runtime: Slices, Maps, and Channels](https://internals-for-interns.com/posts/go-runtime-slices-maps-channels/) [📖](https://read.readwise.io/read/01kqva1g2d60nh43y7yp354gc3) 👤 Jesús Espino 💬 6000 🔖 #go 🗓️ 2026-05-05
 - [Redis array type: short story of a long development](http://antirez.com/news/164) [📖](https://read.readwise.io/read/01kqsp5v74es5v7nyz2ftr33dp) 👤 <antirez> 💬 829 🗓️ 2026-05-04
 - [How to Write UI Components That Stay Flexible](https://alexop.dev/posts/compound-components-in-vue-shadcn/) [📖](https://read.readwise.io/read/01kqmm2pwkmy1zv0s4fh011ycg) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 4490 🗓️ 2026-05-02

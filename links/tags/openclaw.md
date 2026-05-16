@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 2
+- Всего ссылок: 3
 
 ## Ссылки
 
+- [OpenAI Models in OpenClaw, Done Right](https://openclaw.ai/blog/openai-models-in-openclaw-done-right/) [📖](https://read.readwise.io/read/01krmm262bmxbvvvq4vhhvax4e) 👤 OpenClaw Blog 💬 1357 🔖 #codex, #chatgpt, #openclaw 🗓️ 2026-05-15
+    > **Резюме:** OpenClaw now uses the Codex app-server to run OpenAI models more smoothly and efficiently. This change reduces prompt clutter, improves message delivery, and lets the model find and use tools only when needed. The update makes OpenClaw agents smarter, clearer, and easier to control across many chat platforms.
 - [OpenClaw Had a Rough Week](https://openclaw.ai/blog/openclaw-rough-week) [📖](https://read.readwise.io/read/01kqyfh8z168njfz6zcdznwbcp) 👤 Peter Steinberger 💬 393 🔖 #openclaw 🗓️ 2026-05-06
     > **Резюме:** OpenClaw had serious problems last week that slowed gateways and caused install issues. The team is making the core smaller and moving extra features to plugins to improve reliability and security. They are building a bigger team and will announce a stable long-term release soon.
 - [How I Created OpenClaw, the Breakthrough AI Agent | Peter Steinberger | TED](https://www.youtube.com/watch?v=7rzYDM6vMtI) [📖](https://read.readwise.io/read/01kq6s328zb7gpddkzxw76ps68) 👤 TED 🔖 #openclaw 🗓️ 2026-04-27

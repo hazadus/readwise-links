@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [OpenAI Models in OpenClaw, Done Right](https://openclaw.ai/blog/openai-models-in-openclaw-done-right/) [📖](https://read.readwise.io/read/01krmm262bmxbvvvq4vhhvax4e) 👤 OpenClaw Blog 💬 1357 🔖 #codex, #chatgpt, #openclaw 🗓️ 2026-05-15
+    > **Резюме:** OpenClaw now uses the Codex app-server to run OpenAI models more smoothly and efficiently. This change reduces prompt clutter, improves message delivery, and lets the model find and use tools only when needed. The update makes OpenClaw agents smarter, clearer, and easier to control across many chat platforms.
 - [Is Claude Code going to cost $100/month? Maybe, maybe not - it's all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything) [📖](https://read.readwise.io/read/01kpsf3pz6dzg2md44zmqpzspm) 👤 Simon Willison's Weblog 💬 939 🔖 #codex, #claude 🗓️ 2026-04-22
     > **Резюме:** Anthropic quietly tested moving Claude Code from the $20 plan to $100/month plans, causing confusion and anger. This change risks losing trust and pushing users toward competitors like OpenAI's Codex. The author hopes Anthropic will keep Claude Code affordable to maintain user loyalty and accessibility.
 - [Exploratory QA with AI Agents: Building a Site-Agnostic Harness](https://alexop.dev/posts/exploratory-qa-ai-agents-site-agnostic-harness/) [📖](https://read.readwise.io/read/01kpkpxp6w1s029akh17na8pr0) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2529 🔖 #codex, #agents, #claude, #testing, #frontend 🗓️ 2026-04-19

@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 100
+- Всего ссылок: 101
 
 ## Ссылки
 
+- [Stress Bragging: How Hustle Culture Glorifies Burnout](https://mypacifichealth.com/stress-bragging-how-hustle-culture-glorifies-burnout/) [📖](https://read.readwise.io/read/01krnb8wkv0w16tjx2m36nqymm) 👤 Jennifer Arnold 💬 1998 🗓️ 2026-05-15
+    > **Резюме:** Stress bragging is when people show off how busy and tired they are, making burnout seem like an achievement. Hustle culture pushes the idea that working nonstop equals success, but this can harm health and lower productivity. To stop stress bragging, we should value rest, set boundaries, and ask for help if burnout symptoms appear.
 - [[Golang] XML Parsing Example (6) - Parse OPML Concisely](https://siongui.github.io/2015/02/26/go-parse-opml-concisely/) [📖](https://read.readwise.io/read/01krk9wxf8xkvdrjtdqrp28vg1) 👤 Siong-Ui Te 💬 348 🗓️ 2026-05-14
     > **Резюме:** This post shows how to parse OPML XML files in Go more concisely using the ">" tag syntax. It combines nested structs into one by specifying element paths in struct tags. The example code reads and unmarshals an OPML file, then prints the outlines.
 - [Watching for file changes on macOS](https://alexwlchan.net/2026/watch-files-on-macos/) [📖](https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j) 👤 alexwlchan 💬 4675 🔖 #macos 🗓️ 2026-05-11

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T04:33:12.756866+00:00",
+  "generated_at": "2026-05-16T04:24:32.746814+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -931,6 +931,28 @@
         }
       },
       {
+        "id": "01krnb8wkv0w16tjx2m36nqymm",
+        "url": "https://read.readwise.io/read/01krnb8wkv0w16tjx2m36nqymm",
+        "source_url": "https://mypacifichealth.com/stress-bragging-how-hustle-culture-glorifies-burnout/",
+        "title": "Stress Bragging: How Hustle Culture Glorifies Burnout",
+        "author": "Jennifer Arnold",
+        "image_url": "https://mypacifichealth.com/wp-content/uploads/2024/11/Pacific-Health-Logo-1.png",
+        "word_count": 1998,
+        "summary": "Stress bragging is when people show off how busy and tired they are, making burnout seem like an achievement. Hustle culture pushes the idea that working nonstop equals success, but this can harm health and lower productivity. To stop stress bragging, we should value rest, set boundaries, and ask for help if burnout symptoms appear.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-15T08:15:29.403000+00:00",
+        "last_moved_at": "2026-05-15T08:15:42.119000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 1
+        }
+      },
+      {
         "id": "01kpzrr28fjd6a6pknn9d5hvt5",
         "url": "https://read.readwise.io/read/01kpzrr28fjd6a6pknn9d5hvt5",
         "source_url": "https://www.beyondlogic.org/usbnutshell/usb1.shtml",
@@ -1300,28 +1322,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
-        }
-      },
-      {
-        "id": "01km5fqgjckw8znfxbjqybrm3c",
-        "url": "https://read.readwise.io/read/01km5fqgjckw8znfxbjqybrm3c",
-        "source_url": "https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev",
-        "title": "The MacBook Neo",
-        "author": "Daring Fireball",
-        "image_url": "https://daringfireball.net/graphics/df-wide-card.png",
-        "word_count": 3347,
-        "summary": "The MacBook Neo is a $600 laptop with the same powerful chip as the latest iPhone 16 Pro. It offers strong performance, good build quality, and runs full MacOS, making it a great choice for new Mac users and those wanting a portable secondary computer. Despite some minor flaws, it outperforms many similarly priced laptops and serves as a solid alternative to tablets like the iPad.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-20T11:22:44.684000+00:00",
-        "last_moved_at": "2026-03-20T11:22:49.301000+00:00",
-        "published_date": "2026-03-10",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
         }
       }
     ],
@@ -5205,6 +5205,28 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 2
+        }
+      },
+      {
+        "id": "01krnb8wkv0w16tjx2m36nqymm",
+        "url": "https://read.readwise.io/read/01krnb8wkv0w16tjx2m36nqymm",
+        "source_url": "https://mypacifichealth.com/stress-bragging-how-hustle-culture-glorifies-burnout/",
+        "title": "Stress Bragging: How Hustle Culture Glorifies Burnout",
+        "author": "Jennifer Arnold",
+        "image_url": "https://mypacifichealth.com/wp-content/uploads/2024/11/Pacific-Health-Logo-1.png",
+        "word_count": 1998,
+        "summary": "Stress bragging is when people show off how busy and tired they are, making burnout seem like an achievement. Hustle culture pushes the idea that working nonstop equals success, but this can harm health and lower productivity. To stop stress bragging, we should value rest, set boundaries, and ask for help if burnout symptoms appear.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-15T08:15:29.403000+00:00",
+        "last_moved_at": "2026-05-15T08:15:42.119000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 1
         }
       }
     ],
@@ -10342,6 +10364,28 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
+        }
+      },
+      {
+        "id": "01krnb8wkv0w16tjx2m36nqymm",
+        "url": "https://read.readwise.io/read/01krnb8wkv0w16tjx2m36nqymm",
+        "source_url": "https://mypacifichealth.com/stress-bragging-how-hustle-culture-glorifies-burnout/",
+        "title": "Stress Bragging: How Hustle Culture Glorifies Burnout",
+        "author": "Jennifer Arnold",
+        "image_url": "https://mypacifichealth.com/wp-content/uploads/2024/11/Pacific-Health-Logo-1.png",
+        "word_count": 1998,
+        "summary": "Stress bragging is when people show off how busy and tired they are, making burnout seem like an achievement. Hustle culture pushes the idea that working nonstop equals success, but this can harm health and lower productivity. To stop stress bragging, we should value rest, set boundaries, and ask for help if burnout symptoms appear.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-15T08:15:29.403000+00:00",
+        "last_moved_at": "2026-05-15T08:15:42.119000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 1
         }
       },
       {

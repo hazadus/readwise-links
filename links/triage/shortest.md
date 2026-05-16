@@ -2,7 +2,7 @@
 
 _Короткие статьи (не туториалы, не основы), отсортированные по объёму_
 
-Сгенерировано: 2026-05-15 04:33 UTC · Статей: 30
+Сгенерировано: 2026-05-16 04:24 UTC · Статей: 30
 
 ## Статьи
 
@@ -41,6 +41,8 @@ Skip unit tests for UI rendering; test stable business logic, state, and reusabl
     > **Резюме:** Software development no longer follows fixed steps but relies on agents that write code, test, and deploy continuously. Humans guide the agents by providing context and reviewing complex decisions, while agents handle routine tasks and fix issues automatically. This shift enables faster, automated releases with minimal human intervention, changing how teams work and monitor software.
 - [What do coders do after AI?](https://www.anildash.com/2026/03/13/coders-after-ai/) [📖](https://read.readwise.io/read/01kkmj8cbrx3ybzn7sb68vz765) 👤 Anil Dash 💬 1721 ⭐ 3 🔖 #llm, #llm-devimpact 🗓️ 2026-03-13
     > **Резюме:** AI is changing coding by automating much of the work, which threatens many stable tech jobs. Some coders see this as a loss of craft, while others may adapt by focusing on guiding AI tools. The future depends on coders who care coming together to build new, ethical ways to work beyond big companies.
+- [Stress Bragging: How Hustle Culture Glorifies Burnout](https://mypacifichealth.com/stress-bragging-how-hustle-culture-glorifies-burnout/) [📖](https://read.readwise.io/read/01krnb8wkv0w16tjx2m36nqymm) 👤 Jennifer Arnold 💬 1998 ⭐ 1 🗓️ 2026-05-15
+    > **Резюме:** Stress bragging is when people show off how busy and tired they are, making burnout seem like an achievement. Hustle culture pushes the idea that working nonstop equals success, but this can harm health and lower productivity. To stop stress bragging, we should value rest, set boundaries, and ask for help if burnout symptoms appear.
 - [USB in a NutShell](https://www.beyondlogic.org/usbnutshell/usb1.shtml) [📖](https://read.readwise.io/read/01kpzrr28fjd6a6pknn9d5hvt5) 👤 beyondlogic.org 💬 2022 ⭐ 3 🔖 #usb 🗓️ 2026-04-24 · 🌲 вечнозелёное
     > **Резюме:** The USB standard can initially seem overwhelming due to its extensive documentation, but not all sections are essential to read thoroughly. For those designing USB peripherals, focusing on specific chapters like Architectural Overview, USB Data Flow Model, USB Device Frame Work, and USB Host Hardware and Software can provide the necessary insights. Understanding the different speeds, bus topology, architecture, and controller interfaces of USB is crucial for developing devices efficiently within the USB framework. The document also touches on the benefits of USB's tiered star topology, power monitoring capabilities, support for multiple devices, and the evolution of USB host controllers to accommodate increasing bandwidth demands.
 - [“Conviction Collapse” and the End of Software as We Know It](https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h) 👤 Tim O’Reilly 💬 2092 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-04-13
@@ -73,5 +75,3 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.
 - [The Software Industrial Revolution](https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw7mm8skajhhkmnf0tp4s1) 👤 cannoneyed.com 💬 3140 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.
-- [The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev) [📖](https://read.readwise.io/read/01km5fqgjckw8znfxbjqybrm3c) 👤 Daring Fireball 💬 3347 ⭐ 3 🗓️ 2026-03-20
-    > **Резюме:** The MacBook Neo is a $600 laptop with the same powerful chip as the latest iPhone 16 Pro. It offers strong performance, good build quality, and runs full MacOS, making it a great choice for new Mac users and those wanting a portable secondary computer. Despite some minor flaws, it outperforms many similarly priced laptops and serves as a solid alternative to tablets like the iPad.

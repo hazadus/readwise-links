@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-05-15 04:33 UTC · Статей: 51
+Сгенерировано: 2026-05-16 04:24 UTC · Статей: 52
 
 ## Статьи
 
@@ -113,6 +113,8 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** Роман «Псоглавцы» рассказывает о трёх молодых людях, которые исследуют таинственную деревню с необычными обычаями и легендами. Автор использует историю о святом Христофоре с собачьей головой, чтобы показать, как люди могут превращаться в зверей в сложных условиях. Книга сочетает элементы ужаса и социальной критики, отражая страхи современной России.
 - [Bypassing DPI with eBPF sock_ops](https://bora.sh/bypassing-dpi-with-ebpf/) [📖](https://read.readwise.io/read/01kqh31s3acyzhnmh2g9pmvpfb) 👤 Bora Tanrikulu 💬 13 ⭐ 2 🔖 #dpi 🗓️ 2026-05-01
     > **Резюме:** eBPF sock_ops, fake TLS packets, and why every platform needs a different hack
+- [Stress Bragging: How Hustle Culture Glorifies Burnout](https://mypacifichealth.com/stress-bragging-how-hustle-culture-glorifies-burnout/) [📖](https://read.readwise.io/read/01krnb8wkv0w16tjx2m36nqymm) 👤 Jennifer Arnold 💬 1998 ⭐ 1 🗓️ 2026-05-15
+    > **Резюме:** Stress bragging is when people show off how busy and tired they are, making burnout seem like an achievement. Hustle culture pushes the idea that working nonstop equals success, but this can harm health and lower productivity. To stop stress bragging, we should value rest, set boundaries, and ask for help if burnout symptoms appear.
 - [НА ГРАНИЦЕ ТУЧИ ХОДЯТ ХМУРО](https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/na-granicze-tuchi-xodyat-xmuro.html) [📖](https://read.readwise.io/read/01kqqewcvfk42cm35ywcb7b37b) 👤 ivanproduction.ru 💬 529 ⭐ 1 🗓️ 2026-05-03
     > **Резюме:** Издательство «Азбука» выпустило дебютный роман Алексея Маврина «Псоглавцы» с большой рекламной поддержкой. Книга рассказывает о столкновении двух миров — городской и отдалённой деревни с её простыми законами и страхами. Главная идея романа — сложно изменить привычный взгляд и перейти из одной реальности в другую.
 - [ТРИЛЛЕР О СОВРЕМЕННОЙ РУССКОЙ ДЕРЕВНЕ](https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/triller-o-sovremennoj-russkoj-derevne.html) [📖](https://read.readwise.io/read/01kqqetyjnxxaewfg26q0t5sa2) 👤 ivanproduction.ru 💬 460 ⭐ 1 🗓️ 2026-05-03

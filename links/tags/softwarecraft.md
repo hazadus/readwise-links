@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 50
+- Всего ссылок: 51
 
 ## Ссылки
 
+- [Programming is Easy, Software Engineering is Hard](https://blainsmith.com/articles/programming-is-easy-software-engineering-is-hard/) [📖](https://read.readwise.io/read/01krn2nkpm5r0zk52372bc36wk) 👤 Blain Smith 💬 655 🔖 #softwarecraft 🗓️ 2026-05-15
+    > **Резюме:** Programming itself is usually easy for skilled people because they know how to solve technical problems. Software engineering becomes hard when time limits and many different people with different goals get involved. The challenges come from managing meetings, priorities, and teamwork, not just writing code.
 - [Allergic to Unnecessary Complexity](https://blainsmith.com/articles/allergic-to-unnecessary-complexity/) [📖](https://read.readwise.io/read/01krjqw32rh9v230kep1pwh8f4) 👤 Blain Smith 💬 989 🔖 #softwarecraft 🗓️ 2026-05-14
     > **Заметка:** Очередной пост, снова всё в точку. Старая истина – одна из главных задач в разработке это управлние сложностью.
     > **Резюме:** Keep designs simple and avoid adding clever layers that only impress peers.  

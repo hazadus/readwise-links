@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 30
+- Всего ссылок: 31
 
 ## Ссылки
 
+- [Your Composable Is Lying About Errors](https://alexop.dev/posts/composables-result-type-error-handling/) [📖](https://read.readwise.io/read/01kr93s68k1q5g5fs436n2gqxy) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 1297 🔖 #vue 🗓️ 2026-05-10
+    > **Резюме:** Traditional Vue composables hide error details by using a generic error object, which makes handling specific failures hard. Instead, use a discriminated union Result type that clearly defines all possible errors and their data, letting the UI respond precisely. This approach improves type safety, simplifies error handling, and makes your app's error states easier to manage and update.
 - [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) [📖](https://read.readwise.io/read/01knymwy6b02avchen3gkmjr08) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11
     > **Резюме:** Claude Code and Agent Browser let you test web apps by controlling a real browser from the terminal without hardcoding selectors. Claude clicks, fills forms, and checks for errors, then gives a structured bug report. This setup runs locally and can be integrated into CI workflows for automated QA on pull requests.
 - [Vue 3 Testing Pyramid: A Practical Guide with Vitest Browser Mode](https://alexop.dev/posts/vue3_testing_pyramid_vitest_browser_mode/) [📖](https://read.readwise.io/read/01kcgfx6yvg65krrr77dfk7rv4) 👤 Alexander Opalic 💬 3336 🔖 #vue, #vitest, #testing 🗓️ 2025-12-15

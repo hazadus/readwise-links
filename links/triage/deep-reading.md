@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-05-15 04:33 UTC · Статей: 55
+Сгенерировано: 2026-05-16 04:24 UTC · Статей: 56
 
 ## Статьи
 
@@ -130,3 +130,5 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** WebAssembly is widely used to run code efficiently and securely in browsers and other environments, often as a compilation target for many languages. It is not replacing JavaScript but works behind the scenes to improve performance and enable new features. Its strength lies in security, portability, and embeddability rather than being a standalone language for building entire applications.
 - [How WebSockets Work](https://www.deepintodev.com/blog/how-websockets-work?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kba3nq8a8s1s81yz84qp2eqp) 👤 Kaan Peksen 💬 1697 ⭐ 2 🔖 #websocket 🗓️ 2025-11-30 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** WebSockets upgrade an HTTP connection to a persistent, full-duplex channel so server and client can send messages anytime. They shine for real-time apps like chat and multiplayer games but are stateful, harder to proxy and scale, and can be inefficient if you send large JSON frequently. Optimize by sending compact binary data and choose simpler options (EventSource or HTTP) when only server-to-client updates are needed.
+- [Stress Bragging: How Hustle Culture Glorifies Burnout](https://mypacifichealth.com/stress-bragging-how-hustle-culture-glorifies-burnout/) [📖](https://read.readwise.io/read/01krnb8wkv0w16tjx2m36nqymm) 👤 Jennifer Arnold 💬 1998 ⭐ 1 🗓️ 2026-05-15
+    > **Резюме:** Stress bragging is when people show off how busy and tired they are, making burnout seem like an achievement. Hustle culture pushes the idea that working nonstop equals success, but this can harm health and lower productivity. To stop stress bragging, we should value rest, set boundaries, and ask for help if burnout symptoms appear.
