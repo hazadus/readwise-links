@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1674
+- Всего ссылок: 1675
 
 ## Ссылки
 
+- [Done - Blain Smith](https://blainsmith.com/articles/done/) [📖](https://read.readwise.io/read/01krrvz3xrxmjn3acs44mnrvvp) 👤 Blain Smith 💬 503 🗓️ 2026-05-16
 - [Programming is Easy, Software Engineering is Hard](https://blainsmith.com/articles/programming-is-easy-software-engineering-is-hard/) [📖](https://read.readwise.io/read/01krn2nkpm5r0zk52372bc36wk) 👤 Blain Smith 💬 655 🔖 #softwarecraft 🗓️ 2026-05-15
 - [Towards Teaching](https://blainsmith.com/articles/towards-teaching/) [📖](https://read.readwise.io/read/01krn21kett95knj03kndbf75s) 👤 Blain Smith 💬 668 🗓️ 2026-05-15
 - [OpenAI Models in OpenClaw, Done Right](https://openclaw.ai/blog/openai-models-in-openclaw-done-right/) [📖](https://read.readwise.io/read/01krmm262bmxbvvvq4vhhvax4e) 👤 OpenClaw Blog 💬 1357 🔖 #codex, #chatgpt, #openclaw 🗓️ 2026-05-15
