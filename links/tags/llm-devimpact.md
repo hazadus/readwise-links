@@ -1,9 +1,30 @@
 # Ссылки
 
-- Всего ссылок: 108
+- Всего ссылок: 112
 
 ## Ссылки
 
+- [How I use LLMs as a staff engineer in 2026](https://seangoedecke.com/how-i-use-llms-in-2026/) [📖](https://read.readwise.io/read/01krsbx5w6wkv5xwmhzm8bte22) 👤 seangoedecke.com RSS feed 💬 1842 🔖 #llm-devimpact 🗓️ 2026-05-16
+    > **Резюме:** A bit over a year ago I wrote How I use LLMs as a staff engineer. Here’s a brief summary of what I used AI for last year:
+
+Smart autocomplete with Copilot
+Short tactical changes in areas I don’t know well (always reviewed by a SME)
+Writing lots of use-once-and-throwaway research code
+Asking lots of questions to learn about new topics (e.g. the Unity game engine)
+Last-resort bugfixes, just in case it can figure it out immediately
+Big-picture proofreading for long-form English communication
+
+Here are some tasks I explicitly didn’t use AI for last year:
+
+Writing whole PRs for me in areas I’m familiar with
+Writing ADRs or other technical communications
+Research in large codebases and finding out how things are done
+
+February 2025 was a long time ago. Back then the best model was the first reasoning model, OpenAI’s o1. Agents sort of worked, but would often get stuck or thrown off by compaction. What’s changed since then?
+Agents are good now
+The biggest change is that I now use LLMs to produce entire PRs in areas I’m familiar with. A year ago I would very occasionally ask an agent to make changes to a single file if it was a simple change I couldn’t be bothered typing out. Sometimes I would copy a function I wrote into a LLM chat window for feedback. But now I start every single change by asking an agent to solve the problem, and usually push the PR after a single editing pass.
+In late 2025 I used a lot of open VSCode windows. In early 2026, that changed to terminal tabs with the Copilot CLI, particularly when I needed to make changes across multiple repos at the same time. Now I use the GitHub Copilot app a lot (tens of sessions per day). 
+This reflects a shift from having to line-edit the agent basically as it went to only doing an editing pass right at the end. Early agents would go wrong a lot and not be able to recover, so it was valuable to keep an eye on their thought processes and step in to pause them and set them right. In my experience, current agents move ...
 - [Your Indispensable Value in the AI Era](https://larsfaye.com/articles/the-question-is-the-work) [📖](https://read.readwise.io/read/01kredz2xzashkvs6zdb2ghtm6) 👤 larsfaye.com 💬 1087 🔖 #llm-devimpact 🗓️ 2026-05-12
     > **Резюме:** In the age of AI, getting answers is easy, but asking the right questions remains crucial. Programmers must focus on refining questions to solve complex problems, as AI cannot think or question for them. The true skill is in critical thinking and using AI tools wisely to find clarity.
 - [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01krdhshryexbwy79jmq7qh6c7) 👤 rmoff.net 💬 1868 🔖 #llm-devimpact, #llm-resistance 🗓️ 2026-05-12
@@ -22,6 +43,8 @@ Via TLDR Web
 - [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout/) [📖](https://read.readwise.io/read/01krdbp3de22jcpy37j7wc4kpz) 👤 Ky Decker 💬 1959 🔖 #burnout, #llm-fatigue, #llm-devimpact 🗓️ 2026-05-12
     > **Заметка:** Via Wisereads
     > **Резюме:** The author feels burned out and uncertain about staying in tech due to overuse of AI and loss of meaningful work. They miss the industry's earlier values of care and creativity. Now, they are taking time to recover and rethink their future.
+- [Mythos finds a curl vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/) [📖](https://read.readwise.io/read/01krav8whk2h2hnssn02qk9jtb) 👤 Daniel Stenberg 💬 2041 🔖 #claude, #cybersecurity, #llm-devimpact 🗓️ 2026-05-11
+    > **Резюме:** yes, as in singular one. Back in April 2026 Anthropic caused a lot of media noise when they concluded that their new AI model Mythos is dangerously good at finding security flaws in source code. Apparently Mythos was so good at this that Anthropic would not release this model to the public yet but instead … Continue reading Mythos finds a curl vulnerability →
 - [Slow. The. F**k. Down.](https://codemanship.wordpress.com/2026/05/10/slow-the-fk-down/) [📖](https://read.readwise.io/read/01kr8k8bbhnv6ytn6vvk4xtc1q) 👤 codemanship 💬 720 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-05-10
     > **Резюме:** “Slow is smooth, and smooth is fast.” US Navy SEALS training mantra Another day, another data set telling us what we already knew. In the latest AI Engineering Report from Faros, the software development telemetry folks, they found from studying 22,000 developers working on more than 4,000 teams what they call an “acceleration whiplash” effect … Continue reading "Slow. The. F**k. Down."
 - [AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/) [📖](https://read.readwise.io/read/01kr4t5whsajkce6dmhszs4ad2) 👤 seangoedecke.com RSS feed 💬 1085 🔖 #learning, #llm-devimpact 🗓️ 2026-05-08
@@ -81,6 +104,7 @@ Via TLDR
     > **Заметка:** Какое-то неоднозначное впечатление от поста, но основной посыл верный: люди всё больше безоговорочно верят LLM, а те могут делать и грубые, и достаточно неочевидные ошибки. 
     > **Резюме:** Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say "I don't know," leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.
 - [Why Isn't Everything Different Yet?](https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dctz7gv9zqqkm3jxke3xf) 👤 Dave Griffith 💬 1791 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
+    > **Заметка:** Интересные мысли по поводу актуального вопроса – почему же И ещё всё не поменял? Но у меня возникает другой вопрос: где все то замечательное по, которое пишут день и ночь апологеты агентов? По-моему, сейчас оно все направлено как раз таки на работу с этими агентами ￼:)
     > **Резюме:** AI technology is impressive but changing everything takes time because systems, laws, and business models must be rebuilt from scratch. Software development is the first area transformed, but integrating AI widely requires millions of people to adapt workflows and trust the tools. Despite impatience, this transformation is happening very fast compared to past technologies and will soon feel much bigger.
 - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3bp2e1c7t54bkz8f1sqz05) 👤 Janko 💬 1093 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
     > **Резюме:** The internet used to be open and full of shared ideas, but now big companies control it and make it risky to show your thoughts. AI makes creating things easier, but it also lets big platforms copy and absorb your ideas quickly, so staying quiet feels safer. This "cognitive dark forest" means your innovations feed the system that threatens you, making hiding and sharing both dangerous.
@@ -138,6 +162,9 @@ Thanks to Natalie Cainaru, Jeremy Andrews and Gábor Hojtsy for reviewing my dra
     > **Резюме:** AI tools like ChatGPT did not cause software engineering job losses; the downturn began earlier due to economic shifts and rising interest rates. Despite fears, companies are still hiring software engineers and the profession is growing. Job market changes follow a boom-and-bust cycle, and demand for developers is expected to recover over time.
 - [Interactive explanations - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything) [📖](https://read.readwise.io/read/01kjnj82gcwdvav84h6ge7efnq) 👤 Simon Willison 💬 501 🔖 #llm, #cognitivedebt, #llm-devimpact 🗓️ 2026-03-01
     > **Резюме:** Understanding complex code can be hard and cause "cognitive debt." Interactive explanations, like animated walkthroughs, help make tricky ideas clearer. Using AI tools, the author learned how a word cloud algorithm works by seeing it step-by-step in an animation.
+- [The Software Development Lifecycle Is Dead](https://boristane.com/blog/the-software-development-lifecycle-is-dead/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw5d83t9105hqzkean823b) 👤 Boris Tane 💬 1702 🔖 #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-01
+    > **Заметка:** Слишком позитивный взгляд на работу с агентами от чувака который работал в Cloudflare. Есть интересные мысли, но в целом взгляд не разделяю. ￼
+    > **Резюме:** Software development no longer follows fixed steps but relies on agents that write code, test, and deploy continuously. Humans guide the agents by providing context and reviewing complex decisions, while agents handle routine tasks and fix issues automatically. This shift enables faster, automated releases with minimal human intervention, changing how teams work and monitor software.
 - [No Skill. No Taste.](https://blog.kinglycrow.com/no-skill-no-taste/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmvx4gbenqm1wyjz7jjf7vp) 👤 The Crow's Nest 💬 839 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** Many people overestimate their skill and taste when building apps, especially with easy tools like LLMs. Taste matters a lot because it helps ideas stand out, even if the app is simple or imperfect. Without skill and taste, the tech scene gets flooded with low-quality, unoriginal projects.
 - [Software development now costs less than than the wage of a minimum wage worker](https://ghuntley.com/real/) [📖](https://read.readwise.io/read/01kjffam94bxy0fvgrs23jzpc9) 👤 Geoffrey Huntley 💬 2223 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-02-27
@@ -201,6 +228,9 @@ Thanks to Natalie Cainaru, Jeremy Andrews and Gábor Hojtsy for reviewing my dra
     > **Резюме:** A study found that using AI to write code can speed up work but may reduce how much you learn. People who retyped AI code did not get faster or learn more, but those who used AI smartly worked 25% faster with little loss in knowledge. Overall, AI helps deliver results quicker, but it may change how software engineers learn and work over time.
 - [AI creates asymmetric pressure on Open Source](https://dri.es/ai-creates-asymmetric-pressure-on-open-source) [📖](https://read.readwise.io/read/01kg83yt4byj5f4m9dzff9v22m) 👤 Dries Buytaert 💬 1591 🔖 #llm, #foss, #llm-devimpact 🗓️ 2026-01-30
     > **Резюме:** AI makes it easier to contribute to Open Source but creates more work for maintainers who must check quality. Some projects, like curl, face many low-value AI-generated reports, causing stress and burnout. With care and testing, AI can help maintainers, but protecting them is the top priority.
+- [Swimming Naked in AI-Generated Code](https://davegriffith.substack.com/p/swimming-naked-in-ai-generated-code) [📖](https://read.readwise.io/read/01kg52xnkndzq1t428p64ycpa8) 👤 Dave Griffith 💬 2215 🔖 #cognitivedebt, #llm-devimpact 🗓️ 2026-01-29
+    > **Заметка:** Поддерживаю тезисы о том, что необходимо полностью понимать весь код. ￼Считаю, что критические части лучше писать "руками", даже если используется подсказки LLM - ￼ так будет лучшее владение кодом. ￼
+    > **Резюме:** AI helps developers write code faster but can cause confusion if they don't understand the code they create. Developers must explain and review AI-generated code carefully to stay oriented and responsible. True skill comes from using AI to learn, not just to get answers quickly.
 - [Writing Code May Be Dead (Not Really), But Reading Code Will Live On](https://codemanship.wordpress.com/2026/01/29/writing-code-may-be-dead-not-really-but-reading-code-will-live-on/) [📖](https://read.readwise.io/read/01kg52t76vzcpckwsnzprc8q51) 👤 Codemanship's Blog 💬 518 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-29
     > **Резюме:** Writing code with AI is getting faster, but errors in AI-generated code mean we still need to read and understand it carefully. The best way to stay good at understanding code is to keep writing it regularly. If we don’t, serious bugs can slip through, and no one will know how to fix them.
 - [Stay away from my trash!](https://tldraw.dev/blog/stay-away-from-my-trash?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kg1np1hsb5gty25s514m23gq) 👤 tldraw.dev 💬 1601 🔖 #github, #llm-devimpact, #joyandcuriosity 🗓️ 2026-01-28

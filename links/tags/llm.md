@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 453
+- Всего ссылок: 452
 
 ## Ссылки
 
@@ -55,6 +55,7 @@ They save money and offer flexibility, though top cloud models can still be stro
     > **Заметка:** Какое-то неоднозначное впечатление от поста, но основной посыл верный: люди всё больше безоговорочно верят LLM, а те могут делать и грубые, и достаточно неочевидные ошибки. 
     > **Резюме:** Large Language Models (LLMs) generate text by predicting likely word sequences but often produce false or misleading information. They lack true understanding and cannot reliably say "I don't know," leading to frequent mistakes and lies. Despite rapid advances, these AI systems remain unpredictable and should be used with caution.
 - [Why Isn't Everything Different Yet?](https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dctz7gv9zqqkm3jxke3xf) 👤 Dave Griffith 💬 1791 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
+    > **Заметка:** Интересные мысли по поводу актуального вопроса – почему же И ещё всё не поменял? Но у меня возникает другой вопрос: где все то замечательное по, которое пишут день и ночь апологеты агентов? По-моему, сейчас оно все направлено как раз таки на работу с этими агентами ￼:)
     > **Резюме:** AI technology is impressive but changing everything takes time because systems, laws, and business models must be rebuilt from scratch. Software development is the first area transformed, but integrating AI widely requires millions of people to adapt workflows and trust the tools. Despite impatience, this transformation is happening very fast compared to past technologies and will soon feel much bigger.
 - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3bp2e1c7t54bkz8f1sqz05) 👤 Janko 💬 1093 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
     > **Резюме:** The internet used to be open and full of shared ideas, but now big companies control it and make it risky to show your thoughts. AI makes creating things easier, but it also lets big platforms copy and absorb your ideas quickly, so staying quiet feels safer. This "cognitive dark forest" means your innovations feed the system that threatens you, making hiding and sharing both dangerous.
@@ -83,8 +84,6 @@ They save money and offer flexibility, though top cloud models can still be stro
     > **Резюме:** AI is changing coding by automating much of the work, which threatens many stable tech jobs. Some coders see this as a loss of craft, while others may adapt by focusing on guiding AI tools. The future depends on coders who care coming together to build new, ethical ways to work beyond big companies.
 - [Zen of AI Coding](https://nonstructured.com/zen-of-ai-coding/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kkeavycs9gd3ty05sxhrtt5c) 👤 Yoav Aviram 💬 1912 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-11
     > **Резюме:** AI coding agents are changing software development by making writing code cheaper and faster. Humans now focus on guiding agents, managing context, and ensuring quality and security. Building flexible, agent-friendly systems is key to the future of software and product design.
-- [Things I've done with AI](https://sjer.red/blog/2026/built-with-ai/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kkeac4cvcpn0vb4y9v0pmwgt) 👤 Jerred Shepherd 💬 1067 🔖 #llm 🗓️ 2026-03-11
-    > **Резюме:** Jerred Shepherd loves programming and has used AI tools to build many projects without writing code himself. He learned to trust AI to write working code, focusing on problem-solving rather than perfect code style. Although AI makes programming faster, he sees challenges in testing and documentation that need better tools.
 - [Developing Taste](https://emilkowal.ski/ui/developing-taste?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kke1ch7btawy6ba1dzc9rqkb) 👤 Emil Kowalski 💬 416 🔖 #llm, #llm-devimpact 🗓️ 2026-03-11
     > **Резюме:** Good taste is a trained skill, not just personal preference. To develop it, study great work and think deeply about why it feels right. Practice your craft and seek feedback to improve over time.
 - [GNU and the AI reimplementations](https://antirez.com/news/162) [📖](https://read.readwise.io/read/01kkc0eh0q3bgqm6pwpjzwz7ak) 👤 antirez.com 💬 2141 🔖 #llm 🗓️ 2026-03-10

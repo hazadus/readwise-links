@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 8
 
 ## Ссылки
 
+- [[Golang] XML Parsing Example (6) - Parse OPML Concisely](https://siongui.github.io/2015/02/26/go-parse-opml-concisely/) [📖](https://read.readwise.io/read/01krk9wxf8xkvdrjtdqrp28vg1) 👤 Siong-Ui Te 💬 348 🔖 #go, #tutorial 🗓️ 2026-05-14
+    > **Заметка:** Хорошая, хотя и старая, подборка по парсингу OPML и rss. 
+    > **Резюме:** This post shows how to parse OPML XML files in Go more concisely using the ">" tag syntax. It combines nested structs into one by specifying element paths in struct tags. The example code reads and unmarshals an OPML file, then prints the outlines.
 - [How to Use SQLite with Go](https://oneuptime.com/blog/post/2026-02-02-sqlite-go/view) [📖](https://read.readwise.io/read/01krjfk27w689w5528jf4a5dc9) 👤 OneUptime 💬 6052 🔖 #go, #sqlite, #tutorial 🗓️ 2026-05-14
     > **Заметка:** Очень калорийный туториал, все важные темы покрыты. Проработать.
     > **Резюме:** This text explains how to set up and use SQLite with Go, including configuring the database and defining tables for users, projects, and tasks. It shows how to initialize the database schema and use SQL features like foreign keys and indexes for better performance. The guide also suggests best practices like using migrations and prepared statements for production applications.

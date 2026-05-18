@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 37
+- Всего ссылок: 38
 
 ## Ссылки
 
+- [The Pulse: AI load breaks GitHub – why not other vendors?](https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/) [📖](https://read.readwise.io/read/01kr1v3jgjed7fdx4738g9n5k1) 👤 Gergely Orosz 💬 2411 🔖 #github 🗓️ 2026-05-07
+    > **Резюме:** GitHub has faced many outages recently, causing big problems for developers and companies. The main reason is unexpected huge growth in demand, which GitHub was not ready for. Other services and self-hosted options are more reliable right now.
 - [GitHub is sinking](https://dbushell.com/2026/04/29/github-is-sinking/) [📖](https://read.readwise.io/read/01kqch3x7gg1tvawsb43rthcfn) 👤 dbushell.com (all feeds) 💬 699 🔖 #github 🗓️ 2026-04-29
     > **Резюме:** TL;DR: GitHub used to be cool and now it’s a lame slop graveyard. GitHub is racing towards the mythical zero nines of uptime. Users are starting to notice that GitHub is now a Microsoft product. Eww! Official uptime paints a concerning chart. The missing status page tell a far worse story. […]
 - [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) [📖](https://read.readwise.io/read/01kqbt811v3r140mdwb78kw6cb) 👤 Mitchell Hashimoto 💬 823 🔖 #github 🗓️ 2026-04-29

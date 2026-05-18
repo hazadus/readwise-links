@@ -2,7 +2,7 @@
 
 _Короткие интересные статьи (до 800 слов), не туториалы_
 
-Сгенерировано: 2026-05-17 04:35 UTC · Статей: 9
+Сгенерировано: 2026-05-18 04:41 UTC · Статей: 6
 
 ## Статьи
 
@@ -19,11 +19,5 @@ _Короткие интересные статьи (до 800 слов), не т
 - [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) [📖](https://read.readwise.io/read/01k0p04qds3k7b6mxrrfggvpt2) 👤 Andrej Karpathy ⭐ 3 🔖 #llm 🗓️ 2025-07-21 · 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/6943ed14-aa58-8326-8cc0-ec43eaf689dchttps://chatgpt.com/c/6943f78f-c1f0-832f-b8c3-7acaf54f0500
     > **Резюме:** You can use open-weight language models through inference providers like Together.AI. Together.AI offers a playground where you can try many different open models. Finding basic models is less common on these platforms.
-- [Алексей Иванов](https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/sobachi-serdcza.html) [📖](https://read.readwise.io/read/01kqqevpskax3a70rvmhpeyram) 👤 ivanproduction.ru 💬 714 ⭐ 2 🗓️ 2026-05-03
-    > **Резюме:** Роман «Псоглавцы» рассказывает о трёх молодых людях, которые исследуют таинственную деревню с необычными обычаями и легендами. Автор использует историю о святом Христофоре с собачьей головой, чтобы показать, как люди могут превращаться в зверей в сложных условиях. Книга сочетает элементы ужаса и социальной критики, отражая страхи современной России.
 - [Bypassing DPI with eBPF sock_ops](https://bora.sh/bypassing-dpi-with-ebpf/) [📖](https://read.readwise.io/read/01kqh31s3acyzhnmh2g9pmvpfb) 👤 Bora Tanrikulu 💬 13 ⭐ 2 🔖 #dpi 🗓️ 2026-05-01
     > **Резюме:** eBPF sock_ops, fake TLS packets, and why every platform needs a different hack
-- [НА ГРАНИЦЕ ТУЧИ ХОДЯТ ХМУРО](https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/na-granicze-tuchi-xodyat-xmuro.html) [📖](https://read.readwise.io/read/01kqqewcvfk42cm35ywcb7b37b) 👤 ivanproduction.ru 💬 529 ⭐ 1 🗓️ 2026-05-03
-    > **Резюме:** Издательство «Азбука» выпустило дебютный роман Алексея Маврина «Псоглавцы» с большой рекламной поддержкой. Книга рассказывает о столкновении двух миров — городской и отдалённой деревни с её простыми законами и страхами. Главная идея романа — сложно изменить привычный взгляд и перейти из одной реальности в другую.
-- [ТРИЛЛЕР О СОВРЕМЕННОЙ РУССКОЙ ДЕРЕВНЕ](https://ivanproduction.ru/reczenzii/psoglavczyi-komyuniti/triller-o-sovremennoj-russkoj-derevne.html) [📖](https://read.readwise.io/read/01kqqetyjnxxaewfg26q0t5sa2) 👤 ivanproduction.ru 💬 460 ⭐ 1 🗓️ 2026-05-03
-    > **Резюме:** «Псоглавцы» — роман Алексея Маврина о конфликте двух миров в современной русской деревне. В книге смешаны мистические элементы и социальная критика, показывающие разделение России на разные «зоны». Текст интересен своей атмосферой, но перегружен деталями и имеет сюжетные недочеты.

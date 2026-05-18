@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [macOS Apprentice: 3rd Edition](https://troz.net/post/2026/macos-apprentice-update-3/) [📖](https://read.readwise.io/read/01krj56gxhk6324atz4bgpp3cn) 👤 Sarah Reichelt 💬 757 🔖 #book, #macos, #swift 🗓️ 2026-05-14
+    > **Заметка:** Надо взять эту книгу на карандаш. Поискать её копию.
+    > **Резюме:** The third edition of macOS Apprentice teaches beginners how to build Mac apps using Swift, SwiftUI, and AppKit. It includes updated content for the latest software and guides readers step-by-step with examples and illustrations. The book helps you create real, complete apps while learning essential macOS programming skills.
 - [Scheduling and handling background app refresh in SwiftUI](https://nilcoalescing.com/blog/SchedulingAndHandlingBackgroundAppRefreshInSwiftUI) [📖](https://read.readwise.io/read/01kqvh87591fv2n3jry28c1jyw) 👤 Nil Coalescing 💬 1056 🔖 #swift 🗓️ 2026-05-05
     > **Резюме:** Configure a SwiftUI app to schedule and handle a background fetch task using the Background Tasks framework and the backgroundTask(_:action:) SwiftUI modifier.
 - [Overview of the onChange() modifier in SwiftUI](https://nilcoalescing.com/blog/OverviewOfonChangeInSwiftUI) [📖](https://read.readwise.io/read/01kqaq4ydz8v1f257c60qq6jxh) 👤 Nil Coalescing 💬 913 🔖 #swift 🗓️ 2026-04-28

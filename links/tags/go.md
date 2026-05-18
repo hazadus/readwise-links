@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 258
+- Всего ссылок: 260
 
 ## Ссылки
 
+- [Starting Systems Programming, Pt 1: Programmers Write Programs](https://eblog.fly.dev/startingsystems1.html?utm_source=christophberger&utm_medium=email&utm_campaign=2026-05-17-it-works-but-why) [📖](https://read.readwise.io/read/01krwn5xzt5ncgf86fdmjehwkk) 👤 Efron Licht 💬 8129 🔖 #go 🗓️ 2026-05-18
+    > **Резюме:** The article explores systems programming by examining what a program is and how to interact with its data. It includes practical exercises using Go programs and bash scripts to read, write, and manipulate binary data. The goal is to understand programming fundamentals and build tools to analyze programs effectively.
+- [[Golang] XML Parsing Example (6) - Parse OPML Concisely](https://siongui.github.io/2015/02/26/go-parse-opml-concisely/) [📖](https://read.readwise.io/read/01krk9wxf8xkvdrjtdqrp28vg1) 👤 Siong-Ui Te 💬 348 🔖 #go, #tutorial 🗓️ 2026-05-14
+    > **Заметка:** Хорошая, хотя и старая, подборка по парсингу OPML и rss. 
+    > **Резюме:** This post shows how to parse OPML XML files in Go more concisely using the ">" tag syntax. It combines nested structs into one by specifying element paths in struct tags. The example code reads and unmarshals an OPML file, then prints the outlines.
 - [How to Use SQLite with Go](https://oneuptime.com/blog/post/2026-02-02-sqlite-go/view) [📖](https://read.readwise.io/read/01krjfk27w689w5528jf4a5dc9) 👤 OneUptime 💬 6052 🔖 #go, #sqlite, #tutorial 🗓️ 2026-05-14
     > **Заметка:** Очень калорийный туториал, все важные темы покрыты. Проработать.
     > **Резюме:** This text explains how to set up and use SQLite with Go, including configuring the database and defining tables for users, projects, and tasks. It shows how to initialize the database schema and use SQL features like foreign keys and indexes for better performance. The guide also suggests best practices like using migrations and prepared statements for production applications.
@@ -25,7 +30,8 @@
     > **Резюме:** A Go slice is a small header pointing to a backing array, and slices can share memory until one grows and copies the data. Maps use a directory and tables with groups of slots to store key/value pairs efficiently, splitting tables as they grow. Channels have a circular buffer and queues of waiting goroutines, handling sends and receives smoothly even when the buffer is full or empty.
 - [Understanding the Go Runtime: The Network Poller](https://internals-for-interns.com/posts/go-netpoller/?utm_source=christophberger&utm_medium=email&utm_campaign=2026-04-26-not-magic) [📖](https://read.readwise.io/read/01kqehj6aqfvy5ftqn9fatzj8q) 👤 Jesús Espino 💬 4703 🔖 #go 🗓️ 2026-04-30
     > **Резюме:** Go’s runtime manages network I/O by asking the kernel if data is ready and putting goroutines to sleep instead of blocking OS threads. When data arrives, the kernel notifies the runtime, which wakes the right goroutine to continue work. This system lets Go efficiently handle many network tasks without wasting threads.
-- [Building Containers From Scratch in Go: Namespaces](https://blog.iamvedant.in/containers-are-not-magic-namespaces-from-scratch) [📖](https://read.readwise.io/read/01kqehfdjmc965hcyzhrrnf9zh) 👤 blog.iamvedant.in 💬 3477 🔖 #go 🗓️ 2026-04-30
+- [Building Containers From Scratch in Go: Namespaces](https://blog.iamvedant.in/containers-are-not-magic-namespaces-from-scratch) [📖](https://read.readwise.io/read/01kqehfdjmc965hcyzhrrnf9zh) 👤 blog.iamvedant.in 💬 3477 🔖 #go, #linux 🗓️ 2026-04-30
+    > **Заметка:** Тема интересная, но материал показался слабым. 
     > **Резюме:** Docker uses containers to run programs isolated from the host system by using Linux kernel features called namespaces and cgroups. In this tutorial, a container is built in Go to run a shell with its own process tree and filesystem, showing how isolation works. This isolation keeps the container's processes and resources separate, just like Docker does.
 - [Error translation in Go services](https://rednafi.com/go/error-translation/) [📖](https://read.readwise.io/read/01knzzj4wnhpzzykwdr7tpjek4) 👤 Redowan's Reflections 💬 2281 🔖 #go, #architecture, #errorhandling 🗓️ 2026-04-12
     > **Резюме:** Translating errors at layer boundaries so storage details don't leak into the handler or, worse, into client responses.

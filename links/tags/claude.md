@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 34
+- Всего ссылок: 35
 
 ## Ссылки
 
+- [Mythos finds a curl vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/) [📖](https://read.readwise.io/read/01krav8whk2h2hnssn02qk9jtb) 👤 Daniel Stenberg 💬 2041 🔖 #claude, #cybersecurity, #llm-devimpact 🗓️ 2026-05-11
+    > **Резюме:** yes, as in singular one. Back in April 2026 Anthropic caused a lot of media noise when they concluded that their new AI model Mythos is dangerously good at finding security flaws in source code. Apparently Mythos was so good at this that Anthropic would not release this model to the public yet but instead … Continue reading Mythos finds a curl vulnerability →
 - [Thoughts and Feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/) [📖](https://read.readwise.io/read/01kq6rzkp8vkyh8aj1ah9ngd76) 👤 samhenri.gold 💬 1230 🔖 #claude, #joyandcuriosity 🗓️ 2026-04-27
     > **Заметка:** Пример того, что сейчас все более актуальны открытые для агентов системы. 
 

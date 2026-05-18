@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 19
+- Всего ссылок: 20
 
 ## Ссылки
 
+- [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) [📖](https://read.readwise.io/read/01krp5as0q2jqrzc2afhn7rm0q) 👤 Julia Evans 💬 1572 🔖 #css 🗓️ 2026-05-15
+    > **Резюме:** Julia Evans moved away from Tailwind to write more semantic HTML and structured vanilla CSS. She organizes CSS by components with clear rules to avoid conflicts and copies useful parts from Tailwind like resets and variables. This change lets her use CSS features more freely and maintain cleaner, easier-to-understand code.
 - [Squash and Stretch](https://www.joshwcomeau.com/animation/squash-and-stretch/) [📖](https://read.readwise.io/read/01kp3krh1pjhbemz69pnxdac1c) 👤 Josh W. Comeau 💬 1457 🔖 #css, #animation 🗓️ 2026-04-13
     > **Резюме:** The squash and stretch animation technique makes objects look more lively by changing their shape during motion. Josh Comeau shows how to use this effect on SVG arrows for web interactions, using CSS or JavaScript for smooth transitions. He also offers a course called Whimsical Animations to teach advanced animation skills for web developers.
 - [Intro to CSS 3D transforms](https://3dtransforms.desandro.com/) [📖](https://read.readwise.io/read/01kgq03f8qbdtt95hvek827f1d) 👤 desandro.com 💬 460 🔖 #css, #try 🗓️ 2026-02-05

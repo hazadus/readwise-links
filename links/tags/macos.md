@@ -1,12 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 45
+- Всего ссылок: 47
 
 ## Ссылки
 
+- [Explainer: QuickLook](https://eclecticlight.co/2026/05/16/explainer-quicklook/) [📖](https://read.readwise.io/read/01krqt61655jt1jj21g7rsctzm) 👤 hoakley 💬 1017 🔖 #macos 🗓️ 2026-05-16
+    > **Резюме:** From the first image thumbnails around 35 years ago, the Mac has delivered better thumbnails and previews of documents, most recently using QuickLook. Here's how it works, and how it can fail.
 - [The Emacsification of Software](https://sockpuppet.org/blog/2026/05/12/emacsification/) [📖](https://read.readwise.io/read/01krjehsqmtg94je4ssm3tfq2w) 👤 Quarrelsome 💬 1677 🔖 #macos, #personalsoftware 🗓️ 2026-05-14
     > **Заметка:** Прямо в точку моих текущих интересов. Больше таких постов! Via HackerNews
     > **Резюме:** The author built a better Markdown viewer using AI that improved reading comfort and usability on macOS. This new approach shows how personal, AI-assisted software creation is becoming easier and more common, like customizing Emacs. The future of software will see more simple, native apps made quickly for specific needs, making development more fun and personal.
+- [macOS Apprentice: 3rd Edition](https://troz.net/post/2026/macos-apprentice-update-3/) [📖](https://read.readwise.io/read/01krj56gxhk6324atz4bgpp3cn) 👤 Sarah Reichelt 💬 757 🔖 #book, #macos, #swift 🗓️ 2026-05-14
+    > **Заметка:** Надо взять эту книгу на карандаш. Поискать её копию.
+    > **Резюме:** The third edition of macOS Apprentice teaches beginners how to build Mac apps using Swift, SwiftUI, and AppKit. It includes updated content for the latest software and guides readers step-by-step with examples and illustrations. The book helps you create real, complete apps while learning essential macOS programming skills.
 - [Does iCloud Drive now lose almost all metadata?](https://eclecticlight.co/2026/05/11/does-icloud-drive-now-lose-almost-all-metadata/) [📖](https://read.readwise.io/read/01kraxs6ea694cejp41gy74jne) 👤 hoakley 💬 882 🔖 #macos 🗓️ 2026-05-11
     > **Резюме:** What happens when you move a file with metadata attached in extended attributes to iCloud Drive? Which of those are preserved when you access that file from another Mac?
 - [Watching for file changes on macOS](https://alexwlchan.net/2026/watch-files-on-macos/) [📖](https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j) 👤 alexwlchan 💬 4675 🔖 #macos 🗓️ 2026-05-11

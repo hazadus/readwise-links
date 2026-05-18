@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 41
+- Всего ссылок: 43
 
 ## Ссылки
 
+- [macOS Apprentice: 3rd Edition](https://troz.net/post/2026/macos-apprentice-update-3/) [📖](https://read.readwise.io/read/01krj56gxhk6324atz4bgpp3cn) 👤 Sarah Reichelt 💬 757 🔖 #book, #macos, #swift 🗓️ 2026-05-14
+    > **Заметка:** Надо взять эту книгу на карандаш. Поискать её копию.
+    > **Резюме:** The third edition of macOS Apprentice teaches beginners how to build Mac apps using Swift, SwiftUI, and AppKit. It includes updated content for the latest software and guides readers step-by-step with examples and illustrations. The book helps you create real, complete apps while learning essential macOS programming skills.
 - [Книга: «Антипаттерны PostgreSQL и как их избежать»](https://habr.com/ru/companies/piter/articles/1028468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog) [📖](https://read.readwise.io/read/01kre77pc92np6b62j1v2pefga) 👤 ph_piter (Издательский дом «Питер») 💬 463 🔖 #book, #postgresql 🗓️ 2026-05-12
     > **Заметка:** Выглядит любопытно, надо взять на заметку.
     > **Резюме:** Привет, Хаброжители!  Исправление ошибок в базах данных PostgreSQL может быть трудоемким и рискованным процессом — особенно при внесении изменений в работающую систему в реальном времени. К счастью, можно учиться на ошибках, которые уже совершили другие! Автор подробно описывает, как выявлять и предотвращать самые распространенные, опасные и скрытые антипаттерны проектирования при работе с PostgreSQL.  Читать далее
@@ -32,6 +35,8 @@
     > **Резюме:** Software development is done feature by feature, allowing for early delivery of value. Teams discuss and prioritize high-value features to ensure effective use of time and resources. This iterative approach leads to continuous improvement and a better final product.
 - [Getting Real](http://gettingreal.37signals.com/) [📖](https://read.readwise.io/read/01k0y1vj3chjv20pfb9vrn68dz) 👤 basecamp.com 💬 426 🔖 #book 🗓️ 2025-07-24
     > **Резюме:** "Getting Real" by 37signals is a valuable resource for anyone creating a web app, offering simple insights and unique ideas. It focuses on practical approaches to software design rather than technical details. Readers from various backgrounds, including entrepreneurs and designers, will find inspiration in its unconventional wisdom.
+- [Mind Management, Not Time Management](private://read/01jy2bx4yjy7cc3fb6cs5zy8ma) [📖](https://read.readwise.io/read/01jy2bx4yjy7cc3fb6cs5zy8ma) 👤 David Kadavy 💬 72204 🔖 #book 🗓️ 2025-06-18
+    > **Резюме:** David Kadavy emphasizes the importance of managing mental states over time when working on creative projects. He identifies seven mental states and encourages finding a "Creative Sweet Spot" for when to generate ideas. By experimenting with focused time, especially in the morning, you can enhance creativity and productivity.
 - [Оптимизация Запросов В Postgresql](https://readwise.io/reader/document_raw_content/33757448) [📖](https://read.readwise.io/read/01jy11ac8jpd6fyyyydq45vjw9) 👤 Домбровская Г, Новиков Б, Бейликова А 💬 61368 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
 - [Postgresql. Профессиональный SQL](https://readwise.io/reader/document_raw_content/324141976) [📖](https://read.readwise.io/read/01jy1157ae1pcb35m51cwyqqk9) 👤 Евгений Моргунов 💬 98953 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
     > **Резюме:** The text discusses using statistical functions in PostgreSQL to analyze flight delays and ticket sales for an airline. It emphasizes the importance of accurate data and decision-making methods, such as the Pareto principle, in understanding financial patterns. Additionally, it covers optimizing query performance by accurately estimating the number of rows returned by functions in the database.

@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 19
+- Всего ссылок: 20
 
 ## Ссылки
 
+- [Stateless Life](https://smsk.dev/2026/05/15/stateless-life/) [📖](https://read.readwise.io/read/01krqj4n7r3931ekwkc36rx29y) 👤 devsimsek 💬 794 🔖 #reflections 🗓️ 2026-05-16
+    > **Заметка:** Чувствуется, что автору было очень одиноко, когда он это писал. Очевидно, что код не заменит семью и тёплые отношения. ￼Всегда нужно помнить об этом. ￼
+    > **Резюме:** A reflection on using software architecture as a coping mechanism for life's unpredictability and heartbreak.
+description: When human relationships fail, developers retreat to code. Here's an analysis of the dopamine loop of shipping features versus processing real-world emotional state.
+The post Stateless Life appeared first on devsimsek's Blog.
 - [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) [📖](https://read.readwise.io/read/01km7x25zxarc1en3k9th82k59) 👤 Armin Ronacher 💬 1169 🔖 #reflections, #llm-devimpact 🗓️ 2026-03-21
     > **Резюме:** Some things, like trees or strong projects, need a long time to grow well. Trying to rush or remove all delays can harm quality and trust. True value comes from patience, commitment, and steady effort over years.
 - [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) [📖](https://read.readwise.io/read/01kk8nynvqvgrzf8dzfxty6wyw) 👤 Cate Hall 💬 1788 🔖 #burnout, #reflections 🗓️ 2026-03-09
