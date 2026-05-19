@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [How I Write HTTP Servers](https://blainsmith.com/articles/how-i-write-http-servers/) [📖](https://read.readwise.io/read/01krx0p4wy86e8yzytm0yfe3y0) 👤 Blain Smith 💬 2333 🔖 #go, #api, #rest 🗓️ 2026-05-18
+    > **Резюме:** The author shares a simple way to write HTTP servers by creating functions that return handlers with injected dependencies. They emphasize testing only the HTTP logic using in-memory tools and layering middleware for features like logging and authorization. This approach helps keep code clean, testable, and easy to maintain.
 - [Don’t Build A General Purpose API To Power Your Own Front End](https://max.engineer/server-informed-ui) [📖](https://read.readwise.io/read/01k73w1eq26ggk1wf30vh5c10a) 👤 Max Chernyak 💬 1366 🔖 #api 🗓️ 2025-10-09
     > **Резюме:** The author argues against designing a general-purpose API to power one's own front end. They claim that it is unnecessary and introduces a number of challenges in terms of designing, testing, and changing the API. Instead, they suggest treating the front end as a half of the app and sending it a whole "page" worth of JSON. They argue that this approach frees up the front-end team to focus on presentation and UI, while the backend team can focus on implementing exactly what is needed.
 - [Everything I know about good API design](https://seangoedecke.com/good-api-design/) [📖](https://read.readwise.io/read/01k3genw3a1e4am8884cgxtjgk) 👤 seangoedecke.com 💬 3865 🔖 #api, #toot, #webdev, #programming 🗓️ 2025-08-25

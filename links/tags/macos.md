@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 47
+- Всего ссылок: 49
 
 ## Ссылки
 
+- [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/) [📖](https://read.readwise.io/read/01krwtd8jrdgxqffpm1szxnd50) 👤 Artem Loenko 💬 615 🔖 #macos, #swift 🗓️ 2026-05-18
+    > **Заметка:** Честный взгляд от нативного macOS разработчика. Не думал, что у SwiftUI/Appkit столько ограничений... Via HN
+    > **Резюме:** Native Apple tools like SwiftUI and TextKit struggle with complex text tasks like Markdown chat. Web-based frameworks and Electron handle rich text better and perform well. For modern chat apps, native SDKs often limit rather than help development.
 - [Explainer: QuickLook](https://eclecticlight.co/2026/05/16/explainer-quicklook/) [📖](https://read.readwise.io/read/01krqt61655jt1jj21g7rsctzm) 👤 hoakley 💬 1017 🔖 #macos 🗓️ 2026-05-16
     > **Резюме:** From the first image thumbnails around 35 years ago, the Mac has delivered better thumbnails and previews of documents, most recently using QuickLook. Here's how it works, and how it can fail.
 - [The Emacsification of Software](https://sockpuppet.org/blog/2026/05/12/emacsification/) [📖](https://read.readwise.io/read/01krjehsqmtg94je4ssm3tfq2w) 👤 Quarrelsome 💬 1677 🔖 #macos, #personalsoftware 🗓️ 2026-05-14
@@ -33,6 +36,8 @@
     > **Резюме:** Virtualising macOS, Linux and Windows on Intel Macs has been relatively straightforward, and device support left to the developer. That won't work for Apple silicon Macs. This explains what happens, its strengths and limitations as a result.
 - [Finder comments, steganography and malware](https://eclecticlight.co/2026/04/28/finder-comments-steganography-and-malware/) [📖](https://read.readwise.io/read/01kqaq4w6kjvn2znvpyq42v3mg) 👤 hoakley 💬 670 🔖 #macos 🗓️ 2026-04-28
     > **Резюме:** Finder comments in macOS are stored in two places, making them unreliable and easy to lose. Some malware can hide harmful code in file metadata like Finder comments or extended attributes to avoid detection. Using extended attributes directly is safer and less visible, but many antivirus tools may not check them well.
+- [Explainer: Network file systems](https://eclecticlight.co/2026/04/25/explainer-network-file-systems/) [📖](https://read.readwise.io/read/01kq1qvcw1ftk6sw7h27tzjwp4) 👤 hoakley 💬 762 🔖 #macos 🗓️ 2026-04-25
+    > **Резюме:** Network file systems like AFP and SMB let Macs access files over a network instead of local storage. AFP was the main Mac network protocol until 2013, when SMB became the standard despite some limitations with special Mac file features. Both have challenges with newer APFS file types, causing inefficiencies in file sharing.
 - [OpenAI Unveils Codex “Superapp” Update with Computer Use, Automations, Built-In Browser, and More](https://www.macstories.net/news/openai-unveils-codex-superapp-update-with-computer-use-automations-built-in-browser-and-more/) [📖](https://read.readwise.io/read/01kpbkwm7bxfgg7qtqjb0768ry) 👤 John Voorhees 💬 1044 🔖 #codex, #macos 🗓️ 2026-04-16
     > **Резюме:** OpenAI updated Codex to do more than coding by adding tools for productivity, automations, and a built-in browser. The app can now control desktop apps, use many plugins, and learn user preferences to offer smart suggestions. These features aim to help users manage tasks and work more efficiently in one app.
 - [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) [📖](https://read.readwise.io/read/01kntwvm2kv55qz9tt3dtct2p1) 👤 Arhan Chaudhary 💬 542 🔖 #toot, #macos, #swift 🗓️ 2026-04-10

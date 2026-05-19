@@ -1,9 +1,17 @@
 # Архивные ссылки
 
-- Всего ссылок: 1685
+- Всего ссылок: 1695
 
 ## Ссылки
 
+- [How I Write HTTP Servers](https://blainsmith.com/articles/how-i-write-http-servers/) [📖](https://read.readwise.io/read/01krx0p4wy86e8yzytm0yfe3y0) 👤 Blain Smith 💬 2333 🔖 #go, #api, #rest 🗓️ 2026-05-18
+- [The just-say-no engineer was a ZIRP phenomenon](https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/) [📖](https://read.readwise.io/read/01krwv30mpby27rh9zmv6ka9zp) 👤 seangoedecke.com RSS feed 💬 1648 🔖 #llm-devimpact 🗓️ 2026-05-18
+- [Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/) [📖](https://read.readwise.io/read/01krwthf8z953x0y9pbfh9br3s) 👤 Addy Osmani 💬 1405 🔖 #learning, #llm-reality, #llm-devimpact 🗓️ 2026-05-18
+    > **Заметка:** Очень честный взгляд на продуктивность VS. обучение. Нужно эти тезисы себе прям в табличке над столом вывешивать. Via HN
+- [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/) [📖](https://read.readwise.io/read/01krwtd8jrdgxqffpm1szxnd50) 👤 Artem Loenko 💬 615 🔖 #macos, #swift 🗓️ 2026-05-18
+    > **Заметка:** Честный взгляд от нативного macOS разработчика. Не думал, что у SwiftUI/Appkit столько ограничений... Via HN
+- [Slop Creep: The Great Enshittification of Software](https://boristane.com/blog/slop-creep-enshittification-of-software/) [📖](https://read.readwise.io/read/01krv6c0rkp6kcnw82f0cmet4q) 👤 Boris Tane 💬 1389 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-05-17
+    > **Заметка:** Если сократить пост до одного предложения: с агентом или без, нужно не торопиться и тщательно выстраивать систему, а не бездумно напихивать фичи.
 - [How I use LLMs as a staff engineer in 2026](https://seangoedecke.com/how-i-use-llms-in-2026/) [📖](https://read.readwise.io/read/01krsbx5w6wkv5xwmhzm8bte22) 👤 seangoedecke.com RSS feed 💬 1842 🔖 #llm-devimpact 🗓️ 2026-05-16
 - [Done - Blain Smith](https://blainsmith.com/articles/done/) [📖](https://read.readwise.io/read/01krrvz3xrxmjn3acs44mnrvvp) 👤 Blain Smith 💬 503 🗓️ 2026-05-16
 - [Explainer: QuickLook](https://eclecticlight.co/2026/05/16/explainer-quicklook/) [📖](https://read.readwise.io/read/01krqt61655jt1jj21g7rsctzm) 👤 hoakley 💬 1017 🔖 #macos 🗓️ 2026-05-16
@@ -22,6 +30,8 @@
     > **Заметка:** Очень калорийный туториал, все важные темы покрыты. Проработать.
 - [The Emacsification of Software](https://sockpuppet.org/blog/2026/05/12/emacsification/) [📖](https://read.readwise.io/read/01krjehsqmtg94je4ssm3tfq2w) 👤 Quarrelsome 💬 1677 🔖 #macos, #personalsoftware 🗓️ 2026-05-14
     > **Заметка:** Прямо в точку моих текущих интересов. Больше таких постов! Via HackerNews
+- [macOS Apprentice: 3rd Edition](https://troz.net/post/2026/macos-apprentice-update-3/) [📖](https://read.readwise.io/read/01krj56gxhk6324atz4bgpp3cn) 👤 Sarah Reichelt 💬 757 🔖 #book, #macos, #swift 🗓️ 2026-05-14
+    > **Заметка:** Надо взять эту книгу на карандаш. Поискать её копию.
 - [I Don't Care](https://blainsmith.com/articles/i-dont-care/) [📖](https://read.readwise.io/read/01krgmcb6mj1r15yf16hpahqvw) 👤 Blain Smith 💬 1207 🔖 #softwarecraft 🗓️ 2026-05-13
 - [Software Engineering Discipline and Posture](https://blainsmith.com/articles/software-engineering-discipline-and-posture/) [📖](https://read.readwise.io/read/01krgkqaee8r5zgfea8r4vpeq2) 👤 Blain Smith 💬 656 🔖 #softwarecraft 🗓️ 2026-05-13
     > **Заметка:** Полностью соответствует и моим ценностям, готов подписаться под каждым предложением!
@@ -115,10 +125,13 @@ Via Readwise newsletter, Via JoyAndCuriosity
     > **Заметка:** Via HackerNews
 - [It's OK to Use Coding Assistance Tools To Revive The Projects You Never Were Going To Finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/) [📖](https://read.readwise.io/read/01kq4a4gbe0cawx2hvwqz008r4) 👤 Matthew Brunelle's Blog 💬 1405 🗓️ 2026-04-26
     > **Заметка:** Интересный проект, жаль мне не подходит - не слушаю музыку через YouTube. Но - прекрасный пример персонального софта. Via HackerNews
+- [A Modern Quality Pipeline and Testing Strategy for Frontend Projects](https://alexop.dev/posts/modern-frontend-quality-pipeline/) [📖](https://read.readwise.io/read/01kq2k3gnqeh877w7kgfrnzs8a) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 3222 🔖 #try, #testing, #frontend 🗓️ 2026-04-25
+    > **Заметка:** Продуманная, подробная система тестирования фронтенда на всех уровнях. Для использования при работе над проектами со сложным фронтом.
 - [Updates to my AI Coding Workflow](https://refactoring.fm/p/updates-to-my-ai-coding-workflow) [📖](https://read.readwise.io/read/01kq21zexz2k3n54a2yswfc1pf) 👤 Luca Rossi 💬 1432 🗓️ 2026-04-25
 - [On sabotaging projects by overthinking](https://kevinlynagh.com/newsletter/2026_04_overthinking/) [📖](https://read.readwise.io/read/01kq1zz1y6tfjxjk03b2k9h9q0) 👤 kevinlynagh.com 💬 2614 🔖 #softwarecraft 🗓️ 2026-04-25
     > **Заметка:** Via HackerNews
 - [Opus 4.7](https://ampcode.com/news/opus-4.7) [📖](https://read.readwise.io/read/01kq1z7rfpfew9gde3qd52d9ve) 👤 Amp News 💬 506 🔖 #amp 🗓️ 2026-04-25
+- [Explainer: Network file systems](https://eclecticlight.co/2026/04/25/explainer-network-file-systems/) [📖](https://read.readwise.io/read/01kq1qvcw1ftk6sw7h27tzjwp4) 👤 hoakley 💬 762 🔖 #macos 🗓️ 2026-04-25
 - [Software engineering may no longer be a lifetime career](https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/) [📖](https://read.readwise.io/read/01kpz68am3sp579pkf7ggym4gy) 👤 seangoedecke.com RSS feed 💬 849 🔖 #llm-devimpact 🗓️ 2026-04-24
 - [The Hottest AI Coding Skill In 2026? Coding Without AI](https://codemanship.wordpress.com/2026/04/24/the-hottest-ai-skill-in-2026-coding-without-ai/) [📖](https://read.readwise.io/read/01kpz61hzmjwwbcnwxnkhkms5z) 👤 codemanship 💬 606 🔖 #predictions, #llm-devimpact 🗓️ 2026-04-24
 - [I don't want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kpz5e2tbx8wy0nw6sqbjr1zh) 👤 dpc.pw 💬 846 🔖 #foss, #llm-devimpact 🗓️ 2026-04-24
@@ -159,6 +172,7 @@ Via HackerNews
     > **Заметка:** Интересные мысли по поводу актуального вопроса – почему же И ещё всё не поменял? Но у меня возникает другой вопрос: где все то замечательное по, которое пишут день и ночь апологеты агентов? По-моему, сейчас оно все направлено как раз таки на работу с этими агентами ￼:)
 - [I Am a Cross-Cutting Concern](https://scottlawsonbc.com/post/monorepo) [📖](https://read.readwise.io/read/01kp3by8wbvfkvzb5v915nng9n) 👤 Scott Lawson 💬 1792 🔖 #pkm 🗓️ 2026-04-13
 - [A Dot a Day Keeps the Clutter Away](https://scottlawsonbc.com/post/dot-system?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3brjneqymrj0t46kwssqp5) 👤 Scott Lawson 💬 2201 🔖 #homelab, #joyandcuriosity 🗓️ 2026-04-13
+- [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3bp2e1c7t54bkz8f1sqz05) 👤 Janko 💬 1093 🔖 #predictions, #llm-devimpact, #llm-resistance, #joyandcuriosity 🗓️ 2026-04-13
 - [The surprising attention on sprites, exe.dev, and shellbox](https://lalitm.com/trying-sprites-exedev-shellbox/) [📖](https://read.readwise.io/read/01kp3asncgtm5g4knnzfy1dyy4) 👤 Lalit Maganti 💬 1676 🗓️ 2026-04-13
 - [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp39s0d68a0dcrrsg0d1p3a4) 👤 John Rush’s Blog 💬 1477 🔖 #fun, #llm 🗓️ 2026-04-13
 - [Error translation in Go services](https://rednafi.com/go/error-translation/) [📖](https://read.readwise.io/read/01knzzj4wnhpzzykwdr7tpjek4) 👤 Redowan's Reflections 💬 2281 🔖 #go, #architecture, #errorhandling 🗓️ 2026-04-12
@@ -186,6 +200,8 @@ Via HackerNews
 - [Working on products people hate](https://seangoedecke.com/working-on-products-people-hate/) [📖](https://read.readwise.io/read/01kms2jy8ycdb58yc22naxwrr6) 👤 seangoedecke.com RSS feed 💬 1014 🔖 #career 🗓️ 2026-03-28
 - [Vibe coding SwiftUI apps is a lot of fun](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything) [📖](https://read.readwise.io/read/01kmrhmb5nhkkbrfmwzzkxayn5) 👤 Simon Willison's Weblog 💬 932 🔖 #macos, #swift 🗓️ 2026-03-27
 - [The SwiftUI Way: patterns and anti-patterns for production apps](https://nilcoalescing.com/blog/TheSwiftUIWayReleaseAnnouncement/) [📖](https://read.readwise.io/read/01kmn11k1cbp4kwpak4t6dk1s9) 👤 Natalia Panferova 💬 344 🔖 #book, #swift 🗓️ 2026-03-26
+- [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) [📖](https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt) 👤 mariozechner.at 💬 2368 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-03-26
+    > **Заметка:** Честный взгляд на влияние агентов на индустрию от чувака, который сам делает популярного агента Pi. Интересно, чем всё это закончится через год? Пять лет?..
 - [Платные LLM против локальной модели на бытовом ноутбуке — велика ли разница?](https://www.youtube.com/watch?v=1GEML055VNE) [📖](https://read.readwise.io/read/01kmmzv4cx4zp70y8jc8f3nxwg) 👤 Диджитализируй! 🔖 #llm 🗓️ 2026-03-26
 - [Engineers do get promoted for writing simple code](https://seangoedecke.com/simple-work-gets-rewarded/) [📖](https://read.readwise.io/read/01kmmpd622qk4525snnjns9gb9) 👤 seangoedecke.com RSS feed 💬 1034 🔖 #career 🗓️ 2026-03-26
 - [Astro Crash Course #1 - Why Astro? (& Setup)](https://www.youtube.com/watch?v=CF3drb6H3Yw) [📖](https://read.readwise.io/read/01kmj0r2exn2mvgj6hhnkjqjzx) 👤 Net Ninja 🔖 #astro 🗓️ 2026-03-25
@@ -347,7 +363,7 @@ Via HackerNews
 - [How does AI impact skill formation?](https://seangoedecke.com/how-does-ai-impact-skill-formation/) [📖](https://read.readwise.io/read/01kga5frmv6fy72a6kkaevv334) 👤 seangoedecke.com 💬 1419 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-31
 - [Moltbook is the most interesting place on the internet right now](https://simonwillison.net/2026/Jan/30/moltbook/#atom-everything) [📖](https://read.readwise.io/read/01kg84334vyw0ps18tben5z0rn) 👤 Simon Willison 💬 1092 🗓️ 2026-01-30
 - [AI creates asymmetric pressure on Open Source](https://dri.es/ai-creates-asymmetric-pressure-on-open-source) [📖](https://read.readwise.io/read/01kg83yt4byj5f4m9dzff9v22m) 👤 Dries Buytaert 💬 1591 🔖 #llm, #foss, #llm-devimpact 🗓️ 2026-01-30
-- [Swimming Naked in AI-Generated Code](https://davegriffith.substack.com/p/swimming-naked-in-ai-generated-code) [📖](https://read.readwise.io/read/01kg52xnkndzq1t428p64ycpa8) 👤 Dave Griffith 💬 2215 🔖 #cognitivedebt, #llm-devimpact 🗓️ 2026-01-29
+- [Swimming Naked in AI-Generated Code](https://davegriffith.substack.com/p/swimming-naked-in-ai-generated-code) [📖](https://read.readwise.io/read/01kg52xnkndzq1t428p64ycpa8) 👤 Dave Griffith 💬 2215 🔖 #llm-reality, #cognitivedebt, #llm-devimpact 🗓️ 2026-01-29
     > **Заметка:** Поддерживаю тезисы о том, что необходимо полностью понимать весь код. ￼Считаю, что критические части лучше писать "руками", даже если используется подсказки LLM - ￼ так будет лучшее владение кодом. ￼
 - [Writing Code May Be Dead (Not Really), But Reading Code Will Live On](https://codemanship.wordpress.com/2026/01/29/writing-code-may-be-dead-not-really-but-reading-code-will-live-on/) [📖](https://read.readwise.io/read/01kg52t76vzcpckwsnzprc8q51) 👤 Codemanship's Blog 💬 518 🔖 #llm, #learning, #llm-devimpact 🗓️ 2026-01-29
 - [Книга «Go: разработка приложений в микросервисной архитектуре с нуля»](https://habr.com/ru/companies/bhv_publishing/articles/987722/#habracut) [📖](https://read.readwise.io/read/01kg52rqc1b2bjfkcm6bvz6p05) 👤 BHV_publishing 💬 624 🔖 #go, #book, #microservices 🗓️ 2026-01-29

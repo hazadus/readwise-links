@@ -2,7 +2,7 @@
 
 _Фундаментальные материалы с долгосрочной ценностью_
 
-Сгенерировано: 2026-05-18 04:41 UTC · Статей: 34
+Сгенерировано: 2026-05-19 04:36 UTC · Статей: 30
 
 ## Статьи
 
@@ -11,11 +11,6 @@ _Фундаментальные материалы с долгосрочной �
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) [📖](https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7) 👤 Redowan Delowar 💬 1179 ⭐ 9 🔖 #go, #patterns 🗓️ 2025-08-04 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/694438ad-68b0-832f-91bf-a2c4f204944e
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
-- [macOS Apprentice: 3rd Edition](https://troz.net/post/2026/macos-apprentice-update-3/) [📖](https://read.readwise.io/read/01krj56gxhk6324atz4bgpp3cn) 👤 Sarah Reichelt 💬 757 ⭐ 9 🔖 #book, #macos, #swift 🗓️ 2026-05-14 · 🛠️ туториал, 🧠 основы
-    > **Заметка:** Надо взять эту книгу на карандаш. Поискать её копию.
-    > **Резюме:** The third edition of macOS Apprentice teaches beginners how to build Mac apps using Swift, SwiftUI, and AppKit. It includes updated content for the latest software and guides readers step-by-step with examples and illustrations. The book helps you create real, complete apps while learning essential macOS programming skills.
-- [ИИ для самых маленьких: как работает LLM и ИИ-агент](https://www.youtube.com/watch?v=sSAIC8GQRe8) [📖](https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j) 👤 Диджитализируй! ⭐ 9 🔖 #llm 🗓️ 2026-04-22 · 🧠 основы, 🌲 вечнозелёное
-    > **Резюме:** Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.
 - [Starting Systems Programming, Pt 1: Programmers Write Programs](https://eblog.fly.dev/startingsystems1.html?utm_source=christophberger&utm_medium=email&utm_campaign=2026-05-17-it-works-but-why) [📖](https://read.readwise.io/read/01krwn5xzt5ncgf86fdmjehwkk) 👤 Efron Licht 💬 8129 ⭐ 8 🔖 #go 🗓️ 2026-05-18 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** The article explores systems programming by examining what a program is and how to interact with its data. It includes practical exercises using Go programs and bash scripts to read, write, and manipulate binary data. The goal is to understand programming fundamentals and build tools to analyze programs effectively.
 - [Eight Software Markets AI That Will Transform Differently](https://davegriffith.substack.com/p/eight-software-markets-ai-that-will) [📖](https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt) 👤 Dave Griffith 💬 2917 ⭐ 8 🔖 #llm 🗓️ 2026-01-12 · 🧠 основы
@@ -29,8 +24,6 @@ _Фундаментальные материалы с долгосрочной �
     > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.
 - [The secret life of the xattr](https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/) [📖](https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1) 👤 hoakley 💬 1905 ⭐ 8 🗓️ 2026-04-24 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.
-- [Programming languages for AI](https://blog.ploeh.dk/2026/03/30/programming-languages-for-ai/) [📖](https://read.readwise.io/read/01kndptghaxk924qaqr7pc3zmx) 👤 Mark Seemann 💬 1289 ⭐ 8 🗓️ 2026-04-05 · 🧠 основы, 🌲 вечнозелёное
-    > **Резюме:** Programming languages for AI should do more than be human-readable; they must ensure portability, security, and verifiability. Strong static type systems and built-in guardrails help prevent errors and make code safer, especially for machine-generated software. Future AI-focused languages should prioritize these features over ease of writing to enable trustworthy, verifiable code.
 - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3) 👤 ngrok 💬 78 ⭐ 8 🔖 #llm, #explorable, #joyandcuriosity 🗓️ 2025-12-21 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/6947a45b-3860-8331-a302-0c3a55ab5594
     > **Резюме:** Prompt caching stores and reuses parts of LLM requests to avoid repeating work. This cuts token usage and cost by up to tenfold. It requires tracking inputs, outputs, and cache validity to stay correct.
@@ -62,8 +55,6 @@ _Фундаментальные материалы с долгосрочной �
     > **Резюме:** German Strings use a single 128-bit layout to represent any string.  
 Strings of 12 or fewer characters are stored inline; longer strings store a length, a pointer, and a four-character prefix for fast checks.  
 They are immutable and support persistent, transient, and temporary storage classes to cut copies and speed reads, but appending is costly and lifetimes must be managed.
-- [Explainer: Network file systems](https://eclecticlight.co/2026/04/25/explainer-network-file-systems/) [📖](https://read.readwise.io/read/01kq1qvcw1ftk6sw7h27tzjwp4) 👤 hoakley 💬 762 ⭐ 5 🗓️ 2026-04-25 · 🧠 основы, 🌲 вечнозелёное
-    > **Резюме:** Network file systems like AFP and SMB let Macs access files over a network instead of local storage. AFP was the main Mac network protocol until 2013, when SMB became the standard despite some limitations with special Mac file features. Both have challenges with newer APFS file types, causing inefficiencies in file sharing.
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/?utm_source=tldrwebdev) [📖](https://read.readwise.io/read/01k6kdznqz4fc7p58vmn2vgbg0) 👤 kunststube.net 💬 6587 ⭐ 4 🔖 #shortlist 🗓️ 2025-10-02 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/6943f891-8688-8333-9150-757fa91f79b9https://chatgpt.com/c/69440d92-d190-8325-96c1-f00f5ad6d742
     > **Резюме:** To work with text in computers, understanding encodings and character sets is essential. Unicode is a standard that unifies different encoding schemes, like UTF-8 and UTF-16, which represent characters using varying numbers of bits. It's important to specify the encoding used for text, as incorrect handling can lead to unreadable documents.

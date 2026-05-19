@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 16
+- Всего ссылок: 17
 
 ## Ссылки
 
+- [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/) [📖](https://read.readwise.io/read/01krwtd8jrdgxqffpm1szxnd50) 👤 Artem Loenko 💬 615 🔖 #macos, #swift 🗓️ 2026-05-18
+    > **Заметка:** Честный взгляд от нативного macOS разработчика. Не думал, что у SwiftUI/Appkit столько ограничений... Via HN
+    > **Резюме:** Native Apple tools like SwiftUI and TextKit struggle with complex text tasks like Markdown chat. Web-based frameworks and Electron handle rich text better and perform well. For modern chat apps, native SDKs often limit rather than help development.
 - [macOS Apprentice: 3rd Edition](https://troz.net/post/2026/macos-apprentice-update-3/) [📖](https://read.readwise.io/read/01krj56gxhk6324atz4bgpp3cn) 👤 Sarah Reichelt 💬 757 🔖 #book, #macos, #swift 🗓️ 2026-05-14
     > **Заметка:** Надо взять эту книгу на карандаш. Поискать её копию.
     > **Резюме:** The third edition of macOS Apprentice teaches beginners how to build Mac apps using Swift, SwiftUI, and AppKit. It includes updated content for the latest software and guides readers step-by-step with examples and illustrations. The book helps you create real, complete apps while learning essential macOS programming skills.

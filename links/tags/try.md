@@ -1,12 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 72
+- Всего ссылок: 73
 
 ## Ссылки
 
 - [Building Go APIs with Huma, sqlc, and Goose](https://blainsmith.com/articles/building-go-apis-with-huma-slqc-and-goose/) [📖](https://read.readwise.io/read/01krggyk2tk1s6tawtxavh736y) 👤 Blain Smith 💬 1692 🔖 #go, #try 🗓️ 2026-05-13
     > **Заметка:** Любопытный стек. Классно, что инструменты дополняют друг друга, не мешая и не закрывая собой общую картину. Надо бы попробовать при случае.
     > **Резюме:** This stack uses Goose for database migrations, sqlc to generate type-safe Go code from SQL, and Huma to create typed HTTP APIs with automatic OpenAPI specs. You write plain SQL for schema and queries, and the tools handle generating Go code and docs. This approach keeps the code simple, reviewable, and easy for new engineers to understand quickly.
+- [A Modern Quality Pipeline and Testing Strategy for Frontend Projects](https://alexop.dev/posts/modern-frontend-quality-pipeline/) [📖](https://read.readwise.io/read/01kq2k3gnqeh877w7kgfrnzs8a) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 3222 🔖 #try, #testing, #frontend 🗓️ 2026-04-25
+    > **Заметка:** Продуманная, подробная система тестирования фронтенда на всех уровнях. Для использования при работе над проектами со сложным фронтом.
+    > **Резюме:** A modern frontend quality pipeline uses fast tools like Vite+, Oxlint, and Vitest to catch bugs early and run tests efficiently. It splits checks by cost and stage, from editor to CI and preview deployments, ensuring consistent quality across teams. This approach combines types, linting, unit, component, and end-to-end tests with automation to keep code reliable and easy to maintain.
 - [Courier: real-time messaging for ESP32 with batteries included (new library)](https://interconnected.org/home/2026/04/21/courier) [📖](https://read.readwise.io/read/01kpx8339m6cx9jbj00p2st6qx) 👤 Interconnected 💬 859 🔖 #try, #esp32 🗓️ 2026-04-23
     > **Заметка:** Нужно пробовать и прошивку из поста, и девайс!
     > **Резюме:** Courier is a new library that makes real-time messaging easy on ESP32 devices using JSON over websockets. It includes built-in Wi-Fi setup, automatic reconnects, and time sync to keep connections stable. Many developers use Courier with popular ESP32 gadgets like the M5Stick to quickly build interactive hardware projects.

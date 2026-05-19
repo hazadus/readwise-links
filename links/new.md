@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 941
+- Всего ссылок: 944
 
 ## Ссылки
 
+- [RFC 760:  DoD standard Internet Protocol](https://www.rfc-editor.org/rfc/rfc760.html) [📖](https://read.readwise.io/read/01krx09xj8hcm7v3rjp101ed5b) 👤 rfc-editor.org 💬 9170 🗓️ 2026-05-18
+- [User Datagram Protocol](https://www.rfc-editor.org/rfc/rfc768.html) [📖](https://read.readwise.io/read/01krx087mtr0hb1cqabm06brje) 👤 J. Postel 💬 458 🗓️ 2026-05-18
 - [Production MTProto user-бот на FastAPI + Telethon: WARP для обхода DPI и 5 граблей с Telegram](https://habr.com/ru/articles/1034612/) [📖](https://read.readwise.io/read/01krjgdqv7ngsa8wmp6xptqg1h) 👤 viktdo 💬 2712 🔖 #bot, #dpi, #fastapi, #userbot, #telegram 🗓️ 2026-05-14
 - [Read the Fucking Manual](https://blainsmith.com/articles/read-the-fucking-manual/) [📖](https://read.readwise.io/read/01krgk064dxmvz31zr124hztg3) 👤 Blain Smith 💬 1577 🔖 #softwarecraft 🗓️ 2026-05-13
 - [Your Composable Is Lying About Errors](https://alexop.dev/posts/composables-result-type-error-handling/) [📖](https://read.readwise.io/read/01kr93s68k1q5g5fs436n2gqxy) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 1297 🔖 #vue 🗓️ 2026-05-10
@@ -11,6 +13,7 @@
 - [Redis array type: short story of a long development](http://antirez.com/news/164) [📖](https://read.readwise.io/read/01kqsp5v74es5v7nyz2ftr33dp) 👤 <antirez> 💬 829 🗓️ 2026-05-04
 - [How to Write UI Components That Stay Flexible](https://alexop.dev/posts/compound-components-in-vue-shadcn/) [📖](https://read.readwise.io/read/01kqmm2pwkmy1zv0s4fh011ycg) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 4490 🗓️ 2026-05-02
 - [Scroll-Driven Animations](https://www.joshwcomeau.com/animation/scroll-driven-animations/) [📖](https://read.readwise.io/read/01kqaq4x2hsy61c77vcxa536zz) 👤 Josh W. Comeau 💬 2936 🗓️ 2026-04-28
+- [ИИ для самых маленьких: как работает LLM и ИИ-агент](https://www.youtube.com/watch?v=sSAIC8GQRe8) [📖](https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j) 👤 Диджитализируй! 🔖 #llm 🗓️ 2026-04-22
 - [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) [📖](https://read.readwise.io/read/01knymwy6b02avchen3gkmjr08) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11
 - [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) [📖](https://read.readwise.io/read/01knhde7wg4mcx47qc2k368z0k) 👤 Ivan Grishaev's blog 💬 7191 🔖 #book, #postgresql 🗓️ 2026-04-06
 - [Getting Real](https://readwise.io/reader/document_raw_content/2844630) [📖](https://read.readwise.io/read/01kkspgf8s81ww3t6v257fepfc) 👤 Basecamp 💬 29339 🗓️ 2026-03-15

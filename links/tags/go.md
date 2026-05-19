@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 260
+- Всего ссылок: 261
 
 ## Ссылки
 
+- [How I Write HTTP Servers](https://blainsmith.com/articles/how-i-write-http-servers/) [📖](https://read.readwise.io/read/01krx0p4wy86e8yzytm0yfe3y0) 👤 Blain Smith 💬 2333 🔖 #go, #api, #rest 🗓️ 2026-05-18
+    > **Резюме:** The author shares a simple way to write HTTP servers by creating functions that return handlers with injected dependencies. They emphasize testing only the HTTP logic using in-memory tools and layering middleware for features like logging and authorization. This approach helps keep code clean, testable, and easy to maintain.
 - [Starting Systems Programming, Pt 1: Programmers Write Programs](https://eblog.fly.dev/startingsystems1.html?utm_source=christophberger&utm_medium=email&utm_campaign=2026-05-17-it-works-but-why) [📖](https://read.readwise.io/read/01krwn5xzt5ncgf86fdmjehwkk) 👤 Efron Licht 💬 8129 🔖 #go 🗓️ 2026-05-18
     > **Резюме:** The article explores systems programming by examining what a program is and how to interact with its data. It includes practical exercises using Go programs and bash scripts to read, write, and manipulate binary data. The goal is to understand programming fundamentals and build tools to analyze programs effectively.
 - [[Golang] XML Parsing Example (6) - Parse OPML Concisely](https://siongui.github.io/2015/02/26/go-parse-opml-concisely/) [📖](https://read.readwise.io/read/01krk9wxf8xkvdrjtdqrp28vg1) 👤 Siong-Ui Te 💬 348 🔖 #go, #tutorial 🗓️ 2026-05-14

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T04:41:10.435975+00:00",
+  "generated_at": "2026-05-19T04:36:03.372899+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -159,72 +159,6 @@
         "published_date": "2025-08-03",
         "triage": {
           "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01krj56gxhk6324atz4bgpp3cn",
-        "url": "https://read.readwise.io/read/01krj56gxhk6324atz4bgpp3cn",
-        "source_url": "https://troz.net/post/2026/macos-apprentice-update-3/",
-        "title": "macOS Apprentice: 3rd Edition",
-        "author": "Sarah Reichelt",
-        "image_url": "https://troz.net/favicon.ico",
-        "word_count": 757,
-        "summary": "The third edition of macOS Apprentice teaches beginners how to build Mac apps using Swift, SwiftUI, and AppKit. It includes updated content for the latest software and guides readers step-by-step with examples and illustrations. The book helps you create real, complete apps while learning essential macOS programming skills.",
-        "notes": "Надо взять эту книгу на карандаш. Поискать её копию.",
-        "tags": {
-          "book": {
-            "name": "Book",
-            "type": "manual",
-            "created": 1779004311153
-          },
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1779004306139
-          },
-          "swift": {
-            "name": "Swift",
-            "type": "manual",
-            "created": 1779004308328
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-05-14T02:31:34.137000+00:00",
-        "last_moved_at": "2026-05-17T07:52:21.639000+00:00",
-        "published_date": "2026-05-13",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kpsshwfyfcf9wg0hs7f3024j",
-        "url": "https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j",
-        "source_url": "https://www.youtube.com/watch?v=sSAIC8GQRe8",
-        "title": "ИИ для самых маленьких: как работает LLM и ИИ-агент",
-        "author": "Диджитализируй!",
-        "image_url": "https://i.ytimg.com/vi/sSAIC8GQRe8/sddefault.jpg",
-        "word_count": null,
-        "summary": "Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1776834654223
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-22T05:10:38.334000+00:00",
-        "last_moved_at": "2026-04-22T05:10:51.470000+00:00",
-        "published_date": "2026-04-21",
-        "triage": {
-          "is_tutorial": false,
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 9
@@ -459,28 +393,6 @@
         }
       },
       {
-        "id": "01kmn0xpnbtk9ez7a36ga93qzt",
-        "url": "https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt",
-        "source_url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
-        "title": "Thoughts on slowing the fuck down",
-        "author": "mariozechner.at",
-        "image_url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/media/header.png",
-        "word_count": 2368,
-        "summary": "Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-26T12:11:49.803000+00:00",
-        "last_moved_at": "2026-03-26T12:11:54.194000+00:00",
-        "published_date": "2026-03-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
         "id": "01kre6602y286w6rk62jzpzph2",
         "url": "https://read.readwise.io/read/01kre6602y286w6rk62jzpzph2",
         "source_url": "https://martinfowler.com/articles/what-is-code.html",
@@ -551,6 +463,88 @@
           "is_evergreen": true,
           "interest_score": 8
         }
+      },
+      {
+        "id": "01kpz4x1yajdkj46sz8958dtx1",
+        "url": "https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1",
+        "source_url": "https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/",
+        "title": "The secret life of the xattr",
+        "author": "hoakley",
+        "image_url": "https://eclecticlight.co/wp-content/uploads/2023/05/fileobjects.png",
+        "word_count": 1905,
+        "summary": "Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-24T07:05:07.859000+00:00",
+        "last_moved_at": "2026-04-25T18:53:40.592000+00:00",
+        "published_date": "2026-04-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kg4hy6f9wszmza56vvc5pbdz",
+        "url": "https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz",
+        "source_url": "https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code",
+        "title": "The creator of Clawd: \"I ship code I don't read\"",
+        "author": "Gergely Orosz",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!3vGV!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01f8c024-dd46-46b1-bde6-e648412e8230_1524x990.png",
+        "word_count": 1589,
+        "summary": "Peter Steinberger uses AI agents to build and ship software quickly, acting like a whole team by himself. He designs systems so AI can check and improve its own code without much human review. This new way of working focuses on outcomes and architecture, not on writing every line of code by hand.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-01-29T09:39:19.145000+00:00",
+        "last_moved_at": "2026-01-29T09:39:21.846000+00:00",
+        "published_date": "2026-01-28",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kczxrxfb9cbratcp54yptvy3",
+        "url": "https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3",
+        "source_url": "https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email",
+        "title": "Prompt caching: 10x cheaper LLM tokens, but how?",
+        "author": "ngrok",
+        "image_url": "https://frontend-blog-ngrok.vercel.app/blog-assets/images/2025-12-16-prompt-caching/og.jpg",
+        "word_count": 78,
+        "summary": "Prompt caching stores and reuses parts of LLM requests to avoid repeating work. This cuts token usage and cost by up to tenfold. It requires tracking inputs, outputs, and cache validity to stay correct.",
+        "notes": "https://chatgpt.com/c/6947a45b-3860-8331-a302-0c3a55ab5594",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1766302980323
+          },
+          "explorable": {
+            "name": "Explorable",
+            "type": "manual",
+            "created": 1766341851467
+          },
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1766302979308
+          }
+        },
+        "highlights": [],
+        "saved_at": "2025-12-21T07:42:51.370000+00:00",
+        "last_moved_at": "2025-12-21T07:43:03.378000+00:00",
+        "published_date": "2025-12-16",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 8
+        }
       }
     ],
     "shortest": [
@@ -602,88 +596,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
-        }
-      },
-      {
-        "id": "01kp3bp2e1c7t54bkz8f1sqz05",
-        "url": "https://read.readwise.io/read/01kp3bp2e1c7t54bkz8f1sqz05",
-        "source_url": "https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email",
-        "title": "The Cognitive Dark Forest",
-        "author": "Janko",
-        "image_url": "",
-        "word_count": 1093,
-        "summary": "The internet used to be open and full of shared ideas, but now big companies control it and make it risky to show your thoughts. AI makes creating things easier, but it also lets big platforms copy and absorb your ideas quickly, so staying quiet feels safer. This \"cognitive dark forest\" means your innovations feed the system that threatens you, making hiding and sharing both dangerous.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1776081904177
-          },
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1776081905812
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1776081906605
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-13T12:04:57.921000+00:00",
-        "last_moved_at": "2026-04-13T12:05:01.750000+00:00",
-        "published_date": "2026-03-27",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kmet5erb6344eexjx5b10v35",
-        "url": "https://read.readwise.io/read/01kmet5erb6344eexjx5b10v35",
-        "source_url": "https://siddhantkhare.com/writing/ambition-tax",
-        "title": "The ambition tax",
-        "author": "Siddhant Khare",
-        "image_url": "https://siddhantkhare.com/favicon-512.png",
-        "word_count": 1364,
-        "summary": "Ambition comes with a hidden cost that creates distance between you and the people you love. Even after achieving your goals, you feel restless and unsure if it's enough. This \"ambition tax\" is a quiet struggle many face but few talk about.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-24T02:18:14.228000+00:00",
-        "last_moved_at": "2026-03-24T06:23:06.555000+00:00",
-        "published_date": "2026-03-23",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01krv6c0rkp6kcnw82f0cmet4q",
-        "url": "https://read.readwise.io/read/01krv6c0rkp6kcnw82f0cmet4q",
-        "source_url": "https://boristane.com/blog/slop-creep-enshittification-of-software/",
-        "title": "Slop Creep: The Great Enshittification of Software",
-        "author": "Boris Tane",
-        "image_url": "https://boristane.com/assets/blog/slop-creep-enshittification-of-software/og.png",
-        "word_count": 1389,
-        "summary": "Coding agents often create messy software because they miss important system details and build on small mistakes. To avoid this, humans must guide agents carefully and share key design decisions. Despite flaws, agents can help if they understand the whole system and work closely with developers.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-17T14:45:15.667000+00:00",
-        "last_moved_at": "2026-05-17T14:45:19.126000+00:00",
-        "published_date": "2026-03-14",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
         }
       },
       {
@@ -867,28 +779,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
-        }
-      },
-      {
-        "id": "01kmn0xpnbtk9ez7a36ga93qzt",
-        "url": "https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt",
-        "source_url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
-        "title": "Thoughts on slowing the fuck down",
-        "author": "mariozechner.at",
-        "image_url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/media/header.png",
-        "word_count": 2368,
-        "summary": "Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-26T12:11:49.803000+00:00",
-        "last_moved_at": "2026-03-26T12:11:54.194000+00:00",
-        "published_date": "2026-03-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
         }
       },
       {
@@ -1280,39 +1170,6 @@
         }
       },
       {
-        "id": "01kp3atpcs24f3003fev1drqz8",
-        "url": "https://read.readwise.io/read/01kp3atpcs24f3003fev1drqz8",
-        "source_url": "https://lalitm.com/post/building-syntaqlite-ai/",
-        "title": "Eight years of wanting, three months of building with AI",
-        "author": "Lalit Maganti",
-        "image_url": "https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/eight-years-of-wanting-three-m/cover_image_HhyMMzG.jpeg",
-        "word_count": 3910,
-        "summary": "AI helped the author build a complex project quickly by generating lots of code and speeding research. However, AI struggled with design and caused confusion, so the author had to guide and fix many parts manually. Overall, AI is great for coding but cannot replace careful planning and decision-making.",
-        "notes": "Via Wisereads vol.138 and Joy&Curiosity",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1776081250537
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1776081246889
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-13T11:50:00.857000+00:00",
-        "last_moved_at": "2026-04-13T11:50:05.864000+00:00",
-        "published_date": "2026-04-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
         "id": "01kjmv4fykfx18fbq95cz8v7v3",
         "url": "https://read.readwise.io/read/01kjmv4fykfx18fbq95cz8v7v3",
         "source_url": "https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email",
@@ -1339,37 +1196,148 @@
           "is_evergreen": false,
           "interest_score": 2
         }
-      }
-    ],
-    "quick_wins": [
+      },
       {
-        "id": "01kpsshwfyfcf9wg0hs7f3024j",
-        "url": "https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j",
-        "source_url": "https://www.youtube.com/watch?v=sSAIC8GQRe8",
-        "title": "ИИ для самых маленьких: как работает LLM и ИИ-агент",
-        "author": "Диджитализируй!",
-        "image_url": "https://i.ytimg.com/vi/sSAIC8GQRe8/sddefault.jpg",
-        "word_count": null,
-        "summary": "Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.",
+        "id": "01kg1jzqd4sxbwtw7hcnhp8hwm",
+        "url": "https://read.readwise.io/read/01kg1jzqd4sxbwtw7hcnhp8hwm",
+        "source_url": "https://cannoneyed.com/projects/isometric-nyc?utm_source=substack&utm_medium=email",
+        "title": "/ Isometric NYC",
+        "author": "cannoneyed.com",
+        "image_url": "",
+        "word_count": 3943,
+        "summary": "The author used AI agents to help build a pixel art map of NYC with very little coding. Image generation models still struggle with mistakes and automation is hard. Despite challenges, AI tools make large creative projects possible and inspire hope for the future.",
         "notes": "",
         "tags": {
-          "llm": {
-            "name": "LLM",
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
             "type": "manual",
-            "created": 1776834654223
+            "created": 1769580006325
           }
         },
         "highlights": [],
-        "saved_at": "2026-04-22T05:10:38.334000+00:00",
-        "last_moved_at": "2026-04-22T05:10:51.470000+00:00",
-        "published_date": "2026-04-21",
+        "saved_at": "2026-01-28T05:59:54.532000+00:00",
+        "last_moved_at": "2026-01-28T05:59:58.961000+00:00",
+        "published_date": null,
         "triage": {
           "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
         }
       },
+      {
+        "id": "01kkeb8d42rdtsnyrwfezxesgd",
+        "url": "https://read.readwise.io/read/01kkeb8d42rdtsnyrwfezxesgd",
+        "source_url": "https://webdirections.org/blog/the-structure-of-engineering-revolutions/?utm_source=substack&utm_medium=email",
+        "title": "The Structure of Engineering Revolutions",
+        "author": "@johnallsopp",
+        "image_url": "https://webdirections.org/wp-content/themes/wd/images/opengraph.webp",
+        "word_count": 4159,
+        "summary": "Experienced software engineers resist AI-assisted coding because it challenges their long-held beliefs and skills. This resistance follows a pattern of paradigm shifts described by Thomas Kuhn, where new ideas disrupt old frameworks. Despite skepticism, AI tools are proving to boost productivity and change software development fundamentally.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-03-11T11:42:03.394000+00:00",
+        "last_moved_at": "2026-03-11T11:42:17.126000+00:00",
+        "published_date": "2026-03-02",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 3
+        }
+      },
+      {
+        "id": "01kke9tesp0nwb5ps5fn0nd3ff",
+        "url": "https://read.readwise.io/read/01kke9tesp0nwb5ps5fn0nd3ff",
+        "source_url": "https://aresluna.org/fn/?utm_source=tldrdev",
+        "title": "I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either",
+        "author": "Marcin Wichary",
+        "image_url": "https://aresluna.org/images/fn/ogimage.png",
+        "word_count": 4303,
+        "summary": "The Fn key first appeared in 1984 to help laptops mimic missing keys and control hardware functions. Apple recently introduced a new Globe (🌐) key, causing confusion with the traditional Fn key on external keyboards. Keyboard designs keep evolving, but many users face challenges due to different keys and shortcuts across devices.",
+        "notes": "",
+        "tags": {
+          "macos": {
+            "name": "MacOS",
+            "type": "manual",
+            "created": 1773227828956
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-03-11T11:16:57.782000+00:00",
+        "last_moved_at": "2026-03-11T11:17:01.435000+00:00",
+        "published_date": "2026-03-09",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 4
+        }
+      },
+      {
+        "id": "01kev57mqrms6nmez28y5667xg",
+        "url": "https://read.readwise.io/read/01kev57mqrms6nmez28y5667xg",
+        "source_url": "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/?utm_source=tldrdev",
+        "title": "How Markdown took over the world",
+        "author": "Anil Dash",
+        "image_url": "https://www.anildash.com/images/imac-g4-markdown.jpg",
+        "word_count": 4535,
+        "summary": "Markdown started as a simple way to make writing on the internet easier without needing complicated code. Many people liked it and began using it everywhere, from blogs to apps like Microsoft Notepad and Apple Notes. Its success shows how open, easy ideas can grow big and change how we share information online.",
+        "notes": "",
+        "tags": {
+          "markdown": {
+            "name": "Markdown",
+            "type": "manual",
+            "created": 1768290512541
+          },
+          "shortlist": {
+            "name": "Shortlist",
+            "type": "manual",
+            "created": 1770711283880
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-13T07:48:25.464000+00:00",
+        "last_moved_at": "2026-01-13T07:48:37.811000+00:00",
+        "published_date": "2026-01-09",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kqehj6aqfvy5ftqn9fatzj8q",
+        "url": "https://read.readwise.io/read/01kqehj6aqfvy5ftqn9fatzj8q",
+        "source_url": "https://internals-for-interns.com/posts/go-netpoller/?utm_source=christophberger&utm_medium=email&utm_campaign=2026-04-26-not-magic",
+        "title": "Understanding the Go Runtime: The Network Poller",
+        "author": "Jesús Espino",
+        "image_url": "https://internals-for-interns.com/images/go-runtime-header.webp",
+        "word_count": 4703,
+        "summary": "Go’s runtime manages network I/O by asking the kernel if data is ready and putting goroutines to sleep instead of blocking OS threads. When data arrives, the kernel notifies the runtime, which wakes the right goroutine to continue work. This system lets Go efficiently handle many network tasks without wasting threads.",
+        "notes": "",
+        "tags": {
+          "go": {
+            "name": "Go",
+            "type": "manual",
+            "created": 1777530910595
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-04-30T06:35:02.872000+00:00",
+        "last_moved_at": "2026-04-30T06:35:07.092000+00:00",
+        "published_date": "2026-04-20",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 2
+        }
+      }
+    ],
+    "quick_wins": [
       {
         "id": "01kczxrxfb9cbratcp54yptvy3",
         "url": "https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3",
@@ -1406,28 +1374,6 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 8
-        }
-      },
-      {
-        "id": "01kq1qvcw1ftk6sw7h27tzjwp4",
-        "url": "https://read.readwise.io/read/01kq1qvcw1ftk6sw7h27tzjwp4",
-        "source_url": "https://eclecticlight.co/2026/04/25/explainer-network-file-systems/",
-        "title": "Explainer: Network file systems",
-        "author": "hoakley",
-        "image_url": "https://eclecticlight.co/wp-content/uploads/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200",
-        "word_count": 762,
-        "summary": "Network file systems like AFP and SMB let Macs access files over a network instead of local storage. AFP was the main Mac network protocol until 2013, when SMB became the standard despite some limitations with special Mac file features. Both have challenges with newer APFS file types, causing inefficiencies in file sharing.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-25T07:14:45.321000+00:00",
-        "last_moved_at": "2026-04-25T23:33:54.268000+00:00",
-        "published_date": "2026-04-25",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 5
         }
       },
       {
@@ -1739,28 +1685,6 @@
         }
       },
       {
-        "id": "01kmn0xpnbtk9ez7a36ga93qzt",
-        "url": "https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt",
-        "source_url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
-        "title": "Thoughts on slowing the fuck down",
-        "author": "mariozechner.at",
-        "image_url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/media/header.png",
-        "word_count": 2368,
-        "summary": "Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-26T12:11:49.803000+00:00",
-        "last_moved_at": "2026-03-26T12:11:54.194000+00:00",
-        "published_date": "2026-03-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
         "id": "01kre6602y286w6rk62jzpzph2",
         "url": "https://read.readwise.io/read/01kre6602y286w6rk62jzpzph2",
         "source_url": "https://martinfowler.com/articles/what-is-code.html",
@@ -1874,39 +1798,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 8
-        }
-      },
-      {
-        "id": "01kp3atpcs24f3003fev1drqz8",
-        "url": "https://read.readwise.io/read/01kp3atpcs24f3003fev1drqz8",
-        "source_url": "https://lalitm.com/post/building-syntaqlite-ai/",
-        "title": "Eight years of wanting, three months of building with AI",
-        "author": "Lalit Maganti",
-        "image_url": "https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/eight-years-of-wanting-three-m/cover_image_HhyMMzG.jpeg",
-        "word_count": 3910,
-        "summary": "AI helped the author build a complex project quickly by generating lots of code and speeding research. However, AI struggled with design and caused confusion, so the author had to guide and fix many parts manually. Overall, AI is great for coding but cannot replace careful planning and decision-making.",
-        "notes": "Via Wisereads vol.138 and Joy&Curiosity",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1776081250537
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1776081246889
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-13T11:50:00.857000+00:00",
-        "last_moved_at": "2026-04-13T11:50:05.864000+00:00",
-        "published_date": "2026-04-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
         }
       },
       {
@@ -3055,44 +2946,6 @@
         }
       },
       {
-        "id": "01krj56gxhk6324atz4bgpp3cn",
-        "url": "https://read.readwise.io/read/01krj56gxhk6324atz4bgpp3cn",
-        "source_url": "https://troz.net/post/2026/macos-apprentice-update-3/",
-        "title": "macOS Apprentice: 3rd Edition",
-        "author": "Sarah Reichelt",
-        "image_url": "https://troz.net/favicon.ico",
-        "word_count": 757,
-        "summary": "The third edition of macOS Apprentice teaches beginners how to build Mac apps using Swift, SwiftUI, and AppKit. It includes updated content for the latest software and guides readers step-by-step with examples and illustrations. The book helps you create real, complete apps while learning essential macOS programming skills.",
-        "notes": "Надо взять эту книгу на карандаш. Поискать её копию.",
-        "tags": {
-          "book": {
-            "name": "Book",
-            "type": "manual",
-            "created": 1779004311153
-          },
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1779004306139
-          },
-          "swift": {
-            "name": "Swift",
-            "type": "manual",
-            "created": 1779004308328
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-05-14T02:31:34.137000+00:00",
-        "last_moved_at": "2026-05-17T07:52:21.639000+00:00",
-        "published_date": "2026-05-13",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
         "id": "01krwn5xzt5ncgf86fdmjehwkk",
         "url": "https://read.readwise.io/read/01krwn5xzt5ncgf86fdmjehwkk",
         "source_url": "https://eblog.fly.dev/startingsystems1.html?utm_source=christophberger&utm_medium=email&utm_campaign=2026-05-17-it-works-but-why",
@@ -3143,28 +2996,6 @@
         }
       },
       {
-        "id": "01kq2k3gnqeh877w7kgfrnzs8a",
-        "url": "https://read.readwise.io/read/01kq2k3gnqeh877w7kgfrnzs8a",
-        "source_url": "https://alexop.dev/posts/modern-frontend-quality-pipeline/",
-        "title": "A Modern Quality Pipeline and Testing Strategy for Frontend Projects",
-        "author": "alex.opalic.dev@gmail.com (Alexander Opalic)",
-        "image_url": "https://alexop.dev/posts/a-modern-quality-pipeline-and-testing-strategy-for-frontend-projects/index.png",
-        "word_count": 3222,
-        "summary": "A modern frontend quality pipeline uses fast tools like Vite+, Oxlint, and Vitest to catch bugs early and run tests efficiently. It splits checks by cost and stage, from editor to CI and preview deployments, ensuring consistent quality across teams. This approach combines types, linting, unit, component, and end-to-end tests with automation to keep code reliable and easy to maintain.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-25T15:11:02.911000+00:00",
-        "last_moved_at": "2026-04-25T23:40:27.277000+00:00",
-        "published_date": "2026-04-25",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
         "id": "01k7z3amqe376ky08bkmjbnp3v",
         "url": "https://read.readwise.io/read/01k7z3amqe376ky08bkmjbnp3v",
         "source_url": "https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email",
@@ -3189,28 +3020,6 @@
           "is_tutorial": true,
           "is_foundational": true,
           "is_evergreen": true,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01knw7n6b8z86v81jcnw406vvp",
-        "url": "https://read.readwise.io/read/01knw7n6b8z86v81jcnw406vvp",
-        "source_url": "https://workers.io/blog/autonomous-mobile-pentesting/",
-        "title": "Giving an Agent a Rooted Android Phone",
-        "author": "Workers IO",
-        "image_url": "https://workers.io/og/autonomous-mobile-pentesting.png",
-        "word_count": 2247,
-        "summary": "Giving an AI agent root access to an Android phone lets it fully test apps by controlling the screen, intercepting network traffic, and modifying app behavior. The agent used tools like Frida and mitmproxy to reverse-engineer Subway Surfers and hack unlimited coins automatically. This approach speeds up mobile security testing by automating actions and analysis without human guidance.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-10T17:39:53.830000+00:00",
-        "last_moved_at": "2026-04-10T17:39:59.455000+00:00",
-        "published_date": "2026-04-07",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
           "interest_score": 7
         }
       },
@@ -3521,72 +3330,6 @@
         }
       },
       {
-        "id": "01krj56gxhk6324atz4bgpp3cn",
-        "url": "https://read.readwise.io/read/01krj56gxhk6324atz4bgpp3cn",
-        "source_url": "https://troz.net/post/2026/macos-apprentice-update-3/",
-        "title": "macOS Apprentice: 3rd Edition",
-        "author": "Sarah Reichelt",
-        "image_url": "https://troz.net/favicon.ico",
-        "word_count": 757,
-        "summary": "The third edition of macOS Apprentice teaches beginners how to build Mac apps using Swift, SwiftUI, and AppKit. It includes updated content for the latest software and guides readers step-by-step with examples and illustrations. The book helps you create real, complete apps while learning essential macOS programming skills.",
-        "notes": "Надо взять эту книгу на карандаш. Поискать её копию.",
-        "tags": {
-          "book": {
-            "name": "Book",
-            "type": "manual",
-            "created": 1779004311153
-          },
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1779004306139
-          },
-          "swift": {
-            "name": "Swift",
-            "type": "manual",
-            "created": 1779004308328
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-05-14T02:31:34.137000+00:00",
-        "last_moved_at": "2026-05-17T07:52:21.639000+00:00",
-        "published_date": "2026-05-13",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kpsshwfyfcf9wg0hs7f3024j",
-        "url": "https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j",
-        "source_url": "https://www.youtube.com/watch?v=sSAIC8GQRe8",
-        "title": "ИИ для самых маленьких: как работает LLM и ИИ-агент",
-        "author": "Диджитализируй!",
-        "image_url": "https://i.ytimg.com/vi/sSAIC8GQRe8/sddefault.jpg",
-        "word_count": null,
-        "summary": "Большие языковые модели (LLM) — это сложные математические функции, которые требуют много памяти для работы. Хороший ИИ-агент умеет правильно использовать модель и дополнительные инструменты, чтобы помогать с задачами, даже на слабом железе. Программирование не исчезнет, а изменится — важно понимать основы, чтобы эффективно работать с ИИ.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1776834654223
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-22T05:10:38.334000+00:00",
-        "last_moved_at": "2026-04-22T05:10:51.470000+00:00",
-        "published_date": "2026-04-21",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
         "id": "01krwn5xzt5ncgf86fdmjehwkk",
         "url": "https://read.readwise.io/read/01krwn5xzt5ncgf86fdmjehwkk",
         "source_url": "https://eblog.fly.dev/startingsystems1.html?utm_source=christophberger&utm_medium=email&utm_campaign=2026-05-17-it-works-but-why",
@@ -3751,28 +3494,6 @@
         "saved_at": "2026-04-24T07:05:07.859000+00:00",
         "last_moved_at": "2026-04-25T18:53:40.592000+00:00",
         "published_date": "2026-04-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kndptghaxk924qaqr7pc3zmx",
-        "url": "https://read.readwise.io/read/01kndptghaxk924qaqr7pc3zmx",
-        "source_url": "https://blog.ploeh.dk/2026/03/30/programming-languages-for-ai/",
-        "title": "Programming languages for AI",
-        "author": "Mark Seemann",
-        "image_url": "https://blog.ploeh.dk/assets/themes/ploeh/images/favicons/favicon.png",
-        "word_count": 1289,
-        "summary": "Programming languages for AI should do more than be human-readable; they must ensure portability, security, and verifiability. Strong static type systems and built-in guardrails help prevent errors and make code safer, especially for machine-generated software. Future AI-focused languages should prioritize these features over ease of writing to enable trustworthy, verifiable code.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-05T02:16:20.266000+00:00",
-        "last_moved_at": "2026-04-05T02:16:42.708000+00:00",
-        "published_date": "2026-03-30",
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
@@ -4093,28 +3814,6 @@
         "saved_at": "2025-08-31T17:51:02.581000+00:00",
         "last_moved_at": "2025-09-01T09:56:34.510000+00:00",
         "published_date": "2024-07-16",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 5
-        }
-      },
-      {
-        "id": "01kq1qvcw1ftk6sw7h27tzjwp4",
-        "url": "https://read.readwise.io/read/01kq1qvcw1ftk6sw7h27tzjwp4",
-        "source_url": "https://eclecticlight.co/2026/04/25/explainer-network-file-systems/",
-        "title": "Explainer: Network file systems",
-        "author": "hoakley",
-        "image_url": "https://eclecticlight.co/wp-content/uploads/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200",
-        "word_count": 762,
-        "summary": "Network file systems like AFP and SMB let Macs access files over a network instead of local storage. AFP was the main Mac network protocol until 2013, when SMB became the standard despite some limitations with special Mac file features. Both have challenges with newer APFS file types, causing inefficiencies in file sharing.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-25T07:14:45.321000+00:00",
-        "last_moved_at": "2026-04-25T23:33:54.268000+00:00",
-        "published_date": "2026-04-25",
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
@@ -4474,44 +4173,6 @@
         }
       },
       {
-        "id": "01krj56gxhk6324atz4bgpp3cn",
-        "url": "https://read.readwise.io/read/01krj56gxhk6324atz4bgpp3cn",
-        "source_url": "https://troz.net/post/2026/macos-apprentice-update-3/",
-        "title": "macOS Apprentice: 3rd Edition",
-        "author": "Sarah Reichelt",
-        "image_url": "https://troz.net/favicon.ico",
-        "word_count": 757,
-        "summary": "The third edition of macOS Apprentice teaches beginners how to build Mac apps using Swift, SwiftUI, and AppKit. It includes updated content for the latest software and guides readers step-by-step with examples and illustrations. The book helps you create real, complete apps while learning essential macOS programming skills.",
-        "notes": "Надо взять эту книгу на карандаш. Поискать её копию.",
-        "tags": {
-          "book": {
-            "name": "Book",
-            "type": "manual",
-            "created": 1779004311153
-          },
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1779004306139
-          },
-          "swift": {
-            "name": "Swift",
-            "type": "manual",
-            "created": 1779004308328
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-05-14T02:31:34.137000+00:00",
-        "last_moved_at": "2026-05-17T07:52:21.639000+00:00",
-        "published_date": "2026-05-13",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
         "id": "01kjnjanqgfzsvenqw6d62rxqv",
         "url": "https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv",
         "source_url": "https://minimaxir.com/2026/02/ai-agent-coding/",
@@ -4690,28 +4351,6 @@
         }
       },
       {
-        "id": "01kmn0xpnbtk9ez7a36ga93qzt",
-        "url": "https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt",
-        "source_url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
-        "title": "Thoughts on slowing the fuck down",
-        "author": "mariozechner.at",
-        "image_url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/media/header.png",
-        "word_count": 2368,
-        "summary": "Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-26T12:11:49.803000+00:00",
-        "last_moved_at": "2026-03-26T12:11:54.194000+00:00",
-        "published_date": "2026-03-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
         "id": "01kg4hy6f9wszmza56vvc5pbdz",
         "url": "https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz",
         "source_url": "https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code",
@@ -4726,28 +4365,6 @@
         "saved_at": "2026-01-29T09:39:19.145000+00:00",
         "last_moved_at": "2026-01-29T09:39:21.846000+00:00",
         "published_date": "2026-01-28",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01krv6c0rkp6kcnw82f0cmet4q",
-        "url": "https://read.readwise.io/read/01krv6c0rkp6kcnw82f0cmet4q",
-        "source_url": "https://boristane.com/blog/slop-creep-enshittification-of-software/",
-        "title": "Slop Creep: The Great Enshittification of Software",
-        "author": "Boris Tane",
-        "image_url": "https://boristane.com/assets/blog/slop-creep-enshittification-of-software/og.png",
-        "word_count": 1389,
-        "summary": "Coding agents often create messy software because they miss important system details and build on small mistakes. To avoid this, humans must guide agents carefully and share key design decisions. Despite flaws, agents can help if they understand the whole system and work closely with developers.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-17T14:45:15.667000+00:00",
-        "last_moved_at": "2026-05-17T14:45:19.126000+00:00",
-        "published_date": "2026-03-14",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -4778,61 +4395,6 @@
         }
       },
       {
-        "id": "01kp3atpcs24f3003fev1drqz8",
-        "url": "https://read.readwise.io/read/01kp3atpcs24f3003fev1drqz8",
-        "source_url": "https://lalitm.com/post/building-syntaqlite-ai/",
-        "title": "Eight years of wanting, three months of building with AI",
-        "author": "Lalit Maganti",
-        "image_url": "https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/eight-years-of-wanting-three-m/cover_image_HhyMMzG.jpeg",
-        "word_count": 3910,
-        "summary": "AI helped the author build a complex project quickly by generating lots of code and speeding research. However, AI struggled with design and caused confusion, so the author had to guide and fix many parts manually. Overall, AI is great for coding but cannot replace careful planning and decision-making.",
-        "notes": "Via Wisereads vol.138 and Joy&Curiosity",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1776081250537
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1776081246889
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-13T11:50:00.857000+00:00",
-        "last_moved_at": "2026-04-13T11:50:05.864000+00:00",
-        "published_date": "2026-04-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01kq2k3gnqeh877w7kgfrnzs8a",
-        "url": "https://read.readwise.io/read/01kq2k3gnqeh877w7kgfrnzs8a",
-        "source_url": "https://alexop.dev/posts/modern-frontend-quality-pipeline/",
-        "title": "A Modern Quality Pipeline and Testing Strategy for Frontend Projects",
-        "author": "alex.opalic.dev@gmail.com (Alexander Opalic)",
-        "image_url": "https://alexop.dev/posts/a-modern-quality-pipeline-and-testing-strategy-for-frontend-projects/index.png",
-        "word_count": 3222,
-        "summary": "A modern frontend quality pipeline uses fast tools like Vite+, Oxlint, and Vitest to catch bugs early and run tests efficiently. It splits checks by cost and stage, from editor to CI and preview deployments, ensuring consistent quality across teams. This approach combines types, linting, unit, component, and end-to-end tests with automation to keep code reliable and easy to maintain.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-25T15:11:02.911000+00:00",
-        "last_moved_at": "2026-04-25T23:40:27.277000+00:00",
-        "published_date": "2026-04-25",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
         "id": "01knq4y2r5a7ffntsmhs7jjvtf",
         "url": "https://read.readwise.io/read/01knq4y2r5a7ffntsmhs7jjvtf",
         "source_url": "https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html",
@@ -4849,28 +4411,6 @@
         "published_date": "2026-04-08",
         "triage": {
           "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01knw7n6b8z86v81jcnw406vvp",
-        "url": "https://read.readwise.io/read/01knw7n6b8z86v81jcnw406vvp",
-        "source_url": "https://workers.io/blog/autonomous-mobile-pentesting/",
-        "title": "Giving an Agent a Rooted Android Phone",
-        "author": "Workers IO",
-        "image_url": "https://workers.io/og/autonomous-mobile-pentesting.png",
-        "word_count": 2247,
-        "summary": "Giving an AI agent root access to an Android phone lets it fully test apps by controlling the screen, intercepting network traffic, and modifying app behavior. The agent used tools like Frida and mitmproxy to reverse-engineer Subway Surfers and hack unlimited coins automatically. This approach speeds up mobile security testing by automating actions and analysis without human guidance.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-10T17:39:53.830000+00:00",
-        "last_moved_at": "2026-04-10T17:39:59.455000+00:00",
-        "published_date": "2026-04-07",
-        "triage": {
-          "is_tutorial": true,
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 7
@@ -5397,66 +4937,6 @@
         "saved_at": "2025-12-21T07:26:46.150000+00:00",
         "last_moved_at": "2025-12-21T07:27:02.118000+00:00",
         "published_date": "2025-12-17",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kmet5erb6344eexjx5b10v35",
-        "url": "https://read.readwise.io/read/01kmet5erb6344eexjx5b10v35",
-        "source_url": "https://siddhantkhare.com/writing/ambition-tax",
-        "title": "The ambition tax",
-        "author": "Siddhant Khare",
-        "image_url": "https://siddhantkhare.com/favicon-512.png",
-        "word_count": 1364,
-        "summary": "Ambition comes with a hidden cost that creates distance between you and the people you love. Even after achieving your goals, you feel restless and unsure if it's enough. This \"ambition tax\" is a quiet struggle many face but few talk about.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-24T02:18:14.228000+00:00",
-        "last_moved_at": "2026-03-24T06:23:06.555000+00:00",
-        "published_date": "2026-03-23",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kp3bp2e1c7t54bkz8f1sqz05",
-        "url": "https://read.readwise.io/read/01kp3bp2e1c7t54bkz8f1sqz05",
-        "source_url": "https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email",
-        "title": "The Cognitive Dark Forest",
-        "author": "Janko",
-        "image_url": "",
-        "word_count": 1093,
-        "summary": "The internet used to be open and full of shared ideas, but now big companies control it and make it risky to show your thoughts. AI makes creating things easier, but it also lets big platforms copy and absorb your ideas quickly, so staying quiet feels safer. This \"cognitive dark forest\" means your innovations feed the system that threatens you, making hiding and sharing both dangerous.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1776081904177
-          },
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1776081905812
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1776081906605
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-13T12:04:57.921000+00:00",
-        "last_moved_at": "2026-04-13T12:05:01.750000+00:00",
-        "published_date": "2026-03-27",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

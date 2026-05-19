@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 45
+- Всего ссылок: 46
 
 ## Ссылки
 
+- [Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/) [📖](https://read.readwise.io/read/01krwthf8z953x0y9pbfh9br3s) 👤 Addy Osmani 💬 1405 🔖 #learning, #llm-reality, #llm-devimpact 🗓️ 2026-05-18
+    > **Заметка:** Очень честный взгляд на продуктивность VS. обучение. Нужно эти тезисы себе прям в табличке над столом вывешивать. Via HN
+    > **Резюме:** Relying on AI to write code without understanding it harms your learning and skills over time. Using AI well means asking questions, testing ideas, and learning from the process. To stay sharp, treat AI as a teacher, not just a tool to finish tasks quickly.
 - [A.I. Should Elevate Your Thinking, Not Replace It](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/) [📖](https://read.readwise.io/read/01krdbs4v58eem7a81aceygm6p) 👤 koshyjohn.com 💬 2340 🔖 #learning, #llm-devimpact 🗓️ 2026-05-12
     > **Заметка:** Via Wisereads
     > **Резюме:** A.I. should help engineers think better, not do the thinking for them. Real skill comes from understanding problems deeply and learning through struggle. The best engineers use A.I. to enhance judgment, not replace it.

@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 452
+- Всего ссылок: 450
 
 ## Ссылки
 
@@ -57,11 +57,6 @@ They save money and offer flexibility, though top cloud models can still be stro
 - [Why Isn't Everything Different Yet?](https://davegriffith.substack.com/p/why-isnt-everything-different-yet?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3dctz7gv9zqqkm3jxke3xf) 👤 Dave Griffith 💬 1791 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
     > **Заметка:** Интересные мысли по поводу актуального вопроса – почему же И ещё всё не поменял? Но у меня возникает другой вопрос: где все то замечательное по, которое пишут день и ночь апологеты агентов? По-моему, сейчас оно все направлено как раз таки на работу с этими агентами ￼:)
     > **Резюме:** AI technology is impressive but changing everything takes time because systems, laws, and business models must be rebuilt from scratch. Software development is the first area transformed, but integrating AI widely requires millions of people to adapt workflows and trust the tools. Despite impatience, this transformation is happening very fast compared to past technologies and will soon feel much bigger.
-- [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3bp2e1c7t54bkz8f1sqz05) 👤 Janko 💬 1093 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-04-13
-    > **Резюме:** The internet used to be open and full of shared ideas, but now big companies control it and make it risky to show your thoughts. AI makes creating things easier, but it also lets big platforms copy and absorb your ideas quickly, so staying quiet feels safer. This "cognitive dark forest" means your innovations feed the system that threatens you, making hiding and sharing both dangerous.
-- [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) [📖](https://read.readwise.io/read/01kp3atpcs24f3003fev1drqz8) 👤 Lalit Maganti 💬 3910 🔖 #llm, #joyandcuriosity 🗓️ 2026-04-13
-    > **Заметка:** Via Wisereads vol.138 and Joy&Curiosity
-    > **Резюме:** AI helped the author build a complex project quickly by generating lots of code and speeding research. However, AI struggled with design and caused confusion, so the author had to guide and fix many parts manually. Overall, AI is great for coding but cannot replace careful planning and decision-making.
 - [25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp39s0d68a0dcrrsg0d1p3a4) 👤 John Rush’s Blog 💬 1477 🔖 #fun, #llm 🗓️ 2026-04-13
     > **Резюме:** The author scanned and analyzed over 11,000 receipts from 25 years to track egg purchases using AI tools. They combined specialized models for image segmentation, OCR, and data extraction to overcome many challenges. The project took 14 days and showed how advanced AI can unlock insights from messy real-world data.
 - [The Center Has a Bias](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/) [📖](https://read.readwise.io/read/01knyphe4476t7f2vsk8hka56f) 👤 Armin Ronacher 💬 1524 🔖 #llm, #llm-devimpact 🗓️ 2026-04-11

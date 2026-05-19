@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 51
+- Всего ссылок: 52
 
 ## Ссылки
 
+- [Slop Creep: The Great Enshittification of Software](https://boristane.com/blog/slop-creep-enshittification-of-software/) [📖](https://read.readwise.io/read/01krv6c0rkp6kcnw82f0cmet4q) 👤 Boris Tane 💬 1389 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-05-17
+    > **Заметка:** Если сократить пост до одного предложения: с агентом или без, нужно не торопиться и тщательно выстраивать систему, а не бездумно напихивать фичи.
+    > **Резюме:** Coding agents often create messy software because they miss important system details and build on small mistakes. To avoid this, humans must guide agents carefully and share key design decisions. Despite flaws, agents can help if they understand the whole system and work closely with developers.
 - [Programming is Easy, Software Engineering is Hard](https://blainsmith.com/articles/programming-is-easy-software-engineering-is-hard/) [📖](https://read.readwise.io/read/01krn2nkpm5r0zk52372bc36wk) 👤 Blain Smith 💬 655 🔖 #softwarecraft 🗓️ 2026-05-15
     > **Резюме:** Programming itself is usually easy for skilled people because they know how to solve technical problems. Software engineering becomes hard when time limits and many different people with different goals get involved. The challenges come from managing meetings, priorities, and teamwork, not just writing code.
 - [Allergic to Unnecessary Complexity](https://blainsmith.com/articles/allergic-to-unnecessary-complexity/) [📖](https://read.readwise.io/read/01krjqw32rh9v230kep1pwh8f4) 👤 Blain Smith 💬 989 🔖 #softwarecraft 🗓️ 2026-05-14

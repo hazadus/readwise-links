@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [How I Write HTTP Servers](https://blainsmith.com/articles/how-i-write-http-servers/) [📖](https://read.readwise.io/read/01krx0p4wy86e8yzytm0yfe3y0) 👤 Blain Smith 💬 2333 🔖 #go, #api, #rest 🗓️ 2026-05-18
+    > **Резюме:** The author shares a simple way to write HTTP servers by creating functions that return handlers with injected dependencies. They emphasize testing only the HTTP logic using in-memory tools and layering middleware for features like logging and authorization. This approach helps keep code clean, testable, and easy to maintain.
 - [How to (and how not to) design REST APIs · stickfigure/blog Wiki · GitHub](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs) [📖](https://read.readwise.io/read/01jnm3fmctxe33hj4wjc6xk9rd) 👤 https://github.com/stickfigure/ 💬 3323 🔖 #rest 🗓️ 2025-03-05
     > **Резюме:** This guide offers best practices for designing effective REST APIs, emphasizing the importance of using plural nouns for collections and structured error formats. It suggests using string IDs for flexibility, prefixing identifiers for clarity, and implementing idempotence mechanisms to avoid duplicate actions. Following these guidelines can lead to better APIs and happier client developers.
 - [The Little Book on REST Services](https://readwise.io/reader/document_raw_content/234768051) [📖](https://read.readwise.io/read/01jbyjrkkfkmd8jnfy5232691f) 👤 Kenneth Lange 💬 5511 🔖 #rest 🗓️ 2024-11-05

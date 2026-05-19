@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-05-18 04:41 UTC · Статей: 52
+Сгенерировано: 2026-05-19 04:36 UTC · Статей: 50
 
 ## Статьи
 
@@ -26,8 +26,6 @@ _Длинные статьи (от 1500 слов), не туториалы_
     > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) [📖](https://read.readwise.io/read/01ke9z0vpb9xqf5ateyympwzpm) 👤 Nikita Prokopov 💬 2754 ⭐ 8 🗓️ 2026-01-06 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Apple's Tahoe icons are confusing and inconsistent, making it hard to find or understand menu items quickly. Too many icons clutter menus, and similar or unclear symbols cause frustration. Good icon design should be simple, clear, and consistent, but Tahoe often misses these points.
-- [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) [📖](https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt) 👤 mariozechner.at 💬 2368 ⭐ 8 🗓️ 2026-03-26
-    > **Резюме:** Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.
 - [What is Code](https://martinfowler.com/articles/what-is-code.html) [📖](https://read.readwise.io/read/01kre6602y286w6rk62jzpzph2) 👤 Martin Fowler (martin@martinfowler.com) 💬 2367 ⭐ 8 🗓️ 2026-05-12 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Code is more than instructions for machines; it’s a shared vocabulary that helps people understand a problem. Writing code shapes this vocabulary and builds a clear model of the domain. With strong vocabulary and abstractions, both humans and LLMs can create better, more reliable software.
 - [Software Development in 2026](https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026) [📖](https://read.readwise.io/read/01kn9q1g2rkzrdsd4mgzghk9ew) 👤 Aleksei Matiushkin 💬 1952 ⭐ 8 🗓️ 2026-04-03 · 🧠 основы, 🌲 вечнозелёное
@@ -37,9 +35,6 @@ _Длинные статьи (от 1500 слов), не туториалы_
     > **Резюме:** Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.
 - [The creator of Clawd: "I ship code I don't read"](https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code) [📖](https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz) 👤 Gergely Orosz 💬 1589 ⭐ 8 🗓️ 2026-01-29
     > **Резюме:** Peter Steinberger uses AI agents to build and ship software quickly, acting like a whole team by himself. He designs systems so AI can check and improve its own code without much human review. This new way of working focuses on outcomes and architecture, not on writing every line of code by hand.
-- [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) [📖](https://read.readwise.io/read/01kp3atpcs24f3003fev1drqz8) 👤 Lalit Maganti 💬 3910 ⭐ 7 🔖 #llm, #joyandcuriosity 🗓️ 2026-04-13
-    > **Заметка:** Via Wisereads vol.138 and Joy&Curiosity
-    > **Резюме:** AI helped the author build a complex project quickly by generating lots of code and speeding research. However, AI struggled with design and caused confusion, so the author had to guide and fix many parts manually. Overall, AI is great for coding but cannot replace careful planning and decision-making.
 - [Intelligent Curation Tagging for Creative Workflows](https://qwelian.com/posts/FINE_SHYT_Intelligent_Curation_Tagging_for_Creative_Workflows) [📖](https://read.readwise.io/read/01kpmngdv5pg97fgh18ytem7jz) 👤 qwelian.com 💬 3370 ⭐ 7 🗓️ 2026-04-20 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via HN
     > **Резюме:** This system helps organize large photo archives by using AI to describe and rate images based on personal taste. It works in stages, analyzing technical quality, extracting metadata, and learning from user ratings to improve recommendations. Ultimately, the AI supports but does not replace human judgment in choosing which photos to keep or export.
