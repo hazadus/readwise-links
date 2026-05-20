@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 90
+- Всего ссылок: 88
 
 ## Ссылки
 
@@ -43,8 +43,6 @@ Via Readwise newsletter, Via JoyAndCuriosity
 - [The Software Development Lifecycle Is Dead](https://boristane.com/blog/the-software-development-lifecycle-is-dead/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw5d83t9105hqzkean823b) 👤 Boris Tane 💬 1702 🔖 #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-01
     > **Заметка:** Слишком позитивный взгляд на работу с агентами от чувака который работал в Cloudflare. Есть интересные мысли, но в целом взгляд не разделяю. ￼
     > **Резюме:** Software development no longer follows fixed steps but relies on agents that write code, test, and deploy continuously. Humans guide the agents by providing context and reviewing complex decisions, while agents handle routine tasks and fix issues automatically. This shift enables faster, automated releases with minimal human intervention, changing how teams work and monitor software.
-- [Child’s Play](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw4a52rcxbmeawgcw8w4f8) 👤 Sam Kriss 💬 9390 🔖 #joyandcuriosity 🗓️ 2026-03-01
-    > **Резюме:** Roy went to Columbia not to learn but to start a tech company called Cluely, which mixed AI with a flashy, frat-like culture. The story shows how young tech founders use AI for control and self-promotion, often confusing usefulness with hype. It also highlights a world where social media and startups become the main way to seek identity and success.
 - [No Skill. No Taste.](https://blog.kinglycrow.com/no-skill-no-taste/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmvx4gbenqm1wyjz7jjf7vp) 👤 The Crow's Nest 💬 839 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** Many people overestimate their skill and taste when building apps, especially with easy tools like LLMs. Taste matters a lot because it helps ideas stand out, even if the app is simple or imperfect. Without skill and taste, the tech scene gets flooded with low-quality, unoriginal projects.
 - [Twenty Five Years of Computing](https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmv4fykfx18fbq95cz8v7v3) 👤 susam.net 💬 3913 🔖 #joyandcuriosity 🗓️ 2026-03-01
@@ -77,8 +75,6 @@ Via Readwise newsletter, Via JoyAndCuriosity
     > **Резюме:** The author shares quick thoughts on whether GitHub is still relevant. They made a short video discussing the future of developer tools. A full transcript is also available online.
 - [Year in review: Limitless, Sesame, Claude Code, and more](https://paulstamatiou.com/2025-year-in-review?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kfabyqddxp6mh9jgjpa7mrcv) 👤 paulstamatiou.com 💬 8751 🔖 #joyandcuriosity 🗓️ 2026-01-19
     > **Резюме:** In 2025, Paul Stamatiou focused on designing and building simple, high-quality AI products that feel personal and useful. He left his startup role to join Sesame as Head of Design, working closely on software and hardware. He believes great design means thoughtful product building, not just flashy visuals or shortcuts with AI.
-- [Why We Built Our Own Background Agent](https://builders.ramp.com/post/why-we-built-our-background-agent?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kfab8cadmd9nwh3npxbvvws4) 👤 Zach Bruggeman, Jason Quense, Rahul Sengottuvelu 💬 2798 🔖 #joyandcuriosity 🗓️ 2026-01-19
-    > **Резюме:** The team built Inspect, a background coding agent that runs tests, reviews data, and works in a sandboxed cloud environment. It supports many tools, offers multiplayer sessions, and connects with platforms like Slack for easy collaboration. Their focus is on speed, flexibility, and helping all team members contribute effectively.
 - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kfab5yfq9hx7tc6c3f90y56f) 👤 alexharri.com 💬 6378 🔖 #joyandcuriosity 🗓️ 2026-01-19
     > **Резюме:** ASCII characters are not simple pixels; their shapes affect how images appear when rendered as ASCII art. By using multiple sampling points and enhancing contrast, we can create sharper and clearer ASCII images. These techniques improve readability and capture the shape of characters better than traditional pixel-based methods.
 - [DHH: Why AI Isn't Writing My Code (Yet)](https://www.youtube.com/watch?v=uWqno4HM4xA) [📖](https://read.readwise.io/read/01kfaay311j5fmn0cv2qrwbbj8) 👤 Amp, Inc. 🔖 #joyandcuriosity 🗓️ 2026-01-19

@@ -4,6 +4,9 @@
 
 ## Ссылки
 
+- [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything) [📖](https://read.readwise.io/read/01krywkket5b9bcv83xppm7dxe) 👤 Simon Willison's Weblog 💬 1086 🔖 #llm 🗓️ 2026-05-19
+    > **Заметка:** Хороший обзор, для истории.
+    > **Резюме:** In the last six months, large language models (LLMs) improved a lot, especially for coding tasks. New AI assistants called "Claws" became popular, with many people using small computers to run them. Also, smaller models that run on laptops got much better and surprised many experts.
 - [Using Claude Code: The Unreasonable Effectiveness of HTML](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything) [📖](https://read.readwise.io/read/01kr4pjz90bvvv230s56faa0qh) 👤 Simon Willison's Weblog 💬 219 🔖 #llm 🗓️ 2026-05-08
     > **Заметка:** Любопытно. Но Markdown всё же предпочтительнее в абсолютном большинстве случаев - он компактный и, главное, портативный. Экономичнее не только с точки зрения его генерации, но и дальнейшего чтения агентами.
     > **Резюме:** Using Claude Code: The Unreasonable Effectiveness of HTML
@@ -75,8 +78,6 @@ They save money and offer flexibility, though top cloud models can still be stro
     > **Резюме:** Open-source AI models are being used as economic weapons by countries to challenge rivals. China offers free local AI models while the US spends heavily on research, creating a new kind of economic warfare. This raises important questions about trust, control, and the future of AI-dependent businesses and economies.
 - [Three more AI psychoses (permalink)](https://pluralistic.net/2026/03/12/normal-technology/) [📖](https://read.readwise.io/read/01kkmj9x5p9vckgwj28dnsd4ff) 👤 pluralistic.net 💬 5062 🔖 #llm, #health 🗓️ 2026-03-13
     > **Резюме:** AI is not a magical or uniquely harmful technology, but a normal one caught in a costly and risky investment bubble. Some people believe too much in AI’s potential to make money, fire workers, or change the world, which leads to dangerous and false ideas. The real issue is the economic and social harm caused by greedy investors and bosses, not the technology itself.
-- [What do coders do after AI?](https://www.anildash.com/2026/03/13/coders-after-ai/) [📖](https://read.readwise.io/read/01kkmj8cbrx3ybzn7sb68vz765) 👤 Anil Dash 💬 1721 🔖 #llm, #llm-devimpact 🗓️ 2026-03-13
-    > **Резюме:** AI is changing coding by automating much of the work, which threatens many stable tech jobs. Some coders see this as a loss of craft, while others may adapt by focusing on guiding AI tools. The future depends on coders who care coming together to build new, ethical ways to work beyond big companies.
 - [Zen of AI Coding](https://nonstructured.com/zen-of-ai-coding/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kkeavycs9gd3ty05sxhrtt5c) 👤 Yoav Aviram 💬 1912 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-11
     > **Резюме:** AI coding agents are changing software development by making writing code cheaper and faster. Humans now focus on guiding agents, managing context, and ensuring quality and security. Building flexible, agent-friendly systems is key to the future of software and product design.
 - [Developing Taste](https://emilkowal.ski/ui/developing-taste?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kke1ch7btawy6ba1dzc9rqkb) 👤 Emil Kowalski 💬 416 🔖 #llm, #llm-devimpact 🗓️ 2026-03-11

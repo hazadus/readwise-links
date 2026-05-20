@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T04:36:03.372899+00:00",
+  "generated_at": "2026-05-20T04:37:50.911738+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -82,52 +82,30 @@
         }
       },
       {
-        "id": "01kehqcxrgjpevpz78xx06w5mp",
-        "url": "https://read.readwise.io/read/01kehqcxrgjpevpz78xx06w5mp",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
-        "title": "When AI writes almost all code, what happens to software engineering?",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!sLlF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd77a41b8-2e53-435d-9cf6-8298bd9af3e1_1146x822.png",
-        "word_count": 3371,
-        "summary": "AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-09T15:53:28.592000+00:00",
-        "last_moved_at": "2026-01-09T15:53:32.780000+00:00",
-        "published_date": "2026-01-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kfab8cadmd9nwh3npxbvvws4",
-        "url": "https://read.readwise.io/read/01kfab8cadmd9nwh3npxbvvws4",
-        "source_url": "https://builders.ramp.com/post/why-we-built-our-background-agent?utm_source=substack&utm_medium=email",
-        "title": "Why We Built Our Own Background Agent",
-        "author": "Zach Bruggeman, Jason Quense, Rahul Sengottuvelu",
-        "image_url": "https://assets.ramp.com/builders-blog/ramp_engineering.png",
-        "word_count": 2798,
-        "summary": "The team built Inspect, a background coding agent that runs tests, reviews data, and works in a sandboxed cloud environment. It supports many tools, offers multiplayer sessions, and connects with platforms like Slack for easy collaboration. Their focus is on speed, flexibility, and helping all team members contribute effectively.",
+        "id": "01krzf75d1xh48n0mwhqnmg33x",
+        "url": "https://read.readwise.io/read/01krzf75d1xh48n0mwhqnmg33x",
+        "source_url": "https://eclecticlight.co/2026/05/19/settings-preferences-and-defaults/",
+        "title": "Settings, preferences and defaults",
+        "author": "hoakley",
+        "image_url": "https://eclecticlight.co/wp-content/uploads/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200",
+        "word_count": 1304,
+        "summary": "Mac apps store settings in preference files managed by a system called cfprefsd for easy access and saving. To safely change these settings, use the defaults command or a special editor that works with cfprefsd. Avoid editing preference files directly unless sure no app is running, and never paste unknown commands into Terminal.",
         "notes": "",
         "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
+          "macos": {
+            "name": "MacOS",
             "type": "manual",
-            "created": 1768800147270
+            "created": 1779174413011
           }
         },
         "highlights": [],
-        "saved_at": "2026-01-19T05:22:17.549000+00:00",
-        "last_moved_at": "2026-01-19T05:22:21.813000+00:00",
-        "published_date": "2026-01-12",
+        "saved_at": "2026-05-19T06:36:48.490000+00:00",
+        "last_moved_at": "2026-05-19T07:06:55.066000+00:00",
+        "published_date": "2026-05-19",
         "triage": {
           "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
+          "is_foundational": true,
+          "is_evergreen": true,
           "interest_score": 9
         }
       },
@@ -263,28 +241,6 @@
         "saved_at": "2026-01-28T05:59:54.532000+00:00",
         "last_moved_at": "2026-01-28T05:59:58.961000+00:00",
         "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kg1cwtt6qjef7dg86j5y98hd",
-        "url": "https://read.readwise.io/read/01kg1cwtt6qjef7dg86j5y98hd",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft",
-        "title": "Inside one startup’s crazy fast AI-first makeover",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!EVwx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95ab3637-7b93-4faf-8912-19698fe1f451_1600x914.png",
-        "word_count": 3790,
-        "summary": "Craft, a startup focused on docs and tasks, shifted quickly to use AI tools called Craft Agents that help both engineers and non-engineers work better. The new AI tool lets teams automate tasks and build things faster, with non-technical staff using it even more than developers. This change shows how startups are adopting AI deeply to improve how they build software and run their work.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-28T04:13:28.262000+00:00",
-        "last_moved_at": "2026-01-28T04:13:30.104000+00:00",
-        "published_date": "2026-01-27",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -487,28 +443,6 @@
         }
       },
       {
-        "id": "01kg4hy6f9wszmza56vvc5pbdz",
-        "url": "https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code",
-        "title": "The creator of Clawd: \"I ship code I don't read\"",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!3vGV!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01f8c024-dd46-46b1-bde6-e648412e8230_1524x990.png",
-        "word_count": 1589,
-        "summary": "Peter Steinberger uses AI agents to build and ship software quickly, acting like a whole team by himself. He designs systems so AI can check and improve its own code without much human review. This new way of working focuses on outcomes and architecture, not on writing every line of code by hand.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-29T09:39:19.145000+00:00",
-        "last_moved_at": "2026-01-29T09:39:21.846000+00:00",
-        "published_date": "2026-01-28",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
         "id": "01kczxrxfb9cbratcp54yptvy3",
         "url": "https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3",
         "source_url": "https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email",
@@ -544,6 +478,84 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 8
+        }
+      },
+      {
+        "id": "01kpmngdv5pg97fgh18ytem7jz",
+        "url": "https://read.readwise.io/read/01kpmngdv5pg97fgh18ytem7jz",
+        "source_url": "https://qwelian.com/posts/FINE_SHYT_Intelligent_Curation_Tagging_for_Creative_Workflows",
+        "title": "Intelligent Curation Tagging for Creative Workflows",
+        "author": "qwelian.com",
+        "image_url": "",
+        "word_count": 3370,
+        "summary": "This system helps organize large photo archives by using AI to describe and rate images based on personal taste. It works in stages, analyzing technical quality, extracting metadata, and learning from user ratings to improve recommendations. Ultimately, the AI supports but does not replace human judgment in choosing which photos to keep or export.",
+        "notes": "Via HN",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-20T05:23:44.100000+00:00",
+        "last_moved_at": "2026-04-20T05:23:48.382000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01kgafx4271vdg3eqw50jk0jm8",
+        "url": "https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8",
+        "source_url": "https://blog.xoria.org/macos-tips/",
+        "title": "macOS Tips",
+        "author": "xoria.org",
+        "image_url": "",
+        "word_count": 2856,
+        "summary": "macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.",
+        "notes": "",
+        "tags": {
+          "macos": {
+            "name": "MacOS",
+            "type": "manual",
+            "created": 1769878762214
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-31T16:59:13.351000+00:00",
+        "last_moved_at": "2026-01-31T16:59:16.193000+00:00",
+        "published_date": "2024-11-15",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01k7z3amqe376ky08bkmjbnp3v",
+        "url": "https://read.readwise.io/read/01k7z3amqe376ky08bkmjbnp3v",
+        "source_url": "https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email",
+        "title": "How to build a remarkable command palette",
+        "author": "Tim Boucher",
+        "image_url": "https://blog.superhuman.com/content/images/2021/10/Cmd_Header.jpg",
+        "word_count": 2747,
+        "summary": "A command palette is a user interface tool that allows quick access to various commands, making it easier for users to discover features. To build an effective command palette, ensure it is available everywhere, centralizes all commands, and offers flexibility in command matching. By following these principles, you can create a powerful and user-friendly command palette that enhances productivity.",
+        "notes": "https://chatgpt.com/c/69442ca9-df50-8325-a6a9-ab2121ec93ae",
+        "tags": {
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1760906540423
+          }
+        },
+        "highlights": [],
+        "saved_at": "2025-10-19T20:42:11.566000+00:00",
+        "last_moved_at": "2025-10-20T06:47:56.848000+00:00",
+        "published_date": "2021-10-12",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 7
         }
       }
     ],
@@ -649,83 +661,6 @@
         }
       },
       {
-        "id": "01kg4hy6f9wszmza56vvc5pbdz",
-        "url": "https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code",
-        "title": "The creator of Clawd: \"I ship code I don't read\"",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!3vGV!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01f8c024-dd46-46b1-bde6-e648412e8230_1524x990.png",
-        "word_count": 1589,
-        "summary": "Peter Steinberger uses AI agents to build and ship software quickly, acting like a whole team by himself. He designs systems so AI can check and improve its own code without much human review. This new way of working focuses on outcomes and architecture, not on writing every line of code by hand.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-29T09:39:19.145000+00:00",
-        "last_moved_at": "2026-01-29T09:39:21.846000+00:00",
-        "published_date": "2026-01-28",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kkmj8cbrx3ybzn7sb68vz765",
-        "url": "https://read.readwise.io/read/01kkmj8cbrx3ybzn7sb68vz765",
-        "source_url": "https://www.anildash.com/2026/03/13/coders-after-ai/",
-        "title": "What do coders do after AI?",
-        "author": "Anil Dash",
-        "image_url": "https://www.anildash.com/images/nyt-hacker-hoodie-1.jpg",
-        "word_count": 1721,
-        "summary": "AI is changing coding by automating much of the work, which threatens many stable tech jobs. Some coders see this as a loss of craft, while others may adapt by focusing on guiding AI tools. The future depends on coders who care coming together to build new, ethical ways to work beyond big companies.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1773437996732
-          },
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1773437997975
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-13T21:39:49.240000+00:00",
-        "last_moved_at": "2026-03-13T21:39:52.382000+00:00",
-        "published_date": "2026-03-13",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
-        }
-      },
-      {
-        "id": "01krnb8wkv0w16tjx2m36nqymm",
-        "url": "https://read.readwise.io/read/01krnb8wkv0w16tjx2m36nqymm",
-        "source_url": "https://mypacifichealth.com/stress-bragging-how-hustle-culture-glorifies-burnout/",
-        "title": "Stress Bragging: How Hustle Culture Glorifies Burnout",
-        "author": "Jennifer Arnold",
-        "image_url": "https://mypacifichealth.com/wp-content/uploads/2024/11/Pacific-Health-Logo-1.png",
-        "word_count": 1998,
-        "summary": "Stress bragging is when people show off how busy and tired they are, making burnout seem like an achievement. Hustle culture pushes the idea that working nonstop equals success, but this can harm health and lower productivity. To stop stress bragging, we should value rest, set boundaries, and ask for help if burnout symptoms appear.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-15T08:15:29.403000+00:00",
-        "last_moved_at": "2026-05-15T08:15:42.119000+00:00",
-        "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 1
-        }
-      },
-      {
         "id": "01kpzrr28fjd6a6pknn9d5hvt5",
         "url": "https://read.readwise.io/read/01kpzrr28fjd6a6pknn9d5hvt5",
         "source_url": "https://www.beyondlogic.org/usbnutshell/usb1.shtml",
@@ -774,28 +709,6 @@
         "saved_at": "2026-04-13T12:14:46.006000+00:00",
         "last_moved_at": "2026-04-13T12:14:57.079000+00:00",
         "published_date": "2026-04-01",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kgrsdz9j55dc8rm8q8410rj9",
-        "url": "https://read.readwise.io/read/01kgrsdz9j55dc8rm8q8410rj9",
-        "source_url": "https://davegriffith.substack.com/p/brain-dumps-as-a-literary-form",
-        "title": "Brain Dumps as a Literary Form",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 2431,
-        "summary": "Dave Griffith shares his thinking process through AI-assisted transcripts instead of polished conclusions. This new form shows how ideas develop and helps others understand reasoning better. It changes how we communicate and may create a market for watching thinkers work in real time.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-02-06T06:15:04.752000+00:00",
-        "last_moved_at": "2026-02-06T06:15:06.711000+00:00",
-        "published_date": "2026-02-05",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -1054,50 +967,6 @@
         }
       },
       {
-        "id": "01km5fqgjckw8znfxbjqybrm3c",
-        "url": "https://read.readwise.io/read/01km5fqgjckw8znfxbjqybrm3c",
-        "source_url": "https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev",
-        "title": "The MacBook Neo",
-        "author": "Daring Fireball",
-        "image_url": "https://daringfireball.net/graphics/df-wide-card.png",
-        "word_count": 3347,
-        "summary": "The MacBook Neo is a $600 laptop with the same powerful chip as the latest iPhone 16 Pro. It offers strong performance, good build quality, and runs full MacOS, making it a great choice for new Mac users and those wanting a portable secondary computer. Despite some minor flaws, it outperforms many similarly priced laptops and serves as a solid alternative to tablets like the iPad.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-20T11:22:44.684000+00:00",
-        "last_moved_at": "2026-03-20T11:22:49.301000+00:00",
-        "published_date": "2026-03-10",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
-        }
-      },
-      {
-        "id": "01kehqcxrgjpevpz78xx06w5mp",
-        "url": "https://read.readwise.io/read/01kehqcxrgjpevpz78xx06w5mp",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
-        "title": "When AI writes almost all code, what happens to software engineering?",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!sLlF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd77a41b8-2e53-435d-9cf6-8298bd9af3e1_1146x822.png",
-        "word_count": 3371,
-        "summary": "AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-09T15:53:28.592000+00:00",
-        "last_moved_at": "2026-01-09T15:53:32.780000+00:00",
-        "published_date": "2026-01-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
         "id": "01keh0mtv65mmaj4vwam6etx96",
         "url": "https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96",
         "source_url": "https://steipete.me/posts/2025/shipping-at-inference-speed",
@@ -1140,28 +1009,6 @@
         "saved_at": "2026-04-04T08:54:26.613000+00:00",
         "last_moved_at": "2026-04-04T08:54:31.257000+00:00",
         "published_date": "2026-03-26",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kg1cwtt6qjef7dg86j5y98hd",
-        "url": "https://read.readwise.io/read/01kg1cwtt6qjef7dg86j5y98hd",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft",
-        "title": "Inside one startup’s crazy fast AI-first makeover",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!EVwx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95ab3637-7b93-4faf-8912-19698fe1f451_1600x914.png",
-        "word_count": 3790,
-        "summary": "Craft, a startup focused on docs and tasks, shifted quickly to use AI tools called Craft Agents that help both engineers and non-engineers work better. The new AI tool lets teams automate tasks and build things faster, with non-technical staff using it even more than developers. This change shows how startups are adopting AI deeply to improve how they build software and run their work.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-28T04:13:28.262000+00:00",
-        "last_moved_at": "2026-01-28T04:13:30.104000+00:00",
-        "published_date": "2026-01-27",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -1335,6 +1182,218 @@
           "is_evergreen": true,
           "interest_score": 2
         }
+      },
+      {
+        "id": "01krth7pb0e1155337kp7zp6vn",
+        "url": "https://read.readwise.io/read/01krth7pb0e1155337kp7zp6vn",
+        "source_url": "https://www.focalcurve.com/journal/the-end/",
+        "title": "The End",
+        "author": "focalcurve.com",
+        "image_url": "https://www.focalcurve.com/assets/img/journal/retired/the-end-1920w.e11957c7.jpg",
+        "word_count": 4746,
+        "summary": "The author worked at Mozilla for 13 years but left in early 2025 feeling ready to move on. They found job hunting hard and lost interest in the current tech scene. Now retired, they enjoy reading and hope to explore art without pressure.",
+        "notes": "",
+        "tags": {},
+        "highlights": [
+          {
+            "id": "01krzhv9b911mcn3wvzx2ee3s5",
+            "url": "https://read.readwise.io/read/01krzhv9b911mcn3wvzx2ee3s5",
+            "source_url": null,
+            "title": null,
+            "author": null,
+            "source": "reader-web-app",
+            "category": "highlight",
+            "location": null,
+            "tags": {},
+            "site_name": null,
+            "word_count": null,
+            "notes": "",
+            "summary": null,
+            "image_url": null,
+            "parent_id": "01krth7pb0e1155337kp7zp6vn",
+            "reading_progress": 0.0,
+            "content": "As unhappy as I was for those final years, I held on for a few reasons. Foremost was the dread of looking for a job for the first time in two decades. I didn’t relish the thought of sending endless applications, mostly to be rejected or ignored. Then if I’m very lucky, suffering a gauntlet of awkward and humiliating interviews. Then if I’m very, very lucky, facing the tense ordeal of starting fresh somewhere new with all new people and processes and politics. Not to mention running the very real risk that another company might be managed even worse than Mozilla.",
+            "html_content": null,
+            "published_date": null,
+            "created_at": "2026-05-19T07:22:48.877500+00:00",
+            "updated_at": "2026-05-19T07:22:48.877515+00:00",
+            "saved_at": "2026-05-19T07:22:48.041000+00:00",
+            "first_opened_at": null,
+            "last_opened_at": null,
+            "last_moved_at": "2026-05-19T07:22:48.041000+00:00"
+          }
+        ],
+        "saved_at": "2026-05-17T08:35:53.824000+00:00",
+        "last_moved_at": "2026-05-17T08:35:57.787000+00:00",
+        "published_date": "2026-03-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kg1es655s5c1ew31fbes8ae4",
+        "url": "https://read.readwise.io/read/01kg1es655s5c1ew31fbes8ae4",
+        "source_url": "https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/",
+        "title": "If Anthropic Succeeds, a Nation of Benevolent AI Geniuses Could Be Born",
+        "author": "Steven Levy",
+        "image_url": "https://media.wired.com/photos/67dc466ffa0c3a77d4f8f567/191:100/w_1280,c_limit/WIRED_ANTHROPIC_002-V2_web.jpg",
+        "word_count": 5456,
+        "summary": "Anthropic is building a safer and smarter AI called Claude that can help humans. The company focuses on making AI ethical and aligned with human values. They believe powerful AI could change the world but must be developed carefully to avoid risks.",
+        "notes": "",
+        "tags": {
+          "claude": {
+            "name": "Claude",
+            "type": "manual",
+            "created": 1769580177320
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-28T04:46:25.957000+00:00",
+        "last_moved_at": "2026-01-28T04:46:32.610000+00:00",
+        "published_date": "2025-03-28",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01jr0kw78dv3cjfds3t8dqfrfr",
+        "url": "https://read.readwise.io/read/01jr0kw78dv3cjfds3t8dqfrfr",
+        "source_url": "https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code",
+        "title": "Celebrating 50 years of Microsoft | Bill Gates",
+        "author": "Bill Gates",
+        "image_url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/bcb90e12-f9cd-46c6-ac34-2698b217660a/Social%20Share-Table-1200x630.jpg",
+        "word_count": 5503,
+        "summary": "Bill Gates reflects on the 50th anniversary of Microsoft, starting with the creation of Altair BASIC in 1975. He shares his pride in how this early code led to a revolution in computing and the company's immense success. Gates also acknowledges the influential teachers who helped shape his journey into the world of technology.",
+        "notes": "https://chatgpt.com/c/69441e02-9780-8329-87c1-3b4aef7af67d",
+        "tags": {
+          "shortlist": {
+            "name": "Shortlist",
+            "type": "manual",
+            "created": 1770321668253
+          }
+        },
+        "highlights": [],
+        "saved_at": "2025-04-04T14:39:30.061000+00:00",
+        "last_moved_at": "2025-04-06T20:37:56.139000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kqfkrxbz3t807sm2fm45v7tb",
+        "url": "https://read.readwise.io/read/01kqfkrxbz3t807sm2fm45v7tb",
+        "source_url": "https://karpathy.bearblog.dev/sequoia-ascent-2026/",
+        "title": "Sequoia Ascent 2026 summary",
+        "author": "hidden (karpathy)",
+        "image_url": "https://karpathy.bearblog.dev/static/og-image.png",
+        "word_count": 6040,
+        "summary": "AI is becoming a new way to do digital work by letting neural networks handle most tasks. Programmers now manage smart agents instead of writing all the code themselves. This shift means future software and knowledge work will rely on guiding AI agents, not just speeding up old processes.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-30T16:32:51.655000+00:00",
+        "last_moved_at": "2026-05-03T10:48:16.606000+00:00",
+        "published_date": "2026-04-30",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kjnjanqgfzsvenqw6d62rxqv",
+        "url": "https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv",
+        "source_url": "https://minimaxir.com/2026/02/ai-agent-coding/",
+        "title": "An AI agent coding skeptic tries AI agent coding, in excessive detail",
+        "author": "Max Woolf's Blog",
+        "image_url": "https://minimaxir.com/2026/02/ai-agent-coding/featured.png",
+        "word_count": 6903,
+        "summary": "The author tested AI coding agents and found them surprisingly good at writing and optimizing Rust and Python code. These agents created fast, efficient machine learning tools that rival existing libraries. The author encourages others to try modern agents with clear coding guidelines for better results.",
+        "notes": "Via https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1772397886204
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-03-01T20:44:36.976000+00:00",
+        "last_moved_at": "2026-03-01T20:44:42.974000+00:00",
+        "published_date": "2026-02-27",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kba5sc2x0n5x2dqqrxvsnbh9",
+        "url": "https://read.readwise.io/read/01kba5sc2x0n5x2dqqrxvsnbh9",
+        "source_url": "https://ciechanow.ski/mechanical-watch/?utm_source=substack&utm_medium=email",
+        "title": "Mechanical Watch",
+        "author": "Bartosz Ciechanowski",
+        "image_url": "https://ciechanow.ski/images/og/watch.png",
+        "word_count": 7982,
+        "summary": "A mechanical watch keeps time using a few key parts: a mainspring, gears, an escapement, and a balance wheel. The mainspring stores energy that travels through gear trains to drive the hands while the escapement and balance wheel regulate the speed. Additional mechanisms let you wind, set the time, and protect the movement from shocks.",
+        "notes": "",
+        "tags": {
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1764499445347
+          }
+        },
+        "highlights": [],
+        "saved_at": "2025-11-30T10:43:55.613000+00:00",
+        "last_moved_at": "2025-12-01T05:41:18.495000+00:00",
+        "published_date": "2022-05-04",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kfabyqddxp6mh9jgjpa7mrcv",
+        "url": "https://read.readwise.io/read/01kfabyqddxp6mh9jgjpa7mrcv",
+        "source_url": "https://paulstamatiou.com/2025-year-in-review?utm_source=substack&utm_medium=email",
+        "title": "Year in review: Limitless, Sesame, Claude Code, and more",
+        "author": "paulstamatiou.com",
+        "image_url": "https://turbo.paulstamatiou.com/uploads/2025/12/sesame-office-view.jpg",
+        "word_count": 8751,
+        "summary": "In 2025, Paul Stamatiou focused on designing and building simple, high-quality AI products that feel personal and useful. He left his startup role to join Sesame as Head of Design, working closely on software and hardware. He believes great design means thoughtful product building, not just flashy visuals or shortcuts with AI.",
+        "notes": "",
+        "tags": {
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1768800894049
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-19T05:34:29.805000+00:00",
+        "last_moved_at": "2026-01-19T05:34:55.461000+00:00",
+        "published_date": "2026-01-12",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
       }
     ],
     "quick_wins": [
@@ -1463,28 +1522,6 @@
     ],
     "deep_reading": [
       {
-        "id": "01kehqcxrgjpevpz78xx06w5mp",
-        "url": "https://read.readwise.io/read/01kehqcxrgjpevpz78xx06w5mp",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
-        "title": "When AI writes almost all code, what happens to software engineering?",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!sLlF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd77a41b8-2e53-435d-9cf6-8298bd9af3e1_1146x822.png",
-        "word_count": 3371,
-        "summary": "AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-09T15:53:28.592000+00:00",
-        "last_moved_at": "2026-01-09T15:53:32.780000+00:00",
-        "published_date": "2026-01-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
         "id": "01kjnjanqgfzsvenqw6d62rxqv",
         "url": "https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv",
         "source_url": "https://minimaxir.com/2026/02/ai-agent-coding/",
@@ -1555,28 +1592,6 @@
         "saved_at": "2026-01-28T05:59:54.532000+00:00",
         "last_moved_at": "2026-01-28T05:59:58.961000+00:00",
         "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kg1cwtt6qjef7dg86j5y98hd",
-        "url": "https://read.readwise.io/read/01kg1cwtt6qjef7dg86j5y98hd",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft",
-        "title": "Inside one startup’s crazy fast AI-first makeover",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!EVwx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95ab3637-7b93-4faf-8912-19698fe1f451_1600x914.png",
-        "word_count": 3790,
-        "summary": "Craft, a startup focused on docs and tasks, shifted quickly to use AI tools called Craft Agents that help both engineers and non-engineers work better. The new AI tool lets teams automate tasks and build things faster, with non-technical staff using it even more than developers. This change shows how startups are adopting AI deeply to improve how they build software and run their work.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-28T04:13:28.262000+00:00",
-        "last_moved_at": "2026-01-28T04:13:30.104000+00:00",
-        "published_date": "2026-01-27",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -1779,28 +1794,6 @@
         }
       },
       {
-        "id": "01kg4hy6f9wszmza56vvc5pbdz",
-        "url": "https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code",
-        "title": "The creator of Clawd: \"I ship code I don't read\"",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!3vGV!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01f8c024-dd46-46b1-bde6-e648412e8230_1524x990.png",
-        "word_count": 1589,
-        "summary": "Peter Steinberger uses AI agents to build and ship software quickly, acting like a whole team by himself. He designs systems so AI can check and improve its own code without much human review. This new way of working focuses on outcomes and architecture, not on writing every line of code by hand.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-29T09:39:19.145000+00:00",
-        "last_moved_at": "2026-01-29T09:39:21.846000+00:00",
-        "published_date": "2026-01-28",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
         "id": "01kpmngdv5pg97fgh18ytem7jz",
         "url": "https://read.readwise.io/read/01kpmngdv5pg97fgh18ytem7jz",
         "source_url": "https://qwelian.com/posts/FINE_SHYT_Intelligent_Curation_Tagging_for_Creative_Workflows",
@@ -1903,28 +1896,6 @@
           "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 7
-        }
-      },
-      {
-        "id": "01krv7w4cxwp7rv4hp56q263xc",
-        "url": "https://read.readwise.io/read/01krv7w4cxwp7rv4hp56q263xc",
-        "source_url": "https://www.heise.de/en/blog/Reading-code-instead-of-writing-code-The-underestimated-senior-discipline-11295136.html",
-        "title": "Reading code instead of writing code: The underestimated senior discipline",
-        "author": "Golo Roden",
-        "image_url": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/2/9/9/5/shutterstock_2288178675-0d8fbb8d299a1a9f.jpg",
-        "word_count": 2320,
-        "summary": "Reading code is a crucial skill that helps programmers truly understand software beyond just writing it. Large Language Models make writing code fast, but understanding it still requires time and effort. Those who practice reading code build deeper knowledge, while ignoring it leads to costly problems later.",
-        "notes": "Via HN",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-17T15:11:32.253000+00:00",
-        "last_moved_at": "2026-05-17T15:11:36.934000+00:00",
-        "published_date": "2026-05-16",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 6
         }
       },
       {
@@ -2049,6 +2020,39 @@
         }
       },
       {
+        "id": "01krwwzt19d6zeem88b59z983s",
+        "url": "https://read.readwise.io/read/01krwwzt19d6zeem88b59z983s",
+        "source_url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+        "title": "Migrating from Go to Rust",
+        "author": "Matthias Endler",
+        "image_url": "https://corrode.dev/apple-touch-icon.png",
+        "word_count": 5536,
+        "summary": "Go and Rust both offer strong concurrency and performance, but Rust has stricter safety checks and a more powerful type system. Rust’s generics and traits provide better code reuse and fewer runtime errors, though compile times are slower and the learning curve is steeper. Moving from Go to Rust means trading simplicity and fast builds for safety, expressiveness, and fewer runtime bugs.",
+        "notes": "",
+        "tags": {
+          "go": {
+            "name": "Go",
+            "type": "manual",
+            "created": 1779172657563
+          },
+          "rust": {
+            "name": "Rust",
+            "type": "manual",
+            "created": 1779172660776
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-05-18T06:39:44.242000+00:00",
+        "last_moved_at": "2026-05-19T06:37:47.315000+00:00",
+        "published_date": "2026-05-19",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 4
+        }
+      },
+      {
         "id": "01kke9tesp0nwb5ps5fn0nd3ff",
         "url": "https://read.readwise.io/read/01kke9tesp0nwb5ps5fn0nd3ff",
         "source_url": "https://aresluna.org/fn/?utm_source=tldrdev",
@@ -2091,28 +2095,6 @@
         "saved_at": "2026-03-11T11:42:03.394000+00:00",
         "last_moved_at": "2026-03-11T11:42:17.126000+00:00",
         "published_date": "2026-03-02",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
-        }
-      },
-      {
-        "id": "01km5fqgjckw8znfxbjqybrm3c",
-        "url": "https://read.readwise.io/read/01km5fqgjckw8znfxbjqybrm3c",
-        "source_url": "https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev",
-        "title": "The MacBook Neo",
-        "author": "Daring Fireball",
-        "image_url": "https://daringfireball.net/graphics/df-wide-card.png",
-        "word_count": 3347,
-        "summary": "The MacBook Neo is a $600 laptop with the same powerful chip as the latest iPhone 16 Pro. It offers strong performance, good build quality, and runs full MacOS, making it a great choice for new Mac users and those wanting a portable secondary computer. Despite some minor flaws, it outperforms many similarly priced laptops and serves as a solid alternative to tablets like the iPad.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-20T11:22:44.684000+00:00",
-        "last_moved_at": "2026-03-20T11:22:49.301000+00:00",
-        "published_date": "2026-03-10",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -2202,67 +2184,6 @@
           "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 3
-        }
-      },
-      {
-        "id": "01kkmj8cbrx3ybzn7sb68vz765",
-        "url": "https://read.readwise.io/read/01kkmj8cbrx3ybzn7sb68vz765",
-        "source_url": "https://www.anildash.com/2026/03/13/coders-after-ai/",
-        "title": "What do coders do after AI?",
-        "author": "Anil Dash",
-        "image_url": "https://www.anildash.com/images/nyt-hacker-hoodie-1.jpg",
-        "word_count": 1721,
-        "summary": "AI is changing coding by automating much of the work, which threatens many stable tech jobs. Some coders see this as a loss of craft, while others may adapt by focusing on guiding AI tools. The future depends on coders who care coming together to build new, ethical ways to work beyond big companies.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1773437996732
-          },
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1773437997975
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-13T21:39:49.240000+00:00",
-        "last_moved_at": "2026-03-13T21:39:52.382000+00:00",
-        "published_date": "2026-03-13",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
-        }
-      },
-      {
-        "id": "01kjmw4a52rcxbmeawgcw8w4f8",
-        "url": "https://read.readwise.io/read/01kjmw4a52rcxbmeawgcw8w4f8",
-        "source_url": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/?utm_source=substack&utm_medium=email",
-        "title": "Child’s Play",
-        "author": "Sam Kriss",
-        "image_url": "https://wp.harpers.org/wp-content/uploads/2026/02/CUT-12-scaled.jpg",
-        "word_count": 9390,
-        "summary": "Roy went to Columbia not to learn but to start a tech company called Cluely, which mixed AI with a flashy, frat-like culture. The story shows how young tech founders use AI for control and self-promotion, often confusing usefulness with hype. It also highlights a world where social media and startups become the main way to seek identity and success.",
-        "notes": "",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1772374608737
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-01T14:16:39.842000+00:00",
-        "last_moved_at": "2026-03-01T14:16:44.048000+00:00",
-        "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
         }
       },
       {
@@ -2410,7 +2331,35 @@
         "summary": "The author worked at Mozilla for 13 years but left in early 2025 feeling ready to move on. They found job hunting hard and lost interest in the current tech scene. Now retired, they enjoy reading and hope to explore art without pressure.",
         "notes": "",
         "tags": {},
-        "highlights": [],
+        "highlights": [
+          {
+            "id": "01krzhv9b911mcn3wvzx2ee3s5",
+            "url": "https://read.readwise.io/read/01krzhv9b911mcn3wvzx2ee3s5",
+            "source_url": null,
+            "title": null,
+            "author": null,
+            "source": "reader-web-app",
+            "category": "highlight",
+            "location": null,
+            "tags": {},
+            "site_name": null,
+            "word_count": null,
+            "notes": "",
+            "summary": null,
+            "image_url": null,
+            "parent_id": "01krth7pb0e1155337kp7zp6vn",
+            "reading_progress": 0.0,
+            "content": "As unhappy as I was for those final years, I held on for a few reasons. Foremost was the dread of looking for a job for the first time in two decades. I didn’t relish the thought of sending endless applications, mostly to be rejected or ignored. Then if I’m very lucky, suffering a gauntlet of awkward and humiliating interviews. Then if I’m very, very lucky, facing the tense ordeal of starting fresh somewhere new with all new people and processes and politics. Not to mention running the very real risk that another company might be managed even worse than Mozilla.",
+            "html_content": null,
+            "published_date": null,
+            "created_at": "2026-05-19T07:22:48.877500+00:00",
+            "updated_at": "2026-05-19T07:22:48.877515+00:00",
+            "saved_at": "2026-05-19T07:22:48.041000+00:00",
+            "first_opened_at": null,
+            "last_opened_at": null,
+            "last_moved_at": "2026-05-19T07:22:48.041000+00:00"
+          }
+        ],
         "saved_at": "2026-05-17T08:35:53.824000+00:00",
         "last_moved_at": "2026-05-17T08:35:57.787000+00:00",
         "published_date": "2026-03-24",
@@ -2672,28 +2621,6 @@
         }
       },
       {
-        "id": "01kgrsdz9j55dc8rm8q8410rj9",
-        "url": "https://read.readwise.io/read/01kgrsdz9j55dc8rm8q8410rj9",
-        "source_url": "https://davegriffith.substack.com/p/brain-dumps-as-a-literary-form",
-        "title": "Brain Dumps as a Literary Form",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 2431,
-        "summary": "Dave Griffith shares his thinking process through AI-assisted transcripts instead of polished conclusions. This new form shows how ideas develop and helps others understand reasoning better. It changes how we communicate and may create a market for watching thinkers work in real time.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-02-06T06:15:04.752000+00:00",
-        "last_moved_at": "2026-02-06T06:15:06.711000+00:00",
-        "published_date": "2026-02-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kp3c80qpbjvt9qmbpgy9515h",
         "url": "https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h",
         "source_url": "https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email",
@@ -2781,28 +2708,6 @@
           "is_evergreen": true,
           "interest_score": 2
         }
-      },
-      {
-        "id": "01krnb8wkv0w16tjx2m36nqymm",
-        "url": "https://read.readwise.io/read/01krnb8wkv0w16tjx2m36nqymm",
-        "source_url": "https://mypacifichealth.com/stress-bragging-how-hustle-culture-glorifies-burnout/",
-        "title": "Stress Bragging: How Hustle Culture Glorifies Burnout",
-        "author": "Jennifer Arnold",
-        "image_url": "https://mypacifichealth.com/wp-content/uploads/2024/11/Pacific-Health-Logo-1.png",
-        "word_count": 1998,
-        "summary": "Stress bragging is when people show off how busy and tired they are, making burnout seem like an achievement. Hustle culture pushes the idea that working nonstop equals success, but this can harm health and lower productivity. To stop stress bragging, we should value rest, set boundaries, and ask for help if burnout symptoms appear.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-15T08:15:29.403000+00:00",
-        "last_moved_at": "2026-05-15T08:15:42.119000+00:00",
-        "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 1
-        }
       }
     ],
     "tutorials": [
@@ -2885,30 +2790,30 @@
         }
       },
       {
-        "id": "01kfab8cadmd9nwh3npxbvvws4",
-        "url": "https://read.readwise.io/read/01kfab8cadmd9nwh3npxbvvws4",
-        "source_url": "https://builders.ramp.com/post/why-we-built-our-background-agent?utm_source=substack&utm_medium=email",
-        "title": "Why We Built Our Own Background Agent",
-        "author": "Zach Bruggeman, Jason Quense, Rahul Sengottuvelu",
-        "image_url": "https://assets.ramp.com/builders-blog/ramp_engineering.png",
-        "word_count": 2798,
-        "summary": "The team built Inspect, a background coding agent that runs tests, reviews data, and works in a sandboxed cloud environment. It supports many tools, offers multiplayer sessions, and connects with platforms like Slack for easy collaboration. Their focus is on speed, flexibility, and helping all team members contribute effectively.",
+        "id": "01krzf75d1xh48n0mwhqnmg33x",
+        "url": "https://read.readwise.io/read/01krzf75d1xh48n0mwhqnmg33x",
+        "source_url": "https://eclecticlight.co/2026/05/19/settings-preferences-and-defaults/",
+        "title": "Settings, preferences and defaults",
+        "author": "hoakley",
+        "image_url": "https://eclecticlight.co/wp-content/uploads/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200",
+        "word_count": 1304,
+        "summary": "Mac apps store settings in preference files managed by a system called cfprefsd for easy access and saving. To safely change these settings, use the defaults command or a special editor that works with cfprefsd. Avoid editing preference files directly unless sure no app is running, and never paste unknown commands into Terminal.",
         "notes": "",
         "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
+          "macos": {
+            "name": "MacOS",
             "type": "manual",
-            "created": 1768800147270
+            "created": 1779174413011
           }
         },
         "highlights": [],
-        "saved_at": "2026-01-19T05:22:17.549000+00:00",
-        "last_moved_at": "2026-01-19T05:22:21.813000+00:00",
-        "published_date": "2026-01-12",
+        "saved_at": "2026-05-19T06:36:48.490000+00:00",
+        "last_moved_at": "2026-05-19T07:06:55.066000+00:00",
+        "published_date": "2026-05-19",
         "triage": {
           "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
+          "is_foundational": true,
+          "is_evergreen": true,
           "interest_score": 9
         }
       },
@@ -2970,28 +2875,6 @@
           "is_tutorial": true,
           "is_foundational": true,
           "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01krqhmm6r5246sb7ewxhdjnw4",
-        "url": "https://read.readwise.io/read/01krqhmm6r5246sb7ewxhdjnw4",
-        "source_url": "https://www.youtube.com/watch?v=xShGjTBJbjE",
-        "title": "Пишем браузерные e2e-тесты с локальным qwen3.6 и агентом разработки pi",
-        "author": "Диджитализируй!",
-        "image_url": "https://i.ytimg.com/vi/xShGjTBJbjE/sddefault.jpg",
-        "word_count": null,
-        "summary": "В видео рассказывается, как с помощью локальной языковой модели Qwen3.6 и агента pi можно легко и быстро писать end-to-end тесты для веб-приложений. Модель сама выполняет действия в браузере по простому описанию теста и создает рабочие тесты на Python. Такой подход помогает улучшить качество продукта, сохраняя приватность и не требуя платных LLM-сервисов.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-16T04:45:11.328000+00:00",
-        "last_moved_at": "2026-05-17T08:11:40.651000+00:00",
-        "published_date": "2026-05-15",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
           "interest_score": 8
         }
       },
@@ -3249,28 +3132,6 @@
           "is_evergreen": true,
           "interest_score": 2
         }
-      },
-      {
-        "id": "01kn84zxd57pbrgw7mdyhtmvvn",
-        "url": "https://read.readwise.io/read/01kn84zxd57pbrgw7mdyhtmvvn",
-        "source_url": "https://mischianti.org/complete-guide-using-an-ili9341-display-with-the-tft_espi-library/",
-        "title": "Complete Guide: Using an ILI9341 Display with the TFT_eSPI Library",
-        "author": "Renzo Mischianti",
-        "image_url": "https://mischianti.org/wp-content/uploads/2025/02/Using-an-ILI9341-Display-with-the-TFT_eSPI-Library.jpg",
-        "word_count": 1708,
-        "summary": "This guide shows how to use the ILI9341 TFT display with the ESP32 and the TFT_eSPI library. It explains setup, drawing shapes, text, images, and animations easily. The library makes it simple to create colorful, interactive projects with smooth graphics and touch support.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-02T22:28:30.757000+00:00",
-        "last_moved_at": "2026-04-02T22:28:36.335000+00:00",
-        "published_date": "2025-05-12",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
       }
     ],
     "fundamentals": [
@@ -3289,6 +3150,34 @@
         "saved_at": "2026-03-27T22:21:17.637000+00:00",
         "last_moved_at": "2026-03-27T22:21:29.937000+00:00",
         "published_date": "2026-03-25",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01krzf75d1xh48n0mwhqnmg33x",
+        "url": "https://read.readwise.io/read/01krzf75d1xh48n0mwhqnmg33x",
+        "source_url": "https://eclecticlight.co/2026/05/19/settings-preferences-and-defaults/",
+        "title": "Settings, preferences and defaults",
+        "author": "hoakley",
+        "image_url": "https://eclecticlight.co/wp-content/uploads/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200",
+        "word_count": 1304,
+        "summary": "Mac apps store settings in preference files managed by a system called cfprefsd for easy access and saving. To safely change these settings, use the defaults command or a special editor that works with cfprefsd. Avoid editing preference files directly unless sure no app is running, and never paste unknown commands into Terminal.",
+        "notes": "",
+        "tags": {
+          "macos": {
+            "name": "MacOS",
+            "type": "manual",
+            "created": 1779174413011
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-05-19T06:36:48.490000+00:00",
+        "last_moved_at": "2026-05-19T07:06:55.066000+00:00",
+        "published_date": "2026-05-19",
         "triage": {
           "is_tutorial": true,
           "is_foundational": true,
@@ -3679,28 +3568,6 @@
         }
       },
       {
-        "id": "01krv7w4cxwp7rv4hp56q263xc",
-        "url": "https://read.readwise.io/read/01krv7w4cxwp7rv4hp56q263xc",
-        "source_url": "https://www.heise.de/en/blog/Reading-code-instead-of-writing-code-The-underestimated-senior-discipline-11295136.html",
-        "title": "Reading code instead of writing code: The underestimated senior discipline",
-        "author": "Golo Roden",
-        "image_url": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/2/9/9/5/shutterstock_2288178675-0d8fbb8d299a1a9f.jpg",
-        "word_count": 2320,
-        "summary": "Reading code is a crucial skill that helps programmers truly understand software beyond just writing it. Large Language Models make writing code fast, but understanding it still requires time and effort. Those who practice reading code build deeper knowledge, while ignoring it leads to costly problems later.",
-        "notes": "Via HN",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-17T15:11:32.253000+00:00",
-        "last_moved_at": "2026-05-17T15:11:36.934000+00:00",
-        "published_date": "2026-05-16",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 6
-        }
-      },
-      {
         "id": "01kgpxfr0rd5sezbhmv0szq1dt",
         "url": "https://read.readwise.io/read/01kgpxfr0rd5sezbhmv0szq1dt",
         "source_url": "https://mtlynch.io/good-developers-bad-tests/#test-code-is-not-like-other-code",
@@ -3842,6 +3709,39 @@
         "saved_at": "2025-10-02T21:41:51.487000+00:00",
         "last_moved_at": "2025-10-03T11:16:54.716000+00:00",
         "published_date": "2015-04-27",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 4
+        }
+      },
+      {
+        "id": "01krwwzt19d6zeem88b59z983s",
+        "url": "https://read.readwise.io/read/01krwwzt19d6zeem88b59z983s",
+        "source_url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+        "title": "Migrating from Go to Rust",
+        "author": "Matthias Endler",
+        "image_url": "https://corrode.dev/apple-touch-icon.png",
+        "word_count": 5536,
+        "summary": "Go and Rust both offer strong concurrency and performance, but Rust has stricter safety checks and a more powerful type system. Rust’s generics and traits provide better code reuse and fewer runtime errors, though compile times are slower and the learning curve is steeper. Moving from Go to Rust means trading simplicity and fast builds for safety, expressiveness, and fewer runtime bugs.",
+        "notes": "",
+        "tags": {
+          "go": {
+            "name": "Go",
+            "type": "manual",
+            "created": 1779172657563
+          },
+          "rust": {
+            "name": "Rust",
+            "type": "manual",
+            "created": 1779172660776
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-05-18T06:39:44.242000+00:00",
+        "last_moved_at": "2026-05-19T06:37:47.315000+00:00",
+        "published_date": "2026-05-19",
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
@@ -4123,56 +4023,6 @@
     ],
     "timely": [
       {
-        "id": "01kehqcxrgjpevpz78xx06w5mp",
-        "url": "https://read.readwise.io/read/01kehqcxrgjpevpz78xx06w5mp",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
-        "title": "When AI writes almost all code, what happens to software engineering?",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!sLlF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd77a41b8-2e53-435d-9cf6-8298bd9af3e1_1146x822.png",
-        "word_count": 3371,
-        "summary": "AI tools are now good enough to write most application code, and many engineers already use them to generate 80–90% of their work. This will reduce the value of specialized language or prototyping skills but make developers more focused on higher-level design, prompts, and oversight. The software engineering role will shift toward guiding, validating, and integrating AI-generated code rather than typing every line.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-09T15:53:28.592000+00:00",
-        "last_moved_at": "2026-01-09T15:53:32.780000+00:00",
-        "published_date": "2026-01-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kfab8cadmd9nwh3npxbvvws4",
-        "url": "https://read.readwise.io/read/01kfab8cadmd9nwh3npxbvvws4",
-        "source_url": "https://builders.ramp.com/post/why-we-built-our-background-agent?utm_source=substack&utm_medium=email",
-        "title": "Why We Built Our Own Background Agent",
-        "author": "Zach Bruggeman, Jason Quense, Rahul Sengottuvelu",
-        "image_url": "https://assets.ramp.com/builders-blog/ramp_engineering.png",
-        "word_count": 2798,
-        "summary": "The team built Inspect, a background coding agent that runs tests, reviews data, and works in a sandboxed cloud environment. It supports many tools, offers multiplayer sessions, and connects with platforms like Slack for easy collaboration. Their focus is on speed, flexibility, and helping all team members contribute effectively.",
-        "notes": "",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1768800147270
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-19T05:22:17.549000+00:00",
-        "last_moved_at": "2026-01-19T05:22:21.813000+00:00",
-        "published_date": "2026-01-12",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
         "id": "01kjnjanqgfzsvenqw6d62rxqv",
         "url": "https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv",
         "source_url": "https://minimaxir.com/2026/02/ai-agent-coding/",
@@ -4243,28 +4093,6 @@
         "saved_at": "2026-01-28T05:59:54.532000+00:00",
         "last_moved_at": "2026-01-28T05:59:58.961000+00:00",
         "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kg1cwtt6qjef7dg86j5y98hd",
-        "url": "https://read.readwise.io/read/01kg1cwtt6qjef7dg86j5y98hd",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft",
-        "title": "Inside one startup’s crazy fast AI-first makeover",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!EVwx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95ab3637-7b93-4faf-8912-19698fe1f451_1600x914.png",
-        "word_count": 3790,
-        "summary": "Craft, a startup focused on docs and tasks, shifted quickly to use AI tools called Craft Agents that help both engineers and non-engineers work better. The new AI tool lets teams automate tasks and build things faster, with non-technical staff using it even more than developers. This change shows how startups are adopting AI deeply to improve how they build software and run their work.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-28T04:13:28.262000+00:00",
-        "last_moved_at": "2026-01-28T04:13:30.104000+00:00",
-        "published_date": "2026-01-27",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -4346,50 +4174,6 @@
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kg4hy6f9wszmza56vvc5pbdz",
-        "url": "https://read.readwise.io/read/01kg4hy6f9wszmza56vvc5pbdz",
-        "source_url": "https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code",
-        "title": "The creator of Clawd: \"I ship code I don't read\"",
-        "author": "Gergely Orosz",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!3vGV!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01f8c024-dd46-46b1-bde6-e648412e8230_1524x990.png",
-        "word_count": 1589,
-        "summary": "Peter Steinberger uses AI agents to build and ship software quickly, acting like a whole team by himself. He designs systems so AI can check and improve its own code without much human review. This new way of working focuses on outcomes and architecture, not on writing every line of code by hand.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-29T09:39:19.145000+00:00",
-        "last_moved_at": "2026-01-29T09:39:21.846000+00:00",
-        "published_date": "2026-01-28",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01krqhmm6r5246sb7ewxhdjnw4",
-        "url": "https://read.readwise.io/read/01krqhmm6r5246sb7ewxhdjnw4",
-        "source_url": "https://www.youtube.com/watch?v=xShGjTBJbjE",
-        "title": "Пишем браузерные e2e-тесты с локальным qwen3.6 и агентом разработки pi",
-        "author": "Диджитализируй!",
-        "image_url": "https://i.ytimg.com/vi/xShGjTBJbjE/sddefault.jpg",
-        "word_count": null,
-        "summary": "В видео рассказывается, как с помощью локальной языковой модели Qwen3.6 и агента pi можно легко и быстро писать end-to-end тесты для веб-приложений. Модель сама выполняет действия в браузере по простому описанию теста и создает рабочие тесты на Python. Такой подход помогает улучшить качество продукта, сохраняя приватность и не требуя платных LLM-сервисов.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-16T04:45:11.328000+00:00",
-        "last_moved_at": "2026-05-17T08:11:40.651000+00:00",
-        "published_date": "2026-05-15",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 8
         }
@@ -4494,28 +4278,6 @@
         }
       },
       {
-        "id": "01km5fqgjckw8znfxbjqybrm3c",
-        "url": "https://read.readwise.io/read/01km5fqgjckw8znfxbjqybrm3c",
-        "source_url": "https://daringfireball.net/2026/03/the_macbook_neo?utm_source=tldrdev",
-        "title": "The MacBook Neo",
-        "author": "Daring Fireball",
-        "image_url": "https://daringfireball.net/graphics/df-wide-card.png",
-        "word_count": 3347,
-        "summary": "The MacBook Neo is a $600 laptop with the same powerful chip as the latest iPhone 16 Pro. It offers strong performance, good build quality, and runs full MacOS, making it a great choice for new Mac users and those wanting a portable secondary computer. Despite some minor flaws, it outperforms many similarly priced laptops and serves as a solid alternative to tablets like the iPad.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-20T11:22:44.684000+00:00",
-        "last_moved_at": "2026-03-20T11:22:49.301000+00:00",
-        "published_date": "2026-03-10",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
-        }
-      },
-      {
         "id": "01ken0sk545cynvs3e44ezwrmc",
         "url": "https://read.readwise.io/read/01ken0sk545cynvs3e44ezwrmc",
         "source_url": "https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html?utm_source=tldrdev",
@@ -4572,39 +4334,6 @@
         }
       },
       {
-        "id": "01kkmj8cbrx3ybzn7sb68vz765",
-        "url": "https://read.readwise.io/read/01kkmj8cbrx3ybzn7sb68vz765",
-        "source_url": "https://www.anildash.com/2026/03/13/coders-after-ai/",
-        "title": "What do coders do after AI?",
-        "author": "Anil Dash",
-        "image_url": "https://www.anildash.com/images/nyt-hacker-hoodie-1.jpg",
-        "word_count": 1721,
-        "summary": "AI is changing coding by automating much of the work, which threatens many stable tech jobs. Some coders see this as a loss of craft, while others may adapt by focusing on guiding AI tools. The future depends on coders who care coming together to build new, ethical ways to work beyond big companies.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1773437996732
-          },
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1773437997975
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-13T21:39:49.240000+00:00",
-        "last_moved_at": "2026-03-13T21:39:52.382000+00:00",
-        "published_date": "2026-03-13",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
-        }
-      },
-      {
         "id": "01ke9z29ytbhqp25karjrhxfb6",
         "url": "https://read.readwise.io/read/01ke9z29ytbhqp25karjrhxfb6",
         "source_url": "https://davegriffith.substack.com/p/from-senior-engineer-to-staff-with",
@@ -4624,34 +4353,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 3
-        }
-      },
-      {
-        "id": "01kjmw4a52rcxbmeawgcw8w4f8",
-        "url": "https://read.readwise.io/read/01kjmw4a52rcxbmeawgcw8w4f8",
-        "source_url": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/?utm_source=substack&utm_medium=email",
-        "title": "Child’s Play",
-        "author": "Sam Kriss",
-        "image_url": "https://wp.harpers.org/wp-content/uploads/2026/02/CUT-12-scaled.jpg",
-        "word_count": 9390,
-        "summary": "Roy went to Columbia not to learn but to start a tech company called Cluely, which mixed AI with a flashy, frat-like culture. The story shows how young tech founders use AI for control and self-promotion, often confusing usefulness with hype. It also highlights a world where social media and startups become the main way to seek identity and success.",
-        "notes": "",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1772374608737
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-01T14:16:39.842000+00:00",
-        "last_moved_at": "2026-03-01T14:16:44.048000+00:00",
-        "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
         }
       },
       {
@@ -4749,7 +4450,35 @@
         "summary": "The author worked at Mozilla for 13 years but left in early 2025 feeling ready to move on. They found job hunting hard and lost interest in the current tech scene. Now retired, they enjoy reading and hope to explore art without pressure.",
         "notes": "",
         "tags": {},
-        "highlights": [],
+        "highlights": [
+          {
+            "id": "01krzhv9b911mcn3wvzx2ee3s5",
+            "url": "https://read.readwise.io/read/01krzhv9b911mcn3wvzx2ee3s5",
+            "source_url": null,
+            "title": null,
+            "author": null,
+            "source": "reader-web-app",
+            "category": "highlight",
+            "location": null,
+            "tags": {},
+            "site_name": null,
+            "word_count": null,
+            "notes": "",
+            "summary": null,
+            "image_url": null,
+            "parent_id": "01krth7pb0e1155337kp7zp6vn",
+            "reading_progress": 0.0,
+            "content": "As unhappy as I was for those final years, I held on for a few reasons. Foremost was the dread of looking for a job for the first time in two decades. I didn’t relish the thought of sending endless applications, mostly to be rejected or ignored. Then if I’m very lucky, suffering a gauntlet of awkward and humiliating interviews. Then if I’m very, very lucky, facing the tense ordeal of starting fresh somewhere new with all new people and processes and politics. Not to mention running the very real risk that another company might be managed even worse than Mozilla.",
+            "html_content": null,
+            "published_date": null,
+            "created_at": "2026-05-19T07:22:48.877500+00:00",
+            "updated_at": "2026-05-19T07:22:48.877515+00:00",
+            "saved_at": "2026-05-19T07:22:48.041000+00:00",
+            "first_opened_at": null,
+            "last_opened_at": null,
+            "last_moved_at": "2026-05-19T07:22:48.041000+00:00"
+          }
+        ],
         "saved_at": "2026-05-17T08:35:53.824000+00:00",
         "last_moved_at": "2026-05-17T08:35:57.787000+00:00",
         "published_date": "2026-03-24",
@@ -4845,28 +4574,6 @@
         }
       },
       {
-        "id": "01kgrsdz9j55dc8rm8q8410rj9",
-        "url": "https://read.readwise.io/read/01kgrsdz9j55dc8rm8q8410rj9",
-        "source_url": "https://davegriffith.substack.com/p/brain-dumps-as-a-literary-form",
-        "title": "Brain Dumps as a Literary Form",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 2431,
-        "summary": "Dave Griffith shares his thinking process through AI-assisted transcripts instead of polished conclusions. This new form shows how ideas develop and helps others understand reasoning better. It changes how we communicate and may create a market for watching thinkers work in real time.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-02-06T06:15:04.752000+00:00",
-        "last_moved_at": "2026-02-06T06:15:06.711000+00:00",
-        "published_date": "2026-02-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kp3c80qpbjvt9qmbpgy9515h",
         "url": "https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h",
         "source_url": "https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email",
@@ -4889,28 +4596,6 @@
         "published_date": "2026-04-01",
         "triage": {
           "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kn84zxd57pbrgw7mdyhtmvvn",
-        "url": "https://read.readwise.io/read/01kn84zxd57pbrgw7mdyhtmvvn",
-        "source_url": "https://mischianti.org/complete-guide-using-an-ili9341-display-with-the-tft_espi-library/",
-        "title": "Complete Guide: Using an ILI9341 Display with the TFT_eSPI Library",
-        "author": "Renzo Mischianti",
-        "image_url": "https://mischianti.org/wp-content/uploads/2025/02/Using-an-ILI9341-Display-with-the-TFT_eSPI-Library.jpg",
-        "word_count": 1708,
-        "summary": "This guide shows how to use the ILI9341 TFT display with the ESP32 and the TFT_eSPI library. It explains setup, drawing shapes, text, images, and animations easily. The library makes it simple to create colorful, interactive projects with smooth graphics and touch support.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-02T22:28:30.757000+00:00",
-        "last_moved_at": "2026-04-02T22:28:36.335000+00:00",
-        "published_date": "2025-05-12",
-        "triage": {
-          "is_tutorial": true,
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
@@ -4992,28 +4677,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
-        }
-      },
-      {
-        "id": "01krnb8wkv0w16tjx2m36nqymm",
-        "url": "https://read.readwise.io/read/01krnb8wkv0w16tjx2m36nqymm",
-        "source_url": "https://mypacifichealth.com/stress-bragging-how-hustle-culture-glorifies-burnout/",
-        "title": "Stress Bragging: How Hustle Culture Glorifies Burnout",
-        "author": "Jennifer Arnold",
-        "image_url": "https://mypacifichealth.com/wp-content/uploads/2024/11/Pacific-Health-Logo-1.png",
-        "word_count": 1998,
-        "summary": "Stress bragging is when people show off how busy and tired they are, making burnout seem like an achievement. Hustle culture pushes the idea that working nonstop equals success, but this can harm health and lower productivity. To stop stress bragging, we should value rest, set boundaries, and ask for help if burnout symptoms appear.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-15T08:15:29.403000+00:00",
-        "last_moved_at": "2026-05-15T08:15:42.119000+00:00",
-        "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 1
         }
       }
     ]

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 29
+- Всего ссылок: 30
 
 ## Ссылки
 
+- [Stress Bragging: How Hustle Culture Glorifies Burnout](https://mypacifichealth.com/stress-bragging-how-hustle-culture-glorifies-burnout/) [📖](https://read.readwise.io/read/01krnb8wkv0w16tjx2m36nqymm) 👤 Jennifer Arnold 💬 1998 🔖 #health, #burnout, #productivity 🗓️ 2026-05-15
+    > **Резюме:** Stress bragging is when people show off how busy and tired they are, making burnout seem like an achievement. Hustle culture pushes the idea that working nonstop equals success, but this can harm health and lower productivity. To stop stress bragging, we should value rest, set boundaries, and ask for help if burnout symptoms appear.
 - [End of Productivity Theater](https://muratbuffalo.blogspot.com/2026/02/end-of-productivity-theater.html?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmx1za6r6pt6vg3v5xsh0bw) 👤 Visit profile 💬 600 🔖 #productivity, #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** In the past, people focused too much on small productivity hacks that didn't help real work get done. Now, the author believes true productivity means doing important, creative thinking away from screens before using technology to execute tasks. With AI handling simple work, humans should focus on deep, meaningful efforts that require judgment and creativity.
 - [A Metabolic Workspace](https://www.joanwestenberg.com/a-metabolic-workspace/?ref=westenberg-newsletter) [📖](https://read.readwise.io/read/01keh049ch3qtpq6nv19xst946) 👤 Westenberg. 💬 2361 🔖 #pkm, #productivity 🗓️ 2026-01-09

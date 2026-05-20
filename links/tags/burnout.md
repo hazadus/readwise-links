@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [Stress Bragging: How Hustle Culture Glorifies Burnout](https://mypacifichealth.com/stress-bragging-how-hustle-culture-glorifies-burnout/) [📖](https://read.readwise.io/read/01krnb8wkv0w16tjx2m36nqymm) 👤 Jennifer Arnold 💬 1998 🔖 #health, #burnout, #productivity 🗓️ 2026-05-15
+    > **Резюме:** Stress bragging is when people show off how busy and tired they are, making burnout seem like an achievement. Hustle culture pushes the idea that working nonstop equals success, but this can harm health and lower productivity. To stop stress bragging, we should value rest, set boundaries, and ask for help if burnout symptoms appear.
 - [30 Years of Programming at 44 Years Old](https://blainsmith.com/articles/30-years-of-programming-at-44-years-old/) [📖](https://read.readwise.io/read/01krgjem2rfneagw9frrfmz9qy) 👤 Blain Smith 💬 1433 🔖 #go, #burnout 🗓️ 2026-05-13
     > **Резюме:** The author started programming as a teenager, loving the joy of creating simple websites. Over 30 years, he mastered complex systems but grew tired of an industry focused on profit, not people. Now, he wants to use his skills to build honest, useful software that respects users and brings back the joy of making things.
 - [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout/) [📖](https://read.readwise.io/read/01krdbp3de22jcpy37j7wc4kpz) 👤 Ky Decker 💬 1959 🔖 #burnout, #llm-fatigue, #llm-devimpact 🗓️ 2026-05-12

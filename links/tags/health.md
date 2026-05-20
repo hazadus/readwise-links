@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 3
+- Всего ссылок: 4
 
 ## Ссылки
 
+- [Stress Bragging: How Hustle Culture Glorifies Burnout](https://mypacifichealth.com/stress-bragging-how-hustle-culture-glorifies-burnout/) [📖](https://read.readwise.io/read/01krnb8wkv0w16tjx2m36nqymm) 👤 Jennifer Arnold 💬 1998 🔖 #health, #burnout, #productivity 🗓️ 2026-05-15
+    > **Резюме:** Stress bragging is when people show off how busy and tired they are, making burnout seem like an achievement. Hustle culture pushes the idea that working nonstop equals success, but this can harm health and lower productivity. To stop stress bragging, we should value rest, set boundaries, and ask for help if burnout symptoms appear.
 - [Three more AI psychoses (permalink)](https://pluralistic.net/2026/03/12/normal-technology/) [📖](https://read.readwise.io/read/01kkmj9x5p9vckgwj28dnsd4ff) 👤 pluralistic.net 💬 5062 🔖 #llm, #health 🗓️ 2026-03-13
     > **Резюме:** AI is not a magical or uniquely harmful technology, but a normal one caught in a costly and risky investment bubble. Some people believe too much in AI’s potential to make money, fire workers, or change the world, which leads to dangerous and false ideas. The real issue is the economic and social harm caused by greedy investors and bosses, not the technology itself.
 - [A Developer's experience with weight loss injections](http://willmcgugan.github.io/weight-loss/) [📖](https://read.readwise.io/read/01k9fsvr6n561hvva56d8f0zeb) 👤 Will McGugan 💬 1686 🔖 #health 🗓️ 2025-11-07

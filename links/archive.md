@@ -1,21 +1,27 @@
 # Архивные ссылки
 
-- Всего ссылок: 1695
+- Всего ссылок: 1699
 
 ## Ссылки
 
+- [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything) [📖](https://read.readwise.io/read/01krywkket5b9bcv83xppm7dxe) 👤 Simon Willison's Weblog 💬 1086 🔖 #llm 🗓️ 2026-05-19
+    > **Заметка:** Хороший обзор, для истории.
 - [How I Write HTTP Servers](https://blainsmith.com/articles/how-i-write-http-servers/) [📖](https://read.readwise.io/read/01krx0p4wy86e8yzytm0yfe3y0) 👤 Blain Smith 💬 2333 🔖 #go, #api, #rest 🗓️ 2026-05-18
+- [How QuickLook provides thumbnails and previews](https://eclecticlight.co/2026/05/18/how-quicklook-provides-thumbnails-and-previews/) [📖](https://read.readwise.io/read/01krwwvf4ngxdwrga4d52yste8) 👤 hoakley 💬 1140 🔖 #macos 🗓️ 2026-05-18
 - [The just-say-no engineer was a ZIRP phenomenon](https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/) [📖](https://read.readwise.io/read/01krwv30mpby27rh9zmv6ka9zp) 👤 seangoedecke.com RSS feed 💬 1648 🔖 #llm-devimpact 🗓️ 2026-05-18
 - [Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/) [📖](https://read.readwise.io/read/01krwthf8z953x0y9pbfh9br3s) 👤 Addy Osmani 💬 1405 🔖 #learning, #llm-reality, #llm-devimpact 🗓️ 2026-05-18
     > **Заметка:** Очень честный взгляд на продуктивность VS. обучение. Нужно эти тезисы себе прям в табличке над столом вывешивать. Via HN
 - [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/) [📖](https://read.readwise.io/read/01krwtd8jrdgxqffpm1szxnd50) 👤 Artem Loenko 💬 615 🔖 #macos, #swift 🗓️ 2026-05-18
     > **Заметка:** Честный взгляд от нативного macOS разработчика. Не думал, что у SwiftUI/Appkit столько ограничений... Via HN
+- [Reading code instead of writing code: The underestimated senior discipline](https://www.heise.de/en/blog/Reading-code-instead-of-writing-code-The-underestimated-senior-discipline-11295136.html) [📖](https://read.readwise.io/read/01krv7w4cxwp7rv4hp56q263xc) 👤 Golo Roden 💬 2320 🔖 #llm-reality, #cognitivedebt, #llm-devimpact 🗓️ 2026-05-17
+    > **Заметка:** Via HN
 - [Slop Creep: The Great Enshittification of Software](https://boristane.com/blog/slop-creep-enshittification-of-software/) [📖](https://read.readwise.io/read/01krv6c0rkp6kcnw82f0cmet4q) 👤 Boris Tane 💬 1389 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-05-17
     > **Заметка:** Если сократить пост до одного предложения: с агентом или без, нужно не торопиться и тщательно выстраивать систему, а не бездумно напихивать фичи.
 - [How I use LLMs as a staff engineer in 2026](https://seangoedecke.com/how-i-use-llms-in-2026/) [📖](https://read.readwise.io/read/01krsbx5w6wkv5xwmhzm8bte22) 👤 seangoedecke.com RSS feed 💬 1842 🔖 #llm-devimpact 🗓️ 2026-05-16
 - [Done - Blain Smith](https://blainsmith.com/articles/done/) [📖](https://read.readwise.io/read/01krrvz3xrxmjn3acs44mnrvvp) 👤 Blain Smith 💬 503 🗓️ 2026-05-16
 - [Explainer: QuickLook](https://eclecticlight.co/2026/05/16/explainer-quicklook/) [📖](https://read.readwise.io/read/01krqt61655jt1jj21g7rsctzm) 👤 hoakley 💬 1017 🔖 #macos 🗓️ 2026-05-16
 - [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) [📖](https://read.readwise.io/read/01krp5as0q2jqrzc2afhn7rm0q) 👤 Julia Evans 💬 1572 🔖 #css 🗓️ 2026-05-15
+- [Stress Bragging: How Hustle Culture Glorifies Burnout](https://mypacifichealth.com/stress-bragging-how-hustle-culture-glorifies-burnout/) [📖](https://read.readwise.io/read/01krnb8wkv0w16tjx2m36nqymm) 👤 Jennifer Arnold 💬 1998 🔖 #health, #burnout, #productivity 🗓️ 2026-05-15
 - [Programming is Easy, Software Engineering is Hard](https://blainsmith.com/articles/programming-is-easy-software-engineering-is-hard/) [📖](https://read.readwise.io/read/01krn2nkpm5r0zk52372bc36wk) 👤 Blain Smith 💬 655 🔖 #softwarecraft 🗓️ 2026-05-15
 - [Towards Teaching](https://blainsmith.com/articles/towards-teaching/) [📖](https://read.readwise.io/read/01krn21kett95knj03kndbf75s) 👤 Blain Smith 💬 668 🗓️ 2026-05-15
 - [OpenAI Models in OpenClaw, Done Right](https://openclaw.ai/blog/openai-models-in-openclaw-done-right/) [📖](https://read.readwise.io/read/01krmm262bmxbvvvq4vhhvax4e) 👤 OpenClaw Blog 💬 1357 🔖 #codex, #chatgpt, #openclaw 🗓️ 2026-05-15

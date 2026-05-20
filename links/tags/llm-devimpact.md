@@ -9,6 +9,9 @@
 - [Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/) [📖](https://read.readwise.io/read/01krwthf8z953x0y9pbfh9br3s) 👤 Addy Osmani 💬 1405 🔖 #learning, #llm-reality, #llm-devimpact 🗓️ 2026-05-18
     > **Заметка:** Очень честный взгляд на продуктивность VS. обучение. Нужно эти тезисы себе прям в табличке над столом вывешивать. Via HN
     > **Резюме:** Relying on AI to write code without understanding it harms your learning and skills over time. Using AI well means asking questions, testing ideas, and learning from the process. To stay sharp, treat AI as a teacher, not just a tool to finish tasks quickly.
+- [Reading code instead of writing code: The underestimated senior discipline](https://www.heise.de/en/blog/Reading-code-instead-of-writing-code-The-underestimated-senior-discipline-11295136.html) [📖](https://read.readwise.io/read/01krv7w4cxwp7rv4hp56q263xc) 👤 Golo Roden 💬 2320 🔖 #llm-reality, #cognitivedebt, #llm-devimpact 🗓️ 2026-05-17
+    > **Заметка:** Via HN
+    > **Резюме:** Reading code is a crucial skill that helps programmers truly understand software beyond just writing it. Large Language Models make writing code fast, but understanding it still requires time and effort. Those who practice reading code build deeper knowledge, while ignoring it leads to costly problems later.
 - [Slop Creep: The Great Enshittification of Software](https://boristane.com/blog/slop-creep-enshittification-of-software/) [📖](https://read.readwise.io/read/01krv6c0rkp6kcnw82f0cmet4q) 👤 Boris Tane 💬 1389 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-05-17
     > **Заметка:** Если сократить пост до одного предложения: с агентом или без, нужно не торопиться и тщательно выстраивать систему, а не бездумно напихивать фичи.
     > **Резюме:** Coding agents often create messy software because they miss important system details and build on small mistakes. To avoid this, humans must guide agents carefully and share key design decisions. Despite flaws, agents can help if they understand the whole system and work closely with developers.
@@ -159,8 +162,6 @@ Everyone starts somewhere. Even today's top contributors submitted imperfect pat
 Maybe it's time for some new stickers and T-shirts?
 Never submit code you don't understand.
 Thanks to Natalie Cainaru, Jeremy Andrews and Gábor Hojtsy for reviewing my draft.
-- [What do coders do after AI?](https://www.anildash.com/2026/03/13/coders-after-ai/) [📖](https://read.readwise.io/read/01kkmj8cbrx3ybzn7sb68vz765) 👤 Anil Dash 💬 1721 🔖 #llm, #llm-devimpact 🗓️ 2026-03-13
-    > **Резюме:** AI is changing coding by automating much of the work, which threatens many stable tech jobs. Some coders see this as a loss of craft, while others may adapt by focusing on guiding AI tools. The future depends on coders who care coming together to build new, ethical ways to work beyond big companies.
 - [Zen of AI Coding](https://nonstructured.com/zen-of-ai-coding/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kkeavycs9gd3ty05sxhrtt5c) 👤 Yoav Aviram 💬 1912 🔖 #llm, #llm-devimpact, #joyandcuriosity 🗓️ 2026-03-11
     > **Резюме:** AI coding agents are changing software development by making writing code cheaper and faster. Humans now focus on guiding agents, managing context, and ensuring quality and security. Building flexible, agent-friendly systems is key to the future of software and product design.
 - [The Illusion of Building](https://uphack.io/blog/post/the-illusion-of-building/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kke24rtytd7fk8ef2nkfsp8y) 👤 uphack.io 💬 1923 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-03-11

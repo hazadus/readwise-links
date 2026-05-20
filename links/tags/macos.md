@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 49
+- Всего ссылок: 51
 
 ## Ссылки
 
+- [Settings, preferences and defaults](https://eclecticlight.co/2026/05/19/settings-preferences-and-defaults/) [📖](https://read.readwise.io/read/01krzf75d1xh48n0mwhqnmg33x) 👤 hoakley 💬 1304 🔖 #macos 🗓️ 2026-05-19
+    > **Резюме:** Mac apps store settings in preference files managed by a system called cfprefsd for easy access and saving. To safely change these settings, use the defaults command or a special editor that works with cfprefsd. Avoid editing preference files directly unless sure no app is running, and never paste unknown commands into Terminal.
+- [How QuickLook provides thumbnails and previews](https://eclecticlight.co/2026/05/18/how-quicklook-provides-thumbnails-and-previews/) [📖](https://read.readwise.io/read/01krwwvf4ngxdwrga4d52yste8) 👤 hoakley 💬 1140 🔖 #macos 🗓️ 2026-05-18
+    > **Резюме:** Generating icons for display as thumbnails, and previews of documents, depend on speed of delivery and icons as faithful as possible for their size. How QuickLook achieves this in Tahoe.
 - [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/) [📖](https://read.readwise.io/read/01krwtd8jrdgxqffpm1szxnd50) 👤 Artem Loenko 💬 615 🔖 #macos, #swift 🗓️ 2026-05-18
     > **Заметка:** Честный взгляд от нативного macOS разработчика. Не думал, что у SwiftUI/Appkit столько ограничений... Via HN
     > **Резюме:** Native Apple tools like SwiftUI and TextKit struggle with complex text tasks like Markdown chat. Web-based frameworks and Electron handle rich text better and perform well. For modern chat apps, native SDKs often limit rather than help development.

@@ -2,12 +2,14 @@
 
 _Фундаментальные материалы с долгосрочной ценностью_
 
-Сгенерировано: 2026-05-19 04:36 UTC · Статей: 30
+Сгенерировано: 2026-05-20 04:37 UTC · Статей: 31
 
 ## Статьи
 
 - [Quantization from the ground up](https://ngrok.com/blog/quantization) [📖](https://read.readwise.io/read/01kmrp6ce52w3gzsedw0ky6y7a) 👤 Sam Rose 💬 4123 ⭐ 9 🗓️ 2026-03-27 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Quantization shrinks large numbers into smaller ones so models use less memory and run faster. Lower bit quantization reduces accuracy, but 8-bit and 4-bit still work well for large language models. Very low bits like 2-bit cause big errors and poor model performance.
+- [Settings, preferences and defaults](https://eclecticlight.co/2026/05/19/settings-preferences-and-defaults/) [📖](https://read.readwise.io/read/01krzf75d1xh48n0mwhqnmg33x) 👤 hoakley 💬 1304 ⭐ 9 🔖 #macos 🗓️ 2026-05-19 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Mac apps store settings in preference files managed by a system called cfprefsd for easy access and saving. To safely change these settings, use the defaults command or a special editor that works with cfprefsd. Avoid editing preference files directly unless sure no app is running, and never paste unknown commands into Terminal.
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) [📖](https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7) 👤 Redowan Delowar 💬 1179 ⭐ 9 🔖 #go, #patterns 🗓️ 2025-08-04 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/694438ad-68b0-832f-91bf-a2c4f204944e
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
@@ -40,9 +42,6 @@ _Фундаментальные материалы с долгосрочной �
 - [USB for Software Developers](https://werwolv.net/posts/usb_for_sw_devs/) [📖](https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41) 👤 WerWolv 💬 2523 ⭐ 6 🔖 #usb 🗓️ 2026-04-09 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via HackerNews
     > **Резюме:** Writing a USB driver is similar to writing a network application and does not require kernel code. USB devices identify themselves using standard descriptors, which the host reads to understand the device and its capabilities. Developers can communicate with devices through specific endpoints using simple commands, as shown in the Fastboot example.
-- [Reading code instead of writing code: The underestimated senior discipline](https://www.heise.de/en/blog/Reading-code-instead-of-writing-code-The-underestimated-senior-discipline-11295136.html) [📖](https://read.readwise.io/read/01krv7w4cxwp7rv4hp56q263xc) 👤 Golo Roden 💬 2320 ⭐ 6 🗓️ 2026-05-17 · 🧠 основы, 🌲 вечнозелёное
-    > **Заметка:** Via HN
-    > **Резюме:** Reading code is a crucial skill that helps programmers truly understand software beyond just writing it. Large Language Models make writing code fast, but understanding it still requires time and effort. Those who practice reading code build deeper knowledge, while ignoring it leads to costly problems later.
 - [Why Good Developers Write Bad Unit Tests](https://mtlynch.io/good-developers-bad-tests/#test-code-is-not-like-other-code) [📖](https://read.readwise.io/read/01kgpxfr0rd5sezbhmv0szq1dt) 👤 Michael Lynch 💬 2167 ⭐ 6 🔖 #testing 🗓️ 2026-02-05 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via https://refactoringenglish.com/blog/software-essays-that-shaped-me/#-by-erik-kuefler-2014
     > **Резюме:** Software developers often write bad unit tests by blindly applying production code rules to test code, leading to unnecessary complexity. Good unit tests should be simple, clear, and self-contained, enabling easy understanding and issue diagnosis without excessive abstraction. Naming tests effectively and avoiding unnecessary constants can help improve the quality of unit tests.
@@ -58,6 +57,8 @@ They are immutable and support persistent, transient, and temporary storage clas
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/?utm_source=tldrwebdev) [📖](https://read.readwise.io/read/01k6kdznqz4fc7p58vmn2vgbg0) 👤 kunststube.net 💬 6587 ⭐ 4 🔖 #shortlist 🗓️ 2025-10-02 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/6943f891-8688-8333-9150-757fa91f79b9https://chatgpt.com/c/69440d92-d190-8325-96c1-f00f5ad6d742
     > **Резюме:** To work with text in computers, understanding encodings and character sets is essential. Unicode is a standard that unifies different encoding schemes, like UTF-8 and UTF-16, which represent characters using varying numbers of bits. It's important to specify the encoding used for text, as incorrect handling can lead to unreadable documents.
+- [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/) [📖](https://read.readwise.io/read/01krwwzt19d6zeem88b59z983s) 👤 Matthias Endler 💬 5536 ⭐ 4 🔖 #go, #rust 🗓️ 2026-05-18 · 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Go and Rust both offer strong concurrency and performance, but Rust has stricter safety checks and a more powerful type system. Rust’s generics and traits provide better code reuse and fewer runtime errors, though compile times are slower and the learning curve is steeper. Moving from Go to Rust means trading simplicity and fast builds for safety, expressiveness, and fewer runtime bugs.
 - [I Rebuilt Traceroute in Rust and It Was Simpler Than I Expected](https://tech.stonecharioteer.com/posts/2026/traceroute/) [📖](https://read.readwise.io/read/01knrbx5k7btqt28av6ynd1d0k) 👤 Stonecharioteer on Tech 💬 2932 ⭐ 4 🗓️ 2026-04-09 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via HackerNews
     > **Резюме:** The author rebuilt the network tool traceroute using the Rust programming language and found it simpler than expected. Traceroute works by sending packets with increasing TTL values that expire at each hop, causing routers to send back ICMP messages revealing their addresses. The article explains this process and shows a basic Rust implementation that listens for these ICMP replies to map the path to a target IP.

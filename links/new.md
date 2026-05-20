@@ -1,6 +1,6 @@
 # Новые ссылки
 
-- Всего ссылок: 944
+- Всего ссылок: 945
 
 ## Ссылки
 
@@ -16,6 +16,7 @@
 - [ИИ для самых маленьких: как работает LLM и ИИ-агент](https://www.youtube.com/watch?v=sSAIC8GQRe8) [📖](https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j) 👤 Диджитализируй! 🔖 #llm 🗓️ 2026-04-22
 - [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) [📖](https://read.readwise.io/read/01knymwy6b02avchen3gkmjr08) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11
 - [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) [📖](https://read.readwise.io/read/01knhde7wg4mcx47qc2k368z0k) 👤 Ivan Grishaev's blog 💬 7191 🔖 #book, #postgresql 🗓️ 2026-04-06
+- [Complete Guide: Using an ILI9341 Display with the TFT_eSPI Library](https://mischianti.org/complete-guide-using-an-ili9341-display-with-the-tft_espi-library/) [📖](https://read.readwise.io/read/01kn84zxd57pbrgw7mdyhtmvvn) 👤 Renzo Mischianti 💬 1708 🔖 #esp32 🗓️ 2026-04-02
 - [Getting Real](https://readwise.io/reader/document_raw_content/2844630) [📖](https://read.readwise.io/read/01kkspgf8s81ww3t6v257fepfc) 👤 Basecamp 💬 29339 🗓️ 2026-03-15
 - [In search of Banksy, Reuters found the artist took on a new identity](https://www.reuters.com/investigates/special-report/global-art-banksy/) [📖](https://read.readwise.io/read/01kknsrd2ybz8zyach8m6qjv8g) 👤 Anton Zverev 💬 10475 🗓️ 2026-03-14
 - [Alan Turing: The Enigma](https://readwise.io/reader/document_raw_content/430011785) [📖](https://read.readwise.io/read/01kk8sxkd910gadynn6j0x0ge4) 👤 Andrew Hodges 💬 304577 🗓️ 2026-03-09
