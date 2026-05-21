@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 20
+- Всего ссылок: 21
 
 ## Ссылки
 
+- [The End](https://www.focalcurve.com/journal/the-end/) [📖](https://read.readwise.io/read/01krth7pb0e1155337kp7zp6vn) 👤 focalcurve.com 💬 4746 🔖 #llm-reality, #reflections, #llm-resistance 🗓️ 2026-05-17
+    > **Резюме:** The author worked at Mozilla for 13 years but left in early 2025 feeling ready to move on. They found job hunting hard and lost interest in the current tech scene. Now retired, they enjoy reading and hope to explore art without pressure.
 - [Stateless Life](https://smsk.dev/2026/05/15/stateless-life/) [📖](https://read.readwise.io/read/01krqj4n7r3931ekwkc36rx29y) 👤 devsimsek 💬 794 🔖 #reflections 🗓️ 2026-05-16
     > **Заметка:** Чувствуется, что автору было очень одиноко, когда он это писал. Очевидно, что код не заменит семью и тёплые отношения. ￼Всегда нужно помнить об этом. ￼
     > **Резюме:** A reflection on using software architecture as a coping mechanism for life's unpredictability and heartbreak.

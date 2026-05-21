@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-05-20 04:37 UTC · Статей: 24
+Сгенерировано: 2026-05-21 04:40 UTC · Статей: 23
 
 ## Статьи
 
@@ -43,8 +43,6 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** Bill Gates reflects on the 50th anniversary of Microsoft, starting with the creation of Altair BASIC in 1975. He shares his pride in how this early code led to a revolution in computing and the company's immense success. Gates also acknowledges the influential teachers who helped shape his journey into the world of technology.
 - [If Anthropic Succeeds, a Nation of Benevolent AI Geniuses Could Be Born](https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/) [📖](https://read.readwise.io/read/01kg1es655s5c1ew31fbes8ae4) 👤 Steven Levy 💬 5456 ⭐ 2 🔖 #claude 🗓️ 2026-01-28
     > **Резюме:** Anthropic is building a safer and smarter AI called Claude that can help humans. The company focuses on making AI ethical and aligned with human values. They believe powerful AI could change the world but must be developed carefully to avoid risks.
-- [The End](https://www.focalcurve.com/journal/the-end/) [📖](https://read.readwise.io/read/01krth7pb0e1155337kp7zp6vn) 👤 focalcurve.com 💬 4746 ⭐ 2 🗓️ 2026-05-17
-    > **Резюме:** The author worked at Mozilla for 13 years but left in early 2025 feeling ready to move on. They found job hunting hard and lost interest in the current tech scene. Now retired, they enjoy reading and hope to explore art without pressure.
 - [Twenty Five Years of Computing](https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmv4fykfx18fbq95cz8v7v3) 👤 susam.net 💬 3913 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** The author has over 25 years of experience in software development, starting from university days. Early challenges and learning moments helped them grow into a skilled engineer. They value professionalism, continuous learning, and kindness in their career.
 - [The Software Industrial Revolution](https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw7mm8skajhhkmnf0tp4s1) 👤 cannoneyed.com 💬 3140 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01

@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 1699
+- Всего ссылок: 1700
 
 ## Ссылки
 
@@ -17,6 +17,7 @@
     > **Заметка:** Via HN
 - [Slop Creep: The Great Enshittification of Software](https://boristane.com/blog/slop-creep-enshittification-of-software/) [📖](https://read.readwise.io/read/01krv6c0rkp6kcnw82f0cmet4q) 👤 Boris Tane 💬 1389 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-05-17
     > **Заметка:** Если сократить пост до одного предложения: с агентом или без, нужно не торопиться и тщательно выстраивать систему, а не бездумно напихивать фичи.
+- [The End](https://www.focalcurve.com/journal/the-end/) [📖](https://read.readwise.io/read/01krth7pb0e1155337kp7zp6vn) 👤 focalcurve.com 💬 4746 🔖 #llm-reality, #reflections, #llm-resistance 🗓️ 2026-05-17
 - [How I use LLMs as a staff engineer in 2026](https://seangoedecke.com/how-i-use-llms-in-2026/) [📖](https://read.readwise.io/read/01krsbx5w6wkv5xwmhzm8bte22) 👤 seangoedecke.com RSS feed 💬 1842 🔖 #llm-devimpact 🗓️ 2026-05-16
 - [Done - Blain Smith](https://blainsmith.com/articles/done/) [📖](https://read.readwise.io/read/01krrvz3xrxmjn3acs44mnrvvp) 👤 Blain Smith 💬 503 🗓️ 2026-05-16
 - [Explainer: QuickLook](https://eclecticlight.co/2026/05/16/explainer-quicklook/) [📖](https://read.readwise.io/read/01krqt61655jt1jj21g7rsctzm) 👤 hoakley 💬 1017 🔖 #macos 🗓️ 2026-05-16

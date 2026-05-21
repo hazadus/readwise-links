@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-05-20 04:37 UTC · Статей: 42
+Сгенерировано: 2026-05-21 04:40 UTC · Статей: 41
 
 ## Статьи
 
@@ -75,8 +75,6 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** Anthropic is building a safer and smarter AI called Claude that can help humans. The company focuses on making AI ethical and aligned with human values. They believe powerful AI could change the world but must be developed carefully to avoid risks.
 - [Making Software: How is data stored?](https://www.makingsoftware.com/chapters/how-is-data-stored) [📖](https://read.readwise.io/read/01kh0kexvbpwvr4a4dszcq92zm) 👤 makingsoftware.com 💬 5403 ⭐ 2 🗓️ 2026-02-09 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Memory is stored using different technologies like fast but costly SRAM, capacitors in DRAM that need refreshing, and charge trap cells in SSDs arranged in 3D stacks. Each type balances speed, capacity, and cost differently to meet various needs. The ultimate goal is to create memory that is fast, dense, and long-lasting.
-- [The End](https://www.focalcurve.com/journal/the-end/) [📖](https://read.readwise.io/read/01krth7pb0e1155337kp7zp6vn) 👤 focalcurve.com 💬 4746 ⭐ 2 🗓️ 2026-05-17
-    > **Резюме:** The author worked at Mozilla for 13 years but left in early 2025 feeling ready to move on. They found job hunting hard and lost interest in the current tech scene. Now retired, they enjoy reading and hope to explore art without pressure.
 - [Understanding the Go Runtime: The Network Poller](https://internals-for-interns.com/posts/go-netpoller/?utm_source=christophberger&utm_medium=email&utm_campaign=2026-04-26-not-magic) [📖](https://read.readwise.io/read/01kqehj6aqfvy5ftqn9fatzj8q) 👤 Jesús Espino 💬 4703 ⭐ 2 🔖 #go 🗓️ 2026-04-30 · 🌲 вечнозелёное
     > **Резюме:** Go’s runtime manages network I/O by asking the kernel if data is ready and putting goroutines to sleep instead of blocking OS threads. When data arrives, the kernel notifies the runtime, which wakes the right goroutine to continue work. This system lets Go efficiently handle many network tasks without wasting threads.
 - [How Markdown took over the world](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kev57mqrms6nmez28y5667xg) 👤 Anil Dash 💬 4535 ⭐ 2 🔖 #markdown, #shortlist 🗓️ 2026-01-13 · 🌲 вечнозелёное

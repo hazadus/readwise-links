@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T04:37:50.911738+00:00",
+  "generated_at": "2026-05-21T04:40:43.915385+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -1184,56 +1184,6 @@
         }
       },
       {
-        "id": "01krth7pb0e1155337kp7zp6vn",
-        "url": "https://read.readwise.io/read/01krth7pb0e1155337kp7zp6vn",
-        "source_url": "https://www.focalcurve.com/journal/the-end/",
-        "title": "The End",
-        "author": "focalcurve.com",
-        "image_url": "https://www.focalcurve.com/assets/img/journal/retired/the-end-1920w.e11957c7.jpg",
-        "word_count": 4746,
-        "summary": "The author worked at Mozilla for 13 years but left in early 2025 feeling ready to move on. They found job hunting hard and lost interest in the current tech scene. Now retired, they enjoy reading and hope to explore art without pressure.",
-        "notes": "",
-        "tags": {},
-        "highlights": [
-          {
-            "id": "01krzhv9b911mcn3wvzx2ee3s5",
-            "url": "https://read.readwise.io/read/01krzhv9b911mcn3wvzx2ee3s5",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-web-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01krth7pb0e1155337kp7zp6vn",
-            "reading_progress": 0.0,
-            "content": "As unhappy as I was for those final years, I held on for a few reasons. Foremost was the dread of looking for a job for the first time in two decades. I didn’t relish the thought of sending endless applications, mostly to be rejected or ignored. Then if I’m very lucky, suffering a gauntlet of awkward and humiliating interviews. Then if I’m very, very lucky, facing the tense ordeal of starting fresh somewhere new with all new people and processes and politics. Not to mention running the very real risk that another company might be managed even worse than Mozilla.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-05-19T07:22:48.877500+00:00",
-            "updated_at": "2026-05-19T07:22:48.877515+00:00",
-            "saved_at": "2026-05-19T07:22:48.041000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-05-19T07:22:48.041000+00:00"
-          }
-        ],
-        "saved_at": "2026-05-17T08:35:53.824000+00:00",
-        "last_moved_at": "2026-05-17T08:35:57.787000+00:00",
-        "published_date": "2026-03-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kg1es655s5c1ew31fbes8ae4",
         "url": "https://read.readwise.io/read/01kg1es655s5c1ew31fbes8ae4",
         "source_url": "https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/",
@@ -1393,6 +1343,34 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
+        }
+      },
+      {
+        "id": "01k0p04qds3k7b6mxrrfggvpt2",
+        "url": "https://read.readwise.io/read/01k0p04qds3k7b6mxrrfggvpt2",
+        "source_url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+        "title": "Deep Dive into LLMs like ChatGPT",
+        "author": "Andrej Karpathy",
+        "image_url": "https://i.ytimg.com/vi/7xTGNNLPyMI/maxresdefault.jpg",
+        "word_count": null,
+        "summary": "You can use open-weight language models through inference providers like Together.AI. Together.AI offers a playground where you can try many different open models. Finding basic models is less common on these platforms.",
+        "notes": "https://chatgpt.com/c/6943ed14-aa58-8326-8cc0-ec43eaf689dchttps://chatgpt.com/c/6943f78f-c1f0-832f-b8c3-7acaf54f0500",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1753091078624
+          }
+        },
+        "highlights": [],
+        "saved_at": "2025-07-21T08:03:29.337000+00:00",
+        "last_moved_at": "2025-07-21T09:44:55.995000+00:00",
+        "published_date": "2025-02-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 3
         }
       }
     ],
@@ -2317,56 +2295,6 @@
           "is_tutorial": false,
           "is_foundational": true,
           "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01krth7pb0e1155337kp7zp6vn",
-        "url": "https://read.readwise.io/read/01krth7pb0e1155337kp7zp6vn",
-        "source_url": "https://www.focalcurve.com/journal/the-end/",
-        "title": "The End",
-        "author": "focalcurve.com",
-        "image_url": "https://www.focalcurve.com/assets/img/journal/retired/the-end-1920w.e11957c7.jpg",
-        "word_count": 4746,
-        "summary": "The author worked at Mozilla for 13 years but left in early 2025 feeling ready to move on. They found job hunting hard and lost interest in the current tech scene. Now retired, they enjoy reading and hope to explore art without pressure.",
-        "notes": "",
-        "tags": {},
-        "highlights": [
-          {
-            "id": "01krzhv9b911mcn3wvzx2ee3s5",
-            "url": "https://read.readwise.io/read/01krzhv9b911mcn3wvzx2ee3s5",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-web-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01krth7pb0e1155337kp7zp6vn",
-            "reading_progress": 0.0,
-            "content": "As unhappy as I was for those final years, I held on for a few reasons. Foremost was the dread of looking for a job for the first time in two decades. I didn’t relish the thought of sending endless applications, mostly to be rejected or ignored. Then if I’m very lucky, suffering a gauntlet of awkward and humiliating interviews. Then if I’m very, very lucky, facing the tense ordeal of starting fresh somewhere new with all new people and processes and politics. Not to mention running the very real risk that another company might be managed even worse than Mozilla.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-05-19T07:22:48.877500+00:00",
-            "updated_at": "2026-05-19T07:22:48.877515+00:00",
-            "saved_at": "2026-05-19T07:22:48.041000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-05-19T07:22:48.041000+00:00"
-          }
-        ],
-        "saved_at": "2026-05-17T08:35:53.824000+00:00",
-        "last_moved_at": "2026-05-17T08:35:57.787000+00:00",
-        "published_date": "2026-03-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
           "interest_score": 2
         }
       },
@@ -4432,56 +4360,6 @@
         "saved_at": "2026-01-28T04:46:25.957000+00:00",
         "last_moved_at": "2026-01-28T04:46:32.610000+00:00",
         "published_date": "2025-03-28",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01krth7pb0e1155337kp7zp6vn",
-        "url": "https://read.readwise.io/read/01krth7pb0e1155337kp7zp6vn",
-        "source_url": "https://www.focalcurve.com/journal/the-end/",
-        "title": "The End",
-        "author": "focalcurve.com",
-        "image_url": "https://www.focalcurve.com/assets/img/journal/retired/the-end-1920w.e11957c7.jpg",
-        "word_count": 4746,
-        "summary": "The author worked at Mozilla for 13 years but left in early 2025 feeling ready to move on. They found job hunting hard and lost interest in the current tech scene. Now retired, they enjoy reading and hope to explore art without pressure.",
-        "notes": "",
-        "tags": {},
-        "highlights": [
-          {
-            "id": "01krzhv9b911mcn3wvzx2ee3s5",
-            "url": "https://read.readwise.io/read/01krzhv9b911mcn3wvzx2ee3s5",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-web-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01krth7pb0e1155337kp7zp6vn",
-            "reading_progress": 0.0,
-            "content": "As unhappy as I was for those final years, I held on for a few reasons. Foremost was the dread of looking for a job for the first time in two decades. I didn’t relish the thought of sending endless applications, mostly to be rejected or ignored. Then if I’m very lucky, suffering a gauntlet of awkward and humiliating interviews. Then if I’m very, very lucky, facing the tense ordeal of starting fresh somewhere new with all new people and processes and politics. Not to mention running the very real risk that another company might be managed even worse than Mozilla.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-05-19T07:22:48.877500+00:00",
-            "updated_at": "2026-05-19T07:22:48.877515+00:00",
-            "saved_at": "2026-05-19T07:22:48.041000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-05-19T07:22:48.041000+00:00"
-          }
-        ],
-        "saved_at": "2026-05-17T08:35:53.824000+00:00",
-        "last_moved_at": "2026-05-17T08:35:57.787000+00:00",
-        "published_date": "2026-03-24",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

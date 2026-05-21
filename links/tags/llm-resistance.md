@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [The End](https://www.focalcurve.com/journal/the-end/) [📖](https://read.readwise.io/read/01krth7pb0e1155337kp7zp6vn) 👤 focalcurve.com 💬 4746 🔖 #llm-reality, #reflections, #llm-resistance 🗓️ 2026-05-17
+    > **Резюме:** The author worked at Mozilla for 13 years but left in early 2025 feeling ready to move on. They found job hunting hard and lost interest in the current tech scene. Now retired, they enjoy reading and hope to explore art without pressure.
 - [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01krdhshryexbwy79jmq7qh6c7) 👤 rmoff.net 💬 1868 🔖 #llm-devimpact, #llm-resistance 🗓️ 2026-05-12
     > **Заметка:** Интересно, что последние дни довольно много подобных постов попадается. Похоже, народ наелся LLM, начинает осознавать проблемы и последствия! Via TLDR Web
     > **Резюме:** AI-generated low-effort content is flooding online communities and making it hard to find valuable contributions. This "AI slop" frustrates members and harms the growth of meaningful discussions. To keep communities healthy, people should share only useful work and respect the space they contribute to.
