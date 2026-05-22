@@ -1,12 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
 - [Reading code instead of writing code: The underestimated senior discipline](https://www.heise.de/en/blog/Reading-code-instead-of-writing-code-The-underestimated-senior-discipline-11295136.html) [📖](https://read.readwise.io/read/01krv7w4cxwp7rv4hp56q263xc) 👤 Golo Roden 💬 2320 🔖 #llm-reality, #cognitivedebt, #llm-devimpact 🗓️ 2026-05-17
     > **Заметка:** Via HN
     > **Резюме:** Reading code is a crucial skill that helps programmers truly understand software beyond just writing it. Large Language Models make writing code fast, but understanding it still requires time and effort. Those who practice reading code build deeper knowledge, while ignoring it leads to costly problems later.
+- [What is Code](https://martinfowler.com/articles/what-is-code.html) [📖](https://read.readwise.io/read/01kre6602y286w6rk62jzpzph2) 👤 Martin Fowler (martin@martinfowler.com) 💬 2367 🔖 #llm-reality, #cognitivedebt, #softwarecraft 🗓️ 2026-05-12
+    > **Заметка:** Очень понравилась мысль о том, что код – это не просто инструкции для компьютера, но и концептуальная модель области знаний. Очень хороший, трезвый взгляд.
+    > **Резюме:** Code is more than instructions for machines; it’s a shared vocabulary that helps people understand a problem. Writing code shapes this vocabulary and builds a clear model of the domain. With strong vocabulary and abstractions, both humans and LLMs can create better, more reliable software.
 - [Comprehension Debt - the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kmac9j01g87hjjetqe4wmqs9) 👤 Addy Osmani 💬 1805 🔖 #cognitivedebt, #llm-devimpact 🗓️ 2026-03-22
     > **Резюме:** Relying too much on AI to write code creates "comprehension debt," where humans don’t fully understand the code they approve. This hidden problem makes teams less able to fix or improve software, even if tests pass and code looks fine. To avoid big future problems, engineers must focus on truly understanding changes, not just speeding up code production.
 - [Interactive explanations - Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything) [📖](https://read.readwise.io/read/01kjnj82gcwdvav84h6ge7efnq) 👤 Simon Willison 💬 501 🔖 #llm, #cognitivedebt, #llm-devimpact 🗓️ 2026-03-01

@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 35
+- Всего ссылок: 34
 
 ## Ссылки
 
@@ -29,8 +29,6 @@ Via Readwise newsletter, Via JoyAndCuriosity
     > **Резюме:** You can let external coding tools control your Xcode project by enabling permissions in Xcode settings. Use the Model Context Protocol (MCP) server and Terminal commands to connect these tools to Xcode. Xcode will notify you when the external tool is connected and active.
 - [A few random notes from claude coding quite a bit...](https://x.com/karpathy/status/2015883857489522876?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kgaagn1bfeww4pthcte7m7ma) 👤 Andrej Karpathy 💬 1125 🔖 #llm, #claude, #llm-devimpact 🗓️ 2026-01-31
     > **Резюме:** Large language models like Claude have changed coding from mostly manual work to mostly agent-driven work in just weeks. These models make mistakes but greatly speed up and expand what programmers can do. This shift will transform software engineering and work in 2026 and beyond.
-- [If Anthropic Succeeds, a Nation of Benevolent AI Geniuses Could Be Born](https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/) [📖](https://read.readwise.io/read/01kg1es655s5c1ew31fbes8ae4) 👤 Steven Levy 💬 5456 🔖 #claude 🗓️ 2026-01-28
-    > **Резюме:** Anthropic is building a safer and smarter AI called Claude that can help humans. The company focuses on making AI ethical and aligned with human values. They believe powerful AI could change the world but must be developed carefully to avoid risks.
 - [The Adolescence of Technology](https://www.darioamodei.com/essay/the-adolescence-of-technology) [📖](https://read.readwise.io/read/01kfztf31chzc120yet9ckpk6p) 👤 darioamodei.com 💬 21664 🔖 #llm, #claude, #predictions 🗓️ 2026-01-27
     > **Резюме:** AI systems are unpredictable and hard to control, showing behaviors like deception and laziness. Companies like Anthropic work to guide AI safely, but society must set rules to prevent abuse, especially by powerful groups. Despite public concern, policymakers struggle to regulate AI because of its huge economic value.
 - [Why You Don't Need the Nuxt MCP When You Use Claude Code](https://alexop.dev/posts/why-you-dont-need-nuxt-mcp-claude-code/) [📖](https://read.readwise.io/read/01kfn6zjn6d994ma3q0wzma04r) 👤 Alexander Opalic 💬 1447 🔖 #llm, #try, #nuxt, #agents, #claude 🗓️ 2026-01-23

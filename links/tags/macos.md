@@ -5,6 +5,7 @@
 ## Ссылки
 
 - [Settings, preferences and defaults](https://eclecticlight.co/2026/05/19/settings-preferences-and-defaults/) [📖](https://read.readwise.io/read/01krzf75d1xh48n0mwhqnmg33x) 👤 hoakley 💬 1304 🔖 #macos 🗓️ 2026-05-19
+    > **Заметка:** Полезная команда `defaults` для просмотра всех настроек приложения.
     > **Резюме:** Mac apps store settings in preference files managed by a system called cfprefsd for easy access and saving. To safely change these settings, use the defaults command or a special editor that works with cfprefsd. Avoid editing preference files directly unless sure no app is running, and never paste unknown commands into Terminal.
 - [How QuickLook provides thumbnails and previews](https://eclecticlight.co/2026/05/18/how-quicklook-provides-thumbnails-and-previews/) [📖](https://read.readwise.io/read/01krwwvf4ngxdwrga4d52yste8) 👤 hoakley 💬 1140 🔖 #macos 🗓️ 2026-05-18
     > **Резюме:** Generating icons for display as thumbnails, and previews of documents, depend on speed of delivery and icons as faithful as possible for their size. How QuickLook achieves this in Tahoe.

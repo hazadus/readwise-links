@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 52
+- Всего ссылок: 53
 
 ## Ссылки
 
@@ -21,6 +21,9 @@ Fight apathy and only accept complexity when the problem truly requires it.
     > **Резюме:** Good software engineering means writing clear code and thoughtful documentation that respects teammates and future readers. Commits and pull requests should invite collaboration and show care for the shared project. Small acts of discipline help everyone work better and keep the codebase healthy over time.
 - [Read the Fucking Manual](https://blainsmith.com/articles/read-the-fucking-manual/) [📖](https://read.readwise.io/read/01krgk064dxmvz31zr124hztg3) 👤 Blain Smith 💬 1577 🔖 #softwarecraft 🗓️ 2026-05-13
     > **Резюме:** Good engineers solve problems by reading manuals and researching themselves before asking for help. Relying too much on others or AI weakens skills and wastes teammates’ time. Respect your team and build discipline by learning to figure things out on your own.
+- [What is Code](https://martinfowler.com/articles/what-is-code.html) [📖](https://read.readwise.io/read/01kre6602y286w6rk62jzpzph2) 👤 Martin Fowler (martin@martinfowler.com) 💬 2367 🔖 #llm-reality, #cognitivedebt, #softwarecraft 🗓️ 2026-05-12
+    > **Заметка:** Очень понравилась мысль о том, что код – это не просто инструкции для компьютера, но и концептуальная модель области знаний. Очень хороший, трезвый взгляд.
+    > **Резюме:** Code is more than instructions for machines; it’s a shared vocabulary that helps people understand a problem. Writing code shapes this vocabulary and builds a clear model of the domain. With strong vocabulary and abstractions, both humans and LLMs can create better, more reliable software.
 - [Slow. The. F**k. Down.](https://codemanship.wordpress.com/2026/05/10/slow-the-fk-down/) [📖](https://read.readwise.io/read/01kr8k8bbhnv6ytn6vvk4xtc1q) 👤 codemanship 💬 720 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-05-10
     > **Резюме:** “Slow is smooth, and smooth is fast.” US Navy SEALS training mantra Another day, another data set telling us what we already knew. In the latest AI Engineering Report from Faros, the software development telemetry folks, they found from studying 22,000 developers working on more than 4,000 teams what they call an “acceleration whiplash” effect … Continue reading "Slow. The. F**k. Down."
 - [Notes on incidents](https://seangoedecke.com/notes-on-incidents/) [📖](https://read.readwise.io/read/01kr38wz04wp59bv6x90mvg6we) 👤 seangoedecke.com RSS feed 💬 1061 🔖 #softwarecraft 🗓️ 2026-05-08

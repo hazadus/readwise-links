@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 8
 
 ## Ссылки
 
@@ -12,6 +12,14 @@
     > **Резюме:** Reading code is a crucial skill that helps programmers truly understand software beyond just writing it. Large Language Models make writing code fast, but understanding it still requires time and effort. Those who practice reading code build deeper knowledge, while ignoring it leads to costly problems later.
 - [The End](https://www.focalcurve.com/journal/the-end/) [📖](https://read.readwise.io/read/01krth7pb0e1155337kp7zp6vn) 👤 focalcurve.com 💬 4746 🔖 #llm-reality, #reflections, #llm-resistance 🗓️ 2026-05-17
     > **Резюме:** The author worked at Mozilla for 13 years but left in early 2025 feeling ready to move on. They found job hunting hard and lost interest in the current tech scene. Now retired, they enjoy reading and hope to explore art without pressure.
+- [What is Code](https://martinfowler.com/articles/what-is-code.html) [📖](https://read.readwise.io/read/01kre6602y286w6rk62jzpzph2) 👤 Martin Fowler (martin@martinfowler.com) 💬 2367 🔖 #llm-reality, #cognitivedebt, #softwarecraft 🗓️ 2026-05-12
+    > **Заметка:** Очень понравилась мысль о том, что код – это не просто инструкции для компьютера, но и концептуальная модель области знаний. Очень хороший, трезвый взгляд.
+    > **Резюме:** Code is more than instructions for machines; it’s a shared vocabulary that helps people understand a problem. Writing code shapes this vocabulary and builds a clear model of the domain. With strong vocabulary and abstractions, both humans and LLMs can create better, more reliable software.
+- [On the usefulness of AI agents](https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html) [📖](https://read.readwise.io/read/01knq4y2r5a7ffntsmhs7jjvtf) 👤 Erik Johannes Husom 💬 2669 🔖 #llm-reality, #llm-resistance 🗓️ 2026-04-08
+    > **Резюме:** AI agents have potential but are not as broadly useful as many think. They can help with coding and research but also raise ethical and environmental concerns. The true value of AI agents depends on careful use and human involvement.
+- [Some uncomfortable truths about AI coding agents](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01knbv6r1n0rt1fmt8eye7m8c0) 👤 standupforme.app 💬 3485 🔖 #llm-reality 🗓️ 2026-04-04
+    > **Заметка:** Ещё один трезвый взгляд на использование ИИ-агентов. Via TLDR Newsletter
+    > **Резюме:** AI coding agents can write code quickly but cause problems like skill loss and legal risks. They also increase costs and pose security threats from malicious attacks. While useful for small projects, they are not reliable for professional, production-level software.
 - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) [📖](https://read.readwise.io/read/01kmn0xpnbtk9ez7a36ga93qzt) 👤 mariozechner.at 💬 2368 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-03-26
     > **Заметка:** Честный взгляд на влияние агентов на индустрию от чувака, который сам делает популярного агента Pi. Интересно, чем всё это закончится через год? Пять лет?..
     > **Резюме:** Coding agents can write lots of code fast, but they often create broken, messy software that is hard to trust. Humans should stay in control, using agents only for small, simple tasks where mistakes don't matter much. This way, we keep software understandable and fix problems before they grow out of hand.

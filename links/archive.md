@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1700
+- Всего ссылок: 1704
 
 ## Ссылки
 
+- [Settings, preferences and defaults](https://eclecticlight.co/2026/05/19/settings-preferences-and-defaults/) [📖](https://read.readwise.io/read/01krzf75d1xh48n0mwhqnmg33x) 👤 hoakley 💬 1304 🔖 #macos 🗓️ 2026-05-19
+    > **Заметка:** Полезная команда `defaults` для просмотра всех настроек приложения.
 - [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything) [📖](https://read.readwise.io/read/01krywkket5b9bcv83xppm7dxe) 👤 Simon Willison's Weblog 💬 1086 🔖 #llm 🗓️ 2026-05-19
     > **Заметка:** Хороший обзор, для истории.
 - [How I Write HTTP Servers](https://blainsmith.com/articles/how-i-write-http-servers/) [📖](https://read.readwise.io/read/01krx0p4wy86e8yzytm0yfe3y0) 👤 Blain Smith 💬 2333 🔖 #go, #api, #rest 🗓️ 2026-05-18
@@ -52,6 +54,8 @@
 - [Your Indispensable Value in the AI Era](https://larsfaye.com/articles/the-question-is-the-work) [📖](https://read.readwise.io/read/01kredz2xzashkvs6zdb2ghtm6) 👤 larsfaye.com 💬 1087 🔖 #llm-devimpact 🗓️ 2026-05-12
 - [Книга: «Антипаттерны PostgreSQL и как их избежать»](https://habr.com/ru/companies/piter/articles/1028468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog) [📖](https://read.readwise.io/read/01kre77pc92np6b62j1v2pefga) 👤 ph_piter (Издательский дом «Питер») 💬 463 🔖 #book, #postgresql 🗓️ 2026-05-12
     > **Заметка:** Выглядит любопытно, надо взять на заметку.
+- [What is Code](https://martinfowler.com/articles/what-is-code.html) [📖](https://read.readwise.io/read/01kre6602y286w6rk62jzpzph2) 👤 Martin Fowler (martin@martinfowler.com) 💬 2367 🔖 #llm-reality, #cognitivedebt, #softwarecraft 🗓️ 2026-05-12
+    > **Заметка:** Очень понравилась мысль о том, что код – это не просто инструкции для компьютера, но и концептуальная модель области знаний. Очень хороший, трезвый взгляд.
 - [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01krdhshryexbwy79jmq7qh6c7) 👤 rmoff.net 💬 1868 🔖 #llm-devimpact, #llm-resistance 🗓️ 2026-05-12
     > **Заметка:** Интересно, что последние дни довольно много подобных постов попадается. Похоже, народ наелся LLM, начинает осознавать проблемы и последствия! Via TLDR Web
 - [Appearing Productive in The Workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) [📖](https://read.readwise.io/read/01krdh9p265at5198hsqagkd9s) 👤 No One's Happy 💬 2228 🔖 #llm-devimpact, #llm-resistance 🗓️ 2026-05-12
@@ -193,10 +197,13 @@ Via HackerNews
 - [The Building Block Economy](https://mitchellh.com/writing/building-block-economy) [📖](https://read.readwise.io/read/01knq8snfek2t06z9jgrmx667s) 👤 Mitchell Hashimoto 💬 1185 🗓️ 2026-04-08
 - [Principles of Mechanical Sympathy](https://martinfowler.com/articles/mechanical-sympathy-principles.html) [📖](https://read.readwise.io/read/01knq8rkmccq5tkspg0npbrmbd) 👤 Caer Sanders 💬 1748 🔖 #softwarecraft 🗓️ 2026-04-08
     > **Заметка:** О том, как внимание к техническим деталям железа позволяет писать более производительный софт. 
+- [On the usefulness of AI agents](https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html) [📖](https://read.readwise.io/read/01knq4y2r5a7ffntsmhs7jjvtf) 👤 Erik Johannes Husom 💬 2669 🔖 #llm-reality, #llm-resistance 🗓️ 2026-04-08
 - [The Hacker News tarpit](https://www.joanwestenberg.com/the-hacker-news-tarpit/?ref=westenberg-newsletter) [📖](https://read.readwise.io/read/01knpen66qmq810krwn0dgdhm8) 👤 JA Westenberg 💬 1846 🔖 #llm-devimpact 🗓️ 2026-04-08
 - [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) [📖](https://read.readwise.io/read/01knp9f4rgqj2ket2f9t34hv69) 👤 Wouter Groeneveld 💬 2840 🔖 #learning, #llm-devimpact, #llm-resistance 🗓️ 2026-04-08
 - [Cycles of disruption in the tech industry: with software pioneers Kent Beck & Martin Fowler](https://newsletter.pragmaticengineer.com/p/cycles-of-disruption-in-the-tech) [📖](https://read.readwise.io/read/01knmcen01kwvft2r3939y01jn) 👤 Gergely Orosz 💬 2527 🔖 #llm-devimpact 🗓️ 2026-04-07
 - [Embedding SF Symbols in SwiftUI Text](https://nilcoalescing.com/blog/EmbeddingSFSymbolsInSwiftUIText) [📖](https://read.readwise.io/read/01kngt8gbw25b3qab43p7y9a3d) 👤 Nil Coalescing 💬 434 🔖 #swift 🗓️ 2026-04-06
+- [Some uncomfortable truths about AI coding agents](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01knbv6r1n0rt1fmt8eye7m8c0) 👤 standupforme.app 💬 3485 🔖 #llm-reality 🗓️ 2026-04-04
+    > **Заметка:** Ещё один трезвый взгляд на использование ИИ-агентов. Via TLDR Newsletter
 - [Explainer: AppKit and SwiftUI](https://eclecticlight.co/2026/04/04/explainer-appkit-and-swiftui/) [📖](https://read.readwise.io/read/01knbnn5brr84fzqqzgvhregb3) 👤 hoakley 💬 883 🔖 #macos, #swift, #appkit 🗓️ 2026-04-04
 - [Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) [📖](https://read.readwise.io/read/01kn9bhecn4jqa6kfyy7bwrm9v) 👤 seangoedecke.com RSS feed 💬 1545 🔖 #llm, #llm-devimpact 🗓️ 2026-04-03
 - [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) [📖](https://read.readwise.io/read/01kn4wcadfjm540wfsav7pgxnp) 👤 Matheus Lima 💬 847 🔖 #career, #management, #communication 🗓️ 2026-04-01

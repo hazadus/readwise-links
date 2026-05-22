@@ -1,6 +1,6 @@
 # Новые ссылки
 
-- Всего ссылок: 945
+- Всего ссылок: 948
 
 ## Ссылки
 
@@ -17,10 +17,12 @@
 - [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) [📖](https://read.readwise.io/read/01knymwy6b02avchen3gkmjr08) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11
 - [Глава 2. Базовые возможности JSON](https://grishaev.me/pg-book-json-ch02/) [📖](https://read.readwise.io/read/01knhde7wg4mcx47qc2k368z0k) 👤 Ivan Grishaev's blog 💬 7191 🔖 #book, #postgresql 🗓️ 2026-04-06
 - [Complete Guide: Using an ILI9341 Display with the TFT_eSPI Library](https://mischianti.org/complete-guide-using-an-ili9341-display-with-the-tft_espi-library/) [📖](https://read.readwise.io/read/01kn84zxd57pbrgw7mdyhtmvvn) 👤 Renzo Mischianti 💬 1708 🔖 #esp32 🗓️ 2026-04-02
+- [Quantization from the ground up](https://ngrok.com/blog/quantization) [📖](https://read.readwise.io/read/01kmrp6ce52w3gzsedw0ky6y7a) 👤 Sam Rose 💬 4123 🔖 #llm, #theory 🗓️ 2026-03-27
 - [Getting Real](https://readwise.io/reader/document_raw_content/2844630) [📖](https://read.readwise.io/read/01kkspgf8s81ww3t6v257fepfc) 👤 Basecamp 💬 29339 🗓️ 2026-03-15
 - [In search of Banksy, Reuters found the artist took on a new identity](https://www.reuters.com/investigates/special-report/global-art-banksy/) [📖](https://read.readwise.io/read/01kknsrd2ybz8zyach8m6qjv8g) 👤 Anton Zverev 💬 10475 🗓️ 2026-03-14
 - [Alan Turing: The Enigma](https://readwise.io/reader/document_raw_content/430011785) [📖](https://read.readwise.io/read/01kk8sxkd910gadynn6j0x0ge4) 👤 Andrew Hodges 💬 304577 🗓️ 2026-03-09
 - [Turing](https://readwise.io/reader/document_raw_content/430011713) [📖](https://read.readwise.io/read/01kk8sx0dxnbxzz1m64qp2rwq2) 👤 B. Jack Copeland 💬 101692 🗓️ 2026-03-09
+- [microgpt](https://karpathy.github.io/2026/02/12/microgpt/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kjz757r7cztw20w5anxnzy93) 👤 karpathy.github.io 💬 5261 🔖 #llm, #theory 🗓️ 2026-03-05
 - [28 unusual and creative vinyl records](https://coloredvinylrecords.com/blog/25-unusual-and-creative-records/) [📖](https://read.readwise.io/read/01kjg6d31yb8ma1sa0rgneqj44) 👤 Colored Vinyl Records 💬 2383 🗓️ 2026-02-27
 - [Евгений Федоров: Хозяин каменных гор](https://www.soyuz.ru/articles/1134) [📖](https://read.readwise.io/read/01khn1ffwdsrd024kxerer3ds1) 👤 soyuz.ru 💬 1350 🔖 #book 🗓️ 2026-02-17
 - [Intro to CSS 3D transforms](https://3dtransforms.desandro.com/) [📖](https://read.readwise.io/read/01kgq03f8qbdtt95hvek827f1d) 👤 desandro.com 💬 460 🔖 #css, #try 🗓️ 2026-02-05
@@ -158,6 +160,8 @@ https://chatgpt.com/c/69442a9a-f300-832f-ab30-b4c986167b5d
 - [TDD, AI agents and coding with Kent Beck](https://www.youtube.com/watch?v=aSXaxOdVtAQ) [📖](https://read.readwise.io/read/01k1098sd1xw00saawvv91as5x) 👤 The Pragmatic Engineer 🗓️ 2025-07-25
 - [Getting Real](http://gettingreal.37signals.com/) [📖](https://read.readwise.io/read/01k0y1vj3chjv20pfb9vrn68dz) 👤 basecamp.com 💬 426 🔖 #book 🗓️ 2025-07-24
 - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/?from=newsletter) [📖](https://read.readwise.io/read/01k0q7k2k291yw2tt3mkesgpx8) 👤 Josh W. Comeau 💬 3091 🔖 #explorable 🗓️ 2025-07-21
+- [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) [📖](https://read.readwise.io/read/01k0p04qds3k7b6mxrrfggvpt2) 👤 Andrej Karpathy 🔖 #llm, #theory 🗓️ 2025-07-21
+    > **Заметка:** https://chatgpt.com/c/6943ed14-aa58-8326-8cc0-ec43eaf689dchttps://chatgpt.com/c/6943f78f-c1f0-832f-b8c3-7acaf54f0500
 - [Gist of Go: Signaling](https://antonz.org/go-concurrency/signaling/) [📖](https://read.readwise.io/read/01k0nxqjn4w5wfc4bqnd9zjywd) 👤 Anton Zhiyanov 💬 3912 🔖 #go 🗓️ 2025-07-21
 - [Useful Not True](private://read/01k0k6235k7ss56jx05sjmrryr) [📖](https://read.readwise.io/read/01k0mry4zm9x1znxwz7rxpgn33) 👤 Derek Sivers 💬 22661 🗓️ 2025-07-20
 - [New And Improved Formula! • The Applied Go Weekly Newsletter 2025-07-20](https://newsletter.appliedgo.net/archive/2025-07-20-jsonv2-new-and-improved-formula/) [📖](https://read.readwise.io/read/01k0m1zsd7tzdn8ef1qs2tbezb) 👤 The Applied Go Weekly Newsletter 💬 1836 🔖 #go 🗓️ 2025-07-20

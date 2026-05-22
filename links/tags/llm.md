@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 450
+- Всего ссылок: 451
 
 ## Ссылки
 
@@ -68,6 +68,8 @@ They save money and offer flexibility, though top cloud models can still be stro
     > **Резюме:** Large language models (LLMs) have not yet delivered huge improvements in coding speed or quality. They also do not make programming easy for non-experts and require real skill to use well. Overall, LLMs are helpful tools but not a magic solution for software development.
 - [Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) [📖](https://read.readwise.io/read/01kn9bhecn4jqa6kfyy7bwrm9v) 👤 seangoedecke.com RSS feed 💬 1545 🔖 #llm, #llm-devimpact 🗓️ 2026-04-03
     > **Резюме:** Programming is mainly about building a mental model or "theory" of how the code works, not just writing code. AI tools can help by handling details, but programmers still need to check if the AI's work fits their understanding. AI agents can create and test their own theories, but they struggle to remember them over time, which limits their effectiveness.
+- [Quantization from the ground up](https://ngrok.com/blog/quantization) [📖](https://read.readwise.io/read/01kmrp6ce52w3gzsedw0ky6y7a) 👤 Sam Rose 💬 4123 🔖 #llm, #theory 🗓️ 2026-03-27
+    > **Резюме:** Quantization shrinks large numbers into smaller ones so models use less memory and run faster. Lower bit quantization reduces accuracy, but 8-bit and 4-bit still work well for large language models. Very low bits like 2-bit cause big errors and poor model performance.
 - [Платные LLM против локальной модели на бытовом ноутбуке — велика ли разница?](https://www.youtube.com/watch?v=1GEML055VNE) [📖](https://read.readwise.io/read/01kmmzv4cx4zp70y8jc8f3nxwg) 👤 Диджитализируй! 🔖 #llm 🗓️ 2026-03-26
     > **Резюме:** Автор хотел попробовать локальные языковые модели, думая, что это сложно и ноутбук слабый. Он удивился, что на обычном ноутбуке без дискретной графики можно запустить полезные большие модели бесплатно. Разница между платными и бесплатными моделями теперь не очень большая, и локальные решения доступны многим.
 - [Stable Diffusion XL: так ли сложно использовать локальную модель?](https://habr.com/ru/companies/bhv_publishing/articles/1014232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog) [📖](https://read.readwise.io/read/01kmfxcgbrz9jtanwevx5pxc1k) 👤 BHV_publishing (Издательство БХВ) 💬 1712 🔖 #llm, #book 🗓️ 2026-03-24
@@ -90,7 +92,7 @@ They save money and offer flexibility, though top cloud models can still be stro
     > **Резюме:** The author worries that AI will soon replace many software engineering jobs, changing the industry completely. They believe AI tools are improving fast and can do most coding tasks better than humans. While hopeful for a human role, they think software engineers may need to find new careers in the future.
 - [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/#atom-everything) [📖](https://read.readwise.io/read/01kk26t10tk19sam8m0vvnawt8) 👤 Simon Willison 💬 1188 🔖 #llm 🗓️ 2026-03-06
     > **Резюме:** Coding agents can quickly create new versions of software without copying old code, raising questions about licensing and legality. A recent rewrite of the chardet library sparked debate because it reused the same name but changed the license from LGPL to MIT. This case shows the challenges and uncertainty around AI-generated code and open source rules.
-- [microgpt](https://karpathy.github.io/2026/02/12/microgpt/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kjz757r7cztw20w5anxnzy93) 👤 karpathy.github.io 💬 5261 🔖 #llm 🗓️ 2026-03-05
+- [microgpt](https://karpathy.github.io/2026/02/12/microgpt/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kjz757r7cztw20w5anxnzy93) 👤 karpathy.github.io 💬 5261 🔖 #llm, #theory 🗓️ 2026-03-05
     > **Резюме:** MicroGPT is a simple neural network that learns to predict the next token in a sequence by adjusting many small parameters. It trains using backpropagation and the Adam optimizer to reduce prediction errors step-by-step. Over time, the model gets better at capturing patterns in the data and generating likely next tokens.
 - [Let a Million Flowers Bloom](https://davegriffith.substack.com/p/let-a-million-flowers-bloom) [📖](https://read.readwise.io/read/01kjwhjez21g3j1xpbxr9msj3y) 👤 Dave Griffith 💬 1597 🔖 #llm 🗓️ 2026-03-04
     > **Резюме:** Experienced engineers are trying many new ways to work with AI, experimenting with tools and workflows. No one knows the best method yet, so they share ideas and learn together. This time of exploration is messy but full of creative energy and growth.
@@ -749,7 +751,7 @@ Even with optimistic numbers, retries and propagated mistakes can push the fract
     > **Резюме:** David Crawshaw shares how he uses LLMs to enhance his programming productivity. He finds value in chat-driven programming, where LLMs help him generate code and tests more efficiently. Crawshaw believes that specialized environments for LLMs, like sketch.dev, can lead to better results in programming.
 - [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents) [📖](https://read.readwise.io/read/01k0p1kj30b831d1wd9ggercz5) 👤 anthropic.com 💬 2551 🔖 #llm, #agents 🗓️ 2025-07-21
     > **Резюме:** Anthropic has learned from working with various teams to build effective AI agents using large language models (LLMs). They differentiate between workflows, which follow predefined paths, and agents that operate flexibly and autonomously. The article provides practical advice for developers on choosing the right approach and emphasizes the importance of simplicity and effective design in building these systems.
-- [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) [📖](https://read.readwise.io/read/01k0p04qds3k7b6mxrrfggvpt2) 👤 Andrej Karpathy 🔖 #llm 🗓️ 2025-07-21
+- [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) [📖](https://read.readwise.io/read/01k0p04qds3k7b6mxrrfggvpt2) 👤 Andrej Karpathy 🔖 #llm, #theory 🗓️ 2025-07-21
     > **Заметка:** https://chatgpt.com/c/6943ed14-aa58-8326-8cc0-ec43eaf689dchttps://chatgpt.com/c/6943f78f-c1f0-832f-b8c3-7acaf54f0500
     > **Резюме:** You can use open-weight language models through inference providers like Together.AI. Together.AI offers a playground where you can try many different open models. Finding basic models is less common on these platforms.
 - [How I keep up with AI progress (and why you must too)](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01k0mtpmnhc643v9689wsq7ex8) 👤 Nilenso 💬 1804 🔖 #llm, #inspiration, #joyandcuriosity 🗓️ 2025-07-20
