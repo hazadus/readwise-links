@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T04:37:13.008858+00:00",
+  "generated_at": "2026-05-23T04:27:36.089878+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -28,6 +28,28 @@
           "is_tutorial": true,
           "is_foundational": false,
           "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01ks71vz79df2f3z1hff4wthnh",
+        "url": "https://read.readwise.io/read/01ks71vz79df2f3z1hff4wthnh",
+        "source_url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+        "title": "While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video",
+        "author": "NJ",
+        "image_url": null,
+        "word_count": 2630,
+        "summary": "The author built a local AI system to index a year of video footage on an old MacBook, making clips searchable by detailed descriptions. This solves the problem of finding footage quickly, which AI video editors usually overlook. Next, they plan to create an AI-driven editor to turn found clips into finished reels.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-22T05:17:28.681000+00:00",
+        "last_moved_at": "2026-05-22T05:17:30.944000+00:00",
+        "published_date": "2026-05-21",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": false,
+          "is_evergreen": false,
           "interest_score": 9
         }
       },
@@ -567,28 +589,6 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 6
-        }
-      },
-      {
-        "id": "01kq4a66beh84d41apswqw5xsk",
-        "url": "https://read.readwise.io/read/01kq4a66beh84d41apswqw5xsk",
-        "source_url": "https://causality.blog/essays/what-async-promised/",
-        "title": "What Async Promised and What it Delivered",
-        "author": "Causality",
-        "image_url": "https://causality.blog/og-essay-3.png",
-        "word_count": 2488,
-        "summary": "Async programming evolved from callbacks to promises to async/await, each improving code readability but adding new challenges. Async/await makes asynchronous code look sequential, which helps for simple tasks but hides complexity in larger programs. Overall, these advances helped developers write async code easier but introduced new bugs and harder maintenance in big projects.",
-        "notes": "Via HackerNews",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-26T07:13:45.326000+00:00",
-        "last_moved_at": "2026-04-26T07:13:47.570000+00:00",
-        "published_date": "2026-04-22",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 5
         }
       }
     ],
@@ -2413,6 +2413,28 @@
         }
       },
       {
+        "id": "01ks71vz79df2f3z1hff4wthnh",
+        "url": "https://read.readwise.io/read/01ks71vz79df2f3z1hff4wthnh",
+        "source_url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+        "title": "While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video",
+        "author": "NJ",
+        "image_url": null,
+        "word_count": 2630,
+        "summary": "The author built a local AI system to index a year of video footage on an old MacBook, making clips searchable by detailed descriptions. This solves the problem of finding footage quickly, which AI video editors usually overlook. Next, they plan to create an AI-driven editor to turn found clips into finished reels.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-22T05:17:28.681000+00:00",
+        "last_moved_at": "2026-05-22T05:17:30.944000+00:00",
+        "published_date": "2026-05-21",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
         "id": "01k1sv73j1ksk35k38e375h0b7",
         "url": "https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7",
         "source_url": "http://rednafi.com/go/gateway_pattern/",
@@ -3457,6 +3479,28 @@
       }
     ],
     "timely": [
+      {
+        "id": "01ks71vz79df2f3z1hff4wthnh",
+        "url": "https://read.readwise.io/read/01ks71vz79df2f3z1hff4wthnh",
+        "source_url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+        "title": "While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video",
+        "author": "NJ",
+        "image_url": null,
+        "word_count": 2630,
+        "summary": "The author built a local AI system to index a year of video footage on an old MacBook, making clips searchable by detailed descriptions. This solves the problem of finding footage quickly, which AI video editors usually overlook. Next, they plan to create an AI-driven editor to turn found clips into finished reels.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-22T05:17:28.681000+00:00",
+        "last_moved_at": "2026-05-22T05:17:30.944000+00:00",
+        "published_date": "2026-05-21",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
       {
         "id": "01kjnjanqgfzsvenqw6d62rxqv",
         "url": "https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv",

@@ -2,10 +2,12 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-05-22 04:37 UTC · Статей: 18
+Сгенерировано: 2026-05-23 04:27 UTC · Статей: 19
 
 ## Статьи
 
+- [While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video](https://blog.simbastack.com/indexed-a-year-of-video-locally/) [📖](https://read.readwise.io/read/01ks71vz79df2f3z1hff4wthnh) 👤 NJ 💬 2630 ⭐ 9 🗓️ 2026-05-22 · 🛠️ туториал
+    > **Резюме:** The author built a local AI system to index a year of video footage on an old MacBook, making clips searchable by detailed descriptions. This solves the problem of finding footage quickly, which AI video editors usually overlook. Next, they plan to create an AI-driven editor to turn found clips into finished reels.
 - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) [📖](https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv) 👤 Max Woolf's Blog 💬 6903 ⭐ 8 🔖 #llm 🗓️ 2026-03-01
     > **Заметка:** Via https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything
     > **Резюме:** The author tested AI coding agents and found them surprisingly good at writing and optimizing Rust and Python code. These agents created fast, efficient machine learning tools that rival existing libraries. The author encourages others to try modern agents with clear coding guidelines for better results.

@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 53
+- Всего ссылок: 54
 
 ## Ссылки
 
+- [While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video](https://blog.simbastack.com/indexed-a-year-of-video-locally/) [📖](https://read.readwise.io/read/01ks71vz79df2f3z1hff4wthnh) 👤 NJ 💬 2630 🗓️ 2026-05-22
+    > **Резюме:** The author built a local AI system to index a year of video footage on an old MacBook, making clips searchable by detailed descriptions. This solves the problem of finding footage quickly, which AI video editors usually overlook. Next, they plan to create an AI-driven editor to turn found clips into finished reels.
 - [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/) [📖](https://read.readwise.io/read/01krwwzt19d6zeem88b59z983s) 👤 Matthias Endler 💬 5536 🔖 #go, #rust 🗓️ 2026-05-18
     > **Резюме:** Go and Rust both offer strong concurrency and performance, but Rust has stricter safety checks and a more powerful type system. Rust’s generics and traits provide better code reuse and fewer runtime errors, though compile times are slower and the learning curve is steeper. Moving from Go to Rust means trading simplicity and fast builds for safety, expressiveness, and fewer runtime bugs.
 - [Starting Systems Programming, Pt 1: Programmers Write Programs](https://eblog.fly.dev/startingsystems1.html?utm_source=christophberger&utm_medium=email&utm_campaign=2026-05-17-it-works-but-why) [📖](https://read.readwise.io/read/01krwn5xzt5ncgf86fdmjehwkk) 👤 Efron Licht 💬 8129 🔖 #go 🗓️ 2026-05-18

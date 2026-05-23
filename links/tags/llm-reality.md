@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [Twelve Ways to Be Wrong About AI-Assisted Coding](https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/) [📖](https://read.readwise.io/read/01ks72rjp1efcvnvwmbfekmx6f) 👤 third-bit.com 💬 1585 🔖 #llm-reality 🗓️ 2026-05-22
+    > **Заметка:** Взвешенный разбор типовых метрик/аргументов в пользу активного использования LLM-агентов.
+    > **Резюме:** Measuring AI coding tools by simple metrics like lines of code or developer surveys is misleading and incomplete. Real productivity gains depend on quality, security, and team dynamics, which are often ignored. Proper assessment needs careful study design and long-term analysis beyond initial impressions.
 - [Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/) [📖](https://read.readwise.io/read/01krwthf8z953x0y9pbfh9br3s) 👤 Addy Osmani 💬 1405 🔖 #learning, #llm-reality, #llm-devimpact 🗓️ 2026-05-18
     > **Заметка:** Очень честный взгляд на продуктивность VS. обучение. Нужно эти тезисы себе прям в табличке над столом вывешивать. Via HN
     > **Резюме:** Relying on AI to write code without understanding it harms your learning and skills over time. Using AI well means asking questions, testing ideas, and learning from the process. To stay sharp, treat AI as a teacher, not just a tool to finish tasks quickly.

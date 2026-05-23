@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1704
+- Всего ссылок: 1705
 
 ## Ссылки
 
+- [Twelve Ways to Be Wrong About AI-Assisted Coding](https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/) [📖](https://read.readwise.io/read/01ks72rjp1efcvnvwmbfekmx6f) 👤 third-bit.com 💬 1585 🔖 #llm-reality 🗓️ 2026-05-22
+    > **Заметка:** Взвешенный разбор типовых метрик/аргументов в пользу активного использования LLM-агентов.
 - [Settings, preferences and defaults](https://eclecticlight.co/2026/05/19/settings-preferences-and-defaults/) [📖](https://read.readwise.io/read/01krzf75d1xh48n0mwhqnmg33x) 👤 hoakley 💬 1304 🔖 #macos 🗓️ 2026-05-19
     > **Заметка:** Полезная команда `defaults` для просмотра всех настроек приложения.
 - [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything) [📖](https://read.readwise.io/read/01krywkket5b9bcv83xppm7dxe) 👤 Simon Willison's Weblog 💬 1086 🔖 #llm 🗓️ 2026-05-19

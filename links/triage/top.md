@@ -2,12 +2,14 @@
 
 _20 статей с наивысшим interest_score_
 
-Сгенерировано: 2026-05-22 04:37 UTC · Статей: 20
+Сгенерировано: 2026-05-23 04:27 UTC · Статей: 20
 
 ## Статьи
 
 - [Watching for file changes on macOS](https://alexwlchan.net/2026/watch-files-on-macos/) [📖](https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j) 👤 alexwlchan 💬 4675 ⭐ 9 🔖 #macos 🗓️ 2026-05-11 · 🛠️ туториал, 🌲 вечнозелёное
     > **Резюме:** The article explains how to use macOS’s FSEvents API in Swift to watch for file changes and print the changed file paths. It shows how a Python script can read these paths from the Swift script’s output to trigger actions like rebuilding a site. This method detects file changes quickly, with just a few milliseconds delay.
+- [While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video](https://blog.simbastack.com/indexed-a-year-of-video-locally/) [📖](https://read.readwise.io/read/01ks71vz79df2f3z1hff4wthnh) 👤 NJ 💬 2630 ⭐ 9 🗓️ 2026-05-22 · 🛠️ туториал
+    > **Резюме:** The author built a local AI system to index a year of video footage on an old MacBook, making clips searchable by detailed descriptions. This solves the problem of finding footage quickly, which AI video editors usually overlook. Next, they plan to create an AI-driven editor to turn found clips into finished reels.
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) [📖](https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7) 👤 Redowan Delowar 💬 1179 ⭐ 9 🔖 #go, #patterns 🗓️ 2025-08-04 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/694438ad-68b0-832f-91bf-a2c4f204944e
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
@@ -51,6 +53,3 @@ _20 статей с наивысшим interest_score_
     > **Резюме:** Software developers often write bad unit tests by blindly applying production code rules to test code, leading to unnecessary complexity. Good unit tests should be simple, clear, and self-contained, enabling easy understanding and issue diagnosis without excessive abstraction. Naming tests effectively and avoiding unnecessary constants can help improve the quality of unit tests.
 - [Why Elixir is the best language for AI](https://dashbit.co/blog/why-elixir-best-language-for-ai?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01khgxm5m5yjxwenjyyzezsfsg) 👤 José Valim 💬 1651 ⭐ 6 🔖 #llm, #elixir, #joyandcuriosity 🗓️ 2026-02-15 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Elixir is the best language for AI because it is easy to understand, stable, and well-documented. Its features like immutability and clear data flow help both humans and AI models reason about code. Also, Elixir’s fast feedback, low complexity, and introspection tools make coding and debugging quicker and simpler.
-- [What Async Promised and What it Delivered](https://causality.blog/essays/what-async-promised/) [📖](https://read.readwise.io/read/01kq4a66beh84d41apswqw5xsk) 👤 Causality 💬 2488 ⭐ 5 🗓️ 2026-04-26 · 🧠 основы, 🌲 вечнозелёное
-    > **Заметка:** Via HackerNews
-    > **Резюме:** Async programming evolved from callbacks to promises to async/await, each improving code readability but adding new challenges. Async/await makes asynchronous code look sequential, which helps for simple tasks but hides complexity in larger programs. Overall, these advances helped developers write async code easier but introduced new bugs and harder maintenance in big projects.
