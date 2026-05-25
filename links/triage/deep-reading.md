@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-05-24 04:39 UTC · Статей: 35
+Сгенерировано: 2026-05-25 04:42 UTC · Статей: 36
 
 ## Статьи
 
@@ -24,6 +24,8 @@ _Длинные статьи (от 1500 слов), не туториалы_
     > **Резюме:** Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.
 - [macOS Tips](https://blog.xoria.org/macos-tips/) [📖](https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8) 👤 xoria.org 💬 2856 ⭐ 7 🔖 #macos 🗓️ 2026-01-31 · 🌲 вечнозелёное
     > **Резюме:** macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.
+- [The Maintainer's Dilemma](https://spf13.com/p/the-maintainers-dilemma/) [📖](https://read.readwise.io/read/01ksam0gs41887x9es2gpw1b2q) 👤 spf13 💬 2569 ⭐ 7 🗓️ 2026-05-23 · 🌲 вечнозелёное
+    > **Резюме:** Maintainers face a big problem: too many contributions and not enough time to review them. AI tools can help with simple tasks but can't replace the deep knowledge and judgment humans use to maintain projects. Relying on AI or ignoring reviews risks breaking trust and quality in open source communities.
 - [The (lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kba74ynqzd6by0k16mmj92s4) 👤 @bwplotka 💬 2452 ⭐ 7 🔖 #git, #joyandcuriosity 🗓️ 2025-11-30 · 🌲 вечнозелёное
     > **Резюме:** The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.
 - [Why Elixir is the best language for AI](https://dashbit.co/blog/why-elixir-best-language-for-ai?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01khgxm5m5yjxwenjyyzezsfsg) 👤 José Valim 💬 1651 ⭐ 6 🔖 #llm, #elixir, #joyandcuriosity 🗓️ 2026-02-15 · 🧠 основы, 🌲 вечнозелёное

@@ -2,7 +2,7 @@
 
 _20 статей с наивысшим interest_score_
 
-Сгенерировано: 2026-05-24 04:39 UTC · Статей: 20
+Сгенерировано: 2026-05-25 04:42 UTC · Статей: 20
 
 ## Статьи
 
@@ -39,6 +39,8 @@ _20 статей с наивысшим interest_score_
 - [How to build a remarkable command palette](https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01k7z3amqe376ky08bkmjbnp3v) 👤 Tim Boucher 💬 2747 ⭐ 7 🔖 #joyandcuriosity 🗓️ 2025-10-19 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/69442ca9-df50-8325-a6a9-ab2121ec93ae
     > **Резюме:** A command palette is a user interface tool that allows quick access to various commands, making it easier for users to discover features. To build an effective command palette, ensure it is available everywhere, centralizes all commands, and offers flexibility in command matching. By following these principles, you can create a powerful and user-friendly command palette that enhances productivity.
+- [The Maintainer's Dilemma](https://spf13.com/p/the-maintainers-dilemma/) [📖](https://read.readwise.io/read/01ksam0gs41887x9es2gpw1b2q) 👤 spf13 💬 2569 ⭐ 7 🗓️ 2026-05-23 · 🌲 вечнозелёное
+    > **Резюме:** Maintainers face a big problem: too many contributions and not enough time to review them. AI tools can help with simple tasks but can't replace the deep knowledge and judgment humans use to maintain projects. Relying on AI or ignoring reviews risks breaking trust and quality in open source communities.
 - [The (lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kba74ynqzd6by0k16mmj92s4) 👤 @bwplotka 💬 2452 ⭐ 7 🔖 #git, #joyandcuriosity 🗓️ 2025-11-30 · 🌲 вечнозелёное
     > **Резюме:** The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.
 - [Unlocking Reading Insights: A Guide to Data Analysis with Claude and Readwise](https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/) [📖](https://read.readwise.io/read/01k62kckeewb1936zrjewhbhvn) 👤 Alexander Opalic 💬 1522 ⭐ 7 🗓️ 2025-09-26 · 🛠️ туториал
@@ -51,5 +53,3 @@ _20 статей с наивысшим interest_score_
 - [Why Good Developers Write Bad Unit Tests](https://mtlynch.io/good-developers-bad-tests/#test-code-is-not-like-other-code) [📖](https://read.readwise.io/read/01kgpxfr0rd5sezbhmv0szq1dt) 👤 Michael Lynch 💬 2167 ⭐ 6 🔖 #testing 🗓️ 2026-02-05 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via https://refactoringenglish.com/blog/software-essays-that-shaped-me/#-by-erik-kuefler-2014
     > **Резюме:** Software developers often write bad unit tests by blindly applying production code rules to test code, leading to unnecessary complexity. Good unit tests should be simple, clear, and self-contained, enabling easy understanding and issue diagnosis without excessive abstraction. Naming tests effectively and avoiding unnecessary constants can help improve the quality of unit tests.
-- [Why Elixir is the best language for AI](https://dashbit.co/blog/why-elixir-best-language-for-ai?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01khgxm5m5yjxwenjyyzezsfsg) 👤 José Valim 💬 1651 ⭐ 6 🔖 #llm, #elixir, #joyandcuriosity 🗓️ 2026-02-15 · 🧠 основы, 🌲 вечнозелёное
-    > **Резюме:** Elixir is the best language for AI because it is easy to understand, stable, and well-documented. Its features like immutability and clear data flow help both humans and AI models reason about code. Also, Elixir’s fast feedback, low complexity, and introspection tools make coding and debugging quicker and simpler.

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T04:39:12.811229+00:00",
+  "generated_at": "2026-05-25T04:42:43.132963+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -415,6 +415,28 @@
         }
       },
       {
+        "id": "01ksam0gs41887x9es2gpw1b2q",
+        "url": "https://read.readwise.io/read/01ksam0gs41887x9es2gpw1b2q",
+        "source_url": "https://spf13.com/p/the-maintainers-dilemma/",
+        "title": "The Maintainer's Dilemma",
+        "author": "spf13",
+        "image_url": "https://spf13.com/p/the-maintainers-dilemma/hero-alt.jpg",
+        "word_count": 2569,
+        "summary": "Maintainers face a big problem: too many contributions and not enough time to review them. AI tools can help with simple tasks but can't replace the deep knowledge and judgment humans use to maintain projects. Relying on AI or ignoring reviews risks breaking trust and quality in open source communities.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-23T14:32:15.396000+00:00",
+        "last_moved_at": "2026-05-23T14:32:28.208000+00:00",
+        "published_date": "2026-05-20",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 7
+        }
+      },
+      {
         "id": "01kba74ynqzd6by0k16mmj92s4",
         "url": "https://read.readwise.io/read/01kba74ynqzd6by0k16mmj92s4",
         "source_url": "https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email",
@@ -548,44 +570,6 @@
         "published_date": "2018-11-09",
         "triage": {
           "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 6
-        }
-      },
-      {
-        "id": "01khgxm5m5yjxwenjyyzezsfsg",
-        "url": "https://read.readwise.io/read/01khgxm5m5yjxwenjyyzezsfsg",
-        "source_url": "https://dashbit.co/blog/why-elixir-best-language-for-ai?utm_source=substack&utm_medium=email",
-        "title": "Why Elixir is the best language for AI",
-        "author": "José Valim",
-        "image_url": "",
-        "word_count": 1651,
-        "summary": "Elixir is the best language for AI because it is easy to understand, stable, and well-documented. Its features like immutability and clear data flow help both humans and AI models reason about code. Also, Elixir’s fast feedback, low complexity, and introspection tools make coding and debugging quicker and simpler.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1771168214302
-          },
-          "elixir": {
-            "name": "Elixir",
-            "type": "manual",
-            "created": 1771168217182
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1771168219865
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-15T15:10:08.516000+00:00",
-        "last_moved_at": "2026-02-15T15:10:12.335000+00:00",
-        "published_date": "2026-02-05",
-        "triage": {
-          "is_tutorial": false,
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 6
@@ -863,6 +847,28 @@
           "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 2
+        }
+      },
+      {
+        "id": "01ksam0gs41887x9es2gpw1b2q",
+        "url": "https://read.readwise.io/read/01ksam0gs41887x9es2gpw1b2q",
+        "source_url": "https://spf13.com/p/the-maintainers-dilemma/",
+        "title": "The Maintainer's Dilemma",
+        "author": "spf13",
+        "image_url": "https://spf13.com/p/the-maintainers-dilemma/hero-alt.jpg",
+        "word_count": 2569,
+        "summary": "Maintainers face a big problem: too many contributions and not enough time to review them. AI tools can help with simple tasks but can't replace the deep knowledge and judgment humans use to maintain projects. Relying on AI or ignoring reviews risks breaking trust and quality in open source communities.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-23T14:32:15.396000+00:00",
+        "last_moved_at": "2026-05-23T14:32:28.208000+00:00",
+        "published_date": "2026-05-20",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 7
         }
       },
       {
@@ -1609,6 +1615,28 @@
         "saved_at": "2026-01-31T16:59:13.351000+00:00",
         "last_moved_at": "2026-01-31T16:59:16.193000+00:00",
         "published_date": "2024-11-15",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01ksam0gs41887x9es2gpw1b2q",
+        "url": "https://read.readwise.io/read/01ksam0gs41887x9es2gpw1b2q",
+        "source_url": "https://spf13.com/p/the-maintainers-dilemma/",
+        "title": "The Maintainer's Dilemma",
+        "author": "spf13",
+        "image_url": "https://spf13.com/p/the-maintainers-dilemma/hero-alt.jpg",
+        "word_count": 2569,
+        "summary": "Maintainers face a big problem: too many contributions and not enough time to review them. AI tools can help with simple tasks but can't replace the deep knowledge and judgment humans use to maintain projects. Relying on AI or ignoring reviews risks breaking trust and quality in open source communities.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-23T14:32:15.396000+00:00",
+        "last_moved_at": "2026-05-23T14:32:28.208000+00:00",
+        "published_date": "2026-05-20",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
