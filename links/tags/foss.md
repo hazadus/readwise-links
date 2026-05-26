@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [The Maintainer's Dilemma](https://spf13.com/p/the-maintainers-dilemma/) [📖](https://read.readwise.io/read/01ksam0gs41887x9es2gpw1b2q) 👤 spf13 💬 2569 🔖 #foss, #llm-devimpact 🗓️ 2026-05-23
+    > **Резюме:** Maintainers face a big problem: too many contributions and not enough time to review them. AI tools can help with simple tasks but can't replace the deep knowledge and judgment humans use to maintain projects. Relying on AI or ignoring reviews risks breaking trust and quality in open source communities.
 - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) [📖](https://read.readwise.io/read/01kqaz6w1gpbt46g0n1kbeny9s) 👤 Armin Ronacher 💬 2307 🔖 #foss, #github, #predictions 🗓️ 2026-04-28
     > **Заметка:** Да уж, прям тектонические сдвиги в ИТ пошли. Пора задуматься о переезде на Gitverse?..
     > **Резюме:** GitHub was not the first home of my Open Source software.  SourceForge

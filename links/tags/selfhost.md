@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video](https://blog.simbastack.com/indexed-a-year-of-video-locally/) [📖](https://read.readwise.io/read/01ks71vz79df2f3z1hff4wthnh) 👤 NJ 💬 2630 🔖 #llm, #selfhost 🗓️ 2026-05-22
+    > **Заметка:** Хороший пост как вдохновение того, какие объемные задачи можно решить локально при наличии относительно мощного железа.
+    > **Резюме:** The author built a local AI system to index a year of video footage on an old MacBook, making clips searchable by detailed descriptions. This solves the problem of finding footage quickly, which AI video editors usually overlook. Next, they plan to create an AI-driven editor to turn found clips into finished reels.
 - [You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude) [📖](https://read.readwise.io/read/01kpfqsqcjj1pc8g79r2pe4g8p) 👤 Logan Thorneloe 💬 3456 🔖 #llm, #selfhost 🗓️ 2026-04-18
     > **Заметка:** Интересный опыт, автор очень детально поразбирался с локальными моделями. Однако, имхо, без 32+ Гб там ловить нечего. И ещё интересен был бы тест на DevOps задачах - о них никто не пишет. Via HN
     > **Резюме:** You can run capable coding AI locally for much less than $100/month by upgrading your hardware.  

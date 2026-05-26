@@ -1,11 +1,17 @@
 # Архивные ссылки
 
-- Всего ссылок: 1705
+- Всего ссылок: 1709
 
 ## Ссылки
 
+- [The Eternal Sloptember](https://geohot.github.io/blog/jekyll/update/2026/05/24/the-eternal-sloptember.html) [📖](https://read.readwise.io/read/01ksev15azr8eysewhghz9veeq) 👤 the singularity is nearer 💬 873 🔖 #llm-reality 🗓️ 2026-05-25
+    > **Заметка:** Via HN. https://news.ycombinator.com/item?id=48263238
+- [The Maintainer's Dilemma](https://spf13.com/p/the-maintainers-dilemma/) [📖](https://read.readwise.io/read/01ksam0gs41887x9es2gpw1b2q) 👤 spf13 💬 2569 🔖 #foss, #llm-devimpact 🗓️ 2026-05-23
 - [Twelve Ways to Be Wrong About AI-Assisted Coding](https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/) [📖](https://read.readwise.io/read/01ks72rjp1efcvnvwmbfekmx6f) 👤 third-bit.com 💬 1585 🔖 #llm-reality 🗓️ 2026-05-22
     > **Заметка:** Взвешенный разбор типовых метрик/аргументов в пользу активного использования LLM-агентов.
+- [While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video](https://blog.simbastack.com/indexed-a-year-of-video-locally/) [📖](https://read.readwise.io/read/01ks71vz79df2f3z1hff4wthnh) 👤 NJ 💬 2630 🔖 #llm, #selfhost 🗓️ 2026-05-22
+    > **Заметка:** Хороший пост как вдохновение того, какие объемные задачи можно решить локально при наличии относительно мощного железа.
+- [Prompts are technical debt too](https://seangoedecke.com/prompts-are-technical-debt-too/) [📖](https://read.readwise.io/read/01ks2c1bcdpbv6nps74d3tshh0) 👤 seangoedecke.com RSS feed 💬 945 🔖 #llm 🗓️ 2026-05-20
 - [Settings, preferences and defaults](https://eclecticlight.co/2026/05/19/settings-preferences-and-defaults/) [📖](https://read.readwise.io/read/01krzf75d1xh48n0mwhqnmg33x) 👤 hoakley 💬 1304 🔖 #macos 🗓️ 2026-05-19
     > **Заметка:** Полезная команда `defaults` для просмотра всех настроек приложения.
 - [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything) [📖](https://read.readwise.io/read/01krywkket5b9bcv83xppm7dxe) 👤 Simon Willison's Weblog 💬 1086 🔖 #llm 🗓️ 2026-05-19

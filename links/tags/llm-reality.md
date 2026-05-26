@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [The Eternal Sloptember](https://geohot.github.io/blog/jekyll/update/2026/05/24/the-eternal-sloptember.html) [📖](https://read.readwise.io/read/01ksev15azr8eysewhghz9veeq) 👤 the singularity is nearer 💬 873 🔖 #llm-reality 🗓️ 2026-05-25
+    > **Заметка:** Via HN. https://news.ycombinator.com/item?id=48263238
+    > **Резюме:** AI agents cannot truly program; they only mimic code and often produce flawed results. Skilled people know when to trust AI, but large companies risk lowering quality by relying too much on it. This misuse may lead to more code but less useful, high-quality software overall.
 - [Twelve Ways to Be Wrong About AI-Assisted Coding](https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/) [📖](https://read.readwise.io/read/01ks72rjp1efcvnvwmbfekmx6f) 👤 third-bit.com 💬 1585 🔖 #llm-reality 🗓️ 2026-05-22
     > **Заметка:** Взвешенный разбор типовых метрик/аргументов в пользу активного использования LLM-агентов.
     > **Резюме:** Measuring AI coding tools by simple metrics like lines of code or developer surveys is misleading and incomplete. Real productivity gains depend on quality, security, and team dynamics, which are often ignored. Proper assessment needs careful study design and long-term analysis beyond initial impressions.

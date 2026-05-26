@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T04:42:43.132963+00:00",
+  "generated_at": "2026-05-26T04:36:30.399582+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -28,28 +28,6 @@
           "is_tutorial": true,
           "is_foundational": false,
           "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01ks71vz79df2f3z1hff4wthnh",
-        "url": "https://read.readwise.io/read/01ks71vz79df2f3z1hff4wthnh",
-        "source_url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-        "title": "While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video",
-        "author": "NJ",
-        "image_url": null,
-        "word_count": 2630,
-        "summary": "The author built a local AI system to index a year of video footage on an old MacBook, making clips searchable by detailed descriptions. This solves the problem of finding footage quickly, which AI video editors usually overlook. Next, they plan to create an AI-driven editor to turn found clips into finished reels.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-22T05:17:28.681000+00:00",
-        "last_moved_at": "2026-05-22T05:17:30.944000+00:00",
-        "published_date": "2026-05-21",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
           "interest_score": 9
         }
       },
@@ -415,28 +393,6 @@
         }
       },
       {
-        "id": "01ksam0gs41887x9es2gpw1b2q",
-        "url": "https://read.readwise.io/read/01ksam0gs41887x9es2gpw1b2q",
-        "source_url": "https://spf13.com/p/the-maintainers-dilemma/",
-        "title": "The Maintainer's Dilemma",
-        "author": "spf13",
-        "image_url": "https://spf13.com/p/the-maintainers-dilemma/hero-alt.jpg",
-        "word_count": 2569,
-        "summary": "Maintainers face a big problem: too many contributions and not enough time to review them. AI tools can help with simple tasks but can't replace the deep knowledge and judgment humans use to maintain projects. Relying on AI or ignoring reviews risks breaking trust and quality in open source communities.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-23T14:32:15.396000+00:00",
-        "last_moved_at": "2026-05-23T14:32:28.208000+00:00",
-        "published_date": "2026-05-20",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 7
-        }
-      },
-      {
         "id": "01kba74ynqzd6by0k16mmj92s4",
         "url": "https://read.readwise.io/read/01kba74ynqzd6by0k16mmj92s4",
         "source_url": "https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email",
@@ -573,6 +529,66 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 6
+        }
+      },
+      {
+        "id": "01khgxm5m5yjxwenjyyzezsfsg",
+        "url": "https://read.readwise.io/read/01khgxm5m5yjxwenjyyzezsfsg",
+        "source_url": "https://dashbit.co/blog/why-elixir-best-language-for-ai?utm_source=substack&utm_medium=email",
+        "title": "Why Elixir is the best language for AI",
+        "author": "José Valim",
+        "image_url": "",
+        "word_count": 1651,
+        "summary": "Elixir is the best language for AI because it is easy to understand, stable, and well-documented. Its features like immutability and clear data flow help both humans and AI models reason about code. Also, Elixir’s fast feedback, low complexity, and introspection tools make coding and debugging quicker and simpler.",
+        "notes": "",
+        "tags": {
+          "llm": {
+            "name": "LLM",
+            "type": "manual",
+            "created": 1771168214302
+          },
+          "elixir": {
+            "name": "Elixir",
+            "type": "manual",
+            "created": 1771168217182
+          },
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1771168219865
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-02-15T15:10:08.516000+00:00",
+        "last_moved_at": "2026-02-15T15:10:12.335000+00:00",
+        "published_date": "2026-02-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 6
+        }
+      },
+      {
+        "id": "01kq4a66beh84d41apswqw5xsk",
+        "url": "https://read.readwise.io/read/01kq4a66beh84d41apswqw5xsk",
+        "source_url": "https://causality.blog/essays/what-async-promised/",
+        "title": "What Async Promised and What it Delivered",
+        "author": "Causality",
+        "image_url": "https://causality.blog/og-essay-3.png",
+        "word_count": 2488,
+        "summary": "Async programming evolved from callbacks to promises to async/await, each improving code readability but adding new challenges. Async/await makes asynchronous code look sequential, which helps for simple tasks but hides complexity in larger programs. Overall, these advances helped developers write async code easier but introduced new bugs and harder maintenance in big projects.",
+        "notes": "Via HackerNews",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-04-26T07:13:45.326000+00:00",
+        "last_moved_at": "2026-04-26T07:13:47.570000+00:00",
+        "published_date": "2026-04-22",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 5
         }
       }
     ],
@@ -847,28 +863,6 @@
           "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 2
-        }
-      },
-      {
-        "id": "01ksam0gs41887x9es2gpw1b2q",
-        "url": "https://read.readwise.io/read/01ksam0gs41887x9es2gpw1b2q",
-        "source_url": "https://spf13.com/p/the-maintainers-dilemma/",
-        "title": "The Maintainer's Dilemma",
-        "author": "spf13",
-        "image_url": "https://spf13.com/p/the-maintainers-dilemma/hero-alt.jpg",
-        "word_count": 2569,
-        "summary": "Maintainers face a big problem: too many contributions and not enough time to review them. AI tools can help with simple tasks but can't replace the deep knowledge and judgment humans use to maintain projects. Relying on AI or ignoring reviews risks breaking trust and quality in open source communities.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-23T14:32:15.396000+00:00",
-        "last_moved_at": "2026-05-23T14:32:28.208000+00:00",
-        "published_date": "2026-05-20",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 7
         }
       },
       {
@@ -1615,28 +1609,6 @@
         "saved_at": "2026-01-31T16:59:13.351000+00:00",
         "last_moved_at": "2026-01-31T16:59:16.193000+00:00",
         "published_date": "2024-11-15",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01ksam0gs41887x9es2gpw1b2q",
-        "url": "https://read.readwise.io/read/01ksam0gs41887x9es2gpw1b2q",
-        "source_url": "https://spf13.com/p/the-maintainers-dilemma/",
-        "title": "The Maintainer's Dilemma",
-        "author": "spf13",
-        "image_url": "https://spf13.com/p/the-maintainers-dilemma/hero-alt.jpg",
-        "word_count": 2569,
-        "summary": "Maintainers face a big problem: too many contributions and not enough time to review them. AI tools can help with simple tasks but can't replace the deep knowledge and judgment humans use to maintain projects. Relying on AI or ignoring reviews risks breaking trust and quality in open source communities.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-23T14:32:15.396000+00:00",
-        "last_moved_at": "2026-05-23T14:32:28.208000+00:00",
-        "published_date": "2026-05-20",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -2437,28 +2409,6 @@
           "is_tutorial": true,
           "is_foundational": false,
           "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01ks71vz79df2f3z1hff4wthnh",
-        "url": "https://read.readwise.io/read/01ks71vz79df2f3z1hff4wthnh",
-        "source_url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-        "title": "While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video",
-        "author": "NJ",
-        "image_url": null,
-        "word_count": 2630,
-        "summary": "The author built a local AI system to index a year of video footage on an old MacBook, making clips searchable by detailed descriptions. This solves the problem of finding footage quickly, which AI video editors usually overlook. Next, they plan to create an AI-driven editor to turn found clips into finished reels.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-22T05:17:28.681000+00:00",
-        "last_moved_at": "2026-05-22T05:17:30.944000+00:00",
-        "published_date": "2026-05-21",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
           "interest_score": 9
         }
       },
@@ -3507,28 +3457,6 @@
       }
     ],
     "timely": [
-      {
-        "id": "01ks71vz79df2f3z1hff4wthnh",
-        "url": "https://read.readwise.io/read/01ks71vz79df2f3z1hff4wthnh",
-        "source_url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-        "title": "While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video",
-        "author": "NJ",
-        "image_url": null,
-        "word_count": 2630,
-        "summary": "The author built a local AI system to index a year of video footage on an old MacBook, making clips searchable by detailed descriptions. This solves the problem of finding footage quickly, which AI video editors usually overlook. Next, they plan to create an AI-driven editor to turn found clips into finished reels.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-22T05:17:28.681000+00:00",
-        "last_moved_at": "2026-05-22T05:17:30.944000+00:00",
-        "published_date": "2026-05-21",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
       {
         "id": "01kjnjanqgfzsvenqw6d62rxqv",
         "url": "https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv",

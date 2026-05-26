@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 451
+- Всего ссылок: 453
 
 ## Ссылки
 
+- [While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video](https://blog.simbastack.com/indexed-a-year-of-video-locally/) [📖](https://read.readwise.io/read/01ks71vz79df2f3z1hff4wthnh) 👤 NJ 💬 2630 🔖 #llm, #selfhost 🗓️ 2026-05-22
+    > **Заметка:** Хороший пост как вдохновение того, какие объемные задачи можно решить локально при наличии относительно мощного железа.
+    > **Резюме:** The author built a local AI system to index a year of video footage on an old MacBook, making clips searchable by detailed descriptions. This solves the problem of finding footage quickly, which AI video editors usually overlook. Next, they plan to create an AI-driven editor to turn found clips into finished reels.
+- [Prompts are technical debt too](https://seangoedecke.com/prompts-are-technical-debt-too/) [📖](https://read.readwise.io/read/01ks2c1bcdpbv6nps74d3tshh0) 👤 seangoedecke.com RSS feed 💬 945 🔖 #llm 🗓️ 2026-05-20
+    > **Резюме:** All code adds complexity, and prompts for AI models add hidden, changing technical debt. Prompts that work well today may fail after model updates, causing silent problems. It’s best to use well-maintained AI tools with minimal custom prompts to avoid constant tweaking.
 - [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything) [📖](https://read.readwise.io/read/01krywkket5b9bcv83xppm7dxe) 👤 Simon Willison's Weblog 💬 1086 🔖 #llm 🗓️ 2026-05-19
     > **Заметка:** Хороший обзор, для истории.
     > **Резюме:** In the last six months, large language models (LLMs) improved a lot, especially for coding tasks. New AI assistants called "Claws" became popular, with many people using small computers to run them. Also, smaller models that run on laptops got much better and surprised many experts.

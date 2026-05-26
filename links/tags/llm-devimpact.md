@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 116
+- Всего ссылок: 117
 
 ## Ссылки
 
+- [The Maintainer's Dilemma](https://spf13.com/p/the-maintainers-dilemma/) [📖](https://read.readwise.io/read/01ksam0gs41887x9es2gpw1b2q) 👤 spf13 💬 2569 🔖 #foss, #llm-devimpact 🗓️ 2026-05-23
+    > **Резюме:** Maintainers face a big problem: too many contributions and not enough time to review them. AI tools can help with simple tasks but can't replace the deep knowledge and judgment humans use to maintain projects. Relying on AI or ignoring reviews risks breaking trust and quality in open source communities.
 - [The just-say-no engineer was a ZIRP phenomenon](https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/) [📖](https://read.readwise.io/read/01krwv30mpby27rh9zmv6ka9zp) 👤 seangoedecke.com RSS feed 💬 1648 🔖 #llm-devimpact 🗓️ 2026-05-18
     > **Резюме:** Some senior engineers, called just-say-no engineers, used to slow down work to keep code quality high during the era of cheap money (ZIRP). Now that interest rates have risen and companies must focus on profits, these engineers are pressured to say yes more often, especially with AI-generated code increasing. This change is due to economic shifts, not AI, and just-say-no engineers may find better roles in specialized, high-quality software work.
 - [Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/) [📖](https://read.readwise.io/read/01krwthf8z953x0y9pbfh9br3s) 👤 Addy Osmani 💬 1405 🔖 #learning, #llm-reality, #llm-devimpact 🗓️ 2026-05-18

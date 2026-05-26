@@ -2,7 +2,7 @@
 
 _Короткие статьи (не туториалы, не основы), отсортированные по объёму_
 
-Сгенерировано: 2026-05-25 04:42 UTC · Статей: 26
+Сгенерировано: 2026-05-26 04:36 UTC · Статей: 25
 
 ## Статьи
 
@@ -30,8 +30,6 @@ _Короткие статьи (не туториалы, не основы), о�
 - [Technical blogging lessons learned](https://writethatblog.substack.com/p/technical-blogging-lessons-learned?utm_source=tldrdev) [📖](https://read.readwise.io/read/01ketz55qw4x3f1f548a95hc69) 👤 Cynthia Dunlop 💬 2540 ⭐ 2 🔖 #writing, #shortlist 🗓️ 2026-01-13 · 🌲 вечнозелёное
     > **Заметка:** В посте есть ссылки на отличные блоги (в частности, узнал отсюда про Preston Thorpe) - поэтому его надо читать внимательно и просмотреть связанные блоги.
     > **Резюме:** Writing regularly helps overcome doubts and improves skills over time. Focus on topics that interest you and your audience, even if others have written about them. Use simple tools, be honest, and don’t worry about perfection or criticism.
-- [The Maintainer's Dilemma](https://spf13.com/p/the-maintainers-dilemma/) [📖](https://read.readwise.io/read/01ksam0gs41887x9es2gpw1b2q) 👤 spf13 💬 2569 ⭐ 7 🗓️ 2026-05-23 · 🌲 вечнозелёное
-    > **Резюме:** Maintainers face a big problem: too many contributions and not enough time to review them. AI tools can help with simple tasks but can't replace the deep knowledge and judgment humans use to maintain projects. Relying on AI or ignoring reviews risks breaking trust and quality in open source communities.
 - [Adapting to AI: Reflections on Productivity](https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kmf78e7kzc43t4k49t4cdwbh) 👤 Colin Breck 💬 2582 ⭐ 3 🔖 #joyandcuriosity 🗓️ 2026-03-24
     > **Резюме:** In 2025, AI greatly boosted productivity by helping with coding and problem-solving, acting like a tireless partner. Most software engineers have not yet fully adapted to AI’s rapid changes and potential. The way people work in software is changing fast, and it will take years to find new, effective patterns.
 - [The Next Thing Will Not Be Big](https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html?utm_source=tldrdev) [📖](https://read.readwise.io/read/01ken0sk545cynvs3e44ezwrmc) 👤 Glyph Lefkowitz 💬 2638 ⭐ 3 🔖 #shortlist 🗓️ 2026-01-10
