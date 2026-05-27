@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 10
+- Всего ссылок: 11
 
 ## Ссылки
 
+- [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/) [📖](https://read.readwise.io/read/01kshczra9zqsnj1pyt7sr2kyh) 👤 Read the Tea Leaves 💬 766 🔖 #llm-reality 🗓️ 2026-05-26
+    > **Заметка:** Приятно видеть подобные посты. Тоже верю, что от LLM больше пользы, если использовать их для "парного программирования", ревью, с полным пониманием и владением кодом.  Via HN. https://news.ycombinator.com/item?id=48272984
+    > **Резюме:** AI can help write better code by finding many bugs and improving quality, not just by writing fast and sloppy code. Using multiple AI models to review code carefully helps prioritize real issues and reduce false alarms. Slowing down with AI leads to more thoughtful, reliable coding that benefits future developers.
 - [The Eternal Sloptember](https://geohot.github.io/blog/jekyll/update/2026/05/24/the-eternal-sloptember.html) [📖](https://read.readwise.io/read/01ksev15azr8eysewhghz9veeq) 👤 the singularity is nearer 💬 873 🔖 #llm-reality 🗓️ 2026-05-25
     > **Заметка:** Via HN. https://news.ycombinator.com/item?id=48263238
     > **Резюме:** AI agents cannot truly program; they only mimic code and often produce flawed results. Skilled people know when to trust AI, but large companies risk lowering quality by relying too much on it. This misuse may lead to more code but less useful, high-quality software overall.

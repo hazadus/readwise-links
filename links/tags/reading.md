@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [Nobody Cracks Open a Programming Book Anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/) [📖](https://read.readwise.io/read/01kshe19eewgvtxeexvjh3gs91) 👤 CYRUS 💬 873 🔖 #reading, #llm-devimpact 🗓️ 2026-05-26
+    > **Заметка:** Хорошую книгу ничего не заменит (и она не обязательно должна быть бумажной). Важна структура, опыт и подача автора. Никто не мешает уточнять детали и углубляться в вопросы через LLM, документацию и тематические посты/видео.   Via HN. https://news.ycombinator.com/item?id=48273030
+    > **Резюме:** Programming books used to be essential, but now few people buy them because tools like ChatGPT and GitHub Copilot provide instant help. The traditional way of learning by typing code from books is fading. New programmers learn differently and use smarter tools, changing how software is made.
 - [You Are What You Read](https://wsvincent.com/you-are-what-you-read/) [📖](https://read.readwise.io/read/01kqq7xnqe6kg3xjkmztedkb67) 👤 Will Vincent 💬 1439 🔖 #reading 🗓️ 2026-05-03
     > **Заметка:** У меня основное чтение сейчас – fiction / RSS / non-fiction, немного newsletters. Выжимку главного из Mastodon / Bluesky / HN приносит по утрам OpenClaw. You are what you read – в точку.
     > **Резюме:** My own curated reading lists.

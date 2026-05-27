@@ -1,9 +1,44 @@
 # Ссылки
 
-- Всего ссылок: 117
+- Всего ссылок: 119
 
 ## Ссылки
 
+- [Nobody Cracks Open a Programming Book Anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/) [📖](https://read.readwise.io/read/01kshe19eewgvtxeexvjh3gs91) 👤 CYRUS 💬 873 🔖 #reading, #llm-devimpact 🗓️ 2026-05-26
+    > **Заметка:** Хорошую книгу ничего не заменит (и она не обязательно должна быть бумажной). Важна структура, опыт и подача автора. Никто не мешает уточнять детали и углубляться в вопросы через LLM, документацию и тематические посты/видео.   Via HN. https://news.ycombinator.com/item?id=48273030
+    > **Резюме:** Programming books used to be essential, but now few people buy them because tools like ChatGPT and GitHub Copilot provide instant help. The traditional way of learning by typing code from books is fading. New programmers learn differently and use smarter tools, changing how software is made.
+- [Building Pi With Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/) [📖](https://read.readwise.io/read/01ksde9fsf2v08c6qm3ce7zy2n) 👤 Armin Ronacher 💬 1877 🔖 #foss, #definitions, #llm-devimpact 🗓️ 2026-05-24
+    > **Резюме:** Pi is now part of Earendil, but in the important sense it is
+still Mario’s project.  He has been living with its
+issue tracker longer than I have, and he has been exposed to the weirdness of
+the new form of agent traffic in Open Source projects for longer too.  This post
+is mostly a reflection of my own experience after spending more time in the
+tracker, using Pi to work on Pi, and watching what I have learned about it so
+far.
+Slop Issues
+Unsurprisingly, we are using Pi to build Pi.  That sounds like a cute dogfooding
+thing but it really helps understand what we do.  An interesting effect of
+building with agents is that it changes the role of the issue tracker a tiny
+bit.  The issue descriptions are not just messages from a user to a maintainer
+because we also use them as inputs for prompts in Pi sessions.  It is something
+I might hand to my clanker1 and say: “understand this, reproduce it, inspect
+the code, and propose a fix.”
+That means the shape of the issue matters in a new way.  A bad issue was always
+annoying, but at least a lot of issues were vague.  Now we are also dealing with
+a class of issues that are 5% human and 95% clanker-generated and largely
+inaccurate shit.  A bad issue that contains a plausible but wrong diagnosis
+creates extra work.
+The most frustrating failure mode right now is that people submit issues that
+are not in their own voice.  They contain an observed problem somewhere, but it
+has been thrown into a clanker and the clanker reworded it and made a huge mess
+of it.  Typically, it was prompted so badly that the conclusions produced are
+more often than not inaccurate but always full of confidence.  The result is
+complete guesswork on root causes, fake-minimal repros, suggested implementation
+strategies, analogies to adjacent but often the wrong code, and long lists of
+error classes that might or might not matter.
+That is worse than no diagnosis.
+I don’t want to point to specific issues because I really do not want to bad
+mouth anyone, bu...
 - [The Maintainer's Dilemma](https://spf13.com/p/the-maintainers-dilemma/) [📖](https://read.readwise.io/read/01ksam0gs41887x9es2gpw1b2q) 👤 spf13 💬 2569 🔖 #foss, #llm-devimpact 🗓️ 2026-05-23
     > **Резюме:** Maintainers face a big problem: too many contributions and not enough time to review them. AI tools can help with simple tasks but can't replace the deep knowledge and judgment humans use to maintain projects. Relying on AI or ignoring reviews risks breaking trust and quality in open source communities.
 - [The just-say-no engineer was a ZIRP phenomenon](https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/) [📖](https://read.readwise.io/read/01krwv30mpby27rh9zmv6ka9zp) 👤 seangoedecke.com RSS feed 💬 1648 🔖 #llm-devimpact 🗓️ 2026-05-18

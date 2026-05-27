@@ -1,11 +1,18 @@
 # Архивные ссылки
 
-- Всего ссылок: 1709
+- Всего ссылок: 1713
 
 ## Ссылки
 
+- [Nobody Cracks Open a Programming Book Anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/) [📖](https://read.readwise.io/read/01kshe19eewgvtxeexvjh3gs91) 👤 CYRUS 💬 873 🔖 #reading, #llm-devimpact 🗓️ 2026-05-26
+    > **Заметка:** Хорошую книгу ничего не заменит (и она не обязательно должна быть бумажной). Важна структура, опыт и подача автора. Никто не мешает уточнять детали и углубляться в вопросы через LLM, документацию и тематические посты/видео.   Via HN. https://news.ycombinator.com/item?id=48273030
+- [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/) [📖](https://read.readwise.io/read/01kshczra9zqsnj1pyt7sr2kyh) 👤 Read the Tea Leaves 💬 766 🔖 #llm-reality 🗓️ 2026-05-26
+    > **Заметка:** Приятно видеть подобные посты. Тоже верю, что от LLM больше пользы, если использовать их для "парного программирования", ревью, с полным пониманием и владением кодом.  Via HN. https://news.ycombinator.com/item?id=48272984
+- [Why Bun leaving Zig is Great for Zig](https://dayvster.com/blog/why-bun-leaving-zig-is-great-for-zig/) [📖](https://read.readwise.io/read/01ksg52rndrdjzem1bfh9eeeqh) 👤 Dayvster 💬 976 🔖 #bun, #zig, #rust 🗓️ 2026-05-25
+    > **Заметка:** Интересно! Наблюдаем за развитием событий :)
 - [The Eternal Sloptember](https://geohot.github.io/blog/jekyll/update/2026/05/24/the-eternal-sloptember.html) [📖](https://read.readwise.io/read/01ksev15azr8eysewhghz9veeq) 👤 the singularity is nearer 💬 873 🔖 #llm-reality 🗓️ 2026-05-25
     > **Заметка:** Via HN. https://news.ycombinator.com/item?id=48263238
+- [Building Pi With Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/) [📖](https://read.readwise.io/read/01ksde9fsf2v08c6qm3ce7zy2n) 👤 Armin Ronacher 💬 1877 🔖 #foss, #definitions, #llm-devimpact 🗓️ 2026-05-24
 - [The Maintainer's Dilemma](https://spf13.com/p/the-maintainers-dilemma/) [📖](https://read.readwise.io/read/01ksam0gs41887x9es2gpw1b2q) 👤 spf13 💬 2569 🔖 #foss, #llm-devimpact 🗓️ 2026-05-23
 - [Twelve Ways to Be Wrong About AI-Assisted Coding](https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/) [📖](https://read.readwise.io/read/01ks72rjp1efcvnvwmbfekmx6f) 👤 third-bit.com 💬 1585 🔖 #llm-reality 🗓️ 2026-05-22
     > **Заметка:** Взвешенный разбор типовых метрик/аргументов в пользу активного использования LLM-агентов.

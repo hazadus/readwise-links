@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 2
+- Всего ссылок: 3
 
 ## Ссылки
 
+- [Why Bun leaving Zig is Great for Zig](https://dayvster.com/blog/why-bun-leaving-zig-is-great-for-zig/) [📖](https://read.readwise.io/read/01ksg52rndrdjzem1bfh9eeeqh) 👤 Dayvster 💬 976 🔖 #bun, #zig, #rust 🗓️ 2026-05-25
+    > **Заметка:** Интересно! Наблюдаем за развитием событий :)
+    > **Резюме:** Why Anthropics million line AI rewrite is a massive gamble for Bun, a marketing stunt for Claude, and a quiet win for Zig.
 - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/) [📖](https://read.readwise.io/read/01kbpf50b7f86jf08pd9zdpq7e) 👤 sinclairtarget.com 💬 2031 🔖 #go, #zig, #rust 🗓️ 2025-12-05
     > **Резюме:** Go is minimal and stable, trading features for simplicity and readability. Rust is feature-rich and complex, aiming for safety and high performance with strict compile-time guarantees. Zig is experimental and manual, favoring explicit memory control and data-oriented design over OO patterns.
 - [Why Zig Feels More Practical Than Rust for Real-World CLI Tools](https://dayvster.com/blog/why-zig-feels-more-practical-than-rust-for-real-world-cli-tools/) [📖](https://read.readwise.io/read/01k6f9rbqg0m9grjf86jpx0b5t) 👤 Dayvi Schuster 💬 2619 🔖 #zig 🗓️ 2025-10-01
