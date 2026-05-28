@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 46
+- Всего ссылок: 47
 
 ## Ссылки
 
+- [Leave Me Behind](https://androidessence.com/leave-me-behind/?utm_source=tldrdev#) [📖](https://read.readwise.io/read/01kskwsktqjtny0tr3x79gb74w) 👤 Adam McNeilly 💬 1621 🔖 #learning, #reflections, #llm-devimpact, #llm-resistance 🗓️ 2026-05-27
+    > **Заметка:** Последнее время чаще стали такие взгляды попадаться, это радует.   Via TLDR Newsletter.
+    > **Резюме:** The author shares his journey learning Android development and the joy of building apps with others. He worries that relying too much on AI tools can take away the human learning and connection in software development. He believes true progress comes from people working together, sharing struggles, and growing as a community.
 - [Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/) [📖](https://read.readwise.io/read/01krwthf8z953x0y9pbfh9br3s) 👤 Addy Osmani 💬 1405 🔖 #learning, #llm-reality, #llm-devimpact 🗓️ 2026-05-18
     > **Заметка:** Очень честный взгляд на продуктивность VS. обучение. Нужно эти тезисы себе прям в табличке над столом вывешивать. Via HN
     > **Резюме:** Relying on AI to write code without understanding it harms your learning and skills over time. Using AI well means asking questions, testing ideas, and learning from the process. To stay sharp, treat AI as a teacher, not just a tool to finish tasks quickly.

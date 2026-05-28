@@ -1,9 +1,17 @@
 # Ссылки
 
-- Всего ссылок: 262
+- Всего ссылок: 265
 
 ## Ссылки
 
+- [Gin is a very bad software library](https://eblog.fly.dev/ginbad.html) [📖](https://read.readwise.io/read/01krzhna5zsmk4fefa0rr44d1d) 👤 eblog: software articles by efron licht 💬 4923 🔖 #go 🗓️ 2026-05-19
+    > **Резюме:** Gin is an overly large and complex Go web library that adds huge code and binary bloat compared to the standard net/http.  
+Its API and context types expose dozens of unnecessary methods, obscuring simple HTTP control flow.  
+The author argues Gin’s poor design and documentation are emblematic of broader library-design problems.
+- [Starting Systems Programming 02: Your program and the outside world](https://eblog.fly.dev/startingsystems2.html) [📖](https://read.readwise.io/read/01krzhna4jqj9xg9dhs2gek4j2) 👤 eblog: software articles by efron licht 💬 10624 🔖 #go 🗓️ 2026-05-19
+    > **Резюме:** The text explains how programs interact with the operating system using system calls, particularly focusing on command-line arguments and file operations. It describes writing simple programs that utilize syscalls for tasks like printing and reading files. The article also introduces creating a basic shell that executes commands entered by the user.
+- [Starting Systems Programming 03: Execution Counts: Software Performance & Measurement](https://eblog.fly.dev/startingsystems3.html) [📖](https://read.readwise.io/read/01krzhna2zpaef2vh7rvc26qba) 👤 eblog: software articles by efron licht 💬 14098 🔖 #go 🗓️ 2026-05-19
+    > **Резюме:** Software performance is best improved by focusing on memory and in-process operations early in design. Benchmarks and profiling help identify bottlenecks and optimize tasks like memory allocation. Using techniques like pooling reduces runtime and memory use, saving costs and improving efficiency.
 - [How I Write HTTP Servers](https://blainsmith.com/articles/how-i-write-http-servers/) [📖](https://read.readwise.io/read/01krx0p4wy86e8yzytm0yfe3y0) 👤 Blain Smith 💬 2333 🔖 #go, #api, #rest 🗓️ 2026-05-18
     > **Резюме:** The author shares a simple way to write HTTP servers by creating functions that return handlers with injected dependencies. They emphasize testing only the HTTP logic using in-memory tools and layering middleware for features like logging and authorization. This approach helps keep code clean, testable, and easy to maintain.
 - [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/) [📖](https://read.readwise.io/read/01krwwzt19d6zeem88b59z983s) 👤 Matthias Endler 💬 5536 🔖 #go, #rust 🗓️ 2026-05-18

@@ -1,9 +1,15 @@
 # Архивные ссылки
 
-- Всего ссылок: 1713
+- Всего ссылок: 1718
 
 ## Ссылки
 
+- [Leave Me Behind](https://androidessence.com/leave-me-behind/?utm_source=tldrdev#) [📖](https://read.readwise.io/read/01kskwsktqjtny0tr3x79gb74w) 👤 Adam McNeilly 💬 1621 🔖 #learning, #reflections, #llm-devimpact, #llm-resistance 🗓️ 2026-05-27
+    > **Заметка:** Последнее время чаще стали такие взгляды попадаться, это радует.   Via TLDR Newsletter.
+- [Clanker: A Word For The Machine](https://lucumr.pocoo.org/2026/5/26/clankers/) [📖](https://read.readwise.io/read/01ksj7vq42nw5sbtgn8rz3ky2v) 👤 Armin Ronacher 💬 1969 🔖 #llm, #definitions, #llm-reality 🗓️ 2026-05-26
+- [Pluralistic: The AI bubble isn't like the internet bubble (26 May 2026)](https://pluralistic.net/2026/05/26/the-ai-will-continue/) [📖](https://read.readwise.io/read/01kshv93z62r1y923xvff1y9ys) 👤 Cory Doctorow 💬 2634 🔖 #llm-resistance 🗓️ 2026-05-26
+    > **Заметка:** Интересно понаблюдать, что будет через полгода-год с "насаждением" использования ИИ со стороны работодателей и экономикой ИИ.
+- [The pressure](https://daniel.haxx.se/blog/2026/05/26/the-pressure/) [📖](https://read.readwise.io/read/01ksheemerxm1jxd140vajmtsz) 👤 Daniel Stenberg 💬 1686 🔖 #foss, #reflections 🗓️ 2026-05-26
 - [Nobody Cracks Open a Programming Book Anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/) [📖](https://read.readwise.io/read/01kshe19eewgvtxeexvjh3gs91) 👤 CYRUS 💬 873 🔖 #reading, #llm-devimpact 🗓️ 2026-05-26
     > **Заметка:** Хорошую книгу ничего не заменит (и она не обязательно должна быть бумажной). Важна структура, опыт и подача автора. Никто не мешает уточнять детали и углубляться в вопросы через LLM, документацию и тематические посты/видео.   Via HN. https://news.ycombinator.com/item?id=48273030
 - [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/) [📖](https://read.readwise.io/read/01kshczra9zqsnj1pyt7sr2kyh) 👤 Read the Tea Leaves 💬 766 🔖 #llm-reality 🗓️ 2026-05-26
@@ -19,6 +25,7 @@
 - [While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video](https://blog.simbastack.com/indexed-a-year-of-video-locally/) [📖](https://read.readwise.io/read/01ks71vz79df2f3z1hff4wthnh) 👤 NJ 💬 2630 🔖 #llm, #selfhost 🗓️ 2026-05-22
     > **Заметка:** Хороший пост как вдохновение того, какие объемные задачи можно решить локально при наличии относительно мощного железа.
 - [Prompts are technical debt too](https://seangoedecke.com/prompts-are-technical-debt-too/) [📖](https://read.readwise.io/read/01ks2c1bcdpbv6nps74d3tshh0) 👤 seangoedecke.com RSS feed 💬 945 🔖 #llm 🗓️ 2026-05-20
+- [Gin is a very bad software library](https://eblog.fly.dev/ginbad.html) [📖](https://read.readwise.io/read/01krzhna5zsmk4fefa0rr44d1d) 👤 eblog: software articles by efron licht 💬 4923 🔖 #go 🗓️ 2026-05-19
 - [Settings, preferences and defaults](https://eclecticlight.co/2026/05/19/settings-preferences-and-defaults/) [📖](https://read.readwise.io/read/01krzf75d1xh48n0mwhqnmg33x) 👤 hoakley 💬 1304 🔖 #macos 🗓️ 2026-05-19
     > **Заметка:** Полезная команда `defaults` для просмотра всех настроек приложения.
 - [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything) [📖](https://read.readwise.io/read/01krywkket5b9bcv83xppm7dxe) 👤 Simon Willison's Weblog 💬 1086 🔖 #llm 🗓️ 2026-05-19

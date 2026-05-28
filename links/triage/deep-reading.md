@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-05-27 04:41 UTC · Статей: 35
+Сгенерировано: 2026-05-28 04:39 UTC · Статей: 36
 
 ## Статьи
 
@@ -35,6 +35,8 @@ _Длинные статьи (от 1500 слов), не туториалы_
     > **Резюме:** German Strings use a single 128-bit layout to represent any string.  
 Strings of 12 or fewer characters are stored inline; longer strings store a length, a pointer, and a four-character prefix for fast checks.  
 They are immutable and support persistent, transient, and temporary storage classes to cut copies and speed reads, but appending is costly and lifetimes must be managed.
+- [Starting Systems Programming 03: Execution Counts: Software Performance & Measurement](https://eblog.fly.dev/startingsystems3.html) [📖](https://read.readwise.io/read/01krzhna2zpaef2vh7rvc26qba) 👤 eblog: software articles by efron licht 💬 14098 ⭐ 4 🔖 #go 🗓️ 2026-05-19 · 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Software performance is best improved by focusing on memory and in-process operations early in design. Benchmarks and profiling help identify bottlenecks and optimize tasks like memory allocation. Using techniques like pooling reduces runtime and memory use, saving costs and improving efficiency.
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/?utm_source=tldrwebdev) [📖](https://read.readwise.io/read/01k6kdznqz4fc7p58vmn2vgbg0) 👤 kunststube.net 💬 6587 ⭐ 4 🔖 #shortlist 🗓️ 2025-10-02 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/6943f891-8688-8333-9150-757fa91f79b9https://chatgpt.com/c/69440d92-d190-8325-96c1-f00f5ad6d742
     > **Резюме:** To work with text in computers, understanding encodings and character sets is essential. Unicode is a standard that unifies different encoding schemes, like UTF-8 and UTF-16, which represent characters using varying numbers of bits. It's important to specify the encoding used for text, as incorrect handling can lead to unreadable documents.

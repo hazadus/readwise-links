@@ -2,7 +2,7 @@
 
 _Туториалы и практические руководства_
 
-Сгенерировано: 2026-05-27 04:41 UTC · Статей: 11
+Сгенерировано: 2026-05-28 04:39 UTC · Статей: 12
 
 ## Статьи
 
@@ -32,5 +32,7 @@ _Туториалы и практические руководства_
 - [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01k2asgdfdp0gxgw2mzsjzt2ws) 👤 a1k0n.net 💬 2469 ⭐ 4 🔖 #clang, #shortlist, #joyandcuriosity 🗓️ 2025-08-10 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/69442e05-97d4-8326-9abd-65eaf57c19a4
     > **Резюме:** The code draws a spinning 3D donut using ASCII characters by projecting 3D points onto a 2D screen with math involving rotations and perspective. It calculates the brightness of each point based on lighting and chooses characters to show shading. This creates a cool visual effect of a rotating donut made from simple text symbols.
+- [Starting Systems Programming 02: Your program and the outside world](https://eblog.fly.dev/startingsystems2.html) [📖](https://read.readwise.io/read/01krzhna4jqj9xg9dhs2gek4j2) 👤 eblog: software articles by efron licht 💬 10624 ⭐ 2 🔖 #go 🗓️ 2026-05-19 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** The text explains how programs interact with the operating system using system calls, particularly focusing on command-line arguments and file operations. It describes writing simple programs that utilize syscalls for tasks like printing and reading files. The article also introduces creating a basic shell that executes commands entered by the user.
 - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kfab5yfq9hx7tc6c3f90y56f) 👤 alexharri.com 💬 6378 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-01-19 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** ASCII characters are not simple pixels; their shapes affect how images appear when rendered as ASCII art. By using multiple sampling points and enhancing contrast, we can create sharper and clearer ASCII images. These techniques improve readability and capture the shape of characters better than traditional pixel-based methods.

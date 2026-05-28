@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 21
+- Всего ссылок: 23
 
 ## Ссылки
 
+- [Leave Me Behind](https://androidessence.com/leave-me-behind/?utm_source=tldrdev#) [📖](https://read.readwise.io/read/01kskwsktqjtny0tr3x79gb74w) 👤 Adam McNeilly 💬 1621 🔖 #learning, #reflections, #llm-devimpact, #llm-resistance 🗓️ 2026-05-27
+    > **Заметка:** Последнее время чаще стали такие взгляды попадаться, это радует.   Via TLDR Newsletter.
+    > **Резюме:** The author shares his journey learning Android development and the joy of building apps with others. He worries that relying too much on AI tools can take away the human learning and connection in software development. He believes true progress comes from people working together, sharing struggles, and growing as a community.
+- [The pressure](https://daniel.haxx.se/blog/2026/05/26/the-pressure/) [📖](https://read.readwise.io/read/01ksheemerxm1jxd140vajmtsz) 👤 Daniel Stenberg 💬 1686 🔖 #foss, #reflections 🗓️ 2026-05-26
+    > **Резюме:** I’m doing Open Source primarily because I love it. The social aspects, the for-the-good angle and for the challenge of engineering this to work for everyone. I also do it because it is my full-time job and getting food on the table and provide for my family is not unimportant. It may come as a … Continue reading The pressure →
 - [The End](https://www.focalcurve.com/journal/the-end/) [📖](https://read.readwise.io/read/01krth7pb0e1155337kp7zp6vn) 👤 focalcurve.com 💬 4746 🔖 #llm-reality, #reflections, #llm-resistance 🗓️ 2026-05-17
     > **Резюме:** The author worked at Mozilla for 13 years but left in early 2025 feeling ready to move on. They found job hunting hard and lost interest in the current tech scene. Now retired, they enjoy reading and hope to explore art without pressure.
 - [Stateless Life](https://smsk.dev/2026/05/15/stateless-life/) [📖](https://read.readwise.io/read/01krqj4n7r3931ekwkc36rx29y) 👤 devsimsek 💬 794 🔖 #reflections 🗓️ 2026-05-16

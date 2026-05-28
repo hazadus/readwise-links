@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 53
+- Всего ссылок: 55
 
 ## Ссылки
 
+- [Starting Systems Programming 02: Your program and the outside world](https://eblog.fly.dev/startingsystems2.html) [📖](https://read.readwise.io/read/01krzhna4jqj9xg9dhs2gek4j2) 👤 eblog: software articles by efron licht 💬 10624 🔖 #go 🗓️ 2026-05-19
+    > **Резюме:** The text explains how programs interact with the operating system using system calls, particularly focusing on command-line arguments and file operations. It describes writing simple programs that utilize syscalls for tasks like printing and reading files. The article also introduces creating a basic shell that executes commands entered by the user.
+- [Starting Systems Programming 03: Execution Counts: Software Performance & Measurement](https://eblog.fly.dev/startingsystems3.html) [📖](https://read.readwise.io/read/01krzhna2zpaef2vh7rvc26qba) 👤 eblog: software articles by efron licht 💬 14098 🔖 #go 🗓️ 2026-05-19
+    > **Резюме:** Software performance is best improved by focusing on memory and in-process operations early in design. Benchmarks and profiling help identify bottlenecks and optimize tasks like memory allocation. Using techniques like pooling reduces runtime and memory use, saving costs and improving efficiency.
 - [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/) [📖](https://read.readwise.io/read/01krwwzt19d6zeem88b59z983s) 👤 Matthias Endler 💬 5536 🔖 #go, #rust 🗓️ 2026-05-18
     > **Резюме:** Go and Rust both offer strong concurrency and performance, but Rust has stricter safety checks and a more powerful type system. Rust’s generics and traits provide better code reuse and fewer runtime errors, though compile times are slower and the learning curve is steeper. Moving from Go to Rust means trading simplicity and fast builds for safety, expressiveness, and fewer runtime bugs.
 - [Starting Systems Programming, Pt 1: Programmers Write Programs](https://eblog.fly.dev/startingsystems1.html?utm_source=christophberger&utm_medium=email&utm_campaign=2026-05-17-it-works-but-why) [📖](https://read.readwise.io/read/01krwn5xzt5ncgf86fdmjehwkk) 👤 Efron Licht 💬 8129 🔖 #go 🗓️ 2026-05-18

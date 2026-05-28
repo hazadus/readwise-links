@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [The pressure](https://daniel.haxx.se/blog/2026/05/26/the-pressure/) [📖](https://read.readwise.io/read/01ksheemerxm1jxd140vajmtsz) 👤 Daniel Stenberg 💬 1686 🔖 #foss, #reflections 🗓️ 2026-05-26
+    > **Резюме:** I’m doing Open Source primarily because I love it. The social aspects, the for-the-good angle and for the challenge of engineering this to work for everyone. I also do it because it is my full-time job and getting food on the table and provide for my family is not unimportant. It may come as a … Continue reading The pressure →
 - [Building Pi With Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/) [📖](https://read.readwise.io/read/01ksde9fsf2v08c6qm3ce7zy2n) 👤 Armin Ronacher 💬 1877 🔖 #foss, #definitions, #llm-devimpact 🗓️ 2026-05-24
     > **Резюме:** Pi is now part of Earendil, but in the important sense it is
 still Mario’s project.  He has been living with its

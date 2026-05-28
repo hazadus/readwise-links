@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 119
+- Всего ссылок: 120
 
 ## Ссылки
 
+- [Leave Me Behind](https://androidessence.com/leave-me-behind/?utm_source=tldrdev#) [📖](https://read.readwise.io/read/01kskwsktqjtny0tr3x79gb74w) 👤 Adam McNeilly 💬 1621 🔖 #learning, #reflections, #llm-devimpact, #llm-resistance 🗓️ 2026-05-27
+    > **Заметка:** Последнее время чаще стали такие взгляды попадаться, это радует.   Via TLDR Newsletter.
+    > **Резюме:** The author shares his journey learning Android development and the joy of building apps with others. He worries that relying too much on AI tools can take away the human learning and connection in software development. He believes true progress comes from people working together, sharing struggles, and growing as a community.
 - [Nobody Cracks Open a Programming Book Anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/) [📖](https://read.readwise.io/read/01kshe19eewgvtxeexvjh3gs91) 👤 CYRUS 💬 873 🔖 #reading, #llm-devimpact 🗓️ 2026-05-26
     > **Заметка:** Хорошую книгу ничего не заменит (и она не обязательно должна быть бумажной). Важна структура, опыт и подача автора. Никто не мешает уточнять детали и углубляться в вопросы через LLM, документацию и тематические посты/видео.   Via HN. https://news.ycombinator.com/item?id=48273030
     > **Резюме:** Programming books used to be essential, but now few people buy them because tools like ChatGPT and GitHub Copilot provide instant help. The traditional way of learning by typing code from books is fading. New programmers learn differently and use smarter tools, changing how software is made.

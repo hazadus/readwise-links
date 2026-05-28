@@ -2,7 +2,7 @@
 
 _Фундаментальные материалы с долгосрочной ценностью_
 
-Сгенерировано: 2026-05-27 04:41 UTC · Статей: 26
+Сгенерировано: 2026-05-28 04:39 UTC · Статей: 28
 
 ## Статьи
 
@@ -43,6 +43,8 @@ _Фундаментальные материалы с долгосрочной �
     > **Резюме:** German Strings use a single 128-bit layout to represent any string.  
 Strings of 12 or fewer characters are stored inline; longer strings store a length, a pointer, and a four-character prefix for fast checks.  
 They are immutable and support persistent, transient, and temporary storage classes to cut copies and speed reads, but appending is costly and lifetimes must be managed.
+- [Starting Systems Programming 03: Execution Counts: Software Performance & Measurement](https://eblog.fly.dev/startingsystems3.html) [📖](https://read.readwise.io/read/01krzhna2zpaef2vh7rvc26qba) 👤 eblog: software articles by efron licht 💬 14098 ⭐ 4 🔖 #go 🗓️ 2026-05-19 · 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Software performance is best improved by focusing on memory and in-process operations early in design. Benchmarks and profiling help identify bottlenecks and optimize tasks like memory allocation. Using techniques like pooling reduces runtime and memory use, saving costs and improving efficiency.
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/?utm_source=tldrwebdev) [📖](https://read.readwise.io/read/01k6kdznqz4fc7p58vmn2vgbg0) 👤 kunststube.net 💬 6587 ⭐ 4 🔖 #shortlist 🗓️ 2025-10-02 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/6943f891-8688-8333-9150-757fa91f79b9https://chatgpt.com/c/69440d92-d190-8325-96c1-f00f5ad6d742
     > **Резюме:** To work with text in computers, understanding encodings and character sets is essential. Unicode is a standard that unifies different encoding schemes, like UTF-8 and UTF-16, which represent characters using varying numbers of bits. It's important to specify the encoding used for text, as incorrect handling can lead to unreadable documents.
@@ -57,6 +59,8 @@ They are immutable and support persistent, transient, and temporary storage clas
 - [How The Heck Does Shazam Work?](https://perthirtysix.com/how-the-heck-does-shazam-work?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kpz4vpybbrxvhjkmh2xfx21r) 👤 Shri Khalpada 💬 521 ⭐ 3 🔖 #explorable 🗓️ 2026-04-24 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via TLDR
     > **Резюме:** Shazam works by turning sounds into simple fingerprints that help identify songs. Most services send audio to a server with a huge database to find matches. Newer apps can do this on your phone using smaller databases and smart algorithms.
+- [Starting Systems Programming 02: Your program and the outside world](https://eblog.fly.dev/startingsystems2.html) [📖](https://read.readwise.io/read/01krzhna4jqj9xg9dhs2gek4j2) 👤 eblog: software articles by efron licht 💬 10624 ⭐ 2 🔖 #go 🗓️ 2026-05-19 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** The text explains how programs interact with the operating system using system calls, particularly focusing on command-line arguments and file operations. It describes writing simple programs that utilize syscalls for tasks like printing and reading files. The article also introduces creating a basic shell that executes commands entered by the user.
 - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kfab5yfq9hx7tc6c3f90y56f) 👤 alexharri.com 💬 6378 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-01-19 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** ASCII characters are not simple pixels; their shapes affect how images appear when rendered as ASCII art. By using multiple sampling points and enhancing contrast, we can create sharper and clearer ASCII images. These techniques improve readability and capture the shape of characters better than traditional pixel-based methods.
 - [Making Software: How is data stored?](https://www.makingsoftware.com/chapters/how-is-data-stored) [📖](https://read.readwise.io/read/01kh0kexvbpwvr4a4dszcq92zm) 👤 makingsoftware.com 💬 5403 ⭐ 2 🗓️ 2026-02-09 · 🧠 основы, 🌲 вечнозелёное

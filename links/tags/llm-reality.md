@@ -1,9 +1,41 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [Clanker: A Word For The Machine](https://lucumr.pocoo.org/2026/5/26/clankers/) [📖](https://read.readwise.io/read/01ksj7vq42nw5sbtgn8rz3ky2v) 👤 Armin Ronacher 💬 1969 🔖 #llm, #definitions, #llm-reality 🗓️ 2026-05-26
+    > **Резюме:** In my last post I used the word “clanker” as an
+alternative to “agent” quite consistently and probably excessively.  That choice
+ended up attracting a lot more attention than I expected in the Hacker News
+comment section of that post and a number of folks had a very strong reaction:
+to them it sounded like a slur, in one case even something adjacent to the
+n-word.
+That reaction surprised me somewhat, but it also made me realize that I should
+write down what I mean by the word for future reference.
+For me “clanker” is useful because it creates distance from the machine and that
+is a quality which is important to me.  The machine is not a person, not a
+co-worker, not a friend, not a little spirit in the terminal. It is just a
+machine, a tool, and nothing more.
+Why Not Agent?
+I dislike the word “agent” for these LLM based tool loops with a UI attached.
+In everyday use an agent is someone who acts on behalf of someone else and it
+has agency and more importantly: responsibility.  An agent decides, represents,
+negotiates, acts, and can be blamed.  In the current AI discourse we
+increasingly do a lot of anthropomorphizing and the term “agent” is now
+frequently being used to put blame on an abstract machine.  But the machine
+cannot be responsible, whoever is wielding it is.  If it drops your
+database
+it was not at fault, you were.
+Agent makes the machine sound like a person with delegated authority and I do
+not think that is healthy.
+What we actually have is a language model attached to a harness, a prompt, some
+tools, a bit of context, and a boring tool loop.  Sometimes the loop is very
+capable and it surprises us by editing code for a really long time and produce
+genuinely amazing and even valuable outputs.  But the agency is not in the model
+or harness but in the human and in the organization that deployed it.  If my
+coding tool opens a pull request, I opened that pull request, not the machine.
+If my machine spams someone’s issue tracker, I spammed someone’s issue tra...
 - [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/) [📖](https://read.readwise.io/read/01kshczra9zqsnj1pyt7sr2kyh) 👤 Read the Tea Leaves 💬 766 🔖 #llm-reality 🗓️ 2026-05-26
     > **Заметка:** Приятно видеть подобные посты. Тоже верю, что от LLM больше пользы, если использовать их для "парного программирования", ревью, с полным пониманием и владением кодом.  Via HN. https://news.ycombinator.com/item?id=48272984
     > **Резюме:** AI can help write better code by finding many bugs and improving quality, not just by writing fast and sloppy code. Using multiple AI models to review code carefully helps prioritize real issues and reduce false alarms. Slowing down with AI leads to more thoughtful, reliable coding that benefits future developers.
