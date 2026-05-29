@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 8
 
 ## Ссылки
 
+- [AI-assisted engineers are burning out, is this fine?](https://evilmartians.com/chronicles/ai-assisted-engineers-are-burning-out-is-this-fine?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kspg5q1bt2hj29py6y6yf4zr) 👤 Tech Editor 💬 3248 🔖 #burnout, #llm-fatigue, #llm-devimpact 🗓️ 2026-05-28
+    > **Заметка:** Это прекрасный разбор, с отличными схемами, и выводы совпадают с моим собственным опытом!  Via TLDR Newsletter. Обсуждение на HN: https://news.ycombinator.com/item?id=48228283
+    > **Резюме:** AI helps engineers write code faster but causes mental fatigue and burnout. This happens because reviewing AI code is harder and working nonstop drains energy. To avoid burnout, developers should balance AI use with breaks and focus on tasks they enjoy.
 - [Stress Bragging: How Hustle Culture Glorifies Burnout](https://mypacifichealth.com/stress-bragging-how-hustle-culture-glorifies-burnout/) [📖](https://read.readwise.io/read/01krnb8wkv0w16tjx2m36nqymm) 👤 Jennifer Arnold 💬 1998 🔖 #health, #burnout, #productivity 🗓️ 2026-05-15
     > **Резюме:** Stress bragging is when people show off how busy and tired they are, making burnout seem like an achievement. Hustle culture pushes the idea that working nonstop equals success, but this can harm health and lower productivity. To stop stress bragging, we should value rest, set boundaries, and ask for help if burnout symptoms appear.
 - [30 Years of Programming at 44 Years Old](https://blainsmith.com/articles/30-years-of-programming-at-44-years-old/) [📖](https://read.readwise.io/read/01krgjem2rfneagw9frrfmz9qy) 👤 Blain Smith 💬 1433 🔖 #go, #burnout 🗓️ 2026-05-13

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 4
+- Всего ссылок: 5
 
 ## Ссылки
 
+- [AI-assisted engineers are burning out, is this fine?](https://evilmartians.com/chronicles/ai-assisted-engineers-are-burning-out-is-this-fine?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kspg5q1bt2hj29py6y6yf4zr) 👤 Tech Editor 💬 3248 🔖 #burnout, #llm-fatigue, #llm-devimpact 🗓️ 2026-05-28
+    > **Заметка:** Это прекрасный разбор, с отличными схемами, и выводы совпадают с моим собственным опытом!  Via TLDR Newsletter. Обсуждение на HN: https://news.ycombinator.com/item?id=48228283
+    > **Резюме:** AI helps engineers write code faster but causes mental fatigue and burnout. This happens because reviewing AI code is harder and working nonstop drains energy. To avoid burnout, developers should balance AI use with breaks and focus on tasks they enjoy.
 - [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout/) [📖](https://read.readwise.io/read/01krdbp3de22jcpy37j7wc4kpz) 👤 Ky Decker 💬 1959 🔖 #burnout, #llm-fatigue, #llm-devimpact 🗓️ 2026-05-12
     > **Заметка:** Via Wisereads
     > **Резюме:** The author feels burned out and uncertain about staying in tech due to overuse of AI and loss of meaningful work. They miss the industry's earlier values of care and creativity. Now, they are taking time to recover and rethink their future.

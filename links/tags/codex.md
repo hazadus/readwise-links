@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 8
 
 ## Ссылки
 
+- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything) [📖](https://read.readwise.io/read/01ksn4vhwsgyrvafw6wt3dkppp) 👤 Simon Willison's Weblog 💬 1753 🔖 #codex, #claude 🗓️ 2026-05-27
+    > **Заметка:** Яркий пример зависимости компаний от инструментов - цены внезапно подняли, и делай теперь что хочешь.
+    > **Резюме:** Anthropic and OpenAI have found product-market fit with their coding agent products, leading to increased enterprise spending. New pricing models now charge companies based on API usage, reflecting real value and driving revenue growth. This shift marks a key moment as these AI firms prepare for IPOs and scale their business.
 - [OpenAI Models in OpenClaw, Done Right](https://openclaw.ai/blog/openai-models-in-openclaw-done-right/) [📖](https://read.readwise.io/read/01krmm262bmxbvvvq4vhhvax4e) 👤 OpenClaw Blog 💬 1357 🔖 #codex, #chatgpt, #openclaw 🗓️ 2026-05-15
     > **Резюме:** OpenClaw now uses the Codex app-server to run OpenAI models more smoothly and efficiently. This change reduces prompt clutter, improves message delivery, and lets the model find and use tools only when needed. The update makes OpenClaw agents smarter, clearer, and easier to control across many chat platforms.
 - [Is Claude Code going to cost $100/month? Maybe, maybe not - it's all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything) [📖](https://read.readwise.io/read/01kpsf3pz6dzg2md44zmqpzspm) 👤 Simon Willison's Weblog 💬 939 🔖 #codex, #claude 🗓️ 2026-04-22

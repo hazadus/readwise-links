@@ -2,7 +2,7 @@
 
 _20 статей с наивысшим interest_score_
 
-Сгенерировано: 2026-05-28 04:39 UTC · Статей: 20
+Сгенерировано: 2026-05-29 04:40 UTC · Статей: 20
 
 ## Статьи
 
@@ -43,6 +43,8 @@ _20 статей с наивысшим interest_score_
     > **Резюме:** This blog post explains how to use Claude.ai's CSV analysis feature with Readwise data for better insights. It highlights the importance of crafting specific prompts to extract meaningful information and create visualizations. The tutorial also touches on the technical aspects of how Claude processes and analyzes the data.
 - [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) [📖](https://read.readwise.io/read/01k1sq2twnr81ds7s9twvd6kx2) 👤 Software Engineering & Personal Thoughts 💬 1511 ⭐ 7 🔖 #go 🗓️ 2025-08-04 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.
+- [What I’m Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/) [📖](https://read.readwise.io/read/01ksq17ebymbxs264akq38pwm5) 👤 on 18 Feb 2026 💬 702 ⭐ 7 🔖 #cognitivedebt 🗓️ 2026-05-28 · 🌲 вечнозелёное
+    > **Резюме:** Cognitive debt happens when a team's shared understanding of a system lags behind how fast the system changes. This gap makes development harder and causes stress, even if the software still works. Teams can fight cognitive debt by updating documents, tests, and using AI to keep knowledge clear and shared.
 - [USB for Software Developers](https://werwolv.net/posts/usb_for_sw_devs/) [📖](https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41) 👤 WerWolv 💬 2523 ⭐ 6 🔖 #usb 🗓️ 2026-04-09 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via HackerNews
     > **Резюме:** Writing a USB driver is similar to writing a network application and does not require kernel code. USB devices identify themselves using standard descriptors, which the host reads to understand the device and its capabilities. Developers can communicate with devices through specific endpoints using simple commands, as shown in the Fastboot example.
@@ -51,6 +53,3 @@ _20 статей с наивысшим interest_score_
     > **Резюме:** Software developers often write bad unit tests by blindly applying production code rules to test code, leading to unnecessary complexity. Good unit tests should be simple, clear, and self-contained, enabling easy understanding and issue diagnosis without excessive abstraction. Naming tests effectively and avoiding unnecessary constants can help improve the quality of unit tests.
 - [Why Elixir is the best language for AI](https://dashbit.co/blog/why-elixir-best-language-for-ai?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01khgxm5m5yjxwenjyyzezsfsg) 👤 José Valim 💬 1651 ⭐ 6 🔖 #llm, #elixir, #joyandcuriosity 🗓️ 2026-02-15 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Elixir is the best language for AI because it is easy to understand, stable, and well-documented. Its features like immutability and clear data flow help both humans and AI models reason about code. Also, Elixir’s fast feedback, low complexity, and introspection tools make coding and debugging quicker and simpler.
-- [What Async Promised and What it Delivered](https://causality.blog/essays/what-async-promised/) [📖](https://read.readwise.io/read/01kq4a66beh84d41apswqw5xsk) 👤 Causality 💬 2488 ⭐ 5 🗓️ 2026-04-26 · 🧠 основы, 🌲 вечнозелёное
-    > **Заметка:** Via HackerNews
-    > **Резюме:** Async programming evolved from callbacks to promises to async/await, each improving code readability but adding new challenges. Async/await makes asynchronous code look sequential, which helps for simple tasks but hides complexity in larger programs. Overall, these advances helped developers write async code easier but introduced new bugs and harder maintenance in big projects.

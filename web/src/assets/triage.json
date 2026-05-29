@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T04:39:02.115201+00:00",
+  "generated_at": "2026-05-29T04:40:52.046239+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -476,6 +476,34 @@
         }
       },
       {
+        "id": "01ksq17ebymbxs264akq38pwm5",
+        "url": "https://read.readwise.io/read/01ksq17ebymbxs264akq38pwm5",
+        "source_url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+        "title": "What I’m Hearing About Cognitive Debt (So Far)",
+        "author": "on 18 Feb 2026",
+        "image_url": "http://margaretstorey.com/assets/images/ms_logo.png",
+        "word_count": 702,
+        "summary": "Cognitive debt happens when a team's shared understanding of a system lags behind how fast the system changes. This gap makes development harder and causes stress, even if the software still works. Teams can fight cognitive debt by updating documents, tests, and using AI to keep knowledge clear and shared.",
+        "notes": "",
+        "tags": {
+          "cognitivedebt": {
+            "name": "CognitiveDebt",
+            "type": "manual",
+            "created": 1779963256517
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-05-28T10:14:06.974000+00:00",
+        "last_moved_at": "2026-05-28T10:14:11.752000+00:00",
+        "published_date": "2026-02-18",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 7
+        }
+      },
+      {
         "id": "01knrbv38h3exn38swf8dcxj41",
         "url": "https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41",
         "source_url": "https://werwolv.net/posts/usb_for_sw_devs/",
@@ -568,28 +596,6 @@
           "is_evergreen": true,
           "interest_score": 6
         }
-      },
-      {
-        "id": "01kq4a66beh84d41apswqw5xsk",
-        "url": "https://read.readwise.io/read/01kq4a66beh84d41apswqw5xsk",
-        "source_url": "https://causality.blog/essays/what-async-promised/",
-        "title": "What Async Promised and What it Delivered",
-        "author": "Causality",
-        "image_url": "https://causality.blog/og-essay-3.png",
-        "word_count": 2488,
-        "summary": "Async programming evolved from callbacks to promises to async/await, each improving code readability but adding new challenges. Async/await makes asynchronous code look sequential, which helps for simple tasks but hides complexity in larger programs. Overall, these advances helped developers write async code easier but introduced new bugs and harder maintenance in big projects.",
-        "notes": "Via HackerNews",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-26T07:13:45.326000+00:00",
-        "last_moved_at": "2026-04-26T07:13:47.570000+00:00",
-        "published_date": "2026-04-22",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 5
-        }
       }
     ],
     "shortest": [
@@ -619,6 +625,34 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
+        }
+      },
+      {
+        "id": "01ksq17ebymbxs264akq38pwm5",
+        "url": "https://read.readwise.io/read/01ksq17ebymbxs264akq38pwm5",
+        "source_url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+        "title": "What I’m Hearing About Cognitive Debt (So Far)",
+        "author": "on 18 Feb 2026",
+        "image_url": "http://margaretstorey.com/assets/images/ms_logo.png",
+        "word_count": 702,
+        "summary": "Cognitive debt happens when a team's shared understanding of a system lags behind how fast the system changes. This gap makes development harder and causes stress, even if the software still works. Teams can fight cognitive debt by updating documents, tests, and using AI to keep knowledge clear and shared.",
+        "notes": "",
+        "tags": {
+          "cognitivedebt": {
+            "name": "CognitiveDebt",
+            "type": "manual",
+            "created": 1779963256517
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-05-28T10:14:06.974000+00:00",
+        "last_moved_at": "2026-05-28T10:14:11.752000+00:00",
+        "published_date": "2026-02-18",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 7
         }
       },
       {
@@ -1322,6 +1356,34 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 8
+        }
+      },
+      {
+        "id": "01ksq17ebymbxs264akq38pwm5",
+        "url": "https://read.readwise.io/read/01ksq17ebymbxs264akq38pwm5",
+        "source_url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+        "title": "What I’m Hearing About Cognitive Debt (So Far)",
+        "author": "on 18 Feb 2026",
+        "image_url": "http://margaretstorey.com/assets/images/ms_logo.png",
+        "word_count": 702,
+        "summary": "Cognitive debt happens when a team's shared understanding of a system lags behind how fast the system changes. This gap makes development harder and causes stress, even if the software still works. Teams can fight cognitive debt by updating documents, tests, and using AI to keep knowledge clear and shared.",
+        "notes": "",
+        "tags": {
+          "cognitivedebt": {
+            "name": "CognitiveDebt",
+            "type": "manual",
+            "created": 1779963256517
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-05-28T10:14:06.974000+00:00",
+        "last_moved_at": "2026-05-28T10:14:11.752000+00:00",
+        "published_date": "2026-02-18",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 7
         }
       },
       {

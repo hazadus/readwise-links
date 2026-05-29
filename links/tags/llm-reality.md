@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/) [📖](https://read.readwise.io/read/01kspgc0nwdecnkzm23he5m6g8) 👤 Terrible Software 💬 862 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-05-28
+    > **Заметка:** В копилку здравых взглядов на использование LLM. Не понимаешь - не выкатывай!
+    > **Резюме:** The author admits they relied too much on AI to fix a bug without understanding the problem themselves. They warn that using AI this way can make engineers lose important skills and judgment. The author now follows a strict rule: they must understand and explain every change before shipping it.
 - [Clanker: A Word For The Machine](https://lucumr.pocoo.org/2026/5/26/clankers/) [📖](https://read.readwise.io/read/01ksj7vq42nw5sbtgn8rz3ky2v) 👤 Armin Ronacher 💬 1969 🔖 #llm, #definitions, #llm-reality 🗓️ 2026-05-26
     > **Резюме:** In my last post I used the word “clanker” as an
 alternative to “agent” quite consistently and probably excessively.  That choice

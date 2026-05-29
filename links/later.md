@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 55
+- Всего ссылок: 56
 
 ## Ссылки
 
+- [What I’m Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/) [📖](https://read.readwise.io/read/01ksq17ebymbxs264akq38pwm5) 👤 on 18 Feb 2026 💬 702 🔖 #cognitivedebt 🗓️ 2026-05-28
+    > **Резюме:** Cognitive debt happens when a team's shared understanding of a system lags behind how fast the system changes. This gap makes development harder and causes stress, even if the software still works. Teams can fight cognitive debt by updating documents, tests, and using AI to keep knowledge clear and shared.
 - [Starting Systems Programming 02: Your program and the outside world](https://eblog.fly.dev/startingsystems2.html) [📖](https://read.readwise.io/read/01krzhna4jqj9xg9dhs2gek4j2) 👤 eblog: software articles by efron licht 💬 10624 🔖 #go 🗓️ 2026-05-19
     > **Резюме:** The text explains how programs interact with the operating system using system calls, particularly focusing on command-line arguments and file operations. It describes writing simple programs that utilize syscalls for tasks like printing and reading files. The article also introduces creating a basic shell that executes commands entered by the user.
 - [Starting Systems Programming 03: Execution Counts: Software Performance & Measurement](https://eblog.fly.dev/startingsystems3.html) [📖](https://read.readwise.io/read/01krzhna2zpaef2vh7rvc26qba) 👤 eblog: software articles by efron licht 💬 14098 🔖 #go 🗓️ 2026-05-19

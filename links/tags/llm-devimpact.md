@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 120
+- Всего ссылок: 122
 
 ## Ссылки
 
+- [Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/) [📖](https://read.readwise.io/read/01kspgc0nwdecnkzm23he5m6g8) 👤 Terrible Software 💬 862 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-05-28
+    > **Заметка:** В копилку здравых взглядов на использование LLM. Не понимаешь - не выкатывай!
+    > **Резюме:** The author admits they relied too much on AI to fix a bug without understanding the problem themselves. They warn that using AI this way can make engineers lose important skills and judgment. The author now follows a strict rule: they must understand and explain every change before shipping it.
+- [AI-assisted engineers are burning out, is this fine?](https://evilmartians.com/chronicles/ai-assisted-engineers-are-burning-out-is-this-fine?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kspg5q1bt2hj29py6y6yf4zr) 👤 Tech Editor 💬 3248 🔖 #burnout, #llm-fatigue, #llm-devimpact 🗓️ 2026-05-28
+    > **Заметка:** Это прекрасный разбор, с отличными схемами, и выводы совпадают с моим собственным опытом!  Via TLDR Newsletter. Обсуждение на HN: https://news.ycombinator.com/item?id=48228283
+    > **Резюме:** AI helps engineers write code faster but causes mental fatigue and burnout. This happens because reviewing AI code is harder and working nonstop drains energy. To avoid burnout, developers should balance AI use with breaks and focus on tasks they enjoy.
 - [Leave Me Behind](https://androidessence.com/leave-me-behind/?utm_source=tldrdev#) [📖](https://read.readwise.io/read/01kskwsktqjtny0tr3x79gb74w) 👤 Adam McNeilly 💬 1621 🔖 #learning, #reflections, #llm-devimpact, #llm-resistance 🗓️ 2026-05-27
     > **Заметка:** Последнее время чаще стали такие взгляды попадаться, это радует.   Via TLDR Newsletter.
     > **Резюме:** The author shares his journey learning Android development and the joy of building apps with others. He worries that relying too much on AI tools can take away the human learning and connection in software development. He believes true progress comes from people working together, sharing struggles, and growing as a community.

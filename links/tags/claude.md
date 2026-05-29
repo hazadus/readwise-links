@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 34
+- Всего ссылок: 35
 
 ## Ссылки
 
+- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything) [📖](https://read.readwise.io/read/01ksn4vhwsgyrvafw6wt3dkppp) 👤 Simon Willison's Weblog 💬 1753 🔖 #codex, #claude 🗓️ 2026-05-27
+    > **Заметка:** Яркий пример зависимости компаний от инструментов - цены внезапно подняли, и делай теперь что хочешь.
+    > **Резюме:** Anthropic and OpenAI have found product-market fit with their coding agent products, leading to increased enterprise spending. New pricing models now charge companies based on API usage, reflecting real value and driving revenue growth. This shift marks a key moment as these AI firms prepare for IPOs and scale their business.
 - [Mythos finds a curl vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/) [📖](https://read.readwise.io/read/01krav8whk2h2hnssn02qk9jtb) 👤 Daniel Stenberg 💬 2041 🔖 #claude, #cybersecurity, #llm-devimpact 🗓️ 2026-05-11
     > **Резюме:** yes, as in singular one. Back in April 2026 Anthropic caused a lot of media noise when they concluded that their new AI model Mythos is dangerously good at finding security flaws in source code. Apparently Mythos was so good at this that Anthropic would not release this model to the public yet but instead … Continue reading Mythos finds a curl vulnerability →
 - [Thoughts and Feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/) [📖](https://read.readwise.io/read/01kq6rzkp8vkyh8aj1ah9ngd76) 👤 samhenri.gold 💬 1230 🔖 #claude, #joyandcuriosity 🗓️ 2026-04-27

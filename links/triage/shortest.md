@@ -2,12 +2,14 @@
 
 _Короткие статьи (не туториалы, не основы), отсортированные по объёму_
 
-Сгенерировано: 2026-05-28 04:39 UTC · Статей: 25
+Сгенерировано: 2026-05-29 04:40 UTC · Статей: 26
 
 ## Статьи
 
 - [Bypassing DPI with eBPF sock_ops](https://bora.sh/bypassing-dpi-with-ebpf/) [📖](https://read.readwise.io/read/01kqh31s3acyzhnmh2g9pmvpfb) 👤 Bora Tanrikulu 💬 13 ⭐ 2 🔖 #dpi 🗓️ 2026-05-01
     > **Резюме:** eBPF sock_ops, fake TLS packets, and why every platform needs a different hack
+- [What I’m Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/) [📖](https://read.readwise.io/read/01ksq17ebymbxs264akq38pwm5) 👤 on 18 Feb 2026 💬 702 ⭐ 7 🔖 #cognitivedebt 🗓️ 2026-05-28 · 🌲 вечнозелёное
+    > **Резюме:** Cognitive debt happens when a team's shared understanding of a system lags behind how fast the system changes. This gap makes development harder and causes stress, even if the software still works. Teams can fight cognitive debt by updating documents, tests, and using AI to keep knowledge clear and shared.
 - [My audio interface has ssh enabled by default](https://hhh.hn/rodecaster-duo-fw/) [📖](https://read.readwise.io/read/01kq1zx0r4n33srh7vqaawdkzh) 👤 hhh.hn 💬 933 ⭐ 2 🗓️ 2026-04-25
     > **Заметка:** Via HackerNews
     > **Резюме:** The author bought a Rodecaster Duo for better audio during gaming and found it easy to use. They discovered the device has SSH enabled by default and allows easy firmware updates without signature checks. The author created custom firmware to access the device via SSH and reported the security concern to Rode.

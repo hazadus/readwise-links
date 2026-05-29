@@ -1,9 +1,15 @@
 # Архивные ссылки
 
-- Всего ссылок: 1718
+- Всего ссылок: 1721
 
 ## Ссылки
 
+- [Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/) [📖](https://read.readwise.io/read/01kspgc0nwdecnkzm23he5m6g8) 👤 Terrible Software 💬 862 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-05-28
+    > **Заметка:** В копилку здравых взглядов на использование LLM. Не понимаешь - не выкатывай!
+- [AI-assisted engineers are burning out, is this fine?](https://evilmartians.com/chronicles/ai-assisted-engineers-are-burning-out-is-this-fine?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kspg5q1bt2hj29py6y6yf4zr) 👤 Tech Editor 💬 3248 🔖 #burnout, #llm-fatigue, #llm-devimpact 🗓️ 2026-05-28
+    > **Заметка:** Это прекрасный разбор, с отличными схемами, и выводы совпадают с моим собственным опытом!  Via TLDR Newsletter. Обсуждение на HN: https://news.ycombinator.com/item?id=48228283
+- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything) [📖](https://read.readwise.io/read/01ksn4vhwsgyrvafw6wt3dkppp) 👤 Simon Willison's Weblog 💬 1753 🔖 #codex, #claude 🗓️ 2026-05-27
+    > **Заметка:** Яркий пример зависимости компаний от инструментов - цены внезапно подняли, и делай теперь что хочешь.
 - [Leave Me Behind](https://androidessence.com/leave-me-behind/?utm_source=tldrdev#) [📖](https://read.readwise.io/read/01kskwsktqjtny0tr3x79gb74w) 👤 Adam McNeilly 💬 1621 🔖 #learning, #reflections, #llm-devimpact, #llm-resistance 🗓️ 2026-05-27
     > **Заметка:** Последнее время чаще стали такие взгляды попадаться, это радует.   Via TLDR Newsletter.
 - [Clanker: A Word For The Machine](https://lucumr.pocoo.org/2026/5/26/clankers/) [📖](https://read.readwise.io/read/01ksj7vq42nw5sbtgn8rz3ky2v) 👤 Armin Ronacher 💬 1969 🔖 #llm, #definitions, #llm-reality 🗓️ 2026-05-26
