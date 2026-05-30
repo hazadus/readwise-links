@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T04:40:52.046239+00:00",
+  "generated_at": "2026-05-30T04:33:24.003726+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -625,6 +625,28 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
+        }
+      },
+      {
+        "id": "01kss3z202cdpsj7w0ybjycdj0",
+        "url": "https://read.readwise.io/read/01kss3z202cdpsj7w0ybjycdj0",
+        "source_url": "https://shvbsle.in/various-llm-smells/",
+        "title": "Various LLM smells",
+        "author": "Shiv After Dark",
+        "image_url": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/shiv-1652679517.jpg",
+        "word_count": 273,
+        "summary": "The author used AI to improve their math blog writing and noticed it sounded much better at first. Later, they saw the same AI-style phrases and patterns everywhere online, which they call \"AI smells.\" These patterns include repeated sentence structures, specific phrases, and design elements that reveal AI influence.",
+        "notes": "Via HN. https://news.ycombinator.com/item?id=48313810",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-29T05:40:26.754000+00:00",
+        "last_moved_at": "2026-05-29T05:40:30.433000+00:00",
+        "published_date": "2026-05-26",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 4
         }
       },
       {
@@ -1384,6 +1406,28 @@
           "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 7
+        }
+      },
+      {
+        "id": "01kss3z202cdpsj7w0ybjycdj0",
+        "url": "https://read.readwise.io/read/01kss3z202cdpsj7w0ybjycdj0",
+        "source_url": "https://shvbsle.in/various-llm-smells/",
+        "title": "Various LLM smells",
+        "author": "Shiv After Dark",
+        "image_url": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/shiv-1652679517.jpg",
+        "word_count": 273,
+        "summary": "The author used AI to improve their math blog writing and noticed it sounded much better at first. Later, they saw the same AI-style phrases and patterns everywhere online, which they call \"AI smells.\" These patterns include repeated sentence structures, specific phrases, and design elements that reveal AI influence.",
+        "notes": "Via HN. https://news.ycombinator.com/item?id=48313810",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-29T05:40:26.754000+00:00",
+        "last_moved_at": "2026-05-29T05:40:30.433000+00:00",
+        "published_date": "2026-05-26",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 4
         }
       },
       {
@@ -3763,6 +3807,28 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 7
+        }
+      },
+      {
+        "id": "01kss3z202cdpsj7w0ybjycdj0",
+        "url": "https://read.readwise.io/read/01kss3z202cdpsj7w0ybjycdj0",
+        "source_url": "https://shvbsle.in/various-llm-smells/",
+        "title": "Various LLM smells",
+        "author": "Shiv After Dark",
+        "image_url": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/shiv-1652679517.jpg",
+        "word_count": 273,
+        "summary": "The author used AI to improve their math blog writing and noticed it sounded much better at first. Later, they saw the same AI-style phrases and patterns everywhere online, which they call \"AI smells.\" These patterns include repeated sentence structures, specific phrases, and design elements that reveal AI influence.",
+        "notes": "Via HN. https://news.ycombinator.com/item?id=48313810",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-05-29T05:40:26.754000+00:00",
+        "last_moved_at": "2026-05-29T05:40:30.433000+00:00",
+        "published_date": "2026-05-26",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 4
         }
       },
       {
