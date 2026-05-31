@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1721
+- Всего ссылок: 1722
 
 ## Ссылки
 
+- [Github and the Crime Against Software](https://eblog.fly.dev/githubbad.html) [📖](https://read.readwise.io/read/01ksv133sk5gfz7fsh0bqn5403) 👤 eblog: software articles by efron licht 💬 350 🔖 #github 🗓️ 2026-05-29
+    > **Заметка:** Чего ныть, если GitHub представляет ОГРОМНЫЕ возможности, БЕСПЛАТНО? Поднимай свой собственный инстанс GitLab, и радуйся, если такой умный)
 - [Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/) [📖](https://read.readwise.io/read/01kspgc0nwdecnkzm23he5m6g8) 👤 Terrible Software 💬 862 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-05-28
     > **Заметка:** В копилку здравых взглядов на использование LLM. Не понимаешь - не выкатывай!
 - [AI-assisted engineers are burning out, is this fine?](https://evilmartians.com/chronicles/ai-assisted-engineers-are-burning-out-is-this-fine?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kspg5q1bt2hj29py6y6yf4zr) 👤 Tech Editor 💬 3248 🔖 #burnout, #llm-fatigue, #llm-devimpact 🗓️ 2026-05-28

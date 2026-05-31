@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 38
+- Всего ссылок: 39
 
 ## Ссылки
 
+- [Github and the Crime Against Software](https://eblog.fly.dev/githubbad.html) [📖](https://read.readwise.io/read/01ksv133sk5gfz7fsh0bqn5403) 👤 eblog: software articles by efron licht 💬 350 🔖 #github 🗓️ 2026-05-29
+    > **Заметка:** Чего ныть, если GitHub представляет ОГРОМНЫЕ возможности, БЕСПЛАТНО? Поднимай свой собственный инстанс GitLab, и радуйся, если такой умный)
+    > **Резюме:** An investigation into collapse of Github and how the decay of our tech infrastructure is a crime against software. Detailed comparisons of Github, Gitlab, Codeberg, and more from a distributed systems and software performance expert
 - [The Pulse: AI load breaks GitHub – why not other vendors?](https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/) [📖](https://read.readwise.io/read/01kr1v3jgjed7fdx4738g9n5k1) 👤 Gergely Orosz 💬 2411 🔖 #github 🗓️ 2026-05-07
     > **Резюме:** GitHub has faced many outages recently, causing big problems for developers and companies. The main reason is unexpected huge growth in demand, which GitHub was not ready for. Other services and self-hosted options are more reliable right now.
 - [GitHub is sinking](https://dbushell.com/2026/04/29/github-is-sinking/) [📖](https://read.readwise.io/read/01kqch3x7gg1tvawsb43rthcfn) 👤 dbushell.com (all feeds) 💬 699 🔖 #github 🗓️ 2026-04-29
