@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T04:45:24.554912+00:00",
+  "generated_at": "2026-06-02T04:42:25.058052+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -625,6 +625,28 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
+        }
+      },
+      {
+        "id": "01kt127h2745wqrnyyk6pg2p6g",
+        "url": "https://read.readwise.io/read/01kt127h2745wqrnyyk6pg2p6g",
+        "source_url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+        "title": "I Am Retiring from Tech to Live Offline",
+        "author": "Chad Whitacre",
+        "image_url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/social.webp",
+        "word_count": 19,
+        "summary": "AI took the last of the wind out of my Open Source sails. I wish you all the best!",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-01T07:44:02.631000+00:00",
+        "last_moved_at": "2026-06-01T07:44:21.131000+00:00",
+        "published_date": "2026-05-28",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 1
         }
       },
       {
@@ -1484,6 +1506,28 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
+        }
+      },
+      {
+        "id": "01kt127h2745wqrnyyk6pg2p6g",
+        "url": "https://read.readwise.io/read/01kt127h2745wqrnyyk6pg2p6g",
+        "source_url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+        "title": "I Am Retiring from Tech to Live Offline",
+        "author": "Chad Whitacre",
+        "image_url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/social.webp",
+        "word_count": 19,
+        "summary": "AI took the last of the wind out of my Open Source sails. I wish you all the best!",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-01T07:44:02.631000+00:00",
+        "last_moved_at": "2026-06-01T07:44:21.131000+00:00",
+        "published_date": "2026-05-28",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 1
         }
       }
     ],
@@ -4175,6 +4219,28 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
+        }
+      },
+      {
+        "id": "01kt127h2745wqrnyyk6pg2p6g",
+        "url": "https://read.readwise.io/read/01kt127h2745wqrnyyk6pg2p6g",
+        "source_url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+        "title": "I Am Retiring from Tech to Live Offline",
+        "author": "Chad Whitacre",
+        "image_url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/social.webp",
+        "word_count": 19,
+        "summary": "AI took the last of the wind out of my Open Source sails. I wish you all the best!",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-01T07:44:02.631000+00:00",
+        "last_moved_at": "2026-06-01T07:44:21.131000+00:00",
+        "published_date": "2026-05-28",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 1
         }
       }
     ]

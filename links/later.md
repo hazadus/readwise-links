@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 57
+- Всего ссылок: 58
 
 ## Ссылки
 
+- [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) [📖](https://read.readwise.io/read/01kt127h2745wqrnyyk6pg2p6g) 👤 Chad Whitacre 💬 19 🗓️ 2026-06-01
+    > **Резюме:** AI took the last of the wind out of my Open Source sails. I wish you all the best!
 - [Various LLM smells](https://shvbsle.in/various-llm-smells/) [📖](https://read.readwise.io/read/01kss3z202cdpsj7w0ybjycdj0) 👤 Shiv After Dark 💬 273 🗓️ 2026-05-29
     > **Заметка:** Via HN. https://news.ycombinator.com/item?id=48313810
     > **Резюме:** The author used AI to improve their math blog writing and noticed it sounded much better at first. Later, they saw the same AI-style phrases and patterns everywhere online, which they call "AI smells." These patterns include repeated sentence structures, specific phrases, and design elements that reveal AI influence.

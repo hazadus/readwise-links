@@ -2,7 +2,7 @@
 
 _Короткие интересные статьи (до 800 слов), не туториалы_
 
-Сгенерировано: 2026-06-01 04:45 UTC · Статей: 5
+Сгенерировано: 2026-06-02 04:42 UTC · Статей: 6
 
 ## Статьи
 
@@ -19,3 +19,5 @@ _Короткие интересные статьи (до 800 слов), не т
     > **Резюме:** Shazam works by turning sounds into simple fingerprints that help identify songs. Most services send audio to a server with a huge database to find matches. Newer apps can do this on your phone using smaller databases and smart algorithms.
 - [Bypassing DPI with eBPF sock_ops](https://bora.sh/bypassing-dpi-with-ebpf/) [📖](https://read.readwise.io/read/01kqh31s3acyzhnmh2g9pmvpfb) 👤 Bora Tanrikulu 💬 13 ⭐ 2 🔖 #dpi 🗓️ 2026-05-01
     > **Резюме:** eBPF sock_ops, fake TLS packets, and why every platform needs a different hack
+- [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) [📖](https://read.readwise.io/read/01kt127h2745wqrnyyk6pg2p6g) 👤 Chad Whitacre 💬 19 ⭐ 1 🗓️ 2026-06-01
+    > **Резюме:** AI took the last of the wind out of my Open Source sails. I wish you all the best!

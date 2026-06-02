@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-06-01 04:45 UTC · Статей: 19
+Сгенерировано: 2026-06-02 04:42 UTC · Статей: 20
 
 ## Статьи
 
@@ -52,3 +52,5 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** The author bought a Rodecaster Duo for better audio during gaming and found it easy to use. They discovered the device has SSH enabled by default and allows easy firmware updates without signature checks. The author created custom firmware to access the device via SSH and reported the security concern to Rode.
 - [Bypassing DPI with eBPF sock_ops](https://bora.sh/bypassing-dpi-with-ebpf/) [📖](https://read.readwise.io/read/01kqh31s3acyzhnmh2g9pmvpfb) 👤 Bora Tanrikulu 💬 13 ⭐ 2 🔖 #dpi 🗓️ 2026-05-01
     > **Резюме:** eBPF sock_ops, fake TLS packets, and why every platform needs a different hack
+- [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) [📖](https://read.readwise.io/read/01kt127h2745wqrnyyk6pg2p6g) 👤 Chad Whitacre 💬 19 ⭐ 1 🗓️ 2026-06-01
+    > **Резюме:** AI took the last of the wind out of my Open Source sails. I wish you all the best!
