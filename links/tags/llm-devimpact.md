@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 122
+- Всего ссылок: 125
 
 ## Ссылки
 
+- [Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) [📖](https://read.readwise.io/read/01kt8htz0wj55q2z8rj1sve36n) 👤 seangoedecke.com RSS feed 💬 1787 🔖 #llm-devimpact 🗓️ 2026-06-04
+    > **Резюме:** Some people who dislike AI want to return to the old way of programming, but this nostalgia can mirror harmful ideas from the past. The author warns that such thinking can echo fascist beliefs about tradition and purity. However, AI also helps many people, and it’s important to see both its good and bad sides.
 - [Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/) [📖](https://read.readwise.io/read/01kspgc0nwdecnkzm23he5m6g8) 👤 Terrible Software 💬 862 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-05-28
     > **Заметка:** В копилку здравых взглядов на использование LLM. Не понимаешь - не выкатывай!
     > **Резюме:** The author admits they relied too much on AI to fix a bug without understanding the problem themselves. They warn that using AI this way can make engineers lose important skills and judgment. The author now follows a strict rule: they must understand and explain every change before shipping it.
@@ -13,6 +15,10 @@
 - [Leave Me Behind](https://androidessence.com/leave-me-behind/?utm_source=tldrdev#) [📖](https://read.readwise.io/read/01kskwsktqjtny0tr3x79gb74w) 👤 Adam McNeilly 💬 1621 🔖 #learning, #reflections, #llm-devimpact, #llm-resistance 🗓️ 2026-05-27
     > **Заметка:** Последнее время чаще стали такие взгляды попадаться, это радует.   Via TLDR Newsletter.
     > **Резюме:** The author shares his journey learning Android development and the joy of building apps with others. He worries that relying too much on AI tools can take away the human learning and connection in software development. He believes true progress comes from people working together, sharing struggles, and growing as a community.
+- [Choosing to Stay Human](https://www.oneusefulthing.org/p/choosing-to-stay-human) [📖](https://read.readwise.io/read/01ksjxveh7rdkqsve1c4x151pe) 👤 Ethan Mollick 💬 1832 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26
+    > **Резюме:** AI writing is everywhere, but relying on it too much can hurt our ability to think and learn deeply. Using AI as a tool to help us learn and create is good, but letting it do all the work causes "cognitive surrender." We must choose carefully what to do ourselves and what to let AI handle to keep our skills and meaning alive.
+- [Technical Writing in the AI Age](https://css-tricks.com/technical-writing-in-the-ai-age/) [📖](https://read.readwise.io/read/01ksj8ybhvk6w07nax99narzd9) 👤 Geoff Graham 💬 2483 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26
+    > **Резюме:** Technical writing is changing because AI can now do some tasks people used to do. Humans still need clear, helpful explanations that AI can’t provide. Writers should focus on sharing real experiences and helping others learn step-by-step.
 - [Nobody Cracks Open a Programming Book Anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/) [📖](https://read.readwise.io/read/01kshe19eewgvtxeexvjh3gs91) 👤 CYRUS 💬 873 🔖 #reading, #llm-devimpact 🗓️ 2026-05-26
     > **Заметка:** Хорошую книгу ничего не заменит (и она не обязательно должна быть бумажной). Важна структура, опыт и подача автора. Никто не мешает уточнять детали и углубляться в вопросы через LLM, документацию и тематические посты/видео.   Via HN. https://news.ycombinator.com/item?id=48273030
     > **Резюме:** Programming books used to be essential, but now few people buy them because tools like ChatGPT and GitHub Copilot provide instant help. The traditional way of learning by typing code from books is fading. New programmers learn differently and use smarter tools, changing how software is made.

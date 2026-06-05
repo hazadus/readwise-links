@@ -1,12 +1,16 @@
 # Ссылки
 
-- Всего ссылок: 47
+- Всего ссылок: 49
 
 ## Ссылки
 
 - [Leave Me Behind](https://androidessence.com/leave-me-behind/?utm_source=tldrdev#) [📖](https://read.readwise.io/read/01kskwsktqjtny0tr3x79gb74w) 👤 Adam McNeilly 💬 1621 🔖 #learning, #reflections, #llm-devimpact, #llm-resistance 🗓️ 2026-05-27
     > **Заметка:** Последнее время чаще стали такие взгляды попадаться, это радует.   Via TLDR Newsletter.
     > **Резюме:** The author shares his journey learning Android development and the joy of building apps with others. He worries that relying too much on AI tools can take away the human learning and connection in software development. He believes true progress comes from people working together, sharing struggles, and growing as a community.
+- [Choosing to Stay Human](https://www.oneusefulthing.org/p/choosing-to-stay-human) [📖](https://read.readwise.io/read/01ksjxveh7rdkqsve1c4x151pe) 👤 Ethan Mollick 💬 1832 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26
+    > **Резюме:** AI writing is everywhere, but relying on it too much can hurt our ability to think and learn deeply. Using AI as a tool to help us learn and create is good, but letting it do all the work causes "cognitive surrender." We must choose carefully what to do ourselves and what to let AI handle to keep our skills and meaning alive.
+- [Technical Writing in the AI Age](https://css-tricks.com/technical-writing-in-the-ai-age/) [📖](https://read.readwise.io/read/01ksj8ybhvk6w07nax99narzd9) 👤 Geoff Graham 💬 2483 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26
+    > **Резюме:** Technical writing is changing because AI can now do some tasks people used to do. Humans still need clear, helpful explanations that AI can’t provide. Writers should focus on sharing real experiences and helping others learn step-by-step.
 - [Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/) [📖](https://read.readwise.io/read/01krwthf8z953x0y9pbfh9br3s) 👤 Addy Osmani 💬 1405 🔖 #learning, #llm-reality, #llm-devimpact 🗓️ 2026-05-18
     > **Заметка:** Очень честный взгляд на продуктивность VS. обучение. Нужно эти тезисы себе прям в табличке над столом вывешивать. Via HN
     > **Резюме:** Relying on AI to write code without understanding it harms your learning and skills over time. Using AI well means asking questions, testing ideas, and learning from the process. To stay sharp, treat AI as a teacher, not just a tool to finish tasks quickly.

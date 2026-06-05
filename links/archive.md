@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1722
+- Всего ссылок: 1724
 
 ## Ссылки
 
+- [Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) [📖](https://read.readwise.io/read/01kt8htz0wj55q2z8rj1sve36n) 👤 seangoedecke.com RSS feed 💬 1787 🔖 #llm-devimpact 🗓️ 2026-06-04
 - [Github and the Crime Against Software](https://eblog.fly.dev/githubbad.html) [📖](https://read.readwise.io/read/01ksv133sk5gfz7fsh0bqn5403) 👤 eblog: software articles by efron licht 💬 350 🔖 #github 🗓️ 2026-05-29
     > **Заметка:** Чего ныть, если GitHub представляет ОГРОМНЫЕ возможности, БЕСПЛАТНО? Поднимай свой собственный инстанс GitLab, и радуйся, если такой умный)
 - [Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/) [📖](https://read.readwise.io/read/01kspgc0nwdecnkzm23he5m6g8) 👤 Terrible Software 💬 862 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-05-28
@@ -14,6 +15,7 @@
     > **Заметка:** Яркий пример зависимости компаний от инструментов - цены внезапно подняли, и делай теперь что хочешь.
 - [Leave Me Behind](https://androidessence.com/leave-me-behind/?utm_source=tldrdev#) [📖](https://read.readwise.io/read/01kskwsktqjtny0tr3x79gb74w) 👤 Adam McNeilly 💬 1621 🔖 #learning, #reflections, #llm-devimpact, #llm-resistance 🗓️ 2026-05-27
     > **Заметка:** Последнее время чаще стали такие взгляды попадаться, это радует.   Via TLDR Newsletter.
+- [Technical Writing in the AI Age](https://css-tricks.com/technical-writing-in-the-ai-age/) [📖](https://read.readwise.io/read/01ksj8ybhvk6w07nax99narzd9) 👤 Geoff Graham 💬 2483 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26
 - [Clanker: A Word For The Machine](https://lucumr.pocoo.org/2026/5/26/clankers/) [📖](https://read.readwise.io/read/01ksj7vq42nw5sbtgn8rz3ky2v) 👤 Armin Ronacher 💬 1969 🔖 #llm, #definitions, #llm-reality 🗓️ 2026-05-26
 - [Pluralistic: The AI bubble isn't like the internet bubble (26 May 2026)](https://pluralistic.net/2026/05/26/the-ai-will-continue/) [📖](https://read.readwise.io/read/01kshv93z62r1y923xvff1y9ys) 👤 Cory Doctorow 💬 2634 🔖 #llm-resistance 🗓️ 2026-05-26
     > **Заметка:** Интересно понаблюдать, что будет через полгода-год с "насаждением" использования ИИ со стороны работодателей и экономикой ИИ.

@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 29
+- Всего ссылок: 31
 
 ## Ссылки
 
+- [Choosing to Stay Human](https://www.oneusefulthing.org/p/choosing-to-stay-human) [📖](https://read.readwise.io/read/01ksjxveh7rdkqsve1c4x151pe) 👤 Ethan Mollick 💬 1832 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26
+    > **Резюме:** AI writing is everywhere, but relying on it too much can hurt our ability to think and learn deeply. Using AI as a tool to help us learn and create is good, but letting it do all the work causes "cognitive surrender." We must choose carefully what to do ourselves and what to let AI handle to keep our skills and meaning alive.
+- [Technical Writing in the AI Age](https://css-tricks.com/technical-writing-in-the-ai-age/) [📖](https://read.readwise.io/read/01ksj8ybhvk6w07nax99narzd9) 👤 Geoff Graham 💬 2483 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26
+    > **Резюме:** Technical writing is changing because AI can now do some tasks people used to do. Humans still need clear, helpful explanations that AI can’t provide. Writers should focus on sharing real experiences and helping others learn step-by-step.
 - [Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/) [📖](https://read.readwise.io/read/01kqsmbkrxbxa9cj8xafba8gq4) 👤 Armin Ronacher 💬 2134 🔖 #writing, #llm-devimpact 🗓️ 2026-05-04
     > **Заметка:** Интересное наблюдение о влиянии LLM на то, как люди пишут - даже когда они это делают сами, без ИИ-помощников. На русском пока такого не встречал, но на нём читаю и не так много текстов в интернете... Нужно понаблюдать.
     > **Резюме:** Language is changing fast, partly because of AI tools like large language models (LLMs). Many people and companies use AI to create lots of low-effort content, which makes real human communication harder to find. We need to be aware of this problem and change how we trust and interact with AI-influenced text.
