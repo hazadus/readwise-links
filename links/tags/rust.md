@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 27
+- Всего ссылок: 28
 
 ## Ссылки
 
+- [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/) [📖](https://read.readwise.io/read/01ktkknvzzgagx1vyeq1dhma9j) 👤 Corrode Rust Consulting 💬 3275 🔖 #rust 🗓️ 2026-06-08
+    > **Резюме:** Defensive programming in Rust means using the compiler to enforce rules and prevent errors. You can force all struct creation to go through safe constructors by adding private fields and modules. Making fields private and providing getters helps keep data valid and avoids mistakes.
 - [Why Bun leaving Zig is Great for Zig](https://dayvster.com/blog/why-bun-leaving-zig-is-great-for-zig/) [📖](https://read.readwise.io/read/01ksg52rndrdjzem1bfh9eeeqh) 👤 Dayvster 💬 976 🔖 #bun, #zig, #rust 🗓️ 2026-05-25
     > **Заметка:** Интересно! Наблюдаем за развитием событий :)
     > **Резюме:** Why Anthropics million line AI rewrite is a massive gamble for Bun, a marketing stunt for Claude, and a quiet win for Zig.
