@@ -2,7 +2,7 @@
 
 _Фундаментальные материалы с долгосрочной ценностью_
 
-Сгенерировано: 2026-06-09 04:37 UTC · Статей: 28
+Сгенерировано: 2026-06-10 04:42 UTC · Статей: 29
 
 ## Статьи
 
@@ -11,6 +11,8 @@ _Фундаментальные материалы с долгосрочной �
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
 - [Starting Systems Programming, Pt 1: Programmers Write Programs](https://eblog.fly.dev/startingsystems1.html?utm_source=christophberger&utm_medium=email&utm_campaign=2026-05-17-it-works-but-why) [📖](https://read.readwise.io/read/01krwn5xzt5ncgf86fdmjehwkk) 👤 Efron Licht 💬 8129 ⭐ 8 🔖 #go 🗓️ 2026-05-18 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** The article explores systems programming by examining what a program is and how to interact with its data. It includes practical exercises using Go programs and bash scripts to read, write, and manipulate binary data. The goal is to understand programming fundamentals and build tools to analyze programs effectively.
+- [How Servers Work: A Hands-On Introduction to TCP Sockets](https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets) [📖](https://read.readwise.io/read/01ktndr2v6nrwd97jy43v36sza) 👤 Ivan Velichko 💬 3616 ⭐ 8 🔖 #theory, #network 🗓️ 2026-06-09 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** A TCP server communicates by sending and receiving data over network connections called sockets. TCP ensures reliable and ordered delivery of data between clients and servers using ports and connections. The article explains how to build a simple TCP server and client in Python using sockets to send and receive data.
 - [Eight Software Markets AI That Will Transform Differently](https://davegriffith.substack.com/p/eight-software-markets-ai-that-will) [📖](https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt) 👤 Dave Griffith 💬 2917 ⭐ 8 🔖 #llm 🗓️ 2026-01-12 · 🧠 основы
     > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) [📖](https://read.readwise.io/read/01ke9z0vpb9xqf5ateyympwzpm) 👤 Nikita Prokopov 💬 2754 ⭐ 8 🗓️ 2026-01-06 · 🧠 основы, 🌲 вечнозелёное

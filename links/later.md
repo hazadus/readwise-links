@@ -1,11 +1,17 @@
 # Отложенные ссылки
 
-- Всего ссылок: 58
+- Всего ссылок: 60
 
 ## Ссылки
 
-- [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) [📖](https://read.readwise.io/read/01kt127h2745wqrnyyk6pg2p6g) 👤 Chad Whitacre 💬 19 🗓️ 2026-06-01
-    > **Резюме:** AI took the last of the wind out of my Open Source sails. I wish you all the best!
+- [How Servers Work: A Hands-On Introduction to TCP Sockets](https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets) [📖](https://read.readwise.io/read/01ktndr2v6nrwd97jy43v36sza) 👤 Ivan Velichko 💬 3616 🔖 #theory, #network 🗓️ 2026-06-09
+    > **Резюме:** A TCP server communicates by sending and receiving data over network connections called sockets. TCP ensures reliable and ordered delivery of data between clients and servers using ports and connections. The article explains how to build a simple TCP server and client in Python using sockets to send and receive data.
+- [the solution might be cancelling my AI subscription](https://thoughts.hmmz.org/2026-05-31.html) [📖](https://read.readwise.io/read/01ktndj64tqep1mx6asgtfwwt3) 👤 hmmz.org 💬 1148 🗓️ 2026-06-09
+    > **Заметка:** Via Wisereads Vol.146
+    > **Резюме:** The author built many AI projects but finds them mostly useless and hard to maintain. AI tools increase distraction and shallow work, hurting real focus and productivity. To manage this, the author thinks limiting AI use is the best way forward.
+- [Domain Expertise Has Always Been the Real Moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) [📖](https://read.readwise.io/read/01ktndd9cyk7mrv5btd8qg0bhk) 👤 brethorsting.com 💬 760 🗓️ 2026-06-09
+    > **Заметка:** Via Wisereads vol.146
+    > **Резюме:** Writing code is now easier because AI can generate it without deep domain knowledge. The real challenge is knowing if the AI’s output is correct, which requires domain expertise. The most valuable people combine strong coding skills with deep understanding of the domain.
 - [Various LLM smells](https://shvbsle.in/various-llm-smells/) [📖](https://read.readwise.io/read/01kss3z202cdpsj7w0ybjycdj0) 👤 Shiv After Dark 💬 273 🗓️ 2026-05-29
     > **Заметка:** Via HN. https://news.ycombinator.com/item?id=48313810
     > **Резюме:** The author used AI to improve their math blog writing and noticed it sounded much better at first. Later, they saw the same AI-style phrases and patterns everywhere online, which they call "AI smells." These patterns include repeated sentence structures, specific phrases, and design elements that reveal AI influence.

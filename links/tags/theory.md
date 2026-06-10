@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [How Servers Work: A Hands-On Introduction to TCP Sockets](https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets) [📖](https://read.readwise.io/read/01ktndr2v6nrwd97jy43v36sza) 👤 Ivan Velichko 💬 3616 🔖 #theory, #network 🗓️ 2026-06-09
+    > **Резюме:** A TCP server communicates by sending and receiving data over network connections called sockets. TCP ensures reliable and ordered delivery of data between clients and servers using ports and connections. The article explains how to build a simple TCP server and client in Python using sockets to send and receive data.
 - [Quantization from the ground up](https://ngrok.com/blog/quantization) [📖](https://read.readwise.io/read/01kmrp6ce52w3gzsedw0ky6y7a) 👤 Sam Rose 💬 4123 🔖 #llm, #theory 🗓️ 2026-03-27
     > **Резюме:** Quantization shrinks large numbers into smaller ones so models use less memory and run faster. Lower bit quantization reduces accuracy, but 8-bit and 4-bit still work well for large language models. Very low bits like 2-bit cause big errors and poor model performance.
 - [microgpt](https://karpathy.github.io/2026/02/12/microgpt/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kjz757r7cztw20w5anxnzy93) 👤 karpathy.github.io 💬 5261 🔖 #llm, #theory 🗓️ 2026-03-05

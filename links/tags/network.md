@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [How Servers Work: A Hands-On Introduction to TCP Sockets](https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets) [📖](https://read.readwise.io/read/01ktndr2v6nrwd97jy43v36sza) 👤 Ivan Velichko 💬 3616 🔖 #theory, #network 🗓️ 2026-06-09
+    > **Резюме:** A TCP server communicates by sending and receiving data over network connections called sockets. TCP ensures reliable and ordered delivery of data between clients and servers using ports and connections. The article explains how to build a simple TCP server and client in Python using sockets to send and receive data.
 - [AmneziaWG 2.0: как работает полная мимикрия трафика и чем она лучше обычной маскировки](https://www.securitylab.ru/blog/personal/Techno_Obzor/360094.php) [📖](https://read.readwise.io/read/01kpk6w3rd5extz9ay7g099743) 👤 Alexander Antipov 💬 1350 🔖 #dpi, #network 🗓️ 2026-04-19
     > **Резюме:** AmneziaWG 2.0 improves traffic disguise by making VPN data look more like normal network traffic, but it does not make it completely invisible. The new version is more complex and harder to detect, yet it requires new configurations and can slow down connections. This update is a big step forward but not a final solution against deep traffic analysis.
 - [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/) [📖](https://read.readwise.io/read/01k258310nhrbaah4hmv625swh) 👤 August 8 💬 1561 🔖 #http, #toot, #network, #programming 🗓️ 2025-08-08

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T04:37:06.665886+00:00",
+  "generated_at": "2026-06-10T04:42:11.808321+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -145,6 +145,39 @@
           "is_tutorial": false,
           "is_foundational": false,
           "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01ktndr2v6nrwd97jy43v36sza",
+        "url": "https://read.readwise.io/read/01ktndr2v6nrwd97jy43v36sza",
+        "source_url": "https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets",
+        "title": "How Servers Work: A Hands-On Introduction to TCP Sockets",
+        "author": "Ivan Velichko",
+        "image_url": "https://labs.iximiuz.com/content/files/tutorials/how-servers-work-tcp-sockets/__static__/berkeley-sockets-api-rev2.png",
+        "word_count": 3616,
+        "summary": "A TCP server communicates by sending and receiving data over network connections called sockets. TCP ensures reliable and ordered delivery of data between clients and servers using ports and connections. The article explains how to build a simple TCP server and client in Python using sockets to send and receive data.",
+        "notes": "",
+        "tags": {
+          "theory": {
+            "name": "Theory",
+            "type": "manual",
+            "created": 1780983031044
+          },
+          "network": {
+            "name": "Network",
+            "type": "manual",
+            "created": 1780983024846
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-06-09T05:30:08.102000+00:00",
+        "last_moved_at": "2026-06-09T05:30:16.175000+00:00",
+        "published_date": "2026-06-02",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": true,
           "interest_score": 8
         }
       },
@@ -476,6 +509,28 @@
         }
       },
       {
+        "id": "01ktndd9cyk7mrv5btd8qg0bhk",
+        "url": "https://read.readwise.io/read/01ktndd9cyk7mrv5btd8qg0bhk",
+        "source_url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+        "title": "Domain Expertise Has Always Been the Real Moat",
+        "author": "brethorsting.com",
+        "image_url": "",
+        "word_count": 760,
+        "summary": "Writing code is now easier because AI can generate it without deep domain knowledge. The real challenge is knowing if the AI’s output is correct, which requires domain expertise. The most valuable people combine strong coding skills with deep understanding of the domain.",
+        "notes": "Via Wisereads vol.146",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-09T05:24:14.365000+00:00",
+        "last_moved_at": "2026-06-09T05:24:19.657000+00:00",
+        "published_date": "2026-05-30",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
+        }
+      },
+      {
         "id": "01ksq17ebymbxs264akq38pwm5",
         "url": "https://read.readwise.io/read/01ksq17ebymbxs264akq38pwm5",
         "source_url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
@@ -530,72 +585,6 @@
           "is_evergreen": true,
           "interest_score": 6
         }
-      },
-      {
-        "id": "01kgpxfr0rd5sezbhmv0szq1dt",
-        "url": "https://read.readwise.io/read/01kgpxfr0rd5sezbhmv0szq1dt",
-        "source_url": "https://mtlynch.io/good-developers-bad-tests/#test-code-is-not-like-other-code",
-        "title": "Why Good Developers Write Bad Unit Tests",
-        "author": "Michael Lynch",
-        "image_url": "https://mtlynch.io/good-developers-bad-tests/cover.jpg",
-        "word_count": 2167,
-        "summary": "Software developers often write bad unit tests by blindly applying production code rules to test code, leading to unnecessary complexity. Good unit tests should be simple, clear, and self-contained, enabling easy understanding and issue diagnosis without excessive abstraction. Naming tests effectively and avoiding unnecessary constants can help improve the quality of unit tests.",
-        "notes": "Via https://refactoringenglish.com/blog/software-essays-that-shaped-me/#-by-erik-kuefler-2014",
-        "tags": {
-          "testing": {
-            "name": "Testing",
-            "type": "manual",
-            "created": 1770295661004
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-05T12:47:28.280000+00:00",
-        "last_moved_at": "2026-02-05T12:47:33.361000+00:00",
-        "published_date": "2018-11-09",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 6
-        }
-      },
-      {
-        "id": "01khgxm5m5yjxwenjyyzezsfsg",
-        "url": "https://read.readwise.io/read/01khgxm5m5yjxwenjyyzezsfsg",
-        "source_url": "https://dashbit.co/blog/why-elixir-best-language-for-ai?utm_source=substack&utm_medium=email",
-        "title": "Why Elixir is the best language for AI",
-        "author": "José Valim",
-        "image_url": "",
-        "word_count": 1651,
-        "summary": "Elixir is the best language for AI because it is easy to understand, stable, and well-documented. Its features like immutability and clear data flow help both humans and AI models reason about code. Also, Elixir’s fast feedback, low complexity, and introspection tools make coding and debugging quicker and simpler.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1771168214302
-          },
-          "elixir": {
-            "name": "Elixir",
-            "type": "manual",
-            "created": 1771168217182
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1771168219865
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-15T15:10:08.516000+00:00",
-        "last_moved_at": "2026-02-15T15:10:12.335000+00:00",
-        "published_date": "2026-02-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 6
-        }
       }
     ],
     "shortest": [
@@ -625,28 +614,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
-        }
-      },
-      {
-        "id": "01kt127h2745wqrnyyk6pg2p6g",
-        "url": "https://read.readwise.io/read/01kt127h2745wqrnyyk6pg2p6g",
-        "source_url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
-        "title": "I Am Retiring from Tech to Live Offline",
-        "author": "Chad Whitacre",
-        "image_url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/social.webp",
-        "word_count": 19,
-        "summary": "AI took the last of the wind out of my Open Source sails. I wish you all the best!",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-01T07:44:02.631000+00:00",
-        "last_moved_at": "2026-06-01T07:44:21.131000+00:00",
-        "published_date": "2026-05-28",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 1
         }
       },
       {
@@ -696,6 +663,28 @@
           "is_tutorial": false,
           "is_foundational": false,
           "is_evergreen": true,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01ktndd9cyk7mrv5btd8qg0bhk",
+        "url": "https://read.readwise.io/read/01ktndd9cyk7mrv5btd8qg0bhk",
+        "source_url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+        "title": "Domain Expertise Has Always Been the Real Moat",
+        "author": "brethorsting.com",
+        "image_url": "",
+        "word_count": 760,
+        "summary": "Writing code is now easier because AI can generate it without deep domain knowledge. The real challenge is knowing if the AI’s output is correct, which requires domain expertise. The most valuable people combine strong coding skills with deep understanding of the domain.",
+        "notes": "Via Wisereads vol.146",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-09T05:24:14.365000+00:00",
+        "last_moved_at": "2026-06-09T05:24:19.657000+00:00",
+        "published_date": "2026-05-30",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
           "interest_score": 7
         }
       },
@@ -1403,6 +1392,28 @@
         }
       },
       {
+        "id": "01ktndd9cyk7mrv5btd8qg0bhk",
+        "url": "https://read.readwise.io/read/01ktndd9cyk7mrv5btd8qg0bhk",
+        "source_url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+        "title": "Domain Expertise Has Always Been the Real Moat",
+        "author": "brethorsting.com",
+        "image_url": "",
+        "word_count": 760,
+        "summary": "Writing code is now easier because AI can generate it without deep domain knowledge. The real challenge is knowing if the AI’s output is correct, which requires domain expertise. The most valuable people combine strong coding skills with deep understanding of the domain.",
+        "notes": "Via Wisereads vol.146",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-09T05:24:14.365000+00:00",
+        "last_moved_at": "2026-06-09T05:24:19.657000+00:00",
+        "published_date": "2026-05-30",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
+        }
+      },
+      {
         "id": "01ksq17ebymbxs264akq38pwm5",
         "url": "https://read.readwise.io/read/01ksq17ebymbxs264akq38pwm5",
         "source_url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
@@ -1506,28 +1517,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
-        }
-      },
-      {
-        "id": "01kt127h2745wqrnyyk6pg2p6g",
-        "url": "https://read.readwise.io/read/01kt127h2745wqrnyyk6pg2p6g",
-        "source_url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
-        "title": "I Am Retiring from Tech to Live Offline",
-        "author": "Chad Whitacre",
-        "image_url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/social.webp",
-        "word_count": 19,
-        "summary": "AI took the last of the wind out of my Open Source sails. I wish you all the best!",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-01T07:44:02.631000+00:00",
-        "last_moved_at": "2026-06-01T07:44:21.131000+00:00",
-        "published_date": "2026-05-28",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 1
         }
       }
     ],
@@ -2652,6 +2641,39 @@
         }
       },
       {
+        "id": "01ktndr2v6nrwd97jy43v36sza",
+        "url": "https://read.readwise.io/read/01ktndr2v6nrwd97jy43v36sza",
+        "source_url": "https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets",
+        "title": "How Servers Work: A Hands-On Introduction to TCP Sockets",
+        "author": "Ivan Velichko",
+        "image_url": "https://labs.iximiuz.com/content/files/tutorials/how-servers-work-tcp-sockets/__static__/berkeley-sockets-api-rev2.png",
+        "word_count": 3616,
+        "summary": "A TCP server communicates by sending and receiving data over network connections called sockets. TCP ensures reliable and ordered delivery of data between clients and servers using ports and connections. The article explains how to build a simple TCP server and client in Python using sockets to send and receive data.",
+        "notes": "",
+        "tags": {
+          "theory": {
+            "name": "Theory",
+            "type": "manual",
+            "created": 1780983031044
+          },
+          "network": {
+            "name": "Network",
+            "type": "manual",
+            "created": 1780983024846
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-06-09T05:30:08.102000+00:00",
+        "last_moved_at": "2026-06-09T05:30:16.175000+00:00",
+        "published_date": "2026-06-02",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 8
+        }
+      },
+      {
         "id": "01k7z3amqe376ky08bkmjbnp3v",
         "url": "https://read.readwise.io/read/01k7z3amqe376ky08bkmjbnp3v",
         "source_url": "https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email",
@@ -2957,6 +2979,39 @@
         "saved_at": "2026-05-18T04:23:19.290000+00:00",
         "last_moved_at": "2026-05-18T04:23:21.837000+00:00",
         "published_date": "2025-03-24",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01ktndr2v6nrwd97jy43v36sza",
+        "url": "https://read.readwise.io/read/01ktndr2v6nrwd97jy43v36sza",
+        "source_url": "https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets",
+        "title": "How Servers Work: A Hands-On Introduction to TCP Sockets",
+        "author": "Ivan Velichko",
+        "image_url": "https://labs.iximiuz.com/content/files/tutorials/how-servers-work-tcp-sockets/__static__/berkeley-sockets-api-rev2.png",
+        "word_count": 3616,
+        "summary": "A TCP server communicates by sending and receiving data over network connections called sockets. TCP ensures reliable and ordered delivery of data between clients and servers using ports and connections. The article explains how to build a simple TCP server and client in Python using sockets to send and receive data.",
+        "notes": "",
+        "tags": {
+          "theory": {
+            "name": "Theory",
+            "type": "manual",
+            "created": 1780983031044
+          },
+          "network": {
+            "name": "Network",
+            "type": "manual",
+            "created": 1780983024846
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-06-09T05:30:08.102000+00:00",
+        "last_moved_at": "2026-06-09T05:30:16.175000+00:00",
+        "published_date": "2026-06-02",
         "triage": {
           "is_tutorial": true,
           "is_foundational": true,
@@ -3854,6 +3909,28 @@
         }
       },
       {
+        "id": "01ktndd9cyk7mrv5btd8qg0bhk",
+        "url": "https://read.readwise.io/read/01ktndd9cyk7mrv5btd8qg0bhk",
+        "source_url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+        "title": "Domain Expertise Has Always Been the Real Moat",
+        "author": "brethorsting.com",
+        "image_url": "",
+        "word_count": 760,
+        "summary": "Writing code is now easier because AI can generate it without deep domain knowledge. The real challenge is knowing if the AI’s output is correct, which requires domain expertise. The most valuable people combine strong coding skills with deep understanding of the domain.",
+        "notes": "Via Wisereads vol.146",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-09T05:24:14.365000+00:00",
+        "last_moved_at": "2026-06-09T05:24:19.657000+00:00",
+        "published_date": "2026-05-30",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
+        }
+      },
+      {
         "id": "01kss3z202cdpsj7w0ybjycdj0",
         "url": "https://read.readwise.io/read/01kss3z202cdpsj7w0ybjycdj0",
         "source_url": "https://shvbsle.in/various-llm-smells/",
@@ -4219,28 +4296,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
-        }
-      },
-      {
-        "id": "01kt127h2745wqrnyyk6pg2p6g",
-        "url": "https://read.readwise.io/read/01kt127h2745wqrnyyk6pg2p6g",
-        "source_url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
-        "title": "I Am Retiring from Tech to Live Offline",
-        "author": "Chad Whitacre",
-        "image_url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/social.webp",
-        "word_count": 19,
-        "summary": "AI took the last of the wind out of my Open Source sails. I wish you all the best!",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-01T07:44:02.631000+00:00",
-        "last_moved_at": "2026-06-01T07:44:21.131000+00:00",
-        "published_date": "2026-05-28",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 1
         }
       }
     ]
