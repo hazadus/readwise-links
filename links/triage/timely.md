@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-06-10 04:42 UTC · Статей: 20
+Сгенерировано: 2026-06-11 04:43 UTC · Статей: 21
 
 ## Статьи
 
@@ -50,6 +50,9 @@ Open source maintainers should focus on practical, small- to medium-scale projec
 - [2025 in review](https://www.loopwerk.io/articles/2025/2025-in-review/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) [📖](https://read.readwise.io/read/01kczwvew6dftm8phypwzjqxd2) 👤 Kevin Renskers 💬 1411 ⭐ 2 🔖 #shortlist 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/69479f95-3aa4-8328-8855-b64bb19cc6d2
     > **Резюме:** 2025 was a productive year: I wrote 38 articles, grew site traffic a lot, and released several open-source Django projects. In November my girlfriend and her daughter were in a serious car crash, so I’ve been caring for them and our dog. I started using AI cautiously, did freelance work for Sound Radix, and enjoyed trips, concerts, and games.
+- [the solution might be cancelling my AI subscription](https://thoughts.hmmz.org/2026-05-31.html) [📖](https://read.readwise.io/read/01ktndj64tqep1mx6asgtfwwt3) 👤 hmmz.org 💬 1148 ⭐ 2 🗓️ 2026-06-09
+    > **Заметка:** Via Wisereads Vol.146
+    > **Резюме:** The author built many AI projects but finds them mostly useless and hard to maintain. AI tools increase distraction and shallow work, hurting real focus and productivity. To manage this, the author thinks limiting AI use is the best way forward.
 - [My audio interface has ssh enabled by default](https://hhh.hn/rodecaster-duo-fw/) [📖](https://read.readwise.io/read/01kq1zx0r4n33srh7vqaawdkzh) 👤 hhh.hn 💬 933 ⭐ 2 🗓️ 2026-04-25
     > **Заметка:** Via HackerNews
     > **Резюме:** The author bought a Rodecaster Duo for better audio during gaming and found it easy to use. They discovered the device has SSH enabled by default and allows easy firmware updates without signature checks. The author created custom firmware to access the device via SSH and reported the security concern to Rode.

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T04:42:11.808321+00:00",
+  "generated_at": "2026-06-11T04:43:28.680465+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -703,6 +703,28 @@
         "saved_at": "2026-04-25T09:35:30.052000+00:00",
         "last_moved_at": "2026-04-25T09:35:32.366000+00:00",
         "published_date": "2026-04-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01ktndj64tqep1mx6asgtfwwt3",
+        "url": "https://read.readwise.io/read/01ktndj64tqep1mx6asgtfwwt3",
+        "source_url": "https://thoughts.hmmz.org/2026-05-31.html",
+        "title": "the solution might be cancelling my AI subscription",
+        "author": "hmmz.org",
+        "image_url": "",
+        "word_count": 1148,
+        "summary": "The author built many AI projects but finds them mostly useless and hard to maintain. AI tools increase distraction and shallow work, hurting real focus and productivity. To manage this, the author thinks limiting AI use is the best way forward.",
+        "notes": "Via Wisereads Vol.146",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-09T05:26:54.873000+00:00",
+        "last_moved_at": "2026-06-09T05:26:58.035000+00:00",
+        "published_date": "2026-05-31",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -4241,6 +4263,28 @@
         "saved_at": "2025-12-21T07:26:46.150000+00:00",
         "last_moved_at": "2025-12-21T07:27:02.118000+00:00",
         "published_date": "2025-12-17",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01ktndj64tqep1mx6asgtfwwt3",
+        "url": "https://read.readwise.io/read/01ktndj64tqep1mx6asgtfwwt3",
+        "source_url": "https://thoughts.hmmz.org/2026-05-31.html",
+        "title": "the solution might be cancelling my AI subscription",
+        "author": "hmmz.org",
+        "image_url": "",
+        "word_count": 1148,
+        "summary": "The author built many AI projects but finds them mostly useless and hard to maintain. AI tools increase distraction and shallow work, hurting real focus and productivity. To manage this, the author thinks limiting AI use is the best way forward.",
+        "notes": "Via Wisereads Vol.146",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-09T05:26:54.873000+00:00",
+        "last_moved_at": "2026-06-09T05:26:58.035000+00:00",
+        "published_date": "2026-05-31",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
