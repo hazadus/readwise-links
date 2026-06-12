@@ -1,9 +1,18 @@
 # Ссылки
 
-- Всего ссылок: 77
+- Всего ссылок: 78
 
 ## Ссылки
 
+- [Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/) [📖](https://read.readwise.io/read/01ktj1brkrqjnbp75pwcneq7ff) 👤 seangoedecke.com RSS feed 💬 1964 🔖 #career 🗓️ 2026-06-07
+    > **Резюме:** Many engineers should be doing less work. I don’t necessarily mean producing less code or fewer changes, but literally working fewer hours in the day. When they do work, they should be working at a slower pace. I like to aim to be running at 80% utilization by default: unless I have a high-pressure project going on, I spend 20% of my workday away from the computer.
+High-impact opportunities
+Why? Performance at tech companies is dominated by outlier events. When I think about the most impactful changes I’ve made, many of them involved a surprisingly trivial amount of work. There are no points for effort in software development. What matters is solving the right problem at the right time.
+In large engineering organizations, there are usually trivial pieces of engineering work you could do that would make tens or hundreds of millions of dollars for the company. Here are three common examples:
+First, when the company is trying to sign a big enterprise deal, stepping in with a feature or bugfix can make the deal happen. It doesn’t even have to be a good feature: sometimes just showing that you’re willing and able to make a concrete change will be enough.
+Second, preventing or mitigating an incident early (even by just knowing the right feature flag to turn off) can save huge amounts of money: both immediate lost revenue during the incident and future lost revenue from customers who would have pulled their business or refused to sign pending contracts.
+Third, when the company is trying to ship a high-profile feature, success or failure often hinges on trivial but obscure changes (e.g. the ability to rapidly add a new field in user settings, or to update the crufty enterprise-data-export functionality nobody has touched in years). Familiarity with the system can be the difference between one of these changes taking a few hours or a whole week.
+What do these examples have in common? They’re all time-dependent. You can’t just log on in the morning and decide to unblock a ...
 - [Why I don't like the "staff engineer archetypes"](https://seangoedecke.com/staff-engineer-archetypes/) [📖](https://read.readwise.io/read/01kqpaevrqq8w9r39cnjbpyqne) 👤 seangoedecke.com RSS feed 💬 1426 🔖 #career 🗓️ 2026-05-03
     > **Заметка:** Sean Goedecke крутой, но последние посты чёт скучные. 
     > **Резюме:** The most influential piece of writing about staff engineers in the last decade has to be Will Larson’s Staff engineer archetypes. He argues that the “staff engineer” title covers at least four very different roles: the team lead, the architect, the solver, and the right hand. This taxonomy gets cited a lot as advice for people who are trying to become effective staff engineers. For both of my promotions to staff engineer, my manager at the time linked me to the “staff engineer archetypes” and asked me to consider which of these archetypes I was aiming towards.

@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 454
+- Всего ссылок: 456
 
 ## Ссылки
 
+- [Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything) [📖](https://read.readwise.io/read/01ktqdh4fjfnv9gwdagtz98rn6) 👤 Simon Willison's Weblog 💬 1862 🔖 #llm, #claude 🗓️ 2026-06-10
+    > **Резюме:** Claude Fable 5 is a large and powerful AI model with a huge knowledge base and strong safety features. It works well for coding tasks and integrates smoothly with tools like Datasette Agent. The author was impressed by its capabilities and used it extensively during the day.
+- [Build agents, not pipelines](https://seangoedecke.com/build-agents-not-pipelines/) [📖](https://read.readwise.io/read/01ksy73mnt3a7pj9t0nesv8jmq) 👤 seangoedecke.com RSS feed 💬 2249 🔖 #llm, #agents 🗓️ 2026-05-31
+    > **Резюме:** There are two main ways to use large language models: pipelines and agents. Pipelines are predictable and good for small context, while agents are smarter and better for hard problems. When unsure, it’s usually best to choose agents because they handle complex tasks more flexibly.
 - [Clanker: A Word For The Machine](https://lucumr.pocoo.org/2026/5/26/clankers/) [📖](https://read.readwise.io/read/01ksj7vq42nw5sbtgn8rz3ky2v) 👤 Armin Ronacher 💬 1969 🔖 #llm, #definitions, #llm-reality 🗓️ 2026-05-26
     > **Резюме:** In my last post I used the word “clanker” as an
 alternative to “agent” quite consistently and probably excessively.  That choice

@@ -1,11 +1,15 @@
 # Архивные ссылки
 
-- Всего ссылок: 1726
+- Всего ссылок: 1730
 
 ## Ссылки
 
+- [Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything) [📖](https://read.readwise.io/read/01ktqdh4fjfnv9gwdagtz98rn6) 👤 Simon Willison's Weblog 💬 1862 🔖 #llm, #claude 🗓️ 2026-06-10
+- [Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/) [📖](https://read.readwise.io/read/01ktj1brkrqjnbp75pwcneq7ff) 👤 seangoedecke.com RSS feed 💬 1964 🔖 #career 🗓️ 2026-06-07
 - [Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) [📖](https://read.readwise.io/read/01kt8htz0wj55q2z8rj1sve36n) 👤 seangoedecke.com RSS feed 💬 1787 🔖 #llm-devimpact 🗓️ 2026-06-04
+- [Weird projects I shipped with AI](https://seangoedecke.com/weird-projects-i-shipped-with-ai/) [📖](https://read.readwise.io/read/01kt13t8b6b636rzmnyds3thr6) 👤 seangoedecke.com RSS feed 💬 1002 🔖 #llm-devimpact 🗓️ 2026-06-01
 - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) [📖](https://read.readwise.io/read/01kt127h2745wqrnyyk6pg2p6g) 👤 Chad Whitacre 💬 19 🗓️ 2026-06-01
+- [Build agents, not pipelines](https://seangoedecke.com/build-agents-not-pipelines/) [📖](https://read.readwise.io/read/01ksy73mnt3a7pj9t0nesv8jmq) 👤 seangoedecke.com RSS feed 💬 2249 🔖 #llm, #agents 🗓️ 2026-05-31
 - [Github and the Crime Against Software](https://eblog.fly.dev/githubbad.html) [📖](https://read.readwise.io/read/01ksv133sk5gfz7fsh0bqn5403) 👤 eblog: software articles by efron licht 💬 350 🔖 #github 🗓️ 2026-05-29
     > **Заметка:** Чего ныть, если GitHub представляет ОГРОМНЫЕ возможности, БЕСПЛАТНО? Поднимай свой собственный инстанс GitLab, и радуйся, если такой умный)
 - [Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/) [📖](https://read.readwise.io/read/01kspgc0nwdecnkzm23he5m6g8) 👤 Terrible Software 💬 862 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-05-28

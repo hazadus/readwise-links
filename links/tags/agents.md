@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 17
+- Всего ссылок: 18
 
 ## Ссылки
 
+- [Build agents, not pipelines](https://seangoedecke.com/build-agents-not-pipelines/) [📖](https://read.readwise.io/read/01ksy73mnt3a7pj9t0nesv8jmq) 👤 seangoedecke.com RSS feed 💬 2249 🔖 #llm, #agents 🗓️ 2026-05-31
+    > **Резюме:** There are two main ways to use large language models: pipelines and agents. Pipelines are predictable and good for small context, while agents are smarter and better for hard problems. When unsure, it’s usually best to choose agents because they handle complex tasks more flexibly.
 - [Exploratory QA with AI Agents: Building a Site-Agnostic Harness](https://alexop.dev/posts/exploratory-qa-ai-agents-site-agnostic-harness/) [📖](https://read.readwise.io/read/01kpkpxp6w1s029akh17na8pr0) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2529 🔖 #codex, #agents, #claude, #testing, #frontend 🗓️ 2026-04-19
     > **Резюме:** A thin Bun runner that hands a coding agent one charter and lets it drive a real browser through an exploratory QA session. Works with Claude, Codex, or Copilot, and any browser CLI.
 - [The Coding Agent Is Dead](https://ampcode.com/news/the-coding-agent-is-dead) [📖](https://read.readwise.io/read/01khx7vvj0zfqafa3zdc15w7mc) 👤 ampcode.com 💬 546 🔖 #amp, #llm, #agents, #predictions 🗓️ 2026-02-20

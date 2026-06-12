@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 949
+- Всего ссылок: 950
 
 ## Ссылки
 
+- [Компьютерное зрение на коленке: распознаем дорожные знаки и управляем роботом на ESP32 и Arduino](https://habr.com/ru/companies/bhv_publishing/articles/1044934/?__readwiseLocation=) [📖](https://read.readwise.io/read/01kttrbghnr17q50hx8jysgm65) 👤 Shish1914 💬 3030 🔖 #esp32 🗓️ 2026-06-11
 - [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/) [📖](https://read.readwise.io/read/01ktkknvzzgagx1vyeq1dhma9j) 👤 Corrode Rust Consulting 💬 3275 🔖 #rust 🗓️ 2026-06-08
 - [RFC 760:  DoD standard Internet Protocol](https://www.rfc-editor.org/rfc/rfc760.html) [📖](https://read.readwise.io/read/01krx09xj8hcm7v3rjp101ed5b) 👤 rfc-editor.org 💬 9170 🗓️ 2026-05-18
 - [User Datagram Protocol](https://www.rfc-editor.org/rfc/rfc768.html) [📖](https://read.readwise.io/read/01krx087mtr0hb1cqabm06brje) 👤 J. Postel 💬 458 🗓️ 2026-05-18

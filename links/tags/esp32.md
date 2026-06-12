@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 2
+- Всего ссылок: 3
 
 ## Ссылки
 
+- [Компьютерное зрение на коленке: распознаем дорожные знаки и управляем роботом на ESP32 и Arduino](https://habr.com/ru/companies/bhv_publishing/articles/1044934/?__readwiseLocation=) [📖](https://read.readwise.io/read/01kttrbghnr17q50hx8jysgm65) 👤 Shish1914 💬 3030 🔖 #esp32 🗓️ 2026-06-11
+    > **Резюме:** Автор рассказывает, как использовать ESP32-CAM для распознавания дорожных знаков и управлять роботом на Arduino. Проект работает локально, без облаков, и использует нейросети, обученные на своих фото. Это простой и доступный способ создать умное устройство с искусственным интеллектом.
 - [Courier: real-time messaging for ESP32 with batteries included (new library)](https://interconnected.org/home/2026/04/21/courier) [📖](https://read.readwise.io/read/01kpx8339m6cx9jbj00p2st6qx) 👤 Interconnected 💬 859 🔖 #try, #esp32 🗓️ 2026-04-23
     > **Заметка:** Нужно пробовать и прошивку из поста, и девайс!
     > **Резюме:** Courier is a new library that makes real-time messaging easy on ESP32 devices using JSON over websockets. It includes built-in Wi-Fi setup, automatic reconnects, and time sync to keep connections stable. Many developers use Courier with popular ESP32 gadgets like the M5Stick to quickly build interactive hardware projects.

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 35
+- Всего ссылок: 36
 
 ## Ссылки
 
+- [Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything) [📖](https://read.readwise.io/read/01ktqdh4fjfnv9gwdagtz98rn6) 👤 Simon Willison's Weblog 💬 1862 🔖 #llm, #claude 🗓️ 2026-06-10
+    > **Резюме:** Claude Fable 5 is a large and powerful AI model with a huge knowledge base and strong safety features. It works well for coding tasks and integrates smoothly with tools like Datasette Agent. The author was impressed by its capabilities and used it extensively during the day.
 - [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything) [📖](https://read.readwise.io/read/01ksn4vhwsgyrvafw6wt3dkppp) 👤 Simon Willison's Weblog 💬 1753 🔖 #codex, #claude 🗓️ 2026-05-27
     > **Заметка:** Яркий пример зависимости компаний от инструментов - цены внезапно подняли, и делай теперь что хочешь.
     > **Резюме:** Anthropic and OpenAI have found product-market fit with their coding agent products, leading to increased enterprise spending. New pricing models now charge companies based on API usage, reflecting real value and driving revenue growth. This shift marks a key moment as these AI firms prepare for IPOs and scale their business.

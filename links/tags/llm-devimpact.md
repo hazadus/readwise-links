@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 125
+- Всего ссылок: 126
 
 ## Ссылки
 
 - [Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) [📖](https://read.readwise.io/read/01kt8htz0wj55q2z8rj1sve36n) 👤 seangoedecke.com RSS feed 💬 1787 🔖 #llm-devimpact 🗓️ 2026-06-04
     > **Резюме:** Some people who dislike AI want to return to the old way of programming, but this nostalgia can mirror harmful ideas from the past. The author warns that such thinking can echo fascist beliefs about tradition and purity. However, AI also helps many people, and it’s important to see both its good and bad sides.
+- [Weird projects I shipped with AI](https://seangoedecke.com/weird-projects-i-shipped-with-ai/) [📖](https://read.readwise.io/read/01kt13t8b6b636rzmnyds3thr6) 👤 seangoedecke.com RSS feed 💬 1002 🔖 #llm-devimpact 🗓️ 2026-06-01
+    > **Резюме:** The author built many small, unusual projects using AI to help write code and save time. These projects include a SkiFree game, an automatic Anki card generator, and an offline plant database. AI made these projects possible and faster to create, showing how AI boosts productivity even without a flood of new big apps.
 - [Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/) [📖](https://read.readwise.io/read/01kspgc0nwdecnkzm23he5m6g8) 👤 Terrible Software 💬 862 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-05-28
     > **Заметка:** В копилку здравых взглядов на использование LLM. Не понимаешь - не выкатывай!
     > **Резюме:** The author admits they relied too much on AI to fix a bug without understanding the problem themselves. They warn that using AI this way can make engineers lose important skills and judgment. The author now follows a strict rule: they must understand and explain every change before shipping it.
