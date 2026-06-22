@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [Choosing to Stay Human](https://www.oneusefulthing.org/p/choosing-to-stay-human) [📖](https://read.readwise.io/read/01ksjxveh7rdkqsve1c4x151pe) 👤 Ethan Mollick 💬 1832 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26
+- [Choosing to Stay Human](https://www.oneusefulthing.org/p/choosing-to-stay-human) [📖](https://read.readwise.io/read/01ksjxveh7rdkqsve1c4x151pe) 👤 Ethan Mollick 💬 1831 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26
     > **Резюме:** AI writing is everywhere, but relying on it too much can hurt our ability to think and learn deeply. Using AI as a tool to help us learn and create is good, but letting it do all the work causes "cognitive surrender." We must choose carefully what to do ourselves and what to let AI handle to keep our skills and meaning alive.
 - [Technical Writing in the AI Age](https://css-tricks.com/technical-writing-in-the-ai-age/) [📖](https://read.readwise.io/read/01ksj8ybhvk6w07nax99narzd9) 👤 Geoff Graham 💬 2483 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26
     > **Резюме:** Technical writing is changing because AI can now do some tasks people used to do. Humans still need clear, helpful explanations that AI can’t provide. Writers should focus on sharing real experiences and helping others learn step-by-step.

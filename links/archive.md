@@ -21,7 +21,7 @@
     > **Заметка:** Яркий пример зависимости компаний от инструментов - цены внезапно подняли, и делай теперь что хочешь.
 - [Leave Me Behind](https://androidessence.com/leave-me-behind/?utm_source=tldrdev#) [📖](https://read.readwise.io/read/01kskwsktqjtny0tr3x79gb74w) 👤 Adam McNeilly 💬 1621 🔖 #learning, #reflections, #llm-devimpact, #llm-resistance 🗓️ 2026-05-27
     > **Заметка:** Последнее время чаще стали такие взгляды попадаться, это радует.   Via TLDR Newsletter.
-- [Choosing to Stay Human](https://www.oneusefulthing.org/p/choosing-to-stay-human) [📖](https://read.readwise.io/read/01ksjxveh7rdkqsve1c4x151pe) 👤 Ethan Mollick 💬 1832 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26
+- [Choosing to Stay Human](https://www.oneusefulthing.org/p/choosing-to-stay-human) [📖](https://read.readwise.io/read/01ksjxveh7rdkqsve1c4x151pe) 👤 Ethan Mollick 💬 1831 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26
 - [Technical Writing in the AI Age](https://css-tricks.com/technical-writing-in-the-ai-age/) [📖](https://read.readwise.io/read/01ksj8ybhvk6w07nax99narzd9) 👤 Geoff Graham 💬 2483 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26
 - [Clanker: A Word For The Machine](https://lucumr.pocoo.org/2026/5/26/clankers/) [📖](https://read.readwise.io/read/01ksj7vq42nw5sbtgn8rz3ky2v) 👤 Armin Ronacher 💬 1969 🔖 #llm, #definitions, #llm-reality 🗓️ 2026-05-26
 - [Pluralistic: The AI bubble isn't like the internet bubble (26 May 2026)](https://pluralistic.net/2026/05/26/the-ai-will-continue/) [📖](https://read.readwise.io/read/01kshv93z62r1y923xvff1y9ys) 👤 Cory Doctorow 💬 2634 🔖 #llm-resistance 🗓️ 2026-05-26
@@ -189,13 +189,13 @@ Via Readwise newsletter, Via JoyAndCuriosity
 
 Via TLDR
 - [DeepSeek V4 - almost on the frontier, a fraction of the price](https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything) [📖](https://read.readwise.io/read/01kpz1vrr4ex8xp5kw8d61ydxc) 👤 Simon Willison's Weblog 💬 559 🔖 #llm 🗓️ 2026-04-24
-- [Introducing Tolaria 💧](https://refactoring.fm/p/introducing-tolaria) [📖](https://read.readwise.io/read/01kpz1nsqns3nkqhnwxcmzpah3) 👤 Luca Rossi 💬 2679 🔖 #pkm, #markdown, #obsidian 🗓️ 2026-04-24
+- [Introducing Tolaria 💧](https://refactoring.fm/p/introducing-tolaria) [📖](https://read.readwise.io/read/01kpz1nsqns3nkqhnwxcmzpah3) 👤 Luca Rossi 💬 2630 🔖 #pkm, #markdown, #obsidian 🗓️ 2026-04-24
     > **Заметка:** Выглядит интересно. Чувствуется, что автор не просто навайбкодил очередную поделку, а тщательно всё продумал.
 
 Установил, попробую поработать в ней с заметками с основной работы. Послежу за развитием - не забросит ли её автор в ближайшее время?
 
 Via HackerNews
-- [Sign of the future: GPT-5.5](https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55) [📖](https://read.readwise.io/read/01kpxz29xms7005qe2ssdpsh0s) 👤 Ethan Mollick 💬 1539 🔖 #llm 🗓️ 2026-04-23
+- [Sign of the future: GPT-5.5](https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55) [📖](https://read.readwise.io/read/01kpxz29xms7005qe2ssdpsh0s) 👤 Ethan Mollick 💬 1532 🔖 #llm 🗓️ 2026-04-23
     > **Заметка:** Уж очень сильно автор нахваливает новую модель, очень подозрительно.
 - [The Pulse: ‘Tokenmaxxing’ as a weird new trend](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/) [📖](https://read.readwise.io/read/01kpxsckj3veyzbhy69y9dhzyc) 👤 Gergely Orosz 💬 1993 🔖 #llm, #definitions, #llm-devimpact 🗓️ 2026-04-23
     > **Заметка:** Думается, когда волна хайпа спадёт, все придут к спокойному использованию LLM-инструментов – а не показному завышению объёмов их использования. 

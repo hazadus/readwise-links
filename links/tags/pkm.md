@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [Introducing Tolaria 💧](https://refactoring.fm/p/introducing-tolaria) [📖](https://read.readwise.io/read/01kpz1nsqns3nkqhnwxcmzpah3) 👤 Luca Rossi 💬 2679 🔖 #pkm, #markdown, #obsidian 🗓️ 2026-04-24
+- [Introducing Tolaria 💧](https://refactoring.fm/p/introducing-tolaria) [📖](https://read.readwise.io/read/01kpz1nsqns3nkqhnwxcmzpah3) 👤 Luca Rossi 💬 2630 🔖 #pkm, #markdown, #obsidian 🗓️ 2026-04-24
     > **Заметка:** Выглядит интересно. Чувствуется, что автор не просто навайбкодил очередную поделку, а тщательно всё продумал.
 
 Установил, попробую поработать в ней с заметками с основной работы. Послежу за развитием - не забросит ли её автор в ближайшее время?
