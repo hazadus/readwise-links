@@ -1,9 +1,19 @@
 # Ссылки
 
-- Всего ссылок: 51
+- Всего ссылок: 52
 
 ## Ссылки
 
+- [WWDC 2026 First Thoughts](https://troz.net/post/2026/wwdc2026_first_thoughts/) [📖](https://read.readwise.io/read/01kvjzt2t19b5j7h842msbzmks) 👤 Sarah Reichelt 💬 1015 🔖 #macos 🗓️ 2026-06-20
+    > **Резюме:** Most years, I am deeply interested in what happens at Apple's Worldwide Developer Conference and what is announced. This year, I am on holiday in the depths of rural Queensland, Australia with very limited connectivity. At least this meant that I didn't have to wake at 3 am to watch the keynote like I usually do, although I have to confess that I wasn't that excited for this year's announcements anyway.
+Thank you to everyone who posted their reactions on Mastodon as that enabled me to keep up with the major features.
+I've now managed to watch most of the keynote, so I have some preliminary thoughts. I have watched none of the session videos, so deeper analysis, especially with regard to my beloved Mac app development sphere, will have to wait.
+The keynote had three main sections: platform improvements, child safety and of course, AI.
+Platform Improvements
+We developers refer to these as bug fixes and I'm delighted to see that Apple is paying some attention to such issues. Without actually apologizing for the Liquid Glass debacle, Apple came closer than I ever expected. When you hear phrases like "we do this by listening to users and developers" and "our team really appreciates your feedback and considers it deeply", you'd be forgiven for wondering if this was coming from Apple at all.
+It's clear that this is a Snow Leopard year, and before people jump up and down to tell me that Snow Leopard wasn't actually what we all think it is, in the Apple community the term Snow Leopard has come to mean a release that has fewer new features and more attention to fixes.
+The most important change is that Apple has realized that having control text overlapping content text makes both unreadable, so they are dialling back Liquid Glass in several ways. First, there's a slider for adjusting how much transparency you want. I will be fascinated to see any data showing the distribution of settings for this. I expect to have it at or near 100% opaque.
+Next, in Mac apps at least, the ...
 - [Settings, preferences and defaults](https://eclecticlight.co/2026/05/19/settings-preferences-and-defaults/) [📖](https://read.readwise.io/read/01krzf75d1xh48n0mwhqnmg33x) 👤 hoakley 💬 1304 🔖 #macos 🗓️ 2026-05-19
     > **Заметка:** Полезная команда `defaults` для просмотра всех настроек приложения.
     > **Резюме:** Mac apps store settings in preference files managed by a system called cfprefsd for easy access and saving. To safely change these settings, use the defaults command or a special editor that works with cfprefsd. Avoid editing preference files directly unless sure no app is running, and never paste unknown commands into Terminal.

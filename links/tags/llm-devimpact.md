@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 127
+- Всего ссылок: 128
 
 ## Ссылки
 
+- [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against) [📖](https://read.readwise.io/read/01kvq3etnf8dn7vdjvds0xp00q) 👤 Charity Majors 💬 3287 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-06-22
+    > **Резюме:** AI fans and skeptics both face real challenges that threaten their teams and companies. To succeed, they must share honest stories about AI’s benefits and costs and work together like engineers solving problems. Trust, discipline, and clear communication are key to using AI well without burning out people or losing customers.
 - [The "I don't know, Claude wrote this" pandemic](https://newsletter.manager.dev/p/the-i-don-t-know-claude-wrote-this-pandemic) [📖](https://read.readwise.io/read/01kv7qtfqw8fbb8emgdwy29mtg) 👤 Anton Zaides 💬 1252 🔖 #llm-devimpact 🗓️ 2026-06-16
     > **Резюме:** When Claude drives you off the cliff
 - [Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) [📖](https://read.readwise.io/read/01kt8htz0wj55q2z8rj1sve36n) 👤 seangoedecke.com RSS feed 💬 1787 🔖 #llm-devimpact 🗓️ 2026-06-04
@@ -183,7 +185,7 @@ Via TLDR
     > **Резюме:** Hacker News is simple software but its real value comes from a unique, long-built community and trust. Anyone can copy the code quickly, but no one can copy the years of social capital and user habits. Success in software is not about building fast, but about gaining users, trust, and lasting engagement.
 - [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) [📖](https://read.readwise.io/read/01knp9f4rgqj2ket2f9t34hv69) 👤 Wouter Groeneveld 💬 2840 🔖 #learning, #llm-devimpact, #llm-resistance 🗓️ 2026-04-08
     > **Резюме:** Generative AI is changing how we work, learn, and create, but it often makes us less skilled and less thoughtful. It can speed up tasks but also lowers the quality and originality of what we produce. We should use it carefully, or risk losing important human creativity and responsibility.
-- [Cycles of disruption in the tech industry: with software pioneers Kent Beck & Martin Fowler](https://newsletter.pragmaticengineer.com/p/cycles-of-disruption-in-the-tech) [📖](https://read.readwise.io/read/01knmcen01kwvft2r3939y01jn) 👤 Gergely Orosz 💬 2527 🔖 #llm-devimpact 🗓️ 2026-04-07
+- [Cycles of disruption in the tech industry: with software pioneers Kent Beck & Martin Fowler](https://newsletter.pragmaticengineer.com/p/cycles-of-disruption-in-the-tech) [📖](https://read.readwise.io/read/01knmcen01kwvft2r3939y01jn) 👤 Gergely Orosz 💬 2359 🔖 #llm-devimpact 🗓️ 2026-04-07
     > **Резюме:** AI is causing big changes in software like past tech shifts, but it also brings new challenges and fears. Many hope AI will make programming faster and cheaper, yet some worry it could replace programmers. Experts say teamwork in coding may decline as more solo work returns, and using methods like TDD helps keep quality high.
 - [Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) [📖](https://read.readwise.io/read/01kn9bhecn4jqa6kfyy7bwrm9v) 👤 seangoedecke.com RSS feed 💬 1545 🔖 #llm, #llm-devimpact 🗓️ 2026-04-03
     > **Резюме:** Programming is mainly about building a mental model or "theory" of how the code works, not just writing code. AI tools can help by handling details, but programmers still need to check if the AI's work fits their understanding. AI agents can create and test their own theories, but they struggle to remember them over time, which limits their effectiveness.

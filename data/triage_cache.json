@@ -1104,6 +1104,18 @@
       "is_foundational": false,
       "is_evergreen": false,
       "interest_score": 2
+    },
+    "01kvq3etnf8dn7vdjvds0xp00q": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 2
+    },
+    "01kvq2y4rrr7fwfss7n17wh9qw": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 7
     }
   }
 }

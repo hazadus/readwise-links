@@ -1,9 +1,10 @@
 # Архивные ссылки
 
-- Всего ссылок: 1731
+- Всего ссылок: 1732
 
 ## Ссылки
 
+- [WWDC 2026 First Thoughts](https://troz.net/post/2026/wwdc2026_first_thoughts/) [📖](https://read.readwise.io/read/01kvjzt2t19b5j7h842msbzmks) 👤 Sarah Reichelt 💬 1015 🔖 #macos 🗓️ 2026-06-20
 - [The "I don't know, Claude wrote this" pandemic](https://newsletter.manager.dev/p/the-i-don-t-know-claude-wrote-this-pandemic) [📖](https://read.readwise.io/read/01kv7qtfqw8fbb8emgdwy29mtg) 👤 Anton Zaides 💬 1252 🔖 #llm-devimpact 🗓️ 2026-06-16
 - [Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything) [📖](https://read.readwise.io/read/01ktqdh4fjfnv9gwdagtz98rn6) 👤 Simon Willison's Weblog 💬 1862 🔖 #llm, #claude 🗓️ 2026-06-10
 - [Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/) [📖](https://read.readwise.io/read/01ktj1brkrqjnbp75pwcneq7ff) 👤 seangoedecke.com RSS feed 💬 1964 🔖 #career 🗓️ 2026-06-07
@@ -177,7 +178,7 @@ Via Readwise newsletter, Via JoyAndCuriosity
     > **Заметка:** Интересный проект, жаль мне не подходит - не слушаю музыку через YouTube. Но - прекрасный пример персонального софта. Via HackerNews
 - [A Modern Quality Pipeline and Testing Strategy for Frontend Projects](https://alexop.dev/posts/modern-frontend-quality-pipeline/) [📖](https://read.readwise.io/read/01kq2k3gnqeh877w7kgfrnzs8a) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 3222 🔖 #try, #testing, #frontend 🗓️ 2026-04-25
     > **Заметка:** Продуманная, подробная система тестирования фронтенда на всех уровнях. Для использования при работе над проектами со сложным фронтом.
-- [Updates to my AI Coding Workflow](https://refactoring.fm/p/updates-to-my-ai-coding-workflow) [📖](https://read.readwise.io/read/01kq21zexz2k3n54a2yswfc1pf) 👤 Luca Rossi 💬 1432 🗓️ 2026-04-25
+- [Updates to my AI Coding Workflow](https://refactoring.fm/p/updates-to-my-ai-coding-workflow) [📖](https://read.readwise.io/read/01kq21zexz2k3n54a2yswfc1pf) 👤 Luca Rossi 💬 1429 🗓️ 2026-04-25
 - [On sabotaging projects by overthinking](https://kevinlynagh.com/newsletter/2026_04_overthinking/) [📖](https://read.readwise.io/read/01kq1zz1y6tfjxjk03b2k9h9q0) 👤 kevinlynagh.com 💬 2614 🔖 #softwarecraft 🗓️ 2026-04-25
     > **Заметка:** Via HackerNews
 - [Opus 4.7](https://ampcode.com/news/opus-4.7) [📖](https://read.readwise.io/read/01kq1z7rfpfew9gde3qd52d9ve) 👤 Amp News 💬 506 🔖 #amp 🗓️ 2026-04-25
@@ -232,14 +233,14 @@ Via HackerNews
     > **Заметка:** Отличный способ убрать надоедливую анимацию при переключении рабочих столов
 - [Porting Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) [📖](https://read.readwise.io/read/01knrbyy6wbjzsjedyfx6nv0pc) 👤 Bryan Keller’s Dev Blog 💬 6147 🗓️ 2026-04-09
     > **Заметка:** Via HackerNews
-- [Does GitHub still merit “top git platform for AI-native development” status?](https://newsletter.pragmaticengineer.com/p/does-github-still-merit-top-git-platform?utm_source=tldrdev&triedRedirect=true) [📖](https://read.readwise.io/read/01knqa7519j63p1dtafa795050) 👤 Gergely Orosz 💬 1559 🔖 #github 🗓️ 2026-04-08
+- [Does GitHub still merit “top git platform for AI-native development” status?](https://newsletter.pragmaticengineer.com/p/does-github-still-merit-top-git-platform?utm_source=tldrdev&triedRedirect=true) [📖](https://read.readwise.io/read/01knqa7519j63p1dtafa795050) 👤 Gergely Orosz 💬 1497 🔖 #github 🗓️ 2026-04-08
 - [The Building Block Economy](https://mitchellh.com/writing/building-block-economy) [📖](https://read.readwise.io/read/01knq8snfek2t06z9jgrmx667s) 👤 Mitchell Hashimoto 💬 1185 🗓️ 2026-04-08
 - [Principles of Mechanical Sympathy](https://martinfowler.com/articles/mechanical-sympathy-principles.html) [📖](https://read.readwise.io/read/01knq8rkmccq5tkspg0npbrmbd) 👤 Caer Sanders 💬 1748 🔖 #softwarecraft 🗓️ 2026-04-08
     > **Заметка:** О том, как внимание к техническим деталям железа позволяет писать более производительный софт. 
 - [On the usefulness of AI agents](https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html) [📖](https://read.readwise.io/read/01knq4y2r5a7ffntsmhs7jjvtf) 👤 Erik Johannes Husom 💬 2669 🔖 #llm-reality, #llm-resistance 🗓️ 2026-04-08
 - [The Hacker News tarpit](https://www.joanwestenberg.com/the-hacker-news-tarpit/?ref=westenberg-newsletter) [📖](https://read.readwise.io/read/01knpen66qmq810krwn0dgdhm8) 👤 JA Westenberg 💬 1846 🔖 #llm-devimpact 🗓️ 2026-04-08
 - [A Commentary On GenAI Inspected Through Different Lenses](https://brainbaking.com/post/2026/04/a-commentary-on-genai-inspected-through-different-lenses/) [📖](https://read.readwise.io/read/01knp9f4rgqj2ket2f9t34hv69) 👤 Wouter Groeneveld 💬 2840 🔖 #learning, #llm-devimpact, #llm-resistance 🗓️ 2026-04-08
-- [Cycles of disruption in the tech industry: with software pioneers Kent Beck & Martin Fowler](https://newsletter.pragmaticengineer.com/p/cycles-of-disruption-in-the-tech) [📖](https://read.readwise.io/read/01knmcen01kwvft2r3939y01jn) 👤 Gergely Orosz 💬 2527 🔖 #llm-devimpact 🗓️ 2026-04-07
+- [Cycles of disruption in the tech industry: with software pioneers Kent Beck & Martin Fowler](https://newsletter.pragmaticengineer.com/p/cycles-of-disruption-in-the-tech) [📖](https://read.readwise.io/read/01knmcen01kwvft2r3939y01jn) 👤 Gergely Orosz 💬 2359 🔖 #llm-devimpact 🗓️ 2026-04-07
 - [Embedding SF Symbols in SwiftUI Text](https://nilcoalescing.com/blog/EmbeddingSFSymbolsInSwiftUIText) [📖](https://read.readwise.io/read/01kngt8gbw25b3qab43p7y9a3d) 👤 Nil Coalescing 💬 434 🔖 #swift 🗓️ 2026-04-06
 - [Some uncomfortable truths about AI coding agents](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01knbv6r1n0rt1fmt8eye7m8c0) 👤 standupforme.app 💬 3485 🔖 #llm-reality 🗓️ 2026-04-04
     > **Заметка:** Ещё один трезвый взгляд на использование ИИ-агентов. Via TLDR Newsletter
