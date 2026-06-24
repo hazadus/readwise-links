@@ -10,7 +10,7 @@
 - [You Are What You Read](https://wsvincent.com/you-are-what-you-read/) [📖](https://read.readwise.io/read/01kqq7xnqe6kg3xjkmztedkb67) 👤 Will Vincent 💬 1439 🔖 #reading 🗓️ 2026-05-03
     > **Заметка:** У меня основное чтение сейчас – fiction / RSS / non-fiction, немного newsletters. Выжимку главного из Mastodon / Bluesky / HN приносит по утрам OpenClaw. You are what you read – в точку.
     > **Резюме:** My own curated reading lists.
-- [Do Less.](https://usefulfictions.substack.com/p/do-less?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmv1vv17d1rnh4mvg6m8qs7) 👤 Cate Hall 💬 1789 🔖 #reading, #learning, #joyandcuriosity 🗓️ 2026-03-01
+- [Do Less.](https://usefulfictions.substack.com/p/do-less?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmv1vv17d1rnh4mvg6m8qs7) 👤 Cate Hall 💬 1743 🔖 #reading, #learning, #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** Trying to do more all the time doesn’t help us learn or rest better. True rest and growth need us to slow down and give space for ideas and feelings to settle. The author’s new motto is “Do Less” to find real peace and progress.
 - [The End of Thinking](https://www.derekthompson.org/p/the-end-of-thinking) [📖](https://read.readwise.io/read/01kj5ksw4r753p8rb8w9agw5ma) 👤 Derek Thompson 💬 2360 🔖 #llm, #toot, #reading, #writing 🗓️ 2026-02-23
     > **Заметка:** Via https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrotwr

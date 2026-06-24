@@ -16,7 +16,7 @@
 - [The End of Thinking](https://www.derekthompson.org/p/the-end-of-thinking) [📖](https://read.readwise.io/read/01kj5ksw4r753p8rb8w9agw5ma) 👤 Derek Thompson 💬 2360 🔖 #llm, #toot, #reading, #writing 🗓️ 2026-02-23
     > **Заметка:** Via https://resobscura.substack.com/p/the-age-of-books-and-the-age-of-brainrotwr
     > **Резюме:** People are losing their ability to think deeply because they rely too much on AI for reading and writing. Writing is an important way to understand and think clearly, but many students and professionals now outsource it to machines. This decline in human thinking is a bigger problem than the rise of AI itself.
-- [What is happening to writing?](https://resobscura.substack.com/p/what-is-happening-to-writing?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kj2thhven5habzggmasmb5vx) 👤 Benjamin Breen 💬 3285 🔖 #llm, #toot, #writing 🗓️ 2026-02-22
+- [What is happening to writing?](https://resobscura.substack.com/p/what-is-happening-to-writing?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kj2thhven5habzggmasmb5vx) 👤 Benjamin Breen 💬 3229 🔖 #llm, #toot, #writing 🗓️ 2026-02-22
     > **Резюме:** AI is quickly becoming very good at writing, coding, and doing many jobs done on computers. This change will affect many workers, but those who learn to use AI well will succeed. Some people, like writers and teachers, think AI will change their work but not replace them soon.
 - [How to Write Useful Commit Messages](https://refactoringenglish.com/chapters/commit-messages/) [📖](https://read.readwise.io/read/01kgrmv6g2t9ztte256z0bkzkv) 👤 refactoringenglish.com 💬 3972 🔖 #git, #docs, #writing 🗓️ 2026-02-06
     > **Резюме:** Effective writing for software developers
