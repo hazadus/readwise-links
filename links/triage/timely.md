@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-06-24 04:38 UTC · Статей: 23
+Сгенерировано: 2026-06-25 04:37 UTC · Статей: 22
 
 ## Статьи
 
@@ -15,8 +15,6 @@ _Актуальный контент, который может устареть
     > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
 - [Eight Software Markets AI That Will Transform Differently](https://davegriffith.substack.com/p/eight-software-markets-ai-that-will) [📖](https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt) 👤 Dave Griffith 💬 2917 ⭐ 8 🔖 #llm 🗓️ 2026-01-12 · 🧠 основы
     > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
-- [AI demands more engineering discipline. Not less (xpost)](https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/) [📖](https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw) 👤 mipsytipsy 💬 3503 ⭐ 7 🗓️ 2026-06-22
-    > **Резюме:** In 2025, AI made writing code almost free and instant, changing how software is built. This shift means code is less valuable as a permanent asset and more like a temporary tool. As AI grows, engineers must use more discipline to ensure software quality and shared understanding.
 - [Unlocking Reading Insights: A Guide to Data Analysis with Claude and Readwise](https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/) [📖](https://read.readwise.io/read/01k62kckeewb1936zrjewhbhvn) 👤 Alexander Opalic 💬 1522 ⭐ 7 🗓️ 2025-09-26 · 🛠️ туториал
     > **Резюме:** This blog post explains how to use Claude.ai's CSV analysis feature with Readwise data for better insights. It highlights the importance of crafting specific prompts to extract meaningful information and create visualizations. The tutorial also touches on the technical aspects of how Claude processes and analyzes the data.
 - [Domain Expertise Has Always Been the Real Moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) [📖](https://read.readwise.io/read/01ktndd9cyk7mrv5btd8qg0bhk) 👤 brethorsting.com 💬 760 ⭐ 7 🗓️ 2026-06-09
@@ -40,10 +38,10 @@ Open source maintainers should focus on practical, small- to medium-scale projec
 - [Celebrating 50 years of Microsoft | Bill Gates](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code) [📖](https://read.readwise.io/read/01jr0kw78dv3cjfds3t8dqfrfr) 👤 Bill Gates 💬 5503 ⭐ 2 🔖 #shortlist 🗓️ 2025-04-04
     > **Заметка:** https://chatgpt.com/c/69441e02-9780-8329-87c1-3b4aef7af67d
     > **Резюме:** Bill Gates reflects on the 50th anniversary of Microsoft, starting with the creation of Altair BASIC in 1975. He shares his pride in how this early code led to a revolution in computing and the company's immense success. Gates also acknowledges the influential teachers who helped shape his journey into the world of technology.
+- [Thoughts on Motivation and My 40-Year Career](https://charity.wtf/2025/07/09/thoughts-on-motivation-and-my-40-year-career/) [📖](https://read.readwise.io/read/01kvxqmq6g23shqdh03ewy6jpt) 👤 mipsytipsy 💬 3929 ⭐ 2 🗓️ 2026-06-24
+    > **Резюме:** The author shares how work has been a source of growth, meaning, and community throughout their 40-year tech career. They believe work can inspire learning, innovation, and integrity even in tough times. Their hope is to show that meaningful work and strong ideals can still lead to success.
 - [Twenty Five Years of Computing](https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmv4fykfx18fbq95cz8v7v3) 👤 susam.net 💬 3913 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** The author has over 25 years of experience in software development, starting from university days. Early challenges and learning moments helped them grow into a skilled engineer. They value professionalism, continuous learning, and kindness in their career.
-- [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against) [📖](https://read.readwise.io/read/01kvq3etnf8dn7vdjvds0xp00q) 👤 Charity Majors 💬 3287 ⭐ 2 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-06-22
-    > **Резюме:** AI fans and skeptics both face real challenges that threaten their teams and companies. To succeed, they must share honest stories about AI’s benefits and costs and work together like engineers solving problems. Trust, discipline, and clear communication are key to using AI well without burning out people or losing customers.
 - [The Software Industrial Revolution](https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw7mm8skajhhkmnf0tp4s1) 👤 cannoneyed.com 💬 3140 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.
 - [Building Staff Engineer-Level Knowledge with AI](https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai) [📖](https://read.readwise.io/read/01kes33g1fbdg6b294xz7w4jtt) 👤 Dave Griffith 💬 2515 ⭐ 2 🔖 #llm 🗓️ 2026-01-12

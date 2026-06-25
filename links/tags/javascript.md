@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 19
+- Всего ссылок: 20
 
 ## Ссылки
 
+- [CSS vs. JavaScript](https://www.joshwcomeau.com/animation/css-vs-javascript/) [📖](https://read.readwise.io/read/01ksj9r68fecy3nek8bhcmw1gf) 👤 Josh W. Comeau 💬 914 🔖 #css, #javascript 🗓️ 2026-05-26
+    > **Резюме:** CSS animations run smoothly because they work on a separate thread, unlike most JavaScript animations that share the main thread with other tasks. Some JavaScript libraries like Motion use the Web Animations API to achieve similar performance to CSS. It’s best to use CSS animations when possible and choose JavaScript tools that avoid slowing down your app.
 - [Why Parenting Is Similar To JavaScript Development](https://brainbaking.com/post/2026/02/why-parenting-is-similar-to-javascript-development/) [📖](https://read.readwise.io/read/01khch0fabr1dxb8a9zp4ycgzv) 👤 Wouter Groeneveld 💬 974 🔖 #fun, #javascript 🗓️ 2026-02-13
     > **Резюме:** Parenting feels like working with JavaScript: both are confusing and full of unexpected challenges. Just like JavaScript has good parts and messy parts, parenting has moments of joy mixed with stress and exhaustion. The author feels overwhelmed but loves his kids, even when parenting feels like just surviving each day.
 - [A little bit of plain Javascript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/) [📖](https://read.readwise.io/read/01kgq08ew6pv31nk4jxtr8jz00) 👤 Julia Evans 💬 831 🔖 #javascript 🗓️ 2026-02-05

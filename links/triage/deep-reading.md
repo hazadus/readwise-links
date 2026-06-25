@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-06-24 04:38 UTC · Статей: 38
+Сгенерировано: 2026-06-25 04:37 UTC · Статей: 37
 
 ## Статьи
 
@@ -22,8 +22,6 @@ _Длинные статьи (от 1500 слов), не туториалы_
     > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.
 - [The secret life of the xattr](https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/) [📖](https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1) 👤 hoakley 💬 1905 ⭐ 8 🗓️ 2026-04-24 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.
-- [AI demands more engineering discipline. Not less (xpost)](https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/) [📖](https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw) 👤 mipsytipsy 💬 3503 ⭐ 7 🗓️ 2026-06-22
-    > **Резюме:** In 2025, AI made writing code almost free and instant, changing how software is built. This shift means code is less valuable as a permanent asset and more like a temporary tool. As AI grows, engineers must use more discipline to ensure software quality and shared understanding.
 - [macOS Tips](https://blog.xoria.org/macos-tips/) [📖](https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8) 👤 xoria.org 💬 2856 ⭐ 7 🔖 #macos 🗓️ 2026-01-31 · 🌲 вечнозелёное
     > **Резюме:** macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.
 - [The (lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kba74ynqzd6by0k16mmj92s4) 👤 @bwplotka 💬 2452 ⭐ 7 🔖 #git, #joyandcuriosity 🗓️ 2025-11-30 · 🌲 вечнозелёное
@@ -69,12 +67,12 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** Go’s runtime manages network I/O by asking the kernel if data is ready and putting goroutines to sleep instead of blocking OS threads. When data arrives, the kernel notifies the runtime, which wakes the right goroutine to continue work. This system lets Go efficiently handle many network tasks without wasting threads.
 - [How Markdown took over the world](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kev57mqrms6nmez28y5667xg) 👤 Anil Dash 💬 4535 ⭐ 2 🔖 #markdown, #shortlist 🗓️ 2026-01-13 · 🌲 вечнозелёное
     > **Резюме:** Markdown started as a simple way to make writing on the internet easier without needing complicated code. Many people liked it and began using it everywhere, from blogs to apps like Microsoft Notepad and Apple Notes. Its success shows how open, easy ideas can grow big and change how we share information online.
+- [Thoughts on Motivation and My 40-Year Career](https://charity.wtf/2025/07/09/thoughts-on-motivation-and-my-40-year-career/) [📖](https://read.readwise.io/read/01kvxqmq6g23shqdh03ewy6jpt) 👤 mipsytipsy 💬 3929 ⭐ 2 🗓️ 2026-06-24
+    > **Резюме:** The author shares how work has been a source of growth, meaning, and community throughout their 40-year tech career. They believe work can inspire learning, innovation, and integrity even in tough times. Their hope is to show that meaningful work and strong ideals can still lead to success.
 - [Twenty Five Years of Computing](https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmv4fykfx18fbq95cz8v7v3) 👤 susam.net 💬 3913 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** The author has over 25 years of experience in software development, starting from university days. Early challenges and learning moments helped them grow into a skilled engineer. They value professionalism, continuous learning, and kindness in their career.
 - [Hashing](https://samwho.dev/hashing) [📖](https://read.readwise.io/read/01kg25747gsvm57m9m5dc7j35t) 👤 Sam Rose 💬 3436 ⭐ 2 🗓️ 2026-01-28 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Hash functions turn inputs into numbers and help organize data efficiently. Good hash functions avoid collisions and spread outputs evenly to keep systems fast. They are important for tools like hash maps and use techniques like random seeds to stay secure.
-- [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against) [📖](https://read.readwise.io/read/01kvq3etnf8dn7vdjvds0xp00q) 👤 Charity Majors 💬 3287 ⭐ 2 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-06-22
-    > **Резюме:** AI fans and skeptics both face real challenges that threaten their teams and companies. To succeed, they must share honest stories about AI’s benefits and costs and work together like engineers solving problems. Trust, discipline, and clear communication are key to using AI well without burning out people or losing customers.
 - [The Software Industrial Revolution](https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw7mm8skajhhkmnf0tp4s1) 👤 cannoneyed.com 💬 3140 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.
 - [how-did-i-get-here.net](https://how-did-i-get-here.net/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kba6m45a48andmwhtq45a7z0) 👤 Lexi 💬 2827 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2025-11-30 · 🧠 основы, 🌲 вечнозелёное

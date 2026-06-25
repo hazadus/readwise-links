@@ -1,13 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 62
+- Всего ссылок: 63
 
 ## Ссылки
 
-- [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against) [📖](https://read.readwise.io/read/01kvq3etnf8dn7vdjvds0xp00q) 👤 Charity Majors 💬 3287 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-06-22
-    > **Резюме:** AI fans and skeptics both face real challenges that threaten their teams and companies. To succeed, they must share honest stories about AI’s benefits and costs and work together like engineers solving problems. Trust, discipline, and clear communication are key to using AI well without burning out people or losing customers.
-- [AI demands more engineering discipline. Not less (xpost)](https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/) [📖](https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw) 👤 mipsytipsy 💬 3503 🗓️ 2026-06-22
-    > **Резюме:** In 2025, AI made writing code almost free and instant, changing how software is built. This shift means code is less valuable as a permanent asset and more like a temporary tool. As AI grows, engineers must use more discipline to ensure software quality and shared understanding.
+- [Thoughts on Motivation and My 40-Year Career](https://charity.wtf/2025/07/09/thoughts-on-motivation-and-my-40-year-career/) [📖](https://read.readwise.io/read/01kvxqmq6g23shqdh03ewy6jpt) 👤 mipsytipsy 💬 3929 🗓️ 2026-06-24
+    > **Резюме:** The author shares how work has been a source of growth, meaning, and community throughout their 40-year tech career. They believe work can inspire learning, innovation, and integrity even in tough times. Their hope is to show that meaningful work and strong ideals can still lead to success.
+- [Написал свой Claude Code за 99 строк кода. Встречаем — chebupelka!](https://www.youtube.com/watch?v=H7FSTj4x4xQ) [📖](https://read.readwise.io/read/01kvtt6tzepradptt737vc0rpa) 👤 Диджитализируй! 🗓️ 2026-06-23
+    > **Резюме:** Автор создал простого автономного агента для разработки на Python всего из 99 строк кода. Главная логика агента занимает всего шесть строк и позволяет решать сложные задачи через цикл взаимодействия. Этот агент может выполнять команды, обращаться в интернет и эффективно помогать с кодом без сложных настроек.
+- [Rewriting the world in Rust](https://bitfieldconsulting.com/posts/rewrite-in-rust) [📖](https://read.readwise.io/read/01kvswppy9118grz6qtn39x89d) 👤 John Arundel 💬 1976 🔖 #rust 🗓️ 2026-06-23
+    > **Резюме:** Rust is a modern language that improves software security by preventing many memory and concurrency bugs. Rewriting all old code in Rust is very hard, and automatic translation does not create good Rust programs. Instead, gradually replacing parts with Rust and redesigning code step-by-step is a more practical and effective approach.
 - [How Servers Work: A Hands-On Introduction to TCP Sockets](https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets) [📖](https://read.readwise.io/read/01ktndr2v6nrwd97jy43v36sza) 👤 Ivan Velichko 💬 3616 🔖 #theory, #network 🗓️ 2026-06-09
     > **Резюме:** A TCP server communicates by sending and receiving data over network connections called sockets. TCP ensures reliable and ordered delivery of data between clients and servers using ports and connections. The article explains how to build a simple TCP server and client in Python using sockets to send and receive data.
 - [the solution might be cancelling my AI subscription](https://thoughts.hmmz.org/2026-05-31.html) [📖](https://read.readwise.io/read/01ktndj64tqep1mx6asgtfwwt3) 👤 hmmz.org 💬 1148 🗓️ 2026-06-09

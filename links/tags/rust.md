@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 28
+- Всего ссылок: 29
 
 ## Ссылки
 
+- [Rewriting the world in Rust](https://bitfieldconsulting.com/posts/rewrite-in-rust) [📖](https://read.readwise.io/read/01kvswppy9118grz6qtn39x89d) 👤 John Arundel 💬 1976 🔖 #rust 🗓️ 2026-06-23
+    > **Резюме:** Rust is a modern language that improves software security by preventing many memory and concurrency bugs. Rewriting all old code in Rust is very hard, and automatic translation does not create good Rust programs. Instead, gradually replacing parts with Rust and redesigning code step-by-step is a more practical and effective approach.
 - [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/) [📖](https://read.readwise.io/read/01ktkknvzzgagx1vyeq1dhma9j) 👤 Corrode Rust Consulting 💬 3275 🔖 #rust 🗓️ 2026-06-08
     > **Резюме:** Defensive programming in Rust means using the compiler to enforce rules and prevent errors. You can force all struct creation to go through safe constructors by adding private fields and modules. Making fields private and providing getters helps keep data valid and avoids mistakes.
 - [Why Bun leaving Zig is Great for Zig](https://dayvster.com/blog/why-bun-leaving-zig-is-great-for-zig/) [📖](https://read.readwise.io/read/01ksg52rndrdjzem1bfh9eeeqh) 👤 Dayvster 💬 976 🔖 #bun, #zig, #rust 🗓️ 2026-05-25

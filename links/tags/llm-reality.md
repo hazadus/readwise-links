@@ -1,11 +1,24 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 18
 
 ## Ссылки
 
+- [Make AI Boring Again](https://charitydotwtf.substack.com/p/make-ai-boring-again) [📖](https://read.readwise.io/read/01kvxkzvp6xesjjmpw3e6nxdpp) 👤 Charity Majors 💬 3220 🔖 #llm-reality 🗓️ 2026-06-24
+    > **Заметка:** Приземленный взгляд: нам жить с LLM, от этого уже никуда не деться. Нужно научиться принимать это и минимизировать негативные стороны. Адекватная позиция. 
+    > **Резюме:** AI is just a tool, not uniquely evil, and we should learn how it works instead of fearing it. People who work with technology have a duty to understand AI and help fix its problems. Together, we can shape AI to be safe and useful, making it ordinary and manageable.
+- [Будущее разработки в эпоху ИИ: уволят ли нас и что с этим делать](https://habr.com/ru/articles/1048374/) [📖](https://read.readwise.io/read/01kvwys10ns8sn6r1seqcv9xcp) 👤 yakvenalex 💬 4453 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-06-24
+    > **Заметка:** Правильные вопросы и многие идеи, но их много - поэтому текст довольно поверхностный. И местами слишком ИИшный :( В любом случае радует, что в рунете стали поднимать эти темы. Оставляю в архиве ради этого, и примеров "вайбкодеров от бизнеса" (брр!..)
+    > **Резюме:** ИИ меняет профессию разработчика, упрощая создание кода, но снижая глубину понимания. Настоящая ценность — в умении разбираться и критически оценивать результат ИИ. Чтобы выжить в профессии, важно учиться и развивать инженерное мышление, а не полагаться только на ассистентов.
 - [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against) [📖](https://read.readwise.io/read/01kvq3etnf8dn7vdjvds0xp00q) 👤 Charity Majors 💬 3287 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-06-22
+    > **Заметка:** Попытка трезвого взгляда на проблемы с обоих точек зрения - LLM-энтузиастов и скептиков.
     > **Резюме:** AI fans and skeptics both face real challenges that threaten their teams and companies. To succeed, they must share honest stories about AI’s benefits and costs and work together like engineers solving problems. Trust, discipline, and clear communication are key to using AI well without burning out people or losing customers.
+- [AI demands more engineering discipline. Not less (xpost)](https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/) [📖](https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw) 👤 mipsytipsy 💬 3503 🔖 #llm-reality, #predictions, #llm-devimpact 🗓️ 2026-06-22
+    > **Заметка:** Очень дельные мысли по поводу регенерации кода по аналогии с идеей immutable infrastructure. Добавить это в watchlist.
+    > **Резюме:** In 2025, AI made writing code almost free and instant, changing how software is built. This shift means code is less valuable as a permanent asset and more like a temporary tool. As AI grows, engineers must use more discipline to ensure software quality and shared understanding.
+- [Revised rules of engineering leadership.](https://lethain.com/revised-rules-of-engineering-leadership/) [📖](https://read.readwise.io/read/01kv600w89e0vx2scbtef5dgxf) 👤 Irrational Exuberance 💬 2060 🔖 #llm-reality 🗓️ 2026-06-15
+    > **Заметка:** Хорошие правила с практическими подтверждениями.
+    > **Резюме:** Fast growth reveals mistakes quickly and demands new engineering leadership rules. Automating routine tasks and having durable teams with deep knowledge boosts speed and quality. Clear, quick decisions are vital to benefit from AI and keep up with rapid changes.
 - [Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/) [📖](https://read.readwise.io/read/01kspgc0nwdecnkzm23he5m6g8) 👤 Terrible Software 💬 862 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-05-28
     > **Заметка:** В копилку здравых взглядов на использование LLM. Не понимаешь - не выкатывай!
     > **Резюме:** The author admits they relied too much on AI to fix a bug without understanding the problem themselves. They warn that using AI this way can make engineers lose important skills and judgment. The author now follows a strict rule: they must understand and explain every change before shipping it.

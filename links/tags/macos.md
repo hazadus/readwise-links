@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 52
+- Всего ссылок: 53
 
 ## Ссылки
 
@@ -14,6 +14,15 @@ We developers refer to these as bug fixes and I'm delighted to see that Apple is
 It's clear that this is a Snow Leopard year, and before people jump up and down to tell me that Snow Leopard wasn't actually what we all think it is, in the Apple community the term Snow Leopard has come to mean a release that has fewer new features and more attention to fixes.
 The most important change is that Apple has realized that having control text overlapping content text makes both unreadable, so they are dialling back Liquid Glass in several ways. First, there's a slider for adjusting how much transparency you want. I will be fascinated to see any data showing the distribution of settings for this. I expect to have it at or near 100% opaque.
 Next, in Mac apps at least, the ...
+- [In Praise of SwiftUI](https://troz.net/post/2026/swiftui_praise/) [📖](https://read.readwise.io/read/01kshar3cma3as4cydnmgj7nj2) 👤 Sarah Reichelt 💬 1316 🔖 #macos, #swift 🗓️ 2026-05-26
+    > **Заметка:** Опытный разработчки софта под Мак даёт взвешенную оценку плюсов и минусов SwiftUI.
+    > **Резюме:** Recently, I have seen multiple posts on Mastodon suggesting that SwiftUI is a failure, that nobody is using it, and that Apple should have focused on improving or replacing AppKit and UIKit instead of wasting everyone's time with SwiftUI. While I have great respect for some of the people saying these things, I disagree. I love using SwiftUI, I think a large number of developers are using it, and I want to explain what I find so great about it.
+Perhaps one problem was the name. Yes, it allows you to define your user interface in Swift, but so do AppKit and UIKit. For me, the part that I miss most when going back to work on an older project is the data flow and the reactive nature of SwiftUI, and that's not reflected in the name at all.
+Data Flow
+I have written several articles about SwiftUI's data flow. The most recent one was in 2023 and it's still valid today: SwiftUI Data Flow 2023. I won't repeat all the details here, but SwiftUI gives us features that allow for concise and logical data control, while making it clear which view owns the data and provides the single source of truth.
+The reactive aspect of SwiftUI feels like magic! It allows me to have something like a stored setting with a default value, connected to a menu item with a checkmark, a toggle in a settings window, a button in the toolbar, and a switch on the main interface. SwiftUI keeps these all in sync without any effort on my part. This sort of flexibility was a lot of work in AppKit and UIKit, and it was easy to end up with sections of the UI out of sync with the data. In AppKit apps, you could use Cocoa Bindings, but these were tricky to set up, not good with source control and totally opaque to any developer new to the project.
+User Interface
+Let's go deeper into the UI part. AppKit and UIKit have two options for creating user interfaces. You can either build graphically in Xcode's Interface Builder, or write all the interface in code. The "interface-in-code" lobby has always been very vocal...
 - [Settings, preferences and defaults](https://eclecticlight.co/2026/05/19/settings-preferences-and-defaults/) [📖](https://read.readwise.io/read/01krzf75d1xh48n0mwhqnmg33x) 👤 hoakley 💬 1304 🔖 #macos 🗓️ 2026-05-19
     > **Заметка:** Полезная команда `defaults` для просмотра всех настроек приложения.
     > **Резюме:** Mac apps store settings in preference files managed by a system called cfprefsd for easy access and saving. To safely change these settings, use the defaults command or a special editor that works with cfprefsd. Avoid editing preference files directly unless sure no app is running, and never paste unknown commands into Terminal.

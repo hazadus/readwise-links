@@ -1,13 +1,32 @@
 # Ссылки
 
-- Всего ссылок: 128
+- Всего ссылок: 134
 
 ## Ссылки
 
+- [Будущее разработки в эпоху ИИ: уволят ли нас и что с этим делать](https://habr.com/ru/articles/1048374/) [📖](https://read.readwise.io/read/01kvwys10ns8sn6r1seqcv9xcp) 👤 yakvenalex 💬 4453 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-06-24
+    > **Заметка:** Правильные вопросы и многие идеи, но их много - поэтому текст довольно поверхностный. И местами слишком ИИшный :( В любом случае радует, что в рунете стали поднимать эти темы. Оставляю в архиве ради этого, и примеров "вайбкодеров от бизнеса" (брр!..)
+    > **Резюме:** ИИ меняет профессию разработчика, упрощая создание кода, но снижая глубину понимания. Настоящая ценность — в умении разбираться и критически оценивать результат ИИ. Чтобы выжить в профессии, важно учиться и развивать инженерное мышление, а не полагаться только на ассистентов.
+- [The Conversation Is the Commit](https://aicoding.leaflet.pub/3mhxvpam4z22z) [📖](https://read.readwise.io/read/01kvw5hfg6efj4bz1daj2ces5m) 👤 The Phoenix Architecture 💬 1514 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-06-24
+    > **Заметка:** Рассмотрена важная проблема. Причины создания и изменения кода нужно хранить рядом с ним. Нынешние системы контроля версий не идеально к этом приспособлены, но вполне можно использовать commit messages, PR descriptions, ADR-документы, обзоры архитектуры и т.п. Это уже лучше, чем ничего.
+    > **Резюме:** Code alone doesn't show why or how decisions were made, so understanding it later is hard. When AI agents write code, the true source is the conversation that created it, not the code itself. To keep software clear and trustworthy, we must capture and version-control these conversations, not just the code.
+- [Stop, don’t Slop](http://willmcgugan.github.io/stop-dont-slop/) [📖](https://read.readwise.io/read/01kvsjdxmzcb2msqt8khmqnbr5) 👤 Will McGugan 💬 502 🔖 #foss, #llm-devimpact 🗓️ 2026-06-23
+    > **Заметка:** Ещё одно взвешенное и четкое мнение от опытного мейнтейнера FOSS по поводу LLM-contributions: они не нужны!
+    > **Резюме:** You find a bug in an Open Source project and generously wish to spend your tokens on solving that issue for the good of humanity. Your fingers hover over the keyboard, trembling in anticipation of the glorious prompt that will unblock your fellow developers. Before you type “FIx issue X make no mistaks” Stop!
+- [Adversarial Communication](https://blog.glyph.im/2026/06/adversarial-communication.html) [📖](https://read.readwise.io/read/01kvsck0xkwt59pjbqrb7hef8y) 👤 Glyph 💬 2762 🔖 #learning, #codereview, #llm-devimpact, #llm-resistance 🗓️ 2026-06-23
+    > **Заметка:** "Враждебная коммуникация". Сквозная идея поста – LLM позволяют перенести стоимость верификации выхлопа с "автора", получающего выгоду, на "жертву", которой предстоит всё это разгребать.
+    > **Резюме:** “AI” turns every conversation into a fight, because fighting is what
+they are good at.
 - [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against) [📖](https://read.readwise.io/read/01kvq3etnf8dn7vdjvds0xp00q) 👤 Charity Majors 💬 3287 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-06-22
+    > **Заметка:** Попытка трезвого взгляда на проблемы с обоих точек зрения - LLM-энтузиастов и скептиков.
     > **Резюме:** AI fans and skeptics both face real challenges that threaten their teams and companies. To succeed, they must share honest stories about AI’s benefits and costs and work together like engineers solving problems. Trust, discipline, and clear communication are key to using AI well without burning out people or losing customers.
+- [AI demands more engineering discipline. Not less (xpost)](https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/) [📖](https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw) 👤 mipsytipsy 💬 3503 🔖 #llm-reality, #predictions, #llm-devimpact 🗓️ 2026-06-22
+    > **Заметка:** Очень дельные мысли по поводу регенерации кода по аналогии с идеей immutable infrastructure. Добавить это в watchlist.
+    > **Резюме:** In 2025, AI made writing code almost free and instant, changing how software is built. This shift means code is less valuable as a permanent asset and more like a temporary tool. As AI grows, engineers must use more discipline to ensure software quality and shared understanding.
 - [The "I don't know, Claude wrote this" pandemic](https://newsletter.manager.dev/p/the-i-don-t-know-claude-wrote-this-pandemic) [📖](https://read.readwise.io/read/01kv7qtfqw8fbb8emgdwy29mtg) 👤 Anton Zaides 💬 1252 🔖 #llm-devimpact 🗓️ 2026-06-16
     > **Резюме:** When Claude drives you off the cliff
+- [Pluralistic: AI and amateurism (15 Jun 2026) Pluralistic: AI and amateurism (15 Jun 2026)](https://pluralistic.net/2026/06/15/vernacular/) [📖](https://read.readwise.io/read/01kv5zb5bb53h0kv4zaxzn1nq2) 👤 Cory Doctorow 💬 2963 🔖 #llm-devimpact, #personalsoftware 🗓️ 2026-06-15
+    > **Резюме:** Technology is best when people can shape it themselves without needing permission from big companies. AI often tries to control and make everything the same, but homemade software lets people express their unique needs. Even if AI hype fades, people will keep creating personal tools that fit their lives.
 - [Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) [📖](https://read.readwise.io/read/01kt8htz0wj55q2z8rj1sve36n) 👤 seangoedecke.com RSS feed 💬 1787 🔖 #llm-devimpact 🗓️ 2026-06-04
     > **Резюме:** Some people who dislike AI want to return to the old way of programming, but this nostalgia can mirror harmful ideas from the past. The author warns that such thinking can echo fascist beliefs about tradition and purity. However, AI also helps many people, and it’s important to see both its good and bad sides.
 - [Weird projects I shipped with AI](https://seangoedecke.com/weird-projects-i-shipped-with-ai/) [📖](https://read.readwise.io/read/01kt13t8b6b636rzmnyds3thr6) 👤 seangoedecke.com RSS feed 💬 1002 🔖 #llm-devimpact 🗓️ 2026-06-01

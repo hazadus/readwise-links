@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [Adversarial Communication](https://blog.glyph.im/2026/06/adversarial-communication.html) [📖](https://read.readwise.io/read/01kvsck0xkwt59pjbqrb7hef8y) 👤 Glyph 💬 2762 🔖 #learning, #codereview, #llm-devimpact, #llm-resistance 🗓️ 2026-06-23
+    > **Заметка:** "Враждебная коммуникация". Сквозная идея поста – LLM позволяют перенести стоимость верификации выхлопа с "автора", получающего выгоду, на "жертву", которой предстоит всё это разгребать.
+    > **Резюме:** “AI” turns every conversation into a fight, because fighting is what
+they are good at.
 - [The agent principal-agent problem](https://crawshaw.io/blog/agent-principal-agent) [📖](https://read.readwise.io/read/01kr1w2kadyfj1r759s1yh6ezr) 👤 David Crawshaw (david@zentus.com) 💬 1234 🔖 #codereview, #llm-devimpact 🗓️ 2026-05-07
     > **Резюме:** The agent principal-agent problem
 2026-05-07

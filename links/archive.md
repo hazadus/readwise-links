@@ -1,11 +1,28 @@
 # Архивные ссылки
 
-- Всего ссылок: 1732
+- Всего ссылок: 1742
 
 ## Ссылки
 
+- [Make AI Boring Again](https://charitydotwtf.substack.com/p/make-ai-boring-again) [📖](https://read.readwise.io/read/01kvxkzvp6xesjjmpw3e6nxdpp) 👤 Charity Majors 💬 3220 🔖 #llm-reality 🗓️ 2026-06-24
+    > **Заметка:** Приземленный взгляд: нам жить с LLM, от этого уже никуда не деться. Нужно научиться принимать это и минимизировать негативные стороны. Адекватная позиция. 
+- [Будущее разработки в эпоху ИИ: уволят ли нас и что с этим делать](https://habr.com/ru/articles/1048374/) [📖](https://read.readwise.io/read/01kvwys10ns8sn6r1seqcv9xcp) 👤 yakvenalex 💬 4453 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-06-24
+    > **Заметка:** Правильные вопросы и многие идеи, но их много - поэтому текст довольно поверхностный. И местами слишком ИИшный :( В любом случае радует, что в рунете стали поднимать эти темы. Оставляю в архиве ради этого, и примеров "вайбкодеров от бизнеса" (брр!..)
+- [The Conversation Is the Commit](https://aicoding.leaflet.pub/3mhxvpam4z22z) [📖](https://read.readwise.io/read/01kvw5hfg6efj4bz1daj2ces5m) 👤 The Phoenix Architecture 💬 1514 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-06-24
+    > **Заметка:** Рассмотрена важная проблема. Причины создания и изменения кода нужно хранить рядом с ним. Нынешние системы контроля версий не идеально к этом приспособлены, но вполне можно использовать commit messages, PR descriptions, ADR-документы, обзоры архитектуры и т.п. Это уже лучше, чем ничего.
+- [Stop, don’t Slop](http://willmcgugan.github.io/stop-dont-slop/) [📖](https://read.readwise.io/read/01kvsjdxmzcb2msqt8khmqnbr5) 👤 Will McGugan 💬 502 🔖 #foss, #llm-devimpact 🗓️ 2026-06-23
+    > **Заметка:** Ещё одно взвешенное и четкое мнение от опытного мейнтейнера FOSS по поводу LLM-contributions: они не нужны!
+- [Adversarial Communication](https://blog.glyph.im/2026/06/adversarial-communication.html) [📖](https://read.readwise.io/read/01kvsck0xkwt59pjbqrb7hef8y) 👤 Glyph 💬 2762 🔖 #learning, #codereview, #llm-devimpact, #llm-resistance 🗓️ 2026-06-23
+    > **Заметка:** "Враждебная коммуникация". Сквозная идея поста – LLM позволяют перенести стоимость верификации выхлопа с "автора", получающего выгоду, на "жертву", которой предстоит всё это разгребать.
+- [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against) [📖](https://read.readwise.io/read/01kvq3etnf8dn7vdjvds0xp00q) 👤 Charity Majors 💬 3287 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-06-22
+    > **Заметка:** Попытка трезвого взгляда на проблемы с обоих точек зрения - LLM-энтузиастов и скептиков.
+- [AI demands more engineering discipline. Not less (xpost)](https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/) [📖](https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw) 👤 mipsytipsy 💬 3503 🔖 #llm-reality, #predictions, #llm-devimpact 🗓️ 2026-06-22
+    > **Заметка:** Очень дельные мысли по поводу регенерации кода по аналогии с идеей immutable infrastructure. Добавить это в watchlist.
 - [WWDC 2026 First Thoughts](https://troz.net/post/2026/wwdc2026_first_thoughts/) [📖](https://read.readwise.io/read/01kvjzt2t19b5j7h842msbzmks) 👤 Sarah Reichelt 💬 1015 🔖 #macos 🗓️ 2026-06-20
 - [The "I don't know, Claude wrote this" pandemic](https://newsletter.manager.dev/p/the-i-don-t-know-claude-wrote-this-pandemic) [📖](https://read.readwise.io/read/01kv7qtfqw8fbb8emgdwy29mtg) 👤 Anton Zaides 💬 1252 🔖 #llm-devimpact 🗓️ 2026-06-16
+- [Revised rules of engineering leadership.](https://lethain.com/revised-rules-of-engineering-leadership/) [📖](https://read.readwise.io/read/01kv600w89e0vx2scbtef5dgxf) 👤 Irrational Exuberance 💬 2060 🔖 #llm-reality 🗓️ 2026-06-15
+    > **Заметка:** Хорошие правила с практическими подтверждениями.
+- [Pluralistic: AI and amateurism (15 Jun 2026) Pluralistic: AI and amateurism (15 Jun 2026)](https://pluralistic.net/2026/06/15/vernacular/) [📖](https://read.readwise.io/read/01kv5zb5bb53h0kv4zaxzn1nq2) 👤 Cory Doctorow 💬 2963 🔖 #llm-devimpact, #personalsoftware 🗓️ 2026-06-15
 - [Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything) [📖](https://read.readwise.io/read/01ktqdh4fjfnv9gwdagtz98rn6) 👤 Simon Willison's Weblog 💬 1862 🔖 #llm, #claude 🗓️ 2026-06-10
 - [Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/) [📖](https://read.readwise.io/read/01ktj1brkrqjnbp75pwcneq7ff) 👤 seangoedecke.com RSS feed 💬 1964 🔖 #career 🗓️ 2026-06-07
 - [Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) [📖](https://read.readwise.io/read/01kt8htz0wj55q2z8rj1sve36n) 👤 seangoedecke.com RSS feed 💬 1787 🔖 #llm-devimpact 🗓️ 2026-06-04
@@ -32,6 +49,8 @@
     > **Заметка:** Хорошую книгу ничего не заменит (и она не обязательно должна быть бумажной). Важна структура, опыт и подача автора. Никто не мешает уточнять детали и углубляться в вопросы через LLM, документацию и тематические посты/видео.   Via HN. https://news.ycombinator.com/item?id=48273030
 - [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/) [📖](https://read.readwise.io/read/01kshczra9zqsnj1pyt7sr2kyh) 👤 Read the Tea Leaves 💬 766 🔖 #llm-reality 🗓️ 2026-05-26
     > **Заметка:** Приятно видеть подобные посты. Тоже верю, что от LLM больше пользы, если использовать их для "парного программирования", ревью, с полным пониманием и владением кодом.  Via HN. https://news.ycombinator.com/item?id=48272984
+- [In Praise of SwiftUI](https://troz.net/post/2026/swiftui_praise/) [📖](https://read.readwise.io/read/01kshar3cma3as4cydnmgj7nj2) 👤 Sarah Reichelt 💬 1316 🔖 #macos, #swift 🗓️ 2026-05-26
+    > **Заметка:** Опытный разработчки софта под Мак даёт взвешенную оценку плюсов и минусов SwiftUI.
 - [Why Bun leaving Zig is Great for Zig](https://dayvster.com/blog/why-bun-leaving-zig-is-great-for-zig/) [📖](https://read.readwise.io/read/01ksg52rndrdjzem1bfh9eeeqh) 👤 Dayvster 💬 976 🔖 #bun, #zig, #rust 🗓️ 2026-05-25
     > **Заметка:** Интересно! Наблюдаем за развитием событий :)
 - [The Eternal Sloptember](https://geohot.github.io/blog/jekyll/update/2026/05/24/the-eternal-sloptember.html) [📖](https://read.readwise.io/read/01ksev15azr8eysewhghz9veeq) 👤 the singularity is nearer 💬 873 🔖 #llm-reality 🗓️ 2026-05-25

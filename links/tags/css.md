@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 20
+- Всего ссылок: 21
 
 ## Ссылки
 
+- [CSS vs. JavaScript](https://www.joshwcomeau.com/animation/css-vs-javascript/) [📖](https://read.readwise.io/read/01ksj9r68fecy3nek8bhcmw1gf) 👤 Josh W. Comeau 💬 914 🔖 #css, #javascript 🗓️ 2026-05-26
+    > **Резюме:** CSS animations run smoothly because they work on a separate thread, unlike most JavaScript animations that share the main thread with other tasks. Some JavaScript libraries like Motion use the Web Animations API to achieve similar performance to CSS. It’s best to use CSS animations when possible and choose JavaScript tools that avoid slowing down your app.
 - [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) [📖](https://read.readwise.io/read/01krp5as0q2jqrzc2afhn7rm0q) 👤 Julia Evans 💬 1572 🔖 #css 🗓️ 2026-05-15
     > **Резюме:** Julia Evans moved away from Tailwind to write more semantic HTML and structured vanilla CSS. She organizes CSS by components with clear rules to avoid conflicts and copies useful parts from Tailwind like resets and variables. This change lets her use CSS features more freely and maintain cleaner, easier-to-understand code.
 - [Squash and Stretch](https://www.joshwcomeau.com/animation/squash-and-stretch/) [📖](https://read.readwise.io/read/01kp3krh1pjhbemz69pnxdac1c) 👤 Josh W. Comeau 💬 1457 🔖 #css, #animation 🗓️ 2026-04-13

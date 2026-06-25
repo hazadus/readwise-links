@@ -2,7 +2,7 @@
 
 _20 статей с наивысшим interest_score_
 
-Сгенерировано: 2026-06-24 04:38 UTC · Статей: 20
+Сгенерировано: 2026-06-25 04:37 UTC · Статей: 20
 
 ## Статьи
 
@@ -11,6 +11,8 @@ _20 статей с наивысшим interest_score_
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) [📖](https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7) 👤 Redowan Delowar 💬 1179 ⭐ 9 🔖 #go, #patterns 🗓️ 2025-08-04 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/694438ad-68b0-832f-91bf-a2c4f204944e
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
+- [Написал свой Claude Code за 99 строк кода. Встречаем — chebupelka!](https://www.youtube.com/watch?v=H7FSTj4x4xQ) [📖](https://read.readwise.io/read/01kvtt6tzepradptt737vc0rpa) 👤 Диджитализируй! ⭐ 9 🗓️ 2026-06-23 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Автор создал простого автономного агента для разработки на Python всего из 99 строк кода. Главная логика агента занимает всего шесть строк и позволяет решать сложные задачи через цикл взаимодействия. Этот агент может выполнять команды, обращаться в интернет и эффективно помогать с кодом без сложных настроек.
 - [Starting Systems Programming, Pt 1: Programmers Write Programs](https://eblog.fly.dev/startingsystems1.html?utm_source=christophberger&utm_medium=email&utm_campaign=2026-05-17-it-works-but-why) [📖](https://read.readwise.io/read/01krwn5xzt5ncgf86fdmjehwkk) 👤 Efron Licht 💬 8129 ⭐ 8 🔖 #go 🗓️ 2026-05-18 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** The article explores systems programming by examining what a program is and how to interact with its data. It includes practical exercises using Go programs and bash scripts to read, write, and manipulate binary data. The goal is to understand programming fundamentals and build tools to analyze programs effectively.
 - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) [📖](https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv) 👤 Max Woolf's Blog 💬 6903 ⭐ 8 🔖 #llm 🗓️ 2026-03-01
@@ -34,8 +36,6 @@ _20 статей с наивысшим interest_score_
 - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3) 👤 ngrok 💬 78 ⭐ 8 🔖 #llm, #explorable, #joyandcuriosity 🗓️ 2025-12-21 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/6947a45b-3860-8331-a302-0c3a55ab5594
     > **Резюме:** Prompt caching stores and reuses parts of LLM requests to avoid repeating work. This cuts token usage and cost by up to tenfold. It requires tracking inputs, outputs, and cache validity to stay correct.
-- [AI demands more engineering discipline. Not less (xpost)](https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/) [📖](https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw) 👤 mipsytipsy 💬 3503 ⭐ 7 🗓️ 2026-06-22
-    > **Резюме:** In 2025, AI made writing code almost free and instant, changing how software is built. This shift means code is less valuable as a permanent asset and more like a temporary tool. As AI grows, engineers must use more discipline to ensure software quality and shared understanding.
 - [macOS Tips](https://blog.xoria.org/macos-tips/) [📖](https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8) 👤 xoria.org 💬 2856 ⭐ 7 🔖 #macos 🗓️ 2026-01-31 · 🌲 вечнозелёное
     > **Резюме:** macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.
 - [How to build a remarkable command palette](https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01k7z3amqe376ky08bkmjbnp3v) 👤 Tim Boucher 💬 2747 ⭐ 7 🔖 #joyandcuriosity 🗓️ 2025-10-19 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное

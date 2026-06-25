@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T04:38:08.049197+00:00",
+  "generated_at": "2026-06-25T04:37:25.845252+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -57,6 +57,28 @@
         "saved_at": "2025-08-04T06:10:03.969000+00:00",
         "last_moved_at": "2025-08-09T21:36:15.725000+00:00",
         "published_date": "2025-08-03",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01kvtt6tzepradptt737vc0rpa",
+        "url": "https://read.readwise.io/read/01kvtt6tzepradptt737vc0rpa",
+        "source_url": "https://www.youtube.com/watch?v=H7FSTj4x4xQ",
+        "title": "Написал свой Claude Code за 99 строк кода. Встречаем — chebupelka!",
+        "author": "Диджитализируй!",
+        "image_url": "https://i.ytimg.com/vi/H7FSTj4x4xQ/sddefault.jpg",
+        "word_count": null,
+        "summary": "Автор создал простого автономного агента для разработки на Python всего из 99 строк кода. Главная логика агента занимает всего шесть строк и позволяет решать сложные задачи через цикл взаимодействия. Этот агент может выполнять команды, обращаться в интернет и эффективно помогать с кодом без сложных настроек.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-23T17:59:45.462000+00:00",
+        "last_moved_at": "2026-06-24T11:10:52.995000+00:00",
+        "published_date": "2026-06-23",
         "triage": {
           "is_tutorial": true,
           "is_foundational": true,
@@ -367,28 +389,6 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 8
-        }
-      },
-      {
-        "id": "01kvq2y4rrr7fwfss7n17wh9qw",
-        "url": "https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw",
-        "source_url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/",
-        "title": "AI demands more engineering discipline. Not less (xpost)",
-        "author": "mipsytipsy",
-        "image_url": "https://i0.wp.com/charity.wtf/wp-content/uploads/2026/06/nonde-giant.png?fit=1200%2C600&ssl=1",
-        "word_count": 3503,
-        "summary": "In 2025, AI made writing code almost free and instant, changing how software is built. This shift means code is less valuable as a permanent asset and more like a temporary tool. As AI grows, engineers must use more discipline to ensure software quality and shared understanding.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-22T07:15:23.031000+00:00",
-        "last_moved_at": "2026-06-22T07:15:28.109000+00:00",
-        "published_date": "2026-06-15",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
         }
       },
       {
@@ -1061,94 +1061,6 @@
         }
       },
       {
-        "id": "01kvq3etnf8dn7vdjvds0xp00q",
-        "url": "https://read.readwise.io/read/01kvq3etnf8dn7vdjvds0xp00q",
-        "source_url": "https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against",
-        "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
-        "author": "Charity Majors",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!2AXu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F591006fc-dcda-4be5-982e-312139d562e9_1425x507.png",
-        "word_count": 3287,
-        "summary": "AI fans and skeptics both face real challenges that threaten their teams and companies. To succeed, they must share honest stories about AI’s benefits and costs and work together like engineers solving problems. Trust, discipline, and clear communication are key to using AI well without burning out people or losing customers.",
-        "notes": "",
-        "tags": {
-          "llm-reality": {
-            "name": "LLM-Reality",
-            "type": "manual",
-            "created": 1782114227087
-          },
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1782113078819
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kvq3xasxmxpsaapsb1yhh0vc",
-            "url": "https://read.readwise.io/read/01kvq3xasxmxpsaapsb1yhh0vc",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "Readwise web highlighter",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kvq3etnf8dn7vdjvds0xp00q",
-            "reading_progress": 0.0,
-            "content": "The skeptics are also not wrong. When you ship code faster than engineers can read it, in domains where nobody has full context, you are making withdrawals from a trust account that took years to build. Reliability degrades, institutional knowledge evaporates. You end up with systems nobody understands, products burbling into incoherence, and on-call rotations that grind people up and spit them out. That is ALSO a real existential threat.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-06-22T07:32:25.664300+00:00",
-            "updated_at": "2026-06-22T07:32:25.664312+00:00",
-            "saved_at": "2026-06-22T07:32:25.021000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-06-22T07:32:25.021000+00:00"
-          },
-          {
-            "id": "01kvq3vsfzq076fjn21930s64f",
-            "url": "https://read.readwise.io/read/01kvq3vsfzq076fjn21930s64f",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "Readwise web highlighter",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kvq3etnf8dn7vdjvds0xp00q",
-            "reading_progress": 0.0,
-            "content": "The enthusiasts are not wrong. We are starting to see real, non-imaginary, discontinuous leaps in capabilities from teams that lean in hard to working with AI. And this does not feel like a normal technology cycle where you can wait for the dust to settle; teams that sit this out while competitors are hustling could be out of business before the dust settles. That’s a real, existential threat.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-06-22T07:31:35.113011+00:00",
-            "updated_at": "2026-06-22T07:31:35.113022+00:00",
-            "saved_at": "2026-06-22T07:31:34.527000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-06-22T07:31:34.527000+00:00"
-          }
-        ],
-        "saved_at": "2026-06-22T07:24:29.743000+00:00",
-        "last_moved_at": "2026-06-22T07:24:36.363000+00:00",
-        "published_date": "2026-06-02",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01keh0mtv65mmaj4vwam6etx96",
         "url": "https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96",
         "source_url": "https://steipete.me/posts/2025/shipping-at-inference-speed",
@@ -1177,28 +1089,6 @@
         }
       },
       {
-        "id": "01kvq2y4rrr7fwfss7n17wh9qw",
-        "url": "https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw",
-        "source_url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/",
-        "title": "AI demands more engineering discipline. Not less (xpost)",
-        "author": "mipsytipsy",
-        "image_url": "https://i0.wp.com/charity.wtf/wp-content/uploads/2026/06/nonde-giant.png?fit=1200%2C600&ssl=1",
-        "word_count": 3503,
-        "summary": "In 2025, AI made writing code almost free and instant, changing how software is built. This shift means code is less valuable as a permanent asset and more like a temporary tool. As AI grows, engineers must use more discipline to ensure software quality and shared understanding.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-22T07:15:23.031000+00:00",
-        "last_moved_at": "2026-06-22T07:15:28.109000+00:00",
-        "published_date": "2026-06-15",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
         "id": "01kjmv4fykfx18fbq95cz8v7v3",
         "url": "https://read.readwise.io/read/01kjmv4fykfx18fbq95cz8v7v3",
         "source_url": "https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email",
@@ -1219,6 +1109,28 @@
         "saved_at": "2026-03-01T13:59:17.202000+00:00",
         "last_moved_at": "2026-03-01T13:59:25.116000+00:00",
         "published_date": "2026-02-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kvxqmq6g23shqdh03ewy6jpt",
+        "url": "https://read.readwise.io/read/01kvxqmq6g23shqdh03ewy6jpt",
+        "source_url": "https://charity.wtf/2025/07/09/thoughts-on-motivation-and-my-40-year-career/",
+        "title": "Thoughts on Motivation and My 40-Year Career",
+        "author": "mipsytipsy",
+        "image_url": "https://i0.wp.com/charity.wtf/wp-content/uploads/2025/06/headshots-11.jpeg?fit=900%2C1200&ssl=1",
+        "word_count": 3929,
+        "summary": "The author shares how work has been a source of growth, meaning, and community throughout their 40-year tech career. They believe work can inspire learning, innovation, and integrity even in tough times. Their hope is to show that meaningful work and strong ideals can still lead to success.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-24T21:12:40.912000+00:00",
+        "last_moved_at": "2026-06-24T21:12:59.774000+00:00",
+        "published_date": "2025-07-09",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -1446,6 +1358,34 @@
           "is_tutorial": false,
           "is_foundational": false,
           "is_evergreen": true,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kfabyqddxp6mh9jgjpa7mrcv",
+        "url": "https://read.readwise.io/read/01kfabyqddxp6mh9jgjpa7mrcv",
+        "source_url": "https://paulstamatiou.com/2025-year-in-review?utm_source=substack&utm_medium=email",
+        "title": "Year in review: Limitless, Sesame, Claude Code, and more",
+        "author": "paulstamatiou.com",
+        "image_url": "https://turbo.paulstamatiou.com/uploads/2025/12/sesame-office-view.jpg",
+        "word_count": 8751,
+        "summary": "In 2025, Paul Stamatiou focused on designing and building simple, high-quality AI products that feel personal and useful. He left his startup role to join Sesame as Head of Design, working closely on software and hardware. He believes great design means thoughtful product building, not just flashy visuals or shortcuts with AI.",
+        "notes": "",
+        "tags": {
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1768800894049
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-19T05:34:29.805000+00:00",
+        "last_moved_at": "2026-01-19T05:34:55.461000+00:00",
+        "published_date": "2026-01-12",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
           "interest_score": 2
         }
       }
@@ -1823,28 +1763,6 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 8
-        }
-      },
-      {
-        "id": "01kvq2y4rrr7fwfss7n17wh9qw",
-        "url": "https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw",
-        "source_url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/",
-        "title": "AI demands more engineering discipline. Not less (xpost)",
-        "author": "mipsytipsy",
-        "image_url": "https://i0.wp.com/charity.wtf/wp-content/uploads/2026/06/nonde-giant.png?fit=1200%2C600&ssl=1",
-        "word_count": 3503,
-        "summary": "In 2025, AI made writing code almost free and instant, changing how software is built. This shift means code is less valuable as a permanent asset and more like a temporary tool. As AI grows, engineers must use more discipline to ensure software quality and shared understanding.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-22T07:15:23.031000+00:00",
-        "last_moved_at": "2026-06-22T07:15:28.109000+00:00",
-        "published_date": "2026-06-15",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
         }
       },
       {
@@ -2392,6 +2310,28 @@
         }
       },
       {
+        "id": "01kvxqmq6g23shqdh03ewy6jpt",
+        "url": "https://read.readwise.io/read/01kvxqmq6g23shqdh03ewy6jpt",
+        "source_url": "https://charity.wtf/2025/07/09/thoughts-on-motivation-and-my-40-year-career/",
+        "title": "Thoughts on Motivation and My 40-Year Career",
+        "author": "mipsytipsy",
+        "image_url": "https://i0.wp.com/charity.wtf/wp-content/uploads/2025/06/headshots-11.jpeg?fit=900%2C1200&ssl=1",
+        "word_count": 3929,
+        "summary": "The author shares how work has been a source of growth, meaning, and community throughout their 40-year tech career. They believe work can inspire learning, innovation, and integrity even in tough times. Their hope is to show that meaningful work and strong ideals can still lead to success.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-24T21:12:40.912000+00:00",
+        "last_moved_at": "2026-06-24T21:12:59.774000+00:00",
+        "published_date": "2025-07-09",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01kjmv4fykfx18fbq95cz8v7v3",
         "url": "https://read.readwise.io/read/01kjmv4fykfx18fbq95cz8v7v3",
         "source_url": "https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email",
@@ -2438,94 +2378,6 @@
           "is_tutorial": false,
           "is_foundational": true,
           "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kvq3etnf8dn7vdjvds0xp00q",
-        "url": "https://read.readwise.io/read/01kvq3etnf8dn7vdjvds0xp00q",
-        "source_url": "https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against",
-        "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
-        "author": "Charity Majors",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!2AXu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F591006fc-dcda-4be5-982e-312139d562e9_1425x507.png",
-        "word_count": 3287,
-        "summary": "AI fans and skeptics both face real challenges that threaten their teams and companies. To succeed, they must share honest stories about AI’s benefits and costs and work together like engineers solving problems. Trust, discipline, and clear communication are key to using AI well without burning out people or losing customers.",
-        "notes": "",
-        "tags": {
-          "llm-reality": {
-            "name": "LLM-Reality",
-            "type": "manual",
-            "created": 1782114227087
-          },
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1782113078819
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kvq3xasxmxpsaapsb1yhh0vc",
-            "url": "https://read.readwise.io/read/01kvq3xasxmxpsaapsb1yhh0vc",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "Readwise web highlighter",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kvq3etnf8dn7vdjvds0xp00q",
-            "reading_progress": 0.0,
-            "content": "The skeptics are also not wrong. When you ship code faster than engineers can read it, in domains where nobody has full context, you are making withdrawals from a trust account that took years to build. Reliability degrades, institutional knowledge evaporates. You end up with systems nobody understands, products burbling into incoherence, and on-call rotations that grind people up and spit them out. That is ALSO a real existential threat.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-06-22T07:32:25.664300+00:00",
-            "updated_at": "2026-06-22T07:32:25.664312+00:00",
-            "saved_at": "2026-06-22T07:32:25.021000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-06-22T07:32:25.021000+00:00"
-          },
-          {
-            "id": "01kvq3vsfzq076fjn21930s64f",
-            "url": "https://read.readwise.io/read/01kvq3vsfzq076fjn21930s64f",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "Readwise web highlighter",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kvq3etnf8dn7vdjvds0xp00q",
-            "reading_progress": 0.0,
-            "content": "The enthusiasts are not wrong. We are starting to see real, non-imaginary, discontinuous leaps in capabilities from teams that lean in hard to working with AI. And this does not feel like a normal technology cycle where you can wait for the dust to settle; teams that sit this out while competitors are hustling could be out of business before the dust settles. That’s a real, existential threat.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-06-22T07:31:35.113011+00:00",
-            "updated_at": "2026-06-22T07:31:35.113022+00:00",
-            "saved_at": "2026-06-22T07:31:34.527000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-06-22T07:31:34.527000+00:00"
-          }
-        ],
-        "saved_at": "2026-06-22T07:24:29.743000+00:00",
-        "last_moved_at": "2026-06-22T07:24:36.363000+00:00",
-        "published_date": "2026-06-02",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
           "interest_score": 2
         }
       },
@@ -2813,6 +2665,28 @@
         "saved_at": "2025-08-04T06:10:03.969000+00:00",
         "last_moved_at": "2025-08-09T21:36:15.725000+00:00",
         "published_date": "2025-08-03",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01kvtt6tzepradptt737vc0rpa",
+        "url": "https://read.readwise.io/read/01kvtt6tzepradptt737vc0rpa",
+        "source_url": "https://www.youtube.com/watch?v=H7FSTj4x4xQ",
+        "title": "Написал свой Claude Code за 99 строк кода. Встречаем — chebupelka!",
+        "author": "Диджитализируй!",
+        "image_url": "https://i.ytimg.com/vi/H7FSTj4x4xQ/sddefault.jpg",
+        "word_count": null,
+        "summary": "Автор создал простого автономного агента для разработки на Python всего из 99 строк кода. Главная логика агента занимает всего шесть строк и позволяет решать сложные задачи через цикл взаимодействия. Этот агент может выполнять команды, обращаться в интернет и эффективно помогать с кодом без сложных настроек.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-23T17:59:45.462000+00:00",
+        "last_moved_at": "2026-06-24T11:10:52.995000+00:00",
+        "published_date": "2026-06-23",
         "triage": {
           "is_tutorial": true,
           "is_foundational": true,
@@ -3159,6 +3033,28 @@
         "saved_at": "2025-08-04T06:10:03.969000+00:00",
         "last_moved_at": "2025-08-09T21:36:15.725000+00:00",
         "published_date": "2025-08-03",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01kvtt6tzepradptt737vc0rpa",
+        "url": "https://read.readwise.io/read/01kvtt6tzepradptt737vc0rpa",
+        "source_url": "https://www.youtube.com/watch?v=H7FSTj4x4xQ",
+        "title": "Написал свой Claude Code за 99 строк кода. Встречаем — chebupelka!",
+        "author": "Диджитализируй!",
+        "image_url": "https://i.ytimg.com/vi/H7FSTj4x4xQ/sddefault.jpg",
+        "word_count": null,
+        "summary": "Автор создал простого автономного агента для разработки на Python всего из 99 строк кода. Главная логика агента занимает всего шесть строк и позволяет решать сложные задачи через цикл взаимодействия. Этот агент может выполнять команды, обращаться в интернет и эффективно помогать с кодом без сложных настроек.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-23T17:59:45.462000+00:00",
+        "last_moved_at": "2026-06-24T11:10:52.995000+00:00",
+        "published_date": "2026-06-23",
         "triage": {
           "is_tutorial": true,
           "is_foundational": true,
@@ -4095,28 +3991,6 @@
         }
       },
       {
-        "id": "01kvq2y4rrr7fwfss7n17wh9qw",
-        "url": "https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw",
-        "source_url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/",
-        "title": "AI demands more engineering discipline. Not less (xpost)",
-        "author": "mipsytipsy",
-        "image_url": "https://i0.wp.com/charity.wtf/wp-content/uploads/2026/06/nonde-giant.png?fit=1200%2C600&ssl=1",
-        "word_count": 3503,
-        "summary": "In 2025, AI made writing code almost free and instant, changing how software is built. This shift means code is less valuable as a permanent asset and more like a temporary tool. As AI grows, engineers must use more discipline to ensure software quality and shared understanding.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-22T07:15:23.031000+00:00",
-        "last_moved_at": "2026-06-22T07:15:28.109000+00:00",
-        "published_date": "2026-06-15",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
         "id": "01k62kckeewb1936zrjewhbhvn",
         "url": "https://read.readwise.io/read/01k62kckeewb1936zrjewhbhvn",
         "source_url": "https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/",
@@ -4339,6 +4213,28 @@
         }
       },
       {
+        "id": "01kvxqmq6g23shqdh03ewy6jpt",
+        "url": "https://read.readwise.io/read/01kvxqmq6g23shqdh03ewy6jpt",
+        "source_url": "https://charity.wtf/2025/07/09/thoughts-on-motivation-and-my-40-year-career/",
+        "title": "Thoughts on Motivation and My 40-Year Career",
+        "author": "mipsytipsy",
+        "image_url": "https://i0.wp.com/charity.wtf/wp-content/uploads/2025/06/headshots-11.jpeg?fit=900%2C1200&ssl=1",
+        "word_count": 3929,
+        "summary": "The author shares how work has been a source of growth, meaning, and community throughout their 40-year tech career. They believe work can inspire learning, innovation, and integrity even in tough times. Their hope is to show that meaningful work and strong ideals can still lead to success.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-24T21:12:40.912000+00:00",
+        "last_moved_at": "2026-06-24T21:12:59.774000+00:00",
+        "published_date": "2025-07-09",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01kjmv4fykfx18fbq95cz8v7v3",
         "url": "https://read.readwise.io/read/01kjmv4fykfx18fbq95cz8v7v3",
         "source_url": "https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email",
@@ -4359,94 +4255,6 @@
         "saved_at": "2026-03-01T13:59:17.202000+00:00",
         "last_moved_at": "2026-03-01T13:59:25.116000+00:00",
         "published_date": "2026-02-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kvq3etnf8dn7vdjvds0xp00q",
-        "url": "https://read.readwise.io/read/01kvq3etnf8dn7vdjvds0xp00q",
-        "source_url": "https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against",
-        "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
-        "author": "Charity Majors",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!2AXu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F591006fc-dcda-4be5-982e-312139d562e9_1425x507.png",
-        "word_count": 3287,
-        "summary": "AI fans and skeptics both face real challenges that threaten their teams and companies. To succeed, they must share honest stories about AI’s benefits and costs and work together like engineers solving problems. Trust, discipline, and clear communication are key to using AI well without burning out people or losing customers.",
-        "notes": "",
-        "tags": {
-          "llm-reality": {
-            "name": "LLM-Reality",
-            "type": "manual",
-            "created": 1782114227087
-          },
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1782113078819
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kvq3xasxmxpsaapsb1yhh0vc",
-            "url": "https://read.readwise.io/read/01kvq3xasxmxpsaapsb1yhh0vc",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "Readwise web highlighter",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kvq3etnf8dn7vdjvds0xp00q",
-            "reading_progress": 0.0,
-            "content": "The skeptics are also not wrong. When you ship code faster than engineers can read it, in domains where nobody has full context, you are making withdrawals from a trust account that took years to build. Reliability degrades, institutional knowledge evaporates. You end up with systems nobody understands, products burbling into incoherence, and on-call rotations that grind people up and spit them out. That is ALSO a real existential threat.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-06-22T07:32:25.664300+00:00",
-            "updated_at": "2026-06-22T07:32:25.664312+00:00",
-            "saved_at": "2026-06-22T07:32:25.021000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-06-22T07:32:25.021000+00:00"
-          },
-          {
-            "id": "01kvq3vsfzq076fjn21930s64f",
-            "url": "https://read.readwise.io/read/01kvq3vsfzq076fjn21930s64f",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "Readwise web highlighter",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kvq3etnf8dn7vdjvds0xp00q",
-            "reading_progress": 0.0,
-            "content": "The enthusiasts are not wrong. We are starting to see real, non-imaginary, discontinuous leaps in capabilities from teams that lean in hard to working with AI. And this does not feel like a normal technology cycle where you can wait for the dust to settle; teams that sit this out while competitors are hustling could be out of business before the dust settles. That’s a real, existential threat.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-06-22T07:31:35.113011+00:00",
-            "updated_at": "2026-06-22T07:31:35.113022+00:00",
-            "saved_at": "2026-06-22T07:31:34.527000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-06-22T07:31:34.527000+00:00"
-          }
-        ],
-        "saved_at": "2026-06-22T07:24:29.743000+00:00",
-        "last_moved_at": "2026-06-22T07:24:36.363000+00:00",
-        "published_date": "2026-06-02",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 21
+- Всего ссылок: 22
 
 ## Ссылки
 
+- [AI demands more engineering discipline. Not less (xpost)](https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/) [📖](https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw) 👤 mipsytipsy 💬 3503 🔖 #llm-reality, #predictions, #llm-devimpact 🗓️ 2026-06-22
+    > **Заметка:** Очень дельные мысли по поводу регенерации кода по аналогии с идеей immutable infrastructure. Добавить это в watchlist.
+    > **Резюме:** In 2025, AI made writing code almost free and instant, changing how software is built. This shift means code is less valuable as a permanent asset and more like a temporary tool. As AI grows, engineers must use more discipline to ensure software quality and shared understanding.
 - [None](https://read.readwise.io/read/01kqv9vfsnqjy1mh4ja6hgkbwm) 🔖 #predictions 🗓️ 2026-05-05
 - [Are "Vintage LLMs" the start of a new humanistic field?](https://resobscura.substack.com/p/are-vintage-llms-the-start-of-a-new) [📖](https://read.readwise.io/read/01kqcpp6avwpj3wrp5gr3wfws4) 👤 Benjamin Breen 💬 2991 🔖 #llm, #predictions 🗓️ 2026-04-29
     > **Заметка:** Интересные идеи насчет "исторических LLM". Их, как минимум, можно использовать для различных исторических симуляций - игр или в процессе обучения. Очень интересные направления для исследований описаны в статье.

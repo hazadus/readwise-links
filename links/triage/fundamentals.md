@@ -2,13 +2,15 @@
 
 _Фундаментальные материалы с долгосрочной ценностью_
 
-Сгенерировано: 2026-06-24 04:38 UTC · Статей: 29
+Сгенерировано: 2026-06-25 04:37 UTC · Статей: 30
 
 ## Статьи
 
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) [📖](https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7) 👤 Redowan Delowar 💬 1179 ⭐ 9 🔖 #go, #patterns 🗓️ 2025-08-04 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/694438ad-68b0-832f-91bf-a2c4f204944e
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
+- [Написал свой Claude Code за 99 строк кода. Встречаем — chebupelka!](https://www.youtube.com/watch?v=H7FSTj4x4xQ) [📖](https://read.readwise.io/read/01kvtt6tzepradptt737vc0rpa) 👤 Диджитализируй! ⭐ 9 🗓️ 2026-06-23 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Автор создал простого автономного агента для разработки на Python всего из 99 строк кода. Главная логика агента занимает всего шесть строк и позволяет решать сложные задачи через цикл взаимодействия. Этот агент может выполнять команды, обращаться в интернет и эффективно помогать с кодом без сложных настроек.
 - [Starting Systems Programming, Pt 1: Programmers Write Programs](https://eblog.fly.dev/startingsystems1.html?utm_source=christophberger&utm_medium=email&utm_campaign=2026-05-17-it-works-but-why) [📖](https://read.readwise.io/read/01krwn5xzt5ncgf86fdmjehwkk) 👤 Efron Licht 💬 8129 ⭐ 8 🔖 #go 🗓️ 2026-05-18 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** The article explores systems programming by examining what a program is and how to interact with its data. It includes practical exercises using Go programs and bash scripts to read, write, and manipulate binary data. The goal is to understand programming fundamentals and build tools to analyze programs effectively.
 - [How Servers Work: A Hands-On Introduction to TCP Sockets](https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets) [📖](https://read.readwise.io/read/01ktndr2v6nrwd97jy43v36sza) 👤 Ivan Velichko 💬 3616 ⭐ 8 🔖 #theory, #network 🗓️ 2026-06-09 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное

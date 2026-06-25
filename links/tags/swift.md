@@ -1,9 +1,18 @@
 # Ссылки
 
-- Всего ссылок: 17
+- Всего ссылок: 18
 
 ## Ссылки
 
+- [In Praise of SwiftUI](https://troz.net/post/2026/swiftui_praise/) [📖](https://read.readwise.io/read/01kshar3cma3as4cydnmgj7nj2) 👤 Sarah Reichelt 💬 1316 🔖 #macos, #swift 🗓️ 2026-05-26
+    > **Заметка:** Опытный разработчки софта под Мак даёт взвешенную оценку плюсов и минусов SwiftUI.
+    > **Резюме:** Recently, I have seen multiple posts on Mastodon suggesting that SwiftUI is a failure, that nobody is using it, and that Apple should have focused on improving or replacing AppKit and UIKit instead of wasting everyone's time with SwiftUI. While I have great respect for some of the people saying these things, I disagree. I love using SwiftUI, I think a large number of developers are using it, and I want to explain what I find so great about it.
+Perhaps one problem was the name. Yes, it allows you to define your user interface in Swift, but so do AppKit and UIKit. For me, the part that I miss most when going back to work on an older project is the data flow and the reactive nature of SwiftUI, and that's not reflected in the name at all.
+Data Flow
+I have written several articles about SwiftUI's data flow. The most recent one was in 2023 and it's still valid today: SwiftUI Data Flow 2023. I won't repeat all the details here, but SwiftUI gives us features that allow for concise and logical data control, while making it clear which view owns the data and provides the single source of truth.
+The reactive aspect of SwiftUI feels like magic! It allows me to have something like a stored setting with a default value, connected to a menu item with a checkmark, a toggle in a settings window, a button in the toolbar, and a switch on the main interface. SwiftUI keeps these all in sync without any effort on my part. This sort of flexibility was a lot of work in AppKit and UIKit, and it was easy to end up with sections of the UI out of sync with the data. In AppKit apps, you could use Cocoa Bindings, but these were tricky to set up, not good with source control and totally opaque to any developer new to the project.
+User Interface
+Let's go deeper into the UI part. AppKit and UIKit have two options for creating user interfaces. You can either build graphically in Xcode's Interface Builder, or write all the interface in code. The "interface-in-code" lobby has always been very vocal...
 - [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/) [📖](https://read.readwise.io/read/01krwtd8jrdgxqffpm1szxnd50) 👤 Artem Loenko 💬 615 🔖 #macos, #swift 🗓️ 2026-05-18
     > **Заметка:** Честный взгляд от нативного macOS разработчика. Не думал, что у SwiftUI/Appkit столько ограничений... Via HN
     > **Резюме:** Native Apple tools like SwiftUI and TextKit struggle with complex text tasks like Markdown chat. Web-based frameworks and Electron handle rich text better and perform well. For modern chat apps, native SDKs often limit rather than help development.

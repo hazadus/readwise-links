@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [Adversarial Communication](https://blog.glyph.im/2026/06/adversarial-communication.html) [📖](https://read.readwise.io/read/01kvsck0xkwt59pjbqrb7hef8y) 👤 Glyph 💬 2762 🔖 #learning, #codereview, #llm-devimpact, #llm-resistance 🗓️ 2026-06-23
+    > **Заметка:** "Враждебная коммуникация". Сквозная идея поста – LLM позволяют перенести стоимость верификации выхлопа с "автора", получающего выгоду, на "жертву", которой предстоит всё это разгребать.
+    > **Резюме:** “AI” turns every conversation into a fight, because fighting is what
+they are good at.
 - [Leave Me Behind](https://androidessence.com/leave-me-behind/?utm_source=tldrdev#) [📖](https://read.readwise.io/read/01kskwsktqjtny0tr3x79gb74w) 👤 Adam McNeilly 💬 1621 🔖 #learning, #reflections, #llm-devimpact, #llm-resistance 🗓️ 2026-05-27
     > **Заметка:** Последнее время чаще стали такие взгляды попадаться, это радует.   Via TLDR Newsletter.
     > **Резюме:** The author shares his journey learning Android development and the joy of building apps with others. He worries that relying too much on AI tools can take away the human learning and connection in software development. He believes true progress comes from people working together, sharing struggles, and growing as a community.
