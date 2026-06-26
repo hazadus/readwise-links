@@ -1,12 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 54
+- Всего ссылок: 55
 
 ## Ссылки
 
 - [The Conversation Is the Commit](https://aicoding.leaflet.pub/3mhxvpam4z22z) [📖](https://read.readwise.io/read/01kvw5hfg6efj4bz1daj2ces5m) 👤 The Phoenix Architecture 💬 1514 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-06-24
     > **Заметка:** Рассмотрена важная проблема. Причины создания и изменения кода нужно хранить рядом с ним. Нынешние системы контроля версий не идеально к этом приспособлены, но вполне можно использовать commit messages, PR descriptions, ADR-документы, обзоры архитектуры и т.п. Это уже лучше, чем ничего.
     > **Резюме:** Code alone doesn't show why or how decisions were made, so understanding it later is hard. When AI agents write code, the true source is the conversation that created it, not the code itself. To keep software clear and trustworthy, we must capture and version-control these conversations, not just the code.
+- [Production Is a Compiler Input](https://aicoding.leaflet.pub/3mjx4erlboc2l) [📖](https://read.readwise.io/read/01kvw5hfc1jy6y6t8pdqa7kdqe) 👤 The Phoenix Architecture 💬 941 🔖 #observability, #softwarecraft 🗓️ 2026-06-24
+    > **Заметка:** Интересно. "Производство" - это где живет приложение, там подтвержаются предположения, сделанные при разработке. И "правда о производстве" должна поступать на вход при разработке/генерации софта, чтобы он был корректным и актуальным. Мне нравится идея.
+    > **Резюме:** Production data should directly guide how software evolves, not just help humans debug it. The Phoenix Architecture treats production truth as input to update and fix code automatically when real-world conditions change. This approach makes software adapt continuously by linking requirements, evidence, and implementation in a smart feedback loop.
 - [Slop Creep: The Great Enshittification of Software](https://boristane.com/blog/slop-creep-enshittification-of-software/) [📖](https://read.readwise.io/read/01krv6c0rkp6kcnw82f0cmet4q) 👤 Boris Tane 💬 1389 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-05-17
     > **Заметка:** Если сократить пост до одного предложения: с агентом или без, нужно не торопиться и тщательно выстраивать систему, а не бездумно напихивать фичи.
     > **Резюме:** Coding agents often create messy software because they miss important system details and build on small mistakes. To avoid this, humans must guide agents carefully and share key design decisions. Despite flaws, agents can help if they understand the whole system and work closely with developers.

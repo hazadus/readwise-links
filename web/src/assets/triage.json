@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T04:37:25.845252+00:00",
+  "generated_at": "2026-06-26T04:40:43.310234+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -531,53 +531,59 @@
         }
       },
       {
-        "id": "01ktndd9cyk7mrv5btd8qg0bhk",
-        "url": "https://read.readwise.io/read/01ktndd9cyk7mrv5btd8qg0bhk",
-        "source_url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-        "title": "Domain Expertise Has Always Been the Real Moat",
-        "author": "brethorsting.com",
-        "image_url": "",
-        "word_count": 760,
-        "summary": "Writing code is now easier because AI can generate it without deep domain knowledge. The real challenge is knowing if the AI’s output is correct, which requires domain expertise. The most valuable people combine strong coding skills with deep understanding of the domain.",
-        "notes": "Via Wisereads vol.146",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-09T05:24:14.365000+00:00",
-        "last_moved_at": "2026-06-09T05:24:19.657000+00:00",
-        "published_date": "2026-05-30",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01ksq17ebymbxs264akq38pwm5",
-        "url": "https://read.readwise.io/read/01ksq17ebymbxs264akq38pwm5",
-        "source_url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
-        "title": "What I’m Hearing About Cognitive Debt (So Far)",
-        "author": "on 18 Feb 2026",
-        "image_url": "http://margaretstorey.com/assets/images/ms_logo.png",
-        "word_count": 702,
-        "summary": "Cognitive debt happens when a team's shared understanding of a system lags behind how fast the system changes. This gap makes development harder and causes stress, even if the software still works. Teams can fight cognitive debt by updating documents, tests, and using AI to keep knowledge clear and shared.",
-        "notes": "",
+        "id": "01knrbv38h3exn38swf8dcxj41",
+        "url": "https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41",
+        "source_url": "https://werwolv.net/posts/usb_for_sw_devs/",
+        "title": "USB for Software Developers",
+        "author": "WerWolv",
+        "image_url": "https://werwolv.net/_astro/cover.D_ljJUxi.png",
+        "word_count": 2523,
+        "summary": "Writing a USB driver is similar to writing a network application and does not require kernel code. USB devices identify themselves using standard descriptors, which the host reads to understand the device and its capabilities. Developers can communicate with devices through specific endpoints using simple commands, as shown in the Fastboot example.",
+        "notes": "Via HackerNews",
         "tags": {
-          "cognitivedebt": {
-            "name": "CognitiveDebt",
+          "usb": {
+            "name": "USB",
             "type": "manual",
-            "created": 1779963256517
+            "created": 1777035148150
           }
         },
         "highlights": [],
-        "saved_at": "2026-05-28T10:14:06.974000+00:00",
-        "last_moved_at": "2026-05-28T10:14:11.752000+00:00",
-        "published_date": "2026-02-18",
+        "saved_at": "2026-04-09T05:36:03.856000+00:00",
+        "last_moved_at": "2026-04-25T09:37:34.724000+00:00",
+        "published_date": "2026-04-07",
         "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
+          "is_tutorial": true,
+          "is_foundational": true,
           "is_evergreen": true,
-          "interest_score": 7
+          "interest_score": 6
+        }
+      },
+      {
+        "id": "01kgpxfr0rd5sezbhmv0szq1dt",
+        "url": "https://read.readwise.io/read/01kgpxfr0rd5sezbhmv0szq1dt",
+        "source_url": "https://mtlynch.io/good-developers-bad-tests/#test-code-is-not-like-other-code",
+        "title": "Why Good Developers Write Bad Unit Tests",
+        "author": "Michael Lynch",
+        "image_url": "https://mtlynch.io/good-developers-bad-tests/cover.jpg",
+        "word_count": 2167,
+        "summary": "Software developers often write bad unit tests by blindly applying production code rules to test code, leading to unnecessary complexity. Good unit tests should be simple, clear, and self-contained, enabling easy understanding and issue diagnosis without excessive abstraction. Naming tests effectively and avoiding unnecessary constants can help improve the quality of unit tests.",
+        "notes": "Via https://refactoringenglish.com/blog/software-essays-that-shaped-me/#-by-erik-kuefler-2014",
+        "tags": {
+          "testing": {
+            "name": "Testing",
+            "type": "manual",
+            "created": 1770295661004
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-02-05T12:47:28.280000+00:00",
+        "last_moved_at": "2026-02-05T12:47:33.361000+00:00",
+        "published_date": "2018-11-09",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 6
         }
       }
     ],
@@ -633,56 +639,6 @@
         }
       },
       {
-        "id": "01ksq17ebymbxs264akq38pwm5",
-        "url": "https://read.readwise.io/read/01ksq17ebymbxs264akq38pwm5",
-        "source_url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
-        "title": "What I’m Hearing About Cognitive Debt (So Far)",
-        "author": "on 18 Feb 2026",
-        "image_url": "http://margaretstorey.com/assets/images/ms_logo.png",
-        "word_count": 702,
-        "summary": "Cognitive debt happens when a team's shared understanding of a system lags behind how fast the system changes. This gap makes development harder and causes stress, even if the software still works. Teams can fight cognitive debt by updating documents, tests, and using AI to keep knowledge clear and shared.",
-        "notes": "",
-        "tags": {
-          "cognitivedebt": {
-            "name": "CognitiveDebt",
-            "type": "manual",
-            "created": 1779963256517
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-05-28T10:14:06.974000+00:00",
-        "last_moved_at": "2026-05-28T10:14:11.752000+00:00",
-        "published_date": "2026-02-18",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01ktndd9cyk7mrv5btd8qg0bhk",
-        "url": "https://read.readwise.io/read/01ktndd9cyk7mrv5btd8qg0bhk",
-        "source_url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-        "title": "Domain Expertise Has Always Been the Real Moat",
-        "author": "brethorsting.com",
-        "image_url": "",
-        "word_count": 760,
-        "summary": "Writing code is now easier because AI can generate it without deep domain knowledge. The real challenge is knowing if the AI’s output is correct, which requires domain expertise. The most valuable people combine strong coding skills with deep understanding of the domain.",
-        "notes": "Via Wisereads vol.146",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-09T05:24:14.365000+00:00",
-        "last_moved_at": "2026-06-09T05:24:19.657000+00:00",
-        "published_date": "2026-05-30",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
         "id": "01kq1zx0r4n33srh7vqaawdkzh",
         "url": "https://read.readwise.io/read/01kq1zx0r4n33srh7vqaawdkzh",
         "source_url": "https://hhh.hn/rodecaster-duo-fw/",
@@ -697,28 +653,6 @@
         "saved_at": "2026-04-25T09:35:30.052000+00:00",
         "last_moved_at": "2026-04-25T09:35:32.366000+00:00",
         "published_date": "2026-04-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01ktndj64tqep1mx6asgtfwwt3",
-        "url": "https://read.readwise.io/read/01ktndj64tqep1mx6asgtfwwt3",
-        "source_url": "https://thoughts.hmmz.org/2026-05-31.html",
-        "title": "the solution might be cancelling my AI subscription",
-        "author": "hmmz.org",
-        "image_url": "",
-        "word_count": 1148,
-        "summary": "The author built many AI projects but finds them mostly useless and hard to maintain. AI tools increase distraction and shallow work, hurting real focus and productivity. To manage this, the author thinks limiting AI use is the best way forward.",
-        "notes": "Via Wisereads Vol.146",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-09T05:26:54.873000+00:00",
-        "last_moved_at": "2026-06-09T05:26:58.035000+00:00",
-        "published_date": "2026-05-31",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -773,6 +707,34 @@
           "is_tutorial": false,
           "is_foundational": false,
           "is_evergreen": false,
+          "interest_score": 3
+        }
+      },
+      {
+        "id": "01kvswppy9118grz6qtn39x89d",
+        "url": "https://read.readwise.io/read/01kvswppy9118grz6qtn39x89d",
+        "source_url": "https://bitfieldconsulting.com/posts/rewrite-in-rust",
+        "title": "Rewriting the world in Rust",
+        "author": "John Arundel",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/20171395-9595-4bb0-8764-657ec1ccbc83/rewrite-rust.webp?format=1000w",
+        "word_count": 1976,
+        "summary": "Rust is a modern language that improves software security by preventing many memory and concurrency bugs. Rewriting all old code in Rust is very hard, and automatic translation does not create good Rust programs. Instead, gradually replacing parts with Rust and redesigning code step-by-step is a more practical and effective approach.",
+        "notes": "",
+        "tags": {
+          "rust": {
+            "name": "Rust",
+            "type": "manual",
+            "created": 1782299541103
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-06-23T09:24:08.338000+00:00",
+        "last_moved_at": "2026-06-24T11:12:25.087000+00:00",
+        "published_date": "2026-06-23",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
           "interest_score": 3
         }
       },
@@ -1427,56 +1389,6 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 8
-        }
-      },
-      {
-        "id": "01ktndd9cyk7mrv5btd8qg0bhk",
-        "url": "https://read.readwise.io/read/01ktndd9cyk7mrv5btd8qg0bhk",
-        "source_url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-        "title": "Domain Expertise Has Always Been the Real Moat",
-        "author": "brethorsting.com",
-        "image_url": "",
-        "word_count": 760,
-        "summary": "Writing code is now easier because AI can generate it without deep domain knowledge. The real challenge is knowing if the AI’s output is correct, which requires domain expertise. The most valuable people combine strong coding skills with deep understanding of the domain.",
-        "notes": "Via Wisereads vol.146",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-09T05:24:14.365000+00:00",
-        "last_moved_at": "2026-06-09T05:24:19.657000+00:00",
-        "published_date": "2026-05-30",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01ksq17ebymbxs264akq38pwm5",
-        "url": "https://read.readwise.io/read/01ksq17ebymbxs264akq38pwm5",
-        "source_url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
-        "title": "What I’m Hearing About Cognitive Debt (So Far)",
-        "author": "on 18 Feb 2026",
-        "image_url": "http://margaretstorey.com/assets/images/ms_logo.png",
-        "word_count": 702,
-        "summary": "Cognitive debt happens when a team's shared understanding of a system lags behind how fast the system changes. This gap makes development harder and causes stress, even if the software still works. Teams can fight cognitive debt by updating documents, tests, and using AI to keep knowledge clear and shared.",
-        "notes": "",
-        "tags": {
-          "cognitivedebt": {
-            "name": "CognitiveDebt",
-            "type": "manual",
-            "created": 1779963256517
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-05-28T10:14:06.974000+00:00",
-        "last_moved_at": "2026-05-28T10:14:11.752000+00:00",
-        "published_date": "2026-02-18",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 7
         }
       },
       {
@@ -2135,6 +2047,34 @@
         "saved_at": "2026-04-24T12:51:58.863000+00:00",
         "last_moved_at": "2026-04-24T12:52:02.239000+00:00",
         "published_date": "2018-04-12",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 3
+        }
+      },
+      {
+        "id": "01kvswppy9118grz6qtn39x89d",
+        "url": "https://read.readwise.io/read/01kvswppy9118grz6qtn39x89d",
+        "source_url": "https://bitfieldconsulting.com/posts/rewrite-in-rust",
+        "title": "Rewriting the world in Rust",
+        "author": "John Arundel",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/20171395-9595-4bb0-8764-657ec1ccbc83/rewrite-rust.webp?format=1000w",
+        "word_count": 1976,
+        "summary": "Rust is a modern language that improves software security by preventing many memory and concurrency bugs. Rewriting all old code in Rust is very hard, and automatic translation does not create good Rust programs. Instead, gradually replacing parts with Rust and redesigning code step-by-step is a more practical and effective approach.",
+        "notes": "",
+        "tags": {
+          "rust": {
+            "name": "Rust",
+            "type": "manual",
+            "created": 1782299541103
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-06-23T09:24:08.338000+00:00",
+        "last_moved_at": "2026-06-24T11:12:25.087000+00:00",
+        "published_date": "2026-06-23",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -4013,28 +3953,6 @@
         }
       },
       {
-        "id": "01ktndd9cyk7mrv5btd8qg0bhk",
-        "url": "https://read.readwise.io/read/01ktndd9cyk7mrv5btd8qg0bhk",
-        "source_url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-        "title": "Domain Expertise Has Always Been the Real Moat",
-        "author": "brethorsting.com",
-        "image_url": "",
-        "word_count": 760,
-        "summary": "Writing code is now easier because AI can generate it without deep domain knowledge. The real challenge is knowing if the AI’s output is correct, which requires domain expertise. The most valuable people combine strong coding skills with deep understanding of the domain.",
-        "notes": "Via Wisereads vol.146",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-09T05:24:14.365000+00:00",
-        "last_moved_at": "2026-06-09T05:24:19.657000+00:00",
-        "published_date": "2026-05-30",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
         "id": "01kss3z202cdpsj7w0ybjycdj0",
         "url": "https://read.readwise.io/read/01kss3z202cdpsj7w0ybjycdj0",
         "source_url": "https://shvbsle.in/various-llm-smells/",
@@ -4367,28 +4285,6 @@
         "saved_at": "2025-12-21T07:26:46.150000+00:00",
         "last_moved_at": "2025-12-21T07:27:02.118000+00:00",
         "published_date": "2025-12-17",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01ktndj64tqep1mx6asgtfwwt3",
-        "url": "https://read.readwise.io/read/01ktndj64tqep1mx6asgtfwwt3",
-        "source_url": "https://thoughts.hmmz.org/2026-05-31.html",
-        "title": "the solution might be cancelling my AI subscription",
-        "author": "hmmz.org",
-        "image_url": "",
-        "word_count": 1148,
-        "summary": "The author built many AI projects but finds them mostly useless and hard to maintain. AI tools increase distraction and shallow work, hurting real focus and productivity. To manage this, the author thinks limiting AI use is the best way forward.",
-        "notes": "Via Wisereads Vol.146",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-09T05:26:54.873000+00:00",
-        "last_moved_at": "2026-06-09T05:26:58.035000+00:00",
-        "published_date": "2026-05-31",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

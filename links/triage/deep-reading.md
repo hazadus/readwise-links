@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-06-25 04:37 UTC · Статей: 37
+Сгенерировано: 2026-06-26 04:40 UTC · Статей: 38
 
 ## Статьи
 
@@ -54,6 +54,8 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** In 2025, AI greatly boosted productivity by helping with coding and problem-solving, acting like a tireless partner. Most software engineers have not yet fully adapted to AI’s rapid changes and potential. The way people work in software is changing fast, and it will take years to find new, effective patterns.
 - [USB in a NutShell](https://www.beyondlogic.org/usbnutshell/usb1.shtml) [📖](https://read.readwise.io/read/01kpzrr28fjd6a6pknn9d5hvt5) 👤 beyondlogic.org 💬 2022 ⭐ 3 🔖 #usb 🗓️ 2026-04-24 · 🌲 вечнозелёное
     > **Резюме:** The USB standard can initially seem overwhelming due to its extensive documentation, but not all sections are essential to read thoroughly. For those designing USB peripherals, focusing on specific chapters like Architectural Overview, USB Data Flow Model, USB Device Frame Work, and USB Host Hardware and Software can provide the necessary insights. Understanding the different speeds, bus topology, architecture, and controller interfaces of USB is crucial for developing devices efficiently within the USB framework. The document also touches on the benefits of USB's tiered star topology, power monitoring capabilities, support for multiple devices, and the evolution of USB host controllers to accommodate increasing bandwidth demands.
+- [Rewriting the world in Rust](https://bitfieldconsulting.com/posts/rewrite-in-rust) [📖](https://read.readwise.io/read/01kvswppy9118grz6qtn39x89d) 👤 John Arundel 💬 1976 ⭐ 3 🔖 #rust 🗓️ 2026-06-23 · 🌲 вечнозелёное
+    > **Резюме:** Rust is a modern language that improves software security by preventing many memory and concurrency bugs. Rewriting all old code in Rust is very hard, and automatic translation does not create good Rust programs. Instead, gradually replacing parts with Rust and redesigning code step-by-step is a more practical and effective approach.
 - [Year in review: Limitless, Sesame, Claude Code, and more](https://paulstamatiou.com/2025-year-in-review?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kfabyqddxp6mh9jgjpa7mrcv) 👤 paulstamatiou.com 💬 8751 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-01-19
     > **Резюме:** In 2025, Paul Stamatiou focused on designing and building simple, high-quality AI products that feel personal and useful. He left his startup role to join Sesame as Head of Design, working closely on software and hardware. He believes great design means thoughtful product building, not just flashy visuals or shortcuts with AI.
 - [Mechanical Watch](https://ciechanow.ski/mechanical-watch/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kba5sc2x0n5x2dqqrxvsnbh9) 👤 Bartosz Ciechanowski 💬 7982 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2025-11-30 · 🌲 вечнозелёное

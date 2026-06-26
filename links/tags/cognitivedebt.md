@@ -5,6 +5,7 @@
 ## Ссылки
 
 - [What I’m Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/) [📖](https://read.readwise.io/read/01ksq17ebymbxs264akq38pwm5) 👤 on 18 Feb 2026 💬 702 🔖 #cognitivedebt 🗓️ 2026-05-28
+    > **Заметка:** Пост продолжение от автора термина cognitive debt. Ничего нового, в основном обзор мнений по теме. В архив для истории.
     > **Резюме:** Cognitive debt happens when a team's shared understanding of a system lags behind how fast the system changes. This gap makes development harder and causes stress, even if the software still works. Teams can fight cognitive debt by updating documents, tests, and using AI to keep knowledge clear and shared.
 - [Reading code instead of writing code: The underestimated senior discipline](https://www.heise.de/en/blog/Reading-code-instead-of-writing-code-The-underestimated-senior-discipline-11295136.html) [📖](https://read.readwise.io/read/01krv7w4cxwp7rv4hp56q263xc) 👤 Golo Roden 💬 2320 🔖 #llm-reality, #cognitivedebt, #llm-devimpact 🗓️ 2026-05-17
     > **Заметка:** Via HN

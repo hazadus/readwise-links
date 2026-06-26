@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 134
+- Всего ссылок: 139
 
 ## Ссылки
 
@@ -27,10 +27,41 @@ they are good at.
     > **Резюме:** When Claude drives you off the cliff
 - [Pluralistic: AI and amateurism (15 Jun 2026) Pluralistic: AI and amateurism (15 Jun 2026)](https://pluralistic.net/2026/06/15/vernacular/) [📖](https://read.readwise.io/read/01kv5zb5bb53h0kv4zaxzn1nq2) 👤 Cory Doctorow 💬 2963 🔖 #llm-devimpact, #personalsoftware 🗓️ 2026-06-15
     > **Резюме:** Technology is best when people can shape it themselves without needing permission from big companies. AI often tries to control and make everything the same, but homemade software lets people express their unique needs. Even if AI hype fades, people will keep creating personal tools that fit their lives.
+- [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur) [📖](https://read.readwise.io/read/01ktxjbhzn5a5wbhfermaya8w0) 👤 Miguel Grinberg 💬 1035 🔖 #foss, #llm-devimpact 🗓️ 2026-06-12
+    > **Резюме:** The author dislikes reviewing code made by AI tools because it wastes his time and lowers quality. He now only accepts code contributions from people who talk to him first and show real interest. He worries that relying on machines for coding might end the joy of programming and hopes humans will stay in control.
+- [the solution might be cancelling my AI subscription](https://thoughts.hmmz.org/2026-05-31.html) [📖](https://read.readwise.io/read/01ktndj64tqep1mx6asgtfwwt3) 👤 hmmz.org 💬 1148 🔖 #llm-devimpact, #personalsoftware 🗓️ 2026-06-09
+    > **Заметка:** Via Wisereads Vol.146; Via Simon Willison.
+    > **Резюме:** The author built many AI projects but finds them mostly useless and hard to maintain. AI tools increase distraction and shallow work, hurting real focus and productivity. To manage this, the author thinks limiting AI use is the best way forward.
+- [Domain Expertise Has Always Been the Real Moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) [📖](https://read.readwise.io/read/01ktndd9cyk7mrv5btd8qg0bhk) 👤 brethorsting.com 💬 760 🔖 #llm-devimpact 🗓️ 2026-06-09
+    > **Заметка:** Via Wisereads vol.146
+    > **Резюме:** Writing code is now easier because AI can generate it without deep domain knowledge. The real challenge is knowing if the AI’s output is correct, which requires domain expertise. The most valuable people combine strong coding skills with deep understanding of the domain.
+- [A new era for software testing](http://antirez.com/news/168) [📖](https://read.readwise.io/read/01ktgr5rs2h53b2vr3g7cn93dt) 👤 <antirez> 💬 667 🔖 #testing, #llm-devimpact 🗓️ 2026-06-07
+    > **Заметка:** Отлично! Вместо нытья, что LLM - плохо и приводят к снижению качества ПО, можно придумать такие вот решения, потенциально приводящие к обратному!
+    > **Резюме:** Automatic programming dramatically speeds up writing software in certain use cases and in the right hands. In my experience the output does not reach the structural quality and economy of complexity of the best hand-written software. However, not all the software is stellar, and my feeling is that automatic programming surpasses most of the times (and if well managed) the quality of decently developed hand-written code.
+
+Yet, there is a tradeoff between quality and time, in the case of writing new software with AI. This tradeoff in certain projects I developed can be brutal, that is, completing projects that may take many months in a few weeks. However, there are domains where LLMs simply open new strictly more powerful ways to automate processes, without any compromise on quality. One of those domains is software QA and testing.
+
+Traditionally software is tested using test suites that are composed of locally-scoped tests and integration tests (think of Redis: one thing is testing if SET foo 10 will be matched by GET foo => 10, another thing is testing if replication works in this case). And then by QA passes that are usually manually executed, and that can capture holes in the runnable test suite. It is a known fact that covering all the lines of the code does not mean covering all the possible states. Moreover integration testing is structurally hard: there are a number of timing issues, setups, and certain quality outputs that can only be visually inspected and not automatically checked that leave a lot of testing opportunities not really exploited because of time or logistic constraints.
+
+LLMs offer a new way to do QA on top of the existing testing methodologies. The idea is to create a markdown file where an AI agent is asked to work as a QA engineer, performing a number of manual testings on the new release. For instance, in the case of DwarfStar (an inference engine for open weights LLMs) I use this approach. In the markdown file, the agent is asked to che...
 - [Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) [📖](https://read.readwise.io/read/01kt8htz0wj55q2z8rj1sve36n) 👤 seangoedecke.com RSS feed 💬 1787 🔖 #llm-devimpact 🗓️ 2026-06-04
     > **Резюме:** Some people who dislike AI want to return to the old way of programming, but this nostalgia can mirror harmful ideas from the past. The author warns that such thinking can echo fascist beliefs about tradition and purity. However, AI also helps many people, and it’s important to see both its good and bad sides.
 - [Weird projects I shipped with AI](https://seangoedecke.com/weird-projects-i-shipped-with-ai/) [📖](https://read.readwise.io/read/01kt13t8b6b636rzmnyds3thr6) 👤 seangoedecke.com RSS feed 💬 1002 🔖 #llm-devimpact 🗓️ 2026-06-01
     > **Резюме:** The author built many small, unusual projects using AI to help write code and save time. These projects include a SkiFree game, an automatic Anki card generator, and an offline plant database. AI made these projects possible and faster to create, showing how AI boosts productivity even without a flood of new big apps.
+- [We should be more tired than the model](https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/) [📖](https://read.readwise.io/read/01ksrf7w5yfwy3pednc4xwkes4) 👤 ★❤✰ Vicki Boykis ★❤✰ 💬 471 🔖 #learning, #llm-devimpact 🗓️ 2026-05-28
+    > **Заметка:** Хорошо, что в постах часто стали подниматься вопросы деградации фундаментальных навыков на фоне активного использовния LLM.
+    > **Резюме:** Lately, I’ve been feeling like I’m losing control over the code I write when I work with agentic code generation.
+When I finish an agentic session, I get all the outward signs of having written code, but none of the internal processes that happen when we write code by hand.
+
+As a quick primer, the human brain has several types of memory, short-term, working, and long-term. Short-term memory gathers information temporarily and processes it quickly, like RAM. Long-term memory includes things you’ve learned previously and tucked away, like database storage. Working memory takes the information from short-term memory and long-term memory and combines them to synthesize, or process the information and come up with a solution.
+
+When we’re working on code, (and by working on, we mean most often reading someone else’s code) all of these processes are going on in our brain simultaneously to try to help us make sense of the programming environment.
+It’s not surprising. Code generation, in its default mode, is antithetical to skill retention, particularly because its UX affordances are reminiscent of a slot machine’s: you pull the lever, you get a reward (a solution to your coding problem.) In some ways, we’ve replaced the social media feed with a stream of tokens, and I look forward to reading those papers in ten years.
+It really does take extra concerted effort to move from just generating answers to using the tool deliberately. One thing Oz suggested when I posted on X that I felt like I came away from an agentic session with a brain fog was rewriting portions of code myself.
+Inspired by that advice, the paper, thoughts on slowing down, and using AI to write better code more slowly, and Mitchell’s adoption journey, I’ve been working on using the tool more deliberately and adding friction back into development.
+Here’s what’s worked for me so far:
+
+Writing the initial implementation myself and asking the agent to review the code, then going through comment by comment and m...
 - [Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/) [📖](https://read.readwise.io/read/01kspgc0nwdecnkzm23he5m6g8) 👤 Terrible Software 💬 862 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-05-28
     > **Заметка:** В копилку здравых взглядов на использование LLM. Не понимаешь - не выкатывай!
     > **Резюме:** The author admits they relied too much on AI to fix a bug without understanding the problem themselves. They warn that using AI this way can make engineers lose important skills and judgment. The author now follows a strict rule: they must understand and explain every change before shipping it.

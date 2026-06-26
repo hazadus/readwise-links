@@ -2,7 +2,7 @@
 
 _Короткие статьи (не туториалы, не основы), отсортированные по объёму_
 
-Сгенерировано: 2026-06-25 04:37 UTC · Статей: 30
+Сгенерировано: 2026-06-26 04:40 UTC · Статей: 28
 
 ## Статьи
 
@@ -11,22 +11,16 @@ _Короткие статьи (не туториалы, не основы), о�
 - [Various LLM smells](https://shvbsle.in/various-llm-smells/) [📖](https://read.readwise.io/read/01kss3z202cdpsj7w0ybjycdj0) 👤 Shiv After Dark 💬 273 ⭐ 4 🗓️ 2026-05-29
     > **Заметка:** Via HN. https://news.ycombinator.com/item?id=48313810
     > **Резюме:** The author used AI to improve their math blog writing and noticed it sounded much better at first. Later, they saw the same AI-style phrases and patterns everywhere online, which they call "AI smells." These patterns include repeated sentence structures, specific phrases, and design elements that reveal AI influence.
-- [What I’m Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/) [📖](https://read.readwise.io/read/01ksq17ebymbxs264akq38pwm5) 👤 on 18 Feb 2026 💬 702 ⭐ 7 🔖 #cognitivedebt 🗓️ 2026-05-28 · 🌲 вечнозелёное
-    > **Резюме:** Cognitive debt happens when a team's shared understanding of a system lags behind how fast the system changes. This gap makes development harder and causes stress, even if the software still works. Teams can fight cognitive debt by updating documents, tests, and using AI to keep knowledge clear and shared.
-- [Domain Expertise Has Always Been the Real Moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) [📖](https://read.readwise.io/read/01ktndd9cyk7mrv5btd8qg0bhk) 👤 brethorsting.com 💬 760 ⭐ 7 🗓️ 2026-06-09
-    > **Заметка:** Via Wisereads vol.146
-    > **Резюме:** Writing code is now easier because AI can generate it without deep domain knowledge. The real challenge is knowing if the AI’s output is correct, which requires domain expertise. The most valuable people combine strong coding skills with deep understanding of the domain.
 - [My audio interface has ssh enabled by default](https://hhh.hn/rodecaster-duo-fw/) [📖](https://read.readwise.io/read/01kq1zx0r4n33srh7vqaawdkzh) 👤 hhh.hn 💬 933 ⭐ 2 🗓️ 2026-04-25
     > **Заметка:** Via HackerNews
     > **Резюме:** The author bought a Rodecaster Duo for better audio during gaming and found it easy to use. They discovered the device has SSH enabled by default and allows easy firmware updates without signature checks. The author created custom firmware to access the device via SSH and reported the security concern to Rode.
-- [the solution might be cancelling my AI subscription](https://thoughts.hmmz.org/2026-05-31.html) [📖](https://read.readwise.io/read/01ktndj64tqep1mx6asgtfwwt3) 👤 hmmz.org 💬 1148 ⭐ 2 🗓️ 2026-06-09
-    > **Заметка:** Via Wisereads Vol.146
-    > **Резюме:** The author built many AI projects but finds them mostly useless and hard to maintain. AI tools increase distraction and shallow work, hurting real focus and productivity. To manage this, the author thinks limiting AI use is the best way forward.
 - [2025 in review](https://www.loopwerk.io/articles/2025/2025-in-review/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) [📖](https://read.readwise.io/read/01kczwvew6dftm8phypwzjqxd2) 👤 Kevin Renskers 💬 1411 ⭐ 2 🔖 #shortlist 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/69479f95-3aa4-8328-8855-b64bb19cc6d2
     > **Резюме:** 2025 was a productive year: I wrote 38 articles, grew site traffic a lot, and released several open-source Django projects. In November my girlfriend and her daughter were in a serious car crash, so I’ve been caring for them and our dog. I started using AI cautiously, did freelance work for Sound Radix, and enjoyed trips, concerts, and games.
 - [From Senior Engineer to Staff, with Angelic Assistance](https://davegriffith.substack.com/p/from-senior-engineer-to-staff-with) [📖](https://read.readwise.io/read/01ke9z29ytbhqp25karjrhxfb6) 👤 Dave Griffith 💬 1460 ⭐ 3 🗓️ 2026-01-06
     > **Резюме:** Dave Griffith argues that moving from senior to staff engineer requires three deliberate skills: deep expertise, visible impact, and intentional planning. Agentic AI tools now let engineers learn far faster, produce clearer evidence of their work, and build smarter promotion plans. He’s testing this playbook in real time and will share practical tactics in a series of posts.
+- [Rewriting the world in Rust](https://bitfieldconsulting.com/posts/rewrite-in-rust) [📖](https://read.readwise.io/read/01kvswppy9118grz6qtn39x89d) 👤 John Arundel 💬 1976 ⭐ 3 🔖 #rust 🗓️ 2026-06-23 · 🌲 вечнозелёное
+    > **Резюме:** Rust is a modern language that improves software security by preventing many memory and concurrency bugs. Rewriting all old code in Rust is very hard, and automatic translation does not create good Rust programs. Instead, gradually replacing parts with Rust and redesigning code step-by-step is a more practical and effective approach.
 - [USB in a NutShell](https://www.beyondlogic.org/usbnutshell/usb1.shtml) [📖](https://read.readwise.io/read/01kpzrr28fjd6a6pknn9d5hvt5) 👤 beyondlogic.org 💬 2022 ⭐ 3 🔖 #usb 🗓️ 2026-04-24 · 🌲 вечнозелёное
     > **Резюме:** The USB standard can initially seem overwhelming due to its extensive documentation, but not all sections are essential to read thoroughly. For those designing USB peripherals, focusing on specific chapters like Architectural Overview, USB Data Flow Model, USB Device Frame Work, and USB Host Hardware and Software can provide the necessary insights. Understanding the different speeds, bus topology, architecture, and controller interfaces of USB is crucial for developing devices efficiently within the USB framework. The document also touches on the benefits of USB's tiered star topology, power monitoring capabilities, support for multiple devices, and the evolution of USB host controllers to accommodate increasing bandwidth demands.
 - [“Conviction Collapse” and the End of Software as We Know It](https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h) 👤 Tim O’Reilly 💬 2092 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-04-13

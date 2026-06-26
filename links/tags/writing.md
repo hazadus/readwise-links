@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 31
+- Всего ссылок: 32
 
 ## Ссылки
 
+- [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/) [📖](https://read.readwise.io/read/01kvyp4yjwrrqt3bhcv2b3rfvm) 👤 Jim Nielsen 💬 342 🔖 #writing 🗓️ 2026-06-25
+    > **Заметка:** Via HackerNews
+    > **Резюме:** Blogging often means saying things that seem obvious but are not talked about enough. Sometimes pointing out simple truths helps others see problems clearly. Good blog posts share these obvious ideas that many people overlook.
 - [Choosing to Stay Human](https://www.oneusefulthing.org/p/choosing-to-stay-human) [📖](https://read.readwise.io/read/01ksjxveh7rdkqsve1c4x151pe) 👤 Ethan Mollick 💬 1831 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26
     > **Резюме:** AI writing is everywhere, but relying on it too much can hurt our ability to think and learn deeply. Using AI as a tool to help us learn and create is good, but letting it do all the work causes "cognitive surrender." We must choose carefully what to do ourselves and what to let AI handle to keep our skills and meaning alive.
 - [Technical Writing in the AI Age](https://css-tricks.com/technical-writing-in-the-ai-age/) [📖](https://read.readwise.io/read/01ksj8ybhvk6w07nax99narzd9) 👤 Geoff Graham 💬 2483 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26

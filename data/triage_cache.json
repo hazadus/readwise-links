@@ -1128,6 +1128,12 @@
       "is_foundational": true,
       "is_evergreen": true,
       "interest_score": 9
+    },
+    "01kvswppy9118grz6qtn39x89d": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": true,
+      "interest_score": 3
     }
   }
 }

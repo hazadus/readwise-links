@@ -1,9 +1,40 @@
 # Ссылки
 
-- Всего ссылок: 456
+- Всего ссылок: 457
 
 ## Ссылки
 
+- [Dangerous Technology For Americans Only](https://lucumr.pocoo.org/2026/6/13/americans-only/) [📖](https://read.readwise.io/read/01kv0f15yr3aaq01p4wvnn05h7) 👤 Armin Ronacher 💬 2376 🔖 #llm 🗓️ 2026-06-13
+    > **Резюме:** There is a bit of schadenfreude on Twitter right now about Anthropic being hit
+by the US government’s export control directive to suspend access to Fable and
+Mythos.  Anthropic and
+their leadership have spent a lot of time and effort describing its own
+technology as dangerous and in need of strict controls and regulation.  Now that
+the US government appears to have taken that framing seriously and told them to
+turn it off for foreign nationals I can see why people are making fun of that
+situation.
+I understand the reaction, but I urge you to not entertain it for too long
+because it is a giant distraction.  The important part is not that Anthropic’s
+safety language came back to bite them but the line the US government is
+drawing: this technology is apparently so powerful that only Americans should
+have it.
+We are on a clear path towards a world of division.  One should think that if a
+model is too dangerous for everyone, then it is too dangerous for Americans too.
+Instead the US is treating these models like weapons that need to be controlled.
+It is not just about capabilities, it is about racism and nationalism.  If you
+have the wrong passport, you are not to be trusted.  This is a very different
+thing from safety, and Europeans should pay close attention to it.
+Safety and National Control
+The directive, as Anthropic describes it, applies to foreign nationals whether
+they are inside or outside the United States, including foreign national
+Anthropic employees.  That is an astonishing boundary if you think about it.  We
+moved from “do not sell this model to hostile governments” to nationality itself
+being the defining boundary.  This should be a wake-up call to Europeans in and
+outside the US, and quite frankly, any non US citizen.
+A lot of AI safety discourse presents itself as universal: humanity,
+catastrophic risk, safeguards, responsible deployment.  Even Anthropic’s own
+writings start out that way, but yet every time regulation is discussed there
+is an overton...
 - [Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything) [📖](https://read.readwise.io/read/01ktqdh4fjfnv9gwdagtz98rn6) 👤 Simon Willison's Weblog 💬 1862 🔖 #llm, #claude 🗓️ 2026-06-10
     > **Резюме:** Claude Fable 5 is a large and powerful AI model with a huge knowledge base and strong safety features. It works well for coding tasks and integrates smoothly with tools like Datasette Agent. The author was impressed by its capabilities and used it extensively during the day.
 - [Build agents, not pipelines](https://seangoedecke.com/build-agents-not-pipelines/) [📖](https://read.readwise.io/read/01ksy73mnt3a7pj9t0nesv8jmq) 👤 seangoedecke.com RSS feed 💬 2249 🔖 #llm, #agents 🗓️ 2026-05-31

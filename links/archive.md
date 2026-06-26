@@ -1,15 +1,20 @@
 # Архивные ссылки
 
-- Всего ссылок: 1742
+- Всего ссылок: 1755
 
 ## Ссылки
 
+- [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/) [📖](https://read.readwise.io/read/01kvyp4yjwrrqt3bhcv2b3rfvm) 👤 Jim Nielsen 💬 342 🔖 #writing 🗓️ 2026-06-25
+    > **Заметка:** Via HackerNews
 - [Make AI Boring Again](https://charitydotwtf.substack.com/p/make-ai-boring-again) [📖](https://read.readwise.io/read/01kvxkzvp6xesjjmpw3e6nxdpp) 👤 Charity Majors 💬 3220 🔖 #llm-reality 🗓️ 2026-06-24
     > **Заметка:** Приземленный взгляд: нам жить с LLM, от этого уже никуда не деться. Нужно научиться принимать это и минимизировать негативные стороны. Адекватная позиция. 
 - [Будущее разработки в эпоху ИИ: уволят ли нас и что с этим делать](https://habr.com/ru/articles/1048374/) [📖](https://read.readwise.io/read/01kvwys10ns8sn6r1seqcv9xcp) 👤 yakvenalex 💬 4453 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-06-24
     > **Заметка:** Правильные вопросы и многие идеи, но их много - поэтому текст довольно поверхностный. И местами слишком ИИшный :( В любом случае радует, что в рунете стали поднимать эти темы. Оставляю в архиве ради этого, и примеров "вайбкодеров от бизнеса" (брр!..)
+- [5 Lessons at 50](http://muratbuffalo.blogspot.com/2026/06/5-lessons-at-50.html) [📖](https://read.readwise.io/read/01kvwxg2re2nd660dk1c1ezvsw) 👤 Murat (noreply@blogger.com) 💬 834 🔖 #reflections 🗓️ 2026-06-24
 - [The Conversation Is the Commit](https://aicoding.leaflet.pub/3mhxvpam4z22z) [📖](https://read.readwise.io/read/01kvw5hfg6efj4bz1daj2ces5m) 👤 The Phoenix Architecture 💬 1514 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-06-24
     > **Заметка:** Рассмотрена важная проблема. Причины создания и изменения кода нужно хранить рядом с ним. Нынешние системы контроля версий не идеально к этом приспособлены, но вполне можно использовать commit messages, PR descriptions, ADR-документы, обзоры архитектуры и т.п. Это уже лучше, чем ничего.
+- [Production Is a Compiler Input](https://aicoding.leaflet.pub/3mjx4erlboc2l) [📖](https://read.readwise.io/read/01kvw5hfc1jy6y6t8pdqa7kdqe) 👤 The Phoenix Architecture 💬 941 🔖 #observability, #softwarecraft 🗓️ 2026-06-24
+    > **Заметка:** Интересно. "Производство" - это где живет приложение, там подтвержаются предположения, сделанные при разработке. И "правда о производстве" должна поступать на вход при разработке/генерации софта, чтобы он был корректным и актуальным. Мне нравится идея.
 - [Stop, don’t Slop](http://willmcgugan.github.io/stop-dont-slop/) [📖](https://read.readwise.io/read/01kvsjdxmzcb2msqt8khmqnbr5) 👤 Will McGugan 💬 502 🔖 #foss, #llm-devimpact 🗓️ 2026-06-23
     > **Заметка:** Ещё одно взвешенное и четкое мнение от опытного мейнтейнера FOSS по поводу LLM-contributions: они не нужны!
 - [Adversarial Communication](https://blog.glyph.im/2026/06/adversarial-communication.html) [📖](https://read.readwise.io/read/01kvsck0xkwt59pjbqrb7hef8y) 👤 Glyph 💬 2762 🔖 #learning, #codereview, #llm-devimpact, #llm-resistance 🗓️ 2026-06-23
@@ -19,22 +24,39 @@
 - [AI demands more engineering discipline. Not less (xpost)](https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/) [📖](https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw) 👤 mipsytipsy 💬 3503 🔖 #llm-reality, #predictions, #llm-devimpact 🗓️ 2026-06-22
     > **Заметка:** Очень дельные мысли по поводу регенерации кода по аналогии с идеей immutable infrastructure. Добавить это в watchlist.
 - [WWDC 2026 First Thoughts](https://troz.net/post/2026/wwdc2026_first_thoughts/) [📖](https://read.readwise.io/read/01kvjzt2t19b5j7h842msbzmks) 👤 Sarah Reichelt 💬 1015 🔖 #macos 🗓️ 2026-06-20
+- [RFC 10008: The HTTP QUERY Method](https://blainsmith.com/articles/rfc-10008-http-query-method/) [📖](https://read.readwise.io/read/01kvbq0ck6h3f4hammnkvqm6dj) 👤 Unknown 💬 404 🔖 #go, #http, #rust 🗓️ 2026-06-17
 - [The "I don't know, Claude wrote this" pandemic](https://newsletter.manager.dev/p/the-i-don-t-know-claude-wrote-this-pandemic) [📖](https://read.readwise.io/read/01kv7qtfqw8fbb8emgdwy29mtg) 👤 Anton Zaides 💬 1252 🔖 #llm-devimpact 🗓️ 2026-06-16
 - [Revised rules of engineering leadership.](https://lethain.com/revised-rules-of-engineering-leadership/) [📖](https://read.readwise.io/read/01kv600w89e0vx2scbtef5dgxf) 👤 Irrational Exuberance 💬 2060 🔖 #llm-reality 🗓️ 2026-06-15
     > **Заметка:** Хорошие правила с практическими подтверждениями.
 - [Pluralistic: AI and amateurism (15 Jun 2026) Pluralistic: AI and amateurism (15 Jun 2026)](https://pluralistic.net/2026/06/15/vernacular/) [📖](https://read.readwise.io/read/01kv5zb5bb53h0kv4zaxzn1nq2) 👤 Cory Doctorow 💬 2963 🔖 #llm-devimpact, #personalsoftware 🗓️ 2026-06-15
+- [Dangerous Technology For Americans Only](https://lucumr.pocoo.org/2026/6/13/americans-only/) [📖](https://read.readwise.io/read/01kv0f15yr3aaq01p4wvnn05h7) 👤 Armin Ronacher 💬 2376 🔖 #llm 🗓️ 2026-06-13
+- [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur) [📖](https://read.readwise.io/read/01ktxjbhzn5a5wbhfermaya8w0) 👤 Miguel Grinberg 💬 1035 🔖 #foss, #llm-devimpact 🗓️ 2026-06-12
 - [Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything) [📖](https://read.readwise.io/read/01ktqdh4fjfnv9gwdagtz98rn6) 👤 Simon Willison's Weblog 💬 1862 🔖 #llm, #claude 🗓️ 2026-06-10
+- [the solution might be cancelling my AI subscription](https://thoughts.hmmz.org/2026-05-31.html) [📖](https://read.readwise.io/read/01ktndj64tqep1mx6asgtfwwt3) 👤 hmmz.org 💬 1148 🔖 #llm-devimpact, #personalsoftware 🗓️ 2026-06-09
+    > **Заметка:** Via Wisereads Vol.146; Via Simon Willison.
+- [Domain Expertise Has Always Been the Real Moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) [📖](https://read.readwise.io/read/01ktndd9cyk7mrv5btd8qg0bhk) 👤 brethorsting.com 💬 760 🔖 #llm-devimpact 🗓️ 2026-06-09
+    > **Заметка:** Via Wisereads vol.146
 - [Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/) [📖](https://read.readwise.io/read/01ktj1brkrqjnbp75pwcneq7ff) 👤 seangoedecke.com RSS feed 💬 1964 🔖 #career 🗓️ 2026-06-07
+- [A new era for software testing](http://antirez.com/news/168) [📖](https://read.readwise.io/read/01ktgr5rs2h53b2vr3g7cn93dt) 👤 <antirez> 💬 667 🔖 #testing, #llm-devimpact 🗓️ 2026-06-07
+    > **Заметка:** Отлично! Вместо нытья, что LLM - плохо и приводят к снижению качества ПО, можно придумать такие вот решения, потенциально приводящие к обратному!
+- [Communities of Not](https://lucumr.pocoo.org/2026/6/6/communities-of-not/) [📖](https://read.readwise.io/read/01kterke2avrfcxekezkzb2qff) 👤 Armin Ronacher 💬 438 🗓️ 2026-06-06
+    > **Заметка:** Очень правильно: взгляды могут быть разные (в любых сферах), но не нужно делать из оппонентов врагов. Пересекается с последними постами Charity Majors.
 - [Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) [📖](https://read.readwise.io/read/01kt8htz0wj55q2z8rj1sve36n) 👤 seangoedecke.com RSS feed 💬 1787 🔖 #llm-devimpact 🗓️ 2026-06-04
 - [Weird projects I shipped with AI](https://seangoedecke.com/weird-projects-i-shipped-with-ai/) [📖](https://read.readwise.io/read/01kt13t8b6b636rzmnyds3thr6) 👤 seangoedecke.com RSS feed 💬 1002 🔖 #llm-devimpact 🗓️ 2026-06-01
 - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) [📖](https://read.readwise.io/read/01kt127h2745wqrnyyk6pg2p6g) 👤 Chad Whitacre 💬 19 🗓️ 2026-06-01
 - [Build agents, not pipelines](https://seangoedecke.com/build-agents-not-pipelines/) [📖](https://read.readwise.io/read/01ksy73mnt3a7pj9t0nesv8jmq) 👤 seangoedecke.com RSS feed 💬 2249 🔖 #llm, #agents 🗓️ 2026-05-31
 - [Github and the Crime Against Software](https://eblog.fly.dev/githubbad.html) [📖](https://read.readwise.io/read/01ksv133sk5gfz7fsh0bqn5403) 👤 eblog: software articles by efron licht 💬 350 🔖 #github 🗓️ 2026-05-29
     > **Заметка:** Чего ныть, если GitHub представляет ОГРОМНЫЕ возможности, БЕСПЛАТНО? Поднимай свой собственный инстанс GitLab, и радуйся, если такой умный)
+- [We should be more tired than the model](https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/) [📖](https://read.readwise.io/read/01ksrf7w5yfwy3pednc4xwkes4) 👤 ★❤✰ Vicki Boykis ★❤✰ 💬 471 🔖 #learning, #llm-devimpact 🗓️ 2026-05-28
+    > **Заметка:** Хорошо, что в постах часто стали подниматься вопросы деградации фундаментальных навыков на фоне активного использовния LLM.
+- [What I’m Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/) [📖](https://read.readwise.io/read/01ksq17ebymbxs264akq38pwm5) 👤 on 18 Feb 2026 💬 702 🔖 #cognitivedebt 🗓️ 2026-05-28
+    > **Заметка:** Пост продолжение от автора термина cognitive debt. Ничего нового, в основном обзор мнений по теме. В архив для истории.
 - [Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/) [📖](https://read.readwise.io/read/01kspgc0nwdecnkzm23he5m6g8) 👤 Terrible Software 💬 862 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-05-28
     > **Заметка:** В копилку здравых взглядов на использование LLM. Не понимаешь - не выкатывай!
 - [AI-assisted engineers are burning out, is this fine?](https://evilmartians.com/chronicles/ai-assisted-engineers-are-burning-out-is-this-fine?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kspg5q1bt2hj29py6y6yf4zr) 👤 Tech Editor 💬 3248 🔖 #burnout, #llm-fatigue, #llm-devimpact 🗓️ 2026-05-28
     > **Заметка:** Это прекрасный разбор, с отличными схемами, и выводы совпадают с моим собственным опытом!  Via TLDR Newsletter. Обсуждение на HN: https://news.ycombinator.com/item?id=48228283
+- [Tracing HTTP Requests with Go's net/http/httptrace](https://blainsmith.com/articles/httptrace-with-go/) [📖](https://read.readwise.io/read/01ksn5nf0pxys92m3e633sspsn) 👤 Unknown 💬 1369 🔖 #go, #http 🗓️ 2026-05-27
+    > **Заметка:** Хороший разбор httptrace. Может пригодиться для аналитики при разработке веб-приложений.
 - [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything) [📖](https://read.readwise.io/read/01ksn4vhwsgyrvafw6wt3dkppp) 👤 Simon Willison's Weblog 💬 1753 🔖 #codex, #claude 🗓️ 2026-05-27
     > **Заметка:** Яркий пример зависимости компаний от инструментов - цены внезапно подняли, и делай теперь что хочешь.
 - [Leave Me Behind](https://androidessence.com/leave-me-behind/?utm_source=tldrdev#) [📖](https://read.readwise.io/read/01kskwsktqjtny0tr3x79gb74w) 👤 Adam McNeilly 💬 1621 🔖 #learning, #reflections, #llm-devimpact, #llm-resistance 🗓️ 2026-05-27

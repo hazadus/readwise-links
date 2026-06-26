@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 50
+- Всего ссылок: 51
 
 ## Ссылки
 
@@ -8,6 +8,20 @@
     > **Заметка:** "Враждебная коммуникация". Сквозная идея поста – LLM позволяют перенести стоимость верификации выхлопа с "автора", получающего выгоду, на "жертву", которой предстоит всё это разгребать.
     > **Резюме:** “AI” turns every conversation into a fight, because fighting is what
 they are good at.
+- [We should be more tired than the model](https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/) [📖](https://read.readwise.io/read/01ksrf7w5yfwy3pednc4xwkes4) 👤 ★❤✰ Vicki Boykis ★❤✰ 💬 471 🔖 #learning, #llm-devimpact 🗓️ 2026-05-28
+    > **Заметка:** Хорошо, что в постах часто стали подниматься вопросы деградации фундаментальных навыков на фоне активного использовния LLM.
+    > **Резюме:** Lately, I’ve been feeling like I’m losing control over the code I write when I work with agentic code generation.
+When I finish an agentic session, I get all the outward signs of having written code, but none of the internal processes that happen when we write code by hand.
+
+As a quick primer, the human brain has several types of memory, short-term, working, and long-term. Short-term memory gathers information temporarily and processes it quickly, like RAM. Long-term memory includes things you’ve learned previously and tucked away, like database storage. Working memory takes the information from short-term memory and long-term memory and combines them to synthesize, or process the information and come up with a solution.
+
+When we’re working on code, (and by working on, we mean most often reading someone else’s code) all of these processes are going on in our brain simultaneously to try to help us make sense of the programming environment.
+It’s not surprising. Code generation, in its default mode, is antithetical to skill retention, particularly because its UX affordances are reminiscent of a slot machine’s: you pull the lever, you get a reward (a solution to your coding problem.) In some ways, we’ve replaced the social media feed with a stream of tokens, and I look forward to reading those papers in ten years.
+It really does take extra concerted effort to move from just generating answers to using the tool deliberately. One thing Oz suggested when I posted on X that I felt like I came away from an agentic session with a brain fog was rewriting portions of code myself.
+Inspired by that advice, the paper, thoughts on slowing down, and using AI to write better code more slowly, and Mitchell’s adoption journey, I’ve been working on using the tool more deliberately and adding friction back into development.
+Here’s what’s worked for me so far:
+
+Writing the initial implementation myself and asking the agent to review the code, then going through comment by comment and m...
 - [Leave Me Behind](https://androidessence.com/leave-me-behind/?utm_source=tldrdev#) [📖](https://read.readwise.io/read/01kskwsktqjtny0tr3x79gb74w) 👤 Adam McNeilly 💬 1621 🔖 #learning, #reflections, #llm-devimpact, #llm-resistance 🗓️ 2026-05-27
     > **Заметка:** Последнее время чаще стали такие взгляды попадаться, это радует.   Via TLDR Newsletter.
     > **Резюме:** The author shares his journey learning Android development and the joy of building apps with others. He worries that relying too much on AI tools can take away the human learning and connection in software development. He believes true progress comes from people working together, sharing struggles, and growing as a community.

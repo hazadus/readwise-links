@@ -1,9 +1,18 @@
 # Ссылки
 
-- Всего ссылок: 50
+- Всего ссылок: 51
 
 ## Ссылки
 
+- [A new era for software testing](http://antirez.com/news/168) [📖](https://read.readwise.io/read/01ktgr5rs2h53b2vr3g7cn93dt) 👤 <antirez> 💬 667 🔖 #testing, #llm-devimpact 🗓️ 2026-06-07
+    > **Заметка:** Отлично! Вместо нытья, что LLM - плохо и приводят к снижению качества ПО, можно придумать такие вот решения, потенциально приводящие к обратному!
+    > **Резюме:** Automatic programming dramatically speeds up writing software in certain use cases and in the right hands. In my experience the output does not reach the structural quality and economy of complexity of the best hand-written software. However, not all the software is stellar, and my feeling is that automatic programming surpasses most of the times (and if well managed) the quality of decently developed hand-written code.
+
+Yet, there is a tradeoff between quality and time, in the case of writing new software with AI. This tradeoff in certain projects I developed can be brutal, that is, completing projects that may take many months in a few weeks. However, there are domains where LLMs simply open new strictly more powerful ways to automate processes, without any compromise on quality. One of those domains is software QA and testing.
+
+Traditionally software is tested using test suites that are composed of locally-scoped tests and integration tests (think of Redis: one thing is testing if SET foo 10 will be matched by GET foo => 10, another thing is testing if replication works in this case). And then by QA passes that are usually manually executed, and that can capture holes in the runnable test suite. It is a known fact that covering all the lines of the code does not mean covering all the possible states. Moreover integration testing is structurally hard: there are a number of timing issues, setups, and certain quality outputs that can only be visually inspected and not automatically checked that leave a lot of testing opportunities not really exploited because of time or logistic constraints.
+
+LLMs offer a new way to do QA on top of the existing testing methodologies. The idea is to create a markdown file where an AI agent is asked to work as a QA engineer, performing a number of manual testings on the new release. For instance, in the case of DwarfStar (an inference engine for open weights LLMs) I use this approach. In the markdown file, the agent is asked to che...
 - [Using Playwright to test my static sites](https://alexwlchan.net/2026/playwright/?ref=rss) [📖](https://read.readwise.io/read/01kqknwedwzekqrn1jqhc2qkfg) 👤 alexwlchan 💬 1509 🔖 #testing, #frontend, #playwright 🗓️ 2026-05-02
     > **Заметка:** Интересно будет попробовать, когда соберусь блог возрождать. 
     > **Резюме:** I build a lot of static websites – including this site and all of my local media archives – and I want to test them.

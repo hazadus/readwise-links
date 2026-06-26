@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [Production Is a Compiler Input](https://aicoding.leaflet.pub/3mjx4erlboc2l) [📖](https://read.readwise.io/read/01kvw5hfc1jy6y6t8pdqa7kdqe) 👤 The Phoenix Architecture 💬 941 🔖 #observability, #softwarecraft 🗓️ 2026-06-24
+    > **Заметка:** Интересно. "Производство" - это где живет приложение, там подтвержаются предположения, сделанные при разработке. И "правда о производстве" должна поступать на вход при разработке/генерации софта, чтобы он был корректным и актуальным. Мне нравится идея.
+    > **Резюме:** Production data should directly guide how software evolves, not just help humans debug it. The Phoenix Architecture treats production truth as input to update and fix code automatically when real-world conditions change. This approach makes software adapt continuously by linking requirements, evidence, and implementation in a smart feedback loop.
 - [Мониторинг и Логи ПРОДАКШЕН уровня — Grafana + Loki + Prometheus + Promtail](https://youtube.com/watch?v=2JIyHNskK-c&si=J5StLqxMICnYNDrD) [📖](https://read.readwise.io/read/01jrk6efs7qm5nfcd9d08zthsd) 👤 Артём Шумейко 🔖 #loki, #grafana, #promtail, #prometheus, #observability 🗓️ 2025-04-11
     > **Резюме:** The video tutorial by Артём Шумейко explains how to build a monitoring dashboard using Grafana, Loki, Prometheus, and Promtail. It covers how to collect and visualize application logs and metrics to handle service requests effectively. The goal is to help viewers enhance their skills and career in monitoring technologies.
 - [OpenTelemetry: A Guide to Observability with Go](https://www.lucavall.in/blog/opentelemetry-a-guide-to-observability-with-go) [📖](https://read.readwise.io/read/01jkqprmky24x64es8hh4svy88) 👤 Luca Cavallin 💬 3203 🔖 #go, #observability 🗓️ 2025-02-10

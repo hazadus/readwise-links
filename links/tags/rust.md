@@ -1,11 +1,40 @@
 # Ссылки
 
-- Всего ссылок: 29
+- Всего ссылок: 30
 
 ## Ссылки
 
 - [Rewriting the world in Rust](https://bitfieldconsulting.com/posts/rewrite-in-rust) [📖](https://read.readwise.io/read/01kvswppy9118grz6qtn39x89d) 👤 John Arundel 💬 1976 🔖 #rust 🗓️ 2026-06-23
     > **Резюме:** Rust is a modern language that improves software security by preventing many memory and concurrency bugs. Rewriting all old code in Rust is very hard, and automatic translation does not create good Rust programs. Instead, gradually replacing parts with Rust and redesigning code step-by-step is a more practical and effective approach.
+- [RFC 10008: The HTTP QUERY Method](https://blainsmith.com/articles/rfc-10008-http-query-method/) [📖](https://read.readwise.io/read/01kvbq0ck6h3f4hammnkvqm6dj) 👤 Unknown 💬 404 🔖 #go, #http, #rust 🗓️ 2026-06-17
+    > **Резюме:** RFC 10008 was published on June 15, 2026 and defines a new HTTP method: QUERY. It fills a gap that has existed for as long as I have been building APIs. You have data to send to the server in order to describe what you want back, but GET does not have a body and POST is neither safe nor idempotent. QUERY gives you a method that accepts a request body while remaining safe, idempotent, and cacheable.
+If you have ever built an SDK that talks to a JSON-RPC API you have felt this pain. JSON-RPC by design sends a JSON payload describing the method and parameters. That payload has to go in the body, which means POST, which means caches and intermediaries treat every request as a state-changing operation. Retry logic gets complicated. CDN caching is off the table. You end up building your own application-level caching because HTTP's built-in mechanisms cannot help you.
+QUERY changes that. The semantics are simple: send a body, get a response, and the whole exchange is treated like a GET from the perspective of caching and safety.
+In Go
+Go's net/http already lets you use arbitrary method strings with http.NewRequest, so SDK code using QUERY looks about like you would expect:
+body, _ := json.Marshal(map[string]any{
+	"jsonrpc": "2.0",
+	"method":  "getScore",
+	"params":  []any{"0xABC123", "latest"},
+	"id":      1,
+})
+
+req, _ := http.NewRequestWithContext(ctx, "QUERY", "https://rpc.example.com", bytes.NewReader(body))
+req.Header.Set("Content-Type", "application/json")
+
+resp, _ := http.DefaultClient.Do(req)
+No new dependencies needed. The standard library handles it because HTTP methods are just strings.
+In Rust
+With reqwest you can use reqwest::Method to define a custom method:
+use reqwest::{Client, Method};
+
+let client = Client::new();
+let query_method = Method::from_bytes(b"QUERY").unwrap();
+
+let resp = client
+    .request(query_method, "https://rpc.example.com")
+    .header("Content-Type", "application/json")
+    .body(r#"{"jsonrpc":"2.0","method":"getScore","params":["0xA...
 - [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/) [📖](https://read.readwise.io/read/01ktkknvzzgagx1vyeq1dhma9j) 👤 Corrode Rust Consulting 💬 3275 🔖 #rust 🗓️ 2026-06-08
     > **Резюме:** Defensive programming in Rust means using the compiler to enforce rules and prevent errors. You can force all struct creation to go through safe constructors by adding private fields and modules. Making fields private and providing getters helps keep data valid and avoids mistakes.
 - [Why Bun leaving Zig is Great for Zig](https://dayvster.com/blog/why-bun-leaving-zig-is-great-for-zig/) [📖](https://read.readwise.io/read/01ksg52rndrdjzem1bfh9eeeqh) 👤 Dayvster 💬 976 🔖 #bun, #zig, #rust 🗓️ 2026-05-25
