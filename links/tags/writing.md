@@ -1,12 +1,20 @@
 # Ссылки
 
-- Всего ссылок: 32
+- Всего ссылок: 34
 
 ## Ссылки
 
+- [Saying the obvious thing](https://seangoedecke.com/saying-the-obvious-thing/) [📖](https://read.readwise.io/read/01kw4a081m97ctsr72gw31585s) 👤 seangoedecke.com RSS feed 💬 865 🔖 #writing 🗓️ 2026-06-27
+    > **Заметка:** Смотрю Шону понравился тот же пост с Hacker News, который я сохранил пару дней назад - https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/ :)
+    > **Резюме:** Stating the obvious is surprisingly useful. Most of your knowledge lives below the threshold of conscious awareness, so it’s possible for a piece of writing to remind you of what you already know. It’s common to know you don’t like something without being quite sure why, and reading an obvious statement (such as “accuracy matters, even when you agree with the broad strokes”) can help clarify why you find certain things distasteful.
+Sometimes you can see some obvious truth that nobody seems to be talking about, and reading it in someone else’s words can prompt an “oh god, I’m not crazy” moment of catharsis. For many junior engineers, it’s almost a rite of passage to notice that some percentage of software engineers do virtually no work. Since nobody talks about it (how would you even bring it up in the workplace?), they often feel like they’re losing their minds: surely this state of affairs wouldn’t be allowed to continue, so they must be completely misreading the situation. But in fact it’s true.
+Stating the obvious is hard. It can even be dangerous: sometimes there’s a good reason nobody says the obvious thing. But I think the bigger reason it’s hard is for the same reason that it’s hard to draw what you actually see. When I look at a person and try to draw them, I’m not drawing the lines and shades my eye sees (like a printer or camera might). I’m drawing what I know the person looks like, which is a kind of stick-figure approximation. It takes time and effort to drop the layer of interpretation and draw what’s actually there1.
+Many of the posts I’m most proud of are times when I’ve managed to articulate something I think is obviously true: engineer reputation is determined by ratchet effects, good engineers are right most of the time, you shouldn’t just do JIRA tickets (or glue work), and so on. These are all things I’ve believed for a while, but have only (relatively) recently been able to notice that I believe them. Sometimes I’m helped along by reading som...
 - [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/) [📖](https://read.readwise.io/read/01kvyp4yjwrrqt3bhcv2b3rfvm) 👤 Jim Nielsen 💬 342 🔖 #writing 🗓️ 2026-06-25
     > **Заметка:** Via HackerNews
     > **Резюме:** Blogging often means saying things that seem obvious but are not talked about enough. Sometimes pointing out simple truths helps others see problems clearly. Good blog posts share these obvious ideas that many people overlook.
+- [You Got Faster. Your Company Didn’t.](https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/) [📖](https://read.readwise.io/read/01kvbaq82wfv1669vn9pgbcjfw) 👤 Matheus Lima 💬 733 🔖 #writing, #llm-devimpact 🗓️ 2026-06-17
+    > **Резюме:** AI made you faster. But you're not more productive; you're outsourcing the slow part to everyone else
 - [Choosing to Stay Human](https://www.oneusefulthing.org/p/choosing-to-stay-human) [📖](https://read.readwise.io/read/01ksjxveh7rdkqsve1c4x151pe) 👤 Ethan Mollick 💬 1831 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26
     > **Резюме:** AI writing is everywhere, but relying on it too much can hurt our ability to think and learn deeply. Using AI as a tool to help us learn and create is good, but letting it do all the work causes "cognitive surrender." We must choose carefully what to do ourselves and what to let AI handle to keep our skills and meaning alive.
 - [Technical Writing in the AI Age](https://css-tricks.com/technical-writing-in-the-ai-age/) [📖](https://read.readwise.io/read/01ksj8ybhvk6w07nax99narzd9) 👤 Geoff Graham 💬 2483 🔖 #writing, #learning, #llm-devimpact 🗓️ 2026-05-26

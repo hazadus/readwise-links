@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 267
+- Всего ссылок: 268
 
 ## Ссылки
 
+- [Prioritizing Recent Messages with Go Channels](https://blainsmith.com/articles/prioritizing-recent-messages-with-go-channels/) [📖](https://read.readwise.io/read/01kw0mpcv5fqbvrh185pzbb799) 👤 Unknown 💬 1343 🔖 #go 🗓️ 2026-06-26
+    > **Резюме:** Go channels block by default, which can cause slow consumers to process outdated data while producers wait. Two patterns—non-blocking send with select/default and drain-before-send—help prioritize the latest message over older ones. These patterns suit systems where recent data matters more than processing every value in order.
 - [RFC 10008: The HTTP QUERY Method](https://blainsmith.com/articles/rfc-10008-http-query-method/) [📖](https://read.readwise.io/read/01kvbq0ck6h3f4hammnkvqm6dj) 👤 Unknown 💬 404 🔖 #go, #http, #rust 🗓️ 2026-06-17
     > **Резюме:** RFC 10008 was published on June 15, 2026 and defines a new HTTP method: QUERY. It fills a gap that has existed for as long as I have been building APIs. You have data to send to the server in order to describe what you want back, but GET does not have a body and POST is neither safe nor idempotent. QUERY gives you a method that accepts a request body while remaining safe, idempotent, and cacheable.
 If you have ever built an SDK that talks to a JSON-RPC API you have felt this pain. JSON-RPC by design sends a JSON payload describing the method and parameters. That payload has to go in the body, which means POST, which means caches and intermediaries treat every request as a state-changing operation. Retry logic gets complicated. CDN caching is off the table. You end up building your own application-level caching because HTTP's built-in mechanisms cannot help you.

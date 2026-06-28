@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 139
+- Всего ссылок: 142
 
 ## Ссылки
 
@@ -10,6 +10,9 @@
 - [The Conversation Is the Commit](https://aicoding.leaflet.pub/3mhxvpam4z22z) [📖](https://read.readwise.io/read/01kvw5hfg6efj4bz1daj2ces5m) 👤 The Phoenix Architecture 💬 1514 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-06-24
     > **Заметка:** Рассмотрена важная проблема. Причины создания и изменения кода нужно хранить рядом с ним. Нынешние системы контроля версий не идеально к этом приспособлены, но вполне можно использовать commit messages, PR descriptions, ADR-документы, обзоры архитектуры и т.п. Это уже лучше, чем ничего.
     > **Резюме:** Code alone doesn't show why or how decisions were made, so understanding it later is hard. When AI agents write code, the true source is the conversation that created it, not the code itself. To keep software clear and trustworthy, we must capture and version-control these conversations, not just the code.
+- [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/) [📖](https://read.readwise.io/read/01kvt16x8zwvp4r5dbj9gsefx6) 👤 Armin Ronacher 💬 2716 🔖 #predictions, #llm-devimpact 🗓️ 2026-06-23
+    > **Заметка:** Армин рассматривает проблематику внедрения LLM в разработку с точки зрения внешних агентских циклов (harness loops). Как всегда, глубоко. Стоит взять эту тему на карандаш.
+    > **Резюме:** The author worries that AI-driven loops in coding make software complex and hard to understand without machines. These loops speed up work but can lead to messy, dependent codebases that humans struggle to maintain. We must find ways to keep human judgment and clear design while using AI tools.
 - [Stop, don’t Slop](http://willmcgugan.github.io/stop-dont-slop/) [📖](https://read.readwise.io/read/01kvsjdxmzcb2msqt8khmqnbr5) 👤 Will McGugan 💬 502 🔖 #foss, #llm-devimpact 🗓️ 2026-06-23
     > **Заметка:** Ещё одно взвешенное и четкое мнение от опытного мейнтейнера FOSS по поводу LLM-contributions: они не нужны!
     > **Резюме:** You find a bug in an Open Source project and generously wish to spend your tokens on solving that issue for the good of humanity. Your fingers hover over the keyboard, trembling in anticipation of the glorious prompt that will unblock your fellow developers. Before you type “FIx issue X make no mistaks” Stop!
@@ -23,6 +26,8 @@ they are good at.
 - [AI demands more engineering discipline. Not less (xpost)](https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/) [📖](https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw) 👤 mipsytipsy 💬 3503 🔖 #llm-reality, #predictions, #llm-devimpact 🗓️ 2026-06-22
     > **Заметка:** Очень дельные мысли по поводу регенерации кода по аналогии с идеей immutable infrastructure. Добавить это в watchlist.
     > **Резюме:** In 2025, AI made writing code almost free and instant, changing how software is built. This shift means code is less valuable as a permanent asset and more like a temporary tool. As AI grows, engineers must use more discipline to ensure software quality and shared understanding.
+- [You Got Faster. Your Company Didn’t.](https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/) [📖](https://read.readwise.io/read/01kvbaq82wfv1669vn9pgbcjfw) 👤 Matheus Lima 💬 733 🔖 #writing, #llm-devimpact 🗓️ 2026-06-17
+    > **Резюме:** AI made you faster. But you're not more productive; you're outsourcing the slow part to everyone else
 - [The "I don't know, Claude wrote this" pandemic](https://newsletter.manager.dev/p/the-i-don-t-know-claude-wrote-this-pandemic) [📖](https://read.readwise.io/read/01kv7qtfqw8fbb8emgdwy29mtg) 👤 Anton Zaides 💬 1252 🔖 #llm-devimpact 🗓️ 2026-06-16
     > **Резюме:** When Claude drives you off the cliff
 - [Pluralistic: AI and amateurism (15 Jun 2026) Pluralistic: AI and amateurism (15 Jun 2026)](https://pluralistic.net/2026/06/15/vernacular/) [📖](https://read.readwise.io/read/01kv5zb5bb53h0kv4zaxzn1nq2) 👤 Cory Doctorow 💬 2963 🔖 #llm-devimpact, #personalsoftware 🗓️ 2026-06-15
@@ -46,6 +51,9 @@ Traditionally software is tested using test suites that are composed of locally-
 LLMs offer a new way to do QA on top of the existing testing methodologies. The idea is to create a markdown file where an AI agent is asked to work as a QA engineer, performing a number of manual testings on the new release. For instance, in the case of DwarfStar (an inference engine for open weights LLMs) I use this approach. In the markdown file, the agent is asked to che...
 - [Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) [📖](https://read.readwise.io/read/01kt8htz0wj55q2z8rj1sve36n) 👤 seangoedecke.com RSS feed 💬 1787 🔖 #llm-devimpact 🗓️ 2026-06-04
     > **Резюме:** Some people who dislike AI want to return to the old way of programming, but this nostalgia can mirror harmful ideas from the past. The author warns that such thinking can echo fascist beliefs about tradition and purity. However, AI also helps many people, and it’s important to see both its good and bad sides.
+- [Surviving in the "chaos management" era](https://newsletter.manager.dev/p/surviving-in-the-chaos-management-era) [📖](https://read.readwise.io/read/01kt3g8r4jmfy5j17h09m9zd2s) 👤 Anton Zaides 💬 1237 🔖 #management, #llm-devimpact 🗓️ 2026-06-02
+    > **Заметка:** Любопытный взгляд на влияние LLM на разработку через изменения в работе менеджеров среднего звена.
+    > **Резюме:** More "AI skills" is not what you need right now
 - [Weird projects I shipped with AI](https://seangoedecke.com/weird-projects-i-shipped-with-ai/) [📖](https://read.readwise.io/read/01kt13t8b6b636rzmnyds3thr6) 👤 seangoedecke.com RSS feed 💬 1002 🔖 #llm-devimpact 🗓️ 2026-06-01
     > **Резюме:** The author built many small, unusual projects using AI to help write code and save time. These projects include a SkiFree game, an automatic Anki card generator, and an offline plant database. AI made these projects possible and faster to create, showing how AI boosts productivity even without a flood of new big apps.
 - [We should be more tired than the model](https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/) [📖](https://read.readwise.io/read/01ksrf7w5yfwy3pednc4xwkes4) 👤 ★❤✰ Vicki Boykis ★❤✰ 💬 471 🔖 #learning, #llm-devimpact 🗓️ 2026-05-28

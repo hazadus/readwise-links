@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 49
+- Всего ссылок: 50
 
 ## Ссылки
 
+- [Surviving in the "chaos management" era](https://newsletter.manager.dev/p/surviving-in-the-chaos-management-era) [📖](https://read.readwise.io/read/01kt3g8r4jmfy5j17h09m9zd2s) 👤 Anton Zaides 💬 1237 🔖 #management, #llm-devimpact 🗓️ 2026-06-02
+    > **Заметка:** Любопытный взгляд на влияние LLM на разработку через изменения в работе менеджеров среднего звена.
+    > **Резюме:** More "AI skills" is not what you need right now
 - [Managing a team that didn't choose you](https://newsletter.manager.dev/p/managing-a-team-that-didn-t-choose-you) [📖](https://read.readwise.io/read/01kqaq4zs4y0kd0x4g0a0qahhb) 👤 Anton Zaides 💬 1766 🔖 #management 🗓️ 2026-04-28
     > **Резюме:** Anton Zaides shares his experience managing a new engineering team he didn't choose, emphasizing the need to adapt quickly rather than just observe. He learned that focusing on team building and communication was more important than technical onboarding at first. Constant change means managers must listen closely and be ready to adjust their plans often.
 - [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) [📖](https://read.readwise.io/read/01kn4wcadfjm540wfsav7pgxnp) 👤 Matheus Lima 💬 847 🔖 #career, #management, #communication 🗓️ 2026-04-01

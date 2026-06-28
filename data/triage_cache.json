@@ -1134,6 +1134,24 @@
       "is_foundational": false,
       "is_evergreen": true,
       "interest_score": 3
+    },
+    "01kw54zcm3196kc0he9yd3mkrt": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 2
+    },
+    "01kw45tryd21q5y05v63ptkwkw": {
+      "is_tutorial": false,
+      "is_foundational": true,
+      "is_evergreen": true,
+      "interest_score": 8
+    },
+    "01kt9g5hjy7yekzpve15z1j8yx": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 2
     }
   }
 }

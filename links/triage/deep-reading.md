@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-06-26 04:40 UTC · Статей: 38
+Сгенерировано: 2026-06-28 04:43 UTC · Статей: 40
 
 ## Статьи
 
@@ -20,6 +20,8 @@ _Длинные статьи (от 1500 слов), не туториалы_
 - [Software Development in 2026](https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026) [📖](https://read.readwise.io/read/01kn9q1g2rkzrdsd4mgzghk9ew) 👤 Aleksei Matiushkin 💬 1952 ⭐ 8 🗓️ 2026-04-03 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via ElixirWeekly
     > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.
+- [Open Knowledge Format: I Already Do This, and Now It Has a Name](https://alexop.dev/posts/open-knowledge-format-markdown-frontmatter-agent-knowledge/) [📖](https://read.readwise.io/read/01kw45tryd21q5y05v63ptkwkw) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 1905 ⭐ 8 🔖 #llm, #claude 🗓️ 2026-06-27 · 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Open Knowledge Format (OKF) is a simple way to organize knowledge in Markdown files with YAML frontmatter that AI agents can read and humans can edit. It makes files easy to query and link, acting as shared semantic memory for projects without needing special software. OKF is a format, not a platform, so anyone can use it easily and it helps different tools work together.
 - [The secret life of the xattr](https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/) [📖](https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1) 👤 hoakley 💬 1905 ⭐ 8 🗓️ 2026-04-24 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.
 - [macOS Tips](https://blog.xoria.org/macos-tips/) [📖](https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8) 👤 xoria.org 💬 2856 ⭐ 7 🔖 #macos 🗓️ 2026-01-31 · 🌲 вечнозелёное
@@ -89,6 +91,8 @@ Open source maintainers should focus on practical, small- to medium-scale projec
 - [“Conviction Collapse” and the End of Software as We Know It](https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h) 👤 Tim O’Reilly 💬 2092 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-04-13
     > **Заметка:** w./ Harper Reed!
     > **Резюме:** Software is no longer a fixed product but a flexible process that evolves through ongoing learning and creativity. AI and agentic coding let people build, adapt, and improve software like art or music. Success now depends on play, social interaction, and discovering new ways to create, not just on money or technology.
+- [A Car Crash In Slow Motion](https://codemanship.wordpress.com/2026/06/04/a-car-crash-in-slow-motion/) [📖](https://read.readwise.io/read/01kt9g5hjy7yekzpve15z1j8yx) 👤 codemanship 💬 2071 ⭐ 2 🔖 #reflections 🗓️ 2026-06-04
+    > **Резюме:** The author started Codemanship to teach and coach software developers, growing the business slowly over many years. The rise of AI coding tools made his training more important than ever, leading him back to community-focused workshops. Now, at 55, he remains skilled but is “between careers,” hopeful about the future.
 - [What Happened To WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kev4m8w7cey28bhr1th61s56) 👤 EmNudge 💬 1863 ⭐ 2 🔖 #shortlist, #webassembly 🗓️ 2026-01-13 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** WebAssembly is widely used to run code efficiently and securely in browsers and other environments, often as a compilation target for many languages. It is not replacing JavaScript but works behind the scenes to improve performance and enable new features. Its strength lies in security, portability, and embeddability rather than being a standalone language for building entire applications.
 - [How WebSockets Work](https://www.deepintodev.com/blog/how-websockets-work?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kba3nq8a8s1s81yz84qp2eqp) 👤 Kaan Peksen 💬 1697 ⭐ 2 🔖 #websocket 🗓️ 2025-11-30 · 🧠 основы, 🌲 вечнозелёное

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 22
+- Всего ссылок: 23
 
 ## Ссылки
 
+- [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/) [📖](https://read.readwise.io/read/01kvt16x8zwvp4r5dbj9gsefx6) 👤 Armin Ronacher 💬 2716 🔖 #predictions, #llm-devimpact 🗓️ 2026-06-23
+    > **Заметка:** Армин рассматривает проблематику внедрения LLM в разработку с точки зрения внешних агентских циклов (harness loops). Как всегда, глубоко. Стоит взять эту тему на карандаш.
+    > **Резюме:** The author worries that AI-driven loops in coding make software complex and hard to understand without machines. These loops speed up work but can lead to messy, dependent codebases that humans struggle to maintain. We must find ways to keep human judgment and clear design while using AI tools.
 - [AI demands more engineering discipline. Not less (xpost)](https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/) [📖](https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw) 👤 mipsytipsy 💬 3503 🔖 #llm-reality, #predictions, #llm-devimpact 🗓️ 2026-06-22
     > **Заметка:** Очень дельные мысли по поводу регенерации кода по аналогии с идеей immutable infrastructure. Добавить это в watchlist.
     > **Резюме:** In 2025, AI made writing code almost free and instant, changing how software is built. This shift means code is less valuable as a permanent asset and more like a temporary tool. As AI grows, engineers must use more discipline to ensure software quality and shared understanding.

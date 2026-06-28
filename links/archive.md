@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1755
+- Всего ссылок: 1760
 
 ## Ссылки
 
+- [Saying the obvious thing](https://seangoedecke.com/saying-the-obvious-thing/) [📖](https://read.readwise.io/read/01kw4a081m97ctsr72gw31585s) 👤 seangoedecke.com RSS feed 💬 865 🔖 #writing 🗓️ 2026-06-27
+    > **Заметка:** Смотрю Шону понравился тот же пост с Hacker News, который я сохранил пару дней назад - https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/ :)
 - [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/) [📖](https://read.readwise.io/read/01kvyp4yjwrrqt3bhcv2b3rfvm) 👤 Jim Nielsen 💬 342 🔖 #writing 🗓️ 2026-06-25
     > **Заметка:** Via HackerNews
 - [Make AI Boring Again](https://charitydotwtf.substack.com/p/make-ai-boring-again) [📖](https://read.readwise.io/read/01kvxkzvp6xesjjmpw3e6nxdpp) 👤 Charity Majors 💬 3220 🔖 #llm-reality 🗓️ 2026-06-24
@@ -15,6 +17,8 @@
     > **Заметка:** Рассмотрена важная проблема. Причины создания и изменения кода нужно хранить рядом с ним. Нынешние системы контроля версий не идеально к этом приспособлены, но вполне можно использовать commit messages, PR descriptions, ADR-документы, обзоры архитектуры и т.п. Это уже лучше, чем ничего.
 - [Production Is a Compiler Input](https://aicoding.leaflet.pub/3mjx4erlboc2l) [📖](https://read.readwise.io/read/01kvw5hfc1jy6y6t8pdqa7kdqe) 👤 The Phoenix Architecture 💬 941 🔖 #observability, #softwarecraft 🗓️ 2026-06-24
     > **Заметка:** Интересно. "Производство" - это где живет приложение, там подтвержаются предположения, сделанные при разработке. И "правда о производстве" должна поступать на вход при разработке/генерации софта, чтобы он был корректным и актуальным. Мне нравится идея.
+- [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/) [📖](https://read.readwise.io/read/01kvt16x8zwvp4r5dbj9gsefx6) 👤 Armin Ronacher 💬 2716 🔖 #predictions, #llm-devimpact 🗓️ 2026-06-23
+    > **Заметка:** Армин рассматривает проблематику внедрения LLM в разработку с точки зрения внешних агентских циклов (harness loops). Как всегда, глубоко. Стоит взять эту тему на карандаш.
 - [Stop, don’t Slop](http://willmcgugan.github.io/stop-dont-slop/) [📖](https://read.readwise.io/read/01kvsjdxmzcb2msqt8khmqnbr5) 👤 Will McGugan 💬 502 🔖 #foss, #llm-devimpact 🗓️ 2026-06-23
     > **Заметка:** Ещё одно взвешенное и четкое мнение от опытного мейнтейнера FOSS по поводу LLM-contributions: они не нужны!
 - [Adversarial Communication](https://blog.glyph.im/2026/06/adversarial-communication.html) [📖](https://read.readwise.io/read/01kvsck0xkwt59pjbqrb7hef8y) 👤 Glyph 💬 2762 🔖 #learning, #codereview, #llm-devimpact, #llm-resistance 🗓️ 2026-06-23
@@ -25,6 +29,7 @@
     > **Заметка:** Очень дельные мысли по поводу регенерации кода по аналогии с идеей immutable infrastructure. Добавить это в watchlist.
 - [WWDC 2026 First Thoughts](https://troz.net/post/2026/wwdc2026_first_thoughts/) [📖](https://read.readwise.io/read/01kvjzt2t19b5j7h842msbzmks) 👤 Sarah Reichelt 💬 1015 🔖 #macos 🗓️ 2026-06-20
 - [RFC 10008: The HTTP QUERY Method](https://blainsmith.com/articles/rfc-10008-http-query-method/) [📖](https://read.readwise.io/read/01kvbq0ck6h3f4hammnkvqm6dj) 👤 Unknown 💬 404 🔖 #go, #http, #rust 🗓️ 2026-06-17
+- [You Got Faster. Your Company Didn’t.](https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/) [📖](https://read.readwise.io/read/01kvbaq82wfv1669vn9pgbcjfw) 👤 Matheus Lima 💬 733 🔖 #writing, #llm-devimpact 🗓️ 2026-06-17
 - [The "I don't know, Claude wrote this" pandemic](https://newsletter.manager.dev/p/the-i-don-t-know-claude-wrote-this-pandemic) [📖](https://read.readwise.io/read/01kv7qtfqw8fbb8emgdwy29mtg) 👤 Anton Zaides 💬 1252 🔖 #llm-devimpact 🗓️ 2026-06-16
 - [Revised rules of engineering leadership.](https://lethain.com/revised-rules-of-engineering-leadership/) [📖](https://read.readwise.io/read/01kv600w89e0vx2scbtef5dgxf) 👤 Irrational Exuberance 💬 2060 🔖 #llm-reality 🗓️ 2026-06-15
     > **Заметка:** Хорошие правила с практическими подтверждениями.
@@ -36,12 +41,16 @@
     > **Заметка:** Via Wisereads Vol.146; Via Simon Willison.
 - [Domain Expertise Has Always Been the Real Moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) [📖](https://read.readwise.io/read/01ktndd9cyk7mrv5btd8qg0bhk) 👤 brethorsting.com 💬 760 🔖 #llm-devimpact 🗓️ 2026-06-09
     > **Заметка:** Via Wisereads vol.146
+- [Working with product managers](https://seangoedecke.com/working-with-product-managers/) [📖](https://read.readwise.io/read/01ktkg84qdqqnzsv71bmcdqqk5) 👤 seangoedecke.com RSS feed 💬 2143 🔖 #career 🗓️ 2026-06-08
+    > **Заметка:** По делу пишет Шон: вроде очевидные вещи, но если у тебя уже богатый жизненный опыт. И даже в этом случае ещё раз обдумать эти моменты. 
 - [Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/) [📖](https://read.readwise.io/read/01ktj1brkrqjnbp75pwcneq7ff) 👤 seangoedecke.com RSS feed 💬 1964 🔖 #career 🗓️ 2026-06-07
 - [A new era for software testing](http://antirez.com/news/168) [📖](https://read.readwise.io/read/01ktgr5rs2h53b2vr3g7cn93dt) 👤 <antirez> 💬 667 🔖 #testing, #llm-devimpact 🗓️ 2026-06-07
     > **Заметка:** Отлично! Вместо нытья, что LLM - плохо и приводят к снижению качества ПО, можно придумать такие вот решения, потенциально приводящие к обратному!
 - [Communities of Not](https://lucumr.pocoo.org/2026/6/6/communities-of-not/) [📖](https://read.readwise.io/read/01kterke2avrfcxekezkzb2qff) 👤 Armin Ronacher 💬 438 🗓️ 2026-06-06
     > **Заметка:** Очень правильно: взгляды могут быть разные (в любых сферах), но не нужно делать из оппонентов врагов. Пересекается с последними постами Charity Majors.
 - [Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) [📖](https://read.readwise.io/read/01kt8htz0wj55q2z8rj1sve36n) 👤 seangoedecke.com RSS feed 💬 1787 🔖 #llm-devimpact 🗓️ 2026-06-04
+- [Surviving in the "chaos management" era](https://newsletter.manager.dev/p/surviving-in-the-chaos-management-era) [📖](https://read.readwise.io/read/01kt3g8r4jmfy5j17h09m9zd2s) 👤 Anton Zaides 💬 1237 🔖 #management, #llm-devimpact 🗓️ 2026-06-02
+    > **Заметка:** Любопытный взгляд на влияние LLM на разработку через изменения в работе менеджеров среднего звена.
 - [Weird projects I shipped with AI](https://seangoedecke.com/weird-projects-i-shipped-with-ai/) [📖](https://read.readwise.io/read/01kt13t8b6b636rzmnyds3thr6) 👤 seangoedecke.com RSS feed 💬 1002 🔖 #llm-devimpact 🗓️ 2026-06-01
 - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) [📖](https://read.readwise.io/read/01kt127h2745wqrnyyk6pg2p6g) 👤 Chad Whitacre 💬 19 🗓️ 2026-06-01
 - [Build agents, not pipelines](https://seangoedecke.com/build-agents-not-pipelines/) [📖](https://read.readwise.io/read/01ksy73mnt3a7pj9t0nesv8jmq) 👤 seangoedecke.com RSS feed 💬 2249 🔖 #llm, #agents 🗓️ 2026-05-31

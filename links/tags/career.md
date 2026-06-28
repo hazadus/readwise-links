@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 78
+- Всего ссылок: 79
 
 ## Ссылки
 
+- [Working with product managers](https://seangoedecke.com/working-with-product-managers/) [📖](https://read.readwise.io/read/01ktkg84qdqqnzsv71bmcdqqk5) 👤 seangoedecke.com RSS feed 💬 2143 🔖 #career 🗓️ 2026-06-08
+    > **Заметка:** По делу пишет Шон: вроде очевидные вещи, но если у тебя уже богатый жизненный опыт. И даже в этом случае ещё раз обдумать эти моменты. 
+    > **Резюме:** Engineers and product managers often struggle to understand each other because they have different skills and priorities. Building trust is hard but important, as product managers hold key information and influence. Good relationships help teams succeed, while conflict usually leads to problems.
 - [Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/) [📖](https://read.readwise.io/read/01ktj1brkrqjnbp75pwcneq7ff) 👤 seangoedecke.com RSS feed 💬 1964 🔖 #career 🗓️ 2026-06-07
     > **Резюме:** Many engineers should be doing less work. I don’t necessarily mean producing less code or fewer changes, but literally working fewer hours in the day. When they do work, they should be working at a slower pace. I like to aim to be running at 80% utilization by default: unless I have a high-pressure project going on, I spend 20% of my workday away from the computer.
 High-impact opportunities
