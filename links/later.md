@@ -1,9 +1,12 @@
 # Отложенные ссылки
 
-- Всего ссылок: 63
+- Всего ссылок: 64
 
 ## Ссылки
 
+- [Software Engineering in the Age of AI](https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/) [📖](https://read.readwise.io/read/01kw7swjy25s3hhx1dmyqermtk) 👤 Andrew Diamond 💬 2590 🗓️ 2026-06-28
+    > **Заметка:** Via HackerNews Digest (2026-06-28)
+    > **Резюме:** AI has changed software development by writing most code, while humans now mainly review and guide it. This shift makes developers less creative and risks losing deep knowledge needed for complex problems. In the long run, relying on AI may weaken the skills and understanding that build truly innovative software.
 - [The University In The AI Era](https://htmx.org/essays/universities-and-ai/) [📖](https://read.readwise.io/read/01kw54zcm3196kc0he9yd3mkrt) 👤 htmx.org 💬 717 🗓️ 2026-06-27
     > **Заметка:** Via Social Digest
     > **Резюме:** The author suggests combining computer science with other majors to help more students learn useful tech skills. They also propose using special computer labs and oral exams to better check students’ true abilities. These changes can keep universities important even as AI grows and changes how we learn.
