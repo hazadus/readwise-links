@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 142
+- Всего ссылок: 143
 
 ## Ссылки
 
+- [The University In The AI Era](https://htmx.org/essays/universities-and-ai/) [📖](https://read.readwise.io/read/01kw54zcm3196kc0he9yd3mkrt) 👤 htmx.org 💬 717 🔖 #learning, #llm-devimpact 🗓️ 2026-06-27
+    > **Заметка:** Via Social Digest
+    > **Резюме:** The author suggests combining computer science with other majors to help more students learn useful tech skills. They also propose using special computer labs and oral exams to better check students’ true abilities. These changes can keep universities important even as AI grows and changes how we learn.
 - [Будущее разработки в эпоху ИИ: уволят ли нас и что с этим делать](https://habr.com/ru/articles/1048374/) [📖](https://read.readwise.io/read/01kvwys10ns8sn6r1seqcv9xcp) 👤 yakvenalex 💬 4453 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-06-24
     > **Заметка:** Правильные вопросы и многие идеи, но их много - поэтому текст довольно поверхностный. И местами слишком ИИшный :( В любом случае радует, что в рунете стали поднимать эти темы. Оставляю в архиве ради этого, и примеров "вайбкодеров от бизнеса" (брр!..)
     > **Резюме:** ИИ меняет профессию разработчика, упрощая создание кода, но снижая глубину понимания. Настоящая ценность — в умении разбираться и критически оценивать результат ИИ. Чтобы выжить в профессии, важно учиться и развивать инженерное мышление, а не полагаться только на ассистентов.

@@ -1,13 +1,19 @@
 # Архивные ссылки
 
-- Всего ссылок: 1760
+- Всего ссылок: 1765
 
 ## Ссылки
 
+- [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html) [📖](https://read.readwise.io/read/01kw9hbdc7yzg4tnkj8avkey83) 👤 inessential.com 💬 598 🔖 #reflections 🗓️ 2026-06-29
+    > **Заметка:** Via Simon WIllison. Импонирует, как автор, "выйдя на пенсию", посвятил своё время совершенствованию свого старого приложения NetNewsWire. Остаётся только позавидовать его энергии и позитивному настрою, и брать пример!
+- [On the edge of burnout](https://cassidoo.co/post/edge-of-burnout/) [📖](https://read.readwise.io/read/01kw6x05dyj6qypxgpa1mc1s7d) 👤 Cassidy Williams 💬 265 🔖 #burnout, #reflections 🗓️ 2026-06-28
 - [Saying the obvious thing](https://seangoedecke.com/saying-the-obvious-thing/) [📖](https://read.readwise.io/read/01kw4a081m97ctsr72gw31585s) 👤 seangoedecke.com RSS feed 💬 865 🔖 #writing 🗓️ 2026-06-27
     > **Заметка:** Смотрю Шону понравился тот же пост с Hacker News, который я сохранил пару дней назад - https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/ :)
+- [Open Knowledge Format: I Already Do This, and Now It Has a Name](https://alexop.dev/posts/open-knowledge-format-markdown-frontmatter-agent-knowledge/) [📖](https://read.readwise.io/read/01kw45tryd21q5y05v63ptkwkw) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 1905 🔖 #llm, #try, #claude 🗓️ 2026-06-27
+    > **Заметка:** Посмотрим для начала, насколько этот формат приживётся. Пока что встречаю первый пост про него.
 - [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/) [📖](https://read.readwise.io/read/01kvyp4yjwrrqt3bhcv2b3rfvm) 👤 Jim Nielsen 💬 342 🔖 #writing 🗓️ 2026-06-25
     > **Заметка:** Via HackerNews
+- [Thoughts on Motivation and My 40-Year Career](https://charity.wtf/2025/07/09/thoughts-on-motivation-and-my-40-year-career/) [📖](https://read.readwise.io/read/01kvxqmq6g23shqdh03ewy6jpt) 👤 mipsytipsy 💬 3929 🔖 #reflections 🗓️ 2026-06-24
 - [Make AI Boring Again](https://charitydotwtf.substack.com/p/make-ai-boring-again) [📖](https://read.readwise.io/read/01kvxkzvp6xesjjmpw3e6nxdpp) 👤 Charity Majors 💬 3220 🔖 #llm-reality 🗓️ 2026-06-24
     > **Заметка:** Приземленный взгляд: нам жить с LLM, от этого уже никуда не деться. Нужно научиться принимать это и минимизировать негативные стороны. Адекватная позиция. 
 - [Будущее разработки в эпоху ИИ: уволят ли нас и что с этим делать](https://habr.com/ru/articles/1048374/) [📖](https://read.readwise.io/read/01kvwys10ns8sn6r1seqcv9xcp) 👤 yakvenalex 💬 4453 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-06-24
@@ -48,6 +54,8 @@
     > **Заметка:** Отлично! Вместо нытья, что LLM - плохо и приводят к снижению качества ПО, можно придумать такие вот решения, потенциально приводящие к обратному!
 - [Communities of Not](https://lucumr.pocoo.org/2026/6/6/communities-of-not/) [📖](https://read.readwise.io/read/01kterke2avrfcxekezkzb2qff) 👤 Armin Ronacher 💬 438 🗓️ 2026-06-06
     > **Заметка:** Очень правильно: взгляды могут быть разные (в любых сферах), но не нужно делать из оппонентов врагов. Пересекается с последними постами Charity Majors.
+- [A Car Crash In Slow Motion](https://codemanship.wordpress.com/2026/06/04/a-car-crash-in-slow-motion/) [📖](https://read.readwise.io/read/01kt9g5hjy7yekzpve15z1j8yx) 👤 codemanship 💬 2071 🔖 #reflections 🗓️ 2026-06-04
+    > **Заметка:** Очень откровенный пост... Надеюсь, у автора всё получится с трудоустройством...
 - [Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) [📖](https://read.readwise.io/read/01kt8htz0wj55q2z8rj1sve36n) 👤 seangoedecke.com RSS feed 💬 1787 🔖 #llm-devimpact 🗓️ 2026-06-04
 - [Surviving in the "chaos management" era](https://newsletter.manager.dev/p/surviving-in-the-chaos-management-era) [📖](https://read.readwise.io/read/01kt3g8r4jmfy5j17h09m9zd2s) 👤 Anton Zaides 💬 1237 🔖 #management, #llm-devimpact 🗓️ 2026-06-02
     > **Заметка:** Любопытный взгляд на влияние LLM на разработку через изменения в работе менеджеров среднего звена.

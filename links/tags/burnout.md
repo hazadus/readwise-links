@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [On the edge of burnout](https://cassidoo.co/post/edge-of-burnout/) [📖](https://read.readwise.io/read/01kw6x05dyj6qypxgpa1mc1s7d) 👤 Cassidy Williams 💬 265 🔖 #burnout, #reflections 🗓️ 2026-06-28
+    > **Резюме:** Cassidy almost burned out but stopped herself in time. She feels better after resting and doing things she enjoys. Her advice is to take breaks, reflect, and talk to someone who cares.
 - [AI-assisted engineers are burning out, is this fine?](https://evilmartians.com/chronicles/ai-assisted-engineers-are-burning-out-is-this-fine?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kspg5q1bt2hj29py6y6yf4zr) 👤 Tech Editor 💬 3248 🔖 #burnout, #llm-fatigue, #llm-devimpact 🗓️ 2026-05-28
     > **Заметка:** Это прекрасный разбор, с отличными схемами, и выводы совпадают с моим собственным опытом!  Via TLDR Newsletter. Обсуждение на HN: https://news.ycombinator.com/item?id=48228283
     > **Резюме:** AI helps engineers write code faster but causes mental fatigue and burnout. This happens because reviewing AI code is harder and working nonstop drains energy. To avoid burnout, developers should balance AI use with breaks and focus on tasks they enjoy.

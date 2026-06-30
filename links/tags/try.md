@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 73
+- Всего ссылок: 74
 
 ## Ссылки
 
+- [Open Knowledge Format: I Already Do This, and Now It Has a Name](https://alexop.dev/posts/open-knowledge-format-markdown-frontmatter-agent-knowledge/) [📖](https://read.readwise.io/read/01kw45tryd21q5y05v63ptkwkw) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 1905 🔖 #llm, #try, #claude 🗓️ 2026-06-27
+    > **Заметка:** Посмотрим для начала, насколько этот формат приживётся. Пока что встречаю первый пост про него.
+    > **Резюме:** Open Knowledge Format (OKF) is a simple way to organize knowledge in Markdown files with YAML frontmatter that AI agents can read and humans can edit. It makes files easy to query and link, acting as shared semantic memory for projects without needing special software. OKF is a format, not a platform, so anyone can use it easily and it helps different tools work together.
 - [Building Go APIs with Huma, sqlc, and Goose](https://blainsmith.com/articles/building-go-apis-with-huma-slqc-and-goose/) [📖](https://read.readwise.io/read/01krggyk2tk1s6tawtxavh736y) 👤 Blain Smith 💬 1692 🔖 #go, #try 🗓️ 2026-05-13
     > **Заметка:** Любопытный стек. Классно, что инструменты дополняют друг друга, не мешая и не закрывая собой общую картину. Надо бы попробовать при случае.
     > **Резюме:** This stack uses Goose for database migrations, sqlc to generate type-safe Go code from SQL, and Huma to create typed HTTP APIs with automatic OpenAPI specs. You write plain SQL for schema and queries, and the tools handle generating Go code and docs. This approach keeps the code simple, reviewable, and easy for new engineers to understand quickly.

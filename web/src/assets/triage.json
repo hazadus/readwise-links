@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T04:44:59.298035+00:00",
+  "generated_at": "2026-06-30T04:38:31.123043+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -332,96 +332,6 @@
         }
       },
       {
-        "id": "01kw45tryd21q5y05v63ptkwkw",
-        "url": "https://read.readwise.io/read/01kw45tryd21q5y05v63ptkwkw",
-        "source_url": "https://alexop.dev/posts/open-knowledge-format-markdown-frontmatter-agent-knowledge/",
-        "title": "Open Knowledge Format: I Already Do This, and Now It Has a Name",
-        "author": "alex.opalic.dev@gmail.com (Alexander Opalic)",
-        "image_url": "https://alexop.dev/posts/open-knowledge-format-i-already-do-this-and-now-it-has-a-name/index.png",
-        "word_count": 1905,
-        "summary": "Open Knowledge Format (OKF) is a simple way to organize knowledge in Markdown files with YAML frontmatter that AI agents can read and humans can edit. It makes files easy to query and link, acting as shared semantic memory for projects without needing special software. OKF is a format, not a platform, so anyone can use it easily and it helps different tools work together.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1782585283025
-          },
-          "claude": {
-            "name": "Claude",
-            "type": "manual",
-            "created": 1782585288077
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kw55rpz8mcz4s56xb88rjerq",
-            "url": "https://read.readwise.io/read/01kw55rpz8mcz4s56xb88rjerq",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-mobile-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kw45tryd21q5y05v63ptkwkw",
-            "reading_progress": 0.0,
-            "content": "And I’ve gone further than a bare docs/ folder. On some projects I ran brainmaxxing: a Markdown vault the agent reads at session start and writes back to when it learns something. It ships a little learning loop, /reflect after a session, /ruminate over old conversations, /meditate to prune stale notes, and because the vault is also an Obsidian vault, I can open the agent’s memory and read it like my own notes. The OKF post names this exact species in passing: “Obsidian vaults wired to coding agents.” It worked really well.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-06-27T18:34:14.785345+00:00",
-            "updated_at": "2026-06-27T18:34:38.164219+00:00",
-            "saved_at": "2026-06-27T18:34:16.746000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-06-27T18:34:16.746000+00:00",
-            "notes_attached": [
-              {
-                "id": "01kw55se3sr0skjzx5v29w2few",
-                "url": "https://read.readwise.io/read/01kw55se3sr0skjzx5v29w2few",
-                "source_url": null,
-                "title": null,
-                "author": null,
-                "source": "reader-mobile-app",
-                "category": "note",
-                "location": null,
-                "tags": null,
-                "site_name": null,
-                "word_count": null,
-                "notes": "",
-                "summary": null,
-                "image_url": null,
-                "parent_id": "01kw55rpz8mcz4s56xb88rjerq",
-                "reading_progress": 0.0,
-                "content": "Интересное решение, нужно попробовать. ",
-                "html_content": null,
-                "published_date": null,
-                "created_at": "2026-06-27T18:34:37.377599+00:00",
-                "updated_at": "2026-06-27T18:34:37.377610+00:00",
-                "saved_at": "2026-06-27T18:34:36.537000+00:00",
-                "first_opened_at": null,
-                "last_opened_at": null,
-                "last_moved_at": "2026-06-27T18:34:36.537000+00:00"
-              }
-            ]
-          }
-        ],
-        "saved_at": "2026-06-27T09:15:59.966000+00:00",
-        "last_moved_at": "2026-06-27T09:17:05.855000+00:00",
-        "published_date": "2026-06-27",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
         "id": "01kpz4x1yajdkj46sz8958dtx1",
         "url": "https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1",
         "source_url": "https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/",
@@ -647,6 +557,34 @@
           "is_evergreen": true,
           "interest_score": 6
         }
+      },
+      {
+        "id": "01kgpxfr0rd5sezbhmv0szq1dt",
+        "url": "https://read.readwise.io/read/01kgpxfr0rd5sezbhmv0szq1dt",
+        "source_url": "https://mtlynch.io/good-developers-bad-tests/#test-code-is-not-like-other-code",
+        "title": "Why Good Developers Write Bad Unit Tests",
+        "author": "Michael Lynch",
+        "image_url": "https://mtlynch.io/good-developers-bad-tests/cover.jpg",
+        "word_count": 2167,
+        "summary": "Software developers often write bad unit tests by blindly applying production code rules to test code, leading to unnecessary complexity. Good unit tests should be simple, clear, and self-contained, enabling easy understanding and issue diagnosis without excessive abstraction. Naming tests effectively and avoiding unnecessary constants can help improve the quality of unit tests.",
+        "notes": "Via https://refactoringenglish.com/blog/software-essays-that-shaped-me/#-by-erik-kuefler-2014",
+        "tags": {
+          "testing": {
+            "name": "Testing",
+            "type": "manual",
+            "created": 1770295661004
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-02-05T12:47:28.280000+00:00",
+        "last_moved_at": "2026-02-05T12:47:33.361000+00:00",
+        "published_date": "2018-11-09",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 6
+        }
       }
     ],
     "shortest": [
@@ -710,7 +648,18 @@
         "word_count": 717,
         "summary": "The author suggests combining computer science with other majors to help more students learn useful tech skills. They also propose using special computer labs and oral exams to better check students’ true abilities. These changes can keep universities important even as AI grows and changes how we learn.",
         "notes": "Via Social Digest",
-        "tags": {},
+        "tags": {
+          "learning": {
+            "name": "Learning",
+            "type": "manual",
+            "created": 1782732466682
+          },
+          "llm-devimpact": {
+            "name": "LLM-DevImpact",
+            "type": "manual",
+            "created": 1782732458615
+          }
+        },
         "highlights": [],
         "saved_at": "2026-06-27T18:20:23.043000+00:00",
         "last_moved_at": "2026-06-27T18:20:28.633000+00:00",
@@ -848,89 +797,6 @@
           "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 3
-        }
-      },
-      {
-        "id": "01kt9g5hjy7yekzpve15z1j8yx",
-        "url": "https://read.readwise.io/read/01kt9g5hjy7yekzpve15z1j8yx",
-        "source_url": "https://codemanship.wordpress.com/2026/06/04/a-car-crash-in-slow-motion/",
-        "title": "A Car Crash In Slow Motion",
-        "author": "codemanship",
-        "image_url": "https://codemanship.wordpress.com/wp-content/uploads/2026/06/jg_profile_pic_cropped.jpg",
-        "word_count": 2071,
-        "summary": "The author started Codemanship to teach and coach software developers, growing the business slowly over many years. The rise of AI coding tools made his training more important than ever, leading him back to community-focused workshops. Now, at 55, he remains skilled but is “between careers,” hopeful about the future.",
-        "notes": "",
-        "tags": {
-          "reflections": {
-            "name": "Reflections",
-            "type": "manual",
-            "created": 1782475106789
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kw1wm0pmejfw4wfp87mr2zcg",
-            "url": "https://read.readwise.io/read/01kw1wm0pmejfw4wfp87mr2zcg",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-web-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kt9g5hjy7yekzpve15z1j8yx",
-            "reading_progress": 0.0,
-            "content": "Although it never really occurred to me, these original training cohorts became my busy bees, buzzing from gig to gig, gaining seniority and influence year on year, until corporate orders started coming in from places they were working.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-06-26T11:56:39.399746+00:00",
-            "updated_at": "2026-06-26T11:56:39.399758+00:00",
-            "saved_at": "2026-06-26T11:56:38.484000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-06-26T11:56:38.484000+00:00"
-          },
-          {
-            "id": "01kw1wf0dgzvrdwy14p0dm7mke",
-            "url": "https://read.readwise.io/read/01kw1wf0dgzvrdwy14p0dm7mke",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-web-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kt9g5hjy7yekzpve15z1j8yx",
-            "reading_progress": 0.0,
-            "content": "It was such good value that folks flew in from as far afield as Russia – back when they could – and the US and Canada. They’d book a hotel for a day or two after to see the sights – make a city break of it.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-06-26T11:53:55.007266+00:00",
-            "updated_at": "2026-06-26T11:53:55.007280+00:00",
-            "saved_at": "2026-06-26T11:53:54.352000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-06-26T11:53:54.352000+00:00"
-          }
-        ],
-        "saved_at": "2026-06-04T14:21:30.151000+00:00",
-        "last_moved_at": "2026-06-26T11:58:14.372000+00:00",
-        "published_date": "2026-06-04",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
         }
       },
       {
@@ -1238,28 +1104,6 @@
         "saved_at": "2026-03-01T13:59:17.202000+00:00",
         "last_moved_at": "2026-03-01T13:59:25.116000+00:00",
         "published_date": "2026-02-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kvxqmq6g23shqdh03ewy6jpt",
-        "url": "https://read.readwise.io/read/01kvxqmq6g23shqdh03ewy6jpt",
-        "source_url": "https://charity.wtf/2025/07/09/thoughts-on-motivation-and-my-40-year-career/",
-        "title": "Thoughts on Motivation and My 40-Year Career",
-        "author": "mipsytipsy",
-        "image_url": "https://i0.wp.com/charity.wtf/wp-content/uploads/2025/06/headshots-11.jpeg?fit=900%2C1200&ssl=1",
-        "word_count": 3929,
-        "summary": "The author shares how work has been a source of growth, meaning, and community throughout their 40-year tech career. They believe work can inspire learning, innovation, and integrity even in tough times. Their hope is to show that meaningful work and strong ideals can still lead to success.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-24T21:12:40.912000+00:00",
-        "last_moved_at": "2026-06-24T21:12:59.774000+00:00",
-        "published_date": "2025-07-09",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -1618,7 +1462,18 @@
         "word_count": 717,
         "summary": "The author suggests combining computer science with other majors to help more students learn useful tech skills. They also propose using special computer labs and oral exams to better check students’ true abilities. These changes can keep universities important even as AI grows and changes how we learn.",
         "notes": "Via Social Digest",
-        "tags": {},
+        "tags": {
+          "learning": {
+            "name": "Learning",
+            "type": "manual",
+            "created": 1782732466682
+          },
+          "llm-devimpact": {
+            "name": "LLM-DevImpact",
+            "type": "manual",
+            "created": 1782732458615
+          }
+        },
         "highlights": [],
         "saved_at": "2026-06-27T18:20:23.043000+00:00",
         "last_moved_at": "2026-06-27T18:20:28.633000+00:00",
@@ -1837,96 +1692,6 @@
         "saved_at": "2026-04-03T13:03:11.448000+00:00",
         "last_moved_at": "2026-04-03T13:03:15.250000+00:00",
         "published_date": "2026-03-22",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kw45tryd21q5y05v63ptkwkw",
-        "url": "https://read.readwise.io/read/01kw45tryd21q5y05v63ptkwkw",
-        "source_url": "https://alexop.dev/posts/open-knowledge-format-markdown-frontmatter-agent-knowledge/",
-        "title": "Open Knowledge Format: I Already Do This, and Now It Has a Name",
-        "author": "alex.opalic.dev@gmail.com (Alexander Opalic)",
-        "image_url": "https://alexop.dev/posts/open-knowledge-format-i-already-do-this-and-now-it-has-a-name/index.png",
-        "word_count": 1905,
-        "summary": "Open Knowledge Format (OKF) is a simple way to organize knowledge in Markdown files with YAML frontmatter that AI agents can read and humans can edit. It makes files easy to query and link, acting as shared semantic memory for projects without needing special software. OKF is a format, not a platform, so anyone can use it easily and it helps different tools work together.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1782585283025
-          },
-          "claude": {
-            "name": "Claude",
-            "type": "manual",
-            "created": 1782585288077
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kw55rpz8mcz4s56xb88rjerq",
-            "url": "https://read.readwise.io/read/01kw55rpz8mcz4s56xb88rjerq",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-mobile-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kw45tryd21q5y05v63ptkwkw",
-            "reading_progress": 0.0,
-            "content": "And I’ve gone further than a bare docs/ folder. On some projects I ran brainmaxxing: a Markdown vault the agent reads at session start and writes back to when it learns something. It ships a little learning loop, /reflect after a session, /ruminate over old conversations, /meditate to prune stale notes, and because the vault is also an Obsidian vault, I can open the agent’s memory and read it like my own notes. The OKF post names this exact species in passing: “Obsidian vaults wired to coding agents.” It worked really well.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-06-27T18:34:14.785345+00:00",
-            "updated_at": "2026-06-27T18:34:38.164219+00:00",
-            "saved_at": "2026-06-27T18:34:16.746000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-06-27T18:34:16.746000+00:00",
-            "notes_attached": [
-              {
-                "id": "01kw55se3sr0skjzx5v29w2few",
-                "url": "https://read.readwise.io/read/01kw55se3sr0skjzx5v29w2few",
-                "source_url": null,
-                "title": null,
-                "author": null,
-                "source": "reader-mobile-app",
-                "category": "note",
-                "location": null,
-                "tags": null,
-                "site_name": null,
-                "word_count": null,
-                "notes": "",
-                "summary": null,
-                "image_url": null,
-                "parent_id": "01kw55rpz8mcz4s56xb88rjerq",
-                "reading_progress": 0.0,
-                "content": "Интересное решение, нужно попробовать. ",
-                "html_content": null,
-                "published_date": null,
-                "created_at": "2026-06-27T18:34:37.377599+00:00",
-                "updated_at": "2026-06-27T18:34:37.377610+00:00",
-                "saved_at": "2026-06-27T18:34:36.537000+00:00",
-                "first_opened_at": null,
-                "last_opened_at": null,
-                "last_moved_at": "2026-06-27T18:34:36.537000+00:00"
-              }
-            ]
-          }
-        ],
-        "saved_at": "2026-06-27T09:15:59.966000+00:00",
-        "last_moved_at": "2026-06-27T09:17:05.855000+00:00",
-        "published_date": "2026-06-27",
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
@@ -2529,28 +2294,6 @@
         }
       },
       {
-        "id": "01kvxqmq6g23shqdh03ewy6jpt",
-        "url": "https://read.readwise.io/read/01kvxqmq6g23shqdh03ewy6jpt",
-        "source_url": "https://charity.wtf/2025/07/09/thoughts-on-motivation-and-my-40-year-career/",
-        "title": "Thoughts on Motivation and My 40-Year Career",
-        "author": "mipsytipsy",
-        "image_url": "https://i0.wp.com/charity.wtf/wp-content/uploads/2025/06/headshots-11.jpeg?fit=900%2C1200&ssl=1",
-        "word_count": 3929,
-        "summary": "The author shares how work has been a source of growth, meaning, and community throughout their 40-year tech career. They believe work can inspire learning, innovation, and integrity even in tough times. Their hope is to show that meaningful work and strong ideals can still lead to success.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-24T21:12:40.912000+00:00",
-        "last_moved_at": "2026-06-24T21:12:59.774000+00:00",
-        "published_date": "2025-07-09",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kjmv4fykfx18fbq95cz8v7v3",
         "url": "https://read.readwise.io/read/01kjmv4fykfx18fbq95cz8v7v3",
         "source_url": "https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email",
@@ -2760,89 +2503,6 @@
         "saved_at": "2026-04-13T12:14:46.006000+00:00",
         "last_moved_at": "2026-04-13T12:14:57.079000+00:00",
         "published_date": "2026-04-01",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kt9g5hjy7yekzpve15z1j8yx",
-        "url": "https://read.readwise.io/read/01kt9g5hjy7yekzpve15z1j8yx",
-        "source_url": "https://codemanship.wordpress.com/2026/06/04/a-car-crash-in-slow-motion/",
-        "title": "A Car Crash In Slow Motion",
-        "author": "codemanship",
-        "image_url": "https://codemanship.wordpress.com/wp-content/uploads/2026/06/jg_profile_pic_cropped.jpg",
-        "word_count": 2071,
-        "summary": "The author started Codemanship to teach and coach software developers, growing the business slowly over many years. The rise of AI coding tools made his training more important than ever, leading him back to community-focused workshops. Now, at 55, he remains skilled but is “between careers,” hopeful about the future.",
-        "notes": "",
-        "tags": {
-          "reflections": {
-            "name": "Reflections",
-            "type": "manual",
-            "created": 1782475106789
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kw1wm0pmejfw4wfp87mr2zcg",
-            "url": "https://read.readwise.io/read/01kw1wm0pmejfw4wfp87mr2zcg",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-web-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kt9g5hjy7yekzpve15z1j8yx",
-            "reading_progress": 0.0,
-            "content": "Although it never really occurred to me, these original training cohorts became my busy bees, buzzing from gig to gig, gaining seniority and influence year on year, until corporate orders started coming in from places they were working.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-06-26T11:56:39.399746+00:00",
-            "updated_at": "2026-06-26T11:56:39.399758+00:00",
-            "saved_at": "2026-06-26T11:56:38.484000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-06-26T11:56:38.484000+00:00"
-          },
-          {
-            "id": "01kw1wf0dgzvrdwy14p0dm7mke",
-            "url": "https://read.readwise.io/read/01kw1wf0dgzvrdwy14p0dm7mke",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-web-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kt9g5hjy7yekzpve15z1j8yx",
-            "reading_progress": 0.0,
-            "content": "It was such good value that folks flew in from as far afield as Russia – back when they could – and the US and Canada. They’d book a hotel for a day or two after to see the sights – make a city break of it.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-06-26T11:53:55.007266+00:00",
-            "updated_at": "2026-06-26T11:53:55.007280+00:00",
-            "saved_at": "2026-06-26T11:53:54.352000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-06-26T11:53:54.352000+00:00"
-          }
-        ],
-        "saved_at": "2026-06-04T14:21:30.151000+00:00",
-        "last_moved_at": "2026-06-26T11:58:14.372000+00:00",
-        "published_date": "2026-06-04",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -3518,96 +3178,6 @@
         "saved_at": "2026-04-03T13:03:11.448000+00:00",
         "last_moved_at": "2026-04-03T13:03:15.250000+00:00",
         "published_date": "2026-03-22",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kw45tryd21q5y05v63ptkwkw",
-        "url": "https://read.readwise.io/read/01kw45tryd21q5y05v63ptkwkw",
-        "source_url": "https://alexop.dev/posts/open-knowledge-format-markdown-frontmatter-agent-knowledge/",
-        "title": "Open Knowledge Format: I Already Do This, and Now It Has a Name",
-        "author": "alex.opalic.dev@gmail.com (Alexander Opalic)",
-        "image_url": "https://alexop.dev/posts/open-knowledge-format-i-already-do-this-and-now-it-has-a-name/index.png",
-        "word_count": 1905,
-        "summary": "Open Knowledge Format (OKF) is a simple way to organize knowledge in Markdown files with YAML frontmatter that AI agents can read and humans can edit. It makes files easy to query and link, acting as shared semantic memory for projects without needing special software. OKF is a format, not a platform, so anyone can use it easily and it helps different tools work together.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1782585283025
-          },
-          "claude": {
-            "name": "Claude",
-            "type": "manual",
-            "created": 1782585288077
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kw55rpz8mcz4s56xb88rjerq",
-            "url": "https://read.readwise.io/read/01kw55rpz8mcz4s56xb88rjerq",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-mobile-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kw45tryd21q5y05v63ptkwkw",
-            "reading_progress": 0.0,
-            "content": "And I’ve gone further than a bare docs/ folder. On some projects I ran brainmaxxing: a Markdown vault the agent reads at session start and writes back to when it learns something. It ships a little learning loop, /reflect after a session, /ruminate over old conversations, /meditate to prune stale notes, and because the vault is also an Obsidian vault, I can open the agent’s memory and read it like my own notes. The OKF post names this exact species in passing: “Obsidian vaults wired to coding agents.” It worked really well.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-06-27T18:34:14.785345+00:00",
-            "updated_at": "2026-06-27T18:34:38.164219+00:00",
-            "saved_at": "2026-06-27T18:34:16.746000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-06-27T18:34:16.746000+00:00",
-            "notes_attached": [
-              {
-                "id": "01kw55se3sr0skjzx5v29w2few",
-                "url": "https://read.readwise.io/read/01kw55se3sr0skjzx5v29w2few",
-                "source_url": null,
-                "title": null,
-                "author": null,
-                "source": "reader-mobile-app",
-                "category": "note",
-                "location": null,
-                "tags": null,
-                "site_name": null,
-                "word_count": null,
-                "notes": "",
-                "summary": null,
-                "image_url": null,
-                "parent_id": "01kw55rpz8mcz4s56xb88rjerq",
-                "reading_progress": 0.0,
-                "content": "Интересное решение, нужно попробовать. ",
-                "html_content": null,
-                "published_date": null,
-                "created_at": "2026-06-27T18:34:37.377599+00:00",
-                "updated_at": "2026-06-27T18:34:37.377610+00:00",
-                "saved_at": "2026-06-27T18:34:36.537000+00:00",
-                "first_opened_at": null,
-                "last_opened_at": null,
-                "last_moved_at": "2026-06-27T18:34:36.537000+00:00"
-              }
-            ]
-          }
-        ],
-        "saved_at": "2026-06-27T09:15:59.966000+00:00",
-        "last_moved_at": "2026-06-27T09:17:05.855000+00:00",
-        "published_date": "2026-06-27",
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
@@ -4583,28 +4153,6 @@
         }
       },
       {
-        "id": "01kvxqmq6g23shqdh03ewy6jpt",
-        "url": "https://read.readwise.io/read/01kvxqmq6g23shqdh03ewy6jpt",
-        "source_url": "https://charity.wtf/2025/07/09/thoughts-on-motivation-and-my-40-year-career/",
-        "title": "Thoughts on Motivation and My 40-Year Career",
-        "author": "mipsytipsy",
-        "image_url": "https://i0.wp.com/charity.wtf/wp-content/uploads/2025/06/headshots-11.jpeg?fit=900%2C1200&ssl=1",
-        "word_count": 3929,
-        "summary": "The author shares how work has been a source of growth, meaning, and community throughout their 40-year tech career. They believe work can inspire learning, innovation, and integrity even in tough times. Their hope is to show that meaningful work and strong ideals can still lead to success.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-24T21:12:40.912000+00:00",
-        "last_moved_at": "2026-06-24T21:12:59.774000+00:00",
-        "published_date": "2025-07-09",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kjmv4fykfx18fbq95cz8v7v3",
         "url": "https://read.readwise.io/read/01kjmv4fykfx18fbq95cz8v7v3",
         "source_url": "https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email",
@@ -4717,89 +4265,6 @@
         }
       },
       {
-        "id": "01kt9g5hjy7yekzpve15z1j8yx",
-        "url": "https://read.readwise.io/read/01kt9g5hjy7yekzpve15z1j8yx",
-        "source_url": "https://codemanship.wordpress.com/2026/06/04/a-car-crash-in-slow-motion/",
-        "title": "A Car Crash In Slow Motion",
-        "author": "codemanship",
-        "image_url": "https://codemanship.wordpress.com/wp-content/uploads/2026/06/jg_profile_pic_cropped.jpg",
-        "word_count": 2071,
-        "summary": "The author started Codemanship to teach and coach software developers, growing the business slowly over many years. The rise of AI coding tools made his training more important than ever, leading him back to community-focused workshops. Now, at 55, he remains skilled but is “between careers,” hopeful about the future.",
-        "notes": "",
-        "tags": {
-          "reflections": {
-            "name": "Reflections",
-            "type": "manual",
-            "created": 1782475106789
-          }
-        },
-        "highlights": [
-          {
-            "id": "01kw1wm0pmejfw4wfp87mr2zcg",
-            "url": "https://read.readwise.io/read/01kw1wm0pmejfw4wfp87mr2zcg",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-web-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kt9g5hjy7yekzpve15z1j8yx",
-            "reading_progress": 0.0,
-            "content": "Although it never really occurred to me, these original training cohorts became my busy bees, buzzing from gig to gig, gaining seniority and influence year on year, until corporate orders started coming in from places they were working.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-06-26T11:56:39.399746+00:00",
-            "updated_at": "2026-06-26T11:56:39.399758+00:00",
-            "saved_at": "2026-06-26T11:56:38.484000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-06-26T11:56:38.484000+00:00"
-          },
-          {
-            "id": "01kw1wf0dgzvrdwy14p0dm7mke",
-            "url": "https://read.readwise.io/read/01kw1wf0dgzvrdwy14p0dm7mke",
-            "source_url": null,
-            "title": null,
-            "author": null,
-            "source": "reader-web-app",
-            "category": "highlight",
-            "location": null,
-            "tags": {},
-            "site_name": null,
-            "word_count": null,
-            "notes": "",
-            "summary": null,
-            "image_url": null,
-            "parent_id": "01kt9g5hjy7yekzpve15z1j8yx",
-            "reading_progress": 0.0,
-            "content": "It was such good value that folks flew in from as far afield as Russia – back when they could – and the US and Canada. They’d book a hotel for a day or two after to see the sights – make a city break of it.",
-            "html_content": null,
-            "published_date": null,
-            "created_at": "2026-06-26T11:53:55.007266+00:00",
-            "updated_at": "2026-06-26T11:53:55.007280+00:00",
-            "saved_at": "2026-06-26T11:53:54.352000+00:00",
-            "first_opened_at": null,
-            "last_opened_at": null,
-            "last_moved_at": "2026-06-26T11:53:54.352000+00:00"
-          }
-        ],
-        "saved_at": "2026-06-04T14:21:30.151000+00:00",
-        "last_moved_at": "2026-06-26T11:58:14.372000+00:00",
-        "published_date": "2026-06-04",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kczwvew6dftm8phypwzjqxd2",
         "url": "https://read.readwise.io/read/01kczwvew6dftm8phypwzjqxd2",
         "source_url": "https://www.loopwerk.io/articles/2025/2025-in-review/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316",
@@ -4859,7 +4324,18 @@
         "word_count": 717,
         "summary": "The author suggests combining computer science with other majors to help more students learn useful tech skills. They also propose using special computer labs and oral exams to better check students’ true abilities. These changes can keep universities important even as AI grows and changes how we learn.",
         "notes": "Via Social Digest",
-        "tags": {},
+        "tags": {
+          "learning": {
+            "name": "Learning",
+            "type": "manual",
+            "created": 1782732466682
+          },
+          "llm-devimpact": {
+            "name": "LLM-DevImpact",
+            "type": "manual",
+            "created": 1782732458615
+          }
+        },
         "highlights": [],
         "saved_at": "2026-06-27T18:20:23.043000+00:00",
         "last_moved_at": "2026-06-27T18:20:28.633000+00:00",

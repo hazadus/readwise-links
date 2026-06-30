@@ -1,27 +1,21 @@
 # Отложенные ссылки
 
-- Всего ссылок: 64
+- Всего ссылок: 61
 
 ## Ссылки
 
 - [Software Engineering in the Age of AI](https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/) [📖](https://read.readwise.io/read/01kw7swjy25s3hhx1dmyqermtk) 👤 Andrew Diamond 💬 2590 🗓️ 2026-06-28
     > **Заметка:** Via HackerNews Digest (2026-06-28)
     > **Резюме:** AI has changed software development by writing most code, while humans now mainly review and guide it. This shift makes developers less creative and risks losing deep knowledge needed for complex problems. In the long run, relying on AI may weaken the skills and understanding that build truly innovative software.
-- [The University In The AI Era](https://htmx.org/essays/universities-and-ai/) [📖](https://read.readwise.io/read/01kw54zcm3196kc0he9yd3mkrt) 👤 htmx.org 💬 717 🗓️ 2026-06-27
+- [The University In The AI Era](https://htmx.org/essays/universities-and-ai/) [📖](https://read.readwise.io/read/01kw54zcm3196kc0he9yd3mkrt) 👤 htmx.org 💬 717 🔖 #learning, #llm-devimpact 🗓️ 2026-06-27
     > **Заметка:** Via Social Digest
     > **Резюме:** The author suggests combining computer science with other majors to help more students learn useful tech skills. They also propose using special computer labs and oral exams to better check students’ true abilities. These changes can keep universities important even as AI grows and changes how we learn.
-- [Open Knowledge Format: I Already Do This, and Now It Has a Name](https://alexop.dev/posts/open-knowledge-format-markdown-frontmatter-agent-knowledge/) [📖](https://read.readwise.io/read/01kw45tryd21q5y05v63ptkwkw) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 1905 🔖 #llm, #claude 🗓️ 2026-06-27
-    > **Резюме:** Open Knowledge Format (OKF) is a simple way to organize knowledge in Markdown files with YAML frontmatter that AI agents can read and humans can edit. It makes files easy to query and link, acting as shared semantic memory for projects without needing special software. OKF is a format, not a platform, so anyone can use it easily and it helps different tools work together.
-- [Thoughts on Motivation and My 40-Year Career](https://charity.wtf/2025/07/09/thoughts-on-motivation-and-my-40-year-career/) [📖](https://read.readwise.io/read/01kvxqmq6g23shqdh03ewy6jpt) 👤 mipsytipsy 💬 3929 🗓️ 2026-06-24
-    > **Резюме:** The author shares how work has been a source of growth, meaning, and community throughout their 40-year tech career. They believe work can inspire learning, innovation, and integrity even in tough times. Their hope is to show that meaningful work and strong ideals can still lead to success.
 - [Написал свой Claude Code за 99 строк кода. Встречаем — chebupelka!](https://www.youtube.com/watch?v=H7FSTj4x4xQ) [📖](https://read.readwise.io/read/01kvtt6tzepradptt737vc0rpa) 👤 Диджитализируй! 🗓️ 2026-06-23
     > **Резюме:** Автор создал простого автономного агента для разработки на Python всего из 99 строк кода. Главная логика агента занимает всего шесть строк и позволяет решать сложные задачи через цикл взаимодействия. Этот агент может выполнять команды, обращаться в интернет и эффективно помогать с кодом без сложных настроек.
 - [Rewriting the world in Rust](https://bitfieldconsulting.com/posts/rewrite-in-rust) [📖](https://read.readwise.io/read/01kvswppy9118grz6qtn39x89d) 👤 John Arundel 💬 1976 🔖 #rust 🗓️ 2026-06-23
     > **Резюме:** Rust is a modern language that improves software security by preventing many memory and concurrency bugs. Rewriting all old code in Rust is very hard, and automatic translation does not create good Rust programs. Instead, gradually replacing parts with Rust and redesigning code step-by-step is a more practical and effective approach.
 - [How Servers Work: A Hands-On Introduction to TCP Sockets](https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets) [📖](https://read.readwise.io/read/01ktndr2v6nrwd97jy43v36sza) 👤 Ivan Velichko 💬 3616 🔖 #theory, #network 🗓️ 2026-06-09
     > **Резюме:** A TCP server communicates by sending and receiving data over network connections called sockets. TCP ensures reliable and ordered delivery of data between clients and servers using ports and connections. The article explains how to build a simple TCP server and client in Python using sockets to send and receive data.
-- [A Car Crash In Slow Motion](https://codemanship.wordpress.com/2026/06/04/a-car-crash-in-slow-motion/) [📖](https://read.readwise.io/read/01kt9g5hjy7yekzpve15z1j8yx) 👤 codemanship 💬 2071 🔖 #reflections 🗓️ 2026-06-04
-    > **Резюме:** The author started Codemanship to teach and coach software developers, growing the business slowly over many years. The rise of AI coding tools made his training more important than ever, leading him back to community-focused workshops. Now, at 55, he remains skilled but is “between careers,” hopeful about the future.
 - [Various LLM smells](https://shvbsle.in/various-llm-smells/) [📖](https://read.readwise.io/read/01kss3z202cdpsj7w0ybjycdj0) 👤 Shiv After Dark 💬 273 🗓️ 2026-05-29
     > **Заметка:** Via HN. https://news.ycombinator.com/item?id=48313810
     > **Резюме:** The author used AI to improve their math blog writing and noticed it sounded much better at first. Later, they saw the same AI-style phrases and patterns everywhere online, which they call "AI smells." These patterns include repeated sentence structures, specific phrases, and design elements that reveal AI influence.
