@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 30
+- Всего ссылок: 31
 
 ## Ссылки
 
@@ -35,6 +35,8 @@ let resp = client
     .request(query_method, "https://rpc.example.com")
     .header("Content-Type", "application/json")
     .body(r#"{"jsonrpc":"2.0","method":"getScore","params":["0xA...
+- [Rust Prevents Data Races, Not Race Conditions](https://corrode.dev/blog/rust-prevents-data-races-not-race-conditions/) [📖](https://read.readwise.io/read/01ktygb7nkpasjngp24cjjpts8) 👤 Matthias Endler 💬 2605 🔖 #rust 🗓️ 2026-06-12
+    > **Резюме:** Rust’s safety guarantees prevent data races by ensuring memory access is properly synchronized. However, Rust does not prevent other concurrency bugs like deadlocks, livelocks, or logic errors from incorrect locking. Programmers still need to carefully manage synchronization to avoid these race conditions.
 - [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/) [📖](https://read.readwise.io/read/01ktkknvzzgagx1vyeq1dhma9j) 👤 Corrode Rust Consulting 💬 3275 🔖 #rust 🗓️ 2026-06-08
     > **Резюме:** Defensive programming in Rust means using the compiler to enforce rules and prevent errors. You can force all struct creation to go through safe constructors by adding private fields and modules. Making fields private and providing getters helps keep data valid and avoids mistakes.
 - [Why Bun leaving Zig is Great for Zig](https://dayvster.com/blog/why-bun-leaving-zig-is-great-for-zig/) [📖](https://read.readwise.io/read/01ksg52rndrdjzem1bfh9eeeqh) 👤 Dayvster 💬 976 🔖 #bun, #zig, #rust 🗓️ 2026-05-25

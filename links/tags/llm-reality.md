@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 19
 
 ## Ссылки
 
@@ -16,6 +16,9 @@
 - [AI demands more engineering discipline. Not less (xpost)](https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/) [📖](https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw) 👤 mipsytipsy 💬 3503 🔖 #llm-reality, #predictions, #llm-devimpact 🗓️ 2026-06-22
     > **Заметка:** Очень дельные мысли по поводу регенерации кода по аналогии с идеей immutable infrastructure. Добавить это в watchlist.
     > **Резюме:** In 2025, AI made writing code almost free and instant, changing how software is built. This shift means code is less valuable as a permanent asset and more like a temporary tool. As AI grows, engineers must use more discipline to ensure software quality and shared understanding.
+- [Updated Thoughts on AI](https://matthewrocklin.com/ai-2026-06/) [📖](https://read.readwise.io/read/01kvgr32pbhrpzvtjfwy5ncqad) 👤 Matthew Rocklin 💬 2425 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-06-19
+    > **Заметка:** Свежее наблюдение о том, что LLM эффективны не столько из-за глубины знаний в одном домене, сколько за счет хороших знаний во многих областях и на их пересечениях. И в целом, пост очень по делу.
+    > **Резюме:** AI is valuable because it can do many jobs at once, even if it is not the best at any single one. Giving AI agents broad context and good feedback helps them improve and work well on complex tasks. Humans still need to watch closely and think carefully while working with AI.
 - [Revised rules of engineering leadership.](https://lethain.com/revised-rules-of-engineering-leadership/) [📖](https://read.readwise.io/read/01kv600w89e0vx2scbtef5dgxf) 👤 Irrational Exuberance 💬 2060 🔖 #llm-reality 🗓️ 2026-06-15
     > **Заметка:** Хорошие правила с практическими подтверждениями.
     > **Резюме:** Fast growth reveals mistakes quickly and demands new engineering leadership rules. Automating routine tasks and having durable teams with deep knowledge boosts speed and quality. Clear, quick decisions are vital to benefit from AI and keep up with rapid changes.

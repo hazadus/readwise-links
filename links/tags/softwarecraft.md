@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 55
+- Всего ссылок: 57
 
 ## Ссылки
 
@@ -10,6 +10,10 @@
 - [Production Is a Compiler Input](https://aicoding.leaflet.pub/3mjx4erlboc2l) [📖](https://read.readwise.io/read/01kvw5hfc1jy6y6t8pdqa7kdqe) 👤 The Phoenix Architecture 💬 941 🔖 #observability, #softwarecraft 🗓️ 2026-06-24
     > **Заметка:** Интересно. "Производство" - это где живет приложение, там подтвержаются предположения, сделанные при разработке. И "правда о производстве" должна поступать на вход при разработке/генерации софта, чтобы он был корректным и актуальным. Мне нравится идея.
     > **Резюме:** Production data should directly guide how software evolves, not just help humans debug it. The Phoenix Architecture treats production truth as input to update and fix code automatically when real-world conditions change. This approach makes software adapt continuously by linking requirements, evidence, and implementation in a smart feedback loop.
+- [The Implementation Remembers](https://aicoding.leaflet.pub/3mobohx4fq22x) [📖](https://read.readwise.io/read/01kvw5hf9n1n3rcs61d78xtabm) 👤 The Phoenix Architecture 💬 307 🔖 #softwarecraft 🗓️ 2026-06-24
+    > **Резюме:** Code often holds hidden lessons from past problems and fixes that people forget. When AI cleans up code, it may erase these important memories. Before changing working software, we should ask what the code still remembers that we do not.
+- [The essence of architectural work - Part 2](https://ufried.com/blog/essence_of_architecture_2/) [📖](https://read.readwise.io/read/01ktc3crpbmh3sbznpm12n04x0) 👤 Blog on Uwe Friedrichsen 💬 3703 🔖 #architecture, #softwarecraft 🗓️ 2026-06-05
+    > **Резюме:** Many architectural anti-patterns in software happen because people don't understand why architecture matters. These anti-patterns cause bad designs that don't fit the project's real needs. Knowing the true purpose of architectural work helps avoid these problems and leads to better software.
 - [Slop Creep: The Great Enshittification of Software](https://boristane.com/blog/slop-creep-enshittification-of-software/) [📖](https://read.readwise.io/read/01krv6c0rkp6kcnw82f0cmet4q) 👤 Boris Tane 💬 1389 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-05-17
     > **Заметка:** Если сократить пост до одного предложения: с агентом или без, нужно не торопиться и тщательно выстраивать систему, а не бездумно напихивать фичи.
     > **Резюме:** Coding agents often create messy software because they miss important system details and build on small mistakes. To avoid this, humans must guide agents carefully and share key design decisions. Despite flaws, agents can help if they understand the whole system and work closely with developers.

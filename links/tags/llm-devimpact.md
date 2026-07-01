@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 143
+- Всего ссылок: 145
 
 ## Ссылки
 
@@ -29,10 +29,15 @@ they are good at.
 - [AI demands more engineering discipline. Not less (xpost)](https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/) [📖](https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw) 👤 mipsytipsy 💬 3503 🔖 #llm-reality, #predictions, #llm-devimpact 🗓️ 2026-06-22
     > **Заметка:** Очень дельные мысли по поводу регенерации кода по аналогии с идеей immutable infrastructure. Добавить это в watchlist.
     > **Резюме:** In 2025, AI made writing code almost free and instant, changing how software is built. This shift means code is less valuable as a permanent asset and more like a temporary tool. As AI grows, engineers must use more discipline to ensure software quality and shared understanding.
+- [Updated Thoughts on AI](https://matthewrocklin.com/ai-2026-06/) [📖](https://read.readwise.io/read/01kvgr32pbhrpzvtjfwy5ncqad) 👤 Matthew Rocklin 💬 2425 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-06-19
+    > **Заметка:** Свежее наблюдение о том, что LLM эффективны не столько из-за глубины знаний в одном домене, сколько за счет хороших знаний во многих областях и на их пересечениях. И в целом, пост очень по делу.
+    > **Резюме:** AI is valuable because it can do many jobs at once, even if it is not the best at any single one. Giving AI agents broad context and good feedback helps them improve and work well on complex tasks. Humans still need to watch closely and think carefully while working with AI.
 - [You Got Faster. Your Company Didn’t.](https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/) [📖](https://read.readwise.io/read/01kvbaq82wfv1669vn9pgbcjfw) 👤 Matheus Lima 💬 733 🔖 #writing, #llm-devimpact 🗓️ 2026-06-17
     > **Резюме:** AI made you faster. But you're not more productive; you're outsourcing the slow part to everyone else
 - [The "I don't know, Claude wrote this" pandemic](https://newsletter.manager.dev/p/the-i-don-t-know-claude-wrote-this-pandemic) [📖](https://read.readwise.io/read/01kv7qtfqw8fbb8emgdwy29mtg) 👤 Anton Zaides 💬 1252 🔖 #llm-devimpact 🗓️ 2026-06-16
     > **Резюме:** When Claude drives you off the cliff
+- [A Joy That is Being Lost](https://davegriffith.substack.com/p/a-joy-that-is-being-lost) [📖](https://read.readwise.io/read/01kv6c57r91gsc7e7y1tfjt1cm) 👤 Dave Griffith 💬 1075 🔖 #reflections, #llm-devimpact 🗓️ 2026-06-15
+    > **Резюме:** The author loved programming on the old Apple II because it demanded precise, careful work and gave a deep sense of craft. Today, AI coding tools make programming easier and better, but they take away that special feeling of mastering every detail. While the work is improved, the author misses the joy of that personal challenge and connection with the machine.
 - [Pluralistic: AI and amateurism (15 Jun 2026) Pluralistic: AI and amateurism (15 Jun 2026)](https://pluralistic.net/2026/06/15/vernacular/) [📖](https://read.readwise.io/read/01kv5zb5bb53h0kv4zaxzn1nq2) 👤 Cory Doctorow 💬 2963 🔖 #llm-devimpact, #personalsoftware 🗓️ 2026-06-15
     > **Резюме:** Technology is best when people can shape it themselves without needing permission from big companies. AI often tries to control and make everything the same, but homemade software lets people express their unique needs. Even if AI hype fades, people will keep creating personal tools that fit their lives.
 - [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur) [📖](https://read.readwise.io/read/01ktxjbhzn5a5wbhfermaya8w0) 👤 Miguel Grinberg 💬 1035 🔖 #foss, #llm-devimpact 🗓️ 2026-06-12

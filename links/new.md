@@ -1,12 +1,16 @@
 # Новые ссылки
 
-- Всего ссылок: 951
+- Всего ссылок: 955
 
 ## Ссылки
 
+- [Rust Prevents Data Races, Not Race Conditions](https://corrode.dev/blog/rust-prevents-data-races-not-race-conditions/) [📖](https://read.readwise.io/read/01ktygb7nkpasjngp24cjjpts8) 👤 Matthias Endler 💬 2605 🔖 #rust 🗓️ 2026-06-12
 - [Компьютерное зрение на коленке: распознаем дорожные знаки и управляем роботом на ESP32 и Arduino](https://habr.com/ru/companies/bhv_publishing/articles/1044934/?__readwiseLocation=) [📖](https://read.readwise.io/read/01kttrbghnr17q50hx8jysgm65) 👤 Shish1914 💬 3030 🔖 #esp32 🗓️ 2026-06-11
 - [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/) [📖](https://read.readwise.io/read/01ktkknvzzgagx1vyeq1dhma9j) 👤 Corrode Rust Consulting 💬 3275 🔖 #rust 🗓️ 2026-06-08
+- [SwiftUI animation timing](https://nilcoalescing.com/blog/AnimationTimingInSwiftUI) [📖](https://read.readwise.io/read/01kt8tdeyh8fdxn3k2hgc3r8fh) 👤 Nil Coalescing 💬 2178 🔖 #swift 🗓️ 2026-06-04
 - [CSS vs. JavaScript](https://www.joshwcomeau.com/animation/css-vs-javascript/) [📖](https://read.readwise.io/read/01ksj9r68fecy3nek8bhcmw1gf) 👤 Josh W. Comeau 💬 914 🔖 #css, #javascript 🗓️ 2026-05-26
+- [Refreshing and animating views using TimelineView in SwiftUI](https://nilcoalescing.com/blog/TimelineViewInSwiftUI) [📖](https://read.readwise.io/read/01ksf31yrn9c3s77xh7zdkjm9w) 👤 Nil Coalescing 💬 759 🔖 #swift 🗓️ 2026-05-25
+- [Modern SwiftUI APIs for programmatic scrolling](https://nilcoalescing.com/blog/ModernSwiftUIAPIsForProgrammaticScrolling) [📖](https://read.readwise.io/read/01krzpy75b540z879can66dyjx) 👤 Nil Coalescing 💬 1204 🔖 #swift 🗓️ 2026-05-19
 - [RFC 760:  DoD standard Internet Protocol](https://www.rfc-editor.org/rfc/rfc760.html) [📖](https://read.readwise.io/read/01krx09xj8hcm7v3rjp101ed5b) 👤 rfc-editor.org 💬 9170 🗓️ 2026-05-18
 - [User Datagram Protocol](https://www.rfc-editor.org/rfc/rfc768.html) [📖](https://read.readwise.io/read/01krx087mtr0hb1cqabm06brje) 👤 J. Postel 💬 458 🗓️ 2026-05-18
 - [Production MTProto user-бот на FastAPI + Telethon: WARP для обхода DPI и 5 граблей с Telegram](https://habr.com/ru/articles/1034612/) [📖](https://read.readwise.io/read/01krjgdqv7ngsa8wmp6xptqg1h) 👤 viktdo 💬 2712 🔖 #bot, #dpi, #fastapi, #userbot, #telegram 🗓️ 2026-05-14

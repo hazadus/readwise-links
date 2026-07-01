@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 53
+- Всего ссылок: 54
 
 ## Ссылки
 
@@ -14,6 +14,8 @@ We developers refer to these as bug fixes and I'm delighted to see that Apple is
 It's clear that this is a Snow Leopard year, and before people jump up and down to tell me that Snow Leopard wasn't actually what we all think it is, in the Apple community the term Snow Leopard has come to mean a release that has fewer new features and more attention to fixes.
 The most important change is that Apple has realized that having control text overlapping content text makes both unreadable, so they are dialling back Liquid Glass in several ways. First, there's a slider for adjusting how much transparency you want. I will be fascinated to see any data showing the distribution of settings for this. I expect to have it at or near 100% opaque.
 Next, in Mac apps at least, the ...
+- [Clearing UserDefaults during macOS app development](https://nilcoalescing.com/blog/ClearingUserDefaultsDuringmacOSAppDevelopment) [📖](https://read.readwise.io/read/01ksvsvq048r304xc1a1xfh90z) 👤 Nil Coalescing 💬 192 🔖 #macos 🗓️ 2026-05-30
+    > **Резюме:** Use the defaults Terminal command to clear persisted values and test onboarding, settings, and fresh app state.
 - [In Praise of SwiftUI](https://troz.net/post/2026/swiftui_praise/) [📖](https://read.readwise.io/read/01kshar3cma3as4cydnmgj7nj2) 👤 Sarah Reichelt 💬 1316 🔖 #macos, #swift 🗓️ 2026-05-26
     > **Заметка:** Опытный разработчки софта под Мак даёт взвешенную оценку плюсов и минусов SwiftUI.
     > **Резюме:** Recently, I have seen multiple posts on Mastodon suggesting that SwiftUI is a failure, that nobody is using it, and that Apple should have focused on improving or replacing AppKit and UIKit instead of wasting everyone's time with SwiftUI. While I have great respect for some of the people saying these things, I disagree. I love using SwiftUI, I think a large number of developers are using it, and I want to explain what I find so great about it.

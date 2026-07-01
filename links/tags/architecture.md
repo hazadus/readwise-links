@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 11
+- Всего ссылок: 12
 
 ## Ссылки
 
+- [The essence of architectural work - Part 2](https://ufried.com/blog/essence_of_architecture_2/) [📖](https://read.readwise.io/read/01ktc3crpbmh3sbznpm12n04x0) 👤 Blog on Uwe Friedrichsen 💬 3703 🔖 #architecture, #softwarecraft 🗓️ 2026-06-05
+    > **Резюме:** Many architectural anti-patterns in software happen because people don't understand why architecture matters. These anti-patterns cause bad designs that don't fit the project's real needs. Knowing the true purpose of architectural work helps avoid these problems and leads to better software.
 - [Error translation in Go services](https://rednafi.com/go/error-translation/) [📖](https://read.readwise.io/read/01knzzj4wnhpzzykwdr7tpjek4) 👤 Redowan's Reflections 💬 2281 🔖 #go, #architecture, #errorhandling 🗓️ 2026-04-12
     > **Резюме:** Translating errors at layer boundaries so storage details don't leak into the handler or, worse, into client responses.
 - [Bliki: Architecture Decision Record](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html) [📖](https://read.readwise.io/read/01kmg1yws4tjd3crwwntvhmkd9) 👤 Martin Fowler 💬 801 🔖 #try, #docs, #architecture 🗓️ 2026-03-24

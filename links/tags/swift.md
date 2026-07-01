@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 21
 
 ## Ссылки
 
+- [SwiftUI animation timing](https://nilcoalescing.com/blog/AnimationTimingInSwiftUI) [📖](https://read.readwise.io/read/01kt8tdeyh8fdxn3k2hgc3r8fh) 👤 Nil Coalescing 💬 2178 🔖 #swift 🗓️ 2026-06-04
+    > **Резюме:** SwiftUI animations use timing curves to control how values change over time, including easing and spring effects. Since iOS 17, custom timing curves and spring animations can be finely tuned or fully customized. Animation modifiers let you adjust speed, delay, and repetition without changing the animation’s core behavior.
 - [In Praise of SwiftUI](https://troz.net/post/2026/swiftui_praise/) [📖](https://read.readwise.io/read/01kshar3cma3as4cydnmgj7nj2) 👤 Sarah Reichelt 💬 1316 🔖 #macos, #swift 🗓️ 2026-05-26
     > **Заметка:** Опытный разработчки софта под Мак даёт взвешенную оценку плюсов и минусов SwiftUI.
     > **Резюме:** Recently, I have seen multiple posts on Mastodon suggesting that SwiftUI is a failure, that nobody is using it, and that Apple should have focused on improving or replacing AppKit and UIKit instead of wasting everyone's time with SwiftUI. While I have great respect for some of the people saying these things, I disagree. I love using SwiftUI, I think a large number of developers are using it, and I want to explain what I find so great about it.
@@ -13,6 +15,10 @@ I have written several articles about SwiftUI's data flow. The most recent one w
 The reactive aspect of SwiftUI feels like magic! It allows me to have something like a stored setting with a default value, connected to a menu item with a checkmark, a toggle in a settings window, a button in the toolbar, and a switch on the main interface. SwiftUI keeps these all in sync without any effort on my part. This sort of flexibility was a lot of work in AppKit and UIKit, and it was easy to end up with sections of the UI out of sync with the data. In AppKit apps, you could use Cocoa Bindings, but these were tricky to set up, not good with source control and totally opaque to any developer new to the project.
 User Interface
 Let's go deeper into the UI part. AppKit and UIKit have two options for creating user interfaces. You can either build graphically in Xcode's Interface Builder, or write all the interface in code. The "interface-in-code" lobby has always been very vocal...
+- [Refreshing and animating views using TimelineView in SwiftUI](https://nilcoalescing.com/blog/TimelineViewInSwiftUI) [📖](https://read.readwise.io/read/01ksf31yrn9c3s77xh7zdkjm9w) 👤 Nil Coalescing 💬 759 🔖 #swift 🗓️ 2026-05-25
+    > **Резюме:** TimelineView in SwiftUI lets views refresh or animate automatically based on a set timeline or schedule. It supports updates at fixed intervals, continuous animations, and adapts to different update speeds. This makes it ideal for building dynamic interfaces like clocks, animated backgrounds, and other time-driven visuals.
+- [Modern SwiftUI APIs for programmatic scrolling](https://nilcoalescing.com/blog/ModernSwiftUIAPIsForProgrammaticScrolling) [📖](https://read.readwise.io/read/01krzpy75b540z879can66dyjx) 👤 Nil Coalescing 💬 1204 🔖 #swift 🗓️ 2026-05-19
+    > **Резюме:** iOS 17 and 18 introduced new SwiftUI APIs that make programmatic scrolling easier and more flexible. Developers can now set initial scroll positions, control scrolling with state bindings, and read user scroll positions directly. These tools improve building polished, scroll-heavy interfaces but require careful use to handle their nuances.
 - [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/) [📖](https://read.readwise.io/read/01krwtd8jrdgxqffpm1szxnd50) 👤 Artem Loenko 💬 615 🔖 #macos, #swift 🗓️ 2026-05-18
     > **Заметка:** Честный взгляд от нативного macOS разработчика. Не думал, что у SwiftUI/Appkit столько ограничений... Via HN
     > **Резюме:** Native Apple tools like SwiftUI and TextKit struggle with complex text tasks like Markdown chat. Web-based frameworks and Electron handle rich text better and perform well. For modern chat apps, native SDKs often limit rather than help development.

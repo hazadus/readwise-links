@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 1765
+- Всего ссылок: 1769
 
 ## Ссылки
 
@@ -23,6 +23,7 @@
     > **Заметка:** Рассмотрена важная проблема. Причины создания и изменения кода нужно хранить рядом с ним. Нынешние системы контроля версий не идеально к этом приспособлены, но вполне можно использовать commit messages, PR descriptions, ADR-документы, обзоры архитектуры и т.п. Это уже лучше, чем ничего.
 - [Production Is a Compiler Input](https://aicoding.leaflet.pub/3mjx4erlboc2l) [📖](https://read.readwise.io/read/01kvw5hfc1jy6y6t8pdqa7kdqe) 👤 The Phoenix Architecture 💬 941 🔖 #observability, #softwarecraft 🗓️ 2026-06-24
     > **Заметка:** Интересно. "Производство" - это где живет приложение, там подтвержаются предположения, сделанные при разработке. И "правда о производстве" должна поступать на вход при разработке/генерации софта, чтобы он был корректным и актуальным. Мне нравится идея.
+- [The Implementation Remembers](https://aicoding.leaflet.pub/3mobohx4fq22x) [📖](https://read.readwise.io/read/01kvw5hf9n1n3rcs61d78xtabm) 👤 The Phoenix Architecture 💬 307 🔖 #softwarecraft 🗓️ 2026-06-24
 - [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/) [📖](https://read.readwise.io/read/01kvt16x8zwvp4r5dbj9gsefx6) 👤 Armin Ronacher 💬 2716 🔖 #predictions, #llm-devimpact 🗓️ 2026-06-23
     > **Заметка:** Армин рассматривает проблематику внедрения LLM в разработку с точки зрения внешних агентских циклов (harness loops). Как всегда, глубоко. Стоит взять эту тему на карандаш.
 - [Stop, don’t Slop](http://willmcgugan.github.io/stop-dont-slop/) [📖](https://read.readwise.io/read/01kvsjdxmzcb2msqt8khmqnbr5) 👤 Will McGugan 💬 502 🔖 #foss, #llm-devimpact 🗓️ 2026-06-23
@@ -34,9 +35,12 @@
 - [AI demands more engineering discipline. Not less (xpost)](https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/) [📖](https://read.readwise.io/read/01kvq2y4rrr7fwfss7n17wh9qw) 👤 mipsytipsy 💬 3503 🔖 #llm-reality, #predictions, #llm-devimpact 🗓️ 2026-06-22
     > **Заметка:** Очень дельные мысли по поводу регенерации кода по аналогии с идеей immutable infrastructure. Добавить это в watchlist.
 - [WWDC 2026 First Thoughts](https://troz.net/post/2026/wwdc2026_first_thoughts/) [📖](https://read.readwise.io/read/01kvjzt2t19b5j7h842msbzmks) 👤 Sarah Reichelt 💬 1015 🔖 #macos 🗓️ 2026-06-20
+- [Updated Thoughts on AI](https://matthewrocklin.com/ai-2026-06/) [📖](https://read.readwise.io/read/01kvgr32pbhrpzvtjfwy5ncqad) 👤 Matthew Rocklin 💬 2425 🔖 #llm-reality, #llm-devimpact 🗓️ 2026-06-19
+    > **Заметка:** Свежее наблюдение о том, что LLM эффективны не столько из-за глубины знаний в одном домене, сколько за счет хороших знаний во многих областях и на их пересечениях. И в целом, пост очень по делу.
 - [RFC 10008: The HTTP QUERY Method](https://blainsmith.com/articles/rfc-10008-http-query-method/) [📖](https://read.readwise.io/read/01kvbq0ck6h3f4hammnkvqm6dj) 👤 Unknown 💬 404 🔖 #go, #http, #rust 🗓️ 2026-06-17
 - [You Got Faster. Your Company Didn’t.](https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/) [📖](https://read.readwise.io/read/01kvbaq82wfv1669vn9pgbcjfw) 👤 Matheus Lima 💬 733 🔖 #writing, #llm-devimpact 🗓️ 2026-06-17
 - [The "I don't know, Claude wrote this" pandemic](https://newsletter.manager.dev/p/the-i-don-t-know-claude-wrote-this-pandemic) [📖](https://read.readwise.io/read/01kv7qtfqw8fbb8emgdwy29mtg) 👤 Anton Zaides 💬 1252 🔖 #llm-devimpact 🗓️ 2026-06-16
+- [A Joy That is Being Lost](https://davegriffith.substack.com/p/a-joy-that-is-being-lost) [📖](https://read.readwise.io/read/01kv6c57r91gsc7e7y1tfjt1cm) 👤 Dave Griffith 💬 1075 🔖 #reflections, #llm-devimpact 🗓️ 2026-06-15
 - [Revised rules of engineering leadership.](https://lethain.com/revised-rules-of-engineering-leadership/) [📖](https://read.readwise.io/read/01kv600w89e0vx2scbtef5dgxf) 👤 Irrational Exuberance 💬 2060 🔖 #llm-reality 🗓️ 2026-06-15
     > **Заметка:** Хорошие правила с практическими подтверждениями.
 - [Pluralistic: AI and amateurism (15 Jun 2026) Pluralistic: AI and amateurism (15 Jun 2026)](https://pluralistic.net/2026/06/15/vernacular/) [📖](https://read.readwise.io/read/01kv5zb5bb53h0kv4zaxzn1nq2) 👤 Cory Doctorow 💬 2963 🔖 #llm-devimpact, #personalsoftware 🗓️ 2026-06-15
@@ -54,6 +58,8 @@
     > **Заметка:** Отлично! Вместо нытья, что LLM - плохо и приводят к снижению качества ПО, можно придумать такие вот решения, потенциально приводящие к обратному!
 - [Communities of Not](https://lucumr.pocoo.org/2026/6/6/communities-of-not/) [📖](https://read.readwise.io/read/01kterke2avrfcxekezkzb2qff) 👤 Armin Ronacher 💬 438 🗓️ 2026-06-06
     > **Заметка:** Очень правильно: взгляды могут быть разные (в любых сферах), но не нужно делать из оппонентов врагов. Пересекается с последними постами Charity Majors.
+- [I tested every IP KVM in my Homelab](https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/) [📖](https://read.readwise.io/read/01ktc2j6zm0t2vrsw26rdsn4v3) 👤 jeff@jeffgeerling.com (Jeff Geerling) 💬 3209 🔖 #homelab 🗓️ 2026-06-05
+    > **Заметка:** Любопытный класс девайсов, не знал о таком! Но просто для "баловства" дороговато.
 - [A Car Crash In Slow Motion](https://codemanship.wordpress.com/2026/06/04/a-car-crash-in-slow-motion/) [📖](https://read.readwise.io/read/01kt9g5hjy7yekzpve15z1j8yx) 👤 codemanship 💬 2071 🔖 #reflections 🗓️ 2026-06-04
     > **Заметка:** Очень откровенный пост... Надеюсь, у автора всё получится с трудоустройством...
 - [Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) [📖](https://read.readwise.io/read/01kt8htz0wj55q2z8rj1sve36n) 👤 seangoedecke.com RSS feed 💬 1787 🔖 #llm-devimpact 🗓️ 2026-06-04
