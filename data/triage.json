@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T04:45:27.142023+00:00",
+  "generated_at": "2026-07-02T04:37:13.732240+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -24,6 +24,28 @@
         "saved_at": "2026-05-11T06:47:06.434000+00:00",
         "last_moved_at": "2026-05-11T08:44:18.412000+00:00",
         "published_date": "2026-05-11",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01ktx2qwhgcrkmgyydjc0mmhkh",
+        "url": "https://read.readwise.io/read/01ktx2qwhgcrkmgyydjc0mmhkh",
+        "source_url": "https://rednafi.com/misc/chezmoi/",
+        "title": "Migrating from GNU stow to chezmoi",
+        "author": "Redowan's Reflections",
+        "image_url": "https://blob.rednafi.com/static/images/home/cover.png",
+        "word_count": 2017,
+        "summary": "The author switched from GNU stow to chezmoi to manage dotfiles without automatic symlink updates, preferring deliberate changes. Chezmoi stores real config files in a git repo and applies them to the home directory, running scripts and handling machine-specific settings. This setup simplifies bootstrapping new Macs and keeps agent skills and configs consistent across devices.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-12T04:51:39.769000+00:00",
+        "last_moved_at": "2026-06-30T11:09:51.030000+00:00",
+        "published_date": "2026-06-11",
         "triage": {
           "is_tutorial": true,
           "is_foundational": false,
@@ -551,34 +573,6 @@
         "saved_at": "2026-04-09T05:36:03.856000+00:00",
         "last_moved_at": "2026-04-25T09:37:34.724000+00:00",
         "published_date": "2026-04-07",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 6
-        }
-      },
-      {
-        "id": "01kgpxfr0rd5sezbhmv0szq1dt",
-        "url": "https://read.readwise.io/read/01kgpxfr0rd5sezbhmv0szq1dt",
-        "source_url": "https://mtlynch.io/good-developers-bad-tests/#test-code-is-not-like-other-code",
-        "title": "Why Good Developers Write Bad Unit Tests",
-        "author": "Michael Lynch",
-        "image_url": "https://mtlynch.io/good-developers-bad-tests/cover.jpg",
-        "word_count": 2167,
-        "summary": "Software developers often write bad unit tests by blindly applying production code rules to test code, leading to unnecessary complexity. Good unit tests should be simple, clear, and self-contained, enabling easy understanding and issue diagnosis without excessive abstraction. Naming tests effectively and avoiding unnecessary constants can help improve the quality of unit tests.",
-        "notes": "Via https://refactoringenglish.com/blog/software-essays-that-shaped-me/#-by-erik-kuefler-2014",
-        "tags": {
-          "testing": {
-            "name": "Testing",
-            "type": "manual",
-            "created": 1770295661004
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-02-05T12:47:28.280000+00:00",
-        "last_moved_at": "2026-02-05T12:47:33.361000+00:00",
-        "published_date": "2018-11-09",
         "triage": {
           "is_tutorial": true,
           "is_foundational": true,
@@ -2602,6 +2596,28 @@
         }
       },
       {
+        "id": "01ktx2qwhgcrkmgyydjc0mmhkh",
+        "url": "https://read.readwise.io/read/01ktx2qwhgcrkmgyydjc0mmhkh",
+        "source_url": "https://rednafi.com/misc/chezmoi/",
+        "title": "Migrating from GNU stow to chezmoi",
+        "author": "Redowan's Reflections",
+        "image_url": "https://blob.rednafi.com/static/images/home/cover.png",
+        "word_count": 2017,
+        "summary": "The author switched from GNU stow to chezmoi to manage dotfiles without automatic symlink updates, preferring deliberate changes. Chezmoi stores real config files in a git repo and applies them to the home directory, running scripts and handling machine-specific settings. This setup simplifies bootstrapping new Macs and keeps agent skills and configs consistent across devices.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-12T04:51:39.769000+00:00",
+        "last_moved_at": "2026-06-30T11:09:51.030000+00:00",
+        "published_date": "2026-06-11",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
         "id": "01k1sv73j1ksk35k38e375h0b7",
         "url": "https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7",
         "source_url": "http://rednafi.com/go/gateway_pattern/",
@@ -3388,6 +3404,28 @@
         "saved_at": "2026-02-15T15:10:08.516000+00:00",
         "last_moved_at": "2026-02-15T15:10:12.335000+00:00",
         "published_date": "2026-02-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 6
+        }
+      },
+      {
+        "id": "01kvw5hfddk0e75e0bwvn2pz91",
+        "url": "https://read.readwise.io/read/01kvw5hfddk0e75e0bwvn2pz91",
+        "source_url": "https://aicoding.leaflet.pub/3mjfruwwuck2d",
+        "title": "The Phoenix Primitives",
+        "author": "The Phoenix Architecture",
+        "image_url": "https://leaflet.pub/lish/did%253Aplc%253A4qsyxmnsblo4luuycm3572bq/3majnsnvafs2b/3mjfruwwuck2d/opengraph-image?e2bb7203df6d3028",
+        "word_count": 1307,
+        "summary": "In regenerative software, code is not maintained but recreated from precise specifications, making the specification the true source of truth. The key architectural focus shifts from internal code structure to defining clear boundaries between independently regenerable modules. Provenance replaces traditional version control by tracking the causes and effects of changes, enabling better understanding and management of system evolution.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-24T06:36:56.838000+00:00",
+        "last_moved_at": "2026-06-30T11:48:47.997000+00:00",
+        "published_date": "2026-04-13",
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,

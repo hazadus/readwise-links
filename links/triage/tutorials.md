@@ -2,12 +2,14 @@
 
 _Туториалы и практические руководства_
 
-Сгенерировано: 2026-07-01 04:45 UTC · Статей: 14
+Сгенерировано: 2026-07-02 04:37 UTC · Статей: 15
 
 ## Статьи
 
 - [Watching for file changes on macOS](https://alexwlchan.net/2026/watch-files-on-macos/) [📖](https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j) 👤 alexwlchan 💬 4675 ⭐ 9 🔖 #macos 🗓️ 2026-05-11 · 🛠️ туториал, 🌲 вечнозелёное
     > **Резюме:** The article explains how to use macOS’s FSEvents API in Swift to watch for file changes and print the changed file paths. It shows how a Python script can read these paths from the Swift script’s output to trigger actions like rebuilding a site. This method detects file changes quickly, with just a few milliseconds delay.
+- [Migrating from GNU stow to chezmoi](https://rednafi.com/misc/chezmoi/) [📖](https://read.readwise.io/read/01ktx2qwhgcrkmgyydjc0mmhkh) 👤 Redowan's Reflections 💬 2017 ⭐ 9 🗓️ 2026-06-12 · 🛠️ туториал, 🌲 вечнозелёное
+    > **Резюме:** The author switched from GNU stow to chezmoi to manage dotfiles without automatic symlink updates, preferring deliberate changes. Chezmoi stores real config files in a git repo and applies them to the home directory, running scripts and handling machine-specific settings. This setup simplifies bootstrapping new Macs and keeps agent skills and configs consistent across devices.
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) [📖](https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7) 👤 Redowan Delowar 💬 1179 ⭐ 9 🔖 #go, #patterns 🗓️ 2025-08-04 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/694438ad-68b0-832f-91bf-a2c4f204944e
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.

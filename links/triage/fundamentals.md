@@ -2,7 +2,7 @@
 
 _Фундаментальные материалы с долгосрочной ценностью_
 
-Сгенерировано: 2026-07-01 04:45 UTC · Статей: 30
+Сгенерировано: 2026-07-02 04:37 UTC · Статей: 31
 
 ## Статьи
 
@@ -40,6 +40,8 @@ _Фундаментальные материалы с долгосрочной �
     > **Резюме:** Software developers often write bad unit tests by blindly applying production code rules to test code, leading to unnecessary complexity. Good unit tests should be simple, clear, and self-contained, enabling easy understanding and issue diagnosis without excessive abstraction. Naming tests effectively and avoiding unnecessary constants can help improve the quality of unit tests.
 - [Why Elixir is the best language for AI](https://dashbit.co/blog/why-elixir-best-language-for-ai?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01khgxm5m5yjxwenjyyzezsfsg) 👤 José Valim 💬 1651 ⭐ 6 🔖 #llm, #elixir, #joyandcuriosity 🗓️ 2026-02-15 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Elixir is the best language for AI because it is easy to understand, stable, and well-documented. Its features like immutability and clear data flow help both humans and AI models reason about code. Also, Elixir’s fast feedback, low complexity, and introspection tools make coding and debugging quicker and simpler.
+- [The Phoenix Primitives](https://aicoding.leaflet.pub/3mjfruwwuck2d) [📖](https://read.readwise.io/read/01kvw5hfddk0e75e0bwvn2pz91) 👤 The Phoenix Architecture 💬 1307 ⭐ 6 🗓️ 2026-06-24 · 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** In regenerative software, code is not maintained but recreated from precise specifications, making the specification the true source of truth. The key architectural focus shifts from internal code structure to defining clear boundaries between independently regenerable modules. Provenance replaces traditional version control by tracking the causes and effects of changes, enabling better understanding and management of system evolution.
 - [What Async Promised and What it Delivered](https://causality.blog/essays/what-async-promised/) [📖](https://read.readwise.io/read/01kq4a66beh84d41apswqw5xsk) 👤 Causality 💬 2488 ⭐ 5 🗓️ 2026-04-26 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via HackerNews
     > **Резюме:** Async programming evolved from callbacks to promises to async/await, each improving code readability but adding new challenges. Async/await makes asynchronous code look sequential, which helps for simple tasks but hides complexity in larger programs. Overall, these advances helped developers write async code easier but introduced new bugs and harder maintenance in big projects.

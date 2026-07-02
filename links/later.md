@@ -4,8 +4,9 @@
 
 ## Ссылки
 
-- [Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)](https://pluralistic.net/2026/06/29/arsonist-firefighters/) [📖](https://read.readwise.io/read/01kwa40s07gyn9e5mazae5m2mt) 👤 Cory Doctorow 💬 2470 🗓️ 2026-06-29
-    > **Резюме:** Google used to help people find useful websites and supported those sites with ad revenue. Now, Google shows answers directly, taking value from websites without giving back, and favors low-quality content to increase ad profits. This harms the open web, making Google more like a parasite than a partner.
+- [stop asking writers about "AI"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/) [📖](https://read.readwise.io/read/01kwerfqqszysnhnjdkxyfa3b0) 👤 Benjamin Hollon 💬 1705 🗓️ 2026-07-01
+    > **Заметка:** Via Social Digest 2026-07-01
+    > **Резюме:** The author is tired of people asking writers about AI because it makes them feel their work is not valued. They believe AI cannot replace human creativity and that real writers will keep creating no matter what. Instead of asking about AI, people should show interest by asking to read a writer’s work.
 - [Software Engineering in the Age of AI](https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/) [📖](https://read.readwise.io/read/01kw7swjy25s3hhx1dmyqermtk) 👤 Andrew Diamond 💬 2590 🗓️ 2026-06-28
     > **Заметка:** Via HackerNews Digest (2026-06-28)
     > **Резюме:** AI has changed software development by writing most code, while humans now mainly review and guide it. This shift makes developers less creative and risks losing deep knowledge needed for complex problems. In the long run, relying on AI may weaken the skills and understanding that build truly innovative software.
@@ -16,7 +17,7 @@
     > **Резюме:** In regenerative software, code is not maintained but recreated from precise specifications, making the specification the true source of truth. The key architectural focus shifts from internal code structure to defining clear boundaries between independently regenerable modules. Provenance replaces traditional version control by tracking the causes and effects of changes, enabling better understanding and management of system evolution.
 - [Написал свой Claude Code за 99 строк кода. Встречаем — chebupelka!](https://www.youtube.com/watch?v=H7FSTj4x4xQ) [📖](https://read.readwise.io/read/01kvtt6tzepradptt737vc0rpa) 👤 Диджитализируй! 🗓️ 2026-06-23
     > **Резюме:** Автор создал простого автономного агента для разработки на Python всего из 99 строк кода. Главная логика агента занимает всего шесть строк и позволяет решать сложные задачи через цикл взаимодействия. Этот агент может выполнять команды, обращаться в интернет и эффективно помогать с кодом без сложных настроек.
-- [It’s Only When You Look Back](https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/) [📖](https://read.readwise.io/read/01kvtt0m2cagkxeb0qk7swytd4) 👤 Mark Dastmalchi-Round 💬 5508 🗓️ 2026-06-23
+- [It’s Only When You Look Back](https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/) [📖](https://read.readwise.io/read/01kvtt0m2cagkxeb0qk7swytd4) 👤 Mark Dastmalchi-Round 💬 5508 🔖 #reflections 🗓️ 2026-06-23
     > **Резюме:** The author reflects on their 40-year journey with computers, from early home systems like the Sinclair ZX Spectrum to modern cloud technology. They have maintained a website since the late 1990s, adapting through many tech changes and trends. Their passion lies in building online communities, especially around retro computing and open-source projects.
 - [Rewriting the world in Rust](https://bitfieldconsulting.com/posts/rewrite-in-rust) [📖](https://read.readwise.io/read/01kvswppy9118grz6qtn39x89d) 👤 John Arundel 💬 1976 🔖 #rust 🗓️ 2026-06-23
     > **Резюме:** Rust is a modern language that improves software security by preventing many memory and concurrency bugs. Rewriting all old code in Rust is very hard, and automatic translation does not create good Rust programs. Instead, gradually replacing parts with Rust and redesigning code step-by-step is a more practical and effective approach.
