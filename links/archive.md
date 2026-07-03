@@ -1,9 +1,14 @@
 # Архивные ссылки
 
-- Всего ссылок: 1769
+- Всего ссылок: 1772
 
 ## Ссылки
 
+- [I'm Begging You to Leave Your AI Note-taker at Home](https://www.joanwestenberg.com/p/im-begging-you-to-leave-your-ai-note?utm_source=post-email-title&publication_id=7670699&post_id=204556195&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) [📖](https://read.readwise.io/read/01kwk8gr7sy0smp5y47x56dve6) 👤 JA Westenberg 💬 1254 🔖 #reflections 🗓️ 2026-07-03
+- [What To Learn To Be A Real Time Graphics Programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/) [📖](https://read.readwise.io/read/01kwgp1dxm1r82xqy3b0rt1byb) 👤 The blog at the bottom of the sea 💬 1338 🔖 #graphics 🗓️ 2026-07-02
+    > **Заметка:** Via Social Digest 2026-07-02. Обожаю такие посты, сразу захотелось почитать упомянутый тут "“Ray Tracing in One Weekend”...
+- [Text AI watermarks will always be trivial to remove](https://seangoedecke.com/text-ai-watermarks/) [📖](https://read.readwise.io/read/01kwg6wq6crrqq9kjekmv5pg2t) 👤 seangoedecke.com RSS feed 💬 2047 🗓️ 2026-07-02
+    > **Заметка:** Интересная техническая проблема! Любопытно, как в итоге её решат провайдеры.
 - [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html) [📖](https://read.readwise.io/read/01kw9hbdc7yzg4tnkj8avkey83) 👤 inessential.com 💬 598 🔖 #reflections 🗓️ 2026-06-29
     > **Заметка:** Via Simon WIllison. Импонирует, как автор, "выйдя на пенсию", посвятил своё время совершенствованию свого старого приложения NetNewsWire. Остаётся только позавидовать его энергии и позитивному настрою, и брать пример!
 - [On the edge of burnout](https://cassidoo.co/post/edge-of-burnout/) [📖](https://read.readwise.io/read/01kw6x05dyj6qypxgpa1mc1s7d) 👤 Cassidy Williams 💬 265 🔖 #burnout, #reflections 🗓️ 2026-06-28

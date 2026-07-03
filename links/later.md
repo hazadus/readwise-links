@@ -1,9 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 72
+- Всего ссылок: 75
 
 ## Ссылки
 
+- [In defense of AI mandates](https://charitydotwtf.substack.com/p/in-defense-of-ai-mandates) [📖](https://read.readwise.io/read/01kwj7x8gbyc3twdz7gkacncpg) 👤 Charity Majors 💬 842 🗓️ 2026-07-02
+    > **Резюме:** Mandates are necessary to fund and support big changes like adopting AI in a company. Without a clear mandate, employees won’t prioritize learning new skills, and progress will stall. Leaders must decide if AI is important and back that decision with real resources and honesty.
+- [Understanding is the new bottleneck](https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html) [📖](https://read.readwise.io/read/01kwj4edpege0ne4wzt46jc2g1) 👤 Geoffrey Litt 💬 1935 🗓️ 2026-07-02
+    > **Резюме:** AI writes more code, but humans still need to understand it to stay involved and creative. Good understanding comes from clear explanations, interactive quizzes, and hands-on tools called micro-worlds. Sharing knowledge in teams helps everyone work better together and build smarter systems.
+- [AI vs. human illustrators? AI + human illustrators!](https://evilmartians.com/chronicles/ai-vs-human-illustrators-ai-plus-human-illustrators) [📖](https://read.readwise.io/read/01kwf3vq5ta0d14r9cgg79611m) 👤 Travis Turner (richardturner@evilmartians.com) 💬 1614 🗓️ 2026-07-01
+    > **Резюме:** Evil Martians tried using AI alone to create blog illustrations but found many problems with quality and consistency. They now use a mix of AI and human illustrators, where AI does most work and humans finish the details. This hybrid approach saves time, lowers costs, and improves the final images.
 - [stop asking writers about "AI"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/) [📖](https://read.readwise.io/read/01kwerfqqszysnhnjdkxyfa3b0) 👤 Benjamin Hollon 💬 1705 🗓️ 2026-07-01
     > **Заметка:** Via Social Digest 2026-07-01
     > **Резюме:** The author is tired of people asking writers about AI because it makes them feel their work is not valued. They believe AI cannot replace human creativity and that real writers will keep creating no matter what. Instead of asking about AI, people should show interest by asking to read a writer’s work.
@@ -18,6 +24,7 @@
 - [Написал свой Claude Code за 99 строк кода. Встречаем — chebupelka!](https://www.youtube.com/watch?v=H7FSTj4x4xQ) [📖](https://read.readwise.io/read/01kvtt6tzepradptt737vc0rpa) 👤 Диджитализируй! 🗓️ 2026-06-23
     > **Резюме:** Автор создал простого автономного агента для разработки на Python всего из 99 строк кода. Главная логика агента занимает всего шесть строк и позволяет решать сложные задачи через цикл взаимодействия. Этот агент может выполнять команды, обращаться в интернет и эффективно помогать с кодом без сложных настроек.
 - [It’s Only When You Look Back](https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/) [📖](https://read.readwise.io/read/01kvtt0m2cagkxeb0qk7swytd4) 👤 Mark Dastmalchi-Round 💬 5508 🔖 #reflections 🗓️ 2026-06-23
+    > **Заметка:** Многое про что он пишет, я в своё время видел только в журналах :) Но приятно повспоминать и о своих первых встречах с ПК и новыми технологиями. Отличный пост.
     > **Резюме:** The author reflects on their 40-year journey with computers, from early home systems like the Sinclair ZX Spectrum to modern cloud technology. They have maintained a website since the late 1990s, adapting through many tech changes and trends. Their passion lies in building online communities, especially around retro computing and open-source projects.
 - [Rewriting the world in Rust](https://bitfieldconsulting.com/posts/rewrite-in-rust) [📖](https://read.readwise.io/read/01kvswppy9118grz6qtn39x89d) 👤 John Arundel 💬 1976 🔖 #rust 🗓️ 2026-06-23
     > **Резюме:** Rust is a modern language that improves software security by preventing many memory and concurrency bugs. Rewriting all old code in Rust is very hard, and automatic translation does not create good Rust programs. Instead, gradually replacing parts with Rust and redesigning code step-by-step is a more practical and effective approach.

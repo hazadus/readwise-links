@@ -1164,6 +1164,24 @@
       "is_foundational": false,
       "is_evergreen": true,
       "interest_score": 9
+    },
+    "01kwj7x8gbyc3twdz7gkacncpg": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 2
+    },
+    "01ktttmvkt8cp8d9mgx591w0fz": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 9
+    },
+    "01ktt9nrahqk4mhsqkf56m25a3": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": false,
+      "interest_score": 7
     }
   }
 }

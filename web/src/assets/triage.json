@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T04:37:13.732240+00:00",
+  "generated_at": "2026-07-03T06:44:27.247515+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -28,6 +28,28 @@
           "is_tutorial": true,
           "is_foundational": false,
           "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01ktttmvkt8cp8d9mgx591w0fz",
+        "url": "https://read.readwise.io/read/01ktttmvkt8cp8d9mgx591w0fz",
+        "source_url": "https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/",
+        "title": "Vibe Coding Is Dangerous, Agentic Engineering Isn't—Wes McKinney",
+        "author": "Simon Späti",
+        "image_url": "https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/featured-image.png",
+        "word_count": 2700,
+        "summary": "Wes McKinney uses careful planning and AI agents to write and review code, avoiding \"vibe coding.\" He builds tools that help maintain projects and improve AI-driven development. Wes believes strong specs and engineering skills are key for successful agentic engineering in the future.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-11T07:51:43.043000+00:00",
+        "last_moved_at": "2026-06-30T11:48:57.177000+00:00",
+        "published_date": "2026-06-11",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
           "interest_score": 9
         }
       },
@@ -414,6 +436,28 @@
         }
       },
       {
+        "id": "01ktt9nrahqk4mhsqkf56m25a3",
+        "url": "https://read.readwise.io/read/01ktt9nrahqk4mhsqkf56m25a3",
+        "source_url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+        "title": "Why AI hasn’t replaced software engineers, and won’t",
+        "author": "Arvind Narayanan",
+        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png",
+        "word_count": 4135,
+        "summary": "AI has not replaced software engineers because it mainly helps with routine coding, while humans still handle key decisions and quality checks. Stories of AI causing mass layoffs are often misleading and used to mask other business reasons. Instead of reducing jobs, AI is changing how software is made and may even increase the demand for engineers.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-11T02:55:06.650000+00:00",
+        "last_moved_at": "2026-06-30T11:48:55.401000+00:00",
+        "published_date": "2026-06-11",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
+        }
+      },
+      {
         "id": "01kgafx4271vdg3eqw50jk0jm8",
         "url": "https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8",
         "source_url": "https://blog.xoria.org/macos-tips/",
@@ -523,62 +567,6 @@
           "is_evergreen": false,
           "interest_score": 7
         }
-      },
-      {
-        "id": "01k1sq2twnr81ds7s9twvd6kx2",
-        "url": "https://read.readwise.io/read/01k1sq2twnr81ds7s9twvd6kx2",
-        "source_url": "https://getpid.dev/blog/tls-certificates/",
-        "title": "Issuing TLS Certificates in Go",
-        "author": "Software Engineering & Personal Thoughts",
-        "image_url": "https://getpid.dev/images/certificates.svg",
-        "word_count": 1511,
-        "summary": "This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.",
-        "notes": "",
-        "tags": {
-          "go": {
-            "name": "Go",
-            "type": "manual",
-            "created": 1754775350832
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-08-04T04:57:49.717000+00:00",
-        "last_moved_at": "2025-08-09T21:36:00.745000+00:00",
-        "published_date": "2025-08-01",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01knrbv38h3exn38swf8dcxj41",
-        "url": "https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41",
-        "source_url": "https://werwolv.net/posts/usb_for_sw_devs/",
-        "title": "USB for Software Developers",
-        "author": "WerWolv",
-        "image_url": "https://werwolv.net/_astro/cover.D_ljJUxi.png",
-        "word_count": 2523,
-        "summary": "Writing a USB driver is similar to writing a network application and does not require kernel code. USB devices identify themselves using standard descriptors, which the host reads to understand the device and its capabilities. Developers can communicate with devices through specific endpoints using simple commands, as shown in the Fastboot example.",
-        "notes": "Via HackerNews",
-        "tags": {
-          "usb": {
-            "name": "USB",
-            "type": "manual",
-            "created": 1777035148150
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-09T05:36:03.856000+00:00",
-        "last_moved_at": "2026-04-25T09:37:34.724000+00:00",
-        "published_date": "2026-04-07",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 6
-        }
       }
     ],
     "shortest": [
@@ -658,6 +646,28 @@
         "saved_at": "2026-06-27T18:20:23.043000+00:00",
         "last_moved_at": "2026-06-27T18:20:28.633000+00:00",
         "published_date": "2026-06-11",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kwj7x8gbyc3twdz7gkacncpg",
+        "url": "https://read.readwise.io/read/01kwj7x8gbyc3twdz7gkacncpg",
+        "source_url": "https://charitydotwtf.substack.com/p/in-defense-of-ai-mandates",
+        "title": "In defense of AI mandates",
+        "author": "Charity Majors",
+        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/9e857ab8-6302-418d-beb9-9689efe35d17_1672x941.png",
+        "word_count": 842,
+        "summary": "Mandates are necessary to fund and support big changes like adopting AI in a company. Without a clear mandate, employees won’t prioritize learning new skills, and progress will stall. Leaders must decide if AI is important and back that decision with real resources and honesty.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-02T20:21:43.636000+00:00",
+        "last_moved_at": "2026-07-03T06:22:18.950000+00:00",
+        "published_date": "2026-07-02",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -994,6 +1004,28 @@
         }
       },
       {
+        "id": "01ktttmvkt8cp8d9mgx591w0fz",
+        "url": "https://read.readwise.io/read/01ktttmvkt8cp8d9mgx591w0fz",
+        "source_url": "https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/",
+        "title": "Vibe Coding Is Dangerous, Agentic Engineering Isn't—Wes McKinney",
+        "author": "Simon Späti",
+        "image_url": "https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/featured-image.png",
+        "word_count": 2700,
+        "summary": "Wes McKinney uses careful planning and AI agents to write and review code, avoiding \"vibe coding.\" He builds tools that help maintain projects and improve AI-driven development. Wes believes strong specs and engineering skills are key for successful agentic engineering in the future.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-11T07:51:43.043000+00:00",
+        "last_moved_at": "2026-06-30T11:48:57.177000+00:00",
+        "published_date": "2026-06-11",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
         "id": "01kgafx4271vdg3eqw50jk0jm8",
         "url": "https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8",
         "source_url": "https://blog.xoria.org/macos-tips/",
@@ -1131,6 +1163,28 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 8
+        }
+      },
+      {
+        "id": "01ktt9nrahqk4mhsqkf56m25a3",
+        "url": "https://read.readwise.io/read/01ktt9nrahqk4mhsqkf56m25a3",
+        "source_url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+        "title": "Why AI hasn’t replaced software engineers, and won’t",
+        "author": "Arvind Narayanan",
+        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png",
+        "word_count": 4135,
+        "summary": "AI has not replaced software engineers because it mainly helps with routine coding, while humans still handle key decisions and quality checks. Stories of AI causing mass layoffs are often misleading and used to mask other business reasons. Instead of reducing jobs, AI is changing how software is made and may even increase the demand for engineers.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-11T02:55:06.650000+00:00",
+        "last_moved_at": "2026-06-30T11:48:55.401000+00:00",
+        "published_date": "2026-06-11",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
         }
       },
       {
@@ -1327,34 +1381,6 @@
           "is_evergreen": true,
           "interest_score": 2
         }
-      },
-      {
-        "id": "01kfabyqddxp6mh9jgjpa7mrcv",
-        "url": "https://read.readwise.io/read/01kfabyqddxp6mh9jgjpa7mrcv",
-        "source_url": "https://paulstamatiou.com/2025-year-in-review?utm_source=substack&utm_medium=email",
-        "title": "Year in review: Limitless, Sesame, Claude Code, and more",
-        "author": "paulstamatiou.com",
-        "image_url": "https://turbo.paulstamatiou.com/uploads/2025/12/sesame-office-view.jpg",
-        "word_count": 8751,
-        "summary": "In 2025, Paul Stamatiou focused on designing and building simple, high-quality AI products that feel personal and useful. He left his startup role to join Sesame as Head of Design, working closely on software and hardware. He believes great design means thoughtful product building, not just flashy visuals or shortcuts with AI.",
-        "notes": "",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1768800894049
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-19T05:34:29.805000+00:00",
-        "last_moved_at": "2026-01-19T05:34:55.461000+00:00",
-        "published_date": "2026-01-12",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
       }
     ],
     "quick_wins": [
@@ -1509,6 +1535,28 @@
       }
     ],
     "deep_reading": [
+      {
+        "id": "01ktttmvkt8cp8d9mgx591w0fz",
+        "url": "https://read.readwise.io/read/01ktttmvkt8cp8d9mgx591w0fz",
+        "source_url": "https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/",
+        "title": "Vibe Coding Is Dangerous, Agentic Engineering Isn't—Wes McKinney",
+        "author": "Simon Späti",
+        "image_url": "https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/featured-image.png",
+        "word_count": 2700,
+        "summary": "Wes McKinney uses careful planning and AI agents to write and review code, avoiding \"vibe coding.\" He builds tools that help maintain projects and improve AI-driven development. Wes believes strong specs and engineering skills are key for successful agentic engineering in the future.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-11T07:51:43.043000+00:00",
+        "last_moved_at": "2026-06-30T11:48:57.177000+00:00",
+        "published_date": "2026-06-11",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
       {
         "id": "01kjnjanqgfzsvenqw6d62rxqv",
         "url": "https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv",
@@ -1713,6 +1761,28 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 8
+        }
+      },
+      {
+        "id": "01ktt9nrahqk4mhsqkf56m25a3",
+        "url": "https://read.readwise.io/read/01ktt9nrahqk4mhsqkf56m25a3",
+        "source_url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+        "title": "Why AI hasn’t replaced software engineers, and won’t",
+        "author": "Arvind Narayanan",
+        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png",
+        "word_count": 4135,
+        "summary": "AI has not replaced software engineers because it mainly helps with routine coding, while humans still handle key decisions and quality checks. Stories of AI causing mass layoffs are often misleading and used to mask other business reasons. Instead of reducing jobs, AI is changing how software is made and may even increase the demand for engineers.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-11T02:55:06.650000+00:00",
+        "last_moved_at": "2026-06-30T11:48:55.401000+00:00",
+        "published_date": "2026-06-11",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
         }
       },
       {
@@ -3879,6 +3949,28 @@
     ],
     "timely": [
       {
+        "id": "01ktttmvkt8cp8d9mgx591w0fz",
+        "url": "https://read.readwise.io/read/01ktttmvkt8cp8d9mgx591w0fz",
+        "source_url": "https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/",
+        "title": "Vibe Coding Is Dangerous, Agentic Engineering Isn't—Wes McKinney",
+        "author": "Simon Späti",
+        "image_url": "https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/featured-image.png",
+        "word_count": 2700,
+        "summary": "Wes McKinney uses careful planning and AI agents to write and review code, avoiding \"vibe coding.\" He builds tools that help maintain projects and improve AI-driven development. Wes believes strong specs and engineering skills are key for successful agentic engineering in the future.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-11T07:51:43.043000+00:00",
+        "last_moved_at": "2026-06-30T11:48:57.177000+00:00",
+        "published_date": "2026-06-11",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
         "id": "01kjnjanqgfzsvenqw6d62rxqv",
         "url": "https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv",
         "source_url": "https://minimaxir.com/2026/02/ai-agent-coding/",
@@ -3988,6 +4080,28 @@
           "is_foundational": true,
           "is_evergreen": false,
           "interest_score": 8
+        }
+      },
+      {
+        "id": "01ktt9nrahqk4mhsqkf56m25a3",
+        "url": "https://read.readwise.io/read/01ktt9nrahqk4mhsqkf56m25a3",
+        "source_url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+        "title": "Why AI hasn’t replaced software engineers, and won’t",
+        "author": "Arvind Narayanan",
+        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png",
+        "word_count": 4135,
+        "summary": "AI has not replaced software engineers because it mainly helps with routine coding, while humans still handle key decisions and quality checks. Stories of AI causing mass layoffs are often misleading and used to mask other business reasons. Instead of reducing jobs, AI is changing how software is made and may even increase the demand for engineers.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-11T02:55:06.650000+00:00",
+        "last_moved_at": "2026-06-30T11:48:55.401000+00:00",
+        "published_date": "2026-06-11",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
         }
       },
       {
@@ -4345,6 +4459,28 @@
         "saved_at": "2026-04-25T09:35:30.052000+00:00",
         "last_moved_at": "2026-04-25T09:35:32.366000+00:00",
         "published_date": "2026-04-24",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kwj7x8gbyc3twdz7gkacncpg",
+        "url": "https://read.readwise.io/read/01kwj7x8gbyc3twdz7gkacncpg",
+        "source_url": "https://charitydotwtf.substack.com/p/in-defense-of-ai-mandates",
+        "title": "In defense of AI mandates",
+        "author": "Charity Majors",
+        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/9e857ab8-6302-418d-beb9-9689efe35d17_1672x941.png",
+        "word_count": 842,
+        "summary": "Mandates are necessary to fund and support big changes like adopting AI in a company. Without a clear mandate, employees won’t prioritize learning new skills, and progress will stall. Leaders must decide if AI is important and back that decision with real resources and honesty.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-02T20:21:43.636000+00:00",
+        "last_moved_at": "2026-07-03T06:22:18.950000+00:00",
+        "published_date": "2026-07-02",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
