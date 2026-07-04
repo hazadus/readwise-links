@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [stop asking writers about "AI"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/) [📖](https://read.readwise.io/read/01kwerfqqszysnhnjdkxyfa3b0) 👤 Benjamin Hollon 💬 1705 🔖 #llm, #writing, #reflections, #llm-resistance 🗓️ 2026-07-01
+    > **Заметка:** Via Social Digest 2026-07-01
+    > **Резюме:** The author is tired of people asking writers about AI because it makes them feel their work is not valued. They believe AI cannot replace human creativity and that real writers will keep creating no matter what. Instead of asking about AI, people should show interest by asking to read a writer’s work.
 - [Adversarial Communication](https://blog.glyph.im/2026/06/adversarial-communication.html) [📖](https://read.readwise.io/read/01kvsck0xkwt59pjbqrb7hef8y) 👤 Glyph 💬 2762 🔖 #learning, #codereview, #llm-devimpact, #llm-resistance 🗓️ 2026-06-23
     > **Заметка:** "Враждебная коммуникация". Сквозная идея поста – LLM позволяют перенести стоимость верификации выхлопа с "автора", получающего выгоду, на "жертву", которой предстоит всё это разгребать.
     > **Резюме:** “AI” turns every conversation into a fight, because fighting is what

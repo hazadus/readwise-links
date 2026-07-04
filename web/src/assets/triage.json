@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T06:44:27.247515+00:00",
+  "generated_at": "2026-07-04T06:31:51.152848+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -101,28 +101,6 @@
         "saved_at": "2025-08-04T06:10:03.969000+00:00",
         "last_moved_at": "2025-08-09T21:36:15.725000+00:00",
         "published_date": "2025-08-03",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kvtt6tzepradptt737vc0rpa",
-        "url": "https://read.readwise.io/read/01kvtt6tzepradptt737vc0rpa",
-        "source_url": "https://www.youtube.com/watch?v=H7FSTj4x4xQ",
-        "title": "Написал свой Claude Code за 99 строк кода. Встречаем — chebupelka!",
-        "author": "Диджитализируй!",
-        "image_url": "https://i.ytimg.com/vi/H7FSTj4x4xQ/sddefault.jpg",
-        "word_count": null,
-        "summary": "Автор создал простого автономного агента для разработки на Python всего из 99 строк кода. Главная логика агента занимает всего шесть строк и позволяет решать сложные задачи через цикл взаимодействия. Этот агент может выполнять команды, обращаться в интернет и эффективно помогать с кодом без сложных настроек.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-23T17:59:45.462000+00:00",
-        "last_moved_at": "2026-06-24T11:10:52.995000+00:00",
-        "published_date": "2026-06-23",
         "triage": {
           "is_tutorial": true,
           "is_foundational": true,
@@ -567,6 +545,34 @@
           "is_evergreen": false,
           "interest_score": 7
         }
+      },
+      {
+        "id": "01k1sq2twnr81ds7s9twvd6kx2",
+        "url": "https://read.readwise.io/read/01k1sq2twnr81ds7s9twvd6kx2",
+        "source_url": "https://getpid.dev/blog/tls-certificates/",
+        "title": "Issuing TLS Certificates in Go",
+        "author": "Software Engineering & Personal Thoughts",
+        "image_url": "https://getpid.dev/images/certificates.svg",
+        "word_count": 1511,
+        "summary": "This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.",
+        "notes": "",
+        "tags": {
+          "go": {
+            "name": "Go",
+            "type": "manual",
+            "created": 1754775350832
+          }
+        },
+        "highlights": [],
+        "saved_at": "2025-08-04T04:57:49.717000+00:00",
+        "last_moved_at": "2025-08-09T21:36:00.745000+00:00",
+        "published_date": "2025-08-01",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 7
+        }
       }
     ],
     "shortest": [
@@ -646,28 +652,6 @@
         "saved_at": "2026-06-27T18:20:23.043000+00:00",
         "last_moved_at": "2026-06-27T18:20:28.633000+00:00",
         "published_date": "2026-06-11",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kwj7x8gbyc3twdz7gkacncpg",
-        "url": "https://read.readwise.io/read/01kwj7x8gbyc3twdz7gkacncpg",
-        "source_url": "https://charitydotwtf.substack.com/p/in-defense-of-ai-mandates",
-        "title": "In defense of AI mandates",
-        "author": "Charity Majors",
-        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/9e857ab8-6302-418d-beb9-9689efe35d17_1672x941.png",
-        "word_count": 842,
-        "summary": "Mandates are necessary to fund and support big changes like adopting AI in a company. Without a clear mandate, employees won’t prioritize learning new skills, and progress will stall. Leaders must decide if AI is important and back that decision with real resources and honesty.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-07-02T20:21:43.636000+00:00",
-        "last_moved_at": "2026-07-03T06:22:18.950000+00:00",
-        "published_date": "2026-07-02",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -1107,6 +1091,39 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 8
+        }
+      },
+      {
+        "id": "01ktc3crpbmh3sbznpm12n04x0",
+        "url": "https://read.readwise.io/read/01ktc3crpbmh3sbznpm12n04x0",
+        "source_url": "https://ufried.com/blog/essence_of_architecture_2/",
+        "title": "The essence of architectural work - Part 2",
+        "author": "Blog on Uwe Friedrichsen",
+        "image_url": "https://ufried.com/favicon/favicon-196x196.png",
+        "word_count": 3703,
+        "summary": "Many architectural anti-patterns in software happen because people don't understand why architecture matters. These anti-patterns cause bad designs that don't fit the project's real needs. Knowing the true purpose of architectural work helps avoid these problems and leads to better software.",
+        "notes": "",
+        "tags": {
+          "architecture": {
+            "name": "Architecture",
+            "type": "manual",
+            "created": 1782817641763
+          },
+          "softwarecraft": {
+            "name": "SoftwareCraft",
+            "type": "manual",
+            "created": 1782817645892
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-06-05T14:35:58.612000+00:00",
+        "last_moved_at": "2026-06-30T11:06:27.762000+00:00",
+        "published_date": "2026-06-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 2
         }
       },
       {
@@ -2386,6 +2403,39 @@
         }
       },
       {
+        "id": "01ktc3crpbmh3sbznpm12n04x0",
+        "url": "https://read.readwise.io/read/01ktc3crpbmh3sbznpm12n04x0",
+        "source_url": "https://ufried.com/blog/essence_of_architecture_2/",
+        "title": "The essence of architectural work - Part 2",
+        "author": "Blog on Uwe Friedrichsen",
+        "image_url": "https://ufried.com/favicon/favicon-196x196.png",
+        "word_count": 3703,
+        "summary": "Many architectural anti-patterns in software happen because people don't understand why architecture matters. These anti-patterns cause bad designs that don't fit the project's real needs. Knowing the true purpose of architectural work helps avoid these problems and leads to better software.",
+        "notes": "",
+        "tags": {
+          "architecture": {
+            "name": "Architecture",
+            "type": "manual",
+            "created": 1782817641763
+          },
+          "softwarecraft": {
+            "name": "SoftwareCraft",
+            "type": "manual",
+            "created": 1782817645892
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-06-05T14:35:58.612000+00:00",
+        "last_moved_at": "2026-06-30T11:06:27.762000+00:00",
+        "published_date": "2026-06-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01kg25747gsvm57m9m5dc7j35t",
         "url": "https://read.readwise.io/read/01kg25747gsvm57m9m5dc7j35t",
         "source_url": "https://samwho.dev/hashing",
@@ -2713,28 +2763,6 @@
         "saved_at": "2025-08-04T06:10:03.969000+00:00",
         "last_moved_at": "2025-08-09T21:36:15.725000+00:00",
         "published_date": "2025-08-03",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kvtt6tzepradptt737vc0rpa",
-        "url": "https://read.readwise.io/read/01kvtt6tzepradptt737vc0rpa",
-        "source_url": "https://www.youtube.com/watch?v=H7FSTj4x4xQ",
-        "title": "Написал свой Claude Code за 99 строк кода. Встречаем — chebupelka!",
-        "author": "Диджитализируй!",
-        "image_url": "https://i.ytimg.com/vi/H7FSTj4x4xQ/sddefault.jpg",
-        "word_count": null,
-        "summary": "Автор создал простого автономного агента для разработки на Python всего из 99 строк кода. Главная логика агента занимает всего шесть строк и позволяет решать сложные задачи через цикл взаимодействия. Этот агент может выполнять команды, обращаться в интернет и эффективно помогать с кодом без сложных настроек.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-23T17:59:45.462000+00:00",
-        "last_moved_at": "2026-06-24T11:10:52.995000+00:00",
-        "published_date": "2026-06-23",
         "triage": {
           "is_tutorial": true,
           "is_foundational": true,
@@ -3081,28 +3109,6 @@
         "saved_at": "2025-08-04T06:10:03.969000+00:00",
         "last_moved_at": "2025-08-09T21:36:15.725000+00:00",
         "published_date": "2025-08-03",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kvtt6tzepradptt737vc0rpa",
-        "url": "https://read.readwise.io/read/01kvtt6tzepradptt737vc0rpa",
-        "source_url": "https://www.youtube.com/watch?v=H7FSTj4x4xQ",
-        "title": "Написал свой Claude Code за 99 строк кода. Встречаем — chebupelka!",
-        "author": "Диджитализируй!",
-        "image_url": "https://i.ytimg.com/vi/H7FSTj4x4xQ/sddefault.jpg",
-        "word_count": null,
-        "summary": "Автор создал простого автономного агента для разработки на Python всего из 99 строк кода. Главная логика агента занимает всего шесть строк и позволяет решать сложные задачи через цикл взаимодействия. Этот агент может выполнять команды, обращаться в интернет и эффективно помогать с кодом без сложных настроек.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-23T17:59:45.462000+00:00",
-        "last_moved_at": "2026-06-24T11:10:52.995000+00:00",
-        "published_date": "2026-06-23",
         "triage": {
           "is_tutorial": true,
           "is_foundational": true,
@@ -4459,28 +4465,6 @@
         "saved_at": "2026-04-25T09:35:30.052000+00:00",
         "last_moved_at": "2026-04-25T09:35:32.366000+00:00",
         "published_date": "2026-04-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kwj7x8gbyc3twdz7gkacncpg",
-        "url": "https://read.readwise.io/read/01kwj7x8gbyc3twdz7gkacncpg",
-        "source_url": "https://charitydotwtf.substack.com/p/in-defense-of-ai-mandates",
-        "title": "In defense of AI mandates",
-        "author": "Charity Majors",
-        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/9e857ab8-6302-418d-beb9-9689efe35d17_1672x941.png",
-        "word_count": 842,
-        "summary": "Mandates are necessary to fund and support big changes like adopting AI in a company. Without a clear mandate, employees won’t prioritize learning new skills, and progress will stall. Leaders must decide if AI is important and back that decision with real resources and honesty.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-07-02T20:21:43.636000+00:00",
-        "last_moved_at": "2026-07-03T06:22:18.950000+00:00",
-        "published_date": "2026-07-02",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

@@ -1182,6 +1182,12 @@
       "is_foundational": false,
       "is_evergreen": false,
       "interest_score": 7
+    },
+    "01ktc3crpbmh3sbznpm12n04x0": {
+      "is_tutorial": false,
+      "is_foundational": false,
+      "is_evergreen": true,
+      "interest_score": 2
     }
   }
 }

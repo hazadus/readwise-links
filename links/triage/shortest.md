@@ -2,7 +2,7 @@
 
 _Короткие статьи (не туториалы, не основы), отсортированные по объёму_
 
-Сгенерировано: 2026-07-03 06:44 UTC · Статей: 30
+Сгенерировано: 2026-07-04 06:31 UTC · Статей: 30
 
 ## Статьи
 
@@ -14,8 +14,6 @@ _Короткие статьи (не туториалы, не основы), о�
 - [The University In The AI Era](https://htmx.org/essays/universities-and-ai/) [📖](https://read.readwise.io/read/01kw54zcm3196kc0he9yd3mkrt) 👤 htmx.org 💬 717 ⭐ 2 🔖 #learning, #llm-devimpact 🗓️ 2026-06-27
     > **Заметка:** Via Social Digest
     > **Резюме:** The author suggests combining computer science with other majors to help more students learn useful tech skills. They also propose using special computer labs and oral exams to better check students’ true abilities. These changes can keep universities important even as AI grows and changes how we learn.
-- [In defense of AI mandates](https://charitydotwtf.substack.com/p/in-defense-of-ai-mandates) [📖](https://read.readwise.io/read/01kwj7x8gbyc3twdz7gkacncpg) 👤 Charity Majors 💬 842 ⭐ 2 🗓️ 2026-07-02
-    > **Резюме:** Mandates are necessary to fund and support big changes like adopting AI in a company. Without a clear mandate, employees won’t prioritize learning new skills, and progress will stall. Leaders must decide if AI is important and back that decision with real resources and honesty.
 - [My audio interface has ssh enabled by default](https://hhh.hn/rodecaster-duo-fw/) [📖](https://read.readwise.io/read/01kq1zx0r4n33srh7vqaawdkzh) 👤 hhh.hn 💬 933 ⭐ 2 🗓️ 2026-04-25
     > **Заметка:** Via HackerNews
     > **Резюме:** The author bought a Rodecaster Duo for better audio during gaming and found it easy to use. They discovered the device has SSH enabled by default and allows easy firmware updates without signature checks. The author created custom firmware to access the device via SSH and reported the security concern to Rode.
@@ -54,6 +52,8 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** The Software Industrial Revolution will make software much cheaper and easier to create. This change will boost demand for software and transform many industries beyond tech. As software becomes abundant, it will drive faster innovation and reshape the global economy.
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) [📖](https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96) 👤 Peter Steinberger 💬 3413 ⭐ 8 🔖 #llm 🗓️ 2026-01-09
     > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
+- [The essence of architectural work - Part 2](https://ufried.com/blog/essence_of_architecture_2/) [📖](https://read.readwise.io/read/01ktc3crpbmh3sbznpm12n04x0) 👤 Blog on Uwe Friedrichsen 💬 3703 ⭐ 2 🔖 #architecture, #softwarecraft 🗓️ 2026-06-05 · 🌲 вечнозелёное
+    > **Резюме:** Many architectural anti-patterns in software happen because people don't understand why architecture matters. These anti-patterns cause bad designs that don't fit the project's real needs. Knowing the true purpose of architectural work helps avoid these problems and leads to better software.
 - [Twenty Five Years of Computing](https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmv4fykfx18fbq95cz8v7v3) 👤 susam.net 💬 3913 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** The author has over 25 years of experience in software development, starting from university days. Early challenges and learning moments helped them grow into a skilled engineer. They value professionalism, continuous learning, and kindness in their career.
 - [/ Isometric NYC](https://cannoneyed.com/projects/isometric-nyc?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kg1jzqd4sxbwtw7hcnhp8hwm) 👤 cannoneyed.com 💬 3943 ⭐ 8 🔖 #joyandcuriosity 🗓️ 2026-01-28

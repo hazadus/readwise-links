@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 8
 
 ## Ссылки
 
+- [Code is Cheap(er)](https://htmx.org/essays/code-is-cheap/) [📖](https://read.readwise.io/read/01kwkf8azgdt2ays6jjeee2a0j) 👤 htmx.org 💬 874 🔖 #cognitivedebt, #llm-devimpact 🗓️ 2026-07-03
+    > **Заметка:** Via JoyAndCuriosity Newsletter
+    > **Резюме:** AI has made writing code much faster and cheaper, but understanding that code is now harder and more important. Developers should carefully review and simplify AI-generated code to avoid complexity and errors. The best engineers will focus on reducing unnecessary code and managing complexity, not just writing more code.
+- [The Intent Debt](https://addyosmani.com/blog/intent-debt/) [📖](https://read.readwise.io/read/01ktdd7n1t4nztd0twq75mkr93) 👤 Addy Osmani 💬 1785 🔖 #intentdebt, #definitions, #cognitivedebt, #llm-devimpact 🗓️ 2026-06-06
+    > **Резюме:** Intent debt is the missing explanation of why software was built a certain way, and it lives in unwritten goals and decisions. Unlike technical and cognitive debt, AI agents cannot fix intent debt because they don’t know the true reasons behind choices. To reduce intent debt, teams must write down their goals and decisions clearly so both humans and AI can understand the system’s purpose.
 - [What I’m Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/) [📖](https://read.readwise.io/read/01ksq17ebymbxs264akq38pwm5) 👤 on 18 Feb 2026 💬 702 🔖 #cognitivedebt 🗓️ 2026-05-28
     > **Заметка:** Пост продолжение от автора термина cognitive debt. Ничего нового, в основном обзор мнений по теме. В архив для истории.
     > **Резюме:** Cognitive debt happens when a team's shared understanding of a system lags behind how fast the system changes. This gap makes development harder and causes stress, even if the software still works. Teams can fight cognitive debt by updating documents, tests, and using AI to keep knowledge clear and shared.

@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-07-03 06:44 UTC · Статей: 39
+Сгенерировано: 2026-07-04 06:31 UTC · Статей: 40
 
 ## Статьи
 
@@ -75,6 +75,8 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** Markdown started as a simple way to make writing on the internet easier without needing complicated code. Many people liked it and began using it everywhere, from blogs to apps like Microsoft Notepad and Apple Notes. Its success shows how open, easy ideas can grow big and change how we share information online.
 - [Twenty Five Years of Computing](https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmv4fykfx18fbq95cz8v7v3) 👤 susam.net 💬 3913 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01
     > **Резюме:** The author has over 25 years of experience in software development, starting from university days. Early challenges and learning moments helped them grow into a skilled engineer. They value professionalism, continuous learning, and kindness in their career.
+- [The essence of architectural work - Part 2](https://ufried.com/blog/essence_of_architecture_2/) [📖](https://read.readwise.io/read/01ktc3crpbmh3sbznpm12n04x0) 👤 Blog on Uwe Friedrichsen 💬 3703 ⭐ 2 🔖 #architecture, #softwarecraft 🗓️ 2026-06-05 · 🌲 вечнозелёное
+    > **Резюме:** Many architectural anti-patterns in software happen because people don't understand why architecture matters. These anti-patterns cause bad designs that don't fit the project's real needs. Knowing the true purpose of architectural work helps avoid these problems and leads to better software.
 - [Hashing](https://samwho.dev/hashing) [📖](https://read.readwise.io/read/01kg25747gsvm57m9m5dc7j35t) 👤 Sam Rose 💬 3436 ⭐ 2 🗓️ 2026-01-28 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Hash functions turn inputs into numbers and help organize data efficiently. Good hash functions avoid collisions and spread outputs evenly to keep systems fast. They are important for tools like hash maps and use techniques like random seeds to stay secure.
 - [The Software Industrial Revolution](https://cannoneyed.com/essays/software-industrial-revolution?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kjmw7mm8skajhhkmnf0tp4s1) 👤 cannoneyed.com 💬 3140 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-03-01

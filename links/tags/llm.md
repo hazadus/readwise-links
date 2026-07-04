@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 458
+- Всего ссылок: 459
 
 ## Ссылки
 
+- [stop asking writers about "AI"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/) [📖](https://read.readwise.io/read/01kwerfqqszysnhnjdkxyfa3b0) 👤 Benjamin Hollon 💬 1705 🔖 #llm, #writing, #reflections, #llm-resistance 🗓️ 2026-07-01
+    > **Заметка:** Via Social Digest 2026-07-01
+    > **Резюме:** The author is tired of people asking writers about AI because it makes them feel their work is not valued. They believe AI cannot replace human creativity and that real writers will keep creating no matter what. Instead of asking about AI, people should show interest by asking to read a writer’s work.
 - [Open Knowledge Format: I Already Do This, and Now It Has a Name](https://alexop.dev/posts/open-knowledge-format-markdown-frontmatter-agent-knowledge/) [📖](https://read.readwise.io/read/01kw45tryd21q5y05v63ptkwkw) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 1905 🔖 #llm, #try, #claude 🗓️ 2026-06-27
     > **Заметка:** Посмотрим для начала, насколько этот формат приживётся. Пока что встречаю первый пост про него.
     > **Резюме:** Open Knowledge Format (OKF) is a simple way to organize knowledge in Markdown files with YAML frontmatter that AI agents can read and humans can edit. It makes files easy to query and link, acting as shared semantic memory for projects without needing special software. OKF is a format, not a platform, so anyone can use it easily and it helps different tools work together.

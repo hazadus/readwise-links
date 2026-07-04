@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 57
+- Всего ссылок: 58
 
 ## Ссылки
 
+- [Fast is better than slow](https://dubroy.com/blog/fast-is-better-than-slow/) [📖](https://read.readwise.io/read/01kwkdpnksgedhs2t2sb9rfnp9) 👤 About 💬 1044 🔖 #softwarecraft 🗓️ 2026-07-03
+    > **Заметка:** Via JoyAndCuriosity Newsletter
+    > **Резюме:** Being fast is more important than being perfect because it helps you learn and improve quickly. Start tasks right away, share your work early, and avoid wasting time on small details. Work smart by doing only what’s needed and asking for help when you need it.
 - [The Conversation Is the Commit](https://aicoding.leaflet.pub/3mhxvpam4z22z) [📖](https://read.readwise.io/read/01kvw5hfg6efj4bz1daj2ces5m) 👤 The Phoenix Architecture 💬 1514 🔖 #llm-devimpact, #softwarecraft 🗓️ 2026-06-24
     > **Заметка:** Рассмотрена важная проблема. Причины создания и изменения кода нужно хранить рядом с ним. Нынешние системы контроля версий не идеально к этом приспособлены, но вполне можно использовать commit messages, PR descriptions, ADR-документы, обзоры архитектуры и т.п. Это уже лучше, чем ничего.
     > **Резюме:** Code alone doesn't show why or how decisions were made, so understanding it later is hard. When AI agents write code, the true source is the conversation that created it, not the code itself. To keep software clear and trustworthy, we must capture and version-control these conversations, not just the code.

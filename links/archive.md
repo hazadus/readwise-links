@@ -1,14 +1,24 @@
 # Архивные ссылки
 
-- Всего ссылок: 1772
+- Всего ссылок: 1779
 
 ## Ссылки
 
+- [Why share?](https://redfloatplane.lol/blog/17-why-share/) [📖](https://read.readwise.io/read/01kwkg917c8zfc602ck618ngsv) 👤 redfloatplane.lol 💬 1159 🗓️ 2026-07-03
+    > **Заметка:** Via JoyAndCuriosity Newsletter. Любопытная тема поста, но полностью не согласен с автором :).
+- [Code is Cheap(er)](https://htmx.org/essays/code-is-cheap/) [📖](https://read.readwise.io/read/01kwkf8azgdt2ays6jjeee2a0j) 👤 htmx.org 💬 874 🔖 #cognitivedebt, #llm-devimpact 🗓️ 2026-07-03
+    > **Заметка:** Via JoyAndCuriosity Newsletter
+- [rsync and outrage](https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0) [📖](https://read.readwise.io/read/01kwkdyqj646g51nc71kykz191) 👤 Andrew Tridgell 💬 1423 🔖 #foss, #llm-devimpact 🗓️ 2026-07-03
+    > **Заметка:** Via JoyAndCuriosity Newsletter. Мне нравится, как автор четко отстаивает своё решение в этом посте: да, я так сделал; сделал хорошо, и с полным пониманием процесса. Жаль только, что вообще приходится оправдываться.
+- [Fast is better than slow](https://dubroy.com/blog/fast-is-better-than-slow/) [📖](https://read.readwise.io/read/01kwkdpnksgedhs2t2sb9rfnp9) 👤 About 💬 1044 🔖 #softwarecraft 🗓️ 2026-07-03
+    > **Заметка:** Via JoyAndCuriosity Newsletter
 - [I'm Begging You to Leave Your AI Note-taker at Home](https://www.joanwestenberg.com/p/im-begging-you-to-leave-your-ai-note?utm_source=post-email-title&publication_id=7670699&post_id=204556195&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) [📖](https://read.readwise.io/read/01kwk8gr7sy0smp5y47x56dve6) 👤 JA Westenberg 💬 1254 🔖 #reflections 🗓️ 2026-07-03
 - [What To Learn To Be A Real Time Graphics Programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/) [📖](https://read.readwise.io/read/01kwgp1dxm1r82xqy3b0rt1byb) 👤 The blog at the bottom of the sea 💬 1338 🔖 #graphics 🗓️ 2026-07-02
     > **Заметка:** Via Social Digest 2026-07-02. Обожаю такие посты, сразу захотелось почитать упомянутый тут "“Ray Tracing in One Weekend”...
 - [Text AI watermarks will always be trivial to remove](https://seangoedecke.com/text-ai-watermarks/) [📖](https://read.readwise.io/read/01kwg6wq6crrqq9kjekmv5pg2t) 👤 seangoedecke.com RSS feed 💬 2047 🗓️ 2026-07-02
     > **Заметка:** Интересная техническая проблема! Любопытно, как в итоге её решат провайдеры.
+- [stop asking writers about "AI"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/) [📖](https://read.readwise.io/read/01kwerfqqszysnhnjdkxyfa3b0) 👤 Benjamin Hollon 💬 1705 🔖 #llm, #writing, #reflections, #llm-resistance 🗓️ 2026-07-01
+    > **Заметка:** Via Social Digest 2026-07-01
 - [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html) [📖](https://read.readwise.io/read/01kw9hbdc7yzg4tnkj8avkey83) 👤 inessential.com 💬 598 🔖 #reflections 🗓️ 2026-06-29
     > **Заметка:** Via Simon WIllison. Импонирует, как автор, "выйдя на пенсию", посвятил своё время совершенствованию свого старого приложения NetNewsWire. Остаётся только позавидовать его энергии и позитивному настрою, и брать пример!
 - [On the edge of burnout](https://cassidoo.co/post/edge-of-burnout/) [📖](https://read.readwise.io/read/01kw6x05dyj6qypxgpa1mc1s7d) 👤 Cassidy Williams 💬 265 🔖 #burnout, #reflections 🗓️ 2026-06-28
@@ -29,6 +39,8 @@
 - [Production Is a Compiler Input](https://aicoding.leaflet.pub/3mjx4erlboc2l) [📖](https://read.readwise.io/read/01kvw5hfc1jy6y6t8pdqa7kdqe) 👤 The Phoenix Architecture 💬 941 🔖 #observability, #softwarecraft 🗓️ 2026-06-24
     > **Заметка:** Интересно. "Производство" - это где живет приложение, там подтвержаются предположения, сделанные при разработке. И "правда о производстве" должна поступать на вход при разработке/генерации софта, чтобы он был корректным и актуальным. Мне нравится идея.
 - [The Implementation Remembers](https://aicoding.leaflet.pub/3mobohx4fq22x) [📖](https://read.readwise.io/read/01kvw5hf9n1n3rcs61d78xtabm) 👤 The Phoenix Architecture 💬 307 🔖 #softwarecraft 🗓️ 2026-06-24
+- [It’s Only When You Look Back](https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/) [📖](https://read.readwise.io/read/01kvtt0m2cagkxeb0qk7swytd4) 👤 Mark Dastmalchi-Round 💬 5508 🔖 #reflections 🗓️ 2026-06-23
+    > **Заметка:** Многое про что он пишет, я в своё время видел только в журналах :) Но приятно повспоминать и о своих первых встречах с ПК и новыми технологиями. Отличный пост.
 - [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/) [📖](https://read.readwise.io/read/01kvt16x8zwvp4r5dbj9gsefx6) 👤 Armin Ronacher 💬 2716 🔖 #predictions, #llm-devimpact 🗓️ 2026-06-23
     > **Заметка:** Армин рассматривает проблематику внедрения LLM в разработку с точки зрения внешних агентских циклов (harness loops). Как всегда, глубоко. Стоит взять эту тему на карандаш.
 - [Stop, don’t Slop](http://willmcgugan.github.io/stop-dont-slop/) [📖](https://read.readwise.io/read/01kvsjdxmzcb2msqt8khmqnbr5) 👤 Will McGugan 💬 502 🔖 #foss, #llm-devimpact 🗓️ 2026-06-23
@@ -63,6 +75,7 @@
     > **Заметка:** Отлично! Вместо нытья, что LLM - плохо и приводят к снижению качества ПО, можно придумать такие вот решения, потенциально приводящие к обратному!
 - [Communities of Not](https://lucumr.pocoo.org/2026/6/6/communities-of-not/) [📖](https://read.readwise.io/read/01kterke2avrfcxekezkzb2qff) 👤 Armin Ronacher 💬 438 🗓️ 2026-06-06
     > **Заметка:** Очень правильно: взгляды могут быть разные (в любых сферах), но не нужно делать из оппонентов врагов. Пересекается с последними постами Charity Majors.
+- [The Intent Debt](https://addyosmani.com/blog/intent-debt/) [📖](https://read.readwise.io/read/01ktdd7n1t4nztd0twq75mkr93) 👤 Addy Osmani 💬 1785 🔖 #intentdebt, #definitions, #cognitivedebt, #llm-devimpact 🗓️ 2026-06-06
 - [I tested every IP KVM in my Homelab](https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/) [📖](https://read.readwise.io/read/01ktc2j6zm0t2vrsw26rdsn4v3) 👤 jeff@jeffgeerling.com (Jeff Geerling) 💬 3209 🔖 #homelab 🗓️ 2026-06-05
     > **Заметка:** Любопытный класс девайсов, не знал о таком! Но просто для "баловства" дороговато.
 - [A Car Crash In Slow Motion](https://codemanship.wordpress.com/2026/06/04/a-car-crash-in-slow-motion/) [📖](https://read.readwise.io/read/01kt9g5hjy7yekzpve15z1j8yx) 👤 codemanship 💬 2071 🔖 #reflections 🗓️ 2026-06-04

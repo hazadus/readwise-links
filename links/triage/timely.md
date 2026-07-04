@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-07-03 06:44 UTC · Статей: 23
+Сгенерировано: 2026-07-04 06:31 UTC · Статей: 22
 
 ## Статьи
 
@@ -54,8 +54,6 @@ Open source maintainers should focus on practical, small- to medium-scale projec
 - [My audio interface has ssh enabled by default](https://hhh.hn/rodecaster-duo-fw/) [📖](https://read.readwise.io/read/01kq1zx0r4n33srh7vqaawdkzh) 👤 hhh.hn 💬 933 ⭐ 2 🗓️ 2026-04-25
     > **Заметка:** Via HackerNews
     > **Резюме:** The author bought a Rodecaster Duo for better audio during gaming and found it easy to use. They discovered the device has SSH enabled by default and allows easy firmware updates without signature checks. The author created custom firmware to access the device via SSH and reported the security concern to Rode.
-- [In defense of AI mandates](https://charitydotwtf.substack.com/p/in-defense-of-ai-mandates) [📖](https://read.readwise.io/read/01kwj7x8gbyc3twdz7gkacncpg) 👤 Charity Majors 💬 842 ⭐ 2 🗓️ 2026-07-02
-    > **Резюме:** Mandates are necessary to fund and support big changes like adopting AI in a company. Without a clear mandate, employees won’t prioritize learning new skills, and progress will stall. Leaders must decide if AI is important and back that decision with real resources and honesty.
 - [The University In The AI Era](https://htmx.org/essays/universities-and-ai/) [📖](https://read.readwise.io/read/01kw54zcm3196kc0he9yd3mkrt) 👤 htmx.org 💬 717 ⭐ 2 🔖 #learning, #llm-devimpact 🗓️ 2026-06-27
     > **Заметка:** Via Social Digest
     > **Резюме:** The author suggests combining computer science with other majors to help more students learn useful tech skills. They also propose using special computer labs and oral exams to better check students’ true abilities. These changes can keep universities important even as AI grows and changes how we learn.

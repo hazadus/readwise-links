@@ -1,11 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 31
+- Всего ссылок: 32
 
 ## Ссылки
 
 - [I'm Begging You to Leave Your AI Note-taker at Home](https://www.joanwestenberg.com/p/im-begging-you-to-leave-your-ai-note?utm_source=post-email-title&publication_id=7670699&post_id=204556195&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) [📖](https://read.readwise.io/read/01kwk8gr7sy0smp5y47x56dve6) 👤 JA Westenberg 💬 1254 🔖 #reflections 🗓️ 2026-07-03
     > **Резюме:** Bringing AI note-takers to casual, face-to-face talks makes people feel watched and less free to speak openly. These devices turn private, relaxed moments into permanent records, hurting genuine connection. We need new social rules that protect some conversations from constant recording.
+- [stop asking writers about "AI"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/) [📖](https://read.readwise.io/read/01kwerfqqszysnhnjdkxyfa3b0) 👤 Benjamin Hollon 💬 1705 🔖 #llm, #writing, #reflections, #llm-resistance 🗓️ 2026-07-01
+    > **Заметка:** Via Social Digest 2026-07-01
+    > **Резюме:** The author is tired of people asking writers about AI because it makes them feel their work is not valued. They believe AI cannot replace human creativity and that real writers will keep creating no matter what. Instead of asking about AI, people should show interest by asking to read a writer’s work.
 - [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html) [📖](https://read.readwise.io/read/01kw9hbdc7yzg4tnkj8avkey83) 👤 inessential.com 💬 598 🔖 #reflections 🗓️ 2026-06-29
     > **Заметка:** Via Simon WIllison. Импонирует, как автор, "выйдя на пенсию", посвятил своё время совершенствованию свого старого приложения NetNewsWire. Остаётся только позавидовать его энергии и позитивному настрою, и брать пример!
     > **Резюме:** The author retired a year ago and spent the time improving NetNewsWire by fixing bugs and updating its technology. The app now runs better, uses less battery, and shows helpful error info to users. The work is almost done, thanks to many contributors, and support moved to a public forum for easier access.

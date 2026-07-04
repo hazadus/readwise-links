@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 145
+- Всего ссылок: 148
 
 ## Ссылки
 
+- [Code is Cheap(er)](https://htmx.org/essays/code-is-cheap/) [📖](https://read.readwise.io/read/01kwkf8azgdt2ays6jjeee2a0j) 👤 htmx.org 💬 874 🔖 #cognitivedebt, #llm-devimpact 🗓️ 2026-07-03
+    > **Заметка:** Via JoyAndCuriosity Newsletter
+    > **Резюме:** AI has made writing code much faster and cheaper, but understanding that code is now harder and more important. Developers should carefully review and simplify AI-generated code to avoid complexity and errors. The best engineers will focus on reducing unnecessary code and managing complexity, not just writing more code.
+- [rsync and outrage](https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0) [📖](https://read.readwise.io/read/01kwkdyqj646g51nc71kykz191) 👤 Andrew Tridgell 💬 1423 🔖 #foss, #llm-devimpact 🗓️ 2026-07-03
+    > **Заметка:** Via JoyAndCuriosity Newsletter. Мне нравится, как автор четко отстаивает своё решение в этом посте: да, я так сделал; сделал хорошо, и с полным пониманием процесса. Жаль только, что вообще приходится оправдываться.
+    > **Резюме:** Andrew Tridgell, the rsync maintainer, has faced many security reports recently and used AI tools to help improve rsync's test suite and security. He acknowledges some regressions in the latest release but is working to fix them with help from new developers. Despite online anger, he believes AI is useful and urges constructive feedback instead of criticism.
 - [The University In The AI Era](https://htmx.org/essays/universities-and-ai/) [📖](https://read.readwise.io/read/01kw54zcm3196kc0he9yd3mkrt) 👤 htmx.org 💬 717 🔖 #learning, #llm-devimpact 🗓️ 2026-06-27
     > **Заметка:** Via Social Digest
     > **Резюме:** The author suggests combining computer science with other majors to help more students learn useful tech skills. They also propose using special computer labs and oral exams to better check students’ true abilities. These changes can keep universities important even as AI grows and changes how we learn.
@@ -57,6 +63,8 @@ Yet, there is a tradeoff between quality and time, in the case of writing new so
 Traditionally software is tested using test suites that are composed of locally-scoped tests and integration tests (think of Redis: one thing is testing if SET foo 10 will be matched by GET foo => 10, another thing is testing if replication works in this case). And then by QA passes that are usually manually executed, and that can capture holes in the runnable test suite. It is a known fact that covering all the lines of the code does not mean covering all the possible states. Moreover integration testing is structurally hard: there are a number of timing issues, setups, and certain quality outputs that can only be visually inspected and not automatically checked that leave a lot of testing opportunities not really exploited because of time or logistic constraints.
 
 LLMs offer a new way to do QA on top of the existing testing methodologies. The idea is to create a markdown file where an AI agent is asked to work as a QA engineer, performing a number of manual testings on the new release. For instance, in the case of DwarfStar (an inference engine for open weights LLMs) I use this approach. In the markdown file, the agent is asked to che...
+- [The Intent Debt](https://addyosmani.com/blog/intent-debt/) [📖](https://read.readwise.io/read/01ktdd7n1t4nztd0twq75mkr93) 👤 Addy Osmani 💬 1785 🔖 #intentdebt, #definitions, #cognitivedebt, #llm-devimpact 🗓️ 2026-06-06
+    > **Резюме:** Intent debt is the missing explanation of why software was built a certain way, and it lives in unwritten goals and decisions. Unlike technical and cognitive debt, AI agents cannot fix intent debt because they don’t know the true reasons behind choices. To reduce intent debt, teams must write down their goals and decisions clearly so both humans and AI can understand the system’s purpose.
 - [Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) [📖](https://read.readwise.io/read/01kt8htz0wj55q2z8rj1sve36n) 👤 seangoedecke.com RSS feed 💬 1787 🔖 #llm-devimpact 🗓️ 2026-06-04
     > **Резюме:** Some people who dislike AI want to return to the old way of programming, but this nostalgia can mirror harmful ideas from the past. The author warns that such thinking can echo fascist beliefs about tradition and purity. However, AI also helps many people, and it’s important to see both its good and bad sides.
 - [Surviving in the "chaos management" era](https://newsletter.manager.dev/p/surviving-in-the-chaos-management-era) [📖](https://read.readwise.io/read/01kt3g8r4jmfy5j17h09m9zd2s) 👤 Anton Zaides 💬 1237 🔖 #management, #llm-devimpact 🗓️ 2026-06-02

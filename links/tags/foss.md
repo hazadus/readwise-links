@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [rsync and outrage](https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0) [📖](https://read.readwise.io/read/01kwkdyqj646g51nc71kykz191) 👤 Andrew Tridgell 💬 1423 🔖 #foss, #llm-devimpact 🗓️ 2026-07-03
+    > **Заметка:** Via JoyAndCuriosity Newsletter. Мне нравится, как автор четко отстаивает своё решение в этом посте: да, я так сделал; сделал хорошо, и с полным пониманием процесса. Жаль только, что вообще приходится оправдываться.
+    > **Резюме:** Andrew Tridgell, the rsync maintainer, has faced many security reports recently and used AI tools to help improve rsync's test suite and security. He acknowledges some regressions in the latest release but is working to fix them with help from new developers. Despite online anger, he believes AI is useful and urges constructive feedback instead of criticism.
 - [Stop, don’t Slop](http://willmcgugan.github.io/stop-dont-slop/) [📖](https://read.readwise.io/read/01kvsjdxmzcb2msqt8khmqnbr5) 👤 Will McGugan 💬 502 🔖 #foss, #llm-devimpact 🗓️ 2026-06-23
     > **Заметка:** Ещё одно взвешенное и четкое мнение от опытного мейнтейнера FOSS по поводу LLM-contributions: они не нужны!
     > **Резюме:** You find a bug in an Open Source project and generously wish to spend your tokens on solving that issue for the good of humanity. Your fingers hover over the keyboard, trembling in anticipation of the glorious prompt that will unblock your fellow developers. Before you type “FIx issue X make no mistaks” Stop!

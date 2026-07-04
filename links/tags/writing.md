@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 34
+- Всего ссылок: 35
 
 ## Ссылки
 
+- [stop asking writers about "AI"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/) [📖](https://read.readwise.io/read/01kwerfqqszysnhnjdkxyfa3b0) 👤 Benjamin Hollon 💬 1705 🔖 #llm, #writing, #reflections, #llm-resistance 🗓️ 2026-07-01
+    > **Заметка:** Via Social Digest 2026-07-01
+    > **Резюме:** The author is tired of people asking writers about AI because it makes them feel their work is not valued. They believe AI cannot replace human creativity and that real writers will keep creating no matter what. Instead of asking about AI, people should show interest by asking to read a writer’s work.
 - [Saying the obvious thing](https://seangoedecke.com/saying-the-obvious-thing/) [📖](https://read.readwise.io/read/01kw4a081m97ctsr72gw31585s) 👤 seangoedecke.com RSS feed 💬 865 🔖 #writing 🗓️ 2026-06-27
     > **Заметка:** Смотрю Шону понравился тот же пост с Hacker News, который я сохранил пару дней назад - https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/ :)
     > **Резюме:** Stating the obvious is surprisingly useful. Most of your knowledge lives below the threshold of conscious awareness, so it’s possible for a piece of writing to remind you of what you already know. It’s common to know you don’t like something without being quite sure why, and reading an obvious statement (such as “accuracy matters, even when you agree with the broad strokes”) can help clarify why you find certain things distasteful.
