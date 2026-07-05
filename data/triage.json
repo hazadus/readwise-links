@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-07-04T06:31:51.152848+00:00",
+  "generated_at": "2026-07-05T06:52:53.289950+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
+      {
+        "id": "01kv4ah99zrk7pq0qxmt2v7ty8",
+        "url": "https://read.readwise.io/read/01kv4ah99zrk7pq0qxmt2v7ty8",
+        "source_url": "https://addyosmani.com/blog/agentic-code-review/",
+        "title": "Agentic Code Review",
+        "author": "Addy Osmani",
+        "image_url": "https://addyosmani.com/assets/images/favicons/android-chrome-192x192.png",
+        "word_count": 4811,
+        "summary": "AI generates code faster but creates more issues, making review the slowest and costliest part of development. Human reviewers must spend more time understanding AI-written code since it lacks clear reasoning. Teams should focus on using AI to handle simple checks and save human effort for critical reviews where mistakes matter most.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-15T00:22:33.095000+00:00",
+        "last_moved_at": "2026-06-30T11:48:59.258000+00:00",
+        "published_date": "2026-06-14",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
       {
         "id": "01krawm8vtgybxg8dnpeqcwj2j",
         "url": "https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j",
@@ -545,34 +567,6 @@
           "is_evergreen": false,
           "interest_score": 7
         }
-      },
-      {
-        "id": "01k1sq2twnr81ds7s9twvd6kx2",
-        "url": "https://read.readwise.io/read/01k1sq2twnr81ds7s9twvd6kx2",
-        "source_url": "https://getpid.dev/blog/tls-certificates/",
-        "title": "Issuing TLS Certificates in Go",
-        "author": "Software Engineering & Personal Thoughts",
-        "image_url": "https://getpid.dev/images/certificates.svg",
-        "word_count": 1511,
-        "summary": "This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.",
-        "notes": "",
-        "tags": {
-          "go": {
-            "name": "Go",
-            "type": "manual",
-            "created": 1754775350832
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-08-04T04:57:49.717000+00:00",
-        "last_moved_at": "2025-08-09T21:36:00.745000+00:00",
-        "published_date": "2025-08-01",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 7
-        }
       }
     ],
     "shortest": [
@@ -729,6 +723,28 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 3
+        }
+      },
+      {
+        "id": "01kwf3vq5ta0d14r9cgg79611m",
+        "url": "https://read.readwise.io/read/01kwf3vq5ta0d14r9cgg79611m",
+        "source_url": "https://evilmartians.com/chronicles/ai-vs-human-illustrators-ai-plus-human-illustrators",
+        "title": "AI vs. human illustrators? AI + human illustrators!",
+        "author": "Travis Turner (richardturner@evilmartians.com)",
+        "image_url": "https://evilmartians.com/static/eae8e0991dc02e08f2098f42113cc446/cover.png?v=9ec03039",
+        "word_count": 1614,
+        "summary": "Evil Martians tried using AI alone to create blog illustrations but found many problems with quality and consistency. They now use a mix of AI and human illustrators, where AI does most work and humans finish the details. This hybrid approach saves time, lowers costs, and improves the final images.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-01T15:13:15.523000+00:00",
+        "last_moved_at": "2026-07-03T06:03:40.994000+00:00",
+        "published_date": "2026-07-01",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
         }
       },
       {
@@ -1316,6 +1332,28 @@
         }
       },
       {
+        "id": "01kv4ah99zrk7pq0qxmt2v7ty8",
+        "url": "https://read.readwise.io/read/01kv4ah99zrk7pq0qxmt2v7ty8",
+        "source_url": "https://addyosmani.com/blog/agentic-code-review/",
+        "title": "Agentic Code Review",
+        "author": "Addy Osmani",
+        "image_url": "https://addyosmani.com/assets/images/favicons/android-chrome-192x192.png",
+        "word_count": 4811,
+        "summary": "AI generates code faster but creates more issues, making review the slowest and costliest part of development. Human reviewers must spend more time understanding AI-written code since it lacks clear reasoning. Teams should focus on using AI to handle simple checks and save human effort for critical reviews where mistakes matter most.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-15T00:22:33.095000+00:00",
+        "last_moved_at": "2026-06-30T11:48:59.258000+00:00",
+        "published_date": "2026-06-14",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
         "id": "01jr0kw78dv3cjfds3t8dqfrfr",
         "url": "https://read.readwise.io/read/01jr0kw78dv3cjfds3t8dqfrfr",
         "source_url": "https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code",
@@ -1340,62 +1378,6 @@
           "is_tutorial": false,
           "is_foundational": false,
           "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kjnjanqgfzsvenqw6d62rxqv",
-        "url": "https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv",
-        "source_url": "https://minimaxir.com/2026/02/ai-agent-coding/",
-        "title": "An AI agent coding skeptic tries AI agent coding, in excessive detail",
-        "author": "Max Woolf's Blog",
-        "image_url": "https://minimaxir.com/2026/02/ai-agent-coding/featured.png",
-        "word_count": 6903,
-        "summary": "The author tested AI coding agents and found them surprisingly good at writing and optimizing Rust and Python code. These agents created fast, efficient machine learning tools that rival existing libraries. The author encourages others to try modern agents with clear coding guidelines for better results.",
-        "notes": "Via https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1772397886204
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-01T20:44:36.976000+00:00",
-        "last_moved_at": "2026-03-01T20:44:42.974000+00:00",
-        "published_date": "2026-02-27",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kba5sc2x0n5x2dqqrxvsnbh9",
-        "url": "https://read.readwise.io/read/01kba5sc2x0n5x2dqqrxvsnbh9",
-        "source_url": "https://ciechanow.ski/mechanical-watch/?utm_source=substack&utm_medium=email",
-        "title": "Mechanical Watch",
-        "author": "Bartosz Ciechanowski",
-        "image_url": "https://ciechanow.ski/images/og/watch.png",
-        "word_count": 7982,
-        "summary": "A mechanical watch keeps time using a few key parts: a mainspring, gears, an escapement, and a balance wheel. The mainspring stores energy that travels through gear trains to drive the hands while the escapement and balance wheel regulate the speed. Additional mechanisms let you wind, set the time, and protect the movement from shocks.",
-        "notes": "",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1764499445347
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-11-30T10:43:55.613000+00:00",
-        "last_moved_at": "2025-12-01T05:41:18.495000+00:00",
-        "published_date": "2022-05-04",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
           "interest_score": 2
         }
       }
@@ -1552,6 +1534,28 @@
       }
     ],
     "deep_reading": [
+      {
+        "id": "01kv4ah99zrk7pq0qxmt2v7ty8",
+        "url": "https://read.readwise.io/read/01kv4ah99zrk7pq0qxmt2v7ty8",
+        "source_url": "https://addyosmani.com/blog/agentic-code-review/",
+        "title": "Agentic Code Review",
+        "author": "Addy Osmani",
+        "image_url": "https://addyosmani.com/assets/images/favicons/android-chrome-192x192.png",
+        "word_count": 4811,
+        "summary": "AI generates code faster but creates more issues, making review the slowest and costliest part of development. Human reviewers must spend more time understanding AI-written code since it lacks clear reasoning. Teams should focus on using AI to handle simple checks and save human effort for critical reviews where mistakes matter most.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-15T00:22:33.095000+00:00",
+        "last_moved_at": "2026-06-30T11:48:59.258000+00:00",
+        "published_date": "2026-06-14",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
       {
         "id": "01ktttmvkt8cp8d9mgx591w0fz",
         "url": "https://read.readwise.io/read/01ktttmvkt8cp8d9mgx591w0fz",
@@ -2682,6 +2686,28 @@
           "is_tutorial": false,
           "is_foundational": true,
           "is_evergreen": true,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kwf3vq5ta0d14r9cgg79611m",
+        "url": "https://read.readwise.io/read/01kwf3vq5ta0d14r9cgg79611m",
+        "source_url": "https://evilmartians.com/chronicles/ai-vs-human-illustrators-ai-plus-human-illustrators",
+        "title": "AI vs. human illustrators? AI + human illustrators!",
+        "author": "Travis Turner (richardturner@evilmartians.com)",
+        "image_url": "https://evilmartians.com/static/eae8e0991dc02e08f2098f42113cc446/cover.png?v=9ec03039",
+        "word_count": 1614,
+        "summary": "Evil Martians tried using AI alone to create blog illustrations but found many problems with quality and consistency. They now use a mix of AI and human illustrators, where AI does most work and humans finish the details. This hybrid approach saves time, lowers costs, and improves the final images.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-01T15:13:15.523000+00:00",
+        "last_moved_at": "2026-07-03T06:03:40.994000+00:00",
+        "published_date": "2026-07-01",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
           "interest_score": 2
         }
       }
@@ -3955,6 +3981,28 @@
     ],
     "timely": [
       {
+        "id": "01kv4ah99zrk7pq0qxmt2v7ty8",
+        "url": "https://read.readwise.io/read/01kv4ah99zrk7pq0qxmt2v7ty8",
+        "source_url": "https://addyosmani.com/blog/agentic-code-review/",
+        "title": "Agentic Code Review",
+        "author": "Addy Osmani",
+        "image_url": "https://addyosmani.com/assets/images/favicons/android-chrome-192x192.png",
+        "word_count": 4811,
+        "summary": "AI generates code faster but creates more issues, making review the slowest and costliest part of development. Human reviewers must spend more time understanding AI-written code since it lacks clear reasoning. Teams should focus on using AI to handle simple checks and save human effort for critical reviews where mistakes matter most.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-15T00:22:33.095000+00:00",
+        "last_moved_at": "2026-06-30T11:48:59.258000+00:00",
+        "published_date": "2026-06-14",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
         "id": "01ktttmvkt8cp8d9mgx591w0fz",
         "url": "https://read.readwise.io/read/01ktttmvkt8cp8d9mgx591w0fz",
         "source_url": "https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/",
@@ -4415,6 +4463,28 @@
         "saved_at": "2026-04-13T12:14:46.006000+00:00",
         "last_moved_at": "2026-04-13T12:14:57.079000+00:00",
         "published_date": "2026-04-01",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kwf3vq5ta0d14r9cgg79611m",
+        "url": "https://read.readwise.io/read/01kwf3vq5ta0d14r9cgg79611m",
+        "source_url": "https://evilmartians.com/chronicles/ai-vs-human-illustrators-ai-plus-human-illustrators",
+        "title": "AI vs. human illustrators? AI + human illustrators!",
+        "author": "Travis Turner (richardturner@evilmartians.com)",
+        "image_url": "https://evilmartians.com/static/eae8e0991dc02e08f2098f42113cc446/cover.png?v=9ec03039",
+        "word_count": 1614,
+        "summary": "Evil Martians tried using AI alone to create blog illustrations but found many problems with quality and consistency. They now use a mix of AI and human illustrators, where AI does most work and humans finish the details. This hybrid approach saves time, lowers costs, and improves the final images.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-01T15:13:15.523000+00:00",
+        "last_moved_at": "2026-07-03T06:03:40.994000+00:00",
+        "published_date": "2026-07-01",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

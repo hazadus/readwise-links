@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 32
+- Всего ссылок: 33
 
 ## Ссылки
 
+- [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kwpmv6cr64j0d24p6jsdnzky) 👤 the human in the loop 💬 1738 🔖 #career, #reflections, #llm-devimpact 🗓️ 2026-07-04
+    > **Заметка:** Via JoyAndCuriosity Newsletter. Прекрасный пост, всё очень хладнокровно разложено по полочкам. Хотя вызывает только грусть... Продолжение в https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/
+    > **Резюме:** The author is a software engineer who feels their specialized skills are becoming less valuable because AI tools can now do much of their work. They worry that even their expertise in debugging and code quality is being replaced by advanced AI. The author is unsure how to stay employable in the future and considers changing careers or learning new skills.
 - [I'm Begging You to Leave Your AI Note-taker at Home](https://www.joanwestenberg.com/p/im-begging-you-to-leave-your-ai-note?utm_source=post-email-title&publication_id=7670699&post_id=204556195&utm_campaign=email-post-title&isFreemail=true&r=2bvz41&triedRedirect=true&utm_medium=email) [📖](https://read.readwise.io/read/01kwk8gr7sy0smp5y47x56dve6) 👤 JA Westenberg 💬 1254 🔖 #reflections 🗓️ 2026-07-03
     > **Резюме:** Bringing AI note-takers to casual, face-to-face talks makes people feel watched and less free to speak openly. These devices turn private, relaxed moments into permanent records, hurting genuine connection. We need new social rules that protect some conversations from constant recording.
 - [stop asking writers about "AI"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/) [📖](https://read.readwise.io/read/01kwerfqqszysnhnjdkxyfa3b0) 👤 Benjamin Hollon 💬 1705 🔖 #llm, #writing, #reflections, #llm-resistance 🗓️ 2026-07-01

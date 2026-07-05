@@ -2,7 +2,7 @@
 
 _Короткие статьи (не туториалы, не основы), отсортированные по объёму_
 
-Сгенерировано: 2026-07-04 06:31 UTC · Статей: 30
+Сгенерировано: 2026-07-05 06:52 UTC · Статей: 30
 
 ## Статьи
 
@@ -22,6 +22,8 @@ _Короткие статьи (не туториалы, не основы), о�
     > **Резюме:** 2025 was a productive year: I wrote 38 articles, grew site traffic a lot, and released several open-source Django projects. In November my girlfriend and her daughter were in a serious car crash, so I’ve been caring for them and our dog. I started using AI cautiously, did freelance work for Sound Radix, and enjoyed trips, concerts, and games.
 - [From Senior Engineer to Staff, with Angelic Assistance](https://davegriffith.substack.com/p/from-senior-engineer-to-staff-with) [📖](https://read.readwise.io/read/01ke9z29ytbhqp25karjrhxfb6) 👤 Dave Griffith 💬 1460 ⭐ 3 🗓️ 2026-01-06
     > **Резюме:** Dave Griffith argues that moving from senior to staff engineer requires three deliberate skills: deep expertise, visible impact, and intentional planning. Agentic AI tools now let engineers learn far faster, produce clearer evidence of their work, and build smarter promotion plans. He’s testing this playbook in real time and will share practical tactics in a series of posts.
+- [AI vs. human illustrators? AI + human illustrators!](https://evilmartians.com/chronicles/ai-vs-human-illustrators-ai-plus-human-illustrators) [📖](https://read.readwise.io/read/01kwf3vq5ta0d14r9cgg79611m) 👤 Travis Turner (richardturner@evilmartians.com) 💬 1614 ⭐ 2 🗓️ 2026-07-01
+    > **Резюме:** Evil Martians tried using AI alone to create blog illustrations but found many problems with quality and consistency. They now use a mix of AI and human illustrators, where AI does most work and humans finish the details. This hybrid approach saves time, lowers costs, and improves the final images.
 - [Rewriting the world in Rust](https://bitfieldconsulting.com/posts/rewrite-in-rust) [📖](https://read.readwise.io/read/01kvswppy9118grz6qtn39x89d) 👤 John Arundel 💬 1976 ⭐ 3 🔖 #rust 🗓️ 2026-06-23 · 🌲 вечнозелёное
     > **Резюме:** Rust is a modern language that improves software security by preventing many memory and concurrency bugs. Rewriting all old code in Rust is very hard, and automatic translation does not create good Rust programs. Instead, gradually replacing parts with Rust and redesigning code step-by-step is a more practical and effective approach.
 - [USB in a NutShell](https://www.beyondlogic.org/usbnutshell/usb1.shtml) [📖](https://read.readwise.io/read/01kpzrr28fjd6a6pknn9d5hvt5) 👤 beyondlogic.org 💬 2022 ⭐ 3 🔖 #usb 🗓️ 2026-04-24 · 🌲 вечнозелёное
@@ -68,11 +70,8 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** Markdown started as a simple way to make writing on the internet easier without needing complicated code. Many people liked it and began using it everywhere, from blogs to apps like Microsoft Notepad and Apple Notes. Its success shows how open, easy ideas can grow big and change how we share information online.
 - [Understanding the Go Runtime: The Network Poller](https://internals-for-interns.com/posts/go-netpoller/?utm_source=christophberger&utm_medium=email&utm_campaign=2026-04-26-not-magic) [📖](https://read.readwise.io/read/01kqehj6aqfvy5ftqn9fatzj8q) 👤 Jesús Espino 💬 4703 ⭐ 2 🔖 #go 🗓️ 2026-04-30 · 🌲 вечнозелёное
     > **Резюме:** Go’s runtime manages network I/O by asking the kernel if data is ready and putting goroutines to sleep instead of blocking OS threads. When data arrives, the kernel notifies the runtime, which wakes the right goroutine to continue work. This system lets Go efficiently handle many network tasks without wasting threads.
+- [Agentic Code Review](https://addyosmani.com/blog/agentic-code-review/) [📖](https://read.readwise.io/read/01kv4ah99zrk7pq0qxmt2v7ty8) 👤 Addy Osmani 💬 4811 ⭐ 9 🗓️ 2026-06-15
+    > **Резюме:** AI generates code faster but creates more issues, making review the slowest and costliest part of development. Human reviewers must spend more time understanding AI-written code since it lacks clear reasoning. Teams should focus on using AI to handle simple checks and save human effort for critical reviews where mistakes matter most.
 - [Celebrating 50 years of Microsoft | Bill Gates](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code) [📖](https://read.readwise.io/read/01jr0kw78dv3cjfds3t8dqfrfr) 👤 Bill Gates 💬 5503 ⭐ 2 🔖 #shortlist 🗓️ 2025-04-04
     > **Заметка:** https://chatgpt.com/c/69441e02-9780-8329-87c1-3b4aef7af67d
     > **Резюме:** Bill Gates reflects on the 50th anniversary of Microsoft, starting with the creation of Altair BASIC in 1975. He shares his pride in how this early code led to a revolution in computing and the company's immense success. Gates also acknowledges the influential teachers who helped shape his journey into the world of technology.
-- [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) [📖](https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv) 👤 Max Woolf's Blog 💬 6903 ⭐ 8 🔖 #llm 🗓️ 2026-03-01
-    > **Заметка:** Via https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything
-    > **Резюме:** The author tested AI coding agents and found them surprisingly good at writing and optimizing Rust and Python code. These agents created fast, efficient machine learning tools that rival existing libraries. The author encourages others to try modern agents with clear coding guidelines for better results.
-- [Mechanical Watch](https://ciechanow.ski/mechanical-watch/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kba5sc2x0n5x2dqqrxvsnbh9) 👤 Bartosz Ciechanowski 💬 7982 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2025-11-30 · 🌲 вечнозелёное
-    > **Резюме:** A mechanical watch keeps time using a few key parts: a mainspring, gears, an escapement, and a balance wheel. The mainspring stores energy that travels through gear trains to drive the hands while the escapement and balance wheel regulate the speed. Additional mechanisms let you wind, set the time, and protect the movement from shocks.

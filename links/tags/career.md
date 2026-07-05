@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 79
+- Всего ссылок: 80
 
 ## Ссылки
 
+- [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kwpmv6cr64j0d24p6jsdnzky) 👤 the human in the loop 💬 1738 🔖 #career, #reflections, #llm-devimpact 🗓️ 2026-07-04
+    > **Заметка:** Via JoyAndCuriosity Newsletter. Прекрасный пост, всё очень хладнокровно разложено по полочкам. Хотя вызывает только грусть... Продолжение в https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/
+    > **Резюме:** The author is a software engineer who feels their specialized skills are becoming less valuable because AI tools can now do much of their work. They worry that even their expertise in debugging and code quality is being replaced by advanced AI. The author is unsure how to stay employable in the future and considers changing careers or learning new skills.
 - [Working with product managers](https://seangoedecke.com/working-with-product-managers/) [📖](https://read.readwise.io/read/01ktkg84qdqqnzsv71bmcdqqk5) 👤 seangoedecke.com RSS feed 💬 2143 🔖 #career 🗓️ 2026-06-08
     > **Заметка:** По делу пишет Шон: вроде очевидные вещи, но если у тебя уже богатый жизненный опыт. И даже в этом случае ещё раз обдумать эти моменты. 
     > **Резюме:** Engineers and product managers often struggle to understand each other because they have different skills and priorities. Building trust is hard but important, as product managers hold key information and influence. Good relationships help teams succeed, while conflict usually leads to problems.

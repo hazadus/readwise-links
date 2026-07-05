@@ -1,9 +1,12 @@
 # Отложенные ссылки
 
-- Всего ссылок: 69
+- Всего ссылок: 70
 
 ## Ссылки
 
+- [Goodbye, forever, probably.](https://whitep4nth3r.com/blog/goodbye-forever-probably/) [📖](https://read.readwise.io/read/01kwpt8ygxm6hpvcyv4svnz82t) 👤 whitep4nth3r.com 💬 2671 🗓️ 2026-07-04
+    > **Заметка:** Via Simon Willison
+    > **Резюме:** The author has retired from developer relations after years of burnout and industry changes. They no longer find value in teaching tech as the field shifts with AI and new trends. Now, they look forward to a quieter role as a staff engineer and rebuilding themselves away from the spotlight.
 - [From Technical Debt to Cognitive and Intent Debt](https://arxiv.org/pdf/2603.22106) [📖](https://read.readwise.io/read/01kwkh7aexga4sckh7pjnfyegh) 👤 arxiv.org 💬 4940 🗓️ 2026-07-03
     > **Резюме:** Software development now faces three kinds of debt: technical debt (messy code), cognitive debt (lost shared understanding), and intent debt (unclear goals). Generative AI speeds up coding but can worsen cognitive and intent debt by reducing team understanding and clarity. To stay healthy, software teams must focus as much on clear intent and shared knowledge as on code quality.
 - [AI vs. human illustrators? AI + human illustrators!](https://evilmartians.com/chronicles/ai-vs-human-illustrators-ai-plus-human-illustrators) [📖](https://read.readwise.io/read/01kwf3vq5ta0d14r9cgg79611m) 👤 Travis Turner (richardturner@evilmartians.com) 💬 1614 🗓️ 2026-07-01

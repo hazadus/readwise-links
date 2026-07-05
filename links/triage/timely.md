@@ -2,10 +2,12 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-07-04 06:31 UTC · Статей: 22
+Сгенерировано: 2026-07-05 06:52 UTC · Статей: 24
 
 ## Статьи
 
+- [Agentic Code Review](https://addyosmani.com/blog/agentic-code-review/) [📖](https://read.readwise.io/read/01kv4ah99zrk7pq0qxmt2v7ty8) 👤 Addy Osmani 💬 4811 ⭐ 9 🗓️ 2026-06-15
+    > **Резюме:** AI generates code faster but creates more issues, making review the slowest and costliest part of development. Human reviewers must spend more time understanding AI-written code since it lacks clear reasoning. Teams should focus on using AI to handle simple checks and save human effort for critical reviews where mistakes matter most.
 - [Vibe Coding Is Dangerous, Agentic Engineering Isn't—Wes McKinney](https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/) [📖](https://read.readwise.io/read/01ktttmvkt8cp8d9mgx591w0fz) 👤 Simon Späti 💬 2700 ⭐ 9 🗓️ 2026-06-11
     > **Резюме:** Wes McKinney uses careful planning and AI agents to write and review code, avoiding "vibe coding." He builds tools that help maintain projects and improve AI-driven development. Wes believes strong specs and engineering skills are key for successful agentic engineering in the future.
 - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) [📖](https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv) 👤 Max Woolf's Blog 💬 6903 ⭐ 8 🔖 #llm 🗓️ 2026-03-01
@@ -48,6 +50,8 @@ Open source maintainers should focus on practical, small- to medium-scale projec
 - [“Conviction Collapse” and the End of Software as We Know It](https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h) 👤 Tim O’Reilly 💬 2092 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-04-13
     > **Заметка:** w./ Harper Reed!
     > **Резюме:** Software is no longer a fixed product but a flexible process that evolves through ongoing learning and creativity. AI and agentic coding let people build, adapt, and improve software like art or music. Success now depends on play, social interaction, and discovering new ways to create, not just on money or technology.
+- [AI vs. human illustrators? AI + human illustrators!](https://evilmartians.com/chronicles/ai-vs-human-illustrators-ai-plus-human-illustrators) [📖](https://read.readwise.io/read/01kwf3vq5ta0d14r9cgg79611m) 👤 Travis Turner (richardturner@evilmartians.com) 💬 1614 ⭐ 2 🗓️ 2026-07-01
+    > **Резюме:** Evil Martians tried using AI alone to create blog illustrations but found many problems with quality and consistency. They now use a mix of AI and human illustrators, where AI does most work and humans finish the details. This hybrid approach saves time, lowers costs, and improves the final images.
 - [2025 in review](https://www.loopwerk.io/articles/2025/2025-in-review/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) [📖](https://read.readwise.io/read/01kczwvew6dftm8phypwzjqxd2) 👤 Kevin Renskers 💬 1411 ⭐ 2 🔖 #shortlist 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/69479f95-3aa4-8328-8855-b64bb19cc6d2
     > **Резюме:** 2025 was a productive year: I wrote 38 articles, grew site traffic a lot, and released several open-source Django projects. In November my girlfriend and her daughter were in a serious car crash, so I’ve been caring for them and our dog. I started using AI cautiously, did freelance work for Sound Radix, and enjoyed trips, concerts, and games.

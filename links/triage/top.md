@@ -2,10 +2,12 @@
 
 _20 статей с наивысшим interest_score_
 
-Сгенерировано: 2026-07-04 06:31 UTC · Статей: 20
+Сгенерировано: 2026-07-05 06:52 UTC · Статей: 20
 
 ## Статьи
 
+- [Agentic Code Review](https://addyosmani.com/blog/agentic-code-review/) [📖](https://read.readwise.io/read/01kv4ah99zrk7pq0qxmt2v7ty8) 👤 Addy Osmani 💬 4811 ⭐ 9 🗓️ 2026-06-15
+    > **Резюме:** AI generates code faster but creates more issues, making review the slowest and costliest part of development. Human reviewers must spend more time understanding AI-written code since it lacks clear reasoning. Teams should focus on using AI to handle simple checks and save human effort for critical reviews where mistakes matter most.
 - [Watching for file changes on macOS](https://alexwlchan.net/2026/watch-files-on-macos/) [📖](https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j) 👤 alexwlchan 💬 4675 ⭐ 9 🔖 #macos 🗓️ 2026-05-11 · 🛠️ туториал, 🌲 вечнозелёное
     > **Резюме:** The article explains how to use macOS’s FSEvents API in Swift to watch for file changes and print the changed file paths. It shows how a Python script can read these paths from the Swift script’s output to trigger actions like rebuilding a site. This method detects file changes quickly, with just a few milliseconds delay.
 - [Vibe Coding Is Dangerous, Agentic Engineering Isn't—Wes McKinney](https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/) [📖](https://read.readwise.io/read/01ktttmvkt8cp8d9mgx591w0fz) 👤 Simon Späti 💬 2700 ⭐ 9 🗓️ 2026-06-11
@@ -49,5 +51,3 @@ _20 статей с наивысшим interest_score_
     > **Резюме:** The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.
 - [Unlocking Reading Insights: A Guide to Data Analysis with Claude and Readwise](https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/) [📖](https://read.readwise.io/read/01k62kckeewb1936zrjewhbhvn) 👤 Alexander Opalic 💬 1522 ⭐ 7 🗓️ 2025-09-26 · 🛠️ туториал
     > **Резюме:** This blog post explains how to use Claude.ai's CSV analysis feature with Readwise data for better insights. It highlights the importance of crafting specific prompts to extract meaningful information and create visualizations. The tutorial also touches on the technical aspects of how Claude processes and analyzes the data.
-- [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) [📖](https://read.readwise.io/read/01k1sq2twnr81ds7s9twvd6kx2) 👤 Software Engineering & Personal Thoughts 💬 1511 ⭐ 7 🔖 #go 🗓️ 2025-08-04 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
-    > **Резюме:** This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.

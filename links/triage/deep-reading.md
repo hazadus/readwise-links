@@ -2,10 +2,12 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-07-04 06:31 UTC · Статей: 40
+Сгенерировано: 2026-07-05 06:52 UTC · Статей: 42
 
 ## Статьи
 
+- [Agentic Code Review](https://addyosmani.com/blog/agentic-code-review/) [📖](https://read.readwise.io/read/01kv4ah99zrk7pq0qxmt2v7ty8) 👤 Addy Osmani 💬 4811 ⭐ 9 🗓️ 2026-06-15
+    > **Резюме:** AI generates code faster but creates more issues, making review the slowest and costliest part of development. Human reviewers must spend more time understanding AI-written code since it lacks clear reasoning. Teams should focus on using AI to handle simple checks and save human effort for critical reviews where mistakes matter most.
 - [Vibe Coding Is Dangerous, Agentic Engineering Isn't—Wes McKinney](https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/) [📖](https://read.readwise.io/read/01ktttmvkt8cp8d9mgx591w0fz) 👤 Simon Späti 💬 2700 ⭐ 9 🗓️ 2026-06-11
     > **Резюме:** Wes McKinney uses careful planning and AI agents to write and review code, avoiding "vibe coding." He builds tools that help maintain projects and improve AI-driven development. Wes believes strong specs and engineering skills are key for successful agentic engineering in the future.
 - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) [📖](https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv) 👤 Max Woolf's Blog 💬 6903 ⭐ 8 🔖 #llm 🗓️ 2026-03-01
@@ -97,3 +99,5 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** WebAssembly is widely used to run code efficiently and securely in browsers and other environments, often as a compilation target for many languages. It is not replacing JavaScript but works behind the scenes to improve performance and enable new features. Its strength lies in security, portability, and embeddability rather than being a standalone language for building entire applications.
 - [How WebSockets Work](https://www.deepintodev.com/blog/how-websockets-work?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kba3nq8a8s1s81yz84qp2eqp) 👤 Kaan Peksen 💬 1697 ⭐ 2 🔖 #websocket 🗓️ 2025-11-30 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** WebSockets upgrade an HTTP connection to a persistent, full-duplex channel so server and client can send messages anytime. They shine for real-time apps like chat and multiplayer games but are stateful, harder to proxy and scale, and can be inefficient if you send large JSON frequently. Optimize by sending compact binary data and choose simpler options (EventSource or HTTP) when only server-to-client updates are needed.
+- [AI vs. human illustrators? AI + human illustrators!](https://evilmartians.com/chronicles/ai-vs-human-illustrators-ai-plus-human-illustrators) [📖](https://read.readwise.io/read/01kwf3vq5ta0d14r9cgg79611m) 👤 Travis Turner (richardturner@evilmartians.com) 💬 1614 ⭐ 2 🗓️ 2026-07-01
+    > **Резюме:** Evil Martians tried using AI alone to create blog illustrations but found many problems with quality and consistency. They now use a mix of AI and human illustrators, where AI does most work and humans finish the details. This hybrid approach saves time, lowers costs, and improves the final images.

@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1779
+- Всего ссылок: 1780
 
 ## Ссылки
 
+- [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kwpmv6cr64j0d24p6jsdnzky) 👤 the human in the loop 💬 1738 🔖 #career, #reflections, #llm-devimpact 🗓️ 2026-07-04
+    > **Заметка:** Via JoyAndCuriosity Newsletter. Прекрасный пост, всё очень хладнокровно разложено по полочкам. Хотя вызывает только грусть... Продолжение в https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/
 - [Why share?](https://redfloatplane.lol/blog/17-why-share/) [📖](https://read.readwise.io/read/01kwkg917c8zfc602ck618ngsv) 👤 redfloatplane.lol 💬 1159 🗓️ 2026-07-03
     > **Заметка:** Via JoyAndCuriosity Newsletter. Любопытная тема поста, но полностью не согласен с автором :).
 - [Code is Cheap(er)](https://htmx.org/essays/code-is-cheap/) [📖](https://read.readwise.io/read/01kwkf8azgdt2ays6jjeee2a0j) 👤 htmx.org 💬 874 🔖 #cognitivedebt, #llm-devimpact 🗓️ 2026-07-03
