@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-07-05 06:52 UTC · Статей: 42
+Сгенерировано: 2026-07-06 07:24 UTC · Статей: 43
 
 ## Статьи
 
@@ -21,6 +21,9 @@ _Длинные статьи (от 1500 слов), не туториалы_
     > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) [📖](https://read.readwise.io/read/01ke9z0vpb9xqf5ateyympwzpm) 👤 Nikita Prokopov 💬 2754 ⭐ 8 🗓️ 2026-01-06 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Apple's Tahoe icons are confusing and inconsistent, making it hard to find or understand menu items quickly. Too many icons clutter menus, and similar or unclear symbols cause frustration. Good icon design should be simple, clear, and consistent, but Tahoe often misses these points.
+- [Software Engineering in the Age of AI](https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/) [📖](https://read.readwise.io/read/01kw7swjy25s3hhx1dmyqermtk) 👤 Andrew Diamond 💬 2590 ⭐ 8 🗓️ 2026-06-28
+    > **Заметка:** Via HackerNews Digest (2026-06-28)
+    > **Резюме:** AI has changed software development by writing most code, while humans now mainly review and guide it. This shift makes developers less creative and risks losing deep knowledge needed for complex problems. In the long run, relying on AI may weaken the skills and understanding that build truly innovative software.
 - [Software Development in 2026](https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026) [📖](https://read.readwise.io/read/01kn9q1g2rkzrdsd4mgzghk9ew) 👤 Aleksei Matiushkin 💬 1952 ⭐ 8 🗓️ 2026-04-03 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via ElixirWeekly
     > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.

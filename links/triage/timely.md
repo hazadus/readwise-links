@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-07-05 06:52 UTC · Статей: 24
+Сгенерировано: 2026-07-06 07:24 UTC · Статей: 25
 
 ## Статьи
 
@@ -19,6 +19,9 @@ _Актуальный контент, который может устареть
     > **Резюме:** AI models like Codex and GPT-5.2 now write working code fast, so the author spends more time thinking than typing. He uses agents and queues to iterate quickly and prefers simple, agent-friendly codebases. Improved models reduced the need for tools he built, letting him build and refactor more often.
 - [Eight Software Markets AI That Will Transform Differently](https://davegriffith.substack.com/p/eight-software-markets-ai-that-will) [📖](https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt) 👤 Dave Griffith 💬 2917 ⭐ 8 🔖 #llm 🗓️ 2026-01-12 · 🧠 основы
     > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
+- [Software Engineering in the Age of AI](https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/) [📖](https://read.readwise.io/read/01kw7swjy25s3hhx1dmyqermtk) 👤 Andrew Diamond 💬 2590 ⭐ 8 🗓️ 2026-06-28
+    > **Заметка:** Via HackerNews Digest (2026-06-28)
+    > **Резюме:** AI has changed software development by writing most code, while humans now mainly review and guide it. This shift makes developers less creative and risks losing deep knowledge needed for complex problems. In the long run, relying on AI may weaken the skills and understanding that build truly innovative software.
 - [Why AI hasn’t replaced software engineers, and won’t](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers) [📖](https://read.readwise.io/read/01ktt9nrahqk4mhsqkf56m25a3) 👤 Arvind Narayanan 💬 4135 ⭐ 7 🗓️ 2026-06-11
     > **Резюме:** AI has not replaced software engineers because it mainly helps with routine coding, while humans still handle key decisions and quality checks. Stories of AI causing mass layoffs are often misleading and used to mask other business reasons. Instead of reducing jobs, AI is changing how software is made and may even increase the demand for engineers.
 - [Unlocking Reading Insights: A Guide to Data Analysis with Claude and Readwise](https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/) [📖](https://read.readwise.io/read/01k62kckeewb1936zrjewhbhvn) 👤 Alexander Opalic 💬 1522 ⭐ 7 🗓️ 2025-09-26 · 🛠️ туториал

@@ -1,12 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 149
+- Всего ссылок: 150
 
 ## Ссылки
 
 - [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kwpmv6cr64j0d24p6jsdnzky) 👤 the human in the loop 💬 1738 🔖 #career, #reflections, #llm-devimpact 🗓️ 2026-07-04
     > **Заметка:** Via JoyAndCuriosity Newsletter. Прекрасный пост, всё очень хладнокровно разложено по полочкам. Хотя вызывает только грусть... Продолжение в https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/
     > **Резюме:** The author is a software engineer who feels their specialized skills are becoming less valuable because AI tools can now do much of their work. They worry that even their expertise in debugging and code quality is being replaced by advanced AI. The author is unsure how to stay employable in the future and considers changing careers or learning new skills.
+- [Write code not specs](http://softwaredoug.com/blog/2026/07/04/write-code-not-specs.html) [📖](https://read.readwise.io/read/01kwpkzt8vaeypa2t1cfpnkw3b) 👤 Doug Turnbull 💬 566 🔖 #llm-devimpact 🗓️ 2026-07-04
+    > **Резюме:** In the before times, code was deterministic and self documenting. Why don't we show AI what we want by... just writing some of the code?
 - [Code is Cheap(er)](https://htmx.org/essays/code-is-cheap/) [📖](https://read.readwise.io/read/01kwkf8azgdt2ays6jjeee2a0j) 👤 htmx.org 💬 874 🔖 #cognitivedebt, #llm-devimpact 🗓️ 2026-07-03
     > **Заметка:** Via JoyAndCuriosity Newsletter
     > **Резюме:** AI has made writing code much faster and cheaper, but understanding that code is now harder and more important. Developers should carefully review and simplify AI-generated code to avoid complexity and errors. The best engineers will focus on reducing unnecessary code and managing complexity, not just writing more code.

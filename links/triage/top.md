@@ -2,7 +2,7 @@
 
 _20 статей с наивысшим interest_score_
 
-Сгенерировано: 2026-07-05 06:52 UTC · Статей: 20
+Сгенерировано: 2026-07-06 07:24 UTC · Статей: 20
 
 ## Статьи
 
@@ -32,6 +32,9 @@ _20 статей с наивысшим interest_score_
     > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) [📖](https://read.readwise.io/read/01ke9z0vpb9xqf5ateyympwzpm) 👤 Nikita Prokopov 💬 2754 ⭐ 8 🗓️ 2026-01-06 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Apple's Tahoe icons are confusing and inconsistent, making it hard to find or understand menu items quickly. Too many icons clutter menus, and similar or unclear symbols cause frustration. Good icon design should be simple, clear, and consistent, but Tahoe often misses these points.
+- [Software Engineering in the Age of AI](https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/) [📖](https://read.readwise.io/read/01kw7swjy25s3hhx1dmyqermtk) 👤 Andrew Diamond 💬 2590 ⭐ 8 🗓️ 2026-06-28
+    > **Заметка:** Via HackerNews Digest (2026-06-28)
+    > **Резюме:** AI has changed software development by writing most code, while humans now mainly review and guide it. This shift makes developers less creative and risks losing deep knowledge needed for complex problems. In the long run, relying on AI may weaken the skills and understanding that build truly innovative software.
 - [Software Development in 2026](https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026) [📖](https://read.readwise.io/read/01kn9q1g2rkzrdsd4mgzghk9ew) 👤 Aleksei Matiushkin 💬 1952 ⭐ 8 🗓️ 2026-04-03 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via ElixirWeekly
     > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.
@@ -49,5 +52,3 @@ _20 статей с наивысшим interest_score_
     > **Резюме:** A command palette is a user interface tool that allows quick access to various commands, making it easier for users to discover features. To build an effective command palette, ensure it is available everywhere, centralizes all commands, and offers flexibility in command matching. By following these principles, you can create a powerful and user-friendly command palette that enhances productivity.
 - [The (lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kba74ynqzd6by0k16mmj92s4) 👤 @bwplotka 💬 2452 ⭐ 7 🔖 #git, #joyandcuriosity 🗓️ 2025-11-30 · 🌲 вечнозелёное
     > **Резюме:** The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.
-- [Unlocking Reading Insights: A Guide to Data Analysis with Claude and Readwise](https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/) [📖](https://read.readwise.io/read/01k62kckeewb1936zrjewhbhvn) 👤 Alexander Opalic 💬 1522 ⭐ 7 🗓️ 2025-09-26 · 🛠️ туториал
-    > **Резюме:** This blog post explains how to use Claude.ai's CSV analysis feature with Readwise data for better insights. It highlights the importance of crafting specific prompts to extract meaningful information and create visualizations. The tutorial also touches on the technical aspects of how Claude processes and analyzes the data.

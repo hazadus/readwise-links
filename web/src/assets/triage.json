@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T06:52:53.289950+00:00",
+  "generated_at": "2026-07-06T07:24:57.835491+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -326,6 +326,28 @@
         }
       },
       {
+        "id": "01kw7swjy25s3hhx1dmyqermtk",
+        "url": "https://read.readwise.io/read/01kw7swjy25s3hhx1dmyqermtk",
+        "source_url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+        "title": "Software Engineering in the Age of AI",
+        "author": "Andrew Diamond",
+        "image_url": "",
+        "word_count": 2590,
+        "summary": "AI has changed software development by writing most code, while humans now mainly review and guide it. This shift makes developers less creative and risks losing deep knowledge needed for complex problems. In the long run, relying on AI may weaken the skills and understanding that build truly innovative software.",
+        "notes": "Via HackerNews Digest (2026-06-28)",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-28T19:04:20.162000+00:00",
+        "last_moved_at": "2026-06-28T19:04:29.171000+00:00",
+        "published_date": "2026-06-28",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
         "id": "01kn9q1g2rkzrdsd4mgzghk9ew",
         "url": "https://read.readwise.io/read/01kn9q1g2rkzrdsd4mgzghk9ew",
         "source_url": "https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026",
@@ -543,28 +565,6 @@
           "is_tutorial": false,
           "is_foundational": false,
           "is_evergreen": true,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01k62kckeewb1936zrjewhbhvn",
-        "url": "https://read.readwise.io/read/01k62kckeewb1936zrjewhbhvn",
-        "source_url": "https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/",
-        "title": "Unlocking Reading Insights: A Guide to Data Analysis with Claude and Readwise",
-        "author": "Alexander Opalic",
-        "image_url": "https://alexop.dev/posts/unlocking-reading-insights-a-guide-to-data-analysis-with-claude-and-readwise.png",
-        "word_count": 1522,
-        "summary": "This blog post explains how to use Claude.ai's CSV analysis feature with Readwise data for better insights. It highlights the importance of crafting specific prompts to extract meaningful information and create visualizations. The tutorial also touches on the technical aspects of how Claude processes and analyzes the data.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2025-09-26T08:49:12.654000+00:00",
-        "last_moved_at": "2025-09-29T12:03:15.901000+00:00",
-        "published_date": "2025-01-05",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": false,
-          "is_evergreen": false,
           "interest_score": 7
         }
       }
@@ -976,6 +976,28 @@
         }
       },
       {
+        "id": "01kw7swjy25s3hhx1dmyqermtk",
+        "url": "https://read.readwise.io/read/01kw7swjy25s3hhx1dmyqermtk",
+        "source_url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+        "title": "Software Engineering in the Age of AI",
+        "author": "Andrew Diamond",
+        "image_url": "",
+        "word_count": 2590,
+        "summary": "AI has changed software development by writing most code, while humans now mainly review and guide it. This shift makes developers less creative and risks losing deep knowledge needed for complex problems. In the long run, relying on AI may weaken the skills and understanding that build truly innovative software.",
+        "notes": "Via HackerNews Digest (2026-06-28)",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-28T19:04:20.162000+00:00",
+        "last_moved_at": "2026-06-28T19:04:29.171000+00:00",
+        "published_date": "2026-06-28",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
         "id": "01ken0sk545cynvs3e44ezwrmc",
         "url": "https://read.readwise.io/read/01ken0sk545cynvs3e44ezwrmc",
         "source_url": "https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html?utm_source=tldrdev",
@@ -1352,34 +1374,6 @@
           "is_evergreen": false,
           "interest_score": 9
         }
-      },
-      {
-        "id": "01jr0kw78dv3cjfds3t8dqfrfr",
-        "url": "https://read.readwise.io/read/01jr0kw78dv3cjfds3t8dqfrfr",
-        "source_url": "https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code",
-        "title": "Celebrating 50 years of Microsoft | Bill Gates",
-        "author": "Bill Gates",
-        "image_url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/bcb90e12-f9cd-46c6-ac34-2698b217660a/Social%20Share-Table-1200x630.jpg",
-        "word_count": 5503,
-        "summary": "Bill Gates reflects on the 50th anniversary of Microsoft, starting with the creation of Altair BASIC in 1975. He shares his pride in how this early code led to a revolution in computing and the company's immense success. Gates also acknowledges the influential teachers who helped shape his journey into the world of technology.",
-        "notes": "https://chatgpt.com/c/69441e02-9780-8329-87c1-3b4aef7af67d",
-        "tags": {
-          "shortlist": {
-            "name": "Shortlist",
-            "type": "manual",
-            "created": 1770321668253
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-04-04T14:39:30.061000+00:00",
-        "last_moved_at": "2025-04-06T20:37:56.139000+00:00",
-        "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
       }
     ],
     "quick_wins": [
@@ -1709,6 +1703,28 @@
           "is_tutorial": false,
           "is_foundational": true,
           "is_evergreen": true,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kw7swjy25s3hhx1dmyqermtk",
+        "url": "https://read.readwise.io/read/01kw7swjy25s3hhx1dmyqermtk",
+        "source_url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+        "title": "Software Engineering in the Age of AI",
+        "author": "Andrew Diamond",
+        "image_url": "",
+        "word_count": 2590,
+        "summary": "AI has changed software development by writing most code, while humans now mainly review and guide it. This shift makes developers less creative and risks losing deep knowledge needed for complex problems. In the long run, relying on AI may weaken the skills and understanding that build truly innovative software.",
+        "notes": "Via HackerNews Digest (2026-06-28)",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-28T19:04:20.162000+00:00",
+        "last_moved_at": "2026-06-28T19:04:29.171000+00:00",
+        "published_date": "2026-06-28",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
           "interest_score": 8
         }
       },
@@ -4132,6 +4148,28 @@
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kw7swjy25s3hhx1dmyqermtk",
+        "url": "https://read.readwise.io/read/01kw7swjy25s3hhx1dmyqermtk",
+        "source_url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+        "title": "Software Engineering in the Age of AI",
+        "author": "Andrew Diamond",
+        "image_url": "",
+        "word_count": 2590,
+        "summary": "AI has changed software development by writing most code, while humans now mainly review and guide it. This shift makes developers less creative and risks losing deep knowledge needed for complex problems. In the long run, relying on AI may weaken the skills and understanding that build truly innovative software.",
+        "notes": "Via HackerNews Digest (2026-06-28)",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-28T19:04:20.162000+00:00",
+        "last_moved_at": "2026-06-28T19:04:29.171000+00:00",
+        "published_date": "2026-06-28",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 8
         }

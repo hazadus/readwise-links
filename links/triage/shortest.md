@@ -2,7 +2,7 @@
 
 _Короткие статьи (не туториалы, не основы), отсортированные по объёму_
 
-Сгенерировано: 2026-07-05 06:52 UTC · Статей: 30
+Сгенерировано: 2026-07-06 07:24 UTC · Статей: 30
 
 ## Статьи
 
@@ -42,6 +42,9 @@ _Короткие статьи (не туториалы, не основы), о�
     > **Резюме:** Writing regularly helps overcome doubts and improves skills over time. Focus on topics that interest you and your audience, even if others have written about them. Use simple tools, be honest, and don’t worry about perfection or criticism.
 - [Adapting to AI: Reflections on Productivity](https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kmf78e7kzc43t4k49t4cdwbh) 👤 Colin Breck 💬 2582 ⭐ 3 🔖 #joyandcuriosity 🗓️ 2026-03-24
     > **Резюме:** In 2025, AI greatly boosted productivity by helping with coding and problem-solving, acting like a tireless partner. Most software engineers have not yet fully adapted to AI’s rapid changes and potential. The way people work in software is changing fast, and it will take years to find new, effective patterns.
+- [Software Engineering in the Age of AI](https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/) [📖](https://read.readwise.io/read/01kw7swjy25s3hhx1dmyqermtk) 👤 Andrew Diamond 💬 2590 ⭐ 8 🗓️ 2026-06-28
+    > **Заметка:** Via HackerNews Digest (2026-06-28)
+    > **Резюме:** AI has changed software development by writing most code, while humans now mainly review and guide it. This shift makes developers less creative and risks losing deep knowledge needed for complex problems. In the long run, relying on AI may weaken the skills and understanding that build truly innovative software.
 - [The Next Thing Will Not Be Big](https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html?utm_source=tldrdev) [📖](https://read.readwise.io/read/01ken0sk545cynvs3e44ezwrmc) 👤 Glyph Lefkowitz 💬 2638 ⭐ 3 🔖 #shortlist 🗓️ 2026-01-10
     > **Резюме:** Technology’s fastest, life-changing waves (like the Internet and smartphones) were a rare anomaly and are unlikely to repeat.  
 Future tech will keep advancing, but mostly in smaller, niche ways that won’t remake society or create another Apple/Google.  
@@ -72,6 +75,3 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** Go’s runtime manages network I/O by asking the kernel if data is ready and putting goroutines to sleep instead of blocking OS threads. When data arrives, the kernel notifies the runtime, which wakes the right goroutine to continue work. This system lets Go efficiently handle many network tasks without wasting threads.
 - [Agentic Code Review](https://addyosmani.com/blog/agentic-code-review/) [📖](https://read.readwise.io/read/01kv4ah99zrk7pq0qxmt2v7ty8) 👤 Addy Osmani 💬 4811 ⭐ 9 🗓️ 2026-06-15
     > **Резюме:** AI generates code faster but creates more issues, making review the slowest and costliest part of development. Human reviewers must spend more time understanding AI-written code since it lacks clear reasoning. Teams should focus on using AI to handle simple checks and save human effort for critical reviews where mistakes matter most.
-- [Celebrating 50 years of Microsoft | Bill Gates](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code) [📖](https://read.readwise.io/read/01jr0kw78dv3cjfds3t8dqfrfr) 👤 Bill Gates 💬 5503 ⭐ 2 🔖 #shortlist 🗓️ 2025-04-04
-    > **Заметка:** https://chatgpt.com/c/69441e02-9780-8329-87c1-3b4aef7af67d
-    > **Резюме:** Bill Gates reflects on the 50th anniversary of Microsoft, starting with the creation of Altair BASIC in 1975. He shares his pride in how this early code led to a revolution in computing and the company's immense success. Gates also acknowledges the influential teachers who helped shape his journey into the world of technology.
