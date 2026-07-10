@@ -1,9 +1,20 @@
 # Отложенные ссылки
 
-- Всего ссылок: 70
+- Всего ссылок: 74
 
 ## Ссылки
 
+- [WAV - Wikipedia](https://en.wikipedia.org/wiki/WAV) [📖](https://read.readwise.io/read/01kx464zpf6xsczdwd90gpf1m1) 👤 wikipedia.org 💬 2729 🗓️ 2026-07-09
+    > **Резюме:** WAV is an audio file format created by IBM and Microsoft for storing uncompressed sound on Windows computers. It uses the RIFF format to organize audio data in chunks and supports both uncompressed and compressed audio. WAV files are widely used in broadcasting but have a size limit of 4 GB due to their file structure.
+- [Ownership](https://registerspill.thorstenball.com/p/ownership?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cqdywj4jkw531317tmtrp) 👤 Thorsten Ball 💬 1080 🗓️ 2026-07-09
+    > **Заметка:** Via JoyAndCuriosity; Via TLDR Newsletter
+    > **Резюме:** Ownership means taking full responsibility for solving a problem from start to finish. It involves thinking deeply about the issue, testing carefully, and making sure the solution works well in production. Juniors should learn to aim for this level of care and ask for help when needed.
+- [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1) 👤 Alec Scollon 💬 494 🔖 #burnout, #llm-devimpact 🗓️ 2026-07-09
+    > **Заметка:** Via TLDR Newsletter
+    > **Резюме:** The author uses large language models (LLMs) daily for coding help and research. Over time, they feel tired of repeated mistakes and annoying writing styles from LLMs. Despite this frustration, they find LLMs useful and plan to keep using them.
+- [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cky929t7sh4p6wnptbjs6) 👤 Jarred Sumner 💬 5681 🗓️ 2026-07-09
+    > **Заметка:** Via TLDR Newsletter; Via Simon Willison.
+    > **Резюме:** Bun was rewritten from Zig to Rust using AI assistance, improving code safety and reducing bugs. The Rust version fixes many memory leaks and shrinks the binary size by about 20%. This rewrite makes Bun faster, smaller, and more stable with better tools for future improvements.
 - [Goodbye, forever, probably.](https://whitep4nth3r.com/blog/goodbye-forever-probably/) [📖](https://read.readwise.io/read/01kwpt8ygxm6hpvcyv4svnz82t) 👤 whitep4nth3r.com 💬 2671 🗓️ 2026-07-04
     > **Заметка:** Via Simon Willison
     > **Резюме:** The author has retired from developer relations after years of burnout and industry changes. They no longer find value in teaching tech as the field shifts with AI and new trends. Now, they look forward to a quieter role as a staff engineer and rebuilding themselves away from the spotlight.

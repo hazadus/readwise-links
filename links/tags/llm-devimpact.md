@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 150
+- Всего ссылок: 151
 
 ## Ссылки
 
+- [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1) 👤 Alec Scollon 💬 494 🔖 #burnout, #llm-devimpact 🗓️ 2026-07-09
+    > **Заметка:** Via TLDR Newsletter
+    > **Резюме:** The author uses large language models (LLMs) daily for coding help and research. Over time, they feel tired of repeated mistakes and annoying writing styles from LLMs. Despite this frustration, they find LLMs useful and plan to keep using them.
 - [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kwpmv6cr64j0d24p6jsdnzky) 👤 the human in the loop 💬 1738 🔖 #career, #reflections, #llm-devimpact 🗓️ 2026-07-04
     > **Заметка:** Via JoyAndCuriosity Newsletter. Прекрасный пост, всё очень хладнокровно разложено по полочкам. Хотя вызывает только грусть... Продолжение в https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/
     > **Резюме:** The author is a software engineer who feels their specialized skills are becoming less valuable because AI tools can now do much of their work. They worry that even their expertise in debugging and code quality is being replaced by advanced AI. The author is unsure how to stay employable in the future and considers changing careers or learning new skills.

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 9
+- Всего ссылок: 10
 
 ## Ссылки
 
+- [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1) 👤 Alec Scollon 💬 494 🔖 #burnout, #llm-devimpact 🗓️ 2026-07-09
+    > **Заметка:** Via TLDR Newsletter
+    > **Резюме:** The author uses large language models (LLMs) daily for coding help and research. Over time, they feel tired of repeated mistakes and annoying writing styles from LLMs. Despite this frustration, they find LLMs useful and plan to keep using them.
 - [On the edge of burnout](https://cassidoo.co/post/edge-of-burnout/) [📖](https://read.readwise.io/read/01kw6x05dyj6qypxgpa1mc1s7d) 👤 Cassidy Williams 💬 265 🔖 #burnout, #reflections 🗓️ 2026-06-28
     > **Резюме:** Cassidy almost burned out but stopped herself in time. She feels better after resting and doing things she enjoys. Her advice is to take breaks, reflect, and talk to someone who cares.
 - [AI-assisted engineers are burning out, is this fine?](https://evilmartians.com/chronicles/ai-assisted-engineers-are-burning-out-is-this-fine?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kspg5q1bt2hj29py6y6yf4zr) 👤 Tech Editor 💬 3248 🔖 #burnout, #llm-fatigue, #llm-devimpact 🗓️ 2026-05-28
