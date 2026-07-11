@@ -1,9 +1,19 @@
 # Ссылки
 
-- Всего ссылок: 31
+- Всего ссылок: 32
 
 ## Ссылки
 
+- [Tracing HTTP Requests with Rust](https://blainsmith.com/articles/tracing-http-requests-with-rust/) [📖](https://read.readwise.io/read/01kwm62v3vkwd2f5y0mscd3c63) 👤 Unknown 💬 1306 🔖 #http, #rust 🗓️ 2026-07-03
+    > **Резюме:** Recently, I wrote about using Go's net/http/httptrace to get the per-phase timing breakdown for HTTP requests - DNS, TCP, TLS, and server processing. After writing about that package, I wanted to know what the same breakdown costs in Rust: whether the ecosystem has an equivalent, and what building one reveals about how the two languages approach instrumentation.
+The short answer is there's no equivalent. reqwest doesn't expose per-phase timestamps. hyper's client is a Tower Service, not a single blessed HTTP client with hook points. Getting DNS/TCP/TLS granularity means working at the connector level directly. So I built httptrace, a small crate that does for Rust what net/http/httptrace does for Go, and this is a walkthrough of what building it involved.
+No Context to Piggyback On
+Go's httptrace works by riding on context.Context. You build a *ClientTrace, attach it to a context with httptrace.WithClientTrace, and http.Transport pulls it back out at each phase via httptrace.ContextClientTrace. The trace travels with the request. Any middleware that forwards the context propagates tracing without knowing tracing exists.
+Rust has nothing that plays the same role. There's no ambient value that flows through an async call graph the way context.Context does through Go's. tracing's spans get closest, but they're an observability mechanism, not a request-scoped value you can staple typed callbacks to and expect the transport to invoke. So httptrace in Rust has to take the trace as an explicit argument, not pull it from somewhere implicit. That single constraint shapes the rest of the design: instead of one universal hook point, the crate exposes two separate entry points depending on whether you want a single traced request or a reusable connector, and you pass a ClientTrace into whichever one you're using.
+pub struct ClientTrace {
+    pub(crate) dns_start: Callback<DnsStartInfo>,
+    pub(crate) dns_done: Callback<DnsDoneInfo>,
+    pub(crate) connect_start: Callback<Co...
 - [Rewriting the world in Rust](https://bitfieldconsulting.com/posts/rewrite-in-rust) [📖](https://read.readwise.io/read/01kvswppy9118grz6qtn39x89d) 👤 John Arundel 💬 1976 🔖 #rust 🗓️ 2026-06-23
     > **Резюме:** Rust is a modern language that improves software security by preventing many memory and concurrency bugs. Rewriting all old code in Rust is very hard, and automatic translation does not create good Rust programs. Instead, gradually replacing parts with Rust and redesigning code step-by-step is a more practical and effective approach.
 - [RFC 10008: The HTTP QUERY Method](https://blainsmith.com/articles/rfc-10008-http-query-method/) [📖](https://read.readwise.io/read/01kvbq0ck6h3f4hammnkvqm6dj) 👤 Unknown 💬 404 🔖 #go, #http, #rust 🗓️ 2026-06-17

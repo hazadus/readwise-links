@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 35
+- Всего ссылок: 36
 
 ## Ссылки
 
+- [Blog about things you don't understand yet](https://seangoedecke.com/blog-about-things-you-dont-understand-yet/) [📖](https://read.readwise.io/read/01kwxp6n9pwz7gnt1yenz45tz9) 👤 seangoedecke.com RSS feed 💬 1573 🔖 #writing, #learning 🗓️ 2026-07-07
+    > **Резюме:** The author writes blog posts to learn new things and clarify their thinking by taking clear, sometimes controversial positions. Writing helps them change their mind and improve their understanding of complex topics. They encourage others to write as a way to learn, even if the writing is not published.
 - [stop asking writers about "AI"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/) [📖](https://read.readwise.io/read/01kwerfqqszysnhnjdkxyfa3b0) 👤 Benjamin Hollon 💬 1705 🔖 #llm, #writing, #reflections, #llm-resistance 🗓️ 2026-07-01
     > **Заметка:** Via Social Digest 2026-07-01
     > **Резюме:** The author is tired of people asking writers about AI because it makes them feel their work is not valued. They believe AI cannot replace human creativity and that real writers will keep creating no matter what. Instead of asking about AI, people should show interest by asking to read a writer’s work.

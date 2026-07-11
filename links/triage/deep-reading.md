@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-07-10 06:58 UTC · Статей: 43
+Сгенерировано: 2026-07-11 05:53 UTC · Статей: 44
 
 ## Статьи
 
@@ -29,6 +29,8 @@ _Длинные статьи (от 1500 слов), не туториалы_
     > **Резюме:** Large language models help developers by writing documentation and tests but cannot replace expert coding for complex tasks. Using these models well requires understanding how they work and breaking problems into clear, simple steps. Many people overestimate their abilities, so careful supervision and knowledge remain essential.
 - [The secret life of the xattr](https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/) [📖](https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1) 👤 hoakley 💬 1905 ⭐ 8 🗓️ 2026-04-24 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.
+- [The Agent-Era Career](https://addyosmani.com/blog/career-advice-age-of-agents/) [📖](https://read.readwise.io/read/01kwwn2ypxks210vr793gqm92s) 👤 Addy Osmani 💬 1662 ⭐ 8 🗓️ 2026-07-06 · 🌲 вечнозелёное
+    > **Резюме:** AI can solve routine problems, but careers depend on choosing the right problems and judging their solutions. Building reputation and deep understanding matters more than quick fixes or high pay. Successful engineers direct AI tools wisely, verify results, and finish strong on complex tasks.
 - [Why AI hasn’t replaced software engineers, and won’t](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers) [📖](https://read.readwise.io/read/01ktt9nrahqk4mhsqkf56m25a3) 👤 Arvind Narayanan 💬 4135 ⭐ 7 🗓️ 2026-06-11
     > **Резюме:** AI has not replaced software engineers because it mainly helps with routine coding, while humans still handle key decisions and quality checks. Stories of AI causing mass layoffs are often misleading and used to mask other business reasons. Instead of reducing jobs, AI is changing how software is made and may even increase the demand for engineers.
 - [macOS Tips](https://blog.xoria.org/macos-tips/) [📖](https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8) 👤 xoria.org 💬 2856 ⭐ 7 🔖 #macos 🗓️ 2026-01-31 · 🌲 вечнозелёное

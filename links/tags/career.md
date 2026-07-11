@@ -1,9 +1,18 @@
 # Ссылки
 
-- Всего ссылок: 80
+- Всего ссылок: 81
 
 ## Ссылки
 
+- [AI has torched the market for junior programmers](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers) [📖](https://read.readwise.io/read/01kwqb8r9ts801ka1h6yr1e4a7) 👤 Seldo.com RSS Feed 💬 1880 🔖 #career, #llm-devimpact 🗓️ 2026-07-04
+    > **Резюме:** In early 2025 I predicted that AI will create many, many more programmers, and that new programming jobs would look different. In March I checked in and found startups substituting compute for labor at record rates, with the wave of new jobs nowhere in sight. This post is the next check-in, and I have good news and bad news.
+The bad news: AI has torched the market for junior programmers. The good news: the long tail of new programmers I predicted has materialized, but with a big twist: they don't call themselves programmers. Let me show you the data, and see if you believe me.
+The market for young programmers has collapsed
+Here's the single most important chart about AI and programming jobs, built from ADP payroll data by Stanford's Digital Economy Lab. It tracks employment of US software developers by age, indexed to October 2022:
+
+Developers aged 22 to 25 are down 19% from their late-2022 peak. Every cohort over 30 grew over the same period, with 41-to-49-year-olds up 14%. This isn't a firm-level fluke: after controlling for shocks at the individual company level, the Stanford team still finds a 16% relative employment decline for young workers in AI-exposed jobs, and the decline concentrates specifically in occupations where AI automates work rather than augments it. Software development is just the poster child.
+Other data points in the same direction. Entry-level software postings are down 28% from their 2022 peaks. Computer science graduates now have a 6.1% unemployment rate, higher than liberal arts majors, a sentence that would have gotten you laughed out of any career counseling office in 2019.
+One detail worth noticing in that chart: the junior line doesn't fall off a cliff when ChatGPT launches. It peaks a couple of months before, drifts down through 2023, and then deteriorates fastest in 2024 and early 2025, which is when coding assistants stopped autocompleting lines and started completing tickets. Agentic programming is what really turned up the hea...
 - [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kwpmv6cr64j0d24p6jsdnzky) 👤 the human in the loop 💬 1738 🔖 #career, #reflections, #llm-devimpact 🗓️ 2026-07-04
     > **Заметка:** Via JoyAndCuriosity Newsletter. Прекрасный пост, всё очень хладнокровно разложено по полочкам. Хотя вызывает только грусть... Продолжение в https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/
     > **Резюме:** The author is a software engineer who feels their specialized skills are becoming less valuable because AI tools can now do much of their work. They worry that even their expertise in debugging and code quality is being replaced by advanced AI. The author is unsure how to stay employable in the future and considers changing careers or learning new skills.

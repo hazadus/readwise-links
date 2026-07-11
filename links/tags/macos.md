@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 54
+- Всего ссылок: 55
 
 ## Ссылки
 
+- [Describing all my photos](https://alexwlchan.net/2026/describing-my-photos/) [📖](https://read.readwise.io/read/01kwsqska0h87gr18cby2cgyc2) 👤 alexwlchan 💬 1121 🔖 #macos, #inspiration 🗓️ 2026-07-05
+    > **Заметка:** Пост интересен для вдохновения, какие штуки можно автоматизировать в работе со своей коллекцией фото на маке.
+    > **Резюме:** When I save a photo, I write a sentence or two of descriptive context. It helps me remember what's in a photo, why I took it, and how I felt when I did.
 - [WWDC 2026 First Thoughts](https://troz.net/post/2026/wwdc2026_first_thoughts/) [📖](https://read.readwise.io/read/01kvjzt2t19b5j7h842msbzmks) 👤 Sarah Reichelt 💬 1015 🔖 #macos 🗓️ 2026-06-20
     > **Резюме:** Most years, I am deeply interested in what happens at Apple's Worldwide Developer Conference and what is announced. This year, I am on holiday in the depths of rural Queensland, Australia with very limited connectivity. At least this meant that I didn't have to wake at 3 am to watch the keynote like I usually do, although I have to confess that I wasn't that excited for this year's announcements anyway.
 Thank you to everyone who posted their reactions on Mastodon as that enabled me to keep up with the major features.

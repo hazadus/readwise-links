@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T06:58:07.489660+00:00",
+  "generated_at": "2026-07-11T05:53:19.631250+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -420,6 +420,28 @@
         }
       },
       {
+        "id": "01kwwn2ypxks210vr793gqm92s",
+        "url": "https://read.readwise.io/read/01kwwn2ypxks210vr793gqm92s",
+        "source_url": "https://addyosmani.com/blog/career-advice-age-of-agents/",
+        "title": "The Agent-Era Career",
+        "author": "Addy Osmani",
+        "image_url": "https://addyosmani.com/assets/images/favicons/android-chrome-192x192.png",
+        "word_count": 1662,
+        "summary": "AI can solve routine problems, but careers depend on choosing the right problems and judging their solutions. Building reputation and deep understanding matters more than quick fixes or high pay. Successful engineers direct AI tools wisely, verify results, and finish strong on complex tasks.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-06T21:24:26.022000+00:00",
+        "last_moved_at": "2026-07-10T10:34:05.402000+00:00",
+        "published_date": "2026-07-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 8
+        }
+      },
+      {
         "id": "01kczxrxfb9cbratcp54yptvy3",
         "url": "https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3",
         "source_url": "https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email",
@@ -531,39 +553,6 @@
         "triage": {
           "is_tutorial": true,
           "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01kba74ynqzd6by0k16mmj92s4",
-        "url": "https://read.readwise.io/read/01kba74ynqzd6by0k16mmj92s4",
-        "source_url": "https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email",
-        "title": "The (lazy) Git UI You Didn't Know You Need",
-        "author": "@bwplotka",
-        "image_url": "https://bwplotka.dev/2025/lazygit/lazygit-discoverability.png",
-        "word_count": 2452,
-        "summary": "The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.",
-        "notes": "",
-        "tags": {
-          "git": {
-            "name": "git",
-            "type": "manual",
-            "created": 1764500875063
-          },
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1764500875063
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-11-30T11:07:43.671000+00:00",
-        "last_moved_at": "2025-12-01T05:41:24.712000+00:00",
-        "published_date": "2025-11-10",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 7
         }
@@ -745,6 +734,28 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
+        }
+      },
+      {
+        "id": "01kwwn2ypxks210vr793gqm92s",
+        "url": "https://read.readwise.io/read/01kwwn2ypxks210vr793gqm92s",
+        "source_url": "https://addyosmani.com/blog/career-advice-age-of-agents/",
+        "title": "The Agent-Era Career",
+        "author": "Addy Osmani",
+        "image_url": "https://addyosmani.com/assets/images/favicons/android-chrome-192x192.png",
+        "word_count": 1662,
+        "summary": "AI can solve routine problems, but careers depend on choosing the right problems and judging their solutions. Building reputation and deep understanding matters more than quick fixes or high pay. Successful engineers direct AI tools wisely, verify results, and finish strong on complex tasks.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-06T21:24:26.022000+00:00",
+        "last_moved_at": "2026-07-10T10:34:05.402000+00:00",
+        "published_date": "2026-07-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 8
         }
       },
       {
@@ -1352,28 +1363,6 @@
           "is_evergreen": true,
           "interest_score": 2
         }
-      },
-      {
-        "id": "01kv4ah99zrk7pq0qxmt2v7ty8",
-        "url": "https://read.readwise.io/read/01kv4ah99zrk7pq0qxmt2v7ty8",
-        "source_url": "https://addyosmani.com/blog/agentic-code-review/",
-        "title": "Agentic Code Review",
-        "author": "Addy Osmani",
-        "image_url": "https://addyosmani.com/assets/images/favicons/android-chrome-192x192.png",
-        "word_count": 4811,
-        "summary": "AI generates code faster but creates more issues, making review the slowest and costliest part of development. Human reviewers must spend more time understanding AI-written code since it lacks clear reasoning. Teams should focus on using AI to handle simple checks and save human effort for critical reviews where mistakes matter most.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-15T00:22:33.095000+00:00",
-        "last_moved_at": "2026-06-30T11:48:59.258000+00:00",
-        "published_date": "2026-06-14",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
       }
     ],
     "quick_wins": [
@@ -1796,6 +1785,28 @@
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01kwwn2ypxks210vr793gqm92s",
+        "url": "https://read.readwise.io/read/01kwwn2ypxks210vr793gqm92s",
+        "source_url": "https://addyosmani.com/blog/career-advice-age-of-agents/",
+        "title": "The Agent-Era Career",
+        "author": "Addy Osmani",
+        "image_url": "https://addyosmani.com/assets/images/favicons/android-chrome-192x192.png",
+        "word_count": 1662,
+        "summary": "AI can solve routine problems, but careers depend on choosing the right problems and judging their solutions. Building reputation and deep understanding matters more than quick fixes or high pay. Successful engineers direct AI tools wisely, verify results, and finish strong on complex tasks.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-06T21:24:26.022000+00:00",
+        "last_moved_at": "2026-07-10T10:34:05.402000+00:00",
+        "published_date": "2026-07-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 8
         }

@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 74
+- Всего ссылок: 81
 
 ## Ссылки
 
+- [Pluralistic: "Rights for robots" and the AI slavery fantasy (10 Jul 2026)](https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/) [📖](https://read.readwise.io/read/01kx5q3v2t6fy3746shdtvrwm7) 👤 Cory Doctorow 💬 2037 🗓️ 2026-07-10
+    > **Резюме:** The idea of giving rights to robots is linked to a fantasy where AI replaces humans but remains as uncomplaining slaves. This view ignores that AI work often depends on low-paid human labor hidden behind the scenes. Treating AI as having personhood could harm humans, just like corporate personhood has caused problems.
+- [Up the Stack: How AI’s Escape From the Commodity Trap Risks Enterprise Lock-in](https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from) [📖](https://read.readwise.io/read/01kx4gtxsh1m1hpy1fy1wg8kp5) 👤 Arvind Narayanan 💬 5619 🗓️ 2026-07-09
+    > **Резюме:** AI companies face challenges making profits by just selling model inference because it is a commodity with little differentiation. To succeed, they must move up the stack by offering integrated services and creating switching costs like traditional enterprise software firms. This shift raises important questions about competition, innovation, and who will benefit from AI’s economic impact.
 - [WAV - Wikipedia](https://en.wikipedia.org/wiki/WAV) [📖](https://read.readwise.io/read/01kx464zpf6xsczdwd90gpf1m1) 👤 wikipedia.org 💬 2729 🗓️ 2026-07-09
     > **Резюме:** WAV is an audio file format created by IBM and Microsoft for storing uncompressed sound on Windows computers. It uses the RIFF format to organize audio data in chunks and supports both uncompressed and compressed audio. WAV files are widely used in broadcasting but have a size limit of 4 GB due to their file structure.
 - [Ownership](https://registerspill.thorstenball.com/p/ownership?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cqdywj4jkw531317tmtrp) 👤 Thorsten Ball 💬 1080 🗓️ 2026-07-09
@@ -15,6 +19,16 @@
 - [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cky929t7sh4p6wnptbjs6) 👤 Jarred Sumner 💬 5681 🗓️ 2026-07-09
     > **Заметка:** Via TLDR Newsletter; Via Simon Willison.
     > **Резюме:** Bun was rewritten from Zig to Rust using AI assistance, improving code safety and reducing bugs. The Rust version fixes many memory leaks and shrinks the binary size by about 20%. This rewrite makes Bun faster, smaller, and more stable with better tools for future improvements.
+- [Have you heard? Clickhouse is winning the observability wars!](https://charity.wtf/p/have-you-heard-clickhouse-is-winning) [📖](https://read.readwise.io/read/01kx22hsbpzx4m5ym5wwrzpvxw) 👤 Charity Majors 💬 1356 🗓️ 2026-07-08
+    > **Резюме:** Clickhouse is praised for handling huge observability data smoothly, unlike older tools that struggle at scale. It uses a modern columnar storage system, making observability simpler and more powerful. This new approach could change the industry and challenge old companies like Datadog.
+- [Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack](https://spf13.com/p/go-the-agentic-language/) [📖](https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5) 👤 spf13 💬 3476 🗓️ 2026-07-07
+    > **Резюме:** TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.
+- [Agentic Autonomy Levels](https://addyosmani.com/blog/agentic-autonomy-levels/) [📖](https://read.readwise.io/read/01kwwn2ytv7x4axf9yptxbtpm5) 👤 Addy Osmani 💬 2824 🗓️ 2026-07-06
+    > **Резюме:** Agentic autonomy levels guide how much freedom AI agents have, balancing risk and control. Lower levels need human oversight, while higher levels let agents work independently or in parallel with evidence to verify success. The best approach matches autonomy to task risk and verification, ensuring safe and effective AI use.
+- [The Agent-Era Career](https://addyosmani.com/blog/career-advice-age-of-agents/) [📖](https://read.readwise.io/read/01kwwn2ypxks210vr793gqm92s) 👤 Addy Osmani 💬 1662 🗓️ 2026-07-06
+    > **Резюме:** AI can solve routine problems, but careers depend on choosing the right problems and judging their solutions. Building reputation and deep understanding matters more than quick fixes or high pay. Successful engineers direct AI tools wisely, verify results, and finish strong on complex tasks.
+- [The software engineering war](https://newsletter.manager.dev/p/the-software-engineering-war) [📖](https://read.readwise.io/read/01kwwgak1ba1npmcb63g8z72se) 👤 Anton Zaides 💬 1461 🗓️ 2026-07-06
+    > **Резюме:** Software engineers are divided between "builders" who focus on fast delivery using AI and "keepers" who value well-crafted, reliable code. Both sides have valid points, but extreme views lead to conflict and poor results. The best approach is a balanced mindset that adapts over time and embraces both quality and speed.
 - [Goodbye, forever, probably.](https://whitep4nth3r.com/blog/goodbye-forever-probably/) [📖](https://read.readwise.io/read/01kwpt8ygxm6hpvcyv4svnz82t) 👤 whitep4nth3r.com 💬 2671 🗓️ 2026-07-04
     > **Заметка:** Via Simon Willison
     > **Резюме:** The author has retired from developer relations after years of burnout and industry changes. They no longer find value in teaching tech as the field shifts with AI and new trends. Now, they look forward to a quieter role as a staff engineer and rebuilding themselves away from the spotlight.

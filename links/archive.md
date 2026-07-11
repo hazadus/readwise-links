@@ -1,12 +1,19 @@
 # Архивные ссылки
 
-- Всего ссылок: 1781
+- Всего ссылок: 1786
 
 ## Ссылки
 
+- [Blog about things you don't understand yet](https://seangoedecke.com/blog-about-things-you-dont-understand-yet/) [📖](https://read.readwise.io/read/01kwxp6n9pwz7gnt1yenz45tz9) 👤 seangoedecke.com RSS feed 💬 1573 🔖 #writing, #learning 🗓️ 2026-07-07
+- [Describing all my photos](https://alexwlchan.net/2026/describing-my-photos/) [📖](https://read.readwise.io/read/01kwsqska0h87gr18cby2cgyc2) 👤 alexwlchan 💬 1121 🔖 #macos, #inspiration 🗓️ 2026-07-05
+    > **Заметка:** Пост интересен для вдохновения, какие штуки можно автоматизировать в работе со своей коллекцией фото на маке.
+- [AI has torched the market for junior programmers](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers) [📖](https://read.readwise.io/read/01kwqb8r9ts801ka1h6yr1e4a7) 👤 Seldo.com RSS Feed 💬 1880 🔖 #career, #llm-devimpact 🗓️ 2026-07-04
 - [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kwpmv6cr64j0d24p6jsdnzky) 👤 the human in the loop 💬 1738 🔖 #career, #reflections, #llm-devimpact 🗓️ 2026-07-04
     > **Заметка:** Via JoyAndCuriosity Newsletter. Прекрасный пост, всё очень хладнокровно разложено по полочкам. Хотя вызывает только грусть... Продолжение в https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/
 - [Write code not specs](http://softwaredoug.com/blog/2026/07/04/write-code-not-specs.html) [📖](https://read.readwise.io/read/01kwpkzt8vaeypa2t1cfpnkw3b) 👤 Doug Turnbull 💬 566 🔖 #llm-devimpact 🗓️ 2026-07-04
+- [Tracing HTTP Requests with Rust](https://blainsmith.com/articles/tracing-http-requests-with-rust/) [📖](https://read.readwise.io/read/01kwm62v3vkwd2f5y0mscd3c63) 👤 Unknown 💬 1306 🔖 #http, #rust 🗓️ 2026-07-03
+- [Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)](https://pluralistic.net/2026/07/03/rod-logic/) [📖](https://read.readwise.io/read/01kwkkj31k7rm52caasxw4s2mx) 👤 Cory Doctorow 💬 2912 🔖 #reflections, #personalsoftware 🗓️ 2026-07-03
+    > **Заметка:** Интересная мысль (и вроде Кори далеко не фанат LLM): вайбкодинг для кого-то может стать первым шагом на пути в настоящее программирование, и в этом нет ничего плохого. Почему бы и нет?..
 - [Why share?](https://redfloatplane.lol/blog/17-why-share/) [📖](https://read.readwise.io/read/01kwkg917c8zfc602ck618ngsv) 👤 redfloatplane.lol 💬 1159 🗓️ 2026-07-03
     > **Заметка:** Via JoyAndCuriosity Newsletter. Любопытная тема поста, но полностью не согласен с автором :).
 - [Code is Cheap(er)](https://htmx.org/essays/code-is-cheap/) [📖](https://read.readwise.io/read/01kwkf8azgdt2ays6jjeee2a0j) 👤 htmx.org 💬 874 🔖 #cognitivedebt, #llm-devimpact 🗓️ 2026-07-03

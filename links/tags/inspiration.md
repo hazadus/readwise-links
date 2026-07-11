@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 108
+- Всего ссылок: 109
 
 ## Ссылки
 
+- [Describing all my photos](https://alexwlchan.net/2026/describing-my-photos/) [📖](https://read.readwise.io/read/01kwsqska0h87gr18cby2cgyc2) 👤 alexwlchan 💬 1121 🔖 #macos, #inspiration 🗓️ 2026-07-05
+    > **Заметка:** Пост интересен для вдохновения, какие штуки можно автоматизировать в работе со своей коллекцией фото на маке.
+    > **Резюме:** When I save a photo, I write a sentence or two of descriptive context. It helps me remember what's in a photo, why I took it, and how I felt when I did.
 - [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/) [📖](https://read.readwise.io/read/01krgdchmmxhb8wwrjqdmp8sds) 👤 Blain Smith 💬 1583 🔖 #go, #inspiration 🗓️ 2026-05-13
     > **Заметка:** Отличный вдохновляющий пост про то, как хорош Go. Никаких недостатков не упомянуто, но сделаем скидку на хвалебный жанр :) Via Go Weekly Newsletter 
     > **Резюме:** Go is simple, fast, and reliable for building backend apps without complex tools or frameworks. Its standard library, easy concurrency, and built-in tooling make development and deployment straightforward. Stop overcomplicating things—just write one Go binary and ship it.

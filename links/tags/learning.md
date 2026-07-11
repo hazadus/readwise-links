@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 52
+- Всего ссылок: 53
 
 ## Ссылки
 
+- [Blog about things you don't understand yet](https://seangoedecke.com/blog-about-things-you-dont-understand-yet/) [📖](https://read.readwise.io/read/01kwxp6n9pwz7gnt1yenz45tz9) 👤 seangoedecke.com RSS feed 💬 1573 🔖 #writing, #learning 🗓️ 2026-07-07
+    > **Резюме:** The author writes blog posts to learn new things and clarify their thinking by taking clear, sometimes controversial positions. Writing helps them change their mind and improve their understanding of complex topics. They encourage others to write as a way to learn, even if the writing is not published.
 - [The University In The AI Era](https://htmx.org/essays/universities-and-ai/) [📖](https://read.readwise.io/read/01kw54zcm3196kc0he9yd3mkrt) 👤 htmx.org 💬 717 🔖 #learning, #llm-devimpact 🗓️ 2026-06-27
     > **Заметка:** Via Social Digest
     > **Резюме:** The author suggests combining computer science with other majors to help more students learn useful tech skills. They also propose using special computer labs and oral exams to better check students’ true abilities. These changes can keep universities important even as AI grows and changes how we learn.
