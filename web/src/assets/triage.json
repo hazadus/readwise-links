@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T05:53:19.631250+00:00",
+  "generated_at": "2026-07-12T06:20:15.853746+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -49,6 +49,50 @@
         "triage": {
           "is_tutorial": true,
           "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01kwz5gtz0j1ey348z8y17bfq5",
+        "url": "https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5",
+        "source_url": "https://spf13.com/p/go-the-agentic-language/",
+        "title": "Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack",
+        "author": "spf13",
+        "image_url": "https://spf13.com/p/go-the-agentic-language/hero-gopher-gouache-clean-original.jpg",
+        "word_count": 3476,
+        "summary": "TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-07T20:50:07.016000+00:00",
+        "last_moved_at": "2026-07-10T10:34:07.007000+00:00",
+        "published_date": "2026-07-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01kwwn2ytv7x4axf9yptxbtpm5",
+        "url": "https://read.readwise.io/read/01kwwn2ytv7x4axf9yptxbtpm5",
+        "source_url": "https://addyosmani.com/blog/agentic-autonomy-levels/",
+        "title": "Agentic Autonomy Levels",
+        "author": "Addy Osmani",
+        "image_url": "https://addyosmani.com/assets/images/favicons/android-chrome-192x192.png",
+        "word_count": 2824,
+        "summary": "Agentic autonomy levels guide how much freedom AI agents have, balancing risk and control. Lower levels need human oversight, while higher levels let agents work independently or in parallel with evidence to verify success. The best approach matches autonomy to task risk and verification, ensuring safe and effective AI use.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-06T21:24:23.147000+00:00",
+        "last_moved_at": "2026-07-10T10:34:03.599000+00:00",
+        "published_date": "2026-07-02",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 9
         }
@@ -179,6 +223,28 @@
         "saved_at": "2026-03-01T20:44:36.976000+00:00",
         "last_moved_at": "2026-03-01T20:44:42.974000+00:00",
         "published_date": "2026-02-27",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01ktc7x03aqjmqmw7rfaypvah7",
+        "url": "https://read.readwise.io/read/01ktc7x03aqjmqmw7rfaypvah7",
+        "source_url": "https://joshcollinsworth.com/blog/productivity",
+        "title": "LLMs and performative productivity",
+        "author": "Josh Collinsworth",
+        "image_url": "https://joshcollinsworth.com/images/site-image.png",
+        "word_count": 5221,
+        "summary": "AI tools like large language models (LLMs) often make developers feel more productive, but studies show they may actually slow work and reduce skill growth. Productivity gains are mostly seen in simple tasks, while complex projects can suffer from lower code quality and more maintenance. True productivity is hard to measure and requires careful thought, not just faster or more code output.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-05T15:54:44.787000+00:00",
+        "last_moved_at": "2026-06-30T11:48:53.671000+00:00",
+        "published_date": "2026-06-05",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -478,84 +544,6 @@
           "is_evergreen": true,
           "interest_score": 8
         }
-      },
-      {
-        "id": "01ktt9nrahqk4mhsqkf56m25a3",
-        "url": "https://read.readwise.io/read/01ktt9nrahqk4mhsqkf56m25a3",
-        "source_url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
-        "title": "Why AI hasn’t replaced software engineers, and won’t",
-        "author": "Arvind Narayanan",
-        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png",
-        "word_count": 4135,
-        "summary": "AI has not replaced software engineers because it mainly helps with routine coding, while humans still handle key decisions and quality checks. Stories of AI causing mass layoffs are often misleading and used to mask other business reasons. Instead of reducing jobs, AI is changing how software is made and may even increase the demand for engineers.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-11T02:55:06.650000+00:00",
-        "last_moved_at": "2026-06-30T11:48:55.401000+00:00",
-        "published_date": "2026-06-11",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01kgafx4271vdg3eqw50jk0jm8",
-        "url": "https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8",
-        "source_url": "https://blog.xoria.org/macos-tips/",
-        "title": "macOS Tips",
-        "author": "xoria.org",
-        "image_url": "",
-        "word_count": 2856,
-        "summary": "macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1769878762214
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-31T16:59:13.351000+00:00",
-        "last_moved_at": "2026-01-31T16:59:16.193000+00:00",
-        "published_date": "2024-11-15",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01k7z3amqe376ky08bkmjbnp3v",
-        "url": "https://read.readwise.io/read/01k7z3amqe376ky08bkmjbnp3v",
-        "source_url": "https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email",
-        "title": "How to build a remarkable command palette",
-        "author": "Tim Boucher",
-        "image_url": "https://blog.superhuman.com/content/images/2021/10/Cmd_Header.jpg",
-        "word_count": 2747,
-        "summary": "A command palette is a user interface tool that allows quick access to various commands, making it easier for users to discover features. To build an effective command palette, ensure it is available everywhere, centralizes all commands, and offers flexibility in command matching. By following these principles, you can create a powerful and user-friendly command palette that enhances productivity.",
-        "notes": "https://chatgpt.com/c/69442ca9-df50-8325-a6a9-ab2121ec93ae",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1760906540423
-          }
-        },
-        "highlights": [],
-        "saved_at": "2025-10-19T20:42:11.566000+00:00",
-        "last_moved_at": "2025-10-20T06:47:56.848000+00:00",
-        "published_date": "2021-10-12",
-        "triage": {
-          "is_tutorial": true,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 7
-        }
       }
     ],
     "shortest": [
@@ -607,6 +595,39 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 4
+        }
+      },
+      {
+        "id": "01kx3cnkj2hwfgbz9e3thgm4h1",
+        "url": "https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1",
+        "source_url": "https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev",
+        "title": "I Think I Have LLM Burnout",
+        "author": "Alec Scollon",
+        "image_url": "",
+        "word_count": 494,
+        "summary": "The author uses large language models (LLMs) daily for coding help and research. Over time, they feel tired of repeated mistakes and annoying writing styles from LLMs. Despite this frustration, they find LLMs useful and plan to keep using them.",
+        "notes": "Via TLDR Newsletter",
+        "tags": {
+          "burnout": {
+            "name": "Burnout",
+            "type": "manual",
+            "created": 1783599141649
+          },
+          "llm-devimpact": {
+            "name": "LLM-DevImpact",
+            "type": "manual",
+            "created": 1783599138652
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-07-09T12:12:04.034000+00:00",
+        "last_moved_at": "2026-07-09T12:12:07.023000+00:00",
+        "published_date": "2026-07-09",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 6
         }
       },
       {
@@ -665,6 +686,50 @@
         }
       },
       {
+        "id": "01kx3cqdywj4jkw531317tmtrp",
+        "url": "https://read.readwise.io/read/01kx3cqdywj4jkw531317tmtrp",
+        "source_url": "https://registerspill.thorstenball.com/p/ownership?utm_source=tldrdev",
+        "title": "Ownership",
+        "author": "Thorsten Ball",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!CZbr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f40d736-acff-4169-9051-4d7c1d1b7ded_2026x1372.png",
+        "word_count": 1080,
+        "summary": "Ownership means taking full responsibility for solving a problem from start to finish. It involves thinking deeply about the issue, testing carefully, and making sure the solution works well in production. Juniors should learn to aim for this level of care and ask for help when needed.",
+        "notes": "Via JoyAndCuriosity; Via TLDR Newsletter",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-09T12:13:03.836000+00:00",
+        "last_moved_at": "2026-07-09T12:13:08.666000+00:00",
+        "published_date": "2026-07-08",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kx22hsbpzx4m5ym5wwrzpvxw",
+        "url": "https://read.readwise.io/read/01kx22hsbpzx4m5ym5wwrzpvxw",
+        "source_url": "https://charity.wtf/p/have-you-heard-clickhouse-is-winning",
+        "title": "Have you heard? Clickhouse is winning the observability wars!",
+        "author": "Charity Majors",
+        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/d3a86396-2b28-4c21-9279-b439c08033cd_872x435.png",
+        "word_count": 1356,
+        "summary": "Clickhouse is praised for handling huge observability data smoothly, unlike older tools that struggle at scale. It uses a modern columnar storage system, making observability simpler and more powerful. This new approach could change the industry and challenge old companies like Datadog.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-08T23:55:55.710000+00:00",
+        "last_moved_at": "2026-07-10T10:34:09.087000+00:00",
+        "published_date": "2026-07-08",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01kczwvew6dftm8phypwzjqxd2",
         "url": "https://read.readwise.io/read/01kczwvew6dftm8phypwzjqxd2",
         "source_url": "https://www.loopwerk.io/articles/2025/2025-in-review/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316",
@@ -707,6 +772,28 @@
         "saved_at": "2026-01-06T15:33:33.786000+00:00",
         "last_moved_at": "2026-01-06T15:33:35.811000+00:00",
         "published_date": "2026-01-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 3
+        }
+      },
+      {
+        "id": "01kwwgak1ba1npmcb63g8z72se",
+        "url": "https://read.readwise.io/read/01kwwgak1ba1npmcb63g8z72se",
+        "source_url": "https://newsletter.manager.dev/p/the-software-engineering-war",
+        "title": "The software engineering war",
+        "author": "Anton Zaides",
+        "image_url": "https://www.manager.dev/newsletter/the-software-engineering-war/opengraph-image-2tlwqw?c84712a3cec82ff5",
+        "word_count": 1461,
+        "summary": "Software engineers are divided between \"builders\" who focus on fast delivery using AI and \"keepers\" who value well-crafted, reliable code. Both sides have valid points, but extreme views lead to conflict and poor results. The best approach is a balanced mindset that adapts over time and embraces both quality and speed.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-06T20:01:13.332000+00:00",
+        "last_moved_at": "2026-07-10T10:34:08.169000+00:00",
+        "published_date": "2026-07-07",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -812,6 +899,28 @@
           "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 3
+        }
+      },
+      {
+        "id": "01kx5q3v2t6fy3746shdtvrwm7",
+        "url": "https://read.readwise.io/read/01kx5q3v2t6fy3746shdtvrwm7",
+        "source_url": "https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/",
+        "title": "Pluralistic: \"Rights for robots\" and the AI slavery fantasy (10 Jul 2026)",
+        "author": "Cory Doctorow",
+        "image_url": "https://i0.wp.com/pluralistic.net/wp-content/uploads/2020/02/cropped-guillotine-French-Revolution.jpg?fit=192%2C192&ssl=1",
+        "word_count": 2037,
+        "summary": "The idea of giving rights to robots is linked to a fantasy where AI replaces humans but remains as uncomplaining slaves. This view ignores that AI work often depends on low-paid human labor hidden behind the scenes. Treating AI as having personhood could harm humans, just like corporate personhood has caused problems.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-10T09:53:02.115000+00:00",
+        "last_moved_at": "2026-07-10T10:34:10.505000+00:00",
+        "published_date": "2026-07-10",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
         }
       },
       {
@@ -1037,6 +1146,28 @@
         }
       },
       {
+        "id": "01kwpt8ygxm6hpvcyv4svnz82t",
+        "url": "https://read.readwise.io/read/01kwpt8ygxm6hpvcyv4svnz82t",
+        "source_url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
+        "title": "Goodbye, forever, probably.",
+        "author": "whitep4nth3r.com",
+        "image_url": "https://res.cloudinary.com/whitep4nth3r/image/upload/w_1200,h_630,c_fill,q_auto,f_auto/w_900,c_fit,g_north_west,co_rgb:ffffff,x_20,y_20,l_text:Anton_100__line_spacing_-40:GOODBYE%252C%20FOREVER%252C%20PROBABLY./og_2026.png",
+        "word_count": 2671,
+        "summary": "The author has retired from developer relations after years of burnout and industry changes. They no longer find value in teaching tech as the field shifts with AI and new trends. Now, they look forward to a quieter role as a staff engineer and rebuilding themselves away from the spotlight.",
+        "notes": "Via Simon Willison",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-04T14:59:41.725000+00:00",
+        "last_moved_at": "2026-07-04T14:59:51.780000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01ktttmvkt8cp8d9mgx591w0fz",
         "url": "https://read.readwise.io/read/01ktttmvkt8cp8d9mgx591w0fz",
         "source_url": "https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/",
@@ -1056,6 +1187,28 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 9
+        }
+      },
+      {
+        "id": "01kx464zpf6xsczdwd90gpf1m1",
+        "url": "https://read.readwise.io/read/01kx464zpf6xsczdwd90gpf1m1",
+        "source_url": "https://en.wikipedia.org/wiki/WAV",
+        "title": "WAV - Wikipedia",
+        "author": "wikipedia.org",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/AudacityWAV.png",
+        "word_count": 2729,
+        "summary": "WAV is an audio file format created by IBM and Microsoft for storing uncompressed sound on Windows computers. It uses the RIFF format to organize audio data in chunks and supports both uncompressed and compressed audio. WAV files are widely used in broadcasting but have a size limit of 4 GB due to their file structure.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-09T19:37:22.383000+00:00",
+        "last_moved_at": "2026-07-09T19:37:28.604000+00:00",
+        "published_date": "2026-06-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 2
         }
       },
       {
@@ -1174,195 +1327,6 @@
           "is_evergreen": true,
           "interest_score": 2
         }
-      },
-      {
-        "id": "01kjmv4fykfx18fbq95cz8v7v3",
-        "url": "https://read.readwise.io/read/01kjmv4fykfx18fbq95cz8v7v3",
-        "source_url": "https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email",
-        "title": "Twenty Five Years of Computing",
-        "author": "susam.net",
-        "image_url": "",
-        "word_count": 3913,
-        "summary": "The author has over 25 years of experience in software development, starting from university days. Early challenges and learning moments helped them grow into a skilled engineer. They value professionalism, continuous learning, and kindness in their career.",
-        "notes": "",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1772373568278
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-01T13:59:17.202000+00:00",
-        "last_moved_at": "2026-03-01T13:59:25.116000+00:00",
-        "published_date": "2026-02-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kg1jzqd4sxbwtw7hcnhp8hwm",
-        "url": "https://read.readwise.io/read/01kg1jzqd4sxbwtw7hcnhp8hwm",
-        "source_url": "https://cannoneyed.com/projects/isometric-nyc?utm_source=substack&utm_medium=email",
-        "title": "/ Isometric NYC",
-        "author": "cannoneyed.com",
-        "image_url": "",
-        "word_count": 3943,
-        "summary": "The author used AI agents to help build a pixel art map of NYC with very little coding. Image generation models still struggle with mistakes and automation is hard. Despite challenges, AI tools make large creative projects possible and inspire hope for the future.",
-        "notes": "",
-        "tags": {
-          "joyandcuriosity": {
-            "name": "JoyAndCuriosity",
-            "type": "manual",
-            "created": 1769580006325
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-28T05:59:54.532000+00:00",
-        "last_moved_at": "2026-01-28T05:59:58.961000+00:00",
-        "published_date": null,
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01ktt9nrahqk4mhsqkf56m25a3",
-        "url": "https://read.readwise.io/read/01ktt9nrahqk4mhsqkf56m25a3",
-        "source_url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
-        "title": "Why AI hasn’t replaced software engineers, and won’t",
-        "author": "Arvind Narayanan",
-        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png",
-        "word_count": 4135,
-        "summary": "AI has not replaced software engineers because it mainly helps with routine coding, while humans still handle key decisions and quality checks. Stories of AI causing mass layoffs are often misleading and used to mask other business reasons. Instead of reducing jobs, AI is changing how software is made and may even increase the demand for engineers.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-06-11T02:55:06.650000+00:00",
-        "last_moved_at": "2026-06-30T11:48:55.401000+00:00",
-        "published_date": "2026-06-11",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 7
-        }
-      },
-      {
-        "id": "01kkeb8d42rdtsnyrwfezxesgd",
-        "url": "https://read.readwise.io/read/01kkeb8d42rdtsnyrwfezxesgd",
-        "source_url": "https://webdirections.org/blog/the-structure-of-engineering-revolutions/?utm_source=substack&utm_medium=email",
-        "title": "The Structure of Engineering Revolutions",
-        "author": "@johnallsopp",
-        "image_url": "https://webdirections.org/wp-content/themes/wd/images/opengraph.webp",
-        "word_count": 4159,
-        "summary": "Experienced software engineers resist AI-assisted coding because it challenges their long-held beliefs and skills. This resistance follows a pattern of paradigm shifts described by Thomas Kuhn, where new ideas disrupt old frameworks. Despite skepticism, AI tools are proving to boost productivity and change software development fundamentally.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-03-11T11:42:03.394000+00:00",
-        "last_moved_at": "2026-03-11T11:42:17.126000+00:00",
-        "published_date": "2026-03-02",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
-        }
-      },
-      {
-        "id": "01kke9tesp0nwb5ps5fn0nd3ff",
-        "url": "https://read.readwise.io/read/01kke9tesp0nwb5ps5fn0nd3ff",
-        "source_url": "https://aresluna.org/fn/?utm_source=tldrdev",
-        "title": "I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either",
-        "author": "Marcin Wichary",
-        "image_url": "https://aresluna.org/images/fn/ogimage.png",
-        "word_count": 4303,
-        "summary": "The Fn key first appeared in 1984 to help laptops mimic missing keys and control hardware functions. Apple recently introduced a new Globe (🌐) key, causing confusion with the traditional Fn key on external keyboards. Keyboard designs keep evolving, but many users face challenges due to different keys and shortcuts across devices.",
-        "notes": "",
-        "tags": {
-          "macos": {
-            "name": "MacOS",
-            "type": "manual",
-            "created": 1773227828956
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-03-11T11:16:57.782000+00:00",
-        "last_moved_at": "2026-03-11T11:17:01.435000+00:00",
-        "published_date": "2026-03-09",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 4
-        }
-      },
-      {
-        "id": "01kev57mqrms6nmez28y5667xg",
-        "url": "https://read.readwise.io/read/01kev57mqrms6nmez28y5667xg",
-        "source_url": "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/?utm_source=tldrdev",
-        "title": "How Markdown took over the world",
-        "author": "Anil Dash",
-        "image_url": "https://www.anildash.com/images/imac-g4-markdown.jpg",
-        "word_count": 4535,
-        "summary": "Markdown started as a simple way to make writing on the internet easier without needing complicated code. Many people liked it and began using it everywhere, from blogs to apps like Microsoft Notepad and Apple Notes. Its success shows how open, easy ideas can grow big and change how we share information online.",
-        "notes": "",
-        "tags": {
-          "markdown": {
-            "name": "Markdown",
-            "type": "manual",
-            "created": 1768290512541
-          },
-          "shortlist": {
-            "name": "Shortlist",
-            "type": "manual",
-            "created": 1770711283880
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-13T07:48:25.464000+00:00",
-        "last_moved_at": "2026-01-13T07:48:37.811000+00:00",
-        "published_date": "2026-01-09",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kqehj6aqfvy5ftqn9fatzj8q",
-        "url": "https://read.readwise.io/read/01kqehj6aqfvy5ftqn9fatzj8q",
-        "source_url": "https://internals-for-interns.com/posts/go-netpoller/?utm_source=christophberger&utm_medium=email&utm_campaign=2026-04-26-not-magic",
-        "title": "Understanding the Go Runtime: The Network Poller",
-        "author": "Jesús Espino",
-        "image_url": "https://internals-for-interns.com/images/go-runtime-header.webp",
-        "word_count": 4703,
-        "summary": "Go’s runtime manages network I/O by asking the kernel if data is ready and putting goroutines to sleep instead of blocking OS threads. When data arrives, the kernel notifies the runtime, which wakes the right goroutine to continue work. This system lets Go efficiently handle many network tasks without wasting threads.",
-        "notes": "",
-        "tags": {
-          "go": {
-            "name": "Go",
-            "type": "manual",
-            "created": 1777530910595
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-30T06:35:02.872000+00:00",
-        "last_moved_at": "2026-04-30T06:35:07.092000+00:00",
-        "published_date": "2026-04-20",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
       }
     ],
     "quick_wins": [
@@ -1402,6 +1366,39 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 8
+        }
+      },
+      {
+        "id": "01kx3cnkj2hwfgbz9e3thgm4h1",
+        "url": "https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1",
+        "source_url": "https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev",
+        "title": "I Think I Have LLM Burnout",
+        "author": "Alec Scollon",
+        "image_url": "",
+        "word_count": 494,
+        "summary": "The author uses large language models (LLMs) daily for coding help and research. Over time, they feel tired of repeated mistakes and annoying writing styles from LLMs. Despite this frustration, they find LLMs useful and plan to keep using them.",
+        "notes": "Via TLDR Newsletter",
+        "tags": {
+          "burnout": {
+            "name": "Burnout",
+            "type": "manual",
+            "created": 1783599141649
+          },
+          "llm-devimpact": {
+            "name": "LLM-DevImpact",
+            "type": "manual",
+            "created": 1783599138652
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-07-09T12:12:04.034000+00:00",
+        "last_moved_at": "2026-07-09T12:12:07.023000+00:00",
+        "published_date": "2026-07-09",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 6
         }
       },
       {
@@ -1540,6 +1537,50 @@
         }
       },
       {
+        "id": "01kwz5gtz0j1ey348z8y17bfq5",
+        "url": "https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5",
+        "source_url": "https://spf13.com/p/go-the-agentic-language/",
+        "title": "Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack",
+        "author": "spf13",
+        "image_url": "https://spf13.com/p/go-the-agentic-language/hero-gopher-gouache-clean-original.jpg",
+        "word_count": 3476,
+        "summary": "TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-07T20:50:07.016000+00:00",
+        "last_moved_at": "2026-07-10T10:34:07.007000+00:00",
+        "published_date": "2026-07-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01kwwn2ytv7x4axf9yptxbtpm5",
+        "url": "https://read.readwise.io/read/01kwwn2ytv7x4axf9yptxbtpm5",
+        "source_url": "https://addyosmani.com/blog/agentic-autonomy-levels/",
+        "title": "Agentic Autonomy Levels",
+        "author": "Addy Osmani",
+        "image_url": "https://addyosmani.com/assets/images/favicons/android-chrome-192x192.png",
+        "word_count": 2824,
+        "summary": "Agentic autonomy levels guide how much freedom AI agents have, balancing risk and control. Lower levels need human oversight, while higher levels let agents work independently or in parallel with evidence to verify success. The best approach matches autonomy to task risk and verification, ensuring safe and effective AI use.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-06T21:24:23.147000+00:00",
+        "last_moved_at": "2026-07-10T10:34:03.599000+00:00",
+        "published_date": "2026-07-02",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
         "id": "01ktttmvkt8cp8d9mgx591w0fz",
         "url": "https://read.readwise.io/read/01ktttmvkt8cp8d9mgx591w0fz",
         "source_url": "https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/",
@@ -1582,6 +1623,28 @@
         "saved_at": "2026-03-01T20:44:36.976000+00:00",
         "last_moved_at": "2026-03-01T20:44:42.974000+00:00",
         "published_date": "2026-02-27",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01ktc7x03aqjmqmw7rfaypvah7",
+        "url": "https://read.readwise.io/read/01ktc7x03aqjmqmw7rfaypvah7",
+        "source_url": "https://joshcollinsworth.com/blog/productivity",
+        "title": "LLMs and performative productivity",
+        "author": "Josh Collinsworth",
+        "image_url": "https://joshcollinsworth.com/images/site-image.png",
+        "word_count": 5221,
+        "summary": "AI tools like large language models (LLMs) often make developers feel more productive, but studies show they may actually slow work and reduce skill growth. Productivity gains are mostly seen in simple tasks, while complex projects can suffer from lower code quality and more maintenance. True productivity is hard to measure and requires careful thought, not just faster or more code output.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-05T15:54:44.787000+00:00",
+        "last_moved_at": "2026-06-30T11:48:53.671000+00:00",
+        "published_date": "2026-06-05",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -1892,6 +1955,50 @@
           "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 7
+        }
+      },
+      {
+        "id": "01kx3cky929t7sh4p6wnptbjs6",
+        "url": "https://read.readwise.io/read/01kx3cky929t7sh4p6wnptbjs6",
+        "source_url": "https://bun.com/blog/bun-in-rust?utm_source=tldrdev",
+        "title": "Rewriting Bun in Rust",
+        "author": "Jarred Sumner",
+        "image_url": "https://bun.com/og/blog/bun-in-rust.png",
+        "word_count": 5681,
+        "summary": "Bun was rewritten from Zig to Rust using AI assistance, improving code safety and reducing bugs. The Rust version fixes many memory leaks and shrinks the binary size by about 20%. This rewrite makes Bun faster, smaller, and more stable with better tools for future improvements.",
+        "notes": "Via TLDR Newsletter; Via Simon Willison.",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-09T12:11:09.474000+00:00",
+        "last_moved_at": "2026-07-09T12:11:15.772000+00:00",
+        "published_date": "2026-07-08",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 6
+        }
+      },
+      {
+        "id": "01kwkh7aexga4sckh7pjnfyegh",
+        "url": "https://read.readwise.io/read/01kwkh7aexga4sckh7pjnfyegh",
+        "source_url": "https://arxiv.org/pdf/2603.22106",
+        "title": "From Technical Debt to Cognitive and Intent Debt",
+        "author": "arxiv.org",
+        "image_url": null,
+        "word_count": 4940,
+        "summary": "Software development now faces three kinds of debt: technical debt (messy code), cognitive debt (lost shared understanding), and intent debt (unclear goals). Generative AI speeds up coding but can worsen cognitive and intent debt by reducing team understanding and clarity. To stay healthy, software teams must focus as much on clear intent and shared knowledge as on code quality.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-03T08:23:47.933000+00:00",
+        "last_moved_at": "2026-07-03T08:24:21.805000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 6
         }
       },
       {
@@ -2295,6 +2402,28 @@
         }
       },
       {
+        "id": "01kx4gtxsh1m1hpy1fy1wg8kp5",
+        "url": "https://read.readwise.io/read/01kx4gtxsh1m1hpy1fy1wg8kp5",
+        "source_url": "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+        "title": "Up the Stack: How AI’s Escape From the Commodity Trap Risks Enterprise Lock-in",
+        "author": "Arvind Narayanan",
+        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/01c35aa8-1081-40d7-9594-6db194483143_1792x1008.png",
+        "word_count": 5619,
+        "summary": "AI companies face challenges making profits by just selling model inference because it is a commodity with little differentiation. To succeed, they must move up the stack by offering integrated services and creating switching costs like traditional enterprise software firms. This shift raises important questions about competition, innovation, and who will benefit from AI’s economic impact.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-09T22:44:04.089000+00:00",
+        "last_moved_at": "2026-07-10T10:34:09.782000+00:00",
+        "published_date": "2026-07-09",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01jr0kw78dv3cjfds3t8dqfrfr",
         "url": "https://read.readwise.io/read/01jr0kw78dv3cjfds3t8dqfrfr",
         "source_url": "https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code",
@@ -2545,6 +2674,50 @@
         }
       },
       {
+        "id": "01kx464zpf6xsczdwd90gpf1m1",
+        "url": "https://read.readwise.io/read/01kx464zpf6xsczdwd90gpf1m1",
+        "source_url": "https://en.wikipedia.org/wiki/WAV",
+        "title": "WAV - Wikipedia",
+        "author": "wikipedia.org",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/AudacityWAV.png",
+        "word_count": 2729,
+        "summary": "WAV is an audio file format created by IBM and Microsoft for storing uncompressed sound on Windows computers. It uses the RIFF format to organize audio data in chunks and supports both uncompressed and compressed audio. WAV files are widely used in broadcasting but have a size limit of 4 GB due to their file structure.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-09T19:37:22.383000+00:00",
+        "last_moved_at": "2026-07-09T19:37:28.604000+00:00",
+        "published_date": "2026-06-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kwpt8ygxm6hpvcyv4svnz82t",
+        "url": "https://read.readwise.io/read/01kwpt8ygxm6hpvcyv4svnz82t",
+        "source_url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
+        "title": "Goodbye, forever, probably.",
+        "author": "whitep4nth3r.com",
+        "image_url": "https://res.cloudinary.com/whitep4nth3r/image/upload/w_1200,h_630,c_fill,q_auto,f_auto/w_900,c_fit,g_north_west,co_rgb:ffffff,x_20,y_20,l_text:Anton_100__line_spacing_-40:GOODBYE%252C%20FOREVER%252C%20PROBABLY./og_2026.png",
+        "word_count": 2671,
+        "summary": "The author has retired from developer relations after years of burnout and industry changes. They no longer find value in teaching tech as the field shifts with AI and new trends. Now, they look forward to a quieter role as a staff engineer and rebuilding themselves away from the spotlight.",
+        "notes": "Via Simon Willison",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-04T14:59:41.725000+00:00",
+        "last_moved_at": "2026-07-04T14:59:51.780000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01ketz55qw4x3f1f548a95hc69",
         "url": "https://read.readwise.io/read/01ketz55qw4x3f1f548a95hc69",
         "source_url": "https://writethatblog.substack.com/p/technical-blogging-lessons-learned?utm_source=tldrdev",
@@ -2648,6 +2821,28 @@
         "saved_at": "2026-04-13T12:14:46.006000+00:00",
         "last_moved_at": "2026-04-13T12:14:57.079000+00:00",
         "published_date": "2026-04-01",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kx5q3v2t6fy3746shdtvrwm7",
+        "url": "https://read.readwise.io/read/01kx5q3v2t6fy3746shdtvrwm7",
+        "source_url": "https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/",
+        "title": "Pluralistic: \"Rights for robots\" and the AI slavery fantasy (10 Jul 2026)",
+        "author": "Cory Doctorow",
+        "image_url": "https://i0.wp.com/pluralistic.net/wp-content/uploads/2020/02/cropped-guillotine-French-Revolution.jpg?fit=192%2C192&ssl=1",
+        "word_count": 2037,
+        "summary": "The idea of giving rights to robots is linked to a fantasy where AI replaces humans but remains as uncomplaining slaves. This view ignores that AI work often depends on low-paid human labor hidden behind the scenes. Treating AI as having personhood could harm humans, just like corporate personhood has caused problems.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-10T09:53:02.115000+00:00",
+        "last_moved_at": "2026-07-10T10:34:10.505000+00:00",
+        "published_date": "2026-07-10",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -3137,6 +3332,50 @@
     ],
     "fundamentals": [
       {
+        "id": "01kwz5gtz0j1ey348z8y17bfq5",
+        "url": "https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5",
+        "source_url": "https://spf13.com/p/go-the-agentic-language/",
+        "title": "Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack",
+        "author": "spf13",
+        "image_url": "https://spf13.com/p/go-the-agentic-language/hero-gopher-gouache-clean-original.jpg",
+        "word_count": 3476,
+        "summary": "TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-07T20:50:07.016000+00:00",
+        "last_moved_at": "2026-07-10T10:34:07.007000+00:00",
+        "published_date": "2026-07-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01kwwn2ytv7x4axf9yptxbtpm5",
+        "url": "https://read.readwise.io/read/01kwwn2ytv7x4axf9yptxbtpm5",
+        "source_url": "https://addyosmani.com/blog/agentic-autonomy-levels/",
+        "title": "Agentic Autonomy Levels",
+        "author": "Addy Osmani",
+        "image_url": "https://addyosmani.com/assets/images/favicons/android-chrome-192x192.png",
+        "word_count": 2824,
+        "summary": "Agentic autonomy levels guide how much freedom AI agents have, balancing risk and control. Lower levels need human oversight, while higher levels let agents work independently or in parallel with evidence to verify success. The best approach matches autonomy to task risk and verification, ensuring safe and effective AI use.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-06T21:24:23.147000+00:00",
+        "last_moved_at": "2026-07-10T10:34:03.599000+00:00",
+        "published_date": "2026-07-02",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 9
+        }
+      },
+      {
         "id": "01k1sv73j1ksk35k38e375h0b7",
         "url": "https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7",
         "source_url": "http://rednafi.com/go/gateway_pattern/",
@@ -3444,6 +3683,28 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 7
+        }
+      },
+      {
+        "id": "01kwkh7aexga4sckh7pjnfyegh",
+        "url": "https://read.readwise.io/read/01kwkh7aexga4sckh7pjnfyegh",
+        "source_url": "https://arxiv.org/pdf/2603.22106",
+        "title": "From Technical Debt to Cognitive and Intent Debt",
+        "author": "arxiv.org",
+        "image_url": null,
+        "word_count": 4940,
+        "summary": "Software development now faces three kinds of debt: technical debt (messy code), cognitive debt (lost shared understanding), and intent debt (unclear goals). Generative AI speeds up coding but can worsen cognitive and intent debt by reducing team understanding and clarity. To stay healthy, software teams must focus as much on clear intent and shared knowledge as on code quality.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-03T08:23:47.933000+00:00",
+        "last_moved_at": "2026-07-03T08:24:21.805000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 6
         }
       },
       {
@@ -4030,6 +4291,28 @@
         }
       },
       {
+        "id": "01kwz5gtz0j1ey348z8y17bfq5",
+        "url": "https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5",
+        "source_url": "https://spf13.com/p/go-the-agentic-language/",
+        "title": "Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack",
+        "author": "spf13",
+        "image_url": "https://spf13.com/p/go-the-agentic-language/hero-gopher-gouache-clean-original.jpg",
+        "word_count": 3476,
+        "summary": "TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-07T20:50:07.016000+00:00",
+        "last_moved_at": "2026-07-10T10:34:07.007000+00:00",
+        "published_date": "2026-07-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": true,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
         "id": "01ktttmvkt8cp8d9mgx591w0fz",
         "url": "https://read.readwise.io/read/01ktttmvkt8cp8d9mgx591w0fz",
         "source_url": "https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/",
@@ -4072,6 +4355,28 @@
         "saved_at": "2026-03-01T20:44:36.976000+00:00",
         "last_moved_at": "2026-03-01T20:44:42.974000+00:00",
         "published_date": "2026-02-27",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01ktc7x03aqjmqmw7rfaypvah7",
+        "url": "https://read.readwise.io/read/01ktc7x03aqjmqmw7rfaypvah7",
+        "source_url": "https://joshcollinsworth.com/blog/productivity",
+        "title": "LLMs and performative productivity",
+        "author": "Josh Collinsworth",
+        "image_url": "https://joshcollinsworth.com/images/site-image.png",
+        "word_count": 5221,
+        "summary": "AI tools like large language models (LLMs) often make developers feel more productive, but studies show they may actually slow work and reduce skill growth. Productivity gains are mostly seen in simple tasks, while complex projects can suffer from lower code quality and more maintenance. True productivity is hard to measure and requires careful thought, not just faster or more code output.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-05T15:54:44.787000+00:00",
+        "last_moved_at": "2026-06-30T11:48:53.671000+00:00",
+        "published_date": "2026-06-05",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -4230,6 +4535,39 @@
         }
       },
       {
+        "id": "01kx3cnkj2hwfgbz9e3thgm4h1",
+        "url": "https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1",
+        "source_url": "https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev",
+        "title": "I Think I Have LLM Burnout",
+        "author": "Alec Scollon",
+        "image_url": "",
+        "word_count": 494,
+        "summary": "The author uses large language models (LLMs) daily for coding help and research. Over time, they feel tired of repeated mistakes and annoying writing styles from LLMs. Despite this frustration, they find LLMs useful and plan to keep using them.",
+        "notes": "Via TLDR Newsletter",
+        "tags": {
+          "burnout": {
+            "name": "Burnout",
+            "type": "manual",
+            "created": 1783599141649
+          },
+          "llm-devimpact": {
+            "name": "LLM-DevImpact",
+            "type": "manual",
+            "created": 1783599138652
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-07-09T12:12:04.034000+00:00",
+        "last_moved_at": "2026-07-09T12:12:07.023000+00:00",
+        "published_date": "2026-07-09",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 6
+        }
+      },
+      {
         "id": "01kss3z202cdpsj7w0ybjycdj0",
         "url": "https://read.readwise.io/read/01kss3z202cdpsj7w0ybjycdj0",
         "source_url": "https://shvbsle.in/various-llm-smells/",
@@ -4330,6 +4668,28 @@
         }
       },
       {
+        "id": "01kwwgak1ba1npmcb63g8z72se",
+        "url": "https://read.readwise.io/read/01kwwgak1ba1npmcb63g8z72se",
+        "source_url": "https://newsletter.manager.dev/p/the-software-engineering-war",
+        "title": "The software engineering war",
+        "author": "Anton Zaides",
+        "image_url": "https://www.manager.dev/newsletter/the-software-engineering-war/opengraph-image-2tlwqw?c84712a3cec82ff5",
+        "word_count": 1461,
+        "summary": "Software engineers are divided between \"builders\" who focus on fast delivery using AI and \"keepers\" who value well-crafted, reliable code. Both sides have valid points, but extreme views lead to conflict and poor results. The best approach is a balanced mindset that adapts over time and embraces both quality and speed.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-06T20:01:13.332000+00:00",
+        "last_moved_at": "2026-07-10T10:34:08.169000+00:00",
+        "published_date": "2026-07-07",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 3
+        }
+      },
+      {
         "id": "01ke9z29ytbhqp25karjrhxfb6",
         "url": "https://read.readwise.io/read/01ke9z29ytbhqp25karjrhxfb6",
         "source_url": "https://davegriffith.substack.com/p/from-senior-engineer-to-staff-with",
@@ -4372,6 +4732,28 @@
         "saved_at": "2026-01-19T05:34:29.805000+00:00",
         "last_moved_at": "2026-01-19T05:34:55.461000+00:00",
         "published_date": "2026-01-12",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kx4gtxsh1m1hpy1fy1wg8kp5",
+        "url": "https://read.readwise.io/read/01kx4gtxsh1m1hpy1fy1wg8kp5",
+        "source_url": "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+        "title": "Up the Stack: How AI’s Escape From the Commodity Trap Risks Enterprise Lock-in",
+        "author": "Arvind Narayanan",
+        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/01c35aa8-1081-40d7-9594-6db194483143_1792x1008.png",
+        "word_count": 5619,
+        "summary": "AI companies face challenges making profits by just selling model inference because it is a commodity with little differentiation. To succeed, they must move up the stack by offering integrated services and creating switching costs like traditional enterprise software firms. This shift raises important questions about competition, innovation, and who will benefit from AI’s economic impact.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-09T22:44:04.089000+00:00",
+        "last_moved_at": "2026-07-10T10:34:09.782000+00:00",
+        "published_date": "2026-07-09",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -4464,6 +4846,28 @@
         }
       },
       {
+        "id": "01kwpt8ygxm6hpvcyv4svnz82t",
+        "url": "https://read.readwise.io/read/01kwpt8ygxm6hpvcyv4svnz82t",
+        "source_url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
+        "title": "Goodbye, forever, probably.",
+        "author": "whitep4nth3r.com",
+        "image_url": "https://res.cloudinary.com/whitep4nth3r/image/upload/w_1200,h_630,c_fill,q_auto,f_auto/w_900,c_fit,g_north_west,co_rgb:ffffff,x_20,y_20,l_text:Anton_100__line_spacing_-40:GOODBYE%252C%20FOREVER%252C%20PROBABLY./og_2026.png",
+        "word_count": 2671,
+        "summary": "The author has retired from developer relations after years of burnout and industry changes. They no longer find value in teaching tech as the field shifts with AI and new trends. Now, they look forward to a quieter role as a staff engineer and rebuilding themselves away from the spotlight.",
+        "notes": "Via Simon Willison",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-04T14:59:41.725000+00:00",
+        "last_moved_at": "2026-07-04T14:59:51.780000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01kes33g1fbdg6b294xz7w4jtt",
         "url": "https://read.readwise.io/read/01kes33g1fbdg6b294xz7w4jtt",
         "source_url": "https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai",
@@ -4520,6 +4924,28 @@
         }
       },
       {
+        "id": "01kx5q3v2t6fy3746shdtvrwm7",
+        "url": "https://read.readwise.io/read/01kx5q3v2t6fy3746shdtvrwm7",
+        "source_url": "https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/",
+        "title": "Pluralistic: \"Rights for robots\" and the AI slavery fantasy (10 Jul 2026)",
+        "author": "Cory Doctorow",
+        "image_url": "https://i0.wp.com/pluralistic.net/wp-content/uploads/2020/02/cropped-guillotine-French-Revolution.jpg?fit=192%2C192&ssl=1",
+        "word_count": 2037,
+        "summary": "The idea of giving rights to robots is linked to a fantasy where AI replaces humans but remains as uncomplaining slaves. This view ignores that AI work often depends on low-paid human labor hidden behind the scenes. Treating AI as having personhood could harm humans, just like corporate personhood has caused problems.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-10T09:53:02.115000+00:00",
+        "last_moved_at": "2026-07-10T10:34:10.505000+00:00",
+        "published_date": "2026-07-10",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
         "id": "01kwf3vq5ta0d14r9cgg79611m",
         "url": "https://read.readwise.io/read/01kwf3vq5ta0d14r9cgg79611m",
         "source_url": "https://evilmartians.com/chronicles/ai-vs-human-illustrators-ai-plus-human-illustrators",
@@ -4562,6 +4988,28 @@
         "saved_at": "2025-12-21T07:26:46.150000+00:00",
         "last_moved_at": "2025-12-21T07:27:02.118000+00:00",
         "published_date": "2025-12-17",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kx22hsbpzx4m5ym5wwrzpvxw",
+        "url": "https://read.readwise.io/read/01kx22hsbpzx4m5ym5wwrzpvxw",
+        "source_url": "https://charity.wtf/p/have-you-heard-clickhouse-is-winning",
+        "title": "Have you heard? Clickhouse is winning the observability wars!",
+        "author": "Charity Majors",
+        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/d3a86396-2b28-4c21-9279-b439c08033cd_872x435.png",
+        "word_count": 1356,
+        "summary": "Clickhouse is praised for handling huge observability data smoothly, unlike older tools that struggle at scale. It uses a modern columnar storage system, making observability simpler and more powerful. This new approach could change the industry and challenge old companies like Datadog.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-07-08T23:55:55.710000+00:00",
+        "last_moved_at": "2026-07-10T10:34:09.087000+00:00",
+        "published_date": "2026-07-08",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

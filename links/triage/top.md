@@ -2,7 +2,7 @@
 
 _20 статей с наивысшим interest_score_
 
-Сгенерировано: 2026-07-11 05:53 UTC · Статей: 20
+Сгенерировано: 2026-07-12 06:20 UTC · Статей: 20
 
 ## Статьи
 
@@ -10,6 +10,10 @@ _20 статей с наивысшим interest_score_
     > **Резюме:** AI generates code faster but creates more issues, making review the slowest and costliest part of development. Human reviewers must spend more time understanding AI-written code since it lacks clear reasoning. Teams should focus on using AI to handle simple checks and save human effort for critical reviews where mistakes matter most.
 - [Watching for file changes on macOS](https://alexwlchan.net/2026/watch-files-on-macos/) [📖](https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j) 👤 alexwlchan 💬 4675 ⭐ 9 🔖 #macos 🗓️ 2026-05-11 · 🛠️ туториал, 🌲 вечнозелёное
     > **Резюме:** The article explains how to use macOS’s FSEvents API in Swift to watch for file changes and print the changed file paths. It shows how a Python script can read these paths from the Swift script’s output to trigger actions like rebuilding a site. This method detects file changes quickly, with just a few milliseconds delay.
+- [Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack](https://spf13.com/p/go-the-agentic-language/) [📖](https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5) 👤 spf13 💬 3476 ⭐ 9 🗓️ 2026-07-07 · 🧠 основы
+    > **Резюме:** TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.
+- [Agentic Autonomy Levels](https://addyosmani.com/blog/agentic-autonomy-levels/) [📖](https://read.readwise.io/read/01kwwn2ytv7x4axf9yptxbtpm5) 👤 Addy Osmani 💬 2824 ⭐ 9 🗓️ 2026-07-06 · 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Agentic autonomy levels guide how much freedom AI agents have, balancing risk and control. Lower levels need human oversight, while higher levels let agents work independently or in parallel with evidence to verify success. The best approach matches autonomy to task risk and verification, ensuring safe and effective AI use.
 - [Vibe Coding Is Dangerous, Agentic Engineering Isn't—Wes McKinney](https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/) [📖](https://read.readwise.io/read/01ktttmvkt8cp8d9mgx591w0fz) 👤 Simon Späti 💬 2700 ⭐ 9 🗓️ 2026-06-11
     > **Резюме:** Wes McKinney uses careful planning and AI agents to write and review code, avoiding "vibe coding." He builds tools that help maintain projects and improve AI-driven development. Wes believes strong specs and engineering skills are key for successful agentic engineering in the future.
 - [Migrating from GNU stow to chezmoi](https://rednafi.com/misc/chezmoi/) [📖](https://read.readwise.io/read/01ktx2qwhgcrkmgyydjc0mmhkh) 👤 Redowan's Reflections 💬 2017 ⭐ 9 🗓️ 2026-06-12 · 🛠️ туториал, 🌲 вечнозелёное
@@ -22,6 +26,8 @@ _20 статей с наивысшим interest_score_
 - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) [📖](https://read.readwise.io/read/01kjnjanqgfzsvenqw6d62rxqv) 👤 Max Woolf's Blog 💬 6903 ⭐ 8 🔖 #llm 🗓️ 2026-03-01
     > **Заметка:** Via https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything
     > **Резюме:** The author tested AI coding agents and found them surprisingly good at writing and optimizing Rust and Python code. These agents created fast, efficient machine learning tools that rival existing libraries. The author encourages others to try modern agents with clear coding guidelines for better results.
+- [LLMs and performative productivity](https://joshcollinsworth.com/blog/productivity) [📖](https://read.readwise.io/read/01ktc7x03aqjmqmw7rfaypvah7) 👤 Josh Collinsworth 💬 5221 ⭐ 8 🗓️ 2026-06-05
+    > **Резюме:** AI tools like large language models (LLMs) often make developers feel more productive, but studies show they may actually slow work and reduce skill growth. Productivity gains are mostly seen in simple tasks, while complex projects can suffer from lower code quality and more maintenance. True productivity is hard to measure and requires careful thought, not just faster or more code output.
 - [/ Isometric NYC](https://cannoneyed.com/projects/isometric-nyc?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kg1jzqd4sxbwtw7hcnhp8hwm) 👤 cannoneyed.com 💬 3943 ⭐ 8 🔖 #joyandcuriosity 🗓️ 2026-01-28
     > **Резюме:** The author used AI agents to help build a pixel art map of NYC with very little coding. Image generation models still struggle with mistakes and automation is hard. Despite challenges, AI tools make large creative projects possible and inspire hope for the future.
 - [How Servers Work: A Hands-On Introduction to TCP Sockets](https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets) [📖](https://read.readwise.io/read/01ktndr2v6nrwd97jy43v36sza) 👤 Ivan Velichko 💬 3616 ⭐ 8 🔖 #theory, #network 🗓️ 2026-06-09 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
@@ -45,10 +51,3 @@ _20 статей с наивысшим interest_score_
 - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3) 👤 ngrok 💬 78 ⭐ 8 🔖 #llm, #explorable, #joyandcuriosity 🗓️ 2025-12-21 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/6947a45b-3860-8331-a302-0c3a55ab5594
     > **Резюме:** Prompt caching stores and reuses parts of LLM requests to avoid repeating work. This cuts token usage and cost by up to tenfold. It requires tracking inputs, outputs, and cache validity to stay correct.
-- [Why AI hasn’t replaced software engineers, and won’t](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers) [📖](https://read.readwise.io/read/01ktt9nrahqk4mhsqkf56m25a3) 👤 Arvind Narayanan 💬 4135 ⭐ 7 🗓️ 2026-06-11
-    > **Резюме:** AI has not replaced software engineers because it mainly helps with routine coding, while humans still handle key decisions and quality checks. Stories of AI causing mass layoffs are often misleading and used to mask other business reasons. Instead of reducing jobs, AI is changing how software is made and may even increase the demand for engineers.
-- [macOS Tips](https://blog.xoria.org/macos-tips/) [📖](https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8) 👤 xoria.org 💬 2856 ⭐ 7 🔖 #macos 🗓️ 2026-01-31 · 🌲 вечнозелёное
-    > **Резюме:** macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.
-- [How to build a remarkable command palette](https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01k7z3amqe376ky08bkmjbnp3v) 👤 Tim Boucher 💬 2747 ⭐ 7 🔖 #joyandcuriosity 🗓️ 2025-10-19 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
-    > **Заметка:** https://chatgpt.com/c/69442ca9-df50-8325-a6a9-ab2121ec93ae
-    > **Резюме:** A command palette is a user interface tool that allows quick access to various commands, making it easier for users to discover features. To build an effective command palette, ensure it is available everywhere, centralizes all commands, and offers flexibility in command matching. By following these principles, you can create a powerful and user-friendly command palette that enhances productivity.

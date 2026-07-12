@@ -2,10 +2,14 @@
 
 _Фундаментальные материалы с долгосрочной ценностью_
 
-Сгенерировано: 2026-07-11 05:53 UTC · Статей: 30
+Сгенерировано: 2026-07-12 06:20 UTC · Статей: 33
 
 ## Статьи
 
+- [Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack](https://spf13.com/p/go-the-agentic-language/) [📖](https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5) 👤 spf13 💬 3476 ⭐ 9 🗓️ 2026-07-07 · 🧠 основы
+    > **Резюме:** TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.
+- [Agentic Autonomy Levels](https://addyosmani.com/blog/agentic-autonomy-levels/) [📖](https://read.readwise.io/read/01kwwn2ytv7x4axf9yptxbtpm5) 👤 Addy Osmani 💬 2824 ⭐ 9 🗓️ 2026-07-06 · 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Agentic autonomy levels guide how much freedom AI agents have, balancing risk and control. Lower levels need human oversight, while higher levels let agents work independently or in parallel with evidence to verify success. The best approach matches autonomy to task risk and verification, ensuring safe and effective AI use.
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) [📖](https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7) 👤 Redowan Delowar 💬 1179 ⭐ 9 🔖 #go, #patterns 🗓️ 2025-08-04 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/694438ad-68b0-832f-91bf-a2c4f204944e
     > **Резюме:** The Gateway pattern helps separate business logic from external service calls by using interfaces. In Go, the consumer defines the interface, allowing easy testing with mocks. This design keeps the service and external dependencies independent and testable.
@@ -30,6 +34,8 @@ _Фундаментальные материалы с долгосрочной �
     > **Резюме:** A command palette is a user interface tool that allows quick access to various commands, making it easier for users to discover features. To build an effective command palette, ensure it is available everywhere, centralizes all commands, and offers flexibility in command matching. By following these principles, you can create a powerful and user-friendly command palette that enhances productivity.
 - [Issuing TLS Certificates in Go](https://getpid.dev/blog/tls-certificates/) [📖](https://read.readwise.io/read/01k1sq2twnr81ds7s9twvd6kx2) 👤 Software Engineering & Personal Thoughts 💬 1511 ⭐ 7 🔖 #go 🗓️ 2025-08-04 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** This guide explains how to create TLS certificates in Go, starting with self-signed certificates and building a chain of trust using root and intermediate Certificate Authorities. It shows how to generate keys, create certificate templates, and sign certificates, including those from Certificate Signing Requests (CSRs). The process helps secure communication by ensuring certificates are trusted and valid for their intended use.
+- [From Technical Debt to Cognitive and Intent Debt](https://arxiv.org/pdf/2603.22106) [📖](https://read.readwise.io/read/01kwkh7aexga4sckh7pjnfyegh) 👤 arxiv.org 💬 4940 ⭐ 6 🗓️ 2026-07-03 · 🧠 основы, 🌲 вечнозелёное
+    > **Резюме:** Software development now faces three kinds of debt: technical debt (messy code), cognitive debt (lost shared understanding), and intent debt (unclear goals). Generative AI speeds up coding but can worsen cognitive and intent debt by reducing team understanding and clarity. To stay healthy, software teams must focus as much on clear intent and shared knowledge as on code quality.
 - [USB for Software Developers](https://werwolv.net/posts/usb_for_sw_devs/) [📖](https://read.readwise.io/read/01knrbv38h3exn38swf8dcxj41) 👤 WerWolv 💬 2523 ⭐ 6 🔖 #usb 🗓️ 2026-04-09 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via HackerNews
     > **Резюме:** Writing a USB driver is similar to writing a network application and does not require kernel code. USB devices identify themselves using standard descriptors, which the host reads to understand the device and its capabilities. Developers can communicate with devices through specific endpoints using simple commands, as shown in the Fastboot example.

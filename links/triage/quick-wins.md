@@ -2,13 +2,16 @@
 
 _Короткие интересные статьи (до 800 слов), не туториалы_
 
-Сгенерировано: 2026-07-11 05:53 UTC · Статей: 5
+Сгенерировано: 2026-07-12 06:20 UTC · Статей: 6
 
 ## Статьи
 
 - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3) 👤 ngrok 💬 78 ⭐ 8 🔖 #llm, #explorable, #joyandcuriosity 🗓️ 2025-12-21 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/6947a45b-3860-8331-a302-0c3a55ab5594
     > **Резюме:** Prompt caching stores and reuses parts of LLM requests to avoid repeating work. This cuts token usage and cost by up to tenfold. It requires tracking inputs, outputs, and cache validity to stay correct.
+- [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1) 👤 Alec Scollon 💬 494 ⭐ 6 🔖 #burnout, #llm-devimpact 🗓️ 2026-07-09
+    > **Заметка:** Via TLDR Newsletter
+    > **Резюме:** The author uses large language models (LLMs) daily for coding help and research. Over time, they feel tired of repeated mistakes and annoying writing styles from LLMs. Despite this frustration, they find LLMs useful and plan to keep using them.
 - [Various LLM smells](https://shvbsle.in/various-llm-smells/) [📖](https://read.readwise.io/read/01kss3z202cdpsj7w0ybjycdj0) 👤 Shiv After Dark 💬 273 ⭐ 4 🗓️ 2026-05-29
     > **Заметка:** Via HN. https://news.ycombinator.com/item?id=48313810
     > **Резюме:** The author used AI to improve their math blog writing and noticed it sounded much better at first. Later, they saw the same AI-style phrases and patterns everywhere online, which they call "AI smells." These patterns include repeated sentence structures, specific phrases, and design elements that reveal AI influence.
