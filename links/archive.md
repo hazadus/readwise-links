@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1786
+- Всего ссылок: 1787
 
 ## Ссылки
 
+- [Why write code in 2026](http://softwaredoug.com/blog/2026/07/09/write-code.html) [📖](https://read.readwise.io/read/01kx6d4sk7dgx5bkjt5164vm6j) 👤 Doug Turnbull 💬 922 🔖 #llm-devimpact 🗓️ 2026-07-10
+    > **Заметка:** В копилку мнений о том, что нужно кодить вручную, чтобы действительно понимать код и не терять навыки.
 - [Blog about things you don't understand yet](https://seangoedecke.com/blog-about-things-you-dont-understand-yet/) [📖](https://read.readwise.io/read/01kwxp6n9pwz7gnt1yenz45tz9) 👤 seangoedecke.com RSS feed 💬 1573 🔖 #writing, #learning 🗓️ 2026-07-07
 - [Describing all my photos](https://alexwlchan.net/2026/describing-my-photos/) [📖](https://read.readwise.io/read/01kwsqska0h87gr18cby2cgyc2) 👤 alexwlchan 💬 1121 🔖 #macos, #inspiration 🗓️ 2026-07-05
     > **Заметка:** Пост интересен для вдохновения, какие штуки можно автоматизировать в работе со своей коллекцией фото на маке.

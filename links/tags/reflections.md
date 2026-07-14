@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 34
+- Всего ссылок: 35
 
 ## Ссылки
 
+- [A technical career retrospective part 1](https://kenwhitesell.github.io/2026/07/10/A-technical-career-retrospective-pt-1.html) [📖](https://read.readwise.io/read/01kx985yzw86k304gp67mpxw15) 👤 Ken Whitesell 💬 1307 🔖 #reflections 🗓️ 2026-07-11
+    > **Резюме:** Ken Whitesell learned programming on a slow, noisy HP-2000F minicomputer using teletypes and paper tape in high school. Debugging was done by hand, and code sharing was difficult due to system limits. Access to better terminals later made programming easier and more practical.
 - [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kwpmv6cr64j0d24p6jsdnzky) 👤 the human in the loop 💬 1738 🔖 #career, #reflections, #llm-devimpact 🗓️ 2026-07-04
     > **Заметка:** Via JoyAndCuriosity Newsletter. Прекрасный пост, всё очень хладнокровно разложено по полочкам. Хотя вызывает только грусть... Продолжение в https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/
     > **Резюме:** The author is a software engineer who feels their specialized skills are becoming less valuable because AI tools can now do much of their work. They worry that even their expertise in debugging and code quality is being replaced by advanced AI. The author is unsure how to stay employable in the future and considers changing careers or learning new skills.

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 21
+- Всего ссылок: 22
 
 ## Ссылки
 
+- [Equatable properties in @Observable classes](https://nilcoalescing.com/blog/EquatablePropertiesInObservableClasses) [📖](https://read.readwise.io/read/01kxd4n9e0dz6y92y5sqtxz8b9) 👤 Nil Coalescing 💬 611 🔖 #swift 🗓️ 2026-07-13
+    > **Резюме:** Using @Observable in SwiftUI tracks property changes to update views efficiently. If a custom property type conforms to Equatable, SwiftUI only updates views when the value truly changes. This reduces unnecessary view updates when models receive frequent but unchanged data.
 - [SwiftUI animation timing](https://nilcoalescing.com/blog/AnimationTimingInSwiftUI) [📖](https://read.readwise.io/read/01kt8tdeyh8fdxn3k2hgc3r8fh) 👤 Nil Coalescing 💬 2178 🔖 #swift 🗓️ 2026-06-04
     > **Резюме:** SwiftUI animations use timing curves to control how values change over time, including easing and spring effects. Since iOS 17, custom timing curves and spring animations can be finely tuned or fully customized. Animation modifiers let you adjust speed, delay, and repetition without changing the animation’s core behavior.
 - [In Praise of SwiftUI](https://troz.net/post/2026/swiftui_praise/) [📖](https://read.readwise.io/read/01kshar3cma3as4cydnmgj7nj2) 👤 Sarah Reichelt 💬 1316 🔖 #macos, #swift 🗓️ 2026-05-26

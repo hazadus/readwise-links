@@ -1,9 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 152
+- Всего ссылок: 154
 
 ## Ссылки
 
+- [Control the ideas, not the code](http://antirez.com/news/169) [📖](https://read.readwise.io/read/01kxdmfb7px8j2f45t8t15mjm1) 👤 <antirez> 💬 1245 🔖 #llm-reality, #llm-devimpact, #softwarecraft 🗓️ 2026-07-13
+    > **Резюме:** Programming is changing because AI can write a lot of code, making it hard to review every line. Instead of focusing on code, developers should control and understand the ideas behind the software. This shift allows more time for quality, testing, and better design in a fast-changing world.
+- [Why write code in 2026](http://softwaredoug.com/blog/2026/07/09/write-code.html) [📖](https://read.readwise.io/read/01kx6d4sk7dgx5bkjt5164vm6j) 👤 Doug Turnbull 💬 922 🔖 #llm-devimpact 🗓️ 2026-07-10
+    > **Заметка:** В копилку мнений о том, что нужно кодить вручную, чтобы действительно понимать код и не терять навыки.
+    > **Резюме:** A bunch of reasons to write code in 2026
 - [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1) 👤 Alec Scollon 💬 494 🔖 #burnout, #llm-devimpact 🗓️ 2026-07-09
     > **Заметка:** Via TLDR Newsletter
     > **Резюме:** The author uses large language models (LLMs) daily for coding help and research. Over time, they feel tired of repeated mistakes and annoying writing styles from LLMs. Despite this frustration, they find LLMs useful and plan to keep using them.

@@ -1,9 +1,19 @@
 # Отложенные ссылки
 
-- Всего ссылок: 81
+- Всего ссылок: 86
 
 ## Ссылки
 
+- [What will be left for us to work on?](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work) [📖](https://read.readwise.io/read/01kxedfnsr1rrvh36k97wzf10j) 👤 Arvind Narayanan 💬 7561 🗓️ 2026-07-13
+    > **Резюме:** AI is rapidly advancing and changing how we work, but it will amplify human skills rather than replace us. We must focus on building complementary skills like judgment and creativity to work well with AI. Over time, AI will handle routine tasks while humans take on more evaluation and decision-making roles.
+- [Control the ideas, not the code](http://antirez.com/news/169) [📖](https://read.readwise.io/read/01kxdmfb7px8j2f45t8t15mjm1) 👤 <antirez> 💬 1245 🔖 #llm-reality, #llm-devimpact, #softwarecraft 🗓️ 2026-07-13
+    > **Резюме:** Programming is changing because AI can write a lot of code, making it hard to review every line. Instead of focusing on code, developers should control and understand the ideas behind the software. This shift allows more time for quality, testing, and better design in a fast-changing world.
+- [A technical career retrospective part 1](https://kenwhitesell.github.io/2026/07/10/A-technical-career-retrospective-pt-1.html) [📖](https://read.readwise.io/read/01kx985yzw86k304gp67mpxw15) 👤 Ken Whitesell 💬 1307 🔖 #reflections 🗓️ 2026-07-11
+    > **Резюме:** Ken Whitesell learned programming on a slow, noisy HP-2000F minicomputer using teletypes and paper tape in high school. Debugging was done by hand, and code sharing was difficult due to system limits. Access to better terminals later made programming easier and more practical.
+- [Make no assumptions.](https://lethain.com/make-no-assumptions/) [📖](https://read.readwise.io/read/01kx8w3p71p7vtvkjce0mt27t7) 👤 Irrational Exuberance 💬 1733 🗓️ 2026-07-11
+    > **Резюме:** Messy codebases often grow when new team members add layers without full understanding, making software harder to maintain. Using AI tools in software helps with consistency, but relying on them outside coding can cause flawed decisions. To avoid mistakes, always question assumptions, review details carefully, and separate experiments from critical work.
+- [In defense of not understanding your codebase](https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/) [📖](https://read.readwise.io/read/01kx81jtbp4bsjhp2vkbh1zhx7) 👤 seangoedecke.com RSS feed 💬 1491 🗓️ 2026-07-11
+    > **Резюме:** In large software systems, no one can fully understand the entire codebase, and partial understanding is normal and necessary. Rebuilding big systems from scratch is usually impossible, so engineers work by learning small parts and making careful changes. Tools like LLMs can help build partial understanding quickly, and sometimes maintaining a perfect mental model must be traded for other practical needs.
 - [Pluralistic: "Rights for robots" and the AI slavery fantasy (10 Jul 2026)](https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/) [📖](https://read.readwise.io/read/01kx5q3v2t6fy3746shdtvrwm7) 👤 Cory Doctorow 💬 2037 🗓️ 2026-07-10
     > **Резюме:** The idea of giving rights to robots is linked to a fantasy where AI replaces humans but remains as uncomplaining slaves. This view ignores that AI work often depends on low-paid human labor hidden behind the scenes. Treating AI as having personhood could harm humans, just like corporate personhood has caused problems.
 - [Up the Stack: How AI’s Escape From the Commodity Trap Risks Enterprise Lock-in](https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from) [📖](https://read.readwise.io/read/01kx4gtxsh1m1hpy1fy1wg8kp5) 👤 Arvind Narayanan 💬 5619 🗓️ 2026-07-09

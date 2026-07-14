@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 58
+- Всего ссылок: 59
 
 ## Ссылки
 
+- [Control the ideas, not the code](http://antirez.com/news/169) [📖](https://read.readwise.io/read/01kxdmfb7px8j2f45t8t15mjm1) 👤 <antirez> 💬 1245 🔖 #llm-reality, #llm-devimpact, #softwarecraft 🗓️ 2026-07-13
+    > **Резюме:** Programming is changing because AI can write a lot of code, making it hard to review every line. Instead of focusing on code, developers should control and understand the ideas behind the software. This shift allows more time for quality, testing, and better design in a fast-changing world.
 - [Fast is better than slow](https://dubroy.com/blog/fast-is-better-than-slow/) [📖](https://read.readwise.io/read/01kwkdpnksgedhs2t2sb9rfnp9) 👤 About 💬 1044 🔖 #softwarecraft 🗓️ 2026-07-03
     > **Заметка:** Via JoyAndCuriosity Newsletter
     > **Резюме:** Being fast is more important than being perfect because it helps you learn and improve quickly. Start tasks right away, share your work early, and avoid wasting time on small details. Work smart by doing only what’s needed and asking for help when you need it.
