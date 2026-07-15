@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 55
+- Всего ссылок: 56
 
 ## Ссылки
 
+- [Building and Shipping Mac and iOS Apps Without Ever Opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) [📖](https://read.readwise.io/read/01kxh0csydav580g00js13b9jz) 👤 scottwillsey.com 💬 2387 🔖 #try, #macos, #swift, #xcode 🗓️ 2026-07-14
+    > **Заметка:** Via HackerNews Digest 2026-07-13.  https://news.ycombinator.com/item?id=48896665. Отличный пост, и по делу! Встречал подобные конфигурации сборки в OSS проектах, но интересно почитать подробное описание. Надо будет попробовать в каком-то из будущих проектов, где не захочется связываться с Xcode.
+    > **Резюме:** You can build and ship Mac and iOS apps without opening Xcode by using command-line tools inside Xcode. After a one-time setup of certificates and credentials, a single script handles building, signing, notarizing, and installing the app. This method automates the entire release process while keeping Xcode closed.
 - [Describing all my photos](https://alexwlchan.net/2026/describing-my-photos/) [📖](https://read.readwise.io/read/01kwsqska0h87gr18cby2cgyc2) 👤 alexwlchan 💬 1121 🔖 #macos, #inspiration 🗓️ 2026-07-05
     > **Заметка:** Пост интересен для вдохновения, какие штуки можно автоматизировать в работе со своей коллекцией фото на маке.
     > **Резюме:** When I save a photo, I write a sentence or two of descriptive context. It helps me remember what's in a photo, why I took it, and how I felt when I did.

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 22
+- Всего ссылок: 23
 
 ## Ссылки
 
+- [Building and Shipping Mac and iOS Apps Without Ever Opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) [📖](https://read.readwise.io/read/01kxh0csydav580g00js13b9jz) 👤 scottwillsey.com 💬 2387 🔖 #try, #macos, #swift, #xcode 🗓️ 2026-07-14
+    > **Заметка:** Via HackerNews Digest 2026-07-13.  https://news.ycombinator.com/item?id=48896665. Отличный пост, и по делу! Встречал подобные конфигурации сборки в OSS проектах, но интересно почитать подробное описание. Надо будет попробовать в каком-то из будущих проектов, где не захочется связываться с Xcode.
+    > **Резюме:** You can build and ship Mac and iOS apps without opening Xcode by using command-line tools inside Xcode. After a one-time setup of certificates and credentials, a single script handles building, signing, notarizing, and installing the app. This method automates the entire release process while keeping Xcode closed.
 - [Equatable properties in @Observable classes](https://nilcoalescing.com/blog/EquatablePropertiesInObservableClasses) [📖](https://read.readwise.io/read/01kxd4n9e0dz6y92y5sqtxz8b9) 👤 Nil Coalescing 💬 611 🔖 #swift 🗓️ 2026-07-13
     > **Резюме:** Using @Observable in SwiftUI tracks property changes to update views efficiently. If a custom property type conforms to Equatable, SwiftUI only updates views when the value truly changes. This reduces unnecessary view updates when models receive frequent but unchanged data.
 - [SwiftUI animation timing](https://nilcoalescing.com/blog/AnimationTimingInSwiftUI) [📖](https://read.readwise.io/read/01kt8tdeyh8fdxn3k2hgc3r8fh) 👤 Nil Coalescing 💬 2178 🔖 #swift 🗓️ 2026-06-04

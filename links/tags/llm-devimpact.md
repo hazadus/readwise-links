@@ -5,6 +5,7 @@
 ## Ссылки
 
 - [Control the ideas, not the code](http://antirez.com/news/169) [📖](https://read.readwise.io/read/01kxdmfb7px8j2f45t8t15mjm1) 👤 <antirez> 💬 1245 🔖 #llm-reality, #llm-devimpact, #softwarecraft 🗓️ 2026-07-13
+    > **Заметка:** Важный взгляд со стороны опытнейшего профессионала.
     > **Резюме:** Programming is changing because AI can write a lot of code, making it hard to review every line. Instead of focusing on code, developers should control and understand the ideas behind the software. This shift allows more time for quality, testing, and better design in a fast-changing world.
 - [Why write code in 2026](http://softwaredoug.com/blog/2026/07/09/write-code.html) [📖](https://read.readwise.io/read/01kx6d4sk7dgx5bkjt5164vm6j) 👤 Doug Turnbull 💬 922 🔖 #llm-devimpact 🗓️ 2026-07-10
     > **Заметка:** В копилку мнений о том, что нужно кодить вручную, чтобы действительно понимать код и не терять навыки.

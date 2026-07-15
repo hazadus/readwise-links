@@ -1,9 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 1787
+- Всего ссылок: 1789
 
 ## Ссылки
 
+- [Building and Shipping Mac and iOS Apps Without Ever Opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) [📖](https://read.readwise.io/read/01kxh0csydav580g00js13b9jz) 👤 scottwillsey.com 💬 2387 🔖 #try, #macos, #swift, #xcode 🗓️ 2026-07-14
+    > **Заметка:** Via HackerNews Digest 2026-07-13.  https://news.ycombinator.com/item?id=48896665. Отличный пост, и по делу! Встречал подобные конфигурации сборки в OSS проектах, но интересно почитать подробное описание. Надо будет попробовать в каком-то из будущих проектов, где не захочется связываться с Xcode.
+- [Control the ideas, not the code](http://antirez.com/news/169) [📖](https://read.readwise.io/read/01kxdmfb7px8j2f45t8t15mjm1) 👤 <antirez> 💬 1245 🔖 #llm-reality, #llm-devimpact, #softwarecraft 🗓️ 2026-07-13
+    > **Заметка:** Важный взгляд со стороны опытнейшего профессионала.
 - [Why write code in 2026](http://softwaredoug.com/blog/2026/07/09/write-code.html) [📖](https://read.readwise.io/read/01kx6d4sk7dgx5bkjt5164vm6j) 👤 Doug Turnbull 💬 922 🔖 #llm-devimpact 🗓️ 2026-07-10
     > **Заметка:** В копилку мнений о том, что нужно кодить вручную, чтобы действительно понимать код и не терять навыки.
 - [Blog about things you don't understand yet](https://seangoedecke.com/blog-about-things-you-dont-understand-yet/) [📖](https://read.readwise.io/read/01kwxp6n9pwz7gnt1yenz45tz9) 👤 seangoedecke.com RSS feed 💬 1573 🔖 #writing, #learning 🗓️ 2026-07-07

@@ -5,6 +5,7 @@
 ## Ссылки
 
 - [Control the ideas, not the code](http://antirez.com/news/169) [📖](https://read.readwise.io/read/01kxdmfb7px8j2f45t8t15mjm1) 👤 <antirez> 💬 1245 🔖 #llm-reality, #llm-devimpact, #softwarecraft 🗓️ 2026-07-13
+    > **Заметка:** Важный взгляд со стороны опытнейшего профессионала.
     > **Резюме:** Programming is changing because AI can write a lot of code, making it hard to review every line. Instead of focusing on code, developers should control and understand the ideas behind the software. This shift allows more time for quality, testing, and better design in a fast-changing world.
 - [Make AI Boring Again](https://charitydotwtf.substack.com/p/make-ai-boring-again) [📖](https://read.readwise.io/read/01kvxkzvp6xesjjmpw3e6nxdpp) 👤 Charity Majors 💬 3220 🔖 #llm-reality 🗓️ 2026-06-24
     > **Заметка:** Приземленный взгляд: нам жить с LLM, от этого уже никуда не деться. Нужно научиться принимать это и минимизировать негативные стороны. Адекватная позиция. 

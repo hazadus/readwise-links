@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 74
+- Всего ссылок: 75
 
 ## Ссылки
 
+- [Building and Shipping Mac and iOS Apps Without Ever Opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) [📖](https://read.readwise.io/read/01kxh0csydav580g00js13b9jz) 👤 scottwillsey.com 💬 2387 🔖 #try, #macos, #swift, #xcode 🗓️ 2026-07-14
+    > **Заметка:** Via HackerNews Digest 2026-07-13.  https://news.ycombinator.com/item?id=48896665. Отличный пост, и по делу! Встречал подобные конфигурации сборки в OSS проектах, но интересно почитать подробное описание. Надо будет попробовать в каком-то из будущих проектов, где не захочется связываться с Xcode.
+    > **Резюме:** You can build and ship Mac and iOS apps without opening Xcode by using command-line tools inside Xcode. After a one-time setup of certificates and credentials, a single script handles building, signing, notarizing, and installing the app. This method automates the entire release process while keeping Xcode closed.
 - [Open Knowledge Format: I Already Do This, and Now It Has a Name](https://alexop.dev/posts/open-knowledge-format-markdown-frontmatter-agent-knowledge/) [📖](https://read.readwise.io/read/01kw45tryd21q5y05v63ptkwkw) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 1905 🔖 #llm, #try, #claude 🗓️ 2026-06-27
     > **Заметка:** Посмотрим для начала, насколько этот формат приживётся. Пока что встречаю первый пост про него.
     > **Резюме:** Open Knowledge Format (OKF) is a simple way to organize knowledge in Markdown files with YAML frontmatter that AI agents can read and humans can edit. It makes files easy to query and link, acting as shared semantic memory for projects without needing special software. OKF is a format, not a platform, so anyone can use it easily and it helps different tools work together.
