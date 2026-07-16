@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 56
+- Всего ссылок: 57
 
 ## Ссылки
 
+- [Claude’s Criminally Bad Electron Mac App Is an Inside Job](https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kxj3sgqkha6xz5430fsp13y3) 👤 Daring Fireball 💬 1355 🔖 #macos, #claude, #electron 🗓️ 2026-07-15
+    > **Заметка:** Via Joy&Curiosity Newsletter #91
+    > **Резюме:** Anthropic’s Claude Mac app is built with Electron, making it slow and not truly native. The reason is largely due to Felix Rieseberg, an Electron co-creator who leads Claude’s desktop engineering. Despite AI tools that can help build native apps, Anthropic sticks with Electron because of engineering preferences and tradeoffs.
 - [Building and Shipping Mac and iOS Apps Without Ever Opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) [📖](https://read.readwise.io/read/01kxh0csydav580g00js13b9jz) 👤 scottwillsey.com 💬 2387 🔖 #try, #macos, #swift, #xcode 🗓️ 2026-07-14
     > **Заметка:** Via HackerNews Digest 2026-07-13.  https://news.ycombinator.com/item?id=48896665. Отличный пост, и по делу! Встречал подобные конфигурации сборки в OSS проектах, но интересно почитать подробное описание. Надо будет попробовать в каком-то из будущих проектов, где не захочется связываться с Xcode.
     > **Резюме:** You can build and ship Mac and iOS apps without opening Xcode by using command-line tools inside Xcode. After a one-time setup of certificates and credentials, a single script handles building, signing, notarizing, and installing the app. This method automates the entire release process while keeping Xcode closed.

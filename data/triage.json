@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T05:44:45.356476+00:00",
+  "generated_at": "2026-07-16T05:52:30.475434+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -342,56 +342,6 @@
         }
       },
       {
-        "id": "01ker9ertz01bavfn5bc79e5dt",
-        "url": "https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt",
-        "source_url": "https://davegriffith.substack.com/p/eight-software-markets-ai-that-will",
-        "title": "Eight Software Markets AI That Will Transform Differently",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 2917,
-        "summary": "AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1768201447692
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-12T05:04:30.047000+00:00",
-        "last_moved_at": "2026-01-12T05:04:35.153000+00:00",
-        "published_date": "2026-01-08",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01ke9z0vpb9xqf5ateyympwzpm",
-        "url": "https://read.readwise.io/read/01ke9z0vpb9xqf5ateyympwzpm",
-        "source_url": "https://tonsky.me/blog/tahoe-icons/",
-        "title": "It’s hard to justify Tahoe icons",
-        "author": "Nikita Prokopov",
-        "image_url": "https://tonsky.me/blog/tahoe-icons/open_graph_facebook_smol.png?t=1767611340",
-        "word_count": 2754,
-        "summary": "Apple's Tahoe icons are confusing and inconsistent, making it hard to find or understand menu items quickly. Too many icons clutter menus, and similar or unclear symbols cause frustration. Good icon design should be simple, clear, and consistent, but Tahoe often misses these points.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-06T15:32:46.411000+00:00",
-        "last_moved_at": "2026-01-06T15:32:50.101000+00:00",
-        "published_date": "2026-01-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
         "id": "01kw7swjy25s3hhx1dmyqermtk",
         "url": "https://read.readwise.io/read/01kw7swjy25s3hhx1dmyqermtk",
         "source_url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
@@ -464,28 +414,6 @@
         }
       },
       {
-        "id": "01kpz4x1yajdkj46sz8958dtx1",
-        "url": "https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1",
-        "source_url": "https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/",
-        "title": "The secret life of the xattr",
-        "author": "hoakley",
-        "image_url": "https://eclecticlight.co/wp-content/uploads/2023/05/fileobjects.png",
-        "word_count": 1905,
-        "summary": "Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-24T07:05:07.859000+00:00",
-        "last_moved_at": "2026-04-25T18:53:40.592000+00:00",
-        "published_date": "2026-04-24",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
         "id": "01kwwn2ypxks210vr793gqm92s",
         "url": "https://read.readwise.io/read/01kwwn2ypxks210vr793gqm92s",
         "source_url": "https://addyosmani.com/blog/career-advice-age-of-agents/",
@@ -544,6 +472,84 @@
           "is_evergreen": true,
           "interest_score": 8
         }
+      },
+      {
+        "id": "01ktt9nrahqk4mhsqkf56m25a3",
+        "url": "https://read.readwise.io/read/01ktt9nrahqk4mhsqkf56m25a3",
+        "source_url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+        "title": "Why AI hasn’t replaced software engineers, and won’t",
+        "author": "Arvind Narayanan",
+        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png",
+        "word_count": 4135,
+        "summary": "AI has not replaced software engineers because it mainly helps with routine coding, while humans still handle key decisions and quality checks. Stories of AI causing mass layoffs are often misleading and used to mask other business reasons. Instead of reducing jobs, AI is changing how software is made and may even increase the demand for engineers.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-11T02:55:06.650000+00:00",
+        "last_moved_at": "2026-06-30T11:48:55.401000+00:00",
+        "published_date": "2026-06-11",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01kgafx4271vdg3eqw50jk0jm8",
+        "url": "https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8",
+        "source_url": "https://blog.xoria.org/macos-tips/",
+        "title": "macOS Tips",
+        "author": "xoria.org",
+        "image_url": "",
+        "word_count": 2856,
+        "summary": "macOS focuses on apps containing windows, not just windows themselves, which changes how users interact with them. The menu bar is a central place for accessing all app commands, even without open windows. macOS manages app windows and lifecycle automatically, making quitting apps less necessary and helping reduce desktop clutter.",
+        "notes": "",
+        "tags": {
+          "macos": {
+            "name": "MacOS",
+            "type": "manual",
+            "created": 1769878762214
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-31T16:59:13.351000+00:00",
+        "last_moved_at": "2026-01-31T16:59:16.193000+00:00",
+        "published_date": "2024-11-15",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01k7z3amqe376ky08bkmjbnp3v",
+        "url": "https://read.readwise.io/read/01k7z3amqe376ky08bkmjbnp3v",
+        "source_url": "https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email",
+        "title": "How to build a remarkable command palette",
+        "author": "Tim Boucher",
+        "image_url": "https://blog.superhuman.com/content/images/2021/10/Cmd_Header.jpg",
+        "word_count": 2747,
+        "summary": "A command palette is a user interface tool that allows quick access to various commands, making it easier for users to discover features. To build an effective command palette, ensure it is available everywhere, centralizes all commands, and offers flexibility in command matching. By following these principles, you can create a powerful and user-friendly command palette that enhances productivity.",
+        "notes": "https://chatgpt.com/c/69442ca9-df50-8325-a6a9-ab2121ec93ae",
+        "tags": {
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1760906540423
+          }
+        },
+        "highlights": [],
+        "saved_at": "2025-10-19T20:42:11.566000+00:00",
+        "last_moved_at": "2025-10-20T06:47:56.848000+00:00",
+        "published_date": "2021-10-12",
+        "triage": {
+          "is_tutorial": true,
+          "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 7
+        }
       }
     ],
     "shortest": [
@@ -573,28 +579,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
-        }
-      },
-      {
-        "id": "01kss3z202cdpsj7w0ybjycdj0",
-        "url": "https://read.readwise.io/read/01kss3z202cdpsj7w0ybjycdj0",
-        "source_url": "https://shvbsle.in/various-llm-smells/",
-        "title": "Various LLM smells",
-        "author": "Shiv After Dark",
-        "image_url": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/shiv-1652679517.jpg",
-        "word_count": 273,
-        "summary": "The author used AI to improve their math blog writing and noticed it sounded much better at first. Later, they saw the same AI-style phrases and patterns everywhere online, which they call \"AI smells.\" These patterns include repeated sentence structures, specific phrases, and design elements that reveal AI influence.",
-        "notes": "Via HN. https://news.ycombinator.com/item?id=48313810",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-29T05:40:26.754000+00:00",
-        "last_moved_at": "2026-05-29T05:40:30.433000+00:00",
-        "published_date": "2026-05-26",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 4
         }
       },
       {
@@ -708,28 +692,6 @@
         }
       },
       {
-        "id": "01kx22hsbpzx4m5ym5wwrzpvxw",
-        "url": "https://read.readwise.io/read/01kx22hsbpzx4m5ym5wwrzpvxw",
-        "source_url": "https://charity.wtf/p/have-you-heard-clickhouse-is-winning",
-        "title": "Have you heard? Clickhouse is winning the observability wars!",
-        "author": "Charity Majors",
-        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/d3a86396-2b28-4c21-9279-b439c08033cd_872x435.png",
-        "word_count": 1356,
-        "summary": "Clickhouse is praised for handling huge observability data smoothly, unlike older tools that struggle at scale. It uses a modern columnar storage system, making observability simpler and more powerful. This new approach could change the industry and challenge old companies like Datadog.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-07-08T23:55:55.710000+00:00",
-        "last_moved_at": "2026-07-10T10:34:09.087000+00:00",
-        "published_date": "2026-07-08",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kczwvew6dftm8phypwzjqxd2",
         "url": "https://read.readwise.io/read/01kczwvew6dftm8phypwzjqxd2",
         "source_url": "https://www.loopwerk.io/articles/2025/2025-in-review/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316",
@@ -755,28 +717,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
-        }
-      },
-      {
-        "id": "01ke9z29ytbhqp25karjrhxfb6",
-        "url": "https://read.readwise.io/read/01ke9z29ytbhqp25karjrhxfb6",
-        "source_url": "https://davegriffith.substack.com/p/from-senior-engineer-to-staff-with",
-        "title": "From Senior Engineer to Staff, with Angelic Assistance",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 1460,
-        "summary": "Dave Griffith argues that moving from senior to staff engineer requires three deliberate skills: deep expertise, visible impact, and intentional planning. Agentic AI tools now let engineers learn far faster, produce clearer evidence of their work, and build smarter promotion plans. He’s testing this playbook in real time and will share practical tactics in a series of posts.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-06T15:33:33.786000+00:00",
-        "last_moved_at": "2026-01-06T15:33:35.811000+00:00",
-        "published_date": "2026-01-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
         }
       },
       {
@@ -902,28 +842,6 @@
         }
       },
       {
-        "id": "01kx5q3v2t6fy3746shdtvrwm7",
-        "url": "https://read.readwise.io/read/01kx5q3v2t6fy3746shdtvrwm7",
-        "source_url": "https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/",
-        "title": "Pluralistic: \"Rights for robots\" and the AI slavery fantasy (10 Jul 2026)",
-        "author": "Cory Doctorow",
-        "image_url": "https://i0.wp.com/pluralistic.net/wp-content/uploads/2020/02/cropped-guillotine-French-Revolution.jpg?fit=192%2C192&ssl=1",
-        "word_count": 2037,
-        "summary": "The idea of giving rights to robots is linked to a fantasy where AI replaces humans but remains as uncomplaining slaves. This view ignores that AI work often depends on low-paid human labor hidden behind the scenes. Treating AI as having personhood could harm humans, just like corporate personhood has caused problems.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-07-10T09:53:02.115000+00:00",
-        "last_moved_at": "2026-07-10T10:34:10.505000+00:00",
-        "published_date": "2026-07-10",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kp3c80qpbjvt9qmbpgy9515h",
         "url": "https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h",
         "source_url": "https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email",
@@ -1003,34 +921,6 @@
           "is_tutorial": false,
           "is_foundational": false,
           "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kes33g1fbdg6b294xz7w4jtt",
-        "url": "https://read.readwise.io/read/01kes33g1fbdg6b294xz7w4jtt",
-        "source_url": "https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai",
-        "title": "Building Staff Engineer-Level Knowledge with AI",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 2515,
-        "summary": "To become a staff engineer, you must build deep expertise in technology, codebases, and business using AI as a learning tool, not a crutch. AI can speed up learning and understanding, but true mastery means internalizing knowledge without relying on AI all the time. Managing and showing your expertise is key to advancing your career and making a real impact.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1768221237251
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-12T12:32:43.567000+00:00",
-        "last_moved_at": "2026-01-12T12:34:01.174000+00:00",
-        "published_date": "2026-01-12",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
           "interest_score": 2
         }
       },
@@ -1190,28 +1080,6 @@
         }
       },
       {
-        "id": "01kx464zpf6xsczdwd90gpf1m1",
-        "url": "https://read.readwise.io/read/01kx464zpf6xsczdwd90gpf1m1",
-        "source_url": "https://en.wikipedia.org/wiki/WAV",
-        "title": "WAV - Wikipedia",
-        "author": "wikipedia.org",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/AudacityWAV.png",
-        "word_count": 2729,
-        "summary": "WAV is an audio file format created by IBM and Microsoft for storing uncompressed sound on Windows computers. It uses the RIFF format to organize audio data in chunks and supports both uncompressed and compressed audio. WAV files are widely used in broadcasting but have a size limit of 4 GB due to their file structure.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-07-09T19:37:22.383000+00:00",
-        "last_moved_at": "2026-07-09T19:37:28.604000+00:00",
-        "published_date": "2026-06-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kgafx4271vdg3eqw50jk0jm8",
         "url": "https://read.readwise.io/read/01kgafx4271vdg3eqw50jk0jm8",
         "source_url": "https://blog.xoria.org/macos-tips/",
@@ -1327,6 +1195,167 @@
           "is_evergreen": true,
           "interest_score": 2
         }
+      },
+      {
+        "id": "01kjmv4fykfx18fbq95cz8v7v3",
+        "url": "https://read.readwise.io/read/01kjmv4fykfx18fbq95cz8v7v3",
+        "source_url": "https://susam.net/twenty-five-years-of-computing.html?utm_source=substack&utm_medium=email",
+        "title": "Twenty Five Years of Computing",
+        "author": "susam.net",
+        "image_url": "",
+        "word_count": 3913,
+        "summary": "The author has over 25 years of experience in software development, starting from university days. Early challenges and learning moments helped them grow into a skilled engineer. They value professionalism, continuous learning, and kindness in their career.",
+        "notes": "",
+        "tags": {
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1772373568278
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-03-01T13:59:17.202000+00:00",
+        "last_moved_at": "2026-03-01T13:59:25.116000+00:00",
+        "published_date": "2026-02-06",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 2
+        }
+      },
+      {
+        "id": "01kg1jzqd4sxbwtw7hcnhp8hwm",
+        "url": "https://read.readwise.io/read/01kg1jzqd4sxbwtw7hcnhp8hwm",
+        "source_url": "https://cannoneyed.com/projects/isometric-nyc?utm_source=substack&utm_medium=email",
+        "title": "/ Isometric NYC",
+        "author": "cannoneyed.com",
+        "image_url": "",
+        "word_count": 3943,
+        "summary": "The author used AI agents to help build a pixel art map of NYC with very little coding. Image generation models still struggle with mistakes and automation is hard. Despite challenges, AI tools make large creative projects possible and inspire hope for the future.",
+        "notes": "",
+        "tags": {
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1769580006325
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-28T05:59:54.532000+00:00",
+        "last_moved_at": "2026-01-28T05:59:58.961000+00:00",
+        "published_date": null,
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
+      },
+      {
+        "id": "01ktt9nrahqk4mhsqkf56m25a3",
+        "url": "https://read.readwise.io/read/01ktt9nrahqk4mhsqkf56m25a3",
+        "source_url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+        "title": "Why AI hasn’t replaced software engineers, and won’t",
+        "author": "Arvind Narayanan",
+        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png",
+        "word_count": 4135,
+        "summary": "AI has not replaced software engineers because it mainly helps with routine coding, while humans still handle key decisions and quality checks. Stories of AI causing mass layoffs are often misleading and used to mask other business reasons. Instead of reducing jobs, AI is changing how software is made and may even increase the demand for engineers.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-11T02:55:06.650000+00:00",
+        "last_moved_at": "2026-06-30T11:48:55.401000+00:00",
+        "published_date": "2026-06-11",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01kkeb8d42rdtsnyrwfezxesgd",
+        "url": "https://read.readwise.io/read/01kkeb8d42rdtsnyrwfezxesgd",
+        "source_url": "https://webdirections.org/blog/the-structure-of-engineering-revolutions/?utm_source=substack&utm_medium=email",
+        "title": "The Structure of Engineering Revolutions",
+        "author": "@johnallsopp",
+        "image_url": "https://webdirections.org/wp-content/themes/wd/images/opengraph.webp",
+        "word_count": 4159,
+        "summary": "Experienced software engineers resist AI-assisted coding because it challenges their long-held beliefs and skills. This resistance follows a pattern of paradigm shifts described by Thomas Kuhn, where new ideas disrupt old frameworks. Despite skepticism, AI tools are proving to boost productivity and change software development fundamentally.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-03-11T11:42:03.394000+00:00",
+        "last_moved_at": "2026-03-11T11:42:17.126000+00:00",
+        "published_date": "2026-03-02",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 3
+        }
+      },
+      {
+        "id": "01kke9tesp0nwb5ps5fn0nd3ff",
+        "url": "https://read.readwise.io/read/01kke9tesp0nwb5ps5fn0nd3ff",
+        "source_url": "https://aresluna.org/fn/?utm_source=tldrdev",
+        "title": "I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either",
+        "author": "Marcin Wichary",
+        "image_url": "https://aresluna.org/images/fn/ogimage.png",
+        "word_count": 4303,
+        "summary": "The Fn key first appeared in 1984 to help laptops mimic missing keys and control hardware functions. Apple recently introduced a new Globe (🌐) key, causing confusion with the traditional Fn key on external keyboards. Keyboard designs keep evolving, but many users face challenges due to different keys and shortcuts across devices.",
+        "notes": "",
+        "tags": {
+          "macos": {
+            "name": "MacOS",
+            "type": "manual",
+            "created": 1773227828956
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-03-11T11:16:57.782000+00:00",
+        "last_moved_at": "2026-03-11T11:17:01.435000+00:00",
+        "published_date": "2026-03-09",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 4
+        }
+      },
+      {
+        "id": "01kev57mqrms6nmez28y5667xg",
+        "url": "https://read.readwise.io/read/01kev57mqrms6nmez28y5667xg",
+        "source_url": "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/?utm_source=tldrdev",
+        "title": "How Markdown took over the world",
+        "author": "Anil Dash",
+        "image_url": "https://www.anildash.com/images/imac-g4-markdown.jpg",
+        "word_count": 4535,
+        "summary": "Markdown started as a simple way to make writing on the internet easier without needing complicated code. Many people liked it and began using it everywhere, from blogs to apps like Microsoft Notepad and Apple Notes. Its success shows how open, easy ideas can grow big and change how we share information online.",
+        "notes": "",
+        "tags": {
+          "markdown": {
+            "name": "Markdown",
+            "type": "manual",
+            "created": 1768290512541
+          },
+          "shortlist": {
+            "name": "Shortlist",
+            "type": "manual",
+            "created": 1770711283880
+          }
+        },
+        "highlights": [],
+        "saved_at": "2026-01-13T07:48:25.464000+00:00",
+        "last_moved_at": "2026-01-13T07:48:37.811000+00:00",
+        "published_date": "2026-01-09",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": true,
+          "interest_score": 2
+        }
       }
     ],
     "quick_wins": [
@@ -1399,28 +1428,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 6
-        }
-      },
-      {
-        "id": "01kss3z202cdpsj7w0ybjycdj0",
-        "url": "https://read.readwise.io/read/01kss3z202cdpsj7w0ybjycdj0",
-        "source_url": "https://shvbsle.in/various-llm-smells/",
-        "title": "Various LLM smells",
-        "author": "Shiv After Dark",
-        "image_url": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/shiv-1652679517.jpg",
-        "word_count": 273,
-        "summary": "The author used AI to improve their math blog writing and noticed it sounded much better at first. Later, they saw the same AI-style phrases and patterns everywhere online, which they call \"AI smells.\" These patterns include repeated sentence structures, specific phrases, and design elements that reveal AI influence.",
-        "notes": "Via HN. https://news.ycombinator.com/item?id=48313810",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-29T05:40:26.754000+00:00",
-        "last_moved_at": "2026-05-29T05:40:30.433000+00:00",
-        "published_date": "2026-05-26",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 4
         }
       },
       {
@@ -1709,56 +1716,6 @@
         }
       },
       {
-        "id": "01ker9ertz01bavfn5bc79e5dt",
-        "url": "https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt",
-        "source_url": "https://davegriffith.substack.com/p/eight-software-markets-ai-that-will",
-        "title": "Eight Software Markets AI That Will Transform Differently",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 2917,
-        "summary": "AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1768201447692
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-12T05:04:30.047000+00:00",
-        "last_moved_at": "2026-01-12T05:04:35.153000+00:00",
-        "published_date": "2026-01-08",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01ke9z0vpb9xqf5ateyympwzpm",
-        "url": "https://read.readwise.io/read/01ke9z0vpb9xqf5ateyympwzpm",
-        "source_url": "https://tonsky.me/blog/tahoe-icons/",
-        "title": "It’s hard to justify Tahoe icons",
-        "author": "Nikita Prokopov",
-        "image_url": "https://tonsky.me/blog/tahoe-icons/open_graph_facebook_smol.png?t=1767611340",
-        "word_count": 2754,
-        "summary": "Apple's Tahoe icons are confusing and inconsistent, making it hard to find or understand menu items quickly. Too many icons clutter menus, and similar or unclear symbols cause frustration. Good icon design should be simple, clear, and consistent, but Tahoe often misses these points.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-06T15:32:46.411000+00:00",
-        "last_moved_at": "2026-01-06T15:32:50.101000+00:00",
-        "published_date": "2026-01-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
         "id": "01kw7swjy25s3hhx1dmyqermtk",
         "url": "https://read.readwise.io/read/01kw7swjy25s3hhx1dmyqermtk",
         "source_url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
@@ -1823,28 +1780,6 @@
         "saved_at": "2026-04-03T13:03:11.448000+00:00",
         "last_moved_at": "2026-04-03T13:03:15.250000+00:00",
         "published_date": "2026-03-22",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kpz4x1yajdkj46sz8958dtx1",
-        "url": "https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1",
-        "source_url": "https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/",
-        "title": "The secret life of the xattr",
-        "author": "hoakley",
-        "image_url": "https://eclecticlight.co/wp-content/uploads/2023/05/fileobjects.png",
-        "word_count": 1905,
-        "summary": "Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-24T07:05:07.859000+00:00",
-        "last_moved_at": "2026-04-25T18:53:40.592000+00:00",
-        "published_date": "2026-04-24",
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
@@ -2474,34 +2409,6 @@
         }
       },
       {
-        "id": "01kqehj6aqfvy5ftqn9fatzj8q",
-        "url": "https://read.readwise.io/read/01kqehj6aqfvy5ftqn9fatzj8q",
-        "source_url": "https://internals-for-interns.com/posts/go-netpoller/?utm_source=christophberger&utm_medium=email&utm_campaign=2026-04-26-not-magic",
-        "title": "Understanding the Go Runtime: The Network Poller",
-        "author": "Jesús Espino",
-        "image_url": "https://internals-for-interns.com/images/go-runtime-header.webp",
-        "word_count": 4703,
-        "summary": "Go’s runtime manages network I/O by asking the kernel if data is ready and putting goroutines to sleep instead of blocking OS threads. When data arrives, the kernel notifies the runtime, which wakes the right goroutine to continue work. This system lets Go efficiently handle many network tasks without wasting threads.",
-        "notes": "",
-        "tags": {
-          "go": {
-            "name": "Go",
-            "type": "manual",
-            "created": 1777530910595
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-04-30T06:35:02.872000+00:00",
-        "last_moved_at": "2026-04-30T06:35:07.092000+00:00",
-        "published_date": "2026-04-20",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kev57mqrms6nmez28y5667xg",
         "url": "https://read.readwise.io/read/01kev57mqrms6nmez28y5667xg",
         "source_url": "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/?utm_source=tldrdev",
@@ -2674,28 +2581,6 @@
         }
       },
       {
-        "id": "01kx464zpf6xsczdwd90gpf1m1",
-        "url": "https://read.readwise.io/read/01kx464zpf6xsczdwd90gpf1m1",
-        "source_url": "https://en.wikipedia.org/wiki/WAV",
-        "title": "WAV - Wikipedia",
-        "author": "wikipedia.org",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/AudacityWAV.png",
-        "word_count": 2729,
-        "summary": "WAV is an audio file format created by IBM and Microsoft for storing uncompressed sound on Windows computers. It uses the RIFF format to organize audio data in chunks and supports both uncompressed and compressed audio. WAV files are widely used in broadcasting but have a size limit of 4 GB due to their file structure.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-07-09T19:37:22.383000+00:00",
-        "last_moved_at": "2026-07-09T19:37:28.604000+00:00",
-        "published_date": "2026-06-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": true,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kwpt8ygxm6hpvcyv4svnz82t",
         "url": "https://read.readwise.io/read/01kwpt8ygxm6hpvcyv4svnz82t",
         "source_url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
@@ -2751,34 +2636,6 @@
         }
       },
       {
-        "id": "01kes33g1fbdg6b294xz7w4jtt",
-        "url": "https://read.readwise.io/read/01kes33g1fbdg6b294xz7w4jtt",
-        "source_url": "https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai",
-        "title": "Building Staff Engineer-Level Knowledge with AI",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 2515,
-        "summary": "To become a staff engineer, you must build deep expertise in technology, codebases, and business using AI as a learning tool, not a crutch. AI can speed up learning and understanding, but true mastery means internalizing knowledge without relying on AI all the time. Managing and showing your expertise is key to advancing your career and making a real impact.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1768221237251
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-12T12:32:43.567000+00:00",
-        "last_moved_at": "2026-01-12T12:34:01.174000+00:00",
-        "published_date": "2026-01-12",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kmabw6v0zgnk43sfc9pmdzev",
         "url": "https://read.readwise.io/read/01kmabw6v0zgnk43sfc9pmdzev",
         "source_url": "https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems?utm_source=tldrdev",
@@ -2821,28 +2678,6 @@
         "saved_at": "2026-04-13T12:14:46.006000+00:00",
         "last_moved_at": "2026-04-13T12:14:57.079000+00:00",
         "published_date": "2026-04-01",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kx5q3v2t6fy3746shdtvrwm7",
-        "url": "https://read.readwise.io/read/01kx5q3v2t6fy3746shdtvrwm7",
-        "source_url": "https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/",
-        "title": "Pluralistic: \"Rights for robots\" and the AI slavery fantasy (10 Jul 2026)",
-        "author": "Cory Doctorow",
-        "image_url": "https://i0.wp.com/pluralistic.net/wp-content/uploads/2020/02/cropped-guillotine-French-Revolution.jpg?fit=192%2C192&ssl=1",
-        "word_count": 2037,
-        "summary": "The idea of giving rights to robots is linked to a fantasy where AI replaces humans but remains as uncomplaining slaves. This view ignores that AI work often depends on low-paid human labor hidden behind the scenes. Treating AI as having personhood could harm humans, just like corporate personhood has caused problems.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-07-10T09:53:02.115000+00:00",
-        "last_moved_at": "2026-07-10T10:34:10.505000+00:00",
-        "published_date": "2026-07-10",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -3470,56 +3305,6 @@
         }
       },
       {
-        "id": "01ker9ertz01bavfn5bc79e5dt",
-        "url": "https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt",
-        "source_url": "https://davegriffith.substack.com/p/eight-software-markets-ai-that-will",
-        "title": "Eight Software Markets AI That Will Transform Differently",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 2917,
-        "summary": "AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1768201447692
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-12T05:04:30.047000+00:00",
-        "last_moved_at": "2026-01-12T05:04:35.153000+00:00",
-        "published_date": "2026-01-08",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01ke9z0vpb9xqf5ateyympwzpm",
-        "url": "https://read.readwise.io/read/01ke9z0vpb9xqf5ateyympwzpm",
-        "source_url": "https://tonsky.me/blog/tahoe-icons/",
-        "title": "It’s hard to justify Tahoe icons",
-        "author": "Nikita Prokopov",
-        "image_url": "https://tonsky.me/blog/tahoe-icons/open_graph_facebook_smol.png?t=1767611340",
-        "word_count": 2754,
-        "summary": "Apple's Tahoe icons are confusing and inconsistent, making it hard to find or understand menu items quickly. Too many icons clutter menus, and similar or unclear symbols cause frustration. Good icon design should be simple, clear, and consistent, but Tahoe often misses these points.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-06T15:32:46.411000+00:00",
-        "last_moved_at": "2026-01-06T15:32:50.101000+00:00",
-        "published_date": "2026-01-05",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
         "id": "01kn9q1g2rkzrdsd4mgzghk9ew",
         "url": "https://read.readwise.io/read/01kn9q1g2rkzrdsd4mgzghk9ew",
         "source_url": "https://rocket-science.ru/hacking/2026/03/23/software-development-in-2026",
@@ -3562,28 +3347,6 @@
         "saved_at": "2026-04-03T13:03:11.448000+00:00",
         "last_moved_at": "2026-04-03T13:03:15.250000+00:00",
         "published_date": "2026-03-22",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": true,
-          "interest_score": 8
-        }
-      },
-      {
-        "id": "01kpz4x1yajdkj46sz8958dtx1",
-        "url": "https://read.readwise.io/read/01kpz4x1yajdkj46sz8958dtx1",
-        "source_url": "https://eclecticlight.co/2026/04/24/the-secret-life-of-the-xattr/",
-        "title": "The secret life of the xattr",
-        "author": "hoakley",
-        "image_url": "https://eclecticlight.co/wp-content/uploads/2023/05/fileobjects.png",
-        "word_count": 1905,
-        "summary": "Extended attributes (xattrs) on macOS store extra file metadata without changing the file's data and have been used since early Mac OS versions. They help manage file information like quarantine status and syncing with iCloud, using special flags to control their preservation during file operations. Xattrs can be large, protected by system rules, and are mostly managed behind the scenes by macOS.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-04-24T07:05:07.859000+00:00",
-        "last_moved_at": "2026-04-25T18:53:40.592000+00:00",
-        "published_date": "2026-04-24",
         "triage": {
           "is_tutorial": false,
           "is_foundational": true,
@@ -4441,34 +4204,6 @@
         }
       },
       {
-        "id": "01ker9ertz01bavfn5bc79e5dt",
-        "url": "https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt",
-        "source_url": "https://davegriffith.substack.com/p/eight-software-markets-ai-that-will",
-        "title": "Eight Software Markets AI That Will Transform Differently",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 2917,
-        "summary": "AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1768201447692
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-12T05:04:30.047000+00:00",
-        "last_moved_at": "2026-01-12T05:04:35.153000+00:00",
-        "published_date": "2026-01-08",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": false,
-          "interest_score": 8
-        }
-      },
-      {
         "id": "01kw7swjy25s3hhx1dmyqermtk",
         "url": "https://read.readwise.io/read/01kw7swjy25s3hhx1dmyqermtk",
         "source_url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
@@ -4568,28 +4303,6 @@
         }
       },
       {
-        "id": "01kss3z202cdpsj7w0ybjycdj0",
-        "url": "https://read.readwise.io/read/01kss3z202cdpsj7w0ybjycdj0",
-        "source_url": "https://shvbsle.in/various-llm-smells/",
-        "title": "Various LLM smells",
-        "author": "Shiv After Dark",
-        "image_url": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/shiv-1652679517.jpg",
-        "word_count": 273,
-        "summary": "The author used AI to improve their math blog writing and noticed it sounded much better at first. Later, they saw the same AI-style phrases and patterns everywhere online, which they call \"AI smells.\" These patterns include repeated sentence structures, specific phrases, and design elements that reveal AI influence.",
-        "notes": "Via HN. https://news.ycombinator.com/item?id=48313810",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-05-29T05:40:26.754000+00:00",
-        "last_moved_at": "2026-05-29T05:40:30.433000+00:00",
-        "published_date": "2026-05-26",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 4
-        }
-      },
-      {
         "id": "01kkeb8d42rdtsnyrwfezxesgd",
         "url": "https://read.readwise.io/read/01kkeb8d42rdtsnyrwfezxesgd",
         "source_url": "https://webdirections.org/blog/the-structure-of-engineering-revolutions/?utm_source=substack&utm_medium=email",
@@ -4682,28 +4395,6 @@
         "saved_at": "2026-07-06T20:01:13.332000+00:00",
         "last_moved_at": "2026-07-10T10:34:08.169000+00:00",
         "published_date": "2026-07-07",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
-        }
-      },
-      {
-        "id": "01ke9z29ytbhqp25karjrhxfb6",
-        "url": "https://read.readwise.io/read/01ke9z29ytbhqp25karjrhxfb6",
-        "source_url": "https://davegriffith.substack.com/p/from-senior-engineer-to-staff-with",
-        "title": "From Senior Engineer to Staff, with Angelic Assistance",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 1460,
-        "summary": "Dave Griffith argues that moving from senior to staff engineer requires three deliberate skills: deep expertise, visible impact, and intentional planning. Agentic AI tools now let engineers learn far faster, produce clearer evidence of their work, and build smarter promotion plans. He’s testing this playbook in real time and will share practical tactics in a series of posts.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-01-06T15:33:33.786000+00:00",
-        "last_moved_at": "2026-01-06T15:33:35.811000+00:00",
-        "published_date": "2026-01-05",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -4868,34 +4559,6 @@
         }
       },
       {
-        "id": "01kes33g1fbdg6b294xz7w4jtt",
-        "url": "https://read.readwise.io/read/01kes33g1fbdg6b294xz7w4jtt",
-        "source_url": "https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai",
-        "title": "Building Staff Engineer-Level Knowledge with AI",
-        "author": "Dave Griffith",
-        "image_url": "https://substackcdn.com/image/fetch/$s_!h2gW!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdavegriffith.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1279511392%26version%3D9",
-        "word_count": 2515,
-        "summary": "To become a staff engineer, you must build deep expertise in technology, codebases, and business using AI as a learning tool, not a crutch. AI can speed up learning and understanding, but true mastery means internalizing knowledge without relying on AI all the time. Managing and showing your expertise is key to advancing your career and making a real impact.",
-        "notes": "",
-        "tags": {
-          "llm": {
-            "name": "LLM",
-            "type": "manual",
-            "created": 1768221237251
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-01-12T12:32:43.567000+00:00",
-        "last_moved_at": "2026-01-12T12:34:01.174000+00:00",
-        "published_date": "2026-01-12",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
         "id": "01kp3c80qpbjvt9qmbpgy9515h",
         "url": "https://read.readwise.io/read/01kp3c80qpbjvt9qmbpgy9515h",
         "source_url": "https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/?utm_source=substack&utm_medium=email",
@@ -4916,28 +4579,6 @@
         "saved_at": "2026-04-13T12:14:46.006000+00:00",
         "last_moved_at": "2026-04-13T12:14:57.079000+00:00",
         "published_date": "2026-04-01",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kx5q3v2t6fy3746shdtvrwm7",
-        "url": "https://read.readwise.io/read/01kx5q3v2t6fy3746shdtvrwm7",
-        "source_url": "https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/",
-        "title": "Pluralistic: \"Rights for robots\" and the AI slavery fantasy (10 Jul 2026)",
-        "author": "Cory Doctorow",
-        "image_url": "https://i0.wp.com/pluralistic.net/wp-content/uploads/2020/02/cropped-guillotine-French-Revolution.jpg?fit=192%2C192&ssl=1",
-        "word_count": 2037,
-        "summary": "The idea of giving rights to robots is linked to a fantasy where AI replaces humans but remains as uncomplaining slaves. This view ignores that AI work often depends on low-paid human labor hidden behind the scenes. Treating AI as having personhood could harm humans, just like corporate personhood has caused problems.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-07-10T09:53:02.115000+00:00",
-        "last_moved_at": "2026-07-10T10:34:10.505000+00:00",
-        "published_date": "2026-07-10",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
@@ -4988,28 +4629,6 @@
         "saved_at": "2025-12-21T07:26:46.150000+00:00",
         "last_moved_at": "2025-12-21T07:27:02.118000+00:00",
         "published_date": "2025-12-17",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 2
-        }
-      },
-      {
-        "id": "01kx22hsbpzx4m5ym5wwrzpvxw",
-        "url": "https://read.readwise.io/read/01kx22hsbpzx4m5ym5wwrzpvxw",
-        "source_url": "https://charity.wtf/p/have-you-heard-clickhouse-is-winning",
-        "title": "Have you heard? Clickhouse is winning the observability wars!",
-        "author": "Charity Majors",
-        "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/d3a86396-2b28-4c21-9279-b439c08033cd_872x435.png",
-        "word_count": 1356,
-        "summary": "Clickhouse is praised for handling huge observability data smoothly, unlike older tools that struggle at scale. It uses a modern columnar storage system, making observability simpler and more powerful. This new approach could change the industry and challenge old companies like Datadog.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-07-08T23:55:55.710000+00:00",
-        "last_moved_at": "2026-07-10T10:34:09.087000+00:00",
-        "published_date": "2026-07-08",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

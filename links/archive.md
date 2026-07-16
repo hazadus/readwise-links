@@ -1,6 +1,6 @@
 # Архивные ссылки
 
-- Всего ссылок: 1789
+- Всего ссылок: 1790
 
 ## Ссылки
 
@@ -8,6 +8,7 @@
     > **Заметка:** Via HackerNews Digest 2026-07-13.  https://news.ycombinator.com/item?id=48896665. Отличный пост, и по делу! Встречал подобные конфигурации сборки в OSS проектах, но интересно почитать подробное описание. Надо будет попробовать в каком-то из будущих проектов, где не захочется связываться с Xcode.
 - [Control the ideas, not the code](http://antirez.com/news/169) [📖](https://read.readwise.io/read/01kxdmfb7px8j2f45t8t15mjm1) 👤 <antirez> 💬 1245 🔖 #llm-reality, #llm-devimpact, #softwarecraft 🗓️ 2026-07-13
     > **Заметка:** Важный взгляд со стороны опытнейшего профессионала.
+- [In defense of not understanding your codebase](https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/) [📖](https://read.readwise.io/read/01kx81jtbp4bsjhp2vkbh1zhx7) 👤 seangoedecke.com RSS feed 💬 1491 🔖 #softwarecraft 🗓️ 2026-07-11
 - [Why write code in 2026](http://softwaredoug.com/blog/2026/07/09/write-code.html) [📖](https://read.readwise.io/read/01kx6d4sk7dgx5bkjt5164vm6j) 👤 Doug Turnbull 💬 922 🔖 #llm-devimpact 🗓️ 2026-07-10
     > **Заметка:** В копилку мнений о том, что нужно кодить вручную, чтобы действительно понимать код и не терять навыки.
 - [Blog about things you don't understand yet](https://seangoedecke.com/blog-about-things-you-dont-understand-yet/) [📖](https://read.readwise.io/read/01kwxp6n9pwz7gnt1yenz45tz9) 👤 seangoedecke.com RSS feed 💬 1573 🔖 #writing, #learning 🗓️ 2026-07-07

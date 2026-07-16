@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 37
+- Всего ссылок: 38
 
 ## Ссылки
 
+- [Claude’s Criminally Bad Electron Mac App Is an Inside Job](https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kxj3sgqkha6xz5430fsp13y3) 👤 Daring Fireball 💬 1355 🔖 #macos, #claude, #electron 🗓️ 2026-07-15
+    > **Заметка:** Via Joy&Curiosity Newsletter #91
+    > **Резюме:** Anthropic’s Claude Mac app is built with Electron, making it slow and not truly native. The reason is largely due to Felix Rieseberg, an Electron co-creator who leads Claude’s desktop engineering. Despite AI tools that can help build native apps, Anthropic sticks with Electron because of engineering preferences and tradeoffs.
 - [Open Knowledge Format: I Already Do This, and Now It Has a Name](https://alexop.dev/posts/open-knowledge-format-markdown-frontmatter-agent-knowledge/) [📖](https://read.readwise.io/read/01kw45tryd21q5y05v63ptkwkw) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 1905 🔖 #llm, #try, #claude 🗓️ 2026-06-27
     > **Заметка:** Посмотрим для начала, насколько этот формат приживётся. Пока что встречаю первый пост про него.
     > **Резюме:** Open Knowledge Format (OKF) is a simple way to organize knowledge in Markdown files with YAML frontmatter that AI agents can read and humans can edit. It makes files easy to query and link, acting as shared semantic memory for projects without needing special software. OKF is a format, not a platform, so anyone can use it easily and it helps different tools work together.

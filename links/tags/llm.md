@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 459
+- Всего ссылок: 457
 
 ## Ссылки
 
@@ -345,8 +345,6 @@ They save money and offer flexibility, though top cloud models can still be stro
 - [Code is a liability (not an asset)](https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes?utm_source=tldrdev) [📖](https://read.readwise.io/read/01ketx7azgdpfpjwermmd60vzb) 👤 pluralistic.net 💬 3678 🔖 #llm, #toot, #programming, #llm-devimpact 🗓️ 2026-01-13
     > **Заметка:** "There will be plenty of work fixing the things that we broke thanks to the most dangerous AI psychosis of all – the hallucinatory belief that "writing code" is the same thing as "software engineering."
     > **Резюме:** Code creates ongoing problems and costs, so it is a liability, not an asset. AI produces lots of code quickly, but that means it also creates many more problems. True software engineering requires careful work that AI cannot do, or the problems will grow over time.
-- [Building Staff Engineer-Level Knowledge with AI](https://davegriffith.substack.com/p/building-staff-engineer-knowledge-ai) [📖](https://read.readwise.io/read/01kes33g1fbdg6b294xz7w4jtt) 👤 Dave Griffith 💬 2515 🔖 #llm 🗓️ 2026-01-12
-    > **Резюме:** To become a staff engineer, you must build deep expertise in technology, codebases, and business using AI as a learning tool, not a crutch. AI can speed up learning and understanding, but true mastery means internalizing knowledge without relying on AI all the time. Managing and showing your expertise is key to advancing your career and making a real impact.
 - [Как запустить 4 независимые нейросети на одном GPU (16 ГБ) под FastAPI](https://habr.com/ru/companies/hostkey/articles/982278/) [📖](https://read.readwise.io/read/01kerww1dpptfs3m3qsw1c3brm) 👤 yakvenalex 💬 6879 🔖 #llm, #try, #fastapi, #selfhost 🗓️ 2026-01-12
     > **Резюме:** Автор рассказывает, как запустить четыре нейросети на одном GPU с 16 ГБ памяти через FastAPI. Показывается практический пример настройки сервера и управления памятью без дообучения моделей. В итоге получается компактный и стабильный ML-сервис для локального использования.
 - [My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/#atom-everything) [📖](https://read.readwise.io/read/01kerbbn6n368fbe0a8a0mx3wc) 👤 Simon Willison 💬 1014 🔖 #llm, #llm-devimpact 🗓️ 2026-01-12
@@ -355,8 +353,6 @@ They save money and offer flexibility, though top cloud models can still be stro
     > **Резюме:** AI is changing programming fast, making it easier to build complex software quickly. Programmers should embrace AI tools to improve their work instead of resisting the change. Society must also address job losses and support those affected by automation.
 - [LLM predictions for 2026, shared with Oxide and Friends](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-everything) [📖](https://read.readwise.io/read/01ker9xp6xvyx0tnva89p2jd5f) 👤 Simon Willison 💬 1656 🔖 #llm, #predictions, #llm-devimpact 🗓️ 2026-01-12
     > **Резюме:** Large language models (LLMs) will soon write very good code, changing how programmers work. New security and sandboxing solutions will make running code safer in the next year. In a few years, AI will help build complex software like web browsers, and typing code by hand will become rare.
-- [Eight Software Markets AI That Will Transform Differently](https://davegriffith.substack.com/p/eight-software-markets-ai-that-will) [📖](https://read.readwise.io/read/01ker9ertz01bavfn5bc79e5dt) 👤 Dave Griffith 💬 2917 🔖 #llm 🗓️ 2026-01-12
-    > **Резюме:** AI will change different software markets in very different ways. Some areas will see more software made faster, while others won't grow much due to rules or politics. Understanding your software market is key to knowing how AI will affect your work.
 - [The Frontier Is Now Free](https://ampcode.com/news/amp-free-frontier) [📖](https://read.readwise.io/read/01kem9z8k74e84bn18gfyj5fwd) 👤 ampcode.com 💬 243 🔖 #llm 🗓️ 2026-01-10
     > **Резюме:** Amp now gives all users free daily credits to use its smart agent with no payment needed, supported by ads. New users can sign up and download the tools, while existing users enable free credits in settings. The free credits refresh hourly, offering about $10 daily, and ads are text-only and optional.
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) [📖](https://read.readwise.io/read/01keh0mtv65mmaj4vwam6etx96) 👤 Peter Steinberger 💬 3413 🔖 #llm 🗓️ 2026-01-09

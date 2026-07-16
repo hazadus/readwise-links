@@ -1,6 +1,6 @@
 # Новые ссылки
 
-- Всего ссылок: 956
+- Всего ссылок: 957
 
 ## Ссылки
 
@@ -20,6 +20,7 @@
 - [Understanding the Go Runtime: Slices, Maps, and Channels](https://internals-for-interns.com/posts/go-runtime-slices-maps-channels/) [📖](https://read.readwise.io/read/01kqva1g2d60nh43y7yp354gc3) 👤 Jesús Espino 💬 6000 🔖 #go 🗓️ 2026-05-05
 - [Redis array type: short story of a long development](http://antirez.com/news/164) [📖](https://read.readwise.io/read/01kqsp5v74es5v7nyz2ftr33dp) 👤 <antirez> 💬 829 🗓️ 2026-05-04
 - [How to Write UI Components That Stay Flexible](https://alexop.dev/posts/compound-components-in-vue-shadcn/) [📖](https://read.readwise.io/read/01kqmm2pwkmy1zv0s4fh011ycg) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 4490 🗓️ 2026-05-02
+- [Understanding the Go Runtime: The Network Poller](https://internals-for-interns.com/posts/go-netpoller/?utm_source=christophberger&utm_medium=email&utm_campaign=2026-04-26-not-magic) [📖](https://read.readwise.io/read/01kqehj6aqfvy5ftqn9fatzj8q) 👤 Jesús Espino 💬 4703 🔖 #go 🗓️ 2026-04-30
 - [Scroll-Driven Animations](https://www.joshwcomeau.com/animation/scroll-driven-animations/) [📖](https://read.readwise.io/read/01kqaq4x2hsy61c77vcxa536zz) 👤 Josh W. Comeau 💬 2936 🗓️ 2026-04-28
 - [ИИ для самых маленьких: как работает LLM и ИИ-агент](https://www.youtube.com/watch?v=sSAIC8GQRe8) [📖](https://read.readwise.io/read/01kpsshwfyfcf9wg0hs7f3024j) 👤 Диджитализируй! 🔖 #llm 🗓️ 2026-04-22
 - [How to Use Claude Code as an AI QA Tester with Agent Browser](https://alexop.dev/posts/automated-qa-claude-code-agent-browser-cli-github-actions/) [📖](https://read.readwise.io/read/01knymwy6b02avchen3gkmjr08) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 2563 🔖 #cli, #try, #vue, #claude, #testing 🗓️ 2026-04-11
