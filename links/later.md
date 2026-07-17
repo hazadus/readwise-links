@@ -1,15 +1,19 @@
 # Отложенные ссылки
 
-- Всего ссылок: 75
+- Всего ссылок: 78
 
 ## Ссылки
 
-- [My Thoughts on the Bun Rust Rewrite](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html) [📖](https://read.readwise.io/read/01kxk1eyw9tncfd3t4xpmc2kgw) 👤 andrewkelley.me 💬 1956 🔖 #bun, #zig 🗓️ 2026-07-15
-    > **Заметка:** Via Social Digest 2026-07-15. Via JoyAndCuriosity Newsletter.
-    > **Резюме:** The author criticizes the Bun project for poor code quality and bad management after it became a VC-backed startup. They are relieved that Bun is being rewritten in Rust, distancing it from Zig’s reputation. Despite frustrations, the author wishes success to Bun’s creator and wants to focus on positive updates about the Zig community.
-- [Claude’s Criminally Bad Electron Mac App Is an Inside Job](https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kxj3sgqkha6xz5430fsp13y3) 👤 Daring Fireball 💬 1355 🔖 #macos, #claude, #electron 🗓️ 2026-07-15
-    > **Заметка:** Via Joy&Curiosity Newsletter #91
-    > **Резюме:** Anthropic’s Claude Mac app is built with Electron, making it slow and not truly native. The reason is largely due to Felix Rieseberg, an Electron co-creator who leads Claude’s desktop engineering. Despite AI tools that can help build native apps, Anthropic sticks with Electron because of engineering preferences and tradeoffs.
+- [Earning taste and judgment](https://addyosmani.com/blog/earning-judgment/) [📖](https://read.readwise.io/read/01kxmrhe4nsybaps1kbpcc1a39) 👤 Addy Osmani 💬 1981 🗓️ 2026-07-16
+    > **Резюме:** Junior developers used to learn by doing many tasks, but AI agents are automating these tasks, making it harder for juniors to gain experience. The real lasting skill is judgment—knowing what problems to solve and how to judge solutions. To succeed, developers must build deep understanding, focus on hard problems, and develop good taste beyond what AI can do.
+- [Own the Outer Loop](https://addyosmani.com/blog/own-the-outer-loop/) [📖](https://read.readwise.io/read/01kxmrhdywhgc6ajg3n66v75e7) 👤 Addy Osmani 💬 2966 🗓️ 2026-07-16
+    > **Резюме:** Engineers must take full responsibility for overseeing AI agents that automate tasks inside software systems. These agents handle investigation and implementation, but humans decide, verify, and own the results. Accountability and careful control are essential to build trust and safely scale AI-driven software factories.
+- [A technical career retrospective part 2](https://kenwhitesell.github.io/2026/07/14/A-technical-career-retrospective-pt-2.html) [📖](https://read.readwise.io/read/01kxh09nhh3bx9k3q8v8bv6bwr) 👤 Ken Whitesell 💬 3055 🗓️ 2026-07-14
+    > **Резюме:** Fifty years ago, programming was very different and often done on IBM mainframes using special systems like Michigan Terminal System (MTS). MTS was unique because it was interactive and used terminals that sent full screens of data, unlike typical character-by-character input. This system offered powerful editing and command features that made working with computers easier and more efficient than many later systems.
+- [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) [📖](https://read.readwise.io/read/01kxgpndbwmshm844rbwrzcjhp) 👤 Armin Ronacher 💬 722 🗓️ 2026-07-14
+    > **Резюме:** The Tower of Babel story shows how shared language helps people build together. AI tools let programmers work faster but can hurt teamwork and shared understanding. This makes software grow but also become harder for humans to manage as a group.
+- [What does "playing politics" mean for software engineers?](https://seangoedecke.com/playing-politics/) [📖](https://read.readwise.io/read/01kxg48tc4jn1yq6k6t579tma2) 👤 seangoedecke.com RSS feed 💬 2490 🗓️ 2026-07-14
+    > **Резюме:** Software engineers should understand who holds power in their company and avoid making powerful enemies. Helping and communicating effectively with influential people can build valuable alliances. Being visible in your work and aligning with leadership goals is key to navigating office politics successfully.
 - [What will be left for us to work on?](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work) [📖](https://read.readwise.io/read/01kxedfnsr1rrvh36k97wzf10j) 👤 Arvind Narayanan 💬 7561 🗓️ 2026-07-13
     > **Резюме:** AI is rapidly advancing and changing how we work, but it will amplify human skills rather than replace us. We must focus on building complementary skills like judgment and creativity to work well with AI. Over time, AI will handle routine tasks while humans take on more evaluation and decision-making roles.
 - [A technical career retrospective part 1](https://kenwhitesell.github.io/2026/07/10/A-technical-career-retrospective-pt-1.html) [📖](https://read.readwise.io/read/01kx985yzw86k304gp67mpxw15) 👤 Ken Whitesell 💬 1307 🔖 #reflections 🗓️ 2026-07-11
@@ -31,7 +35,7 @@
     > **Резюме:** Agentic autonomy levels guide how much freedom AI agents have, balancing risk and control. Lower levels need human oversight, while higher levels let agents work independently or in parallel with evidence to verify success. The best approach matches autonomy to task risk and verification, ensuring safe and effective AI use.
 - [The Agent-Era Career](https://addyosmani.com/blog/career-advice-age-of-agents/) [📖](https://read.readwise.io/read/01kwwn2ypxks210vr793gqm92s) 👤 Addy Osmani 💬 1662 🗓️ 2026-07-06
     > **Резюме:** AI can solve routine problems, but careers depend on choosing the right problems and judging their solutions. Building reputation and deep understanding matters more than quick fixes or high pay. Successful engineers direct AI tools wisely, verify results, and finish strong on complex tasks.
-- [The software engineering war](https://newsletter.manager.dev/p/the-software-engineering-war) [📖](https://read.readwise.io/read/01kwwgak1ba1npmcb63g8z72se) 👤 Anton Zaides 💬 1461 🗓️ 2026-07-06
+- [The software engineering war](https://newsletter.manager.dev/p/the-software-engineering-war) [📖](https://read.readwise.io/read/01kwwgak1ba1npmcb63g8z72se) 👤 Anton Zaides 💬 1461 🔖 #llm-reality 🗓️ 2026-07-06
     > **Резюме:** Software engineers are divided between "builders" who focus on fast delivery using AI and "keepers" who value well-crafted, reliable code. Both sides have valid points, but extreme views lead to conflict and poor results. The best approach is a balanced mindset that adapts over time and embraces both quality and speed.
 - [Goodbye, forever, probably.](https://whitep4nth3r.com/blog/goodbye-forever-probably/) [📖](https://read.readwise.io/read/01kwpt8ygxm6hpvcyv4svnz82t) 👤 whitep4nth3r.com 💬 2671 🗓️ 2026-07-04
     > **Заметка:** Via Simon Willison

@@ -2,7 +2,7 @@
 
 _Короткие статьи (не туториалы, не основы), отсортированные по объёму_
 
-Сгенерировано: 2026-07-16 05:52 UTC · Статей: 30
+Сгенерировано: 2026-07-17 05:54 UTC · Статей: 30
 
 ## Статьи
 
@@ -23,7 +23,7 @@ _Короткие статьи (не туториалы, не основы), о�
 - [2025 in review](https://www.loopwerk.io/articles/2025/2025-in-review/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) [📖](https://read.readwise.io/read/01kczwvew6dftm8phypwzjqxd2) 👤 Kevin Renskers 💬 1411 ⭐ 2 🔖 #shortlist 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/69479f95-3aa4-8328-8855-b64bb19cc6d2
     > **Резюме:** 2025 was a productive year: I wrote 38 articles, grew site traffic a lot, and released several open-source Django projects. In November my girlfriend and her daughter were in a serious car crash, so I’ve been caring for them and our dog. I started using AI cautiously, did freelance work for Sound Radix, and enjoyed trips, concerts, and games.
-- [The software engineering war](https://newsletter.manager.dev/p/the-software-engineering-war) [📖](https://read.readwise.io/read/01kwwgak1ba1npmcb63g8z72se) 👤 Anton Zaides 💬 1461 ⭐ 3 🗓️ 2026-07-06
+- [The software engineering war](https://newsletter.manager.dev/p/the-software-engineering-war) [📖](https://read.readwise.io/read/01kwwgak1ba1npmcb63g8z72se) 👤 Anton Zaides 💬 1461 ⭐ 3 🔖 #llm-reality 🗓️ 2026-07-06
     > **Резюме:** Software engineers are divided between "builders" who focus on fast delivery using AI and "keepers" who value well-crafted, reliable code. Both sides have valid points, but extreme views lead to conflict and poor results. The best approach is a balanced mindset that adapts over time and embraces both quality and speed.
 - [AI vs. human illustrators? AI + human illustrators!](https://evilmartians.com/chronicles/ai-vs-human-illustrators-ai-plus-human-illustrators) [📖](https://read.readwise.io/read/01kwf3vq5ta0d14r9cgg79611m) 👤 Travis Turner (richardturner@evilmartians.com) 💬 1614 ⭐ 2 🗓️ 2026-07-01
     > **Резюме:** Evil Martians tried using AI alone to create blog illustrations but found many problems with quality and consistency. They now use a mix of AI and human illustrators, where AI does most work and humans finish the details. This hybrid approach saves time, lowers costs, and improves the final images.

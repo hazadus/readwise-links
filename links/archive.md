@@ -1,9 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 1790
+- Всего ссылок: 1792
 
 ## Ссылки
 
+- [My Thoughts on the Bun Rust Rewrite](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html) [📖](https://read.readwise.io/read/01kxk1eyw9tncfd3t4xpmc2kgw) 👤 andrewkelley.me 💬 1956 🔖 #bun, #zig 🗓️ 2026-07-15
+    > **Заметка:** Via Social Digest 2026-07-15. Via JoyAndCuriosity Newsletter. Автор Zig жестко прошелся по разработчику Bun. Не понимаю, чем он так не доволен - раз сам хотел, чтобы Bun не портил впечатление о Zig...
+- [Claude’s Criminally Bad Electron Mac App Is an Inside Job](https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kxj3sgqkha6xz5430fsp13y3) 👤 Daring Fireball 💬 1355 🔖 #macos, #claude, #electron 🗓️ 2026-07-15
+    > **Заметка:** Via Joy&Curiosity Newsletter #91. Жесткая отповедь мейнтейнера Electron. Не думаю, что прям заслуженно - Anthropic вольны использовать любой фреймворк для своего приложения, они никому ничем не обязаны. И понятно, что для мультиплатформы Electron проще... Но почитать забавно.
 - [Building and Shipping Mac and iOS Apps Without Ever Opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) [📖](https://read.readwise.io/read/01kxh0csydav580g00js13b9jz) 👤 scottwillsey.com 💬 2387 🔖 #try, #macos, #swift, #xcode 🗓️ 2026-07-14
     > **Заметка:** Via HackerNews Digest 2026-07-13.  https://news.ycombinator.com/item?id=48896665. Отличный пост, и по делу! Встречал подобные конфигурации сборки в OSS проектах, но интересно почитать подробное описание. Надо будет попробовать в каком-то из будущих проектов, где не захочется связываться с Xcode.
 - [Control the ideas, not the code](http://antirez.com/news/169) [📖](https://read.readwise.io/read/01kxdmfb7px8j2f45t8t15mjm1) 👤 <antirez> 💬 1245 🔖 #llm-reality, #llm-devimpact, #softwarecraft 🗓️ 2026-07-13

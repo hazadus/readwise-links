@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T05:52:30.475434+00:00",
+  "generated_at": "2026-07-17T05:54:01.725605+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -729,7 +729,13 @@
         "word_count": 1461,
         "summary": "Software engineers are divided between \"builders\" who focus on fast delivery using AI and \"keepers\" who value well-crafted, reliable code. Both sides have valid points, but extreme views lead to conflict and poor results. The best approach is a balanced mindset that adapts over time and embraces both quality and speed.",
         "notes": "",
-        "tags": {},
+        "tags": {
+          "llm-reality": {
+            "name": "LLM-Reality",
+            "type": "manual",
+            "created": 1784198295001
+          }
+        },
         "highlights": [],
         "saved_at": "2026-07-06T20:01:13.332000+00:00",
         "last_moved_at": "2026-07-10T10:34:08.169000+00:00",
@@ -4390,7 +4396,13 @@
         "word_count": 1461,
         "summary": "Software engineers are divided between \"builders\" who focus on fast delivery using AI and \"keepers\" who value well-crafted, reliable code. Both sides have valid points, but extreme views lead to conflict and poor results. The best approach is a balanced mindset that adapts over time and embraces both quality and speed.",
         "notes": "",
-        "tags": {},
+        "tags": {
+          "llm-reality": {
+            "name": "LLM-Reality",
+            "type": "manual",
+            "created": 1784198295001
+          }
+        },
         "highlights": [],
         "saved_at": "2026-07-06T20:01:13.332000+00:00",
         "last_moved_at": "2026-07-10T10:34:08.169000+00:00",

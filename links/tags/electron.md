@@ -5,7 +5,7 @@
 ## Ссылки
 
 - [Claude’s Criminally Bad Electron Mac App Is an Inside Job](https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kxj3sgqkha6xz5430fsp13y3) 👤 Daring Fireball 💬 1355 🔖 #macos, #claude, #electron 🗓️ 2026-07-15
-    > **Заметка:** Via Joy&Curiosity Newsletter #91
+    > **Заметка:** Via Joy&Curiosity Newsletter #91. Жесткая отповедь мейнтейнера Electron. Не думаю, что прям заслуженно - Anthropic вольны использовать любой фреймворк для своего приложения, они никому ничем не обязаны. И понятно, что для мультиплатформы Electron проще... Но почитать забавно.
     > **Резюме:** Anthropic’s Claude Mac app is built with Electron, making it slow and not truly native. The reason is largely due to Felix Rieseberg, an Electron co-creator who leads Claude’s desktop engineering. Despite AI tools that can help build native apps, Anthropic sticks with Electron because of engineering preferences and tradeoffs.
 - [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/) [📖](https://read.readwise.io/read/01kjvzv6wrnw0jsbvhbhxexcj5) 👤 Nikita Prokopov 💬 591 🔖 #llm, #claude, #electron 🗓️ 2026-03-04
     > **Резюме:** Native apps have lost their advantage because their APIs are hard to use and their look is inconsistent and often bad. Web apps, including Electron apps, have become popular since they are easier to develop and maintain. The real problem is not the technology but a lack of care and attention to quality in software design.

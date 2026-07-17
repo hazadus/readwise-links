@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-07-16 05:52 UTC · Статей: 27
+Сгенерировано: 2026-07-17 05:54 UTC · Статей: 27
 
 ## Статьи
 
@@ -39,7 +39,7 @@ Future tech will keep advancing, but mostly in smaller, niche ways that won’t 
 Open source maintainers should focus on practical, small- to medium-scale projects that serve real users and resist “scale creep.”
 - [Adapting to AI: Reflections on Productivity](https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kmf78e7kzc43t4k49t4cdwbh) 👤 Colin Breck 💬 2582 ⭐ 3 🔖 #joyandcuriosity 🗓️ 2026-03-24
     > **Резюме:** In 2025, AI greatly boosted productivity by helping with coding and problem-solving, acting like a tireless partner. Most software engineers have not yet fully adapted to AI’s rapid changes and potential. The way people work in software is changing fast, and it will take years to find new, effective patterns.
-- [The software engineering war](https://newsletter.manager.dev/p/the-software-engineering-war) [📖](https://read.readwise.io/read/01kwwgak1ba1npmcb63g8z72se) 👤 Anton Zaides 💬 1461 ⭐ 3 🗓️ 2026-07-06
+- [The software engineering war](https://newsletter.manager.dev/p/the-software-engineering-war) [📖](https://read.readwise.io/read/01kwwgak1ba1npmcb63g8z72se) 👤 Anton Zaides 💬 1461 ⭐ 3 🔖 #llm-reality 🗓️ 2026-07-06
     > **Резюме:** Software engineers are divided between "builders" who focus on fast delivery using AI and "keepers" who value well-crafted, reliable code. Both sides have valid points, but extreme views lead to conflict and poor results. The best approach is a balanced mindset that adapts over time and embraces both quality and speed.
 - [Year in review: Limitless, Sesame, Claude Code, and more](https://paulstamatiou.com/2025-year-in-review?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kfabyqddxp6mh9jgjpa7mrcv) 👤 paulstamatiou.com 💬 8751 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-01-19
     > **Резюме:** In 2025, Paul Stamatiou focused on designing and building simple, high-quality AI products that feel personal and useful. He left his startup role to join Sesame as Head of Design, working closely on software and hardware. He believes great design means thoughtful product building, not just flashy visuals or shortcuts with AI.
