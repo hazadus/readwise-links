@@ -1,9 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 32
+- Всего ссылок: 34
 
 ## Ссылки
 
+- [When Rust Gets Ugly](https://corrode.dev/blog/ugly/) [📖](https://read.readwise.io/read/01kxrk96cq6hm10yree4srb9nx) 👤 Matthias Endler 💬 3726 🔖 #rust 🗓️ 2026-07-17
+    > **Резюме:** Many people find Rust code ugly because they write it like other languages. Rust wants you to use its own style, focusing on clear structure and explicit error handling. When you change your habits and use Rust’s features, your code becomes cleaner and easier to read.
+- [The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/) [📖](https://read.readwise.io/read/01kxp06edmjxctmfzq3hx1xs8g) 👤 Ivan Klaric 💬 2163 🔖 #bun, #rust 🗓️ 2026-07-16
+    > **Резюме:** Jarred Sumner used AI to quickly rewrite Bun from Zig to Rust, fixing many memory bugs. The AI agents rewrote over 500,000 lines of code in just 11 days, a task that would take humans about a year. This shows AI can make large software rewrites faster and more practical than before.
 - [Tracing HTTP Requests with Rust](https://blainsmith.com/articles/tracing-http-requests-with-rust/) [📖](https://read.readwise.io/read/01kwm62v3vkwd2f5y0mscd3c63) 👤 Unknown 💬 1306 🔖 #http, #rust 🗓️ 2026-07-03
     > **Резюме:** Recently, I wrote about using Go's net/http/httptrace to get the per-phase timing breakdown for HTTP requests - DNS, TCP, TLS, and server processing. After writing about that package, I wanted to know what the same breakdown costs in Rust: whether the ecosystem has an equivalent, and what building one reveals about how the two languages approach instrumentation.
 The short answer is there's no equivalent. reqwest doesn't expose per-phase timestamps. hyper's client is a Tower Service, not a single blessed HTTP client with hook points. Getting DNS/TCP/TLS granularity means working at the connector level directly. So I built httptrace, a small crate that does for Rust what net/http/httptrace does for Go, and this is a walkthrough of what building it involved.

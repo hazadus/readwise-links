@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 81
+- Всего ссылок: 83
 
 ## Ссылки
 
+- [The Democratization of Software Development](https://alexop.dev/posts/the-democratization-of-software-development/) [📖](https://read.readwise.io/read/01kxtsqjpdmc8pjxkzapg85q5n) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 680 🔖 #career, #predictions, #llm-devimpact 🗓️ 2026-07-18
+    > **Заметка:** Такой пост бездушный, в целом ни о чём. А технические посты автора отличные! Оставил как пример мировоззрения в моменте. Через год-два интересно будет перечитать :)
+    > **Резюме:** Software development is changing as AI agents take over coding tasks. Teams become generalists who manage whole projects from idea to product. Developers must focus on understanding customers and building meaningful features, not just writing code.
+- [What does "playing politics" mean for software engineers?](https://seangoedecke.com/playing-politics/) [📖](https://read.readwise.io/read/01kxg48tc4jn1yq6k6t579tma2) 👤 seangoedecke.com RSS feed 💬 2490 🔖 #career 🗓️ 2026-07-14
+    > **Заметка:** Хороший пост, всё по делу. Местами цинично, но такова цена успеха :)
+    > **Резюме:** Software engineers should understand who holds power in their company and avoid making powerful enemies. Helping and communicating effectively with influential people can build valuable alliances. Being visible in your work and aligning with leadership goals is key to navigating office politics successfully.
 - [AI has torched the market for junior programmers](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers) [📖](https://read.readwise.io/read/01kwqb8r9ts801ka1h6yr1e4a7) 👤 Seldo.com RSS Feed 💬 1880 🔖 #career, #llm-devimpact 🗓️ 2026-07-04
     > **Резюме:** In early 2025 I predicted that AI will create many, many more programmers, and that new programming jobs would look different. In March I checked in and found startups substituting compute for labor at record rates, with the wave of new jobs nowhere in sight. This post is the next check-in, and I have good news and bad news.
 The bad news: AI has torched the market for junior programmers. The good news: the long tail of new programmers I predicted has materialized, but with a big twist: they don't call themselves programmers. Let me show you the data, and see if you believe me.

@@ -2,7 +2,7 @@
 
 _Актуальный контент, который может устареть_
 
-Сгенерировано: 2026-07-19 06:10 UTC · Статей: 27
+Сгенерировано: 2026-07-20 06:30 UTC · Статей: 25
 
 ## Статьи
 
@@ -28,9 +28,6 @@ _Актуальный контент, который может устареть
     > **Резюме:** AI has not replaced software engineers because it mainly helps with routine coding, while humans still handle key decisions and quality checks. Stories of AI causing mass layoffs are often misleading and used to mask other business reasons. Instead of reducing jobs, AI is changing how software is made and may even increase the demand for engineers.
 - [Unlocking Reading Insights: A Guide to Data Analysis with Claude and Readwise](https://alexop.dev/posts/supercharging-reading-comprehension-claude-readwise/) [📖](https://read.readwise.io/read/01k62kckeewb1936zrjewhbhvn) 👤 Alexander Opalic 💬 1522 ⭐ 7 🗓️ 2025-09-26 · 🛠️ туториал
     > **Резюме:** This blog post explains how to use Claude.ai's CSV analysis feature with Readwise data for better insights. It highlights the importance of crafting specific prompts to extract meaningful information and create visualizations. The tutorial also touches on the technical aspects of how Claude processes and analyzes the data.
-- [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1) 👤 Alec Scollon 💬 494 ⭐ 6 🔖 #burnout, #llm-devimpact 🗓️ 2026-07-09
-    > **Заметка:** Via TLDR Newsletter
-    > **Резюме:** The author uses large language models (LLMs) daily for coding help and research. Over time, they feel tired of repeated mistakes and annoying writing styles from LLMs. Despite this frustration, they find LLMs useful and plan to keep using them.
 - [The Structure of Engineering Revolutions](https://webdirections.org/blog/the-structure-of-engineering-revolutions/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kkeb8d42rdtsnyrwfezxesgd) 👤 @johnallsopp 💬 4159 ⭐ 3 🗓️ 2026-03-11
     > **Резюме:** Experienced software engineers resist AI-assisted coding because it challenges their long-held beliefs and skills. This resistance follows a pattern of paradigm shifts described by Thomas Kuhn, where new ideas disrupt old frameworks. Despite skepticism, AI tools are proving to boost productivity and change software development fundamentally.
 - [The Next Thing Will Not Be Big](https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html?utm_source=tldrdev) [📖](https://read.readwise.io/read/01ken0sk545cynvs3e44ezwrmc) 👤 Glyph Lefkowitz 💬 2638 ⭐ 3 🔖 #shortlist 🗓️ 2026-01-10
@@ -39,8 +36,6 @@ Future tech will keep advancing, but mostly in smaller, niche ways that won’t 
 Open source maintainers should focus on practical, small- to medium-scale projects that serve real users and resist “scale creep.”
 - [Adapting to AI: Reflections on Productivity](https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kmf78e7kzc43t4k49t4cdwbh) 👤 Colin Breck 💬 2582 ⭐ 3 🔖 #joyandcuriosity 🗓️ 2026-03-24
     > **Резюме:** In 2025, AI greatly boosted productivity by helping with coding and problem-solving, acting like a tireless partner. Most software engineers have not yet fully adapted to AI’s rapid changes and potential. The way people work in software is changing fast, and it will take years to find new, effective patterns.
-- [The software engineering war](https://newsletter.manager.dev/p/the-software-engineering-war) [📖](https://read.readwise.io/read/01kwwgak1ba1npmcb63g8z72se) 👤 Anton Zaides 💬 1461 ⭐ 3 🔖 #llm-reality 🗓️ 2026-07-06
-    > **Резюме:** Software engineers are divided between "builders" who focus on fast delivery using AI and "keepers" who value well-crafted, reliable code. Both sides have valid points, but extreme views lead to conflict and poor results. The best approach is a balanced mindset that adapts over time and embraces both quality and speed.
 - [Year in review: Limitless, Sesame, Claude Code, and more](https://paulstamatiou.com/2025-year-in-review?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kfabyqddxp6mh9jgjpa7mrcv) 👤 paulstamatiou.com 💬 8751 ⭐ 2 🔖 #joyandcuriosity 🗓️ 2026-01-19
     > **Резюме:** In 2025, Paul Stamatiou focused on designing and building simple, high-quality AI products that feel personal and useful. He left his startup role to join Sesame as Head of Design, working closely on software and hardware. He believes great design means thoughtful product building, not just flashy visuals or shortcuts with AI.
 - [Up the Stack: How AI’s Escape From the Commodity Trap Risks Enterprise Lock-in](https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from) [📖](https://read.readwise.io/read/01kx4gtxsh1m1hpy1fy1wg8kp5) 👤 Arvind Narayanan 💬 5619 ⭐ 2 🗓️ 2026-07-09

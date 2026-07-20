@@ -2,16 +2,13 @@
 
 _Короткие интересные статьи (до 800 слов), не туториалы_
 
-Сгенерировано: 2026-07-19 06:10 UTC · Статей: 5
+Сгенерировано: 2026-07-20 06:30 UTC · Статей: 4
 
 ## Статьи
 
 - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kczxrxfb9cbratcp54yptvy3) 👤 ngrok 💬 78 ⭐ 8 🔖 #llm, #explorable, #joyandcuriosity 🗓️ 2025-12-21 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/6947a45b-3860-8331-a302-0c3a55ab5594
     > **Резюме:** Prompt caching stores and reuses parts of LLM requests to avoid repeating work. This cuts token usage and cost by up to tenfold. It requires tracking inputs, outputs, and cache validity to stay correct.
-- [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1) 👤 Alec Scollon 💬 494 ⭐ 6 🔖 #burnout, #llm-devimpact 🗓️ 2026-07-09
-    > **Заметка:** Via TLDR Newsletter
-    > **Резюме:** The author uses large language models (LLMs) daily for coding help and research. Over time, they feel tired of repeated mistakes and annoying writing styles from LLMs. Despite this frustration, they find LLMs useful and plan to keep using them.
 - [How The Heck Does Shazam Work?](https://perthirtysix.com/how-the-heck-does-shazam-work?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kpz4vpybbrxvhjkmh2xfx21r) 👤 Shri Khalpada 💬 521 ⭐ 3 🔖 #explorable 🗓️ 2026-04-24 · 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** Via TLDR
     > **Резюме:** Shazam works by turning sounds into simple fingerprints that help identify songs. Most services send audio to a server with a huge database to find matches. Newer apps can do this on your phone using smaller databases and smart algorithms.

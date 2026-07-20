@@ -1,21 +1,31 @@
 # Архивные ссылки
 
-- Всего ссылок: 1792
+- Всего ссылок: 1797
 
 ## Ссылки
 
+- [The Democratization of Software Development](https://alexop.dev/posts/the-democratization-of-software-development/) [📖](https://read.readwise.io/read/01kxtsqjpdmc8pjxkzapg85q5n) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 680 🔖 #career, #predictions, #llm-devimpact 🗓️ 2026-07-18
+    > **Заметка:** Такой пост бездушный, в целом ни о чём. А технические посты автора отличные! Оставил как пример мировоззрения в моменте. Через год-два интересно будет перечитать :)
 - [My Thoughts on the Bun Rust Rewrite](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html) [📖](https://read.readwise.io/read/01kxk1eyw9tncfd3t4xpmc2kgw) 👤 andrewkelley.me 💬 1956 🔖 #bun, #zig 🗓️ 2026-07-15
-    > **Заметка:** Via Social Digest 2026-07-15. Via JoyAndCuriosity Newsletter. Автор Zig жестко прошелся по разработчику Bun. Не понимаю, чем он так не доволен - раз сам хотел, чтобы Bun не портил впечатление о Zig...
+    > **Заметка:** Via Social Digest 2026-07-15. Via JoyAndCuriosity Newsletter. Автор Zig жестко прошелся по разработчику Bun. Не понимаю, чем он так не доволен - раз сам хотел, чтобы Bun не портил впечатление о Zig... Связать: https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/
 - [Claude’s Criminally Bad Electron Mac App Is an Inside Job](https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kxj3sgqkha6xz5430fsp13y3) 👤 Daring Fireball 💬 1355 🔖 #macos, #claude, #electron 🗓️ 2026-07-15
     > **Заметка:** Via Joy&Curiosity Newsletter #91. Жесткая отповедь мейнтейнера Electron. Не думаю, что прям заслуженно - Anthropic вольны использовать любой фреймворк для своего приложения, они никому ничем не обязаны. И понятно, что для мультиплатформы Electron проще... Но почитать забавно.
 - [Building and Shipping Mac and iOS Apps Without Ever Opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) [📖](https://read.readwise.io/read/01kxh0csydav580g00js13b9jz) 👤 scottwillsey.com 💬 2387 🔖 #try, #macos, #swift, #xcode 🗓️ 2026-07-14
     > **Заметка:** Via HackerNews Digest 2026-07-13.  https://news.ycombinator.com/item?id=48896665. Отличный пост, и по делу! Встречал подобные конфигурации сборки в OSS проектах, но интересно почитать подробное описание. Надо будет попробовать в каком-то из будущих проектов, где не захочется связываться с Xcode.
+- [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) [📖](https://read.readwise.io/read/01kxgpndbwmshm844rbwrzcjhp) 👤 Armin Ronacher 💬 722 🔖 #llm-devimpact 🗓️ 2026-07-14
+    > **Заметка:** Классное сравнение с Вавилонской башней. Топ!
+- [What does "playing politics" mean for software engineers?](https://seangoedecke.com/playing-politics/) [📖](https://read.readwise.io/read/01kxg48tc4jn1yq6k6t579tma2) 👤 seangoedecke.com RSS feed 💬 2490 🔖 #career 🗓️ 2026-07-14
+    > **Заметка:** Хороший пост, всё по делу. Местами цинично, но такова цена успеха :)
 - [Control the ideas, not the code](http://antirez.com/news/169) [📖](https://read.readwise.io/read/01kxdmfb7px8j2f45t8t15mjm1) 👤 <antirez> 💬 1245 🔖 #llm-reality, #llm-devimpact, #softwarecraft 🗓️ 2026-07-13
     > **Заметка:** Важный взгляд со стороны опытнейшего профессионала.
 - [In defense of not understanding your codebase](https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/) [📖](https://read.readwise.io/read/01kx81jtbp4bsjhp2vkbh1zhx7) 👤 seangoedecke.com RSS feed 💬 1491 🔖 #softwarecraft 🗓️ 2026-07-11
 - [Why write code in 2026](http://softwaredoug.com/blog/2026/07/09/write-code.html) [📖](https://read.readwise.io/read/01kx6d4sk7dgx5bkjt5164vm6j) 👤 Doug Turnbull 💬 922 🔖 #llm-devimpact 🗓️ 2026-07-10
     > **Заметка:** В копилку мнений о том, что нужно кодить вручную, чтобы действительно понимать код и не терять навыки.
+- [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1) 👤 Alec Scollon 💬 494 🔖 #burnout, #llm-devimpact 🗓️ 2026-07-09
+    > **Заметка:** Via TLDR Newsletter. Сохраняю как пример ощущений, которые сейчас, возможно, разделяют многие.
 - [Blog about things you don't understand yet](https://seangoedecke.com/blog-about-things-you-dont-understand-yet/) [📖](https://read.readwise.io/read/01kwxp6n9pwz7gnt1yenz45tz9) 👤 seangoedecke.com RSS feed 💬 1573 🔖 #writing, #learning 🗓️ 2026-07-07
+- [The software engineering war](https://newsletter.manager.dev/p/the-software-engineering-war) [📖](https://read.readwise.io/read/01kwwgak1ba1npmcb63g8z72se) 👤 Anton Zaides 💬 1461 🔖 #llm-reality 🗓️ 2026-07-06
+    > **Заметка:** Любопытная классификация на builder и keeper. Я, наверное, где-то посередине шкалы.
 - [Describing all my photos](https://alexwlchan.net/2026/describing-my-photos/) [📖](https://read.readwise.io/read/01kwsqska0h87gr18cby2cgyc2) 👤 alexwlchan 💬 1121 🔖 #macos, #inspiration 🗓️ 2026-07-05
     > **Заметка:** Пост интересен для вдохновения, какие штуки можно автоматизировать в работе со своей коллекцией фото на маке.
 - [AI has torched the market for junior programmers](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers) [📖](https://read.readwise.io/read/01kwqb8r9ts801ka1h6yr1e4a7) 👤 Seldo.com RSS Feed 💬 1880 🔖 #career, #llm-devimpact 🗓️ 2026-07-04

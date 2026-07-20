@@ -2,15 +2,12 @@
 
 _Короткие статьи (не туториалы, не основы), отсортированные по объёму_
 
-Сгенерировано: 2026-07-19 06:10 UTC · Статей: 30
+Сгенерировано: 2026-07-20 06:30 UTC · Статей: 30
 
 ## Статьи
 
 - [Bypassing DPI with eBPF sock_ops](https://bora.sh/bypassing-dpi-with-ebpf/) [📖](https://read.readwise.io/read/01kqh31s3acyzhnmh2g9pmvpfb) 👤 Bora Tanrikulu 💬 13 ⭐ 2 🔖 #dpi 🗓️ 2026-05-01
     > **Резюме:** eBPF sock_ops, fake TLS packets, and why every platform needs a different hack
-- [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1) 👤 Alec Scollon 💬 494 ⭐ 6 🔖 #burnout, #llm-devimpact 🗓️ 2026-07-09
-    > **Заметка:** Via TLDR Newsletter
-    > **Резюме:** The author uses large language models (LLMs) daily for coding help and research. Over time, they feel tired of repeated mistakes and annoying writing styles from LLMs. Despite this frustration, they find LLMs useful and plan to keep using them.
 - [The University In The AI Era](https://htmx.org/essays/universities-and-ai/) [📖](https://read.readwise.io/read/01kw54zcm3196kc0he9yd3mkrt) 👤 htmx.org 💬 717 ⭐ 2 🔖 #learning, #llm-devimpact 🗓️ 2026-06-27
     > **Заметка:** Via Social Digest
     > **Резюме:** The author suggests combining computer science with other majors to help more students learn useful tech skills. They also propose using special computer labs and oral exams to better check students’ true abilities. These changes can keep universities important even as AI grows and changes how we learn.
@@ -23,8 +20,6 @@ _Короткие статьи (не туториалы, не основы), о�
 - [2025 in review](https://www.loopwerk.io/articles/2025/2025-in-review/?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_316) [📖](https://read.readwise.io/read/01kczwvew6dftm8phypwzjqxd2) 👤 Kevin Renskers 💬 1411 ⭐ 2 🔖 #shortlist 🗓️ 2025-12-21
     > **Заметка:** https://chatgpt.com/c/69479f95-3aa4-8328-8855-b64bb19cc6d2
     > **Резюме:** 2025 was a productive year: I wrote 38 articles, grew site traffic a lot, and released several open-source Django projects. In November my girlfriend and her daughter were in a serious car crash, so I’ve been caring for them and our dog. I started using AI cautiously, did freelance work for Sound Radix, and enjoyed trips, concerts, and games.
-- [The software engineering war](https://newsletter.manager.dev/p/the-software-engineering-war) [📖](https://read.readwise.io/read/01kwwgak1ba1npmcb63g8z72se) 👤 Anton Zaides 💬 1461 ⭐ 3 🔖 #llm-reality 🗓️ 2026-07-06
-    > **Резюме:** Software engineers are divided between "builders" who focus on fast delivery using AI and "keepers" who value well-crafted, reliable code. Both sides have valid points, but extreme views lead to conflict and poor results. The best approach is a balanced mindset that adapts over time and embraces both quality and speed.
 - [AI vs. human illustrators? AI + human illustrators!](https://evilmartians.com/chronicles/ai-vs-human-illustrators-ai-plus-human-illustrators) [📖](https://read.readwise.io/read/01kwf3vq5ta0d14r9cgg79611m) 👤 Travis Turner (richardturner@evilmartians.com) 💬 1614 ⭐ 2 🗓️ 2026-07-01
     > **Резюме:** Evil Martians tried using AI alone to create blog illustrations but found many problems with quality and consistency. They now use a mix of AI and human illustrators, where AI does most work and humans finish the details. This hybrid approach saves time, lowers costs, and improves the final images.
 - [The Agent-Era Career](https://addyosmani.com/blog/career-advice-age-of-agents/) [📖](https://read.readwise.io/read/01kwwn2ypxks210vr793gqm92s) 👤 Addy Osmani 💬 1662 ⭐ 8 🗓️ 2026-07-06 · 🌲 вечнозелёное
@@ -77,3 +72,7 @@ Open source maintainers should focus on practical, small- to medium-scale projec
     > **Резюме:** The Fn key first appeared in 1984 to help laptops mimic missing keys and control hardware functions. Apple recently introduced a new Globe (🌐) key, causing confusion with the traditional Fn key on external keyboards. Keyboard designs keep evolving, but many users face challenges due to different keys and shortcuts across devices.
 - [How Markdown took over the world](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kev57mqrms6nmez28y5667xg) 👤 Anil Dash 💬 4535 ⭐ 2 🔖 #markdown, #shortlist 🗓️ 2026-01-13 · 🌲 вечнозелёное
     > **Резюме:** Markdown started as a simple way to make writing on the internet easier without needing complicated code. Many people liked it and began using it everywhere, from blogs to apps like Microsoft Notepad and Apple Notes. Its success shows how open, easy ideas can grow big and change how we share information online.
+- [Agentic Code Review](https://addyosmani.com/blog/agentic-code-review/) [📖](https://read.readwise.io/read/01kv4ah99zrk7pq0qxmt2v7ty8) 👤 Addy Osmani 💬 4811 ⭐ 9 🗓️ 2026-06-15
+    > **Резюме:** AI generates code faster but creates more issues, making review the slowest and costliest part of development. Human reviewers must spend more time understanding AI-written code since it lacks clear reasoning. Teams should focus on using AI to handle simple checks and save human effort for critical reviews where mistakes matter most.
+- [LLMs and performative productivity](https://joshcollinsworth.com/blog/productivity) [📖](https://read.readwise.io/read/01ktc7x03aqjmqmw7rfaypvah7) 👤 Josh Collinsworth 💬 5221 ⭐ 8 🗓️ 2026-06-05
+    > **Резюме:** AI tools like large language models (LLMs) often make developers feel more productive, but studies show they may actually slow work and reduce skill growth. Productivity gains are mostly seen in simple tasks, while complex projects can suffer from lower code quality and more maintenance. True productivity is hard to measure and requires careful thought, not just faster or more code output.

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T06:10:43.383003+00:00",
+  "generated_at": "2026-07-20T06:30:09.780199+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -582,39 +582,6 @@
         }
       },
       {
-        "id": "01kx3cnkj2hwfgbz9e3thgm4h1",
-        "url": "https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1",
-        "source_url": "https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev",
-        "title": "I Think I Have LLM Burnout",
-        "author": "Alec Scollon",
-        "image_url": "",
-        "word_count": 494,
-        "summary": "The author uses large language models (LLMs) daily for coding help and research. Over time, they feel tired of repeated mistakes and annoying writing styles from LLMs. Despite this frustration, they find LLMs useful and plan to keep using them.",
-        "notes": "Via TLDR Newsletter",
-        "tags": {
-          "burnout": {
-            "name": "Burnout",
-            "type": "manual",
-            "created": 1783599141649
-          },
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1783599138652
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-07-09T12:12:04.034000+00:00",
-        "last_moved_at": "2026-07-09T12:12:07.023000+00:00",
-        "published_date": "2026-07-09",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 6
-        }
-      },
-      {
         "id": "01kw54zcm3196kc0he9yd3mkrt",
         "url": "https://read.readwise.io/read/01kw54zcm3196kc0he9yd3mkrt",
         "source_url": "https://htmx.org/essays/universities-and-ai/",
@@ -717,34 +684,6 @@
           "is_foundational": false,
           "is_evergreen": false,
           "interest_score": 2
-        }
-      },
-      {
-        "id": "01kwwgak1ba1npmcb63g8z72se",
-        "url": "https://read.readwise.io/read/01kwwgak1ba1npmcb63g8z72se",
-        "source_url": "https://newsletter.manager.dev/p/the-software-engineering-war",
-        "title": "The software engineering war",
-        "author": "Anton Zaides",
-        "image_url": "https://www.manager.dev/newsletter/the-software-engineering-war/opengraph-image-2tlwqw?c84712a3cec82ff5",
-        "word_count": 1461,
-        "summary": "Software engineers are divided between \"builders\" who focus on fast delivery using AI and \"keepers\" who value well-crafted, reliable code. Both sides have valid points, but extreme views lead to conflict and poor results. The best approach is a balanced mindset that adapts over time and embraces both quality and speed.",
-        "notes": "",
-        "tags": {
-          "llm-reality": {
-            "name": "LLM-Reality",
-            "type": "manual",
-            "created": 1784198295001
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-07-06T20:01:13.332000+00:00",
-        "last_moved_at": "2026-07-10T10:34:08.169000+00:00",
-        "published_date": "2026-07-07",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
         }
       },
       {
@@ -1362,6 +1301,50 @@
           "is_evergreen": true,
           "interest_score": 2
         }
+      },
+      {
+        "id": "01kv4ah99zrk7pq0qxmt2v7ty8",
+        "url": "https://read.readwise.io/read/01kv4ah99zrk7pq0qxmt2v7ty8",
+        "source_url": "https://addyosmani.com/blog/agentic-code-review/",
+        "title": "Agentic Code Review",
+        "author": "Addy Osmani",
+        "image_url": "https://addyosmani.com/assets/images/favicons/android-chrome-192x192.png",
+        "word_count": 4811,
+        "summary": "AI generates code faster but creates more issues, making review the slowest and costliest part of development. Human reviewers must spend more time understanding AI-written code since it lacks clear reasoning. Teams should focus on using AI to handle simple checks and save human effort for critical reviews where mistakes matter most.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-15T00:22:33.095000+00:00",
+        "last_moved_at": "2026-06-30T11:48:59.258000+00:00",
+        "published_date": "2026-06-14",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 9
+        }
+      },
+      {
+        "id": "01ktc7x03aqjmqmw7rfaypvah7",
+        "url": "https://read.readwise.io/read/01ktc7x03aqjmqmw7rfaypvah7",
+        "source_url": "https://joshcollinsworth.com/blog/productivity",
+        "title": "LLMs and performative productivity",
+        "author": "Josh Collinsworth",
+        "image_url": "https://joshcollinsworth.com/images/site-image.png",
+        "word_count": 5221,
+        "summary": "AI tools like large language models (LLMs) often make developers feel more productive, but studies show they may actually slow work and reduce skill growth. Productivity gains are mostly seen in simple tasks, while complex projects can suffer from lower code quality and more maintenance. True productivity is hard to measure and requires careful thought, not just faster or more code output.",
+        "notes": "",
+        "tags": {},
+        "highlights": [],
+        "saved_at": "2026-06-05T15:54:44.787000+00:00",
+        "last_moved_at": "2026-06-30T11:48:53.671000+00:00",
+        "published_date": "2026-06-05",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
+          "is_evergreen": false,
+          "interest_score": 8
+        }
       }
     ],
     "quick_wins": [
@@ -1401,39 +1384,6 @@
           "is_foundational": true,
           "is_evergreen": true,
           "interest_score": 8
-        }
-      },
-      {
-        "id": "01kx3cnkj2hwfgbz9e3thgm4h1",
-        "url": "https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1",
-        "source_url": "https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev",
-        "title": "I Think I Have LLM Burnout",
-        "author": "Alec Scollon",
-        "image_url": "",
-        "word_count": 494,
-        "summary": "The author uses large language models (LLMs) daily for coding help and research. Over time, they feel tired of repeated mistakes and annoying writing styles from LLMs. Despite this frustration, they find LLMs useful and plan to keep using them.",
-        "notes": "Via TLDR Newsletter",
-        "tags": {
-          "burnout": {
-            "name": "Burnout",
-            "type": "manual",
-            "created": 1783599141649
-          },
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1783599138652
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-07-09T12:12:04.034000+00:00",
-        "last_moved_at": "2026-07-09T12:12:07.023000+00:00",
-        "published_date": "2026-07-09",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 6
         }
       },
       {
@@ -1907,7 +1857,7 @@
         "image_url": "https://bun.com/og/blog/bun-in-rust.png",
         "word_count": 5681,
         "summary": "Bun was rewritten from Zig to Rust using AI assistance, improving code safety and reducing bugs. The Rust version fixes many memory leaks and shrinks the binary size by about 20%. This rewrite makes Bun faster, smaller, and more stable with better tools for future improvements.",
-        "notes": "Via TLDR Newsletter; Via Simon Willison.",
+        "notes": "Via TLDR Newsletter; Via Simon Willison. Связать: https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/",
         "tags": {},
         "highlights": [],
         "saved_at": "2026-07-09T12:11:09.474000+00:00",
@@ -4276,39 +4226,6 @@
         }
       },
       {
-        "id": "01kx3cnkj2hwfgbz9e3thgm4h1",
-        "url": "https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1",
-        "source_url": "https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev",
-        "title": "I Think I Have LLM Burnout",
-        "author": "Alec Scollon",
-        "image_url": "",
-        "word_count": 494,
-        "summary": "The author uses large language models (LLMs) daily for coding help and research. Over time, they feel tired of repeated mistakes and annoying writing styles from LLMs. Despite this frustration, they find LLMs useful and plan to keep using them.",
-        "notes": "Via TLDR Newsletter",
-        "tags": {
-          "burnout": {
-            "name": "Burnout",
-            "type": "manual",
-            "created": 1783599141649
-          },
-          "llm-devimpact": {
-            "name": "LLM-DevImpact",
-            "type": "manual",
-            "created": 1783599138652
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-07-09T12:12:04.034000+00:00",
-        "last_moved_at": "2026-07-09T12:12:07.023000+00:00",
-        "published_date": "2026-07-09",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 6
-        }
-      },
-      {
         "id": "01kkeb8d42rdtsnyrwfezxesgd",
         "url": "https://read.readwise.io/read/01kkeb8d42rdtsnyrwfezxesgd",
         "source_url": "https://webdirections.org/blog/the-structure-of-engineering-revolutions/?utm_source=substack&utm_medium=email",
@@ -4379,34 +4296,6 @@
         "saved_at": "2026-03-24T06:07:06.483000+00:00",
         "last_moved_at": "2026-03-24T06:07:24.915000+00:00",
         "published_date": "2026-03-15",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 3
-        }
-      },
-      {
-        "id": "01kwwgak1ba1npmcb63g8z72se",
-        "url": "https://read.readwise.io/read/01kwwgak1ba1npmcb63g8z72se",
-        "source_url": "https://newsletter.manager.dev/p/the-software-engineering-war",
-        "title": "The software engineering war",
-        "author": "Anton Zaides",
-        "image_url": "https://www.manager.dev/newsletter/the-software-engineering-war/opengraph-image-2tlwqw?c84712a3cec82ff5",
-        "word_count": 1461,
-        "summary": "Software engineers are divided between \"builders\" who focus on fast delivery using AI and \"keepers\" who value well-crafted, reliable code. Both sides have valid points, but extreme views lead to conflict and poor results. The best approach is a balanced mindset that adapts over time and embraces both quality and speed.",
-        "notes": "",
-        "tags": {
-          "llm-reality": {
-            "name": "LLM-Reality",
-            "type": "manual",
-            "created": 1784198295001
-          }
-        },
-        "highlights": [],
-        "saved_at": "2026-07-06T20:01:13.332000+00:00",
-        "last_moved_at": "2026-07-10T10:34:08.169000+00:00",
-        "published_date": "2026-07-07",
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,

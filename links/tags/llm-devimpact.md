@@ -1,9 +1,15 @@
 # Ссылки
 
-- Всего ссылок: 154
+- Всего ссылок: 156
 
 ## Ссылки
 
+- [The Democratization of Software Development](https://alexop.dev/posts/the-democratization-of-software-development/) [📖](https://read.readwise.io/read/01kxtsqjpdmc8pjxkzapg85q5n) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 680 🔖 #career, #predictions, #llm-devimpact 🗓️ 2026-07-18
+    > **Заметка:** Такой пост бездушный, в целом ни о чём. А технические посты автора отличные! Оставил как пример мировоззрения в моменте. Через год-два интересно будет перечитать :)
+    > **Резюме:** Software development is changing as AI agents take over coding tasks. Teams become generalists who manage whole projects from idea to product. Developers must focus on understanding customers and building meaningful features, not just writing code.
+- [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) [📖](https://read.readwise.io/read/01kxgpndbwmshm844rbwrzcjhp) 👤 Armin Ronacher 💬 722 🔖 #llm-devimpact 🗓️ 2026-07-14
+    > **Заметка:** Классное сравнение с Вавилонской башней. Топ!
+    > **Резюме:** The Tower of Babel story shows how shared language helps people build together. AI tools let programmers work faster but can hurt teamwork and shared understanding. This makes software grow but also become harder for humans to manage as a group.
 - [Control the ideas, not the code](http://antirez.com/news/169) [📖](https://read.readwise.io/read/01kxdmfb7px8j2f45t8t15mjm1) 👤 <antirez> 💬 1245 🔖 #llm-reality, #llm-devimpact, #softwarecraft 🗓️ 2026-07-13
     > **Заметка:** Важный взгляд со стороны опытнейшего профессионала.
     > **Резюме:** Programming is changing because AI can write a lot of code, making it hard to review every line. Instead of focusing on code, developers should control and understand the ideas behind the software. This shift allows more time for quality, testing, and better design in a fast-changing world.
@@ -11,7 +17,7 @@
     > **Заметка:** В копилку мнений о том, что нужно кодить вручную, чтобы действительно понимать код и не терять навыки.
     > **Резюме:** A bunch of reasons to write code in 2026
 - [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1) 👤 Alec Scollon 💬 494 🔖 #burnout, #llm-devimpact 🗓️ 2026-07-09
-    > **Заметка:** Via TLDR Newsletter
+    > **Заметка:** Via TLDR Newsletter. Сохраняю как пример ощущений, которые сейчас, возможно, разделяют многие.
     > **Резюме:** The author uses large language models (LLMs) daily for coding help and research. Over time, they feel tired of repeated mistakes and annoying writing styles from LLMs. Despite this frustration, they find LLMs useful and plan to keep using them.
 - [AI has torched the market for junior programmers](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers) [📖](https://read.readwise.io/read/01kwqb8r9ts801ka1h6yr1e4a7) 👤 Seldo.com RSS Feed 💬 1880 🔖 #career, #llm-devimpact 🗓️ 2026-07-04
     > **Резюме:** In early 2025 I predicted that AI will create many, many more programmers, and that new programming jobs would look different. In March I checked in and found startups substituting compute for labor at record rates, with the wave of new jobs nowhere in sight. This post is the next check-in, and I have good news and bad news.

@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 23
+- Всего ссылок: 24
 
 ## Ссылки
 
+- [The Democratization of Software Development](https://alexop.dev/posts/the-democratization-of-software-development/) [📖](https://read.readwise.io/read/01kxtsqjpdmc8pjxkzapg85q5n) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 680 🔖 #career, #predictions, #llm-devimpact 🗓️ 2026-07-18
+    > **Заметка:** Такой пост бездушный, в целом ни о чём. А технические посты автора отличные! Оставил как пример мировоззрения в моменте. Через год-два интересно будет перечитать :)
+    > **Резюме:** Software development is changing as AI agents take over coding tasks. Teams become generalists who manage whole projects from idea to product. Developers must focus on understanding customers and building meaningful features, not just writing code.
 - [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/) [📖](https://read.readwise.io/read/01kvt16x8zwvp4r5dbj9gsefx6) 👤 Armin Ronacher 💬 2716 🔖 #predictions, #llm-devimpact 🗓️ 2026-06-23
     > **Заметка:** Армин рассматривает проблематику внедрения LLM в разработку с точки зрения внешних агентских циклов (harness loops). Как всегда, глубоко. Стоит взять эту тему на карандаш.
     > **Резюме:** The author worries that AI-driven loops in coding make software complex and hard to understand without machines. These loops speed up work but can lead to messy, dependent codebases that humans struggle to maintain. We must find ways to keep human judgment and clear design while using AI tools.

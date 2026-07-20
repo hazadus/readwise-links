@@ -2,7 +2,7 @@
 
 _Длинные статьи (от 1500 слов), не туториалы_
 
-Сгенерировано: 2026-07-19 06:10 UTC · Статей: 46
+Сгенерировано: 2026-07-20 06:30 UTC · Статей: 46
 
 ## Статьи
 
@@ -38,7 +38,7 @@ _Длинные статьи (от 1500 слов), не туториалы_
 - [The (lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kba74ynqzd6by0k16mmj92s4) 👤 @bwplotka 💬 2452 ⭐ 7 🔖 #git, #joyandcuriosity 🗓️ 2025-11-30 · 🌲 вечнозелёное
     > **Резюме:** The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.
 - [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cky929t7sh4p6wnptbjs6) 👤 Jarred Sumner 💬 5681 ⭐ 6 🗓️ 2026-07-09 · 🌲 вечнозелёное
-    > **Заметка:** Via TLDR Newsletter; Via Simon Willison.
+    > **Заметка:** Via TLDR Newsletter; Via Simon Willison. Связать: https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/
     > **Резюме:** Bun was rewritten from Zig to Rust using AI assistance, improving code safety and reducing bugs. The Rust version fixes many memory leaks and shrinks the binary size by about 20%. This rewrite makes Bun faster, smaller, and more stable with better tools for future improvements.
 - [From Technical Debt to Cognitive and Intent Debt](https://arxiv.org/pdf/2603.22106) [📖](https://read.readwise.io/read/01kwkh7aexga4sckh7pjnfyegh) 👤 arxiv.org 💬 4940 ⭐ 6 🗓️ 2026-07-03 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Software development now faces three kinds of debt: technical debt (messy code), cognitive debt (lost shared understanding), and intent debt (unclear goals). Generative AI speeds up coding but can worsen cognitive and intent debt by reducing team understanding and clarity. To stay healthy, software teams must focus as much on clear intent and shared knowledge as on code quality.
