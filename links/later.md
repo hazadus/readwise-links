@@ -1,15 +1,27 @@
 # Отложенные ссылки
 
-- Всего ссылок: 81
+- Всего ссылок: 85
 
 ## Ссылки
 
+- [On Making](https://beej.us/blog/data/ai-making/) [📖](https://read.readwise.io/read/01ky7h0nypyyee98t3z4xq8sn7) 👤 beej.us 💬 3119 🗓️ 2026-07-23
+    > **Заметка:** Via HackerNews Digest 2026-07-23
+    > **Резюме:** The author feels proud only when they personally create something, not when others or AI do it for them. They see prompting AI as asking for help, not true making. For them, real fulfillment comes from hands-on crafting and problem-solving.
+- [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) [📖](https://read.readwise.io/read/01ky7gvmhr8r0wwehm01dk7b5z) 👤 Mitchell Hashimoto 💬 2246 🗓️ 2026-07-23
+    > **Заметка:** Via HackerNews Digest 2026-07-23
+    > **Резюме:** SIMD lets a CPU process many values at once, making loops much faster. Writing SIMD code follows five common steps and becomes as natural as writing regular loops. This approach gives big speedups, especially for hot loops working on large data sets.
+- [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html) [📖](https://read.readwise.io/read/01ky74a5k8e2e18b3svjh0w75r) 👤 Codeberg e.V 💬 2055 🔖 #llm-resistance 🗓️ 2026-07-23
+    > **Заметка:** Via dbushell.com
+    > **Резюме:** Codeberg has voted to forbid using their data to train large language models (LLMs) because they harm free and open source software communities. They also changed their rules to stop hosting projects that rely heavily on LLM-generated code, which often wastes resources and hurts collaboration. This decision aims to protect their shared software space and support real human teamwork.
+- [The Human-in-the-Loop is Tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired?utm_source=tldrdev) [📖](https://read.readwise.io/read/01ky1k11amh0adabz6xxrez0hh) 👤 Laura Summers 💬 2010 🔖 #llm-fatigue 🗓️ 2026-07-21
+    > **Заметка:** Via TLDR Newsletter.
+    > **Резюме:** Programming with AI tools is helpful but also tiring because humans must constantly supervise and fix the AI’s work. This creates new kinds of mental fatigue and loneliness for developers. The role of engineers is shifting from writing code to guiding and judging AI output, which requires new skills and patience.
+- [How do you stay familiar with the code when it's written by an LLM?](https://www.aha.io/engineering/articles/staying-familiar-with-the-code-when-its-written-by-an-llm?utm_source=tldrdev) [📖](https://read.readwise.io/read/01ky1jsq5nknk8h7pykek87va5) 👤 aha.io 💬 1855 🔖 #cognitivedebt 🗓️ 2026-07-21
+    > **Заметка:** Via TLDR Newsletter.
+    > **Резюме:** Using LLMs to write code can make it harder for developers to understand and remember their own projects. To stay familiar, programmers should actively engage by making mistakes, typing code themselves, and asking questions. Reviewing and exploring LLM-generated code carefully helps maintain control and responsibility over software quality.
 - [transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) [📖](https://read.readwise.io/read/01kxxtnxb3fbkempv1fvskhap5) 👤 CJ Pais 💬 1431 🗓️ 2026-07-19
     > **Заметка:** Via HackerNews Digest 2026-07-19. Надо разобраться, чем это может быть мне полезно.
     > **Резюме:** transcribe.cpp is a fast and accurate transcription library that works on many devices and supports over 60 speech models. It is designed to run locally without needing cloud services and is tested to match official model accuracy. The library is open source, maintained by Handy's creator, and offers easy integration with multiple programming languages.
-- [What I learned selling 2500 MIDI recorders, part 1: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) [📖](https://read.readwise.io/read/01kxxtfn1dwtmajtmehn5rtddz) 👤 chipweinberger.com 💬 545 🗓️ 2026-07-19
-    > **Заметка:** Via HackerNews Digest 2026-07-19
-    > **Резюме:** The author built and sold 2,500 Jamcorders, a simple automated piano recording device, and found hardware was easier than expected. The hardest part was writing the software, not making the physical product. The key advice is to keep hardware simple and focus on good partnerships and planning.
 - [_Impro_ is a handbook for running a cult](https://seangoedecke.com/impro/) [📖](https://read.readwise.io/read/01kxw85d6bxgh6pdtfnqtgem8p) 👤 seangoedecke.com RSS feed 💬 3033 🗓️ 2026-07-19
     > **Резюме:** Keith Johnstone’s book *Impro* teaches that people can unlock creativity by unlearning social repression. He runs improv like a cult, using power and trance-like techniques to shape his students. While his ideas challenge culture, they also raise concerns about control and influence.
 - [Overtraining as the path to human-like AI](https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/) [📖](https://read.readwise.io/read/01kxs9j66wrebd9fyerx2v921n) 👤 seangoedecke.com RSS feed 💬 1947 🗓️ 2026-07-18

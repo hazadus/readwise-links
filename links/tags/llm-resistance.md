@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 15
+- Всего ссылок: 16
 
 ## Ссылки
 
+- [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html) [📖](https://read.readwise.io/read/01ky74a5k8e2e18b3svjh0w75r) 👤 Codeberg e.V 💬 2055 🔖 #llm-resistance 🗓️ 2026-07-23
+    > **Заметка:** Via dbushell.com
+    > **Резюме:** Codeberg has voted to forbid using their data to train large language models (LLMs) because they harm free and open source software communities. They also changed their rules to stop hosting projects that rely heavily on LLM-generated code, which often wastes resources and hurts collaboration. This decision aims to protect their shared software space and support real human teamwork.
 - [stop asking writers about "AI"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/) [📖](https://read.readwise.io/read/01kwerfqqszysnhnjdkxyfa3b0) 👤 Benjamin Hollon 💬 1705 🔖 #llm, #writing, #reflections, #llm-resistance 🗓️ 2026-07-01
     > **Заметка:** Via Social Digest 2026-07-01
     > **Резюме:** The author is tired of people asking writers about AI because it makes them feel their work is not valued. They believe AI cannot replace human creativity and that real writers will keep creating no matter what. Instead of asking about AI, people should show interest by asking to read a writer’s work.

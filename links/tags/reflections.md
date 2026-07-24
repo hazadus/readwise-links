@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 35
+- Всего ссылок: 36
 
 ## Ссылки
 
+- [What I learned selling 2500 MIDI recorders, part 1: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) [📖](https://read.readwise.io/read/01kxxtfn1dwtmajtmehn5rtddz) 👤 chipweinberger.com 💬 545 🔖 #reflections 🗓️ 2026-07-19
+    > **Заметка:** Via HackerNews Digest 2026-07-19. Отличный пост! Рад, что у автора всё так хорошо получилось.
+    > **Резюме:** The author built and sold 2,500 Jamcorders, a simple automated piano recording device, and found hardware was easier than expected. The hardest part was writing the software, not making the physical product. The key advice is to keep hardware simple and focus on good partnerships and planning.
 - [A technical career retrospective part 1](https://kenwhitesell.github.io/2026/07/10/A-technical-career-retrospective-pt-1.html) [📖](https://read.readwise.io/read/01kx985yzw86k304gp67mpxw15) 👤 Ken Whitesell 💬 1307 🔖 #reflections 🗓️ 2026-07-11
     > **Резюме:** Ken Whitesell learned programming on a slow, noisy HP-2000F minicomputer using teletypes and paper tape in high school. Debugging was done by hand, and code sharing was difficult due to system limits. Access to better terminals later made programming easier and more practical.
 - [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kwpmv6cr64j0d24p6jsdnzky) 👤 the human in the loop 💬 1738 🔖 #career, #reflections, #llm-devimpact 🗓️ 2026-07-04

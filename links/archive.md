@@ -1,9 +1,13 @@
 # Архивные ссылки
 
-- Всего ссылок: 1797
+- Всего ссылок: 1799
 
 ## Ссылки
 
+- [How to read more books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/) [📖](https://read.readwise.io/read/01kxzjxansftxnt7mzfrggmbt8) 👤 Elia Scotto (hello@scotto.me) 💬 1783 🔖 #reading 🗓️ 2026-07-20
+    > **Заметка:** Via Wisereads Newsletter Vol.152
+- [What I learned selling 2500 MIDI recorders, part 1: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) [📖](https://read.readwise.io/read/01kxxtfn1dwtmajtmehn5rtddz) 👤 chipweinberger.com 💬 545 🔖 #reflections 🗓️ 2026-07-19
+    > **Заметка:** Via HackerNews Digest 2026-07-19. Отличный пост! Рад, что у автора всё так хорошо получилось.
 - [The Democratization of Software Development](https://alexop.dev/posts/the-democratization-of-software-development/) [📖](https://read.readwise.io/read/01kxtsqjpdmc8pjxkzapg85q5n) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 680 🔖 #career, #predictions, #llm-devimpact 🗓️ 2026-07-18
     > **Заметка:** Такой пост бездушный, в целом ни о чём. А технические посты автора отличные! Оставил как пример мировоззрения в моменте. Через год-два интересно будет перечитать :)
 - [My Thoughts on the Bun Rust Rewrite](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html) [📖](https://read.readwise.io/read/01kxk1eyw9tncfd3t4xpmc2kgw) 👤 andrewkelley.me 💬 1956 🔖 #bun, #zig 🗓️ 2026-07-15

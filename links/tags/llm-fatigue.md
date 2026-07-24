@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [The Human-in-the-Loop is Tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired?utm_source=tldrdev) [📖](https://read.readwise.io/read/01ky1k11amh0adabz6xxrez0hh) 👤 Laura Summers 💬 2010 🔖 #llm-fatigue 🗓️ 2026-07-21
+    > **Заметка:** Via TLDR Newsletter.
+    > **Резюме:** Programming with AI tools is helpful but also tiring because humans must constantly supervise and fix the AI’s work. This creates new kinds of mental fatigue and loneliness for developers. The role of engineers is shifting from writing code to guiding and judging AI output, which requires new skills and patience.
 - [AI-assisted engineers are burning out, is this fine?](https://evilmartians.com/chronicles/ai-assisted-engineers-are-burning-out-is-this-fine?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kspg5q1bt2hj29py6y6yf4zr) 👤 Tech Editor 💬 3248 🔖 #burnout, #llm-fatigue, #llm-devimpact 🗓️ 2026-05-28
     > **Заметка:** Это прекрасный разбор, с отличными схемами, и выводы совпадают с моим собственным опытом!  Via TLDR Newsletter. Обсуждение на HN: https://news.ycombinator.com/item?id=48228283
     > **Резюме:** AI helps engineers write code faster but causes mental fatigue and burnout. This happens because reviewing AI code is harder and working nonstop drains energy. To avoid burnout, developers should balance AI use with breaks and focus on tasks they enjoy.

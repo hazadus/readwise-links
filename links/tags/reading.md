@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 12
+- Всего ссылок: 13
 
 ## Ссылки
 
+- [How to read more books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/) [📖](https://read.readwise.io/read/01kxzjxansftxnt7mzfrggmbt8) 👤 Elia Scotto (hello@scotto.me) 💬 1783 🔖 #reading 🗓️ 2026-07-20
+    > **Заметка:** Via Wisereads Newsletter Vol.152
+    > **Резюме:** Read whenever you have idle moments and replace phone time with books. Carry a book or e-reader, read multiple titles, and don’t be afraid to quit ones you don’t like. Set gentle goals, take notes or write reviews, and prefer slow steady reading over hacks like speed summaries or audiobooks.
 - [Nobody Cracks Open a Programming Book Anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/) [📖](https://read.readwise.io/read/01kshe19eewgvtxeexvjh3gs91) 👤 CYRUS 💬 873 🔖 #reading, #llm-devimpact 🗓️ 2026-05-26
     > **Заметка:** Хорошую книгу ничего не заменит (и она не обязательно должна быть бумажной). Важна структура, опыт и подача автора. Никто не мешает уточнять детали и углубляться в вопросы через LLM, документацию и тематические посты/видео.   Via HN. https://news.ycombinator.com/item?id=48273030
     > **Резюме:** Programming books used to be essential, but now few people buy them because tools like ChatGPT and GitHub Copilot provide instant help. The traditional way of learning by typing code from books is fading. New programmers learn differently and use smarter tools, changing how software is made.

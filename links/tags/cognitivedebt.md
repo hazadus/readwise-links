@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 8
+- Всего ссылок: 9
 
 ## Ссылки
 
+- [How do you stay familiar with the code when it's written by an LLM?](https://www.aha.io/engineering/articles/staying-familiar-with-the-code-when-its-written-by-an-llm?utm_source=tldrdev) [📖](https://read.readwise.io/read/01ky1jsq5nknk8h7pykek87va5) 👤 aha.io 💬 1855 🔖 #cognitivedebt 🗓️ 2026-07-21
+    > **Заметка:** Via TLDR Newsletter.
+    > **Резюме:** Using LLMs to write code can make it harder for developers to understand and remember their own projects. To stay familiar, programmers should actively engage by making mistakes, typing code themselves, and asking questions. Reviewing and exploring LLM-generated code carefully helps maintain control and responsibility over software quality.
 - [Code is Cheap(er)](https://htmx.org/essays/code-is-cheap/) [📖](https://read.readwise.io/read/01kwkf8azgdt2ays6jjeee2a0j) 👤 htmx.org 💬 874 🔖 #cognitivedebt, #llm-devimpact 🗓️ 2026-07-03
     > **Заметка:** Via JoyAndCuriosity Newsletter
     > **Резюме:** AI has made writing code much faster and cheaper, but understanding that code is now harder and more important. Developers should carefully review and simplify AI-generated code to avoid complexity and errors. The best engineers will focus on reducing unnecessary code and managing complexity, not just writing more code.

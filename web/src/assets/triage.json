@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T06:30:09.780199+00:00",
+  "generated_at": "2026-07-24T11:55:37.096147+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -3526,7 +3526,7 @@
         "source_url": "https://aicoding.leaflet.pub/3mjfruwwuck2d",
         "title": "The Phoenix Primitives",
         "author": "The Phoenix Architecture",
-        "image_url": "https://leaflet.pub/lish/did%253Aplc%253A4qsyxmnsblo4luuycm3572bq/3majnsnvafs2b/3mjfruwwuck2d/opengraph-image?e2bb7203df6d3028",
+        "image_url": "https://leaflet.pub/lish/did%253Aplc%253A4qsyxmnsblo4luuycm3572bq/3majnsnvafs2b/3mjfruwwuck2d/opengraph-image?e2bb7203df6d3028=",
         "word_count": 1307,
         "summary": "In regenerative software, code is not maintained but recreated from precise specifications, making the specification the true source of truth. The key architectural focus shifts from internal code structure to defining clear boundaries between independently regenerable modules. Provenance replaces traditional version control by tracking the causes and effects of changes, enabling better understanding and management of system evolution.",
         "notes": "",
