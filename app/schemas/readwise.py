@@ -5,8 +5,14 @@
 
 from datetime import datetime
 from typing import Any
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 from pydantic import BaseModel, field_validator
+
+# Параметры подписи presigned-ссылок S3. Попадают в image_url из Readwise,
+# протухают, а секретный AWSAccessKeyId блокирует git push через GitHub Push
+# Protection. Вырезаем их при разборе документа.
+_S3_SIGNATURE_PARAMS = {"awsaccesskeyid", "signature", "expires"}
 
 
 class ReadwiseDocument(BaseModel):
@@ -38,6 +44,21 @@ class ReadwiseDocument(BaseModel):
     first_opened_at: datetime | None = None
     last_opened_at: datetime | None = None
     last_moved_at: datetime | None = None
+
+    @field_validator("image_url", mode="before")
+    @classmethod
+    def strip_s3_signature(cls, v: Any) -> str | None:
+        """Убрать параметры подписи presigned-ссылок S3 из image_url."""
+        if not isinstance(v, str) or "?" not in v:
+            return v
+        parts = urlsplit(v)
+        query = [
+            (k, val)
+            for k, val in parse_qsl(parts.query, keep_blank_values=True)
+            if k.lower() not in _S3_SIGNATURE_PARAMS
+            and not k.lower().startswith("x-amz-")
+        ]
+        return urlunsplit(parts._replace(query=urlencode(query)))
 
     @field_validator("published_date", mode="before")
     @classmethod
