@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 85
+- Всего ссылок: 86
 
 ## Ссылки
 
+- [The best demos of 2025 from the demoscene](https://laurent.le-brun.eu/blog/the-best-demos-of-2025-from-the-demoscene) [📖](https://read.readwise.io/read/01ky9zr4eabc96vf3z8x3kege5) 👤 Laurent Le Brun's blog 💬 807 🗓️ 2026-07-24
+    > **Резюме:** The demoscene is a creative computer subculture that makes impressive real-time visuals and music under tight limits. In 2025, standout demos showed high skill in small file sizes, old hardware tricks, and artistic storytelling. The best works will be honored at the Meteoriks awards during the Revision demoparty in Germany.
 - [On Making](https://beej.us/blog/data/ai-making/) [📖](https://read.readwise.io/read/01ky7h0nypyyee98t3z4xq8sn7) 👤 beej.us 💬 3119 🗓️ 2026-07-23
     > **Заметка:** Via HackerNews Digest 2026-07-23
     > **Резюме:** The author feels proud only when they personally create something, not when others or AI do it for them. They see prompting AI as asking for help, not true making. For them, real fulfillment comes from hands-on crafting and problem-solving.
