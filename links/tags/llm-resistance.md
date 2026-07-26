@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 16
+- Всего ссылок: 17
 
 ## Ссылки
 
+- [Pluralistic: AI solipsists and AI cynics (24 Jul 2026)](https://pluralistic.net/2026/07/24/supplemental-income/) [📖](https://read.readwise.io/read/01ky9tgzw0j2hk1ay0mctab2tg) 👤 Cory Doctorow 💬 2293 🔖 #llm-resistance 🗓️ 2026-07-24
+    > **Резюме:** AI is not a special technology, but the huge investment bubble around it is harmful and risky. Companies use AI to replace workers with cheaper, less capable chatbots, driven by profit and control, not real progress. When this bubble bursts, it will cause economic damage and environmental harm that will last for years.
 - [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html) [📖](https://read.readwise.io/read/01ky74a5k8e2e18b3svjh0w75r) 👤 Codeberg e.V 💬 2055 🔖 #llm-resistance 🗓️ 2026-07-23
     > **Заметка:** Via dbushell.com
     > **Резюме:** Codeberg has voted to forbid using their data to train large language models (LLMs) because they harm free and open source software communities. They also changed their rules to stop hosting projects that rely heavily on LLM-generated code, which often wastes resources and hurts collaboration. This decision aims to protect their shared software space and support real human teamwork.

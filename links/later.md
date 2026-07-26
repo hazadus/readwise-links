@@ -1,11 +1,15 @@
 # Отложенные ссылки
 
-- Всего ссылок: 86
+- Всего ссылок: 89
 
 ## Ссылки
 
+- [Цена одновременности: треды, ядра и переключение контекста](https://golang.guide/concurrency-price/) [📖](https://read.readwise.io/read/01kycwtggwvednvdwvxs2grbad) 👤 GoLang Guides 💬 2343 🔖 #go 🗓️ 2026-07-25
+    > **Резюме:** Статья объясняет, как работают параллельность и конкурентность в компьютерах и языке Go. В Go используются горутины, которые более лёгкие и эффективные, чем обычные треды. Создавать много тредов дорого, поэтому важно минимизировать их число для лучшей производительности.
 - [The best demos of 2025 from the demoscene](https://laurent.le-brun.eu/blog/the-best-demos-of-2025-from-the-demoscene) [📖](https://read.readwise.io/read/01ky9zr4eabc96vf3z8x3kege5) 👤 Laurent Le Brun's blog 💬 807 🗓️ 2026-07-24
     > **Резюме:** The demoscene is a creative computer subculture that makes impressive real-time visuals and music under tight limits. In 2025, standout demos showed high skill in small file sizes, old hardware tricks, and artistic storytelling. The best works will be honored at the Meteoriks awards during the Revision demoparty in Germany.
+- [Pluralistic: AI solipsists and AI cynics (24 Jul 2026)](https://pluralistic.net/2026/07/24/supplemental-income/) [📖](https://read.readwise.io/read/01ky9tgzw0j2hk1ay0mctab2tg) 👤 Cory Doctorow 💬 2293 🔖 #llm-resistance 🗓️ 2026-07-24
+    > **Резюме:** AI is not a special technology, but the huge investment bubble around it is harmful and risky. Companies use AI to replace workers with cheaper, less capable chatbots, driven by profit and control, not real progress. When this bubble bursts, it will cause economic damage and environmental harm that will last for years.
 - [On Making](https://beej.us/blog/data/ai-making/) [📖](https://read.readwise.io/read/01ky7h0nypyyee98t3z4xq8sn7) 👤 beej.us 💬 3119 🗓️ 2026-07-23
     > **Заметка:** Via HackerNews Digest 2026-07-23
     > **Резюме:** The author feels proud only when they personally create something, not when others or AI do it for them. They see prompting AI as asking for help, not true making. For them, real fulfillment comes from hands-on crafting and problem-solving.
@@ -15,6 +19,8 @@
 - [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html) [📖](https://read.readwise.io/read/01ky74a5k8e2e18b3svjh0w75r) 👤 Codeberg e.V 💬 2055 🔖 #llm-resistance 🗓️ 2026-07-23
     > **Заметка:** Via dbushell.com
     > **Резюме:** Codeberg has voted to forbid using their data to train large language models (LLMs) because they harm free and open source software communities. They also changed their rules to stop hosting projects that rely heavily on LLM-generated code, which often wastes resources and hurts collaboration. This decision aims to protect their shared software space and support real human teamwork.
+- [A technical career retrospective part 3](https://kenwhitesell.github.io/2026/07/21/A-technical-career-retrospective-pt-3.html) [📖](https://read.readwise.io/read/01ky3exed8dk8zhxtsgeyfrset) 👤 Ken Whitesell 💬 1919 🗓️ 2026-07-21
+    > **Резюме:** In 1978, Ken Whitesell used a Texas Instruments TI-59 programmable calculator and printer as an affordable computer for math projects. Programming the TI-59 was complex due to limited memory and tricky coding methods. Though he learned a lot, his work slowed down after joining the Air Force in 1979, and he stopped using the calculator.
 - [The Human-in-the-Loop is Tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired?utm_source=tldrdev) [📖](https://read.readwise.io/read/01ky1k11amh0adabz6xxrez0hh) 👤 Laura Summers 💬 2010 🔖 #llm-fatigue 🗓️ 2026-07-21
     > **Заметка:** Via TLDR Newsletter.
     > **Резюме:** Programming with AI tools is helpful but also tiring because humans must constantly supervise and fix the AI’s work. This creates new kinds of mental fatigue and loneliness for developers. The role of engineers is shifting from writing code to guiding and judging AI output, which requires new skills and patience.
