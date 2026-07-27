@@ -4,12 +4,13 @@
 
 ## Ссылки
 
+- [Writing by Hand is Good for your Brain - Here's how to do it](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) [📖](https://read.readwise.io/read/01kyg55vymyg3w3agfr4ks5rk6) 👤 Neal Stephenson 💬 2464 🔖 #writing 🗓️ 2026-07-26
+    > **Заметка:** Via Pluralistic (Cory Doctorow's blog)
+    > **Резюме:** Writing by hand, especially with a fountain pen, is good for your brain and feels less tiring than other tools. The right pen and paper combination is important to avoid smudging and make writing smooth. You don’t need fancy pens; simple ones like gel pens work well and help you enjoy writing more.
 - [Цена одновременности: треды, ядра и переключение контекста](https://golang.guide/concurrency-price/) [📖](https://read.readwise.io/read/01kycwtggwvednvdwvxs2grbad) 👤 GoLang Guides 💬 2343 🔖 #go 🗓️ 2026-07-25
     > **Резюме:** Статья объясняет, как работают параллельность и конкурентность в компьютерах и языке Go. В Go используются горутины, которые более лёгкие и эффективные, чем обычные треды. Создавать много тредов дорого, поэтому важно минимизировать их число для лучшей производительности.
 - [The best demos of 2025 from the demoscene](https://laurent.le-brun.eu/blog/the-best-demos-of-2025-from-the-demoscene) [📖](https://read.readwise.io/read/01ky9zr4eabc96vf3z8x3kege5) 👤 Laurent Le Brun's blog 💬 807 🗓️ 2026-07-24
     > **Резюме:** The demoscene is a creative computer subculture that makes impressive real-time visuals and music under tight limits. In 2025, standout demos showed high skill in small file sizes, old hardware tricks, and artistic storytelling. The best works will be honored at the Meteoriks awards during the Revision demoparty in Germany.
-- [Pluralistic: AI solipsists and AI cynics (24 Jul 2026)](https://pluralistic.net/2026/07/24/supplemental-income/) [📖](https://read.readwise.io/read/01ky9tgzw0j2hk1ay0mctab2tg) 👤 Cory Doctorow 💬 2293 🔖 #llm-resistance 🗓️ 2026-07-24
-    > **Резюме:** AI is not a special technology, but the huge investment bubble around it is harmful and risky. Companies use AI to replace workers with cheaper, less capable chatbots, driven by profit and control, not real progress. When this bubble bursts, it will cause economic damage and environmental harm that will last for years.
 - [On Making](https://beej.us/blog/data/ai-making/) [📖](https://read.readwise.io/read/01ky7h0nypyyee98t3z4xq8sn7) 👤 beej.us 💬 3119 🗓️ 2026-07-23
     > **Заметка:** Via HackerNews Digest 2026-07-23
     > **Резюме:** The author feels proud only when they personally create something, not when others or AI do it for them. They see prompting AI as asking for help, not true making. For them, real fulfillment comes from hands-on crafting and problem-solving.
