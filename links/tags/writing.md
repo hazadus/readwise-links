@@ -5,7 +5,7 @@
 ## Ссылки
 
 - [Writing by Hand is Good for your Brain - Here's how to do it](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) [📖](https://read.readwise.io/read/01kyg55vymyg3w3agfr4ks5rk6) 👤 Neal Stephenson 💬 2464 🔖 #writing 🗓️ 2026-07-26
-    > **Заметка:** Via Pluralistic (Cory Doctorow's blog)
+    > **Заметка:** Via Pluralistic (Cory Doctorow's blog). Если сам Нил Стивенсон даёт советы, как писать ручкой – кто я такой, чтобы к ним не прислушаться! :)
     > **Резюме:** Writing by hand, especially with a fountain pen, is good for your brain and feels less tiring than other tools. The right pen and paper combination is important to avoid smudging and make writing smooth. You don’t need fancy pens; simple ones like gel pens work well and help you enjoy writing more.
 - [Blog about things you don't understand yet](https://seangoedecke.com/blog-about-things-you-dont-understand-yet/) [📖](https://read.readwise.io/read/01kwxp6n9pwz7gnt1yenz45tz9) 👤 seangoedecke.com RSS feed 💬 1573 🔖 #writing, #learning 🗓️ 2026-07-07
     > **Резюме:** The author writes blog posts to learn new things and clarify their thinking by taking clear, sometimes controversial positions. Writing helps them change their mind and improve their understanding of complex topics. They encourage others to write as a way to learn, even if the writing is not published.

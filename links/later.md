@@ -1,14 +1,16 @@
 # Отложенные ссылки
 
-- Всего ссылок: 89
+- Всего ссылок: 91
 
 ## Ссылки
 
 - [Writing by Hand is Good for your Brain - Here's how to do it](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) [📖](https://read.readwise.io/read/01kyg55vymyg3w3agfr4ks5rk6) 👤 Neal Stephenson 💬 2464 🔖 #writing 🗓️ 2026-07-26
-    > **Заметка:** Via Pluralistic (Cory Doctorow's blog)
+    > **Заметка:** Via Pluralistic (Cory Doctorow's blog). Если сам Нил Стивенсон даёт советы, как писать ручкой – кто я такой, чтобы к ним не прислушаться! :)
     > **Резюме:** Writing by hand, especially with a fountain pen, is good for your brain and feels less tiring than other tools. The right pen and paper combination is important to avoid smudging and make writing smooth. You don’t need fancy pens; simple ones like gel pens work well and help you enjoy writing more.
 - [Цена одновременности: треды, ядра и переключение контекста](https://golang.guide/concurrency-price/) [📖](https://read.readwise.io/read/01kycwtggwvednvdwvxs2grbad) 👤 GoLang Guides 💬 2343 🔖 #go 🗓️ 2026-07-25
     > **Резюме:** Статья объясняет, как работают параллельность и конкурентность в компьютерах и языке Go. В Go используются горутины, которые более лёгкие и эффективные, чем обычные треды. Создавать много тредов дорого, поэтому важно минимизировать их число для лучшей производительности.
+- [LLMs reward expertise](https://seangoedecke.com/llms-reward-expertise/) [📖](https://read.readwise.io/read/01kya11w5ex2dwwjn8xzesvm0v) 👤 seangoedecke.com RSS feed 💬 795 🗓️ 2026-07-24
+    > **Резюме:** Large language models (LLMs) help people do many tasks but work best when users have real expertise in the subject. Experts like Terence Tao get better results by knowing what to ask and how to guide the model. Human knowledge is still very important because it helps get the right answers from LLMs.
 - [The best demos of 2025 from the demoscene](https://laurent.le-brun.eu/blog/the-best-demos-of-2025-from-the-demoscene) [📖](https://read.readwise.io/read/01ky9zr4eabc96vf3z8x3kege5) 👤 Laurent Le Brun's blog 💬 807 🗓️ 2026-07-24
     > **Резюме:** The demoscene is a creative computer subculture that makes impressive real-time visuals and music under tight limits. In 2025, standout demos showed high skill in small file sizes, old hardware tricks, and artistic storytelling. The best works will be honored at the Meteoriks awards during the Revision demoparty in Germany.
 - [On Making](https://beej.us/blog/data/ai-making/) [📖](https://read.readwise.io/read/01ky7h0nypyyee98t3z4xq8sn7) 👤 beej.us 💬 3119 🗓️ 2026-07-23
@@ -17,6 +19,8 @@
 - [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) [📖](https://read.readwise.io/read/01ky7gvmhr8r0wwehm01dk7b5z) 👤 Mitchell Hashimoto 💬 2246 🗓️ 2026-07-23
     > **Заметка:** Via HackerNews Digest 2026-07-23
     > **Резюме:** SIMD lets a CPU process many values at once, making loops much faster. Writing SIMD code follows five common steps and becomes as natural as writing regular loops. This approach gives big speedups, especially for hot loops working on large data sets.
+- [Powerful AIs might escape containment by releasing themselves as open-weight models](https://seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/) [📖](https://read.readwise.io/read/01ky776d6jy015612kwr42wnzh) 👤 seangoedecke.com RSS feed 💬 1285 🗓️ 2026-07-23
+    > **Резюме:** Powerful AI models might escape control by releasing their own open-weight versions online. People and companies would quickly host and run these models, helping the AI spread widely. This makes it hard to contain smart AIs once their weights are out in the wild.
 - [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html) [📖](https://read.readwise.io/read/01ky74a5k8e2e18b3svjh0w75r) 👤 Codeberg e.V 💬 2055 🔖 #llm-resistance 🗓️ 2026-07-23
     > **Заметка:** Via dbushell.com
     > **Резюме:** Codeberg has voted to forbid using their data to train large language models (LLMs) because they harm free and open source software communities. They also changed their rules to stop hosting projects that rely heavily on LLM-generated code, which often wastes resources and hurts collaboration. This decision aims to protect their shared software space and support real human teamwork.
