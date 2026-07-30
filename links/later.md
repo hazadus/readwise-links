@@ -1,9 +1,14 @@
 # Отложенные ссылки
 
-- Всего ссылок: 91
+- Всего ссылок: 93
 
 ## Ссылки
 
+- [git rebase -i is not that scary](https://cachebag.sh/journal/interactive-rebasing/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kypqwx5y56b522q20fgy1b6h) 👤 cachebag.sh 💬 1014 🔖 #git 🗓️ 2026-07-29
+    > **Заметка:** Via TLDR Newsletter
+    > **Резюме:** Git rebase -i lets you rewrite commits by editing a simple text list of instructions. It is safe because you can always abort or undo changes using git reflog or backups. Learning it helps keep your project history clean and makes you a better developer.
+- [You don't have to be smart if you can think clearly](https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/) [📖](https://read.readwise.io/read/01kynt49z2tmx9h3phxtx6f7d9) 👤 seangoedecke.com RSS feed 💬 647 🗓️ 2026-07-29
+    > **Резюме:** Being a strong engineer means thinking clearly and methodically, not just being fast or smart. Smart engineers may struggle when a problem doesn’t have an immediate solution. Clear, slow thinking helps solve tough problems by focusing on what is definitely true.
 - [Writing by Hand is Good for your Brain - Here's how to do it](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) [📖](https://read.readwise.io/read/01kyg55vymyg3w3agfr4ks5rk6) 👤 Neal Stephenson 💬 2464 🔖 #writing 🗓️ 2026-07-26
     > **Заметка:** Via Pluralistic (Cory Doctorow's blog). Если сам Нил Стивенсон даёт советы, как писать ручкой – кто я такой, чтобы к ним не прислушаться! :)
     > **Резюме:** Writing by hand, especially with a fountain pen, is good for your brain and feels less tiring than other tools. The right pen and paper combination is important to avoid smudging and make writing smooth. You don’t need fancy pens; simple ones like gel pens work well and help you enjoy writing more.

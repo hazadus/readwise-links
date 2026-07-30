@@ -1,9 +1,20 @@
 # Ссылки
 
-- Всего ссылок: 156
+- Всего ссылок: 157
 
 ## Ссылки
 
+- [Being Linux Torvalds](http://antirez.com/news/171) [📖](https://read.readwise.io/read/01kycg96kdekct59tw2qfg4baq) 👤 <antirez> 💬 1769 🔖 #llm-devimpact 🗓️ 2026-07-25
+    > **Заметка:** Не берусь судить, но параллель с ролью Линуса точно любопытная.
+    > **Резюме:** (This blog post was adapted from the transcription obtained from my YouTube video at https://www.youtube.com/watch?v=l6lxgYeVZqs)
+
+When Linus Torvalds developed the first Linux kernel, he had studied the Minix sources, he had studied computer architecture, he had the base knowledge needed, and he was obviously a very brilliant programmer. But that operation of writing a minimal yet working Unix kernel for the 386 (at the beginning Linux was, let's say, mono-architecture) was something within the reach of many other programmers and students. Many in the sense of, I don't know, 0.1%, one in a thousand, one in ten thousand. Obviously most people are not able to do this kind of feat, but a lot of people are. If you look at Hacker News in the latest years, you'll see how many projects of kernels written in C, microkernels implemented from scratch, kernels written in Rust, kernels made in all sauces and manners, small Unix systems created vertically for the Raspberry Pi, operating systems for the ESP32 and so forth. Writing a kernel is not something within everybody's reach, but it is something that many can complete, if they put enough effort into it. Then, of course, not everybody will do it well. He is a genius programmer, without any doubt, so he did it better.
+
+And yet, of Linus there is only one. This implementative capacity of his, in fact, would not tell us much about him: what we should focus on, instead, is what happened later.
+
+## He stopped writing code
+
+Among the maintainers of the famous open source projects, he was one of the very few that, very early in the history of the development of Linux, almost completely stopped writing code in order to concentrate on the leading of the project. On being the leader, the coordinator, the single mind holding the clarity about what the goals of the project must be, and so on. And this is a rare thing. Many maintainers (myself included, for a long time) continue instead to implement things directly, to not delegate m...
 - [The Democratization of Software Development](https://alexop.dev/posts/the-democratization-of-software-development/) [📖](https://read.readwise.io/read/01kxtsqjpdmc8pjxkzapg85q5n) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 680 🔖 #career, #predictions, #llm-devimpact 🗓️ 2026-07-18
     > **Заметка:** Такой пост бездушный, в целом ни о чём. А технические посты автора отличные! Оставил как пример мировоззрения в моменте. Через год-два интересно будет перечитать :)
     > **Резюме:** Software development is changing as AI agents take over coding tasks. Teams become generalists who manage whole projects from idea to product. Developers must focus on understanding customers and building meaningful features, not just writing code.

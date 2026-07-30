@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 21
+- Всего ссылок: 22
 
 ## Ссылки
 
+- [git rebase -i is not that scary](https://cachebag.sh/journal/interactive-rebasing/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kypqwx5y56b522q20fgy1b6h) 👤 cachebag.sh 💬 1014 🔖 #git 🗓️ 2026-07-29
+    > **Заметка:** Via TLDR Newsletter
+    > **Резюме:** Git rebase -i lets you rewrite commits by editing a simple text list of instructions. It is safe because you can always abort or undo changes using git reflog or backups. Learning it helps keep your project history clean and makes you a better developer.
 - [The bare minimum for syncing Git repos](https://alexwlchan.net/2026/bare-git/?ref=rss) [📖](https://read.readwise.io/read/01khryrtce4a1gkq1ckw824hd7) 👤 alexwlchan.net 💬 1104 🔖 #git 🗓️ 2026-02-18
     > **Резюме:** The author syncs personal Git repos using a simple bare repository on an external drive instead of cloud services like GitHub. This method avoids extra features and keeps files safe by pushing to a bare repo accessible locally or via SSH. It’s a minimalist, private way to keep code in sync without relying on third-party hosting.
 - [How to Write Useful Commit Messages](https://refactoringenglish.com/chapters/commit-messages/) [📖](https://read.readwise.io/read/01kgrmv6g2t9ztte256z0bkzkv) 👤 refactoringenglish.com 💬 3972 🔖 #git, #docs, #writing 🗓️ 2026-02-06

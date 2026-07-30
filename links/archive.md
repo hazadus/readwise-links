@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1800
+- Всего ссылок: 1801
 
 ## Ссылки
 
+- [Being Linux Torvalds](http://antirez.com/news/171) [📖](https://read.readwise.io/read/01kycg96kdekct59tw2qfg4baq) 👤 <antirez> 💬 1769 🔖 #llm-devimpact 🗓️ 2026-07-25
+    > **Заметка:** Не берусь судить, но параллель с ролью Линуса точно любопытная.
 - [Pluralistic: AI solipsists and AI cynics (24 Jul 2026)](https://pluralistic.net/2026/07/24/supplemental-income/) [📖](https://read.readwise.io/read/01ky9tgzw0j2hk1ay0mctab2tg) 👤 Cory Doctorow 💬 2293 🔖 #llm-resistance 🗓️ 2026-07-24
 - [How to read more books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/) [📖](https://read.readwise.io/read/01kxzjxansftxnt7mzfrggmbt8) 👤 Elia Scotto (hello@scotto.me) 💬 1783 🔖 #reading 🗓️ 2026-07-20
     > **Заметка:** Via Wisereads Newsletter Vol.152
