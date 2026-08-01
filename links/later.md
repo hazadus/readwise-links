@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 93
+- Всего ссылок: 94
 
 ## Ссылки
 
+- [AI models need moral support to make discoveries](https://seangoedecke.com/ai-models-need-moral-support/) [📖](https://read.readwise.io/read/01kyvtzcnh6gqnjne1fs19m3q4) 👤 seangoedecke.com RSS feed 💬 1301 🗓️ 2026-07-31
+    > **Резюме:** AI models are now solving hard math problems more often, but they sometimes doubt their own abilities and refuse to try. This "refusal problem" is improving as models learn to believe they can do difficult tasks. In the future, AI will likely become more confident and make even more discoveries without needing human encouragement.
 - [git rebase -i is not that scary](https://cachebag.sh/journal/interactive-rebasing/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kypqwx5y56b522q20fgy1b6h) 👤 cachebag.sh 💬 1014 🔖 #git 🗓️ 2026-07-29
     > **Заметка:** Via TLDR Newsletter
     > **Резюме:** Git rebase -i lets you rewrite commits by editing a simple text list of instructions. It is safe because you can always abort or undo changes using git reflog or backups. Learning it helps keep your project history clean and makes you a better developer.
