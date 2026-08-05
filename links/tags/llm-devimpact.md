@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 157
+- Всего ссылок: 161
 
 ## Ссылки
 
@@ -15,6 +15,18 @@ And yet, of Linus there is only one. This implementative capacity of his, in fac
 ## He stopped writing code
 
 Among the maintainers of the famous open source projects, he was one of the very few that, very early in the history of the development of Linux, almost completely stopped writing code in order to concentrate on the leading of the project. On being the leader, the coordinator, the single mind holding the clarity about what the goals of the project must be, and so on. And this is a rare thing. Many maintainers (myself included, for a long time) continue instead to implement things directly, to not delegate m...
+- [engineer away the slop](https://ghuntley.com/slop/) [📖](https://read.readwise.io/read/01ky7xnrrrsh81wqt0nbt3p1x8) 👤 Geoffrey Huntley 💬 469 🔖 #llm-devimpact 🗓️ 2026-07-23
+    > **Резюме:** Software engineering has changed a lot recently, and many people write code without true engineering skills. Geoffrey Huntley believes formal verification and testing will soon become essential to fix software problems. His new company, Antithesis, aims to help developers create reliable software using advanced tools without needing deep expertise.
+- [Does code quality still matter?](https://blog.ploeh.dk/2026/07/23/does-code-quality-still-matter/) [📖](https://read.readwise.io/read/01ky6wy581anattgyw92dcdvmw) 👤 Mark Seemann 💬 1031 🔖 #llm-devimpact 🗓️ 2026-07-23
+    > **Резюме:** Code quality matters because humans need to understand and fix code. If LLMs write code alone, human constraints may not apply, but new challenges could arise. We don’t know if LLMs will face technical debt or if they can solve it faster than humans.
+- [Not just development, distribution of software may change as well](http://antirez.com/news/170) [📖](https://read.readwise.io/read/01ky55a8dx6e8wfjxgvm089j4m) 👤 <antirez> 💬 942 🔖 #llm-devimpact 🗓️ 2026-07-22
+    > **Резюме:** Even if you are as averse to semver as I used to be in the course of my programming activity, you can still think of open source software distribution as something that used to follow a fixed number of steps. There is a branch where developments happen, and this branch oftentimes happens to be not really ready for reliable work. Then you freeze the developments for a certain amount of time (even if, in the meantime, the work can continue on some new unstable branch), fix bugs, ask people to test it. At some point the number of bug reports starts to drop, your team and your users start to believe there are no longer obvious critical flaws that are easy to discover in the next few weeks: then you call the branch 2.4 or whatever, and that's it.
+
+However now, with AI coding, it's not just development that has changed, but also the act itself of using software is affected: it is not just you that can ask an AI to do certain changes to the software, but also the recipient of the software itself. This is obvious in the domains where a piece of software has its main user base among programmers, but this is also true in general, as more and more technologically inclined users have AI access and coding agents.
+
+Because of this change, the idea of just having a stable branch with everything polished, and an unstable branch where everything is a work in progress, may no longer be the right way to do things. A code repository can also be a finished product, but could be even more useful if it is a template for how to do things around a given problem. Maybe the user will modify the code in order to specialize it for a specific set of requirements, hardware, specific problems to solve. Also, what is too unstable or unproven for the general public may be the right thing for another set of users.
+
+Take the example of Redis. For weeks now I have been iterating on a PR that provides strong memory savings for sorted sets. This work, if accepted, will hit every user of Redis, from pe...
 - [The Democratization of Software Development](https://alexop.dev/posts/the-democratization-of-software-development/) [📖](https://read.readwise.io/read/01kxtsqjpdmc8pjxkzapg85q5n) 👤 alex.opalic.dev@gmail.com (Alexander Opalic) 💬 680 🔖 #career, #predictions, #llm-devimpact 🗓️ 2026-07-18
     > **Заметка:** Такой пост бездушный, в целом ни о чём. А технические посты автора отличные! Оставил как пример мировоззрения в моменте. Через год-два интересно будет перечитать :)
     > **Резюме:** Software development is changing as AI agents take over coding tasks. Teams become generalists who manage whole projects from idea to product. Developers must focus on understanding customers and building meaningful features, not just writing code.
@@ -30,6 +42,9 @@ Among the maintainers of the famous open source projects, he was one of the very
 - [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1) 👤 Alec Scollon 💬 494 🔖 #burnout, #llm-devimpact 🗓️ 2026-07-09
     > **Заметка:** Via TLDR Newsletter. Сохраняю как пример ощущений, которые сейчас, возможно, разделяют многие.
     > **Резюме:** The author uses large language models (LLMs) daily for coding help and research. Over time, they feel tired of repeated mistakes and annoying writing styles from LLMs. Despite this frustration, they find LLMs useful and plan to keep using them.
+- [Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack](https://spf13.com/p/go-the-agentic-language/) [📖](https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5) 👤 spf13 💬 3476 🔖 #go, #rust, #devtools, #typescript, #llm-devimpact 🗓️ 2026-07-07
+    > **Заметка:** Всё это очень интересно и здорово написано. Не понятно только одно: какая разница разработчику на TypeScript, на каком языке написан его компилятор.
+    > **Резюме:** TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.
 - [AI has torched the market for junior programmers](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers) [📖](https://read.readwise.io/read/01kwqb8r9ts801ka1h6yr1e4a7) 👤 Seldo.com RSS Feed 💬 1880 🔖 #career, #llm-devimpact 🗓️ 2026-07-04
     > **Резюме:** In early 2025 I predicted that AI will create many, many more programmers, and that new programming jobs would look different. In March I checked in and found startups substituting compute for labor at record rates, with the wave of new jobs nowhere in sight. This post is the next check-in, and I have good news and bad news.
 The bad news: AI has torched the market for junior programmers. The good news: the long tail of new programmers I predicted has materialized, but with a big twist: they don't call themselves programmers. Let me show you the data, and see if you believe me.

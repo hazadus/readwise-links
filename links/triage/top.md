@@ -2,7 +2,7 @@
 
 _20 статей с наивысшим interest_score_
 
-Сгенерировано: 2026-08-04 06:02 UTC · Статей: 20
+Сгенерировано: 2026-08-05 06:00 UTC · Статей: 20
 
 ## Статьи
 
@@ -10,8 +10,6 @@ _20 статей с наивысшим interest_score_
     > **Резюме:** AI generates code faster but creates more issues, making review the slowest and costliest part of development. Human reviewers must spend more time understanding AI-written code since it lacks clear reasoning. Teams should focus on using AI to handle simple checks and save human effort for critical reviews where mistakes matter most.
 - [Watching for file changes on macOS](https://alexwlchan.net/2026/watch-files-on-macos/) [📖](https://read.readwise.io/read/01krawm8vtgybxg8dnpeqcwj2j) 👤 alexwlchan 💬 4675 ⭐ 9 🔖 #macos 🗓️ 2026-05-11 · 🛠️ туториал, 🌲 вечнозелёное
     > **Резюме:** The article explains how to use macOS’s FSEvents API in Swift to watch for file changes and print the changed file paths. It shows how a Python script can read these paths from the Swift script’s output to trigger actions like rebuilding a site. This method detects file changes quickly, with just a few milliseconds delay.
-- [Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack](https://spf13.com/p/go-the-agentic-language/) [📖](https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5) 👤 spf13 💬 3476 ⭐ 9 🗓️ 2026-07-07 · 🧠 основы
-    > **Резюме:** TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.
 - [Agentic Autonomy Levels](https://addyosmani.com/blog/agentic-autonomy-levels/) [📖](https://read.readwise.io/read/01kwwn2ytv7x4axf9yptxbtpm5) 👤 Addy Osmani 💬 2824 ⭐ 9 🗓️ 2026-07-06 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Agentic autonomy levels guide how much freedom AI agents have, balancing risk and control. Lower levels need human oversight, while higher levels let agents work independently or in parallel with evidence to verify success. The best approach matches autonomy to task risk and verification, ensuring safe and effective AI use.
 - [Vibe Coding Is Dangerous, Agentic Engineering Isn't—Wes McKinney](https://www.ssp.sh/blog/how-to-use-ai-with-de-wes-mckinney/) [📖](https://read.readwise.io/read/01ktttmvkt8cp8d9mgx591w0fz) 👤 Simon Späti 💬 2700 ⭐ 9 🗓️ 2026-06-11
@@ -52,3 +50,5 @@ _20 статей с наивысшим interest_score_
 - [How to build a remarkable command palette](https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01k7z3amqe376ky08bkmjbnp3v) 👤 Tim Boucher 💬 2747 ⭐ 7 🔖 #joyandcuriosity 🗓️ 2025-10-19 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное
     > **Заметка:** https://chatgpt.com/c/69442ca9-df50-8325-a6a9-ab2121ec93ae
     > **Резюме:** A command palette is a user interface tool that allows quick access to various commands, making it easier for users to discover features. To build an effective command palette, ensure it is available everywhere, centralizes all commands, and offers flexibility in command matching. By following these principles, you can create a powerful and user-friendly command palette that enhances productivity.
+- [The (lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01kba74ynqzd6by0k16mmj92s4) 👤 @bwplotka 💬 2452 ⭐ 7 🔖 #git, #joyandcuriosity 🗓️ 2025-11-30 · 🌲 вечнозелёное
+    > **Резюме:** The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.

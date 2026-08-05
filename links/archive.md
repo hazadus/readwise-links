@@ -1,12 +1,17 @@
 # Архивные ссылки
 
-- Всего ссылок: 1801
+- Всего ссылок: 1805
 
 ## Ссылки
 
+- [Writing by Hand is Good for your Brain - Here's how to do it](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) [📖](https://read.readwise.io/read/01kyg55vymyg3w3agfr4ks5rk6) 👤 Neal Stephenson 💬 2464 🔖 #writing 🗓️ 2026-07-26
+    > **Заметка:** Via Pluralistic (Cory Doctorow's blog). Если сам Нил Стивенсон даёт советы, как писать ручкой – кто я такой, чтобы к ним не прислушаться! :)
 - [Being Linux Torvalds](http://antirez.com/news/171) [📖](https://read.readwise.io/read/01kycg96kdekct59tw2qfg4baq) 👤 <antirez> 💬 1769 🔖 #llm-devimpact 🗓️ 2026-07-25
     > **Заметка:** Не берусь судить, но параллель с ролью Линуса точно любопытная.
 - [Pluralistic: AI solipsists and AI cynics (24 Jul 2026)](https://pluralistic.net/2026/07/24/supplemental-income/) [📖](https://read.readwise.io/read/01ky9tgzw0j2hk1ay0mctab2tg) 👤 Cory Doctorow 💬 2293 🔖 #llm-resistance 🗓️ 2026-07-24
+- [One Tool to Read Them All](https://scotto.me/blog/2026-07-23-one-tool-to-read-them-all/) [📖](https://read.readwise.io/read/01ky82rfde99v3d6f2xq6sqz4t) 👤 Elia Scotto 💬 1527 🔖 #reading 🗓️ 2026-07-23
+    > **Заметка:** Для себя я пока закрыл эти задачи при помощи Readwise Reader + reader presona + HN / Social digests.
+- [Not just development, distribution of software may change as well](http://antirez.com/news/170) [📖](https://read.readwise.io/read/01ky55a8dx6e8wfjxgvm089j4m) 👤 <antirez> 💬 942 🔖 #llm-devimpact 🗓️ 2026-07-22
 - [How to read more books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/) [📖](https://read.readwise.io/read/01kxzjxansftxnt7mzfrggmbt8) 👤 Elia Scotto (hello@scotto.me) 💬 1783 🔖 #reading 🗓️ 2026-07-20
     > **Заметка:** Via Wisereads Newsletter Vol.152
 - [What I learned selling 2500 MIDI recorders, part 1: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) [📖](https://read.readwise.io/read/01kxxtfn1dwtmajtmehn5rtddz) 👤 chipweinberger.com 💬 545 🔖 #reflections 🗓️ 2026-07-19
@@ -30,6 +35,8 @@
     > **Заметка:** В копилку мнений о том, что нужно кодить вручную, чтобы действительно понимать код и не терять навыки.
 - [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/?utm_source=tldrdev) [📖](https://read.readwise.io/read/01kx3cnkj2hwfgbz9e3thgm4h1) 👤 Alec Scollon 💬 494 🔖 #burnout, #llm-devimpact 🗓️ 2026-07-09
     > **Заметка:** Via TLDR Newsletter. Сохраняю как пример ощущений, которые сейчас, возможно, разделяют многие.
+- [Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack](https://spf13.com/p/go-the-agentic-language/) [📖](https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5) 👤 spf13 💬 3476 🔖 #go, #rust, #devtools, #typescript, #llm-devimpact 🗓️ 2026-07-07
+    > **Заметка:** Всё это очень интересно и здорово написано. Не понятно только одно: какая разница разработчику на TypeScript, на каком языке написан его компилятор.
 - [Blog about things you don't understand yet](https://seangoedecke.com/blog-about-things-you-dont-understand-yet/) [📖](https://read.readwise.io/read/01kwxp6n9pwz7gnt1yenz45tz9) 👤 seangoedecke.com RSS feed 💬 1573 🔖 #writing, #learning 🗓️ 2026-07-07
 - [The software engineering war](https://newsletter.manager.dev/p/the-software-engineering-war) [📖](https://read.readwise.io/read/01kwwgak1ba1npmcb63g8z72se) 👤 Anton Zaides 💬 1461 🔖 #llm-reality 🗓️ 2026-07-06
     > **Заметка:** Любопытная классификация на builder и keeper. Я, наверное, где-то посередине шкалы.

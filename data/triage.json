@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T06:02:15.979818+00:00",
+  "generated_at": "2026-08-05T06:00:16.875696+00:00",
   "interests_hash": "af430080c695c2daeda610687b3e9c01",
   "collections": {
     "top": [
@@ -50,28 +50,6 @@
           "is_tutorial": true,
           "is_foundational": false,
           "is_evergreen": true,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kwz5gtz0j1ey348z8y17bfq5",
-        "url": "https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5",
-        "source_url": "https://spf13.com/p/go-the-agentic-language/",
-        "title": "Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack",
-        "author": "spf13",
-        "image_url": "https://spf13.com/p/go-the-agentic-language/hero-gopher-gouache-clean-original.jpg",
-        "word_count": 3476,
-        "summary": "TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-07-07T20:50:07.016000+00:00",
-        "last_moved_at": "2026-07-10T10:34:07.007000+00:00",
-        "published_date": "2026-07-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": false,
           "interest_score": 9
         }
       },
@@ -547,6 +525,39 @@
         "triage": {
           "is_tutorial": true,
           "is_foundational": true,
+          "is_evergreen": true,
+          "interest_score": 7
+        }
+      },
+      {
+        "id": "01kba74ynqzd6by0k16mmj92s4",
+        "url": "https://read.readwise.io/read/01kba74ynqzd6by0k16mmj92s4",
+        "source_url": "https://www.bwplotka.dev/2025/lazygit/?utm_source=substack&utm_medium=email",
+        "title": "The (lazy) Git UI You Didn't Know You Need",
+        "author": "@bwplotka",
+        "image_url": "https://bwplotka.dev/2025/lazygit/lazygit-discoverability.png",
+        "word_count": 2452,
+        "summary": "The author switched from their usual IDE to lazygit and now uses it for all Git workflows because it is fast, safe, and easy to learn. lazygit keeps standard Git concepts, has a clean consistent UI, and guides common tasks like rebases and stashing interactively. It boosts productivity without inventing new workflows and is open source.",
+        "notes": "",
+        "tags": {
+          "git": {
+            "name": "git",
+            "type": "manual",
+            "created": 1764500875063
+          },
+          "joyandcuriosity": {
+            "name": "JoyAndCuriosity",
+            "type": "manual",
+            "created": 1764500875063
+          }
+        },
+        "highlights": [],
+        "saved_at": "2025-11-30T11:07:43.671000+00:00",
+        "last_moved_at": "2025-12-01T05:41:24.712000+00:00",
+        "published_date": "2025-11-10",
+        "triage": {
+          "is_tutorial": false,
+          "is_foundational": false,
           "is_evergreen": true,
           "interest_score": 7
         }
@@ -1495,28 +1506,6 @@
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kwz5gtz0j1ey348z8y17bfq5",
-        "url": "https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5",
-        "source_url": "https://spf13.com/p/go-the-agentic-language/",
-        "title": "Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack",
-        "author": "spf13",
-        "image_url": "https://spf13.com/p/go-the-agentic-language/hero-gopher-gouache-clean-original.jpg",
-        "word_count": 3476,
-        "summary": "TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-07-07T20:50:07.016000+00:00",
-        "last_moved_at": "2026-07-10T10:34:07.007000+00:00",
-        "published_date": "2026-07-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
           "is_evergreen": false,
           "interest_score": 9
         }
@@ -3123,28 +3112,6 @@
     ],
     "fundamentals": [
       {
-        "id": "01kwz5gtz0j1ey348z8y17bfq5",
-        "url": "https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5",
-        "source_url": "https://spf13.com/p/go-the-agentic-language/",
-        "title": "Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack",
-        "author": "spf13",
-        "image_url": "https://spf13.com/p/go-the-agentic-language/hero-gopher-gouache-clean-original.jpg",
-        "word_count": 3476,
-        "summary": "TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-07-07T20:50:07.016000+00:00",
-        "last_moved_at": "2026-07-10T10:34:07.007000+00:00",
-        "published_date": "2026-07-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
         "id": "01kwwn2ytv7x4axf9yptxbtpm5",
         "url": "https://read.readwise.io/read/01kwwn2ytv7x4axf9yptxbtpm5",
         "source_url": "https://addyosmani.com/blog/agentic-autonomy-levels/",
@@ -4005,28 +3972,6 @@
         "triage": {
           "is_tutorial": false,
           "is_foundational": false,
-          "is_evergreen": false,
-          "interest_score": 9
-        }
-      },
-      {
-        "id": "01kwz5gtz0j1ey348z8y17bfq5",
-        "url": "https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5",
-        "source_url": "https://spf13.com/p/go-the-agentic-language/",
-        "title": "Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack",
-        "author": "spf13",
-        "image_url": "https://spf13.com/p/go-the-agentic-language/hero-gopher-gouache-clean-original.jpg",
-        "word_count": 3476,
-        "summary": "TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.",
-        "notes": "",
-        "tags": {},
-        "highlights": [],
-        "saved_at": "2026-07-07T20:50:07.016000+00:00",
-        "last_moved_at": "2026-07-10T10:34:07.007000+00:00",
-        "published_date": "2026-07-06",
-        "triage": {
-          "is_tutorial": false,
-          "is_foundational": true,
           "is_evergreen": false,
           "interest_score": 9
         }

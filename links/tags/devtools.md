@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 7
+- Всего ссылок: 8
 
 ## Ссылки
 
+- [Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack](https://spf13.com/p/go-the-agentic-language/) [📖](https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5) 👤 spf13 💬 3476 🔖 #go, #rust, #devtools, #typescript, #llm-devimpact 🗓️ 2026-07-07
+    > **Заметка:** Всё это очень интересно и здорово написано. Не понятно только одно: какая разница разработчику на TypeScript, на каком языке написан его компилятор.
+    > **Резюме:** TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.
 - [mprocs: start all your project's commands at once](https://www.bitecode.dev/p/mprocs-start-all-your-projects-commands) [📖](https://read.readwise.io/read/01kd4vg1rhsytp7p3p0d3frfmv) 👤 Bite Code! 💬 552 🔖 #devtools 🗓️ 2025-12-23
     > **Резюме:** mprocs is a tiny tool that starts and monitors all your project’s long-running commands from one mprocs.yaml file.  
 It launches them together, shows a simple TUI, and highlights failures so you can restart or autorestart.  

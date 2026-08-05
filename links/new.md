@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 957
+- Всего ссылок: 959
 
 ## Ссылки
 
+- [Blend modes in SwiftUI](https://nilcoalescing.com/blog/BlendModesInSwiftUI) [📖](https://read.readwise.io/read/01ky9n3v4x24cf0hedangcjyxc) 👤 Nil Coalescing 💬 3143 🔖 #swift 🗓️ 2026-07-24
+- [Building adaptive non-modal panels in SwiftUI](https://nilcoalescing.com/blog/BuildingAdaptiveNonModalPanelsInSwiftUI) [📖](https://read.readwise.io/read/01kxzc2z3h00w5hc25nwxttxxt) 👤 Nil Coalescing 💬 1377 🔖 #swift 🗓️ 2026-07-20
 - [Equatable properties in @Observable classes](https://nilcoalescing.com/blog/EquatablePropertiesInObservableClasses) [📖](https://read.readwise.io/read/01kxd4n9e0dz6y92y5sqtxz8b9) 👤 Nil Coalescing 💬 611 🔖 #swift 🗓️ 2026-07-13
 - [Rust Prevents Data Races, Not Race Conditions](https://corrode.dev/blog/rust-prevents-data-races-not-race-conditions/) [📖](https://read.readwise.io/read/01ktygb7nkpasjngp24cjjpts8) 👤 Matthias Endler 💬 2605 🔖 #rust 🗓️ 2026-06-12
 - [Компьютерное зрение на коленке: распознаем дорожные знаки и управляем роботом на ESP32 и Arduino](https://habr.com/ru/companies/bhv_publishing/articles/1044934/?__readwiseLocation=) [📖](https://read.readwise.io/read/01kttrbghnr17q50hx8jysgm65) 👤 Shish1914 💬 3030 🔖 #esp32 🗓️ 2026-06-11

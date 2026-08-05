@@ -2,12 +2,10 @@
 
 _Фундаментальные материалы с долгосрочной ценностью_
 
-Сгенерировано: 2026-08-04 06:02 UTC · Статей: 30
+Сгенерировано: 2026-08-05 06:00 UTC · Статей: 29
 
 ## Статьи
 
-- [Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack](https://spf13.com/p/go-the-agentic-language/) [📖](https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5) 👤 spf13 💬 3476 ⭐ 9 🗓️ 2026-07-07 · 🧠 основы
-    > **Резюме:** TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.
 - [Agentic Autonomy Levels](https://addyosmani.com/blog/agentic-autonomy-levels/) [📖](https://read.readwise.io/read/01kwwn2ytv7x4axf9yptxbtpm5) 👤 Addy Osmani 💬 2824 ⭐ 9 🗓️ 2026-07-06 · 🧠 основы, 🌲 вечнозелёное
     > **Резюме:** Agentic autonomy levels guide how much freedom AI agents have, balancing risk and control. Lower levels need human oversight, while higher levels let agents work independently or in parallel with evidence to verify success. The best approach matches autonomy to task risk and verification, ensuring safe and effective AI use.
 - [Gateway pattern to invoke external dependencies](http://rednafi.com/go/gateway_pattern/) [📖](https://read.readwise.io/read/01k1sv73j1ksk35k38e375h0b7) 👤 Redowan Delowar 💬 1179 ⭐ 9 🔖 #go, #patterns 🗓️ 2025-08-04 · 🛠️ туториал, 🧠 основы, 🌲 вечнозелёное

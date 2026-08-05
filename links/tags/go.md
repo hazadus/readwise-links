@@ -1,11 +1,14 @@
 # Ссылки
 
-- Всего ссылок: 269
+- Всего ссылок: 270
 
 ## Ссылки
 
 - [Цена одновременности: треды, ядра и переключение контекста](https://golang.guide/concurrency-price/) [📖](https://read.readwise.io/read/01kycwtggwvednvdwvxs2grbad) 👤 GoLang Guides 💬 2343 🔖 #go 🗓️ 2026-07-25
     > **Резюме:** Статья объясняет, как работают параллельность и конкурентность в компьютерах и языке Go. В Go используются горутины, которые более лёгкие и эффективные, чем обычные треды. Создавать много тредов дорого, поэтому важно минимизировать их число для лучшей производительности.
+- [Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack](https://spf13.com/p/go-the-agentic-language/) [📖](https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5) 👤 spf13 💬 3476 🔖 #go, #rust, #devtools, #typescript, #llm-devimpact 🗓️ 2026-07-07
+    > **Заметка:** Всё это очень интересно и здорово написано. Не понятно только одно: какая разница разработчику на TypeScript, на каком языке написан его компилятор.
+    > **Резюме:** TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.
 - [Prioritizing Recent Messages with Go Channels](https://blainsmith.com/articles/prioritizing-recent-messages-with-go-channels/) [📖](https://read.readwise.io/read/01kw0mpcv5fqbvrh185pzbb799) 👤 Unknown 💬 1343 🔖 #go 🗓️ 2026-06-26
     > **Резюме:** Go channels block by default, which can cause slow consumers to process outdated data while producers wait. Two patterns—non-blocking send with select/default and drain-before-send—help prioritize the latest message over older ones. These patterns suit systems where recent data matters more than processing every value in order.
 - [RFC 10008: The HTTP QUERY Method](https://blainsmith.com/articles/rfc-10008-http-query-method/) [📖](https://read.readwise.io/read/01kvbq0ck6h3f4hammnkvqm6dj) 👤 Unknown 💬 404 🔖 #go, #http, #rust 🗓️ 2026-06-17

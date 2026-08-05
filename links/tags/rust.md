@@ -1,13 +1,18 @@
 # Ссылки
 
-- Всего ссылок: 34
+- Всего ссылок: 36
 
 ## Ссылки
 
+- [Hardening Rust Code For Production](https://corrode.dev/blog/hardening-rust/) [📖](https://read.readwise.io/read/01ky2t0ygmr9atm58kgmfmkmsy) 👤 Matthias Endler 💬 3871 🔖 #rust 🗓️ 2026-07-21
+    > **Резюме:** Rust programs can fail unexpectedly at runtime, so it is important to handle panics and errors carefully. Panic hooks help log and manage failures before the program stops, but they should not be relied on for recovery. Using tools and defensive coding practices strengthens Rust code to run safely and reliably in production.
 - [When Rust Gets Ugly](https://corrode.dev/blog/ugly/) [📖](https://read.readwise.io/read/01kxrk96cq6hm10yree4srb9nx) 👤 Matthias Endler 💬 3726 🔖 #rust 🗓️ 2026-07-17
     > **Резюме:** Many people find Rust code ugly because they write it like other languages. Rust wants you to use its own style, focusing on clear structure and explicit error handling. When you change your habits and use Rust’s features, your code becomes cleaner and easier to read.
 - [The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/) [📖](https://read.readwise.io/read/01kxp06edmjxctmfzq3hx1xs8g) 👤 Ivan Klaric 💬 2163 🔖 #bun, #rust 🗓️ 2026-07-16
     > **Резюме:** Jarred Sumner used AI to quickly rewrite Bun from Zig to Rust, fixing many memory bugs. The AI agents rewrote over 500,000 lines of code in just 11 days, a task that would take humans about a year. This shows AI can make large software rewrites faster and more practical than before.
+- [Why TypeScript 7.0 Was Rewritten in Go — And What It Means for Your Dev Stack](https://spf13.com/p/go-the-agentic-language/) [📖](https://read.readwise.io/read/01kwz5gtz0j1ey348z8y17bfq5) 👤 spf13 💬 3476 🔖 #go, #rust, #devtools, #typescript, #llm-devimpact 🗓️ 2026-07-07
+    > **Заметка:** Всё это очень интересно и здорово написано. Не понятно только одно: какая разница разработчику на TypeScript, на каком языке написан его компилятор.
+    > **Резюме:** TypeScript 7.0 was rewritten in Go to make builds much faster and code easier to maintain. Go’s simplicity, fast compile times, and strong typing help catch errors early and support long-running, complex systems. For AI-driven development, Go is the best choice for building reliable infrastructure, while Python and Rust serve other important roles.
 - [Tracing HTTP Requests with Rust](https://blainsmith.com/articles/tracing-http-requests-with-rust/) [📖](https://read.readwise.io/read/01kwm62v3vkwd2f5y0mscd3c63) 👤 Unknown 💬 1306 🔖 #http, #rust 🗓️ 2026-07-03
     > **Резюме:** Recently, I wrote about using Go's net/http/httptrace to get the per-phase timing breakdown for HTTP requests - DNS, TCP, TLS, and server processing. After writing about that package, I wanted to know what the same breakdown costs in Rust: whether the ecosystem has an equivalent, and what building one reveals about how the two languages approach instrumentation.
 The short answer is there's no equivalent. reqwest doesn't expose per-phase timestamps. hyper's client is a Tower Service, not a single blessed HTTP client with hook points. Getting DNS/TCP/TLS granularity means working at the connector level directly. So I built httptrace, a small crate that does for Rust what net/http/httptrace does for Go, and this is a walkthrough of what building it involved.

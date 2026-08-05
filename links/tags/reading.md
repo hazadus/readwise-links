@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 13
+- Всего ссылок: 14
 
 ## Ссылки
 
+- [One Tool to Read Them All](https://scotto.me/blog/2026-07-23-one-tool-to-read-them-all/) [📖](https://read.readwise.io/read/01ky82rfde99v3d6f2xq6sqz4t) 👤 Elia Scotto 💬 1527 🔖 #reading 🗓️ 2026-07-23
+    > **Заметка:** Для себя я пока закрыл эти задачи при помощи Readwise Reader + reader presona + HN / Social digests.
+    > **Резюме:** The author wants a better way to read and discover online articles that treats old and new content as equally important. Current tools either focus on new content, use algorithms we can't control, or scatter reading across many apps. They suggest improving web browsers to combine reading, following, and discovery in one simple place without losing the original websites.
 - [How to read more books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/) [📖](https://read.readwise.io/read/01kxzjxansftxnt7mzfrggmbt8) 👤 Elia Scotto (hello@scotto.me) 💬 1783 🔖 #reading 🗓️ 2026-07-20
     > **Заметка:** Via Wisereads Newsletter Vol.152
     > **Резюме:** Read whenever you have idle moments and replace phone time with books. Carry a book or e-reader, read multiple titles, and don’t be afraid to quit ones you don’t like. Set gentle goals, take notes or write reviews, and prefer slow steady reading over hacks like speed summaries or audiobooks.
