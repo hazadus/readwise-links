@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 106
+- Всего ссылок: 107
 
 ## Ссылки
 
+- [Ощущенцы и вибрации](https://muzlifemagazine.ru/oshhushhency-i-vibracii/) [📖](https://read.readwise.io/read/01kzgjqa1fw37b8jk6nv27mqcs) 👤 Критико-публицистический журнал «Музыкальная жизнь» 💬 1283 🗓️ 2026-08-08
+    > **Резюме:** Most people listen to music to change their mood or as background, not to analyze it deeply. Only a small group enjoys music's structure because thinking about it can reduce pleasure. Musicians often overestimate how much listeners understand or appreciate their art.
 - [Low-Level Graphics in C – Pixel Manipulation and Frame Buffers](https://www.youtube.com/watch?v=wDWKUvTKCaw) [📖](https://read.readwise.io/read/01kz3r6kvqbp5nqe0jhzsy4phj) 👤 freeCodeCamp.org 🗓️ 2026-08-03
     > **Резюме:** This course teaches how to control pixels directly using C and the SDL3 library. You learn to create a frame buffer, an array that stores pixel colors for a 320x200 window. The program updates this array to display graphics on the screen using the CPU, without relying on a GPU.
 - [Giving and taking credit in big tech companies](https://seangoedecke.com/giving-and-taking-credit/) [📖](https://read.readwise.io/read/01kz13m1204wbk9crw9e9m6xjw) 👤 seangoedecke.com RSS feed 💬 1543 🗓️ 2026-08-02
