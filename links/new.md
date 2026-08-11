@@ -1,9 +1,11 @@
 # Новые ссылки
 
-- Всего ссылок: 959
+- Всего ссылок: 961
 
 ## Ссылки
 
+- [Alignment guides in SwiftUI](https://nilcoalescing.com/blog/AlignmentGuidesInSwiftUI) [📖](https://read.readwise.io/read/01kz8zg5m03jfxsdb4gt4se4va) 👤 Nil Coalescing 💬 1172 🗓️ 2026-08-05
+- [Tracking value sources to prevent recursive SwiftUI updates](https://nilcoalescing.com/blog/TrackingValueSourcesToPreventRecursiveSwiftUIUpdates) [📖](https://read.readwise.io/read/01kz6455etma7hs3ybpc2cg4jm) 👤 Nil Coalescing 💬 410 🗓️ 2026-08-04
 - [Blend modes in SwiftUI](https://nilcoalescing.com/blog/BlendModesInSwiftUI) [📖](https://read.readwise.io/read/01ky9n3v4x24cf0hedangcjyxc) 👤 Nil Coalescing 💬 3143 🔖 #swift 🗓️ 2026-07-24
 - [Building adaptive non-modal panels in SwiftUI](https://nilcoalescing.com/blog/BuildingAdaptiveNonModalPanelsInSwiftUI) [📖](https://read.readwise.io/read/01kxzc2z3h00w5hc25nwxttxxt) 👤 Nil Coalescing 💬 1377 🔖 #swift 🗓️ 2026-07-20
 - [Equatable properties in @Observable classes](https://nilcoalescing.com/blog/EquatablePropertiesInObservableClasses) [📖](https://read.readwise.io/read/01kxd4n9e0dz6y92y5sqtxz8b9) 👤 Nil Coalescing 💬 611 🔖 #swift 🗓️ 2026-07-13

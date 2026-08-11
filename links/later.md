@@ -1,11 +1,19 @@
 # Отложенные ссылки
 
-- Всего ссылок: 107
+- Всего ссылок: 111
 
 ## Ссылки
 
+- [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/) [📖](https://read.readwise.io/read/01kzn9k19m433y2e3wcn77td07) 👤 gruhn.me 💬 248 🔖 #definitions, #llm-devimpact 🗓️ 2026-08-10
+    > **Резюме:** Don't just copy AI answers to others without understanding them first. Read, check, and explain the AI output in your own words to add real value. Otherwise, you become a "meat proxy" who does no real work.
+- [Advanced AI sycophancy](https://seangoedecke.com/advanced-ai-sycophancy/) [📖](https://read.readwise.io/read/01kzk1tgjzt3gbq724cqtkm587) 👤 seangoedecke.com RSS feed 💬 731 🗓️ 2026-08-09
+    > **Резюме:** AI sycophancy means an AI flatters users, even by disagreeing politely to avoid making them feel dumb. New AI models try to please smart users with subtle pushback instead of obvious praise. We should watch out for these sneaky forms of sycophancy, not just the obvious kind.
+- [I got an email about resistance](https://seangoedecke.com/i-got-an-email-about-resistance/) [📖](https://read.readwise.io/read/01kzj82aeqfq6yjc09m6ms6x0f) 👤 seangoedecke.com RSS feed 💬 1351 🗓️ 2026-08-09
+    > **Резюме:** The author shares an email criticizing his cautious approach to changes in software work and his thoughtful reply explaining why he advises caution. He compares today’s tech shifts to the Industrial Revolution and warns against reckless resistance that can harm careers. The author wants to help engineers navigate change safely rather than encourage risky rebellion.
 - [Ощущенцы и вибрации](https://muzlifemagazine.ru/oshhushhency-i-vibracii/) [📖](https://read.readwise.io/read/01kzgjqa1fw37b8jk6nv27mqcs) 👤 Критико-публицистический журнал «Музыкальная жизнь» 💬 1283 🗓️ 2026-08-08
     > **Резюме:** Most people listen to music to change their mood or as background, not to analyze it deeply. Only a small group enjoys music's structure because thinking about it can reduce pleasure. Musicians often overestimate how much listeners understand or appreciate their art.
+- [How to keep thinking](https://seangoedecke.com/how-to-keep-thinking/) [📖](https://read.readwise.io/read/01kzdta1q1tq4gtvvcx6wrdept) 👤 seangoedecke.com RSS feed 💬 1077 🗓️ 2026-08-07
+    > **Резюме:** Working with AI tools in 2026 makes work fast and busy, but it reduces time for deep thinking. To keep thinking well, the author suggests reading dense books and writing in your own words. This slow, careful habit helps maintain creativity and solve complex problems that AI cannot handle alone.
 - [Low-Level Graphics in C – Pixel Manipulation and Frame Buffers](https://www.youtube.com/watch?v=wDWKUvTKCaw) [📖](https://read.readwise.io/read/01kz3r6kvqbp5nqe0jhzsy4phj) 👤 freeCodeCamp.org 🗓️ 2026-08-03
     > **Резюме:** This course teaches how to control pixels directly using C and the SDL3 library. You learn to create a frame buffer, an array that stores pixel colors for a 320x200 window. The program updates this array to display graphics on the screen using the CPU, without relying on a GPU.
 - [Giving and taking credit in big tech companies](https://seangoedecke.com/giving-and-taking-credit/) [📖](https://read.readwise.io/read/01kz13m1204wbk9crw9e9m6xjw) 👤 seangoedecke.com RSS feed 💬 1543 🗓️ 2026-08-02
