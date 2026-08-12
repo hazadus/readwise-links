@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 111
+- Всего ссылок: 112
 
 ## Ссылки
 
+- [No, local models will not win](https://seangoedecke.com/local-models-will-not-win/) [📖](https://read.readwise.io/read/01kzq0gjzz0zg51vq59cmmx9fy) 👤 seangoedecke.com RSS feed 💬 1310 🗓️ 2026-08-10
+    > **Резюме:** Local AI models are weaker, more expensive, and less efficient than datacenter models. People prefer using the strongest AI available, which is usually in datacenters. Local models may serve niche uses but will not replace datacenters for most AI tasks.
 - [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/) [📖](https://read.readwise.io/read/01kzn9k19m433y2e3wcn77td07) 👤 gruhn.me 💬 248 🔖 #definitions, #llm-devimpact 🗓️ 2026-08-10
     > **Резюме:** Don't just copy AI answers to others without understanding them first. Read, check, and explain the AI output in your own words to add real value. Otherwise, you become a "meat proxy" who does no real work.
 - [Advanced AI sycophancy](https://seangoedecke.com/advanced-ai-sycophancy/) [📖](https://read.readwise.io/read/01kzk1tgjzt3gbq724cqtkm587) 👤 seangoedecke.com RSS feed 💬 731 🗓️ 2026-08-09
