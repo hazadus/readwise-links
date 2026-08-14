@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 961
+- Всего ссылок: 962
 
 ## Ссылки
 
+- [Creating multi-step animations with PhaseAnimator in SwiftUI](https://nilcoalescing.com/blog/PhaseAnimationsInSwiftUI) [📖](https://read.readwise.io/read/01kzwtyjv03fnxvegnnth3ncz8) 👤 Nil Coalescing 💬 1643 🗓️ 2026-08-13
 - [Alignment guides in SwiftUI](https://nilcoalescing.com/blog/AlignmentGuidesInSwiftUI) [📖](https://read.readwise.io/read/01kz8zg5m03jfxsdb4gt4se4va) 👤 Nil Coalescing 💬 1172 🗓️ 2026-08-05
 - [Tracking value sources to prevent recursive SwiftUI updates](https://nilcoalescing.com/blog/TrackingValueSourcesToPreventRecursiveSwiftUIUpdates) [📖](https://read.readwise.io/read/01kz6455etma7hs3ybpc2cg4jm) 👤 Nil Coalescing 💬 410 🗓️ 2026-08-04
 - [Blend modes in SwiftUI](https://nilcoalescing.com/blog/BlendModesInSwiftUI) [📖](https://read.readwise.io/read/01ky9n3v4x24cf0hedangcjyxc) 👤 Nil Coalescing 💬 3143 🔖 #swift 🗓️ 2026-07-24

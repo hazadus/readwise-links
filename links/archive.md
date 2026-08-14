@@ -1,9 +1,11 @@
 # Архивные ссылки
 
-- Всего ссылок: 1805
+- Всего ссылок: 1806
 
 ## Ссылки
 
+- [Why use ORMs if LLMs write code?](https://blog.ploeh.dk/2026/08/13/why-use-orms-if-llms-write-code/) [📖](https://read.readwise.io/read/01kzx00jpg01gapxfksrx78kas) 👤 Mark Seemann 💬 249 🔖 #db, #sql, #llm-devimpact 🗓️ 2026-08-13
+    > **Заметка:** Соглашусь с автором. Нынче становится всё проще обходиться без ORM. 
 - [Writing by Hand is Good for your Brain - Here's how to do it](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) [📖](https://read.readwise.io/read/01kyg55vymyg3w3agfr4ks5rk6) 👤 Neal Stephenson 💬 2464 🔖 #writing 🗓️ 2026-07-26
     > **Заметка:** Via Pluralistic (Cory Doctorow's blog). Если сам Нил Стивенсон даёт советы, как писать ручкой – кто я такой, чтобы к ним не прислушаться! :)
 - [Being Linux Torvalds](http://antirez.com/news/171) [📖](https://read.readwise.io/read/01kycg96kdekct59tw2qfg4baq) 👤 <antirez> 💬 1769 🔖 #llm-devimpact 🗓️ 2026-07-25

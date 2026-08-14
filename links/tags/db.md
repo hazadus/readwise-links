@@ -1,9 +1,47 @@
 # Ссылки
 
-- Всего ссылок: 19
+- Всего ссылок: 20
 
 ## Ссылки
 
+- [Why use ORMs if LLMs write code?](https://blog.ploeh.dk/2026/08/13/why-use-orms-if-llms-write-code/) [📖](https://read.readwise.io/read/01kzx00jpg01gapxfksrx78kas) 👤 Mark Seemann 💬 249 🔖 #db, #sql, #llm-devimpact 🗓️ 2026-08-13
+    > **Заметка:** Соглашусь с автором. Нынче становится всё проще обходиться без ORM. 
+    > **Резюме:** 
+
+The return of SQL?
+
+
+        It's no secret that I'm no fan of ORMs. Most people, on the other hand, find them indispensable. As one reader commented:
+    
+
+
+            "I can work with raw SQL ofcourse... but the mapping... oh the mapping..."
+        
+qfilip
+
+
+        This seems to capture something essential. When I discuss ORMs, the most common argument in favour seems to revolve around the amount of boilerplate code required to communicate with a relational database. And indeed, it's significant.
+    
+
+        As I've argued, however, I'm not convinced that ORMs solve that problem.
+    
+
+        But now that LLMs write code, does it even matter?
+    
+
+        In addition to my individual reservations, it strikes me that ORMs come with many issues related to query efficiency. The vibe I'm getting from ORM experts is that if you really know a particular ORM, you can fine-tune the queries it makes. There are, however, various pitfalls to avoid: Anti-patterns to eschew, idioms to follow, particular APIs to keep clear of, certain parameter values to explicitly pass, etc.
+    
+
+        Which strikes me as ironic, because wasn't the whole promise of ORMs that you could read from and write to a relational database without getting bogged down in the details of SQL?
+    
+
+        So instead of fiddling with a temperamental and implicit ORM API, why not write fine-tuned parametrized SQL queries? Or rather, ask an LLM to do that for you, as well as all the boilerplate code.
+    
+
+        You should, of course, remind it to avoid SQL injection vulnerabilities.
+    
+
+      This blog is totally free, but if you like it, please consider supporting it.
 - [Build Your Own Database](https://www.nan.fyi/database?utm_source=substack&utm_medium=email) [📖](https://read.readwise.io/read/01k8rsskj5v9t6xkg2g7796jvh) 👤 Nanda Syahrasyad 💬 1239 🔖 #db, #diy, #joyandcuriosity 🗓️ 2025-10-29
     > **Резюме:** The post explains how to build a simple key-value database and shows why naive append-and-update files are inefficient. It introduces indexes, sorted on-disk segments (SSTs), and compaction to fix size and search issues. Combining an in-memory memtable with on-disk SSTs yields an LSM tree used in systems like LevelDB and DynamoDB.
 - [You should add debug views to your DB](https://chrispenner.ca/posts/views-for-debugging?utm_source=tldrwebdev) [📖](https://read.readwise.io/read/01k3dw1jc9hce9knwm4vq30qsd) 👤 Chris Penner 💬 728 🔖 #db, #sql 🗓️ 2025-08-24

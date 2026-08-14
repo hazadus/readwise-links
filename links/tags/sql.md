@@ -1,9 +1,47 @@
 # Ссылки
 
-- Всего ссылок: 6
+- Всего ссылок: 7
 
 ## Ссылки
 
+- [Why use ORMs if LLMs write code?](https://blog.ploeh.dk/2026/08/13/why-use-orms-if-llms-write-code/) [📖](https://read.readwise.io/read/01kzx00jpg01gapxfksrx78kas) 👤 Mark Seemann 💬 249 🔖 #db, #sql, #llm-devimpact 🗓️ 2026-08-13
+    > **Заметка:** Соглашусь с автором. Нынче становится всё проще обходиться без ORM. 
+    > **Резюме:** 
+
+The return of SQL?
+
+
+        It's no secret that I'm no fan of ORMs. Most people, on the other hand, find them indispensable. As one reader commented:
+    
+
+
+            "I can work with raw SQL ofcourse... but the mapping... oh the mapping..."
+        
+qfilip
+
+
+        This seems to capture something essential. When I discuss ORMs, the most common argument in favour seems to revolve around the amount of boilerplate code required to communicate with a relational database. And indeed, it's significant.
+    
+
+        As I've argued, however, I'm not convinced that ORMs solve that problem.
+    
+
+        But now that LLMs write code, does it even matter?
+    
+
+        In addition to my individual reservations, it strikes me that ORMs come with many issues related to query efficiency. The vibe I'm getting from ORM experts is that if you really know a particular ORM, you can fine-tune the queries it makes. There are, however, various pitfalls to avoid: Anti-patterns to eschew, idioms to follow, particular APIs to keep clear of, certain parameter values to explicitly pass, etc.
+    
+
+        Which strikes me as ironic, because wasn't the whole promise of ORMs that you could read from and write to a relational database without getting bogged down in the details of SQL?
+    
+
+        So instead of fiddling with a temperamental and implicit ORM API, why not write fine-tuned parametrized SQL queries? Or rather, ask an LLM to do that for you, as well as all the boilerplate code.
+    
+
+        You should, of course, remind it to avoid SQL injection vulnerabilities.
+    
+
+      This blog is totally free, but if you like it, please consider supporting it.
 - [You should add debug views to your DB](https://chrispenner.ca/posts/views-for-debugging?utm_source=tldrwebdev) [📖](https://read.readwise.io/read/01k3dw1jc9hce9knwm4vq30qsd) 👤 Chris Penner 💬 728 🔖 #db, #sql 🗓️ 2025-08-24
     > **Резюме:** Debugging often means repeating complex joins and getting ID-heavy rows. Add a debug view that pre-joins tables and exposes readable fields like project and branch names. Views save time, are easy to change, and work well for one-off queries despite minor index tradeoffs.
 - [Оптимизация Запросов В Postgresql](https://readwise.io/reader/document_raw_content/33757448) [📖](https://read.readwise.io/read/01jy11ac8jpd6fyyyydq45vjw9) 👤 Домбровская Г, Новиков Б, Бейликова А 💬 61368 🔖 #sql, #book, #postgresql 🗓️ 2025-06-18
