@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 60
+- Всего ссылок: 61
 
 ## Ссылки
 
+- [“Code was never the hard part” is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers) [📖](https://read.readwise.io/read/01m07njng4ttm81k4r09fdnx8z) 👤 Senko Rašić 💬 1468 🔖 #inspiration, #llm-devimpact, #softwarecraft 🗓️ 2026-08-17
+    > **Заметка:** Полностью согласен с автором! Удивительно, что подобный пост первый. Аргумент coding never was the hard part наитупейший, подхвачен диванными ИИ-питон-«разработчиками», которые сами не написали ни строчки кода, но внезапно стали гуру. 
+    > **Резюме:** Coding is hard and requires skill, experience, and care, so saying "code was never the hard part" disrespects programmers. Understanding users and deciding what to build are important, but writing good code is equally valuable. To thrive, programmers must adapt to change, learn broadly, and keep their judgment and empathy sharp.
 - [Control the ideas, not the code](http://antirez.com/news/169) [📖](https://read.readwise.io/read/01kxdmfb7px8j2f45t8t15mjm1) 👤 <antirez> 💬 1245 🔖 #llm-reality, #llm-devimpact, #softwarecraft 🗓️ 2026-07-13
     > **Заметка:** Важный взгляд со стороны опытнейшего профессионала.
     > **Резюме:** Programming is changing because AI can write a lot of code, making it hard to review every line. Instead of focusing on code, developers should control and understand the ideas behind the software. This shift allows more time for quality, testing, and better design in a fast-changing world.

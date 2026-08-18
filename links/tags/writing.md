@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 37
+- Всего ссылок: 38
 
 ## Ссылки
 
+- [How to keep thinking](https://seangoedecke.com/how-to-keep-thinking/) [📖](https://read.readwise.io/read/01kzdta1q1tq4gtvvcx6wrdept) 👤 seangoedecke.com RSS feed 💬 1077 🔖 #reading, #writing, #llm-devimpact 🗓️ 2026-08-07
+    > **Заметка:** Совет хороший, не спорю. Только с чтением пока куда как лучше идёт, чем с написанием отчетов. 
+    > **Резюме:** Working with AI tools in 2026 makes work fast and busy, but it reduces time for deep thinking. To keep thinking well, the author suggests reading dense books and writing in your own words. This slow, careful habit helps maintain creativity and solve complex problems that AI cannot handle alone.
 - [Writing by Hand is Good for your Brain - Here's how to do it](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) [📖](https://read.readwise.io/read/01kyg55vymyg3w3agfr4ks5rk6) 👤 Neal Stephenson 💬 2464 🔖 #writing 🗓️ 2026-07-26
     > **Заметка:** Via Pluralistic (Cory Doctorow's blog). Если сам Нил Стивенсон даёт советы, как писать ручкой – кто я такой, чтобы к ним не прислушаться! :)
     > **Резюме:** Writing by hand, especially with a fountain pen, is good for your brain and feels less tiring than other tools. The right pen and paper combination is important to avoid smudging and make writing smooth. You don’t need fancy pens; simple ones like gel pens work well and help you enjoy writing more.

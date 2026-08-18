@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 163
+- Всего ссылок: 166
 
 ## Ссылки
 
+- [“Code was never the hard part” is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers) [📖](https://read.readwise.io/read/01m07njng4ttm81k4r09fdnx8z) 👤 Senko Rašić 💬 1468 🔖 #inspiration, #llm-devimpact, #softwarecraft 🗓️ 2026-08-17
+    > **Заметка:** Полностью согласен с автором! Удивительно, что подобный пост первый. Аргумент coding never was the hard part наитупейший, подхвачен диванными ИИ-питон-«разработчиками», которые сами не написали ни строчки кода, но внезапно стали гуру. 
+    > **Резюме:** Coding is hard and requires skill, experience, and care, so saying "code was never the hard part" disrespects programmers. Understanding users and deciding what to build are important, but writing good code is equally valuable. To thrive, programmers must adapt to change, learn broadly, and keep their judgment and empathy sharp.
 - [Why use ORMs if LLMs write code?](https://blog.ploeh.dk/2026/08/13/why-use-orms-if-llms-write-code/) [📖](https://read.readwise.io/read/01kzx00jpg01gapxfksrx78kas) 👤 Mark Seemann 💬 249 🔖 #db, #sql, #llm-devimpact 🗓️ 2026-08-13
     > **Заметка:** Соглашусь с автором. Нынче становится всё проще обходиться без ORM. 
     > **Резюме:** 
@@ -43,7 +46,13 @@ qfilip
 
       This blog is totally free, but if you like it, please consider supporting it.
 - [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/) [📖](https://read.readwise.io/read/01kzn9k19m433y2e3wcn77td07) 👤 gruhn.me 💬 248 🔖 #definitions, #llm-devimpact 🗓️ 2026-08-10
+    > **Заметка:** Чувак придумал новое определение. Пост стал цитируемым. Пишет по делу, поддерживаю. 
     > **Резюме:** Don't just copy AI answers to others without understanding them first. Read, check, and explain the AI output in your own words to add real value. Otherwise, you become a "meat proxy" who does no real work.
+- [I got an email about resistance](https://seangoedecke.com/i-got-an-email-about-resistance/) [📖](https://read.readwise.io/read/01kzj82aeqfq6yjc09m6ms6x0f) 👤 seangoedecke.com RSS feed 💬 1351 🔖 #llm-reality, #llm-devimpact, #llm-resistance 🗓️ 2026-08-09
+    > **Резюме:** The author shares an email criticizing his cautious approach to changes in software work and his thoughtful reply explaining why he advises caution. He compares today’s tech shifts to the Industrial Revolution and warns against reckless resistance that can harm careers. The author wants to help engineers navigate change safely rather than encourage risky rebellion.
+- [How to keep thinking](https://seangoedecke.com/how-to-keep-thinking/) [📖](https://read.readwise.io/read/01kzdta1q1tq4gtvvcx6wrdept) 👤 seangoedecke.com RSS feed 💬 1077 🔖 #reading, #writing, #llm-devimpact 🗓️ 2026-08-07
+    > **Заметка:** Совет хороший, не спорю. Только с чтением пока куда как лучше идёт, чем с написанием отчетов. 
+    > **Резюме:** Working with AI tools in 2026 makes work fast and busy, but it reduces time for deep thinking. To keep thinking well, the author suggests reading dense books and writing in your own words. This slow, careful habit helps maintain creativity and solve complex problems that AI cannot handle alone.
 - [Being Linux Torvalds](http://antirez.com/news/171) [📖](https://read.readwise.io/read/01kycg96kdekct59tw2qfg4baq) 👤 <antirez> 💬 1769 🔖 #llm-devimpact 🗓️ 2026-07-25
     > **Заметка:** Не берусь судить, но параллель с ролью Линуса точно любопытная.
     > **Резюме:** (This blog post was adapted from the transcription obtained from my YouTube video at https://www.youtube.com/watch?v=l6lxgYeVZqs)

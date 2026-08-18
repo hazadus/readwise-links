@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 14
+- Всего ссылок: 15
 
 ## Ссылки
 
+- [How to keep thinking](https://seangoedecke.com/how-to-keep-thinking/) [📖](https://read.readwise.io/read/01kzdta1q1tq4gtvvcx6wrdept) 👤 seangoedecke.com RSS feed 💬 1077 🔖 #reading, #writing, #llm-devimpact 🗓️ 2026-08-07
+    > **Заметка:** Совет хороший, не спорю. Только с чтением пока куда как лучше идёт, чем с написанием отчетов. 
+    > **Резюме:** Working with AI tools in 2026 makes work fast and busy, but it reduces time for deep thinking. To keep thinking well, the author suggests reading dense books and writing in your own words. This slow, careful habit helps maintain creativity and solve complex problems that AI cannot handle alone.
 - [One Tool to Read Them All](https://scotto.me/blog/2026-07-23-one-tool-to-read-them-all/) [📖](https://read.readwise.io/read/01ky82rfde99v3d6f2xq6sqz4t) 👤 Elia Scotto 💬 1527 🔖 #reading 🗓️ 2026-07-23
     > **Заметка:** Для себя я пока закрыл эти задачи при помощи Readwise Reader + reader presona + HN / Social digests.
     > **Резюме:** The author wants a better way to read and discover online articles that treats old and new content as equally important. Current tools either focus on new content, use algorithms we can't control, or scatter reading across many apps. They suggest improving web browsers to combine reading, following, and discovery in one simple place without losing the original websites.

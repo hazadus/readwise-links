@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 21
+- Всего ссылок: 22
 
 ## Ссылки
 
+- [I got an email about resistance](https://seangoedecke.com/i-got-an-email-about-resistance/) [📖](https://read.readwise.io/read/01kzj82aeqfq6yjc09m6ms6x0f) 👤 seangoedecke.com RSS feed 💬 1351 🔖 #llm-reality, #llm-devimpact, #llm-resistance 🗓️ 2026-08-09
+    > **Резюме:** The author shares an email criticizing his cautious approach to changes in software work and his thoughtful reply explaining why he advises caution. He compares today’s tech shifts to the Industrial Revolution and warns against reckless resistance that can harm careers. The author wants to help engineers navigate change safely rather than encourage risky rebellion.
 - [Control the ideas, not the code](http://antirez.com/news/169) [📖](https://read.readwise.io/read/01kxdmfb7px8j2f45t8t15mjm1) 👤 <antirez> 💬 1245 🔖 #llm-reality, #llm-devimpact, #softwarecraft 🗓️ 2026-07-13
     > **Заметка:** Важный взгляд со стороны опытнейшего профессионала.
     > **Резюме:** Programming is changing because AI can write a lot of code, making it hard to review every line. Instead of focusing on code, developers should control and understand the ideas behind the software. This shift allows more time for quality, testing, and better design in a fast-changing world.

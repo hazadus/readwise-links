@@ -1,9 +1,12 @@
 # Ссылки
 
-- Всего ссылок: 109
+- Всего ссылок: 110
 
 ## Ссылки
 
+- [“Code was never the hard part” is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers) [📖](https://read.readwise.io/read/01m07njng4ttm81k4r09fdnx8z) 👤 Senko Rašić 💬 1468 🔖 #inspiration, #llm-devimpact, #softwarecraft 🗓️ 2026-08-17
+    > **Заметка:** Полностью согласен с автором! Удивительно, что подобный пост первый. Аргумент coding never was the hard part наитупейший, подхвачен диванными ИИ-питон-«разработчиками», которые сами не написали ни строчки кода, но внезапно стали гуру. 
+    > **Резюме:** Coding is hard and requires skill, experience, and care, so saying "code was never the hard part" disrespects programmers. Understanding users and deciding what to build are important, but writing good code is equally valuable. To thrive, programmers must adapt to change, learn broadly, and keep their judgment and empathy sharp.
 - [Describing all my photos](https://alexwlchan.net/2026/describing-my-photos/) [📖](https://read.readwise.io/read/01kwsqska0h87gr18cby2cgyc2) 👤 alexwlchan 💬 1121 🔖 #macos, #inspiration 🗓️ 2026-07-05
     > **Заметка:** Пост интересен для вдохновения, какие штуки можно автоматизировать в работе со своей коллекцией фото на маке.
     > **Резюме:** When I save a photo, I write a sentence or two of descriptive context. It helps me remember what's in a photo, why I took it, and how I felt when I did.

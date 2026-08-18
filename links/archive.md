@@ -1,11 +1,18 @@
 # Архивные ссылки
 
-- Всего ссылок: 1806
+- Всего ссылок: 1810
 
 ## Ссылки
 
+- [“Code was never the hard part” is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers) [📖](https://read.readwise.io/read/01m07njng4ttm81k4r09fdnx8z) 👤 Senko Rašić 💬 1468 🔖 #inspiration, #llm-devimpact, #softwarecraft 🗓️ 2026-08-17
+    > **Заметка:** Полностью согласен с автором! Удивительно, что подобный пост первый. Аргумент coding never was the hard part наитупейший, подхвачен диванными ИИ-питон-«разработчиками», которые сами не написали ни строчки кода, но внезапно стали гуру. 
 - [Why use ORMs if LLMs write code?](https://blog.ploeh.dk/2026/08/13/why-use-orms-if-llms-write-code/) [📖](https://read.readwise.io/read/01kzx00jpg01gapxfksrx78kas) 👤 Mark Seemann 💬 249 🔖 #db, #sql, #llm-devimpact 🗓️ 2026-08-13
     > **Заметка:** Соглашусь с автором. Нынче становится всё проще обходиться без ORM. 
+- [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/) [📖](https://read.readwise.io/read/01kzn9k19m433y2e3wcn77td07) 👤 gruhn.me 💬 248 🔖 #definitions, #llm-devimpact 🗓️ 2026-08-10
+    > **Заметка:** Чувак придумал новое определение. Пост стал цитируемым. Пишет по делу, поддерживаю. 
+- [I got an email about resistance](https://seangoedecke.com/i-got-an-email-about-resistance/) [📖](https://read.readwise.io/read/01kzj82aeqfq6yjc09m6ms6x0f) 👤 seangoedecke.com RSS feed 💬 1351 🔖 #llm-reality, #llm-devimpact, #llm-resistance 🗓️ 2026-08-09
+- [How to keep thinking](https://seangoedecke.com/how-to-keep-thinking/) [📖](https://read.readwise.io/read/01kzdta1q1tq4gtvvcx6wrdept) 👤 seangoedecke.com RSS feed 💬 1077 🔖 #reading, #writing, #llm-devimpact 🗓️ 2026-08-07
+    > **Заметка:** Совет хороший, не спорю. Только с чтением пока куда как лучше идёт, чем с написанием отчетов. 
 - [Writing by Hand is Good for your Brain - Here's how to do it](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) [📖](https://read.readwise.io/read/01kyg55vymyg3w3agfr4ks5rk6) 👤 Neal Stephenson 💬 2464 🔖 #writing 🗓️ 2026-07-26
     > **Заметка:** Via Pluralistic (Cory Doctorow's blog). Если сам Нил Стивенсон даёт советы, как писать ручкой – кто я такой, чтобы к ним не прислушаться! :)
 - [Being Linux Torvalds](http://antirez.com/news/171) [📖](https://read.readwise.io/read/01kycg96kdekct59tw2qfg4baq) 👤 <antirez> 💬 1769 🔖 #llm-devimpact 🗓️ 2026-07-25
