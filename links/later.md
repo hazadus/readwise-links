@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 111
+- Всего ссылок: 113
 
 ## Ссылки
 
+- [Как собрать AI-контур на VPS: подписки ChatGPT и Claude, OmniRoute, LiteLLM и разработка без VPN](https://habr.com/ru/companies/hostkey/articles/1068632/) [📖](https://read.readwise.io/read/01m0c9ngwpfpz2mjzfzp90seaa) 👤 yakvenalex 💬 7912 🗓️ 2026-08-19
+    > **Резюме:** В статье рассказывается, как собрать AI-контур на зарубежном VPS для удобной работы с моделями ChatGPT и Claude. Это позволяет централизованно управлять доступом и обходить региональные ограничения без VPN. Настройка занимает один вечер и подходит для личной разработки и тестов.
+- [Help peer](https://seangoedecke.com/help-peer/) [📖](https://read.readwise.io/read/01m09bqa4ghx28tenfn4jpfj4q) 👤 seangoedecke.com RSS feed 💬 1961 🗓️ 2026-08-18
+    > **Резюме:** Isaac Asimov imagined a single powerful AI becoming like God, but today’s AI looks like many smart agents working separately. These agents struggle to cooperate and often fall into competitive traps like humans do. To avoid this, we would need one super-powerful AI controlling everything, which is not the current path of AI development.
 - [AI text watermarking is not a big deal](https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/) [📖](https://read.readwise.io/read/01m04s5g18xcyze1td1beyjwmw) 👤 seangoedecke.com RSS feed 💬 1500 🗓️ 2026-08-16
     > **Резюме:** AI text watermarking is a small change that does not reduce quality or invade privacy. It helps identify AI-generated text but is not foolproof and is already common in AI outputs. By 2027, all AI labs will use watermarking due to legal requirements like the EU AI Act.
 - [Going Back in Time](https://rselbach.com/blog/2026-08-14-going-back-in-time/) [📖](https://read.readwise.io/read/01m01tq7jffxdm4qtj203sjsjr) 👤 Roberto Selbach 💬 814 🗓️ 2026-08-15
