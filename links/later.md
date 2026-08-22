@@ -1,9 +1,11 @@
 # Отложенные ссылки
 
-- Всего ссылок: 113
+- Всего ссылок: 114
 
 ## Ссылки
 
+- [Readers can't identify watermarked AI text](https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/) [📖](https://read.readwise.io/read/01m0hkn8b9vrqzjz5z0yt8dfjy) 👤 seangoedecke.com RSS feed 💬 758 🗓️ 2026-08-21
+    > **Резюме:** People cannot reliably tell AI-generated text with watermarks from text without watermarks. A quiz showed participants mostly guessed randomly when trying to identify watermarked answers. This suggests watermarking does not harm text quality or make AI outputs easier to spot.
 - [Как собрать AI-контур на VPS: подписки ChatGPT и Claude, OmniRoute, LiteLLM и разработка без VPN](https://habr.com/ru/companies/hostkey/articles/1068632/) [📖](https://read.readwise.io/read/01m0c9ngwpfpz2mjzfzp90seaa) 👤 yakvenalex 💬 7912 🗓️ 2026-08-19
     > **Резюме:** В статье рассказывается, как собрать AI-контур на зарубежном VPS для удобной работы с моделями ChatGPT и Claude. Это позволяет централизованно управлять доступом и обходить региональные ограничения без VPN. Настройка занимает один вечер и подходит для личной разработки и тестов.
 - [Help peer](https://seangoedecke.com/help-peer/) [📖](https://read.readwise.io/read/01m09bqa4ghx28tenfn4jpfj4q) 👤 seangoedecke.com RSS feed 💬 1961 🗓️ 2026-08-18
