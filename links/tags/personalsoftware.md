@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 5
+- Всего ссылок: 6
 
 ## Ссылки
 
+- [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/) [📖](https://read.readwise.io/read/01m0jpd2r265jg17zgjss0mrx8) 👤 Thomas & Erin Ptacek 💬 3081 🔖 #inspiration, #personalsoftware 🗓️ 2026-08-21
+    > **Резюме:** Building native user interfaces is now easier and better than making terminal-based ones. Terminal interfaces are outdated and often harder to use compared to modern native UIs. Everyone should try creating native apps instead of relying on old-style text interfaces.
 - [Revisiting rust and Claude for personal tools](https://blog.korny.info/2026/08/01/revisiting-personal-tools-in-rust-and-claude) [📖](https://read.readwise.io/read/01kyz7dymvn6y6j591ksrsceba) 👤 Korny Sietsma 💬 894 🔖 #personalsoftware 🗓️ 2026-08-01
     > **Резюме:** The author rebuilt his music player tools using Rust and the AI model Claude, making them simpler and more reliable. This new app combines a menu bar widget and URL scheme without messy scripts, showing how AI has improved in coding complex tasks. The project shows that AI now makes personal tool development easier and more accessible than before.
 - [Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)](https://pluralistic.net/2026/07/03/rod-logic/) [📖](https://read.readwise.io/read/01kwkkj31k7rm52caasxw4s2mx) 👤 Cory Doctorow 💬 2912 🔖 #reflections, #personalsoftware 🗓️ 2026-07-03

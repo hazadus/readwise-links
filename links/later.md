@@ -1,9 +1,13 @@
 # Отложенные ссылки
 
-- Всего ссылок: 114
+- Всего ссылок: 116
 
 ## Ссылки
 
+- [You should never be angry at work](https://seangoedecke.com/you-should-never-be-angry-at-work/) [📖](https://read.readwise.io/read/01m0khghx5y0xp5f88sedpa21v) 👤 seangoedecke.com RSS feed 💬 1781 🗓️ 2026-08-22
+    > **Резюме:** Anger at work is harmful because it damages teamwork and communication. Caring about your work is important, but too much anger creates problems. It’s better to stay professional and manage emotions to be effective and respected.
+- [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/) [📖](https://read.readwise.io/read/01m0jpd2r265jg17zgjss0mrx8) 👤 Thomas & Erin Ptacek 💬 3081 🔖 #inspiration, #personalsoftware 🗓️ 2026-08-21
+    > **Резюме:** Building native user interfaces is now easier and better than making terminal-based ones. Terminal interfaces are outdated and often harder to use compared to modern native UIs. Everyone should try creating native apps instead of relying on old-style text interfaces.
 - [Readers can't identify watermarked AI text](https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/) [📖](https://read.readwise.io/read/01m0hkn8b9vrqzjz5z0yt8dfjy) 👤 seangoedecke.com RSS feed 💬 758 🗓️ 2026-08-21
     > **Резюме:** People cannot reliably tell AI-generated text with watermarks from text without watermarks. A quiz showed participants mostly guessed randomly when trying to identify watermarked answers. This suggests watermarking does not harm text quality or make AI outputs easier to spot.
 - [Как собрать AI-контур на VPS: подписки ChatGPT и Claude, OmniRoute, LiteLLM и разработка без VPN](https://habr.com/ru/companies/hostkey/articles/1068632/) [📖](https://read.readwise.io/read/01m0c9ngwpfpz2mjzfzp90seaa) 👤 yakvenalex 💬 7912 🗓️ 2026-08-19

@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 110
+- Всего ссылок: 111
 
 ## Ссылки
 
+- [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/) [📖](https://read.readwise.io/read/01m0jpd2r265jg17zgjss0mrx8) 👤 Thomas & Erin Ptacek 💬 3081 🔖 #inspiration, #personalsoftware 🗓️ 2026-08-21
+    > **Резюме:** Building native user interfaces is now easier and better than making terminal-based ones. Terminal interfaces are outdated and often harder to use compared to modern native UIs. Everyone should try creating native apps instead of relying on old-style text interfaces.
 - [“Code was never the hard part” is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers) [📖](https://read.readwise.io/read/01m07njng4ttm81k4r09fdnx8z) 👤 Senko Rašić 💬 1468 🔖 #inspiration, #llm-devimpact, #softwarecraft 🗓️ 2026-08-17
     > **Заметка:** Полностью согласен с автором! Удивительно, что подобный пост первый. Аргумент coding never was the hard part наитупейший, подхвачен диванными ИИ-питон-«разработчиками», которые сами не написали ни строчки кода, но внезапно стали гуру. 
     > **Резюме:** Coding is hard and requires skill, experience, and care, so saying "code was never the hard part" disrespects programmers. Understanding users and deciding what to build are important, but writing good code is equally valuable. To thrive, programmers must adapt to change, learn broadly, and keep their judgment and empathy sharp.
