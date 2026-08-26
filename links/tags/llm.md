@@ -1,9 +1,11 @@
 # Ссылки
 
-- Всего ссылок: 457
+- Всего ссылок: 458
 
 ## Ссылки
 
+- [Open-weights AI models have become good enough](https://blog.senko.net/open-weights-ai-models-have-become-good-enough?pk_campaign=rss-feed) [📖](https://read.readwise.io/read/01m083cpt8rsmbcf9a6ba3x5mr) 👤 Senko Rašić 💬 697 🔖 #llm 🗓️ 2026-08-17
+    > **Резюме:** Open-weight AI models from China are now good enough for serious coding tasks, matching western models in performance. These open models offer a reliable alternative, avoiding issues like high costs or restrictions from big companies. Although running large models requires expensive hardware today, future tech improvements should make them more accessible.
 - [stop asking writers about "AI"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/) [📖](https://read.readwise.io/read/01kwerfqqszysnhnjdkxyfa3b0) 👤 Benjamin Hollon 💬 1705 🔖 #llm, #writing, #reflections, #llm-resistance 🗓️ 2026-07-01
     > **Заметка:** Via Social Digest 2026-07-01
     > **Резюме:** The author is tired of people asking writers about AI because it makes them feel their work is not valued. They believe AI cannot replace human creativity and that real writers will keep creating no matter what. Instead of asking about AI, people should show interest by asking to read a writer’s work.

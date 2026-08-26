@@ -1,11 +1,13 @@
 # Ссылки
 
-- Всего ссылок: 18
+- Всего ссылок: 19
 
 ## Ссылки
 
 - [I got an email about resistance](https://seangoedecke.com/i-got-an-email-about-resistance/) [📖](https://read.readwise.io/read/01kzj82aeqfq6yjc09m6ms6x0f) 👤 seangoedecke.com RSS feed 💬 1351 🔖 #llm-reality, #llm-devimpact, #llm-resistance 🗓️ 2026-08-09
     > **Резюме:** The author shares an email criticizing his cautious approach to changes in software work and his thoughtful reply explaining why he advises caution. He compares today’s tech shifts to the Industrial Revolution and warns against reckless resistance that can harm careers. The author wants to help engineers navigate change safely rather than encourage risky rebellion.
+- [Rainy Day Thoughts on AI](https://third-bit.com/2026/08/04/rainy-day-thoughts-on-ai/) [📖](https://read.readwise.io/read/01kz7cbh3zs5h4ftzch2e2sf87) 👤 The Third Bit 💬 1039 🔖 #llm-devimpact, #llm-resistance 🗓️ 2026-08-04
+    > **Резюме:** People disagree about AI because it is both useful and unethical. The author feels sad and unsure about how to respond to AI's impact. They want accountability and hope for a better, fairer future with technology.
 - [Pluralistic: AI solipsists and AI cynics (24 Jul 2026)](https://pluralistic.net/2026/07/24/supplemental-income/) [📖](https://read.readwise.io/read/01ky9tgzw0j2hk1ay0mctab2tg) 👤 Cory Doctorow 💬 2293 🔖 #llm-resistance 🗓️ 2026-07-24
     > **Резюме:** AI is not a special technology, but the huge investment bubble around it is harmful and risky. Companies use AI to replace workers with cheaper, less capable chatbots, driven by profit and control, not real progress. When this bubble bursts, it will cause economic damage and environmental harm that will last for years.
 - [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html) [📖](https://read.readwise.io/read/01ky74a5k8e2e18b3svjh0w75r) 👤 Codeberg e.V 💬 2055 🔖 #llm-resistance 🗓️ 2026-07-23

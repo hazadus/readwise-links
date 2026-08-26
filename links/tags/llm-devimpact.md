@@ -1,6 +1,6 @@
 # Ссылки
 
-- Всего ссылок: 166
+- Всего ссылок: 168
 
 ## Ссылки
 
@@ -45,6 +45,8 @@ qfilip
     
 
       This blog is totally free, but if you like it, please consider supporting it.
+- [AIgnostic](https://lewiscampbell.tech/blog/260723) [📖](https://read.readwise.io/read/01kztg7csmxcf33p6t6dr0hp2t) 👤 Lewis Campbell's Blog 💬 231 🔖 #llm-devimpact 🗓️ 2026-08-12
+    > **Резюме:** The author does not take a strong stance on using AI tools for software development. They believe code clarity and quality matter more than the tools used. Everyone should focus on making good software in their own way.
 - [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/) [📖](https://read.readwise.io/read/01kzn9k19m433y2e3wcn77td07) 👤 gruhn.me 💬 248 🔖 #definitions, #llm-devimpact 🗓️ 2026-08-10
     > **Заметка:** Чувак придумал новое определение. Пост стал цитируемым. Пишет по делу, поддерживаю. 
     > **Резюме:** Don't just copy AI answers to others without understanding them first. Read, check, and explain the AI output in your own words to add real value. Otherwise, you become a "meat proxy" who does no real work.
@@ -53,6 +55,8 @@ qfilip
 - [How to keep thinking](https://seangoedecke.com/how-to-keep-thinking/) [📖](https://read.readwise.io/read/01kzdta1q1tq4gtvvcx6wrdept) 👤 seangoedecke.com RSS feed 💬 1077 🔖 #reading, #writing, #llm-devimpact 🗓️ 2026-08-07
     > **Заметка:** Совет хороший, не спорю. Только с чтением пока куда как лучше идёт, чем с написанием отчетов. 
     > **Резюме:** Working with AI tools in 2026 makes work fast and busy, but it reduces time for deep thinking. To keep thinking well, the author suggests reading dense books and writing in your own words. This slow, careful habit helps maintain creativity and solve complex problems that AI cannot handle alone.
+- [Rainy Day Thoughts on AI](https://third-bit.com/2026/08/04/rainy-day-thoughts-on-ai/) [📖](https://read.readwise.io/read/01kz7cbh3zs5h4ftzch2e2sf87) 👤 The Third Bit 💬 1039 🔖 #llm-devimpact, #llm-resistance 🗓️ 2026-08-04
+    > **Резюме:** People disagree about AI because it is both useful and unethical. The author feels sad and unsure about how to respond to AI's impact. They want accountability and hope for a better, fairer future with technology.
 - [Being Linux Torvalds](http://antirez.com/news/171) [📖](https://read.readwise.io/read/01kycg96kdekct59tw2qfg4baq) 👤 <antirez> 💬 1769 🔖 #llm-devimpact 🗓️ 2026-07-25
     > **Заметка:** Не берусь судить, но параллель с ролью Линуса точно любопытная.
     > **Резюме:** (This blog post was adapted from the transcription obtained from my YouTube video at https://www.youtube.com/watch?v=l6lxgYeVZqs)
