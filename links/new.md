@@ -1,9 +1,10 @@
 # Новые ссылки
 
-- Всего ссылок: 963
+- Всего ссылок: 964
 
 ## Ссылки
 
+- [The story of this blog so far: 'AI', the death of web dev, and feeling like an outsider](https://www.baldurbjarnason.com/2026/the-story-of-this-blog-so-far/) [📖](https://read.readwise.io/read/01m1pc9g47ajbkfsd2wcwda4d2) 👤 baldurbjarnason.com 💬 4135 🗓️ 2026-09-04
 - [Responding to geometry changes in SwiftUI](https://nilcoalescing.com/blog/RespondingToGeometryChangesInSwiftUI) [📖](https://read.readwise.io/read/01m07kyeqfde9np4dm97kgarjk) 👤 Nil Coalescing 💬 654 🗓️ 2026-08-17
 - [Creating multi-step animations with PhaseAnimator in SwiftUI](https://nilcoalescing.com/blog/PhaseAnimationsInSwiftUI) [📖](https://read.readwise.io/read/01kzwtyjv03fnxvegnnth3ncz8) 👤 Nil Coalescing 💬 1643 🗓️ 2026-08-13
 - [Alignment guides in SwiftUI](https://nilcoalescing.com/blog/AlignmentGuidesInSwiftUI) [📖](https://read.readwise.io/read/01kz8zg5m03jfxsdb4gt4se4va) 👤 Nil Coalescing 💬 1172 🗓️ 2026-08-05
